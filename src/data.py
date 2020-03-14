@@ -14,15 +14,18 @@ def _read_tokens(corpus_xml):
 
     Returns
     -------
-    dict:
-        dict[str, str], mapping token IDs to raw tokens.
+    tuple:
+        (dict[str, str], dict[str, int]):
+        (1.) mapping of token IDs to raw tokens
+        (2.) mapping of token IDs to positions inside doc
     """
-    id_to_tok = {}
-    for el in corpus_xml.find("tc:tokens", NAMESPACE).findall("tc:token", NAMESPACE):
+    id_to_tok, tok_to_pos = {}, {}
+    for i, el in enumerate(corpus_xml.find("tc:tokens", NAMESPACE).findall("tc:token", NAMESPACE)):
         token_id = el.attrib["ID"]
         token = el.text
         id_to_tok[token_id] = token
-    return id_to_tok
+        tok_to_pos[token_id] = i
+    return id_to_tok, tok_to_pos
 
 
 def _read_sentences(corpus_xml):
@@ -75,11 +78,16 @@ class Document:
     @staticmethod
     def read(file_path):
         curr_doc = ET.parse(file_path).find("tc:TextCorpus", NAMESPACE)
-        tokens = _read_tokens(curr_doc)
+        tokens, positions = _read_tokens(curr_doc)
         sents = _read_sentences(curr_doc)
         mentions, corefs = _read_coreference(curr_doc)
+        # instead of saving all tokens, save start and end position of mentions inside document for easier comparison
+        mapped_mentions = {}
+        for m_id, m_tokens in mentions.items():
+            start_pos = positions[m_tokens[0]]
+            mapped_mentions[m_id] = [start_pos, start_pos + len(m_tokens)]
 
-        return Document(file_path, tokens, sents, mentions, corefs)
+        return Document(file_path, tokens, sents, mapped_mentions, corefs)
 
     def raw_sentences(self):
         """ Returns list of sentences in document. """
