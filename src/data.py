@@ -93,8 +93,8 @@ class Document:
 
 
 def read_corpus(corpus_dir):
-    doc_fnames = [f for f in os.listdir(corpus_dir) if os.path.isfile(os.path.join(DATA_DIR, f)) and f.endswith(".tcf")]
-    return [Document.read(os.path.join(DATA_DIR, curr_fname)) for curr_fname in doc_fnames]
+    doc_fnames = [f for f in os.listdir(corpus_dir) if os.path.isfile(os.path.join(corpus_dir, f)) and f.endswith(".tcf")]
+    return [Document.read(os.path.join(corpus_dir, curr_fname)) for curr_fname in doc_fnames]
 
 
 if __name__ == "__main__":
@@ -102,8 +102,3 @@ if __name__ == "__main__":
     print(f"**Reading data from '{DATA_DIR}'**")
     documents = read_corpus(DATA_DIR)
     print(f"**Read {len(documents)} documents**")
-
-
-
-
-
