@@ -1,3 +1,11 @@
+from collections import Counter
+
+PAD_TOKEN, PAD_ID = "<PAD>", 0
+BOS_TOKEN, BOS_ID = "<BOS>", 1
+EOS_TOKEN, EOS_ID = "<EOS>", 2
+UNK_TOKEN, UNK_ID = "<UNK>", 3
+
+
 def mention_candidates(sentences, width, end=None):
     """ Extracts mention candidates, consisting of `width` tokens, that appear in interval [0, end) of tokens.
     For example, [['This', 'is', 'a', 'sentence']] with width=2 and end=3 returns mentions [0, 2]
@@ -44,6 +52,29 @@ def mention_dataset(doc, width):
                           doc.mentions.values()))
     is_mention = [int((s, e) in mention_set) for s, e in candidates]
     return candidates, is_mention
+
+
+def extract_vocab(documents, top_n=10_000):
+    token_counter = Counter()
+    for curr_doc in documents:
+        curr_sentences = curr_doc.raw_sentences()
+
+        for sent_tokens in curr_sentences:
+            # lowercase tokens to reduce vocabulary size
+            processed = list(map(lambda s: s.lower(), sent_tokens))
+            token_counter += Counter(processed)
+
+    tok2id, id2tok = {}, {}
+    special_tokens = [(PAD_TOKEN, PAD_ID), (BOS_TOKEN, BOS_ID), (EOS_TOKEN, EOS_ID), (UNK_TOKEN, UNK_ID)]
+    for t, i in special_tokens:
+        tok2id[t] = i
+        id2tok[i] = t
+
+    for i, (token, _) in enumerate(token_counter.most_common(top_n), start=len(special_tokens)):
+        tok2id[token] = i
+        id2tok[i] = token
+
+    return tok2id, id2tok
 
 
 if __name__ == "__main__":

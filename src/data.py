@@ -67,6 +67,17 @@ def _read_coreference(corpus_xml):
     return id_to_mentions, coref_clusters
 
 
+# Create a dictionary where each mention points to its antecedent (or the dummy antecedent)
+# e.g. cluster [[1, 2, 3]] gets turned into {1: <dummy>, 2: 1, 3: 2}
+def _coreference_chain(clusters_list):
+    dummy_antecedent = "<DUMMY>"
+    mapped_clusters = {}
+    for curr_cluster in clusters_list:
+        for i, curr_mention in enumerate(curr_cluster):
+            mapped_clusters[curr_mention] = dummy_antecedent if i == 0 else curr_cluster[i - 1]
+    return mapped_clusters
+
+
 class Document:
     def __init__(self, file_name, tokens, sentences, mentions, clusters):
         self.name = file_name  # type: str
@@ -74,6 +85,7 @@ class Document:
         self.sents = sentences  # type: list
         self.mentions = mentions  # type: dict
         self.clusters = clusters  # type: list
+        self.mapped_clusters = _coreference_chain(self.clusters)
 
     @staticmethod
     def read(file_path):
