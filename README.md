@@ -1,5 +1,8 @@
 # nlp-coreference-resolution
 
+# Project structure
+`report/` contains the pdf of our work (WIP).
+
 # Setup
 1. Install dependencies.  
 `$ pip install -r requirements.txt`  
