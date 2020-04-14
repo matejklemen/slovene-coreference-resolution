@@ -1,6 +1,8 @@
 import xml.etree.ElementTree as ET
 import os
 
+from bs4 import BeautifulSoup
+
 NAMESPACE = {"tc": "http://www.dspin.de/data/textcorpus"}
 
 
@@ -79,16 +81,17 @@ def _coreference_chain(clusters_list):
 
 
 class Document:
-    def __init__(self, file_name, tokens, sentences, mentions, clusters):
+    def __init__(self, file_name, tokens, sentences, mentions, clusters, ssj_doc=None):
         self.name = file_name  # type: str
         self.id_to_tok = tokens  # type: dict
         self.sents = sentences  # type: list
         self.mentions = mentions  # type: dict
         self.clusters = clusters  # type: list
         self.mapped_clusters = _coreference_chain(self.clusters)
+        self.ssj_doc = ssj_doc  # type: bs4.element.Tag
 
     @staticmethod
-    def read(file_path):
+    def read(file_path, ssj_soup=None):
         curr_doc = ET.parse(file_path).find("tc:TextCorpus", NAMESPACE)
         tokens, positions = _read_tokens(curr_doc)
         sents = _read_sentences(curr_doc)
@@ -99,7 +102,12 @@ class Document:
             start_pos = positions[m_tokens[0]]
             mapped_mentions[m_id] = [start_pos, start_pos + len(m_tokens)]
 
-        return Document(file_path, tokens, sents, mapped_mentions, corefs)
+        doc_id = file_path.split("/")[-1][:-4]  # = file name without ".tcf"
+        ssj_doc = None
+        if ssj_soup is not None:
+            ssj_doc = ssj_soup.find("p", {"xml:id": doc_id})
+
+        return Document(file_path, tokens, sents, mapped_mentions, corefs, ssj_doc)
 
     def raw_sentences(self):
         """ Returns list of sentences in document. """
@@ -112,13 +120,20 @@ class Document:
         return f"Document('{self.name}', {len(self.id_to_tok)} tokens)"
 
 
-def read_corpus(corpus_dir):
+def read_corpus(corpus_dir, ssj_path=None):
+    ssj_soup = None
+    if ssj_path is not None:
+        with open(ssj_path) as ssj:
+            content = ssj.readlines()
+            content = "".join(content)
+            ssj_soup = BeautifulSoup(content, "lxml")
     doc_fnames = [f for f in os.listdir(corpus_dir) if os.path.isfile(os.path.join(corpus_dir, f)) and f.endswith(".tcf")]
-    return [Document.read(os.path.join(corpus_dir, curr_fname)) for curr_fname in doc_fnames]
+    return [Document.read(os.path.join(corpus_dir, curr_fname), ssj_soup) for curr_fname in doc_fnames]
 
 
 if __name__ == "__main__":
     DATA_DIR = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149"
+    SSJ_PATH = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149/ssj500k-sl.TEI/ssj500k-sl.body.xml"
     print(f"**Reading data from '{DATA_DIR}'**")
-    documents = read_corpus(DATA_DIR)
+    documents = read_corpus(DATA_DIR, SSJ_PATH)
     print(f"**Read {len(documents)} documents**")
