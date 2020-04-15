@@ -89,7 +89,7 @@ class Mention:
         self.positions = positions
 
     def __str__(self):
-        return " ".join(self.raw)
+        return f"Mention(\"{' '.join(self.raw)}\")"
 
 
 class Document:
@@ -105,7 +105,7 @@ class Document:
         self.tok_to_positon = tok_to_position
 
     @staticmethod
-    def read(file_path, ssj_soup):
+    def read(file_path, ssj_doc):
         with open(file_path) as f:
             content = f.readlines()
             content = "".join(content)
@@ -117,8 +117,6 @@ class Document:
         tokens = _read_tokens(soup)
         sents, tok_to_position = _read_sentences(soup)
         mentions, clusters = _read_coreference(soup)
-
-        ssj_doc = ssj_soup.find("p", {"xml:id": doc_id})
 
         # Tokens have different IDs in ssj500k, so remap coref149 style to ssj500k style
         idx_sent_coref, idx_token_coref = 0, 0
@@ -178,14 +176,19 @@ def read_corpus(corpus_dir, ssj_path):
         content = "".join(content)
         ssj_soup = BeautifulSoup(content, "lxml")
 
-    doc_fnames = [f for f in os.listdir(corpus_dir)
-                  if os.path.isfile(os.path.join(corpus_dir, f)) and f.endswith(".tcf")]
-    return [Document.read(os.path.join(corpus_dir, curr_fname), ssj_soup) for curr_fname in doc_fnames]
+    doc_to_soup = {}
+    for curr_soup in ssj_soup.findAll("p"):
+        doc_to_soup[curr_soup["xml:id"]] = curr_soup
+
+    doc_ids = [f[:-4] for f in os.listdir(corpus_dir)
+               if os.path.isfile(os.path.join(corpus_dir, f)) and f.endswith(".tcf")]
+    return [Document.read(os.path.join(corpus_dir, f"{curr_id}.tcf"), doc_to_soup[curr_id]) for curr_id in doc_ids]
 
 
 if __name__ == "__main__":
     DATA_DIR = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149"
     SSJ_PATH = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149/ssj500k-sl.TEI/ssj500k-reduced.xml"
+
     print(f"**Reading data from '{DATA_DIR}'**")
     documents = read_corpus(DATA_DIR, SSJ_PATH)
     print(f"**Read {len(documents)} documents**")
