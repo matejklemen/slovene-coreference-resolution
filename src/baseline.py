@@ -29,6 +29,19 @@ def extract_gender(msd_string):
     return gender
 
 
+def extract_number(msd_string):
+    number = None
+    if msd_string[0] == "S" and len(msd_string) >= 4:  # noun/samostalnik
+        number = msd_string[3]
+    elif msd_string[0] == "G" and len(msd_string) >= 6:  # verb/glagol
+        number = msd_string[5]
+    # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
+    elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 5:
+        number = msd_string[4]
+
+    return number
+
+
 def features_mention(doc, mention):
     """ Extract features for a mention. """
     # bs4 tags (metadata) for mention tokens (<=1 per token, punctuation currently excluded)
@@ -36,8 +49,9 @@ def features_mention(doc, mention):
     # Index in which mention appears
     idx_sent = mention.positions[0][0]
 
-    gender = None  # {None, m, s, z}
-    categories = Counter()  # {S, G, P, Z, ...}
+    gender = None  # {None, 'm', 's', 'z'}
+    number = None  # {None, 'e', 'd', 'm'}
+    categories = Counter()  # {'S', 'G', 'P', 'Z', ...}
     lemmas = []
 
     for obj in mention_objs:
@@ -50,6 +64,12 @@ def features_mention(doc, mention):
             if curr_gender in {"m", "z", "s"}:
                 gender = curr_gender
 
+        # Take number of first token for which it can be determined
+        if number is None:
+            curr_number = extract_gender(morphsyntax)
+            if curr_number in {"e", "d", "m"}:
+                number = curr_number
+
         curr_category = extract_category(morphsyntax)
         categories[curr_category] = categories.get(curr_category, 0) + 1
 
@@ -59,6 +79,7 @@ def features_mention(doc, mention):
         "idx_sent": idx_sent,
         "lemmas": lemmas,
         "gender": gender,
+        "number": number,
         "category": cat
     }
 
@@ -74,16 +95,21 @@ def features_mention_pair(doc, head_mention, cand_mention):
     # Inside same sentence
     is_same_sent = head_features["idx_sent"] == cand_features["idx_sent"]
 
-    # Agreement in most frequent genders (None = can't determine)
+    # Agreement in gender (None = can't determine)
     is_same_gender = None
     if head_features["gender"] is not None and cand_features["gender"] is not None:
         is_same_gender = head_features["gender"] == cand_features["gender"]
+
+    # Agreement in number (None = can't determine)
+    is_same_number = None
+    if head_features["number"] is not None and cand_features["number"] is not None:
+        is_same_number = head_features["number"] == cand_features["number"]
 
     # Not pronouns (these can be written same and refer to different objects) + exact match of lemmas
     str_match = head_features["category"] != "Z" and cand_features["category"] != "Z" and \
                 " ".join(head_features["lemmas"]) == " ".join(cand_features["lemmas"])
 
-    # TODO: transform constructed features into vectors (is_same_gender has 3 categories!)
+    # TODO: transform constructed features into vectors (is_same_gender, is_same_number have 3 categories!)
     # ...
 
     return [int(is_same_sent), int(str_match)]
