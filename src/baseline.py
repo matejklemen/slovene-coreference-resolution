@@ -36,7 +36,7 @@ def features_mention(doc, mention):
     # Index in which mention appears
     idx_sent = mention.positions[0][0]
 
-    genders = Counter()  # {m, z, s, None}
+    gender = None  # {None, m, s, z}
     categories = Counter()  # {S, G, P, Z, ...}
     lemmas = []
 
@@ -44,13 +44,15 @@ def features_mention(doc, mention):
         lemmas.append(obj["lemma"])
         _, morphsyntax = obj["ana"].split(":")
 
-        curr_gender = extract_gender(morphsyntax)
-        curr_category = extract_category(morphsyntax)
+        # Take gender of first token for which it can be determined
+        if gender is None:
+            curr_gender = extract_gender(morphsyntax)
+            if curr_gender in {"m", "z", "s"}:
+                gender = curr_gender
 
-        genders[curr_gender] = genders.get(curr_gender, 0) + 1
+        curr_category = extract_category(morphsyntax)
         categories[curr_category] = categories.get(curr_category, 0) + 1
 
-    gender = genders.most_common(1)[0][0]
     cat = categories.most_common(1)[0][0]
 
     return {
