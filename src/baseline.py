@@ -1,4 +1,5 @@
 import torch
+import os
 
 import numpy as np
 import torch.optim as optim
@@ -115,34 +116,25 @@ def features_mention_pair(doc, head_mention, cand_mention):
     return [int(is_same_sent), int(str_match)]
 
 
-if __name__ == "__main__":
-    DATA_DIR = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149"
-    SSJ_PATH = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149/ssj500k-sl.TEI/ssj500k-reduced.xml"
+def train_doc(model, model_opt, loss, curr_doc, eval_mode=False):
+    """ Trains/evaluates (if `eval_mode` is True) model on specific document.
+        Returns predictions, loss and number of examples evaluated. """
 
-    documents = read_corpus(DATA_DIR, SSJ_PATH)
-    train_docs, dev_docs = documents[: -40], documents[-40: -20]
-    test_docs = documents[-20:]
-
-    curr_doc = train_docs[0]
-
-    NUM_FEATURES = 2
-
-    model = nn.Linear(2, 1)
-    model_optimizer = optim.SGD(model.parameters(), lr=0.01)
-    loss = nn.CrossEntropyLoss()
+    if len(curr_doc.mentions) == 0:
+        return [], (0.0, 0)
 
     sorted_mentions = sorted(curr_doc.mentions.items(), key=lambda tup: (tup[1].positions[0][0],  # sentence
                                                                          tup[1].positions[0][1],  # start pos
                                                                          tup[1].positions[-1][1]))  # end pos
+    doc_loss, n_examples = 0.0, 0
+    preds = []
 
     for idx_head, (head_id, head_mention) in enumerate(sorted_mentions, 1):
         model.zero_grad()
-        print(f"**Mention '{head_id}': {head_mention}**")
         gt_antecedent_id = curr_doc.mapped_clusters[head_id]
 
         # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
-        candidates = [None]
-        features = []
+        candidates, features = [None], []
         gt_antecedent = torch.tensor([0])
         for idx_candidate, (cand_id, cand_mention) in enumerate(sorted_mentions, 1):
             if cand_id == gt_antecedent_id:
@@ -153,20 +145,85 @@ if __name__ == "__main__":
                 if len(features) > 0:
                     features = torch.tensor(np.array(features, dtype=np.float32))
                     cand_scores = model(features)
-                    cand_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
+                    cand_scores = torch.softmax(torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0),
+                                                dim=-1)
 
-                    prediction = torch.argmax(cand_scores)
+                    curr_pred = torch.argmax(cand_scores)
 
                     curr_loss = loss(cand_scores, gt_antecedent)
-                    curr_loss.backward()
-                    model_optimizer.step()
-                else:
-                    prediction = 0
+                    doc_loss += float(curr_loss)
+                    n_examples += 1
 
+                    if not eval_mode:
+                        curr_loss.backward()
+                        model_opt.step()
+                else:
+                    # only one candidate antecedent = first mention
+                    curr_pred = 0
+
+                preds.append({
+                    "mention_id": head_id,
+                    "antecedent_id": candidates[int(curr_pred)]
+                })
                 break
             else:
                 # add current mention as candidate
-                mention_pair = (cand_id, head_id)
-                print(f"**Processing {mention_pair} as a candidate**")
-
+                candidates.append(cand_id)
                 features.append(features_mention_pair(curr_doc, head_mention, cand_mention))
+
+    return preds, (doc_loss, n_examples)
+
+
+if __name__ == "__main__":
+    DATA_DIR = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149"
+    SSJ_PATH = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149/ssj500k-sl.TEI/ssj500k-reduced.xml"
+    # Note: if you don't want to save model, set this to "" or None
+    MODEL_SAVE_DIR = "baseline_model"
+    if MODEL_SAVE_DIR and not os.path.exists(MODEL_SAVE_DIR):
+        print(f"**Created directory '{MODEL_SAVE_DIR}' for saving model**")
+        os.makedirs(MODEL_SAVE_DIR)
+
+    documents = read_corpus(DATA_DIR, SSJ_PATH)
+    train_docs, dev_docs = documents[: -40], documents[-40: -20]
+    test_docs = documents[-20:]
+
+    NUM_EPOCHS = 2
+    NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+
+    model = nn.Linear(NUM_FEATURES, 1)
+    model_optimizer = optim.SGD(model.parameters(), lr=0.01)
+    loss = nn.CrossEntropyLoss()
+    best_dev_loss = float("inf")
+
+    for idx_epoch in range(NUM_EPOCHS):
+        print(f"[EPOCH {1 + idx_epoch}]")
+
+        shuffle_indices = torch.randperm(len(train_docs))
+        model.train()
+        # Train loop
+        train_loss, train_examples = 0.0, 0
+        for idx_doc in shuffle_indices:
+            curr_doc = train_docs[idx_doc]
+            preds, (doc_loss, n_examples) = train_doc(model, model_optimizer, loss, curr_doc)
+            train_loss += doc_loss
+            train_examples += n_examples
+
+        model.eval()
+        # Validation loop
+        dev_loss, dev_examples = 0.0, 0
+        for curr_doc in dev_docs:
+            _, (doc_loss, n_examples) = train_doc(model, model_optimizer, loss, curr_doc, eval_mode=True)
+            dev_loss += doc_loss
+            dev_examples += n_examples
+
+        print(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
+        print(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
+
+        if (dev_loss / dev_examples) < best_dev_loss:
+            print(f"**Saving new best model to '{MODEL_SAVE_DIR}'**")
+            torch.save(model.state_dict(), os.path.join(MODEL_SAVE_DIR, 'best.th'))
+
+        print("-------------------")
+
+    # TODO: test set prediction, form clusters, evaluate using MUC/Bcubed/CEAFe (and/or - if possible, all of these)
+    # ...
