@@ -48,6 +48,14 @@ Example command for project structure above:
 python ./src/trim_ssj.py --coref149_dir="databases" --ssj500k_path="./databases/ssj500k-sl.TEI/ssj500k-sl.body.xml --target_path="./databases/ssj500k-sl.TEI/ssj500k-reduced.xml"
 ```
 
+To run the baseline model (with hand-crafted features), run `baseline.py`. Make sure to change paths in there first
+(to the paths where you have the datasets stored).
+```bash
+$ cd src
+$ python baseline.py
+
+```
+
 TBD additional steps as more things get added.
 
 # Dev notes
