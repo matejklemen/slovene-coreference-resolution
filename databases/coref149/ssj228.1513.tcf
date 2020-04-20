@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>V čezsoških hlevih ni hujših poškodb .
+Sicer pa imajo dandanes govejo živino le še pri treh domačijah , pri Arneju , pri Jakobu in pri Manču .
+Pri Manču imajo nov hlev od leta 1983 , v njem imajo urejeno izplakovanje gnoja , seno jim balira kmet iz Trnovega , redijo pa štiri plemenske telice , par koz in eno molzno kravo .
+Le - ta je na planinski paši na planini Božca na Kobariškem Stolu , telice pa se pasejo na bližnjih pašnikih .
+Še do leta 1965 so v spodnjem delu Čezsoče kmetje imeli okrog 75 glav goveje živine , kot kaže , pa je zaslužek boljši v industriji in turizmu kot pa v kmetijstvu , čeprav je v Čezsoči veliko ravnih površin .
+Še leta 1967 so v vaški mlekarni iz dveh molž natočili 1,7 tone mleka , danes pa niti enega litra .
+Že pet let v vasi ni zbiralnice mleka .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">V</tc:token>
+      <tc:token ID="t_1">čezsoških</tc:token>
+      <tc:token ID="t_2">hlevih</tc:token>
+      <tc:token ID="t_3">ni</tc:token>
+      <tc:token ID="t_4">hujših</tc:token>
+      <tc:token ID="t_5">poškodb</tc:token>
+      <tc:token ID="t_6">.</tc:token>
+      <tc:token ID="t_7">Sicer</tc:token>
+      <tc:token ID="t_8">pa</tc:token>
+      <tc:token ID="t_9">imajo</tc:token>
+      <tc:token ID="t_10">dandanes</tc:token>
+      <tc:token ID="t_11">govejo</tc:token>
+      <tc:token ID="t_12">živino</tc:token>
+      <tc:token ID="t_13">le</tc:token>
+      <tc:token ID="t_14">še</tc:token>
+      <tc:token ID="t_15">pri</tc:token>
+      <tc:token ID="t_16">treh</tc:token>
+      <tc:token ID="t_17">domačijah</tc:token>
+      <tc:token ID="t_18">,</tc:token>
+      <tc:token ID="t_19">pri</tc:token>
+      <tc:token ID="t_20">Arneju</tc:token>
+      <tc:token ID="t_21">,</tc:token>
+      <tc:token ID="t_22">pri</tc:token>
+      <tc:token ID="t_23">Jakobu</tc:token>
+      <tc:token ID="t_24">in</tc:token>
+      <tc:token ID="t_25">pri</tc:token>
+      <tc:token ID="t_26">Manču</tc:token>
+      <tc:token ID="t_27">.</tc:token>
+      <tc:token ID="t_28">Pri</tc:token>
+      <tc:token ID="t_29">Manču</tc:token>
+      <tc:token ID="t_30">imajo</tc:token>
+      <tc:token ID="t_31">nov</tc:token>
+      <tc:token ID="t_32">hlev</tc:token>
+      <tc:token ID="t_33">od</tc:token>
+      <tc:token ID="t_34">leta</tc:token>
+      <tc:token ID="t_35">1983</tc:token>
+      <tc:token ID="t_36">,</tc:token>
+      <tc:token ID="t_37">v</tc:token>
+      <tc:token ID="t_38">njem</tc:token>
+      <tc:token ID="t_39">imajo</tc:token>
+      <tc:token ID="t_40">urejeno</tc:token>
+      <tc:token ID="t_41">izplakovanje</tc:token>
+      <tc:token ID="t_42">gnoja</tc:token>
+      <tc:token ID="t_43">,</tc:token>
+      <tc:token ID="t_44">seno</tc:token>
+      <tc:token ID="t_45">jim</tc:token>
+      <tc:token ID="t_46">balira</tc:token>
+      <tc:token ID="t_47">kmet</tc:token>
+      <tc:token ID="t_48">iz</tc:token>
+      <tc:token ID="t_49">Trnovega</tc:token>
+      <tc:token ID="t_50">,</tc:token>
+      <tc:token ID="t_51">redijo</tc:token>
+      <tc:token ID="t_52">pa</tc:token>
+      <tc:token ID="t_53">štiri</tc:token>
+      <tc:token ID="t_54">plemenske</tc:token>
+      <tc:token ID="t_55">telice</tc:token>
+      <tc:token ID="t_56">,</tc:token>
+      <tc:token ID="t_57">par</tc:token>
+      <tc:token ID="t_58">koz</tc:token>
+      <tc:token ID="t_59">in</tc:token>
+      <tc:token ID="t_60">eno</tc:token>
+      <tc:token ID="t_61">molzno</tc:token>
+      <tc:token ID="t_62">kravo</tc:token>
+      <tc:token ID="t_63">.</tc:token>
+      <tc:token ID="t_64">Le</tc:token>
+      <tc:token ID="t_65">-</tc:token>
+      <tc:token ID="t_66">ta</tc:token>
+      <tc:token ID="t_67">je</tc:token>
+      <tc:token ID="t_68">na</tc:token>
+      <tc:token ID="t_69">planinski</tc:token>
+      <tc:token ID="t_70">paši</tc:token>
+      <tc:token ID="t_71">na</tc:token>
+      <tc:token ID="t_72">planini</tc:token>
+      <tc:token ID="t_73">Božca</tc:token>
+      <tc:token ID="t_74">na</tc:token>
+      <tc:token ID="t_75">Kobariškem</tc:token>
+      <tc:token ID="t_76">Stolu</tc:token>
+      <tc:token ID="t_77">,</tc:token>
+      <tc:token ID="t_78">telice</tc:token>
+      <tc:token ID="t_79">pa</tc:token>
+      <tc:token ID="t_80">se</tc:token>
+      <tc:token ID="t_81">pasejo</tc:token>
+      <tc:token ID="t_82">na</tc:token>
+      <tc:token ID="t_83">bližnjih</tc:token>
+      <tc:token ID="t_84">pašnikih</tc:token>
+      <tc:token ID="t_85">.</tc:token>
+      <tc:token ID="t_86">Še</tc:token>
+      <tc:token ID="t_87">do</tc:token>
+      <tc:token ID="t_88">leta</tc:token>
+      <tc:token ID="t_89">1965</tc:token>
+      <tc:token ID="t_90">so</tc:token>
+      <tc:token ID="t_91">v</tc:token>
+      <tc:token ID="t_92">spodnjem</tc:token>
+      <tc:token ID="t_93">delu</tc:token>
+      <tc:token ID="t_94">Čezsoče</tc:token>
+      <tc:token ID="t_95">kmetje</tc:token>
+      <tc:token ID="t_96">imeli</tc:token>
+      <tc:token ID="t_97">okrog</tc:token>
+      <tc:token ID="t_98">75</tc:token>
+      <tc:token ID="t_99">glav</tc:token>
+      <tc:token ID="t_100">goveje</tc:token>
+      <tc:token ID="t_101">živine</tc:token>
+      <tc:token ID="t_102">,</tc:token>
+      <tc:token ID="t_103">kot</tc:token>
+      <tc:token ID="t_104">kaže</tc:token>
+      <tc:token ID="t_105">,</tc:token>
+      <tc:token ID="t_106">pa</tc:token>
+      <tc:token ID="t_107">je</tc:token>
+      <tc:token ID="t_108">zaslužek</tc:token>
+      <tc:token ID="t_109">boljši</tc:token>
+      <tc:token ID="t_110">v</tc:token>
+      <tc:token ID="t_111">industriji</tc:token>
+      <tc:token ID="t_112">in</tc:token>
+      <tc:token ID="t_113">turizmu</tc:token>
+      <tc:token ID="t_114">kot</tc:token>
+      <tc:token ID="t_115">pa</tc:token>
+      <tc:token ID="t_116">v</tc:token>
+      <tc:token ID="t_117">kmetijstvu</tc:token>
+      <tc:token ID="t_118">,</tc:token>
+      <tc:token ID="t_119">čeprav</tc:token>
+      <tc:token ID="t_120">je</tc:token>
+      <tc:token ID="t_121">v</tc:token>
+      <tc:token ID="t_122">Čezsoči</tc:token>
+      <tc:token ID="t_123">veliko</tc:token>
+      <tc:token ID="t_124">ravnih</tc:token>
+      <tc:token ID="t_125">površin</tc:token>
+      <tc:token ID="t_126">.</tc:token>
+      <tc:token ID="t_127">Še</tc:token>
+      <tc:token ID="t_128">leta</tc:token>
+      <tc:token ID="t_129">1967</tc:token>
+      <tc:token ID="t_130">so</tc:token>
+      <tc:token ID="t_131">v</tc:token>
+      <tc:token ID="t_132">vaški</tc:token>
+      <tc:token ID="t_133">mlekarni</tc:token>
+      <tc:token ID="t_134">iz</tc:token>
+      <tc:token ID="t_135">dveh</tc:token>
+      <tc:token ID="t_136">molž</tc:token>
+      <tc:token ID="t_137">natočili</tc:token>
+      <tc:token ID="t_138">1,7</tc:token>
+      <tc:token ID="t_139">tone</tc:token>
+      <tc:token ID="t_140">mleka</tc:token>
+      <tc:token ID="t_141">,</tc:token>
+      <tc:token ID="t_142">danes</tc:token>
+      <tc:token ID="t_143">pa</tc:token>
+      <tc:token ID="t_144">niti</tc:token>
+      <tc:token ID="t_145">enega</tc:token>
+      <tc:token ID="t_146">litra</tc:token>
+      <tc:token ID="t_147">.</tc:token>
+      <tc:token ID="t_148">Že</tc:token>
+      <tc:token ID="t_149">pet</tc:token>
+      <tc:token ID="t_150">let</tc:token>
+      <tc:token ID="t_151">v</tc:token>
+      <tc:token ID="t_152">vasi</tc:token>
+      <tc:token ID="t_153">ni</tc:token>
+      <tc:token ID="t_154">zbiralnice</tc:token>
+      <tc:token ID="t_155">mleka</tc:token>
+      <tc:token ID="t_156">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6"></tc:sentence>
+      <tc:sentence tokenIDs="t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27"></tc:sentence>
+      <tc:sentence tokenIDs="t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63"></tc:sentence>
+      <tc:sentence tokenIDs="t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85"></tc:sentence>
+      <tc:sentence tokenIDs="t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126"></tc:sentence>
+      <tc:sentence tokenIDs="t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136 t_137 t_138 t_139 t_140 t_141 t_142 t_143 t_144 t_145 t_146 t_147"></tc:sentence>
+      <tc:sentence tokenIDs="t_148 t_149 t_150 t_151 t_152 t_153 t_154 t_155 t_156"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" tokenIDs="t_20"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_1" tokenIDs="t_23"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" target="rc_3" tokenIDs="t_26"></tc:reference>
+        <tc:reference ID="rc_3" tokenIDs="t_29"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" tokenIDs="t_49"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" target="rc_6" tokenIDs="t_1"></tc:reference>
+        <tc:reference ID="rc_6" target="rc_7" tokenIDs="t_94"></tc:reference>
+        <tc:reference ID="rc_7" target="rc_8" tokenIDs="t_122"></tc:reference>
+        <tc:reference ID="rc_8" target="rc_9" tokenIDs="t_132"></tc:reference>
+        <tc:reference ID="rc_9" tokenIDs="t_152"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" tokenIDs="t_73"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" tokenIDs="t_75 t_76"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

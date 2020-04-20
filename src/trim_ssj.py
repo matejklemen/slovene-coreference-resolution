@@ -18,7 +18,7 @@ if __name__ == "__main__":
                     if os.path.isfile(os.path.join(corpus_dir, f)) and f.endswith(".tcf")]
 
     print(f"**Reading SSJ500k corpus from {args.ssj500k_path}**")
-    with open(args.ssj500k_path) as ssj:
+    with open(args.ssj500k_path, encoding="utf8") as ssj:
         content = ssj.readlines()
         content = "".join(content)
         soup = BeautifulSoup(content, "lxml")
@@ -35,5 +35,5 @@ if __name__ == "__main__":
         target_path = args.ssj500k_path
 
     print(f"**Saving reduced SSJ500k dataset to {target_path}**")
-    with open(target_path, "w") as f_target:
+    with open(target_path, "w", encoding="utf8") as f_target:
         f_target.write(str(soup))

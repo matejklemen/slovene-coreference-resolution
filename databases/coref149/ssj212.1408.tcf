@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Ameriška igralka Cameron Diaz je za filmsko revijo Variety povedala , da je pripravljena ponovno prevzeti vlogo Charlijevega angelčka v nadaljevanju te filmske uspešnice , a le za plačilo v višini 20 milijonov dolarjev .
+Do zdaj je med igralkami v Hollywoodu toliko denarja za eno vlogo prejela le Julia Roberts .
+Od treh lepotic iz prvega dela filma Charlijevi angelčki je na vlogo v nadaljevanju do zdaj pristala le Drew Barrymore , medtem ko se Lucy Liu še vedno pogaja .
+Nadaljevanje filma naj bi v ameriških kinematografih začeli predvajati prihodnje poletje .
+Tržna vrednost Cameron Diaz se je v minulih mesecih močno dvignila , saj jo bo v prihodnje mogoče videti v filmu Vanilijevo nebo ( Vanilla Sky ) ob Tomu Cruisu in v filmu Newyorške bande ( Gangs of New York ) ameriškega režiserja Martina Scorseseja .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Ameriška</tc:token>
+      <tc:token ID="t_1">igralka</tc:token>
+      <tc:token ID="t_2">Cameron</tc:token>
+      <tc:token ID="t_3">Diaz</tc:token>
+      <tc:token ID="t_4">je</tc:token>
+      <tc:token ID="t_5">za</tc:token>
+      <tc:token ID="t_6">filmsko</tc:token>
+      <tc:token ID="t_7">revijo</tc:token>
+      <tc:token ID="t_8">Variety</tc:token>
+      <tc:token ID="t_9">povedala</tc:token>
+      <tc:token ID="t_10">,</tc:token>
+      <tc:token ID="t_11">da</tc:token>
+      <tc:token ID="t_12">je</tc:token>
+      <tc:token ID="t_13">pripravljena</tc:token>
+      <tc:token ID="t_14">ponovno</tc:token>
+      <tc:token ID="t_15">prevzeti</tc:token>
+      <tc:token ID="t_16">vlogo</tc:token>
+      <tc:token ID="t_17">Charlijevega</tc:token>
+      <tc:token ID="t_18">angelčka</tc:token>
+      <tc:token ID="t_19">v</tc:token>
+      <tc:token ID="t_20">nadaljevanju</tc:token>
+      <tc:token ID="t_21">te</tc:token>
+      <tc:token ID="t_22">filmske</tc:token>
+      <tc:token ID="t_23">uspešnice</tc:token>
+      <tc:token ID="t_24">,</tc:token>
+      <tc:token ID="t_25">a</tc:token>
+      <tc:token ID="t_26">le</tc:token>
+      <tc:token ID="t_27">za</tc:token>
+      <tc:token ID="t_28">plačilo</tc:token>
+      <tc:token ID="t_29">v</tc:token>
+      <tc:token ID="t_30">višini</tc:token>
+      <tc:token ID="t_31">20</tc:token>
+      <tc:token ID="t_32">milijonov</tc:token>
+      <tc:token ID="t_33">dolarjev</tc:token>
+      <tc:token ID="t_34">.</tc:token>
+      <tc:token ID="t_35">Do</tc:token>
+      <tc:token ID="t_36">zdaj</tc:token>
+      <tc:token ID="t_37">je</tc:token>
+      <tc:token ID="t_38">med</tc:token>
+      <tc:token ID="t_39">igralkami</tc:token>
+      <tc:token ID="t_40">v</tc:token>
+      <tc:token ID="t_41">Hollywoodu</tc:token>
+      <tc:token ID="t_42">toliko</tc:token>
+      <tc:token ID="t_43">denarja</tc:token>
+      <tc:token ID="t_44">za</tc:token>
+      <tc:token ID="t_45">eno</tc:token>
+      <tc:token ID="t_46">vlogo</tc:token>
+      <tc:token ID="t_47">prejela</tc:token>
+      <tc:token ID="t_48">le</tc:token>
+      <tc:token ID="t_49">Julia</tc:token>
+      <tc:token ID="t_50">Roberts</tc:token>
+      <tc:token ID="t_51">.</tc:token>
+      <tc:token ID="t_52">Od</tc:token>
+      <tc:token ID="t_53">treh</tc:token>
+      <tc:token ID="t_54">lepotic</tc:token>
+      <tc:token ID="t_55">iz</tc:token>
+      <tc:token ID="t_56">prvega</tc:token>
+      <tc:token ID="t_57">dela</tc:token>
+      <tc:token ID="t_58">filma</tc:token>
+      <tc:token ID="t_59">Charlijevi</tc:token>
+      <tc:token ID="t_60">angelčki</tc:token>
+      <tc:token ID="t_61">je</tc:token>
+      <tc:token ID="t_62">na</tc:token>
+      <tc:token ID="t_63">vlogo</tc:token>
+      <tc:token ID="t_64">v</tc:token>
+      <tc:token ID="t_65">nadaljevanju</tc:token>
+      <tc:token ID="t_66">do</tc:token>
+      <tc:token ID="t_67">zdaj</tc:token>
+      <tc:token ID="t_68">pristala</tc:token>
+      <tc:token ID="t_69">le</tc:token>
+      <tc:token ID="t_70">Drew</tc:token>
+      <tc:token ID="t_71">Barrymore</tc:token>
+      <tc:token ID="t_72">,</tc:token>
+      <tc:token ID="t_73">medtem</tc:token>
+      <tc:token ID="t_74">ko</tc:token>
+      <tc:token ID="t_75">se</tc:token>
+      <tc:token ID="t_76">Lucy</tc:token>
+      <tc:token ID="t_77">Liu</tc:token>
+      <tc:token ID="t_78">še</tc:token>
+      <tc:token ID="t_79">vedno</tc:token>
+      <tc:token ID="t_80">pogaja</tc:token>
+      <tc:token ID="t_81">.</tc:token>
+      <tc:token ID="t_82">Nadaljevanje</tc:token>
+      <tc:token ID="t_83">filma</tc:token>
+      <tc:token ID="t_84">naj</tc:token>
+      <tc:token ID="t_85">bi</tc:token>
+      <tc:token ID="t_86">v</tc:token>
+      <tc:token ID="t_87">ameriških</tc:token>
+      <tc:token ID="t_88">kinematografih</tc:token>
+      <tc:token ID="t_89">začeli</tc:token>
+      <tc:token ID="t_90">predvajati</tc:token>
+      <tc:token ID="t_91">prihodnje</tc:token>
+      <tc:token ID="t_92">poletje</tc:token>
+      <tc:token ID="t_93">.</tc:token>
+      <tc:token ID="t_94">Tržna</tc:token>
+      <tc:token ID="t_95">vrednost</tc:token>
+      <tc:token ID="t_96">Cameron</tc:token>
+      <tc:token ID="t_97">Diaz</tc:token>
+      <tc:token ID="t_98">se</tc:token>
+      <tc:token ID="t_99">je</tc:token>
+      <tc:token ID="t_100">v</tc:token>
+      <tc:token ID="t_101">minulih</tc:token>
+      <tc:token ID="t_102">mesecih</tc:token>
+      <tc:token ID="t_103">močno</tc:token>
+      <tc:token ID="t_104">dvignila</tc:token>
+      <tc:token ID="t_105">,</tc:token>
+      <tc:token ID="t_106">saj</tc:token>
+      <tc:token ID="t_107">jo</tc:token>
+      <tc:token ID="t_108">bo</tc:token>
+      <tc:token ID="t_109">v</tc:token>
+      <tc:token ID="t_110">prihodnje</tc:token>
+      <tc:token ID="t_111">mogoče</tc:token>
+      <tc:token ID="t_112">videti</tc:token>
+      <tc:token ID="t_113">v</tc:token>
+      <tc:token ID="t_114">filmu</tc:token>
+      <tc:token ID="t_115">Vanilijevo</tc:token>
+      <tc:token ID="t_116">nebo</tc:token>
+      <tc:token ID="t_117">(</tc:token>
+      <tc:token ID="t_118">Vanilla</tc:token>
+      <tc:token ID="t_119">Sky</tc:token>
+      <tc:token ID="t_120">)</tc:token>
+      <tc:token ID="t_121">ob</tc:token>
+      <tc:token ID="t_122">Tomu</tc:token>
+      <tc:token ID="t_123">Cruisu</tc:token>
+      <tc:token ID="t_124">in</tc:token>
+      <tc:token ID="t_125">v</tc:token>
+      <tc:token ID="t_126">filmu</tc:token>
+      <tc:token ID="t_127">Newyorške</tc:token>
+      <tc:token ID="t_128">bande</tc:token>
+      <tc:token ID="t_129">(</tc:token>
+      <tc:token ID="t_130">Gangs</tc:token>
+      <tc:token ID="t_131">of</tc:token>
+      <tc:token ID="t_132">New</tc:token>
+      <tc:token ID="t_133">York</tc:token>
+      <tc:token ID="t_134">)</tc:token>
+      <tc:token ID="t_135">ameriškega</tc:token>
+      <tc:token ID="t_136">režiserja</tc:token>
+      <tc:token ID="t_137">Martina</tc:token>
+      <tc:token ID="t_138">Scorseseja</tc:token>
+      <tc:token ID="t_139">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34"></tc:sentence>
+      <tc:sentence tokenIDs="t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51"></tc:sentence>
+      <tc:sentence tokenIDs="t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81"></tc:sentence>
+      <tc:sentence tokenIDs="t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93"></tc:sentence>
+      <tc:sentence tokenIDs="t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136 t_137 t_138 t_139"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" target="rc_1" tokenIDs="t_6 t_7 t_8"></tc:reference>
+        <tc:reference ID="rc_1" tokenIDs="t_8"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" tokenIDs="t_41"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" tokenIDs="t_49 t_50"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" target="rc_5" tokenIDs="t_17"></tc:reference>
+        <tc:reference ID="rc_5" tokenIDs="t_59"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" tokenIDs="t_70 t_71"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" tokenIDs="t_76 t_77"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" target="rc_9" tokenIDs="t_0 t_1 t_2 t_3"></tc:reference>
+        <tc:reference ID="rc_9" target="rc_10" tokenIDs="t_2 t_3"></tc:reference>
+        <tc:reference ID="rc_10" tokenIDs="t_96 t_97"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" tokenIDs="t_122 t_123"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_12" tokenIDs="t_137 t_138"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_13" target="rc_14" tokenIDs="t_127"></tc:reference>
+        <tc:reference ID="rc_14" tokenIDs="t_132 t_133"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_15" target="rc_16" tokenIDs="t_0"></tc:reference>
+        <tc:reference ID="rc_16" tokenIDs="t_135"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

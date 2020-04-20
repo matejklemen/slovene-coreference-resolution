@@ -5,6 +5,11 @@ from bs4 import BeautifulSoup
 
 DUMMY_ANTECEDENT = None
 
+#####################
+# GLOBAL PARAMETERS
+#####################
+DATA_DIR = "./databases/coref149"
+SSJ_PATH = "/databases/ssj500k-sl.TEI/ssj500k-reduced.xml"
 
 def _read_tokens(corpus_soup):
     """ Obtain all tokens in current document.
@@ -106,7 +111,7 @@ class Document:
 
     @staticmethod
     def read(file_path, ssj_doc):
-        with open(file_path) as f:
+        with open(file_path, encoding="utf8") as f:
             content = f.readlines()
             content = "".join(content)
             soup = BeautifulSoup(content, "lxml").find("tc:textcorpus")
@@ -171,7 +176,8 @@ class Document:
 
 
 def read_corpus(corpus_dir, ssj_path):
-    with open(ssj_path) as ssj:
+    print(f"**Reading data from '{ssj_path}'**")
+    with open(ssj_path, encoding="utf8") as ssj:
         content = ssj.readlines()
         content = "".join(content)
         ssj_soup = BeautifulSoup(content, "lxml")
@@ -186,9 +192,4 @@ def read_corpus(corpus_dir, ssj_path):
 
 
 if __name__ == "__main__":
-    DATA_DIR = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149"
-    SSJ_PATH = "/home/matej/Documents/mag/2-letnik/obdelava_naravnega_jezika/coref149/ssj500k-sl.TEI/ssj500k-reduced.xml"
-
-    print(f"**Reading data from '{DATA_DIR}'**")
     documents = read_corpus(DATA_DIR, SSJ_PATH)
-    print(f"**Read {len(documents)} documents**")

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>V letih 1907 - 1910 , ko je bil Župančič domači učitelj grofiču Manfredu Attemsu na Nemškem in v Vorarlbergu , se je njegova pozornost vnovič usmerila k mladinski literaturi . V tem času je prevedel Kreidolfovo prozo s podobami » Palčki Poljanci « ; snoval izvirne stihe za » Abecedo « , ki naj bi se jim pridružile izvirne slike ; samostojno obdelal Meisejeve verze s podobami Casparijeve » Lahkih nog naokrog « ; graškemu prof. Karlu Štreklju poslal za zbirko » Slovenske narodne pesmi « vrsto otroških nagajivk , ki jih je poznal iz Dragatuša in Vinice .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">V</tc:token>
+      <tc:token ID="t_1">letih</tc:token>
+      <tc:token ID="t_2">1907</tc:token>
+      <tc:token ID="t_3">-</tc:token>
+      <tc:token ID="t_4">1910</tc:token>
+      <tc:token ID="t_5">,</tc:token>
+      <tc:token ID="t_6">ko</tc:token>
+      <tc:token ID="t_7">je</tc:token>
+      <tc:token ID="t_8">bil</tc:token>
+      <tc:token ID="t_9">Župančič</tc:token>
+      <tc:token ID="t_10">domači</tc:token>
+      <tc:token ID="t_11">učitelj</tc:token>
+      <tc:token ID="t_12">grofiču</tc:token>
+      <tc:token ID="t_13">Manfredu</tc:token>
+      <tc:token ID="t_14">Attemsu</tc:token>
+      <tc:token ID="t_15">na</tc:token>
+      <tc:token ID="t_16">Nemškem</tc:token>
+      <tc:token ID="t_17">in</tc:token>
+      <tc:token ID="t_18">v</tc:token>
+      <tc:token ID="t_19">Vorarlbergu</tc:token>
+      <tc:token ID="t_20">,</tc:token>
+      <tc:token ID="t_21">se</tc:token>
+      <tc:token ID="t_22">je</tc:token>
+      <tc:token ID="t_23">njegova</tc:token>
+      <tc:token ID="t_24">pozornost</tc:token>
+      <tc:token ID="t_25">vnovič</tc:token>
+      <tc:token ID="t_26">usmerila</tc:token>
+      <tc:token ID="t_27">k</tc:token>
+      <tc:token ID="t_28">mladinski</tc:token>
+      <tc:token ID="t_29">literaturi</tc:token>
+      <tc:token ID="t_30">.</tc:token>
+      <tc:token ID="t_31">V</tc:token>
+      <tc:token ID="t_32">tem</tc:token>
+      <tc:token ID="t_33">času</tc:token>
+      <tc:token ID="t_34">je</tc:token>
+      <tc:token ID="t_35">prevedel</tc:token>
+      <tc:token ID="t_36">Kreidolfovo</tc:token>
+      <tc:token ID="t_37">prozo</tc:token>
+      <tc:token ID="t_38">s</tc:token>
+      <tc:token ID="t_39">podobami</tc:token>
+      <tc:token ID="t_40">»</tc:token>
+      <tc:token ID="t_41">Palčki</tc:token>
+      <tc:token ID="t_42">Poljanci</tc:token>
+      <tc:token ID="t_43">«</tc:token>
+      <tc:token ID="t_44">;</tc:token>
+      <tc:token ID="t_45">snoval</tc:token>
+      <tc:token ID="t_46">izvirne</tc:token>
+      <tc:token ID="t_47">stihe</tc:token>
+      <tc:token ID="t_48">za</tc:token>
+      <tc:token ID="t_49">»</tc:token>
+      <tc:token ID="t_50">Abecedo</tc:token>
+      <tc:token ID="t_51">«</tc:token>
+      <tc:token ID="t_52">,</tc:token>
+      <tc:token ID="t_53">ki</tc:token>
+      <tc:token ID="t_54">naj</tc:token>
+      <tc:token ID="t_55">bi</tc:token>
+      <tc:token ID="t_56">se</tc:token>
+      <tc:token ID="t_57">jim</tc:token>
+      <tc:token ID="t_58">pridružile</tc:token>
+      <tc:token ID="t_59">izvirne</tc:token>
+      <tc:token ID="t_60">slike</tc:token>
+      <tc:token ID="t_61">;</tc:token>
+      <tc:token ID="t_62">samostojno</tc:token>
+      <tc:token ID="t_63">obdelal</tc:token>
+      <tc:token ID="t_64">Meisejeve</tc:token>
+      <tc:token ID="t_65">verze</tc:token>
+      <tc:token ID="t_66">s</tc:token>
+      <tc:token ID="t_67">podobami</tc:token>
+      <tc:token ID="t_68">Casparijeve</tc:token>
+      <tc:token ID="t_69">»</tc:token>
+      <tc:token ID="t_70">Lahkih</tc:token>
+      <tc:token ID="t_71">nog</tc:token>
+      <tc:token ID="t_72">naokrog</tc:token>
+      <tc:token ID="t_73">«</tc:token>
+      <tc:token ID="t_74">;</tc:token>
+      <tc:token ID="t_75">graškemu</tc:token>
+      <tc:token ID="t_76">prof.</tc:token>
+      <tc:token ID="t_77">Karlu</tc:token>
+      <tc:token ID="t_78">Štreklju</tc:token>
+      <tc:token ID="t_79">poslal</tc:token>
+      <tc:token ID="t_80">za</tc:token>
+      <tc:token ID="t_81">zbirko</tc:token>
+      <tc:token ID="t_82">»</tc:token>
+      <tc:token ID="t_83">Slovenske</tc:token>
+      <tc:token ID="t_84">narodne</tc:token>
+      <tc:token ID="t_85">pesmi</tc:token>
+      <tc:token ID="t_86">«</tc:token>
+      <tc:token ID="t_87">vrsto</tc:token>
+      <tc:token ID="t_88">otroških</tc:token>
+      <tc:token ID="t_89">nagajivk</tc:token>
+      <tc:token ID="t_90">,</tc:token>
+      <tc:token ID="t_91">ki</tc:token>
+      <tc:token ID="t_92">jih</tc:token>
+      <tc:token ID="t_93">je</tc:token>
+      <tc:token ID="t_94">poznal</tc:token>
+      <tc:token ID="t_95">iz</tc:token>
+      <tc:token ID="t_96">Dragatuša</tc:token>
+      <tc:token ID="t_97">in</tc:token>
+      <tc:token ID="t_98">Vinice</tc:token>
+      <tc:token ID="t_99">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30"></tc:sentence>
+      <tc:sentence tokenIDs="t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_9"></tc:reference>
+        <tc:reference ID="rc_1" type="nam" target="rc_2" tokenIDs="t_23"></tc:reference>
+        <tc:reference ID="rc_2" tokenIDs="t_34 t_35"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" type="nam" tokenIDs="t_13 t_14"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" type="nam" tokenIDs="t_16"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" type="nam" tokenIDs="t_19"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" type="nam" tokenIDs="t_96"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" type="nam" tokenIDs="t_98"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" tokenIDs="t_36"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_9" tokenIDs="t_41 t_42"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" tokenIDs="t_64"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" tokenIDs="t_68"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_12" target="rc_13" tokenIDs="t_75 t_76 t_77 t_78"></tc:reference>
+        <tc:reference ID="rc_13" type="nam" tokenIDs="t_76 t_77 t_78"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

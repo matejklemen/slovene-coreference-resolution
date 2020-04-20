@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>RIO DE JANEIRO , 5. - Zadnja dirka letošnjega motociklističnega svetovnega prvenstva je minila v znamenju boja za edino še nepodeljeno lovoriko .
+Naslova svetovnega prvaka v razredu do 125 kubičnih centimetrov se je veselil Manuel Poggiali ( San Marino ) , ki mu je zadoščalo že peto mesto na sobotni dirki za  " Veliko nagrado Brazilije  " v Riu de Janeiru .
+V razredih do 250 in 500 ccm je bilo vse odločeno že pred zadnjo dirko : v četrtlitrskem je Japonec Daijiro Kato le še potrdil premoč z enajsto letošnjo zmago , v kraljevskem pa so dirko zaradi dežja prekinili , po razburljivem finišu pa je Valentino Rossi za las ugnal Carlosa Checo .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">RIO</tc:token>
+      <tc:token ID="t_1">DE</tc:token>
+      <tc:token ID="t_2">JANEIRO</tc:token>
+      <tc:token ID="t_3">,</tc:token>
+      <tc:token ID="t_4">5.</tc:token>
+      <tc:token ID="t_5">-</tc:token>
+      <tc:token ID="t_6">Zadnja</tc:token>
+      <tc:token ID="t_7">dirka</tc:token>
+      <tc:token ID="t_8">letošnjega</tc:token>
+      <tc:token ID="t_9">motociklističnega</tc:token>
+      <tc:token ID="t_10">svetovnega</tc:token>
+      <tc:token ID="t_11">prvenstva</tc:token>
+      <tc:token ID="t_12">je</tc:token>
+      <tc:token ID="t_13">minila</tc:token>
+      <tc:token ID="t_14">v</tc:token>
+      <tc:token ID="t_15">znamenju</tc:token>
+      <tc:token ID="t_16">boja</tc:token>
+      <tc:token ID="t_17">za</tc:token>
+      <tc:token ID="t_18">edino</tc:token>
+      <tc:token ID="t_19">še</tc:token>
+      <tc:token ID="t_20">nepodeljeno</tc:token>
+      <tc:token ID="t_21">lovoriko</tc:token>
+      <tc:token ID="t_22">.</tc:token>
+      <tc:token ID="t_23">Naslova</tc:token>
+      <tc:token ID="t_24">svetovnega</tc:token>
+      <tc:token ID="t_25">prvaka</tc:token>
+      <tc:token ID="t_26">v</tc:token>
+      <tc:token ID="t_27">razredu</tc:token>
+      <tc:token ID="t_28">do</tc:token>
+      <tc:token ID="t_29">125</tc:token>
+      <tc:token ID="t_30">kubičnih</tc:token>
+      <tc:token ID="t_31">centimetrov</tc:token>
+      <tc:token ID="t_32">se</tc:token>
+      <tc:token ID="t_33">je</tc:token>
+      <tc:token ID="t_34">veselil</tc:token>
+      <tc:token ID="t_35">Manuel</tc:token>
+      <tc:token ID="t_36">Poggiali</tc:token>
+      <tc:token ID="t_37">(</tc:token>
+      <tc:token ID="t_38">San</tc:token>
+      <tc:token ID="t_39">Marino</tc:token>
+      <tc:token ID="t_40">)</tc:token>
+      <tc:token ID="t_41">,</tc:token>
+      <tc:token ID="t_42">ki</tc:token>
+      <tc:token ID="t_43">mu</tc:token>
+      <tc:token ID="t_44">je</tc:token>
+      <tc:token ID="t_45">zadoščalo</tc:token>
+      <tc:token ID="t_46">že</tc:token>
+      <tc:token ID="t_47">peto</tc:token>
+      <tc:token ID="t_48">mesto</tc:token>
+      <tc:token ID="t_49">na</tc:token>
+      <tc:token ID="t_50">sobotni</tc:token>
+      <tc:token ID="t_51">dirki</tc:token>
+      <tc:token ID="t_52">za</tc:token>
+      <tc:token ID="t_53"> "</tc:token>
+      <tc:token ID="t_54">Veliko</tc:token>
+      <tc:token ID="t_55">nagrado</tc:token>
+      <tc:token ID="t_56">Brazilije</tc:token>
+      <tc:token ID="t_57"> "</tc:token>
+      <tc:token ID="t_58">v</tc:token>
+      <tc:token ID="t_59">Riu</tc:token>
+      <tc:token ID="t_60">de</tc:token>
+      <tc:token ID="t_61">Janeiru</tc:token>
+      <tc:token ID="t_62">.</tc:token>
+      <tc:token ID="t_63">V</tc:token>
+      <tc:token ID="t_64">razredih</tc:token>
+      <tc:token ID="t_65">do</tc:token>
+      <tc:token ID="t_66">250</tc:token>
+      <tc:token ID="t_67">in</tc:token>
+      <tc:token ID="t_68">500</tc:token>
+      <tc:token ID="t_69">ccm</tc:token>
+      <tc:token ID="t_70">je</tc:token>
+      <tc:token ID="t_71">bilo</tc:token>
+      <tc:token ID="t_72">vse</tc:token>
+      <tc:token ID="t_73">odločeno</tc:token>
+      <tc:token ID="t_74">že</tc:token>
+      <tc:token ID="t_75">pred</tc:token>
+      <tc:token ID="t_76">zadnjo</tc:token>
+      <tc:token ID="t_77">dirko</tc:token>
+      <tc:token ID="t_78">:</tc:token>
+      <tc:token ID="t_79">v</tc:token>
+      <tc:token ID="t_80">četrtlitrskem</tc:token>
+      <tc:token ID="t_81">je</tc:token>
+      <tc:token ID="t_82">Japonec</tc:token>
+      <tc:token ID="t_83">Daijiro</tc:token>
+      <tc:token ID="t_84">Kato</tc:token>
+      <tc:token ID="t_85">le</tc:token>
+      <tc:token ID="t_86">še</tc:token>
+      <tc:token ID="t_87">potrdil</tc:token>
+      <tc:token ID="t_88">premoč</tc:token>
+      <tc:token ID="t_89">z</tc:token>
+      <tc:token ID="t_90">enajsto</tc:token>
+      <tc:token ID="t_91">letošnjo</tc:token>
+      <tc:token ID="t_92">zmago</tc:token>
+      <tc:token ID="t_93">,</tc:token>
+      <tc:token ID="t_94">v</tc:token>
+      <tc:token ID="t_95">kraljevskem</tc:token>
+      <tc:token ID="t_96">pa</tc:token>
+      <tc:token ID="t_97">so</tc:token>
+      <tc:token ID="t_98">dirko</tc:token>
+      <tc:token ID="t_99">zaradi</tc:token>
+      <tc:token ID="t_100">dežja</tc:token>
+      <tc:token ID="t_101">prekinili</tc:token>
+      <tc:token ID="t_102">,</tc:token>
+      <tc:token ID="t_103">po</tc:token>
+      <tc:token ID="t_104">razburljivem</tc:token>
+      <tc:token ID="t_105">finišu</tc:token>
+      <tc:token ID="t_106">pa</tc:token>
+      <tc:token ID="t_107">je</tc:token>
+      <tc:token ID="t_108">Valentino</tc:token>
+      <tc:token ID="t_109">Rossi</tc:token>
+      <tc:token ID="t_110">za</tc:token>
+      <tc:token ID="t_111">las</tc:token>
+      <tc:token ID="t_112">ugnal</tc:token>
+      <tc:token ID="t_113">Carlosa</tc:token>
+      <tc:token ID="t_114">Checo</tc:token>
+      <tc:token ID="t_115">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22"></tc:sentence>
+      <tc:sentence tokenIDs="t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62"></tc:sentence>
+      <tc:sentence tokenIDs="t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" tokenIDs="t_35 t_36"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_1" tokenIDs="t_38 t_39"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" tokenIDs="t_56"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" target="rc_4" tokenIDs="t_0 t_1 t_2"></tc:reference>
+        <tc:reference ID="rc_4" tokenIDs="t_59 t_60 t_61"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" target="rc_6" tokenIDs="t_82 t_83 t_84"></tc:reference>
+        <tc:reference ID="rc_6" tokenIDs="t_83 t_84"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" tokenIDs="t_108 t_109"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" tokenIDs="t_113 t_114"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

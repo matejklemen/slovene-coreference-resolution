@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Končina je vzel pod drobnogled še trditve strokovnega direktorja KC Zorana Arneža , ki ves čas zatrjuje , da je bil nakup miz strokovno upravičen , da pa se ni spuščal v poslovne plati zadeve . » Komisija verjame trditvi , da strokovni svet ni izrecno razpravljal o znamki miz , gotovo pa bi moral razpravljati o številu operacijskih miz , ki naj bi jih obnovili , in o tipu miz , ker je oboje strokovno in ne le finančno vprašanje , « je povedal Končina , minister Keber pa dodal , da gre pri mizah za potencialne potrebe približno 15 kirurških strok in strokovni svet ni pridobil mnenj posameznih kirurških strok niti o številu niti o tipu miz , ki bi jih potrebovale . » Tako danes nekateri kirurgi na kliniki za ginekologijo in porodništvo menijo , da so nove mize za njihove potrebe bistveno preširoke , da so bile stare boljše , da se niso kvarile in da niso nikoli izrazili potrebe po njihovi zamenjavi , « je izjavil Keber . Končina pa je še povedal , da je strokovni direktor soodgovoren za prevelik obseg obnove operacijskih miz in njihov nestrokovni izbor .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Končina</tc:token>
+      <tc:token ID="t_1">je</tc:token>
+      <tc:token ID="t_2">vzel</tc:token>
+      <tc:token ID="t_3">pod</tc:token>
+      <tc:token ID="t_4">drobnogled</tc:token>
+      <tc:token ID="t_5">še</tc:token>
+      <tc:token ID="t_6">trditve</tc:token>
+      <tc:token ID="t_7">strokovnega</tc:token>
+      <tc:token ID="t_8">direktorja</tc:token>
+      <tc:token ID="t_9">KC</tc:token>
+      <tc:token ID="t_10">Zorana</tc:token>
+      <tc:token ID="t_11">Arneža</tc:token>
+      <tc:token ID="t_12">,</tc:token>
+      <tc:token ID="t_13">ki</tc:token>
+      <tc:token ID="t_14">ves</tc:token>
+      <tc:token ID="t_15">čas</tc:token>
+      <tc:token ID="t_16">zatrjuje</tc:token>
+      <tc:token ID="t_17">,</tc:token>
+      <tc:token ID="t_18">da</tc:token>
+      <tc:token ID="t_19">je</tc:token>
+      <tc:token ID="t_20">bil</tc:token>
+      <tc:token ID="t_21">nakup</tc:token>
+      <tc:token ID="t_22">miz</tc:token>
+      <tc:token ID="t_23">strokovno</tc:token>
+      <tc:token ID="t_24">upravičen</tc:token>
+      <tc:token ID="t_25">,</tc:token>
+      <tc:token ID="t_26">da</tc:token>
+      <tc:token ID="t_27">pa</tc:token>
+      <tc:token ID="t_28">se</tc:token>
+      <tc:token ID="t_29">ni</tc:token>
+      <tc:token ID="t_30">spuščal</tc:token>
+      <tc:token ID="t_31">v</tc:token>
+      <tc:token ID="t_32">poslovne</tc:token>
+      <tc:token ID="t_33">plati</tc:token>
+      <tc:token ID="t_34">zadeve</tc:token>
+      <tc:token ID="t_35">.</tc:token>
+      <tc:token ID="t_36">»</tc:token>
+      <tc:token ID="t_37">Komisija</tc:token>
+      <tc:token ID="t_38">verjame</tc:token>
+      <tc:token ID="t_39">trditvi</tc:token>
+      <tc:token ID="t_40">,</tc:token>
+      <tc:token ID="t_41">da</tc:token>
+      <tc:token ID="t_42">strokovni</tc:token>
+      <tc:token ID="t_43">svet</tc:token>
+      <tc:token ID="t_44">ni</tc:token>
+      <tc:token ID="t_45">izrecno</tc:token>
+      <tc:token ID="t_46">razpravljal</tc:token>
+      <tc:token ID="t_47">o</tc:token>
+      <tc:token ID="t_48">znamki</tc:token>
+      <tc:token ID="t_49">miz</tc:token>
+      <tc:token ID="t_50">,</tc:token>
+      <tc:token ID="t_51">gotovo</tc:token>
+      <tc:token ID="t_52">pa</tc:token>
+      <tc:token ID="t_53">bi</tc:token>
+      <tc:token ID="t_54">moral</tc:token>
+      <tc:token ID="t_55">razpravljati</tc:token>
+      <tc:token ID="t_56">o</tc:token>
+      <tc:token ID="t_57">številu</tc:token>
+      <tc:token ID="t_58">operacijskih</tc:token>
+      <tc:token ID="t_59">miz</tc:token>
+      <tc:token ID="t_60">,</tc:token>
+      <tc:token ID="t_61">ki</tc:token>
+      <tc:token ID="t_62">naj</tc:token>
+      <tc:token ID="t_63">bi</tc:token>
+      <tc:token ID="t_64">jih</tc:token>
+      <tc:token ID="t_65">obnovili</tc:token>
+      <tc:token ID="t_66">,</tc:token>
+      <tc:token ID="t_67">in</tc:token>
+      <tc:token ID="t_68">o</tc:token>
+      <tc:token ID="t_69">tipu</tc:token>
+      <tc:token ID="t_70">miz</tc:token>
+      <tc:token ID="t_71">,</tc:token>
+      <tc:token ID="t_72">ker</tc:token>
+      <tc:token ID="t_73">je</tc:token>
+      <tc:token ID="t_74">oboje</tc:token>
+      <tc:token ID="t_75">strokovno</tc:token>
+      <tc:token ID="t_76">in</tc:token>
+      <tc:token ID="t_77">ne</tc:token>
+      <tc:token ID="t_78">le</tc:token>
+      <tc:token ID="t_79">finančno</tc:token>
+      <tc:token ID="t_80">vprašanje</tc:token>
+      <tc:token ID="t_81">,</tc:token>
+      <tc:token ID="t_82">«</tc:token>
+      <tc:token ID="t_83">je</tc:token>
+      <tc:token ID="t_84">povedal</tc:token>
+      <tc:token ID="t_85">Končina</tc:token>
+      <tc:token ID="t_86">,</tc:token>
+      <tc:token ID="t_87">minister</tc:token>
+      <tc:token ID="t_88">Keber</tc:token>
+      <tc:token ID="t_89">pa</tc:token>
+      <tc:token ID="t_90">dodal</tc:token>
+      <tc:token ID="t_91">,</tc:token>
+      <tc:token ID="t_92">da</tc:token>
+      <tc:token ID="t_93">gre</tc:token>
+      <tc:token ID="t_94">pri</tc:token>
+      <tc:token ID="t_95">mizah</tc:token>
+      <tc:token ID="t_96">za</tc:token>
+      <tc:token ID="t_97">potencialne</tc:token>
+      <tc:token ID="t_98">potrebe</tc:token>
+      <tc:token ID="t_99">približno</tc:token>
+      <tc:token ID="t_100">15</tc:token>
+      <tc:token ID="t_101">kirurških</tc:token>
+      <tc:token ID="t_102">strok</tc:token>
+      <tc:token ID="t_103">in</tc:token>
+      <tc:token ID="t_104">strokovni</tc:token>
+      <tc:token ID="t_105">svet</tc:token>
+      <tc:token ID="t_106">ni</tc:token>
+      <tc:token ID="t_107">pridobil</tc:token>
+      <tc:token ID="t_108">mnenj</tc:token>
+      <tc:token ID="t_109">posameznih</tc:token>
+      <tc:token ID="t_110">kirurških</tc:token>
+      <tc:token ID="t_111">strok</tc:token>
+      <tc:token ID="t_112">niti</tc:token>
+      <tc:token ID="t_113">o</tc:token>
+      <tc:token ID="t_114">številu</tc:token>
+      <tc:token ID="t_115">niti</tc:token>
+      <tc:token ID="t_116">o</tc:token>
+      <tc:token ID="t_117">tipu</tc:token>
+      <tc:token ID="t_118">miz</tc:token>
+      <tc:token ID="t_119">,</tc:token>
+      <tc:token ID="t_120">ki</tc:token>
+      <tc:token ID="t_121">bi</tc:token>
+      <tc:token ID="t_122">jih</tc:token>
+      <tc:token ID="t_123">potrebovale</tc:token>
+      <tc:token ID="t_124">.</tc:token>
+      <tc:token ID="t_125">»</tc:token>
+      <tc:token ID="t_126">Tako</tc:token>
+      <tc:token ID="t_127">danes</tc:token>
+      <tc:token ID="t_128">nekateri</tc:token>
+      <tc:token ID="t_129">kirurgi</tc:token>
+      <tc:token ID="t_130">na</tc:token>
+      <tc:token ID="t_131">kliniki</tc:token>
+      <tc:token ID="t_132">za</tc:token>
+      <tc:token ID="t_133">ginekologijo</tc:token>
+      <tc:token ID="t_134">in</tc:token>
+      <tc:token ID="t_135">porodništvo</tc:token>
+      <tc:token ID="t_136">menijo</tc:token>
+      <tc:token ID="t_137">,</tc:token>
+      <tc:token ID="t_138">da</tc:token>
+      <tc:token ID="t_139">so</tc:token>
+      <tc:token ID="t_140">nove</tc:token>
+      <tc:token ID="t_141">mize</tc:token>
+      <tc:token ID="t_142">za</tc:token>
+      <tc:token ID="t_143">njihove</tc:token>
+      <tc:token ID="t_144">potrebe</tc:token>
+      <tc:token ID="t_145">bistveno</tc:token>
+      <tc:token ID="t_146">preširoke</tc:token>
+      <tc:token ID="t_147">,</tc:token>
+      <tc:token ID="t_148">da</tc:token>
+      <tc:token ID="t_149">so</tc:token>
+      <tc:token ID="t_150">bile</tc:token>
+      <tc:token ID="t_151">stare</tc:token>
+      <tc:token ID="t_152">boljše</tc:token>
+      <tc:token ID="t_153">,</tc:token>
+      <tc:token ID="t_154">da</tc:token>
+      <tc:token ID="t_155">se</tc:token>
+      <tc:token ID="t_156">niso</tc:token>
+      <tc:token ID="t_157">kvarile</tc:token>
+      <tc:token ID="t_158">in</tc:token>
+      <tc:token ID="t_159">da</tc:token>
+      <tc:token ID="t_160">niso</tc:token>
+      <tc:token ID="t_161">nikoli</tc:token>
+      <tc:token ID="t_162">izrazili</tc:token>
+      <tc:token ID="t_163">potrebe</tc:token>
+      <tc:token ID="t_164">po</tc:token>
+      <tc:token ID="t_165">njihovi</tc:token>
+      <tc:token ID="t_166">zamenjavi</tc:token>
+      <tc:token ID="t_167">,</tc:token>
+      <tc:token ID="t_168">«</tc:token>
+      <tc:token ID="t_169">je</tc:token>
+      <tc:token ID="t_170">izjavil</tc:token>
+      <tc:token ID="t_171">Keber</tc:token>
+      <tc:token ID="t_172">.</tc:token>
+      <tc:token ID="t_173">Končina</tc:token>
+      <tc:token ID="t_174">pa</tc:token>
+      <tc:token ID="t_175">je</tc:token>
+      <tc:token ID="t_176">še</tc:token>
+      <tc:token ID="t_177">povedal</tc:token>
+      <tc:token ID="t_178">,</tc:token>
+      <tc:token ID="t_179">da</tc:token>
+      <tc:token ID="t_180">je</tc:token>
+      <tc:token ID="t_181">strokovni</tc:token>
+      <tc:token ID="t_182">direktor</tc:token>
+      <tc:token ID="t_183">soodgovoren</tc:token>
+      <tc:token ID="t_184">za</tc:token>
+      <tc:token ID="t_185">prevelik</tc:token>
+      <tc:token ID="t_186">obseg</tc:token>
+      <tc:token ID="t_187">obnove</tc:token>
+      <tc:token ID="t_188">operacijskih</tc:token>
+      <tc:token ID="t_189">miz</tc:token>
+      <tc:token ID="t_190">in</tc:token>
+      <tc:token ID="t_191">njihov</tc:token>
+      <tc:token ID="t_192">nestrokovni</tc:token>
+      <tc:token ID="t_193">izbor</tc:token>
+      <tc:token ID="t_194">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35"></tc:sentence>
+      <tc:sentence tokenIDs="t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124"></tc:sentence>
+      <tc:sentence tokenIDs="t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136 t_137 t_138 t_139 t_140 t_141 t_142 t_143 t_144 t_145 t_146 t_147 t_148 t_149 t_150 t_151 t_152 t_153 t_154 t_155 t_156 t_157 t_158 t_159 t_160 t_161 t_162 t_163 t_164 t_165 t_166 t_167 t_168 t_169 t_170 t_171 t_172"></tc:sentence>
+      <tc:sentence tokenIDs="t_173 t_174 t_175 t_176 t_177 t_178 t_179 t_180 t_181 t_182 t_183 t_184 t_185 t_186 t_187 t_188 t_189 t_190 t_191 t_192 t_193 t_194"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_0"></tc:reference>
+        <tc:reference ID="rc_1" type="nam" target="rc_2" tokenIDs="t_85"></tc:reference>
+        <tc:reference ID="rc_2" type="nam" tokenIDs="t_173"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" target="rc_4" tokenIDs="t_42 t_43"></tc:reference>
+        <tc:reference ID="rc_4" type="nam" tokenIDs="t_104 t_105"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" target="rc_6" tokenIDs="t_87 t_88"></tc:reference>
+        <tc:reference ID="rc_6" tokenIDs="t_171"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" target="rc_8" tokenIDs="t_7 t_8 t_9 t_10 t_11"></tc:reference>
+        <tc:reference ID="rc_8" target="rc_9" tokenIDs="t_10 t_11"></tc:reference>
+        <tc:reference ID="rc_9" tokenIDs="t_181 t_182"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" tokenIDs="t_9"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" target="rc_12" tokenIDs="t_129 t_130 t_131 t_132 t_133 t_134 t_135"></tc:reference>
+        <tc:reference ID="rc_12" type="nam" tokenIDs="t_143"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

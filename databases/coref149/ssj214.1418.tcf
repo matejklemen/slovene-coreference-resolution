@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>N. V. Gogolj : Revizor ( s Cankarjevim Pohujšanjem ) .
+Prevod Milan Jesih , priredba in režija Dušan Jovanović ( as. Peter Srpčič ) , scena Meta Hočevar ( as. Jasna Vastl ) , kostumi Bjanka Adžić Ursulov , dramaturgija Klavdija Zupan , glasba Aldo Kumar in Saša Olenjuk , lektorstvo Majda Križaj , koreografija Tanja Zgonc .
+Igrajo : Janez Hočevar k. g. ( Glavar ) , Zvezdana Mlakar ( Ana Andrejevna ) , Polona Juh ( Marja Antonovna ) , Zvone Hribar ( Hlopov ) , Andrej Nahtigal ( Ljapkin - Tjapkin ) , Marko Okorn ( Zemljanika ) , Emil Filipčič k. g. ( Špjokin ) , Gregor Baković ( Dobčinski ) , Bojan Emeršič ( Bobčinski ) , Branko Šturbej ( Hlestakov ) , Peter Musevski k. g. ( Osip ) , Valter Dragan ( Hubner ) , Nataša Matjašec k. g. ( Avdotja / Jacinta ) , Rafko Vončina - AGRFT ( Pugovicin / Zlodej ) , Matija Rozman ( Uhovjortov / Peter ) ter Dušan Škedl , Tone Homar , Brane Grubar , Boris Juh , Marjan Hlastec , Katja Levstik , Metoda Zorčič , Neža Simčič , Tarek Rashid - AGRFT , Miha Nemec - AGRFT , Barbara Levstik , Maja Sever , David Čeh - AGRFT , Gorazd Logar .
+Premiera je bila 30. decembra 1997 na odru SNG Drama Ljubljana .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">N.</tc:token>
+      <tc:token ID="t_1">V.</tc:token>
+      <tc:token ID="t_2">Gogolj</tc:token>
+      <tc:token ID="t_3">:</tc:token>
+      <tc:token ID="t_4">Revizor</tc:token>
+      <tc:token ID="t_5">(</tc:token>
+      <tc:token ID="t_6">s</tc:token>
+      <tc:token ID="t_7">Cankarjevim</tc:token>
+      <tc:token ID="t_8">Pohujšanjem</tc:token>
+      <tc:token ID="t_9">)</tc:token>
+      <tc:token ID="t_10">.</tc:token>
+      <tc:token ID="t_11">Prevod</tc:token>
+      <tc:token ID="t_12">Milan</tc:token>
+      <tc:token ID="t_13">Jesih</tc:token>
+      <tc:token ID="t_14">,</tc:token>
+      <tc:token ID="t_15">priredba</tc:token>
+      <tc:token ID="t_16">in</tc:token>
+      <tc:token ID="t_17">režija</tc:token>
+      <tc:token ID="t_18">Dušan</tc:token>
+      <tc:token ID="t_19">Jovanović</tc:token>
+      <tc:token ID="t_20">(</tc:token>
+      <tc:token ID="t_21">as.</tc:token>
+      <tc:token ID="t_22">Peter</tc:token>
+      <tc:token ID="t_23">Srpčič</tc:token>
+      <tc:token ID="t_24">)</tc:token>
+      <tc:token ID="t_25">,</tc:token>
+      <tc:token ID="t_26">scena</tc:token>
+      <tc:token ID="t_27">Meta</tc:token>
+      <tc:token ID="t_28">Hočevar</tc:token>
+      <tc:token ID="t_29">(</tc:token>
+      <tc:token ID="t_30">as.</tc:token>
+      <tc:token ID="t_31">Jasna</tc:token>
+      <tc:token ID="t_32">Vastl</tc:token>
+      <tc:token ID="t_33">)</tc:token>
+      <tc:token ID="t_34">,</tc:token>
+      <tc:token ID="t_35">kostumi</tc:token>
+      <tc:token ID="t_36">Bjanka</tc:token>
+      <tc:token ID="t_37">Adžić</tc:token>
+      <tc:token ID="t_38">Ursulov</tc:token>
+      <tc:token ID="t_39">,</tc:token>
+      <tc:token ID="t_40">dramaturgija</tc:token>
+      <tc:token ID="t_41">Klavdija</tc:token>
+      <tc:token ID="t_42">Zupan</tc:token>
+      <tc:token ID="t_43">,</tc:token>
+      <tc:token ID="t_44">glasba</tc:token>
+      <tc:token ID="t_45">Aldo</tc:token>
+      <tc:token ID="t_46">Kumar</tc:token>
+      <tc:token ID="t_47">in</tc:token>
+      <tc:token ID="t_48">Saša</tc:token>
+      <tc:token ID="t_49">Olenjuk</tc:token>
+      <tc:token ID="t_50">,</tc:token>
+      <tc:token ID="t_51">lektorstvo</tc:token>
+      <tc:token ID="t_52">Majda</tc:token>
+      <tc:token ID="t_53">Križaj</tc:token>
+      <tc:token ID="t_54">,</tc:token>
+      <tc:token ID="t_55">koreografija</tc:token>
+      <tc:token ID="t_56">Tanja</tc:token>
+      <tc:token ID="t_57">Zgonc</tc:token>
+      <tc:token ID="t_58">.</tc:token>
+      <tc:token ID="t_59">Igrajo</tc:token>
+      <tc:token ID="t_60">:</tc:token>
+      <tc:token ID="t_61">Janez</tc:token>
+      <tc:token ID="t_62">Hočevar</tc:token>
+      <tc:token ID="t_63">k.</tc:token>
+      <tc:token ID="t_64">g.</tc:token>
+      <tc:token ID="t_65">(</tc:token>
+      <tc:token ID="t_66">Glavar</tc:token>
+      <tc:token ID="t_67">)</tc:token>
+      <tc:token ID="t_68">,</tc:token>
+      <tc:token ID="t_69">Zvezdana</tc:token>
+      <tc:token ID="t_70">Mlakar</tc:token>
+      <tc:token ID="t_71">(</tc:token>
+      <tc:token ID="t_72">Ana</tc:token>
+      <tc:token ID="t_73">Andrejevna</tc:token>
+      <tc:token ID="t_74">)</tc:token>
+      <tc:token ID="t_75">,</tc:token>
+      <tc:token ID="t_76">Polona</tc:token>
+      <tc:token ID="t_77">Juh</tc:token>
+      <tc:token ID="t_78">(</tc:token>
+      <tc:token ID="t_79">Marja</tc:token>
+      <tc:token ID="t_80">Antonovna</tc:token>
+      <tc:token ID="t_81">)</tc:token>
+      <tc:token ID="t_82">,</tc:token>
+      <tc:token ID="t_83">Zvone</tc:token>
+      <tc:token ID="t_84">Hribar</tc:token>
+      <tc:token ID="t_85">(</tc:token>
+      <tc:token ID="t_86">Hlopov</tc:token>
+      <tc:token ID="t_87">)</tc:token>
+      <tc:token ID="t_88">,</tc:token>
+      <tc:token ID="t_89">Andrej</tc:token>
+      <tc:token ID="t_90">Nahtigal</tc:token>
+      <tc:token ID="t_91">(</tc:token>
+      <tc:token ID="t_92">Ljapkin</tc:token>
+      <tc:token ID="t_93">-</tc:token>
+      <tc:token ID="t_94">Tjapkin</tc:token>
+      <tc:token ID="t_95">)</tc:token>
+      <tc:token ID="t_96">,</tc:token>
+      <tc:token ID="t_97">Marko</tc:token>
+      <tc:token ID="t_98">Okorn</tc:token>
+      <tc:token ID="t_99">(</tc:token>
+      <tc:token ID="t_100">Zemljanika</tc:token>
+      <tc:token ID="t_101">)</tc:token>
+      <tc:token ID="t_102">,</tc:token>
+      <tc:token ID="t_103">Emil</tc:token>
+      <tc:token ID="t_104">Filipčič</tc:token>
+      <tc:token ID="t_105">k.</tc:token>
+      <tc:token ID="t_106">g.</tc:token>
+      <tc:token ID="t_107">(</tc:token>
+      <tc:token ID="t_108">Špjokin</tc:token>
+      <tc:token ID="t_109">)</tc:token>
+      <tc:token ID="t_110">,</tc:token>
+      <tc:token ID="t_111">Gregor</tc:token>
+      <tc:token ID="t_112">Baković</tc:token>
+      <tc:token ID="t_113">(</tc:token>
+      <tc:token ID="t_114">Dobčinski</tc:token>
+      <tc:token ID="t_115">)</tc:token>
+      <tc:token ID="t_116">,</tc:token>
+      <tc:token ID="t_117">Bojan</tc:token>
+      <tc:token ID="t_118">Emeršič</tc:token>
+      <tc:token ID="t_119">(</tc:token>
+      <tc:token ID="t_120">Bobčinski</tc:token>
+      <tc:token ID="t_121">)</tc:token>
+      <tc:token ID="t_122">,</tc:token>
+      <tc:token ID="t_123">Branko</tc:token>
+      <tc:token ID="t_124">Šturbej</tc:token>
+      <tc:token ID="t_125">(</tc:token>
+      <tc:token ID="t_126">Hlestakov</tc:token>
+      <tc:token ID="t_127">)</tc:token>
+      <tc:token ID="t_128">,</tc:token>
+      <tc:token ID="t_129">Peter</tc:token>
+      <tc:token ID="t_130">Musevski</tc:token>
+      <tc:token ID="t_131">k.</tc:token>
+      <tc:token ID="t_132">g.</tc:token>
+      <tc:token ID="t_133">(</tc:token>
+      <tc:token ID="t_134">Osip</tc:token>
+      <tc:token ID="t_135">)</tc:token>
+      <tc:token ID="t_136">,</tc:token>
+      <tc:token ID="t_137">Valter</tc:token>
+      <tc:token ID="t_138">Dragan</tc:token>
+      <tc:token ID="t_139">(</tc:token>
+      <tc:token ID="t_140">Hubner</tc:token>
+      <tc:token ID="t_141">)</tc:token>
+      <tc:token ID="t_142">,</tc:token>
+      <tc:token ID="t_143">Nataša</tc:token>
+      <tc:token ID="t_144">Matjašec</tc:token>
+      <tc:token ID="t_145">k.</tc:token>
+      <tc:token ID="t_146">g.</tc:token>
+      <tc:token ID="t_147">(</tc:token>
+      <tc:token ID="t_148">Avdotja</tc:token>
+      <tc:token ID="t_149">/</tc:token>
+      <tc:token ID="t_150">Jacinta</tc:token>
+      <tc:token ID="t_151">)</tc:token>
+      <tc:token ID="t_152">,</tc:token>
+      <tc:token ID="t_153">Rafko</tc:token>
+      <tc:token ID="t_154">Vončina</tc:token>
+      <tc:token ID="t_155">-</tc:token>
+      <tc:token ID="t_156">AGRFT</tc:token>
+      <tc:token ID="t_157">(</tc:token>
+      <tc:token ID="t_158">Pugovicin</tc:token>
+      <tc:token ID="t_159">/</tc:token>
+      <tc:token ID="t_160">Zlodej</tc:token>
+      <tc:token ID="t_161">)</tc:token>
+      <tc:token ID="t_162">,</tc:token>
+      <tc:token ID="t_163">Matija</tc:token>
+      <tc:token ID="t_164">Rozman</tc:token>
+      <tc:token ID="t_165">(</tc:token>
+      <tc:token ID="t_166">Uhovjortov</tc:token>
+      <tc:token ID="t_167">/</tc:token>
+      <tc:token ID="t_168">Peter</tc:token>
+      <tc:token ID="t_169">)</tc:token>
+      <tc:token ID="t_170">ter</tc:token>
+      <tc:token ID="t_171">Dušan</tc:token>
+      <tc:token ID="t_172">Škedl</tc:token>
+      <tc:token ID="t_173">,</tc:token>
+      <tc:token ID="t_174">Tone</tc:token>
+      <tc:token ID="t_175">Homar</tc:token>
+      <tc:token ID="t_176">,</tc:token>
+      <tc:token ID="t_177">Brane</tc:token>
+      <tc:token ID="t_178">Grubar</tc:token>
+      <tc:token ID="t_179">,</tc:token>
+      <tc:token ID="t_180">Boris</tc:token>
+      <tc:token ID="t_181">Juh</tc:token>
+      <tc:token ID="t_182">,</tc:token>
+      <tc:token ID="t_183">Marjan</tc:token>
+      <tc:token ID="t_184">Hlastec</tc:token>
+      <tc:token ID="t_185">,</tc:token>
+      <tc:token ID="t_186">Katja</tc:token>
+      <tc:token ID="t_187">Levstik</tc:token>
+      <tc:token ID="t_188">,</tc:token>
+      <tc:token ID="t_189">Metoda</tc:token>
+      <tc:token ID="t_190">Zorčič</tc:token>
+      <tc:token ID="t_191">,</tc:token>
+      <tc:token ID="t_192">Neža</tc:token>
+      <tc:token ID="t_193">Simčič</tc:token>
+      <tc:token ID="t_194">,</tc:token>
+      <tc:token ID="t_195">Tarek</tc:token>
+      <tc:token ID="t_196">Rashid</tc:token>
+      <tc:token ID="t_197">-</tc:token>
+      <tc:token ID="t_198">AGRFT</tc:token>
+      <tc:token ID="t_199">,</tc:token>
+      <tc:token ID="t_200">Miha</tc:token>
+      <tc:token ID="t_201">Nemec</tc:token>
+      <tc:token ID="t_202">-</tc:token>
+      <tc:token ID="t_203">AGRFT</tc:token>
+      <tc:token ID="t_204">,</tc:token>
+      <tc:token ID="t_205">Barbara</tc:token>
+      <tc:token ID="t_206">Levstik</tc:token>
+      <tc:token ID="t_207">,</tc:token>
+      <tc:token ID="t_208">Maja</tc:token>
+      <tc:token ID="t_209">Sever</tc:token>
+      <tc:token ID="t_210">,</tc:token>
+      <tc:token ID="t_211">David</tc:token>
+      <tc:token ID="t_212">Čeh</tc:token>
+      <tc:token ID="t_213">-</tc:token>
+      <tc:token ID="t_214">AGRFT</tc:token>
+      <tc:token ID="t_215">,</tc:token>
+      <tc:token ID="t_216">Gorazd</tc:token>
+      <tc:token ID="t_217">Logar</tc:token>
+      <tc:token ID="t_218">.</tc:token>
+      <tc:token ID="t_219">Premiera</tc:token>
+      <tc:token ID="t_220">je</tc:token>
+      <tc:token ID="t_221">bila</tc:token>
+      <tc:token ID="t_222">30.</tc:token>
+      <tc:token ID="t_223">decembra</tc:token>
+      <tc:token ID="t_224">1997</tc:token>
+      <tc:token ID="t_225">na</tc:token>
+      <tc:token ID="t_226">odru</tc:token>
+      <tc:token ID="t_227">SNG</tc:token>
+      <tc:token ID="t_228">Drama</tc:token>
+      <tc:token ID="t_229">Ljubljana</tc:token>
+      <tc:token ID="t_230">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10"></tc:sentence>
+      <tc:sentence tokenIDs="t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58"></tc:sentence>
+      <tc:sentence tokenIDs="t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136 t_137 t_138 t_139 t_140 t_141 t_142 t_143 t_144 t_145 t_146 t_147 t_148 t_149 t_150 t_151 t_152 t_153 t_154 t_155 t_156 t_157 t_158 t_159 t_160 t_161 t_162 t_163 t_164 t_165 t_166 t_167 t_168 t_169 t_170 t_171 t_172 t_173 t_174 t_175 t_176 t_177 t_178 t_179 t_180 t_181 t_182 t_183 t_184 t_185 t_186 t_187 t_188 t_189 t_190 t_191 t_192 t_193 t_194 t_195 t_196 t_197 t_198 t_199 t_200 t_201 t_202 t_203 t_204 t_205 t_206 t_207 t_208 t_209 t_210 t_211 t_212 t_213 t_214 t_215 t_216 t_217 t_218"></tc:sentence>
+      <tc:sentence tokenIDs="t_219 t_220 t_221 t_222 t_223 t_224 t_225 t_226 t_227 t_228 t_229 t_230"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" tokenIDs="t_0 t_1 t_2"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_1" tokenIDs="t_7"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" tokenIDs="t_12 t_13"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" tokenIDs="t_18 t_19"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" tokenIDs="t_21 t_22 t_23"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" tokenIDs="t_27 t_28"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" tokenIDs="t_30 t_31 t_32"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" tokenIDs="t_36 t_37 t_38"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" tokenIDs="t_41 t_42"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_9" tokenIDs="t_45 t_46"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" tokenIDs="t_48 t_49"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" tokenIDs="t_52 t_53"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_12" tokenIDs="t_56 t_57"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_13" tokenIDs="t_61 t_62"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_14" tokenIDs="t_66"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_15" tokenIDs="t_69 t_70"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_16" tokenIDs="t_72 t_73"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_17" tokenIDs="t_76 t_77"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_18" tokenIDs="t_79 t_80"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_19" tokenIDs="t_83 t_84"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_20" tokenIDs="t_86"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_21" tokenIDs="t_89 t_90"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_22" tokenIDs="t_92 t_93 t_94"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_23" tokenIDs="t_97 t_98"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_24" tokenIDs="t_100"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_25" tokenIDs="t_103 t_104"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_26" tokenIDs="t_108"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_27" tokenIDs="t_111 t_112"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_28" tokenIDs="t_114"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_29" tokenIDs="t_117 t_118"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_30" tokenIDs="t_120"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_31" tokenIDs="t_123 t_124"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_32" tokenIDs="t_126"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_33" tokenIDs="t_129 t_130"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_34" tokenIDs="t_134"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_35" tokenIDs="t_137 t_138"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_36" tokenIDs="t_140"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_37" tokenIDs="t_143 t_144"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_38" target="rc_39" tokenIDs="t_148"></tc:reference>
+        <tc:reference ID="rc_39" tokenIDs="t_150"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_40" tokenIDs="t_153 t_154"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_41" target="rc_42" tokenIDs="t_158"></tc:reference>
+        <tc:reference ID="rc_42" tokenIDs="t_160"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_43" tokenIDs="t_163 t_164"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_44" target="rc_45" tokenIDs="t_166"></tc:reference>
+        <tc:reference ID="rc_45" tokenIDs="t_168"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_46" tokenIDs="t_171 t_172"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_47" tokenIDs="t_174 t_175"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_48" tokenIDs="t_177 t_178"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_49" tokenIDs="t_180 t_181"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_50" tokenIDs="t_183 t_184"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_51" tokenIDs="t_186 t_187"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_52" tokenIDs="t_189 t_190"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_53" tokenIDs="t_192 t_193"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_54" tokenIDs="t_195 t_196"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_55" tokenIDs="t_200 t_201"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_56" tokenIDs="t_205 t_206"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_57" tokenIDs="t_208 t_209"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_58" tokenIDs="t_211 t_212"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_59" target="rc_60" tokenIDs="t_156"></tc:reference>
+        <tc:reference ID="rc_60" target="rc_61" tokenIDs="t_198"></tc:reference>
+        <tc:reference ID="rc_61" target="rc_62" tokenIDs="t_203"></tc:reference>
+        <tc:reference ID="rc_62" tokenIDs="t_214"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_63" tokenIDs="t_216 t_217"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_64" tokenIDs="t_227 t_228 t_229"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_65" tokenIDs="t_229"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

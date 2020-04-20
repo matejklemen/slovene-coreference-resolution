@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Ali se je , ne meneč se za Vrano in Daniela , osredotočila na otroka pred seboj .
+Tako dobro se je znala vživeti v Charisina občutja , da se je sama presenetila .
+Ni še sodelovala pri zapletenejšem reševanju .
+Največkrat so prispeli borih nekaj trenutkov pred CRP in otroci so jim bili hvaležni .
+Starši so se Duhovom včasih zahvalili , včasih pa so svoj naraščaj preklinjali zaradi mutantstva .
+Slovesi so bili v obojih primerih težki , toda Ali še ni srečala čarodejke , ki se ne bi hotela rešiti .
+A ob pogledu na stanovanje , ki jo je tako zelo spominjalo na njen nekdanji dom , je deklico razumela .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Ali</tc:token>
+      <tc:token ID="t_1">se</tc:token>
+      <tc:token ID="t_2">je</tc:token>
+      <tc:token ID="t_3">,</tc:token>
+      <tc:token ID="t_4">ne</tc:token>
+      <tc:token ID="t_5">meneč</tc:token>
+      <tc:token ID="t_6">se</tc:token>
+      <tc:token ID="t_7">za</tc:token>
+      <tc:token ID="t_8">Vrano</tc:token>
+      <tc:token ID="t_9">in</tc:token>
+      <tc:token ID="t_10">Daniela</tc:token>
+      <tc:token ID="t_11">,</tc:token>
+      <tc:token ID="t_12">osredotočila</tc:token>
+      <tc:token ID="t_13">na</tc:token>
+      <tc:token ID="t_14">otroka</tc:token>
+      <tc:token ID="t_15">pred</tc:token>
+      <tc:token ID="t_16">seboj</tc:token>
+      <tc:token ID="t_17">.</tc:token>
+      <tc:token ID="t_18">Tako</tc:token>
+      <tc:token ID="t_19">dobro</tc:token>
+      <tc:token ID="t_20">se</tc:token>
+      <tc:token ID="t_21">je</tc:token>
+      <tc:token ID="t_22">znala</tc:token>
+      <tc:token ID="t_23">vživeti</tc:token>
+      <tc:token ID="t_24">v</tc:token>
+      <tc:token ID="t_25">Charisina</tc:token>
+      <tc:token ID="t_26">občutja</tc:token>
+      <tc:token ID="t_27">,</tc:token>
+      <tc:token ID="t_28">da</tc:token>
+      <tc:token ID="t_29">se</tc:token>
+      <tc:token ID="t_30">je</tc:token>
+      <tc:token ID="t_31">sama</tc:token>
+      <tc:token ID="t_32">presenetila</tc:token>
+      <tc:token ID="t_33">.</tc:token>
+      <tc:token ID="t_34">Ni</tc:token>
+      <tc:token ID="t_35">še</tc:token>
+      <tc:token ID="t_36">sodelovala</tc:token>
+      <tc:token ID="t_37">pri</tc:token>
+      <tc:token ID="t_38">zapletenejšem</tc:token>
+      <tc:token ID="t_39">reševanju</tc:token>
+      <tc:token ID="t_40">.</tc:token>
+      <tc:token ID="t_41">Največkrat</tc:token>
+      <tc:token ID="t_42">so</tc:token>
+      <tc:token ID="t_43">prispeli</tc:token>
+      <tc:token ID="t_44">borih</tc:token>
+      <tc:token ID="t_45">nekaj</tc:token>
+      <tc:token ID="t_46">trenutkov</tc:token>
+      <tc:token ID="t_47">pred</tc:token>
+      <tc:token ID="t_48">CRP</tc:token>
+      <tc:token ID="t_49">in</tc:token>
+      <tc:token ID="t_50">otroci</tc:token>
+      <tc:token ID="t_51">so</tc:token>
+      <tc:token ID="t_52">jim</tc:token>
+      <tc:token ID="t_53">bili</tc:token>
+      <tc:token ID="t_54">hvaležni</tc:token>
+      <tc:token ID="t_55">.</tc:token>
+      <tc:token ID="t_56">Starši</tc:token>
+      <tc:token ID="t_57">so</tc:token>
+      <tc:token ID="t_58">se</tc:token>
+      <tc:token ID="t_59">Duhovom</tc:token>
+      <tc:token ID="t_60">včasih</tc:token>
+      <tc:token ID="t_61">zahvalili</tc:token>
+      <tc:token ID="t_62">,</tc:token>
+      <tc:token ID="t_63">včasih</tc:token>
+      <tc:token ID="t_64">pa</tc:token>
+      <tc:token ID="t_65">so</tc:token>
+      <tc:token ID="t_66">svoj</tc:token>
+      <tc:token ID="t_67">naraščaj</tc:token>
+      <tc:token ID="t_68">preklinjali</tc:token>
+      <tc:token ID="t_69">zaradi</tc:token>
+      <tc:token ID="t_70">mutantstva</tc:token>
+      <tc:token ID="t_71">.</tc:token>
+      <tc:token ID="t_72">Slovesi</tc:token>
+      <tc:token ID="t_73">so</tc:token>
+      <tc:token ID="t_74">bili</tc:token>
+      <tc:token ID="t_75">v</tc:token>
+      <tc:token ID="t_76">obojih</tc:token>
+      <tc:token ID="t_77">primerih</tc:token>
+      <tc:token ID="t_78">težki</tc:token>
+      <tc:token ID="t_79">,</tc:token>
+      <tc:token ID="t_80">toda</tc:token>
+      <tc:token ID="t_81">Ali</tc:token>
+      <tc:token ID="t_82">še</tc:token>
+      <tc:token ID="t_83">ni</tc:token>
+      <tc:token ID="t_84">srečala</tc:token>
+      <tc:token ID="t_85">čarodejke</tc:token>
+      <tc:token ID="t_86">,</tc:token>
+      <tc:token ID="t_87">ki</tc:token>
+      <tc:token ID="t_88">se</tc:token>
+      <tc:token ID="t_89">ne</tc:token>
+      <tc:token ID="t_90">bi</tc:token>
+      <tc:token ID="t_91">hotela</tc:token>
+      <tc:token ID="t_92">rešiti</tc:token>
+      <tc:token ID="t_93">.</tc:token>
+      <tc:token ID="t_94">A</tc:token>
+      <tc:token ID="t_95">ob</tc:token>
+      <tc:token ID="t_96">pogledu</tc:token>
+      <tc:token ID="t_97">na</tc:token>
+      <tc:token ID="t_98">stanovanje</tc:token>
+      <tc:token ID="t_99">,</tc:token>
+      <tc:token ID="t_100">ki</tc:token>
+      <tc:token ID="t_101">jo</tc:token>
+      <tc:token ID="t_102">je</tc:token>
+      <tc:token ID="t_103">tako</tc:token>
+      <tc:token ID="t_104">zelo</tc:token>
+      <tc:token ID="t_105">spominjalo</tc:token>
+      <tc:token ID="t_106">na</tc:token>
+      <tc:token ID="t_107">njen</tc:token>
+      <tc:token ID="t_108">nekdanji</tc:token>
+      <tc:token ID="t_109">dom</tc:token>
+      <tc:token ID="t_110">,</tc:token>
+      <tc:token ID="t_111">je</tc:token>
+      <tc:token ID="t_112">deklico</tc:token>
+      <tc:token ID="t_113">razumela</tc:token>
+      <tc:token ID="t_114">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17"></tc:sentence>
+      <tc:sentence tokenIDs="t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33"></tc:sentence>
+      <tc:sentence tokenIDs="t_34 t_35 t_36 t_37 t_38 t_39 t_40"></tc:sentence>
+      <tc:sentence tokenIDs="t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55"></tc:sentence>
+      <tc:sentence tokenIDs="t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71"></tc:sentence>
+      <tc:sentence tokenIDs="t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93"></tc:sentence>
+      <tc:sentence tokenIDs="t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" tokenIDs="t_8"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_1" tokenIDs="t_10"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" tokenIDs="t_25"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" tokenIDs="t_59"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

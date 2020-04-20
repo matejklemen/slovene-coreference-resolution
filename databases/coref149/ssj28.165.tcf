@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Na gradu Borl pri Ptuju je glasba počasi odzvenela , iztekle so se umetniške delavnice in otroški živžav se je polegel . Idriart international ( francoska okrajšava za - Pobuda za razvoj medkulturnih povezav skozi tokove umetnosti ) je letos uspešno zaključil že 14. mednarodni poletni festival v Sloveniji , ki je bil četrto leto na omenjenem gradu . Teden je bil poln predavanj , slikanja , petja , druženja ; namen teh dejavnosti je mogoče razbrati že iz samega naziva kulturne nedobičkanosne organizacije , ki nima ne političnih ne verskih omejitev : zavedati se lastne kulture in kulture drugih ljudi , razlike , ki obstajajo med njimi , pa narediti plodne . To je najlažje storiti prek umetnosti , kjer so čutila dovzetna za številne različne odtenke barv , tonov - s to izkušnjo se oblikuje odprtost , seznanjanje z drugačnim pa utrdi strpnost ter bogati lastno doživljanje sveta in življenja .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Na</tc:token>
+      <tc:token ID="t_1">gradu</tc:token>
+      <tc:token ID="t_2">Borl</tc:token>
+      <tc:token ID="t_3">pri</tc:token>
+      <tc:token ID="t_4">Ptuju</tc:token>
+      <tc:token ID="t_5">je</tc:token>
+      <tc:token ID="t_6">glasba</tc:token>
+      <tc:token ID="t_7">počasi</tc:token>
+      <tc:token ID="t_8">odzvenela</tc:token>
+      <tc:token ID="t_9">,</tc:token>
+      <tc:token ID="t_10">iztekle</tc:token>
+      <tc:token ID="t_11">so</tc:token>
+      <tc:token ID="t_12">se</tc:token>
+      <tc:token ID="t_13">umetniške</tc:token>
+      <tc:token ID="t_14">delavnice</tc:token>
+      <tc:token ID="t_15">in</tc:token>
+      <tc:token ID="t_16">otroški</tc:token>
+      <tc:token ID="t_17">živžav</tc:token>
+      <tc:token ID="t_18">se</tc:token>
+      <tc:token ID="t_19">je</tc:token>
+      <tc:token ID="t_20">polegel</tc:token>
+      <tc:token ID="t_21">.</tc:token>
+      <tc:token ID="t_22">Idriart</tc:token>
+      <tc:token ID="t_23">international</tc:token>
+      <tc:token ID="t_24">(</tc:token>
+      <tc:token ID="t_25">francoska</tc:token>
+      <tc:token ID="t_26">okrajšava</tc:token>
+      <tc:token ID="t_27">za</tc:token>
+      <tc:token ID="t_28">-</tc:token>
+      <tc:token ID="t_29">Pobuda</tc:token>
+      <tc:token ID="t_30">za</tc:token>
+      <tc:token ID="t_31">razvoj</tc:token>
+      <tc:token ID="t_32">medkulturnih</tc:token>
+      <tc:token ID="t_33">povezav</tc:token>
+      <tc:token ID="t_34">skozi</tc:token>
+      <tc:token ID="t_35">tokove</tc:token>
+      <tc:token ID="t_36">umetnosti</tc:token>
+      <tc:token ID="t_37">)</tc:token>
+      <tc:token ID="t_38">je</tc:token>
+      <tc:token ID="t_39">letos</tc:token>
+      <tc:token ID="t_40">uspešno</tc:token>
+      <tc:token ID="t_41">zaključil</tc:token>
+      <tc:token ID="t_42">že</tc:token>
+      <tc:token ID="t_43">14.</tc:token>
+      <tc:token ID="t_44">mednarodni</tc:token>
+      <tc:token ID="t_45">poletni</tc:token>
+      <tc:token ID="t_46">festival</tc:token>
+      <tc:token ID="t_47">v</tc:token>
+      <tc:token ID="t_48">Sloveniji</tc:token>
+      <tc:token ID="t_49">,</tc:token>
+      <tc:token ID="t_50">ki</tc:token>
+      <tc:token ID="t_51">je</tc:token>
+      <tc:token ID="t_52">bil</tc:token>
+      <tc:token ID="t_53">četrto</tc:token>
+      <tc:token ID="t_54">leto</tc:token>
+      <tc:token ID="t_55">na</tc:token>
+      <tc:token ID="t_56">omenjenem</tc:token>
+      <tc:token ID="t_57">gradu</tc:token>
+      <tc:token ID="t_58">.</tc:token>
+      <tc:token ID="t_59">Teden</tc:token>
+      <tc:token ID="t_60">je</tc:token>
+      <tc:token ID="t_61">bil</tc:token>
+      <tc:token ID="t_62">poln</tc:token>
+      <tc:token ID="t_63">predavanj</tc:token>
+      <tc:token ID="t_64">,</tc:token>
+      <tc:token ID="t_65">slikanja</tc:token>
+      <tc:token ID="t_66">,</tc:token>
+      <tc:token ID="t_67">petja</tc:token>
+      <tc:token ID="t_68">,</tc:token>
+      <tc:token ID="t_69">druženja</tc:token>
+      <tc:token ID="t_70">;</tc:token>
+      <tc:token ID="t_71">namen</tc:token>
+      <tc:token ID="t_72">teh</tc:token>
+      <tc:token ID="t_73">dejavnosti</tc:token>
+      <tc:token ID="t_74">je</tc:token>
+      <tc:token ID="t_75">mogoče</tc:token>
+      <tc:token ID="t_76">razbrati</tc:token>
+      <tc:token ID="t_77">že</tc:token>
+      <tc:token ID="t_78">iz</tc:token>
+      <tc:token ID="t_79">samega</tc:token>
+      <tc:token ID="t_80">naziva</tc:token>
+      <tc:token ID="t_81">kulturne</tc:token>
+      <tc:token ID="t_82">nedobičkanosne</tc:token>
+      <tc:token ID="t_83">organizacije</tc:token>
+      <tc:token ID="t_84">,</tc:token>
+      <tc:token ID="t_85">ki</tc:token>
+      <tc:token ID="t_86">nima</tc:token>
+      <tc:token ID="t_87">ne</tc:token>
+      <tc:token ID="t_88">političnih</tc:token>
+      <tc:token ID="t_89">ne</tc:token>
+      <tc:token ID="t_90">verskih</tc:token>
+      <tc:token ID="t_91">omejitev</tc:token>
+      <tc:token ID="t_92">:</tc:token>
+      <tc:token ID="t_93">zavedati</tc:token>
+      <tc:token ID="t_94">se</tc:token>
+      <tc:token ID="t_95">lastne</tc:token>
+      <tc:token ID="t_96">kulture</tc:token>
+      <tc:token ID="t_97">in</tc:token>
+      <tc:token ID="t_98">kulture</tc:token>
+      <tc:token ID="t_99">drugih</tc:token>
+      <tc:token ID="t_100">ljudi</tc:token>
+      <tc:token ID="t_101">,</tc:token>
+      <tc:token ID="t_102">razlike</tc:token>
+      <tc:token ID="t_103">,</tc:token>
+      <tc:token ID="t_104">ki</tc:token>
+      <tc:token ID="t_105">obstajajo</tc:token>
+      <tc:token ID="t_106">med</tc:token>
+      <tc:token ID="t_107">njimi</tc:token>
+      <tc:token ID="t_108">,</tc:token>
+      <tc:token ID="t_109">pa</tc:token>
+      <tc:token ID="t_110">narediti</tc:token>
+      <tc:token ID="t_111">plodne</tc:token>
+      <tc:token ID="t_112">.</tc:token>
+      <tc:token ID="t_113">To</tc:token>
+      <tc:token ID="t_114">je</tc:token>
+      <tc:token ID="t_115">najlažje</tc:token>
+      <tc:token ID="t_116">storiti</tc:token>
+      <tc:token ID="t_117">prek</tc:token>
+      <tc:token ID="t_118">umetnosti</tc:token>
+      <tc:token ID="t_119">,</tc:token>
+      <tc:token ID="t_120">kjer</tc:token>
+      <tc:token ID="t_121">so</tc:token>
+      <tc:token ID="t_122">čutila</tc:token>
+      <tc:token ID="t_123">dovzetna</tc:token>
+      <tc:token ID="t_124">za</tc:token>
+      <tc:token ID="t_125">številne</tc:token>
+      <tc:token ID="t_126">različne</tc:token>
+      <tc:token ID="t_127">odtenke</tc:token>
+      <tc:token ID="t_128">barv</tc:token>
+      <tc:token ID="t_129">,</tc:token>
+      <tc:token ID="t_130">tonov</tc:token>
+      <tc:token ID="t_131">-</tc:token>
+      <tc:token ID="t_132">s</tc:token>
+      <tc:token ID="t_133">to</tc:token>
+      <tc:token ID="t_134">izkušnjo</tc:token>
+      <tc:token ID="t_135">se</tc:token>
+      <tc:token ID="t_136">oblikuje</tc:token>
+      <tc:token ID="t_137">odprtost</tc:token>
+      <tc:token ID="t_138">,</tc:token>
+      <tc:token ID="t_139">seznanjanje</tc:token>
+      <tc:token ID="t_140">z</tc:token>
+      <tc:token ID="t_141">drugačnim</tc:token>
+      <tc:token ID="t_142">pa</tc:token>
+      <tc:token ID="t_143">utrdi</tc:token>
+      <tc:token ID="t_144">strpnost</tc:token>
+      <tc:token ID="t_145">ter</tc:token>
+      <tc:token ID="t_146">bogati</tc:token>
+      <tc:token ID="t_147">lastno</tc:token>
+      <tc:token ID="t_148">doživljanje</tc:token>
+      <tc:token ID="t_149">sveta</tc:token>
+      <tc:token ID="t_150">in</tc:token>
+      <tc:token ID="t_151">življenja</tc:token>
+      <tc:token ID="t_152">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21"></tc:sentence>
+      <tc:sentence tokenIDs="t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58"></tc:sentence>
+      <tc:sentence tokenIDs="t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112"></tc:sentence>
+      <tc:sentence tokenIDs="t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136 t_137 t_138 t_139 t_140 t_141 t_142 t_143 t_144 t_145 t_146 t_147 t_148 t_149 t_150 t_151 t_152"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_1 t_2"></tc:reference>
+        <tc:reference ID="rc_1" tokenIDs="t_56 t_57"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" type="nam" target="rc_3" tokenIDs="t_22 t_23"></tc:reference>
+        <tc:reference ID="rc_3" target="rc_4" tokenIDs="t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36"></tc:reference>
+        <tc:reference ID="rc_4" type="nam" tokenIDs="t_81 t_82 t_83"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" tokenIDs="t_4"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" tokenIDs="t_48"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

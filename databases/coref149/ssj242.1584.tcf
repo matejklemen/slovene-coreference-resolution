@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Enajst učencev osmega razreda osnovne šole Križevci pri Ljutomeru so v turističnem krožku razmišljali , kako privabiti v svoj kraj še več obiskovalcev in turistov .
+Kot so zapisali v svojem uvodu , v Prlekiji ni ne piramid ne morja ne Triglava , je pa dediščina , ki so jo mladim zapustili njihovi pradedje in se ohranja že 130 let : to so kasaške dirke .
+Na 19. festivalu z naslovom Turizmu pomaga lastna glava bodo učenci pod vodstvom mentoric Metke Štuhec in Jasne Markovič - Jagodič predstavili kasaške dirke .
+Njihov projekt nosi naslov Naš turistični jutri : Düja , keri de prvi ( Dija , kdo bo prvi ) .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Enajst</tc:token>
+      <tc:token ID="t_1">učencev</tc:token>
+      <tc:token ID="t_2">osmega</tc:token>
+      <tc:token ID="t_3">razreda</tc:token>
+      <tc:token ID="t_4">osnovne</tc:token>
+      <tc:token ID="t_5">šole</tc:token>
+      <tc:token ID="t_6">Križevci</tc:token>
+      <tc:token ID="t_7">pri</tc:token>
+      <tc:token ID="t_8">Ljutomeru</tc:token>
+      <tc:token ID="t_9">so</tc:token>
+      <tc:token ID="t_10">v</tc:token>
+      <tc:token ID="t_11">turističnem</tc:token>
+      <tc:token ID="t_12">krožku</tc:token>
+      <tc:token ID="t_13">razmišljali</tc:token>
+      <tc:token ID="t_14">,</tc:token>
+      <tc:token ID="t_15">kako</tc:token>
+      <tc:token ID="t_16">privabiti</tc:token>
+      <tc:token ID="t_17">v</tc:token>
+      <tc:token ID="t_18">svoj</tc:token>
+      <tc:token ID="t_19">kraj</tc:token>
+      <tc:token ID="t_20">še</tc:token>
+      <tc:token ID="t_21">več</tc:token>
+      <tc:token ID="t_22">obiskovalcev</tc:token>
+      <tc:token ID="t_23">in</tc:token>
+      <tc:token ID="t_24">turistov</tc:token>
+      <tc:token ID="t_25">.</tc:token>
+      <tc:token ID="t_26">Kot</tc:token>
+      <tc:token ID="t_27">so</tc:token>
+      <tc:token ID="t_28">zapisali</tc:token>
+      <tc:token ID="t_29">v</tc:token>
+      <tc:token ID="t_30">svojem</tc:token>
+      <tc:token ID="t_31">uvodu</tc:token>
+      <tc:token ID="t_32">,</tc:token>
+      <tc:token ID="t_33">v</tc:token>
+      <tc:token ID="t_34">Prlekiji</tc:token>
+      <tc:token ID="t_35">ni</tc:token>
+      <tc:token ID="t_36">ne</tc:token>
+      <tc:token ID="t_37">piramid</tc:token>
+      <tc:token ID="t_38">ne</tc:token>
+      <tc:token ID="t_39">morja</tc:token>
+      <tc:token ID="t_40">ne</tc:token>
+      <tc:token ID="t_41">Triglava</tc:token>
+      <tc:token ID="t_42">,</tc:token>
+      <tc:token ID="t_43">je</tc:token>
+      <tc:token ID="t_44">pa</tc:token>
+      <tc:token ID="t_45">dediščina</tc:token>
+      <tc:token ID="t_46">,</tc:token>
+      <tc:token ID="t_47">ki</tc:token>
+      <tc:token ID="t_48">so</tc:token>
+      <tc:token ID="t_49">jo</tc:token>
+      <tc:token ID="t_50">mladim</tc:token>
+      <tc:token ID="t_51">zapustili</tc:token>
+      <tc:token ID="t_52">njihovi</tc:token>
+      <tc:token ID="t_53">pradedje</tc:token>
+      <tc:token ID="t_54">in</tc:token>
+      <tc:token ID="t_55">se</tc:token>
+      <tc:token ID="t_56">ohranja</tc:token>
+      <tc:token ID="t_57">že</tc:token>
+      <tc:token ID="t_58">130</tc:token>
+      <tc:token ID="t_59">let</tc:token>
+      <tc:token ID="t_60">:</tc:token>
+      <tc:token ID="t_61">to</tc:token>
+      <tc:token ID="t_62">so</tc:token>
+      <tc:token ID="t_63">kasaške</tc:token>
+      <tc:token ID="t_64">dirke</tc:token>
+      <tc:token ID="t_65">.</tc:token>
+      <tc:token ID="t_66">Na</tc:token>
+      <tc:token ID="t_67">19.</tc:token>
+      <tc:token ID="t_68">festivalu</tc:token>
+      <tc:token ID="t_69">z</tc:token>
+      <tc:token ID="t_70">naslovom</tc:token>
+      <tc:token ID="t_71">Turizmu</tc:token>
+      <tc:token ID="t_72">pomaga</tc:token>
+      <tc:token ID="t_73">lastna</tc:token>
+      <tc:token ID="t_74">glava</tc:token>
+      <tc:token ID="t_75">bodo</tc:token>
+      <tc:token ID="t_76">učenci</tc:token>
+      <tc:token ID="t_77">pod</tc:token>
+      <tc:token ID="t_78">vodstvom</tc:token>
+      <tc:token ID="t_79">mentoric</tc:token>
+      <tc:token ID="t_80">Metke</tc:token>
+      <tc:token ID="t_81">Štuhec</tc:token>
+      <tc:token ID="t_82">in</tc:token>
+      <tc:token ID="t_83">Jasne</tc:token>
+      <tc:token ID="t_84">Markovič</tc:token>
+      <tc:token ID="t_85">-</tc:token>
+      <tc:token ID="t_86">Jagodič</tc:token>
+      <tc:token ID="t_87">predstavili</tc:token>
+      <tc:token ID="t_88">kasaške</tc:token>
+      <tc:token ID="t_89">dirke</tc:token>
+      <tc:token ID="t_90">.</tc:token>
+      <tc:token ID="t_91">Njihov</tc:token>
+      <tc:token ID="t_92">projekt</tc:token>
+      <tc:token ID="t_93">nosi</tc:token>
+      <tc:token ID="t_94">naslov</tc:token>
+      <tc:token ID="t_95">Naš</tc:token>
+      <tc:token ID="t_96">turistični</tc:token>
+      <tc:token ID="t_97">jutri</tc:token>
+      <tc:token ID="t_98">:</tc:token>
+      <tc:token ID="t_99">Düja</tc:token>
+      <tc:token ID="t_100">,</tc:token>
+      <tc:token ID="t_101">keri</tc:token>
+      <tc:token ID="t_102">de</tc:token>
+      <tc:token ID="t_103">prvi</tc:token>
+      <tc:token ID="t_104">(</tc:token>
+      <tc:token ID="t_105">Dija</tc:token>
+      <tc:token ID="t_106">,</tc:token>
+      <tc:token ID="t_107">kdo</tc:token>
+      <tc:token ID="t_108">bo</tc:token>
+      <tc:token ID="t_109">prvi</tc:token>
+      <tc:token ID="t_110">)</tc:token>
+      <tc:token ID="t_111">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25"></tc:sentence>
+      <tc:sentence tokenIDs="t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65"></tc:sentence>
+      <tc:sentence tokenIDs="t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90"></tc:sentence>
+      <tc:sentence tokenIDs="t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" tokenIDs="t_4 t_5 t_6 t_7 t_8"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_1" tokenIDs="t_34"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" tokenIDs="t_41"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" tokenIDs="t_71 t_72 t_73 t_74"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" tokenIDs="t_80 t_81"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" tokenIDs="t_83 t_84 t_85 t_86"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" tokenIDs="t_8"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" tokenIDs="t_6"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Toda razvoj še ni bil končan : leta 1960 so na agronomskem oddelku vpeljali študij živinoreje , to je danes oddelek za zootehniko . Ob razformiranju Prirodoslovne matematične fakultete so k FAGV pridružili še študij biologije in jeseni leta 1961 se je ustanova preoblikovala v Biotehniško fakulteto . Jeseni 1971 se je začel redni študij živilske tehnologije kot smer agronomskega oddelka in leta 1965 kot samostojen študij živilstva . Za raziskovalno , pedagoško in svetovalno delovanje je BTF skupaj s Kmetijskim inštitutom ustanovila Kmetijski poskusni center Jable , leta 1967 pa Raziskovalno postajo za živinorejo Rodica ( Groblje ) in leta 1974 se je agronomskemu oddelku pridružil Zavod za sadjarstvo v Mariboru ( ust. 1946 ) .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Toda</tc:token>
+      <tc:token ID="t_1">razvoj</tc:token>
+      <tc:token ID="t_2">še</tc:token>
+      <tc:token ID="t_3">ni</tc:token>
+      <tc:token ID="t_4">bil</tc:token>
+      <tc:token ID="t_5">končan</tc:token>
+      <tc:token ID="t_6">:</tc:token>
+      <tc:token ID="t_7">leta</tc:token>
+      <tc:token ID="t_8">1960</tc:token>
+      <tc:token ID="t_9">so</tc:token>
+      <tc:token ID="t_10">na</tc:token>
+      <tc:token ID="t_11">agronomskem</tc:token>
+      <tc:token ID="t_12">oddelku</tc:token>
+      <tc:token ID="t_13">vpeljali</tc:token>
+      <tc:token ID="t_14">študij</tc:token>
+      <tc:token ID="t_15">živinoreje</tc:token>
+      <tc:token ID="t_16">,</tc:token>
+      <tc:token ID="t_17">to</tc:token>
+      <tc:token ID="t_18">je</tc:token>
+      <tc:token ID="t_19">danes</tc:token>
+      <tc:token ID="t_20">oddelek</tc:token>
+      <tc:token ID="t_21">za</tc:token>
+      <tc:token ID="t_22">zootehniko</tc:token>
+      <tc:token ID="t_23">.</tc:token>
+      <tc:token ID="t_24">Ob</tc:token>
+      <tc:token ID="t_25">razformiranju</tc:token>
+      <tc:token ID="t_26">Prirodoslovne</tc:token>
+      <tc:token ID="t_27">matematične</tc:token>
+      <tc:token ID="t_28">fakultete</tc:token>
+      <tc:token ID="t_29">so</tc:token>
+      <tc:token ID="t_30">k</tc:token>
+      <tc:token ID="t_31">FAGV</tc:token>
+      <tc:token ID="t_32">pridružili</tc:token>
+      <tc:token ID="t_33">še</tc:token>
+      <tc:token ID="t_34">študij</tc:token>
+      <tc:token ID="t_35">biologije</tc:token>
+      <tc:token ID="t_36">in</tc:token>
+      <tc:token ID="t_37">jeseni</tc:token>
+      <tc:token ID="t_38">leta</tc:token>
+      <tc:token ID="t_39">1961</tc:token>
+      <tc:token ID="t_40">se</tc:token>
+      <tc:token ID="t_41">je</tc:token>
+      <tc:token ID="t_42">ustanova</tc:token>
+      <tc:token ID="t_43">preoblikovala</tc:token>
+      <tc:token ID="t_44">v</tc:token>
+      <tc:token ID="t_45">Biotehniško</tc:token>
+      <tc:token ID="t_46">fakulteto</tc:token>
+      <tc:token ID="t_47">.</tc:token>
+      <tc:token ID="t_48">Jeseni</tc:token>
+      <tc:token ID="t_49">1971</tc:token>
+      <tc:token ID="t_50">se</tc:token>
+      <tc:token ID="t_51">je</tc:token>
+      <tc:token ID="t_52">začel</tc:token>
+      <tc:token ID="t_53">redni</tc:token>
+      <tc:token ID="t_54">študij</tc:token>
+      <tc:token ID="t_55">živilske</tc:token>
+      <tc:token ID="t_56">tehnologije</tc:token>
+      <tc:token ID="t_57">kot</tc:token>
+      <tc:token ID="t_58">smer</tc:token>
+      <tc:token ID="t_59">agronomskega</tc:token>
+      <tc:token ID="t_60">oddelka</tc:token>
+      <tc:token ID="t_61">in</tc:token>
+      <tc:token ID="t_62">leta</tc:token>
+      <tc:token ID="t_63">1965</tc:token>
+      <tc:token ID="t_64">kot</tc:token>
+      <tc:token ID="t_65">samostojen</tc:token>
+      <tc:token ID="t_66">študij</tc:token>
+      <tc:token ID="t_67">živilstva</tc:token>
+      <tc:token ID="t_68">.</tc:token>
+      <tc:token ID="t_69">Za</tc:token>
+      <tc:token ID="t_70">raziskovalno</tc:token>
+      <tc:token ID="t_71">,</tc:token>
+      <tc:token ID="t_72">pedagoško</tc:token>
+      <tc:token ID="t_73">in</tc:token>
+      <tc:token ID="t_74">svetovalno</tc:token>
+      <tc:token ID="t_75">delovanje</tc:token>
+      <tc:token ID="t_76">je</tc:token>
+      <tc:token ID="t_77">BTF</tc:token>
+      <tc:token ID="t_78">skupaj</tc:token>
+      <tc:token ID="t_79">s</tc:token>
+      <tc:token ID="t_80">Kmetijskim</tc:token>
+      <tc:token ID="t_81">inštitutom</tc:token>
+      <tc:token ID="t_82">ustanovila</tc:token>
+      <tc:token ID="t_83">Kmetijski</tc:token>
+      <tc:token ID="t_84">poskusni</tc:token>
+      <tc:token ID="t_85">center</tc:token>
+      <tc:token ID="t_86">Jable</tc:token>
+      <tc:token ID="t_87">,</tc:token>
+      <tc:token ID="t_88">leta</tc:token>
+      <tc:token ID="t_89">1967</tc:token>
+      <tc:token ID="t_90">pa</tc:token>
+      <tc:token ID="t_91">Raziskovalno</tc:token>
+      <tc:token ID="t_92">postajo</tc:token>
+      <tc:token ID="t_93">za</tc:token>
+      <tc:token ID="t_94">živinorejo</tc:token>
+      <tc:token ID="t_95">Rodica</tc:token>
+      <tc:token ID="t_96">(</tc:token>
+      <tc:token ID="t_97">Groblje</tc:token>
+      <tc:token ID="t_98">)</tc:token>
+      <tc:token ID="t_99">in</tc:token>
+      <tc:token ID="t_100">leta</tc:token>
+      <tc:token ID="t_101">1974</tc:token>
+      <tc:token ID="t_102">se</tc:token>
+      <tc:token ID="t_103">je</tc:token>
+      <tc:token ID="t_104">agronomskemu</tc:token>
+      <tc:token ID="t_105">oddelku</tc:token>
+      <tc:token ID="t_106">pridružil</tc:token>
+      <tc:token ID="t_107">Zavod</tc:token>
+      <tc:token ID="t_108">za</tc:token>
+      <tc:token ID="t_109">sadjarstvo</tc:token>
+      <tc:token ID="t_110">v</tc:token>
+      <tc:token ID="t_111">Mariboru</tc:token>
+      <tc:token ID="t_112">(</tc:token>
+      <tc:token ID="t_113">ust.</tc:token>
+      <tc:token ID="t_114">1946</tc:token>
+      <tc:token ID="t_115">)</tc:token>
+      <tc:token ID="t_116">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23"></tc:sentence>
+      <tc:sentence tokenIDs="t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47"></tc:sentence>
+      <tc:sentence tokenIDs="t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68"></tc:sentence>
+      <tc:sentence tokenIDs="t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_31"></tc:reference>
+        <tc:reference ID="rc_1" type="nam" target="rc_2" tokenIDs="t_45 t_46"></tc:reference>
+        <tc:reference ID="rc_2" type="nam" tokenIDs="t_77"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" tokenIDs="t_26 t_27 t_28"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" tokenIDs="t_80 t_81"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" tokenIDs="t_83 t_84 t_85 t_86"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" tokenIDs="t_91 t_92 t_93 t_94 t_95"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" tokenIDs="t_97"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" tokenIDs="t_95"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_9" tokenIDs="t_107 t_108 t_109 t_110 t_111"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" tokenIDs="t_20 t_21 t_22"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" target="rc_12" tokenIDs="t_11 t_12"></tc:reference>
+        <tc:reference ID="rc_12" target="rc_13" tokenIDs="t_59 t_60"></tc:reference>
+        <tc:reference ID="rc_13" tokenIDs="t_104 t_105"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_14" tokenIDs="t_86"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_15" tokenIDs="t_111"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

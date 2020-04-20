@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Dolenjske gospodarstvenike je zanimalo , ali bi bilo mogoče pri urejanju tehnične regulative v skupnosti priti do rešitev , ki bi enotno veljale za vse države hkrati , kajti Trimo mora za vsako državo dobiti posebne certifikate , kar trebanjskemu podjetju jemlje veliko časa in denarja . V Bruslju namenjajo veliko denarja za različne projekte . Izkazalo se je , da so slovenska podjetja slabo organizirana , da bi lahko konkurirala za ta denar . Belokranjce precej skrbi , kaj se bo zgodilo , ko bo na Kolpi tako imenovana schengenska meja . Slovenija bo skupaj s Hrvaško pripravila posebno strokovno študijo o razvoju obmejnega območja v letih 2002 do 2006 . Za tovrstne projekte je Slovenija namenila 80 milijonov tolarjev , kar seveda ni veliko , vendar je denar namenjen za majhne projekte , ki bodo zagotavljali gospodarsko oživitev v demografsko ogroženih področjih . Igor Strmšnik je povedal , da si Slovenija želi ob meji odpraviti posledice in težave , ki jih le - ta prinaša . Na Dolenjskem in v Beli krajini so najbolj zaskrbljeni zaradi kmetijstva . Člani pogajalske skupine so povedali , da je mogoče kmetijstvo ohraniti z regionalno politiko , nakar smo tudi slišali , da je slovensko kmetijstvo danes bolje zaščiteno kot kmetijstvo v vsej EU . Potočnik je z nasmehom še povedal , da ima o zaščiti cvička kar dober občutek .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Dolenjske</tc:token>
+      <tc:token ID="t_1">gospodarstvenike</tc:token>
+      <tc:token ID="t_2">je</tc:token>
+      <tc:token ID="t_3">zanimalo</tc:token>
+      <tc:token ID="t_4">,</tc:token>
+      <tc:token ID="t_5">ali</tc:token>
+      <tc:token ID="t_6">bi</tc:token>
+      <tc:token ID="t_7">bilo</tc:token>
+      <tc:token ID="t_8">mogoče</tc:token>
+      <tc:token ID="t_9">pri</tc:token>
+      <tc:token ID="t_10">urejanju</tc:token>
+      <tc:token ID="t_11">tehnične</tc:token>
+      <tc:token ID="t_12">regulative</tc:token>
+      <tc:token ID="t_13">v</tc:token>
+      <tc:token ID="t_14">skupnosti</tc:token>
+      <tc:token ID="t_15">priti</tc:token>
+      <tc:token ID="t_16">do</tc:token>
+      <tc:token ID="t_17">rešitev</tc:token>
+      <tc:token ID="t_18">,</tc:token>
+      <tc:token ID="t_19">ki</tc:token>
+      <tc:token ID="t_20">bi</tc:token>
+      <tc:token ID="t_21">enotno</tc:token>
+      <tc:token ID="t_22">veljale</tc:token>
+      <tc:token ID="t_23">za</tc:token>
+      <tc:token ID="t_24">vse</tc:token>
+      <tc:token ID="t_25">države</tc:token>
+      <tc:token ID="t_26">hkrati</tc:token>
+      <tc:token ID="t_27">,</tc:token>
+      <tc:token ID="t_28">kajti</tc:token>
+      <tc:token ID="t_29">Trimo</tc:token>
+      <tc:token ID="t_30">mora</tc:token>
+      <tc:token ID="t_31">za</tc:token>
+      <tc:token ID="t_32">vsako</tc:token>
+      <tc:token ID="t_33">državo</tc:token>
+      <tc:token ID="t_34">dobiti</tc:token>
+      <tc:token ID="t_35">posebne</tc:token>
+      <tc:token ID="t_36">certifikate</tc:token>
+      <tc:token ID="t_37">,</tc:token>
+      <tc:token ID="t_38">kar</tc:token>
+      <tc:token ID="t_39">trebanjskemu</tc:token>
+      <tc:token ID="t_40">podjetju</tc:token>
+      <tc:token ID="t_41">jemlje</tc:token>
+      <tc:token ID="t_42">veliko</tc:token>
+      <tc:token ID="t_43">časa</tc:token>
+      <tc:token ID="t_44">in</tc:token>
+      <tc:token ID="t_45">denarja</tc:token>
+      <tc:token ID="t_46">.</tc:token>
+      <tc:token ID="t_47">V</tc:token>
+      <tc:token ID="t_48">Bruslju</tc:token>
+      <tc:token ID="t_49">namenjajo</tc:token>
+      <tc:token ID="t_50">veliko</tc:token>
+      <tc:token ID="t_51">denarja</tc:token>
+      <tc:token ID="t_52">za</tc:token>
+      <tc:token ID="t_53">različne</tc:token>
+      <tc:token ID="t_54">projekte</tc:token>
+      <tc:token ID="t_55">.</tc:token>
+      <tc:token ID="t_56">Izkazalo</tc:token>
+      <tc:token ID="t_57">se</tc:token>
+      <tc:token ID="t_58">je</tc:token>
+      <tc:token ID="t_59">,</tc:token>
+      <tc:token ID="t_60">da</tc:token>
+      <tc:token ID="t_61">so</tc:token>
+      <tc:token ID="t_62">slovenska</tc:token>
+      <tc:token ID="t_63">podjetja</tc:token>
+      <tc:token ID="t_64">slabo</tc:token>
+      <tc:token ID="t_65">organizirana</tc:token>
+      <tc:token ID="t_66">,</tc:token>
+      <tc:token ID="t_67">da</tc:token>
+      <tc:token ID="t_68">bi</tc:token>
+      <tc:token ID="t_69">lahko</tc:token>
+      <tc:token ID="t_70">konkurirala</tc:token>
+      <tc:token ID="t_71">za</tc:token>
+      <tc:token ID="t_72">ta</tc:token>
+      <tc:token ID="t_73">denar</tc:token>
+      <tc:token ID="t_74">.</tc:token>
+      <tc:token ID="t_75">Belokranjce</tc:token>
+      <tc:token ID="t_76">precej</tc:token>
+      <tc:token ID="t_77">skrbi</tc:token>
+      <tc:token ID="t_78">,</tc:token>
+      <tc:token ID="t_79">kaj</tc:token>
+      <tc:token ID="t_80">se</tc:token>
+      <tc:token ID="t_81">bo</tc:token>
+      <tc:token ID="t_82">zgodilo</tc:token>
+      <tc:token ID="t_83">,</tc:token>
+      <tc:token ID="t_84">ko</tc:token>
+      <tc:token ID="t_85">bo</tc:token>
+      <tc:token ID="t_86">na</tc:token>
+      <tc:token ID="t_87">Kolpi</tc:token>
+      <tc:token ID="t_88">tako</tc:token>
+      <tc:token ID="t_89">imenovana</tc:token>
+      <tc:token ID="t_90">schengenska</tc:token>
+      <tc:token ID="t_91">meja</tc:token>
+      <tc:token ID="t_92">.</tc:token>
+      <tc:token ID="t_93">Slovenija</tc:token>
+      <tc:token ID="t_94">bo</tc:token>
+      <tc:token ID="t_95">skupaj</tc:token>
+      <tc:token ID="t_96">s</tc:token>
+      <tc:token ID="t_97">Hrvaško</tc:token>
+      <tc:token ID="t_98">pripravila</tc:token>
+      <tc:token ID="t_99">posebno</tc:token>
+      <tc:token ID="t_100">strokovno</tc:token>
+      <tc:token ID="t_101">študijo</tc:token>
+      <tc:token ID="t_102">o</tc:token>
+      <tc:token ID="t_103">razvoju</tc:token>
+      <tc:token ID="t_104">obmejnega</tc:token>
+      <tc:token ID="t_105">območja</tc:token>
+      <tc:token ID="t_106">v</tc:token>
+      <tc:token ID="t_107">letih</tc:token>
+      <tc:token ID="t_108">2002</tc:token>
+      <tc:token ID="t_109">do</tc:token>
+      <tc:token ID="t_110">2006</tc:token>
+      <tc:token ID="t_111">.</tc:token>
+      <tc:token ID="t_112">Za</tc:token>
+      <tc:token ID="t_113">tovrstne</tc:token>
+      <tc:token ID="t_114">projekte</tc:token>
+      <tc:token ID="t_115">je</tc:token>
+      <tc:token ID="t_116">Slovenija</tc:token>
+      <tc:token ID="t_117">namenila</tc:token>
+      <tc:token ID="t_118">80</tc:token>
+      <tc:token ID="t_119">milijonov</tc:token>
+      <tc:token ID="t_120">tolarjev</tc:token>
+      <tc:token ID="t_121">,</tc:token>
+      <tc:token ID="t_122">kar</tc:token>
+      <tc:token ID="t_123">seveda</tc:token>
+      <tc:token ID="t_124">ni</tc:token>
+      <tc:token ID="t_125">veliko</tc:token>
+      <tc:token ID="t_126">,</tc:token>
+      <tc:token ID="t_127">vendar</tc:token>
+      <tc:token ID="t_128">je</tc:token>
+      <tc:token ID="t_129">denar</tc:token>
+      <tc:token ID="t_130">namenjen</tc:token>
+      <tc:token ID="t_131">za</tc:token>
+      <tc:token ID="t_132">majhne</tc:token>
+      <tc:token ID="t_133">projekte</tc:token>
+      <tc:token ID="t_134">,</tc:token>
+      <tc:token ID="t_135">ki</tc:token>
+      <tc:token ID="t_136">bodo</tc:token>
+      <tc:token ID="t_137">zagotavljali</tc:token>
+      <tc:token ID="t_138">gospodarsko</tc:token>
+      <tc:token ID="t_139">oživitev</tc:token>
+      <tc:token ID="t_140">v</tc:token>
+      <tc:token ID="t_141">demografsko</tc:token>
+      <tc:token ID="t_142">ogroženih</tc:token>
+      <tc:token ID="t_143">področjih</tc:token>
+      <tc:token ID="t_144">.</tc:token>
+      <tc:token ID="t_145">Igor</tc:token>
+      <tc:token ID="t_146">Strmšnik</tc:token>
+      <tc:token ID="t_147">je</tc:token>
+      <tc:token ID="t_148">povedal</tc:token>
+      <tc:token ID="t_149">,</tc:token>
+      <tc:token ID="t_150">da</tc:token>
+      <tc:token ID="t_151">si</tc:token>
+      <tc:token ID="t_152">Slovenija</tc:token>
+      <tc:token ID="t_153">želi</tc:token>
+      <tc:token ID="t_154">ob</tc:token>
+      <tc:token ID="t_155">meji</tc:token>
+      <tc:token ID="t_156">odpraviti</tc:token>
+      <tc:token ID="t_157">posledice</tc:token>
+      <tc:token ID="t_158">in</tc:token>
+      <tc:token ID="t_159">težave</tc:token>
+      <tc:token ID="t_160">,</tc:token>
+      <tc:token ID="t_161">ki</tc:token>
+      <tc:token ID="t_162">jih</tc:token>
+      <tc:token ID="t_163">le</tc:token>
+      <tc:token ID="t_164">-</tc:token>
+      <tc:token ID="t_165">ta</tc:token>
+      <tc:token ID="t_166">prinaša</tc:token>
+      <tc:token ID="t_167">.</tc:token>
+      <tc:token ID="t_168">Na</tc:token>
+      <tc:token ID="t_169">Dolenjskem</tc:token>
+      <tc:token ID="t_170">in</tc:token>
+      <tc:token ID="t_171">v</tc:token>
+      <tc:token ID="t_172">Beli</tc:token>
+      <tc:token ID="t_173">krajini</tc:token>
+      <tc:token ID="t_174">so</tc:token>
+      <tc:token ID="t_175">najbolj</tc:token>
+      <tc:token ID="t_176">zaskrbljeni</tc:token>
+      <tc:token ID="t_177">zaradi</tc:token>
+      <tc:token ID="t_178">kmetijstva</tc:token>
+      <tc:token ID="t_179">.</tc:token>
+      <tc:token ID="t_180">Člani</tc:token>
+      <tc:token ID="t_181">pogajalske</tc:token>
+      <tc:token ID="t_182">skupine</tc:token>
+      <tc:token ID="t_183">so</tc:token>
+      <tc:token ID="t_184">povedali</tc:token>
+      <tc:token ID="t_185">,</tc:token>
+      <tc:token ID="t_186">da</tc:token>
+      <tc:token ID="t_187">je</tc:token>
+      <tc:token ID="t_188">mogoče</tc:token>
+      <tc:token ID="t_189">kmetijstvo</tc:token>
+      <tc:token ID="t_190">ohraniti</tc:token>
+      <tc:token ID="t_191">z</tc:token>
+      <tc:token ID="t_192">regionalno</tc:token>
+      <tc:token ID="t_193">politiko</tc:token>
+      <tc:token ID="t_194">,</tc:token>
+      <tc:token ID="t_195">nakar</tc:token>
+      <tc:token ID="t_196">smo</tc:token>
+      <tc:token ID="t_197">tudi</tc:token>
+      <tc:token ID="t_198">slišali</tc:token>
+      <tc:token ID="t_199">,</tc:token>
+      <tc:token ID="t_200">da</tc:token>
+      <tc:token ID="t_201">je</tc:token>
+      <tc:token ID="t_202">slovensko</tc:token>
+      <tc:token ID="t_203">kmetijstvo</tc:token>
+      <tc:token ID="t_204">danes</tc:token>
+      <tc:token ID="t_205">bolje</tc:token>
+      <tc:token ID="t_206">zaščiteno</tc:token>
+      <tc:token ID="t_207">kot</tc:token>
+      <tc:token ID="t_208">kmetijstvo</tc:token>
+      <tc:token ID="t_209">v</tc:token>
+      <tc:token ID="t_210">vsej</tc:token>
+      <tc:token ID="t_211">EU</tc:token>
+      <tc:token ID="t_212">.</tc:token>
+      <tc:token ID="t_213">Potočnik</tc:token>
+      <tc:token ID="t_214">je</tc:token>
+      <tc:token ID="t_215">z</tc:token>
+      <tc:token ID="t_216">nasmehom</tc:token>
+      <tc:token ID="t_217">še</tc:token>
+      <tc:token ID="t_218">povedal</tc:token>
+      <tc:token ID="t_219">,</tc:token>
+      <tc:token ID="t_220">da</tc:token>
+      <tc:token ID="t_221">ima</tc:token>
+      <tc:token ID="t_222">o</tc:token>
+      <tc:token ID="t_223">zaščiti</tc:token>
+      <tc:token ID="t_224">cvička</tc:token>
+      <tc:token ID="t_225">kar</tc:token>
+      <tc:token ID="t_226">dober</tc:token>
+      <tc:token ID="t_227">občutek</tc:token>
+      <tc:token ID="t_228">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46"></tc:sentence>
+      <tc:sentence tokenIDs="t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55"></tc:sentence>
+      <tc:sentence tokenIDs="t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74"></tc:sentence>
+      <tc:sentence tokenIDs="t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92"></tc:sentence>
+      <tc:sentence tokenIDs="t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111"></tc:sentence>
+      <tc:sentence tokenIDs="t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136 t_137 t_138 t_139 t_140 t_141 t_142 t_143 t_144"></tc:sentence>
+      <tc:sentence tokenIDs="t_145 t_146 t_147 t_148 t_149 t_150 t_151 t_152 t_153 t_154 t_155 t_156 t_157 t_158 t_159 t_160 t_161 t_162 t_163 t_164 t_165 t_166 t_167"></tc:sentence>
+      <tc:sentence tokenIDs="t_168 t_169 t_170 t_171 t_172 t_173 t_174 t_175 t_176 t_177 t_178 t_179"></tc:sentence>
+      <tc:sentence tokenIDs="t_180 t_181 t_182 t_183 t_184 t_185 t_186 t_187 t_188 t_189 t_190 t_191 t_192 t_193 t_194 t_195 t_196 t_197 t_198 t_199 t_200 t_201 t_202 t_203 t_204 t_205 t_206 t_207 t_208 t_209 t_210 t_211 t_212"></tc:sentence>
+      <tc:sentence tokenIDs="t_213 t_214 t_215 t_216 t_217 t_218 t_219 t_220 t_221 t_222 t_223 t_224 t_225 t_226 t_227 t_228"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_29"></tc:reference>
+        <tc:reference ID="rc_1" type="nam" tokenIDs="t_39 t_40"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" type="nam" tokenIDs="t_48"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" type="nam" tokenIDs="t_75"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" type="nam" tokenIDs="t_87"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" type="nam" tokenIDs="t_97"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" type="nam" target="rc_7" tokenIDs="t_93"></tc:reference>
+        <tc:reference ID="rc_7" type="nam" target="rc_8" tokenIDs="t_116"></tc:reference>
+        <tc:reference ID="rc_8" type="nam" tokenIDs="t_152"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_9" type="nam" tokenIDs="t_145 t_146"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" type="nam" tokenIDs="t_169"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" type="nam" tokenIDs="t_172 t_173"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_12" type="nam" tokenIDs="t_211"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_13" type="nam" tokenIDs="t_213"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_14" tokenIDs="t_0 t_1"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

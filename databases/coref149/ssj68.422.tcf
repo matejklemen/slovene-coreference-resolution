@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Vrstni red ; ženske : 1. Petitjean - Douroux ( Fra ) 22 , 2. Kornecki - Bouskila ( Izr ) 27 , 3. Torgersson - Zachrissen ( Šve ) 43 , 4. Dekleva - Maučec ( Slo ) 48 , 5. De Koning - Berkhout ( Niz ) 49 . . . 22. T. Černe - A. Černe ( Slo ) 135 ; moški : 1. Conte - De la Fuebnte ( Arg ) 28 , 2. Rogers - Glanfield ( VB ) 36 , 3. Kliger - Gal ( Izr ) 39 , 4. S. Coster - K. Coster ( Niz ) 47 , 5. B. Bonnaud - R. Bonnaud ( Fra ) 49 . . . 22. Čopi - Glavina ( Slo ) 110 .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Vrstni</tc:token>
+      <tc:token ID="t_1">red</tc:token>
+      <tc:token ID="t_2">;</tc:token>
+      <tc:token ID="t_3">ženske</tc:token>
+      <tc:token ID="t_4">:</tc:token>
+      <tc:token ID="t_5">1.</tc:token>
+      <tc:token ID="t_6">Petitjean</tc:token>
+      <tc:token ID="t_7">-</tc:token>
+      <tc:token ID="t_8">Douroux</tc:token>
+      <tc:token ID="t_9">(</tc:token>
+      <tc:token ID="t_10">Fra</tc:token>
+      <tc:token ID="t_11">)</tc:token>
+      <tc:token ID="t_12">22</tc:token>
+      <tc:token ID="t_13">,</tc:token>
+      <tc:token ID="t_14">2.</tc:token>
+      <tc:token ID="t_15">Kornecki</tc:token>
+      <tc:token ID="t_16">-</tc:token>
+      <tc:token ID="t_17">Bouskila</tc:token>
+      <tc:token ID="t_18">(</tc:token>
+      <tc:token ID="t_19">Izr</tc:token>
+      <tc:token ID="t_20">)</tc:token>
+      <tc:token ID="t_21">27</tc:token>
+      <tc:token ID="t_22">,</tc:token>
+      <tc:token ID="t_23">3.</tc:token>
+      <tc:token ID="t_24">Torgersson</tc:token>
+      <tc:token ID="t_25">-</tc:token>
+      <tc:token ID="t_26">Zachrissen</tc:token>
+      <tc:token ID="t_27">(</tc:token>
+      <tc:token ID="t_28">Šve</tc:token>
+      <tc:token ID="t_29">)</tc:token>
+      <tc:token ID="t_30">43</tc:token>
+      <tc:token ID="t_31">,</tc:token>
+      <tc:token ID="t_32">4.</tc:token>
+      <tc:token ID="t_33">Dekleva</tc:token>
+      <tc:token ID="t_34">-</tc:token>
+      <tc:token ID="t_35">Maučec</tc:token>
+      <tc:token ID="t_36">(</tc:token>
+      <tc:token ID="t_37">Slo</tc:token>
+      <tc:token ID="t_38">)</tc:token>
+      <tc:token ID="t_39">48</tc:token>
+      <tc:token ID="t_40">,</tc:token>
+      <tc:token ID="t_41">5.</tc:token>
+      <tc:token ID="t_42">De</tc:token>
+      <tc:token ID="t_43">Koning</tc:token>
+      <tc:token ID="t_44">-</tc:token>
+      <tc:token ID="t_45">Berkhout</tc:token>
+      <tc:token ID="t_46">(</tc:token>
+      <tc:token ID="t_47">Niz</tc:token>
+      <tc:token ID="t_48">)</tc:token>
+      <tc:token ID="t_49">49</tc:token>
+      <tc:token ID="t_50">.</tc:token>
+      <tc:token ID="t_51">.</tc:token>
+      <tc:token ID="t_52">.</tc:token>
+      <tc:token ID="t_53">22.</tc:token>
+      <tc:token ID="t_54">T.</tc:token>
+      <tc:token ID="t_55">Černe</tc:token>
+      <tc:token ID="t_56">-</tc:token>
+      <tc:token ID="t_57">A.</tc:token>
+      <tc:token ID="t_58">Černe</tc:token>
+      <tc:token ID="t_59">(</tc:token>
+      <tc:token ID="t_60">Slo</tc:token>
+      <tc:token ID="t_61">)</tc:token>
+      <tc:token ID="t_62">135</tc:token>
+      <tc:token ID="t_63">;</tc:token>
+      <tc:token ID="t_64">moški</tc:token>
+      <tc:token ID="t_65">:</tc:token>
+      <tc:token ID="t_66">1.</tc:token>
+      <tc:token ID="t_67">Conte</tc:token>
+      <tc:token ID="t_68">-</tc:token>
+      <tc:token ID="t_69">De</tc:token>
+      <tc:token ID="t_70">la</tc:token>
+      <tc:token ID="t_71">Fuebnte</tc:token>
+      <tc:token ID="t_72">(</tc:token>
+      <tc:token ID="t_73">Arg</tc:token>
+      <tc:token ID="t_74">)</tc:token>
+      <tc:token ID="t_75">28</tc:token>
+      <tc:token ID="t_76">,</tc:token>
+      <tc:token ID="t_77">2.</tc:token>
+      <tc:token ID="t_78">Rogers</tc:token>
+      <tc:token ID="t_79">-</tc:token>
+      <tc:token ID="t_80">Glanfield</tc:token>
+      <tc:token ID="t_81">(</tc:token>
+      <tc:token ID="t_82">VB</tc:token>
+      <tc:token ID="t_83">)</tc:token>
+      <tc:token ID="t_84">36</tc:token>
+      <tc:token ID="t_85">,</tc:token>
+      <tc:token ID="t_86">3.</tc:token>
+      <tc:token ID="t_87">Kliger</tc:token>
+      <tc:token ID="t_88">-</tc:token>
+      <tc:token ID="t_89">Gal</tc:token>
+      <tc:token ID="t_90">(</tc:token>
+      <tc:token ID="t_91">Izr</tc:token>
+      <tc:token ID="t_92">)</tc:token>
+      <tc:token ID="t_93">39</tc:token>
+      <tc:token ID="t_94">,</tc:token>
+      <tc:token ID="t_95">4.</tc:token>
+      <tc:token ID="t_96">S.</tc:token>
+      <tc:token ID="t_97">Coster</tc:token>
+      <tc:token ID="t_98">-</tc:token>
+      <tc:token ID="t_99">K.</tc:token>
+      <tc:token ID="t_100">Coster</tc:token>
+      <tc:token ID="t_101">(</tc:token>
+      <tc:token ID="t_102">Niz</tc:token>
+      <tc:token ID="t_103">)</tc:token>
+      <tc:token ID="t_104">47</tc:token>
+      <tc:token ID="t_105">,</tc:token>
+      <tc:token ID="t_106">5.</tc:token>
+      <tc:token ID="t_107">B.</tc:token>
+      <tc:token ID="t_108">Bonnaud</tc:token>
+      <tc:token ID="t_109">-</tc:token>
+      <tc:token ID="t_110">R.</tc:token>
+      <tc:token ID="t_111">Bonnaud</tc:token>
+      <tc:token ID="t_112">(</tc:token>
+      <tc:token ID="t_113">Fra</tc:token>
+      <tc:token ID="t_114">)</tc:token>
+      <tc:token ID="t_115">49</tc:token>
+      <tc:token ID="t_116">.</tc:token>
+      <tc:token ID="t_117">.</tc:token>
+      <tc:token ID="t_118">.</tc:token>
+      <tc:token ID="t_119">22.</tc:token>
+      <tc:token ID="t_120">Čopi</tc:token>
+      <tc:token ID="t_121">-</tc:token>
+      <tc:token ID="t_122">Glavina</tc:token>
+      <tc:token ID="t_123">(</tc:token>
+      <tc:token ID="t_124">Slo</tc:token>
+      <tc:token ID="t_125">)</tc:token>
+      <tc:token ID="t_126">110</tc:token>
+      <tc:token ID="t_127">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" tokenIDs="t_6"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_1" type="nam" tokenIDs="t_8"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" type="nam" target="rc_3" tokenIDs="t_10"></tc:reference>
+        <tc:reference ID="rc_3" type="nam" tokenIDs="t_113"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" type="nam" tokenIDs="t_15"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" type="nam" tokenIDs="t_17"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" type="nam" target="rc_7" tokenIDs="t_19"></tc:reference>
+        <tc:reference ID="rc_7" type="nam" tokenIDs="t_91"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" type="nam" tokenIDs="t_24"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_9" type="nam" tokenIDs="t_26"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" type="nam" tokenIDs="t_28"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" type="nam" tokenIDs="t_33"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_12" type="nam" tokenIDs="t_35"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_13" type="nam" tokenIDs="t_42 t_43"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_14" type="nam" tokenIDs="t_45"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_15" type="nam" tokenIDs="t_54 t_55"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_16" type="nam" tokenIDs="t_57 t_58"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_17" type="nam" tokenIDs="t_67"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_18" type="nam" tokenIDs="t_69 t_70 t_71"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_19" type="nam" tokenIDs="t_73"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_20" type="nam" tokenIDs="t_78"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_21" type="nam" tokenIDs="t_80"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_22" type="nam" tokenIDs="t_82"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_23" type="nam" tokenIDs="t_87"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_24" type="nam" tokenIDs="t_89"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_25" type="nam" tokenIDs="t_96 t_97"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_26" type="nam" tokenIDs="t_99 t_100"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_27" type="nam" target="rc_28" tokenIDs="t_47"></tc:reference>
+        <tc:reference ID="rc_28" type="nam" tokenIDs="t_102"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_29" type="nam" tokenIDs="t_107 t_108"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_30" type="nam" tokenIDs="t_110 t_111"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_31" type="nam" tokenIDs="t_120"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_32" type="nam" tokenIDs="t_122"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_33" type="nam" target="rc_34" tokenIDs="t_37"></tc:reference>
+        <tc:reference ID="rc_34" type="nam" target="rc_35" tokenIDs="t_60"></tc:reference>
+        <tc:reference ID="rc_35" type="nam" tokenIDs="t_124"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

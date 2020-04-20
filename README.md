@@ -9,11 +9,30 @@ Before doing anything, the dependencies need to be installed.
 $ pip install -r requirements.txt
 ```
 
+NOTE: if you have problems with `tourch` library, make sure you have python x64 installed. Also make use of [this](https://pytorch.org/get-started/locally/#start-locally) official command builder. 
+
 The project operates with 2 datasets: [SSJ500k](https://www.clarin.si/repository/xmlui/handle/11356/1210) 
 and [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182), so make sure to download them (download the 
-`sl TEI` version of ssj500k).
+`sl TEI` version of ssj500k).   
+
 Coref149 is the main dataset we use, while the other one is used for additional metadata such as dependencies 
 and POS tags.
+
+Example project structure:  
+``` 
++-- report   
+|   +--  ssj500k-sl.TEI   
+|   |   +-- ...   
+|   +-- coref149   
+|   |   +-- ...   
++-- src   
+|   +-- ...   
++-- databases   
+|   +-- ...   
++-- README.md   
++-- requirements.txt   
+```
+  
 
 Since only a subset of SSJ500k is used, it can be trimmed to decrease its size and improve loading time. 
 To do that, run `trim_ssj.py`.
@@ -22,6 +41,11 @@ To do that, run `trim_ssj.py`.
 $ python src/trim_ssj --coref149_dir="..." \
     --ssj500k_path=".../ssj500k-sl.body.xml" \
     --target_path="..."
+```
+
+Example command for project structure above:   
+```
+python ./src/trim_ssj.py --coref149_dir="databases" --ssj500k_path="./databases/ssj500k-sl.TEI/ssj500k-sl.body.xml --target_path="./databases/ssj500k-sl.TEI/ssj500k-reduced.xml"
 ```
 
 TBD additional steps as more things get added.

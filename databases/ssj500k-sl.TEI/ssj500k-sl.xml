@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ssj500k" xml:lang="sl">
+   <teiHeader>
+     <fileDesc>
+       <titleStmt>
+         <title xml:lang="sl">Korpus ssj500k V2.2 (slovenske oznake)</title>
+         <title xml:lang="en">Corpus ssj500k V2.2 (Slovene annotations)</title>
+         <author>Krek, Simon</author>
+         <author>Dobrovoljc, Kaja</author>
+         <author>Erjavec, Tomaž</author>
+         <author>Može, Sara</author>
+         <author>Ledinek, Nina</author>
+         <author>Holz, Nanika</author>
+         <author>Zupan, Katja</author>
+         <author>Gantar, Polona</author>
+         <author>Kuzman, Taja</author>
+         <author>Čibej, Jaka</author>
+         <author>Arhar Holdt, Špela</author>
+         <author>Kavčič, Teja</author>
+         <author>Škrjanec, Iza</author>
+         <author>Marko, Dafne</author>
+         <author>Jezeršek, Lucija</author>
+         <author>Zajc, Anja</author>
+         <principal>
+           <name>
+             <ref target="http://www.simonkrek.si/">Simon Krek</ref>
+           </name>
+           <address xml:lang="en">
+             <addrLine>Artificial Intelligence Laboratory</addrLine>
+             <addrLine>Jožef Stefan Institute</addrLine>
+             <addrLine>Jamova cesta 39</addrLine>
+             <addrLine>SI-1000 Ljubljana</addrLine>
+             <addrLine>Slovenia</addrLine>
+           </address>
+           <address xml:lang="sl">
+             <addrLine>Laboratorij za umetno inteligenco</addrLine>
+             <addrLine>Institut "Jožef Stefan"</addrLine>
+             <addrLine>Jamova cesta 39</addrLine>
+             <addrLine>1000 Ljubljana</addrLine>
+           </address>
+         </principal>
+         <respStmt>
+           <resp xml:lang="en">Morphosyntanctic, syntactic, named entity, and verbal phrase annotation supervision.</resp>
+           <resp xml:lang="sl">Vodenje označevanja oblikoslovja, skladnje, imenskih entitet in glagolskih fraz.</resp>
+           <name>Simon Krek</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">TEI / XML corpus encoding.</resp>
+           <resp xml:lang="sl">Redakcija zapisa TEI / XML.</resp>
+           <name>Tomaž Erjavec</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Adding SRL and MWE annotations to TEI / XML.</resp>
+           <resp xml:lang="sl">Dodajanje oznak SRL in MWE v TEI / XML.</resp>
+           <name>Jaka Čibej</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Spacing correction.</resp>
+           <resp xml:lang="sl">Popravljanje presledkov.</resp>
+           <name>Špela Arhar Holdt</name>
+           <name>Polona Gantar</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Semantic role labeling.</resp>
+           <resp xml:lang="sl">Označevanje udeleženskih vlog.</resp>
+           <name>Polona Gantar</name>
+           <name>Simon Krek</name>
+           <name>Taja Kuzman</name>
+           <name>Iza Škrjanec</name>
+           <name>Dafne Marko</name>
+           <name>Lucija Jezeršek</name>
+           <name>Anja Zajc</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Verbal phrase annotation.</resp>
+           <resp xml:lang="sl">Označevanje glagolskih fraz.</resp>
+           <name>Polona Gantar</name>
+           <name>Taja Kuzman</name>
+           <name>Teja Kavčič</name>
+           <name>Špela Arhar Holdt</name>
+           <name>Simon Krek</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Named entity annotation.</resp>
+           <resp xml:lang="sl">Označevanje imenskih entitet.</resp>
+           <name>Nanika Holz</name>
+           <name>Katja Zupan</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Morphosyntanctic and syntactic annotation correction.</resp>
+           <resp xml:lang="sl">Popravki oznak oblikoslovja in skladnje.</resp>
+           <name>Kaja Dobrovoljc</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Syntactic annotation JOS.</resp>
+           <resp xml:lang="sl">Skladenjsko označevanje JOS.</resp>
+           <name>Kaja Dobrovoljc</name>
+           <name>Nanika Holz</name>
+           <name>Nina Ledinek</name>
+           <name>Sara Može</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Morphosyntactic annotation.</resp>
+           <resp xml:lang="sl">Oblikoskladenjsko označevanje.</resp>
+           <name>Kristina Bizjak</name>
+           <name>Živa Blaževič</name>
+           <name>Klara Canzutti</name>
+           <name>Lea Cibrič</name>
+           <name>Kaja Dobrovoljc</name>
+           <name>Tadeja Dušej</name>
+           <name>Ivana Fekeža</name>
+           <name>Nanika Holz</name>
+           <name>Urška Kamenšek</name>
+           <name>Andreja Košir</name>
+           <name>Robert Kuret</name>
+           <name>Andrej Lovšin</name>
+           <name>Boštjan Marhold</name>
+           <name>Nina Mikulin</name>
+           <name>Barbara Modrijan</name>
+           <name>Tanja Novak</name>
+           <name>Lea Peršič</name>
+           <name>Tanja Radovič</name>
+           <name>Simona Šinkovec</name>
+           <name>Urška Vranjek</name>
+           <name>Jerneja Umer</name>
+           <name>Petra Žalodec</name>
+         </respStmt>
+         <respStmt>
+           <resp xml:lang="en">Universal Dependencies annotation.</resp>
+           <resp xml:lang="sl">Označevanje Universal Dependencies.</resp>
+           <name>Kaja Dobrovoljc</name>
+           <name>Tomaž Erjavec</name>
+           <name>Simon Krek</name>
+         </respStmt>
+       </titleStmt>
+       <editionStmt>
+         <edition>2.2</edition>
+       </editionStmt>
+       <extent>
+	 <measure xml:lang="sl" unit="words" quantity="500295">500.295 besed</measure>
+	 <measure xml:lang="en" unit="words" quantity="500295">500,295 words</measure>
+       </extent>
+       <publicationStmt>
+         <distributor>
+           <ref target="http://www.clarin.si/">CLARIN.SI</ref>
+         </distributor>
+         <pubPlace>
+           <ref target="http://hdl.handle.net/11356/1210">http://hdl.handle.net/11356/1210</ref>
+         </pubPlace>
+         <availability>
+           <p xml:lang="sl">Avtorske pravice za to izdajo ureja licenca <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 4.0</ref>.</p>
+           <p xml:lang="sl">Pri uporabi dela morate citirati bibliografsko referenco, ki je podana v repozitoriju CLARIN.SI za ta vnos.</p>
+           <p xml:lang="en">This work is licenced under the licence <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</ref>.</p>
+           <p xml:lang="en">You must attribute the work by citing the biblographic entry given in the CLARIN.SI repository for this entry.</p>
+         </availability>
+         <date>2019-01-26</date>
+       </publicationStmt>
+       <sourceDesc>
+         <listBibl>
+           <biblFull>
+             <titleStmt>
+               <title xml:lang="sl">Korpus jos100k V2.0 (angleške oznake)</title>
+               <title xml:lang="en">Corpus jos100k V2.0 (English annotations)</title>
+               <principal>
+                 <name>
+                   <ref target="http://nl.ijs.si/et/">Tomaž Erjavec</ref>
+                 </name>
+                 <address xml:lang="en">
+                   <addrLine>Department of Knowledge Technologies</addrLine>
+                   <addrLine>Jožef Stefan Institute</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>SI-1000 Ljubljana</addrLine>
+                   <addrLine>Slovenia</addrLine>
+                 </address>
+                 <address xml:lang="sl">
+                   <addrLine>Odsek za tehnologije znanja</addrLine>
+                   <addrLine>Institut "Jožef Stefan"</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>1000 Ljubljana</addrLine>
+                 </address>
+               </principal>
+               <respStmt>
+                 <resp xml:lang="en">Morphosyntanctic and syntactic annotation supervision.</resp>
+                 <resp xml:lang="sl">Vodenje oblikoslovnega in skladenjskega označevanja.</resp>
+                 <name>Simon Krek</name>
+               </respStmt>
+               <respStmt>
+                 <resp xml:lang="en">Semantic annotation supervision.</resp>
+                 <resp xml:lang="sl">Vodenje semantičnega označevanja.</resp>
+                 <name>Darja Fišer</name>
+               </respStmt>
+               <respStmt>
+                 <resp xml:lang="en">Morphosyntactic annotation.</resp>
+                 <resp xml:lang="sl">Oblikoskladenjsko označevanje.</resp>
+                 <name>Anita Drvoderič</name>
+                 <name>Dejan Hribar</name>
+                 <name>Kaja Hadalin</name>
+                 <name>Katarina Draškovič</name>
+                 <name>Sara Može</name>
+                 <name>Simon Šuster</name>
+                 <name>Tanja Barčič</name>
+                 <name>Tina Bole</name>
+               </respStmt>
+               <respStmt>
+                 <resp xml:lang="en">Syntactic annotation.</resp>
+                 <resp xml:lang="sl">Skadenjsko označevanje.</resp>
+                 <name>Anita Drvoderič</name>
+                 <name>Ivana Fekeža</name>
+                 <name>Katja Cingerle</name>
+                 <name>Nina Mikulin</name>
+                 <name>Tadeja Dušej</name>
+                 <name>Urška Kamenšek</name>
+               </respStmt>
+               <respStmt>
+                 <resp xml:lang="en">Semantic annotation.</resp>
+                 <resp xml:lang="sl">Semantično označevanje.</resp>
+                 <name>Tina Benčina</name>
+                 <name>Ljubica Damevska</name>
+                 <name>Sanja Sladič</name>
+                 <name>Zala Šmid</name>
+               </respStmt>
+             </titleStmt>
+             <editionStmt>
+               <edition>2.0</edition>
+             </editionStmt>
+             <extent>100003 <term xml:lang="en">words</term>
+             <term xml:lang="sl">besede</term>
+             </extent>
+             <publicationStmt>
+               <distributor>
+                 <address xml:lang="en">
+                   <addrLine>Department of Knowledge Technologies</addrLine>
+                   <addrLine>Jožef Stefan Institute</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>SI-1000 Ljubljana</addrLine>
+                   <addrLine>Slovenia</addrLine>
+                 </address>
+                 <address xml:lang="sl">
+                   <addrLine>Odsek za tehnologije znanja</addrLine>
+                   <addrLine>Institut "Jožef Stefan"</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>1000 Ljubljana</addrLine>
+                 </address>
+               </distributor>
+               <pubPlace>
+                 <ref target="http://nl.ijs.si/jos/">http://nl.ijs.si/jos/</ref>
+               </pubPlace>
+               <availability>
+                 <p xml:lang="sl">Avtorske pravice za to izdajo ureja licenca <ref target="http://creativecommons.org/licenses/by-nc/3.0/deed.sl">Creative Commons Priznanje avtorstva-Nekomercialno 3.0</ref>.
+                 </p>
+                 <p xml:lang="en">This work is licenced under the <ref target="http://creativecommons.org/licenses/by-nc/3.0/deed.en">Creative Commons Attribution-Noncommercial 3.0 licence</ref>.</p>
+               </availability>
+               <date>2010-03-18</date>
+             </publicationStmt>
+             <sourceDesc>
+               <bibl xml:lang="sl">Vzorci iz korpusa
+                 <ref target="http://www.fidaplus.net/">FidaPLUS</ref>
+               </bibl>
+               <bibl xml:lang="en">Samples from the
+                 <ref target="http://www.fidaplus.net/">FidaPLUS</ref> corpus</bibl>
+             </sourceDesc>
+           </biblFull>
+           <biblFull>
+             <titleStmt>
+               <title xml:lang="sl">Oblikoslovno označeni korpus jos1M (angleške oznake)</title>
+               <title xml:lang="en">Morphosyntactically tagged corpus jos1M (English tags)</title>
+               <principal>
+                 <name>
+                   <ref target="http://nl.ijs.si/et/">Tomaž Erjavec</ref>
+                 </name>
+                 <address xml:lang="en">
+                   <addrLine>Department of Knowledge Technologies</addrLine>
+                   <addrLine>Jožef Stefan Institute</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>SI-1000 Ljubljana</addrLine>
+                   <addrLine>Slovenia</addrLine>
+                 </address>
+                 <address xml:lang="sl">
+                   <addrLine>Odsek za tehnologije znanja</addrLine>
+                   <addrLine>Institut "Jožef Stefan"</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>1000 Ljubljana</addrLine>
+                 </address>
+               </principal>
+               <respStmt>
+                 <resp xml:lang="en">Linguistic annotation supervision.</resp>
+                 <resp xml:lang="sl">Vodenje oblikoslovnega označevanja.</resp>
+                 <name>Simon Krek</name>
+               </respStmt>
+               <respStmt>
+                 <resp xml:lang="en">Morphosyntactic annotation.</resp>
+                 <resp xml:lang="sl">Oblikoskladenjsko označevanje.</resp>
+                 <name>Tanja Barčič</name>
+                 <name>Tina Bole</name>
+                 <name>Katarina Draškovič</name>
+                 <name>Anita Drvoderič</name>
+                 <name>Kaja Hadalin</name>
+                 <name>Dejan Hribar</name>
+                 <name>Sara Može</name>
+                 <name>Simon Šuster</name>
+               </respStmt>
+             </titleStmt>
+             <editionStmt>
+               <edition>1.0</edition>
+             </editionStmt>
+             <extent>1000019 <term xml:lang="en">words</term>
+             <term xml:lang="sl">besed</term>
+             </extent>
+             <publicationStmt>
+               <distributor>
+                 <address xml:lang="en">
+                   <addrLine>Department of Knowledge Technologies</addrLine>
+                   <addrLine>Jožef Stefan Institute</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>SI-1000 Ljubljana</addrLine>
+                   <addrLine>Slovenia</addrLine>
+                 </address>
+                 <address xml:lang="sl">
+                   <addrLine>Odsek za tehnologije znanja</addrLine>
+                   <addrLine>Institut "Jožef Stefan"</addrLine>
+                   <addrLine>Jamova cesta 39</addrLine>
+                   <addrLine>1000 Ljubljana</addrLine>
+                 </address>
+               </distributor>
+               <pubPlace>
+                 <ref target="http://nl.ijs.si/jos/">http://nl.ijs.si/jos/</ref>
+               </pubPlace>
+               <availability>
+                 <p xml:lang="sl">Avtorske pravice za to izdajo ureja licenca <ref target="http://creativecommons.org/licenses/by-nc/3.0/deed.sl">Creative Commons Priznanje avtorstva-Nekomercialno 3.0</ref>.</p>
+                 <p xml:lang="en">This work is licenced under the <ref target="http://creativecommons.org/licenses/by-nc/3.0/deed.en">Creative Commons Attribution-Noncommercial 3.0 licence</ref>.</p>
+               </availability>
+               <date>2009-02-11</date>
+             </publicationStmt>
+             <sourceDesc>
+               <bibl xml:lang="sl">Vzorci iz korpusa FidaPLUS</bibl>
+               <bibl xml:lang="en">Samples from the FidaPLUS corpus</bibl>
+             </sourceDesc>
+           </biblFull>
+         </listBibl>
+       </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+       <projectDesc>
+         <p xml:lang="sl"><ref target="http://www.slovenscina.eu/">Sporazumevanje v slovenskem jeziku</ref></p>
+         <p xml:lang="en"><ref target="http://www.slovenscina.eu/">Communication in Slovene</ref></p>
+       </projectDesc>
+       <samplingDecl>
+         <p xml:lang="en">This corpus is composed out of the jos100k corpus and portions of the jos1M corpus, which are both paragraph sampled corpora, where the paragraphs were taken from the FidaPLUS reference corpus. The jos100k corpus was taken in its entirety, while 400,000 words, slightly less than half, were taken from jos1M. Here, a set of paragraphs was selected, such that they satisfied cetain heuristics meant to ensure that the text of the paragraphs was well formed. For example, the paragraphs had to contain at least 3 words, not more than 3 unknown words or typos, etc.</p>
+         <p xml:lang="sl">Korpus je sestavljen iz korpusa jos100k in delov korpusa jos1M, pri čemer sta korpusa JOS po odstavkih vzorčena iz referenčnega korpusa FidaPLUS. Korpus jos100k je bil vključen v celoti, medtem ko je bilo iz jos1M vzetih samo 400.000 besed, torej nekaj manj kot pol. Iz jos1M so bili izbrani odstavki, ki zadovoljujejo več hevristik, katerih namen je, da izberejo samo odstavke, ki vsebujejo dobro oblikovano besedilo. Tako so npr. zajeti samo odstavki, ki vsebujejo vsaj tri besede, nimajo več kot 3 tuje besede oz. tipkarske napake itd.</p>
+       </samplingDecl>
+       <editorialDecl>
+         <correction>
+           <p xml:lang="en">The text was manually corrected for typos.</p>
+           <p xml:lang="sl">Tipkarske napake v besedilu so bile ročno popravljene.</p>
+         </correction>
+         <quotation>
+           <p xml:lang="en">Quotation marks have been left in the text and are not explicitly marked up.</p>
+           <p xml:lang="sl">Navednice so del besedila, besedilo znotraj navednic ni posebej označeno.</p>
+         </quotation>
+         <segmentation>
+           <p xml:lang="en">The texts are segmented into paragraphs, sentences, words and punctuation. Sentence and token markup has been manually corrected from the source FidaPLUS segmentation.</p>
+           <p xml:lang="sl">Besedila so razdeljena v odstavke, stavke, besede in ločila. Oznake za stavke in pojavnice so bile ročno popravljene glede na izvorni korpus FidaPLUS.</p>
+         </segmentation>
+         <interpretation>
+           <p xml:lang="en">Word-level linguistic annotation comprises the manually checked lemma of a word and its morphosyntactic description. The system of annotation follows the <ref target="http://nl.ijs.si/ME/V6/msd/">MULTEXT-East morphosyntactic specification Version 6</ref> for Slovene. The words are also annotated with the Universal Dependencies features which have been automatically produced on the basis of the MULTEXT-East morphosyntactic descriptions.</p>
+           <p xml:lang="sl">Jezikoslovne oznake besed vsebujejo ročno pregledano lemo in oblikoskladenjsko oznako. Sistem označevanja sledi <ref target="http://nl.ijs.si/ME/V6/msd/">Priporočilom za oblikoskladenjsko označevanje MULTEXT-East različica 6</ref> za slovenski jezik. Besede so tudi označene z lastnostmi Universal Dependencies, ki so bile avtomatsko generirane na osnovi oblikoskladensjkih oznak MULTEXT-East.</p>
+           <p xml:lang="en">Syntactic annotation follows two dependency frameworks. The JOS dependency relations have been manually annotated. This system of annotation follows the <ref target="http://nl.ijs.si/jos/">Specifications of dependency annotations JOS</ref>. The Universal Dependencies have been automatically produced on the basis of the JOS annotations. Only about half of the corpus has been JOS syntactically annotated, and about a quarter with UD dependencies.</p>
+           <p xml:lang="sl">Skladenjsko označevanje je izraženo v dveh odvisnostnih modelih. Oznake so bile ročno pregledane. Sistem označevanja JOS sledi <ref target="http://nl.ijs.si/jos/">Specifikacijam odvisnostnega označevanja JOS</ref>. Odvisnosti Universal Dependencies so bile avtomatsko generirane na osnovi odvisnosti JOS. Samo približno polovica korpusa je JOS skladenjsko označena in okoli četrtina z oznakami UD.</p>
+           <p xml:lang="en">Named entity annotation was done manually according to the <ref target="http://nl.ijs.si/janes/wp-content/uploads/2017/09/SlovenianNER-eng-v1.1.pdf">Annotation guidelines for Slovenian named entities V1.1</ref>. Only about half of the corpus has been NER annotated.</p>
+           <p xml:lang="sl">Označevanje imenskih entitet je bilo opravljeno ročno v skladu s <ref target="http://nl.ijs.si/janes/wp-content/uploads/2017/09/SlovenianNER-slv-v1.1.pdf">Smernice za označevanje imenskih entitet v slovenskem jeziku V1.1</ref>. Samo približno polovica korpusa je označena z imenskimi entitetami.</p>
+           <p xml:lang="en">Verbal multiword expression annotations were manually added. The annotation follows the <ref target="http://parsemefr.lif.univ-mrs.fr/parseme-st-guidelines/1.1">Guidelines of the PARSEME shared task 1.1</ref>.</p>
+           <p xml:lang="sl">Označevanje glagolskih večbesednih izrazov je bilo opravljeno ročno v skladu s <ref target="http://parsemefr.lif.univ-mrs.fr/parseme-st-guidelines/1.1">Smernicami PARSEME 1.1</ref>.</p>
+         </interpretation>
+         <stdVals>
+           <p xml:lang="en">The two-letter language codes follow ISO 639-1 and are defined in the language usage element.</p>
+           <p xml:lang="sl">Dvočrkovne kode jezikov sledijo ISO 639-1 in so definirane v elementu uporabe jezikov.</p>
+           <p xml:lang="en">Names identified in the text are categorised into types given in the taxonomy "Janes.NER" in this teiHeader.</p>
+           <p xml:lang="sl">Imena, identificirana v korpusu, so razdeljena na vrste podane v taksonomiji "Janes.NER" v tem kolofonu TEI.</p>
+           <p xml:lang="sl">Vrste glagolskih večbesednih izrazov so zapisane v taksonomiji "PARSEME.VMWE" v tem kolofonu TEI.</p>
+           <p xml:lang="en">Verbal multiword expression types are given in the taxonomy "PARSEME.VMWE" in this teiHeader.</p>
+           <p xml:lang="en">The names of JOS syntactic dependency functions are given in the in the back of this document.</p>
+           <p xml:lang="sl">Imena skladenjskih odvisnostnih povezav JOS so zapisana v prilogi tega dokumenta.</p>
+           <p xml:lang="en">The names of UD syntactic dependency functions are given in the taxonomy "UD-SYN" in teiHeader of this document.</p>
+           <p xml:lang="sl">Imena skladenjskih odvisnostnih povezav UD so zapisana v taksonomiji "UD-SYN" v kolofonu tega dokumenta.</p>
+           <p xml:lang="en">Morphosyntactic descriptions are given in the feature-structure library in the back of this document.</p>
+           <p xml:lang="sl">Oblikoslovne oznake so podane v strukturah lastnosti v prilogi tega dokumenta.</p>
+         </stdVals>
+       </editorialDecl>
+       <tagsDecl>
+         <namespace name="http://www.tei-c.org/ns/1.0">
+           <tagUsage gi="text" occurs="1"/>
+           <tagUsage gi="body" occurs="1"/>
+           <tagUsage gi="div" occurs="1661"/>
+           <tagUsage gi="bibl" occurs="1657"/>
+           <tagUsage gi="title" occurs="1620"/>
+           <tagUsage gi="author" occurs="312"/>
+           <tagUsage gi="date" occurs="1612"/>
+           <tagUsage gi="publisher" occurs="1599"/>
+           <tagUsage gi="note" occurs="1553"/>
+           <tagUsage gi="term" occurs="9338"/>
+           <tagUsage gi="p" occurs="8145"/>
+           <tagUsage gi="seg" occurs="7016">
+             <desc xml:lang="sl">Lastno ime. Atributa sta @type="name" in @subtype, ki določa vrsto imena.</desc>
+             <desc xml:lang="en">Proper noun. Attributes are @type="name" and @subtype, denoting the type of the name.</desc>
+           </tagUsage>
+           <tagUsage gi="linkGrp" occurs="19375">
+             <desc xml:lang="sl">Element s @type="JOS-SYN" vsebuje JOS odvisnostne skladenjske povezave enega stavka, s @type="UD-SYN" vsebuje njegove UD odvisnostne skladenjske povezave, s @type="MWE" njegove večbesedne izraze, s @type="SRL" pa udeleženske vloge v stavku.</desc>
+             <desc xml:lang="en">This element with @type="JOS-SYN" contains a syntactic dependencies of a sentence, with @type="UD-SYN" its UD syntactic dependencies, with @type="MWE" is multiword expression, and with @type="SRL" its semantic roles.</desc>
+           </tagUsage>
+           <tagUsage gi="link" occurs="263872">
+             <desc xml:lang="sl">Vsebuje eno odvisnostno skladenjsko povezavo ali kazalce na pojavnice, ki konstituirajo en glagoski večbesedni izraz ali povezavo udeleženskih vlog med dvema pojavnicama.</desc>
+             <desc xml:lang="en">Contains a syntactic dependency or pointers to tokens constituting one verbal multiword expression or a semantic role annotation between two tokens.</desc>
+           </tagUsage>
+           <tagUsage gi="s" occurs="27829"/>
+           <tagUsage gi="w" occurs="500295">
+             <desc xml:lang="sl">Besedna pojavnica. Atributi so @lemma (osnovna oblika) in @ana (oblikoskladenjska oznaka MULTEXT-East).</desc>
+             <desc xml:lang="en">Linguistically annotated word token. Attributes are @lemma (base form) and @ana (MULTEXT-East MSD).</desc>
+           </tagUsage>
+           <tagUsage gi="pc" occurs="85953">
+             <desc xml:lang="sl">Ločilo. Atribut je @ana (oblikoskladenjska oznaka MULTEXT-East).</desc>
+             <desc xml:lang="en">Punctuation token. Attribute is @ana (MULTEXT-East MSD).</desc>
+           </tagUsage>
+           <tagUsage gi="c" occurs="493105">
+             <desc xml:lang="sl">Vsebuje samo znak za presledek in označuje (ne)stičnost besed oz. ločil.</desc>
+             <desc xml:lang="en">Contains only space characters to denote whitespace in text.</desc>
+           </tagUsage>
+           <tagUsage gi="back" occurs="1">
+             <desc xml:lang="sl">Vsebuje definicije oblikoskladenjskih in skladenjskih oznak.</desc>
+             <desc xml:lang="en">Contains the definitions of morphosyntactic and syntactic annotations.</desc>
+           </tagUsage>
+           <tagUsage gi="docAuthor" occurs="1"/>
+           <tagUsage gi="docDate" occurs="1"/>
+           <tagUsage gi="head" occurs="10"/>
+           <tagUsage gi="list" occurs="2"/>
+           <tagUsage gi="item" occurs="20"/>
+           <tagUsage gi="ref" occurs="6"/>
+           <tagUsage gi="fLib" occurs="2">
+             <desc xml:lang="sl">Vsebuje definicije oblikoskladenjskih lastnosti v slovenščini in angleščini.</desc>
+             <desc xml:lang="en">Contains the definitions of morphosyntactic features in Slovene and English.</desc>
+           </tagUsage>
+           <tagUsage gi="f" occurs="282">
+             <desc xml:lang="sl">Definicija ene oblikoskladenjske lastnosti.</desc>
+             <desc xml:lang="en">The definition of one morphosyntactic feature.</desc>
+           </tagUsage>
+           <tagUsage gi="symbol" occurs="282"/>
+           <tagUsage gi="fvLib" occurs="2">
+             <desc xml:lang="sl">Vsebuje definicije oblikoskladenjskih oznak v slovenščini in angleščini.</desc>
+             <desc xml:lang="en">Contains the definitions of morphosyntactic descriptions in Slovene and English.</desc>
+           </tagUsage>
+           <tagUsage gi="fs" occurs="3806">
+             <desc xml:lang="sl">Definicija ene oblikoskladenjske oznake.</desc>
+             <desc xml:lang="en">The definition of one morphosyntactic description.</desc>
+           </tagUsage>
+         </namespace>
+       </tagsDecl>
+       <classDecl>
+         <taxonomy xml:id="Ft" n="text types">
+           <category xml:id="Ft.P">
+             <catDesc>
+               <term xml:lang="sl">prenosnik</term>
+               <term xml:lang="en">medium</term>
+             </catDesc>
+             <category xml:id="Ft.P.G">
+               <catDesc>
+                 <term xml:lang="sl">govorni</term>
+                 <term xml:lang="en">spoken</term>
+               </catDesc>
+             </category>
+             <category xml:id="Ft.P.E">
+               <catDesc>
+                 <term xml:lang="sl">elektronski</term>
+                 <term xml:lang="en">electronic</term>
+               </catDesc>
+             </category>
+             <category xml:id="Ft.P.P">
+               <catDesc>
+                 <term xml:lang="sl">pisni</term>
+                 <term xml:lang="en">written</term>
+               </catDesc>
+               <category xml:id="Ft.P.P.O">
+                 <catDesc>
+                   <term xml:lang="sl">objavljeno</term>
+                   <term xml:lang="en">published</term>
+                 </catDesc>
+                 <category xml:id="Ft.P.P.O.K">
+                   <catDesc>
+                     <term xml:lang="sl">knjižno</term>
+                     <term xml:lang="en">book</term>
+                   </catDesc>
+                 </category>
+                 <category xml:id="Ft.P.P.O.P">
+                   <catDesc>
+                     <term xml:lang="sl">periodično</term>
+                     <term xml:lang="en">periodical</term>
+                   </catDesc>
+                   <category xml:id="Ft.P.P.O.P.C">
+                     <catDesc>
+                       <term xml:lang="sl">časopisno</term>
+                       <term xml:lang="en">newspaper</term>
+                     </catDesc>
+                     <category xml:id="Ft.P.P.O.P.C.D">
+                       <catDesc>
+                         <term xml:lang="sl">dnevno</term>
+                         <term xml:lang="en">daily</term>
+                       </catDesc>
+                     </category>
+                     <category xml:id="Ft.P.P.O.P.C.V">
+                       <catDesc>
+                         <term xml:lang="sl">večkrat tedensko</term>
+                         <term xml:lang="en">several times a week</term>
+                       </catDesc>
+                     </category>
+                     <category xml:id="Ft.P.P.O.P.C.T">
+                       <catDesc>
+                         <term xml:lang="sl">tedensko</term>
+                         <term xml:lang="en">weekly</term>
+                       </catDesc>
+                     </category>
+                   </category>
+                   <category xml:id="Ft.P.P.O.P.R">
+                     <catDesc>
+                       <term xml:lang="sl">revialno</term>
+                       <term xml:lang="en">magazine</term>
+                     </catDesc>
+                     <category xml:id="Ft.P.P.O.P.R.T">
+                       <catDesc>
+                         <term xml:lang="sl">tedensko</term>
+                         <term xml:lang="en">weekly</term>
+                       </catDesc>
+                     </category>
+                     <category xml:id="Ft.P.P.O.P.R.S">
+                       <catDesc>
+                         <term xml:lang="sl">štirinajstdnevno</term>
+                         <term xml:lang="en">fortnightly</term>
+                       </catDesc>
+                     </category>
+                     <category xml:id="Ft.P.P.O.P.R.M">
+                       <catDesc>
+                         <term xml:lang="sl">mesečno</term>
+                         <term xml:lang="en">monthly</term>
+                       </catDesc>
+                     </category>
+                     <category xml:id="Ft.P.P.O.P.R.D">
+                       <catDesc>
+                         <term xml:lang="sl">redkeje kot na mesec</term>
+                         <term xml:lang="en">less than monthly</term>
+                       </catDesc>
+                     </category>
+                     <category xml:id="Ft.P.P.O.P.R.O">
+                       <catDesc>
+                         <term xml:lang="sl">občasno</term>
+                         <term xml:lang="en">sporadically</term>
+                       </catDesc>
+                     </category>
+                   </category>
+                 </category>
+               </category>
+               <category xml:id="Ft.P.P.N">
+                 <catDesc>
+                   <term xml:lang="sl">neobjavljeno</term>
+                   <term xml:lang="en">unpublished</term>
+                 </catDesc>
+                 <category xml:id="Ft.P.P.N.J">
+                   <catDesc>
+                     <term xml:lang="sl">javno</term>
+                     <term xml:lang="en">public</term>
+                   </catDesc>
+                 </category>
+                 <category xml:id="Ft.P.P.N.I">
+                   <catDesc>
+                     <term xml:lang="sl">interno</term>
+                     <term xml:lang="en">internal</term>
+                   </catDesc>
+                 </category>
+                 <category xml:id="Ft.P.P.N.Z">
+                   <catDesc>
+                     <term xml:lang="sl">zasebno</term>
+                     <term xml:lang="en">private</term>
+                   </catDesc>
+                 </category>
+               </category>
+             </category>
+           </category>
+           <category xml:id="Ft.Z">
+             <catDesc>
+               <term xml:lang="sl">zvrst</term>
+               <term xml:lang="en">text type</term>
+             </catDesc>
+             <category xml:id="Ft.Z.U">
+               <catDesc>
+                 <term xml:lang="sl">umetnostna</term>
+                 <term xml:lang="en">fiction</term>
+               </catDesc>
+               <category xml:id="Ft.Z.U.P">
+                 <catDesc>
+                   <term xml:lang="sl">pesniška</term>
+                   <term xml:lang="en">poetry</term>
+                 </catDesc>
+               </category>
+               <category xml:id="Ft.Z.U.R">
+                 <catDesc>
+                   <term xml:lang="sl">prozna</term>
+                   <term xml:lang="en">prose</term>
+                 </catDesc>
+               </category>
+               <category xml:id="Ft.Z.U.D">
+                 <catDesc>
+                   <term xml:lang="sl">dramska</term>
+                   <term xml:lang="en">drama</term>
+                 </catDesc>
+               </category>
+             </category>
+             <category xml:id="Ft.Z.N">
+               <catDesc>
+                 <term xml:lang="sl">neumetnostna</term>
+                 <term xml:lang="en">non-fiction</term>
+               </catDesc>
+               <category xml:id="Ft.Z.N.S">
+                 <catDesc>
+                   <term xml:lang="sl">strokovna</term>
+                   <term xml:lang="en">professional</term>
+                 </catDesc>
+                 <category xml:id="Ft.Z.N.S.H">
+                   <catDesc>
+                     <term xml:lang="sl">humanistična in družboslovna</term>
+                     <term xml:lang="en">humanities and social sciences</term>
+                   </catDesc>
+                 </category>
+                 <category xml:id="Ft.Z.N.S.N">
+                   <catDesc>
+                     <term xml:lang="sl">naravoslovna in tehnična</term>
+                     <term xml:lang="en">natural sciences and technical writing</term>
+                   </catDesc>
+                 </category>
+               </category>
+               <category xml:id="Ft.Z.N.N">
+                 <catDesc>
+                   <term xml:lang="sl">nestrokovna</term>
+                   <term xml:lang="en">non-professional</term>
+                 </catDesc>
+               </category>
+               <category xml:id="Ft.Z.N.P">
+                 <catDesc>
+                   <term xml:lang="sl">pravna</term>
+                   <term xml:lang="en">law</term>
+                 </catDesc>
+               </category>
+             </category>
+           </category>
+           <category xml:id="Ft.L">
+             <catDesc>
+               <term xml:lang="sl">lektorirano</term>
+               <term xml:lang="en">proof-reading</term>
+             </catDesc>
+             <category xml:id="Ft.L.D">
+               <catDesc>
+                 <term xml:lang="sl">da</term>
+                 <term xml:lang="en">yes</term>
+               </catDesc>
+             </category>
+             <category xml:id="Ft.L.N">
+               <catDesc>
+                 <term xml:lang="sl">ne</term>
+                 <term xml:lang="en">no</term>
+               </catDesc>
+             </category>
+           </category>
+         </taxonomy>
+         <taxonomy xml:id="UD-SYN">
+           <category xml:id="acl">
+             <catDesc xml:lang="en">Clausal modifier of noun (adjectival clause)</catDesc>
+             <catDesc xml:lang="sl">Clausal modifier of noun (adjectival clause)</catDesc>
+           </category>
+           <category xml:id="advcl">
+             <catDesc xml:lang="en">Adverbial clause modifier</catDesc>
+           </category>
+           <category xml:id="advmod">
+             <catDesc xml:lang="en">Adverbial modifier</catDesc>
+           </category>
+           <category xml:id="amod">
+             <catDesc xml:lang="en">Adjectival modifier</catDesc>
+           </category>
+           <category xml:id="appos">
+             <catDesc xml:lang="en">Appositional modifier</catDesc>
+           </category>
+           <category xml:id="aux">
+             <catDesc xml:lang="en">Auxiliary</catDesc>
+           </category>
+           <category xml:id="case">
+             <catDesc xml:lang="en">Case marking</catDesc>
+           </category>
+           <category xml:id="cc">
+             <catDesc xml:lang="en">Coordinating conjunction</catDesc>
+           </category>
+           <category xml:id="ccomp">
+             <catDesc xml:lang="en">Clausal complement</catDesc>
+           </category>
+           <category xml:id="cc_preconj">
+             <catDesc xml:lang="en">Preconjunct</catDesc>
+           </category>
+           <category xml:id="conj">
+             <catDesc xml:lang="en">Conjunct</catDesc>
+           </category>
+           <category xml:id="cop">
+             <catDesc xml:lang="en">Copula</catDesc>
+           </category>
+           <category xml:id="csubj">
+             <catDesc xml:lang="en">Clausal subject</catDesc>
+           </category>
+           <category xml:id="dep">
+             <catDesc xml:lang="en">Unspecified dependency</catDesc>
+           </category>
+           <category xml:id="det">
+             <catDesc xml:lang="en">Determiner</catDesc>
+           </category>
+           <category xml:id="discourse">
+             <catDesc xml:lang="en">Discourse element</catDesc>
+           </category>
+           <category xml:id="expl">
+             <catDesc xml:lang="en">Expletive</catDesc>
+           </category>
+           <category xml:id="fixed">
+             <catDesc xml:lang="en">Fixed multiword expression</catDesc>
+           </category>
+           <category xml:id="flat">
+             <catDesc xml:lang="en">Flat multiword expression</catDesc>
+           </category>
+           <category xml:id="flat_foreign">
+             <catDesc xml:lang="en">Flat multiword expression: foreign</catDesc>
+           </category>
+           <category xml:id="flat_name">
+             <catDesc xml:lang="en">Flat name</catDesc>
+           </category>
+           <category xml:id="iobj">
+             <catDesc xml:lang="en">Indirect object</catDesc>
+           </category>
+           <category xml:id="mark">
+             <catDesc xml:lang="en">Marker</catDesc>
+           </category>
+           <category xml:id="nmod">
+             <catDesc xml:lang="en">Nominal modifier</catDesc>
+           </category>
+           <category xml:id="nsubj">
+             <catDesc xml:lang="en">Nominal subject</catDesc>
+           </category>
+           <category xml:id="nummod">
+             <catDesc xml:lang="en">Numeric modifier</catDesc>
+           </category>
+           <category xml:id="obj">
+             <catDesc xml:lang="en">Object</catDesc>
+           </category>
+           <category xml:id="obl">
+             <catDesc xml:lang="en">Oblique nominal</catDesc>
+           </category>
+           <category xml:id="parataxis">
+             <catDesc xml:lang="en">Parataxis</catDesc>
+           </category>
+           <category xml:id="punct">
+             <catDesc xml:lang="en">Punctuation</catDesc>
+           </category>
+           <category xml:id="root">
+             <catDesc xml:lang="en">Root</catDesc>
+           </category>
+           <category xml:id="xcomp">
+             <catDesc xml:lang="en">Open clausal complement</catDesc>
+           </category>
+         </taxonomy>
+         <taxonomy xml:id="Janes.NER">
+           <category xml:id="per">
+             <catDesc xml:lang="sl">oseba</catDesc>
+             <catDesc xml:lang="en">person</catDesc>
+           </category>
+           <category xml:id="deriv-per">
+             <catDesc xml:lang="sl">izpeljano iz osebe</catDesc>
+             <catDesc xml:lang="en">person derivative</catDesc>
+           </category>
+           <category xml:id="loc">
+             <catDesc xml:lang="sl">lokacija</catDesc>
+             <catDesc xml:lang="en">location</catDesc>
+           </category>
+           <category xml:id="org">
+             <catDesc xml:lang="sl">organizacija</catDesc>
+             <catDesc xml:lang="en">organization</catDesc>
+           </category>
+           <category xml:id="misc">
+             <catDesc xml:lang="sl">drugo</catDesc>
+             <catDesc xml:lang="en">miscellaneous</catDesc>
+           </category>
+         </taxonomy>
+         <taxonomy xml:id="PARSEME.VMWE">
+           <category xml:id="VID">
+             <catDesc xml:lang="sl">glagolski idiom</catDesc>
+             <catDesc xml:lang="en">verbal idiom</catDesc>
+           </category>
+           <category xml:id="IRV">
+             <catDesc xml:lang="sl">inherentno povratni glagol</catDesc>
+             <catDesc xml:lang="en">inherently reflexive verb</catDesc>
+           </category>
+           <category xml:id="LVC.full">
+             <catDesc xml:lang="sl">zveza z glagolom z oslabljenim pomenom</catDesc>
+             <catDesc xml:lang="en">light verb construction (full)</catDesc>
+           </category>
+           <category xml:id="LVC.cause">
+             <catDesc xml:lang="sl">vzročna zveza z glagolom z oslabljenim pomenom</catDesc>
+             <catDesc xml:lang="en">light verb construction (cause)</catDesc>
+           </category>
+           <category xml:id="IAV">
+             <catDesc xml:lang="sl">predložna glagolska zveza</catDesc>
+             <catDesc xml:lang="en">inherently adpositional verb</catDesc>
+           </category>
+         </taxonomy>
+         <taxonomy xml:id="SRL">
+           <category xml:id="ACT">
+             <catDesc xml:lang="sl">vršilec</catDesc>
+             <catDesc xml:lang="en">actor</catDesc>
+           </category>
+           <category xml:id="PAT">
+             <catDesc xml:lang="sl">prizadeto</catDesc>
+             <catDesc xml:lang="en">patient</catDesc>
+           </category>
+           <category xml:id="REC">
+             <catDesc xml:lang="sl">prejemnik</catDesc>
+             <catDesc xml:lang="en">receiver</catDesc>
+           </category>
+           <category xml:id="ORIG">
+             <catDesc xml:lang="sl">izvor</catDesc>
+             <catDesc xml:lang="en">origin</catDesc>
+           </category>
+           <category xml:id="RESLT">
+             <catDesc xml:lang="sl">učinek</catDesc>
+             <catDesc xml:lang="en">result</catDesc>
+           </category>
+           <category xml:id="TIME">
+             <catDesc xml:lang="sl">čas</catDesc>
+             <catDesc xml:lang="en">time</catDesc>
+           </category>
+           <category xml:id="DUR">
+             <catDesc xml:lang="sl">trajanje</catDesc>
+             <catDesc xml:lang="en">duration</catDesc>
+           </category>
+           <category xml:id="FREQ">
+             <catDesc xml:lang="sl">pogostnost</catDesc>
+             <catDesc xml:lang="en">frequency</catDesc>
+           </category>
+           <category xml:id="LOC">
+             <catDesc xml:lang="sl">kraj</catDesc>
+             <catDesc xml:lang="en">location</catDesc>
+           </category>
+           <category xml:id="SOURCE">
+             <catDesc xml:lang="sl">začetna lokacija</catDesc>
+             <catDesc xml:lang="en">source</catDesc>
+           </category>
+           <category xml:id="GOAL">
+             <catDesc xml:lang="sl">končna lokacija</catDesc>
+             <catDesc xml:lang="en">goal</catDesc>
+           </category>
+           <category xml:id="EVENT">
+             <catDesc xml:lang="sl">dogodek</catDesc>
+             <catDesc xml:lang="en">event</catDesc>
+           </category>
+           <category xml:id="AIM">
+             <catDesc xml:lang="sl">namen</catDesc>
+             <catDesc xml:lang="en">aim</catDesc>
+           </category>
+           <category xml:id="CAUSE">
+             <catDesc xml:lang="sl">vzrok</catDesc>
+             <catDesc xml:lang="en">cause</catDesc>
+           </category>
+           <category xml:id="CONTR">
+             <catDesc xml:lang="sl">protivnost</catDesc>
+             <catDesc xml:lang="en">contradiction</catDesc>
+           </category>
+           <category xml:id="COND">
+             <catDesc xml:lang="sl">pogoj</catDesc>
+             <catDesc xml:lang="en">condition</catDesc>
+           </category>
+           <category xml:id="REG">
+             <catDesc xml:lang="sl">ozir</catDesc>
+             <catDesc xml:lang="en">regard</catDesc>
+           </category>
+           <category xml:id="ACMP">
+             <catDesc xml:lang="sl">spremstvo</catDesc>
+             <catDesc xml:lang="en">accompaniment</catDesc>
+           </category>
+           <category xml:id="RESTR">
+             <catDesc xml:lang="sl">omejitev</catDesc>
+             <catDesc xml:lang="en">restriction</catDesc>
+           </category>
+           <category xml:id="MANN">
+             <catDesc xml:lang="sl">način</catDesc>
+             <catDesc xml:lang="en">manner</catDesc>
+           </category>
+           <category xml:id="MEANS">
+             <catDesc xml:lang="sl">sredstvo</catDesc>
+             <catDesc xml:lang="en">means</catDesc>
+           </category>
+           <category xml:id="QUANT">
+             <catDesc xml:lang="sl">količina</catDesc>
+             <catDesc xml:lang="en">quantity</catDesc>
+           </category>
+           <category xml:id="MWPRED">
+             <catDesc xml:lang="sl">zveza z nedoločnikom</catDesc>
+             <catDesc xml:lang="en">multiword predicate</catDesc>
+           </category>
+           <category xml:id="MODAL">
+             <catDesc xml:lang="sl">zveza z modalnim glagolom</catDesc>
+             <catDesc xml:lang="en">modal</catDesc>
+           </category>
+           <category xml:id="PHRAS">
+             <catDesc xml:lang="sl">frazeološka zveza</catDesc>
+             <catDesc xml:lang="en">phraseme</catDesc>
+           </category>
+         </taxonomy>
+       </classDecl>
+       <listPrefixDef>
+         <prefixDef ident="mte" matchPattern="(.+)" replacementPattern="#$1">
+           <p xml:lang="en">Private URIs with this prefix point to feature-structure elements defining the Slovene JOS MSDs. In this document they are simply local references to the morphosyntactic specifications in the back.</p>
+           <p xml:lang="sl">Zasebni naslovi URI s to predpono kažejo na element fs, ki definirajo slovenske oblikoskladenjske oznake JOS. V tem dokumentu so to enostavno lokalne reference na oblikoskladenjske specifikacije v prilogi.</p>
+         </prefixDef>
+         <prefixDef ident="jos-syn" matchPattern="(.+)" replacementPattern="#$1">
+           <p xml:lang="en">Private URIs with this prefix point to elements giving their explanation and mapping to English and Slovene. In this document they are simply local references to the JOS syntactic specifications in the back matter.</p>
+           <p xml:lang="sl">Zasebni naslovi URI s to predpono kažejo na elemente, ki jih pojasnijo in podajo njihovo preslikavo v angleščino in slovenščino. V pričujočem dokumentu so to enostavno lokalne reference na skladenjske specifikacije JOS v prilogi tega dokumenta.</p>
+         </prefixDef>
+         <prefixDef ident="ud-syn" matchPattern="(.+)" replacementPattern="#$1">
+           <p>Private URIs with this prefix point to elements giving their name in English and Slovene. In this document they are simply local references into the UD-SYN taxonomy categories in this TEI header.</p>
+           <p xml:lang="sl">Zasebni naslovi URI s to predpono kažejo na elemente, ki podajo preslikavo v njihove slovenske in angleške termine. V pričujočem dokumentu so to enostavno lokalne reference v taksonomijo UD-SYN, ki se nahajaja v kolofonu TEI.</p>
+         </prefixDef>
+         <prefixDef ident="mwe" matchPattern="(.+)" replacementPattern="#$1">
+           <p xml:lang="en">Private URIs with this prefix point to elements giving their mapping to Slovene and English terms. In this document they are simply local references to the verbal multiword expressions given in the "PARSEME.VMWE" taxonomy in the teiHeader.</p>
+           <p xml:lang="sl">Zasebni naslovi URI s to predpono kažejo na elemente, ki podajo preslikavo v njihove slovenske in angleške termine.  V pričujočem dokumentu so to enostavno lokalne reference na vrste PARSEME glagolskih večbesednih izrazov, ki se nahajajo v taksonomiji "PARSEME.VMWE" v kolofonu TEI.</p>
+         </prefixDef>
+         <prefixDef ident="srl" matchPattern="(.+)" replacementPattern="#$1">
+           <p xml:lang="en">Private URIs with this prefix point to elements giving their explanation and mapping to English. In this document they are simply local references to the semantic roles in the "SRL" taxonomy in the teiHeader.</p>
+           <p xml:lang="sl">Zasebni naslovi URI s to predpono kažejo na elemente, ki jih pojasnijo in podajo njihovo preslikavo v angleščino. V pričujočem dokumentu so to enostavno lokalne reference na udeleženske vloge v taksonomiji "SRL" v kolofonu TEI.</p>
+         </prefixDef>
+       </listPrefixDef>
+     </encodingDesc>
+     <profileDesc>
+       <langUsage>
+         <language ident="sl">
+           <term xml:lang="sl">slovenščina</term>
+           <term xml:lang="en">Slovene</term>
+         </language>
+         <language ident="en">
+           <term xml:lang="sl">angleščina</term>
+           <term xml:lang="en">English</term>
+         </language>
+       </langUsage>
+     </profileDesc>
+     <revisionDesc xml:lang="sl">
+       <change when="2019-01-26"><name>Tomaž Erjavec</name>: popravki kolofona, prefiksov, presledkov, navednic in bibl.</change>
+       <change when="2018-03-16"><name>Tomaž Erjavec</name>: manjši popravki kolofona.</change>
+       <change when="2018-03-15"><name>Jaka Čibej</name>: dodajanje označevalcev udeleženskih vlog, popravek kategorij glagolskih besednih zvez, dopolnjen kolofon.</change>
+       <change when="2017-11-21"><name>Tomaž Erjavec</name>: popravljeni založniki, dopolnjen kolofon in dodatki.</change>
+       <change when="2017-10-18"><name>Špela Arhar Holdt</name>, <name>Polona Gantar</name>, <name>Tomaž Erjavec</name>: popravki presledkov pri narekovajih in vezajih.</change>
+       <change when="2017-02-08"><name>Polona Gantar</name>, <name>Tomaž Erjavec</name>: dodajanje oznak za glagolske fraze.</change>
+       <change when="2017-02-08"><name>Katja Zupan</name>: popravljanje in dodajanje oznak NER.</change>
+       <change when="2017-01-30"><name>Kaja Dobrovoljc</name>: manjši popravki jezikoslovnih oznak.</change>
+       <change when="2015-10-26"><name>Tomaž Erjavec</name>: pretvorba iz zapisa SSJ v TEI P5 "CLARIN.SI" in osvežen kolofon, V1.4, http://hdl.handle.net/11356/1052.</change>
+       <change when="2015-10-20"><name>Kaja Dobrovoljc</name>: več sto popravkov jezikoslovnih oznak.</change>
+       <change when="2015-03-11"><name>Kaja Dobrovoljc</name>: popravki treh cikličnih odvisnosti.</change>
+       <change when="2013-05-31"><name>Tomaž Erjavec, Simon Krek</name>: stvarna imena razdeljena na imena organizacij in (ostala) stvarna imena.</change>
+       <change when="2013-04-24"><name>Tomaž Erjavec</name>: dodani bibliografski podatki, popravljene napake pri stičnosti okroglega predklepaja, odstranjeni prazni razdelki, zbrisane 3 podvojene odvisnosti, majhne spremembe kolofona.</change>
+       <change when="2012-02-29"><name>Simon Krek</name>, <name>Tomaž Erjavec</name>: popravljene napake v oznakah in kolofonu.</change>
+       <change when="2011-08-02"><name>Tomaž Erjavec</name>: popravki in validacija.</change>
+     </revisionDesc>
+   </teiHeader>
+   <text xml:id="ssj500k.text" xml:lang="sl">
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ssj500k-sl.body.xml"/>
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ssj500k.back.xml"/>
+   </text>
+</TEI>

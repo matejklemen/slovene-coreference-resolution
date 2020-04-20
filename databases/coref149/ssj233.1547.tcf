@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Janez Pipan , ravnatelj ljubljanske Drame , mi je zaupal režijo gledališke uspešnice Art , ki jo je napisala naturalizirana Francozinja Yasmina Reza .
+S predstavo naj bi proslavili petintrideseto obletnico ustanovitve Male drame , ki sem jo pred polčetrtim desetletjem s Štihovo podporo postavil na noge in jo nekaj časa tudi uspešno vodil .
+Besedilo mi je bilo zelo všeč , napisano je bilo zelo spretno , zaplete treh prijateljev okrog modernistične bele slike , je mlada avtorica izkoristila za vivisekcijo zapletenih odnosov med tremi mladimi ljudmi v odtujeni moderni družbi .
+Prevladujejo humoristični toni , vendar je med vrsticami izjemno humornih dialogov ves čas čutiti prisotnost resnega , skoraj filozofsko zastavljenega pogleda na svet .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Janez</tc:token>
+      <tc:token ID="t_1">Pipan</tc:token>
+      <tc:token ID="t_2">,</tc:token>
+      <tc:token ID="t_3">ravnatelj</tc:token>
+      <tc:token ID="t_4">ljubljanske</tc:token>
+      <tc:token ID="t_5">Drame</tc:token>
+      <tc:token ID="t_6">,</tc:token>
+      <tc:token ID="t_7">mi</tc:token>
+      <tc:token ID="t_8">je</tc:token>
+      <tc:token ID="t_9">zaupal</tc:token>
+      <tc:token ID="t_10">režijo</tc:token>
+      <tc:token ID="t_11">gledališke</tc:token>
+      <tc:token ID="t_12">uspešnice</tc:token>
+      <tc:token ID="t_13">Art</tc:token>
+      <tc:token ID="t_14">,</tc:token>
+      <tc:token ID="t_15">ki</tc:token>
+      <tc:token ID="t_16">jo</tc:token>
+      <tc:token ID="t_17">je</tc:token>
+      <tc:token ID="t_18">napisala</tc:token>
+      <tc:token ID="t_19">naturalizirana</tc:token>
+      <tc:token ID="t_20">Francozinja</tc:token>
+      <tc:token ID="t_21">Yasmina</tc:token>
+      <tc:token ID="t_22">Reza</tc:token>
+      <tc:token ID="t_23">.</tc:token>
+      <tc:token ID="t_24">S</tc:token>
+      <tc:token ID="t_25">predstavo</tc:token>
+      <tc:token ID="t_26">naj</tc:token>
+      <tc:token ID="t_27">bi</tc:token>
+      <tc:token ID="t_28">proslavili</tc:token>
+      <tc:token ID="t_29">petintrideseto</tc:token>
+      <tc:token ID="t_30">obletnico</tc:token>
+      <tc:token ID="t_31">ustanovitve</tc:token>
+      <tc:token ID="t_32">Male</tc:token>
+      <tc:token ID="t_33">drame</tc:token>
+      <tc:token ID="t_34">,</tc:token>
+      <tc:token ID="t_35">ki</tc:token>
+      <tc:token ID="t_36">sem</tc:token>
+      <tc:token ID="t_37">jo</tc:token>
+      <tc:token ID="t_38">pred</tc:token>
+      <tc:token ID="t_39">polčetrtim</tc:token>
+      <tc:token ID="t_40">desetletjem</tc:token>
+      <tc:token ID="t_41">s</tc:token>
+      <tc:token ID="t_42">Štihovo</tc:token>
+      <tc:token ID="t_43">podporo</tc:token>
+      <tc:token ID="t_44">postavil</tc:token>
+      <tc:token ID="t_45">na</tc:token>
+      <tc:token ID="t_46">noge</tc:token>
+      <tc:token ID="t_47">in</tc:token>
+      <tc:token ID="t_48">jo</tc:token>
+      <tc:token ID="t_49">nekaj</tc:token>
+      <tc:token ID="t_50">časa</tc:token>
+      <tc:token ID="t_51">tudi</tc:token>
+      <tc:token ID="t_52">uspešno</tc:token>
+      <tc:token ID="t_53">vodil</tc:token>
+      <tc:token ID="t_54">.</tc:token>
+      <tc:token ID="t_55">Besedilo</tc:token>
+      <tc:token ID="t_56">mi</tc:token>
+      <tc:token ID="t_57">je</tc:token>
+      <tc:token ID="t_58">bilo</tc:token>
+      <tc:token ID="t_59">zelo</tc:token>
+      <tc:token ID="t_60">všeč</tc:token>
+      <tc:token ID="t_61">,</tc:token>
+      <tc:token ID="t_62">napisano</tc:token>
+      <tc:token ID="t_63">je</tc:token>
+      <tc:token ID="t_64">bilo</tc:token>
+      <tc:token ID="t_65">zelo</tc:token>
+      <tc:token ID="t_66">spretno</tc:token>
+      <tc:token ID="t_67">,</tc:token>
+      <tc:token ID="t_68">zaplete</tc:token>
+      <tc:token ID="t_69">treh</tc:token>
+      <tc:token ID="t_70">prijateljev</tc:token>
+      <tc:token ID="t_71">okrog</tc:token>
+      <tc:token ID="t_72">modernistične</tc:token>
+      <tc:token ID="t_73">bele</tc:token>
+      <tc:token ID="t_74">slike</tc:token>
+      <tc:token ID="t_75">,</tc:token>
+      <tc:token ID="t_76">je</tc:token>
+      <tc:token ID="t_77">mlada</tc:token>
+      <tc:token ID="t_78">avtorica</tc:token>
+      <tc:token ID="t_79">izkoristila</tc:token>
+      <tc:token ID="t_80">za</tc:token>
+      <tc:token ID="t_81">vivisekcijo</tc:token>
+      <tc:token ID="t_82">zapletenih</tc:token>
+      <tc:token ID="t_83">odnosov</tc:token>
+      <tc:token ID="t_84">med</tc:token>
+      <tc:token ID="t_85">tremi</tc:token>
+      <tc:token ID="t_86">mladimi</tc:token>
+      <tc:token ID="t_87">ljudmi</tc:token>
+      <tc:token ID="t_88">v</tc:token>
+      <tc:token ID="t_89">odtujeni</tc:token>
+      <tc:token ID="t_90">moderni</tc:token>
+      <tc:token ID="t_91">družbi</tc:token>
+      <tc:token ID="t_92">.</tc:token>
+      <tc:token ID="t_93">Prevladujejo</tc:token>
+      <tc:token ID="t_94">humoristični</tc:token>
+      <tc:token ID="t_95">toni</tc:token>
+      <tc:token ID="t_96">,</tc:token>
+      <tc:token ID="t_97">vendar</tc:token>
+      <tc:token ID="t_98">je</tc:token>
+      <tc:token ID="t_99">med</tc:token>
+      <tc:token ID="t_100">vrsticami</tc:token>
+      <tc:token ID="t_101">izjemno</tc:token>
+      <tc:token ID="t_102">humornih</tc:token>
+      <tc:token ID="t_103">dialogov</tc:token>
+      <tc:token ID="t_104">ves</tc:token>
+      <tc:token ID="t_105">čas</tc:token>
+      <tc:token ID="t_106">čutiti</tc:token>
+      <tc:token ID="t_107">prisotnost</tc:token>
+      <tc:token ID="t_108">resnega</tc:token>
+      <tc:token ID="t_109">,</tc:token>
+      <tc:token ID="t_110">skoraj</tc:token>
+      <tc:token ID="t_111">filozofsko</tc:token>
+      <tc:token ID="t_112">zastavljenega</tc:token>
+      <tc:token ID="t_113">pogleda</tc:token>
+      <tc:token ID="t_114">na</tc:token>
+      <tc:token ID="t_115">svet</tc:token>
+      <tc:token ID="t_116">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23"></tc:sentence>
+      <tc:sentence tokenIDs="t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54"></tc:sentence>
+      <tc:sentence tokenIDs="t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92"></tc:sentence>
+      <tc:sentence tokenIDs="t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" target="rc_1" tokenIDs="t_0 t_1"></tc:reference>
+        <tc:reference ID="rc_1" tokenIDs="t_3 t_4 t_5"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" tokenIDs="t_32 t_33"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" tokenIDs="t_42"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" tokenIDs="t_5"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" target="rc_6" tokenIDs="t_19 t_20 t_21 t_22"></tc:reference>
+        <tc:reference ID="rc_6" target="rc_7" tokenIDs="t_21 t_22"></tc:reference>
+        <tc:reference ID="rc_7" tokenIDs="t_77 t_78"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

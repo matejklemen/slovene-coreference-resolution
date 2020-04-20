@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Na amaterskem posnetku je videti sproščenega in smejočega se bin Ladna , ki sedi in se pogovarja s skupino somišljenikov . Po besedah ameriških predstavnikov je bil posnet novembra , našli pa so ga v hiši v Afganistanu . Vladni in zasebni strokovnjaki za arabščino so po naročilu Bele hiše več dni prevajali bin Ladnove komentarje dogajanja v New Yorku in Washingtonu . Dve ugrabljeni letali sta takrat zadeli nebotičnika Svetovnega trgovskega centra , tretje poslopje Pentagona , četrto pa je strmoglavilo v Pensilvaniji . Bela hiša je nekaj dni po napadu dejala , da sta po njenem za napade odgovorna bin Laden in njegova mreža Al Kaida .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Na</tc:token>
+      <tc:token ID="t_1">amaterskem</tc:token>
+      <tc:token ID="t_2">posnetku</tc:token>
+      <tc:token ID="t_3">je</tc:token>
+      <tc:token ID="t_4">videti</tc:token>
+      <tc:token ID="t_5">sproščenega</tc:token>
+      <tc:token ID="t_6">in</tc:token>
+      <tc:token ID="t_7">smejočega</tc:token>
+      <tc:token ID="t_8">se</tc:token>
+      <tc:token ID="t_9">bin</tc:token>
+      <tc:token ID="t_10">Ladna</tc:token>
+      <tc:token ID="t_11">,</tc:token>
+      <tc:token ID="t_12">ki</tc:token>
+      <tc:token ID="t_13">sedi</tc:token>
+      <tc:token ID="t_14">in</tc:token>
+      <tc:token ID="t_15">se</tc:token>
+      <tc:token ID="t_16">pogovarja</tc:token>
+      <tc:token ID="t_17">s</tc:token>
+      <tc:token ID="t_18">skupino</tc:token>
+      <tc:token ID="t_19">somišljenikov</tc:token>
+      <tc:token ID="t_20">.</tc:token>
+      <tc:token ID="t_21">Po</tc:token>
+      <tc:token ID="t_22">besedah</tc:token>
+      <tc:token ID="t_23">ameriških</tc:token>
+      <tc:token ID="t_24">predstavnikov</tc:token>
+      <tc:token ID="t_25">je</tc:token>
+      <tc:token ID="t_26">bil</tc:token>
+      <tc:token ID="t_27">posnet</tc:token>
+      <tc:token ID="t_28">novembra</tc:token>
+      <tc:token ID="t_29">,</tc:token>
+      <tc:token ID="t_30">našli</tc:token>
+      <tc:token ID="t_31">pa</tc:token>
+      <tc:token ID="t_32">so</tc:token>
+      <tc:token ID="t_33">ga</tc:token>
+      <tc:token ID="t_34">v</tc:token>
+      <tc:token ID="t_35">hiši</tc:token>
+      <tc:token ID="t_36">v</tc:token>
+      <tc:token ID="t_37">Afganistanu</tc:token>
+      <tc:token ID="t_38">.</tc:token>
+      <tc:token ID="t_39">Vladni</tc:token>
+      <tc:token ID="t_40">in</tc:token>
+      <tc:token ID="t_41">zasebni</tc:token>
+      <tc:token ID="t_42">strokovnjaki</tc:token>
+      <tc:token ID="t_43">za</tc:token>
+      <tc:token ID="t_44">arabščino</tc:token>
+      <tc:token ID="t_45">so</tc:token>
+      <tc:token ID="t_46">po</tc:token>
+      <tc:token ID="t_47">naročilu</tc:token>
+      <tc:token ID="t_48">Bele</tc:token>
+      <tc:token ID="t_49">hiše</tc:token>
+      <tc:token ID="t_50">več</tc:token>
+      <tc:token ID="t_51">dni</tc:token>
+      <tc:token ID="t_52">prevajali</tc:token>
+      <tc:token ID="t_53">bin</tc:token>
+      <tc:token ID="t_54">Ladnove</tc:token>
+      <tc:token ID="t_55">komentarje</tc:token>
+      <tc:token ID="t_56">dogajanja</tc:token>
+      <tc:token ID="t_57">v</tc:token>
+      <tc:token ID="t_58">New</tc:token>
+      <tc:token ID="t_59">Yorku</tc:token>
+      <tc:token ID="t_60">in</tc:token>
+      <tc:token ID="t_61">Washingtonu</tc:token>
+      <tc:token ID="t_62">.</tc:token>
+      <tc:token ID="t_63">Dve</tc:token>
+      <tc:token ID="t_64">ugrabljeni</tc:token>
+      <tc:token ID="t_65">letali</tc:token>
+      <tc:token ID="t_66">sta</tc:token>
+      <tc:token ID="t_67">takrat</tc:token>
+      <tc:token ID="t_68">zadeli</tc:token>
+      <tc:token ID="t_69">nebotičnika</tc:token>
+      <tc:token ID="t_70">Svetovnega</tc:token>
+      <tc:token ID="t_71">trgovskega</tc:token>
+      <tc:token ID="t_72">centra</tc:token>
+      <tc:token ID="t_73">,</tc:token>
+      <tc:token ID="t_74">tretje</tc:token>
+      <tc:token ID="t_75">poslopje</tc:token>
+      <tc:token ID="t_76">Pentagona</tc:token>
+      <tc:token ID="t_77">,</tc:token>
+      <tc:token ID="t_78">četrto</tc:token>
+      <tc:token ID="t_79">pa</tc:token>
+      <tc:token ID="t_80">je</tc:token>
+      <tc:token ID="t_81">strmoglavilo</tc:token>
+      <tc:token ID="t_82">v</tc:token>
+      <tc:token ID="t_83">Pensilvaniji</tc:token>
+      <tc:token ID="t_84">.</tc:token>
+      <tc:token ID="t_85">Bela</tc:token>
+      <tc:token ID="t_86">hiša</tc:token>
+      <tc:token ID="t_87">je</tc:token>
+      <tc:token ID="t_88">nekaj</tc:token>
+      <tc:token ID="t_89">dni</tc:token>
+      <tc:token ID="t_90">po</tc:token>
+      <tc:token ID="t_91">napadu</tc:token>
+      <tc:token ID="t_92">dejala</tc:token>
+      <tc:token ID="t_93">,</tc:token>
+      <tc:token ID="t_94">da</tc:token>
+      <tc:token ID="t_95">sta</tc:token>
+      <tc:token ID="t_96">po</tc:token>
+      <tc:token ID="t_97">njenem</tc:token>
+      <tc:token ID="t_98">za</tc:token>
+      <tc:token ID="t_99">napade</tc:token>
+      <tc:token ID="t_100">odgovorna</tc:token>
+      <tc:token ID="t_101">bin</tc:token>
+      <tc:token ID="t_102">Laden</tc:token>
+      <tc:token ID="t_103">in</tc:token>
+      <tc:token ID="t_104">njegova</tc:token>
+      <tc:token ID="t_105">mreža</tc:token>
+      <tc:token ID="t_106">Al</tc:token>
+      <tc:token ID="t_107">Kaida</tc:token>
+      <tc:token ID="t_108">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20"></tc:sentence>
+      <tc:sentence tokenIDs="t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38"></tc:sentence>
+      <tc:sentence tokenIDs="t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62"></tc:sentence>
+      <tc:sentence tokenIDs="t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84"></tc:sentence>
+      <tc:sentence tokenIDs="t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" target="rc_1" tokenIDs="t_48 t_49"></tc:reference>
+        <tc:reference ID="rc_1" type="nam" target="rc_2" tokenIDs="t_85 t_86"></tc:reference>
+        <tc:reference ID="rc_2" tokenIDs="t_97"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" type="nam" target="rc_4" tokenIDs="t_9 t_10"></tc:reference>
+        <tc:reference ID="rc_4" target="rc_5" tokenIDs="t_33"></tc:reference>
+        <tc:reference ID="rc_5" target="rc_6" tokenIDs="t_53 t_54"></tc:reference>
+        <tc:reference ID="rc_6" type="nam" tokenIDs="t_101 t_102"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" type="nam" tokenIDs="t_58 t_59"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" type="nam" tokenIDs="t_61"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_9" type="nam" tokenIDs="t_70 t_71 t_72"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_10" type="nam" tokenIDs="t_76"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" type="nam" tokenIDs="t_83"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_12" tokenIDs="t_37"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_13" type="nam" tokenIDs="t_106 t_107"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

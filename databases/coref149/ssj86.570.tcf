@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Druga konvencija evropskih visokošolskih zavodov ( 2003 ) pod naslovom Strengthening the Role of Institutions je bila rezultat obsežnega pripravljalnega dela , usmerjenega k vsem ključnim ' bolonjskih ' temam v tistih vidikih , ki imajo za univerze še posebno težo . EUA je začela priprave na konvencijo že takoj po praškem vrhu , k delu pa je pritegnila vsa svoja uradna telesa in članice . Na začetku leta 2002 je Svet EUA sprejel t. i. ' graške teme ' , o katerih naj bi temeljiteje razpravljali še na kasnejših sestankih Sveta in na konferencah zveze . Med tem pripravljalnim delom je EUA spomladi 2003 sprejela tudi svoj odgovor na sporočilo Evropske komisije The role of universities in the Europe of knowledge , ki je postal še eno od izhodišč za kasnejše razprave v Gradcu .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Druga</tc:token>
+      <tc:token ID="t_1">konvencija</tc:token>
+      <tc:token ID="t_2">evropskih</tc:token>
+      <tc:token ID="t_3">visokošolskih</tc:token>
+      <tc:token ID="t_4">zavodov</tc:token>
+      <tc:token ID="t_5">(</tc:token>
+      <tc:token ID="t_6">2003</tc:token>
+      <tc:token ID="t_7">)</tc:token>
+      <tc:token ID="t_8">pod</tc:token>
+      <tc:token ID="t_9">naslovom</tc:token>
+      <tc:token ID="t_10">Strengthening</tc:token>
+      <tc:token ID="t_11">the</tc:token>
+      <tc:token ID="t_12">Role</tc:token>
+      <tc:token ID="t_13">of</tc:token>
+      <tc:token ID="t_14">Institutions</tc:token>
+      <tc:token ID="t_15">je</tc:token>
+      <tc:token ID="t_16">bila</tc:token>
+      <tc:token ID="t_17">rezultat</tc:token>
+      <tc:token ID="t_18">obsežnega</tc:token>
+      <tc:token ID="t_19">pripravljalnega</tc:token>
+      <tc:token ID="t_20">dela</tc:token>
+      <tc:token ID="t_21">,</tc:token>
+      <tc:token ID="t_22">usmerjenega</tc:token>
+      <tc:token ID="t_23">k</tc:token>
+      <tc:token ID="t_24">vsem</tc:token>
+      <tc:token ID="t_25">ključnim</tc:token>
+      <tc:token ID="t_26">'</tc:token>
+      <tc:token ID="t_27">bolonjskih</tc:token>
+      <tc:token ID="t_28">'</tc:token>
+      <tc:token ID="t_29">temam</tc:token>
+      <tc:token ID="t_30">v</tc:token>
+      <tc:token ID="t_31">tistih</tc:token>
+      <tc:token ID="t_32">vidikih</tc:token>
+      <tc:token ID="t_33">,</tc:token>
+      <tc:token ID="t_34">ki</tc:token>
+      <tc:token ID="t_35">imajo</tc:token>
+      <tc:token ID="t_36">za</tc:token>
+      <tc:token ID="t_37">univerze</tc:token>
+      <tc:token ID="t_38">še</tc:token>
+      <tc:token ID="t_39">posebno</tc:token>
+      <tc:token ID="t_40">težo</tc:token>
+      <tc:token ID="t_41">.</tc:token>
+      <tc:token ID="t_42">EUA</tc:token>
+      <tc:token ID="t_43">je</tc:token>
+      <tc:token ID="t_44">začela</tc:token>
+      <tc:token ID="t_45">priprave</tc:token>
+      <tc:token ID="t_46">na</tc:token>
+      <tc:token ID="t_47">konvencijo</tc:token>
+      <tc:token ID="t_48">že</tc:token>
+      <tc:token ID="t_49">takoj</tc:token>
+      <tc:token ID="t_50">po</tc:token>
+      <tc:token ID="t_51">praškem</tc:token>
+      <tc:token ID="t_52">vrhu</tc:token>
+      <tc:token ID="t_53">,</tc:token>
+      <tc:token ID="t_54">k</tc:token>
+      <tc:token ID="t_55">delu</tc:token>
+      <tc:token ID="t_56">pa</tc:token>
+      <tc:token ID="t_57">je</tc:token>
+      <tc:token ID="t_58">pritegnila</tc:token>
+      <tc:token ID="t_59">vsa</tc:token>
+      <tc:token ID="t_60">svoja</tc:token>
+      <tc:token ID="t_61">uradna</tc:token>
+      <tc:token ID="t_62">telesa</tc:token>
+      <tc:token ID="t_63">in</tc:token>
+      <tc:token ID="t_64">članice</tc:token>
+      <tc:token ID="t_65">.</tc:token>
+      <tc:token ID="t_66">Na</tc:token>
+      <tc:token ID="t_67">začetku</tc:token>
+      <tc:token ID="t_68">leta</tc:token>
+      <tc:token ID="t_69">2002</tc:token>
+      <tc:token ID="t_70">je</tc:token>
+      <tc:token ID="t_71">Svet</tc:token>
+      <tc:token ID="t_72">EUA</tc:token>
+      <tc:token ID="t_73">sprejel</tc:token>
+      <tc:token ID="t_74">t.</tc:token>
+      <tc:token ID="t_75">i.</tc:token>
+      <tc:token ID="t_76">'</tc:token>
+      <tc:token ID="t_77">graške</tc:token>
+      <tc:token ID="t_78">teme</tc:token>
+      <tc:token ID="t_79">'</tc:token>
+      <tc:token ID="t_80">,</tc:token>
+      <tc:token ID="t_81">o</tc:token>
+      <tc:token ID="t_82">katerih</tc:token>
+      <tc:token ID="t_83">naj</tc:token>
+      <tc:token ID="t_84">bi</tc:token>
+      <tc:token ID="t_85">temeljiteje</tc:token>
+      <tc:token ID="t_86">razpravljali</tc:token>
+      <tc:token ID="t_87">še</tc:token>
+      <tc:token ID="t_88">na</tc:token>
+      <tc:token ID="t_89">kasnejših</tc:token>
+      <tc:token ID="t_90">sestankih</tc:token>
+      <tc:token ID="t_91">Sveta</tc:token>
+      <tc:token ID="t_92">in</tc:token>
+      <tc:token ID="t_93">na</tc:token>
+      <tc:token ID="t_94">konferencah</tc:token>
+      <tc:token ID="t_95">zveze</tc:token>
+      <tc:token ID="t_96">.</tc:token>
+      <tc:token ID="t_97">Med</tc:token>
+      <tc:token ID="t_98">tem</tc:token>
+      <tc:token ID="t_99">pripravljalnim</tc:token>
+      <tc:token ID="t_100">delom</tc:token>
+      <tc:token ID="t_101">je</tc:token>
+      <tc:token ID="t_102">EUA</tc:token>
+      <tc:token ID="t_103">spomladi</tc:token>
+      <tc:token ID="t_104">2003</tc:token>
+      <tc:token ID="t_105">sprejela</tc:token>
+      <tc:token ID="t_106">tudi</tc:token>
+      <tc:token ID="t_107">svoj</tc:token>
+      <tc:token ID="t_108">odgovor</tc:token>
+      <tc:token ID="t_109">na</tc:token>
+      <tc:token ID="t_110">sporočilo</tc:token>
+      <tc:token ID="t_111">Evropske</tc:token>
+      <tc:token ID="t_112">komisije</tc:token>
+      <tc:token ID="t_113">The</tc:token>
+      <tc:token ID="t_114">role</tc:token>
+      <tc:token ID="t_115">of</tc:token>
+      <tc:token ID="t_116">universities</tc:token>
+      <tc:token ID="t_117">in</tc:token>
+      <tc:token ID="t_118">the</tc:token>
+      <tc:token ID="t_119">Europe</tc:token>
+      <tc:token ID="t_120">of</tc:token>
+      <tc:token ID="t_121">knowledge</tc:token>
+      <tc:token ID="t_122">,</tc:token>
+      <tc:token ID="t_123">ki</tc:token>
+      <tc:token ID="t_124">je</tc:token>
+      <tc:token ID="t_125">postal</tc:token>
+      <tc:token ID="t_126">še</tc:token>
+      <tc:token ID="t_127">eno</tc:token>
+      <tc:token ID="t_128">od</tc:token>
+      <tc:token ID="t_129">izhodišč</tc:token>
+      <tc:token ID="t_130">za</tc:token>
+      <tc:token ID="t_131">kasnejše</tc:token>
+      <tc:token ID="t_132">razprave</tc:token>
+      <tc:token ID="t_133">v</tc:token>
+      <tc:token ID="t_134">Gradcu</tc:token>
+      <tc:token ID="t_135">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41"></tc:sentence>
+      <tc:sentence tokenIDs="t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65"></tc:sentence>
+      <tc:sentence tokenIDs="t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96"></tc:sentence>
+      <tc:sentence tokenIDs="t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_71 t_72"></tc:reference>
+        <tc:reference ID="rc_1" type="nam" tokenIDs="t_91"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" type="nam" target="rc_3" tokenIDs="t_2 t_3 t_4"></tc:reference>
+        <tc:reference ID="rc_3" type="nam" target="rc_4" tokenIDs="t_42"></tc:reference>
+        <tc:reference ID="rc_4" target="rc_5" tokenIDs="t_60"></tc:reference>
+        <tc:reference ID="rc_5" type="nam" target="rc_6" tokenIDs="t_72"></tc:reference>
+        <tc:reference ID="rc_6" type="nam" tokenIDs="t_102"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" type="nam" tokenIDs="t_111 t_112"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" type="nam" tokenIDs="t_134"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_9" target="rc_10" tokenIDs="t_2"></tc:reference>
+        <tc:reference ID="rc_10" target="rc_11" tokenIDs="t_111"></tc:reference>
+        <tc:reference ID="rc_11" type="nam" tokenIDs="t_119"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

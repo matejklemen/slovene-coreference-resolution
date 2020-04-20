@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>V Italiji je pred nekaj dnevi izšla znamka nominale 2,80 evra , ki jo reklamirajo kot umetnost čipke . Seveda ni govora o čipkah ( it. merletto ) , temveč le o vezenini ( it. ricamo , kar sramežljivo priznajo v tiskovnem sporočilu ) torej ne gre za klekljan , temveč za šivan okrasni izdelek na tkanini . Sicer pa so na tej znamki iz modrega blaga poleg vezene rožice še napis države izdajateljice , nominala , letnica izida in kratici IPZS in AC , ki samovšečno in prav nič skromno predstavljata nosilca izvedbe ( tiskarno Instituto Poligrafico e Zecca dello Stato in tekstilno tvrdko Gruppo Tessile Arnaldo Caprai , ki je opravila vezenje ) . Tekstilni odrezki z vezenino oziroma znamke so z obojestransko lepilno folijo pritrjeni na prebodeno nosilno polo iz papirja , na katere zadnji strani je s črnilnim tiskalnikom ponovno natisnjena kratica tiskarja IPZS . Velikost nosilne pole z natisnjenim besedilom Arte del merletto in petnajstimi znamkami je 202 x 325 mm , prebodi s posamezno znamko so veliki 48 x 40 mm , tekstilni odrezki oz. znamke pa 42 x 34 mm ; prodajna cena pole petnajstih znamk je 42 evrov . Več izveste na spletnem naslovu www.poste.it .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">V</tc:token>
+      <tc:token ID="t_1">Italiji</tc:token>
+      <tc:token ID="t_2">je</tc:token>
+      <tc:token ID="t_3">pred</tc:token>
+      <tc:token ID="t_4">nekaj</tc:token>
+      <tc:token ID="t_5">dnevi</tc:token>
+      <tc:token ID="t_6">izšla</tc:token>
+      <tc:token ID="t_7">znamka</tc:token>
+      <tc:token ID="t_8">nominale</tc:token>
+      <tc:token ID="t_9">2,80</tc:token>
+      <tc:token ID="t_10">evra</tc:token>
+      <tc:token ID="t_11">,</tc:token>
+      <tc:token ID="t_12">ki</tc:token>
+      <tc:token ID="t_13">jo</tc:token>
+      <tc:token ID="t_14">reklamirajo</tc:token>
+      <tc:token ID="t_15">kot</tc:token>
+      <tc:token ID="t_16">umetnost</tc:token>
+      <tc:token ID="t_17">čipke</tc:token>
+      <tc:token ID="t_18">.</tc:token>
+      <tc:token ID="t_19">Seveda</tc:token>
+      <tc:token ID="t_20">ni</tc:token>
+      <tc:token ID="t_21">govora</tc:token>
+      <tc:token ID="t_22">o</tc:token>
+      <tc:token ID="t_23">čipkah</tc:token>
+      <tc:token ID="t_24">(</tc:token>
+      <tc:token ID="t_25">it.</tc:token>
+      <tc:token ID="t_26">merletto</tc:token>
+      <tc:token ID="t_27">)</tc:token>
+      <tc:token ID="t_28">,</tc:token>
+      <tc:token ID="t_29">temveč</tc:token>
+      <tc:token ID="t_30">le</tc:token>
+      <tc:token ID="t_31">o</tc:token>
+      <tc:token ID="t_32">vezenini</tc:token>
+      <tc:token ID="t_33">(</tc:token>
+      <tc:token ID="t_34">it.</tc:token>
+      <tc:token ID="t_35">ricamo</tc:token>
+      <tc:token ID="t_36">,</tc:token>
+      <tc:token ID="t_37">kar</tc:token>
+      <tc:token ID="t_38">sramežljivo</tc:token>
+      <tc:token ID="t_39">priznajo</tc:token>
+      <tc:token ID="t_40">v</tc:token>
+      <tc:token ID="t_41">tiskovnem</tc:token>
+      <tc:token ID="t_42">sporočilu</tc:token>
+      <tc:token ID="t_43">)</tc:token>
+      <tc:token ID="t_44">torej</tc:token>
+      <tc:token ID="t_45">ne</tc:token>
+      <tc:token ID="t_46">gre</tc:token>
+      <tc:token ID="t_47">za</tc:token>
+      <tc:token ID="t_48">klekljan</tc:token>
+      <tc:token ID="t_49">,</tc:token>
+      <tc:token ID="t_50">temveč</tc:token>
+      <tc:token ID="t_51">za</tc:token>
+      <tc:token ID="t_52">šivan</tc:token>
+      <tc:token ID="t_53">okrasni</tc:token>
+      <tc:token ID="t_54">izdelek</tc:token>
+      <tc:token ID="t_55">na</tc:token>
+      <tc:token ID="t_56">tkanini</tc:token>
+      <tc:token ID="t_57">.</tc:token>
+      <tc:token ID="t_58">Sicer</tc:token>
+      <tc:token ID="t_59">pa</tc:token>
+      <tc:token ID="t_60">so</tc:token>
+      <tc:token ID="t_61">na</tc:token>
+      <tc:token ID="t_62">tej</tc:token>
+      <tc:token ID="t_63">znamki</tc:token>
+      <tc:token ID="t_64">iz</tc:token>
+      <tc:token ID="t_65">modrega</tc:token>
+      <tc:token ID="t_66">blaga</tc:token>
+      <tc:token ID="t_67">poleg</tc:token>
+      <tc:token ID="t_68">vezene</tc:token>
+      <tc:token ID="t_69">rožice</tc:token>
+      <tc:token ID="t_70">še</tc:token>
+      <tc:token ID="t_71">napis</tc:token>
+      <tc:token ID="t_72">države</tc:token>
+      <tc:token ID="t_73">izdajateljice</tc:token>
+      <tc:token ID="t_74">,</tc:token>
+      <tc:token ID="t_75">nominala</tc:token>
+      <tc:token ID="t_76">,</tc:token>
+      <tc:token ID="t_77">letnica</tc:token>
+      <tc:token ID="t_78">izida</tc:token>
+      <tc:token ID="t_79">in</tc:token>
+      <tc:token ID="t_80">kratici</tc:token>
+      <tc:token ID="t_81">IPZS</tc:token>
+      <tc:token ID="t_82">in</tc:token>
+      <tc:token ID="t_83">AC</tc:token>
+      <tc:token ID="t_84">,</tc:token>
+      <tc:token ID="t_85">ki</tc:token>
+      <tc:token ID="t_86">samovšečno</tc:token>
+      <tc:token ID="t_87">in</tc:token>
+      <tc:token ID="t_88">prav</tc:token>
+      <tc:token ID="t_89">nič</tc:token>
+      <tc:token ID="t_90">skromno</tc:token>
+      <tc:token ID="t_91">predstavljata</tc:token>
+      <tc:token ID="t_92">nosilca</tc:token>
+      <tc:token ID="t_93">izvedbe</tc:token>
+      <tc:token ID="t_94">(</tc:token>
+      <tc:token ID="t_95">tiskarno</tc:token>
+      <tc:token ID="t_96">Instituto</tc:token>
+      <tc:token ID="t_97">Poligrafico</tc:token>
+      <tc:token ID="t_98">e</tc:token>
+      <tc:token ID="t_99">Zecca</tc:token>
+      <tc:token ID="t_100">dello</tc:token>
+      <tc:token ID="t_101">Stato</tc:token>
+      <tc:token ID="t_102">in</tc:token>
+      <tc:token ID="t_103">tekstilno</tc:token>
+      <tc:token ID="t_104">tvrdko</tc:token>
+      <tc:token ID="t_105">Gruppo</tc:token>
+      <tc:token ID="t_106">Tessile</tc:token>
+      <tc:token ID="t_107">Arnaldo</tc:token>
+      <tc:token ID="t_108">Caprai</tc:token>
+      <tc:token ID="t_109">,</tc:token>
+      <tc:token ID="t_110">ki</tc:token>
+      <tc:token ID="t_111">je</tc:token>
+      <tc:token ID="t_112">opravila</tc:token>
+      <tc:token ID="t_113">vezenje</tc:token>
+      <tc:token ID="t_114">)</tc:token>
+      <tc:token ID="t_115">.</tc:token>
+      <tc:token ID="t_116">Tekstilni</tc:token>
+      <tc:token ID="t_117">odrezki</tc:token>
+      <tc:token ID="t_118">z</tc:token>
+      <tc:token ID="t_119">vezenino</tc:token>
+      <tc:token ID="t_120">oziroma</tc:token>
+      <tc:token ID="t_121">znamke</tc:token>
+      <tc:token ID="t_122">so</tc:token>
+      <tc:token ID="t_123">z</tc:token>
+      <tc:token ID="t_124">obojestransko</tc:token>
+      <tc:token ID="t_125">lepilno</tc:token>
+      <tc:token ID="t_126">folijo</tc:token>
+      <tc:token ID="t_127">pritrjeni</tc:token>
+      <tc:token ID="t_128">na</tc:token>
+      <tc:token ID="t_129">prebodeno</tc:token>
+      <tc:token ID="t_130">nosilno</tc:token>
+      <tc:token ID="t_131">polo</tc:token>
+      <tc:token ID="t_132">iz</tc:token>
+      <tc:token ID="t_133">papirja</tc:token>
+      <tc:token ID="t_134">,</tc:token>
+      <tc:token ID="t_135">na</tc:token>
+      <tc:token ID="t_136">katere</tc:token>
+      <tc:token ID="t_137">zadnji</tc:token>
+      <tc:token ID="t_138">strani</tc:token>
+      <tc:token ID="t_139">je</tc:token>
+      <tc:token ID="t_140">s</tc:token>
+      <tc:token ID="t_141">črnilnim</tc:token>
+      <tc:token ID="t_142">tiskalnikom</tc:token>
+      <tc:token ID="t_143">ponovno</tc:token>
+      <tc:token ID="t_144">natisnjena</tc:token>
+      <tc:token ID="t_145">kratica</tc:token>
+      <tc:token ID="t_146">tiskarja</tc:token>
+      <tc:token ID="t_147">IPZS</tc:token>
+      <tc:token ID="t_148">.</tc:token>
+      <tc:token ID="t_149">Velikost</tc:token>
+      <tc:token ID="t_150">nosilne</tc:token>
+      <tc:token ID="t_151">pole</tc:token>
+      <tc:token ID="t_152">z</tc:token>
+      <tc:token ID="t_153">natisnjenim</tc:token>
+      <tc:token ID="t_154">besedilom</tc:token>
+      <tc:token ID="t_155">Arte</tc:token>
+      <tc:token ID="t_156">del</tc:token>
+      <tc:token ID="t_157">merletto</tc:token>
+      <tc:token ID="t_158">in</tc:token>
+      <tc:token ID="t_159">petnajstimi</tc:token>
+      <tc:token ID="t_160">znamkami</tc:token>
+      <tc:token ID="t_161">je</tc:token>
+      <tc:token ID="t_162">202</tc:token>
+      <tc:token ID="t_163">x</tc:token>
+      <tc:token ID="t_164">325</tc:token>
+      <tc:token ID="t_165">mm</tc:token>
+      <tc:token ID="t_166">,</tc:token>
+      <tc:token ID="t_167">prebodi</tc:token>
+      <tc:token ID="t_168">s</tc:token>
+      <tc:token ID="t_169">posamezno</tc:token>
+      <tc:token ID="t_170">znamko</tc:token>
+      <tc:token ID="t_171">so</tc:token>
+      <tc:token ID="t_172">veliki</tc:token>
+      <tc:token ID="t_173">48</tc:token>
+      <tc:token ID="t_174">x</tc:token>
+      <tc:token ID="t_175">40</tc:token>
+      <tc:token ID="t_176">mm</tc:token>
+      <tc:token ID="t_177">,</tc:token>
+      <tc:token ID="t_178">tekstilni</tc:token>
+      <tc:token ID="t_179">odrezki</tc:token>
+      <tc:token ID="t_180">oz.</tc:token>
+      <tc:token ID="t_181">znamke</tc:token>
+      <tc:token ID="t_182">pa</tc:token>
+      <tc:token ID="t_183">42</tc:token>
+      <tc:token ID="t_184">x</tc:token>
+      <tc:token ID="t_185">34</tc:token>
+      <tc:token ID="t_186">mm</tc:token>
+      <tc:token ID="t_187">;</tc:token>
+      <tc:token ID="t_188">prodajna</tc:token>
+      <tc:token ID="t_189">cena</tc:token>
+      <tc:token ID="t_190">pole</tc:token>
+      <tc:token ID="t_191">petnajstih</tc:token>
+      <tc:token ID="t_192">znamk</tc:token>
+      <tc:token ID="t_193">je</tc:token>
+      <tc:token ID="t_194">42</tc:token>
+      <tc:token ID="t_195">evrov</tc:token>
+      <tc:token ID="t_196">.</tc:token>
+      <tc:token ID="t_197">Več</tc:token>
+      <tc:token ID="t_198">izveste</tc:token>
+      <tc:token ID="t_199">na</tc:token>
+      <tc:token ID="t_200">spletnem</tc:token>
+      <tc:token ID="t_201">naslovu</tc:token>
+      <tc:token ID="t_202">www.poste.it</tc:token>
+      <tc:token ID="t_203">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15 t_16 t_17 t_18"></tc:sentence>
+      <tc:sentence tokenIDs="t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57"></tc:sentence>
+      <tc:sentence tokenIDs="t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115"></tc:sentence>
+      <tc:sentence tokenIDs="t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136 t_137 t_138 t_139 t_140 t_141 t_142 t_143 t_144 t_145 t_146 t_147 t_148"></tc:sentence>
+      <tc:sentence tokenIDs="t_149 t_150 t_151 t_152 t_153 t_154 t_155 t_156 t_157 t_158 t_159 t_160 t_161 t_162 t_163 t_164 t_165 t_166 t_167 t_168 t_169 t_170 t_171 t_172 t_173 t_174 t_175 t_176 t_177 t_178 t_179 t_180 t_181 t_182 t_183 t_184 t_185 t_186 t_187 t_188 t_189 t_190 t_191 t_192 t_193 t_194 t_195 t_196"></tc:sentence>
+      <tc:sentence tokenIDs="t_197 t_198 t_199 t_200 t_201 t_202 t_203"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_1"></tc:reference>
+        <tc:reference ID="rc_1" type="nam" tokenIDs="t_72 t_73"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" type="nam" target="rc_3" tokenIDs="t_83"></tc:reference>
+        <tc:reference ID="rc_3" type="nam" target="rc_4" tokenIDs="t_103 t_104 t_105 t_106 t_107 t_108"></tc:reference>
+        <tc:reference ID="rc_4" tokenIDs="t_105 t_106 t_107 t_108"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_5" type="nam" target="rc_6" tokenIDs="t_81"></tc:reference>
+        <tc:reference ID="rc_6" type="nam" target="rc_7" tokenIDs="t_95 t_96 t_97 t_98 t_99 t_100 t_101"></tc:reference>
+        <tc:reference ID="rc_7" target="rc_8" tokenIDs="t_96 t_97 t_98 t_99 t_100 t_101"></tc:reference>
+        <tc:reference ID="rc_8" tokenIDs="t_147"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

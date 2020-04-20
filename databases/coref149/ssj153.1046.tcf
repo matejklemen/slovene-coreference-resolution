@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Glasovnice je v kotu kongresne dvorane štel legendarni hrvaški vratar Mirko Bašić .
+Ko je v roke prijel kup z največjim številom glasovnic , je v dvorani zavladala popolna tišina .
+In ko je  " Baško  " z nagajivim nasmehom skrivaj pomežiknil članom slovenske delegacije , je bilo jasno , da je Slovenija zmagala .
+Njegov namig je nekaj sekund kasneje potrdil še Holmqvist , ki je razglasil izide glasovanja .
+Slovenija je dobila kar 23 glasov od skupno 43 , Švica enajst , Norveška sedem in Romunija dva .
+Ker je naša država že v prvem krogu dobila več kot polovico glasov , drugi krog glasovanja ( če v prvem nobena država ne dobi večine , gresta vanj dve kandidatki z najvišjim številom glasov ) sploh ni bil potreben .
+</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Glasovnice</tc:token>
+      <tc:token ID="t_1">je</tc:token>
+      <tc:token ID="t_2">v</tc:token>
+      <tc:token ID="t_3">kotu</tc:token>
+      <tc:token ID="t_4">kongresne</tc:token>
+      <tc:token ID="t_5">dvorane</tc:token>
+      <tc:token ID="t_6">štel</tc:token>
+      <tc:token ID="t_7">legendarni</tc:token>
+      <tc:token ID="t_8">hrvaški</tc:token>
+      <tc:token ID="t_9">vratar</tc:token>
+      <tc:token ID="t_10">Mirko</tc:token>
+      <tc:token ID="t_11">Bašić</tc:token>
+      <tc:token ID="t_12">.</tc:token>
+      <tc:token ID="t_13">Ko</tc:token>
+      <tc:token ID="t_14">je</tc:token>
+      <tc:token ID="t_15">v</tc:token>
+      <tc:token ID="t_16">roke</tc:token>
+      <tc:token ID="t_17">prijel</tc:token>
+      <tc:token ID="t_18">kup</tc:token>
+      <tc:token ID="t_19">z</tc:token>
+      <tc:token ID="t_20">največjim</tc:token>
+      <tc:token ID="t_21">številom</tc:token>
+      <tc:token ID="t_22">glasovnic</tc:token>
+      <tc:token ID="t_23">,</tc:token>
+      <tc:token ID="t_24">je</tc:token>
+      <tc:token ID="t_25">v</tc:token>
+      <tc:token ID="t_26">dvorani</tc:token>
+      <tc:token ID="t_27">zavladala</tc:token>
+      <tc:token ID="t_28">popolna</tc:token>
+      <tc:token ID="t_29">tišina</tc:token>
+      <tc:token ID="t_30">.</tc:token>
+      <tc:token ID="t_31">In</tc:token>
+      <tc:token ID="t_32">ko</tc:token>
+      <tc:token ID="t_33">je</tc:token>
+      <tc:token ID="t_34"> "</tc:token>
+      <tc:token ID="t_35">Baško</tc:token>
+      <tc:token ID="t_36"> "</tc:token>
+      <tc:token ID="t_37">z</tc:token>
+      <tc:token ID="t_38">nagajivim</tc:token>
+      <tc:token ID="t_39">nasmehom</tc:token>
+      <tc:token ID="t_40">skrivaj</tc:token>
+      <tc:token ID="t_41">pomežiknil</tc:token>
+      <tc:token ID="t_42">članom</tc:token>
+      <tc:token ID="t_43">slovenske</tc:token>
+      <tc:token ID="t_44">delegacije</tc:token>
+      <tc:token ID="t_45">,</tc:token>
+      <tc:token ID="t_46">je</tc:token>
+      <tc:token ID="t_47">bilo</tc:token>
+      <tc:token ID="t_48">jasno</tc:token>
+      <tc:token ID="t_49">,</tc:token>
+      <tc:token ID="t_50">da</tc:token>
+      <tc:token ID="t_51">je</tc:token>
+      <tc:token ID="t_52">Slovenija</tc:token>
+      <tc:token ID="t_53">zmagala</tc:token>
+      <tc:token ID="t_54">.</tc:token>
+      <tc:token ID="t_55">Njegov</tc:token>
+      <tc:token ID="t_56">namig</tc:token>
+      <tc:token ID="t_57">je</tc:token>
+      <tc:token ID="t_58">nekaj</tc:token>
+      <tc:token ID="t_59">sekund</tc:token>
+      <tc:token ID="t_60">kasneje</tc:token>
+      <tc:token ID="t_61">potrdil</tc:token>
+      <tc:token ID="t_62">še</tc:token>
+      <tc:token ID="t_63">Holmqvist</tc:token>
+      <tc:token ID="t_64">,</tc:token>
+      <tc:token ID="t_65">ki</tc:token>
+      <tc:token ID="t_66">je</tc:token>
+      <tc:token ID="t_67">razglasil</tc:token>
+      <tc:token ID="t_68">izide</tc:token>
+      <tc:token ID="t_69">glasovanja</tc:token>
+      <tc:token ID="t_70">.</tc:token>
+      <tc:token ID="t_71">Slovenija</tc:token>
+      <tc:token ID="t_72">je</tc:token>
+      <tc:token ID="t_73">dobila</tc:token>
+      <tc:token ID="t_74">kar</tc:token>
+      <tc:token ID="t_75">23</tc:token>
+      <tc:token ID="t_76">glasov</tc:token>
+      <tc:token ID="t_77">od</tc:token>
+      <tc:token ID="t_78">skupno</tc:token>
+      <tc:token ID="t_79">43</tc:token>
+      <tc:token ID="t_80">,</tc:token>
+      <tc:token ID="t_81">Švica</tc:token>
+      <tc:token ID="t_82">enajst</tc:token>
+      <tc:token ID="t_83">,</tc:token>
+      <tc:token ID="t_84">Norveška</tc:token>
+      <tc:token ID="t_85">sedem</tc:token>
+      <tc:token ID="t_86">in</tc:token>
+      <tc:token ID="t_87">Romunija</tc:token>
+      <tc:token ID="t_88">dva</tc:token>
+      <tc:token ID="t_89">.</tc:token>
+      <tc:token ID="t_90">Ker</tc:token>
+      <tc:token ID="t_91">je</tc:token>
+      <tc:token ID="t_92">naša</tc:token>
+      <tc:token ID="t_93">država</tc:token>
+      <tc:token ID="t_94">že</tc:token>
+      <tc:token ID="t_95">v</tc:token>
+      <tc:token ID="t_96">prvem</tc:token>
+      <tc:token ID="t_97">krogu</tc:token>
+      <tc:token ID="t_98">dobila</tc:token>
+      <tc:token ID="t_99">več</tc:token>
+      <tc:token ID="t_100">kot</tc:token>
+      <tc:token ID="t_101">polovico</tc:token>
+      <tc:token ID="t_102">glasov</tc:token>
+      <tc:token ID="t_103">,</tc:token>
+      <tc:token ID="t_104">drugi</tc:token>
+      <tc:token ID="t_105">krog</tc:token>
+      <tc:token ID="t_106">glasovanja</tc:token>
+      <tc:token ID="t_107">(</tc:token>
+      <tc:token ID="t_108">če</tc:token>
+      <tc:token ID="t_109">v</tc:token>
+      <tc:token ID="t_110">prvem</tc:token>
+      <tc:token ID="t_111">nobena</tc:token>
+      <tc:token ID="t_112">država</tc:token>
+      <tc:token ID="t_113">ne</tc:token>
+      <tc:token ID="t_114">dobi</tc:token>
+      <tc:token ID="t_115">večine</tc:token>
+      <tc:token ID="t_116">,</tc:token>
+      <tc:token ID="t_117">gresta</tc:token>
+      <tc:token ID="t_118">vanj</tc:token>
+      <tc:token ID="t_119">dve</tc:token>
+      <tc:token ID="t_120">kandidatki</tc:token>
+      <tc:token ID="t_121">z</tc:token>
+      <tc:token ID="t_122">najvišjim</tc:token>
+      <tc:token ID="t_123">številom</tc:token>
+      <tc:token ID="t_124">glasov</tc:token>
+      <tc:token ID="t_125">)</tc:token>
+      <tc:token ID="t_126">sploh</tc:token>
+      <tc:token ID="t_127">ni</tc:token>
+      <tc:token ID="t_128">bil</tc:token>
+      <tc:token ID="t_129">potreben</tc:token>
+      <tc:token ID="t_130">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12"></tc:sentence>
+      <tc:sentence tokenIDs="t_13 t_14 t_15 t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30"></tc:sentence>
+      <tc:sentence tokenIDs="t_31 t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48 t_49 t_50 t_51 t_52 t_53 t_54"></tc:sentence>
+      <tc:sentence tokenIDs="t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70"></tc:sentence>
+      <tc:sentence tokenIDs="t_71 t_72 t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89"></tc:sentence>
+      <tc:sentence tokenIDs="t_90 t_91 t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118 t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" target="rc_1" tokenIDs="t_7 t_8 t_9 t_10 t_11"></tc:reference>
+        <tc:reference ID="rc_1" target="rc_2" tokenIDs="t_10 t_11"></tc:reference>
+        <tc:reference ID="rc_2" tokenIDs="t_35"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_3" tokenIDs="t_63"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" target="rc_5" tokenIDs="t_52"></tc:reference>
+        <tc:reference ID="rc_5" tokenIDs="t_71"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_6" tokenIDs="t_81"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_7" tokenIDs="t_84"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_8" tokenIDs="t_87"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>

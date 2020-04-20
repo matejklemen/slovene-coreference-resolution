@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://de.clarin.eu/images/weblicht-tutorials/resources/tcf-04/schemas/latest/d-spin_0_4.rnc" type="application/relax-ng-compact-syntax"?>
+<D-Spin xmlns="http://www.dspin.de/data" version="0.4">
+<md:MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cmd="http://www.clarin.eu/cmd/" xmlns:md="http://www.dspin.de/data/metadata" xsi:schemaLocation="http://www.clarin.eu/cmd/ http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1320657629623/xsd"></md:MetaData>
+<tc:TextCorpus xmlns:tc="http://www.dspin.de/data/textcorpus" lang="x-unspecified">
+    <tc:text>Napad na slovensko svobodo izbire pa je v primeru tokratnega štetja lahko tudi premalo premišljen . Nekaj pripadnikov italijanske narodnosti je denimo očitalo popisu , zakaj je sploh dovolil preštevati manjšino . Ali ne bi zadoščalo , da bi ostali pri vprašanju : kateri je vaš materni jezik ? Veliko več državljanov je nanj namreč odgovorilo , da je njihov materni jezik italijanščina , kot se jih je izreklo za italijansko narodnost . Nenavadno je , da so se nasprotniki vprašanja , katere narodnosti ste , oglasili šele po objavi podatkov . Nenavadno bi tudi bilo , da bi po tolikih popisih prebivalstva ( od Marije Terezije dalje ) zdaj začeli eno narodno skupino preprosto » ignorirati « . In ne nazadnje , kakšna svoboda za manjšino bi bila , če bi se morali izogibati popisu ? Saj vendar popis ni namenjen temu , da bi pravice določali glede na število manjšincev ( kot je to v navadi pri sosedih ) , temveč prej temu , da preverjamo dejanski položaj prebivalstva in popravimo , kar se popraviti da . Stefano Lusa , eden od analitikov demografskega gibanja v slovenski Istri , je zapisal celo , da je Italijanov najbrž zato manj , ker se nikakor ne izplača biti Italijan . Najbrž res . Če je vodilo neke nacionalne pripadnosti kakršen koli finančni , materialni ali drugi interes , potem lahko sklepamo , da je bilo leta 1991 več Italijanov zato , ker se je tedaj po takšni logiki izplačalo biti Italijan . Po zadnjem štetju v Sloveniji pa se ne izplača biti nič ( ne samo Italijan ali Madžar ) : tudi Slovencev je 58 tisoč manj , manj je Srbov , Hrvatov , Muslimanov in Črnogorcev . Veliko več ( 84 tisoč ) pa je slovenskih državljanov neznane narodnosti . V določenih primerih povsem logično : če so tvoji predniki pripadniki dveh , treh in morda več narodnosti , je res težko izbrati pravo . Toda to niti približno ne pomeni , da bo v Istri v naslednjih desetletjih zmanjkalo Italijanov . Tam so že stoletja in bodo še stoletja . Tako kot , upam in v dobro Istre , tudi drugi narodi . Vprašanje je le , s kakšno željo po sožitju bodo tam .</tc:text>
+    <tc:tokens>
+      <tc:token ID="t_0">Napad</tc:token>
+      <tc:token ID="t_1">na</tc:token>
+      <tc:token ID="t_2">slovensko</tc:token>
+      <tc:token ID="t_3">svobodo</tc:token>
+      <tc:token ID="t_4">izbire</tc:token>
+      <tc:token ID="t_5">pa</tc:token>
+      <tc:token ID="t_6">je</tc:token>
+      <tc:token ID="t_7">v</tc:token>
+      <tc:token ID="t_8">primeru</tc:token>
+      <tc:token ID="t_9">tokratnega</tc:token>
+      <tc:token ID="t_10">štetja</tc:token>
+      <tc:token ID="t_11">lahko</tc:token>
+      <tc:token ID="t_12">tudi</tc:token>
+      <tc:token ID="t_13">premalo</tc:token>
+      <tc:token ID="t_14">premišljen</tc:token>
+      <tc:token ID="t_15">.</tc:token>
+      <tc:token ID="t_16">Nekaj</tc:token>
+      <tc:token ID="t_17">pripadnikov</tc:token>
+      <tc:token ID="t_18">italijanske</tc:token>
+      <tc:token ID="t_19">narodnosti</tc:token>
+      <tc:token ID="t_20">je</tc:token>
+      <tc:token ID="t_21">denimo</tc:token>
+      <tc:token ID="t_22">očitalo</tc:token>
+      <tc:token ID="t_23">popisu</tc:token>
+      <tc:token ID="t_24">,</tc:token>
+      <tc:token ID="t_25">zakaj</tc:token>
+      <tc:token ID="t_26">je</tc:token>
+      <tc:token ID="t_27">sploh</tc:token>
+      <tc:token ID="t_28">dovolil</tc:token>
+      <tc:token ID="t_29">preštevati</tc:token>
+      <tc:token ID="t_30">manjšino</tc:token>
+      <tc:token ID="t_31">.</tc:token>
+      <tc:token ID="t_32">Ali</tc:token>
+      <tc:token ID="t_33">ne</tc:token>
+      <tc:token ID="t_34">bi</tc:token>
+      <tc:token ID="t_35">zadoščalo</tc:token>
+      <tc:token ID="t_36">,</tc:token>
+      <tc:token ID="t_37">da</tc:token>
+      <tc:token ID="t_38">bi</tc:token>
+      <tc:token ID="t_39">ostali</tc:token>
+      <tc:token ID="t_40">pri</tc:token>
+      <tc:token ID="t_41">vprašanju</tc:token>
+      <tc:token ID="t_42">:</tc:token>
+      <tc:token ID="t_43">kateri</tc:token>
+      <tc:token ID="t_44">je</tc:token>
+      <tc:token ID="t_45">vaš</tc:token>
+      <tc:token ID="t_46">materni</tc:token>
+      <tc:token ID="t_47">jezik</tc:token>
+      <tc:token ID="t_48">?</tc:token>
+      <tc:token ID="t_49">Veliko</tc:token>
+      <tc:token ID="t_50">več</tc:token>
+      <tc:token ID="t_51">državljanov</tc:token>
+      <tc:token ID="t_52">je</tc:token>
+      <tc:token ID="t_53">nanj</tc:token>
+      <tc:token ID="t_54">namreč</tc:token>
+      <tc:token ID="t_55">odgovorilo</tc:token>
+      <tc:token ID="t_56">,</tc:token>
+      <tc:token ID="t_57">da</tc:token>
+      <tc:token ID="t_58">je</tc:token>
+      <tc:token ID="t_59">njihov</tc:token>
+      <tc:token ID="t_60">materni</tc:token>
+      <tc:token ID="t_61">jezik</tc:token>
+      <tc:token ID="t_62">italijanščina</tc:token>
+      <tc:token ID="t_63">,</tc:token>
+      <tc:token ID="t_64">kot</tc:token>
+      <tc:token ID="t_65">se</tc:token>
+      <tc:token ID="t_66">jih</tc:token>
+      <tc:token ID="t_67">je</tc:token>
+      <tc:token ID="t_68">izreklo</tc:token>
+      <tc:token ID="t_69">za</tc:token>
+      <tc:token ID="t_70">italijansko</tc:token>
+      <tc:token ID="t_71">narodnost</tc:token>
+      <tc:token ID="t_72">.</tc:token>
+      <tc:token ID="t_73">Nenavadno</tc:token>
+      <tc:token ID="t_74">je</tc:token>
+      <tc:token ID="t_75">,</tc:token>
+      <tc:token ID="t_76">da</tc:token>
+      <tc:token ID="t_77">so</tc:token>
+      <tc:token ID="t_78">se</tc:token>
+      <tc:token ID="t_79">nasprotniki</tc:token>
+      <tc:token ID="t_80">vprašanja</tc:token>
+      <tc:token ID="t_81">,</tc:token>
+      <tc:token ID="t_82">katere</tc:token>
+      <tc:token ID="t_83">narodnosti</tc:token>
+      <tc:token ID="t_84">ste</tc:token>
+      <tc:token ID="t_85">,</tc:token>
+      <tc:token ID="t_86">oglasili</tc:token>
+      <tc:token ID="t_87">šele</tc:token>
+      <tc:token ID="t_88">po</tc:token>
+      <tc:token ID="t_89">objavi</tc:token>
+      <tc:token ID="t_90">podatkov</tc:token>
+      <tc:token ID="t_91">.</tc:token>
+      <tc:token ID="t_92">Nenavadno</tc:token>
+      <tc:token ID="t_93">bi</tc:token>
+      <tc:token ID="t_94">tudi</tc:token>
+      <tc:token ID="t_95">bilo</tc:token>
+      <tc:token ID="t_96">,</tc:token>
+      <tc:token ID="t_97">da</tc:token>
+      <tc:token ID="t_98">bi</tc:token>
+      <tc:token ID="t_99">po</tc:token>
+      <tc:token ID="t_100">tolikih</tc:token>
+      <tc:token ID="t_101">popisih</tc:token>
+      <tc:token ID="t_102">prebivalstva</tc:token>
+      <tc:token ID="t_103">(</tc:token>
+      <tc:token ID="t_104">od</tc:token>
+      <tc:token ID="t_105">Marije</tc:token>
+      <tc:token ID="t_106">Terezije</tc:token>
+      <tc:token ID="t_107">dalje</tc:token>
+      <tc:token ID="t_108">)</tc:token>
+      <tc:token ID="t_109">zdaj</tc:token>
+      <tc:token ID="t_110">začeli</tc:token>
+      <tc:token ID="t_111">eno</tc:token>
+      <tc:token ID="t_112">narodno</tc:token>
+      <tc:token ID="t_113">skupino</tc:token>
+      <tc:token ID="t_114">preprosto</tc:token>
+      <tc:token ID="t_115">»</tc:token>
+      <tc:token ID="t_116">ignorirati</tc:token>
+      <tc:token ID="t_117">«</tc:token>
+      <tc:token ID="t_118">.</tc:token>
+      <tc:token ID="t_119">In</tc:token>
+      <tc:token ID="t_120">ne</tc:token>
+      <tc:token ID="t_121">nazadnje</tc:token>
+      <tc:token ID="t_122">,</tc:token>
+      <tc:token ID="t_123">kakšna</tc:token>
+      <tc:token ID="t_124">svoboda</tc:token>
+      <tc:token ID="t_125">za</tc:token>
+      <tc:token ID="t_126">manjšino</tc:token>
+      <tc:token ID="t_127">bi</tc:token>
+      <tc:token ID="t_128">bila</tc:token>
+      <tc:token ID="t_129">,</tc:token>
+      <tc:token ID="t_130">če</tc:token>
+      <tc:token ID="t_131">bi</tc:token>
+      <tc:token ID="t_132">se</tc:token>
+      <tc:token ID="t_133">morali</tc:token>
+      <tc:token ID="t_134">izogibati</tc:token>
+      <tc:token ID="t_135">popisu</tc:token>
+      <tc:token ID="t_136">?</tc:token>
+      <tc:token ID="t_137">Saj</tc:token>
+      <tc:token ID="t_138">vendar</tc:token>
+      <tc:token ID="t_139">popis</tc:token>
+      <tc:token ID="t_140">ni</tc:token>
+      <tc:token ID="t_141">namenjen</tc:token>
+      <tc:token ID="t_142">temu</tc:token>
+      <tc:token ID="t_143">,</tc:token>
+      <tc:token ID="t_144">da</tc:token>
+      <tc:token ID="t_145">bi</tc:token>
+      <tc:token ID="t_146">pravice</tc:token>
+      <tc:token ID="t_147">določali</tc:token>
+      <tc:token ID="t_148">glede</tc:token>
+      <tc:token ID="t_149">na</tc:token>
+      <tc:token ID="t_150">število</tc:token>
+      <tc:token ID="t_151">manjšincev</tc:token>
+      <tc:token ID="t_152">(</tc:token>
+      <tc:token ID="t_153">kot</tc:token>
+      <tc:token ID="t_154">je</tc:token>
+      <tc:token ID="t_155">to</tc:token>
+      <tc:token ID="t_156">v</tc:token>
+      <tc:token ID="t_157">navadi</tc:token>
+      <tc:token ID="t_158">pri</tc:token>
+      <tc:token ID="t_159">sosedih</tc:token>
+      <tc:token ID="t_160">)</tc:token>
+      <tc:token ID="t_161">,</tc:token>
+      <tc:token ID="t_162">temveč</tc:token>
+      <tc:token ID="t_163">prej</tc:token>
+      <tc:token ID="t_164">temu</tc:token>
+      <tc:token ID="t_165">,</tc:token>
+      <tc:token ID="t_166">da</tc:token>
+      <tc:token ID="t_167">preverjamo</tc:token>
+      <tc:token ID="t_168">dejanski</tc:token>
+      <tc:token ID="t_169">položaj</tc:token>
+      <tc:token ID="t_170">prebivalstva</tc:token>
+      <tc:token ID="t_171">in</tc:token>
+      <tc:token ID="t_172">popravimo</tc:token>
+      <tc:token ID="t_173">,</tc:token>
+      <tc:token ID="t_174">kar</tc:token>
+      <tc:token ID="t_175">se</tc:token>
+      <tc:token ID="t_176">popraviti</tc:token>
+      <tc:token ID="t_177">da</tc:token>
+      <tc:token ID="t_178">.</tc:token>
+      <tc:token ID="t_179">Stefano</tc:token>
+      <tc:token ID="t_180">Lusa</tc:token>
+      <tc:token ID="t_181">,</tc:token>
+      <tc:token ID="t_182">eden</tc:token>
+      <tc:token ID="t_183">od</tc:token>
+      <tc:token ID="t_184">analitikov</tc:token>
+      <tc:token ID="t_185">demografskega</tc:token>
+      <tc:token ID="t_186">gibanja</tc:token>
+      <tc:token ID="t_187">v</tc:token>
+      <tc:token ID="t_188">slovenski</tc:token>
+      <tc:token ID="t_189">Istri</tc:token>
+      <tc:token ID="t_190">,</tc:token>
+      <tc:token ID="t_191">je</tc:token>
+      <tc:token ID="t_192">zapisal</tc:token>
+      <tc:token ID="t_193">celo</tc:token>
+      <tc:token ID="t_194">,</tc:token>
+      <tc:token ID="t_195">da</tc:token>
+      <tc:token ID="t_196">je</tc:token>
+      <tc:token ID="t_197">Italijanov</tc:token>
+      <tc:token ID="t_198">najbrž</tc:token>
+      <tc:token ID="t_199">zato</tc:token>
+      <tc:token ID="t_200">manj</tc:token>
+      <tc:token ID="t_201">,</tc:token>
+      <tc:token ID="t_202">ker</tc:token>
+      <tc:token ID="t_203">se</tc:token>
+      <tc:token ID="t_204">nikakor</tc:token>
+      <tc:token ID="t_205">ne</tc:token>
+      <tc:token ID="t_206">izplača</tc:token>
+      <tc:token ID="t_207">biti</tc:token>
+      <tc:token ID="t_208">Italijan</tc:token>
+      <tc:token ID="t_209">.</tc:token>
+      <tc:token ID="t_210">Najbrž</tc:token>
+      <tc:token ID="t_211">res</tc:token>
+      <tc:token ID="t_212">.</tc:token>
+      <tc:token ID="t_213">Če</tc:token>
+      <tc:token ID="t_214">je</tc:token>
+      <tc:token ID="t_215">vodilo</tc:token>
+      <tc:token ID="t_216">neke</tc:token>
+      <tc:token ID="t_217">nacionalne</tc:token>
+      <tc:token ID="t_218">pripadnosti</tc:token>
+      <tc:token ID="t_219">kakršen</tc:token>
+      <tc:token ID="t_220">koli</tc:token>
+      <tc:token ID="t_221">finančni</tc:token>
+      <tc:token ID="t_222">,</tc:token>
+      <tc:token ID="t_223">materialni</tc:token>
+      <tc:token ID="t_224">ali</tc:token>
+      <tc:token ID="t_225">drugi</tc:token>
+      <tc:token ID="t_226">interes</tc:token>
+      <tc:token ID="t_227">,</tc:token>
+      <tc:token ID="t_228">potem</tc:token>
+      <tc:token ID="t_229">lahko</tc:token>
+      <tc:token ID="t_230">sklepamo</tc:token>
+      <tc:token ID="t_231">,</tc:token>
+      <tc:token ID="t_232">da</tc:token>
+      <tc:token ID="t_233">je</tc:token>
+      <tc:token ID="t_234">bilo</tc:token>
+      <tc:token ID="t_235">leta</tc:token>
+      <tc:token ID="t_236">1991</tc:token>
+      <tc:token ID="t_237">več</tc:token>
+      <tc:token ID="t_238">Italijanov</tc:token>
+      <tc:token ID="t_239">zato</tc:token>
+      <tc:token ID="t_240">,</tc:token>
+      <tc:token ID="t_241">ker</tc:token>
+      <tc:token ID="t_242">se</tc:token>
+      <tc:token ID="t_243">je</tc:token>
+      <tc:token ID="t_244">tedaj</tc:token>
+      <tc:token ID="t_245">po</tc:token>
+      <tc:token ID="t_246">takšni</tc:token>
+      <tc:token ID="t_247">logiki</tc:token>
+      <tc:token ID="t_248">izplačalo</tc:token>
+      <tc:token ID="t_249">biti</tc:token>
+      <tc:token ID="t_250">Italijan</tc:token>
+      <tc:token ID="t_251">.</tc:token>
+      <tc:token ID="t_252">Po</tc:token>
+      <tc:token ID="t_253">zadnjem</tc:token>
+      <tc:token ID="t_254">štetju</tc:token>
+      <tc:token ID="t_255">v</tc:token>
+      <tc:token ID="t_256">Sloveniji</tc:token>
+      <tc:token ID="t_257">pa</tc:token>
+      <tc:token ID="t_258">se</tc:token>
+      <tc:token ID="t_259">ne</tc:token>
+      <tc:token ID="t_260">izplača</tc:token>
+      <tc:token ID="t_261">biti</tc:token>
+      <tc:token ID="t_262">nič</tc:token>
+      <tc:token ID="t_263">(</tc:token>
+      <tc:token ID="t_264">ne</tc:token>
+      <tc:token ID="t_265">samo</tc:token>
+      <tc:token ID="t_266">Italijan</tc:token>
+      <tc:token ID="t_267">ali</tc:token>
+      <tc:token ID="t_268">Madžar</tc:token>
+      <tc:token ID="t_269">)</tc:token>
+      <tc:token ID="t_270">:</tc:token>
+      <tc:token ID="t_271">tudi</tc:token>
+      <tc:token ID="t_272">Slovencev</tc:token>
+      <tc:token ID="t_273">je</tc:token>
+      <tc:token ID="t_274">58</tc:token>
+      <tc:token ID="t_275">tisoč</tc:token>
+      <tc:token ID="t_276">manj</tc:token>
+      <tc:token ID="t_277">,</tc:token>
+      <tc:token ID="t_278">manj</tc:token>
+      <tc:token ID="t_279">je</tc:token>
+      <tc:token ID="t_280">Srbov</tc:token>
+      <tc:token ID="t_281">,</tc:token>
+      <tc:token ID="t_282">Hrvatov</tc:token>
+      <tc:token ID="t_283">,</tc:token>
+      <tc:token ID="t_284">Muslimanov</tc:token>
+      <tc:token ID="t_285">in</tc:token>
+      <tc:token ID="t_286">Črnogorcev</tc:token>
+      <tc:token ID="t_287">.</tc:token>
+      <tc:token ID="t_288">Veliko</tc:token>
+      <tc:token ID="t_289">več</tc:token>
+      <tc:token ID="t_290">(</tc:token>
+      <tc:token ID="t_291">84</tc:token>
+      <tc:token ID="t_292">tisoč</tc:token>
+      <tc:token ID="t_293">)</tc:token>
+      <tc:token ID="t_294">pa</tc:token>
+      <tc:token ID="t_295">je</tc:token>
+      <tc:token ID="t_296">slovenskih</tc:token>
+      <tc:token ID="t_297">državljanov</tc:token>
+      <tc:token ID="t_298">neznane</tc:token>
+      <tc:token ID="t_299">narodnosti</tc:token>
+      <tc:token ID="t_300">.</tc:token>
+      <tc:token ID="t_301">V</tc:token>
+      <tc:token ID="t_302">določenih</tc:token>
+      <tc:token ID="t_303">primerih</tc:token>
+      <tc:token ID="t_304">povsem</tc:token>
+      <tc:token ID="t_305">logično</tc:token>
+      <tc:token ID="t_306">:</tc:token>
+      <tc:token ID="t_307">če</tc:token>
+      <tc:token ID="t_308">so</tc:token>
+      <tc:token ID="t_309">tvoji</tc:token>
+      <tc:token ID="t_310">predniki</tc:token>
+      <tc:token ID="t_311">pripadniki</tc:token>
+      <tc:token ID="t_312">dveh</tc:token>
+      <tc:token ID="t_313">,</tc:token>
+      <tc:token ID="t_314">treh</tc:token>
+      <tc:token ID="t_315">in</tc:token>
+      <tc:token ID="t_316">morda</tc:token>
+      <tc:token ID="t_317">več</tc:token>
+      <tc:token ID="t_318">narodnosti</tc:token>
+      <tc:token ID="t_319">,</tc:token>
+      <tc:token ID="t_320">je</tc:token>
+      <tc:token ID="t_321">res</tc:token>
+      <tc:token ID="t_322">težko</tc:token>
+      <tc:token ID="t_323">izbrati</tc:token>
+      <tc:token ID="t_324">pravo</tc:token>
+      <tc:token ID="t_325">.</tc:token>
+      <tc:token ID="t_326">Toda</tc:token>
+      <tc:token ID="t_327">to</tc:token>
+      <tc:token ID="t_328">niti</tc:token>
+      <tc:token ID="t_329">približno</tc:token>
+      <tc:token ID="t_330">ne</tc:token>
+      <tc:token ID="t_331">pomeni</tc:token>
+      <tc:token ID="t_332">,</tc:token>
+      <tc:token ID="t_333">da</tc:token>
+      <tc:token ID="t_334">bo</tc:token>
+      <tc:token ID="t_335">v</tc:token>
+      <tc:token ID="t_336">Istri</tc:token>
+      <tc:token ID="t_337">v</tc:token>
+      <tc:token ID="t_338">naslednjih</tc:token>
+      <tc:token ID="t_339">desetletjih</tc:token>
+      <tc:token ID="t_340">zmanjkalo</tc:token>
+      <tc:token ID="t_341">Italijanov</tc:token>
+      <tc:token ID="t_342">.</tc:token>
+      <tc:token ID="t_343">Tam</tc:token>
+      <tc:token ID="t_344">so</tc:token>
+      <tc:token ID="t_345">že</tc:token>
+      <tc:token ID="t_346">stoletja</tc:token>
+      <tc:token ID="t_347">in</tc:token>
+      <tc:token ID="t_348">bodo</tc:token>
+      <tc:token ID="t_349">še</tc:token>
+      <tc:token ID="t_350">stoletja</tc:token>
+      <tc:token ID="t_351">.</tc:token>
+      <tc:token ID="t_352">Tako</tc:token>
+      <tc:token ID="t_353">kot</tc:token>
+      <tc:token ID="t_354">,</tc:token>
+      <tc:token ID="t_355">upam</tc:token>
+      <tc:token ID="t_356">in</tc:token>
+      <tc:token ID="t_357">v</tc:token>
+      <tc:token ID="t_358">dobro</tc:token>
+      <tc:token ID="t_359">Istre</tc:token>
+      <tc:token ID="t_360">,</tc:token>
+      <tc:token ID="t_361">tudi</tc:token>
+      <tc:token ID="t_362">drugi</tc:token>
+      <tc:token ID="t_363">narodi</tc:token>
+      <tc:token ID="t_364">.</tc:token>
+      <tc:token ID="t_365">Vprašanje</tc:token>
+      <tc:token ID="t_366">je</tc:token>
+      <tc:token ID="t_367">le</tc:token>
+      <tc:token ID="t_368">,</tc:token>
+      <tc:token ID="t_369">s</tc:token>
+      <tc:token ID="t_370">kakšno</tc:token>
+      <tc:token ID="t_371">željo</tc:token>
+      <tc:token ID="t_372">po</tc:token>
+      <tc:token ID="t_373">sožitju</tc:token>
+      <tc:token ID="t_374">bodo</tc:token>
+      <tc:token ID="t_375">tam</tc:token>
+      <tc:token ID="t_376">.</tc:token>
+    </tc:tokens>
+    <tc:sentences>
+      <tc:sentence tokenIDs="t_0 t_1 t_2 t_3 t_4 t_5 t_6 t_7 t_8 t_9 t_10 t_11 t_12 t_13 t_14 t_15"></tc:sentence>
+      <tc:sentence tokenIDs="t_16 t_17 t_18 t_19 t_20 t_21 t_22 t_23 t_24 t_25 t_26 t_27 t_28 t_29 t_30 t_31"></tc:sentence>
+      <tc:sentence tokenIDs="t_32 t_33 t_34 t_35 t_36 t_37 t_38 t_39 t_40 t_41 t_42 t_43 t_44 t_45 t_46 t_47 t_48"></tc:sentence>
+      <tc:sentence tokenIDs="t_49 t_50 t_51 t_52 t_53 t_54 t_55 t_56 t_57 t_58 t_59 t_60 t_61 t_62 t_63 t_64 t_65 t_66 t_67 t_68 t_69 t_70 t_71 t_72"></tc:sentence>
+      <tc:sentence tokenIDs="t_73 t_74 t_75 t_76 t_77 t_78 t_79 t_80 t_81 t_82 t_83 t_84 t_85 t_86 t_87 t_88 t_89 t_90 t_91"></tc:sentence>
+      <tc:sentence tokenIDs="t_92 t_93 t_94 t_95 t_96 t_97 t_98 t_99 t_100 t_101 t_102 t_103 t_104 t_105 t_106 t_107 t_108 t_109 t_110 t_111 t_112 t_113 t_114 t_115 t_116 t_117 t_118"></tc:sentence>
+      <tc:sentence tokenIDs="t_119 t_120 t_121 t_122 t_123 t_124 t_125 t_126 t_127 t_128 t_129 t_130 t_131 t_132 t_133 t_134 t_135 t_136"></tc:sentence>
+      <tc:sentence tokenIDs="t_137 t_138 t_139 t_140 t_141 t_142 t_143 t_144 t_145 t_146 t_147 t_148 t_149 t_150 t_151 t_152 t_153 t_154 t_155 t_156 t_157 t_158 t_159 t_160 t_161 t_162 t_163 t_164 t_165 t_166 t_167 t_168 t_169 t_170 t_171 t_172 t_173 t_174 t_175 t_176 t_177 t_178"></tc:sentence>
+      <tc:sentence tokenIDs="t_179 t_180 t_181 t_182 t_183 t_184 t_185 t_186 t_187 t_188 t_189 t_190 t_191 t_192 t_193 t_194 t_195 t_196 t_197 t_198 t_199 t_200 t_201 t_202 t_203 t_204 t_205 t_206 t_207 t_208 t_209"></tc:sentence>
+      <tc:sentence tokenIDs="t_210 t_211 t_212"></tc:sentence>
+      <tc:sentence tokenIDs="t_213 t_214 t_215 t_216 t_217 t_218 t_219 t_220 t_221 t_222 t_223 t_224 t_225 t_226 t_227 t_228 t_229 t_230 t_231 t_232 t_233 t_234 t_235 t_236 t_237 t_238 t_239 t_240 t_241 t_242 t_243 t_244 t_245 t_246 t_247 t_248 t_249 t_250 t_251"></tc:sentence>
+      <tc:sentence tokenIDs="t_252 t_253 t_254 t_255 t_256 t_257 t_258 t_259 t_260 t_261 t_262 t_263 t_264 t_265 t_266 t_267 t_268 t_269 t_270 t_271 t_272 t_273 t_274 t_275 t_276 t_277 t_278 t_279 t_280 t_281 t_282 t_283 t_284 t_285 t_286 t_287"></tc:sentence>
+      <tc:sentence tokenIDs="t_288 t_289 t_290 t_291 t_292 t_293 t_294 t_295 t_296 t_297 t_298 t_299 t_300"></tc:sentence>
+      <tc:sentence tokenIDs="t_301 t_302 t_303 t_304 t_305 t_306 t_307 t_308 t_309 t_310 t_311 t_312 t_313 t_314 t_315 t_316 t_317 t_318 t_319 t_320 t_321 t_322 t_323 t_324 t_325"></tc:sentence>
+      <tc:sentence tokenIDs="t_326 t_327 t_328 t_329 t_330 t_331 t_332 t_333 t_334 t_335 t_336 t_337 t_338 t_339 t_340 t_341 t_342"></tc:sentence>
+      <tc:sentence tokenIDs="t_343 t_344 t_345 t_346 t_347 t_348 t_349 t_350 t_351"></tc:sentence>
+      <tc:sentence tokenIDs="t_352 t_353 t_354 t_355 t_356 t_357 t_358 t_359 t_360 t_361 t_362 t_363 t_364"></tc:sentence>
+      <tc:sentence tokenIDs="t_365 t_366 t_367 t_368 t_369 t_370 t_371 t_372 t_373 t_374 t_375 t_376"></tc:sentence>
+    </tc:sentences>
+    <tc:references reltagset="TueBaDz">
+      <tc:entity>
+        <tc:reference ID="rc_0" type="nam" target="rc_1" tokenIDs="t_179 t_180"></tc:reference>
+        <tc:reference ID="rc_1" tokenIDs="t_182 t_183 t_184 t_185 t_186 t_187 t_188 t_189"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_2" target="rc_3" tokenIDs="t_272"></tc:reference>
+        <tc:reference ID="rc_3" type="nam" tokenIDs="t_296 t_297"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_4" target="rc_5" tokenIDs="t_197"></tc:reference>
+        <tc:reference ID="rc_5" target="rc_6" tokenIDs="t_208"></tc:reference>
+        <tc:reference ID="rc_6" target="rc_7" tokenIDs="t_238"></tc:reference>
+        <tc:reference ID="rc_7" target="rc_8" tokenIDs="t_250"></tc:reference>
+        <tc:reference ID="rc_8" target="rc_9" tokenIDs="t_266"></tc:reference>
+        <tc:reference ID="rc_9" type="nam" target="rc_10" tokenIDs="t_341"></tc:reference>
+        <tc:reference ID="rc_10" type="nam" tokenIDs="t_344"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_11" tokenIDs="t_105 t_106"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_12" tokenIDs="t_256"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_13" tokenIDs="t_268"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_14" tokenIDs="t_280"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_15" tokenIDs="t_282"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_16" tokenIDs="t_284"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_17" tokenIDs="t_286"></tc:reference>
+      </tc:entity>
+      <tc:entity>
+        <tc:reference ID="rc_18" target="rc_19" tokenIDs="t_189"></tc:reference>
+        <tc:reference ID="rc_19" tokenIDs="t_336"></tc:reference>
+      </tc:entity>
+    </tc:references>
+  </tc:TextCorpus>
+</D-Spin>
