@@ -1,2 +1,4 @@
 .idea/
 venv-onj
+src/__pycache__/
+src/baseline_model/*
