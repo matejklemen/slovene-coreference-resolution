@@ -44,7 +44,7 @@ and POS tags.
 Since only a subset of SSJ500k is used, it can be trimmed to decrease its size and improve loading time. 
 To do that, run `trim_ssj.py`:
 ```bash
-$ python src/trim_ssj.py --coref149_dir=data/coref149 --ssj500k_path=data/ssj500k-sl.TEI/ssj500k-sl.body.xml
+$ python src/trim_ssj.py --coref149_dir=data/coref149 --ssj500k_path=data/ssj500k-sl.TEI/ssj500k-sl.body.xml --target_path=data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml
 ```
 
 If `target_path` parameter is not provided, the above command would produce 

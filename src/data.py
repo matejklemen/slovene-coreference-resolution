@@ -11,8 +11,8 @@ DUMMY_ANTECEDENT = None
 #####################
 # Path "./data/*" assumes you are running from root folder, i.e. (python /src/baseline.py)
 # Use path "../data/*" if you are running from src folder, i.e. (cd src) and then (python baseline.py)
-DATA_DIR = "./data/coref149"
-SSJ_PATH = "./data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml"
+DATA_DIR = "../data/coref149"
+SSJ_PATH = "../data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml"
 
 
 def _read_tokens(corpus_soup):
