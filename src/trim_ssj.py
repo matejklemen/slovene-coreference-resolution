@@ -1,5 +1,6 @@
 """ Remove documents from SSJ500k which are not used in coref149 - to reduce file reading time. """
 
+import logging
 import argparse
 import os
 from bs4 import BeautifulSoup
@@ -13,17 +14,17 @@ if __name__ == "__main__":
     args = parser.parse_args()
     corpus_dir = args.coref149_dir
 
-    print(f"**Reading valid document IDs from {corpus_dir}**")
+    logging.info(f"**Reading valid document IDs from {corpus_dir}**")
     coref149_ids = [f[:-4] for f in os.listdir(corpus_dir)
                     if os.path.isfile(os.path.join(corpus_dir, f)) and f.endswith(".tcf")]
 
-    print(f"**Reading SSJ500k corpus from {args.ssj500k_path}**")
+    logging.info(f"**Reading SSJ500k corpus from {args.ssj500k_path}**")
     with open(args.ssj500k_path, encoding="utf8") as ssj:
         content = ssj.readlines()
         content = "".join(content)
         soup = BeautifulSoup(content, "lxml")
 
-    print(f"**Removing redundant documents**")
+    logging.info(f"**Removing redundant documents**")
     for curr_doc in soup.findAll("p"):
         if curr_doc["xml:id"] not in coref149_ids:
             curr_doc.decompose()
@@ -36,6 +37,6 @@ if __name__ == "__main__":
         path, ext = os.path.splitext(args.ssj500k_path)
         target_path = path + ".reduced" + ext
 
-    print(f"**Saving reduced SSJ500k dataset to {target_path}**")
+    logging.info(f"**Saving reduced SSJ500k dataset to {target_path}**")
     with open(target_path, "w", encoding="utf8") as f_target:
         f_target.write(str(soup))

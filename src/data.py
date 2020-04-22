@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import os
+import logging
 
 from bs4 import BeautifulSoup
 
@@ -12,6 +13,7 @@ DUMMY_ANTECEDENT = None
 # Use path "../data/*" if you are running from src folder, i.e. (cd src) and then (python baseline.py)
 DATA_DIR = "./data/coref149"
 SSJ_PATH = "./data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml"
+
 
 def _read_tokens(corpus_soup):
     """ Obtain all tokens in current document.
@@ -136,8 +138,8 @@ class Document:
 
                 # Warn in case tokenization is different between datasets (we are slightly screwed in that case)
                 if curr_token.text.strip() != tokens[coref_token_id]:
-                    print(f"MISMATCH! '{curr_token.text.strip()}' (ssj500k ID: {ssj_token_id}) vs "
-                          f"'{tokens[coref_token_id]}' (coref149 ID: {coref_token_id})")
+                    logging.warning(f"MISMATCH! '{curr_token.text.strip()}' (ssj500k ID: {ssj_token_id}) vs "
+                                    f"'{tokens[coref_token_id]}' (coref149 ID: {coref_token_id})")
 
                 _coref_to_ssj[coref_token_id] = ssj_token_id
                 idx_token_coref += 1
@@ -178,7 +180,7 @@ class Document:
 
 
 def read_corpus(corpus_dir, ssj_path):
-    print(f"**Reading data from '{ssj_path}'**")
+    logging.info(f"**Reading data from '{ssj_path}'**")
     with open(ssj_path, encoding="utf8") as ssj:
         content = ssj.readlines()
         content = "".join(content)

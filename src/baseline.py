@@ -1,16 +1,18 @@
 import torch
 import os
+import bcubed
+import logging
 
 import numpy as np
 import torch.optim as optim
 import torch.nn as nn
 
 from data import DATA_DIR, SSJ_PATH, read_corpus
+from utils import get_clusters
 from collections import Counter
 
-#####################
-# GLOBAL PARAMETERS
-#####################
+logging.basicConfig(level=logging.INFO)
+
 NUM_FEATURES = 2
 NUM_EPOCHS = 2
 # Note: if you don't want to save model, set this to "" or None
@@ -94,7 +96,7 @@ def features_mention(doc, mention):
 
 def features_mention_pair(doc, head_mention, cand_mention):
     """ Extracts features for a mention pair.
-        - TODO: optional cache parameter? (where already constructed features would get stored)
+        - TODO: cache global var? (where already constructed features would get stored)
         - TODO: additional features """
 
     head_features = features_mention(doc, head_mention)
@@ -130,60 +132,46 @@ def train_doc(model, model_opt, loss, curr_doc, eval_mode=False):
     if len(curr_doc.mentions) == 0:
         return [], (0.0, 0)
 
-    print(f"**Sorting mentions...**")
-    # Sort mentions
+    logging.debug(f"**Sorting mentions...**")
     sorted_mentions = sorted(curr_doc.mentions.items(), key=lambda tup: (tup[1].positions[0][0],    # sentence
                                                                          tup[1].positions[0][1],    # start pos
                                                                          tup[1].positions[-1][1]))  # end pos
     doc_loss, n_examples = 0.0, 0
-    preds = []
+    preds = {}
 
-    print(f"**Processing {len(sorted_mentions)} mentions...**")
+    logging.debug(f"**Processing {len(sorted_mentions)} mentions...**")
     for idx_head, (head_id, head_mention) in enumerate(sorted_mentions, 1):
-        print(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
-
-        # Set gradients of all model parameters to zero.
+        logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
         model.zero_grad()
 
-        # Id of antecedent mention
         gt_antecedent_id = curr_doc.mapped_clusters[head_id]
 
         # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
         candidates, features = [None], []
-
-        # Init multi-dimensional matrix
         gt_antecedent = torch.tensor([0])
 
         for idx_candidate, (cand_id, cand_mention) in enumerate(sorted_mentions, 1):
-            # Set unit row for self
             if cand_id == gt_antecedent_id:
                 gt_antecedent[:] = idx_candidate
 
             # Obtain scores for candidates and select best one as antecedent
             if idx_candidate == idx_head:
                 if len(features) > 0:
-                    # Create multi-dimensional matrix of features
                     features = torch.tensor(np.array(features, dtype=np.float32))
 
-                    # Get candidate scores
                     cand_scores = model(features)
 
                     # Concatenates the given sequence of seq tensors in the given dimension
                     card_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
 
-                    # Normalize outputs
                     cand_scores = torch.softmax(card_scores, dim=-1)
 
                     # Get index of max value. That index equals to mention at that place
                     curr_pred = torch.argmax(cand_scores)
 
-                    # Update loss function
                     curr_loss = loss(cand_scores, gt_antecedent)
-
-                    # Update loss of a document
                     doc_loss += float(curr_loss)
 
-                    # Update counter of examples
                     n_examples += 1
 
                     if not eval_mode:
@@ -193,10 +181,10 @@ def train_doc(model, model_opt, loss, curr_doc, eval_mode=False):
                     # Only one candidate antecedent = first mention
                     curr_pred = 0
 
-                preds.append({
-                    "mention_id": head_id,
-                    "antecedent_id": candidates[int(curr_pred)]
-                })
+                # { antecedent: [mention(s)] } pair
+                existing_refs = preds.get(candidates[int(curr_pred)], [])
+                existing_refs.append(head_id)
+                preds[candidates[int(curr_pred)]] = existing_refs
                 break
             else:
                 # Add current mention as candidate
@@ -209,7 +197,7 @@ def train_doc(model, model_opt, loss, curr_doc, eval_mode=False):
 if __name__ == "__main__":
     # Prepare directory for saving trained model
     if MODEL_SAVE_DIR and not os.path.exists(MODEL_SAVE_DIR):
-        print(f"**Created directory '{MODEL_SAVE_DIR}' for saving model**")
+        logging.info(f"**Created directory '{MODEL_SAVE_DIR}' for saving model**")
         os.makedirs(MODEL_SAVE_DIR)
 
     # Read corpus. Documents will be of type 'Document'
@@ -218,74 +206,73 @@ if __name__ == "__main__":
     # Split documents to train and test set
     train_docs, dev_docs = documents[: -40], documents[-40: -20]
     test_docs = documents[-20:]
-    print(f"**'{len(documents)}' documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) and "
-          f"test set ({len(test_docs)})**")
+    logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
+                 f"and test set ({len(test_docs)})**")
 
-    # Set pointer on first train document
-    curr_doc = train_docs[0]
+    NUM_EPOCHS = 1
+    NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 
-    print(f"**Initializing model...**")
-    # Init a linear model
     model = nn.Linear(in_features=NUM_FEATURES, out_features=1)
-    # Init model optimizer (stochastic gradient descent)
     model_optimizer = optim.SGD(model.parameters(), lr=0.01)
-    # Init loss function (combines nn.LogSoftmax() and nn.NLLLoss() in one single class)
     loss = nn.CrossEntropyLoss()
-    # Init best loss
     best_dev_loss = float("inf")
 
-    # NUM_EPOCHS determines how many times we pass data through network
     for idx_epoch in range(NUM_EPOCHS):
-        print(f"[EPOCH {1 + idx_epoch}]")
+        logging.info(f"[EPOCH {1 + idx_epoch}]")
 
         # Make permutation of train documents
         shuffle_indices = torch.randperm(len(train_docs))
 
-        # Set the module in training mode
         model.train()
-
-        ##############
-        # Train loop
-        ##############
-
-        # Init performance metrics
         train_loss, train_examples = 0.0, 0
         for idx_doc in shuffle_indices:
-            # Set document to be trained
             curr_doc = train_docs[idx_doc]
 
-            # Train on selected document
             preds, (doc_loss, n_examples) = train_doc(model, model_optimizer, loss, curr_doc)
 
-            # Increment collective loss and number of trained examples
             train_loss += doc_loss
             train_examples += n_examples
 
-        # Set the module in evaluation mode
         model.eval()
-
-        ##################
-        # Validation loop
-        ##################
-
-        # Init performance metrics
         dev_loss, dev_examples = 0.0, 0
         for curr_doc in dev_docs:
-            # Train on selected document
             _, (doc_loss, n_examples) = train_doc(model, model_optimizer, loss, curr_doc, eval_mode=True)
 
-            # Increment collective loss and number of trained examples
             dev_loss += doc_loss
             dev_examples += n_examples
 
-        print(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
-        print(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
+        logging.info(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
+        logging.info(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
 
-        if (dev_loss / dev_examples) < best_dev_loss:
-            print(f"**Saving new best model to '{MODEL_SAVE_DIR}'**")
+        if ((dev_loss / dev_examples) < best_dev_loss) and MODEL_SAVE_DIR:
+            logging.info(f"**Saving new best model to '{MODEL_SAVE_DIR}'**")
             torch.save(model.state_dict(), os.path.join(MODEL_SAVE_DIR, 'best.th'))
 
-        print("-------------------")
+        logging.info("")
 
-    # TODO: test set prediction, form clusters, evaluate using MUC/Bcubed/CEAFe (and/or - if possible, all of these)
-    # ...
+    b3_prec, b3_rec, b3_f1 = 0.0, 0.0, 0.0
+    for curr_doc in test_docs:
+        test_preds, _ = train_doc(model, model_optimizer, loss, curr_doc, eval_mode=True)
+
+        test_clusters = get_clusters(test_preds)
+        gt_clusters = {}  # ground truth / gold clusters
+        for id_cluster, cluster in enumerate(curr_doc.clusters):
+            for mention_id in cluster:
+                gt_clusters[mention_id] = {id_cluster}
+
+        curr_prec = bcubed.precision(test_clusters, gt_clusters)
+        curr_rec = bcubed.recall(test_clusters, gt_clusters)
+
+        denom = curr_prec + curr_rec
+        denom = 1 if denom < 0+1e-6 else denom  # handle case where either of prec/rec is 0
+        curr_f1 = (2 * curr_prec * curr_rec) / denom
+
+        b3_prec += curr_prec
+        b3_rec += curr_rec
+        b3_f1 += curr_f1
+
+    b3_prec /= len(test_docs)
+    b3_rec /= len(test_docs)
+    b3_f1 /= len(test_docs)
+    logging.info(f"**Test scores**")
+    logging.info(f"**BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}**")
