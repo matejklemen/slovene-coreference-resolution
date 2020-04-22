@@ -2,6 +2,7 @@ import torch
 import os
 import bcubed
 import logging
+import time
 
 import numpy as np
 import torch.optim as optim
@@ -10,6 +11,7 @@ import torch.nn as nn
 from data import DATA_DIR, SSJ_PATH, read_corpus
 from utils import get_clusters
 from collections import Counter
+
 
 logging.basicConfig(level=logging.INFO)
 
@@ -195,10 +197,15 @@ def train_doc(model, model_opt, loss, curr_doc, eval_mode=False):
 
 
 if __name__ == "__main__":
+    timestr = time.strftime("%Y%m%d-%H%M%S")
+    curr_model_save_dir = os.path.join(MODEL_SAVE_DIR, timestr)
     # Prepare directory for saving trained model
     if MODEL_SAVE_DIR and not os.path.exists(MODEL_SAVE_DIR):
-        logging.info(f"**Created directory '{MODEL_SAVE_DIR}' for saving model**")
+        logging.info(f"**Created directory '{MODEL_SAVE_DIR}' for saving models**")
         os.makedirs(MODEL_SAVE_DIR)
+    if MODEL_SAVE_DIR and not os.path.exists(curr_model_save_dir):
+        logging.info(f"**Created directory '{curr_model_save_dir}' for saving model**")
+        os.makedirs(curr_model_save_dir)
 
     # Read corpus. Documents will be of type 'Document'
     documents = read_corpus(DATA_DIR, SSJ_PATH)
@@ -245,16 +252,19 @@ if __name__ == "__main__":
         logging.info(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
 
         if ((dev_loss / dev_examples) < best_dev_loss) and MODEL_SAVE_DIR:
-            logging.info(f"**Saving new best model to '{MODEL_SAVE_DIR}'**")
-            torch.save(model.state_dict(), os.path.join(MODEL_SAVE_DIR, 'best.th'))
+            logging.info(f"**Saving new best model to '{curr_model_save_dir}'**")
+            torch.save(model.state_dict(), os.path.join(curr_model_save_dir, 'best.th'))
 
         logging.info("")
 
+    # doc_name: <cluster assignments> pairs for all test documents
+    all_test_preds = {}
     b3_prec, b3_rec, b3_f1 = 0.0, 0.0, 0.0
     for curr_doc in test_docs:
         test_preds, _ = train_doc(model, model_optimizer, loss, curr_doc, eval_mode=True)
 
         test_clusters = get_clusters(test_preds)
+        all_test_preds[curr_doc.doc_id] = test_clusters
         gt_clusters = {}  # ground truth / gold clusters
         for id_cluster, cluster in enumerate(curr_doc.clusters):
             for mention_id in cluster:
@@ -276,3 +286,11 @@ if __name__ == "__main__":
     b3_f1 /= len(test_docs)
     logging.info(f"**Test scores**")
     logging.info(f"**BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}**")
+
+    if MODEL_SAVE_DIR:
+        # Save test predictions to file for further debugging
+        test_preds_path = os.path.join(curr_model_save_dir, "test_preds.txt")
+        with open(test_preds_path, "w") as f:
+            for doc_id, clusters in all_test_preds.items():
+                print(f"Document '{doc_id}':", file=f)
+                print(clusters, file=f)
