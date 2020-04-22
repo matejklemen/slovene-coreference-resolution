@@ -1,4 +1,4 @@
-# nlp-coreference-resolution
+# slovene-coreference-resolution
 
 TODO: A short introduction/description of what this repository is about.
 
