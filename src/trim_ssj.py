@@ -32,7 +32,9 @@ if __name__ == "__main__":
 
     target_path = args.target_path
     if not target_path:
-        target_path = args.ssj500k_path
+        # append ".reduced" to filename, i.e. ssj500k-sl.body.xml -> ssj500k-sl.body.reduced.xml
+        path, ext = os.path.splitext(args.ssj500k_path)
+        target_path = path + ".reduced" + ext
 
     print(f"**Saving reduced SSJ500k dataset to {target_path}**")
     with open(target_path, "w", encoding="utf8") as f_target:

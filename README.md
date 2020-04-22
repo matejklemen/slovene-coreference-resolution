@@ -1,58 +1,64 @@
 # nlp-coreference-resolution
 
+TODO: A short introduction/description of what this repository is about.
+
 # Project structure
-`report/` contains the pdf of our work (WIP).
+
+- `report/` contains the pdf of our work.
+- `src/` contains the source code of our work.
+- `data/` is a placeholder for datasets (see _Getting datasets_ section below).
 
 # Setup
+
 Before doing anything, the dependencies need to be installed.  
 ```bash
 $ pip install -r requirements.txt
 ```
 
-NOTE: if you have problems with `tourch` library, make sure you have python x64 installed. Also make use of [this](https://pytorch.org/get-started/locally/#start-locally) official command builder. 
+NOTE: if you have problems with `torch` library, make sure you have python x64 installed. Also make use of 
+[this](https://pytorch.org/get-started/locally/#start-locally) official command builder.
 
-The project operates with 2 datasets: [SSJ500k](https://www.clarin.si/repository/xmlui/handle/11356/1210) 
-and [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182), so make sure to download them (download the 
-`sl TEI` version of ssj500k).   
+## Getting datasets
+
+The project operates with the following datasets: 
+- [SSJ500k](https://www.clarin.si/repository/xmlui/handle/11356/1210) (`-sl.TEI` version), 
+- [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182).
+
+Download and extract them into `data/` folder. After that, your data folder should look like this:
+```
+data/
++-- ssj500k-sl.TEI
+    +-- ssj500k.back.xml
+    +-- ssj500k-sl.body.xml
+    +-- ssj500k-sl.xml
+    +-- ...
++-- coref149
+    +-- ssj4.15.tcf
+    +-- ssj5.30.tcf
+    +-- ... (list of .tcf files)
+```
 
 Coref149 is the main dataset we use, while the other one is used for additional metadata such as dependencies 
 and POS tags.
 
-Example project structure:  
-``` 
-+-- report   
-|   +--  ssj500k-sl.TEI   
-|   |   +-- ...   
-|   +-- coref149   
-|   |   +-- ...   
-+-- src   
-|   +-- ...   
-+-- databases   
-|   +-- ...   
-+-- README.md   
-+-- requirements.txt   
-```
-  
-
 Since only a subset of SSJ500k is used, it can be trimmed to decrease its size and improve loading time. 
-To do that, run `trim_ssj.py`.
+To do that, run `trim_ssj.py`:
 ```bash
-# target_path is optional - if not provided, `ssj500k_path` will be overriden
-$ python src/trim_ssj --coref149_dir="..." \
-    --ssj500k_path=".../ssj500k-sl.body.xml" \
-    --target_path="..."
+$ python src/trim_ssj.py --coref149_dir=data/coref149 --ssj500k_path=data/ssj500k-sl.TEI/ssj500k-sl.body.xml
 ```
 
-Example command for project structure above:   
-```
-python ./src/trim_ssj.py --coref149_dir="databases" --ssj500k_path="./databases/ssj500k-sl.TEI/ssj500k-sl.body.xml --target_path="./databases/ssj500k-sl.TEI/ssj500k-reduced.xml"
-```
+If `target_path` parameter is not provided, the above command would produce 
+`data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml`.
 
-To run the baseline model (with hand-crafted features), run `baseline.py`. Make sure to change paths in there first
-(to the paths where you have the datasets stored).
+
+# Running the project
+
+Before running anything, make sure to set `DATA_DIR` and `SSJ_PATH` parameters in `src/data.py` file (if the paths to 
+where your datasets are stored differ in your setup).
+
+To run the baseline model (with hand-crafted features), run `baseline.py`.
 ```bash
-$ cd src
-$ python baseline.py
+$ python src/baseline.py
 
 ```
 

@@ -1,4 +1,14 @@
-.idea/
-venv-onj
-src/__pycache__/
 src/baseline_model/*
+baseline_model/*
+
+# PyCharm stuff
+/.idea/
+__pycache__/
+
+# Python venvs
+venv/
+venv-onj
+
+# Data folder, keep it empty
+/data/*
+!/data/.empty

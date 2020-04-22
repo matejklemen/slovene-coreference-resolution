@@ -5,14 +5,12 @@ import numpy as np
 import torch.optim as optim
 import torch.nn as nn
 
-from data import read_corpus
+from data import DATA_DIR, SSJ_PATH, read_corpus
 from collections import Counter
 
 #####################
 # GLOBAL PARAMETERS
 #####################
-DATA_DIR = "../databases/coref149"
-SSJ_PATH = "../databases/ssj500k-sl.TEI/ssj500k-reduced.xml"
 NUM_FEATURES = 2
 NUM_EPOCHS = 2
 # Note: if you don't want to save model, set this to "" or None
