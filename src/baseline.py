@@ -11,6 +11,7 @@ import torch.nn as nn
 from data import DATA_DIR, SSJ_PATH, read_corpus
 from utils import get_clusters
 from collections import Counter
+from visualization import build_and_display
 
 
 #####################
@@ -22,6 +23,8 @@ NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in 
 NUM_EPOCHS = 1
 # Note: if you don't want to save model, set this to "" or None
 MODEL_SAVE_DIR = "baseline_model"
+VISUALIZATION_GENERATE = False
+VISUALIZATION_OPEN_WHEN_DONE = False
 
 # Useful resource for parsing the morphosyntactic properties:
 # http://nl.ijs.si/ME/V5/msd/html/msd-sl.html#msd.categories-sl
@@ -370,3 +373,7 @@ if __name__ == "__main__":
             for doc_id, clusters in all_test_preds.items():
                 print(f"Document '{doc_id}':", file=f)
                 print(clusters, file=f)
+
+        # Build and display visualization
+        if VISUALIZATION_GENERATE:
+            build_and_display(test_preds_path, curr_model_save_dir, VISUALIZATION_OPEN_WHEN_DONE)
