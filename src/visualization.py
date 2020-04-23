@@ -111,7 +111,6 @@ def build_visualization(test_preds_file, save_dir):
 
 # Open visualization file in browser (in a new tab, if possible)
 def display_visualization(url):
-    print("url: ", url)
     webbrowser.open("file://"+url, new=2)
 
 
@@ -124,7 +123,6 @@ def build_and_display(test_preds_file, save_dir, display):
     """
     test_preds_file = os.path.join(current_directory, test_preds_file)
     save_dir = os.path.join(current_directory, save_dir)
-    print("args: ", test_preds_file , " ", save_dir)
     visual_path = build_visualization(test_preds_file, save_dir)
 
     if display:
