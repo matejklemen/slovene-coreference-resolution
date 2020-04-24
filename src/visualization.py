@@ -1,10 +1,90 @@
+import random
 import webbrowser
 import os
+import ast
 from bs4 import BeautifulSoup
 from data import DATA_DIR
 
 VISUAL_FILE_NAME = 'visualization.html'
 current_directory = os.getcwd()
+
+
+def random_color():
+    alpha = "a3"
+    return "#"+''.join([random.choice('0123456789ABCDEF') for j in range(6)]) + alpha
+
+
+def get_compared(parsed_doc, parsed_preds):
+    ground_truth_clusters = parsed_doc.find_all("tc:entity")
+
+    # Prepare dictionaries for predictions
+    color_by_cluster_id = {}
+    color_by_mention_prediction = {}
+    for mention_id, cluster in parsed_preds.items():
+        cluster_id = cluster.pop()
+        if cluster_id not in color_by_cluster_id:
+            color_by_cluster_id[cluster_id] = random_color()
+
+        color = color_by_cluster_id[cluster_id]
+        color_by_mention_prediction[mention_id] = color
+
+    # Get dictionary of tokens
+    token_by_id = {}
+    for token in parsed_doc.find_all("tc:token"):
+        token_by_id[token['id']] = token.text
+
+    # Get dictionary of colors for each token and tokens for mentions
+    cluster_color_by_token = {}
+    mention_by_token = {}
+    for cluster in ground_truth_clusters:
+        color = random_color()
+        for reference in cluster.find_all("tc:reference"):
+            rc_id = reference['id']
+            for token in reference['tokenids'].split(" "):
+                cluster_color_by_token[token] = color
+                mention_by_token[token] = rc_id
+
+    # Combine to text
+    ground_truth = ""
+    predictions = ""
+    for sentence in parsed_doc.find_all("tc:sentence"):
+        if ground_truth != "":
+            ground_truth += "<br><br>"
+            predictions += "<br><br>"
+
+        row_truth = ""
+        row_predictions = ""
+        for token in sentence["tokenids"].split(" "):
+            if row_truth != "":
+                row_truth += " "
+                row_predictions += " "
+
+            # Ground truth logic
+            if token in cluster_color_by_token:
+                color = cluster_color_by_token[token]
+                row_truth += f"""<span style="background-color:{color}">"""+token_by_id[token]+"</span>"
+            else:
+                row_truth += token_by_id[token]
+
+            # Predictions
+            if token in mention_by_token:
+                mention = mention_by_token[token]
+                if mention in color_by_mention_prediction:
+                    color = color_by_mention_prediction[mention]
+                    row_predictions += f"""<span style="background-color:{color}">"""+token_by_id[token]+"</span>"
+            else:
+                row_predictions += token_by_id[token]
+
+        ground_truth += row_truth
+        predictions += row_predictions
+
+    return f"""
+    <div style="width:100%;display:flex">
+        <div style="width:45%;"><h3>Ground truth</h3>{ground_truth}</div>
+        <div style="width:10%;"></div>
+        <div style="width:45%;"><h3>Model predictions</h3>{predictions}</div>
+    </div>
+    """
 
 
 def parse_document(document_name):
@@ -15,6 +95,9 @@ def parse_document(document_name):
         soup = BeautifulSoup(content, "lxml")
     return soup
 
+
+def parse_predictions(clusters):
+    return ast.literal_eval(clusters)
 
 def get_document_predictions(test_preds_file):
     ul_elements = ""
@@ -28,11 +111,13 @@ def get_document_predictions(test_preds_file):
         clusters = predictions[i+1]
 
         parsed_doc = parse_document(document)
-        text = parsed_doc.find("tc:text")
+        parsed_preds = parse_predictions(clusters)
+
+        text = get_compared(parsed_doc, parsed_preds)
 
         tab_id = "id" + str(i)
         ul_elements += f"""<li class="nav-item"><a class="nav-link" href="#{tab_id}" data-toggle="tab">{document}</a></li>"""
-        document_content += f"""<div class="tab-pane active" id="{tab_id}">{text}</div>"""
+        document_content += f"""<div class="tab-pane" id="{tab_id}" style="width:100%">{text}</div>"""
 
     predictions = f"""
     <div>
@@ -40,7 +125,7 @@ def get_document_predictions(test_preds_file):
             {ul_elements}
         </ul>
         
-        <div class="tab-content">
+        <div class="tab-content" style="margin-top:30px; margin-bottom:150px">
             {document_content}
         </div>
     </div>
