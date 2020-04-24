@@ -1,8 +1,19 @@
 import webbrowser
 import os
+from bs4 import BeautifulSoup
+from data import DATA_DIR
 
 VISUAL_FILE_NAME = 'visualization.html'
 current_directory = os.getcwd()
+
+
+def parse_document(document_name):
+    file_path = os.path.join(DATA_DIR, document_name+".tcf")
+    with open(file_path, encoding="utf8") as f:
+        content = f.readlines()
+        content = "".join(content)
+        soup = BeautifulSoup(content, "lxml")
+    return soup
 
 
 def get_document_predictions(test_preds_file):
@@ -13,12 +24,15 @@ def get_document_predictions(test_preds_file):
         predictions = f.readlines()[6:]
 
     for i in range(0, len(predictions), 2):
-        document = predictions[i].split('Document ')[1]
+        document = predictions[i].split('Document ')[1].split(':')[0].split('\\')[1].replace("'", "")
         clusters = predictions[i+1]
+
+        parsed_doc = parse_document(document)
+        text = parsed_doc.find("tc:text")
 
         tab_id = "id" + str(i)
         ul_elements += f"""<li class="nav-item"><a class="nav-link" href="#{tab_id}" data-toggle="tab">{document}</a></li>"""
-        document_content += f"""<div class="tab-pane active" id="{tab_id}">{clusters}</div>"""
+        document_content += f"""<div class="tab-pane active" id="{tab_id}">{text}</div>"""
 
     predictions = f"""
     <div>
@@ -59,7 +73,7 @@ def write_body(visual_path, test_preds_file):
             {document_predictions}
         </body>
     """
-    with open(visual_path, "a") as f:
+    with open(visual_path, "a", encoding="utf8") as f:
         f.write(body)
 
 
@@ -131,4 +145,4 @@ def build_and_display(test_preds_file, save_dir, display):
 
 # Only for testing
 if __name__ == "__main__":
-    build_and_display("./test_preds.txt", current_directory, true)
+    build_and_display("./test_preds.txt", current_directory, True)
