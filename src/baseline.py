@@ -84,7 +84,7 @@ def features_mention(doc, mention):
 
         # Take number of first token for which it can be determined
         if number is None:
-            curr_number = extract_gender(morphsyntax)
+            curr_number = extract_number(morphsyntax)
             if curr_number in {"e", "d", "m"}:
                 number = curr_number
 
