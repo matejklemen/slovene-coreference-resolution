@@ -148,7 +148,7 @@ class BaselineModel:
     # indicates whether a model was loaded from file (if it was, training phase can be skipped)
     loaded_from_file: bool
 
-    def __init__(self, in_features, out_features=1, lr=0.01, name=None):
+    def __init__(self, in_features, lr=0.01, name=None):
         """
         Initializes a new BaselineModel. baseline.prepare() should be called after initialization!
         """
@@ -160,39 +160,12 @@ class BaselineModel:
         self.path_model_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
         self.path_test_preds = os.path.join(self.path_model_dir, "test_preds.txt")
 
+        out_features = 1
         self.model = nn.Linear(in_features=in_features, out_features=out_features)
         self.model_optimizer = optim.SGD(self.model.parameters(), lr=lr)
         self.loss = nn.CrossEntropyLoss()
         logging.debug("Initialized new baseline model")
-        pass
-
-    def prepare(self):
-        """
-        Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
-        an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
-        """
-        # Prepare directory for saving model for this run
-        if MODELS_SAVE_DIR and not os.path.exists(self.path_model_dir):
-            self.loaded_from_file = False
-            os.makedirs(self.path_model_dir)
-            logging.info(f"Created directory '{self.path_model_dir}' for saving model")
-
-            # Save metadata for this run
-            if MODELS_SAVE_DIR:
-                with open(self.path_model_metadata, "w") as f:
-                    print("Train model features:", file=f)
-                    print(f"NUM_FEATURES: {self.model.in_features}", file=f)
-                    print(f"NUM_EPOCHS: {NUM_EPOCHS}", file=f)
-                    print("", file=f)
-
-        else:
-            logging.info(f"Directory '{self.path_model_dir}' already exists")
-            path_to_model = os.path.join(self.path_model_dir, 'best.th')
-            if os.path.isfile(path_to_model):
-                logging.info(f"Model with name '{self.name}' already exists. Loading model...")
-                self.model.load_state_dict(torch.load(path_to_model))
-                logging.info(f"Model with name '{self.name}' loaded")
-                self.loaded_from_file = True
+        self._prepare()
         pass
 
     def train(self, epochs, train_docs, dev_docs):
@@ -338,6 +311,35 @@ class BaselineModel:
 
         pass
 
+    def _prepare(self):
+        """
+        Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
+        an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
+        """
+        # Prepare directory for saving model for this run
+        if MODELS_SAVE_DIR and not os.path.exists(self.path_model_dir):
+            self.loaded_from_file = False
+            os.makedirs(self.path_model_dir)
+            logging.info(f"Created directory '{self.path_model_dir}' for saving model")
+
+            # Save metadata for this run
+            if MODELS_SAVE_DIR:
+                with open(self.path_model_metadata, "w") as f:
+                    print("Train model features:", file=f)
+                    print(f"NUM_FEATURES: {self.model.in_features}", file=f)
+                    print(f"NUM_EPOCHS: {NUM_EPOCHS}", file=f)
+                    print("", file=f)
+
+        else:
+            logging.info(f"Directory '{self.path_model_dir}' already exists")
+            path_to_model = os.path.join(self.path_model_dir, 'best.th')
+            if os.path.isfile(path_to_model):
+                logging.info(f"Model with name '{self.name}' already exists. Loading model...")
+                self.model.load_state_dict(torch.load(path_to_model))
+                logging.info(f"Model with name '{self.name}' loaded")
+                self.loaded_from_file = True
+        pass
+
     def _train_doc(self, curr_doc, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
             Returns predictions, loss and number of examples evaluated. """
@@ -428,7 +430,6 @@ if __name__ == "__main__":
     # if you'd like to reuse a model, give it a name, i.e.
     # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
     baseline = BaselineModel(NUM_FEATURES)
-    baseline.prepare()
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded
