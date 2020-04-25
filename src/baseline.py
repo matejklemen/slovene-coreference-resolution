@@ -20,7 +20,6 @@ logging.basicConfig(level=logging.INFO)
 
 NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 2
-# Note: if you don't want to save model, set this to "" or None
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = False
 VISUALIZATION_OPEN_WHEN_DONE = False
@@ -150,7 +149,7 @@ class BaselineModel:
 
     def __init__(self, in_features, lr=0.01, name=None):
         """
-        Initializes a new BaselineModel. baseline.prepare() should be called after initialization!
+        Initializes a new BaselineModel.
         """
         self.name = name
         if self.name is None:
@@ -409,10 +408,19 @@ class BaselineModel:
         return preds, (doc_loss, n_examples)
 
 
+def split_into_sets(documents):
+    """
+    Splits documents array into three sets, learning, validation & testing
+    """
+    train_docs, dev_docs = documents[: -40], documents[-40: -20]
+    test_docs = documents[-20:]
+    logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
+                 f"and test set ({len(test_docs)})**")
+
+    return train_docs, dev_docs, test_docs
+
+
 if __name__ == "__main__":
-    #################################
-    # PREPARATION AND INITIALIZATION
-    #################################
     # Prepare directory for saving trained models
     if MODELS_SAVE_DIR and not os.path.exists(MODELS_SAVE_DIR):
         os.makedirs(MODELS_SAVE_DIR)
@@ -420,16 +428,11 @@ if __name__ == "__main__":
 
     # Read corpus. Documents will be of type 'Document'
     documents = read_corpus(DATA_DIR, SSJ_PATH)
-
-    # Split documents to train and test set
-    train_docs, dev_docs = documents[: -40], documents[-40: -20]
-    test_docs = documents[-20:]
-    logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
-                 f"and test set ({len(test_docs)})**")
+    train_docs, dev_docs, test_docs = split_into_sets(documents)
 
     # if you'd like to reuse a model, give it a name, i.e.
     # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
-    baseline = BaselineModel(NUM_FEATURES)
+    baseline = BaselineModel(NUM_FEATURES, name="wrap_assassin")
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded
