@@ -21,9 +21,7 @@ logging.basicConfig(level=logging.INFO)
 NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 1
 # Note: if you don't want to save model, set this to "" or None
-MODEL_SAVE_DIR = "baseline_model"
-# Note: if you want to save model by a specific name (or load it if already exists), set a name
-MODEL_NAME = "sandman"
+MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = False
 VISUALIZATION_OPEN_WHEN_DONE = False
 
@@ -204,43 +202,220 @@ def train_doc(model, model_opt, loss, curr_doc, eval_mode=False):
     return preds, (doc_loss, n_examples)
 
 
+class BaselineModel:
+
+    name: str
+
+    path_model_dir: str
+    path_model_metadata: str
+    path_test_preds: str
+
+    model: nn.Linear
+    model_optimizer: optim.SGD
+    loss: nn.CrossEntropyLoss
+
+    # indicates whether a model was loaded from file (if it was, training phase can be skipped)
+    loaded_from_file: bool
+
+    def __init__(self, in_features, out_features=1, lr=0.01, name=None):
+        """
+        Initializes a new BaselineModel. baseline.prepare() should be called after initialization!
+        """
+        self.name = name
+        if self.name is None:
+            self.name = time.strftime("%Y%m9%d_%H%M%S")
+
+        self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
+        self.path_model_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
+        self.path_test_preds = os.path.join(self.path_model_dir, "test_preds.txt")
+
+        self.model = nn.Linear(in_features=in_features, out_features=out_features)
+        self.model_optimizer = optim.SGD(self.model.parameters(), lr=lr)
+        self.loss = nn.CrossEntropyLoss()
+        logging.debug("Initialized new baseline model")
+        pass
+
+    def prepare(self):
+        """
+        Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
+        an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
+        """
+        # Prepare directory for saving model for this run
+        if MODELS_SAVE_DIR and not os.path.exists(self.path_model_dir):
+            self.loaded_from_file = False
+            os.makedirs(self.path_model_dir)
+            logging.info(f"Created directory '{self.path_model_dir}' for saving model")
+
+            # Save metadata for this run
+            if MODELS_SAVE_DIR:
+                with open(self.path_model_metadata, "w") as f:
+                    print("Train model features:", file=f)
+                    print(f"NUM_FEATURES: {self.model.in_features}", file=f)
+                    print(f"NUM_EPOCHS: {NUM_EPOCHS}", file=f)
+                    print("", file=f)
+
+        else:
+            logging.info(f"Directory '{self.path_model_dir}' already exists")
+            path_to_model = os.path.join(self.path_model_dir, 'best.th')
+            if os.path.isfile(path_to_model):
+                logging.info(f"Model with name '{self.name}' already exists. Loading model...")
+                self.model.load_state_dict(torch.load(path_to_model))
+                logging.info(f"Model with name '{self.name}' loaded")
+                self.loaded_from_file = True
+    pass
+
+    def train(self, epochs, train_docs, dev_docs):
+        best_dev_loss = float("inf")
+        logging.info("Starting baseline training...")
+        for idx_epoch in range(epochs):
+            logging.info(f"\tRunning epoch {idx_epoch+1}/{epochs}")
+
+            # Make permutation of train documents
+            shuffle_indices = torch.randperm(len(train_docs))
+
+            logging.debug("\t\tModel training step")
+            self.model.train()
+            train_loss, train_examples = 0.0, 0
+            for idx_doc in shuffle_indices:
+                curr_doc = train_docs[idx_doc]
+
+                _, (doc_loss, n_examples) = train_doc(self.model, self.model_optimizer, self.loss, curr_doc)
+
+                train_loss += doc_loss
+                train_examples += n_examples
+
+            logging.debug("\t\tModel validation step")
+            self.model.eval()
+            dev_loss, dev_examples = 0.0, 0
+            for curr_doc in dev_docs:
+                _, (doc_loss, n_examples) = train_doc(self.model, self.model_optimizer, self.loss, curr_doc, eval_mode=True)
+
+                dev_loss += doc_loss
+                dev_examples += n_examples
+
+            # logging.info(f"----------------------------------------------")
+            # logging.info(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
+            # logging.info(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
+            # logging.info(f"----------------------------------------------")
+
+            if ((dev_loss / dev_examples) < best_dev_loss) and MODELS_SAVE_DIR:
+                logging.info(f"Saving new best model to '{self.path_model_dir}'")
+                torch.save(self.model.state_dict(), os.path.join(self.path_model_dir, 'best.th'))
+
+                # Save this score as best
+                best_dev_loss = dev_loss / dev_examples
+
+            logging.info("")
+        logging.info("Training baseline complete")
+
+        # Add model train scores to model metadata
+        if MODELS_SAVE_DIR:
+            with open(self.path_model_metadata, "w") as f:
+                print("Train model scores:", file=f)
+                print(f"Best validation set loss: {best_dev_loss}", file=f)
+            logging.info(f"Saved best validation score to {self.path_model_metadata}")
+    pass
+
+    def evaluate(self, test_docs):
+        ####################################
+        # EVALUATION OF MODEL ON TEST DATA
+        ####################################
+        # doc_name: <cluster assignments> pairs for all test documents
+        logging.info("Evaluating baseline...")
+        all_test_preds = {}
+
+        # [MUC score]
+        # The MUC score counts the minimum number of links between mentions
+        # to be inserted or deleted when mapping a system response to a gold standard key set
+        muc_prec, muc_rec, muc_f1 = 0.0, 0.0, 0.0
+
+        # [B3 score]
+        # B3 computes precision and recall for all mentions in the document,
+        # which are then combined to produce the final precision and recall numbers for the entire output
+        b3_prec, b3_rec, b3_f1 = 0.0, 0.0, 0.0
+
+        # [CEAF score]
+        # CEAF applies a similarity metric (either mention based or entity based) for each pair of entities
+        # (i.e. a set of mentions) to measure the goodness of each possible alignment.
+        # The best mapping is used for calculating CEAF precision, recall and F-measure
+        ceaf_prec, ceaf_rec, ceaf_f1 = 0.0, 0.0, 0.0
+
+        logging.info("Evaluation with MUC, BCube and CEAF score...")
+        for curr_doc in test_docs:
+
+            test_preds, _ = train_doc(self.model, self.model_optimizer, self.loss, curr_doc, eval_mode=True)
+            test_clusters = get_clusters(test_preds)
+
+            # Save predicted clusters for this document id
+            all_test_preds[curr_doc.doc_id] = test_clusters
+
+            gt_clusters = {}  # ground truth / gold clusters
+            for id_cluster, cluster in enumerate(curr_doc.clusters):
+                for mention_id in cluster:
+                    gt_clusters[mention_id] = {id_cluster}
+
+            m_muc = metrics.muc(test_clusters, gt_clusters)
+            m_b3 = metrics.b_cubed(test_clusters, gt_clusters)
+            m_ceaf = metrics.ceaf_e(test_clusters, gt_clusters)
+
+            b3_prec += m_b3[0]
+            b3_rec += m_b3[1]
+            b3_f1 += m_b3[2]
+
+            muc_prec += m_muc[0]
+            muc_rec += m_muc[1]
+            muc_f1 += m_muc[2]
+
+            ceaf_prec += m_ceaf[0]
+            ceaf_rec += m_ceaf[1]
+            ceaf_f1 += m_ceaf[2]
+
+        # Calculate combined B3 score
+        b3_prec /= len(test_docs)
+        b3_rec /= len(test_docs)
+        b3_f1 /= len(test_docs)
+        muc_prec /= len(test_docs)
+        muc_rec /= len(test_docs)
+        muc_f1 /= len(test_docs)
+        ceaf_prec /= len(test_docs)
+        ceaf_rec /= len(test_docs)
+        ceaf_f1 /= len(test_docs)
+
+        logging.info(f"----------------------------------------------")
+        logging.info(f"**Test scores**")
+        logging.info(f"**MUC:    precision={muc_prec:.3f}, recall={muc_rec:.3f}, F1={muc_f1:.3f}**")
+        logging.info(f"**BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}**")
+        logging.info(f"**CEAF:   precision={ceaf_prec:.3f}, recall={ceaf_rec:.3f}, F1={ceaf_f1:.3f}**")
+        logging.info(f"----------------------------------------------")
+
+        if MODELS_SAVE_DIR:
+            # Save test predictions and scores to file for further debugging
+            with open(self.path_test_preds, "w") as f:
+                print(f"Test scores:", file=f)
+                print(f"MUC:    precision={muc_prec:.3f}, recall={muc_rec:.3f}, F1={muc_f1:.3f}", file=f)
+                print(f"BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}", file=f)
+                print(f"CEAF:   precision={ceaf_prec:.3f}, recall={ceaf_rec:.3f}, F1={ceaf_f1:.3f}\n", file=f)
+
+                print("Predictions", file=f)
+                for doc_id, clusters in all_test_preds.items():
+                    print(f"Document '{doc_id}':", file=f)
+                    print(clusters, file=f)
+
+            # Build and display visualization
+            if VISUALIZATION_GENERATE:
+                build_and_display(self.path_test_preds, self.path_model_dir, VISUALIZATION_OPEN_WHEN_DONE)
+
+        pass
+
+
 if __name__ == "__main__":
     #################################
     # PREPARATION AND INITIALIZATION
     #################################
     # Prepare directory for saving trained models
-    if MODEL_SAVE_DIR and not os.path.exists(MODEL_SAVE_DIR):
-        logging.info(f"**Created directory '{MODEL_SAVE_DIR}' for saving models**")
-        os.makedirs(MODEL_SAVE_DIR)
-
-    # Prepare directory for saving model for this run
-    if MODEL_NAME is None:
-        MODEL_NAME = time.strftime("%Y%m%d_%H%M%S")
-
-    model = nn.Linear(in_features=NUM_FEATURES, out_features=1)
-    isModelLoadedFromFile = False
-
-    curr_model_save_dir = os.path.join(MODEL_SAVE_DIR, MODEL_NAME)
-    if MODEL_SAVE_DIR and not os.path.exists(curr_model_save_dir):
-        logging.info(f"**Created directory '{curr_model_save_dir}' for saving model for this run**")
-        os.makedirs(curr_model_save_dir)
-    else:
-        logging.info(f"**Directory '{curr_model_save_dir}' already exists**")
-        path_to_model = os.path.join(curr_model_save_dir, 'best.th')
-        if os.path.isfile(path_to_model):
-            logging.info(f"**Model with name '{MODEL_NAME}' already exists! Loading model...**")
-            model.load_state_dict(torch.load(path_to_model))
-            isModelLoadedFromFile = True
-            logging.info(f"**Model with name '{MODEL_NAME}' loaded**")
-
-    # Save metadata for this run
-    model_metadata_path = os.path.join(curr_model_save_dir, "model_metadata.txt")
-    if MODEL_SAVE_DIR:
-        with open(model_metadata_path, "w") as f:
-            print("Train model features:", file=f)
-            print(f"NUM_FEATURES: {NUM_FEATURES}", file=f)
-            print(f"NUM_EPOCHS: {NUM_EPOCHS}", file=f)
-            print("", file=f)
+    if MODELS_SAVE_DIR and not os.path.exists(MODELS_SAVE_DIR):
+        os.makedirs(MODELS_SAVE_DIR)
+        logging.info(f"**Created directory '{MODELS_SAVE_DIR}' for saving models**")
 
     # Read corpus. Documents will be of type 'Document'
     documents = read_corpus(DATA_DIR, SSJ_PATH)
@@ -251,152 +426,11 @@ if __name__ == "__main__":
     logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
                  f"and test set ({len(test_docs)})**")
 
-    model_optimizer = optim.SGD(model.parameters(), lr=0.01)
-    loss = nn.CrossEntropyLoss()
-    best_dev_loss = float("inf")
+    baseline = BaselineModel(NUM_FEATURES, name="sandman")
+    baseline.prepare()
 
-    #################
-    # MODEL TRAINING
-    #################
-    # if not isModelLoadedFromFile:
-    logging.info("**Starting model training...**\n")
-    for idx_epoch in range(NUM_EPOCHS):
-        logging.info(f"[EPOCH {1 + idx_epoch}]")
+    if not baseline.loaded_from_file:
+        # train only if it was not loaded
+        baseline.train(NUM_EPOCHS, train_docs, dev_docs)
 
-        # Make permutation of train documents
-        shuffle_indices = torch.randperm(len(train_docs))
-
-        logging.info("Training model...")
-        model.train()
-        train_loss, train_examples = 0.0, 0
-        for idx_doc in shuffle_indices:
-            curr_doc = train_docs[idx_doc]
-
-            _, (doc_loss, n_examples) = train_doc(model, model_optimizer, loss, curr_doc)
-
-            train_loss += doc_loss
-            train_examples += n_examples
-
-        logging.info("Validating trained model...")
-        model.eval()
-        dev_loss, dev_examples = 0.0, 0
-        for curr_doc in dev_docs:
-            _, (doc_loss, n_examples) = train_doc(model, model_optimizer, loss, curr_doc, eval_mode=True)
-
-            dev_loss += doc_loss
-            dev_examples += n_examples
-
-        logging.info(f"----------------------------------------------")
-        logging.info(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
-        logging.info(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
-        logging.info(f"----------------------------------------------")
-
-        if ((dev_loss / dev_examples) < best_dev_loss) and MODEL_SAVE_DIR:
-            logging.info(f"**Saving new best model to '{curr_model_save_dir}'**")
-            torch.save(model.state_dict(), os.path.join(curr_model_save_dir, 'best.th'))
-
-            # Save this score as best
-            best_dev_loss = dev_loss / dev_examples
-
-        logging.info("")
-    logging.info("**End of training**")
-
-    # Add model train scores to model metadata
-    if MODEL_SAVE_DIR:
-        with open(model_metadata_path, "w") as f:
-            print("Train model scores:", file=f)
-            print(f"Best validation set loss: {best_dev_loss}", file=f)
-        logging.info(f"**Have saved best validation score to {model_metadata_path}**")
-    # else:
-    #     logging.info("**No training since model was loaded from file**")
-
-    logging.info("")
-
-    ####################################
-    # EVALUATION OF MODEL ON TEST DATA
-    ####################################
-    # doc_name: <cluster assignments> pairs for all test documents
-    logging.info("**Evaluation of model on test data**")
-    all_test_preds = {}
-
-    # [MUC score]
-    # The MUC score counts the minimum number of links between mentions
-    # to be inserted or deleted when mapping a system response to a gold standard key set
-    muc_prec, muc_rec, muc_f1 = 0.0, 0.0, 0.0
-
-    # [B3 score]
-    # B3 computes precision and recall for all mentions in the document,
-    # which are then combined to produce the final precision and recall numbers for the entire output
-    b3_prec, b3_rec, b3_f1 = 0.0, 0.0, 0.0
-
-    # [CEAF score]
-    # CEAF applies a similarity metric (either mention based or entity based) for each pair of entities
-    # (i.e. a set of mentions) to measure the goodness of each possible alignment.
-    # The best mapping is used for calculating CEAF precision, recall and F-measure
-    ceaf_prec, ceaf_rec, ceaf_f1 = 0.0, 0.0, 0.0
-
-    logging.info("Evaluation with MUC, BCube and CEAF score...")
-    for curr_doc in test_docs:
-
-        test_preds, _ = train_doc(model, model_optimizer, loss, curr_doc, eval_mode=True)
-        test_clusters = get_clusters(test_preds)
-
-        # Save predicted clusters for this document id
-        all_test_preds[curr_doc.doc_id] = test_clusters
-
-        gt_clusters = {}  # ground truth / gold clusters
-        for id_cluster, cluster in enumerate(curr_doc.clusters):
-            for mention_id in cluster:
-                gt_clusters[mention_id] = {id_cluster}
-
-        m_muc = metrics.muc(test_clusters, gt_clusters)
-        m_b3 = metrics.b_cubed(test_clusters, gt_clusters)
-        m_ceaf = metrics.ceaf_e(test_clusters, gt_clusters)
-
-        b3_prec += m_b3[0]
-        b3_rec += m_b3[1]
-        b3_f1 += m_b3[2]
-
-        muc_prec += m_muc[0]
-        muc_rec += m_muc[1]
-        muc_f1 += m_muc[2]
-
-        ceaf_prec += m_ceaf[0]
-        ceaf_rec += m_ceaf[1]
-        ceaf_f1 += m_ceaf[2]
-
-    # Calculate combined B3 score
-    b3_prec /= len(test_docs)
-    b3_rec /= len(test_docs)
-    b3_f1 /= len(test_docs)
-    muc_prec /= len(test_docs)
-    muc_rec /= len(test_docs)
-    muc_f1 /= len(test_docs)
-    ceaf_prec /= len(test_docs)
-    ceaf_rec /= len(test_docs)
-    ceaf_f1 /= len(test_docs)
-
-    logging.info(f"----------------------------------------------")
-    logging.info(f"**Test scores**")
-    logging.info(f"**MUC:    precision={muc_prec:.3f}, recall={muc_rec:.3f}, F1={muc_f1:.3f}**")
-    logging.info(f"**BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}**")
-    logging.info(f"**CEAF:   precision={ceaf_prec:.3f}, recall={ceaf_rec:.3f}, F1={ceaf_f1:.3f}**")
-    logging.info(f"----------------------------------------------")
-
-    if MODEL_SAVE_DIR:
-        # Save test predictions and scores to file for further debugging
-        test_preds_path = os.path.join(curr_model_save_dir, "test_preds.txt")
-        with open(test_preds_path, "w") as f:
-            print(f"Test scores:", file=f)
-            print(f"MUC:    precision={muc_prec:.3f}, recall={muc_rec:.3f}, F1={muc_f1:.3f}", file=f)
-            print(f"BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}", file=f)
-            print(f"CEAF:   precision={ceaf_prec:.3f}, recall={ceaf_rec:.3f}, F1={ceaf_f1:.3f}\n", file=f)
-
-            print("Predictions", file=f)
-            for doc_id, clusters in all_test_preds.items():
-                print(f"Document '{doc_id}':", file=f)
-                print(clusters, file=f)
-
-        # Build and display visualization
-        if VISUALIZATION_GENERATE:
-            build_and_display(test_preds_path, curr_model_save_dir, VISUALIZATION_OPEN_WHEN_DONE)
+    baseline.evaluate(test_docs)
