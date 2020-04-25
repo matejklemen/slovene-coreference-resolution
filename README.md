@@ -2,13 +2,13 @@
 
 TODO: A short introduction/description of what this repository is about.
 
-# Project structure
+## Project structure
 
 - `report/` contains the pdf of our work.
 - `src/` contains the source code of our work.
 - `data/` is a placeholder for datasets (see _Getting datasets_ section below).
 
-# Setup
+## Setup
 
 Before doing anything, the dependencies need to be installed.  
 ```bash
@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 NOTE: if you have problems with `torch` library, make sure you have python x64 installed. Also make use of 
 [this](https://pytorch.org/get-started/locally/#start-locally) official command builder.
 
-## Getting datasets
+### Getting datasets
 
 The project operates with the following datasets: 
 - [SSJ500k](https://www.clarin.si/repository/xmlui/handle/11356/1210) (`-sl.TEI` version), 
@@ -51,7 +51,7 @@ If `target_path` parameter is not provided, the above command would produce
 `data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml`.
 
 
-# Running the project
+## Running the project
 
 Before running anything, make sure to set `DATA_DIR` and `SSJ_PATH` parameters in `src/data.py` file (if the paths to 
 where your datasets are stored differ in your setup).
@@ -64,7 +64,7 @@ $ python src/baseline.py
 
 TBD additional steps as more things get added.
 
-# Dev notes
+## Dev notes
 
 Each document is stored inside a `Document` object (see `data.py`). It stores various information about the document 
 such as the actual text, tokens, (ground truth) mentions, (ground truth) coreference clusters, additional metadata 
