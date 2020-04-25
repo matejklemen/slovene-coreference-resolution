@@ -24,6 +24,10 @@ MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = False
 VISUALIZATION_OPEN_WHEN_DONE = False
 
+# Cache features for mention pairs (useful for doing multiple epochs over data)
+# Format: {doc1_id: {(mention1_id, mention2_id): <features>, ...}, ...}
+_features_cache = {}
+
 
 # Useful resource for parsing the morphosyntactic properties:
 # http://nl.ijs.si/ME/V5/msd/html/msd-sl.html#msd.categories-sl
@@ -103,8 +107,16 @@ def features_mention(doc, mention):
 
 def features_mention_pair(doc, head_mention, cand_mention):
     """ Extracts features for a mention pair.
-        - TODO: cache global var? (where already constructed features would get stored)
         - TODO: additional features """
+    head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
+    # if features for this mention pair have already been constructed, use them instead of constructing them again
+    cached_doc_features = _features_cache.get(doc.doc_id)
+    if cached_doc_features:
+        cached_pair_features = cached_doc_features.get((head_id, cand_id))
+        if cached_pair_features:
+            return cached_pair_features
+    else:
+        _features_cache[doc.doc_id] = {}
 
     head_features = features_mention(doc, head_mention)
     cand_features = features_mention(doc, cand_mention)
@@ -129,7 +141,9 @@ def features_mention_pair(doc, head_mention, cand_mention):
     # TODO: transform constructed features into vectors (is_same_gender, is_same_number have 3 categories!)
     # ...
 
-    return [int(is_same_sent), int(str_match)]
+    pair_features = [int(is_same_sent), int(str_match)]
+    _features_cache[doc.doc_id][(head_id, cand_id)] = pair_features
+    return pair_features
 
 
 class BaselineModel:
@@ -165,12 +179,13 @@ class BaselineModel:
         self.loss = nn.CrossEntropyLoss()
         logging.debug("Initialized new baseline model")
         self._prepare()
-        pass
 
     def train(self, epochs, train_docs, dev_docs):
         best_dev_loss = float("inf")
         logging.info("Starting baseline training...")
+        t_start = time.time()
         for idx_epoch in range(epochs):
+            t_epoch_start = time.time()
             logging.info(f"\tRunning epoch {idx_epoch+1}/{epochs}")
 
             # Make permutation of train documents
@@ -196,10 +211,10 @@ class BaselineModel:
                 dev_loss += doc_loss
                 dev_examples += n_examples
 
-            # logging.info(f"----------------------------------------------")
-            # logging.info(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
-            # logging.info(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
-            # logging.info(f"----------------------------------------------")
+            logging.info(f"----------------------------------------------")
+            logging.info(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
+            logging.info(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
+            logging.info(f"----------------------------------------------")
 
             if ((dev_loss / dev_examples) < best_dev_loss) and MODELS_SAVE_DIR:
                 logging.info(f"Saving new best model to '{self.path_model_dir}'")
@@ -208,8 +223,10 @@ class BaselineModel:
                 # Save this score as best
                 best_dev_loss = dev_loss / dev_examples
 
+            logging.info(f"Epoch#{1 + idx_epoch} took {time.time() - t_epoch_start:.2f}s")
             logging.info("")
         logging.info("Training baseline complete")
+        logging.info(f"Training took {time.time() - t_start:.2f}s")
 
         # Add model train scores to model metadata
         if MODELS_SAVE_DIR:
@@ -217,7 +234,6 @@ class BaselineModel:
                 print("Train model scores:", file=f)
                 print(f"Best validation set loss: {best_dev_loss}", file=f)
             logging.info(f"Saved best validation score to {self.path_model_metadata}")
-        pass
 
     def evaluate(self, test_docs):
         ####################################
@@ -315,9 +331,9 @@ class BaselineModel:
         Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
         an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
         """
+        self.loaded_from_file = False
         # Prepare directory for saving model for this run
         if MODELS_SAVE_DIR and not os.path.exists(self.path_model_dir):
-            self.loaded_from_file = False
             os.makedirs(self.path_model_dir)
             logging.info(f"Created directory '{self.path_model_dir}' for saving model")
 
