@@ -432,7 +432,7 @@ if __name__ == "__main__":
 
     # if you'd like to reuse a model, give it a name, i.e.
     # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
-    baseline = BaselineModel(NUM_FEATURES, name="wrap_assassin")
+    baseline = BaselineModel(NUM_FEATURES)
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded

@@ -6,7 +6,6 @@ def muc(gold, resp):
 
 
 def b_cubed(gold, resp):
-    truegold, trueresp = ({1: {'A', 'B', 'C', 'D'}}, {1: {'A', 'B'}, 2: {'C', 'D'}})
     return metrics._prf(*metrics.b_cubed(gold, resp))
 
 
