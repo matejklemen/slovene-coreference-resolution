@@ -1,5 +1,5 @@
-src/baseline_model/*
-baseline_model/*
+src/baseline_model/
+baseline_model/
 
 # PyCharm stuff
 /.idea/

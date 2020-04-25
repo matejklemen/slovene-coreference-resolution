@@ -1,6 +1,5 @@
 import torch
 import os
-import bcubed
 import logging
 import time
 
@@ -11,7 +10,7 @@ import torch.nn as nn
 from data import DATA_DIR, SSJ_PATH, read_corpus
 from utils import get_clusters
 from collections import Counter
-
+import metrics
 
 #####################
 # GLOBAL PARAMETERS
@@ -22,6 +21,8 @@ NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in 
 NUM_EPOCHS = 1
 # Note: if you don't want to save model, set this to "" or None
 MODEL_SAVE_DIR = "baseline_model"
+# Note: if you want to save model by a specific name (or load it if already exists), set a name
+MODEL_NAME = "sandman"
 
 # Useful resource for parsing the morphosyntactic properties:
 # http://nl.ijs.si/ME/V5/msd/html/msd-sl.html#msd.categories-sl
@@ -209,11 +210,24 @@ if __name__ == "__main__":
         os.makedirs(MODEL_SAVE_DIR)
 
     # Prepare directory for saving model for this run
-    timestr = time.strftime("%Y%m%d_%H%M%S")
-    curr_model_save_dir = os.path.join(MODEL_SAVE_DIR, timestr)
+    if MODEL_NAME is None:
+        MODEL_NAME = time.strftime("%Y%m%d_%H%M%S")
+
+    model = nn.Linear(in_features=NUM_FEATURES, out_features=1)
+    isModelLoadedFromFile = False
+
+    curr_model_save_dir = os.path.join(MODEL_SAVE_DIR, MODEL_NAME)
     if MODEL_SAVE_DIR and not os.path.exists(curr_model_save_dir):
         logging.info(f"**Created directory '{curr_model_save_dir}' for saving model for this run**")
         os.makedirs(curr_model_save_dir)
+    else:
+        logging.info(f"**Directory '{curr_model_save_dir}' already exists**")
+        path_to_model = os.path.join(curr_model_save_dir, 'best.th')
+        if os.path.isfile(path_to_model):
+            logging.info(f"**Model with name '{MODEL_NAME}' already exists! Loading model...**")
+            model.load_state_dict(torch.load(path_to_model))
+            isModelLoadedFromFile = True
+            logging.info(f"**Model with name '{MODEL_NAME}' loaded**")
 
     # Save metadata for this run
     model_metadata_path = os.path.join(curr_model_save_dir, "model_metadata.txt")
@@ -233,7 +247,6 @@ if __name__ == "__main__":
     logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
                  f"and test set ({len(test_docs)})**")
 
-    model = nn.Linear(in_features=NUM_FEATURES, out_features=1)
     model_optimizer = optim.SGD(model.parameters(), lr=0.01)
     loss = nn.CrossEntropyLoss()
     best_dev_loss = float("inf")
@@ -241,7 +254,8 @@ if __name__ == "__main__":
     #################
     # MODEL TRAINING
     #################
-    logging.info("**Starting model training...**\n");
+    # if not isModelLoadedFromFile:
+    logging.info("**Starting model training...**\n")
     for idx_epoch in range(NUM_EPOCHS):
         logging.info(f"[EPOCH {1 + idx_epoch}]")
 
@@ -289,6 +303,8 @@ if __name__ == "__main__":
             print("Train model scores:", file=f)
             print(f"Best validation set loss: {best_dev_loss}", file=f)
         logging.info(f"**Have saved best validation score to {model_metadata_path}**")
+    # else:
+    #     logging.info("**No training since model was loaded from file**")
 
     logging.info("")
 
@@ -303,7 +319,6 @@ if __name__ == "__main__":
     # The MUC score counts the minimum number of links between mentions
     # to be inserted or deleted when mapping a system response to a gold standard key set
     muc_prec, muc_rec, muc_f1 = 0.0, 0.0, 0.0
-    # TODO: implement MUC score
 
     # [B3 score]
     # B3 computes precision and recall for all mentions in the document,
@@ -315,10 +330,10 @@ if __name__ == "__main__":
     # (i.e. a set of mentions) to measure the goodness of each possible alignment.
     # The best mapping is used for calculating CEAF precision, recall and F-measure
     ceaf_prec, ceaf_rec, ceaf_f1 = 0.0, 0.0, 0.0
-    # TODO: implement CEAF score
 
     logging.info("Evaluation with MUC, BCube and CEAF score...")
     for curr_doc in test_docs:
+
         test_preds, _ = train_doc(model, model_optimizer, loss, curr_doc, eval_mode=True)
         test_clusters = get_clusters(test_preds)
 
@@ -330,25 +345,32 @@ if __name__ == "__main__":
             for mention_id in cluster:
                 gt_clusters[mention_id] = {id_cluster}
 
-        # Calculate precision and recall for current document
-        curr_prec = bcubed.precision(test_clusters, gt_clusters)
-        curr_rec = bcubed.recall(test_clusters, gt_clusters)
+        m_muc = metrics.muc(test_clusters, gt_clusters)
+        m_b3 = metrics.b_cubed(test_clusters, gt_clusters)
+        m_ceaf = metrics.ceaf_e(test_clusters, gt_clusters)
 
-        # Calculate denominator
-        denom = curr_prec + curr_rec
-        denom = 1 if denom < 0+1e-6 else denom  # handle case where either of prec/rec is 0
+        b3_prec += m_b3[0]
+        b3_rec += m_b3[1]
+        b3_f1 += m_b3[2]
 
-        # Calculate F1 score (harmonic mean of precision and recall)
-        curr_f1 = (2 * curr_prec * curr_rec) / denom
+        muc_prec += m_muc[0]
+        muc_rec += m_muc[1]
+        muc_f1 += m_muc[2]
 
-        b3_prec += curr_prec
-        b3_rec += curr_rec
-        b3_f1 += curr_f1
+        ceaf_prec += m_ceaf[0]
+        ceaf_rec += m_ceaf[1]
+        ceaf_f1 += m_ceaf[2]
 
     # Calculate combined B3 score
     b3_prec /= len(test_docs)
     b3_rec /= len(test_docs)
     b3_f1 /= len(test_docs)
+    muc_prec /= len(test_docs)
+    muc_rec /= len(test_docs)
+    muc_f1 /= len(test_docs)
+    ceaf_prec /= len(test_docs)
+    ceaf_rec /= len(test_docs)
+    ceaf_f1 /= len(test_docs)
 
     logging.info(f"----------------------------------------------")
     logging.info(f"**Test scores**")
