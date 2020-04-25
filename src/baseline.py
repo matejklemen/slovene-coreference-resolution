@@ -1,16 +1,17 @@
-import torch
-import os
 import logging
+import os
 import time
+from collections import Counter
 
 import numpy as np
-import torch.optim as optim
+import torch
 import torch.nn as nn
+import torch.optim as optim
 
+import metrics
 from data import DATA_DIR, SSJ_PATH, read_corpus
 from utils import get_clusters
-from collections import Counter
-import metrics
+from visualization import build_and_display
 
 #####################
 # GLOBAL PARAMETERS
@@ -23,6 +24,9 @@ NUM_EPOCHS = 1
 MODEL_SAVE_DIR = "baseline_model"
 # Note: if you want to save model by a specific name (or load it if already exists), set a name
 MODEL_NAME = "sandman"
+VISUALIZATION_GENERATE = False
+VISUALIZATION_OPEN_WHEN_DONE = False
+
 
 # Useful resource for parsing the morphosyntactic properties:
 # http://nl.ijs.si/ME/V5/msd/html/msd-sl.html#msd.categories-sl
@@ -82,7 +86,7 @@ def features_mention(doc, mention):
 
         # Take number of first token for which it can be determined
         if number is None:
-            curr_number = extract_gender(morphsyntax)
+            curr_number = extract_number(morphsyntax)
             if curr_number in {"e", "d", "m"}:
                 number = curr_number
 
@@ -392,3 +396,7 @@ if __name__ == "__main__":
             for doc_id, clusters in all_test_preds.items():
                 print(f"Document '{doc_id}':", file=f)
                 print(clusters, file=f)
+
+        # Build and display visualization
+        if VISUALIZATION_GENERATE:
+            build_and_display(test_preds_path, curr_model_save_dir, VISUALIZATION_OPEN_WHEN_DONE)
