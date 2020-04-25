@@ -19,7 +19,7 @@ from visualization import build_and_display
 logging.basicConfig(level=logging.INFO)
 
 NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 1
+NUM_EPOCHS = 5
 # Note: if you don't want to save model, set this to "" or None
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = False
@@ -426,7 +426,9 @@ if __name__ == "__main__":
     logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
                  f"and test set ({len(test_docs)})**")
 
-    baseline = BaselineModel(NUM_FEATURES, name="sandman")
+    # if you'd like to reuse a model, give it a name, i.e.
+    # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
+    baseline = BaselineModel(NUM_FEATURES)
     baseline.prepare()
 
     if not baseline.loaded_from_file:
