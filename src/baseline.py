@@ -19,7 +19,7 @@ from visualization import build_and_display
 logging.basicConfig(level=logging.INFO)
 
 NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 5
+NUM_EPOCHS = 2
 # Note: if you don't want to save model, set this to "" or None
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = False
@@ -133,75 +133,6 @@ def features_mention_pair(doc, head_mention, cand_mention):
     return [int(is_same_sent), int(str_match)]
 
 
-def train_doc(model, model_opt, loss, curr_doc, eval_mode=False):
-    """ Trains/evaluates (if `eval_mode` is True) model on specific document.
-        Returns predictions, loss and number of examples evaluated. """
-
-    if len(curr_doc.mentions) == 0:
-        return [], (0.0, 0)
-
-    logging.debug(f"**Sorting mentions...**")
-    sorted_mentions = sorted(curr_doc.mentions.items(), key=lambda tup: (tup[1].positions[0][0],    # sentence
-                                                                         tup[1].positions[0][1],    # start pos
-                                                                         tup[1].positions[-1][1]))  # end pos
-    doc_loss, n_examples = 0.0, 0
-    preds = {}
-
-    logging.debug(f"**Processing {len(sorted_mentions)} mentions...**")
-    for idx_head, (head_id, head_mention) in enumerate(sorted_mentions, 1):
-        logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
-        model.zero_grad()
-
-        gt_antecedent_id = curr_doc.mapped_clusters[head_id]
-
-        # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
-        candidates, features = [None], []
-        gt_antecedent = torch.tensor([0])
-
-        for idx_candidate, (cand_id, cand_mention) in enumerate(sorted_mentions, 1):
-            if cand_id == gt_antecedent_id:
-                gt_antecedent[:] = idx_candidate
-
-            # Obtain scores for candidates and select best one as antecedent
-            if idx_candidate == idx_head:
-                if len(features) > 0:
-                    features = torch.tensor(np.array(features, dtype=np.float32))
-
-                    cand_scores = model(features)
-
-                    # Concatenates the given sequence of seq tensors in the given dimension
-                    card_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
-
-                    cand_scores = torch.softmax(card_scores, dim=-1)
-
-                    # Get index of max value. That index equals to mention at that place
-                    curr_pred = torch.argmax(cand_scores)
-
-                    curr_loss = loss(cand_scores, gt_antecedent)
-                    doc_loss += float(curr_loss)
-
-                    n_examples += 1
-
-                    if not eval_mode:
-                        curr_loss.backward()
-                        model_opt.step()
-                else:
-                    # Only one candidate antecedent = first mention
-                    curr_pred = 0
-
-                # { antecedent: [mention(s)] } pair
-                existing_refs = preds.get(candidates[int(curr_pred)], [])
-                existing_refs.append(head_id)
-                preds[candidates[int(curr_pred)]] = existing_refs
-                break
-            else:
-                # Add current mention as candidate
-                candidates.append(cand_id)
-                features.append(features_mention_pair(curr_doc, head_mention, cand_mention))
-
-    return preds, (doc_loss, n_examples)
-
-
 class BaselineModel:
 
     name: str
@@ -262,7 +193,7 @@ class BaselineModel:
                 self.model.load_state_dict(torch.load(path_to_model))
                 logging.info(f"Model with name '{self.name}' loaded")
                 self.loaded_from_file = True
-    pass
+        pass
 
     def train(self, epochs, train_docs, dev_docs):
         best_dev_loss = float("inf")
@@ -279,7 +210,7 @@ class BaselineModel:
             for idx_doc in shuffle_indices:
                 curr_doc = train_docs[idx_doc]
 
-                _, (doc_loss, n_examples) = train_doc(self.model, self.model_optimizer, self.loss, curr_doc)
+                _, (doc_loss, n_examples) = self._train_doc(curr_doc)
 
                 train_loss += doc_loss
                 train_examples += n_examples
@@ -288,7 +219,7 @@ class BaselineModel:
             self.model.eval()
             dev_loss, dev_examples = 0.0, 0
             for curr_doc in dev_docs:
-                _, (doc_loss, n_examples) = train_doc(self.model, self.model_optimizer, self.loss, curr_doc, eval_mode=True)
+                _, (doc_loss, n_examples) = self._train_doc(curr_doc, eval_mode=True)
 
                 dev_loss += doc_loss
                 dev_examples += n_examples
@@ -314,7 +245,7 @@ class BaselineModel:
                 print("Train model scores:", file=f)
                 print(f"Best validation set loss: {best_dev_loss}", file=f)
             logging.info(f"Saved best validation score to {self.path_model_metadata}")
-    pass
+        pass
 
     def evaluate(self, test_docs):
         ####################################
@@ -343,7 +274,7 @@ class BaselineModel:
         logging.info("Evaluation with MUC, BCube and CEAF score...")
         for curr_doc in test_docs:
 
-            test_preds, _ = train_doc(self.model, self.model_optimizer, self.loss, curr_doc, eval_mode=True)
+            test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
             test_clusters = get_clusters(test_preds)
 
             # Save predicted clusters for this document id
@@ -406,6 +337,74 @@ class BaselineModel:
                 build_and_display(self.path_test_preds, self.path_model_dir, VISUALIZATION_OPEN_WHEN_DONE)
 
         pass
+
+    def _train_doc(self, curr_doc, eval_mode=False):
+        """ Trains/evaluates (if `eval_mode` is True) model on specific document.
+            Returns predictions, loss and number of examples evaluated. """
+
+        if len(curr_doc.mentions) == 0:
+            return [], (0.0, 0)
+
+        logging.debug(f"**Sorting mentions...**")
+        sorted_mentions = sorted(curr_doc.mentions.items(), key=lambda tup: (tup[1].positions[0][0],  # sentence
+                                                                             tup[1].positions[0][1],  # start pos
+                                                                             tup[1].positions[-1][1]))  # end pos
+        doc_loss, n_examples = 0.0, 0
+        preds = {}
+
+        logging.debug(f"**Processing {len(sorted_mentions)} mentions...**")
+        for idx_head, (head_id, head_mention) in enumerate(sorted_mentions, 1):
+            logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
+            self.model.zero_grad()
+
+            gt_antecedent_id = curr_doc.mapped_clusters[head_id]
+
+            # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
+            candidates, features = [None], []
+            gt_antecedent = torch.tensor([0])
+
+            for idx_candidate, (cand_id, cand_mention) in enumerate(sorted_mentions, 1):
+                if cand_id == gt_antecedent_id:
+                    gt_antecedent[:] = idx_candidate
+
+                # Obtain scores for candidates and select best one as antecedent
+                if idx_candidate == idx_head:
+                    if len(features) > 0:
+                        features = torch.tensor(np.array(features, dtype=np.float32))
+
+                        cand_scores = self.model(features)
+
+                        # Concatenates the given sequence of seq tensors in the given dimension
+                        card_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
+
+                        cand_scores = torch.softmax(card_scores, dim=-1)
+
+                        # Get index of max value. That index equals to mention at that place
+                        curr_pred = torch.argmax(cand_scores)
+
+                        curr_loss = self.loss(cand_scores, gt_antecedent)
+                        doc_loss += float(curr_loss)
+
+                        n_examples += 1
+
+                        if not eval_mode:
+                            curr_loss.backward()
+                            self.model_optimizer.step()
+                    else:
+                        # Only one candidate antecedent = first mention
+                        curr_pred = 0
+
+                    # { antecedent: [mention(s)] } pair
+                    existing_refs = preds.get(candidates[int(curr_pred)], [])
+                    existing_refs.append(head_id)
+                    preds[candidates[int(curr_pred)]] = existing_refs
+                    break
+                else:
+                    # Add current mention as candidate
+                    candidates.append(cand_id)
+                    features.append(features_mention_pair(curr_doc, head_mention, cand_mention))
+
+        return preds, (doc_loss, n_examples)
 
 
 if __name__ == "__main__":
