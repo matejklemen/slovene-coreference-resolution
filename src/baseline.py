@@ -18,8 +18,8 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
-NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 2
+NUM_FEATURES = 4  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 10
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = False
 VISUALIZATION_OPEN_WHEN_DONE = False
@@ -141,7 +141,7 @@ def features_mention_pair(doc, head_mention, cand_mention):
     # TODO: transform constructed features into vectors (is_same_gender, is_same_number have 3 categories!)
     # ...
 
-    pair_features = [int(is_same_sent), int(str_match)]
+    pair_features = [-int(is_same_sent), int(str_match), int(is_same_gender is True), int(is_same_number is True)]
     _features_cache[doc.doc_id][(head_id, cand_id)] = pair_features
     return pair_features
 
@@ -246,18 +246,16 @@ class BaselineModel:
         # [MUC score]
         # The MUC score counts the minimum number of links between mentions
         # to be inserted or deleted when mapping a system response to a gold standard key set
-        muc_prec, muc_rec, muc_f1 = 0.0, 0.0, 0.0
-
         # [B3 score]
         # B3 computes precision and recall for all mentions in the document,
         # which are then combined to produce the final precision and recall numbers for the entire output
-        b3_prec, b3_rec, b3_f1 = 0.0, 0.0, 0.0
-
         # [CEAF score]
         # CEAF applies a similarity metric (either mention based or entity based) for each pair of entities
         # (i.e. a set of mentions) to measure the goodness of each possible alignment.
         # The best mapping is used for calculating CEAF precision, recall and F-measure
-        ceaf_prec, ceaf_rec, ceaf_f1 = 0.0, 0.0, 0.0
+        mucScore = metrics.Score()
+        b3Score = metrics.Score()
+        ceafScore = metrics.Score()
 
         logging.info("Evaluation with MUC, BCube and CEAF score...")
         for curr_doc in test_docs:
@@ -273,47 +271,24 @@ class BaselineModel:
                 for mention_id in cluster:
                     gt_clusters[mention_id] = {id_cluster}
 
-            m_muc = metrics.muc(test_clusters, gt_clusters)
-            m_b3 = metrics.b_cubed(test_clusters, gt_clusters)
-            m_ceaf = metrics.ceaf_e(test_clusters, gt_clusters)
-
-            b3_prec += m_b3[0]
-            b3_rec += m_b3[1]
-            b3_f1 += m_b3[2]
-
-            muc_prec += m_muc[0]
-            muc_rec += m_muc[1]
-            muc_f1 += m_muc[2]
-
-            ceaf_prec += m_ceaf[0]
-            ceaf_rec += m_ceaf[1]
-            ceaf_f1 += m_ceaf[2]
-
-        # Calculate combined B3 score
-        b3_prec /= len(test_docs)
-        b3_rec /= len(test_docs)
-        b3_f1 /= len(test_docs)
-        muc_prec /= len(test_docs)
-        muc_rec /= len(test_docs)
-        muc_f1 /= len(test_docs)
-        ceaf_prec /= len(test_docs)
-        ceaf_rec /= len(test_docs)
-        ceaf_f1 /= len(test_docs)
+            mucScore.add(metrics.muc(test_clusters, gt_clusters))
+            b3Score.add(metrics.b_cubed(test_clusters, gt_clusters))
+            ceafScore.add(metrics.ceaf_e(test_clusters, gt_clusters))
 
         logging.info(f"----------------------------------------------")
         logging.info(f"**Test scores**")
-        logging.info(f"**MUC:    precision={muc_prec:.3f}, recall={muc_rec:.3f}, F1={muc_f1:.3f}**")
-        logging.info(f"**BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}**")
-        logging.info(f"**CEAF:   precision={ceaf_prec:.3f}, recall={ceaf_rec:.3f}, F1={ceaf_f1:.3f}**")
+        logging.info(f"**MUC:    {mucScore}**")
+        logging.info(f"**BCubed: {b3Score}**")
+        logging.info(f"**CEAFe:   {ceafScore}**")
         logging.info(f"----------------------------------------------")
 
         if MODELS_SAVE_DIR:
             # Save test predictions and scores to file for further debugging
             with open(self.path_test_preds, "w") as f:
                 print(f"Test scores:", file=f)
-                print(f"MUC:    precision={muc_prec:.3f}, recall={muc_rec:.3f}, F1={muc_f1:.3f}", file=f)
-                print(f"BCubed: precision={b3_prec:.3f}, recall={b3_rec:.3f}, F1={b3_f1:.3f}", file=f)
-                print(f"CEAF:   precision={ceaf_prec:.3f}, recall={ceaf_rec:.3f}, F1={ceaf_f1:.3f}\n", file=f)
+                print(f"**MUC:    {mucScore}**", file=f)
+                print(f"**BCubed: {b3Score}**", file=f)
+                print(f"**CEAFe:  {ceafScore}**", file=f)
 
                 print("Predictions", file=f)
                 for doc_id, clusters in all_test_preds.items():
@@ -407,6 +382,7 @@ class BaselineModel:
                         if not eval_mode:
                             curr_loss.backward()
                             self.model_optimizer.step()
+                            self.model.zero_grad()
                     else:
                         # Only one candidate antecedent = first mention
                         curr_pred = 0
