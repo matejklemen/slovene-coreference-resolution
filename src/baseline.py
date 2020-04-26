@@ -18,8 +18,8 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
-NUM_FEATURES = 4  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 10
+NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 2
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = False
 VISUALIZATION_OPEN_WHEN_DONE = False
@@ -141,7 +141,7 @@ def features_mention_pair(doc, head_mention, cand_mention):
     # TODO: transform constructed features into vectors (is_same_gender, is_same_number have 3 categories!)
     # ...
 
-    pair_features = [-int(is_same_sent), int(str_match), int(is_same_gender is True), int(is_same_number is True)]
+    pair_features = [int(is_same_sent), int(str_match)]
     _features_cache[doc.doc_id][(head_id, cand_id)] = pair_features
     return pair_features
 
