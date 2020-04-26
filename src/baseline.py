@@ -18,11 +18,13 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
-NUM_FEATURES = 2  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 2
+NUM_FEATURES = 8  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 20
+LEARNING_RATE = 0.01
+
 MODELS_SAVE_DIR = "baseline_model"
-VISUALIZATION_GENERATE = False
-VISUALIZATION_OPEN_WHEN_DONE = False
+VISUALIZATION_GENERATE = True
+VISUALIZATION_OPEN_WHEN_DONE = True
 
 # Cache features for mention pairs (useful for doing multiple epochs over data)
 # Format: {doc1_id: {(mention1_id, mention2_id): <features>, ...}, ...}
@@ -138,10 +140,22 @@ def features_mention_pair(doc, head_mention, cand_mention):
     str_match = head_features["category"] != "Z" and cand_features["category"] != "Z" and \
                 " ".join(head_features["lemmas"]) == " ".join(cand_features["lemmas"])
 
-    # TODO: transform constructed features into vectors (is_same_gender, is_same_number have 3 categories!)
-    # ...
+    pair_features = [
+        int(is_same_sent),
+        int(str_match),
 
-    pair_features = [int(is_same_sent), int(str_match)]
+        # one-hot encoding for is_same_gender
+        int(is_same_gender is True),
+        int(is_same_gender is False),
+        int(is_same_gender is None),
+
+        # one-hot encoding for is_same_number
+        int(is_same_number is True),
+        int(is_same_number is False),
+        int(is_same_number is None),
+
+        # TODO: more features
+    ]
     _features_cache[doc.doc_id][(head_id, cand_id)] = pair_features
     return pair_features
 
@@ -161,7 +175,7 @@ class BaselineModel:
     # indicates whether a model was loaded from file (if it was, training phase can be skipped)
     loaded_from_file: bool
 
-    def __init__(self, in_features, lr=0.01, name=None):
+    def __init__(self, in_features, name=None):
         """
         Initializes a new BaselineModel.
         """
@@ -175,7 +189,7 @@ class BaselineModel:
 
         out_features = 1
         self.model = nn.Linear(in_features=in_features, out_features=out_features)
-        self.model_optimizer = optim.SGD(self.model.parameters(), lr=lr)
+        self.model_optimizer = optim.SGD(self.model.parameters(), lr=LEARNING_RATE)
         self.loss = nn.CrossEntropyLoss()
         logging.debug("Initialized new baseline model")
         self._prepare()
@@ -400,12 +414,25 @@ class BaselineModel:
         return preds, (doc_loss, n_examples)
 
 
-def split_into_sets(documents):
+def split_into_sets(documents, random_seed=None):
     """
-    Splits documents array into three sets, learning, validation & testing
+    Splits documents array into three sets: learning, validation & testing.
+    If random seed is given, documents selected for each set are randomly picked (but do not overlap, of course).
     """
-    train_docs, dev_docs = documents[: -40], documents[-40: -20]
-    test_docs = documents[-20:]
+    idx = np.arange(len(documents))
+
+    # Setting a seed will always produce the same "shuffle"
+    if random_seed is not None:
+        np.random.seed(random_seed)
+
+        # basically just shuffle indexes...
+        np.random.shuffle(idx)
+
+    train_idx, dev_idx, test_idx = idx[: -40], idx[-40: -20], idx[-20:]
+    # ... and then select those indexes from list of documents
+    documents = np.array(documents)
+    train_docs, dev_docs, test_docs = documents[train_idx], documents[dev_idx], documents[test_idx]
+
     logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
                  f"and test set ({len(test_docs)})**")
 
