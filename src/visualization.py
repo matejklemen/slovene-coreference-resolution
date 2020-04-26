@@ -104,7 +104,7 @@ def get_document_predictions(test_preds_file):
     document_content = ""
 
     with open(test_preds_file) as f:
-        predictions = f.readlines()[6:]
+        predictions = f.readlines()[5:]
 
     for i in range(0, len(predictions), 2):
         document = predictions[i].split('Document ')[1].split(':')[0].split('\\')[1].replace("'", "")
@@ -172,11 +172,12 @@ def write_header(visual_path):
     css_file_path = os.path.join(current_directory, 'visualization', 'bootstrap.min.css')
     header = f"""
         <html>
-            <header>
+            <head>
                 <title>Visualization report</title>
-                <link rel="stylesheet" type="text/css" href="{css_file_path}">
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+                <link rel="stylesheet" type="text/css" href="file:///{css_file_path}">
+                <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+                <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+                <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
                 <style>
                     body {{
                     display: flex;
@@ -186,7 +187,7 @@ def write_header(visual_path):
                     margin: 60px;
                     }}
                 </style>
-            </header>
+            </head>
     """
 
     with open(visual_path, "a") as f:
