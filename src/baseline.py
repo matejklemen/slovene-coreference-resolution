@@ -107,9 +107,85 @@ def features_mention(doc, mention):
     }
 
 
+class FeatureMentionPair:
+
+    @staticmethod
+    def str_match(this_feats, other_feats):
+        """
+        True:  if neither mentions (this and other) are pronouns and mention's lemmas match
+        False: otherwise
+        """
+        return int(this_feats["category"] != "Z" and other_feats["category"] != "Z" and \
+               " ".join(this_feats["lemmas"]) == " ".join(other_feats["lemmas"]))
+
+    @staticmethod
+    def in_same_sentence(this_feats, other_feats):
+        """
+        True:  If mentions this and other in the same sentence
+        False: otherwise
+        """
+        return int(this_feats["idx_sent"] == other_feats["idx_sent"])
+
+    @staticmethod
+    def is_same_gender(this_feats, other_feats):
+        """
+        One-hot encoded vector if this and other mention:
+        [ match in gender, do not match in gender, gender can't be determined ]
+        """
+        is_same_gender = None
+        if this_feats["gender"] is not None and other_feats["gender"] is not None:
+            is_same_gender = this_feats["gender"] == other_feats["gender"]
+
+        return [
+            int(is_same_gender is True),
+            int(is_same_gender is False),
+            int(is_same_gender is None)
+        ]
+
+    @staticmethod
+    def is_same_number(this_feats, other_feats):
+        """
+        One-hot encoded vector if this and other mention:
+        [ match in number, do not match in number, number can't be determined]
+        """
+        is_same_number = None
+        if this_feats["number"] is not None and other_feats["number"] is not None:
+            is_same_number = this_feats["number"] == other_feats["number"]
+
+        return [
+            int(is_same_number is True),
+            int(is_same_number is False),
+            int(is_same_number is None),
+        ]
+
+    @staticmethod
+    def is_appositive():
+        """
+        Two mentions are assumed appositive, if:
+            - they are of NP, NN POS tag or other noun-related tag
+            - previous mention is followed by comma (i.e. ...Janez Novak, predsednik drustva...)
+        """
+        # TODO implement
+        return 0
+
+    @staticmethod
+    def is_alias():
+        """
+        One mention is considered an alias of another, if:
+            - word or initials match exactly, or
+            - mentions match partially (i.e. Marija Novak <-> gospa Novak)
+            - one mention is a token subset of another (i.e. Janez Novak <-> Novak)
+        """
+        # TODO implement
+        return 0
+
+    # TODO: add more features (good source includes
+    #       https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100101 )
+
+
 def features_mention_pair(doc, head_mention, cand_mention):
-    """ Extracts features for a mention pair.
-        - TODO: additional features """
+
+    # ------ LOAD FROM CACHE START
     head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
     # if features for this mention pair have already been constructed, use them instead of constructing them again
     cached_doc_features = _features_cache.get(doc.doc_id)
@@ -120,48 +196,31 @@ def features_mention_pair(doc, head_mention, cand_mention):
     else:
         _features_cache[doc.doc_id] = {}
 
+    # ------ LOAD FROM CACHE END
+
     head_features = features_mention(doc, head_mention)
     cand_features = features_mention(doc, cand_mention)
 
-    # Inside same sentence
-    is_same_sent = head_features["idx_sent"] == cand_features["idx_sent"]
-
-    # Agreement in gender (None = can't determine)
-    is_same_gender = None
-    if head_features["gender"] is not None and cand_features["gender"] is not None:
-        is_same_gender = head_features["gender"] == cand_features["gender"]
-
-    # Agreement in number (None = can't determine)
-    is_same_number = None
-    if head_features["number"] is not None and cand_features["number"] is not None:
-        is_same_number = head_features["number"] == cand_features["number"]
-
-    # Not pronouns (these can be written same and refer to different objects) + exact match of lemmas
-    str_match = head_features["category"] != "Z" and cand_features["category"] != "Z" and \
-                " ".join(head_features["lemmas"]) == " ".join(cand_features["lemmas"])
-
     pair_features = [
-        int(is_same_sent),
-        int(str_match),
+        FeatureMentionPair.in_same_sentence(head_features, cand_features),
+        FeatureMentionPair.str_match(head_features, cand_features),
 
-        # one-hot encoding for is_same_gender
-        int(is_same_gender is True),
-        int(is_same_gender is False),
-        int(is_same_gender is None),
+        # protip: add * if function returns a vector, but be wary of number of features added
+        *FeatureMentionPair.is_same_gender(head_features, cand_features),  # 3 features
+        *FeatureMentionPair.is_same_number(head_features, cand_features),  # 3 features
 
-        # one-hot encoding for is_same_number
-        int(is_same_number is True),
-        int(is_same_number is False),
-        int(is_same_number is None),
-
-        # TODO: more features
+        # TODO: implement in FeatureMentionPair
+        # FeatureMentionPair.is_appositive(???),
+        # FeatureMentionPair.is_alias(???),
     ]
+
+    # add features calculated above to cache
     _features_cache[doc.doc_id][(head_id, cand_id)] = pair_features
+
     return pair_features
 
 
 class BaselineModel:
-
     name: str
 
     path_model_dir: str
@@ -200,7 +259,7 @@ class BaselineModel:
         t_start = time.time()
         for idx_epoch in range(epochs):
             t_epoch_start = time.time()
-            logging.info(f"\tRunning epoch {idx_epoch+1}/{epochs}")
+            logging.info(f"\tRunning epoch {idx_epoch + 1}/{epochs}")
 
             # Make permutation of train documents
             shuffle_indices = torch.randperm(len(train_docs))
@@ -225,19 +284,17 @@ class BaselineModel:
                 dev_loss += doc_loss
                 dev_examples += n_examples
 
-            logging.info(f"----------------------------------------------")
-            logging.info(f"**Training loss: {train_loss / max(1, train_examples): .4f}**")
-            logging.info(f"**Dev loss: {dev_loss / max(1, dev_examples): .4f}**")
-            logging.info(f"----------------------------------------------")
+            logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}**")
+            logging.info(f"\t\tDev loss:      {dev_loss / max(1, dev_examples): .4f}**")
 
             if ((dev_loss / dev_examples) < best_dev_loss) and MODELS_SAVE_DIR:
-                logging.info(f"Saving new best model to '{self.path_model_dir}'")
+                logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
                 torch.save(self.model.state_dict(), os.path.join(self.path_model_dir, 'best.th'))
 
                 # Save this score as best
                 best_dev_loss = dev_loss / dev_examples
 
-            logging.info(f"Epoch#{1 + idx_epoch} took {time.time() - t_epoch_start:.2f}s")
+            logging.info(f"\tEpoch #{1 + idx_epoch} took {time.time() - t_epoch_start:.2f}s")
             logging.info("")
         logging.info("Training baseline complete")
         logging.info(f"Training took {time.time() - t_start:.2f}s")
