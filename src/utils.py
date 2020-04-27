@@ -39,7 +39,7 @@ def get_clusters(preds):
         while len(stack) > 0:
             cur = stack.pop()
             curr_cluster.append(cur)
-            cluster_assignments[cur] = {id_cluster}
+            cluster_assignments[cur] = id_cluster
             mentions = preds.get(cur)
             if mentions is not None:
                 stack.extend(mentions)

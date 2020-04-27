@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.INFO)
 
 NUM_FEATURES = 8  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 20
-LEARNING_RATE = 0.01
+LEARNING_RATE = 0.1
 
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
@@ -280,14 +280,25 @@ class BaselineModel:
             # Save predicted clusters for this document id
             all_test_preds[curr_doc.doc_id] = test_clusters
 
-            gt_clusters = {}  # ground truth / gold clusters
-            for id_cluster, cluster in enumerate(curr_doc.clusters):
-                for mention_id in cluster:
-                    gt_clusters[mention_id] = {id_cluster}
+            # input into metric functions should be formatted as dictionary of {int -> set(str)},
+            # where keys (ints) are clusters and values (string sets) are mentions in a cluster. Example:
+            # {
+            #  1: {'rc_1', 'rc_2', ...}
+            #  2: {'rc_5', 'rc_8', ...}
+            #  3: ...
+            # }
 
-            mucScore.add(metrics.muc(test_clusters, gt_clusters))
-            b3Score.add(metrics.b_cubed(test_clusters, gt_clusters))
-            ceafScore.add(metrics.ceaf_e(test_clusters, gt_clusters))
+            # gt = ground truth, pr = predicted by model
+            gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
+            pr_clusters = {}
+            for (pr_ment, pr_clst) in test_clusters.items():
+                if pr_clst not in pr_clusters:
+                    pr_clusters[pr_clst] = set()
+                pr_clusters[pr_clst].add(pr_ment)
+
+            mucScore.add(metrics.muc(gt_clusters, pr_clusters))
+            b3Score.add(metrics.b_cubed(gt_clusters, pr_clusters))
+            ceafScore.add(metrics.ceaf_e(gt_clusters, pr_clusters))
 
         logging.info(f"----------------------------------------------")
         logging.info(f"**Test scores**")

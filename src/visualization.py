@@ -20,8 +20,7 @@ def get_compared(parsed_doc, parsed_preds):
     # Prepare dictionaries for predictions
     color_by_cluster_id = {}
     color_by_mention_prediction = {}
-    for mention_id, cluster in parsed_preds.items():
-        cluster_id = cluster.pop()
+    for mention_id, cluster_id in parsed_preds.items():
         if cluster_id not in color_by_cluster_id:
             color_by_cluster_id[cluster_id] = random_color()
 
