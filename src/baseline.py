@@ -18,9 +18,9 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
-NUM_FEATURES = 1  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_FEATURES = 8  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 100
-LEARNING_RATE = 30
+LEARNING_RATE = 0.1
 
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
@@ -203,12 +203,12 @@ def features_mention_pair(doc, head_mention, cand_mention):
     cand_features = features_mention(doc, cand_mention)
 
     pair_features = [
-        # FeatureMentionPair.in_same_sentence(head_features, cand_features),
+        FeatureMentionPair.in_same_sentence(head_features, cand_features),
         FeatureMentionPair.str_match(head_features, cand_features),
 
         # protip: add * if function returns a vector, but be wary of number of features added
-        # *FeatureMentionPair.is_same_gender(head_features, cand_features)[0],  # 3 features
-        # *FeatureMentionPair.is_same_number(head_features, cand_features),  # 3 features
+        *FeatureMentionPair.is_same_gender(head_features, cand_features),  # 3 features
+        *FeatureMentionPair.is_same_number(head_features, cand_features),  # 3 features
 
         # TODO: implement in FeatureMentionPair
         # FeatureMentionPair.is_appositive(???),
