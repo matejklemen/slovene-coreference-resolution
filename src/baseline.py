@@ -18,9 +18,9 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
-NUM_FEATURES = 8  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 20
-LEARNING_RATE = 0.1
+NUM_FEATURES = 1  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 100
+LEARNING_RATE = 30
 
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
@@ -159,12 +159,13 @@ class FeatureMentionPair:
         ]
 
     @staticmethod
-    def is_appositive():
+    def is_appositive(this_feats, other_feats):
         """
         Two mentions are assumed appositive, if:
             - they are of NP, NN POS tag or other noun-related tag
             - previous mention is followed by comma (i.e. ...Janez Novak, predsednik drustva...)
         """
+        print(this_feats, other_feats)
         # TODO implement
         return 0
 
@@ -202,12 +203,12 @@ def features_mention_pair(doc, head_mention, cand_mention):
     cand_features = features_mention(doc, cand_mention)
 
     pair_features = [
-        FeatureMentionPair.in_same_sentence(head_features, cand_features),
+        # FeatureMentionPair.in_same_sentence(head_features, cand_features),
         FeatureMentionPair.str_match(head_features, cand_features),
 
         # protip: add * if function returns a vector, but be wary of number of features added
-        *FeatureMentionPair.is_same_gender(head_features, cand_features),  # 3 features
-        *FeatureMentionPair.is_same_number(head_features, cand_features),  # 3 features
+        # *FeatureMentionPair.is_same_gender(head_features, cand_features)[0],  # 3 features
+        # *FeatureMentionPair.is_same_number(head_features, cand_features),  # 3 features
 
         # TODO: implement in FeatureMentionPair
         # FeatureMentionPair.is_appositive(???),
@@ -284,8 +285,9 @@ class BaselineModel:
                 dev_loss += doc_loss
                 dev_examples += n_examples
 
-            logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}**")
-            logging.info(f"\t\tDev loss:      {dev_loss / max(1, dev_examples): .4f}**")
+            logging.info(f"\t\tParams:        {self.model.state_dict()}")
+            logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}")
+            logging.info(f"\t\tDev loss:      {dev_loss / max(1, dev_examples): .4f}")
 
             if ((dev_loss / dev_examples) < best_dev_loss) and MODELS_SAVE_DIR:
                 logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
@@ -464,7 +466,7 @@ class BaselineModel:
                         if not eval_mode:
                             curr_loss.backward()
                             self.model_optimizer.step()
-                            self.model.zero_grad()
+                            self.model_optimizer.zero_grad()
                     else:
                         # Only one candidate antecedent = first mention
                         curr_pred = 0
