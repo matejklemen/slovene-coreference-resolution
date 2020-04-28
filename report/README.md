@@ -16,7 +16,7 @@
 - Introduction: details in report
 - Related work: details in report
 - Implemented baseline: [setup](https://github.com/matejklemen/slovene-coreference-resolution#setup)
-- Future directions: TODO
+- Future directions: Implementacija procesa z NN in primerjava rezultatov, ovrednotiti model, ki ne uporablja na roko določenih lenguističnih pravil.
 
 ---
 
