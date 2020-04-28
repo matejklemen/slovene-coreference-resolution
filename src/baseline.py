@@ -21,11 +21,11 @@ logging.basicConfig(level=logging.INFO)
 
 # TODO: write NUM_EPOCHS, LEARNING_RATE, RANDOM_SEED into file together with scores?
 
-NUM_FEATURES = 11  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 50
+NUM_FEATURES = 14  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 100
 LEARNING_RATE = 0.01
 
-RANDOM_SEED = 7593680  # affect shuffle of documents for training/dev/test set and initial parameters for model
+RANDOM_SEED = 7593699  # affect shuffle of documents for training/dev/test set and initial parameters for model
 np.random.seed(RANDOM_SEED)
 torch.random.manual_seed(RANDOM_SEED)
 
@@ -175,9 +175,9 @@ class MentionPairFeatures:
 
             MentionPairFeatures.jaro_winkler_dist(head_features, cand_features),
 
-            # MentionPairFeatures.is_appositive(head_features, cand_features, document),
-            # FeatureMentionPair.is_alias(head_features, cand_features),
-            # MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_cand)
+            MentionPairFeatures.is_appositive(head_features, cand_features, document),
+            MentionPairFeatures.is_alias(head_features, cand_features),
+            MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_cand),
         ]
 
         # add features for mention pair, constructed above, to cache
