@@ -22,7 +22,7 @@ logging.basicConfig(level=logging.INFO)
 
 NUM_FEATURES = 10  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 50
-LEARNING_RATE = 0.001
+LEARNING_RATE = 0.01
 
 RANDOM_SEED = 7593680  # affect shuffle of documents for training/dev/test set and initial parameters for model
 np.random.seed(RANDOM_SEED)
@@ -38,90 +38,92 @@ VISUALIZATION_OPEN_WHEN_DONE = True
 _features_cache = {}
 
 
-# Useful resource for parsing the morphosyntactic properties:
-# http://nl.ijs.si/ME/V5/msd/html/msd-sl.html#msd.categories-sl
+class MentionFeatures:
+
+    # Useful resource for parsing the morphosyntactic properties:
+    # http://nl.ijs.si/ME/V5/msd/html/msd-sl.html#msd.categories-sl
+
+    def __init__(self, document, mention):
+        """
+        Extract features for a mention.
+        """
+        self.mention = mention
+
+        # bs4 tags (metadata) for mention tokens (<=1 per token, punctuation currently excluded)
+        mention_objs = document.ssj_doc.findAll("w", {"xml:id": lambda val: val and val in mention.token_ids})
+
+        # Index in which mention appears
+        self.idx_sent = mention.positions[0][0]
+        self.idx_in_sent = mention.positions[0][1] # TODO
+
+        # morphosyntactic description
+        self.msd_desc = mention_objs[0].attrs["ana"].split(":")[1]
+
+        # gender, number, main category
+        self.gender = None  # {None, 'm', 's', 'z'}
+        self.number = None  # {None, 'e', 'd', 'm'}
+        self.categories = Counter()  # {'S', 'G', 'P', 'Z', ...}
+
+        # tokens and it's lemmas for each token in mention
+        self.tokens = []
+        self.lemmas = []
+
+        counted_categories = Counter()
+        for obj in mention_objs:
+            _, obj_msd_desc = obj["ana"].split(":")
+
+            # Take gender of first token for which it can be determined
+            if self.gender is None:
+                obj_gender = self._extract_gender(obj_msd_desc)
+                if obj_gender in {"m", "z", "s"}:
+                    self.gender = obj_gender
+
+            # Take number of first token for which it can be determined
+            if self.number is None:
+                obj_number = self._extract_number(obj_msd_desc)
+                if obj_number in {"e", "d", "m"}:
+                    number = obj_number
+
+            # Count how many times each category appears in mention's tokens and take the most common one as the actual
+            # mention's category
+            obj_category = self._extract_category(obj_msd_desc)
+            counted_categories[obj_category] += 1
+
+            # add token and it's lemma to list
+            self.tokens.append(obj.text)
+            self.lemmas.append(obj["lemma"])
+
+        self.category = counted_categories.most_common(1)[0][0]
+
+    def _extract_number(self, msd_string):
+        number = None
+        if msd_string[0] == "S" and len(msd_string) >= 4:  # noun/samostalnik
+            number = msd_string[3]
+        elif msd_string[0] == "G" and len(msd_string) >= 6:  # verb/glagol
+            number = msd_string[5]
+        # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
+        elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 5:
+            number = msd_string[4]
+
+        return number
+
+    def _extract_gender(self, msd_string):
+        gender = None
+        if msd_string[0] == "S" and len(msd_string) >= 3:  # noun/samostalnik
+            gender = msd_string[2]
+        elif msd_string[0] == "G" and len(msd_string) >= 7:  # verb/glagol
+            gender = msd_string[6]
+        # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
+        elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 4:
+            gender = msd_string[3]
+
+        return gender
+
+    def _extract_category(self, msd_string):
+        return msd_string[0]
 
 
-def extract_category(msd_string):
-    return msd_string[0]
-
-
-def extract_gender(msd_string):
-    gender = None
-    if msd_string[0] == "S" and len(msd_string) >= 3:  # noun/samostalnik
-        gender = msd_string[2]
-    elif msd_string[0] == "G" and len(msd_string) >= 7:  # verb/glagol
-        gender = msd_string[6]
-    # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
-    elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 4:
-        gender = msd_string[3]
-
-    return gender
-
-
-def extract_number(msd_string):
-    number = None
-    if msd_string[0] == "S" and len(msd_string) >= 4:  # noun/samostalnik
-        number = msd_string[3]
-    elif msd_string[0] == "G" and len(msd_string) >= 6:  # verb/glagol
-        number = msd_string[5]
-    # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
-    elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 5:
-        number = msd_string[4]
-
-    return number
-
-
-def features_mention(doc, mention):
-    """ Extract features for a mention. """
-    # bs4 tags (metadata) for mention tokens (<=1 per token, punctuation currently excluded)
-    mention_objs = doc.ssj_doc.findAll("w", {"xml:id": lambda val: val and val in mention.token_ids})
-    # Index in which mention appears
-    idx_sent = mention.positions[0][0]
-
-    gender = None  # {None, 'm', 's', 'z'}
-    number = None  # {None, 'e', 'd', 'm'}
-    categories = Counter()  # {'S', 'G', 'P', 'Z', ...}
-    lemmas = []
-
-    for obj in mention_objs:
-        lemmas.append(obj["lemma"])
-        _, morphsyntax = obj["ana"].split(":")
-
-        # Take gender of first token for which it can be determined
-        if gender is None:
-            curr_gender = extract_gender(morphsyntax)
-            if curr_gender in {"m", "z", "s"}:
-                gender = curr_gender
-
-        # Take number of first token for which it can be determined
-        if number is None:
-            curr_number = extract_number(morphsyntax)
-            if curr_number in {"e", "d", "m"}:
-                number = curr_number
-
-        curr_category = extract_category(morphsyntax)
-        categories[curr_category] = categories.get(curr_category, 0) + 1
-
-    cat = categories.most_common(1)[0][0]
-
-    tokens = [doc.id_to_tok[tid] for tid in mention.token_ids]
-
-    return {
-        "idx_sent": idx_sent, # index of sentence in document
-        "tokens": tokens,
-        "lemmas": lemmas,
-        "gender": gender,
-        "number": number,
-        "category": cat,
-        "idx_in_sent": mention.positions[0][1], # index of token in sentence
-        "token_count": len(mention.positions),
-        "MSD": mention_objs[0].attrs["ana"].split(":")[1] # morphosyntactic description
-    }
-
-
-class FeatureMentionPair:
-    # TODO Martin: Handle FeatureMentionPair cache by this class
+class MentionPairFeatures:
     # TODO Martin: Standardize function inputs ??
 
     # !! Note
@@ -135,8 +137,8 @@ class FeatureMentionPair:
         True:  if neither mentions (this and other) are pronouns and mention's lemmas match
         False: otherwise
         """
-        return int(this_feats["category"] != "Z" and other_feats["category"] != "Z" and \
-               " ".join(this_feats["lemmas"]) == " ".join(other_feats["lemmas"]))
+        return int(this_feats.category != "Z" and other_feats.category != "Z" and \
+               " ".join(this_feats.lemmas) == " ".join(other_feats.lemmas))
 
     @staticmethod
     def in_same_sentence(this_feats, other_feats):
@@ -144,7 +146,7 @@ class FeatureMentionPair:
         True:  If mentions this and other in the same sentence
         False: otherwise
         """
-        return int(this_feats["idx_sent"] == other_feats["idx_sent"])
+        return int(this_feats.idx_sent == other_feats.idx_sent)
 
     @staticmethod
     def is_same_gender(this_feats, other_feats):
@@ -153,8 +155,8 @@ class FeatureMentionPair:
         [ match in gender, do not match in gender, gender can't be determined ]
         """
         is_same_gender = None
-        if this_feats["gender"] is not None and other_feats["gender"] is not None:
-            is_same_gender = this_feats["gender"] == other_feats["gender"]
+        if this_feats.gender is not None and other_feats.gender is not None:
+            is_same_gender = this_feats.gender == other_feats.gender
 
         return [
             int(is_same_gender is True),
@@ -169,8 +171,8 @@ class FeatureMentionPair:
         [ match in number, do not match in number, number can't be determined]
         """
         is_same_number = None
-        if this_feats["number"] is not None and other_feats["number"] is not None:
-            is_same_number = this_feats["number"] == other_feats["number"]
+        if this_feats.number is not None and other_feats.number is not None:
+            is_same_number = this_feats.number == other_feats.number
 
         return [
             int(is_same_number is True),
@@ -187,17 +189,17 @@ class FeatureMentionPair:
         """
         # TODO remarks: zadeva pozitivne primere vzame tudi naštevanja samostalnikov...
         # if both mentions are nouns
-        if this_feats["category"] == "S" and other_feats["category"] == "S":
+        if this_feats.category == "S" and other_feats.category == "S":
             # if both mentions are in same sentence
-            if this_feats["idx_sent"] == other_feats["idx_sent"]:
+            if this_feats.idx_sent == other_feats.idx_sent:
                 # "other" mention is positioned before "this" mention. to get distance in tokens between mentions,
                 # we need distance from last token of "other" mention to first token in "this" mention
                 # TODO: could generalize by comparing this and other first token position within sentence
-                other_last_token_pos = other_feats["idx_in_sent"] + other_feats["token_count"]
-                this_first_token_pos = this_feats["idx_in_sent"]
+                other_last_token_pos = other_feats.idx_in_sent + len(other_feats.tokens)
+                this_first_token_pos = this_feats.idx_in_sent
                 if this_first_token_pos - other_last_token_pos == 1:
                     # there's exactly one token betwen, check if it's a comma
-                    if document.id_to_tok[document.sents[this_feats["idx_sent"]][other_last_token_pos]] == ",":
+                    if document.id_to_tok[document.sents[this_feats.idx_sent][other_last_token_pos]] == ",":
                         return int(True)
         return int(False)
 
@@ -211,10 +213,10 @@ class FeatureMentionPair:
         """
         # TODO remarks: initials pade pri netrivialnih primerih.
         #               Primer: "Ministrstvo za kmetijstvo, gozdrastvo in prehrano" se inicira z "MKGIP", ne "MZK,GIP"
-        this_initials = [tok[0] for tok in this_feats["tokens"]]
-        other_initials = [tok[0] for tok in other_feats["tokens"]]
-        this_words = " ".join(this_feats["tokens"])
-        other_words = " ".join(other_feats["tokens"])
+        this_initials = [tok[0] for tok in this_feats.tokens]
+        other_initials = [tok[0] for tok in other_feats.tokens]
+        this_words = " ".join(this_feats.tokens)
+        other_words = " ".join(other_feats.tokens)
 
         # mentions are equal or one is initial of another
         if this_words == other_words or this_initials == other_initials or this_words == other_initials or this_initials == other_words:
@@ -222,8 +224,8 @@ class FeatureMentionPair:
 
         # TODO remarks: return true on first match, which may not be specific enough (i.e. Janez Novak <-> Peter Novak
         #               sta lahko različni omembi...)
-        for tok in this_feats["tokens"]:
-            if tok in other_feats["tokens"]:
+        for tok in this_feats.tokens:
+            if tok in other_feats.tokens:
                 return int(True)
 
         return int(False)
@@ -269,7 +271,7 @@ class FeatureMentionPair:
         primer: ",,Prepričan <sem>, da ne bomo razočarali'', napoveduje Matjaž Brumen.", v tem primeru se <sem> nanaša
         na naslednjo omenitev t.j. <Matjaž Brumen>, ki je dobsedni navedek "izrekel".
         """
-        if this_feats["MSD"].startswith("Zp") and idx_this - idx_other == 1:
+        if this_feats.msd_desc.startswith("Zp") and idx_this - idx_other == 1:
             return int(True)
 
         return int(False)
@@ -300,43 +302,42 @@ def load_feat_from_cache(doc_id, head_id, cand_id=None):
         else:
             return None
 
-    # ------ LOAD FROM CACHE END
-
 
 def features_mention_pair(doc, head_mention, cand_mention, idx_head, idx_candidate):
 
-    # ------ LOAD FROM CACHE START
     # if features for this mention pair have already been constructed, use them instead of constructing them again
     head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
     cached_pair_features = load_feat_from_cache(doc.doc_id, head_id, cand_id)
     if cached_pair_features is not None:
         return cached_pair_features
 
+    # also try to get a single mention's features from cache...
     head_features = load_feat_from_cache(doc.doc_id, head_id)
     cand_features = load_feat_from_cache(doc.doc_id, cand_id)
 
+    # ...or construct them, if not cached yet for a specific mention
     if not head_features:
-        head_features = features_mention(doc, head_mention)
+        head_features = MentionFeatures(doc, head_mention)
         _features_cache[doc.doc_id][head_id] = head_features
 
     if not cand_features:
-        cand_features = features_mention(doc, cand_mention)
+        cand_features = MentionFeatures(doc, cand_mention)
         _features_cache[doc.doc_id][cand_id] = cand_features
 
     pair_features = [
-        FeatureMentionPair.in_same_sentence(head_features, cand_features),
-        FeatureMentionPair.str_match(head_features, cand_features),
+        MentionPairFeatures.in_same_sentence(head_features, cand_features),
+        MentionPairFeatures.str_match(head_features, cand_features),
 
         # protip: add * if function returns a vector, but be wary of number of features added
-        *FeatureMentionPair.is_same_gender(head_features, cand_features),  # 3 features
-        *FeatureMentionPair.is_same_number(head_features, cand_features),  # 3 features
+        *MentionPairFeatures.is_same_gender(head_features, cand_features),  # 3 features
+        *MentionPairFeatures.is_same_number(head_features, cand_features),  # 3 features
 
-        FeatureMentionPair.is_appositive(head_features, cand_features, doc),
+        MentionPairFeatures.is_appositive(head_features, cand_features, doc),
         # FeatureMentionPair.is_alias(head_features, cand_features),
-        FeatureMentionPair.is_reflexive(head_features, cand_features, idx_head, idx_candidate)
+        MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_candidate)
     ]
 
-    # add features calculated above to cache
+    # add features for mention pair, constructed above, to cache
     _features_cache[doc.doc_id][(head_id, cand_id)] = pair_features
 
     return pair_features
