@@ -21,9 +21,10 @@ logging.basicConfig(level=logging.INFO)
 
 NUM_FEATURES = 14  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 100
-LEARNING_RATE = 0.01
+LEARNING_RATE = 0.005
 
-RANDOM_SEED = 7593699  # affect shuffle of documents for training/dev/test set and initial parameters for model
+# affects shuffle of documents for training/dev/test set and initial parameters for model
+RANDOM_SEED = np.random.default_rng().integers(2**32 - 1)
 np.random.seed(RANDOM_SEED)
 torch.random.manual_seed(RANDOM_SEED)
 
