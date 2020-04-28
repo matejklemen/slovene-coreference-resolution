@@ -33,9 +33,10 @@ VISUALIZATION_GENERATE = True
 VISUALIZATION_OPEN_WHEN_DONE = True
 
 # Cache features for single mentions and mention pairs (useful for doing multiple epochs over data)
-# Format for pair:   {doc1_id: {(mention1_id, mention2_id): <features>, ...}, ...}
 # Format for single: {doc1_id: {mention_id: <features>, ...}, ...}
-_features_cache = {}
+_cached_MentionFeatures = {}
+# Format for pair:   {doc1_id: {(mention1_id, mention2_id): <features>, ...}, ...}
+_cached_MentionPairFeatures = {}
 
 
 class MentionFeatures:
@@ -43,9 +44,25 @@ class MentionFeatures:
     # Useful resource for parsing the morphosyntactic properties:
     # http://nl.ijs.si/ME/V5/msd/html/msd-sl.html#msd.categories-sl
 
+    @staticmethod
+    def for_mention(document, mention, use_cache=True):
+        # load from cache, if enabled and it exists
+        if use_cache:
+            if _cached_MentionFeatures.get(document.doc_id):
+                if _cached_MentionFeatures[document.doc_id].get(mention.mention_id):
+                    return _cached_MentionFeatures[document.doc_id][mention.mention_id]
+            else:
+                _cached_MentionFeatures[document.doc_id] = {}
+
+        # otherwise create and store to cache
+        mf = MentionFeatures(document, mention)
+        if use_cache:
+            _cached_MentionFeatures[document.doc_id][mention.mention_id] = mf
+        return mf
+
     def __init__(self, document, mention):
         """
-        Extract features for a mention.
+        Extract features for a given mention in the given document.
         """
         self.mention = mention
 
@@ -124,6 +141,40 @@ class MentionFeatures:
 
 
 class MentionPairFeatures:
+
+    @staticmethod
+    def for_mentions(document, head_mention, cand_mention, idx_head, idx_cand, use_cache=True):
+        # TODO: idx_head, idx_cand ?
+        head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
+        doc_id = document.doc_id
+        # load from cache, if enabled and it exists
+        if use_cache:
+            if _cached_MentionPairFeatures.get(doc_id):
+                if _cached_MentionPairFeatures[doc_id].get((head_id, cand_id)):
+                    return _cached_MentionPairFeatures[doc_id][(head_id, cand_id)]
+            else:
+                _cached_MentionPairFeatures[doc_id] = {}
+
+        head_features = MentionFeatures.for_mention(document, head_mention)
+        cand_features = MentionFeatures.for_mention(document, cand_mention)
+
+        pair_features = [
+            MentionPairFeatures.in_same_sentence(head_features, cand_features),
+            MentionPairFeatures.str_match(head_features, cand_features),
+
+            # protip: add * if function returns a vector, but be wary of number of features added
+            *MentionPairFeatures.is_same_gender(head_features, cand_features),  # 3 features
+            *MentionPairFeatures.is_same_number(head_features, cand_features),  # 3 features
+
+            MentionPairFeatures.is_appositive(head_features, cand_features, document),
+            # FeatureMentionPair.is_alias(head_features, cand_features),
+            MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_cand)
+        ]
+
+        # add features for mention pair, constructed above, to cache
+        _cached_MentionPairFeatures[doc_id][(head_id, cand_id)] = pair_features
+        return pair_features
+
     # TODO Martin: Standardize function inputs ??
 
     # !! Note
@@ -278,69 +329,6 @@ class MentionPairFeatures:
 
     # TODO: add more features (good source includes
     #       https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100101 )
-
-
-def load_feat_from_cache(doc_id, head_id, cand_id=None):
-    cached_doc_features = _features_cache.get(doc_id)
-    if not cached_doc_features:
-        _features_cache[doc_id] = {}
-        return None
-
-    if head_id is not None and cand_id is not None:
-        # we are looking up features for a pair
-        cached_pair_features = cached_doc_features.get((head_id, cand_id))
-        if cached_pair_features:
-            return cached_pair_features
-        else:
-            return None
-
-    if head_id is not None and cand_id is None:
-        # we are looking up features for a single mention
-        cached_features = cached_doc_features.get(head_id)
-        if cached_features:
-            return cached_features
-        else:
-            return None
-
-
-def features_mention_pair(doc, head_mention, cand_mention, idx_head, idx_candidate):
-
-    # if features for this mention pair have already been constructed, use them instead of constructing them again
-    head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
-    cached_pair_features = load_feat_from_cache(doc.doc_id, head_id, cand_id)
-    if cached_pair_features is not None:
-        return cached_pair_features
-
-    # also try to get a single mention's features from cache...
-    head_features = load_feat_from_cache(doc.doc_id, head_id)
-    cand_features = load_feat_from_cache(doc.doc_id, cand_id)
-
-    # ...or construct them, if not cached yet for a specific mention
-    if not head_features:
-        head_features = MentionFeatures(doc, head_mention)
-        _features_cache[doc.doc_id][head_id] = head_features
-
-    if not cand_features:
-        cand_features = MentionFeatures(doc, cand_mention)
-        _features_cache[doc.doc_id][cand_id] = cand_features
-
-    pair_features = [
-        MentionPairFeatures.in_same_sentence(head_features, cand_features),
-        MentionPairFeatures.str_match(head_features, cand_features),
-
-        # protip: add * if function returns a vector, but be wary of number of features added
-        *MentionPairFeatures.is_same_gender(head_features, cand_features),  # 3 features
-        *MentionPairFeatures.is_same_number(head_features, cand_features),  # 3 features
-
-        MentionPairFeatures.is_appositive(head_features, cand_features, doc),
-        # FeatureMentionPair.is_alias(head_features, cand_features),
-        MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_candidate)
-    ]
-
-    # add features for mention pair, constructed above, to cache
-    _features_cache[doc.doc_id][(head_id, cand_id)] = pair_features
-
-    return pair_features
 
 
 class BaselineModel:
@@ -613,7 +601,7 @@ class BaselineModel:
                 else:
                     # Add current mention as candidate
                     candidates.append(cand_id)
-                    features.append(features_mention_pair(curr_doc, head_mention, cand_mention, idx_head, idx_candidate))
+                    features.append(MentionPairFeatures.for_mentions(curr_doc, head_mention, cand_mention, idx_head, idx_candidate))
 
         return preds, (doc_loss, n_examples)
 
