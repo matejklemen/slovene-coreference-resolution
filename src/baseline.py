@@ -7,6 +7,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
+from pyjarowinkler import distance as jwdistance
 
 import metrics
 from data import DATA_DIR, SSJ_PATH, read_corpus
@@ -20,9 +21,9 @@ logging.basicConfig(level=logging.INFO)
 
 # TODO: write NUM_EPOCHS, LEARNING_RATE, RANDOM_SEED into file together with scores?
 
-NUM_FEATURES = 10  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 50
-LEARNING_RATE = 0.01
+NUM_FEATURES = 11  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 200
+LEARNING_RATE = 0.001
 
 RANDOM_SEED = 7593680  # affect shuffle of documents for training/dev/test set and initial parameters for model
 np.random.seed(RANDOM_SEED)
@@ -172,6 +173,7 @@ class MentionPairFeatures:
             MentionPairFeatures.is_prefix(head_features, cand_features),
             MentionPairFeatures.is_suffix(head_features, cand_features),
 
+            MentionPairFeatures.jaro_winkler_dist(head_features, cand_features),
 
             # MentionPairFeatures.is_appositive(head_features, cand_features, document),
             # FeatureMentionPair.is_alias(head_features, cand_features),
@@ -308,12 +310,11 @@ class MentionPairFeatures:
         return int(False)
 
     @staticmethod
-    def jaro_winkler_dist():
+    def jaro_winkler_dist(this_feats, other_feats):
         """
         Result is a similarity value between this and other mention according to Jaro-Winkler metric.
         """
-        # TODO: implement
-        return 0
+        return jwdistance.get_jaro_distance(this_feats.raw_text(), other_feats.raw_text())
 
     @staticmethod
     def is_reflexive(this_feats, other_feats, idx_this, idx_other):
