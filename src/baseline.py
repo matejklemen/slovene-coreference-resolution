@@ -18,16 +18,23 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
-NUM_FEATURES = 8  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 100
-LEARNING_RATE = 0.1
+# TODO: write NUM_EPOCHS, LEARNING_RATE, RANDOM_SEED into file together with scores?
+
+NUM_FEATURES = 10  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 50
+LEARNING_RATE = 0.001
+
+RANDOM_SEED = 7593680  # affect shuffle of documents for training/dev/test set and initial parameters for model
+np.random.seed(RANDOM_SEED)
+torch.random.manual_seed(RANDOM_SEED)
 
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
 VISUALIZATION_OPEN_WHEN_DONE = True
 
-# Cache features for mention pairs (useful for doing multiple epochs over data)
-# Format: {doc1_id: {(mention1_id, mention2_id): <features>, ...}, ...}
+# Cache features for single mentions and mention pairs (useful for doing multiple epochs over data)
+# Format for pair:   {doc1_id: {(mention1_id, mention2_id): <features>, ...}, ...}
+# Format for single: {doc1_id: {mention_id: <features>, ...}, ...}
 _features_cache = {}
 
 
@@ -98,16 +105,29 @@ def features_mention(doc, mention):
 
     cat = categories.most_common(1)[0][0]
 
+    tokens = [doc.id_to_tok[tid] for tid in mention.token_ids]
+
     return {
-        "idx_sent": idx_sent,
+        "idx_sent": idx_sent, # index of sentence in document
+        "tokens": tokens,
         "lemmas": lemmas,
         "gender": gender,
         "number": number,
-        "category": cat
+        "category": cat,
+        "idx_in_sent": mention.positions[0][1], # index of token in sentence
+        "token_count": len(mention.positions),
+        "MSD": mention_objs[0].attrs["ana"].split(":")[1] # morphosyntactic description
     }
 
 
 class FeatureMentionPair:
+    # TODO Martin: Handle FeatureMentionPair cache by this class
+    # TODO Martin: Standardize function inputs ??
+
+    # !! Note
+    # this_feats == head_features
+    # other_feats == cand_features
+    # meaning that, if order in document is important, other is before this!
 
     @staticmethod
     def str_match(this_feats, other_feats):
@@ -159,48 +179,149 @@ class FeatureMentionPair:
         ]
 
     @staticmethod
-    def is_appositive(this_feats, other_feats):
+    def is_appositive(this_feats, other_feats, document):
         """
         Two mentions are assumed appositive, if:
             - they are of NP, NN POS tag or other noun-related tag
             - previous mention is followed by comma (i.e. ...Janez Novak, predsednik drustva...)
         """
-        print(this_feats, other_feats)
-        # TODO implement
-        return 0
+        # TODO remarks: zadeva pozitivne primere vzame tudi naštevanja samostalnikov...
+        # if both mentions are nouns
+        if this_feats["category"] == "S" and other_feats["category"] == "S":
+            # if both mentions are in same sentence
+            if this_feats["idx_sent"] == other_feats["idx_sent"]:
+                # "other" mention is positioned before "this" mention. to get distance in tokens between mentions,
+                # we need distance from last token of "other" mention to first token in "this" mention
+                # TODO: could generalize by comparing this and other first token position within sentence
+                other_last_token_pos = other_feats["idx_in_sent"] + other_feats["token_count"]
+                this_first_token_pos = this_feats["idx_in_sent"]
+                if this_first_token_pos - other_last_token_pos == 1:
+                    # there's exactly one token betwen, check if it's a comma
+                    if document.id_to_tok[document.sents[this_feats["idx_sent"]][other_last_token_pos]] == ",":
+                        return int(True)
+        return int(False)
 
     @staticmethod
-    def is_alias():
+    def is_alias(this_feats, other_feats):
         """
         One mention is considered an alias of another, if:
             - word or initials match exactly, or
             - mentions match partially (i.e. Marija Novak <-> gospa Novak)
             - one mention is a token subset of another (i.e. Janez Novak <-> Novak)
         """
-        # TODO implement
+        # TODO remarks: initials pade pri netrivialnih primerih.
+        #               Primer: "Ministrstvo za kmetijstvo, gozdrastvo in prehrano" se inicira z "MKGIP", ne "MZK,GIP"
+        this_initials = [tok[0] for tok in this_feats["tokens"]]
+        other_initials = [tok[0] for tok in other_feats["tokens"]]
+        this_words = " ".join(this_feats["tokens"])
+        other_words = " ".join(other_feats["tokens"])
+
+        # mentions are equal or one is initial of another
+        if this_words == other_words or this_initials == other_initials or this_words == other_initials or this_initials == other_words:
+            return int(True)
+
+        # TODO remarks: return true on first match, which may not be specific enough (i.e. Janez Novak <-> Peter Novak
+        #               sta lahko različni omembi...)
+        for tok in this_feats["tokens"]:
+            if tok in other_feats["tokens"]:
+                return int(True)
+
+        return int(False)
+
+    @staticmethod
+    def is_prefix():
+        """
+        True:  if other mention is prefix of this mention
+        False: otherwise
+        """
+        # TODO: implement
         return 0
+
+    @staticmethod
+    def is_suffix():
+        """
+        True:  if other mention is prefix of this mention
+        False: otherwise
+        """
+        # TODO: implement
+        return 0
+
+    @staticmethod
+    def jaro_winkler_dist():
+        """
+        Result is a similarity value between this and other mention according to Jaro-Winkler metric.
+        """
+        # TODO: implement
+        return 0
+
+    @staticmethod
+    def is_reflexive(this_feats, other_feats, idx_this, idx_other):
+        """
+        True:  if this mention is reflexive and distance between this and other mentions is 0 (i.e. there are no other
+               mentions between those two)
+        False: otherwise
+
+        Reflexive pronoun = povratni zaimek
+        primer: "<Nueri> se, na primer, spominjajo <svojih> prednikov...", kjer je <svojih> povratni zaimek in se nanaša
+        na omenitev takoj prej, <Nueri>
+
+        note: izjeme so lahko dobsedeni navedki v navednicah!
+        primer: ",,Prepričan <sem>, da ne bomo razočarali'', napoveduje Matjaž Brumen.", v tem primeru se <sem> nanaša
+        na naslednjo omenitev t.j. <Matjaž Brumen>, ki je dobsedni navedek "izrekel".
+        """
+        if this_feats["MSD"].startswith("Zp") and idx_this - idx_other == 1:
+            return int(True)
+
+        return int(False)
 
     # TODO: add more features (good source includes
     #       https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100101 )
 
 
-def features_mention_pair(doc, head_mention, cand_mention):
+def load_feat_from_cache(doc_id, head_id, cand_id=None):
+    cached_doc_features = _features_cache.get(doc_id)
+    if not cached_doc_features:
+        _features_cache[doc_id] = {}
+        return None
 
-    # ------ LOAD FROM CACHE START
-    head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
-    # if features for this mention pair have already been constructed, use them instead of constructing them again
-    cached_doc_features = _features_cache.get(doc.doc_id)
-    if cached_doc_features:
+    if head_id is not None and cand_id is not None:
+        # we are looking up features for a pair
         cached_pair_features = cached_doc_features.get((head_id, cand_id))
         if cached_pair_features:
             return cached_pair_features
-    else:
-        _features_cache[doc.doc_id] = {}
+        else:
+            return None
+
+    if head_id is not None and cand_id is None:
+        # we are looking up features for a single mention
+        cached_features = cached_doc_features.get(head_id)
+        if cached_features:
+            return cached_features
+        else:
+            return None
 
     # ------ LOAD FROM CACHE END
 
-    head_features = features_mention(doc, head_mention)
-    cand_features = features_mention(doc, cand_mention)
+
+def features_mention_pair(doc, head_mention, cand_mention, idx_head, idx_candidate):
+
+    # ------ LOAD FROM CACHE START
+    # if features for this mention pair have already been constructed, use them instead of constructing them again
+    head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
+    cached_pair_features = load_feat_from_cache(doc.doc_id, head_id, cand_id)
+    if cached_pair_features is not None:
+        return cached_pair_features
+
+    head_features = load_feat_from_cache(doc.doc_id, head_id)
+    cand_features = load_feat_from_cache(doc.doc_id, cand_id)
+
+    if not head_features:
+        head_features = features_mention(doc, head_mention)
+        _features_cache[doc.doc_id][head_id] = head_features
+
+    if not cand_features:
+        cand_features = features_mention(doc, cand_mention)
+        _features_cache[doc.doc_id][cand_id] = cand_features
 
     pair_features = [
         FeatureMentionPair.in_same_sentence(head_features, cand_features),
@@ -210,9 +331,9 @@ def features_mention_pair(doc, head_mention, cand_mention):
         *FeatureMentionPair.is_same_gender(head_features, cand_features),  # 3 features
         *FeatureMentionPair.is_same_number(head_features, cand_features),  # 3 features
 
-        # TODO: implement in FeatureMentionPair
-        # FeatureMentionPair.is_appositive(???),
-        # FeatureMentionPair.is_alias(???),
+        FeatureMentionPair.is_appositive(head_features, cand_features, doc),
+        # FeatureMentionPair.is_alias(head_features, cand_features),
+        FeatureMentionPair.is_reflexive(head_features, cand_features, idx_head, idx_candidate)
     ]
 
     # add features calculated above to cache
@@ -421,6 +542,13 @@ class BaselineModel:
         if len(curr_doc.mentions) == 0:
             return [], (0.0, 0)
 
+        cluster_sets = []
+        mention_to_cluster_id = {}
+        for i, curr_cluster in enumerate(curr_doc.clusters):
+            cluster_sets.append(set(curr_cluster))
+            for mid in curr_cluster:
+                mention_to_cluster_id[mid] = i
+
         logging.debug(f"**Sorting mentions...**")
         sorted_mentions = sorted(curr_doc.mentions.items(), key=lambda tup: (tup[1].positions[0][0],  # sentence
                                                                              tup[1].positions[0][1],  # start pos
@@ -433,15 +561,15 @@ class BaselineModel:
             logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
             self.model.zero_grad()
 
-            gt_antecedent_id = curr_doc.mapped_clusters[head_id]
+            gt_antecedent_ids = cluster_sets[mention_to_cluster_id[head_id]]
 
             # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
             candidates, features = [None], []
-            gt_antecedent = torch.tensor([0])
+            gt_antecedents = []
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(sorted_mentions, 1):
-                if cand_id == gt_antecedent_id:
-                    gt_antecedent[:] = idx_candidate
+                if cand_id != head_id and cand_id in gt_antecedent_ids:
+                    gt_antecedents.append(idx_candidate)
 
                 # Obtain scores for candidates and select best one as antecedent
                 if idx_candidate == idx_head:
@@ -451,14 +579,19 @@ class BaselineModel:
                         cand_scores = self.model(features)
 
                         # Concatenates the given sequence of seq tensors in the given dimension
-                        card_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
+                        cand_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
 
-                        cand_scores = torch.softmax(card_scores, dim=-1)
+                        # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
+                        if len(gt_antecedents) == 0:
+                            gt_antecedents.append(0)
 
                         # Get index of max value. That index equals to mention at that place
                         curr_pred = torch.argmax(cand_scores)
 
-                        curr_loss = self.loss(cand_scores, gt_antecedent)
+                        # (average) loss over all ground truth antecedents
+                        curr_loss = self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
+                                              torch.tensor(gt_antecedents))
+
                         doc_loss += float(curr_loss)
 
                         n_examples += 1
@@ -479,24 +612,19 @@ class BaselineModel:
                 else:
                     # Add current mention as candidate
                     candidates.append(cand_id)
-                    features.append(features_mention_pair(curr_doc, head_mention, cand_mention))
+                    features.append(features_mention_pair(curr_doc, head_mention, cand_mention, idx_head, idx_candidate))
 
         return preds, (doc_loss, n_examples)
 
 
-def split_into_sets(documents, random_seed=None):
+def split_into_sets(documents):
     """
     Splits documents array into three sets: learning, validation & testing.
     If random seed is given, documents selected for each set are randomly picked (but do not overlap, of course).
     """
     idx = np.arange(len(documents))
-
-    # Setting a seed will always produce the same "shuffle"
-    if random_seed is not None:
-        np.random.seed(random_seed)
-
-        # basically just shuffle indexes...
-        np.random.shuffle(idx)
+    # basically just shuffle indexes...
+    np.random.shuffle(idx)
 
     train_idx, dev_idx, test_idx = idx[: -40], idx[-40: -20], idx[-20:]
     # ... and then select those indexes from list of documents
