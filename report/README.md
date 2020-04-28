@@ -16,7 +16,12 @@
 - Introduction: details in report
 - Related work: details in report
 - Implemented baseline: [setup](https://github.com/matejklemen/slovene-coreference-resolution#setup)
-- Future directions: Implementacija procesa z NN in primerjava rezultatov, ovrednotiti model, ki ne uporablja na roko določenih lenguističnih pravil.
+- Future directions: add trivial models as additional baselines, implement one or more embedding-based approaches: 
+    - purely embeddings (contextual|non-contextual, depending on time)
+    - embeddings + some handcrafted features  
+    The goal is to see if the amount of manual feature engineering can be reduced (because here, handcrafting features 
+    requires a lot of linguistic knowledge).
+    
 
 ---
 
