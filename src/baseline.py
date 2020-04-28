@@ -18,9 +18,15 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
+# TODO: write NUM_EPOCHS, LEARNING_RATE, RANDOM_SEED into file together with scores?
+
 NUM_FEATURES = 10  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 500
-LEARNING_RATE = 0.01
+NUM_EPOCHS = 50
+LEARNING_RATE = 0.001
+
+RANDOM_SEED = 7593680  # affect shuffle of documents for training/dev/test set and initial parameters for model
+np.random.seed(RANDOM_SEED)
+torch.random.manual_seed(RANDOM_SEED)
 
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
@@ -611,19 +617,14 @@ class BaselineModel:
         return preds, (doc_loss, n_examples)
 
 
-def split_into_sets(documents, random_seed=None):
+def split_into_sets(documents):
     """
     Splits documents array into three sets: learning, validation & testing.
     If random seed is given, documents selected for each set are randomly picked (but do not overlap, of course).
     """
     idx = np.arange(len(documents))
-
-    # Setting a seed will always produce the same "shuffle"
-    if random_seed is not None:
-        np.random.seed(random_seed)
-
-        # basically just shuffle indexes...
-        np.random.shuffle(idx)
+    # basically just shuffle indexes...
+    np.random.shuffle(idx)
 
     train_idx, dev_idx, test_idx = idx[: -40], idx[-40: -20], idx[-20:]
     # ... and then select those indexes from list of documents
