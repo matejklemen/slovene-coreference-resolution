@@ -106,7 +106,19 @@ def get_document_predictions(test_preds_file):
         predictions = f.readlines()[5:]
 
     for i in range(0, len(predictions), 2):
-        document = predictions[i].split('Document ')[1].split(':')[0].split('\\')[1].replace("'", "")
+        doc_line = predictions[i]
+        document = ""
+        try:
+            striped = doc_line.split('Document ')[1].split(':')[0]
+            document = striped.split('\\')
+            if len(document) > 1:
+                document = document[1]
+            else:
+                document = document[0]
+            document = document.replace("'", "")
+        except:
+            print("Document name could not be obtained. Tried parsing line: " + doc_line)
+
         clusters = predictions[i+1]
 
         parsed_doc = parse_document(document)
