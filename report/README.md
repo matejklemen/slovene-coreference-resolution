@@ -18,11 +18,6 @@
 - Implemented baseline: [setup](https://github.com/matejklemen/slovene-coreference-resolution#setup)
 - Future directions: Implementacija procesa z NN in primerjava rezultatov, ovrednotiti model, ki ne uporablja na roko določenih lenguističnih pravil.
 
-#### Results
-Initial results (Conll-12 score) after 5 runs (precision, recall, **F1**):
-- mean: 0.768; 0.617; **0.627**
-- stddev: 0.034; 0.042; **0.043**
-
 ---
 
 ## Final submission
