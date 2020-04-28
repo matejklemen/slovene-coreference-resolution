@@ -19,8 +19,6 @@ from visualization import build_and_display
 #####################
 logging.basicConfig(level=logging.INFO)
 
-# TODO: write NUM_EPOCHS, LEARNING_RATE, RANDOM_SEED into file together with scores?
-
 NUM_FEATURES = 14  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 100
 LEARNING_RATE = 0.01
@@ -422,7 +420,8 @@ class BaselineModel:
 
         # Add model train scores to model metadata
         if MODELS_SAVE_DIR:
-            with open(self.path_model_metadata, "w") as f:
+            with open(self.path_model_metadata, "a") as f:
+                print("", file=f)
                 print("Train model scores:", file=f)
                 print(f"Best validation set loss: {best_dev_loss}", file=f)
             logging.info(f"Saved best validation score to {self.path_model_metadata}")
@@ -519,8 +518,10 @@ class BaselineModel:
             if MODELS_SAVE_DIR:
                 with open(self.path_model_metadata, "w") as f:
                     print("Train model features:", file=f)
-                    print(f"NUM_FEATURES: {self.model.in_features}", file=f)
-                    print(f"NUM_EPOCHS: {NUM_EPOCHS}", file=f)
+                    print(f"NUM_FEATURES:  {NUM_FEATURES}", file=f)
+                    print(f"NUM_EPOCHS:    {NUM_EPOCHS}", file=f)
+                    print(f"LEARNING_RATE: {LEARNING_RATE}", file=f)
+                    print(f"RANDOM_SEED:   {RANDOM_SEED}", file=f)
                     print("", file=f)
 
         else:
