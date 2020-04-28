@@ -14,7 +14,7 @@ def random_color():
     return "#"+''.join([random.choice('0123456789ABCDEF') for j in range(6)]) + alpha
 
 
-def get_compared(parsed_doc, parsed_preds):
+def get_compared(parsed_doc, parsed_preds, doc_id):
     ground_truth_clusters = parsed_doc.find_all("tc:entity")
 
     # Prepare dictionaries for predictions
@@ -46,6 +46,9 @@ def get_compared(parsed_doc, parsed_preds):
     # Combine to text
     ground_truth = ""
     predictions = ""
+    gt_color_ids = {}
+    preds_color_ids = {}
+    unique_classes = {}
     for sentence in parsed_doc.find_all("tc:sentence"):
         if ground_truth != "":
             ground_truth += "<br><br>"
@@ -61,7 +64,14 @@ def get_compared(parsed_doc, parsed_preds):
             # Ground truth logic
             if token in cluster_color_by_token:
                 color = cluster_color_by_token[token]
-                row_truth += f"""<span style="background-color:{color}">"""+token_by_id[token]+"</span>"
+                color_id = len(gt_color_ids)
+                if color in gt_color_ids:
+                    color_id = gt_color_ids[color]
+                else:
+                    gt_color_ids[color] = color_id
+                cls = f"""{doc_id}-gt-c-{color_id}"""
+                unique_classes[cls] = 1
+                row_truth += f"""<span style="background-color:{color};border-radius: 3px;padding: 0px 2px;" class="{cls}">"""+token_by_id[token]+"</span>"
             else:
                 row_truth += token_by_id[token]
 
@@ -70,7 +80,14 @@ def get_compared(parsed_doc, parsed_preds):
                 mention = mention_by_token[token]
                 if mention in color_by_mention_prediction:
                     color = color_by_mention_prediction[mention]
-                    row_predictions += f"""<span style="background-color:{color}">"""+token_by_id[token]+"</span>"
+                    color_id = len(preds_color_ids)
+                    if color in preds_color_ids:
+                        color_id = preds_color_ids[color]
+                    else:
+                        preds_color_ids[color] = color_id
+                    cls = f"""{doc_id}-pr-c-{color_id}"""
+                    unique_classes[cls] = 1
+                    row_predictions += f"""<span style="background-color:{color};border-radius: 3px;padding: 0px 2px;" class="{cls}">"""+token_by_id[token]+"</span>"
             else:
                 row_predictions += token_by_id[token]
 
@@ -83,6 +100,30 @@ def get_compared(parsed_doc, parsed_preds):
         <div style="width:10%;"></div>
         <div style="width:45%;"><h3>Model predictions</h3>{predictions}</div>
     </div>
+    <script>
+        var allClassNames =  [{', '.join('"{0}"'.format(c) for c in unique_classes.keys())}];
+
+        allClassNames.forEach(function(clsName) {{
+            allClasses = document.getElementsByClassName(clsName);
+            
+            for (var i = 0; i < allClasses.length; i++) {{
+                cls = allClasses[i];
+                cls.addEventListener("mouseenter", (e) => {{
+                    var bgColor = $('.'+clsName).css( 'background-color');
+                    $('.'+clsName).attr('data-color', bgColor);
+                    $('.'+clsName).css( 'background-color', 'black');
+                    $('.'+clsName).css( 'color', 'white');
+                }});
+
+                cls.addEventListener("mouseleave", (e) => {{
+                    var bgColor = $('.'+clsName).attr('data-color')
+                    $('.'+clsName).css( 'background-color', bgColor);
+                    $('.'+clsName).css( 'color', 'initial');
+                }});
+            }}
+        }})
+        
+    </script>
     """
 
 
@@ -124,7 +165,7 @@ def get_document_predictions(test_preds_file):
         parsed_doc = parse_document(document)
         parsed_preds = parse_predictions(clusters)
 
-        text = get_compared(parsed_doc, parsed_preds)
+        text = get_compared(parsed_doc, parsed_preds, i)
 
         tab_id = "id" + str(i)
         ul_elements += f"""<li class="nav-item"><a class="nav-link" href="#{tab_id}" data-toggle="tab">{document}</a></li>"""
@@ -180,12 +221,11 @@ def write_footer(visual_path):
 
 
 def write_header(visual_path):
-    css_file_path = os.path.join(current_directory, 'visualization', 'bootstrap.min.css')
     header = f"""
         <html>
             <head>
                 <title>Visualization report</title>
-                <link rel="stylesheet" type="text/css" href="file:///{css_file_path}">
+                <link rel="stylesheet" type="text/css" href="https://bootswatch.com/4/litera/bootstrap.min.css">
                 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
                 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
                 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
