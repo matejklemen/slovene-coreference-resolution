@@ -421,6 +421,13 @@ class BaselineModel:
         if len(curr_doc.mentions) == 0:
             return [], (0.0, 0)
 
+        cluster_sets = []
+        mention_to_cluster_id = {}
+        for i, curr_cluster in enumerate(curr_doc.clusters):
+            cluster_sets.append(set(curr_cluster))
+            for mid in curr_cluster:
+                mention_to_cluster_id[mid] = i
+
         logging.debug(f"**Sorting mentions...**")
         sorted_mentions = sorted(curr_doc.mentions.items(), key=lambda tup: (tup[1].positions[0][0],  # sentence
                                                                              tup[1].positions[0][1],  # start pos
@@ -433,15 +440,15 @@ class BaselineModel:
             logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
             self.model.zero_grad()
 
-            gt_antecedent_id = curr_doc.mapped_clusters[head_id]
+            gt_antecedent_ids = cluster_sets[mention_to_cluster_id[head_id]]
 
             # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
             candidates, features = [None], []
-            gt_antecedent = torch.tensor([0])
+            gt_antecedents = []
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(sorted_mentions, 1):
-                if cand_id == gt_antecedent_id:
-                    gt_antecedent[:] = idx_candidate
+                if cand_id != head_id and cand_id in gt_antecedent_ids:
+                    gt_antecedents.append(idx_candidate)
 
                 # Obtain scores for candidates and select best one as antecedent
                 if idx_candidate == idx_head:
@@ -451,14 +458,19 @@ class BaselineModel:
                         cand_scores = self.model(features)
 
                         # Concatenates the given sequence of seq tensors in the given dimension
-                        card_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
+                        cand_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
 
-                        cand_scores = torch.softmax(card_scores, dim=-1)
+                        # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
+                        if len(gt_antecedents) == 0:
+                            gt_antecedents.append(0)
 
                         # Get index of max value. That index equals to mention at that place
                         curr_pred = torch.argmax(cand_scores)
 
-                        curr_loss = self.loss(cand_scores, gt_antecedent)
+                        # (average) loss over all ground truth antecedents
+                        curr_loss = self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
+                                              torch.tensor(gt_antecedents))
+
                         doc_loss += float(curr_loss)
 
                         n_examples += 1
