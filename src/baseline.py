@@ -139,6 +139,9 @@ class MentionFeatures:
     def _extract_category(self, msd_string):
         return msd_string[0]
 
+    def raw_text(self):
+        return " ".join(self.mention.raw)
+
 
 class MentionPairFeatures:
 
@@ -166,9 +169,13 @@ class MentionPairFeatures:
             *MentionPairFeatures.is_same_gender(head_features, cand_features),  # 3 features
             *MentionPairFeatures.is_same_number(head_features, cand_features),  # 3 features
 
-            MentionPairFeatures.is_appositive(head_features, cand_features, document),
+            MentionPairFeatures.is_prefix(head_features, cand_features),
+            MentionPairFeatures.is_suffix(head_features, cand_features),
+
+
+            # MentionPairFeatures.is_appositive(head_features, cand_features, document),
             # FeatureMentionPair.is_alias(head_features, cand_features),
-            MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_cand)
+            # MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_cand)
         ]
 
         # add features for mention pair, constructed above, to cache
@@ -176,7 +183,6 @@ class MentionPairFeatures:
         return pair_features
 
     # TODO Martin: Standardize function inputs ??
-
     # !! Note
     # this_feats == head_features
     # other_feats == cand_features
@@ -194,7 +200,7 @@ class MentionPairFeatures:
     @staticmethod
     def in_same_sentence(this_feats, other_feats):
         """
-        True:  If mentions this and other in the same sentence
+        True:  If mentions this and other are in the same sentence
         False: otherwise
         """
         return int(this_feats.idx_sent == other_feats.idx_sent)
@@ -282,22 +288,24 @@ class MentionPairFeatures:
         return int(False)
 
     @staticmethod
-    def is_prefix():
+    def is_prefix(this_feats, other_feats):
         """
         True:  if other mention is prefix of this mention
         False: otherwise
         """
-        # TODO: implement
-        return 0
+        if this_feats.raw_text().startswith(other_feats.raw_text()):
+            return int(True)
+        return int(False)
 
     @staticmethod
-    def is_suffix():
+    def is_suffix(this_feats, other_feats):
         """
-        True:  if other mention is prefix of this mention
+        True:  if this mention is suffix of other mention
         False: otherwise
         """
-        # TODO: implement
-        return 0
+        if this_feats.raw_text().endswith(other_feats.raw_text()):
+            return int(True)
+        return int(False)
 
     @staticmethod
     def jaro_winkler_dist():
