@@ -1,5 +1,6 @@
 import logging
 import os
+import sys
 import time
 from collections import Counter
 
@@ -14,10 +15,23 @@ from data import DATA_DIR, SSJ_PATH, read_corpus
 from utils import get_clusters
 from visualization import build_and_display
 
+
+def init_logging():
+    log = logging.getLogger()
+    log.setLevel(logging.DEBUG)
+    # standard output (console) handler, prints INFO and higher priority messages
+    handler = logging.StreamHandler(sys.stdout)
+    handler.setLevel(logging.INFO)
+    log.addHandler(handler)
+    return log
+
+
+LOG_INTO_FILE = True  # slows down a bit. set to false if problematic
+logger = init_logging()
+
 #####################
 # GLOBAL PARAMETERS
 #####################
-logging.basicConfig(level=logging.INFO)
 
 NUM_FEATURES = 14  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
 NUM_EPOCHS = 100
@@ -342,9 +356,11 @@ class MentionPairFeatures:
 class BaselineModel:
     name: str
 
-    path_model_dir: str
-    path_model_metadata: str
-    path_test_preds: str
+    path_model_dir: str  # model directory
+    path_metadata: str  # metadata of the model (global parameters, etc.)
+    path_pred_clusters: str  # predictions made on test set
+    path_pred_scores: str  # scores of predictions
+    path_log: str  # complete log output of the run
 
     model: nn.Linear
     model_optimizer: optim.SGD
@@ -361,15 +377,18 @@ class BaselineModel:
         if self.name is None:
             self.name = time.strftime("%Y%m9%d_%H%M%S")
 
+        # Init all file paths
         self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
-        self.path_model_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
-        self.path_test_preds = os.path.join(self.path_model_dir, "test_preds.txt")
+        self.path_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
+        self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
+        self.path_pred_scores = os.path.join(self.path_model_dir, "pred_scores.txt")
+        self.path_log = os.path.join(self.path_model_dir, "log.txt")
 
         out_features = 1
         self.model = nn.Linear(in_features=in_features, out_features=out_features)
         self.model_optimizer = optim.SGD(self.model.parameters(), lr=LEARNING_RATE)
         self.loss = nn.CrossEntropyLoss()
-        logging.debug("Initialized new baseline model")
+        logging.debug(f"Initialized baseline model with name {self.name}.")
         self._prepare()
 
     def train(self, epochs, train_docs, dev_docs):
@@ -420,12 +439,13 @@ class BaselineModel:
         logging.info(f"Training took {time.time() - t_start:.2f}s")
 
         # Add model train scores to model metadata
-        if MODELS_SAVE_DIR:
-            with open(self.path_model_metadata, "a") as f:
-                print("", file=f)
-                print("Train model scores:", file=f)
-                print(f"Best validation set loss: {best_dev_loss}", file=f)
-            logging.info(f"Saved best validation score to {self.path_model_metadata}")
+        with open(self.path_metadata, "a", encoding="utf-8") as f:
+            f.writelines([
+                "\n",
+                "Train model scores:\n",
+                f"Best validation set loss: {best_dev_loss}\n",
+            ])
+        logging.info(f"Saved best validation score to {self.path_metadata}")
 
     def evaluate(self, test_docs):
         ####################################
@@ -445,9 +465,9 @@ class BaselineModel:
         # CEAF applies a similarity metric (either mention based or entity based) for each pair of entities
         # (i.e. a set of mentions) to measure the goodness of each possible alignment.
         # The best mapping is used for calculating CEAF precision, recall and F-measure
-        mucScore = metrics.Score()
-        b3Score = metrics.Score()
-        ceafScore = metrics.Score()
+        muc_score = metrics.Score()
+        b3_score = metrics.Score()
+        ceaf_score = metrics.Score()
 
         logging.info("Evaluation with MUC, BCube and CEAF score...")
         for curr_doc in test_docs:
@@ -474,33 +494,39 @@ class BaselineModel:
                     pr_clusters[pr_clst] = set()
                 pr_clusters[pr_clst].add(pr_ment)
 
-            mucScore.add(metrics.muc(gt_clusters, pr_clusters))
-            b3Score.add(metrics.b_cubed(gt_clusters, pr_clusters))
-            ceafScore.add(metrics.ceaf_e(gt_clusters, pr_clusters))
+            muc_score.add(metrics.muc(gt_clusters, pr_clusters))
+            b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
+            ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
 
         logging.info(f"----------------------------------------------")
         logging.info(f"**Test scores**")
-        logging.info(f"**MUC:    {mucScore}**")
-        logging.info(f"**BCubed: {b3Score}**")
-        logging.info(f"**CEAFe:   {ceafScore}**")
+        logging.info(f"**MUC:      {muc_score}**")
+        logging.info(f"**BCubed:   {b3_score}**")
+        logging.info(f"**CEAFe:    {ceaf_score}**")
+        logging.info(f"**CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}**")
         logging.info(f"----------------------------------------------")
 
         if MODELS_SAVE_DIR:
             # Save test predictions and scores to file for further debugging
-            with open(self.path_test_preds, "w") as f:
-                print(f"Test scores:", file=f)
-                print(f"**MUC:    {mucScore}**", file=f)
-                print(f"**BCubed: {b3Score}**", file=f)
-                print(f"**CEAFe:  {ceafScore}**", file=f)
-
-                print("Predictions", file=f)
+            with open(self.path_pred_scores, "w", encoding="utf-8") as f:
+                f.writelines([
+                    f"Test scores:\n",
+                    f"MUC:      {muc_score}\n",
+                    f"BCubed:   {b3_score}\n",
+                    f"CEAFe:    {ceaf_score}\n",
+                    f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
+                ])
+            with open(self.path_pred_clusters, "w", encoding="utf-8") as f:
+                f.writelines(["Predictions:\n"])
                 for doc_id, clusters in all_test_preds.items():
-                    print(f"Document '{doc_id}':", file=f)
-                    print(clusters, file=f)
+                    f.writelines([
+                        f"Document '{doc_id}':\n",
+                        str(clusters), "\n"
+                    ])
 
             # Build and display visualization
             if VISUALIZATION_GENERATE:
-                build_and_display(self.path_test_preds, self.path_model_dir, VISUALIZATION_OPEN_WHEN_DONE)
+                build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir, VISUALIZATION_OPEN_WHEN_DONE)
 
         pass
 
@@ -511,27 +537,33 @@ class BaselineModel:
         """
         self.loaded_from_file = False
         # Prepare directory for saving model for this run
-        if MODELS_SAVE_DIR and not os.path.exists(self.path_model_dir):
+        if not os.path.exists(self.path_model_dir):
             os.makedirs(self.path_model_dir)
-            logging.info(f"Created directory '{self.path_model_dir}' for saving model")
+
+            if LOG_INTO_FILE:
+                # All logs will also be written to a file
+                open(self.path_log, "w", encoding="utf-8").close()
+                logger.addHandler(logging.FileHandler(self.path_log, encoding="utf-8"))
+
+            logging.info(f"Created directory '{self.path_model_dir}' for model files.")
 
             # Save metadata for this run
-            if MODELS_SAVE_DIR:
-                with open(self.path_model_metadata, "w") as f:
-                    print("Train model features:", file=f)
-                    print(f"NUM_FEATURES:  {NUM_FEATURES}", file=f)
-                    print(f"NUM_EPOCHS:    {NUM_EPOCHS}", file=f)
-                    print(f"LEARNING_RATE: {LEARNING_RATE}", file=f)
-                    print(f"RANDOM_SEED:   {RANDOM_SEED}", file=f)
-                    print("", file=f)
-
+            with open(self.path_metadata, "a") as f:
+                f.writelines([
+                    "Train model features:\n",
+                    f"NUM_FEATURES:  {NUM_FEATURES}\n",
+                    f"NUM_EPOCHS:    {NUM_EPOCHS}\n",
+                    f"LEARNING_RATE: {LEARNING_RATE}\n",
+                    f"RANDOM_SEED:   {RANDOM_SEED}\n",
+                    "\n",
+                ])
         else:
-            logging.info(f"Directory '{self.path_model_dir}' already exists")
+            logging.info(f"Directory '{self.path_model_dir}' already exists.")
             path_to_model = os.path.join(self.path_model_dir, 'best.th')
             if os.path.isfile(path_to_model):
                 logging.info(f"Model with name '{self.name}' already exists. Loading model...")
                 self.model.load_state_dict(torch.load(path_to_model))
-                logging.info(f"Model with name '{self.name}' loaded")
+                logging.info(f"Model with name '{self.name}' loaded.")
                 self.loaded_from_file = True
         pass
 
@@ -631,25 +663,31 @@ def split_into_sets(documents):
     documents = np.array(documents)
     train_docs, dev_docs, test_docs = documents[train_idx], documents[dev_idx], documents[test_idx]
 
-    logging.info(f"**{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
-                 f"and test set ({len(test_docs)})**")
+    logging.info(f"{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
+                 f"and test set ({len(test_docs)}).")
 
     return train_docs, dev_docs, test_docs
 
 
 if __name__ == "__main__":
+    if not MODELS_SAVE_DIR or MODELS_SAVE_DIR == "":
+        print("You should define MODELS_SAVE_DIR global parameter.", file=sys.stderr)
+        exit(-1)
+
     # Prepare directory for saving trained models
     if MODELS_SAVE_DIR and not os.path.exists(MODELS_SAVE_DIR):
         os.makedirs(MODELS_SAVE_DIR)
-        logging.info(f"**Created directory '{MODELS_SAVE_DIR}' for saving models**")
-
-    # Read corpus. Documents will be of type 'Document'
-    documents = read_corpus(DATA_DIR, SSJ_PATH)
-    train_docs, dev_docs, test_docs = split_into_sets(documents)
+        logging.info(f"Created directory '{MODELS_SAVE_DIR}' for saving models.")
 
     # if you'd like to reuse a model, give it a name, i.e.
     # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
     baseline = BaselineModel(NUM_FEATURES)
+
+    # Note: model should be initialized first as it also adds a logging handler to store logs into a file
+
+    # Read corpus. Documents will be of type 'Document'
+    documents = read_corpus(DATA_DIR, SSJ_PATH)
+    train_docs, dev_docs, test_docs = split_into_sets(documents)
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded

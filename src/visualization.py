@@ -144,7 +144,8 @@ def get_document_predictions(test_preds_file):
     document_content = ""
 
     with open(test_preds_file) as f:
-        predictions = f.readlines()[5:]
+        # skip 1st line
+        predictions = f.readlines()[1:]
 
     for i in range(0, len(predictions), 2):
         doc_line = predictions[i]
@@ -186,12 +187,12 @@ def get_document_predictions(test_preds_file):
     return predictions
 
 
-def get_test_scores(test_preds_file):
-    # Read first 4 lines from test file
-    with open(test_preds_file) as f:
-        test_scores_txt = [f.readline() for x in range(4)]
+def get_test_scores(pred_scores_file):
+    # Read lines from pred_scores file
+    with open(pred_scores_file) as f:
+        scores_txt = f.readlines()
 
-    test_scores_txt = "<br>".join(test_scores_txt)
+    test_scores_txt = "<br>".join(scores_txt)
     return f"""
         <div style="margin:20px">
             {test_scores_txt}
@@ -199,9 +200,9 @@ def get_test_scores(test_preds_file):
     """
 
 
-def write_body(visual_path, test_preds_file):
-    test_scores = get_test_scores(test_preds_file)
-    document_predictions = get_document_predictions(test_preds_file)
+def write_body(visual_path, pred_clusters_file, pred_scores_file):
+    test_scores = get_test_scores(pred_scores_file)
+    document_predictions = get_document_predictions(pred_clusters_file)
 
     body = f"""
         <body>
@@ -245,7 +246,7 @@ def write_header(visual_path):
         f.write(header)
 
 
-def build_visualization(test_preds_file, save_dir):
+def build_visualization(pred_clusters_file, pred_scores_file, save_dir):
     # Set visualization file path
     visual_path = os.path.join(save_dir, VISUAL_FILE_NAME)
 
@@ -254,7 +255,7 @@ def build_visualization(test_preds_file, save_dir):
 
     # Write all parts of visualization
     write_header(visual_path)
-    write_body(visual_path, test_preds_file)
+    write_body(visual_path, pred_clusters_file, pred_scores_file)
     write_footer(visual_path)
 
     return visual_path
@@ -265,16 +266,18 @@ def display_visualization(url):
     webbrowser.open("file://"+url, new=2)
 
 
-def build_and_display(test_preds_file, save_dir, display):
+def build_and_display(pred_clusters_file, pred_scores_file, save_dir, display):
     """
     Will build, save and display visualization in browser
-    :param test_preds_file: absolute path to test files
+    :param pred_clusters_file: absolute path to test files
+    :param pred_scores_file: absolute path to test files
     :param save_dir: absolute path to directory to save visualization
     :param display: will only generate visualization if set to false
     """
-    test_preds_file = os.path.join(current_directory, test_preds_file)
+    pred_clusters_file = os.path.join(current_directory, pred_clusters_file)
+    pred_scores_file = os.path.join(current_directory, pred_scores_file)
     save_dir = os.path.join(current_directory, save_dir)
-    visual_path = build_visualization(test_preds_file, save_dir)
+    visual_path = build_visualization(pred_clusters_file, pred_scores_file, save_dir)
 
     if display:
         display_visualization(visual_path)

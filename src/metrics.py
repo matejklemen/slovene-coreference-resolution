@@ -32,6 +32,15 @@ class Score:
         return f"prec={self.precision():.3f}, rec={self.recall():.3f}, f1={self.f1():.3f}"
 
 
+def conll_12(muc_score, b_cubed_score, ceaf_e_score):
+    # CoNLL-12 metric is an average of MUC, B3 and CEAF metric.
+    s = Score()
+    s.add((muc_score.precision(), muc_score.recall(), muc_score.f1()))
+    s.add((b_cubed_score.precision(), b_cubed_score.recall(), b_cubed_score.f1()))
+    s.add((ceaf_e_score.precision(), ceaf_e_score.recall(), ceaf_e_score.f1()))
+    return s
+
+
 def muc(gold, resp):
     return metrics._prf(*metrics.muc(gold, resp))
 
