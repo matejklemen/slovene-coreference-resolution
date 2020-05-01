@@ -11,7 +11,7 @@ import torch.optim as optim
 from pyjarowinkler import distance as jwdistance
 
 import metrics
-from data import DATA_DIR, SSJ_PATH, read_corpus
+from data import read_corpus
 from utils import get_clusters
 from visualization import build_and_display
 
@@ -38,7 +38,7 @@ NUM_EPOCHS = 100
 LEARNING_RATE = 0.005
 
 # affects shuffle of documents for training/dev/test set and initial parameters for model
-RANDOM_SEED = np.random.default_rng().integers(2**32 - 1)
+RANDOM_SEED = 13
 np.random.seed(RANDOM_SEED)
 torch.random.manual_seed(RANDOM_SEED)
 
@@ -686,7 +686,7 @@ if __name__ == "__main__":
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
 
     # Read corpus. Documents will be of type 'Document'
-    documents = read_corpus(DATA_DIR, SSJ_PATH)
+    documents = read_corpus("coref149")
     train_docs, dev_docs, test_docs = split_into_sets(documents)
 
     if not baseline.loaded_from_file:

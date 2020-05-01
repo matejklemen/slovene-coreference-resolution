@@ -12,7 +12,8 @@ DUMMY_ANTECEDENT = None
 #####################
 # Path "./data/*" assumes you are running from root folder, i.e. (python /src/baseline.py)
 # Use path "../data/*" if you are running from src folder, i.e. (cd src) and then (python baseline.py)
-DATA_DIR = "../data/coref149"
+COREF149_DIR = "../data/coref149"
+SENTICOREF_DIR = "../data/senticoref1_0"
 SSJ_PATH = "../data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml"
 
 
@@ -256,21 +257,31 @@ class Document:
         return f"Document('{self.doc_id}', {len(self.id_to_tok)} tokens)"
 
 
-def read_corpus(corpus_dir, ssj_path):
-    logging.info(f"**Reading data from '{ssj_path}'**")
-    with open(ssj_path, encoding="utf8") as ssj:
-        content = ssj.readlines()
-        content = "".join(content)
-        ssj_soup = BeautifulSoup(content, "lxml")
+def read_corpus(name):
+    SUPPORTED_DATASETS = {"coref149", "senticoref"}
+    if name not in SUPPORTED_DATASETS:
+        raise ValueError(f"Unsupported dataset (must be one of {SUPPORTED_DATASETS})")
 
-    doc_to_soup = {}
-    for curr_soup in ssj_soup.findAll("p"):
-        doc_to_soup[curr_soup["xml:id"]] = curr_soup
+    if name == "coref149":
+        with open(SSJ_PATH, encoding="utf8") as ssj:
+            content = ssj.readlines()
+            content = "".join(content)
+            ssj_soup = BeautifulSoup(content, "lxml")
 
-    doc_ids = [f[:-4] for f in os.listdir(corpus_dir)
-               if os.path.isfile(os.path.join(corpus_dir, f)) and f.endswith(".tcf")]
-    return [Document.read(os.path.join(corpus_dir, f"{curr_id}.tcf"), doc_to_soup[curr_id]) for curr_id in doc_ids]
+        doc_to_soup = {}
+        for curr_soup in ssj_soup.findAll("p"):
+            doc_to_soup[curr_soup["xml:id"]] = curr_soup
+
+        doc_ids = [f[:-4] for f in os.listdir(COREF149_DIR)
+                   if os.path.isfile(os.path.join(COREF149_DIR, f)) and f.endswith(".tcf")]
+        return [Document.read(os.path.join(COREF149_DIR, f"{curr_id}.tcf"), doc_to_soup[curr_id]) for curr_id in doc_ids]
+    else:
+        doc_ids = [f[:-4] for f in os.listdir(SENTICOREF_DIR)
+                   if os.path.isfile(os.path.join(SENTICOREF_DIR, f)) and f.endswith(".tsv")]
+
+        return [SentiCorefDocument.read(os.path.join(SENTICOREF_DIR, f"{curr_id}.tsv")) for curr_id in doc_ids]
 
 
 if __name__ == "__main__":
-    documents = read_corpus(DATA_DIR, SSJ_PATH)
+    documents = read_corpus("coref149")
+    print(len(documents))
