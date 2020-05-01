@@ -1,6 +1,7 @@
-import xml.etree.ElementTree as ET
 import os
 import logging
+import csv
+import pandas as pd
 
 from bs4 import BeautifulSoup
 
@@ -101,6 +102,82 @@ class Mention:
         return f"Mention(\"{' '.join(self.raw)}\")"
 
 
+class SentiCorefDocument:
+    def __init__(self, doc_id, tokens, sentences, mentions, clusters, tok_to_position=None):
+        self.doc_id = doc_id  # type: str
+        self.id_to_tok = tokens  # type: dict
+        self.sents = sentences  # type: list
+        self.mentions = mentions  # type: dict
+        self.clusters = clusters  # type: list
+        self.mapped_clusters = _coreference_chain(self.clusters)
+
+        self.tok_to_positon = tok_to_position
+
+    @staticmethod
+    def read(file_path):
+        # Temporary cluster representation:
+        # {cluster1 index: { mention1_idx: ['mention1', 'tokens'], mention2_idx: [...] }, cluster2_idx: {...} }
+        _clusters = {}
+        # Temporary buffer for current sentence
+        _curr_sent = []
+
+        sents = []
+        id_to_tok = {}
+        tok_to_position = {}
+        idx_sent, idx_inside_sent = 0, 0
+        mentions, clusters = {}, []
+
+        doc_id = file_path.split(os.path.sep)[-1][:-4]  # = file name without ".tsv"
+        # Note: `quoting=csv.QUOTE_NONE` is required as otherwise some documents can't be read
+        curr_annotations = pd.read_table(file_path, comment="#", sep="\t", index_col=False, quoting=csv.QUOTE_NONE,
+                                         names=["token_index", "start_end", "token", "NamedEntity", "Polarity",
+                                                "referenceRelation", "referenceType"])
+
+        for tok_id, ref_info, token in curr_annotations[["token_index", "referenceRelation", "token"]].values:
+            # Token is part of some mention
+            if ref_info != "_":
+                # Token can be part of multiple mentions
+                ref_annotations = ref_info.split("|")
+
+                for mention_info in ref_annotations:
+                    cluster_idx, mention_idx = list(map(int, mention_info[3:].split("-")))  # skip "*->"
+
+                    curr_mentions = _clusters.get(cluster_idx, {})
+                    curr_mention_tok_ids = curr_mentions.get(mention_idx, [])
+                    curr_mention_tok_ids.append(tok_id)
+                    curr_mentions[mention_idx] = curr_mention_tok_ids
+
+                    _clusters[cluster_idx] = curr_mentions
+
+            _curr_sent.append(tok_id)
+            tok_to_position[tok_id] = [idx_sent, idx_inside_sent]
+            id_to_tok[tok_id] = token
+            idx_inside_sent += 1
+
+            # Segment sentences heuristically
+            if token in {".", "!", "?"}:
+                idx_sent += 1
+                idx_inside_sent = 0
+                sents.append(_curr_sent)
+                _curr_sent = []
+
+        mention_counter = 0
+        for idx_cluster, curr_mentions in _clusters.items():
+            curr_cluster = []
+            for idx_mention, mention_tok_ids in curr_mentions.items():
+                # assign coref149-style IDs to mentions
+                mention_id = f"rc_{mention_counter}"
+                mention_tokens = list(map(lambda tok_id: id_to_tok[tok_id], mention_tok_ids))
+                mention_positions = list(map(lambda tok_id: tok_to_position[tok_id], mention_tok_ids))
+                mentions[mention_id] = Mention(mention_id, mention_tokens, mention_tok_ids, mention_positions)
+
+                curr_cluster.append(mention_id)
+                mention_counter += 1
+            clusters.append(curr_cluster)
+
+        return SentiCorefDocument(doc_id, id_to_tok, sents, mentions, clusters, tok_to_position)
+
+
 class Document:
     def __init__(self, doc_id, tokens, sentences, mentions, clusters, ssj_doc=None, tok_to_position=None):
         self.doc_id = doc_id  # type: str
@@ -120,7 +197,7 @@ class Document:
             content = "".join(content)
             soup = BeautifulSoup(content, "lxml").find("tc:textcorpus")
 
-        doc_id = file_path.split("/")[-1][:-4]  # = file name without ".tcf"
+        doc_id = file_path.split(os.path.sep)[-1][:-4]  # = file name without ".tcf"
 
         # Read data as defined in coref149
         tokens = _read_tokens(soup)
