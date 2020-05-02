@@ -130,9 +130,10 @@ class SentiCorefDocument:
 
         doc_id = file_path.split(os.path.sep)[-1][:-4]  # = file name without ".tsv"
         # Note: `quoting=csv.QUOTE_NONE` is required as otherwise some documents can't be read
+        # Note: `keep_default_na=False` is required as there's a typo in corpus ("NA"), interpreted as <missing>
         curr_annotations = pd.read_table(file_path, comment="#", sep="\t", index_col=False, quoting=csv.QUOTE_NONE,
                                          names=["token_index", "start_end", "token", "NamedEntity", "Polarity",
-                                                "referenceRelation", "referenceType"])
+                                                "referenceRelation", "referenceType"], keep_default_na=False)
 
         for tok_id, ref_info, token in curr_annotations[["token_index", "referenceRelation", "token"]].values:
             # Token is part of some mention
