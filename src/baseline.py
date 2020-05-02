@@ -39,8 +39,9 @@ LEARNING_RATE = 0.005
 
 # affects shuffle of documents for training/dev/test set and initial parameters for model
 RANDOM_SEED = 13
-np.random.seed(RANDOM_SEED)
-torch.random.manual_seed(RANDOM_SEED)
+if RANDOM_SEED:
+    np.random.seed(RANDOM_SEED)
+    torch.random.manual_seed(RANDOM_SEED)
 
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
