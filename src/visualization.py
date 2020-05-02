@@ -3,7 +3,7 @@ import webbrowser
 import os
 import ast
 from bs4 import BeautifulSoup
-from data import DATA_DIR
+from data import COREF149_DIR
 
 VISUAL_FILE_NAME = 'visualization.html'
 current_directory = os.getcwd()
@@ -128,7 +128,7 @@ def get_compared(parsed_doc, parsed_preds, doc_id):
 
 
 def parse_document(document_name):
-    file_path = os.path.join(DATA_DIR, document_name+".tcf")
+    file_path = os.path.join(COREF149_DIR, document_name+".tcf")
     with open(file_path, encoding="utf8") as f:
         content = f.readlines()
         content = "".join(content)
@@ -138,6 +138,7 @@ def parse_document(document_name):
 
 def parse_predictions(clusters):
     return ast.literal_eval(clusters)
+
 
 def get_document_predictions(test_preds_file):
     ul_elements = ""
