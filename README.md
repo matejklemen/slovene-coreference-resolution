@@ -22,7 +22,8 @@ NOTE: if you have problems with `torch` library, make sure you have python x64 i
 
 The project operates with the following datasets: 
 - [SSJ500k](https://www.clarin.si/repository/xmlui/handle/11356/1210) (`-sl.TEI` version), 
-- [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182).
+- [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182)
+- [sentiCoref 1.0](https://www.clarin.si/repository/xmlui/handle/11356/1285).
 
 Download and extract them into `data/` folder. After that, your data folder should look like this:
 ```
@@ -36,6 +37,10 @@ data/
     +-- ssj4.15.tcf
     +-- ssj5.30.tcf
     +-- ... (list of .tcf files)
++-- sentiCoref
+    +-- 1.tsv
+    +-- 2.tsv
+    +-- ... (list of .tsv files)
 ```
 
 Coref149 is the main dataset we use, while the other one is used for additional metadata such as dependencies 
