@@ -11,5 +11,5 @@ venv-onj
 
 # Data folder, keep it empty
 /data/*
-!/data/.empty
+!/data/README.md
 !/data/senticoref_pos_stanza
