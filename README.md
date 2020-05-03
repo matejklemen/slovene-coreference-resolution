@@ -23,7 +23,7 @@ NOTE: if you have problems with `torch` library, make sure you have python x64 i
 The project operates with the following datasets: 
 - [SSJ500k](https://www.clarin.si/repository/xmlui/handle/11356/1210) (`-sl.TEI` version), 
 - [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182)
-- [sentiCoref 1.0](https://www.clarin.si/repository/xmlui/handle/11356/1285).
+- [sentiCoref 1.0](https://www.clarin.si/repository/xmlui/handle/11356/1285) ([WebAnno TSV 3.2 File format docs](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/WebAnno%20(GitHub)%20(master)/de.tudarmstadt.ukp.clarin.webanno$webanno-webapp/doclinks/1/#sect_webannotsv)).
 
 Download and extract them into `data/` folder. After that, your data folder should look like this:
 ```
@@ -43,7 +43,7 @@ data/
     +-- ... (list of .tsv files)
 ```
 
-Coref149 is the main dataset we use, while the other one is used for additional metadata such as dependencies 
+Coref149 and sentiCoref are the main dataset we use, while the other one is used for additional metadata such as dependencies 
 and POS tags.
 
 Since only a subset of SSJ500k is used, it can be trimmed to decrease its size and improve loading time. 
