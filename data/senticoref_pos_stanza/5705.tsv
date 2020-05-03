@@ -1,211 +1,223 @@
-token	tag
-Nikoli	Rgp
-nisem	Va-r1s-y
-slišal	Vmbp-sm
-,	Z
-da	Cs
-moramo	Vmpr1p
-priznati	Vmen
-neodvisnost	Ncfsa
-Kosova	Npnsg
-,	Z
-preden	Cs
-bomo	Va-f1p-n
-vstopili	Vmep-pm
-v	Sa
-EU	Npfsa
-,	Z
-je	Va-r3s-n
-med	Si
-obiskom	Ncmsi
-Rusije	Npfsg
-dejal	Vmep-sm
-novi	Agpmsny
-srbski	Agpmsny
-predsednik	Ncmsn
-Tomislav	Npmsn
-Nikolić	Npmsn
-Novoizvoljeni	Agpmsny
-srbski	Agpmsny
-predsednik	Ncmsn
-Tomislav	Npmsn
-Nikolić	Npmsn
-je	Va-r3s-n
-danes	Rgp
-v	Sl
-Moskvi	Npfsl
-dejal	Vmep-sm
-,	Z
-da	Cs
-Srbija	Npfsn
-nima	Vmpr3s-y
-namena	Ncmsg
-priznati	Vmen
-neodvisnosti	Ncfsg
-Kosova	Npnsg
-.	Z
-"	Z
-Tega	Pd-nsg
-ne	Q
-moremo	Vmpr1p
-storiti	Vmen
-,	Z
-tudi	Q
-če	Cs
-bi	Va-c
-morali	Vmpp-pm
-zaradi	Sg
-tega	Pd-nsg
-prekiniti	Vmen
-pogajanja	Ncnpa
-z	Si
-EU	Npfsi
-,	Z
-"	Z
-je	Va-r3s-n
-izjavil	Vmep-sm
-Nikolić	Npmsn
-na	Sl
-srečanju	Ncnsl
-z	Si
-ruskim	Agpmsi
-predsednikom	Ncmsi
-Vladimirjem	Npmsi
-Putinom	Npmsi
-.	Z
-"	Z
-Nikoli	Rgp
-nisem	Va-r1s-y
-slišal	Vmbp-sm
-,	Z
-da	Cs
-moramo	Vmpr1p
-priznati	Vmen
-neodvisnost	Ncfsa
-Kosova	Npnsg
-,	Z
-preden	Cs
-bomo	Va-f1p-n
-vstopili	Vmep-pm
-v	Sa
-EU	Npfsa
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-presenetljivi	Agpmsny
-zmagovalec	Ncmsn
-nedavnih	Agpfpg
-predsedniških	Agpfpg
-volitev	Ncfpg
-v	Sl
-Srbiji	Npfsl
-.	Z
-Obenem	Rgp
-je	Va-r3s-n
-izključil	Vmep-sm
-možnost	Ncfsa
-ponovnega	Agpmsg
-izbruha	Ncmsg
-sovražnosti	Ncfsg
-,	Z
-saj	Cc
-da	Cs
-"	Z
-smo	Va-r1p-n
-imeli	Vmpp-pm
-dovolj	Rgp
-vojn	Ncfpg
-"	Z
-.	Z
-Nikolić	Npmsn
-prejel	Vmep-sm
-podporo	Ncfsa
-Putina	Npmsg
-glede	Sg
-Kosova	Npnsg
-Putin	Npmsn
-je	Va-r3s-n
-Nikoliću	Npmsd
-obljubil	Vmep-sm
-nadaljnjo	Agpfsa
-podporo	Ncfsa
-Srbiji	Npfsd
-glede	Sg
-Kosova	Npnsg
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-je	Va-r3s-n
-Srbiji	Npfsd
-obljubil	Vmep-sm
-posojilo	Ncnsa
-za	Sa
-infrastrukturne	Agpmpa
-projekte	Ncmpa
-v	Sl
-višini	Ncfsl
-več	Rgc
-kot	Cs
-800	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-.	Z
-Nikolić	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-Moskvi	Npfsd
-udeležil	Vmep-sm
-kongresa	Ncmsg
-vladajoče	Appfsg
-stranke	Ncfsg
-Enotna	Agpfsn
-Rusija	Npfsn
-,	Z
-je	Va-r3s-n
-še	Q
-poudaril	Vmep-sm
-,	Z
-da	Cs
-njegov	Ps3msnsm
-cilj	Ncmsn
-ostajajo	Vmpr3p
-pogajanja	Ncnpa
-z	Si
-EU	Npfsi
-o	Sl
-članstvu	Ncnsl
-,	Z
-hkrati	Rgp
-pa	Cc
-ohranjanje	Ncnsa
-tesnih	Agpmpg
-odnosov	Ncmpg
-z	Si
-Rusijo	Npfsi
-.	Z
-"	Z
-Srbija	Npfsn
-je	Va-r3s-n
-na	Sl
-poti	Ncfsl
-v	Sa
-EU	Npfsa
-,	Z
-vendar	Cc
-bo	Va-f3s-n
-to	Pd-nsn
-dolga	Agpfsn
-pot	Ncfsn
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Nikolić	Npmsn
-,	Z
-ki	Cs
-bo	Va-f3s-n
-12	Mdc
-.	Z
+token	tag	lemma
+Nikoli	mte:Rgp	nikoli
+nisem	mte:Va-r1s-y	biti
+slišal	mte:Vmbp-sm	slišati
+,	mte:Z	,
+da	mte:Cs	da
+moramo	mte:Vmpr1p	morati
+priznati	mte:Vmen	priznati
+neodvisnost	mte:Ncfsa	neodvisnost
+Kosova	mte:Npnsg	Kosovo
+,	mte:Z	,
+preden	mte:Cs	preden
+bomo	mte:Va-f1p-n	biti
+vstopili	mte:Vmep-pm	vstopiti
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+obiskom	mte:Ncmsi	obisk
+Rusije	mte:Npfsg	Rusija
+dejal	mte:Vmep-sm	dejati
+novi	mte:Agpmsny	nov
+srbski	mte:Agpmsny	srbski
+predsednik	mte:Ncmsn	predsednik
+Tomislav	mte:Npmsn	Tomislav
+Nikolić	mte:Npmsn	Nikolić
+Novoizvoljeni	mte:Agpmsny	novoizvoljen
+srbski	mte:Agpmsny	srbski
+predsednik	mte:Ncmsn	predsednik
+Tomislav	mte:Npmsn	Tomislav
+Nikolić	mte:Npmsn	Nikolić
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+v	mte:Sl	v
+Moskvi	mte:Npfsl	Moskva
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+Srbija	mte:Npfsn	Srbija
+nima	mte:Vmpr3s-y	imeti
+namena	mte:Ncmsg	namen
+priznati	mte:Vmen	priznati
+neodvisnosti	mte:Ncfsg	neodvisnost
+Kosova	mte:Npnsg	Kosovo
+.	mte:Z	.
+"	mte:Z	"
+Tega	mte:Pd-nsg	ta
+ne	mte:Q	ne
+moremo	mte:Vmpr1p	moči
+storiti	mte:Vmen	storiti
+,	mte:Z	,
+tudi	mte:Q	tudi
+če	mte:Cs	če
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+zaradi	mte:Sg	zaradi
+tega	mte:Pd-nsg	ta
+prekiniti	mte:Vmen	prekiniti
+pogajanja	mte:Ncnpa	pogajanje
+z	mte:Si	z
+EU	mte:Npfsi	EU
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+izjavil	mte:Vmep-sm	izjaviti
+Nikolić	mte:Npmsn	Nikolić
+na	mte:Sl	na
+srečanju	mte:Ncnsl	srečanje
+z	mte:Si	z
+ruskim	mte:Agpmsi	ruski
+predsednikom	mte:Ncmsi	predsednik
+Vladimirjem	mte:Npmsi	Vladimir
+Putinom	mte:Npmsi	Putin
+.	mte:Z	.
+"	mte:Z	"
+Nikoli	mte:Rgp	nikoli
+nisem	mte:Va-r1s-y	biti
+slišal	mte:Vmbp-sm	slišati
+,	mte:Z	,
+da	mte:Cs	da
+moramo	mte:Vmpr1p	morati
+priznati	mte:Vmen	priznati
+neodvisnost	mte:Ncfsa	neodvisnost
+Kosova	mte:Npnsg	Kosovo
+,	mte:Z	,
+preden	mte:Cs	preden
+bomo	mte:Va-f1p-n	biti
+vstopili	mte:Vmep-pm	vstopiti
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+presenetljivi	mte:Agpmsny	presenetljiv
+zmagovalec	mte:Ncmsn	zmagovalec
+nedavnih	mte:Agpfpg	nedaven
+predsedniških	mte:Agpfpg	predsedniški
+volitev	mte:Ncfpg	volitev
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+je	mte:Va-r3s-n	biti
+izključil	mte:Vmep-sm	izključiti
+možnost	mte:Ncfsa	možnost
+ponovnega	mte:Agpmsg	ponoven
+izbruha	mte:Ncmsg	izbruh
+sovražnosti	mte:Ncfsg	sovražnost
+,	mte:Z	,
+saj	mte:Cc	saj
+da	mte:Cs	da
+"	mte:Z	"
+smo	mte:Va-r1p-n	biti
+imeli	mte:Vmpp-pm	imeti
+dovolj	mte:Rgp	dovolj
+vojn	mte:Ncfpg	vojna
+"	mte:Z	"
+.	mte:Z	.
+Nikolić	mte:Npmsn	Nikolić
+prejel	mte:Vmep-sm	prejeti
+podporo	mte:Ncfsa	podpora
+Putina	mte:Npmsg	Putina
+glede	mte:Sg	glede
+Kosova	mte:Npnsg	Kosovo
+Putin	mte:Npmsn	Putin
+je	mte:Va-r3s-n	biti
+Nikoliću	mte:Npmsd	Nikolić
+obljubil	mte:Vmep-sm	obljubiti
+nadaljnjo	mte:Agpfsa	nadaljnji
+podporo	mte:Ncfsa	podpora
+Srbiji	mte:Npfsd	Srbija
+glede	mte:Sg	glede
+Kosova	mte:Npnsg	Kosovo
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+Srbiji	mte:Npfsd	Srbija
+obljubil	mte:Vmep-sm	obljubiti
+posojilo	mte:Ncnsa	posojilo
+za	mte:Sa	za
+infrastrukturne	mte:Agpmpa	infrastrukturen
+projekte	mte:Ncmpa	projekt
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+več	mte:Rgc	več
+kot	mte:Cs	kot
+800	mte:Mdc	800
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Nikolić	mte:Npmsn	Nikolić
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Moskvi	mte:Npfsd	Moskva
+udeležil	mte:Vmep-sm	udeležiti
+kongresa	mte:Ncmsg	kongres
+vladajoče	mte:Appfsg	vladajoč
+stranke	mte:Ncfsg	stranka
+Enotna	mte:Agpfsn	enoten
+Rusija	mte:Npfsn	Rusija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+njegov	mte:Ps3msnsm	njegov
+cilj	mte:Ncmsn	cilj
+ostajajo	mte:Vmpr3p	ostajati
+pogajanja	mte:Ncnpa	pogajanje
+z	mte:Si	z
+EU	mte:Npfsi	EU
+o	mte:Sl	o
+članstvu	mte:Ncnsl	članstvo
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+ohranjanje	mte:Ncnsa	ohranjanje
+tesnih	mte:Agpmpg	tesen
+odnosov	mte:Ncmpg	odnos
+z	mte:Si	z
+Rusijo	mte:Npfsi	Rusija
+.	mte:Z	.
+"	mte:Z	"
+Srbija	mte:Npfsn	Srbija
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+poti	mte:Ncfsl	pot
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+,	mte:Z	,
+vendar	mte:Cc	vendar
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+dolga	mte:Agpfsn	dolg
+pot	mte:Ncfsn	pot
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Nikolić	mte:Npmsn	Nikolić
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+12	mte:Mdc	12
+.	mte:Z	.
+junija	mte:Ncmsg	junij
+na	mte:Sa	na
+prvi	mte:Mlomsa	prvi
+uradni	mte:Agpmsay	uraden
+obisk	mte:Ncmsan	obisk
+v	mte:Sa	v
+tujino	mte:Ncfsa	tujina
+po	mte:Sl	po
+prisegi	mte:Ncfsl	priseg
+odpotoval	mte:Vmep-sm	odpotovati
+v	mte:Sa	v
+Bruselj	mte:Npmsan	Bruselj

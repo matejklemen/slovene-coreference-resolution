@@ -1,454 +1,485 @@
-token	tag
-Merkur	Npmsn
-Pred	Si
-pridržanjem	Ncnsi
-osumljence	Ncmpa
-opazovali	Vmpp-pm
-in	Cc
-jim	Pp3mpd--y
-prisluškovali	Vmpp-pm
-Kriminalisti	Ncmpn
-preiskujejo	Vmpr3p
-sume	Ncmpa
-več	Rgc
-kaznivih	Agpnpg
-dejanj	Ncnpg
-pranja	Ncnsg
-denarja	Ncmsg
-,	Z
-zlorabe	Ncfsg
-položaja	Ncmsg
-in	Cc
-zaupanja	Ncnsg
-,	Z
-je	Va-r3s-n
-potrdil	Vmep-sm
-pomočnik	Ncmsn
-direktorja	Ncmsg
-NPU	Npmsg
--	Z
-ja	Q
-Robert	Npmsn
-Črepinko	Npmsn
-.	Z
-Bine	Npmsn
-Kordež	Npmsn
-je	Va-r3s-n
-še	Q
-vedno	Rgp
-v	Sl
-policijskem	Agpnsl
-pridržanju	Ncnsl
-.	Z
-Odvetnica	Ncfsn
-Kordeža	Npmsg
-Marija	Npfsn
-Hladin	Npfsn
-je	Va-r3s-n
-ob	Sl
-prihodu	Ncmsl
-na	Sa
-policijsko	Agpfsa
-postajo	Ncfsa
-Moste	Npfsn
-okoli	Rgp
-15	Mdc
-.	Z
-ure	Ncfsg
-dejala	Vmep-sf
-,	Z
-da	Cs
-ni	Va-r3s-y
-utemeljenih	Appmpg
-razlogov	Ncmpg
-za	Sa
-očitano	Appnsa
-kaznivo	Agpnsa
-dejanje	Ncnsa
-zlorabe	Ncfsg
-položaja	Ncmsg
-in	Cc
-da	Cs
-bo	Va-f3s-n
-Kordež	Npmsn
-najverjetneje	Rgs
-hitro	Rgp
-spet	Rgp
-svoboden	Agpmsnn
-,	Z
-je	Va-r3s-n
-za	Sa
-TV	Npmsan
-Slovenija	Npfsn
-poročala	Vmpp-sf
-Ana	Npfsn
-A	Cc
-.	Z
-Gajič	Npmsn
-.	Z
-Kordež	Npmsn
-pridržan	Appmsnn
-,	Z
-policija	Ncfsn
-ga	Pp3msa--y
-ne	Q
-zaslišuje	Vmpr3s
-Kordeža	Npmsg
-na	Sl
-policijski	Agpfsl
-postaji	Ncfsl
-Moste	Npfsn
-ne	Q
-zaslišujejo	Vmpr3p
-,	Z
-ampak	Cc
-je	Va-r3s-n
-tam	Rgp
-v	Sl
-policijskem	Agpnsl
-pridržanju	Ncnsl
-.	Z
-Policisti	Ncmpn
-ga	Pp3msa--y
-bodo	Va-f3p-n
-zadrževali	Vmpp-pm
-,	Z
-dokler	Cs
-bodo	Va-f3p-n
-za	Sa
-to	Pd-nsa
-obstajali	Vmpp-pm
-razlogi	Ncmpn
-,	Z
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-gre	Vmbr3s
-za	Sa
-bojazen	Ncfsa
-pred	Si
-uničenjem	Ncnsi
-dokazov	Ncmpg
-.	Z
-V	Sl
-Mostah	Npfpl
-sta	Va-r3d-n
-na	Sl
-pridržanju	Ncnsl
-še	Q
-dva	Mlcmdn
-osumljenca	Ncmdn
-,	Z
-ena	Mlpfsn
-oseba	Ncfsn
-pa	Cc
-je	Va-r3s-n
-navzoča	Agpfsn
-pri	Sl
-hišnih	Agpfpl
-preiskavah	Ncfpl
-,	Z
-je	Va-r3s-n
-še	Q
-poročala	Vmpp-sf
-Gajičeva	Aspfsn
-.	Z
-Preiskava	Ncfsn
-,	Z
-ki	Cs
-traja	Vmpr3s
-že	Q
-več	Rgc
-kot	Cs
-16	Mdc
-ur	Ncfpg
-,	Z
-še	Q
-poteka	Vmpr3s
-,	Z
-še	Q
-opravljajo	Vmpr3p
-dve	Mlcfda
-hišni	Agpfda
-preiskavi	Ncfda
-,	Z
-je	Va-r3s-n
-za	Sa
-Odmeve	Ncmpa
-poročala	Vmpp-sf
-Gajičeva	Aspfsn
-in	Cc
-dodala	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-zagrožena	Appfsn
-kazen	Ncfsn
-za	Sa
-zlorabo	Ncfsa
-položaja	Ncmsg
-do	Sg
-osem	Mlc-pa
-let	Ncnpg
-zapora	Ncmsg
-,	Z
-za	Sa
-pranje	Ncnsa
-denarja	Ncmsg
-pa	Cc
-do	Sg
-deset	Mlc-pa
-let	Ncnpg
-zapora	Ncmsg
-,	Z
-denarna	Agpfsn
-kazen	Ncfsn
-in	Cc
-vračilo	Ncnsn
-opranega	Appmsg
-denarja	Ncmsg
-.	Z
-Pojasnila	Vmep-sf
-je	Va-r3s-n
-še	Q
-,	Z
-da	Cs
-ima	Vmpr3s-n
-lahko	Rgp
-policija	Ncfsn
-osumljence	Ncmpa
-v	Sl
-pridržanju	Ncnsl
-največ	Rgs
-48	Mdc
-ur	Ncfpg
-.	Z
-Hišne	Agpfsg
-preiskave	Ncfsg
-bomo	Va-f1p-n
-še	Q
-nadaljevali	Vmpp-pm
-Robert	Npmsn
-Črepinko	Npmsn
-z	Si
-NPU	Npmsi
--	Z
-ja	Q
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-zaradi	Sg
-zlorabe	Ncfsg
-položaja	Ncmsg
-in	Cc
-pranja	Ncnsg
-denarja	Ncmsg
-nastalo	Vmep-sn
-več	Rgc
-deset	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-škode	Ncfsg
-.	Z
-Preiskava	Ncfsn
-,	Z
-v	Sl
-okviru	Ncmsl
-katere	Pq-fsg
-na	Sl
-28	Mdc
-krajih	Ncmpl
-po	Sl
-Sloveniji	Npfsl
-izvajajo	Vmpr3p
-hišne	Agpfpa
-preiskave	Ncfpa
-,	Z
-po	Sl
-Črepinkovih	Aspfpl
-besedah	Ncfpl
-poteka	Vmpr3s
-od	Sg
-ustanovitve	Ncfsg
-Nacionalnega	Agpmsg
-preiskovalnega	Agpmsg
-urada	Ncmsg
-.	Z
-Neuradno	Rgp
-so	Va-r3p-n
-hišne	Agpfpn
-preiskave	Ncfpn
-povezane	Appfpn
-s	Si
-poskusom	Ncmsi
-Bineta	Npmsg
-Kordeža	Npmsg
-,	Z
-da	Cs
-prevzame	Vmer3s
-Merkur	Npmsan
-.	Z
-Poleg	Sg
-Kordeža	Npmsg
-je	Va-r3s-n
-bila	Va-p-sf
-prostost	Ncfsn
-odvzeta	Appfsn
-še	Q
-trem	Mlcmpd
-ljudem	Ncmpd
-.	Z
-Vsi	Pg-mpn
-štirje	Mlcmpn
-osumljenci	Ncmpn
-so	Va-r3p-n
-še	Q
-vedno	Rgp
-pridržani	Appmpn
-,	Z
-je	Va-r3s-n
-potrdil	Vmep-sm
-Črepinko	Npmsn
-,	Z
-ki	Cs
-pa	Cc
-o	Sl
-imenih	Ncnpl
-ni	Va-r3s-y
-govoril	Vmpp-sm
-.	Z
-Dejal	Vmep-sm
-je	Va-r3s-n
-le	Q
-,	Z
-da	Cs
-so	Va-r3p-n
-četverici	Ncfsd
-odvzeli	Vmep-pm
-prostost	Ncfsa
-in	Cc
-zanjo	Pp3fsa--b
-odredili	Vmep-pm
-pridržanje	Ncnsa
-na	Sl
-podlagi	Ncfsl
-listninske	Agpfsg
-dokumentacije	Ncfsg
-.	Z
-Hišne	Agpfsg
-preiskave	Ncfsg
-bomo	Va-f1p-n
-še	Q
-nadaljevali	Vmpp-pm
-,	Z
-iščemo	Vmpr1p
-še	Q
-več	Rgc
-dokazov	Ncmpg
-,	Z
-je	Va-r3s-n
-na	Sl
-novinarski	Agpfsl
-konferenci	Ncfsl
-dejal	Vmep-sm
-pomočnik	Ncmsn
-direktorja	Ncmsg
-NPU	Npmsn
--	Z
-ja	Q
-Robert	Npmsn
-Črepinko	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sl
-preiskavi	Ncfsl
-sodelovalo	Vmpp-sn
-95	Mdc
-policistov	Ncmpg
-in	Cc
-kriminalistov	Ncmpg
-,	Z
-zasegli	Vmep-pm
-pa	Cc
-so	Va-r3p-n
-papirje	Ncmpa
-in	Cc
-računalnike	Ncmpa
-.	Z
-V	Sl
-preiskavi	Ncfsl
-so	Va-r3p-n
-uporabljali	Vmpp-pm
-prisluškovalne	Agpfpa
-naprave	Ncfpa
-,	Z
-prisluškovali	Vmpp-pm
-so	Va-r3p-n
-prenosnim	Agpmpd
-telefonom	Ncmpd
-,	Z
-nekatere	Pi-mpa
-osumljence	Ncmpa
-pa	Cc
-so	Va-r3p-n
-tudi	Q
-opazovali	Vmpp-pm
-,	Z
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-.	Z
-Preiskava	Ncfsn
-v	Sl
-Naklem	Npnsl
-še	Q
-poteka	Vmpr3s
-Iz	Sg
-uprave	Ncfsg
-Merkurja	Npmsg
-pa	Cc
-so	Va-r3p-n
-sporočili	Vmep-pm
-,	Z
-da	Cs
-so	Va-r3p-n
-preiskovalci	Ncmpn
-navsezgodaj	Rgp
-zjutraj	Rgp
-obiskali	Vmep-pm
-poslovni	Agpfsd
-stavbi	Ncfsd
-Merkurja	Npmsg
-v	Sl
-Naklem	Npnsl
-in	Cc
-Celju	Npnsl
-.	Z
-Preiskujejo	Vmpr3p
-poslovanje	Ncnsa
-v	Sl
-času	Ncmsl
-nekdanjega	Agpnsg
-vodstva	Ncnsg
-družbe	Ncfsg
-Merkur	Npmsn
-.	Z
-V	Sl
-Celju	Npnsl
-se	Px------y
-je	Va-r3s-n
-preiskava	Ncfsn
-hitro	Rgp
-končala	Vmep-sf
-,	Z
-v	Sl
-Naklem	Npnsl
-pa	Cc
-se	Px------y
-nadaljuje	Vmpr3s
-.	Z
+token	tag	lemma
+Merkur	mte:Npmsn	Merkur
+Pred	mte:Si	pred
+pridržanjem	mte:Ncnsi	pridržanje
+osumljence	mte:Ncmpa	osumljenec
+opazovali	mte:Vmpp-pm	opazovati
+in	mte:Cc	in
+jim	mte:Pp3mpd--y	on
+prisluškovali	mte:Vmpp-pm	prisluškovati
+Kriminalisti	mte:Ncmpn	kriminalist
+preiskujejo	mte:Vmpr3p	preiskovati
+sume	mte:Ncmpa	suma
+več	mte:Rgc	več
+kaznivih	mte:Agpnpg	kazniv
+dejanj	mte:Ncnpg	dejanje
+pranja	mte:Ncnsg	pranje
+denarja	mte:Ncmsg	denar
+,	mte:Z	,
+zlorabe	mte:Ncfsg	zloraba
+položaja	mte:Ncmsg	položaj
+in	mte:Cc	in
+zaupanja	mte:Ncnsg	zaupanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+pomočnik	mte:Ncmsn	pomočnik
+direktorja	mte:Ncmsg	direktor
+NPU	mte:Npmsg	NPU
+-	mte:Z	-
+ja	mte:Q	ja
+Robert	mte:Npmsn	Robert
+Črepinko	mte:Npmsn	Črepinko
+.	mte:Z	.
+Bine	mte:Npmsn	Bine
+Kordež	mte:Npmsn	Kordež
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+v	mte:Sl	v
+policijskem	mte:Agpnsl	policijski
+pridržanju	mte:Ncnsl	pridržanje
+.	mte:Z	.
+Odvetnica	mte:Ncfsn	odvetnica
+Kordeža	mte:Npmsg	Kordež
+Marija	mte:Npfsn	Marija
+Hladin	mte:Npfsn	Hladin
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+prihodu	mte:Ncmsl	prihod
+na	mte:Sa	na
+policijsko	mte:Agpfsa	policijski
+postajo	mte:Ncfsa	postaja
+Moste	mte:Npfsn	Mosta
+okoli	mte:Rgp	okoli
+15	mte:Mdc	15
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+utemeljenih	mte:Appmpg	utemeljen
+razlogov	mte:Ncmpg	razlog
+za	mte:Sa	za
+očitano	mte:Appnsa	očitan
+kaznivo	mte:Agpnsa	kazniv
+dejanje	mte:Ncnsa	dejanje
+zlorabe	mte:Ncfsg	zloraba
+položaja	mte:Ncmsg	položaj
+in	mte:Cc	in
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Kordež	mte:Npmsn	Kordež
+najverjetneje	mte:Rgs	verjetno
+hitro	mte:Rgp	hitro
+spet	mte:Rgp	spet
+svoboden	mte:Agpmsnn	svoboden
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+TV	mte:Npmsan	TV
+Slovenija	mte:Npfsn	Slovenija
+poročala	mte:Vmpp-sf	poročati
+Ana	mte:Npfsn	Ana
+A	mte:Cc	a
+.	mte:Z	.
+Gajič	mte:Npmsn	Gajič
+.	mte:Z	.
+Kordež	mte:Npmsn	Kordež
+pridržan	mte:Appmsnn	pridržan
+,	mte:Z	,
+policija	mte:Ncfsn	policija
+ga	mte:Pp3msa--y	on
+ne	mte:Q	ne
+zaslišuje	mte:Vmpr3s	zasliševati
+Kordeža	mte:Npmsg	Kordež
+na	mte:Sl	na
+policijski	mte:Agpfsl	policijski
+postaji	mte:Ncfsl	postaja
+Moste	mte:Npfsn	Mosta
+ne	mte:Q	ne
+zaslišujejo	mte:Vmpr3p	zasliševati
+,	mte:Z	,
+ampak	mte:Cc	ampak
+je	mte:Va-r3s-n	biti
+tam	mte:Rgp	tam
+v	mte:Sl	v
+policijskem	mte:Agpnsl	policijski
+pridržanju	mte:Ncnsl	pridržanje
+.	mte:Z	.
+Policisti	mte:Ncmpn	policist
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+zadrževali	mte:Vmpp-pm	zadrževati
+,	mte:Z	,
+dokler	mte:Cs	dokler
+bodo	mte:Va-f3p-n	biti
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+obstajali	mte:Vmpp-pm	obstajati
+razlogi	mte:Ncmpn	razlog
+,	mte:Z	,
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+bojazen	mte:Ncfsa	bojazen
+pred	mte:Si	pred
+uničenjem	mte:Ncnsi	uničenje
+dokazov	mte:Ncmpg	dokaz
+.	mte:Z	.
+V	mte:Sl	v
+Mostah	mte:Npfpl	Mosta
+sta	mte:Va-r3d-n	biti
+na	mte:Sl	na
+pridržanju	mte:Ncnsl	pridržanje
+še	mte:Q	še
+dva	mte:Mlcmdn	dva
+osumljenca	mte:Ncmdn	osumljenec
+,	mte:Z	,
+ena	mte:Mlpfsn	en
+oseba	mte:Ncfsn	oseba
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+navzoča	mte:Agpfsn	navzoč
+pri	mte:Sl	pri
+hišnih	mte:Agpfpl	hišen
+preiskavah	mte:Ncfpl	preiskava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+poročala	mte:Vmpp-sf	poročati
+Gajičeva	mte:Aspfsn	Gajičev
+.	mte:Z	.
+Preiskava	mte:Ncfsn	preiskava
+,	mte:Z	,
+ki	mte:Cs	ki
+traja	mte:Vmpr3s	trajati
+že	mte:Q	že
+več	mte:Rgc	več
+kot	mte:Cs	kot
+16	mte:Mdc	16
+ur	mte:Ncfpg	ura
+,	mte:Z	,
+še	mte:Q	še
+poteka	mte:Vmpr3s	potekati
+,	mte:Z	,
+še	mte:Q	še
+opravljajo	mte:Vmpr3p	opravljati
+dve	mte:Mlcfda	dva
+hišni	mte:Agpfda	hišen
+preiskavi	mte:Ncfda	preiskava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Odmeve	mte:Ncmpa	odmeva
+poročala	mte:Vmpp-sf	poročati
+Gajičeva	mte:Aspfsn	Gajičev
+in	mte:Cc	in
+dodala	mte:Vmep-sf	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zagrožena	mte:Appfsn	zagrožen
+kazen	mte:Ncfsn	kazen
+za	mte:Sa	za
+zlorabo	mte:Ncfsa	zloraba
+položaja	mte:Ncmsg	položaj
+do	mte:Sg	do
+osem	mte:Mlc-pa	osem
+let	mte:Ncnpg	leto
+zapora	mte:Ncmsg	zapor
+,	mte:Z	,
+za	mte:Sa	za
+pranje	mte:Ncnsa	pranje
+denarja	mte:Ncmsg	denar
+pa	mte:Cc	pa
+do	mte:Sg	do
+deset	mte:Mlc-pa	deset
+let	mte:Ncnpg	leto
+zapora	mte:Ncmsg	zapor
+,	mte:Z	,
+denarna	mte:Agpfsn	denaren
+kazen	mte:Ncfsn	kazen
+in	mte:Cc	in
+vračilo	mte:Ncnsn	vračilo
+opranega	mte:Appmsg	opran
+denarja	mte:Ncmsg	denar
+.	mte:Z	.
+Pojasnila	mte:Vmep-sf	pojasniti
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+lahko	mte:Rgp	lahko
+policija	mte:Ncfsn	policija
+osumljence	mte:Ncmpa	osumljenec
+v	mte:Sl	v
+pridržanju	mte:Ncnsl	pridržanje
+največ	mte:Rgs	največ
+48	mte:Mdc	48
+ur	mte:Ncfpg	ura
+.	mte:Z	.
+Hišne	mte:Agpfsg	hišen
+preiskave	mte:Ncfsg	preiskava
+bomo	mte:Va-f1p-n	biti
+še	mte:Q	še
+nadaljevali	mte:Vmpp-pm	nadaljevati
+Robert	mte:Npmsn	Robert
+Črepinko	mte:Npmsn	Črepinko
+z	mte:Si	z
+NPU	mte:Npmsi	NPU
+-	mte:Z	-
+ja	mte:Q	ja
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+zlorabe	mte:Ncfsg	zloraba
+položaja	mte:Ncmsg	položaj
+in	mte:Cc	in
+pranja	mte:Ncnsg	pranje
+denarja	mte:Ncmsg	denar
+nastalo	mte:Vmep-sn	nastati
+več	mte:Rgc	več
+deset	mte:Mlc-pa	deset
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+škode	mte:Ncfsg	škoda
+.	mte:Z	.
+Preiskava	mte:Ncfsn	preiskava
+,	mte:Z	,
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+katere	mte:Pq-fsg	kateri
+na	mte:Sl	na
+28	mte:Mdc	28
+krajih	mte:Ncmpl	kraj
+po	mte:Sl	po
+Sloveniji	mte:Npfsl	Slovenija
+izvajajo	mte:Vmpr3p	izvajati
+hišne	mte:Agpfpa	hišen
+preiskave	mte:Ncfpa	preiskava
+,	mte:Z	,
+po	mte:Sl	po
+Črepinkovih	mte:Aspfpl	Črepinkov
+besedah	mte:Ncfpl	beseda
+poteka	mte:Vmpr3s	potekati
+od	mte:Sg	od
+ustanovitve	mte:Ncfsg	ustanovitev
+Nacionalnega	mte:Agpmsg	nacionalen
+preiskovalnega	mte:Agpmsg	preiskovalen
+urada	mte:Ncmsg	urad
+.	mte:Z	.
+Neuradno	mte:Rgp	neuradno
+so	mte:Va-r3p-n	biti
+hišne	mte:Agpfpn	hišen
+preiskave	mte:Ncfpn	preiskava
+povezane	mte:Appfpn	povezan
+s	mte:Si	z
+poskusom	mte:Ncmsi	poskus
+Bineta	mte:Npmsg	Bine
+Kordeža	mte:Npmsg	Kordež
+,	mte:Z	,
+da	mte:Cs	da
+prevzame	mte:Vmer3s	prevzeti
+Merkur	mte:Npmsan	Merkur
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+Kordeža	mte:Npmsg	Kordež
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+prostost	mte:Ncfsn	prostost
+odvzeta	mte:Appfsn	odvzet
+še	mte:Q	še
+trem	mte:Mlcmpd	trije
+ljudem	mte:Ncmpd	človek
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+štirje	mte:Mlcmpn	štirje
+osumljenci	mte:Ncmpn	osumljenec
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+pridržani	mte:Appmpn	pridržan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+Črepinko	mte:Npmsn	Črepinko
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+o	mte:Sl	o
+imenih	mte:Ncnpl	ime
+ni	mte:Va-r3s-y	biti
+govoril	mte:Vmpp-sm	govoriti
+.	mte:Z	.
+Dejal	mte:Vmep-sm	dejati
+je	mte:Va-r3s-n	biti
+le	mte:Q	le
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+četverici	mte:Ncfsd	četverica
+odvzeli	mte:Vmep-pm	odvzeti
+prostost	mte:Ncfsa	prostost
+in	mte:Cc	in
+zanjo	mte:Pp3fsa--b	zame
+odredili	mte:Vmep-pm	odrediti
+pridržanje	mte:Ncnsa	pridržanje
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+listninske	mte:Agpfsg	listninski
+dokumentacije	mte:Ncfsg	dokumentacija
+.	mte:Z	.
+Hišne	mte:Agpfsg	hišen
+preiskave	mte:Ncfsg	preiskava
+bomo	mte:Va-f1p-n	biti
+še	mte:Q	še
+nadaljevali	mte:Vmpp-pm	nadaljevati
+,	mte:Z	,
+iščemo	mte:Vmpr1p	iskati
+še	mte:Q	še
+več	mte:Rgc	več
+dokazov	mte:Ncmpg	dokaz
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+dejal	mte:Vmep-sm	dejati
+pomočnik	mte:Ncmsn	pomočnik
+direktorja	mte:Ncmsg	direktor
+NPU	mte:Npmsn	NPU
+-	mte:Z	-
+ja	mte:Q	ja
+Robert	mte:Npmsn	Robert
+Črepinko	mte:Npmsn	Črepinko
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+preiskavi	mte:Ncfsl	preiskava
+sodelovalo	mte:Vmpp-sn	sodelovati
+95	mte:Mdc	95
+policistov	mte:Ncmpg	policist
+in	mte:Cc	in
+kriminalistov	mte:Ncmpg	kriminalist
+,	mte:Z	,
+zasegli	mte:Vmep-pm	zaseči
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+papirje	mte:Ncmpa	papir
+in	mte:Cc	in
+računalnike	mte:Ncmpa	računalnik
+.	mte:Z	.
+V	mte:Sl	v
+preiskavi	mte:Ncfsl	preiskava
+so	mte:Va-r3p-n	biti
+uporabljali	mte:Vmpp-pm	uporabljati
+prisluškovalne	mte:Agpfpa	prisluškovalen
+naprave	mte:Ncfpa	naprava
+,	mte:Z	,
+prisluškovali	mte:Vmpp-pm	prisluškovati
+so	mte:Va-r3p-n	biti
+prenosnim	mte:Agpmpd	prenosen
+telefonom	mte:Ncmpd	telefon
+,	mte:Z	,
+nekatere	mte:Pi-mpa	nekateri
+osumljence	mte:Ncmpa	osumljenec
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+opazovali	mte:Vmpp-pm	opazovati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+.	mte:Z	.
+Preiskava	mte:Ncfsn	preiskava
+v	mte:Sl	v
+Naklem	mte:Npnsl	Naklem
+še	mte:Q	še
+poteka	mte:Vmpr3s	potekati
+Iz	mte:Sg	iz
+uprave	mte:Ncfsg	uprava
+Merkurja	mte:Npmsg	Merkur
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+preiskovalci	mte:Ncmpn	preiskovalec
+navsezgodaj	mte:Rgp	navsezgodaj
+zjutraj	mte:Rgp	zjutraj
+obiskali	mte:Vmep-pm	obiskati
+poslovni	mte:Agpfsd	posloven
+stavbi	mte:Ncfsd	stavba
+Merkurja	mte:Npmsg	Merkur
+v	mte:Sl	v
+Naklem	mte:Npnsl	Naklem
+in	mte:Cc	in
+Celju	mte:Npnsl	Celje
+.	mte:Z	.
+Preiskujejo	mte:Vmpr3p	preiskovati
+poslovanje	mte:Ncnsa	poslovanje
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+nekdanjega	mte:Agpnsg	nekdanji
+vodstva	mte:Ncnsg	vodstvo
+družbe	mte:Ncfsg	družba
+Merkur	mte:Npmsn	Merkur
+.	mte:Z	.
+V	mte:Sl	v
+Celju	mte:Npnsl	Celje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+preiskava	mte:Ncfsn	preiskava
+hitro	mte:Rgp	hitro
+končala	mte:Vmep-sf	končati
+,	mte:Z	,
+v	mte:Sl	v
+Naklem	mte:Npnsl	Naklem
+pa	mte:Cc	pa
+se	mte:Px------y	se
+nadaljuje	mte:Vmpr3s	nadaljevati
+.	mte:Z	.
+Preiskovalci	mte:Ncmpn	preiskovalec
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+v	mte:Sl	v
+Naklem	mte:Npnsl	Naklem
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+pregledujejo	mte:Vmpr3p	pregledovati
+številne	mte:Agpmpa	številen
+dokumente	mte:Ncmpa	dokument
+,	mte:Z	,
+zaposleni	mte:Appmpn	zaposlen
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+jim	mte:Pp3mpd--y	on
+ves	mte:Pg-msa	ves
+čas	mte:Ncmsan	čas
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+za	mte:Sa	za
+morebitna	mte:Agpnpa	morebiten
+dodatna	mte:Agpnpa	dodaten
+pojasnila	mte:Ncnpa	pojasnilo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+zapisala	mte:Vmep-sf	zapisati
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost

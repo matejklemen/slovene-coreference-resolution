@@ -1,396 +1,405 @@
-token	tag
-Kandidata	Ncmdn
-za	Sa
-župana	Ncmsay
-Mojca	Npfsn
-Kucler	Npfsg
-Dolinar	Npfsn
-in	Cc
-Zoran	Npmsn
-Janković	Npmsn
-o	Sl
-Stožicah	Npfpl
-in	Cc
-tramvajski	Agpfsl
-progi	Ncfsl
-Foto	Npmsn
-:	Z
-Sandi	Npmsn
-Baumkirher	Npmsn
-Moje	Ps1nsns
-delovanje	Ncnsn
-je	Va-r3s-n
-transparentno	Agpnsn
-,	Z
-je	Va-r3s-n
-v	Sl
-pogovoru	Ncmsl
-za	Sa
-Siol	Npmsan
-povedal	Vmep-sm
-prvak	Ncmsn
-Pozitivne	Agpfsg
-Slovenije	Npfsg
-in	Cc
-kandidat	Ncmsn
-za	Sa
-ljubljanskega	Agpmsa
-župana	Ncmsay
-Zoran	Npmsn
-Janković	Npmsn
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-soočili	Vmep-pm
-s	Si
-protikandidatko	Ncfsi
-Mojco	Npfsi
-Kucler	Npfsi
-Dolinar	Npfsi
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-v	Sl
-pogovoru	Ncmsl
-povedala	Vmep-sf
-,	Z
-da	Cs
-za	Si
-sabo	Px---i
-nimam	Vmpr1s-y
-botrov	Ncmpg
-,	Z
-ki	Cs
-bi	Va-c
-jim	Pp3mpd--y
-morala	Vmpp-pf
-urejati	Vmpn
-določene	Appfpa
-stvari	Ncfpa
-.	Z
-"	Z
-To	Pd-nsn
-je	Va-r3s-n
-tisto	Pd-nsn
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-moja	Ps1fsns
-najpomembnejša	Agsfsn
-prednost	Ncfsn
-,	Z
-"	Z
-je	Va-r3s-n
-dodala	Vmep-sf
-.	Z
-Jankovič	Npmsn
-ji	Pp3fsd--y
-je	Va-r3s-n
-odgovoril	Vmep-sm
-:	Z
-"	Z
-Naj	Q
-nekdo	Pi-msn
-enkrat	Rgp
-pove	Vmer3s
-,	Z
-kaj	Pq-nsa
-ti	Pd-mpn
-botri	Ncmpn
-počnejo	Vmbr3p
-v	Sl
-Ljubljani	Npfsl
-,	Z
-ne	Q
-pa	Cc
-da	Cs
-samo	Q
-natolcujejo	Vmpr3p
-.	Z
-Ljubljančani	Npmpn
-se	Px------y
-bodo	Va-f3p-n
-odločili	Vmep-pm
-po	Sl
-svoji	Px-fsl
-vesti	Ncfsl
-.	Z
-Če	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-zadovoljni	Agpmpn
-z	Si
-minulimi	Appnpi
-petimi	Mlc-pi
-leti	Ncnpi
-,	Z
-bodo	Va-f3p-n
-pač	Q
-tudi	Q
-tokrat	Rgp
-namenili	Vmep-pm
-glas	Ncmsan
-meni	Pp1-sd
-.	Z
-"	Z
-Tramvaj	Ncmsn
-namesto	Sg
-Stožic	Npfpg
-Realen	Agpmsnn
-projekt	Ncmsn
-za	Sa
-Ljubljano	Npfsa
-je	Va-r3s-n
-tudi	Q
-izgradnja	Ncfsn
-tramvajske	Agpfsg
-proge	Ncfsg
-,	Z
-ker	Cs
-so	Va-r3p-n
-na	Sa
-voljo	Ncfsa
-tudi	Q
-evropska	Agpnpn
-sredstva	Ncnpn
-in	Cc
-drugi	Mlpmpn
-instrumenti	Ncmpn
-evropskih	Agpfpg
-bančnih	Agpfpg
-finančnih	Agpfpg
-inštitucij	Ncfpg
-,	Z
-pravi	Vmbr3s
-Kucler	Npmsn
-Dolinarjeva	Aspfsn
-.	Z
-Kot	Cs
-pravi	Vmbr3s
-,	Z
-so	Va-r3p-n
-ji	Pp3fsd--y
-strokovnjaki	Ncmpn
-povedali	Vmep-pm
-,	Z
-da	Cs
-takšna	Pd-fsn
-izgradnja	Ncfsn
-stane	Vmpr3s
-okoli	Rgp
-15	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-na	Sa
-kilometer	Ncmsan
-.	Z
-"	Z
-Če	Cs
-to	Pd-nsa
-primerjamo	Vmpr1p
-z	Si
-nekaterimi	Pi-mpi
-drugimi	Mlpmpi
-projekti	Ncmpi
-,	Z
-recimo	Vmem1p
-Stožicami	Ncfpi
-,	Z
-potem	Rgp
-je	Va-r3s-n
-to	Pd-nsn
-že	Q
-kar	Rgp
-nekaj	Rgp
-kilometrov	Ncmpg
-tramvajske	Agpfsg
-proge	Ncfsg
-.	Z
-"	Z
-"	Z
-Če	Cs
-nekdo	Pi-msn
-govori	Vmpr3s
-samo	Q
-na	Sa
-pamet	Ncfsa
-zato	Rgp
-,	Z
-da	Cs
-nekaj	Pi-nsa
-kritizira	Vmpr3s
-brez	Sg
-podlage	Ncfsg
-,	Z
-"	Z
-odgovarja	Vmpr3s
-Janković	Npmsn
-in	Cc
-dodaja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-mesto	Ncnsn
-za	Sa
-dvorano	Ncfsa
-na	Sl
-Stožicah	Npfpl
-,	Z
-stadion	Ncmsn
-,	Z
-urejanje	Ncnsn
-okolice	Ncfsg
-in	Cc
-za	Sa
-parkirna	Agpnpa
-mesta	Ncnpa
-plačalo	Vmep-sn
-38	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-vse	Pg-nsn
-drugo	Mlpnsn
-je	Va-r3s-n
-bil	Va-p-sm
-pobot	Ncmsn
-s	Si
-stavbno	Agpfsi
-pravico	Ncfsi
-za	Sa
-trgovsko	Agpnsa
-središče	Ncnsa
-,	Z
-se	Px------y
-pravi	Vmbr3s
-,	Z
-da	Cs
-bi	Va-c
-lahko	Rgp
-dobili	Vmep-pm
-nekaj	Rgp
-več	Rgc
-kot	Cs
-dva	Mlcmda
-kilometra	Ncmda
-proge	Ncfsg
-.	Z
-Delo	Ncnsa
-:	Z
-Jankoviću	Npmsd
-zmaga	Vmer3s
-v	Sl
-prvem	Mlomsl
-krogu	Ncmsl
-Janković	Npmsn
-bi	Va-c
-prepričljivo	Rgp
-zmagal	Vmep-sm
-že	Q
-v	Sl
-prvem	Mlomsl
-krogu	Ncmsl
-z	Si
-71,5	Mdc
-odstotka	Ncmsg
-glasov	Ncmpg
-,	Z
-kaže	Vmpr3s
-današnja	Agpfsn
-anketa	Ncfsn
-Dela	Ncnsg
-stik	Ncmsn
-.	Z
-Sledita	Vmpr3d
-pa	Cc
-kandidatka	Ncfsn
-NSi	Npfsg
-s	Si
-podporo	Ncfsi
-SDS	Npfsg
-Mojca	Npfsn
-Kucler	Npfsn
-Dolinar	Npfsn
-z	Si
-18,1	Mdc
-odstotka	Ncmsg
-ter	Cc
-kandidat	Ncmsn
-Zelenih	Agpfpg
-Slovenije	Npfsg
-Miha	Npmsn
-Jazbinšek	Npmsn
-s	Si
-6,2	Mdc
-odstotka	Ncmsg
-.	Z
-Na	Sl
-četrtem	Mlonsl
-mestu	Ncnsl
-je	Va-r3s-n
-po	Sl
-napovedi	Ncfsl
-kandidat	Ncmsn
-Zares	Rgp
-Vito	Npmsn
-Rožej	Npmsn
-z	Si
-2,6	Mdc
-odstotka	Ncmsg
-,	Z
-sledijo	Vmpr3p
-pa	Cc
-Gregor	Npmsn
-Škerl	Npmsn
-(	Z
-Humana	Npfsn
-Slovenija	Npfsn
-)	Z
-z	Si
-1,1	Mdc
-odstotka	Ncmsg
-,	Z
-Jože	Npmsn
-Drnovšek	Npmsn
-(	Z
-Naprej	Rgp
-Slovenija	Npfsn
-)	Z
-z	Si
-0,2	Mdc
-odstotka	Ncmsg
-,	Z
-Jožef	Npmsn
-Jarh	Npmsn
-(	Z
-Stranka	Ncfsn
-enakopravnih	Agpfpg
-dežel	Ncfpg
-)	Z
-z	Si
-0,2	Mdc
-odstotka	Ncmsg
-in	Cc
-Matjaž	Npmsn
-Glavan	Npmsn
-(	Z
-SLS	Npmsn
-)	Z
-z	Si
-nič	Rgp
-odstotki	Ncmpi
-.	Z
-Anketa	Ncfsn
-o	Sl
-županskih	Agpfpl
-volitvah	Ncfpl
-pa	Cc
-je	Va-r3s-n
-potekala	Vmpp-sf
-od	Sg
-19	Mdc
-.	Z
-do	Sg
-21	Mdc
-.	Z
+token	tag	lemma
+Kandidata	mte:Ncmdn	kandidat
+za	mte:Sa	za
+župana	mte:Ncmsay	župan
+Mojca	mte:Npfsn	Mojca
+Kucler	mte:Npfsg	Kucler
+Dolinar	mte:Npfsn	Dolinar
+in	mte:Cc	in
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+o	mte:Sl	o
+Stožicah	mte:Npfpl	Stožice
+in	mte:Cc	in
+tramvajski	mte:Agpfsl	tramvajski
+progi	mte:Ncfsl	proga
+Foto	mte:Npmsn	foto
+:	mte:Z	:
+Sandi	mte:Npmsn	Sandi
+Baumkirher	mte:Npmsn	Baumkirher
+Moje	mte:Ps1nsns	moj
+delovanje	mte:Ncnsn	delovanje
+je	mte:Va-r3s-n	biti
+transparentno	mte:Agpnsn	transparenten
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+pogovoru	mte:Ncmsl	pogovor
+za	mte:Sa	za
+Siol	mte:Npmsan	Siol
+povedal	mte:Vmep-sm	povedati
+prvak	mte:Ncmsn	prvak
+Pozitivne	mte:Agpfsg	pozitiven
+Slovenije	mte:Npfsg	Slovenija
+in	mte:Cc	in
+kandidat	mte:Ncmsn	kandidat
+za	mte:Sa	za
+ljubljanskega	mte:Agpmsa	ljubljanski
+župana	mte:Ncmsay	župan
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+soočili	mte:Vmep-pm	soočiti
+s	mte:Si	z
+protikandidatko	mte:Ncfsi	protikandidatka
+Mojco	mte:Npfsi	Mojco
+Kucler	mte:Npfsi	Kucler
+Dolinar	mte:Npfsi	Dolinar
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+pogovoru	mte:Ncmsl	pogovor
+povedala	mte:Vmep-sf	povedati
+,	mte:Z	,
+da	mte:Cs	da
+za	mte:Si	za
+sabo	mte:Px---i	se
+nimam	mte:Vmpr1s-y	imeti
+botrov	mte:Ncmpg	boter
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+jim	mte:Pp3mpd--y	on
+morala	mte:Vmpp-pf	morati
+urejati	mte:Vmpn	urejati
+določene	mte:Appfpa	določen
+stvari	mte:Ncfpa	stvar
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+tisto	mte:Pd-nsn	tisti
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+moja	mte:Ps1fsns	moj
+najpomembnejša	mte:Agsfsn	pomemben
+prednost	mte:Ncfsn	prednost
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dodala	mte:Vmep-sf	dodati
+.	mte:Z	.
+Jankovič	mte:Npmsn	Jankovič
+ji	mte:Pp3fsd--y	on
+je	mte:Va-r3s-n	biti
+odgovoril	mte:Vmep-sm	odgovoriti
+:	mte:Z	:
+"	mte:Z	"
+Naj	mte:Q	naj
+nekdo	mte:Pi-msn	nekdo
+enkrat	mte:Rgp	enkrat
+pove	mte:Vmer3s	povedati
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+ti	mte:Pd-mpn	ta
+botri	mte:Ncmpn	boter
+počnejo	mte:Vmbr3p	početi
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+ne	mte:Q	ne
+pa	mte:Cc	pa
+da	mte:Cs	da
+samo	mte:Q	samo
+natolcujejo	mte:Vmpr3p	natolcevati
+.	mte:Z	.
+Ljubljančani	mte:Npmpn	Ljubljančan
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+odločili	mte:Vmep-pm	odločiti
+po	mte:Sl	po
+svoji	mte:Px-fsl	svoj
+vesti	mte:Ncfsl	vest
+.	mte:Z	.
+Če	mte:Cs	če
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+zadovoljni	mte:Agpmpn	zadovoljen
+z	mte:Si	z
+minulimi	mte:Appnpi	minul
+petimi	mte:Mlc-pi	pet
+leti	mte:Ncnpi	leto
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+pač	mte:Q	pač
+tudi	mte:Q	tudi
+tokrat	mte:Rgp	tokrat
+namenili	mte:Vmep-pm	nameniti
+glas	mte:Ncmsan	glas
+meni	mte:Pp1-sd	jaz
+.	mte:Z	.
+"	mte:Z	"
+Tramvaj	mte:Ncmsn	tramvaj
+namesto	mte:Sg	namesto
+Stožic	mte:Npfpg	Stožic
+Realen	mte:Agpmsnn	realen
+projekt	mte:Ncmsn	projekt
+za	mte:Sa	za
+Ljubljano	mte:Npfsa	Ljubljana
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+izgradnja	mte:Ncfsn	izgradnja
+tramvajske	mte:Agpfsg	tramvajski
+proge	mte:Ncfsg	proga
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+tudi	mte:Q	tudi
+evropska	mte:Agpnpn	evropski
+sredstva	mte:Ncnpn	sredstvo
+in	mte:Cc	in
+drugi	mte:Mlpmpn	drug
+instrumenti	mte:Ncmpn	instrument
+evropskih	mte:Agpfpg	evropski
+bančnih	mte:Agpfpg	bančen
+finančnih	mte:Agpfpg	finančen
+inštitucij	mte:Ncfpg	inštitucija
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Kucler	mte:Npmsn	Kucler
+Dolinarjeva	mte:Aspfsn	Dolinarjev
+.	mte:Z	.
+Kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+ji	mte:Pp3fsd--y	on
+strokovnjaki	mte:Ncmpn	strokovnjak
+povedali	mte:Vmep-pm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+takšna	mte:Pd-fsn	takšen
+izgradnja	mte:Ncfsn	izgradnja
+stane	mte:Vmpr3s	stati
+okoli	mte:Rgp	okoli
+15	mte:Mdc	15
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+na	mte:Sa	na
+kilometer	mte:Ncmsan	kilometer
+.	mte:Z	.
+"	mte:Z	"
+Če	mte:Cs	če
+to	mte:Pd-nsa	ta
+primerjamo	mte:Vmpr1p	primerjati
+z	mte:Si	z
+nekaterimi	mte:Pi-mpi	nekateri
+drugimi	mte:Mlpmpi	drug
+projekti	mte:Ncmpi	projekt
+,	mte:Z	,
+recimo	mte:Vmem1p	reči
+Stožicami	mte:Ncfpi	stožica
+,	mte:Z	,
+potem	mte:Rgp	potem
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+že	mte:Q	že
+kar	mte:Rgp	kar
+nekaj	mte:Rgp	nekaj
+kilometrov	mte:Ncmpg	kilometer
+tramvajske	mte:Agpfsg	tramvajski
+proge	mte:Ncfsg	proga
+.	mte:Z	.
+"	mte:Z	"
+"	mte:Z	"
+Če	mte:Cs	če
+nekdo	mte:Pi-msn	nekdo
+govori	mte:Vmpr3s	govoriti
+samo	mte:Q	samo
+na	mte:Sa	na
+pamet	mte:Ncfsa	pamet
+zato	mte:Rgp	zato
+,	mte:Z	,
+da	mte:Cs	da
+nekaj	mte:Pi-nsa	nekaj
+kritizira	mte:Vmpr3s	kritizirati
+brez	mte:Sg	brez
+podlage	mte:Ncfsg	podlaga
+,	mte:Z	,
+"	mte:Z	"
+odgovarja	mte:Vmpr3s	odgovarjati
+Janković	mte:Npmsn	Janković
+in	mte:Cc	in
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+mesto	mte:Ncnsn	mesto
+za	mte:Sa	za
+dvorano	mte:Ncfsa	dvorana
+na	mte:Sl	na
+Stožicah	mte:Npfpl	Stožice
+,	mte:Z	,
+stadion	mte:Ncmsn	stadion
+,	mte:Z	,
+urejanje	mte:Ncnsn	urejanje
+okolice	mte:Ncfsg	okolica
+in	mte:Cc	in
+za	mte:Sa	za
+parkirna	mte:Agpnpa	parkiren
+mesta	mte:Ncnpa	mesto
+plačalo	mte:Vmep-sn	plačati
+38	mte:Mdc	38
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+vse	mte:Pg-nsn	ves
+drugo	mte:Mlpnsn	drug
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+pobot	mte:Ncmsn	pobot
+s	mte:Si	z
+stavbno	mte:Agpfsi	stavben
+pravico	mte:Ncfsi	pravica
+za	mte:Sa	za
+trgovsko	mte:Agpnsa	trgovski
+središče	mte:Ncnsa	središče
+,	mte:Z	,
+se	mte:Px------y	se
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+dobili	mte:Vmep-pm	dobiti
+nekaj	mte:Rgp	nekaj
+več	mte:Rgc	več
+kot	mte:Cs	kot
+dva	mte:Mlcmda	dva
+kilometra	mte:Ncmda	kilometer
+proge	mte:Ncfsg	proga
+.	mte:Z	.
+Delo	mte:Ncnsa	delo
+:	mte:Z	:
+Jankoviću	mte:Npmsd	Janković
+zmaga	mte:Vmer3s	zmagati
+v	mte:Sl	v
+prvem	mte:Mlomsl	prvi
+krogu	mte:Ncmsl	krog
+Janković	mte:Npmsn	Janković
+bi	mte:Va-c	biti
+prepričljivo	mte:Rgp	prepričljivo
+zmagal	mte:Vmep-sm	zmagati
+že	mte:Q	že
+v	mte:Sl	v
+prvem	mte:Mlomsl	prvi
+krogu	mte:Ncmsl	krog
+z	mte:Si	z
+71,5	mte:Mdc	71,5
+odstotka	mte:Ncmsg	odstotek
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+današnja	mte:Agpfsn	današnji
+anketa	mte:Ncfsn	anket
+Dela	mte:Ncnsg	delo
+stik	mte:Ncmsn	stik
+.	mte:Z	.
+Sledita	mte:Vmpr3d	slediti
+pa	mte:Cc	pa
+kandidatka	mte:Ncfsn	kandidatka
+NSi	mte:Npfsg	NSi
+s	mte:Si	z
+podporo	mte:Ncfsi	podpora
+SDS	mte:Npfsg	SDS
+Mojca	mte:Npfsn	Mojca
+Kucler	mte:Npfsn	Kucler
+Dolinar	mte:Npfsn	Dolinar
+z	mte:Si	z
+18,1	mte:Mdc	18,1
+odstotka	mte:Ncmsg	odstotek
+ter	mte:Cc	ter
+kandidat	mte:Ncmsn	kandidat
+Zelenih	mte:Agpfpg	zelen
+Slovenije	mte:Npfsg	Slovenija
+Miha	mte:Npmsn	Miha
+Jazbinšek	mte:Npmsn	Jazbinšek
+s	mte:Si	z
+6,2	mte:Mdc	6,2
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Na	mte:Sl	na
+četrtem	mte:Mlonsl	četrti
+mestu	mte:Ncnsl	mesto
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+napovedi	mte:Ncfsl	napoved
+kandidat	mte:Ncmsn	kandidat
+Zares	mte:Rgp	zares
+Vito	mte:Npmsn	Vita
+Rožej	mte:Npmsn	Rožej
+z	mte:Si	z
+2,6	mte:Mdc	2,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+pa	mte:Cc	pa
+Gregor	mte:Npmsn	Gregor
+Škerl	mte:Npmsn	Škerl
+(	mte:Z	(
+Humana	mte:Npfsn	Human
+Slovenija	mte:Npfsn	Slovenija
+)	mte:Z	)
+z	mte:Si	z
+1,1	mte:Mdc	1,1
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Jože	mte:Npmsn	Jože
+Drnovšek	mte:Npmsn	Drnovšek
+(	mte:Z	(
+Naprej	mte:Rgp	naprej
+Slovenija	mte:Npfsn	Slovenija
+)	mte:Z	)
+z	mte:Si	z
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Jožef	mte:Npmsn	Jožef
+Jarh	mte:Npmsn	Jarh
+(	mte:Z	(
+Stranka	mte:Ncfsn	stranka
+enakopravnih	mte:Agpfpg	enakopraven
+dežel	mte:Ncfpg	dežela
+)	mte:Z	)
+z	mte:Si	z
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Matjaž	mte:Npmsn	Matjaž
+Glavan	mte:Npmsn	Glavan
+(	mte:Z	(
+SLS	mte:Npmsn	SLS
+)	mte:Z	)
+z	mte:Si	z
+nič	mte:Rgp	nič
+odstotki	mte:Ncmpi	odstotek
+.	mte:Z	.
+Anketa	mte:Ncfsn	anket
+o	mte:Sl	o
+županskih	mte:Agpfpl	županski
+volitvah	mte:Ncfpl	volitev
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+potekala	mte:Vmpp-sf	potekati
+od	mte:Sg	od
+19	mte:Mdc	19
+.	mte:Z	.
+do	mte:Sg	do
+21	mte:Mdc	21
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+na	mte:Sl	na
+vzorcu	mte:Ncmsl	vzorec
+754	mte:Mdc	754
+odraslih	mte:Appmpg	odrasel
+prebivalcev	mte:Ncmpg	prebivalec
+Mestne	mte:Agpfsg	mesten
+občine	mte:Ncfsg	občina
+Ljubljana	mte:Npfsn	Ljubljana

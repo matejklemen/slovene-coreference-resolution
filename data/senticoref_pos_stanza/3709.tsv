@@ -1,459 +1,461 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Če	Cs
-so	Va-r3p-n
-voditelji	Ncmpn
-z	Sg
-vrha	Ncmsg
-Evropske	Agpfsg
-unije	Ncfsg
-ob	Sl
-koncu	Ncmsl
-tedna	Ncmsg
-upali	Vmpp-pm
-,	Z
-da	Cs
-bo	Va-f3s-n
-zaveza	Ncfsn
-26	Mdc
-držav	Ncfpg
-fiskalnemu	Agpmsd
-paktu	Ncmsd
-pomirila	Vmep-sf
-trge	Ncmpa
-,	Z
-so	Va-r3p-n
-se	Px------y
-krepko	Rgp
-ušteli	Vmep-pm
-.	Z
-Skrbi	Vmpr3s
-zaradi	Sg
-nejasnosti	Ncfsg
-o	Sl
-sklenitvi	Ncfsl
-dogovora	Ncmsg
-,	Z
-njegove	Ps3fsgsm
-prihodnje	Agpfsg
-implementacije	Ncfsg
-in	Cc
-končnega	Agpmsg
-uspeha	Ncmsg
-so	Va-r3p-n
-namreč	Cc
-načele	Vmep-pf
-samozavest	Ncfsa
-vlagateljev	Ncmpg
-.	Z
-Podpora	Ncfsn
-evru	Ncmsd
-je	Va-r3s-n
-tako	Rgp
-včeraj	Rgp
-hitro	Rgp
-usahnila	Vmep-sf
-,	Z
-tečaj	Ncmsn
-skupne	Agpfsg
-valute	Ncfsg
-proti	Sd
-dolarju	Ncmsd
-je	Va-r3s-n
-namreč	Cc
-zdrsnil	Vmep-sm
-na	Sa
-najnižjo	Agsfsa
-raven	Ncfsa
-v	Sl
-mesecu	Ncmsl
-dni	Ncmpg
-(	Z
-1,3224	Mdc
-dolarja	Ncmsg
-za	Sa
-evro	Ncmsan
-)	Z
-.	Z
-Presenetljivo	Rgp
-pa	Cc
-je	Va-r3s-n
-vrednost	Ncfsn
-evra	Ncmsg
-padla	Vmep-sf
-tudi	Q
-proti	Sd
-britanskemu	Agpmsd
-funtu	Ncmsd
-,	Z
-valuti	Ncfsd
-sicer	Q
-iz	Sg
-fiskalnega	Agpmsg
-pakta	Ncmsg
-"	Z
-izključene	Appfsg
-"	Z
-Velike	Agpfsg
-Britanije	Npfsg
-.	Z
-Poteza	Ncfsn
-Davida	Npmsg
-Camerona	Npmsg
-,	Z
-predsednika	Ncmsg
-britanske	Agpfsg
-vlade	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-z	Si
-vetom	Ncmsi
-poskrbel	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-evropska	Agpfsn
-pogodba	Ncfsn
-ne	Q
-bo	Va-f3s-n
-spremenila	Vmep-sf
-,	Z
-in	Cc
-hkrati	Rgp
-začrtal	Vmep-sm
-pot	Ncfsa
-Britancev	Npmpg
-zunaj	Sg
-fiskalne	Agpfsg
-unije	Ncfsg
-,	Z
-se	Px------y
-je	Va-r3s-n
-tako	Rgp
-vsaj	Q
-kratkoročno	Rgp
-obrestovala	Vmpp-sf
-.	Z
-Ob	Sl
-mešanih	Appmpl
-odzivih	Ncmpl
-med	Si
-samim	Agpnsi
-prebivalstvom	Ncnsi
-pa	Cc
-se	Px------y
-poraja	Vmpr3s
-vprašanje	Ncnsn
-,	Z
-kakšne	Pq-fpn
-bodo	Va-f3p-n
-dolgoročne	Agpfpn
-finančne	Agpfpn
-posledice	Ncfpn
-za	Sa
-otoško	Agpfsa
-državo	Ncfsa
-.	Z
-Negotova	Agpfsn
-prihodnost	Ncfsn
-je	Va-r3s-n
-tako	Rgp
-med	Si
-britanskimi	Agpfpi
-bankami	Ncfpi
-in	Cc
-finančnimi	Agpmpi
-lobiji	Ncmpi
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-imeli	Vmpp-pm
-od	Sg
-ohranitve	Ncfsg
-finančne	Agpfsg
-suverenosti	Ncfsg
-Velike	Agpfsg
-Britanije	Npfsg
-največ	Rgs
-koristi	Ncfpg
-,	Z
-vladalo	Vmpp-sn
-zgolj	Q
-previdno	Agpnsa
-zadovoljstvo	Ncnsa
-.	Z
-Cameronov	Aspmsan
-veto	Ncmsan
-imajo	Vmpr3p-n
-mnogi	Pi-mpn
-"	Z
-konservativni	Agpmpn
-"	Z
-mediji	Ncmpn
-in	Cc
-politiki	Ncmpn
-celo	Q
-za	Sa
-vrnitev	Ncfsa
-na	Sa
-pota	Ncmsa
-stare	Agpfsg
-slave	Ncfsg
-in	Cc
-prvi	Mlomsa
-korak	Ncmsan
-k	Sd
-izstopu	Ncmsd
-Velike	Agpfsg
-Britanije	Npfsg
-iz	Sg
-EU	Npfsg
-,	Z
-ne	Q
-pa	Cc
-tudi	Q
-najvplivnejši	Agsfsn
-evropski	Agpfsd
-politiki	Ncfsd
-.	Z
-Čeprav	Cs
-je	Va-r3s-n
-francoski	Agpmsny
-predsednik	Ncmsn
-Nicolas	Npmsn
-Sarkozy	Npmsn
-označil	Vmep-sm
-"	Z
-razhod	Ncmsan
-"	Z
-z	Si
-Veliko	Agpfsi
-Britanijo	Npfsi
-in	Cc
-sklenitev	Ncfsi
-fiskalnega	Agpmsg
-pakta	Ncmsg
-za	Sa
-rojstvo	Ncnsa
-nove	Agpfsg
-Evrope	Npfsg
-,	Z
-je	Va-r3s-n
-hkrati	Rgp
-izrazil	Vmep-sm
-obžalovanje	Ncnsa
-nad	Si
-dejstvom	Ncnsi
-,	Z
-da	Cs
-v	Sl
-njem	Pp3msl
-ne	Q
-sodeluje	Vmpr3s
-celotna	Agpfsn
-sedemindvajseterica	Ncfsn
-.	Z
-"	Z
-V	Sl
-fiskalnem	Agpmsl
-paktu	Ncmsl
-smo	Va-r1p-n
-hoteli	Vmpp-pm
-tudi	Q
-Veliko	Agpfsa
-Britanijo	Npfsa
-,	Z
-tako	Cc
-zaradi	Sg
-Evrope	Npfsg
-in	Cc
-njenega	Ps3msgsf
-odgovora	Ncmsg
-na	Sa
-dolžniško	Agpfsa
-krizo	Ncfsa
-kot	Cs
-tudi	Q
-zaradi	Sg
-Britancev	Npmpg
-in	Cc
-njihove	Ps3fsgp
-prihodnosti	Ncfsg
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Sarkozy	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-si	Px---d--y
-želi	Vmpr3s
-močnih	Agpfpg
-in	Cc
-konstruktivnih	Agpfpg
-povezav	Ncfpg
-med	Si
-Veliko	Agpfsi
-Britanijo	Npfsi
-in	Cc
-Evropo	Npfsi
-.	Z
-"	Z
-Velika	Agpfsn
-Britanija	Npfsn
-mora	Vmpr3s
-biti	Va-n
-v	Sl
-samem	Agpnsl
-središču	Ncnsl
-Evrope	Npfsg
-in	Cc
-ne	Q
-na	Sl
-obrobju	Ncnsl
-,	Z
-"	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-Sarkozy	Npmsn
-.	Z
-Kot	Cs
-kaže	Vmpr3s
-,	Z
-pa	Cc
-kljub	Sd
-klicem	Ncfpd
-po	Sl
-ostrejšem	Agcnsl
-posredovanju	Ncnsl
-na	Sl
-trgih	Ncmpl
-na	Sa
-obrobje	Ncnsa
-vse	Rgp
-bolj	Rgc
-"	Z
-rine	Vmer3s
-"	Z
-guverner	Ncmsn
-Evropske	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-(	Z
-ECB	Npmsn
-)	Z
-Mario	Npmsn
-Draghi	Npmsn
-.	Z
-ECB	Npmsn
-je	Va-r3s-n
-namreč	Cc
-minuli	Appmsay
-teden	Ncmsan
-spet	Rgp
-drastično	Rgp
-zmanjšala	Vmep-sf
-obseg	Ncmsan
-nakupov	Ncmpg
-obveznic	Ncfpg
-(	Z
-pre	Ncmsn
-)	Z
-zadolženih	Appfpg
-držav	Ncfpg
-.	Z
-Tako	Cc
-z	Si
-znižanjem	Ncnsi
-obrestne	Agpfsg
-mere	Ncfsg
-kot	Cs
-s	Si
-krčenjem	Ncnsi
-obsega	Ncmsg
-kriznih	Agpmpg
-mehanizmov	Ncmpg
-Draghi	Ncmsg
-na	Sa
-neki	Pi-msa
-način	Ncmsan
-"	Z
-izničuje	Vmpr3s
-"	Z
-delo	Ncnsa
-predhodnika	Ncmsg
-Jean	Npmsn
--	Z
-Clauda	Npmsg
-Tricheta	Npmsg
-.	Z
-Še	Q
-avgusta	Ncmsg
-je	Va-r3s-n
-ECB	Npfsn
-namreč	Cc
-tedensko	Rgp
-kupovala	Vmpp-sf
-za	Sa
-okoli	Rgp
-22	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-obveznic	Ncfpg
-ogroženih	Appfpg
-držav	Ncfpg
-,	Z
-samo	Q
-v	Sl
-minulih	Appmpl
-treh	Mlcmpl
-tednih	Ncmpl
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-ta	Pd-msn
-obseg	Ncmsn
-zmanjšal	Vmep-sm
-z	Si
-8,58	Mdc
-na	Sa
-3,66	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-obveznic	Ncfpg
-pred	Si
-dvema	Mlcmdi
-tednoma	Ncmdi
-in	Cc
-"	Z
-le	Q
-"	Z
-še	Q
-na	Sa
-635	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-obveznic	Ncfpg
-v	Sl
-minulem	Appmsl
-tednu	Ncmsl
-.	Z
-Od	Sg
-pomladi	Ncfsg
-leta	Ncnsg
-2010	Mdc
-je	Va-r3s-n
-ECB	Npmsn
-sicer	Q
-kupila	Vmep-sf
-za	Sa
-207,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-obveznic	Ncfpg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Če	mte:Cs	če
+so	mte:Va-r3p-n	biti
+voditelji	mte:Ncmpn	voditelj
+z	mte:Sg	z
+vrha	mte:Ncmsg	vrh
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+ob	mte:Sl	ob
+koncu	mte:Ncmsl	konec
+tedna	mte:Ncmsg	teden
+upali	mte:Vmpp-pm	upati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+zaveza	mte:Ncfsn	zaveza
+26	mte:Mdc	26
+držav	mte:Ncfpg	država
+fiskalnemu	mte:Agpmsd	fiskalen
+paktu	mte:Ncmsd	pakt
+pomirila	mte:Vmep-sf	pomiriti
+trge	mte:Ncmpa	trg
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+krepko	mte:Rgp	krepko
+ušteli	mte:Vmep-pm	ušteti
+.	mte:Z	.
+Skrbi	mte:Vmpr3s	skrbeti
+zaradi	mte:Sg	zaradi
+nejasnosti	mte:Ncfsg	nejasnost
+o	mte:Sl	o
+sklenitvi	mte:Ncfsl	sklenitev
+dogovora	mte:Ncmsg	dogovor
+,	mte:Z	,
+njegove	mte:Ps3fsgsm	njegov
+prihodnje	mte:Agpfsg	prihodnji
+implementacije	mte:Ncfsg	implementacija
+in	mte:Cc	in
+končnega	mte:Agpmsg	končen
+uspeha	mte:Ncmsg	uspeh
+so	mte:Va-r3p-n	biti
+namreč	mte:Cc	namreč
+načele	mte:Vmep-pf	načeti
+samozavest	mte:Ncfsa	samozavest
+vlagateljev	mte:Ncmpg	vlagatelj
+.	mte:Z	.
+Podpora	mte:Ncfsn	podpora
+evru	mte:Ncmsd	evro
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+včeraj	mte:Rgp	včeraj
+hitro	mte:Rgp	hitro
+usahnila	mte:Vmep-sf	usahniti
+,	mte:Z	,
+tečaj	mte:Ncmsn	tečaj
+skupne	mte:Agpfsg	skupen
+valute	mte:Ncfsg	valuta
+proti	mte:Sd	proti
+dolarju	mte:Ncmsd	dolar
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+zdrsnil	mte:Vmep-sm	zdrsniti
+na	mte:Sa	na
+najnižjo	mte:Agsfsa	nizek
+raven	mte:Ncfsa	raven
+v	mte:Sl	v
+mesecu	mte:Ncmsl	mesec
+dni	mte:Ncmpg	dan
+(	mte:Z	(
+1,3224	mte:Mdc	1,3224
+dolarja	mte:Ncmsg	dolar
+za	mte:Sa	za
+evro	mte:Ncmsan	evro
+)	mte:Z	)
+.	mte:Z	.
+Presenetljivo	mte:Rgp	presenetljivo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vrednost	mte:Ncfsn	vrednost
+evra	mte:Ncmsg	evro
+padla	mte:Vmep-sf	pasti
+tudi	mte:Q	tudi
+proti	mte:Sd	proti
+britanskemu	mte:Agpmsd	britanski
+funtu	mte:Ncmsd	funt
+,	mte:Z	,
+valuti	mte:Ncfsd	valuta
+sicer	mte:Q	sicer
+iz	mte:Sg	iz
+fiskalnega	mte:Agpmsg	fiskalen
+pakta	mte:Ncmsg	pakt
+"	mte:Z	"
+izključene	mte:Appfsg	izključen
+"	mte:Z	"
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+.	mte:Z	.
+Poteza	mte:Ncfsn	poteza
+Davida	mte:Npmsg	David
+Camerona	mte:Npmsg	Cameron
+,	mte:Z	,
+predsednika	mte:Ncmsg	predsednik
+britanske	mte:Agpfsg	britanski
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+vetom	mte:Ncmsi	veto
+poskrbel	mte:Vmep-sm	poskrbeti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+evropska	mte:Agpfsn	evropski
+pogodba	mte:Ncfsn	pogodba
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+spremenila	mte:Vmep-sf	spremeniti
+,	mte:Z	,
+in	mte:Cc	in
+hkrati	mte:Rgp	hkrati
+začrtal	mte:Vmep-sm	začrtati
+pot	mte:Ncfsa	pot
+Britancev	mte:Npmpg	Britanec
+zunaj	mte:Sg	zunaj
+fiskalne	mte:Agpfsg	fiskalen
+unije	mte:Ncfsg	unija
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+vsaj	mte:Q	vsaj
+kratkoročno	mte:Rgp	kratkoročno
+obrestovala	mte:Vmpp-sf	obrestovati
+.	mte:Z	.
+Ob	mte:Sl	ob
+mešanih	mte:Appmpl	mešan
+odzivih	mte:Ncmpl	odziv
+med	mte:Si	med
+samim	mte:Agpnsi	sam
+prebivalstvom	mte:Ncnsi	prebivalstvo
+pa	mte:Cc	pa
+se	mte:Px------y	se
+poraja	mte:Vmpr3s	porajati
+vprašanje	mte:Ncnsn	vprašanje
+,	mte:Z	,
+kakšne	mte:Pq-fpn	kakšen
+bodo	mte:Va-f3p-n	biti
+dolgoročne	mte:Agpfpn	dolgoročen
+finančne	mte:Agpfpn	finančen
+posledice	mte:Ncfpn	posledica
+za	mte:Sa	za
+otoško	mte:Agpfsa	otoški
+državo	mte:Ncfsa	država
+.	mte:Z	.
+Negotova	mte:Agpfsn	Negotov
+prihodnost	mte:Ncfsn	prihodnost
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+med	mte:Si	med
+britanskimi	mte:Agpfpi	britanski
+bankami	mte:Ncfpi	banka
+in	mte:Cc	in
+finančnimi	mte:Agpmpi	finančen
+lobiji	mte:Ncmpi	lobik
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imeli	mte:Vmpp-pm	imeti
+od	mte:Sg	od
+ohranitve	mte:Ncfsg	ohranitev
+finančne	mte:Agpfsg	finančen
+suverenosti	mte:Ncfsg	suverenost
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+največ	mte:Rgs	največ
+koristi	mte:Ncfpg	korist
+,	mte:Z	,
+vladalo	mte:Vmpp-sn	vladati
+zgolj	mte:Q	zgolj
+previdno	mte:Agpnsa	previdno
+zadovoljstvo	mte:Ncnsa	zadovoljstvo
+.	mte:Z	.
+Cameronov	mte:Aspmsan	Cameronov
+veto	mte:Ncmsan	veto
+imajo	mte:Vmpr3p-n	imeti
+mnogi	mte:Pi-mpn	mnog
+"	mte:Z	"
+konservativni	mte:Agpmpn	konservativen
+"	mte:Z	"
+mediji	mte:Ncmpn	medij
+in	mte:Cc	in
+politiki	mte:Ncmpn	politika
+celo	mte:Q	celo
+za	mte:Sa	za
+vrnitev	mte:Ncfsa	vrnitev
+na	mte:Sa	na
+pota	mte:Ncmsa	pot
+stare	mte:Agpfsg	star
+slave	mte:Ncfsg	slava
+in	mte:Cc	in
+prvi	mte:Mlomsa	prvi
+korak	mte:Ncmsan	korak
+k	mte:Sd	k
+izstopu	mte:Ncmsd	izstop
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+iz	mte:Sg	iz
+EU	mte:Npfsg	EU
+,	mte:Z	,
+ne	mte:Q	ne
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+najvplivnejši	mte:Agsfsn	visoven
+evropski	mte:Agpfsd	evropski
+politiki	mte:Ncfsd	politika
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+francoski	mte:Agpmsny	francoski
+predsednik	mte:Ncmsn	predsednik
+Nicolas	mte:Npmsn	Nicolas
+Sarkozy	mte:Npmsn	Sarkozy
+označil	mte:Vmep-sm	označiti
+"	mte:Z	"
+razhod	mte:Ncmsan	razhod
+"	mte:Z	"
+z	mte:Si	z
+Veliko	mte:Agpfsi	velik
+Britanijo	mte:Npfsi	Britanija
+in	mte:Cc	in
+sklenitev	mte:Ncfsi	sklenitev
+fiskalnega	mte:Agpmsg	fiskalen
+pakta	mte:Ncmsg	pakt
+za	mte:Sa	za
+rojstvo	mte:Ncnsa	rojstvo
+nove	mte:Agpfsg	nov
+Evrope	mte:Npfsg	Evropa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+hkrati	mte:Rgp	hkrati
+izrazil	mte:Vmep-sm	izraziti
+obžalovanje	mte:Ncnsa	obžalovanje
+nad	mte:Si	nad
+dejstvom	mte:Ncnsi	dejstvo
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+njem	mte:Pp3msl	on
+ne	mte:Q	ne
+sodeluje	mte:Vmpr3s	sodelovati
+celotna	mte:Agpfsn	celoten
+sedemindvajseterica	mte:Ncfsn	sedemindvajseterica
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+fiskalnem	mte:Agpmsl	fiskalen
+paktu	mte:Ncmsl	pakt
+smo	mte:Va-r1p-n	biti
+hoteli	mte:Vmpp-pm	hoteti
+tudi	mte:Q	tudi
+Veliko	mte:Agpfsa	velik
+Britanijo	mte:Npfsa	Britanija
+,	mte:Z	,
+tako	mte:Cc	tako
+zaradi	mte:Sg	zaradi
+Evrope	mte:Npfsg	Evropa
+in	mte:Cc	in
+njenega	mte:Ps3msgsf	njen
+odgovora	mte:Ncmsg	odgovor
+na	mte:Sa	na
+dolžniško	mte:Agpfsa	dolžniški
+krizo	mte:Ncfsa	kriza
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+zaradi	mte:Sg	zaradi
+Britancev	mte:Npmpg	Britanec
+in	mte:Cc	in
+njihove	mte:Ps3fsgp	njihov
+prihodnosti	mte:Ncfsg	prihodnost
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Sarkozy	mte:Npmsn	Sarkozy
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+si	mte:Px---d--y	se
+želi	mte:Vmpr3s	želeti
+močnih	mte:Agpfpg	močen
+in	mte:Cc	in
+konstruktivnih	mte:Agpfpg	konstruktiven
+povezav	mte:Ncfpg	povezava
+med	mte:Si	med
+Veliko	mte:Agpfsi	velik
+Britanijo	mte:Npfsi	Britanija
+in	mte:Cc	in
+Evropo	mte:Npfsi	Evropa
+.	mte:Z	.
+"	mte:Z	"
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+mora	mte:Vmpr3s	morati
+biti	mte:Va-n	biti
+v	mte:Sl	v
+samem	mte:Agpnsl	sam
+središču	mte:Ncnsl	središče
+Evrope	mte:Npfsg	Evropa
+in	mte:Cc	in
+ne	mte:Q	ne
+na	mte:Sl	na
+obrobju	mte:Ncnsl	obrobje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+Sarkozy	mte:Npmsn	Sarkozy
+.	mte:Z	.
+Kot	mte:Cs	kot
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+pa	mte:Cc	pa
+kljub	mte:Sd	kljub
+klicem	mte:Ncfpd	klic
+po	mte:Sl	po
+ostrejšem	mte:Agcnsl	ostrej
+posredovanju	mte:Ncnsl	posredovanje
+na	mte:Sl	na
+trgih	mte:Ncmpl	trg
+na	mte:Sa	na
+obrobje	mte:Ncnsa	obrobje
+vse	mte:Rgp	vse
+bolj	mte:Rgc	bolj
+"	mte:Z	"
+rine	mte:Vmer3s	riniti
+"	mte:Z	"
+guverner	mte:Ncmsn	guverner
+Evropske	mte:Agpfsg	evropski
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+(	mte:Z	(
+ECB	mte:Npmsn	ECB
+)	mte:Z	)
+Mario	mte:Npmsn	Maria
+Draghi	mte:Npmsn	Draghi
+.	mte:Z	.
+ECB	mte:Npmsn	ECB
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+minuli	mte:Appmsay	minul
+teden	mte:Ncmsan	teden
+spet	mte:Rgp	spet
+drastično	mte:Rgp	drastično
+zmanjšala	mte:Vmep-sf	zmanjšati
+obseg	mte:Ncmsan	obseg
+nakupov	mte:Ncmpg	nakup
+obveznic	mte:Ncfpg	obveznica
+(	mte:Z	(
+pre	mte:Ncmsn	pre
+)	mte:Z	)
+zadolženih	mte:Appfpg	zadolžen
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Tako	mte:Cc	tako
+z	mte:Si	z
+znižanjem	mte:Ncnsi	znižanje
+obrestne	mte:Agpfsg	obresten
+mere	mte:Ncfsg	mera
+kot	mte:Cs	kot
+s	mte:Si	z
+krčenjem	mte:Ncnsi	krčenje
+obsega	mte:Ncmsg	obsegati
+kriznih	mte:Agpmpg	krizen
+mehanizmov	mte:Ncmpg	mehanizem
+Draghi	mte:Ncmsg	dragh
+na	mte:Sa	na
+neki	mte:Pi-msa	nek
+način	mte:Ncmsan	način
+"	mte:Z	"
+izničuje	mte:Vmpr3s	izničevati
+"	mte:Z	"
+delo	mte:Ncnsa	delo
+predhodnika	mte:Ncmsg	predhodnik
+Jean	mte:Npmsn	Jean
+-	mte:Z	-
+Clauda	mte:Npmsg	Claude
+Tricheta	mte:Npmsg	Tricheta
+.	mte:Z	.
+Še	mte:Q	še
+avgusta	mte:Ncmsg	avgust
+je	mte:Va-r3s-n	biti
+ECB	mte:Npfsn	ECB
+namreč	mte:Cc	namreč
+tedensko	mte:Rgp	tedensko
+kupovala	mte:Vmpp-sf	kupovati
+za	mte:Sa	za
+okoli	mte:Rgp	okoli
+22	mte:Mdc	22
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+obveznic	mte:Ncfpg	obveznica
+ogroženih	mte:Appfpg	ogrožen
+držav	mte:Ncfpg	država
+,	mte:Z	,
+samo	mte:Q	samo
+v	mte:Sl	v
+minulih	mte:Appmpl	minul
+treh	mte:Mlcmpl	trije
+tednih	mte:Ncmpl	teden
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+obseg	mte:Ncmsn	obseg
+zmanjšal	mte:Vmep-sm	zmanjšati
+z	mte:Si	z
+8,58	mte:Mdc	8,58
+na	mte:Sa	na
+3,66	mte:Mdc	3,66
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+obveznic	mte:Ncfpg	obveznica
+pred	mte:Si	pred
+dvema	mte:Mlcmdi	dva
+tednoma	mte:Ncmdi	teden
+in	mte:Cc	in
+"	mte:Z	"
+le	mte:Q	le
+"	mte:Z	"
+še	mte:Q	še
+na	mte:Sa	na
+635	mte:Mdc	635
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+obveznic	mte:Ncfpg	obveznica
+v	mte:Sl	v
+minulem	mte:Appmsl	minul
+tednu	mte:Ncmsl	teden
+.	mte:Z	.
+Od	mte:Sg	od
+pomladi	mte:Ncfsg	pomlad
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+je	mte:Va-r3s-n	biti
+ECB	mte:Npmsn	ECB
+sicer	mte:Q	sicer
+kupila	mte:Vmep-sf	kupiti
+za	mte:Sa	za
+207,5	mte:Mdc	207,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+obveznic	mte:Ncfpg	obveznica
+.	mte:Z	.
+jan.bratanic	mte:Ncfpg	jansbratanica
+@	mte:Z	@

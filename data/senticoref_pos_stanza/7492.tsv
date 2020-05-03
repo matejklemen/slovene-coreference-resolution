@@ -1,252 +1,278 @@
-token	tag
-Nadzorniki	Ncmpn
-na	Sl
-ustanovni	Agpfsl
-seji	Ncfsl
-Prenovljeni	Appmsny
-nadzorni	Agpmsny
-svet	Ncmsn
-Pošte	Ncfsg
-Slovenije	Npfsg
-se	Px------y
-bo	Va-f3s-n
-sešel	Vmep-sm
-na	Sl
-ustanovni	Agpfsl
-seji	Ncfsl
-.	Z
-Na	Sl
-njej	Pp3fsl
-bodo	Va-f3p-n
-po	Sl
-odstopu	Ncmsl
-Klemna	Agpmsg
-Grošlja	Npmsg
-nadzorniki	Ncmpn
-izbirali	Vmpp-pm
-novega	Agpmsa
-predsednika	Ncmsay
-.	Z
-Z	Si
-odstopom	Ncmsi
-Grošlja	Npmsg
-in	Cc
-Mojce	Npfsg
-Golc	Npfsg
-Goropečnik	Npfsg
-z	Sg
-mest	Ncnpg
-članov	Ncmpg
-nadzornega	Agpmsg
-sveta	Ncmsg
-se	Px------y
-je	Va-r3s-n
-skupščina	Ncfsn
-Pošte	Ncfsg
-Slovenije	Npfsg
-seznanila	Vmep-sf
-na	Sl
-julijski	Agpfsl
-seji	Ncfsl
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-je	Va-r3s-n
-odpoklicala	Vmep-sf
-Miloša	Npmsay
-Šenčurja	Npmsay
-.	Z
-Grošlja	Npmsay
-in	Cc
-Golc	Npmsn
-Goropečnikovo	Aspfsa
-sta	Va-r3d-n
-med	Si
-nadzorniki	Ncmpi
-kot	Cs
-nadomestna	Agpmdn
-člana	Ncmdn
-zamenjala	Vmep-dm
-Davorin	Npmsn
-Kračun	Npmsn
-in	Cc
-Peter	Npmsn
-Premk	Npmsn
-,	Z
-Šenčurja	Npmsg
-pa	Cc
-Samo	Q
-Sanzin	Npmsn
-.	Z
-Bo	Va-f3s-n
-nadzornike	Ncmpa
-vodil	Vmpp-sm
-Davorin	Npmsn
-Kračun	Npmsn
-?	Z
-V	Sl
-šestčlanskem	Agpmsl
-nadzornem	Agpmsl
-svetu	Ncmsl
-so	Va-r3p-n
-tako	Rgp
-izmed	Sg
-štirih	Mlcmpg
-predstavnikov	Ncmpg
-kapitala	Ncmsg
-trije	Mlcmpn
-novi	Agpmpn
-,	Z
-po	Sl
-pisanju	Ncnsl
-nekaterih	Pi-mpg
-medijev	Ncmpg
-pa	Cc
-bi	Va-c
-lahko	Rgp
-vodenje	Ncnsa
-nadzornega	Agpmsg
-sveta	Ncmsg
-prevzel	Vmep-sm
-Davorin	Npmsn
-Kračun	Npmsn
-.	Z
-Dosedanji	Agpmsny
-prvi	Mlomsn
-nadzornik	Ncmsn
-je	Va-r3s-n
-odstopno	Agpfsa
-izjavo	Ncfsa
-podal	Vmbp-sm
-20	Mdc
-.	Z
-julija	Ncmsg
-,	Z
-v	Sl
-vsega	Pg-msl
-devetmesečnem	Agpmsl
-mandatu	Ncmsl
-pa	Cc
-je	Va-r3s-n
-poskrbel	Vmep-sm
-za	Sa
-burne	Agpmpa
-čase	Ncmpa
-na	Sl
-Pošti	Ncfsl
-Slovenije	Npfsg
-.	Z
-Sporekel	Vmep-sm
-se	Px------y
-je	Va-r3s-n
-tudi	Q
-z	Si
-generalnim	Agpmsi
-direktorjem	Ncmsi
-Alešem	Npmsi
-Haucom	Npmsi
-in	Cc
-od	Sg
-njega	Pp3msg
-zahteval	Vmbp-sm
-odstop	Ncmsan
-.	Z
-Golc	Npmsn
-Goropečnikova	Aspfsn
-je	Va-r3s-n
-z	Sg
-mesta	Ncnsg
-članice	Ncfsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-odstopila	Vmep-sf
-že	Q
-15	Mdc
-.	Z
-aprila	Ncmsg
-.	Z
-Nadomestnim	Agpmsi
-nadzornikom	Ncmsi
-mandat	Ncmsn
-do	Sg
-7	Mdc
-.	Z
-oktobra	Ncmsg
-2014	Mdc
-Šenčurja	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-zaposlen	Appmsnn
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-gospodarstvo	Ncnsa
-,	Z
-je	Va-r3s-n
-skupščina	Ncfsn
-pošte	Ncfsg
-z	Sg
-mesta	Ncnsg
-člana	Ncmsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-odpoklicala	Vmep-sf
-na	Sa
-predlog	Ncmsan
-Agencije	Ncfsg
-za	Sa
-upravljanje	Ncnsa
-kapitalskih	Agpfpg
-naložb	Ncfpg
-RS	Npfsg
-zaradi	Sg
-potencialnega	Agpnsg
-navzkrižja	Ncnsg
-interesov	Ncmpg
-.	Z
-Vsi	Pg-mpn
-trije	Mlcmpn
-nadomestni	Agpmpn
-člani	Ncmpn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Pošte	Ncfsg
-Slovenije	Npfsg
--	Z
-Kračun	Npmsn
-,	Z
-Premk	Npmsn
-in	Cc
-Sanzin	Npmsn
--	Z
-so	Va-r3p-n
-dobili	Vmep-pm
-mandat	Ncmsan
-do	Sg
-7	Mdc
-.	Z
-oktobra	Ncmsg
-2014	Mdc
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-Pošte	Ncfsg
-Slovenije	Npfsg
-je	Va-r3s-n
-sicer	Q
-šestčlanski	Agpmsny
-,	Z
-pri	Sl
-čemer	Pr-nsl
-štiri	Mlcmpa
-člane	Ncmpa
-imenuje	Vmbr3s
-ustanovitelj	Ncmsn
-,	Z
-dva	Mlcmda
-pa	Cc
-izvoli	Vmer3s
-svet	Ncmsan
-delavcev	Ncmpg
-.	Z
+token	tag	lemma
+Nadzorniki	mte:Ncmpn	nadzornik
+na	mte:Sl	na
+ustanovni	mte:Agpfsl	ustanoven
+seji	mte:Ncfsl	seja
+Prenovljeni	mte:Appmsny	prenovljen
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+sešel	mte:Vmep-sm	sešeti
+na	mte:Sl	na
+ustanovni	mte:Agpfsl	ustanoven
+seji	mte:Ncfsl	seja
+.	mte:Z	.
+Na	mte:Sl	na
+njej	mte:Pp3fsl	on
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+odstopu	mte:Ncmsl	odstop
+Klemna	mte:Agpmsg	klemen
+Grošlja	mte:Npmsg	Grošelj
+nadzorniki	mte:Ncmpn	nadzornik
+izbirali	mte:Vmpp-pm	izbirati
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+.	mte:Z	.
+Z	mte:Si	z
+odstopom	mte:Ncmsi	odstop
+Grošlja	mte:Npmsg	Grošelj
+in	mte:Cc	in
+Mojce	mte:Npfsg	Mojca
+Golc	mte:Npfsg	Golc
+Goropečnik	mte:Npfsg	Goropečnik
+z	mte:Sg	z
+mest	mte:Ncnpg	mesto
+članov	mte:Ncmpg	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+skupščina	mte:Ncfsn	skupščina
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+seznanila	mte:Vmep-sf	seznaniti
+na	mte:Sl	na
+julijski	mte:Agpfsl	julijski
+seji	mte:Ncfsl	seja
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+odpoklicala	mte:Vmep-sf	odpoklicati
+Miloša	mte:Npmsay	Miloša
+Šenčurja	mte:Npmsay	Šenčur
+.	mte:Z	.
+Grošlja	mte:Npmsay	Grošelj
+in	mte:Cc	in
+Golc	mte:Npmsn	Golc
+Goropečnikovo	mte:Aspfsa	Goropečnikov
+sta	mte:Va-r3d-n	biti
+med	mte:Si	med
+nadzorniki	mte:Ncmpi	nadzornik
+kot	mte:Cs	kot
+nadomestna	mte:Agpmdn	nadomesten
+člana	mte:Ncmdn	član
+zamenjala	mte:Vmep-dm	zamenjati
+Davorin	mte:Npmsn	Davorin
+Kračun	mte:Npmsn	Kračun
+in	mte:Cc	in
+Peter	mte:Npmsn	Peter
+Premk	mte:Npmsn	Premk
+,	mte:Z	,
+Šenčurja	mte:Npmsg	Šenčur
+pa	mte:Cc	pa
+Samo	mte:Q	samo
+Sanzin	mte:Npmsn	Sanzin
+.	mte:Z	.
+Bo	mte:Va-f3s-n	biti
+nadzornike	mte:Ncmpa	nadzornik
+vodil	mte:Vmpp-sm	voditi
+Davorin	mte:Npmsn	Davorin
+Kračun	mte:Npmsn	Kračun
+?	mte:Z	?
+V	mte:Sl	v
+šestčlanskem	mte:Agpmsl	šestčlanski
+nadzornem	mte:Agpmsl	nadzoren
+svetu	mte:Ncmsl	svet
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+izmed	mte:Sg	izmed
+štirih	mte:Mlcmpg	štirje
+predstavnikov	mte:Ncmpg	predstavnik
+kapitala	mte:Ncmsg	kapital
+trije	mte:Mlcmpn	trije
+novi	mte:Agpmpn	nov
+,	mte:Z	,
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+nekaterih	mte:Pi-mpg	nekateri
+medijev	mte:Ncmpg	medij
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+vodenje	mte:Ncnsa	vodenje
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+prevzel	mte:Vmep-sm	prevzeti
+Davorin	mte:Npmsn	Davorin
+Kračun	mte:Npmsn	Kračun
+.	mte:Z	.
+Dosedanji	mte:Agpmsny	dosedanji
+prvi	mte:Mlomsn	prvi
+nadzornik	mte:Ncmsn	nadzornik
+je	mte:Va-r3s-n	biti
+odstopno	mte:Agpfsa	odstopen
+izjavo	mte:Ncfsa	izjava
+podal	mte:Vmbp-sm	podati
+20	mte:Mdc	20
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+,	mte:Z	,
+v	mte:Sl	v
+vsega	mte:Pg-msl	ves
+devetmesečnem	mte:Agpmsl	devetmesečen
+mandatu	mte:Ncmsl	mandat
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+poskrbel	mte:Vmep-sm	poskrbeti
+za	mte:Sa	za
+burne	mte:Agpmpa	buren
+čase	mte:Ncmpa	čas
+na	mte:Sl	na
+Pošti	mte:Ncfsl	pošta
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Sporekel	mte:Vmep-sm	sporeči
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+z	mte:Si	z
+generalnim	mte:Agpmsi	generalen
+direktorjem	mte:Ncmsi	direktor
+Alešem	mte:Npmsi	Aleš
+Haucom	mte:Npmsi	Hauco
+in	mte:Cc	in
+od	mte:Sg	od
+njega	mte:Pp3msg	on
+zahteval	mte:Vmbp-sm	zahtevati
+odstop	mte:Ncmsan	odstop
+.	mte:Z	.
+Golc	mte:Npmsn	Golc
+Goropečnikova	mte:Aspfsn	goropečnikov
+je	mte:Va-r3s-n	biti
+z	mte:Sg	z
+mesta	mte:Ncnsg	mesto
+članice	mte:Ncfsg	članica
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+odstopila	mte:Vmep-sf	odstopiti
+že	mte:Q	že
+15	mte:Mdc	15
+.	mte:Z	.
+aprila	mte:Ncmsg	april
+.	mte:Z	.
+Nadomestnim	mte:Agpmsi	nadomesten
+nadzornikom	mte:Ncmsi	nadzornik
+mandat	mte:Ncmsn	mandat
+do	mte:Sg	do
+7	mte:Mdc	7
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+2014	mte:Mdc	2014
+Šenčurja	mte:Npmsg	Šenčur
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zaposlen	mte:Appmsnn	zaposlen
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+skupščina	mte:Ncfsn	skupščina
+pošte	mte:Ncfsg	pošta
+z	mte:Sg	z
+mesta	mte:Ncnsg	mesto
+člana	mte:Ncmsg	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+odpoklicala	mte:Vmep-sf	odpoklicati
+na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+Agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+RS	mte:Npfsg	RS
+zaradi	mte:Sg	zaradi
+potencialnega	mte:Agpnsg	potencialen
+navzkrižja	mte:Ncnsg	navzkrižje
+interesov	mte:Ncmpg	interes
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+trije	mte:Mlcmpn	trije
+nadomestni	mte:Agpmpn	nadomesten
+člani	mte:Ncmpn	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+-	mte:Z	-
+Kračun	mte:Npmsn	Kračun
+,	mte:Z	,
+Premk	mte:Npmsn	Premk
+in	mte:Cc	in
+Sanzin	mte:Npmsn	Sanzin
+-	mte:Z	-
+so	mte:Va-r3p-n	biti
+dobili	mte:Vmep-pm	dobiti
+mandat	mte:Ncmsan	mandat
+do	mte:Sg	do
+7	mte:Mdc	7
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+2014	mte:Mdc	2014
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+šestčlanski	mte:Agpmsny	šestčlanski
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+štiri	mte:Mlcmpa	štirje
+člane	mte:Ncmpa	član
+imenuje	mte:Vmbr3s	imenovati
+ustanovitelj	mte:Ncmsn	ustanovitelj
+,	mte:Z	,
+dva	mte:Mlcmdn	dva
+pa	mte:Cc	pa
+izvoli	mte:Vmer3s	izvoleti
+svet	mte:Ncmsan	svet
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+treh	mte:Mlcmpg	trije
+novih	mte:Agpmpg	nov
+nadzornikov	mte:Ncmpg	nadzornik
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+nadzornem	mte:Agpmsl	nadzoren
+svetu	mte:Ncmsl	svet
+pošte	mte:Ncfsg	pošta
+kot	mte:Cs	kot
+edina	mte:Agpfsn	edin
+od	mte:Sg	od
+prejšnjih	mte:Agpmpg	prejšnji
+članov	mte:Ncmpg	član
+še	mte:Q	še
+Barbara	mte:Npfsn	Barbara
+Gorjup	mte:Npfsn	Gorjup
+,	mte:Z	,
+zaposlene	mte:Appfpn	zaposlen
+pa	mte:Cc	pa
+zastopata	mte:Vmpr3d	zastopati
+Bernarda	mte:Npmsn	Bernard
+Keše	mte:Npmsn	Keše
+in	mte:Cc	in
+Božidar	mte:Npmsn	Božidar
+Pograjc	mte:Npmsn	Pograjc

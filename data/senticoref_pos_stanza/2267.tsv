@@ -1,403 +1,433 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Državna	Agpfsn
-revizijska	Agpfsn
-komisija	Ncfsn
-je	Va-r3s-n
-delno	Rgp
-ugodila	Vmep-sf
-zahtevku	Ncmsd
-za	Sa
-revizijo	Ncfsa
-postopka	Ncmsg
-javnega	Agpnsg
-naročila	Ncnsg
-oddaje	Ncfsg
-del	Ncmsan
-graditve	Ncfsg
-predora	Ncmsg
-Markovec	Npmsn
-in	Cc
-razveljavila	Vmep-sf
-odločitev	Ncfsa
-naročnika	Ncmsg
-,	Z
-Družbe	Ncfsg
-za	Sa
-avtoceste	Ncfpa
-v	Sl
-RS	Npfsl
-(	Z
-Dars	Npmsn
-)	Z
-,	Z
-o	Sl
-oddaji	Ncfsl
-javnega	Agpnsg
-naročila	Ncnsg
-skupini	Ncfsd
-italijanskih	Agpfpg
-družb	Ncfpg
-v	Sl
-skupnem	Agpmsl
-nastopu	Ncmsl
-.	Z
-Ugotovili	Vmep-pm
-so	Va-r3p-n
-,	Z
-da	Cs
-italijanski	Agpmpn
-ponudniki	Ncmpn
-niso	Va-r3p-y
-izkazali	Vmep-pm
-potrebnih	Agpfpg
-referenc	Ncfpg
-.	Z
-Dars	Npmsn
-lahko	Rgp
-sedaj	Rgp
-postopek	Ncmsan
-javnega	Agpnsg
-naročanja	Ncnsg
-za	Sa
-izgradnjo	Ncfsa
-predora	Ncmsg
-Markovec	Npmsn
-nadaljuje	Vmpr3s
-in	Cc
-javno	Agpnsn
-naročilo	Ncnsa
-odda	Vmer3s
-naslednjemu	Agpmsd
-najugodnejšemu	Agsmsd
-ponudniku	Ncmsd
-,	Z
-ki	Cs
-izpolnjuje	Vmpr3s
-vse	Pg-mpa
-razpisne	Agpmpa
-pogoje	Ncmpa
-,	Z
-lahko	Rgp
-pa	Cc
-postopek	Ncmsn
-zaključi	Vmer3s
-brez	Sg
-izbire	Ncfsg
-ponudnika	Ncmsg
-in	Cc
-,	Z
-glede	Rgp
-na	Sa
-ugotovljena	Appnpa
-nova	Agpnpa
-dejstva	Ncnpa
-in	Cc
-okoliščine	Ncfpa
-,	Z
-postopek	Ncmsn
-javnega	Agpnsg
-naročanja	Ncnsg
-ponovi	Vmer3s
-.	Z
-Uprava	Ncfsn
-Darsa	Npmsg
-bo	Va-f3s-n
-odločitev	Ncfsa
-o	Sl
-tem	Pd-nsl
-sprejela	Vmep-sf
-predvidoma	Rgp
-v	Sl
-prihodnjem	Agpmsl
-mesecu	Ncmsl
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-Darsa	Npmsg
-.	Z
-Državna	Agpfsn
-revizijska	Agpfsn
-komisija	Ncfsn
-se	Px------y
-je	Va-r3s-n
-pri	Sl
-pregledu	Ncmsl
-zahtevka	Ncmsg
-SCT	Npmsg
-in	Cc
-Primorja	Npnsg
-ustavila	Vmep-sf
-že	Q
-pri	Sl
-referencah	Ncfpl
-italijanskega	Agpmsg
-ponudnika	Ncmsg
-.	Z
-"	Z
-Niti	Q
-ena	Mlpfsn
-od	Sg
-priloženih	Appfpg
-referenc	Ncfpg
-ni	Va-r3s-y
-ustrezala	Vmpp-sf
-.	Z
-Za	Sa
-to	Pd-fsa
-izbiro	Ncfsa
-postopek	Ncmsn
-se	Px------y
-uporablja	Vmpr3s
-še	Q
-star	Agpmsnn
-zakon	Ncmsn
-o	Sl
-javnih	Agpnpl
-naročilih	Ncnpl
-,	Z
-po	Sl
-katerem	Pq-msl
-dopolnjevanja	Ncnsg
-ponudbe	Ncfsg
-niso	Va-r3p-y
-mogoča	Agpnpn
-,	Z
-tako	Cc
-da	Cs
-italijanski	Agpmsny
-ponudnik	Ncmsn
-ni	Va-r3s-y
-izkazal	Vmep-sm
-minimalne	Agpfsg
-ustreznosti	Ncfsg
-za	Sa
-izvedbo	Ncfsa
-tega	Pd-msg
-posla	Ncmsg
-,	Z
-"	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-predsednik	Ncmsn
-Državne	Agpfsg
-revizijske	Agpfsg
-komisije	Ncfsg
-Samo	Q
-Červek	Npmsn
-.	Z
-V	Sl
-družbi	Ncfsl
-SCT	Npmsn
-so	Va-r3p-n
-z	Si
-odločitvijo	Ncfsi
-komisije	Ncfsg
-zadovoljni	Agpmpn
-.	Z
-"	Z
-Državna	Agpfsn
-revizijska	Agpfsn
-komisija	Ncfsn
-je	Va-r3s-n
-s	Si
-svojo	Px-fsi
-odločitvijo	Ncfsi
-sledila	Vmpp-sf
-zakonodaji	Ncfsd
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-dokaz	Ncmsn
-,	Z
-da	Cs
-v	Sl
-Sloveniji	Npfsl
-gremo	Vmbr1p
-po	Sl
-poti	Ncfsl
-pravne	Agpfsg
-države	Ncfsg
-,	Z
-"	Z
-so	Va-r3p-n
-v	Sl
-sporočilu	Ncnsl
-za	Sa
-javnost	Ncfsa
-zapisali	Vmep-pm
-v	Sl
-družbi	Ncfsl
-SCT	Npmsn
-.	Z
-Červek	Npmsn
-meni	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-izbira	Ncfsn
-izvajalca	Ncmsg
-,	Z
-če	Cs
-bo	Va-f3s-n
-Dars	Npmsn
-nadaljeval	Vmpp-sm
-s	Si
-postopkom	Ncmsi
-,	Z
-zavlekla	Vmep-sf
-za	Sa
-dober	Agpmsan
-mesec	Ncmsan
-.	Z
-Če	Cs
-bodo	Va-f3p-n
-postopek	Ncmsan
-izbire	Ncfsg
-ponovili	Vmep-pm
-,	Z
-bo	Va-f3s-n
-trajalo	Vmpp-sn
-dlje	Rgc
-časa	Ncmsg
-,	Z
-vendar	Cc
-bi	Va-c
-lahko	Rgp
-,	Z
-če	Cs
-bodo	Va-f3p-n
-"	Z
-hitro	Rgp
-ulovili	Vmep-pm
-roke	Ncfpa
-in	Cc
-ravnali	Vmpp-pm
-pametno	Agpfsa
-"	Z
-,	Z
-stvar	Ncfsa
-izvedli	Vmep-pm
-vsaj	Q
-do	Sg
-začetka	Ncmsg
-jeseni	Rgp
-.	Z
-Uprava	Ncfsn
-Darsa	Npmsg
-je	Va-r3s-n
-svojo	Px-fsa
-odločitev	Ncfsa
-o	Sl
-izboru	Ncmsl
-najprimernejšega	Agsmsg
-izvajalca	Ncmsg
-za	Sa
-gradnjo	Ncfsa
-predora	Ncmsg
-Markovec	Npmsn
-sprejela	Vmep-sf
-"	Z
-v	Sl
-skrbi	Ncfsl
-za	Sa
-gospodarnost	Ncfsa
-porabe	Ncfsg
-finančnih	Agpnpg
-sredstev	Ncnpg
-in	Cc
-zato	Cc
-izbrala	Vmep-sf
-cenovno	Rgp
-najugodnejšega	Agsmsa
-ponudnika	Ncmsay
-"	Z
-,	Z
-so	Va-r3p-n
-zapisali	Vmep-pm
-na	Sl
-Darsu	Npmsl
-in	Cc
-dodali	Vmep-pm
-,	Z
-da	Cs
-ta	Pd-fsn
-odločitev	Ncfsn
-uprave	Ncfsg
-Darsa	Npmsg
-"	Z
-iz	Sg
-procesno	Rgp
-formalnih	Agpmpg
-razlogov	Ncmpg
-s	Sg
-strani	Ncfsg
-Državne	Agpfsg
-revizijske	Agpfsg
-komisije	Ncfsg
-ni	Va-r3s-y
-bila	Va-p-sf
-potrjena	Appfsn
-"	Z
-.	Z
-Na	Sl
-razpisu	Ncmsl
-za	Sa
-gradnjo	Ncfsa
-predora	Ncmsg
-Markovec	Npmsn
-na	Sl
-odseku	Ncmsl
-hitre	Agpfsg
-ceste	Ncfsg
-Koper	Npmsn
--	Z
-Izola	Npfsn
-je	Va-r3s-n
-Dars	Npmsn
-med	Si
-tremi	Mlcmpi
-ponudniki	Ncmpi
-izbral	Vmep-sm
-skupino	Ncfsa
-italijanskih	Agpnpg
-podjetij	Ncnpg
-v	Sl
-skupnem	Agpmsl
-nastopu	Ncmsl
-(	Z
-Vidoni	Npmsn
-,	Z
-Oberosler	Npmsn
-cav	Npmsn
-.	Z
-Pietro	Npmsn
-in	Cc
-Intercantieri	Npmsn
-Vittadello	Npmsn
-)	Z
-.	Z
-Poleg	Sg
-Italijanov	Npmpg
-sta	Va-r3d-n
-se	Px------y
-za	Sa
-gradnjo	Ncfsa
-potegovala	Vmpp-dm
-tudi	Q
-konzorcij	Ncmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-sestavljata	Vmpr3d
-SCT	Npmsn
-in	Cc
-Primorje	Npnsn
-,	Z
-ter	Cc
-avstrijski	Agpmsny
-Strabag	Ncmsn
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Državna	mte:Agpfsn	državen
+revizijska	mte:Agpfsn	revizijski
+komisija	mte:Ncfsn	komisija
+je	mte:Va-r3s-n	biti
+delno	mte:Rgp	delno
+ugodila	mte:Vmep-sf	ugoditi
+zahtevku	mte:Ncmsd	zahtevek
+za	mte:Sa	za
+revizijo	mte:Ncfsa	revizija
+postopka	mte:Ncmsg	postopek
+javnega	mte:Agpnsg	javen
+naročila	mte:Ncnsg	naročilo
+oddaje	mte:Ncfsg	oddaja
+del	mte:Ncmsan	del
+graditve	mte:Ncfsg	graditev
+predora	mte:Ncmsg	predor
+Markovec	mte:Npmsn	Markovec
+in	mte:Cc	in
+razveljavila	mte:Vmep-sf	razveljaviti
+odločitev	mte:Ncfsa	odločitev
+naročnika	mte:Ncmsg	naročnik
+,	mte:Z	,
+Družbe	mte:Ncfsg	družba
+za	mte:Sa	za
+avtoceste	mte:Ncfpa	avtocesta
+v	mte:Sl	v
+RS	mte:Npfsl	RS
+(	mte:Z	(
+Dars	mte:Npmsn	Dars
+)	mte:Z	)
+,	mte:Z	,
+o	mte:Sl	o
+oddaji	mte:Ncfsl	oddaja
+javnega	mte:Agpnsg	javen
+naročila	mte:Ncnsg	naročilo
+skupini	mte:Ncfsd	skupina
+italijanskih	mte:Agpfpg	italijanski
+družb	mte:Ncfpg	družba
+v	mte:Sl	v
+skupnem	mte:Agpmsl	skupen
+nastopu	mte:Ncmsl	nastop
+.	mte:Z	.
+Ugotovili	mte:Vmep-pm	ugotoviti
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+italijanski	mte:Agpmpn	italijanski
+ponudniki	mte:Ncmpn	ponudnik
+niso	mte:Va-r3p-y	biti
+izkazali	mte:Vmep-pm	izkazati
+potrebnih	mte:Agpfpg	potreben
+referenc	mte:Ncfpg	referenca
+.	mte:Z	.
+Dars	mte:Npmsn	Dars
+lahko	mte:Rgp	lahko
+sedaj	mte:Rgp	sedaj
+postopek	mte:Ncmsan	postopek
+javnega	mte:Agpnsg	javen
+naročanja	mte:Ncnsg	naročanje
+za	mte:Sa	za
+izgradnjo	mte:Ncfsa	izgradnja
+predora	mte:Ncmsg	predor
+Markovec	mte:Npmsn	Markovec
+nadaljuje	mte:Vmpr3s	nadaljevati
+in	mte:Cc	in
+javno	mte:Agpnsn	javen
+naročilo	mte:Ncnsa	naročiti
+odda	mte:Vmer3s	oddati
+naslednjemu	mte:Agpmsd	naslednji
+najugodnejšemu	mte:Agsmsd	ngoden
+ponudniku	mte:Ncmsd	ponudnik
+,	mte:Z	,
+ki	mte:Cs	ki
+izpolnjuje	mte:Vmpr3s	izpolnjevati
+vse	mte:Pg-mpa	ves
+razpisne	mte:Agpmpa	razpisen
+pogoje	mte:Ncmpa	pogoj
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+pa	mte:Cc	pa
+postopek	mte:Ncmsn	postopek
+zaključi	mte:Vmer3s	zaključiti
+brez	mte:Sg	brez
+izbire	mte:Ncfsg	izbira
+ponudnika	mte:Ncmsg	ponudnik
+in	mte:Cc	in
+,	mte:Z	,
+glede	mte:Rgp	glede
+na	mte:Sa	na
+ugotovljena	mte:Appnpa	ugotovljen
+nova	mte:Agpnpa	nov
+dejstva	mte:Ncnpa	dejstvo
+in	mte:Cc	in
+okoliščine	mte:Ncfpa	okoliščina
+,	mte:Z	,
+postopek	mte:Ncmsn	postopek
+javnega	mte:Agpnsg	javen
+naročanja	mte:Ncnsg	naročanje
+ponovi	mte:Vmer3s	ponoviti
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+Darsa	mte:Npmsg	Dars
+bo	mte:Va-f3s-n	biti
+odločitev	mte:Ncfsa	odločitev
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+sprejela	mte:Vmep-sf	sprejeti
+predvidoma	mte:Rgp	predvidoma
+v	mte:Sl	v
+prihodnjem	mte:Agpmsl	prihodnji
+mesecu	mte:Ncmsl	mesec
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Darsa	mte:Npmsg	Dars
+.	mte:Z	.
+Državna	mte:Agpfsn	državen
+revizijska	mte:Agpfsn	revizijski
+komisija	mte:Ncfsn	komisija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+pregledu	mte:Ncmsl	pregled
+zahtevka	mte:Ncmsg	zahtevek
+SCT	mte:Npmsg	SCT
+in	mte:Cc	in
+Primorja	mte:Npnsg	Primorje
+ustavila	mte:Vmep-sf	ustaviti
+že	mte:Q	že
+pri	mte:Sl	pri
+referencah	mte:Ncfpl	referenca
+italijanskega	mte:Agpmsg	italijanski
+ponudnika	mte:Ncmsg	ponudnik
+.	mte:Z	.
+"	mte:Z	"
+Niti	mte:Q	niti
+ena	mte:Mlpfsn	en
+od	mte:Sg	od
+priloženih	mte:Appfpg	priložen
+referenc	mte:Ncfpg	referenca
+ni	mte:Va-r3s-y	biti
+ustrezala	mte:Vmpp-sf	ustrezati
+.	mte:Z	.
+Za	mte:Sa	za
+to	mte:Pd-fsa	ta
+izbiro	mte:Ncfsa	izbira
+postopek	mte:Ncmsn	postopek
+se	mte:Px------y	se
+uporablja	mte:Vmpr3s	uporabljati
+še	mte:Q	še
+star	mte:Agpmsnn	star
+zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+javnih	mte:Agpnpl	javen
+naročilih	mte:Ncnpl	naročilo
+,	mte:Z	,
+po	mte:Sl	po
+katerem	mte:Pq-msl	kateri
+dopolnjevanja	mte:Ncnsg	dopolnjevanje
+ponudbe	mte:Ncfsg	ponudba
+niso	mte:Va-r3p-y	biti
+mogoča	mte:Agpnpn	mogoč
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+italijanski	mte:Agpmsny	italijanski
+ponudnik	mte:Ncmsn	ponudnik
+ni	mte:Va-r3s-y	biti
+izkazal	mte:Vmep-sm	izkazati
+minimalne	mte:Agpfsg	minimalen
+ustreznosti	mte:Ncfsg	ustreznost
+za	mte:Sa	za
+izvedbo	mte:Ncfsa	izvedba
+tega	mte:Pd-msg	ta
+posla	mte:Ncmsg	posel
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+predsednik	mte:Ncmsn	predsednik
+Državne	mte:Agpfsg	državen
+revizijske	mte:Agpfsg	revizijski
+komisije	mte:Ncfsg	komisija
+Samo	mte:Q	samo
+Červek	mte:Npmsn	Červek
+.	mte:Z	.
+V	mte:Sl	v
+družbi	mte:Ncfsl	družba
+SCT	mte:Npmsn	SCT
+so	mte:Va-r3p-n	biti
+z	mte:Si	z
+odločitvijo	mte:Ncfsi	odločitev
+komisije	mte:Ncfsg	komisija
+zadovoljni	mte:Agpmpn	zadovoljen
+.	mte:Z	.
+"	mte:Z	"
+Državna	mte:Agpfsn	državen
+revizijska	mte:Agpfsn	revizijski
+komisija	mte:Ncfsn	komisija
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+svojo	mte:Px-fsi	svoj
+odločitvijo	mte:Ncfsi	odločitev
+sledila	mte:Vmpp-sf	slediti
+zakonodaji	mte:Ncfsd	zakonodaja
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+dokaz	mte:Ncmsn	dokaz
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+gremo	mte:Vmbr1p	iti
+po	mte:Sl	po
+poti	mte:Ncfsl	pot
+pravne	mte:Agpfsg	praven
+države	mte:Ncfsg	država
+,	mte:Z	,
+"	mte:Z	"
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+zapisali	mte:Vmep-pm	zapisati
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Červek	mte:Npmsn	Červek
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+izbira	mte:Ncfsn	izbira
+izvajalca	mte:Ncmsg	izvajalec
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+Dars	mte:Npmsn	Dars
+nadaljeval	mte:Vmpp-sm	nadaljevati
+s	mte:Si	z
+postopkom	mte:Ncmsi	postopek
+,	mte:Z	,
+zavlekla	mte:Vmep-sf	zavleči
+za	mte:Sa	za
+dober	mte:Agpmsan	dober
+mesec	mte:Ncmsan	mesec
+.	mte:Z	.
+Če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+postopek	mte:Ncmsan	postopek
+izbire	mte:Ncfsg	izbira
+ponovili	mte:Vmep-pm	ponoviti
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+trajalo	mte:Vmpp-sn	trajati
+dlje	mte:Rgc	dolgo
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+vendar	mte:Cc	vendar
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+"	mte:Z	"
+hitro	mte:Rgp	hitro
+ulovili	mte:Vmep-pm	uloviti
+roke	mte:Ncfpa	roka
+in	mte:Cc	in
+ravnali	mte:Vmpp-pm	ravnati
+pametno	mte:Agpfsa	pameten
+"	mte:Z	"
+,	mte:Z	,
+stvar	mte:Ncfsa	stvar
+izvedli	mte:Vmep-pm	izvesti
+vsaj	mte:Q	vsaj
+do	mte:Sg	do
+začetka	mte:Ncmsg	začetek
+jeseni	mte:Rgp	jeseni
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+Darsa	mte:Npmsg	Dars
+je	mte:Va-r3s-n	biti
+svojo	mte:Px-fsa	svoj
+odločitev	mte:Ncfsa	odločitev
+o	mte:Sl	o
+izboru	mte:Ncmsl	izbor
+najprimernejšega	mte:Agsmsg	primeren
+izvajalca	mte:Ncmsg	izvajalec
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+predora	mte:Ncmsg	predor
+Markovec	mte:Npmsn	Markovec
+sprejela	mte:Vmep-sf	sprejeti
+"	mte:Z	"
+v	mte:Sl	v
+skrbi	mte:Ncfsl	skrb
+za	mte:Sa	za
+gospodarnost	mte:Ncfsa	gospodarnost
+porabe	mte:Ncfsg	poraba
+finančnih	mte:Agpnpg	finančen
+sredstev	mte:Ncnpg	sredstvo
+in	mte:Cc	in
+zato	mte:Cc	zato
+izbrala	mte:Vmep-sf	izbrati
+cenovno	mte:Rgp	cenovno
+najugodnejšega	mte:Agsmsa	ugoden
+ponudnika	mte:Ncmsay	ponudnik
+"	mte:Z	"
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+zapisali	mte:Vmep-pm	zapisati
+na	mte:Sl	na
+Darsu	mte:Npmsl	Dars
+in	mte:Cc	in
+dodali	mte:Vmep-pm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-fsn	ta
+odločitev	mte:Ncfsn	odločitev
+uprave	mte:Ncfsg	uprava
+Darsa	mte:Npmsg	Dars
+"	mte:Z	"
+iz	mte:Sg	iz
+procesno	mte:Rgp	procesno
+formalnih	mte:Agpmpg	formalen
+razlogov	mte:Ncmpg	razlog
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+Državne	mte:Agpfsg	državen
+revizijske	mte:Agpfsg	revizijski
+komisije	mte:Ncfsg	komisija
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+potrjena	mte:Appfsn	potrjen
+"	mte:Z	"
+.	mte:Z	.
+Na	mte:Sl	na
+razpisu	mte:Ncmsl	razpis
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+predora	mte:Ncmsg	predor
+Markovec	mte:Npmsn	Markovec
+na	mte:Sl	na
+odseku	mte:Ncmsl	odsek
+hitre	mte:Agpfsg	hiter
+ceste	mte:Ncfsg	cesta
+Koper	mte:Npmsn	Koper
+-	mte:Z	-
+Izola	mte:Npfsn	Izola
+je	mte:Va-r3s-n	biti
+Dars	mte:Npmsn	Dars
+med	mte:Si	med
+tremi	mte:Mlcmpi	trije
+ponudniki	mte:Ncmpi	ponudnik
+izbral	mte:Vmep-sm	izbrati
+skupino	mte:Ncfsa	skupina
+italijanskih	mte:Agpnpg	italijanski
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+skupnem	mte:Agpmsl	skupen
+nastopu	mte:Ncmsl	nastop
+(	mte:Z	(
+Vidoni	mte:Npmsn	Vidona
+,	mte:Z	,
+Oberosler	mte:Npmsn	Oberosler
+cav	mte:Npmsn	cav
+.	mte:Z	.
+Pietro	mte:Npmsn	Pietro
+in	mte:Cc	in
+Intercantieri	mte:Npmsn	Intercantieri
+Vittadello	mte:Npmsn	Vittadello
+)	mte:Z	)
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+Italijanov	mte:Npmpg	Italijan
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+potegovala	mte:Vmpp-dm	potegovati
+tudi	mte:Q	tudi
+konzorcij	mte:Ncmsn	konzorcija
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+sestavljata	mte:Vmpr3d	sestavljati
+SCT	mte:Npmsn	SCT
+in	mte:Cc	in
+Primorje	mte:Npnsn	Primorje
+,	mte:Z	,
+ter	mte:Cc	ter
+avstrijski	mte:Agpmsny	avstrijski
+Strabag	mte:Npmsn	Strabag
+.	mte:Z	.
+SCT	mte:Npmsn	SCT
+in	mte:Cc	in
+Primorje	mte:Npnsn	Primorje
+sta	mte:Va-r3d-n	biti
+marca	mte:Ncmdg	marec
+vložila	mte:Vmep-dm	vložiti
+zahtevek	mte:Ncmsan	zahtevek
+za	mte:Sa	za
+revizijo	mte:Ncfsa	revizija
+postopka	mte:Ncmsg	postopek
+izbire	mte:Ncfsg	izbira
+,	mte:Z	,
+Dars	mte:Npmsn	Dars
+je	mte:Va-r3s-n	biti
+zahtevek	mte:Ncmsan	zahtevek
+zavrnil	mte:Vmep-sm	zavrniti
+z	mte:Si	z
+utemeljitvijo	mte:Ncfsi	utemeljitev
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsa	ta
+javno	mte:Rgp	javno
+naročilo	mte:Vmep-sn	naročiti
+oddal	mte:Vmep-sm	oddati
+skladno	mte:Rgp	skladno
+z	mte:Si	z
+načelom	mte:Ncnsi	načelo
+dobrega	mte:Agpmsg	dober
+gospodarja	mte:Ncmsg	gospodar

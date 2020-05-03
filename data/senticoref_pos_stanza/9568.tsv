@@ -1,318 +1,335 @@
-token	tag
-Na	Sl
-slovenskih	Agpfpl
-cestah	Ncfpl
-,	Z
-predvsem	Q
-na	Sl
-Obali	Ncfsl
-in	Cc
-proti	Sd
-notranjosti	Ncfsd
-države	Ncfsg
-,	Z
-je	Va-r3s-n
-promet	Ncmsn
-zelo	Rgp
-gost	Agpmsnn
-,	Z
-na	Sl
-mejnih	Agpmpl
-prehodih	Ncmpl
-pa	Cc
-se	Px------y
-čaka	Vmpr3s
-.	Z
-Ta	Pd-msn
-vikend	Ncmsn
-na	Sa
-Hrvaško	Npfsa
-šlo	Vmbp-sn
-85	Mdc
-tisoč	Mlc-pa
-tujih	Agpmpg
-turistov	Ncmpg
-.	Z
-Policija	Ncfsn
-v	Sl
-Pulju	Npmsl
-je	Va-r3s-n
-potrdila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-od	Sg
-petka	Ncmsg
-do	Sg
-nedelje	Ncfsg
-opoldan	Rgp
-čez	Sa
-tri	Mlcmpa
-mejne	Agpmpa
-prehode	Ncmpa
-s	Si
-Slovenijo	Npfsi
-v	Sa
-hrvaško	Agpfsa
-Istro	Npfsa
-vstopilo	Vmep-sn
-92.217	Mdc
-oseb	Ncfpg
-,	Z
-med	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-bilo	Va-p-sn
-več	Rgc
-kot	Cs
-85	Mdc
-tisoč	Mlc-pa
-tujih	Agpmpg
-gostov	Ncmpg
-.	Z
-Dodali	Vmep-pm
-so	Va-r3p-n
-,	Z
-da	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-tuji	Agpmpn
-turisti	Ncmpn
-večinoma	Rgp
-iz	Sg
-Slovenije	Npfsg
-,	Z
-Nemčije	Npfsg
-in	Cc
-Italije	Npfsg
-.	Z
-Gre	Vmbr3s
-za	Sa
-mejne	Agpmpa
-prehode	Ncmpa
-Sečovlje	Npfsn
-(	Z
-Plovanija	Npfsn
-)	Z
-,	Z
-Sočerga	Npmsn
-(	Z
-Požane	Npmsn
-)	Z
-in	Cc
-Dragonja	Npfsn
-(	Z
-Kaštel	Npmsn
-)	Z
-,	Z
-čez	Sa
-katere	Pq-mpa
-je	Va-r3s-n
-sicer	Q
-od	Sg
-petka	Ncmsg
-do	Sg
-nedeljske	Agpfsg
-dopoldne	Ncfsg
-Hrvaško	Npfsn
-zapustilo	Vmep-sn
-67.676	Mdc
-oseb	Ncfpg
-,	Z
-med	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-bilo	Va-p-sn
-nekaj	Rgp
-manj	Rgc
-kot	Cs
-60	Mdc
-tisoč	Mlc-pa
-tujih	Agpmpg
-državljanov	Ncmpg
-.	Z
-Gost	Agpmsnn
-promet	Ncmsn
-poteka	Vmpr3s
-na	Sl
-vseh	Pg-fpl
-glavnih	Agpfpl
-hrvaških	Agpfpl
-prometnicah	Ncfpl
-,	Z
-ki	Cs
-peljejo	Vmpr3p
-proti	Sd
-Sloveniji	Npfsd
-,	Z
-na	Sl
-avtocesti	Ncfsl
-Zagreb	Npmsn
--	Z
-Reka	Npfsn
-pa	Cc
-v	Sa
-obe	Pg-fda
-smeri	Ncfda
-.	Z
-Na	Sa
-cestninski	Agpmsay
-postajo	Ncfsa
-Lučko	Ncfsa
-vozniki	Ncmpn
-na	Sa
-plačilo	Ncnsa
-čakajo	Vmpr3p
-okoli	Rgp
-10	Mdc
-minut	Ncfpg
-,	Z
-je	Va-r3s-n
-okoli	Rgp
-16.15	Mdc
-poročal	Vmpp-sm
-Hrvaški	Agpmsny
-avtoklub	Ncmsn
-.	Z
-Občasno	Rgp
-po	Sa
-polžje	Ncnsa
-gre	Vmbr3s
-tudi	Q
-na	Sl
-istrskem	Agpmsl
-ipsilonu	Ncmsl
-in	Cc
-na	Sl
-otoku	Ncmsl
-Krku	Npmsl
-.	Z
-PROMETNE	Agpfsg
-RAZMERE	Ncfpa
-NA	Sl
-SLO	Ncmsl
-.	Z
-CESTAH	Ncfpl
-Na	Sl
-gorenjski	Agpfsl
-avtocesti	Ncfsl
-je	Va-r3s-n
-gost	Agpmsnn
-promet	Ncmsn
-z	Si
-občasnimi	Agpmpi
-zastoji	Ncmpi
-med	Si
-Brezjami	Npfpi
-in	Cc
-predorom	Ncmsi
-Ljubno	Npfsn
-proti	Sd
-Ljubljani	Npfsd
-,	Z
-ter	Cc
-zgoščen	Appmsnn
-promet	Ncmsn
-pred	Si
-Podtaborom	Npmsi
-v	Sl
-smeri	Ncfsl
-Avstrije	Npfsg
-.	Z
-Gost	Agpmsnn
-promet	Ncmsn
-z	Si
-zastoji	Ncmpi
-je	Va-r3s-n
-na	Sl
-cestah	Ncfpl
-od	Sg
-Portoroža	Npmsg
-in	Cc
-mejnega	Agpmsg
-prehoda	Ncmsg
-Dragonja	Npfsn
-proti	Sd
-Kopru	Npmsd
-.	Z
-Brezje	Npnsn
-–	Z
-Ljubljana	Npfsn
-,	Z
-zožitev	Ncfsn
-pri	Sl
-Podtaboru	Npmsl
-,	Z
-pogled	Ncmsn
-proti	Sd
-Ljubljani	Npfsd
-(	Z
-kamera	Ncfsn
-v	Sa
-živo	Ncfsa
-,	Z
-vir	Ncmsn
-:	Z
-PIC	Ncmsn
-)	Z
-MEJNI	Agpmpn
-PREHODI	Ncmpn
-–	Z
-ČAKALNE	Agpfpn
-DOBE	Ncfpn
-(	Z
-ob	Sl
-18	Mdc
-:	Z
-30	Mdc
-)	Z
-(	Z
-Vir	Ncmsn
-:	Z
-PIC	Ncmsn
-)	Z
-Dobovec	Npmsn
-:	Z
-vstop	Ncmsan
-1	Mdc
-uro	Ncfsa
-,	Z
-30	Mdc
-minut	Ncfpg
-,	Z
-Gruškovje	Npnsn
-:	Z
-vstop	Ncmsnn
-1	Mdc
-uro	Ncfsa
-,	Z
-30	Mdc
-minut	Ncfpg
-,	Z
-Zavrč	Npmsn
-:	Z
-vstop	Ncmsnn
-20	Mdc
-minut	Ncfpg
-,	Z
-Dragonja	Npfsn
-:	Z
-vstop	Ncmsn
-20	Mdc
-minut	Ncfpg
-.	Z
-DRUGE	Mlpfpn
-POSEBNOSTI	Ncfpn
-Danes	Rgp
-do	Sg
-21	Mdc
-.	Z
-ure	Ncfsg
-,	Z
-na	Sl
-primorskih	Agpfpl
-cestah	Ncfpl
-pa	Cc
-do	Sg
-22	Mdc
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+slovenskih	mte:Agpfpl	slovenski
+cestah	mte:Ncfpl	cesta
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+na	mte:Sl	na
+Obali	mte:Ncfsl	obala
+in	mte:Cc	in
+proti	mte:Sd	proti
+notranjosti	mte:Ncfsd	notranjost
+države	mte:Ncfsg	država
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+promet	mte:Ncmsn	promet
+zelo	mte:Rgp	zelo
+gost	mte:Agpmsnn	gost
+,	mte:Z	,
+na	mte:Sl	na
+mejnih	mte:Agpmpl	mejen
+prehodih	mte:Ncmpl	prehod
+pa	mte:Cc	pa
+se	mte:Px------y	se
+čaka	mte:Vmpr3s	čakati
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+vikend	mte:Ncmsn	vikend
+na	mte:Sa	na
+Hrvaško	mte:Npfsa	Hrvaška
+šlo	mte:Vmbp-sn	iti
+85	mte:Mdc	85
+tisoč	mte:Mlc-pa	tisoč
+tujih	mte:Agpmpg	tuj
+turistov	mte:Ncmpg	turist
+.	mte:Z	.
+Policija	mte:Ncfsn	policija
+v	mte:Sl	v
+Pulju	mte:Npmsl	Pulje
+je	mte:Va-r3s-n	biti
+potrdila	mte:Vmep-sf	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+petka	mte:Ncmsg	petek
+do	mte:Sg	do
+nedelje	mte:Ncfsg	nedelje
+opoldan	mte:Rgp	opoldan
+čez	mte:Sa	čez
+tri	mte:Mlcmpa	trije
+mejne	mte:Agpmpa	mejen
+prehode	mte:Ncmpa	prehod
+s	mte:Si	z
+Slovenijo	mte:Npfsi	Slovenija
+v	mte:Sa	v
+hrvaško	mte:Agpfsa	hrvaški
+Istro	mte:Npfsa	Istra
+vstopilo	mte:Vmep-sn	vstopiti
+92.217	mte:Mdc	92.217
+oseb	mte:Ncfpg	oseba
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+85	mte:Mdc	85
+tisoč	mte:Mlc-pa	tisoč
+tujih	mte:Agpmpg	tuj
+gostov	mte:Ncmpg	gost
+.	mte:Z	.
+Dodali	mte:Vmep-pm	dodati
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+tuji	mte:Agpmpn	tuj
+turisti	mte:Ncmpn	turist
+večinoma	mte:Rgp	večinoma
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+Nemčije	mte:Npfsg	Nemčija
+in	mte:Cc	in
+Italije	mte:Npfsg	Italija
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+mejne	mte:Agpmpa	mejen
+prehode	mte:Ncmpa	prehod
+Sečovlje	mte:Npfsn	Sečovlje
+(	mte:Z	(
+Plovanija	mte:Npfsn	Plovanija
+)	mte:Z	)
+,	mte:Z	,
+Sočerga	mte:Npmsn	Sočergo
+(	mte:Z	(
+Požane	mte:Npmsn	Požane
+)	mte:Z	)
+in	mte:Cc	in
+Dragonja	mte:Npfsn	Dragonj
+(	mte:Z	(
+Kaštel	mte:Npmsn	Kaštel
+)	mte:Z	)
+,	mte:Z	,
+čez	mte:Sa	čez
+katere	mte:Pq-mpa	kateri
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+od	mte:Sg	od
+petka	mte:Ncmsg	petek
+do	mte:Sg	do
+nedeljske	mte:Agpfsg	nedeljski
+dopoldne	mte:Ncfsg	dopoldne
+Hrvaško	mte:Npfsn	Hrvaška
+zapustilo	mte:Vmep-sn	zapustiti
+67.676	mte:Mdc	67.676
+oseb	mte:Ncfpg	oseba
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+nekaj	mte:Rgp	nekaj
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+60	mte:Mdc	60
+tisoč	mte:Mlc-pa	tisoč
+tujih	mte:Agpmpg	tuj
+državljanov	mte:Ncmpg	državljan
+.	mte:Z	.
+Gost	mte:Agpmsnn	gost
+promet	mte:Ncmsn	promet
+poteka	mte:Vmpr3s	potekati
+na	mte:Sl	na
+vseh	mte:Pg-fpl	ves
+glavnih	mte:Agpfpl	glaven
+hrvaških	mte:Agpfpl	hrvaški
+prometnicah	mte:Ncfpl	prometnica
+,	mte:Z	,
+ki	mte:Cs	ki
+peljejo	mte:Vmpr3p	peljati
+proti	mte:Sd	proti
+Sloveniji	mte:Npfsd	Slovenija
+,	mte:Z	,
+na	mte:Sl	na
+avtocesti	mte:Ncfsl	avtocesta
+Zagreb	mte:Npmsn	Zagreb
+-	mte:Z	-
+Reka	mte:Npfsn	Reka
+pa	mte:Cc	pa
+v	mte:Sa	v
+obe	mte:Pg-fda	oba
+smeri	mte:Ncfda	smer
+.	mte:Z	.
+Na	mte:Sa	na
+cestninski	mte:Agpmsay	cestninski
+postajo	mte:Ncfsa	postaja
+Lučko	mte:Ncfsa	lučka
+vozniki	mte:Ncmpn	voznik
+na	mte:Sa	na
+plačilo	mte:Ncnsa	plačilo
+čakajo	mte:Vmpr3p	čakati
+okoli	mte:Rgp	okoli
+10	mte:Mdc	10
+minut	mte:Ncfpg	minuta
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+okoli	mte:Rgp	okoli
+16.15	mte:Mdc	16.15
+poročal	mte:Vmpp-sm	poročati
+Hrvaški	mte:Agpmsny	hrvaški
+avtoklub	mte:Ncmsn	avtoklub
+.	mte:Z	.
+Občasno	mte:Rgp	občasno
+po	mte:Sa	po
+polžje	mte:Ncnsa	polž
+gre	mte:Vmbr3s	iti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+istrskem	mte:Agpmsl	istrski
+ipsilonu	mte:Ncmsl	ipsilon
+in	mte:Cc	in
+na	mte:Sl	na
+otoku	mte:Ncmsl	otok
+Krku	mte:Npmsl	Krk
+.	mte:Z	.
+PROMETNE	mte:Agpfsg	prometen
+RAZMERE	mte:Ncfpa	razmera
+NA	mte:Sl	na
+SLO	mte:Ncmsl	SLO
+.	mte:Z	.
+CESTAH	mte:Ncfpl	cesta
+Na	mte:Sl	na
+gorenjski	mte:Agpfsl	gorenjski
+avtocesti	mte:Ncfsl	avtocesta
+je	mte:Va-r3s-n	biti
+gost	mte:Agpmsnn	gost
+promet	mte:Ncmsn	promet
+z	mte:Si	z
+občasnimi	mte:Agpmpi	občasen
+zastoji	mte:Ncmpi	zastoj
+med	mte:Si	med
+Brezjami	mte:Npfpi	Brezja
+in	mte:Cc	in
+predorom	mte:Ncmsi	predor
+Ljubno	mte:Npfsn	Ljubno
+proti	mte:Sd	proti
+Ljubljani	mte:Npfsd	Ljubljana
+,	mte:Z	,
+ter	mte:Cc	ter
+zgoščen	mte:Appmsnn	zgoščen
+promet	mte:Ncmsn	promet
+pred	mte:Si	pred
+Podtaborom	mte:Npmsi	Podtabor
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+Avstrije	mte:Npfsg	Avstrija
+.	mte:Z	.
+Gost	mte:Agpmsnn	gost
+promet	mte:Ncmsn	promet
+z	mte:Si	z
+zastoji	mte:Ncmpi	zastoj
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+od	mte:Sg	od
+Portoroža	mte:Npmsg	Portorož
+in	mte:Cc	in
+mejnega	mte:Agpmsg	mejen
+prehoda	mte:Ncmsg	prehod
+Dragonja	mte:Npfsn	Dragonj
+proti	mte:Sd	proti
+Kopru	mte:Npmsd	Koper
+.	mte:Z	.
+Brezje	mte:Npnsn	Brezje
+–	mte:Z	–
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+zožitev	mte:Ncfsn	zožitev
+pri	mte:Sl	pri
+Podtaboru	mte:Npmsl	Podtabor
+,	mte:Z	,
+pogled	mte:Ncmsn	pogled
+proti	mte:Sd	proti
+Ljubljani	mte:Npfsd	Ljubljana
+(	mte:Z	(
+kamera	mte:Ncfsn	kamera
+v	mte:Sa	v
+živo	mte:Ncfsa	živo
+,	mte:Z	,
+vir	mte:Ncmsn	vir
+:	mte:Z	:
+PIC	mte:Ncmsn	pica
+)	mte:Z	)
+MEJNI	mte:Agpmpn	mejen
+PREHODI	mte:Ncmpn	prehod
+–	mte:Z	–
+ČAKALNE	mte:Agpfpn	čakalen
+DOBE	mte:Ncfpn	doba
+(	mte:Z	(
+ob	mte:Sl	ob
+18	mte:Mdc	18
+:	mte:Z	:
+30	mte:Mdc	30
+)	mte:Z	)
+(	mte:Z	(
+Vir	mte:Ncmsn	vir
+:	mte:Z	:
+PIC	mte:Ncmsn	pica
+)	mte:Z	)
+Dobovec	mte:Npmsn	Dobovec
+:	mte:Z	:
+vstop	mte:Ncmsan	vstop
+1	mte:Mdc	1
+uro	mte:Ncfsa	ura
+,	mte:Z	,
+30	mte:Mdc	30
+minut	mte:Ncfpg	minuta
+,	mte:Z	,
+Gruškovje	mte:Npnsn	Gruškovje
+:	mte:Z	:
+vstop	mte:Ncmsnn	vstop
+1	mte:Mdc	1
+uro	mte:Ncfsa	ura
+,	mte:Z	,
+30	mte:Mdc	30
+minut	mte:Ncfpg	minuta
+,	mte:Z	,
+Zavrč	mte:Npmsn	Zavrč
+:	mte:Z	:
+vstop	mte:Ncmsnn	vstop
+20	mte:Mdc	20
+minut	mte:Ncfpg	minuta
+,	mte:Z	,
+Dragonja	mte:Npfsn	Dragonj
+:	mte:Z	:
+vstop	mte:Ncmsn	vstop
+20	mte:Mdc	20
+minut	mte:Ncfpg	minuta
+.	mte:Z	.
+DRUGE	mte:Mlpfpn	drug
+POSEBNOSTI	mte:Ncfpn	posebnost
+Danes	mte:Rgp	danes
+do	mte:Sg	do
+21	mte:Mdc	21
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+,	mte:Z	,
+na	mte:Sl	na
+primorskih	mte:Agpfpl	primorski
+cestah	mte:Ncfpl	cesta
+pa	mte:Cc	pa
+do	mte:Sg	do
+22	mte:Mdc	22
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+,	mte:Z	,
+velja	mte:Vmpr3s	veljati
+omejitev	mte:Ncfsa	omejitev
+prometa	mte:Ncmsg	promet
+tovornih	mte:Agpnpg	tovoren
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+največja	mte:Agsfsn	velik
+dovoljena	mte:Appfsn	dovoljen
+masa	mte:Ncfsn	mas
+presega	mte:Vmpr3s	presegati
+sedem	mte:Mlc-pa	sedem
+ton	mte:Ncfpg	tona
+in	mte:Cc	in
+pol	mte:Rgp	pol

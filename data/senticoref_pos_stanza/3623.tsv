@@ -1,501 +1,503 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Na	Sl
-čelu	Ncnsl
-Hotelov	Ncmpg
-Otočec	Npmsn
-,	Z
-poslovne	Agpfsg
-enote	Ncfsg
-Krkinega	Aspnsg
-hčerinskega	Agpnsg
-podjetja	Ncnsg
-Terme	Ncfpn
-Krka	Npfsn
-,	Z
-je	Va-r3s-n
-v	Sl
-zadnjega	Agpnsg
-pol	Rgp
-leta	Ncnsg
-prišlo	Vmep-sn
-že	Q
-do	Sg
-druge	Mlpfsg
-spremembe	Ncfsg
-.	Z
-Dosedanjega	Agpmsg
-direktorja	Ncmsg
-Tadeja	Npmsg
-Kapšo	Npmsg
-je	Va-r3s-n
-namreč	Cc
-zamenjal	Vmep-sm
-Gorazd	Npmsn
-Šoster	Npmsn
-,	Z
-ki	Cs
-sicer	Q
-vodi	Vmpr3s
-poslovne	Agpfpa
-enoto	Ncfsa
-Terme	Ncfpg
-Šmarješke	Agpfsg
-toplice	Ncfsg
-.	Z
-Pred	Si
-Kapšo	Npfsi
-je	Va-r3s-n
-Hotele	Vmpp-pf
-Otočec	Npmsan
-vodila	Vmpp-sf
-Sintija	Npmsn
-Vrstovšek	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-po	Sl
-neuradnih	Agpmpl
-podatkih	Ncmpl
-zaradi	Sg
-slabih	Agpmpg
-rezultatov	Ncmpg
-prisiljena	Appfsn
-zapustiti	Vmen
-direktorsko	Agpnsa
-mesto	Ncnsa
-.	Z
-Šoster	Npmsn
-naj	Q
-bi	Va-c
-se	Px------y
-omenjal	Vmpp-sm
-tudi	Q
-kot	Cs
-novi	Agpmsny
-direktor	Ncmsn
-Term	Ncfsg
-Krka	Npfsn
-,	Z
-ki	Cs
-že	Q
-tri	Mlcnpa
-leta	Ncnpa
-zapored	Rgp
-poslujejo	Vmpr3p
-z	Si
-izgubo	Ncfsi
-.	Z
-Po	Sl
-neuradnih	Agpmpl
-podatkih	Ncmpl
-namreč	Cc
-predsednik	Ncmsn
-uprave	Ncfsg
-Krke	Npfsg
-Jože	Npmsn
-Colarič	Npmsn
-ni	Va-r3s-y
-zadovoljen	Agpmsnn
-z	Si
-generalnim	Agpmsi
-direktorjem	Ncmsi
-Term	Npmsg
-Krka	Npmsi
-Jožetom	Npmsi
-Berusom	Npmsi
-,	Z
-zato	Cc
-naj	Q
-bi	Va-c
-mu	Pp3msd--y
-že	Q
-odvzel	Vmep-sm
-določena	Appnpa
-pooblastila	Ncnpa
-.	Z
-V	Sl
-Krki	Npfsl
-pravijo	Vmbr3p
-,	Z
-da	Cs
-,	Z
-tako	Rgp
-kot	Cs
-na	Sl
-ostalih	Appnpl
-področjih	Ncnpl
-v	Sl
-okviru	Ncmsl
-skupine	Ncfsg
-Krka	Npfsn
-,	Z
-prihaja	Vmpr3s
-tudi	Q
-v	Sl
-Termah	Npfpl
-Krka	Npfsn
-do	Sg
-kadrovskih	Agpfpg
-zamenjav	Ncfpg
-(	Z
-tudi	Q
-zaradi	Sg
-odhoda	Ncmsg
-posameznikov	Ncmpg
-)	Z
-,	Z
-"	Z
-s	Si
-katerimi	Pq-mpi
-želimo	Vmpr1p
-v	Sl
-čim	Rgp
-večji	Agcfsl
-meri	Ncfsl
-izkoristiti	Vmen
-strokovne	Agpmpa
-in	Cc
-vodstvene	Agpmpa
-potenciale	Ncmpa
-posameznikov	Ncmpg
-in	Cc
-na	Sa
-ključna	Agpnpa
-mesta	Ncnpa
-kadrovati	Vmpn
-motivirane	Appmpa
-in	Cc
-usposobljene	Appmpa
-posameznike	Ncmpa
-.	Z
-"	Z
-Na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-Šoster	Npmsn
-zamenjal	Vmep-sm
-Berusa	Npmsay
-,	Z
-v	Sl
-Krki	Npfsl
-niso	Va-r3p-y
-odgovorili	Vmep-pm
-.	Z
-Pojasnili	Vmep-pm
-pa	Cc
-so	Va-r3p-n
-,	Z
-da	Cs
-bodo	Va-f3p-n
-poslovno	Agpfsa
-enoto	Ncfsa
-na	Sl
-Otočcu	Npmsl
-tako	Rgp
-zaradi	Sg
-širitve	Ncfsg
-njihove	Ps3fsgp
-obstoječe	Appfsg
-ponudbe	Ncfsg
-kot	Cs
-tudi	Q
-zaradi	Sg
-stroškovne	Agpfsg
-racionalizacije	Ncfsg
-v	Sa
-prihodnje	Agpnsa
-organizacijsko	Agpnsa
-in	Cc
-kadrovsko	Rgp
-v	Sl
-večji	Agcfsl
-meri	Ncfsl
-povezovali	Vmpp-pm
-z	Si
-enoto	Ncfsi
-Šmarješke	Agpfsg
-Toplice	Npfsg
-.	Z
-Pred	Si
-leti	Ncnpi
-so	Va-r3p-n
-Terme	Ncfpn
-Krka	Npfsn
-že	Q
-prejele	Vmep-pf
-evropska	Agpnpa
-sredstva	Ncnpa
-za	Sa
-gradnjo	Ncfsa
-projekta	Ncmsg
-Terme	Ncfpn
-Otočec	Npmsn
-2000	Mdc
-.	Z
-Čeprav	Cs
-so	Va-r3p-n
-nastali	Vmep-pm
-precejšnji	Agpmpn
-stroški	Ncmpn
-,	Z
-da	Cs
-bi	Va-c
-termalno	Agpfsa
-vodo	Ncfsa
-po	Sl
-cevovodu	Ncmsl
-prepeljali	Vmep-pm
-do	Sg
-Otočca	Npmsg
-iz	Sg
-Šmarjeških	Agpfpg
-Toplic	Npfpg
-,	Z
-projekt	Ncmsn
-ni	Va-r3s-y
-bil	Va-p-sm
-izveden	Appmsnn
-do	Sg
-konca	Ncmsg
-,	Z
-prejeta	Appnpn
-evropska	Agpnpn
-sredstva	Ncnpn
-pa	Cc
-je	Va-r3s-n
-Krka	Npfsn
-vrnila	Vmep-sf
-.	Z
-Na	Sa
-vprašanje	Ncnsa
-,	Z
-zakaj	Rgp
-projekt	Ncmsn
-Terme	Ncfsg
-Otočec	Npmsn
-2000	Mdc
-ni	Va-r3s-y
-bil	Va-p-sm
-zaključen	Appmsnn
-,	Z
-v	Sl
-Krki	Npfsl
-niso	Va-r3p-y
-odgovorili	Vmep-pm
-.	Z
-Poleg	Sg
-Hotelov	Ncmpg
-Otočec	Npmsn
-in	Cc
-Term	Ncfsg
-Šmarješke	Agpfsg
-toplice	Ncfsg
-Terme	Ncfpn
-Krka	Npfsn
-združujejo	Vmpr3p
-še	Q
-poslovne	Agpfpa
-enote	Ncfpa
-Terme	Ncfpa
-Dolenjske	Agpfpa
-toplice	Ncfpa
-,	Z
-Talaso	Npmsan
-Strunjan	Npmsan
-in	Cc
-Hotel	Ncmsan
-Krka	Npfsn
-.	Z
-V	Sl
-lanskem	Agpnsl
-letu	Ncnsl
-so	Va-r3p-n
-Terme	Ncfpn
-Krka	Npfsn
-ustvarile	Vmep-pf
-31,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-prihodkov	Ncmpg
-od	Sg
-prodaje	Ncfsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-bilo	Va-p-sn
-sedem	Mlc-pa
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-leta	Ncnsg
-2009	Mdc
-in	Cc
-11	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-od	Sg
-načrtov	Ncmpg
-.	Z
-Podjetje	Ncnsn
-je	Va-r3s-n
-lani	Rgp
-pridelalo	Vmep-sn
-2,86	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-izgube	Ncfsg
-iz	Sg
-poslovanja	Ncnsg
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-v	Sl
-letu	Ncnsl
-2009	Mdc
-ustvarjen	Appmsnn
-dobiček	Ncmsn
-iz	Sg
-poslovanja	Ncnsg
-v	Sl
-višini	Ncfsl
-982.000	Mdc
-evrov	Ncmpg
-(	Z
-po	Sl
-načrtu	Ncmsl
-bi	Va-c
-moralo	Vmpp-sn
-podjetje	Ncnsn
-lani	Rgp
-doseči	Vmen
-269.000	Mdc
-evrov	Ncmpg
-dobička	Ncmsg
-iz	Sg
-poslovanja	Ncnsg
-)	Z
-.	Z
-Čeprav	Cs
-so	Va-r3p-n
-načrtovali	Vmpp-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-pridelali	Vmep-pm
-dobra	Agpmda
-dva	Mlcmda
-milijona	Ncmda
-evrov	Ncmpg
-izgube	Ncfsg
-,	Z
-je	Va-r3s-n
-ta	Pd-fsn
-lani	Rgp
-znašala	Vmpp-sf
-4,6	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-bilo	Va-p-sn
-za	Sa
-248	Mdc
-odstotkov	Ncmpg
-oziroma	Cc
-za	Sa
-3,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-več	Rgc
-od	Sg
-načrtov	Ncmpg
-.	Z
-V	Sl
-Krki	Npfsl
-razlagajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-na	Sa
-lansko	Agpnsa
-poslovanje	Ncnsa
-hčerinskega	Agpnsg
-podjetja	Ncnsg
-Terme	Ncfpn
-Krka	Npfsn
-v	Sl
-precejšnji	Agpfsl
-meri	Ncfsl
-vplival	Vmpp-sm
-nekajmesečni	Agpmsay
-izpad	Ncmsan
-poslovanja	Ncnsg
-hotela	Ncmsg
-v	Sl
-Strunjanu	Npmsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-zaprt	Appmsnn
-zaradi	Sg
-obsežnih	Agpnpg
-obnovitvenih	Agpnpg
-del	Ncnpg
-.	Z
-Po	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-pa	Cc
-so	Va-r3p-n
-v	Sl
-prvem	Mlonsl
-polletju	Ncnsl
-letošnjega	Agpnsg
-leta	Ncnsg
-v	Sl
-primerjavi	Ncfsl
-z	Si
-enakim	Pi-nsi
-obdobjem	Ncnsi
-lani	Rgp
-zabeležili	Vmep-pm
-ugodne	Agpmpa
-prodajne	Agpmpa
-trende	Ncmpa
-.	Z
-Tako	Rgp
-so	Va-r3p-n
-prodali	Vmep-pm
-za	Sa
-približno	Rgp
-17	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-storitev	Ncfpg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-bilo	Va-p-sn
-za	Sa
-več	Rgc
-kot	Cs
-21	Mdc
-odstotkov	Ncmpg
-več	Rgc
-kot	Cs
-v	Sl
-prvih	Mlompl
-šestih	Mlc-pl
-mesecih	Ncmpl
-lanskega	Agpnsg
-leta	Ncnsg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Na	mte:Sl	na
+čelu	mte:Ncnsl	čelo
+Hotelov	mte:Ncmpg	hotel
+Otočec	mte:Npmsn	Otočec
+,	mte:Z	,
+poslovne	mte:Agpfsg	posloven
+enote	mte:Ncfsg	enota
+Krkinega	mte:Aspnsg	Krkin
+hčerinskega	mte:Agpnsg	hčerinski
+podjetja	mte:Ncnsg	podjetje
+Terme	mte:Ncfpn	terme
+Krka	mte:Npfsn	Krka
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjega	mte:Agpnsg	zadnji
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+prišlo	mte:Vmep-sn	priti
+že	mte:Q	že
+do	mte:Sg	do
+druge	mte:Mlpfsg	drug
+spremembe	mte:Ncfsg	sprememba
+.	mte:Z	.
+Dosedanjega	mte:Agpmsg	dosedanji
+direktorja	mte:Ncmsg	direktor
+Tadeja	mte:Npmsg	Tadeja
+Kapšo	mte:Npmsg	Kapšo
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+zamenjal	mte:Vmep-sm	zamenjati
+Gorazd	mte:Npmsn	Gorazd
+Šoster	mte:Npmsn	Šoster
+,	mte:Z	,
+ki	mte:Cs	ki
+sicer	mte:Q	sicer
+vodi	mte:Vmpr3s	voditi
+poslovne	mte:Agpfpa	posloven
+enoto	mte:Ncfsa	enota
+Terme	mte:Ncfpg	terme
+Šmarješke	mte:Agpfsg	šmarješki
+toplice	mte:Ncfsg	toplica
+.	mte:Z	.
+Pred	mte:Si	pred
+Kapšo	mte:Npfsi	Kapšo
+je	mte:Va-r3s-n	biti
+Hotele	mte:Vmpp-pf	hoteti
+Otočec	mte:Npmsan	Otočec
+vodila	mte:Vmpp-sf	voditi
+Sintija	mte:Npmsn	Sintija
+Vrstovšek	mte:Npmsn	Vrstovšek
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+po	mte:Sl	po
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+zaradi	mte:Sg	zaradi
+slabih	mte:Agpmpg	slab
+rezultatov	mte:Ncmpg	rezultat
+prisiljena	mte:Appfsn	prisiljen
+zapustiti	mte:Vmen	zapustiti
+direktorsko	mte:Agpnsa	direktorski
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Šoster	mte:Npmsn	Šoster
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+omenjal	mte:Vmpp-sm	omenjati
+tudi	mte:Q	tudi
+kot	mte:Cs	kot
+novi	mte:Agpmsny	nov
+direktor	mte:Ncmsn	direktor
+Term	mte:Ncfsg	term
+Krka	mte:Npfsn	Krka
+,	mte:Z	,
+ki	mte:Cs	ki
+že	mte:Q	že
+tri	mte:Mlcnpa	trije
+leta	mte:Ncnpa	leto
+zapored	mte:Rgp	zapored
+poslujejo	mte:Vmpr3p	poslovati
+z	mte:Si	z
+izgubo	mte:Ncfsi	izguba
+.	mte:Z	.
+Po	mte:Sl	po
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+namreč	mte:Cc	namreč
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Krke	mte:Npfsg	Krka
+Jože	mte:Npmsn	Jože
+Colarič	mte:Npmsn	Colarič
+ni	mte:Va-r3s-y	biti
+zadovoljen	mte:Agpmsnn	zadovoljen
+z	mte:Si	z
+generalnim	mte:Agpmsi	generalen
+direktorjem	mte:Ncmsi	direktor
+Term	mte:Npmsg	Term
+Krka	mte:Npmsi	Krka
+Jožetom	mte:Npmsi	Jože
+Berusom	mte:Npmsi	Berus
+,	mte:Z	,
+zato	mte:Cc	zato
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+mu	mte:Pp3msd--y	on
+že	mte:Q	že
+odvzel	mte:Vmep-sm	odvzeti
+določena	mte:Appnpa	določen
+pooblastila	mte:Ncnpa	pooblastilo
+.	mte:Z	.
+V	mte:Sl	v
+Krki	mte:Npfsl	Krki
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+,	mte:Z	,
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+na	mte:Sl	na
+ostalih	mte:Appnpl	ostal
+področjih	mte:Ncnpl	področje
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+skupine	mte:Ncfsg	skupina
+Krka	mte:Npfsn	Krka
+,	mte:Z	,
+prihaja	mte:Vmpr3s	prihajati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Termah	mte:Npfpl	Termah
+Krka	mte:Npfsn	Krka
+do	mte:Sg	do
+kadrovskih	mte:Agpfpg	kadrovski
+zamenjav	mte:Ncfpg	zamenjava
+(	mte:Z	(
+tudi	mte:Q	tudi
+zaradi	mte:Sg	zaradi
+odhoda	mte:Ncmsg	odhod
+posameznikov	mte:Ncmpg	posameznik
+)	mte:Z	)
+,	mte:Z	,
+"	mte:Z	"
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+želimo	mte:Vmpr1p	želeti
+v	mte:Sl	v
+čim	mte:Rgp	čim
+večji	mte:Agcfsl	velik
+meri	mte:Ncfsl	mera
+izkoristiti	mte:Vmen	izkoristiti
+strokovne	mte:Agpmpa	strokoven
+in	mte:Cc	in
+vodstvene	mte:Agpmpa	vodstven
+potenciale	mte:Ncmpa	potencial
+posameznikov	mte:Ncmpg	posameznik
+in	mte:Cc	in
+na	mte:Sa	na
+ključna	mte:Agpnpa	ključen
+mesta	mte:Ncnpa	mesto
+kadrovati	mte:Vmpn	kadrovati
+motivirane	mte:Appmpa	motiviran
+in	mte:Cc	in
+usposobljene	mte:Appmpa	usposobljen
+posameznike	mte:Ncmpa	posameznik
+.	mte:Z	.
+"	mte:Z	"
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+Šoster	mte:Npmsn	Šoster
+zamenjal	mte:Vmep-sm	zamenjati
+Berusa	mte:Npmsay	Berus
+,	mte:Z	,
+v	mte:Sl	v
+Krki	mte:Npfsl	Krki
+niso	mte:Va-r3p-y	biti
+odgovorili	mte:Vmep-pm	odgovoriti
+.	mte:Z	.
+Pojasnili	mte:Vmep-pm	pojasniti
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+poslovno	mte:Agpfsa	posloven
+enoto	mte:Ncfsa	enota
+na	mte:Sl	na
+Otočcu	mte:Npmsl	Otočec
+tako	mte:Rgp	tako
+zaradi	mte:Sg	zaradi
+širitve	mte:Ncfsg	širitev
+njihove	mte:Ps3fsgp	njihov
+obstoječe	mte:Appfsg	obstoječ
+ponudbe	mte:Ncfsg	ponudba
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+zaradi	mte:Sg	zaradi
+stroškovne	mte:Agpfsg	stroškoven
+racionalizacije	mte:Ncfsg	racionalizacija
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+organizacijsko	mte:Agpnsa	organizacijski
+in	mte:Cc	in
+kadrovsko	mte:Rgp	kadrovsko
+v	mte:Sl	v
+večji	mte:Agcfsl	velik
+meri	mte:Ncfsl	mera
+povezovali	mte:Vmpp-pm	povezovati
+z	mte:Si	z
+enoto	mte:Ncfsi	enota
+Šmarješke	mte:Agpfsg	šmarješki
+Toplice	mte:Npfsg	Toplice
+.	mte:Z	.
+Pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+so	mte:Va-r3p-n	biti
+Terme	mte:Ncfpn	terme
+Krka	mte:Npfsn	Krka
+že	mte:Q	že
+prejele	mte:Vmep-pf	prejeti
+evropska	mte:Agpnpa	evropski
+sredstva	mte:Ncnpa	sredstvo
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+projekta	mte:Ncmsg	projekt
+Terme	mte:Ncfpn	terme
+Otočec	mte:Npmsn	Otočec
+2000	mte:Mdc	2000
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+nastali	mte:Vmep-pm	nastati
+precejšnji	mte:Agpmpn	precejšnji
+stroški	mte:Ncmpn	strošek
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+termalno	mte:Agpfsa	termalen
+vodo	mte:Ncfsa	voda
+po	mte:Sl	po
+cevovodu	mte:Ncmsl	cevovod
+prepeljali	mte:Vmep-pm	prepeljati
+do	mte:Sg	do
+Otočca	mte:Npmsg	Otočec
+iz	mte:Sg	iz
+Šmarjeških	mte:Agpfpg	šmarješki
+Toplic	mte:Npfpg	Toplice
+,	mte:Z	,
+projekt	mte:Ncmsn	projekt
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+izveden	mte:Appmsnn	izveden
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+,	mte:Z	,
+prejeta	mte:Appnpn	prejet
+evropska	mte:Agpnpn	evropski
+sredstva	mte:Ncnpn	sredstvo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Krka	mte:Npfsn	Krka
+vrnila	mte:Vmep-sf	vrniti
+.	mte:Z	.
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+projekt	mte:Ncmsn	projekt
+Terme	mte:Ncfsg	terme
+Otočec	mte:Npmsn	Otočec
+2000	mte:Mdc	2000
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+zaključen	mte:Appmsnn	zaključen
+,	mte:Z	,
+v	mte:Sl	v
+Krki	mte:Npfsl	Krki
+niso	mte:Va-r3p-y	biti
+odgovorili	mte:Vmep-pm	odgovoriti
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+Hotelov	mte:Ncmpg	hotel
+Otočec	mte:Npmsn	Otočec
+in	mte:Cc	in
+Term	mte:Ncfsg	term
+Šmarješke	mte:Agpfsg	šmarješki
+toplice	mte:Ncfsg	toplica
+Terme	mte:Ncfpn	terme
+Krka	mte:Npfsn	Krka
+združujejo	mte:Vmpr3p	združevati
+še	mte:Q	še
+poslovne	mte:Agpfpa	posloven
+enote	mte:Ncfpa	enota
+Terme	mte:Ncfpa	terme
+Dolenjske	mte:Agpfpa	dolenjski
+toplice	mte:Ncfpa	toplica
+,	mte:Z	,
+Talaso	mte:Npmsan	Talaso
+Strunjan	mte:Npmsan	Strunjan
+in	mte:Cc	in
+Hotel	mte:Ncmsan	hoteti
+Krka	mte:Npfsn	Krka
+.	mte:Z	.
+V	mte:Sl	v
+lanskem	mte:Agpnsl	lanski
+letu	mte:Ncnsl	leto
+so	mte:Va-r3p-n	biti
+Terme	mte:Ncfpn	terme
+Krka	mte:Npfsn	Krka
+ustvarile	mte:Vmep-pf	ustvariti
+31,3	mte:Mdc	31,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+sedem	mte:Mlc-pa	sedem
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+in	mte:Cc	in
+11	mte:Mdc	11
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+od	mte:Sg	od
+načrtov	mte:Ncmpg	načrt
+.	mte:Z	.
+Podjetje	mte:Ncnsn	podjetje
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+pridelalo	mte:Vmep-sn	pridelati
+2,86	mte:Mdc	2,86
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+iz	mte:Sg	iz
+poslovanja	mte:Ncnsg	poslovanje
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2009	mte:Mdc	2009
+ustvarjen	mte:Appmsnn	ustvarjen
+dobiček	mte:Ncmsn	dobiček
+iz	mte:Sg	iz
+poslovanja	mte:Ncnsg	poslovanje
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+982.000	mte:Mdc	982.000
+evrov	mte:Ncmpg	evro
+(	mte:Z	(
+po	mte:Sl	po
+načrtu	mte:Ncmsl	načrt
+bi	mte:Va-c	biti
+moralo	mte:Vmpp-sn	morati
+podjetje	mte:Ncnsn	podjetje
+lani	mte:Rgp	lani
+doseči	mte:Vmen	doseči
+269.000	mte:Mdc	269.000
+evrov	mte:Ncmpg	evro
+dobička	mte:Ncmsg	dobiček
+iz	mte:Sg	iz
+poslovanja	mte:Ncnsg	poslovanje
+)	mte:Z	)
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+načrtovali	mte:Vmpp-pm	načrtovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+pridelali	mte:Vmep-pm	pridelati
+dobra	mte:Agpmda	dober
+dva	mte:Mlcmda	dva
+milijona	mte:Ncmda	milijon
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-fsn	ta
+lani	mte:Rgp	lani
+znašala	mte:Vmpp-sf	znašati
+4,6	mte:Mdc	4,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+za	mte:Sa	za
+248	mte:Mdc	248
+odstotkov	mte:Ncmpg	odstotek
+oziroma	mte:Cc	oziroma
+za	mte:Sa	za
+3,3	mte:Mdc	3,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+več	mte:Rgc	več
+od	mte:Sg	od
+načrtov	mte:Ncmpg	načrt
+.	mte:Z	.
+V	mte:Sl	v
+Krki	mte:Npfsl	Krki
+razlagajo	mte:Vmpr3p	razlagati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+lansko	mte:Agpnsa	lanski
+poslovanje	mte:Ncnsa	poslovanje
+hčerinskega	mte:Agpnsg	hčerinski
+podjetja	mte:Ncnsg	podjetje
+Terme	mte:Ncfpn	terme
+Krka	mte:Npfsn	Krka
+v	mte:Sl	v
+precejšnji	mte:Agpfsl	precejšnji
+meri	mte:Ncfsl	mera
+vplival	mte:Vmpp-sm	vplivati
+nekajmesečni	mte:Agpmsay	nekajmesečen
+izpad	mte:Ncmsan	izpad
+poslovanja	mte:Ncnsg	poslovanje
+hotela	mte:Ncmsg	hotel
+v	mte:Sl	v
+Strunjanu	mte:Npmsl	Strunjan
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+zaprt	mte:Appmsnn	zaprt
+zaradi	mte:Sg	zaradi
+obsežnih	mte:Agpnpg	obsežen
+obnovitvenih	mte:Agpnpg	obnovitven
+del	mte:Ncnpg	del
+.	mte:Z	.
+Po	mte:Sl	po
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+prvem	mte:Mlonsl	prvi
+polletju	mte:Ncnsl	polletje
+letošnjega	mte:Agpnsg	letošnji
+leta	mte:Ncnsg	leto
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+enakim	mte:Pi-nsi	enak
+obdobjem	mte:Ncnsi	obdobje
+lani	mte:Rgp	lani
+zabeležili	mte:Vmep-pm	zabeležiti
+ugodne	mte:Agpmpa	ugoden
+prodajne	mte:Agpmpa	prodajen
+trende	mte:Ncmpa	trend
+.	mte:Z	.
+Tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+prodali	mte:Vmep-pm	prodati
+za	mte:Sa	za
+približno	mte:Rgp	približno
+17	mte:Mdc	17
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+storitev	mte:Ncfpg	storitev
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+21	mte:Mdc	21
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+šestih	mte:Mlc-pl	šest
+mesecih	mte:Ncmpl	mesec
+lanskega	mte:Agpnsg	lanski
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+sebastjan.morozov	mte:Npmpg	Sebastjan.moroz
+@	mte:Z	@

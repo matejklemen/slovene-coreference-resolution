@@ -1,258 +1,303 @@
-token	tag
-OECD	Npfsn
-je	Va-r3s-n
-po	Sl
-Avstriji	Npfsl
-in	Cc
-Švici	Npfsl
-tudi	Q
-Liechtenstein	Npmsnn
-odstranila	Vmep-sf
-s	Sg
-svojega	Px-msg
-sivega	Agpmsg
-seznama	Ncmsg
-davčnih	Agpfpg
-oaz	Ncfpg
-.	Z
-To	Pd-nsa
-je	Va-r3s-n
-storila	Vmep-sf
-po	Sl
-tem	Pd-nsl
-,	Z
-ko	Cs
-je	Va-r3s-n
-država	Ncfsn
-sklenila	Vmep-sf
-še	Q
-zadnja	Agpmda
-dogovora	Ncmda
-o	Sl
-tesnejšem	Agcnsl
-sodelovanju	Ncnsl
-na	Sl
-področju	Ncnsl
-davkov	Ncmpg
-.	Z
-Kneževina	Ncfsn
-Liechtenstein	Npmsn
-Organizacija	Ncfsn
-za	Sa
-ekonomsko	Agpnsa
-sodelovanje	Ncnsa
-in	Cc
-razvoj	Ncmsan
-OECD	Npfsg
-je	Va-r3s-n
-s	Sg
-svojega	Px-msg
-sivega	Agpmsg
-seznama	Ncmsg
-davčnih	Agpfpg
-oaz	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-zavezale	Vmpp-pf
-k	Sd
-mednarodno	Rgp
-dogovorjenemu	Appmsd
-davčnemu	Agpmsd
-standardu	Ncmsd
-,	Z
-a	Cc
-še	Q
-niso	Va-r3p-y
-v	Sl
-večjem	Agcnsl
-merilu	Ncnsl
-uvedle	Vmep-pf
-ustreznih	Agpmpg
-ukrepov	Ncmpg
-,	Z
-odstranila	Vmep-sf
-tudi	Q
-Liechtenstein	Npmsan
-.	Z
-V	Sl
-septembru	Ncmsl
-je	Va-r3s-n
-to	Pd-nsa
-uspelo	Vmep-sn
-med	Si
-drugim	Mlpnsi
-Avstriji	Npfsd
-in	Cc
-Švici	Npfsd
-.	Z
-Tudi	Q
-Liechtenstein	Npmsn
-se	Px------y
-je	Va-r3s-n
-tako	Rgp
-zdaj	Rgp
-preselil	Vmep-sm
-na	Sa
-tretji	Mlomsa
-seznam	Ncmsan
-,	Z
-na	Sl
-katerem	Pq-msl
-je	Va-r3s-n
-več	Rgc
-deset	Mlc-pa
-držav	Ncfpg
-oziroma	Cc
-davčnih	Agpfpg
-jurisdikcij	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-v	Sl
-veliki	Agpfsl
-meri	Ncfsl
-uvedle	Vmep-pf
-mednarodno	Rgp
-dogovorjen	Appmsan
-davčni	Agpmsay
-standard	Ncmsan
-.	Z
-Med	Si
-njimi	Pp3mpi
-so	Va-r3p-n
-Velika	Agpfsn
-Britanija	Npfsn
-,	Z
-Italija	Npfsn
-,	Z
-Japonska	Npfsn
-,	Z
-Slovenija	Npfsn
-,	Z
-Francija	Npfsn
-,	Z
-Nemčija	Npfsn
-,	Z
-Rusija	Npfsn
-in	Cc
-ZDA	Npfpn
-.	Z
-OECD	Npfsn
-se	Px------y
-je	Va-r3s-n
-za	Sa
-to	Pd-fsa
-potezo	Ncfsa
-odločila	Vmep-sf
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-Liechtenstein	Npmsn
-sklenil	Vmep-sm
-še	Q
-zadnja	Agpmda
-dva	Mlcmda
-od	Sg
-skupaj	Rgp
-12	Mdc
-dvostranskih	Agpmpg
-dogovorov	Ncmpg
-o	Sl
-tesnejšem	Agcnsl
-sodelovanju	Ncnsl
-na	Sl
-področju	Ncnsl
-izmenjave	Ncfsg
-davčnih	Agpfpg
-informacij	Ncfpg
-.	Z
-Zadnja	Agpmda
-dva	Mlcmda
-odgovora	Ncmda
-je	Va-r3s-n
-podpisal	Vmep-sm
-z	Si
-Belgijo	Npfsi
-in	Cc
-Nizozemsko	Agpfsi
-.	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-je	Va-r3s-n
-OECD	Npfsn
-je	Va-r3s-n
-v	Sl
-začetku	Ncmsl
-aprila	Ncmsg
-v	Sl
-skladu	Ncmsl
-s	Si
-sklepi	Ncmpi
-londonskega	Agpmsg
-vrha	Ncmsg
-skupine	Ncfsg
-20	Mdc
-najpomembnejših	Agsnpg
-svetovnih	Agpnpg
-gospodarstev	Ncnpg
-G20	Npfsg
-objavila	Vmep-sf
-več	Rgc
-list	Ncmsan
-davčnih	Agpfpg
-jurisdikcij	Ncfpg
-.	Z
-Posamezne	Agpfpa
-države	Ncfpa
-je	Va-r3s-n
-vanje	Pp3mpa--b
-razdelila	Vmep-sf
-glede	Rgp
-na	Sa
-stopnjo	Ncfsa
-sodelovanja	Ncnsg
-na	Sl
-področju	Ncnsl
-izmenjave	Ncfsg
-davčnih	Agpfpg
-informacij	Ncfpg
-,	Z
-potrebnih	Agpmpg
-za	Sa
-boj	Ncmsan
-proti	Sd
-davčnim	Agpfpd
-utajam	Ncfpd
-.	Z
-Največ	Rgs
-zanimanja	Ncnsg
-je	Va-r3s-n
-vzbudila	Vmep-sf
-t	Npmsn
-.	Z
-i	Ncmsn
-.	Z
-črna	Agpfsn
-lista	Ncmsn
-davčnih	Agpfpg
-oaz	Ncfpg
-,	Z
-ki	Cs
-niso	Va-r3p-y
-sprejele	Vmep-pf
-nobene	Pz-fsg
-zaveze	Ncfsg
-glede	Sg
-spoštovanja	Ncnsg
-mednarodnega	Agpmsg
-standarda	Ncmsg
-o	Sl
-izmenjavi	Ncfsl
-davčnih	Agpmpg
-podatkov	Ncmpg
-.	Z
+token	tag	lemma
+OECD	mte:Npfsn	OECD
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+Avstriji	mte:Npfsl	Avstrija
+in	mte:Cc	in
+Švici	mte:Npfsl	Švica
+tudi	mte:Q	tudi
+Liechtenstein	mte:Npmsnn	Liechtenstein
+odstranila	mte:Vmep-sf	odstraniti
+s	mte:Sg	z
+svojega	mte:Px-msg	svoj
+sivega	mte:Agpmsg	siv
+seznama	mte:Ncmsg	seznam
+davčnih	mte:Agpfpg	davčen
+oaz	mte:Ncfpg	oaz
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+je	mte:Va-r3s-n	biti
+storila	mte:Vmep-sf	storiti
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+država	mte:Ncfsn	država
+sklenila	mte:Vmep-sf	skleniti
+še	mte:Q	še
+zadnja	mte:Agpmda	zadnji
+dogovora	mte:Ncmda	dogovor
+o	mte:Sl	o
+tesnejšem	mte:Agcnsl	tesen
+sodelovanju	mte:Ncnsl	sodelovanje
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+davkov	mte:Ncmpg	davek
+.	mte:Z	.
+Kneževina	mte:Ncfsn	kneževina
+Liechtenstein	mte:Npmsn	Liechtenstein
+Organizacija	mte:Ncfsn	organizacija
+za	mte:Sa	za
+ekonomsko	mte:Agpnsa	ekonomski
+sodelovanje	mte:Ncnsa	sodelovanje
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+OECD	mte:Npfsg	OECD
+je	mte:Va-r3s-n	biti
+s	mte:Sg	z
+svojega	mte:Px-msg	svoj
+sivega	mte:Agpmsg	siv
+seznama	mte:Ncmsg	seznam
+davčnih	mte:Agpfpg	davčen
+oaz	mte:Ncfpg	oaz
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+zavezale	mte:Vmpp-pf	zavezati
+k	mte:Sd	k
+mednarodno	mte:Rgp	mednarodno
+dogovorjenemu	mte:Appmsd	dogovorjen
+davčnemu	mte:Agpmsd	davčen
+standardu	mte:Ncmsd	standard
+,	mte:Z	,
+a	mte:Cc	a
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+v	mte:Sl	v
+večjem	mte:Agcnsl	velik
+merilu	mte:Ncnsl	merilo
+uvedle	mte:Vmep-pf	uvesti
+ustreznih	mte:Agpmpg	ustrezen
+ukrepov	mte:Ncmpg	ukrep
+,	mte:Z	,
+odstranila	mte:Vmep-sf	odstraniti
+tudi	mte:Q	tudi
+Liechtenstein	mte:Npmsan	Liechtenstein
+.	mte:Z	.
+V	mte:Sl	v
+septembru	mte:Ncmsl	september
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsa	ta
+uspelo	mte:Vmep-sn	uspeti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+Avstriji	mte:Npfsd	Avstrija
+in	mte:Cc	in
+Švici	mte:Npfsd	Švica
+.	mte:Z	.
+Tudi	mte:Q	tudi
+Liechtenstein	mte:Npmsn	Liechtenstein
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+zdaj	mte:Rgp	zdaj
+preselil	mte:Vmep-sm	preseliti
+na	mte:Sa	na
+tretji	mte:Mlomsa	tretji
+seznam	mte:Ncmsan	seznam
+,	mte:Z	,
+na	mte:Sl	na
+katerem	mte:Pq-msl	kateri
+je	mte:Va-r3s-n	biti
+več	mte:Rgc	več
+deset	mte:Mlc-pa	deset
+držav	mte:Ncfpg	država
+oziroma	mte:Cc	oziroma
+davčnih	mte:Agpfpg	davčen
+jurisdikcij	mte:Ncfpg	jurisdikcija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+veliki	mte:Agpfsl	velik
+meri	mte:Ncfsl	mera
+uvedle	mte:Vmep-pf	uvesti
+mednarodno	mte:Rgp	mednarodno
+dogovorjen	mte:Appmsan	dogovorjen
+davčni	mte:Agpmsay	davčen
+standard	mte:Ncmsan	standard
+.	mte:Z	.
+Med	mte:Si	med
+njimi	mte:Pp3mpi	on
+so	mte:Va-r3p-n	biti
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+,	mte:Z	,
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+Japonska	mte:Npfsn	Japonska
+,	mte:Z	,
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+Francija	mte:Npfsn	Francija
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Rusija	mte:Npfsn	Rusija
+in	mte:Cc	in
+ZDA	mte:Npfpn	ZDA
+.	mte:Z	.
+OECD	mte:Npfsn	OECD
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+to	mte:Pd-fsa	ta
+potezo	mte:Ncfsa	poteza
+odločila	mte:Vmep-sf	odločiti
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Liechtenstein	mte:Npmsn	Liechtenstein
+sklenil	mte:Vmep-sm	skleniti
+še	mte:Q	še
+zadnja	mte:Agpmda	zadnji
+dva	mte:Mlcmda	dva
+od	mte:Sg	od
+skupaj	mte:Rgp	skupaj
+12	mte:Mdc	12
+dvostranskih	mte:Agpmpg	dvostranski
+dogovorov	mte:Ncmpg	dogovor
+o	mte:Sl	o
+tesnejšem	mte:Agcnsl	tesen
+sodelovanju	mte:Ncnsl	sodelovanje
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+izmenjave	mte:Ncfsg	izmenjava
+davčnih	mte:Agpfpg	davčen
+informacij	mte:Ncfpg	informacija
+.	mte:Z	.
+Zadnja	mte:Agpmda	zadnji
+dva	mte:Mlcmda	dva
+odgovora	mte:Ncmda	odgovor
+je	mte:Va-r3s-n	biti
+podpisal	mte:Vmep-sm	podpisati
+z	mte:Si	z
+Belgijo	mte:Npfsi	Belgija
+in	mte:Cc	in
+Nizozemsko	mte:Agpfsi	nizozemski
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+OECD	mte:Npfsn	OECD
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+aprila	mte:Ncmsg	april
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+sklepi	mte:Ncmpi	sklep
+londonskega	mte:Agpmsg	londonski
+vrha	mte:Ncmsg	vrh
+skupine	mte:Ncfsg	skupina
+20	mte:Mdc	20
+najpomembnejših	mte:Agsnpg	pomemben
+svetovnih	mte:Agpnpg	svetoven
+gospodarstev	mte:Ncnpg	gospodarstvo
+G20	mte:Npfsg	G20
+objavila	mte:Vmep-sf	objaviti
+več	mte:Rgc	več
+list	mte:Ncmsan	list
+davčnih	mte:Agpfpg	davčen
+jurisdikcij	mte:Ncfpg	jurisdikcija
+.	mte:Z	.
+Posamezne	mte:Agpfpa	posamezen
+države	mte:Ncfpa	država
+je	mte:Va-r3s-n	biti
+vanje	mte:Pp3mpa--b	vame
+razdelila	mte:Vmep-sf	razdeliti
+glede	mte:Rgp	glede
+na	mte:Sa	na
+stopnjo	mte:Ncfsa	stopnja
+sodelovanja	mte:Ncnsg	sodelovanje
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+izmenjave	mte:Ncfsg	izmenjava
+davčnih	mte:Agpfpg	davčen
+informacij	mte:Ncfpg	informacija
+,	mte:Z	,
+potrebnih	mte:Agpmpg	potreben
+za	mte:Sa	za
+boj	mte:Ncmsan	boj
+proti	mte:Sd	proti
+davčnim	mte:Agpfpd	davčen
+utajam	mte:Ncfpd	utaj
+.	mte:Z	.
+Največ	mte:Rgs	največ
+zanimanja	mte:Ncnsg	zanimanje
+je	mte:Va-r3s-n	biti
+vzbudila	mte:Vmep-sf	vzbuditi
+t	mte:Npmsn	t
+.	mte:Z	.
+i	mte:Ncmsn	i
+.	mte:Z	.
+črna	mte:Agpfsn	črn
+lista	mte:Ncmsn	list
+davčnih	mte:Agpfpg	davčen
+oaz	mte:Ncfpg	oaz
+,	mte:Z	,
+ki	mte:Cs	ki
+niso	mte:Va-r3p-y	biti
+sprejele	mte:Vmep-pf	sprejeti
+nobene	mte:Pz-fsg	noben
+zaveze	mte:Ncfsg	zaveza
+glede	mte:Sg	glede
+spoštovanja	mte:Ncnsg	spoštovanje
+mednarodnega	mte:Agpmsg	mednaroden
+standarda	mte:Ncmsg	standard
+o	mte:Sl	o
+izmenjavi	mte:Ncfsl	izmenjava
+davčnih	mte:Agpmpg	davčen
+podatkov	mte:Ncmpg	podatek
+.	mte:Z	.
+Na	mte:Sl	na
+njej	mte:Pp3fsl	on
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+sprva	mte:Rgp	sprva
+znašli	mte:Vmep-pm	znajti
+Kostarika	mte:Npfsn	Kostarika
+,	mte:Z	,
+Malezija	mte:Npfsn	Malezija
+,	mte:Z	,
+Filipini	mte:Npmsn	Filipina
+in	mte:Cc	in
+Urugvaj	mte:Npfsn	Urugvaj
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+OECD	mte:Npfsn	OECD
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+objavi	mte:Ncfsl	objava
+liste	mte:Ncmsg	list
+sporočila	mte:Ncnsg	sporočilo
+,	mte:Z	,
+da	mte:Cs	da
+na	mte:Sl	na
+črni	mte:Agpfsl	črn
+listi	mte:Ncfsl	list
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+nobene	mte:Pz-fsg	noben
+države	mte:Ncfsg	država
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+omenjene	mte:Appfpn	omenjen
+polno	mte:Rgp	polno
+zavezale	mte:Vmpp-pf	zavezati
+k	mte:Sd	k
+izmenjavi	mte:Ncfsd	izmenjava
+davčnih	mte:Agpmpg	davčen
+podatkov	mte:Ncmpg	podatek

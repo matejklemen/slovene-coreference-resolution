@@ -1,488 +1,493 @@
-token	tag
-Zaradi	Sg
-deževja	Ncnsg
-in	Cc
-taljenja	Ncnsg
-snega	Ncmsg
-se	Px------y
-je	Va-r3s-n
-v	Sl
-Pomurju	Npnsl
-sprožilo	Vmep-sn
-več	Rgc
-manjših	Agcmpg
-plazov	Ncmpg
-,	Z
-zato	Cc
-je	Va-r3s-n
-nekaj	Rgp
-cest	Ncfpg
-zaprtih	Appmpg
-.	Z
-Najbolj	Rgs
-kritično	Agpnsn
-pa	Cc
-je	Va-r3s-n
-v	Sl
-dolini	Ncfsl
-Ščavnice	Ncfsg
-,	Z
-kjer	Cs
-so	Va-r3p-n
-aktivirane	Appfpn
-enote	Ncfpn
-civilne	Agpfsg
-zaščite	Ncfsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-povedala	Vmep-sf
-poveljnica	Ncfsn
-gornjeradgonske	Agpfsg
-Civilne	Agpfsg
-zaščite	Ncfsg
-Marjeta	Npfsn
-Erdela	Npfsn
-,	Z
-je	Va-r3s-n
-aktiviranih	Appmpg
-vsej	Pg-mpa
-šest	Mlc-pa
-gasilskih	Agpnpg
-društev	Ncnpg
-ob	Sl
-reki	Ncfsl
-,	Z
-ki	Cs
-večinoma	Rgp
-spremljajo	Vmpr3p
-razmere	Ncfpa
-,	Z
-v	Sl
-Spodnjih	Agpmpl
-Ivanjcih	Npmpl
-pa	Cc
-tudi	Q
-pripravljajo	Vmpr3p
-nasipe	Ncfpa
-,	Z
-da	Cs
-bi	Va-c
-obvarovali	Vmep-pm
-območje	Ncnsa
-kmetijske	Agpfsg
-zadruge	Ncfsg
-.	Z
-Pri	Sl
-Negovi	Npfsl
-je	Va-r3s-n
-plaz	Ncmsan
-pretrgal	Vmep-sm
-del	Ncmsan
-vodovodnega	Agpnsg
-omrežja	Ncnsg
-.	Z
-V	Sl
-Vratji	Ncnsl
-vasi	Ncfsg
-in	Cc
-Podgorju	Npnsl
-so	Va-r3p-n
-hudourniki	Ncmpn
-zalili	Vmep-pm
-nekaj	Rgp
-hiš	Ncfpg
-,	Z
-tako	Cc
-da	Cs
-je	Va-r3s-n
-zaprta	Appfsn
-regionalna	Agpfsn
-cesta	Ncfsn
-Šentilj	Npmsn
--	Z
-Gornja	Agpfsn
-Radgona	Npfsn
-,	Z
-cesta	Ncfsn
-v	Sl
-Rodmošcih	Npmpl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-zasul	Vmep-sm
-plaz	Ncmsn
-,	Z
-pa	Cc
-bo	Va-f3s-n
-po	Sl
-napovedih	Ncfpl
-pristojnih	Agpmpg
-zaprta	Appfsn
-več	Rgc
-tednov	Ncmpg
-.	Z
-Zaradi	Sg
-močnih	Agpfpg
-padavin	Ncfpg
-meteorne	Agpfsg
-vode	Ncfsg
-poplavljajo	Vmpr3p
-tudi	Q
-v	Sl
-Dupleku	Npmsl
-in	Cc
-Lenartu	Npmsl
-.	Z
-Plazovi	Ncmpn
-ogrožajo	Vmpr3p
-hiše	Ncfpa
-O	Sl
-težavah	Ncfpl
-že	Q
-poročajo	Vmpr3p
-iz	Sg
-občine	Ncfsg
-Slovenj	Npmsn
-Gradec	Npmsn
-,	Z
-kjer	Cs
-se	Px------y
-je	Va-r3s-n
-ob	Sl
-9.33	Mdc
-sprožil	Vmep-sm
-zemeljski	Agpmsay
-plaz	Ncmsan
-v	Sl
-kraju	Ncmsl
-Gmajna	Npfsn
-.	Z
-Gasilci	Npmpn
-so	Va-r3p-n
-na	Sl
-kraju	Ncmsl
-ugotovili	Vmep-pm
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-plaz	Ncmsan
-na	Sl
-strmem	Agpnsl
-pobočju	Ncnsl
-za	Sa
-stanovanjsko	Agpfsa
-hišo	Ncfsa
-.	Z
-V	Sl
-bližini	Ncfsl
-hiše	Ncfsg
-je	Va-r3s-n
-vidna	Agpfsn
-razpoka	Ncfsn
-dolžine	Ncfsg
-30	Mdc
-metrov	Ncmpg
-in	Cc
-širine	Ncfsg
-60	Mdc
-centimetrov	Ncmpg
-.	Z
-Ob	Sl
-11	Mdc
-.	Z
-uri	Ncfsl
-pa	Cc
-je	Va-r3s-n
-zaradi	Sg
-močnega	Agpnsg
-deževja	Ncnsg
-meteorna	Agpfsn
-voda	Ncfsn
-vdrla	Vmep-sf
-v	Sa
-kletne	Agpmpa
-prostore	Ncmpa
-stanovanjskega	Agpmsg
-bloka	Ncmsg
-v	Sl
-Vuhredu	Npmsl
-.	Z
-Zvečer	Rgp
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-sprožil	Vmep-sm
-zemeljski	Agpmsny
-plaz	Ncmsn
-na	Sl
-cesti	Ncfsl
-Stari	Agpmsny
-trg	Ncmsn
--	Z
-Sele	Npmsn
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-bil	Va-p-sm
-zaprt	Appmsnn
-del	Ncmsn
-cestišča	Ncnsg
-,	Z
-posledice	Ncfpa
-odstranjujejo	Vmpr3p
-delavci	Ncmpn
-Cestnega	Agpnsg
-podjetja	Ncnsg
-Maribor	Npmsn
-.	Z
-Plaz	Ncmsn
-se	Px------y
-je	Va-r3s-n
-utrgal	Vmep-sm
-tudi	Q
-v	Sl
-Negovi	Npfsl
-,	Z
-kjer	Cs
-je	Va-r3s-n
-poškodoval	Vmep-sm
-vodovodno	Agpnsa
-omrežje	Ncnsa
-.	Z
-V	Sl
-Zbigovcih	Npmpl
-pa	Cc
-je	Va-r3s-n
-v	Sl
-nevarnosti	Ncfsl
-električni	Agpmsay
-daljnovod	Ncmsan
-.	Z
-Plazove	Ncmpa
-bodo	Va-f3p-n
-predvidoma	Rgp
-sanirali	Vmbp-pm
-v	Sa
-ponedeljek	Ncmsan
-,	Z
-nočno	Agpnsa
-dogajanje	Ncnsa
-pa	Cc
-bodo	Va-f3p-n
-spremljale	Vmpp-pf
-straže	Ncfpa
-.	Z
-Gasilci	Ncmpn
-v	Sl
-občini	Ncfsl
-Selnica	Npfsn
-ob	Sl
-Dravi	Npfsl
-so	Va-r3p-n
-odmašili	Vmep-pm
-podcestni	Agpmsay
-kanal	Ncmsan
-ter	Cc
-namestili	Vmep-pm
-vreče	Ncfpa
-s	Si
-peskom	Ncmsi
-,	Z
-da	Cs
-ne	Q
-mi	Pp1-sd--y
-prišlo	Vmep-sn
-do	Sg
-ponovnega	Agpnsg
-poplavljanja	Ncnsg
-ceste	Ncfsg
-v	Sl
-naselju	Ncnsl
-Janževa	Aspfsn
-gora	Ncfsn
-.	Z
-©	Npmsn
-Tadej	Npmsn
-Zorec	Npmsn
-Ob	Sl
-13.45	Mdc
-se	Px------y
-je	Va-r3s-n
-Ruperčah	Npfpl
-blizu	Sg
-Maribora	Npmsg
-sprožil	Vmep-sm
-zemeljski	Agpmsay
-plaz	Ncmsan
-.	Z
-Slednji	Agpmsny
-ogroža	Vmpr3s
-bližnjo	Agpfsa
-stanovanjsko	Agpfsa
-hišo	Ncfsa
-.	Z
-Zemeljski	Agpmsny
-plaz	Ncmsn
-se	Px------y
-je	Va-r3s-n
-sprožil	Vmep-sm
-tudi	Q
-v	Sl
-Raškem	Npnsl
-dolu	Npmsl
-in	Cc
-ogroža	Vmpr3s
-dva	Mlcmda
-stanovanjska	Agpmda
-objekta	Ncmda
-.	Z
-Meteorna	Agpfsn
-voda	Ncfsn
-pa	Cc
-ogroža	Vmpr3s
-zalitje	Ncnsa
-bivalnega	Agpmsg
-zanojnika	Ncmsg
-.	Z
-Ob	Sl
-14.29	Mdc
-pa	Cc
-je	Va-r3s-n
-zemeljski	Agpmsny
-plaz	Ncmsn
-zasul	Vmep-sm
-del	Ncmsan
-ceste	Ncfsg
-Zavrč	Npmsn
--	Z
-Turški	Agpmsny
-vrh	Ncmsn
-v	Sl
-občini	Ncfsl
-Zavrč	Npmsn
-.	Z
-Ob	Sl
-15.14	Mdc
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-v	Sl
-kraju	Ncmsl
-Vršnik	Npmsn
-v	Sl
-občini	Ncfsl
-Kungota	Npfsn
-zamašil	Vmep-sm
-propust	Ncmsn
-pod	Si
-mostom	Ncmsi
-potoka	Ncmsg
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-voda	Ncfsn
-poplavila	Vmep-sf
-most	Ncmsan
-.	Z
-Narasle	Appfpn
-vode	Ncfpn
-še	Q
-vedno	Rgp
-ogrožajo	Vmpr3p
-Po	Sl
-podatkih	Ncmpl
-Agencije	Ncfsg
-za	Sa
-okolje	Ncnsa
-so	Va-r3p-n
-pretoki	Ncmpn
-rek	Ncfpg
-po	Sl
-Sloveniji	Npfsl
-veliki	Agpmpn
-,	Z
-ponekod	Rgp
-že	Q
-upadajo	Vmpr3p
-.	Z
-Naraščajo	Vmpr3p
-reke	Ncfpa
-v	Sl
-južni	Agpfsl
-,	Z
-jugovzhodni	Agpfsl
-in	Cc
-vzhodni	Agpfsl
-Sloveniji	Npfsl
-.	Z
-Reka	Ncfsn
-Ljubljanica	Npfsn
-poplavlja	Vmpr3s
-na	Sl
-Ljubljanskem	Agpmsl
-Barju	Npmsl
-v	Sl
-območju	Ncnsl
-vsakoletnih	Agpfpg
-poplav	Ncfpg
-.	Z
-Reka	Ncfsn
-Krka	Npfsn
-pa	Cc
-bo	Va-f3s-n
-poplavlja	Vmpr3s
-na	Sl
-območju	Ncnsl
-,	Z
-večjem	Agcmsl
-kot	Cs
-so	Va-r3p-n
-vsakoletne	Agpfpn
-poplave	Ncfpn
-.	Z
-Grozi	Vmpr3s
-tudi	Q
-reka	Ncfsn
-Ščavnica	Ncfsn
-,	Z
-ki	Cs
-ogroža	Vmpr3s
-stanovanjsko	Agpnsa
-in	Cc
-gospodarsko	Agpnsa
-poslopje	Ncnsa
-v	Sl
-zgornjem	Agpmsl
-toku	Ncmsl
-na	Sl
-območju	Ncnsl
-Spodje	Agpfsg
-Ščavnice	Ncfsg
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-so	Va-r3p-n
-tam	Rgp
-poplavljena	Appnpn
-območja	Ncnpn
-s	Si
-pašniki	Ncmpi
-in	Cc
-polji	Ncnpi
-.	Z
-Morje	Ncnsn
-bo	Va-f3s-n
-po	Sl
-napovedih	Ncfpl
-jutri	Rgp
-med	Si
-8	Mdc
-.	Z
-in	Cc
-10	Mdc
-.	Z
+token	tag	lemma
+Zaradi	mte:Sg	zaradi
+deževja	mte:Ncnsg	deževje
+in	mte:Cc	in
+taljenja	mte:Ncnsg	taljenje
+snega	mte:Ncmsg	sneg
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Pomurju	mte:Npnsl	Pomurje
+sprožilo	mte:Vmep-sn	sprožiti
+več	mte:Rgc	več
+manjših	mte:Agcmpg	majhen
+plazov	mte:Ncmpg	plaz
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+nekaj	mte:Rgp	nekaj
+cest	mte:Ncfpg	cesta
+zaprtih	mte:Appmpg	zaprt
+.	mte:Z	.
+Najbolj	mte:Rgs	najbolj
+kritično	mte:Agpnsn	kritičen
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+dolini	mte:Ncfsl	dolina
+Ščavnice	mte:Ncfsg	ščavnica
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+aktivirane	mte:Appfpn	aktiviran
+enote	mte:Ncfpn	enota
+civilne	mte:Agpfsg	civilen
+zaščite	mte:Ncfsg	zaščita
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+povedala	mte:Vmep-sf	povedati
+poveljnica	mte:Ncfsn	poveljnica
+gornjeradgonske	mte:Agpfsg	gornjeradgonski
+Civilne	mte:Agpfsg	civilen
+zaščite	mte:Ncfsg	zaščita
+Marjeta	mte:Npfsn	Marjeta
+Erdela	mte:Npfsn	Erdel
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+aktiviranih	mte:Appmpg	aktiviran
+vsej	mte:Pg-mpa	ves
+šest	mte:Mlc-pa	šest
+gasilskih	mte:Agpnpg	gasilski
+društev	mte:Ncnpg	društvo
+ob	mte:Sl	ob
+reki	mte:Ncfsl	reka
+,	mte:Z	,
+ki	mte:Cs	ki
+večinoma	mte:Rgp	večinoma
+spremljajo	mte:Vmpr3p	spremljati
+razmere	mte:Ncfpa	razmera
+,	mte:Z	,
+v	mte:Sl	v
+Spodnjih	mte:Agpmpl	spodnji
+Ivanjcih	mte:Npmpl	Ivanjci
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+pripravljajo	mte:Vmpr3p	pripravljati
+nasipe	mte:Ncfpa	nasip
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+obvarovali	mte:Vmep-pm	obvarovati
+območje	mte:Ncnsa	območje
+kmetijske	mte:Agpfsg	kmetijski
+zadruge	mte:Ncfsg	zadruga
+.	mte:Z	.
+Pri	mte:Sl	pri
+Negovi	mte:Npfsl	Negova
+je	mte:Va-r3s-n	biti
+plaz	mte:Ncmsan	plaz
+pretrgal	mte:Vmep-sm	pretrgati
+del	mte:Ncmsan	del
+vodovodnega	mte:Agpnsg	vodovoden
+omrežja	mte:Ncnsg	omrežje
+.	mte:Z	.
+V	mte:Sl	v
+Vratji	mte:Ncnsl	vrat
+vasi	mte:Ncfsg	vas
+in	mte:Cc	in
+Podgorju	mte:Npnsl	Podgorje
+so	mte:Va-r3p-n	biti
+hudourniki	mte:Ncmpn	hudournik
+zalili	mte:Vmep-pm	zaliti
+nekaj	mte:Rgp	nekaj
+hiš	mte:Ncfpg	hiša
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zaprta	mte:Appfsn	zaprt
+regionalna	mte:Agpfsn	regionalen
+cesta	mte:Ncfsn	cesta
+Šentilj	mte:Npmsn	Šentilj
+-	mte:Z	-
+Gornja	mte:Agpfsn	gornji
+Radgona	mte:Npfsn	Radgon
+,	mte:Z	,
+cesta	mte:Ncfsn	cesta
+v	mte:Sl	v
+Rodmošcih	mte:Npmpl	Rodmošci
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+zasul	mte:Vmep-sm	zasuti
+plaz	mte:Ncmsn	plaz
+,	mte:Z	,
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+napovedih	mte:Ncfpl	napoved
+pristojnih	mte:Agpmpg	pristojen
+zaprta	mte:Appfsn	zaprt
+več	mte:Rgc	več
+tednov	mte:Ncmpg	teden
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+močnih	mte:Agpfpg	močen
+padavin	mte:Ncfpg	padavina
+meteorne	mte:Agpfsg	meteoren
+vode	mte:Ncfsg	voda
+poplavljajo	mte:Vmpr3p	poplavljati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Dupleku	mte:Npmsl	Duplek
+in	mte:Cc	in
+Lenartu	mte:Npmsl	Lenart
+.	mte:Z	.
+Plazovi	mte:Ncmpn	plaz
+ogrožajo	mte:Vmpr3p	ogrožati
+hiše	mte:Ncfpa	hiša
+O	mte:Sl	o
+težavah	mte:Ncfpl	težava
+že	mte:Q	že
+poročajo	mte:Vmpr3p	poročati
+iz	mte:Sg	iz
+občine	mte:Ncfsg	občina
+Slovenj	mte:Npmsn	Slovenj
+Gradec	mte:Npmsn	Gradec
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+9.33	mte:Mdc	9.33
+sprožil	mte:Vmep-sm	sprožiti
+zemeljski	mte:Agpmsay	zemeljski
+plaz	mte:Ncmsan	plaz
+v	mte:Sl	v
+kraju	mte:Ncmsl	kraj
+Gmajna	mte:Npfsn	Gmajna
+.	mte:Z	.
+Gasilci	mte:Npmpn	Gasilec
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+kraju	mte:Ncmsl	kraj
+ugotovili	mte:Vmep-pm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+plaz	mte:Ncmsan	plaz
+na	mte:Sl	na
+strmem	mte:Agpnsl	strm
+pobočju	mte:Ncnsl	pobočje
+za	mte:Sa	za
+stanovanjsko	mte:Agpfsa	stanovanjski
+hišo	mte:Ncfsa	hiša
+.	mte:Z	.
+V	mte:Sl	v
+bližini	mte:Ncfsl	bližina
+hiše	mte:Ncfsg	hiša
+je	mte:Va-r3s-n	biti
+vidna	mte:Agpfsn	viden
+razpoka	mte:Ncfsn	razpok
+dolžine	mte:Ncfsg	dolžina
+30	mte:Mdc	30
+metrov	mte:Ncmpg	meter
+in	mte:Cc	in
+širine	mte:Ncfsg	širina
+60	mte:Mdc	60
+centimetrov	mte:Ncmpg	centimeter
+.	mte:Z	.
+Ob	mte:Sl	ob
+11	mte:Mdc	11
+.	mte:Z	.
+uri	mte:Ncfsl	ura
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+močnega	mte:Agpnsg	močen
+deževja	mte:Ncnsg	deževje
+meteorna	mte:Agpfsn	meteoren
+voda	mte:Ncfsn	voda
+vdrla	mte:Vmep-sf	vdreti
+v	mte:Sa	v
+kletne	mte:Agpmpa	kleten
+prostore	mte:Ncmpa	prostor
+stanovanjskega	mte:Agpmsg	stanovanjski
+bloka	mte:Ncmsg	blok
+v	mte:Sl	v
+Vuhredu	mte:Npmsl	Vuhred
+.	mte:Z	.
+Zvečer	mte:Rgp	zvečer
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sprožil	mte:Vmep-sm	sprožiti
+zemeljski	mte:Agpmsny	zemeljski
+plaz	mte:Ncmsn	plaz
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Stari	mte:Agpmsny	star
+trg	mte:Ncmsn	trg
+-	mte:Z	-
+Sele	mte:Npmsn	Sele
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+zaprt	mte:Appmsnn	zaprt
+del	mte:Ncmsn	del
+cestišča	mte:Ncnsg	cestišče
+,	mte:Z	,
+posledice	mte:Ncfpa	posledica
+odstranjujejo	mte:Vmpr3p	odstranjevati
+delavci	mte:Ncmpn	delavec
+Cestnega	mte:Agpnsg	cesten
+podjetja	mte:Ncnsg	podjetje
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+Plaz	mte:Ncmsn	plaz
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+utrgal	mte:Vmep-sm	utrgati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Negovi	mte:Npfsl	Negova
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+poškodoval	mte:Vmep-sm	poškodovati
+vodovodno	mte:Agpnsa	vodovoden
+omrežje	mte:Ncnsa	omrežje
+.	mte:Z	.
+V	mte:Sl	v
+Zbigovcih	mte:Npmpl	Zbigovci
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+nevarnosti	mte:Ncfsl	nevarnost
+električni	mte:Agpmsay	električen
+daljnovod	mte:Ncmsan	daljnovod
+.	mte:Z	.
+Plazove	mte:Ncmpa	plaz
+bodo	mte:Va-f3p-n	biti
+predvidoma	mte:Rgp	predvidoma
+sanirali	mte:Vmbp-pm	sanirati
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+,	mte:Z	,
+nočno	mte:Agpnsa	nočen
+dogajanje	mte:Ncnsa	dogajanje
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+spremljale	mte:Vmpp-pf	spremljati
+straže	mte:Ncfpa	straža
+.	mte:Z	.
+Gasilci	mte:Ncmpn	gasilec
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+Selnica	mte:Npfsn	Selnica
+ob	mte:Sl	ob
+Dravi	mte:Npfsl	Dravi
+so	mte:Va-r3p-n	biti
+odmašili	mte:Vmep-pm	odmašiti
+podcestni	mte:Agpmsay	podcesten
+kanal	mte:Ncmsan	kanal
+ter	mte:Cc	ter
+namestili	mte:Vmep-pm	namestiti
+vreče	mte:Ncfpa	vreča
+s	mte:Si	z
+peskom	mte:Ncmsi	pesek
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+mi	mte:Pp1-sd--y	jaz
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+ponovnega	mte:Agpnsg	ponoven
+poplavljanja	mte:Ncnsg	poplavljanje
+ceste	mte:Ncfsg	cesta
+v	mte:Sl	v
+naselju	mte:Ncnsl	naselje
+Janževa	mte:Aspfsn	Janžev
+gora	mte:Ncfsn	gora
+.	mte:Z	.
+©	mte:Npmsn	©
+Tadej	mte:Npmsn	Tadej
+Zorec	mte:Npmsn	Zorec
+Ob	mte:Sl	ob
+13.45	mte:Mdc	13.45
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Ruperčah	mte:Npfpl	Ruperče
+blizu	mte:Sg	blizu
+Maribora	mte:Npmsg	Maribor
+sprožil	mte:Vmep-sm	sprožiti
+zemeljski	mte:Agpmsay	zemeljski
+plaz	mte:Ncmsan	plaz
+.	mte:Z	.
+Slednji	mte:Agpmsny	slednji
+ogroža	mte:Vmpr3s	ogrožati
+bližnjo	mte:Agpfsa	bližnji
+stanovanjsko	mte:Agpfsa	stanovanjski
+hišo	mte:Ncfsa	hiša
+.	mte:Z	.
+Zemeljski	mte:Agpmsny	zemeljski
+plaz	mte:Ncmsn	plaz
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sprožil	mte:Vmep-sm	sprožiti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Raškem	mte:Npnsl	Raškom
+dolu	mte:Npmsl	Dol
+in	mte:Cc	in
+ogroža	mte:Vmpr3s	ogrožati
+dva	mte:Mlcmda	dva
+stanovanjska	mte:Agpmda	stanovanjski
+objekta	mte:Ncmda	objekt
+.	mte:Z	.
+Meteorna	mte:Agpfsn	meteoren
+voda	mte:Ncfsn	voda
+pa	mte:Cc	pa
+ogroža	mte:Vmpr3s	ogrožati
+zalitje	mte:Ncnsa	zalitje
+bivalnega	mte:Agpmsg	bivalen
+zanojnika	mte:Ncmsg	zanojnik
+.	mte:Z	.
+Ob	mte:Sl	ob
+14.29	mte:Mdc	14.29
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zemeljski	mte:Agpmsny	zemeljski
+plaz	mte:Ncmsn	plaz
+zasul	mte:Vmep-sm	zasuti
+del	mte:Ncmsan	del
+ceste	mte:Ncfsg	cesta
+Zavrč	mte:Npmsn	Zavrč
+-	mte:Z	-
+Turški	mte:Agpmsny	turški
+vrh	mte:Ncmsn	vrh
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+Zavrč	mte:Npmsn	Zavrč
+.	mte:Z	.
+Ob	mte:Sl	ob
+15.14	mte:Mdc	15.14
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+kraju	mte:Ncmsl	kraj
+Vršnik	mte:Npmsn	Vršnik
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+Kungota	mte:Npfsn	Kungota
+zamašil	mte:Vmep-sm	zamašiti
+propust	mte:Ncmsn	propust
+pod	mte:Si	pod
+mostom	mte:Ncmsi	most
+potoka	mte:Ncmsg	potok
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+voda	mte:Ncfsn	voda
+poplavila	mte:Vmep-sf	poplaviti
+most	mte:Ncmsan	most
+.	mte:Z	.
+Narasle	mte:Appfpn	narasel
+vode	mte:Ncfpn	voda
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+ogrožajo	mte:Vmpr3p	ogrožati
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+so	mte:Va-r3p-n	biti
+pretoki	mte:Ncmpn	pretok
+rek	mte:Ncfpg	reka
+po	mte:Sl	po
+Sloveniji	mte:Npfsl	Slovenija
+veliki	mte:Agpmpn	velik
+,	mte:Z	,
+ponekod	mte:Rgp	ponekod
+že	mte:Q	že
+upadajo	mte:Vmpr3p	upadati
+.	mte:Z	.
+Naraščajo	mte:Vmpr3p	naraščati
+reke	mte:Ncfpa	reka
+v	mte:Sl	v
+južni	mte:Agpfsl	južen
+,	mte:Z	,
+jugovzhodni	mte:Agpfsl	jugovzhoden
+in	mte:Cc	in
+vzhodni	mte:Agpfsl	vzhoden
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Reka	mte:Ncfsn	reka
+Ljubljanica	mte:Npfsn	Ljubljanica
+poplavlja	mte:Vmpr3s	poplavljati
+na	mte:Sl	na
+Ljubljanskem	mte:Agpmsl	ljubljanski
+Barju	mte:Npmsl	Barj
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+vsakoletnih	mte:Agpfpg	vsakoleten
+poplav	mte:Ncfpg	poplava
+.	mte:Z	.
+Reka	mte:Ncfsn	reka
+Krka	mte:Npfsn	Krka
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+poplavlja	mte:Vmpr3s	poplavljati
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+,	mte:Z	,
+večjem	mte:Agcmsl	velik
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+vsakoletne	mte:Agpfpn	vsakoleten
+poplave	mte:Ncfpn	poplava
+.	mte:Z	.
+Grozi	mte:Vmpr3s	groziti
+tudi	mte:Q	tudi
+reka	mte:Ncfsn	reka
+Ščavnica	mte:Ncfsn	ščavnica
+,	mte:Z	,
+ki	mte:Cs	ki
+ogroža	mte:Vmpr3s	ogrožati
+stanovanjsko	mte:Agpnsa	stanovanjski
+in	mte:Cc	in
+gospodarsko	mte:Agpnsa	gospodarski
+poslopje	mte:Ncnsa	poslopje
+v	mte:Sl	v
+zgornjem	mte:Agpmsl	zgornji
+toku	mte:Ncmsl	tok
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Spodje	mte:Agpfsg	spodji
+Ščavnice	mte:Ncfsg	ščavnica
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+so	mte:Va-r3p-n	biti
+tam	mte:Rgp	tam
+poplavljena	mte:Appnpn	poplavljen
+območja	mte:Ncnpn	območje
+s	mte:Si	z
+pašniki	mte:Ncmpi	pašnik
+in	mte:Cc	in
+polji	mte:Ncnpi	polje
+.	mte:Z	.
+Morje	mte:Ncnsn	morje
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+napovedih	mte:Ncfpl	napoved
+jutri	mte:Rgp	jutri
+med	mte:Si	med
+8	mte:Mdc	8
+.	mte:Z	.
+in	mte:Cc	in
+10	mte:Mdc	10
+.	mte:Z	.
+uro	mte:Ncfsi	ura
+poplavilo	mte:Vmep-sn	poplaviti
+nižje	mte:Agcmpa	nizek
+dele	mte:Ncmpa	del
+obale	mte:Ncfsg	obala

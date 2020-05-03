@@ -1,450 +1,470 @@
-token	tag
-Nekdanji	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Istrabenza	Npmsg
-Igor	Npmsn
-Bavčar	Npmsn
-in	Cc
-nekdanji	Agpmsny
-direktor	Ncmsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-Boško	Npmsn
-Šrot	Npmsn
-nista	Va-r3d-y
-prišla	Vmep-dm
-na	Sa
-današnji	Agpmsay
-predobravnavni	Agpmsay
-narok	Ncmsan
-na	Sa
-ljubljansko	Agpnsa
-okrožno	Agpnsa
-sodišče	Ncnsa
-v	Sl
-zadevi	Ncfsl
-,	Z
-kjer	Cs
-jima	Pp3mdd--y
-sodijo	Vmpr3p
-zaradi	Sg
-trgovanja	Ncnsg
-z	Si
-delnicami	Ncfpi
-Istrabenza	Npmsg
-.	Z
-Nekdanji	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Istrabenza	Npmsg
-Igor	Npmsn
-Bavčar	Npmsn
-je	Va-r3s-n
-danes	Rgp
-povedal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-predobravnavnega	Agpmsg
-naroka	Ncmsg
-na	Sl
-ljubljanskem	Agpnsl
-okrožnem	Agpnsl
-sodišču	Ncnsl
-ni	Va-r3s-y
-udeležil	Vmep-sm
-,	Z
-ker	Cs
-bi	Va-c
-bila	Va-p-sf
-njegova	Ps3fsnsm
-navzočnost	Ncfsn
-potrebna	Agpfsn
-le	Q
-,	Z
-če	Cs
-bi	Va-c
-na	Sl
-naroku	Ncmsl
-nameraval	Vmpp-sm
-priznati	Vmen
-krivdo	Ncfsa
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-krivde	Ncfsg
-ne	Q
-misli	Vmpr3s
-priznati	Vmen
-,	Z
-ker	Cs
-očitanega	Appnsg
-kaznivega	Agpnsg
-dejanja	Ncnsg
-ni	Va-r3s-y
-storil	Vmep-sm
-.	Z
-"	Z
-Zato	Cc
-bi	Va-c
-bila	Va-p-sf
-moja	Ps1fsns
-navzočnost	Ncfsn
-nepotrebna	Agpfsn
-in	Cc
-nesmiselna	Agpfsn
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-pojasnil	Vmep-sm
-.	Z
-Predobravnavni	Agpmsny
-narok	Ncmsn
-ne	Q
-poteka	Vmpr3s
-samo	Q
-za	Sa
-Bavčarja	Npmsay
-,	Z
-temveč	Cc
-tudi	Q
-za	Sa
-nekdanjega	Agpmsa
-direktorja	Ncmsay
-Pivovarne	Ncfsg
-Laško	Npnsn
-Boška	Npmsg
-Šrota	Npmsg
-,	Z
-ki	Cs
-se	Px------y
-naroka	Ncmsg
-prav	Q
-tako	Rgp
-ni	Va-r3s-y
-udeležil	Vmep-sm
-.	Z
-Kasneje	Rgc
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-podobno	Rgp
-kot	Cs
-Bavčar	Npmsn
-,	Z
-da	Cs
-njegova	Ps3fsnsm
-navzočnost	Ncfsn
-ni	Va-r3s-y
-bila	Va-p-sf
-potrebna	Agpfsn
-,	Z
-saj	Cc
-da	Cs
-ni	Va-r3s-y
-storil	Vmep-sm
-nobenega	Pz-nsg
-kaznivega	Agpnsg
-dejanja	Ncnsg
-.	Z
-"	Z
-Nisem	Va-r1s-y
-zlorabil	Vmep-sm
-položaja	Ncmsg
-,	Z
-da	Cs
-bi	Va-c
-Bavčarju	Npmsd
-pridobil	Vmep-sm
-premoženjsko	Agpfsa
-korist	Ncfsa
-in	Cc
-s	Si
-tem	Pd-nsi
-oškodoval	Vmep-sm
-firmo	Ncfsa
-oziroma	Cc
-sebe	Px---a
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Prav	Q
-tako	Rgp
-se	Px------y
-naroka	Ncmsg
-,	Z
-kjer	Cs
-bi	Va-c
-se	Px------y
-izrekli	Vmep-pm
-o	Sl
-krivdi	Ncfsl
-,	Z
-ni	Va-r3s-y
-udeležil	Vmep-sm
-nobeden	Pz-msn
-od	Sg
-preostalih	Appmpg
-obtoženih	Appmpg
-.	Z
-Nekdanjima	Agpmdi
-šefoma	Ncmdi
-Istrabenza	Npmsg
-in	Cc
-Pivovarne	Ncfsg
-Laško	Npnsn
-bodo	Va-f3p-n
-sicer	Q
-začeli	Vmep-pm
-soditi	Vmpn
-19	Mdc
-.	Z
-marca	Ncmsg
-.	Z
-Obtožnica	Ncfsn
-zaradi	Sg
-domnevno	Rgp
-spornega	Agpnsg
-lastninjenja	Ncnsg
-Pivovarne	Ncfsg
-Laško	Npnsn
-,	Z
-v	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-bile	Va-p-pf
-pivovarna	Ncfsn
-in	Cc
-njene	Ps3fpnsf
-hčerinske	Agpfpn
-družbe	Ncfpn
-domnevno	Rgp
-oškodovane	Appfpn
-za	Sa
-109	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-in	Cc
-trgovanja	Ncnsg
-z	Si
-delnicami	Ncfpi
-Istrabenza	Npmsg
-je	Va-r3s-n
-bila	Va-p-sf
-vložena	Appfsn
-avgusta	Ncmsg
-lani	Rgp
-.	Z
-Na	Sa
-zatožno	Agpfsa
-klop	Ncfsa
-naj	Q
-bi	Va-c
-jih	Pp3mpa--y
-sedlo	Vmep-sn
-sedem	Mlc-pa
-Zaradi	Sg
-domnevno	Rgp
-spornega	Agpnsg
-trgovanja	Ncnsg
-z	Si
-delnicami	Ncfpi
-Istrabenza	Npmsg
-bi	Va-c
-morali	Vmpp-pm
-danes	Rgp
-na	Sa
-zatožno	Agpfsa
-klop	Ncfsa
-sesti	Vmen
-še	Q
-predsednik	Ncmsn
-uprave	Ncfsg
-Maksime	Agpmsg
-holdinga	Ncmsg
-Nastja	Npmsn
-Sušinski	Npmsn
-,	Z
-nekdanji	Agpmsny
-svetovalec	Ncmsn
-za	Sa
-finance	Ncfpa
-v	Sl
-Istrabenzu	Npmsl
-Kristjan	Npmsn
-Sušinski	Npmsn
-,	Z
-lastnik	Ncmsn
-Sportine	Npfsg
-Bahtijar	Npmsn
-Bajrović	Npmsn
-,	Z
-Kranjski	Agpmsny
-odvetnik	Ncmsn
-Branko	Npmsn
-Lipovec	Npmsn
-,	Z
-nekdanja	Agpfsn
-"	Z
-slamnata	Agpfsn
-"	Z
-lastnica	Ncfsn
-Šrotovega	Aspnsg
-podjetja	Ncnsg
-Kolonel	Npmsn
-Danijela	Npmsn
-Raković	Npmsn
-,	Z
-Sportina	Npfsn
-Bled	Npmsn
-,	Z
-Durox	Npmsn
-in	Cc
-Cogito	Npmsn
-.	Z
-Vendar	Cc
-ni	Va-r3s-y
-bilo	Va-p-sn
-nikogar	Pz-msg
-.	Z
-Obtožnico	Ncfsa
-razdelili	Vmep-pm
-na	Sa
-dva	Mlcmda
-dela	Ncmda
-Sodišče	Ncnsa
-je	Va-r3s-n
-nato	Rgp
-na	Sa
-predlog	Ncmsan
-tožilstva	Ncnsg
-obstoječo	Appfsa
-obtožnico	Ncfsa
-zoper	Sa
-sedmerico	Ncfsa
-razdelilo	Vmep-sn
-na	Sa
-dva	Mlcmda
-dela	Ncnda
-.	Z
-Tako	Rgp
-bodo	Va-f3p-n
-obtoženim	Appmpd
-najprej	Rgs
-sodili	Vmpp-pm
-zaradi	Sg
-domnevno	Rgp
-spornega	Agpnsg
-trgovanja	Ncnsg
-z	Si
-delnicami	Ncfpi
-,	Z
-ki	Cs
-se	Px------y
-nanaša	Vmpr3s
-na	Sa
-večkratno	Agpfsa
-prodajo	Ncfsa
-7,3	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-Istrabenza	Npmsg
-,	Z
-pozneje	Rgc
-pa	Cc
-še	Q
-zaradi	Sg
-menedžerskega	Agpmsg
-prevzema	Ncmsg
-Pivovarne	Ncfsg
-Laško	Npnsn
-.	Z
-Razdelitev	Ncfsa
-obtožnice	Ncfsg
-je	Va-r3s-n
-bila	Va-p-sf
-po	Sl
-mnenju	Ncnsl
-tožilstva	Ncnsg
-nujna	Agpfsn
-zaradi	Sg
-skorajšnjega	Agpmsg
-izteka	Ncmsg
-dopustnega	Agpmsg
-triletnega	Agpmsg
-roka	Ncmsg
-za	Sa
-zamrznitev	Ncfsa
-premoženja	Ncnsg
-.	Z
-Naj	Cs
-vas	Pp2-pa
-spomnimo	Vmer1p
-Kazniva	Agpnpa
-dejanja	Ncnpa
-naj	Q
-bi	Va-c
-se	Px------y
-zgodila	Vmep-sf
-leta	Ncnsg
-2007	Mdc
-ob	Sl
-preprodaji	Ncfsl
-7,3	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-Istrabenza	Npmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-Pivovarna	Ncfsn
-Laško	Npnsn
-prodala	Vmep-sf
-najprej	Rgs
-hčerinski	Agpfsd
-družbi	Ncfsd
-Plinfin	Npmsn
-(	Z
-za	Sa
-23	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-)	Z
-,	Z
-nato	Rgp
-je	Va-r3s-n
-pivovarna	Ncfsn
-prodala	Vmep-sf
-Plinfin	Npmsan
-za	Sa
-vsega	Pg-msa
-7.500	Mdc
-evrov	Ncmpg
-Sportini	Npmsn
-,	Z
-ta	Pd-msn
-pa	Cc
-1	Mdc
-.	Z
-oktobra	Ncmsg
-2007	Mdc
-za	Sa
-24,9	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-Microtrustu	Npmsd
-v	Sl
-lasti	Ncfsl
-Nastje	Npmsn
-Sušinski	Agpmsn
-.	Z
+token	tag	lemma
+Nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Istrabenza	mte:Npmsg	Istrabenz
+Igor	mte:Npmsn	Igor
+Bavčar	mte:Npmsn	Bavčar
+in	mte:Cc	in
+nekdanji	mte:Agpmsny	nekdanji
+direktor	mte:Ncmsn	direktor
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+Boško	mte:Npmsn	Boško
+Šrot	mte:Npmsn	Šrot
+nista	mte:Va-r3d-y	biti
+prišla	mte:Vmep-dm	priti
+na	mte:Sa	na
+današnji	mte:Agpmsay	današnji
+predobravnavni	mte:Agpmsay	predobravnaven
+narok	mte:Ncmsan	narok
+na	mte:Sa	na
+ljubljansko	mte:Agpnsa	ljubljanski
+okrožno	mte:Agpnsa	okrožen
+sodišče	mte:Ncnsa	sodišče
+v	mte:Sl	v
+zadevi	mte:Ncfsl	zadeva
+,	mte:Z	,
+kjer	mte:Cs	kjer
+jima	mte:Pp3mdd--y	on
+sodijo	mte:Vmpr3p	soditi
+zaradi	mte:Sg	zaradi
+trgovanja	mte:Ncnsg	trgovanje
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+Istrabenza	mte:Npmsg	Istrabenz
+.	mte:Z	.
+Nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Istrabenza	mte:Npmsg	Istrabenz
+Igor	mte:Npmsn	Igor
+Bavčar	mte:Npmsn	Bavčar
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+predobravnavnega	mte:Agpmsg	predobravnaven
+naroka	mte:Ncmsg	narok
+na	mte:Sl	na
+ljubljanskem	mte:Agpnsl	ljubljanski
+okrožnem	mte:Agpnsl	okrožen
+sodišču	mte:Ncnsl	sodišče
+ni	mte:Va-r3s-y	biti
+udeležil	mte:Vmep-sm	udeležiti
+,	mte:Z	,
+ker	mte:Cs	ker
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+njegova	mte:Ps3fsnsm	njegov
+navzočnost	mte:Ncfsn	navzočnost
+potrebna	mte:Agpfsn	potreben
+le	mte:Q	le
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+na	mte:Sl	na
+naroku	mte:Ncmsl	narok
+nameraval	mte:Vmpp-sm	nameravati
+priznati	mte:Vmen	priznati
+krivdo	mte:Ncfsa	krivda
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+krivde	mte:Ncfsg	krivda
+ne	mte:Q	ne
+misli	mte:Vmpr3s	misliti
+priznati	mte:Vmen	priznati
+,	mte:Z	,
+ker	mte:Cs	ker
+očitanega	mte:Appnsg	očitan
+kaznivega	mte:Agpnsg	kazniv
+dejanja	mte:Ncnsg	dejanje
+ni	mte:Va-r3s-y	biti
+storil	mte:Vmep-sm	storiti
+.	mte:Z	.
+"	mte:Z	"
+Zato	mte:Cc	zato
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+moja	mte:Ps1fsns	moj
+navzočnost	mte:Ncfsn	navzočnost
+nepotrebna	mte:Agpfsn	nepotreben
+in	mte:Cc	in
+nesmiselna	mte:Agpfsn	nesmiseln
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Predobravnavni	mte:Agpmsny	predobravnaven
+narok	mte:Ncmsn	narok
+ne	mte:Q	ne
+poteka	mte:Vmpr3s	potekati
+samo	mte:Q	samo
+za	mte:Sa	za
+Bavčarja	mte:Npmsay	Bavčar
+,	mte:Z	,
+temveč	mte:Cc	temveč
+tudi	mte:Q	tudi
+za	mte:Sa	za
+nekdanjega	mte:Agpmsa	nekdanji
+direktorja	mte:Ncmsay	direktor
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+Boška	mte:Npmsg	Boška
+Šrota	mte:Npmsg	Šrot
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+naroka	mte:Ncmsg	narok
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+ni	mte:Va-r3s-y	biti
+udeležil	mte:Vmep-sm	udeležiti
+.	mte:Z	.
+Kasneje	mte:Rgc	kasno
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+podobno	mte:Rgp	podobno
+kot	mte:Cs	kot
+Bavčar	mte:Npmsn	Bavčar
+,	mte:Z	,
+da	mte:Cs	da
+njegova	mte:Ps3fsnsm	njegov
+navzočnost	mte:Ncfsn	navzočnost
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+potrebna	mte:Agpfsn	potreben
+,	mte:Z	,
+saj	mte:Cc	saj
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+storil	mte:Vmep-sm	storiti
+nobenega	mte:Pz-nsg	noben
+kaznivega	mte:Agpnsg	kazniv
+dejanja	mte:Ncnsg	dejanje
+.	mte:Z	.
+"	mte:Z	"
+Nisem	mte:Va-r1s-y	biti
+zlorabil	mte:Vmep-sm	zlorabiti
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+Bavčarju	mte:Npmsd	Bavčar
+pridobil	mte:Vmep-sm	pridobiti
+premoženjsko	mte:Agpfsa	premoženjski
+korist	mte:Ncfsa	korist
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+oškodoval	mte:Vmep-sm	oškodovati
+firmo	mte:Ncfsa	firma
+oziroma	mte:Cc	oziroma
+sebe	mte:Px---a	se
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+se	mte:Px------y	se
+naroka	mte:Ncmsg	narok
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+izrekli	mte:Vmep-pm	izreči
+o	mte:Sl	o
+krivdi	mte:Ncfsl	krivd
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+udeležil	mte:Vmep-sm	udeležiti
+nobeden	mte:Pz-msn	nobeden
+od	mte:Sg	od
+preostalih	mte:Appmpg	preostal
+obtoženih	mte:Appmpg	obtožen
+.	mte:Z	.
+Nekdanjima	mte:Agpmdi	nekdanji
+šefoma	mte:Ncmdi	šef
+Istrabenza	mte:Npmsg	Istrabenz
+in	mte:Cc	in
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+bodo	mte:Va-f3p-n	biti
+sicer	mte:Q	sicer
+začeli	mte:Vmep-pm	začeti
+soditi	mte:Vmpn	soditi
+19	mte:Mdc	19
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+.	mte:Z	.
+Obtožnica	mte:Ncfsn	obtožnica
+zaradi	mte:Sg	zaradi
+domnevno	mte:Rgp	domnevno
+spornega	mte:Agpnsg	sporen
+lastninjenja	mte:Ncnsg	lastninjenje
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+pivovarna	mte:Ncfsn	pivovarna
+in	mte:Cc	in
+njene	mte:Ps3fpnsf	njen
+hčerinske	mte:Agpfpn	hčerinski
+družbe	mte:Ncfpn	družba
+domnevno	mte:Rgp	domnevno
+oškodovane	mte:Appfpn	oškodovan
+za	mte:Sa	za
+109	mte:Mdc	109
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+in	mte:Cc	in
+trgovanja	mte:Ncnsg	trgovanje
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+Istrabenza	mte:Npmsg	Istrabenz
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+vložena	mte:Appfsn	vložen
+avgusta	mte:Ncmsg	avgust
+lani	mte:Rgp	lani
+.	mte:Z	.
+Na	mte:Sa	na
+zatožno	mte:Agpfsa	zatožen
+klop	mte:Ncfsa	klop
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+sedlo	mte:Vmep-sn	sesti
+sedem	mte:Mlc-pa	sedem
+Zaradi	mte:Sg	zaradi
+domnevno	mte:Rgp	domnevno
+spornega	mte:Agpnsg	sporen
+trgovanja	mte:Ncnsg	trgovanje
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+Istrabenza	mte:Npmsg	Istrabenz
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+danes	mte:Rgp	danes
+na	mte:Sa	na
+zatožno	mte:Agpfsa	zatožen
+klop	mte:Ncfsa	klop
+sesti	mte:Vmen	sesti
+še	mte:Q	še
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Maksime	mte:Agpmsg	Maksim
+holdinga	mte:Ncmsg	holdinga
+Nastja	mte:Npmsn	Nastja
+Sušinski	mte:Npmsn	Sušinski
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+svetovalec	mte:Ncmsn	svetovalec
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+v	mte:Sl	v
+Istrabenzu	mte:Npmsl	Istrabenz
+Kristjan	mte:Npmsn	Kristjan
+Sušinski	mte:Npmsn	Sušinski
+,	mte:Z	,
+lastnik	mte:Ncmsn	lastnik
+Sportine	mte:Npfsg	Sportina
+Bahtijar	mte:Npmsn	Bahtijar
+Bajrović	mte:Npmsn	Bajrović
+,	mte:Z	,
+Kranjski	mte:Agpmsny	kranjski
+odvetnik	mte:Ncmsn	odvetnik
+Branko	mte:Npmsn	Branko
+Lipovec	mte:Npmsn	Lipovec
+,	mte:Z	,
+nekdanja	mte:Agpfsn	nekdanji
+"	mte:Z	"
+slamnata	mte:Agpfsn	slamnat
+"	mte:Z	"
+lastnica	mte:Ncfsn	lastnica
+Šrotovega	mte:Aspnsg	Šrotov
+podjetja	mte:Ncnsg	podjetje
+Kolonel	mte:Npmsn	Kolonel
+Danijela	mte:Npmsn	Danijel
+Raković	mte:Npmsn	Raković
+,	mte:Z	,
+Sportina	mte:Npfsn	Sportina
+Bled	mte:Npmsn	Bled
+,	mte:Z	,
+Durox	mte:Npmsn	Durox
+in	mte:Cc	in
+Cogito	mte:Npmsn	Cogito
+.	mte:Z	.
+Vendar	mte:Cc	vendar
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+nikogar	mte:Pz-msg	nihče
+.	mte:Z	.
+Obtožnico	mte:Ncfsa	obtožnica
+razdelili	mte:Vmep-pm	razdeliti
+na	mte:Sa	na
+dva	mte:Mlcmda	dva
+dela	mte:Ncmda	delo
+Sodišče	mte:Ncnsa	sodišče
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+tožilstva	mte:Ncnsg	tožilstvo
+obstoječo	mte:Appfsa	obstoječ
+obtožnico	mte:Ncfsa	obtožnica
+zoper	mte:Sa	zoper
+sedmerico	mte:Ncfsa	sedmerica
+razdelilo	mte:Vmep-sn	razdeliti
+na	mte:Sa	na
+dva	mte:Mlcmda	dva
+dela	mte:Ncnda	delo
+.	mte:Z	.
+Tako	mte:Rgp	tako
+bodo	mte:Va-f3p-n	biti
+obtoženim	mte:Appmpd	obtožen
+najprej	mte:Rgs	najprej
+sodili	mte:Vmpp-pm	soditi
+zaradi	mte:Sg	zaradi
+domnevno	mte:Rgp	domnevno
+spornega	mte:Agpnsg	sporen
+trgovanja	mte:Ncnsg	trgovanje
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+nanaša	mte:Vmpr3s	nanašati
+na	mte:Sa	na
+večkratno	mte:Agpfsa	večkraten
+prodajo	mte:Ncfsa	prodaja
+7,3	mte:Mdc	7,3
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+Istrabenza	mte:Npmsg	Istrabenz
+,	mte:Z	,
+pozneje	mte:Rgc	pozno
+pa	mte:Cc	pa
+še	mte:Q	še
+zaradi	mte:Sg	zaradi
+menedžerskega	mte:Agpmsg	menedžerski
+prevzema	mte:Ncmsg	prevzem
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+.	mte:Z	.
+Razdelitev	mte:Ncfsa	razdelitev
+obtožnice	mte:Ncfsg	obtožnica
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+tožilstva	mte:Ncnsg	tožilstvo
+nujna	mte:Agpfsn	nujen
+zaradi	mte:Sg	zaradi
+skorajšnjega	mte:Agpmsg	skorajšnji
+izteka	mte:Ncmsg	iztekati
+dopustnega	mte:Agpmsg	dopusten
+triletnega	mte:Agpmsg	trileten
+roka	mte:Ncmsg	roka
+za	mte:Sa	za
+zamrznitev	mte:Ncfsa	zamrznitev
+premoženja	mte:Ncnsg	premoženje
+.	mte:Z	.
+Naj	mte:Cs	naj
+vas	mte:Pp2-pa	ti
+spomnimo	mte:Vmer1p	spomniti
+Kazniva	mte:Agpnpa	Kazniv
+dejanja	mte:Ncnpa	dejanje
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+zgodila	mte:Vmep-sf	zgoditi
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+ob	mte:Sl	ob
+preprodaji	mte:Ncfsl	preprodaja
+7,3	mte:Mdc	7,3
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+Istrabenza	mte:Npmsg	Istrabenz
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+prodala	mte:Vmep-sf	prodati
+najprej	mte:Rgs	najprej
+hčerinski	mte:Agpfsd	hčerinski
+družbi	mte:Ncfsd	družba
+Plinfin	mte:Npmsn	Plinfin
+(	mte:Z	(
+za	mte:Sa	za
+23	mte:Mdc	23
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+,	mte:Z	,
+nato	mte:Rgp	nato
+je	mte:Va-r3s-n	biti
+pivovarna	mte:Ncfsn	pivovarna
+prodala	mte:Vmep-sf	prodati
+Plinfin	mte:Npmsan	Plinfin
+za	mte:Sa	za
+vsega	mte:Pg-msa	ves
+7.500	mte:Mdc	7.500
+evrov	mte:Ncmpg	evro
+Sportini	mte:Npmsn	Sportina
+,	mte:Z	,
+ta	mte:Pd-msn	ta
+pa	mte:Cc	pa
+1	mte:Mdc	1
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+2007	mte:Mdc	2007
+za	mte:Sa	za
+24,9	mte:Mdc	24,9
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+Microtrustu	mte:Npmsd	Microtrust
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Nastje	mte:Npmsg	Nastje
+Sušinski	mte:Agpmsg	sušinski
+.	mte:Z	.
+Istega	mte:Pi-msg	isti
+dne	mte:Ncmsg	dan
+je	mte:Va-r3s-n	biti
+Microtrust	mte:Npmsn	Microtrust
+prodal	mte:Vmep-sm	prodati
+Istrabenzov	mte:Aspmsan	Istrabenzov
+paket	mte:Ncmsan	paket
+Pom	mte:Npmsn	Pom
+-	mte:Z	-
+Investu	mte:Npmsd	Invest
+za	mte:Sa	za
+49,2	mte:Mdc	49,2
+milijona	mte:Ncmsg	milijon
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+zaslužil	mte:Vmep-sm	zaslužiti
+24,3	mte:Mdc	24,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro

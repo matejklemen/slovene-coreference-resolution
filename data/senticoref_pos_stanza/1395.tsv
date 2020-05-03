@@ -1,483 +1,511 @@
-token	tag
-Delavci	Ncmpn
-CPM	Npmsn
-so	Va-r3p-n
-dobili	Vmep-pm
-decembrske	Agpfpa
-plače	Ncfpa
-brez	Sg
-potnih	Agpmpg
-stroškov	Ncmpg
-,	Z
-malice	Ncfpa
-in	Cc
-drugih	Mlpfpg
-obveznosti	Ncfpg
-,	Z
-v	Sl
-hčerinskih	Agpfpl
-družbah	Ncfpl
-pa	Cc
-so	Va-r3p-n
-dobili	Vmep-pm
-del	Ncmsan
-plač	Ncfpg
-.	Z
-Stavka	Ncfsn
-je	Va-r3s-n
-napovedana	Appfsn
-za	Sa
-22	Mdc
-.	Z
-februar	Ncmsn
-.	Z
-Okoli	Rgp
-700	Mdc
-zaposlenih	Appnpg
-v	Sl
-Cestnem	Agpnsl
-podjetju	Ncnsl
-Maribor	Npmsn
-CPM	Npmsn
-je	Va-r3s-n
-prejelo	Vmep-sn
-decembrske	Agpfpa
-plače	Ncfpa
-,	Z
-teh	Pd-npg
-pa	Cc
-v	Sl
-celoti	Ncfsl
-niso	Va-r3p-y
-dočakali	Vmep-pm
-v	Sl
-hčerinskih	Agpfpl
-družbah	Ncfpl
-CPM	Ncmsn
-Vzdrževanje	Ncnsn
-in	Cc
-obnova	Ncfsn
-cest	Ncfpg
-ter	Cc
-CPM	Ncmsn
-Investicije	Ncfsg
-.	Z
-V	Sl
-CPM	Npmsl
-d.d	Y
-.	Z
-smo	Va-r1p-n
-dobili	Vmep-pm
-plače	Ncfpa
-za	Sa
-december	Ncmsan
-,	Z
-a	Cc
-brez	Sg
-potnih	Agpmpg
-stroškov	Ncmpg
-,	Z
-plačila	Ncnsg
-malice	Ncfsg
-in	Cc
-drugih	Mlpfpg
-obveznosti	Ncfpg
-,	Z
-ki	Cs
-gredo	Vmbr3p
-v	Sa
-maso	Ncfsa
-prisilne	Agpfsg
-poravnave	Ncfsg
-.	Z
-V	Sl
-ostalih	Appfpl
-dveh	Mlcfdl
-družbah	Ncfdl
-,	Z
-v	Sl
-katerih	Pq-mpl
-so	Va-r3p-n
-ta	Pd-msa
-teden	Ncmsan
-že	Q
-prejeli	Vmep-pm
-del	Ncmsan
-decembrskih	Agpfpg
-plač	Ncfpg
-,	Z
-pa	Cc
-niso	Va-r3p-y
-prejeli	Vmep-pm
-zadnjega	Agpmsg
-dela	Ncmsg
-plače	Ncfsg
-.	Z
-Plačilo	Ncnsa
-so	Va-r3p-n
-obljubili	Vmep-pm
-do	Sg
-10	Mdc
-.	Z
-februarja	Ncmsg
-,	Z
-je	Va-r3s-n
-po	Sl
-sestanku	Ncmsl
-izvršilnega	Agpmsg
-odbora	Ncmsg
-sindikata	Ncmsg
-povedala	Vmep-sf
-Barbara	Npfsn
-Matul	Npfsn
-iz	Sg
-Sindikata	Npmsg
-cestnega	Agpnsg
-gospodarstva	Ncnsg
-Slovenije	Npfsg
-.	Z
-Sindikat	Ncmsn
-je	Va-r3s-n
-zato	Rgp
-na	Sl
-današnjem	Agpmsl
-sestanku	Ncmsl
-sklenil	Vmep-sm
-,	Z
-da	Cs
-stavko	Ncfsa
-napovejo	Vmer3p
-za	Sa
-22	Mdc
-.	Z
-februar	Ncmsan
-,	Z
-saj	Cc
-želijo	Vmpr3p
-vanjo	Pp3fsa--b
-zajeti	Vmen
-tudi	Q
-izplačilo	Ncnsa
-januarske	Agpfsg
-plače	Ncfsg
-,	Z
-predvideno	Appnsn
-za	Sa
-18	Mdc
-.	Z
-februar	Ncmsa
-.	Z
-Do	Sg
-takrat	Rgp
-so	Va-r3p-n
-namreč	Cc
-zaposleni	Appmpn
-tudi	Q
-na	Sl
-kolektivnem	Agpmsl
-dopustu	Ncmsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-še	Q
-povedala	Vmep-sf
-,	Z
-mora	Vmpr3s
-vodstvo	Ncnsa
-družbe	Ncfsg
-za	Sa
-odpoved	Ncfsa
-stavke	Ncfsg
-poplačati	Vmen
-preostali	Appmsay
-del	Ncmsan
-decembrskih	Agpfpg
-plač	Ncfpg
-ter	Cc
-do	Sg
-18	Mdc
-.	Z
-februarja	Ncmsg
-poplačati	Vmen
-januarsko	Agpfsa
-plačo	Ncfsa
-.	Z
-Mariborsko	Agpnsn
-okrožno	Agpnsn
-sodišče	Ncnsn
-je	Va-r3s-n
-12	Mdc
-.	Z
-januarja	Ncmsg
-začelo	Vmep-sn
-s	Si
-postopkom	Ncmsi
-prisilne	Agpfsg
-poravnave	Ncfsg
-v	Sl
-CPM	Npmsn
-,	Z
-za	Sa
-prisilnega	Agpmsa
-upravitelja	Ncmsay
-pa	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-imenovan	Appmsnn
-Silvo	Npmsn
-Zorec	Npmsn
-.	Z
-Sodišče	Ncnsn
-je	Va-r3s-n
-upnike	Ncmpa
-pozvalo	Vmep-sn
-,	Z
-da	Cs
-najpozneje	Rgs
-do	Sg
-14	Mdc
-.	Z
-februarja	Ncmsg
-prijavijo	Vmer3p
-svoje	Px-fpa
-terjatve	Ncfpa
-.	Z
-Navadnim	Agpmpd
-upnikom	Ncmpd
-je	Va-r3s-n
-mariborsko	Agpnsn
-gradbeno	Agpnsn
-podjetje	Ncnsn
-,	Z
-ki	Cs
-jim	Pp3mpd--y
-dolguje	Vmpr3s
-68	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-predlagalo	Vmbp-sn
-,	Z
-da	Cs
-se	Px------y
-odrečejo	Vmer3p
-65	Mdc
-odstotkom	Ncmpd
-svojih	Px-fpg
-terjatev	Ncfpg
-.	Z
-Dobro	Agpfsa
-tretjino	Ncfsa
-terjatev	Ncfpg
-bi	Va-c
-jim	Pp3mpd--y
-CPM	Npmsn
-povrnil	Vmep-sm
-v	Sl
-šestih	Mlc-pl
-letih	Ncnpl
-in	Cc
-pol	Rgp
-.	Z
-Sicer	Q
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-ta	Pd-msa
-teden	Ncmsan
-z	Si
-vodstvom	Ncnsi
-družbe	Ncfsg
-in	Cc
-prisilnim	Agpmsi
-upraviteljem	Ncmsi
-prvič	Rgp
-sestal	Vmep-sm
-tudi	Q
-upniški	Agpmsny
-odbor	Ncmsn
-,	Z
-katerega	Pq-msg
-vodenje	Ncnsa
-je	Va-r3s-n
-prevzel	Vmep-sm
-predstavnik	Ncmsn
-Petrola	Npmsg
-Uroš	Npmsn
-Ilić	Npmsn
-,	Z
-ob	Sl
-njem	Pp3msl
-pa	Cc
-v	Sl
-odboru	Ncmsl
-sedijo	Vmpr3p
-še	Q
-predstavniki	Ncmpn
-Banke	Ncfsg
-Celje	Npnsn
-,	Z
-NKBM	Npfsg
-,	Z
-NLB	Npfsg
-in	Cc
-Gorenjske	Agpfsg
-banke	Ncfsg
-.	Z
-Prvi	Mlomsn
-mož	Ncmsn
-CPM	Npmsn
-Janez	Npmsn
-Škoberne	Npmsn
-jim	Pp3mpd--y
-je	Va-r3s-n
-predstavil	Vmep-sm
-razmere	Ncfpa
-in	Cc
-načrt	Ncmsan
-finančnega	Agpnsg
-prestrukturiranja	Ncnsg
-.	Z
-Svojega	Px-nsg
-mnenja	Ncnsg
-pa	Cc
-o	Sl
-načrtu	Ncmsl
-tokrat	Rgp
-še	Q
-ni	Va-r3s-y
-želel	Vmpp-sm
-izraziti	Vmen
-prisilni	Agpmsny
-upravitelj	Ncmsn
-,	Z
-češ	Q
-da	Cs
-je	Va-r3s-n
-za	Sa
-to	Pd-nsa
-še	Q
-prezgodaj	Rgp
-.	Z
-Upnike	Npmpa
-je	Va-r3s-n
-glede	Rgp
-na	Sa
-danes	Rgp
-objavljeno	Appnsn
-poročilo	Ncnsa
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-Ajpesa	Npmsg
-zanimala	Vmpp-sf
-predvsem	Q
-možnost	Ncfsn
-dokapitalizacije	Ncfsg
-družbe	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-70	Mdc
--	Z
-odstotni	Agpfsl
-lasti	Ncfsl
-CPM	Ncmsg
-Holdinga	Ncmsg
-,	Z
-med	Si
-lastniki	Ncmpi
-pa	Cc
-so	Va-r3p-n
-poleg	Sg
-malih	Agpmpg
-delničarjev	Ncmpg
-še	Q
-NKBM	Npfsn
-,	Z
-Janez	Npmsn
-Škoberne	Npmsn
-,	Z
-Mestna	Agpfsn
-občina	Ncfsn
-Maribor	Npmsn
-in	Cc
-občina	Ncfsn
-Slovenska	Agpfsn
-Bistrica	Npfsn
-.	Z
-Škoberne	Npmsn
-jim	Pp3mpd--y
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-da	Cs
-od	Sg
-lastnikov	Ncmpg
-ne	Q
-gre	Vmbr3s
-pričakovati	Vmpn
-sodelovanja	Ncnsg
-pri	Sl
-sanaciji	Ncfsl
-,	Z
-prav	Q
-tako	Rgp
-jim	Pp3mpd--y
-je	Va-r3s-n
-zagotovil	Vmep-sm
-,	Z
-da	Cs
-premoženja	Ncnsg
-iz	Sg
-matične	Agpfsg
-družbe	Ncfsg
-niso	Va-r3p-y
-prenašali	Vmpp-pm
-na	Sa
-hčerinska	Agpnpa
-podjetja	Ncnpa
-.	Z
-Škoberne	Npmsn
-je	Va-r3s-n
-o	Sl
-poslih	Ncmpl
-v	Sl
-naslednjem	Agpnsl
-obdobju	Ncnsl
-upnikom	Ncmpd
-še	Q
-povedal	Vmep-sm
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-z	Si
-družbo	Ncfsi
-Alpine	Npfsn
-Bau	Npmsn
-sklenjeno	Appfsa
-pogodbo	Ncfsa
-,	Z
-da	Cs
-so	Va-r3p-n
-njihovi	Ps3mpnp
-podizvajalci	Ncmpn
-za	Sa
-vse	Pg-mpa
-posle	Ncmpa
-v	Sl
-Sloveniji	Npfsl
-,	Z
-večja	Agcnpn
-dela	Ncnpa
-na	Sl
-lokalni	Agpfsl
-ravni	Ncfsl
-pa	Cc
-nameravajo	Vmpr3p
-pridobivati	Vmpn
-preko	Sg
-hčerinskih	Agpnpg
-podjetij	Ncnpg
-.	Z
+token	tag	lemma
+Delavci	mte:Ncmpn	delavec
+CPM	mte:Npmsn	CPM
+so	mte:Va-r3p-n	biti
+dobili	mte:Vmep-pm	dobiti
+decembrske	mte:Agpfpa	decembrski
+plače	mte:Ncfpa	plača
+brez	mte:Sg	brez
+potnih	mte:Agpmpg	poten
+stroškov	mte:Ncmpg	strošek
+,	mte:Z	,
+malice	mte:Ncfpa	malica
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+obveznosti	mte:Ncfpg	obveznost
+,	mte:Z	,
+v	mte:Sl	v
+hčerinskih	mte:Agpfpl	hčerinski
+družbah	mte:Ncfpl	družba
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+dobili	mte:Vmep-pm	dobiti
+del	mte:Ncmsan	del
+plač	mte:Ncfpg	plača
+.	mte:Z	.
+Stavka	mte:Ncfsn	stavka
+je	mte:Va-r3s-n	biti
+napovedana	mte:Appfsn	napovedan
+za	mte:Sa	za
+22	mte:Mdc	22
+.	mte:Z	.
+februar	mte:Ncmsn	februar
+.	mte:Z	.
+Okoli	mte:Rgp	okoli
+700	mte:Mdc	700
+zaposlenih	mte:Appnpg	zaposlen
+v	mte:Sl	v
+Cestnem	mte:Agpnsl	cesten
+podjetju	mte:Ncnsl	podjetje
+Maribor	mte:Npmsn	Maribor
+CPM	mte:Npmsn	CPM
+je	mte:Va-r3s-n	biti
+prejelo	mte:Vmep-sn	prejeti
+decembrske	mte:Agpfpa	decembrski
+plače	mte:Ncfpa	plača
+,	mte:Z	,
+teh	mte:Pd-npg	ta
+pa	mte:Cc	pa
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+niso	mte:Va-r3p-y	biti
+dočakali	mte:Vmep-pm	dočakati
+v	mte:Sl	v
+hčerinskih	mte:Agpfpl	hčerinski
+družbah	mte:Ncfpl	družba
+CPM	mte:Ncmsn	CPM
+Vzdrževanje	mte:Ncnsn	vzdrževanje
+in	mte:Cc	in
+obnova	mte:Ncfsn	obnova
+cest	mte:Ncfpg	cesta
+ter	mte:Cc	ter
+CPM	mte:Ncmsn	CPM
+Investicije	mte:Ncfsg	investicija
+.	mte:Z	.
+V	mte:Sl	v
+CPM	mte:Npmsl	CPM
+d.d	mte:Y	d.d
+.	mte:Z	.
+smo	mte:Va-r1p-n	biti
+dobili	mte:Vmep-pm	dobiti
+plače	mte:Ncfpa	plača
+za	mte:Sa	za
+december	mte:Ncmsan	december
+,	mte:Z	,
+a	mte:Cc	a
+brez	mte:Sg	brez
+potnih	mte:Agpmpg	poten
+stroškov	mte:Ncmpg	strošek
+,	mte:Z	,
+plačila	mte:Ncnsg	plačilo
+malice	mte:Ncfsg	malica
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+obveznosti	mte:Ncfpg	obveznost
+,	mte:Z	,
+ki	mte:Cs	ki
+gredo	mte:Vmbr3p	iti
+v	mte:Sa	v
+maso	mte:Ncfsa	masa
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+.	mte:Z	.
+V	mte:Sl	v
+ostalih	mte:Appfpl	ostal
+dveh	mte:Mlcfdl	dva
+družbah	mte:Ncfdl	družba
+,	mte:Z	,
+v	mte:Sl	v
+katerih	mte:Pq-mpl	kateri
+so	mte:Va-r3p-n	biti
+ta	mte:Pd-msa	ta
+teden	mte:Ncmsan	teden
+že	mte:Q	že
+prejeli	mte:Vmep-pm	prejeti
+del	mte:Ncmsan	del
+decembrskih	mte:Agpfpg	decembrski
+plač	mte:Ncfpg	plača
+,	mte:Z	,
+pa	mte:Cc	pa
+niso	mte:Va-r3p-y	biti
+prejeli	mte:Vmep-pm	prejeti
+zadnjega	mte:Agpmsg	zadnji
+dela	mte:Ncmsg	delo
+plače	mte:Ncfsg	plača
+.	mte:Z	.
+Plačilo	mte:Ncnsa	plačilo
+so	mte:Va-r3p-n	biti
+obljubili	mte:Vmep-pm	obljubiti
+do	mte:Sg	do
+10	mte:Mdc	10
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+sestanku	mte:Ncmsl	sestanek
+izvršilnega	mte:Agpmsg	izvršilen
+odbora	mte:Ncmsg	odbor
+sindikata	mte:Ncmsg	sindikat
+povedala	mte:Vmep-sf	povedati
+Barbara	mte:Npfsn	Barbara
+Matul	mte:Npfsn	Matul
+iz	mte:Sg	iz
+Sindikata	mte:Npmsg	Sindikat
+cestnega	mte:Agpnsg	cesten
+gospodarstva	mte:Ncnsg	gospodarstvo
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Sindikat	mte:Ncmsn	sindikat
+je	mte:Va-r3s-n	biti
+zato	mte:Rgp	zato
+na	mte:Sl	na
+današnjem	mte:Agpmsl	današnji
+sestanku	mte:Ncmsl	sestanek
+sklenil	mte:Vmep-sm	skleniti
+,	mte:Z	,
+da	mte:Cs	da
+stavko	mte:Ncfsa	stavka
+napovejo	mte:Vmer3p	napovedati
+za	mte:Sa	za
+22	mte:Mdc	22
+.	mte:Z	.
+februar	mte:Ncmsan	februar
+,	mte:Z	,
+saj	mte:Cc	saj
+želijo	mte:Vmpr3p	želeti
+vanjo	mte:Pp3fsa--b	vame
+zajeti	mte:Vmen	zajeti
+tudi	mte:Q	tudi
+izplačilo	mte:Ncnsa	izplačilo
+januarske	mte:Agpfsg	januarski
+plače	mte:Ncfsg	plača
+,	mte:Z	,
+predvideno	mte:Appnsn	predviden
+za	mte:Sa	za
+18	mte:Mdc	18
+.	mte:Z	.
+februar	mte:Ncmsa	februar
+.	mte:Z	.
+Do	mte:Sg	do
+takrat	mte:Rgp	takrat
+so	mte:Va-r3p-n	biti
+namreč	mte:Cc	namreč
+zaposleni	mte:Appmpn	zaposlen
+tudi	mte:Q	tudi
+na	mte:Sl	na
+kolektivnem	mte:Agpmsl	kolektiven
+dopustu	mte:Ncmsl	dopust
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedala	mte:Vmep-sf	povedati
+,	mte:Z	,
+mora	mte:Vmpr3s	morati
+vodstvo	mte:Ncnsa	vodstvo
+družbe	mte:Ncfsg	družba
+za	mte:Sa	za
+odpoved	mte:Ncfsa	odpoved
+stavke	mte:Ncfsg	stavka
+poplačati	mte:Vmen	poplačati
+preostali	mte:Appmsay	preostal
+del	mte:Ncmsan	del
+decembrskih	mte:Agpfpg	decembrski
+plač	mte:Ncfpg	plača
+ter	mte:Cc	ter
+do	mte:Sg	do
+18	mte:Mdc	18
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+poplačati	mte:Vmen	poplačati
+januarsko	mte:Agpfsa	januarski
+plačo	mte:Ncfsa	plača
+.	mte:Z	.
+Mariborsko	mte:Agpnsn	mariborski
+okrožno	mte:Agpnsn	okrožen
+sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+12	mte:Mdc	12
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+začelo	mte:Vmep-sn	začeti
+s	mte:Si	z
+postopkom	mte:Ncmsi	postopek
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+v	mte:Sl	v
+CPM	mte:Npmsn	CPM
+,	mte:Z	,
+za	mte:Sa	za
+prisilnega	mte:Agpmsa	prisilen
+upravitelja	mte:Ncmsay	upravitelj
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+imenovan	mte:Appmsnn	imenovan
+Silvo	mte:Npmsn	Silvo
+Zorec	mte:Npmsn	Zorec
+.	mte:Z	.
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+upnike	mte:Ncmpa	upnik
+pozvalo	mte:Vmep-sn	pozvati
+,	mte:Z	,
+da	mte:Cs	da
+najpozneje	mte:Rgs	pozno
+do	mte:Sg	do
+14	mte:Mdc	14
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+prijavijo	mte:Vmer3p	prijaviti
+svoje	mte:Px-fpa	svoj
+terjatve	mte:Ncfpa	terjatva
+.	mte:Z	.
+Navadnim	mte:Agpmpd	navaden
+upnikom	mte:Ncmpd	upnik
+je	mte:Va-r3s-n	biti
+mariborsko	mte:Agpnsn	mariborski
+gradbeno	mte:Agpnsn	gradben
+podjetje	mte:Ncnsn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+jim	mte:Pp3mpd--y	on
+dolguje	mte:Vmpr3s	dolgovati
+68	mte:Mdc	68
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+predlagalo	mte:Vmbp-sn	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+odrečejo	mte:Vmer3p	odreči
+65	mte:Mdc	65
+odstotkom	mte:Ncmpd	odstotek
+svojih	mte:Px-fpg	svoj
+terjatev	mte:Ncfpg	terjatev
+.	mte:Z	.
+Dobro	mte:Agpfsa	dobro
+tretjino	mte:Ncfsa	tretjina
+terjatev	mte:Ncfpg	terjatev
+bi	mte:Va-c	biti
+jim	mte:Pp3mpd--y	on
+CPM	mte:Npmsn	CPM
+povrnil	mte:Vmep-sm	povrniti
+v	mte:Sl	v
+šestih	mte:Mlc-pl	šest
+letih	mte:Ncnpl	leto
+in	mte:Cc	in
+pol	mte:Rgp	pol
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msa	ta
+teden	mte:Ncmsan	teden
+z	mte:Si	z
+vodstvom	mte:Ncnsi	vodstvo
+družbe	mte:Ncfsg	družba
+in	mte:Cc	in
+prisilnim	mte:Agpmsi	prisilen
+upraviteljem	mte:Ncmsi	upravitelj
+prvič	mte:Rgp	prvič
+sestal	mte:Vmep-sm	sestati
+tudi	mte:Q	tudi
+upniški	mte:Agpmsny	upniški
+odbor	mte:Ncmsn	odbor
+,	mte:Z	,
+katerega	mte:Pq-msg	kateri
+vodenje	mte:Ncnsa	vodenje
+je	mte:Va-r3s-n	biti
+prevzel	mte:Vmep-sm	prevzeti
+predstavnik	mte:Ncmsn	predstavnik
+Petrola	mte:Npmsg	Petrol
+Uroš	mte:Npmsn	Uroš
+Ilić	mte:Npmsn	Ilić
+,	mte:Z	,
+ob	mte:Sl	ob
+njem	mte:Pp3msl	on
+pa	mte:Cc	pa
+v	mte:Sl	v
+odboru	mte:Ncmsl	odbor
+sedijo	mte:Vmpr3p	sedeti
+še	mte:Q	še
+predstavniki	mte:Ncmpn	predstavnik
+Banke	mte:Ncfsg	banka
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+NKBM	mte:Npfsg	NKBM
+,	mte:Z	,
+NLB	mte:Npfsg	NLB
+in	mte:Cc	in
+Gorenjske	mte:Agpfsg	Gorenjska
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+CPM	mte:Npmsn	CPM
+Janez	mte:Npmsn	Janez
+Škoberne	mte:Npmsn	Škoberna
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+predstavil	mte:Vmep-sm	predstaviti
+razmere	mte:Ncfpa	razmera
+in	mte:Cc	in
+načrt	mte:Ncmsan	načrt
+finančnega	mte:Agpnsg	finančen
+prestrukturiranja	mte:Ncnsg	prestrukturiranje
+.	mte:Z	.
+Svojega	mte:Px-nsg	svoj
+mnenja	mte:Ncnsg	mnenje
+pa	mte:Cc	pa
+o	mte:Sl	o
+načrtu	mte:Ncmsl	načrt
+tokrat	mte:Rgp	tokrat
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+izraziti	mte:Vmen	izraziti
+prisilni	mte:Agpmsny	prisilen
+upravitelj	mte:Ncmsn	upravitelj
+,	mte:Z	,
+češ	mte:Q	češ
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+še	mte:Q	še
+prezgodaj	mte:Rgp	prezgodaj
+.	mte:Z	.
+Upnike	mte:Npmpa	Upnika
+je	mte:Va-r3s-n	biti
+glede	mte:Rgp	glede
+na	mte:Sa	na
+danes	mte:Rgp	danes
+objavljeno	mte:Appnsn	objavljen
+poročilo	mte:Ncnsa	poročilo
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+Ajpesa	mte:Npmsg	Ajpes
+zanimala	mte:Vmpp-sf	zanimati
+predvsem	mte:Q	predvsem
+možnost	mte:Ncfsn	možnost
+dokapitalizacije	mte:Ncfsg	dokapitalizacija
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+70	mte:Mdc	70
+-	mte:Z	-
+odstotni	mte:Agpfsl	odstoten
+lasti	mte:Ncfsl	last
+CPM	mte:Ncmsg	CPM
+Holdinga	mte:Ncmsg	holdinga
+,	mte:Z	,
+med	mte:Si	med
+lastniki	mte:Ncmpi	lastnik
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+poleg	mte:Sg	poleg
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+še	mte:Q	še
+NKBM	mte:Npfsn	NKBM
+,	mte:Z	,
+Janez	mte:Npmsn	Janez
+Škoberne	mte:Npmsn	Škoberna
+,	mte:Z	,
+Mestna	mte:Agpfsn	mesten
+občina	mte:Ncfsn	občina
+Maribor	mte:Npmsn	Maribor
+in	mte:Cc	in
+občina	mte:Ncfsn	občina
+Slovenska	mte:Agpfsn	slovenski
+Bistrica	mte:Npfsn	Bistrica
+.	mte:Z	.
+Škoberne	mte:Npmsn	Škoberna
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+od	mte:Sg	od
+lastnikov	mte:Ncmpg	lastnik
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+pričakovati	mte:Vmpn	pričakovati
+sodelovanja	mte:Ncnsg	sodelovanje
+pri	mte:Sl	pri
+sanaciji	mte:Ncfsl	sanacija
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+zagotovil	mte:Vmep-sm	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+premoženja	mte:Ncnsg	premoženje
+iz	mte:Sg	iz
+matične	mte:Agpfsg	matičen
+družbe	mte:Ncfsg	družba
+niso	mte:Va-r3p-y	biti
+prenašali	mte:Vmpp-pm	prenašati
+na	mte:Sa	na
+hčerinska	mte:Agpnpa	hčerinski
+podjetja	mte:Ncnpa	podjetje
+.	mte:Z	.
+Škoberne	mte:Npmsn	Škoberna
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+poslih	mte:Ncmpl	posel
+v	mte:Sl	v
+naslednjem	mte:Agpnsl	naslednji
+obdobju	mte:Ncnsl	obdobje
+upnikom	mte:Ncmpd	upnik
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+z	mte:Si	z
+družbo	mte:Ncfsi	družba
+Alpine	mte:Npfsn	Alpine
+Bau	mte:Npmsn	Bau
+sklenjeno	mte:Appfsa	sklenjen
+pogodbo	mte:Ncfsa	pogodba
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+njihovi	mte:Ps3mpnp	njihov
+podizvajalci	mte:Ncmpn	podizvajalec
+za	mte:Sa	za
+vse	mte:Pg-mpa	ves
+posle	mte:Ncmpa	posel
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+večja	mte:Agcnpn	velik
+dela	mte:Ncnpn	delo
+na	mte:Sl	na
+lokalni	mte:Agpfsl	lokalen
+ravni	mte:Ncfsl	raven
+pa	mte:Cc	pa
+nameravajo	mte:Vmpr3p	nameravati
+pridobivati	mte:Vmpn	pridobivati
+preko	mte:Sg	preko
+hčerinskih	mte:Agpnpg	hčerinski
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Če	mte:Cs	če
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+investicij	mte:Ncfpg	investicija
+,	mte:Z	,
+CPM	mte:Npmsn	CPM
+ni	mte:Va-r3s-y	biti
+zmožen	mte:Agpmsnn	zmožen
+preživeti	mte:Vmen	preživeti
+,	mte:Z	,
+če	mte:Cs	če
+pa	mte:Cc	pa
+te	mte:Pp2-sa--y	ti
+bodo	mte:Va-f3p-n	biti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+načrt	mte:Ncmsn	načrt
+finančnega	mte:Agpnsg	finančen
+prestrukturiranja	mte:Ncnsg	prestrukturiranje
+podcenjen	mte:Appmsnn	podcenjen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+upnikom	mte:Ncmpd	upnik
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+Škoberne	mte:Npmsn	Škoberna

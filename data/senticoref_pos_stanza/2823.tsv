@@ -1,404 +1,416 @@
-token	tag
-Washington	Npmsn
--	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-letos	Rgp
-na	Sl
-lestvici	Ncfsl
-Svetovne	Agpfsg
-banke	Ncfsg
-o	Sl
-pogojih	Ncmpl
-poslovanja	Ncnsg
-med	Si
-183	Mdc
-državami	Ncfpi
-zasedla	Vmep-sf
-53	Mdc
-.	Z
-mesto	Ncnsa
-,	Z
-je	Va-r3s-n
-razvidno	Agpnsn
-iz	Sg
-danes	Rgp
-objavljene	Appfsg
-raziskave	Ncfsg
-Doing	Npmsn
-Business	Npmsn
-2010	Mdc
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-bila	Va-p-sf
-po	Sl
-revidiranih	Appmpl
-podatkih	Ncmpl
-lani	Rgp
-na	Sl
-58	Mdc
-.	Z
-mestu	Ncnsl
-med	Si
-183	Mdc
-državami	Ncfpi
-.	Z
-Na	Sl
-prvih	Mlonpl
-treh	Mlcnpl
-mestih	Ncnpl
-so	Va-r3p-n
-letos	Rgp
-Singapur	Npmsn
-,	Z
-Nova	Agpfsn
-Zelandija	Npfsn
-in	Cc
-Hongkong	Npmsn
-.	Z
-Slovenija	Npfsn
-se	Px------y
-je	Va-r3s-n
-po	Sl
-raziskavi	Ncfsl
-Doing	Npmsn
-Business	Npmsn
-2010	Mdc
-,	Z
-ki	Cs
-zajema	Vmpr3s
-podatke	Ncmpa
-od	Sg
-junija	Ncmsg
-lani	Rgp
-do	Sg
-maja	Ncmsg
-letos	Rgp
-,	Z
-na	Sl
-10	Mdc
-podpodročjih	Ncnpl
-,	Z
-ki	Cs
-sestavljajo	Vmpr3p
-skupno	Agpfsa
-uvrstitev	Ncfsa
-države	Ncfsg
-,	Z
-najvišje	Rgs
-uvrstila	Vmep-pf
-pri	Sl
-zaščiti	Ncfsl
-vlagateljev	Ncmpg
-(	Z
-20	Mdc
-.	Z
-mesto	Ncnsn
-)	Z
-in	Cc
-ustanavljanju	Ncnsl
-podjetij	Ncnpg
-(	Z
-26	Mdc
-.	Z
-mesto	Ncnsn
-)	Z
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-racionalizirala	Vmbp-sf
-postopke	Ncmpa
-pridobivanja	Ncnsg
-gradbenih	Agpnpg
-dovoljenj	Ncnpg
-ter	Cc
-skrajšala	Vmep-sf
-čas	Ncmsan
-in	Cc
-poenostavila	Vmep-sf
-registracijo	Ncfsa
-novih	Agpnpg
-podjetij	Ncnpg
-,	Z
-ugotavlja	Vmpr3s
-poročilo	Ncnsa
-.	Z
-Najslabše	Rgs
-je	Va-r3s-n
-Slovenija	Npfsn
-uvrščena	Appfsn
-na	Sl
-področju	Ncnsl
-zaposlovanja	Ncnsg
-delavcev	Ncmpg
-(	Z
-162	Mdc
-.	Z
-mesto	Ncnsa
-)	Z
-,	Z
-in	Cc
-sicer	Q
-predvsem	Q
-zaradi	Sg
-težav	Ncfpg
-pri	Sl
-zaposlovanju	Ncnsl
-,	Z
-ter	Cc
-registraciji	Ncfsl
-premoženja	Ncnsg
-(	Z
-108	Mdc
-.	Z
-mesto	Ncnsn
-)	Z
-.	Z
-Največji	Agsmsay
-skok	Ncmsan
-(	Z
-z	Si
-80	Mdc
-.	Z
-na	Sa
-60	Mdc
-.	Z
-mesto	Ncnsa
-)	Z
-je	Va-r3s-n
-naredila	Vmep-sf
-na	Sl
-področju	Ncnsl
-uveljavljanja	Ncnsg
-pogodb	Ncfpg
-in	Cc
-ustanavljanja	Ncnsg
-podjetij	Ncnpg
-(	Z
-z	Si
-42	Mdc
-.	Z
-na	Sa
-omenjeno	Appfsa
-26	Mdc
-.	Z
-mesto	Ncnsa
-)	Z
-.	Z
-V	Sl
-obravnavanem	Appnsl
-obdobju	Ncnsl
-je	Va-r3s-n
-kljub	Sd
-številnim	Agpmpd
-izzivom	Ncmpd
-zaradi	Sg
-svetovne	Agpfsg
-krize	Ncfsg
-131	Mdc
-držav	Ncfpg
-izvedlo	Vmep-sn
-287	Mdc
-reform	Ncfpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-največ	Rgs
-od	Sg
-leta	Ncnsg
-2004	Mdc
-,	Z
-odkar	Cs
-Svetovna	Agpfsn
-banka	Ncfsn
-izvaja	Vmpr3s
-to	Pd-fsa
-raziskavo	Ncfsa
-.	Z
-"	Z
-Preteklo	Vmep-sn
-leto	Ncnsa
-je	Va-r3s-n
-bilo	Va-p-sn
-težavno	Agpnsn
-za	Sa
-poslovanje	Ncnsa
-,	Z
-"	Z
-ugotavlja	Vmpr3s
-Svetovna	Agpfsn
-banka	Ncfsn
-.	Z
-Dostop	Ncmsn
-do	Sg
-finančnih	Agpnpg
-sredstev	Ncnpg
-je	Va-r3s-n
-bil	Va-p-sm
-otežen	Appmsnn
-,	Z
-povpraševanje	Ncnsn
-po	Sl
-izdelkih	Ncmpl
-na	Sl
-domačih	Agpmpl
-in	Cc
-tujih	Agpmpl
-trgih	Ncmpl
-je	Va-r3s-n
-padlo	Vmep-sn
-,	Z
-svetovna	Agpfsn
-trgovina	Ncfsn
-se	Px------y
-je	Va-r3s-n
-upočasnila	Vmep-sf
-.	Z
-Vlade	Ncfsg
-so	Va-r3p-n
-se	Px------y
-soočale	Vmpp-pf
-z	Si
-izzivi	Ncmpi
-,	Z
-kot	Cs
-so	Va-r3p-n
-stabilizacija	Ncfsn
-finančnih	Agpmpg
-sektorjev	Ncmpg
-,	Z
-povrnitev	Ncfsn
-zaupanja	Ncnsg
-in	Cc
-močno	Agpnsn
-povečanje	Ncnsn
-brezposelnosti	Ncfsg
-.	Z
-Po	Sl
-navedbah	Ncfpl
-Svetovne	Agpfsg
-banke	Ncfsg
-je	Va-r3s-n
-zaradi	Sg
-krize	Ncfsg
-delo	Ncnsn
-izgubilo	Vmep-sn
-50	Mdc
-milijonov	Ncmpg
-ljudi	Ncmpg
-.	Z
-Reforme	Ncfpn
-so	Va-r3p-n
-se	Px------y
-nanašale	Vmpp-pf
-na	Sa
-olajšanje	Ncnsa
-ustanavljanja	Ncnsg
-podjetij	Ncnpg
-,	Z
-krepitev	Ncfsa
-izvrševanja	Ncnsg
-pravic	Ncfpg
-iz	Sg
-premoženja	Ncnsg
-in	Cc
-bolj	Rgc
-učinkovito	Agpnsa
-reševanje	Ncnsa
-poslovnih	Agpfpg
-sporov	Ncfpg
-in	Cc
-stečajnih	Agpmpg
-postopkov	Ncmpg
-.	Z
-Na	Sl
-vrhu	Ncmsl
-lestvice	Ncfsg
-je	Va-r3s-n
-tudi	Q
-letos	Rgp
-Singapur	Npmsn
-,	Z
-sledi	Vmpr3s
-mu	Pp3msd--y
-tako	Rgp
-kot	Cs
-lani	Rgp
-Nova	Agpfsn
-Zelandija	Npfsn
-,	Z
-s	Sg
-tretjega	Mlonsg
-mesta	Ncnsg
-pa	Cc
-je	Va-r3s-n
-Hongkong	Npmsn
-izrinil	Vmep-sm
-ZDA	Npfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-četrte	Mlofpn
-.	Z
-V	Sl
-deseterici	Ncfsl
-so	Va-r3p-n
-še	Q
-Velika	Agpfsn
-Britanija	Npfsn
-,	Z
-Danska	Npfsn
-,	Z
-Irska	Npfsn
-,	Z
-Kanada	Npfsn
-,	Z
-Avstralija	Npfsn
-in	Cc
-Norveška	Npfsn
-.	Z
-Največ	Rgs
-reform	Ncfpg
-je	Va-r3s-n
-izvedla	Vmep-sf
-Ruanda	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-preteklem	Appnsl
-letu	Ncnsl
-med	Si
-drugim	Mlpnsi
-sprejela	Vmep-sf
-nov	Agpmsan
-zakon	Ncmsan
-o	Sl
-podjetjih	Ncnpl
-,	Z
-ki	Cs
-je	Va-r3s-n
-poenostavil	Vmep-sm
-postopke	Ncmpa
-ustanovitve	Ncfsg
-podjetja	Ncnsg
-in	Cc
-okrepil	Vmep-sm
-zaščito	Ncfsa
-manjšinskih	Agpmpg
-delničarjev	Ncmpg
-,	Z
-ter	Cc
-dva	Mlcmda
-nova	Agpmdg
-zakona	Ncmdg
-,	Z
-s	Si
-katerima	Pq-mdi
-je	Va-r3s-n
-olajšala	Vmep-sf
-dostop	Ncmsan
-do	Sg
-posojil	Ncnpg
-.	Z
+token	tag	lemma
+Washington	mte:Npmsn	Washington
+-	mte:Z	-
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+o	mte:Sl	o
+pogojih	mte:Ncmpl	pogoj
+poslovanja	mte:Ncnsg	poslovanje
+med	mte:Si	med
+183	mte:Mdc	183
+državami	mte:Ncfpi	država
+zasedla	mte:Vmep-sf	zasesti
+53	mte:Mdc	53
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+razvidno	mte:Agpnsn	razviden
+iz	mte:Sg	iz
+danes	mte:Rgp	danes
+objavljene	mte:Appfsg	objavljen
+raziskave	mte:Ncfsg	raziskava
+Doing	mte:Npmsn	Doing
+Business	mte:Npmsn	Business
+2010	mte:Mdc	2010
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+po	mte:Sl	po
+revidiranih	mte:Appmpl	revidiran
+podatkih	mte:Ncmpl	podatek
+lani	mte:Rgp	lani
+na	mte:Sl	na
+58	mte:Mdc	58
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+med	mte:Si	med
+183	mte:Mdc	183
+državami	mte:Ncfpi	država
+.	mte:Z	.
+Na	mte:Sl	na
+prvih	mte:Mlonpl	prvi
+treh	mte:Mlcnpl	trije
+mestih	mte:Ncnpl	mesto
+so	mte:Va-r3p-n	biti
+letos	mte:Rgp	letos
+Singapur	mte:Npmsn	Singapur
+,	mte:Z	,
+Nova	mte:Agpfsn	nov
+Zelandija	mte:Npfsn	Zelandija
+in	mte:Cc	in
+Hongkong	mte:Npmsn	Hongkong
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+raziskavi	mte:Ncfsl	raziskava
+Doing	mte:Npmsn	Doing
+Business	mte:Npmsn	Business
+2010	mte:Mdc	2010
+,	mte:Z	,
+ki	mte:Cs	ki
+zajema	mte:Vmpr3s	zajemati
+podatke	mte:Ncmpa	podatek
+od	mte:Sg	od
+junija	mte:Ncmsg	junij
+lani	mte:Rgp	lani
+do	mte:Sg	do
+maja	mte:Ncmsg	maj
+letos	mte:Rgp	letos
+,	mte:Z	,
+na	mte:Sl	na
+10	mte:Mdc	10
+podpodročjih	mte:Ncnpl	podpodročje
+,	mte:Z	,
+ki	mte:Cs	ki
+sestavljajo	mte:Vmpr3p	sestavljati
+skupno	mte:Agpfsa	skupen
+uvrstitev	mte:Ncfsa	uvrstitev
+države	mte:Ncfsg	država
+,	mte:Z	,
+najvišje	mte:Rgs	visok
+uvrstila	mte:Vmep-pf	uvrstiti
+pri	mte:Sl	pri
+zaščiti	mte:Ncfsl	zaščita
+vlagateljev	mte:Ncmpg	vlagatelj
+(	mte:Z	(
+20	mte:Mdc	20
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+)	mte:Z	)
+in	mte:Cc	in
+ustanavljanju	mte:Ncnsl	ustanavljanje
+podjetij	mte:Ncnpg	podjetje
+(	mte:Z	(
+26	mte:Mdc	26
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+)	mte:Z	)
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+racionalizirala	mte:Vmbp-sf	racionalizirati
+postopke	mte:Ncmpa	postopek
+pridobivanja	mte:Ncnsg	pridobivanje
+gradbenih	mte:Agpnpg	gradben
+dovoljenj	mte:Ncnpg	dovoljenje
+ter	mte:Cc	ter
+skrajšala	mte:Vmep-sf	skrajšati
+čas	mte:Ncmsan	čas
+in	mte:Cc	in
+poenostavila	mte:Vmep-sf	poenostaviti
+registracijo	mte:Ncfsa	registracija
+novih	mte:Agpnpg	nov
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ugotavlja	mte:Vmpr3s	ugotavljati
+poročilo	mte:Ncnsa	poročilo
+.	mte:Z	.
+Najslabše	mte:Rgs	lepo
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+uvrščena	mte:Appfsn	uvrščen
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+zaposlovanja	mte:Ncnsg	zaposlovanje
+delavcev	mte:Ncmpg	delavec
+(	mte:Z	(
+162	mte:Mdc	162
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+)	mte:Z	)
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+predvsem	mte:Q	predvsem
+zaradi	mte:Sg	zaradi
+težav	mte:Ncfpg	težava
+pri	mte:Sl	pri
+zaposlovanju	mte:Ncnsl	zaposlovanje
+,	mte:Z	,
+ter	mte:Cc	ter
+registraciji	mte:Ncfsl	registracija
+premoženja	mte:Ncnsg	premoženje
+(	mte:Z	(
+108	mte:Mdc	108
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+)	mte:Z	)
+.	mte:Z	.
+Največji	mte:Agsmsay	velik
+skok	mte:Ncmsan	skok
+(	mte:Z	(
+z	mte:Si	z
+80	mte:Mdc	80
+.	mte:Z	.
+na	mte:Sa	na
+60	mte:Mdc	60
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+naredila	mte:Vmep-sf	narediti
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+uveljavljanja	mte:Ncnsg	uveljavljanje
+pogodb	mte:Ncfpg	pogodba
+in	mte:Cc	in
+ustanavljanja	mte:Ncnsg	ustanavljanje
+podjetij	mte:Ncnpg	podjetje
+(	mte:Z	(
+z	mte:Si	z
+42	mte:Mdc	42
+.	mte:Z	.
+na	mte:Sa	na
+omenjeno	mte:Appfsa	omenjen
+26	mte:Mdc	26
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+)	mte:Z	)
+.	mte:Z	.
+V	mte:Sl	v
+obravnavanem	mte:Appnsl	obravnavan
+obdobju	mte:Ncnsl	obdobje
+je	mte:Va-r3s-n	biti
+kljub	mte:Sd	kljub
+številnim	mte:Agpmpd	številen
+izzivom	mte:Ncmpd	izziv
+zaradi	mte:Sg	zaradi
+svetovne	mte:Agpfsg	svetoven
+krize	mte:Ncfsg	kriza
+131	mte:Mdc	131
+držav	mte:Ncfpg	država
+izvedlo	mte:Vmep-sn	izvedi
+287	mte:Mdc	287
+reform	mte:Ncfpg	reforma
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+največ	mte:Rgs	največ
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+,	mte:Z	,
+odkar	mte:Cs	odkar
+Svetovna	mte:Agpfsn	svetoven
+banka	mte:Ncfsn	banka
+izvaja	mte:Vmpr3s	izvajati
+to	mte:Pd-fsa	ta
+raziskavo	mte:Ncfsa	raziskava
+.	mte:Z	.
+"	mte:Z	"
+Preteklo	mte:Vmep-sn	preteči
+leto	mte:Ncnsa	leto
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+težavno	mte:Agpnsn	težaven
+za	mte:Sa	za
+poslovanje	mte:Ncnsa	poslovanje
+,	mte:Z	,
+"	mte:Z	"
+ugotavlja	mte:Vmpr3s	ugotavljati
+Svetovna	mte:Agpfsn	svetoven
+banka	mte:Ncfsn	banka
+.	mte:Z	.
+Dostop	mte:Ncmsn	dostop
+do	mte:Sg	do
+finančnih	mte:Agpnpg	finančen
+sredstev	mte:Ncnpg	sredstvo
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+otežen	mte:Appmsnn	otežen
+,	mte:Z	,
+povpraševanje	mte:Ncnsn	povpraševanje
+po	mte:Sl	po
+izdelkih	mte:Ncmpl	izdelek
+na	mte:Sl	na
+domačih	mte:Agpmpl	domač
+in	mte:Cc	in
+tujih	mte:Agpmpl	tuj
+trgih	mte:Ncmpl	trg
+je	mte:Va-r3s-n	biti
+padlo	mte:Vmep-sn	pasti
+,	mte:Z	,
+svetovna	mte:Agpfsn	svetoven
+trgovina	mte:Ncfsn	trgovina
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+upočasnila	mte:Vmep-sf	upočasniti
+.	mte:Z	.
+Vlade	mte:Ncfsg	vlada
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+soočale	mte:Vmpp-pf	soočati
+z	mte:Si	z
+izzivi	mte:Ncmpi	izziv
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+stabilizacija	mte:Ncfsn	stabilizacija
+finančnih	mte:Agpmpg	finančen
+sektorjev	mte:Ncmpg	sektor
+,	mte:Z	,
+povrnitev	mte:Ncfsn	povrnitev
+zaupanja	mte:Ncnsg	zaupanje
+in	mte:Cc	in
+močno	mte:Agpnsn	močen
+povečanje	mte:Ncnsn	povečanje
+brezposelnosti	mte:Ncfsg	brezposelnost
+.	mte:Z	.
+Po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+krize	mte:Ncfsg	kriza
+delo	mte:Ncnsn	delo
+izgubilo	mte:Vmep-sn	izgubiti
+50	mte:Mdc	50
+milijonov	mte:Ncmpg	milijon
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+Reforme	mte:Ncfpn	reforma
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+nanašale	mte:Vmpp-pf	nanašati
+na	mte:Sa	na
+olajšanje	mte:Ncnsa	olajšanje
+ustanavljanja	mte:Ncnsg	ustanavljanje
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+krepitev	mte:Ncfsa	krepitev
+izvrševanja	mte:Ncnsg	izvrševanje
+pravic	mte:Ncfpg	pravica
+iz	mte:Sg	iz
+premoženja	mte:Ncnsg	premoženje
+in	mte:Cc	in
+bolj	mte:Rgc	bolj
+učinkovito	mte:Agpnsa	učinkovit
+reševanje	mte:Ncnsa	reševanje
+poslovnih	mte:Agpfpg	posloven
+sporov	mte:Ncfpg	spor
+in	mte:Cc	in
+stečajnih	mte:Agpmpg	stečajen
+postopkov	mte:Ncmpg	postopek
+.	mte:Z	.
+Na	mte:Sl	na
+vrhu	mte:Ncmsl	vrh
+lestvice	mte:Ncfsg	lestvica
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+letos	mte:Rgp	letos
+Singapur	mte:Npmsn	Singapur
+,	mte:Z	,
+sledi	mte:Vmpr3s	slediti
+mu	mte:Pp3msd--y	on
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+lani	mte:Rgp	lani
+Nova	mte:Agpfsn	nov
+Zelandija	mte:Npfsn	Zelandija
+,	mte:Z	,
+s	mte:Sg	z
+tretjega	mte:Mlonsg	tretji
+mesta	mte:Ncnsg	mesto
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Hongkong	mte:Npmsn	Hongkong
+izrinil	mte:Vmep-sm	izriniti
+ZDA	mte:Npfpa	ZDA
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+četrte	mte:Mlofpn	četrti
+.	mte:Z	.
+V	mte:Sl	v
+deseterici	mte:Ncfsl	deseterica
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+,	mte:Z	,
+Danska	mte:Npfsn	Danska
+,	mte:Z	,
+Irska	mte:Npfsn	Irska
+,	mte:Z	,
+Kanada	mte:Npfsn	Kanad
+,	mte:Z	,
+Avstralija	mte:Npfsn	Avstrali
+in	mte:Cc	in
+Norveška	mte:Npfsn	Norveška
+.	mte:Z	.
+Največ	mte:Rgs	največ
+reform	mte:Ncfpg	reforma
+je	mte:Va-r3s-n	biti
+izvedla	mte:Vmep-sf	izvesti
+Ruanda	mte:Npfsn	Ruand
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+preteklem	mte:Appnsl	pretekel
+letu	mte:Ncnsl	leto
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+sprejela	mte:Vmep-sf	sprejeti
+nov	mte:Agpmsan	nov
+zakon	mte:Ncmsan	zakon
+o	mte:Sl	o
+podjetjih	mte:Ncnpl	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+poenostavil	mte:Vmep-sm	poenostaviti
+postopke	mte:Ncmpa	postopek
+ustanovitve	mte:Ncfsg	ustanovitev
+podjetja	mte:Ncnsg	podjetje
+in	mte:Cc	in
+okrepil	mte:Vmep-sm	okrepiti
+zaščito	mte:Ncfsa	zaščita
+manjšinskih	mte:Agpmpg	manjšinski
+delničarjev	mte:Ncmpg	delničar
+,	mte:Z	,
+ter	mte:Cc	ter
+dva	mte:Mlcmda	dva
+nova	mte:Agpmdg	nov
+zakona	mte:Ncmdg	zakon
+,	mte:Z	,
+s	mte:Si	z
+katerima	mte:Pq-mdi	kateri
+je	mte:Va-r3s-n	biti
+olajšala	mte:Vmep-sf	olajšati
+dostop	mte:Ncmsan	dostop
+do	mte:Sg	do
+posojil	mte:Ncnpg	posojilo
+.	mte:Z	.
+Skrajšali	mte:Vmep-pm	skrajšati
+in	mte:Cc	in
+poenostavili	mte:Vmep-pm	poenostaviti
+so	mte:Va-r3p-n	biti
+postopke	mte:Ncmpa	postopek
+na	mte:Sl	na
+državni	mte:Agpfsl	državen
+meji	mte:Ncfsl	meja
+ter	mte:Cc	ter
+pri	mte:Sl	pri
+registraciji	mte:Ncfsl	registracija
+premoženja	mte:Ncnsg	premoženje

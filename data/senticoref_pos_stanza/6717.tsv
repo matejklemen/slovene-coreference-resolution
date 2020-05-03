@@ -1,556 +1,573 @@
-token	tag
-Slovenija	Npfsn
-na	Sa
-Kitajsko	Npfsa
-izvozi	Vmer3s
-le	Q
-za	Sa
-69	Mdc
-mio	Ncmpg
-.	Z
-evrov	Ncmpg
-132	Mdc
-mio	Ncmpg
-.	Z
-dolarjev	Ncmpg
-blaga	Ncnsg
-Na	Sl
-obisku	Ncmsl
-je	Va-r3s-n
-podpredsednik	Ncmsn
-kitajske	Agpfsg
-vlade	Ncfsg
-Huj	Npmsn
-Ljangju	Npmsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-pripeljal	Vmep-sm
-tudi	Q
-delegacijo	Ncfsa
-80	Mdc
-gospodarstvenikov	Ncmpg
-.	Z
-Trgovina	Npfsn
-med	Si
-državama	Ncfdi
-je	Va-r3s-n
-sicer	Q
-presegla	Vmep-sf
-milijardo	Ncfsa
-dolarjev.Kitajskega	Agpmsg
-podpredsednika	Ncmsg
-je	Va-r3s-n
-že	Q
-sprejel	Vmep-sm
-premier	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-,	Z
-na	Sl
-skupni	Agpfsl
-novinarski	Agpfsl
-konferenci	Ncfsl
-pa	Cc
-sta	Va-r3d-n
-oba	Pg-mdn
-politika	Ncmdn
-opomnila	Vmep-dm
-,	Z
-da	Cs
-je	Va-r3s-n
-namen	Ncmsn
-tridnevnega	Agpmsg
-obiska	Ncmsg
-predvsem	Q
-krepitev	Ncfsn
-gospodarskih	Agpfpg
-vezi	Ncfpg
-med	Si
-državama	Ncfdi
-.	Z
-Pahor	Npmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-prepričan	Appmsnn
-,	Z
-da	Cs
-bo	Va-f3s-n
-obisk	Ncmsn
-pospešil	Vmep-sm
-sodelovanje	Ncnsa
-in	Cc
-pripomogel	Vmep-sm
-k	Sd
-uravnovešenju	Ncnsd
-trgovinske	Agpfsg
-menjave	Ncfsg
-.	Z
-LetoIzvoz	Ncfsa
-v	Sa
-mio	Ncmsa
-.	Z
-EURUvoz	Npmsn
-v	Sa
-mio	Ncmsa
-.	Z
-EURSaldo	Npfsa
-v	Sa
-mio	Ncmsa
-.	Z
-EUR	Ncmsn
-200326,489291,133	Mdc
--	Z
-264,644	Mdc
-200427,856150,001	Mdc
--	Z
-122,145	Mdc
-200536,248196,800	Mdc
--	Z
-160,552	Mdc
-200653,327243,685	Mdc
--	Z
-190,358	Mdc
-200760,571345,932	Mdc
--	Z
-285,361	Mdc
-200869,0441,0	Mdc
--	Z
-372,0	Mdc
-2009	Mdc
-*	Z
-14,6126,5	Mdc
--	Z
-111,9	Mdc
-vir	Ncmsn
-SURS	Npmsn
-*	Z
-podatki	Ncmpn
-so	Va-r3p-n
-za	Sa
-prve	Mlompa
-štiri	Mlcmpa
-mesece	Ncmpa
-Pred	Si
-novinarsko	Agpfsi
-konferenco	Ncfsi
-sta	Va-r3d-n
-delegaciji	Ncfdn
-obeh	Pg-fdg
-držav	Ncfdg
-podpisali	Vmep-dm
-pet	Mlc-pa
-dokumentov	Ncmpg
-o	Sl
-sodelovanju	Ncnsl
-na	Sl
-različnih	Agpnpl
-področjih	Ncnpl
-memorandum	Ncmsan
-o	Sl
-sodelovanju	Ncnsl
-v	Sl
-kmetijstvu	Ncnsl
-,	Z
-memorandum	Ncmsn
-o	Sl
-promociji	Ncfsl
-izmenjave	Ncfsg
-in	Cc
-sodelovanja	Ncnsg
-na	Sl
-področju	Ncnsl
-srednjih	Agpnpg
-in	Cc
-majhnih	Agpnpg
-podjetij	Ncnpg
-,	Z
-akcijski	Agpmsny
-načrt	Ncmsn
-za	Sa
-sodelovanje	Ncnsa
-v	Sl
-zdravju	Ncnsl
-in	Cc
-medicini	Ncfsl
-v	Sl
-obdobju	Ncnsl
-2009	Mdc
--	Z
-2012	Mdc
-,	Z
-sporazum	Ncmsn
-o	Sl
-sodelovanju	Ncnsl
-med	Si
-Univerzo	Ncfsi
-v	Sl
-Ljubljani	Npfsl
-in	Cc
-Univerzo	Ncfsa
-za	Sa
-tuje	Agpfpa
-študije	Ncfpa
-v	Sl
-Pekingu	Npmsl
-ter	Cc
-sporazum	Ncmsn
-o	Sl
-ustanovitvi	Ncfsl
-Konfucijskega	Agpmsg
-inštituta	Ncmsg
-na	Sl
-Ekonomski	Agpfsl
-fakulteti	Ncfsl
-ljubljanske	Agpfsg
-univerze	Ncfsg
-.	Z
-Izvoz	Ncmsn
-132	Mdc
-,	Z
-uvoz	Ncmsn
-951	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-Kot	Cs
-omenjeno	Appnsn
-,	Z
-je	Va-r3s-n
-leta	Ncnsg
-2008	Mdc
-skupna	Agpfsn
-trgovina	Ncfsn
-med	Si
-Kitajsko	Npfsi
-in	Cc
-Slovenijo	Npfsi
-po	Sl
-kitajskih	Agpfpl
-statistikah	Ncfpl
-presegla	Vmep-sf
-milijardo	Ncfsa
-dolarjev	Ncmpg
-natančneje	Rgc
-1,083	Mdc
-milijarde	Ncfsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-35	Mdc
-odstotkov	Ncmpg
-več	Rgc
-kot	Cs
-leto	Ncnsn
-prej	Rgc
-.	Z
-A	Cc
-še	Q
-vedno	Rgp
-ima	Vmpr3s-n
-več	Rgc
-koristi	Ncfsg
-od	Sg
-menjave	Ncfsg
-Kitajska	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-letu	Ncnsl
-2008	Mdc
-k	Sd
-nam	Pp1-pd
-izvozila	Vmep-sf
-za	Sa
-951	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-blaga	Ncnsg
-to	Pd-nsn
-je	Va-r3s-n
-37	Mdc
-odstotkov	Ncmpg
-več	Rgc
-kot	Cs
-leta	Ncnsg
-2007	Mdc
-,	Z
-Slovenija	Npfsn
-pa	Cc
-je	Va-r3s-n
-v	Sa
-Kitajsko	Npfsa
-izvozila	Vmep-sf
-za	Sa
-132	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-blaga	Ncnsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-sicer	Q
-19	Mdc
-odstotkov	Ncmpg
-več	Rgc
-kot	Cs
-leta	Ncnsg
-2007	Mdc
-,	Z
-a	Cc
-še	Q
-vedno	Rgp
-premalo	Rgp
-.	Z
-Skupna	Agpfsn
-blagovna	Agpfsn
-menjava	Ncfsn
-med	Si
-Slovenijo	Npfsi
-in	Cc
-Kitajsko	Npfsi
-je	Va-r3s-n
-leta	Ncnsg
-2008	Mdc
-znašala	Vmpp-sf
-510	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-za	Sa
-25,5	Mdc
-odstotkov	Ncmpg
-več	Rgc
-kot	Cs
-v	Sl
-predhodnem	Agpnsl
-letu	Ncnsl
-.	Z
-Kitajska	Npfsn
-se	Px------y
-uvršča	Vmpr3s
-na	Sa
-18	Mdc
-.	Z
-mesto	Ncnsa
-zunanjetrgovinskih	Agpfpg
-partneric	Ncfpg
-Slovenije	Npfsg
-v	Sl
-letu	Ncnsl
-2008	Mdc
-,	Z
-kar	Pr-nsn
-predstavlja	Vmpr3s
-1,19	Mdc
-odstotka	Ncmsg
-celotne	Agpfsg
-slovenske	Agpfsg
-blagovne	Agpfsg
-menjave	Ncfsg
-s	Si
-tujino	Ncfsi
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-v	Sa
-Kitajsko	Npfsa
-v	Sl
-omenjenem	Appnsl
-letu	Ncnsl
-izvozila	Vmep-sf
-za	Sa
-69	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-blaga	Ncnsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-za	Sa
-14	Mdc
-odstotkov	Ncmpg
-več	Rgc
-kot	Cs
-v	Sl
-letu	Ncnsl
-2007	Mdc
-.	Z
-Tako	Rgp
-je	Va-r3s-n
-bila	Va-p-sf
-Kitajska	Npfsn
-v	Sl
-lani	Rgp
-na	Sl
-30	Mdc
-.	Z
-mestu	Ncnsl
-med	Si
-zunanjetrgovinskimi	Agpfpi
-partnericami	Ncfpi
-Slovenije	Npfsg
-glede	Rgp
-na	Sa
-celotni	Agpmsay
-slovenski	Agpmsay
-izvoz	Ncmsan
-v	Sa
-tujino	Ncfsa
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-gospodarstvo	Ncnsa
-tako	Rgp
-ugotavljajo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-zunanjetrgovinski	Agpmsny
-primanjkljaj	Ncmsn
-vsako	Pg-nsn
-leto	Ncnsa
-povečuje	Vmpr3s
-Razmerje	Ncnsa
-med	Si
-uvozom	Ncmsi
-in	Cc
-izvozom	Ncmsi
-je	Va-r3s-n
-1	Mdc
-6	Mdc
-,	Z
-ker	Cs
-je	Va-r3s-n
-sicer	Q
-potrebno	Agpnsn
-še	Q
-naprej	Rgp
-uravnovešati	Vmen
-,	Z
-je	Va-r3s-n
-pa	Cc
-v	Sl
-povprečju	Ncnsl
-blagovne	Agpfsg
-menjave	Ncfsg
-med	Si
-EU	Npfsi
--	Z
-jem	Ncmsi
-in	Cc
-Ljudsko	Agpfsi
-republiko	Ncfsi
-Kitajsko	Npfsi
-.	Z
-Deficit	Npmsn
-se	Px------y
-povečuje	Vmpr3s
-,	Z
-zato	Cc
-je	Va-r3s-n
-potrebno	Agpnsn
-dodatne	Agpmpa
-napore	Ncmpa
-usmeriti	Vmen
-v	Sa
-izravnavo	Ncfsa
-menjave	Ncfsg
-,	Z
-še	Q
-ugotavljajo	Vmpr3p
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-gospodarstvo	Ncnsa
-.	Z
-Tranzitni	Agpmsay
-potencial	Ncmsan
-Slovenije	Npfsg
-pri	Sl
-sodelovanju	Ncnsl
-s	Si
-Kitajsko	Npfsi
-Huija	Npfsi
-je	Va-r3s-n
-sprejel	Vmep-sm
-tudi	Q
-predsednik	Ncmsn
-republike	Ncfsg
-Danilo	Npmsn
-Türk	Npmsn
-,	Z
-govorila	Vmpp-dm
-pa	Cc
-sta	Va-r3d-n
-o	Sl
-potencialu	Ncmsl
-Slovenije	Npfsg
-kot	Cs
-pomembne	Agpfpn
-tranzitne	Agpfpn
-države	Ncfpn
-v	Sl
-Evropi	Npfsl
-.	Z
-Türk	Npmsn
-je	Va-r3s-n
-izpostavil	Vmep-sm
-predvsem	Q
-pomen	Ncmsan
-slovenskih	Agpfpg
-transportnih	Agpfpg
-poti	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-izrednega	Agpmsg
-pomena	Ncmsg
-za	Sa
-izboljšanje	Ncnsa
-gospodarskega	Agpnsg
-sodelovanja	Ncnsg
-med	Si
-državama	Ncfdi
-predvsem	Q
-ob	Sl
-zasičenosti	Ncfsl
-prometnih	Agpmpg
-tokov	Ncmpg
-v	Sl
-Evropi	Npfsl
-.	Z
-Pogovarjala	Vmpp-dm
-sta	Va-r3d-n
-se	Px------y
-tudi	Q
-o	Sl
-uresničevanju	Ncnsl
-dogovorov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-predsednik	Ncmsn
-države	Ncfsg
-sklenil	Vmep-sm
-med	Si
-državniškim	Agpmsi
-obiskom	Ncmsi
-Kitajske	Npfsg
-,	Z
-nekaj	Rgp
-časa	Ncmsg
-pa	Cc
-sta	Va-r3d-n
-namenila	Vmep-dm
-tudi	Q
-pogovorom	Ncmpd
-o	Sl
-kulturnem	Agpnsl
-sodelovanju	Ncnsl
-.	Z
+token	tag	lemma
+Slovenija	mte:Npfsn	Slovenija
+na	mte:Sa	na
+Kitajsko	mte:Npfsa	Kitajska
+izvozi	mte:Vmer3s	izvoziti
+le	mte:Q	le
+za	mte:Sa	za
+69	mte:Mdc	69
+mio	mte:Ncmpg	mio
+.	mte:Z	.
+evrov	mte:Ncmpg	evro
+132	mte:Mdc	132
+mio	mte:Ncmpg	mio
+.	mte:Z	.
+dolarjev	mte:Ncmpg	dolar
+blaga	mte:Ncnsg	blago
+Na	mte:Sl	na
+obisku	mte:Ncmsl	obisk
+je	mte:Va-r3s-n	biti
+podpredsednik	mte:Ncmsn	podpredsednik
+kitajske	mte:Agpfsg	kitajski
+vlade	mte:Ncfsg	vlada
+Huj	mte:Npmsn	Huj
+Ljangju	mte:Npmsd	Ljang
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+pripeljal	mte:Vmep-sm	pripeljati
+tudi	mte:Q	tudi
+delegacijo	mte:Ncfsa	delegacija
+80	mte:Mdc	80
+gospodarstvenikov	mte:Ncmpg	gospodarstvenik
+.	mte:Z	.
+Trgovina	mte:Npfsn	Trgovina
+med	mte:Si	med
+državama	mte:Ncfdi	država
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+presegla	mte:Vmep-sf	preseči
+milijardo	mte:Ncfsa	milijarda
+dolarjev.Kitajskega	mte:Agpmsg	dolarjevsev.ijski
+podpredsednika	mte:Ncmsg	podpredsednik
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+sprejel	mte:Vmep-sm	sprejeti
+premier	mte:Ncmsn	premier
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+,	mte:Z	,
+na	mte:Sl	na
+skupni	mte:Agpfsl	skupen
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+oba	mte:Pg-mdn	oba
+politika	mte:Ncmdn	politika
+opomnila	mte:Vmep-dm	opomniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+namen	mte:Ncmsn	namen
+tridnevnega	mte:Agpmsg	tridneven
+obiska	mte:Ncmsg	obisk
+predvsem	mte:Q	predvsem
+krepitev	mte:Ncfsn	krepitev
+gospodarskih	mte:Agpfpg	gospodarski
+vezi	mte:Ncfpg	vez
+med	mte:Si	med
+državama	mte:Ncfdi	država
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+obisk	mte:Ncmsn	obisk
+pospešil	mte:Vmep-sm	pospešiti
+sodelovanje	mte:Ncnsa	sodelovanje
+in	mte:Cc	in
+pripomogel	mte:Vmep-sm	pripomoči
+k	mte:Sd	k
+uravnovešenju	mte:Ncnsd	uravnovešenje
+trgovinske	mte:Agpfsg	trgovinski
+menjave	mte:Ncfsg	menjava
+.	mte:Z	.
+LetoIzvoz	mte:Ncfsa	letoizvoz
+v	mte:Sa	v
+mio	mte:Ncmsa	mio
+.	mte:Z	.
+EURUvoz	mte:Npmsn	Euruvoz
+v	mte:Sa	v
+mio	mte:Ncmsa	mio
+.	mte:Z	.
+EURSaldo	mte:Npfsa	EURSaldo
+v	mte:Sa	v
+mio	mte:Ncmsa	mio
+.	mte:Z	.
+EUR	mte:Ncmsn	eur
+200326,489291,133	mte:Mdc	200326,489291,133
+-	mte:Z	-
+264,644	mte:Mdc	264,644
+200427,856150,001	mte:Mdc	200427,856150,001
+-	mte:Z	-
+122,145	mte:Mdc	122,145
+200536,248196,800	mte:Mdc	200536,248196,800
+-	mte:Z	-
+160,552	mte:Mdc	160,552
+200653,327243,685	mte:Mdc	200653,327243,685
+-	mte:Z	-
+190,358	mte:Mdc	190,358
+200760,571345,932	mte:Mdc	200760,571345,932
+-	mte:Z	-
+285,361	mte:Mdc	285,361
+200869,0441,0	mte:Mdc	200869,0441,0
+-	mte:Z	-
+372,0	mte:Mdc	372,0
+2009	mte:Mdc	2009
+*	mte:Z	*
+14,6126,5	mte:Mdc	14,6126,5
+-	mte:Z	-
+111,9	mte:Mdc	111,9
+vir	mte:Ncmsn	vir
+SURS	mte:Npmsn	SURS
+*	mte:Z	*
+podatki	mte:Ncmpn	podatek
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+prve	mte:Mlompa	prvi
+štiri	mte:Mlcmpa	štirje
+mesece	mte:Ncmpa	mesec
+Pred	mte:Si	pred
+novinarsko	mte:Agpfsi	novinarski
+konferenco	mte:Ncfsi	konferenca
+sta	mte:Va-r3d-n	biti
+delegaciji	mte:Ncfdn	delegacija
+obeh	mte:Pg-fdg	oba
+držav	mte:Ncfdg	država
+podpisali	mte:Vmep-dm	podpisati
+pet	mte:Mlc-pa	pet
+dokumentov	mte:Ncmpg	dokument
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+na	mte:Sl	na
+različnih	mte:Agpnpl	različen
+področjih	mte:Ncnpl	področje
+memorandum	mte:Ncmsan	memorandum
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+v	mte:Sl	v
+kmetijstvu	mte:Ncnsl	kmetijstvo
+,	mte:Z	,
+memorandum	mte:Ncmsn	memorandum
+o	mte:Sl	o
+promociji	mte:Ncfsl	promocija
+izmenjave	mte:Ncfsg	izmenjava
+in	mte:Cc	in
+sodelovanja	mte:Ncnsg	sodelovanje
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+srednjih	mte:Agpnpg	srednji
+in	mte:Cc	in
+majhnih	mte:Agpnpg	majhen
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+akcijski	mte:Agpmsny	akcijski
+načrt	mte:Ncmsn	načrt
+za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+v	mte:Sl	v
+zdravju	mte:Ncnsl	zdravje
+in	mte:Cc	in
+medicini	mte:Ncfsl	medicina
+v	mte:Sl	v
+obdobju	mte:Ncnsl	obdobje
+2009	mte:Mdc	2009
+-	mte:Z	-
+2012	mte:Mdc	2012
+,	mte:Z	,
+sporazum	mte:Ncmsn	sporazum
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+med	mte:Si	med
+Univerzo	mte:Ncfsi	univerza
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+in	mte:Cc	in
+Univerzo	mte:Ncfsa	univerza
+za	mte:Sa	za
+tuje	mte:Agpfpa	tuj
+študije	mte:Ncfpa	študija
+v	mte:Sl	v
+Pekingu	mte:Npmsl	Peking
+ter	mte:Cc	ter
+sporazum	mte:Ncmsn	sporazum
+o	mte:Sl	o
+ustanovitvi	mte:Ncfsl	ustanovitev
+Konfucijskega	mte:Agpmsg	konfucijski
+inštituta	mte:Ncmsg	inštitut
+na	mte:Sl	na
+Ekonomski	mte:Agpfsl	ekonomski
+fakulteti	mte:Ncfsl	fakulteta
+ljubljanske	mte:Agpfsg	ljubljanski
+univerze	mte:Ncfsg	univerza
+.	mte:Z	.
+Izvoz	mte:Ncmsn	izvoz
+132	mte:Mdc	132
+,	mte:Z	,
+uvoz	mte:Ncmsn	uvoz
+951	mte:Mdc	951
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+Kot	mte:Cs	kot
+omenjeno	mte:Appnsn	omenjen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+skupna	mte:Agpfsn	skupen
+trgovina	mte:Ncfsn	trgovina
+med	mte:Si	med
+Kitajsko	mte:Npfsi	Kitajska
+in	mte:Cc	in
+Slovenijo	mte:Npfsi	Slovenija
+po	mte:Sl	po
+kitajskih	mte:Agpfpl	kitajski
+statistikah	mte:Ncfpl	statistika
+presegla	mte:Vmep-sf	preseči
+milijardo	mte:Ncfsa	milijarda
+dolarjev	mte:Ncmpg	dolar
+natančneje	mte:Rgc	natančno
+1,083	mte:Mdc	1,083
+milijarde	mte:Ncfsg	milijarda
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+35	mte:Mdc	35
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+leto	mte:Ncnsn	leto
+prej	mte:Rgc	prej
+.	mte:Z	.
+A	mte:Cc	a
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+ima	mte:Vmpr3s-n	imeti
+več	mte:Rgc	več
+koristi	mte:Ncfsg	korist
+od	mte:Sg	od
+menjave	mte:Ncfsg	menjava
+Kitajska	mte:Npfsn	Kitajska
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2008	mte:Mdc	2008
+k	mte:Sd	k
+nam	mte:Pp1-pd	jaz
+izvozila	mte:Vmep-sf	izvoziti
+za	mte:Sa	za
+951	mte:Mdc	951
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+blaga	mte:Ncnsg	blago
+to	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+37	mte:Mdc	37
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+,	mte:Z	,
+Slovenija	mte:Npfsn	Slovenija
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+Kitajsko	mte:Npfsa	Kitajska
+izvozila	mte:Vmep-sf	izvoziti
+za	mte:Sa	za
+132	mte:Mdc	132
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+blaga	mte:Ncnsg	blago
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+19	mte:Mdc	19
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+,	mte:Z	,
+a	mte:Cc	a
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+premalo	mte:Rgp	premalo
+.	mte:Z	.
+Skupna	mte:Agpfsn	skupen
+blagovna	mte:Agpfsn	blagoven
+menjava	mte:Ncfsn	menjava
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Kitajsko	mte:Npfsi	Kitajska
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+znašala	mte:Vmpp-sf	znašati
+510	mte:Mdc	510
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+25,5	mte:Mdc	25,5
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+v	mte:Sl	v
+predhodnem	mte:Agpnsl	predhoden
+letu	mte:Ncnsl	leto
+.	mte:Z	.
+Kitajska	mte:Npfsn	Kitajska
+se	mte:Px------y	se
+uvršča	mte:Vmpr3s	uvrščati
+na	mte:Sa	na
+18	mte:Mdc	18
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+zunanjetrgovinskih	mte:Agpfpg	zunanjetrgovinski
+partneric	mte:Ncfpg	partnerica
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2008	mte:Mdc	2008
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+predstavlja	mte:Vmpr3s	predstavljati
+1,19	mte:Mdc	1,19
+odstotka	mte:Ncmsg	odstotek
+celotne	mte:Agpfsg	celoten
+slovenske	mte:Agpfsg	slovenski
+blagovne	mte:Agpfsg	blagoven
+menjave	mte:Ncfsg	menjava
+s	mte:Si	z
+tujino	mte:Ncfsi	tujina
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+Kitajsko	mte:Npfsa	Kitajska
+v	mte:Sl	v
+omenjenem	mte:Appnsl	omenjen
+letu	mte:Ncnsl	leto
+izvozila	mte:Vmep-sf	izvoziti
+za	mte:Sa	za
+69	mte:Mdc	69
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+blaga	mte:Ncnsg	blago
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+14	mte:Mdc	14
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2007	mte:Mdc	2007
+.	mte:Z	.
+Tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+Kitajska	mte:Npfsn	Kitajska
+v	mte:Sl	v
+lani	mte:Rgp	lani
+na	mte:Sl	na
+30	mte:Mdc	30
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+med	mte:Si	med
+zunanjetrgovinskimi	mte:Agpfpi	zunanjetrgovinski
+partnericami	mte:Ncfpi	partnerica
+Slovenije	mte:Npfsg	Slovenija
+glede	mte:Rgp	glede
+na	mte:Sa	na
+celotni	mte:Agpmsay	celoten
+slovenski	mte:Agpmsay	slovenski
+izvoz	mte:Ncmsan	izvoz
+v	mte:Sa	v
+tujino	mte:Ncfsa	tujina
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+tako	mte:Rgp	tako
+ugotavljajo	mte:Vmpr3p	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+zunanjetrgovinski	mte:Agpmsny	zunanjetrgovinski
+primanjkljaj	mte:Ncmsn	primanjkljaj
+vsako	mte:Pg-nsn	vsak
+leto	mte:Ncnsa	leto
+povečuje	mte:Vmpr3s	povečevati
+Razmerje	mte:Ncnsa	razmerje
+med	mte:Si	med
+uvozom	mte:Ncmsi	uvoz
+in	mte:Cc	in
+izvozom	mte:Ncmsi	izvoz
+je	mte:Va-r3s-n	biti
+1	mte:Mdc	1
+6	mte:Mdc	6
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+potrebno	mte:Agpnsn	potreben
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+uravnovešati	mte:Vmen	uravnovešati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pa	mte:Cc	pa
+v	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+blagovne	mte:Agpfsg	blagoven
+menjave	mte:Ncfsg	menjava
+med	mte:Si	med
+EU	mte:Npfsi	EU
+-	mte:Z	-
+jem	mte:Ncmsi	jem
+in	mte:Cc	in
+Ljudsko	mte:Agpfsi	ljudski
+republiko	mte:Ncfsi	republika
+Kitajsko	mte:Npfsi	Kitajska
+.	mte:Z	.
+Deficit	mte:Npmsn	Deficit
+se	mte:Px------y	se
+povečuje	mte:Vmpr3s	povečevati
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+potrebno	mte:Agpnsn	potreben
+dodatne	mte:Agpmpa	dodaten
+napore	mte:Ncmpa	napor
+usmeriti	mte:Vmen	usmeriti
+v	mte:Sa	v
+izravnavo	mte:Ncfsa	izravnava
+menjave	mte:Ncfsg	menjava
+,	mte:Z	,
+še	mte:Q	še
+ugotavljajo	mte:Vmpr3p	ugotavljati
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+.	mte:Z	.
+Tranzitni	mte:Agpmsay	tranziten
+potencial	mte:Ncmsan	potencial
+Slovenije	mte:Npfsg	Slovenija
+pri	mte:Sl	pri
+sodelovanju	mte:Ncnsl	sodelovanje
+s	mte:Si	z
+Kitajsko	mte:Npfsi	Kitajska
+Huija	mte:Npfsi	Hui
+je	mte:Va-r3s-n	biti
+sprejel	mte:Vmep-sm	sprejeti
+tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+republike	mte:Ncfsg	republika
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+,	mte:Z	,
+govorila	mte:Vmpp-dm	govoriti
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+o	mte:Sl	o
+potencialu	mte:Ncmsl	potencial
+Slovenije	mte:Npfsg	Slovenija
+kot	mte:Cs	kot
+pomembne	mte:Agpfpn	pomemben
+tranzitne	mte:Agpfpn	tranziten
+države	mte:Ncfpn	država
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Türk	mte:Npmsn	Türk
+je	mte:Va-r3s-n	biti
+izpostavil	mte:Vmep-sm	izpostaviti
+predvsem	mte:Q	predvsem
+pomen	mte:Ncmsan	pomen
+slovenskih	mte:Agpfpg	slovenski
+transportnih	mte:Agpfpg	transporten
+poti	mte:Ncfpg	pot
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+izrednega	mte:Agpmsg	izreden
+pomena	mte:Ncmsg	pomen
+za	mte:Sa	za
+izboljšanje	mte:Ncnsa	izboljšanje
+gospodarskega	mte:Agpnsg	gospodarski
+sodelovanja	mte:Ncnsg	sodelovanje
+med	mte:Si	med
+državama	mte:Ncfdi	država
+predvsem	mte:Q	predvsem
+ob	mte:Sl	ob
+zasičenosti	mte:Ncfsl	zasičenost
+prometnih	mte:Agpmpg	prometen
+tokov	mte:Ncmpg	tok
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Pogovarjala	mte:Vmpp-dm	pogovarjati
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+o	mte:Sl	o
+uresničevanju	mte:Ncnsl	uresničevanje
+dogovorov	mte:Ncmpg	dogovor
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+države	mte:Ncfsg	država
+sklenil	mte:Vmep-sm	skleniti
+med	mte:Si	med
+državniškim	mte:Agpmsi	državniški
+obiskom	mte:Ncmsi	obisk
+Kitajske	mte:Npfsg	Kitajska
+,	mte:Z	,
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+namenila	mte:Vmep-dm	nameniti
+tudi	mte:Q	tudi
+pogovorom	mte:Ncmpd	pogovor
+o	mte:Sl	o
+kulturnem	mte:Agpnsl	kulturen
+sodelovanju	mte:Ncnsl	sodelovanje
+.	mte:Z	.
+Kitajskega	mte:Agpmsa	kitajski
+podpredsednika	mte:Ncmsay	podpredsednik
+sta	mte:Va-r3d-n	biti
+sprejela	mte:Vmep-dm	sprejeti
+tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+DZ	mte:Npmsg	DZ
+-	mte:Z	-
+ja	mte:Q	ja
+Pavel	mte:Npmsn	Pavel
+Gantar	mte:Npmsn	Gantar
+in	mte:Cc	in
+slovenski	mte:Agpmsny	slovenski
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Samuel	mte:Npmsn	Samuel
+Žbogar	mte:Npmsn	Žbogar

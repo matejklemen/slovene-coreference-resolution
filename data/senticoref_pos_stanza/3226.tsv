@@ -1,294 +1,325 @@
-token	tag
-Peking	Npmsn
--	Z
-Svetovna	Agpfsn
-banka	Ncfsn
-je	Va-r3s-n
-danes	Rgp
-Kitajsko	Npfsa
-pozvala	Vmep-sf
-,	Z
-naj	Cs
-dvigne	Vmer3s
-obrestne	Agpfpa
-mere	Ncfpa
-.	Z
-S	Si
-tem	Pd-nsi
-bo	Va-f3s-n
-ohladila	Vmep-sf
-nepremičninski	Agpmsay
-trg	Ncmsan
-ter	Cc
-upočasnila	Vmep-sf
-hitro	Agpnsa
-zadolževanje	Ncnsa
-lokalnih	Agpfpg
-oblasti	Ncfpg
-,	Z
-kar	Pr-nsn
-banka	Ncfsn
-prepoznava	Vmpr3s
-kot	Cs
-glavni	Agpfsl
-grožnji	Ncfsd
-kitajskemu	Agpnsd
-gospodarstvu	Ncnsd
-,	Z
-poroča	Vmpr3s
-francoska	Agpfsn
-tiskovna	Agpfsn
-agencija	Ncfsn
-AFP	Npmsn
-.	Z
-Svetovna	Agpfsn
-banka	Ncfsn
-je	Va-r3s-n
-zavrnila	Vmep-sf
-skrbi	Ncfsg
-o	Sl
-plačno	Agpnsn
--	Z
-inflacijski	Agpfsl
-spirali	Ncfsl
-na	Sl
-Kitajskem	Npnsl
-.	Z
-Uradni	Agpmsny
-Peking	Npmsn
-je	Va-r3s-n
-namreč	Cc
-v	Sl
-minulih	Appmpl
-mesecih	Ncmpl
-večkrat	Rgc
-zvišal	Vmep-sm
-minimalno	Agpfsa
-plačo	Ncfsa
-,	Z
-prav	Q
-tako	Rgp
-pa	Cc
-so	Va-r3p-n
-višje	Agcfpa
-plače	Ncfpa
-prejeli	Vmep-pm
-delavci	Ncmpn
-v	Sl
-številnih	Agpfpl
-tovarnah	Ncfpl
-,	Z
-ki	Cs
-proizvajajo	Vmpr3p
-za	Sa
-tuje	Agpfpa
-multinacionalke	Ncfpa
-.	Z
-Ta	Pd-npn
-zvišanja	Ncnpn
-so	Va-r3p-n
-posledica	Ncfsn
-številnih	Agpfpg
-delavskih	Agpfpg
-uporov	Ncfpg
-in	Cc
-stavk	Ncfpg
-.	Z
-"	Z
-Kitajska	Npfsn
-bo	Va-f3s-n
-s	Si
-tem	Pd-nsi
-,	Z
-ko	Cs
-bo	Va-f3s-n
-pustila	Vmep-sf
-obrestnim	Agpfpd
-meram	Ncfpd
-odigrati	Vmen
-pomembnejšo	Agcfsa
-vlogo	Ncfsa
-v	Sl
-monetarni	Agpfsl
-politiki	Ncfsl
-,	Z
-verjetno	Rgp
-več	Rgc
-pridobila	Vmep-sf
-kot	Cs
-izgubila	Vmep-sf
-,	Z
-"	Z
-je	Va-r3s-n
-v	Sl
-četrtletnem	Agpnsl
-poročilu	Ncnsl
-o	Sl
-tretjem	Mlonsl
-največjem	Agsnsl
-svetovnem	Agpnsl
-gospodarstvu	Ncnsl
-zapisala	Vmep-sf
-Svetovna	Agpfsn
-banka	Ncfsn
-.	Z
-Prenizke	Ncmpn
-obrestne	Agpfpn
-mere	Ncfpn
-trenutno	Rgp
-vodijo	Vmpr3p
-v	Sa
-pretirane	Appfpa
-investicije	Ncfpa
-ter	Cc
-nepremičninske	Agpfpa
-špekulacije	Ncfpa
-,	Z
-navaja	Vmpr3s
-poročilo	Ncnsa
-.	Z
-Peking	Npmsn
-sicer	Q
-odlaša	Vmpr3s
-z	Si
-dvigom	Ncmsi
-obrestnih	Agpfpg
-mer	Ncfpg
-zaradi	Sg
-skrbi	Ncfsg
-,	Z
-da	Cs
-bi	Va-c
-s	Si
-tem	Pd-nsi
-lahko	Rgp
-privabil	Vmep-sm
-špekulativni	Agpmsay
-kapital	Ncmsan
-,	Z
-kar	Pr-nsn
-bi	Va-c
-otežilo	Vmep-sn
-ohranjanje	Ncnsa
-stabilnosti	Ncfsg
-valute	Ncfsg
-juan	Ncmsn
-.	Z
-Namesto	Sg
-tega	Pd-nsg
-so	Va-r3p-n
-poskusili	Vmep-pm
-z	Si
-različnimi	Agpmpi
-ukrepi	Ncmpi
-zajeziti	Vmen
-obsežno	Agpnsa
-bančno	Agpnsa
-posojanje	Ncnsa
-ter	Cc
-hitro	Rgp
-rastoče	Appfsa
-cene	Ncfsg
-nepremičnin	Ncfpg
-.	Z
-Svetovna	Agpfsn
-banka	Ncfsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-ponovila	Vmep-sf
-stališče	Ncnsa
-,	Z
-da	Cs
-bi	Va-c
-močnejša	Agcfsn
-valuta	Ncfsn
-Kitajski	Npfsd
-pomagala	Vmbp-sf
-omejiti	Vmen
-inflacijske	Agpmpa
-pritiske	Ncmpa
-ter	Cc
-uravnotežiti	Vmen
-gospodarstvo	Ncnsa
-.	Z
-Kitajska	Npfsn
-namreč	Cc
-juan	Ncmsn
-že	Q
-od	Sg
-srede	Ncfsg
-leta	Ncnsg
-2008	Mdc
-uspešno	Rgp
-drži	Vmpr3s
-na	Sl
-vrednosti	Ncfsl
-okoli	Rgp
-6,8	Mdc
-dolarja	Ncmsg
-,	Z
-kar	Pr-nsn
-sproža	Vmpr3s
-številne	Agpfpa
-kritike	Ncfpa
-s	Sg
-strani	Ncfsg
-ZDA	Npfpg
-in	Cc
-drugih	Mlpfpg
-svetovnih	Agpfpg
-držav	Ncfpg
-.	Z
-Podcenjena	Appfsn
-valuta	Ncfsn
-naj	Q
-bi	Va-c
-namreč	Cc
-kitajskim	Agpmpd
-izvoznikom	Ncmpd
-zagotavljala	Vmpp-sf
-neupravičeno	Agpfsa
-prednost	Ncfsa
-.	Z
-V	Sa
-sredo	Ncfsa
-je	Va-r3s-n
-sicer	Q
-pred	Si
-pregrevanjem	Ncnsi
-kitajskega	Agpnsg
-gospodarstva	Ncnsg
-posvaril	Vmep-sm
-tudi	Q
-prvi	Mlomsn
-mož	Ncmsn
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-(	Z
-IMF	Npmsn
-)	Z
-Dominique	Npmsn
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-.	Z
-Kitajski	Agpmsny
-juan	Npmsn
-je	Va-r3s-n
-po	Sl
-njegovem	Ps3nslsm
-mnenju	Ncnsl
-še	Q
-vedno	Rgp
-podcenjen	Appmsnn
-,	Z
-vendar	Cc
-bi	Va-c
-se	Px------y
-lahko	Rgp
-v	Sa
-prihodnje	Agpnsa
-okrepil	Vmep-sm
-.	Z
+token	tag	lemma
+Peking	mte:Npmsn	Peking
+-	mte:Z	-
+Svetovna	mte:Agpfsn	svetoven
+banka	mte:Ncfsn	banka
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+Kitajsko	mte:Npfsa	Kitajska
+pozvala	mte:Vmep-sf	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+dvigne	mte:Vmer3s	dvigniti
+obrestne	mte:Agpfpa	obresten
+mere	mte:Ncfpa	mera
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+bo	mte:Va-f3s-n	biti
+ohladila	mte:Vmep-sf	ohladiti
+nepremičninski	mte:Agpmsay	nepremičninski
+trg	mte:Ncmsan	trg
+ter	mte:Cc	ter
+upočasnila	mte:Vmep-sf	upočasniti
+hitro	mte:Agpnsa	hiter
+zadolževanje	mte:Ncnsa	zadolževanje
+lokalnih	mte:Agpfpg	lokalen
+oblasti	mte:Ncfpg	oblast
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+banka	mte:Ncfsn	banka
+prepoznava	mte:Vmpr3s	prepoznavati
+kot	mte:Cs	kot
+glavni	mte:Agpfsl	glaven
+grožnji	mte:Ncfsd	grožnja
+kitajskemu	mte:Agpnsd	kitajski
+gospodarstvu	mte:Ncnsd	gospodarstvo
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+francoska	mte:Agpfsn	francoski
+tiskovna	mte:Agpfsn	tiskoven
+agencija	mte:Ncfsn	agencija
+AFP	mte:Npmsn	AFP
+.	mte:Z	.
+Svetovna	mte:Agpfsn	svetoven
+banka	mte:Ncfsn	banka
+je	mte:Va-r3s-n	biti
+zavrnila	mte:Vmep-sf	zavrniti
+skrbi	mte:Ncfsg	skrb
+o	mte:Sl	o
+plačno	mte:Agpnsn	plačen
+-	mte:Z	-
+inflacijski	mte:Agpfsl	inflacijski
+spirali	mte:Ncfsl	spiral
+na	mte:Sl	na
+Kitajskem	mte:Npnsl	Kitajsko
+.	mte:Z	.
+Uradni	mte:Agpmsny	uraden
+Peking	mte:Npmsn	Peking
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+v	mte:Sl	v
+minulih	mte:Appmpl	minul
+mesecih	mte:Ncmpl	mesec
+večkrat	mte:Rgc	večkrat
+zvišal	mte:Vmep-sm	zvišati
+minimalno	mte:Agpfsa	minimalen
+plačo	mte:Ncfsa	plača
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+višje	mte:Agcfpa	visok
+plače	mte:Ncfpa	plača
+prejeli	mte:Vmep-pm	prejeti
+delavci	mte:Ncmpn	delavec
+v	mte:Sl	v
+številnih	mte:Agpfpl	številen
+tovarnah	mte:Ncfpl	tovarna
+,	mte:Z	,
+ki	mte:Cs	ki
+proizvajajo	mte:Vmpr3p	proizvajati
+za	mte:Sa	za
+tuje	mte:Agpfpa	tuj
+multinacionalke	mte:Ncfpa	multinacionalka
+.	mte:Z	.
+Ta	mte:Pd-npn	ta
+zvišanja	mte:Ncnpn	zvišanje
+so	mte:Va-r3p-n	biti
+posledica	mte:Ncfsn	posledica
+številnih	mte:Agpfpg	številen
+delavskih	mte:Agpfpg	delavski
+uporov	mte:Ncfpg	upor
+in	mte:Cc	in
+stavk	mte:Ncfpg	stavka
+.	mte:Z	.
+"	mte:Z	"
+Kitajska	mte:Npfsn	Kitajska
+bo	mte:Va-f3s-n	biti
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+pustila	mte:Vmep-sf	pustiti
+obrestnim	mte:Agpfpd	obresten
+meram	mte:Ncfpd	meram
+odigrati	mte:Vmen	odigrati
+pomembnejšo	mte:Agcfsa	pomemben
+vlogo	mte:Ncfsa	vloga
+v	mte:Sl	v
+monetarni	mte:Agpfsl	monetaren
+politiki	mte:Ncfsl	politika
+,	mte:Z	,
+verjetno	mte:Rgp	verjetno
+več	mte:Rgc	več
+pridobila	mte:Vmep-sf	pridobiti
+kot	mte:Cs	kot
+izgubila	mte:Vmep-sf	izgubiti
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+četrtletnem	mte:Agpnsl	četrtleten
+poročilu	mte:Ncnsl	poročilo
+o	mte:Sl	o
+tretjem	mte:Mlonsl	tretji
+največjem	mte:Agsnsl	velik
+svetovnem	mte:Agpnsl	svetoven
+gospodarstvu	mte:Ncnsl	gospodarstvo
+zapisala	mte:Vmep-sf	zapisati
+Svetovna	mte:Agpfsn	svetoven
+banka	mte:Ncfsn	banka
+.	mte:Z	.
+Prenizke	mte:Ncmpn	prenizek
+obrestne	mte:Agpfpn	obresten
+mere	mte:Ncfpn	mera
+trenutno	mte:Rgp	trenutno
+vodijo	mte:Vmpr3p	voditi
+v	mte:Sa	v
+pretirane	mte:Appfpa	pretiran
+investicije	mte:Ncfpa	investicija
+ter	mte:Cc	ter
+nepremičninske	mte:Agpfpa	nepremičninski
+špekulacije	mte:Ncfpa	špekulacija
+,	mte:Z	,
+navaja	mte:Vmpr3s	navajati
+poročilo	mte:Ncnsa	poročilo
+.	mte:Z	.
+Peking	mte:Npmsn	Peking
+sicer	mte:Q	sicer
+odlaša	mte:Vmpr3s	odlašati
+z	mte:Si	z
+dvigom	mte:Ncmsi	dvig
+obrestnih	mte:Agpfpg	obresten
+mer	mte:Ncfpg	mera
+zaradi	mte:Sg	zaradi
+skrbi	mte:Ncfsg	skrb
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+lahko	mte:Rgp	lahko
+privabil	mte:Vmep-sm	privabiti
+špekulativni	mte:Agpmsay	špekulativen
+kapital	mte:Ncmsan	kapital
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+bi	mte:Va-c	biti
+otežilo	mte:Vmep-sn	otežiti
+ohranjanje	mte:Ncnsa	ohranjanje
+stabilnosti	mte:Ncfsg	stabilnost
+valute	mte:Ncfsg	valuta
+juan	mte:Ncmsn	juan
+.	mte:Z	.
+Namesto	mte:Sg	namesto
+tega	mte:Pd-nsg	ta
+so	mte:Va-r3p-n	biti
+poskusili	mte:Vmep-pm	poskusiti
+z	mte:Si	z
+različnimi	mte:Agpmpi	različen
+ukrepi	mte:Ncmpi	ukrep
+zajeziti	mte:Vmen	zajeziti
+obsežno	mte:Agpnsa	obsežen
+bančno	mte:Agpnsa	bančen
+posojanje	mte:Ncnsa	posojanje
+ter	mte:Cc	ter
+hitro	mte:Rgp	hitro
+rastoče	mte:Appfsa	rastoč
+cene	mte:Ncfsg	cena
+nepremičnin	mte:Ncfpg	nepremičnina
+.	mte:Z	.
+Svetovna	mte:Agpfsn	svetoven
+banka	mte:Ncfsn	banka
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+ponovila	mte:Vmep-sf	ponoviti
+stališče	mte:Ncnsa	stališče
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+močnejša	mte:Agcfsn	močen
+valuta	mte:Ncfsn	valuta
+Kitajski	mte:Npfsd	Kitajska
+pomagala	mte:Vmbp-sf	pomagati
+omejiti	mte:Vmen	omejiti
+inflacijske	mte:Agpmpa	inflacijski
+pritiske	mte:Ncmpa	pritisk
+ter	mte:Cc	ter
+uravnotežiti	mte:Vmen	uravnotežiti
+gospodarstvo	mte:Ncnsa	gospodarstvo
+.	mte:Z	.
+Kitajska	mte:Npfsn	Kitajska
+namreč	mte:Cc	namreč
+juan	mte:Ncmsn	juan
+že	mte:Q	že
+od	mte:Sg	od
+srede	mte:Ncfsg	sreda
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+uspešno	mte:Rgp	uspešno
+drži	mte:Vmpr3s	držati
+na	mte:Sl	na
+vrednosti	mte:Ncfsl	vrednost
+okoli	mte:Rgp	okoli
+6,8	mte:Mdc	6,8
+dolarja	mte:Ncmsg	dolar
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+sproža	mte:Vmpr3s	sprožati
+številne	mte:Agpfpa	številen
+kritike	mte:Ncfpa	kritika
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+ZDA	mte:Npfpg	ZDA
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+svetovnih	mte:Agpfpg	svetoven
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Podcenjena	mte:Appfsn	podcenjen
+valuta	mte:Ncfsn	valuta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+kitajskim	mte:Agpmpd	kitajski
+izvoznikom	mte:Ncmpd	izvoznik
+zagotavljala	mte:Vmpp-sf	zagotavljati
+neupravičeno	mte:Agpfsa	neupravičen
+prednost	mte:Ncfsa	prednost
+.	mte:Z	.
+V	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+pred	mte:Si	pred
+pregrevanjem	mte:Ncnsi	pregrevanje
+kitajskega	mte:Agpnsg	kitajski
+gospodarstva	mte:Ncnsg	gospodarstvo
+posvaril	mte:Vmep-sm	posvariti
+tudi	mte:Q	tudi
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+(	mte:Z	(
+IMF	mte:Npmsn	IMF
+)	mte:Z	)
+Dominique	mte:Npmsn	Dominique
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+.	mte:Z	.
+Kitajski	mte:Agpmsny	kitajski
+juan	mte:Npmsn	juan
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+mnenju	mte:Ncnsl	mnenje
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+podcenjen	mte:Appmsnn	podcenjen
+,	mte:Z	,
+vendar	mte:Cc	vendar
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+okrepil	mte:Vmep-sm	okrepiti
+.	mte:Z	.
+"	mte:Z	"
+Na	mte:Sl	na
+Kitajskem	mte:Npnsl	Kitajsko
+tveganje	mte:Ncnsn	tveganje
+predstavlja	mte:Vmpr3s	predstavljati
+pregrevanje	mte:Ncnsa	pregrevanje
+-	mte:Z	-
+na	mte:Sl	na
+kreditnih	mte:Agpmpl	krediten
+in	mte:Cc	in
+premoženjskih	mte:Agpmpl	premoženjski
+trgih	mte:Ncmpl	trg
+-	mte:Z	-
+in	mte:Cc	in
+oblikovanje	mte:Ncnsa	oblikovanje
+premoženjskih	mte:Agpmpg	premoženjski
+balonov	mte:Ncmpg	balon
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+seminarju	mte:Ncmsl	seminar
+o	mte:Sl	o
+evropsko	mte:Agpnsn	evropski
+-	mte:Z	-
+kitajskih	mte:Agpmpl	kitajski
+odnosih	mte:Ncmpl	odnos
+opozoril	mte:Vmep-sm	opozoriti
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn

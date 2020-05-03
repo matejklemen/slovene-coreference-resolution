@@ -1,703 +1,726 @@
-token	tag
-Poslanci	Ncmpn
-v	Sl
-državnem	Agpmsl
-zboru	Ncmsl
-prvič	Rgp
-obravnavajo	Vmpr3p
-novelo	Ncfsa
-zakona	Ncmsg
-o	Sl
-davku	Ncmsl
-na	Sa
-motorna	Agpnpa
-vozila	Ncnpa
-,	Z
-ki	Cs
-bi	Va-c
-uvedel	Vmep-sm
-novo	Agpfsa
-obdavčitev	Ncfsa
-vozil	Ncnpg
-glede	Rgp
-na	Sa
-izpuste	Ncmpa
-CO2	Ncmsn
-.	Z
-V	Sl
-SDS	Npfsl
-in	Cc
-SNS	Npmsn
-zakona	Ncmsg
-ne	Q
-podpirajo	Vmpr3p
-.	Z
-Državna	Agpfsn
-sekretarka	Ncfsn
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-finance	Ncfpa
-Helena	Npfsn
-Kamnar	Npfsn
-Novela	Ncfsn
-zakona	Ncmsg
-o	Sl
-davku	Ncmsl
-na	Sa
-motorna	Agpnpa
-vozila	Ncnpa
-po	Sl
-besedah	Ncfpl
-državne	Agpfsg
-sekretarke	Ncfsg
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-finance	Ncfpa
-Helene	Npfsg
-Kamnar	Npfsg
-predstavlja	Vmpr3s
-enega	Mlpmsa
-od	Sg
-pomembnih	Agpmpg
-elementov	Ncmpg
-t	Ncmsn
-.	Z
-i	Ncmsn
-.	Z
-zelene	Agpfsg
-davčne	Agpfsg
-reforme	Ncfpa
-.	Z
-Bistvo	Ncnsa
-zakonske	Agpfsg
-novele	Ncfsg
-je	Va-r3s-n
-prehod	Ncmsn
-iz	Sg
-obdavčitve	Ncfsg
-na	Sl
-podlagi	Ncfsl
-cene	Ncfsg
-avtomobilov	Ncmpg
-na	Sa
-obdavčitev	Ncfsa
-po	Sl
-izpustih	Ncmpl
-CO2	Ncmsn
-.	Z
-Kot	Cs
-predvideva	Vmpr3s
-novela	Ncfsn
-zakona	Ncmsg
-,	Z
-bodo	Va-f3p-n
-po	Sl
-novem	Agpnsl
-obdavčeni	Appmpn
-tudi	Q
-motorji	Ncmpn
-,	Z
-ki	Cs
-doslej	Rgp
-niso	Va-r3p-y
-bili	Va-p-pm
-predmet	Ncmsn
-obdavčitve	Ncfsg
-,	Z
-avtomobili	Ncmpn
-pa	Cc
-bodo	Va-f3p-n
-obdavčeni	Appmpn
-po	Sl
-tristopenjski	Agpfsl
-progresivni	Agpfsl
-lestvici	Ncfsl
-glede	Rgp
-na	Sa
-izpuste	Ncmpa
-CO2	Ncmsn
-.	Z
-V	Sl
-najnižjem	Agsmsl
-razredu	Ncmsl
-so	Va-r3p-n
-avtomobili	Ncmpn
-z	Si
-izpusti	Ncmpi
-do	Sg
-150	Mdc
-g	Ncmsn
-/	Z
-m3	Ncmsn
-.	Z
-V	Sl
-tem	Pd-msl
-razredu	Ncmsl
-se	Px------y
-bodo	Va-f3p-n
-,	Z
-tako	Rgp
-Kamnarjeva	Aspnpn
-,	Z
-davki	Ncmpn
-znižali	Vmep-pm
-,	Z
-posledično	Rgp
-pa	Cc
-se	Px------y
-bo	Va-f3s-n
-znižale	Vmep-pf
-tudi	Q
-cene	Ncfpn
-drobnoprodajnih	Agpfpg
-cen	Ncfpg
-.	Z
-V	Sl
-srednjem	Agpmsl
-razredu	Ncmsl
-so	Va-r3p-n
-avtomobili	Ncmpn
-z	Si
-izpusti	Ncmsi
-CO2	Ncmsn
-med	Si
-150	Mdc
-in	Cc
-210	Mdc
-g	Ncmsn
-/	Z
-m3	Ncmsn
-približno	Rgp
-50	Mdc
-odstotkov	Ncmpg
-vseh	Pg-npg
-motornih	Agpnpg
-vozil	Ncnpg
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-v	Sl
-končni	Agpfsl
-fazi	Ncfsl
-obdavčeni	Appmpn
-za	Sa
-150	Mdc
-odstotkov	Ncmpg
-več	Rgc
-.	Z
-Zaradi	Sg
-velikega	Agpmsg
-učinka	Ncmsg
-in	Cc
-trenutnih	Agpfpg
-gospodarskih	Agpfpg
-razmer	Ncfpg
-novela	Ncfsg
-zakona	Ncmsg
-namreč	Cc
-predvideva	Vmpr3s
-enoletno	Agpnsa
-prehodno	Agpnsa
-obdobje	Ncnsa
-,	Z
-ko	Cs
-bo	Va-f3s-n
-povišanje	Ncnsn
-davka	Ncmsg
-na	Sa
-motorna	Agpnpa
-vozila	Ncnpa
-iz	Sg
-drugega	Mlpmsg
-razreda	Ncmsg
-le	Q
-od	Sg
-dve	Mlcfda
--	Z
-do	Sg
-desetodstotno	Rgp
-.	Z
-V	Sa
-tretji	Mlomsl
-razred	Ncmsan
-sodijo	Vmpr3p
-motorna	Agpnpa
-vozila	Ncnpa
-z	Si
-izpusti	Ncmsi
-CO2	Ncmsn
-nad	Si
-210	Mdc
-g	Ncmsn
-/	Z
-m3	Ncmsn
-10	Mdc
-odstotkov	Ncmpg
-vseh	Pg-npg
-motornih	Agpnpg
-vozil	Ncnpg
-,	Z
-kjer	Cs
-se	Px------y
-bo	Va-f3s-n
-davek	Ncmsn
-povečal	Vmep-sm
-za	Sa
-210	Mdc
-odstotkov	Ncmpg
-.	Z
-Zakon	Ncmsn
-naj	Q
-bi	Va-c
-bolje	Rgc
-preprečeval	Vmpp-sm
-davčne	Agpfsg
-utaje	Ncfsg
-Z	Si
-uvedbo	Ncfsi
-posebnega	Agpmsg
-registra	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-predpogoj	Agpnsn
-za	Sa
-to	Pd-fsa
-obdavčitev	Ncfsa
-,	Z
-pomembno	Rgp
-zmanjšujemo	Vmpr1p
-tudi	Q
-možnosti	Ncfpa
-izogibanja	Ncnsg
-plačevanja	Ncnsg
-davkov	Ncmpg
-,	Z
-je	Va-r3s-n
-še	Q
-pojasnila	Vmep-sf
-Kamnarjeva	Aspfsn
-,	Z
-ki	Cs
-v	Sa
-prihodnje	Agpnsa
-iz	Sg
-naslova	Ncmsg
-davka	Ncmsg
-na	Sa
-motorna	Agpnpa
-vozila	Ncnpa
-pričakuje	Vmpr3s
-dodatne	Agpfpa
-prilive	Ncfpa
-v	Sa
-državni	Agpmsay
-proračun	Ncmsan
-.	Z
-Poslanec	Ncmsn
-SDS	Npmsn
-Andrej	Npmsn
-Vizjak	Npmsn
-SDS	Npmsn
-in	Cc
-SNS	Npmsn
-zakona	Ncmsg
-v	Sl
-tej	Pd-fsl
-obliki	Ncfsl
-ne	Q
-podpirata	Vmpr3d
-Andrej	Npmsn
-Vizjak	Npmsn
-SDS	Npmsn
-je	Va-r3s-n
-vladi	Ncfsd
-očital	Vmpp-sm
-,	Z
-da	Cs
-želi	Vmpr3s
-pod	Si
-krinko	Ncfsa
-zelene	Agpfsg
-davčne	Agpfsg
-reforme	Ncfsg
-obremeniti	Vmen
-predvsem	Q
-srednji	Agpmsay
-sloj	Ncmsan
-in	Cc
-uvesti	Vmen
-obdavčitev	Ncfsa
-za	Sa
-motorje	Ncmpa
-.	Z
-To	Pd-nsn
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-ni	Va-r3s-y
-zelena	Agpfsn
-davčna	Agpfsn
-reforma	Ncfsn
-,	Z
-temveč	Cc
-skrb	Ncfsn
-za	Sa
-polnjenje	Ncnsa
-državnega	Agpmsg
-proračuna	Ncmsg
-preko	Sg
-srednjega	Agpmsg
-sloja	Ncmsg
-.	Z
-V	Sl
-poslanski	Agpfsl
-skupini	Ncfsl
-SDS	Npfsn
-so	Va-r3p-n
-kritični	Agpmpn
-tudi	Q
-do	Sg
-progresivnosti	Ncfsg
-lestvice	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-po	Sl
-podatkih	Ncmpl
-poznavalcev	Ncmpg
-,	Z
-tako	Rgp
-Vizjak	Npmsn
-,	Z
-najbolj	Rgs
-radikalna	Agpfsn
-med	Si
-vsem	Pg-fpi
-članicami	Ncfpi
-EU	Npfsg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-dejal	Vmep-sm
-še	Q
-,	Z
-da	Cs
-zaradi	Sg
-negativnih	Agpmpg
-učinkov	Ncmpg
-v	Sl
-poslanski	Agpfsl
-skupini	Ncfsl
-SDS	Npmsg
-zakona	Ncmsg
-ne	Q
-bodo	Va-f3p-n
-podprli	Vmep-pm
-,	Z
-v	Sl
-prihodnjih	Agpfpl
-obravnavah	Ncfpl
-pa	Cc
-bodo	Va-f3p-n
-pripravili	Vmep-pm
-ustrezne	Agpmpa
-amandmaje	Ncmpa
-.	Z
-V	Sl
-poslanski	Agpfsl
-skupini	Ncfsl
-SNS	Npfsg
-novelo	Ncfsa
-zakona	Ncmsg
-o	Sl
-davku	Ncmsl
-na	Sa
-motorna	Agpnpa
-vozila	Ncnpa
-podpirajo	Vmpr3p
-zgolj	Q
-v	Sl
-delu	Ncnsl
-,	Z
-ki	Cs
-se	Px------y
-nanaša	Vmpr3s
-na	Sa
-večji	Agcmsay
-nadzor	Ncmsan
-pobiranja	Ncnsg
-davkov	Ncmpg
-iz	Sg
-tega	Pd-msg
-naslova	Ncmsg
-,	Z
-saj	Cc
-obstoječa	Appfsn
-ureditev	Ncfsn
-ni	Va-r3s-y
-onemogočala	Vmpp-sf
-davčnih	Agpfpg
-utaj	Ncfpg
-.	Z
-So	Va-r3p-n
-pa	Cc
-po	Sl
-besedah	Ncfpl
-Srečka	Npmsg
-Prijatelja	Ncmsg
-previsoke	Agpfsg
-stopnje	Ncfsg
-obdavčitve	Ncfsg
-,	Z
-prevelika	Agpfsn
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-razlika	Ncfsn
-med	Si
-obdavčitvijo	Ncfsi
-bencinskega	Agpmsg
-in	Cc
-dizelskega	Agpmsg
-motorja	Ncmsg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-opozoril	Vmep-sm
-še	Q
-,	Z
-da	Cs
-Slovenija	Npfsn
-nima	Vmpr3s-y
-ekološke	Agpfsg
-takse	Ncfsg
-za	Sa
-tovornjake	Ncmpa
-,	Z
-ki	Cs
-najbolj	Rgs
-obremenjujejo	Vmpr3p
-tako	Pd-nsa
-okolje	Ncnsa
-kot	Cs
-cestno	Agpfsa
-infrastrukturo	Ncfsa
-.	Z
-V	Sl
-poslanski	Agpfsl
-skupini	Ncfsl
-SNS	Npfsg
-zato	Cc
-zakona	Ncmsg
-v	Sl
-tej	Pd-fsl
-obliki	Ncfsl
-ne	Q
-bodo	Va-f3p-n
-podprli	Vmep-pm
-.	Z
-Druge	Mlpfsg
-poslanske	Agpfsg
-skupine	Ncfsg
-kljub	Sd
-določenim	Appfpd
-pomanjkljivostim	Ncfpd
-zakon	Ncmsan
-podpirajo	Vmpr3p
-Kot	Cs
-je	Va-r3s-n
-povedal	Vmep-sm
-Jakob	Npmsn
-Presečnik	Npmsn
-SLS	Npmsn
-v	Sl
-poslanski	Agpfsl
-skupini	Ncfsl
-SLS	Npmsn
-predlog	Ncmsn
-zakonske	Agpfsg
-novele	Ncfsg
-podpirajo	Vmpr3p
-,	Z
-imajo	Vmpr3p-n
-pa	Cc
-pomisleke	Ncmpa
-glede	Sg
-razlike	Ncfsg
-stopnje	Ncfsg
-obdavčitve	Ncfsg
-med	Si
-dizelskimi	Agpmpi
-in	Cc
-bencinskimi	Agpmpi
-motorji	Ncmpi
-.	Z
-Skrbi	Vmpr3s
-jih	Pp3mpa--y
-tudi	Q
-,	Z
-kakšen	Pq-msa
-učinek	Ncmsan
-bo	Va-f3s-n
-imel	Vmpp-sm
-zakon	Ncmsn
-v	Sl
-trenutni	Agpfsl
-situaciji	Ncfsl
-finančne	Agpfsg
-krize	Ncfsg
-.	Z
-Poslanec	Ncmsn
-LDS	Npfsg
-Anton	Npmsn
-Anderlič	Npmsn
-Anton	Npmsn
-Anderlič	Npmsn
-LDS	Npfsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-zakon	Ncmsn
-ne	Q
-pomeni	Vmbr3s
-zgolj	Q
-polnjenja	Ncnsg
-proračunske	Agpfsg
-blagajne	Agpfsg
-,	Z
-in	Cc
-napovedal	Vmep-sm
-,	Z
-da	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-v	Sl
-poslanski	Agpfsl
-skupini	Ncfsl
-LDS	Npfsg
-podprli	Vmep-pm
-.	Z
-Luka	Npmsn
-Juri	Npmsn
-SD	Npmsn
-zakon	Ncmsn
-ocenjuje	Vmpr3s
-kot	Cs
-korak	Ncmsan
-naprej	Rgp
-k	Sd
-t	Ncmsn
-.	Z
-i	Mrc
-.	Z
-zelenim	Agpmpd
-davkom	Ncmpd
-in	Cc
-bi	Va-c
-lahko	Rgp
-postal	Vmep-sm
-odličen	Agpmsnn
-primer	Ncmsn
-dobre	Agpfsg
-prakse	Ncfsg
-tako	Cc
-za	Sa
-članice	Ncfpa
-EU	Npfsg
-kot	Cs
-države	Ncfsg
-izven	Sg
-Unije	Ncfsg
-.	Z
-Cilj	Ncmsn
-spremembe	Ncfsg
-načina	Ncmsg
-obračunavanja	Ncnsg
-davka	Ncmsg
-je	Va-r3s-n
-namreč	Cc
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-spremeniti	Vmen
-strukturo	Ncfsa
-prodanih	Appnpg
-vozil	Ncnpg
-tako	Rgp
-,	Z
-da	Cs
-bo	Va-f3s-n
-prodanih	Appmpg
-manj	Rgc
-okolju	Ncnsd
-neprijaznih	Agpnpg
-vozil	Ncnpg
-.	Z
-Franco	Npmsn
-Juri	Npmsn
-Zares	Rgp
-je	Va-r3s-n
-predlog	Ncmsan
-zakonske	Agpfsg
-novele	Ncfsg
-pozdravil	Vmep-sm
-in	Cc
-poudaril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-ta	Pd-fsn
-namenjena	Appfsn
-predvsem	Q
-spodbujanju	Ncnsd
-tehnologij	Ncfpg
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-bistveno	Rgp
-znižale	Vmep-pf
-emisije	Ncfpa
-CO2	Ncmsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-določene	Appfpa
-stvari	Ncfpa
-lahko	Rgp
-še	Q
-popravili	Vmep-pm
-,	Z
-na	Sa
-primer	Ncmsan
-razlike	Ncfpa
-med	Si
-dizelskimi	Agpmpi
-in	Cc
-bencinskimi	Agpmpi
-motorji	Ncmpi
-.	Z
-Tudi	Q
-poslanska	Agpfsn
-skupina	Ncfsn
-DeSUS	Npmsn
-podpira	Vmpr3s
-predlog	Ncmsan
-zakona	Ncmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-onemogočil	Vmep-sm
-davčne	Agpfpa
-utaje	Ncfpa
-.	Z
+token	tag	lemma
+Poslanci	mte:Ncmpn	poslanec
+v	mte:Sl	v
+državnem	mte:Agpmsl	državen
+zboru	mte:Ncmsl	zbor
+prvič	mte:Rgp	prvič
+obravnavajo	mte:Vmpr3p	obravnavati
+novelo	mte:Ncfsa	novela
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+davku	mte:Ncmsl	davek
+na	mte:Sa	na
+motorna	mte:Agpnpa	motoren
+vozila	mte:Ncnpa	vozilo
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+uvedel	mte:Vmep-sm	uvedeti
+novo	mte:Agpfsa	nov
+obdavčitev	mte:Ncfsa	obdavčitev
+vozil	mte:Ncnpg	vozilo
+glede	mte:Rgp	glede
+na	mte:Sa	na
+izpuste	mte:Ncmpa	izpust
+CO2	mte:Ncmsn	CO2
+.	mte:Z	.
+V	mte:Sl	v
+SDS	mte:Npfsl	SDS
+in	mte:Cc	in
+SNS	mte:Npmsn	SNS
+zakona	mte:Ncmsg	zakon
+ne	mte:Q	ne
+podpirajo	mte:Vmpr3p	podpirati
+.	mte:Z	.
+Državna	mte:Agpfsn	državen
+sekretarka	mte:Ncfsn	sekretarka
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Helena	mte:Npfsn	Helena
+Kamnar	mte:Npfsn	Kamnar
+Novela	mte:Ncfsn	novela
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+davku	mte:Ncmsl	davek
+na	mte:Sa	na
+motorna	mte:Agpnpa	motoren
+vozila	mte:Ncnpa	vozilo
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+državne	mte:Agpfsg	državen
+sekretarke	mte:Ncfsg	sekretarka
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Helene	mte:Npfsg	Helena
+Kamnar	mte:Npfsg	Kamnar
+predstavlja	mte:Vmpr3s	predstavljati
+enega	mte:Mlpmsa	en
+od	mte:Sg	od
+pomembnih	mte:Agpmpg	pomemben
+elementov	mte:Ncmpg	element
+t	mte:Ncmsn	t
+.	mte:Z	.
+i	mte:Ncmsn	i
+.	mte:Z	.
+zelene	mte:Agpfsg	zelen
+davčne	mte:Agpfsg	davčen
+reforme	mte:Ncfpa	reforma
+.	mte:Z	.
+Bistvo	mte:Ncnsa	bistvo
+zakonske	mte:Agpfsg	zakonski
+novele	mte:Ncfsg	novela
+je	mte:Va-r3s-n	biti
+prehod	mte:Ncmsn	prehod
+iz	mte:Sg	iz
+obdavčitve	mte:Ncfsg	obdavčitev
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+cene	mte:Ncfsg	cena
+avtomobilov	mte:Ncmpg	avtomobil
+na	mte:Sa	na
+obdavčitev	mte:Ncfsa	obdavčitev
+po	mte:Sl	po
+izpustih	mte:Ncmpl	izpust
+CO2	mte:Ncmsn	CO2
+.	mte:Z	.
+Kot	mte:Cs	kot
+predvideva	mte:Vmpr3s	predvidevati
+novela	mte:Ncfsn	novela
+zakona	mte:Ncmsg	zakon
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+obdavčeni	mte:Appmpn	obdavčen
+tudi	mte:Q	tudi
+motorji	mte:Ncmpn	motor
+,	mte:Z	,
+ki	mte:Cs	ki
+doslej	mte:Rgp	doslej
+niso	mte:Va-r3p-y	biti
+bili	mte:Va-p-pm	biti
+predmet	mte:Ncmsn	predmet
+obdavčitve	mte:Ncfsg	obdavčitev
+,	mte:Z	,
+avtomobili	mte:Ncmpn	avtomobil
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+obdavčeni	mte:Appmpn	obdavčen
+po	mte:Sl	po
+tristopenjski	mte:Agpfsl	tristopenjski
+progresivni	mte:Agpfsl	progresiven
+lestvici	mte:Ncfsl	lestvica
+glede	mte:Rgp	glede
+na	mte:Sa	na
+izpuste	mte:Ncmpa	izpust
+CO2	mte:Ncmsn	CO2
+.	mte:Z	.
+V	mte:Sl	v
+najnižjem	mte:Agsmsl	nizek
+razredu	mte:Ncmsl	razred
+so	mte:Va-r3p-n	biti
+avtomobili	mte:Ncmpn	avtomobil
+z	mte:Si	z
+izpusti	mte:Ncmpi	izpustiti
+do	mte:Sg	do
+150	mte:Mdc	150
+g	mte:Ncmsn	g
+/	mte:Z	/
+m3	mte:Ncmsn	m3
+.	mte:Z	.
+V	mte:Sl	v
+tem	mte:Pd-msl	ta
+razredu	mte:Ncmsl	razred
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+,	mte:Z	,
+tako	mte:Rgp	tako
+Kamnarjeva	mte:Aspnpn	Kamnarjev
+,	mte:Z	,
+davki	mte:Ncmpn	davek
+znižali	mte:Vmep-pm	znižati
+,	mte:Z	,
+posledično	mte:Rgp	posledično
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+znižale	mte:Vmep-pf	znižati
+tudi	mte:Q	tudi
+cene	mte:Ncfpn	cena
+drobnoprodajnih	mte:Agpfpg	drobnopropajen
+cen	mte:Ncfpg	cena
+.	mte:Z	.
+V	mte:Sl	v
+srednjem	mte:Agpmsl	srednji
+razredu	mte:Ncmsl	razred
+so	mte:Va-r3p-n	biti
+avtomobili	mte:Ncmpn	avtomobil
+z	mte:Si	z
+izpusti	mte:Ncmsi	izpustiti
+CO2	mte:Ncmsn	CO2
+med	mte:Si	med
+150	mte:Mdc	150
+in	mte:Cc	in
+210	mte:Mdc	210
+g	mte:Ncmsn	g
+/	mte:Z	/
+m3	mte:Ncmsn	m3
+približno	mte:Rgp	približno
+50	mte:Mdc	50
+odstotkov	mte:Ncmpg	odstotek
+vseh	mte:Pg-npg	ves
+motornih	mte:Agpnpg	motoren
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+končni	mte:Agpfsl	končen
+fazi	mte:Ncfsl	faza
+obdavčeni	mte:Appmpn	obdavčen
+za	mte:Sa	za
+150	mte:Mdc	150
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+velikega	mte:Agpmsg	velik
+učinka	mte:Ncmsg	učinek
+in	mte:Cc	in
+trenutnih	mte:Agpfpg	trenuten
+gospodarskih	mte:Agpfpg	gospodarski
+razmer	mte:Ncfpg	razmera
+novela	mte:Ncfsg	novela
+zakona	mte:Ncmsg	zakon
+namreč	mte:Cc	namreč
+predvideva	mte:Vmpr3s	predvidevati
+enoletno	mte:Agpnsa	enoleten
+prehodno	mte:Agpnsa	prehoden
+obdobje	mte:Ncnsa	obdobje
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+povišanje	mte:Ncnsn	povišanje
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+motorna	mte:Agpnpa	motoren
+vozila	mte:Ncnpa	vozilo
+iz	mte:Sg	iz
+drugega	mte:Mlpmsg	drug
+razreda	mte:Ncmsg	razred
+le	mte:Q	le
+od	mte:Sg	od
+dve	mte:Mlcfda	dva
+-	mte:Z	-
+do	mte:Sg	do
+desetodstotno	mte:Rgp	desetodstotno
+.	mte:Z	.
+V	mte:Sa	v
+tretji	mte:Mlomsl	tretji
+razred	mte:Ncmsan	razred
+sodijo	mte:Vmpr3p	soditi
+motorna	mte:Agpnpa	motoren
+vozila	mte:Ncnpa	vozilo
+z	mte:Si	z
+izpusti	mte:Ncmsi	izpustiti
+CO2	mte:Ncmsn	CO2
+nad	mte:Si	nad
+210	mte:Mdc	210
+g	mte:Ncmsn	g
+/	mte:Z	/
+m3	mte:Ncmsn	m3
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+vseh	mte:Pg-npg	ves
+motornih	mte:Agpnpg	motoren
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+davek	mte:Ncmsn	davek
+povečal	mte:Vmep-sm	povečati
+za	mte:Sa	za
+210	mte:Mdc	210
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Zakon	mte:Ncmsn	zakon
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bolje	mte:Rgc	dobro
+preprečeval	mte:Vmpp-sm	preprečevati
+davčne	mte:Agpfsg	davčen
+utaje	mte:Ncfsg	utaj
+Z	mte:Si	z
+uvedbo	mte:Ncfsi	uvedba
+posebnega	mte:Agpmsg	poseben
+registra	mte:Ncmsg	register
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+predpogoj	mte:Agpnsn	predpogoj
+za	mte:Sa	za
+to	mte:Pd-fsa	ta
+obdavčitev	mte:Ncfsa	obdavčitev
+,	mte:Z	,
+pomembno	mte:Rgp	pomemben
+zmanjšujemo	mte:Vmpr1p	zmanjševati
+tudi	mte:Q	tudi
+možnosti	mte:Ncfpa	možnost
+izogibanja	mte:Ncnsg	izogibanje
+plačevanja	mte:Ncnsg	plačevanje
+davkov	mte:Ncmpg	davek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pojasnila	mte:Vmep-sf	pojasniti
+Kamnarjeva	mte:Aspfsn	Kamnarjev
+,	mte:Z	,
+ki	mte:Cs	ki
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+iz	mte:Sg	iz
+naslova	mte:Ncmsg	naslov
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+motorna	mte:Agpnpa	motoren
+vozila	mte:Ncnpa	vozilo
+pričakuje	mte:Vmpr3s	pričakovati
+dodatne	mte:Agpfpa	dodaten
+prilive	mte:Ncfpa	priliva
+v	mte:Sa	v
+državni	mte:Agpmsay	državen
+proračun	mte:Ncmsan	proračun
+.	mte:Z	.
+Poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsn	SDS
+Andrej	mte:Npmsn	Andrej
+Vizjak	mte:Npmsn	Vizjak
+SDS	mte:Npmsn	SDS
+in	mte:Cc	in
+SNS	mte:Npmsn	SNS
+zakona	mte:Ncmsg	zakon
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+obliki	mte:Ncfsl	oblika
+ne	mte:Q	ne
+podpirata	mte:Vmpr3d	podpirati
+Andrej	mte:Npmsn	Andrej
+Vizjak	mte:Npmsn	Vizjak
+SDS	mte:Npmsn	SDS
+je	mte:Va-r3s-n	biti
+vladi	mte:Ncfsd	vlada
+očital	mte:Vmpp-sm	očitati
+,	mte:Z	,
+da	mte:Cs	da
+želi	mte:Vmpr3s	želeti
+pod	mte:Si	pod
+krinko	mte:Ncfsa	krinka
+zelene	mte:Agpfsg	zelen
+davčne	mte:Agpfsg	davčen
+reforme	mte:Ncfsg	reforma
+obremeniti	mte:Vmen	obremeniti
+predvsem	mte:Q	predvsem
+srednji	mte:Agpmsay	srednji
+sloj	mte:Ncmsan	sloj
+in	mte:Cc	in
+uvesti	mte:Vmen	uvesti
+obdavčitev	mte:Ncfsa	obdavčitev
+za	mte:Sa	za
+motorje	mte:Ncmpa	motor
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+ni	mte:Va-r3s-y	biti
+zelena	mte:Agpfsn	zelen
+davčna	mte:Agpfsn	davčen
+reforma	mte:Ncfsn	reforma
+,	mte:Z	,
+temveč	mte:Cc	temveč
+skrb	mte:Ncfsn	skrb
+za	mte:Sa	za
+polnjenje	mte:Ncnsa	polnjenje
+državnega	mte:Agpmsg	državen
+proračuna	mte:Ncmsg	proračun
+preko	mte:Sg	preko
+srednjega	mte:Agpmsg	srednji
+sloja	mte:Ncmsg	sloj
+.	mte:Z	.
+V	mte:Sl	v
+poslanski	mte:Agpfsl	poslanski
+skupini	mte:Ncfsl	skupina
+SDS	mte:Npfsn	SDS
+so	mte:Va-r3p-n	biti
+kritični	mte:Agpmpn	kritičen
+tudi	mte:Q	tudi
+do	mte:Sg	do
+progresivnosti	mte:Ncfsg	progresivnost
+lestvice	mte:Ncfsg	lestvica
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+poznavalcev	mte:Ncmpg	poznavalec
+,	mte:Z	,
+tako	mte:Rgp	tako
+Vizjak	mte:Npmsn	Vizjak
+,	mte:Z	,
+najbolj	mte:Rgs	najbolj
+radikalna	mte:Agpfsn	radikalen
+med	mte:Si	med
+vsem	mte:Pg-fpi	ves
+članicami	mte:Ncfpi	članica
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+zaradi	mte:Sg	zaradi
+negativnih	mte:Agpmpg	negativen
+učinkov	mte:Ncmpg	učinek
+v	mte:Sl	v
+poslanski	mte:Agpfsl	poslanski
+skupini	mte:Ncfsl	skupina
+SDS	mte:Npmsg	SDS
+zakona	mte:Ncmsg	zakon
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+podprli	mte:Vmep-pm	podpreti
+,	mte:Z	,
+v	mte:Sl	v
+prihodnjih	mte:Agpfpl	prihodnji
+obravnavah	mte:Ncfpl	obravnava
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+pripravili	mte:Vmep-pm	pripraviti
+ustrezne	mte:Agpmpa	ustrezen
+amandmaje	mte:Ncmpa	amandma
+.	mte:Z	.
+V	mte:Sl	v
+poslanski	mte:Agpfsl	poslanski
+skupini	mte:Ncfsl	skupina
+SNS	mte:Npfsg	SNS
+novelo	mte:Ncfsa	novela
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+davku	mte:Ncmsl	davek
+na	mte:Sa	na
+motorna	mte:Agpnpa	motoren
+vozila	mte:Ncnpa	vozilo
+podpirajo	mte:Vmpr3p	podpirati
+zgolj	mte:Q	zgolj
+v	mte:Sl	v
+delu	mte:Ncnsl	del
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+nanaša	mte:Vmpr3s	nanašati
+na	mte:Sa	na
+večji	mte:Agcmsay	velik
+nadzor	mte:Ncmsan	nadzor
+pobiranja	mte:Ncnsg	pobiranje
+davkov	mte:Ncmpg	davek
+iz	mte:Sg	iz
+tega	mte:Pd-msg	ta
+naslova	mte:Ncmsg	naslov
+,	mte:Z	,
+saj	mte:Cc	saj
+obstoječa	mte:Appfsn	obstoječ
+ureditev	mte:Ncfsn	ureditev
+ni	mte:Va-r3s-y	biti
+onemogočala	mte:Vmpp-sf	onemogočati
+davčnih	mte:Agpfpg	davčen
+utaj	mte:Ncfpg	utaj
+.	mte:Z	.
+So	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Srečka	mte:Npmsg	Srečka
+Prijatelja	mte:Ncmsg	prijatelj
+previsoke	mte:Agpfsg	previsok
+stopnje	mte:Ncfsg	stopnja
+obdavčitve	mte:Ncfsg	obdavčitev
+,	mte:Z	,
+prevelika	mte:Agpfsn	prevelik
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+razlika	mte:Ncfsn	razlika
+med	mte:Si	med
+obdavčitvijo	mte:Ncfsi	obdavčitev
+bencinskega	mte:Agpmsg	bencinski
+in	mte:Cc	in
+dizelskega	mte:Agpmsg	dizelski
+motorja	mte:Ncmsg	motor
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+Slovenija	mte:Npfsn	Slovenija
+nima	mte:Vmpr3s-y	imeti
+ekološke	mte:Agpfsg	ekološki
+takse	mte:Ncfsg	taksa
+za	mte:Sa	za
+tovornjake	mte:Ncmpa	tovornjak
+,	mte:Z	,
+ki	mte:Cs	ki
+najbolj	mte:Rgs	najbolj
+obremenjujejo	mte:Vmpr3p	obremenjevati
+tako	mte:Pd-nsa	tak
+okolje	mte:Ncnsa	okolje
+kot	mte:Cs	kot
+cestno	mte:Agpfsa	cestno
+infrastrukturo	mte:Ncfsa	infrastruktura
+.	mte:Z	.
+V	mte:Sl	v
+poslanski	mte:Agpfsl	poslanski
+skupini	mte:Ncfsl	skupina
+SNS	mte:Npfsg	SNS
+zato	mte:Cc	zato
+zakona	mte:Ncmsg	zakon
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+obliki	mte:Ncfsl	oblika
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+podprli	mte:Vmep-pm	podpreti
+.	mte:Z	.
+Druge	mte:Mlpfsg	drug
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+kljub	mte:Sd	kljub
+določenim	mte:Appfpd	določen
+pomanjkljivostim	mte:Ncfpd	pomanjkljivost
+zakon	mte:Ncmsan	zakon
+podpirajo	mte:Vmpr3p	podpirati
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Jakob	mte:Npmsn	Jakob
+Presečnik	mte:Npmsn	Presečnik
+SLS	mte:Npmsn	SLS
+v	mte:Sl	v
+poslanski	mte:Agpfsl	poslanski
+skupini	mte:Ncfsl	skupina
+SLS	mte:Npmsn	SLS
+predlog	mte:Ncmsn	predlog
+zakonske	mte:Agpfsg	zakonski
+novele	mte:Ncfsg	novela
+podpirajo	mte:Vmpr3p	podpirati
+,	mte:Z	,
+imajo	mte:Vmpr3p-n	imeti
+pa	mte:Cc	pa
+pomisleke	mte:Ncmpa	pomislek
+glede	mte:Sg	glede
+razlike	mte:Ncfsg	razlika
+stopnje	mte:Ncfsg	stopnja
+obdavčitve	mte:Ncfsg	obdavčitev
+med	mte:Si	med
+dizelskimi	mte:Agpmpi	dizelski
+in	mte:Cc	in
+bencinskimi	mte:Agpmpi	bencinski
+motorji	mte:Ncmpi	motor
+.	mte:Z	.
+Skrbi	mte:Vmpr3s	skrbeti
+jih	mte:Pp3mpa--y	on
+tudi	mte:Q	tudi
+,	mte:Z	,
+kakšen	mte:Pq-msa	kakšen
+učinek	mte:Ncmsan	učinek
+bo	mte:Va-f3s-n	biti
+imel	mte:Vmpp-sm	imeti
+zakon	mte:Ncmsn	zakon
+v	mte:Sl	v
+trenutni	mte:Agpfsl	trenuten
+situaciji	mte:Ncfsl	situacija
+finančne	mte:Agpfsg	finančen
+krize	mte:Ncfsg	kriza
+.	mte:Z	.
+Poslanec	mte:Ncmsn	poslanec
+LDS	mte:Npfsg	LDS
+Anton	mte:Npmsn	Anton
+Anderlič	mte:Npmsn	Anderlič
+Anton	mte:Npmsn	Anton
+Anderlič	mte:Npmsn	Anderlič
+LDS	mte:Npfsn	LDS
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+zakon	mte:Ncmsn	zakon
+ne	mte:Q	ne
+pomeni	mte:Vmbr3s	pomeniti
+zgolj	mte:Q	zgolj
+polnjenja	mte:Ncnsg	polnjenje
+proračunske	mte:Agpfsg	proračunski
+blagajne	mte:Agpfsg	blagajen
+,	mte:Z	,
+in	mte:Cc	in
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+poslanski	mte:Agpfsl	poslanski
+skupini	mte:Ncfsl	skupina
+LDS	mte:Npfsg	LDS
+podprli	mte:Vmep-pm	podpreti
+.	mte:Z	.
+Luka	mte:Npmsn	Luka
+Juri	mte:Npmsn	Juri
+SD	mte:Npmsn	SD
+zakon	mte:Ncmsn	zakon
+ocenjuje	mte:Vmpr3s	ocenjevati
+kot	mte:Cs	kot
+korak	mte:Ncmsan	korak
+naprej	mte:Rgp	naprej
+k	mte:Sd	k
+t	mte:Ncmsn	t
+.	mte:Z	.
+i	mte:Mrc	i
+.	mte:Z	.
+zelenim	mte:Agpmpd	zelen
+davkom	mte:Ncmpd	davek
+in	mte:Cc	in
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+postal	mte:Vmep-sm	postati
+odličen	mte:Agpmsnn	odličen
+primer	mte:Ncmsn	primer
+dobre	mte:Agpfsg	dober
+prakse	mte:Ncfsg	praksa
+tako	mte:Cc	tako
+za	mte:Sa	za
+članice	mte:Ncfpa	članica
+EU	mte:Npfsg	EU
+kot	mte:Cs	kot
+države	mte:Ncfsg	država
+izven	mte:Sg	izven
+Unije	mte:Ncfsg	unija
+.	mte:Z	.
+Cilj	mte:Ncmsn	cilj
+spremembe	mte:Ncfsg	sprememba
+načina	mte:Ncmsg	način
+obračunavanja	mte:Ncnsg	obračunavanje
+davka	mte:Ncmsg	davek
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+spremeniti	mte:Vmen	spremeniti
+strukturo	mte:Ncfsa	struktura
+prodanih	mte:Appnpg	prodan
+vozil	mte:Ncnpg	vozilo
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+prodanih	mte:Appmpg	prodan
+manj	mte:Rgc	manj
+okolju	mte:Ncnsd	okolje
+neprijaznih	mte:Agpnpg	neprijazen
+vozil	mte:Ncnpg	vozilo
+.	mte:Z	.
+Franco	mte:Npmsn	Franco
+Juri	mte:Npmsn	Juri
+Zares	mte:Rgp	zares
+je	mte:Va-r3s-n	biti
+predlog	mte:Ncmsan	predlog
+zakonske	mte:Agpfsg	zakonski
+novele	mte:Ncfsg	novela
+pozdravil	mte:Vmep-sm	pozdraviti
+in	mte:Cc	in
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-fsn	ta
+namenjena	mte:Appfsn	namenjen
+predvsem	mte:Q	predvsem
+spodbujanju	mte:Ncnsd	spodbujanje
+tehnologij	mte:Ncfpg	tehnologija
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+bistveno	mte:Rgp	bistveno
+znižale	mte:Vmep-pf	znižati
+emisije	mte:Ncfpa	emisija
+CO2	mte:Ncmsn	CO2
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+določene	mte:Appfpa	določen
+stvari	mte:Ncfpa	stvar
+lahko	mte:Rgp	lahko
+še	mte:Q	še
+popravili	mte:Vmep-pm	popraviti
+,	mte:Z	,
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+razlike	mte:Ncfpa	razlika
+med	mte:Si	med
+dizelskimi	mte:Agpmpi	dizelski
+in	mte:Cc	in
+bencinskimi	mte:Agpmpi	bencinski
+motorji	mte:Ncmpi	motor
+.	mte:Z	.
+Tudi	mte:Q	tudi
+poslanska	mte:Agpfsn	poslanski
+skupina	mte:Ncfsn	skupina
+DeSUS	mte:Npmsn	Desus
+podpira	mte:Vmpr3s	podpirati
+predlog	mte:Ncmsan	predlog
+zakona	mte:Ncmsg	zakon
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+onemogočil	mte:Vmep-sm	onemogočiti
+davčne	mte:Agpfpa	davčen
+utaje	mte:Ncfpa	utaj
+.	mte:Z	.
+Zakon	mte:Ncmsn	zakon
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Franca	mte:Npmsg	Franc
+Žnidaršiča	mte:Npmsg	Žnidaršič
+pomeni	mte:Vmbr3s	pomeniti
+izboljšavo	mte:Ncfsa	izboljšava
+veljavnega	mte:Agpmsg	veljaven
+zakona	mte:Ncmsg	zakon
+iz	mte:Sg	iz
+leta	mte:Ncnsg	leto
+1999	mte:Mdc	1999
+in	mte:Cc	in
+premik	mte:Ncmsan	premik
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+obdavčitve	mte:Ncfsg	obdavčitev
+tistih	mte:Pd-mpg	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+bolj	mte:Rgc	bolj
+onesnažujejo	mte:Vmpr3p	onesnaževati
+okolje	mte:Ncnsa	okolje

@@ -1,279 +1,319 @@
-token	tag
-Prejel	Vmep-sm
-le	Q
-659.000	Mdc
-evrov	Ncmpg
-bruto	Ncfsg
-Na	Sl
-vrhu	Ncmsl
-stotih	Mlc-pg
-najbolj	Rgs
-plačanih	Appmpg
-menedžerjev	Ncmpg
-lanskega	Agpnsg
-leta	Ncnsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-že	Q
-razkrili	Vmep-pm
-prejemke	Ncmpa
-,	Z
-se	Px------y
-je	Va-r3s-n
-uvrstil	Vmep-sm
-prvi	Mlomsn
-mož	Ncmsn
-Krke	Npfsg
-Jože	Npmsn
-Colarič	Npmsn
-.	Z
-100	Mdc
-.	Z
-mesto	Ncnsa
-pa	Cc
-zaseda	Vmpr3s
-predsednik	Ncmsn
-uprave	Ncfsg
-NLB	Npfsg
--	Z
-ja	Q
-Božo	Npmsn
-Jašovič	Npmsn
-.	Z
-Lestvico	Ncfsa
-najbolje	Rgs
-plačanih	Appmpg
-slovenskih	Agpmpg
-menedžerjev	Ncmpg
-so	Va-r3p-n
-objavili	Vmep-pm
-v	Sl
-časopisu	Ncmsl
-Dnevnik	Ncmsn
-,	Z
-se	Px------y
-bo	Va-f3s-n
-pa	Cc
-v	Sl
-jesenskih	Agpmpl
-mesecih	Ncmpl
-verjetno	Rgp
-spremenila	Vmep-sf
-,	Z
-saj	Cc
-vse	Pg-fpn
-gospodarske	Agpfpn
-družbe	Ncfpn
-še	Q
-vedno	Rgp
-niso	Va-r3p-y
-objavile	Vmep-pf
-prejemkov	Ncmpg
-članov	Ncmpg
-uprav	Ncfpg
-in	Cc
-nazornih	Agpmpg
-svetov	Ncmpg
-,	Z
-nekatere	Pi-fpn
-pa	Cc
-kljub	Sd
-zakonskim	Agpfpd
-obveznostim	Ncfpd
-tega	Pd-nsg
-ne	Q
-naredijo	Vmer3p
-pregledno	Rgp
-.	Z
-Na	Sl
-vrhu	Ncmsl
-lestvice	Ncfsg
-je	Va-r3s-n
-Jože	Npmsn
-Colarič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-za	Sa
-vodenje	Ncnsa
-Krke	Npfsg
-prejel	Vmep-sm
-659.000	Mdc
-evrov	Ncmpg
-bruto	Agpnsn
-,	Z
-sledita	Vmpr3d
-mu	Pp3msd--y
-član	Ncmsn
-uprave	Ncfsg
-Krke	Npfsg
-Aleš	Npmsn
-Rotar	Npmsn
-521.000	Mdc
-evrov	Ncmpg
-bruto	Agpmsny
-in	Cc
-generalni	Agpmsny
-direktor	Ncmsn
-družbe	Ncfsg
-Scania	Npfsn
-Slovenija	Npfsn
-Harald	Npmsn
-Woitke	Npmsg
-494.711	Mdc
-evrov	Ncmpg
-bruto	Agpnsn
-.	Z
-Ti	Pd-mpn
-menedžerji	Ncmpn
-so	Va-r3p-n
-se	Px------y
-po	Sl
-ugotovitvah	Ncfpl
-Dnevnikovega	Aspmsg
-novinarja	Ncmsg
-Matjaža	Npmsg
-Polaniča	Npmsg
-na	Sa
-vrh	Ncmsan
-zavihteli	Vmep-pm
-predvsem	Q
-zaradi	Sg
-propada	Ncmsg
-gradbenih	Agpmpg
-baronov	Ncmpg
-Ivana	Npmsg
-Zidarja	Npmsg
-in	Cc
-Dušana	Npmsg
-Črnigoja	Npmsg
-,	Z
-ki	Cs
-sta	Va-r3d-n
-v	Sl
-preteklih	Appnpl
-letih	Ncnpl
-služila	Vmpp-dm
-največ	Rgs
-.	Z
-Skupno	Rgp
-so	Va-r3p-n
-prejeli	Vmep-pm
-21	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-v	Sl
-enem	Mlpnsl
-letu	Ncnsl
-Deseterico	Ncfsa
-najbolje	Rgs
-plačanih	Appmpg
-slovenskih	Agpmpg
-menedžerjev	Ncmpg
-dopolnjujejo	Vmpr3p
-še	Q
-člana	Ncmsa
-uprave	Ncfsg
-Krke	Npfsg
-Zvezdana	Npfsn
-Bajc	Npmsn
-474.000	Mdc
-evrov	Ncmpg
-bruto	Npmsn
-in	Cc
-Vinko	Npmsn
-Zupančič	Npmsn
-379.000	Mdc
-evrov	Ncmpg
-,	Z
-nekdanji	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Save	Npfsg
-Janez	Npmsn
-Bohorič	Npmsn
-313.000	Mdc
-evrov	Ncmpg
-,	Z
-predsednica	Ncfsn
-uprave	Ncfsg
-Probanke	Ncfsg
-Romana	Npmsg
-Pajenk	Npmsn
-310.800	Mdc
-evrov	Ncmpg
-,	Z
-nekdanja	Agpmdn
-člana	Ncmdn
-Savine	Agpfsg
-uprave	Ncfsg
-Vinko	Npmsn
-Perčič	Npmsn
-292.000	Mdc
-evrov	Ncmpg
-in	Cc
-Emil	Npmsn
-Vizovišek	Npmsn
-291.000	Mdc
-evrov	Ncmpg
-ter	Cc
-glavni	Agpmsny
-izvršni	Agpmsny
-direktor	Ncmsn
-SKB	Npmsn
-Andre	Npmsn
--	Z
-Marc	Npmsn
-Prudent	Npmsn
-278.100	Mdc
-evrov	Ncmpg
-.	Z
-Teh	Pd-mpg
-sto	Mlc-pa
-menedžerjev	Ncmpg
-je	Va-r3s-n
-lani	Rgp
-skupno	Rgp
-prejelo	Vmep-sn
-21,1	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-bruto	Ncmsg
-,	Z
-vsak	Pg-msn
-med	Si
-njimi	Pp3mpi
-pa	Cc
-je	Va-r3s-n
-dobil	Vmep-sm
-povprečno	Rgp
-17.600	Mdc
-evrov	Ncmpg
-bruto	Ncmsg
-na	Sa
-mesec	Ncmsan
-.	Z
-Zanimivo	Agpnsn
-je	Va-r3s-n
-tudi	Q
-to	Pd-nsn
-,	Z
-da	Cs
-za	Sa
-uvrstitev	Ncfsa
-na	Sa
-lestvico	Ncfsa
-ni	Va-r3s-y
-treba	Rgp
-,	Z
-da	Cs
-družba	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodiš	Vmpr2s
-,	Z
-posluje	Vmpr3s
-dobro	Rgp
-.	Z
+token	tag	lemma
+Prejel	mte:Vmep-sm	prejeti
+le	mte:Q	le
+659.000	mte:Mdc	659.000
+evrov	mte:Ncmpg	evro
+bruto	mte:Ncfsg	bruto
+Na	mte:Sl	na
+vrhu	mte:Ncmsl	vrh
+stotih	mte:Mlc-pg	sto
+najbolj	mte:Rgs	najbolj
+plačanih	mte:Appmpg	plačan
+menedžerjev	mte:Ncmpg	menedžer
+lanskega	mte:Agpnsg	lanski
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+razkrili	mte:Vmep-pm	razkriti
+prejemke	mte:Ncmpa	prejemek
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+uvrstil	mte:Vmep-sm	uvrstiti
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Krke	mte:Npfsg	Krka
+Jože	mte:Npmsn	Jože
+Colarič	mte:Npmsn	Colarič
+.	mte:Z	.
+100	mte:Mdc	100
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+pa	mte:Cc	pa
+zaseda	mte:Vmpr3s	zasedati
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+NLB	mte:Npfsg	NLB
+-	mte:Z	-
+ja	mte:Q	ja
+Božo	mte:Npmsn	Božo
+Jašovič	mte:Npmsn	Jašovič
+.	mte:Z	.
+Lestvico	mte:Ncfsa	lestvica
+najbolje	mte:Rgs	dobro
+plačanih	mte:Appmpg	plačan
+slovenskih	mte:Agpmpg	slovenski
+menedžerjev	mte:Ncmpg	menedžer
+so	mte:Va-r3p-n	biti
+objavili	mte:Vmep-pm	objaviti
+v	mte:Sl	v
+časopisu	mte:Ncmsl	časopis
+Dnevnik	mte:Ncmsn	dnevnik
+,	mte:Z	,
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+pa	mte:Cc	pa
+v	mte:Sl	v
+jesenskih	mte:Agpmpl	jesenski
+mesecih	mte:Ncmpl	mesec
+verjetno	mte:Rgp	verjetno
+spremenila	mte:Vmep-sf	spremeniti
+,	mte:Z	,
+saj	mte:Cc	saj
+vse	mte:Pg-fpn	ves
+gospodarske	mte:Agpfpn	gospodarski
+družbe	mte:Ncfpn	družba
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+niso	mte:Va-r3p-y	biti
+objavile	mte:Vmep-pf	objaviti
+prejemkov	mte:Ncmpg	prejemek
+članov	mte:Ncmpg	član
+uprav	mte:Ncfpg	uprava
+in	mte:Cc	in
+nazornih	mte:Agpmpg	nazoren
+svetov	mte:Ncmpg	svet
+,	mte:Z	,
+nekatere	mte:Pi-fpn	nekateri
+pa	mte:Cc	pa
+kljub	mte:Sd	kljub
+zakonskim	mte:Agpfpd	zakonski
+obveznostim	mte:Ncfpd	obveznost
+tega	mte:Pd-nsg	ta
+ne	mte:Q	ne
+naredijo	mte:Vmer3p	narediti
+pregledno	mte:Rgp	pregleden
+.	mte:Z	.
+Na	mte:Sl	na
+vrhu	mte:Ncmsl	vrh
+lestvice	mte:Ncfsg	lestvica
+je	mte:Va-r3s-n	biti
+Jože	mte:Npmsn	Jože
+Colarič	mte:Npmsn	Colarič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+vodenje	mte:Ncnsa	vodenje
+Krke	mte:Npfsg	Krka
+prejel	mte:Vmep-sm	prejeti
+659.000	mte:Mdc	659.000
+evrov	mte:Ncmpg	evro
+bruto	mte:Agpnsn	bruto
+,	mte:Z	,
+sledita	mte:Vmpr3d	slediti
+mu	mte:Pp3msd--y	on
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+Krke	mte:Npfsg	Krka
+Aleš	mte:Npmsn	Aleš
+Rotar	mte:Npmsn	Rotar
+521.000	mte:Mdc	521.000
+evrov	mte:Ncmpg	evro
+bruto	mte:Agpmsny	bruto
+in	mte:Cc	in
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Scania	mte:Npfsn	Scania
+Slovenija	mte:Npfsn	Slovenija
+Harald	mte:Npmsn	Harald
+Woitke	mte:Npmsg	Woitka
+494.711	mte:Mdc	494.711
+evrov	mte:Ncmpg	evro
+bruto	mte:Agpnsn	bruto
+.	mte:Z	.
+Ti	mte:Pd-mpn	ta
+menedžerji	mte:Ncmpn	menedžer
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+po	mte:Sl	po
+ugotovitvah	mte:Ncfpl	ugotovitev
+Dnevnikovega	mte:Aspmsg	Dnevnikov
+novinarja	mte:Ncmsg	novinar
+Matjaža	mte:Npmsg	Matjaž
+Polaniča	mte:Npmsg	Polanič
+na	mte:Sa	na
+vrh	mte:Ncmsan	vrh
+zavihteli	mte:Vmep-pm	zavihteti
+predvsem	mte:Q	predvsem
+zaradi	mte:Sg	zaradi
+propada	mte:Ncmsg	propad
+gradbenih	mte:Agpmpg	gradben
+baronov	mte:Ncmpg	baron
+Ivana	mte:Npmsg	Ivan
+Zidarja	mte:Npmsg	Zidar
+in	mte:Cc	in
+Dušana	mte:Npmsg	Dušan
+Črnigoja	mte:Npmsg	Črnigo
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+v	mte:Sl	v
+preteklih	mte:Appnpl	pretekel
+letih	mte:Ncnpl	leto
+služila	mte:Vmpp-dm	služiti
+največ	mte:Rgs	največ
+.	mte:Z	.
+Skupno	mte:Rgp	skupno
+so	mte:Va-r3p-n	biti
+prejeli	mte:Vmep-pm	prejeti
+21	mte:Mdc	21
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+v	mte:Sl	v
+enem	mte:Mlpnsl	en
+letu	mte:Ncnsl	leto
+Deseterico	mte:Ncfsa	deseterica
+najbolje	mte:Rgs	dobro
+plačanih	mte:Appmpg	plačan
+slovenskih	mte:Agpmpg	slovenski
+menedžerjev	mte:Ncmpg	menedžer
+dopolnjujejo	mte:Vmpr3p	dopolnjevati
+še	mte:Q	še
+člana	mte:Ncmsa	član
+uprave	mte:Ncfsg	uprava
+Krke	mte:Npfsg	Krka
+Zvezdana	mte:Npfsn	Zvezdan
+Bajc	mte:Npmsn	Bajc
+474.000	mte:Mdc	474.000
+evrov	mte:Ncmpg	evro
+bruto	mte:Npmsn	bruto
+in	mte:Cc	in
+Vinko	mte:Npmsn	Vinko
+Zupančič	mte:Npmsn	Zupančič
+379.000	mte:Mdc	379.000
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Save	mte:Npfsg	Sava
+Janez	mte:Npmsn	Janez
+Bohorič	mte:Npmsn	Bohorič
+313.000	mte:Mdc	313.000
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+predsednica	mte:Ncfsn	predsednica
+uprave	mte:Ncfsg	uprava
+Probanke	mte:Ncfsg	probanka
+Romana	mte:Npmsg	Roman
+Pajenk	mte:Npmsn	Pajenk
+310.800	mte:Mdc	310.800
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+nekdanja	mte:Agpmdn	nekdanji
+člana	mte:Ncmdn	član
+Savine	mte:Agpfsg	Savin
+uprave	mte:Ncfsg	uprava
+Vinko	mte:Npmsn	Vinko
+Perčič	mte:Npmsn	Perčič
+292.000	mte:Mdc	292.000
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+Emil	mte:Npmsn	Emil
+Vizovišek	mte:Npmsn	Vizovišek
+291.000	mte:Mdc	291.000
+evrov	mte:Ncmpg	evro
+ter	mte:Cc	ter
+glavni	mte:Agpmsny	glaven
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+SKB	mte:Npmsn	SKB
+Andre	mte:Npmsn	Andra
+-	mte:Z	-
+Marc	mte:Npmsn	Marc
+Prudent	mte:Npmsn	Prudent
+278.100	mte:Mdc	278.100
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Teh	mte:Pd-mpg	ta
+sto	mte:Mlc-pa	sto
+menedžerjev	mte:Ncmpg	menedžer
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+skupno	mte:Rgp	skupno
+prejelo	mte:Vmep-sn	prejeti
+21,1	mte:Mdc	21,1
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+bruto	mte:Ncmsg	bruto
+,	mte:Z	,
+vsak	mte:Pg-msn	vsak
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dobil	mte:Vmep-sm	dobiti
+povprečno	mte:Rgp	povprečen
+17.600	mte:Mdc	17.600
+evrov	mte:Ncmpg	evro
+bruto	mte:Ncmsg	bruto
+na	mte:Sa	na
+mesec	mte:Ncmsan	mesec
+.	mte:Z	.
+Zanimivo	mte:Agpnsn	zanimiv
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+da	mte:Cs	da
+za	mte:Sa	za
+uvrstitev	mte:Ncfsa	uvrstitev
+na	mte:Sa	na
+lestvico	mte:Ncfsa	lestvica
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+,	mte:Z	,
+da	mte:Cs	da
+družba	mte:Ncfsn	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodiš	mte:Vmpr2s	voditi
+,	mte:Z	,
+posluje	mte:Vmpr3s	poslovati
+dobro	mte:Agpnsn	dober
+.	mte:Z	.
+Tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+nanjo	mte:Pp3fsa--b	name
+uvrstili	mte:Vmep-pm	uvrstiti
+tudi	mte:Q	tudi
+nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Nove	mte:Agpfsg	nov
+KMB	mte:Ncfsg	KMB
+Matjaž	mte:Npmsn	Matjaž
+Kovačič	mte:Npmsn	Kovačič
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+NLB	mte:Npfsg	NLB
+v	mte:Sl	v
+odhajanju	mte:Ncnsl	odhajanje
+Božo	mte:Npmsn	Božo
+Jašovič	mte:Npmsn	Jašovič
+,	mte:Z	,
+Janez	mte:Npmsn	Janez
+Bohorič	mte:Npmsn	Bohorič
+,	mte:Z	,
+Vinko	mte:Npmsn	Vinko
+Perčič	mte:Npmsn	Perčič
+in	mte:Cc	in
+Emil	mte:Npmsn	Emil
+Vizovišek	mte:Npmsn	Vizovišek
+,	mte:Z	,
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+da	mte:Cs	da
+njihove	mte:Ps3fpnp	njihov
+družbe	mte:Ncfpn	družba
+poslujejo	mte:Vmpr3p	poslovati
+z	mte:Si	z
+ogromnimi	mte:Agpfpi	ogromen
+izgubami	mte:Ncfpi	izguba

@@ -1,596 +1,630 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Če	Cs
-se	Px------y
-za	Si
-podjetji	Ncnpi
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-Davčna	Agpfsn
-uprava	Ncfsn
-RS	Npfsn
-(	Z
-Durs	Npmsn
-)	Z
-osumi	Vmer3s
-utaje	Ncfsg
-davkov	Ncmpg
-in	Cc
-jim	Pp3mpd--y
-po	Sl
-dolgotrajnem	Agpmsl
-postopku	Ncmsl
-tudi	Q
-odvzame	Vmer3s
-davčno	Agpfsa
-številko	Ncfsa
-,	Z
-v	Sl
-večini	Ncfsl
-primerov	Ncmpg
-izgubijo	Vmer3p
-vse	Pg-fpa
-sledi	Vmpr3s
-in	Cc
-so	Va-r3p-n
-le	Q
-nekaj	Rgp
-mesecev	Ncmpg
-kasneje	Rgc
-izbrisana	Appfpn
-iz	Sg
-sodnega	Agpmsg
-registra	Ncmsg
-,	Z
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-letos	Rgp
-zgodilo	Vmep-sn
-,	Z
-da	Cs
-je	Va-r3s-n
-eden	Mlpmsn
-od	Sg
-domnevnih	Agpmpg
-missing	Ncmsn
-traderjev	Ncmpg
-kar	Rgp
-sam	Agpmsnn
-vložil	Vmep-sm
-zahtevo	Ncfsa
-za	Sa
-stečaj	Ncmsan
-.	Z
-Gre	Vmbr3s
-za	Sa
-podjetje	Ncnsa
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronika	Npfsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-italijanski	Agpmsny
-državljan	Ncmsn
-Herman	Npmsn
-Lodolo	Npmsn
-ustanovil	Vmep-sm
-januarja	Ncmsg
-2009	Mdc
-,	Z
-in	Cc
-sicer	Q
-v	Sl
-Šempetru	Npmsl
-pri	Sl
-Gorici	Npfsl
-.	Z
-Še	Q
-isto	Pi-nsa
-leto	Ncnsa
-je	Va-r3s-n
-s	Si
-trgovino	Ncfsi
-na	Sa
-debelo	Agpfsa
-z	Si
-elektronskimi	Agpfpi
-in	Cc
-telekomunikacijskimi	Agpfpi
-napravami	Ncfpi
-in	Cc
-deli	Ncmpi
-ustvarilo	Vmep-sn
-visokih	Agpmpg
-16,7	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-čistih	Agpmpg
-prihodkov	Ncmpg
-od	Sg
-prodaje	Ncfsg
-in	Cc
-ravno	Q
-toliko	Rgp
-v	Sl
-letu	Ncnsl
-2010	Mdc
-.	Z
-Na	Sa
-podatke	Ncmpa
-o	Sl
-prometu	Ncmsl
-pa	Cc
-ni	Va-r3s-y
-postala	Vmep-sf
-pozorna	Agpfsn
-le	Q
-davkarija	Ncfsn
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-Lodoloja	Npmsay
-vzela	Vmep-sf
-pod	Sa
-drobnogled	Ncmsan
-že	Q
-ob	Sl
-njegovem	Ps3mslsm
-prihodu	Ncmsl
-v	Sa
-Slovenijo	Npfsa
-oziroma	Cc
-še	Q
-preden	Cs
-je	Va-r3s-n
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronika	Npfsn
-sploh	Q
-prišla	Vmep-sf
-do	Sg
-davčne	Agpfsg
-številke	Ncfsg
-.	Z
-Tudi	Q
-carinska	Agpfsn
-služba	Ncfsn
-je	Va-r3s-n
-v	Sl
-letih	Ncnpl
-2010	Mdc
-in	Cc
-2011	Mdc
-izvedla	Vmep-sf
-več	Rgc
-pregledov	Ncmpg
-.	Z
-Davčna	Agpfsn
-inšpekcija	Ncfsn
-je	Va-r3s-n
-v	Sl
-začetku	Ncmsl
-leta	Ncnsg
-2011	Mdc
-sume	Ncmpa
-o	Sl
-nepravilnostih	Ncfpl
-pri	Sl
-poslovanju	Ncnsl
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronike	Npfsg
-tudi	Q
-potrdila	Vmep-sf
-,	Z
-Lodolo	Npfsn
-pa	Cc
-bi	Va-c
-moral	Vmpp-sm
-Dursu	Npmsd
-zaradi	Sg
-neupravičene	Agpfsg
-oprostitve	Ncfsg
-DDV	Ncmsg
-poravnati	Vmen
-natanko	Rgp
-60.000	Mdc
-evrov	Ncmpg
-.	Z
-Prve	Mlofpn
-odločbe	Ncfpa
-pa	Cc
-so	Va-r3p-n
-pomenile	Vmbp-pf
-tudi	Q
-konec	Ncmsan
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronike	Ncfsg
-.	Z
-Z	Si
-blokado	Ncfsi
-bančnega	Agpmsg
-računa	Ncmsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-povzročil	Vmep-sm
-"	Z
-račun	Ncmsn
-"	Z
-Dursa	Npmsg
-,	Z
-je	Va-r3s-n
-podjetje	Ncnsn
-ostalo	Vmep-sn
-brez	Sg
-najetih	Agpmpg
-poslovnih	Agpmpg
-prostorov	Ncmpg
-in	Cc
-zunanjega	Agpnsg
-računovodstva	Ncnsg
-.	Z
-Nazadnje	Rgp
-pa	Cc
-mu	Pp3msd--y
-je	Va-r3s-n
-Nova	Agpfsn
-KBM	Npfsn
-junija	Ncmsg
-2011	Mdc
-transakcijski	Agpmsay
-račun	Ncmsan
-zaradi	Sg
-neporavnanih	Agpfpg
-zapadlih	Appfpg
-obveznosti	Ncfpg
-tudi	Q
-zaprla	Vmep-sf
-.	Z
-Konec	Sg
-leta	Ncnsg
-2011	Mdc
-,	Z
-ko	Cs
-je	Va-r3s-n
-Durs	Npmsn
-končal	Vmep-sm
-postopek	Ncmsan
-zoper	Sa
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektroniko	Ncfsa
-,	Z
-je	Va-r3s-n
-ugotovil	Vmep-sm
-še	Q
-dolg	Agpmsnn
-v	Sl
-višini	Ncfsl
-228.600	Mdc
-evrov	Ncmpg
-,	Z
-prav	Q
-tako	Rgp
-iz	Sg
-naslova	Ncmsg
-neplačanega	Agpmsg
-DDV	Ncmsg
-.	Z
-Toda	Cc
-tedaj	Rgp
-o	Sl
-Lodoloju	Npmsl
-ni	Va-r3s-y
-bilo	Va-p-sn
-več	Q
-ne	Cc
-duha	Ncmsg
-ne	Cc
-sluha	Ncmsg
-.	Z
-Durs	Npmsn
-je	Va-r3s-n
-namreč	Cc
-z	Si
-odločbo	Ncfsi
-ugotovil	Vmep-sm
-,	Z
-da	Cs
-ima	Vmpr3s-n
-podjetje	Ncnsn
-vse	Pg-fpa
-značilnosti	Ncfpa
-neplačujočega	Appmsg
-gospodarskega	Agpmsg
-subjekta	Ncmsg
-,	Z
-saj	Cc
-med	Si
-drugim	Mlpmsi
-obstaja	Vmpr3s
-samo	Q
-na	Sl
-papirju	Ncmsl
-,	Z
-stik	Ncmsn
-z	Si
-odgovorno	Agpfsi
-osebo	Ncfsi
-pa	Cc
-ni	Va-r3s-y
-mogoč	Agpmsnn
-že	Q
-več	Rgc
-kot	Cs
-pol	Rgp
-leta	Ncnsg
-.	Z
-Zakaj	Rgp
-je	Va-r3s-n
-Lodolo	Npfsn
-nato	Rgp
-februarja	Ncmsg
-letos	Rgp
-prek	Sg
-Odvetniške	Agpfsg
-pisarne	Ncfsg
-Devetak	Npmsn
-iz	Sg
-Nove	Agpfsg
-Gorice	Npfsg
-vložil	Vmep-sm
-predlog	Ncmsan
-za	Sa
-začetek	Ncmsan
-stečaja	Ncmsg
-,	Z
-ni	Va-r3s-y
-znano	Appnsn
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-presenetilo	Vmep-sn
-tudi	Q
-stečajnega	Agpmsa
-upravitelja	Ncmsay
-Jožeta	Npmsgy
-Podržaja	Npmsg
-,	Z
-ki	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-podjetje	Ncnsn
-na	Sa
-prvi	Mlomsa
-pogled	Ncmsan
-delovalo	Vmpp-sn
-kot	Cs
-tipični	Agpmsny
-neplačujoči	Appmsny
-gospodarski	Agpmsny
-subjekt	Ncmsn
-,	Z
-ki	Cs
-drugim	Mlpmpd
-davčnim	Agpmpd
-zavezancem	Ncmpd
-neupravičeno	Rgp
-omogoča	Vmpr3s
-odbitek	Ncmsan
-vstopnega	Agpmsg
-DDV	Ncmsg
-ali	Cc
-kako	Rgp
-drugače	Rgp
-sodeluje	Vmpr3s
-pri	Sl
-utaji	Ncfsl
-davkov	Ncmpg
-.	Z
-Toda	Cc
-po	Sl
-nekaj	Rgp
-manjših	Agcfpl
-težavah	Ncfpl
-mu	Pp3msd--y
-je	Va-r3s-n
-celo	Q
-uspelo	Vmep-sn
-priti	Vmen
-v	Sa
-stik	Ncmsan
-z	Si
-Lodolom	Npmsi
-,	Z
-ki	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-predal	Vmep-sm
-dokumentacijo	Ncfsa
-za	Sa
-leto	Ncnsa
-2009	Mdc
-in	Cc
-nekaj	Rgp
-za	Sa
-leto	Ncnsa
-2010	Mdc
-(	Z
-fakture	Ncfpa
-brez	Sg
-podpisa	Ncmsg
-in	Cc
-pečata	Ncmsg
-,	Z
-izvršbe	Ncfsg
-zaradi	Sg
-neplačila	Ncnsg
-ter	Cc
-zaprte	Appfsg
-kuverte	Ncfsg
-Dursa	Npmsg
-)	Z
-.	Z
-Podržaju	Ncmsd
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronike	Ncfsg
-ni	Va-r3s-y
-pokopala	Vmep-sf
-zgolj	Q
-izvršba	Ncfsn
-Dursa	Npmsg
-iz	Sg
-februarja	Ncmsg
-2011	Mdc
-,	Z
-ampak	Cc
-tudi	Q
-"	Z
-dobavitelj	Ncmsn
-v	Sl
-Italiji	Npfsl
-,	Z
-ki	Cs
-ni	Va-r3s-y
-dobavil	Vmep-sm
-blaga	Ncnsg
-v	Sl
-vrednosti	Ncfsl
-500.000	Mdc
-evrov	Ncmpg
-"	Z
-.	Z
-Durs	Npmsn
-je	Va-r3s-n
-tudi	Q
-daleč	Rgp
-največji	Agsmsny
-upnik	Ncmsn
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronike	Ncfsg
-.	Z
-Od	Sg
-nje	Pp3fsg
-terja	Vmpr3s
-več	Rgc
-kot	Cs
-400.000	Mdc
-evrov	Ncmpg
-,	Z
-vendar	Cc
-je	Va-r3s-n
-vprašanje	Ncnsn
-,	Z
-kolikšen	Pq-msn
-del	Ncmsn
-tega	Pd-nsg
-bo	Va-f3s-n
-dobil	Vmep-sm
-nazaj	Rgp
-,	Z
-če	Cs
-sploh	Q
-.	Z
-Kljub	Sd
-sodelovanju	Ncnsd
-Lodola	Npmsg
-namreč	Cc
-Podržaj	Npmsn
-ne	Q
-ve	Vmpr3s
-,	Z
-koliko	Rgp
-premoženja	Ncnsg
-naj	Q
-bi	Va-c
-imela	Vmpp-sf
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronika	Npfsn
-.	Z
-Res	Rgp
-mu	Pp3msd--y
-je	Va-r3s-n
-računovodski	Agpmsny
-servis	Ncmsn
-posredoval	Vmbp-sm
-poslovne	Agpmpa
-izkaze	Ncmpa
-,	Z
-a	Cc
-ga	Pp3msa--y
-že	Q
-takoj	Rgp
-opozoril	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-podatki	Ncmpn
-najmanj	Rgs
-nepopolni	Agpmpn
-,	Z
-če	Cs
-ne	Q
-v	Sl
-celoti	Ncfsl
-napačni	Agpmpn
-.	Z
-Tako	Rgp
-ima	Vmpr3s-n
-H	Sd
-.	Z
-L	Ncmsn
-.	Z
-Elektronika	Npfsn
-na	Sl
-papirju	Ncmsl
-kar	Rgp
-1,6	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-premoženja	Ncnsg
-,	Z
-tako	Cc
-da	Cs
-bi	Va-c
-si	Px---d--y
-Lodolo	Npfsa
-lahko	Rgp
-obetal	Vmpp-sm
-celo	Q
-vračilo	Ncnsa
-slabe	Agpfsg
-polovice	Ncfsg
-tega	Pd-msg
-zneska	Ncmsg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Če	mte:Cs	če
+se	mte:Px------y	se
+za	mte:Si	za
+podjetji	mte:Ncnpi	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+Davčna	mte:Agpfsn	davčen
+uprava	mte:Ncfsn	uprava
+RS	mte:Npfsn	RS
+(	mte:Z	(
+Durs	mte:Npmsn	Durs
+)	mte:Z	)
+osumi	mte:Vmer3s	osumiti
+utaje	mte:Ncfsg	utaj
+davkov	mte:Ncmpg	davek
+in	mte:Cc	in
+jim	mte:Pp3mpd--y	on
+po	mte:Sl	po
+dolgotrajnem	mte:Agpmsl	dolgotrajen
+postopku	mte:Ncmsl	postopek
+tudi	mte:Q	tudi
+odvzame	mte:Vmer3s	odvzati
+davčno	mte:Agpfsa	davčen
+številko	mte:Ncfsa	številka
+,	mte:Z	,
+v	mte:Sl	v
+večini	mte:Ncfsl	večina
+primerov	mte:Ncmpg	primer
+izgubijo	mte:Vmer3p	izgubiti
+vse	mte:Pg-fpa	ves
+sledi	mte:Vmpr3s	slediti
+in	mte:Cc	in
+so	mte:Va-r3p-n	biti
+le	mte:Q	le
+nekaj	mte:Rgp	nekaj
+mesecev	mte:Ncmpg	mesec
+kasneje	mte:Rgc	kasno
+izbrisana	mte:Appfpn	izbrisan
+iz	mte:Sg	iz
+sodnega	mte:Agpmsg	soden
+registra	mte:Ncmsg	register
+,	mte:Z	,
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+domnevnih	mte:Agpmpg	domneven
+missing	mte:Ncmsn	missing
+traderjev	mte:Ncmpg	trader
+kar	mte:Rgp	kar
+sam	mte:Agpmsnn	sam
+vložil	mte:Vmep-sm	vložiti
+zahtevo	mte:Ncfsa	zahteva
+za	mte:Sa	za
+stečaj	mte:Ncmsan	stečaj
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+podjetje	mte:Ncnsa	podjetje
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronika	mte:Npfsn	Elektronik
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+italijanski	mte:Agpmsny	italijanski
+državljan	mte:Ncmsn	državljan
+Herman	mte:Npmsn	Herman
+Lodolo	mte:Npmsn	Lodolo
+ustanovil	mte:Vmep-sm	ustanoviti
+januarja	mte:Ncmsg	januar
+2009	mte:Mdc	2009
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+Šempetru	mte:Npmsl	Šempeter
+pri	mte:Sl	pri
+Gorici	mte:Npfsl	Gorica
+.	mte:Z	.
+Še	mte:Q	še
+isto	mte:Pi-nsa	isti
+leto	mte:Ncnsa	leto
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+trgovino	mte:Ncfsi	trgovina
+na	mte:Sa	na
+debelo	mte:Agpfsa	debel
+z	mte:Si	z
+elektronskimi	mte:Agpfpi	elektronski
+in	mte:Cc	in
+telekomunikacijskimi	mte:Agpfpi	telekomunikacijski
+napravami	mte:Ncfpi	naprava
+in	mte:Cc	in
+deli	mte:Ncmpi	del
+ustvarilo	mte:Vmep-sn	ustvariti
+visokih	mte:Agpmpg	visok
+16,7	mte:Mdc	16,7
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+čistih	mte:Agpmpg	čist
+prihodkov	mte:Ncmpg	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+in	mte:Cc	in
+ravno	mte:Q	ravno
+toliko	mte:Rgp	toliko
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2010	mte:Mdc	2010
+.	mte:Z	.
+Na	mte:Sa	na
+podatke	mte:Ncmpa	podatek
+o	mte:Sl	o
+prometu	mte:Ncmsl	promet
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+postala	mte:Vmep-sf	postati
+pozorna	mte:Agpfsn	pozoren
+le	mte:Q	le
+davkarija	mte:Ncfsn	davkarija
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+Lodoloja	mte:Npmsay	Lodoloj
+vzela	mte:Vmep-sf	vzeti
+pod	mte:Sa	pod
+drobnogled	mte:Ncmsan	drobnogled
+že	mte:Q	že
+ob	mte:Sl	ob
+njegovem	mte:Ps3mslsm	njegov
+prihodu	mte:Ncmsl	prihod
+v	mte:Sa	v
+Slovenijo	mte:Npfsa	Slovenija
+oziroma	mte:Cc	oziroma
+še	mte:Q	še
+preden	mte:Cs	preden
+je	mte:Va-r3s-n	biti
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronika	mte:Npfsn	Elektronik
+sploh	mte:Q	sploh
+prišla	mte:Vmep-sf	priti
+do	mte:Sg	do
+davčne	mte:Agpfsg	davčen
+številke	mte:Ncfsg	številka
+.	mte:Z	.
+Tudi	mte:Q	tudi
+carinska	mte:Agpfsn	carinski
+služba	mte:Ncfsn	služba
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+letih	mte:Ncnpl	leto
+2010	mte:Mdc	2010
+in	mte:Cc	in
+2011	mte:Mdc	2011
+izvedla	mte:Vmep-sf	izvesti
+več	mte:Rgc	več
+pregledov	mte:Ncmpg	pregled
+.	mte:Z	.
+Davčna	mte:Agpfsn	davčen
+inšpekcija	mte:Ncfsn	inšpekcija
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+sume	mte:Ncmpa	suma
+o	mte:Sl	o
+nepravilnostih	mte:Ncfpl	nepravilnost
+pri	mte:Sl	pri
+poslovanju	mte:Ncnsl	poslovanje
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronike	mte:Npfsg	Elektronika
+tudi	mte:Q	tudi
+potrdila	mte:Vmep-sf	potrditi
+,	mte:Z	,
+Lodolo	mte:Npfsn	Lodolo
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+moral	mte:Vmpp-sm	morati
+Dursu	mte:Npmsd	Durs
+zaradi	mte:Sg	zaradi
+neupravičene	mte:Agpfsg	neupravičen
+oprostitve	mte:Ncfsg	oprostitev
+DDV	mte:Ncmsg	DDV
+poravnati	mte:Vmen	poravnati
+natanko	mte:Rgp	natanko
+60.000	mte:Mdc	60.000
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Prve	mte:Mlofpn	prvi
+odločbe	mte:Ncfpa	odločba
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+pomenile	mte:Vmbp-pf	pomeniti
+tudi	mte:Q	tudi
+konec	mte:Ncmsan	konec
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronike	mte:Ncfsg	elektronika
+.	mte:Z	.
+Z	mte:Si	z
+blokado	mte:Ncfsi	blokada
+bančnega	mte:Agpmsg	bančen
+računa	mte:Ncmsg	račun
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+povzročil	mte:Vmep-sm	povzročiti
+"	mte:Z	"
+račun	mte:Ncmsn	račun
+"	mte:Z	"
+Dursa	mte:Npmsg	Durs
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+ostalo	mte:Vmep-sn	ostati
+brez	mte:Sg	brez
+najetih	mte:Agpmpg	najet
+poslovnih	mte:Agpmpg	posloven
+prostorov	mte:Ncmpg	prostor
+in	mte:Cc	in
+zunanjega	mte:Agpnsg	zunanji
+računovodstva	mte:Ncnsg	računovodstvo
+.	mte:Z	.
+Nazadnje	mte:Rgp	nazadnje
+pa	mte:Cc	pa
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+Nova	mte:Agpfsn	nov
+KBM	mte:Npfsn	KBM
+junija	mte:Ncmsg	junij
+2011	mte:Mdc	2011
+transakcijski	mte:Agpmsay	transakcijski
+račun	mte:Ncmsan	račun
+zaradi	mte:Sg	zaradi
+neporavnanih	mte:Agpfpg	neporavnan
+zapadlih	mte:Appfpg	zapadel
+obveznosti	mte:Ncfpg	obveznost
+tudi	mte:Q	tudi
+zaprla	mte:Vmep-sf	zapreti
+.	mte:Z	.
+Konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Durs	mte:Npmsn	Durs
+končal	mte:Vmep-sm	končati
+postopek	mte:Ncmsan	postopek
+zoper	mte:Sa	zoper
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektroniko	mte:Ncfsa	elektronika
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ugotovil	mte:Vmep-sm	ugotoviti
+še	mte:Q	še
+dolg	mte:Agpmsnn	dolg
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+228.600	mte:Mdc	228.600
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+iz	mte:Sg	iz
+naslova	mte:Ncmsg	naslov
+neplačanega	mte:Agpmsg	neplačan
+DDV	mte:Ncmsg	DDV
+.	mte:Z	.
+Toda	mte:Cc	toda
+tedaj	mte:Rgp	tedaj
+o	mte:Sl	o
+Lodoloju	mte:Npmsl	Lodoloj
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+več	mte:Q	več
+ne	mte:Cc	ne
+duha	mte:Ncmsg	duh
+ne	mte:Cc	ne
+sluha	mte:Ncmsg	sluh
+.	mte:Z	.
+Durs	mte:Npmsn	Durs
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+z	mte:Si	z
+odločbo	mte:Ncfsi	odločba
+ugotovil	mte:Vmep-sm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+podjetje	mte:Ncnsn	podjetje
+vse	mte:Pg-fpa	ves
+značilnosti	mte:Ncfpa	značilnost
+neplačujočega	mte:Appmsg	neplačujoč
+gospodarskega	mte:Agpmsg	gospodarski
+subjekta	mte:Ncmsg	subjekt
+,	mte:Z	,
+saj	mte:Cc	saj
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+obstaja	mte:Vmpr3s	obstajati
+samo	mte:Q	samo
+na	mte:Sl	na
+papirju	mte:Ncmsl	papir
+,	mte:Z	,
+stik	mte:Ncmsn	stik
+z	mte:Si	z
+odgovorno	mte:Agpfsi	odgovoren
+osebo	mte:Ncfsi	oseba
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+mogoč	mte:Agpmsnn	mogoč
+že	mte:Q	že
+več	mte:Rgc	več
+kot	mte:Cs	kot
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Zakaj	mte:Rgp	zakaj
+je	mte:Va-r3s-n	biti
+Lodolo	mte:Npfsn	Lodolo
+nato	mte:Rgp	nato
+februarja	mte:Ncmsg	februar
+letos	mte:Rgp	letos
+prek	mte:Sg	prek
+Odvetniške	mte:Agpfsg	odvetniški
+pisarne	mte:Ncfsg	pisarna
+Devetak	mte:Npmsn	Devetak
+iz	mte:Sg	iz
+Nove	mte:Agpfsg	nov
+Gorice	mte:Npfsg	Gorica
+vložil	mte:Vmep-sm	vložiti
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+stečaja	mte:Ncmsg	stečaj
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+presenetilo	mte:Vmep-sn	presenetiti
+tudi	mte:Q	tudi
+stečajnega	mte:Agpmsa	stečajen
+upravitelja	mte:Ncmsay	upravitelj
+Jožeta	mte:Npmsgy	Jože
+Podržaja	mte:Npmsg	Podržaj
+,	mte:Z	,
+ki	mte:Cs	ki
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+na	mte:Sa	na
+prvi	mte:Mlomsa	prvi
+pogled	mte:Ncmsan	pogled
+delovalo	mte:Vmpp-sn	delovati
+kot	mte:Cs	kot
+tipični	mte:Agpmsny	tipičen
+neplačujoči	mte:Appmsny	neplačujoč
+gospodarski	mte:Agpmsny	gospodarski
+subjekt	mte:Ncmsn	subjekt
+,	mte:Z	,
+ki	mte:Cs	ki
+drugim	mte:Mlpmpd	drug
+davčnim	mte:Agpmpd	davčen
+zavezancem	mte:Ncmpd	zavezanec
+neupravičeno	mte:Rgp	neupravičen
+omogoča	mte:Vmpr3s	omogočati
+odbitek	mte:Ncmsan	odbitek
+vstopnega	mte:Agpmsg	vstopen
+DDV	mte:Ncmsg	DDV
+ali	mte:Cc	ali
+kako	mte:Rgp	kako
+drugače	mte:Rgp	drugače
+sodeluje	mte:Vmpr3s	sodelovati
+pri	mte:Sl	pri
+utaji	mte:Ncfsl	utaj
+davkov	mte:Ncmpg	davek
+.	mte:Z	.
+Toda	mte:Cc	toda
+po	mte:Sl	po
+nekaj	mte:Rgp	nekaj
+manjših	mte:Agcfpl	majhen
+težavah	mte:Ncfpl	težava
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+celo	mte:Q	celo
+uspelo	mte:Vmep-sn	uspeti
+priti	mte:Vmen	priti
+v	mte:Sa	v
+stik	mte:Ncmsan	stik
+z	mte:Si	z
+Lodolom	mte:Npmsi	Lodol
+,	mte:Z	,
+ki	mte:Cs	ki
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+predal	mte:Vmep-sm	predati
+dokumentacijo	mte:Ncfsa	dokumentacija
+za	mte:Sa	za
+leto	mte:Ncnsa	leto
+2009	mte:Mdc	2009
+in	mte:Cc	in
+nekaj	mte:Rgp	nekaj
+za	mte:Sa	za
+leto	mte:Ncnsa	leto
+2010	mte:Mdc	2010
+(	mte:Z	(
+fakture	mte:Ncfpa	faktura
+brez	mte:Sg	brez
+podpisa	mte:Ncmsg	podpis
+in	mte:Cc	in
+pečata	mte:Ncmsg	pečat
+,	mte:Z	,
+izvršbe	mte:Ncfsg	izvršba
+zaradi	mte:Sg	zaradi
+neplačila	mte:Ncnsg	neplačilo
+ter	mte:Cc	ter
+zaprte	mte:Appfsg	zaprt
+kuverte	mte:Ncfsg	kuvert
+Dursa	mte:Npmsg	Durs
+)	mte:Z	)
+.	mte:Z	.
+Podržaju	mte:Ncmsd	podržaj
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronike	mte:Ncfsg	elektronika
+ni	mte:Va-r3s-y	biti
+pokopala	mte:Vmep-sf	pokopati
+zgolj	mte:Q	zgolj
+izvršba	mte:Ncfsn	izvršba
+Dursa	mte:Npmsg	Durs
+iz	mte:Sg	iz
+februarja	mte:Ncmsg	februar
+2011	mte:Mdc	2011
+,	mte:Z	,
+ampak	mte:Cc	ampak
+tudi	mte:Q	tudi
+"	mte:Z	"
+dobavitelj	mte:Ncmsn	dobavitelj
+v	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+,	mte:Z	,
+ki	mte:Cs	ki
+ni	mte:Va-r3s-y	biti
+dobavil	mte:Vmep-sm	dobaviti
+blaga	mte:Ncnsg	blago
+v	mte:Sl	v
+vrednosti	mte:Ncfsl	vrednost
+500.000	mte:Mdc	500.000
+evrov	mte:Ncmpg	evro
+"	mte:Z	"
+.	mte:Z	.
+Durs	mte:Npmsn	Durs
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+daleč	mte:Rgp	daleč
+največji	mte:Agsmsny	velik
+upnik	mte:Ncmsn	upnik
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronike	mte:Ncfsg	elektronika
+.	mte:Z	.
+Od	mte:Sg	od
+nje	mte:Pp3fsg	on
+terja	mte:Vmpr3s	terjati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+400.000	mte:Mdc	400.000
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+vprašanje	mte:Ncnsn	vprašanje
+,	mte:Z	,
+kolikšen	mte:Pq-msn	kolikšen
+del	mte:Ncmsn	del
+tega	mte:Pd-nsg	ta
+bo	mte:Va-f3s-n	biti
+dobil	mte:Vmep-sm	dobiti
+nazaj	mte:Rgp	nazaj
+,	mte:Z	,
+če	mte:Cs	če
+sploh	mte:Q	sploh
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+sodelovanju	mte:Ncnsd	sodelovanje
+Lodola	mte:Npmsg	Lodola
+namreč	mte:Cc	namreč
+Podržaj	mte:Npmsn	Podržaj
+ne	mte:Q	ne
+ve	mte:Vmpr3s	vedeti
+,	mte:Z	,
+koliko	mte:Rgp	koliko
+premoženja	mte:Ncnsg	premoženje
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imela	mte:Vmpp-sf	imeti
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronika	mte:Npfsn	Elektronik
+.	mte:Z	.
+Res	mte:Rgp	res
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+računovodski	mte:Agpmsny	računovodski
+servis	mte:Ncmsn	servis
+posredoval	mte:Vmbp-sm	posredovati
+poslovne	mte:Agpmpa	posloven
+izkaze	mte:Ncmpa	izkaz
+,	mte:Z	,
+a	mte:Cc	a
+ga	mte:Pp3msa--y	on
+že	mte:Q	že
+takoj	mte:Rgp	takoj
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+podatki	mte:Ncmpn	podatek
+najmanj	mte:Rgs	najmanj
+nepopolni	mte:Agpmpn	nepopolen
+,	mte:Z	,
+če	mte:Cs	če
+ne	mte:Q	ne
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+napačni	mte:Agpmpn	napačen
+.	mte:Z	.
+Tako	mte:Rgp	tako
+ima	mte:Vmpr3s-n	imeti
+H	mte:Sd	h
+.	mte:Z	.
+L	mte:Ncmsn	L
+.	mte:Z	.
+Elektronika	mte:Npfsn	Elektronik
+na	mte:Sl	na
+papirju	mte:Ncmsl	papir
+kar	mte:Rgp	kar
+1,6	mte:Mdc	1,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+bi	mte:Va-c	biti
+si	mte:Px---d--y	se
+Lodolo	mte:Npfsa	Lodolo
+lahko	mte:Rgp	lahko
+obetal	mte:Vmpp-sm	obetati
+celo	mte:Q	celo
+vračilo	mte:Ncnsa	vračilo
+slabe	mte:Agpfsg	slab
+polovice	mte:Ncfsg	polovica
+tega	mte:Pd-msg	ta
+zneska	mte:Ncmsg	znesek
+.	mte:Z	.
+Toda	mte:Cc	toda
+,	mte:Z	,
+od	mte:Sg	od
+19	mte:Mdc	19
+priporočenih	mte:Appmpg	priporočen
+pozivov	mte:Ncmpg	poziv
+k	mte:Sd	k
+plačilu	mte:Ncnsd	plačilo
+domnevnih	mte:Agpmpg	domneven
+dolžnikov	mte:Ncmpg	dolžnik
+iz	mte:Sg	iz
+Italije	mte:Npfsg	Italija
+se	mte:Px------y	se
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+10	mte:Mdc	10
+vrnilo	mte:Vmep-sn	vrniti
+kot	mte:Cs	kot
+nepoznan	mte:Agpmsnn	nepoznan
+ali	mte:Cc	ali
+odseljen	mte:Appmsnn	odseljen
+,	mte:Z	,
+dva	mte:Mlcmdn	dva
+sta	mte:Va-r3d-n	biti
+dolgu	mte:Ncmsd	dolg
+oporekala	mte:Vmpp-dm	oporekati
+,	mte:Z	,
+preostali	mte:Appmpn	preostal
+pa	mte:Cc	pa
+se	mte:Px------y	se
+na	mte:Sa	na
+opomine	mte:Ncmpa	opomina
+niso	mte:Va-r3p-y	biti
+odzvali	mte:Vmep-pm	odzvati

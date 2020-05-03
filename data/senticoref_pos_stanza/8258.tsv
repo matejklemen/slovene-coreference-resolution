@@ -1,557 +1,580 @@
-token	tag
-350	Mdc
-študentov	Ncmpg
-s	Si
-FDV	Npmsn
--	Z
-ja	Q
-v	Sl
-času	Ncmsl
-volitev	Ncfpg
-spremlja	Vmpr3s
-maše	Ncfpa
-in	Cc
-raziskuje	Vmpr3s
-morebitno	Agpfsa
-politično	Agpfsa
-dejavnost	Ncfsa
-duhovnikov	Ncmpg
-med	Si
-obredi	Ncmpi
-.	Z
-Raziskavo	Ncfsi
-,	Z
-v	Sl
-kateri	Pq-fsl
-je	Va-r3s-n
-predavatelj	Ncmsn
-na	Sl
-ljubljanski	Agpmsl
-FDV	Npfsl
-in	Cc
-podpredsednik	Ncmsn
-SD	Npmsg
-Igor	Npmsn
-Lukšič	Npmsn
-od	Sg
-študentov	Ncmpg
-zahteval	Vmbp-sm
-,	Z
-naj	Cs
-v	Sl
-času	Ncmsl
-volitev	Ncfpg
-spremljajo	Vmpr3p
-maše	Ncfpa
-in	Cc
-pripravijo	Vmer3p
-poročilo	Ncnsa
-o	Sl
-morebitni	Agpfsl
-politični	Agpfsl
-dejavnosti	Ncfsl
-duhovnikov	Ncmpg
-med	Si
-obredi	Ncmpi
-,	Z
-izvaja	Vmpr3s
-350	Mdc
-rednih	Agpmpg
-in	Cc
-izrednih	Agpmpg
-študentov	Ncmpg
-prvega	Mlomsg
-letnika	Ncmsg
-fakultete	Ncfsg
-za	Sa
-družbene	Agpfpa
-vede	Ncfpa
-.	Z
-"	Z
-Študentje	Ncmpn
-morajo	Vmpr3p
-nalogo	Ncfsa
-dokončati	Vmen
-do	Sg
-31	Mdc
-.	Z
-oktobra	Ncmsg
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Lukšič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-izrazil	Vmep-sm
-začudenje	Ncnsa
-nad	Si
-tem	Pd-nsi
-,	Z
-da	Cs
-je	Va-r3s-n
-raziskava	Ncfsn
-dvignila	Vmep-sf
-toliko	Rgp
-prahu	Ncmsg
-.	Z
-"	Z
-Nimam	Vmpr1s-y
-se	Px------y
-namena	Ncmsg
-opravičiti	Vmen
-niti	Q
-odstopiti	Vmen
-od	Sg
-katere	Pq-fsg
-svoje	Px-fsg
-funkcije	Ncfsg
-,	Z
-ker	Cs
-za	Sa
-to	Pd-nsa
-ne	Q
-vidim	Vmbr1s
-nobenih	Pz-mpg
-razlogov	Ncmpg
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-dodal	Vmep-sm
-.	Z
-Na	Sa
-raziskavo	Ncfsa
-se	Px------y
-je	Va-r3s-n
-že	Q
-drugič	Rgp
-odzvala	Vmep-sf
-Slovenska	Agpfsn
-demokratska	Agpfsn
-mladina	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-prepričana	Appfsn
-,	Z
-da	Cs
-bi	Va-c
-univerza	Ncfsn
-in	Cc
-SD	Npfsn
-morali	Vmpp-df
-Lukšiča	Npmsay
-pozvati	Vmen
-k	Sd
-odgovornemu	Agpnsd
-ravnanju	Ncnsd
-.	Z
-Cerkev	Ncfsn
-Lukšiču	Npmsd
-služi	Vmpr3s
-kot	Cs
-poligon	Ncmsan
-Bodo	Va-f3p-n
-duhovniki	Ncmpn
-manj	Rgc
-sproščeni	Appmpn
-?	Z
-©	Ncmsn
-iStockphoto	Ncmsn
-"	Z
-Lukšiču	Npmsd
-cerkev	Ncfsn
-služi	Vmpr3s
-le	Q
-kot	Cs
-poligon	Ncmsan
-,	Z
-kamor	Cs
-vnaša	Vmpr3s
-nemir	Ncmsan
-in	Cc
-ga	Pp3msa--y
-želi	Vmpr3s
-prenesti	Vmen
-v	Sa
-polje	Ncnsa
-političnega	Agpnsg
-"	Z
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-predsednik	Ncmsn
-SDM	Ncmsg
-Nikolaj	Npmsn
-Oblak	Npmsn
-v	Sl
-svojem	Px-msl
-odzivu	Ncmsl
-na	Sa
-sobotni	Agpmsay
-članek	Ncmsan
-v	Sl
-Delu	Ncnsl
-,	Z
-v	Sl
-katerem	Pq-msl
-Lukšič	Npmsn
-podmladek	Ncmsn
-SDS	Npfsn
-poziva	Vmpr3s
-k	Sd
-temu	Pd-nsd
-,	Z
-da	Cs
-bi	Va-c
-deloval	Vmpp-sm
-avtonomno	Rgp
-.	Z
-Lukšič	Npmsn
-je	Va-r3s-n
-zatrdil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-delovanje	Ncnsn
-podmladkov	Ncmpg
-cilj	Ncmsn
-,	Z
-da	Cs
-dobimo	Vmer1p
-dobro	Agpfsa
-politično	Agpfsa
-elito	Ncfsa
-.	Z
-Ob	Sl
-tem	Pd-msl
-Oblak	Ncmsn
-meni	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-Lukšič	Npmsn
-ob	Sl
-nepoznavanju	Ncnsl
-zgodovinskih	Agpnpg
-dejstev	Ncnpg
-namesto	Sg
-k	Sd
-opravičilu	Ncnsd
-zateka	Vmpr3s
-k	Sd
-napadu	Ncmsd
-vseh	Pg-mpg
-,	Z
-ki	Cs
-ne	Q
-delijo	Vmpr3p
-njegovega	Ps3nsgsm
-razmišljanja	Ncnsg
-.	Z
-V	Sl
-SDM	Ncmsan
-so	Va-r3p-n
-prepričani	Appmpn
-,	Z
-da	Cs
-gre	Vmbr3s
-pri	Sl
-navodilih	Ncnpl
-Lukšiča	Npmsg
-za	Sa
-prijeme	Ncmpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-uporabljali	Vmpp-pm
-v	Sl
-polpretekli	Agpfsl
-zgodovini	Ncfsl
-z	Si
-namenom	Ncmsi
-vplivati	Vmpn
-na	Sa
-ali	Cc
-celo	Q
-ustrahovati	Vmpn
-slovenske	Agpmpa
-državljane	Ncmpa
-.	Z
-Lukšič	Npmsn
-naj	Q
-se	Px------y
-opredeli	Vmer3s
-glede	Sg
-prioritet	Ncfpg
-Poročilo	Ncnsa
-,	Z
-ki	Cs
-ga	Pp3msa--y
-študentje	Ncmpn
-oddajo	Vmer3p
-,	Z
-vsebuje	Vmpr3s
-samo	Q
-imena	Ncnpg
-študentov	Ncmpg
-,	Z
-tako	Cc
-da	Cs
-je	Va-r3s-n
-nadzor	Ncmsn
-ali	Cc
-možnost	Ncfsn
-ugotavljanja	Ncnsg
-o	Sl
-tem	Pd-nsl
-,	Z
-kdo	Pq-msn
-je	Va-r3s-n
-kje	Rgp
-kaj	Pq-nsa
-govoril	Vmpp-sm
-,	Z
-izključena	Appfsn
-,	Z
-še	Q
-dodaja	Vmpr3s
-Lukšič	Npmsn
-.	Z
-Oblak	Ncmsn
-te	Pd-fsg
-izjave	Ncfsg
-zavrača	Vmpr3s
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-v	Sl
-navodilih	Ncnpl
-jasno	Rgp
-pisalo	Vmpp-sn
-,	Z
-da	Cs
-je	Va-r3s-n
-stvar	Ncfsn
-raziskovanja	Ncnsg
-tudi	Q
-mesto	Ncnsn
-dogodka	Ncmsg
-.	Z
-"	Z
-Verjamemo	Vmbr1p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-tako	Pd-nsa
-vodstvo	Ncnsa
-fakultete	Ncfsg
-kot	Cs
-tudi	Q
-predsednik	Ncmsn
-SD	Npfsg
-Borut	Npmsn
-Pahor	Npmsn
-Lukšičevo	Aspnsa
-dejanje	Ncnsa
-odločno	Rgp
-obsodili	Vmep-pm
-in	Cc
-ga	Pp3msa--y
-pozvali	Vmep-pm
-k	Sd
-odgovornemu	Agpnsd
-ravnanju	Ncnsd
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Oblak	Ncmsn
-.	Z
-"	Z
-Glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-je	Va-r3s-n
-Lukšič	Npmsn
-javna	Agpfsn
-osebnost	Ncfsn
-,	Z
-čigar	Agpmsny
-namen	Ncmsn
-je	Va-r3s-n
-tudi	Q
-krojiti	Vmpn
-prihodnjo	Agpfsa
-politiko	Ncfsa
-,	Z
-je	Va-r3s-n
-zadnji	Agpmsny
-čas	Ncmsn
-,	Z
-da	Cs
-se	Px------y
-javno	Rgp
-opredeli	Vmer3s
-,	Z
-kaj	Pq-nsa
-je	Va-r3s-n
-njegova	Ps3fsnsm
-prioriteta	Ncfsn
-,	Z
-usmerjati	Vmpn
-študente	Ncmpa
-k	Sd
-avtonomnemu	Agpnsd
-in	Cc
-samostojnemu	Agpnsd
-razmišljanju	Ncnsd
-ali	Cc
-pa	Cc
-načrtno	Rgp
-slediti	Vmpn
-strankarskim	Agpfpd
-vrednotam	Ncfpd
-in	Cc
-polpretekli	Agpfsd
-zgodovinski	Agpfsd
-praksi	Ncfsd
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-dodal	Vmep-sm
-.	Z
-Gasilska	Agpfsn
-slika	Ncfsn
-duhovnikov	Ncmpg
-.	Z
-©	Npmsn
-BOBO	Npmsn
-'	Z
-'	Z
-Stvar	Ncfsn
-nima	Vmpr3s-y
-veze	Ncmsg
-s	Si
-podmladki	Ncfsi
-'	Z
-'	Z
-Lukšič	Npmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-povedal	Vmep-sm
-,	Z
-da	Cs
-ta	Pd-fsn
-stvar	Ncfsn
-nima	Vmpr3s-y
-nobene	Pz-fsg
-povezave	Ncfsg
-s	Si
-podmladki	Ncfpi
-,	Z
-zato	Cc
-ne	Q
-ve	Vmpr3s
-,	Z
-zakaj	Rgp
-se	Px------y
-SDM	Ncmsn
-vmešava	Vmpr3s
-.	Z
-"	Z
-To	Pd-nsa
-poskušajo	Vmpr3p
-peljati	Vmpn
-naprej	Rgp
-v	Sa
-nedogled	Ncmsan
-,	Z
-vendar	Cc
-pri	Sl
-tem	Pd-nsl
-nisem	Va-r1s-y
-več	Q
-pravi	Agpmsny
-sogovornik	Ncmsn
-,	Z
-"	Z
-še	Q
-dodaja	Vmpr3s
-.	Z
-V	Sl
-največji	Agsfsl
-vladni	Agpfsl
-stranki	Ncfsl
-SDS	Npmsn
-Lukšiču	Npmsd
-očitajo	Vmpr3p
-omejevanje	Ncnsa
-verske	Agpfsg
-svobode	Ncfsg
-in	Cc
-izrabo	Ncfsa
-študentov	Ncmpg
-v	Sa
-politične	Agpmpa
-namene	Ncmpa
-.	Z
-Tiskovni	Agpmsny
-predstavnik	Ncmsn
-Slovenske	Agpfsg
-škofovske	Agpfsg
-konference	Ncfsg
-Andrej	Npmsn
-Saje	Npmsn
-meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-Lukšičevo	Aspnsn
-početje	Ncnsn
-zakonsko	Rgp
-sporno	Agpnsn
-in	Cc
-da	Cs
-metode	Ncfpn
-raziskovanja	Ncnsg
-spominjajo	Vmpr3p
-na	Sa
-pretekli	Appmsay
-totalitarni	Agpmsay
-komunistični	Agpmsay
-sistem	Ncmsan
-.	Z
-Pravnik	Ncmsn
-Rajko	Npmsn
-Pirnat	Npmsn
-pa	Cc
-pravi	Vmbr3s
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-moral	Vmpp-sm
-Lukšič	Npmsn
-kot	Cs
-politik	Ncmsn
-izogibati	Vmpn
-raziskavi	Ncfsd
-,	Z
-ki	Cs
-lahko	Rgp
-vodi	Vmpr3s
-do	Sg
-uporabe	Ncfsg
-v	Sa
-politične	Agpmpa
-namene	Ncmpa
-.	Z
+token	tag	lemma
+350	mte:Mdc	350
+študentov	mte:Ncmpg	študent
+s	mte:Si	z
+FDV	mte:Npmsn	FDV
+-	mte:Z	-
+ja	mte:Q	ja
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+volitev	mte:Ncfpg	volitev
+spremlja	mte:Vmpr3s	spremljati
+maše	mte:Ncfpa	maša
+in	mte:Cc	in
+raziskuje	mte:Vmpr3s	raziskovati
+morebitno	mte:Agpfsa	morebiten
+politično	mte:Agpfsa	političen
+dejavnost	mte:Ncfsa	dejavnost
+duhovnikov	mte:Ncmpg	duhovnik
+med	mte:Si	med
+obredi	mte:Ncmpi	obred
+.	mte:Z	.
+Raziskavo	mte:Ncfsi	raziskava
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+je	mte:Va-r3s-n	biti
+predavatelj	mte:Ncmsn	predavatelj
+na	mte:Sl	na
+ljubljanski	mte:Agpmsl	ljubljanski
+FDV	mte:Npfsl	FDV
+in	mte:Cc	in
+podpredsednik	mte:Ncmsn	podpredsednik
+SD	mte:Npmsg	SD
+Igor	mte:Npmsn	Igor
+Lukšič	mte:Npmsn	Lukšič
+od	mte:Sg	od
+študentov	mte:Ncmpg	študent
+zahteval	mte:Vmbp-sm	zahtevati
+,	mte:Z	,
+naj	mte:Cs	naj
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+volitev	mte:Ncfpg	volitev
+spremljajo	mte:Vmpr3p	spremljati
+maše	mte:Ncfpa	maša
+in	mte:Cc	in
+pripravijo	mte:Vmer3p	pripraviti
+poročilo	mte:Ncnsa	poročilo
+o	mte:Sl	o
+morebitni	mte:Agpfsl	morebiten
+politični	mte:Agpfsl	političen
+dejavnosti	mte:Ncfsl	dejavnost
+duhovnikov	mte:Ncmpg	duhovnik
+med	mte:Si	med
+obredi	mte:Ncmpi	obred
+,	mte:Z	,
+izvaja	mte:Vmpr3s	izvajati
+350	mte:Mdc	350
+rednih	mte:Agpmpg	reden
+in	mte:Cc	in
+izrednih	mte:Agpmpg	izreden
+študentov	mte:Ncmpg	študent
+prvega	mte:Mlomsg	prvi
+letnika	mte:Ncmsg	letnik
+fakultete	mte:Ncfsg	fakulteta
+za	mte:Sa	za
+družbene	mte:Agpfpa	družben
+vede	mte:Ncfpa	veda
+.	mte:Z	.
+"	mte:Z	"
+Študentje	mte:Ncmpn	študent
+morajo	mte:Vmpr3p	morati
+nalogo	mte:Ncfsa	naloga
+dokončati	mte:Vmen	dokončati
+do	mte:Sg	do
+31	mte:Mdc	31
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Lukšič	mte:Npmsn	Lukšič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+izrazil	mte:Vmep-sm	izraziti
+začudenje	mte:Ncnsa	začudenje
+nad	mte:Si	nad
+tem	mte:Pd-nsi	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+raziskava	mte:Ncfsn	raziskava
+dvignila	mte:Vmep-sf	dvigniti
+toliko	mte:Rgp	toliko
+prahu	mte:Ncmsg	prah
+.	mte:Z	.
+"	mte:Z	"
+Nimam	mte:Vmpr1s-y	imeti
+se	mte:Px------y	se
+namena	mte:Ncmsg	namen
+opravičiti	mte:Vmen	opravičiti
+niti	mte:Q	niti
+odstopiti	mte:Vmen	odstopiti
+od	mte:Sg	od
+katere	mte:Pq-fsg	kateri
+svoje	mte:Px-fsg	svoj
+funkcije	mte:Ncfsg	funkcija
+,	mte:Z	,
+ker	mte:Cs	ker
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+ne	mte:Q	ne
+vidim	mte:Vmbr1s	videti
+nobenih	mte:Pz-mpg	noben
+razlogov	mte:Ncmpg	razlog
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dodal	mte:Vmep-sm	dodati
+.	mte:Z	.
+Na	mte:Sa	na
+raziskavo	mte:Ncfsa	raziskava
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+drugič	mte:Rgp	drugič
+odzvala	mte:Vmep-sf	odzvati
+Slovenska	mte:Agpfsn	slovenski
+demokratska	mte:Agpfsn	demokratski
+mladina	mte:Ncfsn	mladina
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+prepričana	mte:Appfsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+univerza	mte:Ncfsn	univerza
+in	mte:Cc	in
+SD	mte:Npfsn	SD
+morali	mte:Vmpp-df	morati
+Lukšiča	mte:Npmsay	Lukšič
+pozvati	mte:Vmen	pozvati
+k	mte:Sd	k
+odgovornemu	mte:Agpnsd	odgovoren
+ravnanju	mte:Ncnsd	ravnanje
+.	mte:Z	.
+Cerkev	mte:Ncfsn	cerkev
+Lukšiču	mte:Npmsd	Lukšič
+služi	mte:Vmpr3s	služiti
+kot	mte:Cs	kot
+poligon	mte:Ncmsan	poligon
+Bodo	mte:Va-f3p-n	biti
+duhovniki	mte:Ncmpn	duhovnik
+manj	mte:Rgc	manj
+sproščeni	mte:Appmpn	sproščen
+?	mte:Z	?
+©	mte:Ncmsn	©
+iStockphoto	mte:Ncmsn	istockphota
+"	mte:Z	"
+Lukšiču	mte:Npmsd	Lukšič
+cerkev	mte:Ncfsn	cerkev
+služi	mte:Vmpr3s	služiti
+le	mte:Q	le
+kot	mte:Cs	kot
+poligon	mte:Ncmsan	poligon
+,	mte:Z	,
+kamor	mte:Cs	kamor
+vnaša	mte:Vmpr3s	vnašati
+nemir	mte:Ncmsan	nemir
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+želi	mte:Vmpr3s	želeti
+prenesti	mte:Vmen	prenesti
+v	mte:Sa	v
+polje	mte:Ncnsa	polje
+političnega	mte:Agpnsg	političen
+"	mte:Z	"
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+predsednik	mte:Ncmsn	predsednik
+SDM	mte:Ncmsg	SDM
+Nikolaj	mte:Npmsn	Nikolaj
+Oblak	mte:Npmsn	Oblak
+v	mte:Sl	v
+svojem	mte:Px-msl	svoj
+odzivu	mte:Ncmsl	odziv
+na	mte:Sa	na
+sobotni	mte:Agpmsay	soboten
+članek	mte:Ncmsan	članek
+v	mte:Sl	v
+Delu	mte:Ncnsl	del
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+Lukšič	mte:Npmsn	Lukšič
+podmladek	mte:Ncmsn	podmladek
+SDS	mte:Npfsn	SDS
+poziva	mte:Vmpr3s	pozivati
+k	mte:Sd	k
+temu	mte:Pd-nsd	ta
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+deloval	mte:Vmpp-sm	delovati
+avtonomno	mte:Rgp	avtonomno
+.	mte:Z	.
+Lukšič	mte:Npmsn	Lukšič
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+delovanje	mte:Ncnsn	delovanje
+podmladkov	mte:Ncmpg	podmladek
+cilj	mte:Ncmsn	cilj
+,	mte:Z	,
+da	mte:Cs	da
+dobimo	mte:Vmer1p	dobiti
+dobro	mte:Agpfsa	dober
+politično	mte:Agpfsa	političen
+elito	mte:Ncfsa	elita
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-msl	ta
+Oblak	mte:Ncmsn	Oblak
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Lukšič	mte:Npmsn	Lukšič
+ob	mte:Sl	ob
+nepoznavanju	mte:Ncnsl	nepoznavanje
+zgodovinskih	mte:Agpnpg	zgodovinski
+dejstev	mte:Ncnpg	dejstvo
+namesto	mte:Sg	namesto
+k	mte:Sd	k
+opravičilu	mte:Ncnsd	opravičilo
+zateka	mte:Vmpr3s	zatekati
+k	mte:Sd	k
+napadu	mte:Ncmsd	napad
+vseh	mte:Pg-mpg	ves
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+delijo	mte:Vmpr3p	deliti
+njegovega	mte:Ps3nsgsm	njegov
+razmišljanja	mte:Ncnsg	razmišljanje
+.	mte:Z	.
+V	mte:Sl	v
+SDM	mte:Ncmsan	SDM
+so	mte:Va-r3p-n	biti
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+pri	mte:Sl	pri
+navodilih	mte:Ncnpl	navodilo
+Lukšiča	mte:Npmsg	Lukšič
+za	mte:Sa	za
+prijeme	mte:Ncmpa	prijem
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+uporabljali	mte:Vmpp-pm	uporabljati
+v	mte:Sl	v
+polpretekli	mte:Agpfsl	polpretekel
+zgodovini	mte:Ncfsl	zgodovina
+z	mte:Si	z
+namenom	mte:Ncmsi	namen
+vplivati	mte:Vmpn	vplivati
+na	mte:Sa	na
+ali	mte:Cc	ali
+celo	mte:Q	celo
+ustrahovati	mte:Vmpn	ustrahovati
+slovenske	mte:Agpmpa	slovenski
+državljane	mte:Ncmpa	državljan
+.	mte:Z	.
+Lukšič	mte:Npmsn	Lukšič
+naj	mte:Q	naj
+se	mte:Px------y	se
+opredeli	mte:Vmer3s	opredeliti
+glede	mte:Sg	glede
+prioritet	mte:Ncfpg	prioritet
+Poročilo	mte:Ncnsa	poročilo
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+študentje	mte:Ncmpn	študent
+oddajo	mte:Vmer3p	oddati
+,	mte:Z	,
+vsebuje	mte:Vmpr3s	vsebovati
+samo	mte:Q	samo
+imena	mte:Ncnpg	ime
+študentov	mte:Ncmpg	študent
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+nadzor	mte:Ncmsn	nadzor
+ali	mte:Cc	ali
+možnost	mte:Ncfsn	možnost
+ugotavljanja	mte:Ncnsg	ugotavljanje
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+je	mte:Va-r3s-n	biti
+kje	mte:Rgp	kje
+kaj	mte:Pq-nsa	kaj
+govoril	mte:Vmpp-sm	govoriti
+,	mte:Z	,
+izključena	mte:Appfsn	izključen
+,	mte:Z	,
+še	mte:Q	še
+dodaja	mte:Vmpr3s	dodajati
+Lukšič	mte:Npmsn	Lukšič
+.	mte:Z	.
+Oblak	mte:Ncmsn	Oblak
+te	mte:Pd-fsg	ta
+izjave	mte:Ncfsg	izjava
+zavrača	mte:Vmpr3s	zavračati
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+navodilih	mte:Ncnpl	navodilo
+jasno	mte:Rgp	jasno
+pisalo	mte:Vmpp-sn	pisati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+stvar	mte:Ncfsn	stvar
+raziskovanja	mte:Ncnsg	raziskovanje
+tudi	mte:Q	tudi
+mesto	mte:Ncnsn	mesto
+dogodka	mte:Ncmsg	dogodek
+.	mte:Z	.
+"	mte:Z	"
+Verjamemo	mte:Vmbr1p	verjeti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+tako	mte:Pd-nsa	tak
+vodstvo	mte:Ncnsa	vodstvo
+fakultete	mte:Ncfsg	fakulteta
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+SD	mte:Npfsg	SD
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+Lukšičevo	mte:Aspnsa	Lukšičev
+dejanje	mte:Ncnsa	dejanje
+odločno	mte:Rgp	odločno
+obsodili	mte:Vmep-pm	obsoditi
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+pozvali	mte:Vmep-pm	pozvati
+k	mte:Sd	k
+odgovornemu	mte:Agpnsd	odgovoren
+ravnanju	mte:Ncnsd	ravnanje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Oblak	mte:Ncmsn	Oblak
+.	mte:Z	.
+"	mte:Z	"
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Lukšič	mte:Npmsn	Lukšič
+javna	mte:Agpfsn	javen
+osebnost	mte:Ncfsn	osebnost
+,	mte:Z	,
+čigar	mte:Agpmsny	čigar
+namen	mte:Ncmsn	namen
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+krojiti	mte:Vmpn	krojiti
+prihodnjo	mte:Agpfsa	prihodnji
+politiko	mte:Ncfsa	politika
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zadnji	mte:Agpmsny	zadnji
+čas	mte:Ncmsn	čas
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+javno	mte:Rgp	javno
+opredeli	mte:Vmer3s	opredeliti
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+je	mte:Va-r3s-n	biti
+njegova	mte:Ps3fsnsm	njegov
+prioriteta	mte:Ncfsn	prioriteta
+,	mte:Z	,
+usmerjati	mte:Vmpn	usmerjati
+študente	mte:Ncmpa	študent
+k	mte:Sd	k
+avtonomnemu	mte:Agpnsd	avtonomen
+in	mte:Cc	in
+samostojnemu	mte:Agpnsd	samostojen
+razmišljanju	mte:Ncnsd	razmišljanje
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+načrtno	mte:Rgp	načrtno
+slediti	mte:Vmpn	slediti
+strankarskim	mte:Agpfpd	strankarski
+vrednotam	mte:Ncfpd	vrednota
+in	mte:Cc	in
+polpretekli	mte:Agpfsd	polpretekel
+zgodovinski	mte:Agpfsd	zgodovinski
+praksi	mte:Ncfsd	praksa
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dodal	mte:Vmep-sm	dodati
+.	mte:Z	.
+Gasilska	mte:Agpfsn	gasilski
+slika	mte:Ncfsn	slika
+duhovnikov	mte:Ncmpg	duhovnik
+.	mte:Z	.
+©	mte:Npmsn	©
+BOBO	mte:Npmsn	BOBO
+'	mte:Z	'
+'	mte:Z	'
+Stvar	mte:Ncfsn	stvar
+nima	mte:Vmpr3s-y	imeti
+veze	mte:Ncmsg	veza
+s	mte:Si	z
+podmladki	mte:Ncfsi	podmladek
+'	mte:Z	'
+'	mte:Z	'
+Lukšič	mte:Npmsn	Lukšič
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-fsn	ta
+stvar	mte:Ncfsn	stvar
+nima	mte:Vmpr3s-y	imeti
+nobene	mte:Pz-fsg	noben
+povezave	mte:Ncfsg	povezava
+s	mte:Si	z
+podmladki	mte:Ncfpi	podmladek
+,	mte:Z	,
+zato	mte:Cc	zato
+ne	mte:Q	ne
+ve	mte:Vmpr3s	vedeti
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+se	mte:Px------y	se
+SDM	mte:Ncmsn	SDM
+vmešava	mte:Vmpr3s	vmešavati
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsa	ta
+poskušajo	mte:Vmpr3p	poskušati
+peljati	mte:Vmpn	peljati
+naprej	mte:Rgp	naprej
+v	mte:Sa	v
+nedogled	mte:Ncmsan	nedogled
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+nisem	mte:Va-r1s-y	biti
+več	mte:Q	več
+pravi	mte:Agpmsny	pravi
+sogovornik	mte:Ncmsn	sogovornik
+,	mte:Z	,
+"	mte:Z	"
+še	mte:Q	še
+dodaja	mte:Vmpr3s	dodajati
+.	mte:Z	.
+V	mte:Sl	v
+največji	mte:Agsfsl	velik
+vladni	mte:Agpfsl	vladen
+stranki	mte:Ncfsl	stranka
+SDS	mte:Npmsn	SDS
+Lukšiču	mte:Npmsd	Lukšič
+očitajo	mte:Vmpr3p	očitati
+omejevanje	mte:Ncnsa	omejevanje
+verske	mte:Agpfsg	verski
+svobode	mte:Ncfsg	svoboda
+in	mte:Cc	in
+izrabo	mte:Ncfsa	izraba
+študentov	mte:Ncmpg	študent
+v	mte:Sa	v
+politične	mte:Agpmpa	političen
+namene	mte:Ncmpa	namen
+.	mte:Z	.
+Tiskovni	mte:Agpmsny	tiskoven
+predstavnik	mte:Ncmsn	predstavnik
+Slovenske	mte:Agpfsg	slovenski
+škofovske	mte:Agpfsg	škofovski
+konference	mte:Ncfsg	konferenca
+Andrej	mte:Npmsn	Andrej
+Saje	mte:Npmsn	Saje
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Lukšičevo	mte:Aspnsn	Lukšičev
+početje	mte:Ncnsn	početje
+zakonsko	mte:Rgp	zakonski
+sporno	mte:Agpnsn	sporen
+in	mte:Cc	in
+da	mte:Cs	da
+metode	mte:Ncfpn	metoda
+raziskovanja	mte:Ncnsg	raziskovanje
+spominjajo	mte:Vmpr3p	spominjati
+na	mte:Sa	na
+pretekli	mte:Appmsay	pretekel
+totalitarni	mte:Agpmsay	totalitaren
+komunistični	mte:Agpmsay	komunističen
+sistem	mte:Ncmsan	sistem
+.	mte:Z	.
+Pravnik	mte:Ncmsn	pravnik
+Rajko	mte:Npmsn	Rajko
+Pirnat	mte:Npmsn	Pirnat
+pa	mte:Cc	pa
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+moral	mte:Vmpp-sm	morati
+Lukšič	mte:Npmsn	Lukšič
+kot	mte:Cs	kot
+politik	mte:Ncmsn	politika
+izogibati	mte:Vmpn	izogibati
+raziskavi	mte:Ncfsd	raziskava
+,	mte:Z	,
+ki	mte:Cs	ki
+lahko	mte:Rgp	lahko
+vodi	mte:Vmpr3s	voditi
+do	mte:Sg	do
+uporabe	mte:Ncfsg	uporaba
+v	mte:Sa	v
+politične	mte:Agpmpa	političen
+namene	mte:Ncmpa	namen
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+raziskava	mte:Ncfsn	raziskava
+niti	mte:Q	niti
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+tako	mte:Rgp	tako
+sporna	mte:Agpfsn	sporen
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+študentje	mte:Ncmpn	študent
+udeleževali	mte:Vmpp-pm	udeleževati
+mašnih	mte:Agpmpg	mašen
+obredov	mte:Ncmpg	obred
+na	mte:Sa	na
+lastno	mte:Agpfsa	lasten
+pobudo	mte:Ncfsa	pobuda

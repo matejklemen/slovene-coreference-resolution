@@ -1,435 +1,444 @@
-token	tag
-Za	Sa
-letne	Agpfpa
-vinjete	Ncfpa
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-treba	Rgp
-odšteti	Vmen
-od	Sg
-50	Mdc
-do	Sg
-60	Mdc
-evrov	Ncmpg
-.	Z
-V	Sl
-nobeni	Pz-fsl
-drugi	Mlpfsl
-članici	Ncfsl
-EU	Npfsg
-turistom	Ncmpd
-ni	Va-r3s-y
-treba	Rgp
-kupiti	Vmen
-polletne	Agpfsg
-vinjete	Ncfsg
-.	Z
-Cena	Ncfsn
-avstrijskih	Agpnpg
-in	Cc
-švicarskih	Agpnpg
-vinjet	Ncnpg
-Cena	Ncfsn
-desetdnevne	Agpfsg
-vinjete	Ncfsg
-po	Sl
-avstrijskih	Agpfpl
-avtocestah	Ncfpl
-je	Va-r3s-n
-7,60	Mdc
-evra	Ncmsg
-.	Z
-Za	Sa
-dvomesečno	Agpnsa
-je	Va-r3s-n
-treba	Rgp
-odšteti	Vmen
-21,80	Mdc
-evra	Ncmsg
-,	Z
-letna	Agpfsn
-vinjeta	Ncfsn
-za	Sa
-vozila	Ncnpa
-do	Sg
-3,5	Mdc
-tone	Ncfsg
-pa	Cc
-stane	Vmpr3s
-72,60	Mdc
-evra	Ncmsg
-.	Z
-Švica	Npfsn
-pozna	Vmpr3s
-le	Q
-letne	Agpfpa
-vinjete	Ncfpa
-.	Z
-Teh	Pd-mpg
-se	Px------y
-v	Sl
-Sloveniji	Npfsl
-ne	Q
-da	Vmer3s
-kupiti	Vmen
-,	Z
-temveč	Cc
-le	Q
-na	Sl
-švicarskih	Agpmpl
-mejnih	Agpmpl
-prehodih	Ncmpl
-,	Z
-bencinskih	Agpfpl
-črpalkah	Ncfpl
-ali	Cc
-poštah	Ncfpl
-,	Z
-stanejo	Vmpr3p
-pa	Cc
-25	Mdc
-evrov	Ncmpg
-.	Z
-Vlada	Ncfsn
-bo	Va-f3s-n
-v	Sa
-četrtek	Ncmsan
-na	Sl
-redni	Agpfsl
-seji	Ncfsl
-odločala	Vmpp-sf
-o	Sl
-predlogu	Ncmsl
-ministrstva	Ncnsg
-za	Sa
-promet	Ncmsan
-za	Sa
-uvedbo	Ncfsa
-vinjet	Ncnpg
-.	Z
-Ministrstvo	Ncnsn
-naj	Q
-bi	Va-c
-predlagalo	Vmbp-sn
-le	Q
-letne	Agpfpa
-in	Cc
-polletne	Agpfpa
-vinjete	Ncfpa
-.	Z
-Cena	Ncfsn
-letne	Agpfsg
-vinjete	Ncfsg
-naj	Q
-bi	Va-c
-se	Px------y
-po	Sl
-pisanju	Ncnsl
-časnika	Ncmsg
-Finance	Ncmsg
-gibala	Vmpp-sf
-med	Si
-55	Mdc
-in	Cc
-60	Mdc
-evri	Ncmpi
-,	Z
-polletna	Agpfsn
-pa	Cc
-naj	Q
-ne	Q
-bi	Va-c
-presegla	Vmep-sf
-40	Mdc
-evrov	Ncmpg
-.	Z
-Vinjete	Ncnsg
-naj	Q
-bi	Va-c
-se	Px------y
-uvedle	Vmep-pf
-še	Q
-pred	Si
-poletno	Agpfsi
-sezono	Ncfsi
-,	Z
-točneje	Rgc
-konec	Sg
-junija	Ncmsg
-.	Z
-Cestninjenje	Ncnsn
-po	Sl
-starem	Agpmsl
-sistemu	Ncmsl
-ostaja	Vmpr3s
-za	Sa
-tovornjake	Ncmpa
-,	Z
-zanje	Pp3mpa--b
-pa	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-uvedlo	Vmep-sn
-tudi	Q
-ABC	Npmsn
-.	Z
-Sicer	Q
-bo	Va-f3s-n
-v	Sa
-četrtek	Ncmsan
-znana	Appfsn
-uvedba	Ncfsn
-in	Cc
-cena	Ncfsn
-omenjenih	Appnpg
-vinjet	Ncnpg
-.	Z
-Po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-bosta	Va-f3d-n
-na	Sl
-mizi	Ncfsl
-še	Q
-dve	Mlcfda
-drugačni	Agpfda
-možnosti	Ncfda
-.	Z
-Prometni	Agpmsny
-minister	Ncmsn
-včeraj	Rgp
-na	Sa
-vprašanja	Ncnpa
-o	Sl
-vinjetah	Ncfpl
-ni	Va-r3s-y
-želel	Vmpp-sm
-odgovarjati	Vmpn
-.	Z
-Ali	Rgp
-bo	Va-f3s-n
-pri	Sl
-taki	Pd-fsl
-ceni	Ncfsl
-in	Cc
-s	Si
-takim	Pd-msi
-sistemom	Ncmsi
-Dars	Npmsn
-lahko	Rgp
-zbral	Vmep-sm
-dovolj	Rgp
-denarja	Ncmsg
-za	Sa
-odplačevanje	Ncnsa
-dolgov	Ncmpg
-,	Z
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-finance	Ncfpa
-niso	Va-r3p-y
-želeli	Vmpp-pm
-komentirati	Vmbn
-.	Z
-Bo	Va-f3s-n
-pa	Cc
-,	Z
-kot	Cs
-je	Va-r3s-n
-že	Q
-pred	Si
-časom	Ncmsi
-zagotovil	Vmep-sm
-minister	Ncmsn
-Andrej	Npmsn
-Bajuk	Npmsn
-,	Z
-to	Pd-nsn
-ključno	Agpnsn
-pri	Sl
-njegovi	Ps3fslsm
-podpori	Ncfsl
-ali	Cc
-nepodpori	Ncmsl
-vinjetam	Ncfpd
-.	Z
-Kakšno	Pq-nsn
-bo	Va-f3s-n
-uvajanje	Ncnsn
-vinjet	Ncnpg
-?	Z
-Države	Ncfpg
-po	Sl
-Evropi	Npfsl
-,	Z
-kjer	Cs
-se	Px------y
-ne	Q
-plačuje	Vmpr3s
-cestnin	Ncfpg
-Za	Sa
-vožnjo	Ncfsa
-po	Sl
-avtocestah	Ncfpl
-vam	Pp2-pd
-ne	Q
-bo	Va-f3s-n
-treba	Rgp
-plačevati	Vmpn
-v	Sl
-Belgiji	Npfsl
-,	Z
-Estoniji	Npfsl
-,	Z
-Islandiji	Npfsl
-,	Z
-Latviji	Npfsl
-,	Z
-Luksemburgu	Npmsl
-,	Z
-Nemčiji	Npfsl
-,	Z
-na	Sl
-Švedskem	Npnsl
-,	Z
-v	Sl
-Ukrajini	Npfsl
-,	Z
-Rusiji	Npfsl
-,	Z
-na	Sl
-Danskem	Npnsl
-,	Z
-Finskem	Npnsl
-,	Z
-Irskem	Npnsl
-,	Z
-Malti	Npfsl
-in	Cc
-Nizozemskem	Agpnsl
-.	Z
-Vlada	Ncfsn
-bo	Va-f3s-n
-predlog	Ncmsan
-prometnega	Agpnsg
-ministrstva	Ncnsg
-o	Sl
-uvedbah	Ncfpl
-vinjet	Ncnpg
-predstavila	Vmep-sf
-v	Sa
-četrtek	Ncmsan
-.	Z
-Čez	Sa
-14	Mdc
-dni	Ncmpg
-bo	Va-f3s-n
-znana	Appfsn
-uradna	Agpfsn
-objava	Ncfsn
-razpisa	Ncmsg
-za	Sa
-izdelavo	Ncfsa
-vinjet	Ncnpg
-,	Z
-31	Mdc
-.	Z
-maja	Ncmsg
-pa	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-začelo	Vmep-sn
-vračanje	Ncnsn
-dobroimetja	Ncnsg
-lastnikov	Ncmpg
-ABC	Ncmsn
-.	Z
-Do	Sg
-30	Mdc
-.	Z
-junija	Ncmsg
-,	Z
-ko	Cs
-se	Px------y
-bo	Va-f3s-n
-začela	Vmep-sf
-uradna	Agpfsn
-uporaba	Ncfsn
-vinjet	Ncnpg
-,	Z
-naj	Q
-bi	Va-c
-po	Sl
-državi	Ncfsl
-že	Q
-nemoteno	Rgp
-delovala	Vmpp-sf
-mreža	Ncfsn
-prodajnih	Agpnpg
-mest	Ncnpg
-z	Si
-vinjetami	Ncfpi
-.	Z
-Napoved	Ncfsa
-vinjet	Ncnpg
-pred	Si
-štirinajstimi	Mlc-pi
-dnevi	Ncmpi
-Minister	Ncmsn
-za	Sa
-promet	Ncmsan
-Radovan	Npmsn
-Žerjav	Npmsn
-je	Va-r3s-n
-v	Sl
-začetku	Ncmsl
-marca	Ncmsg
-napovedal	Vmep-sm
-uvedbo	Ncfsa
-vinjet	Ncnpg
-za	Sa
-osebna	Agpnpa
-vozila	Ncnpa
-.	Z
-Za	Sa
-tovorna	Agpnpa
-vozila	Ncnpa
-do	Sg
-uvedbe	Ncfsg
-satelitskega	Agpnsg
-cestninjenja	Ncnsg
-ostaja	Vmpr3s
-cestninjenje	Ncnsa
-po	Sl
-starem	Agpmsl
-sistemu	Ncmsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-minister	Ncmsn
-,	Z
-je	Va-r3s-n
-uvedba	Ncfsn
-vinjet	Ncnpg
-za	Sa
-osebna	Agpnpa
-vozila	Ncnpa
-in	Cc
-ohranitev	Ncfsa
-obstoječega	Appmsg
-sistema	Ncmsg
-cestninjenja	Ncnsg
-za	Sa
-tovornjake	Ncmpa
-najbolj	Rgs
-smotrna	Agpfsn
-in	Cc
-smiselna	Agpfsn
-rešitev	Ncfsn
-.	Z
+token	tag	lemma
+Za	mte:Sa	za
+letne	mte:Agpfpa	leten
+vinjete	mte:Ncfpa	vinjeta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+odšteti	mte:Vmen	odšteti
+od	mte:Sg	od
+50	mte:Mdc	50
+do	mte:Sg	do
+60	mte:Mdc	60
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+nobeni	mte:Pz-fsl	noben
+drugi	mte:Mlpfsl	drug
+članici	mte:Ncfsl	članica
+EU	mte:Npfsg	EU
+turistom	mte:Ncmpd	turist
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+kupiti	mte:Vmen	kupiti
+polletne	mte:Agpfsg	polleten
+vinjete	mte:Ncfsg	vinjeta
+.	mte:Z	.
+Cena	mte:Ncfsn	cena
+avstrijskih	mte:Agpnpg	avstrijski
+in	mte:Cc	in
+švicarskih	mte:Agpnpg	švicarski
+vinjet	mte:Ncnpg	vinjet
+Cena	mte:Ncfsn	cena
+desetdnevne	mte:Agpfsg	desetdneven
+vinjete	mte:Ncfsg	vinjeta
+po	mte:Sl	po
+avstrijskih	mte:Agpfpl	avstrijski
+avtocestah	mte:Ncfpl	avtocesta
+je	mte:Va-r3s-n	biti
+7,60	mte:Mdc	7,60
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Za	mte:Sa	za
+dvomesečno	mte:Agpnsa	dvomesečen
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+odšteti	mte:Vmen	odšteti
+21,80	mte:Mdc	21,80
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+letna	mte:Agpfsn	leten
+vinjeta	mte:Ncfsn	vinjet
+za	mte:Sa	za
+vozila	mte:Ncnpa	vozilo
+do	mte:Sg	do
+3,5	mte:Mdc	3,5
+tone	mte:Ncfsg	tona
+pa	mte:Cc	pa
+stane	mte:Vmpr3s	stati
+72,60	mte:Mdc	72,60
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Švica	mte:Npfsn	Švica
+pozna	mte:Vmpr3s	poznati
+le	mte:Q	le
+letne	mte:Agpfpa	leten
+vinjete	mte:Ncfpa	vinjeta
+.	mte:Z	.
+Teh	mte:Pd-mpg	ta
+se	mte:Px------y	se
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+ne	mte:Q	ne
+da	mte:Vmer3s	dati
+kupiti	mte:Vmen	kupiti
+,	mte:Z	,
+temveč	mte:Cc	temveč
+le	mte:Q	le
+na	mte:Sl	na
+švicarskih	mte:Agpmpl	švicarski
+mejnih	mte:Agpmpl	mejen
+prehodih	mte:Ncmpl	prehod
+,	mte:Z	,
+bencinskih	mte:Agpfpl	bencinski
+črpalkah	mte:Ncfpl	črpalka
+ali	mte:Cc	ali
+poštah	mte:Ncfpl	pošta
+,	mte:Z	,
+stanejo	mte:Vmpr3p	stati
+pa	mte:Cc	pa
+25	mte:Mdc	25
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+bo	mte:Va-f3s-n	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+na	mte:Sl	na
+redni	mte:Agpfsl	reden
+seji	mte:Ncfsl	seja
+odločala	mte:Vmpp-sf	odločati
+o	mte:Sl	o
+predlogu	mte:Ncmsl	predlog
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+za	mte:Sa	za
+uvedbo	mte:Ncfsa	uvedba
+vinjet	mte:Ncnpg	vinjet
+.	mte:Z	.
+Ministrstvo	mte:Ncnsn	ministrstvo
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+predlagalo	mte:Vmbp-sn	predlagati
+le	mte:Q	le
+letne	mte:Agpfpa	leten
+in	mte:Cc	in
+polletne	mte:Agpfpa	polleten
+vinjete	mte:Ncfpa	vinjeta
+.	mte:Z	.
+Cena	mte:Ncfsn	cena
+letne	mte:Agpfsg	leten
+vinjete	mte:Ncfsg	vinjeta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+časnika	mte:Ncmsg	časnik
+Finance	mte:Ncmsg	finance
+gibala	mte:Vmpp-sf	gibati
+med	mte:Si	med
+55	mte:Mdc	55
+in	mte:Cc	in
+60	mte:Mdc	60
+evri	mte:Ncmpi	evro
+,	mte:Z	,
+polletna	mte:Agpfsn	polleten
+pa	mte:Cc	pa
+naj	mte:Q	naj
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+presegla	mte:Vmep-sf	preseči
+40	mte:Mdc	40
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Vinjete	mte:Ncnsg	vinjeta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+uvedle	mte:Vmep-pf	uvesti
+še	mte:Q	še
+pred	mte:Si	pred
+poletno	mte:Agpfsi	poleten
+sezono	mte:Ncfsi	sezona
+,	mte:Z	,
+točneje	mte:Rgc	točno
+konec	mte:Sg	konec
+junija	mte:Ncmsg	junij
+.	mte:Z	.
+Cestninjenje	mte:Ncnsn	cestninjenje
+po	mte:Sl	po
+starem	mte:Agpmsl	star
+sistemu	mte:Ncmsl	sistem
+ostaja	mte:Vmpr3s	ostajati
+za	mte:Sa	za
+tovornjake	mte:Ncmpa	tovornjak
+,	mte:Z	,
+zanje	mte:Pp3mpa--b	zame
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+uvedlo	mte:Vmep-sn	uvesti
+tudi	mte:Q	tudi
+ABC	mte:Npmsn	ABC
+.	mte:Z	.
+Sicer	mte:Q	sicer
+bo	mte:Va-f3s-n	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+znana	mte:Appfsn	znan
+uvedba	mte:Ncfsn	uvedba
+in	mte:Cc	in
+cena	mte:Ncfsn	cena
+omenjenih	mte:Appnpg	omenjen
+vinjet	mte:Ncnpg	vinjet
+.	mte:Z	.
+Po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+bosta	mte:Va-f3d-n	biti
+na	mte:Sl	na
+mizi	mte:Ncfsl	miza
+še	mte:Q	še
+dve	mte:Mlcfda	dva
+drugačni	mte:Agpfda	drugačen
+možnosti	mte:Ncfda	možnost
+.	mte:Z	.
+Prometni	mte:Agpmsny	prometen
+minister	mte:Ncmsn	minister
+včeraj	mte:Rgp	včeraj
+na	mte:Sa	na
+vprašanja	mte:Ncnpa	vprašanje
+o	mte:Sl	o
+vinjetah	mte:Ncfpl	vinjeta
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+odgovarjati	mte:Vmpn	odgovarjati
+.	mte:Z	.
+Ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+pri	mte:Sl	pri
+taki	mte:Pd-fsl	tak
+ceni	mte:Ncfsl	cena
+in	mte:Cc	in
+s	mte:Si	z
+takim	mte:Pd-msi	tak
+sistemom	mte:Ncmsi	sistem
+Dars	mte:Npmsn	Dars
+lahko	mte:Rgp	lahko
+zbral	mte:Vmep-sm	zbrati
+dovolj	mte:Rgp	dovolj
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+odplačevanje	mte:Ncnsa	odplačevanje
+dolgov	mte:Ncmpg	dolg
+,	mte:Z	,
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+niso	mte:Va-r3p-y	biti
+želeli	mte:Vmpp-pm	želeti
+komentirati	mte:Vmbn	komentirati
+.	mte:Z	.
+Bo	mte:Va-f3s-n	Bo
+pa	mte:Cc	pa
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+pred	mte:Si	pred
+časom	mte:Ncmsi	čas
+zagotovil	mte:Vmep-sm	zagotoviti
+minister	mte:Ncmsn	minister
+Andrej	mte:Npmsn	Andrej
+Bajuk	mte:Npmsn	Bajuk
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+ključno	mte:Agpnsn	ključen
+pri	mte:Sl	pri
+njegovi	mte:Ps3fslsm	njegov
+podpori	mte:Ncfsl	podpora
+ali	mte:Cc	ali
+nepodpori	mte:Ncmsl	nepodpor
+vinjetam	mte:Ncfpd	vinjeta
+.	mte:Z	.
+Kakšno	mte:Pq-nsn	kakšen
+bo	mte:Va-f3s-n	biti
+uvajanje	mte:Ncnsn	uvajanje
+vinjet	mte:Ncnpg	vinjet
+?	mte:Z	?
+Države	mte:Ncfpg	država
+po	mte:Sl	po
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+ne	mte:Q	ne
+plačuje	mte:Vmpr3s	plačevati
+cestnin	mte:Ncfpg	cestnina
+Za	mte:Sa	za
+vožnjo	mte:Ncfsa	vožnja
+po	mte:Sl	po
+avtocestah	mte:Ncfpl	avtocesta
+vam	mte:Pp2-pd	ti
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+treba	mte:Rgp	treba
+plačevati	mte:Vmpn	plačevati
+v	mte:Sl	v
+Belgiji	mte:Npfsl	Belgija
+,	mte:Z	,
+Estoniji	mte:Npfsl	Estonija
+,	mte:Z	,
+Islandiji	mte:Npfsl	Islandija
+,	mte:Z	,
+Latviji	mte:Npfsl	Latvija
+,	mte:Z	,
+Luksemburgu	mte:Npmsl	Luksemburg
+,	mte:Z	,
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+na	mte:Sl	na
+Švedskem	mte:Npnsl	Švedsko
+,	mte:Z	,
+v	mte:Sl	v
+Ukrajini	mte:Npfsl	Ukrajina
+,	mte:Z	,
+Rusiji	mte:Npfsl	Rusija
+,	mte:Z	,
+na	mte:Sl	na
+Danskem	mte:Npnsl	Dansko
+,	mte:Z	,
+Finskem	mte:Npnsl	Finsko
+,	mte:Z	,
+Irskem	mte:Npnsl	Irsko
+,	mte:Z	,
+Malti	mte:Npfsl	Malti
+in	mte:Cc	in
+Nizozemskem	mte:Agpnsl	nizozemski
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+bo	mte:Va-f3s-n	biti
+predlog	mte:Ncmsan	predlog
+prometnega	mte:Agpnsg	prometen
+ministrstva	mte:Ncnsg	ministrstvo
+o	mte:Sl	o
+uvedbah	mte:Ncfpl	uvedba
+vinjet	mte:Ncnpg	vinjet
+predstavila	mte:Vmep-sf	predstaviti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+.	mte:Z	.
+Čez	mte:Sa	čez
+14	mte:Mdc	14
+dni	mte:Ncmpg	dan
+bo	mte:Va-f3s-n	biti
+znana	mte:Appfsn	znan
+uradna	mte:Agpfsn	uraden
+objava	mte:Ncfsn	objava
+razpisa	mte:Ncmsg	razpis
+za	mte:Sa	za
+izdelavo	mte:Ncfsa	izdelava
+vinjet	mte:Ncnpg	vinjet
+,	mte:Z	,
+31	mte:Mdc	31
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+začelo	mte:Vmep-sn	začeti
+vračanje	mte:Ncnsn	vračanje
+dobroimetja	mte:Ncnsg	dobroimetje
+lastnikov	mte:Ncmpg	lastnik
+ABC	mte:Ncmsn	ABC
+.	mte:Z	.
+Do	mte:Sg	do
+30	mte:Mdc	30
+.	mte:Z	.
+junija	mte:Ncmsg	junij
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+začela	mte:Vmep-sf	začeti
+uradna	mte:Agpfsn	uraden
+uporaba	mte:Ncfsn	uporaba
+vinjet	mte:Ncnpg	vinjet
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+državi	mte:Ncfsl	država
+že	mte:Q	že
+nemoteno	mte:Rgp	nemoten
+delovala	mte:Vmpp-sf	delovati
+mreža	mte:Ncfsn	mreža
+prodajnih	mte:Agpnpg	prodajen
+mest	mte:Ncnpg	mesto
+z	mte:Si	z
+vinjetami	mte:Ncfpi	vinjeta
+.	mte:Z	.
+Napoved	mte:Ncfsa	napoved
+vinjet	mte:Ncnpg	vinjet
+pred	mte:Si	pred
+štirinajstimi	mte:Mlc-pi	štirinajst
+dnevi	mte:Ncmpi	dan
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+marca	mte:Ncmsg	marec
+napovedal	mte:Vmep-sm	napovedati
+uvedbo	mte:Ncfsa	uvedba
+vinjet	mte:Ncnpg	vinjet
+za	mte:Sa	za
+osebna	mte:Agpnpa	oseben
+vozila	mte:Ncnpa	vozilo
+.	mte:Z	.
+Za	mte:Sa	za
+tovorna	mte:Agpnpa	tovoren
+vozila	mte:Ncnpa	vozilo
+do	mte:Sg	do
+uvedbe	mte:Ncfsg	uvedba
+satelitskega	mte:Agpnsg	satelitski
+cestninjenja	mte:Ncnsg	cestninjenje
+ostaja	mte:Vmpr3s	ostajati
+cestninjenje	mte:Ncnsa	cestninjenje
+po	mte:Sl	po
+starem	mte:Agpmsl	star
+sistemu	mte:Ncmsl	sistem
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+minister	mte:Ncmsn	minister
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+uvedba	mte:Ncfsn	uvedba
+vinjet	mte:Ncnpg	vinjet
+za	mte:Sa	za
+osebna	mte:Agpnpa	oseben
+vozila	mte:Ncnpa	vozilo
+in	mte:Cc	in
+ohranitev	mte:Ncfsa	ohranitev
+obstoječega	mte:Appmsg	obstoječ
+sistema	mte:Ncmsg	sistem
+cestninjenja	mte:Ncnsg	cestninjenje
+za	mte:Sa	za
+tovornjake	mte:Ncmpa	tovornjak
+najbolj	mte:Rgs	najbolj
+smotrna	mte:Agpfsn	smotrn
+in	mte:Cc	in
+smiselna	mte:Agpfsn	smiseln
+rešitev	mte:Ncfsn	rešitev
+.	mte:Z	.
+Zagotavlja	mte:Vmpr3s	zagotavljati
+tudi	mte:Q	tudi
+finančno	mte:Agpfsa	finančen
+vzdržnost	mte:Ncfsa	vzdržnost
+Družbe	mte:Ncfsg	družba
+za	mte:Sa	za
+avtoceste	mte:Ncfpa	avtocesta
+v	mte:Sl	v
+RS	mte:Npfsl	RS

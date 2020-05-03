@@ -1,498 +1,510 @@
-token	tag
-Okrog	Rgp
-200	Mdc
-do	Sg
-250	Mdc
-navijačev	Ncmpg
-Olimpije	Npfsg
-Green	Npmsn
-Dragons	Npmsn
-se	Px------y
-bo	Va-f3s-n
-odpravilo	Vmep-sn
-na	Sa
-nocojšnji	Agpmsay
-derbi	Ncmsan
-z	Si
-Mariborom	Npmsi
-(	Z
-18	Mdc
-:	Z
-00	Mdc
-)	Z
-.	Z
-S	Sg
-Policije	Ncfsg
-sporočajo	Vmpr3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-na	Sl
-zelenem	Agpmsl
-vlaku	Ncmsl
-njihovih	Ps3mpgp
-pripadnikov	Ncmpg
-dovolj	Rgp
-.	Z
-"	Z
-V	Sl
-takšnih	Pd-mpl
-primerih	Ncmpl
-vedno	Rgp
-spremljamo	Vmpr1p
-zadeve	Ncfpa
-.	Z
-Prisotni	Agpmpn
-bomo	Va-f1p-n
-,	Z
-kjer	Cs
-se	Px------y
-bodo	Va-f3p-n
-navijači	Ncmpn
-zbrali	Vmep-pm
-,	Z
-nato	Rgp
-pa	Cc
-jih	Pp3mpa--y
-bomo	Va-f1p-n
-spremljali	Vmpp-pm
-do	Sg
-konca	Ncmsg
-oziroma	Cc
-do	Sg
-mariborske	Agpfsg
-železniške	Agpfsg
-postaje	Ncfsg
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-nadzor	Ncmsan
-prevzeli	Vmep-pm
-mariborski	Agpmpn
-policisti	Ncmpn
-,	Z
-"	Z
-je	Va-r3s-n
-za	Sa
-zurnal24	Mdc
-.	Z
-si	Px---d--y
-pojasnil	Vmep-sm
-Vinko	Npmsn
-Stojnšek	Npmsn
-z	Sg
-ljubljanske	Agpfsg
-policijske	Agpfsg
-uprave	Ncfsg
-.	Z
-Leta	Ncnsg
-2004	Mdc
-je	Va-r3s-n
-Olimpija	Npfsn
-nazadnje	Rgp
-slavila	Vmpp-sf
-v	Sl
-Mariboru	Npmsl
-.	Z
-Z	Si
-dvema	Mlcmdi
-zadetkoma	Ncmdi
-Sebastjana	Npmsg
-Cimerotiča	Npmsg
-in	Cc
-enim	Mlpmsi
-kasnejšega	Agcmsg
-kapetana	Ncmsg
-Maribora	Npmsg
-Zorana	Npmsg
-Pavlovića	Npmsg
-so	Va-r3p-n
-takratni	Agpmpn
-varovanci	Ncmpn
-Milivoja	Npmsg
-Bračuna	Npmsg
-slavili	Vmpp-pm
-s	Si
-3	Mdc
-:	Z
-0	Ncmsn
-.	Z
-Po	Sl
-vrnitvi	Ncfsl
-v	Sa
-prvo	Mlofsa
-ligo	Ncfsa
-zmaji	Ncmpn
-v	Sl
-Ljudskem	Agpmsl
-vrtu	Ncmsl
-še	Q
-niso	Va-r3p-y
-zmagali	Vmep-pm
-,	Z
-šele	Q
-na	Sl
-zadnjem	Agpmsl
-derbiju	Ncmsl
-v	Sl
-Ljubljani	Npfsl
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-dobili	Vmep-pm
-s	Si
-4	Mdc
-:	Z
-1	Mdc
-,	Z
-so	Va-r3p-n
-sploh	Q
-slavili	Vmpp-pm
-na	Sl
-večnem	Agpmsl
-derbiju	Ncmsl
-v	Sl
-eri	Npfsl
-po	Sl
-finančnem	Agpmsl
-zlomu	Ncmsl
-kluba	Ncmsg
-.	Z
-(	Z
-nkolimpija.si	Mdc
-)	Z
-Obvezna	Agpfsn
-literatura	Ncfsn
-pred	Si
-derbijem	Ncmsi
-:	Z
-•	Z
-Bozgo	Npmsn
-:	Z
-Vršič	Npmsn
-bo	Va-f3s-n
-težko	Agpnsn
-36	Mdc
-tekem	Ncfpg
-vrhunski	Agpmsny
-•	Z
-Ačimović	Npmsn
-:	Z
-V	Sl
-LV	Ncmsn
-večja	Agcfsn
-možnost	Ncfsn
-,	Z
-da	Cs
-srečam	Vmer1s
-Zahota	Ncmsa
-•	Z
-NAPOVED	Ncfsa
-:	Z
-Vse	Pg-nsn
-za	Sa
-zmago	Ncfsa
-/	Z
-čago	Ncmsn
-•	Z
-Sretenović	Npmsn
-:	Z
-"	Z
-Maribor	Npmsn
-nima	Vmpr3s-y
-Vršiča	Npmsg
-"	Z
-•	Z
-Fair	Ncmsn
-play	Ncmsn
-:	Z
-"	Z
-Nogometaši	Ncmpn
-nasprotniki	Ncmpn
-nasilja	Ncnsg
-na	Sl
-stadionih	Ncmpl
-"	Z
-V	Sl
-Maribor	Npmsn
-,	Z
-kjer	Cs
-se	Px------y
-ob	Sl
-18	Mdc
-.	Mdo
-uri	Ncfsl
-začenja	Vmpr3s
-najbolj	Rgs
-opevan	Appmsnn
-derbi	Ncmsn
-slovenske	Agpfsg
-nogometne	Agpfsg
-lige	Ncfsg
--	Z
-njegova	Ps3fsnsm
-jesenska	Agpfsn
-izvedba	Ncfsn
-v	Sl
-Stožicah	Npfpl
-je	Va-r3s-n
-bila	Va-p-sf
-precej	Rgp
-incidentna	Agpfsn
--	Z
-med	Si
-Mariborom	Npmsi
-in	Cc
-Olimpijo	Npfsi
-,	Z
-se	Px------y
-je	Va-r3s-n
-predvidoma	Rgp
-odpravilo	Vmep-sn
-od	Sg
-200	Mdc
-do	Sg
-250	Mdc
-najbolj	Rgs
-vnetih	Appmpg
-Olimpijinih	Aspmpg
-navijačev	Ncmpg
-Green	Npmsn
-Dragons	Npmsn
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-v	Sa
-štajersko	Agpfsa
-metropolo	Ncfsa
-odpravili	Vmep-pm
-z	Si
-lastnim	Agpmsi
-vlakom	Ncmsi
-,	Z
-gotovo	Rgp
-pa	Cc
-kdo	Pq-msn
-tudi	Q
-z	Si
-lastnim	Agpnsi
-vozilom	Ncnsi
-.	Z
-"	Z
-Tudi	Q
-na	Sl
-vlaku	Ncmsl
-bodo	Va-f3p-n
-policisti	Ncmpn
-.	Z
-Natančnih	Agpmpg
-podatkov	Ncmpg
-o	Sl
-številu	Ncnsl
-praviloma	Rgp
-ne	Q
-dajemo	Vmpr1p
-.	Z
-Lahko	Rgp
-pa	Cc
-povem	Vmer1s
-,	Z
-da	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-dovolj	Rgp
-.	Z
-Težko	Rgp
-bi	Va-c
-povedal	Vmep-sm
-,	Z
-kaj	Pq-nsa
-pričakujemo	Vmpr1p
-od	Sg
-gostovanja	Ncnsg
-v	Sl
-Mariboru	Npmsl
-.	Z
-Kakšnih	Pq-fpg
-večjih	Agcfpg
-kršitev	Ncfpg
-ponavadi	Rgp
-na	Sl
-vlaku	Ncmsl
-ni	Va-r3s-y
-.	Z
-Če	Cs
-pa	Cc
-se	Px------y
-bodo	Va-f3p-n
-zgodile	Vmep-pf
-,	Z
-bomo	Va-f1p-n
-ukrepali	Vmpp-pm
-,	Z
-"	Z
-je	Va-r3s-n
-dodal	Vmep-sm
-Stojnšek	Npmsn
-.	Z
-Vse	Rgp
-prej	Rgc
-kot	Cs
-mirno	Rgp
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-na	Sl
-zelenem	Agpmsl
-vlaku	Ncmsl
-pred	Si
-nekaj	Rgp
-več	Rgc
-kot	Cs
-dvema	Mlcndi
-letoma	Ncndi
-,	Z
-ko	Cs
-je	Va-r3s-n
-14	Mdc
-oseb	Ncfpg
-namesto	Sg
-v	Sl
-Ljudskem	Agpmsl
-vrtu	Ncmsl
-končalo	Vmep-sn
-na	Sl
-policijski	Agpfsl
-postaji	Ncfsl
-.	Z
-"	Z
-Nismo	Va-r1p-y
-delali	Vmpp-pm
-nikakršnih	Pz-mpg
-izgredov	Ncmpg
-,	Z
-ni	Va-r3s-y
-bilo	Va-p-sn
-bakel	Ncfpg
-.	Z
-Edini	Agpfsn
-bakli	Ncmsn
-,	Z
-ki	Cs
-smo	Va-r1p-n
-ju	Pp3mda--y
-prižgali	Vmep-pm
-,	Z
-sta	Va-r3d-n
-zagoreli	Vmep-dm
-v	Sl
-Ljubljani	Npfsl
-uro	Ncfsa
-pred	Si
-odhodom	Ncmsi
-vlaka	Ncmsg
-.	Z
-Postanek	Ncmsn
-na	Sl
-Teznem	Npnsl
-ni	Va-r3s-y
-bil	Va-p-sm
-predviden	Appmsnn
-.	Z
-Ko	Cs
-se	Px------y
-je	Va-r3s-n
-vlak	Ncmsn
-ustavil	Vmep-sm
-,	Z
-sem	Va-r1s-n
-pogledal	Vmep-sm
-skozi	Sa
-okno	Ncnsa
-,	Z
-nato	Rgp
-pa	Cc
-sem	Va-r1s-n
-kmalu	Rgp
-začutil	Vmep-sm
-,	Z
-da	Cs
-me	Pp1-sa--y
-nekdo	Pi-msn
-grabi	Vmpr3s
-od	Sg
-zadaj	Ncmsg
-in	Cc
-kmalu	Rgp
-sem	Va-r1s-n
-se	Px------y
-znašel	Vmep-sm
-v	Sl
-marici	Ncfsl
-.	Z
-Izbili	Vmep-pm
-so	Va-r3p-n
-mi	Pp1-sd--y
-tudi	Q
-en	Mlpmsa
-zob	Ncmsan
-ter	Cc
-nas	Pp1-pa
-grdo	Rgp
-žalili	Vmpp-pm
-.	Z
-Česa	Pq-nsg
-takega	Pd-nsg
-v	Sl
-15	Mdc
-letih	Ncnpl
-še	Q
-nisem	Va-r1s-y
-slišal	Vmbp-sm
-.	Z
-Gre	Vmbr3s
-za	Sa
-policiste	Ncmpa
-posebne	Agpfsg
-policijske	Agpfsg
-enote	Ncfsg
-Maribor	Npmsn
-,	Z
-ki	Cs
-so	Va-r3p-n
-tedaj	Rgp
-prišli	Vmep-pm
-na	Sa
-vlak	Ncmsan
-.	Z
-Pripadniki	Ncmpn
-posebne	Agpfsg
-policijske	Agpfsg
-enote	Ncfsg
-Ljubljana	Npfsn
-o	Sl
-tem	Pd-nsl
-niso	Va-r3p-y
-vedeli	Vmpp-pm
-ničesar	Pz-nsg
-in	Cc
-z	Si
-njimi	Pp3mpi
-smo	Va-r1p-n
-imeli	Vmpp-pm
-korektne	Agpmpa
-odnose	Ncmpa
-,	Z
-"	Z
-nam	Pp1-pd
-je	Va-r3s-n
-tedaj	Rgp
-pojasnil	Vmep-sm
-eden	Mlpmsn
-od	Sg
-njih	Pp3mpg
-Danijel	Npmsn
-Komič	Npmsn
-.	Z
+token	tag	lemma
+Okrog	mte:Rgp	okrog
+200	mte:Mdc	200
+do	mte:Sg	do
+250	mte:Mdc	250
+navijačev	mte:Ncmpg	navijač
+Olimpije	mte:Npfsg	Olimpija
+Green	mte:Npmsn	Green
+Dragons	mte:Npmsn	Dragons
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+odpravilo	mte:Vmep-sn	odpraviti
+na	mte:Sa	na
+nocojšnji	mte:Agpmsay	nocojšnji
+derbi	mte:Ncmsan	derbi
+z	mte:Si	z
+Mariborom	mte:Npmsi	Maribor
+(	mte:Z	(
+18	mte:Mdc	18
+:	mte:Z	:
+00	mte:Mdc	00
+)	mte:Z	)
+.	mte:Z	.
+S	mte:Sg	z
+Policije	mte:Ncfsg	policija
+sporočajo	mte:Vmpr3p	sporočati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+zelenem	mte:Agpmsl	zelen
+vlaku	mte:Ncmsl	vlak
+njihovih	mte:Ps3mpgp	njihov
+pripadnikov	mte:Ncmpg	pripadnik
+dovolj	mte:Rgp	dovolj
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+takšnih	mte:Pd-mpl	takšen
+primerih	mte:Ncmpl	primer
+vedno	mte:Rgp	vedno
+spremljamo	mte:Vmpr1p	spremljati
+zadeve	mte:Ncfpa	zadeva
+.	mte:Z	.
+Prisotni	mte:Agpmpn	prisoten
+bomo	mte:Va-f1p-n	biti
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+navijači	mte:Ncmpn	navijač
+zbrali	mte:Vmep-pm	zbrati
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+bomo	mte:Va-f1p-n	biti
+spremljali	mte:Vmpp-pm	spremljati
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+oziroma	mte:Cc	oziroma
+do	mte:Sg	do
+mariborske	mte:Agpfsg	mariborski
+železniške	mte:Agpfsg	železniški
+postaje	mte:Ncfsg	postaja
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+nadzor	mte:Ncmsan	nadzor
+prevzeli	mte:Vmep-pm	prevzeti
+mariborski	mte:Agpmpn	mariborski
+policisti	mte:Ncmpn	policist
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+zurnal24	mte:Mdc	zurnal24
+.	mte:Z	.
+si	mte:Px---d--y	se
+pojasnil	mte:Vmep-sm	pojasniti
+Vinko	mte:Npmsn	Vinko
+Stojnšek	mte:Npmsn	Stojnšek
+z	mte:Sg	z
+ljubljanske	mte:Agpfsg	ljubljanski
+policijske	mte:Agpfsg	policijski
+uprave	mte:Ncfsg	uprava
+.	mte:Z	.
+Leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+je	mte:Va-r3s-n	biti
+Olimpija	mte:Npfsn	Olimpija
+nazadnje	mte:Rgp	nazadnje
+slavila	mte:Vmpp-sf	slaviti
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+.	mte:Z	.
+Z	mte:Si	z
+dvema	mte:Mlcmdi	dva
+zadetkoma	mte:Ncmdi	zadetek
+Sebastjana	mte:Npmsg	Sebastjan
+Cimerotiča	mte:Npmsg	Cimerotič
+in	mte:Cc	in
+enim	mte:Mlpmsi	en
+kasnejšega	mte:Agcmsg	kasen
+kapetana	mte:Ncmsg	kapetan
+Maribora	mte:Npmsg	Maribor
+Zorana	mte:Npmsg	Zoran
+Pavlovića	mte:Npmsg	Pavlović
+so	mte:Va-r3p-n	biti
+takratni	mte:Agpmpn	takraten
+varovanci	mte:Ncmpn	varovanec
+Milivoja	mte:Npmsg	Milivo
+Bračuna	mte:Npmsg	Bračun
+slavili	mte:Vmpp-pm	slaviti
+s	mte:Si	z
+3	mte:Mdc	3
+:	mte:Z	:
+0	mte:Ncmsn	0
+.	mte:Z	.
+Po	mte:Sl	po
+vrnitvi	mte:Ncfsl	vrnitev
+v	mte:Sa	v
+prvo	mte:Mlofsa	prvi
+ligo	mte:Ncfsa	liga
+zmaji	mte:Ncmpn	zmaj
+v	mte:Sl	v
+Ljudskem	mte:Agpmsl	ljudski
+vrtu	mte:Ncmsl	vrt
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+zmagali	mte:Vmep-pm	zmagati
+,	mte:Z	,
+šele	mte:Q	šele
+na	mte:Sl	na
+zadnjem	mte:Agpmsl	zadnji
+derbiju	mte:Ncmsl	derbi
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+dobili	mte:Vmep-pm	dobiti
+s	mte:Si	z
+4	mte:Mdc	4
+:	mte:Z	:
+1	mte:Mdc	1
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sploh	mte:Q	sploh
+slavili	mte:Vmpp-pm	slaviti
+na	mte:Sl	na
+večnem	mte:Agpmsl	večen
+derbiju	mte:Ncmsl	derbi
+v	mte:Sl	v
+eri	mte:Npfsl	eri
+po	mte:Sl	po
+finančnem	mte:Agpmsl	finančen
+zlomu	mte:Ncmsl	zlom
+kluba	mte:Ncmsg	klub
+.	mte:Z	.
+(	mte:Z	(
+nkolimpija.si	mte:Mdc	nkolimpija.si
+)	mte:Z	)
+Obvezna	mte:Agpfsn	obvezen
+literatura	mte:Ncfsn	literatura
+pred	mte:Si	pred
+derbijem	mte:Ncmsi	derbi
+:	mte:Z	:
+•	mte:Z	•
+Bozgo	mte:Npmsn	Bozgo
+:	mte:Z	:
+Vršič	mte:Npmsn	Vršič
+bo	mte:Va-f3s-n	biti
+težko	mte:Agpnsn	težek
+36	mte:Mdc	36
+tekem	mte:Ncfpg	tekma
+vrhunski	mte:Agpmsny	vrhunski
+•	mte:Z	•
+Ačimović	mte:Npmsn	Ačimović
+:	mte:Z	:
+V	mte:Sl	v
+LV	mte:Ncmsn	LV
+večja	mte:Agcfsn	velik
+možnost	mte:Ncfsn	možnost
+,	mte:Z	,
+da	mte:Cs	da
+srečam	mte:Vmer1s	srečati
+Zahota	mte:Ncmsa	zahota
+•	mte:Z	•
+NAPOVED	mte:Ncfsa	napoved
+:	mte:Z	:
+Vse	mte:Pg-nsn	ves
+za	mte:Sa	za
+zmago	mte:Ncfsa	zmaga
+/	mte:Z	/
+čago	mte:Ncmsn	čaga
+•	mte:Z	•
+Sretenović	mte:Npmsn	Sretenović
+:	mte:Z	:
+"	mte:Z	"
+Maribor	mte:Npmsn	Maribor
+nima	mte:Vmpr3s-y	imeti
+Vršiča	mte:Npmsg	Vršič
+"	mte:Z	"
+•	mte:Z	•
+Fair	mte:Ncmsn	fair
+play	mte:Ncmsn	play
+:	mte:Z	:
+"	mte:Z	"
+Nogometaši	mte:Ncmpn	nogometaš
+nasprotniki	mte:Ncmpn	nasprotnik
+nasilja	mte:Ncnsg	nasilje
+na	mte:Sl	na
+stadionih	mte:Ncmpl	stadion
+"	mte:Z	"
+V	mte:Sl	v
+Maribor	mte:Npmsn	Maribor
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+ob	mte:Sl	ob
+18	mte:Mdc	18
+.	mte:Mdo	.
+uri	mte:Ncfsl	ura
+začenja	mte:Vmpr3s	začenjati
+najbolj	mte:Rgs	najbolj
+opevan	mte:Appmsnn	opevan
+derbi	mte:Ncmsn	derbi
+slovenske	mte:Agpfsg	slovenski
+nogometne	mte:Agpfsg	nogometen
+lige	mte:Ncfsg	liga
+-	mte:Z	-
+njegova	mte:Ps3fsnsm	njegov
+jesenska	mte:Agpfsn	jesenski
+izvedba	mte:Ncfsn	izvedba
+v	mte:Sl	v
+Stožicah	mte:Npfpl	Stožice
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+precej	mte:Rgp	precej
+incidentna	mte:Agpfsn	incidenten
+-	mte:Z	-
+med	mte:Si	med
+Mariborom	mte:Npmsi	Maribor
+in	mte:Cc	in
+Olimpijo	mte:Npfsi	Olimpija
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+odpravilo	mte:Vmep-sn	odpraviti
+od	mte:Sg	od
+200	mte:Mdc	200
+do	mte:Sg	do
+250	mte:Mdc	250
+najbolj	mte:Rgs	najbolj
+vnetih	mte:Appmpg	vnet
+Olimpijinih	mte:Aspmpg	olimpijin
+navijačev	mte:Ncmpg	navijač
+Green	mte:Npmsn	Green
+Dragons	mte:Npmsn	Dragons
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sa	v
+štajersko	mte:Agpfsa	štajerski
+metropolo	mte:Ncfsa	metropola
+odpravili	mte:Vmep-pm	odpraviti
+z	mte:Si	z
+lastnim	mte:Agpmsi	lasten
+vlakom	mte:Ncmsi	vlak
+,	mte:Z	,
+gotovo	mte:Rgp	gotovo
+pa	mte:Cc	pa
+kdo	mte:Pq-msn	kdo
+tudi	mte:Q	tudi
+z	mte:Si	z
+lastnim	mte:Agpnsi	lasten
+vozilom	mte:Ncnsi	vozilo
+.	mte:Z	.
+"	mte:Z	"
+Tudi	mte:Q	tudi
+na	mte:Sl	na
+vlaku	mte:Ncmsl	vlak
+bodo	mte:Va-f3p-n	biti
+policisti	mte:Ncmpn	policist
+.	mte:Z	.
+Natančnih	mte:Agpmpg	natančen
+podatkov	mte:Ncmpg	podatek
+o	mte:Sl	o
+številu	mte:Ncnsl	število
+praviloma	mte:Rgp	praviloma
+ne	mte:Q	ne
+dajemo	mte:Vmpr1p	dajati
+.	mte:Z	.
+Lahko	mte:Rgp	lahko
+pa	mte:Cc	pa
+povem	mte:Vmer1s	povedati
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+dovolj	mte:Rgp	dovolj
+.	mte:Z	.
+Težko	mte:Rgp	težko
+bi	mte:Va-c	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+pričakujemo	mte:Vmpr1p	pričakovati
+od	mte:Sg	od
+gostovanja	mte:Ncnsg	gostovanje
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+.	mte:Z	.
+Kakšnih	mte:Pq-fpg	kakšen
+večjih	mte:Agcfpg	velik
+kršitev	mte:Ncfpg	kršitev
+ponavadi	mte:Rgp	ponavadi
+na	mte:Sl	na
+vlaku	mte:Ncmsl	vlak
+ni	mte:Va-r3s-y	biti
+.	mte:Z	.
+Če	mte:Cs	če
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+zgodile	mte:Vmep-pf	zgoditi
+,	mte:Z	,
+bomo	mte:Va-f1p-n	biti
+ukrepali	mte:Vmpp-pm	ukrepati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dodal	mte:Vmep-sm	dodati
+Stojnšek	mte:Npmsn	Stojnšek
+.	mte:Z	.
+Vse	mte:Rgp	vse
+prej	mte:Rgc	prej
+kot	mte:Cs	kot
+mirno	mte:Rgp	mirno
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+na	mte:Sl	na
+zelenem	mte:Agpmsl	zelen
+vlaku	mte:Ncmsl	vlak
+pred	mte:Si	pred
+nekaj	mte:Rgp	nekaj
+več	mte:Rgc	več
+kot	mte:Cs	kot
+dvema	mte:Mlcndi	dva
+letoma	mte:Ncndi	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+14	mte:Mdc	14
+oseb	mte:Ncfpg	oseba
+namesto	mte:Sg	namesto
+v	mte:Sl	v
+Ljudskem	mte:Agpmsl	ljudski
+vrtu	mte:Ncmsl	vrt
+končalo	mte:Vmep-sn	končati
+na	mte:Sl	na
+policijski	mte:Agpfsl	policijski
+postaji	mte:Ncfsl	postaja
+.	mte:Z	.
+"	mte:Z	"
+Nismo	mte:Va-r1p-y	biti
+delali	mte:Vmpp-pm	delati
+nikakršnih	mte:Pz-mpg	nikakršen
+izgredov	mte:Ncmpg	izgred
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+bakel	mte:Ncfpg	bakla
+.	mte:Z	.
+Edini	mte:Agpfsn	edin
+bakli	mte:Ncmsn	bakla
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+ju	mte:Pp3mda--y	on
+prižgali	mte:Vmep-pm	prižgati
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+zagoreli	mte:Vmep-dm	zagoreti
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+uro	mte:Ncfsa	ura
+pred	mte:Si	pred
+odhodom	mte:Ncmsi	odhod
+vlaka	mte:Ncmsg	vlak
+.	mte:Z	.
+Postanek	mte:Ncmsn	postanek
+na	mte:Sl	na
+Teznem	mte:Npnsl	Teznem
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+predviden	mte:Appmsnn	predviden
+.	mte:Z	.
+Ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+vlak	mte:Ncmsn	vlak
+ustavil	mte:Vmep-sm	ustaviti
+,	mte:Z	,
+sem	mte:Va-r1s-n	biti
+pogledal	mte:Vmep-sm	pogledati
+skozi	mte:Sa	skozi
+okno	mte:Ncnsa	okno
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+sem	mte:Va-r1s-n	biti
+kmalu	mte:Rgp	kmalu
+začutil	mte:Vmep-sm	začutiti
+,	mte:Z	,
+da	mte:Cs	da
+me	mte:Pp1-sa--y	jaz
+nekdo	mte:Pi-msn	nekdo
+grabi	mte:Vmpr3s	grabiti
+od	mte:Sg	od
+zadaj	mte:Ncmsg	zadaj
+in	mte:Cc	in
+kmalu	mte:Rgp	kmalu
+sem	mte:Va-r1s-n	biti
+se	mte:Px------y	se
+znašel	mte:Vmep-sm	znajti
+v	mte:Sl	v
+marici	mte:Ncfsl	marica
+.	mte:Z	.
+Izbili	mte:Vmep-pm	izbiti
+so	mte:Va-r3p-n	biti
+mi	mte:Pp1-sd--y	jaz
+tudi	mte:Q	tudi
+en	mte:Mlpmsa	en
+zob	mte:Ncmsan	zob
+ter	mte:Cc	ter
+nas	mte:Pp1-pa	jaz
+grdo	mte:Rgp	grdo
+žalili	mte:Vmpp-pm	žaliti
+.	mte:Z	.
+Česa	mte:Pq-nsg	kaj
+takega	mte:Pd-nsg	tak
+v	mte:Sl	v
+15	mte:Mdc	15
+letih	mte:Ncnpl	leto
+še	mte:Q	še
+nisem	mte:Va-r1s-y	biti
+slišal	mte:Vmbp-sm	slišati
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+policiste	mte:Ncmpa	policist
+posebne	mte:Agpfsg	poseben
+policijske	mte:Agpfsg	policijski
+enote	mte:Ncfsg	enota
+Maribor	mte:Npmsn	Maribor
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+tedaj	mte:Rgp	tedaj
+prišli	mte:Vmep-pm	priti
+na	mte:Sa	na
+vlak	mte:Ncmsan	vlak
+.	mte:Z	.
+Pripadniki	mte:Ncmpn	pripadnik
+posebne	mte:Agpfsg	poseben
+policijske	mte:Agpfsg	policijski
+enote	mte:Ncfsg	enota
+Ljubljana	mte:Npfsn	Ljubljana
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+niso	mte:Va-r3p-y	biti
+vedeli	mte:Vmpp-pm	vedeti
+ničesar	mte:Pz-nsg	nič
+in	mte:Cc	in
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+smo	mte:Va-r1p-n	biti
+imeli	mte:Vmpp-pm	imeti
+korektne	mte:Agpmpa	korekten
+odnose	mte:Ncmpa	odnos
+,	mte:Z	,
+"	mte:Z	"
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+tedaj	mte:Rgp	tedaj
+pojasnil	mte:Vmep-sm	pojasniti
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+njih	mte:Pp3mpg	on
+Danijel	mte:Npmsn	Danijel
+Komič	mte:Npmsn	Komič
+.	mte:Z	.
+Vodja	mte:Ncmsn	vodja
+zelenih	mte:Agpmpg	zelen
+zmajev	mte:Ncmpg	zmaj
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+svojo	mte:Px-fsa	svoj
+zgodbo	mte:Ncfsa	zgodba
+podrobneje	mte:Rgc	podrobno
+pojasnil	mte:Vmep-sm	pojasniti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+INTERVJUJU	mte:Ncmsl	intervjujje

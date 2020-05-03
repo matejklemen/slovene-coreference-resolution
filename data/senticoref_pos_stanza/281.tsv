@@ -1,753 +1,761 @@
-token	tag
-Igorju	Npmsd
-Bavčarju	Npmsd
-grozi	Vmpr3s
-kazen	Ncfsa
-do	Sg
-60	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-ker	Cs
-je	Va-r3s-n
-skrival	Vmpp-sm
-lastništvo	Ncnsa
-v	Sl
-Istrabenzu	Npmsl
-.	Z
-Večino	Ncfsa
-svojega	Px-msg
-deleža	Ncmsg
-v	Sl
-Istrabenzu	Npmsl
-je	Va-r3s-n
-prodal	Vmep-sm
-Matjažu	Npmsd
-Gantarju	Npmsd
-.	Z
-Urad	Ncmsn
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-je	Va-r3s-n
-izrekel	Vmep-sm
-zelo	Rgp
-visoko	Agpfsa
-kazen	Ncfsa
-prvemu	Mlomsd
-možu	Ncmsd
-Istrabenza	Npmsg
-Igorju	Npmsd
-Bavčarju	Npmsd
-.	Z
-Globa	Ncfsn
-naj	Q
-bi	Va-c
-znašala	Vmpp-sf
-do	Sg
-60	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-dobil	Vmep-sm
-pa	Cc
-naj	Q
-bi	Va-c
-jih	Pp3mpa--y
-,	Z
-ker	Cs
-ni	Va-r3s-y
-prijavil	Vmep-sm
-lastniške	Agpfsg
-koncentracije	Ncfsg
-v	Sl
-Istrabenzu	Npmsl
-.	Z
-Bavčar	Npmsn
-že	Q
-od	Sg
-razkritja	Ncnsg
-lastništva	Ncnsg
-zanika	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-načrtoval	Vmpp-sm
-prevzem	Ncmsan
-Istrabenza	Npmsg
-.	Z
-Odločitev	Ncfsa
-urada	Ncmsg
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-glede	Sg
-globe	Ncfsg
-je	Va-r3s-n
-dokončna	Agpfsn
-,	Z
-vendar	Cc
-pa	Cc
-se	Px------y
-prvi	Mlomsn
-mož	Ncmsn
-Istrabenza	Npmsg
-na	Sa
-odločbo	Ncfsa
-še	Q
-lahko	Rgp
-pritoži	Vmer3s
-.	Z
-Če	Cs
-pritožbi	Ncfsd
-ne	Q
-bo	Va-f3s-n
-ugodeno	Appnsn
-,	Z
-Bavčarju	Npmsd
-ostane	Vmer3s
-še	Q
-sodno	Agpnsa
-varstvo	Ncnsa
-.	Z
-Bavčar	Npmsn
-danes	Rgp
-tega	Pd-nsg
-sicer	Q
-ni	Va-r3s-y
-želel	Vmpp-sm
-komentirati	Vmbn
-,	Z
-prav	Q
-tako	Rgp
-tudi	Q
-Soršak	Npmsn
-,	Z
-ki	Cs
-pravi	Vmbr3s
-,	Z
-da	Cs
-vse	Pg-fpn
-stranke	Ncfpn
-v	Sl
-postopku	Ncmsl
-še	Q
-niso	Va-r3p-y
-prejele	Vmep-pf
-odločb	Ncfpg
-.	Z
-Bavčarju	Npmsd
-se	Px------y
-v	Sa
-četrtek	Ncmsan
-zaradi	Sg
-prepovedi	Ncfsg
-glasovanja	Ncnsg
-obeta	Vmpr3s
-zelo	Rgp
-vroča	Agpfsn
-skupščina	Ncfsn
-.	Z
-Na	Sl
-njej	Pp3fsl
-bo	Va-f3s-n
-imel	Vmpp-sm
-najmanj	Rgs
-65	Mdc
-odstotkov	Ncmpg
-glasov	Ncmpg
-državni	Agpmsny
-Petrol	Npmsn
-,	Z
-ki	Cs
-namerava	Vmpr3s
-nastaviti	Vmen
-tri	Mlcmpa
-nove	Agpmpa
-svoje	Px-mpa
-nadzornike	Ncmpa
-,	Z
-zataknilo	Vmep-sn
-pa	Cc
-bi	Va-c
-se	Px------y
-lahko	Rgp
-tudi	Q
-pri	Sl
-višini	Ncfsl
-dividend	Ncfpg
-.	Z
-Družbe	Ncfsg
-Maksima	Npmsn
-Holding	Npmsn
-,	Z
-NFD	Npmsn
-Holding	Npmsn
-,	Z
-Maksima	Npfsn
-Invest	Npfsn
-,	Z
-Diamond	Npmsn
-,	Z
-Finetol	Npmsn
-in	Cc
-Fidina	Npmsn
-imajo	Vmpr3p-n
-skupaj	Rgp
-v	Sl
-lasti	Ncfsl
-49,41	Mdc
-odstotka	Ncmsg
-kapitala	Ncmsg
-Istrabenza	Npmsg
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-jim	Pp3mpd--y
-je	Va-r3s-n
-pred	Si
-časom	Ncmsi
-Agencija	Ncfsn
-za	Sa
-trg	Ncmsan
-vrednostnih	Agpmpg
-papirjev	Ncmpg
-ATVP	Npfsn
-že	Q
-prepovedala	Vmep-sf
-uresničevati	Vmpn
-glasovalne	Agpfpa
-pravice	Ncfpa
-.	Z
-Agencija	Ncfsn
-je	Va-r3s-n
-namreč	Cc
-ugotovila	Vmep-sf
-,	Z
-da	Cs
-družbe	Ncfpn
-delujejo	Vmpr3p
-usklajeno	Appnsn
-in	Cc
-dosegajo	Vmpr3p
-prevzemni	Agpmsay
-prag	Ncmsan
-v	Sl
-Istrabenzu	Npmsl
-.	Z
-Maksimi	Npfsl
-Holding	Ncmsn
-Igorja	Npmsg
-Bavčarja	Npmsg
-in	Cc
-petim	Mlofpd
-družbam	Ncfpd
-iz	Sg
-kroga	Ncmsg
-prvega	Mlomsg
-moža	Ncmsg
-finančne	Agpfsg
-skupine	Ncfsg
-NFD	Npmsn
-Stane	Npmsn
-ga	Pp3msa--y
-Valanta	Npmsn
-je	Va-r3s-n
-ATVP	Npmsa
-uresničevanje	Ncnsa
-glasovalnih	Agpfpg
-pravic	Ncfpg
-prepovedala	Vmep-sf
-,	Z
-dokler	Cs
-ena	Mlpfsn
-ali	Cc
-nekatere	Pi-fpn
-od	Sg
-njih	Pp3mpg
-v	Sl
-imenu	Ncnsl
-in	Cc
-za	Sa
-račun	Ncmsan
-vseh	Pg-mpg
-ne	Q
-objavijo	Vmer3p
-prevzemne	Agpfsg
-ponudbe	Ncfsg
-za	Sa
-Istrabenz	Npmsan
-.	Z
-Druga	Mlpfsn
-možnost	Ncfsn
-je	Va-r3s-n
-,	Z
-da	Cs
-bi	Va-c
-odtujili	Vmep-pm
-vrednostne	Agpmpa
-papirje	Ncmpa
-in	Cc
-delniške	Agpfpa
-nakupne	Agpfpa
-opcije	Ncfpa
-,	Z
-ki	Cs
-niso	Va-r3p-y
-vsebovane	Appfpn
-v	Sl
-vrednostnih	Agpmpl
-papirjih	Ncmpl
-,	Z
-tako	Cc
-da	Cs
-prevzemnega	Agpmsg
-praga	Ncmsg
-ne	Q
-bodo	Va-f3p-n
-več	Q
-dosegale	Vmpp-pf
-.	Z
-Soršak	Npmsn
-zadeve	Ncfsg
-ne	Q
-komentira	Vmbr3s
-,	Z
-saj	Cc
-vse	Pg-fpn
-stranke	Ncfpn
-v	Sl
-postopku	Ncmsl
-še	Q
-niso	Va-r3p-y
-prejele	Vmep-pf
-odločb	Ncfpg
-.	Z
-Prav	Q
-korak	Ncmsan
-v	Sa
-to	Pd-fsa
-smer	Ncfsa
-je	Va-r3s-n
-storil	Vmep-sm
-Bavčar	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-direktorju	Ncmsd
-KD	Npmsg
-Group	Npmsn
-Matjažu	Npmsd
-Gantarju	Npmsd
-prodal	Vmep-sm
-17	Mdc
-odstotkov	Ncmpg
-delnic	Ncfpg
-Istrabenza	Npmsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-bile	Va-p-pf
-do	Sg
-zdaj	Rgp
-v	Sl
-lasti	Ncfsl
-Bavčarjeve	Aspfsg
-Maksime	Npfsg
-Holdinga	Npmsg
-.	Z
-Če	Cs
-bo	Va-f3s-n
-Bavčarju	Npmsd
-in	Cc
-povezanim	Appfpd
-družbam	Ncfpd
-uspelo	Vmep-sn
-prodati	Vmen
-še	Q
-okoli	Rgp
-osem	Mlc-pa
-odstotkov	Ncmpg
-Istrabenza	Npmsg
-,	Z
-s	Si
-čimer	Pr-nsi
-se	Px------y
-bodo	Va-f3p-n
-spustili	Vmep-pm
-podprevzemno	Agpfsa
-mejo	Ncfsa
-25	Mdc
-odstotkov	Ncmpg
-,	Z
-potem	Rgp
-bo	Va-f3s-n
-Bavčar	Npmsn
-spet	Rgp
-imel	Vmpp-sm
-glasovalne	Agpfpa
-pravice	Ncfpa
-.	Z
-Prodaja	Ncfsn
-deleža	Ncmsg
-pa	Cc
-sicer	Q
-nima	Vmpr3s-y
-prav	Q
-nobenega	Pz-msg
-vpliva	Ncmsg
-na	Sa
-odločitev	Ncfsa
-Soršaka	Npmsg
-,	Z
-torej	Rgp
-globo	Ncfsn
-do	Sg
-60	Mdc
-milijonov	Ncmpg
-ostaja	Vmpr3s
-.	Z
-Postopki	Ncmpn
-še	Q
-niso	Va-r3p-y
-zaključeni	Appmpn
-Proti	Sd
-Igorju	Npmsd
-Bavčarju	Npmsd
-in	Cc
-drugim	Mlpmpd
-vpletenim	Appmpd
-v	Sa
-domnevno	Rgp
-sporen	Agpmsan
-menedžerski	Agpmsay
-odkup	Ncmsan
-Istrabenza	Npmsg
-naj	Q
-bi	Va-c
-Agencija	Ncfsn
-za	Sa
-trg	Ncmsan
-vrednostnih	Agpmpg
-papirjev	Ncmpg
-ATVP	Npfsn
-v	Sl
-kratkem	Agpnsl
-vložila	Vmep-sf
-ovadbe	Ncfpa
-.	Z
-Uradno	Agpnsa
-nadzor	Ncmsan
-sicer	Q
-še	Q
-traja	Vmpr3s
-,	Z
-poznavalci	Ncmpn
-pa	Cc
-ocenjujejo	Vmpr3p
-,	Z
-da	Cs
-bi	Va-c
-lahko	Rgp
-ovadbe	Ncfpn
-padle	Vmep-pf
-že	Q
-v	Sl
-nekaj	Rgp
-dneh	Ncmpl
-.	Z
-Neuradno	Rgp
-naj	Q
-bi	Va-c
-Bavčarju	Npmsd
-,	Z
-tako	Rgp
-kot	Cs
-predsedniku	Ncmsd
-uprave	Ncfsg
-Pivovarne	Ncfsg
-Laško	Npnsn
-Bošku	Npmsd
-Šrotu	Npmsd
-,	Z
-očitali	Vmpp-pm
-zlorabo	Ncfsa
-notranjih	Agpfpg
-informacij	Ncfpg
-.	Z
-ATVP	Npmsn
-je	Va-r3s-n
-v	Sl
-poročilu	Ncnsl
-opozorila	Ncnsg
-,	Z
-da	Cs
-postopek	Ncmsn
-nadzora	Ncmsg
-še	Q
-ni	Va-r3s-y
-zaključen	Appmsnn
-,	Z
-zato	Cc
-podrobnejših	Agcfpg
-informacij	Ncfpg
-o	Sl
-morebitnih	Agpmpl
-ukrepih	Ncmpl
-in	Cc
-ovadbah	Ncfpl
-ne	Q
-želijo	Vmpr3p
-podati	Vmbn
-.	Z
-Predstavnica	Ncfsn
-ATVP	Npfsn
-Laila	Npfsn
-Lahmadi	Npfsn
--	Z
-Jelenič	Npfsn
-je	Va-r3s-n
-danes	Rgp
-za	Sa
-24ur.com	Mdc
-pojasnila	Vmep-sf
-,	Z
-da	Cs
-ukrep	Ncmsn
-zamrznitve	Ncfsg
-glasovalnih	Agpfpg
-pravic	Ncfpg
-še	Q
-vedno	Rgp
-velja	Vmpr3s
-.	Z
-Poudarila	Vmep-sf
-je	Va-r3s-n
-še	Q
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-Istrabenz	Npmsn
-sicer	Q
-pritožil	Vmep-sm
-na	Sa
-njihovo	Ps3fsap
-odločbo	Ncfsa
-o	Sl
-glasovalnih	Agpfpl
-pravicah	Ncfpl
-,	Z
-vendar	Cc
-sodišče	Ncnsn
-o	Sl
-pritožbi	Ncfsl
-Istrabenza	Npmsg
-še	Q
-ni	Va-r3s-y
-odločalo	Vmpp-sn
-.	Z
-Bavčar	Npmsn
-je	Va-r3s-n
-večino	Ncfsa
-svojih	Px-fpg
-delnic	Ncfpg
-Istrabenza	Npmsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-poseduje	Vmpr3s
-njegova	Ps3fsnsm
-Maskima	Npfsn
-Holding	Npmsn
-,	Z
-prodal	Vmep-sm
-KD	Ncfsn
-Group	Npmsn
-Matjaža	Npmsg
-Gantarja	Npmsg
-.	Z
-ATVP	Npmsn
-,	Z
-ki	Cs
-od	Sg
-nekaterih	Pi-fpg
-družb	Ncfpg
-,	Z
-podpisnic	Ncfpg
-sporazuma	Ncmsg
-o	Sl
-izvajanju	Ncnsl
-finančnega	Agpmsg
-inženiringa	Ncmsg
-,	Z
-za	Sa
-usklajeno	Appfsa
-sodelovanjepri	Ncmpn
-prevzemni	Agpfsd
-ponudbi	Ncfsd
-za	Sa
-Istrabenz	Npmsan
-zahteva	Vmbr3s
-izjave	Ncfpa
-o	Sl
-dejstvih	Ncnpl
-inokoliščinah	Ncfpl
-pomembnih	Agpmpg
-za	Sa
-odločitev	Ncfsa
-postopkov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-vodi	Vmpr3s
-,	Z
-nadaljnjene	Appfpn
-komentira	Vmbr3s
-.	Z
-Prav	Q
-tako	Rgp
-na	Sl
-agenciji	Ncfsl
-ne	Q
-želijo	Vmpr3p
-ne	Q
-potrditi	Vmen
-ne	Q
-zanikati	Vmen
-,	Z
-da	Cs
-so	Va-r3p-n
-njihovi	Ps3mpnp
-inšpektorji	Ncmpn
-v	Sa
-petek	Ncmsan
-nenapovedano	Rgp
-obiskali	Vmep-pm
-sedeže	Ncmpa
-družbMaksima	Ncmdn
-Holding	Npmsn
-in	Cc
-NFD	Npmsn
-Holding	Npmsn
-,	Z
-kar	Pr-nsa
-so	Va-r3p-n
-predstavniki	Ncmpn
-slednje	Rgp
-žepotrdili	Vmep-pm
-.	Z
-Na	Sl
-ATVP	Npmsl
-tudi	Q
-ne	Q
-želijo	Vmpr3p
-razkriti	Vmen
-,	Z
-na	Sl
-kakšni	Pq-fsl
-podlagi	Ncfsl
-sosprožili	Vmep-pm
-pregled	Ncmsan
-.	Z
-Prodaje	Ncfsg
-različnih	Agpmpg
-deležev	Ncmpg
-Predsednikuprave	Ncfsg
-Istrabenza	Npmsg
-je	Va-r3s-n
-maja	Ncmsg
-razkril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-lastnik	Ncmsn
-poslovnega	Agpmsg
-deležadružbe	Ncfsg
-FB	Ncfsg
-Investicije	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-z	Si
-78	Mdc
--	Z
-odstotnim	Agpnsi
-lastništvom	Ncnsi
-največjilastnik	Agsfsg
-Maksime	Npfsg
-Holdinga	Ncmsg
-.	Z
-Slednja	Agpfsn
-je	Va-r3s-n
-največja	Agsfsn
-posamična	Agpfsn
-lastnicaIstrabenza	Ncfsn
-,	Z
-v	Sl
-lasti	Ncfsl
-ima	Vmpr3s-n
-24,95	Mdc
-odstotkov	Ncmpg
-.	Z
-Solastniki	Ncmpn
-naj	Q
-bi	Va-c
-bili	Va-p-pm
-tudidrugi	Agpmpn
-menedžerji	Ncmpn
-v	Sl
-Istrabenzu	Npmsl
-,	Z
-vendar	Cc
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-njihov	Ps3msnp
-delež	Ncmsn
-neznaten.Od	Mdc
-leta	Ncnsg
-2006	Mdc
-je	Va-r3s-n
-Maksima	Npfsn
-Holding	Npmsn
-v	Sl
-78	Mdc
--	Z
-odstotni	Agpfsl
-lasti	Ncfsl
-družbe	Ncfsg
-FBInvesticije	Npfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-pred	Si
-leti	Ncnpi
-ustanovila	Vmep-sf
-Faktor	Ncmsan
-banka	Ncfsn
-.	Z
-Konec	Ncmsn
-leta2006	Mdc
-je	Va-r3s-n
-družbo	Ncfsa
-FB	Ncfsg
-Investicije	Ncfsg
-prevzela	Vmep-sf
-družba	Ncfsn
-Poteza	Ncfsn
-oziroma	Cc
-njenadružba	Appfsn
-Poteza	Ncfsn
-Netherlands	Npmsn
-,	Z
-ki	Cs
-pa	Cc
-je	Va-r3s-n
-konec	Sg
-lanskega	Agpmsg
-oktobra	Ncmsg
-svoj	Px-msa
-deležprodala	Vmpp-sf
-.	Z
+token	tag	lemma
+Igorju	mte:Npmsd	Igor
+Bavčarju	mte:Npmsd	Bavčar
+grozi	mte:Vmpr3s	groziti
+kazen	mte:Ncfsa	kazen
+do	mte:Sg	do
+60	mte:Mdc	60
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+skrival	mte:Vmpp-sm	skrivati
+lastništvo	mte:Ncnsa	lastništvo
+v	mte:Sl	v
+Istrabenzu	mte:Npmsl	Istrabenz
+.	mte:Z	.
+Večino	mte:Ncfsa	večina
+svojega	mte:Px-msg	svoj
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+Istrabenzu	mte:Npmsl	Istrabenz
+je	mte:Va-r3s-n	biti
+prodal	mte:Vmep-sm	prodati
+Matjažu	mte:Npmsd	Matjaž
+Gantarju	mte:Npmsd	Gantar
+.	mte:Z	.
+Urad	mte:Ncmsn	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+je	mte:Va-r3s-n	biti
+izrekel	mte:Vmep-sm	izreči
+zelo	mte:Rgp	zelo
+visoko	mte:Agpfsa	visok
+kazen	mte:Ncfsa	kazen
+prvemu	mte:Mlomsd	prvi
+možu	mte:Ncmsd	mož
+Istrabenza	mte:Npmsg	Istrabenz
+Igorju	mte:Npmsd	Igor
+Bavčarju	mte:Npmsd	Bavčar
+.	mte:Z	.
+Globa	mte:Ncfsn	globa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+znašala	mte:Vmpp-sf	znašati
+do	mte:Sg	do
+60	mte:Mdc	60
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+dobil	mte:Vmep-sm	dobiti
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+,	mte:Z	,
+ker	mte:Cs	ker
+ni	mte:Va-r3s-y	biti
+prijavil	mte:Vmep-sm	prijaviti
+lastniške	mte:Agpfsg	lastniški
+koncentracije	mte:Ncfsg	koncentracija
+v	mte:Sl	v
+Istrabenzu	mte:Npmsl	Istrabenz
+.	mte:Z	.
+Bavčar	mte:Npmsn	Bavčar
+že	mte:Q	že
+od	mte:Sg	od
+razkritja	mte:Ncnsg	razkritje
+lastništva	mte:Ncnsg	lastništvo
+zanika	mte:Vmpr3s	zanikati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+načrtoval	mte:Vmpp-sm	načrtovati
+prevzem	mte:Ncmsan	prevzem
+Istrabenza	mte:Npmsg	Istrabenz
+.	mte:Z	.
+Odločitev	mte:Ncfsa	odločitev
+urada	mte:Ncmsg	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+glede	mte:Sg	glede
+globe	mte:Ncfsg	globa
+je	mte:Va-r3s-n	biti
+dokončna	mte:Agpfsn	dokončen
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+se	mte:Px------y	se
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Istrabenza	mte:Npmsg	Istrabenz
+na	mte:Sa	na
+odločbo	mte:Ncfsa	odločba
+še	mte:Q	še
+lahko	mte:Rgp	lahko
+pritoži	mte:Vmer3s	pritožiti
+.	mte:Z	.
+Če	mte:Cs	če
+pritožbi	mte:Ncfsd	pritožba
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+ugodeno	mte:Appnsn	ugoden
+,	mte:Z	,
+Bavčarju	mte:Npmsd	Bavčar
+ostane	mte:Vmer3s	ostati
+še	mte:Q	še
+sodno	mte:Agpnsa	soden
+varstvo	mte:Ncnsa	varstvo
+.	mte:Z	.
+Bavčar	mte:Npmsn	Bavčar
+danes	mte:Rgp	danes
+tega	mte:Pd-nsg	ta
+sicer	mte:Q	sicer
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+komentirati	mte:Vmbn	komentirati
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+tudi	mte:Q	tudi
+Soršak	mte:Npmsn	Soršak
+,	mte:Z	,
+ki	mte:Cs	ki
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+vse	mte:Pg-fpn	ves
+stranke	mte:Ncfpn	stranka
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+prejele	mte:Vmep-pf	prejeti
+odločb	mte:Ncfpg	odločba
+.	mte:Z	.
+Bavčarju	mte:Npmsd	Bavčar
+se	mte:Px------y	se
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+zaradi	mte:Sg	zaradi
+prepovedi	mte:Ncfsg	prepoved
+glasovanja	mte:Ncnsg	glasovanje
+obeta	mte:Vmpr3s	obetati
+zelo	mte:Rgp	zelo
+vroča	mte:Agpfsn	vroč
+skupščina	mte:Ncfsn	skupščina
+.	mte:Z	.
+Na	mte:Sl	na
+njej	mte:Pp3fsl	on
+bo	mte:Va-f3s-n	biti
+imel	mte:Vmpp-sm	imeti
+najmanj	mte:Rgs	najmanj
+65	mte:Mdc	65
+odstotkov	mte:Ncmpg	odstotek
+glasov	mte:Ncmpg	glas
+državni	mte:Agpmsny	državen
+Petrol	mte:Npmsn	Petrol
+,	mte:Z	,
+ki	mte:Cs	ki
+namerava	mte:Vmpr3s	nameravati
+nastaviti	mte:Vmen	nastaviti
+tri	mte:Mlcmpa	trije
+nove	mte:Agpmpa	nov
+svoje	mte:Px-mpa	svoj
+nadzornike	mte:Ncmpa	nadzornik
+,	mte:Z	,
+zataknilo	mte:Vmep-sn	zatakniti
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+višini	mte:Ncfsl	višina
+dividend	mte:Ncfpg	dividend
+.	mte:Z	.
+Družbe	mte:Ncfsg	družba
+Maksima	mte:Npmsn	Maksim
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+NFD	mte:Npmsn	NFD
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+Maksima	mte:Npfsn	Maksim
+Invest	mte:Npfsn	Invest
+,	mte:Z	,
+Diamond	mte:Npmsn	Diamond
+,	mte:Z	,
+Finetol	mte:Npmsn	Finetol
+in	mte:Cc	in
+Fidina	mte:Npmsn	Fidina
+imajo	mte:Vmpr3p-n	imeti
+skupaj	mte:Rgp	skupaj
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+49,41	mte:Mdc	49,41
+odstotka	mte:Ncmsg	odstotek
+kapitala	mte:Ncmsg	kapital
+Istrabenza	mte:Npmsg	Istrabenz
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+časom	mte:Ncmsi	čas
+Agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+trg	mte:Ncmsan	trg
+vrednostnih	mte:Agpmpg	vrednosten
+papirjev	mte:Ncmpg	papir
+ATVP	mte:Npfsn	ATVP
+že	mte:Q	že
+prepovedala	mte:Vmep-sf	prepovedati
+uresničevati	mte:Vmpn	uresničevati
+glasovalne	mte:Agpfpa	glasovalen
+pravice	mte:Ncfpa	pravica
+.	mte:Z	.
+Agencija	mte:Ncfsn	agencija
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+ugotovila	mte:Vmep-sf	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+družbe	mte:Ncfpn	družba
+delujejo	mte:Vmpr3p	delovati
+usklajeno	mte:Appnsn	usklajen
+in	mte:Cc	in
+dosegajo	mte:Vmpr3p	dosegati
+prevzemni	mte:Agpmsay	prevzemen
+prag	mte:Ncmsan	prag
+v	mte:Sl	v
+Istrabenzu	mte:Npmsl	Istrabenz
+.	mte:Z	.
+Maksimi	mte:Npfsl	Maks
+Holding	mte:Ncmsn	holding
+Igorja	mte:Npmsg	Igor
+Bavčarja	mte:Npmsg	Bavčar
+in	mte:Cc	in
+petim	mte:Mlofpd	peti
+družbam	mte:Ncfpd	družba
+iz	mte:Sg	iz
+kroga	mte:Ncmsg	krog
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+finančne	mte:Agpfsg	finančen
+skupine	mte:Ncfsg	skupina
+NFD	mte:Npmsn	NFD
+Stane	mte:Npmsn	Stane
+ga	mte:Pp3msa--y	on
+Valanta	mte:Npmsn	Valanta
+je	mte:Va-r3s-n	biti
+ATVP	mte:Npmsa	ATVP
+uresničevanje	mte:Ncnsa	uresničevanje
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+prepovedala	mte:Vmep-sf	prepovedati
+,	mte:Z	,
+dokler	mte:Cs	dokler
+ena	mte:Mlpfsn	en
+ali	mte:Cc	ali
+nekatere	mte:Pi-fpn	nekateri
+od	mte:Sg	od
+njih	mte:Pp3mpg	on
+v	mte:Sl	v
+imenu	mte:Ncnsl	ime
+in	mte:Cc	in
+za	mte:Sa	za
+račun	mte:Ncmsan	račun
+vseh	mte:Pg-mpg	ves
+ne	mte:Q	ne
+objavijo	mte:Vmer3p	objaviti
+prevzemne	mte:Agpfsg	prevzemen
+ponudbe	mte:Ncfsg	ponudba
+za	mte:Sa	za
+Istrabenz	mte:Npmsan	Istrabenz
+.	mte:Z	.
+Druga	mte:Mlpfsn	drug
+možnost	mte:Ncfsn	možnost
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+odtujili	mte:Vmep-pm	odtujiti
+vrednostne	mte:Agpmpa	vrednosten
+papirje	mte:Ncmpa	papir
+in	mte:Cc	in
+delniške	mte:Agpfpa	delniški
+nakupne	mte:Agpfpa	nakupen
+opcije	mte:Ncfpa	opcija
+,	mte:Z	,
+ki	mte:Cs	ki
+niso	mte:Va-r3p-y	biti
+vsebovane	mte:Appfpn	vsebovan
+v	mte:Sl	v
+vrednostnih	mte:Agpmpl	vrednosten
+papirjih	mte:Ncmpl	papir
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+prevzemnega	mte:Agpmsg	prevzemen
+praga	mte:Ncmsg	praga
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+več	mte:Q	več
+dosegale	mte:Vmpp-pf	dosegati
+.	mte:Z	.
+Soršak	mte:Npmsn	Soršak
+zadeve	mte:Ncfsg	zadeva
+ne	mte:Q	ne
+komentira	mte:Vmbr3s	komentirati
+,	mte:Z	,
+saj	mte:Cc	saj
+vse	mte:Pg-fpn	ves
+stranke	mte:Ncfpn	stranka
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+prejele	mte:Vmep-pf	prejeti
+odločb	mte:Ncfpg	odločba
+.	mte:Z	.
+Prav	mte:Q	prav
+korak	mte:Ncmsan	korak
+v	mte:Sa	v
+to	mte:Pd-fsa	ta
+smer	mte:Ncfsa	smer
+je	mte:Va-r3s-n	biti
+storil	mte:Vmep-sm	storiti
+Bavčar	mte:Npmsn	Bavčar
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+direktorju	mte:Ncmsd	direktor
+KD	mte:Npmsg	KD
+Group	mte:Npmsn	Group
+Matjažu	mte:Npmsd	Matjaž
+Gantarju	mte:Npmsd	Gantar
+prodal	mte:Vmep-sm	prodati
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+delnic	mte:Ncfpg	delnica
+Istrabenza	mte:Npmsg	Istrabenz
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Bavčarjeve	mte:Aspfsg	Bavčarjev
+Maksime	mte:Npfsg	Maksima
+Holdinga	mte:Npmsg	Holding
+.	mte:Z	.
+Če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+Bavčarju	mte:Npmsd	Bavčar
+in	mte:Cc	in
+povezanim	mte:Appfpd	povezan
+družbam	mte:Ncfpd	družba
+uspelo	mte:Vmep-sn	uspeti
+prodati	mte:Vmen	prodati
+še	mte:Q	še
+okoli	mte:Rgp	okoli
+osem	mte:Mlc-pa	osem
+odstotkov	mte:Ncmpg	odstotek
+Istrabenza	mte:Npmsg	Istrabenz
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+spustili	mte:Vmep-pm	spustiti
+podprevzemno	mte:Agpfsa	podprevzemen
+mejo	mte:Ncfsa	meja
+25	mte:Mdc	25
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+potem	mte:Rgp	potem
+bo	mte:Va-f3s-n	biti
+Bavčar	mte:Npmsn	Bavčar
+spet	mte:Rgp	spet
+imel	mte:Vmpp-sm	imeti
+glasovalne	mte:Agpfpa	glasovalen
+pravice	mte:Ncfpa	pravica
+.	mte:Z	.
+Prodaja	mte:Ncfsn	prodaja
+deleža	mte:Ncmsg	delež
+pa	mte:Cc	pa
+sicer	mte:Q	sicer
+nima	mte:Vmpr3s-y	imeti
+prav	mte:Q	prav
+nobenega	mte:Pz-msg	noben
+vpliva	mte:Ncmsg	vpliv
+na	mte:Sa	na
+odločitev	mte:Ncfsa	odločitev
+Soršaka	mte:Npmsg	Soršak
+,	mte:Z	,
+torej	mte:Rgp	torej
+globo	mte:Ncfsn	globa
+do	mte:Sg	do
+60	mte:Mdc	60
+milijonov	mte:Ncmpg	milijon
+ostaja	mte:Vmpr3s	ostajati
+.	mte:Z	.
+Postopki	mte:Ncmpn	postopek
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+zaključeni	mte:Appmpn	zaključen
+Proti	mte:Sd	proti
+Igorju	mte:Npmsd	Igor
+Bavčarju	mte:Npmsd	Bavčar
+in	mte:Cc	in
+drugim	mte:Mlpmpd	drug
+vpletenim	mte:Appmpd	vpleten
+v	mte:Sa	v
+domnevno	mte:Rgp	domnevno
+sporen	mte:Agpmsan	sporen
+menedžerski	mte:Agpmsay	menedžerski
+odkup	mte:Ncmsan	odkup
+Istrabenza	mte:Npmsg	Istrabenz
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+trg	mte:Ncmsan	trg
+vrednostnih	mte:Agpmpg	vrednosten
+papirjev	mte:Ncmpg	papir
+ATVP	mte:Npfsn	ATVP
+v	mte:Sl	v
+kratkem	mte:Agpnsl	kratek
+vložila	mte:Vmep-sf	vložiti
+ovadbe	mte:Ncfpa	ovadba
+.	mte:Z	.
+Uradno	mte:Agpnsa	uradno
+nadzor	mte:Ncmsan	nadzor
+sicer	mte:Q	sicer
+še	mte:Q	še
+traja	mte:Vmpr3s	trajati
+,	mte:Z	,
+poznavalci	mte:Ncmpn	poznavalec
+pa	mte:Cc	pa
+ocenjujejo	mte:Vmpr3p	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+ovadbe	mte:Ncfpn	ovadba
+padle	mte:Vmep-pf	pasti
+že	mte:Q	že
+v	mte:Sl	v
+nekaj	mte:Rgp	nekaj
+dneh	mte:Ncmpl	dan
+.	mte:Z	.
+Neuradno	mte:Rgp	neuradno
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Bavčarju	mte:Npmsd	Bavčar
+,	mte:Z	,
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+predsedniku	mte:Ncmsd	predsednik
+uprave	mte:Ncfsg	uprava
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+Bošku	mte:Npmsd	Boško
+Šrotu	mte:Npmsd	Šrot
+,	mte:Z	,
+očitali	mte:Vmpp-pm	očitati
+zlorabo	mte:Ncfsa	zloraba
+notranjih	mte:Agpfpg	notranji
+informacij	mte:Ncfpg	informacija
+.	mte:Z	.
+ATVP	mte:Npmsn	ATVP
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+poročilu	mte:Ncnsl	poročilo
+opozorila	mte:Ncnsg	opozorilo
+,	mte:Z	,
+da	mte:Cs	da
+postopek	mte:Ncmsn	postopek
+nadzora	mte:Ncmsg	nadzor
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+zaključen	mte:Appmsnn	zaključen
+,	mte:Z	,
+zato	mte:Cc	zato
+podrobnejših	mte:Agcfpg	podroben
+informacij	mte:Ncfpg	informacija
+o	mte:Sl	o
+morebitnih	mte:Agpmpl	morebiten
+ukrepih	mte:Ncmpl	ukrep
+in	mte:Cc	in
+ovadbah	mte:Ncfpl	ovadba
+ne	mte:Q	ne
+želijo	mte:Vmpr3p	želeti
+podati	mte:Vmbn	podati
+.	mte:Z	.
+Predstavnica	mte:Ncfsn	predstavnica
+ATVP	mte:Npfsn	ATVP
+Laila	mte:Npfsn	Lail
+Lahmadi	mte:Npfsn	Lahmadi
+-	mte:Z	-
+Jelenič	mte:Npfsn	Jelenič
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+za	mte:Sa	za
+24ur.com	mte:Mdc	24ur.co
+pojasnila	mte:Vmep-sf	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+ukrep	mte:Ncmsn	ukrep
+zamrznitve	mte:Ncfsg	zamrznitev
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+velja	mte:Vmpr3s	veljati
+.	mte:Z	.
+Poudarila	mte:Vmep-sf	poudariti
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Istrabenz	mte:Npmsn	Istrabenz
+sicer	mte:Q	sicer
+pritožil	mte:Vmep-sm	pritožiti
+na	mte:Sa	na
+njihovo	mte:Ps3fsap	njihov
+odločbo	mte:Ncfsa	odločba
+o	mte:Sl	o
+glasovalnih	mte:Agpfpl	glasovalen
+pravicah	mte:Ncfpl	pravica
+,	mte:Z	,
+vendar	mte:Cc	vendar
+sodišče	mte:Ncnsn	sodišče
+o	mte:Sl	o
+pritožbi	mte:Ncfsl	pritožba
+Istrabenza	mte:Npmsg	Istrabenz
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+odločalo	mte:Vmpp-sn	odločati
+.	mte:Z	.
+Bavčar	mte:Npmsn	Bavčar
+je	mte:Va-r3s-n	biti
+večino	mte:Ncfsa	večina
+svojih	mte:Px-fpg	svoj
+delnic	mte:Ncfpg	delnica
+Istrabenza	mte:Npmsg	Istrabenz
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+poseduje	mte:Vmpr3s	posedovati
+njegova	mte:Ps3fsnsm	njegov
+Maskima	mte:Npfsn	Maskima
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+prodal	mte:Vmep-sm	prodati
+KD	mte:Ncfsn	KD
+Group	mte:Npmsn	Group
+Matjaža	mte:Npmsg	Matjaž
+Gantarja	mte:Npmsg	Gantar
+.	mte:Z	.
+ATVP	mte:Npmsn	ATVP
+,	mte:Z	,
+ki	mte:Cs	ki
+od	mte:Sg	od
+nekaterih	mte:Pi-fpg	nekateri
+družb	mte:Ncfpg	družba
+,	mte:Z	,
+podpisnic	mte:Ncfpg	podpisnica
+sporazuma	mte:Ncmsg	sporazum
+o	mte:Sl	o
+izvajanju	mte:Ncnsl	izvajanje
+finančnega	mte:Agpmsg	finančen
+inženiringa	mte:Ncmsg	inženiringa
+,	mte:Z	,
+za	mte:Sa	za
+usklajeno	mte:Appfsa	usklajen
+sodelovanjepri	mte:Ncmpn	sodelovanjepra
+prevzemni	mte:Agpfsd	prevzemen
+ponudbi	mte:Ncfsd	ponudba
+za	mte:Sa	za
+Istrabenz	mte:Npmsan	Istrabenz
+zahteva	mte:Vmbr3s	zahtevati
+izjave	mte:Ncfpa	izjava
+o	mte:Sl	o
+dejstvih	mte:Ncnpl	dejstvo
+inokoliščinah	mte:Ncfpl	inokoliščina
+pomembnih	mte:Agpmpg	pomemben
+za	mte:Sa	za
+odločitev	mte:Ncfsa	odločitev
+postopkov	mte:Ncmpg	postopek
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+vodi	mte:Vmpr3s	voditi
+,	mte:Z	,
+nadaljnjene	mte:Appfpn	nadaljnjen
+komentira	mte:Vmbr3s	komentirati
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+na	mte:Sl	na
+agenciji	mte:Ncfsl	agencija
+ne	mte:Q	ne
+želijo	mte:Vmpr3p	želeti
+ne	mte:Q	ne
+potrditi	mte:Vmen	potrditi
+ne	mte:Q	ne
+zanikati	mte:Vmen	zanikati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+njihovi	mte:Ps3mpnp	njihov
+inšpektorji	mte:Ncmpn	inšpektor
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+nenapovedano	mte:Rgp	nenapovedano
+obiskali	mte:Vmep-pm	obiskati
+sedeže	mte:Ncmpa	sedež
+družbMaksima	mte:Ncmdn	družbMaksima
+Holding	mte:Npmsn	holding
+in	mte:Cc	in
+NFD	mte:Npmsn	NFD
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+so	mte:Va-r3p-n	biti
+predstavniki	mte:Ncmpn	predstavnik
+slednje	mte:Rgp	slednji
+žepotrdili	mte:Vmep-pm	žepotrditi
+.	mte:Z	.
+Na	mte:Sl	na
+ATVP	mte:Npmsl	ATVP
+tudi	mte:Q	tudi
+ne	mte:Q	ne
+želijo	mte:Vmpr3p	želeti
+razkriti	mte:Vmen	razkriti
+,	mte:Z	,
+na	mte:Sl	na
+kakšni	mte:Pq-fsl	kakšen
+podlagi	mte:Ncfsl	podlaga
+sosprožili	mte:Vmep-pm	sosprožiti
+pregled	mte:Ncmsan	pregled
+.	mte:Z	.
+Prodaje	mte:Ncfsg	prodaja
+različnih	mte:Agpmpg	različen
+deležev	mte:Ncmpg	delež
+Predsednikuprave	mte:Ncfsg	predsednikuprav
+Istrabenza	mte:Npmsg	Istrabenz
+je	mte:Va-r3s-n	biti
+maja	mte:Ncmsg	maj
+razkril	mte:Vmep-sm	razkriti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+lastnik	mte:Ncmsn	lastnik
+poslovnega	mte:Agpmsg	posloven
+deležadružbe	mte:Ncfsg	deležadružba
+FB	mte:Ncfsg	FB
+Investicije	mte:Ncfsg	investicija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+78	mte:Mdc	78
+-	mte:Z	-
+odstotnim	mte:Agpnsi	odstoten
+lastništvom	mte:Ncnsi	lastništvo
+največjilastnik	mte:Agsfsg	največjilastnik
+Maksime	mte:Npfsg	Maksima
+Holdinga	mte:Ncmsg	holdinga
+.	mte:Z	.
+Slednja	mte:Agpfsn	slednji
+je	mte:Va-r3s-n	biti
+največja	mte:Agsfsn	velik
+posamična	mte:Agpfsn	posamičen
+lastnicaIstrabenza	mte:Ncfsn	lastnicaIstrabenza
+,	mte:Z	,
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+ima	mte:Vmpr3s-n	imeti
+24,95	mte:Mdc	24,95
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Solastniki	mte:Ncmpn	solastnik
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+tudidrugi	mte:Agpmpn	tudidrug
+menedžerji	mte:Ncmpn	menedžer
+v	mte:Sl	v
+Istrabenzu	mte:Npmsl	Istrabenz
+,	mte:Z	,
+vendar	mte:Cc	vendar
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+njihov	mte:Ps3msnp	njihov
+delež	mte:Ncmsn	delež
+neznaten.Od	mte:Mdc	neznaten.Od
+leta	mte:Ncnsg	leto
+2006	mte:Mdc	2006
+je	mte:Va-r3s-n	biti
+Maksima	mte:Npfsn	Maksim
+Holding	mte:Npmsn	holding
+v	mte:Sl	v
+78	mte:Mdc	78
+-	mte:Z	-
+odstotni	mte:Agpfsl	odstoten
+lasti	mte:Ncfsl	last
+družbe	mte:Ncfsg	družba
+FBInvesticije	mte:Npfsg	FBinvesticija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+ustanovila	mte:Vmep-sf	ustanoviti
+Faktor	mte:Ncmsan	faktor
+banka	mte:Ncfsn	banka
+.	mte:Z	.
+Konec	mte:Ncmsn	konec
+leta2006	mte:Mdc	leta2006
+je	mte:Va-r3s-n	biti
+družbo	mte:Ncfsa	družba
+FB	mte:Ncfsg	FB
+Investicije	mte:Ncfsg	investicija
+prevzela	mte:Vmep-sf	prevzeti
+družba	mte:Ncfsn	družba
+Poteza	mte:Ncfsn	poteza
+oziroma	mte:Cc	oziroma
+njenadružba	mte:Appfsn	njenadružbi
+Poteza	mte:Ncfsn	poteza
+Netherlands	mte:Npmsn	Netherlands
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+lanskega	mte:Agpmsg	lanski
+oktobra	mte:Ncmsg	oktober
+svoj	mte:Px-msa	svoj
+deležprodala	mte:Vmpp-sf	deležprodati
+.	mte:Z	.
+Kdo	mte:Pq-msn	kdo
+je	mte:Va-r3s-n	biti
+kupil	mte:Vmep-sm	kupiti
+njen	mte:Ps3msasf	njen
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan

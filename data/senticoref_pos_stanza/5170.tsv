@@ -1,481 +1,504 @@
-token	tag
-Prvak	Ncmsn
-SDS	Npfsg
-želi	Vmpr3s
-,	Z
-da	Cs
-premier	Ncmsn
-skliče	Vmer3s
-sestanek	Ncmsan
-strank	Ncfpg
-zaradi	Sg
-nezakonito	Rgp
-zaprtega	Appnsg
-arhivskega	Agpnsg
-gradiva	Ncnsg
-Sove	Ncfsg
-Predsednik	Ncmsn
-SDS	Npfsg
-Janez	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-na	Sa
-predsednika	Ncmsay
-vlade	Ncfsg
-Boruta	Npmsg
-Pahorja	Npmsg
-naslovil	Vmep-sm
-dopis	Ncmsan
-,	Z
-v	Sl
-katerem	Pq-msl
-ga	Pp3msa--y
-poziva	Vmpr3s
-,	Z
-da	Cs
-nemudoma	Rgp
-skliče	Vmer3s
-sestanek	Ncmsan
-predsednikov	Ncmpg
-parlamentarnih	Agpfpg
-strank	Ncfpg
-,	Z
-vodij	Ncfpg
-poslanskih	Agpfpg
-skupin	Ncfpg
-in	Cc
-poslancev	Ncmpg
-narodnosti	Ncfsg
-,	Z
-zaradi	Sg
-nezakonito	Rgp
-zaprtega	Appnsg
-arhivskega	Agpnsg
-gradiva	Ncnsg
-Sove	Ncfsg
-.	Z
-Poziva	Vmpr3s
-tudi	Q
-k	Sd
-razrešitvi	Ncfsd
-direktorja	Ncmsg
-Sove	Ncfsg
-in	Cc
-direktorja	Ncmsg
-Arhiva	Npmsg
-RS	Npfsg
-.	Z
-Prvič	Rgp
-v	Sl
-zgodovini	Ncfsl
-demokratične	Agpfsg
-Slovenije	Npfsg
-se	Px------y
-je	Va-r3s-n
-zgodilo	Vmep-sn
-,	Z
-da	Cs
-je	Va-r3s-n
-državni	Agpmsny
-organ	Ncmsn
-,	Z
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-Sova	Npmsn
-in	Cc
-Arhiv	Ncmsn
-RS	Npmsg
-,	Z
-javno	Rgp
-izjavil	Vmep-sm
-,	Z
-da	Cs
-ne	Q
-bo	Va-f3s-n
-spoštoval	Vmpp-sm
-zakona	Ncmsg
-ter	Cc
-nato	Rgp
-protizakonito	Rgp
-omejil	Vmep-sm
-državljanske	Agpfpa
-pravice	Ncfpa
-,	Z
-opozarja	Vmpr3s
-prvak	Ncmsn
-SDS	Npmsg
-Janez	Npmsn
-Janša	Npmsn
-.	Z
-Janša	Npmsn
-je	Va-r3s-n
-v	Sl
-dopisu	Ncmsl
-premieru	Ncmsd
-Pahorju	Npmsd
-zapisal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-kot	Cs
-predsednik	Ncmsn
-vlade	Ncfsg
-in	Cc
-akter	Ncmsn
-omenjenih	Appnpg
-dogajanj	Ncnpg
-neposredno	Rgp
-odgovoren	Agpmsnn
-za	Sa
-nastale	Appfpa
-razmere	Ncfpa
-in	Cc
-nezakonito	Agpnsa
-stanje	Ncnsa
-.	Z
-Predlaga	Vmbr3s
-mu	Pp3msd--y
-,	Z
-da	Cs
-še	Q
-pred	Si
-obravnavo	Ncfsi
-novele	Ncfsg
-arhivskega	Agpmsg
-zakona	Ncmsg
-skliče	Vmer3s
-koordinacijo	Ncfsa
-predsednikov	Ncmpg
-parlamentarnih	Agpfpg
-strank	Ncfpg
-in	Cc
-vodij	Ncfpg
-poslanskih	Agpfpg
-skupin	Ncfpg
-,	Z
-na	Sl
-kateri	Pq-fsl
-želi	Vmpr3s
-dobiti	Vmen
-zagotovila	Vmep-sf
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-prenehalo	Vmep-sn
-s	Si
-kršenjem	Ncnsi
-zakona	Ncmsg
-ter	Cc
-sprostilo	Vmep-sn
-dostop	Ncmsan
-do	Sg
-javnih	Agpmpg
-arhivov	Ncmpg
-ter	Cc
-omogočilo	Vmep-sn
-parlamentarni	Agpmsay
-nadzor	Ncmsan
-nad	Si
-Sovo	Npfsi
-(	Z
-Slovenska	Agpfsn
-obveščevalno	Agpnsn
--	Z
-varnostna	Agpfsn
-služba	Ncfsn
-)	Z
-.	Z
-Janša	Npfsn
-prav	Q
-tako	Rgp
-poziva	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-nemudoma	Rgp
-razreši	Vmer3s
-direktorja	Ncmsg
-Sove	Ncfsg
-in	Cc
-Arhiva	Ncmsg
-RS	Npfsg
-ter	Cc
-proti	Sd
-njima	Pp3mdd
-sproži	Vmer3s
-ustrezne	Agpmpa
-disciplinske	Agpmpa
-in	Cc
-kazenske	Agpmpa
-postopke	Ncmpa
-po	Sl
-uradni	Agpfsl
-dolžnosti	Ncfsl
-ter	Cc
-iz	Sg
-procedure	Ncfsg
-umakne	Vmer3s
-novelo	Ncfsa
-arhivskega	Agpmsg
-zakona	Ncmsg
-.	Z
-"	Z
-Gre	Vmbr3s
-pravzaprav	Q
-za	Sa
-državni	Agpmsay
-udar	Ncmsan
-"	Z
-Kot	Cs
-v	Sl
-dopisu	Ncmsl
-pojasnjuje	Vmpr3s
-Janša	Npmsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-prvič	Rgp
-v	Sl
-zgodovini	Ncfsl
-demokratične	Agpfsg
-Slovenije	Npfsg
-zgodilo	Vmep-sn
-,	Z
-da	Cs
-je	Va-r3s-n
-državni	Agpmsny
-organ	Ncmsn
-,	Z
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-Sova	Npmsn
-in	Cc
-Arhiv	Ncmsn
-RS	Npmsg
-,	Z
-javno	Rgp
-izjavil	Vmep-sm
-,	Z
-da	Cs
-ne	Q
-bo	Va-f3s-n
-spoštoval	Vmpp-sm
-zakona	Ncmsg
-ter	Cc
-nato	Rgp
-protizakonito	Rgp
-omejil	Vmep-sm
-državljanske	Agpfpa
-pravice	Ncfpa
-.	Z
-Prav	Q
-tako	Rgp
-je	Va-r3s-n
-prvič	Rgp
-v	Sl
-zgodovini	Ncfsl
-Slovenije	Npfsg
-Sova	Npfsn
-preprečila	Vmep-sf
-izvedbo	Ncfsa
-parlamentarnega	Agpmsg
-nadzora	Ncmsg
-komisiji	Ncfsd
-DZ	Npfsg
-za	Sa
-nadzor	Ncmsan
-varnostnih	Agpfpg
-in	Cc
-obveščevalnih	Agpfpg
-služb	Ncfpg
-.	Z
-Obe	Pg-nda
-ravnanji	Ncnda
-sta	Va-r3d-n
-po	Sl
-navedbah	Ncfpl
-Janše	Npfsg
-nepojmljivi	Agpmdn
-za	Sa
-katerokoli	Pq-fsa
-demokratično	Agpfsa
-ureditev	Ncfsa
-kjerkoli	Rgp
-v	Sl
-svetu	Ncmsl
-.	Z
-"	Z
-Če	Cs
-bi	Va-c
-se	Px------y
-kaj	Pq-nsn
-takšnega	Pd-nsg
-zgodilo	Vmep-sn
-v	Sl
-državi	Ncfsl
-,	Z
-kjer	Cs
-vlada	Vmpr3s
-popolna	Agpfsn
-demokracija	Ncfsn
-,	Z
-bi	Va-c
-bil	Va-p-sm
-predstojnik	Ncmsn
-takega	Pd-msg
-organa	Ncmsg
-odstavljen	Appmsnn
-.	Z
-To	Pd-nsn
-,	Z
-da	Cs
-državni	Agpmsny
-organ	Ncmsn
-ne	Q
-spoštuje	Vmpr3s
-zakona	Ncmsg
-ali	Cc
-da	Cs
-prepreči	Vmer3s
-na	Sl
-zakonu	Ncmsl
-utemeljen	Appmsan
-parlamentarni	Agpmsay
-nadzor	Ncmsan
-nad	Si
-svojim	Px-nsi
-ravnanjem	Ncnsi
-,	Z
-pomeni	Vmbr3s
-pravzaprav	Q
-državni	Agpmsny
-udar	Ncmsn
-"	Z
-,	Z
-razlaga	Vmpr3s
-Janša	Npfsn
-.	Z
-"	Z
-Namesto	Sg
-,	Z
-da	Cs
-bi	Va-c
-ukrepala	Vmpp-sf
-,	Z
-je	Va-r3s-n
-vlada	Ncfsn
-vložila	Vmep-sf
-spremembe	Ncfpa
-zakona	Ncmsg
-"	Z
-V	Sl
-Sloveniji	Npfsl
-sta	Va-r3d-n
-to	Pd-nsa
-početje	Ncnsa
-obsodili	Vmep-df
-le	Q
-pravna	Agpfsn
-stroka	Ncfsn
-in	Cc
-javnost	Ncfsn
-,	Z
-medtem	Rgp
-ko	Cs
-vlada	Ncfsn
-takšno	Pd-nsn
-ravnanje	Ncnsn
-javno	Rgp
-zagovarja	Vmpr3s
-,	Z
-je	Va-r3s-n
-kritičen	Agpmsnn
-Janša	Npmsn
-.	Z
-Pri	Sl
-tem	Pd-nsl
-dodaja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-vlada	Ncfsn
-namesto	Sg
-odločnega	Agpnsg
-ukrepanja	Ncnsg
-zoper	Sa
-storilce	Ncmpa
-nezakonitega	Agpnsg
-ravnanja	Ncnsg
-prejšnji	Agpmsay
-teden	Ncmsan
-vložila	Vmep-sf
-predlog	Ncmsan
-zakona	Ncmsg
-o	Sl
-spremembah	Ncfpl
-in	Cc
-dopolnitvah	Ncfpl
-zakona	Ncmsg
-o	Sl
-varstvu	Ncnsl
-dokumentarnega	Agpnsg
-in	Cc
-arhivskega	Agpnsg
-gradiva	Ncnsg
-ter	Cc
-arhivih	Ncmpl
-z	Si
-argumenti	Ncmpi
-.	Z
-Vlada	Ncfsn
-sprejem	Ncmsn
-predmetne	Agpfsg
-zakonske	Agpfsg
-novele	Ncfsg
-,	Z
-s	Si
-katerim	Pq-msi
-skuša	Vmpr3s
-sedaj	Rgp
-tudi	Q
-formalno	Rgp
-zapreti	Vmen
-omenjeno	Appnsa
-arhivsko	Agpnsa
-gradivo	Ncnsa
-,	Z
-utemeljuje	Vmpr3s
-z	Si
-argumenti	Ncmpi
-,	Z
-ki	Cs
-kažejo	Vmpr3p
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-se	Px------y
-želi	Vmpr3s
-v	Sl
-okviru	Ncmsl
-zaščite	Ncfsg
-nacionalnih	Agpmpg
-interesov	Ncmpg
-in	Cc
-varnosti	Ncfsg
-prikriti	Vmen
-delovanje	Ncnsa
-nekdanje	Agpfsg
-tajne	Agpfsg
-politične	Agpfsg
-policije	Ncfsg
-SDV	Npfsg
-,	Z
-je	Va-r3s-n
-še	Q
-zapisal	Vmep-sm
-Janša	Npmsn
-.	Z
+token	tag	lemma
+Prvak	mte:Ncmsn	prvak
+SDS	mte:Npfsg	SDS
+želi	mte:Vmpr3s	želeti
+,	mte:Z	,
+da	mte:Cs	da
+premier	mte:Ncmsn	premier
+skliče	mte:Vmer3s	sklicati
+sestanek	mte:Ncmsan	sestanek
+strank	mte:Ncfpg	stranka
+zaradi	mte:Sg	zaradi
+nezakonito	mte:Rgp	nezakonito
+zaprtega	mte:Appnsg	zaprt
+arhivskega	mte:Agpnsg	arhivski
+gradiva	mte:Ncnsg	gradivo
+Sove	mte:Ncfsg	sova
+Predsednik	mte:Ncmsn	predsednik
+SDS	mte:Npfsg	SDS
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+predsednika	mte:Ncmsay	predsednik
+vlade	mte:Ncfsg	vlada
+Boruta	mte:Npmsg	Borut
+Pahorja	mte:Npmsg	Pahorje
+naslovil	mte:Vmep-sm	nasloviti
+dopis	mte:Ncmsan	dopis
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+ga	mte:Pp3msa--y	on
+poziva	mte:Vmpr3s	pozivati
+,	mte:Z	,
+da	mte:Cs	da
+nemudoma	mte:Rgp	nemudoma
+skliče	mte:Vmer3s	sklicati
+sestanek	mte:Ncmsan	sestanek
+predsednikov	mte:Ncmpg	predsednik
+parlamentarnih	mte:Agpfpg	parlamentaren
+strank	mte:Ncfpg	stranka
+,	mte:Z	,
+vodij	mte:Ncfpg	vodja
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+in	mte:Cc	in
+poslancev	mte:Ncmpg	poslanec
+narodnosti	mte:Ncfsg	narodnost
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+nezakonito	mte:Rgp	nezakonito
+zaprtega	mte:Appnsg	zaprt
+arhivskega	mte:Agpnsg	arhivski
+gradiva	mte:Ncnsg	gradivo
+Sove	mte:Ncfsg	sova
+.	mte:Z	.
+Poziva	mte:Vmpr3s	pozivati
+tudi	mte:Q	tudi
+k	mte:Sd	k
+razrešitvi	mte:Ncfsd	razrešitev
+direktorja	mte:Ncmsg	direktor
+Sove	mte:Ncfsg	sova
+in	mte:Cc	in
+direktorja	mte:Ncmsg	direktor
+Arhiva	mte:Npmsg	Arhiv
+RS	mte:Npfsg	RS
+.	mte:Z	.
+Prvič	mte:Rgp	prvič
+v	mte:Sl	v
+zgodovini	mte:Ncfsl	zgodovina
+demokratične	mte:Agpfsg	demokratičen
+Slovenije	mte:Npfsg	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+državni	mte:Agpmsny	državen
+organ	mte:Ncmsn	organ
+,	mte:Z	,
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+Sova	mte:Npmsn	Sova
+in	mte:Cc	in
+Arhiv	mte:Ncmsn	arhiv
+RS	mte:Npmsg	RS
+,	mte:Z	,
+javno	mte:Rgp	javno
+izjavil	mte:Vmep-sm	izjaviti
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+spoštoval	mte:Vmpp-sm	spoštovati
+zakona	mte:Ncmsg	zakon
+ter	mte:Cc	ter
+nato	mte:Rgp	nato
+protizakonito	mte:Rgp	protizakonito
+omejil	mte:Vmep-sm	omejiti
+državljanske	mte:Agpfpa	državljanski
+pravice	mte:Ncfpa	pravica
+,	mte:Z	,
+opozarja	mte:Vmpr3s	opozarjati
+prvak	mte:Ncmsn	prvak
+SDS	mte:Npmsg	SDS
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+.	mte:Z	.
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+dopisu	mte:Ncmsl	dopis
+premieru	mte:Ncmsd	premier
+Pahorju	mte:Npmsd	Pahorje
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+in	mte:Cc	in
+akter	mte:Ncmsn	akter
+omenjenih	mte:Appnpg	omenjen
+dogajanj	mte:Ncnpg	dogajanje
+neposredno	mte:Rgp	neposredno
+odgovoren	mte:Agpmsnn	odgovoren
+za	mte:Sa	za
+nastale	mte:Appfpa	nastati
+razmere	mte:Ncfpa	razmera
+in	mte:Cc	in
+nezakonito	mte:Agpnsa	nezakonito
+stanje	mte:Ncnsa	stanje
+.	mte:Z	.
+Predlaga	mte:Vmbr3s	predlagati
+mu	mte:Pp3msd--y	on
+,	mte:Z	,
+da	mte:Cs	da
+še	mte:Q	še
+pred	mte:Si	pred
+obravnavo	mte:Ncfsi	obravnava
+novele	mte:Ncfsg	novela
+arhivskega	mte:Agpmsg	arhivski
+zakona	mte:Ncmsg	zakon
+skliče	mte:Vmer3s	sklicati
+koordinacijo	mte:Ncfsa	koordinacija
+predsednikov	mte:Ncmpg	predsednik
+parlamentarnih	mte:Agpfpg	parlamentaren
+strank	mte:Ncfpg	stranka
+in	mte:Cc	in
+vodij	mte:Ncfpg	vodja
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+želi	mte:Vmpr3s	želeti
+dobiti	mte:Vmen	dobiti
+zagotovila	mte:Vmep-sf	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+prenehalo	mte:Vmep-sn	prenehati
+s	mte:Si	z
+kršenjem	mte:Ncnsi	kršenje
+zakona	mte:Ncmsg	zakon
+ter	mte:Cc	ter
+sprostilo	mte:Vmep-sn	sprostiti
+dostop	mte:Ncmsan	dostop
+do	mte:Sg	do
+javnih	mte:Agpmpg	javen
+arhivov	mte:Ncmpg	arhiv
+ter	mte:Cc	ter
+omogočilo	mte:Vmep-sn	omogočiti
+parlamentarni	mte:Agpmsay	parlamentaren
+nadzor	mte:Ncmsan	nadzor
+nad	mte:Si	nad
+Sovo	mte:Npfsi	Sovo
+(	mte:Z	(
+Slovenska	mte:Agpfsn	slovenski
+obveščevalno	mte:Agpnsn	obveščevalen
+-	mte:Z	-
+varnostna	mte:Agpfsn	varnosten
+služba	mte:Ncfsn	služba
+)	mte:Z	)
+.	mte:Z	.
+Janša	mte:Npfsn	Janša
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+poziva	mte:Vmpr3s	pozivati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+nemudoma	mte:Rgp	nemudoma
+razreši	mte:Vmer3s	razrešiti
+direktorja	mte:Ncmsg	direktor
+Sove	mte:Ncfsg	sova
+in	mte:Cc	in
+Arhiva	mte:Ncmsg	arhiv
+RS	mte:Npfsg	RS
+ter	mte:Cc	ter
+proti	mte:Sd	proti
+njima	mte:Pp3mdd	on
+sproži	mte:Vmer3s	sprožiti
+ustrezne	mte:Agpmpa	ustrezen
+disciplinske	mte:Agpmpa	disciplinski
+in	mte:Cc	in
+kazenske	mte:Agpmpa	kazenski
+postopke	mte:Ncmpa	postopek
+po	mte:Sl	po
+uradni	mte:Agpfsl	uraden
+dolžnosti	mte:Ncfsl	dolžnost
+ter	mte:Cc	ter
+iz	mte:Sg	iz
+procedure	mte:Ncfsg	procedura
+umakne	mte:Vmer3s	umakniti
+novelo	mte:Ncfsa	novela
+arhivskega	mte:Agpmsg	arhivski
+zakona	mte:Ncmsg	zakon
+.	mte:Z	.
+"	mte:Z	"
+Gre	mte:Vmbr3s	iti
+pravzaprav	mte:Q	pravzaprav
+za	mte:Sa	za
+državni	mte:Agpmsay	državen
+udar	mte:Ncmsan	udar
+"	mte:Z	"
+Kot	mte:Cs	kot
+v	mte:Sl	v
+dopisu	mte:Ncmsl	dopis
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+prvič	mte:Rgp	prvič
+v	mte:Sl	v
+zgodovini	mte:Ncfsl	zgodovina
+demokratične	mte:Agpfsg	demokratičen
+Slovenije	mte:Npfsg	Slovenija
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+državni	mte:Agpmsny	državen
+organ	mte:Ncmsn	organ
+,	mte:Z	,
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+Sova	mte:Npmsn	Sova
+in	mte:Cc	in
+Arhiv	mte:Ncmsn	arhiv
+RS	mte:Npmsg	RS
+,	mte:Z	,
+javno	mte:Rgp	javno
+izjavil	mte:Vmep-sm	izjaviti
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+spoštoval	mte:Vmpp-sm	spoštovati
+zakona	mte:Ncmsg	zakon
+ter	mte:Cc	ter
+nato	mte:Rgp	nato
+protizakonito	mte:Rgp	protizakonito
+omejil	mte:Vmep-sm	omejiti
+državljanske	mte:Agpfpa	državljanski
+pravice	mte:Ncfpa	pravica
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+prvič	mte:Rgp	prvič
+v	mte:Sl	v
+zgodovini	mte:Ncfsl	zgodovina
+Slovenije	mte:Npfsg	Slovenija
+Sova	mte:Npfsn	Sova
+preprečila	mte:Vmep-sf	preprečiti
+izvedbo	mte:Ncfsa	izvedba
+parlamentarnega	mte:Agpmsg	parlamentaren
+nadzora	mte:Ncmsg	nadzor
+komisiji	mte:Ncfsd	komisija
+DZ	mte:Npfsg	DZ
+za	mte:Sa	za
+nadzor	mte:Ncmsan	nadzor
+varnostnih	mte:Agpfpg	varnosten
+in	mte:Cc	in
+obveščevalnih	mte:Agpfpg	obveščevalen
+služb	mte:Ncfpg	služba
+.	mte:Z	.
+Obe	mte:Pg-nda	oba
+ravnanji	mte:Ncnda	ravnanje
+sta	mte:Va-r3d-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Janše	mte:Npfsg	Janše
+nepojmljivi	mte:Agpmdn	nepojmljiv
+za	mte:Sa	za
+katerokoli	mte:Pq-fsa	katerokoli
+demokratično	mte:Agpfsa	demokratično
+ureditev	mte:Ncfsa	ureditev
+kjerkoli	mte:Rgp	kjerkoli
+v	mte:Sl	v
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+"	mte:Z	"
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+kaj	mte:Pq-nsn	kaj
+takšnega	mte:Pd-nsg	takšen
+zgodilo	mte:Vmep-sn	zgoditi
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+,	mte:Z	,
+kjer	mte:Cs	kjer
+vlada	mte:Vmpr3s	vladati
+popolna	mte:Agpfsn	popoln
+demokracija	mte:Ncfsn	demokracija
+,	mte:Z	,
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+predstojnik	mte:Ncmsn	predstojnik
+takega	mte:Pd-msg	tak
+organa	mte:Ncmsg	organ
+odstavljen	mte:Appmsnn	odstavljen
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+,	mte:Z	,
+da	mte:Cs	da
+državni	mte:Agpmsny	državen
+organ	mte:Ncmsn	organ
+ne	mte:Q	ne
+spoštuje	mte:Vmpr3s	spoštovati
+zakona	mte:Ncmsg	zakon
+ali	mte:Cc	ali
+da	mte:Cs	da
+prepreči	mte:Vmer3s	preprečiti
+na	mte:Sl	na
+zakonu	mte:Ncmsl	zakon
+utemeljen	mte:Appmsan	utemeljen
+parlamentarni	mte:Agpmsay	parlamentaren
+nadzor	mte:Ncmsan	nadzor
+nad	mte:Si	nad
+svojim	mte:Px-nsi	svoj
+ravnanjem	mte:Ncnsi	ravnanje
+,	mte:Z	,
+pomeni	mte:Vmbr3s	pomeniti
+pravzaprav	mte:Q	pravzaprav
+državni	mte:Agpmsny	državen
+udar	mte:Ncmsn	udar
+"	mte:Z	"
+,	mte:Z	,
+razlaga	mte:Vmpr3s	razlagati
+Janša	mte:Npfsn	Janša
+.	mte:Z	.
+"	mte:Z	"
+Namesto	mte:Sg	namesto
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ukrepala	mte:Vmpp-sf	ukrepati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+vložila	mte:Vmep-sf	vložiti
+spremembe	mte:Ncfpa	sprememba
+zakona	mte:Ncmsg	zakon
+"	mte:Z	"
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+sta	mte:Va-r3d-n	biti
+to	mte:Pd-nsa	ta
+početje	mte:Ncnsa	početje
+obsodili	mte:Vmep-df	obsoditi
+le	mte:Q	le
+pravna	mte:Agpfsn	praven
+stroka	mte:Ncfsn	strok
+in	mte:Cc	in
+javnost	mte:Ncfsn	javnost
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+vlada	mte:Ncfsn	vlada
+takšno	mte:Pd-nsn	takšen
+ravnanje	mte:Ncnsn	ravnanje
+javno	mte:Rgp	javno
+zagovarja	mte:Vmpr3s	zagovarjati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+kritičen	mte:Agpmsnn	kritičen
+Janša	mte:Npmsn	Janša
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+namesto	mte:Sg	namesto
+odločnega	mte:Agpnsg	odločen
+ukrepanja	mte:Ncnsg	ukrepanje
+zoper	mte:Sa	zoper
+storilce	mte:Ncmpa	storilce
+nezakonitega	mte:Agpnsg	nezakonit
+ravnanja	mte:Ncnsg	ravnanje
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+vložila	mte:Vmep-sf	vložiti
+predlog	mte:Ncmsan	predlog
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+spremembah	mte:Ncfpl	sprememba
+in	mte:Cc	in
+dopolnitvah	mte:Ncfpl	dopolnitev
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+varstvu	mte:Ncnsl	varstvo
+dokumentarnega	mte:Agpnsg	dokumentaren
+in	mte:Cc	in
+arhivskega	mte:Agpnsg	arhivski
+gradiva	mte:Ncnsg	gradivo
+ter	mte:Cc	ter
+arhivih	mte:Ncmpl	arhiv
+z	mte:Si	z
+argumenti	mte:Ncmpi	argument
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+sprejem	mte:Ncmsn	sprejem
+predmetne	mte:Agpfsg	predmeten
+zakonske	mte:Agpfsg	zakonski
+novele	mte:Ncfsg	novela
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+skuša	mte:Vmpr3s	skušati
+sedaj	mte:Rgp	sedaj
+tudi	mte:Q	tudi
+formalno	mte:Rgp	formalno
+zapreti	mte:Vmen	zapreti
+omenjeno	mte:Appnsa	omenjen
+arhivsko	mte:Agpnsa	arhivski
+gradivo	mte:Ncnsa	gradivo
+,	mte:Z	,
+utemeljuje	mte:Vmpr3s	utemeljevati
+z	mte:Si	z
+argumenti	mte:Ncmpi	argument
+,	mte:Z	,
+ki	mte:Cs	ki
+kažejo	mte:Vmpr3p	kazati
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+želi	mte:Vmpr3s	želeti
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+zaščite	mte:Ncfsg	zaščita
+nacionalnih	mte:Agpmpg	nacionalen
+interesov	mte:Ncmpg	interes
+in	mte:Cc	in
+varnosti	mte:Ncfsg	varnost
+prikriti	mte:Vmen	prikriti
+delovanje	mte:Ncnsa	delovanje
+nekdanje	mte:Agpfsg	nekdanji
+tajne	mte:Agpfsg	tajen
+politične	mte:Agpfsg	političen
+policije	mte:Ncfsg	policija
+SDV	mte:Npfsg	SDV
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+zapisal	mte:Vmep-sm	zapisati
+Janša	mte:Npmsn	Janša
+.	mte:Z	.
+Sova	mte:Npfsn	Sova
+in	mte:Cc	in
+Arhiv	mte:Ncmsn	arhiv
+RS	mte:Npfsg	RS
+namreč	mte:Cc	namreč
+publicistu	mte:Ncmsd	publicist
+Igorju	mte:Npmsd	Igor
+Omerzi	mte:Npfsd	Omerzi
+ne	mte:Q	ne
+dovolita	mte:Vmer3d	dovoliti
+vpogled	mte:Ncmsan	vpogled
+v	mte:Sa	v
+gradiva	mte:Ncnpa	gradivo
+nekdanje	mte:Agpfsg	nekdanji
+Službe	mte:Ncfsg	služba
+državne	mte:Agpfsg	državen
+varnosti	mte:Ncfsg	varnost
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+zakon	mte:Ncmsn	zakon
+takšen	mte:Pd-msn	takšen
+vpogled	mte:Ncmsn	vpogled
+dopušča	mte:Vmpr3s	dopuščati

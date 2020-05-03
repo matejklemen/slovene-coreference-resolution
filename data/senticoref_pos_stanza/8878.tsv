@@ -1,469 +1,486 @@
-token	tag
-Poslanec	Ncmsn
-SDS	Npfsg
-Zvonko	Npmsn
-Černač	Npmsn
-dvome	Ncmpa
-Zaresa	Ncmsg
-o	Sl
-nepristranskosti	Ncfsl
-generalne	Agpfsg
-državne	Agpfsg
-tožilke	Ncfsg
-Barbare	Npfsg
-Brezigar	Npfsg
-v	Sl
-vseh	Pg-mpl
-primerih	Ncmpl
-,	Z
-povezanih	Appmpl
-z	Si
-Janezom	Npmsi
-Janšo	Npfsi
-,	Z
-razume	Vmbr3s
-kot	Cs
-napoved	Ncfsn
-njene	Ps3fsgsf
-zamenjave	Ncfsg
-.	Z
-"	Z
-Dokler	Cs
-so	Va-r3p-n
-se	Px------y
-glede	Sg
-Barbare	Npfsg
-Brezigar	Npfsg
-oglašali	Vmpp-pm
-samo	Q
-poslanci	Ncmpn
-Zaresa	Ncmsg
-,	Z
-je	Va-r3s-n
-bilo	Va-p-sn
-mogoče	Agpnsn
-to	Pd-nsn
-njihovo	Ps3fsap
-vnemo	Ncfsa
-in	Cc
-zagnanost	Ncfsa
-še	Q
-pripisati	Vmen
-nepoznavanju	Ncnsd
-stvari	Ncfpg
-,	Z
-danes	Rgp
-,	Z
-ko	Cs
-se	Px------y
-je	Va-r3s-n
-oglasil	Vmep-sm
-drugi	Mlpmsny
-človek	Ncmsn
-Zaresa	Ncmsg
-Bogdan	Npmsn
-Biščak	Npmsn
-,	Z
-pa	Cc
-je	Va-r3s-n
-postalo	Vmep-sn
-popolnoma	Rgp
-jasno	Agpnsn
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-vladajoča	Appfsn
-politika	Ncfsn
-namenila	Vmep-sf
-zamenjati	Vmen
-generalno	Agpfsa
-državno	Agpfsa
-tožilko	Ncfsa
-,	Z
-"	Z
-je	Va-r3s-n
-v	Sl
-odzivu	Ncmsl
-na	Sa
-izjavo	Ncfsa
-generalnega	Agpmsg
-sekretarja	Ncmsg
-Zaresa	Ncmsg
-zapisal	Vmep-sm
-Černač	Npmsn
-.	Z
-Glede	Sg
-kazenskega	Agpmsg
-pregona	Ncmsg
-zoper	Sa
-finskega	Agpmsa
-novinarja	Ncmsay
-Magnusa	Npmsgy
-Berglunda	Npmsg
-pa	Cc
-je	Va-r3s-n
-poslanec	Ncmsn
-prepričan	Appmsnn
-,	Z
-da	Cs
-je	Va-r3s-n
-šlo	Vmbp-sn
-"	Z
-za	Sa
-hude	Agpfpa
-in	Cc
-z	Si
-nobenim	Pz-msi
-dokazom	Ncmsi
-podkrepljene	Appfpn
-obtožbe	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-nanašale	Vmpp-pf
-na	Sa
-enega	Mlpmsa
-od	Sg
-najvišjih	Agsmpg
-predstavnikov	Ncmpg
-naše	Ps1fsgp
-države	Ncfsg
-"	Z
-,	Z
-zato	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-pričakovati	Vmpn
-,	Z
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-pristojni	Agpmpn
-organi	Ncmpn
-nemudoma	Rgp
-odzvali	Vmep-pm
-.	Z
-Po	Sl
-Černačevem	Aspnsl
-mnenju	Ncnsl
-je	Va-r3s-n
-tako	Rgp
-bistveno	Agpnsn
-vprašanje	Ncnsn
-,	Z
-zakaj	Rgp
-se	Px------y
-postopek	Ncmsn
-proti	Sd
-Berglundu	Npmsd
-ni	Va-r3s-y
-že	Q
-zdavnaj	Rgp
-začel	Vmep-sm
-,	Z
-in	Cc
-ne	Q
-,	Z
-zakaj	Rgp
-se	Px------y
-je	Va-r3s-n
-začel	Vmep-sm
-,	Z
-kot	Cs
-se	Px------y
-sprašujejo	Vmpr3p
-v	Sl
-Zaresu	Ncnsl
-.	Z
-Dvomljiva	Agpfsn
-nepristranskost	Ncfsn
-Brezigarjeve	Aspfsg
-"	Z
-V	Sl
-Zaresu	Ncmsl
-smo	Va-r1p-n
-skeptični	Agpmpn
-,	Z
-ko	Cs
-gre	Vmbr3s
-za	Sa
-nepristranskost	Ncfsa
-Barbare	Npfsg
-Brezigar	Npfsg
-,	Z
-sploh	Q
-kadar	Cs
-je	Va-r3s-n
-vpleten	Appmsnn
-Janez	Npmsn
-Janša	Npmsn
-,	Z
-'	Z
-'	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-generalni	Agpmsny
-sekretar	Ncmsn
-stranke	Ncfsg
-Zares	Rgp
-Bogdan	Npmsn
-Biščak	Npmsn
-.	Z
-Zato	Cc
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-za	Sa
-dopolnitev	Ncfsa
-poslanskega	Agpnsg
-vprašanja	Ncnsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-pred	Si
-14	Mdc
-dnevi	Ncmpi
-zastavili	Vmep-pm
-generalni	Agpfsd
-tožilki	Ncfsd
-Brezigarjevi	Aspmsd
-in	Cc
-nato	Rgp
-še	Q
-pravosodnemu	Agpmsd
-ministru	Ncmsd
-Alešu	Npmsd
-Zalarju	Npmsd
-.	Z
-Samo	Q
-še	Q
-vprašanje	Ncnsn
-časa	Ncmsg
-je	Va-r3s-n
-,	Z
-kdaj	Rgp
-bo	Va-f3s-n
-zares	Rgp
-prišlo	Vmep-sn
-do	Sg
-zamenjave	Ncfsg
-generalne	Agpfsg
-državne	Agpfsg
-tožilke	Ncfsg
-.	Z
-Zvonko	Npmsn
-Černač	Npmsn
-,	Z
-poslanec	Ncmsn
-SDS	Npmsn
-Biščak	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-vprašanju	Ncnsd
-sledil	Vmpp-sm
-živčen	Agpmsnn
-odziv	Ncmsn
-Brezigarjeve	Aspfsg
-,	Z
-češ	Q
-da	Cs
-se	Px------y
-na	Sa
-državno	Agpnsa
-tožilstvo	Ncnsa
-znova	Rgp
-izvaja	Vmpr3s
-politični	Agpmsay
-pritisk	Ncmsan
-in	Cc
-da	Cs
-niso	Va-r3p-y
-dolžni	Agpmpn
-dajati	Vmpn
-nobenih	Pz-npg
-poročil	Ncnpg
-o	Sl
-svojih	Px-mpl
-ukrepih	Ncmpl
-.	Z
-Minister	Ncmsn
-pa	Cc
-bi	Va-c
-moral	Vmpp-sm
-dati	Vmen
-pojasnila	Ncnpa
-,	Z
-'	Z
-'	Z
-saj	Cc
-bi	Va-c
-bilo	Va-p-sn
-primerno	Agpnsn
-,	Z
-da	Cs
-se	Px------y
-razčistijo	Vmer3p
-dvomi	Ncmpn
-o	Sl
-nepristranskosti	Ncfsl
-tožilke	Ncfsg
-'	Z
-'	Z
-.	Z
-Ker	Cs
-je	Va-r3s-n
-zdaj	Rgp
-po	Sl
-Biščakovem	Aspnsl
-mnenju	Ncnsl
-popolnoma	Rgp
-jasno	Agpnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-pristojna	Agpfsn
-državna	Agpfsn
-tožilka	Ncfsn
-ovadbo	Ncfsa
-proti	Sd
-Berglundu	Npmsd
-zavrgla	Vmep-sf
-,	Z
-bi	Va-c
-bilo	Va-p-sn
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-treba	Rgp
-odgovoriti	Vmen
-še	Q
-na	Sa
-dve	Mlcnda
-vprašanji	Ncnda
-.	Z
-Zanima	Vmpr3s
-jih	Pp3mpa--y
-,	Z
-kateri	Pq-mpn
-so	Va-r3p-n
-bili	Va-p-pm
-razlogi	Ncmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-vodjo	Ncmsay
-državnega	Agpnsg
-tožilstva	Ncnsg
-vodili	Vmpp-pm
-do	Sg
-drugačne	Agpfsg
-odločitve	Ncfsg
-glede	Sg
-ovadbe	Ncfsg
-zoper	Sa
-finskega	Agpmsa
-novinarja	Ncmsay
-Magnusa	Npmsay
-Berglunda	Npmsay
-,	Z
-kot	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-odločitev	Ncfsn
-pristojne	Agpfsg
-tožilke	Ncfsg
-.	Z
-Želijo	Vmpr3p
-tudi	Q
-odgovor	Ncmsan
-na	Sa
-to	Pd-nsa
-,	Z
-ali	Rgp
-je	Va-r3s-n
-bila	Va-p-sf
-Brezigarjeva	Aspfsn
-vključena	Appfsn
-v	Sa
-oblikovanje	Ncnsa
-takšne	Pd-fsg
-odločitve	Ncfsg
-.	Z
-Nasprotujoče	Appfsa
-si	Px---d--y
-odločitve	Ncfsg
-Okrožna	Agpfsn
-državna	Agpfsn
-tožilka	Ncfsn
-Katarina	Npfsn
-Bergant	Npfsn
-je	Va-r3s-n
-namreč	Cc
-zavrgla	Vmep-sf
-predlog	Ncmsan
-za	Sa
-pregon	Ncmsan
-finskega	Agpmsg
-novinarja	Ncmsg
-Magnusa	Npmsg
-Berglunda	Npmsg
-,	Z
-avtorja	Ncmsg
-oddaje	Ncfsg
-Resnica	Ncfsn
-o	Sl
-Patrii	Npmsl
-.	Z
-Zaradi	Sg
-te	Pd-fsg
-oddaje	Ncfsg
-je	Va-r3s-n
-nekdanji	Agpmsny
-premier	Ncmsn
-Janez	Npmsn
-Janša	Npmsn
-predlagal	Vmbp-sm
-pregon	Ncmsan
-zoper	Sa
-Draga	Npmsay
-Kosa	Npmsa
-,	Z
-Milana	Npmsay
-Švajgerja	Npmsay
-,	Z
-Bojana	Npmsay
-Potočnika	Npmsay
-in	Cc
-Berglunda	Npmsay
-.	Z
-Po	Sl
-pisanju	Ncnsl
-Dnevnika	Ncmsg
-je	Va-r3s-n
-primer	Ncmsan
-nato	Rgp
-romal	Vmbp-sm
-z	Sg
-okrožnega	Agpnsg
-na	Sa
-generalno	Agpnsa
-državno	Agpnsa
-tožilstvo	Ncnsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-sprejelo	Vmep-sn
-popolnoma	Rgp
-nasprotno	Agpfsa
-odločitev	Ncfsa
-in	Cc
-prevzelo	Vmep-sn
-pregon	Ncmsan
-novinarja	Ncmsg
-.	Z
+token	tag	lemma
+Poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npfsg	SDS
+Zvonko	mte:Npmsn	Zvonko
+Černač	mte:Npmsn	Černač
+dvome	mte:Ncmpa	dvom
+Zaresa	mte:Ncmsg	zaresa
+o	mte:Sl	o
+nepristranskosti	mte:Ncfsl	nepristranskost
+generalne	mte:Agpfsg	generalen
+državne	mte:Agpfsg	državen
+tožilke	mte:Ncfsg	tožilka
+Barbare	mte:Npfsg	Barbare
+Brezigar	mte:Npfsg	Brezigar
+v	mte:Sl	v
+vseh	mte:Pg-mpl	ves
+primerih	mte:Ncmpl	primer
+,	mte:Z	,
+povezanih	mte:Appmpl	povezan
+z	mte:Si	z
+Janezom	mte:Npmsi	Janez
+Janšo	mte:Npfsi	Janšo
+,	mte:Z	,
+razume	mte:Vmbr3s	razumeti
+kot	mte:Cs	kot
+napoved	mte:Ncfsn	napoved
+njene	mte:Ps3fsgsf	njen
+zamenjave	mte:Ncfsg	zamenjava
+.	mte:Z	.
+"	mte:Z	"
+Dokler	mte:Cs	dokler
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+glede	mte:Sg	glede
+Barbare	mte:Npfsg	Barbare
+Brezigar	mte:Npfsg	Brezigar
+oglašali	mte:Vmpp-pm	oglašati
+samo	mte:Q	samo
+poslanci	mte:Ncmpn	poslanec
+Zaresa	mte:Ncmsg	zaresa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+mogoče	mte:Agpnsn	mogoč
+to	mte:Pd-nsn	ta
+njihovo	mte:Ps3fsap	njihov
+vnemo	mte:Ncfsa	vnema
+in	mte:Cc	in
+zagnanost	mte:Ncfsa	zagnanost
+še	mte:Q	še
+pripisati	mte:Vmen	pripisati
+nepoznavanju	mte:Ncnsd	nepoznavanje
+stvari	mte:Ncfpg	stvar
+,	mte:Z	,
+danes	mte:Rgp	danes
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+oglasil	mte:Vmep-sm	oglasiti
+drugi	mte:Mlpmsny	drug
+človek	mte:Ncmsn	človek
+Zaresa	mte:Ncmsg	zaresa
+Bogdan	mte:Npmsn	Bogdan
+Biščak	mte:Npmsn	Biščak
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+postalo	mte:Vmep-sn	postati
+popolnoma	mte:Rgp	popolnoma
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+vladajoča	mte:Appfsn	vladajoč
+politika	mte:Ncfsn	politika
+namenila	mte:Vmep-sf	nameniti
+zamenjati	mte:Vmen	zamenjati
+generalno	mte:Agpfsa	generalen
+državno	mte:Agpfsa	državen
+tožilko	mte:Ncfsa	tožilka
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+odzivu	mte:Ncmsl	odziv
+na	mte:Sa	na
+izjavo	mte:Ncfsa	izjava
+generalnega	mte:Agpmsg	generalen
+sekretarja	mte:Ncmsg	sekretar
+Zaresa	mte:Ncmsg	zaresa
+zapisal	mte:Vmep-sm	zapisati
+Černač	mte:Npmsn	Černač
+.	mte:Z	.
+Glede	mte:Sg	glede
+kazenskega	mte:Agpmsg	kazenski
+pregona	mte:Ncmsg	pregon
+zoper	mte:Sa	zoper
+finskega	mte:Agpmsa	finski
+novinarja	mte:Ncmsay	novinar
+Magnusa	mte:Npmsgy	Magnus
+Berglunda	mte:Npmsg	Berglund
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+poslanec	mte:Ncmsn	poslanec
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+šlo	mte:Vmbp-sn	iti
+"	mte:Z	"
+za	mte:Sa	za
+hude	mte:Agpfpa	hud
+in	mte:Cc	in
+z	mte:Si	z
+nobenim	mte:Pz-msi	noben
+dokazom	mte:Ncmsi	dokaz
+podkrepljene	mte:Appfpn	podkrepljen
+obtožbe	mte:Ncfpg	obtožba
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+nanašale	mte:Vmpp-pf	nanašati
+na	mte:Sa	na
+enega	mte:Mlpmsa	en
+od	mte:Sg	od
+najvišjih	mte:Agsmpg	visok
+predstavnikov	mte:Ncmpg	predstavnik
+naše	mte:Ps1fsgp	naš
+države	mte:Ncfsg	država
+"	mte:Z	"
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+pričakovati	mte:Vmpn	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+pristojni	mte:Agpmpn	pristojen
+organi	mte:Ncmpn	organ
+nemudoma	mte:Rgp	nemudoma
+odzvali	mte:Vmep-pm	odzvati
+.	mte:Z	.
+Po	mte:Sl	po
+Černačevem	mte:Aspnsl	Černačev
+mnenju	mte:Ncnsl	mnenje
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+bistveno	mte:Agpnsn	bistven
+vprašanje	mte:Ncnsn	vprašanje
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+se	mte:Px------y	se
+postopek	mte:Ncmsn	postopek
+proti	mte:Sd	proti
+Berglundu	mte:Npmsd	Berglund
+ni	mte:Va-r3s-y	biti
+že	mte:Q	že
+zdavnaj	mte:Rgp	zdavnaj
+začel	mte:Vmep-sm	začeti
+,	mte:Z	,
+in	mte:Cc	in
+ne	mte:Q	ne
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+začel	mte:Vmep-sm	začeti
+,	mte:Z	,
+kot	mte:Cs	kot
+se	mte:Px------y	se
+sprašujejo	mte:Vmpr3p	spraševati
+v	mte:Sl	v
+Zaresu	mte:Ncnsl	zares
+.	mte:Z	.
+Dvomljiva	mte:Agpfsn	Dvomljiv
+nepristranskost	mte:Ncfsn	nepristranskost
+Brezigarjeve	mte:Aspfsg	Brezigarjev
+"	mte:Z	"
+V	mte:Sl	v
+Zaresu	mte:Ncmsl	zares
+smo	mte:Va-r1p-n	biti
+skeptični	mte:Agpmpn	skeptičen
+,	mte:Z	,
+ko	mte:Cs	ko
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+nepristranskost	mte:Ncfsa	nepristranskost
+Barbare	mte:Npfsg	Barbare
+Brezigar	mte:Npfsg	Brezigar
+,	mte:Z	,
+sploh	mte:Q	sploh
+kadar	mte:Cs	kadar
+je	mte:Va-r3s-n	biti
+vpleten	mte:Appmsnn	vpleten
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+'	mte:Z	'
+'	mte:Z	'
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+generalni	mte:Agpmsny	generalen
+sekretar	mte:Ncmsn	sekretar
+stranke	mte:Ncfsg	stranka
+Zares	mte:Rgp	zares
+Bogdan	mte:Npmsn	Bogdan
+Biščak	mte:Npmsn	Biščak
+.	mte:Z	.
+Zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+za	mte:Sa	za
+dopolnitev	mte:Ncfsa	dopolnitev
+poslanskega	mte:Agpnsg	poslanski
+vprašanja	mte:Ncnsg	vprašanje
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+pred	mte:Si	pred
+14	mte:Mdc	14
+dnevi	mte:Ncmpi	dan
+zastavili	mte:Vmep-pm	zastaviti
+generalni	mte:Agpfsd	generalen
+tožilki	mte:Ncfsd	tožilka
+Brezigarjevi	mte:Aspmsd	Brezigarjev
+in	mte:Cc	in
+nato	mte:Rgp	nato
+še	mte:Q	še
+pravosodnemu	mte:Agpmsd	pravosoden
+ministru	mte:Ncmsd	minister
+Alešu	mte:Npmsd	Aleš
+Zalarju	mte:Npmsd	Zalar
+.	mte:Z	.
+Samo	mte:Q	samo
+še	mte:Q	še
+vprašanje	mte:Ncnsn	vprašanje
+časa	mte:Ncmsg	čas
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kdaj	mte:Rgp	kdaj
+bo	mte:Va-f3s-n	biti
+zares	mte:Rgp	zares
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+zamenjave	mte:Ncfsg	zamenjava
+generalne	mte:Agpfsg	generalen
+državne	mte:Agpfsg	državen
+tožilke	mte:Ncfsg	tožilka
+.	mte:Z	.
+Zvonko	mte:Npmsn	Zvonko
+Černač	mte:Npmsn	Černač
+,	mte:Z	,
+poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsn	SDS
+Biščak	mte:Npmsn	Biščak
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vprašanju	mte:Ncnsd	vprašanje
+sledil	mte:Vmpp-sm	slediti
+živčen	mte:Agpmsnn	živčen
+odziv	mte:Ncmsn	odziv
+Brezigarjeve	mte:Aspfsg	Brezigarjev
+,	mte:Z	,
+češ	mte:Q	češ
+da	mte:Cs	da
+se	mte:Px------y	se
+na	mte:Sa	na
+državno	mte:Agpnsa	državen
+tožilstvo	mte:Ncnsa	tožilstvo
+znova	mte:Rgp	znova
+izvaja	mte:Vmpr3s	izvajati
+politični	mte:Agpmsay	političen
+pritisk	mte:Ncmsan	pritisk
+in	mte:Cc	in
+da	mte:Cs	da
+niso	mte:Va-r3p-y	biti
+dolžni	mte:Agpmpn	dolžen
+dajati	mte:Vmpn	dajati
+nobenih	mte:Pz-npg	noben
+poročil	mte:Ncnpg	poročilo
+o	mte:Sl	o
+svojih	mte:Px-mpl	svoj
+ukrepih	mte:Ncmpl	ukrep
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+moral	mte:Vmpp-sm	morati
+dati	mte:Vmen	dati
+pojasnila	mte:Ncnpa	pojasnilo
+,	mte:Z	,
+'	mte:Z	'
+'	mte:Z	'
+saj	mte:Cc	saj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+primerno	mte:Agpnsn	primeren
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+razčistijo	mte:Vmer3p	razčistiti
+dvomi	mte:Ncmpn	dvomiti
+o	mte:Sl	o
+nepristranskosti	mte:Ncfsl	nepristranskost
+tožilke	mte:Ncfsg	tožilka
+'	mte:Z	'
+'	mte:Z	'
+.	mte:Z	.
+Ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+po	mte:Sl	po
+Biščakovem	mte:Aspnsl	Biščakov
+mnenju	mte:Ncnsl	mnenje
+popolnoma	mte:Rgp	popolnoma
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+pristojna	mte:Agpfsn	pristojen
+državna	mte:Agpfsn	državen
+tožilka	mte:Ncfsn	tožilka
+ovadbo	mte:Ncfsa	ovadba
+proti	mte:Sd	proti
+Berglundu	mte:Npmsd	Berglund
+zavrgla	mte:Vmep-sf	zavreči
+,	mte:Z	,
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+treba	mte:Rgp	treba
+odgovoriti	mte:Vmen	odgovoriti
+še	mte:Q	še
+na	mte:Sa	na
+dve	mte:Mlcnda	dva
+vprašanji	mte:Ncnda	vprašanje
+.	mte:Z	.
+Zanima	mte:Vmpr3s	zanimati
+jih	mte:Pp3mpa--y	on
+,	mte:Z	,
+kateri	mte:Pq-mpn	kateri
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+razlogi	mte:Ncmpn	razlog
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+vodjo	mte:Ncmsay	vodja
+državnega	mte:Agpnsg	državen
+tožilstva	mte:Ncnsg	tožilstvo
+vodili	mte:Vmpp-pm	voditi
+do	mte:Sg	do
+drugačne	mte:Agpfsg	drugačen
+odločitve	mte:Ncfsg	odločitev
+glede	mte:Sg	glede
+ovadbe	mte:Ncfsg	ovadba
+zoper	mte:Sa	zoper
+finskega	mte:Agpmsa	finski
+novinarja	mte:Ncmsay	novinar
+Magnusa	mte:Npmsay	Magnus
+Berglunda	mte:Npmsay	Berglund
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+odločitev	mte:Ncfsn	odločitev
+pristojne	mte:Agpfsg	pristojen
+tožilke	mte:Ncfsg	tožilka
+.	mte:Z	.
+Želijo	mte:Vmpr3p	želeti
+tudi	mte:Q	tudi
+odgovor	mte:Ncmsan	odgovor
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+Brezigarjeva	mte:Aspfsn	Brezigarjev
+vključena	mte:Appfsn	vključen
+v	mte:Sa	v
+oblikovanje	mte:Ncnsa	oblikovanje
+takšne	mte:Pd-fsg	takšen
+odločitve	mte:Ncfsg	odločitev
+.	mte:Z	.
+Nasprotujoče	mte:Appfsa	nasprotujoč
+si	mte:Px---d--y	se
+odločitve	mte:Ncfsg	odločitev
+Okrožna	mte:Agpfsn	okrožen
+državna	mte:Agpfsn	državen
+tožilka	mte:Ncfsn	tožilka
+Katarina	mte:Npfsn	Katarina
+Bergant	mte:Npfsn	Bergant
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+zavrgla	mte:Vmep-sf	zavreči
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+pregon	mte:Ncmsan	pregon
+finskega	mte:Agpmsg	finski
+novinarja	mte:Ncmsg	novinar
+Magnusa	mte:Npmsg	Magnus
+Berglunda	mte:Npmsg	Berglund
+,	mte:Z	,
+avtorja	mte:Ncmsg	avtor
+oddaje	mte:Ncfsg	oddaja
+Resnica	mte:Ncfsn	resnica
+o	mte:Sl	o
+Patrii	mte:Npmsl	Patrii
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+te	mte:Pd-fsg	ta
+oddaje	mte:Ncfsg	oddaja
+je	mte:Va-r3s-n	biti
+nekdanji	mte:Agpmsny	nekdanji
+premier	mte:Ncmsn	premier
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+predlagal	mte:Vmbp-sm	predlagati
+pregon	mte:Ncmsan	pregon
+zoper	mte:Sa	zoper
+Draga	mte:Npmsa	Draga
+Kosa	mte:Npmsa	Kosa
+,	mte:Z	,
+Milana	mte:Npmsay	Milan
+Švajgerja	mte:Npmsay	Švajger
+,	mte:Z	,
+Bojana	mte:Npmsay	Bojan
+Potočnika	mte:Npmsay	Potočnik
+in	mte:Cc	in
+Berglunda	mte:Npmsay	Berglund
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Dnevnika	mte:Ncmsg	dnevnik
+je	mte:Va-r3s-n	biti
+primer	mte:Ncmsan	primer
+nato	mte:Rgp	nato
+romal	mte:Vmbp-sm	romati
+z	mte:Sg	z
+okrožnega	mte:Agpnsg	okrožen
+na	mte:Sa	na
+generalno	mte:Agpnsa	generalen
+državno	mte:Agpnsa	državen
+tožilstvo	mte:Ncnsa	tožilstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sprejelo	mte:Vmep-sn	sprejeti
+popolnoma	mte:Rgp	popolnoma
+nasprotno	mte:Agpfsa	nasproten
+odločitev	mte:Ncfsa	odločitev
+in	mte:Cc	in
+prevzelo	mte:Vmep-sn	prevzeti
+pregon	mte:Ncmsan	pregon
+novinarja	mte:Ncmsg	novinar
+.	mte:Z	.
+Dnevnik	mte:Ncmsn	dnevnik
+piše	mte:Vmpr3s	pisati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+zahtevo	mte:Ncfsa	zahteva
+za	mte:Sa	za
+preiskavo	mte:Ncfsa	preiskava
+na	mte:Sa	na
+sodišče	mte:Ncnsa	sodišče
+vložila	mte:Vmep-sf	vložiti
+vodja	mte:Ncmsn	vodja
+ljubljanskega	mte:Agpnsg	ljubljanski
+tožilstva	mte:Ncnsg	tožilstvo
+Tamara	mte:Npfsn	Tamara
+Gregorčič	mte:Npfsn	Gregorčič

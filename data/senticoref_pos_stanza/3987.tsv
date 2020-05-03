@@ -1,403 +1,430 @@
-token	tag
-Proizvodnjo	Ncfsa
-novomeškega	Agpmsg
-Revoza	Npmsg
-so	Va-r3p-n
-lani	Rgp
-zaznamovali	Vmbp-pm
-padec	Ncmsan
-povpraševanja	Ncnsg
-na	Sl
-evropskem	Agpmsl
-trgu	Ncmsl
-,	Z
-prehod	Ncmsan
-z	Sg
-dveh	Mlcfdg
-izmen	Ncfdg
-in	Cc
-pol	Rgp
-na	Sa
-dve	Mlcfda
-izmeni	Ncfda
-,	Z
-zaključek	Ncmsan
-proizvodnje	Ncfsg
-clia	Ncmsg
-II	Mrc
-za	Sa
-evropski	Agpmsay
-trg	Ncmsan
-in	Cc
-takojšnje	Agpnsa
-odzivanje	Ncnsa
-na	Sa
-zaostrene	Agpfpa
-razmere	Ncfpa
-na	Sl
-trgu	Ncmsl
-.	Z
-Kljub	Sd
-temu	Pd-nsd
-so	Va-r3p-n
-bili	Va-p-pm
-učinkoviti	Agpmpn
-in	Cc
-so	Va-r3p-n
-izdelali	Vmep-pm
-skoraj	Q
-131.000	Mdc
-vozil	Ncnpg
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-predsednik	Ncmsn
-uprave	Ncfsg
-Revoza	Npmsg
-Aleš	Npmsn
-Bratož	Npmsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-Bratož	Npmsn
-povedal	Vmep-sm
-na	Sl
-današnjem	Agpnsl
-srečanju	Ncnsl
-z	Si
-novinarji	Ncmpi
-v	Sl
-Novem	Agpnsl
-mestu	Ncnsl
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-novomeški	Agpmsny
-Revoz	Npmsn
-tudi	Q
-lani	Rgp
-najučinkovitejša	Agsfsn
-tovarna	Ncfsn
-zveze	Ncfsg
-Renault	Npmsn
--	Z
-Nissan	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-dobrih	Agpmpg
-98	Mdc
-odstotkov	Ncmpg
-svojih	Px-mpg
-izdelkov	Ncmpg
-izvozila	Vmep-sf
-,	Z
-za	Sa
-slovenski	Agpmsay
-trg	Ncmsan
-pa	Cc
-so	Va-r3p-n
-lani	Rgp
-izdelali	Vmep-pm
-nekaj	Rgp
-več	Rgc
-kot	Cs
-900	Mdc
-vozil	Ncnpg
-.	Z
-Med	Si
-največjimi	Agsmpi
-Revozovimi	Aspmpi
-trgi	Ncmpi
-je	Va-r3s-n
-navedel	Vmep-sm
-Francijo	Npfsa
-,	Z
-Nemčijo	Npfsa
-,	Z
-Alžirijo	Npfsa
-,	Z
-Nizozemsko	Agpfsa
-in	Cc
-Italijo	Npfsa
-ter	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-njihovo	Ps3nsap
-lansko	Agpnsa
-poslovanje	Ncnsa
-zaznamoval	Vmbp-sm
-tudi	Q
-s	Si
-socialnimi	Agpmpi
-partnerji	Ncmpi
-dosežen	Appmsnn
-sporazum	Ncmsn
-o	Sl
-prilagoditvi	Ncfsl
-proizvodnje	Ncfsg
-povpraševanju	Ncnsl
-,	Z
-zaradi	Sg
-katerega	Pq-msg
-po	Sl
-omenjenem	Appmsl
-padcu	Ncmsl
-prodaje	Ncfsg
-v	Sl
-podjetju	Ncnsl
-ni	Va-r3s-y
-prišlo	Vmep-sn
-do	Sg
-novih	Agpnpg
-odpuščanj	Ncnpg
-.	Z
-Navedeni	Appmsny
-lanski	Agpmsny
-sporazum	Ncmsn
-jim	Pp3mpd--y
-bo	Va-f3s-n
-tudi	Q
-letošnje	Agpnsa
-prilagajanje	Ncnsa
-povpraševanju	Ncnsd
-in	Cc
-trgu	Ncmsd
-omogočil	Vmep-sm
-izpeljati	Vmen
-brez	Sg
-odpuščanj	Ncnpg
-zaposlenih	Appmpg
-,	Z
-je	Va-r3s-n
-pristavil	Vmep-sm
-.	Z
-Bratož	Npmsn
-je	Va-r3s-n
-za	Sa
-tekoče	Appnsa
-poslovno	Agpnsa
-leto	Ncnsa
-napovedal	Vmep-sm
-nadaljevaje	Ncmpa
-krepitve	Ncfsg
-priprav	Ncfpg
-pri	Sl
-projektu	Ncmsl
-Edison	Npmsn
-,	Z
-za	Sa
-katerega	Pq-msa
-so	Va-r3p-n
-v	Sl
-Revozu	Npmsl
-doslej	Rgp
-namenili	Vmep-pm
-40	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Za	Sa
-projekt	Ncmsan
-,	Z
-ki	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-začeli	Vmep-pm
-prihodnje	Agpnsa
-leto	Ncnsa
-,	Z
-bodo	Va-f3p-n
-letos	Rgp
-v	Sl
-Novem	Agpnsl
-mestu	Ncnsl
-zaključili	Vmep-pm
-gradbena	Agpnpa
-dela	Ncnpa
-in	Cc
-postavili	Vmep-pm
-novo	Agpfsa
-opremo	Ncfsa
-,	Z
-hkrati	Rgp
-pa	Cc
-si	Px---d--y
-bodo	Va-f3p-n
-ob	Sl
-prilagajanju	Ncnsl
-tržnim	Agpfpd
-razmeram	Ncfpd
-v	Sl
-Revozu	Npmsl
-letos	Rgp
-prizadevali	Vmpp-pm
-za	Sa
-čim	Rgp
-večjo	Agcfsa
-konkurenčnost	Ncfsa
-pri	Sl
-njih	Pp3mpl
-izdelanih	Appnpg
-vozil	Ncnpg
-in	Cc
-za	Sa
-povečevanje	Ncnsa
-deleža	Ncmsg
-twinga	Ncmsg
-v	Sl
-njihovi	Ps3fslp
-proizvodnji	Ncfsl
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-predsednik	Ncmsn
-Revozove	Aspfsg
-uprave	Ncfsg
-opozoril	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-zadnji	Agpmpn
-vladni	Agpmpn
-ukrepi	Ncmpn
-poslabšali	Vmep-pm
-pogoje	Ncmpa
-njihovega	Ps3nsgp
-delovanja	Ncnsg
-.	Z
-Podražitev	Ncfsn
-elektrike	Ncfsg
-jih	Pp3mpa--y
-bo	Va-f3s-n
-tako	Rgp
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-stala	Vmpp-sf
-približno	Rgp
-pol	Rgp
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-podražile	Vmep-pf
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-tudi	Q
-komunalne	Agpfpn
-storitve	Ncfpn
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Bratož	Npmsn
-je	Va-r3s-n
-danes	Rgp
-navedel	Vmep-sm
-tudi	Q
-nekaj	Rgp
-podatkov	Ncmpg
-o	Sl
-poslovanju	Ncnsl
-skupine	Ncfsg
-Renault	Npmsn
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-je	Va-r3s-n
-Renaultova	Aspfsn
-prodaja	Ncfsn
-izven	Sg
-Evrope	Npfsg
--	Z
-predvsem	Q
-v	Sl
-Južni	Agpfsl
-Ameriki	Npfsl
-in	Cc
-Evroaziji	Npfsl
--	Z
-lani	Rgp
-zrasla	Vmep-sf
-za	Sa
-dobrih	Agpmpg
-devet	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-v	Sl
-Evropi	Npfsl
-pa	Cc
-je	Va-r3s-n
-tržni	Agpmsay
-delež	Ncmsan
-skupine	Ncfsg
-padel	Vmep-sm
-za	Sa
-odstotno	Agpfsa
-točko	Ncfsa
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-se	Px------y
-prodajne	Agpfpn
-količine	Ncfpn
-v	Sl
-primerjavi	Ncfsl
-s	Si
-predlanskimi	Agpfpi
-v	Sl
-Evropi	Npfsl
-znižale	Vmep-pf
-za	Sa
-18	Mdc
-odstotkov	Ncmpg
-.	Z
-Za	Sa
-tekoče	Appnsa
-leto	Ncnsa
-je	Va-r3s-n
-Bratož	Npmsn
-v	Sl
-skupini	Ncfsl
-Renault	Npmsn
-napovedal	Vmep-sm
-rast	Ncfsa
-prodaje	Ncfsg
-na	Sl
-svetovnem	Agpmsl
-trgu	Ncmsl
-za	Sa
-tri	Mlcmpa
-odstotke	Ncmpa
-,	Z
-na	Sl
-evropskem	Agpnsl
-pa	Cc
-naj	Q
-bi	Va-c
-ta	Pd-fsn
-padla	Vmep-sf
-tudi	Q
-za	Sa
-najmanj	Rgs
-tri	Mlcmpa
-odstotke	Ncmpa
-.	Z
-V	Sl
-svetovnem	Agpnsl
-merilu	Ncnsl
-bo	Va-f3s-n
-Renault	Npmsn
-letos	Rgp
-ponudil	Vmep-sm
-več	Rgc
-novih	Agpmpg
-modelov	Ncmpg
-vozil	Ncnpg
-.	Z
+token	tag	lemma
+Proizvodnjo	mte:Ncfsa	proizvodnja
+novomeškega	mte:Agpmsg	novomeški
+Revoza	mte:Npmsg	Revoz
+so	mte:Va-r3p-n	biti
+lani	mte:Rgp	lani
+zaznamovali	mte:Vmbp-pm	zaznamovati
+padec	mte:Ncmsan	padec
+povpraševanja	mte:Ncnsg	povpraševanje
+na	mte:Sl	na
+evropskem	mte:Agpmsl	evropski
+trgu	mte:Ncmsl	trg
+,	mte:Z	,
+prehod	mte:Ncmsan	prehod
+z	mte:Sg	z
+dveh	mte:Mlcfdg	dva
+izmen	mte:Ncfdg	izmena
+in	mte:Cc	in
+pol	mte:Rgp	pol
+na	mte:Sa	na
+dve	mte:Mlcfda	dva
+izmeni	mte:Ncfda	izmena
+,	mte:Z	,
+zaključek	mte:Ncmsan	zaključek
+proizvodnje	mte:Ncfsg	proizvodnja
+clia	mte:Ncmsg	clia
+II	mte:Mrc	II
+za	mte:Sa	za
+evropski	mte:Agpmsay	evropski
+trg	mte:Ncmsan	trg
+in	mte:Cc	in
+takojšnje	mte:Agpnsa	takojšnji
+odzivanje	mte:Ncnsa	odzivanje
+na	mte:Sa	na
+zaostrene	mte:Agpfpa	zaostren
+razmere	mte:Ncfpa	razmera
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+učinkoviti	mte:Agpmpn	učinkovit
+in	mte:Cc	in
+so	mte:Va-r3p-n	biti
+izdelali	mte:Vmep-pm	izdelati
+skoraj	mte:Q	skoraj
+131.000	mte:Mdc	131.000
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Revoza	mte:Npmsg	Revoz
+Aleš	mte:Npmsn	Aleš
+Bratož	mte:Npmsn	Bratož
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Bratož	mte:Npmsn	Bratož
+povedal	mte:Vmep-sm	povedati
+na	mte:Sl	na
+današnjem	mte:Agpnsl	današnji
+srečanju	mte:Ncnsl	srečanje
+z	mte:Si	z
+novinarji	mte:Ncmpi	novinar
+v	mte:Sl	v
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+novomeški	mte:Agpmsny	novomeški
+Revoz	mte:Npmsn	Revoz
+tudi	mte:Q	tudi
+lani	mte:Rgp	lani
+najučinkovitejša	mte:Agsfsn	učinkovit
+tovarna	mte:Ncfsn	tovarna
+zveze	mte:Ncfsg	zveza
+Renault	mte:Npmsn	Renault
+-	mte:Z	-
+Nissan	mte:Npmsn	Nissan
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+dobrih	mte:Agpmpg	dober
+98	mte:Mdc	98
+odstotkov	mte:Ncmpg	odstotek
+svojih	mte:Px-mpg	svoj
+izdelkov	mte:Ncmpg	izdelek
+izvozila	mte:Vmep-sf	izvoziti
+,	mte:Z	,
+za	mte:Sa	za
+slovenski	mte:Agpmsay	slovenski
+trg	mte:Ncmsan	trg
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+lani	mte:Rgp	lani
+izdelali	mte:Vmep-pm	izdelati
+nekaj	mte:Rgp	nekaj
+več	mte:Rgc	več
+kot	mte:Cs	kot
+900	mte:Mdc	900
+vozil	mte:Ncnpg	vozilo
+.	mte:Z	.
+Med	mte:Si	med
+največjimi	mte:Agsmpi	velik
+Revozovimi	mte:Aspmpi	Revozov
+trgi	mte:Ncmpi	trg
+je	mte:Va-r3s-n	biti
+navedel	mte:Vmep-sm	navesti
+Francijo	mte:Npfsa	Francija
+,	mte:Z	,
+Nemčijo	mte:Npfsa	Nemčija
+,	mte:Z	,
+Alžirijo	mte:Npfsa	Alžirija
+,	mte:Z	,
+Nizozemsko	mte:Agpfsa	nizozemski
+in	mte:Cc	in
+Italijo	mte:Npfsa	Italija
+ter	mte:Cc	ter
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+njihovo	mte:Ps3nsap	njihov
+lansko	mte:Agpnsa	lanski
+poslovanje	mte:Ncnsa	poslovanje
+zaznamoval	mte:Vmbp-sm	zaznamovati
+tudi	mte:Q	tudi
+s	mte:Si	z
+socialnimi	mte:Agpmpi	socialen
+partnerji	mte:Ncmpi	partner
+dosežen	mte:Appmsnn	dosežen
+sporazum	mte:Ncmsn	sporazum
+o	mte:Sl	o
+prilagoditvi	mte:Ncfsl	prilagoditev
+proizvodnje	mte:Ncfsg	proizvodnja
+povpraševanju	mte:Ncnsl	povpraševanje
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+katerega	mte:Pq-msg	kateri
+po	mte:Sl	po
+omenjenem	mte:Appmsl	omenjen
+padcu	mte:Ncmsl	padec
+prodaje	mte:Ncfsg	prodaja
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+ni	mte:Va-r3s-y	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+novih	mte:Agpnpg	nov
+odpuščanj	mte:Ncnpg	odpuščanje
+.	mte:Z	.
+Navedeni	mte:Appmsny	naveden
+lanski	mte:Agpmsny	lanski
+sporazum	mte:Ncmsn	sporazum
+jim	mte:Pp3mpd--y	on
+bo	mte:Va-f3s-n	biti
+tudi	mte:Q	tudi
+letošnje	mte:Agpnsa	letošnji
+prilagajanje	mte:Ncnsa	prilagajanje
+povpraševanju	mte:Ncnsd	povpraševanje
+in	mte:Cc	in
+trgu	mte:Ncmsd	trg
+omogočil	mte:Vmep-sm	omogočiti
+izpeljati	mte:Vmen	izpeljati
+brez	mte:Sg	brez
+odpuščanj	mte:Ncnpg	odpuščanje
+zaposlenih	mte:Appmpg	zaposlen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pristavil	mte:Vmep-sm	pristaviti
+.	mte:Z	.
+Bratož	mte:Npmsn	Bratož
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+tekoče	mte:Appnsa	tekoče
+poslovno	mte:Agpnsa	posloven
+leto	mte:Ncnsa	leto
+napovedal	mte:Vmep-sm	napovedati
+nadaljevaje	mte:Ncmpa	nadaljevaj
+krepitve	mte:Ncfsg	krepitev
+priprav	mte:Ncfpg	priprava
+pri	mte:Sl	pri
+projektu	mte:Ncmsl	projekt
+Edison	mte:Npmsn	Edison
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+doslej	mte:Rgp	doslej
+namenili	mte:Vmep-pm	nameniti
+40	mte:Mdc	40
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Za	mte:Sa	za
+projekt	mte:Ncmsan	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+začeli	mte:Vmep-pm	začeti
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+letos	mte:Rgp	letos
+v	mte:Sl	v
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+zaključili	mte:Vmep-pm	zaključiti
+gradbena	mte:Agpnpa	gradben
+dela	mte:Ncnpa	delo
+in	mte:Cc	in
+postavili	mte:Vmep-pm	postaviti
+novo	mte:Agpfsa	nov
+opremo	mte:Ncfsa	oprema
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+bodo	mte:Va-f3p-n	biti
+ob	mte:Sl	ob
+prilagajanju	mte:Ncnsl	prilagajanje
+tržnim	mte:Agpfpd	tržen
+razmeram	mte:Ncfpd	razmera
+v	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+letos	mte:Rgp	letos
+prizadevali	mte:Vmpp-pm	prizadevati
+za	mte:Sa	za
+čim	mte:Rgp	čim
+večjo	mte:Agcfsa	velik
+konkurenčnost	mte:Ncfsa	konkurenčnost
+pri	mte:Sl	pri
+njih	mte:Pp3mpl	on
+izdelanih	mte:Appnpg	izdelan
+vozil	mte:Ncnpg	vozilo
+in	mte:Cc	in
+za	mte:Sa	za
+povečevanje	mte:Ncnsa	povečevanje
+deleža	mte:Ncmsg	delež
+twinga	mte:Ncmsg	twingo
+v	mte:Sl	v
+njihovi	mte:Ps3fslp	njihov
+proizvodnji	mte:Ncfsl	proizvodnja
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+Revozove	mte:Aspfsg	Revozov
+uprave	mte:Ncfsg	uprava
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+zadnji	mte:Agpmpn	zadnji
+vladni	mte:Agpmpn	vladen
+ukrepi	mte:Ncmpn	ukrep
+poslabšali	mte:Vmep-pm	poslabšati
+pogoje	mte:Ncmpa	pogoj
+njihovega	mte:Ps3nsgp	njihov
+delovanja	mte:Ncnsg	delovanje
+.	mte:Z	.
+Podražitev	mte:Ncfsn	podražitev
+elektrike	mte:Ncfsg	elektrika
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+stala	mte:Vmpp-sf	stati
+približno	mte:Rgp	približno
+pol	mte:Rgp	pol
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+podražile	mte:Vmep-pf	podražiti
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+komunalne	mte:Agpfpn	komunalen
+storitve	mte:Ncfpn	storitev
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Bratož	mte:Npmsn	Bratož
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+navedel	mte:Vmep-sm	navesti
+tudi	mte:Q	tudi
+nekaj	mte:Rgp	nekaj
+podatkov	mte:Ncmpg	podatek
+o	mte:Sl	o
+poslovanju	mte:Ncnsl	poslovanje
+skupine	mte:Ncfsg	skupina
+Renault	mte:Npmsn	Renault
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+je	mte:Va-r3s-n	biti
+Renaultova	mte:Aspfsn	Renaultov
+prodaja	mte:Ncfsn	prodaja
+izven	mte:Sg	izven
+Evrope	mte:Npfsg	Evropa
+-	mte:Z	-
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+Južni	mte:Agpfsl	južen
+Ameriki	mte:Npfsl	Amerika
+in	mte:Cc	in
+Evroaziji	mte:Npfsl	Evroazija
+-	mte:Z	-
+lani	mte:Rgp	lani
+zrasla	mte:Vmep-sf	zrasti
+za	mte:Sa	za
+dobrih	mte:Agpmpg	dober
+devet	mte:Mlc-pa	devet
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tržni	mte:Agpmsay	tržen
+delež	mte:Ncmsan	delež
+skupine	mte:Ncfsg	skupina
+padel	mte:Vmep-sm	pasti
+za	mte:Sa	za
+odstotno	mte:Agpfsa	odstoten
+točko	mte:Ncfsa	točka
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+prodajne	mte:Agpfpn	prodajen
+količine	mte:Ncfpn	količina
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+s	mte:Si	z
+predlanskimi	mte:Agpfpi	predlanski
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+znižale	mte:Vmep-pf	znižati
+za	mte:Sa	za
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Za	mte:Sa	za
+tekoče	mte:Appnsa	tekoče
+leto	mte:Ncnsa	leto
+je	mte:Va-r3s-n	biti
+Bratož	mte:Npmsn	Bratož
+v	mte:Sl	v
+skupini	mte:Ncfsl	skupina
+Renault	mte:Npmsn	Renault
+napovedal	mte:Vmep-sm	napovedati
+rast	mte:Ncfsa	rast
+prodaje	mte:Ncfsg	prodaja
+na	mte:Sl	na
+svetovnem	mte:Agpmsl	svetoven
+trgu	mte:Ncmsl	trg
+za	mte:Sa	za
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+evropskem	mte:Agpnsl	evropski
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ta	mte:Pd-fsn	ta
+padla	mte:Vmep-sf	pasti
+tudi	mte:Q	tudi
+za	mte:Sa	za
+najmanj	mte:Rgs	najmanj
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+svetovnem	mte:Agpnsl	svetoven
+merilu	mte:Ncnsl	merilo
+bo	mte:Va-f3s-n	biti
+Renault	mte:Npmsn	Renault
+letos	mte:Rgp	letos
+ponudil	mte:Vmep-sm	ponuditi
+več	mte:Rgc	več
+novih	mte:Agpmpg	nov
+modelov	mte:Ncmpg	model
+vozil	mte:Ncnpg	vozilo
+.	mte:Z	.
+Med	mte:Si	med
+temi	mte:Pd-mpi	ta
+bodo	mte:Va-f3p-n	biti
+novi	mte:Agpmsny	nov
+clio	mte:Ncmsan	clio
+,	mte:Z	,
+captur	mte:Ncmsan	captura
+in	mte:Cc	in
+zoe	mte:Npmsan	zoe
+ter	mte:Cc	ter
+nova	mte:Agpnpa	nov
+vozila	mte:Ncnpa	vozilo
+clio	mte:Ncmsn	clio
+grandtour	mte:Ncmsn	grandtour
+,	mte:Z	,
+symbol	mte:Ncmsn	symbol
+,	mte:Z	,
+logan	mte:Ncmsn	logan
+,	mte:Z	,
+sandero	mte:Ncmsa	sandera
+in	mte:Cc	in
+fluence	mte:Ncfpa	fluenca
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+Bratož	mte:Npmsn	Bratož

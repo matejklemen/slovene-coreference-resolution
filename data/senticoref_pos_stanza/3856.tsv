@@ -1,553 +1,575 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Vlada	Ncfsn
-se	Px------y
-je	Va-r3s-n
-po	Sl
-več	Rgc
-propadlih	Appmpl
-manevrih	Ncmpl
-na	Sl
-skupščinah	Ncfpl
-družb	Ncfpg
-v	Sl
-državni	Agpfsl
-lasti	Ncfsl
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-je	Va-r3s-n
-v	Sl
-zadnjih	Agpmpl
-nekaj	Rgp
-tednih	Ncmpl
-preprečila	Vmep-sf
-Agencija	Ncfsn
-za	Sa
-upravljanje	Ncnsa
-kapitalskih	Agpfpg
-naložb	Ncfpg
-(	Z
-AUKN	Npfsn
-)	Z
-,	Z
-očitno	Rgp
-odločila	Vmep-sf
-obračunati	Vmen
-z	Si
-vodstvi	Ncnpi
-družb	Ncfpg
-.	Z
-Prva	Mlofsn
-sta	Va-r3d-n
-na	Sa
-vrsto	Ncfsa
-prišla	Vmep-sf
-uprava	Ncfsn
-Aerodroma	Npmsg
-Ljubljana	Npfsn
-in	Cc
-njen	Ps3msnsf
-nadzorni	Agpmsny
-svet	Ncmsn
-.	Z
-Vlada	Ncfsn
-namreč	Cc
-AUKN	Npfsn
-ni	Va-r3s-y
-podelila	Vmep-sf
-soglasja	Ncnsg
-,	Z
-da	Cs
-predstavniki	Ncmpn
-agencije	Ncfsg
-soglašajo	Vmpr3p
-z	Si
-razrešnico	Ncfsi
-upravi	Ncfsd
-pod	Si
-vodstvom	Ncnsi
-Zmaga	Ncfsn
-Skobirja	Npmsg
-(	Z
-na	Sl
-fotografiji	Ncfsl
-)	Z
-in	Cc
-nadzornemu	Agpmsd
-svetu	Ncmsd
-,	Z
-ki	Cs
-ga	Pp3msa--y
-vodi	Vmpr3s
-Anja	Npfsn
-Strojin	Npfsn
-Štampar	Npmsn
-.	Z
-Predstavnik	Ncmsn
-AUKN	Npfsg
-,	Z
-ki	Cs
-se	Px------y
-z	Si
-odločitvijo	Ncfsi
-vlade	Ncfsg
-očitno	Rgp
-ni	Va-r3s-y
-strinjal	Vmpp-sm
-,	Z
-se	Px------y
-je	Va-r3s-n
-glasovanja	Ncnsg
-vzdržal	Vmep-sm
-,	Z
-99	Mdc
-odstotkov	Ncmpg
-vseh	Pg-mpg
-oddanih	Appmpg
-glasov	Ncmpg
-na	Sl
-skupščini	Ncfsl
-pa	Cc
-je	Va-r3s-n
-razrešnico	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-lastniki	Ncmpi
-potrdijo	Vmer3p
-in	Cc
-odobrijo	Vmer3p
-delo	Ncnsa
-organov	Ncmpg
-vodenja	Ncnsg
-družbe	Ncfsg
-v	Sl
-minulem	Appnsl
-letu	Ncnsl
-,	Z
-potrdilo	Ncnsa
-.	Z
-Če	Cs
-kdo	Pq-msn
-,	Z
-je	Va-r3s-n
-tako	Rgp
-"	Z
-brez	Sg
-razrešnice	Ncfsg
-"	Z
-ostala	Vmep-sf
-vlada	Ncfsn
-,	Z
-in	Cc
-sicer	Q
-ne	Q
-le	Q
-od	Sg
-predstavnikov	Ncmpg
-AUKN	Npfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-po	Sl
-zakonu	Ncmsl
-še	Q
-vedno	Rgp
-pristojni	Agpmpn
-za	Sa
-upravljanje	Ncnsa
-kapitalskih	Agpfpg
-naložb	Ncfpg
-države	Ncfsg
-,	Z
-ampak	Cc
-tudi	Q
-od	Sg
-velike	Agpfsg
-večine	Ncfsg
-malih	Agpmpg
-delničarjev	Ncmpg
-Aerodroma	Npmsg
-Ljubljana	Npfsn
-.	Z
-Po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-je	Va-r3s-n
-predstavnik	Ncmsn
-AUKN	Npfsg
-na	Sl
-skupščini	Ncfsl
-delničarjem	Ncmpd
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-agencija	Ncfsn
-po	Sl
-spremembi	Ncfsl
-zakona	Ncmsg
-o	Sl
-upravljanju	Ncnsl
-kapitalskih	Agpfpg
-naložb	Ncfpg
-pripravi	Vmer3s
-predlog	Ncmsan
-za	Sa
-glasovanje	Ncnsa
-na	Sl
-skupščini	Ncfsl
-,	Z
-ki	Cs
-pa	Cc
-ga	Pp3msa--y
-mora	Vmpr3s
-po	Sl
-novem	Agpnsl
-potrditi	Vmen
-vlada	Ncfsn
-.	Z
-AUKN	Npfsn
-je	Va-r3s-n
-predlagala	Vmbp-sf
-razrešnico	Ncfsa
-,	Z
-a	Cc
-vlada	Ncfsn
-tega	Pd-msg
-sklepa	Ncmsg
-ni	Va-r3s-y
-potrdila	Vmep-sf
-,	Z
-zato	Cc
-je	Va-r3s-n
-predstavnik	Ncmsn
-AUKN	Npfsg
-povedal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-glasovanja	Ncnsg
-vzdržal	Vmep-sm
-.	Z
-AUKN	Npfsn
-je	Va-r3s-n
-,	Z
-spomnimo	Vmer1p
-,	Z
-vladi	Ncfsd
-tokrat	Rgp
-po	Sl
-skupščinah	Ncfpl
-Elektra	Npfsg
-Celje	Npnsn
-,	Z
-Zavarovalnice	Ncfsg
-Triglav	Npmsn
-in	Cc
-Telekoma	Npmsg
-Slovenije	Npfsg
-že	Q
-vsaj	Q
-četrtič	Rgp
-pripravila	Vmep-sf
-hladen	Agpmsan
-tuš	Ncmsan
-.	Z
-Vlada	Ncfsn
-je	Va-r3s-n
-očitno	Rgp
-spoznala	Vmbp-sf
-,	Z
-da	Cs
-na	Sa
-sodelovanje	Ncnsa
-oziroma	Cc
-poslušnost	Ncfsa
-AUKN	Npfsg
-pri	Sl
-načinu	Ncmsl
-upravljanja	Ncnsg
-kapitalskih	Agpfpg
-naložb	Ncfpg
-,	Z
-kot	Cs
-so	Va-r3p-n
-si	Px---d--y
-ga	Pp3msa--y
-očitno	Rgp
-zamislili	Vmep-pm
-v	Sl
-kabinetu	Ncmsl
-predsednika	Ncmsg
-vlade	Ncfsg
-,	Z
-ne	Q
-more	Vmpr3s
-računati	Vmpn
-.	Z
-Že	Q
-na	Sl
-skupščini	Ncfsl
-Telekoma	Npmsg
-Slovenije	Npfsg
-,	Z
-ko	Cs
-je	Va-r3s-n
-nasprotni	Agpmsny
-predlog	Ncmsn
-,	Z
-s	Si
-katerim	Pq-msi
-bi	Va-c
-vodenje	Ncnsa
-skupščine	Ncfsg
-zaupali	Vmbp-pm
-odvetniku	Ncmsd
-premierja	Ncmsg
-Janeza	Npmsg
-Janše	Npmsg
-Franciju	Npmsd
-Matozu	Npmsd
-,	Z
-predlagal	Vmbp-sm
-eden	Mlpmsn
-od	Sg
-malih	Agpmpg
-delničarjev	Ncmpg
-,	Z
-Darij	Npmsn
-Južna	Npfsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-izkazalo	Vmep-sn
-,	Z
-da	Cs
-bo	Va-f3s-n
-poskušala	Vmpp-sf
-vlada	Ncfsn
-za	Sa
-uresničevanje	Ncnsa
-svojih	Px-fpg
-zamisli	Ncfpg
-najti	Vmen
-druge	Mlpmpa
-načine	Ncmpa
-.	Z
-Enak	Pi-msa
-manever	Ncmsan
-naj	Q
-bi	Va-c
-načrtovala	Vmpp-sf
-tudi	Q
-na	Sl
-skupščini	Ncfsl
-Aerodroma	Npmsg
-Ljubljana	Npfsn
-.	Z
-Zavrnitev	Ncfsn
-razrešnice	Ncfsg
-vodstvu	Ncnsd
-in	Cc
-nadzornikom	Ncmpd
-Aerodromu	Npmsd
-Ljubljana	Npfsn
-namreč	Cc
-po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-ni	Va-r3s-y
-bil	Va-p-sm
-prvi	Mlomsn
-načrtovan	Appmsnn
-manever	Ncmsn
-vlade	Ncfsg
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-si	Px---d--y
-ta	Pd-msn
-že	Q
-na	Sl
-včerajšnji	Agpfsl
-skupščini	Ncfsl
-želela	Vmpp-sf
-zamenjave	Ncfsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-.	Z
-Predlog	Ncmsan
-za	Sa
-razširitev	Ncfsa
-dnevnega	Agpmsg
-reda	Ncmsg
-skupščine	Ncfsg
-naj	Q
-bi	Va-c
-pripravil	Vmep-sm
-eden	Mlpmsn
-od	Sg
-malih	Agpmpg
-delničarjev	Ncmpg
-,	Z
-da	Cs
-stoji	Vmpr3s
-za	Si
-manevrom	Ncmsi
-vlada	Ncfsn
-,	Z
-pa	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-izkazalo	Vmep-sn
-s	Si
-klicem	Ncmsi
-Igorja	Npmsg
-Šalamuna	Npmsg
-,	Z
-državnega	Agpmsg
-sekretarja	Ncmsg
-na	Sl
-ministrstvu	Ncnsl
-pod	Si
-vodstvom	Ncnsi
-Zvonka	Npmsg
-Černača	Npmsg
-,	Z
-v	Sa
-družbo	Ncfsa
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-zanimalo	Vmpp-sn
-,	Z
-zakaj	Rgp
-ni	Va-r3s-y
-objavljena	Appfsn
-razširitev	Ncfsn
-dnevnega	Agpmsg
-reda	Ncmsg
-skupščine	Ncfsg
-.	Z
-Manever	Ncmsn
-je	Va-r3s-n
-padel	Vmep-sm
-v	Sa
-vodo	Ncfsa
-,	Z
-ker	Cs
-mali	Agpmsny
-delničar	Ncmsn
-ni	Va-r3s-y
-imel	Vmpp-sm
-petih	Mlc-pg
-odstotkov	Ncmpg
-delnic	Ncfpg
-,	Z
-kar	Pr-nsn
-pa	Cc
-je	Va-r3s-n
-minimalni	Agpmsny
-prag	Ncmsn
-za	Sa
-razširitev	Ncfsa
-dnevnega	Agpmsg
-reda	Ncmsg
-skupščine	Ncfsg
-.	Z
-Aerodrom	Npmsn
-Ljubljana	Npfsn
-je	Va-r3s-n
-lani	Rgp
-kljub	Sd
-manjšemu	Agcnsd
-številu	Ncnsd
-potnikov	Ncmpg
-,	Z
-ki	Cs
-je	Va-r3s-n
-upadlo	Vmep-sn
-za	Sa
-1,4	Mdc
-odstotka	Ncmsg
-,	Z
-in	Cc
-kljub	Sd
-7,8	Mdc
--	Z
-odstotnemu	Agpmsd
-upadu	Ncmsd
-števila	Ncnsg
-premikov	Ncmpg
-letal	Ncnpg
-povečal	Vmep-sm
-tako	Rgp
-prihodke	Ncmpa
-kot	Cs
-čisti	Agpmsay
-dobiček	Ncmsan
-.	Z
-Slednji	Agpmsny
-je	Va-r3s-n
-znašal	Vmpp-sm
-5,25	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-brez	Sg
-slabitve	Ncfsg
-naložbe	Ncfsg
-v	Sa
-Adrio	Npfsa
-Airways	Npfsn
-Tehniko	Ncfsa
-pa	Cc
-bi	Va-c
-bil	Va-p-sm
-še	Q
-za	Sa
-2,2	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-višji	Agcmpn
-.	Z
-Prihodki	Ncmpn
-Aerodroma	Npmsg
-so	Va-r3p-n
-lani	Rgp
-ostali	Vmep-pm
-praktično	Rgp
-nespremenjeni	Agpmpn
-pri	Sl
-34	Mdc
-milijonih	Ncmpl
-evrov	Ncmpg
-.	Z
-V	Sl
-letošnjem	Agpnsl
-letu	Ncnsl
-bo	Va-f3s-n
-morala	Vmpp-sf
-družba	Ncfsn
-delničarjem	Ncmpd
-po	Sl
-včerajšnjem	Agpmsl
-sklepu	Ncmsl
-skupščine	Ncfsg
-razdeliti	Vmen
-2,6	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-dividend	Ncfpg
-ali	Cc
-0,64	Mdc
-evra	Ncmsg
-za	Sa
-delnico	Ncfsa
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Vlada	mte:Ncfsn	vlada
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+več	mte:Rgc	več
+propadlih	mte:Appmpl	propasel
+manevrih	mte:Ncmpl	manever
+na	mte:Sl	na
+skupščinah	mte:Ncfpl	skupščina
+družb	mte:Ncfpg	družba
+v	mte:Sl	v
+državni	mte:Agpfsl	državen
+lasti	mte:Ncfsl	last
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+nekaj	mte:Rgp	nekaj
+tednih	mte:Ncmpl	teden
+preprečila	mte:Vmep-sf	preprečiti
+Agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+(	mte:Z	(
+AUKN	mte:Npfsn	AUKN
+)	mte:Z	)
+,	mte:Z	,
+očitno	mte:Rgp	očitno
+odločila	mte:Vmep-sf	odločiti
+obračunati	mte:Vmen	obračunati
+z	mte:Si	z
+vodstvi	mte:Ncnpi	vodstvo
+družb	mte:Ncfpg	družba
+.	mte:Z	.
+Prva	mte:Mlofsn	prvi
+sta	mte:Va-r3d-n	biti
+na	mte:Sa	na
+vrsto	mte:Ncfsa	vrsta
+prišla	mte:Vmep-sf	priti
+uprava	mte:Ncfsn	uprava
+Aerodroma	mte:Npmsg	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+in	mte:Cc	in
+njen	mte:Ps3msnsf	njen
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+namreč	mte:Cc	namreč
+AUKN	mte:Npfsn	AUKN
+ni	mte:Va-r3s-y	biti
+podelila	mte:Vmep-sf	podeliti
+soglasja	mte:Ncnsg	soglasje
+,	mte:Z	,
+da	mte:Cs	da
+predstavniki	mte:Ncmpn	predstavnik
+agencije	mte:Ncfsg	agencija
+soglašajo	mte:Vmpr3p	soglašati
+z	mte:Si	z
+razrešnico	mte:Ncfsi	razrešnica
+upravi	mte:Ncfsd	uprava
+pod	mte:Si	pod
+vodstvom	mte:Ncnsi	vodstvo
+Zmaga	mte:Ncfsn	zmaga
+Skobirja	mte:Npmsg	Skobir
+(	mte:Z	(
+na	mte:Sl	na
+fotografiji	mte:Ncfsl	fotografija
+)	mte:Z	)
+in	mte:Cc	in
+nadzornemu	mte:Agpmsd	nadzoren
+svetu	mte:Ncmsd	svet
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+vodi	mte:Vmpr3s	voditi
+Anja	mte:Npfsn	Anja
+Strojin	mte:Npfsn	Strojin
+Štampar	mte:Npmsn	Štampar
+.	mte:Z	.
+Predstavnik	mte:Ncmsn	predstavnik
+AUKN	mte:Npfsg	AUKN
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+z	mte:Si	z
+odločitvijo	mte:Ncfsi	odločitev
+vlade	mte:Ncfsg	vlada
+očitno	mte:Rgp	očitno
+ni	mte:Va-r3s-y	biti
+strinjal	mte:Vmpp-sm	strinjati
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+glasovanja	mte:Ncnsg	glasovanje
+vzdržal	mte:Vmep-sm	vzdržati
+,	mte:Z	,
+99	mte:Mdc	99
+odstotkov	mte:Ncmpg	odstotek
+vseh	mte:Pg-mpg	ves
+oddanih	mte:Appmpg	oddan
+glasov	mte:Ncmpg	glas
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+razrešnico	mte:Ncfsa	razrešnica
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+lastniki	mte:Ncmpi	lastnik
+potrdijo	mte:Vmer3p	potrditi
+in	mte:Cc	in
+odobrijo	mte:Vmer3p	odobriti
+delo	mte:Ncnsa	delo
+organov	mte:Ncmpg	organ
+vodenja	mte:Ncnsg	vodenje
+družbe	mte:Ncfsg	družba
+v	mte:Sl	v
+minulem	mte:Appnsl	minul
+letu	mte:Ncnsl	leto
+,	mte:Z	,
+potrdilo	mte:Ncnsa	potrdilo
+.	mte:Z	.
+Če	mte:Cs	če
+kdo	mte:Pq-msn	kdo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+"	mte:Z	"
+brez	mte:Sg	brez
+razrešnice	mte:Ncfsg	razrešnica
+"	mte:Z	"
+ostala	mte:Vmep-sf	ostati
+vlada	mte:Ncfsn	vlada
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+ne	mte:Q	ne
+le	mte:Q	le
+od	mte:Sg	od
+predstavnikov	mte:Ncmpg	predstavnik
+AUKN	mte:Npfsg	AUKN
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+zakonu	mte:Ncmsl	zakon
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+pristojni	mte:Agpmpn	pristojen
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+države	mte:Ncfsg	država
+,	mte:Z	,
+ampak	mte:Cc	ampak
+tudi	mte:Q	tudi
+od	mte:Sg	od
+velike	mte:Agpfsg	velik
+večine	mte:Ncfsg	večina
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+Aerodroma	mte:Npmsg	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+Po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+je	mte:Va-r3s-n	biti
+predstavnik	mte:Ncmsn	predstavnik
+AUKN	mte:Npfsg	AUKN
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+delničarjem	mte:Ncmpd	delničar
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+agencija	mte:Ncfsn	agencija
+po	mte:Sl	po
+spremembi	mte:Ncfsl	sprememba
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+upravljanju	mte:Ncnsl	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+pripravi	mte:Vmer3s	pripraviti
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+glasovanje	mte:Ncnsa	glasovanje
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+mora	mte:Vmpr3s	morati
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+potrditi	mte:Vmen	potrditi
+vlada	mte:Ncfsn	vlada
+.	mte:Z	.
+AUKN	mte:Npfsn	AUKN
+je	mte:Va-r3s-n	biti
+predlagala	mte:Vmbp-sf	predlagati
+razrešnico	mte:Ncfsa	razrešnica
+,	mte:Z	,
+a	mte:Cc	a
+vlada	mte:Ncfsn	vlada
+tega	mte:Pd-msg	ta
+sklepa	mte:Ncmsg	sklep
+ni	mte:Va-r3s-y	biti
+potrdila	mte:Vmep-sf	potrditi
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+predstavnik	mte:Ncmsn	predstavnik
+AUKN	mte:Npfsg	AUKN
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+glasovanja	mte:Ncnsg	glasovanje
+vzdržal	mte:Vmep-sm	vzdržati
+.	mte:Z	.
+AUKN	mte:Npfsn	AUKN
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+spomnimo	mte:Vmer1p	spomniti
+,	mte:Z	,
+vladi	mte:Ncfsd	vlada
+tokrat	mte:Rgp	tokrat
+po	mte:Sl	po
+skupščinah	mte:Ncfpl	skupščina
+Elektra	mte:Npfsg	Elektra
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+Zavarovalnice	mte:Ncfsg	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+in	mte:Cc	in
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+že	mte:Q	že
+vsaj	mte:Q	vsaj
+četrtič	mte:Rgp	četrtič
+pripravila	mte:Vmep-sf	pripraviti
+hladen	mte:Agpmsan	hladen
+tuš	mte:Ncmsan	tuš
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+očitno	mte:Rgp	očitno
+spoznala	mte:Vmbp-sf	spoznati
+,	mte:Z	,
+da	mte:Cs	da
+na	mte:Sa	na
+sodelovanje	mte:Ncnsa	sodelovanje
+oziroma	mte:Cc	oziroma
+poslušnost	mte:Ncfsa	poslušnost
+AUKN	mte:Npfsg	AUKN
+pri	mte:Sl	pri
+načinu	mte:Ncmsl	način
+upravljanja	mte:Ncnsg	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+si	mte:Px---d--y	se
+ga	mte:Pp3msa--y	on
+očitno	mte:Rgp	očitno
+zamislili	mte:Vmep-pm	zamisliti
+v	mte:Sl	v
+kabinetu	mte:Ncmsl	kabinet
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+računati	mte:Vmpn	računati
+.	mte:Z	.
+Že	mte:Q	že
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+nasprotni	mte:Agpmsny	nasproten
+predlog	mte:Ncmsn	predlog
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+bi	mte:Va-c	biti
+vodenje	mte:Ncnsa	vodenje
+skupščine	mte:Ncfsg	skupščina
+zaupali	mte:Vmbp-pm	zaupati
+odvetniku	mte:Ncmsd	odvetnik
+premierja	mte:Ncmsg	premier
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npmsg	Janše
+Franciju	mte:Npmsd	Francij
+Matozu	mte:Npmsd	Matoz
+,	mte:Z	,
+predlagal	mte:Vmbp-sm	predlagati
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+,	mte:Z	,
+Darij	mte:Npmsn	Darij
+Južna	mte:Npfsn	Južna
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+izkazalo	mte:Vmep-sn	izkazati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+poskušala	mte:Vmpp-sf	poskušati
+vlada	mte:Ncfsn	vlada
+za	mte:Sa	za
+uresničevanje	mte:Ncnsa	uresničevanje
+svojih	mte:Px-fpg	svoj
+zamisli	mte:Ncfpg	zamisel
+najti	mte:Vmen	najti
+druge	mte:Mlpmpa	drug
+načine	mte:Ncmpa	način
+.	mte:Z	.
+Enak	mte:Pi-msa	enak
+manever	mte:Ncmsan	manever
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+načrtovala	mte:Vmpp-sf	načrtovati
+tudi	mte:Q	tudi
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+Aerodroma	mte:Npmsg	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+Zavrnitev	mte:Ncfsn	zavrnitev
+razrešnice	mte:Ncfsg	razrešnica
+vodstvu	mte:Ncnsd	vodstvo
+in	mte:Cc	in
+nadzornikom	mte:Ncmpd	nadzornik
+Aerodromu	mte:Npmsd	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+namreč	mte:Cc	namreč
+po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+prvi	mte:Mlomsn	prvi
+načrtovan	mte:Appmsnn	načrtovan
+manever	mte:Ncmsn	manever
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+si	mte:Px---d--y	se
+ta	mte:Pd-msn	ta
+že	mte:Q	že
+na	mte:Sl	na
+včerajšnji	mte:Agpfsl	včerajšnji
+skupščini	mte:Ncfsl	skupščina
+želela	mte:Vmpp-sf	želeti
+zamenjave	mte:Ncfsg	zamenjava
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+Predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+razširitev	mte:Ncfsa	razširitev
+dnevnega	mte:Agpmsg	dneven
+reda	mte:Ncmsg	red
+skupščine	mte:Ncfsg	skupščina
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+pripravil	mte:Vmep-sm	pripraviti
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+,	mte:Z	,
+da	mte:Cs	da
+stoji	mte:Vmpr3s	stati
+za	mte:Si	za
+manevrom	mte:Ncmsi	manever
+vlada	mte:Ncfsn	vlada
+,	mte:Z	,
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+izkazalo	mte:Vmep-sn	izkazati
+s	mte:Si	z
+klicem	mte:Ncmsi	klic
+Igorja	mte:Npmsg	Igor
+Šalamuna	mte:Npmsg	Šalamun
+,	mte:Z	,
+državnega	mte:Agpmsg	državen
+sekretarja	mte:Ncmsg	sekretar
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+pod	mte:Si	pod
+vodstvom	mte:Ncnsi	vodstvo
+Zvonka	mte:Npmsg	Zvonka
+Černača	mte:Npmsg	Černač
+,	mte:Z	,
+v	mte:Sa	v
+družbo	mte:Ncfsa	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+zanimalo	mte:Vmpp-sn	zanimati
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+ni	mte:Va-r3s-y	biti
+objavljena	mte:Appfsn	objavljen
+razširitev	mte:Ncfsn	razširitev
+dnevnega	mte:Agpmsg	dneven
+reda	mte:Ncmsg	red
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+Manever	mte:Ncmsn	manever
+je	mte:Va-r3s-n	biti
+padel	mte:Vmep-sm	pasti
+v	mte:Sa	v
+vodo	mte:Ncfsa	voda
+,	mte:Z	,
+ker	mte:Cs	ker
+mali	mte:Agpmsny	mali
+delničar	mte:Ncmsn	delničar
+ni	mte:Va-r3s-y	biti
+imel	mte:Vmpp-sm	imeti
+petih	mte:Mlc-pg	pet
+odstotkov	mte:Ncmpg	odstotek
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+minimalni	mte:Agpmsny	minimalen
+prag	mte:Ncmsn	prag
+za	mte:Sa	za
+razširitev	mte:Ncfsa	razširitev
+dnevnega	mte:Agpmsg	dneven
+reda	mte:Ncmsg	red
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+Aerodrom	mte:Npmsn	Aeroder
+Ljubljana	mte:Npfsn	Ljubljana
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+kljub	mte:Sd	kljub
+manjšemu	mte:Agcnsd	majhen
+številu	mte:Ncnsd	število
+potnikov	mte:Ncmpg	potnik
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+upadlo	mte:Vmep-sn	upasti
+za	mte:Sa	za
+1,4	mte:Mdc	1,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+in	mte:Cc	in
+kljub	mte:Sd	kljub
+7,8	mte:Mdc	7,8
+-	mte:Z	-
+odstotnemu	mte:Agpmsd	odstoten
+upadu	mte:Ncmsd	upad
+števila	mte:Ncnsg	število
+premikov	mte:Ncmpg	premik
+letal	mte:Ncnpg	letalo
+povečal	mte:Vmep-sm	povečati
+tako	mte:Rgp	tako
+prihodke	mte:Ncmpa	prihodek
+kot	mte:Cs	kot
+čisti	mte:Agpmsay	čist
+dobiček	mte:Ncmsan	dobiček
+.	mte:Z	.
+Slednji	mte:Agpmsny	slednji
+je	mte:Va-r3s-n	biti
+znašal	mte:Vmpp-sm	znašati
+5,25	mte:Mdc	5,25
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+brez	mte:Sg	brez
+slabitve	mte:Ncfsg	slabitev
+naložbe	mte:Ncfsg	naložba
+v	mte:Sa	v
+Adrio	mte:Npfsa	Adria
+Airways	mte:Npfsn	Airways
+Tehniko	mte:Ncfsa	tehnika
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+še	mte:Q	še
+za	mte:Sa	za
+2,2	mte:Mdc	2,2
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+višji	mte:Agcmpn	visok
+.	mte:Z	.
+Prihodki	mte:Ncmpn	prihodek
+Aerodroma	mte:Npmsg	Aerodrom
+so	mte:Va-r3p-n	biti
+lani	mte:Rgp	lani
+ostali	mte:Vmep-pm	ostati
+praktično	mte:Rgp	praktično
+nespremenjeni	mte:Agpmpn	nespremenjen
+pri	mte:Sl	pri
+34	mte:Mdc	34
+milijonih	mte:Ncmpl	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+letošnjem	mte:Agpnsl	letošnji
+letu	mte:Ncnsl	leto
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+družba	mte:Ncfsn	družba
+delničarjem	mte:Ncmpd	delničar
+po	mte:Sl	po
+včerajšnjem	mte:Agpmsl	včerajšnji
+sklepu	mte:Ncmsl	sklep
+skupščine	mte:Ncfsg	skupščina
+razdeliti	mte:Vmen	razdeliti
+2,6	mte:Mdc	2,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+dividend	mte:Ncfpg	dividend
+ali	mte:Cc	ali
+0,64	mte:Mdc	0,64
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+.	mte:Z	.
+Nasprotni	mte:Agpmsay	nasproten
+predlog	mte:Ncmsan	predlog
+je	mte:Va-r3s-n	biti
+podala	mte:Vmbp-sf	podati
+AUKN	mte:Npfsn	AUKN
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+družbe	mte:Ncfsg	družba
+predlagala	mte:Vmbp-sf	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+za	mte:Sa	za
+dividende	mte:Ncfpa	dividenda
+nameni	mte:Vmer3s	nameniti
+0,43	mte:Mdc	0,43
+evra	mte:Ncmsg	evro
+po	mte:Sl	po
+delnici	mte:Ncfsl	delnica

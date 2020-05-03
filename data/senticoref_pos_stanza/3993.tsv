@@ -1,492 +1,527 @@
-token	tag
-Ker	Cs
-podjetnik	Ncmsn
-Jožef	Npmsn
-Pipenbaher	Npmsn
-ni	Va-r3s-y
-zmogel	Vmep-sm
-servisirati	Vmbn
-svojih	Px-fpg
-obveznosti	Ncfpg
-do	Sg
-Skupine	Ncfsg
-Hypo	Npfsn
-,	Z
-so	Va-r3p-n
-ga	Pp3msa--y
-v	Sl
-banki	Ncfsl
-razlastninili	Vmep-pm
-.	Z
-Čeprav	Cs
-so	Va-r3p-n
-njegove	Ps3fpnsm
-obveznosti	Ncfpn
-znašale	Vmpp-pf
-več	Rgc
-,	Z
-kot	Cs
-so	Va-r3p-n
-vredni	Agpmpn
-hoteli	Vmpp-pm
-,	Z
-Pipenbaher	Npmsn
-do	Sg
-Hypa	Npmsg
-nima	Vmpr3s-y
-več	Rgc
-dolgov	Ncmpg
-.	Z
-Zaradi	Sg
-nakopičenih	Appmpg
-milijonskih	Agpmpg
-dolgov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-podjetnik	Ncmsn
-Jožef	Npmsn
-Pipenbaher	Npmsn
-ni	Va-r3s-y
-bil	Va-p-sm
-sposoben	Agpmsnn
-odplačevati	Vmpn
-,	Z
-ga	Pp3msa--y
-je	Va-r3s-n
-Skupina	Ncfsn
-Hypo	Npfsn
-razlastninila	Vmep-sf
-hotelov	Ncmpg
-v	Sl
-Rogaški	Agpfsl
-Slatini	Npfsl
-.	Z
-Njihovo	Ps3nsap
-upravljanje	Ncnsa
-bo	Va-f3s-n
-do	Sg
-prodaje	Ncfsg
-prevzela	Vmep-sf
-v	Sl
-hotelirskem	Agpmsl
-poslu	Ncmsl
-ugledna	Agpfsn
-angleška	Agpfsn
-družba	Ncfsn
-Hamilton	Npmsn
-Hotel	Vmpp-sm
-Partners	Npmsn
-.	Z
-Rogaški	Npmsn
-hoteli	Vmpp-pm
-bodo	Va-f3p-n
-po	Sl
-novem	Agpnsl
-v	Sl
-lasti	Ncfsl
-Hypo	Npmsn
-Leasinga	Npmsg
-,	Z
-medtem	Rgp
-ko	Cs
-bo	Va-f3s-n
-Hamilton	Npmsn
-njihov	Ps3msnp
-najemnik	Ncmsn
-.	Z
-Načrtujejo	Vmpr3p
-dvig	Ncmsan
-kakovosti	Ncfsg
-hotelov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-nameravajo	Vmpr3p
-posebno	Agpfsa
-pozornost	Ncfsa
-nameniti	Vmen
-kadrovski	Agpfsd
-politiki	Ncfsd
-.	Z
-Hamilton	Npmsn
-med	Si
-drugim	Mlpmsi
-upravlja	Vmpr3s
-tudi	Q
-hotele	Vmpp-pf
-Sheraton	Npmsan
-in	Cc
-Holiday	Npmsan
-Inn	Vmpp-sm
-.	Z
-Ko	Cs
-se	Px------y
-bo	Va-f3s-n
-izboljšalo	Vmep-sn
-poslovanje	Ncnsn
-rogaških	Agpmpg
-hotelov	Ncmpg
-,	Z
-jih	Pp3mpa--y
-nameravajo	Vmpr3p
-v	Sl
-Hypo	Npmsl
-Leasingu	Npmsl
-prodati	Vmen
-.	Z
-Za	Sa
-nakup	Ncmsan
-hotelov	Ncmpg
-so	Va-r3p-n
-se	Px------y
-pred	Si
-časom	Ncmsi
-že	Q
-zanimali	Vmpp-pm
-Rusi	Npmpn
-,	Z
-vendar	Cc
-zaradi	Sg
-prenizke	Agpfsg
-cene	Ncfsg
-ni	Va-r3s-y
-prišlo	Vmep-sn
-do	Sg
-realizacije	Ncfsg
-posla	Ncmsg
-.	Z
-Tudi	Q
-sicer	Q
-so	Va-r3p-n
-Rusi	Npmpn
-najpomembnejši	Agsmpn
-gostje	Ncmpn
-v	Sl
-rogaških	Agpnpl
-hotelih	Ncnpl
-.	Z
-Kljub	Sd
-temu	Pd-nsd
-si	Px---d--y
-bodo	Va-f3p-n
-v	Sl
-Hamiltonu	Npmsl
-v	Sa
-Rogaško	Agpfsa
-Slatino	Npfsa
-prizadevali	Vmpp-pm
-privabiti	Vmen
-goste	Ncmpa
-tudi	Q
-od	Sg
-drugod	Rgp
-.	Z
-Prevelika	Agpfsn
-odvisnost	Ncfsn
-od	Sg
-enega	Mlpmsg
-trga	Ncmsg
-je	Va-r3s-n
-namreč	Cc
-preveč	Rgp
-tvegana	Appfsn
-.	Z
-Rogaški	Npfsn
-hoteli	Vmpp-pm
-Grand	Npmsn
-hotel	Vmpp-sm
-Rogaška	Npfsn
-,	Z
-Hotel	Vmpp-sm
-Slovenija	Npfsn
-,	Z
-Hotel	Vmpp-sm
-Styria	Npmsn
-in	Cc
-Hotel	Vmpp-sm
-Strossmayer	Npmsan
-so	Va-r3p-n
-v	Sl
-lasti	Ncfsl
-družbe	Ncfsg
-Terme	Ncfpn
-SPA	Npmsn
-Rogaška	Npfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-Pipenbaher	Npmsn
-obvladoval	Vmpp-sm
-po	Sl
-podjetju	Ncnsl
-Turizem	Ncmsn
-naložbe	Ncfsg
-.	Z
-Po	Sl
-zadnjih	Agpmpl
-javno	Rgp
-dostopnih	Agpmpl
-podatkih	Ncmpl
-so	Va-r3p-n
-Terme	Ncfpn
-SPA	Npmsn
-Rogaška	Npfsn
-v	Sl
-letu	Ncnsl
-2011	Mdc
-dosegle	Vmep-pf
-4,6	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-prihodkov	Ncmpg
-od	Sg
-prodaje	Ncfsg
-in	Cc
-dobrih	Agpmpg
-270.000	Mdc
-evrov	Ncmpg
-izgube	Ncfsg
-.	Z
-Skupina	Ncfsn
-Vates	Npmsn
-,	Z
-ki	Cs
-združuje	Vmpr3s
-vse	Pg-fpa
-Pipenbaherjeve	Aspfpa
-naložbe	Ncfpa
-,	Z
-je	Va-r3s-n
-predlani	Rgp
-dosegla	Vmep-sf
-7,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-prihodkov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-izguba	Ncfsn
-znašala	Vmpp-sf
-2,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-Celotne	Agpfsg
-finančne	Agpfsg
-obveznosti	Ncfsg
-Skupine	Ncfsg
-Vates	Npmsn
-so	Va-r3p-n
-bile	Va-p-pf
-konec	Sg
-decembra	Ncmsg
-2011	Mdc
-skoraj	Q
-37	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Poleg	Sg
-rogaških	Agpmpg
-hotelov	Ncmpg
-je	Va-r3s-n
-imel	Vmpp-sm
-Pipenbaher	Npmsn
-v	Sl
-lasti	Ncfsl
-še	Q
-bovški	Agpmsay
-Alp	Npmsa
-hotel	Ncmsan
-in	Cc
-murskosoboški	Agpmsay
-Hotel	Ncmsan
-Diana	Npfsn
-.	Z
-Slednjega	Agpmsg
-bo	Va-f3s-n
-po	Sl
-novem	Agpnsl
-upravljala	Vmpp-sf
-dosedanja	Agpfsn
-direktorica	Ncfsn
-Olga	Npfsn
-Belec	Npfsn
-in	Cc
-njen	Ps3msnsf
-sin	Ncmsn
-Patrick	Npmsn
-Belec	Npmsn
-.	Z
-Belčeva	Npfsn
-je	Va-r3s-n
-pojasnila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-od	Sg
-Turizma	Ncmsg
-naložbe	Ncfsg
-odkupila	Vmep-sf
-lastniški	Agpmsay
-delež	Ncmsan
-v	Sl
-podjetju	Ncnsl
-Hotel	Vmpp-sm
-Diana	Npfsn
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-lastnik	Ncmsn
-hotela	Ncmsg
-postal	Vmep-sm
-Hypo	Npmsn
-.	Z
-Koliko	Rgp
-bo	Va-f3s-n
-znašala	Vmpp-sf
-mesečna	Agpfsn
-najemnina	Ncfsn
-za	Sa
-hotel	Ncmsan
-,	Z
-Belčeva	Npfsn
-ni	Va-r3s-y
-želela	Vmpp-sf
-razkriti	Vmen
-,	Z
-po	Sl
-neuradnih	Agpmpl
-podatkih	Ncmpl
-pa	Cc
-ne	Q
-bo	Va-f3s-n
-visoka	Agpfsn
-.	Z
-Pri	Sl
-prodaji	Ncfsl
-hotela	Ncmsg
-bo	Va-f3s-n
-imela	Vmpp-sf
-Belčeva	Aspfsa
-predkupno	Agpfsa
-pravico	Ncfsa
-.	Z
-Hotel	Vmpp-sm
-Diana	Npmsn
-je	Va-r3s-n
-lani	Rgp
-dosegel	Vmep-sm
-slaba	Agpmda
-dva	Mlcmda
-milijona	Ncmda
-evrov	Ncmpg
-prihodkov	Ncmpg
-oziroma	Cc
-malenkost	Ncfsa
-manj	Rgc
-kot	Cs
-predlani	Rgp
-.	Z
-Medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-leta	Ncnsg
-2011	Mdc
-družba	Ncfsn
-ustvarila	Vmep-sf
-dobrih	Agpmpg
-štiri	Mlcmpa
-tisoč	Mlc-pa
-evrov	Ncmpg
-čistega	Agpmsg
-dobička	Ncmsg
-,	Z
-je	Va-r3s-n
-lani	Rgp
-poslovala	Vmpp-sf
-z	Si
-rahlo	Agpfsi
-izgubo	Ncfsi
-.	Z
-Kdo	Pq-msn
-bo	Va-f3s-n
-prevzel	Vmep-sm
-upravljanje	Ncnsa
-hotela	Ncmsg
-Alp	Npfsg
-,	Z
-še	Q
-ni	Va-r3s-y
-dokončno	Rgp
-znano	Appnsn
-.	Z
-Po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-se	Px------y
-v	Sl
-Hypu	Npmsl
-za	Sa
-zdaj	Rgp
-pogajajo	Vmpr3p
-še	Q
-z	Si
-nekaj	Rgp
-možnimi	Agpmpi
-najemniki	Ncmpi
-.	Z
-Če	Cs
-ne	Q
-bi	Va-c
-prišlo	Vmep-sn
-do	Sg
-dogovora	Ncmsg
-med	Si
-Pipenbaherjem	Npmsi
-in	Cc
-Skupino	Ncfsi
-Hypo	Npfsg
-,	Z
-bi	Va-c
-rogaški	Agpmpn
-hoteli	Vmpp-pm
-,	Z
-bovški	Agpmsay
-in	Cc
-murskosoboški	Agpmsay
-hotel	Ncmsan
-pristali	Vmep-pm
-v	Sl
-stečajni	Agpfsl
-masi	Ncfsl
-Pipenbaherjevih	Aspnpg
-podjetij	Ncnpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-bi	Va-c
-bilo	Va-p-sn
-ogroženih	Appmpg
-okoli	Rgp
-200	Mdc
-delovnih	Agpnpg
-mest	Ncnpg
-.	Z
-Jožef	Npmsn
-Pipenbaher	Npmsn
-včeraj	Rgp
-(	Z
-še	Q
-)	Z
-ni	Va-r3s-y
-želel	Vmpp-sm
-komentirati	Vmbn
-sklenjenega	Appmsg
-dogovora	Ncmsg
-.	Z
+token	tag	lemma
+Ker	mte:Cs	ker
+podjetnik	mte:Ncmsn	podjetnik
+Jožef	mte:Npmsn	Jožef
+Pipenbaher	mte:Npmsn	Pipenbaher
+ni	mte:Va-r3s-y	biti
+zmogel	mte:Vmep-sm	zmoči
+servisirati	mte:Vmbn	servisirati
+svojih	mte:Px-fpg	svoj
+obveznosti	mte:Ncfpg	obveznost
+do	mte:Sg	do
+Skupine	mte:Ncfsg	skupina
+Hypo	mte:Npfsn	Hypo
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+v	mte:Sl	v
+banki	mte:Ncfsl	banka
+razlastninili	mte:Vmep-pm	razlastniniti
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+njegove	mte:Ps3fpnsm	njegov
+obveznosti	mte:Ncfpn	obveznost
+znašale	mte:Vmpp-pf	znašati
+več	mte:Rgc	več
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+vredni	mte:Agpmpn	vreden
+hoteli	mte:Vmpp-pm	hoteti
+,	mte:Z	,
+Pipenbaher	mte:Npmsn	Pipenbaher
+do	mte:Sg	do
+Hypa	mte:Npmsg	Hypa
+nima	mte:Vmpr3s-y	imeti
+več	mte:Rgc	več
+dolgov	mte:Ncmpg	dolg
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+nakopičenih	mte:Appmpg	nakopičen
+milijonskih	mte:Agpmpg	milijonski
+dolgov	mte:Ncmpg	dolg
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+podjetnik	mte:Ncmsn	podjetnik
+Jožef	mte:Npmsn	Jožef
+Pipenbaher	mte:Npmsn	Pipenbaher
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+sposoben	mte:Agpmsnn	sposoben
+odplačevati	mte:Vmpn	odplačevati
+,	mte:Z	,
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+Skupina	mte:Ncfsn	skupina
+Hypo	mte:Npfsn	Hypo
+razlastninila	mte:Vmep-sf	razlastniniti
+hotelov	mte:Ncmpg	hotel
+v	mte:Sl	v
+Rogaški	mte:Agpfsl	rogaški
+Slatini	mte:Npfsl	Slatina
+.	mte:Z	.
+Njihovo	mte:Ps3nsap	njihov
+upravljanje	mte:Ncnsa	upravljanje
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+prodaje	mte:Ncfsg	prodaja
+prevzela	mte:Vmep-sf	prevzeti
+v	mte:Sl	v
+hotelirskem	mte:Agpmsl	hotelirski
+poslu	mte:Ncmsl	posel
+ugledna	mte:Agpfsn	ugleden
+angleška	mte:Agpfsn	angleški
+družba	mte:Ncfsn	družba
+Hamilton	mte:Npmsn	Hamilton
+Hotel	mte:Vmpp-sm	hoteti
+Partners	mte:Npmsn	Partners
+.	mte:Z	.
+Rogaški	mte:Npmsn	Rogaška
+hoteli	mte:Vmpp-pm	hoteti
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Hypo	mte:Npmsn	Hypo
+Leasinga	mte:Npmsg	Leasing
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+Hamilton	mte:Npmsn	Hamilton
+njihov	mte:Ps3msnp	njihov
+najemnik	mte:Ncmsn	najemnik
+.	mte:Z	.
+Načrtujejo	mte:Vmpr3p	načrtovati
+dvig	mte:Ncmsan	dviga
+kakovosti	mte:Ncfsg	kakovost
+hotelov	mte:Ncmpg	hotel
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+nameravajo	mte:Vmpr3p	nameravati
+posebno	mte:Agpfsa	poseben
+pozornost	mte:Ncfsa	pozornost
+nameniti	mte:Vmen	nameniti
+kadrovski	mte:Agpfsd	kadrovski
+politiki	mte:Ncfsd	politika
+.	mte:Z	.
+Hamilton	mte:Npmsn	Hamilton
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+upravlja	mte:Vmpr3s	upravljati
+tudi	mte:Q	tudi
+hotele	mte:Vmpp-pf	hoteti
+Sheraton	mte:Npmsan	Sheraton
+in	mte:Cc	in
+Holiday	mte:Npmsan	Holiday
+Inn	mte:Vmpp-sm	inn
+.	mte:Z	.
+Ko	mte:Cs	ko
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+izboljšalo	mte:Vmep-sn	izboljšati
+poslovanje	mte:Ncnsn	poslovanje
+rogaških	mte:Agpmpg	rogaški
+hotelov	mte:Ncmpg	hotel
+,	mte:Z	,
+jih	mte:Pp3mpa--y	on
+nameravajo	mte:Vmpr3p	nameravati
+v	mte:Sl	v
+Hypo	mte:Npmsl	Hypo
+Leasingu	mte:Npmsl	Leasing
+prodati	mte:Vmen	prodati
+.	mte:Z	.
+Za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+hotelov	mte:Ncmpg	hotel
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pred	mte:Si	pred
+časom	mte:Ncmsi	čas
+že	mte:Q	že
+zanimali	mte:Vmpp-pm	zanimati
+Rusi	mte:Npmpn	Rus
+,	mte:Z	,
+vendar	mte:Cc	vendar
+zaradi	mte:Sg	zaradi
+prenizke	mte:Agpfsg	prenizek
+cene	mte:Ncfsg	cena
+ni	mte:Va-r3s-y	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+realizacije	mte:Ncfsg	realizacija
+posla	mte:Ncmsg	posel
+.	mte:Z	.
+Tudi	mte:Q	tudi
+sicer	mte:Q	sicer
+so	mte:Va-r3p-n	biti
+Rusi	mte:Npmpn	Rus
+najpomembnejši	mte:Agsmpn	pomemben
+gostje	mte:Ncmpn	gost
+v	mte:Sl	v
+rogaških	mte:Agpnpl	rogaški
+hotelih	mte:Ncnpl	hotel
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+si	mte:Px---d--y	se
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+Hamiltonu	mte:Npmsl	Hamilton
+v	mte:Sa	v
+Rogaško	mte:Agpfsa	rogaški
+Slatino	mte:Npfsa	Slatina
+prizadevali	mte:Vmpp-pm	prizadevati
+privabiti	mte:Vmen	privabiti
+goste	mte:Ncmpa	gost
+tudi	mte:Q	tudi
+od	mte:Sg	od
+drugod	mte:Rgp	drugod
+.	mte:Z	.
+Prevelika	mte:Agpfsn	prevelik
+odvisnost	mte:Ncfsn	odvisnost
+od	mte:Sg	od
+enega	mte:Mlpmsg	en
+trga	mte:Ncmsg	trg
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+preveč	mte:Rgp	preveč
+tvegana	mte:Appfsn	tvegan
+.	mte:Z	.
+Rogaški	mte:Npfsn	Rogaška
+hoteli	mte:Vmpp-pm	hoteti
+Grand	mte:Npmsn	Grand
+hotel	mte:Vmpp-sm	hoteti
+Rogaška	mte:Npfsn	Rogaška
+,	mte:Z	,
+Hotel	mte:Vmpp-sm	hoteti
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+Hotel	mte:Vmpp-sm	hoteti
+Styria	mte:Npmsn	Styria
+in	mte:Cc	in
+Hotel	mte:Vmpp-sm	hoteti
+Strossmayer	mte:Npmsan	Strossmayer
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+družbe	mte:Ncfsg	družba
+Terme	mte:Ncfpn	terme
+SPA	mte:Npmsn	SPA
+Rogaška	mte:Npfsn	Rogaška
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+Pipenbaher	mte:Npmsn	Pipenbaher
+obvladoval	mte:Vmpp-sm	obvladovati
+po	mte:Sl	po
+podjetju	mte:Ncnsl	podjetje
+Turizem	mte:Ncmsn	turizem
+naložbe	mte:Ncfsg	naložba
+.	mte:Z	.
+Po	mte:Sl	po
+zadnjih	mte:Agpmpl	zadnji
+javno	mte:Rgp	javno
+dostopnih	mte:Agpmpl	dostopen
+podatkih	mte:Ncmpl	podatek
+so	mte:Va-r3p-n	biti
+Terme	mte:Ncfpn	terme
+SPA	mte:Npmsn	SPA
+Rogaška	mte:Npfsn	Rogaška
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2011	mte:Mdc	2011
+dosegle	mte:Vmep-pf	doseči
+4,6	mte:Mdc	4,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+in	mte:Cc	in
+dobrih	mte:Agpmpg	dober
+270.000	mte:Mdc	270.000
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+.	mte:Z	.
+Skupina	mte:Ncfsn	skupina
+Vates	mte:Npmsn	Vates
+,	mte:Z	,
+ki	mte:Cs	ki
+združuje	mte:Vmpr3s	združevati
+vse	mte:Pg-fpa	ves
+Pipenbaherjeve	mte:Aspfpa	pipenbaherjev
+naložbe	mte:Ncfpa	naložba
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+predlani	mte:Rgp	predlani
+dosegla	mte:Vmep-sf	doseči
+7,4	mte:Mdc	7,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+izguba	mte:Ncfsn	izguba
+znašala	mte:Vmpp-sf	znašati
+2,4	mte:Mdc	2,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Celotne	mte:Agpfsg	celoten
+finančne	mte:Agpfsg	finančen
+obveznosti	mte:Ncfsg	obveznost
+Skupine	mte:Ncfsg	skupina
+Vates	mte:Npmsn	Vates
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+konec	mte:Sg	konec
+decembra	mte:Ncmsg	december
+2011	mte:Mdc	2011
+skoraj	mte:Q	skoraj
+37	mte:Mdc	37
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+rogaških	mte:Agpmpg	rogaški
+hotelov	mte:Ncmpg	hotel
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+Pipenbaher	mte:Npmsn	Pipenbaher
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+še	mte:Q	še
+bovški	mte:Agpmsay	bovški
+Alp	mte:Npmsa	Alpe
+hotel	mte:Ncmsan	hotel
+in	mte:Cc	in
+murskosoboški	mte:Agpmsay	murskosoboški
+Hotel	mte:Ncmsan	hoteti
+Diana	mte:Npfsn	Diana
+.	mte:Z	.
+Slednjega	mte:Agpmsg	slednji
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+upravljala	mte:Vmpp-sf	upravljati
+dosedanja	mte:Agpfsn	dosedanji
+direktorica	mte:Ncfsn	direktorica
+Olga	mte:Npfsn	Olga
+Belec	mte:Npfsn	Belec
+in	mte:Cc	in
+njen	mte:Ps3msnsf	njen
+sin	mte:Ncmsn	sin
+Patrick	mte:Npmsn	Patrick
+Belec	mte:Npmsn	Belec
+.	mte:Z	.
+Belčeva	mte:Npfsn	Belč
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+Turizma	mte:Ncmsg	turizem
+naložbe	mte:Ncfsg	naložba
+odkupila	mte:Vmep-sf	odkupiti
+lastniški	mte:Agpmsay	lastniški
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+Hotel	mte:Vmpp-sm	hoteti
+Diana	mte:Npfsn	Diana
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+lastnik	mte:Ncmsn	lastnik
+hotela	mte:Ncmsg	hotel
+postal	mte:Vmep-sm	postati
+Hypo	mte:Npmsn	Hypo
+.	mte:Z	.
+Koliko	mte:Rgp	koliko
+bo	mte:Va-f3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+mesečna	mte:Agpfsn	mesečen
+najemnina	mte:Ncfsn	najemnina
+za	mte:Sa	za
+hotel	mte:Ncmsan	hotel
+,	mte:Z	,
+Belčeva	mte:Npfsn	Belč
+ni	mte:Va-r3s-y	biti
+želela	mte:Vmpp-sf	želeti
+razkriti	mte:Vmen	razkriti
+,	mte:Z	,
+po	mte:Sl	po
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+pa	mte:Cc	pa
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+visoka	mte:Agpfsn	visok
+.	mte:Z	.
+Pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+hotela	mte:Ncmsg	hotel
+bo	mte:Va-f3s-n	biti
+imela	mte:Vmpp-sf	imeti
+Belčeva	mte:Aspfsa	belčev
+predkupno	mte:Agpfsa	predkupen
+pravico	mte:Ncfsa	pravica
+.	mte:Z	.
+Hotel	mte:Vmpp-sm	hoteti
+Diana	mte:Npmsn	Diana
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+dosegel	mte:Vmep-sm	doseči
+slaba	mte:Agpmda	slab
+dva	mte:Mlcmda	dva
+milijona	mte:Ncmda	milijon
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+oziroma	mte:Cc	oziroma
+malenkost	mte:Ncfsa	malenkost
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+predlani	mte:Rgp	predlani
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+družba	mte:Ncfsn	družba
+ustvarila	mte:Vmep-sf	ustvariti
+dobrih	mte:Agpmpg	dober
+štiri	mte:Mlcmpa	štirje
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+čistega	mte:Agpmsg	čist
+dobička	mte:Ncmsg	dobiček
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+poslovala	mte:Vmpp-sf	poslovati
+z	mte:Si	z
+rahlo	mte:Agpfsi	rahlo
+izgubo	mte:Ncfsi	izguba
+.	mte:Z	.
+Kdo	mte:Pq-msn	kdo
+bo	mte:Va-f3s-n	biti
+prevzel	mte:Vmep-sm	prevzeti
+upravljanje	mte:Ncnsa	upravljanje
+hotela	mte:Ncmsg	hotel
+Alp	mte:Npfsg	Alpe
+,	mte:Z	,
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+dokončno	mte:Rgp	dokončno
+znano	mte:Appnsn	znan
+.	mte:Z	.
+Po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+se	mte:Px------y	se
+v	mte:Sl	v
+Hypu	mte:Npmsl	Hype
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+pogajajo	mte:Vmpr3p	pogajati
+še	mte:Q	še
+z	mte:Si	z
+nekaj	mte:Rgp	nekaj
+možnimi	mte:Agpmpi	možen
+najemniki	mte:Ncmpi	najemnik
+.	mte:Z	.
+Če	mte:Cs	če
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+dogovora	mte:Ncmsg	dogovor
+med	mte:Si	med
+Pipenbaherjem	mte:Npmsi	Pipenbaher
+in	mte:Cc	in
+Skupino	mte:Ncfsi	skupina
+Hypo	mte:Npfsg	Hypo
+,	mte:Z	,
+bi	mte:Va-c	biti
+rogaški	mte:Agpmpn	rogaški
+hoteli	mte:Vmpp-pm	hoteti
+,	mte:Z	,
+bovški	mte:Agpmsay	bovški
+in	mte:Cc	in
+murskosoboški	mte:Agpmsay	murskosoboški
+hotel	mte:Ncmsan	hotel
+pristali	mte:Vmep-pm	pristati
+v	mte:Sl	v
+stečajni	mte:Agpfsl	stečajen
+masi	mte:Ncfsl	mas
+Pipenbaherjevih	mte:Aspnpg	Pipenbaherjev
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+ogroženih	mte:Appmpg	ogrožen
+okoli	mte:Rgp	okoli
+200	mte:Mdc	200
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+.	mte:Z	.
+Jožef	mte:Npmsn	Jožef
+Pipenbaher	mte:Npmsn	Pipenbaher
+včeraj	mte:Rgp	včeraj
+(	mte:Z	(
+še	mte:Q	še
+)	mte:Z	)
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+komentirati	mte:Vmbn	komentirati
+sklenjenega	mte:Appmsg	sklenjen
+dogovora	mte:Ncmsg	dogovor
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+njegove	mte:Ps3fpnsm	njegov
+obveznosti	mte:Ncfpn	obveznost
+do	mte:Sg	do
+Hypa	mte:Npmsg	Hypa
+znašale	mte:Vmpp-pf	znašati
+bistveno	mte:Rgp	bistveno
+več	mte:Rgc	več
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+možno	mte:Agpnsn	možen
+iztržiti	mte:Vmen	iztržiti
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+hotelov	mte:Ncmpg	hotel
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+del	mte:Ncmsn	del
+dogovora	mte:Ncmsg	dogovor
+tudi	mte:Q	tudi
+ta	mte:Pd-msn	ta
+,	mte:Z	,
+da	mte:Cs	da
+z	mte:Si	z
+umikom	mte:Ncmsi	umik
+iz	mte:Sg	iz
+lastništva	mte:Ncnsg	lastništvo
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+dolžnik	mte:Ncmsn	dolžnik
+Hypa	mte:Z	hypa

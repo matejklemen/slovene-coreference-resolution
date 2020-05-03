@@ -1,242 +1,297 @@
-token	tag
-Peter	Npmsn
-Stelzer	Npmsn
-je	Va-r3s-n
-že	Q
-oddal	Vmep-sm
-vzorec	Ncmsan
-za	Sa
-analizo	Ncfsa
-DNK	Ncfpg
-.	Z
-Franc	Npmsn
-Rode	Npmsn
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-opravil	Vmep-sm
-konec	Sg
-tedna	Ncmsg
-.	Z
-Oba	Pg-mdn
-pa	Cc
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-oddala	Vmep-dm
-v	Sl
-Münchnu	Npmsl
-.	Z
-Po	Sl
-poročanju	Ncnsl
-Dela	Ncnsg
-je	Va-r3s-n
-domnevni	Agpmsny
-sin	Ncmsn
-Franceta	Npmsg
-Rodeta	Npmsg
-Peter	Npmsn
-Stelzer	Npmsn
-že	Q
-oddal	Vmep-sm
-DNK	Ncmsan
-test	Ncmsan
-.	Z
-Še	Q
-ta	Pd-msa
-teden	Ncmsan
-pa	Cc
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-oddal	Vmep-sm
-tudi	Q
-kardinal	Ncmsn
-Franc	Npmsn
-Rode	Npmsn
-.	Z
-Oba	Pg-mdn
-bosta	Va-f3d-n
-test	Ncmsan
-opravila	Vmep-dm
-na	Sl
-Inštitutu	Ncmsl
-za	Sa
-sodno	Agpfsa
-medicino	Ncfsa
-v	Sl
-Münchnu	Npmsl
-.	Z
-Ni	Va-r3s-y
-pa	Cc
-še	Q
-znano	Appnsn
-,	Z
-kdaj	Rgp
-bodo	Va-f3p-n
-znani	Appmpn
-rezultati	Ncmpn
-.	Z
-Omenjene	Appfsg
-navedbe	Ncfsg
-je	Va-r3s-n
-potrdila	Vmep-sf
-tudi	Q
-odvetnica	Ncfsn
-Nina	Npfsn
-Zidar	Npfsn
-Klemenčič	Npfsn
-in	Cc
-dodala	Vmep-sf
-,	Z
-da	Cs
-bi	Va-c
-to	Pd-nsa
-lahko	Rgp
-naredili	Vmep-pm
-že	Q
-veliko	Rgp
-prej	Rgc
-,	Z
-a	Cc
-sta	Va-r3d-n
-bila	Va-p-dm
-oba	Pg-mdn
-zelo	Rgp
-neodzivna	Agpmdn
-.	Z
-Naj	Cs
-vas	Pp2-pa
-spomnimo	Vmer1p
-Konec	Sg
-avgusta	Ncmsg
-je	Va-r3s-n
-Delo	Ncnsn
-poročalo	Vmpp-sn
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-imel	Vmpp-sm
-Rode	Npmsn
-leta	Ncnsg
-1969	Mdc
-intimno	Agpnsa
-razmerje	Ncnsa
-s	Si
-Tanjo	Npfsi
-Bredo	Npfsi
-S	Si
-.	Z
-,	Z
-ki	Cs
-je	Va-r3s-n
-leto	Ncnsa
-pozneje	Rgc
-v	Sl
-Nemčiji	Npfsl
-rodila	Vmbp-sf
-otroka	Ncmsay
-.	Z
-Ta	Pd-msn
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-danes	Rgp
-v	Sl
-Dubaju	Npmsl
-živeli	Vmpp-pm
-Peter	Npmsn
-Stelzer	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-za	Sa
-časnik	Ncmsan
-,	Z
-še	Q
-isti	Pi-msa
-dan	Ncmsan
-pa	Cc
-tudi	Q
-za	Sa
-nekatere	Pi-mpa
-druge	Mlpmpa
-medije	Ncmpa
-,	Z
-izrekel	Vmep-sm
-željo	Ncfsa
-,	Z
-da	Cs
-Rode	Npmsn
-opravi	Vmer3s
-test	Ncmsan
-očetovstva	Ncnsg
-.	Z
-Kardinal	Npmsn
-je	Va-r3s-n
-še	Q
-isti	Pi-msa
-dan	Ncmsan
-odločno	Rgp
-zanikal	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-prelomil	Vmep-sm
-celibat	Ncmsan
-,	Z
-in	Cc
-izrazil	Vmep-sm
-pripravljenost	Ncfsa
-,	Z
-da	Cs
-opravi	Vmer3s
-omenjeni	Appmsay
-test	Ncmsan
-.	Z
-Predlagal	Vmbp-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-se	Px------y
-ta	Pd-msn
-opravi	Vmer3s
-na	Sl
-Inštitutu	Ncmsl
-za	Sa
-sodno	Agpfsa
-medicino	Ncfsa
-Medicinske	Agpfsg
-fakultete	Ncfsg
-Univerze	Ncfsg
-v	Sl
-Ljubljani	Npfsl
-,	Z
-ker	Cs
-pa	Cc
-se	Px------y
-Stelzer	Npmsn
-s	Si
-tem	Pd-nsi
-ni	Va-r3s-y
-strinjal	Vmpp-sm
-,	Z
-je	Va-r3s-n
-pristal	Vmep-sm
-tudi	Q
-na	Sa
-test	Ncmsan
-očetovstva	Ncnsg
-na	Sl
-eni	Mlpfsl
-izmed	Sg
-nemških	Agpfpg
-ustanov	Ncfpg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-predlagal	Vmbp-sm
-Steltzer	Npmsn
-.	Z
+token	tag	lemma
+Peter	mte:Npmsn	Peter
+Stelzer	mte:Npmsn	Stelzer
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+oddal	mte:Vmep-sm	oddati
+vzorec	mte:Ncmsan	vzorec
+za	mte:Sa	za
+analizo	mte:Ncfsa	analiza
+DNK	mte:Ncfpg	dnk
+.	mte:Z	.
+Franc	mte:Npmsn	Franc
+Rode	mte:Npmsn	Rode
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+opravil	mte:Vmep-sm	opraviti
+konec	mte:Sg	konec
+tedna	mte:Ncmsg	teden
+.	mte:Z	.
+Oba	mte:Pg-mdn	oba
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+oddala	mte:Vmep-dm	oddati
+v	mte:Sl	v
+Münchnu	mte:Npmsl	Münchn
+.	mte:Z	.
+Po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+Dela	mte:Ncnsg	delo
+je	mte:Va-r3s-n	biti
+domnevni	mte:Agpmsny	domneven
+sin	mte:Ncmsn	sin
+Franceta	mte:Npmsg	France
+Rodeta	mte:Npmsg	Rode
+Peter	mte:Npmsn	Peter
+Stelzer	mte:Npmsn	Stelzer
+že	mte:Q	že
+oddal	mte:Vmep-sm	oddati
+DNK	mte:Ncmsan	dnk
+test	mte:Ncmsan	test
+.	mte:Z	.
+Še	mte:Q	še
+ta	mte:Pd-msa	ta
+teden	mte:Ncmsan	teden
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+oddal	mte:Vmep-sm	oddati
+tudi	mte:Q	tudi
+kardinal	mte:Ncmsn	kardinal
+Franc	mte:Npmsn	Franc
+Rode	mte:Npmsn	Rode
+.	mte:Z	.
+Oba	mte:Pg-mdn	oba
+bosta	mte:Va-f3d-n	biti
+test	mte:Ncmsan	test
+opravila	mte:Vmep-dm	opravilo
+na	mte:Sl	na
+Inštitutu	mte:Ncmsl	inštitut
+za	mte:Sa	za
+sodno	mte:Agpfsa	soden
+medicino	mte:Ncfsa	medicina
+v	mte:Sl	v
+Münchnu	mte:Npmsl	Münchn
+.	mte:Z	.
+Ni	mte:Va-r3s-y	biti
+pa	mte:Cc	pa
+še	mte:Q	še
+znano	mte:Appnsn	znan
+,	mte:Z	,
+kdaj	mte:Rgp	kdaj
+bodo	mte:Va-f3p-n	biti
+znani	mte:Appmpn	znan
+rezultati	mte:Ncmpn	rezultat
+.	mte:Z	.
+Omenjene	mte:Appfsg	omenjen
+navedbe	mte:Ncfsg	navedba
+je	mte:Va-r3s-n	biti
+potrdila	mte:Vmep-sf	potrditi
+tudi	mte:Q	tudi
+odvetnica	mte:Ncfsn	odvetnica
+Nina	mte:Npfsn	Nina
+Zidar	mte:Npfsn	Zidar
+Klemenčič	mte:Npfsn	Klemenčič
+in	mte:Cc	in
+dodala	mte:Vmep-sf	dodati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+to	mte:Pd-nsa	ta
+lahko	mte:Rgp	lahko
+naredili	mte:Vmep-pm	narediti
+že	mte:Q	že
+veliko	mte:Rgp	veliko
+prej	mte:Rgc	prej
+,	mte:Z	,
+a	mte:Cc	a
+sta	mte:Va-r3d-n	biti
+bila	mte:Va-p-dm	biti
+oba	mte:Pg-mdn	oba
+zelo	mte:Rgp	zelo
+neodzivna	mte:Agpmdn	neodziven
+.	mte:Z	.
+Naj	mte:Cs	naj
+vas	mte:Pp2-pa	ti
+spomnimo	mte:Vmer1p	spomniti
+Konec	mte:Sg	konec
+avgusta	mte:Ncmsg	avgust
+je	mte:Va-r3s-n	biti
+Delo	mte:Ncnsn	delo
+poročalo	mte:Vmpp-sn	poročati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+Rode	mte:Npmsn	Rode
+leta	mte:Ncnsg	leto
+1969	mte:Mdc	1969
+intimno	mte:Agpnsa	intimen
+razmerje	mte:Ncnsa	razmerje
+s	mte:Si	z
+Tanjo	mte:Npfsi	Tanjo
+Bredo	mte:Npfsi	Bredo
+S	mte:Si	z
+.	mte:Z	.
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+leto	mte:Ncnsa	leto
+pozneje	mte:Rgc	pozno
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+rodila	mte:Vmbp-sf	roditi
+otroka	mte:Ncmsay	otrok
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+danes	mte:Rgp	danes
+v	mte:Sl	v
+Dubaju	mte:Npmsl	Dubaj
+živeli	mte:Vmpp-pm	živeti
+Peter	mte:Npmsn	Peter
+Stelzer	mte:Npmsn	Stelzer
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+časnik	mte:Ncmsan	časnik
+,	mte:Z	,
+še	mte:Q	še
+isti	mte:Pi-msa	isti
+dan	mte:Ncmsan	dan
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+za	mte:Sa	za
+nekatere	mte:Pi-mpa	nekateri
+druge	mte:Mlpmpa	drug
+medije	mte:Ncmpa	medij
+,	mte:Z	,
+izrekel	mte:Vmep-sm	izreči
+željo	mte:Ncfsa	želja
+,	mte:Z	,
+da	mte:Cs	da
+Rode	mte:Npmsn	Rode
+opravi	mte:Vmer3s	opraviti
+test	mte:Ncmsan	test
+očetovstva	mte:Ncnsg	očetovstvo
+.	mte:Z	.
+Kardinal	mte:Npmsn	Kardinal
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+isti	mte:Pi-msa	isti
+dan	mte:Ncmsan	dan
+odločno	mte:Rgp	odločno
+zanikal	mte:Vmep-sm	zanikati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+prelomil	mte:Vmep-sm	prelomiti
+celibat	mte:Ncmsan	celibat
+,	mte:Z	,
+in	mte:Cc	in
+izrazil	mte:Vmep-sm	izraziti
+pripravljenost	mte:Ncfsa	pripravljenost
+,	mte:Z	,
+da	mte:Cs	da
+opravi	mte:Vmer3s	opraviti
+omenjeni	mte:Appmsay	omenjen
+test	mte:Ncmsan	test
+.	mte:Z	.
+Predlagal	mte:Vmbp-sm	predlagati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+ta	mte:Pd-msn	ta
+opravi	mte:Vmer3s	opraviti
+na	mte:Sl	na
+Inštitutu	mte:Ncmsl	inštitut
+za	mte:Sa	za
+sodno	mte:Agpfsa	soden
+medicino	mte:Ncfsa	medicina
+Medicinske	mte:Agpfsg	medicinski
+fakultete	mte:Ncfsg	fakulteta
+Univerze	mte:Ncfsg	univerza
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+ker	mte:Cs	ker
+pa	mte:Cc	pa
+se	mte:Px------y	se
+Stelzer	mte:Npmsn	Stelzer
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+ni	mte:Va-r3s-y	biti
+strinjal	mte:Vmpp-sm	strinjati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pristal	mte:Vmep-sm	pristati
+tudi	mte:Q	tudi
+na	mte:Sa	na
+test	mte:Ncmsan	test
+očetovstva	mte:Ncnsg	očetovstvo
+na	mte:Sl	na
+eni	mte:Mlpfsl	en
+izmed	mte:Sg	izmed
+nemških	mte:Agpfpg	nemški
+ustanov	mte:Ncfpg	ustan
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+predlagal	mte:Vmbp-sm	predlagati
+Steltzer	mte:Npmsn	Steltzer
+.	mte:Z	.
+Petega	mte:Mlomsg	peti
+septembra	mte:Ncmsg	september
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+v	mte:Sl	v
+pisarni	mte:Ncfsl	pisarna
+Zidar	mte:Npmsn	Zidar
+Klemenčičeve	mte:Aspfsg	Klemenčičev
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+zapisali	mte:Vmep-pm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+Stelzerjevemu	mte:Aspmsd	Stelzerjev
+nemškemu	mte:Agpmsd	nemški
+odvetniku	mte:Ncmsd	odvetnik
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Rode	mte:Npmsn	Rode
+pripravljen	mte:Appmsnn	pripravljen
+opraviti	mte:Vmen	opraviti
+test	mte:Ncmsan	test
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+obenem	mte:Rgp	obenem
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+zaprosili	mte:Vmep-pm	zaprositi
+,	mte:Z	,
+naj	mte:Cs	naj
+takoj	mte:Rgp	takoj
+posreduje	mte:Vmbr3s	posredovati
+termin	mte:Ncmsan	termin
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+bi	mte:Va-c	biti
+Rode	mte:Npmsn	Rode
+in	mte:Cc	in
+Stelzer	mte:Npmsn	Stelzer
+po	mte:Sl	po
+protokolu	mte:Ncmsl	protokol
+sodnih	mte:Agpnpg	soden
+ugotavljanj	mte:Ncnpg	ugotavljanje
+očetovstva	mte:Ncnsg	očetovstvo
+istočasno	mte:Rgp	istočasno
+oddala	mte:Vmep-sf	oddati
+vzorce	mte:Ncmpa	vzorec
+DNK	mte:Ncmsg	dnk

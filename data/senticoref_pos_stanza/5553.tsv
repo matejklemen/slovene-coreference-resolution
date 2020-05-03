@@ -1,382 +1,406 @@
-token	tag
-Devet	Mlc-pa
-članic	Ncfpg
-EU	Npfsg
-,	Z
-med	Si
-njimi	Pp3mpi
-Nemčija	Npfsn
-,	Z
-Francija	Npfsn
-in	Cc
-Italija	Npfsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-v	Sl
-skupnem	Agpnsl
-pismu	Ncnsl
-zavzelo	Vmep-sn
-za	Sa
-čimprejšnjo	Agpfsa
-uvedbo	Ncfsa
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-Evropski	Agpmsny
-komisar	Ncmsn
-za	Sa
-notranji	Agpmsay
-trg	Ncmsan
-Michel	Npmsn
-Barnier	Npmsn
-je	Va-r3s-n
-danes	Rgp
-v	Sl
-Bruslju	Npmsl
-poudaril	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-bilo	Va-p-sn
-treba	Rgp
-o	Sl
-smiselnosti	Ncfsl
-evropskega	Agpmsg
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-prepričati	Vmen
-vseh	Pg-fpg
-27	Mdc
-članic	Ncfpg
-EU	Npfsg
-.	Z
-Tako	Rgp
-se	Px------y
-je	Va-r3s-n
-odzval	Vmep-sm
-na	Sa
-pobudo	Ncfsa
-devetih	Mlc-pg
-članic	Ncfpg
-unije	Ncfsg
-za	Sa
-čimprejšnjo	Agpfsa
-uvedbo	Ncfsa
-tega	Pd-msg
-davka	Ncmsg
-,	Z
-ki	Cs
-nakazuje	Vmpr3s
-možnost	Ncfsa
-okrepljenega	Appnsg
-sodelovanja	Ncnsg
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-.	Z
-Devet	Mlc-pa
-članic	Ncfpg
-EU	Npfsg
-,	Z
-med	Si
-njimi	Pp3mpi
-Nemčija	Npfsn
-,	Z
-Francija	Npfsn
-in	Cc
-Italija	Npfsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-v	Sl
-skupnem	Agpnsl
-pismu	Ncnsl
-zavzelo	Vmep-sn
-za	Sa
-čimprejšnjo	Agpfsa
-uvedbo	Ncfsa
-omenjenega	Appmsg
-davka	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-po	Sl
-njihovem	Ps3nslp
-mnenju	Ncnsl
-nujen	Agpmsnn
-za	Sa
-zagotovitev	Ncfsa
-pravičnega	Agpmsg
-prispevka	Ncmsg
-finančnega	Agpmsg
-sektorja	Ncmsg
-pri	Sl
-kritju	Ncnsl
-stroškov	Ncmpg
-krize	Ncfsg
-ter	Cc
-za	Sa
-boljšo	Agcfsa
-ureditev	Ncfsa
-finančnih	Agpmpg
-trgov	Ncmpg
-.	Z
-Slovenija	Npfsn
-se	Px------y
-pobudi	Ncfsd
-ni	Va-r3s-y
-pridružila	Vmep-sf
-Med	Si
-devetimi	Mlc-pi
-državami	Ncfpi
-,	Z
-ki	Cs
-pozivajo	Vmpr3p
-k	Sd
-"	Z
-pospešitvi	Ncfsd
-evropskega	Agpmsg
-projekta	Ncmsg
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-"	Z
-,	Z
-so	Va-r3p-n
-poleg	Sg
-omenjenih	Appfpg
-še	Q
-Avstrija	Npfsn
-,	Z
-Belgija	Npfsn
-,	Z
-Španija	Npfsn
-,	Z
-Finska	Npfsn
-,	Z
-Grčija	Npfsn
-in	Cc
-Portugalska	Npfsn
-,	Z
-so	Va-r3p-n
-v	Sa
-torek	Ncmsan
-sporočili	Vmep-pm
-s	Sg
-francoskega	Agpnsg
-ministrstva	Ncnsg
-za	Sa
-gospodarstvo	Ncnsa
-,	Z
-finance	Ncfpa
-in	Cc
-industrijo	Ncfsa
-.	Z
-Pobudnici	Ncfsl
-tega	Pd-msg
-poziva	Ncmsg
-sta	Va-r3d-n
-Nemčija	Npfsn
-in	Cc
-Francija	Npmsn
-.	Z
-Francoski	Agpmsny
-minister	Ncmsn
-za	Sa
-gospodarstvo	Ncnsa
-,	Z
-finance	Ncfpa
-in	Cc
-industrijo	Ncfsa
-Francois	Npmsn
-Baroin	Npmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-poudaril	Vmep-sm
-,	Z
-da	Cs
-ta	Pd-fsn
-pobuda	Ncfsn
-"	Z
-zelo	Rgp
-močno	Rgp
-kaže	Vmpr3s
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-je	Va-r3s-n
-osrčje	Ncnsn
-območja	Ncnsg
-evra	Ncmsg
-odločeno	Appnsn
-iti	Vmbn
-naprej	Rgp
-"	Z
-.	Z
-Slovenija	Npfsn
-se	Px------y
-pobudi	Ncfsd
-ni	Va-r3s-y
-pridružila	Vmep-sf
-.	Z
-Finančni	Agpmsny
-minister	Ncmsn
-Franc	Npmsn
-Križanič	Npmsn
-je	Va-r3s-n
-novembra	Ncmsg
-lani	Rgp
-povedal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-za	Sa
-Slovenijo	Npfsa
-davek	Ncmsan
-smiselno	Agpnsn
-uvesti	Vmen
-na	Sl
-globalni	Agpfsl
-ravni	Ncfsl
-ali	Cc
-vsaj	Q
-po	Sl
-celotni	Agpfsl
-EU	Npfsl
-,	Z
-zgolj	Q
-uvedba	Ncfsn
-davka	Ncmsg
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-pa	Cc
-"	Z
-ne	Q
-bi	Va-c
-bila	Va-p-sf
-najboljša	Agsfsn
-rešitev	Ncfsn
-"	Z
-.	Z
-Evropski	Agpmsny
-davek	Ncmsn
-je	Va-r3s-n
-gospodarsko	Rgp
-sprejemljiv	Agpmsnn
-Pobuda	Ncfsn
-deveterice	Ncfsg
-nakazuje	Vmpr3s
-možnost	Ncfsa
-okrepljenega	Appnsg
-sodelovanja	Ncnsg
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-,	Z
-kot	Cs
-na	Sa
-primer	Ncmsan
-na	Sl
-področju	Ncnsl
-čezmejnih	Agpfpg
-razvez	Ncfpg
-ali	Cc
-evropskega	Agpmsg
-patenta	Ncmsg
-,	Z
-ko	Cs
-soglasja	Ncnsg
-prav	Q
-tako	Rgp
-ni	Va-r3s-y
-bilo	Va-p-sn
-mogoče	Agpnsn
-doseči	Vmen
-.	Z
-Evropskemu	Agpmsd
-finančnemu	Agpmsd
-davku	Ncmsd
-sicer	Q
-najbolj	Rgs
-nasprotujeta	Vmpr3d
-Velika	Agpfsn
-Britanija	Npfsn
-in	Cc
-Švedska	Npfsn
-.	Z
-Barnier	Npmsn
-je	Va-r3s-n
-danes	Rgp
-na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-se	Px------y
-pri	Sl
-uvajanju	Ncnsl
-evropskega	Agpmsg
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-obeta	Vmpr3s
-okrepljeno	Appnsn
-sodelovanje	Ncnsa
-in	Cc
-ali	Rgp
-bi	Va-c
-takšno	Pd-fsa
-pobudo	Ncfsa
-podprl	Vmep-sm
-,	Z
-odgovoril	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-bilo	Va-p-sn
-treba	Rgp
-o	Sl
-smiselnosti	Ncfsl
-davka	Ncmsg
-prepričati	Vmen
-vseh	Pg-fpg
-27	Mdc
-članic	Ncfpg
-unije	Ncfsg
-in	Cc
-da	Cs
-ne	Q
-želi	Vmpr3s
-ugibati	Vmpn
-o	Sl
-drugih	Mlpmpl
-scenarijih	Ncmpl
-.	Z
-"	Z
-Devet	Mlc-pa
-držav	Ncfpg
-je	Va-r3s-n
-bolje	Rgc
-kot	Cs
-dve	Mlcfda
-ali	Cc
-tri	Mlcfpa
-,	Z
-a	Cc
-nimamo	Vmpr1p-y
-jih	Pp3mpa--y
-še	Q
-27	Mdc
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
+token	tag	lemma
+Devet	mte:Mlc-pa	devet
+članic	mte:Ncfpg	članica
+EU	mte:Npfsg	EU
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Francija	mte:Npfsn	Francija
+in	mte:Cc	in
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+skupnem	mte:Agpnsl	skupen
+pismu	mte:Ncnsl	pismo
+zavzelo	mte:Vmep-sn	zavzeti
+za	mte:Sa	za
+čimprejšnjo	mte:Agpfsa	čimprejšnji
+uvedbo	mte:Ncfsa	uvedba
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+Evropski	mte:Agpmsny	evropski
+komisar	mte:Ncmsn	komisar
+za	mte:Sa	za
+notranji	mte:Agpmsay	notranji
+trg	mte:Ncmsan	trg
+Michel	mte:Npmsn	Michel
+Barnier	mte:Npmsn	Barnier
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+o	mte:Sl	o
+smiselnosti	mte:Ncfsl	smiselnost
+evropskega	mte:Agpmsg	evropski
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+prepričati	mte:Vmen	prepričati
+vseh	mte:Pg-fpg	ves
+27	mte:Mdc	27
+članic	mte:Ncfpg	članica
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Tako	mte:Rgp	tako
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+odzval	mte:Vmep-sm	odzvati
+na	mte:Sa	na
+pobudo	mte:Ncfsa	pobuda
+devetih	mte:Mlc-pg	devet
+članic	mte:Ncfpg	članica
+unije	mte:Ncfsg	unija
+za	mte:Sa	za
+čimprejšnjo	mte:Agpfsa	čimprejšnji
+uvedbo	mte:Ncfsa	uvedba
+tega	mte:Pd-msg	ta
+davka	mte:Ncmsg	davek
+,	mte:Z	,
+ki	mte:Cs	ki
+nakazuje	mte:Vmpr3s	nakazovati
+možnost	mte:Ncfsa	možnost
+okrepljenega	mte:Appnsg	okrepljen
+sodelovanja	mte:Ncnsg	sodelovanje
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+.	mte:Z	.
+Devet	mte:Mlc-pa	devet
+članic	mte:Ncfpg	članica
+EU	mte:Npfsg	EU
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Francija	mte:Npfsn	Francija
+in	mte:Cc	in
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+skupnem	mte:Agpnsl	skupen
+pismu	mte:Ncnsl	pismo
+zavzelo	mte:Vmep-sn	zavzeti
+za	mte:Sa	za
+čimprejšnjo	mte:Agpfsa	čimprejšnji
+uvedbo	mte:Ncfsa	uvedba
+omenjenega	mte:Appmsg	omenjen
+davka	mte:Ncmsg	davek
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njihovem	mte:Ps3nslp	njihov
+mnenju	mte:Ncnsl	mnenje
+nujen	mte:Agpmsnn	nujen
+za	mte:Sa	za
+zagotovitev	mte:Ncfsa	zagotovitev
+pravičnega	mte:Agpmsg	pravičen
+prispevka	mte:Ncmsg	prispevek
+finančnega	mte:Agpmsg	finančen
+sektorja	mte:Ncmsg	sektor
+pri	mte:Sl	pri
+kritju	mte:Ncnsl	kritje
+stroškov	mte:Ncmpg	strošek
+krize	mte:Ncfsg	kriza
+ter	mte:Cc	ter
+za	mte:Sa	za
+boljšo	mte:Agcfsa	dober
+ureditev	mte:Ncfsa	ureditev
+finančnih	mte:Agpmpg	finančen
+trgov	mte:Ncmpg	trg
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+pobudi	mte:Ncfsd	pobuda
+ni	mte:Va-r3s-y	biti
+pridružila	mte:Vmep-sf	pridružiti
+Med	mte:Si	med
+devetimi	mte:Mlc-pi	devet
+državami	mte:Ncfpi	država
+,	mte:Z	,
+ki	mte:Cs	ki
+pozivajo	mte:Vmpr3p	pozivati
+k	mte:Sd	k
+"	mte:Z	"
+pospešitvi	mte:Ncfsd	pospešitev
+evropskega	mte:Agpmsg	evropski
+projekta	mte:Ncmsg	projekt
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+"	mte:Z	"
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+poleg	mte:Sg	poleg
+omenjenih	mte:Appfpg	omenjen
+še	mte:Q	še
+Avstrija	mte:Npfsn	Avstrija
+,	mte:Z	,
+Belgija	mte:Npfsn	Belgija
+,	mte:Z	,
+Španija	mte:Npfsn	Španija
+,	mte:Z	,
+Finska	mte:Npfsn	Finska
+,	mte:Z	,
+Grčija	mte:Npfsn	Grčija
+in	mte:Cc	in
+Portugalska	mte:Npfsn	Portugalska
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+sporočili	mte:Vmep-pm	sporočiti
+s	mte:Sg	z
+francoskega	mte:Agpnsg	francoski
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+finance	mte:Ncfpa	finance
+in	mte:Cc	in
+industrijo	mte:Ncfsa	industrija
+.	mte:Z	.
+Pobudnici	mte:Ncfsl	pobudnica
+tega	mte:Pd-msg	ta
+poziva	mte:Ncmsg	pozivati
+sta	mte:Va-r3d-n	biti
+Nemčija	mte:Npfsn	Nemčija
+in	mte:Cc	in
+Francija	mte:Npmsn	Francija
+.	mte:Z	.
+Francoski	mte:Agpmsny	francoski
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+finance	mte:Ncfpa	finance
+in	mte:Cc	in
+industrijo	mte:Ncfsa	industrija
+Francois	mte:Npmsn	Francois
+Baroin	mte:Npmsn	Baroin
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-fsn	ta
+pobuda	mte:Ncfsn	pobud
+"	mte:Z	"
+zelo	mte:Rgp	zelo
+močno	mte:Rgp	močno
+kaže	mte:Vmpr3s	kazati
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+osrčje	mte:Ncnsn	osrčje
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+odločeno	mte:Appnsn	odločen
+iti	mte:Vmbn	iti
+naprej	mte:Rgp	naprej
+"	mte:Z	"
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+pobudi	mte:Ncfsd	pobuda
+ni	mte:Va-r3s-y	biti
+pridružila	mte:Vmep-sf	pridružiti
+.	mte:Z	.
+Finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Franc	mte:Npmsn	Franc
+Križanič	mte:Npmsn	Križanič
+je	mte:Va-r3s-n	biti
+novembra	mte:Ncmsg	november
+lani	mte:Rgp	lani
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+davek	mte:Ncmsan	davek
+smiselno	mte:Agpnsn	smiseln
+uvesti	mte:Vmen	uvesti
+na	mte:Sl	na
+globalni	mte:Agpfsl	globalen
+ravni	mte:Ncfsl	raven
+ali	mte:Cc	ali
+vsaj	mte:Q	vsaj
+po	mte:Sl	po
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+,	mte:Z	,
+zgolj	mte:Q	zgolj
+uvedba	mte:Ncfsn	uvedba
+davka	mte:Ncmsg	davek
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+pa	mte:Cc	pa
+"	mte:Z	"
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+najboljša	mte:Agsfsn	dober
+rešitev	mte:Ncfsn	rešitev
+"	mte:Z	"
+.	mte:Z	.
+Evropski	mte:Agpmsny	evropski
+davek	mte:Ncmsn	davek
+je	mte:Va-r3s-n	biti
+gospodarsko	mte:Rgp	gospodarsko
+sprejemljiv	mte:Agpmsnn	sprejemljiv
+Pobuda	mte:Ncfsn	pobuda
+deveterice	mte:Ncfsg	deveterica
+nakazuje	mte:Vmpr3s	nakazovati
+možnost	mte:Ncfsa	možnost
+okrepljenega	mte:Appnsg	okrepljen
+sodelovanja	mte:Ncnsg	sodelovanje
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+,	mte:Z	,
+kot	mte:Cs	kot
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+čezmejnih	mte:Agpfpg	čezmejen
+razvez	mte:Ncfpg	razveza
+ali	mte:Cc	ali
+evropskega	mte:Agpmsg	evropski
+patenta	mte:Ncmsg	patent
+,	mte:Z	,
+ko	mte:Cs	ko
+soglasja	mte:Ncnsg	soglasje
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+mogoče	mte:Agpnsn	mogoč
+doseči	mte:Vmen	doseči
+.	mte:Z	.
+Evropskemu	mte:Agpmsd	evropski
+finančnemu	mte:Agpmsd	finančen
+davku	mte:Ncmsd	davek
+sicer	mte:Q	sicer
+najbolj	mte:Rgs	najbolj
+nasprotujeta	mte:Vmpr3d	nasprotovati
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+in	mte:Cc	in
+Švedska	mte:Npfsn	Švedska
+.	mte:Z	.
+Barnier	mte:Npmsn	Barnier
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+se	mte:Px------y	se
+pri	mte:Sl	pri
+uvajanju	mte:Ncnsl	uvajanje
+evropskega	mte:Agpmsg	evropski
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+obeta	mte:Vmpr3s	obetati
+okrepljeno	mte:Appnsn	okrepljen
+sodelovanje	mte:Ncnsa	sodelovanje
+in	mte:Cc	in
+ali	mte:Rgp	ali
+bi	mte:Va-c	biti
+takšno	mte:Pd-fsa	takšen
+pobudo	mte:Ncfsa	pobuda
+podprl	mte:Vmep-sm	podpreti
+,	mte:Z	,
+odgovoril	mte:Vmep-sm	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+o	mte:Sl	o
+smiselnosti	mte:Ncfsl	smiselnost
+davka	mte:Ncmsg	davek
+prepričati	mte:Vmen	prepričati
+vseh	mte:Pg-fpg	ves
+27	mte:Mdc	27
+članic	mte:Ncfpg	članica
+unije	mte:Ncfsg	unija
+in	mte:Cc	in
+da	mte:Cs	da
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+ugibati	mte:Vmpn	ugibati
+o	mte:Sl	o
+drugih	mte:Mlpmpl	drug
+scenarijih	mte:Ncmpl	scenarij
+.	mte:Z	.
+"	mte:Z	"
+Devet	mte:Mlc-pa	devet
+držav	mte:Ncfpg	država
+je	mte:Va-r3s-n	biti
+bolje	mte:Rgc	dobro
+kot	mte:Cs	kot
+dve	mte:Mlcfda	dva
+ali	mte:Cc	ali
+tri	mte:Mlcfpa	trije
+,	mte:Z	,
+a	mte:Cc	a
+nimamo	mte:Vmpr1p-y	imeti
+jih	mte:Pp3mpa--y	on
+še	mte:Q	še
+27	mte:Mdc	27
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Evropski	mte:Agpmsny	evropski
+davek	mte:Ncmsn	davek
+na	mte:Sa	na
+finančne	mte:Agpfsa	finančen
+transakcije	mte:Ncfpa	transakcija
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+"	mte:Z	"
+gospodarsko	mte:Rgp	gospodarsko
+sprejemljiv	mte:Agpmsnn	sprejemljiv
+,	mte:Z	,
+finančno	mte:Rgp	finančen
+produktiven	mte:Agpmsnn	produktiven
+,	mte:Z	,
+tehnično	mte:Rgp	tehnično
+preprosto	mte:Rgp	preprosto
+izvedljiv	mte:Agpmsnn	izvedljiv
+in	mte:Cc	in
+politično	mte:Rgp	politično
+pravičen	mte:Agpmsnn	pravičen
+"	mte:Z	"

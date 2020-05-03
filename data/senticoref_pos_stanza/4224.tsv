@@ -1,239 +1,253 @@
-token	tag
-Ruskega	Agpmsg
-predsednika	Ncmsay
-Vladimirja	Npmsg
-Putina	Npmsg
-je	Va-r3s-n
-danes	Rgp
-ameriška	Agpfsn
-revija	Ncfsn
-Time	Npmsn
-magazine	Npfsg
-imenovala	Vmbp-sf
-za	Sa
-»	Z
-Osebnost	Ncfsa
-leta	Ncnsg
-2007	Mdc
-«	Z
-.	Z
-Naziv	Ncmsan
-so	Va-r3p-n
-mu	Pp3msd--y
-podelili	Vmep-pm
-,	Z
-ker	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-s	Si
-svojim	Px-nsi
-vodenjem	Ncnsi
-uspelo	Vmep-sn
-Rusijo	Npfsa
-vrniti	Vmen
-med	Sa
-svetovne	Agpfpa
-velesile	Ncfpa
-.	Z
-Po	Sl
-navedbah	Ncfpl
-Time	Ncmsn
-magazina	Ncmsg
-naziv	Ncmsn
-Osebnost	Ncfsn
-leta	Ncnsg
-ne	Q
-pomeni	Vmbr3s
-priznanja	Ncnsg
-ali	Cc
-časti	Ncfsg
-,	Z
-niti	Q
-ni	Va-r3s-y
-tekmovanje	Ncnsn
-priljubljenosti	Ncfsg
-.	Z
-Gre	Vmbr3s
-za	Sa
-potrditev	Ncfsa
-svetovnega	Agpmsg
-voditelja	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-zadnjem	Agpnsl
-letu	Ncnsl
-najbolj	Rgs
-vplival	Vmpp-sm
-na	Sa
-potek	Ncmsan
-svetovnih	Agpmpg
-dogodkov	Ncmpg
-,	Z
-v	Sl
-pozitivnem	Agpmsl
-ali	Cc
-negativnem	Agpmsl
-smislu	Ncmsl
-.	Z
-"	Z
-Ruski	Agpmsny
-car	Ncmsn
-,	Z
-ki	Cs
-predstavlja	Vmpr3s
-nevarnost	Ncfsa
-"	Z
-Putin	Npmsn
-,	Z
-bivši	Agpmsny
-KGB	Npmsn
-agent	Ncmsn
-,	Z
-je	Va-r3s-n
-po	Sl
-mnenju	Ncnsl
-glavnega	Agpmsg
-urednika	Ncmsg
-revije	Ncfsg
-Richarda	Npmsg
-Stengla	Npmsg
-v	Sl
-zadnjem	Agpnsl
-letu	Ncnsl
-naredil	Vmep-sm
-najbolj	Rgs
-nenavadne	Agpfpa
-in	Cc
-vplivne	Agpfpa
-stvari	Ncfpa
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-je	Va-r3s-n
-Putin	Npmsn
-ruski	Agpmsny
-car	Ncmsn
-,	Z
-ki	Cs
-predstavlja	Vmpr3s
-nevarnost	Ncfsa
-,	Z
-ker	Cs
-se	Px------y
-ne	Q
-zmeni	Vmer3s
-za	Sa
-civilno	Agpfsa
-svobodo	Ncfsa
-ali	Cc
-svobodo	Ncfsa
-govora	Ncmsg
-.	Z
-V	Sa
-državo	Ncfsa
-pa	Cc
-je	Va-r3s-n
-vpeljal	Vmep-sm
-stabilnost	Ncfsa
-,	Z
-katero	Pq-fsa
-je	Va-r3s-n
-Rusija	Npfsn
-potrebovala	Vmpp-sf
-.	Z
-Zato	Cc
-ga	Pp3msa--y
-državljani	Ncmpn
-tudi	Q
-tako	Rgp
-cenijo	Vmpr3p
-in	Cc
-obožujejo	Vmpr3p
-.	Z
-Putin	Npmsn
-je	Va-r3s-n
-pripravljen	Appmsnn
-zasesti	Vmen
-mesto	Ncnsa
-predsednika	Ncmsg
-vlade	Ncfsg
-Putina	Npmsg
-so	Va-r3p-n
-imenovali	Vmbp-pm
-za	Sa
-osebnost	Ncfsa
-leta	Ncnsg
-le	Q
-dva	Mlcmda
-dni	Ncmpa
-zatem	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-sporočil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-pripravljen	Appmsnn
-ostati	Vmen
-na	Sl
-oblasti	Ncfsl
-,	Z
-tudi	Q
-ko	Cs
-mu	Pp3msd--y
-mandat	Ncmsn
-poteče	Vmer3s
-.	Z
-Če	Cs
-bo	Va-f3s-n
-prihodnje	Agpnsa
-leto	Ncnsa
-na	Sa
-mesto	Ncnsa
-predsednika	Ncmsg
-Rusije	Npfsg
-izvoljen	Appmsnn
-Dimitrij	Npmsn
-Medvedjev	Npmsn
-je	Va-r3s-n
-Putin	Npmsn
-pripravljen	Appmsnn
-prevzeti	Vmen
-položaj	Ncmsan
-predsednika	Ncmsg
-vlade	Ncfsg
-.	Z
-Med	Si
-kandidati	Ncmpi
-tudi	Q
-avtorica	Ncfsn
-Harryja	Npmsg
-Potterja	Npmsg
-Kandidati	Ncmpn
-za	Sa
-naziv	Ncmsan
-Osebnost	Ncfsa
-leta	Ncnsg
-2007	Mdc
-so	Va-r3p-n
-bili	Va-p-pm
-poleg	Sg
-Vladimirja	Npmsg
-Putina	Npmsg
-še	Q
-bivši	Agpmsny
-ameriški	Agpmsny
-podpredsednik	Ncmsn
-Al	Npmsn
-Gore	Npfsg
-,	Z
-britanska	Agpfsn
-pisateljica	Ncfsn
-J	Ncmsn
-.	Z
-K	Rgp
-.	Z
+token	tag	lemma
+Ruskega	mte:Agpmsg	ruski
+predsednika	mte:Ncmsay	predsednik
+Vladimirja	mte:Npmsg	Vladimir
+Putina	mte:Npmsg	Putina
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+ameriška	mte:Agpfsn	ameriški
+revija	mte:Ncfsn	revija
+Time	mte:Npmsn	Time
+magazine	mte:Npfsg	magazine
+imenovala	mte:Vmbp-sf	imenovati
+za	mte:Sa	za
+»	mte:Z	»
+Osebnost	mte:Ncfsa	osebnost
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+«	mte:Z	«
+.	mte:Z	.
+Naziv	mte:Ncmsan	naziv
+so	mte:Va-r3p-n	biti
+mu	mte:Pp3msd--y	on
+podelili	mte:Vmep-pm	podeliti
+,	mte:Z	,
+ker	mte:Cs	ker
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+svojim	mte:Px-nsi	svoj
+vodenjem	mte:Ncnsi	vodenje
+uspelo	mte:Vmep-sn	uspeti
+Rusijo	mte:Npfsa	Rusija
+vrniti	mte:Vmen	vrniti
+med	mte:Sa	med
+svetovne	mte:Agpfpa	svetoven
+velesile	mte:Ncfpa	velesila
+.	mte:Z	.
+Po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Time	mte:Ncmsn	time
+magazina	mte:Ncmsg	magazina
+naziv	mte:Ncmsn	naziv
+Osebnost	mte:Ncfsn	osebnost
+leta	mte:Ncnsg	leto
+ne	mte:Q	ne
+pomeni	mte:Vmbr3s	pomeniti
+priznanja	mte:Ncnsg	priznanje
+ali	mte:Cc	ali
+časti	mte:Ncfsg	čast
+,	mte:Z	,
+niti	mte:Q	niti
+ni	mte:Va-r3s-y	biti
+tekmovanje	mte:Ncnsn	tekmovanje
+priljubljenosti	mte:Ncfsg	priljubljenost
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+potrditev	mte:Ncfsa	potrditev
+svetovnega	mte:Agpmsg	svetoven
+voditelja	mte:Ncmsg	voditelj
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+letu	mte:Ncnsl	leto
+najbolj	mte:Rgs	najbolj
+vplival	mte:Vmpp-sm	vplivati
+na	mte:Sa	na
+potek	mte:Ncmsan	potek
+svetovnih	mte:Agpmpg	svetoven
+dogodkov	mte:Ncmpg	dogodek
+,	mte:Z	,
+v	mte:Sl	v
+pozitivnem	mte:Agpmsl	pozitiven
+ali	mte:Cc	ali
+negativnem	mte:Agpmsl	negativen
+smislu	mte:Ncmsl	smisel
+.	mte:Z	.
+"	mte:Z	"
+Ruski	mte:Agpmsny	ruski
+car	mte:Ncmsn	car
+,	mte:Z	,
+ki	mte:Cs	ki
+predstavlja	mte:Vmpr3s	predstavljati
+nevarnost	mte:Ncfsa	nevarnost
+"	mte:Z	"
+Putin	mte:Npmsn	Putin
+,	mte:Z	,
+bivši	mte:Agpmsny	bivši
+KGB	mte:Npmsn	KGB
+agent	mte:Ncmsn	agent
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+glavnega	mte:Agpmsg	glaven
+urednika	mte:Ncmsg	urednik
+revije	mte:Ncfsg	revija
+Richarda	mte:Npmsg	Richard
+Stengla	mte:Npmsg	Stengl
+v	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+letu	mte:Ncnsl	leto
+naredil	mte:Vmep-sm	narediti
+najbolj	mte:Rgs	najbolj
+nenavadne	mte:Agpfpa	nenavaden
+in	mte:Cc	in
+vplivne	mte:Agpfpa	vpliven
+stvari	mte:Ncfpa	stvar
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+je	mte:Va-r3s-n	biti
+Putin	mte:Npmsn	Putin
+ruski	mte:Agpmsny	ruski
+car	mte:Ncmsn	car
+,	mte:Z	,
+ki	mte:Cs	ki
+predstavlja	mte:Vmpr3s	predstavljati
+nevarnost	mte:Ncfsa	nevarnost
+,	mte:Z	,
+ker	mte:Cs	ker
+se	mte:Px------y	se
+ne	mte:Q	ne
+zmeni	mte:Vmer3s	zmeniti
+za	mte:Sa	za
+civilno	mte:Agpfsa	civilen
+svobodo	mte:Ncfsa	svoboda
+ali	mte:Cc	ali
+svobodo	mte:Ncfsa	svoboda
+govora	mte:Ncmsg	govor
+.	mte:Z	.
+V	mte:Sa	v
+državo	mte:Ncfsa	država
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vpeljal	mte:Vmep-sm	vpeljati
+stabilnost	mte:Ncfsa	stabilnost
+,	mte:Z	,
+katero	mte:Pq-fsa	kateri
+je	mte:Va-r3s-n	biti
+Rusija	mte:Npfsn	Rusija
+potrebovala	mte:Vmpp-sf	potrebovati
+.	mte:Z	.
+Zato	mte:Cc	zato
+ga	mte:Pp3msa--y	on
+državljani	mte:Ncmpn	državljan
+tudi	mte:Q	tudi
+tako	mte:Rgp	tako
+cenijo	mte:Vmpr3p	ceniti
+in	mte:Cc	in
+obožujejo	mte:Vmpr3p	oboževati
+.	mte:Z	.
+Putin	mte:Npmsn	Putin
+je	mte:Va-r3s-n	biti
+pripravljen	mte:Appmsnn	pripravljen
+zasesti	mte:Vmen	zasesti
+mesto	mte:Ncnsa	mesto
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+Putina	mte:Npmsg	Putina
+so	mte:Va-r3p-n	biti
+imenovali	mte:Vmbp-pm	imenovati
+za	mte:Sa	za
+osebnost	mte:Ncfsa	osebnost
+leta	mte:Ncnsg	leto
+le	mte:Q	le
+dva	mte:Mlcmda	dva
+dni	mte:Ncmpa	dan
+zatem	mte:Rgp	zatem
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+sporočil	mte:Vmep-sm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+pripravljen	mte:Appmsnn	pripravljen
+ostati	mte:Vmen	ostati
+na	mte:Sl	na
+oblasti	mte:Ncfsl	oblast
+,	mte:Z	,
+tudi	mte:Q	tudi
+ko	mte:Cs	ko
+mu	mte:Pp3msd--y	on
+mandat	mte:Ncmsn	mandat
+poteče	mte:Vmer3s	poteči
+.	mte:Z	.
+Če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+na	mte:Sa	na
+mesto	mte:Ncnsa	mesto
+predsednika	mte:Ncmsg	predsednik
+Rusije	mte:Npfsg	Rusija
+izvoljen	mte:Appmsnn	izvoljen
+Dimitrij	mte:Npmsn	Dimitrij
+Medvedjev	mte:Npmsn	Medvedjev
+je	mte:Va-r3s-n	biti
+Putin	mte:Npmsn	Putin
+pripravljen	mte:Appmsnn	pripravljen
+prevzeti	mte:Vmen	prevzeti
+položaj	mte:Ncmsan	položaj
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+.	mte:Z	.
+Med	mte:Si	med
+kandidati	mte:Ncmpi	kandidat
+tudi	mte:Q	tudi
+avtorica	mte:Ncfsn	avtorica
+Harryja	mte:Npmsg	Harry
+Potterja	mte:Npmsg	Potter
+Kandidati	mte:Ncmpn	kandidat
+za	mte:Sa	za
+naziv	mte:Ncmsan	naziv
+Osebnost	mte:Ncfsa	osebnost
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+poleg	mte:Sg	poleg
+Vladimirja	mte:Npmsg	Vladimir
+Putina	mte:Npmsg	Putina
+še	mte:Q	še
+bivši	mte:Agpmsny	bivši
+ameriški	mte:Agpmsny	ameriški
+podpredsednik	mte:Ncmsn	podpredsednik
+Al	mte:Npmsn	Al
+Gore	mte:Npfsg	Gora
+,	mte:Z	,
+britanska	mte:Agpfsn	britanski
+pisateljica	mte:Ncfsn	pisateljica
+J	mte:Ncmsn	J
+.	mte:Z	.
+K	mte:Sd	k
+.	mte:Z	.
+Rowling	mte:Npmsn	Rowling
+,	mte:Z	,
+kitajski	mte:Agpmsny	kitajski
+predsednik	mte:Ncmsn	predsednik
+Hu	mte:Npmsn	Hu
+Jintao	mte:Npmsn	Jintao
+in	mte:Cc	in
+ameriški	mte:Agpmsny	ameriški
+poveljnik	mte:Ncmsn	poveljnik
+v	mte:Sl	v
+Iraku	mte:Npmsl	Irak
+general	mte:Ncmsn	general
+David	mte:Npmsn	David
+Petraeus	mte:Npmsn	Petraeus

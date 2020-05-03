@@ -1,251 +1,270 @@
-token	tag
-Znanih	Appmpg
-je	Va-r3s-n
-že	Q
-deset	Mlc-pa
-finalistov	Ncmpg
-za	Sa
-ime	Ncnsa
-leta	Ncnsg
-,	Z
-pridružila	Vmep-sf
-pa	Cc
-se	Px------y
-jim	Pp3mpd--y
-bosta	Va-f3d-n
-še	Q
-izbranca	Ncmdn
-mesecev	Ncmpg
-novembra	Ncmsg
-in	Cc
-decembra	Ncmsg
-.	Z
-Ime	Ncnsn
-leta	Ncnsg
-bo	Va-f3s-n
-znano	Appnsn
-17	Mdc
-.	Z
-decembra	Ncmsg
-.	Z
-Finalisti	Npmpn
-so	Va-r3p-n
-:	Z
--	Z
-januar	Ncmsn
-:	Z
-Janez	Npmsn
-Janša	Npmsn
-,	Z
-gostitelj	Ncmsn
-slovesnosti	Ncfsg
-ob	Sl
-uvedbi	Ncfsl
-evra	Ncmsg
-z	Si
-uglednimi	Agpmpi
-evropskimi	Agpmpi
-gosti	Ncmpi
-,	Z
--	Z
-februar	Ncmsn
-:	Z
-Andrej	Npmsn
-Jerman	Npmsn
-,	Z
-prvi	Mlomsn
-slovenski	Agpmsny
-smukaški	Agpmsny
-zmagovalec	Ncmsn
-v	Sl
-Svetovnem	Agpmsl
-pokalu	Ncmsl
-,	Z
--	Z
-marec	Ncmsn
-:	Z
-Špela	Npfsn
-Veselič	Npfsn
-,	Z
-strokovna	Agpfsn
-sodelavka	Ncfsn
-društva	Ncnsg
-SOS	Ncmsn
-telefon	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-opozorila	Vmep-sf
-na	Sa
-prikrito	Appnsa
-nasilje	Ncnsa
-v	Sl
-družinah	Ncfpl
-,	Z
--	Z
-april	Ncmsn
-:	Z
-Gregor	Npmsn
-Virant	Npmsn
-,	Z
-minister	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-uvedel	Vmep-sm
-sobotne	Agpfpa
-uradne	Agpfpa
-ure	Ncfpa
-na	Sl
-upravnih	Agpfpl
-enotah	Ncfpl
-,	Z
--	Z
-maj	Ncmsn
-:	Z
-Katarina	Npfsn
-Kresal	Npfsn
-,	Z
-najresnejša	Agsfsn
-kandidatka	Ncfsn
-za	Sa
-predsednico	Ncfsa
-stranke	Ncfsg
-LDS	Npfsg
-,	Z
--	Z
-junij	Ncmsn
-:	Z
-Marjan	Npmsn
-Pečan	Npmsn
-,	Z
-369	Mdc
--	Z
-kratni	Agpmsny
-darovalec	Ncmsn
-krvi	Ncfsg
-,	Z
--	Z
-julij	Ncmsn
-:	Z
-Janez	Npmsn
-Janša	Npmsn
-,	Z
-premier	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-zahteval	Vmbp-sm
-opravičilo	Ncnsa
-zaradi	Sg
-navedb	Ncfpg
-v	Sl
-zvezi	Ncfsl
-s	Si
-Sovo	Npfsi
-,	Z
--	Z
-avgust	Ncmsn
-:	Z
-Ivo	Npmsn
-Boscarol	Npmsn
-,	Z
-dobitnik	Ncmsn
-nagrade	Ncfsg
-ameriške	Agpfsg
-vesoljske	Agpfsg
-agencije	Ncfsg
-Nasa	Npfsn
-za	Sa
-model	Ncmsan
-ultralahkega	Agpnsg
-letala	Ncnsg
-Virus	Ncmsn
-,	Z
--	Z
-september	Ncmsn
-:	Z
-Janez	Npmsn
-Janša	Npmsn
-,	Z
-ker	Cs
-je	Va-r3s-n
-sprejel	Vmep-sm
-odstop	Ncmsan
-treh	Mlcmpg
-ministrov	Ncmpg
-in	Cc
-rekonstruiral	Vmbp-sm
-vlado	Ncfsa
-,	Z
--	Z
-oktober	Ncmsn
-:	Z
-Sandi	Npmsn
-Ritter	Npmsn
-,	Z
-zagorski	Agpmsny
-gostinec	Ncmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-z	Si
-naselitvijo	Ncfsi
-v	Sl
-svojem	Px-msl
-lokalu	Ncmsl
-zoperstavil	Vmep-sm
-restriktivni	Agpfsd
-prepovedi	Ncfsd
-kajenja	Ncnsg
-.	Z
-Za	Sa
-finalista	Ncmsay
-meseca	Ncmsg
-novembra	Ncmsg
-se	Px------y
-bodo	Va-f3p-n
-potegovali	Vmpp-pm
-Peter	Npmsn
-Peterka	Npmsn
-,	Z
-Memi	Npmsn
-Bečirovič	Npmsn
-,	Z
-Janez	Npmsn
-Janša	Npmsn
-in	Cc
-Sašo	Npmsn
-Kragelj	Npmsn
-,	Z
-decembrski	Agpmpn
-kandidati	Ncmpn
-pa	Cc
-so	Va-r3p-n
-Pankrti	Npmpn
-in	Cc
-Andrej	Npmsn
-Bajuk	Npmsn
-.	Z
-Letošnje	Agpnsa
-ime	Ncnsa
-leta	Ncnsg
-,	Z
-peto	Mlofsa
-po	Sl
-vrsti	Ncfsl
-,	Z
-bo	Va-f3s-n
-tako	Rgp
-znano	Appnsn
-v	Sa
-ponedeljek	Ncmsan
-,	Z
-17	Mdc
-.	Z
-decembra	Ncmsg
-,	Z
-po	Sl
-18	Mdc
-.	Z
+token	tag	lemma
+Znanih	mte:Appmpg	znan
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+deset	mte:Mlc-pa	deset
+finalistov	mte:Ncmpg	finalist
+za	mte:Sa	za
+ime	mte:Ncnsa	ime
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+pridružila	mte:Vmep-sf	pridružiti
+pa	mte:Cc	pa
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+bosta	mte:Va-f3d-n	biti
+še	mte:Q	še
+izbranca	mte:Ncmdn	izbranec
+mesecev	mte:Ncmpg	mesec
+novembra	mte:Ncmsg	november
+in	mte:Cc	in
+decembra	mte:Ncmsg	december
+.	mte:Z	.
+Ime	mte:Ncnsn	ime
+leta	mte:Ncnsg	leto
+bo	mte:Va-f3s-n	biti
+znano	mte:Appnsn	znan
+17	mte:Mdc	17
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+.	mte:Z	.
+Finalisti	mte:Npmpn	Finalisti
+so	mte:Va-r3p-n	biti
+:	mte:Z	:
+-	mte:Z	-
+januar	mte:Ncmsn	januar
+:	mte:Z	:
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+gostitelj	mte:Ncmsn	gostitelj
+slovesnosti	mte:Ncfsg	slovesnost
+ob	mte:Sl	ob
+uvedbi	mte:Ncfsl	uvedba
+evra	mte:Ncmsg	evro
+z	mte:Si	z
+uglednimi	mte:Agpmpi	ugleden
+evropskimi	mte:Agpmpi	evropski
+gosti	mte:Ncmpi	gost
+,	mte:Z	,
+-	mte:Z	-
+februar	mte:Ncmsn	februar
+:	mte:Z	:
+Andrej	mte:Npmsn	Andrej
+Jerman	mte:Npmsn	Jerman
+,	mte:Z	,
+prvi	mte:Mlomsn	prvi
+slovenski	mte:Agpmsny	slovenski
+smukaški	mte:Agpmsny	smukaški
+zmagovalec	mte:Ncmsn	zmagovalec
+v	mte:Sl	v
+Svetovnem	mte:Agpmsl	svetoven
+pokalu	mte:Ncmsl	pokal
+,	mte:Z	,
+-	mte:Z	-
+marec	mte:Ncmsn	marec
+:	mte:Z	:
+Špela	mte:Npfsn	Špel
+Veselič	mte:Npfsn	Veselič
+,	mte:Z	,
+strokovna	mte:Agpfsn	strokoven
+sodelavka	mte:Ncfsn	sodelavka
+društva	mte:Ncnsg	društvo
+SOS	mte:Ncmsn	SOS
+telefon	mte:Ncmsn	telefon
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+opozorila	mte:Vmep-sf	opozoriti
+na	mte:Sa	na
+prikrito	mte:Appnsa	prikrit
+nasilje	mte:Ncnsa	nasilje
+v	mte:Sl	v
+družinah	mte:Ncfpl	družina
+,	mte:Z	,
+-	mte:Z	-
+april	mte:Ncmsn	april
+:	mte:Z	:
+Gregor	mte:Npmsn	Gregor
+Virant	mte:Npmsn	Virant
+,	mte:Z	,
+minister	mte:Ncmsn	minister
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+uvedel	mte:Vmep-sm	uvedeti
+sobotne	mte:Agpfpa	soboten
+uradne	mte:Agpfpa	uraden
+ure	mte:Ncfpa	ura
+na	mte:Sl	na
+upravnih	mte:Agpfpl	upraven
+enotah	mte:Ncfpl	enota
+,	mte:Z	,
+-	mte:Z	-
+maj	mte:Ncmsn	maj
+:	mte:Z	:
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+,	mte:Z	,
+najresnejša	mte:Agsfsn	revesen
+kandidatka	mte:Ncfsn	kandidatka
+za	mte:Sa	za
+predsednico	mte:Ncfsa	predsednica
+stranke	mte:Ncfsg	stranka
+LDS	mte:Npfsg	LDS
+,	mte:Z	,
+-	mte:Z	-
+junij	mte:Ncmsn	junij
+:	mte:Z	:
+Marjan	mte:Npmsn	Marjan
+Pečan	mte:Npmsn	Pečan
+,	mte:Z	,
+369	mte:Mdc	369
+-	mte:Z	-
+kratni	mte:Agpmsny	kraten
+darovalec	mte:Ncmsn	darovalec
+krvi	mte:Ncfsg	kri
+,	mte:Z	,
+-	mte:Z	-
+julij	mte:Ncmsn	julij
+:	mte:Z	:
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+premier	mte:Ncmsn	premier
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zahteval	mte:Vmbp-sm	zahtevati
+opravičilo	mte:Ncnsa	opravičilo
+zaradi	mte:Sg	zaradi
+navedb	mte:Ncfpg	navedba
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+Sovo	mte:Npfsi	Sovo
+,	mte:Z	,
+-	mte:Z	-
+avgust	mte:Ncmsn	avgust
+:	mte:Z	:
+Ivo	mte:Npmsn	Ivo
+Boscarol	mte:Npmsn	Boscarol
+,	mte:Z	,
+dobitnik	mte:Ncmsn	dobitnik
+nagrade	mte:Ncfsg	nagrada
+ameriške	mte:Agpfsg	ameriški
+vesoljske	mte:Agpfsg	vesoljski
+agencije	mte:Ncfsg	agencija
+Nasa	mte:Npfsn	Nasa
+za	mte:Sa	za
+model	mte:Ncmsan	model
+ultralahkega	mte:Agpnsg	ultralahek
+letala	mte:Ncnsg	letalo
+Virus	mte:Ncmsn	virus
+,	mte:Z	,
+-	mte:Z	-
+september	mte:Ncmsn	september
+:	mte:Z	:
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+sprejel	mte:Vmep-sm	sprejeti
+odstop	mte:Ncmsan	odstop
+treh	mte:Mlcmpg	trije
+ministrov	mte:Ncmpg	minister
+in	mte:Cc	in
+rekonstruiral	mte:Vmbp-sm	rekonstruirati
+vlado	mte:Ncfsa	vlada
+,	mte:Z	,
+-	mte:Z	-
+oktober	mte:Ncmsn	oktober
+:	mte:Z	:
+Sandi	mte:Npmsn	Sandi
+Ritter	mte:Npmsn	Ritter
+,	mte:Z	,
+zagorski	mte:Agpmsny	zagorski
+gostinec	mte:Ncmsn	gostinec
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+naselitvijo	mte:Ncfsi	naselitev
+v	mte:Sl	v
+svojem	mte:Px-msl	svoj
+lokalu	mte:Ncmsl	lokal
+zoperstavil	mte:Vmep-sm	zoperstaviti
+restriktivni	mte:Agpfsd	restriktiven
+prepovedi	mte:Ncfsd	prepoved
+kajenja	mte:Ncnsg	kajenje
+.	mte:Z	.
+Za	mte:Sa	za
+finalista	mte:Ncmsay	finalist
+meseca	mte:Ncmsg	mesec
+novembra	mte:Ncmsg	november
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+potegovali	mte:Vmpp-pm	potegovati
+Peter	mte:Npmsn	Peter
+Peterka	mte:Npmsn	Peterka
+,	mte:Z	,
+Memi	mte:Npmsn	Memi
+Bečirovič	mte:Npmsn	Bečirovič
+,	mte:Z	,
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+in	mte:Cc	in
+Sašo	mte:Npmsn	Sašo
+Kragelj	mte:Npmsn	Kragelj
+,	mte:Z	,
+decembrski	mte:Agpmpn	decembrski
+kandidati	mte:Ncmpn	kandidat
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+Pankrti	mte:Npmpn	Pankrt
+in	mte:Cc	in
+Andrej	mte:Npmsn	Andrej
+Bajuk	mte:Npmsn	Bajuk
+.	mte:Z	.
+Letošnje	mte:Agpnsa	letošnji
+ime	mte:Ncnsa	ime
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+peto	mte:Mlofsa	peti
+po	mte:Sl	po
+vrsti	mte:Ncfsl	vrsta
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+znano	mte:Appnsn	znan
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+,	mte:Z	,
+17	mte:Mdc	17
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+,	mte:Z	,
+po	mte:Sl	po
+18	mte:Mdc	18
+.	mte:Z	.
+uri	mte:Ncfsl	ura
+,	mte:Z	,
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+sami	mte:Agpmpn	sam
+finalisti	mte:Ncmpn	finalist
+med	mte:Si	med
+sabo	mte:Px---i	se
+izbrali	mte:Vmep-pm	izbrati
+tistega	mte:Pd-nsa	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njihovih	mte:Ps3nplp	njihov
+mnenjih	mte:Ncnpl	mnenje
+letos	mte:Rgp	letos
+najbolj	mte:Rgs	najbolj
+izstopal	mte:Vmpp-sm	izstopati

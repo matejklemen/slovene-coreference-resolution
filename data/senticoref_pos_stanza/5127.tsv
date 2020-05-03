@@ -1,486 +1,521 @@
-token	tag
-Ta	Pd-fsn
-bi	Va-c
-lahko	Rgp
-bila	Va-p-sf
-še	Q
-boljša	Agcfsn
-,	Z
-če	Cs
-se	Px------y
-ne	Q
-bi	Va-c
-zgodila	Vmep-sf
-nesreča	Ncfsn
-z	Si
-Merkurjem	Npmsi
-,	Z
-pravi	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Save	Npfsg
-Janez	Npmsn
-Bohorič	Npmsn
-Dolgoletni	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Kranjske	Agpfsg
-Save	Npfsg
-Janez	Npmsn
-Bohorič	Npmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-bo	Va-f3s-n
-predvidoma	Rgp
-marca	Ncmsg
-nasledil	Vmep-sm
-Matej	Npmsn
-Narat	Npmsn
-,	Z
-četrtkove	Aspfsg
-odločitve	Ncfsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-o	Sl
-predčasni	Agpfsl
-razrešitvi	Ncfsl
-ne	Q
-obžaluje	Vmpr3s
-.	Z
-Prepričan	Appmsnn
-je	Va-r3s-n
-,	Z
-da	Cs
-bo	Va-f3s-n
-Narat	Npmsn
-dobro	Rgp
-nadaljeval	Vmpp-sm
-vodenje	Ncnsa
-Save	Npfsg
-in	Cc
-uspešno	Rgp
-izvedel	Vmep-sm
-finančno	Agpnsa
-prestrukturiranje	Ncnsa
-,	Z
-saj	Cc
-ima	Vmpr3s-n
-primerno	Agpfsa
-izobrazbo	Ncfsa
-in	Cc
-izkušnje	Ncfpa
-na	Sl
-področju	Ncnsl
-bančništva	Ncnsg
-.	Z
-"	Z
-Če	Cs
-kandidat	Ncmsn
-za	Sa
-naslednika	Ncmsay
-ne	Q
-bi	Va-c
-bil	Va-p-sm
-dober	Agpmsnn
-,	Z
-ne	Q
-bi	Va-c
-pristal	Vmep-sm
-na	Sa
-sporazumno	Agpfsa
-razrešitev	Ncfsa
-"	Z
-Medtem	Rgp
-ko	Cs
-Narat	Npmsn
-do	Sg
-uradnega	Agpmsg
-nastopa	Ncmsg
-funkcije	Ncfsg
-ne	Q
-daje	Vmpr3s
-komentarjev	Ncmpg
-,	Z
-pa	Cc
-je	Va-r3s-n
-danes	Rgp
-o	Sl
-svojem	Px-msl
-nasledniku	Ncmsl
-spregovoril	Vmep-sm
-dolgoletni	Agpmsny
-prvi	Mlomsn
-mož	Ncmsn
-Kranjske	Agpfsg
-družbe	Ncfsg
-.	Z
-Bohorič	Npmsn
-je	Va-r3s-n
-novinarjem	Ncmpd
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-odločitve	Ncfpn
-o	Sl
-predčasni	Agpfsl
-razrešitvi	Ncfsl
-sicer	Q
-ni	Va-r3s-y
-pričakoval	Vmpp-sm
-,	Z
-vendar	Cc
-je	Va-r3s-n
-v	Sl
-kontekstu	Ncmsl
-vsega	Pg-nsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-do	Sg
-nje	Pp3fsg
-pripeljalo	Vmep-sn
-,	Z
-ne	Q
-obžaluje	Vmpr3s
-.	Z
-Drugače	Rgp
-ne	Q
-bi	Va-c
-nanjo	Pp3fsa--b
-sporazumno	Rgp
-pristal	Vmep-sm
-in	Cc
-se	Px------y
-odpovedal	Vmep-sm
-odpravnini	Ncfsd
-.	Z
-"	Z
-Dejstvo	Ncnsn
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-pojavil	Vmep-sm
-res	Rgp
-primeren	Agpmsnn
-kandidat	Ncmsn
-,	Z
-ki	Cs
-mu	Pp3msd--y
-bom	Va-f1s-n
-z	Si
-veseljem	Ncnsi
-predal	Vmep-sm
-svojo	Px-fsa
-funkcijo	Ncfsa
-,	Z
-je	Va-r3s-n
-gotovo	Rgp
-eden	Mlpmsn
-od	Sg
-razlogov	Ncmpg
-za	Sa
-sporazumno	Agpfsa
-prekinitev	Ncfsa
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-Bohorič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-predsednika	Ncmsay
-nadzornega	Agpmsg
-sveta	Ncmsg
-Abanke	Ncfsg
-Narata	Npmsg
-imel	Vmpp-sm
-priložnost	Ncfsa
-spoznati	Vmbn
-,	Z
-ko	Cs
-je	Va-r3s-n
-ta	Pd-msn
-kandidiral	Vmbp-sm
-za	Sa
-predsednika	Ncmsay
-uprave	Ncfsg
-Abanke	Npfsg
-.	Z
-"	Z
-Nismo	Va-r1p-y
-mislili	Vmpp-pm
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-zgodba	Ncfsn
-z	Si
-Merkurjem	Npmsi
-tako	Rgp
-končala	Vmep-sf
-"	Z
-Bohorič	Npmsn
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-Naratu	Ncmsd
-zapušča	Vmpr3s
-Savo	Npfsa
-v	Sl
-"	Z
-kar	Rgp
-dobri	Agpfsl
-kondiciji	Ncfsl
-,	Z
-ki	Cs
-bi	Va-c
-bila	Va-p-sf
-lahko	Rgp
-še	Q
-višja	Agcfsn
-,	Z
-če	Cs
-se	Px------y
-ne	Q
-bi	Va-c
-zgodila	Vmep-sf
-nesreča	Ncfsn
-z	Si
-Merkurjem	Npmsi
-"	Z
-.	Z
-Kljub	Sd
-temu	Pd-nsd
-je	Va-r3s-n
-Bohorič	Npmsn
-ponosen	Agpmsnn
-na	Sa
-pot	Ncfsa
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-v	Sl
-14	Mdc
-letih	Ncnpl
-njegovega	Ps3nsgsm
-predsedovanja	Ncnsg
-upravi	Ncfsd
-,	Z
-prehodila	Vmep-sf
-Sava	Npfsn
-.	Z
-"	Z
-V	Sl
-tem	Pd-msl
-času	Ncmsl
-smo	Va-r1p-n
-podvojili	Vmep-pm
-kapital	Ncmsan
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-smo	Va-r1p-n
-sprejeli	Vmep-pm
-mnogo	Rgp
-več	Rgc
-pozitivnih	Agpfpg
-kot	Cs
-pa	Cc
-slabih	Agpfpg
-odločitev	Ncfpg
-,	Z
-"	Z
-je	Va-r3s-n
-ocenil	Vmep-sm
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-jim	Pp3mpd--y
-ni	Va-r3s-y
-niti	Q
-sanjalo	Vmpp-sn
-,	Z
-da	Cs
-se	Px------y
-lahko	Rgp
-zgodba	Ncfsn
-z	Si
-Merkurjem	Npmsi
-končala	Vmep-sf
-z	Si
-razvrednotenjem	Ncnsi
-njihovega	Ps3nsgp
-premoženja	Ncnsg
-.	Z
-"	Z
-Sava	Npfsn
-je	Va-r3s-n
-bila	Va-p-sf
-že	Q
-v	Sl
-težjih	Agcfpl
-razmerah	Ncfpl
-,	Z
-pa	Cc
-smo	Va-r1p-n
-jih	Pp3mpa--y
-preveslali	Vmep-pm
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-Bohorič	Npmsn
-.	Z
-"	Z
-Sreča	Ncfsn
-,	Z
-da	Cs
-smo	Va-r1p-n
-dobili	Vmep-pm
-takšnega	Pd-msa
-kandidata	Ncmsay
-"	Z
-"	Z
-Mislim	Vmpr1s
-,	Z
-da	Cs
-bo	Va-f3s-n
-dobro	Rgp
-nadaljeval	Vmpp-sm
-vodenje	Ncnsa
-Save	Npfsg
-in	Cc
-da	Cs
-je	Va-r3s-n
-v	Sl
-tem	Pd-msl
-trenutku	Ncmsl
-,	Z
-ko	Cs
-je	Va-r3s-n
-Sava	Npfsn
-pred	Si
-finančnim	Agpnsi
-in	Cc
-poslovnim	Agpnsi
-prestrukturiranjem	Ncnsi
-pravzaprav	Q
-po	Sa
-svoje	Px-fsa
-sreča	Ncfsa
-,	Z
-da	Cs
-smo	Va-r1p-n
-dobili	Vmep-pm
-takšnega	Pd-msa
-kandidata	Ncmsay
-,	Z
-ki	Cs
-bo	Va-f3s-n
-skupaj	Rgp
-s	Si
-tistimi	Pd-mpi
-,	Z
-ki	Cs
-smo	Va-r1p-n
-jih	Pp3mpa--y
-predlagali	Vmbp-pm
-in	Cc
-za	Sa
-katere	Pq-mpa
-upam	Vmpr1s
-,	Z
-da	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-vklopil	Vmep-sm
-v	Sa
-svoj	Px-msa
-team	Ncmsan
-,	Z
-res	Rgp
-uspešno	Rgp
-lahko	Rgp
-vodil	Vmpp-sm
-Savo	Npfsa
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Bohorič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-sicer	Q
-sprva	Rgp
-za	Sa
-naslednika	Ncmsay
-predlagal	Vmbp-sm
-svoja	Px-mda
-sodelavca	Ncmda
-Antonijo	Npmsay
-Pirc	Npmsay
-in	Cc
-Igorja	Npmsay
-Hafnerja	Npmsay
-.	Z
-"	Z
-Narat	Npmsn
-je	Va-r3s-n
-človek	Ncmsn
-,	Z
-ki	Cs
-bo	Va-f3s-n
-svojo	Px-fsa
-vizijo	Ncfsa
-finančne	Agpfsg
-sanacije	Ncfsg
-in	Cc
-nadaljnjega	Agpmsg
-razvoja	Ncmsg
-skupaj	Rgp
-s	Si
-sodelavci	Ncmpi
-,	Z
-ki	Cs
-mu	Pp3msd--y
-jih	Pp3mpa--y
-bom	Va-f1s-n
-zapustil	Vmep-sm
-v	Sl
-Savi	Npfsl
-,	Z
-znal	Vmpp-sm
-uspešno	Rgp
-razvijati	Vmpn
-in	Cc
-uresničiti	Vmen
-,	Z
-"	Z
-meni	Vmpr3s
-Bohorič	Npmsn
-,	Z
-ki	Cs
-bo	Va-f3s-n
-vodenje	Ncnsa
-Save	Npfsg
-svojemu	Px-msd
-nasledniku	Ncmsd
-prepustil	Vmep-sm
-po	Sl
-sprejetju	Ncnsl
-letnega	Agpnsg
-poročila	Ncnsg
-predvidoma	Rgp
-marca	Ncmsg
-.	Z
+token	tag	lemma
+Ta	mte:Pd-fsn	ta
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+bila	mte:Va-p-sf	biti
+še	mte:Q	še
+boljša	mte:Agcfsn	dober
+,	mte:Z	,
+če	mte:Cs	če
+se	mte:Px------y	se
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+zgodila	mte:Vmep-sf	zgoditi
+nesreča	mte:Ncfsn	nesreča
+z	mte:Si	z
+Merkurjem	mte:Npmsi	Merkur
+,	mte:Z	,
+pravi	mte:Agpmsny	pravi
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Save	mte:Npfsg	Sava
+Janez	mte:Npmsn	Janez
+Bohorič	mte:Npmsn	Bohorič
+Dolgoletni	mte:Agpmsny	dolgoleten
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Kranjske	mte:Agpfsg	kranjski
+Save	mte:Npfsg	Sava
+Janez	mte:Npmsn	Janez
+Bohorič	mte:Npmsn	Bohorič
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+marca	mte:Ncmsg	marec
+nasledil	mte:Vmep-sm	naslediti
+Matej	mte:Npmsn	Matej
+Narat	mte:Npmsn	Narat
+,	mte:Z	,
+četrtkove	mte:Aspfsg	četrtkov
+odločitve	mte:Ncfsg	odločitev
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+o	mte:Sl	o
+predčasni	mte:Agpfsl	predčasen
+razrešitvi	mte:Ncfsl	razrešitev
+ne	mte:Q	ne
+obžaluje	mte:Vmpr3s	obžalovati
+.	mte:Z	.
+Prepričan	mte:Appmsnn	prepričan
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Narat	mte:Npmsn	Narat
+dobro	mte:Rgp	dobro
+nadaljeval	mte:Vmpp-sm	nadaljevati
+vodenje	mte:Ncnsa	vodenje
+Save	mte:Npfsg	Sava
+in	mte:Cc	in
+uspešno	mte:Rgp	uspešno
+izvedel	mte:Vmep-sm	izvedeti
+finančno	mte:Agpnsa	finančen
+prestrukturiranje	mte:Ncnsa	prestrukturiranje
+,	mte:Z	,
+saj	mte:Cc	saj
+ima	mte:Vmpr3s-n	imeti
+primerno	mte:Agpfsa	primeren
+izobrazbo	mte:Ncfsa	izobrazba
+in	mte:Cc	in
+izkušnje	mte:Ncfpa	izkušnja
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+bančništva	mte:Ncnsg	bančništvo
+.	mte:Z	.
+"	mte:Z	"
+Če	mte:Cs	če
+kandidat	mte:Ncmsn	kandidat
+za	mte:Sa	za
+naslednika	mte:Ncmsay	naslednik
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+dober	mte:Agpmsnn	dober
+,	mte:Z	,
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+pristal	mte:Vmep-sm	pristati
+na	mte:Sa	na
+sporazumno	mte:Agpfsa	sporazumno
+razrešitev	mte:Ncfsa	razrešitev
+"	mte:Z	"
+Medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+Narat	mte:Npmsn	Narat
+do	mte:Sg	do
+uradnega	mte:Agpmsg	uraden
+nastopa	mte:Ncmsg	nastop
+funkcije	mte:Ncfsg	funkcija
+ne	mte:Q	ne
+daje	mte:Vmpr3s	dajati
+komentarjev	mte:Ncmpg	komentar
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+o	mte:Sl	o
+svojem	mte:Px-msl	svoj
+nasledniku	mte:Ncmsl	naslednik
+spregovoril	mte:Vmep-sm	spregovoriti
+dolgoletni	mte:Agpmsny	dolgoleten
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Kranjske	mte:Agpfsg	kranjski
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Bohorič	mte:Npmsn	Bohorič
+je	mte:Va-r3s-n	biti
+novinarjem	mte:Ncmpd	novinar
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+odločitve	mte:Ncfpn	odločitev
+o	mte:Sl	o
+predčasni	mte:Agpfsl	predčasen
+razrešitvi	mte:Ncfsl	razrešitev
+sicer	mte:Q	sicer
+ni	mte:Va-r3s-y	biti
+pričakoval	mte:Vmpp-sm	pričakovati
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+kontekstu	mte:Ncmsl	kontekst
+vsega	mte:Pg-nsg	ves
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+nje	mte:Pp3fsg	on
+pripeljalo	mte:Vmep-sn	pripeljati
+,	mte:Z	,
+ne	mte:Q	ne
+obžaluje	mte:Vmpr3s	obžalovati
+.	mte:Z	.
+Drugače	mte:Rgp	drugače
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+nanjo	mte:Pp3fsa--b	name
+sporazumno	mte:Rgp	sporazumno
+pristal	mte:Vmep-sm	pristati
+in	mte:Cc	in
+se	mte:Px------y	se
+odpovedal	mte:Vmep-sm	odpovedati
+odpravnini	mte:Ncfsd	odpravnina
+.	mte:Z	.
+"	mte:Z	"
+Dejstvo	mte:Ncnsn	dejstvo
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pojavil	mte:Vmep-sm	pojaviti
+res	mte:Rgp	res
+primeren	mte:Agpmsnn	primeren
+kandidat	mte:Ncmsn	kandidat
+,	mte:Z	,
+ki	mte:Cs	ki
+mu	mte:Pp3msd--y	on
+bom	mte:Va-f1s-n	biti
+z	mte:Si	z
+veseljem	mte:Ncnsi	veselje
+predal	mte:Vmep-sm	predati
+svojo	mte:Px-fsa	svoj
+funkcijo	mte:Ncfsa	funkcija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+gotovo	mte:Rgp	gotovo
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+razlogov	mte:Ncmpg	razlog
+za	mte:Sa	za
+sporazumno	mte:Agpfsa	sporazumno
+prekinitev	mte:Ncfsa	prekinitev
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Bohorič	mte:Npmsn	Bohorič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+predsednika	mte:Ncmsay	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Abanke	mte:Ncfsg	abanka
+Narata	mte:Npmsg	Narat
+imel	mte:Vmpp-sm	imeti
+priložnost	mte:Ncfsa	priložnost
+spoznati	mte:Vmbn	spoznati
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+kandidiral	mte:Vmbp-sm	kandidirati
+za	mte:Sa	za
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+Abanke	mte:Npfsg	Abanka
+.	mte:Z	.
+"	mte:Z	"
+Nismo	mte:Va-r1p-y	biti
+mislili	mte:Vmpp-pm	misliti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+zgodba	mte:Ncfsn	zgodba
+z	mte:Si	z
+Merkurjem	mte:Npmsi	Merkur
+tako	mte:Rgp	tako
+končala	mte:Vmep-sf	končati
+"	mte:Z	"
+Bohorič	mte:Npmsn	Bohorič
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+Naratu	mte:Ncmsd	narat
+zapušča	mte:Vmpr3s	zapuščati
+Savo	mte:Npfsa	Savo
+v	mte:Sl	v
+"	mte:Z	"
+kar	mte:Rgp	kar
+dobri	mte:Agpfsl	dober
+kondiciji	mte:Ncfsl	kondicija
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+lahko	mte:Rgp	lahko
+še	mte:Q	še
+višja	mte:Agcfsn	visok
+,	mte:Z	,
+če	mte:Cs	če
+se	mte:Px------y	se
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+zgodila	mte:Vmep-sf	zgoditi
+nesreča	mte:Ncfsn	nesreča
+z	mte:Si	z
+Merkurjem	mte:Npmsi	Merkur
+"	mte:Z	"
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+je	mte:Va-r3s-n	biti
+Bohorič	mte:Npmsn	Bohorič
+ponosen	mte:Agpmsnn	ponosen
+na	mte:Sa	na
+pot	mte:Ncfsa	pot
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+14	mte:Mdc	14
+letih	mte:Ncnpl	leto
+njegovega	mte:Ps3nsgsm	njegov
+predsedovanja	mte:Ncnsg	predsedovanje
+upravi	mte:Ncfsd	uprava
+,	mte:Z	,
+prehodila	mte:Vmep-sf	prehoditi
+Sava	mte:Npfsn	Sava
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+tem	mte:Pd-msl	ta
+času	mte:Ncmsl	čas
+smo	mte:Va-r1p-n	biti
+podvojili	mte:Vmep-pm	podvojiti
+kapital	mte:Ncmsan	kapital
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+sprejeli	mte:Vmep-pm	sprejeti
+mnogo	mte:Rgp	mnogo
+več	mte:Rgc	več
+pozitivnih	mte:Agpfpg	pozitiven
+kot	mte:Cs	kot
+pa	mte:Cc	pa
+slabih	mte:Agpfpg	slab
+odločitev	mte:Ncfpg	odločitev
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+ni	mte:Va-r3s-y	biti
+niti	mte:Q	niti
+sanjalo	mte:Vmpp-sn	sanjati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+zgodba	mte:Ncfsn	zgodba
+z	mte:Si	z
+Merkurjem	mte:Npmsi	Merkur
+končala	mte:Vmep-sf	končati
+z	mte:Si	z
+razvrednotenjem	mte:Ncnsi	razvrednotenje
+njihovega	mte:Ps3nsgp	njihov
+premoženja	mte:Ncnsg	premoženje
+.	mte:Z	.
+"	mte:Z	"
+Sava	mte:Npfsn	Sava
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+že	mte:Q	že
+v	mte:Sl	v
+težjih	mte:Agcfpl	težek
+razmerah	mte:Ncfpl	razmera
+,	mte:Z	,
+pa	mte:Cc	pa
+smo	mte:Va-r1p-n	biti
+jih	mte:Pp3mpa--y	on
+preveslali	mte:Vmep-pm	preveslati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+Bohorič	mte:Npmsn	Bohorič
+.	mte:Z	.
+"	mte:Z	"
+Sreča	mte:Ncfsn	sreča
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+dobili	mte:Vmep-pm	dobiti
+takšnega	mte:Pd-msa	takšen
+kandidata	mte:Ncmsay	kandidat
+"	mte:Z	"
+"	mte:Z	"
+Mislim	mte:Vmpr1s	misliti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+dobro	mte:Rgp	dobro
+nadaljeval	mte:Vmpp-sm	nadaljevati
+vodenje	mte:Ncnsa	vodenje
+Save	mte:Npfsg	Sava
+in	mte:Cc	in
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Sava	mte:Npfsn	Sava
+pred	mte:Si	pred
+finančnim	mte:Agpnsi	finančen
+in	mte:Cc	in
+poslovnim	mte:Agpnsi	posloven
+prestrukturiranjem	mte:Ncnsi	prestrukturiranje
+pravzaprav	mte:Q	pravzaprav
+po	mte:Sa	po
+svoje	mte:Px-fsa	svoj
+sreča	mte:Ncfsa	sreča
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+dobili	mte:Vmep-pm	dobiti
+takšnega	mte:Pd-msa	takšen
+kandidata	mte:Ncmsay	kandidat
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+tistimi	mte:Pd-mpi	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+jih	mte:Pp3mpa--y	on
+predlagali	mte:Vmbp-pm	predlagati
+in	mte:Cc	in
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+upam	mte:Vmpr1s	upati
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+vklopil	mte:Vmep-sm	vklopiti
+v	mte:Sa	v
+svoj	mte:Px-msa	svoj
+team	mte:Ncmsan	team
+,	mte:Z	,
+res	mte:Rgp	res
+uspešno	mte:Rgp	uspešno
+lahko	mte:Rgp	lahko
+vodil	mte:Vmpp-sm	voditi
+Savo	mte:Npfsa	Savo
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Bohorič	mte:Npmsn	Bohorič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+sprva	mte:Rgp	sprva
+za	mte:Sa	za
+naslednika	mte:Ncmsay	naslednik
+predlagal	mte:Vmbp-sm	predlagati
+svoja	mte:Px-mda	svoj
+sodelavca	mte:Ncmda	sodelavec
+Antonijo	mte:Npmsay	Antonija
+Pirc	mte:Npmsay	Pirc
+in	mte:Cc	in
+Igorja	mte:Npmsay	Igor
+Hafnerja	mte:Npmsay	Hafner
+.	mte:Z	.
+"	mte:Z	"
+Narat	mte:Npmsn	Narat
+je	mte:Va-r3s-n	biti
+človek	mte:Ncmsn	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+svojo	mte:Px-fsa	svoj
+vizijo	mte:Ncfsa	vizija
+finančne	mte:Agpfsg	finančen
+sanacije	mte:Ncfsg	sanacija
+in	mte:Cc	in
+nadaljnjega	mte:Agpmsg	nadaljnji
+razvoja	mte:Ncmsg	razvoj
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+sodelavci	mte:Ncmpi	sodelavec
+,	mte:Z	,
+ki	mte:Cs	ki
+mu	mte:Pp3msd--y	on
+jih	mte:Pp3mpa--y	on
+bom	mte:Va-f1s-n	biti
+zapustil	mte:Vmep-sm	zapustiti
+v	mte:Sl	v
+Savi	mte:Npfsl	Sava
+,	mte:Z	,
+znal	mte:Vmpp-sm	znati
+uspešno	mte:Rgp	uspešno
+razvijati	mte:Vmpn	razvijati
+in	mte:Cc	in
+uresničiti	mte:Vmen	uresničiti
+,	mte:Z	,
+"	mte:Z	"
+meni	mte:Vmpr3s	meniti
+Bohorič	mte:Npmsn	Bohorič
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+vodenje	mte:Ncnsa	vodenje
+Save	mte:Npfsg	Sava
+svojemu	mte:Px-msd	svoj
+nasledniku	mte:Ncmsd	naslednik
+prepustil	mte:Vmep-sm	prepustiti
+po	mte:Sl	po
+sprejetju	mte:Ncnsl	sprejetje
+letnega	mte:Agpnsg	leten
+poročila	mte:Ncnsg	poročilo
+predvidoma	mte:Rgp	predvidoma
+marca	mte:Ncmsg	marec
+.	mte:Z	.
+Sam	mte:Agpmsnn	sam
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+za	mte:Sa	za
+toliko	mte:Rgp	toliko
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+kot	mte:Cs	kot
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+Narat	mte:Npmsn	Narat
+potreboval	mte:Vmpp-sm	potrebovati
+in	mte:Cc	in
+ne	mte:Q	ne
+za	mte:Sa	za
+dlje	mte:Rgc	dolgo
+kot	mte:Cs	kot
+do	mte:Sg	do
+sredine	mte:Ncfsg	sredina
+julija	mte:Ncmsg	julij
+,	mte:Z	,
+ko	mte:Cs	ko
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+tudi	mte:Q	tudi
+sicer	mte:Q	sicer
+iztekel	mte:Vmep-sm	izteči
+mandat	mte:Ncmsn	mandat
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+postal	mte:Vmep-sm	postati
+njegov	mte:Ps3msnsm	njegov
+svetovalec	mte:Ncmsn	svetovalec

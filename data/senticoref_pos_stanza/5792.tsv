@@ -1,388 +1,421 @@
-token	tag
-Novi	Agpmsny
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-vipavske	Agpfsg
-hranilnice	Ncfsg
-je	Va-r3s-n
-Uroš	Npmsn
-Glavan	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-povezan	Appmsnn
-s	Si
-krogi	Ncmpi
-privatizacijskega	Agpmsg
-mogotca	Ncmsg
-Igorja	Npmsg
-Laha	Npmsg
-Foto	Npmsn
-:	Z
-Aleš	Npmsn
-Beno	Npmsn
-Novi	Agpmsny
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-vipavske	Agpfsg
-hranilnice	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-Kmetijska	Agpfsn
-zadruga	Ncfsn
-Vipava	Npfsn
-prodaja	Vmpr3s
-,	Z
-je	Va-r3s-n
-Uroš	Npmsn
-Glavan	Npmsn
-,	Z
-poroča	Vmpr3s
-Dnevnik	Ncmsn
-.	Z
-Ta	Pd-msn
-je	Va-r3s-n
-do	Sg
-pred	Si
-leti	Ncnpi
-sodeloval	Vmpp-sm
-s	Si
-privatizacijskim	Agpmsi
-mogotcem	Ncmsi
-Igorjem	Npmsi
-Lahom	Npmsi
-(	Z
-na	Sl
-sliki	Ncfsl
-)	Z
-in	Cc
-je	Va-r3s-n
-znan	Appmsnn
-iz	Sg
-poslov	Ncmpg
-z	Si
-Gradbenim	Agpnsi
-podjetjem	Ncnsi
-Grosuplje	Npmsn
-(	Z
-GPG	Npmsn
-)	Z
-.	Z
-Ob	Sl
-tem	Pd-nsl
-so	Va-r3p-n
-se	Px------y
-pojavila	Vmep-pn
-namigovanja	Ncnpn
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-Lah	Npmsn
-in	Cc
-njegovi	Ps3mpnsm
-nekdanji	Agpmpn
-tesni	Agpmpn
-sodelavci	Ncmpn
-zanimali	Vmpp-pm
-za	Sa
-nakup	Ncmsan
-druge	Mlpfsg
-družb	Ncfpg
-v	Sl
-lasti	Ncfsl
-zadruge	Ncfsg
-,	Z
-Agroind	Npmsn
-Vipava	Npfsn
-1894	Mdc
-.	Z
-V	Sl
-Lahovi	Aspfsl
-družbi	Ncfsl
-KS	Agpfsg
-Naložbe	Ncfsg
-so	Va-r3p-n
-vse	Pg-nsa
-zanikali	Vmep-pm
-.	Z
-Agroind	Npmsn
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-v	Sl
-lasti	Ncfsl
-mlekarno	Ncfsa
-in	Cc
-drugo	Mlpfsa
-največjo	Agsfsa
-vinsko	Agpfsa
-klet	Ncfsa
-pri	Sl
-nas	Pp1-pl
-,	Z
-je	Va-r3s-n
-sicer	Q
-v	Sl
-zadnjih	Agpnpl
-letih	Ncnpl
-ustvaril	Vmep-sm
-izgubo	Ncfsa
-,	Z
-vrednost	Ncfsn
-njegovega	Ps3nsgsm
-premoženja	Ncnsg
-pa	Cc
-se	Px------y
-ocenjuje	Vmpr3s
-na	Sa
-dobrih	Agpmpg
-18	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Zamenjana	Appfsn
-tudi	Q
-predstavnika	Ncmsay
-interesov	Ncmpg
-zadruge	Ncfsg
-"	Z
-Nimam	Vmpr1s-y
-nobenih	Pz-fpg
-lastniških	Agpfpg
-ambicij	Ncfpg
-niti	Q
-v	Sl
-Hranilnici	Ncfsl
-in	Cc
-posojilnici	Ncfsl
-Vipava	Npfsn
-niti	Q
-v	Sl
-Agroindu	Npmsl
-,	Z
-"	Z
-je	Va-r3s-n
-včeraj	Rgp
-zagotovil	Vmep-sm
-Glavan	Npmsn
-.	Z
-"	Z
-Zadruga	Ncfsn
-me	Pp1-sa--y
-je	Va-r3s-n
-povabila	Vmep-sf
-v	Sa
-nadzorni	Agpmsay
-svet	Ncmsan
-,	Z
-ker	Cs
-sem	Va-r1s-n
-z	Si
-njimi	Pp3mpi
-že	Q
-sodeloval	Vmpp-sm
-pri	Sl
-nekaterih	Pi-mpl
-drugih	Mlpmpl
-projektih	Ncmpl
-v	Sl
-preteklosti	Ncfsl
-oziroma	Cc
-jim	Pp3mpd--y
-svetoval	Vmbp-sm
-,	Z
-"	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-.	Z
-Vodja	Ncmsn
-Kmetijske	Agpfsg
-zadruge	Ncfsg
-(	Z
-KZ	Npmsn
-)	Z
-Vipava	Npfsn
-,	Z
-Boris	Npmsn
-Bajc	Npmsn
-je	Va-r3s-n
-iz	Sg
-nadzornega	Agpmsg
-sveta	Ncmsg
-odpoklical	Vmep-sm
-Branka	Npmsay
-Košuto	Npmsa
-in	Cc
-Nežko	Npfsa
-Soja	Npmsn
-.	Z
-Po	Sl
-trditvah	Ncfpl
-virov	Ncmpg
-Dnevnika	Ncmsg
-pa	Cc
-si	Px---d--y
-je	Va-r3s-n
-vsaj	Q
-eden	Mlpmsn
-od	Sg
-odstavljenih	Appmpg
-nadzornikov	Ncmpg
-prizadeval	Vmpp-sm
-za	Sa
-prodajo	Ncfsa
-hranilnice	Ncfsg
-po	Sl
-transparentnem	Agpmsl
-postopku	Ncmsl
-,	Z
-morebitnemu	Agpmsd
-predlogu	Ncmsd
-likvidacije	Ncfsg
-pa	Cc
-bi	Va-c
-nasprotoval	Vmpp-sm
-.	Z
-Zamenjal	Vmep-sm
-je	Va-r3s-n
-tudi	Q
-predstavnika	Ncmsay
-interesov	Ncmpg
-zadruge	Ncfsg
-,	Z
-saj	Cc
-bosta	Va-f3d-n
-v	Sl
-nadzornem	Agpmsl
-svetu	Ncmsl
-namesto	Sg
-Borisa	Npmsg
-Perica	Npfsn
-(	Z
-KB	Npmsn
-1909	Mdc
-)	Z
-in	Cc
-Adriana	Npmsn
-Kovačiča	Npmsn
-(	Z
-Zadružna	Agpfsn
-kraška	Agpfsn
-banka	Ncfsn
-)	Z
-zastopala	Vmpp-dm
-samostojni	Agpmsny
-podjetnik	Ncmsn
-Aleš	Npmsn
-Krečič	Npmsn
-,	Z
-sicer	Q
-komitent	Ncmsn
-hranilnice	Ncfsg
-,	Z
-in	Cc
-investicijski	Agpmsny
-menedžer	Ncmsn
-Glavan	Npmsn
-.	Z
-Za	Sa
-večino	Ncfsa
-hranilnice	Ncfsg
-slabih	Agpmpg
-dva	Mlcmdn
-milijona	Ncmdg
-evrov	Ncmpg
-Kot	Cs
-smo	Va-r1p-n
-že	Q
-poročali	Vmpp-pm
-v	Sl
-članku	Ncmsl
-Patriotizem	Ncmsn
-občine	Ncfsg
-žene	Ncfsg
-v	Sa
-boj	Ncmsan
-za	Sa
-svojo	Px-fsa
-banko	Ncfsa
-je	Va-r3s-n
-bilo	Va-p-sn
-več	Rgc
-interesentov	Ncmpg
-za	Sa
-hranilnico	Ncfsa
-,	Z
-njihove	Ps3fpnp
-ponudbe	Ncfpn
-pa	Cc
-bodo	Va-f3p-n
-odpirali	Vmpp-pm
-prihodnji	Agpmsay
-teden	Ncmsan
-.	Z
-Po	Sl
-izvedenih	Appnpl
-pogajanjih	Ncnpl
-pa	Cc
-bi	Va-c
-morali	Vmpp-pm
-do	Sg
-konca	Ncmsg
-avgusta	Ncmsg
-že	Q
-izvedeti	Vmen
-končne	Agpmpa
-rezultate	Ncmpa
-.	Z
-Po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-morebitni	Agpfsl
-likvidaciji	Ncfsl
-hranilnice	Ncfsg
-nasprotuje	Vmpr3s
-Banka	Ncfsn
-Slovenije	Npfsg
-,	Z
-a	Cc
-ji	Pp3fsd--y
-po	Sl
-trditvah	Ncfpl
-naših	Ps1mpgp
-virov	Ncmpg
-ne	Q
-bo	Va-f3s-n
-nasprotovala	Vmpp-sf
-,	Z
-če	Cs
-prodaja	Ncfsn
-ne	Q
-bi	Va-c
-uspela	Vmep-sf
-.	Z
-Ta	Pd-fsn
-pa	Cc
-je	Va-r3s-n
-v	Sl
-Bajčevih	Aspfpl
-rokah	Ncfpl
-,	Z
-ki	Cs
-se	Px------y
-bo	Va-f3s-n
-moral	Vmpp-sm
-odločiti	Vmen
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-sprejel	Vmep-sm
-katero	Pq-fsa
-od	Sg
-ponudb	Ncfpg
-.	Z
+token	tag	lemma
+Novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+vipavske	mte:Agpfsg	vipavski
+hranilnice	mte:Ncfsg	hranilnica
+je	mte:Va-r3s-n	biti
+Uroš	mte:Npmsn	Uroš
+Glavan	mte:Npmsn	Glavan
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+povezan	mte:Appmsnn	povezan
+s	mte:Si	z
+krogi	mte:Ncmpi	krog
+privatizacijskega	mte:Agpmsg	privatizacijski
+mogotca	mte:Ncmsg	mogotec
+Igorja	mte:Npmsg	Igor
+Laha	mte:Npmsg	Laha
+Foto	mte:Npmsn	foto
+:	mte:Z	:
+Aleš	mte:Npmsn	Aleš
+Beno	mte:Npmsn	Beno
+Novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+vipavske	mte:Agpfsg	vipavski
+hranilnice	mte:Ncfsg	hranilnica
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+Kmetijska	mte:Agpfsn	kmetijski
+zadruga	mte:Ncfsn	zadruga
+Vipava	mte:Npfsn	Vipava
+prodaja	mte:Vmpr3s	prodajati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Uroš	mte:Npmsn	Uroš
+Glavan	mte:Npmsn	Glavan
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+Dnevnik	mte:Ncmsn	dnevnik
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+sodeloval	mte:Vmpp-sm	sodelovati
+s	mte:Si	z
+privatizacijskim	mte:Agpmsi	privatizacijski
+mogotcem	mte:Ncmsi	mogotec
+Igorjem	mte:Npmsi	Igor
+Lahom	mte:Npmsi	Lah
+(	mte:Z	(
+na	mte:Sl	na
+sliki	mte:Ncfsl	slika
+)	mte:Z	)
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+znan	mte:Appmsnn	znan
+iz	mte:Sg	iz
+poslov	mte:Ncmpg	posel
+z	mte:Si	z
+Gradbenim	mte:Agpnsi	gradben
+podjetjem	mte:Ncnsi	podjetje
+Grosuplje	mte:Npmsn	Grosuplje
+(	mte:Z	(
+GPG	mte:Npmsn	GPG
+)	mte:Z	)
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pojavila	mte:Vmep-pn	pojaviti
+namigovanja	mte:Ncnpn	namigovanje
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+Lah	mte:Npmsn	Lah
+in	mte:Cc	in
+njegovi	mte:Ps3mpnsm	njegov
+nekdanji	mte:Agpmpn	nekdanji
+tesni	mte:Agpmpn	tesen
+sodelavci	mte:Ncmpn	sodelavec
+zanimali	mte:Vmpp-pm	zanimati
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+druge	mte:Mlpfsg	drug
+družb	mte:Ncfpg	družba
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+zadruge	mte:Ncfsg	zadruga
+,	mte:Z	,
+Agroind	mte:Npmsn	Agroind
+Vipava	mte:Npfsn	Vipava
+1894	mte:Mdc	1894
+.	mte:Z	.
+V	mte:Sl	v
+Lahovi	mte:Aspfsl	Lahov
+družbi	mte:Ncfsl	družba
+KS	mte:Agpfsg	KS
+Naložbe	mte:Ncfsg	naložba
+so	mte:Va-r3p-n	biti
+vse	mte:Pg-nsa	ves
+zanikali	mte:Vmep-pm	zanikati
+.	mte:Z	.
+Agroind	mte:Npmsn	Agroind
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+mlekarno	mte:Ncfsa	mlekarna
+in	mte:Cc	in
+drugo	mte:Mlpfsa	drug
+največjo	mte:Agsfsa	velik
+vinsko	mte:Agpfsa	vinski
+klet	mte:Ncfsa	klet
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+letih	mte:Ncnpl	leto
+ustvaril	mte:Vmep-sm	ustvariti
+izgubo	mte:Ncfsa	izguba
+,	mte:Z	,
+vrednost	mte:Ncfsn	vrednost
+njegovega	mte:Ps3nsgsm	njegov
+premoženja	mte:Ncnsg	premoženje
+pa	mte:Cc	pa
+se	mte:Px------y	se
+ocenjuje	mte:Vmpr3s	ocenjevati
+na	mte:Sa	na
+dobrih	mte:Agpmpg	dober
+18	mte:Mdc	18
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Zamenjana	mte:Appfsn	zamenjan
+tudi	mte:Q	tudi
+predstavnika	mte:Ncmsay	predstavnik
+interesov	mte:Ncmpg	interes
+zadruge	mte:Ncfsg	zadruga
+"	mte:Z	"
+Nimam	mte:Vmpr1s-y	imeti
+nobenih	mte:Pz-fpg	noben
+lastniških	mte:Agpfpg	lastniški
+ambicij	mte:Ncfpg	ambicija
+niti	mte:Q	niti
+v	mte:Sl	v
+Hranilnici	mte:Ncfsl	hranilnica
+in	mte:Cc	in
+posojilnici	mte:Ncfsl	posojilnica
+Vipava	mte:Npfsn	Vipava
+niti	mte:Q	niti
+v	mte:Sl	v
+Agroindu	mte:Npmsl	Agroind
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+zagotovil	mte:Vmep-sm	zagotoviti
+Glavan	mte:Npmsn	Glavan
+.	mte:Z	.
+"	mte:Z	"
+Zadruga	mte:Ncfsn	zadruga
+me	mte:Pp1-sa--y	jaz
+je	mte:Va-r3s-n	biti
+povabila	mte:Vmep-sf	povabiti
+v	mte:Sa	v
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+ker	mte:Cs	ker
+sem	mte:Va-r1s-n	biti
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+že	mte:Q	že
+sodeloval	mte:Vmpp-sm	sodelovati
+pri	mte:Sl	pri
+nekaterih	mte:Pi-mpl	nekateri
+drugih	mte:Mlpmpl	drug
+projektih	mte:Ncmpl	projekt
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+oziroma	mte:Cc	oziroma
+jim	mte:Pp3mpd--y	on
+svetoval	mte:Vmbp-sm	svetovati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+.	mte:Z	.
+Vodja	mte:Ncmsn	vodja
+Kmetijske	mte:Agpfsg	kmetijski
+zadruge	mte:Ncfsg	zadruga
+(	mte:Z	(
+KZ	mte:Npmsn	KZ
+)	mte:Z	)
+Vipava	mte:Npfsn	Vipava
+,	mte:Z	,
+Boris	mte:Npmsn	Boris
+Bajc	mte:Npmsn	Bajc
+je	mte:Va-r3s-n	biti
+iz	mte:Sg	iz
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+odpoklical	mte:Vmep-sm	odpoklicati
+Branka	mte:Npmsay	Branko
+Košuto	mte:Npmsa	Košuto
+in	mte:Cc	in
+Nežko	mte:Npfsa	Nežko
+Soja	mte:Npmsn	So
+.	mte:Z	.
+Po	mte:Sl	po
+trditvah	mte:Ncfpl	trditev
+virov	mte:Ncmpg	vir
+Dnevnika	mte:Ncmsg	dnevnik
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+vsaj	mte:Q	vsaj
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+odstavljenih	mte:Appmpg	odstavljen
+nadzornikov	mte:Ncmpg	nadzornik
+prizadeval	mte:Vmpp-sm	prizadevati
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+hranilnice	mte:Ncfsg	hranilnica
+po	mte:Sl	po
+transparentnem	mte:Agpmsl	transparenten
+postopku	mte:Ncmsl	postopek
+,	mte:Z	,
+morebitnemu	mte:Agpmsd	morebiten
+predlogu	mte:Ncmsd	predlog
+likvidacije	mte:Ncfsg	likvidacija
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+nasprotoval	mte:Vmpp-sm	nasprotovati
+.	mte:Z	.
+Zamenjal	mte:Vmep-sm	zamenjati
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+predstavnika	mte:Ncmsay	predstavnik
+interesov	mte:Ncmpg	interes
+zadruge	mte:Ncfsg	zadruga
+,	mte:Z	,
+saj	mte:Cc	saj
+bosta	mte:Va-f3d-n	biti
+v	mte:Sl	v
+nadzornem	mte:Agpmsl	nadzoren
+svetu	mte:Ncmsl	svet
+namesto	mte:Sg	namesto
+Borisa	mte:Npmsg	Boris
+Perica	mte:Npfsn	Perica
+(	mte:Z	(
+KB	mte:Npmsn	KB
+1909	mte:Mdc	1909
+)	mte:Z	)
+in	mte:Cc	in
+Adriana	mte:Npmsn	Adrian
+Kovačiča	mte:Npmsn	Kovačič
+(	mte:Z	(
+Zadružna	mte:Agpfsn	zadružen
+kraška	mte:Agpfsn	kraški
+banka	mte:Ncfsn	banka
+)	mte:Z	)
+zastopala	mte:Vmpp-dm	zastopati
+samostojni	mte:Agpmsny	samostojen
+podjetnik	mte:Ncmsn	podjetnik
+Aleš	mte:Npmsn	Aleš
+Krečič	mte:Npmsn	Krečič
+,	mte:Z	,
+sicer	mte:Q	sicer
+komitent	mte:Ncmsn	komitent
+hranilnice	mte:Ncfsg	hranilnica
+,	mte:Z	,
+in	mte:Cc	in
+investicijski	mte:Agpmsny	investicijski
+menedžer	mte:Ncmsn	menedžer
+Glavan	mte:Npmsn	Glavan
+.	mte:Z	.
+Za	mte:Sa	za
+večino	mte:Ncfsa	večina
+hranilnice	mte:Ncfsg	hranilnica
+slabih	mte:Agpmpg	slab
+dva	mte:Mlcmdn	dva
+milijona	mte:Ncmdg	milijon
+evrov	mte:Ncmpg	evro
+Kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+poročali	mte:Vmpp-pm	poročati
+v	mte:Sl	v
+članku	mte:Ncmsl	članek
+Patriotizem	mte:Ncmsn	patriotizem
+občine	mte:Ncfsg	občina
+žene	mte:Ncfsg	žena
+v	mte:Sa	v
+boj	mte:Ncmsan	boj
+za	mte:Sa	za
+svojo	mte:Px-fsa	svoj
+banko	mte:Ncfsa	banka
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+več	mte:Rgc	več
+interesentov	mte:Ncmpg	interesent
+za	mte:Sa	za
+hranilnico	mte:Ncfsa	hranilnica
+,	mte:Z	,
+njihove	mte:Ps3fpnp	njihov
+ponudbe	mte:Ncfpn	ponudba
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+odpirali	mte:Vmpp-pm	odpirati
+prihodnji	mte:Agpmsay	prihodnji
+teden	mte:Ncmsan	teden
+.	mte:Z	.
+Po	mte:Sl	po
+izvedenih	mte:Appnpl	izveden
+pogajanjih	mte:Ncnpl	pogajanje
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+avgusta	mte:Ncmsg	avgust
+že	mte:Q	že
+izvedeti	mte:Vmen	izvedeti
+končne	mte:Agpmpa	končen
+rezultate	mte:Ncmpa	rezultat
+.	mte:Z	.
+Po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+morebitni	mte:Agpfsl	morebiten
+likvidaciji	mte:Ncfsl	likvidacija
+hranilnice	mte:Ncfsg	hranilnica
+nasprotuje	mte:Vmpr3s	nasprotovati
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+a	mte:Cc	a
+ji	mte:Pp3fsd--y	on
+po	mte:Sl	po
+trditvah	mte:Ncfpl	trditev
+naših	mte:Ps1mpgp	naš
+virov	mte:Ncmpg	vir
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+nasprotovala	mte:Vmpp-sf	nasprotovati
+,	mte:Z	,
+če	mte:Cs	če
+prodaja	mte:Ncfsn	prodaja
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+uspela	mte:Vmep-sf	uspeti
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Bajčevih	mte:Aspfpl	Bajčev
+rokah	mte:Ncfpl	roka
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+moral	mte:Vmpp-sm	morati
+odločiti	mte:Vmen	odločiti
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+sprejel	mte:Vmep-sm	sprejeti
+katero	mte:Pq-fsa	kateri
+od	mte:Sg	od
+ponudb	mte:Ncfpg	ponudba
+.	mte:Z	.
+V	mte:Sl	v
+zadrugi	mte:Ncfsl	zadruga
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+pričakovali	mte:Vmpp-pm	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+za	mte:Sa	za
+večino	mte:Ncfsa	večina
+hranilnice	mte:Ncfsg	hranilnica
+iztržili	mte:Vmep-pm	iztržiti
+vsaj	mte:Q	vsaj
+2,1	mte:Mdc	2,1
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+primorske	mte:Agpfsg	primorski
+občine	mte:Ncfsg	občina
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+svojo	mte:Px-fsa	svoj
+ponudbo	mte:Ncfsa	ponudba
+po	mte:Sl	po
+izvedbi	mte:Ncfsl	izvedba
+skrbnega	mte:Agpmsg	skrben
+pregleda	mte:Ncmsg	pregled
+oklestili	mte:Vmep-pm	oklestiti
+na	mte:Sa	na
+1,6	mte:Mdc	1,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro

@@ -1,504 +1,525 @@
-token	tag
-Na	Sa
-preiskavo	Ncfsa
-.	Z
-Ker	Cs
-bolnišnica	Ncfsn
-PTA	Ncmsn
--	Z
-aparature	Ncfsg
-nima	Vmpr3s-y
-,	Z
-paciente	Ncmpa
-vozijo	Vmpr3p
-v	Sa
-Ljubljano	Npfsa
-in	Cc
-Novo	Agpfsa
-Gorico	Npfsa
-.	Z
-Je	Va-r3s-n
-naprava	Ncfsn
-ali	Cc
-je	Pp3fsg--y
-ni	Va-r3s-y
-?	Z
-Nejasno	Agpnsn
-.	Z
-Josip	Npmsn
-Smodej	Npmsn
-,	Z
-vršilec	Ncmsn
-dolžnosti	Ncfsg
-strokovnega	Agpmsg
-direktorja	Ncmsg
-SB	Npmsn
-Novo	Agpnsn
-mesto	Ncnsn
-,	Z
-zatrjuje	Vmpr3s
-,	Z
-da	Cs
-pri	Sl
-njih	Pp3mpl
-PTA	Ncmsn
--	Z
-preiskave	Ncfpn
-ne	Q
-opravljajo	Vmpr3p
-,	Z
-ker	Cs
-za	Sa
-to	Pd-nsa
-nimajo	Vmpr3p-y
-ustrezne	Agpfsg
-rentgenske	Agpfsg
-naprave	Ncfsg
-.	Z
-Robert	Npmsn
-Sotler	Npmsn
-,	Z
-zastopnik	Ncmsn
-pacientovih	Aspfpg
-pravic	Ncfpg
-,	Z
-pa	Cc
-pravi	Vmbr3s
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-jo	Pp3fsa--y
-po	Sl
-njegovih	Ps3fplsm
-informacijah	Ncfpl
-imeli	Vmpp-pm
-.	Z
-V	Sl
-predlogih	Ncmpl
-za	Sa
-splošni	Agpmsay
-dogovor	Ncmsan
-za	Sa
-pogodbeno	Agpnsa
-leto	Ncnsa
-2009	Mdc
-Združenja	Ncnsg
-zdravstvenih	Agpmpg
-zavodov	Ncmpg
-Slovenije	Npfsg
-smo	Va-r1p-n
-našli	Vmep-pm
-predlog	Ncmsan
-SB	Ncmsg
-Novo	Agpnsn
-mesto	Ncnsa
-za	Sa
-nujno	Agpfsa
-širitev	Ncfsa
-progama	Ncmsg
-,	Z
-ki	Cs
-se	Px------y
-nanaša	Vmpr3s
-na	Sa
-hibridno	Agpfsa
-tehnologijo	Ncfsa
-PTA	Ncmsg
-.	Z
-V	Sl
-njem	Pp3msl
-pravijo	Vmbr3p
-:	Z
-“	Z
-V	Sl
-bolnišnici	Ncfsl
-smo	Va-r1p-n
-uvedli	Vmep-pm
-PTA	Ncmsan
--	Z
-preiskavo	Ncfsa
-–	Z
-hibridno	Agpfsa
-tehnologijo	Ncfsa
-v	Sl
-operacijski	Agpfsl
-dvorani	Ncfsl
-.	Z
-Preiskavo	Ncfsa
-opravimo	Vmer1p
-ob	Sl
-kakšni	Pq-fsl
-drugi	Mlpfsl
-žilni	Agpfsl
-operaciji	Ncfsl
-.	Z
-Pred	Si
-tem	Pd-msi
-načinom	Ncmsi
-operacije	Ncfsg
-je	Va-r3s-n
-veljajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-pacient	Ncmsn
-po	Sl
-končani	Appfsl
-hospitalizaciji	Ncfsl
-odšel	Vmep-sm
-na	Sa
-PTA	Ncmsan
--	Z
-preiskavo	Ncfsa
-v	Sa
-Klinični	Agpmsay
-center	Ncmsan
-Ljubljana	Npfsn
-.	Z
-”	Z
-Paciente	Ncmpa
-novomeške	Agpfsg
-bolnišnice	Ncfsg
-na	Sa
-PTA	Ncmsan
--	Z
-preiskavo	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-ugotavljajo	Vmpr3p
-prehodnost	Ncfsa
-arterijskega	Agpmsg
-žilja	Ncmsg
-,	Z
-vozijo	Vmpr3p
-z	Si
-reševalnim	Agpnsi
-vozilom	Ncnsi
-,	Z
-in	Cc
-sicer	Q
-v	Sa
-ljubljanski	Agpmsay
-klinični	Agpmsay
-center	Ncmsan
-ali	Cc
-v	Sa
-Splošno	Agpfsa
-Bolnišnico	Ncfsa
-Nova	Agpfsn
-Gorica	Npfsn
-,	Z
-kar	Pr-nsn
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-drago	Agpnsn
-,	Z
-logistično	Rgp
-zahtevno	Agpnsn
-in	Cc
-obremenjujoče	Appnsn
-za	Sa
-paciente	Ncmpa
-.	Z
-“	Z
-Pacienta	Ncmsay
-v	Sl
-Novem	Agpnsl
-mestu	Ncnsl
-pripravijo	Vmer3p
-na	Sa
-poseg	Ncmsan
-,	Z
-potem	Rgp
-pa	Cc
-ga	Pp3msa--y
-odpeljejo	Vmer3p
-v	Sa
-Ljubljano	Npfsa
-ali	Cc
-Novo	Agpfsa
-Gorico	Npfsa
-,	Z
-kjer	Cs
-opravijo	Vmer3p
-preiskavo	Ncfsa
-.	Z
-Pacienta	Ncmsgy
-tam	Rgp
-obdržijo	Vmer3p
-še	Q
-24	Mdc
-ur	Ncfpg
-na	Sl
-opazovanju	Ncnsl
-,	Z
-nato	Rgp
-pa	Cc
-ga	Pp3msa--y
-reševalno	Agpnsn
-vozilo	Ncnsn
-odpelje	Vmer3s
-nazaj	Rgp
-v	Sa
-Novo	Agpnsa
-mesto	Ncnsa
-,	Z
-”	Z
-postopek	Ncmsnn
-opiše	Vmer3s
-Robert	Npmsn
-Sotler	Npmsn
-,	Z
-zastopnik	Ncmsn
-pacientovih	Aspfpg
-pravic	Ncfpg
-.	Z
-Pol	Rgp
-evra	Ncmsg
-za	Sa
-kilometer	Ncmsan
-Da	Cs
-paciente	Ncmpa
-na	Sa
-PTA	Ncmsan
--	Z
-preiskavo	Ncfsa
-vozijo	Vmpr3p
-v	Sa
-Ljubljano	Npfsa
-in	Cc
-Novo	Agpfsa
-Gorico	Npfsa
-,	Z
-nam	Pp1-pd
-je	Va-r3s-n
-potrdila	Vmep-sf
-tudi	Q
-Tatjana	Npfsn
-Mlakar	Npfsn
-,	Z
-direktorica	Ncfsn
-novomeške	Agpfsg
-območne	Agpfsg
-enote	Ncfsg
-zavoda	Ncmsg
-za	Sa
-zdravstveno	Agpnsa
-zavarovanje	Ncnsa
-.	Z
-Kot	Cs
-dodaja	Vmpr3s
-,	Z
-zavod	Ncmsn
-novomeški	Agpfsd
-bolnišnici	Ncfsd
-ne	Q
-plačuje	Vmpr3s
-posebnega	Agpmsg
-programa	Ncmsg
-za	Sa
-preiskave	Ncfpa
-PTA	Ncmsg
-,	Z
-ker	Cs
-je	Va-r3s-n
-ta	Pd-msn
-le	Q
-del	Ncmsn
-storitve	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-sicer	Q
-financirajo	Vmbr3p
-.	Z
-Kilometer	Ncmsn
-prevoza	Ncmsg
-z	Si
-reševalnim	Agpnsi
-vozilom	Ncnsi
-na	Sl
-nenujni	Agpfsl
-vožnji	Ncfsl
-stane	Vmpr3s
-50	Mdc
-centov	Ncmpg
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-stane	Vmpr3s
-en	Mlpmsa
-prevoz	Ncmsan
-pacienta	Ncmsg
-v	Sa
-Novo	Agpfsa
-Gorico	Npfsa
-in	Cc
-nazaj	Rgp
-172	Mdc
-evrov	Ncmpg
-.	Z
-Pri	Sl
-150	Mdc
-pacientih	Ncmpl
-na	Sa
-leto	Ncnsa
-bi	Va-c
-to	Pd-nsa
-zneslo	Vmep-sn
-25.800	Mdc
-evrov	Ncmpg
-.	Z
-S	Si
-1	Mdc
-.	Z
-januarjem	Ncmsi
-2010	Mdc
-pa	Cc
-se	Px------y
-bodo	Va-f3p-n
-prevozi	Ncmpn
-z	Si
-reševalnim	Agpnsi
-vozilom	Ncnsi
-po	Sl
-besedah	Ncfpl
-Mlakarjeve	Aspfsg
-še	Q
-nekoliko	Rgp
-podražili	Vmep-pm
-.	Z
-Sotler	Npmsn
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-bi	Va-c
-aparat	Ncmsan
-,	Z
-katerega	Pq-msg
-cene	Ncfpa
-nam	Pp1-pd
-sicer	Q
-ni	Va-r3s-y
-uspelo	Vmep-sn
-izvedeti	Vmen
-,	Z
-samo	Q
-s	Si
-stroški	Ncmpi
-prevozov	Ncmpg
-lahko	Rgp
-poplačali	Vmep-pm
-že	Q
-v	Sl
-petih	Mlc-pl
-letih	Ncnpl
-.	Z
-Josip	Npmsn
-Smodej	Npmsn
-,	Z
-vršilec	Ncmsn
-dolžnosti	Ncfsg
-strokovnega	Agpmsg
-direktorja	Ncmsg
-Splošne	Agpfsg
-bolnišnice	Ncfsg
-(	Z
-SB	Npmsn
-)	Z
-Novo	Agpnsn
-mesto	Ncnsn
-,	Z
-pravi	Vmbr3s
-,	Z
-da	Cs
-nakup	Ncmsan
-tovrstnega	Agpmsg
-aparata	Ncmsg
-sicer	Q
-načrtujejo	Vmpr3p
-,	Z
-da	Cs
-pa	Cc
-bodo	Va-f3p-n
-morali	Vmpp-pm
-zanj	Pp3msa--b
-zaradi	Sg
-pomanjkanja	Ncnsg
-specialistov	Ncmpg
-na	Sl
-radiološkem	Agpmsl
-oddelku	Ncmsl
-zaposliti	Vmen
-zunanjega	Agpmsa
-sodelavca	Ncmsay
-.	Z
-Zdaj	Rgp
-čakajo	Vmpr3p
-še	Q
-dlje	Rgc
-Informacije	Ncfpa
-o	Sl
-tem	Pd-nsl
-,	Z
-ali	Rgp
-trenutno	Rgp
-paciente	Ncmpa
-še	Q
-prevažajo	Vmpr3p
-na	Sa
-omenjeno	Appfsa
-preiskavo	Ncfsa
-,	Z
-si	Px---d--y
-sicer	Q
-nasprotujejo	Vmpr3p
-.	Z
-Smodej	Npmsn
-pravi	Vmbr3s
-,	Z
-da	Cs
-paciente	Ncmpa
-še	Q
-vozijo	Vmpr3p
-v	Sa
-Novo	Agpfsa
-Gorico	Npfsa
-in	Cc
-Ljubljano	Npfsa
-,	Z
-vir	Ncmsan
-,	Z
-ki	Cs
-ne	Q
-želi	Vmpr3s
-biti	Va-n
-imenovan	Appmsnn
-,	Z
-pa	Cc
-nam	Pp1-pd
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-na	Sa
-leto	Ncnsa
-tako	Rgp
-prepeljali	Vmep-pm
-150	Mdc
-pacientov	Ncmpg
-,	Z
-da	Cs
-pa	Cc
-tega	Pd-nsg
-ne	Q
-počnejo	Vmbr3p
-več	Q
-.	Z
+token	tag	lemma
+Na	mte:Sa	na
+preiskavo	mte:Ncfsa	preiskava
+.	mte:Z	.
+Ker	mte:Cs	ker
+bolnišnica	mte:Ncfsn	bolnišnica
+PTA	mte:Ncmsn	PTA
+-	mte:Z	-
+aparature	mte:Ncfsg	aparatura
+nima	mte:Vmpr3s-y	imeti
+,	mte:Z	,
+paciente	mte:Ncmpa	pacient
+vozijo	mte:Vmpr3p	voziti
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+in	mte:Cc	in
+Novo	mte:Agpfsa	nov
+Gorico	mte:Npfsa	Gorico
+.	mte:Z	.
+Je	mte:Va-r3s-n	biti
+naprava	mte:Ncfsn	naprava
+ali	mte:Cc	ali
+je	mte:Pp3fsg--y	on
+ni	mte:Va-r3s-y	biti
+?	mte:Z	?
+Nejasno	mte:Agpnsn	nejasen
+.	mte:Z	.
+Josip	mte:Npmsn	Josip
+Smodej	mte:Npmsn	Smodej
+,	mte:Z	,
+vršilec	mte:Ncmsn	vršilec
+dolžnosti	mte:Ncfsg	dolžnost
+strokovnega	mte:Agpmsg	strokoven
+direktorja	mte:Ncmsg	direktor
+SB	mte:Npmsn	SB
+Novo	mte:Agpnsn	nov
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+zatrjuje	mte:Vmpr3s	zatrjevati
+,	mte:Z	,
+da	mte:Cs	da
+pri	mte:Sl	pri
+njih	mte:Pp3mpl	on
+PTA	mte:Ncmsn	PTA
+-	mte:Z	-
+preiskave	mte:Ncfpn	preiskava
+ne	mte:Q	ne
+opravljajo	mte:Vmpr3p	opravljati
+,	mte:Z	,
+ker	mte:Cs	ker
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+nimajo	mte:Vmpr3p-y	imeti
+ustrezne	mte:Agpfsg	ustrezen
+rentgenske	mte:Agpfsg	rentgenski
+naprave	mte:Ncfsg	naprava
+.	mte:Z	.
+Robert	mte:Npmsn	Robert
+Sotler	mte:Npmsn	Sotler
+,	mte:Z	,
+zastopnik	mte:Ncmsn	zastopnik
+pacientovih	mte:Aspfpg	pacientov
+pravic	mte:Ncfpg	pravica
+,	mte:Z	,
+pa	mte:Cc	pa
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+jo	mte:Pp3fsa--y	on
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+informacijah	mte:Ncfpl	informacija
+imeli	mte:Vmpp-pm	imeti
+.	mte:Z	.
+V	mte:Sl	v
+predlogih	mte:Ncmpl	predlog
+za	mte:Sa	za
+splošni	mte:Agpmsay	splošen
+dogovor	mte:Ncmsan	dogovor
+za	mte:Sa	za
+pogodbeno	mte:Agpnsa	pogodben
+leto	mte:Ncnsa	leto
+2009	mte:Mdc	2009
+Združenja	mte:Ncnsg	združenje
+zdravstvenih	mte:Agpmpg	zdravstven
+zavodov	mte:Ncmpg	zavodov
+Slovenije	mte:Npfsg	Slovenija
+smo	mte:Va-r1p-n	biti
+našli	mte:Vmep-pm	najti
+predlog	mte:Ncmsan	predlog
+SB	mte:Ncmsg	SB
+Novo	mte:Agpnsn	nov
+mesto	mte:Ncnsa	mesto
+za	mte:Sa	za
+nujno	mte:Agpfsa	nujen
+širitev	mte:Ncfsa	širitev
+progama	mte:Ncmsg	progama
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+nanaša	mte:Vmpr3s	nanašati
+na	mte:Sa	na
+hibridno	mte:Agpfsa	hibriden
+tehnologijo	mte:Ncfsa	tehnologija
+PTA	mte:Ncmsg	PTA
+.	mte:Z	.
+V	mte:Sl	v
+njem	mte:Pp3msl	on
+pravijo	mte:Vmbr3p	praviti
+:	mte:Z	:
+“	mte:Z	“
+V	mte:Sl	v
+bolnišnici	mte:Ncfsl	bolnišnica
+smo	mte:Va-r1p-n	biti
+uvedli	mte:Vmep-pm	uvesti
+PTA	mte:Ncmsan	PTA
+-	mte:Z	-
+preiskavo	mte:Ncfsa	preiskava
+–	mte:Z	–
+hibridno	mte:Agpfsa	hibriden
+tehnologijo	mte:Ncfsa	tehnologija
+v	mte:Sl	v
+operacijski	mte:Agpfsl	operacijski
+dvorani	mte:Ncfsl	dvorana
+.	mte:Z	.
+Preiskavo	mte:Ncfsa	preiskava
+opravimo	mte:Vmer1p	opraviti
+ob	mte:Sl	ob
+kakšni	mte:Pq-fsl	kakšen
+drugi	mte:Mlpfsl	drug
+žilni	mte:Agpfsl	žilen
+operaciji	mte:Ncfsl	operacija
+.	mte:Z	.
+Pred	mte:Si	pred
+tem	mte:Pd-msi	ta
+načinom	mte:Ncmsi	način
+operacije	mte:Ncfsg	operacija
+je	mte:Va-r3s-n	biti
+veljajo	mte:Vmpr3p	veljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+pacient	mte:Ncmsn	pacient
+po	mte:Sl	po
+končani	mte:Appfsl	končan
+hospitalizaciji	mte:Ncfsl	hospitalizacija
+odšel	mte:Vmep-sm	oditi
+na	mte:Sa	na
+PTA	mte:Ncmsan	PTA
+-	mte:Z	-
+preiskavo	mte:Ncfsa	preiskava
+v	mte:Sa	v
+Klinični	mte:Agpmsay	kliničen
+center	mte:Ncmsan	center
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+”	mte:Z	”
+Paciente	mte:Ncmpa	pacient
+novomeške	mte:Agpfsg	novomeški
+bolnišnice	mte:Ncfsg	bolnišnica
+na	mte:Sa	na
+PTA	mte:Ncmsan	PTA
+-	mte:Z	-
+preiskavo	mte:Ncfsa	preiskava
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+ugotavljajo	mte:Vmpr3p	ugotavljati
+prehodnost	mte:Ncfsa	prehodnost
+arterijskega	mte:Agpmsg	arterijski
+žilja	mte:Ncmsg	žilja
+,	mte:Z	,
+vozijo	mte:Vmpr3p	voziti
+z	mte:Si	z
+reševalnim	mte:Agpnsi	reševalen
+vozilom	mte:Ncnsi	vozilo
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sa	v
+ljubljanski	mte:Agpmsay	ljubljanski
+klinični	mte:Agpmsay	kliničen
+center	mte:Ncmsan	center
+ali	mte:Cc	ali
+v	mte:Sa	v
+Splošno	mte:Agpfsa	splošen
+Bolnišnico	mte:Ncfsa	bolnišnica
+Nova	mte:Agpfsn	nov
+Gorica	mte:Npfsn	Gorica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+drago	mte:Agpnsn	drag
+,	mte:Z	,
+logistično	mte:Rgp	logistično
+zahtevno	mte:Agpnsn	zahteven
+in	mte:Cc	in
+obremenjujoče	mte:Appnsn	obremenjujoč
+za	mte:Sa	za
+paciente	mte:Ncmpa	pacient
+.	mte:Z	.
+“	mte:Z	“
+Pacienta	mte:Ncmsay	pacient
+v	mte:Sl	v
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+pripravijo	mte:Vmer3p	pripraviti
+na	mte:Sa	na
+poseg	mte:Ncmsan	poseg
+,	mte:Z	,
+potem	mte:Rgp	potem
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+odpeljejo	mte:Vmer3p	odpeljati
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+ali	mte:Cc	ali
+Novo	mte:Agpfsa	nov
+Gorico	mte:Npfsa	Gorico
+,	mte:Z	,
+kjer	mte:Cs	kjer
+opravijo	mte:Vmer3p	opraviti
+preiskavo	mte:Ncfsa	preiskava
+.	mte:Z	.
+Pacienta	mte:Ncmsgy	pacient
+tam	mte:Rgp	tam
+obdržijo	mte:Vmer3p	obdržati
+še	mte:Q	še
+24	mte:Mdc	24
+ur	mte:Ncfpg	ura
+na	mte:Sl	na
+opazovanju	mte:Ncnsl	opazovanje
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+reševalno	mte:Agpnsn	reševalen
+vozilo	mte:Ncnsn	vozilo
+odpelje	mte:Vmer3s	odpeljati
+nazaj	mte:Rgp	nazaj
+v	mte:Sa	v
+Novo	mte:Agpnsa	nov
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+”	mte:Z	”
+postopek	mte:Ncmsnn	postopek
+opiše	mte:Vmer3s	opisati
+Robert	mte:Npmsn	Robert
+Sotler	mte:Npmsn	Sotler
+,	mte:Z	,
+zastopnik	mte:Ncmsn	zastopnik
+pacientovih	mte:Aspfpg	pacientov
+pravic	mte:Ncfpg	pravica
+.	mte:Z	.
+Pol	mte:Rgp	potem
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+kilometer	mte:Ncmsan	kilometer
+Da	mte:Cs	da
+paciente	mte:Ncmpa	pacient
+na	mte:Sa	na
+PTA	mte:Ncmsan	PTA
+-	mte:Z	-
+preiskavo	mte:Ncfsa	preiskava
+vozijo	mte:Vmpr3p	voziti
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+in	mte:Cc	in
+Novo	mte:Agpfsa	nov
+Gorico	mte:Npfsa	Gorico
+,	mte:Z	,
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+potrdila	mte:Vmep-sf	potrditi
+tudi	mte:Q	tudi
+Tatjana	mte:Npfsn	Tatjana
+Mlakar	mte:Npfsn	Mlakar
+,	mte:Z	,
+direktorica	mte:Ncfsn	direktorica
+novomeške	mte:Agpfsg	novomeški
+območne	mte:Agpfsg	območen
+enote	mte:Ncfsg	enota
+zavoda	mte:Ncmsg	zavod
+za	mte:Sa	za
+zdravstveno	mte:Agpnsa	zdravstven
+zavarovanje	mte:Ncnsa	zavarovanje
+.	mte:Z	.
+Kot	mte:Cs	kot
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+zavod	mte:Ncmsn	zavod
+novomeški	mte:Agpfsd	novomeški
+bolnišnici	mte:Ncfsd	bolnišnica
+ne	mte:Q	ne
+plačuje	mte:Vmpr3s	plačevati
+posebnega	mte:Agpmsg	poseben
+programa	mte:Ncmsg	program
+za	mte:Sa	za
+preiskave	mte:Ncfpa	preiskava
+PTA	mte:Ncmsg	PTA
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+le	mte:Q	le
+del	mte:Ncmsn	del
+storitve	mte:Ncfsg	storitev
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+sicer	mte:Q	sicer
+financirajo	mte:Vmbr3p	financirati
+.	mte:Z	.
+Kilometer	mte:Ncmsn	kilometer
+prevoza	mte:Ncmsg	prevoz
+z	mte:Si	z
+reševalnim	mte:Agpnsi	reševalen
+vozilom	mte:Ncnsi	vozilo
+na	mte:Sl	na
+nenujni	mte:Agpfsl	nenujen
+vožnji	mte:Ncfsl	vožnja
+stane	mte:Vmpr3s	stati
+50	mte:Mdc	50
+centov	mte:Ncmpg	cent
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+stane	mte:Vmpr3s	stati
+en	mte:Mlpmsa	en
+prevoz	mte:Ncmsan	prevoz
+pacienta	mte:Ncmsg	pacient
+v	mte:Sa	v
+Novo	mte:Agpfsa	nov
+Gorico	mte:Npfsa	Gorico
+in	mte:Cc	in
+nazaj	mte:Rgp	nazaj
+172	mte:Mdc	172
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Pri	mte:Sl	pri
+150	mte:Mdc	150
+pacientih	mte:Ncmpl	pacient
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+bi	mte:Va-c	biti
+to	mte:Pd-nsa	ta
+zneslo	mte:Vmep-sn	znesti
+25.800	mte:Mdc	25.800
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+S	mte:Si	z
+1	mte:Mdc	1
+.	mte:Z	.
+januarjem	mte:Ncmsi	januar
+2010	mte:Mdc	2010
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+prevozi	mte:Ncmpn	prevoz
+z	mte:Si	z
+reševalnim	mte:Agpnsi	reševalen
+vozilom	mte:Ncnsi	vozilo
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Mlakarjeve	mte:Aspfsg	Mlakarjev
+še	mte:Q	še
+nekoliko	mte:Rgp	nekoliko
+podražili	mte:Vmep-pm	podražiti
+.	mte:Z	.
+Sotler	mte:Npmsn	Sotler
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+aparat	mte:Ncmsan	aparat
+,	mte:Z	,
+katerega	mte:Pq-msg	kateri
+cene	mte:Ncfpa	cena
+nam	mte:Pp1-pd	jaz
+sicer	mte:Q	sicer
+ni	mte:Va-r3s-y	biti
+uspelo	mte:Vmep-sn	uspeti
+izvedeti	mte:Vmen	izvedeti
+,	mte:Z	,
+samo	mte:Q	samo
+s	mte:Si	z
+stroški	mte:Ncmpi	strošek
+prevozov	mte:Ncmpg	prevoz
+lahko	mte:Rgp	lahko
+poplačali	mte:Vmep-pm	poplačati
+že	mte:Q	že
+v	mte:Sl	v
+petih	mte:Mlc-pl	pet
+letih	mte:Ncnpl	leto
+.	mte:Z	.
+Josip	mte:Npmsn	Josip
+Smodej	mte:Npmsn	Smodej
+,	mte:Z	,
+vršilec	mte:Ncmsn	vršilec
+dolžnosti	mte:Ncfsg	dolžnost
+strokovnega	mte:Agpmsg	strokoven
+direktorja	mte:Ncmsg	direktor
+Splošne	mte:Agpfsg	splošen
+bolnišnice	mte:Ncfsg	bolnišnica
+(	mte:Z	(
+SB	mte:Npmsn	SB
+)	mte:Z	)
+Novo	mte:Agpnsn	nov
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+nakup	mte:Ncmsan	nakup
+tovrstnega	mte:Agpmsg	tovrsten
+aparata	mte:Ncmsg	aparat
+sicer	mte:Q	sicer
+načrtujejo	mte:Vmpr3p	načrtovati
+,	mte:Z	,
+da	mte:Cs	da
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+zanj	mte:Pp3msa--b	zame
+zaradi	mte:Sg	zaradi
+pomanjkanja	mte:Ncnsg	pomanjkanje
+specialistov	mte:Ncmpg	specialist
+na	mte:Sl	na
+radiološkem	mte:Agpmsl	radiološki
+oddelku	mte:Ncmsl	oddelek
+zaposliti	mte:Vmen	zaposliti
+zunanjega	mte:Agpmsa	zunanji
+sodelavca	mte:Ncmsay	sodelavec
+.	mte:Z	.
+Zdaj	mte:Rgp	zdaj
+čakajo	mte:Vmpr3p	čakati
+še	mte:Q	še
+dlje	mte:Rgc	dolgo
+Informacije	mte:Ncfpa	informacija
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+trenutno	mte:Rgp	trenutno
+paciente	mte:Ncmpa	pacient
+še	mte:Q	še
+prevažajo	mte:Vmpr3p	prevažati
+na	mte:Sa	na
+omenjeno	mte:Appfsa	omenjen
+preiskavo	mte:Ncfsa	preiskava
+,	mte:Z	,
+si	mte:Px---d--y	se
+sicer	mte:Q	sicer
+nasprotujejo	mte:Vmpr3p	nasprotovati
+.	mte:Z	.
+Smodej	mte:Npmsn	Smodej
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+paciente	mte:Ncmpa	pacient
+še	mte:Q	še
+vozijo	mte:Vmpr3p	voziti
+v	mte:Sa	v
+Novo	mte:Agpfsa	nov
+Gorico	mte:Npfsa	Gorico
+in	mte:Cc	in
+Ljubljano	mte:Npfsa	Ljubljana
+,	mte:Z	,
+vir	mte:Ncmsan	vir
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+biti	mte:Va-n	biti
+imenovan	mte:Appmsnn	imenovan
+,	mte:Z	,
+pa	mte:Cc	pa
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+tako	mte:Rgp	tako
+prepeljali	mte:Vmep-pm	prepeljati
+150	mte:Mdc	150
+pacientov	mte:Ncmpg	pacient
+,	mte:Z	,
+da	mte:Cs	da
+pa	mte:Cc	pa
+tega	mte:Pd-nsg	ta
+ne	mte:Q	ne
+počnejo	mte:Vmbr3p	početi
+več	mte:Q	več
+.	mte:Z	.
+Novomeški	mte:Agpmpn	novomeški
+pacienti	mte:Ncmpn	pacient
+zdaj	mte:Rgp	zdaj
+čakajo	mte:Vmpr3p	čakati
+na	mte:Sa	na
+vrsto	mte:Ncfsa	vrsta
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+vsemi	mte:Pg-mpi	ves
+drugimi	mte:Mlpmpi	drug
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+zelo	mte:Rgp	zelo
+znižalo	mte:Vmep-sn	znižati
+kakovost	mte:Ncfsa	kakovost
+storitve	mte:Ncfsg	storitev

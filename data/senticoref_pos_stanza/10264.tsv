@@ -1,315 +1,337 @@
-token	tag
-Nogomet	Ncmsn
-.	Z
-Hrvaški	Agpmpn
-igralci	Ncmpn
-po	Sl
-1	Mdc
-.	Z
-juliju	Ncmsl
-ne	Q
-bodo	Va-f3p-n
-imeli	Vmpp-pm
-več	Q
-statusa	Ncmsg
-tujca	Ncmsg
-.	Z
-"	Z
-Po	Sl
-vstopu	Ncmsl
-Hrvaške	Npfsg
-v	Sa
-Evropsko	Agpfsa
-unijo	Ncfsa
-(	Z
-EU	Npfsn
-)	Z
-bodo	Va-f3p-n
-hrvaški	Agpmpn
-državljani	Ncmpn
-,	Z
-ki	Cs
-igrajo	Vmpr3p
-za	Sa
-slovenske	Agpmpa
-športne	Agpmpa
-klube	Ncmpa
-,	Z
-izgubili	Vmep-pm
-status	Ncmsan
-tujca	Ncmsg
-,	Z
-zato	Cc
-se	Px------y
-bomo	Va-f1p-n
-pri	Sl
-iskanju	Ncnsl
-novih	Agpmpg
-igralcev	Ncmpg
-še	Q
-bolj	Rgc
-ozirali	Vmep-pm
-čez	Sa
-mejo	Ncfsa
-,	Z
-"	Z
-napoveduje	Vmpr3s
-Marjan	Npmsn
-Prelog	Npmsn
-,	Z
-športni	Agpmsny
-direktor	Ncmsn
-Nogometnega	Agpmsg
-kluba	Ncmsg
-(	Z
-NK	Npmsn
-)	Z
-Zavrč	Npmsn
-.	Z
-Klub	Ncmsn
-z	Sg
-obmejnega	Agpnsg
-območja	Ncnsg
-bo	Va-f3s-n
-v	Sl
-prihodnji	Agpfsl
-sezoni	Ncfsl
-igral	Vmpp-sm
-v	Sl
-prvi	Mlofsl
-nogometni	Agpfsl
-ligi	Ncfsl
-,	Z
-zato	Cc
-so	Va-r3p-n
-še	Q
-posebno	Rgp
-pozorni	Agpmpn
-na	Sa
-izbor	Ncmsan
-igralcev	Ncmpg
-.	Z
-"	Z
-Lažje	Rgc
-bo	Va-f3s-n
-"	Z
-Ivan	Npmsn
-Brečević	Npmsn
-.	Z
-Član	Ncmsn
-koprskega	Agpmsg
-nogometnega	Agpmsg
-kluba	Ncmsg
-,	Z
-sicer	Q
-pa	Cc
-hrvaški	Agpmsny
-državljan	Ncmsn
-,	Z
-doma	Rgp
-iz	Sg
-Buj	Npfsg
-,	Z
-se	Px------y
-prav	Q
-tako	Rgp
-veseli	Agpmsny
-1	Mdc
-.	Z
-julija	Ncmsg
-.	Z
-"	Z
-Tako	Rgp
-zame	Pp1-sa--b
-kot	Cs
-za	Sa
-klub	Ncmsan
-bo	Va-f3s-n
-poslej	Rgp
-lažje	Agcnsn
-,	Z
-"	Z
-komentira	Vmbr3s
-.	Z
-V	Sl
-FC	Npmsl
-Koper	Npmsn
-so	Va-r3p-n
-imeli	Vmpp-pm
-lani	Rgp
-pet	Mlc-pa
-tujcev	Ncmpg
-,	Z
-a	Cc
-so	Va-r3p-n
-le	Q
-trije	Mlcmpn
-v	Sl
-skladu	Ncmsl
-s	Si
-pravili	Ncnpi
-lahko	Rgp
-igrali	Vmpp-pm
-v	Sl
-enajsterici	Ncfsl
-.	Z
-Brečević	Npmsn
-pričakuje	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-imel	Vmpp-sm
-tudi	Q
-več	Rgc
-možnosti	Ncfpg
-za	Sa
-igranje	Ncnsa
-v	Sl
-tujini	Ncfsl
-.	Z
-Večja	Agcfsn
-ponudba	Ncfsn
-V	Sl
-ekipi	Ncfsl
-NK	Npmsn
-Zavrč	Npmsn
-imajo	Vmpr3p-n
-trenutno	Rgp
-tri	Mlcmpa
-Hrvate	Npmpa
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-bila	Va-p-sf
-tudi	Q
-dosedanja	Agpfsn
-omejitev	Ncfsn
-glede	Sg
-števila	Ncnsg
-tujcev	Ncmpg
-,	Z
-ki	Cs
-lahko	Rgp
-igrajo	Vmpr3p
-za	Sa
-klube	Ncmpa
-v	Sl
-prvi	Mlofsl
-slovenski	Agpfsl
-nogometni	Agpfsl
-ligi	Ncfsl
-.	Z
-"	Z
-S	Si
-1	Mdc
-.	Z
-julijem	Ncmsi
-te	Pd-fsg
-omejitve	Ncfsg
-ne	Q
-bo	Va-f3s-n
-več	Q
-,	Z
-saj	Cc
-bodo	Va-f3p-n
-Hrvati	Npmpn
-državljani	Ncmpn
-EU	Npfsg
-in	Cc
-bodo	Va-f3p-n
-izenačeni	Appmpn
-s	Si
-slovenskimi	Agpmpi
-kolegi	Ncmpi
-,	Z
-"	Z
-pravi	Agpmsny
-sogovornik	Ncmsn
-.	Z
-Pred	Si
-dnevi	Ncmpi
-so	Va-r3p-n
-se	Px------y
-v	Sl
-NK	Npmsl
-Zavrč	Npmsn
-okrepili	Vmep-pm
-tudi	Q
-z	Si
-nekdanjim	Agpmsi
-hrvaškim	Agpmsi
-reprezentantom	Ncmsi
-Nikolo	Npmsi
-Šafarićem	Npmsi
-.	Z
-S	Si
-Hrvati	Npmpi
-bodo	Va-f3p-n
-poskušali	Vmpp-pm
-okrepiti	Vmen
-tudi	Q
-ekipe	Ncfpa
-mlajših	Agcfpg
-kategorij	Ncfpg
-.	Z
-"	Z
-Pričakujem	Vmpr1s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-podobno	Rgp
-ravnali	Vmpp-pm
-tudi	Q
-klubi	Ncmpn
-v	Sl
-nižjih	Agcfpl
-ligah	Ncfpl
-,	Z
-"	Z
-dodaja	Vmpr3s
-Prelog	Npmsn
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-je	Va-r3s-n
-na	Sl
-Hrvaškem	Npnsl
-ponudba	Ncfsn
-dobrih	Agpmpg
-igralcev	Ncmpg
-večja	Agcfsn
-,	Z
-poleg	Sg
-tega	Pd-nsg
-pa	Cc
-sta	Va-r3d-n
-v	Sl
-njihovi	Ps3fslp
-bližini	Ncfsl
-propadla	Vmep-dm
-dva	Mlcmdn
-hrvaška	Agpmdn
-kluba	Ncmdn
-–	Z
-v	Sl
-Varaždinu	Npmsl
-in	Cc
-Čakovcu	Npmsl
-.	Z
-Boljši	Agcmsny
-obisk	Ncmsn
-V	Sl
-klubu	Ncmsl
-si	Px---d--y
-zaradi	Sg
-novih	Agpfpg
-okrepitev	Ncfpg
-v	Sl
-moštvu	Ncnsl
-obetajo	Vmpr3p
-tudi	Q
-boljši	Agcmsay
-obisk	Ncmsan
-tekem	Ncfpg
-.	Z
+token	tag	lemma
+Nogomet	mte:Ncmsn	nogomet
+.	mte:Z	.
+Hrvaški	mte:Agpmpn	hrvaški
+igralci	mte:Ncmpn	igralec
+po	mte:Sl	po
+1	mte:Mdc	1
+.	mte:Z	.
+juliju	mte:Ncmsl	julij
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+več	mte:Q	več
+statusa	mte:Ncmsg	status
+tujca	mte:Ncmsg	tujec
+.	mte:Z	.
+"	mte:Z	"
+Po	mte:Sl	po
+vstopu	mte:Ncmsl	vstop
+Hrvaške	mte:Npfsg	Hrvaška
+v	mte:Sa	v
+Evropsko	mte:Agpfsa	evropski
+unijo	mte:Ncfsa	unija
+(	mte:Z	(
+EU	mte:Npfsn	EU
+)	mte:Z	)
+bodo	mte:Va-f3p-n	biti
+hrvaški	mte:Agpmpn	hrvaški
+državljani	mte:Ncmpn	državljan
+,	mte:Z	,
+ki	mte:Cs	ki
+igrajo	mte:Vmpr3p	igrati
+za	mte:Sa	za
+slovenske	mte:Agpmpa	slovenski
+športne	mte:Agpmpa	športen
+klube	mte:Ncmpa	klub
+,	mte:Z	,
+izgubili	mte:Vmep-pm	izgubiti
+status	mte:Ncmsan	status
+tujca	mte:Ncmsg	tujec
+,	mte:Z	,
+zato	mte:Cc	zato
+se	mte:Px------y	se
+bomo	mte:Va-f1p-n	biti
+pri	mte:Sl	pri
+iskanju	mte:Ncnsl	iskanje
+novih	mte:Agpmpg	nov
+igralcev	mte:Ncmpg	igralec
+še	mte:Q	še
+bolj	mte:Rgc	bolj
+ozirali	mte:Vmep-pm	ozirati
+čez	mte:Sa	čez
+mejo	mte:Ncfsa	meja
+,	mte:Z	,
+"	mte:Z	"
+napoveduje	mte:Vmpr3s	napovedovati
+Marjan	mte:Npmsn	Marjan
+Prelog	mte:Npmsn	Prelog
+,	mte:Z	,
+športni	mte:Agpmsny	športen
+direktor	mte:Ncmsn	direktor
+Nogometnega	mte:Agpmsg	nogometen
+kluba	mte:Ncmsg	klub
+(	mte:Z	(
+NK	mte:Npmsn	NK
+)	mte:Z	)
+Zavrč	mte:Npmsn	Zavrč
+.	mte:Z	.
+Klub	mte:Ncmsn	klub
+z	mte:Sg	z
+obmejnega	mte:Agpnsg	obmejen
+območja	mte:Ncnsg	območje
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+prihodnji	mte:Agpfsl	prihodnji
+sezoni	mte:Ncfsl	sezona
+igral	mte:Vmpp-sm	igrati
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+nogometni	mte:Agpfsl	nogometen
+ligi	mte:Ncfsl	liga
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+posebno	mte:Rgp	posebno
+pozorni	mte:Agpmpn	pozoren
+na	mte:Sa	na
+izbor	mte:Ncmsan	izbor
+igralcev	mte:Ncmpg	igralec
+.	mte:Z	.
+"	mte:Z	"
+Lažje	mte:Rgc	lahko
+bo	mte:Va-f3s-n	biti
+"	mte:Z	"
+Ivan	mte:Npmsn	Ivan
+Brečević	mte:Npmsn	Brečević
+.	mte:Z	.
+Član	mte:Ncmsn	član
+koprskega	mte:Agpmsg	koprski
+nogometnega	mte:Agpmsg	nogometen
+kluba	mte:Ncmsg	klub
+,	mte:Z	,
+sicer	mte:Q	sicer
+pa	mte:Cc	pa
+hrvaški	mte:Agpmsny	hrvaški
+državljan	mte:Ncmsn	državljan
+,	mte:Z	,
+doma	mte:Rgp	doma
+iz	mte:Sg	iz
+Buj	mte:Npfsg	Buj
+,	mte:Z	,
+se	mte:Px------y	se
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+veseli	mte:Agpmsny	vesel
+1	mte:Mdc	1
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+.	mte:Z	.
+"	mte:Z	"
+Tako	mte:Rgp	tako
+zame	mte:Pp1-sa--b	zame
+kot	mte:Cs	kot
+za	mte:Sa	za
+klub	mte:Ncmsan	klub
+bo	mte:Va-f3s-n	biti
+poslej	mte:Rgp	poslej
+lažje	mte:Agcnsn	lahek
+,	mte:Z	,
+"	mte:Z	"
+komentira	mte:Vmbr3s	komentirati
+.	mte:Z	.
+V	mte:Sl	v
+FC	mte:Npmsl	FC
+Koper	mte:Npmsn	Koper
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+lani	mte:Rgp	lani
+pet	mte:Mlc-pa	pet
+tujcev	mte:Ncmpg	tujec
+,	mte:Z	,
+a	mte:Cc	a
+so	mte:Va-r3p-n	biti
+le	mte:Q	le
+trije	mte:Mlcmpn	trije
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+pravili	mte:Ncnpi	pravilo
+lahko	mte:Rgp	lahko
+igrali	mte:Vmpp-pm	igrati
+v	mte:Sl	v
+enajsterici	mte:Ncfsl	enajsterica
+.	mte:Z	.
+Brečević	mte:Npmsn	Brečević
+pričakuje	mte:Vmpr3s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+imel	mte:Vmpp-sm	imeti
+tudi	mte:Q	tudi
+več	mte:Rgc	več
+možnosti	mte:Ncfpg	možnost
+za	mte:Sa	za
+igranje	mte:Ncnsa	igranje
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+.	mte:Z	.
+Večja	mte:Agcfsn	velik
+ponudba	mte:Ncfsn	ponudba
+V	mte:Sl	v
+ekipi	mte:Ncfsl	ekipa
+NK	mte:Npmsn	NK
+Zavrč	mte:Npmsn	Zavrč
+imajo	mte:Vmpr3p-n	imeti
+trenutno	mte:Rgp	trenutno
+tri	mte:Mlcmpa	trije
+Hrvate	mte:Npmpa	Hrvate
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+tudi	mte:Q	tudi
+dosedanja	mte:Agpfsn	dosedanji
+omejitev	mte:Ncfsn	omejitev
+glede	mte:Sg	glede
+števila	mte:Ncnsg	število
+tujcev	mte:Ncmpg	tujec
+,	mte:Z	,
+ki	mte:Cs	ki
+lahko	mte:Rgp	lahko
+igrajo	mte:Vmpr3p	igrati
+za	mte:Sa	za
+klube	mte:Ncmpa	klub
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+slovenski	mte:Agpfsl	slovenski
+nogometni	mte:Agpfsl	nogometen
+ligi	mte:Ncfsl	liga
+.	mte:Z	.
+"	mte:Z	"
+S	mte:Si	z
+1	mte:Mdc	1
+.	mte:Z	.
+julijem	mte:Ncmsi	julij
+te	mte:Pd-fsg	ta
+omejitve	mte:Ncfsg	omejitev
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+več	mte:Q	več
+,	mte:Z	,
+saj	mte:Cc	saj
+bodo	mte:Va-f3p-n	biti
+Hrvati	mte:Npmpn	Hrvat
+državljani	mte:Ncmpn	državljan
+EU	mte:Npfsg	EU
+in	mte:Cc	in
+bodo	mte:Va-f3p-n	biti
+izenačeni	mte:Appmpn	izenačen
+s	mte:Si	z
+slovenskimi	mte:Agpmpi	slovenski
+kolegi	mte:Ncmpi	kolega
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Agpmsny	pravi
+sogovornik	mte:Ncmsn	sogovornik
+.	mte:Z	.
+Pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+NK	mte:Npmsl	NK
+Zavrč	mte:Npmsn	Zavrč
+okrepili	mte:Vmep-pm	okrepiti
+tudi	mte:Q	tudi
+z	mte:Si	z
+nekdanjim	mte:Agpmsi	nekdanji
+hrvaškim	mte:Agpmsi	hrvaški
+reprezentantom	mte:Ncmsi	reprezentant
+Nikolo	mte:Npmsi	Nikolo
+Šafarićem	mte:Npmsi	Šafarić
+.	mte:Z	.
+S	mte:Si	z
+Hrvati	mte:Npmpi	Hrvat
+bodo	mte:Va-f3p-n	biti
+poskušali	mte:Vmpp-pm	poskušati
+okrepiti	mte:Vmen	okrepiti
+tudi	mte:Q	tudi
+ekipe	mte:Ncfpa	ekipa
+mlajših	mte:Agcfpg	mlad
+kategorij	mte:Ncfpg	kategorij
+.	mte:Z	.
+"	mte:Z	"
+Pričakujem	mte:Vmpr1s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+podobno	mte:Rgp	podobno
+ravnali	mte:Vmpp-pm	ravnati
+tudi	mte:Q	tudi
+klubi	mte:Ncmpn	klub
+v	mte:Sl	v
+nižjih	mte:Agcfpl	nizek
+ligah	mte:Ncfpl	liga
+,	mte:Z	,
+"	mte:Z	"
+dodaja	mte:Vmpr3s	dodajati
+Prelog	mte:Npmsn	Prelog
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+ponudba	mte:Ncfsn	ponudba
+dobrih	mte:Agpmpg	dober
+igralcev	mte:Ncmpg	igralec
+večja	mte:Agcfsn	velik
+,	mte:Z	,
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+v	mte:Sl	v
+njihovi	mte:Ps3fslp	njihov
+bližini	mte:Ncfsl	bližina
+propadla	mte:Vmep-dm	propasti
+dva	mte:Mlcmdn	dva
+hrvaška	mte:Agpmdn	hrvaški
+kluba	mte:Ncmdn	klub
+–	mte:Z	–
+v	mte:Sl	v
+Varaždinu	mte:Npmsl	Varaždin
+in	mte:Cc	in
+Čakovcu	mte:Npmsl	Čakovec
+.	mte:Z	.
+Boljši	mte:Agcmsay	dober
+obisk	mte:Ncmsn	obisk
+V	mte:Sl	v
+klubu	mte:Ncmsl	klub
+si	mte:Px---d--y	se
+zaradi	mte:Sg	zaradi
+novih	mte:Agpfpg	nov
+okrepitev	mte:Ncfpg	okrepitev
+v	mte:Sl	v
+moštvu	mte:Ncnsl	moštvo
+obetajo	mte:Vmpr3p	obetati
+tudi	mte:Q	tudi
+boljši	mte:Agcmsay	dober
+obisk	mte:Ncmsan	obisk
+tekem	mte:Ncfpg	tekma
+.	mte:Z	.
+Novi	mte:Agpmpn	nov
+nogometaši	mte:Ncmpn	nogometaš
+bodo	mte:Va-f3p-n	biti
+s	mte:Si	z
+seboj	mte:Px---i	se
+pripeljali	mte:Vmep-pm	pripeljati
+tudi	mte:Q	tudi
+svoje	mte:Px-mpa	svoj
+navijače	mte:Ncmpa	navijač
+,	mte:Z	,
+ob	mte:Sl	ob
+napredovanju	mte:Ncnsl	napredovanje
+kluba	mte:Ncmsg	klub
+v	mte:Sa	v
+višjo	mte:Agcfsa	visok
+ligo	mte:Ncfsa	liga
+pravi	mte:Agpmsny	pravi
+predsednik	mte:Ncmsn	predsednik
+NK	mte:Npmsn	NK
+Zavrč	mte:Npmsn	Zavrč
+Miran	mte:Npmsn	Miran
+Vuk	mte:Npmsn	Vuk

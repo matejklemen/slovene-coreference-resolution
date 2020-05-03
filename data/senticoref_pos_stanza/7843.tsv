@@ -1,640 +1,663 @@
-token	tag
-Gospodarsko	Agpfsa
-sliko	Ncfsa
-kvarijo	Vmpr3p
-Italija	Npfsn
-,	Z
-Španija	Npfsn
-,	Z
-Portugalska	Npfsn
-in	Cc
-Grčija	Npfsn
-Bruto	Npmsn
-domači	Agpmsny
-proizvod	Ncmsn
-se	Px------y
-je	Va-r3s-n
-skrčil	Vmep-sm
-na	Sl
-celotnem	Agpnsl
-območju	Ncnsl
-Evropske	Agpfsg
-unije	Ncfsg
-.	Z
-Če	Cs
-se	Px------y
-bo	Va-f3s-n
-to	Pd-nsn
-nadaljevalo	Vmpp-sn
-,	Z
-bosta	Va-f3d-n
-tako	Pd-nsa
-evrsko	Agpnsa
-območje	Ncnsa
-kot	Cs
-širša	Agcfsn
-Unija	Ncfsn
-znova	Rgp
-pristala	Vmep-sf
-v	Sl
-recesiji	Ncfsl
-.	Z
-V	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-se	Px------y
-je	Va-r3s-n
-v	Sl
-primerjavi	Ncfsl
-s	Si
-predhodnim	Agpnsi
-trimesečjem	Ncnsi
-BDP	Npmsn
-v	Sl
-državah	Ncfpl
-evrskega	Agpnsg
-območja	Ncnsg
-in	Cc
-v	Sl
-celotnem	Agpmsl
-EU	Npmsl
--	Z
-ju	Pp3mda--y
-skrčil	Vmep-sm
-za	Sa
-0,2	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-medletni	Agpfsl
-primerjavi	Ncfsl
-je	Va-r3s-n
-gospodarska	Agpfsn
-dejavnost	Ncfsn
-v	Sl
-evrskem	Agpnsl
-območju	Ncnsl
-upadla	Vmep-sf
-za	Sa
-0,4	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-sedemindvajseterici	Mlofsl
-pa	Cc
-za	Sa
-0,2	Mdc
-odstotka	Ncmsg
-,	Z
-kažejo	Vmpr3p
-podatki	Ncmpn
-evropskega	Agpmsg
-statističnega	Agpmsg
-urada	Ncmsg
-Eurostat	Npmsn
-.	Z
-Če	Cs
-bo	Va-f3s-n
-tudi	Q
-naslednje	Agpmpa
-tri	Mlcmpa
-mesece	Ncmpa
-BDP	Npmsn
-upadal	Vmpp-sm
-,	Z
-bodo	Va-f3p-n
-države	Ncfpn
-znova	Rgp
-v	Sl
-recesiji	Ncfsl
-,	Z
-čemur	Cs
-se	Px------y
-je	Va-r3s-n
-območju	Ncnsd
-skupne	Agpfsg
-valute	Ncfsg
-v	Sl
-zadnjih	Agpmpl
-mesecih	Ncmpl
-kljub	Sd
-drugačnim	Agpfpd
-napovedim	Ncfpd
-uspelo	Vmep-sn
-izogniti	Vmen
-.	Z
-Gospodarsko	Agpfsa
-sliko	Ncfsa
-v	Sl
-območju	Ncnsl
-skupne	Agpfsg
-valute	Ncfsg
-kvarijo	Vmpr3p
-predvsem	Q
-t	Ncmsn
-.	Z
-i	Ncmsn
-.	Z
-ranljive	Agpfpn
-članice	Ncfpn
-,	Z
-kot	Cs
-so	Va-r3p-n
-Italija	Npfsn
-,	Z
-Španija	Npfsn
-,	Z
-Portugalska	Npfsn
-in	Cc
-Grčija	Npfsn
-.	Z
-V	Sl
-Italiji	Npfsl
-je	Va-r3s-n
-v	Sl
-zadnjih	Agpmpl
-treh	Mlcmpl
-mesecih	Ncmpl
-BDP	Npmsn
-upadel	Vmep-sm
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-,	Z
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-gospodarstvo	Ncnsn
-skrčilo	Vmep-sn
-za	Sa
-2,5	Mdc
-odstotka	Ncmsg
-.	Z
-Država	Ncfsn
-je	Va-r3s-n
-vse	Rgp
-globlje	Rgc
-v	Sl
-recesiji	Ncfsl
-.	Z
-Dolgoletne	Agpfpa
-strukturne	Agpfpa
-težave	Ncfpa
-italijanskega	Agpnsg
-gospodarstva	Ncnsg
-tako	Cc
-v	Sl
-teh	Pd-mpl
-težavnih	Agpmpl
-časih	Ncmpl
-prihajajo	Vmpr3p
-do	Sg
-polnega	Agpmsg
-izraza	Ncmsg
-,	Z
-poleg	Sg
-tega	Pd-nsg
-pa	Cc
-na	Sa
-gospodarsko	Agpnsa
-razpoloženje	Ncnsa
-močno	Rgp
-vplivajo	Vmpr3p
-tudi	Q
-strogi	Agpmpn
-varčevalni	Agpmpn
-ukrepi	Ncmpn
-.	Z
-V	Sl
-Španiji	Npfsl
-je	Va-r3s-n
-gospodarska	Agpfsn
-dejavnost	Ncfsn
-v	Sl
-primerjavi	Ncfsl
-s	Si
-prvim	Mlonsi
-trimesečjem	Ncnsi
-upadla	Vmep-sf
-za	Sa
-0,4	Mdc
-odstotka	Ncmsg
-.	Z
-Špansko	Agpnsn
-gospodarstvo	Ncnsn
-se	Px------y
-krči	Vmpr3s
-že	Q
-tretje	Mlonsn
-trimesečje	Ncnsn
-zapored	Rgp
-,	Z
-a	Cc
-je	Va-r3s-n
-kljub	Sd
-visoki	Agpfsd
-brezposelnosti	Ncfsd
-,	Z
-velikim	Agpfpd
-težavam	Ncfpd
-precejšnjega	Agpnsg
-dela	Ncnsg
-bančnega	Agpmsg
-sektorja	Ncmsg
-in	Cc
-strogim	Agpmpd
-varčevalnim	Agpmpd
-ukrepom	Ncmpd
-dinamika	Ncfsn
-upadanja	Ncnsg
-gospodarske	Agpfsg
-dejavnosti	Ncfsg
-manjša	Agcfsn
-kot	Cs
-v	Sl
-finančno	Rgp
-stabilnejši	Agcfsl
-Italiji	Npfsl
-.	Z
-V	Sl
-Grčiji	Npfsl
-se	Px------y
-je	Va-r3s-n
-BDP	Npmsn
-v	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-skrčil	Vmep-sm
-za	Sa
-6,2	Mdc
-odstotka	Ncmsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-sicer	Q
-manj	Rgc
-kot	Cs
-v	Sl
-predhodnih	Agpnpl
-dveh	Mlcndl
-trimesečjih	Ncndl
-,	Z
-a	Cc
-vseeno	Rgp
-kaže	Vmpr3s
-na	Sa
-nadaljevanje	Ncnsa
-gospodarske	Agpfsg
-depresije	Ncfsg
-v	Sl
-tej	Pd-fsl
-prezadolženi	Appfsl
-članici	Ncfsl
-evrskega	Agpnsg
-območja	Ncnsg
-.	Z
-V	Sl
-podobno	Rgp
-težkem	Agpmsl
-gospodarskem	Agpmsl
-položaju	Ncmsl
-je	Va-r3s-n
-še	Q
-ena	Mlpfsn
-prejemnica	Ncfsn
-pomoči	Ncfsg
-evrskega	Agpnsg
-območja	Ncnsg
-in	Cc
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-,	Z
-Portugalska	Npfsn
-.	Z
-V	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-se	Px------y
-je	Va-r3s-n
-portugalsko	Agpnsn
-gospodarstvo	Ncnsn
-skrčilo	Vmep-sn
-za	Sa
-1,2	Mdc
-odstotka	Ncmsg
-,	Z
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-pa	Cc
-za	Sa
-3,3	Mdc
-odstotka	Ncmsg
-.	Z
-Tudi	Q
-Ciper	Npmsn
-kot	Cs
-naslednji	Agpmsny
-prejemnik	Ncmsn
-mednarodne	Agpfsg
-pomoči	Ncfsg
-je	Va-r3s-n
-v	Sl
-velikih	Agpfpl
-gospodarskih	Agpfpl
-težavah	Ncfpl
-,	Z
-ki	Cs
-se	Px------y
-vlečejo	Vmpr3p
-že	Q
-več	Rgc
-četrtletij	Ncfpg
-.	Z
-V	Sl
-drugem	Mlpnsl
-trimesečju	Ncnsl
-se	Px------y
-je	Va-r3s-n
-ciprsko	Agpnsn
-gospodarstvo	Ncnsn
-na	Sl
-četrtletni	Agpfsl
-ravni	Ncfsl
-skrčilo	Vmep-sn
-za	Sa
-0,8	Mdc
-odstotka	Ncmsg
-,	Z
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-pa	Cc
-za	Sa
-2,4	Mdc
-odstotka	Ncmsg
-.	Z
-Francija	Npmsn
-kot	Cs
-drugo	Mlpnsn
-največje	Agsnsn
-gospodarstvo	Ncnsn
-na	Sl
-stari	Agpfsl
-celini	Ncfsl
-že	Q
-drugo	Mlpnsn
-trimesečje	Ncnsn
-zapored	Rgp
-stagnira	Vmpr3s
-,	Z
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-pa	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-rast	Ncfsn
-v	Sl
-drugih	Mlpmpl
-treh	Mlcmpl
-mesecih	Ncmpl
-le	Q
-0,3	Mdc
-odstotka	Ncmsg
-.	Z
-Podatki	Ncmpn
-so	Va-r3p-n
-vseeno	Rgp
-boljši	Agcmpn
-od	Sg
-pričakovanj	Ncnpg
-analitikov	Ncmpg
-.	Z
-Nemčija	Npfsn
-pa	Cc
-se	Px------y
-medtem	Rgp
-še	Q
-naprej	Rgp
-uspešno	Rgp
-upira	Vmpr3s
-težavnemu	Agpmsd
-gospodarskemu	Agpmsd
-položaju	Ncmsd
-v	Sl
-evrskem	Agpnsl
-območju	Ncnsl
-.	Z
-V	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-je	Va-r3s-n
-tako	Rgp
-največje	Agsnsn
-evropsko	Agpnsn
-gospodarstvo	Ncnsn
-na	Sl
-četrtletni	Agpfsl
-ravni	Ncfsl
-zraslo	Vmep-sn
-za	Sa
-0,3	Mdc
-odstotka	Ncmsg
-,	Z
-na	Sl
-letni	Agpfsl
-pa	Cc
-za	Sa
-odstotek	Ncmsan
-.	Z
-Preberite	Vmem2p
-še	Q
-Ničelna	Agpfsn
-rast	Ncfsa
-francoskega	Agpnsg
-gospodarstva	Ncnsg
-Podobno	Agpfsa
-rast	Ncfsa
-ima	Vmpr3s-n
-tudi	Q
-Avstrija	Npfsn
-0,2	Mdc
-odstotka	Ncmsg
-na	Sl
-četrtletni	Agpfsl
-ravni	Ncfsl
-oziroma	Cc
-odstotek	Ncmsn
-na	Sl
-letni	Agpfsl
-,	Z
-manj	Rgc
-spodbudni	Agpmsl
-pa	Cc
-so	Va-r3p-n
-podatki	Ncmpn
-iz	Sg
-Nizozemske	Agpfsg
-in	Cc
-Belgije	Npfsg
-.	Z
-Belgijsko	Agpnsn
-gospodarstvo	Ncnsn
-se	Px------y
-je	Va-r3s-n
-tako	Rgp
-v	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-skrčilo	Vmep-sn
-za	Sa
-0,6	Mdc
-odstotka	Ncmsg
-,	Z
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-pa	Cc
-za	Sa
-0,4	Mdc
-odstotka	Ncmsg
-,	Z
-a	Cc
-še	Q
-ni	Va-r3s-y
-v	Sl
-recesiji	Ncfsl
-.	Z
-Nizozemsko	Agpnsn
-gospodarstvo	Ncnsn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-pobralo	Vmep-sn
-iz	Sg
-recesije	Ncfsg
-,	Z
-a	Cc
-ima	Vmpr3s-n
-še	Q
-naprej	Rgp
-šibko	Agpfsa
-rast	Ncfsa
-.	Z
-Izmed	Sg
-članic	Ncfpg
-EU	Npfsg
--	Z
-ja	Q
-,	Z
-ki	Cs
-nimajo	Vmpr3p-y
-evra	Ncmsg
-,	Z
-najbolje	Rgs
-kaže	Vmpr3s
-Švedski	Npmsn
-,	Z
-saj	Cc
-se	Px------y
-je	Va-r3s-n
-njen	Ps3msnsf
-BDP	Ncmsn
-v	Sl
-zadnjih	Agpmpl
-mesecih	Ncmpl
-okrepil	Vmep-sm
-za	Sa
-1,4	Mdc
-odstotka	Ncmsg
-.	Z
-Še	Q
-globlje	Rgc
-v	Sl
-novi	Agpfsl
-recesiji	Ncfsl
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-znašla	Vmep-sf
-Velika	Agpfsn
-Britanija	Npfsn
-kot	Cs
-največje	Agsnsn
-evropsko	Agpnsn
-gospodarstvo	Ncnsn
-zunaj	Sg
-območja	Ncnsg
-evra	Ncmsg
-.	Z
-Britanski	Agpmsny
-BDP	Npmsn
-se	Px------y
-je	Va-r3s-n
-na	Sl
-četrtletni	Agpfsl
-ravni	Ncfsl
-skrčil	Vmep-sm
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-,	Z
-na	Sl
-letni	Agpfsl
-pa	Cc
-za	Sa
-0,8	Mdc
-odstotka	Ncmsg
-.	Z
-ZDA	Npfpg
-in	Cc
-Japonski	Npfsn
-gre	Vmbr3s
-bolje	Rgc
-V	Sl
-vsakem	Pg-msl
-primeru	Ncmsl
-so	Va-r3p-n
-gospodarske	Agpfpn
-razmere	Ncfpn
-v	Sl
-Uniji	Ncfsl
-slabše	Rgc
-kot	Cs
-v	Sl
-drugih	Mlpfpl
-dveh	Mlcfdl
-najpomembnejših	Agsfdl
-razvitih	Agpfdl
-ekonomijah	Ncfdl
-.	Z
-ZDA	Npfpl
-so	Va-r3p-n
-imele	Vmpp-pf
-namreč	Cc
-po	Sl
-prvih	Mlofpl
-ocenah	Ncfpl
-v	Sl
-drugem	Mlpnsl
-trimesečju	Ncnsl
-0,4	Mdc
--	Z
-odstotno	Agpfsa
-rast	Ncfsa
-,	Z
-ameriški	Agpmsny
-BDP	Ncmsn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-okrepil	Vmep-sm
-za	Sa
-0,5	Mdc
-odstotka	Ncmsg
-.	Z
+token	tag	lemma
+Gospodarsko	mte:Agpfsa	gospodarski
+sliko	mte:Ncfsa	slika
+kvarijo	mte:Vmpr3p	kvariti
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+Španija	mte:Npfsn	Španija
+,	mte:Z	,
+Portugalska	mte:Npfsn	Portugalska
+in	mte:Cc	in
+Grčija	mte:Npfsn	Grčija
+Bruto	mte:Npmsn	Bruto
+domači	mte:Agpmsny	domač
+proizvod	mte:Ncmsn	proizvod
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+skrčil	mte:Vmep-sm	skrčiti
+na	mte:Sl	na
+celotnem	mte:Agpnsl	celoten
+območju	mte:Ncnsl	območje
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+.	mte:Z	.
+Če	mte:Cs	če
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+nadaljevalo	mte:Vmpp-sn	nadaljevati
+,	mte:Z	,
+bosta	mte:Va-f3d-n	biti
+tako	mte:Pd-nsa	tak
+evrsko	mte:Agpnsa	evrski
+območje	mte:Ncnsa	območje
+kot	mte:Cs	kot
+širša	mte:Agcfsn	širok
+Unija	mte:Ncfsn	unija
+znova	mte:Rgp	znova
+pristala	mte:Vmep-sf	pristati
+v	mte:Sl	v
+recesiji	mte:Ncfsl	recesija
+.	mte:Z	.
+V	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+s	mte:Si	z
+predhodnim	mte:Agpnsi	predhoden
+trimesečjem	mte:Ncnsi	trimesečje
+BDP	mte:Npmsn	BDP
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+in	mte:Cc	in
+v	mte:Sl	v
+celotnem	mte:Agpmsl	celoten
+EU	mte:Npmsl	EU
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+skrčil	mte:Vmep-sm	skrčiti
+za	mte:Sa	za
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+medletni	mte:Agpfsl	medleten
+primerjavi	mte:Ncfsl	primerjava
+je	mte:Va-r3s-n	biti
+gospodarska	mte:Agpfsn	gospodarski
+dejavnost	mte:Ncfsn	dejavnost
+v	mte:Sl	v
+evrskem	mte:Agpnsl	evrski
+območju	mte:Ncnsl	območje
+upadla	mte:Vmep-sf	upasti
+za	mte:Sa	za
+0,4	mte:Mdc	0,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+sedemindvajseterici	mte:Mlofsl	sedemindvajseterici
+pa	mte:Cc	pa
+za	mte:Sa	za
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+kažejo	mte:Vmpr3p	kazati
+podatki	mte:Ncmpn	podatek
+evropskega	mte:Agpmsg	evropski
+statističnega	mte:Agpmsg	statističen
+urada	mte:Ncmsg	urad
+Eurostat	mte:Npmsn	Eurostat
+.	mte:Z	.
+Če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+tudi	mte:Q	tudi
+naslednje	mte:Agpmpa	naslednji
+tri	mte:Mlcmpa	trije
+mesece	mte:Ncmpa	mesec
+BDP	mte:Npmsn	BDP
+upadal	mte:Vmpp-sm	upadati
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+države	mte:Ncfpn	država
+znova	mte:Rgp	znova
+v	mte:Sl	v
+recesiji	mte:Ncfsl	recesija
+,	mte:Z	,
+čemur	mte:Cs	čemur
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+območju	mte:Ncnsd	območje
+skupne	mte:Agpfsg	skupen
+valute	mte:Ncfsg	valuta
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+mesecih	mte:Ncmpl	mesec
+kljub	mte:Sd	kljub
+drugačnim	mte:Agpfpd	drugačen
+napovedim	mte:Ncfpd	napoved
+uspelo	mte:Vmep-sn	uspeti
+izogniti	mte:Vmen	izogniti
+.	mte:Z	.
+Gospodarsko	mte:Agpfsa	gospodarski
+sliko	mte:Ncfsa	slika
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+skupne	mte:Agpfsg	skupen
+valute	mte:Ncfsg	valuta
+kvarijo	mte:Vmpr3p	kvariti
+predvsem	mte:Q	predvsem
+t	mte:Ncmsn	t
+.	mte:Z	.
+i	mte:Ncmsn	i
+.	mte:Z	.
+ranljive	mte:Agpfpn	ranljiv
+članice	mte:Ncfpn	članica
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+Španija	mte:Npfsn	Španija
+,	mte:Z	,
+Portugalska	mte:Npfsn	Portugalska
+in	mte:Cc	in
+Grčija	mte:Npfsn	Grčija
+.	mte:Z	.
+V	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+treh	mte:Mlcmpl	trije
+mesecih	mte:Ncmpl	mesec
+BDP	mte:Npmsn	BDP
+upadel	mte:Vmep-sm	upasti
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+gospodarstvo	mte:Ncnsn	gospodarstvo
+skrčilo	mte:Vmep-sn	skrčiti
+za	mte:Sa	za
+2,5	mte:Mdc	2,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Država	mte:Ncfsn	država
+je	mte:Va-r3s-n	biti
+vse	mte:Rgp	vse
+globlje	mte:Rgc	globoko
+v	mte:Sl	v
+recesiji	mte:Ncfsl	recesija
+.	mte:Z	.
+Dolgoletne	mte:Agpfpa	dolgoleten
+strukturne	mte:Agpfpa	strukturen
+težave	mte:Ncfpa	težava
+italijanskega	mte:Agpnsg	italijanski
+gospodarstva	mte:Ncnsg	gospodarstvo
+tako	mte:Cc	tako
+v	mte:Sl	v
+teh	mte:Pd-mpl	ta
+težavnih	mte:Agpmpl	težaven
+časih	mte:Ncmpl	čas
+prihajajo	mte:Vmpr3p	prihajati
+do	mte:Sg	do
+polnega	mte:Agpmsg	poln
+izraza	mte:Ncmsg	izraz
+,	mte:Z	,
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+na	mte:Sa	na
+gospodarsko	mte:Agpnsa	gospodarski
+razpoloženje	mte:Ncnsa	razpoloženje
+močno	mte:Rgp	močno
+vplivajo	mte:Vmpr3p	vplivati
+tudi	mte:Q	tudi
+strogi	mte:Agpmpn	strog
+varčevalni	mte:Agpmpn	varčevalen
+ukrepi	mte:Ncmpn	ukrep
+.	mte:Z	.
+V	mte:Sl	v
+Španiji	mte:Npfsl	Španija
+je	mte:Va-r3s-n	biti
+gospodarska	mte:Agpfsn	gospodarski
+dejavnost	mte:Ncfsn	dejavnost
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+s	mte:Si	z
+prvim	mte:Mlonsi	prvi
+trimesečjem	mte:Ncnsi	trimesečje
+upadla	mte:Vmep-sf	upasti
+za	mte:Sa	za
+0,4	mte:Mdc	0,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Špansko	mte:Agpnsn	španski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+se	mte:Px------y	se
+krči	mte:Vmpr3s	krčiti
+že	mte:Q	že
+tretje	mte:Mlonsn	tretji
+trimesečje	mte:Ncnsn	trimesečje
+zapored	mte:Rgp	zapored
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+kljub	mte:Sd	kljub
+visoki	mte:Agpfsd	visok
+brezposelnosti	mte:Ncfsd	brezposelnost
+,	mte:Z	,
+velikim	mte:Agpfpd	velik
+težavam	mte:Ncfpd	težava
+precejšnjega	mte:Agpnsg	precejšnji
+dela	mte:Ncnsg	delo
+bančnega	mte:Agpmsg	bančen
+sektorja	mte:Ncmsg	sektor
+in	mte:Cc	in
+strogim	mte:Agpmpd	strog
+varčevalnim	mte:Agpmpd	varčevalen
+ukrepom	mte:Ncmpd	ukrep
+dinamika	mte:Ncfsn	dinamik
+upadanja	mte:Ncnsg	upadanje
+gospodarske	mte:Agpfsg	gospodarski
+dejavnosti	mte:Ncfsg	dejavnost
+manjša	mte:Agcfsn	majhen
+kot	mte:Cs	kot
+v	mte:Sl	v
+finančno	mte:Rgp	finančen
+stabilnejši	mte:Agcfsl	stabilen
+Italiji	mte:Npfsl	Italija
+.	mte:Z	.
+V	mte:Sl	v
+Grčiji	mte:Npfsl	Grčija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+BDP	mte:Npmsn	BDP
+v	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+skrčil	mte:Vmep-sm	skrčiti
+za	mte:Sa	za
+6,2	mte:Mdc	6,2
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+v	mte:Sl	v
+predhodnih	mte:Agpnpl	predhoden
+dveh	mte:Mlcndl	dva
+trimesečjih	mte:Ncndl	trimesečje
+,	mte:Z	,
+a	mte:Cc	a
+vseeno	mte:Rgp	vseeno
+kaže	mte:Vmpr3s	kazati
+na	mte:Sa	na
+nadaljevanje	mte:Ncnsa	nadaljevanje
+gospodarske	mte:Agpfsg	gospodarski
+depresije	mte:Ncfsg	depresija
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+prezadolženi	mte:Appfsl	prezadolžen
+članici	mte:Ncfsl	članica
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+.	mte:Z	.
+V	mte:Sl	v
+podobno	mte:Rgp	podobno
+težkem	mte:Agpmsl	težek
+gospodarskem	mte:Agpmsl	gospodarski
+položaju	mte:Ncmsl	položaj
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+ena	mte:Mlpfsn	en
+prejemnica	mte:Ncfsn	prejemnica
+pomoči	mte:Ncfsg	pomoč
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+in	mte:Cc	in
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+,	mte:Z	,
+Portugalska	mte:Npfsn	Portugalska
+.	mte:Z	.
+V	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+portugalsko	mte:Agpnsn	portugalski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+skrčilo	mte:Vmep-sn	skrčiti
+za	mte:Sa	za
+1,2	mte:Mdc	1,2
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+pa	mte:Cc	pa
+za	mte:Sa	za
+3,3	mte:Mdc	3,3
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Tudi	mte:Q	tudi
+Ciper	mte:Npmsn	Ciper
+kot	mte:Cs	kot
+naslednji	mte:Agpmsny	naslednji
+prejemnik	mte:Ncmsn	prejemnik
+mednarodne	mte:Agpfsg	mednaroden
+pomoči	mte:Ncfsg	pomoč
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+velikih	mte:Agpfpl	velik
+gospodarskih	mte:Agpfpl	gospodarski
+težavah	mte:Ncfpl	težava
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+vlečejo	mte:Vmpr3p	vleči
+že	mte:Q	že
+več	mte:Rgc	več
+četrtletij	mte:Ncfpg	četrtletje
+.	mte:Z	.
+V	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+trimesečju	mte:Ncnsl	trimesečje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ciprsko	mte:Agpnsn	ciprski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+na	mte:Sl	na
+četrtletni	mte:Agpfsl	četrtleten
+ravni	mte:Ncfsl	raven
+skrčilo	mte:Vmep-sn	skrčiti
+za	mte:Sa	za
+0,8	mte:Mdc	0,8
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+pa	mte:Cc	pa
+za	mte:Sa	za
+2,4	mte:Mdc	2,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Francija	mte:Npmsn	Francija
+kot	mte:Cs	kot
+drugo	mte:Mlpnsn	drug
+največje	mte:Agsnsn	velik
+gospodarstvo	mte:Ncnsn	gospodarstvo
+na	mte:Sl	na
+stari	mte:Agpfsl	star
+celini	mte:Ncfsl	celina
+že	mte:Q	že
+drugo	mte:Mlpnsn	drug
+trimesečje	mte:Ncnsn	trimesečje
+zapored	mte:Rgp	zapored
+stagnira	mte:Vmpr3s	stagnirati
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+rast	mte:Ncfsn	rast
+v	mte:Sl	v
+drugih	mte:Mlpmpl	drug
+treh	mte:Mlcmpl	trije
+mesecih	mte:Ncmpl	mesec
+le	mte:Q	le
+0,3	mte:Mdc	0,3
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Podatki	mte:Ncmpn	podatek
+so	mte:Va-r3p-n	biti
+vseeno	mte:Rgp	vseeno
+boljši	mte:Agcmpn	dober
+od	mte:Sg	od
+pričakovanj	mte:Ncnpg	pričakovanje
+analitikov	mte:Ncmpg	analitik
+.	mte:Z	.
+Nemčija	mte:Npfsn	Nemčija
+pa	mte:Cc	pa
+se	mte:Px------y	se
+medtem	mte:Rgp	medtem
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+uspešno	mte:Rgp	uspešno
+upira	mte:Vmpr3s	upirati
+težavnemu	mte:Agpmsd	težaven
+gospodarskemu	mte:Agpmsd	gospodarski
+položaju	mte:Ncmsd	položaj
+v	mte:Sl	v
+evrskem	mte:Agpnsl	evrski
+območju	mte:Ncnsl	območje
+.	mte:Z	.
+V	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+največje	mte:Agsnsn	velik
+evropsko	mte:Agpnsn	evropski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+na	mte:Sl	na
+četrtletni	mte:Agpfsl	četrtleten
+ravni	mte:Ncfsl	raven
+zraslo	mte:Vmep-sn	zrasti
+za	mte:Sa	za
+0,3	mte:Mdc	0,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+pa	mte:Cc	pa
+za	mte:Sa	za
+odstotek	mte:Ncmsan	odstotek
+.	mte:Z	.
+Preberite	mte:Vmem2p	prebrati
+še	mte:Q	še
+Ničelna	mte:Agpfsn	ničelen
+rast	mte:Ncfsa	rast
+francoskega	mte:Agpnsg	francoski
+gospodarstva	mte:Ncnsg	gospodarstvo
+Podobno	mte:Agpfsa	podoben
+rast	mte:Ncfsa	rast
+ima	mte:Vmpr3s-n	imeti
+tudi	mte:Q	tudi
+Avstrija	mte:Npfsn	Avstrija
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sl	na
+četrtletni	mte:Agpfsl	četrtleten
+ravni	mte:Ncfsl	raven
+oziroma	mte:Cc	oziroma
+odstotek	mte:Ncmsn	odstotek
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+,	mte:Z	,
+manj	mte:Rgc	manj
+spodbudni	mte:Agpmsl	spodbuden
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+podatki	mte:Ncmpn	podatek
+iz	mte:Sg	iz
+Nizozemske	mte:Agpfsg	nizozemski
+in	mte:Cc	in
+Belgije	mte:Npfsg	Belgija
+.	mte:Z	.
+Belgijsko	mte:Agpnsn	belgijski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+v	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+skrčilo	mte:Vmep-sn	skrčiti
+za	mte:Sa	za
+0,6	mte:Mdc	0,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+pa	mte:Cc	pa
+za	mte:Sa	za
+0,4	mte:Mdc	0,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+a	mte:Cc	a
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+v	mte:Sl	v
+recesiji	mte:Ncfsl	recesija
+.	mte:Z	.
+Nizozemsko	mte:Agpnsn	nizozemski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pobralo	mte:Vmep-sn	pobrati
+iz	mte:Sg	iz
+recesije	mte:Ncfsg	recesija
+,	mte:Z	,
+a	mte:Cc	a
+ima	mte:Vmpr3s-n	imeti
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+šibko	mte:Agpfsa	šibek
+rast	mte:Ncfsa	rast
+.	mte:Z	.
+Izmed	mte:Sg	izmed
+članic	mte:Ncfpg	članica
+EU	mte:Npfsg	EU
+-	mte:Z	-
+ja	mte:Q	ja
+,	mte:Z	,
+ki	mte:Cs	ki
+nimajo	mte:Vmpr3p-y	imeti
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+najbolje	mte:Rgs	dobro
+kaže	mte:Vmpr3s	kazati
+Švedski	mte:Npmsn	Švedska
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+njen	mte:Ps3msnsf	njen
+BDP	mte:Ncmsn	BDP
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+mesecih	mte:Ncmpl	mesec
+okrepil	mte:Vmep-sm	okrepiti
+za	mte:Sa	za
+1,4	mte:Mdc	1,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Še	mte:Q	še
+globlje	mte:Rgc	globoko
+v	mte:Sl	v
+novi	mte:Agpfsl	nov
+recesiji	mte:Ncfsl	recesija
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+znašla	mte:Vmep-sf	znajti
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+kot	mte:Cs	kot
+največje	mte:Agsnsn	velik
+evropsko	mte:Agpnsn	evropski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+zunaj	mte:Sg	zunaj
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Britanski	mte:Agpmsny	britanski
+BDP	mte:Npmsn	BDP
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+četrtletni	mte:Agpfsl	četrtleten
+ravni	mte:Ncfsl	raven
+skrčil	mte:Vmep-sm	skrčiti
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+pa	mte:Cc	pa
+za	mte:Sa	za
+0,8	mte:Mdc	0,8
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+ZDA	mte:Npfpg	ZDA
+in	mte:Cc	in
+Japonski	mte:Npfsn	Japonska
+gre	mte:Vmbr3s	iti
+bolje	mte:Rgc	dobro
+V	mte:Sl	v
+vsakem	mte:Pg-msl	vsak
+primeru	mte:Ncmsl	primer
+so	mte:Va-r3p-n	biti
+gospodarske	mte:Agpfpn	gospodarski
+razmere	mte:Ncfpn	razmera
+v	mte:Sl	v
+Uniji	mte:Ncfsl	unija
+slabše	mte:Rgc	slabo
+kot	mte:Cs	kot
+v	mte:Sl	v
+drugih	mte:Mlpfpl	drug
+dveh	mte:Mlcfdl	dva
+najpomembnejših	mte:Agsfdl	pomemben
+razvitih	mte:Agpfdl	razvit
+ekonomijah	mte:Ncfdl	ekonomija
+.	mte:Z	.
+ZDA	mte:Npfpl	ZDA
+so	mte:Va-r3p-n	biti
+imele	mte:Vmpp-pf	imeti
+namreč	mte:Cc	namreč
+po	mte:Sl	po
+prvih	mte:Mlofpl	prvi
+ocenah	mte:Ncfpl	ocena
+v	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+trimesečju	mte:Ncnsl	trimesečje
+0,4	mte:Mdc	0,4
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+rast	mte:Ncfsa	rast
+,	mte:Z	,
+ameriški	mte:Agpmsny	ameriški
+BDP	mte:Ncmsn	BDP
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+okrepil	mte:Vmep-sm	okrepiti
+za	mte:Sa	za
+0,5	mte:Mdc	0,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+je	mte:Va-r3s-n	biti
+medtem	mte:Rgp	medtem
+gospodarska	mte:Agpfsn	gospodarski
+rast	mte:Ncfsn	rast
+na	mte:Sl	na
+četrtletni	mte:Agpfsl	četrtleten
+ravni	mte:Ncfsl	raven
+znašala	mte:Vmpp-sf	znašati
+0,3	mte:Mdc	0,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+predhodnih	mte:Agpmpl	predhoden
+treh	mte:Mlcmpl	trije
+mesecih	mte:Ncmpl	mesec
+dosegla	mte:Vmep-sf	doseči
+1,3	mte:Mdc	1,3
+odstotka	mte:Ncmsg	odstotek

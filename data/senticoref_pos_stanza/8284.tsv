@@ -1,282 +1,305 @@
-token	tag
-Poslanec	Ncmsn
-SDS	Npmsg
-Branko	Npmsn
-Grims	Npmsn
-je	Va-r3s-n
-četrtkove	Aspfsg
-trditve	Ncfpa
-poslanca	Ncmsg
-SD	Npmsg
-Dušana	Npmsg
-Kumra	Npmsg
-,	Z
-da	Cs
-je	Va-r3s-n
-Grims	Npmsn
-sodeloval	Vmpp-sm
-pri	Sl
-odstavitvi	Ncfsl
-urednika	Ncmsg
-Studia	Npmsg
-ob	Sl
-sedemnajstih	Mlompl
-Sandija	Npmsg
-Freliha	Npmsg
-,	Z
-označil	Vmep-sm
-za	Sa
-neresnične	Agpmpa
-.	Z
-Grims	Npmsn
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-prav	Q
-Kumrove	Aspfpn
-izjave	Ncfpn
-"	Z
-razgaljajo	Vmer3p
-sistem	Ncmsan
-dejanskih	Agpmpg
-političnih	Agpmpg
-pritiskov	Ncmpg
-na	Sl
-RTV	Npfsl
-Slovenija	Npfsn
-"	Z
-.	Z
-Poslanec	Ncmsn
-SDS	Npmsn
-zagotavlja	Vmpr3s
-,	Z
-da	Cs
-z	Si
-direktorjem	Ncmsi
-Radia	Npmsg
-Slovenija	Npfsn
-Vinkom	Npmsi
-Vasletom	Npmsi
-v	Sl
-zadnjih	Agpmpl
-dneh	Ncmpl
-ni	Va-r3s-y
-govoril	Vmpp-sm
-niti	Q
-enkrat	Rgp
-.	Z
-"	Z
-Kumer	Npmsn
-dobro	Rgp
-ve	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-govoril	Vmpp-sm
-neresnico	Ncfsa
-.	Z
-Jaz	Pp1-sn
-vem	Vmpr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-govoril	Vmpp-sm
-neresnico	Ncfsa
-,	Z
-in	Cc
-vsi	Pg-mpn
-,	Z
-ki	Cs
-poročajo	Vmpr3p
-o	Sl
-tem	Pd-nsl
-,	Z
-vedo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-govoril	Vmpp-sm
-neresnico	Ncfsa
-.	Z
-"	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-še	Q
-,	Z
-da	Cs
-"	Z
-besede	Ncfpn
-poslanca	Ncmsg
-iz	Sg
-vrst	Ncfpg
-Socialnih	Agpmpg
-demokratov	Ncmpg
-potrjujejo	Vmpr3p
-misel	Ncfsa
-,	Z
-da	Cs
-se	Px------y
-za	Si
-lepim	Agpmsi
-nasmehom	Ncmsi
-skriva	Vmpr3s
-grd	Agpmsnn
-obraz	Ncmsn
-"	Z
-.	Z
-Kumer	Npmsn
-je	Va-r3s-n
-v	Sa
-četrtek	Ncmsan
-na	Sl
-seji	Ncfsl
-državnega	Agpmsg
-zbora	Ncmsg
-dejal	Vmep-sm
-:	Z
-"	Z
-Na	Sa
-pritisk	Ncmsan
-in	Cc
-grožnjo	Ncfsa
-poslanca	Ncmsg
-največje	Agsfsg
-poslanske	Agpfsg
-stranke	Ncfsg
-SDS	Npmsg
-,	Z
-gospoda	Ncmsg
-Grimsa	Npmsg
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-včeraj	Rgp
-odstavljen	Appmsnn
-z	Sg
-mesta	Ncnsg
-urednika	Ncmsg
-Studia	Npmsg
-ob	Sl
-sedemnajstih	Mlompl
-novinar	Ncmsn
-Sandi	Npmsn
-Frelih	Npmsn
-.	Z
-To	Pd-nsn
-so	Va-r3p-n
-konkretni	Agpmpn
-primeri	Ncmpn
-,	Z
-ki	Cs
-se	Px------y
-zdaj	Rgp
-dogajajo	Vmpr3p
-,	Z
-tako	Cc
-da	Cs
-ni	Va-r3s-y
-treba	Rgp
-nazaj	Rgp
-govoriti	Vmpn
-o	Sl
-primerih	Ncmpl
-.	Z
-Lahko	Rgp
-,	Z
-ker	Cs
-so	Va-r3p-n
-evidentirani	Appmpn
-.	Z
-"	Z
-RTV	Npmsn
-bo	Va-f3s-n
-tožil	Vmpp-sm
-tako	Rgp
-Kumra	Npmsn
-kot	Cs
-Zgago	Ncfsa
-Tudi	Q
-direktor	Ncmsn
-Radia	Npmsg
-Slovenija	Npfsn
-Vinko	Npmsn
-Vasle	Npmsn
-se	Px------y
-je	Va-r3s-n
-ostro	Rgp
-odzval	Vmep-sm
-na	Sa
-Kumrove	Aspfpa
-besede	Ncfpa
-in	Cc
-ga	Pp3msa--y
-pozval	Vmep-sm
-,	Z
-naj	Cs
-predloži	Vmer3s
-dokaze	Ncmpa
-za	Sa
-svoje	Px-fpa
-trditve	Ncfpa
-.	Z
-Obenem	Rgp
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-kadrovske	Agpfpn
-in	Cc
-programske	Agpfpn
-politike	Ncfpn
-na	Sl
-Radiu	Ncmsl
-Slovenija	Npfsn
-ne	Q
-ureja	Vmpr3s
-ne	Q
-Branko	Npmsn
-Grims	Npmsn
-ne	Q
-kdo	Pq-msn
-drug	Mlpmsnn
-.	Z
-Vasle	Npmsn
-je	Va-r3s-n
-zatrdil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-pripravljen	Appmsnn
-takoj	Rgp
-odstopiti	Vmen
-z	Sg
-mesta	Ncnsg
-direktorja	Ncmsg
-Radia	Npmsg
-Slovenija	Npfsn
-,	Z
-če	Cs
-bo	Va-f3s-n
-Kumer	Npmsn
-svoje	Px-fpa
-trditve	Ncfpa
-dokazal	Vmep-sm
-.	Z
-RTV	Npfsn
-Slovenija	Npfsn
-se	Px------y
-je	Va-r3s-n
-sicer	Q
-odločila	Vmep-sf
-tožiti	Vmpn
-Kumra	Npmsay
-in	Cc
-novinarja	Ncmsay
-Večera	Ncmsg
-Blaža	Npmsgy
-Zgago	Npmsa
-zaradi	Sg
-njunih	Ps3fpgp
-izjav	Ncfpg
-.	Z
+token	tag	lemma
+Poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsg	SDS
+Branko	mte:Npmsn	Branko
+Grims	mte:Npmsn	Grims
+je	mte:Va-r3s-n	biti
+četrtkove	mte:Aspfsg	četrtkov
+trditve	mte:Ncfpa	trditev
+poslanca	mte:Ncmsg	poslanec
+SD	mte:Npmsg	SD
+Dušana	mte:Npmsg	Dušan
+Kumra	mte:Npmsg	Kumer
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Grims	mte:Npmsn	Grims
+sodeloval	mte:Vmpp-sm	sodelovati
+pri	mte:Sl	pri
+odstavitvi	mte:Ncfsl	odstavitev
+urednika	mte:Ncmsg	urednik
+Studia	mte:Npmsg	Studia
+ob	mte:Sl	ob
+sedemnajstih	mte:Mlompl	sedemnajsti
+Sandija	mte:Npmsg	Sandija
+Freliha	mte:Npmsg	Frelih
+,	mte:Z	,
+označil	mte:Vmep-sm	označiti
+za	mte:Sa	za
+neresnične	mte:Agpmpa	neresničen
+.	mte:Z	.
+Grims	mte:Npmsn	Grims
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+prav	mte:Q	prav
+Kumrove	mte:Aspfpn	Kumrov
+izjave	mte:Ncfpn	izjava
+"	mte:Z	"
+razgaljajo	mte:Vmer3p	razgaljati
+sistem	mte:Ncmsan	sistem
+dejanskih	mte:Agpmpg	dejanski
+političnih	mte:Agpmpg	političen
+pritiskov	mte:Ncmpg	pritisk
+na	mte:Sl	na
+RTV	mte:Npfsl	RTV
+Slovenija	mte:Npfsn	Slovenija
+"	mte:Z	"
+.	mte:Z	.
+Poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsn	SDS
+zagotavlja	mte:Vmpr3s	zagotavljati
+,	mte:Z	,
+da	mte:Cs	da
+z	mte:Si	z
+direktorjem	mte:Ncmsi	direktor
+Radia	mte:Npmsg	Radia
+Slovenija	mte:Npfsn	Slovenija
+Vinkom	mte:Npmsi	Vinkom
+Vasletom	mte:Npmsi	Vasle
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+dneh	mte:Ncmpl	dan
+ni	mte:Va-r3s-y	biti
+govoril	mte:Vmpp-sm	govoriti
+niti	mte:Q	niti
+enkrat	mte:Rgp	enkrat
+.	mte:Z	.
+"	mte:Z	"
+Kumer	mte:Npmsn	Kumer
+dobro	mte:Rgp	dobro
+ve	mte:Vmpr3s	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+govoril	mte:Vmpp-sm	govoriti
+neresnico	mte:Ncfsa	neresnica
+.	mte:Z	.
+Jaz	mte:Pp1-sn	jaz
+vem	mte:Vmpr1s	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+govoril	mte:Vmpp-sm	govoriti
+neresnico	mte:Ncfsa	neresnica
+,	mte:Z	,
+in	mte:Cc	in
+vsi	mte:Pg-mpn	ves
+,	mte:Z	,
+ki	mte:Cs	ki
+poročajo	mte:Vmpr3p	poročati
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+vedo	mte:Vmpr3p	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+govoril	mte:Vmpp-sm	govoriti
+neresnico	mte:Ncfsa	neresnica
+.	mte:Z	.
+"	mte:Z	"
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+"	mte:Z	"
+besede	mte:Ncfpn	beseda
+poslanca	mte:Ncmsg	poslanec
+iz	mte:Sg	iz
+vrst	mte:Ncfpg	vrsta
+Socialnih	mte:Agpmpg	socialen
+demokratov	mte:Ncmpg	demokrat
+potrjujejo	mte:Vmpr3p	potrjevati
+misel	mte:Ncfsa	misel
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+za	mte:Si	za
+lepim	mte:Agpmsi	lep
+nasmehom	mte:Ncmsi	nasmeh
+skriva	mte:Vmpr3s	skrivati
+grd	mte:Agpmsnn	grd
+obraz	mte:Ncmsn	obraz
+"	mte:Z	"
+.	mte:Z	.
+Kumer	mte:Npmsn	Kumer
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+na	mte:Sl	na
+seji	mte:Ncfsl	seja
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+dejal	mte:Vmep-sm	dejati
+:	mte:Z	:
+"	mte:Z	"
+Na	mte:Sa	na
+pritisk	mte:Ncmsan	pritisk
+in	mte:Cc	in
+grožnjo	mte:Ncfsa	grožnja
+poslanca	mte:Ncmsg	poslanec
+največje	mte:Agsfsg	velik
+poslanske	mte:Agpfsg	poslanski
+stranke	mte:Ncfsg	stranka
+SDS	mte:Npmsg	SDS
+,	mte:Z	,
+gospoda	mte:Ncmsg	gospod
+Grimsa	mte:Npmsg	Grims
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+včeraj	mte:Rgp	včeraj
+odstavljen	mte:Appmsnn	odstavljen
+z	mte:Sg	z
+mesta	mte:Ncnsg	mesto
+urednika	mte:Ncmsg	urednik
+Studia	mte:Npmsg	Studia
+ob	mte:Sl	ob
+sedemnajstih	mte:Mlompl	sedemnajsti
+novinar	mte:Ncmsn	novinar
+Sandi	mte:Npmsn	Sandi
+Frelih	mte:Npmsn	Frelih
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+so	mte:Va-r3p-n	biti
+konkretni	mte:Agpmpn	konkreten
+primeri	mte:Ncmpn	primer
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+zdaj	mte:Rgp	zdaj
+dogajajo	mte:Vmpr3p	dogajati
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+nazaj	mte:Rgp	nazaj
+govoriti	mte:Vmpn	govoriti
+o	mte:Sl	o
+primerih	mte:Ncmpl	primer
+.	mte:Z	.
+Lahko	mte:Rgp	lahko
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+evidentirani	mte:Appmpn	evidentiran
+.	mte:Z	.
+"	mte:Z	"
+RTV	mte:Npmsn	RTV
+bo	mte:Va-f3s-n	biti
+tožil	mte:Vmpp-sm	tožiti
+tako	mte:Rgp	tako
+Kumra	mte:Npmsn	Kumer
+kot	mte:Cs	kot
+Zgago	mte:Ncfsa	zgaga
+Tudi	mte:Q	tudi
+direktor	mte:Ncmsn	direktor
+Radia	mte:Npmsg	Radia
+Slovenija	mte:Npfsn	Slovenija
+Vinko	mte:Npmsn	Vinko
+Vasle	mte:Npmsn	Vasla
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ostro	mte:Rgp	ostro
+odzval	mte:Vmep-sm	odzvati
+na	mte:Sa	na
+Kumrove	mte:Aspfpa	Kumrov
+besede	mte:Ncfpa	beseda
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+pozval	mte:Vmep-sm	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+predloži	mte:Vmer3s	predložiti
+dokaze	mte:Ncmpa	dokaz
+za	mte:Sa	za
+svoje	mte:Px-fpa	svoj
+trditve	mte:Ncfpa	trditev
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+kadrovske	mte:Agpfpn	kadrovski
+in	mte:Cc	in
+programske	mte:Agpfpn	programski
+politike	mte:Ncfpn	politika
+na	mte:Sl	na
+Radiu	mte:Ncmsl	radio
+Slovenija	mte:Npfsn	Slovenija
+ne	mte:Q	ne
+ureja	mte:Vmpr3s	urejati
+ne	mte:Q	ne
+Branko	mte:Npmsn	Branko
+Grims	mte:Npmsn	Grims
+ne	mte:Q	ne
+kdo	mte:Pq-msn	kdo
+drug	mte:Mlpmsnn	drug
+.	mte:Z	.
+Vasle	mte:Npmsn	Vasla
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+pripravljen	mte:Appmsnn	pripravljen
+takoj	mte:Rgp	takoj
+odstopiti	mte:Vmen	odstopiti
+z	mte:Sg	z
+mesta	mte:Ncnsg	mesto
+direktorja	mte:Ncmsg	direktor
+Radia	mte:Npmsg	Radia
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+Kumer	mte:Npmsn	Kumer
+svoje	mte:Px-fpa	svoj
+trditve	mte:Ncfpa	trditev
+dokazal	mte:Vmep-sm	dokazati
+.	mte:Z	.
+RTV	mte:Npfsn	RTV
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+odločila	mte:Vmep-sf	odločiti
+tožiti	mte:Vmpn	tožiti
+Kumra	mte:Npmsa	Kumer
+in	mte:Cc	in
+novinarja	mte:Ncmsay	novinar
+Večera	mte:Ncmsg	večer
+Blaža	mte:Npmsg	Blaž
+Zgago	mte:Npmsg	Zgago
+zaradi	mte:Sg	zaradi
+njunih	mte:Ps3fpgp	njun
+izjav	mte:Ncfpg	izjava
+.	mte:Z	.
+Zgaga	mte:Npmsn	Zgaga
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+vsi	mte:Pg-mpn	ves
+zaposleni	mte:Appmpn	zaposlen
+na	mte:Sl	na
+Radiu	mte:Ncmsl	radio
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+podpisali	mte:Vmep-pm	podpisati
+sporno	mte:Agpfsa	sporen
+peticijo	mte:Ncfsa	peticija
+,	mte:Z	,
+ostali	mte:Appmpn	ostal
+brez	mte:Sg	brez
+stimulacije	mte:Ncfsg	stimulacija

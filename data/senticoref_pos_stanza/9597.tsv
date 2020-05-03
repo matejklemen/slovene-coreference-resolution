@@ -1,301 +1,362 @@
-token	tag
-Čaka	Vmpr3s
-nas	Pp1-pa
-oblačen	Appmsnn
-konec	Ncmsn
-tedna	Ncmsg
-z	Si
-občasnimi	Agpfpi
-plohami	Ncfpi
-in	Cc
-nevihtami	Ncfpi
-.	Z
-V	Sl
-notranjosti	Ncfsl
-do	Sg
-20	Mdc
-stopinj	Ncfpg
-,	Z
-na	Sl
-obali	Ncfsl
-nekaj	Rgp
-pod	Si
-25	Mdc
-.	Z
-Topleje	Rgc
-na	Sl
-južnem	Agpmsl
-Jadranu	Npmsl
-.	Z
-Več	Rgc
-o	Sl
-aktualni	Agpfsl
-vremenski	Agpfsl
-napovedi	Ncfsl
-preberi	Ncfsg
-na	Sa
-vreme.zurnal24	Mdc
-.	Z
-si	Px---d--y
-.	Z
-Konec	Ncmsan
-tedna	Ncmsg
-nas	Pp1-pa
-čaka	Vmpr3s
-hladno	Agpnsn
-poletno	Agpnsn
-vreme	Ncnsa
-.	Z
-"	Z
-Pretežno	Rgp
-oblačno	Agpnsn
-bo	Va-f3s-n
-,	Z
-z	Si
-občasnimi	Agpfpi
-plohami	Ncfpi
-in	Cc
-nevihtami	Ncfpi
-,	Z
-"	Z
-pravi	Vmbr3s
-dežurni	Agpmsny
-meteorolog	Ncmsn
-na	Sl
-Agenciji	Ncfsl
-RS	Npfsn
-za	Sa
-okolje	Ncnsa
-(	Z
-Arso	Npmsn
-)	Z
-Andrej	Npmsn
-Pečenko	Ncfsa
-.	Z
-"	Z
-Pri	Sl
-morju	Ncnsl
-bo	Va-f3s-n
-za	Sa
-odtenek	Ncmsan
-boljše	Agcnsn
-,	Z
-čeprav	Cs
-lahko	Rgp
-tam	Rgp
-pričakujemo	Vmpr1p
-nekaj	Rgp
-dežja	Ncmsg
-.	Z
-"	Z
-Temperature	Ncfsg
-v	Sl
-notranjosti	Ncfsl
-Slovenije	Npfsg
-bodo	Va-f3p-n
-do	Sg
-20	Mdc
-,	Z
-na	Sl
-morju	Ncnsl
-pa	Cc
-malo	Rgp
-pod	Sa
-25	Mdc
-stopinj	Ncfpg
-Celzija	Ncfsg
-.	Z
-Občasno	Rgp
-lahko	Rgp
-padavine	Ncfpa
-pričakujemo	Vmpr1p
-tudi	Q
-na	Sl
-severnem	Agpnsl
-,	Z
-lepše	Agcnsn
-pa	Cc
-bo	Va-f3s-n
-na	Sl
-srednjem	Agpmsl
-in	Cc
-južnem	Agpmsl
-Jadranu	Npmsl
-.	Z
-"	Z
-Tam	Rgp
-naj	Q
-niti	Q
-ne	Q
-bi	Va-c
-bilo	Va-p-sn
-toliko	Rgp
-padavin	Ncfpg
-,	Z
-morda	Q
-občasno	Rgp
-malo	Rgp
-več	Rgc
-oblačnosti	Ncfpg
-in	Cc
-kakšna	Pq-fsn
-ploha	Ncfsn
-v	Sa
-nedeljo	Ncfsa
-,	Z
-vendar	Cc
-bistveno	Rgp
-manj	Rgc
-kot	Cs
-na	Sl
-severu	Ncmsl
-,	Z
-"	Z
-pojasnjuje	Vmpr3s
-Pečenko	Ncfsa
-.	Z
-Temperature	Ncfpn
-bodo	Va-f3p-n
-višje	Agcfpn
-,	Z
-med	Si
-25	Mdc
-in	Cc
-30	Mdc
-stopinj	Ncfpg
-Celzija	Ncfsg
-.	Z
-Morje	Ncnsn
-bo	Va-f3s-n
-še	Q
-toplo	Agpnsn
-Temperature	Ncfsg
-morja	Ncnsg
-zaradi	Sg
-hladnejšega	Agcmsg
-zraka	Ncmsg
-ne	Q
-bodo	Va-f3p-n
-bistveno	Rgp
-nižje	Agcnpn
-,	Z
-med	Si
-25	Mdc
-in	Cc
-26	Mdc
-stopinj	Ncfpi
-Celzija	Ncfsg
-.	Z
-"	Z
-Burje	Rgp
-ni	Va-r3s-y
-videti	Vmbn
-in	Cc
-noči	Ncfsg
-bodo	Va-f3p-n
-oblačne	Agpfpn
-,	Z
-zato	Cc
-bistvene	Agpfsg
-ohladitve	Ncfpg
-ne	Q
-pričakujemo	Vmpr1p
-,	Z
-"	Z
-razlaga	Vmpr3s
-Pečenko	Ncfsa
-.	Z
-Na	Sl
-cestah	Ncfpl
-bolj	Rgc
-gosto	Agpnsn
-Kljub	Sd
-slabšemu	Agcnsd
-vremenu	Ncnsd
-bo	Va-f3s-n
-konec	Sg
-tedna	Ncmsg
-na	Sl
-slovenskih	Agpfpl
-cestah	Ncfpl
-gostejši	Agcmsay
-promet	Ncmsan
-.	Z
-"	Z
-Kot	Cs
-običajno	Rgp
-lahko	Rgp
-pričakujemo	Vmpr1p
-povečan	Appmsan
-promet	Ncmsan
-v	Sa
-soboto	Ncfsa
-dopoldan	Rgp
-iz	Sg
-smeri	Ncfsg
-Avstrije	Npfsg
-proti	Sd
-Hrvaški	Npfsd
-,	Z
-v	Sa
-nedeljo	Ncfsa
-popoldan	Rgp
-pa	Cc
-v	Sl
-obratni	Agpfsl
-smeri	Ncfsl
-,	Z
-"	Z
-pravijo	Vmbr3p
-na	Sl
-prometno	Agpnsn
--	Z
-informacijskem	Agpmsl
-centru	Ncmsl
-.	Z
-"	Z
-V	Sa
-nedeljo	Ncfsa
-bo	Va-f3s-n
-promet	Ncmsn
-gotovo	Rgp
-povečan	Appmsnn
-,	Z
-saj	Cc
-se	Px------y
-bodo	Va-f3p-n
-vračali	Vmpp-pm
-dopustniki	Ncmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-na	Sa
-morje	Ncnsa
-odšli	Vmep-pm
-pred	Si
-enim	Mlpmsi
-tednom	Ncmsi
-,	Z
-za	Sa
-tiste	Pd-mpa
-,	Z
-ki	Cs
-se	Px------y
-na	Sa
-morje	Ncnsa
-odpravljajo	Vmpr3p
-za	Sa
-dalj	Rgc
-časa	Ncmsg
-,	Z
-pa	Cc
-jih	Pp3mpa--y
-tudi	Q
-nekaj	Rgp
-dni	Ncmpg
-slabšega	Agcnsg
-vremena	Ncnsg
-ne	Q
-bo	Va-f3s-n
-odvrnilo	Vmep-sn
-.	Z
+token	tag	lemma
+Čaka	mte:Vmpr3s	čakati
+nas	mte:Pp1-pa	jaz
+oblačen	mte:Appmsnn	oblačen
+konec	mte:Ncmsn	konec
+tedna	mte:Ncmsg	teden
+z	mte:Si	z
+občasnimi	mte:Agpfpi	občasen
+plohami	mte:Ncfpi	ploha
+in	mte:Cc	in
+nevihtami	mte:Ncfpi	nevihta
+.	mte:Z	.
+V	mte:Sl	v
+notranjosti	mte:Ncfsl	notranjost
+do	mte:Sg	do
+20	mte:Mdc	20
+stopinj	mte:Ncfpg	stopinja
+,	mte:Z	,
+na	mte:Sl	na
+obali	mte:Ncfsl	obala
+nekaj	mte:Rgp	nekaj
+pod	mte:Si	pod
+25	mte:Mdc	25
+.	mte:Z	.
+Topleje	mte:Rgc	toplo
+na	mte:Sl	na
+južnem	mte:Agpmsl	južen
+Jadranu	mte:Npmsl	Jadran
+.	mte:Z	.
+Več	mte:Rgc	več
+o	mte:Sl	o
+aktualni	mte:Agpfsl	aktualen
+vremenski	mte:Agpfsl	vremenski
+napovedi	mte:Ncfsl	napoved
+preberi	mte:Ncfsg	preber
+na	mte:Sa	na
+vreme.zurnal24	mte:Mdc	vreme.zurnal24
+.	mte:Z	.
+si	mte:Px---d--y	se
+.	mte:Z	.
+Konec	mte:Ncmsan	konec
+tedna	mte:Ncmsg	teden
+nas	mte:Pp1-pa	jaz
+čaka	mte:Vmpr3s	čakati
+hladno	mte:Agpnsn	hladen
+poletno	mte:Agpnsn	poleten
+vreme	mte:Ncnsa	vreme
+.	mte:Z	.
+"	mte:Z	"
+Pretežno	mte:Rgp	pretežno
+oblačno	mte:Agpnsn	oblačen
+bo	mte:Va-f3s-n	biti
+,	mte:Z	,
+z	mte:Si	z
+občasnimi	mte:Agpfpi	občasen
+plohami	mte:Ncfpi	ploha
+in	mte:Cc	in
+nevihtami	mte:Ncfpi	nevihta
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+dežurni	mte:Agpmsny	dežuren
+meteorolog	mte:Ncmsn	meteorolog
+na	mte:Sl	na
+Agenciji	mte:Ncfsl	agencija
+RS	mte:Npfsn	RS
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+(	mte:Z	(
+Arso	mte:Npmsn	Arso
+)	mte:Z	)
+Andrej	mte:Npmsn	Andrej
+Pečenko	mte:Ncfsa	pečenka
+.	mte:Z	.
+"	mte:Z	"
+Pri	mte:Sl	pri
+morju	mte:Ncnsl	morje
+bo	mte:Va-f3s-n	biti
+za	mte:Sa	za
+odtenek	mte:Ncmsan	odtenek
+boljše	mte:Agcnsn	dober
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+lahko	mte:Rgp	lahko
+tam	mte:Rgp	tam
+pričakujemo	mte:Vmpr1p	pričakovati
+nekaj	mte:Rgp	nekaj
+dežja	mte:Ncmsg	dežja
+.	mte:Z	.
+"	mte:Z	"
+Temperature	mte:Ncfsg	temperatura
+v	mte:Sl	v
+notranjosti	mte:Ncfsl	notranjost
+Slovenije	mte:Npfsg	Slovenija
+bodo	mte:Va-f3p-n	biti
+do	mte:Sg	do
+20	mte:Mdc	20
+,	mte:Z	,
+na	mte:Sl	na
+morju	mte:Ncnsl	morje
+pa	mte:Cc	pa
+malo	mte:Rgp	malo
+pod	mte:Sa	pod
+25	mte:Mdc	25
+stopinj	mte:Ncfpg	stopinja
+Celzija	mte:Ncfsg	celzija
+.	mte:Z	.
+Občasno	mte:Rgp	občasno
+lahko	mte:Rgp	lahko
+padavine	mte:Ncfpa	padavina
+pričakujemo	mte:Vmpr1p	pričakovati
+tudi	mte:Q	tudi
+na	mte:Sl	na
+severnem	mte:Agpnsl	severen
+,	mte:Z	,
+lepše	mte:Agcnsn	lep
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+srednjem	mte:Agpmsl	srednji
+in	mte:Cc	in
+južnem	mte:Agpmsl	južen
+Jadranu	mte:Npmsl	Jadran
+.	mte:Z	.
+"	mte:Z	"
+Tam	mte:Rgp	tam
+naj	mte:Q	naj
+niti	mte:Q	niti
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+toliko	mte:Rgp	toliko
+padavin	mte:Ncfpg	padavina
+,	mte:Z	,
+morda	mte:Q	morda
+občasno	mte:Rgp	občasno
+malo	mte:Rgp	malo
+več	mte:Rgc	več
+oblačnosti	mte:Ncfpg	oblačnost
+in	mte:Cc	in
+kakšna	mte:Pq-fsn	kakšen
+ploha	mte:Ncfsn	ploh
+v	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+,	mte:Z	,
+vendar	mte:Cc	vendar
+bistveno	mte:Rgp	bistveno
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+na	mte:Sl	na
+severu	mte:Ncmsl	sever
+,	mte:Z	,
+"	mte:Z	"
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+Pečenko	mte:Ncfsa	pečenka
+.	mte:Z	.
+Temperature	mte:Ncfpn	temperatura
+bodo	mte:Va-f3p-n	biti
+višje	mte:Agcfpn	visok
+,	mte:Z	,
+med	mte:Si	med
+25	mte:Mdc	25
+in	mte:Cc	in
+30	mte:Mdc	30
+stopinj	mte:Ncfpg	stopinja
+Celzija	mte:Ncfsg	celzija
+.	mte:Z	.
+Morje	mte:Ncnsn	morje
+bo	mte:Va-f3s-n	biti
+še	mte:Q	še
+toplo	mte:Agpnsn	topel
+Temperature	mte:Ncfsg	temperatura
+morja	mte:Ncnsg	morje
+zaradi	mte:Sg	zaradi
+hladnejšega	mte:Agcmsg	hladen
+zraka	mte:Ncmsg	zrak
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+bistveno	mte:Rgp	bistveno
+nižje	mte:Agcnpn	nizek
+,	mte:Z	,
+med	mte:Si	med
+25	mte:Mdc	25
+in	mte:Cc	in
+26	mte:Mdc	26
+stopinj	mte:Ncfpi	stopinja
+Celzija	mte:Ncfsg	celzija
+.	mte:Z	.
+"	mte:Z	"
+Burje	mte:Rgp	burje
+ni	mte:Va-r3s-y	biti
+videti	mte:Vmbn	videti
+in	mte:Cc	in
+noči	mte:Ncfsg	noč
+bodo	mte:Va-f3p-n	biti
+oblačne	mte:Agpfpn	oblačen
+,	mte:Z	,
+zato	mte:Cc	zato
+bistvene	mte:Agpfsg	bistven
+ohladitve	mte:Ncfpg	ohladitev
+ne	mte:Q	ne
+pričakujemo	mte:Vmpr1p	pričakovati
+,	mte:Z	,
+"	mte:Z	"
+razlaga	mte:Vmpr3s	razlagati
+Pečenko	mte:Ncfsa	pečenka
+.	mte:Z	.
+Na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+bolj	mte:Rgc	bolj
+gosto	mte:Agpnsn	gost
+Kljub	mte:Sd	kljub
+slabšemu	mte:Agcnsd	slab
+vremenu	mte:Ncnsd	vreme
+bo	mte:Va-f3s-n	biti
+konec	mte:Sg	konec
+tedna	mte:Ncmsg	teden
+na	mte:Sl	na
+slovenskih	mte:Agpfpl	slovenski
+cestah	mte:Ncfpl	cesta
+gostejši	mte:Agcmsay	gost
+promet	mte:Ncmsan	promet
+.	mte:Z	.
+"	mte:Z	"
+Kot	mte:Cs	kot
+običajno	mte:Rgp	običajno
+lahko	mte:Rgp	lahko
+pričakujemo	mte:Vmpr1p	pričakovati
+povečan	mte:Appmsan	povečan
+promet	mte:Ncmsan	promet
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+dopoldan	mte:Rgp	dopoldan
+iz	mte:Sg	iz
+smeri	mte:Ncfsg	smer
+Avstrije	mte:Npfsg	Avstrija
+proti	mte:Sd	proti
+Hrvaški	mte:Npfsd	Hrvaška
+,	mte:Z	,
+v	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+popoldan	mte:Rgp	popoldan
+pa	mte:Cc	pa
+v	mte:Sl	v
+obratni	mte:Agpfsl	obraten
+smeri	mte:Ncfsl	smer
+,	mte:Z	,
+"	mte:Z	"
+pravijo	mte:Vmbr3p	praviti
+na	mte:Sl	na
+prometno	mte:Agpnsn	prometen
+-	mte:Z	-
+informacijskem	mte:Agpmsl	informacijski
+centru	mte:Ncmsl	center
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+bo	mte:Va-f3s-n	biti
+promet	mte:Ncmsn	promet
+gotovo	mte:Rgp	gotovo
+povečan	mte:Appmsnn	povečan
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+vračali	mte:Vmpp-pm	vračati
+dopustniki	mte:Ncmpn	dopustnik
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+na	mte:Sa	na
+morje	mte:Ncnsa	morje
+odšli	mte:Vmep-pm	oditi
+pred	mte:Si	pred
+enim	mte:Mlpmsi	en
+tednom	mte:Ncmsi	teden
+,	mte:Z	,
+za	mte:Sa	za
+tiste	mte:Pd-mpa	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+na	mte:Sa	na
+morje	mte:Ncnsa	morje
+odpravljajo	mte:Vmpr3p	odpravljati
+za	mte:Sa	za
+dalj	mte:Rgc	dolgo
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+tudi	mte:Q	tudi
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+slabšega	mte:Agcnsg	slab
+vremena	mte:Ncnsg	vreme
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+odvrnilo	mte:Vmep-sn	odvrniti
+.	mte:Z	.
+"	mte:Z	"
+Najbolj	mte:Rgs	najbolj
+obremenjeni	mte:Appmpn	obremenjen
+mejni	mte:Agpmpn	mejen
+prehodi	mte:Ncmpn	prehod
+bodo	mte:Va-f3p-n	biti
+Sečovlje	mte:Npfpn	Sečovlje
+(	mte:Z	(
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Portorož	mte:Npmsn	Portorož
+–	mte:Z	–
+Sečovlje	mte:Npfsn	Sečovlje
+)	mte:Z	)
+,	mte:Z	,
+Dragonja	mte:Npfsn	Dragonj
+(	mte:Z	(
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Koper	mte:Npmsn	Koper
+–	mte:Z	–
+Dragonja	mte:Npfsn	Dragonj
+)	mte:Z	)
+,	mte:Z	,
+Starod	mte:Npmsn	Starod
+(	mte:Z	(
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Kozina	mte:Npmsn	Kozina
+–	mte:Z	–
+Starod	mte:Npmsn	Starod
+)	mte:Z	)
+,	mte:Z	,
+Jelšane	mte:Npfsn	Jelšane
+(	mte:Z	(
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Ilirska	mte:Agpfsn	ilirski
+Bistrica	mte:Npfsn	Bistrica
+–	mte:Z	–
+Jelšane	mte:Npfsn	Jelšane
+)	mte:Z	)
+,	mte:Z	,
+Obrežje	mte:Ncnsn	obrežje
+(	mte:Z	(
+na	mte:Sl	na
+avtocesti	mte:Ncfsl	avtocesta
+Novo	mte:Agpnsn	nov
+mesto	mte:Ncnsn	mesto
+–	mte:Z	–
+Obrežje	mte:Ncnsn	obrežje
+)	mte:Z	)
+in	mte:Cc	in
+Gruškovje	mte:Npnsn	Gruškovje
+(	mte:Z	(
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Ptuj	mte:Npmsn	Ptuj
+–	mte:Z	–
+Gruškovje	mte:Npnsn	Gruškovje
+)	mte:Z	)

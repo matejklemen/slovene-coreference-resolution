@@ -1,360 +1,378 @@
-token	tag
-Nadzorniki	Ncmpn
-Luke	Npfsg
-Koper	Npmsn
-so	Va-r3p-n
-po	Sl
-treh	Mlcfpl
-urah	Ncfpl
-soglasno	Rgp
-sprejeli	Vmep-pm
-odločitev	Ncfsa
-in	Cc
-razrešili	Vmep-pm
-predsednika	Ncmsay
-nadzornega	Agpmsg
-sveta	Ncmsg
-Borisa	Npmsg
-Popoviča	Npmsg
-.	Z
-Nova	Agpfsn
-predsednica	Ncfsn
-je	Va-r3s-n
-Olga	Npfsn
-Franca	Npmsay
-.	Z
-Olga	Npfsn
-Franca	Npmsay
-Od	Sg
-osmih	Mlc-pg
-članov	Ncmpg
-nadzornega	Agpmsg
-sveta	Ncmsg
-jih	Pp3mpg--y
-je	Va-r3s-n
-bilo	Va-p-sn
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-prisotnih	Agpmpg
-pet	Mlc-pa
-.	Z
-Boris	Npmsn
-Popovič	Npmsn
-ni	Va-r3s-y
-prišel	Vmep-sm
-,	Z
-prav	Q
-tako	Rgp
-tudi	Q
-ne	Q
-predstavnika	Ncmdn
-lastnikov	Ncmpg
-Metod	Npfpg
-Mezek	Npmsn
-in	Cc
-Marko	Npmsn
-Valentinčič	Npmsn
-.	Z
-Člani	Ncmpn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Popoviču	Npmsd
-nismo	Va-r1p-y
-več	Q
-zaupali	Vmbp-pm
-.	Z
-Olga	Npfsg
-Franca	Npmsg
-Na	Sa
-vprašanje	Ncnsa
-,	Z
-zakaj	Rgp
-so	Va-r3p-n
-se	Px------y
-za	Sa
-razrešitev	Ncfsa
-prvega	Mlomsg
-nadzornika	Ncmsg
-odločili	Vmep-pm
-slabe	Agpmpa
-tri	Mlcmpa
-tedne	Ncmpa
-pred	Si
-skupščino	Ncfsi
-,	Z
-na	Sl
-kateri	Pq-fsl
-bodo	Va-f3p-n
-v	Sa
-nadzorni	Agpmsay
-svet	Ncmsan
-imenovani	Appmpn
-novi	Agpmpn
-člani	Ncmpn
-,	Z
-novoizvoljena	Agpfsn
-predsednica	Ncfsn
-nadzornikov	Ncmpg
-Olga	Npmsg
-Franca	Npmsg
-odgovarja	Vmpr3s
-,	Z
-da	Cs
-so	Va-r3p-n
-se	Px------y
-nadzorniki	Ncmpn
-za	Sa
-sklic	Ncmsan
-seje	Ncfsg
-,	Z
-na	Sl
-kateri	Pq-fsl
-bi	Va-c
-razrešili	Vmep-pm
-Popoviča	Npmsay
-,	Z
-odločili	Vmep-pm
-že	Q
-20	Mdc
-.	Z
-maja	Ncmsg
-.	Z
-Člani	Ncmpn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Popoviču	Npmsd
-nismo	Va-r1p-y
-več	Q
-zaupali	Vmbp-pm
-,	Z
-je	Va-r3s-n
-pojasnila	Vmep-sf
-.	Z
-Zaradi	Sg
-procedur	Ncmpg
-se	Px------y
-je	Va-r3s-n
-seja	Ncfsn
-izvršila	Vmep-sf
-šele	Q
-danes	Rgp
-,	Z
-je	Va-r3s-n
-dejala	Vmep-sf
-Franca	Npmsay
-in	Cc
-poudarila	Vmep-sf
-,	Z
-da	Cs
-mora	Vmpr3s
-nadzorni	Agpmsny
-svet	Ncmsn
-izvrševati	Vmpn
-nadziranje	Ncnsa
-poslovanja	Ncnsg
-ves	Pg-msa
-čas	Ncmsan
-do	Sg
-izteka	Ncmsg
-mandata	Ncmsg
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-se	Px------y
-bo	Va-f3s-n
-po	Sl
-njenih	Ps3fplsf
-napovedih	Ncfpl
-še	Q
-pred	Si
-skupščino	Ncfsi
-13	Mdc
-.	Z
-julija	Ncmsg
-sestal	Vmep-sm
-na	Sl
-novi	Agpfsl
-seji	Ncfsl
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-sklicana	Appfsn
-v	Sa
-petek	Ncmsan
-ali	Cc
-soboto	Ncfsa
-.	Z
-Veliko	Rgp
-časa	Ncmsg
-je	Va-r3s-n
-bilo	Va-p-sn
-namreč	Cc
-že	Q
-zamujenega	Appmsg
-,	Z
-nadzorni	Agpmsny
-svet	Ncmsn
-pa	Cc
-mora	Vmpr3s
-nadaljevati	Vmpn
-z	Si
-delom	Ncnsi
-in	Cc
-sprejemati	Vmpn
-sklepe	Ncmpa
-,	Z
-je	Va-r3s-n
-odločna	Agpfsn
-Franca	Npmsay
-.	Z
-Nadzorniki	Ncmpn
-so	Va-r3p-n
-se	Px------y
-sicer	Q
-seznanili	Vmep-pm
-tudi	Q
-s	Si
-podpisom	Ncmsi
-pogodbe	Ncfsg
-predsednika	Ncmsg
-uprave	Ncfsg
-Gregorja	Npmsg
-Veselka	Npmsg
-z	Si
-revizijsko	Agpfsi
-hišo	Ncfsi
-PricewaterhouseCoopers	Npmsi
-iz	Sg
-Ljubljane	Npfsg
-.	Z
-Pričakujemo	Vmpr1p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-pogodbo	Ncfsa
-takoj	Rgp
-podpisali	Vmep-pm
-tudi	Q
-Kad	Ncmsan
-,	Z
-Sod	Ncmsn
-in	Cc
-ministrstvo	Ncnsa
-in	Cc
-da	Cs
-bi	Va-c
-delo	Ncnsa
-lahko	Rgp
-steklo	Vmep-sn
-že	Q
-v	Sa
-ponedeljek	Ncmsan
-,	Z
-je	Va-r3s-n
-še	Q
-dejala	Vmep-sf
-Franca	Npmsay
-.	Z
-Franca	Npmsay
-na	Sl
-čelu	Ncnsl
-do	Sg
-julijske	Agpfsg
-skupščine	Ncfsg
-Novoizvoljena	Agpfsn
-predsednica	Ncfsn
-bo	Va-f3s-n
-nadzorni	Agpmsny
-svet	Ncmsn
-verjetno	Rgp
-vodila	Vmpp-sf
-le	Q
-še	Q
-do	Sg
-julijske	Agpfsg
-skupščine	Ncfsg
-,	Z
-na	Sl
-kateri	Pq-fsl
-bodo	Va-f3p-n
-delničarji	Ncmpn
-med	Si
-drugim	Mlpnsi
-glasovali	Vmbp-pm
-tudi	Q
-o	Sl
-njenem	Ps3mslsf
-odpoklicu	Ncmsl
-iz	Sg
-nadzornega	Agpmsg
-sveta	Ncmsg
-.	Z
-Interese	Ncmpa
-države	Ncfsg
-v	Sl
-nadzornem	Agpmsl
-svetu	Ncmsl
-Luke	Npfsg
-naj	Q
-bi	Va-c
-poslej	Rgp
-zastopali	Vmpp-pm
-Janez	Npmsn
-Požar	Npmsn
-,	Z
-Bojan	Npmsn
-Brank	Npmsn
-in	Cc
-Marko	Npmsn
-Simoneti	Npmsn
-,	Z
-interese	Ncmpa
-delničarjev	Ncmpg
-pa	Cc
-na	Sa
-predlog	Ncmsan
-Kada	Npfsg
-,	Z
-Soda	Npfsg
-in	Cc
-Banke	Ncfsg
-Koper	Npmsn
-Jordan	Npmsn
-Kocjančič	Npmsn
-in	Cc
-Tomaž	Npmsn
-Može	Npmpn
-.	Z
-Popovičev	Aspmsnn
-pravni	Agpmsny
-zastopnik	Ncmsn
-Franci	Npmsn
-Matoz	Npmsn
-je	Va-r3s-n
-sicer	Q
-že	Q
-v	Sa
-torek	Ncmsan
-napovedal	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-v	Sl
-primeru	Ncmsl
-razrešitve	Ncfsg
-koprskemu	Agpnsd
-sodišču	Ncnsd
-predlagal	Vmbp-sm
-zadržanje	Ncnsa
-in	Cc
-izpodbijanje	Ncnsa
-sklepov	Ncmpg
-,	Z
-sprejetih	Appfpg
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-.	Z
+token	tag	lemma
+Nadzorniki	mte:Ncmpn	nadzornik
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+treh	mte:Mlcfpl	trije
+urah	mte:Ncfpl	ura
+soglasno	mte:Rgp	soglasno
+sprejeli	mte:Vmep-pm	sprejeti
+odločitev	mte:Ncfsa	odločitev
+in	mte:Cc	in
+razrešili	mte:Vmep-pm	razrešiti
+predsednika	mte:Ncmsay	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Borisa	mte:Npmsg	Boris
+Popoviča	mte:Npmsg	Popovič
+.	mte:Z	.
+Nova	mte:Agpfsn	nov
+predsednica	mte:Ncfsn	predsednica
+je	mte:Va-r3s-n	biti
+Olga	mte:Npfsn	Olga
+Franca	mte:Npmsay	Franc
+.	mte:Z	.
+Olga	mte:Npfsn	Olga
+Franca	mte:Npmsay	Franc
+Od	mte:Sg	od
+osmih	mte:Mlc-pg	osem
+članov	mte:Ncmpg	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+prisotnih	mte:Agpmpg	prisoten
+pet	mte:Mlc-pa	pet
+.	mte:Z	.
+Boris	mte:Npmsn	Boris
+Popovič	mte:Npmsn	Popovič
+ni	mte:Va-r3s-y	biti
+prišel	mte:Vmep-sm	priti
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+tudi	mte:Q	tudi
+ne	mte:Q	ne
+predstavnika	mte:Ncmdn	predstavnik
+lastnikov	mte:Ncmpg	lastnik
+Metod	mte:Npfpg	Metod
+Mezek	mte:Npmsn	Mezek
+in	mte:Cc	in
+Marko	mte:Npmsn	Marko
+Valentinčič	mte:Npmsn	Valentinčič
+.	mte:Z	.
+Člani	mte:Ncmpn	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Popoviču	mte:Npmsd	Popovič
+nismo	mte:Va-r1p-y	biti
+več	mte:Q	več
+zaupali	mte:Vmbp-pm	zaupati
+.	mte:Z	.
+Olga	mte:Npfsg	Olga
+Franca	mte:Npmsg	Franc
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+razrešitev	mte:Ncfsa	razrešitev
+prvega	mte:Mlomsg	prvi
+nadzornika	mte:Ncmsg	nadzornik
+odločili	mte:Vmep-pm	odločiti
+slabe	mte:Agpmpa	slab
+tri	mte:Mlcmpa	trije
+tedne	mte:Ncmpa	teden
+pred	mte:Si	pred
+skupščino	mte:Ncfsi	skupščina
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bodo	mte:Va-f3p-n	biti
+v	mte:Sa	v
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+imenovani	mte:Appmpn	imenovan
+novi	mte:Agpmpn	nov
+člani	mte:Ncmpn	član
+,	mte:Z	,
+novoizvoljena	mte:Agpfsn	novoizvoljen
+predsednica	mte:Ncfsn	predsednica
+nadzornikov	mte:Ncmpg	nadzornik
+Olga	mte:Npmsg	Olga
+Franca	mte:Npmsg	Franc
+odgovarja	mte:Vmpr3s	odgovarjati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+nadzorniki	mte:Ncmpn	nadzornik
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+seje	mte:Ncfsg	seja
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bi	mte:Va-c	biti
+razrešili	mte:Vmep-pm	razrešiti
+Popoviča	mte:Npmsay	Popovič
+,	mte:Z	,
+odločili	mte:Vmep-pm	odločiti
+že	mte:Q	že
+20	mte:Mdc	20
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+.	mte:Z	.
+Člani	mte:Ncmpn	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Popoviču	mte:Npmsd	Popovič
+nismo	mte:Va-r1p-y	biti
+več	mte:Q	več
+zaupali	mte:Vmbp-pm	zaupati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+procedur	mte:Ncmpg	procedur
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+seja	mte:Ncfsn	seja
+izvršila	mte:Vmep-sf	izvršiti
+šele	mte:Q	šele
+danes	mte:Rgp	danes
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejala	mte:Vmep-sf	dejati
+Franca	mte:Npmsay	Franc
+in	mte:Cc	in
+poudarila	mte:Vmep-sf	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+mora	mte:Vmpr3s	morati
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+izvrševati	mte:Vmpn	izvrševati
+nadziranje	mte:Ncnsa	nadziranje
+poslovanja	mte:Ncnsg	poslovanje
+ves	mte:Pg-msa	ves
+čas	mte:Ncmsan	čas
+do	mte:Sg	do
+izteka	mte:Ncmsg	iztekati
+mandata	mte:Ncmsg	mandat
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+njenih	mte:Ps3fplsf	njen
+napovedih	mte:Ncfpl	napoved
+še	mte:Q	še
+pred	mte:Si	pred
+skupščino	mte:Ncfsi	skupščina
+13	mte:Mdc	13
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+sestal	mte:Vmep-sm	sestati
+na	mte:Sl	na
+novi	mte:Agpfsl	nov
+seji	mte:Ncfsl	seja
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+sklicana	mte:Appfsn	sklican
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+ali	mte:Cc	ali
+soboto	mte:Ncfsa	sobota
+.	mte:Z	.
+Veliko	mte:Rgp	veliko
+časa	mte:Ncmsg	čas
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+namreč	mte:Cc	namreč
+že	mte:Q	že
+zamujenega	mte:Appmsg	zamujen
+,	mte:Z	,
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+pa	mte:Cc	pa
+mora	mte:Vmpr3s	morati
+nadaljevati	mte:Vmpn	nadaljevati
+z	mte:Si	z
+delom	mte:Ncnsi	delo
+in	mte:Cc	in
+sprejemati	mte:Vmpn	sprejemati
+sklepe	mte:Ncmpa	sklep
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odločna	mte:Agpfsn	odločen
+Franca	mte:Npmsay	Franc
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+seznanili	mte:Vmep-pm	seznaniti
+tudi	mte:Q	tudi
+s	mte:Si	z
+podpisom	mte:Ncmsi	podpis
+pogodbe	mte:Ncfsg	pogodba
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Gregorja	mte:Npmsg	Gregor
+Veselka	mte:Npmsg	Veselka
+z	mte:Si	z
+revizijsko	mte:Agpfsi	revizijski
+hišo	mte:Ncfsi	hiša
+PricewaterhouseCoopers	mte:Npmsi	PricewaterhouseCoopers
+iz	mte:Sg	iz
+Ljubljane	mte:Npfsg	Ljubljana
+.	mte:Z	.
+Pričakujemo	mte:Vmpr1p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+pogodbo	mte:Ncfsa	pogodba
+takoj	mte:Rgp	takoj
+podpisali	mte:Vmep-pm	podpisati
+tudi	mte:Q	tudi
+Kad	mte:Ncmsan	kad
+,	mte:Z	,
+Sod	mte:Ncmsn	sod
+in	mte:Cc	in
+ministrstvo	mte:Ncnsa	ministrstvo
+in	mte:Cc	in
+da	mte:Cs	da
+bi	mte:Va-c	biti
+delo	mte:Ncnsa	delo
+lahko	mte:Rgp	lahko
+steklo	mte:Vmep-sn	steklo
+že	mte:Q	že
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejala	mte:Vmep-sf	dejati
+Franca	mte:Npmsay	Franc
+.	mte:Z	.
+Franca	mte:Npmsay	Franc
+na	mte:Sl	na
+čelu	mte:Ncnsl	čelo
+do	mte:Sg	do
+julijske	mte:Agpfsg	julijski
+skupščine	mte:Ncfsg	skupščina
+Novoizvoljena	mte:Agpfsn	novoizvoljen
+predsednica	mte:Ncfsn	predsednica
+bo	mte:Va-f3s-n	biti
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+verjetno	mte:Rgp	verjetno
+vodila	mte:Vmpp-sf	voditi
+le	mte:Q	le
+še	mte:Q	še
+do	mte:Sg	do
+julijske	mte:Agpfsg	julijski
+skupščine	mte:Ncfsg	skupščina
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bodo	mte:Va-f3p-n	biti
+delničarji	mte:Ncmpn	delničar
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+glasovali	mte:Vmbp-pm	glasovati
+tudi	mte:Q	tudi
+o	mte:Sl	o
+njenem	mte:Ps3mslsf	njen
+odpoklicu	mte:Ncmsl	odpoklic
+iz	mte:Sg	iz
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+Interese	mte:Ncmpa	interes
+države	mte:Ncfsg	država
+v	mte:Sl	v
+nadzornem	mte:Agpmsl	nadzoren
+svetu	mte:Ncmsl	svet
+Luke	mte:Npfsg	Luka
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+poslej	mte:Rgp	poslej
+zastopali	mte:Vmpp-pm	zastopati
+Janez	mte:Npmsn	Janez
+Požar	mte:Npmsn	Požar
+,	mte:Z	,
+Bojan	mte:Npmsn	Bojan
+Brank	mte:Npmsn	Brank
+in	mte:Cc	in
+Marko	mte:Npmsn	Marko
+Simoneti	mte:Npmsn	Simonet
+,	mte:Z	,
+interese	mte:Ncmpa	interes
+delničarjev	mte:Ncmpg	delničar
+pa	mte:Cc	pa
+na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+Kada	mte:Npfsg	Kada
+,	mte:Z	,
+Soda	mte:Npfsg	Soda
+in	mte:Cc	in
+Banke	mte:Ncfsg	banka
+Koper	mte:Npmsn	Koper
+Jordan	mte:Npmsn	Jordan
+Kocjančič	mte:Npmsn	Kocjančič
+in	mte:Cc	in
+Tomaž	mte:Npmsn	Tomaž
+Može	mte:Npmpn	Može
+.	mte:Z	.
+Popovičev	mte:Aspmsnn	Popovičev
+pravni	mte:Agpmsny	praven
+zastopnik	mte:Ncmsn	zastopnik
+Franci	mte:Npmsn	Franci
+Matoz	mte:Npmsn	Matoz
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+že	mte:Q	že
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+razrešitve	mte:Ncfsg	razrešitev
+koprskemu	mte:Agpnsd	koprski
+sodišču	mte:Ncnsd	sodišče
+predlagal	mte:Vmbp-sm	predlagati
+zadržanje	mte:Ncnsa	zadržanje
+in	mte:Cc	in
+izpodbijanje	mte:Ncnsa	izpodbijanje
+sklepov	mte:Ncmpg	sklep
+,	mte:Z	,
+sprejetih	mte:Appfpg	sprejet
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+.	mte:Z	.
+Sodišču	mte:Ncnsl	sodišče
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+predlagal	mte:Vmbp-sm	predlagati
+,	mte:Z	,
+naj	mte:Cs	naj
+današnjo	mte:Agpfsa	današnji
+sejo	mte:Ncfsa	seja
+z	mte:Si	z
+začasno	mte:Agpfsi	začasen
+odredbo	mte:Ncfsi	odredba
+prepove	mte:Vmer3s	prepovati
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+sodišče	mte:Ncnsn	sodišče
+zavrnilo	mte:Vmep-sn	zavrniti

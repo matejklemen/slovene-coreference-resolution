@@ -1,578 +1,598 @@
-token	tag
-Pet	Mlc-pn
-Big	Npmsn
-Bangov	Npmsn
-zaradi	Sg
-upada	Ncmsg
-prodaje	Ncfsg
-zapira	Vmpr3s
-vrata	Ncnpa
-,	Z
-zato	Cc
-bodo	Va-f3p-n
-tudi	Q
-odpuščali	Vmpp-pm
-.	Z
-Zanimivo	Agpnsa
-,	Z
-podjetje	Ncnsn
-naj	Q
-bi	Va-c
-sicer	Q
-poslovalo	Vmpp-sn
-pozitivno	Agpnsa
-.	Z
-Javili	Vmpp-pm
-so	Va-r3p-n
-se	Px------y
-ogorčeni	Appmpn
-zaposleni	Appmpn
-,	Z
-ki	Cs
-govorijo	Vmpr3p
-o	Sl
-odpuščanjih	Ncnpl
-na	Sa
-'	Z
-'	Z
-umazan	Appmsan
-način	Ncmsan
-'	Z
-'	Z
-.	Z
-Big	Npmsn
-Bang	Npmsn
-zapira	Vmpr3s
-trgovine	Ncfpa
-.	Z
-Kot	Cs
-dober	Agpmsan
-gospodar	Ncmsnn
-vse	Pg-fpa
-naše	Ps1fpap
-centre	Ncfpa
-redno	Rgp
-prenavljamo	Vmpr1p
-in	Cc
-jih	Pp3mpa--y
-po	Sl
-potrebi	Ncfsl
-prestavljamo	Vmpr1p
-.	Z
-Lani	Rgp
-smo	Va-r1p-n
-jih	Pp3mpa--y
-prenovili	Vmep-pm
-ali	Cc
-na	Sa
-novo	Agpnsa
-odprli	Vmep-pm
-osem	Mlc-pa
-.	Z
-Direktor	Ncmsn
-Big	Npmsn
-Banga	Npmsg
-Bojan	Npmsn
-Knuplež	Npmsn
-Big	Npmsn
-Bang	Npmsn
-,	Z
-ki	Cs
-spada	Vmpr3s
-pod	Sa
-Merkur	Npmsan
-Group	Npmsn
-,	Z
-zaradi	Sg
-upada	Ncmsg
-povpraševanja	Ncnsg
-zapira	Vmpr3s
-trgovine	Ncfpa
-v	Sl
-Kočevju	Npnsl
-,	Z
-Slovenj	Npmsl
-Gradcu	Npmsl
-,	Z
-Postojni	Npfsl
-,	Z
-Velenju	Npnsl
-in	Cc
-Kranjski	Agpmsly
-Qlandii	Npmsl
-,	Z
-je	Va-r3s-n
-za	Sa
-24ur.com	Mdc
-povedal	Vmep-sm
-Rok	Ncmsn
-Istenič	Npmsn
-iz	Sg
-Merkurja	Npmsg
-.	Z
-Obe	Pg-fdn
-trgovini	Ncfdn
-v	Sl
-BTC	Npmsl
-Ljubljana	Npfsn
-ostajata	Vmpr3d
-,	Z
-saj	Cc
-prodaja	Ncfsn
-ni	Va-r3s-y
-upadla	Vmep-sf
-.	Z
-Zapirajo	Vmpr3p
-pet	Mlc-pa
-manjših	Agcfpg
-trgovin	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-bile	Va-p-pf
-v	Sl
-najemu	Ncmsl
-.	Z
-V	Sl
-štirih	Mlcmpl
-centrih	Ncmpl
-je	Va-r3s-n
-razlog	Ncmsn
-padec	Ncmsn
-prodaje	Ncfsg
-,	Z
-v	Sl
-Kranjskem	Npnsl
-pa	Cc
-zamik	Ncmsn
-širitve	Ncfsg
-centra	Ncmsg
-za	Sa
-neznano	Agpnsa
-obdobje	Ncnsa
-.	Z
-Trenutna	Agpfsn
-lokacija	Ncfsn
-je	Va-r3s-n
-premajhna	Agpfsn
-,	Z
-da	Cs
-bi	Va-c
-bila	Va-p-sf
-za	Sa
-nas	Pp1-pa
-dolgoročno	Rgp
-zanimiva	Agpfsn
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-direktor	Ncmsn
-Big	Npmsn
-Banga	Npmsg
-Bojan	Npmsn
-Knuplež	Npmsn
-.	Z
-Število	Ncnsa
-nakupov	Ncmpg
-in	Cc
-nižanje	Ncnsa
-vrednosti	Ncfsg
-povprečnega	Agpmsg
-nakupa	Ncmsg
-opažamo	Vmpr1p
-v	Sl
-zadnjih	Agpmpl
-dveh	Mlcmdl
-mesecih	Ncmdl
-tega	Pd-nsg
-leta	Ncnsg
-.	Z
-Vrednostno	Rgp
-je	Va-r3s-n
-padec	Ncmsn
-od	Sg
-produktne	Agpfsg
-kategorije	Ncfsg
-do	Sg
-produktne	Agpfsg
-kategorije	Ncfsg
-različen	Appmsnn
-.	Z
-V	Sl
-povprečju	Ncnsl
-je	Va-r3s-n
-raven	Ncfsn
-prodaje	Ncfsg
-pod	Si
-letom	Ncnsi
-2008	Mdc
-in	Cc
-nad	Si
-letom	Ncnsi
-2007	Mdc
-,	Z
-nekje	Rgp
-vmes	Rgp
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-.	Z
-Obe	Pg-fdn
-trgovini	Ncfdn
-v	Sl
-BTC	Npmsl
-Ljubljana	Npfsn
-ostajata	Vmpr3d
-,	Z
-saj	Cc
-prodaja	Ncfsn
-ni	Va-r3s-y
-upadla	Vmep-sf
-.	Z
-V	Sl
-Big	Npmsl
-Bangu	Npmsl
-bo	Va-f3s-n
-prišlo	Vmep-sn
-tudi	Q
-do	Sg
-odpuščanj	Ncnpg
-delavcev	Ncmpg
-za	Sa
-določen	Appmsan
-čas	Ncmsan
-,	Z
-medtem	Rgp
-ko	Cs
-bodo	Va-f3p-n
-zaposlenim	Appmpd
-za	Sa
-nedoločen	Agpmsay
-čas	Ncmsan
-ponudili	Vmep-pm
-delo	Ncnsa
-v	Sl
-eni	Mlpfsl
-od	Sg
-drugih	Mlpfpg
-trgovin	Ncfpg
-.	Z
-Prenehali	Vmep-pm
-smo	Va-r1p-n
-podaljševati	Vmpn
-nekatere	Pi-fpa
-pogodbe	Ncfpa
-o	Sl
-zaposlitvi	Ncfsl
-za	Sa
-določen	Appmsan
-čas	Ncmsan
-.	Z
-Teh	Pd-fpg
-pogodb	Ncfpg
-je	Va-r3s-n
-30	Mdc
-,	Z
-je	Va-r3s-n
-razložil	Vmep-sm
-Knuplež	Npmsn
-.	Z
-Zaposleni	Appmpn
-v	Sl
-Big	Npmsn
-Bangu	Npmsl
-,	Z
-ki	Cs
-niso	Va-r3p-y
-želeli	Vmpp-pm
-biti	Va-n
-imenovani	Appmpn
-,	Z
-pa	Cc
-so	Va-r3p-n
-opozorili	Vmep-pm
-,	Z
-da	Cs
-možnost	Ncfsa
-zaposlitve	Ncfsg
-v	Sl
-drugih	Mlpfpl
-poslovalnicah	Ncfpl
-dobi	Vmer3s
-le	Q
-peščica	Ncfsn
-.	Z
-V	Sl
-poslovni	Agpfsl
-enoti	Ncfsl
-Slovenj	Npmsn
-Gradec	Npmsn
-bo	Va-f3s-n
-premeščen	Appmsnn
-samo	Q
-en	Mlpmsn
-delavec	Ncmsn
-od	Sg
-osmih	Mlc-pg
-,	Z
-kar	Pr-nsn
-ni	Va-r3s-y
-skrivnost	Ncfsn
-.	Z
-Malenkost	Ncfsn
-drugače	Rgp
-se	Px------y
-je	Va-r3s-n
-zgodilo	Vmep-sn
-v	Sl
-Velenju	Npnsl
-,	Z
-so	Va-r3p-n
-zatrdili	Vmep-pm
-.	Z
-Spregovorila	Vmep-sf
-je	Va-r3s-n
-še	Q
-ena	Mlpfsn
-bralka	Ncfsn
-V	Sl
-podjetju	Ncnsl
-Big	Npmsn
-Bang	Npmsn
-sem	Va-r1s-n
-bila	Va-p-sf
-zaposlena	Appfsn
-sedem	Mlc-pa
-let	Ncnpg
-,	Z
-sedaj	Rgp
-pa	Cc
-so	Va-r3p-n
-me	Pp1-sa--y
-odpustili	Vmep-pm
-na	Sa
-umazan	Appmsan
-način	Ncmsan
-.	Z
-Iz	Sg
-poslovalnice	Ncfsg
-v	Sl
-Ljubljani	Npfsl
-so	Va-r3p-n
-me	Pp1-sa--y
-premestili	Vmep-pm
-v	Sa
-poslovalnico	Ncfsa
-Kočevje	Npnsa
-.	Z
-Obenem	Rgp
-pa	Cc
-sem	Va-r1s-n
-dobila	Vmep-sf
-priporočeno	Appfsa
-pošto	Ncfsa
-o	Sl
-nameri	Ncfsl
-o	Sl
-odpustitvi	Ncfsl
-,	Z
-ker	Cs
-se	Px------y
-poslovalnica	Ncfsn
-v	Sl
-Kočevju	Npnsl
-zapira	Vmpr3s
-.	Z
-Po	Sl
-14	Mdc
-dneh	Ncmpl
-pa	Cc
-so	Va-r3p-n
-mi	Pp1-sd--y
-odpoved	Ncfsa
-prinesli	Vmep-pm
-domov	Rgp
-.	Z
-Sedaj	Rgp
-sem	Va-r1s-n
-v	Sl
-odpovednem	Agpmsl
-roku	Ncmsl
-in	Cc
-obogatela	Vmep-sf
-bom	Va-f1s-n
-za	Sa
-tisoč	Mlc-pa
-evrov	Ncmpg
-odpravnine	Ncfsg
-in	Cc
-potjo	Ncfsa
-na	Sa
-Zavod	Ncmsan
-za	Sa
-zaposlovanje	Ncnsa
-.	Z
-Skupno	Agpnsn
-je	Va-r3s-n
-sicer	Q
-v	Sl
-Big	Ncmsn
-Bangu	Npmsl
-zaposlenih	Appfpg
-490	Mdc
-oseb	Ncfpg
-.	Z
-Rezultat	Ncmsn
-poslovanja	Ncnsg
-Big	Ncmsn
-Banga	Npmsg
-za	Sa
-prve	Mlompa
-tri	Mlcmpa
-mesece	Ncmpa
-leta	Ncnsg
-2009	Mdc
-je	Va-r3s-n
-po	Sl
-zagotovilih	Ncnpl
-prvega	Mlomsg
-moža	Ncmsg
-pozitiven	Agpmsnn
-.	Z
-Merkur	Npmsn
-zaposluje	Vmpr3s
-Istenič	Npmsn
-je	Va-r3s-n
-zanikal	Vmep-sm
-govorice	Ncfpa
-o	Sl
-zapiranju	Ncnsl
-Merkurjevih	Aspmpg
-centrov	Ncmpg
-.	Z
-V	Sl
-Murski	Agpfsl
-Soboti	Npfsl
-smo	Va-r1p-n
-imeli	Vmpp-pm
-dve	Mlcfda
-trgovini	Ncfda
-,	Z
-eno	Mlpnsa
-za	Sa
-gospodinje	Ncnpa
-,	Z
-drugo	Mlpnsa
-za	Sa
-mojstre	Ncmpa
-,	Z
-zato	Cc
-smo	Va-r1p-n
-ju	Pp3mda--y
-15	Mdc
-.	Z
-aprila	Ncmsg
-zaprli	Vmep-pm
-,	Z
-21	Mdc
-.	Z
-maja	Ncmsg
-pa	Cc
-odpiramo	Vmpr1p
-en	Mlpmsa
-velik	Agpmsan
-center	Ncmsan
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-kupci	Ncmpn
-vse	Pg-nsa
-našli	Vmep-pm
-na	Sl
-enem	Mlpnsl
-mestu	Ncnsl
-.	Z
-Podobno	Rgp
-nameravamo	Vmpr1p
-letos	Rgp
-storiti	Vmen
-tudi	Q
-v	Sl
-Škofji	Agpfsl
-Loki	Npfsl
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-.	Z
-Večji	Agcmpn
-trgovinski	Agpmpn
-centri	Ncmpn
-prinašajo	Vmpr3p
-tudi	Q
-nova	Agpnpa
-delovna	Agpnpa
-mesta	Ncnpa
-,	Z
-konkretno	Rgp
-bodo	Va-f3p-n
-v	Sl
-Murski	Agpfsl
-Soboti	Npfsl
-zaposlili	Vmep-pm
-še	Q
-12	Mdc
-ljudi	Ncmpg
-.	Z
-V	Sl
-Merkurju	Npmsl
-,	Z
-kjer	Cs
-polovico	Ncfsa
-blaga	Ncnsg
-prodajo	Vmer3p
-končnim	Agpmpd
-kupcem	Ncmpd
-,	Z
-polovico	Ncfsa
-pa	Cc
-podjetjem	Ncnpd
-,	Z
-finančno	Agpfsa
-krizo	Ncfsa
-že	Q
-blažje	Rgc
-občutijo	Vmer3p
-.	Z
-Pri	Sl
-prodaji	Ncfsl
-podjetjem	Ncnsi
-se	Px------y
-pozna	Vmpr3s
-upad	Ncmsn
-prodaje	Ncfsg
-,	Z
-ugotavljajo	Vmpr3p
-pa	Cc
-tudi	Q
-,	Z
-da	Cs
-ni	Va-r3s-y
-več	Q
-naključnih	Agpmpg
-kupcev	Ncmpg
-.	Z
-Zaenkrat	Rgp
-je	Va-r3s-n
-prodaja	Ncfsn
-v	Sl
-trgovinskih	Agpmpl
-centrih	Ncmpl
-solidna	Agpfsn
-,	Z
-vendar	Cc
-ne	Q
-moremo	Vmpr1p
-govoriti	Vmpn
-o	Sl
-rasti	Ncfsl
-.	Z
+token	tag	lemma
+Pet	mte:Mlc-pn	pet
+Big	mte:Npmsn	Big
+Bangov	mte:Npmsn	Bangov
+zaradi	mte:Sg	zaradi
+upada	mte:Ncmsg	upad
+prodaje	mte:Ncfsg	prodaja
+zapira	mte:Vmpr3s	zapirati
+vrata	mte:Ncnpa	vrata
+,	mte:Z	,
+zato	mte:Cc	zato
+bodo	mte:Va-f3p-n	biti
+tudi	mte:Q	tudi
+odpuščali	mte:Vmpp-pm	odpuščati
+.	mte:Z	.
+Zanimivo	mte:Agpnsa	zanimiv
+,	mte:Z	,
+podjetje	mte:Ncnsn	podjetje
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+sicer	mte:Q	sicer
+poslovalo	mte:Vmpp-sn	poslovati
+pozitivno	mte:Agpnsa	pozitiven
+.	mte:Z	.
+Javili	mte:Vmpp-pm	javiti
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+ogorčeni	mte:Appmpn	ogorčen
+zaposleni	mte:Appmpn	zaposlen
+,	mte:Z	,
+ki	mte:Cs	ki
+govorijo	mte:Vmpr3p	govoriti
+o	mte:Sl	o
+odpuščanjih	mte:Ncnpl	odpuščanje
+na	mte:Sa	na
+'	mte:Z	'
+'	mte:Z	'
+umazan	mte:Appmsan	umazan
+način	mte:Ncmsan	način
+'	mte:Z	'
+'	mte:Z	'
+.	mte:Z	.
+Big	mte:Npmsn	Big
+Bang	mte:Npmsn	Bang
+zapira	mte:Vmpr3s	zapirati
+trgovine	mte:Ncfpa	trgovina
+.	mte:Z	.
+Kot	mte:Cs	kot
+dober	mte:Agpmsan	dober
+gospodar	mte:Ncmsnn	gospodar
+vse	mte:Pg-fpa	ves
+naše	mte:Ps1fpap	naš
+centre	mte:Ncfpa	center
+redno	mte:Rgp	redno
+prenavljamo	mte:Vmpr1p	prenavljati
+in	mte:Cc	in
+jih	mte:Pp3mpa--y	on
+po	mte:Sl	po
+potrebi	mte:Ncfsl	potreba
+prestavljamo	mte:Vmpr1p	prestavljati
+.	mte:Z	.
+Lani	mte:Rgp	lani
+smo	mte:Va-r1p-n	biti
+jih	mte:Pp3mpa--y	on
+prenovili	mte:Vmep-pm	prenoviti
+ali	mte:Cc	ali
+na	mte:Sa	na
+novo	mte:Agpnsa	nov
+odprli	mte:Vmep-pm	odpreti
+osem	mte:Mlc-pa	osem
+.	mte:Z	.
+Direktor	mte:Ncmsn	direktor
+Big	mte:Npmsn	Big
+Banga	mte:Npmsg	Banga
+Bojan	mte:Npmsn	Bojan
+Knuplež	mte:Npmsn	Knuplež
+Big	mte:Npmsn	Big
+Bang	mte:Npmsn	Bang
+,	mte:Z	,
+ki	mte:Cs	ki
+spada	mte:Vmpr3s	spadati
+pod	mte:Sa	pod
+Merkur	mte:Npmsan	Merkur
+Group	mte:Npmsn	Group
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+upada	mte:Ncmsg	upad
+povpraševanja	mte:Ncnsg	povpraševanje
+zapira	mte:Vmpr3s	zapirati
+trgovine	mte:Ncfpa	trgovina
+v	mte:Sl	v
+Kočevju	mte:Npnsl	Kočevje
+,	mte:Z	,
+Slovenj	mte:Npmsl	Slovenj
+Gradcu	mte:Npmsl	Gradec
+,	mte:Z	,
+Postojni	mte:Npfsl	Postojna
+,	mte:Z	,
+Velenju	mte:Npnsl	Velenje
+in	mte:Cc	in
+Kranjski	mte:Agpmsly	kranjski
+Qlandii	mte:Npmsl	Qlandia
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+24ur.com	mte:Mdc	24ur.co
+povedal	mte:Vmep-sm	povedati
+Rok	mte:Ncmsn	rok
+Istenič	mte:Npmsn	Istenič
+iz	mte:Sg	iz
+Merkurja	mte:Npmsg	Merkur
+.	mte:Z	.
+Obe	mte:Pg-fdn	oba
+trgovini	mte:Ncfdn	trgovina
+v	mte:Sl	v
+BTC	mte:Npmsl	BTC
+Ljubljana	mte:Npfsn	Ljubljana
+ostajata	mte:Vmpr3d	ostajati
+,	mte:Z	,
+saj	mte:Cc	saj
+prodaja	mte:Ncfsn	prodaja
+ni	mte:Va-r3s-y	biti
+upadla	mte:Vmep-sf	upasti
+.	mte:Z	.
+Zapirajo	mte:Vmpr3p	zapirati
+pet	mte:Mlc-pa	pet
+manjših	mte:Agcfpg	majhen
+trgovin	mte:Ncfpg	trgovina
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+v	mte:Sl	v
+najemu	mte:Ncmsl	najem
+.	mte:Z	.
+V	mte:Sl	v
+štirih	mte:Mlcmpl	štirje
+centrih	mte:Ncmpl	center
+je	mte:Va-r3s-n	biti
+razlog	mte:Ncmsn	razlog
+padec	mte:Ncmsn	padec
+prodaje	mte:Ncfsg	prodaja
+,	mte:Z	,
+v	mte:Sl	v
+Kranjskem	mte:Npnsl	Kranjsko
+pa	mte:Cc	pa
+zamik	mte:Ncmsn	zamik
+širitve	mte:Ncfsg	širitev
+centra	mte:Ncmsg	center
+za	mte:Sa	za
+neznano	mte:Agpnsa	neznan
+obdobje	mte:Ncnsa	obdobje
+.	mte:Z	.
+Trenutna	mte:Agpfsn	trenuten
+lokacija	mte:Ncfsn	lokacija
+je	mte:Va-r3s-n	biti
+premajhna	mte:Agpfsn	premajhen
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+za	mte:Sa	za
+nas	mte:Pp1-pa	jaz
+dolgoročno	mte:Rgp	dolgoročno
+zanimiva	mte:Agpfsn	zanimiv
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+direktor	mte:Ncmsn	direktor
+Big	mte:Npmsn	Big
+Banga	mte:Npmsg	Banga
+Bojan	mte:Npmsn	Bojan
+Knuplež	mte:Npmsn	Knuplež
+.	mte:Z	.
+Število	mte:Ncnsa	število
+nakupov	mte:Ncmpg	nakup
+in	mte:Cc	in
+nižanje	mte:Ncnsa	nižanje
+vrednosti	mte:Ncfsg	vrednost
+povprečnega	mte:Agpmsg	povprečen
+nakupa	mte:Ncmsg	nakup
+opažamo	mte:Vmpr1p	opažati
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+dveh	mte:Mlcmdl	dva
+mesecih	mte:Ncmdl	mesec
+tega	mte:Pd-nsg	ta
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Vrednostno	mte:Rgp	vrednostno
+je	mte:Va-r3s-n	biti
+padec	mte:Ncmsn	padec
+od	mte:Sg	od
+produktne	mte:Agpfsg	produkten
+kategorije	mte:Ncfsg	kategorija
+do	mte:Sg	do
+produktne	mte:Agpfsg	produkten
+kategorije	mte:Ncfsg	kategorija
+različen	mte:Appmsnn	različen
+.	mte:Z	.
+V	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+je	mte:Va-r3s-n	biti
+raven	mte:Ncfsn	raven
+prodaje	mte:Ncfsg	prodaja
+pod	mte:Si	pod
+letom	mte:Ncnsi	leto
+2008	mte:Mdc	2008
+in	mte:Cc	in
+nad	mte:Si	nad
+letom	mte:Ncnsi	leto
+2007	mte:Mdc	2007
+,	mte:Z	,
+nekje	mte:Rgp	nekje
+vmes	mte:Rgp	vmes
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Obe	mte:Pg-fdn	oba
+trgovini	mte:Ncfdn	trgovina
+v	mte:Sl	v
+BTC	mte:Npmsl	BTC
+Ljubljana	mte:Npfsn	Ljubljana
+ostajata	mte:Vmpr3d	ostajati
+,	mte:Z	,
+saj	mte:Cc	saj
+prodaja	mte:Ncfsn	prodaja
+ni	mte:Va-r3s-y	biti
+upadla	mte:Vmep-sf	upasti
+.	mte:Z	.
+V	mte:Sl	v
+Big	mte:Npmsl	Big
+Bangu	mte:Npmsl	Bang
+bo	mte:Va-f3s-n	biti
+prišlo	mte:Vmep-sn	priti
+tudi	mte:Q	tudi
+do	mte:Sg	do
+odpuščanj	mte:Ncnpg	odpuščanje
+delavcev	mte:Ncmpg	delavec
+za	mte:Sa	za
+določen	mte:Appmsan	določen
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+zaposlenim	mte:Appmpd	zaposlen
+za	mte:Sa	za
+nedoločen	mte:Agpmsay	nedoločen
+čas	mte:Ncmsan	čas
+ponudili	mte:Vmep-pm	ponuditi
+delo	mte:Ncnsa	delo
+v	mte:Sl	v
+eni	mte:Mlpfsl	en
+od	mte:Sg	od
+drugih	mte:Mlpfpg	drug
+trgovin	mte:Ncfpg	trgovina
+.	mte:Z	.
+Prenehali	mte:Vmep-pm	prenehati
+smo	mte:Va-r1p-n	biti
+podaljševati	mte:Vmpn	podaljševati
+nekatere	mte:Pi-fpa	nekateri
+pogodbe	mte:Ncfpa	pogodba
+o	mte:Sl	o
+zaposlitvi	mte:Ncfsl	zaposlitev
+za	mte:Sa	za
+določen	mte:Appmsan	določen
+čas	mte:Ncmsan	čas
+.	mte:Z	.
+Teh	mte:Pd-fpg	ta
+pogodb	mte:Ncfpg	pogodba
+je	mte:Va-r3s-n	biti
+30	mte:Mdc	30
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+razložil	mte:Vmep-sm	razložiti
+Knuplež	mte:Npmsn	Knuplež
+.	mte:Z	.
+Zaposleni	mte:Appmpn	zaposlen
+v	mte:Sl	v
+Big	mte:Npmsn	Big
+Bangu	mte:Npmsl	Bang
+,	mte:Z	,
+ki	mte:Cs	ki
+niso	mte:Va-r3p-y	biti
+želeli	mte:Vmpp-pm	želeti
+biti	mte:Va-n	biti
+imenovani	mte:Appmpn	imenovan
+,	mte:Z	,
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+opozorili	mte:Vmep-pm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+možnost	mte:Ncfsa	možnost
+zaposlitve	mte:Ncfsg	zaposlitev
+v	mte:Sl	v
+drugih	mte:Mlpfpl	drug
+poslovalnicah	mte:Ncfpl	poslovalnica
+dobi	mte:Vmer3s	dobiti
+le	mte:Q	le
+peščica	mte:Ncfsn	peščica
+.	mte:Z	.
+V	mte:Sl	v
+poslovni	mte:Agpfsl	posloven
+enoti	mte:Ncfsl	enota
+Slovenj	mte:Npmsn	Slovenj
+Gradec	mte:Npmsn	Gradec
+bo	mte:Va-f3s-n	biti
+premeščen	mte:Appmsnn	premeščen
+samo	mte:Q	samo
+en	mte:Mlpmsn	en
+delavec	mte:Ncmsn	delavec
+od	mte:Sg	od
+osmih	mte:Mlc-pg	osem
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+ni	mte:Va-r3s-y	biti
+skrivnost	mte:Ncfsn	skrivnost
+.	mte:Z	.
+Malenkost	mte:Ncfsn	malenkost
+drugače	mte:Rgp	drugače
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+v	mte:Sl	v
+Velenju	mte:Npnsl	Velenje
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+zatrdili	mte:Vmep-pm	zatrditi
+.	mte:Z	.
+Spregovorila	mte:Vmep-sf	spregovoriti
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+ena	mte:Mlpfsn	en
+bralka	mte:Ncfsn	bralka
+V	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+Big	mte:Npmsn	Big
+Bang	mte:Npmsn	Bang
+sem	mte:Va-r1s-n	biti
+bila	mte:Va-p-sf	biti
+zaposlena	mte:Appfsn	zaposlen
+sedem	mte:Mlc-pa	sedem
+let	mte:Ncnpg	leto
+,	mte:Z	,
+sedaj	mte:Rgp	sedaj
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+me	mte:Pp1-sa--y	jaz
+odpustili	mte:Vmep-pm	odpustiti
+na	mte:Sa	na
+umazan	mte:Appmsan	umazan
+način	mte:Ncmsan	način
+.	mte:Z	.
+Iz	mte:Sg	iz
+poslovalnice	mte:Ncfsg	poslovalnica
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+so	mte:Va-r3p-n	biti
+me	mte:Pp1-sa--y	jaz
+premestili	mte:Vmep-pm	premestiti
+v	mte:Sa	v
+poslovalnico	mte:Ncfsa	poslovalnica
+Kočevje	mte:Npnsa	Kočevje
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+pa	mte:Cc	pa
+sem	mte:Va-r1s-n	biti
+dobila	mte:Vmep-sf	dobiti
+priporočeno	mte:Appfsa	priporočen
+pošto	mte:Ncfsa	pošta
+o	mte:Sl	o
+nameri	mte:Ncfsl	namera
+o	mte:Sl	o
+odpustitvi	mte:Ncfsl	odpustitev
+,	mte:Z	,
+ker	mte:Cs	ker
+se	mte:Px------y	se
+poslovalnica	mte:Ncfsn	poslovalnica
+v	mte:Sl	v
+Kočevju	mte:Npnsl	Kočevje
+zapira	mte:Vmpr3s	zapirati
+.	mte:Z	.
+Po	mte:Sl	po
+14	mte:Mdc	14
+dneh	mte:Ncmpl	dan
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+mi	mte:Pp1-sd--y	jaz
+odpoved	mte:Ncfsa	odpoved
+prinesli	mte:Vmep-pm	prinesti
+domov	mte:Rgp	domov
+.	mte:Z	.
+Sedaj	mte:Rgp	sedaj
+sem	mte:Va-r1s-n	biti
+v	mte:Sl	v
+odpovednem	mte:Agpmsl	odpoveden
+roku	mte:Ncmsl	rok
+in	mte:Cc	in
+obogatela	mte:Vmep-sf	obogateti
+bom	mte:Va-f1s-n	biti
+za	mte:Sa	za
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+odpravnine	mte:Ncfsg	odpravnina
+in	mte:Cc	in
+potjo	mte:Ncfsa	pot
+na	mte:Sa	na
+Zavod	mte:Ncmsan	zavod
+za	mte:Sa	za
+zaposlovanje	mte:Ncnsa	zaposlovanje
+.	mte:Z	.
+Skupno	mte:Agpnsn	skupen
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+v	mte:Sl	v
+Big	mte:Ncmsn	big
+Bangu	mte:Npmsl	Bang
+zaposlenih	mte:Appfpg	zaposlen
+490	mte:Mdc	490
+oseb	mte:Ncfpg	oseba
+.	mte:Z	.
+Rezultat	mte:Ncmsn	rezultat
+poslovanja	mte:Ncnsg	poslovanje
+Big	mte:Ncmsn	big
+Banga	mte:Npmsg	Banga
+za	mte:Sa	za
+prve	mte:Mlompa	prvi
+tri	mte:Mlcmpa	trije
+mesece	mte:Ncmpa	mesec
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+zagotovilih	mte:Ncnpl	zagotovilo
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+pozitiven	mte:Agpmsnn	pozitiven
+.	mte:Z	.
+Merkur	mte:Npmsn	Merkur
+zaposluje	mte:Vmpr3s	zaposlovati
+Istenič	mte:Npmsn	Istenič
+je	mte:Va-r3s-n	biti
+zanikal	mte:Vmep-sm	zanikati
+govorice	mte:Ncfpa	govorica
+o	mte:Sl	o
+zapiranju	mte:Ncnsl	zapiranje
+Merkurjevih	mte:Aspmpg	Merkurjev
+centrov	mte:Ncmpg	center
+.	mte:Z	.
+V	mte:Sl	v
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+smo	mte:Va-r1p-n	biti
+imeli	mte:Vmpp-pm	imeti
+dve	mte:Mlcfda	dva
+trgovini	mte:Ncfda	trgovina
+,	mte:Z	,
+eno	mte:Mlpnsa	en
+za	mte:Sa	za
+gospodinje	mte:Ncnpa	gospodinja
+,	mte:Z	,
+drugo	mte:Mlpnsa	drug
+za	mte:Sa	za
+mojstre	mte:Ncmpa	mojster
+,	mte:Z	,
+zato	mte:Cc	zato
+smo	mte:Va-r1p-n	biti
+ju	mte:Pp3mda--y	on
+15	mte:Mdc	15
+.	mte:Z	.
+aprila	mte:Ncmsg	april
+zaprli	mte:Vmep-pm	zapreti
+,	mte:Z	,
+21	mte:Mdc	21
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+pa	mte:Cc	pa
+odpiramo	mte:Vmpr1p	odpirati
+en	mte:Mlpmsa	en
+velik	mte:Agpmsan	velik
+center	mte:Ncmsan	center
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+kupci	mte:Ncmpn	kupec
+vse	mte:Pg-nsa	ves
+našli	mte:Vmep-pm	najti
+na	mte:Sl	na
+enem	mte:Mlpnsl	en
+mestu	mte:Ncnsl	mesto
+.	mte:Z	.
+Podobno	mte:Rgp	podobno
+nameravamo	mte:Vmpr1p	nameravati
+letos	mte:Rgp	letos
+storiti	mte:Vmen	storiti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Škofji	mte:Agpfsl	škofji
+Loki	mte:Npfsl	Loki
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Večji	mte:Agcmpn	velik
+trgovinski	mte:Agpmpn	trgovinski
+centri	mte:Ncmpn	center
+prinašajo	mte:Vmpr3p	prinašati
+tudi	mte:Q	tudi
+nova	mte:Agpnpa	nov
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+,	mte:Z	,
+konkretno	mte:Rgp	konkretno
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+zaposlili	mte:Vmep-pm	zaposliti
+še	mte:Q	še
+12	mte:Mdc	12
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+V	mte:Sl	v
+Merkurju	mte:Npmsl	Merkur
+,	mte:Z	,
+kjer	mte:Cs	kjer
+polovico	mte:Ncfsa	polovica
+blaga	mte:Ncnsg	blago
+prodajo	mte:Vmer3p	prodati
+končnim	mte:Agpmpd	končen
+kupcem	mte:Ncmpd	kupec
+,	mte:Z	,
+polovico	mte:Ncfsa	polovica
+pa	mte:Cc	pa
+podjetjem	mte:Ncnpd	podjetje
+,	mte:Z	,
+finančno	mte:Agpfsa	finančen
+krizo	mte:Ncfsa	kriza
+že	mte:Q	že
+blažje	mte:Rgc	blagje
+občutijo	mte:Vmer3p	občutiti
+.	mte:Z	.
+Pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+podjetjem	mte:Ncnsi	podjetje
+se	mte:Px------y	se
+pozna	mte:Vmpr3s	poznati
+upad	mte:Ncmsn	upad
+prodaje	mte:Ncfsg	prodaja
+,	mte:Z	,
+ugotavljajo	mte:Vmpr3p	ugotavljati
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+naključnih	mte:Agpmpg	naključen
+kupcev	mte:Ncmpg	kupec
+.	mte:Z	.
+Zaenkrat	mte:Rgp	zaenkrat
+je	mte:Va-r3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+v	mte:Sl	v
+trgovinskih	mte:Agpmpl	trgovinski
+centrih	mte:Ncmpl	center
+solidna	mte:Agpfsn	soliden
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ne	mte:Q	ne
+moremo	mte:Vmpr1p	moči
+govoriti	mte:Vmpn	govoriti
+o	mte:Sl	o
+rasti	mte:Ncfsl	rast
+.	mte:Z	.
+Kupci	mte:Ncmpn	kupec
+so	mte:Va-r3p-n	biti
+postali	mte:Vmep-pm	postati
+previdni	mte:Agpmpn	previden
+,	mte:Z	,
+naključnih	mte:Agpmpg	naključen
+nakupovalcev	mte:Ncmpg	nakupovalec
+je	mte:Va-r3s-n	biti
+manj	mte:Rgc	manj
+,	mte:Z	,
+potrošnik	mte:Ncmsn	potrošnik
+v	mte:Sa	v
+trgovino	mte:Ncfsa	trgovina
+vstopi	mte:Vmer3s	vstopiti
+že	mte:Q	že
+odločen	mte:Appmsnn	odločen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Istenič	mte:Npmsn	Istenič

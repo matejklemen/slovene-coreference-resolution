@@ -1,412 +1,431 @@
-token	tag
-Podjetji	Ncnpn
-Go	Npmsn
--	Z
-rent	Ncmsn
-in	Cc
-Terr	Npmsn
--	Z
-RB	Npmsn
-sta	Va-r3d-n
-v	Sl
-Primorju	Npnsl
-rubili	Vmpp-dm
-kamnolom	Ncmsan
-in	Cc
-asfaltno	Agpfsa
-bazo	Ncfsa
-Laže	Rgp
-pri	Sl
-Senožečah	Npnpl
-ter	Cc
-opremo	Ncfsa
-za	Sa
-izdelavo	Ncfsa
-betonskih	Agpmpg
-polizdelkov	Ncmpg
-.	Z
-Lastnik	Ncmsn
-Go	Npmsn
--	Z
-renta	Ncfsn
-je	Va-r3s-n
-zet	Ncmsn
-nekdanjega	Agpmsg
-prvega	Mlomsg
-moža	Ncmsg
-in	Cc
-posredno	Rgp
-največjega	Agsmsg
-lastnika	Ncmsg
-Primorja	Npnsg
-Dušana	Npmsg
-Črnigoja	Npmsg
-Valter	Npmsn
-Kobal	Npmsn
-.	Z
-Dušan	Npmsn
-Črnigoj	Npmsn
-Rubežniki	Npmpn
-so	Va-r3p-n
-z	Sg
-dvorišča	Ncnsg
-ugašajočega	Appnsg
-gradbenega	Agpnsg
-podjetja	Ncnsg
-Primorje	Npnsa
-odpeljali	Vmep-pm
-marsikaj	Rgp
-.	Z
-Kot	Cs
-najbolj	Rgs
-nenavaden	Agpmsan
-rubež	Ncmsan
-pa	Cc
-v	Sl
-Ajdovščini	Npfsl
-označujejo	Vmpr3p
-rubež	Ncmsan
-podjetij	Ncnpg
-Go	Npmsn
--	Z
-rent	Npmsn
-in	Cc
-Terr	Npmsn
--	Z
-RB	Npmsn
-,	Z
-ki	Cs
-jima	Pp3mdd--y
-je	Va-r3s-n
-uspelo	Vmep-sn
-zarubiti	Vmen
-premoženje	Ncnsa
-,	Z
-ki	Cs
-še	Q
-ni	Va-r3s-y
-bilo	Va-p-sn
-pod	Si
-plombo	Ncfsi
-,	Z
-niti	Q
-po	Sl
-njem	Pp3msl
-prej	Rgc
-niso	Va-r3p-y
-posegli	Vmep-pm
-drugi	Mlpmpn
-upniki	Ncmpn
-.	Z
-Le	Q
-nekaj	Rgp
-dni	Ncmpg
-pred	Si
-razglasitvijo	Ncfsi
-stečaja	Ncmsg
-sta	Va-r3d-n
-namreč	Cc
-zarubila	Vmep-dm
-kamnolom	Ncmsan
-in	Cc
-asfaltno	Agpfsa
-bazo	Ncfsa
-Laže	Rgp
-pri	Sl
-Senožečah	Npnpl
-ter	Cc
-opremo	Ncfsa
-za	Sa
-izdelavo	Ncfsa
-betonskih	Agpmpg
-polizdelkov	Ncmpg
-,	Z
-poroča	Vmpr3s
-časnik	Ncmsn
-Finance	Ncmpa
-.	Z
-Rubež	Npmsn
-je	Va-r3s-n
-še	Q
-toliko	Rgp
-bolj	Rgc
-nenavaden	Agpmsnn
-zaradi	Sg
-dejstva	Ncnsg
-,	Z
-ker	Cs
-je	Va-r3s-n
-lastnik	Ncmsn
-podjetja	Ncnsg
-Go	Npmsn
--	Z
-rent	Ncmsn
-zet	Ncmsn
-nekdanjega	Agpmsg
-prvega	Mlomsg
-moža	Ncmsg
-in	Cc
-posredno	Rgp
-največjega	Agsmsg
-lastnika	Ncmsg
-Primorja	Npnsg
-Dušana	Npmsg
-Črnigoja	Npmsg
-Valter	Npmsn
-Kobal	Npmsn
-.	Z
-Ta	Pd-msn
-je	Va-r3s-n
-sicer	Q
-za	Sa
-Primorje	Npnsa
-več	Rgc
-let	Ncnpg
-opravljal	Vmpp-sm
-prevoze	Ncmpa
-delavcev	Ncmpg
-.	Z
-Po	Sl
-informacijah	Ncfpl
-Financ	Npfpg
-je	Va-r3s-n
-Primorje	Npnsn
-spomladi	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-večina	Ncfsn
-gradbišč	Ncnpg
-že	Q
-stala	Vmpp-sf
-,	Z
-za	Sa
-kompenzacijo	Ncfsa
-gradilo	Vmpp-sn
-hiši	Ncfsd
-Kobalu	Npmsd
-in	Cc
-Črnigojevi	Aspfsd
-hčeri	Ncfsd
-Jasni	Npfsd
-v	Sl
-Ajdovščini	Npfsl
-.	Z
-Sporna	Agpfsn
-prodaja	Ncfsn
-Rudisa	Npmsg
-Gradbena	Agpfsn
-trgovina	Ncfsn
-Terra	Npfsn
--	Z
-RB	Npmsn
-naj	Q
-bi	Va-c
-imela	Vmpp-sf
-do	Sg
-Primorja	Npnsg
-1,8	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-terjatev	Ncfpg
-.	Z
-Stečajnega	Agpmsg
-upravitelja	Ncmsg
-Primorja	Npnsg
-Rudolfa	Npmsg
-Hramca	Npmsg
-sicer	Q
-čaka	Vmpr3s
-še	Q
-precej	Rgp
-okostnjakov	Ncmpg
-v	Sl
-omarah	Ncfpl
-.	Z
-V	Sl
-zadnjem	Agpnsl
-letu	Ncnsl
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-prodanih	Appfpg
-ali	Cc
-kako	Rgp
-drugače	Rgp
-odtujenih	Appfpg
-več	Rgc
-nepremičnin	Ncfpg
-,	Z
-predvsem	Q
-na	Sl
-Obali	Ncfsl
-in	Cc
-v	Sl
-Ljubljani	Npfsl
-.	Z
-Največji	Agsmsny
-posel	Ncmsan
-,	Z
-ki	Cs
-zapade	Vmer3s
-v	Sa
-enoletni	Agpmsay
-izpodbojni	Agpmsay
-rok	Ncmsan
-,	Z
-pa	Cc
-je	Va-r3s-n
-prodaja	Ncfsn
-trboveljskega	Agpmsg
-Rudisa	Npmsg
-.	Z
-Prodajna	Agpfsn
-cena	Ncfsn
-devet	Mlc-pa
-milijonov	Ncmpg
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-prenizka	Agpfsn
-glede	Rgp
-na	Sa
-obseg	Ncmsan
-poslov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-ima	Vmpr3s-n
-podjetje	Ncnsn
-,	Z
-čeprav	Cs
-je	Va-r3s-n
-višja	Agcfsn
-od	Sg
-cenitve	Ncfsg
-.	Z
-Senca	Ncfsn
-na	Sa
-posel	Ncmsan
-pa	Cc
-pade	Vmer3s
-tudi	Q
-,	Z
-ker	Cs
-je	Va-r3s-n
-podpisnica	Ncfsn
-pogodbe	Ncfsg
-Marjana	Npmsg
-Novak	Npmsn
-nato	Rgp
-našla	Vmep-sf
-zaposlitev	Ncfsa
-v	Sl
-KIG	Npmsl
-na	Sl
-Igu	Npmsl
-,	Z
-katerega	Pq-msg
-lastnika	Ncmsg
-sta	Va-r3d-n
-Marko	Npmsn
-Mohar	Npmsn
-in	Cc
-Matjaž	Npmsn
-Satler	Npmsn
-.	Z
-Slednja	Npmsn
-sta	Va-r3d-n
-kupila	Vmep-dm
-Rudis	Npmsan
-in	Cc
-del	Ncmsn
-pozneje	Rgc
-preprodala	Vmep-dm
-švicarskemu	Agpnsd
-podjetju	Ncnsd
-Cottagon	Npmsn
-.	Z
-Z	Si
-njima	Pp3mdi
-se	Px------y
-je	Va-r3s-n
-o	Sl
-prodaji	Ncfsl
-Rudisa	Npmsg
-pogajal	Vmpp-sm
-že	Q
-Črnigoj	Npmsn
-,	Z
-dodajajo	Vmpr3p
-pri	Sl
-Financah	Ncfpl
-.	Z
-Foto	Ncmsn
-POP	Ncmsn
-TV	Ncmsn
-Po	Sl
-neuradnih	Agpmpl
-podatkih	Ncmpl
-časnika	Ncmsg
-naj	Q
-bi	Va-c
-revizija	Ncfsn
-Deloitte	Npfsn
-pokazala	Vmep-sf
-za	Sa
-20	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-spornih	Agpmpg
-poslov	Ncmpg
-od	Sg
-leta	Ncnsg
-2007	Mdc
-do	Sg
-septembra	Ncmsg
-lani	Rgp
-.	Z
-Ti	Pd-mpn
-najbolj	Rgs
-bremenijo	Vmpr3p
-prav	Q
-Črnigoja	Npmsay
-in	Cc
-nekdanjega	Agpmsa
-finančnika	Ncmsay
-Alojza	Npmsay
-Bolčino	Npfsa
-.	Z
-Med	Si
-drugim	Mlpnsi
-naj	Q
-bi	Va-c
-bila	Va-p-pn
-sporna	Agpnpn
-sponzorstva	Ncnpn
-in	Cc
-posojila	Ncnpn
-nogometnemu	Agpmsd
-klubu	Ncmsd
-Primorje	Npnsn
-,	Z
-podrejeno	Appnsn
-posojilo	Ncnsn
-za	Sa
-graditelja	Ncmsay
-Stožic	Npfpg
-Grep	Npmsn
-,	Z
-nakup	Ncmsn
-podjetja	Ncnsg
-Stavbar	Npmsn
-IGM	Npmsn
-in	Cc
-več	Rgc
-nepremičninskih	Agpmpg
-poslov	Ncmpg
-na	Sl
-Obali	Npfsl
-in	Cc
-Balkanu	Npmsl
-.	Z
+token	tag	lemma
+Podjetji	mte:Ncnpn	podjetje
+Go	mte:Npmsn	Go
+-	mte:Z	-
+rent	mte:Ncmsn	rent
+in	mte:Cc	in
+Terr	mte:Npmsn	Terr
+-	mte:Z	-
+RB	mte:Npmsn	RB
+sta	mte:Va-r3d-n	biti
+v	mte:Sl	v
+Primorju	mte:Npnsl	Primorje
+rubili	mte:Vmpp-dm	rubiti
+kamnolom	mte:Ncmsan	kamnol
+in	mte:Cc	in
+asfaltno	mte:Agpfsa	asfalten
+bazo	mte:Ncfsa	baza
+Laže	mte:Rgp	lahko
+pri	mte:Sl	pri
+Senožečah	mte:Npnpl	Senožeče
+ter	mte:Cc	ter
+opremo	mte:Ncfsa	oprema
+za	mte:Sa	za
+izdelavo	mte:Ncfsa	izdelava
+betonskih	mte:Agpmpg	betonski
+polizdelkov	mte:Ncmpg	polizdelek
+.	mte:Z	.
+Lastnik	mte:Ncmsn	lastnik
+Go	mte:Npmsn	Go
+-	mte:Z	-
+renta	mte:Ncfsn	rent
+je	mte:Va-r3s-n	biti
+zet	mte:Ncmsn	zet
+nekdanjega	mte:Agpmsg	nekdanji
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+in	mte:Cc	in
+posredno	mte:Rgp	posredno
+največjega	mte:Agsmsg	velik
+lastnika	mte:Ncmsg	lastnik
+Primorja	mte:Npnsg	Primorje
+Dušana	mte:Npmsg	Dušan
+Črnigoja	mte:Npmsg	Črnigo
+Valter	mte:Npmsn	Valter
+Kobal	mte:Npmsn	Kobal
+.	mte:Z	.
+Dušan	mte:Npmsn	Dušan
+Črnigoj	mte:Npmsn	Črnigoj
+Rubežniki	mte:Npmpn	Rubežnik
+so	mte:Va-r3p-n	biti
+z	mte:Sg	z
+dvorišča	mte:Ncnsg	dvorišče
+ugašajočega	mte:Appnsg	ugašajoč
+gradbenega	mte:Agpnsg	gradben
+podjetja	mte:Ncnsg	podjetje
+Primorje	mte:Npnsa	Primorje
+odpeljali	mte:Vmep-pm	odpeljati
+marsikaj	mte:Rgp	marsikaj
+.	mte:Z	.
+Kot	mte:Cs	kot
+najbolj	mte:Rgs	najbolj
+nenavaden	mte:Agpmsan	nenavaden
+rubež	mte:Ncmsan	rubež
+pa	mte:Cc	pa
+v	mte:Sl	v
+Ajdovščini	mte:Npfsl	Ajdovščina
+označujejo	mte:Vmpr3p	označevati
+rubež	mte:Ncmsan	rubež
+podjetij	mte:Ncnpg	podjetje
+Go	mte:Npmsn	Go
+-	mte:Z	-
+rent	mte:Npmsn	rent
+in	mte:Cc	in
+Terr	mte:Npmsn	Terr
+-	mte:Z	-
+RB	mte:Npmsn	RB
+,	mte:Z	,
+ki	mte:Cs	ki
+jima	mte:Pp3mdd--y	on
+je	mte:Va-r3s-n	biti
+uspelo	mte:Vmep-sn	uspeti
+zarubiti	mte:Vmen	zarubiti
+premoženje	mte:Ncnsa	premoženje
+,	mte:Z	,
+ki	mte:Cs	ki
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+pod	mte:Si	pod
+plombo	mte:Ncfsi	plomba
+,	mte:Z	,
+niti	mte:Q	niti
+po	mte:Sl	po
+njem	mte:Pp3msl	on
+prej	mte:Rgc	prej
+niso	mte:Va-r3p-y	biti
+posegli	mte:Vmep-pm	poseči
+drugi	mte:Mlpmpn	drug
+upniki	mte:Ncmpn	upnik
+.	mte:Z	.
+Le	mte:Q	le
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+pred	mte:Si	pred
+razglasitvijo	mte:Ncfsi	razglasitev
+stečaja	mte:Ncmsg	stečaj
+sta	mte:Va-r3d-n	biti
+namreč	mte:Cc	namreč
+zarubila	mte:Vmep-dm	zarubiti
+kamnolom	mte:Ncmsan	kamnol
+in	mte:Cc	in
+asfaltno	mte:Agpfsa	asfalten
+bazo	mte:Ncfsa	baza
+Laže	mte:Rgp	lahko
+pri	mte:Sl	pri
+Senožečah	mte:Npnpl	Senožeče
+ter	mte:Cc	ter
+opremo	mte:Ncfsa	oprema
+za	mte:Sa	za
+izdelavo	mte:Ncfsa	izdelava
+betonskih	mte:Agpmpg	betonski
+polizdelkov	mte:Ncmpg	polizdelek
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+časnik	mte:Ncmsn	časnik
+Finance	mte:Ncmpa	finance
+.	mte:Z	.
+Rubež	mte:Npmsn	Rubež
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+toliko	mte:Rgp	toliko
+bolj	mte:Rgc	bolj
+nenavaden	mte:Agpmsnn	nenavaden
+zaradi	mte:Sg	zaradi
+dejstva	mte:Ncnsg	dejstvo
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+lastnik	mte:Ncmsn	lastnik
+podjetja	mte:Ncnsg	podjetje
+Go	mte:Npmsn	Go
+-	mte:Z	-
+rent	mte:Ncmsn	rent
+zet	mte:Ncmsn	zet
+nekdanjega	mte:Agpmsg	nekdanji
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+in	mte:Cc	in
+posredno	mte:Rgp	posredno
+največjega	mte:Agsmsg	velik
+lastnika	mte:Ncmsg	lastnik
+Primorja	mte:Npnsg	Primorje
+Dušana	mte:Npmsg	Dušan
+Črnigoja	mte:Npmsg	Črnigo
+Valter	mte:Npmsn	Valter
+Kobal	mte:Npmsn	Kobal
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+za	mte:Sa	za
+Primorje	mte:Npnsa	Primorje
+več	mte:Rgc	več
+let	mte:Ncnpg	leto
+opravljal	mte:Vmpp-sm	opravljati
+prevoze	mte:Ncmpa	prevoz
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Po	mte:Sl	po
+informacijah	mte:Ncfpl	informacija
+Financ	mte:Npfpg	Financ
+je	mte:Va-r3s-n	biti
+Primorje	mte:Npnsn	Primorje
+spomladi	mte:Rgp	spomladi
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+večina	mte:Ncfsn	večina
+gradbišč	mte:Ncnpg	gradbišče
+že	mte:Q	že
+stala	mte:Vmpp-sf	stati
+,	mte:Z	,
+za	mte:Sa	za
+kompenzacijo	mte:Ncfsa	kompenzacija
+gradilo	mte:Vmpp-sn	graditi
+hiši	mte:Ncfsd	hiša
+Kobalu	mte:Npmsd	Kobal
+in	mte:Cc	in
+Črnigojevi	mte:Aspfsd	Črnigojev
+hčeri	mte:Ncfsd	hči
+Jasni	mte:Npfsd	Jasna
+v	mte:Sl	v
+Ajdovščini	mte:Npfsl	Ajdovščina
+.	mte:Z	.
+Sporna	mte:Agpfsn	sporen
+prodaja	mte:Ncfsn	prodaja
+Rudisa	mte:Npmsg	Rudis
+Gradbena	mte:Agpfsn	gradben
+trgovina	mte:Ncfsn	trgovina
+Terra	mte:Npfsn	Terra
+-	mte:Z	-
+RB	mte:Npmsn	RB
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imela	mte:Vmpp-sf	imeti
+do	mte:Sg	do
+Primorja	mte:Npnsg	Primorje
+1,8	mte:Mdc	1,8
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+terjatev	mte:Ncfpg	terjatev
+.	mte:Z	.
+Stečajnega	mte:Agpmsg	stečajen
+upravitelja	mte:Ncmsg	upravitelj
+Primorja	mte:Npnsg	Primorje
+Rudolfa	mte:Npmsg	Rudolfa
+Hramca	mte:Npmsg	Hramc
+sicer	mte:Q	sicer
+čaka	mte:Vmpr3s	čakati
+še	mte:Q	še
+precej	mte:Rgp	precej
+okostnjakov	mte:Ncmpg	okostnjak
+v	mte:Sl	v
+omarah	mte:Ncfpl	omara
+.	mte:Z	.
+V	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+letu	mte:Ncnsl	leto
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+prodanih	mte:Appfpg	prodan
+ali	mte:Cc	ali
+kako	mte:Rgp	kako
+drugače	mte:Rgp	drugače
+odtujenih	mte:Appfpg	odtujen
+več	mte:Rgc	več
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+na	mte:Sl	na
+Obali	mte:Ncfsl	obala
+in	mte:Cc	in
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+Največji	mte:Agsmsny	velik
+posel	mte:Ncmsan	posel
+,	mte:Z	,
+ki	mte:Cs	ki
+zapade	mte:Vmer3s	zapasti
+v	mte:Sa	v
+enoletni	mte:Agpmsay	enoleten
+izpodbojni	mte:Agpmsay	izpodbojen
+rok	mte:Ncmsan	rok
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+trboveljskega	mte:Agpmsg	trboveljski
+Rudisa	mte:Npmsg	Rudis
+.	mte:Z	.
+Prodajna	mte:Agpfsn	prodajen
+cena	mte:Ncfsn	cena
+devet	mte:Mlc-pa	devet
+milijonov	mte:Ncmpg	milijon
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+prenizka	mte:Agpfsn	prenizek
+glede	mte:Rgp	glede
+na	mte:Sa	na
+obseg	mte:Ncmsan	obseg
+poslov	mte:Ncmpg	posel
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+ima	mte:Vmpr3s-n	imeti
+podjetje	mte:Ncnsn	podjetje
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+višja	mte:Agcfsn	visok
+od	mte:Sg	od
+cenitve	mte:Ncfsg	cenitev
+.	mte:Z	.
+Senca	mte:Ncfsn	senca
+na	mte:Sa	na
+posel	mte:Ncmsan	posel
+pa	mte:Cc	pa
+pade	mte:Vmer3s	pasti
+tudi	mte:Q	tudi
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+podpisnica	mte:Ncfsn	podpisnica
+pogodbe	mte:Ncfsg	pogodba
+Marjana	mte:Npmsg	Marjan
+Novak	mte:Npmsn	Novak
+nato	mte:Rgp	nato
+našla	mte:Vmep-sf	najti
+zaposlitev	mte:Ncfsa	zaposlitev
+v	mte:Sl	v
+KIG	mte:Npmsl	KIG
+na	mte:Sl	na
+Igu	mte:Npmsl	Igu
+,	mte:Z	,
+katerega	mte:Pq-msg	kateri
+lastnika	mte:Ncmsg	lastnik
+sta	mte:Va-r3d-n	biti
+Marko	mte:Npmsn	Marko
+Mohar	mte:Npmsn	Mohar
+in	mte:Cc	in
+Matjaž	mte:Npmsn	Matjaž
+Satler	mte:Npmsn	Satler
+.	mte:Z	.
+Slednja	mte:Npmsn	slednji
+sta	mte:Va-r3d-n	biti
+kupila	mte:Vmep-dm	kupiti
+Rudis	mte:Npmsan	Rudis
+in	mte:Cc	in
+del	mte:Ncmsn	del
+pozneje	mte:Rgc	pozno
+preprodala	mte:Vmep-dm	preprodati
+švicarskemu	mte:Agpnsd	švicarski
+podjetju	mte:Ncnsd	podjetje
+Cottagon	mte:Npmsn	Cottagon
+.	mte:Z	.
+Z	mte:Si	z
+njima	mte:Pp3mdi	on
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+prodaji	mte:Ncfsl	prodaja
+Rudisa	mte:Npmsg	Rudis
+pogajal	mte:Vmpp-sm	pogajati
+že	mte:Q	že
+Črnigoj	mte:Npmsn	Črnigoj
+,	mte:Z	,
+dodajajo	mte:Vmpr3p	dodajati
+pri	mte:Sl	pri
+Financah	mte:Ncfpl	finance
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+POP	mte:Ncmsn	POP
+TV	mte:Ncmsn	TV
+Po	mte:Sl	po
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+časnika	mte:Ncmsg	časnik
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+revizija	mte:Ncfsn	revizija
+Deloitte	mte:Npfsn	Deloitta
+pokazala	mte:Vmep-sf	pokazati
+za	mte:Sa	za
+20	mte:Mdc	20
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+spornih	mte:Agpmpg	sporen
+poslov	mte:Ncmpg	posel
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+do	mte:Sg	do
+septembra	mte:Ncmsg	september
+lani	mte:Rgp	lani
+.	mte:Z	.
+Ti	mte:Pd-mpn	ta
+najbolj	mte:Rgs	najbolj
+bremenijo	mte:Vmpr3p	bremeniti
+prav	mte:Q	prav
+Črnigoja	mte:Npmsay	Črnigo
+in	mte:Cc	in
+nekdanjega	mte:Agpmsa	nekdanji
+finančnika	mte:Ncmsay	finančnik
+Alojza	mte:Npmsgy	Alojza
+Bolčino	mte:Npfsa	Bolčina
+.	mte:Z	.
+Med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-pn	biti
+sporna	mte:Agpnpn	sporen
+sponzorstva	mte:Ncnpn	sponzorstvo
+in	mte:Cc	in
+posojila	mte:Ncnpn	posojilo
+nogometnemu	mte:Agpmsd	nogometen
+klubu	mte:Ncmsd	klub
+Primorje	mte:Npnsn	Primorje
+,	mte:Z	,
+podrejeno	mte:Appnsn	podrejen
+posojilo	mte:Ncnsn	posojilo
+za	mte:Sa	za
+graditelja	mte:Ncmsay	graditelj
+Stožic	mte:Npfpg	Stožic
+Grep	mte:Npmsn	Grep
+,	mte:Z	,
+nakup	mte:Ncmsn	nakup
+podjetja	mte:Ncnsg	podjetje
+Stavbar	mte:Npmsn	Stavbar
+IGM	mte:Npmsn	IGM
+in	mte:Cc	in
+več	mte:Rgc	več
+nepremičninskih	mte:Agpmpg	nepremičninski
+poslov	mte:Ncmpg	posel
+na	mte:Sl	na
+Obali	mte:Npfsl	Obali
+in	mte:Cc	in
+Balkanu	mte:Npmsl	Balkan
+.	mte:Z	.
+Večji	mte:Agcmsny	velik
+del	mte:Ncmsn	del
+teh	mte:Pd-mpg	ta
+poslov	mte:Ncmpg	posel
+ni	mte:Va-r3s-y	biti
+moč	mte:Ncfsn	moč
+izpodbijati	mte:Vmpn	izpodbijati
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+moč	mte:Ncfsn	moč
+vložiti	mte:Vmen	vložiti
+ovadbe	mte:Ncfpa	ovadba
+,	mte:Z	,
+še	mte:Q	še
+zaključujejo	mte:Vmpr3p	zaključevati
+v	mte:Sl	v
+časniku	mte:Ncmsl	časnik

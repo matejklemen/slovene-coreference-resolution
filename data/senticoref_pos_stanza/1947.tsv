@@ -1,396 +1,429 @@
-token	tag
-Slovenija	Npfsn
-bo	Va-f3s-n
-na	Sl
-sestankih	Ncmpl
-z	Si
-mednarodnimi	Agpmpi
-investitorji	Ncmpi
-preverila	Vmep-sf
-možnosti	Ncfpa
-letošnjega	Agpnsg
-financiranja	Ncnsg
-na	Sl
-mednarodnih	Agpmpl
-trgih	Ncmpl
-.	Z
-Srečanja	Ncnsg
-bodo	Va-f3p-n
-potekala	Vmpp-pn
-v	Sl
-ključnih	Agpnpl
-ameriških	Agpnpl
-finančnih	Agpnpl
-središčih	Ncnpl
-in	Cc
-v	Sl
-Londonu	Npmsl
-.	Z
-Uroš	Npmsn
-Čufer	Npmsn
-Danes	Rgp
-se	Px------y
-začenjajo	Vmpr3p
-sestanki	Ncmpn
-z	Si
-mednarodnimi	Agpmpi
-vlagatelji	Ncmpi
-,	Z
-na	Sl
-katerih	Pq-mpl
-bo	Va-f3s-n
-Slovenija	Npfsn
-preverila	Vmep-sf
-možnost	Ncfsa
-letošnjega	Agpnsg
-financiranja	Ncnsg
-na	Sl
-mednarodnih	Agpmpl
-trgih	Ncmpl
-.	Z
-Mandat	Ncmsan
-za	Sa
-organizacijo	Ncfsa
-sestankov	Ncmpg
-so	Va-r3p-n
-dobile	Vmep-pf
-banke	Ncfpa
-BNP	Npmsn
-Paribas	Npmsn
-,	Z
-Deutsche	Npmsn
-Bank	Npfsn
-in	Cc
-JP	Npmsn
-Morgan	Npmsn
-Chase	Npmsn
-,	Z
-srečanja	Ncnsg
-pa	Cc
-bodo	Va-f3p-n
-potekala	Vmpp-pn
-v	Sl
-ključnih	Agpnpl
-ameriških	Agpnpl
-finančnih	Agpnpl
-središčih	Ncnpl
-in	Cc
-v	Sl
-Londonu	Npmsl
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-finance	Ncfpa
-so	Va-r3p-n
-minuli	Appmsay
-teden	Ncmsan
-pojasnili	Vmep-pm
-,	Z
-da	Cs
-ne	Q
-gre	Vmbr3s
-za	Sa
-mandat	Ncmsan
-za	Sa
-izvedbo	Ncfsa
-izdaje	Ncfsg
-obveznice	Ncfsg
-,	Z
-ampak	Cc
-za	Sa
-non	Ncmsn
--	Z
-deal	Ncmsan
-related	Xf
-road	Xf
-show	Xf
-oz	Npmsn
-.	Z
-pripravo	Ncfsa
-srečanj	Ncnpg
-s	Si
-potencialnimi	Agpmpi
-vlagatelji	Ncmpi
-brez	Sg
-ponudb	Ncfpg
-za	Sa
-sklenitev	Ncfsa
-posla	Ncmsg
-.	Z
-Sestanki	Ncmpn
-bodo	Va-f3p-n
-potekali	Vmpp-pm
-v	Sl
-New	Npmsn
-Yorku	Npmsl
-,	Z
-Bostonu	Npmsl
-,	Z
-Los	Npmsl
-Angelesu	Npmsl
-,	Z
-San	Npmsl
-Franciscu	Npmsl
-in	Cc
-na	Sl
-koncu	Ncmsl
-še	Q
-v	Sl
-londonskem	Agpmsl
-Cityju	Npmsl
-,	Z
-na	Sl
-sestankih	Ncmpl
-pa	Cc
-bo	Va-f3s-n
-vlagatelje	Ncmpa
-o	Sl
-varnosti	Ncfsl
-naložbe	Ncfsg
-v	Sa
-slovenski	Agpmsly
-državni	Agpmsly
-dolg	Agpmsan
-prepričeval	Vmpp-sm
-tudi	Q
-minister	Ncmsn
-za	Sa
-finance	Ncfpa
-Uroš	Npmsn
-Čufer	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-pretekli	Vmep-sm
-konec	Sg
-tedna	Ncmsg
-mudil	Vmpp-sm
-na	Sl
-spomladanskem	Agpnsl
-srečanju	Ncnsl
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-in	Cc
-Svetovne	Agpfsg
-banke	Ncfsg
-.	Z
-Tam	Rgp
-je	Va-r3s-n
-skušal	Vmpp-sm
-skupaj	Rgp
-z	Si
-guvernerjem	Ncmsi
-Banke	Ncfsg
-Slovenije	Npfsg
-Markom	Npmsi
-Kranjcem	Npmsi
-mednarodno	Agpfsi
-finančno	Agpfsa
-javnost	Ncfsa
-prepričati	Vmen
-o	Sl
-sposobnosti	Ncfsl
-Slovenije	Npfsg
-,	Z
-da	Cs
-sama	Agpfsn
-premaga	Vmer3s
-finančne	Agpfpa
-in	Cc
-gospodarske	Agpfpa
-težave	Ncfpa
-.	Z
-Kot	Cs
-sta	Va-r3d-n
-povedala	Vmep-dm
-po	Sl
-koncu	Ncmsl
-srečanj	Ncnpg
-,	Z
-jima	Pp3mdd--y
-je	Va-r3s-n
-pomirjevalna	Agpfsn
-misija	Ncfsn
-dobro	Rgp
-uspela	Vmep-sf
-.	Z
-Po	Sl
-lanskem	Agpmsl
-road	Ncmsl
-showu	Ncmsl
-sledila	Vmpp-sf
-prodaja	Ncfsn
-obveznice	Ncfsg
-Foto	Npmsn
-Reuters	Npmsn
-Slovenija	Npfsn
-je	Va-r3s-n
-podoben	Agpmsnn
-road	Ncmsn
-show	Ncmsn
-ob	Sl
-prisotnosti	Ncfsl
-takratnega	Agpmsg
-ministra	Ncmsg
-Janeza	Npmsg
-Šušteršiča	Npmsg
-izvedla	Vmep-sf
-že	Q
-minulo	Appfsa
-jesen	Ncfsa
-,	Z
-nato	Rgp
-pa	Cc
-je	Va-r3s-n
-že	Q
-čez	Sa
-nekaj	Rgp
-dni	Ncmpg
-po	Sl
-predstavitvah	Ncfpl
-izdala	Vmep-sf
-10	Mdc
--	Z
-letne	Agpfpa
-dolarske	Agpfpa
-obveznice	Ncfpa
-in	Cc
-z	Si
-njimi	Pp3mpi
-zbrala	Vmep-sf
-2,25	Mdc
-milijarde	Ncfsg
-dolarjev	Ncmpg
-.	Z
-Izdajo	Ncfsa
-dolarske	Agpfpg
-obveznice	Ncfsg
-po	Sl
-Čuferjevih	Aspfpl
-besedah	Ncfpl
-načrtuje	Vmpr3s
-tudi	Q
-zdaj	Rgp
-.	Z
-A	Cc
-tokrat	Rgp
-je	Va-r3s-n
-Slovenija	Npfsn
-pod	Si
-še	Q
-večjim	Agcmsi
-pritiskom	Ncmsi
-in	Cc
-drobnogledom	Ncmsi
-trgov	Ncmpg
-kot	Cs
-lansko	Agpfsa
-jesen	Ncfsa
-.	Z
-Predvsem	Q
-ciprska	Agpfsn
-kriza	Ncfsn
-je	Va-r3s-n
-s	Si
-političnimi	Agpfpi
-razmerami	Ncfpi
-v	Sl
-državi	Ncfsl
-spodbudila	Vmep-sf
-špekulacije	Ncfpa
-,	Z
-da	Cs
-bi	Va-c
-Slovenija	Npfsn
-utegnila	Vmbp-sf
-biti	Va-n
-naslednja	Agpfsn
-članica	Ncfsn
-evroobmočja	Ncnsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-morala	Vmpp-sf
-zaprositi	Vmen
-za	Sa
-pomoč	Ncfsa
-.	Z
-Vlada	Ncfsn
-takšne	Pd-fsg
-špekulacije	Ncfsg
-vztrajno	Rgp
-zavrača	Vmpr3s
-in	Cc
-napoveduje	Vmpr3s
-celovit	Agpmsan
-nabor	Ncmsan
-ukrepov	Ncmpg
-za	Sa
-izhod	Ncmsan
-iz	Sg
-krize	Ncfsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-do	Sg
-9	Mdc
-.	Z
-maja	Ncmsg
-predstavila	Vmep-sf
-v	Sl
-okviru	Ncmsl
-programa	Ncmsg
-stabilnosti	Ncfsg
-in	Cc
-nacionalnega	Agpmsg
-reformnega	Agpmsg
-programa	Ncmsg
-ter	Cc
-nato	Rgp
-poslala	Vmep-sf
-v	Sa
-Bruselj	Npmsan
-.	Z
-Uporabila	Vmep-sf
-jih	Pp3mpa--y
-bo	Va-f3s-n
-tudi	Q
-kot	Cs
-orodje	Ncnsa
-za	Sa
-prepričevanje	Ncnsa
-vlagateljev	Ncmpg
-.	Z
-Glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-program	Ncmsn
-še	Q
-ni	Va-r3s-y
-bil	Va-p-sm
-predstavljen	Appmsnn
-,	Z
-je	Va-r3s-n
-za	Sa
-nekatere	Pi-npa
-presenečenje	Ncnsa
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-Slovenija	Npfsn
-že	Q
-podala	Vmbp-sf
-v	Sa
-tipanje	Ncnsa
-terena	Ncmsg
-za	Sa
-izdajo	Ncfsa
-obveznice	Ncfsg
-.	Z
+token	tag	lemma
+Slovenija	mte:Npfsn	Slovenija
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+sestankih	mte:Ncmpl	sestanek
+z	mte:Si	z
+mednarodnimi	mte:Agpmpi	mednaroden
+investitorji	mte:Ncmpi	investitor
+preverila	mte:Vmep-sf	preveriti
+možnosti	mte:Ncfpa	možnost
+letošnjega	mte:Agpnsg	letošnji
+financiranja	mte:Ncnsg	financiranje
+na	mte:Sl	na
+mednarodnih	mte:Agpmpl	mednaroden
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+Srečanja	mte:Ncnsg	srečanje
+bodo	mte:Va-f3p-n	biti
+potekala	mte:Vmpp-pn	potekati
+v	mte:Sl	v
+ključnih	mte:Agpnpl	ključen
+ameriških	mte:Agpnpl	ameriški
+finančnih	mte:Agpnpl	finančen
+središčih	mte:Ncnpl	središče
+in	mte:Cc	in
+v	mte:Sl	v
+Londonu	mte:Npmsl	London
+.	mte:Z	.
+Uroš	mte:Npmsn	Uroš
+Čufer	mte:Npmsn	Čufer
+Danes	mte:Rgp	danes
+se	mte:Px------y	se
+začenjajo	mte:Vmpr3p	začenjati
+sestanki	mte:Ncmpn	sestanek
+z	mte:Si	z
+mednarodnimi	mte:Agpmpi	mednaroden
+vlagatelji	mte:Ncmpi	vlagatelj
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-mpl	kateri
+bo	mte:Va-f3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+preverila	mte:Vmep-sf	preveriti
+možnost	mte:Ncfsa	možnost
+letošnjega	mte:Agpnsg	letošnji
+financiranja	mte:Ncnsg	financiranje
+na	mte:Sl	na
+mednarodnih	mte:Agpmpl	mednaroden
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+Mandat	mte:Ncmsan	mandat
+za	mte:Sa	za
+organizacijo	mte:Ncfsa	organizacija
+sestankov	mte:Ncmpg	sestanek
+so	mte:Va-r3p-n	biti
+dobile	mte:Vmep-pf	dobiti
+banke	mte:Ncfpa	banka
+BNP	mte:Npmsn	BNP
+Paribas	mte:Npmsn	Paribas
+,	mte:Z	,
+Deutsche	mte:Npmsn	Deutsche
+Bank	mte:Npfsn	Bank
+in	mte:Cc	in
+JP	mte:Npmsn	JP
+Morgan	mte:Npmsn	Morgan
+Chase	mte:Npmsn	Chase
+,	mte:Z	,
+srečanja	mte:Ncnsg	srečanje
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+potekala	mte:Vmpp-pn	potekati
+v	mte:Sl	v
+ključnih	mte:Agpnpl	ključen
+ameriških	mte:Agpnpl	ameriški
+finančnih	mte:Agpnpl	finančen
+središčih	mte:Ncnpl	središče
+in	mte:Cc	in
+v	mte:Sl	v
+Londonu	mte:Npmsl	London
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+so	mte:Va-r3p-n	biti
+minuli	mte:Appmsay	minul
+teden	mte:Ncmsan	teden
+pojasnili	mte:Vmep-pm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+mandat	mte:Ncmsan	mandat
+za	mte:Sa	za
+izvedbo	mte:Ncfsa	izvedba
+izdaje	mte:Ncfsg	izdaja
+obveznice	mte:Ncfsg	obveznica
+,	mte:Z	,
+ampak	mte:Cc	ampak
+za	mte:Sa	za
+non	mte:Ncmsn	nona
+-	mte:Z	-
+deal	mte:Ncmsan	dealo
+related	mte:Xf	related
+road	mte:Xf	road
+show	mte:Xf	show
+oz	mte:Npmsn	oz
+.	mte:Z	.
+pripravo	mte:Ncfsa	priprava
+srečanj	mte:Ncnpg	srečanje
+s	mte:Si	z
+potencialnimi	mte:Agpmpi	potencialen
+vlagatelji	mte:Ncmpi	vlagatelj
+brez	mte:Sg	brez
+ponudb	mte:Ncfpg	ponudba
+za	mte:Sa	za
+sklenitev	mte:Ncfsa	sklenitev
+posla	mte:Ncmsg	posel
+.	mte:Z	.
+Sestanki	mte:Ncmpn	sestanek
+bodo	mte:Va-f3p-n	biti
+potekali	mte:Vmpp-pm	potekati
+v	mte:Sl	v
+New	mte:Npmsn	New
+Yorku	mte:Npmsl	York
+,	mte:Z	,
+Bostonu	mte:Npmsl	Boston
+,	mte:Z	,
+Los	mte:Npmsl	Los
+Angelesu	mte:Npmsl	Angeles
+,	mte:Z	,
+San	mte:Npmsl	San
+Franciscu	mte:Npmsl	Francisco
+in	mte:Cc	in
+na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+še	mte:Q	še
+v	mte:Sl	v
+londonskem	mte:Agpmsl	londonski
+Cityju	mte:Npmsl	City
+,	mte:Z	,
+na	mte:Sl	na
+sestankih	mte:Ncmpl	sestanek
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+vlagatelje	mte:Ncmpa	vlagatelj
+o	mte:Sl	o
+varnosti	mte:Ncfsl	varnost
+naložbe	mte:Ncfsg	naložba
+v	mte:Sa	v
+slovenski	mte:Agpmsly	slovenski
+državni	mte:Agpmsly	državen
+dolg	mte:Agpmsan	dolg
+prepričeval	mte:Vmpp-sm	prepričevati
+tudi	mte:Q	tudi
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Uroš	mte:Npmsn	Uroš
+Čufer	mte:Npmsn	Čufer
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pretekli	mte:Vmep-sm	preteči
+konec	mte:Sg	konec
+tedna	mte:Ncmsg	teden
+mudil	mte:Vmpp-sm	muditi
+na	mte:Sl	na
+spomladanskem	mte:Agpnsl	spomladanski
+srečanju	mte:Ncnsl	srečanje
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+in	mte:Cc	in
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Tam	mte:Rgp	tam
+je	mte:Va-r3s-n	biti
+skušal	mte:Vmpp-sm	skušati
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+guvernerjem	mte:Ncmsi	guverner
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+Markom	mte:Npmsi	Mark
+Kranjcem	mte:Npmsi	Kranjce
+mednarodno	mte:Agpfsi	mednaroden
+finančno	mte:Agpfsa	finančen
+javnost	mte:Ncfsa	javnost
+prepričati	mte:Vmen	prepričati
+o	mte:Sl	o
+sposobnosti	mte:Ncfsl	sposobnost
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+da	mte:Cs	da
+sama	mte:Agpfsn	sam
+premaga	mte:Vmer3s	premagati
+finančne	mte:Agpfpa	finančen
+in	mte:Cc	in
+gospodarske	mte:Agpfpa	gospodarski
+težave	mte:Ncfpa	težava
+.	mte:Z	.
+Kot	mte:Cs	kot
+sta	mte:Va-r3d-n	biti
+povedala	mte:Vmep-dm	povedati
+po	mte:Sl	po
+koncu	mte:Ncmsl	konec
+srečanj	mte:Ncnpg	srečanje
+,	mte:Z	,
+jima	mte:Pp3mdd--y	on
+je	mte:Va-r3s-n	biti
+pomirjevalna	mte:Agpfsn	pomirjevalen
+misija	mte:Ncfsn	misija
+dobro	mte:Rgp	dobro
+uspela	mte:Vmep-sf	uspeti
+.	mte:Z	.
+Po	mte:Sl	po
+lanskem	mte:Agpmsl	lanski
+road	mte:Ncmsl	road
+showu	mte:Ncmsl	show
+sledila	mte:Vmpp-sf	slediti
+prodaja	mte:Ncfsn	prodaja
+obveznice	mte:Ncfsg	obveznica
+Foto	mte:Npmsn	foto
+Reuters	mte:Npmsn	Reuters
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+podoben	mte:Agpmsnn	podoben
+road	mte:Ncmsn	road
+show	mte:Ncmsn	show
+ob	mte:Sl	ob
+prisotnosti	mte:Ncfsl	prisotnost
+takratnega	mte:Agpmsg	takraten
+ministra	mte:Ncmsg	minister
+Janeza	mte:Npmsg	Janez
+Šušteršiča	mte:Npmsg	Šušteršič
+izvedla	mte:Vmep-sf	izvesti
+že	mte:Q	že
+minulo	mte:Appfsa	minul
+jesen	mte:Ncfsa	jesen
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+čez	mte:Sa	čez
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+predstavitvah	mte:Ncfpl	predstavitev
+izdala	mte:Vmep-sf	izdati
+10	mte:Mdc	10
+-	mte:Z	-
+letne	mte:Agpfpa	leten
+dolarske	mte:Agpfpa	dolarski
+obveznice	mte:Ncfpa	obveznica
+in	mte:Cc	in
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+zbrala	mte:Vmep-sf	zbrati
+2,25	mte:Mdc	2,25
+milijarde	mte:Ncfsg	milijarda
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Izdajo	mte:Ncfsa	izdaja
+dolarske	mte:Agpfpg	dolarski
+obveznice	mte:Ncfsg	obveznica
+po	mte:Sl	po
+Čuferjevih	mte:Aspfpl	Čuferjev
+besedah	mte:Ncfpl	beseda
+načrtuje	mte:Vmpr3s	načrtovati
+tudi	mte:Q	tudi
+zdaj	mte:Rgp	zdaj
+.	mte:Z	.
+A	mte:Cc	a
+tokrat	mte:Rgp	tokrat
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+pod	mte:Si	pod
+še	mte:Q	še
+večjim	mte:Agcmsi	velik
+pritiskom	mte:Ncmsi	pritisk
+in	mte:Cc	in
+drobnogledom	mte:Ncmsi	drobnogled
+trgov	mte:Ncmpg	trg
+kot	mte:Cs	kot
+lansko	mte:Agpfsa	lanski
+jesen	mte:Ncfsa	jesen
+.	mte:Z	.
+Predvsem	mte:Q	predvsem
+ciprska	mte:Agpfsn	ciprski
+kriza	mte:Ncfsn	kriza
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+političnimi	mte:Agpfpi	političen
+razmerami	mte:Ncfpi	razmera
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+spodbudila	mte:Vmep-sf	spodbuditi
+špekulacije	mte:Ncfpa	špekulacija
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+Slovenija	mte:Npfsn	Slovenija
+utegnila	mte:Vmbp-sf	utegniti
+biti	mte:Va-n	biti
+naslednja	mte:Agpfsn	naslednji
+članica	mte:Ncfsn	članica
+evroobmočja	mte:Ncnsg	evrooobmočje
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+zaprositi	mte:Vmen	zaprositi
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+takšne	mte:Pd-fsg	takšen
+špekulacije	mte:Ncfsg	špekulacija
+vztrajno	mte:Rgp	vztrajno
+zavrača	mte:Vmpr3s	zavračati
+in	mte:Cc	in
+napoveduje	mte:Vmpr3s	napovedovati
+celovit	mte:Agpmsan	celovit
+nabor	mte:Ncmsan	nabor
+ukrepov	mte:Ncmpg	ukrep
+za	mte:Sa	za
+izhod	mte:Ncmsan	izhod
+iz	mte:Sg	iz
+krize	mte:Ncfsg	kriza
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+9	mte:Mdc	9
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+predstavila	mte:Vmep-sf	predstaviti
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+programa	mte:Ncmsg	program
+stabilnosti	mte:Ncfsg	stabilnost
+in	mte:Cc	in
+nacionalnega	mte:Agpmsg	nacionalen
+reformnega	mte:Agpmsg	reformen
+programa	mte:Ncmsg	program
+ter	mte:Cc	ter
+nato	mte:Rgp	nato
+poslala	mte:Vmep-sf	poslati
+v	mte:Sa	v
+Bruselj	mte:Npmsan	Bruselj
+.	mte:Z	.
+Uporabila	mte:Vmep-sf	uporabiti
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+tudi	mte:Q	tudi
+kot	mte:Cs	kot
+orodje	mte:Ncnsa	orodje
+za	mte:Sa	za
+prepričevanje	mte:Ncnsa	prepričevanje
+vlagateljev	mte:Ncmpg	vlagatelj
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+program	mte:Ncmsn	program
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+predstavljen	mte:Appmsnn	predstavljen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+nekatere	mte:Pi-npa	nekateri
+presenečenje	mte:Ncnsa	presenečenje
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+že	mte:Q	že
+podala	mte:Vmbp-sf	podati
+v	mte:Sa	v
+tipanje	mte:Ncnsa	tipanje
+terena	mte:Ncmsg	teren
+za	mte:Sa	za
+izdajo	mte:Ncfsa	izdaja
+obveznice	mte:Ncfsg	obveznica
+.	mte:Z	.
+Do	mte:Sg	do
+road	mte:Ncmsn	road
+showa	mte:Ncmsg	show
+prihaja	mte:Vmpr3s	prihajati
+kmalu	mte:Rgp	kmalu
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+predvsem	mte:Q	predvsem
+na	mte:Sl	na
+domačem	mte:Agpmsl	domač
+trgu	mte:Ncmsl	trg
+izdala	mte:Vmep-sf	izdati
+za	mte:Sa	za
+1,1	mte:Mdc	1,1
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+18	mte:Mdc	18
+-	mte:Z	-
+mesečnih	mte:Agpfpg	mesečen
+zakladnih	mte:Agpfpg	zakladen
+menic	mte:Ncfpg	menica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+dvakrat	mte:Rgp	dvakrat
+več	mte:Rgc	več
+od	mte:Sg	od
+načrtovane	mte:Appfsg	načrtovan
+vsote	mte:Ncfsg	vsota

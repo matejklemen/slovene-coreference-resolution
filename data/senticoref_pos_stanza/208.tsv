@@ -1,491 +1,524 @@
-token	tag
-Naraščanje	Ncnsn
-cen	Ncfpg
-hrane	Ncfsg
-v	Sl
-nerazvitih	Agpfpl
-državah	Ncfpl
-bi	Va-c
-lahko	Rgp
-imelo	Vmpp-sn
-grozljive	Agpfpa
-posledice	Ncfpa
-za	Sa
-ves	Pg-msa
-svet	Ncmsan
-,	Z
-je	Va-r3s-n
-opozoril	Vmep-sm
-generalni	Agpmsny
-direktor	Ncmsn
-IMF	Npmsn
-.	Z
-Na	Sl
-srečanju	Ncnsl
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-IMF	Npmsg
-in	Cc
-Svetovne	Agpfsg
-banke	Ncfsg
-SB	Npmsn
-v	Sl
-Washingtonu	Npmsl
-je	Va-r3s-n
-generalni	Agpmsny
-direktor	Ncmsn
-Dominque	Npmsn
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-opozoril	Vmep-sm
-Stotisoči	Npmsn
-bodo	Va-f3p-n
-stradali	Vmpp-pm
-,	Z
-prišlo	Vmep-sn
-bo	Va-f3s-n
-do	Sg
-razkroja	Ncmsg
-gospodarskega	Agpnsg
-okolja	Ncnsg
-ter	Cc
-pozval	Vmep-sm
-k	Sd
-brzdanju	Ncnsd
-cen	Ncfpg
-hrane	Ncfsg
-in	Cc
-inflacije	Ncfsg
-.	Z
-Razvojni	Agpmpn
-dosežki	Ncmpn
-iz	Sg
-zadnjih	Agpnpg
-desetih	Mlc-pg
-let	Ncnpg
-bi	Va-c
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-lahko	Rgp
-bili	Va-p-pm
-povsem	Rgp
-uničeni	Appmpn
-,	Z
-socialni	Agpmpn
-nemiri	Ncmpn
-pa	Cc
-bi	Va-c
-lahko	Rgp
-privedli	Vmep-pm
-do	Sg
-vojn	Ncfpg
-.	Z
-Generalni	Agpmsny
-direktor	Ncmsn
-IMF	Npmsg
-Dominque	Npmsn
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-poziva	Vmpr3s
-k	Sd
-brzdanju	Ncnsd
-cen	Ncfpg
-in	Cc
-inflacije	Ncfsg
-.	Z
-Zadnje	Agpmpa
-mesece	Ncmpa
-so	Va-r3p-n
-višje	Agcfpn
-cene	Ncfpn
-hrane	Ncfsg
-že	Q
-privedle	Vmep-pf
-do	Sg
-socialnih	Agpmpg
-nemirov	Ncmpg
-v	Sl
-več	Rgc
-državah	Ncfpl
-,	Z
-med	Si
-drugim	Mlpmsi
-na	Sl
-Haitiju	Npmsl
-,	Z
-v	Sl
-Egiptu	Npmsl
-in	Cc
-na	Sl
-Filipinih	Aspfpl
-.	Z
-Na	Sl
-Haitiju	Npmsl
-,	Z
-kjer	Cs
-večina	Ncfsn
-ljudi	Ncmpg
-živi	Vmpr3s
-z	Si
-manj	Rgc
-kot	Cs
-dvema	Mlcmdi
-dolarjema	Ncmdi
-na	Sa
-dan	Ncmsan
-,	Z
-so	Va-r3p-n
-tako	Rgp
-zaradi	Sg
-nasilja	Ncnsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-pred	Si
-tedni	Ncmpi
-izbruhnilo	Vmep-sn
-zaradi	Sg
-visokih	Agpfpg
-cen	Ncfpg
-hrane	Ncfsg
-in	Cc
-goriv	Ncnpg
-,	Z
-v	Sa
-soboto	Ncfsa
-odstavili	Vmep-pm
-premierja	Ncmsay
-.	Z
-V	Sl
-Pakistanu	Npmsl
-in	Cc
-na	Sl
-Tajskem	Agpmsl
-vojaki	Ncmpn
-varujejo	Vmpr3p
-skladišča	Ncnpa
-hrane	Ncfsg
-,	Z
-da	Cs
-jih	Pp3mpa--y
-prebivalci	Ncmpn
-ne	Q
-bi	Va-c
-plenili	Vmep-pm
-.	Z
-Po	Sl
-podatkih	Ncmpl
-Svetovne	Agpfsg
-organizacije	Ncfsg
-za	Sa
-prehrano	Ncfsa
-in	Cc
-kmetijstvo	Ncnsa
-se	Px------y
-kar	Rgp
-37	Mdc
-držav	Ncfpg
-sooča	Vmpr3s
-s	Si
-pomanjkanjem	Ncnsi
-hrane	Ncfsg
-.	Z
-Mednarodni	Agpmsny
-monetarni	Agpmsny
-in	Cc
-finančni	Agpmsny
-odbor	Ncmsn
-IMF	Npmsn
-poudarja	Vmpr3s
-,	Z
-da	Cs
-so	Va-r3p-n
-izzivi	Ncmpn
-,	Z
-s	Si
-katerimi	Pq-mpi
-se	Px------y
-sooča	Vmpr3s
-svetovno	Agpnsa
-gospodarstvo	Ncnsa
-,	Z
-globalne	Agpfpa
-narave	Ncfpa
-in	Cc
-zato	Cc
-zahtevajo	Vmbr3p
-odločno	Agpfsa
-akcijo	Ncfsa
-in	Cc
-tesno	Agpnsa
-sodelovanje	Ncnsa
-IMF	Npmsg
-,	Z
-SB	Ncmsg
-ter	Cc
-drugih	Mlpfpg
-organizacij	Ncfpg
-,	Z
-da	Cs
-bi	Va-c
-državam	Ncfpd
-v	Sl
-razvoju	Ncmsl
-zagotovili	Vmep-pm
-finančno	Agpfsa
-podporo	Ncfsa
-in	Cc
-nasvete	Ncmpa
-za	Sa
-rešitev	Ncfsa
-.	Z
-V	Sl
-Washingtonu	Npmsl
-se	Px------y
-bodo	Va-f3p-n
-sestali	Vmep-pm
-tudi	Q
-predstavniki	Ncmpn
-Svetovne	Agpfsg
-banke	Ncfsg
-.	Z
-Tudi	Q
-v	Sl
-središču	Ncnsl
-te	Pd-fsg
-razprave	Ncfsg
-bodo	Va-f3p-n
-naraščajoče	Appfpn
-cene	Ncfsg
-hrane	Ncfsg
-,	Z
-dogovorili	Vmep-pm
-pa	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-o	Sl
-velikem	Agpmsl
-koordiniranem	Appmsl
-mednarodnem	Agpmsl
-načrtu	Ncmsl
-za	Sa
-zmanjšanje	Ncnsa
-lakote	Ncfsg
-.	Z
-Predsednik	Ncmsn
-SB	Ncmsg
-Robert	Npmsn
-Zoellick	Npmsn
-je	Va-r3s-n
-pred	Si
-tedni	Ncmpi
-že	Q
-pozval	Vmep-sm
-k	Sd
-oblikovanju	Ncnsd
-new	Npmsn
-deala	Ncnsg
-glede	Sg
-globalne	Agpfsg
-politike	Ncfsg
-hrane	Ncfsg
-,	Z
-saj	Cc
-cene	Ncfpn
-živil	Ncnpg
-resno	Rgp
-ogrožajo	Vmpr3p
-politično	Agpfsa
-stabilnost	Ncfsa
-v	Sl
-revnih	Agpfpl
-državah	Ncfpl
-.	Z
-Spomladansko	Agpnsa
-srečanje	Ncnsa
-finančnih	Agpmpg
-ministrov	Ncmpg
-in	Cc
-guvernerjev	Ncmpg
-centralnih	Agpfpg
-bank	Ncfpg
-185	Mdc
-držav	Ncfpg
-članic	Ncfpg
-IMF	Npmsg
-in	Cc
-Svetovne	Agpfsg
-banke	Ncfsg
-,	Z
-ki	Cs
-se	Px------y
-ga	Pp3msa--y
-udeležujeta	Vmpr3d
-tudi	Q
-slovenski	Agpmsny
-finančni	Agpmsny
-minister	Ncmsn
-Andrej	Npmsn
-Bajuk	Npmsn
-in	Cc
-guverner	Ncmsn
-Banke	Ncfsg
-Slovenije	Npfsg
-Marko	Npmsn
-Kranjec	Npmsn
-,	Z
-se	Px------y
-bo	Va-f3s-n
-končalo	Vmep-sn
-s	Si
-plenarnim	Agpnsi
-zasedanjem	Ncnsi
-skupnega	Agpmsg
-razvojnega	Agpmsg
-odbora	Ncmsg
-IMF	Npmsg
-in	Cc
-Svetovne	Agpfsg
-banke	Ncfsg
-o	Sl
-boju	Ncmsl
-proti	Sd
-revščini.Bajuk	Npfsd
-EU	Npfsd
-manj	Rgc
-pesimistična	Agpfsn
-kot	Cs
-IMF	Agpmsny
-Minister	Ncmsn
-za	Sa
-finance	Ncfpa
-in	Cc
-predsednik	Ncmsn
-Sveta	Ncmsg
-za	Sa
-ekonomske	Agpfpa
-in	Cc
-finančne	Agpfpa
-zadeve	Ncfpa
-Andrej	Npmsn
-Bajuk	Npmsn
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-EU	Npfsn
-pri	Sl
-svojih	Px-fpl
-napovedih	Ncfpl
-manj	Rgc
-pesimistična	Agpfsn
-kot	Cs
-IMF	Npmsn
-,	Z
-čeprav	Cs
-se	Px------y
-tveganj	Ncnpg
-zaveda	Vmpr3s
-,	Z
-saj	Cc
-je	Va-r3s-n
-prihodnost	Ncfsn
-precej	Rgp
-negotova	Agpfsn
-.	Z
-Napovedi	Ncfsg
-IMF	Npmsg
-so	Va-r3p-n
-preveč	Rgp
-pod	Si
-vplivom	Ncmsi
-dogajanj	Ncnpg
-v	Sl
-ameriškem	Agpnsl
-gospodarstvu	Ncnsl
-,	Z
-tudi	Q
-ko	Cs
-gre	Vmbr3s
-za	Sa
-napovedi	Ncfpa
-za	Sa
-Evropo	Npfsa
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Evropsko	Agpnsn
-gospodarstvo	Ncnsn
-in	Cc
-finančni	Agpmsny
-sistem	Ncmsn
-se	Px------y
-razlikujeta	Vmpr3d
-od	Sg
-ameriškega	Agpnsg
-,	Z
-saj	Cc
-evropsko	Agpnsn
-gospodarstvo	Ncnsn
-sloni	Vmpr3s
-na	Sl
-bolj	Rgc
-trdnih	Agpmpl
-makroekonomskih	Agpmpl
-temeljih	Ncmpl
-,	Z
-zato	Cc
-pretrese	Vmer3s
-lažje	Rgc
-prenaša	Vmpr3s
-.	Z
-Tudi	Q
-realni	Agpmsny
-sektor	Ncmsn
-je	Va-r3s-n
-zaradi	Sg
-tega	Pd-nsg
-manj	Rgc
-prizadet	Appmsnn
-kot	Cs
-ameriški	Agpmsny
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-.	Z
-Glede	Sg
-inflacije	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-pričakuje	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-umirila	Vmep-sf
-Tudi	Q
-Urad	Ncmsan
-za	Sa
-makroekonomske	Agpfpa
-analize	Ncfpa
-in	Cc
-razvoj	Ncmsan
-ter	Cc
-Banka	Ncfsn
-Slovenije	Npfsg
-,	Z
-ki	Cs
-sta	Va-r3d-n
-tradicionalno	Rgp
-konzervativnejša	Agcmdn
-,	Z
-to	Pd-nsa
-napovedujeta	Vmpr3d
-.	Z
+token	tag	lemma
+Naraščanje	mte:Ncnsn	naraščanje
+cen	mte:Ncfpg	cena
+hrane	mte:Ncfsg	hrana
+v	mte:Sl	v
+nerazvitih	mte:Agpfpl	nerazvit
+državah	mte:Ncfpl	država
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+imelo	mte:Vmpp-sn	imeti
+grozljive	mte:Agpfpa	grozljiv
+posledice	mte:Ncfpa	posledica
+za	mte:Sa	za
+ves	mte:Pg-msa	ves
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+IMF	mte:Npmsn	IMF
+.	mte:Z	.
+Na	mte:Sl	na
+srečanju	mte:Ncnsl	srečanje
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+IMF	mte:Npmsg	IMF
+in	mte:Cc	in
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+SB	mte:Npmsn	SB
+v	mte:Sl	v
+Washingtonu	mte:Npmsl	Washington
+je	mte:Va-r3s-n	biti
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+Dominque	mte:Npmsn	Dominque
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+opozoril	mte:Vmep-sm	opozoriti
+Stotisoči	mte:Npmsn	Stotisoči
+bodo	mte:Va-f3p-n	biti
+stradali	mte:Vmpp-pm	stradati
+,	mte:Z	,
+prišlo	mte:Vmep-sn	priti
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+razkroja	mte:Ncmsg	razkro
+gospodarskega	mte:Agpnsg	gospodarski
+okolja	mte:Ncnsg	okolje
+ter	mte:Cc	ter
+pozval	mte:Vmep-sm	pozvati
+k	mte:Sd	k
+brzdanju	mte:Ncnsd	brzdanje
+cen	mte:Ncfpg	cena
+hrane	mte:Ncfsg	hrana
+in	mte:Cc	in
+inflacije	mte:Ncfsg	inflacija
+.	mte:Z	.
+Razvojni	mte:Agpmpn	razvojen
+dosežki	mte:Ncmpn	dosežek
+iz	mte:Sg	iz
+zadnjih	mte:Agpnpg	zadnji
+desetih	mte:Mlc-pg	deset
+let	mte:Ncnpg	leto
+bi	mte:Va-c	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+lahko	mte:Rgp	lahko
+bili	mte:Va-p-pm	biti
+povsem	mte:Rgp	povsem
+uničeni	mte:Appmpn	uničen
+,	mte:Z	,
+socialni	mte:Agpmpn	socialen
+nemiri	mte:Ncmpn	nemira
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+privedli	mte:Vmep-pm	privesti
+do	mte:Sg	do
+vojn	mte:Ncfpg	vojna
+.	mte:Z	.
+Generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+IMF	mte:Npmsg	IMF
+Dominque	mte:Npmsn	Dominque
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+poziva	mte:Vmpr3s	pozivati
+k	mte:Sd	k
+brzdanju	mte:Ncnsd	brzdanje
+cen	mte:Ncfpg	cena
+in	mte:Cc	in
+inflacije	mte:Ncfsg	inflacija
+.	mte:Z	.
+Zadnje	mte:Agpmpa	zadnji
+mesece	mte:Ncmpa	mesec
+so	mte:Va-r3p-n	biti
+višje	mte:Agcfpn	visok
+cene	mte:Ncfpn	cena
+hrane	mte:Ncfsg	hrana
+že	mte:Q	že
+privedle	mte:Vmep-pf	privesti
+do	mte:Sg	do
+socialnih	mte:Agpmpg	socialen
+nemirov	mte:Ncmpg	nemir
+v	mte:Sl	v
+več	mte:Rgc	več
+državah	mte:Ncfpl	država
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+na	mte:Sl	na
+Haitiju	mte:Npmsl	Haitij
+,	mte:Z	,
+v	mte:Sl	v
+Egiptu	mte:Npmsl	Egipt
+in	mte:Cc	in
+na	mte:Sl	na
+Filipinih	mte:Aspfpl	filipin
+.	mte:Z	.
+Na	mte:Sl	na
+Haitiju	mte:Npmsl	Haitij
+,	mte:Z	,
+kjer	mte:Cs	kjer
+večina	mte:Ncfsn	večina
+ljudi	mte:Ncmpg	človek
+živi	mte:Vmpr3s	živeti
+z	mte:Si	z
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+dvema	mte:Mlcmdi	dva
+dolarjema	mte:Ncmdi	dolar
+na	mte:Sa	na
+dan	mte:Ncmsan	dan
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+zaradi	mte:Sg	zaradi
+nasilja	mte:Ncnsg	nasilje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+tedni	mte:Ncmpi	teden
+izbruhnilo	mte:Vmep-sn	izbruhniti
+zaradi	mte:Sg	zaradi
+visokih	mte:Agpfpg	visok
+cen	mte:Ncfpg	cena
+hrane	mte:Ncfsg	hrana
+in	mte:Cc	in
+goriv	mte:Ncnpg	goriv
+,	mte:Z	,
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+odstavili	mte:Vmep-pm	odstaviti
+premierja	mte:Ncmsay	premier
+.	mte:Z	.
+V	mte:Sl	v
+Pakistanu	mte:Npmsl	Pakistan
+in	mte:Cc	in
+na	mte:Sl	na
+Tajskem	mte:Agpmsl	tajski
+vojaki	mte:Ncmpn	vojak
+varujejo	mte:Vmpr3p	varovati
+skladišča	mte:Ncnpa	skladišče
+hrane	mte:Ncfsg	hrana
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+prebivalci	mte:Ncmpn	prebivalec
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+plenili	mte:Vmep-pm	pleniti
+.	mte:Z	.
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Svetovne	mte:Agpfsg	svetoven
+organizacije	mte:Ncfsg	organizacija
+za	mte:Sa	za
+prehrano	mte:Ncfsa	prehrana
+in	mte:Cc	in
+kmetijstvo	mte:Ncnsa	kmetijstvo
+se	mte:Px------y	se
+kar	mte:Rgp	kar
+37	mte:Mdc	37
+držav	mte:Ncfpg	država
+sooča	mte:Vmpr3s	soočati
+s	mte:Si	z
+pomanjkanjem	mte:Ncnsi	pomanjkanje
+hrane	mte:Ncfsg	hrana
+.	mte:Z	.
+Mednarodni	mte:Agpmsny	mednaroden
+monetarni	mte:Agpmsny	monetaren
+in	mte:Cc	in
+finančni	mte:Agpmsny	finančen
+odbor	mte:Ncmsn	odbor
+IMF	mte:Npmsn	IMF
+poudarja	mte:Vmpr3s	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+izzivi	mte:Ncmpn	izziv
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+se	mte:Px------y	se
+sooča	mte:Vmpr3s	soočati
+svetovno	mte:Agpnsa	svetoven
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+globalne	mte:Agpfpa	globalen
+narave	mte:Ncfpa	narava
+in	mte:Cc	in
+zato	mte:Cc	zato
+zahtevajo	mte:Vmbr3p	zahtevati
+odločno	mte:Agpfsa	odločno
+akcijo	mte:Ncfsa	akcija
+in	mte:Cc	in
+tesno	mte:Agpnsa	tesen
+sodelovanje	mte:Ncnsa	sodelovanje
+IMF	mte:Npmsg	IMF
+,	mte:Z	,
+SB	mte:Ncmsg	SB
+ter	mte:Cc	ter
+drugih	mte:Mlpfpg	drug
+organizacij	mte:Ncfpg	organizacija
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+državam	mte:Ncfpd	država
+v	mte:Sl	v
+razvoju	mte:Ncmsl	razvoj
+zagotovili	mte:Vmep-pm	zagotoviti
+finančno	mte:Agpfsa	finančen
+podporo	mte:Ncfsa	podpora
+in	mte:Cc	in
+nasvete	mte:Ncmpa	nasvet
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+.	mte:Z	.
+V	mte:Sl	v
+Washingtonu	mte:Npmsl	Washington
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+sestali	mte:Vmep-pm	sestati
+tudi	mte:Q	tudi
+predstavniki	mte:Ncmpn	predstavnik
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Tudi	mte:Q	tudi
+v	mte:Sl	v
+središču	mte:Ncnsl	središče
+te	mte:Pd-fsg	ta
+razprave	mte:Ncfsg	razprava
+bodo	mte:Va-f3p-n	biti
+naraščajoče	mte:Appfpn	naraščajoč
+cene	mte:Ncfsg	cena
+hrane	mte:Ncfsg	hrana
+,	mte:Z	,
+dogovorili	mte:Vmep-pm	dogovoriti
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+o	mte:Sl	o
+velikem	mte:Agpmsl	velik
+koordiniranem	mte:Appmsl	koordiniran
+mednarodnem	mte:Agpmsl	mednaroden
+načrtu	mte:Ncmsl	načrt
+za	mte:Sa	za
+zmanjšanje	mte:Ncnsa	zmanjšanje
+lakote	mte:Ncfsg	lakota
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+SB	mte:Ncmsg	SB
+Robert	mte:Npmsn	Robert
+Zoellick	mte:Npmsn	Zoellick
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+tedni	mte:Ncmpi	teden
+že	mte:Q	že
+pozval	mte:Vmep-sm	pozvati
+k	mte:Sd	k
+oblikovanju	mte:Ncnsd	oblikovanje
+new	mte:Npmsn	new
+deala	mte:Ncnsg	dealo
+glede	mte:Sg	glede
+globalne	mte:Agpfsg	globalen
+politike	mte:Ncfsg	politika
+hrane	mte:Ncfsg	hrana
+,	mte:Z	,
+saj	mte:Cc	saj
+cene	mte:Ncfpn	cena
+živil	mte:Ncnpg	živilo
+resno	mte:Rgp	resno
+ogrožajo	mte:Vmpr3p	ogrožati
+politično	mte:Agpfsa	političen
+stabilnost	mte:Ncfsa	stabilnost
+v	mte:Sl	v
+revnih	mte:Agpfpl	reven
+državah	mte:Ncfpl	država
+.	mte:Z	.
+Spomladansko	mte:Agpnsa	spomladanski
+srečanje	mte:Ncnsa	srečanje
+finančnih	mte:Agpmpg	finančen
+ministrov	mte:Ncmpg	minister
+in	mte:Cc	in
+guvernerjev	mte:Ncmpg	guverner
+centralnih	mte:Agpfpg	centralen
+bank	mte:Ncfpg	banka
+185	mte:Mdc	185
+držav	mte:Ncfpg	država
+članic	mte:Ncfpg	članica
+IMF	mte:Npmsg	IMF
+in	mte:Cc	in
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+ga	mte:Pp3msa--y	on
+udeležujeta	mte:Vmpr3d	udeleževati
+tudi	mte:Q	tudi
+slovenski	mte:Agpmsny	slovenski
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Andrej	mte:Npmsn	Andrej
+Bajuk	mte:Npmsn	Bajuk
+in	mte:Cc	in
+guverner	mte:Ncmsn	guverner
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+Marko	mte:Npmsn	Marko
+Kranjec	mte:Npmsn	Kranjec
+,	mte:Z	,
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+končalo	mte:Vmep-sn	končati
+s	mte:Si	z
+plenarnim	mte:Agpnsi	plenaren
+zasedanjem	mte:Ncnsi	zasedanje
+skupnega	mte:Agpmsg	skupen
+razvojnega	mte:Agpmsg	razvojen
+odbora	mte:Ncmsg	odbor
+IMF	mte:Npmsg	IMF
+in	mte:Cc	in
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+o	mte:Sl	o
+boju	mte:Ncmsl	boj
+proti	mte:Sd	proti
+revščini.Bajuk	mte:Npfsd	revščini.Bajuk
+EU	mte:Npfsd	EU
+manj	mte:Rgc	manj
+pesimistična	mte:Agpfsn	pesimističen
+kot	mte:Cs	kot
+IMF	mte:Agpmsny	imf
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+in	mte:Cc	in
+predsednik	mte:Ncmsn	predsednik
+Sveta	mte:Ncmsg	svet
+za	mte:Sa	za
+ekonomske	mte:Agpfpa	ekonomski
+in	mte:Cc	in
+finančne	mte:Agpfpa	finančen
+zadeve	mte:Ncfpa	zadeva
+Andrej	mte:Npmsn	Andrej
+Bajuk	mte:Npmsn	Bajuk
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+EU	mte:Npfsn	EU
+pri	mte:Sl	pri
+svojih	mte:Px-fpl	svoj
+napovedih	mte:Ncfpl	napoved
+manj	mte:Rgc	manj
+pesimistična	mte:Agpfsn	pesimističen
+kot	mte:Cs	kot
+IMF	mte:Npmsn	IMF
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+se	mte:Px------y	se
+tveganj	mte:Ncnpg	tveganje
+zaveda	mte:Vmpr3s	zavedati
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+prihodnost	mte:Ncfsn	prihodnost
+precej	mte:Rgp	precej
+negotova	mte:Agpfsn	negotov
+.	mte:Z	.
+Napovedi	mte:Ncfsg	napoved
+IMF	mte:Npmsg	IMF
+so	mte:Va-r3p-n	biti
+preveč	mte:Rgp	preveč
+pod	mte:Si	pod
+vplivom	mte:Ncmsi	vpliv
+dogajanj	mte:Ncnpg	dogajanje
+v	mte:Sl	v
+ameriškem	mte:Agpnsl	ameriški
+gospodarstvu	mte:Ncnsl	gospodarstvo
+,	mte:Z	,
+tudi	mte:Q	tudi
+ko	mte:Cs	ko
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+napovedi	mte:Ncfpa	napoved
+za	mte:Sa	za
+Evropo	mte:Npfsa	Evropa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Evropsko	mte:Agpnsn	evropski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+in	mte:Cc	in
+finančni	mte:Agpmsny	finančen
+sistem	mte:Ncmsn	sistem
+se	mte:Px------y	se
+razlikujeta	mte:Vmpr3d	razlikovati
+od	mte:Sg	od
+ameriškega	mte:Agpnsg	ameriški
+,	mte:Z	,
+saj	mte:Cc	saj
+evropsko	mte:Agpnsn	evropski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+sloni	mte:Vmpr3s	sloneti
+na	mte:Sl	na
+bolj	mte:Rgc	bolj
+trdnih	mte:Agpmpl	trden
+makroekonomskih	mte:Agpmpl	makroekonomski
+temeljih	mte:Ncmpl	temelj
+,	mte:Z	,
+zato	mte:Cc	zato
+pretrese	mte:Vmer3s	pretresti
+lažje	mte:Rgc	lahko
+prenaša	mte:Vmpr3s	prenašati
+.	mte:Z	.
+Tudi	mte:Q	tudi
+realni	mte:Agpmsny	realen
+sektor	mte:Ncmsn	sektor
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+tega	mte:Pd-nsg	ta
+manj	mte:Rgc	manj
+prizadet	mte:Appmsnn	prizadet
+kot	mte:Cs	kot
+ameriški	mte:Agpmsny	ameriški
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+.	mte:Z	.
+Glede	mte:Sg	glede
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+pričakuje	mte:Vmpr3s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+umirila	mte:Vmep-sf	umiriti
+Tudi	mte:Q	tudi
+Urad	mte:Ncmsan	urad
+za	mte:Sa	za
+makroekonomske	mte:Agpfpa	makroekonomski
+analize	mte:Ncfpa	analiza
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+ter	mte:Cc	ter
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+tradicionalno	mte:Rgp	tradicionalno
+konzervativnejša	mte:Agcmdn	konzervativen
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+napovedujeta	mte:Vmpr3d	napovedovati
+.	mte:Z	.
+Vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+rast	mte:Ncfsn	rast
+plač	mte:Ncfpg	plača
+v	mte:Sl	v
+nobenem	mte:Pz-msl	noben
+primeru	mte:Ncmsl	primer
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+preseči	mte:Vmen	preseči
+rasti	mte:Vmpn	rasti
+produktivnosti	mte:Ncfsg	produktivnost
+,	mte:Z	,
+ker	mte:Cs	ker
+bi	mte:Va-c	biti
+to	mte:Pd-nsn	ta
+imelo	mte:Vmpp-sn	imeti
+katastrofalne	mte:Agpfpa	katastrofalen
+posledice	mte:Ncfpa	posledica
+na	mte:Sa	na
+inflacijo	mte:Ncfsa	inflacija
+,	mte:Z	,
+zato	mte:Cc	zato
+sem	mte:Va-r1s-n	biti
+kot	mte:Cs	kot
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+v	mte:Sl	v
+stalnem	mte:Agpmsl	stalen
+dialogu	mte:Ncmsl	dialog
+s	mte:Si	z
+socialnimi	mte:Agpmpi	socialen
+partnerji	mte:Ncmpi	partner

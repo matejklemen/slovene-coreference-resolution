@@ -1,518 +1,553 @@
-token	tag
-Po	Sl
-stečaju	Ncmsl
-družbe	Ncfsg
-Prevent	Npmsn
-župani	Ncmpn
-Koroške	Npfsg
-zahtevajo	Vmbr3p
-poseben	Agpmsan
-zakon	Ncmsan
-,	Z
-s	Si
-pomočjo	Ncfsi
-katerega	Pq-msg
-bi	Va-c
-omilili	Vmep-pm
-poslabšanje	Ncnsa
-socialnega	Agpmsg
-položaje	Ncmsg
-te	Pd-fsg
-regije	Ncfsg
-.	Z
-Ministrstvo	Ncnsn
-za	Sa
-lokalno	Agpfsa
-samoupravo	Ncfsa
-meni	Vmpr3s
-,	Z
-da	Cs
-zakon	Ncmsn
-ni	Va-r3s-y
-potreben	Agpmsnn
-.	Z
-Koroški	Agpmpn
-župani	Ncmpn
-od	Sg
-vlade	Ncfsg
-zahtevajo	Vmbr3p
-,	Z
-da	Cs
-sprejme	Vmer3s
-poseben	Agpmsan
-interventni	Agpmsay
-zakon	Ncmsan
-za	Sa
-Koroško	Npfsa
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-po	Sl
-stečaju	Ncmsl
-Preventa	Npfsn
-znašla	Vmep-sf
-v	Sl
-težkem	Agpmsl
-položaju	Ncmsl
-.	Z
-Župani	Ncmpn
-so	Va-r3p-n
-se	Px------y
-za	Sa
-to	Pd-nsa
-zavzeli	Vmep-pm
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-sveta	Ncmsg
-regije	Ncfsg
-v	Sl
-Dravogradu	Npmsl
-,	Z
-kjer	Cs
-so	Va-r3p-n
-hkrati	Rgp
-menili	Vmpp-pm
-,	Z
-da	Cs
-so	Va-r3p-n
-občine	Ncfpn
-učinkovito	Rgp
-pristopile	Vmep-pf
-k	Sd
-izvajanju	Ncnsd
-kratkoročnih	Agpfpg
-pomoči	Ncfpg
-brezposelnim	Agpmpd
-v	Sl
-svojih	Px-fpl
-občinah	Ncfpl
-.	Z
-Potem	Rgp
-ko	Cs
-koroške	Agpfpn
-občine	Ncfpn
-same	Agpfpn
-že	Q
-izvajajo	Vmpr3p
-ukrepe	Ncmpa
-dodeljevanja	Ncnsg
-različnih	Agpfpg
-socialnih	Agpfpg
-pomoči	Ncfpg
-občanom	Ncmpd
-,	Z
-ki	Cs
-so	Va-r3p-n
-izgubili	Vmep-pm
-delo	Ncnsa
-v	Sl
-Preventu	Ncmsl
-,	Z
-zaradi	Sg
-izrazitega	Agpnsg
-poslabšanja	Ncnsg
-socialnega	Agpmsg
-položaja	Ncmsg
-regije	Ncfsg
-opozarjajo	Vmpr3p
-,	Z
-da	Cs
-niso	Va-r3p-y
-dovolj	Rgp
-le	Q
-kratkoročni	Agpmpn
-ukrepi	Ncmpn
-,	Z
-ampak	Cc
-je	Va-r3s-n
-potrebno	Agpnsn
-ukrepe	Ncmpa
-začrtati	Vmen
-tudi	Q
-dolgoročno	Agpfsa
-.	Z
-O	Sl
-tem	Pd-nsl
-bodo	Va-f3p-n
-govorili	Vmpp-pm
-tudi	Q
-na	Sl
-srečanju	Ncnsl
-z	Si
-ministrom	Ncmsi
-,	Z
-pristojnim	Agpmsi
-za	Sa
-lokalno	Agpfsi
-samoupravo	Ncfsi
-in	Cc
-regionalno	Agpfsi
-politiko	Ncfsi
-,	Z
-Henrikom	Npmsi
-Gjerkešem	Npmsi
-,	Z
-ki	Cs
-bo	Va-f3s-n
-predvidoma	Rgp
-prihodnji	Agpmsay
-teden	Ncmsan
-obiskal	Vmep-sm
-Koroško	Npfsa
-.	Z
-Koroška	Npfsn
-potrebuje	Vmpr3s
-nova	Agpnpa
-delovna	Agpnpa
-mesta	Ncnpa
-z	Si
-neko	Pi-fsi
-dodano	Appfsi
-vrednostjo	Ncfsi
-in	Cc
-neko	Pi-fsi
-perspektivo	Ncfsi
-za	Sa
-naprej	Rgp
-,	Z
-meni	Vmpr3s
-župan	Ncmsn
-Slovenj	Npmsn
-Gradca	Npmsg
-Zanoškar	Npmsn
-.	Z
-Predlog	Ncmsan
-za	Sa
-pripravo	Ncfsa
-interventnega	Agpmsg
-zakona	Ncmsg
-za	Sa
-Koroško	Npfsa
-je	Va-r3s-n
-na	Sa
-pristojna	Agpnpa
-ministrstva	Ncnpa
-v	Sl
-začetku	Ncmsl
-meseca	Ncmsg
-avgusta	Ncmsg
-že	Q
-posredoval	Vmbp-sm
-koroški	Agpmsny
-poslanec	Ncmsn
-in	Cc
-župan	Ncmsn
-Mestne	Agpfsg
-občine	Ncfsg
-Slovenj	Npmsn
-Gradec	Npmsn
-Matjaž	Npmsn
-Zanoškar	Npmsn
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-delo	Ncnsa
-,	Z
-družino	Ncfsa
-in	Cc
-socialne	Agpfpa
-zadeve	Ncfpa
-so	Va-r3p-n
-Zanoškarju	Ncmsd
-odgovorili	Vmep-pm
-,	Z
-da	Cs
-ukrepi	Ncmpn
-ministrstva	Ncnsg
-znotraj	Sg
-aktivne	Agpfsg
-politike	Ncfsg
-zaposlovanja	Ncnsg
-zadoščajo	Vmpr3p
-in	Cc
-da	Cs
-po	Sl
-mnenju	Ncnsl
-ministrstva	Ncnsg
-nov	Agpmsnn
-zakon	Ncmsn
-o	Sl
-tej	Pd-fsl
-regiji	Ncfsl
-ne	Q
-bi	Va-c
-prispeval	Vmbp-sm
-k	Sd
-izboljšanju	Ncnsd
-stanja	Ncnsg
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-menijo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-potrebno	Agpnsn
-rešitve	Ncfpg
-iskati	Vmpn
-znotraj	Sg
-obstoječih	Appmpg
-politik	Ncmpg
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-pripravljajo	Vmpr3p
-rešitve	Ncfpa
-Podobno	Rgp
-menijo	Vmpr3p
-v	Sl
-službi	Ncfsl
-vlade	Ncfsg
-za	Sa
-lokalno	Agpfsa
-samoupravo	Ncfsa
-in	Cc
-regionalno	Agpfsa
-politiko	Ncfsa
-.	Z
-V	Sl
-sporočilu	Ncnsl
-,	Z
-objavljenem	Appmsl
-na	Sl
-spletnih	Agpfpl
-straneh	Ncfpl
-službe	Ncfsg
-,	Z
-navajajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-minister	Ncmsn
-Gjerkeš	Npmsn
-že	Q
-večkrat	Rgc
-poudaril	Vmep-sm
-,	Z
-da	Cs
-vlada	Ncfsn
-ne	Q
-vidi	Vmbr3s
-rešitve	Ncfsg
-v	Sl
-interventni	Agpfsl
-regionalni	Agpfsl
-politiki	Ncfsl
-,	Z
-temveč	Cc
-v	Sl
-sistemskem	Agpmsl
-pristopu	Ncmsl
-.	Z
-Ker	Cs
-je	Va-r3s-n
-stanje	Ncnsn
-v	Sl
-regionalnem	Agpmsl
-razvoju	Ncmsl
-nezadovoljivo	Agpnsn
-,	Z
-pripravljajo	Vmpr3p
-rešitve	Ncfpa
-,	Z
-ki	Cs
-bi	Va-c
-izboljšale	Vmep-pf
-upravljanje	Ncnsa
-regionalnega	Agpmsg
-razvoja	Ncmsg
-in	Cc
-povečale	Vmep-pf
-učinkovitost	Ncfsa
-regionalne	Agpfsg
-politike	Ncfsg
-.	Z
-Foto	Ncmsn
-POP	Ncmsn
-TV	Npmsn
-Zanoškar	Npmsn
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-koroških	Agpmpg
-županov	Ncmpg
-in	Cc
-poslancev	Ncmpg
-pozval	Vmep-sm
-nosilce	Ncmpa
-gospodarstva	Ncnsg
-v	Sl
-regiji	Ncfsl
-in	Cc
-pristojne	Agpfpa
-ustanove	Ncfpa
-,	Z
-da	Cs
-vladi	Ncfsd
-čim	Rgp
-prej	Rgc
-predstavijo	Vmer3p
-svoje	Px-fpa
-razvojne	Agpfpa
-vizije	Ncfpa
-,	Z
-na	Sl
-podlagi	Ncfsl
-katerih	Pq-mpg
-bi	Va-c
-regija	Ncfsn
-od	Sg
-države	Ncfsg
-lahko	Rgp
-dobila	Vmep-sf
-dodatna	Agpnpa
-sredstva	Ncnpa
-za	Sa
-spodbujanje	Ncnsa
-gospodarstva	Ncnsg
-in	Cc
-odpiranje	Ncnsa
-novih	Agpnpg
-delovnih	Agpnpg
-mest	Ncnpg
-.	Z
-Odgovarjati	Vmpn
-mora	Vmpr3s
-tudi	Q
-država	Ncfsn
-Odločno	Rgp
-se	Px------y
-je	Va-r3s-n
-za	Sa
-sprejem	Ncmsan
-interventnega	Agpmsg
-zakona	Ncmsg
-za	Sa
-Koroško	Npfsa
-med	Si
-drugim	Mlpmsi
-zavzel	Vmep-sm
-prevaljski	Agpmsny
-župan	Ncmsn
-Matic	Npmsn
-Tasič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-hkrati	Rgp
-menil	Vmpp-sm
-,	Z
-da	Cs
-bi	Va-c
-morala	Vmpp-sf
-za	Sa
-nastali	Appmsay
-položaj	Ncmsan
-v	Sl
-Preventu	Ncmsl
-odgovarjati	Vmpn
-tudi	Q
-država	Ncfsn
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-s	Si
-svojo	Px-fsi
-zakonodajo	Ncfsi
-dopustila	Vmep-sf
-,	Z
-da	Cs
-se	Px------y
-taki	Pd-mpn
-ekscesi	Ncmpn
-dogajajo	Vmpr3p
-in	Cc
-da	Cs
-je	Va-r3s-n
-prišlo	Vmep-sn
-do	Sg
-takšnega	Pd-msg
-načina	Ncmsg
-privatizacije	Ncfsg
-,	Z
-kjer	Cs
-se	Px------y
-je	Va-r3s-n
-menedžment	Ncmsn
-podjetja	Ncnsg
-ukvarjal	Vmpp-sm
-s	Si
-privatizacijo	Ncfsi
-in	Cc
-kopičenjem	Ncnsi
-premoženja	Ncnsg
-,	Z
-ne	Q
-pa	Cc
-s	Si
-prihodnostjo	Ncfsi
-podjetja	Ncnsg
-.	Z
-Po	Sl
-neuradnih	Agpmpl
-podatkih	Ncmpl
-zavoda	Ncmsg
-za	Sa
-zaposlovanje	Ncnsa
-je	Va-r3s-n
-na	Sl
-Koroškem	Npnsl
-ob	Sl
-stečaju	Ncmsl
-podjetij	Ncnpg
-Prevent	Npmsn
-Global	Npmsn
-in	Cc
-Prevent	Npmsn
-avtomobilski	Agpmpn
-deli	Ncmpn
-brez	Sg
-dela	Ncnsg
-ostalo	Vmep-sn
-947	Mdc
-oseb	Ncfpg
-,	Z
-skupna	Agpfsn
-stopnja	Ncfsn
-registrirane	Appfsg
-brezposelnosti	Ncfsg
-v	Sl
-regiji	Ncfsl
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-oziroma	Cc
-se	Px------y
-bo	Va-f3s-n
-po	Sl
-še	Q
-neuradnih	Agpmpl
-podatkih	Ncmpl
-z	Sg
-majskih	Agpmpg
-12,4	Mdc
-odstotka	Ncmsg
-v	Sl
-avgustu	Ncmsl
-povišala	Vmep-sf
-na	Sa
-15,5	Mdc
-odstotka	Ncmsg
-.	Z
+token	tag	lemma
+Po	mte:Sl	po
+stečaju	mte:Ncmsl	stečaj
+družbe	mte:Ncfsg	družba
+Prevent	mte:Npmsn	Prevent
+župani	mte:Ncmpn	župan
+Koroške	mte:Npfsg	Koroška
+zahtevajo	mte:Vmbr3p	zahtevati
+poseben	mte:Agpmsan	poseben
+zakon	mte:Ncmsan	zakon
+,	mte:Z	,
+s	mte:Si	z
+pomočjo	mte:Ncfsi	pomoč
+katerega	mte:Pq-msg	kateri
+bi	mte:Va-c	biti
+omilili	mte:Vmep-pm	omiliti
+poslabšanje	mte:Ncnsa	poslabšanje
+socialnega	mte:Agpmsg	socialen
+položaje	mte:Ncmsg	položaj
+te	mte:Pd-fsg	ta
+regije	mte:Ncfsg	regija
+.	mte:Z	.
+Ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+lokalno	mte:Agpfsa	lokalen
+samoupravo	mte:Ncfsa	samouprava
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+zakon	mte:Ncmsn	zakon
+ni	mte:Va-r3s-y	biti
+potreben	mte:Agpmsnn	potreben
+.	mte:Z	.
+Koroški	mte:Agpmpn	koroški
+župani	mte:Ncmpn	župan
+od	mte:Sg	od
+vlade	mte:Ncfsg	vlada
+zahtevajo	mte:Vmbr3p	zahtevati
+,	mte:Z	,
+da	mte:Cs	da
+sprejme	mte:Vmer3s	sprejeti
+poseben	mte:Agpmsan	poseben
+interventni	mte:Agpmsay	interventen
+zakon	mte:Ncmsan	zakon
+za	mte:Sa	za
+Koroško	mte:Npfsa	Koroška
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+stečaju	mte:Ncmsl	stečaj
+Preventa	mte:Npfsn	Prevent
+znašla	mte:Vmep-sf	znajti
+v	mte:Sl	v
+težkem	mte:Agpmsl	težek
+položaju	mte:Ncmsl	položaj
+.	mte:Z	.
+Župani	mte:Ncmpn	župan
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+zavzeli	mte:Vmep-pm	zavzeti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+sveta	mte:Ncmsg	svet
+regije	mte:Ncfsg	regija
+v	mte:Sl	v
+Dravogradu	mte:Npmsl	Dravograd
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+hkrati	mte:Rgp	hkrati
+menili	mte:Vmpp-pm	meniti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+občine	mte:Ncfpn	občina
+učinkovito	mte:Rgp	učinkovito
+pristopile	mte:Vmep-pf	pristopiti
+k	mte:Sd	k
+izvajanju	mte:Ncnsd	izvajanje
+kratkoročnih	mte:Agpfpg	kratkoročen
+pomoči	mte:Ncfpg	pomoč
+brezposelnim	mte:Agpmpd	brezposeln
+v	mte:Sl	v
+svojih	mte:Px-fpl	svoj
+občinah	mte:Ncfpl	občina
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+koroške	mte:Agpfpn	koroški
+občine	mte:Ncfpn	občina
+same	mte:Agpfpn	sam
+že	mte:Q	že
+izvajajo	mte:Vmpr3p	izvajati
+ukrepe	mte:Ncmpa	ukrep
+dodeljevanja	mte:Ncnsg	dodeljevanje
+različnih	mte:Agpfpg	različen
+socialnih	mte:Agpfpg	socialen
+pomoči	mte:Ncfpg	pomoč
+občanom	mte:Ncmpd	občan
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+izgubili	mte:Vmep-pm	izgubiti
+delo	mte:Ncnsa	delo
+v	mte:Sl	v
+Preventu	mte:Ncmsl	prevent
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+izrazitega	mte:Agpnsg	izrazit
+poslabšanja	mte:Ncnsg	poslabšanje
+socialnega	mte:Agpmsg	socialen
+položaja	mte:Ncmsg	položaj
+regije	mte:Ncfsg	regija
+opozarjajo	mte:Vmpr3p	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+niso	mte:Va-r3p-y	biti
+dovolj	mte:Rgp	dovolj
+le	mte:Q	le
+kratkoročni	mte:Agpmpn	kratkoročen
+ukrepi	mte:Ncmpn	ukrep
+,	mte:Z	,
+ampak	mte:Cc	ampak
+je	mte:Va-r3s-n	biti
+potrebno	mte:Agpnsn	potreben
+ukrepe	mte:Ncmpa	ukrep
+začrtati	mte:Vmen	začrtati
+tudi	mte:Q	tudi
+dolgoročno	mte:Agpfsa	dolgoročno
+.	mte:Z	.
+O	mte:Sl	o
+tem	mte:Pd-nsl	ta
+bodo	mte:Va-f3p-n	biti
+govorili	mte:Vmpp-pm	govoriti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+srečanju	mte:Ncnsl	srečanje
+z	mte:Si	z
+ministrom	mte:Ncmsi	minister
+,	mte:Z	,
+pristojnim	mte:Agpmsi	pristojen
+za	mte:Sa	za
+lokalno	mte:Agpfsi	lokalen
+samoupravo	mte:Ncfsi	samouprava
+in	mte:Cc	in
+regionalno	mte:Agpfsi	regionalen
+politiko	mte:Ncfsi	politika
+,	mte:Z	,
+Henrikom	mte:Npmsi	Henrik
+Gjerkešem	mte:Npmsi	Gjerkeš
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+prihodnji	mte:Agpmsay	prihodnji
+teden	mte:Ncmsan	teden
+obiskal	mte:Vmep-sm	obiskati
+Koroško	mte:Npfsa	Koroška
+.	mte:Z	.
+Koroška	mte:Npfsn	Koroška
+potrebuje	mte:Vmpr3s	potrebovati
+nova	mte:Agpnpa	nov
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+z	mte:Si	z
+neko	mte:Pi-fsi	nek
+dodano	mte:Appfsi	dodan
+vrednostjo	mte:Ncfsi	vrednost
+in	mte:Cc	in
+neko	mte:Pi-fsi	nek
+perspektivo	mte:Ncfsi	perspektiva
+za	mte:Sa	za
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+župan	mte:Ncmsn	župan
+Slovenj	mte:Npmsn	Slovenj
+Gradca	mte:Npmsg	Gradc
+Zanoškar	mte:Npmsn	Zanoškar
+.	mte:Z	.
+Predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+pripravo	mte:Ncfsa	priprava
+interventnega	mte:Agpmsg	interventen
+zakona	mte:Ncmsg	zakon
+za	mte:Sa	za
+Koroško	mte:Npfsa	Koroška
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+pristojna	mte:Agpnpa	pristojen
+ministrstva	mte:Ncnpa	ministrstvo
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+meseca	mte:Ncmsg	mesec
+avgusta	mte:Ncmsg	avgust
+že	mte:Q	že
+posredoval	mte:Vmbp-sm	posredovati
+koroški	mte:Agpmsny	koroški
+poslanec	mte:Ncmsn	poslanec
+in	mte:Cc	in
+župan	mte:Ncmsn	župan
+Mestne	mte:Agpfsg	mesten
+občine	mte:Ncfsg	občina
+Slovenj	mte:Npmsn	Slovenj
+Gradec	mte:Npmsn	Gradec
+Matjaž	mte:Npmsn	Matjaž
+Zanoškar	mte:Npmsn	Zanoškar
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+,	mte:Z	,
+družino	mte:Ncfsa	družina
+in	mte:Cc	in
+socialne	mte:Agpfpa	socialen
+zadeve	mte:Ncfpa	zadeva
+so	mte:Va-r3p-n	biti
+Zanoškarju	mte:Ncmsd	zanoškar
+odgovorili	mte:Vmep-pm	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+ukrepi	mte:Ncmpn	ukrep
+ministrstva	mte:Ncnsg	ministrstvo
+znotraj	mte:Sg	znotraj
+aktivne	mte:Agpfsg	aktiven
+politike	mte:Ncfsg	politika
+zaposlovanja	mte:Ncnsg	zaposlovanje
+zadoščajo	mte:Vmpr3p	zadoščati
+in	mte:Cc	in
+da	mte:Cs	da
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+ministrstva	mte:Ncnsg	ministrstvo
+nov	mte:Agpmsnn	nov
+zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+tej	mte:Pd-fsl	ta
+regiji	mte:Ncfsl	regija
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+prispeval	mte:Vmbp-sm	prispevati
+k	mte:Sd	k
+izboljšanju	mte:Ncnsd	izboljšanje
+stanja	mte:Ncnsg	stanje
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+potrebno	mte:Agpnsn	potreben
+rešitve	mte:Ncfpg	rešitev
+iskati	mte:Vmpn	iskati
+znotraj	mte:Sg	znotraj
+obstoječih	mte:Appmpg	obstoječ
+politik	mte:Ncmpg	politika
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+pripravljajo	mte:Vmpr3p	pripravljati
+rešitve	mte:Ncfpa	rešitev
+Podobno	mte:Rgp	podobno
+menijo	mte:Vmpr3p	meniti
+v	mte:Sl	v
+službi	mte:Ncfsl	služba
+vlade	mte:Ncfsg	vlada
+za	mte:Sa	za
+lokalno	mte:Agpfsa	lokalen
+samoupravo	mte:Ncfsa	samouprava
+in	mte:Cc	in
+regionalno	mte:Agpfsa	regionalen
+politiko	mte:Ncfsa	politika
+.	mte:Z	.
+V	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+,	mte:Z	,
+objavljenem	mte:Appmsl	objavljen
+na	mte:Sl	na
+spletnih	mte:Agpfpl	spleten
+straneh	mte:Ncfpl	stran
+službe	mte:Ncfsg	služba
+,	mte:Z	,
+navajajo	mte:Vmpr3p	navajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+minister	mte:Ncmsn	minister
+Gjerkeš	mte:Npmsn	Gjerkeš
+že	mte:Q	že
+večkrat	mte:Rgc	večkrat
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+vlada	mte:Ncfsn	vlada
+ne	mte:Q	ne
+vidi	mte:Vmbr3s	videti
+rešitve	mte:Ncfsg	rešitev
+v	mte:Sl	v
+interventni	mte:Agpfsl	interventen
+regionalni	mte:Agpfsl	regionalen
+politiki	mte:Ncfsl	politika
+,	mte:Z	,
+temveč	mte:Cc	temveč
+v	mte:Sl	v
+sistemskem	mte:Agpmsl	sistemski
+pristopu	mte:Ncmsl	pristop
+.	mte:Z	.
+Ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+stanje	mte:Ncnsn	stanje
+v	mte:Sl	v
+regionalnem	mte:Agpmsl	regionalen
+razvoju	mte:Ncmsl	razvoj
+nezadovoljivo	mte:Agpnsn	nezadovoljiv
+,	mte:Z	,
+pripravljajo	mte:Vmpr3p	pripravljati
+rešitve	mte:Ncfpa	rešitev
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+izboljšale	mte:Vmep-pf	izboljšati
+upravljanje	mte:Ncnsa	upravljanje
+regionalnega	mte:Agpmsg	regionalen
+razvoja	mte:Ncmsg	razvoj
+in	mte:Cc	in
+povečale	mte:Vmep-pf	povečati
+učinkovitost	mte:Ncfsa	učinkovitost
+regionalne	mte:Agpfsg	regionalen
+politike	mte:Ncfsg	politika
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+POP	mte:Ncmsn	POP
+TV	mte:Npmsn	TV
+Zanoškar	mte:Npmsn	Zanoškar
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+koroških	mte:Agpmpg	koroški
+županov	mte:Ncmpg	župan
+in	mte:Cc	in
+poslancev	mte:Ncmpg	poslanec
+pozval	mte:Vmep-sm	pozvati
+nosilce	mte:Ncmpa	nosilec
+gospodarstva	mte:Ncnsg	gospodarstvo
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+in	mte:Cc	in
+pristojne	mte:Agpfpa	pristojen
+ustanove	mte:Ncfpa	ustanova
+,	mte:Z	,
+da	mte:Cs	da
+vladi	mte:Ncfsd	vlada
+čim	mte:Rgp	čim
+prej	mte:Rgc	prej
+predstavijo	mte:Vmer3p	predstaviti
+svoje	mte:Px-fpa	svoj
+razvojne	mte:Agpfpa	razvojen
+vizije	mte:Ncfpa	vizija
+,	mte:Z	,
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+katerih	mte:Pq-mpg	kateri
+bi	mte:Va-c	biti
+regija	mte:Ncfsn	regija
+od	mte:Sg	od
+države	mte:Ncfsg	država
+lahko	mte:Rgp	lahko
+dobila	mte:Vmep-sf	dobiti
+dodatna	mte:Agpnpa	dodaten
+sredstva	mte:Ncnpa	sredstvo
+za	mte:Sa	za
+spodbujanje	mte:Ncnsa	spodbujanje
+gospodarstva	mte:Ncnsg	gospodarstvo
+in	mte:Cc	in
+odpiranje	mte:Ncnsa	odpiranje
+novih	mte:Agpnpg	nov
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+.	mte:Z	.
+Odgovarjati	mte:Vmpn	odgovarjati
+mora	mte:Vmpr3s	morati
+tudi	mte:Q	tudi
+država	mte:Ncfsn	država
+Odločno	mte:Rgp	odločno
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+sprejem	mte:Ncmsan	sprejem
+interventnega	mte:Agpmsg	interventen
+zakona	mte:Ncmsg	zakon
+za	mte:Sa	za
+Koroško	mte:Npfsa	Koroška
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+zavzel	mte:Vmep-sm	zavzeti
+prevaljski	mte:Agpmsny	prevaljski
+župan	mte:Ncmsn	župan
+Matic	mte:Npmsn	Matic
+Tasič	mte:Npmsn	Tasič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+hkrati	mte:Rgp	hkrati
+menil	mte:Vmpp-sm	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sf	morati
+za	mte:Sa	za
+nastali	mte:Appmsay	nastati
+položaj	mte:Ncmsan	položaj
+v	mte:Sl	v
+Preventu	mte:Ncmsl	prevent
+odgovarjati	mte:Vmpn	odgovarjati
+tudi	mte:Q	tudi
+država	mte:Ncfsn	država
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+s	mte:Si	z
+svojo	mte:Px-fsi	svoj
+zakonodajo	mte:Ncfsi	zakonodaja
+dopustila	mte:Vmep-sf	dopustiti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+taki	mte:Pd-mpn	tak
+ekscesi	mte:Ncmpn	eksces
+dogajajo	mte:Vmpr3p	dogajati
+in	mte:Cc	in
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+takšnega	mte:Pd-msg	takšen
+načina	mte:Ncmsg	način
+privatizacije	mte:Ncfsg	privatizacija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+menedžment	mte:Ncmsn	menedžment
+podjetja	mte:Ncnsg	podjetje
+ukvarjal	mte:Vmpp-sm	ukvarjati
+s	mte:Si	z
+privatizacijo	mte:Ncfsi	privatizacija
+in	mte:Cc	in
+kopičenjem	mte:Ncnsi	kopičenje
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+ne	mte:Q	ne
+pa	mte:Cc	pa
+s	mte:Si	z
+prihodnostjo	mte:Ncfsi	prihodnost
+podjetja	mte:Ncnsg	podjetje
+.	mte:Z	.
+Po	mte:Sl	po
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+zavoda	mte:Ncmsg	zavod
+za	mte:Sa	za
+zaposlovanje	mte:Ncnsa	zaposlovanje
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+Koroškem	mte:Npnsl	Koroško
+ob	mte:Sl	ob
+stečaju	mte:Ncmsl	stečaj
+podjetij	mte:Ncnpg	podjetje
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+in	mte:Cc	in
+Prevent	mte:Npmsn	Prevent
+avtomobilski	mte:Agpmpn	avtomobilski
+deli	mte:Ncmpn	del
+brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+ostalo	mte:Vmep-sn	ostati
+947	mte:Mdc	947
+oseb	mte:Ncfpg	oseba
+,	mte:Z	,
+skupna	mte:Agpfsn	skupen
+stopnja	mte:Ncfsn	stopnja
+registrirane	mte:Appfsg	registriran
+brezposelnosti	mte:Ncfsg	brezposelnost
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+oziroma	mte:Cc	oziroma
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+še	mte:Q	še
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+z	mte:Sg	z
+majskih	mte:Agpmpg	majski
+12,4	mte:Mdc	12,4
+odstotka	mte:Ncmsg	odstotek
+v	mte:Sl	v
+avgustu	mte:Ncmsl	avgust
+povišala	mte:Vmep-sf	povišati
+na	mte:Sa	na
+15,5	mte:Mdc	15,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Mejo	mte:Ncfsa	meja
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+presegla	mte:Vmep-sf	preseči
+v	mte:Sl	v
+upravni	mte:Agpfsl	upraven
+enoti	mte:Ncfsl	enota
+Radlje	mte:Npfsn	Radlje
+ob	mte:Sl	ob
+Dravi	mte:Npfsl	Dravi
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bo	mte:Va-f3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+17,9	mte:Mdc	17,9
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+Dravograd	mte:Npmsan	Dravograd
+s	mte:Si	z
+15,1	mte:Mdc	15,1
+odstotka	mte:Ncmsg	odstotek
+ter	mte:Cc	ter
+Ravne	mte:Npfsn	Ravne
+na	mte:Sl	na
+Koroškem	mte:Npnsl	Koroško
+in	mte:Cc	in
+Slovenj	mte:Npmsn	Slovenj
+Gradec	mte:Npmsn	Gradec
+s	mte:Si	z
+po	mte:Sa	po
+14,7	mte:Mdc	14,7
+odstotka	mte:Ncmsg	odstotek

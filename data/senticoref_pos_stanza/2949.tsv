@@ -1,431 +1,460 @@
-token	tag
-Novo	Agpnsn
-mesto	Ncnsn
--	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-novomeške	Agpfsg
-družbe	Ncfsg
-TPV	Npmsn
-Vladimir	Npmsn
-Gregor	Npmsn
-Bahč	Npmsn
-in	Cc
-član	Ncmsn
-uprave	Ncfsg
-Slovenske	Agpfsg
-izvozne	Agpfsg
-in	Cc
-razvojne	Agpfsg
-banke	Ncfsg
-(	Z
-SID	Npmsn
-)	Z
-Jožef	Npmsn
-Bradeško	Npfsn
-sta	Va-r3d-n
-danes	Rgp
-v	Sl
-Novem	Agpnsl
-mestu	Ncnsl
-podpisala	Vmep-dm
-pogodbo	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-je	Va-r3s-n
-banka	Ncfsn
-družbi	Ncfsd
-odobrila	Vmep-sf
-desetletno	Agpnsa
-dolgoročno	Agpnsa
-posojilo	Ncnsa
-za	Sa
-razvojna	Agpmpa
-projekta	Ncmda
-ogrodja	Ncnsg
-vzglavnikov	Ncmpg
-in	Cc
-varjeni	Appmpn
-sklopi	Ncmpn
-.	Z
-Znesek	Ncmsan
-posojila	Ncnsg
-znaša	Vmpr3s
-sedem	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-družbe	Ncfsg
-TPV	Npmsn
-je	Va-r3s-n
-SID	Npmsn
-posojilo	Ncnsa
-odobrila	Vmep-sf
-iz	Sg
-sredstev	Ncnpg
-evropske	Agpfsg
-investicijske	Agpfsg
-banke	Ncfsg
-in	Cc
-drugih	Mlpmpg
-virov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-namenjeni	Appmpn
-financiranju	Ncnsd
-razvojnih	Agpmpg
-projektov	Ncmpg
-na	Sl
-področju	Ncnsl
-avtomobilske	Agpfsg
-industrije	Ncfsg
-,	Z
-s	Si
-temi	Pd-mpi
-dolgoročnimi	Agpmpi
-in	Cc
-ugodnimi	Agpmpi
-viri	Ncmpi
-financiranja	Ncnsg
-pa	Cc
-banka	Ncfsn
-podpira	Vmpr3s
-razvojne	Agpmpa
-projekte	Ncmpa
-,	Z
-ki	Cs
-utrjujejo	Vmpr3p
-položaj	Ncmsan
-slovenskih	Agpmpg
-razvojnih	Agpmpg
-in	Cc
-neposrednih	Agpmpg
-dobaviteljev	Ncmpg
-na	Sl
-globalnem	Agpmsl
-trgu	Ncmsl
-.	Z
-Cilj	Ncmsn
-obeh	Pg-mdg
-projektov	Ncmdg
-je	Va-r3s-n
-zmanjšati	Vmen
-težo	Ncfsa
-celotnega	Agpnsg
-vozila	Ncnsg
-,	Z
-z	Si
-inovativnimi	Agpfpi
-rešitvami	Ncfpi
-pa	Cc
-zagotoviti	Vmen
-enako	Pi-fsa
-varnost	Ncfsa
-.	Z
-K	Sd
-navedenim	Appmpd
-ciljem	Ncmpd
-so	Va-r3p-n
-zavezani	Appmpn
-vsi	Pg-mpn
-dobavitelji	Ncmpn
-,	Z
-tudi	Q
-dobavitelji	Ncmpn
-sedežev	Ncmpg
-in	Cc
-vzglavnikov	Ncmpg
-,	Z
-TPV	Npmsn
-pa	Cc
-načrtuje	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-s	Si
-predlaganima	Appmdi
-projektoma	Ncmdi
-v	Sl
-prihodnjih	Agpnpl
-letih	Ncnpl
-dosegla	Vmep-sf
-približno	Rgp
-osemodstotni	Agpmsay
-delež	Ncmsan
-ogrodij	Ncnpg
-vzglavnikov	Ncmpg
-v	Sl
-Evropi	Npfsl
-proizvedenih	Appnpg
-vozil	Ncnpg
-oz	Npmsn
-.	Z
-do	Sg
-triodstotni	Agpmsny
-delež	Ncmsan
-v	Sl
-svetovnem	Agpnsl
-merilu	Ncnsl
-.	Z
-Oba	Pg-mdn
-obravnavana	Appmdn
-projekta	Ncmdn
-se	Px------y
-navezujeta	Vmpr3d
-na	Sa
-projekt	Ncmsan
-Policentrični	Agpmsay
-Tehnološki	Agpmsay
-center	Ncmsan
-,	Z
-v	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-bili	Va-p-pm
-pod	Si
-okriljem	Ncnsi
-Slovenskega	Agpmsg
-avtomobilskega	Agpmsg
-grozda	Ncmsg
--	Z
-ACS	Npmsn
-vključeni	Appmpn
-številni	Agpmpn
-slovenski	Agpmpn
-dobavitelji	Ncmpn
-,	Z
-omenjeni	Appmsny
-projekt	Ncmsn
-,	Z
-tako	Rgp
-TPV	Npmsn
-,	Z
-pa	Cc
-je	Va-r3s-n
-prinesel	Vmep-sm
-vrsto	Ncfsa
-skupnih	Agpmpg
-učinkov	Ncmpg
-.	Z
-Glavna	Agpfsn
-dejavnost	Ncfsn
-družbe	Ncfsg
-TPV	Npfsn
-trženje	Ncnsn
-in	Cc
-proizvodnja	Ncfsn
-opreme	Ncfsg
-vozil	Ncnpg
-je	Va-r3s-n
-razvoj	Ncmsan
-in	Cc
-izdelava	Ncfsn
-sestavnih	Agpmpg
-delov	Ncmpg
-za	Sa
-vozila	Ncnpa
-ter	Cc
-lahkih	Agpmpg
-delov	Ncmpg
-zanje	Pp3mpa--b
-,	Z
-glavni	Agpmpn
-izdelki	Ncmpn
-družbe	Ncfsg
-pa	Cc
-so	Va-r3p-n
-avtomobilski	Agpmpn
-sedeži	Ncmpn
-in	Cc
-sedežni	Agpmpn
-okvirji	Ncmpn
-,	Z
-nosilec	Ncmsn
-armaturne	Agpfsg
-plošče	Ncfsg
-,	Z
-ogrodje	Ncnsn
-naslona	Ncmsg
-za	Sa
-roke	Ncfpa
-,	Z
-nosilec	Ncmsn
-odbijača	Ncmsg
-,	Z
-ogrodja	Ncnsg
-ter	Cc
-ogrodja	Ncnsg
-vzglavnikov	Ncmpg
-,	Z
-pojasnjujejo	Vmpr3p
-v	Sl
-TPV	Npmsl
-.	Z
-Družba	Ncfsn
-je	Va-r3s-n
-lani	Rgp
-zaposlovala	Vmpp-sf
-skoraj	Q
-500	Mdc
-ljudi	Ncmpg
-,	Z
-ustvarila	Vmep-sf
-pa	Cc
-43	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-letnega	Agpmsg
-prometa	Ncmsg
-.	Z
-V	Sl
-prvi	Mlofsl
-polovici	Ncfsl
-tekočega	Appnsg
-leta	Ncnsg
-se	Px------y
-je	Va-r3s-n
-število	Ncnsn
-zaposlenih	Appmpg
-povečalo	Vmep-sn
-na	Sa
-skoraj	Q
-550	Mdc
-,	Z
-polletna	Agpfsn
-realizacija	Ncfsn
-prometa	Ncmsg
-pa	Cc
-je	Va-r3s-n
-znašala	Vmpp-sf
-21	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-V	Sl
-devetih	Mlc-pl
-mesecih	Ncmpl
-tega	Pd-nsg
-leta	Ncnsg
-so	Va-r3p-n
-ustvarili	Vmep-pm
-32	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-prihodkov	Ncmpg
-,	Z
-sklopi	Ncmpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-proizvaja	Vmpr3s
-družba	Ncfsn
-,	Z
-vključno	Rgp
-z	Si
-deli	Ncmpi
-sedežev	Ncmpg
-in	Cc
-vzglavnikov	Ncmpg
-,	Z
-pa	Cc
-so	Va-r3p-n
-danes	Rgp
-prisotni	Agpmpn
-v	Sl
-vozilih	Ncnpl
-večine	Ncfsg
-evropskih	Agpmpg
-proizvajalcev	Ncmpg
-oz	Ncmsg
-.	Z
-proizvajalcev	Ncmpg
-,	Z
-ki	Cs
-sestavljajo	Vmpr3p
-vozila	Ncnpa
-v	Sl
-Evropi	Npfsl
-,	Z
-kot	Cs
-so	Va-r3p-n
-renault	Ncmsn
-,	Z
-BMW	Npmsn
-,	Z
-audi	Npmsn
-,	Z
-alfa	Npmsn
-,	Z
-VW	Npmsn
-,	Z
-volvo	Ncmsn
-,	Z
-toyota	Ncfsn
-,	Z
-škoda	Ncfsn
-,	Z
-SAAB	Npmsn
-,	Z
-peugeot	Ncmsn
-,	Z
-opel	Npmsn
-,	Z
-nissan	Npmsn
-,	Z
-mercedes	Ncmsn
--	Z
-benz	Npmsn
-,	Z
-jaguar	Ncmsn
-,	Z
-ford	Npmsn
-in	Cc
-DAF	Npmsn
-.	Z
-Ker	Cs
-se	Px------y
-kupci	Ncmpn
-družbe	Ncfsg
-TPV	Npmsn
-prizadevajo	Vmpr3p
-razvijati	Vmpn
-in	Cc
-proizvajati	Vmpn
-vozila	Ncnpa
-v	Sl
-skladu	Ncmsl
-z	Si
-direktivami	Ncfpi
-standardov	Ncmpg
-Euro	Npmsn
-5	Mdc
-in	Cc
-Euro	Ncmsn
-6	Mdc
-,	Z
-od	Sg
-družb	Ncfpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-sodelujejo	Vmpr3p
-,	Z
-zahtevajo	Vmbr3p
-,	Z
-da	Cs
-sledijo	Vmpr3p
-omenjenim	Appmpd
-standardom	Ncmpd
-in	Cc
-smernicam	Ncfpd
-,	Z
-poudarjajo	Vmpr3p
-v	Sl
-TPV	Npmsl
-.	Z
+token	tag	lemma
+Novo	mte:Agpnsn	nov
+mesto	mte:Ncnsn	mesto
+-	mte:Z	-
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+novomeške	mte:Agpfsg	novomeški
+družbe	mte:Ncfsg	družba
+TPV	mte:Npmsn	TPV
+Vladimir	mte:Npmsn	Vladimir
+Gregor	mte:Npmsn	Gregor
+Bahč	mte:Npmsn	Bahč
+in	mte:Cc	in
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+Slovenske	mte:Agpfsg	slovenski
+izvozne	mte:Agpfsg	izvozen
+in	mte:Cc	in
+razvojne	mte:Agpfsg	razvojen
+banke	mte:Ncfsg	banka
+(	mte:Z	(
+SID	mte:Npmsn	SID
+)	mte:Z	)
+Jožef	mte:Npmsn	Jožef
+Bradeško	mte:Npfsn	Bradeška
+sta	mte:Va-r3d-n	biti
+danes	mte:Rgp	danes
+v	mte:Sl	v
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+podpisala	mte:Vmep-dm	podpisati
+pogodbo	mte:Ncfsa	pogodba
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+je	mte:Va-r3s-n	biti
+banka	mte:Ncfsn	banka
+družbi	mte:Ncfsd	družba
+odobrila	mte:Vmep-sf	odobriti
+desetletno	mte:Agpnsa	desetleten
+dolgoročno	mte:Agpnsa	dolgoročno
+posojilo	mte:Ncnsa	posojilo
+za	mte:Sa	za
+razvojna	mte:Agpmpa	razvojen
+projekta	mte:Ncmda	projekt
+ogrodja	mte:Ncnsg	ogrodje
+vzglavnikov	mte:Ncmpg	vzglavnik
+in	mte:Cc	in
+varjeni	mte:Appmpn	varjen
+sklopi	mte:Ncmpn	sklop
+.	mte:Z	.
+Znesek	mte:Ncmsan	znesek
+posojila	mte:Ncnsg	posojilo
+znaša	mte:Vmpr3s	znašati
+sedem	mte:Mlc-pa	sedem
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+družbe	mte:Ncfsg	družba
+TPV	mte:Npmsn	TPV
+je	mte:Va-r3s-n	biti
+SID	mte:Npmsn	SID
+posojilo	mte:Ncnsa	posojilo
+odobrila	mte:Vmep-sf	odobriti
+iz	mte:Sg	iz
+sredstev	mte:Ncnpg	sredstvo
+evropske	mte:Agpfsg	evropski
+investicijske	mte:Agpfsg	investicijski
+banke	mte:Ncfsg	banka
+in	mte:Cc	in
+drugih	mte:Mlpmpg	drug
+virov	mte:Ncmpg	vir
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+namenjeni	mte:Appmpn	namenjen
+financiranju	mte:Ncnsd	financiranje
+razvojnih	mte:Agpmpg	razvojen
+projektov	mte:Ncmpg	projekt
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+avtomobilske	mte:Agpfsg	avtomobilski
+industrije	mte:Ncfsg	industrija
+,	mte:Z	,
+s	mte:Si	z
+temi	mte:Pd-mpi	ta
+dolgoročnimi	mte:Agpmpi	dolgoročen
+in	mte:Cc	in
+ugodnimi	mte:Agpmpi	ugoden
+viri	mte:Ncmpi	vir
+financiranja	mte:Ncnsg	financiranje
+pa	mte:Cc	pa
+banka	mte:Ncfsn	banka
+podpira	mte:Vmpr3s	podpirati
+razvojne	mte:Agpmpa	razvojen
+projekte	mte:Ncmpa	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+utrjujejo	mte:Vmpr3p	utrjevati
+položaj	mte:Ncmsan	položaj
+slovenskih	mte:Agpmpg	slovenski
+razvojnih	mte:Agpmpg	razvojen
+in	mte:Cc	in
+neposrednih	mte:Agpmpg	neposreden
+dobaviteljev	mte:Ncmpg	dobavitelj
+na	mte:Sl	na
+globalnem	mte:Agpmsl	globalen
+trgu	mte:Ncmsl	trg
+.	mte:Z	.
+Cilj	mte:Ncmsn	cilj
+obeh	mte:Pg-mdg	oba
+projektov	mte:Ncmdg	projekt
+je	mte:Va-r3s-n	biti
+zmanjšati	mte:Vmen	zmanjšati
+težo	mte:Ncfsa	teža
+celotnega	mte:Agpnsg	celoten
+vozila	mte:Ncnsg	vozilo
+,	mte:Z	,
+z	mte:Si	z
+inovativnimi	mte:Agpfpi	inovativen
+rešitvami	mte:Ncfpi	rešitev
+pa	mte:Cc	pa
+zagotoviti	mte:Vmen	zagotoviti
+enako	mte:Pi-fsa	enak
+varnost	mte:Ncfsa	varnost
+.	mte:Z	.
+K	mte:Sd	k
+navedenim	mte:Appmpd	naveden
+ciljem	mte:Ncmpd	cilj
+so	mte:Va-r3p-n	biti
+zavezani	mte:Appmpn	zavezan
+vsi	mte:Pg-mpn	ves
+dobavitelji	mte:Ncmpn	dobavitelj
+,	mte:Z	,
+tudi	mte:Q	tudi
+dobavitelji	mte:Ncmpn	dobavitelj
+sedežev	mte:Ncmpg	sedež
+in	mte:Cc	in
+vzglavnikov	mte:Ncmpg	vzglavnik
+,	mte:Z	,
+TPV	mte:Npmsn	TPV
+pa	mte:Cc	pa
+načrtuje	mte:Vmpr3s	načrtovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+s	mte:Si	z
+predlaganima	mte:Appmdi	predlagan
+projektoma	mte:Ncmdi	projekt
+v	mte:Sl	v
+prihodnjih	mte:Agpnpl	prihodnji
+letih	mte:Ncnpl	leto
+dosegla	mte:Vmep-sf	doseči
+približno	mte:Rgp	približno
+osemodstotni	mte:Agpmsay	osemodstoten
+delež	mte:Ncmsan	delež
+ogrodij	mte:Ncnpg	ogrodje
+vzglavnikov	mte:Ncmpg	vzglavnik
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+proizvedenih	mte:Appnpg	proizveden
+vozil	mte:Ncnpg	vozilo
+oz	mte:Npmsn	oz
+.	mte:Z	.
+do	mte:Sg	do
+triodstotni	mte:Agpmsny	triodstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+svetovnem	mte:Agpnsl	svetoven
+merilu	mte:Ncnsl	merilo
+.	mte:Z	.
+Oba	mte:Pg-mdn	oba
+obravnavana	mte:Appmdn	obravnavan
+projekta	mte:Ncmdn	projekt
+se	mte:Px------y	se
+navezujeta	mte:Vmpr3d	navezovati
+na	mte:Sa	na
+projekt	mte:Ncmsan	projekt
+Policentrični	mte:Agpmsay	policentričen
+Tehnološki	mte:Agpmsay	tehnološki
+center	mte:Ncmsan	center
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+pod	mte:Si	pod
+okriljem	mte:Ncnsi	okrilje
+Slovenskega	mte:Agpmsg	slovenski
+avtomobilskega	mte:Agpmsg	avtomobilski
+grozda	mte:Ncmsg	grozda
+-	mte:Z	-
+ACS	mte:Npmsn	ACS
+vključeni	mte:Appmpn	vključen
+številni	mte:Agpmpn	številen
+slovenski	mte:Agpmpn	slovenski
+dobavitelji	mte:Ncmpn	dobavitelj
+,	mte:Z	,
+omenjeni	mte:Appmsny	omenjen
+projekt	mte:Ncmsn	projekt
+,	mte:Z	,
+tako	mte:Rgp	tako
+TPV	mte:Npmsn	TPV
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+prinesel	mte:Vmep-sm	prinesti
+vrsto	mte:Ncfsa	vrsta
+skupnih	mte:Agpmpg	skupen
+učinkov	mte:Ncmpg	učinek
+.	mte:Z	.
+Glavna	mte:Agpfsn	glaven
+dejavnost	mte:Ncfsn	dejavnost
+družbe	mte:Ncfsg	družba
+TPV	mte:Npfsn	TPV
+trženje	mte:Ncnsn	trženje
+in	mte:Cc	in
+proizvodnja	mte:Ncfsn	proizvodnja
+opreme	mte:Ncfsg	oprema
+vozil	mte:Ncnpg	vozilo
+je	mte:Va-r3s-n	biti
+razvoj	mte:Ncmsan	razvoj
+in	mte:Cc	in
+izdelava	mte:Ncfsn	izdelava
+sestavnih	mte:Agpmpg	sestaven
+delov	mte:Ncmpg	del
+za	mte:Sa	za
+vozila	mte:Ncnpa	vozilo
+ter	mte:Cc	ter
+lahkih	mte:Agpmpg	lahek
+delov	mte:Ncmpg	del
+zanje	mte:Pp3mpa--b	zame
+,	mte:Z	,
+glavni	mte:Agpmpn	glaven
+izdelki	mte:Ncmpn	izdelek
+družbe	mte:Ncfsg	družba
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+avtomobilski	mte:Agpmpn	avtomobilski
+sedeži	mte:Ncmpn	sedež
+in	mte:Cc	in
+sedežni	mte:Agpmpn	sedežen
+okvirji	mte:Ncmpn	okvir
+,	mte:Z	,
+nosilec	mte:Ncmsn	nosilec
+armaturne	mte:Agpfsg	armaturen
+plošče	mte:Ncfsg	plošča
+,	mte:Z	,
+ogrodje	mte:Ncnsn	ogrodje
+naslona	mte:Ncmsg	naslon
+za	mte:Sa	za
+roke	mte:Ncfpa	roka
+,	mte:Z	,
+nosilec	mte:Ncmsn	nosilec
+odbijača	mte:Ncmsg	odbijača
+,	mte:Z	,
+ogrodja	mte:Ncnsg	ogrodje
+ter	mte:Cc	ter
+ogrodja	mte:Ncnsg	ogrodje
+vzglavnikov	mte:Ncmpg	vzglavnik
+,	mte:Z	,
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+v	mte:Sl	v
+TPV	mte:Npmsl	TPV
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+zaposlovala	mte:Vmpp-sf	zaposlovati
+skoraj	mte:Q	skoraj
+500	mte:Mdc	500
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+ustvarila	mte:Vmep-sf	ustvariti
+pa	mte:Cc	pa
+43	mte:Mdc	43
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+letnega	mte:Agpmsg	leten
+prometa	mte:Ncmsg	promet
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+polovici	mte:Ncfsl	polovica
+tekočega	mte:Appnsg	tekoč
+leta	mte:Ncnsg	leto
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+zaposlenih	mte:Appmpg	zaposlen
+povečalo	mte:Vmep-sn	povečati
+na	mte:Sa	na
+skoraj	mte:Q	skoraj
+550	mte:Mdc	550
+,	mte:Z	,
+polletna	mte:Agpfsn	polleten
+realizacija	mte:Ncfsn	realizacija
+prometa	mte:Ncmsg	promet
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+21	mte:Mdc	21
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+tega	mte:Pd-nsg	ta
+leta	mte:Ncnsg	leto
+so	mte:Va-r3p-n	biti
+ustvarili	mte:Vmep-pm	ustvariti
+32	mte:Mdc	32
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+,	mte:Z	,
+sklopi	mte:Ncmpn	sklop
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+proizvaja	mte:Vmpr3s	proizvajati
+družba	mte:Ncfsn	družba
+,	mte:Z	,
+vključno	mte:Rgp	vključno
+z	mte:Si	z
+deli	mte:Ncmpi	del
+sedežev	mte:Ncmpg	sedež
+in	mte:Cc	in
+vzglavnikov	mte:Ncmpg	vzglavnik
+,	mte:Z	,
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+prisotni	mte:Agpmpn	prisoten
+v	mte:Sl	v
+vozilih	mte:Ncnpl	vozilo
+večine	mte:Ncfsg	večina
+evropskih	mte:Agpmpg	evropski
+proizvajalcev	mte:Ncmpg	proizvajalec
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+proizvajalcev	mte:Ncmpg	proizvajalec
+,	mte:Z	,
+ki	mte:Cs	ki
+sestavljajo	mte:Vmpr3p	sestavljati
+vozila	mte:Ncnpa	vozilo
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+renault	mte:Ncmsn	renault
+,	mte:Z	,
+BMW	mte:Npmsn	BMW
+,	mte:Z	,
+audi	mte:Npmsn	audi
+,	mte:Z	,
+alfa	mte:Npmsn	alfa
+,	mte:Z	,
+VW	mte:Npmsn	VW
+,	mte:Z	,
+volvo	mte:Ncmsn	volva
+,	mte:Z	,
+toyota	mte:Ncfsn	toyota
+,	mte:Z	,
+škoda	mte:Ncfsn	škoda
+,	mte:Z	,
+SAAB	mte:Npmsn	SAAB
+,	mte:Z	,
+peugeot	mte:Ncmsn	peugeot
+,	mte:Z	,
+opel	mte:Npmsn	opel
+,	mte:Z	,
+nissan	mte:Npmsn	nissan
+,	mte:Z	,
+mercedes	mte:Ncmsn	mercedes
+-	mte:Z	-
+benz	mte:Npmsn	benz
+,	mte:Z	,
+jaguar	mte:Ncmsn	jaguar
+,	mte:Z	,
+ford	mte:Npmsn	ford
+in	mte:Cc	in
+DAF	mte:Npmsn	DAF
+.	mte:Z	.
+Ker	mte:Cs	ker
+se	mte:Px------y	se
+kupci	mte:Ncmpn	kupec
+družbe	mte:Ncfsg	družba
+TPV	mte:Npmsn	TPV
+prizadevajo	mte:Vmpr3p	prizadevati
+razvijati	mte:Vmpn	razvijati
+in	mte:Cc	in
+proizvajati	mte:Vmpn	proizvajati
+vozila	mte:Ncnpa	vozilo
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+direktivami	mte:Ncfpi	direktiva
+standardov	mte:Ncmpg	standard
+Euro	mte:Npmsn	Eura
+5	mte:Mdc	5
+in	mte:Cc	in
+Euro	mte:Ncmsn	eura
+6	mte:Mdc	6
+,	mte:Z	,
+od	mte:Sg	od
+družb	mte:Ncfpg	družba
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+sodelujejo	mte:Vmpr3p	sodelovati
+,	mte:Z	,
+zahtevajo	mte:Vmbr3p	zahtevati
+,	mte:Z	,
+da	mte:Cs	da
+sledijo	mte:Vmpr3p	slediti
+omenjenim	mte:Appmpd	omenjen
+standardom	mte:Ncmpd	standard
+in	mte:Cc	in
+smernicam	mte:Ncfpd	smernica
+,	mte:Z	,
+poudarjajo	mte:Vmpr3p	poudarjati
+v	mte:Sl	v
+TPV	mte:Npmsl	TPV
+.	mte:Z	.
+V	mte:Sl	v
+zadnjem	mte:Agpmsl	zadnji
+času	mte:Ncmsl	čas
+pri	mte:Sl	pri
+programu	mte:Ncmsl	program
+Avtomobilska	mte:Agpfsn	avtomobilski
+industrija	mte:Ncfsn	industrija
+sodelujejo	mte:Vmpr3p	sodelovati
+tudi	mte:Q	tudi
+z	mte:Si	z
+novomeško	mte:Agpfsi	novomeški
+Fakulteto	mte:Ncfsi	fakulteta
+za	mte:Sa	za
+industrijski	mte:Agpmsay	industrijski
+inženiring	mte:Ncmsan	inženiring
+,	mte:Z	,
+imajo	mte:Vmpr3p-n	imeti
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+lasten	mte:Agpmsan	lasten
+razvojni	mte:Agpmsay	razvojen
+oddelek	mte:Ncmsan	oddelek
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Novega	mte:Agpnsg	nov
+mesta	mte:Ncnsg	mesto

@@ -1,367 +1,393 @@
-token	tag
-Misterij	Ncmsn
-ruskih	Agpmpg
-državljanov	Ncmpg
-Slovenci	Npmpn
-smo	Va-r1p-n
-tisti	Pd-mpn
-,	Z
-ki	Cs
-smo	Va-r1p-n
-med	Si
-letoma	Ncndi
-2010	Mdc
-in	Cc
-2012	Mdc
-kupili	Vmep-pm
-največ	Rgs
-nepremičnin	Ncfpg
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-je	Va-r3s-n
-objavila	Vmep-sf
-hrvaška	Agpfsn
-davčna	Agpfsn
-uprava	Ncfsn
-.	Z
-Državljani	Ncmpn
-BiH	Npmsn
--	Z
-a	Cc
-so	Va-r3p-n
-lani	Rgp
-kupili	Vmep-pm
-vsega	Pg-msg
-skupaj	Rgp
-pet	Mlc-pa
-nepremičnin	Ncfpg
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-Srbi	Npmpn
-pa	Cc
-le	Q
-štiri	Mlcfpa
-.	Z
-Od	Sg
-13.883	Mdc
-nepremičnin	Ncfpg
-,	Z
-prodanih	Appmpg
-tujim	Agpmpd
-državljanom	Ncmpd
-v	Sl
-teh	Pd-npl
-treh	Mlcnpl
-letih	Ncnpl
-,	Z
-smo	Va-r1p-n
-Slovenci	Npmpn
-postali	Vmep-pm
-lastniki	Ncmpn
-5.673	Mdc
-nepremičnin	Ncfpg
-.	Z
-Daleč	Rgp
-za	Si
-nami	Pp1-pi
-so	Va-r3p-n
-Nemci	Npmpn
-s	Si
-1.757	Mdc
-,	Z
-tik	Rgp
-za	Si
-njimi	Pp3mpi
-pa	Cc
-nato	Rgp
-Italijani	Npmpn
-s	Si
-1.574	Mdc
-kupljenimi	Appfpi
-nepremičninami	Ncfpi
-.	Z
-Davčna	Agpfsn
-uprava	Ncfsn
-sicer	Q
-poudarja	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-število	Ncnsn
-tujcev	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-kupili	Vmep-pm
-nepremičnine	Ncfpa
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-zmanjšuje	Vmpr3s
-.	Z
-Tako	Rgp
-so	Va-r3p-n
-leta	Ncnsg
-2010	Mdc
-tuji	Agpmpn
-državljani	Ncmpn
-skupno	Rgp
-kupili	Vmep-pm
-5.445	Mdc
-nepremičnin	Ncfpg
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-leta	Ncnsg
-2011	Mdc
-nekoliko	Rgp
-manj	Rgc
--	Z
-5.087	Mdc
-,	Z
-lani	Rgp
-pa	Cc
-le	Q
-še	Q
-3.351	Mdc
-nepremičnin	Ncfpg
-.	Z
-Podobno	Agpnsn
-gibanje	Ncnsn
-je	Va-r3s-n
-tudi	Q
-med	Si
-slovenskimi	Agpmpi
-kupci	Ncmpi
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-leta	Ncnsg
-2010	Mdc
-odločili	Vmep-pm
-za	Sa
-nakup	Ncmsan
-2.245	Mdc
-nepremičnin	Ncfpg
-,	Z
-leto	Ncnsa
-pozneje	Rgc
-so	Va-r3p-n
-kot	Cs
-svojo	Px-fsa
-lastnino	Ncfsa
-vpisali	Vmep-pm
-2.141	Mdc
-nepremičnin	Ncfpg
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-lani	Rgp
-pa	Cc
-1.287	Mdc
-.	Z
-Kljub	Sd
-občutnemu	Agpnsd
-znižanju	Ncnsd
-nakupov	Ncmpg
-so	Va-r3p-n
-se	Px------y
-Slovenci	Npmpn
-obdržali	Vmep-pm
-na	Sl
-prvem	Mlonsl
-mestu	Ncnsl
-,	Z
-ker	Cs
-so	Va-r3p-n
-tudi	Q
-tuji	Agpmpn
-državljani	Ncmpn
-iz	Sg
-drugih	Mlpfpg
-držav	Ncfpg
-lani	Rgp
-kupili	Vmep-pm
-manj	Rgc
-nepremičnin	Ncfpg
-kot	Cs
-prej	Rgc
-.	Z
-Srbija	Npfsn
-in	Cc
-BiH	Npmsn
-le	Q
-s	Si
-peščico	Ncfsi
-nakupov	Ncmpg
-Poleg	Sg
-najpogostejših	Agsmpg
-hrvaških	Agpmpg
-turističnih	Agpmpg
-gostov	Ncmpg
-iz	Sg
-Slovenije	Npfsg
-,	Z
-Nemčije	Npfsg
-,	Z
-Italije	Npfsg
-,	Z
-Avstrije	Npfsg
-in	Cc
-Madžarske	Npfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-tudi	Q
-med	Si
-vodilnimi	Agpmpi
-kupci	Ncmpi
-nepremičnin	Ncfpg
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-so	Va-r3p-n
-se	Px------y
-visoko	Rgp
-uvrstili	Vmep-pm
-Švedi	Npmpn
-,	Z
-ki	Cs
-sicer	Q
-ne	Q
-izstopajo	Vmpr3p
-s	Si
-svojim	Px-nsi
-številom	Ncnsi
-med	Si
-turisti	Ncmpi
-na	Sl
-Hrvaškem	Npnsl
-.	Z
-Švedi	Npmpn
-so	Va-r3p-n
-v	Sl
-treh	Mlcnpl
-letih	Ncnpl
-kupili	Vmep-pm
-488	Mdc
-nepremičnin	Ncfpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-več	Rgc
-kot	Cs
-državljani	Ncmpn
-Velike	Agpfsg
-Britanije	Npfsg
-,	Z
-Slovaške	Npfsg
-,	Z
-Češke	Npfsg
-in	Cc
-Francije	Npfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-sicer	Q
-pogosti	Agpmpn
-gostje	Ncmpn
-na	Sl
-Hrvaškem	Npnsl
-.	Z
-Državljani	Ncmpn
-BiH	Npfsn
--	Z
-a	Cc
-so	Va-r3p-n
-lani	Rgp
-kupili	Vmep-pm
-le	Q
-pet	Mlc-pa
-nepremičnin	Ncfpg
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-srbski	Agpmpn
-državljani	Ncmpn
-pa	Cc
-le	Q
-štiri	Mlcfpa
-.	Z
-Sicer	Q
-pa	Cc
-sta	Va-r3d-n
-dve	Mlcfdn
-nepremičnini	Ncfdn
-lani	Rgp
-kupila	Vmep-dm
-tudi	Q
-dva	Mlcmda
-kupca	Ncmda
-iz	Sg
-Gane	Npmsg
-,	Z
-posamezni	Agpmpn
-kupci	Ncmpn
-so	Va-r3p-n
-bili	Va-p-pm
-tudi	Q
-z	Sg
-Nove	Agpfsg
-Zelandije	Npfsg
-,	Z
-iz	Sg
-baltskih	Agpfpg
-držav	Ncfpg
-ter	Cc
-iz	Sg
-Grčije	Npfsg
-,	Z
-Bolgarije	Npfsg
-in	Cc
-Romunije	Npfsg
-.	Z
-Kje	Rgp
-pa	Cc
-so	Va-r3p-n
-Rusi	Npmpn
-?	Z
-Hrvaški	Agpmsny
-časnik	Ncmsn
-Poslovni	Agpmsny
-dnevnik	Ncmsn
-pa	Cc
-kot	Cs
-zanimivost	Ncfsn
-poudarja	Vmpr3s
-,	Z
-da	Cs
-med	Si
-kupci	Ncmpi
-nepremičnin	Ncfpg
-na	Sl
-Hrvaškem	Npnsl
-niso	Va-r3p-y
-omenjeni	Appmpn
-državljani	Ncmpn
-Rusije	Npfsg
-.	Z
-Kot	Cs
-pojasnjuje	Vmpr3s
-,	Z
-Rusi	Npmpn
-praviloma	Rgp
-kupujejo	Vmpr3p
-nepremičnine	Ncfpa
-prek	Sg
-podjetij	Ncnpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-odpirajo	Vmpr3p
-na	Sl
-Hrvaškem	Npnsl
-.	Z
+token	tag	lemma
+Misterij	mte:Ncmsn	misterij
+ruskih	mte:Agpmpg	ruski
+državljanov	mte:Ncmpg	državljan
+Slovenci	mte:Npmpn	Slovenec
+smo	mte:Va-r1p-n	biti
+tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+med	mte:Si	med
+letoma	mte:Ncndi	leto
+2010	mte:Mdc	2010
+in	mte:Cc	in
+2012	mte:Mdc	2012
+kupili	mte:Vmep-pm	kupiti
+največ	mte:Rgs	največ
+nepremičnin	mte:Ncfpg	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+objavila	mte:Vmep-sf	objaviti
+hrvaška	mte:Agpfsn	hrvaški
+davčna	mte:Agpfsn	davčen
+uprava	mte:Ncfsn	uprava
+.	mte:Z	.
+Državljani	mte:Ncmpn	državljan
+BiH	mte:Npmsn	Bih
+-	mte:Z	-
+a	mte:Cc	a
+so	mte:Va-r3p-n	biti
+lani	mte:Rgp	lani
+kupili	mte:Vmep-pm	kupiti
+vsega	mte:Pg-msg	ves
+skupaj	mte:Rgp	skupaj
+pet	mte:Mlc-pa	pet
+nepremičnin	mte:Ncfpg	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+Srbi	mte:Npmpn	Srb
+pa	mte:Cc	pa
+le	mte:Q	le
+štiri	mte:Mlcfpa	štirje
+.	mte:Z	.
+Od	mte:Sg	od
+13.883	mte:Mdc	13.883
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+prodanih	mte:Appmpg	prodan
+tujim	mte:Agpmpd	tuj
+državljanom	mte:Ncmpd	državljan
+v	mte:Sl	v
+teh	mte:Pd-npl	ta
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+,	mte:Z	,
+smo	mte:Va-r1p-n	biti
+Slovenci	mte:Npmpn	Slovenec
+postali	mte:Vmep-pm	postati
+lastniki	mte:Ncmpn	lastnik
+5.673	mte:Mdc	5.673
+nepremičnin	mte:Ncfpg	nepremičnina
+.	mte:Z	.
+Daleč	mte:Rgp	daleč
+za	mte:Si	za
+nami	mte:Pp1-pi	jaz
+so	mte:Va-r3p-n	biti
+Nemci	mte:Npmpn	Nemec
+s	mte:Si	z
+1.757	mte:Mdc	1.757
+,	mte:Z	,
+tik	mte:Rgp	tik
+za	mte:Si	za
+njimi	mte:Pp3mpi	on
+pa	mte:Cc	pa
+nato	mte:Rgp	nato
+Italijani	mte:Npmpn	Italijan
+s	mte:Si	z
+1.574	mte:Mdc	1.574
+kupljenimi	mte:Appfpi	kupljen
+nepremičninami	mte:Ncfpi	nepremičnina
+.	mte:Z	.
+Davčna	mte:Agpfsn	davčen
+uprava	mte:Ncfsn	uprava
+sicer	mte:Q	sicer
+poudarja	mte:Vmpr3s	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+število	mte:Ncnsn	število
+tujcev	mte:Ncmpg	tujec
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+kupili	mte:Vmep-pm	kupiti
+nepremičnine	mte:Ncfpa	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+zmanjšuje	mte:Vmpr3s	zmanjševati
+.	mte:Z	.
+Tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+tuji	mte:Agpmpn	tuj
+državljani	mte:Ncmpn	državljan
+skupno	mte:Rgp	skupno
+kupili	mte:Vmep-pm	kupiti
+5.445	mte:Mdc	5.445
+nepremičnin	mte:Ncfpg	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+nekoliko	mte:Rgp	nekoliko
+manj	mte:Rgc	manj
+-	mte:Z	-
+5.087	mte:Mdc	5.087
+,	mte:Z	,
+lani	mte:Rgp	lani
+pa	mte:Cc	pa
+le	mte:Q	le
+še	mte:Q	še
+3.351	mte:Mdc	3.351
+nepremičnin	mte:Ncfpg	nepremičnina
+.	mte:Z	.
+Podobno	mte:Agpnsn	podoben
+gibanje	mte:Ncnsn	gibanje
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+med	mte:Si	med
+slovenskimi	mte:Agpmpi	slovenski
+kupci	mte:Ncmpi	kupec
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+odločili	mte:Vmep-pm	odločiti
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+2.245	mte:Mdc	2.245
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+leto	mte:Ncnsa	leto
+pozneje	mte:Rgc	pozno
+so	mte:Va-r3p-n	biti
+kot	mte:Cs	kot
+svojo	mte:Px-fsa	svoj
+lastnino	mte:Ncfsa	lastnina
+vpisali	mte:Vmep-pm	vpisati
+2.141	mte:Mdc	2.141
+nepremičnin	mte:Ncfpg	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+lani	mte:Rgp	lani
+pa	mte:Cc	pa
+1.287	mte:Mdc	1.287
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+občutnemu	mte:Agpnsd	občuten
+znižanju	mte:Ncnsd	znižanje
+nakupov	mte:Ncmpg	nakup
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+Slovenci	mte:Npmpn	Slovenec
+obdržali	mte:Vmep-pm	obdržati
+na	mte:Sl	na
+prvem	mte:Mlonsl	prvi
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+tuji	mte:Agpmpn	tuj
+državljani	mte:Ncmpn	državljan
+iz	mte:Sg	iz
+drugih	mte:Mlpfpg	drug
+držav	mte:Ncfpg	država
+lani	mte:Rgp	lani
+kupili	mte:Vmep-pm	kupiti
+manj	mte:Rgc	manj
+nepremičnin	mte:Ncfpg	nepremičnina
+kot	mte:Cs	kot
+prej	mte:Rgc	prej
+.	mte:Z	.
+Srbija	mte:Npfsn	Srbija
+in	mte:Cc	in
+BiH	mte:Npmsn	Bih
+le	mte:Q	le
+s	mte:Si	z
+peščico	mte:Ncfsi	peščica
+nakupov	mte:Ncmpg	nakup
+Poleg	mte:Sg	poleg
+najpogostejših	mte:Agsmpg	pogost
+hrvaških	mte:Agpmpg	hrvaški
+turističnih	mte:Agpmpg	turističen
+gostov	mte:Ncmpg	gost
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+Nemčije	mte:Npfsg	Nemčija
+,	mte:Z	,
+Italije	mte:Npfsg	Italija
+,	mte:Z	,
+Avstrije	mte:Npfsg	Avstrija
+in	mte:Cc	in
+Madžarske	mte:Npfsg	Madžarska
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+med	mte:Si	med
+vodilnimi	mte:Agpmpi	vodilen
+kupci	mte:Ncmpi	kupec
+nepremičnin	mte:Ncfpg	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+visoko	mte:Rgp	visoko
+uvrstili	mte:Vmep-pm	uvrstiti
+Švedi	mte:Npmpn	Šved
+,	mte:Z	,
+ki	mte:Cs	ki
+sicer	mte:Q	sicer
+ne	mte:Q	ne
+izstopajo	mte:Vmpr3p	izstopati
+s	mte:Si	z
+svojim	mte:Px-nsi	svoj
+številom	mte:Ncnsi	število
+med	mte:Si	med
+turisti	mte:Ncmpi	turist
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+.	mte:Z	.
+Švedi	mte:Npmpn	Šved
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+kupili	mte:Vmep-pm	kupiti
+488	mte:Mdc	488
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+državljani	mte:Ncmpn	državljan
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+,	mte:Z	,
+Slovaške	mte:Npfsg	Slovaška
+,	mte:Z	,
+Češke	mte:Npfsg	Češka
+in	mte:Cc	in
+Francije	mte:Npfsg	Francija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+pogosti	mte:Agpmpn	pogost
+gostje	mte:Ncmpn	gost
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+.	mte:Z	.
+Državljani	mte:Ncmpn	državljan
+BiH	mte:Npfsn	Bih
+-	mte:Z	-
+a	mte:Cc	a
+so	mte:Va-r3p-n	biti
+lani	mte:Rgp	lani
+kupili	mte:Vmep-pm	kupiti
+le	mte:Q	le
+pet	mte:Mlc-pa	pet
+nepremičnin	mte:Ncfpg	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+srbski	mte:Agpmpn	srbski
+državljani	mte:Ncmpn	državljan
+pa	mte:Cc	pa
+le	mte:Q	le
+štiri	mte:Mlcfpa	štirje
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+dve	mte:Mlcfdn	dva
+nepremičnini	mte:Ncfdn	nepremičnina
+lani	mte:Rgp	lani
+kupila	mte:Vmep-dm	kupiti
+tudi	mte:Q	tudi
+dva	mte:Mlcmda	dva
+kupca	mte:Ncmda	kupec
+iz	mte:Sg	iz
+Gane	mte:Npmsg	Gane
+,	mte:Z	,
+posamezni	mte:Agpmpn	posamezen
+kupci	mte:Ncmpn	kupec
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+tudi	mte:Q	tudi
+z	mte:Sg	z
+Nove	mte:Agpfsg	nov
+Zelandije	mte:Npfsg	Zelandija
+,	mte:Z	,
+iz	mte:Sg	iz
+baltskih	mte:Agpfpg	baltski
+držav	mte:Ncfpg	država
+ter	mte:Cc	ter
+iz	mte:Sg	iz
+Grčije	mte:Npfsg	Grčija
+,	mte:Z	,
+Bolgarije	mte:Npfsg	Bolgarija
+in	mte:Cc	in
+Romunije	mte:Npfsg	Romunija
+.	mte:Z	.
+Kje	mte:Rgp	kje
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+Rusi	mte:Npmpn	Rus
+?	mte:Z	?
+Hrvaški	mte:Agpmsny	hrvaški
+časnik	mte:Ncmsn	časnik
+Poslovni	mte:Agpmsny	posloven
+dnevnik	mte:Ncmsn	dnevnik
+pa	mte:Cc	pa
+kot	mte:Cs	kot
+zanimivost	mte:Ncfsn	zanimivost
+poudarja	mte:Vmpr3s	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+med	mte:Si	med
+kupci	mte:Ncmpi	kupec
+nepremičnin	mte:Ncfpg	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+niso	mte:Va-r3p-y	biti
+omenjeni	mte:Appmpn	omenjen
+državljani	mte:Ncmpn	državljan
+Rusije	mte:Npfsg	Rusija
+.	mte:Z	.
+Kot	mte:Cs	kot
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+,	mte:Z	,
+Rusi	mte:Npmpn	Rus
+praviloma	mte:Rgp	praviloma
+kupujejo	mte:Vmpr3p	kupovati
+nepremičnine	mte:Ncfpa	nepremičnina
+prek	mte:Sg	prek
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+odpirajo	mte:Vmpr3p	odpirati
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+.	mte:Z	.
+Hrvaška	mte:Npfsn	hrvaški
+in	mte:Cc	in
+Rusija	mte:Npfsn	Rusija
+namreč	mte:Cc	namreč
+nimata	mte:Vmpr3d-y	imeti
+dvostranskega	mte:Agpmsg	dvostranski
+sporazuma	mte:Ncmsg	sporazum
+o	mte:Sl	o
+recipročnosti	mte:Ncfsl	recipročnost
+pri	mte:Sl	pri
+nakupu	mte:Ncmsl	nakup
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+zato	mte:Cc	zato
+ruski	mte:Agpmpn	ruski
+državljani	mte:Ncmpn	državljan
+potrebujejo	mte:Vmpr3p	potrebovati
+posebno	mte:Agpnsa	poseben
+dovoljenje	mte:Ncnsa	dovoljenje
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+kupili	mte:Vmep-pm	kupiti
+nepremičnino	mte:Ncfsa	nepremičnina
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško

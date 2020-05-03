@@ -1,599 +1,617 @@
-token	tag
-Med	Si
-osumljenci	Ncmpi
-v	Sl
-aferi	Ncfsl
-Hypo	Npfsn
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-tudi	Q
-nekdanji	Agpmsny
-direktor	Ncmsn
-slovenske	Agpfsg
-Hypo	Npfsg
-banke	Ncfsg
-Božo	Npmsn
-Špan	Npmsn
-.	Z
-Vegrad	Npmsn
-naj	Q
-bi	Va-c
-med	Si
-gradnjo	Ncfsi
-kompleksa	Ncmsg
-Skiper	Npmsn
-pri	Sl
-Savudriji	Npfsl
-na	Sa
-račune	Ncmpa
-treh	Mlcnpg
-podjetij	Ncnpg
-v	Sl
-Avstriji	Npfsl
-in	Cc
-Liechtensteinu	Npmsl
-v	Sl
-sumljivi	Agpfsl
-transakciji	Ncfsl
-nakazal	Vmep-sm
-11,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-Med	Si
-osumljenci	Ncmpi
-v	Sl
-preiskavi	Ncfsl
-avstrijskih	Agpmpg
-kriminalistov	Ncmpg
-v	Sl
-zadevi	Ncfsl
-Hypo	Npmsn
-je	Va-r3s-n
-po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-povzema	Vmpr3s
-časnik	Ncmsn
-Dnevnik	Ncmsn
-,	Z
-tudi	Q
-nekdanji	Agpmsny
-prvi	Mlomsn
-mož	Ncmsn
-slovenske	Agpfsg
-Hypo	Npfsg
-banke	Ncfsg
-Božo	Npmsn
-Špan	Npmsn
-.	Z
-Po	Sl
-pisanju	Ncnsl
-časnika	Ncmsg
-je	Va-r3s-n
-prav	Q
-v	Sl
-času	Ncmsl
-spornih	Agpmpg
-poslov	Ncmpg
-med	Si
-Vegradom	Npmsi
-in	Cc
-matičnim	Agpmsi
-Hypom	Npmsi
-v	Sl
-zvezi	Ncfsl
-z	Si
-naseljem	Ncnsi
-Skiper	Npmsn
-prevzel	Vmep-sm
-položaj	Ncmsan
-v	Sl
-celovški	Agpfsl
-matični	Agpfsl
-banki	Ncfsl
-,	Z
-čeprav	Cs
-je	Va-r3s-n
-za	Sa
-Dnevnik	Ncmsan
-zanikal	Vmep-sm
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-imel	Vmpp-sm
-kar	Rgp
-koli	Q
-s	Si
-temi	Pd-fpi
-transakcijami	Ncfpi
-.	Z
-Sicer	Q
-ne	Q
-ve	Vmpr3s
-,	Z
-ali	Rgp
-je	Va-r3s-n
-res	Rgp
-osumljenec	Ncmsn
-v	Sl
-preiskavi	Ncfsl
-,	Z
-zanika	Vmpr3s
-pa	Cc
-,	Z
-da	Cs
-bi	Va-c
-bil	Va-p-sm
-lastnik	Ncmsn
-katerega	Pq-msg
-koli	Q
-med	Si
-liechtensteinskimi	Agpnpi
-podjetji	Ncnpi
-,	Z
-s	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-prek	Sg
-Slovenije	Npfsg
-poslovala	Vmpp-sf
-Hypo	Npfsn
-banka	Ncfsn
-.	Z
-Ali	Rgp
-je	Va-r3s-n
-Vegrad	Npmsn
-pral	Vmep-sm
-denar	Ncmsan
-preko	Sg
-Hypo	Npfsg
-banke	Ncfsg
-?	Z
-Časnik	Ncmsn
-Dnevnik	Ncmsn
-je	Va-r3s-n
-sicer	Q
-pridobil	Vmep-sm
-dokumente	Ncmpa
-,	Z
-iz	Sg
-katerih	Pq-mpg
-je	Va-r3s-n
-razvidno	Agpnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-velenjski	Agpmsny
-Vegrad	Npmsn
-med	Si
-gradnjo	Ncfsi
-hotelsko	Agpnsn
--	Z
-apartmajskega	Agpnsg
-naselja	Ncnsg
-Skiper	Npmsn
-tik	Rgp
-pred	Si
-izbruhom	Ncmsi
-finančno	Agpnsn
--	Z
-gospodarske	Agpfsg
-krize	Ncfsg
-plačal	Vmep-sm
-11,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-na	Sa
-račune	Ncmpa
-treh	Mlcnpg
-podjetij	Ncnpg
-v	Sl
-Avstriji	Npfsl
-in	Cc
-Liechtensteinu	Npmsl
-,	Z
-s	Si
-čimer	Pr-nsi
-je	Va-r3s-n
-postal	Vmep-sm
-75	Mdc
--	Z
-odstotni	Agpmsny
-lastnik	Ncmsn
-podjetja	Ncnsg
-Rezidencije	Ncfsg
-Skiper	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-investitor	Ncmsn
-naselja	Ncnsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-za	Sa
-Dnevnik	Ncmsan
-povedal	Vmep-sm
-eden	Mlpmsn
-od	Sg
-nekdanjih	Agpmpg
-vodilnih	Agpmpg
-v	Sl
-Vegradu	Npmsl
-Matej	Npmsn
-Košič	Npmsn
-,	Z
-so	Va-r3p-n
-plačilo	Ncnsn
-teh	Pd-mpg
-11,4	Mdc
-milijona	Ncmsg
-in	Cc
-s	Si
-tem	Pd-nsi
-odkup	Ncmsn
-75	Mdc
-odstotkov	Ncmpg
-Rezidencije	Ncfsg
-Skiper	Npmsn
-od	Sg
-Vegrada	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-gradil	Vmpp-sm
-kompleks	Ncmsan
-,	Z
-zahtevali	Vmbp-pm
-v	Sl
-celovški	Agpfsl
-matični	Agpfsl
-Hypo	Npfsl
-Alpe	Npmsn
-Adria	Npfsn
-Bank	Npfsn
-ter	Cc
-s	Si
-tem	Pd-nsi
-pogojevali	Vmpp-pm
-dodatnih	Agpmpg
-45	Mdc
-milijonov	Ncmpg
-posojila	Ncnsg
-Rezidenciji	Ncfsd
-Skiper	Npmsn
-.	Z
-Obenem	Rgp
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-da	Cs
-Vegrad	Npmsn
-kljub	Sd
-večinskemu	Agpnsd
-lastništvu	Ncnsd
-v	Sl
-Skiperju	Npmsl
-ni	Va-r3s-y
-imel	Vmpp-sm
-upravljavskih	Agpfpg
-pravic	Ncfpg
-,	Z
-saj	Cc
-naj	Q
-tega	Pd-nsg
-ne	Q
-bi	Va-c
-pustili	Vmep-pm
-v	Sl
-Hypu	Npmsl
-,	Z
-kjer	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-bali	Vmpp-pm
-,	Z
-da	Cs
-bo	Va-f3s-n
-Vegrad	Npmsn
-unovčil	Vmep-sm
-bančne	Agpfpa
-garancije	Ncfpa
-zaradi	Sg
-neplačevanja	Ncnsg
-gradbenih	Agpnpg
-del	Ncnpg
-.	Z
-Vegrad	Npmsn
-je	Va-r3s-n
-tako	Rgp
-odkupil	Vmep-sm
-75	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-podjetju	Ncnsl
-,	Z
-ki	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-že	Q
-poleti	Rgp
-2008	Mdc
-dolgovalo	Vmpp-sn
-več	Rgc
-kot	Cs
-deset	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-in	Cc
-bilo	Va-p-sn
-v	Sl
-tistem	Pd-msl
-času	Ncmsl
-bolj	Rgc
-ali	Cc
-manj	Rgc
-plačilno	Agpnsn
-nesposobno	Agpnsn
-,	Z
-Hypo	Npfsn
-banka	Ncfsn
-pa	Cc
-ga	Pp3msa--y
-je	Va-r3s-n
-pozneje	Rgc
-tudi	Q
-zasegla	Vmep-sf
-.	Z
-Na	Sl
-sedežu	Ncmsl
-Hypa	Npmsg
-so	Va-r3p-n
-sicer	Q
-za	Sa
-Dnevnik	Ncmsan
-potrdili	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-že	Q
-v	Sl
-prihodnjih	Agpmpl
-tednih	Ncmpl
-začeli	Vmep-pm
-s	Si
-prodajo	Ncfsi
-Skiperja	Npmsg
-,	Z
-v	Sl
-okviru	Ncmsl
-katere	Pq-fsg
-sedaj	Rgp
-deluje	Vmpr3s
-luksuzni	Agpmsny
-hotelski	Agpmsny
-kompleks	Ncmsn
-Kempinski	Npmsn
-Adriatic	Npmsn
-.	Z
-Vegrad	Npmsn
-je	Va-r3s-n
-med	Si
-januarjem	Ncmsi
-in	Cc
-avgustom	Ncmsi
-2008	Mdc
-izpeljal	Vmep-sm
-več	Rgc
-transakcij	Ncfpg
-,	Z
-katerih	Pq-mpg
-namen	Ncmsn
-je	Va-r3s-n
-bil	Va-p-sm
-odkup	Ncmsn
-75	Mdc
-odstotkov	Ncmpg
-Skiperja	Npmsg
-,	Z
-vendar	Cc
-pa	Cc
-po	Sl
-pisanju	Ncnsl
-Dnevnika	Ncmsg
-obstaja	Vmpr3s
-več	Rgc
-razlogov	Ncmpg
-za	Sa
-sum	Ncmsan
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-dejanski	Agpmsny
-namen	Ncmsn
-posla	Ncmsg
-deloma	Rgp
-tudi	Q
-prelivanje	Ncnsn
-denarja	Ncmsg
-iz	Sg
-propadlega	Appnsg
-velenjskega	Agpnsg
-gradbenega	Agpnsg
-podjetja	Ncnsg
-na	Sa
-račune	Ncmpa
-v	Sl
-tujini	Ncfsl
-,	Z
-še	Q
-posebej	Rgp
-glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-je	Va-r3s-n
-Hypo	Npfsn
-Alpe	Npfsn
-Adria	Npfsn
-Bank	Npmsn
-Vegradov	Aspmsan
-delež	Ncmsan
-tudi	Q
-zasegla	Vmep-sf
-.	Z
-Avstrijska	Agpfsn
-policija	Ncfsn
-tako	Rgp
-po	Sl
-navedbah	Ncfpl
-Dnevnika	Ncmsg
-prav	Q
-glede	Sg
-financiranja	Ncnsg
-Skiperja	Npmsg
-preiskuje	Vmpr3s
-sume	Ncmpa
-več	Rgc
-kaznivih	Agpnpg
-dejanj	Ncnpg
-,	Z
-med	Si
-drugim	Mlpnsi
-tudi	Q
-pranja	Ncnsg
-denarja	Ncmsg
-.	Z
-Iz	Sg
-podatkov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-pridobil	Vmep-sm
-Dnevnik	Ncmsn
-,	Z
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-razvidno	Agpnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-Vegrad	Npmsn
-delež	Ncmsan
-v	Sl
-Skiperju	Npmsl
-močno	Rgp
-preplačal	Vmep-sm
-,	Z
-poleg	Sg
-tega	Pd-nsg
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-lastništvo	Ncnsn
-obremenjeno	Appnsn
-tudi	Q
-s	Si
-35	Mdc
--	Z
-milijonsko	Agpfsi
-hipoteko	Ncfsi
-pri	Sl
-matični	Agpfsl
-Hypo	Npfsl
-banki	Ncfsl
-.	Z
-Kosič	Npmsn
-je	Va-r3s-n
-sicer	Q
-zatrdil	Vmep-sm
-,	Z
-da	Cs
-ni	Va-r3s-y
-šlo	Vmbp-sn
-za	Sa
-izsiljevanje	Ncnsa
-Hypa	Npmsg
-,	Z
-temveč	Cc
-za	Sa
-logičen	Agpmsan
-pogoj	Ncmsan
-,	Z
-ker	Cs
-naj	Q
-Hypo	Npfsn
-ne	Q
-bi	Va-c
-več	Q
-zaupal	Vmbp-sm
-prejšnjim	Agpmpd
-lastnikom	Ncmpd
-.	Z
-V	Sl
-Vegradu	Npmsl
-so	Va-r3p-n
-obenem	Rgp
-računali	Vmpp-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-s	Si
-prodajo	Ncfsi
-nepremičnin	Ncfpg
-v	Sl
-kompleksu	Ncmsl
-zaslužili	Vmep-pm
-dodatnih	Agpmpg
-40	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Večino	Ncfsa
-denarja	Ncmsg
-za	Sa
-45	Mdc
-odstotkov	Ncmpg
-Skiperja	Npmsg
-sta	Va-r3d-n
-po	Sl
-pisanju	Ncnsl
-Dnevnika	Ncmsg
-prejeli	Vmep-dm
-avstrijski	Agpmda
-podjetji	Ncnda
-Wolkensberg	Npmsn
-in	Cc
-Jan	Npmsn
-Privatstiftung	Npmsn
-,	Z
-ki	Cs
-sta	Va-r3d-n
-ju	Pp3mda--y
-izmenično	Rgp
-zastopala	Vmpp-dm
-idejni	Agpmsny
-oče	Ncmsn
-projekta	Ncmsg
-Skiper	Npmsn
-Miro	Npmsn
-Oblak	Npmsn
-in	Cc
-njegov	Ps3msnsm
-sin	Ncmsn
-Andrej	Npmsn
-.	Z
+token	tag	lemma
+Med	mte:Si	med
+osumljenci	mte:Ncmpi	osumljenec
+v	mte:Sl	v
+aferi	mte:Ncfsl	afera
+Hypo	mte:Npfsn	Hypo
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+tudi	mte:Q	tudi
+nekdanji	mte:Agpmsny	nekdanji
+direktor	mte:Ncmsn	direktor
+slovenske	mte:Agpfsg	slovenski
+Hypo	mte:Npfsg	Hypo
+banke	mte:Ncfsg	banka
+Božo	mte:Npmsn	Božo
+Špan	mte:Npmsn	Špan
+.	mte:Z	.
+Vegrad	mte:Npmsn	Vegrad
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+med	mte:Si	med
+gradnjo	mte:Ncfsi	gradnja
+kompleksa	mte:Ncmsg	kompleks
+Skiper	mte:Npmsn	Skiper
+pri	mte:Sl	pri
+Savudriji	mte:Npfsl	Savudrija
+na	mte:Sa	na
+račune	mte:Ncmpa	račun
+treh	mte:Mlcnpg	trije
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+in	mte:Cc	in
+Liechtensteinu	mte:Npmsl	Liechtenstein
+v	mte:Sl	v
+sumljivi	mte:Agpfsl	sumljiv
+transakciji	mte:Ncfsl	transakcija
+nakazal	mte:Vmep-sm	nakazati
+11,4	mte:Mdc	11,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Med	mte:Si	med
+osumljenci	mte:Ncmpi	osumljenec
+v	mte:Sl	v
+preiskavi	mte:Ncfsl	preiskava
+avstrijskih	mte:Agpmpg	avstrijski
+kriminalistov	mte:Ncmpg	kriminalist
+v	mte:Sl	v
+zadevi	mte:Ncfsl	zadeva
+Hypo	mte:Npmsn	Hypo
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+povzema	mte:Vmpr3s	povzemati
+časnik	mte:Ncmsn	časnik
+Dnevnik	mte:Ncmsn	dnevnik
+,	mte:Z	,
+tudi	mte:Q	tudi
+nekdanji	mte:Agpmsny	nekdanji
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+slovenske	mte:Agpfsg	slovenski
+Hypo	mte:Npfsg	Hypo
+banke	mte:Ncfsg	banka
+Božo	mte:Npmsn	Božo
+Špan	mte:Npmsn	Špan
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+časnika	mte:Ncmsg	časnik
+je	mte:Va-r3s-n	biti
+prav	mte:Q	prav
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+spornih	mte:Agpmpg	sporen
+poslov	mte:Ncmpg	posel
+med	mte:Si	med
+Vegradom	mte:Npmsi	Vegrad
+in	mte:Cc	in
+matičnim	mte:Agpmsi	matičen
+Hypom	mte:Npmsi	Hyp
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+naseljem	mte:Ncnsi	naselje
+Skiper	mte:Npmsn	Skiper
+prevzel	mte:Vmep-sm	prevzeti
+položaj	mte:Ncmsan	položaj
+v	mte:Sl	v
+celovški	mte:Agpfsl	celovški
+matični	mte:Agpfsl	matičen
+banki	mte:Ncfsl	banka
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Dnevnik	mte:Ncmsan	dnevnik
+zanikal	mte:Vmep-sm	zanikati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+kar	mte:Rgp	kar
+koli	mte:Q	koli
+s	mte:Si	z
+temi	mte:Pd-fpi	ta
+transakcijami	mte:Ncfpi	transakcija
+.	mte:Z	.
+Sicer	mte:Q	sicer
+ne	mte:Q	ne
+ve	mte:Vmpr3s	vedeti
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+res	mte:Rgp	res
+osumljenec	mte:Ncmsn	osumljenec
+v	mte:Sl	v
+preiskavi	mte:Ncfsl	preiskava
+,	mte:Z	,
+zanika	mte:Vmpr3s	zanikati
+pa	mte:Cc	pa
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+lastnik	mte:Ncmsn	lastnik
+katerega	mte:Pq-msg	kateri
+koli	mte:Q	koli
+med	mte:Si	med
+liechtensteinskimi	mte:Agpnpi	liechtensteinski
+podjetji	mte:Ncnpi	podjetje
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+prek	mte:Sg	prek
+Slovenije	mte:Npfsg	Slovenija
+poslovala	mte:Vmpp-sf	poslovati
+Hypo	mte:Npfsn	Hypo
+banka	mte:Ncfsn	banka
+.	mte:Z	.
+Ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+Vegrad	mte:Npmsn	Vegrad
+pral	mte:Vmep-sm	prati
+denar	mte:Ncmsan	denar
+preko	mte:Sg	preko
+Hypo	mte:Npfsg	Hypo
+banke	mte:Ncfsg	banka
+?	mte:Z	?
+Časnik	mte:Ncmsn	časnik
+Dnevnik	mte:Ncmsn	dnevnik
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+pridobil	mte:Vmep-sm	pridobiti
+dokumente	mte:Ncmpa	dokument
+,	mte:Z	,
+iz	mte:Sg	iz
+katerih	mte:Pq-mpg	kateri
+je	mte:Va-r3s-n	biti
+razvidno	mte:Agpnsn	razviden
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+velenjski	mte:Agpmsny	velenjski
+Vegrad	mte:Npmsn	Vegrad
+med	mte:Si	med
+gradnjo	mte:Ncfsi	gradnja
+hotelsko	mte:Agpnsn	hotelski
+-	mte:Z	-
+apartmajskega	mte:Agpnsg	apartmajski
+naselja	mte:Ncnsg	naselje
+Skiper	mte:Npmsn	Skiper
+tik	mte:Rgp	tik
+pred	mte:Si	pred
+izbruhom	mte:Ncmsi	izbruh
+finančno	mte:Agpnsn	finančen
+-	mte:Z	-
+gospodarske	mte:Agpfsg	gospodarski
+krize	mte:Ncfsg	kriza
+plačal	mte:Vmep-sm	plačati
+11,4	mte:Mdc	11,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+na	mte:Sa	na
+račune	mte:Ncmpa	račun
+treh	mte:Mlcnpg	trije
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+in	mte:Cc	in
+Liechtensteinu	mte:Npmsl	Liechtenstein
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+je	mte:Va-r3s-n	biti
+postal	mte:Vmep-sm	postati
+75	mte:Mdc	75
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+lastnik	mte:Ncmsn	lastnik
+podjetja	mte:Ncnsg	podjetje
+Rezidencije	mte:Ncfsg	rezidencija
+Skiper	mte:Npmsn	Skiper
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+investitor	mte:Ncmsn	investitor
+naselja	mte:Ncnsg	naselje
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Dnevnik	mte:Ncmsan	dnevnik
+povedal	mte:Vmep-sm	povedati
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+nekdanjih	mte:Agpmpg	nekdanji
+vodilnih	mte:Agpmpg	vodilen
+v	mte:Sl	v
+Vegradu	mte:Npmsl	Vegrad
+Matej	mte:Npmsn	Matej
+Košič	mte:Npmsn	Košič
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+plačilo	mte:Ncnsn	plačilo
+teh	mte:Pd-mpg	ta
+11,4	mte:Mdc	11,4
+milijona	mte:Ncmsg	milijon
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+odkup	mte:Ncmsn	odkup
+75	mte:Mdc	75
+odstotkov	mte:Ncmpg	odstotek
+Rezidencije	mte:Ncfsg	rezidencija
+Skiper	mte:Npmsn	Skiper
+od	mte:Sg	od
+Vegrada	mte:Npmsg	Vegrada
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+gradil	mte:Vmpp-sm	graditi
+kompleks	mte:Ncmsan	kompleks
+,	mte:Z	,
+zahtevali	mte:Vmbp-pm	zahtevati
+v	mte:Sl	v
+celovški	mte:Agpfsl	celovški
+matični	mte:Agpfsl	matičen
+Hypo	mte:Npfsl	Hypo
+Alpe	mte:Npmsn	Alpe
+Adria	mte:Npfsn	Adria
+Bank	mte:Npfsn	Bank
+ter	mte:Cc	ter
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+pogojevali	mte:Vmpp-pm	pogojevati
+dodatnih	mte:Agpmpg	dodaten
+45	mte:Mdc	45
+milijonov	mte:Ncmpg	milijon
+posojila	mte:Ncnsg	posojilo
+Rezidenciji	mte:Ncfsd	rezidencija
+Skiper	mte:Npmsn	Skiper
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+Vegrad	mte:Npmsn	Vegrad
+kljub	mte:Sd	kljub
+večinskemu	mte:Agpnsd	večinski
+lastništvu	mte:Ncnsd	lastništvo
+v	mte:Sl	v
+Skiperju	mte:Npmsl	Skiper
+ni	mte:Va-r3s-y	biti
+imel	mte:Vmpp-sm	imeti
+upravljavskih	mte:Agpfpg	upravljavski
+pravic	mte:Ncfpg	pravica
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+tega	mte:Pd-nsg	ta
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+pustili	mte:Vmep-pm	pustiti
+v	mte:Sl	v
+Hypu	mte:Npmsl	Hype
+,	mte:Z	,
+kjer	mte:Cs	kjer
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+bali	mte:Vmpp-pm	bati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Vegrad	mte:Npmsn	Vegrad
+unovčil	mte:Vmep-sm	unovčiti
+bančne	mte:Agpfpa	bančen
+garancije	mte:Ncfpa	garancija
+zaradi	mte:Sg	zaradi
+neplačevanja	mte:Ncnsg	neplačevanje
+gradbenih	mte:Agpnpg	gradben
+del	mte:Ncnpg	del
+.	mte:Z	.
+Vegrad	mte:Npmsn	Vegrad
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+odkupil	mte:Vmep-sm	odkupiti
+75	mte:Mdc	75
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+poleti	mte:Rgp	poleti
+2008	mte:Mdc	2008
+dolgovalo	mte:Vmpp-sn	dolgovati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+deset	mte:Mlc-pa	deset
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+tistem	mte:Pd-msl	tisti
+času	mte:Ncmsl	čas
+bolj	mte:Rgc	bolj
+ali	mte:Cc	ali
+manj	mte:Rgc	manj
+plačilno	mte:Agpnsn	plačilen
+nesposobno	mte:Agpnsn	nesposoben
+,	mte:Z	,
+Hypo	mte:Npfsn	Hypo
+banka	mte:Ncfsn	banka
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+pozneje	mte:Rgc	pozno
+tudi	mte:Q	tudi
+zasegla	mte:Vmep-sf	zaseči
+.	mte:Z	.
+Na	mte:Sl	na
+sedežu	mte:Ncmsl	sedež
+Hypa	mte:Npmsg	Hypa
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+za	mte:Sa	za
+Dnevnik	mte:Ncmsan	dnevnik
+potrdili	mte:Vmep-pm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+že	mte:Q	že
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+tednih	mte:Ncmpl	teden
+začeli	mte:Vmep-pm	začeti
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+Skiperja	mte:Npmsg	Skiper
+,	mte:Z	,
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+katere	mte:Pq-fsg	kateri
+sedaj	mte:Rgp	sedaj
+deluje	mte:Vmpr3s	delovati
+luksuzni	mte:Agpmsny	luksuzen
+hotelski	mte:Agpmsny	hotelski
+kompleks	mte:Ncmsn	kompleks
+Kempinski	mte:Npmsn	Kempinski
+Adriatic	mte:Npmsn	Adriatic
+.	mte:Z	.
+Vegrad	mte:Npmsn	Vegrad
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+januarjem	mte:Ncmsi	januar
+in	mte:Cc	in
+avgustom	mte:Ncmsi	avgust
+2008	mte:Mdc	2008
+izpeljal	mte:Vmep-sm	izpeljati
+več	mte:Rgc	več
+transakcij	mte:Ncfpg	transakcija
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+namen	mte:Ncmsn	namen
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+odkup	mte:Ncmsn	odkup
+75	mte:Mdc	75
+odstotkov	mte:Ncmpg	odstotek
+Skiperja	mte:Npmsg	Skiper
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Dnevnika	mte:Ncmsg	dnevnik
+obstaja	mte:Vmpr3s	obstajati
+več	mte:Rgc	več
+razlogov	mte:Ncmpg	razlog
+za	mte:Sa	za
+sum	mte:Ncmsan	sum
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+dejanski	mte:Agpmsny	dejanski
+namen	mte:Ncmsn	namen
+posla	mte:Ncmsg	posel
+deloma	mte:Rgp	deloma
+tudi	mte:Q	tudi
+prelivanje	mte:Ncnsn	prelivanje
+denarja	mte:Ncmsg	denar
+iz	mte:Sg	iz
+propadlega	mte:Appnsg	propadel
+velenjskega	mte:Agpnsg	velenjski
+gradbenega	mte:Agpnsg	gradben
+podjetja	mte:Ncnsg	podjetje
+na	mte:Sa	na
+račune	mte:Ncmpa	račun
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Hypo	mte:Npfsn	Hypo
+Alpe	mte:Npfsn	Alpe
+Adria	mte:Npfsn	Adria
+Bank	mte:Npmsn	Bank
+Vegradov	mte:Aspmsan	vegradov
+delež	mte:Ncmsan	delež
+tudi	mte:Q	tudi
+zasegla	mte:Vmep-sf	zaseči
+.	mte:Z	.
+Avstrijska	mte:Agpfsn	avstrijski
+policija	mte:Ncfsn	policija
+tako	mte:Rgp	tako
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Dnevnika	mte:Ncmsg	dnevnik
+prav	mte:Q	prav
+glede	mte:Sg	glede
+financiranja	mte:Ncnsg	financiranje
+Skiperja	mte:Npmsg	Skiper
+preiskuje	mte:Vmpr3s	preiskovati
+sume	mte:Ncmpa	suma
+več	mte:Rgc	več
+kaznivih	mte:Agpnpg	kazniv
+dejanj	mte:Ncnpg	dejanje
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+tudi	mte:Q	tudi
+pranja	mte:Ncnsg	pranje
+denarja	mte:Ncmsg	denar
+.	mte:Z	.
+Iz	mte:Sg	iz
+podatkov	mte:Ncmpg	podatek
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+pridobil	mte:Vmep-sm	pridobiti
+Dnevnik	mte:Ncmsn	dnevnik
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+razvidno	mte:Agpnsn	razviden
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Vegrad	mte:Npmsn	Vegrad
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+Skiperju	mte:Npmsl	Skiper
+močno	mte:Rgp	močno
+preplačal	mte:Vmep-sm	preplačati
+,	mte:Z	,
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+lastništvo	mte:Ncnsn	lastništvo
+obremenjeno	mte:Appnsn	obremenjen
+tudi	mte:Q	tudi
+s	mte:Si	z
+35	mte:Mdc	35
+-	mte:Z	-
+milijonsko	mte:Agpfsi	milijonski
+hipoteko	mte:Ncfsi	hipoteka
+pri	mte:Sl	pri
+matični	mte:Agpfsl	matičen
+Hypo	mte:Npfsl	Hypo
+banki	mte:Ncfsl	banka
+.	mte:Z	.
+Kosič	mte:Npmsn	Kosič
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+zatrdil	mte:Vmep-sm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+šlo	mte:Vmbp-sn	iti
+za	mte:Sa	za
+izsiljevanje	mte:Ncnsa	izsiljevanje
+Hypa	mte:Npmsg	Hypa
+,	mte:Z	,
+temveč	mte:Cc	temveč
+za	mte:Sa	za
+logičen	mte:Agpmsan	logičen
+pogoj	mte:Ncmsan	pogoj
+,	mte:Z	,
+ker	mte:Cs	ker
+naj	mte:Q	naj
+Hypo	mte:Npfsn	Hypo
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+več	mte:Q	več
+zaupal	mte:Vmbp-sm	zaupati
+prejšnjim	mte:Agpmpd	prejšnji
+lastnikom	mte:Ncmpd	lastnik
+.	mte:Z	.
+V	mte:Sl	v
+Vegradu	mte:Npmsl	Vegrad
+so	mte:Va-r3p-n	biti
+obenem	mte:Rgp	obenem
+računali	mte:Vmpp-pm	računati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+nepremičnin	mte:Ncfpg	nepremičnina
+v	mte:Sl	v
+kompleksu	mte:Ncmsl	kompleks
+zaslužili	mte:Vmep-pm	zaslužiti
+dodatnih	mte:Agpmpg	dodaten
+40	mte:Mdc	40
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Večino	mte:Ncfsa	večina
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+45	mte:Mdc	45
+odstotkov	mte:Ncmpg	odstotek
+Skiperja	mte:Npmsg	Skiper
+sta	mte:Va-r3d-n	biti
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Dnevnika	mte:Ncmsg	dnevnik
+prejeli	mte:Vmep-dm	prejeti
+avstrijski	mte:Agpmda	avstrijski
+podjetji	mte:Ncnda	podjetje
+Wolkensberg	mte:Npmsn	Wolkensberg
+in	mte:Cc	in
+Jan	mte:Npmsn	Jan
+Privatstiftung	mte:Npmsn	Privatstiftung
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+ju	mte:Pp3mda--y	on
+izmenično	mte:Rgp	izmenično
+zastopala	mte:Vmpp-dm	zastopati
+idejni	mte:Agpmsny	idejen
+oče	mte:Ncmsn	oče
+projekta	mte:Ncmsg	projekt
+Skiper	mte:Npmsn	Skiper
+Miro	mte:Npmsn	Mira
+Oblak	mte:Npmsn	Oblak
+in	mte:Cc	in
+njegov	mte:Ps3msnsm	njegov
+sin	mte:Ncmsn	sin
+Andrej	mte:Npmsn	Andrej
+.	mte:Z	.
+Za	mte:Sa	za
+zadnjih	mte:Agpmpg	zadnji
+30	mte:Mdc	30
+odstotkov	mte:Ncmpg	odstotek
+Skiperja	mte:Npmsg	Skiper
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Vegradovo	mte:Aspnsn	vegradov
+podjetje	mte:Ncnsa	podjetje
+Grbina	mte:Npmsg	Grbina
+liechtensteinski	mte:Agpfsd	liechtensteinski
+družbi	mte:Ncfsd	družba
+Navone	mte:Npmsg	Navona
+AG	mte:Npmsn	AG
+plačalo	mte:Vmep-sn	plačati
+6,3	mte:Mdc	6,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro

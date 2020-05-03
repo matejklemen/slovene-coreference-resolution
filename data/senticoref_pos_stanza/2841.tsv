@@ -1,542 +1,561 @@
-token	tag
-Koper	Npmsn
--	Z
-V	Sl
-koprskem	Agpmsl
-odboru	Ncmsl
-Socialnih	Agpmpg
-demokratov	Ncmpg
-(	Z
-SD	Npmsn
-)	Z
-nasprotujejo	Vmpr3p
-prodaji	Ncfsd
-delnic	Ncfpg
-Luke	Npfsg
-Koper	Npmsn
-na	Sl
-borzi	Ncfsl
-,	Z
-o	Sl
-čemer	Pr-nsl
-bodo	Va-f3p-n
-odločali	Vmpp-pm
-občinski	Agpmpn
-svetniki	Ncmpn
-na	Sl
-seji	Ncfsl
-v	Sa
-četrtek	Ncmsan
-.	Z
-"	Z
-Prodajati	Vmpn
-delnice	Ncfpa
-v	Sl
-trenutku	Ncmsl
-,	Z
-ko	Cs
-so	Va-r3p-n
-dosegle	Vmep-pf
-najnižjo	Agsfsa
-vrednost	Ncfsa
-,	Z
-je	Va-r3s-n
-katastrofa	Ncfsn
-,	Z
-"	Z
-opozarja	Vmpr3s
-poslanec	Ncmsn
-SD	Npfsg
-v	Sl
-državnem	Agpmsl
-zboru	Ncmsl
-in	Cc
-občinski	Agpmsny
-svetnik	Ncmsn
-Marijan	Npmsn
-Križman	Npmsn
-.	Z
-Kot	Cs
-so	Va-r3p-n
-v	Sl
-obrazložitvi	Ncfsl
-sklepa	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-v	Sa
-četrtek	Ncmsan
-sprejemali	Vmpp-pm
-koprski	Agpmpn
-svetniki	Ncmpn
-,	Z
-zapisali	Vmep-pm
-na	Sl
-občini	Ncfsl
-Koper	Npmsn
-,	Z
-so	Va-r3p-n
-prodajo	Ncfsa
-najprej	Rgs
-poskušali	Vmpp-pm
-izvesti	Vmen
-z	Si
-javnim	Agpnsi
-zbiranjem	Ncnsi
-ponudb	Ncfpg
-,	Z
-za	Sa
-kar	Pr-nsa
-pa	Cc
-ni	Va-r3s-y
-bilo	Va-p-sn
-zanimanja	Ncnsg
-.	Z
-Neposredna	Agpfsn
-prodaja	Ncfsn
-na	Sl
-borzi	Ncfsl
-zagotavlja	Vmpr3s
-po	Sl
-njihovem	Ps3nslp
-mnenju	Ncnsl
-zanesljivo	Agpfsa
-prodajo	Ncfsa
-po	Sl
-ceni	Ncfsl
-,	Z
-ki	Cs
-odgovarja	Vmpr3s
-trenutnemu	Agpnsd
-stanju	Ncnsd
-ponudbe	Ncfsg
-in	Cc
-povpraševanja	Ncnsg
-na	Sl
-trgu	Ncmsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-gre	Vmbr3s
-za	Sa
-celotni	Agpmsay
-paket	Ncmsan
-delnic	Ncfpg
-Luke	Npfsg
-Koper	Npmsn
-v	Sl
-lasti	Ncfsl
-občine	Ncfsg
-oziroma	Cc
-za	Sa
-466.942	Mdc
-delnic	Ncfpg
-,	Z
-ki	Cs
-predstavljajo	Vmpr3p
-3,33	Mdc
-odstotka	Ncmsg
-lastništva	Ncnsg
-družbe	Ncfsg
-.	Z
-V	Sl
-koprskem	Agpmsl
-odboru	Ncmsl
-SD	Npmsg
-so	Va-r3p-n
-prepričani	Appmpn
-,	Z
-da	Cs
-se	Px------y
-občina	Ncfsn
-za	Sa
-prodajo	Ncfsa
-delnic	Ncfpg
-odloča	Vmpr3s
-,	Z
-ker	Cs
-ni	Va-r3s-y
-bila	Va-p-sf
-uspešna	Agpfsn
-pri	Sl
-prodaji	Ncfsl
-občinskih	Agpfpg
-nepremičnin	Ncfpg
-.	Z
-"	Z
-Prodaja	Ncfsn
-delnic	Ncfpg
-je	Va-r3s-n
-nesmisel	Ncmsn
-in	Cc
-dejanje	Ncnsn
-iz	Sg
-obupa	Ncmsg
-,	Z
-"	Z
-trdi	Vmpr3s
-Križman	Npfsn
-.	Z
-S	Si
-prodajo	Ncfsi
-delnic	Ncfpg
-bi	Va-c
-se	Px------y
-občina	Ncfsn
-po	Sl
-njegovem	Ps3nslsm
-namreč	Cc
-odpovedala	Vmep-sf
-nadzoru	Ncmsd
-nad	Si
-Luko	Npfsi
-Koper	Npmsn
-.	Z
-Poslanec	Ncmsn
-SD	Npmsn
-Luka	Npmsn
-Juri	Npmsn
-je	Va-r3s-n
-predstavil	Vmep-sm
-tudi	Q
-odgovor	Ncmsan
-ministrstva	Ncnsg
-za	Sa
-finance	Ncfpa
-na	Sa
-njegovo	Ps3nsasm
-poslansko	Agpnsa
-vprašanje	Ncnsa
-o	Sl
-zadolženosti	Ncfsl
-koprske	Agpfsg
-občine	Ncfsg
-.	Z
-"	Z
-Ni	Va-r3s-y
-res	Rgp
-,	Z
-da	Cs
-občina	Ncfsn
-Koper	Npmsn
-ni	Va-r3s-y
-zadolžena	Appfsn
-,	Z
-"	Z
-poudarja	Vmpr3s
-Juri	Npmsn
-.	Z
-Kot	Cs
-pojasnjuje	Vmpr3s
-,	Z
-je	Va-r3s-n
-iz	Sg
-odgovora	Ncmsg
-razvidno	Agpnsn
-,	Z
-da	Cs
-znaša	Vmpr3s
-dolg	Agpmsan
-koprske	Agpfpa
-občine	Ncfpa
-skupaj	Rgp
-s	Si
-pravnimi	Agpfpi
-osebami	Ncfpi
-,	Z
-katerih	Pq-mpg
-ustanoviteljica	Ncfsn
-je	Va-r3s-n
-občina	Ncfsn
-,	Z
-v	Sl
-letošnjem	Agpnsl
-letu	Ncnsl
-skoraj	Q
-10	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Kot	Cs
-še	Q
-navaja	Vmpr3s
-Juri	Npmsn
-,	Z
-je	Va-r3s-n
-dolg	Agpmsnn
-"	Z
-ob	Sl
-računovodskih	Agpfpl
-spretnostih	Ncfpl
-občinske	Agpfsg
-uprave	Ncfsg
-"	Z
-sicer	Q
-v	Sl
-celoti	Ncfsl
-prenesen	Agpmsnn
-na	Sa
-pravne	Agpfpa
-osebe	Ncfpa
-,	Z
-povezane	Appfpa
-z	Si
-občino	Ncfsi
-.	Z
-Dobrih	Agpmpg
-sedem	Mlc-pa
-milijon	Ncmsan
-evrov	Ncmpg
-dolga	Agpfsn
-odpade	Vmer3s
-po	Sl
-Jurijevih	Aspmpl
-podatkih	Ncmpl
-na	Sa
-Javni	Agpmsay
-zavod	Ncmsan
-Gasilska	Agpfsn
-brigada	Ncfsn
-Koper	Npmsn
-,	Z
-2,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-pa	Cc
-na	Sa
-Javni	Agpmsay
-zavod	Ncmsan
-stanovanjski	Agpmsny
-sklad	Ncmsan
-Koper	Npmsn
-.	Z
-Ministrstvo	Ncnsn
-za	Sa
-finance	Ncfpa
-je	Va-r3s-n
-po	Sl
-Jurijevih	Aspfpl
-besedah	Ncfpl
-tudi	Q
-ugotovilo	Vmep-sn
-,	Z
-da	Cs
-so	Va-r3p-n
-nekateri	Pi-mpn
-dogovori	Ncmpn
-o	Sl
-plačilnih	Agpmpl
-rokih	Ncmpl
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-v	Sl
-kreditnih	Agpfpl
-pogodbah	Ncfpl
-sklepa	Vmpr3s
-koprska	Agpfsn
-občina	Ncfsn
-,	Z
-v	Sl
-nasprotju	Ncnsl
-z	Si
-zakonskimi	Agpmpi
-predpisi	Ncmpi
-.	Z
-Občino	Ncfsi
-je	Va-r3s-n
-ministrstvo	Ncnsn
-že	Q
-pozvalo	Vmep-sn
-,	Z
-naj	Cs
-ugotovljene	Appfpn
-napake	Ncfpn
-odpravi	Vmer3s
-.	Z
-O	Sl
-nameri	Ncfsl
-za	Sa
-dodatno	Agpfsa
-zadolžitev	Ncfsa
-občine	Ncfsg
-Koper	Npmsn
-v	Sl
-vrednosti	Ncfsl
-25	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-s	Si
-čimer	Pr-nsi
-naj	Q
-bi	Va-c
-si	Px---d--y
-občina	Ncfsn
-Koper	Npmsn
-zagotovila	Vmep-sf
-sredstva	Ncnpa
-za	Sa
-investicije	Ncfpa
-in	Cc
-pokrivanje	Ncnsa
-tekočih	Appmpg
-stroškov	Ncmpg
-,	Z
-pa	Cc
-Juri	Npmsn
-pravi	Vmbr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-moralno	Rgp
-sporna	Agpfsn
-.	Z
-"	Z
-Takšna	Pd-fsn
-odločitev	Ncfsn
-pomeni	Vmbr3s
-prelaganje	Ncnsa
-bremen	Ncnpg
-in	Cc
-željo	Ncfsa
-župana	Ncmsg
-,	Z
-da	Cs
-si	Px---d--y
-z	Si
-dolgom	Ncmsi
-kupi	Vmer3s
-tretji	Mlomsa
-mandat	Ncmsan
-,	Z
-"	Z
-ocenjuje	Vmpr3s
-Juri	Npmsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-dodaja	Vmpr3s
-,	Z
-da	Cs
-tekoči	Appmpn
-prihodki	Ncmpn
-občine	Ncfsg
-v	Sl
-letošnjem	Agpnsl
-letu	Ncnsl
-ne	Q
-bodo	Va-f3p-n
-dosegli	Vmep-pm
-80	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-odhodki	Ncmpn
-pa	Cc
-bodo	Va-f3p-n
-znašali	Vmpp-pm
-skoraj	Q
-120	Mdc
-milijonov	Ncmpg
-.	Z
-S	Sg
-koprske	Agpfsg
-občine	Ncfsg
-pojasnjujejo	Vmpr3p
-,	Z
-da	Cs
-izvaja	Vmpr3s
-občina	Ncfsn
-program	Ncmsn
-prodaje	Ncfsg
-delnic	Ncfpg
-Luke	Npfsg
-Koper	Npmsn
-v	Sl
-skladu	Ncmsl
-s	Si
-sprejetim	Appmsi
-letnim	Agpmsi
-programom	Ncmsi
-in	Cc
-proračunom	Ncmsi
-.	Z
-Na	Sa
-očitke	Ncmpa
-,	Z
-da	Cs
-namerava	Vmpr3s
-občina	Ncfsn
-delnice	Ncfpa
-prodati	Vmen
-v	Sl
-času	Ncmsl
-,	Z
-ko	Cs
-beležijo	Vmpr3p
-nizke	Agpfpa
-vrednosti	Ncfpa
-,	Z
-pa	Cc
-iz	Sg
-županovega	Aspmsg
-kabineta	Ncmsg
-odgovarjajo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-"	Z
-nam	Pp1-pd
-cena	Ncfsn
-delnic	Ncfpg
-ne	Q
-zdi	Vmpr3s
-prenizka	Agpfsn
-oziroma	Cc
-se	Px------y
-nam	Pp1-pd
-je	Va-r3s-n
-takrat	Rgp
-zdela	Vmpp-sf
-zelo	Rgp
-visoka	Agpfsn
-"	Z
-.	Z
-"	Z
-Mislim	Vmpr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-čas	Ncmsn
-,	Z
-da	Cs
-se	Px------y
-počasi	Rgp
-prebudimo	Vmer1p
-in	Cc
-si	Px---d--y
-priznamo	Vmer1p
-,	Z
-da	Cs
-so	Va-r3p-n
-bile	Va-p-pf
-cene	Ncfpn
-na	Sl
-borzi	Ncfsl
-v	Sl
-preteklem	Appnsl
-obdobju	Ncnsl
-bistveno	Rgp
-prenapihnjene	Appfpn
-,	Z
-in	Cc
-da	Cs
-nehamo	Vmer1p
-živeti	Vmpn
-v	Sl
-oblakih	Ncmpl
-.	Z
+token	tag	lemma
+Koper	mte:Npmsn	Koper
+-	mte:Z	-
+V	mte:Sl	v
+koprskem	mte:Agpmsl	koprski
+odboru	mte:Ncmsl	odbor
+Socialnih	mte:Agpmpg	socialen
+demokratov	mte:Ncmpg	demokrat
+(	mte:Z	(
+SD	mte:Npmsn	SD
+)	mte:Z	)
+nasprotujejo	mte:Vmpr3p	nasprotovati
+prodaji	mte:Ncfsd	prodaja
+delnic	mte:Ncfpg	delnica
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+na	mte:Sl	na
+borzi	mte:Ncfsl	borz
+,	mte:Z	,
+o	mte:Sl	o
+čemer	mte:Pr-nsl	kar
+bodo	mte:Va-f3p-n	biti
+odločali	mte:Vmpp-pm	odločati
+občinski	mte:Agpmpn	občinski
+svetniki	mte:Ncmpn	svetnik
+na	mte:Sl	na
+seji	mte:Ncfsl	seja
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+.	mte:Z	.
+"	mte:Z	"
+Prodajati	mte:Vmpn	prodajati
+delnice	mte:Ncfpa	delnica
+v	mte:Sl	v
+trenutku	mte:Ncmsl	trenutek
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+dosegle	mte:Vmep-pf	doseči
+najnižjo	mte:Agsfsa	nizek
+vrednost	mte:Ncfsa	vrednost
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+katastrofa	mte:Ncfsn	katastrof
+,	mte:Z	,
+"	mte:Z	"
+opozarja	mte:Vmpr3s	opozarjati
+poslanec	mte:Ncmsn	poslanec
+SD	mte:Npfsg	SD
+v	mte:Sl	v
+državnem	mte:Agpmsl	državen
+zboru	mte:Ncmsl	zbor
+in	mte:Cc	in
+občinski	mte:Agpmsny	občinski
+svetnik	mte:Ncmsn	svetnik
+Marijan	mte:Npmsn	Marijan
+Križman	mte:Npmsn	Križman
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+obrazložitvi	mte:Ncfsl	obrazložitev
+sklepa	mte:Ncmsg	sklep
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+sprejemali	mte:Vmpp-pm	sprejemati
+koprski	mte:Agpmpn	koprski
+svetniki	mte:Ncmpn	svetnik
+,	mte:Z	,
+zapisali	mte:Vmep-pm	zapisati
+na	mte:Sl	na
+občini	mte:Ncfsl	občina
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+prodajo	mte:Ncfsa	prodaja
+najprej	mte:Rgs	najprej
+poskušali	mte:Vmpp-pm	poskušati
+izvesti	mte:Vmen	izvesti
+z	mte:Si	z
+javnim	mte:Agpnsi	javen
+zbiranjem	mte:Ncnsi	zbiranje
+ponudb	mte:Ncfpg	ponudba
+,	mte:Z	,
+za	mte:Sa	za
+kar	mte:Pr-nsa	kar
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+zanimanja	mte:Ncnsg	zanimanje
+.	mte:Z	.
+Neposredna	mte:Agpfsn	neposreden
+prodaja	mte:Ncfsn	prodaja
+na	mte:Sl	na
+borzi	mte:Ncfsl	borz
+zagotavlja	mte:Vmpr3s	zagotavljati
+po	mte:Sl	po
+njihovem	mte:Ps3nslp	njihov
+mnenju	mte:Ncnsl	mnenje
+zanesljivo	mte:Agpfsa	zanesljiv
+prodajo	mte:Ncfsa	prodaja
+po	mte:Sl	po
+ceni	mte:Ncfsl	cena
+,	mte:Z	,
+ki	mte:Cs	ki
+odgovarja	mte:Vmpr3s	odgovarjati
+trenutnemu	mte:Agpnsd	trenuten
+stanju	mte:Ncnsd	stanje
+ponudbe	mte:Ncfsg	ponudba
+in	mte:Cc	in
+povpraševanja	mte:Ncnsg	povpraševanje
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+celotni	mte:Agpmsay	celoten
+paket	mte:Ncmsan	paket
+delnic	mte:Ncfpg	delnica
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+občine	mte:Ncfsg	občina
+oziroma	mte:Cc	oziroma
+za	mte:Sa	za
+466.942	mte:Mdc	466.942
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+predstavljajo	mte:Vmpr3p	predstavljati
+3,33	mte:Mdc	3,33
+odstotka	mte:Ncmsg	odstotek
+lastništva	mte:Ncnsg	lastništvo
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+V	mte:Sl	v
+koprskem	mte:Agpmsl	koprski
+odboru	mte:Ncmsl	odbor
+SD	mte:Npmsg	SD
+so	mte:Va-r3p-n	biti
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+občina	mte:Ncfsn	občina
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+delnic	mte:Ncfpg	delnica
+odloča	mte:Vmpr3s	odločati
+,	mte:Z	,
+ker	mte:Cs	ker
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+uspešna	mte:Agpfsn	uspešen
+pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+občinskih	mte:Agpfpg	občinski
+nepremičnin	mte:Ncfpg	nepremičnina
+.	mte:Z	.
+"	mte:Z	"
+Prodaja	mte:Ncfsn	prodaja
+delnic	mte:Ncfpg	delnica
+je	mte:Va-r3s-n	biti
+nesmisel	mte:Ncmsn	nesmisel
+in	mte:Cc	in
+dejanje	mte:Ncnsn	dejanje
+iz	mte:Sg	iz
+obupa	mte:Ncmsg	obup
+,	mte:Z	,
+"	mte:Z	"
+trdi	mte:Vmpr3s	trditi
+Križman	mte:Npfsn	Križman
+.	mte:Z	.
+S	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+delnic	mte:Ncfpg	delnica
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+občina	mte:Ncfsn	občina
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+namreč	mte:Cc	namreč
+odpovedala	mte:Vmep-sf	odpovedati
+nadzoru	mte:Ncmsd	nadzor
+nad	mte:Si	nad
+Luko	mte:Npfsi	Luka
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Poslanec	mte:Ncmsn	poslanec
+SD	mte:Npmsn	SD
+Luka	mte:Npmsn	Luka
+Juri	mte:Npmsn	Juri
+je	mte:Va-r3s-n	biti
+predstavil	mte:Vmep-sm	predstaviti
+tudi	mte:Q	tudi
+odgovor	mte:Ncmsan	odgovor
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+na	mte:Sa	na
+njegovo	mte:Ps3nsasm	njegov
+poslansko	mte:Agpnsa	poslanski
+vprašanje	mte:Ncnsa	vprašanje
+o	mte:Sl	o
+zadolženosti	mte:Ncfsl	zadolženost
+koprske	mte:Agpfsg	koprski
+občine	mte:Ncfsg	občina
+.	mte:Z	.
+"	mte:Z	"
+Ni	mte:Va-r3s-y	biti
+res	mte:Rgp	res
+,	mte:Z	,
+da	mte:Cs	da
+občina	mte:Ncfsn	občina
+Koper	mte:Npmsn	Koper
+ni	mte:Va-r3s-y	biti
+zadolžena	mte:Appfsn	zadolžen
+,	mte:Z	,
+"	mte:Z	"
+poudarja	mte:Vmpr3s	poudarjati
+Juri	mte:Npmsn	Juri
+.	mte:Z	.
+Kot	mte:Cs	kot
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+iz	mte:Sg	iz
+odgovora	mte:Ncmsg	odgovor
+razvidno	mte:Agpnsn	razviden
+,	mte:Z	,
+da	mte:Cs	da
+znaša	mte:Vmpr3s	znašati
+dolg	mte:Agpmsan	dolg
+koprske	mte:Agpfpa	koprski
+občine	mte:Ncfpa	občina
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+pravnimi	mte:Agpfpi	praven
+osebami	mte:Ncfpi	oseba
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+ustanoviteljica	mte:Ncfsn	ustanoviteljica
+je	mte:Va-r3s-n	biti
+občina	mte:Ncfsn	občina
+,	mte:Z	,
+v	mte:Sl	v
+letošnjem	mte:Agpnsl	letošnji
+letu	mte:Ncnsl	leto
+skoraj	mte:Q	skoraj
+10	mte:Mdc	10
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Kot	mte:Cs	kot
+še	mte:Q	še
+navaja	mte:Vmpr3s	navajati
+Juri	mte:Npmsn	Juri
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dolg	mte:Agpmsnn	dolg
+"	mte:Z	"
+ob	mte:Sl	ob
+računovodskih	mte:Agpfpl	računovodski
+spretnostih	mte:Ncfpl	spretnost
+občinske	mte:Agpfsg	občinski
+uprave	mte:Ncfsg	uprava
+"	mte:Z	"
+sicer	mte:Q	sicer
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+prenesen	mte:Agpmsnn	prenesen
+na	mte:Sa	na
+pravne	mte:Agpfpa	praven
+osebe	mte:Ncfpa	oseba
+,	mte:Z	,
+povezane	mte:Appfpa	povezan
+z	mte:Si	z
+občino	mte:Ncfsi	občina
+.	mte:Z	.
+Dobrih	mte:Agpmpg	dober
+sedem	mte:Mlc-pa	sedem
+milijon	mte:Ncmsan	milijon
+evrov	mte:Ncmpg	evro
+dolga	mte:Agpfsn	dolg
+odpade	mte:Vmer3s	odpasti
+po	mte:Sl	po
+Jurijevih	mte:Aspmpl	Jurijev
+podatkih	mte:Ncmpl	podatek
+na	mte:Sa	na
+Javni	mte:Agpmsay	javen
+zavod	mte:Ncmsan	zavod
+Gasilska	mte:Agpfsn	gasilski
+brigada	mte:Ncfsn	brigada
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+2,3	mte:Mdc	2,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+pa	mte:Cc	pa
+na	mte:Sa	na
+Javni	mte:Agpmsay	javen
+zavod	mte:Ncmsan	zavod
+stanovanjski	mte:Agpmsny	stanovanjski
+sklad	mte:Ncmsan	sklad
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+Jurijevih	mte:Aspfpl	Jurijev
+besedah	mte:Ncfpl	beseda
+tudi	mte:Q	tudi
+ugotovilo	mte:Vmep-sn	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+nekateri	mte:Pi-mpn	nekateri
+dogovori	mte:Ncmpn	dogovor
+o	mte:Sl	o
+plačilnih	mte:Agpmpl	plačilen
+rokih	mte:Ncmpl	rok
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+v	mte:Sl	v
+kreditnih	mte:Agpfpl	krediten
+pogodbah	mte:Ncfpl	pogodba
+sklepa	mte:Vmpr3s	sklep
+koprska	mte:Agpfsn	koprski
+občina	mte:Ncfsn	občina
+,	mte:Z	,
+v	mte:Sl	v
+nasprotju	mte:Ncnsl	nasprotje
+z	mte:Si	z
+zakonskimi	mte:Agpmpi	zakonski
+predpisi	mte:Ncmpi	predpis
+.	mte:Z	.
+Občino	mte:Ncfsi	občina
+je	mte:Va-r3s-n	biti
+ministrstvo	mte:Ncnsn	ministrstvo
+že	mte:Q	že
+pozvalo	mte:Vmep-sn	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+ugotovljene	mte:Appfpn	ugotovljen
+napake	mte:Ncfpn	napaka
+odpravi	mte:Vmer3s	odprava
+.	mte:Z	.
+O	mte:Sl	o
+nameri	mte:Ncfsl	namera
+za	mte:Sa	za
+dodatno	mte:Agpfsa	dodaten
+zadolžitev	mte:Ncfsa	zadolžitev
+občine	mte:Ncfsg	občina
+Koper	mte:Npmsn	Koper
+v	mte:Sl	v
+vrednosti	mte:Ncfsl	vrednost
+25	mte:Mdc	25
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+si	mte:Px---d--y	se
+občina	mte:Ncfsn	občina
+Koper	mte:Npmsn	Koper
+zagotovila	mte:Vmep-sf	zagotoviti
+sredstva	mte:Ncnpa	sredstvo
+za	mte:Sa	za
+investicije	mte:Ncfpa	investicija
+in	mte:Cc	in
+pokrivanje	mte:Ncnsa	pokrivanje
+tekočih	mte:Appmpg	tekoč
+stroškov	mte:Ncmpg	strošek
+,	mte:Z	,
+pa	mte:Cc	pa
+Juri	mte:Npmsn	Juri
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+moralno	mte:Rgp	moralno
+sporna	mte:Agpfsn	sporen
+.	mte:Z	.
+"	mte:Z	"
+Takšna	mte:Pd-fsn	takšen
+odločitev	mte:Ncfsn	odločitev
+pomeni	mte:Vmbr3s	pomeniti
+prelaganje	mte:Ncnsa	prelaganje
+bremen	mte:Ncnpg	bremen
+in	mte:Cc	in
+željo	mte:Ncfsa	želja
+župana	mte:Ncmsg	župan
+,	mte:Z	,
+da	mte:Cs	da
+si	mte:Px---d--y	se
+z	mte:Si	z
+dolgom	mte:Ncmsi	dolg
+kupi	mte:Vmer3s	kupiti
+tretji	mte:Mlomsa	tretji
+mandat	mte:Ncmsan	mandat
+,	mte:Z	,
+"	mte:Z	"
+ocenjuje	mte:Vmpr3s	ocenjevati
+Juri	mte:Npmsn	Juri
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+tekoči	mte:Appmpn	tekoč
+prihodki	mte:Ncmpn	prihodek
+občine	mte:Ncfsg	občina
+v	mte:Sl	v
+letošnjem	mte:Agpnsl	letošnji
+letu	mte:Ncnsl	leto
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+dosegli	mte:Vmep-pm	doseči
+80	mte:Mdc	80
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+odhodki	mte:Ncmpn	odhodek
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+znašali	mte:Vmpp-pm	znašati
+skoraj	mte:Q	skoraj
+120	mte:Mdc	120
+milijonov	mte:Ncmpg	milijon
+.	mte:Z	.
+S	mte:Sg	z
+koprske	mte:Agpfsg	koprski
+občine	mte:Ncfsg	občina
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+,	mte:Z	,
+da	mte:Cs	da
+izvaja	mte:Vmpr3s	izvajati
+občina	mte:Ncfsn	občina
+program	mte:Ncmsn	program
+prodaje	mte:Ncfsg	prodaja
+delnic	mte:Ncfpg	delnica
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+sprejetim	mte:Appmsi	sprejet
+letnim	mte:Agpmsi	leten
+programom	mte:Ncmsi	program
+in	mte:Cc	in
+proračunom	mte:Ncmsi	proračun
+.	mte:Z	.
+Na	mte:Sa	na
+očitke	mte:Ncmpa	očitek
+,	mte:Z	,
+da	mte:Cs	da
+namerava	mte:Vmpr3s	nameravati
+občina	mte:Ncfsn	občina
+delnice	mte:Ncfpa	delnica
+prodati	mte:Vmen	prodati
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+,	mte:Z	,
+ko	mte:Cs	ko
+beležijo	mte:Vmpr3p	beležiti
+nizke	mte:Agpfpa	nizek
+vrednosti	mte:Ncfpa	vrednost
+,	mte:Z	,
+pa	mte:Cc	pa
+iz	mte:Sg	iz
+županovega	mte:Aspmsg	županov
+kabineta	mte:Ncmsg	kabinet
+odgovarjajo	mte:Vmpr3p	odgovarjati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+"	mte:Z	"
+nam	mte:Pp1-pd	jaz
+cena	mte:Ncfsn	cena
+delnic	mte:Ncfpg	delnica
+ne	mte:Q	ne
+zdi	mte:Vmpr3s	zdeti
+prenizka	mte:Agpfsn	prenizek
+oziroma	mte:Cc	oziroma
+se	mte:Px------y	se
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+zdela	mte:Vmpp-sf	zdeti
+zelo	mte:Rgp	zelo
+visoka	mte:Agpfsn	visok
+"	mte:Z	"
+.	mte:Z	.
+"	mte:Z	"
+Mislim	mte:Vmpr1s	misliti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+čas	mte:Ncmsn	čas
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+počasi	mte:Rgp	počasi
+prebudimo	mte:Vmer1p	prebuditi
+in	mte:Cc	in
+si	mte:Px---d--y	se
+priznamo	mte:Vmer1p	priznati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+cene	mte:Ncfpn	cena
+na	mte:Sl	na
+borzi	mte:Ncfsl	borz
+v	mte:Sl	v
+preteklem	mte:Appnsl	pretekel
+obdobju	mte:Ncnsl	obdobje
+bistveno	mte:Rgp	bistveno
+prenapihnjene	mte:Appfpn	prenapihnjen
+,	mte:Z	,
+in	mte:Cc	in
+da	mte:Cs	da
+nehamo	mte:Vmer1p	nehati
+živeti	mte:Vmpn	živeti
+v	mte:Sl	v
+oblakih	mte:Ncmpl	oblak
+.	mte:Z	.
+Če	mte:Cs	če
+res	mte:Rgp	res
+hočemo	mte:Vmpr1p-n	hoteti
+biti	mte:Va-n	biti
+konkurenčni	mte:Agpmpn	konkurenčen
+in	mte:Cc	in
+zagotoviti	mte:Vmen	zagotoviti
+razvoj	mte:Ncmsan	razvoj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+delati	mte:Vmpn	delati
+,	mte:Z	,
+"	mte:Z	"
+še	mte:Q	še
+odgovarjajo	mte:Vmpr3p	odgovarjati
+z	mte:Sg	z
+županovega	mte:Aspmsg	županov
+kabineta	mte:Ncmsg	kabinet

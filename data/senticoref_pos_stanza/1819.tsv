@@ -1,503 +1,504 @@
-token	tag
-Na	Sa
-lestvico	Ncfsa
-500	Mdc
-največjih	Agsnpg
-podjetij	Ncnpg
-v	Sl
-srednji	Agpfsl
-Evropi	Npfsl
-se	Px------y
-je	Va-r3s-n
-letos	Rgp
-uvrstilo	Vmep-sn
-17	Mdc
-slovenskih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Slovenske	Agpfsg
-družbe	Ncfsg
-na	Sl
-seznamu	Ncmsl
-v	Sl
-glavnem	Agpnsl
-prihajajo	Vmpr3p
-iz	Sg
-sektorja	Ncmsg
-široke	Agpfsg
-potrošnje	Ncfsg
-in	Cc
-sektorja	Ncmsg
-energetike	Ncfsg
-.	Z
-Na	Sl
-lestvici	Ncfsl
-je	Va-r3s-n
-17	Mdc
-slovenskih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Na	Sa
-lestvico	Ncfsa
-500	Mdc
-največjih	Agsnpg
-podjetij	Ncnpg
-v	Sl
-srednji	Agpfsl
-Evropi	Npfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-objavila	Vmep-sf
-svetovalno	Agpnsn
--	Z
-revizorska	Agpfsn
-hiša	Ncfsn
-Deloitte	Npfsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-letos	Rgp
-uvrstilo	Vmep-sn
-17	Mdc
-slovenskih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Delež	Ncmsn
-slovenskih	Agpfpg
-družb	Ncfpg
-na	Sl
-srednjeevropski	Agpfsl
-lestvici	Ncfsl
-se	Px------y
-v	Sl
-prejšnjih	Agpnpl
-letih	Ncnpl
-ni	Va-r3s-y
-posebej	Rgp
-spreminjal	Vmpp-sm
-.	Z
-Za	Sa
-razliko	Ncfsa
-od	Sg
-prejšnjega	Agpnsg
-leta	Ncnsg
-,	Z
-ko	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-na	Sl
-lestvici	Ncfsl
-18	Mdc
-slovenskih	Agpfpg
-družb	Ncfpg
-,	Z
-se	Px------y
-jih	Pp3mpa--y
-je	Va-r3s-n
-letos	Rgp
-na	Sa
-lestvico	Ncfsa
-uvrstilo	Vmep-sn
-17	Mdc
-,	Z
-kar	Pr-nsn
-predstavlja	Vmpr3s
-3,4	Mdc
-odstotka	Ncmsg
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-svetovalno	Agpnsn
--	Z
-revizorske	Agpfsg
-hiše	Ncfsg
-Deloitte	Npfsg
-.	Z
-Slovenske	Agpfsg
-družbe	Ncfsg
-na	Sl
-seznamu	Ncmsl
-v	Sl
-glavnem	Agpnsl
-prihajajo	Vmpr3p
-iz	Sg
-sektorja	Ncmsg
-široke	Agpfsg
-potrošnje	Ncfsg
-in	Cc
-sektorja	Ncmsg
-energetike	Ncfsg
-,	Z
-medtem	Rgp
-ko	Cs
-sektorja	Ncmsg
-industrijske	Agpfsg
-proizvodnje	Ncfsg
-in	Cc
-farmacije	Ncfsg
-zastopata	Vmpr3d
-po	Sa
-dve	Mlcfda
-družbi	Ncfda
-,	Z
-sektor	Ncmsn
-telekomunikacij	Ncfpg
-pa	Cc
-ena	Mlpfsn
-.	Z
-Petrol	Npmsn
-je	Va-r3s-n
-prvo	Mlonsa
-slovensko	Agpnsa
-podjetje	Ncnsa
-na	Sl
-seznamu	Ncmsl
-.	Z
-Foto	Ncmsn
-Reuters	Npmsn
-Vodilni	Agpmsay
-položaj	Ncmsan
-med	Si
-slovenskimi	Agpfpi
-družbami	Ncfpi
-je	Va-r3s-n
-zabeležila	Vmep-sf
-skupina	Ncfsn
-Petrol	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-lani	Rgp
-ustvarila	Vmep-sf
-3,27	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-prihodkov	Ncmpg
-od	Sg
-prodaje	Ncfsg
-.	Z
-S	Si
-tem	Pd-msi
-rezultatom	Ncmsi
-se	Px------y
-je	Va-r3s-n
-skupini	Ncfsd
-uspelo	Vmep-sn
-uvrstiti	Vmen
-na	Sa
-37	Mdc
-.	Z
-mesto	Ncnsa
-Deloittove	Aspfsg
-lestvice	Ncfsg
-.	Z
-Sledijo	Vmpr3p
-skupina	Ncfsn
-Mercator	Npmsn
-46	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-skupina	Ncfsn
-Gorenje	Npnsn
-128	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-skupina	Ncfsn
-Holding	Ncmsn
-Slovenske	Agpfsg
-elektrarne	Ncfsg
-133	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-Revoz	Npmsn
-172	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-skupina	Ncfsn
-Krka	Npfsn
-185	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-skupina	Ncfsn
-Gen	Ncmsn
--	Z
-I	Ncmsn
-204	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-skupina	Ncfsn
-Telekom	Npmsn
-Slovenije	Npfsg
-270	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-Tuš	Ncmsn
-Holding	Ncmsn
-280	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-Slovenska	Agpfsn
-industrija	Ncfsn
-jekla	Ncnsg
-289	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-Spar	Npmsn
-Slovenija	Npfsn
-309	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-OMV	Ncmsn
-Slovenija	Npfsn
-318	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-Engrotuš	Npmsn
-356	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-skupina	Ncfsn
-Lek	Npmsn
-377	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-skupina	Ncfsn
-Gen	Ncmsn
-Energija	Ncfsn
-424	Mdc
-.	Z
-mesto	Ncnsn
-in	Cc
-ACH	Npfsn
-482	Mdc
-.	Z
-mesto	Ncnsn
-.	Z
-Glede	Rgp
-na	Sa
-število	Ncnsa
-družb	Ncfpg
-na	Sl
-Deloittovi	Aspfsl
-lestvici	Ncfsl
-ima	Vmpr3s-n
-Slovenija	Npfsn
-še	Q
-naprej	Rgp
-prednost	Ncfsa
-pred	Si
-državami	Ncfpi
-v	Sl
-ožji	Agcfsl
-regiji	Ncfsl
-.	Z
-Sledita	Vmpr3d
-ji	Pp3fsd--y
-Hrvaška	Npfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-zastopa	Vmpr3s
-12	Mdc
-družb	Ncfpg
-,	Z
-in	Cc
-Srbija	Npfsn
-,	Z
-iz	Sg
-katere	Pq-fsg
-se	Px------y
-je	Va-r3s-n
-med	Si
-500	Mdc
-največjimi	Agsmpi
-znašlo	Vmep-sn
-11	Mdc
-družb	Ncfpg
-.	Z
-Tako	Rgp
-kot	Cs
-v	Sl
-preteklih	Appnpl
-letih	Ncnpl
-se	Px------y
-je	Va-r3s-n
-tudi	Q
-letos	Rgp
-na	Sl
-prvem	Mlonsl
-mestu	Ncnsl
-lestvice	Ncfsg
-največjih	Agsmpg
-500	Mdc
-podjetij	Ncnpg
-v	Sl
-srednji	Agpfsl
-Evropi	Npfsl
-znašlo	Vmep-sn
-poljsko	Agpnsn
-naftno	Agpnsn
-podjetje	Ncnsn
-PKN	Npmsn
-Orlen	Npmsn
-s	Si
-prihodki	Ncmpi
-od	Sg
-prodaje	Ncfsg
-v	Sl
-višini	Ncfsl
-26	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-.	Z
-Sledita	Vmpr3d
-madžarsko	Agpnsn
-naftno	Agpnsn
-podjetje	Ncnsn
-Mol	Npmsn
-ter	Cc
-češka	Agpfsn
-Škoda	Ncfsn
-.	Z
-Deloitte	Npfsn
-je	Va-r3s-n
-pripravil	Vmep-sm
-tudi	Q
-lestvici	Ncfsd
-50	Mdc
-največjih	Agsfpg
-bank	Ncfpg
-in	Cc
-zavarovalnic	Ncfpg
-.	Z
-Tako	Rgp
-kot	Cs
-v	Sl
-prejšnjem	Agpnsl
-letu	Ncnsl
-je	Va-r3s-n
-vodilni	Agpmsay
-položaj	Ncmsan
-zavzela	Vmep-sf
-poljska	Agpfsn
-banka	Ncfsn
-PKO	Npmsn
-BP	Npmsn
-s	Si
-sredstvi	Ncnpi
-,	Z
-ki	Cs
-so	Va-r3p-n
-v	Sl
-letu	Ncnsl
-2011	Mdc
-znašala	Vmpp-pf
-43,19	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-Med	Si
-prvih	Mlompg
-deset	Mlc-pn
-se	Px------y
-je	Va-r3s-n
-tudi	Q
-letos	Rgp
-uvrstila	Vmep-sf
-NLB	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-zasedla	Vmep-sf
-deveto	Mlonsa
-mesto	Ncnsa
-.	Z
-Poleg	Sg
-nje	Pp3fsg
-se	Px------y
-je	Va-r3s-n
-med	Sa
-največje	Agsfsa
-družbe	Ncfpa
-uvrstila	Vmep-sf
-tudi	Q
-NKBM	Npfsn
-43	Mdc
-.	Z
-mesto	Ncnsa
-.	Z
-Med	Si
-zavarovalnicami	Ncfpi
-vodi	Vmpr3s
-poljska	Agpfsn
-PZU	Ncfsn
-s	Si
-3,71	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-skupne	Agpfsg
-obračunane	Appfsg
-premije	Ncfsg
-.	Z
-Med	Si
-slovenskimi	Agpfpi
-zavarovalnicami	Ncfpi
-je	Va-r3s-n
-najboljšo	Agsfsa
-uvrstitev	Ncfsa
-lani	Rgp
-dosegla	Vmep-sf
-Zavarovalnica	Ncfsn
-Triglav	Npmsn
-šesto	Mlonsa
-mesto	Ncnsa
-v	Sl
-regiji	Ncfsl
-.	Z
-Poleg	Sg
-Zavarovalnice	Ncfsg
-Triglav	Npmsn
-so	Va-r3p-n
-se	Px------y
-na	Sl
-letošnji	Agpfsl
-lestvici	Ncfsl
-znašle	Vmep-pf
-še	Q
-tri	Mlcfpn
-slovenske	Agpfpn
-zavarovalnice	Ncfpn
-,	Z
-in	Cc
-sicer	Q
-Adriatic	Npfsn
-Slovenica	Npfsn
-29	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-Zavarovalnica	Ncfsn
-Maribor	Npmsn
-31	Mdc
-.	Z
-mesto	Ncnsn
-in	Cc
-Vzajemna	Agpfsn
-33	Mdc
-.	Z
+token	tag	lemma
+Na	mte:Sa	na
+lestvico	mte:Ncfsa	lestvica
+500	mte:Mdc	500
+največjih	mte:Agsnpg	velik
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+srednji	mte:Agpfsl	srednji
+Evropi	mte:Npfsl	Evropa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+uvrstilo	mte:Vmep-sn	uvrstiti
+17	mte:Mdc	17
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Slovenske	mte:Agpfsg	slovenski
+družbe	mte:Ncfsg	družba
+na	mte:Sl	na
+seznamu	mte:Ncmsl	seznam
+v	mte:Sl	v
+glavnem	mte:Agpnsl	glaven
+prihajajo	mte:Vmpr3p	prihajati
+iz	mte:Sg	iz
+sektorja	mte:Ncmsg	sektor
+široke	mte:Agpfsg	širok
+potrošnje	mte:Ncfsg	potrošnja
+in	mte:Cc	in
+sektorja	mte:Ncmsg	sektor
+energetike	mte:Ncfsg	energetika
+.	mte:Z	.
+Na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+je	mte:Va-r3s-n	biti
+17	mte:Mdc	17
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Na	mte:Sa	na
+lestvico	mte:Ncfsa	lestvica
+500	mte:Mdc	500
+največjih	mte:Agsnpg	velik
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+srednji	mte:Agpfsl	srednji
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+objavila	mte:Vmep-sf	objaviti
+svetovalno	mte:Agpnsn	svetovalen
+-	mte:Z	-
+revizorska	mte:Agpfsn	revizorski
+hiša	mte:Ncfsn	hiša
+Deloitte	mte:Npfsn	Deloitta
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+uvrstilo	mte:Vmep-sn	uvrstiti
+17	mte:Mdc	17
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Delež	mte:Ncmsn	delež
+slovenskih	mte:Agpfpg	slovenski
+družb	mte:Ncfpg	družba
+na	mte:Sl	na
+srednjeevropski	mte:Agpfsl	srednjeevropski
+lestvici	mte:Ncfsl	lestvica
+se	mte:Px------y	se
+v	mte:Sl	v
+prejšnjih	mte:Agpnpl	prejšnji
+letih	mte:Ncnpl	leto
+ni	mte:Va-r3s-y	biti
+posebej	mte:Rgp	posebej
+spreminjal	mte:Vmpp-sm	spreminjati
+.	mte:Z	.
+Za	mte:Sa	za
+razliko	mte:Ncfsa	razlika
+od	mte:Sg	od
+prejšnjega	mte:Agpnsg	prejšnji
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+18	mte:Mdc	18
+slovenskih	mte:Agpfpg	slovenski
+družb	mte:Ncfpg	družba
+,	mte:Z	,
+se	mte:Px------y	se
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+na	mte:Sa	na
+lestvico	mte:Ncfsa	lestvica
+uvrstilo	mte:Vmep-sn	uvrstiti
+17	mte:Mdc	17
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+predstavlja	mte:Vmpr3s	predstavljati
+3,4	mte:Mdc	3,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+svetovalno	mte:Agpnsn	svetovalen
+-	mte:Z	-
+revizorske	mte:Agpfsg	revizorski
+hiše	mte:Ncfsg	hiša
+Deloitte	mte:Npfsg	Deloitta
+.	mte:Z	.
+Slovenske	mte:Agpfsg	slovenski
+družbe	mte:Ncfsg	družba
+na	mte:Sl	na
+seznamu	mte:Ncmsl	seznam
+v	mte:Sl	v
+glavnem	mte:Agpnsl	glaven
+prihajajo	mte:Vmpr3p	prihajati
+iz	mte:Sg	iz
+sektorja	mte:Ncmsg	sektor
+široke	mte:Agpfsg	širok
+potrošnje	mte:Ncfsg	potrošnja
+in	mte:Cc	in
+sektorja	mte:Ncmsg	sektor
+energetike	mte:Ncfsg	energetika
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+sektorja	mte:Ncmsg	sektor
+industrijske	mte:Agpfsg	industrijski
+proizvodnje	mte:Ncfsg	proizvodnja
+in	mte:Cc	in
+farmacije	mte:Ncfsg	farmacija
+zastopata	mte:Vmpr3d	zastopati
+po	mte:Sa	po
+dve	mte:Mlcfda	dva
+družbi	mte:Ncfda	družba
+,	mte:Z	,
+sektor	mte:Ncmsn	sektor
+telekomunikacij	mte:Ncfpg	telekomunikacija
+pa	mte:Cc	pa
+ena	mte:Mlpfsn	en
+.	mte:Z	.
+Petrol	mte:Npmsn	Petrol
+je	mte:Va-r3s-n	biti
+prvo	mte:Mlonsa	prvi
+slovensko	mte:Agpnsa	slovenski
+podjetje	mte:Ncnsa	podjetje
+na	mte:Sl	na
+seznamu	mte:Ncmsl	seznam
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+Reuters	mte:Npmsn	Reuters
+Vodilni	mte:Agpmsay	vodilen
+položaj	mte:Ncmsan	položaj
+med	mte:Si	med
+slovenskimi	mte:Agpfpi	slovenski
+družbami	mte:Ncfpi	družba
+je	mte:Va-r3s-n	biti
+zabeležila	mte:Vmep-sf	zabeležiti
+skupina	mte:Ncfsn	skupina
+Petrol	mte:Npmsn	Petrol
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+ustvarila	mte:Vmep-sf	ustvariti
+3,27	mte:Mdc	3,27
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-msi	ta
+rezultatom	mte:Ncmsi	rezultat
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+skupini	mte:Ncfsd	skupina
+uspelo	mte:Vmep-sn	uspeti
+uvrstiti	mte:Vmen	uvrstiti
+na	mte:Sa	na
+37	mte:Mdc	37
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+Deloittove	mte:Aspfsg	Deloittov
+lestvice	mte:Ncfsg	lestvica
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+skupina	mte:Ncfsn	skupina
+Mercator	mte:Npmsn	Mercator
+46	mte:Mdc	46
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+Gorenje	mte:Npnsn	Gorenje
+128	mte:Mdc	128
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+Holding	mte:Ncmsn	holding
+Slovenske	mte:Agpfsg	slovenski
+elektrarne	mte:Ncfsg	elektrarna
+133	mte:Mdc	133
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+Revoz	mte:Npmsn	Revoz
+172	mte:Mdc	172
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+Krka	mte:Npfsn	Krka
+185	mte:Mdc	185
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+Gen	mte:Ncmsn	gen
+-	mte:Z	-
+I	mte:Ncmsn	I
+204	mte:Mdc	204
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+270	mte:Mdc	270
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+Tuš	mte:Ncmsn	tuš
+Holding	mte:Ncmsn	holding
+280	mte:Mdc	280
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+Slovenska	mte:Agpfsn	slovenski
+industrija	mte:Ncfsn	industrija
+jekla	mte:Ncnsg	jeklo
+289	mte:Mdc	289
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+Spar	mte:Npmsn	Spar
+Slovenija	mte:Npfsn	Slovenija
+309	mte:Mdc	309
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+OMV	mte:Ncmsn	OMV
+Slovenija	mte:Npfsn	Slovenija
+318	mte:Mdc	318
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+Engrotuš	mte:Npmsn	Engrotuš
+356	mte:Mdc	356
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+Lek	mte:Npmsn	Lek
+377	mte:Mdc	377
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+Gen	mte:Ncmsn	gen
+Energija	mte:Ncfsn	energija
+424	mte:Mdc	424
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+in	mte:Cc	in
+ACH	mte:Npfsn	ACH
+482	mte:Mdc	482
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+število	mte:Ncnsa	število
+družb	mte:Ncfpg	družba
+na	mte:Sl	na
+Deloittovi	mte:Aspfsl	Deloittov
+lestvici	mte:Ncfsl	lestvica
+ima	mte:Vmpr3s-n	imeti
+Slovenija	mte:Npfsn	Slovenija
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+prednost	mte:Ncfsa	prednost
+pred	mte:Si	pred
+državami	mte:Ncfpi	država
+v	mte:Sl	v
+ožji	mte:Agcfsl	ozek
+regiji	mte:Ncfsl	regija
+.	mte:Z	.
+Sledita	mte:Vmpr3d	slediti
+ji	mte:Pp3fsd--y	on
+Hrvaška	mte:Npfsn	hrvaški
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+zastopa	mte:Vmpr3s	zastopati
+12	mte:Mdc	12
+družb	mte:Ncfpg	družba
+,	mte:Z	,
+in	mte:Cc	in
+Srbija	mte:Npfsn	Srbija
+,	mte:Z	,
+iz	mte:Sg	iz
+katere	mte:Pq-fsg	kateri
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+500	mte:Mdc	500
+največjimi	mte:Agsmpi	velik
+znašlo	mte:Vmep-sn	znajti
+11	mte:Mdc	11
+družb	mte:Ncfpg	družba
+.	mte:Z	.
+Tako	mte:Rgp	tako
+kot	mte:Cs	kot
+v	mte:Sl	v
+preteklih	mte:Appnpl	pretekel
+letih	mte:Ncnpl	leto
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+letos	mte:Rgp	letos
+na	mte:Sl	na
+prvem	mte:Mlonsl	prvi
+mestu	mte:Ncnsl	mesto
+lestvice	mte:Ncfsg	lestvica
+največjih	mte:Agsmpg	velik
+500	mte:Mdc	500
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+srednji	mte:Agpfsl	srednji
+Evropi	mte:Npfsl	Evropa
+znašlo	mte:Vmep-sn	znajti
+poljsko	mte:Agpnsn	poljski
+naftno	mte:Agpnsn	naften
+podjetje	mte:Ncnsn	podjetje
+PKN	mte:Npmsn	PKN
+Orlen	mte:Npmsn	Orlen
+s	mte:Si	z
+prihodki	mte:Ncmpi	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+26	mte:Mdc	26
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Sledita	mte:Vmpr3d	slediti
+madžarsko	mte:Agpnsn	madžarski
+naftno	mte:Agpnsn	naften
+podjetje	mte:Ncnsn	podjetje
+Mol	mte:Npmsn	Mol
+ter	mte:Cc	ter
+češka	mte:Agpfsn	češki
+Škoda	mte:Ncfsn	škoda
+.	mte:Z	.
+Deloitte	mte:Npfsn	Deloitta
+je	mte:Va-r3s-n	biti
+pripravil	mte:Vmep-sm	pripraviti
+tudi	mte:Q	tudi
+lestvici	mte:Ncfsd	lestvica
+50	mte:Mdc	50
+največjih	mte:Agsfpg	velik
+bank	mte:Ncfpg	banka
+in	mte:Cc	in
+zavarovalnic	mte:Ncfpg	zavarovalnica
+.	mte:Z	.
+Tako	mte:Rgp	tako
+kot	mte:Cs	kot
+v	mte:Sl	v
+prejšnjem	mte:Agpnsl	prejšnji
+letu	mte:Ncnsl	leto
+je	mte:Va-r3s-n	biti
+vodilni	mte:Agpmsay	vodilen
+položaj	mte:Ncmsan	položaj
+zavzela	mte:Vmep-sf	zavzeti
+poljska	mte:Agpfsn	poljski
+banka	mte:Ncfsn	banka
+PKO	mte:Npmsn	PKO
+BP	mte:Npmsn	BP
+s	mte:Si	z
+sredstvi	mte:Ncnpi	sredstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2011	mte:Mdc	2011
+znašala	mte:Vmpp-pf	znašati
+43,19	mte:Mdc	43,19
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Med	mte:Si	med
+prvih	mte:Mlompg	prvi
+deset	mte:Mlc-pn	deset
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+letos	mte:Rgp	letos
+uvrstila	mte:Vmep-sf	uvrstiti
+NLB	mte:Npfsn	NLB
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zasedla	mte:Vmep-sf	zasesti
+deveto	mte:Mlonsa	deveti
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+nje	mte:Pp3fsg	on
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+med	mte:Sa	med
+največje	mte:Agsfsa	velik
+družbe	mte:Ncfpa	družba
+uvrstila	mte:Vmep-sf	uvrstiti
+tudi	mte:Q	tudi
+NKBM	mte:Npfsn	NKBM
+43	mte:Mdc	43
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Med	mte:Si	med
+zavarovalnicami	mte:Ncfpi	zavarovalnica
+vodi	mte:Vmpr3s	voditi
+poljska	mte:Agpfsn	poljski
+PZU	mte:Ncfsn	PZU
+s	mte:Si	z
+3,71	mte:Mdc	3,71
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+skupne	mte:Agpfsg	skupen
+obračunane	mte:Appfsg	obračunan
+premije	mte:Ncfsg	premija
+.	mte:Z	.
+Med	mte:Si	med
+slovenskimi	mte:Agpfpi	slovenski
+zavarovalnicami	mte:Ncfpi	zavarovalnica
+je	mte:Va-r3s-n	biti
+najboljšo	mte:Agsfsa	dober
+uvrstitev	mte:Ncfsa	uvrstitev
+lani	mte:Rgp	lani
+dosegla	mte:Vmep-sf	doseči
+Zavarovalnica	mte:Ncfsn	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+šesto	mte:Mlonsa	šesti
+mesto	mte:Ncnsa	mesto
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+Zavarovalnice	mte:Ncfsg	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+letošnji	mte:Agpfsl	letošnji
+lestvici	mte:Ncfsl	lestvica
+znašle	mte:Vmep-pf	znajti
+še	mte:Q	še
+tri	mte:Mlcfpn	trije
+slovenske	mte:Agpfpn	slovenski
+zavarovalnice	mte:Ncfpn	zavarovalnica
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+Adriatic	mte:Npfsn	Adriatic
+Slovenica	mte:Npfsn	Slovenica
+29	mte:Mdc	29
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+Zavarovalnica	mte:Ncfsn	zavarovalnica
+Maribor	mte:Npmsn	Maribor
+31	mte:Mdc	31
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+in	mte:Cc	in
+Vzajemna	mte:Agpfsn	vzajemen
+33	mte:Mdc	33
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto

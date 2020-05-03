@@ -1,1159 +1,1196 @@
-token	tag
-Za	Sa
-cenejše	Agcnsa
-telefoniranje	Ncnsa
-v	Sl
-tujini	Ncfsl
-:	Z
-preverite	Vmer2p
-ponudbo	Ncfsa
-vašega	Ps1nsgp
-Za	Sa
-cenejše	Agcnsa
-telefoniranje	Ncnsa
-v	Sl
-tujini	Ncfsl
-:	Z
-preverite	Vmem2p
-ponudbo	Ncfsa
-vašega	Ps1msgp
-operaterja	Ncmsg
-za	Sa
-posamezno	Agpfsa
-državo	Ncfsa
-,	Z
-ročno	Rgp
-izberite	Vmem2p
-tuje	Agpnsa
-omrežje	Ncnsa
-in	Cc
-ne	Q
-uporabljajte	Vmpm2p
-šumnikov	Ncmpg
-.	Z
-Najugodnejše	Agsfsg
-cene	Ncfsg
-gostovanja	Ncnsg
-v	Sl
-tujini	Ncfsl
-so	Va-r3p-n
-praviloma	Rgp
-v	Sl
-državah	Ncfpl
-na	Sl
-območju	Ncnsl
-Evropske	Agpfsg
-unije	Ncfsg
-(	Z
-EU	Npfsn
-)	Z
-,	Z
-kjer	Cs
-so	Va-r3p-n
-skladne	Agpfpn
-z	Si
-evropsko	Agpfsi
-direktivo	Ncfsi
-in	Cc
-imajo	Vmpr3p-n
-trend	Ncmsan
-nižanja	Ncnsg
-.	Z
-"	Z
-Preostale	Appfpn
-države	Ncfpn
-so	Va-r3p-n
-razporejene	Appfpn
-v	Sa
-drugo	Mlpnsa
-,	Z
-tretje	Mlonsa
-in	Cc
-četrto	Mlonsa
-območje	Ncnsa
-,	Z
-v	Sa
-peto	Mlonsa
-območje	Ncnsa
-pa	Cc
-je	Va-r3s-n
-uvrščeno	Appnsn
-gostovanje	Ncnsn
-prek	Sg
-satelitskih	Agpnpg
-omrežij	Ncnpg
-,	Z
-na	Sl
-letalih	Ncnpl
-in	Cc
-ladjah	Ncfpl
-,	Z
-"	Z
-pojasnjuje	Vmpr3s
-Boris	Npmsn
-Ziherl	Npmsn
-iz	Sg
-Telekoma	Npmsg
-.	Z
-"	Z
-V	Sa
-drugo	Mlpnsa
-območje	Ncnsa
-,	Z
-kjer	Cs
-so	Va-r3p-n
-cene	Ncfpn
-gostovanj	Ncnpg
-po	Sl
-ugodnosti	Ncfsl
-takoj	Rgp
-za	Sa
-evropsko	Agpfsa
-tarifo	Ncfsa
-,	Z
-je	Va-r3s-n
-umeščena	Appfsn
-Hrvaška	Npfsn
-.	Z
-"	Z
-Tušmobil	Npmsn
-je	Va-r3s-n
-pet	Mlc-pa
-mednarodnih	Agpnpg
-območij	Ncnpg
-skrčil	Vmep-sm
-na	Sa
-tri	Mlcfpa
-–	Z
-ločuje	Vmpr3s
-Svetovno	Agpfsa
-tarifo	Ncfsa
-s	Si
-136	Mdc
-državami	Ncfpi
-,	Z
-tarifo	Ncfsi
-Ostali	Appmsny
-svet	Ncmsn
-in	Cc
-Satelitske	Agpfpn
-destinacije	Ncfpn
-.	Z
-Eurotarifa	Npmsn
-Uporabniki	Ncmpn
-,	Z
-ki	Cs
-med	Si
-gostovanjem	Ncnsi
-pri	Sl
-mobilnih	Agpmpl
-operaterjih	Ncmpl
-v	Sl
-tujini	Ncfsl
-izberejo	Vmer3p
-evropsko	Agpfsa
-tarifo	Ncfsa
-,	Z
-bodo	Va-f3p-n
-za	Sa
-odhodne	Agpfpa
-klice	Ncfpa
-plačali	Vmep-pm
-največ	Rgs
-35	Mdc
-centov	Ncmpg
-,	Z
-za	Sa
-prejete	Appmpa
-pa	Cc
-11	Mdc
-centov	Ncmpg
-na	Sa
-minuto	Ncfsa
-(	Z
-brez	Sg
-DDV	Ncmsg
-)	Z
-.	Z
-Cena	Ncfsn
-za	Sa
-pošiljanje	Ncnsa
-kratkih	Agpfpg
-SMS	Ncfpg
--	Z
-sporočil	Vmep-sm
-je	Va-r3s-n
-omejena	Appfsn
-na	Sa
-11	Mdc
-centov	Ncmpg
-.	Z
-Pravila	Ncnsg
-EU	Npfsg
-o	Sl
-gostovanju	Ncnsl
-določajo	Vmpr3p
-tudi	Q
-omejitev	Ncfsa
-podatkovnega	Agpnsg
-gostovanja	Ncnsg
-v	Sl
-višini	Ncfsl
-50	Mdc
-evrov	Ncmpg
-(	Z
-brez	Sg
-DDV	Ncmsg
-)	Z
-,	Z
-če	Cs
-se	Px------y
-uporabnik	Ncmsn
-sam	Agpmsnn
-ne	Q
-odloči	Vmer3s
-za	Sa
-višji	Agcmsay
-ali	Cc
-nižji	Agcmsay
-znesek	Ncmsan
-.	Z
-Ko	Cs
-porabi	Vmer3s
-80	Mdc
-odstotkov	Ncmpg
-določenega	Appmsg
-zneska	Ncmsg
-,	Z
-ga	Pp3msa--y
-mora	Vmpr3s
-operater	Ncmsn
-opozoriti	Vmen
-,	Z
-ko	Cs
-je	Va-r3s-n
-dosežen	Appmsnn
-znesek	Ncmsn
-omejitve	Ncfsg
-,	Z
-pa	Cc
-prekiniti	Vmen
-mobilno	Agpfsa
-povezavo	Ncfsa
-z	Si
-medmrežjem	Ncnsi
-,	Z
-razen	Sg
-če	Cs
-uporabnik	Ncmsn
-ne	Q
-navede	Vmer3s
-,	Z
-da	Cs
-želi	Vmpr3s
-v	Sl
-določenem	Appmsl
-mesecu	Ncmsl
-še	Q
-naprej	Rgp
-podatkovno	Rgp
-gostovati	Vmpn
-.	Z
-Blokada	Ncfsn
-paketnega	Agpmsg
-prenosa	Ncmsg
-Omejitev	Ncfpg
-prenosa	Ncmsg
-podatkov	Ncmpg
-sicer	Q
-pri	Sl
-različnih	Agpmpl
-mobilnih	Agpmpl
-operaterjih	Ncmpl
-velja	Vmpr3s
-tudi	Q
-za	Sa
-druge	Mlpfpa
-države	Ncfpa
-izven	Sg
-EU	Npfsg
-.	Z
-Simobilov	Aspmsnn
-limit	Ncmsn
-za	Sa
-prenos	Ncmsan
-podatkov	Ncmpg
-na	Sl
-Hrvaškem	Npnsl
-recimo	Vmem1p
-znaša	Vmpr3s
-60	Mdc
-evrov	Ncmpg
-,	Z
-na	Sa
-enak	Pi-msa
-znesek	Ncmsan
-pa	Cc
-je	Va-r3s-n
-avtomatično	Rgp
-omejen	Appmsnn
-prenos	Ncmsn
-podatkov	Ncmpg
-v	Sl
-tujini	Ncfsl
-tudi	Q
-pri	Sl
-Mobitelu	Npmsl
-.	Z
-Če	Cs
-paketnega	Agpmsg
-prenosa	Ncmsg
-podatkov	Ncmpg
-v	Sl
-tujini	Ncfsl
-ne	Q
-potrebujete	Vmpr2p
-ali	Cc
-živite	Vmpr2p
-v	Sl
-bližini	Ncfsl
-državne	Agpfsg
-meje	Ncfsg
-,	Z
-kjer	Cs
-je	Va-r3s-n
-lahko	Rgp
-signal	Ncmsn
-omrežja	Ncnsg
-tujega	Agpmsg
-operaterja	Ncmsg
-precej	Rgp
-močan	Agpmsnn
-,	Z
-operaterji	Ncmpn
-svetujejo	Vmbr3p
-,	Z
-da	Cs
-vklopite	Vmem2p
-blokado	Ncfsa
-paketnega	Agpmsg
-prenosa	Ncmsg
-podatkov	Ncmpg
-.	Z
-Cenejša	Agcfsn
-ročna	Agpfsn
-izbira	Ncfsn
-operaterja	Ncmsg
-Cenejše	Agcnsa
-telefoniranje	Ncnsa
-omogoča	Vmpr3s
-tudi	Q
-ročna	Agpfsn
-izbira	Ncfsn
-tujega	Agpnsg
-omrežja	Ncnsg
-oziroma	Cc
-operaterja	Ncmsg
-,	Z
-s	Si
-katerim	Pq-msi
-ima	Vmpr3s-n
-slovenski	Agpmsny
-ponudnik	Ncmsn
-sklenjeno	Appfsa
-pogodbo	Ncfsa
-o	Sl
-sodelovanju	Ncnsl
-.	Z
-Mobitel	Ncmsn
-recimo	Vmem1p
-ponuja	Vmpr3s
-za	Sa
-50	Mdc
-odstotkov	Ncmpg
-nižje	Agcfsg
-odhodne	Agpfsg
-klice	Ncfsg
-s	Sg
-Hrvaške	Npfsg
-med	Si
-17	Mdc
-.	Z
-in	Cc
-18	Mdc
-.	Z
-uro	Ncfsi
-ob	Sl
-izbiri	Ncfsl
-gostovanja	Ncnsg
-pri	Sl
-T	Ncmsn
--	Z
-Mobile	Npmsn
-oziroma	Cc
-Croatian	Npmsn
-Telecome	Npmsn
-,	Z
-Tušmobil	Npmsn
-pa	Cc
-desetodstotni	Agpmsay
-popust	Ncmsan
-za	Sa
-klice	Ncfpa
-,	Z
-SMS	Ncmsn
--	Z
-sporočila	Ncnpa
-,	Z
-MMS	Ncmsn
--	Z
-sporočila	Ncnpa
-in	Cc
-prenos	Ncmsan
-podatkov	Ncmpg
-preko	Sg
-Tele2	Npfsg
-.	Z
-Zato	Cc
-velja	Vmpr3s
-preveriti	Vmen
-za	Sa
-vsakega	Pg-msa
-operaterja	Ncmsay
-in	Cc
-vsako	Pg-fsa
-državo	Ncfsa
-posebej	Rgp
-.	Z
-SMS	Ncmsn
--	Z
-sporočilo	Ncnsa
-brez	Sg
-šumnikov	Ncmpg
-!	Z
-Zanimivo	Agpnsn
-je	Va-r3s-n
-tudi	Q
-,	Z
-da	Cs
-lahko	Rgp
-prihranite	Vmem2p
-z	Si
-izogibanjem	Ncnsi
-uporabe	Ncfsg
-šumnikov	Ncmpg
-v	Sl
-SMS	Ncmsn
--	Z
-sporočilih	Ncnpl
-.	Z
-"	Z
-Po	Sl
-GSM	Ncmsn
--	Z
-standardu	Ncmsl
-se	Px------y
-namreč	Cc
-za	Sa
-kodiranje	Ncnsa
-šumnika	Ncmsg
-v	Sl
-sporočilu	Ncnsl
-porabi	Vmer3s
-več	Rgc
-kot	Cs
-en	Mlpmsa
-znak	Ncmsan
-(	Z
-dejansko	Rgp
-se	Px------y
-pošlje	Vmer3s
-več	Rgc
-znakov	Ncmpg
-)	Z
-,	Z
-zato	Cc
-se	Px------y
-število	Ncnsn
-razpoložljivih	Agpmpg
-znakov	Ncmpg
-samodejno	Rgp
-zmanjša	Vmer3s
-,	Z
-"	Z
-pojasnjuje	Vmpr3s
-Ziherl	Npmsn
-.	Z
-"	Z
-Nekateri	Pi-mpn
-modeli	Ncmpn
-mobilnih	Agpmpg
-telefonov	Ncmpg
-imajo	Vmpr3p-n
-v	Sa
-ta	Pd-msa
-namen	Ncmsan
-na	Sa
-voljo	Ncfsa
-posebno	Agpfsa
-funkcijo	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-lahko	Rgp
-uporabo	Ncfsa
-šumnikov	Ncmpg
-omejijo	Vmer3p
-,	Z
-mnogi	Pi-mpn
-aparati	Ncmpn
-pa	Cc
-uporabnika	Ncmsay
-opozorijo	Vmer3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-sporočilo	Ncnsa
-poslano	Appnsn
-v	Sl
-obliki	Ncfsl
-več	Rgc
-SMS	Ncmsg
--	Z
-sporočil	Vmep-sm
-.	Z
-"	Z
-Posebni	Agpmpn
-paketi	Ncmpn
-Poleg	Sg
-naštetega	Appmsg
-ponujajo	Vmpr3p
-posamezni	Agpmpn
-operaterji	Ncmpn
-tudi	Q
-posebne	Agpmpa
-pakete	Ncmpa
-za	Sa
-klice	Ncfpa
-iz	Sg
-tujine	Ncfsg
-:	Z
-"	Z
-Ura	Ncfsn
-pogovorov	Ncmpg
-"	Z
-in	Cc
-"	Z
-100	Mdc
-sporočil	Ncnpg
-"	Z
-za	Sa
-uporabo	Ncfsa
-mobilnih	Agpfpg
-storitev	Ncfpg
-v	Sl
-EU	Npfsl
-pri	Sl
-Mobitelu	Npmsl
-ali	Cc
-"	Z
-Tujina	Npfsn
-30	Mdc
-"	Z
-in	Cc
-"	Z
-Tujina	Ncfsn
-SMS	Ncmsn
-"	Z
-pri	Sl
-Simobilu	Npmsl
-.	Z
-V	Sl
-določenih	Appmpl
-primerih	Ncmpl
-,	Z
-zlasti	Q
-če	Cs
-ste	Va-r2p-n
-v	Sl
-tujini	Ncfsl
-dalj	Rgc
-časa	Ncmsg
-ali	Cc
-pogosteje	Rgc
-,	Z
-se	Px------y
-morda	Q
-izplača	Vmbr3s
-tudi	Q
-uporaba	Ncfsn
-številke	Ncfsg
-tujega	Agpmsg
-operaterja	Ncmsg
-,	Z
-vendar	Cc
-morate	Vmpr2p
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-preveriti	Vmen
-,	Z
-ali	Rgp
-morda	Q
-nimate	Vmpr2p-y
-"	Z
-zaklenjenega	Appmsg
-"	Z
-mobilnika	Ncmsg
-.	Z
-operaterja	Ncmsg
-za	Sa
-posamezno	Agpfsa
-državo	Ncfsa
-,	Z
-ročno	Rgp
-izberite	Vmem2p
-tuje	Agpnsa
-omrežje	Ncnsa
-in	Cc
-ne	Q
-uporabljajte	Vmpm2p
-šumnikov	Ncmpg
-.	Z
-Najugodnejše	Agsfsg
-cene	Ncfsg
-gostovanja	Ncnsg
-v	Sl
-tujini	Ncfsl
-so	Va-r3p-n
-praviloma	Rgp
-v	Sl
-državah	Ncfpl
-na	Sl
-območju	Ncnsl
-Evropske	Agpfsg
-unije	Ncfsg
-(	Z
-EU	Npfsn
-)	Z
-,	Z
-kjer	Cs
-so	Va-r3p-n
-skladne	Agpfpn
-z	Si
-evropsko	Agpfsi
-direktivo	Ncfsi
-in	Cc
-imajo	Vmpr3p-n
-trend	Ncmsan
-nižanja	Ncnsg
-.	Z
-"	Z
-Preostale	Appfpn
-države	Ncfpn
-so	Va-r3p-n
-razporejene	Appfpn
-v	Sa
-drugo	Mlpnsa
-,	Z
-tretje	Mlonsa
-in	Cc
-četrto	Mlonsa
-območje	Ncnsa
-,	Z
-v	Sa
-peto	Mlonsa
-območje	Ncnsa
-pa	Cc
-je	Va-r3s-n
-uvrščeno	Appnsn
-gostovanje	Ncnsn
-prek	Sg
-satelitskih	Agpnpg
-omrežij	Ncnpg
-,	Z
-na	Sl
-letalih	Ncnpl
-in	Cc
-ladjah	Ncfpl
-,	Z
-"	Z
-pojasnjuje	Vmpr3s
-Boris	Npmsn
-Ziherl	Npmsn
-iz	Sg
-Telekoma	Npmsg
-.	Z
-"	Z
-V	Sa
-drugo	Mlpnsa
-območje	Ncnsa
-,	Z
-kjer	Cs
-so	Va-r3p-n
-cene	Ncfpn
-gostovanj	Ncnpg
-po	Sl
-ugodnosti	Ncfsl
-takoj	Rgp
-za	Sa
-evropsko	Agpfsa
-tarifo	Ncfsa
-,	Z
-je	Va-r3s-n
-umeščena	Appfsn
-Hrvaška	Npfsn
-.	Z
-"	Z
-Tušmobil	Npmsn
-je	Va-r3s-n
-pet	Mlc-pa
-mednarodnih	Agpnpg
-območij	Ncnpg
-skrčil	Vmep-sm
-na	Sa
-tri	Mlcfpa
-–	Z
-ločuje	Vmpr3s
-Svetovno	Agpfsa
-tarifo	Ncfsa
-s	Si
-136	Mdc
-državami	Ncfpi
-,	Z
-tarifo	Ncfsi
-Ostali	Appmsny
-svet	Ncmsn
-in	Cc
-Satelitske	Agpfpn
-destinacije	Ncfpn
-.	Z
-Eurotarifa	Npmsn
-Uporabniki	Ncmpn
-,	Z
-ki	Cs
-med	Si
-gostovanjem	Ncnsi
-pri	Sl
-mobilnih	Agpmpl
-operaterjih	Ncmpl
-v	Sl
-tujini	Ncfsl
-izberejo	Vmer3p
-evropsko	Agpfsa
-tarifo	Ncfsa
-,	Z
-bodo	Va-f3p-n
-za	Sa
-odhodne	Agpfpa
-klice	Ncfpa
-plačali	Vmep-pm
-največ	Rgs
-35	Mdc
-centov	Ncmpg
-,	Z
-za	Sa
-prejete	Appmpa
-pa	Cc
-11	Mdc
-centov	Ncmpg
-na	Sa
-minuto	Ncfsa
-(	Z
-brez	Sg
-DDV	Ncmsg
-)	Z
-.	Z
-Cena	Ncfsn
-za	Sa
-pošiljanje	Ncnsa
-kratkih	Agpfpg
-SMS	Ncfpg
--	Z
-sporočil	Vmep-sm
-je	Va-r3s-n
-omejena	Appfsn
-na	Sa
-11	Mdc
-centov	Ncmpg
-.	Z
-Pravila	Ncnsg
-EU	Npfsg
-o	Sl
-gostovanju	Ncnsl
-določajo	Vmpr3p
-tudi	Q
-omejitev	Ncfsa
-podatkovnega	Agpnsg
-gostovanja	Ncnsg
-v	Sl
-višini	Ncfsl
-50	Mdc
-evrov	Ncmpg
-(	Z
-brez	Sg
-DDV	Ncmsg
-)	Z
-,	Z
-če	Cs
-se	Px------y
-uporabnik	Ncmsn
-sam	Agpmsnn
-ne	Q
-odloči	Vmer3s
-za	Sa
-višji	Agcmsay
-ali	Cc
-nižji	Agcmsay
-znesek	Ncmsan
-.	Z
-Ko	Cs
-porabi	Vmer3s
-80	Mdc
-odstotkov	Ncmpg
-določenega	Appmsg
-zneska	Ncmsg
-,	Z
-ga	Pp3msa--y
-mora	Vmpr3s
-operater	Ncmsn
-opozoriti	Vmen
-,	Z
-ko	Cs
-je	Va-r3s-n
-dosežen	Appmsnn
-znesek	Ncmsn
-omejitve	Ncfsg
-,	Z
-pa	Cc
-prekiniti	Vmen
-mobilno	Agpfsa
-povezavo	Ncfsa
-z	Si
-medmrežjem	Ncnsi
-,	Z
-razen	Sg
-če	Cs
-uporabnik	Ncmsn
-ne	Q
-navede	Vmer3s
-,	Z
-da	Cs
-želi	Vmpr3s
-v	Sl
-določenem	Appmsl
-mesecu	Ncmsl
-še	Q
-naprej	Rgp
-podatkovno	Rgp
-gostovati	Vmpn
-.	Z
-Blokada	Ncfsn
-paketnega	Agpmsg
-prenosa	Ncmsg
-Omejitev	Ncfpg
-prenosa	Ncmsg
-podatkov	Ncmpg
-sicer	Q
-pri	Sl
-različnih	Agpmpl
-mobilnih	Agpmpl
-operaterjih	Ncmpl
-velja	Vmpr3s
-tudi	Q
-za	Sa
-druge	Mlpfpa
-države	Ncfpa
-izven	Sg
-EU	Npfsg
-.	Z
-Simobilov	Aspmsnn
-limit	Ncmsn
-za	Sa
-prenos	Ncmsan
-podatkov	Ncmpg
-na	Sl
-Hrvaškem	Npnsl
-recimo	Vmem1p
-znaša	Vmpr3s
-60	Mdc
-evrov	Ncmpg
-,	Z
-na	Sa
-enak	Pi-msa
-znesek	Ncmsan
-pa	Cc
-je	Va-r3s-n
-avtomatično	Rgp
-omejen	Appmsnn
-prenos	Ncmsn
-podatkov	Ncmpg
-v	Sl
-tujini	Ncfsl
-tudi	Q
-pri	Sl
-Mobitelu	Npmsl
-.	Z
-Če	Cs
-paketnega	Agpmsg
-prenosa	Ncmsg
-podatkov	Ncmpg
-v	Sl
-tujini	Ncfsl
-ne	Q
-potrebujete	Vmpr2p
-ali	Cc
-živite	Vmpr2p
-v	Sl
-bližini	Ncfsl
-državne	Agpfsg
-meje	Ncfsg
-,	Z
-kjer	Cs
-je	Va-r3s-n
-lahko	Rgp
-signal	Ncmsn
-omrežja	Ncnsg
-tujega	Agpmsg
-operaterja	Ncmsg
-precej	Rgp
-močan	Agpmsnn
-,	Z
-operaterji	Ncmpn
-svetujejo	Vmbr3p
-,	Z
-da	Cs
-vklopite	Vmem2p
-blokado	Ncfsa
-paketnega	Agpmsg
-prenosa	Ncmsg
-podatkov	Ncmpg
-.	Z
-Cenejša	Agcfsn
-ročna	Agpfsn
-izbira	Ncfsn
-operaterja	Ncmsg
-Cenejše	Agcnsa
-telefoniranje	Ncnsa
-omogoča	Vmpr3s
-tudi	Q
-ročna	Agpfsn
-izbira	Ncfsn
-tujega	Agpnsg
-omrežja	Ncnsg
-oziroma	Cc
-operaterja	Ncmsg
-,	Z
-s	Si
-katerim	Pq-msi
-ima	Vmpr3s-n
-slovenski	Agpmsny
-ponudnik	Ncmsn
-sklenjeno	Appfsa
-pogodbo	Ncfsa
-o	Sl
-sodelovanju	Ncnsl
-.	Z
-Mobitel	Ncmsn
-recimo	Vmem1p
-ponuja	Vmpr3s
-za	Sa
-50	Mdc
-odstotkov	Ncmpg
-nižje	Agcfsg
-odhodne	Agpfsg
-klice	Ncfsg
-s	Sg
-Hrvaške	Npfsg
-med	Si
-17	Mdc
-.	Z
-in	Cc
-18	Mdc
-.	Z
-uro	Ncfsi
-ob	Sl
-izbiri	Ncfsl
-gostovanja	Ncnsg
-pri	Sl
-T	Ncmsn
--	Z
-Mobile	Npmsn
-oziroma	Cc
-Croatian	Npmsn
-Telecome	Npmsn
-,	Z
-Tušmobil	Npmsn
-pa	Cc
-desetodstotni	Agpmsay
-popust	Ncmsan
-za	Sa
-klice	Ncfpa
-,	Z
-SMS	Ncmsn
--	Z
-sporočila	Ncnpa
-,	Z
-MMS	Ncmsn
--	Z
-sporočila	Ncnpa
-in	Cc
-prenos	Ncmsan
-podatkov	Ncmpg
-preko	Sg
-Tele2	Npfsg
-.	Z
-Zato	Cc
-velja	Vmpr3s
-preveriti	Vmen
-za	Sa
-vsakega	Pg-msa
-operaterja	Ncmsay
-in	Cc
-vsako	Pg-fsa
-državo	Ncfsa
-posebej	Rgp
-.	Z
-SMS	Ncmsn
--	Z
-sporočilo	Ncnsa
-brez	Sg
-šumnikov	Ncmpg
-!	Z
-Zanimivo	Agpnsn
-je	Va-r3s-n
-tudi	Q
-,	Z
-da	Cs
-lahko	Rgp
-prihranite	Vmem2p
-z	Si
-izogibanjem	Ncnsi
-uporabe	Ncfsg
-šumnikov	Ncmpg
-v	Sl
-SMS	Ncmsn
--	Z
-sporočilih	Ncnpl
-.	Z
-"	Z
-Po	Sl
-GSM	Ncmsn
--	Z
-standardu	Ncmsl
-se	Px------y
-namreč	Cc
-za	Sa
-kodiranje	Ncnsa
-šumnika	Ncmsg
-v	Sl
-sporočilu	Ncnsl
-porabi	Vmer3s
-več	Rgc
-kot	Cs
-en	Mlpmsa
-znak	Ncmsan
-(	Z
-dejansko	Rgp
-se	Px------y
-pošlje	Vmer3s
-več	Rgc
-znakov	Ncmpg
-)	Z
-,	Z
-zato	Cc
-se	Px------y
-število	Ncnsn
-razpoložljivih	Agpmpg
-znakov	Ncmpg
-samodejno	Rgp
-zmanjša	Vmer3s
-,	Z
-"	Z
-pojasnjuje	Vmpr3s
-Ziherl	Npmsn
-.	Z
-"	Z
-Nekateri	Pi-mpn
-modeli	Ncmpn
-mobilnih	Agpmpg
-telefonov	Ncmpg
-imajo	Vmpr3p-n
-v	Sa
-ta	Pd-msa
-namen	Ncmsan
-na	Sa
-voljo	Ncfsa
-posebno	Agpfsa
-funkcijo	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-lahko	Rgp
-uporabo	Ncfsa
-šumnikov	Ncmpg
-omejijo	Vmer3p
-,	Z
-mnogi	Pi-mpn
-aparati	Ncmpn
-pa	Cc
-uporabnika	Ncmsay
-opozorijo	Vmer3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-sporočilo	Ncnsa
-poslano	Appnsn
-v	Sl
-obliki	Ncfsl
-več	Rgc
-SMS	Ncmsg
--	Z
-sporočil	Vmep-sm
-.	Z
-"	Z
-Posebni	Agpmpn
-paketi	Ncmpn
-Poleg	Sg
-naštetega	Appmsg
-ponujajo	Vmpr3p
-posamezni	Agpmpn
-operaterji	Ncmpn
-tudi	Q
-posebne	Agpmpa
-pakete	Ncmpa
-za	Sa
-klice	Ncfpa
-iz	Sg
-tujine	Ncfsg
-:	Z
-"	Z
-Ura	Ncfsn
-pogovorov	Ncmpg
-"	Z
-in	Cc
-"	Z
-100	Mdc
-sporočil	Ncnpg
-"	Z
-za	Sa
-uporabo	Ncfsa
-mobilnih	Agpfpg
-storitev	Ncfpg
-v	Sl
-EU	Npfsl
-pri	Sl
-Mobitelu	Npmsl
-ali	Cc
-"	Z
-Tujina	Npfsn
-30	Mdc
-"	Z
-in	Cc
-"	Z
-Tujina	Npfsn
-SMS	Ncmsn
-"	Z
-pri	Sl
-Simobilu	Npmsl
-.	Z
+token	tag	lemma
+Za	mte:Sa	za
+cenejše	mte:Agcnsa	poceni
+telefoniranje	mte:Ncnsa	telefoniranje
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+:	mte:Z	:
+preverite	mte:Vmer2p	preveriti
+ponudbo	mte:Ncfsa	ponudba
+vašega	mte:Ps1nsgp	vaš
+Za	mte:Sa	za
+cenejše	mte:Agcnsa	poceni
+telefoniranje	mte:Ncnsa	telefoniranje
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+:	mte:Z	:
+preverite	mte:Vmem2p	preveriti
+ponudbo	mte:Ncfsa	ponudba
+vašega	mte:Ps1msgp	vaš
+operaterja	mte:Ncmsg	operater
+za	mte:Sa	za
+posamezno	mte:Agpfsa	posamezno
+državo	mte:Ncfsa	država
+,	mte:Z	,
+ročno	mte:Rgp	ročen
+izberite	mte:Vmem2p	izbrati
+tuje	mte:Agpnsa	tuj
+omrežje	mte:Ncnsa	omrežje
+in	mte:Cc	in
+ne	mte:Q	ne
+uporabljajte	mte:Vmpm2p	uporabljati
+šumnikov	mte:Ncmpg	šumnik
+.	mte:Z	.
+Najugodnejše	mte:Agsfsg	uspeden
+cene	mte:Ncfsg	cena
+gostovanja	mte:Ncnsg	gostovanje
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+so	mte:Va-r3p-n	biti
+praviloma	mte:Rgp	praviloma
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+(	mte:Z	(
+EU	mte:Npfsn	EU
+)	mte:Z	)
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+skladne	mte:Agpfpn	skladen
+z	mte:Si	z
+evropsko	mte:Agpfsi	evropski
+direktivo	mte:Ncfsi	direktiva
+in	mte:Cc	in
+imajo	mte:Vmpr3p-n	imeti
+trend	mte:Ncmsan	trend
+nižanja	mte:Ncnsg	nižanje
+.	mte:Z	.
+"	mte:Z	"
+Preostale	mte:Appfpn	preostal
+države	mte:Ncfpn	država
+so	mte:Va-r3p-n	biti
+razporejene	mte:Appfpn	razporejen
+v	mte:Sa	v
+drugo	mte:Mlpnsa	drug
+,	mte:Z	,
+tretje	mte:Mlonsa	tretji
+in	mte:Cc	in
+četrto	mte:Mlonsa	četrti
+območje	mte:Ncnsa	območje
+,	mte:Z	,
+v	mte:Sa	v
+peto	mte:Mlonsa	peti
+območje	mte:Ncnsa	območje
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+uvrščeno	mte:Appnsn	uvrščen
+gostovanje	mte:Ncnsn	gostovanje
+prek	mte:Sg	prek
+satelitskih	mte:Agpnpg	satelitski
+omrežij	mte:Ncnpg	omrežje
+,	mte:Z	,
+na	mte:Sl	na
+letalih	mte:Ncnpl	letalo
+in	mte:Cc	in
+ladjah	mte:Ncfpl	ladja
+,	mte:Z	,
+"	mte:Z	"
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+Boris	mte:Npmsn	Boris
+Ziherl	mte:Npmsn	Ziherl
+iz	mte:Sg	iz
+Telekoma	mte:Npmsg	Telekom
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sa	v
+drugo	mte:Mlpnsa	drug
+območje	mte:Ncnsa	območje
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+cene	mte:Ncfpn	cena
+gostovanj	mte:Ncnpg	gostovanje
+po	mte:Sl	po
+ugodnosti	mte:Ncfsl	ugodnost
+takoj	mte:Rgp	takoj
+za	mte:Sa	za
+evropsko	mte:Agpfsa	evropski
+tarifo	mte:Ncfsa	tarifa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+umeščena	mte:Appfsn	umeščen
+Hrvaška	mte:Npfsn	hrvaški
+.	mte:Z	.
+"	mte:Z	"
+Tušmobil	mte:Npmsn	Tušmobil
+je	mte:Va-r3s-n	biti
+pet	mte:Mlc-pa	pet
+mednarodnih	mte:Agpnpg	mednaroden
+območij	mte:Ncnpg	območje
+skrčil	mte:Vmep-sm	skrčiti
+na	mte:Sa	na
+tri	mte:Mlcfpa	trije
+–	mte:Z	–
+ločuje	mte:Vmpr3s	ločevati
+Svetovno	mte:Agpfsa	svetoven
+tarifo	mte:Ncfsa	tarifa
+s	mte:Si	z
+136	mte:Mdc	136
+državami	mte:Ncfpi	država
+,	mte:Z	,
+tarifo	mte:Ncfsi	tarifa
+Ostali	mte:Appmsny	ostal
+svet	mte:Ncmsn	svet
+in	mte:Cc	in
+Satelitske	mte:Agpfpn	satelitski
+destinacije	mte:Ncfpn	destinacija
+.	mte:Z	.
+Eurotarifa	mte:Npmsn	Eurotarifa
+Uporabniki	mte:Ncmpn	uporabnik
+,	mte:Z	,
+ki	mte:Cs	ki
+med	mte:Si	med
+gostovanjem	mte:Ncnsi	gostovanje
+pri	mte:Sl	pri
+mobilnih	mte:Agpmpl	mobilen
+operaterjih	mte:Ncmpl	operater
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+izberejo	mte:Vmer3p	izbrati
+evropsko	mte:Agpfsa	evropski
+tarifo	mte:Ncfsa	tarifa
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+za	mte:Sa	za
+odhodne	mte:Agpfpa	odhoden
+klice	mte:Ncfpa	klica
+plačali	mte:Vmep-pm	plačati
+največ	mte:Rgs	največ
+35	mte:Mdc	35
+centov	mte:Ncmpg	cent
+,	mte:Z	,
+za	mte:Sa	za
+prejete	mte:Appmpa	prejet
+pa	mte:Cc	pa
+11	mte:Mdc	11
+centov	mte:Ncmpg	cent
+na	mte:Sa	na
+minuto	mte:Ncfsa	minuta
+(	mte:Z	(
+brez	mte:Sg	brez
+DDV	mte:Ncmsg	DDV
+)	mte:Z	)
+.	mte:Z	.
+Cena	mte:Ncfsn	cena
+za	mte:Sa	za
+pošiljanje	mte:Ncnsa	pošiljanje
+kratkih	mte:Agpfpg	kratek
+SMS	mte:Ncfpg	SMS
+-	mte:Z	-
+sporočil	mte:Vmep-sm	sporočiti
+je	mte:Va-r3s-n	biti
+omejena	mte:Appfsn	omejen
+na	mte:Sa	na
+11	mte:Mdc	11
+centov	mte:Ncmpg	cent
+.	mte:Z	.
+Pravila	mte:Ncnsg	pravilo
+EU	mte:Npfsg	EU
+o	mte:Sl	o
+gostovanju	mte:Ncnsl	gostovanje
+določajo	mte:Vmpr3p	določati
+tudi	mte:Q	tudi
+omejitev	mte:Ncfsa	omejitev
+podatkovnega	mte:Agpnsg	podatkoven
+gostovanja	mte:Ncnsg	gostovanje
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+50	mte:Mdc	50
+evrov	mte:Ncmpg	evro
+(	mte:Z	(
+brez	mte:Sg	brez
+DDV	mte:Ncmsg	DDV
+)	mte:Z	)
+,	mte:Z	,
+če	mte:Cs	če
+se	mte:Px------y	se
+uporabnik	mte:Ncmsn	uporabnik
+sam	mte:Agpmsnn	sam
+ne	mte:Q	ne
+odloči	mte:Vmer3s	odločiti
+za	mte:Sa	za
+višji	mte:Agcmsay	visok
+ali	mte:Cc	ali
+nižji	mte:Agcmsay	nizek
+znesek	mte:Ncmsan	znesek
+.	mte:Z	.
+Ko	mte:Cs	ko
+porabi	mte:Vmer3s	poraba
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+določenega	mte:Appmsg	določen
+zneska	mte:Ncmsg	znesek
+,	mte:Z	,
+ga	mte:Pp3msa--y	on
+mora	mte:Vmpr3s	morati
+operater	mte:Ncmsn	operater
+opozoriti	mte:Vmen	opozoriti
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+dosežen	mte:Appmsnn	dosežen
+znesek	mte:Ncmsn	znesek
+omejitve	mte:Ncfsg	omejitev
+,	mte:Z	,
+pa	mte:Cc	pa
+prekiniti	mte:Vmen	prekiniti
+mobilno	mte:Agpfsa	mobilen
+povezavo	mte:Ncfsa	povezava
+z	mte:Si	z
+medmrežjem	mte:Ncnsi	medmrežje
+,	mte:Z	,
+razen	mte:Sg	razen
+če	mte:Cs	če
+uporabnik	mte:Ncmsn	uporabnik
+ne	mte:Q	ne
+navede	mte:Vmer3s	navesti
+,	mte:Z	,
+da	mte:Cs	da
+želi	mte:Vmpr3s	želeti
+v	mte:Sl	v
+določenem	mte:Appmsl	določen
+mesecu	mte:Ncmsl	mesec
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+podatkovno	mte:Rgp	podatkoven
+gostovati	mte:Vmpn	gostovati
+.	mte:Z	.
+Blokada	mte:Ncfsn	blokada
+paketnega	mte:Agpmsg	paketen
+prenosa	mte:Ncmsg	prenos
+Omejitev	mte:Ncfpg	omejitev
+prenosa	mte:Ncmsg	prenos
+podatkov	mte:Ncmpg	podatek
+sicer	mte:Q	sicer
+pri	mte:Sl	pri
+različnih	mte:Agpmpl	različen
+mobilnih	mte:Agpmpl	mobilen
+operaterjih	mte:Ncmpl	operater
+velja	mte:Vmpr3s	veljati
+tudi	mte:Q	tudi
+za	mte:Sa	za
+druge	mte:Mlpfpa	drug
+države	mte:Ncfpa	država
+izven	mte:Sg	izven
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Simobilov	mte:Aspmsnn	Simobilov
+limit	mte:Ncmsn	limita
+za	mte:Sa	za
+prenos	mte:Ncmsan	prenos
+podatkov	mte:Ncmpg	podatek
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+recimo	mte:Vmem1p	reči
+znaša	mte:Vmpr3s	znašati
+60	mte:Mdc	60
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+na	mte:Sa	na
+enak	mte:Pi-msa	enak
+znesek	mte:Ncmsan	znesek
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+avtomatično	mte:Rgp	avtomatično
+omejen	mte:Appmsnn	omejen
+prenos	mte:Ncmsn	prenos
+podatkov	mte:Ncmpg	podatek
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+Mobitelu	mte:Npmsl	Mobitel
+.	mte:Z	.
+Če	mte:Cs	če
+paketnega	mte:Agpmsg	paketen
+prenosa	mte:Ncmsg	prenos
+podatkov	mte:Ncmpg	podatek
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+ne	mte:Q	ne
+potrebujete	mte:Vmpr2p	potrebovati
+ali	mte:Cc	ali
+živite	mte:Vmpr2p	živeti
+v	mte:Sl	v
+bližini	mte:Ncfsl	bližina
+državne	mte:Agpfsg	državen
+meje	mte:Ncfsg	meja
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+lahko	mte:Rgp	lahko
+signal	mte:Ncmsn	signal
+omrežja	mte:Ncnsg	omrežje
+tujega	mte:Agpmsg	tuj
+operaterja	mte:Ncmsg	operater
+precej	mte:Rgp	precej
+močan	mte:Agpmsnn	močen
+,	mte:Z	,
+operaterji	mte:Ncmpn	operater
+svetujejo	mte:Vmbr3p	svetovati
+,	mte:Z	,
+da	mte:Cs	da
+vklopite	mte:Vmem2p	vklopiti
+blokado	mte:Ncfsa	blokada
+paketnega	mte:Agpmsg	paketen
+prenosa	mte:Ncmsg	prenos
+podatkov	mte:Ncmpg	podatek
+.	mte:Z	.
+Cenejša	mte:Agcfsn	poceni
+ročna	mte:Agpfsn	ročen
+izbira	mte:Ncfsn	izbira
+operaterja	mte:Ncmsg	operater
+Cenejše	mte:Agcnsa	poceni
+telefoniranje	mte:Ncnsa	telefoniranje
+omogoča	mte:Vmpr3s	omogočati
+tudi	mte:Q	tudi
+ročna	mte:Agpfsn	ročen
+izbira	mte:Ncfsn	izbira
+tujega	mte:Agpnsg	tuj
+omrežja	mte:Ncnsg	omrežje
+oziroma	mte:Cc	oziroma
+operaterja	mte:Ncmsg	operater
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+ima	mte:Vmpr3s-n	imeti
+slovenski	mte:Agpmsny	slovenski
+ponudnik	mte:Ncmsn	ponudnik
+sklenjeno	mte:Appfsa	sklenjen
+pogodbo	mte:Ncfsa	pogodba
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+.	mte:Z	.
+Mobitel	mte:Ncmsn	mobitel
+recimo	mte:Vmem1p	reči
+ponuja	mte:Vmpr3s	ponujati
+za	mte:Sa	za
+50	mte:Mdc	50
+odstotkov	mte:Ncmpg	odstotek
+nižje	mte:Agcfsg	nizek
+odhodne	mte:Agpfsg	odhoden
+klice	mte:Ncfsg	klica
+s	mte:Sg	z
+Hrvaške	mte:Npfsg	Hrvaška
+med	mte:Si	med
+17	mte:Mdc	17
+.	mte:Z	.
+in	mte:Cc	in
+18	mte:Mdc	18
+.	mte:Z	.
+uro	mte:Ncfsi	ura
+ob	mte:Sl	ob
+izbiri	mte:Ncfsl	izbira
+gostovanja	mte:Ncnsg	gostovanje
+pri	mte:Sl	pri
+T	mte:Ncmsn	T
+-	mte:Z	-
+Mobile	mte:Npmsn	Mobila
+oziroma	mte:Cc	oziroma
+Croatian	mte:Npmsn	Croatian
+Telecome	mte:Npmsn	Telecome
+,	mte:Z	,
+Tušmobil	mte:Npmsn	Tušmobil
+pa	mte:Cc	pa
+desetodstotni	mte:Agpmsay	desetodstoten
+popust	mte:Ncmsan	popust
+za	mte:Sa	za
+klice	mte:Ncfpa	klica
+,	mte:Z	,
+SMS	mte:Ncmsn	SMS
+-	mte:Z	-
+sporočila	mte:Ncnpa	sporočilo
+,	mte:Z	,
+MMS	mte:Ncmsn	MMS
+-	mte:Z	-
+sporočila	mte:Ncnpa	sporočilo
+in	mte:Cc	in
+prenos	mte:Ncmsan	prenos
+podatkov	mte:Ncmpg	podatek
+preko	mte:Sg	preko
+Tele2	mte:Npfsg	Tele2
+.	mte:Z	.
+Zato	mte:Cc	zato
+velja	mte:Vmpr3s	veljati
+preveriti	mte:Vmen	preveriti
+za	mte:Sa	za
+vsakega	mte:Pg-msa	vsak
+operaterja	mte:Ncmsay	operater
+in	mte:Cc	in
+vsako	mte:Pg-fsa	vsak
+državo	mte:Ncfsa	država
+posebej	mte:Rgp	posebej
+.	mte:Z	.
+SMS	mte:Ncmsn	SMS
+-	mte:Z	-
+sporočilo	mte:Ncnsa	sporočilo
+brez	mte:Sg	brez
+šumnikov	mte:Ncmpg	šumnik
+!	mte:Z	!
+Zanimivo	mte:Agpnsn	zanimiv
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+prihranite	mte:Vmem2p	prihraniti
+z	mte:Si	z
+izogibanjem	mte:Ncnsi	izogibanje
+uporabe	mte:Ncfsg	uporaba
+šumnikov	mte:Ncmpg	šumnik
+v	mte:Sl	v
+SMS	mte:Ncmsn	SMS
+-	mte:Z	-
+sporočilih	mte:Ncnpl	sporočilo
+.	mte:Z	.
+"	mte:Z	"
+Po	mte:Sl	po
+GSM	mte:Ncmsn	GSM
+-	mte:Z	-
+standardu	mte:Ncmsl	standard
+se	mte:Px------y	se
+namreč	mte:Cc	namreč
+za	mte:Sa	za
+kodiranje	mte:Ncnsa	kodiranje
+šumnika	mte:Ncmsg	šumnika
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+porabi	mte:Vmer3s	poraba
+več	mte:Rgc	več
+kot	mte:Cs	kot
+en	mte:Mlpmsa	en
+znak	mte:Ncmsan	znak
+(	mte:Z	(
+dejansko	mte:Rgp	dejansko
+se	mte:Px------y	se
+pošlje	mte:Vmer3s	poslati
+več	mte:Rgc	več
+znakov	mte:Ncmpg	znak
+)	mte:Z	)
+,	mte:Z	,
+zato	mte:Cc	zato
+se	mte:Px------y	se
+število	mte:Ncnsn	število
+razpoložljivih	mte:Agpmpg	razpoložljiv
+znakov	mte:Ncmpg	znak
+samodejno	mte:Rgp	samodejno
+zmanjša	mte:Vmer3s	zmanjšati
+,	mte:Z	,
+"	mte:Z	"
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+Ziherl	mte:Npmsn	Ziherl
+.	mte:Z	.
+"	mte:Z	"
+Nekateri	mte:Pi-mpn	nekateri
+modeli	mte:Ncmpn	model
+mobilnih	mte:Agpmpg	mobilen
+telefonov	mte:Ncmpg	telefon
+imajo	mte:Vmpr3p-n	imeti
+v	mte:Sa	v
+ta	mte:Pd-msa	ta
+namen	mte:Ncmsan	namen
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+posebno	mte:Agpfsa	poseben
+funkcijo	mte:Ncfsa	funkcija
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+lahko	mte:Rgp	lahko
+uporabo	mte:Ncfsa	uporaba
+šumnikov	mte:Ncmpg	šumnik
+omejijo	mte:Vmer3p	omejiti
+,	mte:Z	,
+mnogi	mte:Pi-mpn	mnog
+aparati	mte:Ncmpn	aparat
+pa	mte:Cc	pa
+uporabnika	mte:Ncmsay	uporabnik
+opozorijo	mte:Vmer3p	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+sporočilo	mte:Ncnsa	sporočilo
+poslano	mte:Appnsn	poslan
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+več	mte:Rgc	več
+SMS	mte:Ncmsg	SMS
+-	mte:Z	-
+sporočil	mte:Vmep-sm	sporočiti
+.	mte:Z	.
+"	mte:Z	"
+Posebni	mte:Agpmpn	poseben
+paketi	mte:Ncmpn	paket
+Poleg	mte:Sg	poleg
+naštetega	mte:Appmsg	naštet
+ponujajo	mte:Vmpr3p	ponujati
+posamezni	mte:Agpmpn	posamezen
+operaterji	mte:Ncmpn	operater
+tudi	mte:Q	tudi
+posebne	mte:Agpmpa	poseben
+pakete	mte:Ncmpa	paket
+za	mte:Sa	za
+klice	mte:Ncfpa	klica
+iz	mte:Sg	iz
+tujine	mte:Ncfsg	tujina
+:	mte:Z	:
+"	mte:Z	"
+Ura	mte:Ncfsn	ura
+pogovorov	mte:Ncmpg	pogovor
+"	mte:Z	"
+in	mte:Cc	in
+"	mte:Z	"
+100	mte:Mdc	100
+sporočil	mte:Ncnpg	sporočilo
+"	mte:Z	"
+za	mte:Sa	za
+uporabo	mte:Ncfsa	uporaba
+mobilnih	mte:Agpfpg	mobilen
+storitev	mte:Ncfpg	storitev
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+pri	mte:Sl	pri
+Mobitelu	mte:Npmsl	Mobitel
+ali	mte:Cc	ali
+"	mte:Z	"
+Tujina	mte:Npfsn	Tujin
+30	mte:Mdc	30
+"	mte:Z	"
+in	mte:Cc	in
+"	mte:Z	"
+Tujina	mte:Ncfsn	tujina
+SMS	mte:Ncmsn	SMS
+"	mte:Z	"
+pri	mte:Sl	pri
+Simobilu	mte:Npmsl	Simobil
+.	mte:Z	.
+V	mte:Sl	v
+določenih	mte:Appmpl	določen
+primerih	mte:Ncmpl	primer
+,	mte:Z	,
+zlasti	mte:Q	zlasti
+če	mte:Cs	če
+ste	mte:Va-r2p-n	biti
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+dalj	mte:Rgc	dolgo
+časa	mte:Ncmsg	čas
+ali	mte:Cc	ali
+pogosteje	mte:Rgc	pogosto
+,	mte:Z	,
+se	mte:Px------y	se
+morda	mte:Q	morda
+izplača	mte:Vmbr3s	izplačati
+tudi	mte:Q	tudi
+uporaba	mte:Ncfsn	uporaba
+številke	mte:Ncfsg	številka
+tujega	mte:Agpmsg	tuj
+operaterja	mte:Ncmsg	operater
+,	mte:Z	,
+vendar	mte:Cc	vendar
+morate	mte:Vmpr2p	morati
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+preveriti	mte:Vmen	preveriti
+,	mte:Z	,
+ali	mte:Rgp	ali
+morda	mte:Q	morda
+nimate	mte:Vmpr2p-y	imeti
+"	mte:Z	"
+zaklenjenega	mte:Appmsg	zaklenjen
+"	mte:Z	"
+mobilnika	mte:Ncmsg	mobilnik
+.	mte:Z	.
+operaterja	mte:Ncmsg	operater
+za	mte:Sa	za
+posamezno	mte:Agpfsa	posamezno
+državo	mte:Ncfsa	država
+,	mte:Z	,
+ročno	mte:Rgp	ročen
+izberite	mte:Vmem2p	izbrati
+tuje	mte:Agpnsa	tuj
+omrežje	mte:Ncnsa	omrežje
+in	mte:Cc	in
+ne	mte:Q	ne
+uporabljajte	mte:Vmpm2p	uporabljati
+šumnikov	mte:Ncmpg	šumnik
+.	mte:Z	.
+Najugodnejše	mte:Agsfsg	uspeden
+cene	mte:Ncfsg	cena
+gostovanja	mte:Ncnsg	gostovanje
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+so	mte:Va-r3p-n	biti
+praviloma	mte:Rgp	praviloma
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+(	mte:Z	(
+EU	mte:Npfsn	EU
+)	mte:Z	)
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+skladne	mte:Agpfpn	skladen
+z	mte:Si	z
+evropsko	mte:Agpfsi	evropski
+direktivo	mte:Ncfsi	direktiva
+in	mte:Cc	in
+imajo	mte:Vmpr3p-n	imeti
+trend	mte:Ncmsan	trend
+nižanja	mte:Ncnsg	nižanje
+.	mte:Z	.
+"	mte:Z	"
+Preostale	mte:Appfpn	preostal
+države	mte:Ncfpn	država
+so	mte:Va-r3p-n	biti
+razporejene	mte:Appfpn	razporejen
+v	mte:Sa	v
+drugo	mte:Mlpnsa	drug
+,	mte:Z	,
+tretje	mte:Mlonsa	tretji
+in	mte:Cc	in
+četrto	mte:Mlonsa	četrti
+območje	mte:Ncnsa	območje
+,	mte:Z	,
+v	mte:Sa	v
+peto	mte:Mlonsa	peti
+območje	mte:Ncnsa	območje
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+uvrščeno	mte:Appnsn	uvrščen
+gostovanje	mte:Ncnsn	gostovanje
+prek	mte:Sg	prek
+satelitskih	mte:Agpnpg	satelitski
+omrežij	mte:Ncnpg	omrežje
+,	mte:Z	,
+na	mte:Sl	na
+letalih	mte:Ncnpl	letalo
+in	mte:Cc	in
+ladjah	mte:Ncfpl	ladja
+,	mte:Z	,
+"	mte:Z	"
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+Boris	mte:Npmsn	Boris
+Ziherl	mte:Npmsn	Ziherl
+iz	mte:Sg	iz
+Telekoma	mte:Npmsg	Telekom
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sa	v
+drugo	mte:Mlpnsa	drug
+območje	mte:Ncnsa	območje
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+cene	mte:Ncfpn	cena
+gostovanj	mte:Ncnpg	gostovanje
+po	mte:Sl	po
+ugodnosti	mte:Ncfsl	ugodnost
+takoj	mte:Rgp	takoj
+za	mte:Sa	za
+evropsko	mte:Agpfsa	evropski
+tarifo	mte:Ncfsa	tarifa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+umeščena	mte:Appfsn	umeščen
+Hrvaška	mte:Npfsn	hrvaški
+.	mte:Z	.
+"	mte:Z	"
+Tušmobil	mte:Npmsn	Tušmobil
+je	mte:Va-r3s-n	biti
+pet	mte:Mlc-pa	pet
+mednarodnih	mte:Agpnpg	mednaroden
+območij	mte:Ncnpg	območje
+skrčil	mte:Vmep-sm	skrčiti
+na	mte:Sa	na
+tri	mte:Mlcfpa	trije
+–	mte:Z	–
+ločuje	mte:Vmpr3s	ločevati
+Svetovno	mte:Agpfsa	svetoven
+tarifo	mte:Ncfsa	tarifa
+s	mte:Si	z
+136	mte:Mdc	136
+državami	mte:Ncfpi	država
+,	mte:Z	,
+tarifo	mte:Ncfsi	tarifa
+Ostali	mte:Appmsny	ostal
+svet	mte:Ncmsn	svet
+in	mte:Cc	in
+Satelitske	mte:Agpfpn	satelitski
+destinacije	mte:Ncfpn	destinacija
+.	mte:Z	.
+Eurotarifa	mte:Npmsn	Eurotarifa
+Uporabniki	mte:Ncmpn	uporabnik
+,	mte:Z	,
+ki	mte:Cs	ki
+med	mte:Si	med
+gostovanjem	mte:Ncnsi	gostovanje
+pri	mte:Sl	pri
+mobilnih	mte:Agpmpl	mobilen
+operaterjih	mte:Ncmpl	operater
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+izberejo	mte:Vmer3p	izbrati
+evropsko	mte:Agpfsa	evropski
+tarifo	mte:Ncfsa	tarifa
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+za	mte:Sa	za
+odhodne	mte:Agpfpa	odhoden
+klice	mte:Ncfpa	klica
+plačali	mte:Vmep-pm	plačati
+največ	mte:Rgs	največ
+35	mte:Mdc	35
+centov	mte:Ncmpg	cent
+,	mte:Z	,
+za	mte:Sa	za
+prejete	mte:Appmpa	prejet
+pa	mte:Cc	pa
+11	mte:Mdc	11
+centov	mte:Ncmpg	cent
+na	mte:Sa	na
+minuto	mte:Ncfsa	minuta
+(	mte:Z	(
+brez	mte:Sg	brez
+DDV	mte:Ncmsg	DDV
+)	mte:Z	)
+.	mte:Z	.
+Cena	mte:Ncfsn	cena
+za	mte:Sa	za
+pošiljanje	mte:Ncnsa	pošiljanje
+kratkih	mte:Agpfpg	kratek
+SMS	mte:Ncfpg	SMS
+-	mte:Z	-
+sporočil	mte:Vmep-sm	sporočiti
+je	mte:Va-r3s-n	biti
+omejena	mte:Appfsn	omejen
+na	mte:Sa	na
+11	mte:Mdc	11
+centov	mte:Ncmpg	cent
+.	mte:Z	.
+Pravila	mte:Ncnsg	pravilo
+EU	mte:Npfsg	EU
+o	mte:Sl	o
+gostovanju	mte:Ncnsl	gostovanje
+določajo	mte:Vmpr3p	določati
+tudi	mte:Q	tudi
+omejitev	mte:Ncfsa	omejitev
+podatkovnega	mte:Agpnsg	podatkoven
+gostovanja	mte:Ncnsg	gostovanje
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+50	mte:Mdc	50
+evrov	mte:Ncmpg	evro
+(	mte:Z	(
+brez	mte:Sg	brez
+DDV	mte:Ncmsg	DDV
+)	mte:Z	)
+,	mte:Z	,
+če	mte:Cs	če
+se	mte:Px------y	se
+uporabnik	mte:Ncmsn	uporabnik
+sam	mte:Agpmsnn	sam
+ne	mte:Q	ne
+odloči	mte:Vmer3s	odločiti
+za	mte:Sa	za
+višji	mte:Agcmsay	visok
+ali	mte:Cc	ali
+nižji	mte:Agcmsay	nizek
+znesek	mte:Ncmsan	znesek
+.	mte:Z	.
+Ko	mte:Cs	ko
+porabi	mte:Vmer3s	poraba
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+določenega	mte:Appmsg	določen
+zneska	mte:Ncmsg	znesek
+,	mte:Z	,
+ga	mte:Pp3msa--y	on
+mora	mte:Vmpr3s	morati
+operater	mte:Ncmsn	operater
+opozoriti	mte:Vmen	opozoriti
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+dosežen	mte:Appmsnn	dosežen
+znesek	mte:Ncmsn	znesek
+omejitve	mte:Ncfsg	omejitev
+,	mte:Z	,
+pa	mte:Cc	pa
+prekiniti	mte:Vmen	prekiniti
+mobilno	mte:Agpfsa	mobilen
+povezavo	mte:Ncfsa	povezava
+z	mte:Si	z
+medmrežjem	mte:Ncnsi	medmrežje
+,	mte:Z	,
+razen	mte:Sg	razen
+če	mte:Cs	če
+uporabnik	mte:Ncmsn	uporabnik
+ne	mte:Q	ne
+navede	mte:Vmer3s	navesti
+,	mte:Z	,
+da	mte:Cs	da
+želi	mte:Vmpr3s	želeti
+v	mte:Sl	v
+določenem	mte:Appmsl	določen
+mesecu	mte:Ncmsl	mesec
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+podatkovno	mte:Rgp	podatkoven
+gostovati	mte:Vmpn	gostovati
+.	mte:Z	.
+Blokada	mte:Ncfsn	blokada
+paketnega	mte:Agpmsg	paketen
+prenosa	mte:Ncmsg	prenos
+Omejitev	mte:Ncfpg	omejitev
+prenosa	mte:Ncmsg	prenos
+podatkov	mte:Ncmpg	podatek
+sicer	mte:Q	sicer
+pri	mte:Sl	pri
+različnih	mte:Agpmpl	različen
+mobilnih	mte:Agpmpl	mobilen
+operaterjih	mte:Ncmpl	operater
+velja	mte:Vmpr3s	veljati
+tudi	mte:Q	tudi
+za	mte:Sa	za
+druge	mte:Mlpfpa	drug
+države	mte:Ncfpa	država
+izven	mte:Sg	izven
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Simobilov	mte:Aspmsnn	Simobilov
+limit	mte:Ncmsn	limita
+za	mte:Sa	za
+prenos	mte:Ncmsan	prenos
+podatkov	mte:Ncmpg	podatek
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+recimo	mte:Vmem1p	reči
+znaša	mte:Vmpr3s	znašati
+60	mte:Mdc	60
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+na	mte:Sa	na
+enak	mte:Pi-msa	enak
+znesek	mte:Ncmsan	znesek
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+avtomatično	mte:Rgp	avtomatično
+omejen	mte:Appmsnn	omejen
+prenos	mte:Ncmsn	prenos
+podatkov	mte:Ncmpg	podatek
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+Mobitelu	mte:Npmsl	Mobitel
+.	mte:Z	.
+Če	mte:Cs	če
+paketnega	mte:Agpmsg	paketen
+prenosa	mte:Ncmsg	prenos
+podatkov	mte:Ncmpg	podatek
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+ne	mte:Q	ne
+potrebujete	mte:Vmpr2p	potrebovati
+ali	mte:Cc	ali
+živite	mte:Vmpr2p	živeti
+v	mte:Sl	v
+bližini	mte:Ncfsl	bližina
+državne	mte:Agpfsg	državen
+meje	mte:Ncfsg	meja
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+lahko	mte:Rgp	lahko
+signal	mte:Ncmsn	signal
+omrežja	mte:Ncnsg	omrežje
+tujega	mte:Agpmsg	tuj
+operaterja	mte:Ncmsg	operater
+precej	mte:Rgp	precej
+močan	mte:Agpmsnn	močen
+,	mte:Z	,
+operaterji	mte:Ncmpn	operater
+svetujejo	mte:Vmbr3p	svetovati
+,	mte:Z	,
+da	mte:Cs	da
+vklopite	mte:Vmem2p	vklopiti
+blokado	mte:Ncfsa	blokada
+paketnega	mte:Agpmsg	paketen
+prenosa	mte:Ncmsg	prenos
+podatkov	mte:Ncmpg	podatek
+.	mte:Z	.
+Cenejša	mte:Agcfsn	poceni
+ročna	mte:Agpfsn	ročen
+izbira	mte:Ncfsn	izbira
+operaterja	mte:Ncmsg	operater
+Cenejše	mte:Agcnsa	poceni
+telefoniranje	mte:Ncnsa	telefoniranje
+omogoča	mte:Vmpr3s	omogočati
+tudi	mte:Q	tudi
+ročna	mte:Agpfsn	ročen
+izbira	mte:Ncfsn	izbira
+tujega	mte:Agpnsg	tuj
+omrežja	mte:Ncnsg	omrežje
+oziroma	mte:Cc	oziroma
+operaterja	mte:Ncmsg	operater
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+ima	mte:Vmpr3s-n	imeti
+slovenski	mte:Agpmsny	slovenski
+ponudnik	mte:Ncmsn	ponudnik
+sklenjeno	mte:Appfsa	sklenjen
+pogodbo	mte:Ncfsa	pogodba
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+.	mte:Z	.
+Mobitel	mte:Ncmsn	mobitel
+recimo	mte:Vmem1p	reči
+ponuja	mte:Vmpr3s	ponujati
+za	mte:Sa	za
+50	mte:Mdc	50
+odstotkov	mte:Ncmpg	odstotek
+nižje	mte:Agcfsg	nizek
+odhodne	mte:Agpfsg	odhoden
+klice	mte:Ncfsg	klica
+s	mte:Sg	z
+Hrvaške	mte:Npfsg	Hrvaška
+med	mte:Si	med
+17	mte:Mdc	17
+.	mte:Z	.
+in	mte:Cc	in
+18	mte:Mdc	18
+.	mte:Z	.
+uro	mte:Ncfsi	ura
+ob	mte:Sl	ob
+izbiri	mte:Ncfsl	izbira
+gostovanja	mte:Ncnsg	gostovanje
+pri	mte:Sl	pri
+T	mte:Ncmsn	T
+-	mte:Z	-
+Mobile	mte:Npmsn	Mobila
+oziroma	mte:Cc	oziroma
+Croatian	mte:Npmsn	Croatian
+Telecome	mte:Npmsn	Telecome
+,	mte:Z	,
+Tušmobil	mte:Npmsn	Tušmobil
+pa	mte:Cc	pa
+desetodstotni	mte:Agpmsay	desetodstoten
+popust	mte:Ncmsan	popust
+za	mte:Sa	za
+klice	mte:Ncfpa	klica
+,	mte:Z	,
+SMS	mte:Ncmsn	SMS
+-	mte:Z	-
+sporočila	mte:Ncnpa	sporočilo
+,	mte:Z	,
+MMS	mte:Ncmsn	MMS
+-	mte:Z	-
+sporočila	mte:Ncnpa	sporočilo
+in	mte:Cc	in
+prenos	mte:Ncmsan	prenos
+podatkov	mte:Ncmpg	podatek
+preko	mte:Sg	preko
+Tele2	mte:Npfsg	Tele2
+.	mte:Z	.
+Zato	mte:Cc	zato
+velja	mte:Vmpr3s	veljati
+preveriti	mte:Vmen	preveriti
+za	mte:Sa	za
+vsakega	mte:Pg-msa	vsak
+operaterja	mte:Ncmsay	operater
+in	mte:Cc	in
+vsako	mte:Pg-fsa	vsak
+državo	mte:Ncfsa	država
+posebej	mte:Rgp	posebej
+.	mte:Z	.
+SMS	mte:Ncmsn	SMS
+-	mte:Z	-
+sporočilo	mte:Ncnsa	sporočilo
+brez	mte:Sg	brez
+šumnikov	mte:Ncmpg	šumnik
+!	mte:Z	!
+Zanimivo	mte:Agpnsn	zanimiv
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+prihranite	mte:Vmem2p	prihraniti
+z	mte:Si	z
+izogibanjem	mte:Ncnsi	izogibanje
+uporabe	mte:Ncfsg	uporaba
+šumnikov	mte:Ncmpg	šumnik
+v	mte:Sl	v
+SMS	mte:Ncmsn	SMS
+-	mte:Z	-
+sporočilih	mte:Ncnpl	sporočilo
+.	mte:Z	.
+"	mte:Z	"
+Po	mte:Sl	po
+GSM	mte:Ncmsn	GSM
+-	mte:Z	-
+standardu	mte:Ncmsl	standard
+se	mte:Px------y	se
+namreč	mte:Cc	namreč
+za	mte:Sa	za
+kodiranje	mte:Ncnsa	kodiranje
+šumnika	mte:Ncmsg	šumnika
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+porabi	mte:Vmer3s	poraba
+več	mte:Rgc	več
+kot	mte:Cs	kot
+en	mte:Mlpmsa	en
+znak	mte:Ncmsan	znak
+(	mte:Z	(
+dejansko	mte:Rgp	dejansko
+se	mte:Px------y	se
+pošlje	mte:Vmer3s	poslati
+več	mte:Rgc	več
+znakov	mte:Ncmpg	znak
+)	mte:Z	)
+,	mte:Z	,
+zato	mte:Cc	zato
+se	mte:Px------y	se
+število	mte:Ncnsn	število
+razpoložljivih	mte:Agpmpg	razpoložljiv
+znakov	mte:Ncmpg	znak
+samodejno	mte:Rgp	samodejno
+zmanjša	mte:Vmer3s	zmanjšati
+,	mte:Z	,
+"	mte:Z	"
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+Ziherl	mte:Npmsn	Ziherl
+.	mte:Z	.
+"	mte:Z	"
+Nekateri	mte:Pi-mpn	nekateri
+modeli	mte:Ncmpn	model
+mobilnih	mte:Agpmpg	mobilen
+telefonov	mte:Ncmpg	telefon
+imajo	mte:Vmpr3p-n	imeti
+v	mte:Sa	v
+ta	mte:Pd-msa	ta
+namen	mte:Ncmsan	namen
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+posebno	mte:Agpfsa	poseben
+funkcijo	mte:Ncfsa	funkcija
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+lahko	mte:Rgp	lahko
+uporabo	mte:Ncfsa	uporaba
+šumnikov	mte:Ncmpg	šumnik
+omejijo	mte:Vmer3p	omejiti
+,	mte:Z	,
+mnogi	mte:Pi-mpn	mnog
+aparati	mte:Ncmpn	aparat
+pa	mte:Cc	pa
+uporabnika	mte:Ncmsay	uporabnik
+opozorijo	mte:Vmer3p	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+sporočilo	mte:Ncnsa	sporočilo
+poslano	mte:Appnsn	poslan
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+več	mte:Rgc	več
+SMS	mte:Ncmsg	SMS
+-	mte:Z	-
+sporočil	mte:Vmep-sm	sporočiti
+.	mte:Z	.
+"	mte:Z	"
+Posebni	mte:Agpmpn	poseben
+paketi	mte:Ncmpn	paket
+Poleg	mte:Sg	poleg
+naštetega	mte:Appmsg	naštet
+ponujajo	mte:Vmpr3p	ponujati
+posamezni	mte:Agpmpn	posamezen
+operaterji	mte:Ncmpn	operater
+tudi	mte:Q	tudi
+posebne	mte:Agpmpa	poseben
+pakete	mte:Ncmpa	paket
+za	mte:Sa	za
+klice	mte:Ncfpa	klica
+iz	mte:Sg	iz
+tujine	mte:Ncfsg	tujina
+:	mte:Z	:
+"	mte:Z	"
+Ura	mte:Ncfsn	ura
+pogovorov	mte:Ncmpg	pogovor
+"	mte:Z	"
+in	mte:Cc	in
+"	mte:Z	"
+100	mte:Mdc	100
+sporočil	mte:Ncnpg	sporočilo
+"	mte:Z	"
+za	mte:Sa	za
+uporabo	mte:Ncfsa	uporaba
+mobilnih	mte:Agpfpg	mobilen
+storitev	mte:Ncfpg	storitev
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+pri	mte:Sl	pri
+Mobitelu	mte:Npmsl	Mobitel
+ali	mte:Cc	ali
+"	mte:Z	"
+Tujina	mte:Npfsn	Tujin
+30	mte:Mdc	30
+"	mte:Z	"
+in	mte:Cc	in
+"	mte:Z	"
+Tujina	mte:Ncfsn	tujina
+SMS	mte:Ncmsn	SMS
+"	mte:Z	"
+pri	mte:Sl	pri
+Simobilu	mte:Npmsl	Simobil
+.	mte:Z	.
+V	mte:Sl	v
+določenih	mte:Appmpl	določen
+primerih	mte:Ncmpl	primer
+,	mte:Z	,
+zlasti	mte:Q	zlasti
+če	mte:Cs	če
+ste	mte:Va-r2p-n	biti
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+dalj	mte:Rgc	dolgo
+časa	mte:Ncmsg	čas
+ali	mte:Cc	ali
+pogosteje	mte:Rgc	pogosto
+,	mte:Z	,
+se	mte:Px------y	se
+morda	mte:Q	morda
+izplača	mte:Vmbr3s	izplačati
+tudi	mte:Q	tudi
+uporaba	mte:Ncfsn	uporaba
+številke	mte:Ncfsg	številka
+tujega	mte:Agpmsg	tuj
+operaterja	mte:Ncmsg	operater
+,	mte:Z	,
+vendar	mte:Cc	vendar
+morate	mte:Vmpr2p	morati
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+preveriti	mte:Vmen	preveriti
+,	mte:Z	,
+ali	mte:Rgp	ali
+morda	mte:Q	morda
+nimate	mte:Vmpr2p-y	imeti
+"	mte:Z	"
+zakljenjenega	mte:Appmsg	zakljenjen
+"	mte:Z	"
+mobilnika	mte:Ncmsg	mobilnik

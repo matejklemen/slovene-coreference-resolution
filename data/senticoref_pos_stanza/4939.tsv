@@ -1,365 +1,394 @@
-token	tag
-V	Sl
-Nemčiji	Npfsl
-je	Va-r3s-n
-zaprtih	Appnpg
-vseh	Pg-npg
-16	Mdc
-mednarodnih	Agpnpg
-letališč	Ncnpg
-,	Z
-znova	Rgp
-pa	Cc
-je	Va-r3s-n
-zaprt	Appmsnn
-zračni	Agpmsny
-prostor	Ncmsn
-nad	Si
-Veliko	Agpfsi
-Britanijo	Npfsi
-.	Z
-Večino	Ncfsa
-poletov	Ncmpg
-v	Sa
-Evropo	Npfsa
-so	Va-r3p-n
-že	Q
-v	Sa
-petek	Ncmsan
-odpovedale	Vmep-pf
-ameriške	Agpfpn
-letalske	Agpfpn
-družbe	Ncfpn
-.	Z
-Zaradi	Sg
-oblaka	Ncmsg
-vulkanskega	Agpmsg
-pepela	Ncmsg
-je	Va-r3s-n
-tudi	Q
-danes	Rgp
-zaprt	Appmsnn
-večji	Agcmsny
-del	Ncmsn
-zračnega	Agpmsg
-prostora	Ncmsg
-nad	Si
-Evropo	Npfsi
-.	Z
-Po	Sl
-oceni	Ncfsl
-evropske	Agpfsg
-organizacije	Ncfsg
-za	Sa
-varnost	Ncfsa
-letalskega	Agpmsg
-prometa	Ncmsg
-Eurocontrol	Npmsn
-je	Va-r3s-n
-težave	Ncfpa
-v	Sl
-letalskem	Agpmsl
-prometu	Ncmsl
-pričakovati	Vmpn
-tako	Rgp
-danes	Rgp
-kot	Cs
-tudi	Q
-še	Q
-nekaj	Rgp
-prihodnjih	Agpmpg
-dni	Ncmpg
-.	Z
-Po	Sl
-navedbah	Ncfpl
-Eurocontrola	Npmsg
-se	Px------y
-sicer	Q
-oblak	Ncmsn
-prahu	Ncmsg
-pomika	Vmbr3s
-proti	Sd
-jugovzhodu	Ncmsd
-oziroma	Cc
-jugu	Ncmsd
-.	Z
-V	Sl
-Nemčiji	Npfsl
-so	Va-r3p-n
-zaporo	Ncfsa
-zračnega	Agpmsg
-prostora	Ncmsg
-podaljšali	Vmep-pm
-do	Sg
-danes	Rgp
-do	Sg
-14	Mdc
-.	Z
-ure	Ncfsg
-,	Z
-zaprtih	Appmpg
-pa	Cc
-je	Va-r3s-n
-vseh	Pg-npg
-16	Mdc
-mednarodnih	Agpnpg
-letališč	Ncnpg
-v	Sl
-državi	Ncfsl
-.	Z
-Ponovno	Rgp
-zaprt	Appmsnn
-zračni	Agpmsny
-prostor	Ncmsn
-nad	Si
-Veliko	Agpfsi
-Britanijo	Npfsi
-.	Z
-.	Z
-Zjutraj	Rgp
-so	Va-r3p-n
-ponovno	Rgp
-zaprli	Vmep-pm
-celoten	Agpmsan
-zračni	Agpmsay
-prostor	Ncmsan
-nad	Si
-Veliko	Agpfsi
-Britanijo	Npfsi
-,	Z
-potem	Rgp
-ko	Cs
-so	Va-r3p-n
-pred	Si
-tem	Pd-nsi
-že	Q
-odpravili	Vmep-pm
-nekaj	Rgp
-omejitev	Ncfpg
-.	Z
-Enako	Rgp
-velja	Vmpr3s
-za	Sa
-Irsko	Npfsa
-,	Z
-kjer	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-v	Sa
-petek	Ncmsan
-del	Ncmsn
-zračnega	Agpmsg
-prostora	Ncmsg
-že	Q
-odprt	Appmsnn
-.	Z
-Do	Sg
-14	Mdc
-.	Z
-ure	Ncfsg
-je	Va-r3s-n
-zaprt	Appmsnn
-zračni	Agpmsny
-prostor	Ncmsn
-nad	Si
-Dansko	Npfsi
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-na	Sl
-Finskem	Npnsl
-vse	Pg-mpa
-polete	Ncmpa
-odpovedali	Vmep-pm
-do	Sg
-nedelje	Ncfsg
-do	Sg
-14	Mdc
-.	Z
-ure	Ncfsg
-po	Sl
-srednjeevropskem	Agpmsl
-času	Ncmsl
-.	Z
-Na	Sl
-Švedskem	Npnsl
-so	Va-r3p-n
-zjutraj	Rgp
-odprli	Vmep-pm
-zračni	Agpmsay
-prostor	Ncmsan
-nad	Si
-severnim	Agpmsi
-delom	Ncnsi
-države	Ncfsg
-,	Z
-medtem	Rgp
-ko	Cs
-drugod	Rgp
-ostaja	Vmpr3s
-zaprt	Appmsnn
-.	Z
-Do	Sg
-14	Mdc
-.	Z
-ure	Ncfsg
-je	Va-r3s-n
-zaprt	Appmsnn
-tudi	Q
-zračni	Agpmsny
-prostor	Ncmsn
-nad	Si
-severno	Agpfsi
-Italijo	Npfsi
-ter	Cc
-vsa	Pg-npa
-tri	Mlcnpa
-pariška	Agpnpn
-letališča	Ncnpa
-in	Cc
-še	Q
-11	Mdc
-drugih	Mlpmpg
-v	Sl
-Franciji.V	Mdc
-Belgiji	Npfsl
-in	Cc
-Švici	Npfsl
-bo	Va-f3s-n
-zapora	Ncfsn
-zračnega	Agpmsg
-prostora	Ncmsg
-trajala	Vmpp-sf
-do	Sg
-danes	Rgp
-do	Sg
-20	Mdc
-.	Z
-ure	Ncfsg
-,	Z
-na	Sl
-Nizozemskem	Agpnsl
-pa	Cc
-vsaj	Q
-do	Sg
-14	Mdc
-.	Z
-ure	Ncfsg
-.	Z
-.	Z
-.	Z
-in	Cc
-tudi	Q
-baltskimi	Agpfpi
-državami	Ncfpi
-Popolnoma	Rgp
-je	Va-r3s-n
-zaprt	Appmsnn
-zračni	Agpmsny
-prostor	Ncmsn
-nad	Si
-baltskimi	Agpfpi
-državami	Ncfpi
-in	Cc
-Poljsko	Npfsi
-,	Z
-kjer	Cs
-sicer	Q
-pričakujejo	Vmpr3p
-okoli	Rgp
-80	Mdc
-delegacij	Ncfpg
-iz	Sg
-tujine	Ncfsg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-v	Sa
-nedeljo	Ncfsa
-v	Sl
-Krakovu	Npnsl
-udeležile	Vmep-pf
-pogreba	Ncmsg
-prejšnjo	Agpfsa
-soboto	Ncfsa
-preminulega	Appmsg
-predsednika	Ncmsg
-Lecha	Npmsg
-Kaczynskega	Agpnsg
-.	Z
-Na	Sl
-Islandiji	Npfsl
-,	Z
-kjer	Cs
-bruha	Vmpr3s
-ognjenik	Ncmsnn
-,	Z
-težav	Ncfpg
-v	Sl
-letalskem	Agpmsl
-prometu	Ncmsl
-medtem	Rgp
-ni	Va-r3s-y
-,	Z
-saj	Cc
-veter	Ncmsn
-prah	Ncmsn
-odnaša	Vmpr3s
-stran	Ncfsa
-.	Z
-Zaenkrat	Rgp
-je	Va-r3s-n
-odprt	Appmsnn
-tudi	Q
-zračni	Agpmsny
-prostor	Ncmsn
-nad	Si
-Rusijo	Npfsi
-,	Z
-so	Va-r3p-n
-pa	Cc
-odpovedali	Vmep-pm
-polete	Ncmpa
-na	Sa
-sever	Ncmsan
-in	Cc
-zahod	Ncmsan
-države	Ncfsg
-.	Z
-Sicer	Q
-pa	Cc
-so	Va-r3p-n
-večino	Ncfsa
-poletov	Ncmpg
-v	Sa
-Evropo	Npfsa
-že	Q
-v	Sa
-petek	Ncmsan
-odpovedale	Vmep-pf
-ameriške	Agpfpn
-letalske	Agpfpn
-družbe	Ncfpn
-,	Z
-prav	Q
-tako	Rgp
-so	Va-r3p-n
-bili	Va-p-pm
-odpovedani	Appmpn
-številni	Agpmpn
-poleti	Ncmpn
-iz	Sg
-Avstralije	Npfsg
-,	Z
-Nove	Agpfsg
-Zelandije	Npfsg
-,	Z
-Indije	Npfsg
-in	Cc
-Japonske	Npfsg
-v	Sa
-Evropo	Npfsa
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+je	mte:Va-r3s-n	biti
+zaprtih	mte:Appnpg	zaprt
+vseh	mte:Pg-npg	ves
+16	mte:Mdc	16
+mednarodnih	mte:Agpnpg	mednaroden
+letališč	mte:Ncnpg	letališče
+,	mte:Z	,
+znova	mte:Rgp	znova
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zaprt	mte:Appmsnn	zaprt
+zračni	mte:Agpmsny	zračen
+prostor	mte:Ncmsn	prostor
+nad	mte:Si	nad
+Veliko	mte:Agpfsi	velik
+Britanijo	mte:Npfsi	Britanija
+.	mte:Z	.
+Večino	mte:Ncfsa	večina
+poletov	mte:Ncmpg	polet
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+odpovedale	mte:Vmep-pf	odpovedati
+ameriške	mte:Agpfpn	ameriški
+letalske	mte:Agpfpn	letalski
+družbe	mte:Ncfpn	družba
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+oblaka	mte:Ncmsg	oblak
+vulkanskega	mte:Agpmsg	vulkanski
+pepela	mte:Ncmsg	pepel
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+danes	mte:Rgp	danes
+zaprt	mte:Appmsnn	zaprt
+večji	mte:Agcmsny	velik
+del	mte:Ncmsn	del
+zračnega	mte:Agpmsg	zračen
+prostora	mte:Ncmsg	prostor
+nad	mte:Si	nad
+Evropo	mte:Npfsi	Evropa
+.	mte:Z	.
+Po	mte:Sl	po
+oceni	mte:Ncfsl	ocena
+evropske	mte:Agpfsg	evropski
+organizacije	mte:Ncfsg	organizacija
+za	mte:Sa	za
+varnost	mte:Ncfsa	varnost
+letalskega	mte:Agpmsg	letalski
+prometa	mte:Ncmsg	promet
+Eurocontrol	mte:Npmsn	Eurocontrol
+je	mte:Va-r3s-n	biti
+težave	mte:Ncfpa	težava
+v	mte:Sl	v
+letalskem	mte:Agpmsl	letalski
+prometu	mte:Ncmsl	promet
+pričakovati	mte:Vmpn	pričakovati
+tako	mte:Rgp	tako
+danes	mte:Rgp	danes
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+še	mte:Q	še
+nekaj	mte:Rgp	nekaj
+prihodnjih	mte:Agpmpg	prihodnji
+dni	mte:Ncmpg	dan
+.	mte:Z	.
+Po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Eurocontrola	mte:Npmsg	Eurocontrol
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+oblak	mte:Ncmsn	oblak
+prahu	mte:Ncmsg	prah
+pomika	mte:Vmbr3s	pomikati
+proti	mte:Sd	proti
+jugovzhodu	mte:Ncmsd	jugovzhod
+oziroma	mte:Cc	oziroma
+jugu	mte:Ncmsd	jug
+.	mte:Z	.
+V	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+so	mte:Va-r3p-n	biti
+zaporo	mte:Ncfsa	zapora
+zračnega	mte:Agpmsg	zračen
+prostora	mte:Ncmsg	prostor
+podaljšali	mte:Vmep-pm	podaljšati
+do	mte:Sg	do
+danes	mte:Rgp	danes
+do	mte:Sg	do
+14	mte:Mdc	14
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+,	mte:Z	,
+zaprtih	mte:Appmpg	zaprt
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vseh	mte:Pg-npg	ves
+16	mte:Mdc	16
+mednarodnih	mte:Agpnpg	mednaroden
+letališč	mte:Ncnpg	letališče
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+.	mte:Z	.
+Ponovno	mte:Rgp	ponovno
+zaprt	mte:Appmsnn	zaprt
+zračni	mte:Agpmsny	zračen
+prostor	mte:Ncmsn	prostor
+nad	mte:Si	nad
+Veliko	mte:Agpfsi	velik
+Britanijo	mte:Npfsi	Britanija
+.	mte:Z	.
+.	mte:Z	.
+Zjutraj	mte:Rgp	zjutraj
+so	mte:Va-r3p-n	biti
+ponovno	mte:Rgp	ponovno
+zaprli	mte:Vmep-pm	zapreti
+celoten	mte:Agpmsan	celoten
+zračni	mte:Agpmsay	zračen
+prostor	mte:Ncmsan	prostor
+nad	mte:Si	nad
+Veliko	mte:Agpfsi	velik
+Britanijo	mte:Npfsi	Britanija
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+že	mte:Q	že
+odpravili	mte:Vmep-pm	odpraviti
+nekaj	mte:Rgp	nekaj
+omejitev	mte:Ncfpg	omejitev
+.	mte:Z	.
+Enako	mte:Rgp	enako
+velja	mte:Vmpr3s	veljati
+za	mte:Sa	za
+Irsko	mte:Npfsa	irski
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+del	mte:Ncmsn	del
+zračnega	mte:Agpmsg	zračen
+prostora	mte:Ncmsg	prostor
+že	mte:Q	že
+odprt	mte:Appmsnn	odprt
+.	mte:Z	.
+Do	mte:Sg	do
+14	mte:Mdc	14
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+je	mte:Va-r3s-n	biti
+zaprt	mte:Appmsnn	zaprt
+zračni	mte:Agpmsny	zračen
+prostor	mte:Ncmsn	prostor
+nad	mte:Si	nad
+Dansko	mte:Npfsi	Danska
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+Finskem	mte:Npnsl	Finsko
+vse	mte:Pg-mpa	ves
+polete	mte:Ncmpa	polet
+odpovedali	mte:Vmep-pm	odpovedati
+do	mte:Sg	do
+nedelje	mte:Ncfsg	nedelje
+do	mte:Sg	do
+14	mte:Mdc	14
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+po	mte:Sl	po
+srednjeevropskem	mte:Agpmsl	srednjeevropski
+času	mte:Ncmsl	čas
+.	mte:Z	.
+Na	mte:Sl	na
+Švedskem	mte:Npnsl	Švedsko
+so	mte:Va-r3p-n	biti
+zjutraj	mte:Rgp	zjutraj
+odprli	mte:Vmep-pm	odpreti
+zračni	mte:Agpmsay	zračen
+prostor	mte:Ncmsan	prostor
+nad	mte:Si	nad
+severnim	mte:Agpmsi	severen
+delom	mte:Ncnsi	delo
+države	mte:Ncfsg	država
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+drugod	mte:Rgp	drugod
+ostaja	mte:Vmpr3s	ostajati
+zaprt	mte:Appmsnn	zaprt
+.	mte:Z	.
+Do	mte:Sg	do
+14	mte:Mdc	14
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+je	mte:Va-r3s-n	biti
+zaprt	mte:Appmsnn	zaprt
+tudi	mte:Q	tudi
+zračni	mte:Agpmsny	zračen
+prostor	mte:Ncmsn	prostor
+nad	mte:Si	nad
+severno	mte:Agpfsi	severen
+Italijo	mte:Npfsi	Italija
+ter	mte:Cc	ter
+vsa	mte:Pg-npa	ves
+tri	mte:Mlcnpa	trije
+pariška	mte:Agpnpn	pariški
+letališča	mte:Ncnpa	letališče
+in	mte:Cc	in
+še	mte:Q	še
+11	mte:Mdc	11
+drugih	mte:Mlpmpg	drug
+v	mte:Sl	v
+Franciji.V	mte:Mdc	franciji.v
+Belgiji	mte:Npfsl	Belgija
+in	mte:Cc	in
+Švici	mte:Npfsl	Švica
+bo	mte:Va-f3s-n	biti
+zapora	mte:Ncfsn	zapor
+zračnega	mte:Agpmsg	zračen
+prostora	mte:Ncmsg	prostor
+trajala	mte:Vmpp-sf	trajati
+do	mte:Sg	do
+danes	mte:Rgp	danes
+do	mte:Sg	do
+20	mte:Mdc	20
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+,	mte:Z	,
+na	mte:Sl	na
+Nizozemskem	mte:Agpnsl	nizozemski
+pa	mte:Cc	pa
+vsaj	mte:Q	vsaj
+do	mte:Sg	do
+14	mte:Mdc	14
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+in	mte:Cc	in
+tudi	mte:Q	tudi
+baltskimi	mte:Agpfpi	baltski
+državami	mte:Ncfpi	država
+Popolnoma	mte:Rgp	popolnoma
+je	mte:Va-r3s-n	biti
+zaprt	mte:Appmsnn	zaprt
+zračni	mte:Agpmsny	zračen
+prostor	mte:Ncmsn	prostor
+nad	mte:Si	nad
+baltskimi	mte:Agpfpi	baltski
+državami	mte:Ncfpi	država
+in	mte:Cc	in
+Poljsko	mte:Npfsi	Poljska
+,	mte:Z	,
+kjer	mte:Cs	kjer
+sicer	mte:Q	sicer
+pričakujejo	mte:Vmpr3p	pričakovati
+okoli	mte:Rgp	okoli
+80	mte:Mdc	80
+delegacij	mte:Ncfpg	delegacija
+iz	mte:Sg	iz
+tujine	mte:Ncfsg	tujina
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+v	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+v	mte:Sl	v
+Krakovu	mte:Npnsl	Krakovo
+udeležile	mte:Vmep-pf	udeležiti
+pogreba	mte:Ncmsg	pogreb
+prejšnjo	mte:Agpfsa	prejšnji
+soboto	mte:Ncfsa	sobota
+preminulega	mte:Appmsg	preminul
+predsednika	mte:Ncmsg	predsednik
+Lecha	mte:Npmsg	Lecha
+Kaczynskega	mte:Agpnsg	kaczynski
+.	mte:Z	.
+Na	mte:Sl	na
+Islandiji	mte:Npfsl	Islandija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bruha	mte:Vmpr3s	bruhati
+ognjenik	mte:Ncmsnn	ognjenik
+,	mte:Z	,
+težav	mte:Ncfpg	težava
+v	mte:Sl	v
+letalskem	mte:Agpmsl	letalski
+prometu	mte:Ncmsl	promet
+medtem	mte:Rgp	medtem
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+saj	mte:Cc	saj
+veter	mte:Ncmsn	veter
+prah	mte:Ncmsn	prah
+odnaša	mte:Vmpr3s	odnašati
+stran	mte:Ncfsa	stran
+.	mte:Z	.
+Zaenkrat	mte:Rgp	zaenkrat
+je	mte:Va-r3s-n	biti
+odprt	mte:Appmsnn	odprt
+tudi	mte:Q	tudi
+zračni	mte:Agpmsny	zračen
+prostor	mte:Ncmsn	prostor
+nad	mte:Si	nad
+Rusijo	mte:Npfsi	Rusija
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+odpovedali	mte:Vmep-pm	odpovedati
+polete	mte:Ncmpa	polet
+na	mte:Sa	na
+sever	mte:Ncmsan	sever
+in	mte:Cc	in
+zahod	mte:Ncmsan	zahod
+države	mte:Ncfsg	država
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+večino	mte:Ncfsa	večina
+poletov	mte:Ncmpg	polet
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+že	mte:Q	že
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+odpovedale	mte:Vmep-pf	odpovedati
+ameriške	mte:Agpfpn	ameriški
+letalske	mte:Agpfpn	letalski
+družbe	mte:Ncfpn	družba
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+odpovedani	mte:Appmpn	odpovedan
+številni	mte:Agpmpn	številen
+poleti	mte:Ncmpn	polet
+iz	mte:Sg	iz
+Avstralije	mte:Npfsg	Avstralija
+,	mte:Z	,
+Nove	mte:Agpfsg	nov
+Zelandije	mte:Npfsg	Zelandija
+,	mte:Z	,
+Indije	mte:Npfsg	Indija
+in	mte:Cc	in
+Japonske	mte:Npfsg	Japonska
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+.	mte:Z	.
+Ameriška	mte:Agpfsn	ameriški
+vojska	mte:Ncfsn	vojska
+je	mte:Va-r3s-n	biti
+preusmerila	mte:Vmep-sf	preusmeriti
+tudi	mte:Q	tudi
+letala	mte:Ncnpa	letalo
+,	mte:Z	,
+ki	mte:Cs	ki
+iz	mte:Sg	iz
+Afganistana	mte:Npmsg	Afganistan
+oziroma	mte:Cc	oziroma
+Iraka	mte:Npmsg	Irak
+vozijo	mte:Vmpr3p	voziti
+ranjene	mte:Appmpa	ranjen
+vojake	mte:Ncmpa	vojak
+,	mte:Z	,
+saj	mte:Cc	saj
+ta	mte:Pd-mpn	ta
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+pristati	mte:Vmen	pristati
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+imajo	mte:Vmpr3p-n	imeti
+ZDA	mte:Npfpn	ZDA
+vojaško	mte:Agpfsa	vojaški
+bolnišnico	mte:Ncfsa	bolnišnica

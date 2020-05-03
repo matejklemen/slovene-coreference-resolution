@@ -1,294 +1,314 @@
-token	tag
-Washington	Npmsn
--	Z
-Generalni	Agpmsny
-direktor	Ncmsn
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-(	Z
-IMF	Npmsn
-)	Z
-Dominique	Npmsn
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-bo	Va-f3s-n
-ostal	Vmep-sm
-na	Sl
-položaju	Ncmsl
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-izvršni	Agpmsny
-odbor	Ncmsn
-IMF	Npmsn
-ugotovil	Vmep-sm
-,	Z
-da	Cs
-ni	Va-r3s-y
-razloga	Ncmsg
-za	Sa
-njegovo	Ps3fsasm
-odstavitev	Ncfsa
-zaradi	Sg
-domnevne	Agpfsg
-zlorabe	Ncfsg
-položaja	Ncmsg
-,	Z
-danes	Rgp
-poroča	Vmpr3s
-ameriška	Agpfsn
-tiskovna	Agpfsn
-agencija	Ncfsn
-AP	Npmsn
-.	Z
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-je	Va-r3s-n
-z	Si
-odločitvijo	Ncfsi
-odbora	Ncmsg
-zadovoljen	Agpmsnn
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-naj	Q
-bi	Va-c
-imel	Vmpp-sm
-intimen	Agpmsan
-odnos	Ncmsan
-s	Si
-podrejeno	Appfsi
-Pirosko	Npfsi
-Nagy	Npfsi
-,	Z
-višjo	Agcfsi
-uslužbenko	Ncfsi
-na	Sl
-afriškem	Agpmsl
-oddelku	Ncmsl
-IMF	Npmsn
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-so	Va-r3p-n
-proti	Sd
-generalnemu	Agpmsd
-direktorju	Ncmsd
-IMF	Npmsg
-sprožili	Vmep-pm
-preiskavo	Ncfsa
-o	Sl
-domnevni	Agpfsl
-zlorabi	Ncfsl
-položaja	Ncmsg
-.	Z
-Dejanja	Npmsg
-Strauss	Npmsn
--	Z
-Kahna	Npmsg
-so	Va-r3p-n
-"	Z
-vredna	Agpnpn
-obžalovanja	Ncnpn
-in	Cc
-odražajo	Vmpr3p
-napačno	Agpfsa
-presojo	Ncfsa
-"	Z
-,	Z
-vendar	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-njun	Ps3msnd
-odnos	Ncmsn
-sporazumen	Ncmsn
-in	Cc
-ni	Va-r3s-y
-vključeval	Vmpp-sm
-spolnega	Agpnsg
-nadlegovanja	Ncnsg
-,	Z
-je	Va-r3s-n
-v	Sa
-soboto	Ncfsa
-v	Sl
-izjavi	Ncfsl
-pojasnil	Vmep-sm
-izvršni	Agpmsny
-odbor	Ncmsn
-IMF	Npmsn
-.	Z
-"	Z
-Razpoloženje	Ncnsn
-odbora	Ncmsg
-je	Va-r3s-n
-bilo	Va-p-sn
-zelo	Agpnsn
-,	Z
-zelo	Rgp
-pozitivno	Agpnsn
-,	Z
-"	Z
-je	Va-r3s-n
-po	Sl
-sobotnem	Agpnsl
-srečanju	Ncnsl
-pojasnil	Vmep-sm
-izvršni	Agpmsny
-direktor	Ncmsn
-IMF	Npmsn
-Šakur	Npmsn
-Šalan	Npmsn
-.	Z
-"	Z
-Naš	Ps1msnp
-sklep	Ncmsn
-je	Va-r3s-n
-bil	Va-p-sm
-,	Z
-da	Cs
-to	Pd-nsn
-nikakor	Rgp
-ne	Q
-vpliva	Vmpr3s
-na	Sa
-učinkovitost	Ncfsa
-generalnega	Agpmsg
-direktorja	Ncmsg
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-Šalan	Npmsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-še	Q
-dodal	Vmep-sm
-,	Z
-je	Va-r3s-n
-odbor	Ncmsn
-soglasno	Rgp
-sprejel	Vmep-sm
-opravičilo	Ncnsa
-Strauss	Npmsn
--	Z
-Kahna	Npmsg
-,	Z
-priznal	Vmep-sm
-pa	Cc
-,	Z
-da	Cs
-osebja	Ncnsg
-IMF	Npmsn
-,	Z
-predvsem	Q
-ženske	Ncfpn
-,	Z
-z	Si
-obnašanjem	Ncnsi
-Strauss	Npmsn
--	Z
-Kahna	Npmsg
-"	Z
-niso	Va-r3p-y
-zadovoljne	Agpfpn
-"	Z
-.	Z
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-je	Va-r3s-n
-v	Sl
-ločeni	Appfsl
-izjavi	Ncfsl
-medtem	Rgp
-izrazil	Vmep-sm
-obžalovanje	Ncnsa
-zaradi	Sg
-afere	Ncfsg
-in	Cc
-hvaležnost	Ncfsa
-izvršnemu	Agpmsd
-odboru	Ncmsd
-.	Z
-"	Z
-Pripetljaj	Ncmsn
-močno	Rgp
-obžalujem	Vmpr1s
-in	Cc
-zanj	Pp3msa--b
-sprejemam	Vmpr1s
-odgovornost	Ncfsa
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-59	Mdc
--	Z
-letni	Agpmsny
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-in	Cc
-se	Px------y
-opravičil	Vmep-sm
-izvršnemu	Agpmsd
-odboru	Ncmsd
-,	Z
-osebju	Ncnsd
-IMF	Npmsd
-in	Cc
-družini	Ncfsd
-.	Z
-Odnos	Ncmsan
-naj	Q
-bi	Va-c
-se	Px------y
-med	Si
-Strauss	Npmsn
--	Z
-Kahnom	Npmsi
-in	Cc
-Nagyjevo	Aspfsi
-poglobil	Vmep-sm
-na	Sl
-januarski	Agpfsl
-evropski	Agpfsl
-konferenci	Ncfsl
-IMF	Npmsn
-.	Z
-Elektronsko	Agpfsa
-pošto	Ncfsa
-,	Z
-ki	Cs
-sta	Va-r3d-n
-si	Px---d--y
-jo	Pp3fsa--y
-izmenjavala	Vmpp-dm
-Strauss	Npmsn
--	Z
-Kahn	Npmsn
-in	Cc
-Nagyjeva	Aspfsn
-,	Z
-pa	Cc
-je	Va-r3s-n
-odkril	Vmep-sm
-mož	Ncmsn
-Nagyjeve	Aspfsg
-Mario	Npmsn
-Blejer	Npmsn
-,	Z
-prav	Q
-tako	Rgp
-v	Sl
-preteklosti	Ncfsl
-zaposlen	Appmsnn
-v	Sl
-IMF	Npmsan
-.	Z
+token	tag	lemma
+Washington	mte:Npmsn	Washington
+-	mte:Z	-
+Generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+(	mte:Z	(
+IMF	mte:Npmsn	IMF
+)	mte:Z	)
+Dominique	mte:Npmsn	Dominique
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+bo	mte:Va-f3s-n	biti
+ostal	mte:Vmep-sm	ostati
+na	mte:Sl	na
+položaju	mte:Ncmsl	položaj
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+izvršni	mte:Agpmsny	izvršen
+odbor	mte:Ncmsn	odbor
+IMF	mte:Npmsn	IMF
+ugotovil	mte:Vmep-sm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+razloga	mte:Ncmsg	razlog
+za	mte:Sa	za
+njegovo	mte:Ps3fsasm	njegov
+odstavitev	mte:Ncfsa	odstavitev
+zaradi	mte:Sg	zaradi
+domnevne	mte:Agpfsg	domneven
+zlorabe	mte:Ncfsg	zloraba
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+danes	mte:Rgp	danes
+poroča	mte:Vmpr3s	poročati
+ameriška	mte:Agpfsn	ameriški
+tiskovna	mte:Agpfsn	tiskoven
+agencija	mte:Ncfsn	agencija
+AP	mte:Npmsn	AP
+.	mte:Z	.
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+odločitvijo	mte:Ncfsi	odločitev
+odbora	mte:Ncmsg	odbor
+zadovoljen	mte:Agpmsnn	zadovoljen
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+intimen	mte:Agpmsan	intimen
+odnos	mte:Ncmsan	odnos
+s	mte:Si	z
+podrejeno	mte:Appfsi	podrejen
+Pirosko	mte:Npfsi	Pirosko
+Nagy	mte:Npfsi	Nagy
+,	mte:Z	,
+višjo	mte:Agcfsi	visok
+uslužbenko	mte:Ncfsi	uslužbenka
+na	mte:Sl	na
+afriškem	mte:Agpmsl	afriški
+oddelku	mte:Ncmsl	oddelek
+IMF	mte:Npmsn	IMF
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+so	mte:Va-r3p-n	biti
+proti	mte:Sd	proti
+generalnemu	mte:Agpmsd	generalen
+direktorju	mte:Ncmsd	direktor
+IMF	mte:Npmsg	IMF
+sprožili	mte:Vmep-pm	sprožiti
+preiskavo	mte:Ncfsa	preiskava
+o	mte:Sl	o
+domnevni	mte:Agpfsl	domneven
+zlorabi	mte:Ncfsl	zloraba
+položaja	mte:Ncmsg	položaj
+.	mte:Z	.
+Dejanja	mte:Npmsg	Dejanjo
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahna	mte:Npmsg	Kahen
+so	mte:Va-r3p-n	biti
+"	mte:Z	"
+vredna	mte:Agpnpn	vreden
+obžalovanja	mte:Ncnpn	obžalovanje
+in	mte:Cc	in
+odražajo	mte:Vmpr3p	odražati
+napačno	mte:Agpfsa	napačen
+presojo	mte:Ncfsa	presoja
+"	mte:Z	"
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+njun	mte:Ps3msnd	njun
+odnos	mte:Ncmsn	odnos
+sporazumen	mte:Ncmsn	sporazumen
+in	mte:Cc	in
+ni	mte:Va-r3s-y	biti
+vključeval	mte:Vmpp-sm	vključevati
+spolnega	mte:Agpnsg	spolen
+nadlegovanja	mte:Ncnsg	nadlegovanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+pojasnil	mte:Vmep-sm	pojasniti
+izvršni	mte:Agpmsny	izvršen
+odbor	mte:Ncmsn	odbor
+IMF	mte:Npmsn	IMF
+.	mte:Z	.
+"	mte:Z	"
+Razpoloženje	mte:Ncnsn	razpoloženje
+odbora	mte:Ncmsg	odbor
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+zelo	mte:Agpnsn	zelo
+,	mte:Z	,
+zelo	mte:Rgp	zelo
+pozitivno	mte:Agpnsn	pozitiven
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+sobotnem	mte:Agpnsl	soboten
+srečanju	mte:Ncnsl	srečanje
+pojasnil	mte:Vmep-sm	pojasniti
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+IMF	mte:Npmsn	IMF
+Šakur	mte:Npmsn	Šakur
+Šalan	mte:Npmsn	Šalan
+.	mte:Z	.
+"	mte:Z	"
+Naš	mte:Ps1msnp	naš
+sklep	mte:Ncmsn	sklep
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+,	mte:Z	,
+da	mte:Cs	da
+to	mte:Pd-nsn	ta
+nikakor	mte:Rgp	nikakor
+ne	mte:Q	ne
+vpliva	mte:Vmpr3s	vplivati
+na	mte:Sa	na
+učinkovitost	mte:Ncfsa	učinkovitost
+generalnega	mte:Agpmsg	generalen
+direktorja	mte:Ncmsg	direktor
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Šalan	mte:Npmsn	Šalan
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odbor	mte:Ncmsn	odbor
+soglasno	mte:Rgp	soglasno
+sprejel	mte:Vmep-sm	sprejeti
+opravičilo	mte:Ncnsa	opravičilo
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahna	mte:Npmsg	Kahen
+,	mte:Z	,
+priznal	mte:Vmep-sm	priznati
+pa	mte:Cc	pa
+,	mte:Z	,
+da	mte:Cs	da
+osebja	mte:Ncnsg	osebje
+IMF	mte:Npmsn	IMF
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+ženske	mte:Ncfpn	ženska
+,	mte:Z	,
+z	mte:Si	z
+obnašanjem	mte:Ncnsi	obnašanje
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahna	mte:Npmsg	Kahen
+"	mte:Z	"
+niso	mte:Va-r3p-y	biti
+zadovoljne	mte:Agpfpn	zadovoljen
+"	mte:Z	"
+.	mte:Z	.
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+ločeni	mte:Appfsl	ločen
+izjavi	mte:Ncfsl	izjava
+medtem	mte:Rgp	medtem
+izrazil	mte:Vmep-sm	izraziti
+obžalovanje	mte:Ncnsa	obžalovanje
+zaradi	mte:Sg	zaradi
+afere	mte:Ncfsg	afera
+in	mte:Cc	in
+hvaležnost	mte:Ncfsa	hvaležnost
+izvršnemu	mte:Agpmsd	izvršen
+odboru	mte:Ncmsd	odbor
+.	mte:Z	.
+"	mte:Z	"
+Pripetljaj	mte:Ncmsn	pripetljaj
+močno	mte:Rgp	močno
+obžalujem	mte:Vmpr1s	obžalovati
+in	mte:Cc	in
+zanj	mte:Pp3msa--b	zame
+sprejemam	mte:Vmpr1s	sprejemati
+odgovornost	mte:Ncfsa	odgovornost
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+59	mte:Mdc	59
+-	mte:Z	-
+letni	mte:Agpmsny	leten
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+in	mte:Cc	in
+se	mte:Px------y	se
+opravičil	mte:Vmep-sm	opravičiti
+izvršnemu	mte:Agpmsd	izvršen
+odboru	mte:Ncmsd	odbor
+,	mte:Z	,
+osebju	mte:Ncnsd	osebje
+IMF	mte:Npmsd	IMF
+in	mte:Cc	in
+družini	mte:Ncfsd	družina
+.	mte:Z	.
+Odnos	mte:Ncmsan	odnos
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+med	mte:Si	med
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahnom	mte:Npmsi	Kahen
+in	mte:Cc	in
+Nagyjevo	mte:Aspfsi	Nagyjev
+poglobil	mte:Vmep-sm	poglobiti
+na	mte:Sl	na
+januarski	mte:Agpfsl	januarski
+evropski	mte:Agpfsl	evropski
+konferenci	mte:Ncfsl	konferenca
+IMF	mte:Npmsn	IMF
+.	mte:Z	.
+Elektronsko	mte:Agpfsa	elektronski
+pošto	mte:Ncfsa	pošta
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+si	mte:Px---d--y	se
+jo	mte:Pp3fsa--y	on
+izmenjavala	mte:Vmpp-dm	izmenjavati
+Strauss	mte:Npmsn	Strauss
+-	mte:Z	-
+Kahn	mte:Npmsn	Kahn
+in	mte:Cc	in
+Nagyjeva	mte:Aspfsn	Nagyjev
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+odkril	mte:Vmep-sm	odkriti
+mož	mte:Ncmsn	mož
+Nagyjeve	mte:Aspfsg	Nagyjev
+Mario	mte:Npmsn	Maria
+Blejer	mte:Npmsn	Blejer
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+zaposlen	mte:Appmsnn	zaposlen
+v	mte:Sa	v
+IMF	mte:Npmsan	IMF
+.	mte:Z	.
+Nagyjeva	mte:Aspfsn	Nagyjev
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+avgusta	mte:Ncmsg	avgust
+zapustila	mte:Vmep-sf	zapustiti
+IMF	mte:Npmsan	IMF
+in	mte:Cc	in
+se	mte:Px------y	se
+kot	mte:Cs	kot
+ekonomistka	mte:Ncfsn	ekonomistka
+zaposlila	mte:Vmep-sf	zaposliti
+v	mte:Sl	v
+Evropski	mte:Agpfsl	evropski
+banki	mte:Ncfsl	banka
+za	mte:Sa	za
+obnovo	mte:Ncfsa	obnova
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+v	mte:Sl	v
+Londonu	mte:Npmsl	London

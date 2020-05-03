@@ -1,358 +1,369 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Elektro	Npmsn
-Slovenija	Npfsn
-(	Z
-Eles	Npmsn
-)	Z
-je	Va-r3s-n
-zoper	Sa
-predsednika	Ncmsay
-uprave	Ncfsg
-Taluma	Npmsg
-Danila	Npmsg
-Topleka	Npmsg
-vložil	Vmep-sm
-kazensko	Agpfsa
-ovadbo	Ncfsa
-na	Sa
-ptujsko	Agpnsa
-okrožno	Agpnsa
-državno	Agpnsa
-tožilstvo	Ncnsa
-.	Z
-Za	Sa
-kazensko	Agpfsa
-ovadbo	Ncfsa
-so	Va-r3p-n
-se	Px------y
-v	Sl
-družbi	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodi	Vmpr3s
-Vitoslav	Npmsn
-Türk	Npmsn
-,	Z
-odločili	Vmep-pm
-zaradi	Sg
-domnevne	Agpfsg
-zlorabe	Ncfsg
-položaja	Ncmsg
-na	Sl
-skupščini	Ncfsl
-Taluma	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-potekala	Vmpp-sf
-25	Mdc
-.	Z
-avgusta	Ncmsg
-.	Z
-Kazensko	Rgp
-pa	Cc
-je	Va-r3s-n
-Eles	Npmsn
-ovadil	Vmep-sm
-tudi	Q
-predsedujočega	Appmsa
-na	Sl
-skupščini	Ncfsl
-,	Z
-odvetnika	Ncmsg
-Miho	Npmsg
-Kozinca	Npmsg
-,	Z
-in	Cc
-notarja	Ncmsg
-Andreja	Npmsg
-Šoemena	Npmsg
-.	Z
-Takrat	Rgp
-je	Va-r3s-n
-Toplek	Npmsn
-,	Z
-kot	Cs
-smo	Va-r1p-n
-že	Q
-poročali	Vmpp-pm
-,	Z
-Elesu	Npmsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-80	Mdc
--	Z
-odstotni	Agpmsny
-lastnik	Ncmsn
-družbe	Ncfsg
-iz	Sg
-Kidričevega	Npmsg
-,	Z
-odvzel	Vmep-sm
-glasovalne	Agpfpa
-pravice	Ncfpa
-z	Si
-argumentom	Ncmsi
-,	Z
-da	Cs
-jih	Pp3mpa--y
-Eles	Npmsn
-v	Sl
-skladu	Ncmsl
-z	Si
-zakonom	Ncmsi
-o	Sl
-gospodarskih	Agpfpl
-družbah	Ncfpl
-še	Q
-ni	Va-r3s-y
-obvestil	Vmep-sm
-o	Sl
-lastništvu	Ncnsl
-kvalificiranega	Appmsg
-deleža	Ncmsg
-.	Z
-Zaradi	Sg
-tega	Pd-nsg
-Eles	Npmsn
-ni	Va-r3s-y
-mogel	Vmpp-sm
-zamenjati	Vmen
-dveh	Mlcmdg
-svojih	Px-mdg
-nadzornikov	Ncmdg
-v	Sl
-Talumu	Npmsl
-,	Z
-Stanka	Npfsn
-Simoniča	Npmsg
-in	Cc
-Darinke	Npfsg
-Fakin	Npmsg
-,	Z
-z	Si
-Robertom	Npmsi
-Rožičem	Npmsi
-in	Cc
-Stankom	Npmsi
-Erštetom	Npmsi
-.	Z
-Cilj	Ncmsn
-menjave	Ncfsg
-nadzornikov	Ncmpg
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-zamenjava	Ncfsn
-Talumove	Aspfsg
-uprave	Ncfsg
-.	Z
-Toplek	Npmsn
-ovadbe	Ncfsg
-ni	Va-r3s-y
-želel	Vmpp-sm
-komentirati	Vmbn
-,	Z
-ker	Cs
-njene	Ps3fsgsf
-vsebine	Ncfsg
-še	Q
-ne	Q
-pozna	Vmpr3s
-.	Z
-Na	Si
-vprašanji	Ncnpi
-,	Z
-ali	Rgp
-so	Va-r3p-n
-morebiti	Rgp
-že	Q
-prejeli	Vmep-pm
-obvestilo	Ncnsa
-o	Sl
-kvalificiranem	Appmsl
-deležu	Ncmsl
-iz	Sg
-Elesa	Npmsg
-in	Cc
-ali	Rgp
-je	Va-r3s-n
-Eles	Npmsn
-mogoče	Rgp
-že	Q
-napovedal	Vmep-sm
-sklic	Ncmsan
-nove	Agpfsg
-skupščine	Ncfsg
-,	Z
-je	Va-r3s-n
-Toplek	Npmsn
-odvrnil	Vmep-sm
-,	Z
-da	Cs
-Eles	Npmsn
-za	Sa
-zdaj	Rgp
-ni	Va-r3s-y
-storil	Vmep-sm
-ne	Q
-enega	Mlpmsg
-ne	Q
-drugega	Mlpmsg
-.	Z
-Spomnimo	Vmer1p
-,	Z
-da	Cs
-je	Va-r3s-n
-Eles	Npmsn
-po	Sl
-tem	Pd-nsl
-,	Z
-ko	Cs
-je	Va-r3s-n
-uprava	Ncfsn
-Taluma	Npmsg
-preklicala	Vmep-sf
-skupščino	Ncfsa
-,	Z
-na	Sl
-kateri	Pq-fsl
-bi	Va-c
-na	Sa
-predlog	Ncmsan
-Elesa	Npmsg
-odločali	Vmpp-pm
-zgolj	Q
-o	Sl
-nadzornikih	Ncmpl
-,	Z
-in	Cc
-točko	Ncfsa
-uvrstila	Vmep-sf
-na	Sa
-dnevni	Agpmsay
-red	Ncmsan
-kasnejše	Agcfsg
-skupščine	Ncfsg
-25	Mdc
-.	Z
-avgusta	Ncmsg
-,	Z
-na	Sa
-mariborsko	Agpnsa
-okrožno	Agpnsa
-sodišče	Ncnsa
-vložil	Vmep-sm
-zahtevek	Ncmsan
-za	Sa
-izdajo	Ncfsa
-pooblastila	Ncnsg
-za	Sa
-sklic	Ncmsan
-skupščine	Ncfsg
-.	Z
-Sodišče	Ncnsn
-je	Va-r3s-n
-,	Z
-kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-Elesa	Npmsg
-,	Z
-odločilo	Vmep-sn
-v	Sa
-njihov	Ps3msap
-prid	Ncmsan
-in	Cc
-jim	Pp3mpd--y
-izdalo	Vmep-sn
-pooblastilo	Ncnsa
-za	Sa
-sklic	Ncmsan
-nove	Agpfsg
-skupščine	Ncfsg
-.	Z
-Talum	Npmsn
-se	Px------y
-je	Va-r3s-n
-na	Sa
-odločitev	Ncfsa
-sodišča	Ncnsg
-že	Q
-pritožil	Vmep-sm
-.	Z
-V	Sl
-Elesu	Npmsl
-pojasnjujejo	Vmpr3p
-:	Z
-"	Z
-Sodišče	Ncnsn
-je	Va-r3s-n
-v	Sl
-razlogih	Ncmpl
-za	Sa
-odločitev	Ncfsa
-navedlo	Vmep-sn
-,	Z
-da	Cs
-zasedanje	Ncnsn
-skupščine	Ncfsg
-25	Mdc
-.	Z
-avgusta	Ncmsg
-družbe	Ncfsg
-Talum	Npmsn
-ni	Va-r3s-y
-bilo	Va-p-sn
-pravilno	Rgp
-izvedeno	Appnsn
-,	Z
-ker	Cs
-Elesu	Npmsd
-ni	Va-r3s-y
-bilo	Va-p-sn
-dovoljeno	Appnsn
-glasovati	Vmbn
-.	Z
-Zaradi	Sg
-tega	Pd-nsg
-se	Px------y
-izvedba	Ncfsn
-skupščine	Ncfsg
-z	Si
-napakami	Ncfpi
-ne	Q
-more	Vmpr3s
-upoštevati	Vmbn
-kot	Cs
-izpolnitev	Ncfsa
-delničarjeve	Aspfsg
-zahteve	Ncfsg
-po	Sl
-sklicu	Ncmsl
-skupščine	Ncfsg
-.	Z
-"	Z
-Zoper	Sa
-sklepe	Ncmpa
-te	Pd-fsg
-skupščine	Ncfsg
-bo	Va-f3s-n
-Eles	Npmsn
-zato	Rgp
-vložil	Vmep-sm
-izpodbojno	Agpfsa
-tožbo	Ncfsa
-in	Cc
-odškodninske	Agpmpa
-tožbene	Agpmpa
-zahtevke	Ncmpa
-zoper	Sa
-nekatere	Pi-mpa
-posameznike	Ncmpa
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Elektro	mte:Npmsn	Elektro
+Slovenija	mte:Npfsn	Slovenija
+(	mte:Z	(
+Eles	mte:Npmsn	Eles
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+zoper	mte:Sa	zoper
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+Taluma	mte:Npmsg	Talum
+Danila	mte:Npmsg	Danila
+Topleka	mte:Npmsg	Toplek
+vložil	mte:Vmep-sm	vložiti
+kazensko	mte:Agpfsa	kazenski
+ovadbo	mte:Ncfsa	ovadba
+na	mte:Sa	na
+ptujsko	mte:Agpnsa	ptujski
+okrožno	mte:Agpnsa	okrožen
+državno	mte:Agpnsa	državen
+tožilstvo	mte:Ncnsa	tožilstvo
+.	mte:Z	.
+Za	mte:Sa	za
+kazensko	mte:Agpfsa	kazenski
+ovadbo	mte:Ncfsa	ovadba
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+Vitoslav	mte:Npmsn	Vitoslav
+Türk	mte:Npmsn	Türk
+,	mte:Z	,
+odločili	mte:Vmep-pm	odločiti
+zaradi	mte:Sg	zaradi
+domnevne	mte:Agpfsg	domneven
+zlorabe	mte:Ncfsg	zloraba
+položaja	mte:Ncmsg	položaj
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+Taluma	mte:Npmsg	Talum
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+potekala	mte:Vmpp-sf	potekati
+25	mte:Mdc	25
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+.	mte:Z	.
+Kazensko	mte:Rgp	kazensko
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Eles	mte:Npmsn	Eles
+ovadil	mte:Vmep-sm	ovaditi
+tudi	mte:Q	tudi
+predsedujočega	mte:Appmsa	predsedujoč
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+,	mte:Z	,
+odvetnika	mte:Ncmsg	odvetnik
+Miho	mte:Npmsg	Miho
+Kozinca	mte:Npmsg	Kozinca
+,	mte:Z	,
+in	mte:Cc	in
+notarja	mte:Ncmsg	notar
+Andreja	mte:Npmsg	Andreja
+Šoemena	mte:Npmsg	Šoemen
+.	mte:Z	.
+Takrat	mte:Rgp	takrat
+je	mte:Va-r3s-n	biti
+Toplek	mte:Npmsn	Toplek
+,	mte:Z	,
+kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+poročali	mte:Vmpp-pm	poročati
+,	mte:Z	,
+Elesu	mte:Npmsl	Eles
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+80	mte:Mdc	80
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+lastnik	mte:Ncmsn	lastnik
+družbe	mte:Ncfsg	družba
+iz	mte:Sg	iz
+Kidričevega	mte:Npmsg	Kidričevo
+,	mte:Z	,
+odvzel	mte:Vmep-sm	odvzeti
+glasovalne	mte:Agpfpa	glasovalen
+pravice	mte:Ncfpa	pravica
+z	mte:Si	z
+argumentom	mte:Ncmsi	argument
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+Eles	mte:Npmsn	Eles
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+zakonom	mte:Ncmsi	zakon
+o	mte:Sl	o
+gospodarskih	mte:Agpfpl	gospodarski
+družbah	mte:Ncfpl	družba
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+obvestil	mte:Vmep-sm	obvestiti
+o	mte:Sl	o
+lastništvu	mte:Ncnsl	lastništvo
+kvalificiranega	mte:Appmsg	kvalificiran
+deleža	mte:Ncmsg	delež
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+tega	mte:Pd-nsg	ta
+Eles	mte:Npmsn	Eles
+ni	mte:Va-r3s-y	biti
+mogel	mte:Vmpp-sm	moči
+zamenjati	mte:Vmen	zamenjati
+dveh	mte:Mlcmdg	dva
+svojih	mte:Px-mdg	svoj
+nadzornikov	mte:Ncmdg	nadzornik
+v	mte:Sl	v
+Talumu	mte:Npmsl	Talum
+,	mte:Z	,
+Stanka	mte:Npfsn	Stanka
+Simoniča	mte:Npmsg	Simonič
+in	mte:Cc	in
+Darinke	mte:Npfsg	Darinka
+Fakin	mte:Npmsg	Fakin
+,	mte:Z	,
+z	mte:Si	z
+Robertom	mte:Npmsi	Robert
+Rožičem	mte:Npmsi	Rožič
+in	mte:Cc	in
+Stankom	mte:Npmsi	Stank
+Erštetom	mte:Npmsi	Eršte
+.	mte:Z	.
+Cilj	mte:Ncmsn	cilj
+menjave	mte:Ncfsg	menjava
+nadzornikov	mte:Ncmpg	nadzornik
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+zamenjava	mte:Ncfsn	zamenjava
+Talumove	mte:Aspfsg	Talumov
+uprave	mte:Ncfsg	uprava
+.	mte:Z	.
+Toplek	mte:Npmsn	Toplek
+ovadbe	mte:Ncfsg	ovadba
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+komentirati	mte:Vmbn	komentirati
+,	mte:Z	,
+ker	mte:Cs	ker
+njene	mte:Ps3fsgsf	njen
+vsebine	mte:Ncfsg	vsebina
+še	mte:Q	še
+ne	mte:Q	ne
+pozna	mte:Vmpr3s	poznati
+.	mte:Z	.
+Na	mte:Si	na
+vprašanji	mte:Ncnpi	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+morebiti	mte:Rgp	morebiti
+že	mte:Q	že
+prejeli	mte:Vmep-pm	prejeti
+obvestilo	mte:Ncnsa	obvestiti
+o	mte:Sl	o
+kvalificiranem	mte:Appmsl	kvalificiran
+deležu	mte:Ncmsl	delež
+iz	mte:Sg	iz
+Elesa	mte:Npmsg	Elesa
+in	mte:Cc	in
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+Eles	mte:Npmsn	Eles
+mogoče	mte:Rgp	mogoče
+že	mte:Q	že
+napovedal	mte:Vmep-sm	napovedati
+sklic	mte:Ncmsan	sklic
+nove	mte:Agpfsg	nov
+skupščine	mte:Ncfsg	skupščina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Toplek	mte:Npmsn	Toplek
+odvrnil	mte:Vmep-sm	odvrniti
+,	mte:Z	,
+da	mte:Cs	da
+Eles	mte:Npmsn	Eles
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+ni	mte:Va-r3s-y	biti
+storil	mte:Vmep-sm	storiti
+ne	mte:Q	ne
+enega	mte:Mlpmsg	en
+ne	mte:Q	ne
+drugega	mte:Mlpmsg	drug
+.	mte:Z	.
+Spomnimo	mte:Vmer1p	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Eles	mte:Npmsn	Eles
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+Taluma	mte:Npmsg	Talum
+preklicala	mte:Vmep-sf	preklicati
+skupščino	mte:Ncfsa	skupščina
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bi	mte:Va-c	biti
+na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+Elesa	mte:Npmsg	Elesa
+odločali	mte:Vmpp-pm	odločati
+zgolj	mte:Q	zgolj
+o	mte:Sl	o
+nadzornikih	mte:Ncmpl	nadzornik
+,	mte:Z	,
+in	mte:Cc	in
+točko	mte:Ncfsa	točka
+uvrstila	mte:Vmep-sf	uvrstiti
+na	mte:Sa	na
+dnevni	mte:Agpmsay	dneven
+red	mte:Ncmsan	red
+kasnejše	mte:Agcfsg	kasen
+skupščine	mte:Ncfsg	skupščina
+25	mte:Mdc	25
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+,	mte:Z	,
+na	mte:Sa	na
+mariborsko	mte:Agpnsa	mariborski
+okrožno	mte:Agpnsa	okrožen
+sodišče	mte:Ncnsa	sodišče
+vložil	mte:Vmep-sm	vložiti
+zahtevek	mte:Ncmsan	zahtevek
+za	mte:Sa	za
+izdajo	mte:Ncfsa	izdaja
+pooblastila	mte:Ncnsg	pooblastilo
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Elesa	mte:Npmsg	Elesa
+,	mte:Z	,
+odločilo	mte:Vmep-sn	odločiti
+v	mte:Sa	v
+njihov	mte:Ps3msap	njihov
+prid	mte:Ncmsan	prid
+in	mte:Cc	in
+jim	mte:Pp3mpd--y	on
+izdalo	mte:Vmep-sn	izdati
+pooblastilo	mte:Ncnsa	pooblastilo
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+nove	mte:Agpfsg	nov
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+Talum	mte:Npmsn	Talum
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+odločitev	mte:Ncfsa	odločitev
+sodišča	mte:Ncnsg	sodišče
+že	mte:Q	že
+pritožil	mte:Vmep-sm	pritožiti
+.	mte:Z	.
+V	mte:Sl	v
+Elesu	mte:Npmsl	Eles
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+:	mte:Z	:
+"	mte:Z	"
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+razlogih	mte:Ncmpl	razlog
+za	mte:Sa	za
+odločitev	mte:Ncfsa	odločitev
+navedlo	mte:Vmep-sn	navesti
+,	mte:Z	,
+da	mte:Cs	da
+zasedanje	mte:Ncnsn	zasedanje
+skupščine	mte:Ncfsg	skupščina
+25	mte:Mdc	25
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+družbe	mte:Ncfsg	družba
+Talum	mte:Npmsn	Talum
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+pravilno	mte:Rgp	pravilno
+izvedeno	mte:Appnsn	izveden
+,	mte:Z	,
+ker	mte:Cs	ker
+Elesu	mte:Npmsd	Eles
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+dovoljeno	mte:Appnsn	dovoljen
+glasovati	mte:Vmbn	glasovati
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+tega	mte:Pd-nsg	ta
+se	mte:Px------y	se
+izvedba	mte:Ncfsn	izvedba
+skupščine	mte:Ncfsg	skupščina
+z	mte:Si	z
+napakami	mte:Ncfpi	napaka
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+upoštevati	mte:Vmbn	upoštevati
+kot	mte:Cs	kot
+izpolnitev	mte:Ncfsa	izpolnitev
+delničarjeve	mte:Aspfsg	delničarjev
+zahteve	mte:Ncfsg	zahteva
+po	mte:Sl	po
+sklicu	mte:Ncmsl	sklic
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+"	mte:Z	"
+Zoper	mte:Sa	zoper
+sklepe	mte:Ncmpa	sklep
+te	mte:Pd-fsg	ta
+skupščine	mte:Ncfsg	skupščina
+bo	mte:Va-f3s-n	biti
+Eles	mte:Npmsn	Eles
+zato	mte:Rgp	zato
+vložil	mte:Vmep-sm	vložiti
+izpodbojno	mte:Agpfsa	izpodbojen
+tožbo	mte:Ncfsa	tožba
+in	mte:Cc	in
+odškodninske	mte:Agpmpa	odškodninski
+tožbene	mte:Agpmpa	tožben
+zahtevke	mte:Ncmpa	zahtevek
+zoper	mte:Sa	zoper
+nekatere	mte:Pi-mpa	nekateri
+posameznike	mte:Ncmpa	posameznik
+.	mte:Z	.
+Zoper	mte:Sa	zoper
+koga	mte:Pq-msa	kdo
+jih	mte:Pp3mpa--y	on
+bodo	mte:Va-f3p-n	biti
+vložili	mte:Vmep-pm	vložiti
+,	mte:Z	,
+v	mte:Sl	v
+Elesu	mte:Npmsl	Eles
+včeraj	mte:Rgp	včeraj
+niso	mte:Va-r3p-y	biti
+pojasnili	mte:Vmep-pm	pojasniti

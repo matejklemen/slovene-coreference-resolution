@@ -1,385 +1,418 @@
-token	tag
-Štirje	Mlcmpn
-delničarji	Ncmpn
-Pivovarne	Ncfsg
-Laško	Npnsn
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-skupaj	Rgp
-v	Sl
-lasti	Ncfsl
-slabih	Agpmpg
-42	Mdc
-odstotkov	Ncmpg
-družbe	Ncfsg
-,	Z
-so	Va-r3p-n
-napovedali	Vmep-pm
-prevzem	Ncmsan
-pivovarne	Ncfsg
-.	Z
-Infond	Npmsn
-Holding	Npmsn
-je	Va-r3s-n
-danes	Rgp
-na	Sl
-straneh	Ncfpl
-Ljubljanske	Agpfsg
-borze	Ncfsg
-v	Sl
-imenu	Ncnsl
-štirih	Mlcmpg
-delničarjev	Ncmpg
-Laškega	Npnsg
-objavil	Vmep-sm
-obvestilo	Ncnsa
-o	Sl
-nameri	Ncfsl
-za	Sa
-prevzem	Ncmsan
-pivovarne	Ncfsg
-.	Z
-Mariborska	Agpfsn
-finančna	Agpfsn
-družba	Ncfsn
-Infond	Npmsn
-Holding	Npmsn
-,	Z
-Cestno	Agpnsn
-podjetje	Ncnsn
-Maribor	Npmsn
-,	Z
-finančna	Agpfsn
-družba	Ncfsn
-Fidina	Npmsg
-iz	Sg
-Ljubljane	Npfsg
-in	Cc
-ljubljanska	Agpfsn
-družba	Ncfsn
-Koto	Npmsn
-nameravajo	Vmpr3p
-objaviti	Vmen
-prevzemno	Agpfsa
-ponudbo	Ncfsa
-za	Sa
-Pivovarno	Ncfsa
-Laško	Npnsa
-,	Z
-je	Va-r3s-n
-Infond	Npmsn
-Holding	Ncmsn
-danes	Rgp
-objavil	Vmep-sm
-na	Sl
-spletnih	Agpfpl
-straneh	Ncfpl
-Ljubljanske	Agpfsg
-borze	Ncfsg
-.	Z
-Največji	Agsmsny
-lastnik	Ncmsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-je	Va-r3s-n
-trenutno	Rgp
-s	Si
-23,71	Mdc
--	Z
-odstotnim	Agpmsi
-deležem	Ncmsi
-Infond	Ncmsn
-Holding	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-zdaj	Rgp
-v	Sl
-večinski	Agpfsl
-lasti	Ncfsl
-Centra	Ncmsg
-naložb	Ncfpg
-.	Z
-Drugi	Mlpmsny
-največji	Agsmsny
-lastnik	Ncmsn
-pivovarne	Ncfsg
-pa	Cc
-je	Va-r3s-n
-Cestno	Agpnsn
-podjetje	Ncnsn
-Maribor	Npmsn
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-12,63	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-.	Z
-Družba	Ncfsn
-Koto	Npfsn
-je	Va-r3s-n
-postala	Vmep-sf
-šesti	Mlomsa
-največji	Agsmsay
-delničar	Ncmsan
-družbe	Ncfsg
-v	Sa
-sredo	Ncfsa
-,	Z
-ko	Cs
-je	Va-r3s-n
-od	Sg
-luksemburške	Agpfsg
-družbe	Ncfsg
-Towra	Npfsn
-odkupila	Vmep-sf
-4,86	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-pivovarni	Ncfsl
-.	Z
-Towra	Npmsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-borzni	Agpmpn
-poznavalci	Ncmpn
-povezujejo	Vmpr3p
-z	Si
-družbo	Ncfsi
-Medvešek	Npmsn
-Pušnik	Npfsn
-,	Z
-je	Va-r3s-n
-sicer	Q
-omenjeni	Appmsny
-paket	Ncmsn
-delnic	Ncfpg
-v	Sl
-Laškem	Npnsl
-kupila	Vmep-sf
-konec	Sg
-decembra	Ncmsg
-od	Sg
-Cestnega	Agpnsg
-podjetja	Ncnsg
-Maribor	Npmsn
-CPM	Npmsn
-.	Z
-Tudi	Q
-podjetje	Ncnsa
-Fidina	Npmsg
-,	Z
-katere	Pq-fsg
-soustanovitelji	Ncmpn
-so	Va-r3p-n
-holding	Ncmsn
-NFD	Npmsn
-,	Z
-Maksima	Npfsn
-invest	Npfsn
-in	Cc
-podjetje	Ncnsn
-Nefira	Npmsn
-,	Z
-je	Va-r3s-n
-v	Sa
-sredo	Ncfsa
-kupilo	Vmep-sn
-delnice	Ncfpa
-Laškega	Npnsg
-,	Z
-in	Cc
-sicer	Q
-0,6	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-kupili	Vmep-pm
-od	Sg
-družbe	Ncfsg
-Infond	Npmsn
-ID	Npmsn
-.	Z
-Med	Si
-večjimi	Agcmpi
-delničarji	Ncmpi
-Laškega	Npnsg
-so	Va-r3p-n
-še	Q
-Kapitalska	Agpfsn
-družba	Ncfsn
-7,06	Mdc
-odstotka	Ncmsg
-,	Z
-BA	Ncmsn
--	Z
-CA	Ncmsn
-5,69	Mdc
-odstotka	Ncmsg
-in	Cc
-NFD	Ncmsn
-1	Mdc
-4,96	Mdc
-odstotka	Ncmsg
-.	Z
-Po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-naj	Q
-bi	Va-c
-Šrotova	Aspfsn
-ekipa	Ncfsn
-že	Q
-obvladovala	Vmpp-sf
-več	Rgc
-kot	Cs
-polovico	Ncfsa
-lastništva	Ncnsg
-pivovarne	Ncfsg
-.	Z
-Foto	Ncmsn
-POP	Ncmsn
-TV	Ncmsn
-Za	Si
-prevzemom	Ncmsi
-Šrot	Npmsn
-?	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-je	Va-r3s-n
-vodstvo	Ncnsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-sredi	Sg
-decembra	Ncmsg
-zatrdilo	Vmep-sn
-,	Z
-da	Cs
-ne	Q
-namerava	Vmpr3s
-izvesti	Vmen
-managerskega	Agpmsg
-odkupa	Ncmsg
-pivovarne	Ncfsg
-,	Z
-potem	Rgp
-ko	Cs
-so	Va-r3p-n
-se	Px------y
-pojavili	Vmep-pm
-namigi	Ncmpn
-,	Z
-naj	Q
-bi	Va-c
-Laško	Npnsa
-zastavilo	Vmep-sn
-del	Ncmsan
-svojega	Px-msg
-lastniškega	Agpmsg
-deleža	Ncmsg
-v	Sl
-Mercatorju	Npmsl
-za	Sa
-zbiranje	Ncnsa
-denarja	Ncmsg
-za	Sa
-odkup	Ncmsan
-Laškega	Npnsg
-.	Z
-Koliko	Rgp
-nameravajo	Vmpr3p
-ponuditi	Vmen
-za	Sa
-delnico	Ncfsa
-Pivovarne	Ncfsg
-Laško	Npnsn
-,	Z
-prevzemniki	Ncmpn
-zaenkrat	Rgp
-še	Q
-niso	Va-r3p-y
-sporočili	Vmep-pm
-.	Z
-Na	Sl
-Ljubljanski	Agpfsl
-borzi	Ncfsl
-se	Px------y
-je	Va-r3s-n
-enotni	Agpmsny
-tečaj	Ncmsn
-delnice	Ncfsg
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-sredi	Sg
-lanskega	Agpmsg
-avgusta	Ncmsg
-za	Sa
-kratek	Agpmsan
-čas	Ncmsan
-povzpel	Vmep-sm
-nad	Sa
-100	Mdc
-evrov	Ncmpg
-,	Z
-danes	Rgp
-oblikoval	Vmpp-sm
-pri	Sl
-85,03	Mdc
-evra	Ncmsg
-.	Z
-Kapital	Ncmsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-je	Va-r3s-n
-razdeljen	Appmsnn
-na	Sa
-8.747.652	Mdc
-delnic	Ncfpg
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-bi	Va-c
-celoten	Agpmsan
-prevzem	Ncmsan
-brez	Sg
-prevzemne	Agpfsg
-premije	Ncfsg
-po	Sl
-trenutnem	Agpmsl
-tečaju	Ncmsl
-za	Sa
-Laško	Npnsa
-ponudnike	Ncmpa
-stal	Vmpp-sm
-skoraj	Q
-745	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-zmanjšano	Appnsn
-za	Sa
-delnice	Ncfpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-imajo	Vmpr3p-n
-že	Q
-v	Sl
-lasti	Ncfsl
-.	Z
+token	tag	lemma
+Štirje	mte:Mlcmpn	štirje
+delničarji	mte:Ncmpn	delničar
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+skupaj	mte:Rgp	skupaj
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+slabih	mte:Agpmpg	slab
+42	mte:Mdc	42
+odstotkov	mte:Ncmpg	odstotek
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+napovedali	mte:Vmep-pm	napovedati
+prevzem	mte:Ncmsan	prevzem
+pivovarne	mte:Ncfsg	pivovarna
+.	mte:Z	.
+Infond	mte:Npmsn	Infond
+Holding	mte:Npmsn	holding
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+na	mte:Sl	na
+straneh	mte:Ncfpl	stran
+Ljubljanske	mte:Agpfsg	ljubljanski
+borze	mte:Ncfsg	borza
+v	mte:Sl	v
+imenu	mte:Ncnsl	ime
+štirih	mte:Mlcmpg	štirje
+delničarjev	mte:Ncmpg	delničar
+Laškega	mte:Npnsg	Laško
+objavil	mte:Vmep-sm	objaviti
+obvestilo	mte:Ncnsa	obvestiti
+o	mte:Sl	o
+nameri	mte:Ncfsl	namera
+za	mte:Sa	za
+prevzem	mte:Ncmsan	prevzem
+pivovarne	mte:Ncfsg	pivovarna
+.	mte:Z	.
+Mariborska	mte:Agpfsn	mariborski
+finančna	mte:Agpfsn	finančen
+družba	mte:Ncfsn	družba
+Infond	mte:Npmsn	Infond
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+Cestno	mte:Agpnsn	cesten
+podjetje	mte:Ncnsn	podjetje
+Maribor	mte:Npmsn	Maribor
+,	mte:Z	,
+finančna	mte:Agpfsn	finančen
+družba	mte:Ncfsn	družba
+Fidina	mte:Npmsg	Fidina
+iz	mte:Sg	iz
+Ljubljane	mte:Npfsg	Ljubljana
+in	mte:Cc	in
+ljubljanska	mte:Agpfsn	ljubljanski
+družba	mte:Ncfsn	družba
+Koto	mte:Npmsn	Koto
+nameravajo	mte:Vmpr3p	nameravati
+objaviti	mte:Vmen	objaviti
+prevzemno	mte:Agpfsa	prevzemen
+ponudbo	mte:Ncfsa	ponudba
+za	mte:Sa	za
+Pivovarno	mte:Ncfsa	pivovarna
+Laško	mte:Npnsa	Laško
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Infond	mte:Npmsn	Infond
+Holding	mte:Ncmsn	holding
+danes	mte:Rgp	danes
+objavil	mte:Vmep-sm	objaviti
+na	mte:Sl	na
+spletnih	mte:Agpfpl	spleten
+straneh	mte:Ncfpl	stran
+Ljubljanske	mte:Agpfsg	ljubljanski
+borze	mte:Ncfsg	borza
+.	mte:Z	.
+Največji	mte:Agsmsny	velik
+lastnik	mte:Ncmsn	lastnik
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+je	mte:Va-r3s-n	biti
+trenutno	mte:Rgp	trenutno
+s	mte:Si	z
+23,71	mte:Mdc	23,71
+-	mte:Z	-
+odstotnim	mte:Agpmsi	odstoten
+deležem	mte:Ncmsi	delež
+Infond	mte:Ncmsn	infond
+Holding	mte:Ncmsn	holding
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+v	mte:Sl	v
+večinski	mte:Agpfsl	večinski
+lasti	mte:Ncfsl	last
+Centra	mte:Ncmsg	center
+naložb	mte:Ncfpg	naložba
+.	mte:Z	.
+Drugi	mte:Mlpmsny	drug
+največji	mte:Agsmsny	velik
+lastnik	mte:Ncmsn	lastnik
+pivovarne	mte:Ncfsg	pivovarna
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Cestno	mte:Agpnsn	cesten
+podjetje	mte:Ncnsn	podjetje
+Maribor	mte:Npmsn	Maribor
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+12,63	mte:Mdc	12,63
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+Koto	mte:Npfsn	Koto
+je	mte:Va-r3s-n	biti
+postala	mte:Vmep-sf	postati
+šesti	mte:Mlomsa	šesti
+največji	mte:Agsmsay	velik
+delničar	mte:Ncmsan	delničar
+družbe	mte:Ncfsg	družba
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+luksemburške	mte:Agpfsg	luksemburški
+družbe	mte:Ncfsg	družba
+Towra	mte:Npfsn	Towr
+odkupila	mte:Vmep-sf	odkupiti
+4,86	mte:Mdc	4,86
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+pivovarni	mte:Ncfsl	pivovarna
+.	mte:Z	.
+Towra	mte:Npmsn	Towr
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+borzni	mte:Agpmpn	borzen
+poznavalci	mte:Ncmpn	poznavalec
+povezujejo	mte:Vmpr3p	povezovati
+z	mte:Si	z
+družbo	mte:Ncfsi	družba
+Medvešek	mte:Npmsn	Medvešek
+Pušnik	mte:Npfsn	Pušnik
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+omenjeni	mte:Appmsny	omenjen
+paket	mte:Ncmsn	paket
+delnic	mte:Ncfpg	delnica
+v	mte:Sl	v
+Laškem	mte:Npnsl	Laško
+kupila	mte:Vmep-sf	kupiti
+konec	mte:Sg	konec
+decembra	mte:Ncmsg	december
+od	mte:Sg	od
+Cestnega	mte:Agpnsg	cesten
+podjetja	mte:Ncnsg	podjetje
+Maribor	mte:Npmsn	Maribor
+CPM	mte:Npmsn	CPM
+.	mte:Z	.
+Tudi	mte:Q	tudi
+podjetje	mte:Ncnsa	podjetje
+Fidina	mte:Npmsg	Fidina
+,	mte:Z	,
+katere	mte:Pq-fsg	kateri
+soustanovitelji	mte:Ncmpn	soustanovitelj
+so	mte:Va-r3p-n	biti
+holding	mte:Ncmsn	holding
+NFD	mte:Npmsn	NFD
+,	mte:Z	,
+Maksima	mte:Npfsn	Maksim
+invest	mte:Npfsn	invest
+in	mte:Cc	in
+podjetje	mte:Ncnsn	podjetje
+Nefira	mte:Npmsn	Nefira
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+kupilo	mte:Vmep-sn	kupiti
+delnice	mte:Ncfpa	delnica
+Laškega	mte:Npnsg	Laško
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+0,6	mte:Mdc	0,6
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+kupili	mte:Vmep-pm	kupiti
+od	mte:Sg	od
+družbe	mte:Ncfsg	družba
+Infond	mte:Npmsn	Infond
+ID	mte:Npmsn	ID
+.	mte:Z	.
+Med	mte:Si	med
+večjimi	mte:Agcmpi	velik
+delničarji	mte:Ncmpi	delničar
+Laškega	mte:Npnsg	Laško
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+Kapitalska	mte:Agpfsn	kapitalski
+družba	mte:Ncfsn	družba
+7,06	mte:Mdc	7,06
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+BA	mte:Ncmsn	ba
+-	mte:Z	-
+CA	mte:Ncmsn	CA
+5,69	mte:Mdc	5,69
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+NFD	mte:Ncmsn	NFD
+1	mte:Mdc	1
+4,96	mte:Mdc	4,96
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Šrotova	mte:Aspfsn	Šrotov
+ekipa	mte:Ncfsn	ekipa
+že	mte:Q	že
+obvladovala	mte:Vmpp-sf	obvladovati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+polovico	mte:Ncfsa	polovica
+lastništva	mte:Ncnsg	lastništvo
+pivovarne	mte:Ncfsg	pivovarna
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+POP	mte:Ncmsn	POP
+TV	mte:Ncmsn	TV
+Za	mte:Si	za
+prevzemom	mte:Ncmsi	prevzem
+Šrot	mte:Npmsn	Šrot
+?	mte:Z	?
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+vodstvo	mte:Ncnsn	vodstvo
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+sredi	mte:Sg	sredi
+decembra	mte:Ncmsg	december
+zatrdilo	mte:Vmep-sn	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+namerava	mte:Vmpr3s	nameravati
+izvesti	mte:Vmen	izvesti
+managerskega	mte:Agpmsg	managerski
+odkupa	mte:Ncmsg	odkup
+pivovarne	mte:Ncfsg	pivovarna
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pojavili	mte:Vmep-pm	pojaviti
+namigi	mte:Ncmpn	namig
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Laško	mte:Npnsa	Laško
+zastavilo	mte:Vmep-sn	zastaviti
+del	mte:Ncmsan	del
+svojega	mte:Px-msg	svoj
+lastniškega	mte:Agpmsg	lastniški
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+Mercatorju	mte:Npmsl	Mercator
+za	mte:Sa	za
+zbiranje	mte:Ncnsa	zbiranje
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+odkup	mte:Ncmsan	odkup
+Laškega	mte:Npnsg	Laško
+.	mte:Z	.
+Koliko	mte:Rgp	koliko
+nameravajo	mte:Vmpr3p	nameravati
+ponuditi	mte:Vmen	ponuditi
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+prevzemniki	mte:Ncmpn	prevzemnik
+zaenkrat	mte:Rgp	zaenkrat
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+sporočili	mte:Vmep-pm	sporočiti
+.	mte:Z	.
+Na	mte:Sl	na
+Ljubljanski	mte:Agpfsl	ljubljanski
+borzi	mte:Ncfsl	borz
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+enotni	mte:Agpmsny	enoten
+tečaj	mte:Ncmsn	tečaj
+delnice	mte:Ncfsg	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sredi	mte:Sg	sredi
+lanskega	mte:Agpmsg	lanski
+avgusta	mte:Ncmsg	avgust
+za	mte:Sa	za
+kratek	mte:Agpmsan	kratek
+čas	mte:Ncmsan	čas
+povzpel	mte:Vmep-sm	povzpeti
+nad	mte:Sa	nad
+100	mte:Mdc	100
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+danes	mte:Rgp	danes
+oblikoval	mte:Vmpp-sm	oblikovati
+pri	mte:Sl	pri
+85,03	mte:Mdc	85,03
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Kapital	mte:Ncmsn	kapital
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+je	mte:Va-r3s-n	biti
+razdeljen	mte:Appmsnn	razdeljen
+na	mte:Sa	na
+8.747.652	mte:Mdc	8.747.652
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+celoten	mte:Agpmsan	celoten
+prevzem	mte:Ncmsan	prevzem
+brez	mte:Sg	brez
+prevzemne	mte:Agpfsg	prevzemen
+premije	mte:Ncfsg	premija
+po	mte:Sl	po
+trenutnem	mte:Agpmsl	trenuten
+tečaju	mte:Ncmsl	tečaj
+za	mte:Sa	za
+Laško	mte:Npnsa	Laško
+ponudnike	mte:Ncmpa	ponudnik
+stal	mte:Vmpp-sm	stati
+skoraj	mte:Q	skoraj
+745	mte:Mdc	745
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+zmanjšano	mte:Appnsn	zmanjšan
+za	mte:Sa	za
+delnice	mte:Ncfpa	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+imajo	mte:Vmpr3p-n	imeti
+že	mte:Q	že
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+.	mte:Z	.
+Ponudniki	mte:Ncmpn	ponudnik
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+poleg	mte:Sg	poleg
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+s	mte:Si	z
+prevzemom	mte:Ncmsi	prevzem
+dobili	mte:Vmep-pm	dobiti
+tudi	mte:Q	tudi
+večinski	mte:Agpmsay	večinski
+delež	mte:Ncmsan	delež
+ajdovskega	mte:Agpmsg	ajdovski
+Fructala	mte:Npmsg	Fructal
+,	mte:Z	,
+Radenske	mte:Npfsg	Radenska
+in	mte:Cc	in
+Dela	mte:Ncnsg	delo
+,	mte:Z	,
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+hčerinskima	mte:Agpfdi	hčerinski
+družbama	mte:Ncfdi	družba
+Radenska	mte:Npfsn	Radenska
+in	mte:Cc	in
+Pivovarna	mte:Ncfsn	pivovarna
+Union	mte:Npmsn	Union
+pa	mte:Cc	pa
+še	mte:Q	še
+skoraj	mte:Q	skoraj
+24	mte:Mdc	24
+odstotkov	mte:Ncmpg	odstotek
+Mercatorja	mte:Npmsg	Mercator

@@ -1,414 +1,425 @@
-token	tag
-Adria	Npfsn
-Airways	Npfsn
-bo	Va-f3s-n
-opravila	Vmep-sf
-le	Q
-dva	Mlcmda
-poleta	Ncmda
-do	Sg
-Frankfurta	Npmsg
-Zaposleni	Appmpn
-pri	Sl
-nemški	Agpfsl
-letalski	Agpfsl
-družbi	Ncfsl
-Lufthansa	Npmsg
-danes	Rgp
-opozorilno	Rgp
-stavkajo	Vmpr3p
-,	Z
-zato	Cc
-so	Va-r3p-n
-odpovedani	Appmpn
-skoraj	Q
-vsi	Pg-mpn
-njeni	Ps3mpnsf
-poleti	Ncmpn
-.	Z
-Ovirane	Appfpn
-so	Va-r3p-n
-tudi	Q
-povezave	Ncfpn
-Adrie	Npfsg
-Airways	Npmsn
-z	Si
-Nemčijo	Npfsi
-.	Z
-Od	Sg
-1.720	Mdc
-poletov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-ima	Vmpr3s-n
-Lufthansa	Npmsn
-na	Sl
-voznem	Agpmsl
-redu	Ncmsl
-,	Z
-naj	Q
-bi	Va-c
-jih	Pp3mpa--y
-opravili	Vmep-pm
-le	Q
-32	Mdc
-.	Z
-Potniki	Ncmpn
-,	Z
-ki	Cs
-se	Px------y
-bodo	Va-f3p-n
-morali	Vmpp-pm
-za	Sa
-svoj	Px-msa
-polet	Ncmsan
-obrisati	Vmen
-pod	Si
-nosom	Ncmsi
-,	Z
-bodo	Va-f3p-n
-lahko	Rgp
-brez	Sg
-dodatnih	Agpmpg
-stroškov	Ncmpg
-spremenili	Vmep-pm
-svojo	Px-fsa
-rezervacijo	Ncfsa
-.	Z
-Informacije	Ncfpa
-o	Sl
-voznem	Agpmsl
-redu	Ncmsl
-letal	Ncnpg
-dobite	Vmer2p
-tudi	Q
-tukaj	Rgp
-.	Z
-Najbolj	Rgs
-sveži	Agpmpn
-podatki	Ncmpn
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-Lufthansa	Npmsg
-svoje	Px-mpa
-potnike	Ncmpa
-poziva	Vmpr3s
-,	Z
-naj	Cs
-se	Px------y
-pravočasno	Rgp
-pozanimajo	Vmpr3p
-,	Z
-kako	Rgp
-kaže	Vmpr3s
-z	Si
-njihovimi	Ps3mpip
-poleti	Ncmpi
-,	Z
-še	Q
-najbolje	Rgs
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-.	Z
-Največ	Rgs
-poletov	Ncmpg
-po	Sl
-opravljenih	Appmpl
-z	Sg
-berlinskega	Agpnsg
-letališča	Ncnsg
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-zaposleni	Appmpn
-stavko	Ncfsa
-končali	Vmep-pm
-že	Q
-ob	Sl
-14.30	Mdc
-.	Z
-Sindikat	Ncmsn
-nemškega	Agpmsg
-storitvenega	Agpmsg
-sektorja	Ncmsg
-Verdi	Npmsn
-zahteva	Vmbr3s
-5,2	Mdc
--	Z
-odstotno	Agpnsa
-zvišanje	Ncnsa
-plač	Ncfpg
-za	Sa
-okoli	Rgp
-33.000	Mdc
-zaposlenih	Appmpg
-v	Sl
-družbi	Ncfsl
-in	Cc
-garancije	Ncfpa
-za	Sa
-njihova	Ps3npap
-delovna	Agpnpa
-mesta	Ncnpa
-,	Z
-vodstvo	Ncnsn
-pa	Cc
-je	Va-r3s-n
-nazadnje	Rgp
-ponudilo	Vmep-sn
-do	Sg
-največ	Rgs
-0,6	Mdc
--	Z
-odstotno	Agpnsa
-zvišanje	Ncnsa
-.	Z
-Sindikat	Ncmsn
-je	Va-r3s-n
-to	Pd-fsa
-ponudbo	Ncfsa
-zavrnil	Vmep-sm
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-ob	Sl
-povečanju	Ncnsl
-delovnega	Agpmsg
-obsega	Ncmsg
-vodila	Vmpp-sf
-v	Sa
-nižanje	Ncnsa
-realnih	Agpfpg
-plač	Ncfpg
-.	Z
-Opozorilna	Agpfsn
-stavka	Ncfsn
-,	Z
-ki	Cs
-to	Pd-nsa
-ni	Va-r3s-y
-Vodstvo	Ncnsn
-Lufthanse	Npmsg
-je	Va-r3s-n
-sicer	Q
-prepričano	Appnsn
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-pretirano	Appfsa
-obliko	Ncfsa
-delavskega	Agpmsg
-boja	Ncmsg
-,	Z
-še	Q
-posebej	Rgp
-,	Z
-ker	Cs
-so	Va-r3p-n
-prva	Mlonpn
-pogajanja	Ncnpn
-prinesla	Vmep-pf
-napredek	Ncmsan
-in	Cc
-ker	Cs
-je	Va-r3s-n
-24	Mdc
--	Z
-urna	Agpfsn
-opozorilna	Agpfsn
-stavka	Ncfsn
-v	Sl
-resnici	Ncfsl
-popolna	Agpfsn
-stavka	Ncfsn
-.	Z
-Škoda	Ncfsn
-bo	Va-f3s-n
-znašala	Vmpp-sf
-več	Rgc
-deset	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-znova	Rgp
-pa	Cc
-bo	Va-f3s-n
-trpel	Vmpp-sm
-tudi	Q
-ugled	Ncmsn
-družbe	Ncfsg
-.	Z
-Naslednja	Agpnpa
-pogajanja	Ncnpa
-bodo	Va-f3p-n
-konec	Sg
-meseca	Ncmsg
-,	Z
-je	Va-r3s-n
-za	Sa
-Radio	Npmsan
-Slovenija	Npfsn
-poročal	Vmpp-sm
-dopisnik	Ncmsn
-iz	Sg
-Berlina	Npmsg
-Boštjan	Npmsn
-Anžin	Npmsn
-.	Z
-Preverite	Vmem2p
-polet	Ncmsan
-pred	Si
-prihodom	Ncmsi
-na	Sa
-letališče	Ncnsa
-!	Z
-Stavka	Ncfsn
-pri	Sl
-Lufthansi	Npfsl
-bo	Va-f3s-n
-sicer	Q
-prizadela	Vmep-sf
-tudi	Q
-promet	Ncmsan
-slovenskega	Agpmsg
-letalskega	Agpmsg
-prevoznika	Ncmsg
-Adria	Npfsn
-Airways	Npmsn
-.	Z
-Ta	Pd-mpa
-svoje	Px-mpa
-potnike	Ncmpa
-obvešča	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-danes	Rgp
-letel	Vmpp-sm
-v	Sl
-zmanjšanem	Appmsl
-obsegu	Ncmsl
-.	Z
-Odpadli	Vmep-pm
-bodo	Va-f3p-n
-poleti	Rgp
-na	Sl
-relaciji	Ncfsl
-Ljubljana	Npfsn
--	Z
-München	Npmsn
-,	Z
-Ljubljana	Npfsn
--	Z
-Frankfurt	Npmsn
-,	Z
-Priština	Npfsn
--	Z
-Frankfurt	Npmsn
-ter	Cc
-Priština	Npfsn
--	Z
-München	Npmsn
-.	Z
-Dva	Mlcmdn
-poleta	Ncmdn
-na	Sl
-relaciji	Ncfsl
-Ljubljana	Npfsn
--	Z
-Frankfurt	Npmsn
-pa	Cc
-bosta	Va-f3d-n
-opravljena	Appmdn
-,	Z
-nanje	Pp3mpa--b
-so	Va-r3p-n
-že	Q
-prenesli	Vmep-pm
-rezervacije	Ncfpa
-potnikov	Ncmpg
-sicer	Q
-načrtovanih	Appmpg
-poletov	Ncmpg
-v	Sa
-Frankfurt	Npmsan
-.	Z
-Potnike	Ncmpa
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-vozovnice	Ncfpa
-za	Sa
-pot	Ncfsa
-v	Sa
-München	Npmsan
-ali	Cc
-nadaljujejo	Vmpr3p
-pot	Ncfsa
-iz	Sg
-Münchna	Npmsg
-,	Z
-pri	Sl
-Adrii	Npfsl
-pozivajo	Vmpr3p
-,	Z
-naj	Cs
-se	Px------y
-obrnejo	Vmer3p
-na	Sa
-njihov	Ps3msap
-klicni	Agpmsay
-center	Ncmsan
-.	Z
-Posebno	Agpnsn
-opozorilo	Ncnsn
-velja	Vmpr3s
-potnikom	Ncmpd
-,	Z
-ki	Cs
-potujejo	Vmpr3p
-iz	Sg
-Frankfurta	Npmsg
-v	Sa
-Ljubljano	Npfsa
-.	Z
-Ti	Pd-mpn
-se	Px------y
-bodo	Va-f3p-n
-na	Sa
-polet	Ncmsan
-lahko	Rgp
-prijavili	Vmep-pm
-le	Q
-preko	Sg
-spleta	Ncmsg
-ali	Cc
-na	Sl
-samopostrežnih	Agpmpl
-avtomatih	Ncmpl
-.	Z
-Ob	Sl
-tem	Pd-nsl
-bodo	Va-f3p-n
-lahko	Rgp
-potovali	Vmpp-pm
-samo	Q
-tisti	Pd-mpn
-z	Si
-ročno	Agpfsi
-prtljago	Ncfsi
-,	Z
-saj	Cc
-zaradi	Sg
-stavke	Ncfsg
-prtljage	Ncfsg
-ne	Q
-bo	Va-f3s-n
-mogoče	Agpnsn
-oddati	Vmen
-.	Z
+token	tag	lemma
+Adria	mte:Npfsn	Adria
+Airways	mte:Npfsn	Airways
+bo	mte:Va-f3s-n	biti
+opravila	mte:Vmep-sf	opravilo
+le	mte:Q	le
+dva	mte:Mlcmda	dva
+poleta	mte:Ncmda	polet
+do	mte:Sg	do
+Frankfurta	mte:Npmsg	Frankfurta
+Zaposleni	mte:Appmpn	zaposlen
+pri	mte:Sl	pri
+nemški	mte:Agpfsl	nemški
+letalski	mte:Agpfsl	letalski
+družbi	mte:Ncfsl	družba
+Lufthansa	mte:Npmsg	Lufthans
+danes	mte:Rgp	danes
+opozorilno	mte:Rgp	opozorilno
+stavkajo	mte:Vmpr3p	stavkati
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+odpovedani	mte:Appmpn	odpovedan
+skoraj	mte:Q	skoraj
+vsi	mte:Pg-mpn	ves
+njeni	mte:Ps3mpnsf	njen
+poleti	mte:Ncmpn	polet
+.	mte:Z	.
+Ovirane	mte:Appfpn	oviran
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+povezave	mte:Ncfpn	povezava
+Adrie	mte:Npfsg	Adrie
+Airways	mte:Npmsn	Airways
+z	mte:Si	z
+Nemčijo	mte:Npfsi	Nemčija
+.	mte:Z	.
+Od	mte:Sg	od
+1.720	mte:Mdc	1.720
+poletov	mte:Ncmpg	polet
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+ima	mte:Vmpr3s-n	imeti
+Lufthansa	mte:Npmsn	Lufthans
+na	mte:Sl	na
+voznem	mte:Agpmsl	vozen
+redu	mte:Ncmsl	red
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+opravili	mte:Vmep-pm	opraviti
+le	mte:Q	le
+32	mte:Mdc	32
+.	mte:Z	.
+Potniki	mte:Ncmpn	potnik
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+za	mte:Sa	za
+svoj	mte:Px-msa	svoj
+polet	mte:Ncmsan	polet
+obrisati	mte:Vmen	obrisati
+pod	mte:Si	pod
+nosom	mte:Ncmsi	nos
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+brez	mte:Sg	brez
+dodatnih	mte:Agpmpg	dodaten
+stroškov	mte:Ncmpg	strošek
+spremenili	mte:Vmep-pm	spremeniti
+svojo	mte:Px-fsa	svoj
+rezervacijo	mte:Ncfsa	rezervacija
+.	mte:Z	.
+Informacije	mte:Ncfpa	informacija
+o	mte:Sl	o
+voznem	mte:Agpmsl	vozen
+redu	mte:Ncmsl	red
+letal	mte:Ncnpg	letalo
+dobite	mte:Vmer2p	dobiti
+tudi	mte:Q	tudi
+tukaj	mte:Rgp	tukaj
+.	mte:Z	.
+Najbolj	mte:Rgs	najbolj
+sveži	mte:Agpmpn	svež
+podatki	mte:Ncmpn	podatek
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+Lufthansa	mte:Npmsg	Lufthans
+svoje	mte:Px-mpa	svoj
+potnike	mte:Ncmpa	potnik
+poziva	mte:Vmpr3s	pozivati
+,	mte:Z	,
+naj	mte:Cs	naj
+se	mte:Px------y	se
+pravočasno	mte:Rgp	pravočasno
+pozanimajo	mte:Vmpr3p	pozanimati
+,	mte:Z	,
+kako	mte:Rgp	kako
+kaže	mte:Vmpr3s	kazati
+z	mte:Si	z
+njihovimi	mte:Ps3mpip	njihov
+poleti	mte:Ncmpi	polet
+,	mte:Z	,
+še	mte:Q	še
+najbolje	mte:Rgs	dobro
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+.	mte:Z	.
+Največ	mte:Rgs	največ
+poletov	mte:Ncmpg	polet
+po	mte:Sl	po
+opravljenih	mte:Appmpl	opravljen
+z	mte:Sg	z
+berlinskega	mte:Agpnsg	berlinski
+letališča	mte:Ncnsg	letališče
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+zaposleni	mte:Appmpn	zaposlen
+stavko	mte:Ncfsa	stavka
+končali	mte:Vmep-pm	končati
+že	mte:Q	že
+ob	mte:Sl	ob
+14.30	mte:Mdc	14.30
+.	mte:Z	.
+Sindikat	mte:Ncmsn	sindikat
+nemškega	mte:Agpmsg	nemški
+storitvenega	mte:Agpmsg	storitven
+sektorja	mte:Ncmsg	sektor
+Verdi	mte:Npmsn	Verda
+zahteva	mte:Vmbr3s	zahtevati
+5,2	mte:Mdc	5,2
+-	mte:Z	-
+odstotno	mte:Agpnsa	odstoten
+zvišanje	mte:Ncnsa	zvišanje
+plač	mte:Ncfpg	plača
+za	mte:Sa	za
+okoli	mte:Rgp	okoli
+33.000	mte:Mdc	33.000
+zaposlenih	mte:Appmpg	zaposlen
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+in	mte:Cc	in
+garancije	mte:Ncfpa	garancija
+za	mte:Sa	za
+njihova	mte:Ps3npap	njihov
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+,	mte:Z	,
+vodstvo	mte:Ncnsn	vodstvo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+nazadnje	mte:Rgp	nazadnje
+ponudilo	mte:Vmep-sn	ponuditi
+do	mte:Sg	do
+največ	mte:Rgs	največ
+0,6	mte:Mdc	0,6
+-	mte:Z	-
+odstotno	mte:Agpnsa	odstoten
+zvišanje	mte:Ncnsa	zvišanje
+.	mte:Z	.
+Sindikat	mte:Ncmsn	sindikat
+je	mte:Va-r3s-n	biti
+to	mte:Pd-fsa	ta
+ponudbo	mte:Ncfsa	ponudba
+zavrnil	mte:Vmep-sm	zavrniti
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ob	mte:Sl	ob
+povečanju	mte:Ncnsl	povečanje
+delovnega	mte:Agpmsg	deloven
+obsega	mte:Ncmsg	obsegati
+vodila	mte:Vmpp-sf	voditi
+v	mte:Sa	v
+nižanje	mte:Ncnsa	nižanje
+realnih	mte:Agpfpg	realen
+plač	mte:Ncfpg	plača
+.	mte:Z	.
+Opozorilna	mte:Agpfsn	opozorilen
+stavka	mte:Ncfsn	stavka
+,	mte:Z	,
+ki	mte:Cs	ki
+to	mte:Pd-nsa	ta
+ni	mte:Va-r3s-y	biti
+Vodstvo	mte:Ncnsn	vodstvo
+Lufthanse	mte:Npmsg	Lufthanse
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+prepričano	mte:Appnsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+pretirano	mte:Appfsa	pretirano
+obliko	mte:Ncfsa	oblika
+delavskega	mte:Agpmsg	delavski
+boja	mte:Ncmsg	boj
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+prva	mte:Mlonpn	prvi
+pogajanja	mte:Ncnpn	pogajanje
+prinesla	mte:Vmep-pf	prinesti
+napredek	mte:Ncmsan	napredek
+in	mte:Cc	in
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+24	mte:Mdc	24
+-	mte:Z	-
+urna	mte:Agpfsn	uren
+opozorilna	mte:Agpfsn	opozorilen
+stavka	mte:Ncfsn	stavka
+v	mte:Sl	v
+resnici	mte:Ncfsl	resnica
+popolna	mte:Agpfsn	popoln
+stavka	mte:Ncfsn	stavka
+.	mte:Z	.
+Škoda	mte:Ncfsn	škoda
+bo	mte:Va-f3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+več	mte:Rgc	več
+deset	mte:Mlc-pa	deset
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+znova	mte:Rgp	znova
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+trpel	mte:Vmpp-sm	trpeti
+tudi	mte:Q	tudi
+ugled	mte:Ncmsn	ugled
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Naslednja	mte:Agpnpa	naslednji
+pogajanja	mte:Ncnpa	pogajanje
+bodo	mte:Va-f3p-n	biti
+konec	mte:Sg	konec
+meseca	mte:Ncmsg	mesec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Radio	mte:Npmsan	Radia
+Slovenija	mte:Npfsn	Slovenija
+poročal	mte:Vmpp-sm	poročati
+dopisnik	mte:Ncmsn	dopisnik
+iz	mte:Sg	iz
+Berlina	mte:Npmsg	Berlin
+Boštjan	mte:Npmsn	Boštjan
+Anžin	mte:Npmsn	Anžin
+.	mte:Z	.
+Preverite	mte:Vmem2p	preveriti
+polet	mte:Ncmsan	polet
+pred	mte:Si	pred
+prihodom	mte:Ncmsi	prihod
+na	mte:Sa	na
+letališče	mte:Ncnsa	letališče
+!	mte:Z	!
+Stavka	mte:Ncfsn	stavka
+pri	mte:Sl	pri
+Lufthansi	mte:Npfsl	Lufthansi
+bo	mte:Va-f3s-n	biti
+sicer	mte:Q	sicer
+prizadela	mte:Vmep-sf	prizadeti
+tudi	mte:Q	tudi
+promet	mte:Ncmsan	promet
+slovenskega	mte:Agpmsg	slovenski
+letalskega	mte:Agpmsg	letalski
+prevoznika	mte:Ncmsg	prevoznik
+Adria	mte:Npfsn	Adria
+Airways	mte:Npmsn	Airways
+.	mte:Z	.
+Ta	mte:Pd-mpa	ta
+svoje	mte:Px-mpa	svoj
+potnike	mte:Ncmpa	potnik
+obvešča	mte:Vmpr3s	obveščati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+danes	mte:Rgp	danes
+letel	mte:Vmpp-sm	leteti
+v	mte:Sl	v
+zmanjšanem	mte:Appmsl	zmanjšan
+obsegu	mte:Ncmsl	obseg
+.	mte:Z	.
+Odpadli	mte:Vmep-pm	odpasti
+bodo	mte:Va-f3p-n	biti
+poleti	mte:Rgp	poleti
+na	mte:Sl	na
+relaciji	mte:Ncfsl	relacija
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+München	mte:Npmsn	München
+,	mte:Z	,
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Frankfurt	mte:Npmsn	Frankfurt
+,	mte:Z	,
+Priština	mte:Npfsn	Priština
+-	mte:Z	-
+Frankfurt	mte:Npmsn	Frankfurt
+ter	mte:Cc	ter
+Priština	mte:Npfsn	Priština
+-	mte:Z	-
+München	mte:Npmsn	München
+.	mte:Z	.
+Dva	mte:Mlcmdn	dva
+poleta	mte:Ncmdn	polet
+na	mte:Sl	na
+relaciji	mte:Ncfsl	relacija
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Frankfurt	mte:Npmsn	Frankfurt
+pa	mte:Cc	pa
+bosta	mte:Va-f3d-n	biti
+opravljena	mte:Appmdn	opravljen
+,	mte:Z	,
+nanje	mte:Pp3mpa--b	name
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+prenesli	mte:Vmep-pm	prenesti
+rezervacije	mte:Ncfpa	rezervacija
+potnikov	mte:Ncmpg	potnik
+sicer	mte:Q	sicer
+načrtovanih	mte:Appmpg	načrtovan
+poletov	mte:Ncmpg	polet
+v	mte:Sa	v
+Frankfurt	mte:Npmsan	Frankfurt
+.	mte:Z	.
+Potnike	mte:Ncmpa	potnik
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+vozovnice	mte:Ncfpa	vozovnica
+za	mte:Sa	za
+pot	mte:Ncfsa	pot
+v	mte:Sa	v
+München	mte:Npmsan	München
+ali	mte:Cc	ali
+nadaljujejo	mte:Vmpr3p	nadaljevati
+pot	mte:Ncfsa	pot
+iz	mte:Sg	iz
+Münchna	mte:Npmsg	Münchn
+,	mte:Z	,
+pri	mte:Sl	pri
+Adrii	mte:Npfsl	Adrii
+pozivajo	mte:Vmpr3p	pozivati
+,	mte:Z	,
+naj	mte:Cs	naj
+se	mte:Px------y	se
+obrnejo	mte:Vmer3p	obrniti
+na	mte:Sa	na
+njihov	mte:Ps3msap	njihov
+klicni	mte:Agpmsay	klicen
+center	mte:Ncmsan	center
+.	mte:Z	.
+Posebno	mte:Agpnsn	poseben
+opozorilo	mte:Ncnsn	opozorilo
+velja	mte:Vmpr3s	veljati
+potnikom	mte:Ncmpd	potnik
+,	mte:Z	,
+ki	mte:Cs	ki
+potujejo	mte:Vmpr3p	potovati
+iz	mte:Sg	iz
+Frankfurta	mte:Npmsg	Frankfurta
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+.	mte:Z	.
+Ti	mte:Pd-mpn	ta
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+na	mte:Sa	na
+polet	mte:Ncmsan	polet
+lahko	mte:Rgp	lahko
+prijavili	mte:Vmep-pm	prijaviti
+le	mte:Q	le
+preko	mte:Sg	preko
+spleta	mte:Ncmsg	splet
+ali	mte:Cc	ali
+na	mte:Sl	na
+samopostrežnih	mte:Agpmpl	samopostrežen
+avtomatih	mte:Ncmpl	avtomat
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+potovali	mte:Vmpp-pm	potovati
+samo	mte:Q	samo
+tisti	mte:Pd-mpn	tisti
+z	mte:Si	z
+ročno	mte:Agpfsi	ročen
+prtljago	mte:Ncfsi	prtljaga
+,	mte:Z	,
+saj	mte:Cc	saj
+zaradi	mte:Sg	zaradi
+stavke	mte:Ncfsg	stavka
+prtljage	mte:Ncfsg	prtljaga
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+oddati	mte:Vmen	oddati
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+stavke	mte:Ncfsg	stavka
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+zamujali	mte:Vmpp-pm	zamujati
+tudi	mte:Q	tudi
+preostali	mte:Appmpn	preostal
+poleti	mte:Ncmpn	polet
+,	mte:Z	,
+še	mte:Q	še
+opozarjajo	mte:Vmpr3p	opozarjati

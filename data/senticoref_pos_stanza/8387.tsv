@@ -1,408 +1,432 @@
-token	tag
-Na	Sl
-obisku	Ncmsl
-v	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-visoki	Agpmsny
-komisar	Ncmsn
-ZN	Npmsg
-za	Sa
-begunce	Ncmpa
-Antonio	Npmsn
-Guterres	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-z	Si
-zunanjim	Agpmsi
-ministrom	Ncmsi
-Dimitrijem	Npmsi
-Ruplom	Npmsi
-pogovarjal	Vmpp-sm
-o	Sl
-azilni	Agpfsl
-politiki	Ncfsl
-in	Cc
-sodelovanju	Ncnsl
-med	Si
-uradom	Ncmsi
-ZN	Npfsg
-in	Cc
-EU	Npfsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-povedal	Vmep-sm
-Rupel	Npmsn
-,	Z
-sta	Va-r3d-n
-z	Si
-gostom	Ncmsi
-govorila	Vmpp-dm
-predvsem	Q
-o	Sl
-tem	Pd-nsl
-,	Z
-kaj	Pq-nsa
-je	Va-r3s-n
-z	Sg
-vidika	Ncmsg
-slovenskega	Agpnsg
-predsedovanja	Ncnsg
-EU	Npfsg
-mogoče	Agpnsn
-storiti	Vmen
-na	Sl
-relaciji	Ncfsl
-med	Si
-EU	Npfsi
-in	Cc
-uradom	Ncmsi
-ZN	Npfsg
-za	Sa
-begunce	Ncmpa
-.	Z
-"	Z
-Poznamo	Vmpr1p
-problem	Ncmsan
-beguncev	Ncmpg
-.	Z
-Videli	Vmbp-pm
-smo	Va-r1p-n
-del	Ncmsan
-te	Pd-fsg
-problematike	Ncfsg
-,	Z
-tudi	Q
-pred	Si
-kratkim	Agpnsi
-na	Sl
-obisku	Ncmsl
-na	Sl
-Bližnjem	Agpmsl
-vzhodu	Ncmsl
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Rupel	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-EU	Npfsn
-in	Cc
-urad	Ncmsn
-ZN	Npfsg
-za	Sa
-begunce	Ncmpa
-druži	Vmpr3s
-tudi	Q
-zanimanje	Ncnsn
-za	Sa
-medkulturni	Agpmsay
-dialog	Ncmsan
-.	Z
-"	Z
-Gosta	Npmsn
-sem	Va-r1s-n
-med	Si
-drugim	Mlpnsi
-vprašal	Vmep-sm
-,	Z
-kako	Rgp
-ocenjuje	Vmpr3s
-idejo	Ncfsa
-Unije	Ncfsg
-za	Sa
-Sredozemlje	Npnsa
-in	Cc
-kako	Rgp
-je	Va-r3s-n
-mogoče	Agpnsn
-to	Pd-fsa
-idejo	Ncfsa
-uporabiti	Vmen
-za	Sa
-izboljšanje	Ncnsa
-statusa	Ncmsg
-rešitev	Ncfpg
-problemov	Ncmpg
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-.	Z
-"	Z
-"	Z
-EU	Npmsn
-specifičen	Agpmsan
-problem	Ncmsan
-"	Z
-Kot	Cs
-je	Va-r3s-n
-izpostavil	Vmep-sm
-Rupel	Npmsn
-,	Z
-je	Va-r3s-n
-EU	Npmsn
-specifičen	Agpmsnn
-problem	Ncmsn
-.	Z
-"	Z
-EU	Npfsn
-je	Va-r3s-n
-organizacija	Ncfsn
-sedemindvajsetih	Mlc-pg
-držav	Ncfpg
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-različne	Agpmpa
-pravne	Agpmpa
-sisteme	Ncmpa
-obravnavanja	Ncnsg
-beguncev	Ncmpg
-.	Z
-Vendarle	Cc
-mejá	Ncmsn
-med	Si
-nami	Pp1-pi
-ni	Va-r3s-y
-oziroma	Cc
-jih	Pp3mpg--y
-je	Va-r3s-n
-vse	Rgp
-manj	Rgc
-,	Z
-tako	Cc
-da	Cs
-je	Va-r3s-n
-tudi	Q
-nekaj	Rgp
-logističnih	Agpmpg
-problemov	Ncmpg
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-dejal	Vmep-sm
-Rupel	Npmsn
-.	Z
-"	Z
-Imamo	Vmpr1p-n
-skupno	Agpfsa
-mejo	Ncfsa
-,	Z
-skupen	Agpmsan
-prostor	Ncmsan
-,	Z
-hkrati	Rgp
-pa	Cc
-veliko	Rgp
-azilnih	Agpmpg
-sistemov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-med	Si
-sabo	Px---i
-precej	Rgp
-različni	Agpmpn
-,	Z
-"	Z
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-povedal	Vmep-sm
-Guterres	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-zelo	Rgp
-težko	Agpnsn
-usklajevati	Vmpn
-prostor	Ncmsan
-s	Si
-skupno	Agpfsi
-mejo	Ncfsi
-in	Cc
-veliko	Rgp
-različnimi	Agpmpi
-nacionalnimi	Agpmpi
-sistemi	Ncmpi
-.	Z
-"	Z
-Ključni	Agpmsny
-vidik	Ncmsn
-v	Sl
-trenutnem	Agpmsl
-razvoju	Ncmsl
-EU	Npfsg
-je	Va-r3s-n
-razvijanje	Ncnsa
-evropskega	Agpmsg
-azilnega	Agpmsg
-sistema	Ncmsg
-.	Z
-Slovensko	Agpnsn
-predsedstvo	Ncnsn
-EU	Npfsg
-je	Va-r3s-n
-predlagalo	Vmbp-sn
-številne	Agpfpa
-pobude	Ncfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-zelo	Rgp
-koristne	Agpfpn
-za	Sa
-razvoj	Ncmsan
-tega	Pd-msg
-projekta	Ncmsg
-,	Z
-in	Cc
-razvili	Vmep-pm
-smo	Va-r1p-n
-zelo	Rgp
-pomembne	Agpfpa
-oblike	Ncfpa
-sodelovanja	Ncnsg
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-poudaril	Vmep-sm
-Guterres	Npmsn
-.	Z
-Gosta	Npmsn
-sprejel	Vmep-sm
-tudi	Q
-Türk	Npmsn
-Antonio	Npmsn
-Guterres	Npmsn
-Turk	Npmsn
-bobo	Npmsn
-Antonio	Npmsn
-Guterres	Npmsn
-je	Va-r3s-n
-Türku	Npmsd
-predstavil	Vmep-sm
-različne	Agpfpa
-oblike	Ncfpa
-sodelovanja	Ncnsg
-in	Cc
-svetovanja	Ncnsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-visoki	Agpmsny
-komisariat	Ncmsn
-ZN	Npmsn
-za	Sa
-begunce	Ncmpa
-(	Z
-UNHCR	Npmsn
-)	Z
-omogoča	Vmpr3s
-državam	Ncfpd
-članicam	Ncfpd
-EU	Npfsg
-.	Z
-©	Npmsn
-BOBO	Npmsn
-Na	Sl
-srečanju	Ncnsl
-s	Si
-slovenskim	Agpmsi
-predsednikom	Ncmsi
-Danilom	Npmsi
-Türkom	Npmsi
-pa	Cc
-je	Va-r3s-n
-Guterres	Npmsn
-je	Va-r3s-n
-predstavil	Vmep-sm
-svoje	Px-mpa
-poglede	Ncmpa
-na	Sa
-razvoj	Ncmsan
-varovanja	Ncnsg
-beguncev	Ncmpg
-v	Sl
-sklopu	Ncmsl
-EU	Npfsg
-in	Cc
-ob	Sl
-tem	Pd-nsl
-posebej	Rgp
-opozoril	Vmep-sm
-na	Sa
-vprašanje	Ncnsa
-usklajenosti	Ncfsg
-ureditev	Ncfsa
-evropskih	Agpfpg
-držav	Ncfpg
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-izrazil	Vmep-sm
-zaskrbljenost	Ncfsa
-zaradi	Sg
-prakse	Ncfsg
-uveljavljanja	Ncnsg
-najmanjšega	Agsmsg
-skupnega	Agpmsg
-imenovalca	Ncmsg
-v	Sl
-tej	Pd-fsl
-politiki	Ncfsl
-.	Z
-Guterres	Npmsn
-je	Va-r3s-n
-predstavil	Vmep-sm
-tudi	Q
-različne	Agpfpa
-oblike	Ncfpa
-sodelovanja	Ncnsg
-in	Cc
-svetovanja	Ncnsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-visoki	Agpmsny
-komisariat	Ncmsn
-ZN	Npfsg
-za	Sa
-begunce	Ncmpa
-(	Z
-UNHCR	Npmsn
-)	Z
-omogoča	Vmpr3s
-državam	Ncfpd
-članicam	Ncfpd
-EU	Npfsg
-pri	Sl
-uporabi	Ncfsl
-mednarodnih	Agpmpg
-standardov	Ncmpg
-določanja	Ncnsg
-statusa	Ncmsg
-begunca	Ncmsg
-in	Cc
-pri	Sl
-vodenju	Ncnsl
-postopkov	Ncmpg
-v	Sl
-zvezi	Ncfsl
-s	Si
-tem	Pd-nsi
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+obisku	mte:Ncmsl	obisk
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+visoki	mte:Agpmsny	visok
+komisar	mte:Ncmsn	komisar
+ZN	mte:Npmsg	ZN
+za	mte:Sa	za
+begunce	mte:Ncmpa	begunec
+Antonio	mte:Npmsn	Antonio
+Guterres	mte:Npmsn	Guterres
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+zunanjim	mte:Agpmsi	zunanji
+ministrom	mte:Ncmsi	minister
+Dimitrijem	mte:Npmsi	Dimitri
+Ruplom	mte:Npmsi	Rupel
+pogovarjal	mte:Vmpp-sm	pogovarjati
+o	mte:Sl	o
+azilni	mte:Agpfsl	azilen
+politiki	mte:Ncfsl	politika
+in	mte:Cc	in
+sodelovanju	mte:Ncnsl	sodelovanje
+med	mte:Si	med
+uradom	mte:Ncmsi	urad
+ZN	mte:Npfsg	ZN
+in	mte:Cc	in
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Rupel	mte:Npmsn	Rupel
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+z	mte:Si	z
+gostom	mte:Ncmsi	gost
+govorila	mte:Vmpp-dm	govoriti
+predvsem	mte:Q	predvsem
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+je	mte:Va-r3s-n	biti
+z	mte:Sg	z
+vidika	mte:Ncmsg	vidik
+slovenskega	mte:Agpnsg	slovenski
+predsedovanja	mte:Ncnsg	predsedovanje
+EU	mte:Npfsg	EU
+mogoče	mte:Agpnsn	mogoč
+storiti	mte:Vmen	storiti
+na	mte:Sl	na
+relaciji	mte:Ncfsl	relacija
+med	mte:Si	med
+EU	mte:Npfsi	EU
+in	mte:Cc	in
+uradom	mte:Ncmsi	urad
+ZN	mte:Npfsg	ZN
+za	mte:Sa	za
+begunce	mte:Ncmpa	begunec
+.	mte:Z	.
+"	mte:Z	"
+Poznamo	mte:Vmpr1p	poznati
+problem	mte:Ncmsan	problem
+beguncev	mte:Ncmpg	begunec
+.	mte:Z	.
+Videli	mte:Vmbp-pm	videti
+smo	mte:Va-r1p-n	biti
+del	mte:Ncmsan	del
+te	mte:Pd-fsg	ta
+problematike	mte:Ncfsg	problematika
+,	mte:Z	,
+tudi	mte:Q	tudi
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+na	mte:Sl	na
+obisku	mte:Ncmsl	obisk
+na	mte:Sl	na
+Bližnjem	mte:Agpmsl	bližnji
+vzhodu	mte:Ncmsl	vzhod
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Rupel	mte:Npmsn	Rupel
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+EU	mte:Npfsn	EU
+in	mte:Cc	in
+urad	mte:Ncmsn	urad
+ZN	mte:Npfsg	ZN
+za	mte:Sa	za
+begunce	mte:Ncmpa	begunec
+druži	mte:Vmpr3s	družiti
+tudi	mte:Q	tudi
+zanimanje	mte:Ncnsn	zanimanje
+za	mte:Sa	za
+medkulturni	mte:Agpmsay	medkulturen
+dialog	mte:Ncmsan	dialog
+.	mte:Z	.
+"	mte:Z	"
+Gosta	mte:Npmsn	Gosta
+sem	mte:Va-r1s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+vprašal	mte:Vmep-sm	vprašati
+,	mte:Z	,
+kako	mte:Rgp	kako
+ocenjuje	mte:Vmpr3s	ocenjevati
+idejo	mte:Ncfsa	ideja
+Unije	mte:Ncfsg	unija
+za	mte:Sa	za
+Sredozemlje	mte:Npnsa	Sredozemlje
+in	mte:Cc	in
+kako	mte:Rgp	kako
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+to	mte:Pd-fsa	ta
+idejo	mte:Ncfsa	ideja
+uporabiti	mte:Vmen	uporabiti
+za	mte:Sa	za
+izboljšanje	mte:Ncnsa	izboljšanje
+statusa	mte:Ncmsg	status
+rešitev	mte:Ncfpg	rešitev
+problemov	mte:Ncmpg	problem
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+.	mte:Z	.
+"	mte:Z	"
+"	mte:Z	"
+EU	mte:Npmsn	EU
+specifičen	mte:Agpmsan	specifičen
+problem	mte:Ncmsan	problem
+"	mte:Z	"
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+izpostavil	mte:Vmep-sm	izpostaviti
+Rupel	mte:Npmsn	Rupel
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+EU	mte:Npmsn	EU
+specifičen	mte:Agpmsnn	specifičen
+problem	mte:Ncmsn	problem
+.	mte:Z	.
+"	mte:Z	"
+EU	mte:Npfsn	EU
+je	mte:Va-r3s-n	biti
+organizacija	mte:Ncfsn	organizacija
+sedemindvajsetih	mte:Mlc-pg	sedemindvajset
+držav	mte:Ncfpg	država
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+različne	mte:Agpmpa	različen
+pravne	mte:Agpmpa	praven
+sisteme	mte:Ncmpa	sistem
+obravnavanja	mte:Ncnsg	obravnavanje
+beguncev	mte:Ncmpg	begunec
+.	mte:Z	.
+Vendarle	mte:Cc	vendarle
+mejá	mte:Ncmsn	mejt
+med	mte:Si	med
+nami	mte:Pp1-pi	jaz
+ni	mte:Va-r3s-y	biti
+oziroma	mte:Cc	oziroma
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+vse	mte:Rgp	vse
+manj	mte:Rgc	manj
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+nekaj	mte:Rgp	nekaj
+logističnih	mte:Agpmpg	logističen
+problemov	mte:Ncmpg	problem
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+Rupel	mte:Npmsn	Rupel
+.	mte:Z	.
+"	mte:Z	"
+Imamo	mte:Vmpr1p-n	imeti
+skupno	mte:Agpfsa	skupen
+mejo	mte:Ncfsa	meja
+,	mte:Z	,
+skupen	mte:Agpmsan	skupen
+prostor	mte:Ncmsan	prostor
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+veliko	mte:Rgp	veliko
+azilnih	mte:Agpmpg	azilen
+sistemov	mte:Ncmpg	sistem
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+med	mte:Si	med
+sabo	mte:Px---i	se
+precej	mte:Rgp	precej
+različni	mte:Agpmpn	različen
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+povedal	mte:Vmep-sm	povedati
+Guterres	mte:Npmsn	Guterres
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zelo	mte:Rgp	zelo
+težko	mte:Agpnsn	težek
+usklajevati	mte:Vmpn	usklajevati
+prostor	mte:Ncmsan	prostor
+s	mte:Si	z
+skupno	mte:Agpfsi	skupen
+mejo	mte:Ncfsi	meja
+in	mte:Cc	in
+veliko	mte:Rgp	veliko
+različnimi	mte:Agpmpi	različen
+nacionalnimi	mte:Agpmpi	nacionalen
+sistemi	mte:Ncmpi	sistem
+.	mte:Z	.
+"	mte:Z	"
+Ključni	mte:Agpmsny	ključen
+vidik	mte:Ncmsn	vidik
+v	mte:Sl	v
+trenutnem	mte:Agpmsl	trenuten
+razvoju	mte:Ncmsl	razvoj
+EU	mte:Npfsg	EU
+je	mte:Va-r3s-n	biti
+razvijanje	mte:Ncnsa	razvijanje
+evropskega	mte:Agpmsg	evropski
+azilnega	mte:Agpmsg	azilen
+sistema	mte:Ncmsg	sistem
+.	mte:Z	.
+Slovensko	mte:Agpnsn	slovenski
+predsedstvo	mte:Ncnsn	predsedstvo
+EU	mte:Npfsg	EU
+je	mte:Va-r3s-n	biti
+predlagalo	mte:Vmbp-sn	predlagati
+številne	mte:Agpfpa	številen
+pobude	mte:Ncfpa	pobuda
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zelo	mte:Rgp	zelo
+koristne	mte:Agpfpn	koristen
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+tega	mte:Pd-msg	ta
+projekta	mte:Ncmsg	projekt
+,	mte:Z	,
+in	mte:Cc	in
+razvili	mte:Vmep-pm	razviti
+smo	mte:Va-r1p-n	biti
+zelo	mte:Rgp	zelo
+pomembne	mte:Agpfpa	pomemben
+oblike	mte:Ncfpa	oblika
+sodelovanja	mte:Ncnsg	sodelovanje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+poudaril	mte:Vmep-sm	poudariti
+Guterres	mte:Npmsn	Guterres
+.	mte:Z	.
+Gosta	mte:Npmsn	Gosta
+sprejel	mte:Vmep-sm	sprejeti
+tudi	mte:Q	tudi
+Türk	mte:Npmsn	Türk
+Antonio	mte:Npmsn	Antonio
+Guterres	mte:Npmsn	Guterres
+Turk	mte:Npmsn	Turk
+bobo	mte:Npmsn	bobo
+Antonio	mte:Npmsn	Antonio
+Guterres	mte:Npmsn	Guterres
+je	mte:Va-r3s-n	biti
+Türku	mte:Npmsd	Türk
+predstavil	mte:Vmep-sm	predstaviti
+različne	mte:Agpfpa	različen
+oblike	mte:Ncfpa	oblika
+sodelovanja	mte:Ncnsg	sodelovanje
+in	mte:Cc	in
+svetovanja	mte:Ncnsg	svetovanje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+visoki	mte:Agpmsny	visok
+komisariat	mte:Ncmsn	komisariat
+ZN	mte:Npmsn	ZN
+za	mte:Sa	za
+begunce	mte:Ncmpa	begunec
+(	mte:Z	(
+UNHCR	mte:Npmsn	UNHCR
+)	mte:Z	)
+omogoča	mte:Vmpr3s	omogočati
+državam	mte:Ncfpd	država
+članicam	mte:Ncfpd	članica
+EU	mte:Npfsg	EU
+.	mte:Z	.
+©	mte:Npmsn	©
+BOBO	mte:Npmsn	BOBO
+Na	mte:Sl	na
+srečanju	mte:Ncnsl	srečanje
+s	mte:Si	z
+slovenskim	mte:Agpmsi	slovenski
+predsednikom	mte:Ncmsi	predsednik
+Danilom	mte:Npmsi	Danilom
+Türkom	mte:Npmsi	Türk
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Guterres	mte:Npmsn	Guterres
+je	mte:Va-r3s-n	biti
+predstavil	mte:Vmep-sm	predstaviti
+svoje	mte:Px-mpa	svoj
+poglede	mte:Ncmpa	pogled
+na	mte:Sa	na
+razvoj	mte:Ncmsan	razvoj
+varovanja	mte:Ncnsg	varovanje
+beguncev	mte:Ncmpg	begunec
+v	mte:Sl	v
+sklopu	mte:Ncmsl	sklop
+EU	mte:Npfsg	EU
+in	mte:Cc	in
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+posebej	mte:Rgp	posebej
+opozoril	mte:Vmep-sm	opozoriti
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+usklajenosti	mte:Ncfsg	usklajenost
+ureditev	mte:Ncfsa	ureditev
+evropskih	mte:Agpfpg	evropski
+držav	mte:Ncfpg	država
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+izrazil	mte:Vmep-sm	izraziti
+zaskrbljenost	mte:Ncfsa	zaskrbljenost
+zaradi	mte:Sg	zaradi
+prakse	mte:Ncfsg	praksa
+uveljavljanja	mte:Ncnsg	uveljavljanje
+najmanjšega	mte:Agsmsg	majhen
+skupnega	mte:Agpmsg	skupen
+imenovalca	mte:Ncmsg	imenovalec
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+politiki	mte:Ncfsl	politika
+.	mte:Z	.
+Guterres	mte:Npmsn	Guterres
+je	mte:Va-r3s-n	biti
+predstavil	mte:Vmep-sm	predstaviti
+tudi	mte:Q	tudi
+različne	mte:Agpfpa	različen
+oblike	mte:Ncfpa	oblika
+sodelovanja	mte:Ncnsg	sodelovanje
+in	mte:Cc	in
+svetovanja	mte:Ncnsg	svetovanje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+visoki	mte:Agpmsny	visok
+komisariat	mte:Ncmsn	komisariat
+ZN	mte:Npfsg	ZN
+za	mte:Sa	za
+begunce	mte:Ncmpa	begunec
+(	mte:Z	(
+UNHCR	mte:Npmsn	UNHCR
+)	mte:Z	)
+omogoča	mte:Vmpr3s	omogočati
+državam	mte:Ncfpd	država
+članicam	mte:Ncfpd	članica
+EU	mte:Npfsg	EU
+pri	mte:Sl	pri
+uporabi	mte:Ncfsl	uporaba
+mednarodnih	mte:Agpmpg	mednaroden
+standardov	mte:Ncmpg	standard
+določanja	mte:Ncnsg	določanje
+statusa	mte:Ncmsg	status
+begunca	mte:Ncmsg	begunec
+in	mte:Cc	in
+pri	mte:Sl	pri
+vodenju	mte:Ncnsl	vodenje
+postopkov	mte:Ncmpg	postopek
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+zapisali	mte:Vmep-pm	zapisati
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+v	mte:Sl	v
+uradu	mte:Ncmsl	urad
+predsednika	mte:Ncmsg	predsednik
+republike	mte:Ncfsg	republika
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+Türk	mte:Npmsn	Türk
+mnenja	mte:Ncnsg	mnenje
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+Sloveniji	mte:Npfsd	Slovenija
+takšno	mte:Pd-nsn	takšen
+sodelovanje	mte:Ncnsa	sodelovanje
+koristilo	mte:Vmpp-sn	koristiti

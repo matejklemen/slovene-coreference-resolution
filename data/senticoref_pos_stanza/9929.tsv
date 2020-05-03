@@ -1,438 +1,468 @@
-token	tag
-Na	Sl
-avstrijski	Agpfsl
-strani	Ncfsl
-predora	Ncmsg
-Karavanke	Npfsg
-kljub	Sd
-napovedim	Ncfpd
-ob	Sl
-peti	Mlofsl
-uri	Ncfsl
-zjutraj	Rgp
-niso	Va-r3p-y
-prepovedali	Vmep-pm
-prometa	Ncmsg
-tovornim	Agpnsi
-vozilom	Ncnsi
-.	Z
-Prepoved	Ncfsa
-so	Va-r3p-n
-uvedli	Vmep-pm
-šele	Q
-nekaj	Rgp
-minut	Ncfpg
-pred	Si
-deveto	Mlofsi
-uro	Ncfsi
-.	Z
-Medtem	Rgp
-pa	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-predor	Ncmsn
-za	Sa
-tovorna	Agpnpa
-vozila	Ncnpa
-iz	Sg
-slovenske	Agpfsg
-smeri	Ncfsg
-ves	Pg-msa
-čas	Ncmsan
-zaprt	Appmsnn
-.	Z
-V	Sa
-veljavo	Ncfsa
-je	Va-r3s-n
-namreč	Cc
-stopila	Vmep-sf
-avstrijska	Agpfsn
-odredba	Ncfsn
-o	Sl
-prepovedi	Ncfsl
-vožnje	Ncfsg
-tovornjakov	Ncmpg
-skozi	Sa
-predor	Ncmsan
-Karavanke	Npfsg
-ob	Sl
-sobotah	Ncfpl
-dopoldne	Rgp
-.	Z
-V	Sl
-skladu	Ncmsl
-z	Si
-odredbo	Ncfsi
-avstrijske	Agpfsg
-ministrice	Ncfsg
-za	Sa
-promet	Ncmsan
-velja	Vmpr3s
-prepoved	Ncfsa
-vožnje	Ncfsg
-skozi	Sa
-predor	Ncmsan
-na	Sl
-avstrijski	Agpfsl
-strani	Ncfsl
-ob	Sl
-sobotah	Ncfpl
-med	Si
-5	Mdc
-.	Z
-in	Cc
-12	Mdc
-.	Z
-uro	Ncfsi
-.	Z
-Član	Ncmsn
-upravnega	Agpmsg
-odbora	Ncmsg
-za	Sa
-promet	Ncmsan
-na	Sl
-Obrtni	Agpfsl
-zbornici	Ncfsl
-Slovenije	Npfsg
-Aleksander	Npmsn
-Bizjak	Npmsn
-,	Z
-ki	Cs
-vse	Pg-nsa
-od	Sg
-zjutraj	Rgp
-spremlja	Vmpr3s
-dogajanje	Ncnsa
-na	Sl
-Karavankah	Npfpl
-,	Z
-je	Va-r3s-n
-za	Sa
-zurnal24	Mdc
-.	Z
-si	Px---d--y
-povedal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-Avstrijci	Npmpn
-začeli	Vmep-pm
-tovornim	Agpnpd
-vozilom	Ncnpd
-prepovedovati	Vmpn
-vstop	Ncmsan
-v	Sa
-predor	Ncmsan
-nekaj	Rgp
-minut	Ncfpg
-pred	Si
-deveto	Mlofsi
-uro	Ncfsi
-.	Z
-Tiskovni	Agpmsny
-predstavnik	Ncmsn
-Darsa	Npmsg
-Marjan	Npmsn
-Koler	Npmsn
-je	Va-r3s-n
-za	Sa
-Radio	Npmsan
-Slovenija	Npfsn
-zanikal	Vmep-sm
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-Dars	Npmsn
-omejeval	Vmpp-sm
-vožnjo	Ncfsa
-tovornim	Agpnpd
-vozilom	Ncnpd
-.	Z
-Pred	Si
-tem	Pd-nsi
-pa	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-predor	Ncmsn
-za	Sa
-tovorna	Agpnpa
-vozila	Ncnpa
-odprt	Appmsnn
-,	Z
-razen	Sg
-iz	Sg
-slovenske	Agpfsg
-stani	Ncfsg
-,	Z
-"	Z
-kljub	Sd
-obljubam	Ncfpd
-,	Z
-da	Cs
-bo	Va-f3s-n
-predor	Ncmsn
-odprt	Appmsnn
-za	Sa
-izvoz	Ncmsan
-iz	Sg
-Slovenije	Npfsg
-"	Z
-.	Z
-Na	Sa
-spletni	Agpmsay
-stran	Ncfsa
-avstrijskega	Agpmsg
-upravljalca	Ncmsg
-avtocest	Ncfpg
-Asfinag	Npmsg
-opozorila	Ncnsg
-o	Sl
-prepovedi	Ncfsl
-prometa	Ncmsg
-skozi	Sa
-Karavanški	Agpmsay
-predor	Ncmsan
-še	Q
-ni	Va-r3s-y
-mogoče	Agpnsn
-opaziti	Vmen
-.	Z
-Predsednik	Ncmsn
-sekcije	Ncfsg
-za	Sa
-promet	Ncmsan
-pri	Sl
-OZS	Npmsl
-Andrej	Npmsn
-Klobasa	Npmsn
-pa	Cc
-je	Va-r3s-n
-za	Sa
-zurnal24	Mdc
-.	Z
-si	Px---d--y
-povedal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-ogorčen	Appmsnn
-nad	Si
-ravnanjem	Ncnsi
-Darsa	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-kljub	Sd
-izrecnim	Agpnpd
-navodilom	Ncnpd
-prometnega	Agpnsg
-ministrstva	Ncnsg
-,	Z
-da	Cs
-naj	Q
-ne	Q
-postavlja	Vmpr3s
-nobenih	Pz-fpg
-elektronskih	Agpfpg
-preprek	Ncfpg
-,	Z
-tovornim	Agpnsi
-vozilom	Ncnsi
-prepovedal	Vmep-sm
-vstop	Ncmsan
-v	Sa
-predor	Ncmsan
-Karavanke	Npfsg
-.	Z
-"	Z
-To	Pd-nsn
-so	Va-r3p-n
-lumpi	Ncmpn
-,	Z
-ki	Cs
-nagajajo	Vmpr3p
-slovenskim	Agpmpd
-podjetnikom	Ncmpd
-.	Z
-Sami	Agpmpn
-sebi	Px---d
-smo	Va-r1p-n
-berači	Ncmpn
-,	Z
-"	Z
-se	Px------y
-nad	Si
-Darsom	Npmsi
-jezi	Vmpr3s
-Klobasa	Npfsn
-.	Z
-Nove	Agpfsg
-omejitve	Ncfsg
-tovornega	Agpmsg
-prometa	Ncmsg
-Celoletni	Agpfsd
-prepovedi	Ncfsd
-vožnje	Ncfsg
-tovornih	Agpnpg
-vozil	Ncnpg
-nad	Si
-7,5	Mdc
-tone	Ncfpi
-ob	Sl
-nedeljah	Ncfpl
-,	Z
-praznikih	Ncmpl
-in	Cc
-dela	Ncnpa
-prostih	Agpmpg
-dneh	Ncmpl
-se	Px------y
-z	Si
-današnjim	Agpmsi
-dnem	Ncmsi
-pridružujejo	Vmpr3p
-še	Q
-nove	Agpfpn
-.	Z
-Doslej	Rgp
-je	Va-r3s-n
-bila	Va-p-sf
-tovornjakom	Ncmpd
-,	Z
-katerih	Pq-mpg
-največja	Agsfsn
-dovoljena	Appfsn
-masa	Ncfsn
-presega	Vmpr3s
-7,5	Mdc
-tone	Ncfsg
-,	Z
-prepovedana	Appfsn
-vožnja	Ncfsn
-po	Sl
-slovenskih	Agpfpl
-cestah	Ncfpl
-ob	Sl
-nedeljah	Ncfpl
-,	Z
-praznikih	Ncmpl
-in	Cc
-dela	Ncnpl
-prostih	Agpmpg
-dneh	Ncmpl
-od	Sg
-8	Mdc
-.	Z
-do	Sg
-21	Mdc
-.	Z
-ure	Ncfsg
-ter	Cc
-še	Q
-dodatno	Rgp
-v	Sa
-petek	Ncmsan
-pred	Si
-veliko	Agpfsi
-nočjo	Ncfsi
-od	Sg
-14	Mdc
-.	Z
-do	Sg
-21	Mdc
-.	Z
-ure	Ncfsg
-.	Z
-V	Sl
-skladu	Ncmsl
-z	Si
-odredbo	Ncfsi
-o	Sl
-omejitvi	Ncfsl
-prometa	Ncmsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-konec	Sg
-lanskega	Agpmsg
-avgusta	Ncmsg
-sprejel	Vmep-sm
-tedanji	Agpmsny
-minister	Ncmsn
-za	Sa
-promet	Ncmsan
-Patrick	Npmsn
-Vlačič	Npmsn
-,	Z
-se	Px------y
-danes	Rgp
-tem	Pd-fpd
-omejitvam	Ncfpd
-pridružujejo	Vmpr3p
-še	Q
-dodatne	Agpfpn
-,	Z
-s	Si
-turistično	Agpfsi
-sezono	Ncfsi
-povezane	Appfpn
-omejitve	Ncfpn
-prometa	Ncmsg
-.	Z
-Vse	Rgp
-do	Sg
-prvega	Mlomsg
-konca	Ncmsg
-tedna	Ncmsg
-v	Sl
-septembru	Ncmsl
-bo	Va-f3s-n
-tako	Rgp
-veljala	Vmpp-sf
-še	Q
-dodatna	Agpfsn
-omejitev	Ncfsn
-tovornega	Agpmsg
-prometa	Ncmsg
-ob	Sl
-sobotah	Ncfpl
-med	Si
-8	Mdc
-.	Z
-in	Cc
-13	Mdc
-.	Z
-uro	Ncfsi
-ter	Cc
-za	Sa
-določene	Appfpa
-ceste	Ncfpa
-tudi	Q
-ob	Sl
-sobotah	Ncfpl
-med	Si
-6	Mdc
-.	Z
-in	Cc
-16	Mdc
-.	Z
-uro	Ncfsi
-ter	Cc
-ob	Sl
-nedeljah	Ncfpl
-,	Z
-praznikih	Ncmpl
-in	Cc
-dela	Ncnpl
-prostih	Agpmpg
-dneh	Ncmpl
-od	Sg
-8	Mdc
-.	Z
-do	Sg
-22	Mdc
-.	Z
-ure	Ncfsg
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+avstrijski	mte:Agpfsl	avstrijski
+strani	mte:Ncfsl	stran
+predora	mte:Ncmsg	predor
+Karavanke	mte:Npfsg	Karavanke
+kljub	mte:Sd	kljub
+napovedim	mte:Ncfpd	napoved
+ob	mte:Sl	ob
+peti	mte:Mlofsl	peti
+uri	mte:Ncfsl	ura
+zjutraj	mte:Rgp	zjutraj
+niso	mte:Va-r3p-y	biti
+prepovedali	mte:Vmep-pm	prepovedati
+prometa	mte:Ncmsg	promet
+tovornim	mte:Agpnsi	tovoren
+vozilom	mte:Ncnsi	vozilo
+.	mte:Z	.
+Prepoved	mte:Ncfsa	prepoved
+so	mte:Va-r3p-n	biti
+uvedli	mte:Vmep-pm	uvesti
+šele	mte:Q	šele
+nekaj	mte:Rgp	nekaj
+minut	mte:Ncfpg	minuta
+pred	mte:Si	pred
+deveto	mte:Mlofsi	deveti
+uro	mte:Ncfsi	ura
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+predor	mte:Ncmsn	predor
+za	mte:Sa	za
+tovorna	mte:Agpnpa	tovoren
+vozila	mte:Ncnpa	vozilo
+iz	mte:Sg	iz
+slovenske	mte:Agpfsg	slovenski
+smeri	mte:Ncfsg	smer
+ves	mte:Pg-msa	ves
+čas	mte:Ncmsan	čas
+zaprt	mte:Appmsnn	zaprt
+.	mte:Z	.
+V	mte:Sa	v
+veljavo	mte:Ncfsa	veljava
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+stopila	mte:Vmep-sf	stopiti
+avstrijska	mte:Agpfsn	avstrijski
+odredba	mte:Ncfsn	odredba
+o	mte:Sl	o
+prepovedi	mte:Ncfsl	prepoved
+vožnje	mte:Ncfsg	vožnja
+tovornjakov	mte:Ncmpg	tovornjak
+skozi	mte:Sa	skozi
+predor	mte:Ncmsan	predor
+Karavanke	mte:Npfsg	Karavanke
+ob	mte:Sl	ob
+sobotah	mte:Ncfpl	sobota
+dopoldne	mte:Rgp	dopoldne
+.	mte:Z	.
+V	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+odredbo	mte:Ncfsi	odredba
+avstrijske	mte:Agpfsg	avstrijski
+ministrice	mte:Ncfsg	ministrica
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+velja	mte:Vmpr3s	veljati
+prepoved	mte:Ncfsa	prepoved
+vožnje	mte:Ncfsg	vožnja
+skozi	mte:Sa	skozi
+predor	mte:Ncmsan	predor
+na	mte:Sl	na
+avstrijski	mte:Agpfsl	avstrijski
+strani	mte:Ncfsl	stran
+ob	mte:Sl	ob
+sobotah	mte:Ncfpl	sobota
+med	mte:Si	med
+5	mte:Mdc	5
+.	mte:Z	.
+in	mte:Cc	in
+12	mte:Mdc	12
+.	mte:Z	.
+uro	mte:Ncfsi	ura
+.	mte:Z	.
+Član	mte:Ncmsn	član
+upravnega	mte:Agpmsg	upraven
+odbora	mte:Ncmsg	odbor
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+na	mte:Sl	na
+Obrtni	mte:Agpfsl	obrten
+zbornici	mte:Ncfsl	zbornica
+Slovenije	mte:Npfsg	Slovenija
+Aleksander	mte:Npmsn	Aleksander
+Bizjak	mte:Npmsn	Bizjak
+,	mte:Z	,
+ki	mte:Cs	ki
+vse	mte:Pg-nsa	ves
+od	mte:Sg	od
+zjutraj	mte:Rgp	zjutraj
+spremlja	mte:Vmpr3s	spremljati
+dogajanje	mte:Ncnsa	dogajanje
+na	mte:Sl	na
+Karavankah	mte:Npfpl	Karavanka
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+zurnal24	mte:Mdc	zurnal24
+.	mte:Z	.
+si	mte:Px---d--y	se
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+Avstrijci	mte:Npmpn	Avstrijca
+začeli	mte:Vmep-pm	začeti
+tovornim	mte:Agpnpd	tovoren
+vozilom	mte:Ncnpd	vozilo
+prepovedovati	mte:Vmpn	prepovedovati
+vstop	mte:Ncmsan	vstop
+v	mte:Sa	v
+predor	mte:Ncmsan	predor
+nekaj	mte:Rgp	nekaj
+minut	mte:Ncfpg	minuta
+pred	mte:Si	pred
+deveto	mte:Mlofsi	deveti
+uro	mte:Ncfsi	ura
+.	mte:Z	.
+Tiskovni	mte:Agpmsny	tiskoven
+predstavnik	mte:Ncmsn	predstavnik
+Darsa	mte:Npmsg	Dars
+Marjan	mte:Npmsn	Marjan
+Koler	mte:Npmsn	Koler
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Radio	mte:Npmsan	Radia
+Slovenija	mte:Npfsn	Slovenija
+zanikal	mte:Vmep-sm	zanikati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Dars	mte:Npmsn	Dars
+omejeval	mte:Vmpp-sm	omejevati
+vožnjo	mte:Ncfsa	vožnja
+tovornim	mte:Agpnpd	tovoren
+vozilom	mte:Ncnpd	vozilo
+.	mte:Z	.
+Pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+predor	mte:Ncmsn	predor
+za	mte:Sa	za
+tovorna	mte:Agpnpa	tovoren
+vozila	mte:Ncnpa	vozilo
+odprt	mte:Appmsnn	odprt
+,	mte:Z	,
+razen	mte:Sg	razen
+iz	mte:Sg	iz
+slovenske	mte:Agpfsg	slovenski
+stani	mte:Ncfsg	stan
+,	mte:Z	,
+"	mte:Z	"
+kljub	mte:Sd	kljub
+obljubam	mte:Ncfpd	obljuba
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+predor	mte:Ncmsn	predor
+odprt	mte:Appmsnn	odprt
+za	mte:Sa	za
+izvoz	mte:Ncmsan	izvoz
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+"	mte:Z	"
+.	mte:Z	.
+Na	mte:Sa	na
+spletni	mte:Agpmsay	spleten
+stran	mte:Ncfsa	stran
+avstrijskega	mte:Agpmsg	avstrijski
+upravljalca	mte:Ncmsg	upravljalec
+avtocest	mte:Ncfpg	avtocest
+Asfinag	mte:Npmsg	Asfinag
+opozorila	mte:Ncnsg	opozorilo
+o	mte:Sl	o
+prepovedi	mte:Ncfsl	prepoved
+prometa	mte:Ncmsg	promet
+skozi	mte:Sa	skozi
+Karavanški	mte:Agpmsay	karavanški
+predor	mte:Ncmsan	predor
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+mogoče	mte:Agpnsn	mogoč
+opaziti	mte:Vmen	opaziti
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+sekcije	mte:Ncfsg	sekcija
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+pri	mte:Sl	pri
+OZS	mte:Npmsl	OZS
+Andrej	mte:Npmsn	Andrej
+Klobasa	mte:Npmsn	Klobasa
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+zurnal24	mte:Mdc	zurnal24
+.	mte:Z	.
+si	mte:Px---d--y	se
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ogorčen	mte:Appmsnn	ogorčen
+nad	mte:Si	nad
+ravnanjem	mte:Ncnsi	ravnanje
+Darsa	mte:Npmsg	Dars
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+kljub	mte:Sd	kljub
+izrecnim	mte:Agpnpd	izrecen
+navodilom	mte:Ncnpd	navodilo
+prometnega	mte:Agpnsg	prometen
+ministrstva	mte:Ncnsg	ministrstvo
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+ne	mte:Q	ne
+postavlja	mte:Vmpr3s	postavljati
+nobenih	mte:Pz-fpg	noben
+elektronskih	mte:Agpfpg	elektronski
+preprek	mte:Ncfpg	preprek
+,	mte:Z	,
+tovornim	mte:Agpnsi	tovoren
+vozilom	mte:Ncnsi	vozilo
+prepovedal	mte:Vmep-sm	prepovedati
+vstop	mte:Ncmsan	vstop
+v	mte:Sa	v
+predor	mte:Ncmsan	predor
+Karavanke	mte:Npfsg	Karavanke
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+so	mte:Va-r3p-n	biti
+lumpi	mte:Ncmpn	lump
+,	mte:Z	,
+ki	mte:Cs	ki
+nagajajo	mte:Vmpr3p	nagajati
+slovenskim	mte:Agpmpd	slovenski
+podjetnikom	mte:Ncmpd	podjetnik
+.	mte:Z	.
+Sami	mte:Agpmpn	sam
+sebi	mte:Px---d	se
+smo	mte:Va-r1p-n	biti
+berači	mte:Ncmpn	berač
+,	mte:Z	,
+"	mte:Z	"
+se	mte:Px------y	se
+nad	mte:Si	nad
+Darsom	mte:Npmsi	Dars
+jezi	mte:Vmpr3s	jeza
+Klobasa	mte:Npfsn	Klobasa
+.	mte:Z	.
+Nove	mte:Agpfsg	nov
+omejitve	mte:Ncfsg	omejitev
+tovornega	mte:Agpmsg	tovoren
+prometa	mte:Ncmsg	promet
+Celoletni	mte:Agpfsd	celoleten
+prepovedi	mte:Ncfsd	prepoved
+vožnje	mte:Ncfsg	vožnja
+tovornih	mte:Agpnpg	tovoren
+vozil	mte:Ncnpg	vozilo
+nad	mte:Si	nad
+7,5	mte:Mdc	7,5
+tone	mte:Ncfpi	tona
+ob	mte:Sl	ob
+nedeljah	mte:Ncfpl	nedelja
+,	mte:Z	,
+praznikih	mte:Ncmpl	praznik
+in	mte:Cc	in
+dela	mte:Ncnpa	delo
+prostih	mte:Agpmpg	prost
+dneh	mte:Ncmpl	dan
+se	mte:Px------y	se
+z	mte:Si	z
+današnjim	mte:Agpmsi	današnji
+dnem	mte:Ncmsi	dan
+pridružujejo	mte:Vmpr3p	pridruževati
+še	mte:Q	še
+nove	mte:Agpfpn	nov
+.	mte:Z	.
+Doslej	mte:Rgp	doslej
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+tovornjakom	mte:Ncmpd	tovornjak
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+največja	mte:Agsfsn	velik
+dovoljena	mte:Appfsn	dovoljen
+masa	mte:Ncfsn	mas
+presega	mte:Vmpr3s	presegati
+7,5	mte:Mdc	7,5
+tone	mte:Ncfsg	tona
+,	mte:Z	,
+prepovedana	mte:Appfsn	prepovedan
+vožnja	mte:Ncfsn	vožnja
+po	mte:Sl	po
+slovenskih	mte:Agpfpl	slovenski
+cestah	mte:Ncfpl	cesta
+ob	mte:Sl	ob
+nedeljah	mte:Ncfpl	nedelja
+,	mte:Z	,
+praznikih	mte:Ncmpl	praznik
+in	mte:Cc	in
+dela	mte:Ncnpl	delo
+prostih	mte:Agpmpg	prost
+dneh	mte:Ncmpl	dan
+od	mte:Sg	od
+8	mte:Mdc	8
+.	mte:Z	.
+do	mte:Sg	do
+21	mte:Mdc	21
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+ter	mte:Cc	ter
+še	mte:Q	še
+dodatno	mte:Rgp	dodatno
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+pred	mte:Si	pred
+veliko	mte:Agpfsi	velik
+nočjo	mte:Ncfsi	noč
+od	mte:Sg	od
+14	mte:Mdc	14
+.	mte:Z	.
+do	mte:Sg	do
+21	mte:Mdc	21
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+.	mte:Z	.
+V	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+odredbo	mte:Ncfsi	odredba
+o	mte:Sl	o
+omejitvi	mte:Ncfsl	omejitev
+prometa	mte:Ncmsg	promet
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+lanskega	mte:Agpmsg	lanski
+avgusta	mte:Ncmsg	avgust
+sprejel	mte:Vmep-sm	sprejeti
+tedanji	mte:Agpmsny	tedanji
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+Patrick	mte:Npmsn	Patrick
+Vlačič	mte:Npmsn	Vlačič
+,	mte:Z	,
+se	mte:Px------y	se
+danes	mte:Rgp	danes
+tem	mte:Pd-fpd	ta
+omejitvam	mte:Ncfpd	omejitev
+pridružujejo	mte:Vmpr3p	pridruževati
+še	mte:Q	še
+dodatne	mte:Agpfpn	dodaten
+,	mte:Z	,
+s	mte:Si	z
+turistično	mte:Agpfsi	turističen
+sezono	mte:Ncfsi	sezona
+povezane	mte:Appfpn	povezan
+omejitve	mte:Ncfpn	omejitev
+prometa	mte:Ncmsg	promet
+.	mte:Z	.
+Vse	mte:Rgp	vse
+do	mte:Sg	do
+prvega	mte:Mlomsg	prvi
+konca	mte:Ncmsg	konec
+tedna	mte:Ncmsg	teden
+v	mte:Sl	v
+septembru	mte:Ncmsl	september
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+veljala	mte:Vmpp-sf	veljati
+še	mte:Q	še
+dodatna	mte:Agpfsn	dodaten
+omejitev	mte:Ncfsn	omejitev
+tovornega	mte:Agpmsg	tovoren
+prometa	mte:Ncmsg	promet
+ob	mte:Sl	ob
+sobotah	mte:Ncfpl	sobota
+med	mte:Si	med
+8	mte:Mdc	8
+.	mte:Z	.
+in	mte:Cc	in
+13	mte:Mdc	13
+.	mte:Z	.
+uro	mte:Ncfsi	ura
+ter	mte:Cc	ter
+za	mte:Sa	za
+določene	mte:Appfpa	določen
+ceste	mte:Ncfpa	cesta
+tudi	mte:Q	tudi
+ob	mte:Sl	ob
+sobotah	mte:Ncfpl	sobota
+med	mte:Si	med
+6	mte:Mdc	6
+.	mte:Z	.
+in	mte:Cc	in
+16	mte:Mdc	16
+.	mte:Z	.
+uro	mte:Ncfsi	ura
+ter	mte:Cc	ter
+ob	mte:Sl	ob
+nedeljah	mte:Ncfpl	nedelja
+,	mte:Z	,
+praznikih	mte:Ncmpl	praznik
+in	mte:Cc	in
+dela	mte:Ncnpl	delo
+prostih	mte:Agpmpg	prost
+dneh	mte:Ncmpl	dan
+od	mte:Sg	od
+8	mte:Mdc	8
+.	mte:Z	.
+do	mte:Sg	do
+22	mte:Mdc	22
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+.	mte:Z	.
+Te	mte:Pd-fsg	ta
+ceste	mte:Ncfsg	cesta
+so	mte:Va-r3p-n	biti
+:	mte:Z	:
+avtocesta	mte:Ncfsn	avtocesta
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Klanec	mte:Npmsn	Klanec
+ter	mte:Cc	ter
+regionalne	mte:Agpfsg	regionalen
+ceste	mte:Ncfsg	cesta
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Kozina	mte:Npmsn	Kozina
+-	mte:Z	-
+Klanec	mte:Npmsn	Klanec
+-	mte:Z	-
+Srmin	mte:Npmsn	Srmin
+,	mte:Z	,
+Škofije	mte:Npfsg	Škofija
+-	mte:Z	-
+Sečovlje	mte:Npfsn	Sečovlje
+,	mte:Z	,
+Koper	mte:Npmsn	Koper
+-	mte:Z	-
+Dragonja	mte:Npfsn	Dragonj
+in	mte:Cc	in
+Postojna	mte:Npfsn	Postojna
+-	mte:Z	-
+Jelšane	mte:Npfsn	Jelšane

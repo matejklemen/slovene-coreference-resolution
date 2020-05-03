@@ -1,371 +1,410 @@
-token	tag
-Slovenska	Agpfsn
-odškodninska	Agpfsn
-družba	Ncfsn
-(	Z
-Sod	Ncmsn
-)	Z
-je	Va-r3s-n
-za	Sa
-septembrsko	Agpfsa
-skupščino	Ncfsa
-Aerodroma	Npmsg
-Ljubljana	Npfsn
-,	Z
-na	Sl
-kateri	Pq-fsl
-bodo	Va-f3p-n
-odločali	Vmpp-pm
-tudi	Q
-o	Sl
-investiciji	Ncfsl
-v	Sa
-nov	Agpmsan
-potniški	Agpmsay
-terminal	Ncmsan
-,	Z
-predlagala	Vmbp-sf
-revizijo	Ncfsa
-poslovanja	Ncnsg
-in	Cc
-skrbni	Agpmsay
-pregled	Ncmsan
-Aerodroma	Npmsg
-Ljubljana	Npfsn
-.	Z
-To	Pd-nsa
-bo	Va-f3s-n
-podlaga	Ncfsn
-za	Sa
-pogovore	Ncmpa
-z	Si
-morebitnimi	Agpmpi
-vlagatelji	Ncmpi
-v	Sl
-Aerodrom	Npmsan
-Ljubljana	Npfsn
-.	Z
-Sod	Ncmsn
-zahteva	Vmbr3s
-skrbni	Agpmsay
-pregled	Ncmsan
-Ravnikar	Npmsn
-prvi	Mlomsn
-nadzornik	Ncmsn
-Elesa	Npmsg
-Nadzorni	Agpmsny
-svet	Ncmsn
-družbe	Ncfsg
-Elektro	Npmsn
-Slovenija	Npfsn
-(	Z
-Eles	Npmsn
-)	Z
-je	Va-r3s-n
-včeraj	Rgp
-na	Sl
-ustanovni	Agpfsl
-seji	Ncfsl
-za	Sa
-svojega	Px-msa
-predsednika	Ncmsay
-imenoval	Vmbp-sm
-Marjana	Npmsay
-Ravnikarja	Npmsay
-,	Z
-za	Sa
-namestnika	Ncmsay
-predsednika	Ncmsg
-pa	Cc
-Igorja	Npmsay
-Maherja	Npmsay
-.	Z
-Istočasno	Rgp
-je	Va-r3s-n
-prvi	Mlomsn
-nadzornik	Ncmsn
-Gen	Ncmsn
-Energije	Ncfsg
-postal	Vmep-sm
-Matej	Npmsn
-Pirc	Npmsn
-,	Z
-njegov	Ps3msnsm
-namestnik	Ncmsn
-pa	Cc
-Danijel	Npmsn
-Levičar	Npmsn
-.	Z
-Košaki	Npmsn
-do	Sg
-državne	Agpfsg
-pomoči	Ncfsg
-Vlada	Ncfsn
-je	Va-r3s-n
-državno	Agpfsa
-pomoč	Ncfsa
-za	Sa
-prestrukturiranje	Ncnsa
-dodelila	Vmep-sf
-tudi	Q
-Tovarni	Ncfsd
-mesnih	Agpmpg
-izdelkov	Ncmpg
-Košaki	Npfsn
-,	Z
-in	Cc
-sicer	Q
-v	Sl
-obliki	Ncfsl
-sedemletnega	Agpnsg
-posojila	Ncnsg
-v	Sl
-višini	Ncfsl
-900.000	Mdc
-evrov	Ncmpg
-ter	Cc
-subvencije	Ncfsg
-za	Sa
-ohranitev	Ncfsa
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-višini	Ncfsl
-270.000	Mdc
-evrov	Ncmpg
-.	Z
-Tuš	Ncmsn
-pod	Si
-drobnogledom	Ncmsi
-preiskovalcev	Ncmpg
-Ljubljanski	Agpmsny
-preiskovalni	Agpmsny
-sodnik	Ncmsn
-je	Va-r3s-n
-uvedel	Vmep-sm
-preiskavo	Ncfsa
-zoper	Sa
-lastnika	Ncmsay
-celjske	Agpfsg
-trgovske	Agpfsg
-verige	Ncfsg
-Mirka	Npmsg
-Tuša	Npmsg
-,	Z
-in	Cc
-sicer	Q
-v	Sl
-zvezi	Ncfsl
-z	Si
-domnevno	Agpfsi
-sporno	Agpfsi
-podelitvijo	Ncfsi
-radijskih	Agpfpg
-frekvenc	Ncfpg
-mobilnemu	Agpmsd
-operaterju	Ncmsd
-Tušmobil	Npmsn
-.	Z
-Preiskavo	Ncfsa
-zahtevajo	Vmbr3p
-ljubljanski	Agpmpn
-tožilci	Ncmpn
-,	Z
-ki	Cs
-Tušu	Ncmsd
-očitajo	Vmpr3p
-podkupovanje	Ncnsa
-nekdanjega	Agpmsg
-šefa	Ncmsg
-državne	Agpfsg
-agencije	Ncfsg
-za	Sa
-pošto	Ncfsa
-in	Cc
-elektronske	Agpfpa
-komunikacije	Ncfpa
-Tomaža	Npmsg
-Simoniča	Npmsg
-.	Z
-V	Sa
-zameno	Ncfsa
-za	Sa
-stanovanje	Ncnsa
-Simoniču	Npmsd
-v	Sl
-Piranu	Npmsl
-naj	Q
-bi	Va-c
-agencija	Ncfsn
-brezplačno	Rgp
-podelila	Vmep-sf
-frekvence	Ncfpa
-Tušmobilu	Npmsd
-.	Z
-Kovinoplastika	Npmsay
-pokrila	Vmep-sf
-izgubo	Ncfsa
-Na	Sl
-včerajšnji	Agpfsl
-skupščini	Ncfsl
-Kovinoplastike	Npmsg
-Lož	Npfpg
-so	Va-r3p-n
-delničarji	Ncmpn
-podprli	Vmep-pm
-predlog	Ncmsan
-uprave	Ncfsg
-za	Sa
-pokritje	Ncnsa
-1,93	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-bilančne	Agpfsg
-izgube	Ncfsg
-v	Sa
-breme	Ncnsa
-oblikovanih	Appfpg
-rezerv	Ncfpg
-.	Z
-DZS	Npmsn
-ne	Q
-bo	Va-f3s-n
-izplačal	Vmbp-sm
-dividend	Ncfpg
-Delničarji	Ncmpn
-družbe	Ncfsg
-DZS	Npmsn
-so	Va-r3p-n
-na	Sl
-včerajšnji	Agpfsl
-skupščini	Ncfsl
-pooblastili	Vmep-pm
-upravo	Ncfsa
-,	Z
-da	Cs
-v	Sl
-obdobju	Ncnsl
-treh	Mlcnpg
-let	Ncnpg
-kupuje	Vmpr3s
-lastne	Agpfpa
-delnice	Ncfpa
-,	Z
-pri	Sl
-čemer	Pr-nsl
-število	Ncnsn
-pridobljenih	Appfpg
-delnic	Ncfpg
-ne	Q
-sme	Vmpr3s
-preseči	Vmen
-210.884	Mdc
-.	Z
-Upravo	Ncfsa
-so	Va-r3p-n
-tudi	Q
-pooblastili	Vmep-pm
-,	Z
-da	Cs
-lahko	Rgp
-lastne	Agpfpa
-delnice	Ncfpa
-umakne	Vmer3s
-brez	Sg
-nadaljnjega	Agpnsg
-sklepanja	Ncnsg
-o	Sl
-zmanjšanju	Ncnsl
-osnovnega	Agpmsg
-kapitala	Ncmsg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-so	Va-r3p-n
-odločili	Vmep-pm
-,	Z
-da	Cs
-se	Px------y
-bilančni	Agpmsny
-dobiček	Ncmsn
-v	Sl
-višini	Ncfsl
-12,8	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-razporedi	Vmer3s
-v	Sa
-preneseni	Agpmsay
-dobiček	Ncmsan
-družbe	Ncfsg
-.	Z
-Geacomma	Npmsg
-ni	Va-r3s-y
-več	Q
-Koprsko	Agpnsn
-sodišče	Ncnsn
-je	Va-r3s-n
-podjetje	Ncnsn
-Geacomm	Npmsn
-,	Z
-znano	Appnsn
-iz	Sg
-domnevno	Rgp
-spornih	Agpmpg
-poslov	Ncmpg
-z	Si
-Vzajemno	Agpnsi
-,	Z
-izbrisalo	Vmep-sn
-iz	Sg
-sodnega	Agpmsg
-registra	Ncmsg
-.	Z
-Rast	Ncfsn
-gospodarske	Agpfsg
-aktivnosti	Ncfsg
-Gospodarska	Agpfsn
-aktivnost	Ncfsn
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-je	Va-r3s-n
-avgusta	Ncmsg
-krepko	Rgp
-narasla	Vmep-sf
-.	Z
-Indeks	Ncmsn
-nabavnih	Agpmpg
-menedžerjev	Ncmpg
-(	Z
-PMI	Ncmsn
-)	Z
-,	Z
-ki	Cs
-ga	Pp3msa--y
-izračunava	Vmpr3s
-analitska	Agpfsn
-hiša	Ncfsn
-Markit	Npmsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-avgusta	Ncmsg
-zvišal	Vmep-sm
-za	Sa
-1,2	Mdc
-točke	Ncfsg
-,	Z
-na	Sa
-51,7	Mdc
-točke	Ncfpg
-,	Z
-s	Si
-čimer	Pr-nsi
-je	Va-r3s-n
-najvišji	Agsmsny
-v	Sl
-zadnjih	Agpnpl
-26	Mdc
-letih	Ncnpl
-.	Z
+token	tag	lemma
+Slovenska	mte:Agpfsn	slovenski
+odškodninska	mte:Agpfsn	odškodninski
+družba	mte:Ncfsn	družba
+(	mte:Z	(
+Sod	mte:Ncmsn	sod
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+septembrsko	mte:Agpfsa	septembrski
+skupščino	mte:Ncfsa	skupščina
+Aerodroma	mte:Npmsg	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bodo	mte:Va-f3p-n	biti
+odločali	mte:Vmpp-pm	odločati
+tudi	mte:Q	tudi
+o	mte:Sl	o
+investiciji	mte:Ncfsl	investicija
+v	mte:Sa	v
+nov	mte:Agpmsan	nov
+potniški	mte:Agpmsay	potniški
+terminal	mte:Ncmsan	terminal
+,	mte:Z	,
+predlagala	mte:Vmbp-sf	predlagati
+revizijo	mte:Ncfsa	revizija
+poslovanja	mte:Ncnsg	poslovanje
+in	mte:Cc	in
+skrbni	mte:Agpmsay	skrben
+pregled	mte:Ncmsan	pregled
+Aerodroma	mte:Npmsg	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+bo	mte:Va-f3s-n	biti
+podlaga	mte:Ncfsn	podlaga
+za	mte:Sa	za
+pogovore	mte:Ncmpa	pogovor
+z	mte:Si	z
+morebitnimi	mte:Agpmpi	morebiten
+vlagatelji	mte:Ncmpi	vlagatelj
+v	mte:Sl	v
+Aerodrom	mte:Npmsan	Aeroder
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+Sod	mte:Ncmsn	sod
+zahteva	mte:Vmbr3s	zahtevati
+skrbni	mte:Agpmsay	skrben
+pregled	mte:Ncmsan	pregled
+Ravnikar	mte:Npmsn	Ravnikar
+prvi	mte:Mlomsn	prvi
+nadzornik	mte:Ncmsn	nadzornik
+Elesa	mte:Npmsg	Elesa
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+družbe	mte:Ncfsg	družba
+Elektro	mte:Npmsn	Elektro
+Slovenija	mte:Npfsn	Slovenija
+(	mte:Z	(
+Eles	mte:Npmsn	Eles
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+na	mte:Sl	na
+ustanovni	mte:Agpfsl	ustanoven
+seji	mte:Ncfsl	seja
+za	mte:Sa	za
+svojega	mte:Px-msa	svoj
+predsednika	mte:Ncmsay	predsednik
+imenoval	mte:Vmbp-sm	imenovati
+Marjana	mte:Npmsay	Marjan
+Ravnikarja	mte:Npmsay	Ravnikar
+,	mte:Z	,
+za	mte:Sa	za
+namestnika	mte:Ncmsay	namestnik
+predsednika	mte:Ncmsg	predsednik
+pa	mte:Cc	pa
+Igorja	mte:Npmsay	Igor
+Maherja	mte:Npmsay	Maher
+.	mte:Z	.
+Istočasno	mte:Rgp	istočasno
+je	mte:Va-r3s-n	biti
+prvi	mte:Mlomsn	prvi
+nadzornik	mte:Ncmsn	nadzornik
+Gen	mte:Ncmsn	gen
+Energije	mte:Ncfsg	energija
+postal	mte:Vmep-sm	postati
+Matej	mte:Npmsn	Matej
+Pirc	mte:Npmsn	Pirc
+,	mte:Z	,
+njegov	mte:Ps3msnsm	njegov
+namestnik	mte:Ncmsn	namestnik
+pa	mte:Cc	pa
+Danijel	mte:Npmsn	Danijel
+Levičar	mte:Npmsn	Levičar
+.	mte:Z	.
+Košaki	mte:Npmsn	Košaki
+do	mte:Sg	do
+državne	mte:Agpfsg	državen
+pomoči	mte:Ncfsg	pomoč
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+državno	mte:Agpfsa	državen
+pomoč	mte:Ncfsa	pomoč
+za	mte:Sa	za
+prestrukturiranje	mte:Ncnsa	prestrukturiranje
+dodelila	mte:Vmep-sf	dodeliti
+tudi	mte:Q	tudi
+Tovarni	mte:Ncfsd	tovarna
+mesnih	mte:Agpmpg	mesen
+izdelkov	mte:Ncmpg	izdelek
+Košaki	mte:Npfsn	Košaki
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+sedemletnega	mte:Agpnsg	sedemleten
+posojila	mte:Ncnsg	posojilo
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+900.000	mte:Mdc	900.000
+evrov	mte:Ncmpg	evro
+ter	mte:Cc	ter
+subvencije	mte:Ncfsg	subvencija
+za	mte:Sa	za
+ohranitev	mte:Ncfsa	ohranitev
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+270.000	mte:Mdc	270.000
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Tuš	mte:Ncmsn	tuš
+pod	mte:Si	pod
+drobnogledom	mte:Ncmsi	drobnogled
+preiskovalcev	mte:Ncmpg	preiskovalec
+Ljubljanski	mte:Agpmsny	ljubljanski
+preiskovalni	mte:Agpmsny	preiskovalen
+sodnik	mte:Ncmsn	sodnik
+je	mte:Va-r3s-n	biti
+uvedel	mte:Vmep-sm	uvedeti
+preiskavo	mte:Ncfsa	preiskava
+zoper	mte:Sa	zoper
+lastnika	mte:Ncmsay	lastnik
+celjske	mte:Agpfsg	celjski
+trgovske	mte:Agpfsg	trgovski
+verige	mte:Ncfsg	veriga
+Mirka	mte:Npmsg	Mirko
+Tuša	mte:Npmsg	Tuša
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+domnevno	mte:Agpfsi	domneven
+sporno	mte:Agpfsi	sporen
+podelitvijo	mte:Ncfsi	podelitev
+radijskih	mte:Agpfpg	radijski
+frekvenc	mte:Ncfpg	frekvenca
+mobilnemu	mte:Agpmsd	mobilen
+operaterju	mte:Ncmsd	operater
+Tušmobil	mte:Npmsn	Tušmobil
+.	mte:Z	.
+Preiskavo	mte:Ncfsa	preiskava
+zahtevajo	mte:Vmbr3p	zahtevati
+ljubljanski	mte:Agpmpn	ljubljanski
+tožilci	mte:Ncmpn	tožilec
+,	mte:Z	,
+ki	mte:Cs	ki
+Tušu	mte:Ncmsd	tuš
+očitajo	mte:Vmpr3p	očitati
+podkupovanje	mte:Ncnsa	podkupovanje
+nekdanjega	mte:Agpmsg	nekdanji
+šefa	mte:Ncmsg	šef
+državne	mte:Agpfsg	državen
+agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+pošto	mte:Ncfsa	pošta
+in	mte:Cc	in
+elektronske	mte:Agpfpa	elektronski
+komunikacije	mte:Ncfpa	komunikacija
+Tomaža	mte:Npmsg	Tomaž
+Simoniča	mte:Npmsg	Simonič
+.	mte:Z	.
+V	mte:Sa	v
+zameno	mte:Ncfsa	zamena
+za	mte:Sa	za
+stanovanje	mte:Ncnsa	stanovanje
+Simoniču	mte:Npmsd	Simonič
+v	mte:Sl	v
+Piranu	mte:Npmsl	Piran
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+agencija	mte:Ncfsn	agencija
+brezplačno	mte:Rgp	brezplačno
+podelila	mte:Vmep-sf	podeliti
+frekvence	mte:Ncfpa	frekvenca
+Tušmobilu	mte:Npmsd	Tušmobil
+.	mte:Z	.
+Kovinoplastika	mte:Npmsay	Kovinoplastika
+pokrila	mte:Vmep-sf	pokriti
+izgubo	mte:Ncfsa	izguba
+Na	mte:Sl	na
+včerajšnji	mte:Agpfsl	včerajšnji
+skupščini	mte:Ncfsl	skupščina
+Kovinoplastike	mte:Npmsg	Kovinoplastika
+Lož	mte:Npfpg	Lož
+so	mte:Va-r3p-n	biti
+delničarji	mte:Ncmpn	delničar
+podprli	mte:Vmep-pm	podpreti
+predlog	mte:Ncmsan	predlog
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+pokritje	mte:Ncnsa	pokritje
+1,93	mte:Mdc	1,93
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+bilančne	mte:Agpfsg	bilančen
+izgube	mte:Ncfsg	izguba
+v	mte:Sa	v
+breme	mte:Ncnsa	breme
+oblikovanih	mte:Appfpg	oblikovan
+rezerv	mte:Ncfpg	rezerva
+.	mte:Z	.
+DZS	mte:Npmsn	DZS
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+izplačal	mte:Vmbp-sm	izplačati
+dividend	mte:Ncfpg	dividend
+Delničarji	mte:Ncmpn	delničar
+družbe	mte:Ncfsg	družba
+DZS	mte:Npmsn	DZS
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+včerajšnji	mte:Agpfsl	včerajšnji
+skupščini	mte:Ncfsl	skupščina
+pooblastili	mte:Vmep-pm	pooblastiti
+upravo	mte:Ncfsa	uprava
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+obdobju	mte:Ncnsl	obdobje
+treh	mte:Mlcnpg	trije
+let	mte:Ncnpg	leto
+kupuje	mte:Vmpr3s	kupovati
+lastne	mte:Agpfpa	lasten
+delnice	mte:Ncfpa	delnica
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+število	mte:Ncnsn	število
+pridobljenih	mte:Appfpg	pridobljen
+delnic	mte:Ncfpg	delnica
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+preseči	mte:Vmen	preseči
+210.884	mte:Mdc	210.884
+.	mte:Z	.
+Upravo	mte:Ncfsa	uprava
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+pooblastili	mte:Vmep-pm	pooblastiti
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+lastne	mte:Agpfpa	lasten
+delnice	mte:Ncfpa	delnica
+umakne	mte:Vmer3s	umakniti
+brez	mte:Sg	brez
+nadaljnjega	mte:Agpnsg	nadaljnji
+sklepanja	mte:Ncnsg	sklepanje
+o	mte:Sl	o
+zmanjšanju	mte:Ncnsl	zmanjšanje
+osnovnega	mte:Agpmsg	osnoven
+kapitala	mte:Ncmsg	kapital
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+so	mte:Va-r3p-n	biti
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bilančni	mte:Agpmsny	bilančen
+dobiček	mte:Ncmsn	dobiček
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+12,8	mte:Mdc	12,8
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+razporedi	mte:Vmer3s	razporediti
+v	mte:Sa	v
+preneseni	mte:Agpmsay	prenesen
+dobiček	mte:Ncmsan	dobiček
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Geacomma	mte:Npmsg	Geacomm
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+Koprsko	mte:Agpnsn	koprski
+sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+Geacomm	mte:Npmsn	Geacomm
+,	mte:Z	,
+znano	mte:Appnsn	znan
+iz	mte:Sg	iz
+domnevno	mte:Rgp	domnevno
+spornih	mte:Agpmpg	sporen
+poslov	mte:Ncmpg	posel
+z	mte:Si	z
+Vzajemno	mte:Agpnsi	vzajemen
+,	mte:Z	,
+izbrisalo	mte:Vmep-sn	izbrisati
+iz	mte:Sg	iz
+sodnega	mte:Agpmsg	soden
+registra	mte:Ncmsg	register
+.	mte:Z	.
+Rast	mte:Ncfsn	rast
+gospodarske	mte:Agpfsg	gospodarski
+aktivnosti	mte:Ncfsg	aktivnost
+Gospodarska	mte:Agpfsn	gospodarski
+aktivnost	mte:Ncfsn	aktivnost
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+je	mte:Va-r3s-n	biti
+avgusta	mte:Ncmsg	avgust
+krepko	mte:Rgp	krepko
+narasla	mte:Vmep-sf	narasti
+.	mte:Z	.
+Indeks	mte:Ncmsn	indeks
+nabavnih	mte:Agpmpg	nabaven
+menedžerjev	mte:Ncmpg	menedžer
+(	mte:Z	(
+PMI	mte:Ncmsn	PMI
+)	mte:Z	)
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+izračunava	mte:Vmpr3s	izračunavati
+analitska	mte:Agpfsn	analitski
+hiša	mte:Ncfsn	hiša
+Markit	mte:Npmsn	Markit
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+avgusta	mte:Ncmsg	avgust
+zvišal	mte:Vmep-sm	zvišati
+za	mte:Sa	za
+1,2	mte:Mdc	1,2
+točke	mte:Ncfsg	točka
+,	mte:Z	,
+na	mte:Sa	na
+51,7	mte:Mdc	51,7
+točke	mte:Ncfsg	točka
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+je	mte:Va-r3s-n	biti
+najvišji	mte:Agsmsny	visok
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+26	mte:Mdc	26
+letih	mte:Ncnpl	leto
+.	mte:Z	.
+Težave	mte:Ncfpa	težava
+centralnih	mte:Agpfpg	centralen
+bank	mte:Ncfpg	banka
+razvijajočega	mte:Appmsg	razvijajoč
+se	mte:Px------y	se
+sveta	mte:Ncmsg	svet
+Centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+v	mte:Sl	v
+razvijajočih	mte:Appfpl	razvijajoč
+se	mte:Px------y	se
+ekonomijah	mte:Ncfpl	ekonomija
+,	mte:Z	,
+kamor	mte:Cs	kamor
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+všteta	mte:Agpfsn	vštet
+Kitajska	mte:Npfsn	Kitajska
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+od	mte:Sg	od
+maja	mte:Ncmsg	maj
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+julija	mte:Ncmsg	julij
+zaradi	mte:Sg	zaradi
+kapitalskih	mte:Agpmpg	kapitalski
+odlivov	mte:Ncmpg	odliv
+in	mte:Cc	in
+intervencij	mte:Ncfpg	intervencija
+na	mte:Sl	na
+valutnih	mte:Agpmpl	valuten
+trgih	mte:Ncmpl	trg
+ostale	mte:Vmep-pf	ostati
+brez	mte:Sg	brez
+81	mte:Mdc	81
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+rezerv	mte:Ncfpg	rezerva

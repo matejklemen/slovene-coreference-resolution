@@ -1,362 +1,393 @@
-token	tag
-Slovenija	Npfsn
-se	Px------y
-po	Sl
-številu	Ncnsl
-finančnih	Agpfpg
-ustanov	Ncfpg
-uvršča	Vmpr3s
-na	Sa
-predzadnje	Agpnsa
-mesto	Ncnsa
-med	Si
-27	Mdc
-članicami	Ncfpi
-EU	Npfsg
-.	Z
-Imamo	Vmpr1p-n
-namreč	Cc
-25	Mdc
-bank	Ncfpg
-.	Z
-Največ	Rgs
-bank	Ncfpg
-v	Sl
-EU	Npfsl
-ima	Vmpr3s-n
-Nemčija	Npfsn
-,	Z
-in	Cc
-sicer	Q
-1873	Mdc
-,	Z
-sledi	Vmpr3s
-pa	Cc
-ji	Pp3fsd--y
-Avstrija	Npfsn
-s	Si
-765	Mdc
-bankami	Ncfpi
-.	Z
-Skupina	Ncfsn
-strokovnjakov	Ncmpg
-je	Va-r3s-n
-po	Sl
-naročilu	Ncnsl
-Evropske	Agpfsg
-komisije	Ncfsg
-pripravila	Vmep-sf
-poročilo	Ncnsa
-,	Z
-v	Sl
-katerem	Pq-msl
-je	Va-r3s-n
-zapisala	Vmep-sf
-,	Z
-da	Cs
-ima	Vmpr3s-n
-v	Sl
-EU	Npfsl
-največ	Rgs
-bank	Ncfpg
-Nemčija	Npfsn
-.	Z
-Ta	Pd-fsn
-država	Ncfsn
-ima	Vmpr3s-n
-1873	Mdc
-bank	Ncfpg
-,	Z
-medtem	Rgp
-ko	Cs
-ima	Vmpr3s-n
-Avstrija	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-na	Sl
-drugem	Mlpnsl
-mestu	Ncnsl
-,	Z
-765	Mdc
-bank	Ncfpg
-.	Z
-Slovenija	Npfsn
-ima	Vmpr3s-n
-25	Mdc
-bank	Ncfpg
-in	Cc
-se	Px------y
-je	Va-r3s-n
-tako	Rgp
-uvrstila	Vmep-sf
-na	Sa
-predzadnje	Agpnsa
-mesto	Ncnsa
-.	Z
-Manj	Rgc
-bank	Ncfpg
-kot	Cs
-mi	Pp1-sd--y
-ima	Vmpr3s-n
-le	Q
-še	Q
-Estonija	Npfsn
-,	Z
-in	Cc
-sicer	Q
-17	Mdc
-.	Z
-Poročilo	Ncnsn
-še	Q
-ugotavlja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sl
-letošnjem	Agpmsl
-marcu	Ncmsl
-v	Sl
-EU	Npfsl
-skupaj	Rgp
-8018	Mdc
-finančnih	Agpfpg
-ustanov	Ncfpg
-.	Z
-Njihova	Ps3fsnp
-skupna	Agpfsn
-bilančna	Agpfsn
-vsota	Ncfsn
-je	Va-r3s-n
-znašala	Vmpp-sf
-46.820	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-.	Z
-Slovenske	Agpfsg
-banke	Ncfsg
-so	Va-r3p-n
-k	Sd
-tej	Pd-fsd
-številki	Ncfsd
-prispevale	Vmbp-pf
-53,7	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-po	Sl
-številu	Ncnsl
-bank	Ncfpg
-na	Sl
-predzadnjem	Agpnsl
-mestu	Ncnsl
-.	Z
-Izraženo	Appnsn
-v	Sl
-deležu	Ncmsl
-bruto	Agpmsg
-domačega	Agpmsg
-proizvoda	Ncmsg
-BDP	Ncmsn
-posamezne	Agpfsg
-države	Ncfsg
-pa	Cc
-slovenske	Agpfpg
-banke	Ncfsg
-s	Si
-150	Mdc
-odstotki	Ncmpi
-BDP	Ncmsg
-zasedajo	Vmpr3p
-18	Mdc
-.	Z
-mesto	Ncnsa
-v	Sl
-EU	Npfsl
-.	Z
-V	Sl
-tej	Pd-fsl
-primerjavi	Ncfsl
-vodi	Vmpr3s
-Luksemburg	Npmsan
-,	Z
-kjer	Cs
-predstavlja	Vmpr3s
-bilančna	Agpfsn
-vsota	Ncfsn
-tamkajšnjih	Agpfpg
-bank	Ncfpg
-kar	Rgp
-2430	Mdc
-odstotkov	Ncmpg
-BDP	Ncmsg
-.	Z
-Sledita	Vmpr3d
-Irska	Npfsn
-s	Si
-799	Mdc
-odstotki	Ncmpi
-BDP	Ncmsg
-in	Cc
-Malta	Npfsn
-s	Si
-796	Mdc
-odstotki	Ncmpi
-.	Z
-Zadnje	Agpnsa
-mesto	Ncnsa
-zaseda	Vmpr3s
-Litva	Npfsn
-,	Z
-kjer	Cs
-predstavlja	Vmpr3s
-premoženje	Ncnsa
-bank	Ncfpg
-le	Q
-slabih	Agpmpg
-79	Mdc
-odstotkov	Ncmpg
-tamkajšnjega	Agpmsg
-BDP	Ncmsg
-.	Z
-Devet	Mlc-pa
-bank	Ncfpg
-v	Sl
-EU	Npfsl
-ima	Vmpr3s-n
-obseg	Ncmsan
-bilančne	Agpfsg
-vsote	Ncfsg
-večji	Agcmsny
-od	Sg
-1000	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-sedeže	Ncmpa
-pa	Cc
-imajo	Vmpr3p-n
-v	Sl
-Nemčiji	Npfsl
-,	Z
-Veliki	Agpfsl
-Britaniji	Npfsl
-,	Z
-Franciji	Npfsl
-ali	Cc
-Španiji	Npfsl
-.	Z
-Največja	Agsfsn
-med	Si
-njimi	Pp3mpi
-je	Va-r3s-n
-nemška	Agpfsn
-banka	Ncfsn
-Deutsche	Npmsn
-Bank	Npfsn
-z	Si
-več	Rgc
-kot	Cs
-2000	Mdc
-milijard	Ncfpg
-evri	Ncmpg
-bilančne	Agpfsg
-vsote	Ncfsg
-.	Z
-Največ	Rgs
-zaposlenih	Appmpg
-pa	Cc
-ima	Vmpr3s-n
-britanska	Agpfsn
-banka	Ncfsn
-HSBC	Npmsn
-,	Z
-ki	Cs
-zaposluje	Vmpr3s
-več	Rgc
-kot	Cs
-288.000	Mdc
-ljudi	Ncmpg
-.	Z
-Omenjeno	Appnsn
-poročilo	Ncnsa
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-skupina	Ncfsn
-strokovnjakov	Ncmpg
-pripravila	Vmep-sf
-pod	Si
-vodstvom	Ncnsi
-guvernerja	Ncmsg
-finske	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-Erkkija	Npfsg
-Liikanena	Npmsg
-,	Z
-je	Va-r3s-n
-služilo	Vmpp-sn
-za	Sa
-pripravo	Ncfsa
-predloga	Ncmsg
-reforme	Ncfsg
-bančnega	Agpmsg
-sektorja	Ncmsg
-v	Sl
-EU	Npfsl
-.	Z
-Kot	Cs
-predlagajo	Vmbr3p
-avtorji	Ncmpn
-,	Z
-bi	Va-c
-morale	Vmpp-pf
-evropske	Agpfpn
-banke	Ncfpn
-najbolj	Rgs
-tvegane	Appfpn
-dejavnosti	Ncfpa
-ločiti	Vmbn
-od	Sg
-klasičnih	Agpfpg
-dejavnosti	Ncfpg
-,	Z
-povezanih	Appfpg
-s	Si
-hranilnimi	Agpfpi
-vlogami	Ncfpi
-.	Z
-Poročilo	Ncnsn
-je	Va-r3s-n
-prispevek	Ncmsn
-k	Sd
-prizadevanjem	Ncnpd
-,	Z
-da	Cs
-se	Px------y
-znebimo	Vmer1p
-bančnega	Agpmsg
-sistema	Ncmsg
-,	Z
-v	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-koristi	Ncfpn
-zasebne	Agpfpn
-,	Z
-stroški	Ncmpn
-pa	Cc
-javni	Agpmpn
-,	Z
-je	Va-r3s-n
-ob	Sl
-predstavitvi	Ncfsl
-priporočil	Ncnpg
-poudaril	Vmep-sm
-Liikanen	Npmsn
-.	Z
+token	tag	lemma
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+po	mte:Sl	po
+številu	mte:Ncnsl	število
+finančnih	mte:Agpfpg	finančen
+ustanov	mte:Ncfpg	ustan
+uvršča	mte:Vmpr3s	uvrščati
+na	mte:Sa	na
+predzadnje	mte:Agpnsa	predzadnji
+mesto	mte:Ncnsa	mesto
+med	mte:Si	med
+27	mte:Mdc	27
+članicami	mte:Ncfpi	članica
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Imamo	mte:Vmpr1p-n	imeti
+namreč	mte:Cc	namreč
+25	mte:Mdc	25
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+Največ	mte:Rgs	največ
+bank	mte:Ncfpg	banka
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+ima	mte:Vmpr3s-n	imeti
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+1873	mte:Mdc	1873
+,	mte:Z	,
+sledi	mte:Vmpr3s	slediti
+pa	mte:Cc	pa
+ji	mte:Pp3fsd--y	on
+Avstrija	mte:Npfsn	Avstrija
+s	mte:Si	z
+765	mte:Mdc	765
+bankami	mte:Ncfpi	banka
+.	mte:Z	.
+Skupina	mte:Ncfsn	skupina
+strokovnjakov	mte:Ncmpg	strokovnjak
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+naročilu	mte:Ncnsl	naročilo
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+pripravila	mte:Vmep-sf	pripraviti
+poročilo	mte:Ncnsa	poročilo
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+je	mte:Va-r3s-n	biti
+zapisala	mte:Vmep-sf	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+največ	mte:Rgs	največ
+bank	mte:Ncfpg	banka
+Nemčija	mte:Npfsn	Nemčija
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+država	mte:Ncfsn	država
+ima	mte:Vmpr3s-n	imeti
+1873	mte:Mdc	1873
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+ima	mte:Vmpr3s-n	imeti
+Avstrija	mte:Npfsn	Avstrija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+drugem	mte:Mlpnsl	drug
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+765	mte:Mdc	765
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+ima	mte:Vmpr3s-n	imeti
+25	mte:Mdc	25
+bank	mte:Ncfpg	banka
+in	mte:Cc	in
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+uvrstila	mte:Vmep-sf	uvrstiti
+na	mte:Sa	na
+predzadnje	mte:Agpnsa	predzadnji
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Manj	mte:Rgc	manj
+bank	mte:Ncfpg	banka
+kot	mte:Cs	kot
+mi	mte:Pp1-sd--y	jaz
+ima	mte:Vmpr3s-n	imeti
+le	mte:Q	le
+še	mte:Q	še
+Estonija	mte:Npfsn	Estonija
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+17	mte:Mdc	17
+.	mte:Z	.
+Poročilo	mte:Ncnsn	poročilo
+še	mte:Q	še
+ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+letošnjem	mte:Agpmsl	letošnji
+marcu	mte:Ncmsl	marec
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+skupaj	mte:Rgp	skupaj
+8018	mte:Mdc	8018
+finančnih	mte:Agpfpg	finančen
+ustanov	mte:Ncfpg	ustan
+.	mte:Z	.
+Njihova	mte:Ps3fsnp	njihov
+skupna	mte:Agpfsn	skupen
+bilančna	mte:Agpfsn	bilančen
+vsota	mte:Ncfsn	vsota
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+46.820	mte:Mdc	46.820
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Slovenske	mte:Agpfsg	slovenski
+banke	mte:Ncfsg	banka
+so	mte:Va-r3p-n	biti
+k	mte:Sd	k
+tej	mte:Pd-fsd	ta
+številki	mte:Ncfsd	številka
+prispevale	mte:Vmbp-pf	prispevati
+53,7	mte:Mdc	53,7
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+številu	mte:Ncnsl	število
+bank	mte:Ncfpg	banka
+na	mte:Sl	na
+predzadnjem	mte:Agpnsl	predzadnji
+mestu	mte:Ncnsl	mesto
+.	mte:Z	.
+Izraženo	mte:Appnsn	izražen
+v	mte:Sl	v
+deležu	mte:Ncmsl	delež
+bruto	mte:Agpmsg	bruto
+domačega	mte:Agpmsg	domač
+proizvoda	mte:Ncmsg	proizvod
+BDP	mte:Ncmsn	BDP
+posamezne	mte:Agpfsg	posamezen
+države	mte:Ncfsg	država
+pa	mte:Cc	pa
+slovenske	mte:Agpfpg	slovenski
+banke	mte:Ncfsg	banka
+s	mte:Si	z
+150	mte:Mdc	150
+odstotki	mte:Ncmpi	odstotek
+BDP	mte:Ncmsg	BDP
+zasedajo	mte:Vmpr3p	zasedati
+18	mte:Mdc	18
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+.	mte:Z	.
+V	mte:Sl	v
+tej	mte:Pd-fsl	ta
+primerjavi	mte:Ncfsl	primerjava
+vodi	mte:Vmpr3s	voditi
+Luksemburg	mte:Npmsan	Luksemburg
+,	mte:Z	,
+kjer	mte:Cs	kjer
+predstavlja	mte:Vmpr3s	predstavljati
+bilančna	mte:Agpfsn	bilančen
+vsota	mte:Ncfsn	vsota
+tamkajšnjih	mte:Agpfpg	tamkajšnji
+bank	mte:Ncfpg	banka
+kar	mte:Rgp	kar
+2430	mte:Mdc	2430
+odstotkov	mte:Ncmpg	odstotek
+BDP	mte:Ncmsg	BDP
+.	mte:Z	.
+Sledita	mte:Vmpr3d	slediti
+Irska	mte:Npfsn	Irska
+s	mte:Si	z
+799	mte:Mdc	799
+odstotki	mte:Ncmpi	odstotek
+BDP	mte:Ncmsg	BDP
+in	mte:Cc	in
+Malta	mte:Npfsn	Malta
+s	mte:Si	z
+796	mte:Mdc	796
+odstotki	mte:Ncmpi	odstotek
+.	mte:Z	.
+Zadnje	mte:Agpnsa	zadnji
+mesto	mte:Ncnsa	mesto
+zaseda	mte:Vmpr3s	zasedati
+Litva	mte:Npfsn	Litva
+,	mte:Z	,
+kjer	mte:Cs	kjer
+predstavlja	mte:Vmpr3s	predstavljati
+premoženje	mte:Ncnsa	premoženje
+bank	mte:Ncfpg	banka
+le	mte:Q	le
+slabih	mte:Agpmpg	slab
+79	mte:Mdc	79
+odstotkov	mte:Ncmpg	odstotek
+tamkajšnjega	mte:Agpmsg	tamkajšnji
+BDP	mte:Ncmsg	BDP
+.	mte:Z	.
+Devet	mte:Mlc-pa	devet
+bank	mte:Ncfpg	banka
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+ima	mte:Vmpr3s-n	imeti
+obseg	mte:Ncmsan	obseg
+bilančne	mte:Agpfsg	bilančen
+vsote	mte:Ncfsg	vsota
+večji	mte:Agcmsny	velik
+od	mte:Sg	od
+1000	mte:Mdc	1000
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+sedeže	mte:Ncmpa	sedež
+pa	mte:Cc	pa
+imajo	mte:Vmpr3p-n	imeti
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+Veliki	mte:Agpfsl	velik
+Britaniji	mte:Npfsl	Britanija
+,	mte:Z	,
+Franciji	mte:Npfsl	Francija
+ali	mte:Cc	ali
+Španiji	mte:Npfsl	Španija
+.	mte:Z	.
+Največja	mte:Agsfsn	velik
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+je	mte:Va-r3s-n	biti
+nemška	mte:Agpfsn	nemški
+banka	mte:Ncfsn	banka
+Deutsche	mte:Npmsn	Deutsche
+Bank	mte:Npfsn	Bank
+z	mte:Si	z
+več	mte:Rgc	več
+kot	mte:Cs	kot
+2000	mte:Mdc	2000
+milijard	mte:Ncfpg	milijarda
+evri	mte:Ncmpg	evro
+bilančne	mte:Agpfsg	bilančen
+vsote	mte:Ncfsg	vsota
+.	mte:Z	.
+Največ	mte:Rgs	največ
+zaposlenih	mte:Appmpg	zaposlen
+pa	mte:Cc	pa
+ima	mte:Vmpr3s-n	imeti
+britanska	mte:Agpfsn	britanski
+banka	mte:Ncfsn	banka
+HSBC	mte:Npmsn	HSBC
+,	mte:Z	,
+ki	mte:Cs	ki
+zaposluje	mte:Vmpr3s	zaposlovati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+288.000	mte:Mdc	288.000
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+Omenjeno	mte:Appnsn	omenjen
+poročilo	mte:Ncnsa	poročilo
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+skupina	mte:Ncfsn	skupina
+strokovnjakov	mte:Ncmpg	strokovnjak
+pripravila	mte:Vmep-sf	pripraviti
+pod	mte:Si	pod
+vodstvom	mte:Ncnsi	vodstvo
+guvernerja	mte:Ncmsg	guverner
+finske	mte:Agpfsg	finski
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+Erkkija	mte:Npfsg	Erkkija
+Liikanena	mte:Npmsg	Liikanen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+služilo	mte:Vmpp-sn	služiti
+za	mte:Sa	za
+pripravo	mte:Ncfsa	priprava
+predloga	mte:Ncmsg	predlog
+reforme	mte:Ncfsg	reforma
+bančnega	mte:Agpmsg	bančen
+sektorja	mte:Ncmsg	sektor
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+.	mte:Z	.
+Kot	mte:Cs	kot
+predlagajo	mte:Vmbr3p	predlagati
+avtorji	mte:Ncmpn	avtor
+,	mte:Z	,
+bi	mte:Va-c	biti
+morale	mte:Vmpp-pf	morati
+evropske	mte:Agpfpn	evropski
+banke	mte:Ncfpn	banka
+najbolj	mte:Rgs	najbolj
+tvegane	mte:Appfpn	tvegan
+dejavnosti	mte:Ncfpa	dejavnost
+ločiti	mte:Vmbn	ločiti
+od	mte:Sg	od
+klasičnih	mte:Agpfpg	klasičen
+dejavnosti	mte:Ncfpg	dejavnost
+,	mte:Z	,
+povezanih	mte:Appfpg	povezan
+s	mte:Si	z
+hranilnimi	mte:Agpfpi	hranilen
+vlogami	mte:Ncfpi	vloga
+.	mte:Z	.
+Poročilo	mte:Ncnsn	poročilo
+je	mte:Va-r3s-n	biti
+prispevek	mte:Ncmsn	prispevek
+k	mte:Sd	k
+prizadevanjem	mte:Ncnpd	prizadevanje
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+znebimo	mte:Vmer1p	znebiti
+bančnega	mte:Agpmsg	bančen
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+koristi	mte:Ncfpn	korist
+zasebne	mte:Agpfpn	zaseben
+,	mte:Z	,
+stroški	mte:Ncmpn	strošek
+pa	mte:Cc	pa
+javni	mte:Agpmpn	javen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+predstavitvi	mte:Ncfsl	predstavitev
+priporočil	mte:Ncnpg	priporočilo
+poudaril	mte:Vmep-sm	poudariti
+Liikanen	mte:Npmsn	Liikanen
+.	mte:Z	.
+V	mte:Sl	v
+bankah	mte:Ncfpl	banka
+s	mte:Si	z
+takšnimi	mte:Pd-mpi	takšen
+predlogi	mte:Ncmpi	predlog
+niso	mte:Va-r3p-y	biti
+najbolj	mte:Rgs	najbolj
+zadovoljni	mte:Agpmpn	zadovoljen
+,	mte:Z	,
+v	mte:Sl	v
+Zvezi	mte:Ncfsl	zveza
+evropskih	mte:Agpfpg	evropski
+bank	mte:Ncfpg	banka
+se	mte:Px------y	se
+bojijo	mte:Vmpr3p	bati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+ločitev	mte:Ncfsn	ločitev
+najbolj	mte:Rgs	najbolj
+tveganih	mte:Appfpg	tvegan
+dejavnosti	mte:Ncfpg	dejavnost
+od	mte:Sg	od
+klasičnih	mte:Agpfpg	klasičen
+oslabila	mte:Vmep-sf	oslabiti
+zmožnosti	mte:Ncfpg	zmožnost
+bank	mte:Ncfpg	banka
+pri	mte:Sl	pri
+financiranju	mte:Ncnsl	financiranje
+gospodarstva	mte:Ncnsg	gospodarstvo

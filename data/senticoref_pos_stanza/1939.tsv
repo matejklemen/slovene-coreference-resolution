@@ -1,366 +1,399 @@
-token	tag
-Toyota	Npfsn
-,	Z
-Nissan	Npmsn
-,	Z
-Honda	Npmsn
-in	Cc
-Mazda	Npfsn
-bodo	Va-f3p-n
-zaradi	Sg
-mogočih	Agpfpg
-težav	Ncfpg
-z	Si
-zračnimi	Agpfpi
-blazinami	Ncfpi
-po	Sl
-vsem	Pg-msl
-svetu	Ncmsl
-skupaj	Rgp
-vpoklicali	Vmep-pm
-3,39	Mdc
-milijona	Ncmsg
-vozil	Ncnpg
-.	Z
-Vsi	Pg-mpn
-proizvajalci	Ncmpn
-navajajo	Vmpr3p
-iste	Pi-fpa
-težave	Ncfpa
-z	Si
-zračno	Agpfsi
-blazino	Ncfsi
-.	Z
-Toyota	Npfsn
-bo	Va-f3s-n
-pri	Sl
-nas	Pp1-pl
-vpoklicala	Vmep-sf
-1612	Mdc
-vozil	Ncnpg
-,	Z
-Honda	Npmsn
-pa	Cc
-115	Mdc
-.	Z
-V	Sl
-Sloveniji	Npfsl
-bo	Va-f3s-n
-Toyota	Npfsn
-na	Sa
-pregled	Ncmsan
-povabila	Vmep-sf
-1612	Mdc
-,	Z
-Honda	Npmsn
-pa	Cc
-115	Mdc
-lastnikov	Ncmpg
-vozil	Ncnpg
-.	Z
-Štirje	Mlcmpn
-glavni	Agpmpn
-japonski	Agpmpn
-proizvajalci	Ncmpn
-avtomobilov	Ncmpg
-Toyota	Npfsn
-Nissan	Npmsn
-,	Z
-Honda	Npmsn
-in	Cc
-Mazda	Npfsn
-bodo	Va-f3p-n
-zaradi	Sg
-možnih	Agpfpg
-težav	Ncfpg
-z	Si
-zračnimi	Agpfpi
-blazinami	Ncfpi
-po	Sl
-vsem	Pg-msl
-svetu	Ncmsl
-skupaj	Rgp
-vpoklicali	Vmep-pm
-3,39	Mdc
-milijona	Ncmsg
-vozil	Ncnpg
-,	Z
-izdelanih	Appmpg
-med	Si
-leti	Ncnpi
-2000	Mdc
-in	Cc
-2004	Mdc
-.	Z
-Toyota	Npfsn
-bo	Va-f3s-n
-vpoklicala	Vmep-sf
-1,73	Mdc
-milijona	Ncmsg
-vozil	Ncnpg
-,	Z
-Honda	Npmsn
-1,35	Mdc
-milijona	Ncmsg
-,	Z
-Nissan	Npmsn
-480	Mdc
-tisoč	Mlc-pa
-,	Z
-Mazda	Npfsn
-pa	Cc
-45.463	Mdc
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-s	Sg
-Toyote	Npfsg
-Slovenija	Npfsn
-,	Z
-se	Px------y
-lahko	Rgp
-zaradi	Sg
-nepravilnega	Agpmsg
-postopka	Ncmsg
-izdelave	Ncfsg
-pogonskega	Agpmsg
-dela	Ncmsg
-sovoznikove	Aspfsg
-zračne	Agpfsg
-blazine	Ncfsg
-v	Sl
-primeru	Ncmsl
-proženja	Ncnsg
-le	Q
--	Z
-te	Pd-fsg
-poškoduje	Vmer3s
-inflator	Ncmsn
-,	Z
-kar	Pr-nsa
-bi	Va-c
-utegnilo	Vmbp-sn
-pripeljati	Vmen
-do	Sg
-poškodb	Ncfpg
-sopotnika	Ncmsg
-.	Z
-Toyota	Npfsn
-bo	Va-f3s-n
-pri	Sl
-nas	Pp1-pl
-vpoklicala	Vmep-sf
-1612	Mdc
-vozil	Ncnpg
-Na	Sa
-pregled	Ncmsan
-inflatorja	Ncmsg
-bo	Va-f3s-n
-v	Sl
-Sloveniji	Npfsl
-povabljenih	Appmpg
-1612	Mdc
-lastnikov	Ncmpg
-modela	Ncmsg
-yaris	Ncmsn
-,	Z
-corolla	Ncfsn
-in	Cc
-avensis	Ncmsn
-.	Z
-Toyota	Npfsn
-bo	Va-f3s-n
-vpoklicala	Vmep-sf
-vozila	Ncnpa
-,	Z
-izdelana	Appfsn
-med	Si
-novembrom	Ncmsi
-2000	Mdc
-in	Cc
-marcem	Ncmsi
-2004	Mdc
-.	Z
-V	Sl
-Evropi	Npfsl
-bo	Va-f3s-n
-vpoklicala	Vmep-sf
-približno	Rgp
-490	Mdc
-tisoč	Mlc-pa
-vozil	Ncnpg
-yaris	Ncmsan
-,	Z
-corolla	Ncfsn
-in	Cc
-avensis	Ncmsn
-.	Z
-Na	Sa
-pregled	Ncmsan
-inflatorja	Ncmsg
-bo	Va-f3s-n
-v	Sl
-Sloveniji	Npfsl
-povabljenih	Appmpg
-1612	Mdc
-lastnikov	Ncmpg
-omenjenih	Appmpg
-modelov	Ncmpg
-.	Z
-Do	Sg
-zdaj	Rgp
-poročajo	Vmpr3p
-o	Sl
-skupaj	Rgp
-petih	Mlc-pl
-poškodbah	Ncfpl
-inflatorja	Ncmsg
-.	Z
-Dva	Mlcmdn
-primera	Ncmdn
-sta	Va-r3d-n
-iz	Sg
-ZDA	Npfpg
-,	Z
-trije	Mlcmpn
-pa	Cc
-iz	Sg
-Japonske	Npfsg
-,	Z
-v	Sl
-nobenem	Pz-nsl
-pa	Cc
-k	Sd
-sreči	Ncfsd
-potniki	Ncmpn
-niso	Va-r3p-y
-bili	Va-p-pm
-poškodovani	Appmpn
-.	Z
-Na	Sa
-nujni	Agpmsay
-servis	Ncmsan
-tudi	Q
-115	Mdc
-slovenskih	Agpmpg
-hond	Ncmpg
-Iz	Sg
-zastopnika	Ncmsg
-Honde	Npfsg
-v	Sl
-Sloveniji	Npfsl
-,	Z
-družbe	Ncfsg
-AC	Npmsn
--	Z
-Mobil	Npfsn
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-,	Z
-da	Cs
-bo	Va-f3s-n
-Honda	Npfsn
-vpoklicala	Vmep-sf
-nekatere	Pi-mpa
-modele	Ncmpa
-vozil	Ncnpg
-honda	Ncmsn
-civic	Ncmsn
-,	Z
-stream	Ncmsn
-,	Z
-jazz	Ncmsn
-in	Cc
-CR	Npmsn
--	Z
-V	Sl
-,	Z
-vsi	Pg-mpa
-modelno	Agpnsa
-leto	Ncnsa
-20012003	Mdc
-.	Z
-V	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-bilo	Va-p-sn
-prodanih	Appnpg
-115	Mdc
-teh	Pd-npg
-vozil	Ncnpg
-.	Z
-Vsi	Pg-mpn
-lastniki	Ncmpn
-vozil	Ncnpg
-bodo	Va-f3p-n
-ob	Sl
-izdaji	Ncfsl
-vpoklica	Ncmsg
-pisno	Rgp
-obveščeni	Appmpn
-in	Cc
-povabljeni	Appmpn
-na	Sa
-brezplačni	Agpmsay
-pregled	Ncmsan
-oziroma	Cc
-zamenjavo	Ncfsa
-rezervnega	Agpnsg
-dela	Ncnsg
-,	Z
-so	Va-r3p-n
-pojasnili	Vmep-pm
-.	Z
-Zračne	Agpfsg
-blazine	Ncfsg
-izdelovalo	Vmpp-sn
-podjetje	Ncnsa
-Takata	Npmsg
-iz	Sg
-Tokia	Npmsg
-Iz	Sg
-Toyote	Npfsg
-in	Cc
-Nissana	Npmsg
-so	Va-r3p-n
-sporočili	Vmep-pm
-,	Z
-da	Cs
-je	Va-r3s-n
-zračne	Agpfpg
-blazine	Ncfpa
-proizvedlo	Vmep-sn
-podjetje	Ncnsa
-Takata	Ncmsg
-iz	Sg
-Tokia	Npmsg
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-japonsko	Agpnsn
-ministrstvo	Ncnsn
-za	Sa
-promet	Ncmsan
-pojasnilo	Ncnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-sestavne	Agpmpa
-dele	Ncmpa
-za	Sa
-zračne	Agpfpa
-blazine	Ncfpa
-dobavilo	Vmep-sn
-eno	Mlpnsa
-podjetje	Ncnsa
-,	Z
-pri	Sl
-čemer	Pr-nsl
-njegovega	Ps3nsgsm
-imena	Ncnsg
-niso	Va-r3p-y
-navedli	Vmep-pm
-.	Z
+token	tag	lemma
+Toyota	mte:Npfsn	Toyot
+,	mte:Z	,
+Nissan	mte:Npmsn	Nissan
+,	mte:Z	,
+Honda	mte:Npmsn	Honda
+in	mte:Cc	in
+Mazda	mte:Npfsn	Mazda
+bodo	mte:Va-f3p-n	biti
+zaradi	mte:Sg	zaradi
+mogočih	mte:Agpfpg	mogoč
+težav	mte:Ncfpg	težava
+z	mte:Si	z
+zračnimi	mte:Agpfpi	zračen
+blazinami	mte:Ncfpi	blazina
+po	mte:Sl	po
+vsem	mte:Pg-msl	ves
+svetu	mte:Ncmsl	svet
+skupaj	mte:Rgp	skupaj
+vpoklicali	mte:Vmep-pm	vpoklicati
+3,39	mte:Mdc	3,39
+milijona	mte:Ncmsg	milijon
+vozil	mte:Ncnpg	vozilo
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+proizvajalci	mte:Ncmpn	proizvajalec
+navajajo	mte:Vmpr3p	navajati
+iste	mte:Pi-fpa	isti
+težave	mte:Ncfpa	težava
+z	mte:Si	z
+zračno	mte:Agpfsi	zračen
+blazino	mte:Ncfsi	blazina
+.	mte:Z	.
+Toyota	mte:Npfsn	Toyot
+bo	mte:Va-f3s-n	biti
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+vpoklicala	mte:Vmep-sf	vpoklicati
+1612	mte:Mdc	1612
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+Honda	mte:Npmsn	Honda
+pa	mte:Cc	pa
+115	mte:Mdc	115
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+bo	mte:Va-f3s-n	biti
+Toyota	mte:Npfsn	Toyot
+na	mte:Sa	na
+pregled	mte:Ncmsan	pregled
+povabila	mte:Vmep-sf	povabiti
+1612	mte:Mdc	1612
+,	mte:Z	,
+Honda	mte:Npmsn	Honda
+pa	mte:Cc	pa
+115	mte:Mdc	115
+lastnikov	mte:Ncmpg	lastnik
+vozil	mte:Ncnpg	vozilo
+.	mte:Z	.
+Štirje	mte:Mlcmpn	štirje
+glavni	mte:Agpmpn	glaven
+japonski	mte:Agpmpn	japonski
+proizvajalci	mte:Ncmpn	proizvajalec
+avtomobilov	mte:Ncmpg	avtomobil
+Toyota	mte:Npfsn	Toyot
+Nissan	mte:Npmsn	Nissan
+,	mte:Z	,
+Honda	mte:Npmsn	Honda
+in	mte:Cc	in
+Mazda	mte:Npfsn	Mazda
+bodo	mte:Va-f3p-n	biti
+zaradi	mte:Sg	zaradi
+možnih	mte:Agpfpg	možen
+težav	mte:Ncfpg	težava
+z	mte:Si	z
+zračnimi	mte:Agpfpi	zračen
+blazinami	mte:Ncfpi	blazina
+po	mte:Sl	po
+vsem	mte:Pg-msl	ves
+svetu	mte:Ncmsl	svet
+skupaj	mte:Rgp	skupaj
+vpoklicali	mte:Vmep-pm	vpoklicati
+3,39	mte:Mdc	3,39
+milijona	mte:Ncmsg	milijon
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+izdelanih	mte:Appmpg	izdelan
+med	mte:Si	med
+leti	mte:Ncnpi	leto
+2000	mte:Mdc	2000
+in	mte:Cc	in
+2004	mte:Mdc	2004
+.	mte:Z	.
+Toyota	mte:Npfsn	Toyot
+bo	mte:Va-f3s-n	biti
+vpoklicala	mte:Vmep-sf	vpoklicati
+1,73	mte:Mdc	1,73
+milijona	mte:Ncmsg	milijon
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+Honda	mte:Npmsn	Honda
+1,35	mte:Mdc	1,35
+milijona	mte:Ncmsg	milijon
+,	mte:Z	,
+Nissan	mte:Npmsn	Nissan
+480	mte:Mdc	480
+tisoč	mte:Mlc-pa	tisoč
+,	mte:Z	,
+Mazda	mte:Npfsn	Mazda
+pa	mte:Cc	pa
+45.463	mte:Mdc	45.463
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+s	mte:Sg	z
+Toyote	mte:Npfsg	Toyota
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+zaradi	mte:Sg	zaradi
+nepravilnega	mte:Agpmsg	nepravilen
+postopka	mte:Ncmsg	postopek
+izdelave	mte:Ncfsg	izdelava
+pogonskega	mte:Agpmsg	pogonski
+dela	mte:Ncmsg	delo
+sovoznikove	mte:Aspfsg	sovoznikov
+zračne	mte:Agpfsg	zračen
+blazine	mte:Ncfsg	blazina
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+proženja	mte:Ncnsg	proženje
+le	mte:Q	le
+-	mte:Z	-
+te	mte:Pd-fsg	ta
+poškoduje	mte:Vmer3s	poškodovati
+inflator	mte:Ncmsn	inflator
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+bi	mte:Va-c	biti
+utegnilo	mte:Vmbp-sn	utegniti
+pripeljati	mte:Vmen	pripeljati
+do	mte:Sg	do
+poškodb	mte:Ncfpg	poškodba
+sopotnika	mte:Ncmsg	sopotnik
+.	mte:Z	.
+Toyota	mte:Npfsn	Toyot
+bo	mte:Va-f3s-n	biti
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+vpoklicala	mte:Vmep-sf	vpoklicati
+1612	mte:Mdc	1612
+vozil	mte:Ncnpg	vozilo
+Na	mte:Sa	na
+pregled	mte:Ncmsan	pregled
+inflatorja	mte:Ncmsg	inflator
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+povabljenih	mte:Appmpg	povabljen
+1612	mte:Mdc	1612
+lastnikov	mte:Ncmpg	lastnik
+modela	mte:Ncmsg	model
+yaris	mte:Ncmsn	yaris
+,	mte:Z	,
+corolla	mte:Ncfsn	corollo
+in	mte:Cc	in
+avensis	mte:Ncmsn	avensis
+.	mte:Z	.
+Toyota	mte:Npfsn	Toyot
+bo	mte:Va-f3s-n	biti
+vpoklicala	mte:Vmep-sf	vpoklicati
+vozila	mte:Ncnpa	vozilo
+,	mte:Z	,
+izdelana	mte:Appfsn	izdelan
+med	mte:Si	med
+novembrom	mte:Ncmsi	november
+2000	mte:Mdc	2000
+in	mte:Cc	in
+marcem	mte:Ncmsi	marec
+2004	mte:Mdc	2004
+.	mte:Z	.
+V	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+bo	mte:Va-f3s-n	biti
+vpoklicala	mte:Vmep-sf	vpoklicati
+približno	mte:Rgp	približno
+490	mte:Mdc	490
+tisoč	mte:Mlc-pa	tisoč
+vozil	mte:Ncnpg	vozilo
+yaris	mte:Ncmsan	yaris
+,	mte:Z	,
+corolla	mte:Ncfsn	corollo
+in	mte:Cc	in
+avensis	mte:Ncmsn	avensis
+.	mte:Z	.
+Na	mte:Sa	na
+pregled	mte:Ncmsan	pregled
+inflatorja	mte:Ncmsg	inflator
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+povabljenih	mte:Appmpg	povabljen
+1612	mte:Mdc	1612
+lastnikov	mte:Ncmpg	lastnik
+omenjenih	mte:Appmpg	omenjen
+modelov	mte:Ncmpg	model
+.	mte:Z	.
+Do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+poročajo	mte:Vmpr3p	poročati
+o	mte:Sl	o
+skupaj	mte:Rgp	skupaj
+petih	mte:Mlc-pl	pet
+poškodbah	mte:Ncfpl	poškodba
+inflatorja	mte:Ncmsg	inflator
+.	mte:Z	.
+Dva	mte:Mlcmdn	dva
+primera	mte:Ncmdn	primer
+sta	mte:Va-r3d-n	biti
+iz	mte:Sg	iz
+ZDA	mte:Npfpg	ZDA
+,	mte:Z	,
+trije	mte:Mlcmpn	trije
+pa	mte:Cc	pa
+iz	mte:Sg	iz
+Japonske	mte:Npfsg	Japonska
+,	mte:Z	,
+v	mte:Sl	v
+nobenem	mte:Pz-nsl	noben
+pa	mte:Cc	pa
+k	mte:Sd	k
+sreči	mte:Ncfsd	sreča
+potniki	mte:Ncmpn	potnik
+niso	mte:Va-r3p-y	biti
+bili	mte:Va-p-pm	biti
+poškodovani	mte:Appmpn	poškodovan
+.	mte:Z	.
+Na	mte:Sa	na
+nujni	mte:Agpmsay	nujen
+servis	mte:Ncmsan	servis
+tudi	mte:Q	tudi
+115	mte:Mdc	115
+slovenskih	mte:Agpmpg	slovenski
+hond	mte:Ncmpg	hond
+Iz	mte:Sg	iz
+zastopnika	mte:Ncmsg	zastopnik
+Honde	mte:Npfsg	Honde
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+družbe	mte:Ncfsg	družba
+AC	mte:Npmsn	AC
+-	mte:Z	-
+Mobil	mte:Npfsn	Mobil
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Honda	mte:Npfsn	Honda
+vpoklicala	mte:Vmep-sf	vpoklicati
+nekatere	mte:Pi-mpa	nekateri
+modele	mte:Ncmpa	model
+vozil	mte:Ncnpg	vozilo
+honda	mte:Ncmsn	honda
+civic	mte:Ncmsn	civica
+,	mte:Z	,
+stream	mte:Ncmsn	stream
+,	mte:Z	,
+jazz	mte:Ncmsn	jazz
+in	mte:Cc	in
+CR	mte:Npmsn	CR
+-	mte:Z	-
+V	mte:Sl	v
+,	mte:Z	,
+vsi	mte:Pg-mpa	ves
+modelno	mte:Agpnsa	modelen
+leto	mte:Ncnsa	leto
+20012003	mte:Mdc	20012003
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+prodanih	mte:Appnpg	prodan
+115	mte:Mdc	115
+teh	mte:Pd-npg	ta
+vozil	mte:Ncnpg	vozilo
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+lastniki	mte:Ncmpn	lastnik
+vozil	mte:Ncnpg	vozilo
+bodo	mte:Va-f3p-n	biti
+ob	mte:Sl	ob
+izdaji	mte:Ncfsl	izdaja
+vpoklica	mte:Ncmsg	vpoklica
+pisno	mte:Rgp	pisno
+obveščeni	mte:Appmpn	obveščen
+in	mte:Cc	in
+povabljeni	mte:Appmpn	povabljen
+na	mte:Sa	na
+brezplačni	mte:Agpmsay	brezplačen
+pregled	mte:Ncmsan	pregled
+oziroma	mte:Cc	oziroma
+zamenjavo	mte:Ncfsa	zamenjava
+rezervnega	mte:Agpnsg	rezerven
+dela	mte:Ncnsg	delo
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+.	mte:Z	.
+Zračne	mte:Agpfsg	zračen
+blazine	mte:Ncfsg	blazina
+izdelovalo	mte:Vmpp-sn	izdelovati
+podjetje	mte:Ncnsa	podjetje
+Takata	mte:Npmsg	Takata
+iz	mte:Sg	iz
+Tokia	mte:Npmsg	Tokia
+Iz	mte:Sg	iz
+Toyote	mte:Npfsg	Toyota
+in	mte:Cc	in
+Nissana	mte:Npmsg	Nissan
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zračne	mte:Agpfsg	zračen
+blazine	mte:Ncfpa	blazina
+proizvedlo	mte:Vmep-sn	proizvesti
+podjetje	mte:Ncnsa	podjetje
+Takata	mte:Ncmsg	takata
+iz	mte:Sg	iz
+Tokia	mte:Npmsg	Tokia
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+japonsko	mte:Agpnsn	japonski
+ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+pojasnilo	mte:Ncnsn	pojasnilo
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sestavne	mte:Agpmpa	sestaven
+dele	mte:Ncmpa	del
+za	mte:Sa	za
+zračne	mte:Agpfpa	zračen
+blazine	mte:Ncfpa	blazina
+dobavilo	mte:Vmep-sn	dobaviti
+eno	mte:Mlpnsa	en
+podjetje	mte:Ncnsa	podjetje
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+njegovega	mte:Ps3nsgsm	njegov
+imena	mte:Ncnsg	ime
+niso	mte:Va-r3p-y	biti
+navedli	mte:Vmep-pm	navesti
+.	mte:Z	.
+Takata	mte:Cs	takata
+je	mte:Va-r3s-n	biti
+zračne	mte:Agpfpa	zračen
+blazine	mte:Ncfpa	blazina
+dobavljala	mte:Vmpp-sf	dobavljati
+vsem	mte:Pg-mpd	ves
+večjim	mte:Agcmpd	velik
+proizvajalcem	mte:Ncmpd	proizvajalec
+avtomobilov	mte:Ncmpg	avtomobil
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+,	mte:Z	,
+tudi	mte:Q	tudi
+nemškim	mte:Agpmpd	nemški
+proizvajalcem	mte:Ncmpd	proizvajalec
+Daimler	mte:Npmsn	Daimler
+,	mte:Z	,
+Volkswagen	mte:Npmsn	Volkswagen
+in	mte:Cc	in
+BMW	mte:Npmsn	BMW
+,	mte:Z	,
+ameriškima	mte:Agpmdd	ameriški
+proizvajalcema	mte:Ncmdd	proizvajalec
+Ford	mte:Npmsn	Ford
+in	mte:Cc	in
+General	mte:Npmsn	general
+Motors	mte:Npmsn	Motors
+,	mte:Z	,
+italijanskemu	mte:Agpmsd	italijanski
+Fiatu	mte:Npmsd	Fiat
+in	mte:Cc	in
+južnokorejskemu	mte:Agpmsd	južnokorejski
+Hyundaiu	mte:Npmsd	Hyundai

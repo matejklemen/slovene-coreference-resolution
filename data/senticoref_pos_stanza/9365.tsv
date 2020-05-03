@@ -1,222 +1,244 @@
-token	tag
-Starod	Npmsn
-.	Z
-Prijeli	Vmep-pm
-iskanega	Appmsa
-italijanskega	Agpmsa
-kriminalca	Ncmsay
-.	Z
-Več	Rgc
-kriminalitete	Ncfsg
-drog	Ncfpg
-.	Z
-“	Z
-Kriminalistična	Agpfsn
-policija	Ncfsn
-je	Va-r3s-n
-dobro	Rgp
-organizirana	Appfsn
-in	Cc
-nekaj	Rgp
-kilometrov	Ncmpg
-razdalje	Ncfsg
-ne	Q
-bo	Va-f3s-n
-zmanjšalo	Vmep-sn
-naše	Ps1fsgp
-učinkovitosti	Ncfsg
-,	Z
-”	Z
-Iztok	Npmsn
-Perenič	Npmsn
-,	Z
-vodja	Ncmsn
-sektorja	Ncmsg
-kriminalistične	Agpfsg
-policije	Ncfsg
-na	Sl
-Policijski	Agpfsl
-upravi	Ncfsl
-(	Z
-PU	Npmsn
-)	Z
-Postojna	Npfsn
-,	Z
-odgovarja	Vmpr3s
-na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-bodo	Va-f3p-n
-po	Sl
-načrtovani	Appfsl
-ukinitvi	Ncfsl
-PU	Npmsn
-in	Cc
-preselitvi	Ncfsl
-v	Sl
-Koper	Npmsan
-še	Q
-vedno	Rgp
-enako	Rgp
-uspešno	Rgp
-pokrivali	Vmpp-pm
-območje	Ncnsa
-postojnske	Agpfsg
-PU	Ncfsg
-.	Z
-Ne	Q
-ustreza	Vmpr3s
-Stavba	Ncfsn
-PU	Npmsn
-Postojna	Npfsn
-.	Z
-Jasnega	Agpmsg
-odgovora	Ncmsg
-glede	Sg
-bodoče	Agpfsg
-namembnosti	Ncfsg
-,	Z
-razen	Sg
-tega	Pd-nsg
-da	Cs
-funkcionalno	Rgp
-ne	Q
-ustreza	Vmpr3s
-potrebam	Ncfpd
-policije	Ncfsg
-,	Z
-z	Si
-GPU	Ncmsi
-nismo	Va-r1p-y
-dobili	Vmep-pm
-.	Z
-Poudarili	Vmep-pm
-so	Va-r3p-n
-le	Q
-,	Z
-da	Cs
-bodo	Va-f3p-n
-ravnali	Vmpp-pm
-čim	Rgp
-bolj	Rgc
-racionalno	Rgp
-.	Z
-Po	Sl
-odmevni	Agpfsl
-akciji	Ncfsl
-odkritja	Ncnsg
-goljufije	Ncfsg
-pri	Sl
-izkoriščanju	Ncnsl
-subvencij	Ncfpg
-za	Sa
-zaposlovanje	Ncnsa
-invalidov	Ncmpg
-so	Va-r3p-n
-prejšnji	Agpmsay
-teden	Ncmsan
-na	Sl
-mejnem	Agpmsl
-prehodu	Ncmsl
-Starod	Npmsn
-zasegli	Vmep-pm
-22	Mdc
-kilogramov	Ncmpg
-konoplje	Ncfsg
-in	Cc
-orožje	Ncnsa
-ter	Cc
-ovadili	Vmep-pm
-italijanskega	Agpmsa
-kriminalca	Ncmsay
-,	Z
-za	Si
-katerim	Pq-msi
-je	Va-r3s-n
-italijanska	Agpfsn
-vlada	Ncfsn
-razpisala	Vmep-sf
-tiralico	Ncfsa
-.	Z
-Sodnik	Ncmsn
-je	Va-r3s-n
-zanj	Pp3msa--b
-odredil	Vmep-sm
-pripor	Ncmsan
-.	Z
-V	Sl
-območnem	Agpmsl
-policijskem	Agpmsl
-sindikatu	Ncmsl
-nasprotno	Rgp
-opozarjajo	Vmpr3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-to	Pd-nsn
-območje	Ncnsn
-sčasoma	Rgp
-bolj	Rgc
-zapostavljeno	Appnsn
-.	Z
-Letalska	Agpfsn
-agencija	Ncfsn
-?	Z
-Sicer	Q
-pa	Cc
-smo	Va-r1p-n
-izvedeli	Vmep-pm
-,	Z
-da	Cs
-v	Sl
-zakulisju	Ncnsl
-že	Q
-potekajo	Vmpr3p
-pogovori	Ncmpn
-o	Sl
-nadaljnji	Agpfsl
-usodi	Ncfsl
-stavbe	Ncfsg
-PU	Ncfsn
-po	Sl
-njeni	Ps3fslsf
-ukinitvi	Ncfsl
-.	Z
-Postojnska	Agpfsn
-LDS	Npfsn
-naj	Q
-bi	Va-c
-lobirala	Vmbp-sf
-,	Z
-da	Cs
-bi	Va-c
-tu	Rgp
-svoje	Px-mpa
-prostore	Ncmpa
-ali	Cc
-njihov	Ps3msap
-del	Ncmsan
-dobila	Vmep-sf
-agencija	Ncfsn
-za	Sa
-civilno	Agpnsa
-letalstvo	Ncnsa
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-ustanavlja	Vmpr3s
-vlada	Ncfsn
-in	Cc
-ki	Cs
-bo	Va-f3s-n
-v	Sl
-začetni	Agpfsl
-fazi	Ncfsl
-delovala	Vmpp-sf
-v	Sl
-prostorih	Ncmpl
-ministrstva	Ncnsg
-za	Sa
-promet	Ncmsan
-.	Z
+token	tag	lemma
+Starod	mte:Npmsn	Starod
+.	mte:Z	.
+Prijeli	mte:Vmep-pm	prijeti
+iskanega	mte:Appmsa	iskan
+italijanskega	mte:Agpmsa	italijanski
+kriminalca	mte:Ncmsay	kriminalec
+.	mte:Z	.
+Več	mte:Rgc	več
+kriminalitete	mte:Ncfsg	kriminaliteta
+drog	mte:Ncfpg	droga
+.	mte:Z	.
+“	mte:Z	“
+Kriminalistična	mte:Agpfsn	kriminalističen
+policija	mte:Ncfsn	policija
+je	mte:Va-r3s-n	biti
+dobro	mte:Rgp	dobro
+organizirana	mte:Appfsn	organiziran
+in	mte:Cc	in
+nekaj	mte:Rgp	nekaj
+kilometrov	mte:Ncmpg	kilometer
+razdalje	mte:Ncfsg	razdalja
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+zmanjšalo	mte:Vmep-sn	zmanjšati
+naše	mte:Ps1fsgp	naš
+učinkovitosti	mte:Ncfsg	učinkovitost
+,	mte:Z	,
+”	mte:Z	”
+Iztok	mte:Npmsn	Iztok
+Perenič	mte:Npmsn	Perenič
+,	mte:Z	,
+vodja	mte:Ncmsn	vodja
+sektorja	mte:Ncmsg	sektor
+kriminalistične	mte:Agpfsg	kriminalističen
+policije	mte:Ncfsg	policija
+na	mte:Sl	na
+Policijski	mte:Agpfsl	policijski
+upravi	mte:Ncfsl	uprava
+(	mte:Z	(
+PU	mte:Npmsn	PU
+)	mte:Z	)
+Postojna	mte:Npfsn	Postojna
+,	mte:Z	,
+odgovarja	mte:Vmpr3s	odgovarjati
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+načrtovani	mte:Appfsl	načrtovan
+ukinitvi	mte:Ncfsl	ukinitev
+PU	mte:Npmsn	PU
+in	mte:Cc	in
+preselitvi	mte:Ncfsl	preselitev
+v	mte:Sl	v
+Koper	mte:Npmsan	Koper
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+enako	mte:Rgp	enako
+uspešno	mte:Rgp	uspešno
+pokrivali	mte:Vmpp-pm	pokrivati
+območje	mte:Ncnsa	območje
+postojnske	mte:Agpfsg	postojnski
+PU	mte:Ncfsg	PU
+.	mte:Z	.
+Ne	mte:Q	ne
+ustreza	mte:Vmpr3s	ustrezati
+Stavba	mte:Ncfsn	stavba
+PU	mte:Npmsn	PU
+Postojna	mte:Npfsn	Postojna
+.	mte:Z	.
+Jasnega	mte:Agpmsg	jasen
+odgovora	mte:Ncmsg	odgovor
+glede	mte:Sg	glede
+bodoče	mte:Agpfsg	bodoč
+namembnosti	mte:Ncfsg	namembnost
+,	mte:Z	,
+razen	mte:Sg	razen
+tega	mte:Pd-nsg	ta
+da	mte:Cs	da
+funkcionalno	mte:Rgp	funkcionalno
+ne	mte:Q	ne
+ustreza	mte:Vmpr3s	ustrezati
+potrebam	mte:Ncfpd	potreba
+policije	mte:Ncfsg	policija
+,	mte:Z	,
+z	mte:Si	z
+GPU	mte:Ncmsi	GPU
+nismo	mte:Va-r1p-y	biti
+dobili	mte:Vmep-pm	dobiti
+.	mte:Z	.
+Poudarili	mte:Vmep-pm	poudariti
+so	mte:Va-r3p-n	biti
+le	mte:Q	le
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+ravnali	mte:Vmpp-pm	ravnati
+čim	mte:Rgp	čim
+bolj	mte:Rgc	bolj
+racionalno	mte:Rgp	racionalno
+.	mte:Z	.
+Po	mte:Sl	po
+odmevni	mte:Agpfsl	odmeven
+akciji	mte:Ncfsl	akcija
+odkritja	mte:Ncnsg	odkritje
+goljufije	mte:Ncfsg	goljufija
+pri	mte:Sl	pri
+izkoriščanju	mte:Ncnsl	izkoriščanje
+subvencij	mte:Ncfpg	subvencija
+za	mte:Sa	za
+zaposlovanje	mte:Ncnsa	zaposlovanje
+invalidov	mte:Ncmpg	invalid
+so	mte:Va-r3p-n	biti
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+na	mte:Sl	na
+mejnem	mte:Agpmsl	mejen
+prehodu	mte:Ncmsl	prehod
+Starod	mte:Npmsn	Starod
+zasegli	mte:Vmep-pm	zaseči
+22	mte:Mdc	22
+kilogramov	mte:Ncmpg	kilogram
+konoplje	mte:Ncfsg	konoplja
+in	mte:Cc	in
+orožje	mte:Ncnsa	orožje
+ter	mte:Cc	ter
+ovadili	mte:Vmep-pm	ovaditi
+italijanskega	mte:Agpmsa	italijanski
+kriminalca	mte:Ncmsay	kriminalec
+,	mte:Z	,
+za	mte:Si	za
+katerim	mte:Pq-msi	kateri
+je	mte:Va-r3s-n	biti
+italijanska	mte:Agpfsn	italijanski
+vlada	mte:Ncfsn	vlada
+razpisala	mte:Vmep-sf	razpisati
+tiralico	mte:Ncfsa	tiralica
+.	mte:Z	.
+Sodnik	mte:Ncmsn	sodnik
+je	mte:Va-r3s-n	biti
+zanj	mte:Pp3msa--b	zame
+odredil	mte:Vmep-sm	odrediti
+pripor	mte:Ncmsan	pripor
+.	mte:Z	.
+V	mte:Sl	v
+območnem	mte:Agpmsl	območen
+policijskem	mte:Agpmsl	policijski
+sindikatu	mte:Ncmsl	sindikat
+nasprotno	mte:Rgp	nasprotno
+opozarjajo	mte:Vmpr3p	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+območje	mte:Ncnsn	območje
+sčasoma	mte:Rgp	sčasoma
+bolj	mte:Rgc	bolj
+zapostavljeno	mte:Appnsn	zapostavljen
+.	mte:Z	.
+Letalska	mte:Agpfsn	letalski
+agencija	mte:Ncfsn	agencija
+?	mte:Z	?
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+smo	mte:Va-r1p-n	biti
+izvedeli	mte:Vmep-pm	izvedeti
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+zakulisju	mte:Ncnsl	zakulisje
+že	mte:Q	že
+potekajo	mte:Vmpr3p	potekati
+pogovori	mte:Ncmpn	pogovor
+o	mte:Sl	o
+nadaljnji	mte:Agpfsl	nadaljnji
+usodi	mte:Ncfsl	usoda
+stavbe	mte:Ncfsg	stavba
+PU	mte:Ncfsn	PU
+po	mte:Sl	po
+njeni	mte:Ps3fslsf	njen
+ukinitvi	mte:Ncfsl	ukinitev
+.	mte:Z	.
+Postojnska	mte:Agpfsn	postojnski
+LDS	mte:Npfsn	LDS
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+lobirala	mte:Vmbp-sf	lobirati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+tu	mte:Rgp	tu
+svoje	mte:Px-mpa	svoj
+prostore	mte:Ncmpa	prostor
+ali	mte:Cc	ali
+njihov	mte:Ps3msap	njihov
+del	mte:Ncmsan	del
+dobila	mte:Vmep-sf	dobiti
+agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+civilno	mte:Agpnsa	civilen
+letalstvo	mte:Ncnsa	letalstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+ustanavlja	mte:Vmpr3s	ustanavljati
+vlada	mte:Ncfsn	vlada
+in	mte:Cc	in
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+začetni	mte:Agpfsl	začeten
+fazi	mte:Ncfsl	faza
+delovala	mte:Vmpp-sf	delovati
+v	mte:Sl	v
+prostorih	mte:Ncmpl	prostor
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+.	mte:Z	.
+Uroš	mte:Npmsn	Uroš
+Petohleb	mte:Npmsn	Petohleb
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+postojnske	mte:Agpfsg	postojnski
+LDS	mte:Npfsg	LDS
+in	mte:Cc	in
+generalni	mte:Agpmsny	generalen
+sekretar	mte:Ncmsn	sekretar
+LDS	mte:Npfsg	LDS
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+notranja	mte:Agpfsn	notranji
+ministrica	mte:Ncfsn	ministrica
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsa	ta
+zanikal	mte:Vmep-sm	zanikati

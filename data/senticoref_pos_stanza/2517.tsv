@@ -1,493 +1,522 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Pomurski	Agpmsny
-poslanec	Ncmsn
-SLS	Npmsn
-Radovan	Npmsn
-Žerjav	Npmsn
-se	Px------y
-je	Va-r3s-n
-v	Sl
-pisnem	Agpnsl
-poslanskem	Agpnsl
-vprašanju	Ncnsl
-premieru	Ncmsd
-Borutu	Npmsd
-Pahorju	Npmsd
-zavzel	Vmep-sm
-za	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-bi	Va-c
-država	Ncfsn
-v	Sl
-podjetju	Ncnsl
-Mura	Npfsn
-pridobila	Vmep-sf
-kontrolni	Agpmsay
-delež	Ncmsan
-in	Cc
-ga	Pp3msa--y
-nato	Rgp
-rešila	Vmep-sf
-iz	Sg
-"	Z
-krize	Ncfsg
-vodenja	Ncnsg
-"	Z
-,	Z
-v	Sl
-kateri	Pq-fsl
-da	Cs
-je	Va-r3s-n
-zaradi	Sg
-razdrobljene	Appfsg
-lastniške	Agpfsg
-strukture	Ncfsg
-.	Z
-"	Z
-Državi	Ncfsd
-bo	Va-f3s-n
-v	Sl
-vsakem	Pg-msl
-primeru	Ncmsl
-izstavljen	Appmsnn
-račun	Ncmsn
-,	Z
-"	Z
-pravi	Vmbr3s
-Žerjav	Npmsn
-.	Z
-V	Sl
-Pomurju	Npnsl
-je	Va-r3s-n
-trenutna	Agpfsn
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-13,8	Mdc
-odstotka	Ncmsg
-,	Z
-ob	Sl
-propadu	Ncmsl
-Mure	Npfsg
-pa	Cc
-bi	Va-c
-se	Px------y
-povzpela	Vmep-sf
-na	Sa
-25	Mdc
-odstotkov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-gre	Vmbr3s
-za	Sa
-težko	Agpfsa
-zaposljivo	Agpfsa
-delovno	Agpfsa
-silo	Ncfsa
-,	Z
-je	Va-r3s-n
-danes	Rgp
-v	Sl
-Ljubljani	Npfsl
-opozoril	Vmep-sm
-Žerjav	Npmsn
-.	Z
-Mura	Npfsn
-trenutno	Rgp
-zaposluje	Vmpr3s
-3900	Mdc
-ljudi	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-po	Sl
-Žerjavovih	Aspfpl
-besedah	Ncfpl
-petina	Ncfsn
-delovno	Agpnsn
-aktivnega	Agpnsg
-prebivalstva	Ncnsg
-v	Sl
-Pomurju	Npnsl
-,	Z
-zato	Cc
-bi	Va-c
-propad	Ncmsan
-družbe	Ncfsg
-pomenil	Vmbp-sm
-hud	Agpmsan
-udarec	Ncmsan
-za	Sa
-že	Q
-tako	Rgp
-slabše	Agcfsa
-razvito	Agpfsa
-regijo	Ncfsa
-.	Z
-"	Z
-To	Pd-nsn
-bi	Va-c
-lahko	Rgp
-bila	Va-p-sf
-osnova	Ncfsn
-za	Sa
-rešitev	Ncfsa
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-Muri	Npfsl
-.	Z
-Koliko	Rgp
-bi	Va-c
-jih	Pp3mpa--y
-lahko	Rgp
-rešili	Vmep-pm
-,	Z
-sicer	Q
-ne	Q
-vem	Vmpr1s
-povedati	Vmen
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Družba	Ncfsn
-je	Va-r3s-n
-nelikvidna	Agpfsn
-,	Z
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-ustvari	Vmer3s
-tri	Mlcmpa
-milijone	Ncmpa
-evrov	Ncmpg
-izgube	Ncfsg
-,	Z
-pravi	Vmbr3s
-Žerjav	Npmsn
-,	Z
-ki	Cs
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-družba	Ncfsn
-pomoč	Ncfsa
-potrebovala	Vmpp-sf
-najkasneje	Rgs
-v	Sl
-pol	Rgp
-leta	Ncnsg
-.	Z
-"	Z
-Premieru	Ncmsd
-sem	Va-r1s-n
-predlagal	Vmbp-sm
-,	Z
-da	Cs
-bi	Va-c
-država	Ncfsn
-prek	Sg
-Slovenske	Agpfsg
-odškodninske	Agpfsg
-družbe	Ncfsg
-(	Z
-Sod	Ncmsn
-)	Z
-ali	Cc
-Kapitalske	Agpfsg
-družbe	Ncfsg
-(	Z
-Kad	Ncmsn
-)	Z
-povečala	Vmep-sf
-svoj	Px-msa
-lastniški	Agpmsay
-delež	Ncmsan
-,	Z
-v	Sl
-naslednjem	Agpmsl
-koraku	Ncmsl
-pa	Cc
-prek	Sg
-novega	Agpmsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-in	Cc
-uprave	Ncfsg
-razvila	Vmep-sf
-razvoj	Ncmsan
-zdravih	Agpnpg
-jeder	Ncnpg
-,	Z
-predvsem	Q
-lastne	Agpfpa
-blagovne	Agpfpa
-znamke	Ncfpa
-,	Z
-in	Cc
-zaprla	Vmep-sf
-neperspektivne	Agpfpa
-dejavnosti	Ncfpa
-,	Z
-"	Z
-pravi	Vmbr3s
-.	Z
-Opozarja	Vmpr3s
-,	Z
-da	Cs
-lastniki	Ncmpn
-nimajo	Vmpr3p-y
-interesa	Ncmsg
-za	Sa
-razvoj	Ncmsan
-družbe	Ncfsg
-.	Z
-"	Z
-Trdim	Vmpr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-problem	Ncmsn
-Mure	Npfsg
-posledica	Ncfsn
-krize	Ncfsg
-vodenja	Ncnsg
-podjetja	Ncnsg
-in	Cc
-napačne	Agpfsg
-kadrovske	Agpfsg
-politike	Ncfsg
-,	Z
-ker	Cs
-je	Va-r3s-n
-lastniška	Agpfsn
-struktura	Ncfsn
-zelo	Rgp
-razdrobljena	Appfsn
-.	Z
-Lastniki	Ncmpn
-nimajo	Vmpr3p-y
-interesa	Ncmsg
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-z	Si
-Muro	Npfsi
-kaj	Pq-nsa
-resnega	Agpnsg
-zgodilo	Vmep-sn
-,	Z
-"	Z
-pravi	Vmbr3s
-Žerjav	Npmsn
-.	Z
-Lastniki	Ncmpn
-Mure	Npfsg
-Največji	Agsmsny
-posamični	Agpmsny
-lastnik	Ncmsn
-Mure	Npfsg
-je	Va-r3s-n
-NFD	Npmsn
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-18,57	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-,	Z
-medtem	Rgp
-ko	Cs
-ima	Vmpr3s-n
-Sod	Ncmsan
-12,2	Mdc
-odstotka	Ncmsg
-delnic	Ncfpg
-.	Z
-Mercata	Npmsg
-ima	Vmpr3s-n
-6,7	Mdc
-odstotka	Ncmsg
-delnic	Ncfpg
-,	Z
-Zvon	Ncmsan
-II	Mrc
-Holding	Ncmsn
-4,3	Mdc
-odstotka	Ncmsg
-,	Z
-Zlata	Agpmsg
-Moneta	Ncmsg
-II	Mrc
-pa	Cc
-dobre	Agpmpa
-štiri	Mlcmpa
-odstotke	Ncmpa
-.	Z
-Pahorja	Npmsg
-sprašuje	Vmpr3s
-,	Z
-kaj	Pq-nsa
-bo	Va-f3s-n
-vlada	Ncfsn
-storila	Vmep-sf
-v	Sl
-primeru	Ncmsl
-Mure	Npfsg
-in	Cc
-ali	Rgp
-drži	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-državne	Agpfpn
-pomoči	Ncfpa
-deležne	Agpfpn
-samo	Q
-dobre	Agpfpg
-družbe	Ncfpa
-,	Z
-takšne	Pd-fpn
-kot	Cs
-je	Va-r3s-n
-Mura	Npfsn
-,	Z
-pa	Cc
-ne	Q
-.	Z
-Žerjav	Npmsn
-sicer	Q
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-zakon	Ncmsn
-o	Sl
-delnem	Agpnsl
-subvencioniranju	Ncnsl
-delovnega	Agpmsg
-časa	Ncmsg
-ne	Q
-bo	Va-f3s-n
-imel	Vmpp-sm
-pomembnejših	Agcmpg
-učinkov	Ncmpg
-za	Sa
-podjetja	Ncnpa
-.	Z
-Boljši	Agcmsay
-ukrep	Ncmsan
-bi	Va-c
-bile	Va-p-pf
-po	Sl
-njegovem	Ps3nslsm
-olajšave	Ncfsg
-za	Sa
-investicije	Ncfpa
-v	Sa
-raziskave	Ncfpa
-in	Cc
-razvoj	Ncmsan
-ter	Cc
-zmanjšanje	Ncnsa
-prispevne	Agpfsg
-stopnje	Ncfsg
-za	Sa
-socialne	Agpmpa
-prispevke	Ncmpa
-za	Sa
-delodajalce	Ncmpa
-.	Z
-Pohvala	Ncfsn
-in	Cc
-kritika	Ncfsn
-na	Sa
-račun	Ncmsan
-Vlačiča	Npmsg
-Nekdanji	Agpmsny
-minister	Ncmsn
-za	Sa
-promet	Ncmsan
-sicer	Q
-podpira	Vmpr3s
-sedanjega	Agpmsa
-ministra	Ncmsay
-Patricka	Npmsay
-Vlačiča	Npmsay
-pri	Sl
-razmišljanju	Ncnsl
-o	Sl
-zamenjavi	Ncfsl
-predsednika	Ncmsg
-uprave	Ncfsg
-Slovenskih	Agpfpg
-železnic	Ncfpg
-.	Z
-"	Z
-S	Si
-tem	Pd-nsi
-se	Px------y
-strinjam	Vmpr1s
-in	Cc
-sam	Q
-bi	Va-c
-storil	Vmep-sm
-enako	Pi-nsa
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-pravo	Agpnsn
-razmišljanje	Ncnsa
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Žerjav	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-na	Sa
-mesto	Ncnsa
-ministra	Ncmsg
-prišel	Vmep-sm
-pred	Si
-zadnjim	Agpnsi
-letom	Ncnsi
-mandata	Ncmsg
-prejšnje	Agpfsg
-vlade	Ncfsg
-.	Z
-Nasprotno	Rgp
-pa	Cc
-je	Va-r3s-n
-kategorično	Agpnsn
-proti	Sd
-menjavi	Ncfsd
-vodstva	Ncnsg
-Luke	Npfsg
-Koper	Npmsn
-.	Z
-"	Z
-Treba	Rgp
-je	Va-r3s-n
-samo	Q
-pogledati	Vmen
-poslovanje	Ncnsa
-,	Z
-pretovor	Ncmsan
-,	Z
-dobiček	Ncmsan
-,	Z
-kaj	Pq-nsa
-je	Va-r3s-n
-bilo	Va-p-sn
-narejenega	Appnsg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Pomurski	mte:Agpmsny	pomurski
+poslanec	mte:Ncmsn	poslanec
+SLS	mte:Npmsn	SLS
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+pisnem	mte:Agpnsl	pisen
+poslanskem	mte:Agpnsl	poslanski
+vprašanju	mte:Ncnsl	vprašanje
+premieru	mte:Ncmsd	premier
+Borutu	mte:Npmsd	Borut
+Pahorju	mte:Npmsd	Pahorje
+zavzel	mte:Vmep-sm	zavzeti
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+Mura	mte:Npfsn	Mura
+pridobila	mte:Vmep-sf	pridobiti
+kontrolni	mte:Agpmsay	kontrolen
+delež	mte:Ncmsan	delež
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+nato	mte:Rgp	nato
+rešila	mte:Vmep-sf	rešiti
+iz	mte:Sg	iz
+"	mte:Z	"
+krize	mte:Ncfsg	kriza
+vodenja	mte:Ncnsg	vodenje
+"	mte:Z	"
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+razdrobljene	mte:Appfsg	razdrobljen
+lastniške	mte:Agpfsg	lastniški
+strukture	mte:Ncfsg	struktura
+.	mte:Z	.
+"	mte:Z	"
+Državi	mte:Ncfsd	država
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+vsakem	mte:Pg-msl	vsak
+primeru	mte:Ncmsl	primer
+izstavljen	mte:Appmsnn	izstavljen
+račun	mte:Ncmsn	račun
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+Žerjav	mte:Npmsn	Žerjav
+.	mte:Z	.
+V	mte:Sl	v
+Pomurju	mte:Npnsl	Pomurje
+je	mte:Va-r3s-n	biti
+trenutna	mte:Agpfsn	trenuten
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+13,8	mte:Mdc	13,8
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+ob	mte:Sl	ob
+propadu	mte:Ncmsl	propad
+Mure	mte:Npfsg	Mura
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+povzpela	mte:Vmep-sf	povzpeti
+na	mte:Sa	na
+25	mte:Mdc	25
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+težko	mte:Agpfsa	težek
+zaposljivo	mte:Agpfsa	zaposljiv
+delovno	mte:Agpfsa	deloven
+silo	mte:Ncfsa	sila
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+opozoril	mte:Vmep-sm	opozoriti
+Žerjav	mte:Npmsn	Žerjav
+.	mte:Z	.
+Mura	mte:Npfsn	Mura
+trenutno	mte:Rgp	trenutno
+zaposluje	mte:Vmpr3s	zaposlovati
+3900	mte:Mdc	3900
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+Žerjavovih	mte:Aspfpl	žerjavov
+besedah	mte:Ncfpl	beseda
+petina	mte:Ncfsn	petina
+delovno	mte:Agpnsn	deloven
+aktivnega	mte:Agpnsg	aktiven
+prebivalstva	mte:Ncnsg	prebivalstvo
+v	mte:Sl	v
+Pomurju	mte:Npnsl	Pomurje
+,	mte:Z	,
+zato	mte:Cc	zato
+bi	mte:Va-c	biti
+propad	mte:Ncmsan	propad
+družbe	mte:Ncfsg	družba
+pomenil	mte:Vmbp-sm	pomeniti
+hud	mte:Agpmsan	hud
+udarec	mte:Ncmsan	udarec
+za	mte:Sa	za
+že	mte:Q	že
+tako	mte:Rgp	tako
+slabše	mte:Agcfsa	slab
+razvito	mte:Agpfsa	razvit
+regijo	mte:Ncfsa	regija
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+bila	mte:Va-p-sf	biti
+osnova	mte:Ncfsn	osnova
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+Muri	mte:Npfsl	Muri
+.	mte:Z	.
+Koliko	mte:Rgp	koliko
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+lahko	mte:Rgp	lahko
+rešili	mte:Vmep-pm	rešiti
+,	mte:Z	,
+sicer	mte:Q	sicer
+ne	mte:Q	ne
+vem	mte:Vmpr1s	vedeti
+povedati	mte:Vmen	povedati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+je	mte:Va-r3s-n	biti
+nelikvidna	mte:Agpfsn	nelikviden
+,	mte:Z	,
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+ustvari	mte:Vmer3s	ustvariti
+tri	mte:Mlcmpa	trije
+milijone	mte:Ncmpa	milijon
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Žerjav	mte:Npmsn	Žerjav
+,	mte:Z	,
+ki	mte:Cs	ki
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+družba	mte:Ncfsn	družba
+pomoč	mte:Ncfsa	pomoč
+potrebovala	mte:Vmpp-sf	potrebovati
+najkasneje	mte:Rgs	kasno
+v	mte:Sl	v
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+"	mte:Z	"
+Premieru	mte:Ncmsd	premier
+sem	mte:Va-r1s-n	biti
+predlagal	mte:Vmbp-sm	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+prek	mte:Sg	prek
+Slovenske	mte:Agpfsg	slovenski
+odškodninske	mte:Agpfsg	odškodninski
+družbe	mte:Ncfsg	družba
+(	mte:Z	(
+Sod	mte:Ncmsn	sod
+)	mte:Z	)
+ali	mte:Cc	ali
+Kapitalske	mte:Agpfsg	kapitalski
+družbe	mte:Ncfsg	družba
+(	mte:Z	(
+Kad	mte:Ncmsn	kad
+)	mte:Z	)
+povečala	mte:Vmep-sf	povečati
+svoj	mte:Px-msa	svoj
+lastniški	mte:Agpmsay	lastniški
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+v	mte:Sl	v
+naslednjem	mte:Agpmsl	naslednji
+koraku	mte:Ncmsl	korak
+pa	mte:Cc	pa
+prek	mte:Sg	prek
+novega	mte:Agpmsg	nov
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+in	mte:Cc	in
+uprave	mte:Ncfsg	uprava
+razvila	mte:Vmep-sf	razviti
+razvoj	mte:Ncmsan	razvoj
+zdravih	mte:Agpnpg	zdrav
+jeder	mte:Ncnpg	jeder
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+lastne	mte:Agpfpa	lasten
+blagovne	mte:Agpfpa	blagoven
+znamke	mte:Ncfpa	znamka
+,	mte:Z	,
+in	mte:Cc	in
+zaprla	mte:Vmep-sf	zapreti
+neperspektivne	mte:Agpfpa	neperspektiven
+dejavnosti	mte:Ncfpa	dejavnost
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+.	mte:Z	.
+Opozarja	mte:Vmpr3s	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+lastniki	mte:Ncmpn	lastnik
+nimajo	mte:Vmpr3p-y	imeti
+interesa	mte:Ncmsg	interes
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+"	mte:Z	"
+Trdim	mte:Vmpr1s	trditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+problem	mte:Ncmsn	problem
+Mure	mte:Npfsg	Mura
+posledica	mte:Ncfsn	posledica
+krize	mte:Ncfsg	kriza
+vodenja	mte:Ncnsg	vodenje
+podjetja	mte:Ncnsg	podjetje
+in	mte:Cc	in
+napačne	mte:Agpfsg	napačen
+kadrovske	mte:Agpfsg	kadrovski
+politike	mte:Ncfsg	politika
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+lastniška	mte:Agpfsn	lastniški
+struktura	mte:Ncfsn	struktura
+zelo	mte:Rgp	zelo
+razdrobljena	mte:Appfsn	razdrobljen
+.	mte:Z	.
+Lastniki	mte:Ncmpn	lastnik
+nimajo	mte:Vmpr3p-y	imeti
+interesa	mte:Ncmsg	interes
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+z	mte:Si	z
+Muro	mte:Npfsi	Mura
+kaj	mte:Pq-nsa	kaj
+resnega	mte:Agpnsg	resen
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+Žerjav	mte:Npmsn	Žerjav
+.	mte:Z	.
+Lastniki	mte:Ncmpn	lastnik
+Mure	mte:Npfsg	Mura
+Največji	mte:Agsmsny	velik
+posamični	mte:Agpmsny	posamičen
+lastnik	mte:Ncmsn	lastnik
+Mure	mte:Npfsg	Mura
+je	mte:Va-r3s-n	biti
+NFD	mte:Npmsn	NFD
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+18,57	mte:Mdc	18,57
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+ima	mte:Vmpr3s-n	imeti
+Sod	mte:Ncmsan	sod
+12,2	mte:Mdc	12,2
+odstotka	mte:Ncmsg	odstotek
+delnic	mte:Ncfpg	delnica
+.	mte:Z	.
+Mercata	mte:Npmsg	Mercata
+ima	mte:Vmpr3s-n	imeti
+6,7	mte:Mdc	6,7
+odstotka	mte:Ncmsg	odstotek
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+Zvon	mte:Ncmsan	zvon
+II	mte:Mrc	II
+Holding	mte:Ncmsn	holding
+4,3	mte:Mdc	4,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Zlata	mte:Agpmsg	zlat
+Moneta	mte:Ncmsg	monet
+II	mte:Mrc	II
+pa	mte:Cc	pa
+dobre	mte:Agpmpa	dober
+štiri	mte:Mlcmpa	štirje
+odstotke	mte:Ncmpa	odstotek
+.	mte:Z	.
+Pahorja	mte:Npmsg	Pahorje
+sprašuje	mte:Vmpr3s	spraševati
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+bo	mte:Va-f3s-n	biti
+vlada	mte:Ncfsn	vlada
+storila	mte:Vmep-sf	storiti
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+Mure	mte:Npfsg	Mura
+in	mte:Cc	in
+ali	mte:Rgp	ali
+drži	mte:Vmpr3s	držati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+državne	mte:Agpfpn	državen
+pomoči	mte:Ncfpa	pomoč
+deležne	mte:Agpfpn	deležen
+samo	mte:Q	samo
+dobre	mte:Agpfpg	dober
+družbe	mte:Ncfpa	družba
+,	mte:Z	,
+takšne	mte:Pd-fpn	takšen
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Mura	mte:Npfsn	Mura
+,	mte:Z	,
+pa	mte:Cc	pa
+ne	mte:Q	ne
+.	mte:Z	.
+Žerjav	mte:Npmsn	Žerjav
+sicer	mte:Q	sicer
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+delnem	mte:Agpnsl	delen
+subvencioniranju	mte:Ncnsl	subvencioniranje
+delovnega	mte:Agpmsg	deloven
+časa	mte:Ncmsg	čas
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+imel	mte:Vmpp-sm	imeti
+pomembnejših	mte:Agcmpg	pomemben
+učinkov	mte:Ncmpg	učinek
+za	mte:Sa	za
+podjetja	mte:Ncnpa	podjetje
+.	mte:Z	.
+Boljši	mte:Agcmsay	dober
+ukrep	mte:Ncmsan	ukrep
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+olajšave	mte:Ncfsg	olajšava
+za	mte:Sa	za
+investicije	mte:Ncfpa	investicija
+v	mte:Sa	v
+raziskave	mte:Ncfpa	raziskava
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+ter	mte:Cc	ter
+zmanjšanje	mte:Ncnsa	zmanjšanje
+prispevne	mte:Agpfsg	prispeven
+stopnje	mte:Ncfsg	stopnja
+za	mte:Sa	za
+socialne	mte:Agpmpa	socialen
+prispevke	mte:Ncmpa	prispevek
+za	mte:Sa	za
+delodajalce	mte:Ncmpa	delodajalec
+.	mte:Z	.
+Pohvala	mte:Ncfsn	pohvala
+in	mte:Cc	in
+kritika	mte:Ncfsn	kritika
+na	mte:Sa	na
+račun	mte:Ncmsan	račun
+Vlačiča	mte:Npmsg	Vlačič
+Nekdanji	mte:Agpmsny	nekdanji
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+sicer	mte:Q	sicer
+podpira	mte:Vmpr3s	podpirati
+sedanjega	mte:Agpmsa	sedanji
+ministra	mte:Ncmsay	minister
+Patricka	mte:Npmsay	Patricka
+Vlačiča	mte:Npmsay	Vlačič
+pri	mte:Sl	pri
+razmišljanju	mte:Ncnsl	razmišljanje
+o	mte:Sl	o
+zamenjavi	mte:Ncfsl	zamenjava
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+.	mte:Z	.
+"	mte:Z	"
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+se	mte:Px------y	se
+strinjam	mte:Vmpr1s	strinjati
+in	mte:Cc	in
+sam	mte:Q	samo
+bi	mte:Va-c	biti
+storil	mte:Vmep-sm	storiti
+enako	mte:Pi-nsa	enak
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+pravo	mte:Agpnsn	pravi
+razmišljanje	mte:Ncnsa	razmišljanje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Žerjav	mte:Npmsn	Žerjav
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+mesto	mte:Ncnsa	mesto
+ministra	mte:Ncmsg	minister
+prišel	mte:Vmep-sm	priti
+pred	mte:Si	pred
+zadnjim	mte:Agpnsi	zadnji
+letom	mte:Ncnsi	leto
+mandata	mte:Ncmsg	mandat
+prejšnje	mte:Agpfsg	prejšnji
+vlade	mte:Ncfsg	vlada
+.	mte:Z	.
+Nasprotno	mte:Rgp	nasprotno
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+kategorično	mte:Agpnsn	kategoričen
+proti	mte:Sd	proti
+menjavi	mte:Ncfsd	menjava
+vodstva	mte:Ncnsg	vodstvo
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+"	mte:Z	"
+Treba	mte:Rgp	treba
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+pogledati	mte:Vmen	pogledati
+poslovanje	mte:Ncnsa	poslovanje
+,	mte:Z	,
+pretovor	mte:Ncmsan	pretovor
+,	mte:Z	,
+dobiček	mte:Ncmsan	dobiček
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+narejenega	mte:Appnsg	narejen
+.	mte:Z	.
+Mislim	mte:Vmpr1s	misliti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+delala	mte:Vmpp-sf	delati
+zelo	mte:Rgp	zelo
+dobro	mte:Rgp	dobro
+,	mte:Z	,
+"	mte:Z	"
+meni	mte:Vmpr3s	meniti
+Žerjav	mte:Npmsn	Žerjav
+in	mte:Cc	in
+tako	mte:Rgp	tako
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+"	mte:Z	"
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+lahko	mte:Rgp	lahko
+samo	mte:Q	samo
+politična	mte:Agpfsn	političen
+igra	mte:Ncfsn	igra
+,	mte:Z	,
+nič	mte:Pz-nsn	nič
+drugega	mte:Mlpnsg	drug
+"	mte:Z	"

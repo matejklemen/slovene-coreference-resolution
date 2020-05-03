@@ -1,206 +1,240 @@
-token	tag
-London	Npmsn
-je	Va-r3s-n
-letos	Rgp
-pristal	Vmep-sm
-na	Sl
-vrhu	Ncmsl
-lestvice	Ncfsg
-največjih	Agsnpg
-trgovskih	Agpnpg
-mest	Ncnpg
-.	Z
-Prihodki	Ncmpn
-od	Sg
-prodaje	Ncfsg
-neživilskih	Agpmpg
-izdelkov	Ncmpg
-so	Va-r3p-n
-namreč	Cc
-znašali	Vmpp-pm
-kar	Rgp
-76,3	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Na	Sl
-drugem	Mlpnsl
-mestu	Ncnsl
-je	Va-r3s-n
-Tokio	Npmsn
-,	Z
-na	Sl
-tretjem	Mlomsl
-pa	Cc
-New	Npmsn
-York	Npmsn
-.	Z
-Kupci	Ncmpn
-največ	Rgs
-denarja	Ncmsg
-pustijo	Vmer3p
-v	Sl
-Londonu	Npmsl
-.	Z
-London	Npmsn
-je	Va-r3s-n
-v	Sl
-letu	Ncnsl
-2010	Mdc
-zasedel	Vmep-sm
-vrh	Ncmsan
-lestvice	Ncfsg
-največjih	Agsnpg
-trgovskih	Agpnpg
-mest	Ncnpg
-na	Sl
-svetu	Ncmsl
-.	Z
-Prihodki	Ncmpn
-od	Sg
-prodaje	Ncfsg
-neživilskih	Agpmpg
-izdelkov	Ncmpg
-tako	Cc
-v	Sl
-tamkajšnjih	Agpmpl
-trgovskih	Agpmpl
-lokalih	Ncmpl
-kot	Cs
-prek	Sg
-spletne	Agpfsg
-prodaje	Ncfsg
-so	Va-r3p-n
-znašali	Vmpp-pm
-64,2	Mdc
-milijarde	Ncfsg
-funtov	Ncmpg
-76,3	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-s	Si
-čimer	Pr-nsi
-je	Va-r3s-n
-britansko	Agpnsn
-glavno	Agpnsn
-mesto	Ncnsa
-pustilo	Vmep-sn
-za	Si
-seboj	Px---i
-tako	Rgp
-Tokio	Npmsn
-kot	Cs
-New	Npmsn
-York	Npmsn
-in	Cc
-Pariz	Npmsn
-.	Z
-Tokio	Npmsn
-je	Va-r3s-n
-zasedel	Vmep-sm
-drugo	Mlpnsa
-mesto	Ncnsa
-lestvice	Ncfsg
-,	Z
-pa	Cc
-čeprav	Cs
-ima	Vmpr3s-n
-več	Rgc
-prebivalcev	Ncmpg
-kot	Cs
-London	Npmsn
-.	Z
-Prihodki	Ncmpn
-od	Sg
-prodaje	Ncfsg
-neživilskega	Agpnsg
-blaga	Ncnsg
-v	Sl
-japonskem	Agpnsl
-glavnem	Agpnsl
-mestu	Ncnsl
-Tokiu	Npmsl
-so	Va-r3p-n
-lani	Rgp
-znašali	Vmpp-pm
-61,4	Mdc
-milijarde	Ncfsg
-funtov	Ncmpg
-72,9	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Na	Sl
-tretjem	Mlonsl
-mestu	Ncnsl
-sledi	Vmpr3s
-ameriški	Agpmsay
-New	Npmsn
-York	Npmsan
-s	Si
-47	Mdc
-milijardami	Ncfpi
-funtov	Ncmpg
-55,8	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-prihodkov	Ncmpg
-od	Sg
-prodaje	Ncfsg
-v	Sl
-trgovini	Ncfsl
-na	Sa
-drobno	Agpfsa
-,	Z
-na	Sl
-četrtem	Mlonsl
-pa	Cc
-francoska	Agpfsn
-prestolnica	Ncfsn
-Pariz	Npmsn
-s	Si
-46,6	Mdc
-milijarde	Ncfsg
-funtov	Ncmpg
-55,3	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Raziskavo	Ncfsa
-je	Va-r3s-n
-naredila	Vmep-sf
-spletna	Agpfsn
-stran	Ncfsn
-za	Sa
-primerjavo	Ncfsa
-cen	Ncfpg
-Kelkoo	Npmsn
-,	Z
-kjer	Cs
-so	Va-r3p-n
-primerjali	Vmpp-pm
-22	Mdc
-največjih	Agsnpg
-nakupovalnih	Agpnpg
-središč	Ncnpg
-na	Sl
-svetu	Ncmsl
-.	Z
-Do	Sg
-desetega	Mlonsg
-mesta	Ncnsg
-sledijo	Vmpr3p
-Los	Npmsnn
-Angeles	Npmsnn
-,	Z
-Hongkong	Npmsn
-,	Z
-Singapur	Npmsn
-,	Z
-Dubaj	Npmsn
-,	Z
-Sydney	Npmsn
-in	Cc
-Milano	Npmsn
-.	Z
+token	tag	lemma
+London	mte:Npmsn	London
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+pristal	mte:Vmep-sm	pristati
+na	mte:Sl	na
+vrhu	mte:Ncmsl	vrh
+lestvice	mte:Ncfsg	lestvica
+največjih	mte:Agsnpg	velik
+trgovskih	mte:Agpnpg	trgovski
+mest	mte:Ncnpg	mesto
+.	mte:Z	.
+Prihodki	mte:Ncmpn	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+neživilskih	mte:Agpmpg	neživilski
+izdelkov	mte:Ncmpg	izdelek
+so	mte:Va-r3p-n	biti
+namreč	mte:Cc	namreč
+znašali	mte:Vmpp-pm	znašati
+kar	mte:Rgp	kar
+76,3	mte:Mdc	76,3
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Na	mte:Sl	na
+drugem	mte:Mlpnsl	drug
+mestu	mte:Ncnsl	mesto
+je	mte:Va-r3s-n	biti
+Tokio	mte:Npmsn	Tokia
+,	mte:Z	,
+na	mte:Sl	na
+tretjem	mte:Mlomsl	tretji
+pa	mte:Cc	pa
+New	mte:Npmsn	New
+York	mte:Npmsn	York
+.	mte:Z	.
+Kupci	mte:Ncmpn	kupec
+največ	mte:Rgs	največ
+denarja	mte:Ncmsg	denar
+pustijo	mte:Vmer3p	pustiti
+v	mte:Sl	v
+Londonu	mte:Npmsl	London
+.	mte:Z	.
+London	mte:Npmsn	London
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2010	mte:Mdc	2010
+zasedel	mte:Vmep-sm	zasesti
+vrh	mte:Ncmsan	vrh
+lestvice	mte:Ncfsg	lestvica
+največjih	mte:Agsnpg	velik
+trgovskih	mte:Agpnpg	trgovski
+mest	mte:Ncnpg	mesto
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+Prihodki	mte:Ncmpn	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+neživilskih	mte:Agpmpg	neživilski
+izdelkov	mte:Ncmpg	izdelek
+tako	mte:Cc	tako
+v	mte:Sl	v
+tamkajšnjih	mte:Agpmpl	tamkajšnji
+trgovskih	mte:Agpmpl	trgovski
+lokalih	mte:Ncmpl	lokal
+kot	mte:Cs	kot
+prek	mte:Sg	prek
+spletne	mte:Agpfsg	spleten
+prodaje	mte:Ncfsg	prodaja
+so	mte:Va-r3p-n	biti
+znašali	mte:Vmpp-pm	znašati
+64,2	mte:Mdc	64,2
+milijarde	mte:Ncfsg	milijarda
+funtov	mte:Ncmpg	funt
+76,3	mte:Mdc	76,3
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+je	mte:Va-r3s-n	biti
+britansko	mte:Agpnsn	britanski
+glavno	mte:Agpnsn	glaven
+mesto	mte:Ncnsa	mesto
+pustilo	mte:Vmep-sn	pustiti
+za	mte:Si	za
+seboj	mte:Px---i	se
+tako	mte:Rgp	tako
+Tokio	mte:Npmsn	Tokia
+kot	mte:Cs	kot
+New	mte:Npmsn	New
+York	mte:Npmsn	York
+in	mte:Cc	in
+Pariz	mte:Npmsn	Pariz
+.	mte:Z	.
+Tokio	mte:Npmsn	Tokia
+je	mte:Va-r3s-n	biti
+zasedel	mte:Vmep-sm	zasesti
+drugo	mte:Mlpnsa	drug
+mesto	mte:Ncnsa	mesto
+lestvice	mte:Ncfsg	lestvica
+,	mte:Z	,
+pa	mte:Cc	pa
+čeprav	mte:Cs	čeprav
+ima	mte:Vmpr3s-n	imeti
+več	mte:Rgc	več
+prebivalcev	mte:Ncmpg	prebivalec
+kot	mte:Cs	kot
+London	mte:Npmsn	London
+.	mte:Z	.
+Prihodki	mte:Ncmpn	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+neživilskega	mte:Agpnsg	neživilski
+blaga	mte:Ncnsg	blago
+v	mte:Sl	v
+japonskem	mte:Agpnsl	japonski
+glavnem	mte:Agpnsl	glaven
+mestu	mte:Ncnsl	mesto
+Tokiu	mte:Npmsl	Tokio
+so	mte:Va-r3p-n	biti
+lani	mte:Rgp	lani
+znašali	mte:Vmpp-pm	znašati
+61,4	mte:Mdc	61,4
+milijarde	mte:Ncfsg	milijarda
+funtov	mte:Ncmpg	funt
+72,9	mte:Mdc	72,9
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Na	mte:Sl	na
+tretjem	mte:Mlonsl	tretji
+mestu	mte:Ncnsl	mesto
+sledi	mte:Vmpr3s	slediti
+ameriški	mte:Agpmsay	ameriški
+New	mte:Npmsn	New
+York	mte:Npmsan	York
+s	mte:Si	z
+47	mte:Mdc	47
+milijardami	mte:Ncfpi	milijarda
+funtov	mte:Ncmpg	funt
+55,8	mte:Mdc	55,8
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+v	mte:Sl	v
+trgovini	mte:Ncfsl	trgovina
+na	mte:Sa	na
+drobno	mte:Agpfsa	drobno
+,	mte:Z	,
+na	mte:Sl	na
+četrtem	mte:Mlonsl	četrti
+pa	mte:Cc	pa
+francoska	mte:Agpfsn	francoski
+prestolnica	mte:Ncfsn	prestolnica
+Pariz	mte:Npmsn	Pariz
+s	mte:Si	z
+46,6	mte:Mdc	46,6
+milijarde	mte:Ncfsg	milijarda
+funtov	mte:Ncmpg	funt
+55,3	mte:Mdc	55,3
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Raziskavo	mte:Ncfsa	raziskava
+je	mte:Va-r3s-n	biti
+naredila	mte:Vmep-sf	narediti
+spletna	mte:Agpfsn	spleten
+stran	mte:Ncfsn	stran
+za	mte:Sa	za
+primerjavo	mte:Ncfsa	primerjava
+cen	mte:Ncfpg	cena
+Kelkoo	mte:Npmsn	Kelkoo
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+primerjali	mte:Vmpp-pm	primerjati
+22	mte:Mdc	22
+največjih	mte:Agsnpg	velik
+nakupovalnih	mte:Agpnpg	nakupovalen
+središč	mte:Ncnpg	središče
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+Do	mte:Sg	do
+desetega	mte:Mlonsg	deseti
+mesta	mte:Ncnsg	mesto
+sledijo	mte:Vmpr3p	slediti
+Los	mte:Npmsn	Los
+Angeles	mte:Npmsn	Angeles
+,	mte:Z	,
+Hongkong	mte:Npmsn	Hongkong
+,	mte:Z	,
+Singapur	mte:Npmsn	Singapur
+,	mte:Z	,
+Dubaj	mte:Npmsn	Dubaj
+,	mte:Z	,
+Sydney	mte:Npmsn	Sydney
+in	mte:Cc	in
+Milano	mte:Npmsn	Milano
+.	mte:Z	.
+Marketinški	mte:Agpmsny	marketinški
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Kelkoo	mte:Npmsn	Kelkoo
+Chris	mte:Npmsn	Chris
+Simpson	mte:Npmsn	Simpson
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ključ	mte:Ncmsan	ključ
+do	mte:Sg	do
+uspeha	mte:Ncmsg	uspeh
+Londona	mte:Npmsg	London
+v	mte:Sl	v
+kakovosti	mte:Ncfsl	kakovost
+in	mte:Cc	in
+številu	mte:Ncnsl	število
+trgovin	mte:Ncfpg	trgovina
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+prihodki	mte:Ncmpi	prihodek
+od	mte:Sg	od
+ogromne	mte:Agpfsg	ogromen
+količine	mte:Ncfsg	količina
+turistov	mte:Ncmpg	turist
+,	mte:Z	,
+ki	mte:Cs	ki
+vsako	mte:Pg-nsa	vsak
+leto	mte:Ncnsa	leto
+obiščejo	mte:Vmer3p	obiškati
+britansko	mte:Agpfsa	britanski
+prestolnico	mte:Ncfsa	prestolnica

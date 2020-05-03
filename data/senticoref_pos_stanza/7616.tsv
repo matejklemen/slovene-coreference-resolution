@@ -1,469 +1,502 @@
-token	tag
-Kovačič	Npmsn
-odhaja	Vmpr3s
-iz	Sg
-nadzornega	Agpmsg
-sveta	Ncmsg
-Mercatorja	Npmsg
-Minister	Ncmsn
-Židan	Npmsn
-pričakuje	Vmpr3s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-prodajni	Agpmpn
-postopki	Ncmpn
-Mercatorja	Npmsg
-začasno	Rgp
-zadržani	Appmpn
-,	Z
-dokler	Cs
-ne	Q
-bodo	Va-f3p-n
-ugotovljena	Appnpn
-vsa	Pg-npn
-dejstva	Ncnpa
-glede	Sg
-prodaje	Ncfsg
-.	Z
-Minister	Ncmsn
-Križanič	Npmsn
-pa	Cc
-izpostavlja	Vmpr3s
-priporočila	Ncnpa
-AUKN	Npfsg
--	Z
-a	Cc
-.	Z
-Zgodba	Ncfsn
-z	Si
-Mercatorjem	Npmsi
-ne	Q
-sme	Vmpr3s
-biti	Va-n
-končana	Appfsn
-,	Z
-saj	Cc
-je	Va-r3s-n
-zdaj	Rgp
-čas	Ncmsn
-,	Z
-da	Cs
-se	Px------y
-zadeve	Ncfpn
-raziščejo	Vmer3p
-do	Sg
-konca	Ncmsg
-,	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-Dejan	Npmsn
-Židan	Npmsn
-,	Z
-minister	Ncmsn
-za	Sa
-kmetijstvo	Ncnsa
-,	Z
-ki	Cs
-opravlja	Vmpr3s
-tekoče	Appmpa
-posle	Ncmpa
-.	Z
-Po	Sl
-pisanju	Ncnsl
-Dnevnika	Ncmsg
-naj	Q
-bi	Va-c
-namreč	Cc
-policija	Ncfsn
-in	Cc
-protikorupcijska	Agpfsn
-komisija	Ncfsn
-vodili	Vmpp-pf
-postopke	Ncmpa
-zaradi	Sg
-sumov	Ncmpg
-korupcije	Ncfsg
-v	Sl
-zvezi	Ncfsl
-s	Si
-prodajo	Ncfsi
-Mercatorja	Npmsg
-.	Z
-Zato	Cc
-Židan	Npmsn
-verjame	Vmbr3s
-,	Z
-da	Cs
-smo	Va-r1p-n
-dovolj	Rgp
-racionalna	Agpfsn
-država	Ncfsn
-,	Z
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-te	Pd-fpn
-stvari	Ncfpn
-raziskale	Vmep-pf
-.	Z
-Ob	Sl
-tem	Pd-nsl
-pa	Cc
-se	Px------y
-sprašuje	Vmpr3s
-,	Z
-ali	Rgp
-je	Va-r3s-n
-potencialni	Agpmsny
-Mercatorjev	Aspmsnn
-kupec	Ncmsn
-v	Sa
-prepričevanje	Ncnsa
-slovenske	Agpfsg
-javnosti	Ncfsg
-investiral	Vmbp-sm
-tudi	Q
-denar	Ncmsan
-ter	Cc
-kje	Rgp
-je	Va-r3s-n
-ta	Pd-msn
-denar	Ncmsn
-končal	Vmep-sm
-,	Z
-če	Cs
-je	Va-r3s-n
-do	Sg
-tega	Pd-nsg
-res	Rgp
-prišlo	Vmep-sn
-.	Z
-Sam	Agpmsnn
-je	Va-r3s-n
-že	Q
-v	Sa
-ponedeljek	Ncmsan
-pozval	Vmep-sm
-protikorupcijsko	Agpfsa
-komisijo	Ncfsa
-,	Z
-naj	Cs
-preveri	Vmer3s
-postopek	Ncmsan
-prodaje	Ncfsg
-,	Z
-sindikat	Ncmsn
-trgovine	Ncfsg
-pri	Sl
-Zvezi	Ncfsl
-svobodnih	Agpmpg
-sindikatov	Ncmpg
-Slovenije	Npfsg
-pa	Cc
-je	Va-r3s-n
-opozoril	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-prodaja	Ncfsn
-odvija	Vmpr3s
-prek	Sg
-prijateljskih	Agpfpg
-vezi	Ncfpg
-,	Z
-dogovorjenih	Appmpg
-na	Sl
-eksotičnih	Agpnpl
-potovanjih	Ncnpl
-.	Z
-Sovražen	Agpmsnn
-prevzem	Ncmsn
-bi	Va-c
-imel	Vmpp-sm
-velike	Agpfpa
-posledice	Ncfpa
-Minister	Ncmsn
-za	Sa
-finance	Ncfpa
-,	Z
-ki	Cs
-opravlja	Vmpr3s
-tekoče	Appmpa
-posle	Ncmpa
-,	Z
-Franc	Npmsn
-Križanič	Npmsn
-,	Z
-pa	Cc
-pričakuje	Vmpr3s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-prodajalci	Ncmpn
-sledili	Vmpp-pm
-priporočilom	Ncnpd
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-dala	Vmep-sf
-Agencija	Ncfsn
-za	Sa
-upravljanje	Ncnsa
-kapitalskih	Agpfpg
-naložb	Ncfpg
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-izrazila	Vmep-sf
-dvom	Ncmsan
-,	Z
-da	Cs
-prodaja	Ncfsn
-res	Rgp
-poteka	Vmpr3s
-v	Sa
-korist	Ncfsa
-bank	Ncfpg
-.	Z
-Križanič	Npmsn
-tudi	Q
-poudarja	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-sovražen	Appmsnn
-prevzem	Ncmsn
-imel	Vmpp-sm
-velike	Agpfpa
-negativne	Agpfpa
-posledice	Ncfpa
-na	Sa
-slovensko	Agpnsa
-kmetijstvo	Ncnsa
-,	Z
-slovensko	Agpfsa
-živilsko	Agpnsa
--	Z
-predelovalno	Agpfsa
-industrijo	Ncfsa
-,	Z
-bančni	Agpmsay
-trg	Ncmsan
-,	Z
-bruto	Agpmsay
-domači	Agpmsay
-proizvod	Ncmsan
-,	Z
-trg	Ncmsan
-dela	Ncnsg
-ter	Cc
-posledično	Rgp
-na	Sa
-javnofinančni	Agpmsay
-primanjkljaj	Ncmsan
-.	Z
-Jašovič	Npmsn
-odhaja	Vmpr3s
-z	Sg
-vrha	Ncmsg
-NLB	Npfsg
--	Z
-ja	Q
-Pri	Sl
-prodaji	Ncfsl
-Mercatorja	Npmsg
-se	Px------y
-tudi	Q
-sicer	Q
-močno	Rgp
-zapleta	Vmer3s
-.	Z
-Potem	Rgp
-ko	Cs
-so	Va-r3p-n
-nadzorniki	Ncmpn
-NKBM	Npfsg
--	Z
-ja	Q
-v	Sa
-torek	Ncmsan
-podprli	Vmep-pm
-prodajo	Ncfsa
-približno	Rgp
-petodstotnega	Agpmsg
-deleža	Ncmsg
-trgovca	Ncmsg
-hrvaškemu	Agpmsd
-Agrokorju	Npmsd
-,	Z
-so	Va-r3p-n
-nadzorniki	Ncmpn
-Pivovarne	Ncfsg
-Laško	Npnsn
-in	Cc
-Nove	Agpfsg
-Ljubljanske	Agpfsg
-banke	Ncfsg
-odločanje	Ncnsa
-o	Sl
-soglasju	Ncnsl
-k	Sd
-prodaji	Ncfsd
-preložili	Vmep-pm
-na	Sa
-petek	Ncmsan
-oziroma	Cc
-na	Sa
-prihodnje	Agpnsa
-obdobje	Ncnsa
-.	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-največje	Agsfsg
-slovenske	Agpfsg
-banke	Ncfsg
-Božo	Npmsn
-Jašovič	Npmsn
-je	Va-r3s-n
-nato	Rgp
-nepreklicno	Rgp
-odstopil	Vmep-sm
-s	Sg
-svojega	Px-nsg
-mesta	Ncnsg
-.	Z
-Kovačič	Npmsn
-ni	Va-r3s-y
-več	Q
-nadzornik	Ncmsn
-Mercatorja	Npmsg
-S	Sg
-položaja	Ncmsg
-člana	Ncmsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-Mercatorja	Npmsg
-pa	Cc
-je	Va-r3s-n
-odstopil	Vmep-sm
-Matjaž	Npmsn
-Kovačič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-nadzornem	Agpmsl
-svetu	Ncmsl
-Mercatorja	Npmsg
-zastopal	Vmpp-sm
-Novo	Agpfsa
-kreditno	Agpfsa
-banko	Ncfsa
-Maribor	Npmsn
-.	Z
-Ker	Cs
-se	Px------y
-umika	Vmpr3s
-z	Sg
-vrha	Ncmsg
-banke	Ncfsg
-,	Z
-je	Va-r3s-n
-odstopil	Vmep-sm
-tudi	Q
-kot	Cs
-nadzornik	Ncmsn
-.	Z
-Nadzorniki	Ncmpn
-Mercatorja	Npmsg
-so	Va-r3p-n
-sicer	Q
-v	Sa
-torek	Ncmsan
-obravnavali	Vmpp-pm
-poslovanje	Ncnsa
-družbe	Ncfsg
-v	Sl
-letu	Ncnsl
-2012	Mdc
-,	Z
-na	Sa
-dnevni	Agpmsay
-red	Ncmsan
-pa	Cc
-naj	Q
-bi	Va-c
-prišla	Vmep-sf
-tudi	Q
-napovedana	Appfsn
-prodaja	Ncfsn
-družbe	Ncfsg
-.	Z
-Kaj	Pq-nsa
-naj	Q
-bi	Va-c
-ugotovili	Vmep-pm
-,	Z
-še	Q
-ni	Va-r3s-y
-znano	Appnsn
-.	Z
-Medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-zasedali	Vmpp-pm
-nadzorniki	Ncmpn
-,	Z
-pa	Cc
-je	Va-r3s-n
-družba	Ncfsn
-Eatons	Npmsn
-Capital	Npmsn
-s	Si
-sedežem	Ncmsi
-v	Sl
-Las	Npmsl
-Vegasu	Npmsl
-v	Sl
-ZDA	Npfpl
-objavila	Vmep-sf
-prevzemno	Agpfsa
-namero	Ncfsa
-za	Sa
-delnice	Ncfpa
-Pivovarne	Ncfsg
-Laško	Npnsn
-.	Z
-To	Pd-nsn
-bi	Va-c
-lahko	Rgp
-še	Q
-podaljšalo	Vmep-sn
-postopek	Ncmsan
-prodaje	Ncfsg
-Mercatorja	Npmsg
-.	Z
-Predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-pivovarne	Ncfsg
-Vladimir	Npmsn
-Malenković	Npmsn
-se	Px------y
-je	Va-r3s-n
-po	Sl
-torkovi	Aspfsl
-seji	Ncfsl
-nadzornega	Agpmsg
-sveta	Ncmsg
-vprašal	Vmep-sm
-,	Z
-ali	Rgp
-sploh	Q
-gre	Vmbr3s
-za	Sa
-realno	Agpfsa
-ponudbo	Ncfsa
-.	Z
+token	tag	lemma
+Kovačič	mte:Npmsn	Kovačič
+odhaja	mte:Vmpr3s	odhajati
+iz	mte:Sg	iz
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Mercatorja	mte:Npmsg	Mercator
+Minister	mte:Ncmsn	minister
+Židan	mte:Npmsn	Židan
+pričakuje	mte:Vmpr3s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+prodajni	mte:Agpmpn	prodajen
+postopki	mte:Ncmpn	postopek
+Mercatorja	mte:Npmsg	Mercator
+začasno	mte:Rgp	začasno
+zadržani	mte:Appmpn	zadržan
+,	mte:Z	,
+dokler	mte:Cs	dokler
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+ugotovljena	mte:Appnpn	ugotovljen
+vsa	mte:Pg-npn	ves
+dejstva	mte:Ncnpa	dejstvo
+glede	mte:Sg	glede
+prodaje	mte:Ncfsg	prodaja
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+Križanič	mte:Npmsn	Križanič
+pa	mte:Cc	pa
+izpostavlja	mte:Vmpr3s	izpostavljati
+priporočila	mte:Ncnpa	priporočilo
+AUKN	mte:Npfsg	AUKN
+-	mte:Z	-
+a	mte:Cc	a
+.	mte:Z	.
+Zgodba	mte:Ncfsn	zgodba
+z	mte:Si	z
+Mercatorjem	mte:Npmsi	Mercator
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+biti	mte:Va-n	biti
+končana	mte:Appfsn	končan
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+čas	mte:Ncmsn	čas
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+zadeve	mte:Ncfpn	zadeva
+raziščejo	mte:Vmer3p	raziščati
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+Dejan	mte:Npmsn	Dejan
+Židan	mte:Npmsn	Židan
+,	mte:Z	,
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+kmetijstvo	mte:Ncnsa	kmetijstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+opravlja	mte:Vmpr3s	opravljati
+tekoče	mte:Appmpa	tekoče
+posle	mte:Ncmpa	posel
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Dnevnika	mte:Ncmsg	dnevnik
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+policija	mte:Ncfsn	policija
+in	mte:Cc	in
+protikorupcijska	mte:Agpfsn	protikorupcijski
+komisija	mte:Ncfsn	komisija
+vodili	mte:Vmpp-pf	voditi
+postopke	mte:Ncmpa	postopek
+zaradi	mte:Sg	zaradi
+sumov	mte:Ncmpg	sum
+korupcije	mte:Ncfsg	korupcija
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Zato	mte:Cc	zato
+Židan	mte:Npmsn	Židan
+verjame	mte:Vmbr3s	verjeti
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+dovolj	mte:Rgp	dovolj
+racionalna	mte:Agpfsn	racionalen
+država	mte:Ncfsn	država
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+te	mte:Pd-fpn	ta
+stvari	mte:Ncfpn	stvar
+raziskale	mte:Vmep-pf	raziskati
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+se	mte:Px------y	se
+sprašuje	mte:Vmpr3s	spraševati
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+potencialni	mte:Agpmsny	potencialen
+Mercatorjev	mte:Aspmsnn	Mercatorjev
+kupec	mte:Ncmsn	kupec
+v	mte:Sa	v
+prepričevanje	mte:Ncnsa	prepričevanje
+slovenske	mte:Agpfsg	slovenski
+javnosti	mte:Ncfsg	javnost
+investiral	mte:Vmbp-sm	investirati
+tudi	mte:Q	tudi
+denar	mte:Ncmsan	denar
+ter	mte:Cc	ter
+kje	mte:Rgp	kje
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+denar	mte:Ncmsn	denar
+končal	mte:Vmep-sm	končati
+,	mte:Z	,
+če	mte:Cs	če
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+tega	mte:Pd-nsg	ta
+res	mte:Rgp	res
+prišlo	mte:Vmep-sn	priti
+.	mte:Z	.
+Sam	mte:Agpmsnn	sam
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+pozval	mte:Vmep-sm	pozvati
+protikorupcijsko	mte:Agpfsa	protikorupcijski
+komisijo	mte:Ncfsa	komisija
+,	mte:Z	,
+naj	mte:Cs	naj
+preveri	mte:Vmer3s	preveriti
+postopek	mte:Ncmsan	postopek
+prodaje	mte:Ncfsg	prodaja
+,	mte:Z	,
+sindikat	mte:Ncmsn	sindikat
+trgovine	mte:Ncfsg	trgovina
+pri	mte:Sl	pri
+Zvezi	mte:Ncfsl	zveza
+svobodnih	mte:Agpmpg	svoboden
+sindikatov	mte:Ncmpg	sindikat
+Slovenije	mte:Npfsg	Slovenija
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+prodaja	mte:Ncfsn	prodaja
+odvija	mte:Vmpr3s	odvijati
+prek	mte:Sg	prek
+prijateljskih	mte:Agpfpg	prijateljski
+vezi	mte:Ncfpg	vez
+,	mte:Z	,
+dogovorjenih	mte:Appmpg	dogovorjen
+na	mte:Sl	na
+eksotičnih	mte:Agpnpl	eksotičen
+potovanjih	mte:Ncnpl	potovanje
+.	mte:Z	.
+Sovražen	mte:Agpmsnn	sovražen
+prevzem	mte:Ncmsn	prevzem
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+velike	mte:Agpfpa	velik
+posledice	mte:Ncfpa	posledica
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+,	mte:Z	,
+ki	mte:Cs	ki
+opravlja	mte:Vmpr3s	opravljati
+tekoče	mte:Appmpa	tekoče
+posle	mte:Ncmpa	posel
+,	mte:Z	,
+Franc	mte:Npmsn	Franc
+Križanič	mte:Npmsn	Križanič
+,	mte:Z	,
+pa	mte:Cc	pa
+pričakuje	mte:Vmpr3s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+prodajalci	mte:Ncmpn	prodajalec
+sledili	mte:Vmpp-pm	slediti
+priporočilom	mte:Ncnpd	priporočilo
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+dala	mte:Vmep-sf	dati
+Agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+izrazila	mte:Vmep-sf	izraziti
+dvom	mte:Ncmsan	dvom
+,	mte:Z	,
+da	mte:Cs	da
+prodaja	mte:Ncfsn	prodaja
+res	mte:Rgp	res
+poteka	mte:Vmpr3s	potekati
+v	mte:Sa	v
+korist	mte:Ncfsa	korist
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+Križanič	mte:Npmsn	Križanič
+tudi	mte:Q	tudi
+poudarja	mte:Vmpr3s	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+sovražen	mte:Appmsnn	sovražen
+prevzem	mte:Ncmsn	prevzem
+imel	mte:Vmpp-sm	imeti
+velike	mte:Agpfpa	velik
+negativne	mte:Agpfpa	negativen
+posledice	mte:Ncfpa	posledica
+na	mte:Sa	na
+slovensko	mte:Agpnsa	slovenski
+kmetijstvo	mte:Ncnsa	kmetijstvo
+,	mte:Z	,
+slovensko	mte:Agpfsa	slovenski
+živilsko	mte:Agpnsa	živilski
+-	mte:Z	-
+predelovalno	mte:Agpfsa	predelovalen
+industrijo	mte:Ncfsa	industrija
+,	mte:Z	,
+bančni	mte:Agpmsay	bančen
+trg	mte:Ncmsan	trg
+,	mte:Z	,
+bruto	mte:Agpmsay	bruto
+domači	mte:Agpmsay	domač
+proizvod	mte:Ncmsan	proizvod
+,	mte:Z	,
+trg	mte:Ncmsan	trg
+dela	mte:Ncnsg	delo
+ter	mte:Cc	ter
+posledično	mte:Rgp	posledično
+na	mte:Sa	na
+javnofinančni	mte:Agpmsay	javnofinančen
+primanjkljaj	mte:Ncmsan	primanjkljaj
+.	mte:Z	.
+Jašovič	mte:Npmsn	Jašovič
+odhaja	mte:Vmpr3s	odhajati
+z	mte:Sg	z
+vrha	mte:Ncmsg	vrh
+NLB	mte:Npfsg	NLB
+-	mte:Z	-
+ja	mte:Q	ja
+Pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+Mercatorja	mte:Npmsg	Mercator
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+sicer	mte:Q	sicer
+močno	mte:Rgp	močno
+zapleta	mte:Vmer3s	zaplesati
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+nadzorniki	mte:Ncmpn	nadzornik
+NKBM	mte:Npfsg	NKBM
+-	mte:Z	-
+ja	mte:Q	ja
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+podprli	mte:Vmep-pm	podpreti
+prodajo	mte:Ncfsa	prodaja
+približno	mte:Rgp	približno
+petodstotnega	mte:Agpmsg	petodstoten
+deleža	mte:Ncmsg	delež
+trgovca	mte:Ncmsg	trgovec
+hrvaškemu	mte:Agpmsd	hrvaški
+Agrokorju	mte:Npmsd	Agrokor
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+nadzorniki	mte:Ncmpn	nadzornik
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+Nove	mte:Agpfsg	nov
+Ljubljanske	mte:Agpfsg	ljubljanski
+banke	mte:Ncfsg	banka
+odločanje	mte:Ncnsa	odločanje
+o	mte:Sl	o
+soglasju	mte:Ncnsl	soglasje
+k	mte:Sd	k
+prodaji	mte:Ncfsd	prodaja
+preložili	mte:Vmep-pm	preložiti
+na	mte:Sa	na
+petek	mte:Ncmsan	petek
+oziroma	mte:Cc	oziroma
+na	mte:Sa	na
+prihodnje	mte:Agpnsa	prihodnji
+obdobje	mte:Ncnsa	obdobje
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+največje	mte:Agsfsg	velik
+slovenske	mte:Agpfsg	slovenski
+banke	mte:Ncfsg	banka
+Božo	mte:Npmsn	Božo
+Jašovič	mte:Npmsn	Jašovič
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+nepreklicno	mte:Rgp	nepreklicno
+odstopil	mte:Vmep-sm	odstopiti
+s	mte:Sg	z
+svojega	mte:Px-nsg	svoj
+mesta	mte:Ncnsg	mesto
+.	mte:Z	.
+Kovačič	mte:Npmsn	Kovačič
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+nadzornik	mte:Ncmsn	nadzornik
+Mercatorja	mte:Npmsg	Mercator
+S	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+člana	mte:Ncmsg	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Mercatorja	mte:Npmsg	Mercator
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+odstopil	mte:Vmep-sm	odstopiti
+Matjaž	mte:Npmsn	Matjaž
+Kovačič	mte:Npmsn	Kovačič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+nadzornem	mte:Agpmsl	nadzoren
+svetu	mte:Ncmsl	svet
+Mercatorja	mte:Npmsg	Mercator
+zastopal	mte:Vmpp-sm	zastopati
+Novo	mte:Agpfsa	nov
+kreditno	mte:Agpfsa	krediten
+banko	mte:Ncfsa	banka
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+Ker	mte:Cs	ker
+se	mte:Px------y	se
+umika	mte:Vmpr3s	umikati
+z	mte:Sg	z
+vrha	mte:Ncmsg	vrh
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odstopil	mte:Vmep-sm	odstopiti
+tudi	mte:Q	tudi
+kot	mte:Cs	kot
+nadzornik	mte:Ncmsn	nadzornik
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+Mercatorja	mte:Npmsg	Mercator
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+obravnavali	mte:Vmpp-pm	obravnavati
+poslovanje	mte:Ncnsa	poslovanje
+družbe	mte:Ncfsg	družba
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2012	mte:Mdc	2012
+,	mte:Z	,
+na	mte:Sa	na
+dnevni	mte:Agpmsay	dneven
+red	mte:Ncmsan	red
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+prišla	mte:Vmep-sf	priti
+tudi	mte:Q	tudi
+napovedana	mte:Appfsn	napovedan
+prodaja	mte:Ncfsn	prodaja
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Kaj	mte:Pq-nsa	kaj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ugotovili	mte:Vmep-pm	ugotoviti
+,	mte:Z	,
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+zasedali	mte:Vmpp-pm	zasedati
+nadzorniki	mte:Ncmpn	nadzornik
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+Eatons	mte:Npmsn	Eatons
+Capital	mte:Npmsn	Capital
+s	mte:Si	z
+sedežem	mte:Ncmsi	sedež
+v	mte:Sl	v
+Las	mte:Npmsl	las
+Vegasu	mte:Npmsl	Vegas
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+objavila	mte:Vmep-sf	objaviti
+prevzemno	mte:Agpfsa	prevzemen
+namero	mte:Ncfsa	namera
+za	mte:Sa	za
+delnice	mte:Ncfpa	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+še	mte:Q	še
+podaljšalo	mte:Vmep-sn	podaljšati
+postopek	mte:Ncmsan	postopek
+prodaje	mte:Ncfsg	prodaja
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+pivovarne	mte:Ncfsg	pivovarna
+Vladimir	mte:Npmsn	Vladimir
+Malenković	mte:Npmsn	Malenković
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+torkovi	mte:Aspfsl	torkov
+seji	mte:Ncfsl	seja
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+vprašal	mte:Vmep-sm	vprašati
+,	mte:Z	,
+ali	mte:Rgp	ali
+sploh	mte:Q	sploh
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+realno	mte:Agpfsa	realen
+ponudbo	mte:Ncfsa	ponudba
+.	mte:Z	.
+O	mte:Sl	o
+podaji	mte:Ncfsl	podaja
+soglasja	mte:Ncnsg	soglasje
+k	mte:Sd	k
+prodaji	mte:Ncfsd	prodaja
+Mercatorja	mte:Npmsg	Mercator
+bodo	mte:Va-f3p-n	biti
+nadzorniki	mte:Ncmpn	nadzornik
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+odločali	mte:Vmpp-pm	odločati
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+,	mte:Z	,
+v	mte:Sl	v
+vmesnem	mte:Agpmsl	vmesen
+času	mte:Ncmsl	čas
+pa	mte:Cc	pa
+pričakujejo	mte:Vmpr3p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+uprava	mte:Ncfsn	uprava
+družbe	mte:Ncfsg	družba
+skušala	mte:Vmpp-sf	skušati
+izboljšati	mte:Vmen	izboljšati
+svojo	mte:Px-fsa	svoj
+pogajalsko	mte:Agpfsa	pogajalski
+pozicijo	mte:Ncfsa	pozicija
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+prodaje	mte:Ncfsg	prodaja
+Mercatorja	mte:Npmsg	Mercator

@@ -1,279 +1,294 @@
-token	tag
-Na	Sl
-tekmovanju	Ncnsl
-študentskih	Agpfpg
-ekip	Ncfpg
-v	Sl
-sintezni	Agpfsl
-biologiji	Ncfsl
-so	Va-r3p-n
-študentje	Ncmpn
-ljubljanske	Agpfsg
-fakultete	Ncfsg
-prejeli	Vmep-pm
-nagrado	Ncfsa
-v	Sl
-kategoriji	Ncfsl
-medicina	Ncfsn
-in	Cc
-zdravje	Ncnsa
-ter	Cc
-tako	Rgp
-med	Si
-drugim	Mlpnsi
-premagali	Vmep-pm
-študente	Ncmpa
-iz	Sg
-Berkeleya	Npmsg
-,	Z
-Princetona	Npmsg
-in	Cc
-Imperial	Npmsg
-Collega	Npmsg
-Predstavniki	Ncmpn
-ljubljanske	Agpfsg
-univerze	Ncfsg
-so	Va-r3p-n
-v	Sl
-sodelovanju	Ncnsl
-s	Si
-Kemijskim	Agpmsi
-inštitutom	Ncmsi
-po	Sl
-lanski	Agpfsl
-glavni	Agpfsl
-nagradi	Ncfsl
-na	Sl
-tekmovanju	Ncnsl
-študentskih	Agpfpg
-ekip	Ncfpg
-v	Sl
-sintezni	Agpfsl
-biologiji	Ncfsl
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-v	Sa
-nedeljo	Ncfsa
-zaključilo	Vmep-sn
-na	Sl
-univerzi	Ncfsl
-MIT	Npmsn
-v	Sl
-ZDA	Npfpl
-,	Z
-letos	Rgp
-zopet	Rgp
-prejeli	Vmep-pm
-eno	Mlpfsa
-izmed	Sg
-nagrad	Ncfpg
-in	Cc
-sicer	Q
-v	Sl
-kategoriji	Ncfsl
-medicina	Ncfsn
-in	Cc
-zdravje	Ncnsa
-,	Z
-na	Sl
-blogu	Ncmsl
-novebiologije.blogspot.com	Npfsn
-piše	Vmpr3s
-mentor	Ncmsn
-slovenske	Agpfsg
-ekipe	Ncfsg
-Marko	Npmsn
-Dolinar	Npmsn
-.	Z
-Študenti	Ncmpn
-biokemije	Ncfsg
-,	Z
-mikrobiologije	Ncfsg
-in	Cc
-biotehnologije	Ncfsg
-Andrej	Npmsn
-Ondračka	Npmsn
-,	Z
-Peter	Npmsn
-Cimermančič	Npmsn
-,	Z
-Rok	Ncmsn
-Gaber	Npmsn
-,	Z
-Saša	Npmsn
-Jereb	Npmsn
-,	Z
-Katja	Npfsn
-Kolar	Npfsn
-,	Z
-Anja	Npfsn
-Korenčič	Npfsn
-in	Cc
-Marko	Npmsn
-Bitenc	Npmsn
-so	Va-r3p-n
-pod	Si
-mentorstvom	Ncnsi
-Marka	Npmsg
-Dolinarja	Npmsg
-in	Cc
-Romana	Npmsg
-Jerale	Npmsg
-so	Va-r3p-n
-v	Sl
-svoji	Px-fsl
-konkurenci	Ncfsl
-tako	Rgp
-premagali	Vmep-pm
-ekipe	Ncfpa
-priznanih	Appfpg
-univerz	Ncfpg
-,	Z
-kot	Cs
-so	Va-r3p-n
-Berkeley	Npmsn
-,	Z
-Princeton	Npmsn
-in	Cc
-Imperial	Npmsn
-College	Npmsn
-.	Z
-Slovenska	Agpfsn
-ekipa	Ncfsn
-je	Va-r3s-n
-odlični	Agpmsay
-uspeh	Ncmsan
-dosegla	Vmep-sf
-z	Si
-raziskovalnim	Agpmsi
-projektom	Ncmsi
-,	Z
-ki	Cs
-prinaša	Vmpr3s
-novo	Agpfsa
-metodo	Ncfsa
-pri	Sl
-zdravljenju	Ncnsl
-okužbe	Ncfsg
-z	Si
-virusom	Ncmsi
-HIV	Npmsn
-.	Z
-Vir	Ncmsn
-:	Z
-student	Ncmsn
--	Z
-info.net	Mdc
-Ljubljanska	Agpfsn
-univerza	Ncfsn
-med	Si
-šestimi	Mlc-pi
-finalisti	Ncmpi
-Skupni	Agpmsny
-zmagovalec	Ncmsn
-je	Va-r3s-n
-postala	Vmep-sf
-ekipa	Ncfsn
-študentov	Ncmpg
-iz	Sg
-Pekinške	Agpfsg
-univerze	Ncfsg
-,	Z
-drugega	Mlpnsg
-in	Cc
-tretjega	Mlonsg
-mesta	Ncnsg
-pa	Cc
-letos	Rgp
-niso	Va-r3p-y
-podelili	Vmep-pm
-.	Z
-V	Sl
-igri	Ncfsl
-za	Sa
-skupno	Agpfsa
-zmago	Ncfsa
-so	Va-r3p-n
-bili	Va-p-pm
-tudi	Q
-študenti	Ncmpn
-slovenske	Agpfsg
-ekipe	Ncfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-uvrstili	Vmep-pm
-med	Sa
-finalnih	Agpmpg
-šest	Mlc-pa
-tekmovalcev	Ncmpg
-.	Z
-V	Sl
-kategoriji	Ncfsl
-energije	Ncfsg
-je	Va-r3s-n
-zmagala	Vmep-sf
-univerza	Ncfsn
-Alberta	Npmsg
-,	Z
-Glasgow	Npmsn
-je	Va-r3s-n
-predstavil	Vmep-sm
-najboljši	Agsmsay
-projekt	Ncmsan
-na	Sl
-področju	Ncnsl
-okolja	Ncnsg
-in	Cc
-senzorjev	Ncmpg
-,	Z
-pri	Sl
-temeljnih	Agpfpl
-raziskavah	Ncfpl
-so	Va-r3p-n
-najboljšo	Agsfsa
-rešitev	Ncfsa
-prikazali	Vmep-pm
-študenti	Ncmpn
-iz	Sg
-pariške	Agpfsg
-univerze	Ncfsg
-,	Z
-skupni	Agpmpn
-zmagovalci	Ncmpn
-iz	Sg
-Pekinga	Npmsg
-pa	Cc
-so	Va-r3p-n
-prejeli	Vmep-pm
-tudi	Q
-nagrado	Ncfsa
-na	Sl
-področju	Ncnsl
-procesiranja	Ncnsg
-informacij	Ncfpg
-.	Z
-Letos	Rgp
-se	Px------y
-je	Va-r3s-n
-na	Sa
-mednarodno	Agpnsa
-tekmovanje	Ncnsa
-iz	Sg
-sintezne	Agpfsg
-biologije	Ncfsg
-prijavilo	Vmep-sn
-57	Mdc
-študentskih	Agpfpg
-ekip	Ncfpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-20	Mdc
-več	Rgc
-kot	Cs
-lani	Rgp
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+tekmovanju	mte:Ncnsl	tekmovanje
+študentskih	mte:Agpfpg	študentski
+ekip	mte:Ncfpg	ekipa
+v	mte:Sl	v
+sintezni	mte:Agpfsl	sintezen
+biologiji	mte:Ncfsl	biologija
+so	mte:Va-r3p-n	biti
+študentje	mte:Ncmpn	študent
+ljubljanske	mte:Agpfsg	ljubljanski
+fakultete	mte:Ncfsg	fakulteta
+prejeli	mte:Vmep-pm	prejeti
+nagrado	mte:Ncfsa	nagrada
+v	mte:Sl	v
+kategoriji	mte:Ncfsl	kategorija
+medicina	mte:Ncfsn	medicina
+in	mte:Cc	in
+zdravje	mte:Ncnsa	zdravje
+ter	mte:Cc	ter
+tako	mte:Rgp	tako
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+premagali	mte:Vmep-pm	premagati
+študente	mte:Ncmpa	študent
+iz	mte:Sg	iz
+Berkeleya	mte:Npmsg	Berkeley
+,	mte:Z	,
+Princetona	mte:Npmsg	Princeton
+in	mte:Cc	in
+Imperial	mte:Npmsg	Imperial
+Collega	mte:Npmsg	Colleg
+Predstavniki	mte:Ncmpn	predstavnik
+ljubljanske	mte:Agpfsg	ljubljanski
+univerze	mte:Ncfsg	univerza
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sodelovanju	mte:Ncnsl	sodelovanje
+s	mte:Si	z
+Kemijskim	mte:Agpmsi	kemijski
+inštitutom	mte:Ncmsi	inštitut
+po	mte:Sl	po
+lanski	mte:Agpfsl	lanski
+glavni	mte:Agpfsl	glaven
+nagradi	mte:Ncfsl	nagraditi
+na	mte:Sl	na
+tekmovanju	mte:Ncnsl	tekmovanje
+študentskih	mte:Agpfpg	študentski
+ekip	mte:Ncfpg	ekipa
+v	mte:Sl	v
+sintezni	mte:Agpfsl	sintezen
+biologiji	mte:Ncfsl	biologija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+zaključilo	mte:Vmep-sn	zaključiti
+na	mte:Sl	na
+univerzi	mte:Ncfsl	univerza
+MIT	mte:Npmsn	MIT
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+letos	mte:Rgp	letos
+zopet	mte:Rgp	zopet
+prejeli	mte:Vmep-pm	prejeti
+eno	mte:Mlpfsa	en
+izmed	mte:Sg	izmed
+nagrad	mte:Ncfpg	nagrada
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+kategoriji	mte:Ncfsl	kategorija
+medicina	mte:Ncfsn	medicina
+in	mte:Cc	in
+zdravje	mte:Ncnsa	zdravje
+,	mte:Z	,
+na	mte:Sl	na
+blogu	mte:Ncmsl	blog
+novebiologije.blogspot.com	mte:Npfsn	novebiologijekblogiot.co
+piše	mte:Vmpr3s	pisati
+mentor	mte:Ncmsn	mentor
+slovenske	mte:Agpfsg	slovenski
+ekipe	mte:Ncfsg	ekipa
+Marko	mte:Npmsn	Marko
+Dolinar	mte:Npmsn	Dolinar
+.	mte:Z	.
+Študenti	mte:Ncmpn	študent
+biokemije	mte:Ncfsg	biokemija
+,	mte:Z	,
+mikrobiologije	mte:Ncfsg	mikrobiologija
+in	mte:Cc	in
+biotehnologije	mte:Ncfsg	biotehnologija
+Andrej	mte:Npmsn	Andrej
+Ondračka	mte:Npmsn	Ondračk
+,	mte:Z	,
+Peter	mte:Npmsn	Peter
+Cimermančič	mte:Npmsn	Cimermančič
+,	mte:Z	,
+Rok	mte:Ncmsn	rok
+Gaber	mte:Npmsn	Gaber
+,	mte:Z	,
+Saša	mte:Npmsn	Sašo
+Jereb	mte:Npmsn	Jereb
+,	mte:Z	,
+Katja	mte:Npfsn	Katja
+Kolar	mte:Npfsn	Kolar
+,	mte:Z	,
+Anja	mte:Npfsn	Anja
+Korenčič	mte:Npfsn	Korenčič
+in	mte:Cc	in
+Marko	mte:Npmsn	Marko
+Bitenc	mte:Npmsn	Bitenc
+so	mte:Va-r3p-n	biti
+pod	mte:Si	pod
+mentorstvom	mte:Ncnsi	mentorstvo
+Marka	mte:Npmsg	Marko
+Dolinarja	mte:Npmsg	Dolinar
+in	mte:Cc	in
+Romana	mte:Npmsg	Roman
+Jerale	mte:Npmsg	Jerale
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+svoji	mte:Px-fsl	svoj
+konkurenci	mte:Ncfsl	konkurenca
+tako	mte:Rgp	tako
+premagali	mte:Vmep-pm	premagati
+ekipe	mte:Ncfpa	ekipa
+priznanih	mte:Appfpg	priznan
+univerz	mte:Ncfpg	univerza
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+Berkeley	mte:Npmsn	Berkeley
+,	mte:Z	,
+Princeton	mte:Npmsn	Princeton
+in	mte:Cc	in
+Imperial	mte:Npmsn	Imperial
+College	mte:Npmsn	College
+.	mte:Z	.
+Slovenska	mte:Agpfsn	slovenski
+ekipa	mte:Ncfsn	ekipa
+je	mte:Va-r3s-n	biti
+odlični	mte:Agpmsay	odličen
+uspeh	mte:Ncmsan	uspeh
+dosegla	mte:Vmep-sf	doseči
+z	mte:Si	z
+raziskovalnim	mte:Agpmsi	raziskovalen
+projektom	mte:Ncmsi	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+prinaša	mte:Vmpr3s	prinašati
+novo	mte:Agpfsa	nov
+metodo	mte:Ncfsa	metoda
+pri	mte:Sl	pri
+zdravljenju	mte:Ncnsl	zdravljenje
+okužbe	mte:Ncfsg	okužba
+z	mte:Si	z
+virusom	mte:Ncmsi	virus
+HIV	mte:Npmsn	HIV
+.	mte:Z	.
+Vir	mte:Ncmsn	vir
+:	mte:Z	:
+student	mte:Ncmsn	student
+-	mte:Z	-
+info.net	mte:Mdc	info.net
+Ljubljanska	mte:Agpfsn	ljubljanski
+univerza	mte:Ncfsn	univerza
+med	mte:Si	med
+šestimi	mte:Mlc-pi	šest
+finalisti	mte:Ncmpi	finalist
+Skupni	mte:Agpmsny	skupen
+zmagovalec	mte:Ncmsn	zmagovalec
+je	mte:Va-r3s-n	biti
+postala	mte:Vmep-sf	postati
+ekipa	mte:Ncfsn	ekipa
+študentov	mte:Ncmpg	študent
+iz	mte:Sg	iz
+Pekinške	mte:Agpfsg	pekinški
+univerze	mte:Ncfsg	univerza
+,	mte:Z	,
+drugega	mte:Mlpnsg	drug
+in	mte:Cc	in
+tretjega	mte:Mlonsg	tretji
+mesta	mte:Ncnsg	mesto
+pa	mte:Cc	pa
+letos	mte:Rgp	letos
+niso	mte:Va-r3p-y	biti
+podelili	mte:Vmep-pm	podeliti
+.	mte:Z	.
+V	mte:Sl	v
+igri	mte:Ncfsl	igra
+za	mte:Sa	za
+skupno	mte:Agpfsa	skupen
+zmago	mte:Ncfsa	zmaga
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+tudi	mte:Q	tudi
+študenti	mte:Ncmpn	študent
+slovenske	mte:Agpfsg	slovenski
+ekipe	mte:Ncfsg	ekipa
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+uvrstili	mte:Vmep-pm	uvrstiti
+med	mte:Sa	med
+finalnih	mte:Agpmpg	finalen
+šest	mte:Mlc-pa	šest
+tekmovalcev	mte:Ncmpg	tekmovalec
+.	mte:Z	.
+V	mte:Sl	v
+kategoriji	mte:Ncfsl	kategorija
+energije	mte:Ncfsg	energija
+je	mte:Va-r3s-n	biti
+zmagala	mte:Vmep-sf	zmagati
+univerza	mte:Ncfsn	univerza
+Alberta	mte:Npmsg	Alberta
+,	mte:Z	,
+Glasgow	mte:Npmsn	Glasgow
+je	mte:Va-r3s-n	biti
+predstavil	mte:Vmep-sm	predstaviti
+najboljši	mte:Agsmsay	dober
+projekt	mte:Ncmsan	projekt
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+okolja	mte:Ncnsg	okolje
+in	mte:Cc	in
+senzorjev	mte:Ncmpg	senzor
+,	mte:Z	,
+pri	mte:Sl	pri
+temeljnih	mte:Agpfpl	temeljen
+raziskavah	mte:Ncfpl	raziskava
+so	mte:Va-r3p-n	biti
+najboljšo	mte:Agsfsa	dober
+rešitev	mte:Ncfsa	rešitev
+prikazali	mte:Vmep-pm	prikazati
+študenti	mte:Ncmpn	študent
+iz	mte:Sg	iz
+pariške	mte:Agpfsg	pariški
+univerze	mte:Ncfsg	univerza
+,	mte:Z	,
+skupni	mte:Agpmpn	skupen
+zmagovalci	mte:Ncmpn	zmagovalec
+iz	mte:Sg	iz
+Pekinga	mte:Npmsg	Pekinga
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+prejeli	mte:Vmep-pm	prejeti
+tudi	mte:Q	tudi
+nagrado	mte:Ncfsa	nagrada
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+procesiranja	mte:Ncnsg	procesiranje
+informacij	mte:Ncfpg	informacija
+.	mte:Z	.
+Letos	mte:Rgp	letos
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+mednarodno	mte:Agpnsa	mednaroden
+tekmovanje	mte:Ncnsa	tekmovanje
+iz	mte:Sg	iz
+sintezne	mte:Agpfsg	sintezen
+biologije	mte:Ncfsg	biologija
+prijavilo	mte:Vmep-sn	prijaviti
+57	mte:Mdc	57
+študentskih	mte:Agpfpg	študentski
+ekip	mte:Ncfpg	ekipa
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+20	mte:Mdc	20
+več	mte:Rgc	več
+kot	mte:Cs	kot
+lani	mte:Rgp	lani
+.	mte:Z	.
+Izmed	mte:Sg	izmed
+po	mte:Sl	po
+ocenah	mte:Ncfpl	ocena
+10	mte:Mdc	10
+najprestižnejših	mte:Agsfpg	prepriestižen
+svetovnih	mte:Agpfpg	svetoven
+univerz	mte:Ncfpg	univerza
+letos	mte:Rgp	letos
+manjkata	mte:Vmpr3d	manjkati
+le	mte:Q	le
+dve	mte:Mlcfdn	dva
+,	mte:Z	,
+Yale	mte:Npfsn	Yale
+in	mte:Cc	in
+Chicago	mte:Npmsn	Chicago

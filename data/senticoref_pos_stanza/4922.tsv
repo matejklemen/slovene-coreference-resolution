@@ -1,257 +1,294 @@
-token	tag
-Vizumski	Agpmsny
-spor	Ncmsn
-med	Si
-Švico	Npfsi
-in	Cc
-Libijo	Npfsi
-je	Va-r3s-n
-po	Sl
-mnenju	Ncnsl
-zunanjega	Agpmsg
-ministra	Ncmsg
-prizadel	Vmep-sm
-slovensko	Agpnsa
-gospodarstvo	Ncnsa
-.	Z
-Slovenija	Npfsn
-bo	Va-f3s-n
-odpravila	Vmep-sf
-prepoved	Ncfsa
-Vizumski	Agpmsny
-spor	Ncmsan
-med	Si
-Švico	Npfsi
-in	Cc
-Libijo	Npfsi
-je	Va-r3s-n
-že	Q
-prizadel	Vmep-sm
-slovensko	Agpnsa
-gospodarstvo	Ncnsa
-,	Z
-zato	Cc
-je	Va-r3s-n
-Slovenija	Npfsn
-pripravljena	Appfsn
-skupaj	Rgp
-s	Si
-skupino	Ncfsi
-še	Q
-petih	Mlc-pg
-držav	Ncfpg
-po	Sl
-5	Mdc
-.	Z
-aprilu	Ncmsl
-uvesti	Vmen
-teritorialno	Rgp
-omejene	Appmpa
-vizume	Ncmpa
-za	Sa
-Libijo	Npfsa
-,	Z
-če	Cs
-do	Sg
-takrat	Rgp
-ne	Q
-bo	Va-f3s-n
-rešitve	Ncfsg
-tega	Pd-msg
-spora	Ncmsg
-,	Z
-je	Va-r3s-n
-danes	Rgp
-v	Sl
-Bruslju	Npmsl
-povedal	Vmep-sm
-zunanji	Agpmsny
-minister	Ncmsn
-Samuel	Npmsn
-Žbogar	Npmsn
-.	Z
-"	Z
-V	Sl
-Sloveniji	Npfsl
-pričakujemo	Vmpr1p
-nekatere	Pi-fpa
-delegacije	Ncfpa
-iz	Sg
-Libije	Npfsg
-v	Sl
-aprilu	Ncmsl
-,	Z
-ki	Cs
-so	Va-r3p-n
-za	Sa
-naše	Ps1nsap
-sodelovanje	Ncnsa
-pomembne	Agpfpn
-,	Z
-zato	Cc
-smo	Va-r1p-n
-pripravljeni	Appmpn
-s	Si
-to	Pd-fsi
-skupino	Ncfsi
-držav	Ncfpg
-iti	Vmpn
-v	Sa
-to	Pd-fsa
-varianto	Ncfsa
-,	Z
-"	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-minister	Ncmsn
-.	Z
-"	Z
-Zgodilo	Vmep-sn
-se	Px------y
-nam	Pp1-pd
-je	Va-r3s-n
-že	Q
-,	Z
-da	Cs
-naši	Ps1mpnp
-poslovneži	Ncmpn
-niso	Va-r3p-y
-dobili	Vmep-pm
-vizumov	Ncmpg
-za	Sa
-obisk	Ncmsan
-Libije	Npfsg
-za	Sa
-podpis	Ncmsan
-ene	Mlpfsg
-konkretne	Agpfsg
-pogodbe	Ncfsg
-in	Cc
-to	Pd-nsn
-je	Va-r3s-n
-že	Q
-zelo	Rgp
-realna	Agpfsn
-posledica	Ncfsn
-spora	Ncmsg
-med	Si
-Švico	Npfsi
-in	Cc
-Libijo	Npfsi
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-.	Z
-Izdajanje	Ncnsn
-vizumov	Ncmpg
-,	Z
-omejenih	Appfpg
-na	Sa
-določene	Appfpa
-schengenske	Agpfpa
-države	Ncfpa
-,	Z
-je	Va-r3s-n
-po	Sl
-Žbogarjevih	Aspfpl
-besedah	Ncfpl
-v	Sl
-skladu	Ncmsl
-s	Si
-schengenskim	Agpmsi
-sporazumom	Ncmsi
-in	Cc
-bo	Va-f3s-n
-mogoče	Agpnsn
-po	Sl
-5	Mdc
-.	Z
-aprilu	Ncmsl
-.	Z
-Tako	Rgp
-je	Va-r3s-n
-Slovenija	Npfsn
-danes	Rgp
-na	Sl
-zasedanju	Ncnsl
-zunanjih	Agpmpg
-ministrov	Ncmpg
-EU	Npfsg
-v	Sl
-Bruslju	Npmsl
-potrdila	Vmep-sf
-,	Z
-da	Cs
-bo	Va-f3s-n
-izdajala	Vmpp-sf
-te	Pd-mpa
-vizume	Ncmpa
-,	Z
-če	Cs
-rešitve	Ncfpa
-vizumskega	Agpmsg
-spora	Ncmsg
-med	Si
-Švico	Npfsi
-in	Cc
-Libijo	Npfsi
-do	Sg
-takrat	Rgp
-ne	Q
-bo	Va-f3s-n
-.	Z
-Povod	Ncmsn
-je	Va-r3s-n
-bila	Va-p-sf
-prepoved	Ncfsn
-Švice	Npfsg
-V	Sl
-skupini	Ncfsl
-držav	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-pripravljene	Appfpn
-uvesti	Vmen
-teritorialno	Rgp
-omejene	Appmpa
-vizume	Ncmpa
-za	Sa
-Libijo	Npfsa
-,	Z
-če	Cs
-Švica	Npfsn
-ne	Q
-bo	Va-f3s-n
-rešila	Vmep-sf
-spora	Ncmsg
-z	Si
-Libijo	Npfsi
-,	Z
-zaradi	Sg
-katerega	Pq-msg
-so	Va-r3p-n
-libijske	Agpfpn
-oblasti	Ncfpn
-prekinile	Vmep-pf
-izdajanje	Ncnsa
-vizumov	Ncmpg
-državljanom	Ncmpd
-schengenskih	Agpfpg
-članic	Ncfpg
-,	Z
-so	Va-r3p-n
-poleg	Sg
-Slovenije	Npfsg
-še	Q
-Malta	Npfsn
-,	Z
-Italija	Npfsn
-,	Z
-Španija	Npfsn
-,	Z
-Portugalska	Npfsn
-in	Cc
-Ciper	Npmsn
-.	Z
+token	tag	lemma
+Vizumski	mte:Agpmsny	vizumski
+spor	mte:Ncmsn	spor
+med	mte:Si	med
+Švico	mte:Npfsi	Švico
+in	mte:Cc	in
+Libijo	mte:Npfsi	Libija
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+zunanjega	mte:Agpmsg	zunanji
+ministra	mte:Ncmsg	minister
+prizadel	mte:Vmep-sm	prizadeti
+slovensko	mte:Agpnsa	slovenski
+gospodarstvo	mte:Ncnsa	gospodarstvo
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+bo	mte:Va-f3s-n	biti
+odpravila	mte:Vmep-sf	odpraviti
+prepoved	mte:Ncfsa	prepoved
+Vizumski	mte:Agpmsny	vizumski
+spor	mte:Ncmsan	spor
+med	mte:Si	med
+Švico	mte:Npfsi	Švico
+in	mte:Cc	in
+Libijo	mte:Npfsi	Libija
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+prizadel	mte:Vmep-sm	prizadeti
+slovensko	mte:Agpnsa	slovenski
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+pripravljena	mte:Appfsn	pripravljen
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+skupino	mte:Ncfsi	skupina
+še	mte:Q	še
+petih	mte:Mlc-pg	pet
+držav	mte:Ncfpg	država
+po	mte:Sl	po
+5	mte:Mdc	5
+.	mte:Z	.
+aprilu	mte:Ncmsl	april
+uvesti	mte:Vmen	uvesti
+teritorialno	mte:Rgp	teritorialno
+omejene	mte:Appmpa	omejen
+vizume	mte:Ncmpa	vizum
+za	mte:Sa	za
+Libijo	mte:Npfsa	Libija
+,	mte:Z	,
+če	mte:Cs	če
+do	mte:Sg	do
+takrat	mte:Rgp	takrat
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+rešitve	mte:Ncfsg	rešitev
+tega	mte:Pd-msg	ta
+spora	mte:Ncmsg	spor
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+povedal	mte:Vmep-sm	povedati
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Samuel	mte:Npmsn	Samuel
+Žbogar	mte:Npmsn	Žbogar
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+pričakujemo	mte:Vmpr1p	pričakovati
+nekatere	mte:Pi-fpa	nekateri
+delegacije	mte:Ncfpa	delegacija
+iz	mte:Sg	iz
+Libije	mte:Npfsg	Libija
+v	mte:Sl	v
+aprilu	mte:Ncmsl	april
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+naše	mte:Ps1nsap	naš
+sodelovanje	mte:Ncnsa	sodelovanje
+pomembne	mte:Agpfpn	pomemben
+,	mte:Z	,
+zato	mte:Cc	zato
+smo	mte:Va-r1p-n	biti
+pripravljeni	mte:Appmpn	pripravljen
+s	mte:Si	z
+to	mte:Pd-fsi	ta
+skupino	mte:Ncfsi	skupina
+držav	mte:Ncfpg	država
+iti	mte:Vmpn	iti
+v	mte:Sa	v
+to	mte:Pd-fsa	ta
+varianto	mte:Ncfsa	varianta
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+minister	mte:Ncmsn	minister
+.	mte:Z	.
+"	mte:Z	"
+Zgodilo	mte:Vmep-sn	zgoditi
+se	mte:Px------y	se
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+,	mte:Z	,
+da	mte:Cs	da
+naši	mte:Ps1mpnp	naš
+poslovneži	mte:Ncmpn	poslovnež
+niso	mte:Va-r3p-y	biti
+dobili	mte:Vmep-pm	dobiti
+vizumov	mte:Ncmpg	vizum
+za	mte:Sa	za
+obisk	mte:Ncmsan	obisk
+Libije	mte:Npfsg	Libija
+za	mte:Sa	za
+podpis	mte:Ncmsan	podpis
+ene	mte:Mlpfsg	en
+konkretne	mte:Agpfsg	konkreten
+pogodbe	mte:Ncfsg	pogodba
+in	mte:Cc	in
+to	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+zelo	mte:Rgp	zelo
+realna	mte:Agpfsn	realen
+posledica	mte:Ncfsn	posledica
+spora	mte:Ncmsg	spor
+med	mte:Si	med
+Švico	mte:Npfsi	Švico
+in	mte:Cc	in
+Libijo	mte:Npfsi	Libija
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Izdajanje	mte:Ncnsn	izdajanje
+vizumov	mte:Ncmpg	vizum
+,	mte:Z	,
+omejenih	mte:Appfpg	omejen
+na	mte:Sa	na
+določene	mte:Appfpa	določen
+schengenske	mte:Agpfpa	schengenski
+države	mte:Ncfpa	država
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+Žbogarjevih	mte:Aspfpl	Žbogarjev
+besedah	mte:Ncfpl	beseda
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+schengenskim	mte:Agpmsi	schengenski
+sporazumom	mte:Ncmsi	sporazum
+in	mte:Cc	in
+bo	mte:Va-f3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+po	mte:Sl	po
+5	mte:Mdc	5
+.	mte:Z	.
+aprilu	mte:Ncmsl	april
+.	mte:Z	.
+Tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+danes	mte:Rgp	danes
+na	mte:Sl	na
+zasedanju	mte:Ncnsl	zasedanje
+zunanjih	mte:Agpmpg	zunanji
+ministrov	mte:Ncmpg	minister
+EU	mte:Npfsg	EU
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+potrdila	mte:Vmep-sf	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+izdajala	mte:Vmpp-sf	izdajati
+te	mte:Pd-mpa	ta
+vizume	mte:Ncmpa	vizum
+,	mte:Z	,
+če	mte:Cs	če
+rešitve	mte:Ncfpg	rešitev
+vizumskega	mte:Agpmsg	vizumski
+spora	mte:Ncmsg	spor
+med	mte:Si	med
+Švico	mte:Npfsi	Švico
+in	mte:Cc	in
+Libijo	mte:Npfsi	Libija
+do	mte:Sg	do
+takrat	mte:Rgp	takrat
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+.	mte:Z	.
+Povod	mte:Ncmsn	povod
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+prepoved	mte:Ncfsn	prepoved
+Švice	mte:Npfsg	Švica
+V	mte:Sl	v
+skupini	mte:Ncfsl	skupina
+držav	mte:Ncfpg	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+pripravljene	mte:Appfpn	pripravljen
+uvesti	mte:Vmen	uvesti
+teritorialno	mte:Rgp	teritorialno
+omejene	mte:Appmpa	omejen
+vizume	mte:Ncmpa	vizum
+za	mte:Sa	za
+Libijo	mte:Npfsa	Libija
+,	mte:Z	,
+če	mte:Cs	če
+Švica	mte:Npfsn	Švica
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+rešila	mte:Vmep-sf	rešiti
+spora	mte:Ncmsg	spor
+z	mte:Si	z
+Libijo	mte:Npfsi	Libija
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+katerega	mte:Pq-msg	kateri
+so	mte:Va-r3p-n	biti
+libijske	mte:Agpfpn	libijski
+oblasti	mte:Ncfpn	oblast
+prekinile	mte:Vmep-pf	prekiniti
+izdajanje	mte:Ncnsa	izdajanje
+vizumov	mte:Ncmpg	vizum
+državljanom	mte:Ncmpd	državljan
+schengenskih	mte:Agpfpg	schengenski
+članic	mte:Ncfpg	članica
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+poleg	mte:Sg	poleg
+Slovenije	mte:Npfsg	Slovenija
+še	mte:Q	še
+Malta	mte:Npfsn	Malta
+,	mte:Z	,
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+Španija	mte:Npfsn	Španija
+,	mte:Z	,
+Portugalska	mte:Npfsn	Portugalska
+in	mte:Cc	in
+Ciper	mte:Npmsn	Ciper
+.	mte:Z	.
+Libija	mte:Npfsn	Libija
+je	mte:Va-r3s-n	biti
+izdajanje	mte:Ncnsa	izdajanje
+vizumov	mte:Ncmpg	vizum
+za	mte:Sa	za
+državljane	mte:Ncmpa	državljan
+schengenskih	mte:Agpfpg	schengenski
+članic	mte:Ncfpg	članica
+prekinila	mte:Vmep-sf	prekiniti
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+Švica	mte:Npfsn	Švica
+zaradi	mte:Sg	zaradi
+nekaj	mte:Rgp	nekaj
+let	mte:Ncnpg	leto
+starega	mte:Agpmsg	star
+diplomatskega	mte:Agpmsg	diplomatski
+spora	mte:Ncmsg	spor
+uvedla	mte:Vmep-sf	uvesti
+prepoved	mte:Ncfsa	prepoved
+izdajanja	mte:Ncnsg	izdajanje
+vizumov	mte:Ncmpg	vizum
+za	mte:Sa	za
+visoke	mte:Agpmpa	visok
+libijske	mte:Agpmpa	libijski
+predstavnike	mte:Ncmpa	predstavnik
+,	mte:Z	,
+tudi	mte:Q	tudi
+libijskega	mte:Agpmsa	libijski
+voditelja	mte:Ncmsay	voditelj
+Moamerja	mte:Npmsgy	Moamer
+Gadafija	mte:Npmsay	Gadafija
+in	mte:Cc	in
+njegovega	mte:Ps3msasm	njegov
+sina	mte:Ncmsay	sin
+Hanibala	mte:Npmsay	Hanibal

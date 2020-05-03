@@ -1,389 +1,418 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-SCT	Npmsn
-pod	Si
-vodstvom	Ncnsi
-Ivana	Npmsg
-Zidarja	Npmsg
-za	Sa
-dodatna	Agpnpa
-elektrostrojna	Agpnpa
-dela	Ncnpa
-v	Sl
-predoru	Ncmsl
-Šentvid	Npmsn
-na	Sl
-avtocestnem	Agpmsl
-odseku	Ncmsl
-Koseze	Npmsn
--	Z
-Šentvid	Npmsn
-na	Sl
-prvotnih	Agpmpl
-pogodbeno	Rgp
-sklenjenih	Appmpl
-11	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-zahteva	Vmbr3s
-še	Q
-7	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Celoten	Agpmsnn
-5,5	Mdc
--	Z
-kilometrski	Agpmsay
-odsek	Ncmsan
-naj	Q
-bi	Va-c
-po	Sl
-napovedih	Ncfpl
-presegel	Vmep-sm
-263	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Zahtevek	Ncmsan
-SCT	Npmsn
-so	Va-r3p-n
-včeraj	Rgp
-obravnavali	Vmpp-pm
-nadzorniki	Ncmpn
-državne	Agpfsg
-družbe	Ncfsg
-za	Sa
-avtoceste	Ncfpa
-(	Z
-Dars	Npmsn
-)	Z
-pod	Si
-vodstvom	Ncnsi
-Francija	Npmsg
-Slaka	Npmsg
-,	Z
-a	Cc
-ga	Pp3msa--y
-niso	Va-r3p-y
-odobrili	Vmep-pm
-,	Z
-temveč	Cc
-so	Va-r3p-n
-se	Px------y
-z	Si
-njim	Pp3msi
-le	Q
-seznanili	Vmep-pm
-.	Z
-Od	Sg
-uprave	Ncfsg
-Darsa	Npmsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodi	Vmpr3s
-Tomislav	Npmsn
-Nemec	Npmsn
-,	Z
-pričakujejo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-z	Si
-izvajalcem	Ncmsi
-dogovorila	Vmep-sf
-tako	Rgp
-,	Z
-da	Cs
-bo	Va-f3s-n
-cena	Ncfsn
-del	Ncmsn
-ostala	Vmep-sf
-v	Sl
-okviru	Ncmsl
-11	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-čeprav	Cs
-se	Px------y
-strinjajo	Vmpr3p
-z	Si
-dodatnimi	Agpmpi
-deli	Ncmpi
-,	Z
-povezanimi	Appfpi
-z	Si
-evropsko	Agpfsi
-direktivo	Ncfsi
-o	Sl
-prometni	Agpfsl
-varnosti	Ncfsl
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-Slak	Npmsn
-.	Z
-Gre	Vmbr3s
-za	Sa
-podvojitev	Ncfsa
-števila	Ncnsg
-prečnikov	Ncmpg
-in	Cc
-odstavnih	Agpfpg
-niš	Ncfpg
-v	Sl
-predoru	Ncmsl
-ter	Cc
-dodatno	Agpfsa
-razsvetljavo	Ncfsa
-in	Cc
-prezračevanje	Ncnsa
-zaradi	Sg
-zamenjave	Ncfsg
-betonskega	Agpnsg
-vozišča	Ncnsg
-z	Si
-asfaltnim	Agpnsi
-ter	Cc
-dodatno	Agpfsi
-signalizacijo	Ncfsi
-.	Z
-Slak	Npmsn
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-je	Va-r3s-n
-zaradi	Sg
-prihrankov	Ncmpg
-,	Z
-ker	Cs
-ne	Q
-bo	Va-f3s-n
-zgrajen	Appmsnn
-poln	Agpmsnn
-priključek	Ncmsn
-na	Sa
-Celovško	Agpfsa
-cesto	Ncfsa
-,	Z
-kot	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-predvideno	Appnsn
-s	Si
-pogodbo	Ncfsi
-,	Z
-mogoče	Agpnsn
-elektrostrojna	Agpnpn
-dela	Ncnsg
-v	Sl
-predoru	Ncmsl
-dokončati	Vmen
-po	Sl
-sklenjeni	Appfsl
-ceni	Ncfsl
-.	Z
-Upravi	Ncfsl
-Darsa	Npmsg
-se	Px------y
-z	Si
-odločitvijo	Ncfsi
-mudi	Vmpr3s
-,	Z
-saj	Cc
-mora	Vmpr3s
-biti	Va-n
-predor	Ncmsn
-končan	Appmsnn
-do	Sg
-30	Mdc
-.	Z
-junija	Ncmsg
-.	Z
-Za	Sa
-Slaka	Npmsay
-možnost	Ncfsa
-,	Z
-da	Cs
-predor	Ncmsn
-ne	Q
-bi	Va-c
-bil	Va-p-sm
-dokončan	Appmsnn
-do	Sg
-roka	Ncmsg
-,	Z
-ne	Q
-pride	Vmer3s
-v	Sa
-poštev	Ncmsan
-,	Z
-tudi	Q
-zaradi	Sg
-pritiska	Ncmsg
-javnosti	Ncfsg
-.	Z
-Zato	Cc
-tudi	Q
-ne	Q
-pričakuje	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-SCT	Npmsn
-Dars	Npmsn
-izsiljeval	Vmpp-sm
-s	Si
-kratkim	Agpmsi
-rokom	Ncmsi
-.	Z
-"	Z
-Uprava	Ncfsn
-naj	Q
-se	Px------y
-odloči	Vmer3s
-,	Z
-kaj	Pq-nsa
-bo	Va-f3s-n
-storila	Vmep-sf
-.	Z
-Jasno	Npfsn
-pa	Cc
-je	Va-r3s-n
-,	Z
-da	Cs
-zahtevek	Ncmsn
-krepko	Rgp
-presega	Vmpr3s
-30	Mdc
-odstotkov	Ncmpg
-pogodbene	Agpfsg
-vrednosti	Ncfsg
-(	Z
-3,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-)	Z
-,	Z
-kar	Pr-nsa
-bi	Va-c
-SCT	Npmsn
-sploh	Q
-še	Q
-lahko	Rgp
-odobrili	Vmep-pm
-v	Sl
-skladu	Ncmsl
-z	Si
-zakonodajo	Ncfsi
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-član	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Uroš	Npmsn
-Rožič	Npmsn
-.	Z
-Odločitev	Ncfsn
-uprave	Ncfsg
-o	Sl
-Šentvidu	Npmsl
-Rožič	Npmsn
-pričakuje	Vmpr3s
-v	Sl
-nekaj	Rgp
-dneh	Ncmpl
-,	Z
-v	Sl
-10	Mdc
-do	Sg
-14	Mdc
-dnevih	Ncmpl
-pa	Cc
-tudi	Q
-odločitev	Ncfsa
-o	Sl
-usodi	Ncfsl
-razpisa	Ncmsg
-za	Sa
-gradnjo	Ncfsa
-predora	Ncmsg
-Markovec	Npmsn
-.	Z
-Dars	Npmsn
-je	Va-r3s-n
-,	Z
-kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-za	Sa
-posel	Ncmsan
-izbral	Vmep-sm
-konzorcij	Ncmsan
-na	Sl
-čelu	Ncnsl
-z	Si
-italijanskim	Agpmsi
-Vidonijem	Npmsi
-,	Z
-a	Cc
-je	Va-r3s-n
-državna	Agpfsn
-revizijska	Agpfsn
-komisija	Ncfsn
-po	Sl
-pritožbi	Ncfsl
-drugega	Mlpmsg
-ponudnika	Ncmsg
-SCT	Npfsg
-in	Cc
-Primorja	Npnsg
-odločitev	Ncfsa
-razveljavila	Vmep-sf
-.	Z
-"	Z
-Uprava	Ncfsn
-nam	Pp1-pd
-še	Q
-ni	Va-r3s-y
-sporočila	Vmep-sf
-,	Z
-h	Sd
-kakšni	Pq-fsd
-odločitvi	Ncfsd
-se	Px------y
-nagiba	Vmpr3s
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Rožič	Npmsn
-.	Z
-Nadzorniki	Ncmpn
-so	Va-r3p-n
-se	Px------y
-seznanili	Vmep-pm
-tudi	Q
-z	Si
-zahtevo	Ncfsi
-Prekmurcev	Npmpg
-,	Z
-da	Cs
-mora	Vmpr3s
-biti	Va-n
-prekmurski	Agpmsny
-krak	Ncmsn
-avtoceste	Ncfsg
-zgrajen	Appmsnn
-do	Sg
-konca	Ncmsg
-avgusta	Ncmsg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+SCT	mte:Npmsn	SCT
+pod	mte:Si	pod
+vodstvom	mte:Ncnsi	vodstvo
+Ivana	mte:Npmsg	Ivan
+Zidarja	mte:Npmsg	Zidar
+za	mte:Sa	za
+dodatna	mte:Agpnpa	dodaten
+elektrostrojna	mte:Agpnpa	elektrostrojen
+dela	mte:Ncnpa	delo
+v	mte:Sl	v
+predoru	mte:Ncmsl	predor
+Šentvid	mte:Npmsn	Šentvid
+na	mte:Sl	na
+avtocestnem	mte:Agpmsl	avtocesten
+odseku	mte:Ncmsl	odsek
+Koseze	mte:Npmsn	Koseze
+-	mte:Z	-
+Šentvid	mte:Npmsn	Šentvid
+na	mte:Sl	na
+prvotnih	mte:Agpmpl	prvoten
+pogodbeno	mte:Rgp	pogodbeno
+sklenjenih	mte:Appmpl	sklenjen
+11	mte:Mdc	11
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+zahteva	mte:Vmbr3s	zahtevati
+še	mte:Q	še
+7	mte:Mdc	7
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Celoten	mte:Agpmsnn	celoten
+5,5	mte:Mdc	5,5
+-	mte:Z	-
+kilometrski	mte:Agpmsay	kilometrski
+odsek	mte:Ncmsan	odsek
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+napovedih	mte:Ncfpl	napoved
+presegel	mte:Vmep-sm	preseči
+263	mte:Mdc	263
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Zahtevek	mte:Ncmsan	zahtevek
+SCT	mte:Npmsn	SCT
+so	mte:Va-r3p-n	biti
+včeraj	mte:Rgp	včeraj
+obravnavali	mte:Vmpp-pm	obravnavati
+nadzorniki	mte:Ncmpn	nadzornik
+državne	mte:Agpfsg	državen
+družbe	mte:Ncfsg	družba
+za	mte:Sa	za
+avtoceste	mte:Ncfpa	avtocesta
+(	mte:Z	(
+Dars	mte:Npmsn	Dars
+)	mte:Z	)
+pod	mte:Si	pod
+vodstvom	mte:Ncnsi	vodstvo
+Francija	mte:Npmsg	Francija
+Slaka	mte:Npmsg	Slaka
+,	mte:Z	,
+a	mte:Cc	a
+ga	mte:Pp3msa--y	on
+niso	mte:Va-r3p-y	biti
+odobrili	mte:Vmep-pm	odobriti
+,	mte:Z	,
+temveč	mte:Cc	temveč
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+z	mte:Si	z
+njim	mte:Pp3msi	on
+le	mte:Q	le
+seznanili	mte:Vmep-pm	seznaniti
+.	mte:Z	.
+Od	mte:Sg	od
+uprave	mte:Ncfsg	uprava
+Darsa	mte:Npmsg	Dars
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+Tomislav	mte:Npmsn	Tomislav
+Nemec	mte:Npmsn	Nemec
+,	mte:Z	,
+pričakujejo	mte:Vmpr3p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+z	mte:Si	z
+izvajalcem	mte:Ncmsi	izvajalec
+dogovorila	mte:Vmep-sf	dogovoriti
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+cena	mte:Ncfsn	cena
+del	mte:Ncmsn	del
+ostala	mte:Vmep-sf	ostati
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+11	mte:Mdc	11
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+se	mte:Px------y	se
+strinjajo	mte:Vmpr3p	strinjati
+z	mte:Si	z
+dodatnimi	mte:Agpmpi	dodaten
+deli	mte:Ncmpi	del
+,	mte:Z	,
+povezanimi	mte:Appfpi	povezan
+z	mte:Si	z
+evropsko	mte:Agpfsi	evropski
+direktivo	mte:Ncfsi	direktiva
+o	mte:Sl	o
+prometni	mte:Agpfsl	prometen
+varnosti	mte:Ncfsl	varnost
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Slak	mte:Npmsn	Slak
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+podvojitev	mte:Ncfsa	podvojitev
+števila	mte:Ncnsg	število
+prečnikov	mte:Ncmpg	prečnik
+in	mte:Cc	in
+odstavnih	mte:Agpfpg	odstaven
+niš	mte:Ncfpg	niša
+v	mte:Sl	v
+predoru	mte:Ncmsl	predor
+ter	mte:Cc	ter
+dodatno	mte:Agpfsa	dodaten
+razsvetljavo	mte:Ncfsa	razsvetljava
+in	mte:Cc	in
+prezračevanje	mte:Ncnsa	prezračevanje
+zaradi	mte:Sg	zaradi
+zamenjave	mte:Ncfsg	zamenjava
+betonskega	mte:Agpnsg	betonski
+vozišča	mte:Ncnsg	vozišče
+z	mte:Si	z
+asfaltnim	mte:Agpnsi	asfalten
+ter	mte:Cc	ter
+dodatno	mte:Agpfsi	dodaten
+signalizacijo	mte:Ncfsi	signalizacija
+.	mte:Z	.
+Slak	mte:Npmsn	Slak
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+prihrankov	mte:Ncmpg	prihranek
+,	mte:Z	,
+ker	mte:Cs	ker
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+zgrajen	mte:Appmsnn	zgrajen
+poln	mte:Agpmsnn	poln
+priključek	mte:Ncmsn	priključek
+na	mte:Sa	na
+Celovško	mte:Agpfsa	celovški
+cesto	mte:Ncfsa	cesta
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+predvideno	mte:Appnsn	predviden
+s	mte:Si	z
+pogodbo	mte:Ncfsi	pogodba
+,	mte:Z	,
+mogoče	mte:Agpnsn	mogoč
+elektrostrojna	mte:Agpnpn	elektrostrojen
+dela	mte:Ncnsg	delo
+v	mte:Sl	v
+predoru	mte:Ncmsl	predor
+dokončati	mte:Vmen	dokončati
+po	mte:Sl	po
+sklenjeni	mte:Appfsl	sklenjen
+ceni	mte:Ncfsl	cena
+.	mte:Z	.
+Upravi	mte:Ncfsl	uprava
+Darsa	mte:Npmsg	Dars
+se	mte:Px------y	se
+z	mte:Si	z
+odločitvijo	mte:Ncfsi	odločitev
+mudi	mte:Vmpr3s	muditi
+,	mte:Z	,
+saj	mte:Cc	saj
+mora	mte:Vmpr3s	morati
+biti	mte:Va-n	biti
+predor	mte:Ncmsn	predor
+končan	mte:Appmsnn	končan
+do	mte:Sg	do
+30	mte:Mdc	30
+.	mte:Z	.
+junija	mte:Ncmsg	junij
+.	mte:Z	.
+Za	mte:Sa	za
+Slaka	mte:Npmsay	Slaka
+možnost	mte:Ncfsa	možnost
+,	mte:Z	,
+da	mte:Cs	da
+predor	mte:Ncmsn	predor
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+dokončan	mte:Appmsnn	dokončan
+do	mte:Sg	do
+roka	mte:Ncmsg	roka
+,	mte:Z	,
+ne	mte:Q	ne
+pride	mte:Vmer3s	priti
+v	mte:Sa	v
+poštev	mte:Ncmsan	poštvo
+,	mte:Z	,
+tudi	mte:Q	tudi
+zaradi	mte:Sg	zaradi
+pritiska	mte:Ncmsg	pritisk
+javnosti	mte:Ncfsg	javnost
+.	mte:Z	.
+Zato	mte:Cc	zato
+tudi	mte:Q	tudi
+ne	mte:Q	ne
+pričakuje	mte:Vmpr3s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+SCT	mte:Npmsn	SCT
+Dars	mte:Npmsn	Dars
+izsiljeval	mte:Vmpp-sm	izsiljevati
+s	mte:Si	z
+kratkim	mte:Agpmsi	kratek
+rokom	mte:Ncmsi	rok
+.	mte:Z	.
+"	mte:Z	"
+Uprava	mte:Ncfsn	uprava
+naj	mte:Q	naj
+se	mte:Px------y	se
+odloči	mte:Vmer3s	odločiti
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+bo	mte:Va-f3s-n	biti
+storila	mte:Vmep-sf	storiti
+.	mte:Z	.
+Jasno	mte:Npfsn	Jasna
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+zahtevek	mte:Ncmsn	zahtevek
+krepko	mte:Rgp	krepko
+presega	mte:Vmpr3s	presegati
+30	mte:Mdc	30
+odstotkov	mte:Ncmpg	odstotek
+pogodbene	mte:Agpfsg	pogodben
+vrednosti	mte:Ncfsg	vrednost
+(	mte:Z	(
+3,3	mte:Mdc	3,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+bi	mte:Va-c	biti
+SCT	mte:Npmsn	SCT
+sploh	mte:Q	sploh
+še	mte:Q	še
+lahko	mte:Rgp	lahko
+odobrili	mte:Vmep-pm	odobriti
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+zakonodajo	mte:Ncfsi	zakonodaja
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+član	mte:Ncmsn	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Uroš	mte:Npmsn	Uroš
+Rožič	mte:Npmsn	Rožič
+.	mte:Z	.
+Odločitev	mte:Ncfsn	odločitev
+uprave	mte:Ncfsg	uprava
+o	mte:Sl	o
+Šentvidu	mte:Npmsl	Šentvid
+Rožič	mte:Npmsn	Rožič
+pričakuje	mte:Vmpr3s	pričakovati
+v	mte:Sl	v
+nekaj	mte:Rgp	nekaj
+dneh	mte:Ncmpl	dan
+,	mte:Z	,
+v	mte:Sl	v
+10	mte:Mdc	10
+do	mte:Sg	do
+14	mte:Mdc	14
+dnevih	mte:Ncmpl	dan
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+odločitev	mte:Ncfsa	odločitev
+o	mte:Sl	o
+usodi	mte:Ncfsl	usoda
+razpisa	mte:Ncmsg	razpis
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+predora	mte:Ncmsg	predor
+Markovec	mte:Npmsn	Markovec
+.	mte:Z	.
+Dars	mte:Npmsn	Dars
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+za	mte:Sa	za
+posel	mte:Ncmsan	posel
+izbral	mte:Vmep-sm	izbrati
+konzorcij	mte:Ncmsan	konzorcija
+na	mte:Sl	na
+čelu	mte:Ncnsl	čelo
+z	mte:Si	z
+italijanskim	mte:Agpmsi	italijanski
+Vidonijem	mte:Npmsi	Vidonij
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+državna	mte:Agpfsn	državen
+revizijska	mte:Agpfsn	revizijski
+komisija	mte:Ncfsn	komisija
+po	mte:Sl	po
+pritožbi	mte:Ncfsl	pritožba
+drugega	mte:Mlpmsg	drug
+ponudnika	mte:Ncmsg	ponudnik
+SCT	mte:Npfsg	SCT
+in	mte:Cc	in
+Primorja	mte:Npnsg	Primorje
+odločitev	mte:Ncfsa	odločitev
+razveljavila	mte:Vmep-sf	razveljaviti
+.	mte:Z	.
+"	mte:Z	"
+Uprava	mte:Ncfsn	uprava
+nam	mte:Pp1-pd	jaz
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+sporočila	mte:Vmep-sf	sporočiti
+,	mte:Z	,
+h	mte:Sd	k
+kakšni	mte:Pq-fsd	kakšen
+odločitvi	mte:Ncfsd	odločitev
+se	mte:Px------y	se
+nagiba	mte:Vmpr3s	nagibati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Rožič	mte:Npmsn	Rožič
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+seznanili	mte:Vmep-pm	seznaniti
+tudi	mte:Q	tudi
+z	mte:Si	z
+zahtevo	mte:Ncfsi	zahteva
+Prekmurcev	mte:Npmpg	Prekmurec
+,	mte:Z	,
+da	mte:Cs	da
+mora	mte:Vmpr3s	morati
+biti	mte:Va-n	biti
+prekmurski	mte:Agpmsny	prekmurski
+krak	mte:Ncmsn	krak
+avtoceste	mte:Ncfsg	avtocesta
+zgrajen	mte:Appmsnn	zgrajen
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+avgusta	mte:Ncmsg	avgust
+.	mte:Z	.
+Strinjajo	mte:Vmpr3p	strinjati
+se	mte:Px------y	se
+,	mte:Z	,
+da	mte:Cs	da
+to	mte:Pd-nsn	ta
+ni	mte:Va-r3s-y	biti
+uresničljivo	mte:Agpnsn	uresničljiv
+,	mte:Z	,
+vendar	mte:Cc	vendar
+uprava	mte:Ncfsn	uprava
+Darsa	mte:Npmsg	Dars
+še	mte:Q	še
+preučuje	mte:Vmpr3s	preučevati
+zahteve	mte:Ncfpa	zahteva
+in	mte:Cc	in
+predloge	mte:Ncmpa	predlog
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+katerih	mte:Pq-mpg	kateri
+je	mte:Va-r3s-n	biti
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+že	mte:Q	že
+zagrozil	mte:Vmep-sm	zagroziti
+z	mte:Si	z
+odstopom	mte:Ncmsi	odstop

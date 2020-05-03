@@ -1,630 +1,669 @@
-token	tag
-Starman	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-v	Sl
-Muri	Npfsl
-vso	Pg-fsa
-energijo	Ncfsa
-usmerjajo	Vmpr3p
-v	Sa
-ohranitev	Ncfsa
-poslov	Ncmpg
-.	Z
-V	Sl
-podjetju	Ncnsl
-Hugo	Npmsn
-Boss	Npmsn
-pa	Cc
-trdijo	Vmpr3p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-še	Q
-naprej	Rgp
-sodelovali	Vmpp-pm
-z	Si
-njimi	Pp3mpi
-,	Z
-če	Cs
-bodo	Va-f3p-n
-ohranili	Vmep-pm
-kakovost	Ncfsa
-in	Cc
-naročila	Ncnpa
-izpolnjevali	Vmpp-pm
-v	Sl
-roku	Ncmsl
-.	Z
-Mi	Pp1-sd--y
-enostavno	Rgp
-delamo	Vmpr1p
-,	Z
-kako	Rgp
-to	Pd-fsa
-stvar	Ncfsn
-zapeljati	Vmen
-naprej	Rgp
-,	Z
-da	Cs
-se	Px------y
-premaknemo	Vmer1p
-z	Sg
-mrtve	Agpfsg
-točke	Ncfsg
-,	Z
-je	Va-r3s-n
-glede	Sg
-reševanja	Ncnsg
-Mure	Npfsg
-dejal	Vmep-sm
-Starman	Npmsn
-.	Z
-Novi	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Mure	Npfsg
-Bojan	Npmsn
-Starman	Npmsn
-je	Va-r3s-n
-za	Sa
-24ur.com	Mdc
-komentiral	Vmbp-sm
-dogajanje	Ncnsa
-v	Sl
-Muri	Npfsl
-.	Z
-Vse	Pg-nsa
-delamo	Vmpr1p
-v	Sl
-tej	Pd-fsl
-smeri	Ncfsl
-,	Z
-da	Cs
-se	Px------y
-posli	Ncmpn
-ohranijo	Vmer3p
-in	Cc
-da	Cs
-se	Px------y
-stvari	Ncfpn
-normalizirajo	Vmbr3p
-ter	Cc
-da	Cs
-v	Sa
-prihodnje	Agpnsa
-ugotovimo	Vmer1p
-,	Z
-koliko	Rgp
-delavcev	Ncmpg
-potrebujemo	Vmpr1p
-.	Z
-Vse	Pg-nsn
-to	Pd-nsn
-v	Sl
-tako	Rgp
-velikem	Agpnsl
-podjetju	Ncnsl
-ni	Va-r3s-y
-enostavno	Agpnsn
-,	Z
-vsega	Pg-nsg
-se	Px------y
-ne	Q
-da	Vmer3s
-naenkrat	Rgp
-urediti	Vmen
-.	Z
-Še	Q
-vedno	Rgp
-delajo	Vmpr3p
-tudi	Q
-na	Sl
-tem	Pd-nsl
-,	Z
-da	Cs
-prepričajo	Vmer3p
-podjetje	Ncnsa
-Hugo	Npmsn
-Boss	Npmsn
-,	Z
-da	Cs
-se	Px------y
-stvari	Ncfpn
-normalizirajo	Vmbr3p
-,	Z
-je	Va-r3s-n
-še	Q
-dejal	Vmep-sm
-Starman	Npmsn
-.	Z
-Poslali	Vmep-pm
-jim	Pp3mpd--y
-bomo	Va-f1p-n
-zagotovila	Vmep-pn
-,	Z
-naj	Cs
-ne	Q
-bodo	Va-f3p-n
-zaskrbljeni	Appmpn
-in	Cc
-v	Sl
-strahu	Ncmsl
-.	Z
-Z	Si
-njimi	Pp3mpi
-želimo	Vmpr1p
-sodelovati	Vmpn
-še	Q
-naprej	Rgp
-.	Z
-Upam	Vmpr1s
-,	Z
-da	Cs
-bo	Va-f3s-n
-ta	Pd-fsn
-zadeva	Ncfsn
-zalegla	Vmep-sf
-,	Z
-saj	Cc
-so	Va-r3p-n
-toliko	Rgp
-časa	Ncmsg
-že	Q
-sodelovali	Vmpp-pm
-z	Si
-nami	Pp1-pi
-in	Cc
-ni	Va-r3s-y
-kar	Rgp
-tako	Rgp
-izgubiti	Vmen
-take	Pd-fsg
-kapacitete	Ncfsg
-.	Z
-Z	Si
-njimi	Pp3mpi
-smo	Va-r1p-n
-v	Sl
-stiku	Ncmsl
-,	Z
-se	Px------y
-pogovarjamo	Vmpr1p
-.	Z
-Računamo	Vmpr1p
-,	Z
-da	Cs
-bomo	Va-f1p-n
-zagotovili	Vmep-pm
-te	Pd-fpa
-garancije	Ncfpa
-in	Cc
-nadaljevali	Vmpp-pm
-sodelovanje	Ncnsa
-,	Z
-je	Va-r3s-n
-prejšnji	Agpmsay
-teden	Ncmsan
-za	Sa
-24ur.com	Mdc
-povedal	Vmep-sm
-Starman	Npmsn
-.	Z
-Kot	Cs
-kaže	Vmpr3s
-,	Z
-jim	Pp3mpd--y
-je	Va-r3s-n
-uspelo	Vmep-sn
-.	Z
-Iz	Sg
-Huga	Npmsg
-Bossa	Npmsg
-so	Va-r3p-n
-namreč	Cc
-za	Sa
-24ur.com	Mdc
-danes	Rgp
-poslali	Vmep-pm
-sporočilo	Ncnsa
-Hugo	Npmsn
-Boss	Npmsn
-vztraja	Vmpr3s
-pri	Sl
-poslovnih	Agpmpl
-odnosih	Ncmpl
-z	Si
-Muro	Npfsi
-.	Z
-Vendar	Cc
-pa	Cc
-jih	Pp3mpa--y
-bomo	Va-f1p-n
-lahko	Rgp
-ohranili	Vmep-pm
-le	Q
-v	Sl
-primeru	Ncmsl
-,	Z
-da	Cs
-bodo	Va-f3p-n
-ohranili	Vmep-pm
-kakovost	Ncfsa
-izdelkov	Ncmpg
-in	Cc
-točnost	Ncfsa
-naročil	Vmep-sm
-.	Z
-Vse	Pg-nsa
-je	Va-r3s-n
-treba	Rgp
-postaviti	Vmen
-na	Sa
-temelje	Ncmpa
-Na	Sa
-novinarsko	Agpnsa
-vprašanje	Ncnsa
-,	Z
-na	Sa
-katera	Pq-npa
-področja	Ncnpa
-v	Sl
-podjetju	Ncnsl
-so	Va-r3p-n
-se	Px------y
-najprej	Rgs
-osredotočili	Vmep-pm
-,	Z
-pa	Cc
-je	Va-r3s-n
-danes	Rgp
-dejal	Vmep-sm
-Na	Sa
-vse	Pg-nsa
-se	Px------y
-moramo	Vmpr1p
-osredotočiti	Vmen
-,	Z
-eno	Mlpfsa
-so	Va-r3p-n
-pravni	Agpmpn
-postopki	Ncmpn
-,	Z
-spet	Rgp
-drugo	Mlpnsn
-tekoči	Appmpn
-postopki	Ncmpn
-in	Cc
-načrti	Ncmpn
-.	Z
-Najbolj	Rgs
-pa	Cc
-so	Va-r3p-n
-pomembni	Agpmpn
-predvsem	Q
-posli	Ncmpn
-,	Z
-ker	Cs
-bomo	Va-f1p-n
-od	Sg
-tega	Pd-nsg
-živeli	Vmpp-pm
-.	Z
-Čisto	Rgp
-vse	Pg-nsa
-je	Va-r3s-n
-treba	Rgp
-postaviti	Vmen
-na	Sa
-temelje	Ncmpa
-.	Z
-Vse	Pg-mpa
-,	Z
-posle	Ncmpa
-in	Cc
-organizacijo	Ncfsa
-.	Z
-Mi	Pp1-sd--y
-enostavno	Rgp
-delamo	Vmpr1p
-na	Sl
-tem	Pd-nsl
-,	Z
-kako	Rgp
-to	Pd-fsa
-stvar	Ncfsn
-zapeljati	Vmen
-naprej	Rgp
-,	Z
-da	Cs
-se	Px------y
-premaknemo	Vmer1p
-z	Sg
-mrtve	Agpfsg
-točke	Ncfsg
-.	Z
-Pogovarjamo	Vmpr1p
-se	Px------y
-,	Z
-da	Cs
-bomo	Va-f1p-n
-pravilno	Rgp
-ukrepali	Vmpp-pm
-,	Z
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-.	Z
-Glede	Sg
-sestanka	Ncmsg
-z	Si
-nekdanjim	Agpmsi
-tehničnim	Agpmsi
-direktorjem	Ncmsi
-Mure	Npfsg
-Milanom	Npmsi
-Mörcem	Npmsi
-pa	Cc
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-z	Si
-njim	Pp3msi
-dobil	Vmep-sm
-,	Z
-prav	Q
-tako	Rgp
-pa	Cc
-ima	Vmpr3s-n
-sestanke	Ncmpa
-tudi	Q
-s	Si
-pravniki	Ncmpi
-in	Cc
-drugimi	Mlpfpi
-službami	Ncfpi
-.	Z
-Vizija	Ncfsn
-je	Va-r3s-n
-jasna	Agpfsn
-Milan	Npmsn
-Mörec	Npmsn
-,	Z
-nekdanji	Agpmsny
-tehnični	Agpmsny
-direktor	Ncmsn
-in	Cc
-član	Ncmsn
-uprave	Ncfsg
-Mure	Npfsg
-,	Z
-od	Sg
-danes	Rgp
-naprej	Rgp
-pomaga	Vmbr3s
-Starmanu	Npmsd
-.	Z
-Človek	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sa
-Muro	Npfsa
-pripeljal	Vmep-sm
-tudi	Q
-nemški	Agpmsny
-Hugo	Npmsn
-Boss	Npmsn
-,	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-ta	Pd-fsn
-Mure	Npfsg
-ne	Q
-bo	Va-f3s-n
-zapustil	Vmep-sm
-.	Z
-Koliko	Rgp
-delavcev	Ncmpg
-bo	Va-f3s-n
-ohranilo	Vmep-sn
-delovna	Agpnpa
-mesta	Ncnpa
-,	Z
-za	Sa
-zdaj	Rgp
-še	Q
-ni	Va-r3s-y
-jasno	Agpnsn
-.	Z
-Vizija	Ncfsn
-je	Va-r3s-n
-jasna	Agpfsn
-,	Z
-do	Sg
-vseh	Pg-mpg
-partnerjev	Ncmpg
-in	Cc
-lastne	Agpfsg
-blagovne	Agpfsg
-znamke	Ncfsg
-je	Va-r3s-n
-treba	Rgp
-biti	Va-n
-strokoven	Agpmsnn
-,	Z
-pošten	Agpmsnn
-,	Z
-kakovosten	Agpmsnn
-.	Z
-Vedno	Rgp
-imam	Vmpr1s-n
-v	Sl
-mislih	Ncfpl
-pridne	Agpfpa
-delavke	Ncfpa
-,	Z
-ki	Cs
-delajo	Vmpr3p
-kakovostna	Agpnpa
-oblačil	Ncnpa
-,	Z
-in	Cc
-to	Pd-nsn
-bo	Va-f3s-n
-temelj	Ncmsn
-,	Z
-trudili	Vmpp-pm
-pa	Cc
-se	Px------y
-bomo	Va-f1p-n
-dobiti	Vmen
-čim	Rgp
-več	Rgc
-naročil	Vmep-sm
-in	Cc
-s	Si
-tem	Pd-nsi
-tudi	Q
-delo	Ncnsa
-za	Sa
-čim	Rgp
-več	Rgc
-delavcev	Ncmpg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Mörec	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-Muro	Npfsa
-zapustil	Vmep-sm
-pred	Si
-dvema	Mlcndi
-letoma	Ncndi
-,	Z
-sicer	Q
-pa	Cc
-je	Va-r3s-n
-delal	Vmpp-sm
-v	Sl
-njej	Pp3fsl
-30	Mdc
-let	Ncnpg
-.	Z
-Stečajni	Agpmsny
-postopek	Ncmsn
-Bojan	Npmsn
-Starman	Npmsn
-kot	Cs
-tudi	Q
-Milan	Npmsn
-Mörec	Npmsn
-ne	Q
-želita	Vmpr3d
-ugibati	Vmpn
-,	Z
-koliko	Rgp
-delavcev	Ncmpg
-bo	Va-f3s-n
-obdržalo	Vmep-sn
-delo	Ncnsa
-.	Z
-Delo	Ncnsn
-za	Sa
-spomladansko	Agpfsa
-kolekcijo	Ncfsa
-bo	Va-f3s-n
-težko	Agpnsn
-dobiti	Vmen
-,	Z
-ker	Cs
-je	Va-r3s-n
-že	Q
-prepozno	Agpnsn
-,	Z
-zagotovo	Rgp
-pa	Cc
-bo	Va-f3s-n
-več	Rgc
-dela	Ncnsg
-za	Sa
-prihodnjo	Agpfsa
-sezono	Ncfsa
-jesen	Ncfsn
--	Z
-zima	Ncfsn
-,	Z
-ki	Cs
-se	Px------y
-začne	Vmer3s
-pripravljati	Vmpn
-marca	Ncmsg
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Mörec	Npmsn
-.	Z
-Foto	Ncmsn
-POP	Npmsn
-TV	Npmsn
-Stečajni	Agpmsny
-postopek	Ncmsn
-Mure	Npfsg
-bo	Va-f3s-n
-sprožen	Appmsnn
-predvidoma	Rgp
-ta	Pd-msa
-teden	Ncmsan
-.	Z
-Starman	Npmsn
-je	Va-r3s-n
-pred	Si
-nekaj	Rgp
-dnevi	Ncmpi
-dejal	Vmep-sm
-,	Z
-da	Cs
-stvari	Ncfpn
-glede	Sg
-stečajnega	Agpmsg
-postopka	Ncmsg
-še	Q
-niso	Va-r3p-y
-dokončane	Appfpn
-,	Z
-da	Cs
-pa	Cc
-je	Va-r3s-n
-bolj	Rgc
-ali	Cc
-manj	Rgc
-jasno	Agpnsn
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-na	Sl
-mrtvih	Agpnpl
-podjetjih	Ncnpl
-izpeljal	Vmep-sm
-stečajni	Agpmsny
-postopek	Ncmsn
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-lahko	Rgp
-nadaljevalo	Vmpp-sn
-na	Sl
-novem	Agpnsl
-jedru	Ncnsl
-.	Z
+token	tag	lemma
+Starman	mte:Npmsn	Starman
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+Muri	mte:Npfsl	Muri
+vso	mte:Pg-fsa	ves
+energijo	mte:Ncfsa	energija
+usmerjajo	mte:Vmpr3p	usmerjati
+v	mte:Sa	v
+ohranitev	mte:Ncfsa	ohranitev
+poslov	mte:Ncmpg	posel
+.	mte:Z	.
+V	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+Hugo	mte:Npmsn	Hugo
+Boss	mte:Npmsn	Boss
+pa	mte:Cc	pa
+trdijo	mte:Vmpr3p	trditi
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+sodelovali	mte:Vmpp-pm	sodelovati
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+ohranili	mte:Vmep-pm	ohraniti
+kakovost	mte:Ncfsa	kakovost
+in	mte:Cc	in
+naročila	mte:Ncnpa	naročilo
+izpolnjevali	mte:Vmpp-pm	izpolnjevati
+v	mte:Sl	v
+roku	mte:Ncmsl	rok
+.	mte:Z	.
+Mi	mte:Pp1-sd--y	jaz
+enostavno	mte:Rgp	enostavno
+delamo	mte:Vmpr1p	delati
+,	mte:Z	,
+kako	mte:Rgp	kako
+to	mte:Pd-fsa	ta
+stvar	mte:Ncfsn	stvar
+zapeljati	mte:Vmen	zapeljati
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+premaknemo	mte:Vmer1p	premakniti
+z	mte:Sg	z
+mrtve	mte:Agpfsg	mrtev
+točke	mte:Ncfsg	točka
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+glede	mte:Sg	glede
+reševanja	mte:Ncnsg	reševanje
+Mure	mte:Npfsg	Mura
+dejal	mte:Vmep-sm	dejati
+Starman	mte:Npmsn	Starman
+.	mte:Z	.
+Novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Mure	mte:Npfsg	Mura
+Bojan	mte:Npmsn	Bojan
+Starman	mte:Npmsn	Starman
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+24ur.com	mte:Mdc	24ur.co
+komentiral	mte:Vmbp-sm	komentirati
+dogajanje	mte:Ncnsa	dogajanje
+v	mte:Sl	v
+Muri	mte:Npfsl	Muri
+.	mte:Z	.
+Vse	mte:Pg-nsa	ves
+delamo	mte:Vmpr1p	delati
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+smeri	mte:Ncfsl	smer
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+posli	mte:Ncmpn	posel
+ohranijo	mte:Vmer3p	ohraniti
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+stvari	mte:Ncfpn	stvar
+normalizirajo	mte:Vmbr3p	normalizirati
+ter	mte:Cc	ter
+da	mte:Cs	da
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+ugotovimo	mte:Vmer1p	ugotoviti
+,	mte:Z	,
+koliko	mte:Rgp	koliko
+delavcev	mte:Ncmpg	delavec
+potrebujemo	mte:Vmpr1p	potrebovati
+.	mte:Z	.
+Vse	mte:Pg-nsn	ves
+to	mte:Pd-nsn	ta
+v	mte:Sl	v
+tako	mte:Rgp	tako
+velikem	mte:Agpnsl	velik
+podjetju	mte:Ncnsl	podjetje
+ni	mte:Va-r3s-y	biti
+enostavno	mte:Agpnsn	enostaven
+,	mte:Z	,
+vsega	mte:Pg-nsg	ves
+se	mte:Px------y	se
+ne	mte:Q	ne
+da	mte:Vmer3s	dati
+naenkrat	mte:Rgp	naenkrat
+urediti	mte:Vmen	urediti
+.	mte:Z	.
+Še	mte:Q	še
+vedno	mte:Rgp	vedno
+delajo	mte:Vmpr3p	delati
+tudi	mte:Q	tudi
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+prepričajo	mte:Vmer3p	prepričati
+podjetje	mte:Ncnsa	podjetje
+Hugo	mte:Npmsn	Hugo
+Boss	mte:Npmsn	Boss
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+stvari	mte:Ncfpn	stvar
+normalizirajo	mte:Vmbr3p	normalizirati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+Starman	mte:Npmsn	Starman
+.	mte:Z	.
+Poslali	mte:Vmep-pm	poslati
+jim	mte:Pp3mpd--y	on
+bomo	mte:Va-f1p-n	biti
+zagotovila	mte:Vmep-pn	zagotoviti
+,	mte:Z	,
+naj	mte:Cs	naj
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+zaskrbljeni	mte:Appmpn	zaskrbljen
+in	mte:Cc	in
+v	mte:Sl	v
+strahu	mte:Ncmsl	strah
+.	mte:Z	.
+Z	mte:Si	z
+njimi	mte:Pp3mpi	on
+želimo	mte:Vmpr1p	želeti
+sodelovati	mte:Vmpn	sodelovati
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+.	mte:Z	.
+Upam	mte:Vmpr1s	upati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+ta	mte:Pd-fsn	ta
+zadeva	mte:Ncfsn	zadeva
+zalegla	mte:Vmep-sf	zaleči
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+toliko	mte:Rgp	toliko
+časa	mte:Ncmsg	čas
+že	mte:Q	že
+sodelovali	mte:Vmpp-pm	sodelovati
+z	mte:Si	z
+nami	mte:Pp1-pi	jaz
+in	mte:Cc	in
+ni	mte:Va-r3s-y	biti
+kar	mte:Rgp	kar
+tako	mte:Rgp	tako
+izgubiti	mte:Vmen	izgubiti
+take	mte:Pd-fsg	tak
+kapacitete	mte:Ncfsg	kapaciteta
+.	mte:Z	.
+Z	mte:Si	z
+njimi	mte:Pp3mpi	on
+smo	mte:Va-r1p-n	biti
+v	mte:Sl	v
+stiku	mte:Ncmsl	stik
+,	mte:Z	,
+se	mte:Px------y	se
+pogovarjamo	mte:Vmpr1p	pogovarjati
+.	mte:Z	.
+Računamo	mte:Vmpr1p	računati
+,	mte:Z	,
+da	mte:Cs	da
+bomo	mte:Va-f1p-n	biti
+zagotovili	mte:Vmep-pm	zagotoviti
+te	mte:Pd-fpa	ta
+garancije	mte:Ncfpa	garancija
+in	mte:Cc	in
+nadaljevali	mte:Vmpp-pm	nadaljevati
+sodelovanje	mte:Ncnsa	sodelovanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+za	mte:Sa	za
+24ur.com	mte:Mdc	24ur.co
+povedal	mte:Vmep-sm	povedati
+Starman	mte:Npmsn	Starman
+.	mte:Z	.
+Kot	mte:Cs	kot
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+uspelo	mte:Vmep-sn	uspeti
+.	mte:Z	.
+Iz	mte:Sg	iz
+Huga	mte:Npmsg	Hug
+Bossa	mte:Npmsg	Bossa
+so	mte:Va-r3p-n	biti
+namreč	mte:Cc	namreč
+za	mte:Sa	za
+24ur.com	mte:Mdc	24ur.co
+danes	mte:Rgp	danes
+poslali	mte:Vmep-pm	poslati
+sporočilo	mte:Ncnsa	sporočilo
+Hugo	mte:Npmsn	Hugo
+Boss	mte:Npmsn	Boss
+vztraja	mte:Vmpr3s	vztrajati
+pri	mte:Sl	pri
+poslovnih	mte:Agpmpl	posloven
+odnosih	mte:Ncmpl	odnos
+z	mte:Si	z
+Muro	mte:Npfsi	Mura
+.	mte:Z	.
+Vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+bomo	mte:Va-f1p-n	biti
+lahko	mte:Rgp	lahko
+ohranili	mte:Vmep-pm	ohraniti
+le	mte:Q	le
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+ohranili	mte:Vmep-pm	ohraniti
+kakovost	mte:Ncfsa	kakovost
+izdelkov	mte:Ncmpg	izdelek
+in	mte:Cc	in
+točnost	mte:Ncfsa	točnost
+naročil	mte:Vmep-sm	naročiti
+.	mte:Z	.
+Vse	mte:Pg-nsa	ves
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+postaviti	mte:Vmen	postaviti
+na	mte:Sa	na
+temelje	mte:Ncmpa	temelje
+Na	mte:Sa	na
+novinarsko	mte:Agpnsa	novinarski
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+na	mte:Sa	na
+katera	mte:Pq-npa	kateri
+področja	mte:Ncnpa	področje
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+najprej	mte:Rgs	najprej
+osredotočili	mte:Vmep-pm	osredotočiti
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+dejal	mte:Vmep-sm	dejati
+Na	mte:Sa	na
+vse	mte:Pg-nsa	ves
+se	mte:Px------y	se
+moramo	mte:Vmpr1p	morati
+osredotočiti	mte:Vmen	osredotočiti
+,	mte:Z	,
+eno	mte:Mlpfsa	en
+so	mte:Va-r3p-n	biti
+pravni	mte:Agpmpn	praven
+postopki	mte:Ncmpn	postopek
+,	mte:Z	,
+spet	mte:Rgp	spet
+drugo	mte:Mlpnsn	drug
+tekoči	mte:Appmpn	tekoč
+postopki	mte:Ncmpn	postopek
+in	mte:Cc	in
+načrti	mte:Ncmpn	načrt
+.	mte:Z	.
+Najbolj	mte:Rgs	najbolj
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+pomembni	mte:Agpmpn	pomemben
+predvsem	mte:Q	predvsem
+posli	mte:Ncmpn	posel
+,	mte:Z	,
+ker	mte:Cs	ker
+bomo	mte:Va-f1p-n	biti
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+živeli	mte:Vmpp-pm	živeti
+.	mte:Z	.
+Čisto	mte:Rgp	čisto
+vse	mte:Pg-nsa	ves
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+postaviti	mte:Vmen	postaviti
+na	mte:Sa	na
+temelje	mte:Ncmpa	temelje
+.	mte:Z	.
+Vse	mte:Pg-mpa	ves
+,	mte:Z	,
+posle	mte:Ncmpa	posel
+in	mte:Cc	in
+organizacijo	mte:Ncfsa	organizacija
+.	mte:Z	.
+Mi	mte:Pp1-sd--y	jaz
+enostavno	mte:Rgp	enostavno
+delamo	mte:Vmpr1p	delati
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kako	mte:Rgp	kako
+to	mte:Pd-fsa	ta
+stvar	mte:Ncfsn	stvar
+zapeljati	mte:Vmen	zapeljati
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+premaknemo	mte:Vmer1p	premakniti
+z	mte:Sg	z
+mrtve	mte:Agpfsg	mrtev
+točke	mte:Ncfsg	točka
+.	mte:Z	.
+Pogovarjamo	mte:Vmpr1p	pogovarjati
+se	mte:Px------y	se
+,	mte:Z	,
+da	mte:Cs	da
+bomo	mte:Va-f1p-n	biti
+pravilno	mte:Rgp	pravilno
+ukrepali	mte:Vmpp-pm	ukrepati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+.	mte:Z	.
+Glede	mte:Sg	glede
+sestanka	mte:Ncmsg	sestanka
+z	mte:Si	z
+nekdanjim	mte:Agpmsi	nekdanji
+tehničnim	mte:Agpmsi	tehničen
+direktorjem	mte:Ncmsi	direktor
+Mure	mte:Npfsg	Mura
+Milanom	mte:Npmsi	Milan
+Mörcem	mte:Npmsi	Mörce
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+njim	mte:Pp3msi	on
+dobil	mte:Vmep-sm	dobiti
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+ima	mte:Vmpr3s-n	imeti
+sestanke	mte:Ncmpa	sestanek
+tudi	mte:Q	tudi
+s	mte:Si	z
+pravniki	mte:Ncmpi	pravnik
+in	mte:Cc	in
+drugimi	mte:Mlpfpi	drug
+službami	mte:Ncfpi	služba
+.	mte:Z	.
+Vizija	mte:Ncfsn	vizija
+je	mte:Va-r3s-n	biti
+jasna	mte:Agpfsn	jasen
+Milan	mte:Npmsn	Milan
+Mörec	mte:Npmsn	Mörec
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+tehnični	mte:Agpmsny	tehničen
+direktor	mte:Ncmsn	direktor
+in	mte:Cc	in
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+Mure	mte:Npfsg	Mura
+,	mte:Z	,
+od	mte:Sg	od
+danes	mte:Rgp	danes
+naprej	mte:Rgp	naprej
+pomaga	mte:Vmbr3s	pomagati
+Starmanu	mte:Npmsd	Starman
+.	mte:Z	.
+Človek	mte:Ncmsn	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+Muro	mte:Npfsa	Mura
+pripeljal	mte:Vmep-sm	pripeljati
+tudi	mte:Q	tudi
+nemški	mte:Agpmsny	nemški
+Hugo	mte:Npmsn	Hugo
+Boss	mte:Npmsn	Boss
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-fsn	ta
+Mure	mte:Npfsg	Mura
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+zapustil	mte:Vmep-sm	zapustiti
+.	mte:Z	.
+Koliko	mte:Rgp	koliko
+delavcev	mte:Ncmpg	delavec
+bo	mte:Va-f3s-n	biti
+ohranilo	mte:Vmep-sn	ohraniti
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+,	mte:Z	,
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+jasno	mte:Agpnsn	jasen
+.	mte:Z	.
+Vizija	mte:Ncfsn	vizija
+je	mte:Va-r3s-n	biti
+jasna	mte:Agpfsn	jasen
+,	mte:Z	,
+do	mte:Sg	do
+vseh	mte:Pg-mpg	ves
+partnerjev	mte:Ncmpg	partner
+in	mte:Cc	in
+lastne	mte:Agpfsg	lasten
+blagovne	mte:Agpfsg	blagoven
+znamke	mte:Ncfsg	znamka
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+biti	mte:Va-n	biti
+strokoven	mte:Agpmsnn	strokoven
+,	mte:Z	,
+pošten	mte:Agpmsnn	pošten
+,	mte:Z	,
+kakovosten	mte:Agpmsnn	kakovosten
+.	mte:Z	.
+Vedno	mte:Rgp	vedno
+imam	mte:Vmpr1s-n	imeti
+v	mte:Sl	v
+mislih	mte:Ncfpl	misel
+pridne	mte:Agpfpa	priden
+delavke	mte:Ncfpa	delavka
+,	mte:Z	,
+ki	mte:Cs	ki
+delajo	mte:Vmpr3p	delati
+kakovostna	mte:Agpnpa	kakovosten
+oblačil	mte:Ncnpa	oblačilo
+,	mte:Z	,
+in	mte:Cc	in
+to	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+temelj	mte:Ncmsn	temelj
+,	mte:Z	,
+trudili	mte:Vmpp-pm	truditi
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bomo	mte:Va-f1p-n	biti
+dobiti	mte:Vmen	dobiti
+čim	mte:Rgp	čim
+več	mte:Rgc	več
+naročil	mte:Vmep-sm	naročiti
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+tudi	mte:Q	tudi
+delo	mte:Ncnsa	delo
+za	mte:Sa	za
+čim	mte:Rgp	čim
+več	mte:Rgc	več
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Mörec	mte:Npmsn	Mörec
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+Muro	mte:Npfsa	Mura
+zapustil	mte:Vmep-sm	zapustiti
+pred	mte:Si	pred
+dvema	mte:Mlcndi	dva
+letoma	mte:Ncndi	leto
+,	mte:Z	,
+sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+delal	mte:Vmpp-sm	delati
+v	mte:Sl	v
+njej	mte:Pp3fsl	on
+30	mte:Mdc	30
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Stečajni	mte:Agpmsny	stečajen
+postopek	mte:Ncmsn	postopek
+Bojan	mte:Npmsn	Bojan
+Starman	mte:Npmsn	Starman
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+Milan	mte:Npmsn	Milan
+Mörec	mte:Npmsn	Mörec
+ne	mte:Q	ne
+želita	mte:Vmpr3d	želeti
+ugibati	mte:Vmpn	ugibati
+,	mte:Z	,
+koliko	mte:Rgp	koliko
+delavcev	mte:Ncmpg	delavec
+bo	mte:Va-f3s-n	biti
+obdržalo	mte:Vmep-sn	obdržati
+delo	mte:Ncnsa	delo
+.	mte:Z	.
+Delo	mte:Ncnsn	delo
+za	mte:Sa	za
+spomladansko	mte:Agpfsa	spomladanski
+kolekcijo	mte:Ncfsa	kolekcija
+bo	mte:Va-f3s-n	biti
+težko	mte:Agpnsn	težek
+dobiti	mte:Vmen	dobiti
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+prepozno	mte:Agpnsn	prepozen
+,	mte:Z	,
+zagotovo	mte:Rgp	zagotovo
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+več	mte:Rgc	več
+dela	mte:Ncnsg	delo
+za	mte:Sa	za
+prihodnjo	mte:Agpfsa	prihodnji
+sezono	mte:Ncfsa	sezona
+jesen	mte:Ncfsn	jesen
+-	mte:Z	-
+zima	mte:Ncfsn	zima
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+začne	mte:Vmer3s	začeti
+pripravljati	mte:Vmpn	pripravljati
+marca	mte:Ncmsg	marec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Mörec	mte:Npmsn	Mörec
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+POP	mte:Npmsn	POP
+TV	mte:Ncmsn	TV
+Stečajni	mte:Agpmsny	stečajen
+postopek	mte:Ncmsn	postopek
+Mure	mte:Npfsg	Mura
+bo	mte:Va-f3s-n	biti
+sprožen	mte:Appmsnn	sprožen
+predvidoma	mte:Rgp	predvidoma
+ta	mte:Pd-msa	ta
+teden	mte:Ncmsan	teden
+.	mte:Z	.
+Starman	mte:Npmsn	Starman
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+nekaj	mte:Rgp	nekaj
+dnevi	mte:Ncmpi	dan
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+stvari	mte:Ncfpn	stvar
+glede	mte:Sg	glede
+stečajnega	mte:Agpmsg	stečajen
+postopka	mte:Ncmsg	postopek
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+dokončane	mte:Appfpn	dokončan
+,	mte:Z	,
+da	mte:Cs	da
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bolj	mte:Rgc	bolj
+ali	mte:Cc	ali
+manj	mte:Rgc	manj
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+mrtvih	mte:Agpnpl	mrtev
+podjetjih	mte:Ncnpl	podjetje
+izpeljal	mte:Vmep-sm	izpeljati
+stečajni	mte:Agpmsny	stečajen
+postopek	mte:Ncmsn	postopek
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+lahko	mte:Rgp	lahko
+nadaljevalo	mte:Vmpp-sn	nadaljevati
+na	mte:Sl	na
+novem	mte:Agpnsl	nov
+jedru	mte:Ncnsl	jedro
+.	mte:Z	.
+Tako	mte:Rgp	tako
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+katera	mte:Pq-npn	kateri
+podjetja	mte:Ncnpn	podjetje
+iz	mte:Sg	iz
+Murine	mte:Aspfsg	murin
+skupine	mte:Ncfsg	skupina
+bodo	mte:Va-f3p-n	biti
+šla	mte:Vmbp-pn	iti
+v	mte:Sa	v
+stečaj	mte:Ncmsan	stečaj
+,	mte:Z	,
+saj	mte:Cc	saj
+Starman	mte:Npmsn	Starman
+še	mte:Q	še
+nima	mte:Vmpr3s-y	imeti
+vseh	mte:Pg-mpg	ves
+podatkov	mte:Ncmpg	podatek
+iz	mte:Sg	iz
+bilanc	mte:Ncfpg	bilanca
+teh	mte:Pd-npg	ta
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+po	mte:Sl	po
+katerih	mte:Pq-mpl	kateri
+bo	mte:Va-f3s-n	biti
+ugotovil	mte:Vmep-sm	ugotoviti
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+podani	mte:Appmpn	podan
+razlogi	mte:Ncmpn	razlog
+za	mte:Sa	za
+stečaj	mte:Ncmsan	stečaj
+ali	mte:Cc	ali
+ne	mte:Q	ne

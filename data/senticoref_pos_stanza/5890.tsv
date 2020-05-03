@@ -1,139 +1,156 @@
-token	tag
-Ameriški	Agpmsny
-predsednik	Ncmsn
-Barack	Npmsn
-Obama	Npmsn
-se	Px------y
-je	Va-r3s-n
-uvrstil	Vmep-sm
-na	Sa
-vrh	Ncmsan
-lestvice	Ncfsg
-najvplivnejših	Agsmpg
-ljudi	Ncmpg
-na	Sl
-svetu	Ncmsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-danes	Rgp
-objavila	Vmep-sf
-znana	Appfsn
-ameriška	Agpfsn
-revija	Ncfsn
-Forbes	Npmsn
-Po	Sl
-lestvici	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-objavlja	Vmpr3s
-Forbes	Npmsn
-se	Px------y
-je	Va-r3s-n
-na	Sa
-drugo	Mlpnsa
-mesto	Ncnsa
-uvrstila	Vmep-sf
-nemška	Agpfsn
-kanclerka	Ncfsn
-Angela	Npfsn
-Merkel	Npfsn
-,	Z
-tretji	Mlomsn
-pa	Cc
-je	Va-r3s-n
-ruski	Agpmsny
-predsednik	Ncmsn
-Vladimir	Npmsn
-Putin	Npmsn
-.	Z
-Bernanke	Npfsg
-na	Sl
-šestem	Mlonsl
-mestu	Ncnsl
-Na	Sl
-četrtem	Mlonsl
-mestu	Ncnsl
-je	Va-r3s-n
-ustanovitelj	Ncmsn
-Microsofta	Npmsg
-Bill	Npmsn
-Gates	Npmsn
-,	Z
-na	Sl
-petem	Mlonsl
-pa	Cc
-papež	Ncmsn
-Benedikt	Npmsn
-XVI	Npmsn
-.	Z
-Šesti	Mlomsn
-je	Va-r3s-n
-prvi	Mlomsn
-mož	Ncmsn
-ameriške	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-Ben	Npmsn
-Bernanke	Npfsg
-,	Z
-sedmi	Mlomsn
-pa	Cc
-savdski	Agpmsny
-kralj	Ncmsn
-Abdulah	Npfsn
-bin	Npmsn
-Abdulaziz	Npmsn
-al	Npmsn
-Saud	Npmsn
-.	Z
-Osmi	Mlomsn
-je	Va-r3s-n
-Draghi	Npmsn
-Osmi	Mlomsn
-je	Va-r3s-n
-predsednik	Ncmsn
-Evropske	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-Mario	Npmsn
-Draghi	Npmsn
-,	Z
-deveti	Mlomsn
-novi	Agpmsny
-predsednik	Ncmsn
-kitajske	Agpfsg
-komunistične	Agpfsg
-partije	Ncfsg
-Xi	Npmsn
-Jinping	Npmsn
-,	Z
-deseti	Mlomsn
-pa	Cc
-britanski	Agpmsny
-premier	Ncmsn
-David	Npmsn
-Cameron	Npmsn
-.	Z
-Najbogatejši	Agsmsny
-Zemljan	Ncmsn
-na	Sl
-11	Mdc
-.	Z
-mestu	Ncnsl
-Na	Sl
-enajstem	Mlonsl
-mestu	Ncnsl
-je	Va-r3s-n
-najbogatejši	Agsmsny
-Zemljan	Ncmsn
-,	Z
-mehiški	Agpmsny
-telekomunikacijski	Agpmsny
-tajkun	Ncmsn
-Carlos	Npmsn
-Slim	Npmsn
-Helu	Npmsd
-.	Z
+token	tag	lemma
+Ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+Barack	mte:Npmsn	Barack
+Obama	mte:Npmsn	Obam
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+uvrstil	mte:Vmep-sm	uvrstiti
+na	mte:Sa	na
+vrh	mte:Ncmsan	vrh
+lestvice	mte:Ncfsg	lestvica
+najvplivnejših	mte:Agsmpg	visoven
+ljudi	mte:Ncmpg	človek
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+objavila	mte:Vmep-sf	objaviti
+znana	mte:Appfsn	znan
+ameriška	mte:Agpfsn	ameriški
+revija	mte:Ncfsn	revija
+Forbes	mte:Npmsn	Forbes
+Po	mte:Sl	po
+lestvici	mte:Ncfsl	lestvica
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+objavlja	mte:Vmpr3s	objavljati
+Forbes	mte:Npmsn	Forbes
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+drugo	mte:Mlpnsa	drug
+mesto	mte:Ncnsa	mesto
+uvrstila	mte:Vmep-sf	uvrstiti
+nemška	mte:Agpfsn	nemški
+kanclerka	mte:Ncfsn	kanclerka
+Angela	mte:Npfsn	Angela
+Merkel	mte:Npfsn	Merkel
+,	mte:Z	,
+tretji	mte:Mlomsn	tretji
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+ruski	mte:Agpmsny	ruski
+predsednik	mte:Ncmsn	predsednik
+Vladimir	mte:Npmsn	Vladimir
+Putin	mte:Npmsn	Putin
+.	mte:Z	.
+Bernanke	mte:Npfsg	Bernanka
+na	mte:Sl	na
+šestem	mte:Mlonsl	šesti
+mestu	mte:Ncnsl	mesto
+Na	mte:Sl	na
+četrtem	mte:Mlonsl	četrti
+mestu	mte:Ncnsl	mesto
+je	mte:Va-r3s-n	biti
+ustanovitelj	mte:Ncmsn	ustanovitelj
+Microsofta	mte:Npmsg	Microsoft
+Bill	mte:Npmsn	Bill
+Gates	mte:Npmsn	Gates
+,	mte:Z	,
+na	mte:Sl	na
+petem	mte:Mlonsl	peti
+pa	mte:Cc	pa
+papež	mte:Ncmsn	papež
+Benedikt	mte:Npmsn	Benedikt
+XVI	mte:Npmsn	XVI
+.	mte:Z	.
+Šesti	mte:Mlomsn	šesti
+je	mte:Va-r3s-n	biti
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+ameriške	mte:Agpfsg	ameriški
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+Ben	mte:Npmsn	Ben
+Bernanke	mte:Npfsg	Bernanka
+,	mte:Z	,
+sedmi	mte:Mlomsn	sedmi
+pa	mte:Cc	pa
+savdski	mte:Agpmsny	savdski
+kralj	mte:Ncmsn	kralj
+Abdulah	mte:Npfsn	Abdula
+bin	mte:Npmsn	bin
+Abdulaziz	mte:Npmsn	Abdulaziz
+al	mte:Npmsn	ali
+Saud	mte:Npmsn	Saud
+.	mte:Z	.
+Osmi	mte:Mlomsn	osmi
+je	mte:Va-r3s-n	biti
+Draghi	mte:Npmsn	Draghi
+Osmi	mte:Mlomsn	osmi
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+Evropske	mte:Agpfsg	evropski
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+Mario	mte:Npmsn	Maria
+Draghi	mte:Npmsn	Draghi
+,	mte:Z	,
+deveti	mte:Mlomsn	deveti
+novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+kitajske	mte:Agpfsg	kitajski
+komunistične	mte:Agpfsg	komunističen
+partije	mte:Ncfsg	partija
+Xi	mte:Npmsn	Xi
+Jinping	mte:Npmsn	Jinping
+,	mte:Z	,
+deseti	mte:Mlomsn	deseti
+pa	mte:Cc	pa
+britanski	mte:Agpmsny	britanski
+premier	mte:Ncmsn	premier
+David	mte:Npmsn	David
+Cameron	mte:Npmsn	Cameron
+.	mte:Z	.
+Najbogatejši	mte:Agsmsny	bogat
+Zemljan	mte:Ncmsn	zemljan
+na	mte:Sl	na
+11	mte:Mdc	11
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+Na	mte:Sl	na
+enajstem	mte:Mlonsl	enajsti
+mestu	mte:Ncnsl	mesto
+je	mte:Va-r3s-n	biti
+najbogatejši	mte:Agsmsny	bogat
+Zemljan	mte:Ncmsn	zemljan
+,	mte:Z	,
+mehiški	mte:Agpmsny	mehiški
+telekomunikacijski	mte:Agpmsny	telekomunikacijski
+tajkun	mte:Ncmsn	tajkun
+Carlos	mte:Npmsn	Carlos
+Slim	mte:Npmsn	Slim
+Helu	mte:Npmsd	Helo
+.	mte:Z	.
+Na	mte:Sa	na
+dvanajsto	mte:Mlonsa	dvanajsti
+mesto	mte:Ncnsa	mesto
+je	mte:Va-r3s-n	biti
+uvrščena	mte:Appfsn	uvrščen
+druga	mte:Mlpfsn	drug
+najvplivnejša	mte:Agsfsn	visoven
+ženska	mte:Ncfsn	ženska
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+,	mte:Z	,
+voditeljica	mte:Ncfsn	voditeljica
+indijske	mte:Agpfsg	indijski
+vladajoče	mte:Appfsg	vladajoč
+stranke	mte:Ncfsg	stranka
+Sonia	mte:Npfsn	Sonia
+Gandhi	mte:Npfsn	Gandha

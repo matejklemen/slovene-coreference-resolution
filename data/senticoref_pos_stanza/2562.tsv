@@ -1,587 +1,589 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Francoska	Agpfsn
-vlada	Ncfsn
-naj	Q
-bi	Va-c
-po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-od	Sg
-slovenske	Agpfsg
-države	Ncfsg
-pričakovala	Vmpp-sf
-pomoč	Ncfsa
-novomeški	Agpfsd
-družbi	Ncfsd
-Revoz	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-lasti	Ncfsl
-francoskega	Agpmsg
-avtomobilskega	Agpmsg
-koncerna	Ncmsg
-Renault	Npmsn
-.	Z
-To	Pd-nsa
-naj	Q
-bi	Va-c
-predsedniku	Ncmsd
-vlade	Ncfsg
-Borutu	Npmsd
-Pahorju	Npmsd
-ob	Sl
-obisku	Ncmsl
-v	Sl
-Franciji	Npfsl
-v	Sl
-začetku	Ncmsl
-februarja	Ncmsg
-namignil	Vmep-sm
-tudi	Q
-francoski	Agpmsny
-predsednik	Ncmsn
-Nicolas	Npmsn
-Sarkozy	Npmsn
-.	Z
-Odgovorov	Ncmpg
-nam	Pp1-pd
-iz	Sg
-urada	Ncmsg
-predsednika	Ncmsg
-vlade	Ncfsg
-včeraj	Rgp
-do	Sg
-zaključka	Ncmsg
-redakcije	Ncfsg
-niso	Va-r3p-y
-posredovali	Vmbp-pm
-.	Z
-Tako	Rgp
-tudi	Q
-ni	Va-r3s-y
-znano	Appnsn
-,	Z
-ali	Rgp
-sta	Va-r3d-n
-se	Px------y
-slovenska	Agpfsn
-in	Cc
-francoska	Agpfsn
-stran	Ncfsn
-že	Q
-dogovorili	Vmep-dm
-o	Sl
-višini	Ncfsl
-in	Cc
-načinu	Ncmsl
-morebitne	Agpfsg
-pomoči	Ncfsg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-velja	Vmpr3s
-spomniti	Vmen
-,	Z
-da	Cs
-je	Va-r3s-n
-finančni	Agpmsny
-minister	Ncmsn
-Franc	Npmsn
-Križanič	Npmsn
-le	Q
-nekaj	Rgp
-dni	Ncmpg
-po	Sl
-obisku	Ncmsl
-v	Sl
-Parizu	Npmsl
-povedal	Vmep-sm
-,	Z
-da	Cs
-delavcem	Ncmpd
-Revoza	Npmsg
-ni	Va-r3s-y
-treba	Rgp
-skrbeti	Vmpn
-za	Sa
-delovna	Agpnpa
-mesta	Ncnpa
-.	Z
-"	Z
-Po	Sl
-zagotovilih	Ncnpl
-odgovornih	Agpmpg
-v	Sl
-Franciji	Npfsl
-ostaja	Vmpr3s
-ta	Pd-fsn
-tovarna	Ncfsn
-pomemben	Agpmsnn
-del	Ncmsn
-Renaulta	Npmsg
-,	Z
-"	Z
-je	Va-r3s-n
-v	Sl
-Bruslju	Npmsl
-dejal	Vmep-sm
-Križanič	Npmsn
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-finance	Ncfpa
-sicer	Q
-trdijo	Vmpr3p
-,	Z
-da	Cs
-posebna	Agpfsn
-pomoč	Ncfsn
-za	Sa
-Revoz	Npmsan
-v	Sl
-tem	Pd-msl
-trenutku	Ncmsl
-ni	Va-r3s-y
-predvidena	Appfsn
-.	Z
-"	Z
-Revoz	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-že	Q
-v	Sl
-preteklosti	Ncfsl
-deležen	Agpmsnn
-podpore	Ncfsg
-slovenske	Agpfsg
-vlade	Ncfsg
-pri	Sl
-razvojnih	Agpmpl
-projektih	Ncmpl
-.	Z
-Glede	Rgp
-na	Sa
-pomen	Ncmsan
-,	Z
-ki	Cs
-ga	Pp3msa--y
-ima	Vmpr3s-n
-naše	Ps2nsnp
-podjetje	Ncnsn
-v	Sl
-slovenskem	Agpnsl
-gospodarstvu	Ncnsl
-,	Z
-pričakujemo	Vmpr1p
-,	Z
-da	Cs
-bo	Va-f3s-n
-vlada	Ncfsn
-tudi	Q
-v	Sa
-bodoče	Agpmpa
-podpirala	Vmpp-sf
-nadaljnji	Agpmsay
-razvoj	Ncmsan
-podjetja	Ncnsg
-,	Z
-"	Z
-pa	Cc
-odgovarjajo	Vmpr3p
-v	Sl
-Revozu	Npmsl
-na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-pričakujejo	Vmpr3p
-kakšne	Pq-mpa
-ukrepe	Ncmpa
-slovenske	Agpfsg
-države	Ncfsg
-,	Z
-namenjene	Appfsg
-neposredno	Rgp
-njihovi	Ps3fslp
-družbi	Ncfsd
-.	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-je	Va-r3s-n
-Francija	Npfsn
-svoji	Px-fsd
-avtomobilski	Agpfsd
-industriji	Ncfsd
-namenila	Vmep-sf
-nekaj	Rgp
-manj	Rgc
-kot	Cs
-osem	Mlc-pa
-milijard	Ncfpg
-evrov	Ncmpg
-pomoči	Ncfsg
-,	Z
-od	Sg
-tega	Pd-nsg
-tri	Mlcfpa
-milijarde	Ncfpa
-evrov	Ncmpg
-Renaultu	Npmsd
-.	Z
-Ta	Pd-fsn
-ima	Vmpr3s-n
-tovarne	Ncfpa
-v	Sl
-več	Rgc
-evropskih	Agpfpl
-državah	Ncfpl
-in	Cc
-Francozi	Npmpl
-naj	Q
-bi	Va-c
-zdaj	Rgp
-pričakovali	Vmpp-pm
-,	Z
-da	Cs
-svoj	Px-msa
-delež	Ncmsan
-prispevajo	Vmbr3p
-tudi	Q
-same	Agpfpa
-.	Z
-Da	Cs
-bodo	Va-f3p-n
-francoski	Agpmpn
-ukrepi	Ncmpn
-prispevali	Vmbp-pm
-k	Sd
-ohranjanju	Ncnsd
-delovnih	Agpnpg
-mest	Ncnpg
-tudi	Q
-v	Sl
-drugih	Mlpfpl
-članicah	Ncfpl
-EU	Npfsg
-,	Z
-je	Va-r3s-n
-eden	Mlpmsn
-od	Sg
-argumentov	Ncmpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-se	Px------y
-Francija	Npfsn
-brani	Vmpr3s
-očitkov	Ncmpg
-o	Sl
-protekcionistični	Agpfsl
-naravi	Ncfsl
-pomoči	Ncfsg
-domači	Agpfsd
-avtomobilski	Agpfsd
-industriji	Ncfsd
-.	Z
-A	Cc
-ob	Sl
-tem	Pd-nsl
-velja	Vmpr3s
-omeniti	Vmen
-,	Z
-da	Cs
-morajo	Vmpr3p
-francoski	Agpmpn
-avtomobilski	Agpmpn
-koncerni	Ncmpn
-za	Sa
-pridobitev	Ncfsa
-pomoči	Ncfsg
-francoske	Agpfsg
-države	Ncfsg
-ohraniti	Vmen
-tovarne	Ncfpa
-v	Sl
-Franciji	Npfsl
-,	Z
-medtem	Rgp
-ko	Cs
-o	Sl
-tovarnah	Ncfpl
-v	Sl
-Sloveniji	Npfsl
-in	Cc
-drugih	Mlpfpl
-evropskih	Agpfpl
-državah	Ncfpl
-paket	Ncmsan
-ne	Q
-govori	Vmpr3s
-.	Z
-"	Z
-Smo	Va-r1p-n
-enakopravni	Agpmsny
-del	Ncmsn
-Renaultovega	Aspmsg
-sistema	Ncmsg
-,	Z
-tako	Cc
-da	Cs
-bomo	Va-f1p-n
-enakovredno	Rgp
-deležni	Agpmpn
-zadnjih	Agpfpg
-pomoči	Ncfpg
-francoske	Agpfsg
-države	Ncfsg
-,	Z
-"	Z
-pa	Cc
-pojasnjujejo	Vmpr3p
-v	Sl
-Revozu	Npmsl
-.	Z
-"	Z
-Podjetja	Ncnpn
-bodo	Va-f3p-n
-pomoči	Ncfpn
-deležna	Agpnpn
-v	Sl
-sklopu	Ncmsl
-avtomobilskega	Agpmsg
-grozda	Ncmsg
-,	Z
-med	Si
-njimi	Pp3mpi
-tudi	Q
-Revoz	Npmsn
-,	Z
-"	Z
-še	Q
-pojasnjujejo	Vmpr3p
-na	Sl
-finančnem	Agpnsl
-ministrstvu	Ncnsl
-.	Z
-Kot	Cs
-smo	Va-r1p-n
-že	Q
-poročali	Vmpp-pm
-,	Z
-naj	Q
-bi	Va-c
-se	Px------y
-avtomobilski	Agpfsd
-industriji	Ncfsd
-v	Sl
-Sloveniji	Npfsl
-obetalo	Vmpp-sn
-posojilo	Ncnsa
-Evropske	Agpfsg
-investicijske	Agpfsg
-banke	Ncfsg
-(	Z
-EIB	Npmsn
-)	Z
-v	Sl
-višini	Ncfsl
-300	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Sredstva	Ncnpg
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-namenjena	Appfsn
-predvsem	Q
-strateškim	Agpfpd
-raziskavam	Ncfpd
-in	Cc
-razvoju	Ncmsd
-ter	Cc
-projektom	Ncmpd
-skupin	Ncfpg
-podjetij	Ncnpg
-.	Z
-A	Cc
-po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-Revoz	Npmsn
-večjega	Agcnsg
-zanimanja	Ncnsg
-za	Sa
-omenjena	Appnpa
-posojila	Ncnpa
-ni	Va-r3s-y
-izkazal	Vmep-sm
-.	Z
-Novomeške	Agpfsg
-družbe	Ncfsg
-posojila	Ncnsg
-,	Z
-do	Sg
-katerih	Pq-mpg
-lahko	Rgp
-ugodneje	Rgc
-pride	Vmer3s
-matični	Agpmsay
-Renault	Npmsan
-,	Z
-po	Sl
-pojasnilih	Ncnpl
-naših	Ps1mpgp
-virov	Ncmpg
-ne	Q
-zanimajo	Vmpr3p
-.	Z
-Zanimala	Vmpp-pn
-naj	Q
-bi	Va-c
-jih	Pp3mpa--y
-predvsem	Q
-nepovratna	Agpnpn
-sredstva	Ncnpn
-države	Ncfpn
-,	Z
-subvencije	Ncfpn
-.	Z
-.	Z
-.	Z
-Med	Si
-drugim	Mlpnsi
-naj	Q
-bi	Va-c
-se	Px------y
-zavzemali	Vmpp-pm
-tudi	Q
-za	Sa
-subvencije	Ncfpa
-za	Sa
-nakup	Ncmsan
-novega	Agpmsg
-avtomobila	Ncmsg
-,	Z
-čemur	Cs
-pa	Cc
-,	Z
-kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-slovenska	Agpfsn
-vlada	Ncfsn
-zaradi	Sg
-premajhnega	Agpmsg
-ali	Cc
-zapoznelega	Appmsg
-učinka	Ncmsg
-na	Sa
-slovenske	Agpmpa
-dobavitelje	Ncmpa
-avtomobilski	Agpfsd
-industriji	Ncfsd
-ni	Va-r3s-y
-preveč	Rgp
-naklonjena	Appfsn
-.	Z
-V	Sl
-Revozu	Npmsl
-pravijo	Vmbr3p
-,	Z
-da	Cs
-so	Va-r3p-n
-ukrepi	Ncmpn
-države	Ncfsg
-vsekakor	Q
-pozitivni	Agpmpn
-,	Z
-pogrešajo	Vmpr3p
-pa	Cc
-"	Z
-ukrepe	Ncmpa
-,	Z
-ki	Cs
-bi	Va-c
-bili	Va-p-pm
-naravnani	Appmpn
-v	Sa
-izboljšanje	Ncnsa
-,	Z
-dolgoročno	Agpfsa
-zagotovitev	Ncfsa
-konkurenčnosti	Ncfsg
-slovenskih	Agpnpg
-podjetij	Ncnpg
-prek	Sg
-investicijskih	Agpfpg
-spodbud	Ncfpg
-,	Z
-zmanjšanje	Ncnsn
-obremenitev	Ncfpg
-stroškov	Ncmpg
-dela	Ncnsg
-"	Z
-.	Z
-Ob	Sl
-tem	Pd-nsl
-velja	Vmpr3s
-omeniti	Vmen
-,	Z
-da	Cs
-je	Va-r3s-n
-Revoz	Npmsn
-že	Q
-šestnajst	Mlc-pa
-let	Ncnpg
-zapored	Rgp
-največji	Agsmsny
-slovenski	Agpmsay
-izvoznik	Ncmsan
-,	Z
-katerega	Pq-msg
-vrednost	Ncfsn
-izvoza	Ncmsg
-je	Va-r3s-n
-leta	Ncnsg
-2007	Mdc
-znašala	Vmpp-sf
-1,2	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Če	Cs
-upoštevamo	Vmbr1p
-,	Z
-da	Cs
-je	Va-r3s-n
-celoten	Agpmsnn
-izvoz	Ncmsn
-Slovenije	Npfsg
-lani	Rgp
-znašal	Vmpp-sm
-nekaj	Rgp
-manj	Rgc
-kot	Cs
-20	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-predstavlja	Vmpr3s
-izvoz	Ncmsan
-Revoza	Npmsg
-kar	Rgp
-šest	Mlc-pa
-odstotkov	Ncmpg
-celotnega	Agpmsg
-izvoza	Ncmsg
-Slovenije	Npfsg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Francoska	mte:Agpfsn	francoski
+vlada	mte:Ncfsn	vlada
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+od	mte:Sg	od
+slovenske	mte:Agpfsg	slovenski
+države	mte:Ncfsg	država
+pričakovala	mte:Vmpp-sf	pričakovati
+pomoč	mte:Ncfsa	pomoč
+novomeški	mte:Agpfsd	novomeški
+družbi	mte:Ncfsd	družba
+Revoz	mte:Npmsn	Revoz
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+francoskega	mte:Agpmsg	francoski
+avtomobilskega	mte:Agpmsg	avtomobilski
+koncerna	mte:Ncmsg	koncerna
+Renault	mte:Npmsn	Renault
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+predsedniku	mte:Ncmsd	predsednik
+vlade	mte:Ncfsg	vlada
+Borutu	mte:Npmsd	Borut
+Pahorju	mte:Npmsd	Pahorje
+ob	mte:Sl	ob
+obisku	mte:Ncmsl	obisk
+v	mte:Sl	v
+Franciji	mte:Npfsl	Francija
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+februarja	mte:Ncmsg	februar
+namignil	mte:Vmep-sm	namigniti
+tudi	mte:Q	tudi
+francoski	mte:Agpmsny	francoski
+predsednik	mte:Ncmsn	predsednik
+Nicolas	mte:Npmsn	Nicolas
+Sarkozy	mte:Npmsn	Sarkozy
+.	mte:Z	.
+Odgovorov	mte:Ncmpg	odgovor
+nam	mte:Pp1-pd	jaz
+iz	mte:Sg	iz
+urada	mte:Ncmsg	urad
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+včeraj	mte:Rgp	včeraj
+do	mte:Sg	do
+zaključka	mte:Ncmsg	zaključek
+redakcije	mte:Ncfsg	redakcija
+niso	mte:Va-r3p-y	biti
+posredovali	mte:Vmbp-pm	posredovati
+.	mte:Z	.
+Tako	mte:Rgp	tako
+tudi	mte:Q	tudi
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+ali	mte:Rgp	ali
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+slovenska	mte:Agpfsn	slovenski
+in	mte:Cc	in
+francoska	mte:Agpfsn	francoski
+stran	mte:Ncfsn	stran
+že	mte:Q	že
+dogovorili	mte:Vmep-dm	dogovoriti
+o	mte:Sl	o
+višini	mte:Ncfsl	višina
+in	mte:Cc	in
+načinu	mte:Ncmsl	način
+morebitne	mte:Agpfsg	morebiten
+pomoči	mte:Ncfsg	pomoč
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+velja	mte:Vmpr3s	veljati
+spomniti	mte:Vmen	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Franc	mte:Npmsn	Franc
+Križanič	mte:Npmsn	Križanič
+le	mte:Q	le
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+obisku	mte:Ncmsl	obisk
+v	mte:Sl	v
+Parizu	mte:Npmsl	Pariz
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+delavcem	mte:Ncmpd	delavec
+Revoza	mte:Npmsg	Revoz
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+skrbeti	mte:Vmpn	skrbeti
+za	mte:Sa	za
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+.	mte:Z	.
+"	mte:Z	"
+Po	mte:Sl	po
+zagotovilih	mte:Ncnpl	zagotovilo
+odgovornih	mte:Agpmpg	odgovoren
+v	mte:Sl	v
+Franciji	mte:Npfsl	Francija
+ostaja	mte:Vmpr3s	ostajati
+ta	mte:Pd-fsn	ta
+tovarna	mte:Ncfsn	tovarna
+pomemben	mte:Agpmsnn	pomemben
+del	mte:Ncmsn	del
+Renaulta	mte:Npmsg	Renaulta
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+dejal	mte:Vmep-sm	dejati
+Križanič	mte:Npmsn	Križanič
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+sicer	mte:Q	sicer
+trdijo	mte:Vmpr3p	trditi
+,	mte:Z	,
+da	mte:Cs	da
+posebna	mte:Agpfsn	poseben
+pomoč	mte:Ncfsn	pomoč
+za	mte:Sa	za
+Revoz	mte:Npmsan	Revoz
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+ni	mte:Va-r3s-y	biti
+predvidena	mte:Appfsn	predviden
+.	mte:Z	.
+"	mte:Z	"
+Revoz	mte:Npmsn	Revoz
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+že	mte:Q	že
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+deležen	mte:Agpmsnn	deležen
+podpore	mte:Ncfsg	podpora
+slovenske	mte:Agpfsg	slovenski
+vlade	mte:Ncfsg	vlada
+pri	mte:Sl	pri
+razvojnih	mte:Agpmpl	razvojen
+projektih	mte:Ncmpl	projekt
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+pomen	mte:Ncmsan	pomen
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+ima	mte:Vmpr3s-n	imeti
+naše	mte:Ps2nsnp	naš
+podjetje	mte:Ncnsn	podjetje
+v	mte:Sl	v
+slovenskem	mte:Agpnsl	slovenski
+gospodarstvu	mte:Ncnsl	gospodarstvo
+,	mte:Z	,
+pričakujemo	mte:Vmpr1p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+vlada	mte:Ncfsn	vlada
+tudi	mte:Q	tudi
+v	mte:Sa	v
+bodoče	mte:Agpmpa	bodoč
+podpirala	mte:Vmpp-sf	podpirati
+nadaljnji	mte:Agpmsay	nadaljnji
+razvoj	mte:Ncmsan	razvoj
+podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+"	mte:Z	"
+pa	mte:Cc	pa
+odgovarjajo	mte:Vmpr3p	odgovarjati
+v	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+pričakujejo	mte:Vmpr3p	pričakovati
+kakšne	mte:Pq-mpa	kakšen
+ukrepe	mte:Ncmpa	ukrep
+slovenske	mte:Agpfsg	slovenski
+države	mte:Ncfsg	država
+,	mte:Z	,
+namenjene	mte:Appfsg	namenjen
+neposredno	mte:Rgp	neposredno
+njihovi	mte:Ps3fslp	njihov
+družbi	mte:Ncfsd	družba
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Francija	mte:Npfsn	Francija
+svoji	mte:Px-fsd	svoj
+avtomobilski	mte:Agpfsd	avtomobilski
+industriji	mte:Ncfsd	industrija
+namenila	mte:Vmep-sf	nameniti
+nekaj	mte:Rgp	nekaj
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+osem	mte:Mlc-pa	osem
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+pomoči	mte:Ncfsg	pomoč
+,	mte:Z	,
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+tri	mte:Mlcfpa	trije
+milijarde	mte:Ncfpa	milijarda
+evrov	mte:Ncmpg	evro
+Renaultu	mte:Npmsd	Renault
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+ima	mte:Vmpr3s-n	imeti
+tovarne	mte:Ncfpa	tovarna
+v	mte:Sl	v
+več	mte:Rgc	več
+evropskih	mte:Agpfpl	evropski
+državah	mte:Ncfpl	država
+in	mte:Cc	in
+Francozi	mte:Npmpl	Francoz
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+zdaj	mte:Rgp	zdaj
+pričakovali	mte:Vmpp-pm	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+svoj	mte:Px-msa	svoj
+delež	mte:Ncmsan	delež
+prispevajo	mte:Vmbr3p	prispevati
+tudi	mte:Q	tudi
+same	mte:Agpfpa	sam
+.	mte:Z	.
+Da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+francoski	mte:Agpmpn	francoski
+ukrepi	mte:Ncmpn	ukrep
+prispevali	mte:Vmbp-pm	prispevati
+k	mte:Sd	k
+ohranjanju	mte:Ncnsd	ohranjanje
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+tudi	mte:Q	tudi
+v	mte:Sl	v
+drugih	mte:Mlpfpl	drug
+članicah	mte:Ncfpl	članica
+EU	mte:Npfsg	EU
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+argumentov	mte:Ncmpg	argument
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+se	mte:Px------y	se
+Francija	mte:Npfsn	Francija
+brani	mte:Vmpr3s	braniti
+očitkov	mte:Ncmpg	očitek
+o	mte:Sl	o
+protekcionistični	mte:Agpfsl	protekcionističen
+naravi	mte:Ncfsl	narava
+pomoči	mte:Ncfsg	pomoč
+domači	mte:Agpfsd	domač
+avtomobilski	mte:Agpfsd	avtomobilski
+industriji	mte:Ncfsd	industrija
+.	mte:Z	.
+A	mte:Cc	a
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+velja	mte:Vmpr3s	veljati
+omeniti	mte:Vmen	omeniti
+,	mte:Z	,
+da	mte:Cs	da
+morajo	mte:Vmpr3p	morati
+francoski	mte:Agpmpn	francoski
+avtomobilski	mte:Agpmpn	avtomobilski
+koncerni	mte:Ncmpn	koncern
+za	mte:Sa	za
+pridobitev	mte:Ncfsa	pridobitev
+pomoči	mte:Ncfsg	pomoč
+francoske	mte:Agpfsg	francoski
+države	mte:Ncfsg	država
+ohraniti	mte:Vmen	ohraniti
+tovarne	mte:Ncfpa	tovarna
+v	mte:Sl	v
+Franciji	mte:Npfsl	Francija
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+o	mte:Sl	o
+tovarnah	mte:Ncfpl	tovarna
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+in	mte:Cc	in
+drugih	mte:Mlpfpl	drug
+evropskih	mte:Agpfpl	evropski
+državah	mte:Ncfpl	država
+paket	mte:Ncmsan	paket
+ne	mte:Q	ne
+govori	mte:Vmpr3s	govoriti
+.	mte:Z	.
+"	mte:Z	"
+Smo	mte:Va-r1p-n	biti
+enakopravni	mte:Agpmsny	enakopraven
+del	mte:Ncmsn	del
+Renaultovega	mte:Aspmsg	Renaultov
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+bomo	mte:Va-f1p-n	biti
+enakovredno	mte:Rgp	enakovredno
+deležni	mte:Agpmpn	deležen
+zadnjih	mte:Agpfpg	zadnji
+pomoči	mte:Ncfpg	pomoč
+francoske	mte:Agpfsg	francoski
+države	mte:Ncfsg	država
+,	mte:Z	,
+"	mte:Z	"
+pa	mte:Cc	pa
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+v	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+.	mte:Z	.
+"	mte:Z	"
+Podjetja	mte:Ncnpn	podjetje
+bodo	mte:Va-f3p-n	biti
+pomoči	mte:Ncfpn	pomoč
+deležna	mte:Agpnpn	deležen
+v	mte:Sl	v
+sklopu	mte:Ncmsl	sklop
+avtomobilskega	mte:Agpmsg	avtomobilski
+grozda	mte:Ncmsg	grozda
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+tudi	mte:Q	tudi
+Revoz	mte:Npmsn	Revoz
+,	mte:Z	,
+"	mte:Z	"
+še	mte:Q	še
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+na	mte:Sl	na
+finančnem	mte:Agpnsl	finančen
+ministrstvu	mte:Ncnsl	ministrstvo
+.	mte:Z	.
+Kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+poročali	mte:Vmpp-pm	poročati
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+avtomobilski	mte:Agpfsd	avtomobilski
+industriji	mte:Ncfsd	industrija
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+obetalo	mte:Vmpp-sn	obetati
+posojilo	mte:Ncnsa	posojilo
+Evropske	mte:Agpfsg	evropski
+investicijske	mte:Agpfsg	investicijski
+banke	mte:Ncfsg	banka
+(	mte:Z	(
+EIB	mte:Npmsn	EIB
+)	mte:Z	)
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+300	mte:Mdc	300
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Sredstva	mte:Ncnpg	sredstvo
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+namenjena	mte:Appfsn	namenjen
+predvsem	mte:Q	predvsem
+strateškim	mte:Agpfpd	strateški
+raziskavam	mte:Ncfpd	raziskava
+in	mte:Cc	in
+razvoju	mte:Ncmsd	razvoj
+ter	mte:Cc	ter
+projektom	mte:Ncmpd	projekt
+skupin	mte:Ncfpg	skupina
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+A	mte:Cc	a
+po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+Revoz	mte:Npmsn	Revoz
+večjega	mte:Agcnsg	velik
+zanimanja	mte:Ncnsg	zanimanje
+za	mte:Sa	za
+omenjena	mte:Appnpa	omenjen
+posojila	mte:Ncnpa	posojilo
+ni	mte:Va-r3s-y	biti
+izkazal	mte:Vmep-sm	izkazati
+.	mte:Z	.
+Novomeške	mte:Agpfsg	novomeški
+družbe	mte:Ncfsg	družba
+posojila	mte:Ncnsg	posojilo
+,	mte:Z	,
+do	mte:Sg	do
+katerih	mte:Pq-mpg	kateri
+lahko	mte:Rgp	lahko
+ugodneje	mte:Rgc	ugodno
+pride	mte:Vmer3s	priti
+matični	mte:Agpmsay	matičen
+Renault	mte:Npmsan	Renault
+,	mte:Z	,
+po	mte:Sl	po
+pojasnilih	mte:Ncnpl	pojasnilo
+naših	mte:Ps1mpgp	naš
+virov	mte:Ncmpg	vir
+ne	mte:Q	ne
+zanimajo	mte:Vmpr3p	zanimati
+.	mte:Z	.
+Zanimala	mte:Vmpp-pn	zanimati
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+predvsem	mte:Q	predvsem
+nepovratna	mte:Agpnpn	nepovraten
+sredstva	mte:Ncnpn	sredstvo
+države	mte:Ncfpn	država
+,	mte:Z	,
+subvencije	mte:Ncfpn	subvencija
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+Med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+zavzemali	mte:Vmpp-pm	zavzemati
+tudi	mte:Q	tudi
+za	mte:Sa	za
+subvencije	mte:Ncfpa	subvencija
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+novega	mte:Agpmsg	nov
+avtomobila	mte:Ncmsg	avtomobil
+,	mte:Z	,
+čemur	mte:Cs	čemur
+pa	mte:Cc	pa
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+slovenska	mte:Agpfsn	slovenski
+vlada	mte:Ncfsn	vlada
+zaradi	mte:Sg	zaradi
+premajhnega	mte:Agpmsg	premajhen
+ali	mte:Cc	ali
+zapoznelega	mte:Appmsg	zapoznel
+učinka	mte:Ncmsg	učinek
+na	mte:Sa	na
+slovenske	mte:Agpmpa	slovenski
+dobavitelje	mte:Ncmpa	dobavitelj
+avtomobilski	mte:Agpfsd	avtomobilski
+industriji	mte:Ncfsd	industrija
+ni	mte:Va-r3s-y	biti
+preveč	mte:Rgp	preveč
+naklonjena	mte:Appfsn	naklonjen
+.	mte:Z	.
+V	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+ukrepi	mte:Ncmpn	ukrep
+države	mte:Ncfsg	država
+vsekakor	mte:Q	vsekakor
+pozitivni	mte:Agpmpn	pozitiven
+,	mte:Z	,
+pogrešajo	mte:Vmpr3p	pogrešati
+pa	mte:Cc	pa
+"	mte:Z	"
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+naravnani	mte:Appmpn	naravnan
+v	mte:Sa	v
+izboljšanje	mte:Ncnsa	izboljšanje
+,	mte:Z	,
+dolgoročno	mte:Agpfsa	dolgoročno
+zagotovitev	mte:Ncfsa	zagotovitev
+konkurenčnosti	mte:Ncfsg	konkurenčnost
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+prek	mte:Sg	prek
+investicijskih	mte:Agpfpg	investicijski
+spodbud	mte:Ncfpg	spodbuda
+,	mte:Z	,
+zmanjšanje	mte:Ncnsn	zmanjšanje
+obremenitev	mte:Ncfpg	obremenitev
+stroškov	mte:Ncmpg	strošek
+dela	mte:Ncnsg	delo
+"	mte:Z	"
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+velja	mte:Vmpr3s	veljati
+omeniti	mte:Vmen	omeniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Revoz	mte:Npmsn	Revoz
+že	mte:Q	že
+šestnajst	mte:Mlc-pa	šestnajst
+let	mte:Ncnpg	leto
+zapored	mte:Rgp	zapored
+največji	mte:Agsmsny	velik
+slovenski	mte:Agpmsay	slovenski
+izvoznik	mte:Ncmsan	izvoznik
+,	mte:Z	,
+katerega	mte:Pq-msg	kateri
+vrednost	mte:Ncfsn	vrednost
+izvoza	mte:Ncmsg	izvoz
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+znašala	mte:Vmpp-sf	znašati
+1,2	mte:Mdc	1,2
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Če	mte:Cs	če
+upoštevamo	mte:Vmbr1p	upoštevati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+celoten	mte:Agpmsnn	celoten
+izvoz	mte:Ncmsn	izvoz
+Slovenije	mte:Npfsg	Slovenija
+lani	mte:Rgp	lani
+znašal	mte:Vmpp-sm	znašati
+nekaj	mte:Rgp	nekaj
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+20	mte:Mdc	20
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+predstavlja	mte:Vmpr3s	predstavljati
+izvoz	mte:Ncmsan	izvoz
+Revoza	mte:Npmsg	Revoz
+kar	mte:Rgp	kar
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+celotnega	mte:Agpmsg	celoten
+izvoza	mte:Ncmsg	izvoz
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+katja.svensek	mte:Npmsn	katja.svensek
+@	mte:Z	@

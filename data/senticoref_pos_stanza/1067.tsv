@@ -1,289 +1,315 @@
-token	tag
-ATVP	Ncmsn
-je	Va-r3s-n
-začela	Vmep-sf
-preverjati	Vmpn
-,	Z
-ali	Rgp
-so	Va-r3p-n
-banke	Ncfpn
-,	Z
-ko	Cs
-so	Va-r3p-n
-Bošku	Npmsd
-Šrotu	Npmsd
-zasegle	Vmep-pf
-delnice	Ncfpn
-Pivovarne	Ncfsg
-Laško	Npnsn
-in	Cc
-Mercatorja	Npmsg
-,	Z
-delovale	Vmpp-pf
-usklajeno	Appfsa
-.	Z
-Banke	Ncfpn
-ali	Cc
-ne	Q
-komentirajo	Vmbr3p
-ali	Cc
-niso	Va-r3p-y
-seznanjene	Appfpn
-.	Z
-NLB	Npfsn
-Agencija	Ncfsn
-za	Sa
-trg	Ncmsan
-vrednostnih	Agpmpg
-papirjev	Ncmpg
-ATVP	Npmsg
-je	Va-r3s-n
-začela	Vmep-sf
-preverjati	Vmpn
-,	Z
-ali	Rgp
-so	Va-r3p-n
-banke	Ncfpn
-med	Si
-zasegom	Ncmsi
-delnic	Ncfpg
-Infond	Npmsn
-Holdingu	Ncmsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-preko	Sg
-povezanih	Appfpg
-družb	Ncfpg
-v	Sl
-večinski	Agpfsl
-lasti	Ncfsl
-Boška	Npmsg
-Šrota	Npmsg
-,	Z
-delovale	Vmpp-pf
-usklajeno	Appfsn
-,	Z
-poroča	Vmpr3s
-današnji	Agpmsay
-Dnevnik	Ncmsan
-.	Z
-Kot	Cs
-smo	Va-r1p-n
-že	Q
-poročali	Vmpp-pm
-,	Z
-je	Va-r3s-n
-osem	Mlc-pa
-bank	Ncfpg
-lani	Rgp
-Infond	Npmsn
-Holdingu	Ncmsd
-zaradi	Sg
-neporavnanih	Agpmpg
-dolgov	Ncmpg
-zaplenilo	Vmep-sn
-51	Mdc
-odstotkov	Ncmpg
-Pivovarne	Ncfsg
-Laško	Npnsn
-in	Cc
-24,4	Mdc
-odstotka	Ncmsg
-Mercatorja	Npmsg
-.	Z
-Med	Si
-njimi	Pp3mpi
-so	Va-r3p-n
-bile	Va-p-pf
-NLB	Npfsn
-,	Z
-Banka	Npfsn
-Celje	Npnsn
-,	Z
-Banka	Npfsn
-Koper	Npmsn
-,	Z
-Gorenjska	Agpfsn
-banka	Ncfsn
-,	Z
-Nova	Agpfsn
-KBM	Npfsn
-,	Z
-Probanka	Npfsn
-,	Z
-Abanka	Npfsn
-Vipa	Npfsn
-in	Cc
-Hypo	Npfsn
-Banka	Npfsn
-.	Z
-Največji	Agsmsny
-delež	Ncmsn
-23,5	Mdc
-odstotka	Ncmsg
-Pivovarne	Ncfsg
-Laško	Npnsn
-in	Cc
-10,8	Mdc
-odstotka	Ncmsg
-Mercatorja	Npmsg
-je	Va-r3s-n
-zasegla	Vmep-sf
-NLB	Npfsn
-.	Z
-Usklajeno	Appnsa
-delovanje	Ncnsa
-bank	Ncfpg
-naj	Q
-bi	Va-c
-poleg	Sg
-sočasnega	Agpmsg
-zasega	Ncmsg
-dokazoval	Vmpp-sm
-tudi	Q
-dogovor	Ncmsan
-med	Si
-vodstvi	Ncnpi
-treh	Mlcfpg
-domačih	Agpfpg
-bank	Ncfpg
-glede	Sg
-dividendne	Agpfsg
-politike	Ncfsg
-v	Sl
-Mercatorju	Npmsl
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-pa	Cc
-tudi	Q
-glasovanje	Ncnsa
-bank	Ncfpg
-na	Sl
-lanski	Agpfsl
-skupščini	Ncfsl
-Pivovarne	Ncfsg
-Laško	Npnsn
-,	Z
-še	Q
-piše	Vmpr3s
-Dnevnik	Ncmsn
-.	Z
-Če	Cs
-bi	Va-c
-ATVP	Npmsn
-ugotovila	Vmep-sf
-,	Z
-da	Cs
-so	Va-r3p-n
-banke	Ncfpn
-delovale	Vmpp-pf
-usklajeno	Appnsn
-,	Z
-bi	Va-c
-banke	Ncfpn
-morale	Vmpp-pf
-bodisi	Vmen
-deleže	Ncmpa
-odprodati	Vmen
-ali	Cc
-pa	Cc
-objaviti	Vmen
-prevzemno	Agpfsa
-ponudbo	Ncfsa
-za	Sa
-obe	Pg-fda
-družbi	Ncfda
-.	Z
-Če	Cs
-bi	Va-c
-Infond	Npmsn
-Holding	Npmsn
-zaradi	Sg
-ugotovljene	Appfsg
-usklajenosti	Ncfsg
-tožil	Vmpp-sm
-banke	Ncfsg
-,	Z
-pa	Cc
-bi	Va-c
-načeloma	Rgp
-lahko	Rgp
-dosegel	Vmep-sm
-tudi	Q
-ničnost	Ncfsa
-prodaje	Ncfsg
-delnic	Ncfpg
-,	Z
-ki	Cs
-bi	Va-c
-tako	Rgp
-prišle	Vmep-pf
-nazaj	Rgp
-v	Sa
-njegovo	Ps3fsasm
-last	Ncfsa
-.	Z
-z	Sg
-Banke	Ncfsg
-Celje	Npnsn
-,	Z
-NLB	Npfsg
-in	Cc
-NKBM	Npfsg
-so	Va-r3p-n
-odgovorili	Vmep-pm
-,	Z
-da	Cs
-zadeve	Ncfpn
-ne	Q
-komentirajo	Vmbr3p
-.	Z
-V	Sl
-NKBM	Npfsl
-so	Va-r3p-n
-tako	Rgp
-zapisali	Vmep-pm
-,	Z
-da	Cs
-v	Sl
-skladu	Ncmsl
-z	Si
-veljavno	Agpfsi
-sodno	Agpfsi
-prakso	Ncfsi
-in	Cc
-dobrimi	Agpmpi
-poslovnimi	Agpmpi
-običaji	Ncmpi
-nedokončanih	Agpmpg
-postopkov	Ncmpg
-regulatorja	Ncmsg
-ne	Q
-morejo	Vmpr3p
-podrobneje	Rgc
-komentirati	Vmbn
-,	Z
-iz	Sg
-NLB	Npfsg
-pa	Cc
-so	Va-r3p-n
-sporočili	Vmep-pm
-,	Z
-da	Cs
-uvedbe	Ncfsg
-postopkov	Ncmpg
-oz	Ncmsg
-.	Z
-postopkov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-v	Sl
-teku	Ncmsl
-,	Z
-ne	Q
-komentirajo	Vmbr3p
-.	Z
+token	tag	lemma
+ATVP	mte:Ncmsn	atvp
+je	mte:Va-r3s-n	biti
+začela	mte:Vmep-sf	začeti
+preverjati	mte:Vmpn	preverjati
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+banke	mte:Ncfpn	banka
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+Bošku	mte:Npmsd	Boško
+Šrotu	mte:Npmsd	Šrot
+zasegle	mte:Vmep-pf	zaseči
+delnice	mte:Ncfpn	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+delovale	mte:Vmpp-pf	delovati
+usklajeno	mte:Appfsa	usklajen
+.	mte:Z	.
+Banke	mte:Ncfpn	banka
+ali	mte:Cc	ali
+ne	mte:Q	ne
+komentirajo	mte:Vmbr3p	komentirati
+ali	mte:Cc	ali
+niso	mte:Va-r3p-y	biti
+seznanjene	mte:Appfpn	seznanjen
+.	mte:Z	.
+NLB	mte:Npfsn	NLB
+Agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+trg	mte:Ncmsan	trg
+vrednostnih	mte:Agpmpg	vrednosten
+papirjev	mte:Ncmpg	papir
+ATVP	mte:Npmsg	ATVP
+je	mte:Va-r3s-n	biti
+začela	mte:Vmep-sf	začeti
+preverjati	mte:Vmpn	preverjati
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+banke	mte:Ncfpn	banka
+med	mte:Si	med
+zasegom	mte:Ncmsi	zaseg
+delnic	mte:Ncfpg	delnica
+Infond	mte:Npmsn	Infond
+Holdingu	mte:Ncmsd	holding
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+preko	mte:Sg	preko
+povezanih	mte:Appfpg	povezan
+družb	mte:Ncfpg	družba
+v	mte:Sl	v
+večinski	mte:Agpfsl	večinski
+lasti	mte:Ncfsl	last
+Boška	mte:Npmsg	Boška
+Šrota	mte:Npmsg	Šrot
+,	mte:Z	,
+delovale	mte:Vmpp-pf	delovati
+usklajeno	mte:Appfsn	usklajen
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+današnji	mte:Agpmsay	današnji
+Dnevnik	mte:Ncmsan	dnevnik
+.	mte:Z	.
+Kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+poročali	mte:Vmpp-pm	poročati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+osem	mte:Mlc-pa	osem
+bank	mte:Ncfpg	banka
+lani	mte:Rgp	lani
+Infond	mte:Npmsn	Infond
+Holdingu	mte:Ncmsd	holding
+zaradi	mte:Sg	zaradi
+neporavnanih	mte:Agpmpg	neporavnan
+dolgov	mte:Ncmpg	dolg
+zaplenilo	mte:Vmep-sn	zapleniti
+51	mte:Mdc	51
+odstotkov	mte:Ncmpg	odstotek
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+24,4	mte:Mdc	24,4
+odstotka	mte:Ncmsg	odstotek
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Med	mte:Si	med
+njimi	mte:Pp3mpi	on
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+NLB	mte:Npfsn	NLB
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+Nova	mte:Agpfsn	nov
+KBM	mte:Npfsn	KBM
+,	mte:Z	,
+Probanka	mte:Npfsn	Probanka
+,	mte:Z	,
+Abanka	mte:Npfsn	Abanka
+Vipa	mte:Npfsn	Vipa
+in	mte:Cc	in
+Hypo	mte:Npfsn	Hypo
+Banka	mte:Npfsn	banka
+.	mte:Z	.
+Največji	mte:Agsmsny	velik
+delež	mte:Ncmsn	delež
+23,5	mte:Mdc	23,5
+odstotka	mte:Ncmsg	odstotek
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+10,8	mte:Mdc	10,8
+odstotka	mte:Ncmsg	odstotek
+Mercatorja	mte:Npmsg	Mercator
+je	mte:Va-r3s-n	biti
+zasegla	mte:Vmep-sf	zaseči
+NLB	mte:Npfsn	NLB
+.	mte:Z	.
+Usklajeno	mte:Appnsa	usklajen
+delovanje	mte:Ncnsa	delovanje
+bank	mte:Ncfpg	banka
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+poleg	mte:Sg	poleg
+sočasnega	mte:Agpmsg	sočasen
+zasega	mte:Ncmsg	zasega
+dokazoval	mte:Vmpp-sm	dokazovati
+tudi	mte:Q	tudi
+dogovor	mte:Ncmsan	dogovor
+med	mte:Si	med
+vodstvi	mte:Ncnpi	vodstvo
+treh	mte:Mlcfpg	trije
+domačih	mte:Agpfpg	domač
+bank	mte:Ncfpg	banka
+glede	mte:Sg	glede
+dividendne	mte:Agpfsg	dividenden
+politike	mte:Ncfsg	politika
+v	mte:Sl	v
+Mercatorju	mte:Npmsl	Mercator
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+glasovanje	mte:Ncnsa	glasovanje
+bank	mte:Ncfpg	banka
+na	mte:Sl	na
+lanski	mte:Agpfsl	lanski
+skupščini	mte:Ncfsl	skupščina
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+še	mte:Q	še
+piše	mte:Vmpr3s	pisati
+Dnevnik	mte:Ncmsn	dnevnik
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+ATVP	mte:Npmsn	ATVP
+ugotovila	mte:Vmep-sf	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+banke	mte:Ncfpn	banka
+delovale	mte:Vmpp-pf	delovati
+usklajeno	mte:Appnsn	usklajen
+,	mte:Z	,
+bi	mte:Va-c	biti
+banke	mte:Ncfpn	banka
+morale	mte:Vmpp-pf	morati
+bodisi	mte:Vmen	bodisi
+deleže	mte:Ncmpa	deleža
+odprodati	mte:Vmen	odprodati
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+objaviti	mte:Vmen	objaviti
+prevzemno	mte:Agpfsa	prevzemen
+ponudbo	mte:Ncfsa	ponudba
+za	mte:Sa	za
+obe	mte:Pg-fda	oba
+družbi	mte:Ncfda	družba
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+Infond	mte:Npmsn	Infond
+Holding	mte:Npmsn	holding
+zaradi	mte:Sg	zaradi
+ugotovljene	mte:Appfsg	ugotovljen
+usklajenosti	mte:Ncfsg	usklajenost
+tožil	mte:Vmpp-sm	tožiti
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+načeloma	mte:Rgp	načeloma
+lahko	mte:Rgp	lahko
+dosegel	mte:Vmep-sm	doseči
+tudi	mte:Q	tudi
+ničnost	mte:Ncfsa	ničnost
+prodaje	mte:Ncfsg	prodaja
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+tako	mte:Rgp	tako
+prišle	mte:Vmep-pf	priti
+nazaj	mte:Rgp	nazaj
+v	mte:Sa	v
+njegovo	mte:Ps3fsasm	njegov
+last	mte:Ncfsa	last
+.	mte:Z	.
+z	mte:Sg	z
+Banke	mte:Ncfsg	banka
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+NLB	mte:Npfsg	NLB
+in	mte:Cc	in
+NKBM	mte:Npfsg	NKBM
+so	mte:Va-r3p-n	biti
+odgovorili	mte:Vmep-pm	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+zadeve	mte:Ncfpn	zadeva
+ne	mte:Q	ne
+komentirajo	mte:Vmbr3p	komentirati
+.	mte:Z	.
+V	mte:Sl	v
+NKBM	mte:Npfsl	NKBM
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+zapisali	mte:Vmep-pm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+veljavno	mte:Agpfsi	veljaven
+sodno	mte:Agpfsi	soden
+prakso	mte:Ncfsi	praksa
+in	mte:Cc	in
+dobrimi	mte:Agpmpi	dober
+poslovnimi	mte:Agpmpi	posloven
+običaji	mte:Ncmpi	običaj
+nedokončanih	mte:Agpmpg	nedokončan
+postopkov	mte:Ncmpg	postopek
+regulatorja	mte:Ncmsg	regulator
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+podrobneje	mte:Rgc	podrobno
+komentirati	mte:Vmbn	komentirati
+,	mte:Z	,
+iz	mte:Sg	iz
+NLB	mte:Npfsg	NLB
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+uvedbe	mte:Ncfsg	uvedba
+postopkov	mte:Ncmpg	postopek
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+postopkov	mte:Ncmpg	postopek
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+teku	mte:Ncmsl	tek
+,	mte:Z	,
+ne	mte:Q	ne
+komentirajo	mte:Vmbr3p	komentirati
+.	mte:Z	.
+V	mte:Sl	v
+Probanki	mte:Npfsl	Probanka
+so	mte:Va-r3p-n	biti
+medtem	mte:Rgp	medtem
+poudarili	mte:Vmep-pm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+glede	mte:Sg	glede
+tega	mte:Pd-nsg	ta
+zavezani	mte:Appmpn	zavezan
+k	mte:Sd	k
+molčečnosti	mte:Ncfsd	molčečnost
+,	mte:Z	,
+v	mte:Sl	v
+Abanki	mte:Ncfsl	abanka
+in	mte:Cc	in
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+pa	mte:Cc	pa
+o	mte:Sl	o
+omenjenih	mte:Appmpl	omenjen
+postopkih	mte:Ncmpl	postopek
+ATVP	mte:Npmsg	ATVP
+niso	mte:Va-r3p-y	biti
+seznanjeni	mte:Appmpn	seznanjen

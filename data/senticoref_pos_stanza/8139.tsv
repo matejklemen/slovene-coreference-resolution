@@ -1,414 +1,469 @@
-token	tag
-Virant	Npmsn
-vztraja	Vmpr3s
-pri	Sl
-svojem	Px-msl
-načrtu	Ncmsl
-krčenja	Ncnsg
-občin	Ncfpg
-Ministrski	Agpmsny
-trojček	Ncmsn
--	Z
-Gregor	Npmsn
-Virant	Npmsn
-,	Z
-Karl	Npmsn
-Erjavec	Npmsn
-in	Cc
-Samo	Q
-Omerzel	Npmsn
--	Z
-je	Va-r3s-n
-obiskal	Vmep-sm
-celjski	Agpmsay
-obrtni	Agpmsay
-sejem	Ncmsan
-.	Z
-Erjavec	Npmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-opozoril	Vmep-sm
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-zaradi	Sg
-birokratskih	Agpfpg
-ovir	Ncfpg
-podjetniki	Ncmpn
-iz	Sg
-neevropskih	Agpfpg
-držav	Ncfpg
-velike	Agpfpa
-težave	Ncfpa
-pri	Sl
-pridobivanju	Ncnsl
-vizumov	Ncmpg
-.	Z
-Minister	Ncmsn
-za	Sa
-notranje	Agpfpa
-zadeve	Ncfpa
-in	Cc
-javno	Agpfsa
-upravo	Ncfsa
-Gregor	Npmsn
-Virant	Npmsn
-je	Va-r3s-n
-tudi	Q
-napovedal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-glede	Sg
-zmanjševanja	Ncnsg
-občin	Ncfpg
-na	Sl
-prvem	Mlomsl
-posvetu	Ncmsl
-s	Si
-strokovnjaki	Ncmpi
-srečal	Vmep-sm
-že	Q
-prihodnji	Agpmsay
-teden	Ncmsan
-.	Z
-Odločil	Vmep-sm
-sem	Va-r1s-n
-se	Px------y
-dati	Vmen
-prednost	Ncfsa
-strokovni	Agpfsd
-kakovosti	Ncfsd
-tega	Pd-msg
-projekta	Ncmsg
-pred	Si
-časovno	Agpfsi
-dinamiko	Ncfsi
-.	Z
-Naredili	Vmep-pm
-bomo	Va-f1p-n
-strokovno	Rgp
-,	Z
-kot	Cs
-je	Va-r3s-n
-treba	Rgp
-,	Z
-cilj	Ncmsn
-pa	Cc
-je	Va-r3s-n
-jasen	Agpmsnn
-manjše	Agcnsa
-število	Ncnsa
-občin	Ncfpg
-,	Z
-je	Va-r3s-n
-opozoril	Vmep-sm
-.	Z
-Zavrnil	Vmep-sm
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-argumente	Ncmpa
-županov	Ncmpg
-manjših	Agcfpg
-občin	Ncfpg
-,	Z
-da	Cs
-merilo	Ncnsn
-ne	Q
-bi	Va-c
-smelo	Vmpp-sn
-biti	Va-n
-le	Q
-število	Ncnsn
-prebivalcev	Ncmpg
-.	Z
-Ni	Va-r3s-y
-treba	Rgp
-odkrivati	Vmpn
-tople	Agpfsg
-vode	Ncfsg
-,	Z
-izračun	Ncmsn
-je	Va-r3s-n
-enostaven	Agpmsnn
-.	Z
-Če	Cs
-zložiš	Vmer2s
-skupaj	Rgp
-tri	Mlcfpa
-občine	Ncfpa
-,	Z
-je	Va-r3s-n
-namesto	Sg
-treh	Mlcmpg
-županov	Ncmpg
-eden	Mlpmsn
-,	Z
-prav	Q
-tako	Rgp
-je	Va-r3s-n
-z	Si
-občinskimi	Agpfpi
-upravami	Ncfpi
-,	Z
-sveti	Ncmsn
-in	Cc
-tako	Rgp
-dalje	Rgp
-,	Z
-je	Va-r3s-n
-še	Q
-ponazoril	Vmep-sm
-Virant	Npmsn
-.	Z
-Erjavec	Npmsn
-se	Px------y
-je	Va-r3s-n
-srečeval	Vmpp-sm
-z	Si
-diplomati	Ncmpi
-Minister	Ncmsn
-za	Sa
-zunanje	Agpfpa
-zadeve	Ncfpa
-Karl	Npmsn
-Erjavec	Npmsn
-se	Px------y
-je	Va-r3s-n
-na	Sl
-MOS	Npmsn
--	Z
-u	Npmsl
-srečal	Vmep-sm
-z	Si
-več	Rgc
-kot	Cs
-25	Mdc
-diplomati	Ncmpi
-iz	Sg
-različnih	Agpfpg
-držav	Ncfpg
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-opozoril	Vmep-sm
-na	Sa
-težave	Ncfpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-imajo	Vmpr3p-n
-podjetniki	Ncmpn
-pri	Sl
-pridobivanju	Ncnsl
-vizumov	Ncmpg
-.	Z
-Ti	Pd-mpn
-naj	Q
-bi	Va-c
-bili	Va-p-pm
-ena	Mlpfsn
-glavnih	Agpfpg
-težav	Ncfpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-se	Px------y
-srečujejo	Vmpr3p
-podjetniki	Ncmpn
-,	Z
-ki	Cs
-želijo	Vmpr3p
-priti	Vmen
-v	Sa
-Slovenijo	Npfsa
-iz	Sg
-bolj	Rgc
-oddaljenih	Agpfpg
-,	Z
-neevropskih	Agpfpg
-držav	Ncfpg
-.	Z
-Z	Si
-ministrom	Ncmsi
-za	Sa
-notranje	Agpfpa
-zadeve	Ncfpa
-in	Cc
-javno	Agpfsa
-upravo	Ncfsa
-Gregorjem	Npmsi
-Virantom	Npmsi
-sva	Va-r1d-n
-se	Px------y
-dogovorila	Vmep-dm
-,	Z
-da	Cs
-pripravimo	Vmer1p
-zakonodajo	Ncfsa
-,	Z
-ki	Cs
-bi	Va-c
-olajšala	Vmep-dm
-pridobivanje	Ncnsa
-vizumov	Ncmpg
-.	Z
-Vezani	Appmpn
-smo	Va-r1p-n
-sicer	Q
-na	Sa
-evropski	Agpmsay
-pravni	Agpmsay
-red	Ncmsan
-,	Z
-vendar	Cc
-smo	Va-r1p-n
-znotraj	Sg
-tega	Pd-nsg
-tudi	Q
-sami	Agpmpn
-malo	Rgp
-zbirokratizirali	Vmbp-pm
-postopke	Ncmpa
-,	Z
-je	Va-r3s-n
-razložil	Vmep-sm
-Erjavec	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-mora	Vmpr3s
-kdaj	Rgp
-pa	Cc
-kdaj	Rgp
-osebno	Agpnsn
-posredovati	Vmbn
-,	Z
-da	Cs
-poslovneži	Ncmpn
-dobijo	Vmer3p
-vizum	Ncmsan
-.	Z
-Podobno	Agpnsn
-je	Va-r3s-n
-tudi	Q
-na	Sl
-drugih	Mlpnpl
-področjih	Ncnpl
-,	Z
-ko	Cs
-gre	Vmbr3s
-za	Sa
-profesorje	Ncmpa
-,	Z
-študente	Ncmpa
-,	Z
-študentske	Agpfpa
-izmenjave	Ncfpa
-,	Z
-ki	Cs
-v	Sl
-prihodnosti	Ncfsl
-tudi	Q
-lahko	Rgp
-prinesejo	Vmer3p
-gospodarske	Agpmpa
-rezultate	Ncmpa
-.	Z
-Upam	Vmpr1s
-,	Z
-da	Cs
-bomo	Va-f1p-n
-to	Pd-nsa
-odpravili	Vmep-pm
-in	Cc
-Slovenijo	Npfsa
-naredili	Vmep-pm
-prijaznejšo	Agcfsa
-za	Sa
-tujce	Ncmpa
-,	Z
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-.	Z
-Sicer	Q
-pa	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-zunanji	Agpmsny
-minister	Ncmsn
-po	Sl
-ogledu	Ncmsl
-sejma	Ncmsg
-najbolj	Rgs
-navdušen	Appmsnn
-nad	Si
-turško	Agpfsi
-predstavitvijo	Ncfsi
-.	Z
-Turki	Npmpn
-pa	Cc
-so	Va-r3p-n
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-pomemben	Agpmsnn
-strateški	Agpmsny
-gospodarski	Agpmsay
-partner	Ncmsan
-.	Z
-Slovenija	Npfsn
-preveč	Rgp
-zaprta	Appfsn
-za	Sa
-tuja	Agpnpa
-vlaganja	Ncnpa
-Erjavec	Npmsn
-je	Va-r3s-n
-tudi	Q
-izrazil	Vmep-sm
-mnenje	Ncnsa
-,	Z
-da	Cs
-je	Va-r3s-n
-Slovenija	Npfsn
-preveč	Rgp
-zaprta	Appfsn
-za	Sa
-tuje	Agpmpa
-vlagatelje	Ncmpa
-,	Z
-razlogi	Ncmpn
-pa	Cc
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-tičijo	Vmpr3p
-v	Sl
-dejstvu	Ncnsl
-,	Z
-da	Cs
-smo	Va-r1p-n
-imeli	Vmpp-pm
-do	Sg
-leta	Ncnsg
-2008	Mdc
-dober	Agpmsan
-gospodarski	Agpmsay
-položaj	Ncmsan
-in	Cc
-nam	Pp1-pd
-niti	Q
-ni	Va-r3s-y
-bilo	Va-p-sn
-treba	Rgp
-iskati	Vmpn
-tujih	Agpmpg
-trgov	Ncmpg
-.	Z
+token	tag	lemma
+Virant	mte:Npmsn	Virant
+vztraja	mte:Vmpr3s	vztrajati
+pri	mte:Sl	pri
+svojem	mte:Px-msl	svoj
+načrtu	mte:Ncmsl	načrt
+krčenja	mte:Ncnsg	krčenje
+občin	mte:Ncfpg	občina
+Ministrski	mte:Agpmsny	ministrski
+trojček	mte:Ncmsn	trojček
+-	mte:Z	-
+Gregor	mte:Npmsn	Gregor
+Virant	mte:Npmsn	Virant
+,	mte:Z	,
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+in	mte:Cc	in
+Samo	mte:Q	samo
+Omerzel	mte:Npmsn	Omerzel
+-	mte:Z	-
+je	mte:Va-r3s-n	biti
+obiskal	mte:Vmep-sm	obiskati
+celjski	mte:Agpmsay	celjski
+obrtni	mte:Agpmsay	obrten
+sejem	mte:Ncmsan	sejem
+.	mte:Z	.
+Erjavec	mte:Npmsn	Erjavec
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+zaradi	mte:Sg	zaradi
+birokratskih	mte:Agpfpg	birokratski
+ovir	mte:Ncfpg	ovira
+podjetniki	mte:Ncmpn	podjetnik
+iz	mte:Sg	iz
+neevropskih	mte:Agpfpg	neevropski
+držav	mte:Ncfpg	država
+velike	mte:Agpfpa	velik
+težave	mte:Ncfpa	težava
+pri	mte:Sl	pri
+pridobivanju	mte:Ncnsl	pridobivanje
+vizumov	mte:Ncmpg	vizum
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+notranje	mte:Agpfpa	notranji
+zadeve	mte:Ncfpa	zadeva
+in	mte:Cc	in
+javno	mte:Agpfsa	javen
+upravo	mte:Ncfsa	uprava
+Gregor	mte:Npmsn	Gregor
+Virant	mte:Npmsn	Virant
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+glede	mte:Sg	glede
+zmanjševanja	mte:Ncnsg	zmanjševanje
+občin	mte:Ncfpg	občina
+na	mte:Sl	na
+prvem	mte:Mlomsl	prvi
+posvetu	mte:Ncmsl	posvet
+s	mte:Si	z
+strokovnjaki	mte:Ncmpi	strokovnjak
+srečal	mte:Vmep-sm	srečati
+že	mte:Q	že
+prihodnji	mte:Agpmsay	prihodnji
+teden	mte:Ncmsan	teden
+.	mte:Z	.
+Odločil	mte:Vmep-sm	odločiti
+sem	mte:Va-r1s-n	biti
+se	mte:Px------y	se
+dati	mte:Vmen	dati
+prednost	mte:Ncfsa	prednost
+strokovni	mte:Agpfsd	strokoven
+kakovosti	mte:Ncfsd	kakovost
+tega	mte:Pd-msg	ta
+projekta	mte:Ncmsg	projekt
+pred	mte:Si	pred
+časovno	mte:Agpfsi	časovno
+dinamiko	mte:Ncfsi	dinamika
+.	mte:Z	.
+Naredili	mte:Vmep-pm	narediti
+bomo	mte:Va-f1p-n	biti
+strokovno	mte:Rgp	strokovno
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+,	mte:Z	,
+cilj	mte:Ncmsn	cilj
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+jasen	mte:Agpmsnn	jasen
+manjše	mte:Agcnsa	majhen
+število	mte:Ncnsa	število
+občin	mte:Ncfpg	občina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+.	mte:Z	.
+Zavrnil	mte:Vmep-sm	zavrniti
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+argumente	mte:Ncmpa	argument
+županov	mte:Ncmpg	župan
+manjših	mte:Agcfpg	majhen
+občin	mte:Ncfpg	občina
+,	mte:Z	,
+da	mte:Cs	da
+merilo	mte:Ncnsn	merilo
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+smelo	mte:Vmpp-sn	smeti
+biti	mte:Va-n	biti
+le	mte:Q	le
+število	mte:Ncnsn	število
+prebivalcev	mte:Ncmpg	prebivalec
+.	mte:Z	.
+Ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+odkrivati	mte:Vmpn	odkrivati
+tople	mte:Agpfsg	topel
+vode	mte:Ncfsg	voda
+,	mte:Z	,
+izračun	mte:Ncmsn	izračun
+je	mte:Va-r3s-n	biti
+enostaven	mte:Agpmsnn	enostaven
+.	mte:Z	.
+Če	mte:Cs	če
+zložiš	mte:Vmer2s	zložiti
+skupaj	mte:Rgp	skupaj
+tri	mte:Mlcfpa	trije
+občine	mte:Ncfpa	občina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+namesto	mte:Sg	namesto
+treh	mte:Mlcmpg	trije
+županov	mte:Ncmpg	župan
+eden	mte:Mlpmsn	eden
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+občinskimi	mte:Agpfpi	občinski
+upravami	mte:Ncfpi	uprava
+,	mte:Z	,
+sveti	mte:Ncmsn	svet
+in	mte:Cc	in
+tako	mte:Rgp	tako
+dalje	mte:Rgp	dalje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+ponazoril	mte:Vmep-sm	ponazoriti
+Virant	mte:Npmsn	Virant
+.	mte:Z	.
+Erjavec	mte:Npmsn	Erjavec
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+srečeval	mte:Vmpp-sm	srečevati
+z	mte:Si	z
+diplomati	mte:Ncmpi	diplomat
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+zunanje	mte:Agpfpa	zunanji
+zadeve	mte:Ncfpa	zadeva
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+MOS	mte:Npmsn	MOS
+-	mte:Z	-
+u	mte:Npmsl	u
+srečal	mte:Vmep-sm	srečati
+z	mte:Si	z
+več	mte:Rgc	več
+kot	mte:Cs	kot
+25	mte:Mdc	25
+diplomati	mte:Ncmpi	diplomat
+iz	mte:Sg	iz
+različnih	mte:Agpfpg	različen
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+na	mte:Sa	na
+težave	mte:Ncfpa	težava
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+imajo	mte:Vmpr3p-n	imeti
+podjetniki	mte:Ncmpn	podjetnik
+pri	mte:Sl	pri
+pridobivanju	mte:Ncnsl	pridobivanje
+vizumov	mte:Ncmpg	vizum
+.	mte:Z	.
+Ti	mte:Pd-mpn	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+ena	mte:Mlpfsn	en
+glavnih	mte:Agpfpg	glaven
+težav	mte:Ncfpg	težava
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+se	mte:Px------y	se
+srečujejo	mte:Vmpr3p	srečevati
+podjetniki	mte:Ncmpn	podjetnik
+,	mte:Z	,
+ki	mte:Cs	ki
+želijo	mte:Vmpr3p	želeti
+priti	mte:Vmen	priti
+v	mte:Sa	v
+Slovenijo	mte:Npfsa	Slovenija
+iz	mte:Sg	iz
+bolj	mte:Rgc	bolj
+oddaljenih	mte:Agpfpg	oddaljen
+,	mte:Z	,
+neevropskih	mte:Agpfpg	neevropski
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Z	mte:Si	z
+ministrom	mte:Ncmsi	minister
+za	mte:Sa	za
+notranje	mte:Agpfpa	notranji
+zadeve	mte:Ncfpa	zadeva
+in	mte:Cc	in
+javno	mte:Agpfsa	javen
+upravo	mte:Ncfsa	uprava
+Gregorjem	mte:Npmsi	Gregor
+Virantom	mte:Npmsi	Virant
+sva	mte:Va-r1d-n	biti
+se	mte:Px------y	se
+dogovorila	mte:Vmep-dm	dogovoriti
+,	mte:Z	,
+da	mte:Cs	da
+pripravimo	mte:Vmer1p	pripraviti
+zakonodajo	mte:Ncfsa	zakonodaja
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+olajšala	mte:Vmep-dm	olajšati
+pridobivanje	mte:Ncnsa	pridobivanje
+vizumov	mte:Ncmpg	vizum
+.	mte:Z	.
+Vezani	mte:Appmpn	vezan
+smo	mte:Va-r1p-n	biti
+sicer	mte:Q	sicer
+na	mte:Sa	na
+evropski	mte:Agpmsay	evropski
+pravni	mte:Agpmsay	praven
+red	mte:Ncmsan	red
+,	mte:Z	,
+vendar	mte:Cc	vendar
+smo	mte:Va-r1p-n	biti
+znotraj	mte:Sg	znotraj
+tega	mte:Pd-nsg	ta
+tudi	mte:Q	tudi
+sami	mte:Agpmpn	sam
+malo	mte:Rgp	malo
+zbirokratizirali	mte:Vmbp-pm	zbirokratizirati
+postopke	mte:Ncmpa	postopek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+razložil	mte:Vmep-sm	razložiti
+Erjavec	mte:Npmsn	Erjavec
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+mora	mte:Vmpr3s	morati
+kdaj	mte:Rgp	kdaj
+pa	mte:Cc	pa
+kdaj	mte:Rgp	kdaj
+osebno	mte:Agpnsn	oseben
+posredovati	mte:Vmbn	posredovati
+,	mte:Z	,
+da	mte:Cs	da
+poslovneži	mte:Ncmpn	poslovnež
+dobijo	mte:Vmer3p	dobiti
+vizum	mte:Ncmsan	vizum
+.	mte:Z	.
+Podobno	mte:Agpnsn	podoben
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+drugih	mte:Mlpnpl	drug
+področjih	mte:Ncnpl	področje
+,	mte:Z	,
+ko	mte:Cs	ko
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+profesorje	mte:Ncmpa	profesor
+,	mte:Z	,
+študente	mte:Ncmpa	študent
+,	mte:Z	,
+študentske	mte:Agpfpa	študentski
+izmenjave	mte:Ncfpa	izmenjava
+,	mte:Z	,
+ki	mte:Cs	ki
+v	mte:Sl	v
+prihodnosti	mte:Ncfsl	prihodnost
+tudi	mte:Q	tudi
+lahko	mte:Rgp	lahko
+prinesejo	mte:Vmer3p	prinesti
+gospodarske	mte:Agpmpa	gospodarski
+rezultate	mte:Ncmpa	rezultat
+.	mte:Z	.
+Upam	mte:Vmpr1s	upati
+,	mte:Z	,
+da	mte:Cs	da
+bomo	mte:Va-f1p-n	biti
+to	mte:Pd-nsa	ta
+odpravili	mte:Vmep-pm	odpraviti
+in	mte:Cc	in
+Slovenijo	mte:Npfsa	Slovenija
+naredili	mte:Vmep-pm	narediti
+prijaznejšo	mte:Agcfsa	prijazen
+za	mte:Sa	za
+tujce	mte:Ncmpa	tujec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+po	mte:Sl	po
+ogledu	mte:Ncmsl	ogled
+sejma	mte:Ncmsg	sejma
+najbolj	mte:Rgs	najbolj
+navdušen	mte:Appmsnn	navdušen
+nad	mte:Si	nad
+turško	mte:Agpfsi	turški
+predstavitvijo	mte:Ncfsi	predstavitev
+.	mte:Z	.
+Turki	mte:Npmpn	Turek
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+pomemben	mte:Agpmsnn	pomemben
+strateški	mte:Agpmsny	strateški
+gospodarski	mte:Agpmsay	gospodarski
+partner	mte:Ncmsan	partner
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+preveč	mte:Rgp	preveč
+zaprta	mte:Appfsn	zaprt
+za	mte:Sa	za
+tuja	mte:Agpnpa	tuj
+vlaganja	mte:Ncnpa	vlaganje
+Erjavec	mte:Npmsn	Erjavec
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+izrazil	mte:Vmep-sm	izraziti
+mnenje	mte:Ncnsa	mnenje
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+preveč	mte:Rgp	preveč
+zaprta	mte:Appfsn	zaprt
+za	mte:Sa	za
+tuje	mte:Agpmpa	tuj
+vlagatelje	mte:Ncmpa	vlagatelj
+,	mte:Z	,
+razlogi	mte:Ncmpn	razlog
+pa	mte:Cc	pa
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+tičijo	mte:Vmpr3p	tičati
+v	mte:Sl	v
+dejstvu	mte:Ncnsl	dejstvo
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+imeli	mte:Vmpp-pm	imeti
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+dober	mte:Agpmsan	dober
+gospodarski	mte:Agpmsay	gospodarski
+položaj	mte:Ncmsan	položaj
+in	mte:Cc	in
+nam	mte:Pp1-pd	jaz
+niti	mte:Q	niti
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+iskati	mte:Vmpn	iskati
+tujih	mte:Agpmpg	tuj
+trgov	mte:Ncmpg	trg
+.	mte:Z	.
+Danes	mte:Rgp	danes
+že	mte:Q	že
+lahko	mte:Rgp	lahko
+govorimo	mte:Vmpr1p	govoriti
+o	mte:Sl	o
+premikih	mte:Ncmpl	premik
+v	mte:Sl	v
+miselnosti	mte:Ncfsl	miselnost
+,	mte:Z	,
+gospodarstvo	mte:Ncnsn	gospodarstvo
+ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+bomo	mte:Va-f1p-n	biti
+brez	mte:Sg	brez
+novih	mte:Agpmpg	nov
+trgov	mte:Ncmpg	trg
+težko	mte:Rgp	težko
+dosegli	mte:Vmep-pm	doseči
+dobre	mte:Agpmpa	dober
+rezultate	mte:Ncmpa	rezultat
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Erjavec	mte:Npmsn	Erjavec
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+Slovenija	mte:Npfsn	Slovenija
+odpreti	mte:Vmen	odpreti
+za	mte:Sa	za
+tiste	mte:Pd-mpa	tisti
+trge	mte:Ncmpa	trg
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+Rusija	mte:Npfsn	Rusija
+,	mte:Z	,
+Turčija	mte:Npfsn	Turčija
+,	mte:Z	,
+Kazahstan	mte:Npmsn	Kazahstan
+,	mte:Z	,
+Indija	mte:Npfsn	Indija
+in	mte:Cc	in
+Južna	mte:Agpfsn	južen
+Amerika	mte:Npfsn	Amerika
+,	mte:Z	,
+ki	mte:Cs	ki
+nimajo	mte:Vmpr3p-y	imeti
+takšne	mte:Pd-fsg	takšen
+gospodarske	mte:Agpfsg	gospodarski
+krize	mte:Ncfsg	kriza

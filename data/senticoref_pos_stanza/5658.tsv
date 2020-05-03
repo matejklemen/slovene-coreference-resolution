@@ -1,148 +1,186 @@
-token	tag
-Bo	Va-f3s-n
-upodobitev	Ncfsn
-Alfreda	Npmsg
-Hitchcocka	Npmsg
-najboljša	Agsfsn
-vloga	Ncfsn
-Anthonyja	Npmsg
-Hopkinsa	Npmsg
-?	Z
-Britanski	Agpmsny
-igralec	Ncmsn
-Anthony	Npmsn
-Hopkins	Npmsn
-slovi	Vmpr3s
-po	Sl
-vlogah	Ncfpl
-v	Sl
-srhljivkah	Ncfpl
-,	Z
-kot	Cs
-je	Va-r3s-n
-Ko	Cs
-jagenjčki	Ncmpn
-obmolknejo	Rgs
-(	Z
-1991	Mdc
-)	Z
-,	Z
-toda	Cc
-njegova	Ps3fsnsm
-najboljša	Agsfsn
-vloga	Ncfsn
-utegne	Vmbr3s
-postati	Vmen
-upodobitev	Ncfsa
-samega	Agpmsg
-mojstra	Ncmsg
-suspenza	Ncmsg
--	Z
-Alfreda	Npmsg
-Hitchcocka	Npmsg
-.	Z
-Vsaj	Q
-tako	Rgp
-je	Va-r3s-n
-soditi	Vmpn
-po	Sl
-fotografijah	Ncfpl
-s	Sg
-prizorišča	Ncnsg
-snemanja	Ncnsg
-filma	Ncmsg
-,	Z
-poroča	Vmpr3s
-nemška	Agpfsn
-tiskovna	Agpfsn
-agencija	Ncfsn
-dpa	Npfsn
-.	Z
-Alfred	Npmsn
-Hitchcock	Npmsn
-ali	Cc
-Anthony	Npmsn
-Hopkins	Npmsn
-?	Z
-Anthony	Npmsn
-Hopkins	Npmsn
-.	Z
-Na	Sl
-fotografiji	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-ta	Pd-msa
-teden	Ncmsan
-objavila	Vmep-sf
-ameriška	Agpfsn
-revija	Ncfsn
-People	Npfsn
-,	Z
-je	Va-r3s-n
-Hopkins	Npmsn
-osupljivo	Rgp
-podoben	Agpmsnn
-režiserju	Ncmsd
-legendarnega	Agpmsg
-Psiha	Ncmsg
-(	Z
-1960	Mdc
-)	Z
-.	Z
-Film	Ncmsan
-s	Si
-preprostim	Agpmsi
-naslovom	Ncmsi
-Hitchcock	Npmsn
-so	Va-r3p-n
-začeli	Vmep-pm
-snemati	Vmpn
-minuli	Appmsay
-teden	Ncmsan
-,	Z
-posveča	Vmpr3s
-pa	Cc
-se	Px------y
-zgodbi	Ncfsd
-v	Sl
-ozadju	Ncnsl
-snemanja	Ncnsg
-omenjene	Appfsg
-srhljivke	Ncfsg
-.	Z
-V	Sl
-filmu	Ncmsl
-tudi	Q
-"	Z
-kraljica	Ncfsn
-"	Z
-V	Sl
-filmu	Ncmsl
-bo	Va-f3s-n
-v	Sl
-vlogi	Ncfsl
-režiserjeve	Aspfsg
-žene	Ncfsg
-Alme	Npfsn
-nastopila	Vmep-sf
-Helen	Npfsn
-Mirren	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-navdušila	Vmep-sf
-z	Si
-upodobitvijo	Ncfsi
-britanske	Agpfsg
-kraljice	Ncfsg
-Elizabete	Npfsg
-II	Mrc
-v	Sl
-filmu	Ncmsl
-Kraljica	Npfsn
-(	Z
-2006	Mdc
-)	Z
-.	Z
+token	tag	lemma
+Bo	mte:Va-f3s-n	biti
+upodobitev	mte:Ncfsn	upodobitev
+Alfreda	mte:Npmsg	Alfred
+Hitchcocka	mte:Npmsg	Hitchcock
+najboljša	mte:Agsfsn	dober
+vloga	mte:Ncfsn	vloga
+Anthonyja	mte:Npmsg	Anthony
+Hopkinsa	mte:Npmsg	Hopkins
+?	mte:Z	?
+Britanski	mte:Agpmsny	britanski
+igralec	mte:Ncmsn	igralec
+Anthony	mte:Npmsn	Anthony
+Hopkins	mte:Npmsn	Hopkins
+slovi	mte:Vmpr3s	sloveti
+po	mte:Sl	po
+vlogah	mte:Ncfpl	vloga
+v	mte:Sl	v
+srhljivkah	mte:Ncfpl	srhljivka
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Ko	mte:Cs	ko
+jagenjčki	mte:Ncmpn	jagenjčka
+obmolknejo	mte:Rgs	obmolknejo
+(	mte:Z	(
+1991	mte:Mdc	1991
+)	mte:Z	)
+,	mte:Z	,
+toda	mte:Cc	toda
+njegova	mte:Ps3fsnsm	njegov
+najboljša	mte:Agsfsn	dober
+vloga	mte:Ncfsn	vloga
+utegne	mte:Vmbr3s	utegniti
+postati	mte:Vmen	postati
+upodobitev	mte:Ncfsa	upodobitev
+samega	mte:Agpmsg	sam
+mojstra	mte:Ncmsg	mojster
+suspenza	mte:Ncmsg	suspenza
+-	mte:Z	-
+Alfreda	mte:Npmsg	Alfred
+Hitchcocka	mte:Npmsg	Hitchcock
+.	mte:Z	.
+Vsaj	mte:Q	vsaj
+tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+soditi	mte:Vmpn	soditi
+po	mte:Sl	po
+fotografijah	mte:Ncfpl	fotografija
+s	mte:Sg	z
+prizorišča	mte:Ncnsg	prizorišče
+snemanja	mte:Ncnsg	snemanje
+filma	mte:Ncmsg	film
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+nemška	mte:Agpfsn	nemški
+tiskovna	mte:Agpfsn	tiskoven
+agencija	mte:Ncfsn	agencija
+dpa	mte:Npfsn	dpa
+.	mte:Z	.
+Alfred	mte:Npmsn	Alfred
+Hitchcock	mte:Npmsn	Hitchcock
+ali	mte:Cc	ali
+Anthony	mte:Npmsn	Anthony
+Hopkins	mte:Npmsn	Hopkins
+?	mte:Z	?
+Anthony	mte:Npmsn	Anthony
+Hopkins	mte:Npmsn	Hopkins
+.	mte:Z	.
+Na	mte:Sl	na
+fotografiji	mte:Ncfsl	fotografija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msa	ta
+teden	mte:Ncmsan	teden
+objavila	mte:Vmep-sf	objaviti
+ameriška	mte:Agpfsn	ameriški
+revija	mte:Ncfsn	revija
+People	mte:Npfsn	People
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Hopkins	mte:Npmsn	Hopkins
+osupljivo	mte:Rgp	osupljivo
+podoben	mte:Agpmsnn	podoben
+režiserju	mte:Ncmsd	režiser
+legendarnega	mte:Agpmsg	legendaren
+Psiha	mte:Ncmsg	psih
+(	mte:Z	(
+1960	mte:Mdc	1960
+)	mte:Z	)
+.	mte:Z	.
+Film	mte:Ncmsan	film
+s	mte:Si	z
+preprostim	mte:Agpmsi	preprost
+naslovom	mte:Ncmsi	naslov
+Hitchcock	mte:Npmsn	Hitchcock
+so	mte:Va-r3p-n	biti
+začeli	mte:Vmep-pm	začeti
+snemati	mte:Vmpn	snemati
+minuli	mte:Appmsay	minul
+teden	mte:Ncmsan	teden
+,	mte:Z	,
+posveča	mte:Vmpr3s	posvečati
+pa	mte:Cc	pa
+se	mte:Px------y	se
+zgodbi	mte:Ncfsd	zgodba
+v	mte:Sl	v
+ozadju	mte:Ncnsl	ozadje
+snemanja	mte:Ncnsg	snemanje
+omenjene	mte:Appfsg	omenjen
+srhljivke	mte:Ncfsg	srhljivka
+.	mte:Z	.
+V	mte:Sl	v
+filmu	mte:Ncmsl	film
+tudi	mte:Q	tudi
+"	mte:Z	"
+kraljica	mte:Ncfsn	kraljica
+"	mte:Z	"
+V	mte:Sl	v
+filmu	mte:Ncmsl	film
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+vlogi	mte:Ncfsl	vloga
+režiserjeve	mte:Aspfsg	režiserjev
+žene	mte:Ncfsg	žena
+Alme	mte:Npfsn	Alme
+nastopila	mte:Vmep-sf	nastopiti
+Helen	mte:Npfsn	Helen
+Mirren	mte:Npfsn	Mirren
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+navdušila	mte:Vmep-sf	navdušiti
+z	mte:Si	z
+upodobitvijo	mte:Ncfsi	upodobitev
+britanske	mte:Agpfsg	britanski
+kraljice	mte:Ncfsg	kraljica
+Elizabete	mte:Npfsg	Elizabeta
+II	mte:Mrc	II
+v	mte:Sl	v
+filmu	mte:Ncmsl	film
+Kraljica	mte:Npfsn	Kraljica
+(	mte:Z	(
+2006	mte:Mdc	2006
+)	mte:Z	)
+.	mte:Z	.
+Scarlett	mte:Npfsn	Scarlett
+Johansson	mte:Npfsn	Johansson
+bo	mte:Va-f3s-n	biti
+Janet	mte:Npfsn	Janet
+Leigh	mte:Npfsn	Leigh
+,	mte:Z	,
+dama	mte:Ncfsn	dam
+v	mte:Sl	v
+legendarni	mte:Agpfsl	legendaren
+sceni	mte:Ncfsl	scena
+s	mte:Si	z
+tušem	mte:Ncmsi	tuš
+,	mte:Z	,
+Jessica	mte:Npfsn	Jessica
+Biel	mte:Npfsn	Biel
+bo	mte:Va-f3s-n	biti
+nastopila	mte:Vmep-sf	nastopiti
+kot	mte:Cs	kot
+igralka	mte:Ncfsn	igralka
+Vera	mte:Npfsn	Vera
+Miles	mte:Npmsn	Miles
+,	mte:Z	,
+ki	mte:Cs	ki
+v	mte:Sl	v
+Psihu	mte:Npmsl	PSih
+igra	mte:Vmpr3s	igrati
+sestro	mte:Ncfsa	sestra
+Leighove	mte:Aspfsg	Leighov
+,	mte:Z	,
+James	mte:Npmsn	James
+D'Arcy	mte:Npmsn	D'Arcy
+pa	mte:Cc	pa
+kot	mte:Cs	kot
+glavni	mte:Agpmsny	glaven
+igralec	mte:Ncmsn	igralec
+Psiha	mte:Npfsn	PSih
+Anthony	mte:Npmsn	Anthony
+Perkins	mte:Npmsn	Perkins

@@ -1,150 +1,154 @@
-token	tag
-Predsednik	Ncmsn
-Türk	Npmsn
-je	Va-r3s-n
-za	Sa
-prosta	Agpnpa
-mesta	Ncnpa
-ustavnih	Agpmpg
-sodnikov	Ncmpg
-predlagal	Vmbp-sm
-dr	Npmsn
-.	Z
-Mitjo	Npmsay
-Deisingerja	Npmsay
-,	Z
-Jasno	Npfsa
-Pogačar	Npfsa
-,	Z
-Jana	Npfsa
-Zobca	Npmsay
-in	Cc
-prof	Npfsa
-.	Z
-dr	Npmsa
-.	Z
-Ernesta	Npmsay
-Petriča	Npmsay
-.	Z
-Predsednik	Ncmsn
-republike	Ncfsg
-Danilo	Npmsn
-Türk	Npmsn
-je	Va-r3s-n
-državnemu	Agpmsd
-zboru	Ncmsd
-posredoval	Vmbp-sm
-predlog	Ncmsan
-štirih	Mlcmpg
-kandidatov	Ncmpg
-za	Sa
-štiri	Mlcnpa
-prosta	Agpnpa
-mesta	Ncnpa
-ustavnih	Agpmpg
-sodnikov	Ncmpg
-Ustavnega	Agpnsg
-sodišča	Ncnsg
-Republike	Ncfsg
-Slovenije	Npfsg
-.	Z
-Predlagani	Appmpn
-kandidati	Ncmpn
-predsednika	Ncmsg
-republike	Ncfsg
-za	Sa
-ustavne	Agpmpa
-sodnike	Ncmpa
-so	Va-r3p-n
-sodniki	Ncmpn
-Vrhovnega	Agpnsg
-sodišča	Ncnsg
-Republike	Ncfsg
-Slovenije	Npfsg
-dr	Npfsg
-.	Z
-Mitja	Npmsn
-Deisinger	Npmsn
-,	Z
-Jasna	Npfsn
-Pogačar	Npfsn
-in	Cc
-Jan	Npmsn
-Zobec	Npmsn
-ter	Cc
-veleposlanik	Ncmsn
-Republike	Ncfsg
-Slovenije	Npfsg
-v	Sl
-Republiki	Ncfsl
-Avstriji	Npfsl
-prof	Npfsn
-.	Z
-dr	Npmsn
-.	Z
-Ernest	Npmsn
-Petrič	Npmsn
-.	Z
-Kandidati	Npmpn
-kandidirajo	Vmbr3p
-za	Sa
-mesta	Ncnpa
-prof	Npmsn
-.	Z
-dr	Npmsn
-.	Z
-Mirjam	Npfsg
-Marjete	Npfsg
-Škrk	Npfsg
-in	Cc
-prof	Npmsn
-.	Z
-dr	Npmsn
-.	Z
-Janeza	Npmsay
-Čebulja	Npmsay
-,	Z
-ki	Cs
-jima	Pp3mdd--y
-je	Va-r3s-n
-mandat	Ncmsn
-potekel	Vmep-sm
-30	Mdc
-.	Z
-oktobra	Ncmsg
-2007	Mdc
-,	Z
-prof	Npmsn
-.	Z
-dr	Npmsn
-.	Z
-Zvonka	Npmsay
-Fišerja	Npmsay
-,	Z
-ki	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-mandat	Ncmsn
-potekel	Vmep-sm
-17	Mdc
-.	Z
-decembra	Ncmsg
-2007	Mdc
-,	Z
-ter	Cc
-prof	Npmsn
-.	Z
-dr	Npmsn
-.	Z
-Franca	Npmsay
-Grada	Npmsay
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-na	Sa
-lastno	Agpfsa
-zahtevo	Ncfsa
-s	Si
-1	Mdc
-.	Z
+token	tag	lemma
+Predsednik	mte:Ncmsn	predsednik
+Türk	mte:Npmsn	Türk
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+prosta	mte:Agpnpa	prost
+mesta	mte:Ncnpa	mesto
+ustavnih	mte:Agpmpg	ustaven
+sodnikov	mte:Ncmpg	sodnik
+predlagal	mte:Vmbp-sm	predlagati
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Mitjo	mte:Npmsay	Mitja
+Deisingerja	mte:Npmsay	Deisinger
+,	mte:Z	,
+Jasno	mte:Npfsa	Jasna
+Pogačar	mte:Npfsa	Pogačar
+,	mte:Z	,
+Jana	mte:Npfsa	Jana
+Zobca	mte:Npmsay	Zobc
+in	mte:Cc	in
+prof	mte:Npfsa	prof
+.	mte:Z	.
+dr	mte:Npmsa	dr
+.	mte:Z	.
+Ernesta	mte:Npmsay	Ernesta
+Petriča	mte:Npmsay	Petrič
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+republike	mte:Ncfsg	republika
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+je	mte:Va-r3s-n	biti
+državnemu	mte:Agpmsd	državen
+zboru	mte:Ncmsd	zbor
+posredoval	mte:Vmbp-sm	posredovati
+predlog	mte:Ncmsan	predlog
+štirih	mte:Mlcmpg	štirje
+kandidatov	mte:Ncmpg	kandidat
+za	mte:Sa	za
+štiri	mte:Mlcnpa	štirje
+prosta	mte:Agpnpa	prost
+mesta	mte:Ncnpa	mesto
+ustavnih	mte:Agpmpg	ustaven
+sodnikov	mte:Ncmpg	sodnik
+Ustavnega	mte:Agpnsg	ustaven
+sodišča	mte:Ncnsg	sodišče
+Republike	mte:Ncfsg	republika
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Predlagani	mte:Appmpn	predlagan
+kandidati	mte:Ncmpn	kandidat
+predsednika	mte:Ncmsg	predsednik
+republike	mte:Ncfsg	republika
+za	mte:Sa	za
+ustavne	mte:Agpmpa	ustaven
+sodnike	mte:Ncmpa	sodnik
+so	mte:Va-r3p-n	biti
+sodniki	mte:Ncmpn	sodnik
+Vrhovnega	mte:Agpnsg	vrhoven
+sodišča	mte:Ncnsg	sodišče
+Republike	mte:Ncfsg	republika
+Slovenije	mte:Npfsg	Slovenija
+dr	mte:Npfsg	dr
+.	mte:Z	.
+Mitja	mte:Npmsn	Mitja
+Deisinger	mte:Npmsn	Deisinger
+,	mte:Z	,
+Jasna	mte:Npfsn	Jasna
+Pogačar	mte:Npfsn	Pogačar
+in	mte:Cc	in
+Jan	mte:Npmsn	Jan
+Zobec	mte:Npmsn	Zobec
+ter	mte:Cc	ter
+veleposlanik	mte:Ncmsn	veleposlanik
+Republike	mte:Ncfsg	republika
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+Republiki	mte:Ncfsl	republika
+Avstriji	mte:Npfsl	Avstrija
+prof	mte:Npfsn	prof
+.	mte:Z	.
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Ernest	mte:Npmsn	Ernest
+Petrič	mte:Npmsn	Petrič
+.	mte:Z	.
+Kandidati	mte:Npmpn	kandidat
+kandidirajo	mte:Vmbr3p	kandidirati
+za	mte:Sa	za
+mesta	mte:Ncnpa	mesto
+prof	mte:Npmsn	prof
+.	mte:Z	.
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Mirjam	mte:Npfsg	Mirja
+Marjete	mte:Npfsg	Marjeta
+Škrk	mte:Npfsg	Škrk
+in	mte:Cc	in
+prof	mte:Npmsn	prof
+.	mte:Z	.
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Janeza	mte:Npmsay	Janez
+Čebulja	mte:Npmsay	Čebulja
+,	mte:Z	,
+ki	mte:Cs	ki
+jima	mte:Pp3mdd--y	on
+je	mte:Va-r3s-n	biti
+mandat	mte:Ncmsn	mandat
+potekel	mte:Vmep-sm	poteči
+30	mte:Mdc	30
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+2007	mte:Mdc	2007
+,	mte:Z	,
+prof	mte:Npmsn	prof
+.	mte:Z	.
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Zvonka	mte:Npmsay	Zvonka
+Fišerja	mte:Npmsay	Fišer
+,	mte:Z	,
+ki	mte:Cs	ki
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+mandat	mte:Ncmsn	mandat
+potekel	mte:Vmep-sm	poteči
+17	mte:Mdc	17
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+2007	mte:Mdc	2007
+,	mte:Z	,
+ter	mte:Cc	ter
+prof	mte:Npmsn	prof
+.	mte:Z	.
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Franca	mte:Npmsg	Franc
+Grada	mte:Npmsg	Grada
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+lastno	mte:Agpfsa	lasten
+zahtevo	mte:Ncfsa	zahteva
+s	mte:Si	z
+1	mte:Mdc	1
+.	mte:Z	.
+februarjem	mte:Ncmsi	februar
+2008	mte:Mdc	2008
+razrešil	mte:Vmep-sm	razrešiti
+parlament	mte:Ncmsn	parlament

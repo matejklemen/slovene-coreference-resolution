@@ -1,391 +1,431 @@
-token	tag
-Sejem	Ncmsn
-Good	Npmsn
-.	Z
-Vino	Ncnsa
-iz	Sg
-Brd	Npfsg
-,	Z
-cigareSejem	Ncnsd
-Good	Npmsn
-.	Z
-Vino	Ncnsn
-iz	Sg
-Brd	Npfsg
-,	Z
-cigare	Ncfsg
-iz	Sg
-Toskane	Npfsg
-,	Z
-sladice	Ncfsg
-iz	Sg
-Furlanije	Npfsg
-.	Z
-Prejšnjo	Agpfsa
-nedeljo	Ncfsa
-se	Px------y
-je	Va-r3s-n
-v	Sl
-Vidmu	Npmsl
-končal	Vmep-sm
-sejem	Ncmsn
-Good	Npmsn
-,	Z
-mednarodna	Agpfsn
-prireditev	Ncfsn
-,	Z
-ki	Cs
-so	Va-r3p-n
-jo	Pp3fsa--y
-organizatorji	Ncmpn
-podnaslovili	Vmep-pm
-tudi	Q
-z	Si
-vabilom	Ncnsi
-Kakovost	Ncfsa
-na	Sl
-vaši	Ps1fslp
-mizi	Ncfsl
-.	Z
-"	Z
-Italijani	Npmpn
-so	Va-r3p-n
-glede	Sg
-pitja	Ncnsg
-vina	Ncnsg
-predvidljivejši	Agcmpn
-in	Cc
-manj	Rgc
-naklonjeni	Appmpn
-eksperimentiranju	Ncnsd
-kot	Cs
-Avstrijci	Npmpn
-,	Z
-ti	Pd-mpn
-so	Va-r3p-n
-bolj	Rgc
-dovzetni	Agpmpn
-za	Sa
-nove	Agpmpa
-okuse	Ncmpa
-,	Z
-"	Z
-ugotavlja	Vmpr3s
-Miran	Npmsn
-Šibav	Npmsn
-,	Z
-vinar	Ncmsn
-iz	Sg
-Goriških	Agpfpg
-brd	Npfpg
-.	Z
-Kriza	Ncfsn
-cen	Ncfpg
-njegovih	Ps3fpgsm
-vin	Ncfpg
-ni	Va-r3s-y
-znižala	Vmep-sf
-,	Z
-prodaja	Ncfsn
-na	Sl
-slovenskem	Agpmsl
-,	Z
-italijanskem	Agpmsl
-,	Z
-švicarskem	Agpmsl
-trgu	Ncmsl
-in	Cc
-na	Sl
-trgu	Ncmsl
-avstrijske	Agpfsg
-Koroške	Npfsg
-.	Z
-"	Z
-Na	Sa
-dan	Ncmsan
-iz	Sg
-listov	Ncmpg
-tobaka	Ncmsg
-ročno	Rgp
-izdelamo	Vmer1p
-po	Sa
-500	Mdc
-cigar	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-nekoliko	Rgp
-močnejše	Agcfpn
-od	Sg
-strojno	Rgp
-izdelanih	Appmpg
-,	Z
-"	Z
-je	Va-r3s-n
-povedala	Vmep-sf
-Lisa	Npfsn
-Pieri	Npfsn
-.	Z
-©	Npfsn
-Suzana	Npfsn
-Kos	Ncmsn
-Stroške	Ncmsg
-udeležbe	Ncfsg
-na	Sl
-sejmu	Ncmsl
-vinarjem	Ncmpd
-polovično	Rgp
-sofinancira	Vmbr3s
-tudi	Q
-država	Ncfsn
-,	Z
-a	Cc
-še	Q
-vedno	Rgp
-čakajo	Vmpr3p
-na	Sa
-izplačilo	Ncnsa
-za	Sa
-lanske	Agpfpa
-tovrstne	Agpfpa
-prireditve	Ncfpa
-.	Z
-Našo	Ps1fsap
-pozornost	Ncfsa
-so	Va-r3p-n
-med	Si
-drugim	Mlpnsi
-pritegnile	Vmep-pf
-umetnine	Ncfpn
-iz	Sg
-testenin	Ncfpg
-,	Z
-ki	Cs
-bi	Va-c
-si	Px---d--y
-jih	Pp3mpa--y
-bilo	Va-p-sn
-z	Si
-nekaj	Rgp
-domišljije	Ncfsg
-mogoče	Agpnsn
-celo	Q
-nadeti	Vmen
-ali	Cc
-pa	Cc
-jih	Pp3mpa--y
-obesiti	Vmen
-na	Sa
-steno	Ncfsa
-domače	Agpfsg
-dnevne	Agpfsg
-sobe	Ncfsg
-.	Z
-Nič	Rgp
-manj	Rgc
-zanimive	Agpfpn
-niso	Va-r3p-y
-bile	Va-p-pf
-slastne	Agpfpn
-sladice	Ncfpn
-,	Z
-pa	Cc
-tudi	Q
-dekle	Ncnsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-izdelovalo	Vmpp-sn
-cigare	Ncfpa
-,	Z
-in	Cc
-to	Pd-nsa
-iz	Sg
-toskanskega	Agpmsg
-tobaka	Ncmsg
-,	Z
-za	Sa
-katerega	Pq-msa
-le	Q
-malokdo	Pi-msn
-ve	Vmpr3s
-,	Z
-da	Cs
-ga	Pp3msa--y
-pridelujejo	Vmpr3p
-v	Sl
-tem	Pd-msl
-delu	Ncmsl
-Italije	Npfsg
-že	Q
-od	Sg
-leta	Ncnsg
-1818	Mdc
-.	Z
-iz	Sg
-Toskane	Npfsg
-,	Z
-sladice	Ncfsg
-iz	Sg
-Furlanije	Npfsg
-.	Z
-Prejšnjo	Agpfsa
-nedeljo	Ncfsa
-se	Px------y
-je	Va-r3s-n
-v	Sl
-Vidmu	Npmsl
-končal	Vmep-sm
-sejem	Ncmsn
-Good	Npmsn
-,	Z
-mednarodna	Agpfsn
-prireditev	Ncfsn
-,	Z
-ki	Cs
-so	Va-r3p-n
-jo	Pp3fsa--y
-organizatorji	Ncmpn
-podnaslovili	Vmep-pm
-tudi	Q
-z	Si
-vabilom	Ncnsi
-Kakovost	Ncfsa
-na	Sl
-vaši	Ps1fslp
-mizi	Ncfsl
-.	Z
-"	Z
-Italijani	Npmpn
-so	Va-r3p-n
-glede	Sg
-pitja	Ncnsg
-vina	Ncnsg
-predvidljivejši	Agcmpn
-in	Cc
-manj	Rgc
-naklonjeni	Appmpn
-eksperimentiranju	Ncnsd
-kot	Cs
-Avstrijci	Npmpn
-,	Z
-ti	Pd-mpn
-so	Va-r3p-n
-bolj	Rgc
-dovzetni	Agpmpn
-za	Sa
-nove	Agpmpa
-okuse	Ncmpa
-,	Z
-"	Z
-ugotavlja	Vmpr3s
-Miran	Npmsn
-Šibav	Npmsn
-,	Z
-vinar	Ncmsn
-iz	Sg
-Goriških	Agpfpg
-brd	Npfpg
-.	Z
-Kriza	Ncfsn
-cen	Ncfpg
-njegovih	Ps3fpgsm
-vin	Ncfpg
-ni	Va-r3s-y
-znižala	Vmep-sf
-,	Z
-prodaja	Ncfsn
-na	Sl
-slovenskem	Agpmsl
-,	Z
-italijanskem	Agpmsl
-,	Z
-švicarskem	Agpmsl
-trgu	Ncmsl
-in	Cc
-na	Sl
-trgu	Ncmsl
-avstrijske	Agpfsg
-Koroške	Npfsg
-.	Z
-"	Z
-Na	Sa
-dan	Ncmsan
-iz	Sg
-listov	Ncmpg
-tobaka	Ncmsg
-ročno	Rgp
-izdelamo	Vmer1p
-po	Sa
-500	Mdc
-cigar	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-nekoliko	Rgp
-močnejše	Agcfpn
-od	Sg
-strojno	Rgp
-izdelanih	Appmpg
-,	Z
-"	Z
-je	Va-r3s-n
-povedala	Vmep-sf
-Lisa	Npfsn
-Pieri	Npfsn
-.	Z
-©	Npfsn
-Suzana	Npfsn
-Kos	Ncmsn
-Stroške	Ncmsg
-udeležbe	Ncfsg
-na	Sl
-sejmu	Ncmsl
-vinarjem	Ncmpd
-polovično	Rgp
-sofinancira	Vmbr3s
-tudi	Q
-država	Ncfsn
-,	Z
-a	Cc
-še	Q
-vedno	Rgp
-čakajo	Vmpr3p
-na	Sa
-izplačilo	Ncnsa
-za	Sa
-lanske	Agpfpa
-tovrstne	Agpfpa
-prireditve	Ncfpa
-.	Z
-Našo	Ps1fsap
-pozornost	Ncfsa
-so	Va-r3p-n
-med	Si
-drugim	Mlpnsi
-pritegnile	Vmep-pf
-umetnine	Ncfpn
-iz	Sg
-testenin	Ncfpg
-,	Z
-ki	Cs
-bi	Va-c
-si	Px---d--y
-jih	Pp3mpa--y
-bilo	Va-p-sn
-z	Si
-nekaj	Rgp
-domišljije	Ncfsg
-mogoče	Agpnsn
-celo	Q
-nadeti	Vmen
-ali	Cc
-pa	Cc
-jih	Pp3mpa--y
-obesiti	Vmen
-na	Sa
-steno	Ncfsa
-domače	Agpfsg
-dnevne	Agpfsg
-sobe	Ncfsg
-.	Z
+token	tag	lemma
+Sejem	mte:Ncmsn	sejem
+Good	mte:Npmsn	Good
+.	mte:Z	.
+Vino	mte:Ncnsa	vino
+iz	mte:Sg	iz
+Brd	mte:Npfsg	Brd
+,	mte:Z	,
+cigareSejem	mte:Ncnsd	cigaresej
+Good	mte:Npmsn	Good
+.	mte:Z	.
+Vino	mte:Ncnsn	vino
+iz	mte:Sg	iz
+Brd	mte:Npfsg	Brd
+,	mte:Z	,
+cigare	mte:Ncfsg	cigar
+iz	mte:Sg	iz
+Toskane	mte:Npfsg	Toskane
+,	mte:Z	,
+sladice	mte:Ncfsg	sladica
+iz	mte:Sg	iz
+Furlanije	mte:Npfsg	Furlanija
+.	mte:Z	.
+Prejšnjo	mte:Agpfsa	prejšnji
+nedeljo	mte:Ncfsa	nedelja
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Vidmu	mte:Npmsl	Vidm
+končal	mte:Vmep-sm	končati
+sejem	mte:Ncmsn	sejem
+Good	mte:Npmsn	Good
+,	mte:Z	,
+mednarodna	mte:Agpfsn	mednaroden
+prireditev	mte:Ncfsn	prireditev
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jo	mte:Pp3fsa--y	on
+organizatorji	mte:Ncmpn	organizator
+podnaslovili	mte:Vmep-pm	podnasloviti
+tudi	mte:Q	tudi
+z	mte:Si	z
+vabilom	mte:Ncnsi	vabilo
+Kakovost	mte:Ncfsa	kakovost
+na	mte:Sl	na
+vaši	mte:Ps1fslp	vaš
+mizi	mte:Ncfsl	miza
+.	mte:Z	.
+"	mte:Z	"
+Italijani	mte:Npmpn	Italijan
+so	mte:Va-r3p-n	biti
+glede	mte:Sg	glede
+pitja	mte:Ncnsg	pitje
+vina	mte:Ncnsg	vino
+predvidljivejši	mte:Agcmpn	predvidljivej
+in	mte:Cc	in
+manj	mte:Rgc	manj
+naklonjeni	mte:Appmpn	naklonjen
+eksperimentiranju	mte:Ncnsd	eksperimentiranje
+kot	mte:Cs	kot
+Avstrijci	mte:Npmpn	Avstrijca
+,	mte:Z	,
+ti	mte:Pd-mpn	ta
+so	mte:Va-r3p-n	biti
+bolj	mte:Rgc	bolj
+dovzetni	mte:Agpmpn	dovzeten
+za	mte:Sa	za
+nove	mte:Agpmpa	nov
+okuse	mte:Ncmpa	okus
+,	mte:Z	,
+"	mte:Z	"
+ugotavlja	mte:Vmpr3s	ugotavljati
+Miran	mte:Npmsn	Miran
+Šibav	mte:Npmsn	Šibav
+,	mte:Z	,
+vinar	mte:Ncmsn	vinar
+iz	mte:Sg	iz
+Goriških	mte:Agpfpg	goriški
+brd	mte:Npfpg	brd
+.	mte:Z	.
+Kriza	mte:Ncfsn	kriza
+cen	mte:Ncfpg	cena
+njegovih	mte:Ps3fpgsm	njegov
+vin	mte:Ncfpg	vin
+ni	mte:Va-r3s-y	biti
+znižala	mte:Vmep-sf	znižati
+,	mte:Z	,
+prodaja	mte:Ncfsn	prodaja
+na	mte:Sl	na
+slovenskem	mte:Agpmsl	slovenski
+,	mte:Z	,
+italijanskem	mte:Agpmsl	italijanski
+,	mte:Z	,
+švicarskem	mte:Agpmsl	švicarski
+trgu	mte:Ncmsl	trg
+in	mte:Cc	in
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+avstrijske	mte:Agpfsg	avstrijski
+Koroške	mte:Npfsg	Koroška
+.	mte:Z	.
+"	mte:Z	"
+Na	mte:Sa	na
+dan	mte:Ncmsan	dan
+iz	mte:Sg	iz
+listov	mte:Ncmpg	list
+tobaka	mte:Ncmsg	tobak
+ročno	mte:Rgp	ročen
+izdelamo	mte:Vmer1p	izdelati
+po	mte:Sa	po
+500	mte:Mdc	500
+cigar	mte:Ncfpg	cigar
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+nekoliko	mte:Rgp	nekoliko
+močnejše	mte:Agcfpn	močen
+od	mte:Sg	od
+strojno	mte:Rgp	strojen
+izdelanih	mte:Appmpg	izdelan
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedala	mte:Vmep-sf	povedati
+Lisa	mte:Npfsn	Lisa
+Pieri	mte:Npfsn	Pieri
+.	mte:Z	.
+©	mte:Npfsn	©
+Suzana	mte:Npfsn	Suzan
+Kos	mte:Ncmsn	kos
+Stroške	mte:Ncmsg	strošek
+udeležbe	mte:Ncfsg	udeležba
+na	mte:Sl	na
+sejmu	mte:Ncmsl	sejem
+vinarjem	mte:Ncmpd	vinar
+polovično	mte:Rgp	polovično
+sofinancira	mte:Vmbr3s	sofinancirati
+tudi	mte:Q	tudi
+država	mte:Ncfsn	država
+,	mte:Z	,
+a	mte:Cc	a
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+čakajo	mte:Vmpr3p	čakati
+na	mte:Sa	na
+izplačilo	mte:Ncnsa	izplačilo
+za	mte:Sa	za
+lanske	mte:Agpfpa	lanski
+tovrstne	mte:Agpfpa	tovrsten
+prireditve	mte:Ncfpa	prireditev
+.	mte:Z	.
+Našo	mte:Ps1fsap	naš
+pozornost	mte:Ncfsa	pozornost
+so	mte:Va-r3p-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+pritegnile	mte:Vmep-pf	pritegniti
+umetnine	mte:Ncfpn	umetnina
+iz	mte:Sg	iz
+testenin	mte:Ncfpg	testenina
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+si	mte:Px---d--y	se
+jih	mte:Pp3mpa--y	on
+bilo	mte:Va-p-sn	biti
+z	mte:Si	z
+nekaj	mte:Rgp	nekaj
+domišljije	mte:Ncfsg	domišljija
+mogoče	mte:Agpnsn	mogoč
+celo	mte:Q	celo
+nadeti	mte:Vmen	nadeti
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+obesiti	mte:Vmen	obesiti
+na	mte:Sa	na
+steno	mte:Ncfsa	stena
+domače	mte:Agpfsg	domač
+dnevne	mte:Agpfsg	dneven
+sobe	mte:Ncfsg	soba
+.	mte:Z	.
+Nič	mte:Rgp	nič
+manj	mte:Rgc	manj
+zanimive	mte:Agpfpn	zanimiv
+niso	mte:Va-r3p-y	biti
+bile	mte:Va-p-pf	biti
+slastne	mte:Agpfpn	slasten
+sladice	mte:Ncfpn	sladica
+,	mte:Z	,
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+dekle	mte:Ncnsn	dekle
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+izdelovalo	mte:Vmpp-sn	izdelovati
+cigare	mte:Ncfpa	cigar
+,	mte:Z	,
+in	mte:Cc	in
+to	mte:Pd-nsa	ta
+iz	mte:Sg	iz
+toskanskega	mte:Agpmsg	toskanski
+tobaka	mte:Ncmsg	tobak
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+le	mte:Q	le
+malokdo	mte:Pi-msn	malokdo
+ve	mte:Vmpr3s	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+ga	mte:Pp3msa--y	on
+pridelujejo	mte:Vmpr3p	pridelovati
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+delu	mte:Ncmsl	del
+Italije	mte:Npfsg	Italija
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+1818	mte:Mdc	1818
+.	mte:Z	.
+iz	mte:Sg	iz
+Toskane	mte:Npfsg	Toskane
+,	mte:Z	,
+sladice	mte:Ncfsg	sladica
+iz	mte:Sg	iz
+Furlanije	mte:Npfsg	Furlanija
+.	mte:Z	.
+Prejšnjo	mte:Agpfsa	prejšnji
+nedeljo	mte:Ncfsa	nedelja
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Vidmu	mte:Npmsl	Vidm
+končal	mte:Vmep-sm	končati
+sejem	mte:Ncmsn	sejem
+Good	mte:Npmsn	Good
+,	mte:Z	,
+mednarodna	mte:Agpfsn	mednaroden
+prireditev	mte:Ncfsn	prireditev
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jo	mte:Pp3fsa--y	on
+organizatorji	mte:Ncmpn	organizator
+podnaslovili	mte:Vmep-pm	podnasloviti
+tudi	mte:Q	tudi
+z	mte:Si	z
+vabilom	mte:Ncnsi	vabilo
+Kakovost	mte:Ncfsa	kakovost
+na	mte:Sl	na
+vaši	mte:Ps1fslp	vaš
+mizi	mte:Ncfsl	miza
+.	mte:Z	.
+"	mte:Z	"
+Italijani	mte:Npmpn	Italijan
+so	mte:Va-r3p-n	biti
+glede	mte:Sg	glede
+pitja	mte:Ncnsg	pitje
+vina	mte:Ncnsg	vino
+predvidljivejši	mte:Agcmpn	predvidljivej
+in	mte:Cc	in
+manj	mte:Rgc	manj
+naklonjeni	mte:Appmpn	naklonjen
+eksperimentiranju	mte:Ncnsd	eksperimentiranje
+kot	mte:Cs	kot
+Avstrijci	mte:Npmpn	Avstrijca
+,	mte:Z	,
+ti	mte:Pd-mpn	ta
+so	mte:Va-r3p-n	biti
+bolj	mte:Rgc	bolj
+dovzetni	mte:Agpmpn	dovzeten
+za	mte:Sa	za
+nove	mte:Agpmpa	nov
+okuse	mte:Ncmpa	okus
+,	mte:Z	,
+"	mte:Z	"
+ugotavlja	mte:Vmpr3s	ugotavljati
+Miran	mte:Npmsn	Miran
+Šibav	mte:Npmsn	Šibav
+,	mte:Z	,
+vinar	mte:Ncmsn	vinar
+iz	mte:Sg	iz
+Goriških	mte:Agpfpg	goriški
+brd	mte:Npfpg	brd
+.	mte:Z	.
+Kriza	mte:Ncfsn	kriza
+cen	mte:Ncfpg	cena
+njegovih	mte:Ps3fpgsm	njegov
+vin	mte:Ncfpg	vin
+ni	mte:Va-r3s-y	biti
+znižala	mte:Vmep-sf	znižati
+,	mte:Z	,
+prodaja	mte:Ncfsn	prodaja
+na	mte:Sl	na
+slovenskem	mte:Agpmsl	slovenski
+,	mte:Z	,
+italijanskem	mte:Agpmsl	italijanski
+,	mte:Z	,
+švicarskem	mte:Agpmsl	švicarski
+trgu	mte:Ncmsl	trg
+in	mte:Cc	in
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+avstrijske	mte:Agpfsg	avstrijski
+Koroške	mte:Npfsg	Koroška
+.	mte:Z	.
+"	mte:Z	"
+Na	mte:Sa	na
+dan	mte:Ncmsan	dan
+iz	mte:Sg	iz
+listov	mte:Ncmpg	list
+tobaka	mte:Ncmsg	tobak
+ročno	mte:Rgp	ročen
+izdelamo	mte:Vmer1p	izdelati
+po	mte:Sa	po
+500	mte:Mdc	500
+cigar	mte:Ncfpg	cigar
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+nekoliko	mte:Rgp	nekoliko
+močnejše	mte:Agcfpn	močen
+od	mte:Sg	od
+strojno	mte:Rgp	strojen
+izdelanih	mte:Appmpg	izdelan
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedala	mte:Vmep-sf	povedati
+Lisa	mte:Npfsn	Lisa
+Pieri	mte:Npfsn	Pieri
+.	mte:Z	.
+©	mte:Npfsn	©
+Suzana	mte:Npfsn	Suzan
+Kos	mte:Ncmsn	kos
+Stroške	mte:Ncmsg	strošek
+udeležbe	mte:Ncfsg	udeležba
+na	mte:Sl	na
+sejmu	mte:Ncmsl	sejem
+vinarjem	mte:Ncmpd	vinar
+polovično	mte:Rgp	polovično
+sofinancira	mte:Vmbr3s	sofinancirati
+tudi	mte:Q	tudi
+država	mte:Ncfsn	država
+,	mte:Z	,
+a	mte:Cc	a
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+čakajo	mte:Vmpr3p	čakati
+na	mte:Sa	na
+izplačilo	mte:Ncnsa	izplačilo
+za	mte:Sa	za
+lanske	mte:Agpfpa	lanski
+tovrstne	mte:Agpfpa	tovrsten
+prireditve	mte:Ncfpa	prireditev
+.	mte:Z	.
+Našo	mte:Ps1fsap	naš
+pozornost	mte:Ncfsa	pozornost
+so	mte:Va-r3p-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+pritegnile	mte:Vmep-pf	pritegniti
+umetnine	mte:Ncfpn	umetnina
+iz	mte:Sg	iz
+testenin	mte:Ncfpg	testenina
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+si	mte:Px---d--y	se
+jih	mte:Pp3mpa--y	on
+bilo	mte:Va-p-sn	biti
+z	mte:Si	z
+nekaj	mte:Rgp	nekaj
+domišljije	mte:Ncfsg	domišljija
+mogoče	mte:Agpnsn	mogoč
+celo	mte:Q	celo
+nadeti	mte:Vmen	nadeti
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+obesiti	mte:Vmen	obesiti
+na	mte:Sa	na
+steno	mte:Ncfsa	stena
+domače	mte:Agpfsg	domač
+dnevne	mte:Agpfsg	dneven
+sobe	mte:Ncfsg	soba
+.	mte:Z	.
+Nič	mte:Rgp	nič
+manj	mte:Rgc	manj
+zanimive	mte:Agpfpn	zanimiv
+niso	mte:Va-r3p-y	biti
+bile	mte:Va-p-pf	biti
+slastne	mte:Agpfpn	slasten
+sladice	mte:Ncfpn	sladica
+,	mte:Z	,
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+dekle	mte:Ncnsn	dekle
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+izdelovalo	mte:Vmpp-sn	izdelovati
+cigare	mte:Ncfpa	cigar
+,	mte:Z	,
+in	mte:Cc	in
+to	mte:Pd-nsa	ta
+iz	mte:Sg	iz
+toskanskega	mte:Agpmsg	toskanski
+tobaka	mte:Ncmsg	tobak
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+le	mte:Q	le
+malokdo	mte:Pi-msn	malokdo
+ve	mte:Vmpr3s	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+ga	mte:Pp3msa--y	on
+pridelujejo	mte:Vmpr3p	pridelovati
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+delu	mte:Ncmsl	del
+Italije	mte:Npfsg	Italija
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+1818	mte:Mdc	1818

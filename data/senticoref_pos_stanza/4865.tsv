@@ -1,257 +1,269 @@
-token	tag
-V	Sl
-januarski	Agpfsl
-javnomnenjski	Agpfsl
-raziskavi	Ncfsl
-Vox	Ncmsn
-populi	Ncmsn
-delo	Ncnsn
-vlade	Ncfsg
-kot	Cs
-uspešno	Rgp
-ocenjuje	Vmpr3s
-34	Mdc
-odstotkov	Ncmpg
-,	Z
-kot	Cs
-neuspešno	Rgp
-pa	Cc
-58,9	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-V	Sl
-januarski	Agpfsl
-javnomnenjski	Agpfsl
-raziskavi	Ncfsl
-Vox	Npmsn
-populi	Npmsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-opravila	Vmep-sf
-agencija	Ncfsn
-Ninamedia	Npfsn
-,	Z
-delo	Ncnsn
-vlade	Ncfsg
-kot	Cs
-uspešno	Rgp
-ocenjuje	Vmpr3s
-34	Mdc
-odstotkov	Ncmpg
-,	Z
-kot	Cs
-neuspešno	Rgp
-pa	Cc
-58,9	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-.	Z
-Med	Si
-strankami	Ncfpi
-največjo	Agsfsa
-podporo	Ncfsa
-še	Q
-vedno	Rgp
-uživa	Vmpr3s
-opozicijska	Agpfsn
-SDS	Npfsn
-pred	Si
-Socialnimi	Agpmpi
-demokrati	Ncmpi
-,	Z
-je	Va-r3s-n
-poročala	Vmpp-sf
-POP	Npfsn
-TV	Npmsn
-.	Z
-Danes	Rgp
-bi	Va-c
-20,4	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-volilo	Vmbp-sn
-SDS	Npfsn
-Če	Cs
-bi	Va-c
-bile	Va-p-pf
-volitve	Ncfpn
-danes	Rgp
-,	Z
-bi	Va-c
-največ	Rgs
-,	Z
-20,4	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-,	Z
-glasovalo	Vmbp-sn
-za	Sa
-SDS	Npmsa
-,	Z
-za	Sa
-največjo	Agsfsa
-vladno	Agpfsa
-stranko	Ncfsa
-SD	Npfsn
-pa	Cc
-19,6	Mdc
-odstotka	Ncmsg
-.	Z
-Na	Sl
-tretjem	Mlonsl
-mestu	Ncnsl
-je	Va-r3s-n
-presenetljivo	Agpfsn
-SNS	Npfsn
-z	Si
-8,8	Mdc
-odstotka	Ncmsg
-glasov	Ncmpg
-,	Z
-sledijo	Vmpr3p
-ji	Pp3fsd--y
-LDS	Npfsa
-(	Z
-6,1	Mdc
-odstotka	Ncmsg
-)	Z
-,	Z
-Zares	Rgp
-(	Z
-5,4	Mdc
-odstotka	Ncmsg
-)	Z
-,	Z
-DeSUS	Npmsn
-(	Z
-3	Mdc
-odstotki	Ncmpn
-)	Z
-in	Cc
-SLS	Npmsn
-(	Z
-2,8	Mdc
-odstotka	Ncmsg
-)	Z
-.	Z
-Potočnik	Npmsn
-najbolj	Rgs
-priljubljen	Agpmsnn
-politik	Ncmsn
-Na	Sl
-lestvici	Ncfsl
-najbolj	Rgs
-priljubljenih	Agpmpg
-politikov	Ncmpg
-vodi	Vmpr3s
-,	Z
-tokrat	Rgp
-prvič	Rgp
-,	Z
-evropski	Agpmsny
-komisar	Ncmsn
-Janez	Npmsn
-Potočnik	Npmsn
-,	Z
-za	Si
-njim	Pp3msi
-pa	Cc
-sta	Va-r3d-n
-se	Px------y
-uvrstila	Vmep-dm
-gospodarski	Agpmsny
-minister	Ncmsn
-Matej	Npmsn
-Lahovnik	Npmsn
-in	Cc
-predsednik	Ncmsn
-republike	Ncfsg
-Danilo	Npmsn
-Türk	Npmsn
-.	Z
-Notranja	Agpfsn
-ministrica	Ncfsn
-Katarina	Npfsn
-Kresal	Npfsn
-je	Va-r3s-n
-na	Sl
-četrtem	Mlonsl
-mestu	Ncnsl
-,	Z
-sledijo	Vmpr3p
-pa	Cc
-minister	Ncmsn
-za	Sa
-zdravje	Ncnsa
-Borut	Npmsn
-Miklavčič	Npmsn
-,	Z
-obrambna	Agpfsn
-ministrica	Ncfsn
-Ljubica	Npfsn
-Jelušič	Npfsn
-,	Z
-premier	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-in	Cc
-ljubljanski	Agpmsny
-župan	Ncmsn
-Zoran	Npmsn
-Janković	Npmsn
-.	Z
-Predsednik	Ncmsn
-SLS	Npfsg
-Radovan	Npmsn
-Žerjav	Npmsn
-se	Px------y
-je	Va-r3s-n
-uvrstil	Vmep-sm
-na	Sa
-deveto	Mlonsa
-mesto	Ncnsa
-,	Z
-sledita	Vmpr3d
-pa	Cc
-mu	Pp3msd--y
-evropski	Agpmsny
-poslanec	Ncmsn
-Lojze	Npmsn
-Peterle	Npmsn
-in	Cc
-predsednik	Ncmsn
-Zbora	Ncmsg
-za	Sa
-republiko	Ncfsa
-Gregor	Npmsn
-Virant	Npmsn
-.	Z
-Povprečna	Agpfsn
-ocena	Ncfsn
-dela	Ncnsg
-državnega	Agpmsg
-zbora	Ncmsg
-tokrat	Rgp
-znaša	Vmpr3s
-2,72	Mdc
-in	Cc
-je	Va-r3s-n
-nekoliko	Rgp
-višja	Agcfsn
-od	Sg
-decembrske	Agpfsg
-(	Z
-2,69	Mdc
-)	Z
-.	Z
-Javnomnenjsko	Agpfsi
-raziskavo	Ncfsa
-je	Va-r3s-n
-med	Si
-19	Mdc
-.	Z
-in	Cc
-21	Mdc
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+januarski	mte:Agpfsl	januarski
+javnomnenjski	mte:Agpfsl	javnomnenjski
+raziskavi	mte:Ncfsl	raziskava
+Vox	mte:Ncmsn	vox
+populi	mte:Ncmsn	popula
+delo	mte:Ncnsn	delo
+vlade	mte:Ncfsg	vlada
+kot	mte:Cs	kot
+uspešno	mte:Rgp	uspešno
+ocenjuje	mte:Vmpr3s	ocenjevati
+34	mte:Mdc	34
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+kot	mte:Cs	kot
+neuspešno	mte:Rgp	neuspešen
+pa	mte:Cc	pa
+58,9	mte:Mdc	58,9
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+V	mte:Sl	v
+januarski	mte:Agpfsl	januarski
+javnomnenjski	mte:Agpfsl	javnomnenjski
+raziskavi	mte:Ncfsl	raziskava
+Vox	mte:Npmsn	Vox
+populi	mte:Npmsn	populi
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+opravila	mte:Vmep-sf	opravilo
+agencija	mte:Ncfsn	agencija
+Ninamedia	mte:Npfsn	Ninamedia
+,	mte:Z	,
+delo	mte:Ncnsn	delo
+vlade	mte:Ncfsg	vlada
+kot	mte:Cs	kot
+uspešno	mte:Rgp	uspešno
+ocenjuje	mte:Vmpr3s	ocenjevati
+34	mte:Mdc	34
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+kot	mte:Cs	kot
+neuspešno	mte:Rgp	neuspešen
+pa	mte:Cc	pa
+58,9	mte:Mdc	58,9
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+.	mte:Z	.
+Med	mte:Si	med
+strankami	mte:Ncfpi	stranka
+največjo	mte:Agsfsa	velik
+podporo	mte:Ncfsa	podpora
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+uživa	mte:Vmpr3s	uživati
+opozicijska	mte:Agpfsn	opozicijski
+SDS	mte:Npfsn	SDS
+pred	mte:Si	pred
+Socialnimi	mte:Agpmpi	socialen
+demokrati	mte:Ncmpi	demokrat
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročala	mte:Vmpp-sf	poročati
+POP	mte:Npfsn	POP
+TV	mte:Npmsn	TV
+.	mte:Z	.
+Danes	mte:Rgp	danes
+bi	mte:Va-c	biti
+20,4	mte:Mdc	20,4
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+volilo	mte:Vmbp-sn	voliti
+SDS	mte:Npfsn	SDS
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+volitve	mte:Ncfpn	volitev
+danes	mte:Rgp	danes
+,	mte:Z	,
+bi	mte:Va-c	biti
+največ	mte:Rgs	največ
+,	mte:Z	,
+20,4	mte:Mdc	20,4
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+,	mte:Z	,
+glasovalo	mte:Vmbp-sn	glasovati
+za	mte:Sa	za
+SDS	mte:Npmsa	SDS
+,	mte:Z	,
+za	mte:Sa	za
+največjo	mte:Agsfsa	velik
+vladno	mte:Agpfsa	vladen
+stranko	mte:Ncfsa	stranka
+SD	mte:Npfsn	SD
+pa	mte:Cc	pa
+19,6	mte:Mdc	19,6
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Na	mte:Sl	na
+tretjem	mte:Mlonsl	tretji
+mestu	mte:Ncnsl	mesto
+je	mte:Va-r3s-n	biti
+presenetljivo	mte:Agpfsn	presenetljiv
+SNS	mte:Npfsn	SNS
+z	mte:Si	z
+8,8	mte:Mdc	8,8
+odstotka	mte:Ncmsg	odstotek
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+ji	mte:Pp3fsd--y	on
+LDS	mte:Npfsa	LDS
+(	mte:Z	(
+6,1	mte:Mdc	6,1
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Zares	mte:Rgp	zares
+(	mte:Z	(
+5,4	mte:Mdc	5,4
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+DeSUS	mte:Npmsn	Desus
+(	mte:Z	(
+3	mte:Mdc	3
+odstotki	mte:Ncmpn	odstotek
+)	mte:Z	)
+in	mte:Cc	in
+SLS	mte:Npmsn	SLS
+(	mte:Z	(
+2,8	mte:Mdc	2,8
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+.	mte:Z	.
+Potočnik	mte:Npmsn	Potočnik
+najbolj	mte:Rgs	najbolj
+priljubljen	mte:Agpmsnn	priljubljen
+politik	mte:Ncmsn	politika
+Na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+najbolj	mte:Rgs	najbolj
+priljubljenih	mte:Agpmpg	priljubljen
+politikov	mte:Ncmpg	politik
+vodi	mte:Vmpr3s	voditi
+,	mte:Z	,
+tokrat	mte:Rgp	tokrat
+prvič	mte:Rgp	prvič
+,	mte:Z	,
+evropski	mte:Agpmsny	evropski
+komisar	mte:Ncmsn	komisar
+Janez	mte:Npmsn	Janez
+Potočnik	mte:Npmsn	Potočnik
+,	mte:Z	,
+za	mte:Si	za
+njim	mte:Pp3msi	on
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+uvrstila	mte:Vmep-dm	uvrstiti
+gospodarski	mte:Agpmsny	gospodarski
+minister	mte:Ncmsn	minister
+Matej	mte:Npmsn	Matej
+Lahovnik	mte:Npmsn	Lahovnik
+in	mte:Cc	in
+predsednik	mte:Ncmsn	predsednik
+republike	mte:Ncfsg	republika
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+.	mte:Z	.
+Notranja	mte:Agpfsn	notranji
+ministrica	mte:Ncfsn	ministrica
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+četrtem	mte:Mlonsl	četrti
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+pa	mte:Cc	pa
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+zdravje	mte:Ncnsa	zdravje
+Borut	mte:Npmsn	Borut
+Miklavčič	mte:Npmsn	Miklavčič
+,	mte:Z	,
+obrambna	mte:Agpfsn	obramben
+ministrica	mte:Ncfsn	ministrica
+Ljubica	mte:Npfsn	Ljubica
+Jelušič	mte:Npfsn	Jelušič
+,	mte:Z	,
+premier	mte:Ncmsn	premier
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+ljubljanski	mte:Agpmsny	ljubljanski
+župan	mte:Ncmsn	župan
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+SLS	mte:Npfsg	SLS
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+uvrstil	mte:Vmep-sm	uvrstiti
+na	mte:Sa	na
+deveto	mte:Mlonsa	deveti
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+sledita	mte:Vmpr3d	slediti
+pa	mte:Cc	pa
+mu	mte:Pp3msd--y	on
+evropski	mte:Agpmsny	evropski
+poslanec	mte:Ncmsn	poslanec
+Lojze	mte:Npmsn	Lojza
+Peterle	mte:Npmsn	Peterle
+in	mte:Cc	in
+predsednik	mte:Ncmsn	predsednik
+Zbora	mte:Ncmsg	zbor
+za	mte:Sa	za
+republiko	mte:Ncfsa	republika
+Gregor	mte:Npmsn	Gregor
+Virant	mte:Npmsn	Virant
+.	mte:Z	.
+Povprečna	mte:Agpfsn	povprečen
+ocena	mte:Ncfsn	ocena
+dela	mte:Ncnsg	delo
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+tokrat	mte:Rgp	tokrat
+znaša	mte:Vmpr3s	znašati
+2,72	mte:Mdc	2,72
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+nekoliko	mte:Rgp	nekoliko
+višja	mte:Agcfsn	visok
+od	mte:Sg	od
+decembrske	mte:Agpfsg	decembrski
+(	mte:Z	(
+2,69	mte:Mdc	2,69
+)	mte:Z	)
+.	mte:Z	.
+Javnomnenjsko	mte:Agpfsa	javnomnenjski
+raziskavo	mte:Ncfsa	raziskava
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+19	mte:Mdc	19
+.	mte:Z	.
+in	mte:Cc	in
+21	mte:Mdc	21
+.	mte:Z	.
+januarjem	mte:Ncmsi	januar
+opravila	mte:Vmep-sf	opravilo
+agencija	mte:Ncfsn	agencija
+Ninamedia	mte:Npfsn	Ninamedia
+,	mte:Z	,
+v	mte:Sl	v
+njej	mte:Pp3fsl	on
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+sodelovalo	mte:Vmpp-sn	sodelovati
+700	mte:Mdc	700
+oseb	mte:Ncfpg	oseba

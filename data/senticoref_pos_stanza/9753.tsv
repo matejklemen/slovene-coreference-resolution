@@ -1,219 +1,223 @@
-token	tag
-Povolilno	Agpnsa
-mnenje	Ncnsa
-.	Z
-Janez	Npmsn
-Janša	Npmsn
-padel	Vmep-sm
-na	Sl
-lestvici	Ncfsl
-priljubljenosti	Ncfsg
-,	Z
-na	Sl
-samem	Agpmsl
-vrhu	Ncmsl
-je	Va-r3s-n
-predsednik	Ncmsn
-republike	Ncfsg
-,	Z
-precej	Rgp
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-dvignil	Vmep-sm
-Gregor	Npmsn
-Virant	Npmsn
-.	Z
-Na	Sl
-Dnevnikovi	Aspfsl
-lestvici	Ncfsl
-priljubljenosti	Ncfsg
-slovenskih	Agpmpg
-politikov	Ncmpg
-še	Q
-vedno	Rgp
-vodi	Vmpr3s
-Danilo	Npmsn
-Türk	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-ocenjen	Appmsnn
-bolje	Rgc
-kot	Cs
-novembra	Ncmsg
-,	Z
-sledita	Vmpr3d
-mu	Pp3msd--y
-bolje	Rgc
-ocenjena	Appmdn
-Janez	Npmsn
-Potočnik	Npmsn
-in	Cc
-Radovan	Npmsn
-Žerjav	Npmsn
-.	Z
-Dobro	Rgp
-kaže	Vmpr3s
-novopečenemu	Appmsd
-predsedniku	Ncmsd
-državnega	Agpmsg
-zbora	Ncmsg
-Gregorju	Npmsd
-Virantu	Npmsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-skočil	Vmep-sm
-za	Sa
-štiri	Mlcnpa
-mesta	Ncnpa
-navzgor	Rgp
-in	Cc
-je	Va-r3s-n
-sedaj	Rgp
-četrti	Mlomsn
-.	Z
-Zoran	Npmsn
-Janković	Npmsn
-je	Va-r3s-n
-sedmi	Mlomsa
-.	Z
-Na	Sl
-lestvici	Ncfsl
-je	Va-r3s-n
-najbolj	Rgs
-napredoval	Vmbp-sm
-Miran	Npmsn
-Potrč	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-poslovil	Vmep-sm
-od	Sg
-politike	Ncfsg
-.	Z
-Borut	Npmsn
-Pahor	Npmsn
-je	Va-r3s-n
-deseti	Mlomsn
-,	Z
-tik	Rgp
-pa	Cc
-Ljubico	Ncfsa
-Jelušič	Npfsn
-in	Cc
-pred	Si
-Pavlom	Npmsi
-Gantarjem	Npmsi
-.	Z
-Janša	Npmsg
-v	Sl
-družbi	Ncfsl
-Kresalove	Aspfsg
-in	Cc
-Golobiča	Npmsg
-Le	Q
-trije	Mlcmpn
-politiki	Ncmpn
-so	Va-r3p-n
-ocenjeni	Appmpn
-slabše	Rgc
-kot	Cs
-prejšnji	Agpmsay
-mesec	Ncmsan
-:	Z
-predsednik	Ncmsn
-SDS	Npmsg
-Janez	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-padel	Vmep-sm
-s	Sg
-šestega	Mlomsg
-na	Sa
-osemnajsto	Mlonsa
-mesto	Ncnsa
-,	Z
-za	Si
-njim	Pp3msi
-pa	Cc
-sta	Va-r3d-n
-še	Q
-predsednica	Ncfsn
-LDS	Npfsg
-v	Sl
-odstopu	Ncmsl
-Katarina	Npfsn
-Kresal	Npfsn
-in	Cc
-za	Sa
-zdaj	Rgp
-še	Q
-predsednik	Ncmsn
-Zares	Rgp
-Gregor	Npmsn
-Golobič	Npmsn
-.	Z
-Zanimivo	Agpnsn
-bo	Va-f3s-n
-videti	Vmbn
-,	Z
-kakšni	Pq-mpn
-bodo	Va-f3p-n
-rezultati	Ncmpn
-po	Sl
-novem	Agpnsl
-letu	Ncnsl
--	Z
-bo	Va-f3s-n
-Janši	Npfsd
-pomagal	Vmbp-sm
-osnutek	Ncmsan
-koalicijske	Agpfsg
-pogodbe	Ncfsg
-SDS	Npmsn
--	Z
-a	Cc
-,	Z
-za	Sa
-katerega	Pq-msa
-sam	Agpmsnn
-pravi	Vmbr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-rezervni	Agpmsny
-scenarij	Ncmsn
-?	Z
-Osnutek	Ncmsn
-je	Va-r3s-n
-parlamentarnim	Agpfpd
-strankam	Ncfpd
-že	Q
-poslal	Vmep-sm
-in	Cc
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-rezervni	Agpmsay
-načrt	Ncmsan
-v	Sl
-primeru	Ncmsl
-,	Z
-da	Cs
-predsedniku	Ncmsd
-Pozitivne	Agpfsg
-Slovenije	Npfsg
-Zoranu	Npmsd
-Jankoviću	Npmsd
-ne	Q
-bi	Va-c
-uspelo	Vmep-sn
-sestaviti	Vmen
-vladne	Agpfsg
-koalicije	Ncfsg
-.	Z
+token	tag	lemma
+Povolilno	mte:Agpnsa	povolilen
+mnenje	mte:Ncnsa	mnenje
+.	mte:Z	.
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+padel	mte:Vmep-sm	pasti
+na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+priljubljenosti	mte:Ncfsg	priljubljenost
+,	mte:Z	,
+na	mte:Sl	na
+samem	mte:Agpmsl	sam
+vrhu	mte:Ncmsl	vrh
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+republike	mte:Ncfsg	republika
+,	mte:Z	,
+precej	mte:Rgp	precej
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+dvignil	mte:Vmep-sm	dvigniti
+Gregor	mte:Npmsn	Gregor
+Virant	mte:Npmsn	Virant
+.	mte:Z	.
+Na	mte:Sl	na
+Dnevnikovi	mte:Aspfsl	Dnevnikov
+lestvici	mte:Ncfsl	lestvica
+priljubljenosti	mte:Ncfsg	priljubljenost
+slovenskih	mte:Agpmpg	slovenski
+politikov	mte:Ncmpg	politik
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+vodi	mte:Vmpr3s	voditi
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+ocenjen	mte:Appmsnn	ocenjen
+bolje	mte:Rgc	dobro
+kot	mte:Cs	kot
+novembra	mte:Ncmsg	november
+,	mte:Z	,
+sledita	mte:Vmpr3d	slediti
+mu	mte:Pp3msd--y	on
+bolje	mte:Rgc	dobro
+ocenjena	mte:Appmdn	ocenjen
+Janez	mte:Npmsn	Janez
+Potočnik	mte:Npmsn	Potočnik
+in	mte:Cc	in
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+.	mte:Z	.
+Dobro	mte:Rgp	dobro
+kaže	mte:Vmpr3s	kazati
+novopečenemu	mte:Appmsd	novopečen
+predsedniku	mte:Ncmsd	predsednik
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+Gregorju	mte:Npmsd	Gregorje
+Virantu	mte:Npmsd	Virant
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+skočil	mte:Vmep-sm	skočiti
+za	mte:Sa	za
+štiri	mte:Mlcnpa	štirje
+mesta	mte:Ncnpa	mesto
+navzgor	mte:Rgp	navzgor
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+sedaj	mte:Rgp	sedaj
+četrti	mte:Mlomsn	četrti
+.	mte:Z	.
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+je	mte:Va-r3s-n	biti
+sedmi	mte:Mlomsa	sedmi
+.	mte:Z	.
+Na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+je	mte:Va-r3s-n	biti
+najbolj	mte:Rgs	najbolj
+napredoval	mte:Vmbp-sm	napredovati
+Miran	mte:Npmsn	Miran
+Potrč	mte:Npmsn	Potrč
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+poslovil	mte:Vmep-sm	posloviti
+od	mte:Sg	od
+politike	mte:Ncfsg	politika
+.	mte:Z	.
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+je	mte:Va-r3s-n	biti
+deseti	mte:Mlomsn	deseti
+,	mte:Z	,
+tik	mte:Rgp	tik
+pa	mte:Cc	pa
+Ljubico	mte:Ncfsa	ljubica
+Jelušič	mte:Npfsn	Jelušič
+in	mte:Cc	in
+pred	mte:Si	pred
+Pavlom	mte:Npmsi	Pavel
+Gantarjem	mte:Npmsi	Gantar
+.	mte:Z	.
+Janša	mte:Npmsg	Janša
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+Kresalove	mte:Aspfsg	Kresalov
+in	mte:Cc	in
+Golobiča	mte:Npmsg	Golobič
+Le	mte:Q	le
+trije	mte:Mlcmpn	trije
+politiki	mte:Ncmpn	politika
+so	mte:Va-r3p-n	biti
+ocenjeni	mte:Appmpn	ocenjen
+slabše	mte:Rgc	slabo
+kot	mte:Cs	kot
+prejšnji	mte:Agpmsay	prejšnji
+mesec	mte:Ncmsan	mesec
+:	mte:Z	:
+predsednik	mte:Ncmsn	predsednik
+SDS	mte:Npmsg	SDS
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+padel	mte:Vmep-sm	pasti
+s	mte:Sg	z
+šestega	mte:Mlomsg	šesti
+na	mte:Sa	na
+osemnajsto	mte:Mlonsa	osemnajsti
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+za	mte:Si	za
+njim	mte:Pp3msi	on
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+še	mte:Q	še
+predsednica	mte:Ncfsn	predsednica
+LDS	mte:Npfsg	LDS
+v	mte:Sl	v
+odstopu	mte:Ncmsl	odstop
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+in	mte:Cc	in
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+še	mte:Q	še
+predsednik	mte:Ncmsn	predsednik
+Zares	mte:Rgp	zares
+Gregor	mte:Npmsn	Gregor
+Golobič	mte:Npmsn	Golobič
+.	mte:Z	.
+Zanimivo	mte:Agpnsn	zanimiv
+bo	mte:Va-f3s-n	biti
+videti	mte:Vmbn	videti
+,	mte:Z	,
+kakšni	mte:Pq-mpn	kakšen
+bodo	mte:Va-f3p-n	biti
+rezultati	mte:Ncmpn	rezultat
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+letu	mte:Ncnsl	leto
+-	mte:Z	-
+bo	mte:Va-f3s-n	biti
+Janši	mte:Npfsd	Janši
+pomagal	mte:Vmbp-sm	pomagati
+osnutek	mte:Ncmsan	osnutek
+koalicijske	mte:Agpfsg	koalicijski
+pogodbe	mte:Ncfsg	pogodba
+SDS	mte:Npmsn	SDS
+-	mte:Z	-
+a	mte:Cc	a
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+sam	mte:Agpmsnn	sam
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+rezervni	mte:Agpmsny	rezerven
+scenarij	mte:Ncmsn	scenarij
+?	mte:Z	?
+Osnutek	mte:Ncmsn	osnutek
+je	mte:Va-r3s-n	biti
+parlamentarnim	mte:Agpfpd	parlamentaren
+strankam	mte:Ncfpd	stranka
+že	mte:Q	že
+poslal	mte:Vmep-sm	poslati
+in	mte:Cc	in
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+rezervni	mte:Agpmsay	rezerven
+načrt	mte:Ncmsan	načrt
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+,	mte:Z	,
+da	mte:Cs	da
+predsedniku	mte:Ncmsd	predsednik
+Pozitivne	mte:Agpfsg	pozitiven
+Slovenije	mte:Npfsg	Slovenija
+Zoranu	mte:Npmsd	Zoran
+Jankoviću	mte:Npmsd	Janković
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+uspelo	mte:Vmep-sn	uspeti
+sestaviti	mte:Vmen	sestaviti
+vladne	mte:Agpfsg	vladen
+koalicije	mte:Ncfsg	koalicija
+.	mte:Z	.
+Več	mte:Q	več
+lahko	mte:Rgp	lahko
+preberete	mte:Vmer2p	prebrati
+tukaj	mte:Rgp	tukaj

@@ -1,374 +1,407 @@
-token	tag
-Koper	Npmsn
--	Z
-Koprsko	Agpnsn
-okrožno	Agpnsn
-sodišče	Ncnsn
-je	Va-r3s-n
-zavrnilo	Vmep-sn
-tožbeni	Agpmsay
-zahtevek	Ncmsan
-Luke	Npfsg
-Koper	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-od	Sg
-nekdanjega	Agpmsg
-predsednika	Ncmsg
-uprave	Ncfsg
-Luke	Npfsg
-Koper	Npmsg
-Bruna	Npmsg
-Koreliča	Npmsg
-zaradi	Sg
-domnevnega	Agpnsg
-oškodovanja	Ncnsg
-pri	Sl
-prodaji	Ncfsl
-delnic	Ncfpg
-Autocommercea	Npmsn
-zahtevala	Vmbp-sf
-722.791	Mdc
-evrov	Ncmpg
-odškodnine	Ncfsg
-.	Z
-Luka	Npfsn
-Koper	Npmsn
-bo	Va-f3s-n
-morala	Vmpp-sf
-poravnati	Vmen
-sodne	Agpmpa
-stroške	Ncmpa
-procesa	Ncmsg
-,	Z
-ali	Rgp
-se	Px------y
-namerava	Vmpr3s
-zoper	Sa
-razsodbo	Ncfsa
-pritožiti	Vmen
-,	Z
-pa	Cc
-še	Q
-ni	Va-r3s-y
-znano	Appnsn
-.	Z
-Koreličev	Aspmsnn
-odvetnik	Ncmsn
-Miha	Npmsn
-Kozinc	Npmsn
-je	Va-r3s-n
-o	Sl
-razsodbi	Ncfsl
-koprskega	Agpnsg
-sodišča	Ncnsg
-dejal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-od	Sg
-vsega	Pg-msg
-začetka	Ncmsg
-zastopali	Vmpp-pm
-stališče	Ncnsa
-,	Z
-da	Cs
-ni	Va-r3s-y
-bilo	Va-p-sn
-pri	Sl
-poslu	Ncmsl
-v	Sl
-zvezi	Ncfsl
-s	Si
-prodajo	Ncfsi
-delnic	Ncfpg
-Autocommercea	Npmsn
-nič	Pz-nsa
-narobe	Rgp
-.	Z
-"	Z
-Šlo	Vmbp-sn
-je	Va-r3s-n
-za	Sa
-nagajanje	Ncnsa
-in	Cc
-politično	Agpnsa
-obračunavanje	Ncnsa
-z	Si
-mano	Pp1-si
-,	Z
-ker	Cs
-sem	Va-r1s-n
-si	Px---d--y
-kot	Cs
-občinski	Agpmsny
-svetnik	Ncmsn
-upal	Vmpp-sm
-opozarjati	Vmpn
-na	Sa
-nečedne	Agpmpa
-posle	Ncmpa
-župana	Ncmsg
-Borisa	Npmsg
-Popoviča	Npmsg
-,	Z
-"	Z
-pa	Cc
-je	Va-r3s-n
-za	Sa
-STA	Va-r3d-n
-o	Sl
-tožbi	Ncfsl
-dejal	Vmep-sm
-Korelič	Npmsn
-.	Z
-Koliko	Rgp
-bodo	Va-f3p-n
-znašali	Vmpp-pm
-sodni	Agpmpn
-stroški	Ncmpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-morala	Vmpp-sf
-Luka	Npfsn
-Koper	Npmsn
-plačati	Vmen
-zaradi	Sg
-izgubljene	Appfsg
-tožbe	Ncfsg
-,	Z
-v	Sl
-Luki	Npfsl
-Koper	Npmsn
-danes	Rgp
-niso	Va-r3p-y
-mogli	Vmpp-pm
-odgovoriti	Vmen
-,	Z
-ker	Cs
-sodba	Ncfsn
-še	Q
-ni	Va-r3s-y
-pravnomočna	Agpfsn
-.	Z
-Uprava	Ncfsn
-družbe	Ncfsg
-tudi	Q
-še	Q
-ni	Va-r3s-y
-sprejela	Vmep-sf
-odločitve	Ncfsg
-o	Sl
-vložitvi	Ncfsl
-pritožbe	Ncfsg
-.	Z
-"	Z
-Verjamem	Vmbr1s
-,	Z
-da	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-srečala	Vmep-sf
-pamet	Ncfsn
-in	Cc
-ne	Q
-bodo	Va-f3p-n
-zapravljali	Vmpp-pm
-dodatnega	Agpmsg
-denarja	Ncmsg
-za	Sa
-odvetnike	Ncmpa
-,	Z
-"	Z
-je	Va-r3s-n
-v	Sl
-zvezi	Ncfsl
-z	Si
-morebitno	Agpfsi
-pritožbo	Ncfsi
-dejal	Vmep-sm
-Korelič	Npmsn
-.	Z
-Podobnega	Agpnsg
-mnenja	Ncnsg
-je	Va-r3s-n
-tudi	Q
-Kozinc	Npmsn
-.	Z
-"	Z
-Glede	Rgp
-na	Sa
-potek	Ncmsan
-postopka	Ncmsg
-mislim	Vmpr1s
-,	Z
-da	Cs
-ni	Va-r3s-y
-nikakršne	Pz-fsg
-osnove	Ncfsg
-za	Sa
-to	Pd-nsa
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-.	Z
-Luka	Npmsn
-Koper	Npmsn
-je	Va-r3s-n
-v	Sl
-tožbi	Ncfsl
-od	Sg
-Koreliča	Npmsg
-zahtevala	Vmbp-sf
-722.791	Mdc
-evrov	Ncmpg
-odškodnine	Ncfsg
-,	Z
-za	Sa
-kolikor	Cs
-naj	Q
-bi	Va-c
-Korelič	Npmsn
-oškodoval	Vmep-sm
-družbo	Ncfsa
-s	Si
-prodajo	Ncfsi
-9,9	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-družbe	Ncfsg
-Autocommerce	Npmsn
-leta	Ncnsg
-2005	Mdc
-.	Z
-Luka	Npmsn
-Koper	Npmsn
-je	Va-r3s-n
-delnice	Ncfpa
-Autocommercea	Npmsn
-kupila	Vmep-sf
-leta	Ncnsg
-2003	Mdc
-od	Sg
-Slovenske	Agpfsg
-odškodninske	Agpfsg
-družbe	Ncfsg
-,	Z
-in	Cc
-sicer	Q
-po	Sl
-ceni	Ncfsl
-4788	Mdc
-nekdanjih	Agpmpg
-tolarjev	Ncmpg
-na	Sa
-delnico	Ncfsa
-,	Z
-februarja	Ncmsg
-2005	Mdc
-pa	Cc
-je	Va-r3s-n
-delnice	Ncfpa
-prodala	Vmep-sf
-družbi	Ncfsd
-Fins	Npfsg
-po	Sl
-ceni	Ncfsl
-5500	Mdc
-tolarjev	Ncmpg
-za	Sa
-delnico	Ncfsa
-.	Z
-Po	Sl
-mnenju	Ncnsl
-uprave	Ncfsg
-in	Cc
-nadzornega	Agpmsg
-sveta	Ncmsg
-je	Va-r3s-n
-bila	Va-p-sf
-prodajna	Agpfsn
-cena	Ncfsn
-v	Sl
-letu	Ncnsl
-2005	Mdc
-nižja	Agcfsn
-od	Sg
-dejanske	Agpfsg
-vrednosti	Ncfsg
-posamezne	Agpfsg
-delnice	Ncfsg
-.	Z
-Družba	Ncfsn
-Protej	Npmsn
-,	Z
-v	Sl
-kateri	Pq-fsl
-so	Va-r3p-n
-združeni	Appmpn
-vodilni	Agpmpn
-delavci	Ncmpn
-ACH	Npfsg
-,	Z
-je	Va-r3s-n
-junija	Ncmsg
-istega	Pi-nsg
-leta	Ncnsg
-v	Sl
-prevzemni	Agpfsl
-ponudbi	Ncfsl
-namreč	Cc
-ponujala	Vmpp-sf
-6100	Mdc
-tolarjev	Ncmpg
-za	Sa
-delnico	Ncfsa
-.	Z
-Upravo	Ncfsa
-Luke	Npfsg
-Koper	Npmsn
-je	Va-r3s-n
-leta	Ncnsg
-2008	Mdc
-,	Z
-ko	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-na	Sa
-sodišče	Ncnsa
-vložena	Appfsn
-tožba	Ncfsn
-,	Z
-vodil	Vmpp-sm
-Robert	Npmsn
-Časar	Npmsn
-,	Z
-nadzorni	Agpmsny
-svet	Ncmsn
-pa	Cc
-koprski	Agpmsny
-župan	Ncmsn
-Boris	Npmsn
-Popovič	Npmsn
-.	Z
-Tako	Rgp
-Časarja	Npmsay
-kot	Cs
-Popoviča	Npmsay
-je	Va-r3s-n
-nadzorni	Agpmsny
-svet	Ncmsn
-Luke	Npfsg
-Koper	Npmsn
-z	Sg
-njunih	Ps3fpgp
-funkcij	Ncfpg
-odstavil	Vmep-sm
-junija	Ncmsg
-letos	Rgp
-.	Z
+token	tag	lemma
+Koper	mte:Npmsn	Koper
+-	mte:Z	-
+Koprsko	mte:Agpnsn	koprski
+okrožno	mte:Agpnsn	okrožen
+sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+zavrnilo	mte:Vmep-sn	zavrniti
+tožbeni	mte:Agpmsay	tožben
+zahtevek	mte:Ncmsan	zahtevek
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+nekdanjega	mte:Agpmsg	nekdanji
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsg	Koper
+Bruna	mte:Npmsg	Brun
+Koreliča	mte:Npmsg	Korelič
+zaradi	mte:Sg	zaradi
+domnevnega	mte:Agpnsg	domneven
+oškodovanja	mte:Ncnsg	oškodovanje
+pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+delnic	mte:Ncfpg	delnica
+Autocommercea	mte:Npmsn	Autocommerce
+zahtevala	mte:Vmbp-sf	zahtevati
+722.791	mte:Mdc	722.791
+evrov	mte:Ncmpg	evro
+odškodnine	mte:Ncfsg	odškodnina
+.	mte:Z	.
+Luka	mte:Npfsn	Luka
+Koper	mte:Npmsn	Koper
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+poravnati	mte:Vmen	poravnati
+sodne	mte:Agpmpa	soden
+stroške	mte:Ncmpa	strošek
+procesa	mte:Ncmsg	proces
+,	mte:Z	,
+ali	mte:Rgp	ali
+se	mte:Px------y	se
+namerava	mte:Vmpr3s	nameravati
+zoper	mte:Sa	zoper
+razsodbo	mte:Ncfsa	razsodba
+pritožiti	mte:Vmen	pritožiti
+,	mte:Z	,
+pa	mte:Cc	pa
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+.	mte:Z	.
+Koreličev	mte:Aspmsnn	Koreličev
+odvetnik	mte:Ncmsn	odvetnik
+Miha	mte:Npmsn	Miha
+Kozinc	mte:Npmsn	Kozinc
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+razsodbi	mte:Ncfsl	razsodba
+koprskega	mte:Agpnsg	koprski
+sodišča	mte:Ncnsg	sodišče
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+od	mte:Sg	od
+vsega	mte:Pg-msg	ves
+začetka	mte:Ncmsg	začetek
+zastopali	mte:Vmpp-pm	zastopati
+stališče	mte:Ncnsa	stališče
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+pri	mte:Sl	pri
+poslu	mte:Ncmsl	posel
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+delnic	mte:Ncfpg	delnica
+Autocommercea	mte:Npmsn	Autocommerce
+nič	mte:Pz-nsa	nič
+narobe	mte:Rgp	narobe
+.	mte:Z	.
+"	mte:Z	"
+Šlo	mte:Vmbp-sn	iti
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+nagajanje	mte:Ncnsa	nagajanje
+in	mte:Cc	in
+politično	mte:Agpnsa	političen
+obračunavanje	mte:Ncnsa	obračunavanje
+z	mte:Si	z
+mano	mte:Pp1-si	jaz
+,	mte:Z	,
+ker	mte:Cs	ker
+sem	mte:Va-r1s-n	biti
+si	mte:Px---d--y	se
+kot	mte:Cs	kot
+občinski	mte:Agpmsny	občinski
+svetnik	mte:Ncmsn	svetnik
+upal	mte:Vmpp-sm	upati
+opozarjati	mte:Vmpn	opozarjati
+na	mte:Sa	na
+nečedne	mte:Agpmpa	nečeden
+posle	mte:Ncmpa	posel
+župana	mte:Ncmsg	župan
+Borisa	mte:Npmsg	Boris
+Popoviča	mte:Npmsg	Popovič
+,	mte:Z	,
+"	mte:Z	"
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+o	mte:Sl	o
+tožbi	mte:Ncfsl	tožba
+dejal	mte:Vmep-sm	dejati
+Korelič	mte:Npmsn	Korelič
+.	mte:Z	.
+Koliko	mte:Rgp	koliko
+bodo	mte:Va-f3p-n	biti
+znašali	mte:Vmpp-pm	znašati
+sodni	mte:Agpmpn	soden
+stroški	mte:Ncmpn	strošek
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+Luka	mte:Npfsn	Luka
+Koper	mte:Npmsn	Koper
+plačati	mte:Vmen	plačati
+zaradi	mte:Sg	zaradi
+izgubljene	mte:Appfsg	izgubljen
+tožbe	mte:Ncfsg	tožba
+,	mte:Z	,
+v	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+danes	mte:Rgp	danes
+niso	mte:Va-r3p-y	biti
+mogli	mte:Vmpp-pm	moči
+odgovoriti	mte:Vmen	odgovoriti
+,	mte:Z	,
+ker	mte:Cs	ker
+sodba	mte:Ncfsn	sodba
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+pravnomočna	mte:Agpfsn	pravnomočen
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+družbe	mte:Ncfsg	družba
+tudi	mte:Q	tudi
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+sprejela	mte:Vmep-sf	sprejeti
+odločitve	mte:Ncfsg	odločitev
+o	mte:Sl	o
+vložitvi	mte:Ncfsl	vložitev
+pritožbe	mte:Ncfsg	pritožba
+.	mte:Z	.
+"	mte:Z	"
+Verjamem	mte:Vmbr1s	verjeti
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+srečala	mte:Vmep-sf	srečati
+pamet	mte:Ncfsn	pamet
+in	mte:Cc	in
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+zapravljali	mte:Vmpp-pm	zapravljati
+dodatnega	mte:Agpmsg	dodaten
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+odvetnike	mte:Ncmpa	odvetnik
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+morebitno	mte:Agpfsi	morebiten
+pritožbo	mte:Ncfsi	pritožba
+dejal	mte:Vmep-sm	dejati
+Korelič	mte:Npmsn	Korelič
+.	mte:Z	.
+Podobnega	mte:Agpnsg	podoben
+mnenja	mte:Ncnsg	mnenje
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+Kozinc	mte:Npmsn	Kozinc
+.	mte:Z	.
+"	mte:Z	"
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+potek	mte:Ncmsan	potek
+postopka	mte:Ncmsg	postopek
+mislim	mte:Vmpr1s	misliti
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+nikakršne	mte:Pz-fsg	nikakršen
+osnove	mte:Ncfsg	osnova
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+tožbi	mte:Ncfsl	tožba
+od	mte:Sg	od
+Koreliča	mte:Npmsg	Korelič
+zahtevala	mte:Vmbp-sf	zahtevati
+722.791	mte:Mdc	722.791
+evrov	mte:Ncmpg	evro
+odškodnine	mte:Ncfsg	odškodnina
+,	mte:Z	,
+za	mte:Sa	za
+kolikor	mte:Cs	kolikor
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Korelič	mte:Npmsn	Korelič
+oškodoval	mte:Vmep-sm	oškodovati
+družbo	mte:Ncfsa	družba
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+9,9	mte:Mdc	9,9
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+družbe	mte:Ncfsg	družba
+Autocommerce	mte:Npmsn	Autocommerce
+leta	mte:Ncnsg	leto
+2005	mte:Mdc	2005
+.	mte:Z	.
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+je	mte:Va-r3s-n	biti
+delnice	mte:Ncfpa	delnica
+Autocommercea	mte:Npmsn	Autocommerce
+kupila	mte:Vmep-sf	kupiti
+leta	mte:Ncnsg	leto
+2003	mte:Mdc	2003
+od	mte:Sg	od
+Slovenske	mte:Agpfsg	slovenski
+odškodninske	mte:Agpfsg	odškodninski
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+po	mte:Sl	po
+ceni	mte:Ncfsl	cena
+4788	mte:Mdc	4788
+nekdanjih	mte:Agpmpg	nekdanji
+tolarjev	mte:Ncmpg	tolar
+na	mte:Sa	na
+delnico	mte:Ncfsa	delnica
+,	mte:Z	,
+februarja	mte:Ncmsg	februar
+2005	mte:Mdc	2005
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+delnice	mte:Ncfpa	delnica
+prodala	mte:Vmep-sf	prodati
+družbi	mte:Ncfsd	družba
+Fins	mte:Npfsg	Fins
+po	mte:Sl	po
+ceni	mte:Ncfsl	cena
+5500	mte:Mdc	5500
+tolarjev	mte:Ncmpg	tolar
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+.	mte:Z	.
+Po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+uprave	mte:Ncfsg	uprava
+in	mte:Cc	in
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+prodajna	mte:Agpfsn	prodajen
+cena	mte:Ncfsn	cena
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2005	mte:Mdc	2005
+nižja	mte:Agcfsn	nizek
+od	mte:Sg	od
+dejanske	mte:Agpfsg	dejanski
+vrednosti	mte:Ncfsg	vrednost
+posamezne	mte:Agpfsg	posamezen
+delnice	mte:Ncfsg	delnica
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+Protej	mte:Npmsn	Protej
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+so	mte:Va-r3p-n	biti
+združeni	mte:Appmpn	združen
+vodilni	mte:Agpmpn	vodilen
+delavci	mte:Ncmpn	delavec
+ACH	mte:Npfsg	ACH
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+junija	mte:Ncmsg	junij
+istega	mte:Pi-nsg	isti
+leta	mte:Ncnsg	leto
+v	mte:Sl	v
+prevzemni	mte:Agpfsl	prevzemen
+ponudbi	mte:Ncfsl	ponudba
+namreč	mte:Cc	namreč
+ponujala	mte:Vmpp-sf	ponujati
+6100	mte:Mdc	6100
+tolarjev	mte:Ncmpg	tolar
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+.	mte:Z	.
+Upravo	mte:Ncfsa	uprava
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+na	mte:Sa	na
+sodišče	mte:Ncnsa	sodišče
+vložena	mte:Appfsn	vložen
+tožba	mte:Ncfsn	tožba
+,	mte:Z	,
+vodil	mte:Vmpp-sm	voditi
+Robert	mte:Npmsn	Robert
+Časar	mte:Npmsn	Časar
+,	mte:Z	,
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+pa	mte:Cc	pa
+koprski	mte:Agpmsny	koprski
+župan	mte:Ncmsn	župan
+Boris	mte:Npmsn	Boris
+Popovič	mte:Npmsn	Popovič
+.	mte:Z	.
+Tako	mte:Rgp	tako
+Časarja	mte:Npmsay	Časar
+kot	mte:Cs	kot
+Popoviča	mte:Npmsay	Popovič
+je	mte:Va-r3s-n	biti
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+z	mte:Sg	z
+njunih	mte:Ps3fpgp	njun
+funkcij	mte:Ncfpg	funkcija
+odstavil	mte:Vmep-sm	odstaviti
+junija	mte:Ncmsg	junij
+letos	mte:Rgp	letos
+.	mte:Z	.
+Odvetnik	mte:Ncmsn	odvetnik
+Franci	mte:Npmsn	Franci
+Matoz	mte:Npmsn	Matoz
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+Luko	mte:Npfsa	Luka
+Koper	mte:Npmsn	Koper
+zastopal	mte:Vmpp-sm	zastopati
+v	mte:Sl	v
+omenjeni	mte:Appfsl	omenjen
+tožbi	mte:Ncfsl	tožba
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+Gregorja	mte:Npmsg	Gregor
+Veselka	mte:Agpnsg	veselki
+sodelovanje	mte:Ncnsa	sodelovanje
+z	mte:Si	z
+Luko	mte:Npfsi	Luka
+Koper	mte:Npmsn	Koper
+kmalu	mte:Rgp	kmalu
+menjavi	mte:Ncfsd	menjava
+v	mte:Sl	v
+vrhu	mte:Ncmsl	vrh
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+prekinil	mte:Vmep-sm	prekiniti

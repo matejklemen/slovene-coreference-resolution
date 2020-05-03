@@ -1,336 +1,371 @@
-token	tag
-Odstopno	Agpfsa
-izjavo	Ncfsa
-ameriškega	Agpmsg
-veleposlanika	Ncmsg
-v	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-Bush	Npmsn
-že	Q
-sprejel	Vmep-sm
-.	Z
-Ghafari	Npmsn
-se	Px------y
-ob	Sl
-odhodu	Ncmsl
-zahvaljuje	Vmpr3s
-za	Sa
-priložnost	Ncfsa
-in	Cc
-pravi	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-v	Sa
-Ljubljano	Npfsa
-še	Q
-vrnil	Vmep-sm
-.	Z
-Z	Si
-iztekom	Ncmsi
-mandata	Ncmsg
-ameriškemu	Agpmsd
-predsedniku	Ncmsd
-Georgeu	Npmsd
-Bushu	Npmsd
-se	Px------y
-mandat	Ncmsn
-izteka	Ncmsg
-tudi	Q
-ameriškim	Agpmpd
-veleposlanikom	Ncmpd
-.	Z
-Veleposlanik	Npmsn
-ZDA	Npfpg
-v	Sl
-Sloveniji	Npfsl
-Yousif	Npmsn
-Boutros	Npmsn
-Ghafari	Npmsn
-je	Va-r3s-n
-tako	Rgp
-že	Q
-podal	Vmbp-sm
-odstopno	Agpfsa
-izjavo	Ncfsa
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-Bush	Npmsn
-že	Q
-sprejel	Vmep-sm
-,	Z
-v	Sa
-torek	Ncmsan
-pa	Cc
-bo	Va-f3s-n
-Ghafari	Npmsn
-tudi	Q
-dokončno	Rgp
-zapustil	Vmep-sm
-Slovenijo	Npfsa
-,	Z
-so	Va-r3p-n
-potrdili	Vmep-pm
-na	Sl
-ameriškem	Agpnsl
-veleposlaništvu	Ncnsl
-v	Sl
-Ljubljani	Npfsl
-.	Z
-Ghafari	Npmsn
-bo	Va-f3s-n
-do	Sg
-torka	Ncmsg
-predvidoma	Rgp
-še	Q
-v	Sl
-Sloveniji	Npfsl
-,	Z
-nato	Rgp
-pa	Cc
-bo	Va-f3s-n
-odpotoval	Vmep-sm
-v	Sl
-ZDA	Npfpl
-.	Z
-Kot	Cs
-so	Va-r3p-n
-pojasnili	Vmep-pm
-na	Sl
-veleposlaništvu	Ncnsl
-ZDA	Npfpg
-v	Sl
-Ljubljani	Npfsl
-,	Z
-Ghafari	Npmsn
-dokončno	Rgp
-zapušča	Vmpr3s
-Slovenijo	Npfsa
-in	Cc
-se	Px------y
-za	Sa
-položaj	Ncmsan
-veleposlanika	Ncmsg
-ne	Q
-bo	Va-f3s-n
-več	Q
-potegoval	Vmpp-sm
-.	Z
-Hvala	Ncfsn
-za	Sa
-priložnost	Ncfsa
-,	Z
-da	Cs
-sem	Va-r1s-n
-lahko	Rgp
-služil	Vmpp-sm
-našima	Ps1fddp
-državama	Ncfdd
-.	Z
-Prepričan	Appmsnn
-sem	Va-r1s-n
-,	Z
-da	Cs
-bosta	Va-f3d-n
-ZDA	Npfpn
-in	Cc
-Slovenija	Npfsn
-kot	Cs
-partnerici	Ncfsn
-v	Sl
-transatlantski	Agpfsl
-skupnosti	Ncfsl
-še	Q
-naprej	Rgp
-gojili	Vmpp-dm
-tesne	Agpfpa
-dvostranske	Agpfpa
-vezi	Ncfpa
-.	Z
-Yousif	Npmsn
-Boutros	Npmsn
-Ghafari	Npmsn
-Ghafari	Npmsn
-je	Va-r3s-n
-pred	Si
-svojim	Px-msi
-odhodom	Ncmsi
-dejal	Vmep-sm
-,	Z
-da	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sa
-posebno	Agpfsa
-čast	Ncfsa
-in	Cc
-priznanje	Ncnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-lahko	Rgp
-služboval	Vmpp-sm
-na	Sl
-mestu	Ncnsl
-ameriškega	Agpmsg
-veleposlanika	Ncmsg
-v	Sl
-Sloveniji	Npfsl
-.	Z
-"	Z
-Med	Si
-mojim	Ps1nsis
-službovanjem	Ncnsi
-so	Va-r3p-n
-se	Px------y
-ZDA	Npfpn
-in	Cc
-Slovenija	Npfsn
-skupaj	Rgp
-zavzemale	Vmpp-pf
-za	Sa
-rast	Ncfsa
-dvostranskih	Agpnpg
-vlaganj	Ncnpg
-in	Cc
-trgovine	Ncfpg
-,	Z
-povečanje	Ncnsa
-priložnosti	Ncfsg
-za	Sa
-akademske	Agpfpa
-in	Cc
-kulturne	Agpfpa
-izmenjave	Ncfpa
-ter	Cc
-za	Sa
-izboljšavo	Ncfsa
-in	Cc
-poglabljanje	Ncnsa
-odnosov	Ncmpg
-med	Si
-ZDA	Npfpi
-in	Cc
-EU	Npfsi
-,	Z
-"	Z
-je	Va-r3s-n
-zapisal	Vmep-sm
-Ghafari	Npmsn
-v	Sl
-sporočilu	Ncnsl
-za	Sa
-javnost	Ncfsa
-in	Cc
-poudaril	Vmep-sm
-,	Z
-da	Cs
-sta	Va-r3d-n
-Slovenija	Npfsn
-in	Cc
-ZDA	Npfpn
-kot	Cs
-partnerici	Ncfsn
-v	Sl
-zvezi	Ncfsl
-Nato	Rgp
-s	Si
-skupnim	Agpnsi
-delom	Ncnsi
-prispevali	Vmbp-dm
-k	Sd
-boljšim	Agcfpd
-možnostim	Ncfpd
-za	Sa
-mir	Ncmsan
-,	Z
-demokracijo	Ncfsa
-in	Cc
-blaginjo	Ncfsa
-tako	Rgp
-v	Sl
-regiji	Ncfsl
-kot	Cs
-na	Sl
-oddaljenih	Agpnpl
-območjih	Ncnpl
-.	Z
-Ghafari	Npmsn
-je	Va-r3s-n
-maja	Ncmsg
-lani	Rgp
-prevzel	Vmep-sm
-naloge	Ncfpa
-veleposlanika	Ncmsg
-ZDA	Npfpg
-,	Z
-na	Sl
-tem	Pd-msl
-položaju	Ncmsl
-pa	Cc
-je	Va-r3s-n
-nasledil	Vmep-sm
-Thomasa	Npmsay
-Robertsona	Npmsay
-.	Z
-Nove	Agpmpa
-kandidate	Ncmpa
-čaka	Vmpr3s
-dolgo	Agpnsa
-preverjanje	Ncnsa
-in	Cc
-zaslišanje	Ncnsa
-Novi	Agpmsny
-ameriški	Agpmsny
-predsednik	Ncmsn
-Barack	Npmsn
-Obama	Npmsn
-bo	Va-f3s-n
-tako	Rgp
-v	Sl
-prihodnjih	Agpmpl
-mesecih	Ncmpl
-predlagal	Vmbp-sm
-novega	Agpmsa
-kandidata	Ncmsay
-za	Sa
-veleposlanika	Ncmsay
-,	Z
-čemur	Cs
-bo	Va-f3s-n
-sledil	Vmpp-sm
-običajni	Agpmsay
-postopek	Ncmsan
-imenovanja	Ncnsg
-novih	Agpmpg
-veleposlanikov	Ncmpg
-.	Z
-Kandidate	Ncmpa
-za	Sa
-veleposlanike	Ncfpa
-med	Si
-drugim	Mlpnsi
-najprej	Rgs
-čaka	Vmpr3s
-preverjanje	Ncnsa
-,	Z
-nato	Rgp
-zaslišanje	Ncnsa
-pred	Si
-senatnim	Agpmsi
-odborom	Ncmsi
-za	Sa
-zunanje	Agpfpa
-zadeve	Ncfpa
-in	Cc
-kasneje	Rgc
-še	Q
-pred	Si
-celotnim	Agpmsi
-senatom	Ncmsi
-.	Z
+token	tag	lemma
+Odstopno	mte:Agpfsa	odstopen
+izjavo	mte:Ncfsa	izjava
+ameriškega	mte:Agpmsg	ameriški
+veleposlanika	mte:Ncmsg	veleposlanik
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+Bush	mte:Npmsn	Bush
+že	mte:Q	že
+sprejel	mte:Vmep-sm	sprejeti
+.	mte:Z	.
+Ghafari	mte:Npmsn	Ghafari
+se	mte:Px------y	se
+ob	mte:Sl	ob
+odhodu	mte:Ncmsl	odhod
+zahvaljuje	mte:Vmpr3s	zahvaljevati
+za	mte:Sa	za
+priložnost	mte:Ncfsa	priložnost
+in	mte:Cc	in
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+še	mte:Q	še
+vrnil	mte:Vmep-sm	vrniti
+.	mte:Z	.
+Z	mte:Si	z
+iztekom	mte:Ncmsi	iztek
+mandata	mte:Ncmsg	mandat
+ameriškemu	mte:Agpmsd	ameriški
+predsedniku	mte:Ncmsd	predsednik
+Georgeu	mte:Npmsd	George
+Bushu	mte:Npmsd	Bush
+se	mte:Px------y	se
+mandat	mte:Ncmsn	mandat
+izteka	mte:Ncmsg	iztekati
+tudi	mte:Q	tudi
+ameriškim	mte:Agpmpd	ameriški
+veleposlanikom	mte:Ncmpd	veleposlanik
+.	mte:Z	.
+Veleposlanik	mte:Npmsn	Veleposlanik
+ZDA	mte:Npfpg	ZDA
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+Yousif	mte:Npmsn	Yousif
+Boutros	mte:Npmsn	Boutros
+Ghafari	mte:Npmsn	Ghafari
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+že	mte:Q	že
+podal	mte:Vmbp-sm	podati
+odstopno	mte:Agpfsa	odstopen
+izjavo	mte:Ncfsa	izjava
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+Bush	mte:Npmsn	Bush
+že	mte:Q	že
+sprejel	mte:Vmep-sm	sprejeti
+,	mte:Z	,
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+Ghafari	mte:Npmsn	Ghafari
+tudi	mte:Q	tudi
+dokončno	mte:Rgp	dokončno
+zapustil	mte:Vmep-sm	zapustiti
+Slovenijo	mte:Npfsa	Slovenija
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+potrdili	mte:Vmep-pm	potrditi
+na	mte:Sl	na
+ameriškem	mte:Agpnsl	ameriški
+veleposlaništvu	mte:Ncnsl	veleposlaništvo
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+Ghafari	mte:Npmsn	Ghafari
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+torka	mte:Ncmsg	torka
+predvidoma	mte:Rgp	predvidoma
+še	mte:Q	še
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+odpotoval	mte:Vmep-sm	odpotovati
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+na	mte:Sl	na
+veleposlaništvu	mte:Ncnsl	veleposlaništvo
+ZDA	mte:Npfpg	ZDA
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+Ghafari	mte:Npmsn	Ghafari
+dokončno	mte:Rgp	dokončno
+zapušča	mte:Vmpr3s	zapuščati
+Slovenijo	mte:Npfsa	Slovenija
+in	mte:Cc	in
+se	mte:Px------y	se
+za	mte:Sa	za
+položaj	mte:Ncmsan	položaj
+veleposlanika	mte:Ncmsg	veleposlanik
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+več	mte:Q	več
+potegoval	mte:Vmpp-sm	potegovati
+.	mte:Z	.
+Hvala	mte:Ncfsn	hvala
+za	mte:Sa	za
+priložnost	mte:Ncfsa	priložnost
+,	mte:Z	,
+da	mte:Cs	da
+sem	mte:Va-r1s-n	biti
+lahko	mte:Rgp	lahko
+služil	mte:Vmpp-sm	služiti
+našima	mte:Ps1fddp	naš
+državama	mte:Ncfdd	država
+.	mte:Z	.
+Prepričan	mte:Appmsnn	prepričan
+sem	mte:Va-r1s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bosta	mte:Va-f3d-n	biti
+ZDA	mte:Npfpn	ZDA
+in	mte:Cc	in
+Slovenija	mte:Npfsn	Slovenija
+kot	mte:Cs	kot
+partnerici	mte:Ncfsn	partnerica
+v	mte:Sl	v
+transatlantski	mte:Agpfsl	transatlantski
+skupnosti	mte:Ncfsl	skupnost
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+gojili	mte:Vmpp-dm	gojiti
+tesne	mte:Agpfpa	tesen
+dvostranske	mte:Agpfpa	dvostranski
+vezi	mte:Ncfpa	vez
+.	mte:Z	.
+Yousif	mte:Npmsn	Yousif
+Boutros	mte:Npmsn	Boutros
+Ghafari	mte:Npmsn	Ghafari
+Ghafari	mte:Npmsn	Ghafari
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+svojim	mte:Px-msi	svoj
+odhodom	mte:Ncmsi	odhod
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sa	v
+posebno	mte:Agpfsa	poseben
+čast	mte:Ncfsa	čast
+in	mte:Cc	in
+priznanje	mte:Ncnsn	priznanje
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+lahko	mte:Rgp	lahko
+služboval	mte:Vmpp-sm	službovati
+na	mte:Sl	na
+mestu	mte:Ncnsl	mesto
+ameriškega	mte:Agpmsg	ameriški
+veleposlanika	mte:Ncmsg	veleposlanik
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+"	mte:Z	"
+Med	mte:Si	med
+mojim	mte:Ps1nsis	moj
+službovanjem	mte:Ncnsi	službovanje
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+ZDA	mte:Npfpn	ZDA
+in	mte:Cc	in
+Slovenija	mte:Npfsn	Slovenija
+skupaj	mte:Rgp	skupaj
+zavzemale	mte:Vmpp-pf	zavzemati
+za	mte:Sa	za
+rast	mte:Ncfsa	rast
+dvostranskih	mte:Agpnpg	dvostranski
+vlaganj	mte:Ncnpg	vlaganje
+in	mte:Cc	in
+trgovine	mte:Ncfpg	trgovina
+,	mte:Z	,
+povečanje	mte:Ncnsa	povečanje
+priložnosti	mte:Ncfsg	priložnost
+za	mte:Sa	za
+akademske	mte:Agpfpa	akademski
+in	mte:Cc	in
+kulturne	mte:Agpfpa	kulturen
+izmenjave	mte:Ncfpa	izmenjava
+ter	mte:Cc	ter
+za	mte:Sa	za
+izboljšavo	mte:Ncfsa	izboljšava
+in	mte:Cc	in
+poglabljanje	mte:Ncnsa	poglabljanje
+odnosov	mte:Ncmpg	odnos
+med	mte:Si	med
+ZDA	mte:Npfpi	ZDA
+in	mte:Cc	in
+EU	mte:Npfsi	EU
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+Ghafari	mte:Npmsn	Ghafari
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+in	mte:Cc	in
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+Slovenija	mte:Npfsn	Slovenija
+in	mte:Cc	in
+ZDA	mte:Npfpn	ZDA
+kot	mte:Cs	kot
+partnerici	mte:Ncfsn	partnerica
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+Nato	mte:Rgp	nato
+s	mte:Si	z
+skupnim	mte:Agpnsi	skupen
+delom	mte:Ncnsi	delo
+prispevali	mte:Vmbp-dm	prispevati
+k	mte:Sd	k
+boljšim	mte:Agcfpd	dober
+možnostim	mte:Ncfpd	možnost
+za	mte:Sa	za
+mir	mte:Ncmsan	mir
+,	mte:Z	,
+demokracijo	mte:Ncfsa	demokracija
+in	mte:Cc	in
+blaginjo	mte:Ncfsa	blaginja
+tako	mte:Rgp	tako
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+kot	mte:Cs	kot
+na	mte:Sl	na
+oddaljenih	mte:Agpnpl	oddaljen
+območjih	mte:Ncnpl	območje
+.	mte:Z	.
+Ghafari	mte:Npmsn	Ghafari
+je	mte:Va-r3s-n	biti
+maja	mte:Ncmsg	maj
+lani	mte:Rgp	lani
+prevzel	mte:Vmep-sm	prevzeti
+naloge	mte:Ncfpa	naloga
+veleposlanika	mte:Ncmsg	veleposlanik
+ZDA	mte:Npfpg	ZDA
+,	mte:Z	,
+na	mte:Sl	na
+tem	mte:Pd-msl	ta
+položaju	mte:Ncmsl	položaj
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+nasledil	mte:Vmep-sm	naslediti
+Thomasa	mte:Npmsay	Thomas
+Robertsona	mte:Npmsay	Robertson
+.	mte:Z	.
+Nove	mte:Agpmpa	nov
+kandidate	mte:Ncmpa	kandidat
+čaka	mte:Vmpr3s	čakati
+dolgo	mte:Agpnsa	dolg
+preverjanje	mte:Ncnsa	preverjanje
+in	mte:Cc	in
+zaslišanje	mte:Ncnsa	zaslišanje
+Novi	mte:Agpmsny	nov
+ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+Barack	mte:Npmsn	Barack
+Obama	mte:Npmsn	Obam
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+mesecih	mte:Ncmpl	mesec
+predlagal	mte:Vmbp-sm	predlagati
+novega	mte:Agpmsa	nov
+kandidata	mte:Ncmsay	kandidat
+za	mte:Sa	za
+veleposlanika	mte:Ncmsay	veleposlanik
+,	mte:Z	,
+čemur	mte:Cs	čemur
+bo	mte:Va-f3s-n	biti
+sledil	mte:Vmpp-sm	slediti
+običajni	mte:Agpmsay	običajen
+postopek	mte:Ncmsan	postopek
+imenovanja	mte:Ncnsg	imenovanje
+novih	mte:Agpmpg	nov
+veleposlanikov	mte:Ncmpg	veleposlanik
+.	mte:Z	.
+Kandidate	mte:Ncmpa	kandidat
+za	mte:Sa	za
+veleposlanike	mte:Ncfpa	veleposlanik
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+najprej	mte:Rgs	najprej
+čaka	mte:Vmpr3s	čakati
+preverjanje	mte:Ncnsa	preverjanje
+,	mte:Z	,
+nato	mte:Rgp	nato
+zaslišanje	mte:Ncnsa	zaslišanje
+pred	mte:Si	pred
+senatnim	mte:Agpmsi	senaten
+odborom	mte:Ncmsi	odbor
+za	mte:Sa	za
+zunanje	mte:Agpfpa	zunanji
+zadeve	mte:Ncfpa	zadeva
+in	mte:Cc	in
+kasneje	mte:Rgc	kasno
+še	mte:Q	še
+pred	mte:Si	pred
+celotnim	mte:Agpmsi	celoten
+senatom	mte:Ncmsi	senat
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+dolgotrajen	mte:Agpmsan	dolgotrajen
+postopek	mte:Ncmsan	postopek
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+pa	mte:Cc	pa
+znano	mte:Appnsn	znan
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+bi	mte:Va-c	biti
+utegnil	mte:Vmbp-sm	utegniti
+biti	mte:Va-n	biti
+novi	mte:Agpmsny	nov
+kandidat	mte:Ncmsn	kandidat
+za	mte:Sa	za
+ameriškega	mte:Agpmsa	ameriški
+veleposlanika	mte:Ncmsay	veleposlanik
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+niti	mte:Q	niti
+kdaj	mte:Rgp	kdaj
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+pričakovati	mte:Vmpn	pričakovati
+novega	mte:Agpmsa	nov
+veleposlanika	mte:Ncmsay	veleposlanik
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+na	mte:Sl	na
+veleposlaništvu	mte:Ncnsl	veleposlaništvo

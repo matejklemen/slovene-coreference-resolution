@@ -1,351 +1,391 @@
-token	tag
-Predsednik	Ncmsn
-Pozitivne	Agpfsg
-Slovenije	Npfsg
-Zoran	Npmsn
-Janković	Npmsn
-predlaga	Vmbr3s
-strankam	Ncfpd
-na	Sl
-levici	Ncfsl
-tri	Mlcfpa
-vrste	Ncfpa
-sodelovanja	Ncnsg
-,	Z
-med	Si
-drugim	Mlpnsi
-tudi	Q
-sodelovanje	Ncnsa
-na	Sl
-projektih	Ncmpl
-Foto	Ncmsn
-:	Z
-Sandi	Npmsn
-Baumkirher	Npmsn
-V	Sl
-strankah	Ncfpl
-SD	Npfsn
-,	Z
-LDS	Npfsn
-,	Z
-TRS	Npmsn
-in	Cc
-SMS	Npmsn
--	Z
-Zeleni	Agpmpn
-so	Va-r3p-n
-potrdili	Vmep-pm
-,	Z
-da	Cs
-so	Va-r3p-n
-s	Sg
-strani	Ncfsg
-predsednika	Ncmsg
-Pozitivne	Agpfsg
-Slovenije	Npfsg
-Zorana	Npmsg
-Jankovića	Npmsg
-prejeli	Vmep-pm
-pismo	Ncnsa
-s	Si
-predlogi	Ncmpi
-za	Sa
-sodelovanje	Ncnsa
-strank	Ncfpg
-.	Z
-Spletni	Agpmsny
-portal	Ncmsn
-Požareport	Ncmsn
-je	Va-r3s-n
-poročal	Vmpp-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-Janković	Npmsn
-pismo	Ncnsa
-poslal	Vmep-sm
-vsem	Pg-mpd
-predsednikom	Ncmpd
-strank	Ncfpg
-na	Sl
-politični	Agpfsl
-levici	Ncfsl
-,	Z
-prejela	Vmep-sf
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-tudi	Q
-Zares	Rgp
-in	Cc
-Demokratična	Agpfsn
-stranka	Ncfsn
-dela	Ncnsg
-.	Z
-Po	Sl
-poročanju	Ncnsl
-Požareporta	Ncmsg
-je	Va-r3s-n
-Janković	Npmsn
-v	Sl
-pismu	Ncnsl
-predlagal	Vmbp-sm
-srečanje	Ncnsa
-levice	Ncfsg
-in	Cc
-nekakšno	Pi-fsa
-koalicijo	Ncfsa
-levosredinskih	Agpfpg
-strank	Ncfpg
-,	Z
-katere	Pq-fsg
-vodja	Ncmsn
-bi	Va-c
-bil	Va-p-sm
-Janković	Npmsn
-.	Z
-Po	Sl
-dosedanjih	Agpfpl
-informacijah	Ncfpl
-posebnega	Agpnsg
-navdušenja	Ncnsg
-nad	Si
-pismom	Ncnsi
-in	Cc
-predlogi	Ncmpi
-v	Sl
-omenjenih	Appfpl
-strankah	Ncfpl
-ni	Va-r3s-y
-,	Z
-je	Va-r3s-n
-poročal	Vmpp-sm
-Požareport	Ncmsn
-.	Z
-Predlagani	Appmpn
-trije	Mlcmpn
-tipi	Ncmpn
-sodelovanja	Ncnsg
-Predsednik	Ncmsn
-stranke	Ncfsg
-TRS	Npmsn
-Matjaž	Npmsn
-Hanžek	Npmsn
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-v	Sl
-pismu	Ncnsl
-predlagani	Appmpn
-trije	Mlcmpn
-tipi	Ncmpn
-sodelovanja	Ncnsg
-strank	Ncfpg
-,	Z
-med	Si
-drugim	Mlpnsi
-tudi	Q
-sodelovanje	Ncnsa
-na	Sl
-projektih	Ncmpl
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-je	Va-r3s-n
-Janković	Npmsn
-predlagal	Vmbp-sm
-,	Z
-da	Cs
-se	Px------y
-predsedniki	Ncmpn
-strank	Ncfpg
-sestanejo	Vmer3p
-in	Cc
-o	Sl
-tem	Pd-nsl
-pogovorijo	Vmer3p
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-nikjer	Rgp
-v	Sl
-pismu	Ncnsl
-ni	Va-r3s-y
-predlagano	Appnsn
-,	Z
-da	Cs
-bi	Va-c
-bil	Va-p-sm
-vodja	Ncmsn
-koalicije	Ncfsg
-Janković	Npmsn
-.	Z
-Hanžek	Npmsn
-je	Va-r3s-n
-povedal	Vmep-sm
-še	Q
-,	Z
-da	Cs
-bodo	Va-f3p-n
-Jankoviću	Npmsd
-odgovorili	Vmep-pm
-danes	Rgp
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-ima	Vmpr3s-n
-stranka	Ncfsn
-v	Sa
-soboto	Ncfsa
-konvencijo	Ncfsa
-in	Cc
-do	Sg
-takrat	Rgp
-ne	Q
-morejo	Vmpr3p
-ničesar	Pz-nsg
-odločati	Vmpn
-.	Z
-"	Z
-Moje	Ps1nsns
-osebno	Agpnsn
-mnenje	Ncnsn
-je	Va-r3s-n
-,	Z
-da	Cs
-pri	Sl
-vladi	Ncfsl
-v	Sl
-senci	Ncfsl
-ni	Va-r3s-y
-smisla	Ncmsg
-.	Z
-Načelno	Rgp
-bi	Va-c
-bil	Va-p-sm
-pripravljen	Appmsnn
-sodelovati	Vmpn
-na	Sl
-kakšnem	Pq-msl
-skupnem	Agpmsl
-projektu	Ncmsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-tudi	Q
-naš	Ps1msnp
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-.	Z
-Predstavnik	Ncmsn
-za	Sa
-strateško	Agpnsa
-komuniciranje	Ncnsa
-in	Cc
-nove	Agpfpa
-tehnologije	Ncfpa
-pri	Sl
-stranki	Ncfsl
-SD	Npmsg
-Denis	Npmsn
-Sarkić	Npmsn
-je	Va-r3s-n
-potrdil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-predsednik	Ncmsn
-stranke	Ncfsg
-Borut	Npmsn
-Pahor	Npmsn
-prejel	Vmep-sm
-dopis	Ncmsan
-ter	Cc
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-o	Sl
-vsebini	Ncfsl
-še	Q
-pogovorili	Vmep-pm
-.	Z
-Žnidaršič	Npmsn
-pismo	Ncnsa
-prejel	Vmep-sm
-,	Z
-a	Cc
-vsebine	Ncfpa
-še	Q
-ne	Q
-pozna	Vmpr3s
-Pismo	Ncnsa
-bo	Va-f3s-n
-stranka	Ncfsn
-SMS	Npmsn
--	Z
-Zeleni	Agpmsny
-obravnavala	Vmpp-sf
-na	Sl
-organih	Ncmpl
-stranke	Ncfsg
-,	Z
-nato	Rgp
-pa	Cc
-bodo	Va-f3p-n
-nanj	Pp3msa--b
-odgovorili	Vmep-pm
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-predsednik	Ncmsn
-stranke	Ncfsg
-Darko	Npmsn
-Krajnc	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-jih	Pp3mpa--y
-sodelovanje	Ncnsn
-v	Sl
-duhu	Ncmsl
-polariziranja	Ncnsg
-mi	Pp1-sd--y
-/	Z
-oni	Pp3mpn
-ne	Q
-zanima	Vmpr3s
-.	Z
-Tudi	Q
-predsednik	Ncmsn
-Demokratične	Agpfsg
-stranke	Ncfsg
-dela	Ncnsg
-Franc	Npmsn
-Žnidaršič	Npmsn
-je	Va-r3s-n
-potrdil	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-pismo	Ncnsa
-prejeli	Vmep-pm
-,	Z
-vendar	Cc
-še	Q
-ne	Q
-ve	Vmpr3s
-,	Z
-kakšna	Pq-fsn
-je	Va-r3s-n
-njegova	Ps3fsnsm
-vsebina	Ncfsn
-.	Z
+token	tag	lemma
+Predsednik	mte:Ncmsn	predsednik
+Pozitivne	mte:Agpfsg	pozitiven
+Slovenije	mte:Npfsg	Slovenija
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+predlaga	mte:Vmbr3s	predlagati
+strankam	mte:Ncfpd	stranka
+na	mte:Sl	na
+levici	mte:Ncfsl	levica
+tri	mte:Mlcfpa	trije
+vrste	mte:Ncfpa	vrsta
+sodelovanja	mte:Ncnsg	sodelovanje
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+tudi	mte:Q	tudi
+sodelovanje	mte:Ncnsa	sodelovanje
+na	mte:Sl	na
+projektih	mte:Ncmpl	projekt
+Foto	mte:Ncmsn	foto
+:	mte:Z	:
+Sandi	mte:Npmsn	Sandi
+Baumkirher	mte:Npmsn	Baumkirher
+V	mte:Sl	v
+strankah	mte:Ncfpl	stranka
+SD	mte:Npfsn	SD
+,	mte:Z	,
+LDS	mte:Npfsn	LDS
+,	mte:Z	,
+TRS	mte:Npmsn	TRS
+in	mte:Cc	in
+SMS	mte:Npmsn	SMS
+-	mte:Z	-
+Zeleni	mte:Agpmpn	zelen
+so	mte:Va-r3p-n	biti
+potrdili	mte:Vmep-pm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+predsednika	mte:Ncmsg	predsednik
+Pozitivne	mte:Agpfsg	pozitiven
+Slovenije	mte:Npfsg	Slovenija
+Zorana	mte:Npmsg	Zoran
+Jankovića	mte:Npmsg	Janković
+prejeli	mte:Vmep-pm	prejeti
+pismo	mte:Ncnsa	pismo
+s	mte:Si	z
+predlogi	mte:Ncmpi	predlog
+za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+strank	mte:Ncfpg	stranka
+.	mte:Z	.
+Spletni	mte:Agpmsny	spleten
+portal	mte:Ncmsn	portala
+Požareport	mte:Ncmsn	požareport
+je	mte:Va-r3s-n	biti
+poročal	mte:Vmpp-sm	poročati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Janković	mte:Npmsn	Janković
+pismo	mte:Ncnsa	pismo
+poslal	mte:Vmep-sm	poslati
+vsem	mte:Pg-mpd	ves
+predsednikom	mte:Ncmpd	predsednik
+strank	mte:Ncfpg	stranka
+na	mte:Sl	na
+politični	mte:Agpfsl	političen
+levici	mte:Ncfsl	levica
+,	mte:Z	,
+prejela	mte:Vmep-sf	prejeti
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+tudi	mte:Q	tudi
+Zares	mte:Rgp	zares
+in	mte:Cc	in
+Demokratična	mte:Agpfsn	demokratičen
+stranka	mte:Ncfsn	stranka
+dela	mte:Ncnsg	delo
+.	mte:Z	.
+Po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+Požareporta	mte:Ncmsg	požareporta
+je	mte:Va-r3s-n	biti
+Janković	mte:Npmsn	Janković
+v	mte:Sl	v
+pismu	mte:Ncnsl	pismo
+predlagal	mte:Vmbp-sm	predlagati
+srečanje	mte:Ncnsa	srečanje
+levice	mte:Ncfsg	levica
+in	mte:Cc	in
+nekakšno	mte:Pi-fsa	nekakšen
+koalicijo	mte:Ncfsa	koalicija
+levosredinskih	mte:Agpfpg	levosredinski
+strank	mte:Ncfpg	stranka
+,	mte:Z	,
+katere	mte:Pq-fsg	kateri
+vodja	mte:Ncmsn	vodja
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Po	mte:Sl	po
+dosedanjih	mte:Agpfpl	dosedanji
+informacijah	mte:Ncfpl	informacija
+posebnega	mte:Agpnsg	poseben
+navdušenja	mte:Ncnsg	navdušenje
+nad	mte:Si	nad
+pismom	mte:Ncnsi	pismo
+in	mte:Cc	in
+predlogi	mte:Ncmpi	predlog
+v	mte:Sl	v
+omenjenih	mte:Appfpl	omenjen
+strankah	mte:Ncfpl	stranka
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročal	mte:Vmpp-sm	poročati
+Požareport	mte:Ncmsn	požareport
+.	mte:Z	.
+Predlagani	mte:Appmpn	predlagan
+trije	mte:Mlcmpn	trije
+tipi	mte:Ncmpn	tip
+sodelovanja	mte:Ncnsg	sodelovanje
+Predsednik	mte:Ncmsn	predsednik
+stranke	mte:Ncfsg	stranka
+TRS	mte:Npmsn	TRS
+Matjaž	mte:Npmsn	Matjaž
+Hanžek	mte:Npmsn	Hanžek
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+pismu	mte:Ncnsl	pismo
+predlagani	mte:Appmpn	predlagan
+trije	mte:Mlcmpn	trije
+tipi	mte:Ncmpn	tip
+sodelovanja	mte:Ncnsg	sodelovanje
+strank	mte:Ncfpg	stranka
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+tudi	mte:Q	tudi
+sodelovanje	mte:Ncnsa	sodelovanje
+na	mte:Sl	na
+projektih	mte:Ncmpl	projekt
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+je	mte:Va-r3s-n	biti
+Janković	mte:Npmsn	Janković
+predlagal	mte:Vmbp-sm	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+predsedniki	mte:Ncmpn	predsednik
+strank	mte:Ncfpg	stranka
+sestanejo	mte:Vmer3p	sestati
+in	mte:Cc	in
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+pogovorijo	mte:Vmer3p	pogovoriti
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+nikjer	mte:Rgp	nikjer
+v	mte:Sl	v
+pismu	mte:Ncnsl	pismo
+ni	mte:Va-r3s-y	biti
+predlagano	mte:Appnsn	predlagan
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+vodja	mte:Ncmsn	vodja
+koalicije	mte:Ncfsg	koalicija
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Hanžek	mte:Npmsn	Hanžek
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+Jankoviću	mte:Npmsd	Janković
+odgovorili	mte:Vmep-pm	odgovoriti
+danes	mte:Rgp	danes
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+ima	mte:Vmpr3s-n	imeti
+stranka	mte:Ncfsn	stranka
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+konvencijo	mte:Ncfsa	konvencija
+in	mte:Cc	in
+do	mte:Sg	do
+takrat	mte:Rgp	takrat
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+ničesar	mte:Pz-nsg	nič
+odločati	mte:Vmpn	odločati
+.	mte:Z	.
+"	mte:Z	"
+Moje	mte:Ps1nsns	moj
+osebno	mte:Agpnsn	oseben
+mnenje	mte:Ncnsn	mnenje
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+pri	mte:Sl	pri
+vladi	mte:Ncfsl	vlada
+v	mte:Sl	v
+senci	mte:Ncfsl	senca
+ni	mte:Va-r3s-y	biti
+smisla	mte:Ncmsg	smisel
+.	mte:Z	.
+Načelno	mte:Rgp	načelno
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+pripravljen	mte:Appmsnn	pripravljen
+sodelovati	mte:Vmpn	sodelovati
+na	mte:Sl	na
+kakšnem	mte:Pq-msl	kakšen
+skupnem	mte:Agpmsl	skupen
+projektu	mte:Ncmsl	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+naš	mte:Ps1msnp	naš
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Predstavnik	mte:Ncmsn	predstavnik
+za	mte:Sa	za
+strateško	mte:Agpnsa	strateški
+komuniciranje	mte:Ncnsa	komuniciranje
+in	mte:Cc	in
+nove	mte:Agpfpa	nov
+tehnologije	mte:Ncfpa	tehnologija
+pri	mte:Sl	pri
+stranki	mte:Ncfsl	stranka
+SD	mte:Npmsg	SD
+Denis	mte:Npmsn	Denis
+Sarkić	mte:Npmsn	Sarkić
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+stranke	mte:Ncfsg	stranka
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+prejel	mte:Vmep-sm	prejeti
+dopis	mte:Ncmsan	dopis
+ter	mte:Cc	ter
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+o	mte:Sl	o
+vsebini	mte:Ncfsl	vsebina
+še	mte:Q	še
+pogovorili	mte:Vmep-pm	pogovoriti
+.	mte:Z	.
+Žnidaršič	mte:Npmsn	Žnidaršič
+pismo	mte:Ncnsa	pismo
+prejel	mte:Vmep-sm	prejeti
+,	mte:Z	,
+a	mte:Cc	a
+vsebine	mte:Ncfpa	vsebina
+še	mte:Q	še
+ne	mte:Q	ne
+pozna	mte:Vmpr3s	poznati
+Pismo	mte:Ncnsa	pismo
+bo	mte:Va-f3s-n	biti
+stranka	mte:Ncfsn	stranka
+SMS	mte:Npmsn	SMS
+-	mte:Z	-
+Zeleni	mte:Agpmsny	zelen
+obravnavala	mte:Vmpp-sf	obravnavati
+na	mte:Sl	na
+organih	mte:Ncmpl	organ
+stranke	mte:Ncfsg	stranka
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+nanj	mte:Pp3msa--b	name
+odgovorili	mte:Vmep-pm	odgovoriti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+predsednik	mte:Ncmsn	predsednik
+stranke	mte:Ncfsg	stranka
+Darko	mte:Npmsn	Darko
+Krajnc	mte:Npmsn	Krajnc
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+sodelovanje	mte:Ncnsn	sodelovanje
+v	mte:Sl	v
+duhu	mte:Ncmsl	duh
+polariziranja	mte:Ncnsg	polariziranje
+mi	mte:Pp1-sd--y	jaz
+/	mte:Z	/
+oni	mte:Pp3mpn	on
+ne	mte:Q	ne
+zanima	mte:Vmpr3s	zanimati
+.	mte:Z	.
+Tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+Demokratične	mte:Agpfsg	demokratičen
+stranke	mte:Ncfsg	stranka
+dela	mte:Ncnsg	delo
+Franc	mte:Npmsn	Franc
+Žnidaršič	mte:Npmsn	Žnidaršič
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+pismo	mte:Ncnsa	pismo
+prejeli	mte:Vmep-pm	prejeti
+,	mte:Z	,
+vendar	mte:Cc	vendar
+še	mte:Q	še
+ne	mte:Q	ne
+ve	mte:Vmpr3s	vedeti
+,	mte:Z	,
+kakšna	mte:Pq-fsn	kakšen
+je	mte:Va-r3s-n	biti
+njegova	mte:Ps3fsnsm	njegov
+vsebina	mte:Ncfsn	vsebina
+.	mte:Z	.
+Povedal	mte:Vmep-sm	povedati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+prebral	mte:Vmep-sm	prebrati
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+v	mte:Sl	v
+stranki	mte:Ncfsl	stranka
+načeloma	mte:Rgp	načeloma
+strinjajo	mte:Vmpr3p	strinjati
+s	mte:Si	z
+sodelovanjem	mte:Ncnsi	sodelovanje
+na	mte:Sl	na
+posameznih	mte:Agpfpl	posamezen
+programskih	mte:Agpfpl	programski
+točkah	mte:Ncfpl	točka
+,	mte:Z	,
+združevanje	mte:Ncnsn	združevanje
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+mogoče	mte:Agpnsn	mogoč
+le	mte:Q	le
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+popolnoma	mte:Rgp	popolnoma
+poenotili	mte:Vmep-pm	poenotiti
+program	mte:Ncmsan	program

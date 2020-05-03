@@ -1,352 +1,381 @@
-token	tag
-Nova	Agpfsn
-Gorica	Npfsn
--	Z
-Fundacija	Npfsn
-Mitteleuropa	Npmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-v	Sl
-Riadu	Npmsl
-v	Sl
-Savdski	Agpfsl
-Arabiji	Npfsl
-gradila	Vmpp-sf
-prvo	Mlonsa
-izmed	Sg
-več	Rgc
-trgovskih	Agpnpg
-in	Cc
-turističnih	Agpnpg
-mest	Ncnpg
-Casa	Npfsn
-Italia	Npfsn
-,	Z
-je	Va-r3s-n
-k	Sd
-sodelovanju	Ncnsd
-povabila	Vmep-sf
-tudi	Q
-slovensko	Agpfsa
-živilskopredelovalno	Agpfsa
-industrijo	Ncfsa
-.	Z
-Podjetja	Ncnsg
-,	Z
-ki	Cs
-se	Px------y
-jim	Pp3mpd--y
-bo	Va-f3s-n
-uspelo	Vmep-sn
-povezati	Vmen
-z	Si
-Mitteleuropo	Npfsi
-,	Z
-bodo	Va-f3p-n
-v	Sa
-to	Pd-fsa
-zalivsko	Agpfsa
-državo	Ncfsa
-lahko	Rgp
-prodajala	Vmpp-pf
-značilne	Agpmpa
-slovenske	Agpmpa
-kmetijske	Agpmpa
-in	Cc
-živilske	Agpmpa
-proizvode	Ncmpa
-.	Z
-S	Si
-fundacijo	Ncfsi
-Mitteleuropa	Npmsg
-,	Z
-ki	Cs
-združuje	Vmpr3s
-več	Rgc
-kot	Cs
-600	Mdc
-različnih	Agpnpg
-podjetij	Ncnpg
-iz	Sg
-italijanskih	Agpfpg
-dežel	Ncfpg
-Furlanije	Npfsg
--	Z
-Julijske	Agpfsg
-krajine	Ncfsg
-,	Z
-Veneta	Npfsn
-,	Z
-Lombardije	Npfsg
-,	Z
-nemške	Agpfsg
-dežele	Ncfsg
-Baden	Npmsn
--	Z
-Württemberg	Npmsn
-,	Z
-Češke	Npfsg
-in	Cc
-Slovaške	Npfsg
-,	Z
-so	Va-r3p-n
-se	Px------y
-člani	Ncmpn
-vodstva	Ncnsg
-novogoriške	Agpfsg
-območne	Agpfsg
-Gospodarske	Agpfsg
-zbornice	Ncfsg
-Slovenije	Npfsg
-srečali	Vmep-pm
-že	Q
-pred	Si
-več	Rgc
-meseci	Ncmpi
-in	Cc
-se	Px------y
-začeli	Vmep-pm
-dogovarjati	Vmpn
-o	Sl
-sodelovanju	Ncnsl
-.	Z
-Želeli	Vmpp-pm
-so	Va-r3p-n
-,	Z
-da	Cs
-bi	Va-c
-v	Sa
-fundacijo	Ncfsa
-,	Z
-katere	Pq-fsg
-članstvo	Ncnsa
-je	Va-r3s-n
-brezplačno	Agpnsn
-,	Z
-vstopila	Vmep-sf
-tudi	Q
-slovenska	Agpnpa
-podjetja	Ncnpa
-.	Z
-"	Z
-Namen	Ncmsn
-te	Pd-fsg
-fundacije	Ncfsg
-je	Va-r3s-n
-predvsem	Q
-skupen	Agpmsnn
-nastop	Ncmsn
-na	Sl
-tretjih	Mlompl
-trgih	Ncmpl
-,	Z
-kar	Pr-nsn
-bi	Va-c
-slovenskim	Agpnpd
-podjetjem	Ncnpd
-prišlo	Vmep-sn
-še	Q
-kako	Rgp
-prav	Q
-.	Z
-Fundacija	Ncfsn
-je	Va-r3s-n
-namreč	Cc
-velika	Agpfsn
-in	Cc
-kot	Cs
-taka	Pd-fsn
-lahko	Rgp
-doseže	Vmer3s
-dobre	Agpmpa
-rezultate	Ncmpa
-,	Z
-saj	Cc
-si	Px---d--y
-v	Sl
-njej	Pp3fsl
-gospodarstveniki	Ncmpn
-pomagajo	Vmbr3p
-med	Si
-seboj	Px---i
-pri	Sl
-pridobivanju	Ncnsl
-poslov	Ncmpg
-,	Z
-"	Z
-je	Va-r3s-n
-povedala	Vmep-sf
-direktorica	Ncfsn
-območne	Agpfsg
-GZS	Npfsg
-za	Sa
-severno	Agpnsa
-Primorsko	Npfsa
-Mirjam	Npfsa
-Božič	Npfsn
-.	Z
-Fundaciji	Npfsd
-je	Va-r3s-n
-lani	Rgp
-tako	Rgp
-uspelo	Vmep-sn
-pridobiti	Vmen
-velik	Agpmsan
-posel	Ncmsan
-v	Sl
-Savdski	Agpfsl
-Arabiji	Npfsl
-.	Z
-Za	Sa
-savdskoarabskega	Agpmsa
-princa	Ncmsay
-Abdula	Npmsg
-Mohsena	Npmsg
-Alhokaira	Npmsg
-bodo	Va-f3p-n
-gradili	Vmpp-pm
-hotelsko	Agpnsa
--	Z
-trgovska	Agpnpa
-središča	Ncnpa
-,	Z
-poimenovana	Appfsn
-Casa	Npfsn
-Italia	Npfsn
-.	Z
-V	Sl
-njih	Pp3mpl
-bo	Va-f3s-n
-poleg	Sg
-luksuznih	Agpmpg
-hotelov	Ncmpg
-različnih	Agpfpg
-znanih	Appfpg
-svetovnih	Agpfpg
-verig	Ncfpg
-mogoče	Agpnsn
-dobiti	Vmen
-tudi	Q
-trgovine	Ncfpa
-s	Si
-tipičnimi	Agpmpi
-italijanskimi	Agpmpi
-izdelki	Ncmpi
-,	Z
-med	Si
-katerimi	Pq-mpi
-naj	Q
-bi	Va-c
-prevladovali	Vmpp-pm
-predvsem	Q
-izbrani	Appmpn
-prehrambni	Agpmpn
-izdelki	Ncmpn
-in	Cc
-oprema	Ncfsn
-za	Sa
-dom	Ncmsan
-.	Z
-V	Sl
-Riadu	Npmsl
-bodo	Va-f3p-n
-po	Sl
-novogoriški	Agpfsl
-predstavitvi	Ncfsl
-začeli	Vmep-pm
-graditi	Vmpn
-prvega	Mlomsa
-izmed	Sg
-31	Mdc
-načrtovanih	Appnpg
-središč	Ncnpg
-,	Z
-projektu	Ncmsd
-pa	Cc
-je	Va-r3s-n
-savdskoarabski	Agpmsny
-princ	Ncmsn
-že	Q
-namenil	Vmep-sm
-1,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Območna	Agpfsn
-gospodarska	Agpfsn
-zbornica	Ncfsn
-za	Sa
-severno	Agpfsa
-Primorsko	Npfsa
-je	Va-r3s-n
-zato	Rgp
-pripravila	Vmep-sf
-poslovno	Agpfsa
-konferenco	Ncfsa
-Italija	Npfsn
--	Z
-Slovenija	Npfsn
--	Z
-Savdska	Agpfsn
-Arabija	Npfsn
-.	Z
-Zanimanja	Ncnsg
-med	Si
-slovenskimi	Agpnpi
-živilskopredelovalnimi	Agpnpi
-podjetji	Ncnpi
-je	Va-r3s-n
-bilo	Va-p-sn
-precej	Rgp
-,	Z
-prihodnji	Agpmpn
-meseci	Ncmpn
-pa	Cc
-bodo	Va-f3p-n
-pokazali	Vmep-pm
-,	Z
-ali	Rgp
-so	Va-r3p-n
-bili	Va-p-pm
-pogovori	Ncmpn
-o	Sl
-sodelovanju	Ncnsl
-tudi	Q
-uspešni	Agpmpn
-.	Z
-"	Z
-V	Sa
-Savdsko	Agpfsa
-Arabijo	Npfsa
-bi	Va-c
-slovenska	Agpnpn
-podjetja	Ncnpn
-lahko	Rgp
-uspešno	Rgp
-izvažala	Vmpp-pn
-predvsem	Q
-izdelke	Ncmpa
-iz	Sg
-govejega	Agpnsg
-,	Z
-divjačinskega	Agpnsg
-in	Cc
-piščančjega	Agpnsg
-mesa	Ncnsg
-,	Z
-marmelade	Ncfsg
-,	Z
-med	Sa
-,	Z
-suho	Agpnsa
-sadje	Ncnsa
-,	Z
-drobno	Agpnsa
-pecivo	Ncnsa
-,	Z
-sadne	Agpmpa
-sokove	Ncmpa
-in	Cc
-vodo	Ncfsa
-.	Z
+token	tag	lemma
+Nova	mte:Agpfsn	nov
+Gorica	mte:Npfsn	Gorica
+-	mte:Z	-
+Fundacija	mte:Npfsn	Fundacija
+Mitteleuropa	mte:Npmsg	Mittelelrop
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+Riadu	mte:Npmsl	Riad
+v	mte:Sl	v
+Savdski	mte:Agpfsl	savdski
+Arabiji	mte:Npfsl	Arabija
+gradila	mte:Vmpp-sf	graditi
+prvo	mte:Mlonsa	prvi
+izmed	mte:Sg	izmed
+več	mte:Rgc	več
+trgovskih	mte:Agpnpg	trgovski
+in	mte:Cc	in
+turističnih	mte:Agpnpg	turističen
+mest	mte:Ncnpg	mesto
+Casa	mte:Npfsn	Casa
+Italia	mte:Npfsn	Italia
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+k	mte:Sd	k
+sodelovanju	mte:Ncnsd	sodelovanje
+povabila	mte:Vmep-sf	povabiti
+tudi	mte:Q	tudi
+slovensko	mte:Agpfsa	slovenski
+živilskopredelovalno	mte:Agpfsa	živilskoprepskovalen
+industrijo	mte:Ncfsa	industrija
+.	mte:Z	.
+Podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+bo	mte:Va-f3s-n	biti
+uspelo	mte:Vmep-sn	uspeti
+povezati	mte:Vmen	povezati
+z	mte:Si	z
+Mitteleuropo	mte:Npfsi	Mitteleuropo
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+v	mte:Sa	v
+to	mte:Pd-fsa	ta
+zalivsko	mte:Agpfsa	zalivski
+državo	mte:Ncfsa	država
+lahko	mte:Rgp	lahko
+prodajala	mte:Vmpp-pf	prodajati
+značilne	mte:Agpmpa	značilen
+slovenske	mte:Agpmpa	slovenski
+kmetijske	mte:Agpmpa	kmetijski
+in	mte:Cc	in
+živilske	mte:Agpmpa	živilski
+proizvode	mte:Ncmpa	proizvod
+.	mte:Z	.
+S	mte:Si	z
+fundacijo	mte:Ncfsi	fundacija
+Mitteleuropa	mte:Npmsg	Mittelelrop
+,	mte:Z	,
+ki	mte:Cs	ki
+združuje	mte:Vmpr3s	združevati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+600	mte:Mdc	600
+različnih	mte:Agpnpg	različen
+podjetij	mte:Ncnpg	podjetje
+iz	mte:Sg	iz
+italijanskih	mte:Agpfpg	italijanski
+dežel	mte:Ncfpg	dežela
+Furlanije	mte:Npfsg	Furlanija
+-	mte:Z	-
+Julijske	mte:Agpfsg	julijski
+krajine	mte:Ncfsg	krajina
+,	mte:Z	,
+Veneta	mte:Npfsn	Venet
+,	mte:Z	,
+Lombardije	mte:Npfsg	Lombardija
+,	mte:Z	,
+nemške	mte:Agpfsg	nemški
+dežele	mte:Ncfsg	dežela
+Baden	mte:Npmsn	Baden
+-	mte:Z	-
+Württemberg	mte:Npmsn	Württemberg
+,	mte:Z	,
+Češke	mte:Npfsg	Češka
+in	mte:Cc	in
+Slovaške	mte:Npfsg	Slovaška
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+člani	mte:Ncmpn	član
+vodstva	mte:Ncnsg	vodstvo
+novogoriške	mte:Agpfsg	novogoriški
+območne	mte:Agpfsg	območen
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+srečali	mte:Vmep-pm	srečati
+že	mte:Q	že
+pred	mte:Si	pred
+več	mte:Rgc	več
+meseci	mte:Ncmpi	mesec
+in	mte:Cc	in
+se	mte:Px------y	se
+začeli	mte:Vmep-pm	začeti
+dogovarjati	mte:Vmpn	dogovarjati
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+.	mte:Z	.
+Želeli	mte:Vmpp-pm	želeti
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+v	mte:Sa	v
+fundacijo	mte:Ncfsa	fundacija
+,	mte:Z	,
+katere	mte:Pq-fsg	kateri
+članstvo	mte:Ncnsa	članstvo
+je	mte:Va-r3s-n	biti
+brezplačno	mte:Agpnsn	brezplačen
+,	mte:Z	,
+vstopila	mte:Vmep-sf	vstopiti
+tudi	mte:Q	tudi
+slovenska	mte:Agpnpa	slovenski
+podjetja	mte:Ncnpa	podjetje
+.	mte:Z	.
+"	mte:Z	"
+Namen	mte:Ncmsn	namen
+te	mte:Pd-fsg	ta
+fundacije	mte:Ncfsg	fundacija
+je	mte:Va-r3s-n	biti
+predvsem	mte:Q	predvsem
+skupen	mte:Agpmsnn	skupen
+nastop	mte:Ncmsn	nastop
+na	mte:Sl	na
+tretjih	mte:Mlompl	tretji
+trgih	mte:Ncmpl	trg
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+bi	mte:Va-c	biti
+slovenskim	mte:Agpnpd	slovenski
+podjetjem	mte:Ncnpd	podjetje
+prišlo	mte:Vmep-sn	priti
+še	mte:Q	še
+kako	mte:Rgp	kako
+prav	mte:Q	prav
+.	mte:Z	.
+Fundacija	mte:Ncfsn	fundacija
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+velika	mte:Agpfsn	velik
+in	mte:Cc	in
+kot	mte:Cs	kot
+taka	mte:Pd-fsn	tak
+lahko	mte:Rgp	lahko
+doseže	mte:Vmer3s	doseči
+dobre	mte:Agpmpa	dober
+rezultate	mte:Ncmpa	rezultat
+,	mte:Z	,
+saj	mte:Cc	saj
+si	mte:Px---d--y	se
+v	mte:Sl	v
+njej	mte:Pp3fsl	on
+gospodarstveniki	mte:Ncmpn	gospodarstvenik
+pomagajo	mte:Vmbr3p	pomagati
+med	mte:Si	med
+seboj	mte:Px---i	se
+pri	mte:Sl	pri
+pridobivanju	mte:Ncnsl	pridobivanje
+poslov	mte:Ncmpg	posel
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedala	mte:Vmep-sf	povedati
+direktorica	mte:Ncfsn	direktorica
+območne	mte:Agpfsg	območen
+GZS	mte:Npfsg	GZS
+za	mte:Sa	za
+severno	mte:Agpnsa	severen
+Primorsko	mte:Npfsa	Primorska
+Mirjam	mte:Npfsa	Mirja
+Božič	mte:Npfsn	Božič
+.	mte:Z	.
+Fundaciji	mte:Npfsd	Fundacija
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+tako	mte:Rgp	tako
+uspelo	mte:Vmep-sn	uspeti
+pridobiti	mte:Vmen	pridobiti
+velik	mte:Agpmsan	velik
+posel	mte:Ncmsan	posel
+v	mte:Sl	v
+Savdski	mte:Agpfsl	savdski
+Arabiji	mte:Npfsl	Arabija
+.	mte:Z	.
+Za	mte:Sa	za
+savdskoarabskega	mte:Agpmsa	savdskoarabski
+princa	mte:Ncmsay	princ
+Abdula	mte:Npmsg	Abdul
+Mohsena	mte:Npmsg	Mohsen
+Alhokaira	mte:Npmsg	Alhokair
+bodo	mte:Va-f3p-n	biti
+gradili	mte:Vmpp-pm	graditi
+hotelsko	mte:Agpnsa	hotelski
+-	mte:Z	-
+trgovska	mte:Agpnpa	trgovski
+središča	mte:Ncnpa	središče
+,	mte:Z	,
+poimenovana	mte:Appfsn	poimenovan
+Casa	mte:Npfsn	Casa
+Italia	mte:Npfsn	Italia
+.	mte:Z	.
+V	mte:Sl	v
+njih	mte:Pp3mpl	on
+bo	mte:Va-f3s-n	biti
+poleg	mte:Sg	poleg
+luksuznih	mte:Agpmpg	luksuzen
+hotelov	mte:Ncmpg	hotel
+različnih	mte:Agpfpg	različen
+znanih	mte:Appfpg	znan
+svetovnih	mte:Agpfpg	svetoven
+verig	mte:Ncfpg	veriga
+mogoče	mte:Agpnsn	mogoč
+dobiti	mte:Vmen	dobiti
+tudi	mte:Q	tudi
+trgovine	mte:Ncfpa	trgovina
+s	mte:Si	z
+tipičnimi	mte:Agpmpi	tipičen
+italijanskimi	mte:Agpmpi	italijanski
+izdelki	mte:Ncmpi	izdelek
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+prevladovali	mte:Vmpp-pm	prevladovati
+predvsem	mte:Q	predvsem
+izbrani	mte:Appmpn	izbran
+prehrambni	mte:Agpmpn	prehramben
+izdelki	mte:Ncmpn	izdelek
+in	mte:Cc	in
+oprema	mte:Ncfsn	oprema
+za	mte:Sa	za
+dom	mte:Ncmsan	dom
+.	mte:Z	.
+V	mte:Sl	v
+Riadu	mte:Npmsl	Riad
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+novogoriški	mte:Agpfsl	novogoriški
+predstavitvi	mte:Ncfsl	predstavitev
+začeli	mte:Vmep-pm	začeti
+graditi	mte:Vmpn	graditi
+prvega	mte:Mlomsa	prvi
+izmed	mte:Sg	izmed
+31	mte:Mdc	31
+načrtovanih	mte:Appnpg	načrtovan
+središč	mte:Ncnpg	središče
+,	mte:Z	,
+projektu	mte:Ncmsd	projekt
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+savdskoarabski	mte:Agpmsny	savdskoarabski
+princ	mte:Ncmsn	princ
+že	mte:Q	že
+namenil	mte:Vmep-sm	nameniti
+1,5	mte:Mdc	1,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Območna	mte:Agpfsn	območen
+gospodarska	mte:Agpfsn	gospodarski
+zbornica	mte:Ncfsn	zbornica
+za	mte:Sa	za
+severno	mte:Agpfsa	severen
+Primorsko	mte:Npfsa	Primorska
+je	mte:Va-r3s-n	biti
+zato	mte:Rgp	zato
+pripravila	mte:Vmep-sf	pripraviti
+poslovno	mte:Agpfsa	posloven
+konferenco	mte:Ncfsa	konferenca
+Italija	mte:Npfsn	Italija
+-	mte:Z	-
+Slovenija	mte:Npfsn	Slovenija
+-	mte:Z	-
+Savdska	mte:Agpfsn	savdski
+Arabija	mte:Npfsn	Arabija
+.	mte:Z	.
+Zanimanja	mte:Ncnsg	zanimanje
+med	mte:Si	med
+slovenskimi	mte:Agpnpi	slovenski
+živilskopredelovalnimi	mte:Agpnpi	živilskoprepskovalen
+podjetji	mte:Ncnpi	podjetje
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+precej	mte:Rgp	precej
+,	mte:Z	,
+prihodnji	mte:Agpmpn	prihodnji
+meseci	mte:Ncmpn	mesec
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+pokazali	mte:Vmep-pm	pokazati
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+pogovori	mte:Ncmpn	pogovor
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+tudi	mte:Q	tudi
+uspešni	mte:Agpmpn	uspešen
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sa	v
+Savdsko	mte:Agpfsa	savdski
+Arabijo	mte:Npfsa	Arabija
+bi	mte:Va-c	biti
+slovenska	mte:Agpnpn	slovenski
+podjetja	mte:Ncnpn	podjetje
+lahko	mte:Rgp	lahko
+uspešno	mte:Rgp	uspešno
+izvažala	mte:Vmpp-pn	izvažati
+predvsem	mte:Q	predvsem
+izdelke	mte:Ncmpa	izdelek
+iz	mte:Sg	iz
+govejega	mte:Agpnsg	goveji
+,	mte:Z	,
+divjačinskega	mte:Agpnsg	divjačinski
+in	mte:Cc	in
+piščančjega	mte:Agpnsg	piščančji
+mesa	mte:Ncnsg	meso
+,	mte:Z	,
+marmelade	mte:Ncfsg	marmelada
+,	mte:Z	,
+med	mte:Sa	med
+,	mte:Z	,
+suho	mte:Agpnsa	suh
+sadje	mte:Ncnsa	sadje
+,	mte:Z	,
+drobno	mte:Agpnsa	drobno
+pecivo	mte:Ncnsa	pecivo
+,	mte:Z	,
+sadne	mte:Agpmpa	saden
+sokove	mte:Ncmpa	sok
+in	mte:Cc	in
+vodo	mte:Ncfsa	voda
+.	mte:Z	.
+Slovenski	mte:Agpmpn	slovenski
+izdelki	mte:Ncmpn	izdelek
+so	mte:Va-r3p-n	biti
+butični	mte:Agpmpn	butičen
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedala	mte:Vmep-sf	povedati
+Božičeva	mte:Aspfsn	božičev
+,	mte:Z	,
+ki	mte:Cs	ki
+upa	mte:Vmpr3s	up
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+slovenskim	mte:Agpmpd	slovenski
+proizvajalcem	mte:Ncmpd	proizvajalec
+vrata	mte:Ncnpg	vrata
+na	mte:Sa	na
+ta	mte:Pd-msa	ta
+dokaj	mte:Rgp	dokaj
+zaprti	mte:Appmsay	zaprt
+trg	mte:Ncmsan	trg
+arabske	mte:Agpfsg	arabski
+kraljevine	mte:Ncfsg	kraljevina
+vendarle	mte:Cc	vendarle
+počasi	mte:Rgp	počasi
+odpirajo	mte:Vmpr3p	odpirati

@@ -1,1323 +1,1349 @@
-token	tag
-Z	Sg
-vidika	Ncmsg
-delavcev	Ncmpg
-je	Va-r3s-n
-stečaj	Ncmsn
-Vegrada	Npmsg
-najboljša	Agsfsn
-rešitev	Ncfsn
-.	Z
-Tako	Rgp
-je	Va-r3s-n
-prepričana	Appfsn
-gospodarska	Agpfsn
-ministrica	Ncfsn
-Darja	Npfsn
-Radić	Npfsn
-in	Cc
-tako	Rgp
-pravita	Vmpr3d
-tudi	Q
-ekonomista	Ncmdn
-Rado	Npmsn
-Pezdir	Npmsn
-in	Cc
-Jože	Npmsn
-Damijan	Npmsn
-.	Z
-Prisilna	Agpfsn
-poravnava	Ncfsn
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-manj	Rgc
-ugodna	Agpfsn
-.	Z
-Darja	Npfsn
-Radić	Npfsn
-Zgodba	Ncfsn
-o	Sl
-Vegradu	Npmsl
-se	Px------y
-žalostno	Rgp
-končuje	Vmpr3s
-,	Z
-saj	Cc
-je	Va-r3s-n
-to	Pd-nsn
-podjetje	Ncnsn
-sporočilo	Ncnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-plačilno	Agpnsn
-nesposobno	Agpnsn
-.	Z
-Glede	Sg
-nadaljnje	Agpfsg
-usode	Ncfsg
-podjetja	Ncnsg
-sta	Va-r3d-n
-možna	Agpmdn
-dva	Mlcmdn
-scenarija	Ncmdn
-.	Z
-Prisilna	Agpfsn
-poravnava	Ncfsn
-ali	Cc
-stečaj	Ncmsn
-.	Z
-Ministrica	Ncfsn
-za	Sa
-gospodarstvo	Ncnsa
-Darja	Npfsn
-Radić	Npfsn
-meni	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-Vegrad	Npmsn
-težko	Rgp
-zmogel	Vmep-sm
-izkoristiti	Vmen
-prisilno	Agpfsa
-poravnavo	Ncfsa
-.	Z
-Stečaj	Ncmsn
-družbe	Ncfsg
-je	Va-r3s-n
-tako	Rgp
-po	Sl
-njenih	Ps3fplsf
-besedah	Ncfpl
-najbolj	Rgs
-realna	Agpfsn
-možnost	Ncfsn
-in	Cc
-najbolj	Rgs
-optimalna	Agpfsn
-rešitev	Ncfsn
-za	Sa
-delavce	Ncmpa
-.	Z
-Zagotovila	Vmep-sf
-je	Va-r3s-n
-,	Z
-da	Cs
-bo	Va-f3s-n
-država	Ncfsn
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-prek	Sg
-Posebne	Agpfsg
-družbe	Ncfsg
-za	Sa
-podjetniško	Agpnsa
-svetovanje	Ncnsa
-PDP	Ncmsn
-v	Sl
-Vegradu	Npmsl
-29	Mdc
--	Z
-odstotni	Agpmsay
-lastniški	Agpmsay
-delež	Ncmsan
-,	Z
-poskrbela	Vmep-sf
-za	Sa
-brezposelne	Agpfpa
-.	Z
-Družba	Ncfsn
-PDP	Npmsn
-je	Va-r3s-n
-,	Z
-kot	Cs
-pravi	Vmbr3s
-njen	Ps3msnsf
-izvršni	Agpmsny
-direktor	Ncmsn
-Matej	Npmsn
-Golob	Npmsn
-Matzele	Npmsn
-,	Z
-od	Sg
-pridobitve	Ncfsg
-lastniškega	Agpmsg
-deleža	Ncmsg
-v	Sl
-Vegradu	Npmsl
-decembra	Ncmsg
-lani	Rgp
-skupaj	Rgp
-z	Si
-bankami	Ncfpi
-in	Cc
-največjimi	Agsmpi
-lastniki	Ncmpi
-vodila	Vmpp-sf
-aktivnosti	Ncfpa
-za	Sa
-rešitev	Ncfsa
-velenjske	Agpfsg
-družbe	Ncfsg
-in	Cc
-svojega	Px-msg
-deleža	Ncmsg
-.	Z
-Kot	Cs
-poudarja	Vmpr3s
-,	Z
-pa	Cc
-nastale	Vmep-pf
-situacije	Ncfpn
-niso	Va-r3p-y
-mogli	Vmpp-pm
-preprečiti	Vmen
-.	Z
-Nastala	Vmep-sf
-situacija	Ncfsn
-je	Va-r3s-n
-po	Sl
-besedah	Ncfpl
-Radićeve	Aspfsg
-in	Cc
-Goloba	Npmsg
-Matzeleja	Npmsg
-tudi	Q
-posledica	Ncfsn
-neodgovornega	Agpnsg
-ravnanja	Ncnsg
-uprave	Ncfsg
-Vegrada	Npmsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodi	Vmpr3s
-Hilda	Npfsn
-Tovšak	Npfsn
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-namreč	Cc
-prikrivala	Vmpp-sf
-podatke	Ncmpa
-o	Sl
-poslovanju	Ncnsl
-družbe	Ncfsg
-.	Z
-Radićeva	Aspfsn
-za	Sa
-zdaj	Rgp
-ne	Q
-želi	Vmpr3s
-napovedovati	Vmpn
-morebitnih	Agpfpg
-odškodninskih	Agpfpg
-tožb	Ncfpg
-.	Z
-Nekaj	Rgp
-kazenskih	Agpfpg
-ovadb	Ncfpg
-v	Sl
-zvezi	Ncfsl
-z	Si
-Vegradom	Npmsi
-je	Va-r3s-n
-bilo	Va-p-sn
-po	Sl
-njenih	Ps3fplsf
-besedah	Ncfpl
-sicer	Q
-že	Q
-vloženih	Appmpg
-,	Z
-če	Cs
-bodo	Va-f3p-n
-potrebne	Agpfpn
-še	Q
-kakšne	Pq-fpa
-,	Z
-bodo	Va-f3p-n
-to	Pd-nsa
-tudi	Q
-storili	Vmep-pm
-,	Z
-je	Va-r3s-n
-zatrdila	Vmep-sf
-.	Z
-Pezdir	Npmsn
-Le	Q
-stečaj	Ncmsn
-Rado	Npmsn
-Pezdir	Npmsn
-Foto	Npmsn
-POP	Ncmsn
-TV	Ncmsn
-Tudi	Q
-komentarji	Ncmpn
-ekonomistov	Ncmpg
-so	Va-r3p-n
-podobni	Agpmpn
-razmišljanju	Ncnsd
-Radičeve	Aspfsg
-.	Z
-Tudi	Q
-Rado	Npmsn
-Pezdir	Npmsn
-namreč	Cc
-meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-realna	Agpfsn
-možnost	Ncfsn
-le	Q
-stečaj	Ncmsn
-.	Z
-Pravi	Vmbr3s
-namreč	Cc
-,	Z
-da	Cs
-ga	Pp3msa--y
-v	Sl
-vsej	Pg-fsl
-zgodbi	Ncfsl
-preseneča	Vmpr3s
-le	Q
-dejstvo	Ncnsn
-,	Z
-da	Cs
-do	Sg
-njega	Pp3msg
-ni	Va-r3s-y
-prišlo	Vmep-sn
-že	Q
-prej	Rgc
-.	Z
-Da	Cs
-je	Va-r3s-n
-Vegrad	Npfsn
-gnila	Appfsn
-družba	Ncfsn
-,	Z
-pa	Cc
-res	Rgp
-ni	Va-r3s-y
-nikakršna	Pz-fsn
-novica	Ncfsn
-,	Z
-tudi	Q
-za	Sa
-insolventnost	Ncfsa
-se	Px------y
-je	Va-r3s-n
-vedelo	Vmpp-sn
-že	Q
-dolgo	Agpnsn
-.	Z
-Vegrad	Npmsn
-v	Sl
-takšni	Pd-fsl
-obliki	Ncfsl
-pač	Q
-nima	Vmpr3s-y
-prihodnosti	Ncfsg
-.	Z
-Začete	Appmpa
-projekte	Ncmpa
-bo	Va-f3s-n
-pač	Q
-dokončal	Vmep-sm
-kdo	Pq-msn
-drug	Mlpmsnn
-.	Z
-Poglejte	Vmem2p
-članek	Ncmsan
-o	Sl
-tem	Pd-nsl
-,	Z
-kdo	Pq-msn
-bo	Va-f3s-n
-plačal	Vmep-sm
-za	Sa
-grehe	Ncmpa
-direktorice	Ncfsg
-Vegrada	Npmsg
-Hilde	Npfsg
-Tovšak	Npfsg
-.	Z
-Vprašanje	Ncnsa
-,	Z
-ali	Rgp
-bodo	Va-f3p-n
-dobili	Vmep-pm
-plače	Ncfpa
-Ekonomist	Ncmsn
-Jože	Npmsn
-Damijan	Npmsn
-sicer	Q
-kot	Cs
-možen	Agpmsnn
-scenarij	Ncmsn
-za	Sa
-Vegrad	Npmsan
-omenja	Vmpr3s
-poskus	Ncmsan
-prisilne	Agpfsg
-poravnave	Ncfsg
-med	Si
-družbo	Ncfsi
-in	Cc
-upniki	Ncmpi
-.	Z
-A	Cc
-bo	Va-f3s-n
-morebitna	Agpfsn
-prisilna	Agpfsn
-poravnava	Ncfsn
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-izjemno	Rgp
-težavna	Agpfsn
-,	Z
-saj	Cc
-družba	Ncfsn
-nima	Vmpr3s-y
-veliko	Rgp
-sklenjenih	Appfpg
-pogodb	Ncfpg
-za	Sa
-nove	Agpmpa
-gradbene	Agpmpa
-projekte	Ncmpa
-.	Z
-Bolj	Rgc
-verjeten	Agpmsnn
-je	Va-r3s-n
-zato	Rgp
-stečaj	Ncmsn
-.	Z
-Pravi	Vmbr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-na	Sl
-pogorišču	Ncnsl
-Vegrada	Npmsg
-verjetno	Rgp
-nastalo	Vmep-sn
-nekaj	Rgp
-manjših	Agcnpg
-gradbenih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Najslabše	Rgs
-jo	Pp3fsa--y
-bodo	Va-f3p-n
-odnesli	Vmep-pm
-zaposleni	Appmpn
-v	Sl
-Vegradu	Npmsl
-,	Z
-navaja	Vmpr3s
-Damijan	Npmsn
-.	Z
-Vprašanje	Ncnsn
-je	Va-r3s-n
-,	Z
-če	Cs
-bodo	Va-f3p-n
-dobili	Vmep-pm
-plačane	Appfpa
-zaostale	Vmep-pf
-plače	Ncfpa
-.	Z
-Da	Cs
-ne	Q
-govorimo	Vmpr1p
-o	Sl
-neplačanih	Agpmpl
-socialnih	Agpmpl
-prispevkih	Ncmpl
-,	Z
-že	Q
-odtegnjenih	Appmpl
-kreditnih	Agpmpl
-obrokih	Ncmpl
-zaposlenih	Appfpg
-,	Z
-vendar	Cc
-ne	Q
-nakazanih	Appfpg
-bankam	Ncfpd
-.	Z
-.	Z
-.	Z
-dodaja	Vmpr3s
-.	Z
-V	Sl
-primeru	Ncmsl
-stečaja	Ncmsg
-se	Px------y
-bodo	Va-f3p-n
-po	Sl
-Damijanovih	Aspfpl
-besedah	Ncfpl
-upniki	Ncmpn
-poplačali	Vmep-pm
-v	Sl
-odvisnosti	Ncfsl
-od	Sg
-vrednosti	Ncfsg
-premoženja	Ncnsg
-Vegrada	Npmsg
-glede	Rgp
-na	Sa
-njegove	Ps3fpasm
-obveznosti	Ncfpa
-ter	Cc
-v	Sl
-odvisnosti	Ncfsl
-od	Sg
-prednostne	Agpfsg
-vrste	Ncfsg
-terjatev	Ncfpg
-.	Z
-Najprej	Rgs
-se	Px------y
-bodo	Va-f3p-n
-reševale	Vmpp-pf
-banke	Ncfpn
-,	Z
-pri	Sl
-katerih	Pq-mpl
-ima	Vmpr3s-n
-Vegrad	Npmsn
-zastavljeno	Appnsn
-svoje	Px-nsa
-premoženje	Ncnsa
-,	Z
-podizvajalci	Ncmpn
-pa	Cc
-šele	Q
-,	Z
-potem	Rgp
-ko	Cs
-bodo	Va-f3p-n
-banke	Ncfpn
-poplačane	Appfpn
-.	Z
-V	Sl
-primeru	Ncmsl
-stečaja	Ncmsg
-je	Va-r3s-n
-po	Sl
-Damijanovih	Aspfpl
-besedah	Ncfpl
-položaj	Ncmsnn
-za	Sa
-zaposlene	Appmpa
-hud	Agpmsan
-,	Z
-se	Px------y
-pa	Cc
-zanje	Pp3mpa--b
-vsaj	Q
-končuje	Vmpr3s
-sedanja	Agpfsn
-agonija	Ncfsn
-ter	Cc
-bodo	Va-f3p-n
-v	Sl
-primeru	Ncmsl
-stečaja	Ncmsg
-lahko	Rgp
-deležni	Agpmpn
-socialnega	Agpnsg
-varstva	Ncnsg
-s	Sg
-strani	Ncfsg
-države	Ncfsg
-in	Cc
-upravičeni	Appmpn
-do	Sg
-nadomestil	Vmep-sm
-za	Sa
-brezposelne	Agpfpa
-.	Z
-Za	Sa
-mnoge	Pi-mpa
-izmed	Sg
-njih	Pp3mpg
-se	Px------y
-bo	Va-f3s-n
-finančni	Agpmsny
-položaj	Ncmsn
-tako	Rgp
-vsaj	Q
-kratkoročno	Rgp
-izboljšal	Vmep-sm
-,	Z
-meni	Vmpr3s
-.	Z
-Podobnih	Agpmpg
-stečajev	Ncmpg
-gradbenih	Agpnpg
-podjetij	Ncnpg
-je	Va-r3s-n
-bilo	Va-p-sn
-že	Q
-nekaj	Pi-nsn
-in	Cc
-še	Q
-nekaj	Rgp
-jih	Pp3mpg--y
-bo	Va-f3s-n
-.	Z
-Bolj	Rgc
-pomembno	Agpnsn
-je	Va-r3s-n
-,	Z
-kako	Rgp
-bo	Va-f3s-n
-stečaj	Ncmsn
-Vegrada	Npmsg
-vplival	Vmpp-sm
-na	Sa
-vrednost	Ncfsa
-nepremičnin	Ncfpg
-,	Z
-saj	Cc
-bodo	Va-f3p-n
-banke	Ncfpn
-morale	Vmpp-pf
-začeti	Vmen
-odprodajati	Vmpn
-novozgrajena	Appnpa
-Vegradova	Aspnpa
-stanovanja	Ncnpa
-.	Z
-Podobno	Agpnsn
-tudi	Q
-drugi	Mlpmpn
-upniki	Ncmpn
-podizvajalci	Ncmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-ta	Pd-npa
-stanovanja	Ncnpa
-dobili	Vmep-pm
-kot	Cs
-kompenzacije	Ncfpa
-za	Sa
-neplačana	Agpnpa
-dela	Ncnpa
-s	Sg
-strani	Ncfsg
-Vegrada	Npmsg
-.	Z
-Mogoče	Agpnsn
-je	Va-r3s-n
-pričakovati	Vmpn
-pomemben	Agpmsan
-vpliv	Ncmsan
-na	Sa
-znižanje	Ncnsa
-cen	Ncfpg
-novih	Agpnpg
-stanovanj	Ncnpg
-v	Sl
-Ljubljani	Npfsl
-,	Z
-predvsem	Q
-tistih	Pd-mpg
-v	Sl
-cenovnem	Agpmsl
-razredu	Ncmsl
-od	Sg
-2000	Mdc
-do	Sg
-3000	Mdc
-evrov	Ncmpg
-na	Sa
-kvadratni	Agpmsay
-meter	Ncmsan
-,	Z
-je	Va-r3s-n
-še	Q
-pojasnil	Vmep-sm
-.	Z
-Foto	Ncmsn
-POP	Npmsn
-TV	Ncmsn
-Razočaranje	Ncnsn
-delavcev	Ncmpg
-Žalost	Ncfsn
-,	Z
-razočaranje	Ncnsn
-in	Cc
-obup	Ncfsn
-so	Va-r3p-n
-besede	Ncfpn
-,	Z
-ki	Cs
-najbolje	Rgs
-opišejo	Vmer3p
-občutke	Ncmpa
-Vegradovih	Aspmpg
-delavcev	Ncmpg
-.	Z
-Nekaj	Rgp
-jih	Pp3mpg--y
-je	Va-r3s-n
-že	Q
-pripravilo	Vmep-sn
-potovalke	Ncfpa
-in	Cc
-krenilo	Vmep-sn
-nazaj	Rgp
-v	Sa
-domovino	Ncfsa
-s	Si
-sporočilom	Ncnsi
-,	Z
-da	Cs
-se	Px------y
-v	Sa
-to	Pd-fsa
-deželo	Ncfsa
-ne	Q
-vrnejo	Vmer3p
-nikoli	Rgp
-.	Z
-Češ	Q
-da	Cs
-na	Sa
-denar	Ncmsan
-nekateri	Pi-mpn
-čakajo	Vmpr3p
-že	Q
-od	Sg
-marca	Ncmsg
-,	Z
-drugi	Mlpmpn
-od	Sg
-maja	Ncmsg
-in	Cc
-da	Cs
-nimajo	Vmpr3p-y
-več	Q
-od	Sg
-česa	Pq-nsg
-živeti	Vmpn
-,	Z
-je	Va-r3s-n
-poročal	Vmpp-sm
-24UR	Mdc
-OB	Sl
-ENIH	Mlcmpl
-.	Z
-Delavci	Ncmpn
-si	Px---d--y
-želijo	Vmpr3p
-,	Z
-da	Cs
-bi	Va-c
-jim	Pp3mpd--y
-Vegrad	Npmsn
-denar	Ncmsn
-,	Z
-ki	Cs
-jim	Pp3mpd--y
-ga	Pp3msa--y
-dolguje	Vmpr3s
-,	Z
-vendarle	Cc
-izplačal	Vmbp-sm
-.	Z
-Vsi	Pg-mpn
-še	Q
-vedno	Rgp
-verjamejo	Vmbr3p
-v	Sa
-pravno	Agpfsa
-državo	Ncfsa
-,	Z
-ni	Va-r3s-y
-pa	Cc
-jim	Pp3mpd--y
-jasno	Agpnsn
-,	Z
-zakaj	Rgp
-nihče	Pz-msn
-z	Sg
-državnega	Agpmsg
-vrha	Ncmsg
-ne	Q
-ukrepa	Vmpr3s
-.	Z
-Stečaj	Ncmsn
-Brez	Sg
-dela	Ncnsg
-ostane	Vmer3s
-1700	Mdc
-delavcev	Ncmpg
-Kar	Rgp
-zadeva	Ncfsn
-pretekle	Appfsg
-zlorabe	Ncfsg
-,	Z
-pa	Cc
-poudarjam	Vmpr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-ravnanje	Ncnsn
-vodstva	Ncnsg
-Vegrada	Npmsg
-cinično	Agpnsn
-in	Cc
-vredno	Agpnsn
-vsega	Pg-nsg
-obsojanja	Ncnsg
-,	Z
-poudarja	Vmpr3s
-slovenski	Agpmsny
-predsednik	Ncmsn
-Türk	Npmsn
-.	Z
-Stečaj	Ncmsn
-za	Sa
-delavce	Ncmpa
-pomeni	Vmbr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-brez	Sg
-dela	Ncnsg
-ostalo	Vmep-sn
-1700	Mdc
-slovenskih	Agpmpg
-in	Cc
-400	Mdc
-bosanskih	Agpmpg
-delavcev	Ncmpg
-.	Z
-Če	Cs
-bi	Va-c
-se	Px------y
-odločili	Vmep-pm
-za	Sa
-prisilno	Agpfsa
-poravnavo	Ncfsa
-,	Z
-pa	Cc
-bi	Va-c
-delo	Ncnsa
-zagotovo	Rgp
-obdržalo	Vmep-sn
-vsaj	Q
-nekaj	Rgp
-ljudi	Ncmpg
-.	Z
-A	Cc
-so	Va-r3p-n
-tudi	Q
-delavci	Ncmpn
-za	Sa
-stečaj	Ncmsan
-.	Z
-Prisilna	Agpfsn
-poravnava	Ncfsn
-jim	Pp3mpd--y
-bo	Va-f3s-n
-samo	Q
-dala	Vmep-sf
-čas	Ncmsan
-,	Z
-da	Cs
-po	Sa
-svoje	Px-nsa
-pospravijo	Vmer3p
-še	Q
-nekaj	Rgp
-denarja	Ncmsg
-in	Cc
-poplačajo	Vmer3p
-upnike	Ncmpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-že	Q
-doslej	Rgp
-vedno	Rgp
-v	Sl
-prednosti	Ncfsl
-,	Z
-pravi	Agpmsny
-sindikalist	Ncmsn
-Srečko	Npmsn
-Čater	Npmsn
-.	Z
-Odgovornost	Ncfsn
-za	Sa
-precej	Rgp
-verjeten	Agpmsan
-propad	Ncmsan
-podjetja	Ncnsg
-delavci	Ncmpn
-sicer	Q
-pripisujejo	Vmpr3p
-izključno	Agpmsa
-načinu	Ncmsd
-dela	Ncnsg
-Hilde	Npmsg
-Tovšak	Npmsg
-.	Z
-Na	Sl
-trgu	Ncmsl
-moraš	Vmpr2s
-biti	Va-n
-prilagodljiv	Agpmsnn
-,	Z
-ne	Q
-moreš	Vmpr2s
-se	Px------y
-ujeti	Vmen
-le	Q
-v	Sa
-eno	Mlpfsa
-zgodbo	Ncfsa
-.	Z
-Podobno	Rgp
-kot	Cs
-je	Va-r3s-n
-Gradis	Npmsn
-gradil	Vmpp-sm
-samo	Q
-trgovine	Ncfpa
-,	Z
-je	Va-r3s-n
-zdaj	Rgp
-Vegrad	Npmsn
-gradil	Vmpp-sm
-le	Q
-stanovanja	Ncnpa
-.	Z
-Oboje	Pg-nsn
-se	Px------y
-je	Va-r3s-n
-slabo	Rgp
-končalo	Vmep-sn
-.	Z
-Žal	Rgp
-pa	Cc
-Tovšakova	Aspfsn
-ni	Va-r3s-y
-želela	Vmpp-sf
-poslušati	Vmpn
-ekonomistov	Ncmpg
-,	Z
-ko	Cs
-so	Va-r3p-n
-govorili	Vmpp-pm
-o	Sl
-padanju	Ncnsl
-kupne	Agpfsg
-moči	Ncfsg
-,	Z
-in	Cc
-drugih	Mlpfpg
-raziskav	Ncfpg
-tržišča	Ncnsg
-.	Z
-Znala	Vmpp-sf
-je	Va-r3s-n
-graditi	Vmpn
-,	Z
-ne	Q
-pa	Cc
-tudi	Q
-prodati	Vmen
-.	Z
-.	Z
-.	Z
-še	Q
-pravi	Vmbr3s
-Čater	Npmsn
-.	Z
-Po	Sl
-njegovem	Ps3nslsm
-mnenju	Ncnsl
-pomeni	Vmbr3s
-prisilna	Agpfsn
-poravnava	Ncfsn
-zavlačevanje	Ncnsa
-,	Z
-razen	Sg
-če	Cs
-direktorici	Ncfsn
-Vegrada	Npmsg
-Hildi	Npfsg
-Tovšak	Npfsg
-bog	Ncmsn
-v	Sl
-kufru	Ncmsl
-ne	Q
-prinese	Vmer3s
-denarja	Ncmsg
-.	Z
-Treba	Rgp
-je	Va-r3s-n
-uvesti	Vmen
-stečaj	Ncmsan
-in	Cc
-poiskati	Vmen
-osebo	Ncfsa
-z	Si
-drugo	Mlpfsi
-vizijo	Ncfsi
-,	Z
-ki	Cs
-bi	Va-c
-nadaljevala	Vmpp-sf
-posle	Ncmpa
-Vegrada	Npmsg
-in	Cc
-zaposlila	Vmep-sf
-delavce	Ncmpa
-,	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-.	Z
-Nihče	Pz-msn
-ni	Va-r3s-y
-nor	Agpmsnn
-,	Z
-da	Cs
-bi	Va-c
-vso	Pg-fsa
-gradbeno	Agpfsa
-mehanizacijo	Ncfsa
-Vegrada	Npmsg
-pokopal	Vmep-sm
-pod	Sa
-zemljo	Ncfsa
-,	Z
-še	Q
-meni	Vmpr3s
-Čater	Npmsn
-.	Z
-Država	Ncfsn
-ima	Vmpr3s-n
-pomembno	Agpfsa
-odgovornost	Ncfsa
-Slovenski	Agpmsny
-predsednik	Ncmsn
-Danilo	Npmsn
-Türk	Npmsn
-je	Va-r3s-n
-prav	Q
-tako	Rgp
-komentiral	Vmbp-sm
-dogajanje	Ncnsa
-v	Sl
-podjetju	Ncnsl
-Vegrad	Npmsn
-.	Z
-Poudarja	Vmpr3s
-,	Z
-da	Cs
-ima	Vmpr3s-n
-država	Ncfsn
-pri	Sl
-reševanju	Ncnsl
-problema	Ncmsg
-Vegrada	Npmsg
-pomembno	Agpfsa
-odgovornost	Ncfsa
-.	Z
-Po	Sl
-njegovem	Ps3nslsm
-mnenju	Ncnsl
-bi	Va-c
-bilo	Va-p-sn
-treba	Rgp
-socialno	Agpfsa
-stisko	Ncfsa
-delavcev	Ncmpg
-najresneje	Rgs
-in	Cc
-prioritetno	Rgp
-upoštevati	Vmbn
-v	Sl
-vsem	Pg-nsl
-prihodnjem	Agpnsl
-odločanju	Ncnsl
-o	Sl
-usodi	Ncfsl
-podjetja	Ncnsg
-.	Z
-Celovški	Agpfsl
-dvori	Ncmpl
-pa	Cc
-naj	Q
-bi	Va-c
-že	Q
-v	Sl
-nekaj	Rgp
-dneh	Ncmpl
-dobili	Vmep-pm
-uporabno	Agpnsa
-dovoljenje	Ncnsa
-.	Z
-Kar	Pr-nsn
-zadeva	Ncfsn
-pretekle	Appfsg
-zlorabe	Ncfsg
-,	Z
-pa	Cc
-poudarjam	Vmpr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-ravnanje	Ncnsn
-vodstva	Ncnsg
-Vegrada	Npmsg
-cinično	Agpnsn
-in	Cc
-vredno	Agpnsn
-vsega	Pg-nsg
-obsojanja	Ncnsg
-.	Z
-Pričakujem	Vmpr1s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-nezakonitosti	Ncfpn
-,	Z
-ki	Cs
-bi	Va-c
-bile	Va-p-pf
-ugotovljene	Appfpn
-,	Z
-tudi	Q
-sankcionirane	Appfpn
-,	Z
-še	Q
-dodaja	Vmpr3s
-predsednik	Ncmsn
-.	Z
-Pomoč	Ncfsa
-ogroženim	Appmpd
-delavcem	Ncmpd
-Velenjski	Agpmsny
-Rdeči	Agpmsny
-križ	Ncmsn
-delavcem	Ncmpd
-družbe	Ncfsg
-Vegrad	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-insolventna	Agpfsn
-,	Z
-deli	Ncmpn
-pakete	Ncmpa
-hrane	Ncfsg
-in	Cc
-pralnega	Agpnsg
-praška	Ncmsg
-,	Z
-delavci	Ncmpn
-pa	Cc
-lahko	Rgp
-vsak	Pg-msa
-dan	Ncmsan
-med	Si
-15	Mdc
-.	Ncmpi
-in	Cc
-18	Mdc
-.	Z
-uro	Ncfsi
-v	Sl
-velenjski	Agpfsl
-javni	Agpfsl
-kuhinji	Ncfsl
-dobijo	Vmer3p
-topel	Agpmsan
-obrok	Ncmsan
-.	Z
-Foto	Ncmsn
-POP	Ncmsn
-TV	Ncmsn
-V	Sl
-javni	Agpfsl
-kuhinji	Ncfsl
-dnevno	Rgp
-razdelijo	Vmer3p
-obroke	Ncmpa
-okoli	Rgp
-180	Mdc
-delavcem	Ncmpd
-,	Z
-so	Va-r3p-n
-povedali	Vmep-pm
-na	Sl
-občini	Ncfsl
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-imeli	Vmpp-pm
-v	Sa
-sredo	Ncfsa
-na	Sa
-temo	Ncfsa
-Vegrada	Npmsg
-tudi	Q
-novinarsko	Agpfsa
-konferenco	Ncfsa
-.	Z
-Delavci	Ncmpn
-lahko	Rgp
-na	Sa
-občino	Ncfsa
-podajo	Vmbr3p
-tudi	Q
-vlogo	Ncfsa
-za	Sa
-enkratno	Agpfsa
-izredno	Agpfsa
-denarno	Agpfsa
-pomoč	Ncfsa
-.	Z
-Posameznik	Ncmsn
-lahko	Rgp
-dobi	Vmer3s
-115	Mdc
-evrov	Ncmpg
-,	Z
-za	Sa
-dve	Mlcfda
-odrasli	Appfda
-osebi	Ncfda
-je	Va-r3s-n
-pomoč	Ncfsa
-195	Mdc
-evrov	Ncmpg
-,	Z
-tričlanska	Agpfsn
-družina	Ncfsn
-lahko	Rgp
-prejme	Vmer3s
-229	Mdc
-evrov	Ncmpg
-,	Z
-štiričlanska	Agpfsn
-264	Mdc
-evrov	Ncmpg
-,	Z
-petčlanska	Agpfsn
-pa	Cc
-298	Mdc
-evrov	Ncmpg
-.	Z
-Enostarševska	Agpfsn
-družina	Ncfsn
-z	Si
-enim	Mlpmsi
-otrokom	Ncmsi
-je	Va-r3s-n
-upravičena	Appfsn
-do	Sg
-184	Mdc
-evrov	Ncmpg
-,	Z
-enostarševska	Agpfsn
-družina	Ncfsn
-z	Si
-dvema	Mlcmdi
-otrokoma	Ncmdi
-do	Sg
-218	Mdc
-evrov	Ncmpg
-,	Z
-enostarševska	Agpfsn
-družina	Ncfsn
-s	Si
-tremi	Mlcmpi
-otroci	Ncmpi
-pa	Cc
-do	Sg
-252	Mdc
-evrov	Ncmpg
-.	Z
-Občina	Ncfsn
-tudi	Q
-še	Q
-vedno	Rgp
-zbira	Vmpr3s
-podatke	Ncmpa
-o	Sl
-šoloobveznih	Agpmpl
-otrocih	Ncmpl
-iz	Sg
-družin	Ncfpg
-Vegradovih	Aspmpg
-delavcev	Ncmpg
-,	Z
-da	Cs
-jim	Pp3mpd--y
-bo	Va-f3s-n
-s	Si
-potrebščinami	Ncfpi
-pomagala	Vmbp-sf
-ob	Sl
-začetku	Ncmsl
-šolskega	Agpnsg
-leta	Ncnsg
-.	Z
-Z	Si
-Mladinsko	Agpfsi
-knjigo	Ncfsi
-Velenje	Npnsn
-so	Va-r3p-n
-se	Px------y
-dogovorili	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-upravičenci	Ncmpn
-lahko	Rgp
-prevzeli	Vmep-pm
-šolske	Agpfpa
-potrebščine	Ncfpa
-v	Sl
-vrednosti	Ncfsl
-50	Mdc
-evrov	Ncmpg
-na	Sa
-otroka	Ncmsay
-.	Z
-Pakete	Ncmpa
-s	Si
-šolskimi	Agpfpi
-potrebščinami	Ncfpi
-,	Z
-prilagojene	Appfpa
-stopnji	Ncfsd
-šolanja	Ncnsg
-,	Z
-upravičencem	Ncmpd
-deli	Ncmpn
-tudi	Q
-Karitas	Npmsn
-.	Z
+token	tag	lemma
+Z	mte:Sg	z
+vidika	mte:Ncmsg	vidik
+delavcev	mte:Ncmpg	delavec
+je	mte:Va-r3s-n	biti
+stečaj	mte:Ncmsn	stečaj
+Vegrada	mte:Npmsg	Vegrada
+najboljša	mte:Agsfsn	dober
+rešitev	mte:Ncfsn	rešitev
+.	mte:Z	.
+Tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+prepričana	mte:Appfsn	prepričan
+gospodarska	mte:Agpfsn	gospodarski
+ministrica	mte:Ncfsn	ministrica
+Darja	mte:Npfsn	Darja
+Radić	mte:Npfsn	Radić
+in	mte:Cc	in
+tako	mte:Rgp	tako
+pravita	mte:Vmpr3d	praviti
+tudi	mte:Q	tudi
+ekonomista	mte:Ncmdn	ekonomist
+Rado	mte:Npmsn	Rado
+Pezdir	mte:Npmsn	Pezdir
+in	mte:Cc	in
+Jože	mte:Npmsn	Jože
+Damijan	mte:Npmsn	Damijan
+.	mte:Z	.
+Prisilna	mte:Agpfsn	prisilen
+poravnava	mte:Ncfsn	poravnava
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+manj	mte:Rgc	manj
+ugodna	mte:Agpfsn	ugoden
+.	mte:Z	.
+Darja	mte:Npfsn	Darja
+Radić	mte:Npfsn	Radić
+Zgodba	mte:Ncfsn	zgodba
+o	mte:Sl	o
+Vegradu	mte:Npmsl	Vegrad
+se	mte:Px------y	se
+žalostno	mte:Rgp	žalostno
+končuje	mte:Vmpr3s	končevati
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+podjetje	mte:Ncnsn	podjetje
+sporočilo	mte:Ncnsn	sporočilo
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+plačilno	mte:Agpnsn	plačilen
+nesposobno	mte:Agpnsn	nesposoben
+.	mte:Z	.
+Glede	mte:Sg	glede
+nadaljnje	mte:Agpfsg	nadaljnji
+usode	mte:Ncfsg	usoda
+podjetja	mte:Ncnsg	podjetje
+sta	mte:Va-r3d-n	biti
+možna	mte:Agpmdn	možen
+dva	mte:Mlcmdn	dva
+scenarija	mte:Ncmdn	scenarija
+.	mte:Z	.
+Prisilna	mte:Agpfsn	prisilen
+poravnava	mte:Ncfsn	poravnava
+ali	mte:Cc	ali
+stečaj	mte:Ncmsn	stečaj
+.	mte:Z	.
+Ministrica	mte:Ncfsn	ministrica
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+Darja	mte:Npfsn	Darja
+Radić	mte:Npfsn	Radić
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Vegrad	mte:Npmsn	Vegrad
+težko	mte:Rgp	težko
+zmogel	mte:Vmep-sm	zmoči
+izkoristiti	mte:Vmen	izkoristiti
+prisilno	mte:Agpfsa	prisilen
+poravnavo	mte:Ncfsa	poravnava
+.	mte:Z	.
+Stečaj	mte:Ncmsn	stečaj
+družbe	mte:Ncfsg	družba
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+po	mte:Sl	po
+njenih	mte:Ps3fplsf	njen
+besedah	mte:Ncfpl	beseda
+najbolj	mte:Rgs	najbolj
+realna	mte:Agpfsn	realen
+možnost	mte:Ncfsn	možnost
+in	mte:Cc	in
+najbolj	mte:Rgs	najbolj
+optimalna	mte:Agpfsn	optimalen
+rešitev	mte:Ncfsn	rešitev
+za	mte:Sa	za
+delavce	mte:Ncmpa	delavec
+.	mte:Z	.
+Zagotovila	mte:Vmep-sf	zagotoviti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+država	mte:Ncfsn	država
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+prek	mte:Sg	prek
+Posebne	mte:Agpfsg	poseben
+družbe	mte:Ncfsg	družba
+za	mte:Sa	za
+podjetniško	mte:Agpnsa	podjetniški
+svetovanje	mte:Ncnsa	svetovanje
+PDP	mte:Ncmsn	PDP
+v	mte:Sl	v
+Vegradu	mte:Npmsl	Vegrad
+29	mte:Mdc	29
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+lastniški	mte:Agpmsay	lastniški
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+poskrbela	mte:Vmep-sf	poskrbeti
+za	mte:Sa	za
+brezposelne	mte:Agpfpa	brezposeln
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+PDP	mte:Npmsn	PDP
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+njen	mte:Ps3msnsf	njen
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+Matej	mte:Npmsn	Matej
+Golob	mte:Npmsn	Golob
+Matzele	mte:Npmsn	Matzele
+,	mte:Z	,
+od	mte:Sg	od
+pridobitve	mte:Ncfsg	pridobitev
+lastniškega	mte:Agpmsg	lastniški
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+Vegradu	mte:Npmsl	Vegrad
+decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+bankami	mte:Ncfpi	banka
+in	mte:Cc	in
+največjimi	mte:Agsmpi	velik
+lastniki	mte:Ncmpi	lastnik
+vodila	mte:Vmpp-sf	voditi
+aktivnosti	mte:Ncfpa	aktivnost
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+velenjske	mte:Agpfsg	velenjski
+družbe	mte:Ncfsg	družba
+in	mte:Cc	in
+svojega	mte:Px-msg	svoj
+deleža	mte:Ncmsg	delež
+.	mte:Z	.
+Kot	mte:Cs	kot
+poudarja	mte:Vmpr3s	poudarjati
+,	mte:Z	,
+pa	mte:Cc	pa
+nastale	mte:Vmep-pf	nastati
+situacije	mte:Ncfpn	situacija
+niso	mte:Va-r3p-y	biti
+mogli	mte:Vmpp-pm	moči
+preprečiti	mte:Vmen	preprečiti
+.	mte:Z	.
+Nastala	mte:Vmep-sf	nastati
+situacija	mte:Ncfsn	situacija
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Radićeve	mte:Aspfsg	Radićev
+in	mte:Cc	in
+Goloba	mte:Npmsg	Goloba
+Matzeleja	mte:Npmsg	Matzelej
+tudi	mte:Q	tudi
+posledica	mte:Ncfsn	posledica
+neodgovornega	mte:Agpnsg	neodgovoren
+ravnanja	mte:Ncnsg	ravnanje
+uprave	mte:Ncfsg	uprava
+Vegrada	mte:Npmsg	Vegrada
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+Hilda	mte:Npfsn	Hilda
+Tovšak	mte:Npfsn	Tovšak
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+prikrivala	mte:Vmpp-sf	prikrivati
+podatke	mte:Ncmpa	podatek
+o	mte:Sl	o
+poslovanju	mte:Ncnsl	poslovanje
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Radićeva	mte:Aspfsn	Radićev
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+napovedovati	mte:Vmpn	napovedovati
+morebitnih	mte:Agpfpg	morebiten
+odškodninskih	mte:Agpfpg	odškodninski
+tožb	mte:Ncfpg	tožba
+.	mte:Z	.
+Nekaj	mte:Rgp	nekaj
+kazenskih	mte:Agpfpg	kazenski
+ovadb	mte:Ncfpg	ovadba
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+Vegradom	mte:Npmsi	Vegrad
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+po	mte:Sl	po
+njenih	mte:Ps3fplsf	njen
+besedah	mte:Ncfpl	beseda
+sicer	mte:Q	sicer
+že	mte:Q	že
+vloženih	mte:Appmpg	vložen
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+potrebne	mte:Agpfpn	potreben
+še	mte:Q	še
+kakšne	mte:Pq-fpa	kakšen
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+to	mte:Pd-nsa	ta
+tudi	mte:Q	tudi
+storili	mte:Vmep-pm	storiti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zatrdila	mte:Vmep-sf	zatrditi
+.	mte:Z	.
+Pezdir	mte:Npmsn	Pezdir
+Le	mte:Q	le
+stečaj	mte:Ncmsn	stečaj
+Rado	mte:Npmsn	Rado
+Pezdir	mte:Npmsn	Pezdir
+Foto	mte:Npmsn	foto
+POP	mte:Ncmsn	POP
+TV	mte:Ncmsn	TV
+Tudi	mte:Q	tudi
+komentarji	mte:Ncmpn	komentar
+ekonomistov	mte:Ncmpg	ekonomist
+so	mte:Va-r3p-n	biti
+podobni	mte:Agpmpn	podoben
+razmišljanju	mte:Ncnsd	razmišljanje
+Radičeve	mte:Aspfsg	Radičev
+.	mte:Z	.
+Tudi	mte:Q	tudi
+Rado	mte:Npmsn	Rado
+Pezdir	mte:Npmsn	Pezdir
+namreč	mte:Cc	namreč
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+realna	mte:Agpfsn	realen
+možnost	mte:Ncfsn	možnost
+le	mte:Q	le
+stečaj	mte:Ncmsn	stečaj
+.	mte:Z	.
+Pravi	mte:Vmbr3s	pravi
+namreč	mte:Cc	namreč
+,	mte:Z	,
+da	mte:Cs	da
+ga	mte:Pp3msa--y	on
+v	mte:Sl	v
+vsej	mte:Pg-fsl	ves
+zgodbi	mte:Ncfsl	zgodba
+preseneča	mte:Vmpr3s	presenečati
+le	mte:Q	le
+dejstvo	mte:Ncnsn	dejstvo
+,	mte:Z	,
+da	mte:Cs	da
+do	mte:Sg	do
+njega	mte:Pp3msg	on
+ni	mte:Va-r3s-y	biti
+prišlo	mte:Vmep-sn	priti
+že	mte:Q	že
+prej	mte:Rgc	prej
+.	mte:Z	.
+Da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Vegrad	mte:Npfsn	Vegrad
+gnila	mte:Appfsn	gnil
+družba	mte:Ncfsn	družba
+,	mte:Z	,
+pa	mte:Cc	pa
+res	mte:Rgp	res
+ni	mte:Va-r3s-y	biti
+nikakršna	mte:Pz-fsn	nikakršen
+novica	mte:Ncfsn	novica
+,	mte:Z	,
+tudi	mte:Q	tudi
+za	mte:Sa	za
+insolventnost	mte:Ncfsa	insolventnost
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+vedelo	mte:Vmpp-sn	vedeti
+že	mte:Q	že
+dolgo	mte:Agpnsn	dolg
+.	mte:Z	.
+Vegrad	mte:Npmsn	Vegrad
+v	mte:Sl	v
+takšni	mte:Pd-fsl	takšen
+obliki	mte:Ncfsl	oblika
+pač	mte:Q	pač
+nima	mte:Vmpr3s-y	imeti
+prihodnosti	mte:Ncfsg	prihodnost
+.	mte:Z	.
+Začete	mte:Appmpa	začet
+projekte	mte:Ncmpa	projekt
+bo	mte:Va-f3s-n	biti
+pač	mte:Q	pač
+dokončal	mte:Vmep-sm	dokončati
+kdo	mte:Pq-msn	kdo
+drug	mte:Mlpmsnn	drug
+.	mte:Z	.
+Poglejte	mte:Vmem2p	pogledati
+članek	mte:Ncmsan	članek
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+bo	mte:Va-f3s-n	biti
+plačal	mte:Vmep-sm	plačati
+za	mte:Sa	za
+grehe	mte:Ncmpa	greh
+direktorice	mte:Ncfsg	direktorica
+Vegrada	mte:Npmsg	Vegrada
+Hilde	mte:Npfsg	Hilda
+Tovšak	mte:Npfsg	Tovšak
+.	mte:Z	.
+Vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+bodo	mte:Va-f3p-n	biti
+dobili	mte:Vmep-pm	dobiti
+plače	mte:Ncfpa	plača
+Ekonomist	mte:Ncmsn	ekonomist
+Jože	mte:Npmsn	Jože
+Damijan	mte:Npmsn	Damijan
+sicer	mte:Q	sicer
+kot	mte:Cs	kot
+možen	mte:Agpmsnn	možen
+scenarij	mte:Ncmsn	scenarij
+za	mte:Sa	za
+Vegrad	mte:Npmsan	Vegrad
+omenja	mte:Vmpr3s	omenjati
+poskus	mte:Ncmsan	poskus
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+med	mte:Si	med
+družbo	mte:Ncfsi	družba
+in	mte:Cc	in
+upniki	mte:Ncmpi	upnik
+.	mte:Z	.
+A	mte:Cc	a
+bo	mte:Va-f3s-n	biti
+morebitna	mte:Agpfsn	morebiten
+prisilna	mte:Agpfsn	prisilen
+poravnava	mte:Ncfsn	poravnava
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+izjemno	mte:Rgp	izjemno
+težavna	mte:Agpfsn	težaven
+,	mte:Z	,
+saj	mte:Cc	saj
+družba	mte:Ncfsn	družba
+nima	mte:Vmpr3s-y	imeti
+veliko	mte:Rgp	veliko
+sklenjenih	mte:Appfpg	sklenjen
+pogodb	mte:Ncfpg	pogodba
+za	mte:Sa	za
+nove	mte:Agpmpa	nov
+gradbene	mte:Agpmpa	gradben
+projekte	mte:Ncmpa	projekt
+.	mte:Z	.
+Bolj	mte:Rgc	bolj
+verjeten	mte:Agpmsnn	verjeten
+je	mte:Va-r3s-n	biti
+zato	mte:Rgp	zato
+stečaj	mte:Ncmsn	stečaj
+.	mte:Z	.
+Pravi	mte:Vmbr3s	pravi
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+pogorišču	mte:Ncnsl	pogorišče
+Vegrada	mte:Npmsg	Vegrada
+verjetno	mte:Rgp	verjetno
+nastalo	mte:Vmep-sn	nastati
+nekaj	mte:Rgp	nekaj
+manjših	mte:Agcnpg	majhen
+gradbenih	mte:Agpnpg	gradben
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Najslabše	mte:Rgs	lepo
+jo	mte:Pp3fsa--y	on
+bodo	mte:Va-f3p-n	biti
+odnesli	mte:Vmep-pm	odnesti
+zaposleni	mte:Appmpn	zaposlen
+v	mte:Sl	v
+Vegradu	mte:Npmsl	Vegrad
+,	mte:Z	,
+navaja	mte:Vmpr3s	navajati
+Damijan	mte:Npmsn	Damijan
+.	mte:Z	.
+Vprašanje	mte:Ncnsn	vprašanje
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+dobili	mte:Vmep-pm	dobiti
+plačane	mte:Appfpa	plačan
+zaostale	mte:Vmep-pf	zaostati
+plače	mte:Ncfpa	plača
+.	mte:Z	.
+Da	mte:Cs	da
+ne	mte:Q	ne
+govorimo	mte:Vmpr1p	govoriti
+o	mte:Sl	o
+neplačanih	mte:Agpmpl	neplačan
+socialnih	mte:Agpmpl	socialen
+prispevkih	mte:Ncmpl	prispevek
+,	mte:Z	,
+že	mte:Q	že
+odtegnjenih	mte:Appmpl	odtegnjen
+kreditnih	mte:Agpmpl	krediten
+obrokih	mte:Ncmpl	obrok
+zaposlenih	mte:Appfpg	zaposlen
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ne	mte:Q	ne
+nakazanih	mte:Appfpg	nakazan
+bankam	mte:Ncfpd	banka
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+dodaja	mte:Vmpr3s	dodajati
+.	mte:Z	.
+V	mte:Sl	v
+primeru	mte:Ncmsl	primer
+stečaja	mte:Ncmsg	stečaj
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+Damijanovih	mte:Aspfpl	Damijanov
+besedah	mte:Ncfpl	beseda
+upniki	mte:Ncmpn	upnik
+poplačali	mte:Vmep-pm	poplačati
+v	mte:Sl	v
+odvisnosti	mte:Ncfsl	odvisnost
+od	mte:Sg	od
+vrednosti	mte:Ncfsg	vrednost
+premoženja	mte:Ncnsg	premoženje
+Vegrada	mte:Npmsg	Vegrada
+glede	mte:Rgp	glede
+na	mte:Sa	na
+njegove	mte:Ps3fpasm	njegov
+obveznosti	mte:Ncfpa	obveznost
+ter	mte:Cc	ter
+v	mte:Sl	v
+odvisnosti	mte:Ncfsl	odvisnost
+od	mte:Sg	od
+prednostne	mte:Agpfsg	prednosten
+vrste	mte:Ncfsg	vrsta
+terjatev	mte:Ncfpg	terjatev
+.	mte:Z	.
+Najprej	mte:Rgs	najprej
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+reševale	mte:Vmpp-pf	reševati
+banke	mte:Ncfpn	banka
+,	mte:Z	,
+pri	mte:Sl	pri
+katerih	mte:Pq-mpl	kateri
+ima	mte:Vmpr3s-n	imeti
+Vegrad	mte:Npmsn	Vegrad
+zastavljeno	mte:Appnsn	zastavljen
+svoje	mte:Px-nsa	svoj
+premoženje	mte:Ncnsa	premoženje
+,	mte:Z	,
+podizvajalci	mte:Ncmpn	podizvajalec
+pa	mte:Cc	pa
+šele	mte:Q	šele
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+banke	mte:Ncfpn	banka
+poplačane	mte:Appfpn	poplačan
+.	mte:Z	.
+V	mte:Sl	v
+primeru	mte:Ncmsl	primer
+stečaja	mte:Ncmsg	stečaj
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+Damijanovih	mte:Aspfpl	Damijanov
+besedah	mte:Ncfpl	beseda
+položaj	mte:Ncmsnn	položaj
+za	mte:Sa	za
+zaposlene	mte:Appmpa	zaposlen
+hud	mte:Agpmsan	hud
+,	mte:Z	,
+se	mte:Px------y	se
+pa	mte:Cc	pa
+zanje	mte:Pp3mpa--b	zame
+vsaj	mte:Q	vsaj
+končuje	mte:Vmpr3s	končevati
+sedanja	mte:Agpfsn	sedanji
+agonija	mte:Ncfsn	agonija
+ter	mte:Cc	ter
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+stečaja	mte:Ncmsg	stečaj
+lahko	mte:Rgp	lahko
+deležni	mte:Agpmpn	deležen
+socialnega	mte:Agpnsg	socialen
+varstva	mte:Ncnsg	varstvo
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+države	mte:Ncfsg	država
+in	mte:Cc	in
+upravičeni	mte:Appmpn	upravičen
+do	mte:Sg	do
+nadomestil	mte:Vmep-sm	nadomestiti
+za	mte:Sa	za
+brezposelne	mte:Agpfpa	brezposeln
+.	mte:Z	.
+Za	mte:Sa	za
+mnoge	mte:Pi-mpa	mnog
+izmed	mte:Sg	izmed
+njih	mte:Pp3mpg	on
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+finančni	mte:Agpmsny	finančen
+položaj	mte:Ncmsn	položaj
+tako	mte:Rgp	tako
+vsaj	mte:Q	vsaj
+kratkoročno	mte:Rgp	kratkoročno
+izboljšal	mte:Vmep-sm	izboljšati
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+.	mte:Z	.
+Podobnih	mte:Agpmpg	podoben
+stečajev	mte:Ncmpg	stečaj
+gradbenih	mte:Agpnpg	gradben
+podjetij	mte:Ncnpg	podjetje
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+že	mte:Q	že
+nekaj	mte:Pi-nsn	nekaj
+in	mte:Cc	in
+še	mte:Q	še
+nekaj	mte:Rgp	nekaj
+jih	mte:Pp3mpg--y	on
+bo	mte:Va-f3s-n	biti
+.	mte:Z	.
+Bolj	mte:Rgc	bolj
+pomembno	mte:Agpnsn	pomemben
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kako	mte:Rgp	kako
+bo	mte:Va-f3s-n	biti
+stečaj	mte:Ncmsn	stečaj
+Vegrada	mte:Npmsg	Vegrada
+vplival	mte:Vmpp-sm	vplivati
+na	mte:Sa	na
+vrednost	mte:Ncfsa	vrednost
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+saj	mte:Cc	saj
+bodo	mte:Va-f3p-n	biti
+banke	mte:Ncfpn	banka
+morale	mte:Vmpp-pf	morati
+začeti	mte:Vmen	začeti
+odprodajati	mte:Vmpn	odprodajati
+novozgrajena	mte:Appnpa	novozgrajen
+Vegradova	mte:Aspnpa	vegradov
+stanovanja	mte:Ncnpa	stanovanje
+.	mte:Z	.
+Podobno	mte:Agpnsn	podoben
+tudi	mte:Q	tudi
+drugi	mte:Mlpmpn	drug
+upniki	mte:Ncmpn	upnik
+podizvajalci	mte:Ncmpn	podizvajalec
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ta	mte:Pd-npa	ta
+stanovanja	mte:Ncnpa	stanovanje
+dobili	mte:Vmep-pm	dobiti
+kot	mte:Cs	kot
+kompenzacije	mte:Ncfpa	kompenzacija
+za	mte:Sa	za
+neplačana	mte:Agpnpa	neplačan
+dela	mte:Ncnpa	delo
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+Vegrada	mte:Npmsg	Vegrada
+.	mte:Z	.
+Mogoče	mte:Agpnsn	mogoč
+je	mte:Va-r3s-n	biti
+pričakovati	mte:Vmpn	pričakovati
+pomemben	mte:Agpmsan	pomemben
+vpliv	mte:Ncmsan	vpliv
+na	mte:Sa	na
+znižanje	mte:Ncnsa	znižanje
+cen	mte:Ncfpg	cena
+novih	mte:Agpnpg	nov
+stanovanj	mte:Ncnpg	stanovanje
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+tistih	mte:Pd-mpg	tisti
+v	mte:Sl	v
+cenovnem	mte:Agpmsl	cenoven
+razredu	mte:Ncmsl	razred
+od	mte:Sg	od
+2000	mte:Mdc	2000
+do	mte:Sg	do
+3000	mte:Mdc	3000
+evrov	mte:Ncmpg	evro
+na	mte:Sa	na
+kvadratni	mte:Agpmsay	kvadraten
+meter	mte:Ncmsan	meter
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+POP	mte:Npmsn	POP
+TV	mte:Ncmsn	TV
+Razočaranje	mte:Ncnsn	razočaranje
+delavcev	mte:Ncmpg	delavec
+Žalost	mte:Ncfsn	žalost
+,	mte:Z	,
+razočaranje	mte:Ncnsn	razočaranje
+in	mte:Cc	in
+obup	mte:Ncfsn	obup
+so	mte:Va-r3p-n	biti
+besede	mte:Ncfpn	beseda
+,	mte:Z	,
+ki	mte:Cs	ki
+najbolje	mte:Rgs	dobro
+opišejo	mte:Vmer3p	opisati
+občutke	mte:Ncmpa	občutek
+Vegradovih	mte:Aspmpg	vegradov
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Nekaj	mte:Rgp	nekaj
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+pripravilo	mte:Vmep-sn	pripraviti
+potovalke	mte:Ncfpa	potovalka
+in	mte:Cc	in
+krenilo	mte:Vmep-sn	kreniti
+nazaj	mte:Rgp	nazaj
+v	mte:Sa	v
+domovino	mte:Ncfsa	domovina
+s	mte:Si	z
+sporočilom	mte:Ncnsi	sporočilo
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+v	mte:Sa	v
+to	mte:Pd-fsa	ta
+deželo	mte:Ncfsa	dežela
+ne	mte:Q	ne
+vrnejo	mte:Vmer3p	vrniti
+nikoli	mte:Rgp	nikoli
+.	mte:Z	.
+Češ	mte:Q	češ
+da	mte:Cs	da
+na	mte:Sa	na
+denar	mte:Ncmsan	denar
+nekateri	mte:Pi-mpn	nekateri
+čakajo	mte:Vmpr3p	čakati
+že	mte:Q	že
+od	mte:Sg	od
+marca	mte:Ncmsg	marec
+,	mte:Z	,
+drugi	mte:Mlpmpn	drug
+od	mte:Sg	od
+maja	mte:Ncmsg	maj
+in	mte:Cc	in
+da	mte:Cs	da
+nimajo	mte:Vmpr3p-y	imeti
+več	mte:Q	več
+od	mte:Sg	od
+česa	mte:Pq-nsg	kaj
+živeti	mte:Vmpn	živeti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročal	mte:Vmpp-sm	poročati
+24UR	mte:Mdc	24UR
+OB	mte:Sl	ob
+ENIH	mte:Mlcmpl	en
+.	mte:Z	.
+Delavci	mte:Ncmpn	delavec
+si	mte:Px---d--y	se
+želijo	mte:Vmpr3p	želeti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+jim	mte:Pp3mpd--y	on
+Vegrad	mte:Npmsn	Vegrad
+denar	mte:Ncmsn	denar
+,	mte:Z	,
+ki	mte:Cs	ki
+jim	mte:Pp3mpd--y	on
+ga	mte:Pp3msa--y	on
+dolguje	mte:Vmpr3s	dolgovati
+,	mte:Z	,
+vendarle	mte:Cc	vendarle
+izplačal	mte:Vmbp-sm	izplačati
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+verjamejo	mte:Vmbr3p	verjeti
+v	mte:Sa	v
+pravno	mte:Agpfsa	praven
+državo	mte:Ncfsa	država
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+pa	mte:Cc	pa
+jim	mte:Pp3mpd--y	on
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+nihče	mte:Pz-msn	nihče
+z	mte:Sg	z
+državnega	mte:Agpmsg	državen
+vrha	mte:Ncmsg	vrh
+ne	mte:Q	ne
+ukrepa	mte:Vmpr3s	ukrep
+.	mte:Z	.
+Stečaj	mte:Ncmsn	stečaj
+Brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+ostane	mte:Vmer3s	ostati
+1700	mte:Mdc	1700
+delavcev	mte:Ncmpg	delavec
+Kar	mte:Rgp	kar
+zadeva	mte:Ncfsn	zadeva
+pretekle	mte:Appfsg	pretekel
+zlorabe	mte:Ncfsg	zloraba
+,	mte:Z	,
+pa	mte:Cc	pa
+poudarjam	mte:Vmpr1s	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+ravnanje	mte:Ncnsn	ravnanje
+vodstva	mte:Ncnsg	vodstvo
+Vegrada	mte:Npmsg	Vegrada
+cinično	mte:Agpnsn	ciničen
+in	mte:Cc	in
+vredno	mte:Agpnsn	vreden
+vsega	mte:Pg-nsg	ves
+obsojanja	mte:Ncnsg	obsojanje
+,	mte:Z	,
+poudarja	mte:Vmpr3s	poudarjati
+slovenski	mte:Agpmsny	slovenski
+predsednik	mte:Ncmsn	predsednik
+Türk	mte:Npmsn	Türk
+.	mte:Z	.
+Stečaj	mte:Ncmsn	stečaj
+za	mte:Sa	za
+delavce	mte:Ncmpa	delavec
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+ostalo	mte:Vmep-sn	ostati
+1700	mte:Mdc	1700
+slovenskih	mte:Agpmpg	slovenski
+in	mte:Cc	in
+400	mte:Mdc	400
+bosanskih	mte:Agpmpg	bosanski
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+za	mte:Sa	za
+prisilno	mte:Agpfsa	prisilen
+poravnavo	mte:Ncfsa	poravnava
+,	mte:Z	,
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+delo	mte:Ncnsa	delo
+zagotovo	mte:Rgp	zagotovo
+obdržalo	mte:Vmep-sn	obdržati
+vsaj	mte:Q	vsaj
+nekaj	mte:Rgp	nekaj
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+A	mte:Cc	a
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+delavci	mte:Ncmpn	delavec
+za	mte:Sa	za
+stečaj	mte:Ncmsan	stečaj
+.	mte:Z	.
+Prisilna	mte:Agpfsn	prisilen
+poravnava	mte:Ncfsn	poravnava
+jim	mte:Pp3mpd--y	on
+bo	mte:Va-f3s-n	biti
+samo	mte:Q	samo
+dala	mte:Vmep-sf	dati
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+da	mte:Cs	da
+po	mte:Sa	po
+svoje	mte:Px-nsa	svoj
+pospravijo	mte:Vmer3p	pospraviti
+še	mte:Q	še
+nekaj	mte:Rgp	nekaj
+denarja	mte:Ncmsg	denar
+in	mte:Cc	in
+poplačajo	mte:Vmer3p	poplačati
+upnike	mte:Ncmpa	upnik
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+že	mte:Q	že
+doslej	mte:Rgp	doslej
+vedno	mte:Rgp	vedno
+v	mte:Sl	v
+prednosti	mte:Ncfsl	prednost
+,	mte:Z	,
+pravi	mte:Agpmsny	pravi
+sindikalist	mte:Ncmsn	sindikalist
+Srečko	mte:Npmsn	Srečko
+Čater	mte:Npmsn	Čater
+.	mte:Z	.
+Odgovornost	mte:Ncfsn	odgovornost
+za	mte:Sa	za
+precej	mte:Rgp	precej
+verjeten	mte:Agpmsan	verjeten
+propad	mte:Ncmsan	propad
+podjetja	mte:Ncnsg	podjetje
+delavci	mte:Ncmpn	delavec
+sicer	mte:Q	sicer
+pripisujejo	mte:Vmpr3p	pripisovati
+izključno	mte:Agpmsa	izključno
+načinu	mte:Ncmsd	način
+dela	mte:Ncnsg	delo
+Hilde	mte:Npmsg	Hilda
+Tovšak	mte:Npmsg	Tovšak
+.	mte:Z	.
+Na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+moraš	mte:Vmpr2s	morati
+biti	mte:Va-n	biti
+prilagodljiv	mte:Agpmsnn	prilagodljiv
+,	mte:Z	,
+ne	mte:Q	ne
+moreš	mte:Vmpr2s	moči
+se	mte:Px------y	se
+ujeti	mte:Vmen	ujeti
+le	mte:Q	le
+v	mte:Sa	v
+eno	mte:Mlpfsa	en
+zgodbo	mte:Ncfsa	zgodba
+.	mte:Z	.
+Podobno	mte:Rgp	podobno
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Gradis	mte:Npmsn	Gradis
+gradil	mte:Vmpp-sm	graditi
+samo	mte:Q	samo
+trgovine	mte:Ncfpa	trgovina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+Vegrad	mte:Npmsn	Vegrad
+gradil	mte:Vmpp-sm	graditi
+le	mte:Q	le
+stanovanja	mte:Ncnpa	stanovanje
+.	mte:Z	.
+Oboje	mte:Pg-nsn	oboj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+slabo	mte:Rgp	slabo
+končalo	mte:Vmep-sn	končati
+.	mte:Z	.
+Žal	mte:Rgp	žal
+pa	mte:Cc	pa
+Tovšakova	mte:Aspfsn	tovšakov
+ni	mte:Va-r3s-y	biti
+želela	mte:Vmpp-sf	želeti
+poslušati	mte:Vmpn	poslušati
+ekonomistov	mte:Ncmpg	ekonomist
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+govorili	mte:Vmpp-pm	govoriti
+o	mte:Sl	o
+padanju	mte:Ncnsl	padanje
+kupne	mte:Agpfsg	kupen
+moči	mte:Ncfsg	moč
+,	mte:Z	,
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+raziskav	mte:Ncfpg	raziskava
+tržišča	mte:Ncnsg	tržišče
+.	mte:Z	.
+Znala	mte:Vmpp-sf	znati
+je	mte:Va-r3s-n	biti
+graditi	mte:Vmpn	graditi
+,	mte:Z	,
+ne	mte:Q	ne
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+prodati	mte:Vmen	prodati
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+še	mte:Q	še
+pravi	mte:Vmbr3s	praviti
+Čater	mte:Npmsn	Čater
+.	mte:Z	.
+Po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+mnenju	mte:Ncnsl	mnenje
+pomeni	mte:Vmbr3s	pomeniti
+prisilna	mte:Agpfsn	prisilen
+poravnava	mte:Ncfsn	poravnava
+zavlačevanje	mte:Ncnsa	zavlačevanje
+,	mte:Z	,
+razen	mte:Sg	razen
+če	mte:Cs	če
+direktorici	mte:Ncfsn	direktorica
+Vegrada	mte:Npmsg	Vegrada
+Hildi	mte:Npfsg	Hilda
+Tovšak	mte:Npfsg	Tovšak
+bog	mte:Ncmsn	bog
+v	mte:Sl	v
+kufru	mte:Ncmsl	kufer
+ne	mte:Q	ne
+prinese	mte:Vmer3s	prinesti
+denarja	mte:Ncmsg	denar
+.	mte:Z	.
+Treba	mte:Rgp	treba
+je	mte:Va-r3s-n	biti
+uvesti	mte:Vmen	uvesti
+stečaj	mte:Ncmsan	stečaj
+in	mte:Cc	in
+poiskati	mte:Vmen	poiskati
+osebo	mte:Ncfsa	oseba
+z	mte:Si	z
+drugo	mte:Mlpfsi	drug
+vizijo	mte:Ncfsi	vizija
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+nadaljevala	mte:Vmpp-sf	nadaljevati
+posle	mte:Ncmpa	posel
+Vegrada	mte:Npmsg	Vegrada
+in	mte:Cc	in
+zaposlila	mte:Vmep-sf	zaposliti
+delavce	mte:Ncmpa	delavec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+.	mte:Z	.
+Nihče	mte:Pz-msn	nihče
+ni	mte:Va-r3s-y	biti
+nor	mte:Agpmsnn	nor
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+vso	mte:Pg-fsa	ves
+gradbeno	mte:Agpfsa	gradben
+mehanizacijo	mte:Ncfsa	mehanizacija
+Vegrada	mte:Npmsg	Vegrada
+pokopal	mte:Vmep-sm	pokopati
+pod	mte:Sa	pod
+zemljo	mte:Ncfsa	zemlja
+,	mte:Z	,
+še	mte:Q	še
+meni	mte:Vmpr3s	meniti
+Čater	mte:Npmsn	Čater
+.	mte:Z	.
+Država	mte:Ncfsn	država
+ima	mte:Vmpr3s-n	imeti
+pomembno	mte:Agpfsa	pomemben
+odgovornost	mte:Ncfsa	odgovornost
+Slovenski	mte:Agpmsny	slovenski
+predsednik	mte:Ncmsn	predsednik
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+je	mte:Va-r3s-n	biti
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+komentiral	mte:Vmbp-sm	komentirati
+dogajanje	mte:Ncnsa	dogajanje
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+Vegrad	mte:Npmsn	Vegrad
+.	mte:Z	.
+Poudarja	mte:Vmpr3s	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+država	mte:Ncfsn	država
+pri	mte:Sl	pri
+reševanju	mte:Ncnsl	reševanje
+problema	mte:Ncmsg	problem
+Vegrada	mte:Npmsg	Vegrada
+pomembno	mte:Agpfsa	pomemben
+odgovornost	mte:Ncfsa	odgovornost
+.	mte:Z	.
+Po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+mnenju	mte:Ncnsl	mnenje
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+socialno	mte:Agpfsa	socialen
+stisko	mte:Ncfsa	stiska
+delavcev	mte:Ncmpg	delavec
+najresneje	mte:Rgs	reznosno
+in	mte:Cc	in
+prioritetno	mte:Rgp	prioritetno
+upoštevati	mte:Vmbn	upoštevati
+v	mte:Sl	v
+vsem	mte:Pg-nsl	ves
+prihodnjem	mte:Agpnsl	prihodnji
+odločanju	mte:Ncnsl	odločanje
+o	mte:Sl	o
+usodi	mte:Ncfsl	usoda
+podjetja	mte:Ncnsg	podjetje
+.	mte:Z	.
+Celovški	mte:Agpfsl	celovški
+dvori	mte:Ncmpl	dvor
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+že	mte:Q	že
+v	mte:Sl	v
+nekaj	mte:Rgp	nekaj
+dneh	mte:Ncmpl	dan
+dobili	mte:Vmep-pm	dobiti
+uporabno	mte:Agpnsa	uporaben
+dovoljenje	mte:Ncnsa	dovoljenje
+.	mte:Z	.
+Kar	mte:Pr-nsn	kar
+zadeva	mte:Ncfsn	zadeva
+pretekle	mte:Appfsg	pretekel
+zlorabe	mte:Ncfsg	zloraba
+,	mte:Z	,
+pa	mte:Cc	pa
+poudarjam	mte:Vmpr1s	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+ravnanje	mte:Ncnsn	ravnanje
+vodstva	mte:Ncnsg	vodstvo
+Vegrada	mte:Npmsg	Vegrada
+cinično	mte:Agpnsn	ciničen
+in	mte:Cc	in
+vredno	mte:Agpnsn	vreden
+vsega	mte:Pg-nsg	ves
+obsojanja	mte:Ncnsg	obsojanje
+.	mte:Z	.
+Pričakujem	mte:Vmpr1s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+nezakonitosti	mte:Ncfpn	nezakonitost
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+ugotovljene	mte:Appfpn	ugotovljen
+,	mte:Z	,
+tudi	mte:Q	tudi
+sankcionirane	mte:Appfpn	sankcioniran
+,	mte:Z	,
+še	mte:Q	še
+dodaja	mte:Vmpr3s	dodajati
+predsednik	mte:Ncmsn	predsednik
+.	mte:Z	.
+Pomoč	mte:Ncfsa	pomoč
+ogroženim	mte:Appmpd	ogrožen
+delavcem	mte:Ncmpd	delavec
+Velenjski	mte:Agpmsny	velenjski
+Rdeči	mte:Agpmsny	rdeč
+križ	mte:Ncmsn	križ
+delavcem	mte:Ncmpd	delavec
+družbe	mte:Ncfsg	družba
+Vegrad	mte:Npmsn	Vegrad
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+insolventna	mte:Agpfsn	insolventen
+,	mte:Z	,
+deli	mte:Ncmpn	del
+pakete	mte:Ncmpa	paket
+hrane	mte:Ncfsg	hrana
+in	mte:Cc	in
+pralnega	mte:Agpnsg	pralen
+praška	mte:Ncmsg	praška
+,	mte:Z	,
+delavci	mte:Ncmpn	delavec
+pa	mte:Cc	pa
+lahko	mte:Rgp	lahko
+vsak	mte:Pg-msa	vsak
+dan	mte:Ncmsan	dan
+med	mte:Si	med
+15	mte:Mdc	15
+.	mte:Ncmpi	.
+in	mte:Cc	in
+18	mte:Mdc	18
+.	mte:Z	.
+uro	mte:Ncfsi	ura
+v	mte:Sl	v
+velenjski	mte:Agpfsl	velenjski
+javni	mte:Agpfsl	javen
+kuhinji	mte:Ncfsl	kuhinja
+dobijo	mte:Vmer3p	dobiti
+topel	mte:Agpmsan	topel
+obrok	mte:Ncmsan	obrok
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+POP	mte:Ncmsn	POP
+TV	mte:Ncmsn	TV
+V	mte:Sl	v
+javni	mte:Agpfsl	javen
+kuhinji	mte:Ncfsl	kuhinja
+dnevno	mte:Rgp	dnevno
+razdelijo	mte:Vmer3p	razdeliti
+obroke	mte:Ncmpa	obrok
+okoli	mte:Rgp	okoli
+180	mte:Mdc	180
+delavcem	mte:Ncmpd	delavec
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+na	mte:Sl	na
+občini	mte:Ncfsl	občina
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+na	mte:Sa	na
+temo	mte:Ncfsa	tema
+Vegrada	mte:Npmsg	Vegrada
+tudi	mte:Q	tudi
+novinarsko	mte:Agpfsa	novinarski
+konferenco	mte:Ncfsa	konferenca
+.	mte:Z	.
+Delavci	mte:Ncmpn	delavec
+lahko	mte:Rgp	lahko
+na	mte:Sa	na
+občino	mte:Ncfsa	občina
+podajo	mte:Vmbr3p	podati
+tudi	mte:Q	tudi
+vlogo	mte:Ncfsa	vloga
+za	mte:Sa	za
+enkratno	mte:Agpfsa	enkraten
+izredno	mte:Agpfsa	izreden
+denarno	mte:Agpfsa	denaren
+pomoč	mte:Ncfsa	pomoč
+.	mte:Z	.
+Posameznik	mte:Ncmsn	posameznik
+lahko	mte:Rgp	lahko
+dobi	mte:Vmer3s	dobiti
+115	mte:Mdc	115
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+za	mte:Sa	za
+dve	mte:Mlcfda	dva
+odrasli	mte:Appfda	odrasel
+osebi	mte:Ncfda	oseba
+je	mte:Va-r3s-n	biti
+pomoč	mte:Ncfsa	pomoč
+195	mte:Mdc	195
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+tričlanska	mte:Agpfsn	tričlanski
+družina	mte:Ncfsn	družina
+lahko	mte:Rgp	lahko
+prejme	mte:Vmer3s	prejeti
+229	mte:Mdc	229
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+štiričlanska	mte:Agpfsn	štiričlanski
+264	mte:Mdc	264
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+petčlanska	mte:Agpfsn	petčlanski
+pa	mte:Cc	pa
+298	mte:Mdc	298
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Enostarševska	mte:Agpfsn	enostarševski
+družina	mte:Ncfsn	družina
+z	mte:Si	z
+enim	mte:Mlpmsi	en
+otrokom	mte:Ncmsi	otrok
+je	mte:Va-r3s-n	biti
+upravičena	mte:Appfsn	upravičen
+do	mte:Sg	do
+184	mte:Mdc	184
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+enostarševska	mte:Agpfsn	enostarševski
+družina	mte:Ncfsn	družina
+z	mte:Si	z
+dvema	mte:Mlcmdi	dva
+otrokoma	mte:Ncmdi	otrok
+do	mte:Sg	do
+218	mte:Mdc	218
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+enostarševska	mte:Agpfsn	enostarševski
+družina	mte:Ncfsn	družina
+s	mte:Si	z
+tremi	mte:Mlcmpi	trije
+otroci	mte:Ncmpi	otrok
+pa	mte:Cc	pa
+do	mte:Sg	do
+252	mte:Mdc	252
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Občina	mte:Ncfsn	občina
+tudi	mte:Q	tudi
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+zbira	mte:Vmpr3s	zbirati
+podatke	mte:Ncmpa	podatek
+o	mte:Sl	o
+šoloobveznih	mte:Agpmpl	šoloobvezen
+otrocih	mte:Ncmpl	otrok
+iz	mte:Sg	iz
+družin	mte:Ncfpg	družina
+Vegradovih	mte:Aspmpg	vegradov
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+da	mte:Cs	da
+jim	mte:Pp3mpd--y	on
+bo	mte:Va-f3s-n	biti
+s	mte:Si	z
+potrebščinami	mte:Ncfpi	potrebščina
+pomagala	mte:Vmbp-sf	pomagati
+ob	mte:Sl	ob
+začetku	mte:Ncmsl	začetek
+šolskega	mte:Agpnsg	šolski
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Z	mte:Si	z
+Mladinsko	mte:Agpfsi	mladinski
+knjigo	mte:Ncfsi	knjiga
+Velenje	mte:Npnsn	Velenje
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+dogovorili	mte:Vmep-pm	dogovoriti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+upravičenci	mte:Ncmpn	upravičenec
+lahko	mte:Rgp	lahko
+prevzeli	mte:Vmep-pm	prevzeti
+šolske	mte:Agpfpa	šolski
+potrebščine	mte:Ncfpa	potrebščina
+v	mte:Sl	v
+vrednosti	mte:Ncfsl	vrednost
+50	mte:Mdc	50
+evrov	mte:Ncmpg	evro
+na	mte:Sa	na
+otroka	mte:Ncmsay	otrok
+.	mte:Z	.
+Pakete	mte:Ncmpa	paket
+s	mte:Si	z
+šolskimi	mte:Agpfpi	šolski
+potrebščinami	mte:Ncfpi	potrebščina
+,	mte:Z	,
+prilagojene	mte:Appfpa	prilagojen
+stopnji	mte:Ncfsd	stopnja
+šolanja	mte:Ncnsg	šolanje
+,	mte:Z	,
+upravičencem	mte:Ncmpd	upravičenec
+deli	mte:Ncmpn	del
+tudi	mte:Q	tudi
+Karitas	mte:Npmsn	Karitas
+.	mte:Z	.
+Preberite	mte:Vmem2p	prebrati
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+procesu	mte:Ncmsl	proces
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+ali	mte:Cc	ali
+stečaja	mte:Ncmsg	stečaj
+zgodilo	mte:Vmep-sn	zgoditi
+s	mte:Si	z
+podizvajalci	mte:Ncmpi	podizvajalec
+in	mte:Cc	in
+drugimi	mte:Mlpmpi	drug
+upniki	mte:Ncmpi	upnik
+ter	mte:Cc	ter
+po	mte:Sl	po
+kakšnem	mte:Pq-msl	kakšen
+scenariju	mte:Ncmsl	scenarij
+bi	mte:Va-c	biti
+družba	mte:Ncfsn	družba
+vendarle	mte:Cc	vendarle
+lahko	mte:Rgp	lahko
+preživela	mte:Vmep-sf	preživeti

@@ -1,304 +1,327 @@
-token	tag
-Vlada	Ncfsn
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-imenovala	Vmbp-sf
-podpredsednike	Ncmpa
-vlade	Ncfsg
-in	Cc
-nove	Agpmpa
-državne	Agpmpa
-sekretarje	Ncmpa
-.	Z
-Minister	Ncmsn
-,	Z
-ki	Cs
-opravlja	Vmpr3s
-funkcijo	Ncfsa
-podpredsednika	Ncmsg
-,	Z
-nadomešča	Vmpr3s
-predsednika	Ncmsay
-vlade	Ncfsg
-,	Z
-če	Cs
-je	Va-r3s-n
-ta	Pd-msn
-odsoten	Appmsnn
-ali	Cc
-zadržan	Appmsnn
-,	Z
-pri	Sl
-predstavljanju	Ncnsl
-vlade	Ncfsg
-,	Z
-vodenju	Ncnsl
-vladnih	Agpfpg
-sej	Ncfpg
-in	Cc
-usmerjanju	Ncnsl
-uprave	Ncfsg
-,	Z
-ne	Q
-more	Vmpr3s
-pa	Cc
-ga	Pp3msa--y
-nadomeščati	Vmpn
-pri	Sl
-opravljanju	Ncnsl
-nalog	Ncfpg
-,	Z
-ki	Cs
-se	Px------y
-nanašajo	Vmpr3p
-na	Sa
-zaupnico	Ncfsa
-vladi	Ncfsd
-ter	Cc
-na	Sa
-imenovanje	Ncnsa
-in	Cc
-razrešitev	Ncfsa
-ministrov	Ncmpg
-.	Z
-Podpredsedniki	Ncmpn
-vlade	Ncfsg
-so	Va-r3p-n
-tako	Rgp
-postali	Vmep-pm
-zunanji	Agpmsny
-minister	Ncmsn
-Karl	Npmsn
-Erjavec	Npmsn
-,	Z
-kmetijski	Agpmsny
-minister	Ncmsn
-Dejan	Npmsn
-Židan	Npmsn
-in	Cc
-notranji	Agpmsny
-minister	Ncmsn
-Gregor	Npmsn
-Virant	Npmsn
-.	Z
-Pet	Mlc-pa
-sekretarjev	Ncmpg
-v	Sa
-kabinet	Ncmsan
-premierke	Ncfsg
-Vlada	Ncfsn
-je	Va-r3s-n
-danes	Rgp
-imenovala	Vmbp-sf
-tudi	Q
-pet	Mlc-pa
-državnih	Agpmpg
-sekretarjev	Ncmpg
-v	Sa
-kabinet	Ncmsan
-predsednice	Ncfsg
-vlade	Ncfsg
-.	Z
-Tamara	Npfsn
-Vonta	Npfsn
-bo	Va-f3s-n
-pristojna	Agpfsn
-za	Sa
-vzpostavitev	Ncfsa
-dialoga	Ncmsg
-s	Si
-civilno	Agpfsi
-družbo	Ncfsi
-in	Cc
-koordinacijo	Ncfsi
-državljanskih	Agpfpg
-pobud	Ncfpg
-.	Z
-Gašpar	Npmsn
-Gašpar	Npmsn
-Mišič	Npmsn
-bo	Va-f3s-n
-zadolžen	Appmsnn
-za	Sa
-koordinacijo	Ncfsa
-velikih	Agpmpg
-infrastrukturnih	Agpmpg
-projektov	Ncmpg
-in	Cc
-pomoč	Ncfsa
-pri	Sl
-sanaciji	Ncfsl
-gospodarskih	Agpfpg
-družb	Ncfpg
-v	Sl
-težavah	Ncfpl
-.	Z
-Za	Sa
-koordinacijo	Ncfsa
-učinkovite	Agpfsg
-državne	Agpfsg
-informatike	Ncfsg
-bo	Va-f3s-n
-skrbel	Vmpp-sm
-Dušan	Npmsn
-Kričej	Npmsn
-.	Z
-Dušan	Npmsn
-Kumer	Npmsn
-in	Cc
-Jernej	Npmsn
-Pavlič	Npmsn
-pa	Cc
-bosta	Va-f3d-n
-sekretarja	Ncmdn
-brez	Sg
-resorja	Ncmsg
-.	Z
-Premierki	Ncfsn
-bosta	Va-f3d-n
-pomagala	Vmbp-dm
-pri	Sl
-"	Z
-opravljanju	Ncnsl
-funkcije	Ncfsg
-v	Sl
-okviru	Ncmsl
-danih	Agpfpg
-možnosti	Ncfpg
-"	Z
-.	Z
-Pavlič	Npmsn
-je	Va-r3s-n
-predsednik	Ncmsn
-podmladka	Ncmsg
-Pozitivne	Agpfsg
-Slovenije	Npfsg
-in	Cc
-sin	Ncmsn
-poslanke	Ncfsg
-te	Pd-fsg
-stranke	Ncfsg
-Alenke	Npfsg
-Pavlič	Npfsn
-.	Z
-Nov	Agpmsnn
-na	Sl
-Morsu	Npmsl
-Za	Sa
-državnega	Agpmsa
-sekretarja	Ncmsay
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-obrambo	Ncfsa
-pa	Cc
-je	Va-r3s-n
-vlada	Ncfsn
-na	Sa
-predlog	Ncmsan
-obrambnega	Agpmsg
-ministra	Ncmsg
-Romana	Npmsg
-Jakiča	Npmsg
-imenovala	Vmbp-sf
-Zorana	Npmsay
-Klemenčiča	Npmsay
-.	Z
-Za	Sa
-v	Sa
-.	Z
-d	Ncmsn
-.	Z
-generalnega	Agpmsg
-sekretarja	Ncmsg
-na	Sl
-Morsu	Npmsl
-pa	Cc
-imenovala	Vmbp-sf
-Mojco	Npfsa
-Ferjančič	Npfsa
-Podbregar	Npfsa
-.	Z
-Vsi	Pg-mpn
-sekretarji	Ncmpn
-bodo	Va-f3p-n
-na	Sa
-položaj	Ncmsan
-imenovani	Appmpn
-s	Si
-1	Mdc
-.	Z
-aprilom	Ncmsi
-.	Z
-Tudi	Q
-razreševali	Vmpp-pm
-Vlada	Ncfsn
-danes	Rgp
-ni	Va-r3s-y
-le	Q
-imenovala	Vmbp-sf
-,	Z
-ampak	Cc
-tudi	Q
-razreševala	Vmpp-sf
-.	Z
-Razrešila	Vmep-sf
-je	Va-r3s-n
-štiri	Mlcmpa
-člane	Ncmpa
-uradniškega	Agpmsg
-sveta	Ncmsg
-in	Cc
-imenovala	Vmbp-sf
-nove	Agpmpa
-,	Z
-razrešila	Vmep-sf
-je	Va-r3s-n
-generalnega	Agpmsa
-sekretarja	Ncmsay
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-izobraževanje	Ncnsa
-,	Z
-znanost	Ncfsa
-in	Cc
-šport	Ncmsan
-Tomaža	Npmsg
-Rozmana	Npmsg
-in	Cc
-na	Sa
-njegovo	Ps3nsasm
-mesto	Ncnsa
-kot	Cs
-vršilca	Ncmsay
-dolžnosti	Ncfsg
-imenovala	Vmbp-sf
-Gregorja	Npmsay
-Kosa	Npmsay
-.	Z
-Vlada	Ncfsn
-je	Va-r3s-n
-razrešila	Vmep-sf
-tudi	Q
-Boruta	Npmsay
-Rončevića	Npmsay
-in	Cc
-imenovala	Vmbp-sf
-Urbana	Npmsay
-Krajcarja	Npmsay
-za	Sa
-v	Sa
-.	Z
-d	Ncmsn
-.	Z
-direktorja	Ncmsay
-direktorata	Ncmsay
-za	Sa
-visoko	Agpnsa
-šolstvo	Ncnsa
-in	Cc
-znanost	Ncfsa
-.	Z
+token	tag	lemma
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+imenovala	mte:Vmbp-sf	imenovati
+podpredsednike	mte:Ncmpa	podpredsednik
+vlade	mte:Ncfsg	vlada
+in	mte:Cc	in
+nove	mte:Agpmpa	nov
+državne	mte:Agpmpa	državen
+sekretarje	mte:Ncmpa	sekretar
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+,	mte:Z	,
+ki	mte:Cs	ki
+opravlja	mte:Vmpr3s	opravljati
+funkcijo	mte:Ncfsa	funkcija
+podpredsednika	mte:Ncmsg	podpredsednik
+,	mte:Z	,
+nadomešča	mte:Vmpr3s	nadomeščati
+predsednika	mte:Ncmsay	predsednik
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+če	mte:Cs	če
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+odsoten	mte:Appmsnn	odsoten
+ali	mte:Cc	ali
+zadržan	mte:Appmsnn	zadržan
+,	mte:Z	,
+pri	mte:Sl	pri
+predstavljanju	mte:Ncnsl	predstavljanje
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+vodenju	mte:Ncnsl	vodenje
+vladnih	mte:Agpfpg	vladen
+sej	mte:Ncfpg	seja
+in	mte:Cc	in
+usmerjanju	mte:Ncnsl	usmerjanje
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+nadomeščati	mte:Vmpn	nadomeščati
+pri	mte:Sl	pri
+opravljanju	mte:Ncnsl	opravljanje
+nalog	mte:Ncfpg	naloga
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+nanašajo	mte:Vmpr3p	nanašati
+na	mte:Sa	na
+zaupnico	mte:Ncfsa	zaupnica
+vladi	mte:Ncfsd	vlada
+ter	mte:Cc	ter
+na	mte:Sa	na
+imenovanje	mte:Ncnsa	imenovanje
+in	mte:Cc	in
+razrešitev	mte:Ncfsa	razrešitev
+ministrov	mte:Ncmpg	minister
+.	mte:Z	.
+Podpredsedniki	mte:Ncmpn	podpredsednik
+vlade	mte:Ncfsg	vlada
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+postali	mte:Vmep-pm	postati
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+,	mte:Z	,
+kmetijski	mte:Agpmsny	kmetijski
+minister	mte:Ncmsn	minister
+Dejan	mte:Npmsn	Dejan
+Židan	mte:Npmsn	Židan
+in	mte:Cc	in
+notranji	mte:Agpmsny	notranji
+minister	mte:Ncmsn	minister
+Gregor	mte:Npmsn	Gregor
+Virant	mte:Npmsn	Virant
+.	mte:Z	.
+Pet	mte:Mlc-pa	pet
+sekretarjev	mte:Ncmpg	sekretar
+v	mte:Sa	v
+kabinet	mte:Ncmsan	kabinet
+premierke	mte:Ncfsg	premierka
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+imenovala	mte:Vmbp-sf	imenovati
+tudi	mte:Q	tudi
+pet	mte:Mlc-pa	pet
+državnih	mte:Agpmpg	državen
+sekretarjev	mte:Ncmpg	sekretar
+v	mte:Sa	v
+kabinet	mte:Ncmsan	kabinet
+predsednice	mte:Ncfsg	predsednica
+vlade	mte:Ncfsg	vlada
+.	mte:Z	.
+Tamara	mte:Npfsn	Tamara
+Vonta	mte:Npfsn	Vonta
+bo	mte:Va-f3s-n	biti
+pristojna	mte:Agpfsn	pristojen
+za	mte:Sa	za
+vzpostavitev	mte:Ncfsa	vzpostavitev
+dialoga	mte:Ncmsg	dialog
+s	mte:Si	z
+civilno	mte:Agpfsi	civilen
+družbo	mte:Ncfsi	družba
+in	mte:Cc	in
+koordinacijo	mte:Ncfsi	koordinacija
+državljanskih	mte:Agpfpg	državljanski
+pobud	mte:Ncfpg	pobud
+.	mte:Z	.
+Gašpar	mte:Npmsn	Gašpar
+Gašpar	mte:Npmsn	Gašpar
+Mišič	mte:Npmsn	Mišič
+bo	mte:Va-f3s-n	biti
+zadolžen	mte:Appmsnn	zadolžen
+za	mte:Sa	za
+koordinacijo	mte:Ncfsa	koordinacija
+velikih	mte:Agpmpg	velik
+infrastrukturnih	mte:Agpmpg	infrastrukturen
+projektov	mte:Ncmpg	projekt
+in	mte:Cc	in
+pomoč	mte:Ncfsa	pomoč
+pri	mte:Sl	pri
+sanaciji	mte:Ncfsl	sanacija
+gospodarskih	mte:Agpfpg	gospodarski
+družb	mte:Ncfpg	družba
+v	mte:Sl	v
+težavah	mte:Ncfpl	težava
+.	mte:Z	.
+Za	mte:Sa	za
+koordinacijo	mte:Ncfsa	koordinacija
+učinkovite	mte:Agpfsg	učinkovit
+državne	mte:Agpfsg	državen
+informatike	mte:Ncfsg	informatika
+bo	mte:Va-f3s-n	biti
+skrbel	mte:Vmpp-sm	skrbeti
+Dušan	mte:Npmsn	Dušan
+Kričej	mte:Npmsn	Kričej
+.	mte:Z	.
+Dušan	mte:Npmsn	Dušan
+Kumer	mte:Npmsn	Kumer
+in	mte:Cc	in
+Jernej	mte:Npmsn	Jernej
+Pavlič	mte:Npmsn	Pavlič
+pa	mte:Cc	pa
+bosta	mte:Va-f3d-n	biti
+sekretarja	mte:Ncmdn	sekretar
+brez	mte:Sg	brez
+resorja	mte:Ncmsg	resor
+.	mte:Z	.
+Premierki	mte:Ncfsn	premierka
+bosta	mte:Va-f3d-n	biti
+pomagala	mte:Vmbp-dm	pomagati
+pri	mte:Sl	pri
+"	mte:Z	"
+opravljanju	mte:Ncnsl	opravljanje
+funkcije	mte:Ncfsg	funkcija
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+danih	mte:Agpfpg	dan
+možnosti	mte:Ncfpg	možnost
+"	mte:Z	"
+.	mte:Z	.
+Pavlič	mte:Npmsn	Pavlič
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+podmladka	mte:Ncmsg	podmladka
+Pozitivne	mte:Agpfsg	pozitiven
+Slovenije	mte:Npfsg	Slovenija
+in	mte:Cc	in
+sin	mte:Ncmsn	sin
+poslanke	mte:Ncfsg	poslanka
+te	mte:Pd-fsg	ta
+stranke	mte:Ncfsg	stranka
+Alenke	mte:Npfsg	Alenka
+Pavlič	mte:Npfsn	Pavlič
+.	mte:Z	.
+Nov	mte:Agpmsnn	nov
+na	mte:Sl	na
+Morsu	mte:Npmsl	Mors
+Za	mte:Sa	za
+državnega	mte:Agpmsa	državen
+sekretarja	mte:Ncmsay	sekretar
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+obrambo	mte:Ncfsa	obramba
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+obrambnega	mte:Agpmsg	obramben
+ministra	mte:Ncmsg	minister
+Romana	mte:Npmsg	Roman
+Jakiča	mte:Npmsg	Jakič
+imenovala	mte:Vmbp-sf	imenovati
+Zorana	mte:Npmsay	Zoran
+Klemenčiča	mte:Npmsay	Klemenčič
+.	mte:Z	.
+Za	mte:Sa	za
+v	mte:Sa	v
+.	mte:Z	.
+d	mte:Ncmsn	d
+.	mte:Z	.
+generalnega	mte:Agpmsg	generalen
+sekretarja	mte:Ncmsg	sekretar
+na	mte:Sl	na
+Morsu	mte:Npmsl	Mors
+pa	mte:Cc	pa
+imenovala	mte:Vmbp-sf	imenovati
+Mojco	mte:Npfsa	Mojco
+Ferjančič	mte:Npfsa	Ferjančič
+Podbregar	mte:Npfsa	Podbregar
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+sekretarji	mte:Ncmpn	sekretar
+bodo	mte:Va-f3p-n	biti
+na	mte:Sa	na
+položaj	mte:Ncmsan	položaj
+imenovani	mte:Appmpn	imenovan
+s	mte:Si	z
+1	mte:Mdc	1
+.	mte:Z	.
+aprilom	mte:Ncmsi	april
+.	mte:Z	.
+Tudi	mte:Q	tudi
+razreševali	mte:Vmpp-pm	razreševati
+Vlada	mte:Ncfsn	vlada
+danes	mte:Rgp	danes
+ni	mte:Va-r3s-y	biti
+le	mte:Q	le
+imenovala	mte:Vmbp-sf	imenovati
+,	mte:Z	,
+ampak	mte:Cc	ampak
+tudi	mte:Q	tudi
+razreševala	mte:Vmpp-sf	razreševati
+.	mte:Z	.
+Razrešila	mte:Vmep-sf	razrešiti
+je	mte:Va-r3s-n	biti
+štiri	mte:Mlcmpa	štirje
+člane	mte:Ncmpa	član
+uradniškega	mte:Agpmsg	uradniški
+sveta	mte:Ncmsg	svet
+in	mte:Cc	in
+imenovala	mte:Vmbp-sf	imenovati
+nove	mte:Agpmpa	nov
+,	mte:Z	,
+razrešila	mte:Vmep-sf	razrešiti
+je	mte:Va-r3s-n	biti
+generalnega	mte:Agpmsa	generalen
+sekretarja	mte:Ncmsay	sekretar
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+izobraževanje	mte:Ncnsa	izobraževanje
+,	mte:Z	,
+znanost	mte:Ncfsa	znanost
+in	mte:Cc	in
+šport	mte:Ncmsan	šport
+Tomaža	mte:Npmsg	Tomaž
+Rozmana	mte:Npmsg	Rozman
+in	mte:Cc	in
+na	mte:Sa	na
+njegovo	mte:Ps3nsasm	njegov
+mesto	mte:Ncnsa	mesto
+kot	mte:Cs	kot
+vršilca	mte:Ncmsay	vršilec
+dolžnosti	mte:Ncfsg	dolžnost
+imenovala	mte:Vmbp-sf	imenovati
+Gregorja	mte:Npmsay	Gregor
+Kosa	mte:Npmsay	Kosa
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+razrešila	mte:Vmep-sf	razrešiti
+tudi	mte:Q	tudi
+Boruta	mte:Npmsay	Borut
+Rončevića	mte:Npmsay	Rončević
+in	mte:Cc	in
+imenovala	mte:Vmbp-sf	imenovati
+Urbana	mte:Npmsay	Urbana
+Krajcarja	mte:Npmsay	Krajcar
+za	mte:Sa	za
+v	mte:Sa	v
+.	mte:Z	.
+d	mte:Ncmsn	d
+.	mte:Z	.
+direktorja	mte:Ncmsay	direktor
+direktorata	mte:Ncmsay	direktorat
+za	mte:Sa	za
+visoko	mte:Agpnsa	visok
+šolstvo	mte:Ncnsa	šolstvo
+in	mte:Cc	in
+znanost	mte:Ncfsa	znanost
+.	mte:Z	.
+S	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+generalnega	mte:Agpmsg	generalen
+direktorja	mte:Ncmsg	direktor
+direktorata	mte:Ncmsg	direktorat
+za	mte:Sa	za
+šport	mte:Ncmsan	šport
+je	mte:Va-r3s-n	biti
+razrešila	mte:Vmep-sf	razrešiti
+Draga	mte:Npfsn	Draga
+Balenta	mte:Npfsa	Balent
+,	mte:Z	,
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+generalnega	mte:Agpmsg	generalen
+direktorja	mte:Ncmsg	direktor
+direktorata	mte:Ncmsg	direktorat
+za	mte:Sa	za
+investicije	mte:Ncfpa	investicija
+so	mte:Va-r3p-n	biti
+razrešili	mte:Vmep-pm	razrešiti
+Andrejo	mte:Npfsa	Andreja
+Vihtelič	mte:Npfsa	Vihtelič

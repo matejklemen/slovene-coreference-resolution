@@ -1,263 +1,291 @@
-token	tag
-Gospodarska	Agpfsn
-zbornica	Ncfsn
-Slovenije	Npfsg
-je	Va-r3s-n
-prejela	Vmep-sf
-štiri	Mlcfpa
-kandidature	Ncfpa
-za	Sa
-novega	Agpmsa
-predsednika	Ncmsay
-,	Z
-ki	Cs
-bo	Va-f3s-n
-nasledil	Vmep-sm
-Zdenka	Npmsay
-Pavčka	Npmsay
-.	Z
-Novega	Agpmsa
-predsednika	Ncmsay
-bo	Va-f3s-n
-skupščina	Ncfsn
-izvolila	Vmep-sf
-2	Mdc
-.	Z
-septembra	Ncmsg
-.	Z
-Zdenko	Npmsn
-Pavček	Npmsn
-je	Va-r3s-n
-s	Sg
-položaja	Ncmsg
-odstopil	Vmep-sm
-.	Z
-Za	Sa
-to	Pd-nsa
-mesto	Ncnsa
-predsednika	Ncmsg
-bodo	Va-f3p-n
-izvolili	Vmep-pm
-na	Sl
-skupščini	Ncfsl
-Gospodarske	Agpfsg
-zbornice	Ncfsg
-Slovenije	Npfsg
-GZS	Npfsg
-se	Px------y
-bodo	Va-f3p-n
-potegovali	Vmpp-pm
-Stojan	Npmsn
-Binder	Npmsn
-,	Z
-Andrej	Npmsn
-Mate	Npmsn
-,	Z
-Vasilij	Npmsn
-Prešern	Npmsn
-in	Cc
-Boštjan	Npmsn
-Šifrar	Npmsn
-.	Z
-Novi	Agpmsny
-predsednik	Ncmsn
-GZS	Npfsg
-bo	Va-f3s-n
-nasledil	Vmep-sm
-Zdenka	Npmsay
-Pavčka	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-14	Mdc
-.	Z
-julija	Ncmsg
-s	Sg
-položaja	Ncmsg
-odstopil	Vmep-sm
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-z	Si
-GZS	Npmsi
-,	Z
-se	Px------y
-je	Va-r3s-n
-danes	Rgp
-zaključil	Vmep-sm
-postopek	Ncmsn
-predlaganja	Ncnsg
-kandidatov	Ncmpg
-za	Sa
-novega	Agpmsa
-predsednika	Ncmsay
-GZS	Npmsg
-.	Z
-Vse	Pg-fpn
-štiri	Mlcfpn
-kandidature	Ncfpn
-izpolnjujejo	Vmpr3p
-pogoje	Ncmpa
-,	Z
-določene	Appmpa
-v	Sl
-statutu	Ncmsl
-zbornice	Ncfsg
-in	Cc
-pravilniku	Ncmsl
-o	Sl
-volitvah	Ncfpl
-organov	Ncmpg
-GZS	Npfsn
-.	Z
-Binder	Npmsn
-je	Va-r3s-n
-direktor	Ncmsn
-družbe	Ncfsg
-Sinet	Npmsn
-,	Z
-Mate	Npmsn
-predsednik	Ncmsn
-upravnega	Agpmsg
-odbora	Ncmsg
-Inlesa	Npmsg
-,	Z
-Prešern	Npmsn
-izvršni	Agpmsny
-direktor	Ncmsn
-Sija	Npmsg
-in	Cc
-Šifrar	Npmsn
-direktor	Ncmsn
-družbe	Ncfsg
-Sibo	Npmsn
-G	Ncmsn
-.	Z
-Med	Si
-omenjenimi	Appmpi
-bo	Va-f3s-n
-skupščina	Ncfsn
-zbornice	Ncfsg
-2	Mdc
-.	Z
-septembra	Ncmsg
-izvolila	Vmep-sf
-novega	Agpmsa
-predsednika	Ncmsay
-,	Z
-ki	Cs
-bo	Va-f3s-n
-na	Sa
-položaj	Ncmsan
-izvoljen	Appmsnn
-za	Sa
-čas	Ncmsan
-do	Sg
-izteka	Ncmsg
-štiriletnega	Agpmsg
-mandata	Ncmsg
-sedanje	Agpfsg
-skupščine	Ncfsg
-GZS	Npfsg
-in	Cc
-konstituiranja	Ncnsg
-nove	Agpfsg
-,	Z
-torej	Rgp
-najdlje	Rgs
-do	Sg
-29	Mdc
-.	Z
-maja	Ncmsg
-2011	Mdc
-.	Z
-Po	Sl
-preteku	Ncmsl
-mandata	Ncmsg
-je	Va-r3s-n
-lahko	Rgp
-ponovno	Rgp
-izvoljen	Appmsnn
-za	Sa
-predsednika	Ncmsay
-GZS	Npfsg
-.	Z
-Do	Sg
-volilne	Agpfsg
-skupščine	Ncfsg
-bo	Va-f3s-n
-funkcijo	Ncfsa
-predsednika	Ncmsg
-GZS	Npfsg
-opravljal	Vmpp-sm
-Pavček	Npmsn
-.	Z
-Kandidati	Npmpn
-bodo	Va-f3p-n
-po	Sl
-pojasnilih	Ncnpl
-GZS	Npfsg
-pripravili	Vmep-pm
-program	Ncmsan
-delovanja	Ncnsg
-zbornice	Ncfsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-pred	Si
-volitvami	Ncfpi
-posredovali	Vmbp-pm
-članom	Ncmpd
-skupščine	Ncfsg
-GZS	Npfsg
-.	Z
-Nove	Agpmpa
-kandidate	Ncmpa
-lahko	Rgp
-na	Sa
-volilno	Agpfsa
-listo	Ncfsa
-uvrstijo	Vmer3p
-tudi	Q
-na	Sl
-sami	Agpfsl
-volilni	Agpfsl
-skupščini	Ncfsl
-,	Z
-če	Cs
-novega	Agpmsa
-kandidata	Ncmsgy
-predlaga	Vmbr3s
-vsaj	Q
-deset	Mlc-pa
-članov	Ncmpg
-skupščine	Ncfsg
-.	Z
-Predsednik	Ncmsn
-skupščine	Ncfsg
-GZS	Npfsg
-Uroš	Npmsn
-Slavinec	Npmsn
-je	Va-r3s-n
-poziv	Ncmsan
-za	Sa
-predlaganje	Ncnsa
-kandidatov	Ncmpg
-objavil	Vmep-sm
-19	Mdc
-.	Z
-julija	Ncmsg
-.	Z
-Pavček	Npmsn
-je	Va-r3s-n
-z	Sg
-mesta	Ncnsg
-predsednika	Ncmsg
-GZS	Npmsg
-odstopil	Vmep-sm
-iz	Sg
-osebnih	Agpmpg
-razlogov	Ncmpg
-.	Z
+token	tag	lemma
+Gospodarska	mte:Agpfsn	gospodarski
+zbornica	mte:Ncfsn	zbornica
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+prejela	mte:Vmep-sf	prejeti
+štiri	mte:Mlcfpa	štirje
+kandidature	mte:Ncfpa	kandidatura
+za	mte:Sa	za
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+nasledil	mte:Vmep-sm	naslediti
+Zdenka	mte:Npmsay	Zdenka
+Pavčka	mte:Npmsay	Pavčka
+.	mte:Z	.
+Novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+bo	mte:Va-f3s-n	biti
+skupščina	mte:Ncfsn	skupščina
+izvolila	mte:Vmep-sf	izvoliti
+2	mte:Mdc	2
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Zdenko	mte:Npmsn	Zdenko
+Pavček	mte:Npmsn	Pavček
+je	mte:Va-r3s-n	biti
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+odstopil	mte:Vmep-sm	odstopiti
+.	mte:Z	.
+Za	mte:Sa	za
+to	mte:Pd-nsa	ta
+mesto	mte:Ncnsa	mesto
+predsednika	mte:Ncmsg	predsednik
+bodo	mte:Va-f3p-n	biti
+izvolili	mte:Vmep-pm	izvoliti
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+GZS	mte:Npfsg	GZS
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+potegovali	mte:Vmpp-pm	potegovati
+Stojan	mte:Npmsn	Stojan
+Binder	mte:Npmsn	Binder
+,	mte:Z	,
+Andrej	mte:Npmsn	Andrej
+Mate	mte:Npmsn	Mate
+,	mte:Z	,
+Vasilij	mte:Npmsn	Vasilija
+Prešern	mte:Npmsn	Prešern
+in	mte:Cc	in
+Boštjan	mte:Npmsn	Boštjan
+Šifrar	mte:Npmsn	Šifrar
+.	mte:Z	.
+Novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+GZS	mte:Npfsg	GZS
+bo	mte:Va-f3s-n	biti
+nasledil	mte:Vmep-sm	naslediti
+Zdenka	mte:Npmsay	Zdenka
+Pavčka	mte:Npmsg	Pavčka
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+14	mte:Mdc	14
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+odstopil	mte:Vmep-sm	odstopiti
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+z	mte:Si	z
+GZS	mte:Npmsi	GZS
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+zaključil	mte:Vmep-sm	zaključiti
+postopek	mte:Ncmsn	postopek
+predlaganja	mte:Ncnsg	predlaganje
+kandidatov	mte:Ncmpg	kandidat
+za	mte:Sa	za
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+GZS	mte:Npmsg	GZS
+.	mte:Z	.
+Vse	mte:Pg-fpn	ves
+štiri	mte:Mlcfpn	štirje
+kandidature	mte:Ncfpn	kandidatura
+izpolnjujejo	mte:Vmpr3p	izpolnjevati
+pogoje	mte:Ncmpa	pogoj
+,	mte:Z	,
+določene	mte:Appmpa	določen
+v	mte:Sl	v
+statutu	mte:Ncmsl	statut
+zbornice	mte:Ncfsg	zbornica
+in	mte:Cc	in
+pravilniku	mte:Ncmsl	pravilnik
+o	mte:Sl	o
+volitvah	mte:Ncfpl	volitev
+organov	mte:Ncmpg	organ
+GZS	mte:Npfsn	GZS
+.	mte:Z	.
+Binder	mte:Npmsn	Binder
+je	mte:Va-r3s-n	biti
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Sinet	mte:Npmsn	Sinet
+,	mte:Z	,
+Mate	mte:Npmsn	Mate
+predsednik	mte:Ncmsn	predsednik
+upravnega	mte:Agpmsg	upraven
+odbora	mte:Ncmsg	odbor
+Inlesa	mte:Npmsg	Inles
+,	mte:Z	,
+Prešern	mte:Npmsn	Prešern
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+Sija	mte:Npmsg	Sija
+in	mte:Cc	in
+Šifrar	mte:Npmsn	Šifrar
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Sibo	mte:Npmsn	Siba
+G	mte:Ncmsn	G
+.	mte:Z	.
+Med	mte:Si	med
+omenjenimi	mte:Appmpi	omenjen
+bo	mte:Va-f3s-n	biti
+skupščina	mte:Ncfsn	skupščina
+zbornice	mte:Ncfsg	zbornica
+2	mte:Mdc	2
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+izvolila	mte:Vmep-sf	izvoliti
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+na	mte:Sa	na
+položaj	mte:Ncmsan	položaj
+izvoljen	mte:Appmsnn	izvoljen
+za	mte:Sa	za
+čas	mte:Ncmsan	čas
+do	mte:Sg	do
+izteka	mte:Ncmsg	iztekati
+štiriletnega	mte:Agpmsg	štirileten
+mandata	mte:Ncmsg	mandat
+sedanje	mte:Agpfsg	sedanji
+skupščine	mte:Ncfsg	skupščina
+GZS	mte:Npfsg	GZS
+in	mte:Cc	in
+konstituiranja	mte:Ncnsg	konstupstuir
+nove	mte:Agpfsg	nov
+,	mte:Z	,
+torej	mte:Rgp	torej
+najdlje	mte:Rgs	dolgo
+do	mte:Sg	do
+29	mte:Mdc	29
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+2011	mte:Mdc	2011
+.	mte:Z	.
+Po	mte:Sl	po
+preteku	mte:Ncmsl	pretek
+mandata	mte:Ncmsg	mandat
+je	mte:Va-r3s-n	biti
+lahko	mte:Rgp	lahko
+ponovno	mte:Rgp	ponovno
+izvoljen	mte:Appmsnn	izvoljen
+za	mte:Sa	za
+predsednika	mte:Ncmsay	predsednik
+GZS	mte:Npfsg	GZS
+.	mte:Z	.
+Do	mte:Sg	do
+volilne	mte:Agpfsg	volilen
+skupščine	mte:Ncfsg	skupščina
+bo	mte:Va-f3s-n	biti
+funkcijo	mte:Ncfsa	funkcija
+predsednika	mte:Ncmsg	predsednik
+GZS	mte:Npfsg	GZS
+opravljal	mte:Vmpp-sm	opravljati
+Pavček	mte:Npmsn	Pavček
+.	mte:Z	.
+Kandidati	mte:Npmpn	kandidat
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+pojasnilih	mte:Ncnpl	pojasnilo
+GZS	mte:Npfsg	GZS
+pripravili	mte:Vmep-pm	pripraviti
+program	mte:Ncmsan	program
+delovanja	mte:Ncnsg	delovanje
+zbornice	mte:Ncfsg	zbornica
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+pred	mte:Si	pred
+volitvami	mte:Ncfpi	volitev
+posredovali	mte:Vmbp-pm	posredovati
+članom	mte:Ncmpd	član
+skupščine	mte:Ncfsg	skupščina
+GZS	mte:Npfsg	GZS
+.	mte:Z	.
+Nove	mte:Agpmpa	nov
+kandidate	mte:Ncmpa	kandidat
+lahko	mte:Rgp	lahko
+na	mte:Sa	na
+volilno	mte:Agpfsa	volilen
+listo	mte:Ncfsa	lista
+uvrstijo	mte:Vmer3p	uvrstiti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+sami	mte:Agpfsl	sam
+volilni	mte:Agpfsl	volilen
+skupščini	mte:Ncfsl	skupščina
+,	mte:Z	,
+če	mte:Cs	če
+novega	mte:Agpmsa	nov
+kandidata	mte:Ncmsgy	kandidat
+predlaga	mte:Vmbr3s	predlagati
+vsaj	mte:Q	vsaj
+deset	mte:Mlc-pa	deset
+članov	mte:Ncmpg	član
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+skupščine	mte:Ncfsg	skupščina
+GZS	mte:Npfsg	GZS
+Uroš	mte:Npmsn	Uroš
+Slavinec	mte:Npmsn	Slavinec
+je	mte:Va-r3s-n	biti
+poziv	mte:Ncmsan	poziv
+za	mte:Sa	za
+predlaganje	mte:Ncnsa	predlaganje
+kandidatov	mte:Ncmpg	kandidat
+objavil	mte:Vmep-sm	objaviti
+19	mte:Mdc	19
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+.	mte:Z	.
+Pavček	mte:Npmsn	Pavček
+je	mte:Va-r3s-n	biti
+z	mte:Sg	z
+mesta	mte:Ncnsg	mesto
+predsednika	mte:Ncmsg	predsednik
+GZS	mte:Npmsg	GZS
+odstopil	mte:Vmep-sm	odstopiti
+iz	mte:Sg	iz
+osebnih	mte:Agpmpg	oseben
+razlogov	mte:Ncmpg	razlog
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+ob	mte:Sl	ob
+predaji	mte:Ncfsl	predaja
+odstopne	mte:Agpfsg	odstopen
+izjave	mte:Ncfsg	izjava
+,	mte:Z	,
+odstopu	mte:Ncmsd	odstop
+ni	mte:Va-r3s-y	biti
+botroval	mte:Vmpp-sm	botrovati
+poziv	mte:Ncmsn	poziv
+upravnega	mte:Agpmsg	upraven
+odbora	mte:Ncmsg	odbor
+Združenja	mte:Ncnsg	združenje
+kemijske	mte:Agpfsg	kemijski
+industrije	mte:Ncfsg	industrija
+pri	mte:Sl	pri
+GZS	mte:Npfsl	GZS
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+odstopu	mte:Ncmsl	odstop
+razmišljal	mte:Vmpp-sm	razmišljati
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas

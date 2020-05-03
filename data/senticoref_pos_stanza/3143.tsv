@@ -1,314 +1,337 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Z	Si
-jutranjim	Agpmsi
-"	Z
-postankom	Ncmsi
-"	Z
-v	Sl
-Savi	Npfsl
-je	Va-r3s-n
-minister	Ncmsn
-za	Sa
-finance	Ncfpa
-Franc	Npmsn
-Križanič	Npmsn
-začel	Vmep-sm
-včerajšnji	Agpmsay
-obisk	Ncmsan
-na	Sl
-Gorenjskem	Npnsl
-,	Z
-med	Si
-katerim	Pq-msi
-se	Px------y
-je	Va-r3s-n
-ustavil	Vmep-sm
-tudi	Q
-v	Sl
-Gorenjski	Agpfsl
-banki	Ncfsl
-.	Z
-Za	Sa
-obisk	Ncmsan
-Save	Npfsg
-in	Cc
-Gorenjske	Agpfsg
-banke	Ncfsg
-(	Z
-edini	Agpfsd
-gospodarski	Agpfsd
-družbi	Ncfsd
-,	Z
-ki	Cs
-ju	Pp3mda--y
-je	Va-r3s-n
-Križanič	Npmsn
-včeraj	Rgp
-obiskal	Vmep-sm
-)	Z
-,	Z
-ki	Cs
-sta	Va-r3d-n
-jedro	Ncnsa
-tako	Rgp
-imenovane	Appfsg
-gorenjske	Agpfsg
-gospodarske	Agpfsg
-naveze	Ncfsg
-,	Z
-naj	Q
-bi	Va-c
-se	Px------y
-sicer	Q
-Križanič	Npmsn
-odločil	Vmep-sm
-šele	Q
-konec	Sg
-minulega	Appmsg
-tedna	Ncmsg
-oziroma	Cc
-vsega	Pg-msg
-nekaj	Rgp
-dni	Ncmpg
-po	Sl
-razkritju	Ncnsl
-v	Sl
-Dnevniku	Ncmsl
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-ta	Pd-msn
-začela	Vmep-dm
-krepiti	Vmpn
-v	Sl
-lastništvu	Ncnsl
-Abanke	Npfsg
-.	Z
-Na	Sa
-včerajšnji	Agpmsay
-sestanek	Ncmsan
-z	Si
-vodstvom	Ncnsi
-Save	Npfsg
-je	Va-r3s-n
-sicer	Q
-Križanič	Npmsn
-prišel	Vmep-sm
-brez	Sg
-besed	Ncfpg
-,	Z
-brez	Sg
-izjav	Ncfpg
-za	Sa
-medije	Ncmpa
-pa	Cc
-je	Va-r3s-n
-sestanek	Ncmsn
-tudi	Q
-zapustil	Vmep-sm
-.	Z
-Prav	Q
-povezovanje	Ncnsn
-Gorenjske	Agpfsg
-banke	Ncfsg
-in	Cc
-Abanke	Npfsg
-Vipa	Npfsn
-je	Va-r3s-n
-bilo	Va-p-sn
-tudi	Q
-v	Sl
-ospredju	Ncnsl
-včerajšnjih	Agpmpg
-pogovorov	Ncmpg
-,	Z
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-in	Cc
-član	Ncmsn
-uprave	Ncfsg
-Save	Npfsg
-Miran	Npmsn
-Kalčič	Npmsn
-in	Cc
-Emil	Npmsn
-Vizovišek	Npmsn
-pa	Cc
-sta	Va-r3d-n
-Križaniču	Npmsd
-predstavila	Vmep-dm
-trenutne	Agpfpa
-faze	Ncfpa
-povezovanja	Ncnsg
-obeh	Pg-fdg
-bank	Ncfdg
-,	Z
-kakor	Cs
-tudi	Q
-nekatere	Pi-fpn
-"	Z
-alternativne	Agpfpn
-scenarije	Ncfpn
-"	Z
-.	Z
-Uprava	Ncfsn
-Gorenjske	Agpfsg
-banke	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-skoraj	Q
-v	Sl
-polovični	Agpfsl
-lasti	Ncfsl
-Save	Npfsg
-,	Z
-je	Va-r3s-n
-na	Sa
-sestanek	Ncmsan
-s	Si
-Križaničem	Npmsi
-pripeljala	Vmep-sf
-tudi	Q
-svojega	Px-msa
-svetovalca	Ncmsay
-Andreja	Npmsgy
-Širclja	Npmsg
-,	Z
-nekdanjega	Agpmsg
-državnega	Agpmsg
-sekretarja	Ncmsg
-na	Sl
-finančnem	Agpnsl
-ministrstvu	Ncnsl
-.	Z
-Če	Cs
-je	Va-r3s-n
-Šircelj	Npmsn
-s	Si
-Križaničem	Npmsi
-včeraj	Rgp
-govoril	Vmpp-sm
-tudi	Q
-o	Sl
-izhodni	Agpfsl
-strategiji	Ncfsl
-,	Z
-ni	Va-r3s-y
-znano	Appnsn
-,	Z
-jo	Pp3fsa--y
-pa	Cc
-je	Va-r3s-n
-le	Q
-nekaj	Rgp
-ur	Ncfpg
-kasneje	Rgc
-kot	Cs
-predsednik	Ncmsn
-odbora	Ncmsg
-za	Sa
-finance	Ncfpa
-pri	Sl
-strokovnem	Agpmsl
-svetu	Ncmsl
-SDS	Npmsn
-kritiziral	Vmpp-sm
-na	Sl
-javni	Agpfsl
-tribuni	Ncfsl
-v	Sl
-Mostah	Npfpl
-v	Sl
-Ljubljani	Npfsl
-.	Z
-V	Sl
-Dnevniku	Ncmsl
-smo	Va-r1p-n
-že	Q
-razkrili	Vmep-pm
-,	Z
-da	Cs
-zadnji	Agpmsny
-načrt	Ncmsn
-predvideva	Vmpr3s
-dokapitalizacijo	Ncfsa
-Gorenjske	Agpfsg
-banke	Ncfsg
-,	Z
-ta	Pd-fsn
-pa	Cc
-bi	Va-c
-nato	Rgp
-prevzela	Vmep-sf
-Abanko	Npfsa
-.	Z
-Da	Cs
-so	Va-r3p-n
-uresničevanje	Ncnsa
-tega	Pd-msg
-načrta	Ncmsg
-v	Sl
-gorenjski	Agpfsl
-gospodarski	Agpfsl
-navezi	Ncfsl
-že	Q
-začeli	Vmep-pm
-,	Z
-nakazujejo	Vmpr3p
-tudi	Q
-zadnji	Agpmpn
-dogodki	Ncmpn
-.	Z
-Kot	Cs
-smo	Va-r1p-n
-razkrili	Vmep-pm
-v	Sl
-Dnevniku	Ncmsl
-,	Z
-naj	Q
-bi	Va-c
-namreč	Cc
-Daimond	Npmsn
-že	Q
-prodal	Vmep-sm
-svoj	Px-msa
-3,6	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-Abanke	Npfsg
-,	Z
-Sava	Npfsn
-oziroma	Cc
-Gorenjska	Agpfsn
-banka	Ncfsn
-pa	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-do	Sg
-tega	Pd-msg
-deleža	Ncmsg
-dokopali	Vmep-pm
-preko	Sg
-KD	Ncfsg
-Banke	Ncfsg
-.	Z
-V	Sl
-Savi	Npfsl
-,	Z
-KD	Ncfsl
-Banki	Ncfsl
-in	Cc
-Daimondu	Npmsl
-so	Va-r3p-n
-to	Pd-nsa
-sicer	Q
-zanikali	Vmep-pm
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Z	mte:Si	z
+jutranjim	mte:Agpmsi	jutranji
+"	mte:Z	"
+postankom	mte:Ncmsi	postanek
+"	mte:Z	"
+v	mte:Sl	v
+Savi	mte:Npfsl	Sava
+je	mte:Va-r3s-n	biti
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Franc	mte:Npmsn	Franc
+Križanič	mte:Npmsn	Križanič
+začel	mte:Vmep-sm	začeti
+včerajšnji	mte:Agpmsay	včerajšnji
+obisk	mte:Ncmsan	obisk
+na	mte:Sl	na
+Gorenjskem	mte:Npnsl	Gorenjsko
+,	mte:Z	,
+med	mte:Si	med
+katerim	mte:Pq-msi	kateri
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ustavil	mte:Vmep-sm	ustaviti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+.	mte:Z	.
+Za	mte:Sa	za
+obisk	mte:Ncmsan	obisk
+Save	mte:Npfsg	Sava
+in	mte:Cc	in
+Gorenjske	mte:Agpfsg	Gorenjska
+banke	mte:Ncfsg	banka
+(	mte:Z	(
+edini	mte:Agpfsd	edin
+gospodarski	mte:Agpfsd	gospodarski
+družbi	mte:Ncfsd	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+ju	mte:Pp3mda--y	on
+je	mte:Va-r3s-n	biti
+Križanič	mte:Npmsn	Križanič
+včeraj	mte:Rgp	včeraj
+obiskal	mte:Vmep-sm	obiskati
+)	mte:Z	)
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+jedro	mte:Ncnsa	jedro
+tako	mte:Rgp	tako
+imenovane	mte:Appfsg	imenovan
+gorenjske	mte:Agpfsg	gorenjski
+gospodarske	mte:Agpfsg	gospodarski
+naveze	mte:Ncfsg	naveza
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+Križanič	mte:Npmsn	Križanič
+odločil	mte:Vmep-sm	odločiti
+šele	mte:Q	šele
+konec	mte:Sg	konec
+minulega	mte:Appmsg	minul
+tedna	mte:Ncmsg	teden
+oziroma	mte:Cc	oziroma
+vsega	mte:Pg-msg	ves
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+razkritju	mte:Ncnsl	razkritje
+v	mte:Sl	v
+Dnevniku	mte:Ncmsl	dnevnik
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+ta	mte:Pd-msn	ta
+začela	mte:Vmep-dm	začeti
+krepiti	mte:Vmpn	krepiti
+v	mte:Sl	v
+lastništvu	mte:Ncnsl	lastništvo
+Abanke	mte:Npfsg	Abanka
+.	mte:Z	.
+Na	mte:Sa	na
+včerajšnji	mte:Agpmsay	včerajšnji
+sestanek	mte:Ncmsan	sestanek
+z	mte:Si	z
+vodstvom	mte:Ncnsi	vodstvo
+Save	mte:Npfsg	Sava
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+Križanič	mte:Npmsn	Križanič
+prišel	mte:Vmep-sm	priti
+brez	mte:Sg	brez
+besed	mte:Ncfpg	beseda
+,	mte:Z	,
+brez	mte:Sg	brez
+izjav	mte:Ncfpg	izjava
+za	mte:Sa	za
+medije	mte:Ncmpa	medij
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+sestanek	mte:Ncmsn	sestanek
+tudi	mte:Q	tudi
+zapustil	mte:Vmep-sm	zapustiti
+.	mte:Z	.
+Prav	mte:Q	prav
+povezovanje	mte:Ncnsn	povezovanje
+Gorenjske	mte:Agpfsg	Gorenjska
+banke	mte:Ncfsg	banka
+in	mte:Cc	in
+Abanke	mte:Npfsg	Abanka
+Vipa	mte:Npfsn	Vipa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+ospredju	mte:Ncnsl	ospredje
+včerajšnjih	mte:Agpmpg	včerajšnji
+pogovorov	mte:Ncmpg	pogovor
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+in	mte:Cc	in
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+Save	mte:Npfsg	Sava
+Miran	mte:Npmsn	Miran
+Kalčič	mte:Npmsn	Kalčič
+in	mte:Cc	in
+Emil	mte:Npmsn	Emil
+Vizovišek	mte:Npmsn	Vizovišek
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+Križaniču	mte:Npmsd	Križanič
+predstavila	mte:Vmep-dm	predstaviti
+trenutne	mte:Agpfpa	trenuten
+faze	mte:Ncfpa	faza
+povezovanja	mte:Ncnsg	povezovanje
+obeh	mte:Pg-fdg	oba
+bank	mte:Ncfdg	banka
+,	mte:Z	,
+kakor	mte:Cs	kakor
+tudi	mte:Q	tudi
+nekatere	mte:Pi-fpn	nekateri
+"	mte:Z	"
+alternativne	mte:Agpfpn	alternativen
+scenarije	mte:Ncfpn	scenarija
+"	mte:Z	"
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+Gorenjske	mte:Agpfsg	Gorenjska
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+skoraj	mte:Q	skoraj
+v	mte:Sl	v
+polovični	mte:Agpfsl	polovičen
+lasti	mte:Ncfsl	last
+Save	mte:Npfsg	Sava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+sestanek	mte:Ncmsan	sestanek
+s	mte:Si	z
+Križaničem	mte:Npmsi	Križanič
+pripeljala	mte:Vmep-sf	pripeljati
+tudi	mte:Q	tudi
+svojega	mte:Px-msa	svoj
+svetovalca	mte:Ncmsay	svetovalec
+Andreja	mte:Npmsgy	Andreja
+Širclja	mte:Npmsg	Šircelj
+,	mte:Z	,
+nekdanjega	mte:Agpmsg	nekdanji
+državnega	mte:Agpmsg	državen
+sekretarja	mte:Ncmsg	sekretar
+na	mte:Sl	na
+finančnem	mte:Agpnsl	finančen
+ministrstvu	mte:Ncnsl	ministrstvo
+.	mte:Z	.
+Če	mte:Cs	če
+je	mte:Va-r3s-n	biti
+Šircelj	mte:Npmsn	Šircelj
+s	mte:Si	z
+Križaničem	mte:Npmsi	Križanič
+včeraj	mte:Rgp	včeraj
+govoril	mte:Vmpp-sm	govoriti
+tudi	mte:Q	tudi
+o	mte:Sl	o
+izhodni	mte:Agpfsl	izhoden
+strategiji	mte:Ncfsl	strategija
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+jo	mte:Pp3fsa--y	on
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+le	mte:Q	le
+nekaj	mte:Rgp	nekaj
+ur	mte:Ncfpg	ura
+kasneje	mte:Rgc	kasno
+kot	mte:Cs	kot
+predsednik	mte:Ncmsn	predsednik
+odbora	mte:Ncmsg	odbor
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+pri	mte:Sl	pri
+strokovnem	mte:Agpmsl	strokoven
+svetu	mte:Ncmsl	svet
+SDS	mte:Npmsn	SDS
+kritiziral	mte:Vmpp-sm	kritizirati
+na	mte:Sl	na
+javni	mte:Agpfsl	javen
+tribuni	mte:Ncfsl	tribuna
+v	mte:Sl	v
+Mostah	mte:Npfpl	Mosta
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+V	mte:Sl	v
+Dnevniku	mte:Ncmsl	dnevnik
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+razkrili	mte:Vmep-pm	razkriti
+,	mte:Z	,
+da	mte:Cs	da
+zadnji	mte:Agpmsny	zadnji
+načrt	mte:Ncmsn	načrt
+predvideva	mte:Vmpr3s	predvidevati
+dokapitalizacijo	mte:Ncfsa	dokapitalizacija
+Gorenjske	mte:Agpfsg	Gorenjska
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ta	mte:Pd-fsn	ta
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+nato	mte:Rgp	nato
+prevzela	mte:Vmep-sf	prevzeti
+Abanko	mte:Npfsa	Abanko
+.	mte:Z	.
+Da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+uresničevanje	mte:Ncnsa	uresničevanje
+tega	mte:Pd-msg	ta
+načrta	mte:Ncmsg	načrt
+v	mte:Sl	v
+gorenjski	mte:Agpfsl	gorenjski
+gospodarski	mte:Agpfsl	gospodarski
+navezi	mte:Ncfsl	naveza
+že	mte:Q	že
+začeli	mte:Vmep-pm	začeti
+,	mte:Z	,
+nakazujejo	mte:Vmpr3p	nakazovati
+tudi	mte:Q	tudi
+zadnji	mte:Agpmpn	zadnji
+dogodki	mte:Ncmpn	dogodek
+.	mte:Z	.
+Kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+razkrili	mte:Vmep-pm	razkriti
+v	mte:Sl	v
+Dnevniku	mte:Ncmsl	dnevnik
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+Daimond	mte:Npmsn	Daimond
+že	mte:Q	že
+prodal	mte:Vmep-sm	prodati
+svoj	mte:Px-msa	svoj
+3,6	mte:Mdc	3,6
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+Abanke	mte:Npfsg	Abanka
+,	mte:Z	,
+Sava	mte:Npfsn	Sava
+oziroma	mte:Cc	oziroma
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+do	mte:Sg	do
+tega	mte:Pd-msg	ta
+deleža	mte:Ncmsg	delež
+dokopali	mte:Vmep-pm	dokopati
+preko	mte:Sg	preko
+KD	mte:Ncfsg	KD
+Banke	mte:Ncfsg	banka
+.	mte:Z	.
+V	mte:Sl	v
+Savi	mte:Npfsl	Sava
+,	mte:Z	,
+KD	mte:Ncfsl	KD
+Banki	mte:Npfsl	banka
+in	mte:Cc	in
+Daimondu	mte:Npmsl	Daimond
+so	mte:Va-r3p-n	biti
+to	mte:Pd-nsa	ta
+sicer	mte:Q	sicer
+zanikali	mte:Vmep-pm	zanikati
+.	mte:Z	.
+V	mte:Sl	v
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+teh	mte:Pd-fpg	ta
+informacij	mte:Ncfpg	informacija
+na	mte:Sl	na
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+niso	mte:Va-r3p-y	biti
+želeli	mte:Vmpp-pm	želeti
+komentirati	mte:Vmbn	komentirati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+posredno	mte:Rgp	posredno
+potrdili	mte:Vmep-pm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+KD	mte:Ncfsn	KD
+Banka	mte:Ncfsn	banka
+njihova	mte:Ps3fsnp	njihov
+stranka	mte:Ncfsn	stranka

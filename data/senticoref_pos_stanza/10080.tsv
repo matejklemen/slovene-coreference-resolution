@@ -1,520 +1,543 @@
-token	tag
-Po	Sl
-anonimnem	Agpnsl
-pismu	Ncnsl
-,	Z
-o	Sl
-katerem	Pq-msl
-poročata	Vmpr3d
-Delo	Ncnsa
-in	Cc
-Slovenske	Agpfpa
-novice	Ncfpa
-,	Z
-naj	Q
-bi	Va-c
-bili	Va-p-pm
-organizatorji	Ncmpn
-protestov	Ncmpg
-v	Sl
-Mariboru	Npmsl
-Saša	Npmsn
-Pelko	Npmsn
-,	Z
-Marko	Npmsn
-Pigac	Npmsn
-in	Cc
-Matej	Npmsn
-Špehar	Npmsn
-,	Z
-začetni	Agpmsny
-koordinator	Ncmsn
-požigov	Ncmpg
-radarjev	Ncmpg
-v	Sl
-Mariboru	Npmsl
-pa	Cc
-Rok	Ncmsn
-Peče	Vmpr3s
-,	Z
-brat	Ncmsn
-Saša	Npmsn
-Pečeta	Npmsn
-.	Z
-Marko	Npmsn
-Pigac	Npmsn
-,	Z
-Rok	Ncmsn
-Peče	Vmpr3s
-in	Cc
-Matej	Npmsn
-Špehar	Npmsn
-vpletenost	Ncfsn
-zanikajo	Vmer3p
-.	Z
-Objava	Ncfsn
-anonimnega	Agpnsg
-pisma	Ncnsg
-,	Z
-v	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-navedeni	Appmpn
-domnevni	Agpmpn
-organizatorji	Ncmpn
-protestov	Ncmpg
-,	Z
-je	Va-r3s-n
-sprožila	Vmep-sf
-val	Ncmsan
-solidarnosti	Ncfsg
-na	Sl
-omrežjih	Ncnpl
-Facebook	Npmsn
-in	Cc
-Twitter	Npmsn
-.	Z
-Vse	Rgp
-več	Rgc
-državljanov	Ncmpg
-zdaj	Rgp
-v	Sl
-statusu	Ncmsl
-na	Sl
-svojem	Px-msl
-profilu	Ncmsl
-sporoča	Vmpr3s
-:	Z
-"	Z
-Jaz	Pp1-sn
-sem	Va-r1s-n
-organizator	Ncmsn
-protestov	Ncmpg
-v	Sl
-Mariboru	Npmsl
-"	Z
-.	Z
-Drugi	Mlpmpn
-jim	Pp3mpd--y
-pritrjujejo	Vmpr3p
-in	Cc
-posameznikom	Ncmpd
-s	Si
-tem	Pd-msi
-statusom	Ncmsi
-denimo	Vmem1p
-sporočajo	Vmpr3p
-:	Z
-"	Z
-Podpiramo	Vmpr1p
-te	Pd-fpa
-pri	Sl
-organizaciji	Ncfsl
-"	Z
-ali	Cc
-pa	Cc
-zatrjujejo	Vmpr3p
-:	Z
-"	Z
-Ne	Q
-,	Z
-jaz	Pp1-sn
-sem	Va-r1s-n
-!	Z
-"	Z
-.	Z
-Glede	Sg
-Pelka	Npmsg
-anonimno	Agpnsn
-pismo	Ncnsa
-po	Sl
-navedbah	Ncfpl
-obeh	Pg-mdg
-časopisov	Ncmdg
-pravi	Vmbr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-lastnik	Ncmsn
-in	Cc
-direktor	Ncmsn
-podjetja	Ncnsg
-Mediasplet	Npmsn
-.	Z
-Bil	Va-p-sm
-naj	Q
-bi	Va-c
-nekdanji	Agpmsny
-član	Ncmsn
-strank	Ncfpg
-AS	Npmsn
-in	Cc
-pozneje	Rgc
-Zares	Rgp
-,	Z
-na	Sl
-svetniških	Agpfpl
-volitvah	Ncfpl
-v	Sl
-Mariboru	Npmsl
-pa	Cc
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-eden	Mlpmsn
-izmed	Sg
-elektorjev	Ncmpg
-.	Z
-"	Z
-Volitev	Ncfpg
-se	Px------y
-je	Va-r3s-n
-udeležil	Vmep-sm
-z	Si
-majico	Ncfsi
-z	Si
-napisom	Ncmsi
-Gotof	Npmsn
-je	Va-r3s-n
-!	Z
-v	Sl
-času	Ncmsl
-,	Z
-ko	Cs
-še	Q
-nihče	Pz-msn
-ni	Va-r3s-y
-imel	Vmpp-sm
-teh	Pd-fpg
-majic	Ncfpg
-,	Z
-saj	Cc
-so	Va-r3p-n
-jih	Pp3mpa--y
-kasneje	Rgc
-natisnili	Vmep-pm
-.	Z
-Vsaj	Q
-desetletje	Ncnsn
-je	Va-r3s-n
-znan	Appmsnn
-in	Cc
-aktiven	Agpmsnn
-na	Sl
-slovenski	Agpfsl
-internetni	Agpfsl
-sceni	Ncfsl
-.	Z
-Je	Va-r3s-n
-dober	Agpmsnn
-prijatelj	Ncmsn
-spletnih	Agpmpg
-koordinatorjev	Ncmpg
-Marka	Npmsg
-Pigaca	Npmsg
-in	Cc
-Mateja	Npmsg
-Špeharja	Npmsg
-,	Z
-"	Z
-pravi	Vmbr3s
-anonimka	Ncfsn
-.	Z
-Pigac	Npmsn
-je	Va-r3s-n
-po	Sl
-navedbah	Ncfpl
-anonimnega	Agpnsg
-pisma	Ncnsg
-dolgoletni	Agpmsny
-fotograf	Ncmsn
-,	Z
-ki	Cs
-deluje	Vmpr3s
-za	Sa
-različne	Agpmpa
-medije	Ncmpa
-.	Z
-"	Z
-Je	Va-r3s-n
-lastnik	Ncmsn
-spletnega	Agpnsg
-portala	Ncnsg
-Pigac.si	Mdc
-,	Z
-ki	Cs
-zagotavlja	Vmpr3s
-fotografski	Agpmsay
-material	Ncmsan
-,	Z
-pripravlja	Vmpr3s
-posnetke	Ncmpa
-in	Cc
-skrbi	Vmpr3s
-za	Sa
-informiranje	Ncnsa
-novinarjev	Ncmpg
-.	Z
-Sodi	Vmpr3s
-med	Sa
-tiste	Pd-mpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-zavajali	Vmpp-pm
-,	Z
-češ	Q
-da	Cs
-so	Va-r3p-n
-policiste	Ncmpa
-napadale	Vmpp-pf
-Viole	Ncfpn
-.	Z
-Njegova	Ps3fsnsm
-vloga	Ncfsn
-je	Va-r3s-n
-,	Z
-da	Cs
-pripravlja	Vmpr3s
-fotomontaže	Ncfpa
-in	Cc
-jih	Pp3fpa--y
-distribuira	Vmpr3s
-.	Z
-"	Z
-Špehar	Npmsn
-strokovnjak	Ncmsn
-za	Sa
-Facebook	Ncmsan
-Za	Sa
-Špeharja	Npmsay
-pa	Cc
-pismo	Ncnsn
-navaja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-najbolj	Rgs
-znan	Appmsnn
-slovenski	Agpmsny
-strokovnjak	Ncmsn
-za	Sa
-Facebook	Ncmsan
-.	Z
-"	Z
-Je	Va-r3s-n
-bivši	Agpmsny
-novinar	Ncmsn
-Radia	Npmsg
-Hit	Npmsn
-in	Cc
-prijatelj	Ncmsn
-Saša	Npmsn
-Pelka	Npmsn
-.	Z
-Na	Sl
-zadnjih	Agpfpl
-mariborskih	Agpfpl
-demonstracijah	Ncfpl
-je	Va-r3s-n
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-Livestream	Npmsn
-organiziral	Vmbp-sm
-prenos	Ncmsan
-demonstracij	Ncfpg
-z	Sg
-mariborskega	Agpmsg
-trga	Ncmsg
-v	Sa
-živo	Ncfsa
-,	Z
-"	Z
-je	Va-r3s-n
-zapisano	Appnsn
-.	Z
-Začetnik	Ncmsn
-požigov	Ncmpg
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-Peče	Agpfsn
-Pismo	Ncnsa
-še	Q
-navaja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-začetni	Agpmsny
-koordinator	Ncmsn
-požigov	Ncmpg
-radarjev	Ncmpg
-Rok	Ncmpg
-Peče	Vmpr3s
-,	Z
-operativno	Rgp
-pa	Cc
-so	Va-r3p-n
-jih	Pp3mpa--y
-"	Z
-izvajali	Vmpp-pm
-mariborski	Agpmpn
-fantje	Ncmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-nekoč	Rgp
-posnemali	Vmpp-pm
-ameriško	Agpfsa
-različico	Ncfsa
-oddaje	Ncfsg
-JackAss	Npmsn
-"	Z
-.	Z
-Vsi	Pg-mpn
-zanikajo	Vmer3p
-udeležbo	Ncfsa
-Pigac	Npmsn
-je	Va-r3s-n
-v	Sl
-izjavi	Ncfsl
-za	Sa
-javnost	Ncfsa
-zapisal	Vmep-sm
-,	Z
-da	Cs
-ni	Va-r3s-y
-nikjer	Rgp
-nikogar	Pz-msg
-hujskal	Vmpp-sm
-ali	Cc
-kakorkoli	Rgp
-podpihoval	Vmpp-sm
-h	Sd
-kaznivim	Agpnpd
-dejanjem	Ncnpd
-in	Cc
-da	Cs
-ne	Q
-vodi	Vmpr3s
-spletne	Agpfsg
-strane	Ncfsg
-"	Z
-Franc	Npmsn
-Kangler	Npmsn
-naj	Q
-odstopi	Vmer3s
-kot	Cs
-župan	Ncmsn
-Maribora	Npmsg
-"	Z
-.	Z
-"	Z
-Sem	Va-r1s-n
-le	Q
-fotoreporter	Ncmsn
-,	Z
-najboljši	Agsmsny
-v	Sl
-svoji	Px-fsl
-branži	Ncfsl
--	Z
-prav	Q
-tako	Rgp
-veljam	Vmpr1s
-za	Sa
-tistega	Pd-nsa
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-ekskluzivne	Agpfpa
-zgodbe	Ncfpa
-iz	Sg
-Maribora	Npmsg
--	Z
-ki	Cs
-na	Sl
-svojem	Px-msl
-osebnem	Agpmsl
-Facebook	Ncmsn
-profilu	Ncmsl
-realno	Rgp
-poroča	Vmpr3s
-in	Cc
-javnost	Ncfsa
-obvešča	Vmpr3s
-o	Sl
-stanju	Ncnsl
-v	Sl
-Mariboru	Npmsl
-,	Z
-"	Z
-je	Va-r3s-n
-zapisal	Vmep-sm
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-še	Q
-,	Z
-da	Cs
-ne	Q
-želi	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-ga	Pp3msa--y
-povezuje	Vmpr3s
-z	Si
-Violami	Npfpi
-,	Z
-in	Cc
-navedel	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-Viole	Ncfpn
-kot	Cs
-organizirana	Appfsn
-navijaška	Agpfsn
-skupina	Ncfsn
-tudi	Q
-po	Sl
-njihovih	Ps3fplp
-lastnih	Agpfpl
-navedbah	Ncfpl
-niso	Va-r3p-y
-udeležile	Vmep-pf
-nobenih	Pz-mpg
-dosedanjih	Agpmpg
-protestov	Ncmpg
-.	Z
-Tudi	Q
-mariborski	Agpmsny
-mestni	Agpmsny
-svetnik	Ncmsn
-Rok	Ncmsn
-Peče	Vmpr3s
-kategorično	Rgp
-zanika	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-imel	Vmpp-sm
-karkoli	Rgp
-s	Si
-požigi	Ncmpi
-radarjev	Ncmpg
-.	Z
-Kot	Cs
-pravi	Vmbr3s
-,	Z
-ga	Pp3msa--y
-žalosti	Ncfpg
-,	Z
-da	Cs
-sliši	Vmbr3s
-take	Pd-fpa
-stvari	Ncfpa
-.	Z
+token	tag	lemma
+Po	mte:Sl	po
+anonimnem	mte:Agpnsl	anonimen
+pismu	mte:Ncnsl	pismo
+,	mte:Z	,
+o	mte:Sl	o
+katerem	mte:Pq-msl	kateri
+poročata	mte:Vmpr3d	poročati
+Delo	mte:Ncnsa	delo
+in	mte:Cc	in
+Slovenske	mte:Agpfpa	slovenski
+novice	mte:Ncfpa	novica
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+organizatorji	mte:Ncmpn	organizator
+protestov	mte:Ncmpg	protest
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+Saša	mte:Npmsn	Sašo
+Pelko	mte:Npmsn	Pelko
+,	mte:Z	,
+Marko	mte:Npmsn	Marko
+Pigac	mte:Npmsn	Pigac
+in	mte:Cc	in
+Matej	mte:Npmsn	Matej
+Špehar	mte:Npmsn	Špehar
+,	mte:Z	,
+začetni	mte:Agpmsny	začeten
+koordinator	mte:Ncmsn	koordinator
+požigov	mte:Ncmpg	požig
+radarjev	mte:Ncmpg	radar
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+pa	mte:Cc	pa
+Rok	mte:Ncmsn	rok
+Peče	mte:Vmpr3s	peči
+,	mte:Z	,
+brat	mte:Ncmsn	brat
+Saša	mte:Npmsn	Sašo
+Pečeta	mte:Npmsn	Peče
+.	mte:Z	.
+Marko	mte:Npmsn	Marko
+Pigac	mte:Npmsn	Pigac
+,	mte:Z	,
+Rok	mte:Ncmsn	rok
+Peče	mte:Vmpr3s	peči
+in	mte:Cc	in
+Matej	mte:Npmsn	Matej
+Špehar	mte:Npmsn	Špehar
+vpletenost	mte:Ncfsn	vpletenost
+zanikajo	mte:Vmer3p	zanikati
+.	mte:Z	.
+Objava	mte:Ncfsn	objava
+anonimnega	mte:Agpnsg	anonimen
+pisma	mte:Ncnsg	pismo
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+navedeni	mte:Appmpn	naveden
+domnevni	mte:Agpmpn	domneven
+organizatorji	mte:Ncmpn	organizator
+protestov	mte:Ncmpg	protest
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+sprožila	mte:Vmep-sf	sprožiti
+val	mte:Ncmsan	val
+solidarnosti	mte:Ncfsg	solidarnost
+na	mte:Sl	na
+omrežjih	mte:Ncnpl	omrežje
+Facebook	mte:Npmsn	Facebook
+in	mte:Cc	in
+Twitter	mte:Npmsn	Twitter
+.	mte:Z	.
+Vse	mte:Rgp	vse
+več	mte:Rgc	več
+državljanov	mte:Ncmpg	državljan
+zdaj	mte:Rgp	zdaj
+v	mte:Sl	v
+statusu	mte:Ncmsl	status
+na	mte:Sl	na
+svojem	mte:Px-msl	svoj
+profilu	mte:Ncmsl	profilo
+sporoča	mte:Vmpr3s	sporočati
+:	mte:Z	:
+"	mte:Z	"
+Jaz	mte:Pp1-sn	jaz
+sem	mte:Va-r1s-n	biti
+organizator	mte:Ncmsn	organizator
+protestov	mte:Ncmpg	protest
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+"	mte:Z	"
+.	mte:Z	.
+Drugi	mte:Mlpmpn	drug
+jim	mte:Pp3mpd--y	on
+pritrjujejo	mte:Vmpr3p	pritrjevati
+in	mte:Cc	in
+posameznikom	mte:Ncmpd	posameznik
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+statusom	mte:Ncmsi	status
+denimo	mte:Vmem1p	deti
+sporočajo	mte:Vmpr3p	sporočati
+:	mte:Z	:
+"	mte:Z	"
+Podpiramo	mte:Vmpr1p	podpirati
+te	mte:Pd-fpa	ta
+pri	mte:Sl	pri
+organizaciji	mte:Ncfsl	organizacija
+"	mte:Z	"
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+zatrjujejo	mte:Vmpr3p	zatrjevati
+:	mte:Z	:
+"	mte:Z	"
+Ne	mte:Q	ne
+,	mte:Z	,
+jaz	mte:Pp1-sn	jaz
+sem	mte:Va-r1s-n	biti
+!	mte:Z	!
+"	mte:Z	"
+.	mte:Z	.
+Glede	mte:Sg	glede
+Pelka	mte:Npmsg	Pelka
+anonimno	mte:Agpnsn	anonimen
+pismo	mte:Ncnsa	pismo
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+obeh	mte:Pg-mdg	oba
+časopisov	mte:Ncmdg	časopis
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+lastnik	mte:Ncmsn	lastnik
+in	mte:Cc	in
+direktor	mte:Ncmsn	direktor
+podjetja	mte:Ncnsg	podjetje
+Mediasplet	mte:Npmsn	Mediasplet
+.	mte:Z	.
+Bil	mte:Va-p-sm	biti
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+nekdanji	mte:Agpmsny	nekdanji
+član	mte:Ncmsn	član
+strank	mte:Ncfpg	stranka
+AS	mte:Npmsn	AS
+in	mte:Cc	in
+pozneje	mte:Rgc	pozno
+Zares	mte:Rgp	zares
+,	mte:Z	,
+na	mte:Sl	na
+svetniških	mte:Agpfpl	svetniški
+volitvah	mte:Ncfpl	volitev
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+eden	mte:Mlpmsn	eden
+izmed	mte:Sg	izmed
+elektorjev	mte:Ncmpg	elektor
+.	mte:Z	.
+"	mte:Z	"
+Volitev	mte:Ncfpg	volitev
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+udeležil	mte:Vmep-sm	udeležiti
+z	mte:Si	z
+majico	mte:Ncfsi	majica
+z	mte:Si	z
+napisom	mte:Ncmsi	napis
+Gotof	mte:Npmsn	Gotof
+je	mte:Va-r3s-n	biti
+!	mte:Z	!
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+,	mte:Z	,
+ko	mte:Cs	ko
+še	mte:Q	še
+nihče	mte:Pz-msn	nihče
+ni	mte:Va-r3s-y	biti
+imel	mte:Vmpp-sm	imeti
+teh	mte:Pd-fpg	ta
+majic	mte:Ncfpg	majica
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+kasneje	mte:Rgc	kasno
+natisnili	mte:Vmep-pm	natisniti
+.	mte:Z	.
+Vsaj	mte:Q	vsaj
+desetletje	mte:Ncnsn	desetletje
+je	mte:Va-r3s-n	biti
+znan	mte:Appmsnn	znan
+in	mte:Cc	in
+aktiven	mte:Agpmsnn	aktiven
+na	mte:Sl	na
+slovenski	mte:Agpfsl	slovenski
+internetni	mte:Agpfsl	interneten
+sceni	mte:Ncfsl	scena
+.	mte:Z	.
+Je	mte:Va-r3s-n	biti
+dober	mte:Agpmsnn	dober
+prijatelj	mte:Ncmsn	prijatelj
+spletnih	mte:Agpmpg	spleten
+koordinatorjev	mte:Ncmpg	koordinator
+Marka	mte:Npmsg	Marko
+Pigaca	mte:Npmsg	Pigac
+in	mte:Cc	in
+Mateja	mte:Npmsg	Mateja
+Špeharja	mte:Npmsg	Špehar
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+anonimka	mte:Ncfsn	anonimka
+.	mte:Z	.
+Pigac	mte:Npmsn	Pigac
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+anonimnega	mte:Agpnsg	anonimen
+pisma	mte:Ncnsg	pismo
+dolgoletni	mte:Agpmsny	dolgoleten
+fotograf	mte:Ncmsn	fotograf
+,	mte:Z	,
+ki	mte:Cs	ki
+deluje	mte:Vmpr3s	delovati
+za	mte:Sa	za
+različne	mte:Agpmpa	različen
+medije	mte:Ncmpa	medij
+.	mte:Z	.
+"	mte:Z	"
+Je	mte:Va-r3s-n	biti
+lastnik	mte:Ncmsn	lastnik
+spletnega	mte:Agpnsg	spleten
+portala	mte:Ncnsg	portala
+Pigac.si	mte:Mdc	pigac.si
+,	mte:Z	,
+ki	mte:Cs	ki
+zagotavlja	mte:Vmpr3s	zagotavljati
+fotografski	mte:Agpmsay	fotografski
+material	mte:Ncmsan	material
+,	mte:Z	,
+pripravlja	mte:Vmpr3s	pripravljati
+posnetke	mte:Ncmpa	posnetek
+in	mte:Cc	in
+skrbi	mte:Vmpr3s	skrbeti
+za	mte:Sa	za
+informiranje	mte:Ncnsa	informiranje
+novinarjev	mte:Ncmpg	novinar
+.	mte:Z	.
+Sodi	mte:Vmpr3s	soditi
+med	mte:Sa	med
+tiste	mte:Pd-mpa	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zavajali	mte:Vmpp-pm	zavajati
+,	mte:Z	,
+češ	mte:Q	češ
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+policiste	mte:Ncmpa	policist
+napadale	mte:Vmpp-pf	napadati
+Viole	mte:Ncfpn	viola
+.	mte:Z	.
+Njegova	mte:Ps3fsnsm	njegov
+vloga	mte:Ncfsn	vloga
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+pripravlja	mte:Vmpr3s	pripravljati
+fotomontaže	mte:Ncfpa	fotomontaža
+in	mte:Cc	in
+jih	mte:Pp3fpa--y	on
+distribuira	mte:Vmpr3s	distribuirati
+.	mte:Z	.
+"	mte:Z	"
+Špehar	mte:Npmsn	Špehar
+strokovnjak	mte:Ncmsn	strokovnjak
+za	mte:Sa	za
+Facebook	mte:Ncmsan	facebook
+Za	mte:Sa	za
+Špeharja	mte:Npmsay	Špehar
+pa	mte:Cc	pa
+pismo	mte:Ncnsn	pismo
+navaja	mte:Vmpr3s	navajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+najbolj	mte:Rgs	najbolj
+znan	mte:Appmsnn	znan
+slovenski	mte:Agpmsny	slovenski
+strokovnjak	mte:Ncmsn	strokovnjak
+za	mte:Sa	za
+Facebook	mte:Ncmsan	facebook
+.	mte:Z	.
+"	mte:Z	"
+Je	mte:Va-r3s-n	biti
+bivši	mte:Agpmsny	bivši
+novinar	mte:Ncmsn	novinar
+Radia	mte:Npmsg	Radia
+Hit	mte:Npmsn	Hit
+in	mte:Cc	in
+prijatelj	mte:Ncmsn	prijatelj
+Saša	mte:Npmsn	Sašo
+Pelka	mte:Npmsn	Pelka
+.	mte:Z	.
+Na	mte:Sl	na
+zadnjih	mte:Agpfpl	zadnji
+mariborskih	mte:Agpfpl	mariborski
+demonstracijah	mte:Ncfpl	demonstracija
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+Livestream	mte:Npmsn	Livestream
+organiziral	mte:Vmbp-sm	organizirati
+prenos	mte:Ncmsan	prenos
+demonstracij	mte:Ncfpg	demonstracija
+z	mte:Sg	z
+mariborskega	mte:Agpmsg	mariborski
+trga	mte:Ncmsg	trg
+v	mte:Sa	v
+živo	mte:Ncfsa	živo
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+zapisano	mte:Appnsn	zapisan
+.	mte:Z	.
+Začetnik	mte:Ncmsn	začetnik
+požigov	mte:Ncmpg	požig
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+Peče	mte:Agpfsn	peči
+Pismo	mte:Ncnsa	pismo
+še	mte:Q	še
+navaja	mte:Vmpr3s	navajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+začetni	mte:Agpmsny	začeten
+koordinator	mte:Ncmsn	koordinator
+požigov	mte:Ncmpg	požig
+radarjev	mte:Ncmpg	radar
+Rok	mte:Ncmpg	rok
+Peče	mte:Vmpr3s	peči
+,	mte:Z	,
+operativno	mte:Rgp	operativen
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+"	mte:Z	"
+izvajali	mte:Vmpp-pm	izvajati
+mariborski	mte:Agpmpn	mariborski
+fantje	mte:Ncmpn	fant
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+nekoč	mte:Rgp	nekoč
+posnemali	mte:Vmpp-pm	posnemati
+ameriško	mte:Agpfsa	ameriški
+različico	mte:Ncfsa	različica
+oddaje	mte:Ncfsg	oddaja
+JackAss	mte:Npmsn	JackAss
+"	mte:Z	"
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+zanikajo	mte:Vmer3p	zanikati
+udeležbo	mte:Ncfsa	udeležba
+Pigac	mte:Npmsn	Pigac
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+nikjer	mte:Rgp	nikjer
+nikogar	mte:Pz-msg	nihče
+hujskal	mte:Vmpp-sm	hujskati
+ali	mte:Cc	ali
+kakorkoli	mte:Rgp	kakorkoli
+podpihoval	mte:Vmpp-sm	podpihovati
+h	mte:Sd	k
+kaznivim	mte:Agpnpd	kazniv
+dejanjem	mte:Ncnpd	dejanje
+in	mte:Cc	in
+da	mte:Cs	da
+ne	mte:Q	ne
+vodi	mte:Vmpr3s	voditi
+spletne	mte:Agpfsg	spleten
+strane	mte:Ncfsg	stran
+"	mte:Z	"
+Franc	mte:Npmsn	Franc
+Kangler	mte:Npmsn	Kangler
+naj	mte:Q	naj
+odstopi	mte:Vmer3s	odstopiti
+kot	mte:Cs	kot
+župan	mte:Ncmsn	župan
+Maribora	mte:Npmsg	Maribor
+"	mte:Z	"
+.	mte:Z	.
+"	mte:Z	"
+Sem	mte:Va-r1s-n	biti
+le	mte:Q	le
+fotoreporter	mte:Ncmsn	fotoreporter
+,	mte:Z	,
+najboljši	mte:Agsmsny	dober
+v	mte:Sl	v
+svoji	mte:Px-fsl	svoj
+branži	mte:Ncfsl	branža
+-	mte:Z	-
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+veljam	mte:Vmpr1s	veljati
+za	mte:Sa	za
+tistega	mte:Pd-nsa	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+ekskluzivne	mte:Agpfpa	ekskluziven
+zgodbe	mte:Ncfpa	zgodba
+iz	mte:Sg	iz
+Maribora	mte:Npmsg	Maribor
+-	mte:Z	-
+ki	mte:Cs	ki
+na	mte:Sl	na
+svojem	mte:Px-msl	svoj
+osebnem	mte:Agpmsl	oseben
+Facebook	mte:Ncmsn	facebook
+profilu	mte:Ncmsl	profilo
+realno	mte:Rgp	realno
+poroča	mte:Vmpr3s	poročati
+in	mte:Cc	in
+javnost	mte:Ncfsa	javnost
+obvešča	mte:Vmpr3s	obveščati
+o	mte:Sl	o
+stanju	mte:Ncnsl	stanje
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+ga	mte:Pp3msa--y	on
+povezuje	mte:Vmpr3s	povezovati
+z	mte:Si	z
+Violami	mte:Npfpi	Viola
+,	mte:Z	,
+in	mte:Cc	in
+navedel	mte:Vmep-sm	navesti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Viole	mte:Ncfpn	viola
+kot	mte:Cs	kot
+organizirana	mte:Appfsn	organiziran
+navijaška	mte:Agpfsn	navijaški
+skupina	mte:Ncfsn	skupina
+tudi	mte:Q	tudi
+po	mte:Sl	po
+njihovih	mte:Ps3fplp	njihov
+lastnih	mte:Agpfpl	lasten
+navedbah	mte:Ncfpl	navedba
+niso	mte:Va-r3p-y	biti
+udeležile	mte:Vmep-pf	udeležiti
+nobenih	mte:Pz-mpg	noben
+dosedanjih	mte:Agpmpg	dosedanji
+protestov	mte:Ncmpg	protest
+.	mte:Z	.
+Tudi	mte:Q	tudi
+mariborski	mte:Agpmsny	mariborski
+mestni	mte:Agpmsny	mesten
+svetnik	mte:Ncmsn	svetnik
+Rok	mte:Ncmsn	rok
+Peče	mte:Vmpr3s	peči
+kategorično	mte:Rgp	kategorično
+zanika	mte:Vmpr3s	zanikati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+karkoli	mte:Rgp	karkoli
+s	mte:Si	z
+požigi	mte:Ncmpi	požig
+radarjev	mte:Ncmpg	radar
+.	mte:Z	.
+Kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+ga	mte:Pp3msa--y	on
+žalosti	mte:Ncfsg	žalost
+,	mte:Z	,
+da	mte:Cs	da
+sliši	mte:Vmbr3s	slišati
+take	mte:Pd-fpa	tak
+stvari	mte:Ncfpa	stvar
+.	mte:Z	.
+"	mte:Z	"
+Vem	mte:Vmpr1s	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+sem	mte:Va-r1s-n	biti
+trn	mte:Ncmsn	trn
+v	mte:Sl	v
+peti	mte:Mlofsl	peti
+nekomu	mte:Pi-msl	nekdo
+,	mte:Z	,
+nisem	mte:Va-r1s-y	biti
+si	mte:Px---d--y	se
+pa	mte:Cc	pa
+mislil	mte:Vmpp-sm	misliti
+,	mte:Z	,
+da	mte:Cs	da
+sem	mte:Va-r1s-n	biti
+tako	mte:Rgp	tako
+velik	mte:Agpmsnn	velik
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati

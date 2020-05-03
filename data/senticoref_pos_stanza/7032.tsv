@@ -1,370 +1,420 @@
-token	tag
-Italijanski	Agpmpn
-časniki	Ncmpn
-poročajo	Vmpr3p
-o	Sl
-posebnem	Agpmsl
-slovenskem	Agpmsl
-dokumentu	Ncmsl
-Slovenija	Npfsn
-naj	Q
-bi	Va-c
-privolila	Vmep-sf
-v	Sa
-gradnjo	Ncfsa
-italijanskega	Agpmsg
-plinskega	Agpmsg
-terminala	Ncmsg
-v	Sl
-Žavljah	Npfpl
-,	Z
-če	Cs
-Italija	Npfsn
-ne	Q
-bi	Va-c
-nasprotovala	Vmpp-sf
-gradnji	Ncfsd
-slovenskega	Agpmsg
-v	Sl
-Kopru	Npmsl
-,	Z
-pišejo	Vmpr3p
-italijanski	Agpmpn
-mediji	Ncmpn
-.	Z
-To	Pd-nsn
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-Slovenija	Npfsn
-želela	Vmpp-sf
-graditi	Vmpn
-plinski	Agpmsay
-terminal	Ncmsan
-v	Sl
-Kopru	Npmsl
-,	Z
-je	Va-r3s-n
-v	Sa
-ponedeljek	Ncmsan
-zatrdil	Vmep-sm
-podtajnik	Ncmsn
-pri	Sl
-italijanskem	Agpnsl
-ministrstvu	Ncnsl
-za	Sa
-okolje	Ncnsa
-Roberto	Npmsn
-Menia	Npmsn
-.	Z
-Podrobnosti	Ncfsg
-ni	Va-r3s-y
-predstvail	Vmpp-sm
-,	Z
-je	Va-r3s-n
-pa	Cc
-dejal	Vmep-sm
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-Slovenija	Npfsn
-nasprotovala	Vmpp-sf
-gradnji	Ncfsd
-podmorskega	Agpmsg
-plinovoda	Ncmsg
-,	Z
-ki	Cs
-bi	Va-c
-žaveljski	Agpmsay
-terminal	Ncmsan
-povezoval	Vmpp-sm
-s	Si
-plinsko	Agpfsi
-centralo	Ncfsi
-v	Sl
-Vilešu	Npmsl
-v	Sl
-Furlaniji	Npfsl
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-zavzemala	Vmpp-sf
-za	Sa
-gradnjo	Ncfsa
-plinovoda	Ncmsg
-na	Sl
-kopnem	Ncnsl
-.	Z
-Po	Sl
-pisanju	Ncnsl
-tržaških	Agpmpg
-dnevnikov	Ncmpg
-Il	Npmsn
-Piccolo	Npmsn
-in	Cc
-Primorski	Agpmsny
-dnevnik	Ncmsn
-je	Va-r3s-n
-slovenski	Agpmsny
-veto	Ncmsn
-na	Sa
-žaveljski	Agpmsay
-terminal	Ncmsan
-za	Sa
-Manio	Npmsan
-popolnoma	Rgp
-neupravičen	Agpmsnn
-in	Cc
-neprimeren	Agpmsnn
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-Ljubljana	Npfsn
-želela	Vmpp-sf
-preprečiti	Vmen
-italijanske	Agpmpa
-načrte	Ncmpa
-,	Z
-po	Sl
-drugi	Mlpfsl
-pa	Cc
-si	Px---d--y
-na	Sl
-tihem	Ncmsl
-prizadeva	Vmpr3s
-za	Sa
-koprski	Agpmsay
-terminal	Ncmsan
-.	Z
-Ali	Npmsn
-t	Ncmsn
-.	Z
-i	Ncmsn
-.	Z
-non	Ncmsn
-paper	Ncmsn
-res	Rgp
-obstaja	Vmpr3s
-?	Z
-Obstajal	Vmpp-sm
-naj	Q
-bi	Va-c
-nepodpisan	Agpmsnn
-dokument	Ncmsn
-oz	Ncmsn
-.	Z
-t	Xf
-.	Z
-i	Xf
-.	Z
-non	Xf
-paper	Xf
-,	Z
-ki	Cs
-vsebuje	Vmpr3s
-predlog	Ncmsan
-ekipe	Ncfsg
-slovenskih	Agpmpg
-tehnikov	Ncmpg
-in	Cc
-politikov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-v	Sl
-zadnjih	Agpmpl
-mesecih	Ncmpl
-ukvarjali	Vmpp-pm
-s	Si
-tem	Pd-nsi
-vprašanjem	Ncnsi
-.	Z
-Po	Sl
-pisanju	Ncnsl
-Il	Ncmsn
-Piccola	Npfsn
-naj	Q
-bi	Va-c
-Slovenija	Npfsn
-zahtevala	Vmbp-sf
-,	Z
-da	Cs
-se	Px------y
-Italija	Npfsn
-odpove	Vmer3s
-gradnji	Ncfsd
-morskega	Agpmsg
-terminala	Ncmsg
-sredi	Sg
-Tržaškega	Agpmsg
-zaliva	Ncmsg
-,	Z
-naj	Cs
-pa	Cc
-ne	Q
-bi	Va-c
-nasprotovala	Vmpp-sf
-gradnji	Ncfsd
-kopenskega	Agpmsg
-terminala	Ncmsg
-pri	Sl
-Žavljah	Npfpl
-,	Z
-če	Cs
-bi	Va-c
-se	Px------y
-ta	Pd-msn
-gradil	Vmpp-sm
-z	Si
-uporabo	Ncfsi
-najboljših	Agsfpg
-mogočih	Agpfpg
-tehnologij	Ncfpg
-in	Cc
-če	Cs
-bi	Va-c
-znižali	Vmep-pm
-vpliv	Ncmsan
-na	Sa
-okolje	Ncnsa
-na	Sa
-najmanjšo	Agsfsa
-stopnjo	Ncfsa
-.	Z
-Vse	Pg-nsa
-to	Pd-nsa
-pod	Si
-pogojem	Ncmsi
-,	Z
-da	Cs
-Italija	Npfsn
-ne	Q
-bi	Va-c
-nasprotovala	Vmpp-sf
-morebitni	Agpfsd
-gradnji	Ncfsd
-slovenskega	Agpmsg
-plinskega	Agpmsg
-terminala	Ncmsg
-v	Sl
-Kopru	Npmsl
-.	Z
-Il	Npmsn
-Piccolo	Npmsn
-še	Q
-piše	Vmpr3s
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-na	Sl
-slovenskem	Agpnsl
-ministrstvu	Ncnsl
-za	Sa
-okolje	Ncnsa
-v	Sl
-zvezi	Ncfsl
-z	Si
-vsebino	Ncfsi
-omenjenega	Appmsg
-dokumenta	Ncmsg
-vladala	Vmpp-sf
-velika	Agpfsn
-zadrega	Ncfsn
-.	Z
-Juri	Npmsn
-od	Sg
-Žarnića	Npmsg
-in	Cc
-Žbogarja	Npmsg
-zahteva	Vmbr3s
-odgovor	Ncmsan
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-okolje	Ncnsa
-in	Cc
-prostor	Ncmsan
-omenjenih	Appfpg
-navedb	Ncfpg
-še	Q
-niso	Va-r3p-y
-komentirali	Vmbp-pm
-.	Z
-Poslanec	Ncmsn
-SD	Npmsn
--	Z
-ja	Q
-Luka	Npmsn
-Juri	Npmsn
-pa	Cc
-je	Va-r3s-n
-na	Sa
-okoljskega	Agpmsa
-ministra	Ncmsay
-Roka	Ncmsg
-Žarnića	Npmsg
-in	Cc
-zunanjega	Agpmsa
-ministra	Ncmsay
-Samuela	Npmsay
-Žbogarja	Npmsay
-že	Q
-naslovil	Vmep-sm
-poslansko	Agpnsa
-vprašanje	Ncnsa
-,	Z
-v	Sl
-katerem	Pq-msl
-ju	Pp3mda--y
-sprašuje	Vmpr3s
-,	Z
-ali	Rgp
-takšen	Pd-msn
-neuradni	Agpmsny
-predlog	Ncmsn
-v	Sl
-obliki	Ncfsl
-non	Ncmsn
--	Z
-paper	Ncmsn
-res	Rgp
-obstaja	Vmpr3s
-.	Z
-Če	Cs
-obstaja	Vmpr3s
-,	Z
-sprašujem	Vmpr1s
-,	Z
-kateri	Pq-msn
-vladni	Agpmsny
-oz	Ncmsn
-.	Z
-ministrski	Agpmsny
-organ	Ncmsn
-je	Va-r3s-n
-zanj	Pp3msa--b
-odgovoren	Agpmsnn
-ter	Cc
-na	Sl
-podlagi	Ncfsl
-kakšne	Pq-fsg
-odločitve	Ncfsg
-je	Va-r3s-n
-bil	Va-p-sm
-napisan	Appmsnn
-ter	Cc
-posredovan	Appmsnn
-italijanski	Agpfsd
-strani	Ncfsd
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-Juri	Npmsn
-.	Z
+token	tag	lemma
+Italijanski	mte:Agpmpn	italijanski
+časniki	mte:Ncmpn	časnik
+poročajo	mte:Vmpr3p	poročati
+o	mte:Sl	o
+posebnem	mte:Agpmsl	poseben
+slovenskem	mte:Agpmsl	slovenski
+dokumentu	mte:Ncmsl	dokument
+Slovenija	mte:Npfsn	Slovenija
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+privolila	mte:Vmep-sf	privoliti
+v	mte:Sa	v
+gradnjo	mte:Ncfsa	gradnja
+italijanskega	mte:Agpmsg	italijanski
+plinskega	mte:Agpmsg	plinski
+terminala	mte:Ncmsg	terminal
+v	mte:Sl	v
+Žavljah	mte:Npfpl	Žavelje
+,	mte:Z	,
+če	mte:Cs	če
+Italija	mte:Npfsn	Italija
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+nasprotovala	mte:Vmpp-sf	nasprotovati
+gradnji	mte:Ncfsd	gradnja
+slovenskega	mte:Agpmsg	slovenski
+v	mte:Sl	v
+Kopru	mte:Npmsl	Koper
+,	mte:Z	,
+pišejo	mte:Vmpr3p	pisati
+italijanski	mte:Agpmpn	italijanski
+mediji	mte:Ncmpn	medij
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Slovenija	mte:Npfsn	Slovenija
+želela	mte:Vmpp-sf	želeti
+graditi	mte:Vmpn	graditi
+plinski	mte:Agpmsay	plinski
+terminal	mte:Ncmsan	terminal
+v	mte:Sl	v
+Kopru	mte:Npmsl	Koper
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+zatrdil	mte:Vmep-sm	zatrditi
+podtajnik	mte:Ncmsn	podtajnik
+pri	mte:Sl	pri
+italijanskem	mte:Agpnsl	italijanski
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+Roberto	mte:Npmsn	Roberto
+Menia	mte:Npmsn	Menia
+.	mte:Z	.
+Podrobnosti	mte:Ncfsg	podrobnost
+ni	mte:Va-r3s-y	biti
+predstvail	mte:Vmpp-sm	predstvaiti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pa	mte:Cc	pa
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Slovenija	mte:Npfsn	Slovenija
+nasprotovala	mte:Vmpp-sf	nasprotovati
+gradnji	mte:Ncfsd	gradnja
+podmorskega	mte:Agpmsg	podmorski
+plinovoda	mte:Ncmsg	plinovod
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+žaveljski	mte:Agpmsay	žaveljski
+terminal	mte:Ncmsan	terminal
+povezoval	mte:Vmpp-sm	povezovati
+s	mte:Si	z
+plinsko	mte:Agpfsi	plinski
+centralo	mte:Ncfsi	centralo
+v	mte:Sl	v
+Vilešu	mte:Npmsl	Vileš
+v	mte:Sl	v
+Furlaniji	mte:Npfsl	Furlanija
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+zavzemala	mte:Vmpp-sf	zavzemati
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+plinovoda	mte:Ncmsg	plinovod
+na	mte:Sl	na
+kopnem	mte:Ncnsl	kopno
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+tržaških	mte:Agpmpg	tržaški
+dnevnikov	mte:Ncmpg	dnevnik
+Il	mte:Npmsn	Il
+Piccolo	mte:Npmsn	Piccolo
+in	mte:Cc	in
+Primorski	mte:Agpmsny	primorski
+dnevnik	mte:Ncmsn	dnevnik
+je	mte:Va-r3s-n	biti
+slovenski	mte:Agpmsny	slovenski
+veto	mte:Ncmsn	veto
+na	mte:Sa	na
+žaveljski	mte:Agpmsay	žaveljski
+terminal	mte:Ncmsan	terminal
+za	mte:Sa	za
+Manio	mte:Npmsan	Mania
+popolnoma	mte:Rgp	popolnoma
+neupravičen	mte:Agpmsnn	neupravičen
+in	mte:Cc	in
+neprimeren	mte:Agpmsnn	neprimeren
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Ljubljana	mte:Npfsn	Ljubljana
+želela	mte:Vmpp-sf	želeti
+preprečiti	mte:Vmen	preprečiti
+italijanske	mte:Agpmpa	italijanski
+načrte	mte:Ncmpa	načrt
+,	mte:Z	,
+po	mte:Sl	po
+drugi	mte:Mlpfsl	drug
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+na	mte:Sl	na
+tihem	mte:Ncmsl	tih
+prizadeva	mte:Vmpr3s	prizadevati
+za	mte:Sa	za
+koprski	mte:Agpmsay	koprski
+terminal	mte:Ncmsan	terminal
+.	mte:Z	.
+Ali	mte:Npmsn	Ali
+t	mte:Ncmsn	t
+.	mte:Z	.
+i	mte:Ncmsn	i
+.	mte:Z	.
+non	mte:Ncmsn	nona
+paper	mte:Ncmsn	paper
+res	mte:Rgp	res
+obstaja	mte:Vmpr3s	obstajati
+?	mte:Z	?
+Obstajal	mte:Vmpp-sm	obstajati
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+nepodpisan	mte:Agpmsnn	nepodpisan
+dokument	mte:Ncmsn	dokument
+oz	mte:Ncmsn	oz
+.	mte:Z	.
+t	mte:Xf	t
+.	mte:Z	.
+i	mte:Xf	i
+.	mte:Z	.
+non	mte:Xf	non
+paper	mte:Xf	paper
+,	mte:Z	,
+ki	mte:Cs	ki
+vsebuje	mte:Vmpr3s	vsebovati
+predlog	mte:Ncmsan	predlog
+ekipe	mte:Ncfsg	ekipa
+slovenskih	mte:Agpmpg	slovenski
+tehnikov	mte:Ncmpg	tehnik
+in	mte:Cc	in
+politikov	mte:Ncmpg	politik
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+mesecih	mte:Ncmpl	mesec
+ukvarjali	mte:Vmpp-pm	ukvarjati
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+vprašanjem	mte:Ncnsi	vprašanje
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Il	mte:Ncmsn	Il
+Piccola	mte:Npfsn	Piccol
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Slovenija	mte:Npfsn	Slovenija
+zahtevala	mte:Vmbp-sf	zahtevati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Italija	mte:Npfsn	Italija
+odpove	mte:Vmer3s	odpovedati
+gradnji	mte:Ncfsd	gradnja
+morskega	mte:Agpmsg	morski
+terminala	mte:Ncmsg	terminal
+sredi	mte:Sg	sredi
+Tržaškega	mte:Agpmsg	tržaški
+zaliva	mte:Ncmsg	zaliv
+,	mte:Z	,
+naj	mte:Cs	naj
+pa	mte:Cc	pa
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+nasprotovala	mte:Vmpp-sf	nasprotovati
+gradnji	mte:Ncfsd	gradnja
+kopenskega	mte:Agpmsg	kopenski
+terminala	mte:Ncmsg	terminal
+pri	mte:Sl	pri
+Žavljah	mte:Npfpl	Žavelje
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+ta	mte:Pd-msn	ta
+gradil	mte:Vmpp-sm	graditi
+z	mte:Si	z
+uporabo	mte:Ncfsi	uporaba
+najboljših	mte:Agsfpg	dober
+mogočih	mte:Agpfpg	mogoč
+tehnologij	mte:Ncfpg	tehnologija
+in	mte:Cc	in
+če	mte:Cs	če
+bi	mte:Va-c	biti
+znižali	mte:Vmep-pm	znižati
+vpliv	mte:Ncmsan	vpliv
+na	mte:Sa	na
+okolje	mte:Ncnsa	okolje
+na	mte:Sa	na
+najmanjšo	mte:Agsfsa	majhen
+stopnjo	mte:Ncfsa	stopnja
+.	mte:Z	.
+Vse	mte:Pg-nsa	ves
+to	mte:Pd-nsa	ta
+pod	mte:Si	pod
+pogojem	mte:Ncmsi	pogoj
+,	mte:Z	,
+da	mte:Cs	da
+Italija	mte:Npfsn	Italija
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+nasprotovala	mte:Vmpp-sf	nasprotovati
+morebitni	mte:Agpfsd	morebiten
+gradnji	mte:Ncfsd	gradnja
+slovenskega	mte:Agpmsg	slovenski
+plinskega	mte:Agpmsg	plinski
+terminala	mte:Ncmsg	terminal
+v	mte:Sl	v
+Kopru	mte:Npmsl	Koper
+.	mte:Z	.
+Il	mte:Npmsn	Il
+Piccolo	mte:Npmsn	Piccolo
+še	mte:Q	še
+piše	mte:Vmpr3s	pisati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+na	mte:Sl	na
+slovenskem	mte:Agpnsl	slovenski
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+vsebino	mte:Ncfsi	vsebina
+omenjenega	mte:Appmsg	omenjen
+dokumenta	mte:Ncmsg	dokument
+vladala	mte:Vmpp-sf	vladati
+velika	mte:Agpfsn	velik
+zadrega	mte:Ncfsn	zadrega
+.	mte:Z	.
+Juri	mte:Npmsn	Juri
+od	mte:Sg	od
+Žarnića	mte:Npmsg	Žarnić
+in	mte:Cc	in
+Žbogarja	mte:Npmsg	Žbogar
+zahteva	mte:Vmbr3s	zahtevati
+odgovor	mte:Ncmsan	odgovor
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+in	mte:Cc	in
+prostor	mte:Ncmsan	prostor
+omenjenih	mte:Appfpg	omenjen
+navedb	mte:Ncfpg	navedba
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+komentirali	mte:Vmbp-pm	komentirati
+.	mte:Z	.
+Poslanec	mte:Ncmsn	poslanec
+SD	mte:Npmsn	SD
+-	mte:Z	-
+ja	mte:Q	ja
+Luka	mte:Npmsn	Luka
+Juri	mte:Npmsn	Juri
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+okoljskega	mte:Agpmsa	okoljski
+ministra	mte:Ncmsay	minister
+Roka	mte:Ncmsg	roka
+Žarnića	mte:Npmsg	Žarnić
+in	mte:Cc	in
+zunanjega	mte:Agpmsa	zunanji
+ministra	mte:Ncmsay	minister
+Samuela	mte:Npmsay	Samuel
+Žbogarja	mte:Npmsay	Žbogar
+že	mte:Q	že
+naslovil	mte:Vmep-sm	nasloviti
+poslansko	mte:Agpnsa	poslanski
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+ju	mte:Pp3mda--y	on
+sprašuje	mte:Vmpr3s	spraševati
+,	mte:Z	,
+ali	mte:Rgp	ali
+takšen	mte:Pd-msn	takšen
+neuradni	mte:Agpmsny	neuraden
+predlog	mte:Ncmsn	predlog
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+non	mte:Ncmsn	nona
+-	mte:Z	-
+paper	mte:Ncmsn	paper
+res	mte:Rgp	res
+obstaja	mte:Vmpr3s	obstajati
+.	mte:Z	.
+Če	mte:Cs	če
+obstaja	mte:Vmpr3s	obstajati
+,	mte:Z	,
+sprašujem	mte:Vmpr1s	spraševati
+,	mte:Z	,
+kateri	mte:Pq-msn	kateri
+vladni	mte:Agpmsny	vladen
+oz	mte:Ncmsn	oz
+.	mte:Z	.
+ministrski	mte:Agpmsny	ministrski
+organ	mte:Ncmsn	organ
+je	mte:Va-r3s-n	biti
+zanj	mte:Pp3msa--b	zame
+odgovoren	mte:Agpmsnn	odgovoren
+ter	mte:Cc	ter
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+kakšne	mte:Pq-fsg	kakšen
+odločitve	mte:Ncfsg	odločitev
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+napisan	mte:Appmsnn	napisan
+ter	mte:Cc	ter
+posredovan	mte:Appmsnn	posredovan
+italijanski	mte:Agpfsd	italijanski
+strani	mte:Ncfsd	stran
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+Juri	mte:Npmsn	Juri
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+Jurija	mte:Npmsay	Jurij
+zanima	mte:Vmpr3s	zanimati
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+kakor	mte:Cs	kakor
+koli	mte:Q	koli
+spremenila	mte:Vmep-sf	spremeniti
+svoje	mte:Px-nsa	svoj
+stališče	mte:Ncnsa	stališče
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+nasprotuje	mte:Vmpr3s	nasprotovati
+izgradnji	mte:Ncfsd	izgradnja
+plinskih	mte:Agpmpg	plinski
+terminalov	mte:Ncmpg	terminal
+v	mte:Sl	v
+Žavljah	mte:Npfpl	Žavelje
+in	mte:Cc	in
+v	mte:Sl	v
+Tržaškem	mte:Agpmsl	tržaški
+zalivu	mte:Ncmsl	zaliv
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+,	mte:Z	,
+ali	mte:Rgp	ali
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+resolucije	mte:Ncfsg	resolucija
+o	mte:Sl	o
+strategiji	mte:Ncfsl	strategija
+za	mte:Sa	za
+Jadran	mte:Npmsan	Jadran
+enako	mte:Pi-nsa	enak
+stališče	mte:Ncnsa	stališče
+zagovarja	mte:Vmpr3s	zagovarjati
+tudi	mte:Q	tudi
+glede	mte:Sg	glede
+pobude	mte:Ncfsg	pobuda
+za	mte:Sa	za
+postavitev	mte:Ncfsa	postavitev
+plinskega	mte:Agpmsg	plinski
+terminala	mte:Ncmsg	terminal
+v	mte:Sl	v
+Kopru	mte:Npmsl	Koper

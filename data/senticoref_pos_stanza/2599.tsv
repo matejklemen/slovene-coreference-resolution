@@ -1,483 +1,485 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Banke	Ncfpn
-,	Z
-ki	Cs
-si	Px---d--y
-pri	Sl
-Evropski	Agpfsl
-centralni	Agpfsl
-banki	Ncfsl
-(	Z
-ECB	Npmsn
-)	Z
-zagotavljajo	Vmpr3p
-dodatna	Agpnpa
-likvidnostna	Agpnpa
-sredstva	Ncnpa
-z	Si
-zastavo	Ncfsi
-za	Sa
-to	Pd-nsa
-primernih	Agpmpg
-papirjev	Ncmpg
-,	Z
-lahko	Rgp
-po	Sl
-novem	Agpnsl
-pri	Sl
-ECB	Npfsl
-zastavijo	Vmer3p
-tudi	Q
-posojila	Ncnpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-odobrile	Vmep-pf
-državni	Agpfsd
-družbi	Ncfsd
-za	Sa
-avtoceste	Ncfpa
-(	Z
-Darsu	Npmsd
-)	Z
-.	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-je	Va-r3s-n
-namreč	Cc
-na	Sl
-podlagi	Ncfsl
-pravil	Ncnpg
-ECB	Npfsg
-ocenila	Vmep-sf
-,	Z
-da	Cs
-so	Va-r3p-n
-tudi	Q
-ta	Pd-npn
-posojila	Ncnpn
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-državno	Agpnsa
-poroštvo	Ncnsa
-,	Z
-primerna	Agpfsn
-za	Sa
-zavarovanje	Ncnsa
-.	Z
-Večina	Ncfsn
-bank	Ncfpg
-nam	Pp1-pd
-ni	Va-r3s-y
-želela	Vmpp-sf
-razkriti	Vmen
-,	Z
-ali	Rgp
-so	Va-r3p-n
-to	Pd-fsa
-možnost	Ncfsa
-pridobitve	Ncfsg
-likvidnosti	Ncfsg
-pri	Sl
-ECB	Npfsl
-že	Q
-izkoristile	Vmep-pf
-.	Z
-So	Va-r3p-n
-pa	Cc
-v	Sl
-Banki	Ncfsl
-Slovenije	Npfsg
-potrdili	Vmep-pm
-,	Z
-da	Cs
-so	Va-r3p-n
-slovenske	Agpfpn
-banke	Ncfpn
-ta	Pd-npn
-posojila	Ncnpn
-pri	Sl
-zavarovanju	Ncnsl
-posojilnih	Agpfpg
-operacij	Ncfpg
-Evrosistema	Npmsg
-že	Q
-uporabile	Vmep-pf
-.	Z
-V	Sl
-Novi	Agpfsl
-Ljubljanski	Agpfsl
-banki	Ncfsl
-(	Z
-NLB	Npfsn
-)	Z
-so	Va-r3p-n
-dejali	Vmep-pm
-,	Z
-da	Cs
-pri	Sl
-ECB	Npmsl
-trenutno	Rgp
-nimajo	Vmpr3p-y
-najetih	Agpnpg
-sredstev	Ncnpg
-in	Cc
-da	Cs
-so	Va-r3p-n
-tudi	Q
-v	Sl
-preteklosti	Ncfsl
-redko	Rgp
-posegali	Vmpp-pm
-po	Sl
-tem	Pd-msl
-instrumentu	Ncmsl
-.	Z
-Nasprotno	Rgp
-imajo	Vmpr3p-n
-v	Sl
-Novi	Agpfsl
-Kreditni	Agpfsl
-banki	Ncfsl
-Maribor	Npmsn
-(	Z
-NKBM	Npmsn
-)	Z
-trenutno	Rgp
-pri	Sl
-ECB	Npmsl
-zastavljenih	Appmpg
-okoli	Rgp
-18	Mdc
-odstotkov	Ncmpg
-sredstev	Ncnpg
-za	Sa
-zavarovanje	Ncnsa
-primernega	Agpnsg
-premoženja	Ncnsg
-,	Z
-vendar	Cc
-ne	Q
-tudi	Q
-posojil	Ncnpg
-ali	Cc
-obveznic	Ncfpg
-Darsa	Npmsg
-.	Z
-Abanka	Npfsn
-je	Va-r3s-n
-že	Q
-zastavila	Vmep-sf
-Darsove	Aspfpa
-obveznice	Ncfpa
-,	Z
-v	Sl
-Unicredit	Npmsl
-banki	Ncfsl
-Slovenije	Npfsg
-pa	Cc
-se	Px------y
-na	Sa
-zastavo	Ncfsa
-netržnega	Agpnsg
-premoženja	Ncnsg
-(	Z
-to	Pd-nsa
-so	Va-r3p-n
-tudi	Q
-posojila	Ncnpn
-Darsa	Npmsg
-)	Z
-pravkar	Rgp
-pripravljajo	Vmpr3p
-.	Z
-Pri	Sl
-ECB	Npfsl
-se	Px------y
-vsake	Pg-fpa
-toliko	Rgp
-"	Z
-oglasijo	Vmer3p
-"	Z
-tudi	Q
-v	Sl
-Banki	Ncfsl
-Celje	Npnsn
-in	Cc
-SKB	Npmsn
-banki	Ncfsl
-,	Z
-pač	Q
-odvisno	Agpnsn
-od	Sg
-potreb	Ncfpg
-po	Sl
-sekundarni	Agpfsl
-likvidnosti	Ncfsl
-,	Z
-pravijo	Vmbr3p
-.	Z
-Banke	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-imajo	Vmpr3p-n
-sicer	Q
-na	Sa
-voljo	Ncfsa
-za	Sa
-kar	Rgp
-nekaj	Rgp
-sto	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-tovrstnih	Agpmpg
-papirjev	Ncmpg
-.	Z
-V	Sl
-zadnjem	Agpnsl
-desetletju	Ncnsl
-so	Va-r3p-n
-namreč	Cc
-Darsu	Npmsl
-za	Sa
-gradnjo	Ncfsa
-avtocestnega	Agpmsg
-križa	Ncmsg
-odobrile	Vmep-pf
-za	Sa
-več	Rgc
-kot	Cs
-milijardo	Ncfsa
-evrov	Ncmpg
-posojil	Ncnpg
-.	Z
-Največ	Rgs
-posojil	Ncnpg
-je	Va-r3s-n
-odobrila	Vmep-sf
-Nova	Agpfsn
-Ljubljanska	Agpfsn
-banka	Ncfsn
-(	Z
-NLB	Npmsn
-)	Z
-,	Z
-in	Cc
-sicer	Q
-najmanj	Rgs
-390	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-v	Sl
-zadnjem	Agpnsl
-letu	Ncnsl
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-pa	Cc
-je	Va-r3s-n
-vodila	Vmpp-sf
-tudi	Q
-več	Rgc
-konzorcijev	Ncmpg
-bank	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-skupaj	Rgp
-Darsu	Npmsd
-odobrili	Vmep-pm
-dobrih	Agpmpg
-400	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-posojil	Ncnpg
-.	Z
-V	Sl
-konzorcijih	Ncmpl
-so	Va-r3p-n
-sodelovale	Vmpp-pf
-še	Q
-SKB	Npfsn
-,	Z
-NKBM	Npfsn
-,	Z
-Banka	Npfsn
-Koper	Npmsn
-,	Z
-Banka	Npfsn
-Celje	Npnsn
-,	Z
-Gorenjska	Agpfsn
-banka	Ncfsn
-in	Cc
-Unicredit	Npmsn
-banka	Ncfsn
-Slovenija	Npfsn
-,	Z
-kolikšen	Pq-msa
-delež	Ncmsn
-sredstev	Ncnpg
-so	Va-r3p-n
-prispevale	Vmbp-pf
-posamezne	Agpfpn
-banke	Ncfpn
-,	Z
-pa	Cc
-nam	Pp1-pd
-ni	Va-r3s-y
-uspelo	Vmep-sn
-izvedeti	Vmen
-.	Z
-Hypo	Npfsn
-banka	Ncfsn
-je	Va-r3s-n
-Darsu	Npmsd
-ločeno	Rgp
-odobrila	Vmep-sf
-še	Q
-dobrih	Agpmpg
-60	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-posojil	Ncnpg
-,	Z
-Unicredit	Npfsn
-banka	Ncfsn
-Slovenije	Npfsg
-dobrih	Agpmpg
-120	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-banka	Ncfsn
-Koper	Npmsn
-pa	Cc
-35	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Poleg	Sg
-posojil	Ncnpg
-Darsa	Npmsg
-lahko	Rgp
-slovenske	Agpfpa
-banke	Ncfpa
-pri	Sl
-ECB	Npmsl
-zastavijo	Vmer3p
-tudi	Q
-Darsove	Aspfpa
-obveznice	Ncfpa
-.	Z
-Družba	Ncfsn
-jih	Pp3mpa--y
-je	Va-r3s-n
-v	Sl
-minulih	Appnpl
-letih	Ncnpl
-v	Sl
-nominalni	Agpfsl
-vrednosti	Ncfsl
-izdala	Vmep-sf
-skupno	Agpnsa
-za	Sa
-slabih	Agpmpg
-170	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Največ	Rgs
-obveznic	Ncfpg
-so	Va-r3p-n
-kupili	Vmep-pm
-v	Sl
-NLB	Npfsl
-,	Z
-med	Si
-drugim	Mlpnsi
-tudi	Q
-celotno	Agpfsa
-drugo	Mlpfsa
-izdajo	Ncfsa
-,	Z
-vredno	Rgp
-več	Rgc
-kot	Cs
-62	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-sledijo	Vmpr3p
-ji	Pp3fsd--y
-NKBM	Npfsn
-,	Z
-Gorenjska	Agpfsn
-banka	Ncfsn
-,	Z
-Hypo	Npfsn
-banka	Ncfsn
-,	Z
-Abanka	Npfsn
-.	Z
-.	Z
-.	Z
-Slovenske	Agpfsg
-banke	Ncfsg
-so	Va-r3p-n
-sicer	Q
-januarja	Ncmsg
-prvič	Rgp
-po	Sl
-večmesečnem	Agpnsl
-zaporednem	Agpnsl
-povečevanju	Ncnsl
-obveznosti	Ncfsg
-do	Sg
-Evrosistema	Npmsg
-zmanjšale	Vmep-pf
-,	Z
-in	Cc
-sicer	Q
-na	Sa
-935	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-oziroma	Cc
-1,9	Mdc
-odstotka	Ncmsg
-bilančne	Agpfsg
-vsote	Ncfsg
-.	Z
-Konec	Sg
-leta	Ncnsg
-2008	Mdc
-so	Va-r3p-n
-po	Sl
-podatkih	Ncmpl
-Banke	Ncfsg
-Slovenije	Npfsg
-znašale	Vmpp-pf
-kar	Rgp
-1,2	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-bile	Va-p-pf
-leto	Ncnsn
-pred	Si
-tem	Pd-nsi
-precej	Rgp
-manjše	Agcnpn
--	Z
-157	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Banke	mte:Ncfpn	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+si	mte:Px---d--y	se
+pri	mte:Sl	pri
+Evropski	mte:Agpfsl	evropski
+centralni	mte:Agpfsl	centralen
+banki	mte:Ncfsl	banka
+(	mte:Z	(
+ECB	mte:Npmsn	ECB
+)	mte:Z	)
+zagotavljajo	mte:Vmpr3p	zagotavljati
+dodatna	mte:Agpnpa	dodaten
+likvidnostna	mte:Agpnpa	likvidnosten
+sredstva	mte:Ncnpa	sredstvo
+z	mte:Si	z
+zastavo	mte:Ncfsi	zastava
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+primernih	mte:Agpmpg	primeren
+papirjev	mte:Ncmpg	papir
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+pri	mte:Sl	pri
+ECB	mte:Npfsl	ECB
+zastavijo	mte:Vmer3p	zastaviti
+tudi	mte:Q	tudi
+posojila	mte:Ncnpa	posojilo
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+odobrile	mte:Vmep-pf	odobriti
+državni	mte:Agpfsd	državen
+družbi	mte:Ncfsd	družba
+za	mte:Sa	za
+avtoceste	mte:Ncfpa	avtocesta
+(	mte:Z	(
+Darsu	mte:Npmsd	Dars
+)	mte:Z	)
+.	mte:Z	.
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+pravil	mte:Ncnpg	pravilo
+ECB	mte:Npfsg	ECB
+ocenila	mte:Vmep-sf	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+ta	mte:Pd-npn	ta
+posojila	mte:Ncnpn	posojilo
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+državno	mte:Agpnsa	državen
+poroštvo	mte:Ncnsa	poroštvo
+,	mte:Z	,
+primerna	mte:Agpfsn	primeren
+za	mte:Sa	za
+zavarovanje	mte:Ncnsa	zavarovanje
+.	mte:Z	.
+Večina	mte:Ncfsn	večina
+bank	mte:Ncfpg	banka
+nam	mte:Pp1-pd	jaz
+ni	mte:Va-r3s-y	biti
+želela	mte:Vmpp-sf	želeti
+razkriti	mte:Vmen	razkriti
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+to	mte:Pd-fsa	ta
+možnost	mte:Ncfsa	možnost
+pridobitve	mte:Ncfsg	pridobitev
+likvidnosti	mte:Ncfsg	likvidnost
+pri	mte:Sl	pri
+ECB	mte:Npfsl	ECB
+že	mte:Q	že
+izkoristile	mte:Vmep-pf	izkoristiti
+.	mte:Z	.
+So	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+v	mte:Sl	v
+Banki	mte:Ncfsl	banka
+Slovenije	mte:Npfsg	Slovenija
+potrdili	mte:Vmep-pm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+slovenske	mte:Agpfpn	slovenski
+banke	mte:Ncfpn	banka
+ta	mte:Pd-npn	ta
+posojila	mte:Ncnpn	posojilo
+pri	mte:Sl	pri
+zavarovanju	mte:Ncnsl	zavarovanje
+posojilnih	mte:Agpfpg	posojilen
+operacij	mte:Ncfpg	operacija
+Evrosistema	mte:Npmsg	Evrosistom
+že	mte:Q	že
+uporabile	mte:Vmep-pf	uporabiti
+.	mte:Z	.
+V	mte:Sl	v
+Novi	mte:Agpfsl	nov
+Ljubljanski	mte:Agpfsl	ljubljanski
+banki	mte:Ncfsl	banka
+(	mte:Z	(
+NLB	mte:Npfsn	NLB
+)	mte:Z	)
+so	mte:Va-r3p-n	biti
+dejali	mte:Vmep-pm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+pri	mte:Sl	pri
+ECB	mte:Npmsl	ECB
+trenutno	mte:Rgp	trenutno
+nimajo	mte:Vmpr3p-y	imeti
+najetih	mte:Agpnpg	najet
+sredstev	mte:Ncnpg	sredstvo
+in	mte:Cc	in
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+redko	mte:Rgp	redko
+posegali	mte:Vmpp-pm	posegati
+po	mte:Sl	po
+tem	mte:Pd-msl	ta
+instrumentu	mte:Ncmsl	instrument
+.	mte:Z	.
+Nasprotno	mte:Rgp	nasprotno
+imajo	mte:Vmpr3p-n	imeti
+v	mte:Sl	v
+Novi	mte:Agpfsl	nov
+Kreditni	mte:Agpfsl	krediten
+banki	mte:Ncfsl	banka
+Maribor	mte:Npmsn	Maribor
+(	mte:Z	(
+NKBM	mte:Npmsn	NKBM
+)	mte:Z	)
+trenutno	mte:Rgp	trenutno
+pri	mte:Sl	pri
+ECB	mte:Npmsl	ECB
+zastavljenih	mte:Appmpg	zastavljen
+okoli	mte:Rgp	okoli
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+sredstev	mte:Ncnpg	sredstvo
+za	mte:Sa	za
+zavarovanje	mte:Ncnsa	zavarovanje
+primernega	mte:Agpnsg	primeren
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ne	mte:Q	ne
+tudi	mte:Q	tudi
+posojil	mte:Ncnpg	posojilo
+ali	mte:Cc	ali
+obveznic	mte:Ncfpg	obveznica
+Darsa	mte:Npmsg	Dars
+.	mte:Z	.
+Abanka	mte:Npfsn	Abanka
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+zastavila	mte:Vmep-sf	zastaviti
+Darsove	mte:Aspfpa	Darsov
+obveznice	mte:Ncfpa	obveznica
+,	mte:Z	,
+v	mte:Sl	v
+Unicredit	mte:Npmsl	Unicredit
+banki	mte:Ncfsl	banka
+Slovenije	mte:Npfsg	Slovenija
+pa	mte:Cc	pa
+se	mte:Px------y	se
+na	mte:Sa	na
+zastavo	mte:Ncfsa	zastava
+netržnega	mte:Agpnsg	netržen
+premoženja	mte:Ncnsg	premoženje
+(	mte:Z	(
+to	mte:Pd-nsa	ta
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+posojila	mte:Ncnpn	posojilo
+Darsa	mte:Npmsg	Dars
+)	mte:Z	)
+pravkar	mte:Rgp	pravkar
+pripravljajo	mte:Vmpr3p	pripravljati
+.	mte:Z	.
+Pri	mte:Sl	pri
+ECB	mte:Npfsl	ECB
+se	mte:Px------y	se
+vsake	mte:Pg-fpa	vsak
+toliko	mte:Rgp	toliko
+"	mte:Z	"
+oglasijo	mte:Vmer3p	oglasiti
+"	mte:Z	"
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Banki	mte:Ncfsl	banka
+Celje	mte:Npnsn	Celje
+in	mte:Cc	in
+SKB	mte:Npmsn	SKB
+banki	mte:Ncfsl	banka
+,	mte:Z	,
+pač	mte:Q	pač
+odvisno	mte:Agpnsn	odvisen
+od	mte:Sg	od
+potreb	mte:Ncfpg	potreba
+po	mte:Sl	po
+sekundarni	mte:Agpfsl	sekundaren
+likvidnosti	mte:Ncfsl	likvidnost
+,	mte:Z	,
+pravijo	mte:Vmbr3p	praviti
+.	mte:Z	.
+Banke	mte:Ncfsg	banka
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+imajo	mte:Vmpr3p-n	imeti
+sicer	mte:Q	sicer
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+za	mte:Sa	za
+kar	mte:Rgp	kar
+nekaj	mte:Rgp	nekaj
+sto	mte:Mlc-pa	sto
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+tovrstnih	mte:Agpmpg	tovrsten
+papirjev	mte:Ncmpg	papir
+.	mte:Z	.
+V	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+desetletju	mte:Ncnsl	desetletje
+so	mte:Va-r3p-n	biti
+namreč	mte:Cc	namreč
+Darsu	mte:Npmsl	Dars
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+avtocestnega	mte:Agpmsg	avtocesten
+križa	mte:Ncmsg	križ
+odobrile	mte:Vmep-pf	odobriti
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+milijardo	mte:Ncfsa	milijarda
+evrov	mte:Ncmpg	evro
+posojil	mte:Ncnpg	posojilo
+.	mte:Z	.
+Največ	mte:Rgs	največ
+posojil	mte:Ncnpg	posojilo
+je	mte:Va-r3s-n	biti
+odobrila	mte:Vmep-sf	odobriti
+Nova	mte:Agpfsn	nov
+Ljubljanska	mte:Agpfsn	ljubljanski
+banka	mte:Ncfsn	banka
+(	mte:Z	(
+NLB	mte:Npmsn	NLB
+)	mte:Z	)
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+najmanj	mte:Rgs	najmanj
+390	mte:Mdc	390
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+v	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+letu	mte:Ncnsl	leto
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vodila	mte:Vmpp-sf	voditi
+tudi	mte:Q	tudi
+več	mte:Rgc	več
+konzorcijev	mte:Ncmpg	konzorcij
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+skupaj	mte:Rgp	skupaj
+Darsu	mte:Npmsd	Dars
+odobrili	mte:Vmep-pm	odobriti
+dobrih	mte:Agpmpg	dober
+400	mte:Mdc	400
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+posojil	mte:Ncnpg	posojilo
+.	mte:Z	.
+V	mte:Sl	v
+konzorcijih	mte:Ncmpl	konzorcij
+so	mte:Va-r3p-n	biti
+sodelovale	mte:Vmpp-pf	sodelovati
+še	mte:Q	še
+SKB	mte:Npfsn	SKB
+,	mte:Z	,
+NKBM	mte:Npfsn	NKBM
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+in	mte:Cc	in
+Unicredit	mte:Npmsn	Unicredit
+banka	mte:Ncfsn	banka
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+kolikšen	mte:Pq-msa	kolikšen
+delež	mte:Ncmsn	delež
+sredstev	mte:Ncnpg	sredstvo
+so	mte:Va-r3p-n	biti
+prispevale	mte:Vmbp-pf	prispevati
+posamezne	mte:Agpfpn	posamezen
+banke	mte:Ncfpn	banka
+,	mte:Z	,
+pa	mte:Cc	pa
+nam	mte:Pp1-pd	jaz
+ni	mte:Va-r3s-y	biti
+uspelo	mte:Vmep-sn	uspeti
+izvedeti	mte:Vmen	izvedeti
+.	mte:Z	.
+Hypo	mte:Npfsn	Hypo
+banka	mte:Ncfsn	banka
+je	mte:Va-r3s-n	biti
+Darsu	mte:Npmsd	Dars
+ločeno	mte:Rgp	ločeno
+odobrila	mte:Vmep-sf	odobriti
+še	mte:Q	še
+dobrih	mte:Agpmpg	dober
+60	mte:Mdc	60
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+posojil	mte:Ncnpg	posojilo
+,	mte:Z	,
+Unicredit	mte:Npfsn	Unicredit
+banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+dobrih	mte:Agpmpg	dober
+120	mte:Mdc	120
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+banka	mte:Ncfsn	banka
+Koper	mte:Npmsn	Koper
+pa	mte:Cc	pa
+35	mte:Mdc	35
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+posojil	mte:Ncnpg	posojilo
+Darsa	mte:Npmsg	Dars
+lahko	mte:Rgp	lahko
+slovenske	mte:Agpfpa	slovenski
+banke	mte:Ncfpa	banka
+pri	mte:Sl	pri
+ECB	mte:Npmsl	ECB
+zastavijo	mte:Vmer3p	zastaviti
+tudi	mte:Q	tudi
+Darsove	mte:Aspfpa	Darsov
+obveznice	mte:Ncfpa	obveznica
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+minulih	mte:Appnpl	minul
+letih	mte:Ncnpl	leto
+v	mte:Sl	v
+nominalni	mte:Agpfsl	nominalen
+vrednosti	mte:Ncfsl	vrednost
+izdala	mte:Vmep-sf	izdati
+skupno	mte:Agpnsa	skupen
+za	mte:Sa	za
+slabih	mte:Agpmpg	slab
+170	mte:Mdc	170
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Največ	mte:Rgs	največ
+obveznic	mte:Ncfpg	obveznica
+so	mte:Va-r3p-n	biti
+kupili	mte:Vmep-pm	kupiti
+v	mte:Sl	v
+NLB	mte:Npfsl	NLB
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+tudi	mte:Q	tudi
+celotno	mte:Agpfsa	celoten
+drugo	mte:Mlpfsa	drug
+izdajo	mte:Ncfsa	izdaja
+,	mte:Z	,
+vredno	mte:Rgp	vreden
+več	mte:Rgc	več
+kot	mte:Cs	kot
+62	mte:Mdc	62
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+ji	mte:Pp3fsd--y	on
+NKBM	mte:Npfsn	NKBM
+,	mte:Z	,
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+Hypo	mte:Npfsn	Hypo
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+Abanka	mte:Npfsn	Abanka
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+Slovenske	mte:Agpfsg	slovenski
+banke	mte:Ncfsg	banka
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+januarja	mte:Ncmsg	januar
+prvič	mte:Rgp	prvič
+po	mte:Sl	po
+večmesečnem	mte:Agpnsl	večmesečen
+zaporednem	mte:Agpnsl	zaporeden
+povečevanju	mte:Ncnsl	povečevanje
+obveznosti	mte:Ncfsg	obveznost
+do	mte:Sg	do
+Evrosistema	mte:Npmsg	Evrosistom
+zmanjšale	mte:Vmep-pf	zmanjšati
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+na	mte:Sa	na
+935	mte:Mdc	935
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+oziroma	mte:Cc	oziroma
+1,9	mte:Mdc	1,9
+odstotka	mte:Ncmsg	odstotek
+bilančne	mte:Agpfsg	bilančen
+vsote	mte:Ncfsg	vsota
+.	mte:Z	.
+Konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+znašale	mte:Vmpp-pf	znašati
+kar	mte:Rgp	kar
+1,2	mte:Mdc	1,2
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+leto	mte:Ncnsa	leto
+pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+precej	mte:Rgp	precej
+manjše	mte:Agcnpn	majhen
+-	mte:Z	-
+157	mte:Mdc	157
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+barbara.hren	mte:Npmsn	barbara.hren
+@	mte:Z	@

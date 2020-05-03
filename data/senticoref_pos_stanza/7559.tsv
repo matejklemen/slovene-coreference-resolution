@@ -1,560 +1,584 @@
-token	tag
-Pahor	Npmsn
-O	Sl
-NLB	Npfsl
--	Z
-ju	Pp3mda--y
-bo	Va-f3s-n
-morala	Vmpp-sf
-odločiti	Vmen
-naslednja	Agpfsn
-vlada	Ncfsn
-Evropske	Agpfsg
-sistemske	Agpfsg
-banke	Ncfsg
-bodo	Va-f3p-n
-morale	Vmpp-pf
-svoj	Px-msa
-kapital	Ncmsan
-do	Sg
-konca	Ncmsg
-junija	Ncmsg
-2012	Mdc
-povečati	Vmen
-za	Sa
-106	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-je	Va-r3s-n
-sklenil	Vmep-sm
-vrh	Ncmsan
-EU	Npfsg
--	Z
-ja	Q
-.	Z
-Za	Sa
-Slovenijo	Npfsa
-to	Pd-nsn
-pomeni	Vmbr3s
-297	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Ocena	Ncfsn
-potrebnega	Agpmsg
-kapitala	Ncmsg
-temelji	Vmpr3s
-na	Sl
-junijskih	Agpmpl
-podatkih	Ncmpl
-in	Cc
-donosnosti	Ncfsl
-državnih	Agpfpg
-obveznic	Ncfpg
-,	Z
-ki	Cs
-je	Va-r3s-n
-konec	Sg
-septembra	Ncmsg
-znašala	Vmpp-sf
-106,477	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-V	Sl
-razrezu	Ncmsl
-po	Sl
-državah	Ncfpl
-je	Va-r3s-n
-za	Sa
-Slovenijo	Npfsa
-predviden	Appmsnn
-znesek	Ncmsn
-297	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-za	Sa
-morebitne	Agpfpa
-izgube	Ncfpa
-zaradi	Sg
-državnih	Agpfpg
-obveznic	Ncfpg
-,	Z
-kar	Pr-nsn
-za	Sa
-Slovenijo	Npfsa
-ne	Q
-predstavlja	Vmpr3s
-težav	Ncfpg
-,	Z
-pa	Cc
-le	Q
-20	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-Nemčija	Npfsn
-za	Sa
-ta	Pd-msa
-namen	Ncmsan
-potrebuje	Vmpr3s
-skoraj	Q
-7,7	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Meril	Vmpp-sm
-za	Sa
-to	Pd-nsa
-,	Z
-katera	Pq-fsn
-banka	Ncfsn
-v	Sl
-državi	Ncfsl
-je	Va-r3s-n
-sistemska	Agpfsn
-banka	Ncfsn
-,	Z
-ni	Va-r3s-y
-.	Z
-V	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-to	Pd-nsn
-zagotovo	Rgp
-Nova	Agpfsn
-Ljubljanska	Agpfsn
-banka	Ncfsn
-NLB	Npfsn
-,	Z
-država	Ncfsn
-pa	Cc
-bi	Va-c
-lahko	Rgp
-kot	Cs
-sistemsko	Rgp
-opredelila	Vmep-sf
-še	Q
-katero	Pq-fsa
-banko	Ncfsa
-,	Z
-če	Cs
-bi	Va-c
-presodila	Vmep-sf
-,	Z
-da	Cs
-ima	Vmpr3s-n
-ta	Pd-msn
-bistveni	Agpmsny
-vpliv	Ncmsn
-na	Sa
-stabilnost	Ncfsa
-bančnega	Agpmsg
-sistema	Ncmsg
-.	Z
-Voditelji	Ncmpn
-evropskih	Agpfpg
-držav	Ncfpg
-so	Va-r3p-n
-se	Px------y
-na	Sl
-vrhu	Ncmsl
-EU	Npfsg
--	Z
-ja	Q
-sinoči	Rgp
-torej	Rgp
-strinjali	Vmpp-pm
-,	Z
-da	Cs
-bančni	Agpmsny
-sistem	Ncmsn
-potrebuje	Vmpr3s
-znatno	Rgp
-večji	Agcmsay
-kakovostni	Agpmsay
-temeljni	Agpmsay
-kapital	Ncmsan
-Core	Ncmsn
-Tier	Ncmsg
-1	Mdc
-v	Sl
-višini	Ncfsl
-devetih	Mlc-pg
-odstotkov	Ncmpg
-.	Z
-Pri	Sl
-izračunu	Ncmsl
-zneskov	Ncmpg
-se	Px------y
-upoštevajo	Vmbr3p
-vrednosti	Ncfpg
-naložb	Ncfpg
-v	Sa
-državne	Agpfpa
-obveznice	Ncfpa
-članic	Ncfpg
-evroobmočja	Ncnsg
-30	Mdc
-.	Z
-septembra	Ncmsg
-letos	Rgp
-.	Z
-Dogovor	Ncmsan
-so	Va-r3p-n
-pozdravili	Vmep-pm
-tudi	Q
-v	Sl
-Banki	Ncfsl
-Slovenije	Npfsg
-,	Z
-kjer	Cs
-menijo	Vmpr3p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-ukrepi	Ncmpn
-bankam	Ncfpd
-omogočili	Vmep-pm
-ohranjanje	Ncnsa
-kapitalske	Agpfsg
-ustreznosti	Ncfsg
-kljub	Sd
-neugodnim	Agpfpd
-razmeram	Ncfpd
-.	Z
-Dejanski	Agpmsny
-primanjkljaj	Ncmsn
-bank	Ncfpg
-bo	Va-f3s-n
-torej	Rgp
-znan	Appmsnn
-novembra	Ncmsg
-,	Z
-ko	Cs
-bodo	Va-f3p-n
-banke	Ncfpn
-dolžne	Agpfpn
-razkriti	Vmen
-podatke	Ncmpa
-o	Sl
-kapitalskem	Agpmsl
-položaju	Ncmsl
-in	Cc
-obsegu	Ncmsl
-izpostavljenosti	Ncfsg
-do	Sg
-državnega	Agpnsg
-dolga	Ncmsg
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-centralne	Agpfsg
-banke	Ncfsg
-.	Z
-Tako	Rgp
-bodo	Va-f3p-n
-morale	Vmpp-pf
-slovenske	Agpfpg
-banke	Ncfpg
-Banki	Ncfsd
-Slovenije	Npfsg
-predložiti	Vmen
-podroben	Agpmsan
-in	Cc
-z	Si
-nadzorniki	Ncmpi
-usklajen	Appmsnn
-načrt	Ncmsan
-zagotavljanja	Ncnsg
-ustrezne	Agpfsg
-kapitalske	Agpfsg
-ravni	Ncfsg
-.	Z
-Pričakuje	Vmpr3s
-se	Px------y
-,	Z
-da	Cs
-banke	Ncfpn
-ne	Q
-bodo	Va-f3p-n
-vsaj	Q
-ne	Q
-v	Sl
-večji	Agcfsl
-meri	Ncfsl
-vključevale	Vmpp-pf
-tudi	Q
-dezinvenstiranja	Ncnpg
-,	Z
-ampak	Cc
-bo	Va-f3s-n
-pomemben	Agpmsnn
-del	Ncmsn
-kapitalski	Agpmsny
-vložek	Ncmsn
-.	Z
-Kapitalski	Agpmsay
-položaj	Ncmsnn
-naj	Q
-bi	Va-c
-ohranjale	Vmpp-pf
-tudi	Q
-z	Si
-zadržanjem	Ncnsi
-izplačila	Ncnsg
-dividend	Ncfpg
-in	Cc
-drugih	Mlpfpg
-bonitet	Ncfpg
-.	Z
-Vabljeni	Appmpn
-k	Sd
-branju	Ncnsd
-.	Z
-Evropski	Agpmpn
-voditelji	Ncmpn
-bodo	Va-f3p-n
-Grčiji	Npfsd
-odpisali	Vmep-pm
-50	Mdc
-odstotkov	Ncmpg
-dolga	Agpfsn
-.	Z
-Pahor	Npmsn
-Priložnost	Ncfsn
-za	Sa
-mehak	Agpmsan
-izhod	Ncmsan
-iz	Sg
-krize	Ncfsg
-zamujen	Appmsan
-Dogovor	Ncmsan
-je	Va-r3s-n
-podprla	Vmep-sf
-tudi	Q
-Evropska	Agpfsn
-agencija	Ncfsn
-za	Sa
-nadzor	Ncmsan
-v	Sl
-bančnem	Agpmsl
-sektorju	Ncmsl
-Eba	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-izpostavila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-njegova	Ps3fsnsm
-izvedba	Ncfsn
-odvisna	Agpfsn
-od	Sg
-podrobne	Agpfsg
-opredelitve	Ncfsg
-drugih	Mlpmpg
-elementov	Ncmpg
-svežnja	Ncmsg
-ukrepov	Ncmpg
-.	Z
-Cilj	Ncmsn
-kapitalskega	Agpmsg
-svežnja	Ncmsg
-je	Va-r3s-n
-zagotoviti	Vmen
-nadaljnji	Agpmsay
-kapitalski	Agpmsay
-blažilec	Ncmsan
-za	Sa
-bančni	Agpmsay
-sistem	Ncmsan
-Evropske	Agpfsg
-unije	Ncfsg
-,	Z
-so	Va-r3p-n
-zapisali	Vmep-pm
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-Ebe	Npmsg
-.	Z
-Banke	Ncfsg
-morajo	Vmpr3p
-do	Sg
-konca	Ncmsg
-leta	Ncnsg
-svojim	Px-fpd
-vladam	Ncfpd
-predložiti	Vmen
-podrobne	Agpmpa
-načrte	Ncmpa
-za	Sa
-dosego	Ncfsa
-predvidene	Appfsg
-dokapitalizacije	Ncfsg
-,	Z
-načrti	Ncmpn
-pa	Cc
-morajo	Vmpr3p
-biti	Va-n
-pred	Si
-izvedbo	Ncfsi
-usklajeni	Appmpn
-z	Si
-nadzornimi	Agpmpi
-organi	Ncmpi
-posamezne	Agpfsg
-države	Ncfsg
-in	Cc
-Ebo	Npmsn
-.	Z
-NLB	Npfsn
-na	Sl
-plečih	Ncmpl
-nove	Agpfsg
-vlade	Ncfsg
-O	Sl
-dokapitalizaciji	Ncfsl
-NLB	Npfsg
--	Z
-ja	Q
-v	Sl
-Sloveniji	Npfsl
-bo	Va-f3s-n
-morala	Vmpp-sf
-odločiti	Vmen
-naslednja	Agpfsn
-vlada	Ncfsn
-spomladi	Rgp
-prihodnje	Agpnsa
-leto	Ncnsa
-,	Z
-je	Va-r3s-n
-po	Sl
-vrhu	Ncmsl
-v	Sl
-Bruslju	Npmsl
-dejal	Vmep-sm
-slovenski	Agpmsny
-premier	Ncmsn
-v	Sl
-odhodu	Ncmsl
-Borut	Npmsn
-Pahor	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-ne	Q
-izključuje	Vmpr3s
-vstopa	Ncmsg
-tujega	Agpmsg
-strateškega	Agpmsg
-partnerja	Ncmsg
-,	Z
-ki	Cs
-bi	Va-c
-prevzel	Vmep-sm
-večino	Ncfsa
-v	Sl
-banki	Ncfsl
-.	Z
-Slovenija	Npfsn
-bi	Va-c
-zadržala	Vmep-sf
-25	Mdc
--	Z
-odstotno	Agpnsa
-lastništvo	Ncnsa
-in	Cc
-zlato	Agpfsa
-delnico	Ncfsa
-,	Z
-je	Va-r3s-n
-še	Q
-dejal	Vmep-sm
-Pahor	Npmsn
-.	Z
-Lastniki	Ncmpn
-NLB	Npfsg
--	Z
-ja	Q
-naj	Q
-bi	Va-c
-se	Px------y
-sicer	Q
-sešli	Vmep-pm
-in	Cc
-odločali	Vmpp-pm
-o	Sl
-dokapitalizaciji	Ncfsl
-največje	Agsfsg
-slovenske	Agpfsg
-banke	Ncfsg
-,	Z
-a	Cc
-je	Va-r3s-n
-iz	Sg
-odgovorov	Ncmpg
-Boruta	Npmsg
-Pahorja	Npmsg
-slutiti	Vmpn
-,	Z
-da	Cs
-dogovora	Ncmsg
-še	Q
-ne	Q
-bo	Va-f3s-n
-.	Z
-Uprava	Ncfsn
-predlaga	Vmbr3s
-dokapitalizacijo	Ncfsa
-v	Sl
-višini	Ncfsl
-400	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-o	Sl
-povečanju	Ncnsl
-kapitala	Ncmsg
-pa	Cc
-se	Px------y
-morata	Vmpr3d
-dogovoriti	Vmen
-in	Cc
-odločiti	Vmen
-oba	Pg-mda
-največja	Agsmda
-lastnika	Ncmda
-,	Z
-država	Ncfsn
-in	Cc
-belgijski	Agpmsny
-KBC	Npmsn
-.	Z
-Grške	Agpfsg
-banke	Ncfsg
-potrebujejo	Vmpr3p
-30	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-Po	Sl
-pričakovanjih	Ncnpl
-največ	Rgs
-svežega	Agpmsg
-kapitala	Ncmsg
-potrebujejo	Vmpr3p
-grške	Agpfpa
-banke	Ncfpa
-,	Z
-in	Cc
-sicer	Q
-30	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Pahor	mte:Npmsn	Pahor
+O	mte:Sl	o
+NLB	mte:Npfsl	NLB
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+odločiti	mte:Vmen	odločiti
+naslednja	mte:Agpfsn	naslednji
+vlada	mte:Ncfsn	vlada
+Evropske	mte:Agpfsg	evropski
+sistemske	mte:Agpfsg	sistemski
+banke	mte:Ncfsg	banka
+bodo	mte:Va-f3p-n	biti
+morale	mte:Vmpp-pf	morati
+svoj	mte:Px-msa	svoj
+kapital	mte:Ncmsan	kapital
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+junija	mte:Ncmsg	junij
+2012	mte:Mdc	2012
+povečati	mte:Vmen	povečati
+za	mte:Sa	za
+106	mte:Mdc	106
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+sklenil	mte:Vmep-sm	skleniti
+vrh	mte:Ncmsan	vrh
+EU	mte:Npfsg	EU
+-	mte:Z	-
+ja	mte:Q	ja
+.	mte:Z	.
+Za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+to	mte:Pd-nsn	ta
+pomeni	mte:Vmbr3s	pomeniti
+297	mte:Mdc	297
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Ocena	mte:Ncfsn	ocena
+potrebnega	mte:Agpmsg	potreben
+kapitala	mte:Ncmsg	kapital
+temelji	mte:Vmpr3s	temeljiti
+na	mte:Sl	na
+junijskih	mte:Agpmpl	junijski
+podatkih	mte:Ncmpl	podatek
+in	mte:Cc	in
+donosnosti	mte:Ncfsl	donosnost
+državnih	mte:Agpfpg	državen
+obveznic	mte:Ncfpg	obveznica
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+septembra	mte:Ncmsg	september
+znašala	mte:Vmpp-sf	znašati
+106,477	mte:Mdc	106,477
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+razrezu	mte:Ncmsl	razrez
+po	mte:Sl	po
+državah	mte:Ncfpl	država
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+predviden	mte:Appmsnn	predviden
+znesek	mte:Ncmsn	znesek
+297	mte:Mdc	297
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+za	mte:Sa	za
+morebitne	mte:Agpfpa	morebiten
+izgube	mte:Ncfpa	izguba
+zaradi	mte:Sg	zaradi
+državnih	mte:Agpfpg	državen
+obveznic	mte:Ncfpg	obveznica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+ne	mte:Q	ne
+predstavlja	mte:Vmpr3s	predstavljati
+težav	mte:Ncfpg	težava
+,	mte:Z	,
+pa	mte:Cc	pa
+le	mte:Q	le
+20	mte:Mdc	20
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+Nemčija	mte:Npfsn	Nemčija
+za	mte:Sa	za
+ta	mte:Pd-msa	ta
+namen	mte:Ncmsan	namen
+potrebuje	mte:Vmpr3s	potrebovati
+skoraj	mte:Q	skoraj
+7,7	mte:Mdc	7,7
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Meril	mte:Vmpp-sm	meriti
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+katera	mte:Pq-fsn	kateri
+banka	mte:Ncfsn	banka
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+je	mte:Va-r3s-n	biti
+sistemska	mte:Agpfsn	sistemski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+zagotovo	mte:Rgp	zagotovo
+Nova	mte:Agpfsn	nov
+Ljubljanska	mte:Agpfsn	ljubljanski
+banka	mte:Ncfsn	banka
+NLB	mte:Npfsn	NLB
+,	mte:Z	,
+država	mte:Ncfsn	država
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+kot	mte:Cs	kot
+sistemsko	mte:Rgp	sistemski
+opredelila	mte:Vmep-sf	opredeliti
+še	mte:Q	še
+katero	mte:Pq-fsa	kateri
+banko	mte:Ncfsa	banka
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+presodila	mte:Vmep-sf	presoditi
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+ta	mte:Pd-msn	ta
+bistveni	mte:Agpmsny	bistven
+vpliv	mte:Ncmsn	vpliv
+na	mte:Sa	na
+stabilnost	mte:Ncfsa	stabilnost
+bančnega	mte:Agpmsg	bančen
+sistema	mte:Ncmsg	sistem
+.	mte:Z	.
+Voditelji	mte:Ncmpn	voditelj
+evropskih	mte:Agpfpg	evropski
+držav	mte:Ncfpg	država
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+vrhu	mte:Ncmsl	vrh
+EU	mte:Npfsg	EU
+-	mte:Z	-
+ja	mte:Q	ja
+sinoči	mte:Rgp	sinoči
+torej	mte:Rgp	torej
+strinjali	mte:Vmpp-pm	strinjati
+,	mte:Z	,
+da	mte:Cs	da
+bančni	mte:Agpmsny	bančen
+sistem	mte:Ncmsn	sistem
+potrebuje	mte:Vmpr3s	potrebovati
+znatno	mte:Rgp	znatno
+večji	mte:Agcmsay	velik
+kakovostni	mte:Agpmsay	kakovosten
+temeljni	mte:Agpmsay	temeljen
+kapital	mte:Ncmsan	kapital
+Core	mte:Ncmsn	cora
+Tier	mte:Ncmsg	tier
+1	mte:Mdc	1
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+devetih	mte:Mlc-pg	devet
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Pri	mte:Sl	pri
+izračunu	mte:Ncmsl	izračun
+zneskov	mte:Ncmpg	znesek
+se	mte:Px------y	se
+upoštevajo	mte:Vmbr3p	upoštevati
+vrednosti	mte:Ncfpg	vrednost
+naložb	mte:Ncfpg	naložba
+v	mte:Sa	v
+državne	mte:Agpfpa	državen
+obveznice	mte:Ncfpa	obveznica
+članic	mte:Ncfpg	članica
+evroobmočja	mte:Ncnsg	evrooobmočje
+30	mte:Mdc	30
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+letos	mte:Rgp	letos
+.	mte:Z	.
+Dogovor	mte:Ncmsan	dogovor
+so	mte:Va-r3p-n	biti
+pozdravili	mte:Vmep-pm	pozdraviti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Banki	mte:Ncfsl	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+ukrepi	mte:Ncmpn	ukrep
+bankam	mte:Ncfpd	banka
+omogočili	mte:Vmep-pm	omogočiti
+ohranjanje	mte:Ncnsa	ohranjanje
+kapitalske	mte:Agpfsg	kapitalski
+ustreznosti	mte:Ncfsg	ustreznost
+kljub	mte:Sd	kljub
+neugodnim	mte:Agpfpd	neugoden
+razmeram	mte:Ncfpd	razmera
+.	mte:Z	.
+Dejanski	mte:Agpmsny	dejanski
+primanjkljaj	mte:Ncmsn	primanjkljaj
+bank	mte:Ncfpg	banka
+bo	mte:Va-f3s-n	biti
+torej	mte:Rgp	torej
+znan	mte:Appmsnn	znan
+novembra	mte:Ncmsg	november
+,	mte:Z	,
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+banke	mte:Ncfpn	banka
+dolžne	mte:Agpfpn	dolžen
+razkriti	mte:Vmen	razkriti
+podatke	mte:Ncmpa	podatek
+o	mte:Sl	o
+kapitalskem	mte:Agpmsl	kapitalski
+položaju	mte:Ncmsl	položaj
+in	mte:Cc	in
+obsegu	mte:Ncmsl	obseg
+izpostavljenosti	mte:Ncfsg	izpostavljenost
+do	mte:Sg	do
+državnega	mte:Agpnsg	državen
+dolga	mte:Ncmsg	dolg
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Tako	mte:Rgp	tako
+bodo	mte:Va-f3p-n	biti
+morale	mte:Vmpp-pf	morati
+slovenske	mte:Agpfpg	slovenski
+banke	mte:Ncfpg	banka
+Banki	mte:Ncfsd	banka
+Slovenije	mte:Npfsg	Slovenija
+predložiti	mte:Vmen	predložiti
+podroben	mte:Agpmsan	podroben
+in	mte:Cc	in
+z	mte:Si	z
+nadzorniki	mte:Ncmpi	nadzornik
+usklajen	mte:Appmsnn	usklajen
+načrt	mte:Ncmsan	načrt
+zagotavljanja	mte:Ncnsg	zagotavljanje
+ustrezne	mte:Agpfsg	ustrezen
+kapitalske	mte:Agpfsg	kapitalski
+ravni	mte:Ncfsg	raven
+.	mte:Z	.
+Pričakuje	mte:Vmpr3s	pričakovati
+se	mte:Px------y	se
+,	mte:Z	,
+da	mte:Cs	da
+banke	mte:Ncfpn	banka
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+vsaj	mte:Q	vsaj
+ne	mte:Q	ne
+v	mte:Sl	v
+večji	mte:Agcfsl	velik
+meri	mte:Ncfsl	mera
+vključevale	mte:Vmpp-pf	vključevati
+tudi	mte:Q	tudi
+dezinvenstiranja	mte:Ncnpg	dezinvenstiranje
+,	mte:Z	,
+ampak	mte:Cc	ampak
+bo	mte:Va-f3s-n	biti
+pomemben	mte:Agpmsnn	pomemben
+del	mte:Ncmsn	del
+kapitalski	mte:Agpmsny	kapitalski
+vložek	mte:Ncmsn	vložek
+.	mte:Z	.
+Kapitalski	mte:Agpmsay	kapitalski
+položaj	mte:Ncmsnn	položaj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ohranjale	mte:Vmpp-pf	ohranjati
+tudi	mte:Q	tudi
+z	mte:Si	z
+zadržanjem	mte:Ncnsi	zadržanje
+izplačila	mte:Ncnsg	izplačilo
+dividend	mte:Ncfpg	dividend
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+bonitet	mte:Ncfpg	bonitet
+.	mte:Z	.
+Vabljeni	mte:Appmpn	vabljen
+k	mte:Sd	k
+branju	mte:Ncnsd	branje
+.	mte:Z	.
+Evropski	mte:Agpmpn	evropski
+voditelji	mte:Ncmpn	voditelj
+bodo	mte:Va-f3p-n	biti
+Grčiji	mte:Npfsd	Grčija
+odpisali	mte:Vmep-pm	odpisati
+50	mte:Mdc	50
+odstotkov	mte:Ncmpg	odstotek
+dolga	mte:Agpfsn	dolg
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+Priložnost	mte:Ncfsn	priložnost
+za	mte:Sa	za
+mehak	mte:Agpmsan	mehek
+izhod	mte:Ncmsan	izhod
+iz	mte:Sg	iz
+krize	mte:Ncfsg	kriza
+zamujen	mte:Appmsan	zamujen
+Dogovor	mte:Ncmsan	dogovor
+je	mte:Va-r3s-n	biti
+podprla	mte:Vmep-sf	podpreti
+tudi	mte:Q	tudi
+Evropska	mte:Agpfsn	evropski
+agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+nadzor	mte:Ncmsan	nadzor
+v	mte:Sl	v
+bančnem	mte:Agpmsl	bančen
+sektorju	mte:Ncmsl	sektor
+Eba	mte:Npmsn	Eba
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+izpostavila	mte:Vmep-sf	izpostaviti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+njegova	mte:Ps3fsnsm	njegov
+izvedba	mte:Ncfsn	izvedba
+odvisna	mte:Agpfsn	odvisen
+od	mte:Sg	od
+podrobne	mte:Agpfsg	podroben
+opredelitve	mte:Ncfsg	opredelitev
+drugih	mte:Mlpmpg	drug
+elementov	mte:Ncmpg	element
+svežnja	mte:Ncmsg	sveženj
+ukrepov	mte:Ncmpg	ukrep
+.	mte:Z	.
+Cilj	mte:Ncmsn	cilj
+kapitalskega	mte:Agpmsg	kapitalski
+svežnja	mte:Ncmsg	sveženj
+je	mte:Va-r3s-n	biti
+zagotoviti	mte:Vmen	zagotoviti
+nadaljnji	mte:Agpmsay	nadaljnji
+kapitalski	mte:Agpmsay	kapitalski
+blažilec	mte:Ncmsan	blažilec
+za	mte:Sa	za
+bančni	mte:Agpmsay	bančen
+sistem	mte:Ncmsan	sistem
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+zapisali	mte:Vmep-pm	zapisati
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+Ebe	mte:Npmsg	Ebe
+.	mte:Z	.
+Banke	mte:Ncfsg	banka
+morajo	mte:Vmpr3p	morati
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+leta	mte:Ncnsg	leto
+svojim	mte:Px-fpd	svoj
+vladam	mte:Ncfpd	vlada
+predložiti	mte:Vmen	predložiti
+podrobne	mte:Agpmpa	podroben
+načrte	mte:Ncmpa	načrt
+za	mte:Sa	za
+dosego	mte:Ncfsa	dosega
+predvidene	mte:Appfsg	predviden
+dokapitalizacije	mte:Ncfsg	dokapitalizacija
+,	mte:Z	,
+načrti	mte:Ncmpn	načrt
+pa	mte:Cc	pa
+morajo	mte:Vmpr3p	morati
+biti	mte:Va-n	biti
+pred	mte:Si	pred
+izvedbo	mte:Ncfsi	izvedba
+usklajeni	mte:Appmpn	usklajen
+z	mte:Si	z
+nadzornimi	mte:Agpmpi	nadzoren
+organi	mte:Ncmpi	organ
+posamezne	mte:Agpfsg	posamezen
+države	mte:Ncfsg	država
+in	mte:Cc	in
+Ebo	mte:Npmsn	Ebo
+.	mte:Z	.
+NLB	mte:Npfsn	NLB
+na	mte:Sl	na
+plečih	mte:Ncmpl	pleč
+nove	mte:Agpfsg	nov
+vlade	mte:Ncfsg	vlada
+O	mte:Sl	o
+dokapitalizaciji	mte:Ncfsl	dokapitalizacija
+NLB	mte:Npfsg	NLB
+-	mte:Z	-
+ja	mte:Q	ja
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+odločiti	mte:Vmen	odločiti
+naslednja	mte:Agpfsn	naslednji
+vlada	mte:Ncfsn	vlada
+spomladi	mte:Rgp	spomladi
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+vrhu	mte:Ncmsl	vrh
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+dejal	mte:Vmep-sm	dejati
+slovenski	mte:Agpmsny	slovenski
+premier	mte:Ncmsn	premier
+v	mte:Sl	v
+odhodu	mte:Ncmsl	odhod
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+izključuje	mte:Vmpr3s	izključevati
+vstopa	mte:Ncmsg	vstop
+tujega	mte:Agpmsg	tuj
+strateškega	mte:Agpmsg	strateški
+partnerja	mte:Ncmsg	partner
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+prevzel	mte:Vmep-sm	prevzeti
+večino	mte:Ncfsa	večina
+v	mte:Sl	v
+banki	mte:Ncfsl	banka
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+bi	mte:Va-c	biti
+zadržala	mte:Vmep-sf	zadržati
+25	mte:Mdc	25
+-	mte:Z	-
+odstotno	mte:Agpnsa	odstoten
+lastništvo	mte:Ncnsa	lastništvo
+in	mte:Cc	in
+zlato	mte:Agpfsa	zlat
+delnico	mte:Ncfsa	delnica
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+Pahor	mte:Npmsn	Pahor
+.	mte:Z	.
+Lastniki	mte:Ncmpn	lastnik
+NLB	mte:Npfsg	NLB
+-	mte:Z	-
+ja	mte:Q	ja
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+sešli	mte:Vmep-pm	sešti
+in	mte:Cc	in
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+dokapitalizaciji	mte:Ncfsl	dokapitalizacija
+največje	mte:Agsfsg	velik
+slovenske	mte:Agpfsg	slovenski
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+iz	mte:Sg	iz
+odgovorov	mte:Ncmpg	odgovor
+Boruta	mte:Npmsg	Borut
+Pahorja	mte:Npmsg	Pahorje
+slutiti	mte:Vmpn	slutiti
+,	mte:Z	,
+da	mte:Cs	da
+dogovora	mte:Ncmsg	dogovor
+še	mte:Q	še
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+predlaga	mte:Vmbr3s	predlagati
+dokapitalizacijo	mte:Ncfsa	dokapitalizacija
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+400	mte:Mdc	400
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+o	mte:Sl	o
+povečanju	mte:Ncnsl	povečanje
+kapitala	mte:Ncmsg	kapital
+pa	mte:Cc	pa
+se	mte:Px------y	se
+morata	mte:Vmpr3d	morati
+dogovoriti	mte:Vmen	dogovoriti
+in	mte:Cc	in
+odločiti	mte:Vmen	odločiti
+oba	mte:Pg-mda	oba
+največja	mte:Agsmda	velik
+lastnika	mte:Ncmda	lastnik
+,	mte:Z	,
+država	mte:Ncfsn	država
+in	mte:Cc	in
+belgijski	mte:Agpmsny	belgijski
+KBC	mte:Npmsn	KBC
+.	mte:Z	.
+Grške	mte:Agpfsg	grški
+banke	mte:Ncfsg	banka
+potrebujejo	mte:Vmpr3p	potrebovati
+30	mte:Mdc	30
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+Po	mte:Sl	po
+pričakovanjih	mte:Ncnpl	pričakovanje
+največ	mte:Rgs	največ
+svežega	mte:Agpmsg	svež
+kapitala	mte:Ncmsg	kapital
+potrebujejo	mte:Vmpr3p	potrebovati
+grške	mte:Agpfpa	grški
+banke	mte:Ncfpa	banka
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+30	mte:Mdc	30
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Španske	mte:Agpfsg	španski
+banke	mte:Ncfsg	banka
+potrebujejo	mte:Vmpr3p	potrebovati
+26	mte:Mdc	26
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+najbolj	mte:Rgs	najbolj
+kakovostnega	mte:Agpmsg	kakovosten
+kapitala	mte:Ncmsg	kapital
+,	mte:Z	,
+italijanske	mte:Agpfsg	italijanski
+14,7	mte:Mdc	14,7
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+francoske	mte:Agpfsg	francoski
+8,8	mte:Mdc	8,8
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+portugalske	mte:Agpfsg	portugalski
+7,8	mte:Mdc	7,8
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro

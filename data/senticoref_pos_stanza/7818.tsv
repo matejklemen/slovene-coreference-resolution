@@ -1,483 +1,494 @@
-token	tag
-Juncker	Ncmsn
-izrazil	Vmep-sm
-zavezanost	Ncfsa
-stabilnosti	Ncfsg
-evrskega	Agpnsg
-območja	Ncnsg
-Bonitetna	Agpfsn
-agencija	Ncfsn
-Moodys	Npmsn
-je	Va-r3s-n
-znižala	Vmep-sf
-napovedi	Ncfpa
-za	Sa
-oceno	Ncfsa
-dolgoročnega	Agpmsg
-dolga	Agpfsg
-Nemčije	Npfsg
-,	Z
-Nizozemske	Npfsg
-in	Cc
-Luksemburga	Npmsg
-,	Z
-tako	Cc
-da	Cs
-ti	Pd-mpn
-poslej	Rgp
-niso	Va-r3p-y
-več	Q
-stabilni	Agpmpn
-,	Z
-temveč	Cc
-negativni	Agpmpn
-.	Z
-Vse	Pg-fpn
-tri	Mlcfpn
-države	Ncfpn
-imajo	Vmpr3p-n
-trenutno	Agpfsa
-najvišjo	Agsfsa
-oceno	Ncfsa
-Aaa	Npfsg
-.	Z
-Agencija	Ncfsn
-se	Px------y
-je	Va-r3s-n
-za	Sa
-ta	Pd-msa
-korak	Ncmsan
-odločila	Vmep-sf
-,	Z
-ker	Cs
-je	Va-r3s-n
-ocenila	Vmep-sf
-,	Z
-da	Cs
-dolžniška	Agpfsn
-kriza	Ncfsn
-evrskega	Agpnsg
-območja	Ncnsg
-ogroža	Vmpr3s
-tudi	Q
-najstabilnejše	Agsfpa
-evrske	Agpfpa
-države	Ncfpa
-.	Z
-Bonitetna	Agpfsn
-hiša	Ncfsn
-je	Va-r3s-n
-opozorila	Vmep-sf
-na	Sa
-mogoče	Agpfpa
-proračunske	Agpfpa
-in	Cc
-gospodarske	Agpfpa
-posledice	Ncfpa
-izstopa	Ncfsg
-Grčije	Npfsg
-iz	Sg
-evrskega	Agpnsg
-območja	Ncnsg
-.	Z
-Po	Sl
-njeni	Ps3fslsf
-oceni	Ncfsl
-je	Va-r3s-n
-vse	Rgp
-bolj	Rgc
-mogoče	Agpnsn
-,	Z
-da	Cs
-bosta	Va-f3d-n
-splošno	Agpfsa
-finančno	Agpfsa
-pomoč	Ncfsa
-začasnega	Agpmsg
-oz	Ncmsg
-.	Z
-stalnega	Agpmsg
-sklada	Ncmsg
-za	Sa
-zaščito	Ncfsa
-evra	Ncmsg
-EFSF	Npmsg
-oz	Npmsg
-.	Z
-ESM	Npfsn
-potrebovali	Vmpp-dm
-tudi	Q
-Španija	Npfsn
-in	Cc
-Italija	Npfsn
-.	Z
-Španija	Npfsn
-je	Va-r3s-n
-sicer	Q
-pred	Si
-časom	Ncmsi
-že	Q
-zaprosila	Vmep-sf
-za	Sa
-do	Sg
-100	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-posojila	Ncnsg
-za	Sa
-pomoč	Ncfsa
-svojemu	Px-msd
-bančnemu	Agpmsd
-sektorju	Ncmsd
-,	Z
-če	Cs
-bi	Va-c
-bilo	Va-p-sn
-treba	Rgp
-reševati	Vmpn
-njeno	Ps3nsasf
-gospodarstvo	Ncnsa
-na	Sa
-splošno	Agpnsa
-,	Z
-pa	Cc
-bi	Va-c
-bil	Va-p-sm
-to	Pd-nsn
-precej	Rgp
-velik	Agpmsnn
-zalogaj	Ncmsn
-,	Z
-saj	Cc
-je	Va-r3s-n
-približno	Rgp
-dvakrat	Rgp
-tolikšno	Pd-nsn
-kot	Cs
-grško	Agpnsn
-,	Z
-portugalsko	Agpnsa
-in	Cc
-irsko	Agpnsa
-skupaj	Rgp
-,	Z
-je	Va-r3s-n
-opozoril	Vmep-sm
-Moodys	Npmsn
-.	Z
-Sidro	Ncnsn
-stabilnosti	Ncfsg
-V	Sl
-primeru	Ncmsl
-scenarija	Ncmsg
-,	Z
-po	Sl
-katerem	Pq-msl
-bi	Va-c
-bilo	Va-p-sn
-treba	Rgp
-reševati	Vmpn
-Madrid	Npmsan
-in	Cc
-Rim	Npmsan
-,	Z
-bodo	Va-f3p-n
-morale	Vmpp-pf
-močne	Agpfpn
-evrske	Agpfpn
-države	Ncfpn
-nase	Px---a--b
-prevzeti	Vmen
-še	Q
-večje	Agcnsa
-finančno	Agpnsa
-breme	Ncnsa
-.	Z
-Nemčija	Npfsn
-je	Va-r3s-n
-,	Z
-denimo	Vmem1p
-,	Z
-država	Ncfsn
-,	Z
-ki	Cs
-v	Sl
-EFSF	Npfsl
-prispeva	Vmpr3s
-največ	Rgs
-.	Z
-Nemške	Agpfsg
-finančne	Agpfsg
-institucije	Ncfpg
-so	Va-r3p-n
-tako	Rgp
-močno	Rgp
-izpostavljene	Appfpn
-dolžniški	Agpfsd
-krizi	Ncfsd
-in	Cc
-bi	Va-c
-lahko	Rgp
-imele	Vmpp-pf
-težave	Ncfpa
-s	Si
-potencialnimi	Agpfpi
-izgubami	Ncfpi
-,	Z
-menijo	Vmpr3p
-v	Sl
-bonitetni	Agpfsl
-agenciji	Ncfsl
-.	Z
-Nemško	Agpnsn
-finančno	Agpnsn
-ministrstvo	Ncnsn
-je	Va-r3s-n
-v	Sl
-odzivu	Ncmsl
-na	Sa
-potezo	Ncfsa
-Moodys	Npmsn
-poudarilo	Vmep-sn
-,	Z
-da	Cs
-Nemčija	Npfsn
-ostaja	Vmpr3s
-sidro	Ncnsa
-stabilnosti	Ncfsg
-območja	Ncnsg
-evra	Ncmsg
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-so	Va-r3p-n
-pojasnili	Vmep-pm
-še	Q
-,	Z
-da	Cs
-so	Va-r3p-n
-se	Px------y
-seznanili	Vmep-pm
-z	Si
-oceno	Ncfsi
-bonitetne	Agpfsg
-hiše	Ncfsg
-,	Z
-pri	Sl
-tem	Pd-nsl
-pa	Cc
-dodali	Vmep-pm
-,	Z
-da	Cs
-se	Px------y
-ta	Pd-fsn
-osredotoča	Vmpr3s
-na	Sa
-kratkoročna	Agpnpa
-tveganja	Ncnpa
-.	Z
-Tveganja	Ncnsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-izpostavlja	Vmpr3s
-,	Z
-niso	Va-r3p-y
-nova	Agpnpn
-,	Z
-so	Va-r3p-n
-dejali	Vmep-pm
-.	Z
-Vodja	Ncmsn
-evrske	Agpfsg
-skupine	Ncfsg
-in	Cc
-luksemburški	Agpmsny
-premier	Ncmsn
-Jean	Npmsn
--	Z
-Claude	Npmsn
-Juncker	Npmsn
-pa	Cc
-je	Va-r3s-n
-v	Sl
-odzivu	Ncmsl
-izrazil	Vmep-sm
-močno	Agpfsa
-zavezanost	Ncfsa
-stabilnosti	Ncfsg
-območja	Ncnsg
-evra	Ncmsg
-.	Z
-V	Sl
-prepričanju	Ncnsl
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-Nemčija	Npfsn
-,	Z
-Nizozemska	Npfsn
-in	Cc
-Luksemburg	Npmsn
-močne	Agpmpa
-temelje	Ncmpa
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-ostajajo	Vmpr3p
-zavezani	Appmpn
-zagotavljanju	Ncnsd
-stabilnosti	Ncfsg
-evropske	Agpfsg
-monetarne	Agpfsg
-unije	Ncfsg
-kot	Cs
-celote	Ncfsg
-.	Z
-Nemčija	Npfsn
-še	Q
-brez	Sg
-posledic	Ncfpg
-krize	Ncfsg
-Berlin	Npmsn
-sicer	Q
-doslej	Rgp
-še	Q
-ni	Va-r3s-y
-čutil	Vmpp-sm
-pravih	Agpfpg
-posledic	Ncfpg
-krize	Ncfsg
-in	Cc
-se	Px------y
-je	Va-r3s-n
-na	Sl
-kapitalskih	Agpmpl
-trgih	Ncmpl
-zadolževal	Vmpp-sm
-celo	Q
-po	Sl
-negativni	Agpfsl
-obrestni	Agpfsl
-meri	Ncfsl
-.	Z
-Se	Px------y
-je	Va-r3s-n
-pa	Cc
-nemška	Agpfsn
-kanclerka	Ncfsn
-Angela	Npfsn
-Merkel	Npfsn
-večkrat	Rgc
-znašla	Vmep-sf
-v	Sl
-središču	Ncnsl
-političnih	Agpfpg
-neviht	Ncfpg
-.	Z
-Mnogi	Pi-mpn
-so	Va-r3p-n
-namreč	Cc
-kritični	Agpmpn
-do	Sg
-njenega	Ps3msgsf
-varčevalno	Rgp
-usmerjenega	Appmsg
-pristopa	Ncmsg
-razreševanja	Ncnsg
-krize	Ncfsg
-.	Z
-Na	Sa
-to	Pd-nsa
-je	Va-r3s-n
-spomnila	Vmep-sf
-tudi	Q
-bonitetna	Agpfsn
-agencija	Ncfsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-poudarila	Vmep-sf
-,	Z
-je	Va-r3s-n
-odzivnost	Ncfsn
-in	Cc
-postopnost	Ncfsn
-političnega	Agpmsg
-odgovora	Ncmsg
-evropskih	Agpmpg
-voditeljev	Ncmpg
-še	Q
-en	Mlpmsn
-razlog	Ncmsn
-za	Sa
-zaskrbljenost	Ncfsa
-.	Z
-Odločitev	Ncfsa
-Moodys	Npmsn
-,	Z
-da	Cs
-obete	Ncfpa
-omenjenih	Appfpg
-držav	Ncfpg
-spremeni	Vmer3s
-v	Sa
-negativne	Agpmpa
-,	Z
-po	Sl
-poročanju	Ncnsl
-dpa	Npfsg
-pomeni	Vmbr3s
-,	Z
-da	Cs
-bonitetna	Agpfsn
-agencija	Ncfsn
-razmišlja	Vmpr3s
-o	Sl
-tem	Pd-nsl
-,	Z
-da	Cs
-bi	Va-c
-,	Z
-če	Cs
-bodo	Va-f3p-n
-negativni	Agpmpn
-pogoji	Ncmpn
-vztrajali	Vmpp-pm
-,	Z
-znižala	Vmep-pf
-zdaj	Rgp
-najvišje	Agsfsg
-kreditne	Agpfsg
-ocene	Ncfsg
-Nemčije	Npfsg
-,	Z
-Nizozemske	Npfsg
-in	Cc
-Luksemburga	Npmsg
-.	Z
-Sicer	Q
-pa	Cc
-je	Va-r3s-n
-Moodys	Npmsn
-danes	Rgp
-ohranil	Vmep-sm
-najvišjo	Agsfsa
-oceno	Ncfsa
-Aaa	Npfsg
-za	Sa
-Avstrijo	Npfsa
-in	Cc
-Francijo	Npfsa
-,	Z
-ki	Cs
-jima	Pp3mdd--y
-je	Va-r3s-n
-obete	Ncmpa
-v	Sa
-negativne	Agpmpa
-spremenil	Vmep-sm
-februarja	Ncmsg
-.	Z
+token	tag	lemma
+Juncker	mte:Ncmsn	juncker
+izrazil	mte:Vmep-sm	izraziti
+zavezanost	mte:Ncfsa	zavezanost
+stabilnosti	mte:Ncfsg	stabilnost
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+Bonitetna	mte:Agpfsn	boniteten
+agencija	mte:Ncfsn	agencija
+Moodys	mte:Npmsn	Moodys
+je	mte:Va-r3s-n	biti
+znižala	mte:Vmep-sf	znižati
+napovedi	mte:Ncfpa	napoved
+za	mte:Sa	za
+oceno	mte:Ncfsa	ocena
+dolgoročnega	mte:Agpmsg	dolgoročen
+dolga	mte:Agpfsg	dolg
+Nemčije	mte:Npfsg	Nemčija
+,	mte:Z	,
+Nizozemske	mte:Npfsg	Nizozemska
+in	mte:Cc	in
+Luksemburga	mte:Npmsg	Luksemburg
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+ti	mte:Pd-mpn	ta
+poslej	mte:Rgp	poslej
+niso	mte:Va-r3p-y	biti
+več	mte:Q	več
+stabilni	mte:Agpmpn	stabilen
+,	mte:Z	,
+temveč	mte:Cc	temveč
+negativni	mte:Agpmpn	negativen
+.	mte:Z	.
+Vse	mte:Pg-fpn	ves
+tri	mte:Mlcfpn	trije
+države	mte:Ncfpn	država
+imajo	mte:Vmpr3p-n	imeti
+trenutno	mte:Agpfsa	trenutno
+najvišjo	mte:Agsfsa	visok
+oceno	mte:Ncfsa	ocena
+Aaa	mte:Npfsg	Aaa
+.	mte:Z	.
+Agencija	mte:Ncfsn	agencija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+ta	mte:Pd-msa	ta
+korak	mte:Ncmsan	korak
+odločila	mte:Vmep-sf	odločiti
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+ocenila	mte:Vmep-sf	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+dolžniška	mte:Agpfsn	dolžniški
+kriza	mte:Ncfsn	kriza
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+ogroža	mte:Vmpr3s	ogrožati
+tudi	mte:Q	tudi
+najstabilnejše	mte:Agsfpa	razik
+evrske	mte:Agpfpa	evrski
+države	mte:Ncfpa	država
+.	mte:Z	.
+Bonitetna	mte:Agpfsn	boniteten
+hiša	mte:Ncfsn	hiša
+je	mte:Va-r3s-n	biti
+opozorila	mte:Vmep-sf	opozoriti
+na	mte:Sa	na
+mogoče	mte:Agpfpa	mogoč
+proračunske	mte:Agpfpa	proračunski
+in	mte:Cc	in
+gospodarske	mte:Agpfpa	gospodarski
+posledice	mte:Ncfpa	posledica
+izstopa	mte:Ncfsg	izstop
+Grčije	mte:Npfsg	Grčija
+iz	mte:Sg	iz
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+.	mte:Z	.
+Po	mte:Sl	po
+njeni	mte:Ps3fslsf	njen
+oceni	mte:Ncfsl	ocena
+je	mte:Va-r3s-n	biti
+vse	mte:Rgp	vse
+bolj	mte:Rgc	bolj
+mogoče	mte:Agpnsn	mogoč
+,	mte:Z	,
+da	mte:Cs	da
+bosta	mte:Va-f3d-n	biti
+splošno	mte:Agpfsa	splošen
+finančno	mte:Agpfsa	finančen
+pomoč	mte:Ncfsa	pomoč
+začasnega	mte:Agpmsg	začasen
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+stalnega	mte:Agpmsg	stalen
+sklada	mte:Ncmsg	sklad
+za	mte:Sa	za
+zaščito	mte:Ncfsa	zaščita
+evra	mte:Ncmsg	evro
+EFSF	mte:Npmsg	EFSF
+oz	mte:Npmsg	oz
+.	mte:Z	.
+ESM	mte:Npfsn	ESM
+potrebovali	mte:Vmpp-dm	potrebovati
+tudi	mte:Q	tudi
+Španija	mte:Npfsn	Španija
+in	mte:Cc	in
+Italija	mte:Npfsn	Italija
+.	mte:Z	.
+Španija	mte:Npfsn	Španija
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+pred	mte:Si	pred
+časom	mte:Ncmsi	čas
+že	mte:Q	že
+zaprosila	mte:Vmep-sf	zaprositi
+za	mte:Sa	za
+do	mte:Sg	do
+100	mte:Mdc	100
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+posojila	mte:Ncnsg	posojilo
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+svojemu	mte:Px-msd	svoj
+bančnemu	mte:Agpmsd	bančen
+sektorju	mte:Ncmsd	sektor
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+reševati	mte:Vmpn	reševati
+njeno	mte:Ps3nsasf	njen
+gospodarstvo	mte:Ncnsa	gospodarstvo
+na	mte:Sa	na
+splošno	mte:Agpnsa	splošen
+,	mte:Z	,
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+to	mte:Pd-nsn	ta
+precej	mte:Rgp	precej
+velik	mte:Agpmsnn	velik
+zalogaj	mte:Ncmsn	zalogaj
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+približno	mte:Rgp	približno
+dvakrat	mte:Rgp	dvakrat
+tolikšno	mte:Pd-nsn	tolikšen
+kot	mte:Cs	kot
+grško	mte:Agpnsn	grški
+,	mte:Z	,
+portugalsko	mte:Agpnsa	portugalski
+in	mte:Cc	in
+irsko	mte:Agpnsa	irski
+skupaj	mte:Rgp	skupaj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+Moodys	mte:Npmsn	Moodys
+.	mte:Z	.
+Sidro	mte:Ncnsn	sidro
+stabilnosti	mte:Ncfsg	stabilnost
+V	mte:Sl	v
+primeru	mte:Ncmsl	primer
+scenarija	mte:Ncmsg	scenarija
+,	mte:Z	,
+po	mte:Sl	po
+katerem	mte:Pq-msl	kateri
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+reševati	mte:Vmpn	reševati
+Madrid	mte:Npmsan	Madrid
+in	mte:Cc	in
+Rim	mte:Npmsan	Rim
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+morale	mte:Vmpp-pf	morati
+močne	mte:Agpfpn	močen
+evrske	mte:Agpfpn	evrski
+države	mte:Ncfpn	država
+nase	mte:Px---a--b	nase
+prevzeti	mte:Vmen	prevzeti
+še	mte:Q	še
+večje	mte:Agcnsa	velik
+finančno	mte:Agpnsa	finančen
+breme	mte:Ncnsa	breme
+.	mte:Z	.
+Nemčija	mte:Npfsn	Nemčija
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+denimo	mte:Vmem1p	deti
+,	mte:Z	,
+država	mte:Ncfsn	država
+,	mte:Z	,
+ki	mte:Cs	ki
+v	mte:Sl	v
+EFSF	mte:Npfsl	EFSF
+prispeva	mte:Vmpr3s	prispevati
+največ	mte:Rgs	največ
+.	mte:Z	.
+Nemške	mte:Agpfsg	nemški
+finančne	mte:Agpfsg	finančen
+institucije	mte:Ncfpg	institucija
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+močno	mte:Rgp	močno
+izpostavljene	mte:Appfpn	izpostavljen
+dolžniški	mte:Agpfsd	dolžniški
+krizi	mte:Ncfsd	kriza
+in	mte:Cc	in
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+imele	mte:Vmpp-pf	imeti
+težave	mte:Ncfpa	težava
+s	mte:Si	z
+potencialnimi	mte:Agpfpi	potencialen
+izgubami	mte:Ncfpi	izguba
+,	mte:Z	,
+menijo	mte:Vmpr3p	meniti
+v	mte:Sl	v
+bonitetni	mte:Agpfsl	boniteten
+agenciji	mte:Ncfsl	agencija
+.	mte:Z	.
+Nemško	mte:Agpnsn	nemški
+finančno	mte:Agpnsn	finančen
+ministrstvo	mte:Ncnsn	ministrstvo
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+odzivu	mte:Ncmsl	odziv
+na	mte:Sa	na
+potezo	mte:Ncfsa	poteza
+Moodys	mte:Npmsn	Moodys
+poudarilo	mte:Vmep-sn	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+Nemčija	mte:Npfsn	Nemčija
+ostaja	mte:Vmpr3s	ostajati
+sidro	mte:Ncnsa	sidro
+stabilnosti	mte:Ncfsg	stabilnost
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+seznanili	mte:Vmep-pm	seznaniti
+z	mte:Si	z
+oceno	mte:Ncfsi	ocena
+bonitetne	mte:Agpfsg	boniteten
+hiše	mte:Ncfsg	hiša
+,	mte:Z	,
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+dodali	mte:Vmep-pm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+ta	mte:Pd-fsn	ta
+osredotoča	mte:Vmpr3s	osredotočati
+na	mte:Sa	na
+kratkoročna	mte:Agpnpa	kratkoročen
+tveganja	mte:Ncnpa	tveganje
+.	mte:Z	.
+Tveganja	mte:Ncnsg	tveganje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+izpostavlja	mte:Vmpr3s	izpostavljati
+,	mte:Z	,
+niso	mte:Va-r3p-y	biti
+nova	mte:Agpnpn	nov
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+dejali	mte:Vmep-pm	dejati
+.	mte:Z	.
+Vodja	mte:Ncmsn	vodja
+evrske	mte:Agpfsg	evrski
+skupine	mte:Ncfsg	skupina
+in	mte:Cc	in
+luksemburški	mte:Agpmsny	luksemburški
+premier	mte:Ncmsn	premier
+Jean	mte:Npmsn	Jean
+-	mte:Z	-
+Claude	mte:Npmsn	Claude
+Juncker	mte:Npmsn	Juncker
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+odzivu	mte:Ncmsl	odziv
+izrazil	mte:Vmep-sm	izraziti
+močno	mte:Agpfsa	močen
+zavezanost	mte:Ncfsa	zavezanost
+stabilnosti	mte:Ncfsg	stabilnost
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+V	mte:Sl	v
+prepričanju	mte:Ncnsl	prepričanje
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Nizozemska	mte:Npfsn	Nizozemska
+in	mte:Cc	in
+Luksemburg	mte:Npmsn	Luksemburg
+močne	mte:Agpmpa	močen
+temelje	mte:Ncmpa	temelje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+ostajajo	mte:Vmpr3p	ostajati
+zavezani	mte:Appmpn	zavezan
+zagotavljanju	mte:Ncnsd	zagotavljanje
+stabilnosti	mte:Ncfsg	stabilnost
+evropske	mte:Agpfsg	evropski
+monetarne	mte:Agpfsg	monetaren
+unije	mte:Ncfsg	unija
+kot	mte:Cs	kot
+celote	mte:Ncfsg	celota
+.	mte:Z	.
+Nemčija	mte:Npfsn	Nemčija
+še	mte:Q	še
+brez	mte:Sg	brez
+posledic	mte:Ncfpg	posledica
+krize	mte:Ncfsg	kriza
+Berlin	mte:Npmsn	Berlin
+sicer	mte:Q	sicer
+doslej	mte:Rgp	doslej
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+čutil	mte:Vmpp-sm	čutiti
+pravih	mte:Agpfpg	pravi
+posledic	mte:Ncfpg	posledica
+krize	mte:Ncfsg	kriza
+in	mte:Cc	in
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+kapitalskih	mte:Agpmpl	kapitalski
+trgih	mte:Ncmpl	trg
+zadolževal	mte:Vmpp-sm	zadolževati
+celo	mte:Q	celo
+po	mte:Sl	po
+negativni	mte:Agpfsl	negativen
+obrestni	mte:Agpfsl	obresten
+meri	mte:Ncfsl	mera
+.	mte:Z	.
+Se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pa	mte:Cc	pa
+nemška	mte:Agpfsn	nemški
+kanclerka	mte:Ncfsn	kanclerka
+Angela	mte:Npfsn	Angela
+Merkel	mte:Npfsn	Merkel
+večkrat	mte:Rgc	večkrat
+znašla	mte:Vmep-sf	znajti
+v	mte:Sl	v
+središču	mte:Ncnsl	središče
+političnih	mte:Agpfpg	političen
+neviht	mte:Ncfpg	nevihta
+.	mte:Z	.
+Mnogi	mte:Pi-mpn	mnog
+so	mte:Va-r3p-n	biti
+namreč	mte:Cc	namreč
+kritični	mte:Agpmpn	kritičen
+do	mte:Sg	do
+njenega	mte:Ps3msgsf	njen
+varčevalno	mte:Rgp	varčevalno
+usmerjenega	mte:Appmsg	usmerjen
+pristopa	mte:Ncmsg	pristop
+razreševanja	mte:Ncnsg	razreševanje
+krize	mte:Ncfsg	kriza
+.	mte:Z	.
+Na	mte:Sa	na
+to	mte:Pd-nsa	ta
+je	mte:Va-r3s-n	biti
+spomnila	mte:Vmep-sf	spomniti
+tudi	mte:Q	tudi
+bonitetna	mte:Agpfsn	boniteten
+agencija	mte:Ncfsn	agencija
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+poudarila	mte:Vmep-sf	poudariti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odzivnost	mte:Ncfsn	odzivnost
+in	mte:Cc	in
+postopnost	mte:Ncfsn	postopnost
+političnega	mte:Agpmsg	političen
+odgovora	mte:Ncmsg	odgovor
+evropskih	mte:Agpmpg	evropski
+voditeljev	mte:Ncmpg	voditelj
+še	mte:Q	še
+en	mte:Mlpmsn	en
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+zaskrbljenost	mte:Ncfsa	zaskrbljenost
+.	mte:Z	.
+Odločitev	mte:Ncfsa	odločitev
+Moodys	mte:Npmsn	Moodys
+,	mte:Z	,
+da	mte:Cs	da
+obete	mte:Ncfpa	obeta
+omenjenih	mte:Appfpg	omenjen
+držav	mte:Ncfpg	država
+spremeni	mte:Vmer3s	spremeniti
+v	mte:Sa	v
+negativne	mte:Agpmpa	negativen
+,	mte:Z	,
+po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+dpa	mte:Npfsg	dpa
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+bonitetna	mte:Agpfsn	boniteten
+agencija	mte:Ncfsn	agencija
+razmišlja	mte:Vmpr3s	razmišljati
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+negativni	mte:Agpmpn	negativen
+pogoji	mte:Ncmpn	pogoj
+vztrajali	mte:Vmpp-pm	vztrajati
+,	mte:Z	,
+znižala	mte:Vmep-pf	znižati
+zdaj	mte:Rgp	zdaj
+najvišje	mte:Agsfsg	visok
+kreditne	mte:Agpfsg	krediten
+ocene	mte:Ncfsg	ocena
+Nemčije	mte:Npfsg	Nemčija
+,	mte:Z	,
+Nizozemske	mte:Npfsg	Nizozemska
+in	mte:Cc	in
+Luksemburga	mte:Npmsg	Luksemburg
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Moodys	mte:Npmsn	Moodys
+danes	mte:Rgp	danes
+ohranil	mte:Vmep-sm	ohraniti
+najvišjo	mte:Agsfsa	visok
+oceno	mte:Ncfsa	ocena
+Aaa	mte:Npfsg	Aaa
+za	mte:Sa	za
+Avstrijo	mte:Npfsa	Avstrija
+in	mte:Cc	in
+Francijo	mte:Npfsa	Francija
+,	mte:Z	,
+ki	mte:Cs	ki
+jima	mte:Pp3mdd--y	on
+je	mte:Va-r3s-n	biti
+obete	mte:Ncmpa	obeta
+v	mte:Sa	v
+negativne	mte:Agpmpa	negativen
+spremenil	mte:Vmep-sm	spremeniti
+februarja	mte:Ncmsg	februar
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+najvišjo	mte:Agsfsa	visok
+oceno	mte:Ncfsa	ocena
+in	mte:Cc	in
+stabilne	mte:Agpmpa	stabilen
+obete	mte:Ncmpa	obeta
+za	mte:Sa	za
+Finsko	mte:Npfsa	Finsko

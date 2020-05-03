@@ -1,406 +1,425 @@
-token	tag
-SD	Npmsn
-največ	Rgs
-podpore	Ncfsg
-,	Z
-sledi	Vmpr3s
-SDS	Npmsn
-.	Z
-Desus	Npmsn
-prehitel	Vmep-sm
-Pozitivno	Agpfsa
-Slovenijo	Npfsa
-.	Z
-Socialni	Agpmpn
-demokrati	Ncmpn
-so	Va-r3p-n
-s	Si
-26	Mdc
-odstotki	Ncmpi
-podpore	Ncfsg
-še	Q
-naprej	Rgp
-najmočnejša	Agsfsn
-stranka	Ncfsn
-v	Sl
-državi	Ncfsl
-,	Z
-podpora	Ncfsn
-pa	Cc
-ji	Pp3fsd--y
-je	Va-r3s-n
-glede	Rgp
-na	Sa
-prejšnji	Agpmsay
-mesec	Ncmsan
-še	Q
-nekoliko	Rgp
-zrasla	Vmep-sf
-,	Z
-kaže	Vmpr3s
-raziskava	Ncfsn
-javnega	Agpnsg
-mnenja	Ncnsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-za	Sa
-Planet	Npmsan
-TV	Npmsn
-izvedla	Vmep-sf
-agencija	Ncfsn
-Episcenter	Npmsn
-.	Z
-S	Si
-15,8	Mdc
-odstotka	Ncmsg
-podpore	Ncfsg
-se	Px------y
-je	Va-r3s-n
-na	Sa
-drugo	Mlpnsa
-mesto	Ncnsa
-uvrstila	Vmep-sf
-SDS	Npfsn
-,	Z
-stranka	Ncfsn
-Desus	Npmsn
-je	Va-r3s-n
-na	Sl
-tretjem	Mlonsl
-mestu	Ncnsl
-prehitela	Vmep-sf
-Pozitivno	Agpfsa
-Slovenijo	Npfsa
-.	Z
-Na	Sa
-volitve	Ncfpa
-le	Q
-polovica	Ncfsn
-Episcenter	Npmsn
-je	Va-r3s-n
-telefonsko	Agpfsa
-raziskavo	Ncfsa
-javnega	Agpnsg
-mnenja	Ncnsg
-izvedel	Vmep-sm
-med	Si
-14	Mdc
-.	Z
-in	Cc
-23	Mdc
-.	Z
-oktobrom	Ncmsi
-na	Sl
-reprezentativnem	Agpmsl
-vzorcu	Ncmsl
-1000	Mdc
-polnoletnih	Agpfpg
-oseb	Ncfpg
-.	Z
-Na	Sa
-vprašanje	Ncnsa
-o	Sl
-strankarskih	Agpfpl
-preferencah	Ncfpl
-so	Va-r3p-n
-odgovarjali	Vmpp-pm
-le	Q
-tisti	Pd-mpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-dejali	Vmep-pm
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-volitev	Ncfpg
-zanesljivo	Rgp
-,	Z
-verjetno	Rgp
-ali	Cc
-mogoče	Rgp
-udeležili	Vmep-pm
-.	Z
-Takšnih	Pd-mpg
-anketirancev	Ncmpg
-je	Va-r3s-n
-bilo	Va-p-sn
-509	Mdc
-.	Z
-Stranko	Ncfsn
-Desus	Npmsn
-po	Sl
-anketi	Ncfsl
-Episcentra	Npmsg
-podpira	Vmpr3s
-11,3	Mdc
-odstotka	Ncmsg
-tistih	Pd-mpg
-,	Z
-ki	Cs
-bi	Va-c
-šli	Vmbp-pm
-na	Sa
-volitve	Ncfpa
-.	Z
-Stranka	Ncfsn
-premierke	Ncfsg
-Alenke	Npfsg
-Bratušek	Npfsg
-je	Va-r3s-n
-zdrsnila	Vmep-sf
-na	Sa
-četrto	Mlonsa
-mesto	Ncnsa
-,	Z
-na	Sl
-voliščih	Ncnpl
-bi	Va-c
-jo	Pp3fsa--y
-obkrožilo	Vmep-sn
-7,7	Mdc
-odstotka	Ncmsg
-volivcev	Ncmpg
-.	Z
-SLS	Npfsn
-podpirajo	Vmpr3p
-štirje	Mlcmpn
-odstotki	Ncmpn
-ljudi	Ncmpg
-,	Z
-ki	Cs
-bi	Va-c
-volili	Vmbp-pm
-,	Z
-Nov	Agpmsnn
-Slovenija	Npfsn
-in	Cc
-Državljanska	Agpfsn
-lista	Ncmsn
-pa	Cc
-sta	Va-r3d-n
-se	Px------y
-s	Si
-3,7	Mdc
-in	Cc
-1,9	Mdc
-odstotka	Ncmsg
-glasov	Ncmpg
-znašli	Vmep-dm
-pod	Si
-parlamentarnim	Agpmsi
-pragom	Ncmsi
-.	Z
-SD	Npmsn
-gor	Rgp
-,	Z
-SDS	Npfsn
-dol	Z
-Najmočnejša	Agsfsn
-vladna	Agpfsn
-stranka	Ncfsn
-SD	Npfsn
-je	Va-r3s-n
-sicer	Q
-glede	Rgp
-na	Sa
-september	Ncmsan
-izboljšala	Vmep-sf
-svoj	Px-msa
-položaj	Ncmsan
-,	Z
-saj	Cc
-bi	Va-c
-jo	Pp3fsa--y
-na	Sl
-volitvah	Ncfpl
-podprlo	Vmep-sn
-za	Sa
-skoraj	Q
-tri	Mlcfpa
-odstotne	Agpfpa
-točke	Ncfpa
-več	Rgc
-ljudi	Ncmpg
-kot	Cs
-septembra	Ncmsg
-.	Z
-Stranko	Ncfsa
-SDS	Npfsg
-bi	Va-c
-podprlo	Vmep-sn
-dva	Mlcmda
-in	Cc
-pol	Rgp
-odstotka	Ncmsg
-manj	Rgc
-ljudi	Ncmpg
-kot	Cs
-septembra	Ncmsg
-.	Z
-Na	Sl
-repu	Ncmsl
-DL	Ncmsn
-Od	Sg
-avgusta	Ncmsg
-podpora	Ncfsn
-raste	Vmpr3s
-tudi	Q
-stranki	Ncfsd
-Desus	Npmsn
-,	Z
-medtem	Rgp
-ko	Cs
-od	Sg
-septembra	Ncmsg
-pada	Vmpr3s
-Pozitivni	Agpfsd
-Sloveniji	Npfsd
-.	Z
-Še	Q
-naprej	Rgp
-se	Px------y
-nadaljuje	Vmpr3s
-tudi	Q
-trend	Ncmsn
-padanja	Ncnsg
-podpore	Ncfsg
-SLS	Npfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-glede	Rgp
-na	Sa
-september	Ncmsan
-izgubila	Vmep-sf
-skoraj	Q
-tri	Mlcfpa
-odstotne	Agpfpa
-točke	Ncfpa
-,	Z
-in	Cc
-hudo	Agpnsa
-padanje	Ncnsa
-podpore	Ncfsg
-Novi	Agpfsd
-Sloveniji	Npfsd
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-ta	Pd-msa
-mesec	Ncmsan
-samo	Q
-3,7	Mdc
--	Z
-odstotno	Agpfsa
-podporo	Ncfsa
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-še	Q
-avgusta	Ncmsg
-uživala	Vmpp-sf
-8,6	Mdc
--	Z
-odstotno	Agpfsa
-podporo	Ncfsa
-.	Z
-Na	Sl
-zadnjem	Agpnsl
-mestu	Ncnsl
-je	Va-r3s-n
-že	Q
-nekaj	Rgp
-časa	Ncmsg
-Državljanska	Agpfsn
-lista	Ncmsn
-.	Z
-Anketa	Ncfsn
-še	Q
-kaže	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-skoraj	Q
-18	Mdc
-odstotkov	Ncmpg
-vprašanih	Appmpg
-volilo	Vmbp-sn
-druge	Mlpfsg
-stranke	Ncfsg
-.	Z
-Več	Rgc
-kot	Cs
-pol	Rgp
-proti	Sd
-SDS	Npfsd
-Anketiranci	Npmpn
-so	Va-r3p-n
-odgovarjali	Vmpp-pm
-tudi	Q
-na	Sa
-vprašanje	Ncnsa
-,	Z
-katere	Pq-fsg
-stranke	Ncfsg
-zagotovo	Rgp
-ne	Q
-bi	Va-c
-volili	Vmbp-pm
-.	Z
-Največ	Rgs
-,	Z
-kar	Rgp
-55,1	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-,	Z
-je	Va-r3s-n
-odgovorilo	Vmep-sn
-,	Z
-da	Cs
-zagotovo	Rgp
-ne	Q
-bi	Va-c
-volili	Vmbp-pm
-stranke	Ncfsg
-SDS	Npfsg
-.	Z
-39	Mdc
-odstotkov	Ncmpg
-vprašanih	Appmpg
-ne	Q
-bi	Va-c
-volilo	Vmbp-sn
-stranke	Ncfsg
-Pozitivna	Agpfsn
-Slovenija	Npfsn
-.	Z
-Na	Sl
-tretjem	Mlonsl
-mestu	Ncnsl
-je	Va-r3s-n
-stranka	Ncfsn
-NSi	Npfsg
-,	Z
-katere	Pq-fsg
-ne	Q
-bi	Va-c
-volilo	Vmbp-sn
-21,2	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-,	Z
-SD	Npmsn
-pa	Cc
-ne	Q
-bi	Va-c
-volilo	Vmbp-sn
-15	Mdc
-odstotkov	Ncmpg
-anketirancev	Ncmpg
-.	Z
+token	tag	lemma
+SD	mte:Npmsn	SD
+največ	mte:Rgs	največ
+podpore	mte:Ncfsg	podpora
+,	mte:Z	,
+sledi	mte:Vmpr3s	slediti
+SDS	mte:Npmsn	SDS
+.	mte:Z	.
+Desus	mte:Npmsn	Desus
+prehitel	mte:Vmep-sm	prehiteti
+Pozitivno	mte:Agpfsa	pozitiven
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Socialni	mte:Agpmpn	socialen
+demokrati	mte:Ncmpn	demokrat
+so	mte:Va-r3p-n	biti
+s	mte:Si	z
+26	mte:Mdc	26
+odstotki	mte:Ncmpi	odstotek
+podpore	mte:Ncfsg	podpora
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+najmočnejša	mte:Agsfsn	močen
+stranka	mte:Ncfsn	stranka
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+,	mte:Z	,
+podpora	mte:Ncfsn	podpora
+pa	mte:Cc	pa
+ji	mte:Pp3fsd--y	on
+je	mte:Va-r3s-n	biti
+glede	mte:Rgp	glede
+na	mte:Sa	na
+prejšnji	mte:Agpmsay	prejšnji
+mesec	mte:Ncmsan	mesec
+še	mte:Q	še
+nekoliko	mte:Rgp	nekoliko
+zrasla	mte:Vmep-sf	zrasti
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+raziskava	mte:Ncfsn	raziskava
+javnega	mte:Agpnsg	javen
+mnenja	mte:Ncnsg	mnenje
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Planet	mte:Npmsan	Planet
+TV	mte:Npmsn	TV
+izvedla	mte:Vmep-sf	izvesti
+agencija	mte:Ncfsn	agencija
+Episcenter	mte:Npmsn	Episcenter
+.	mte:Z	.
+S	mte:Si	z
+15,8	mte:Mdc	15,8
+odstotka	mte:Ncmsg	odstotek
+podpore	mte:Ncfsg	podpora
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+drugo	mte:Mlpnsa	drug
+mesto	mte:Ncnsa	mesto
+uvrstila	mte:Vmep-sf	uvrstiti
+SDS	mte:Npfsn	SDS
+,	mte:Z	,
+stranka	mte:Ncfsn	stranka
+Desus	mte:Npmsn	Desus
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+tretjem	mte:Mlonsl	tretji
+mestu	mte:Ncnsl	mesto
+prehitela	mte:Vmep-sf	prehiteti
+Pozitivno	mte:Agpfsa	pozitiven
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Na	mte:Sa	na
+volitve	mte:Ncfpa	volitev
+le	mte:Q	le
+polovica	mte:Ncfsn	polovica
+Episcenter	mte:Npmsn	Episcenter
+je	mte:Va-r3s-n	biti
+telefonsko	mte:Agpfsa	telefonski
+raziskavo	mte:Ncfsa	raziskava
+javnega	mte:Agpnsg	javen
+mnenja	mte:Ncnsg	mnenje
+izvedel	mte:Vmep-sm	izvedeti
+med	mte:Si	med
+14	mte:Mdc	14
+.	mte:Z	.
+in	mte:Cc	in
+23	mte:Mdc	23
+.	mte:Z	.
+oktobrom	mte:Ncmsi	oktober
+na	mte:Sl	na
+reprezentativnem	mte:Agpmsl	reprezentativen
+vzorcu	mte:Ncmsl	vzorec
+1000	mte:Mdc	1000
+polnoletnih	mte:Agpfpg	polnoleten
+oseb	mte:Ncfpg	oseba
+.	mte:Z	.
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+o	mte:Sl	o
+strankarskih	mte:Agpfpl	strankarski
+preferencah	mte:Ncfpl	preferenca
+so	mte:Va-r3p-n	biti
+odgovarjali	mte:Vmpp-pm	odgovarjati
+le	mte:Q	le
+tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+dejali	mte:Vmep-pm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+volitev	mte:Ncfpg	volitev
+zanesljivo	mte:Rgp	zanesljivo
+,	mte:Z	,
+verjetno	mte:Rgp	verjetno
+ali	mte:Cc	ali
+mogoče	mte:Rgp	mogoče
+udeležili	mte:Vmep-pm	udeležiti
+.	mte:Z	.
+Takšnih	mte:Pd-mpg	takšen
+anketirancev	mte:Ncmpg	anketiranec
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+509	mte:Mdc	509
+.	mte:Z	.
+Stranko	mte:Ncfsn	stranka
+Desus	mte:Npmsn	Desus
+po	mte:Sl	po
+anketi	mte:Ncfsl	anket
+Episcentra	mte:Npmsg	Episcentra
+podpira	mte:Vmpr3s	podpirati
+11,3	mte:Mdc	11,3
+odstotka	mte:Ncmsg	odstotek
+tistih	mte:Pd-mpg	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+šli	mte:Vmbp-pm	iti
+na	mte:Sa	na
+volitve	mte:Ncfpa	volitev
+.	mte:Z	.
+Stranka	mte:Ncfsn	stranka
+premierke	mte:Ncfsg	premierka
+Alenke	mte:Npfsg	Alenka
+Bratušek	mte:Npfsg	Bratušek
+je	mte:Va-r3s-n	biti
+zdrsnila	mte:Vmep-sf	zdrsniti
+na	mte:Sa	na
+četrto	mte:Mlonsa	četrti
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+na	mte:Sl	na
+voliščih	mte:Ncnpl	volišče
+bi	mte:Va-c	biti
+jo	mte:Pp3fsa--y	on
+obkrožilo	mte:Vmep-sn	obkrožiti
+7,7	mte:Mdc	7,7
+odstotka	mte:Ncmsg	odstotek
+volivcev	mte:Ncmpg	volivec
+.	mte:Z	.
+SLS	mte:Npfsn	SLS
+podpirajo	mte:Vmpr3p	podpirati
+štirje	mte:Mlcmpn	štirje
+odstotki	mte:Ncmpn	odstotek
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+volili	mte:Vmbp-pm	voliti
+,	mte:Z	,
+Nov	mte:Agpmsnn	nov
+Slovenija	mte:Npfsn	Slovenija
+in	mte:Cc	in
+Državljanska	mte:Agpfsn	državljanski
+lista	mte:Ncmsn	list
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+s	mte:Si	z
+3,7	mte:Mdc	3,7
+in	mte:Cc	in
+1,9	mte:Mdc	1,9
+odstotka	mte:Ncmsg	odstotek
+glasov	mte:Ncmpg	glas
+znašli	mte:Vmep-dm	znajti
+pod	mte:Si	pod
+parlamentarnim	mte:Agpmsi	parlamentaren
+pragom	mte:Ncmsi	prag
+.	mte:Z	.
+SD	mte:Npmsn	SD
+gor	mte:Rgp	gor
+,	mte:Z	,
+SDS	mte:Npfsn	SDS
+dol	mte:Z	dol
+Najmočnejša	mte:Agsfsn	močen
+vladna	mte:Agpfsn	vladen
+stranka	mte:Ncfsn	stranka
+SD	mte:Npfsn	SD
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+glede	mte:Rgp	glede
+na	mte:Sa	na
+september	mte:Ncmsan	september
+izboljšala	mte:Vmep-sf	izboljšati
+svoj	mte:Px-msa	svoj
+položaj	mte:Ncmsan	položaj
+,	mte:Z	,
+saj	mte:Cc	saj
+bi	mte:Va-c	biti
+jo	mte:Pp3fsa--y	on
+na	mte:Sl	na
+volitvah	mte:Ncfpl	volitev
+podprlo	mte:Vmep-sn	podpreti
+za	mte:Sa	za
+skoraj	mte:Q	skoraj
+tri	mte:Mlcfpa	trije
+odstotne	mte:Agpfpa	odstoten
+točke	mte:Ncfpa	točka
+več	mte:Rgc	več
+ljudi	mte:Ncmpg	človek
+kot	mte:Cs	kot
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Stranko	mte:Ncfsa	stranka
+SDS	mte:Npfsg	SDS
+bi	mte:Va-c	biti
+podprlo	mte:Vmep-sn	podpreti
+dva	mte:Mlcmda	dva
+in	mte:Cc	in
+pol	mte:Rgp	pol
+odstotka	mte:Ncmsg	odstotek
+manj	mte:Rgc	manj
+ljudi	mte:Ncmpg	človek
+kot	mte:Cs	kot
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Na	mte:Sl	na
+repu	mte:Ncmsl	rep
+DL	mte:Ncmsn	DL
+Od	mte:Sg	od
+avgusta	mte:Ncmsg	avgust
+podpora	mte:Ncfsn	podpora
+raste	mte:Vmpr3s	rasti
+tudi	mte:Q	tudi
+stranki	mte:Ncfsd	stranka
+Desus	mte:Npmsn	Desus
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+od	mte:Sg	od
+septembra	mte:Ncmsg	september
+pada	mte:Vmpr3s	padati
+Pozitivni	mte:Agpfsd	pozitiven
+Sloveniji	mte:Npfsd	Slovenija
+.	mte:Z	.
+Še	mte:Q	še
+naprej	mte:Rgp	naprej
+se	mte:Px------y	se
+nadaljuje	mte:Vmpr3s	nadaljevati
+tudi	mte:Q	tudi
+trend	mte:Ncmsn	trend
+padanja	mte:Ncnsg	padanje
+podpore	mte:Ncfsg	podpora
+SLS	mte:Npfsg	SLS
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+glede	mte:Rgp	glede
+na	mte:Sa	na
+september	mte:Ncmsan	september
+izgubila	mte:Vmep-sf	izgubiti
+skoraj	mte:Q	skoraj
+tri	mte:Mlcfpa	trije
+odstotne	mte:Agpfpa	odstoten
+točke	mte:Ncfpa	točka
+,	mte:Z	,
+in	mte:Cc	in
+hudo	mte:Agpnsa	hud
+padanje	mte:Ncnsa	padanja
+podpore	mte:Ncfsg	podpora
+Novi	mte:Agpfsd	nov
+Sloveniji	mte:Npfsd	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+ta	mte:Pd-msa	ta
+mesec	mte:Ncmsan	mesec
+samo	mte:Q	samo
+3,7	mte:Mdc	3,7
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+podporo	mte:Ncfsa	podpora
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+avgusta	mte:Ncmsg	avgust
+uživala	mte:Vmpp-sf	uživati
+8,6	mte:Mdc	8,6
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+podporo	mte:Ncfsa	podpora
+.	mte:Z	.
+Na	mte:Sl	na
+zadnjem	mte:Agpnsl	zadnji
+mestu	mte:Ncnsl	mesto
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+Državljanska	mte:Agpfsn	državljanski
+lista	mte:Ncmsn	list
+.	mte:Z	.
+Anketa	mte:Ncfsn	anket
+še	mte:Q	še
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+skoraj	mte:Q	skoraj
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+vprašanih	mte:Appmpg	vprašan
+volilo	mte:Vmbp-sn	voliti
+druge	mte:Mlpfsg	drug
+stranke	mte:Ncfsg	stranka
+.	mte:Z	.
+Več	mte:Rgc	več
+kot	mte:Cs	kot
+pol	mte:Rgp	pol
+proti	mte:Sd	proti
+SDS	mte:Npfsd	SDS
+Anketiranci	mte:Npmpn	Anketiranci
+so	mte:Va-r3p-n	biti
+odgovarjali	mte:Vmpp-pm	odgovarjati
+tudi	mte:Q	tudi
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+katere	mte:Pq-fsg	kateri
+stranke	mte:Ncfsg	stranka
+zagotovo	mte:Rgp	zagotovo
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+volili	mte:Vmbp-pm	voliti
+.	mte:Z	.
+Največ	mte:Rgs	največ
+,	mte:Z	,
+kar	mte:Rgp	kar
+55,1	mte:Mdc	55,1
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odgovorilo	mte:Vmep-sn	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+zagotovo	mte:Rgp	zagotovo
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+volili	mte:Vmbp-pm	voliti
+stranke	mte:Ncfsg	stranka
+SDS	mte:Npfsg	SDS
+.	mte:Z	.
+39	mte:Mdc	39
+odstotkov	mte:Ncmpg	odstotek
+vprašanih	mte:Appmpg	vprašan
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+volilo	mte:Vmbp-sn	voliti
+stranke	mte:Ncfsg	stranka
+Pozitivna	mte:Agpfsn	pozitiven
+Slovenija	mte:Npfsn	Slovenija
+.	mte:Z	.
+Na	mte:Sl	na
+tretjem	mte:Mlonsl	tretji
+mestu	mte:Ncnsl	mesto
+je	mte:Va-r3s-n	biti
+stranka	mte:Ncfsn	stranka
+NSi	mte:Npfsg	NSi
+,	mte:Z	,
+katere	mte:Pq-fsg	kateri
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+volilo	mte:Vmbp-sn	voliti
+21,2	mte:Mdc	21,2
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+,	mte:Z	,
+SD	mte:Npmsn	SD
+pa	mte:Cc	pa
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+volilo	mte:Vmbp-sn	voliti
+15	mte:Mdc	15
+odstotkov	mte:Ncmpg	odstotek
+anketirancev	mte:Ncmpg	anketiranec
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+še	mte:Q	še
+Desus	mte:Npmsn	Desus
+(	mte:Z	(
+13,1	mte:Mdc	13,1
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+DL	mte:Ncmsn	DL
+(	mte:Z	(
+13	mte:Mdc	13
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+in	mte:Cc	in
+SLS	mte:Npmsn	SLS
+(	mte:Z	(
+10,7	mte:Mdc	10,7
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)

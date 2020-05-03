@@ -1,200 +1,214 @@
-token	tag
-Sin	Ncmsn
-ljubljanskega	Agpmsg
-župana	Ncmsg
-Zorana	Npmsg
-Jankovića	Npmsg
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-ima	Vmpr3s-n
-Gašpar	Npmsn
-Gašpar	Npmsn
-Mišič	Npmsn
-velik	Agpmsan
-potencial	Ncmsan
-v	Sl
-Luki	Npfsl
-Koper	Npmsn
-"	Z
-Trenutno	Rgp
-se	Px------y
-razdolžujemo	Vmpr1p
-.	Z
-Če	Cs
-bomo	Va-f1p-n
-prišli	Vmep-pm
-do	Sg
-sredstev	Ncnpg
-,	Z
-pa	Cc
-bom	Va-f1s-n
-konkretno	Rgp
-razmislil	Vmep-sm
-o	Sl
-naložbi	Ncfsl
-v	Sl
-Luki	Npfsl
-Koper	Npmsn
-,	Z
-"	Z
-je	Va-r3s-n
-na	Sa
-naše	Ps1nsap
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-je	Va-r3s-n
-po	Sl
-imenovanju	Ncnsl
-Gašparja	Npmsg
-Gašparja	Npmsg
-Mišiča	Npmsg
-pripravljen	Appmsnn
-investirati	Vmbn
-v	Sa
-Luko	Npfsa
-Koper	Npmsa
-,	Z
-odgovoril	Vmep-sm
-Damijan	Npmsn
-Janković	Npmsn
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-še	Q
-:	Z
-"	Z
-Luka	Npmsn
-Koper	Npmsn
-je	Va-r3s-n
-ena	Mlpfsn
-redkih	Agpfpg
-slovenskih	Agpfpg
-družb	Ncfpg
-s	Si
-potencialom	Ncmsi
-.	Z
-Gašpar	Npmsn
-Gašpar	Npmsn
-Mišič	Npmsn
-ima	Vmpr3s-n
-potencial	Ncmsan
-.	Z
-Absolutno	Rgp
-bi	Va-c
-kupil	Vmep-sm
-delnice	Ncfpa
-Luke	Npfsg
-Koper	Npmsn
-.	Z
-"	Z
-Devetčlanski	Agpmsny
-nadzorni	Agpmsny
-svet	Ncmsn
-Luke	Npfsg
-Koper	Npmsn
-pod	Si
-vodstvom	Ncnsi
-Dina	Npmsg
-Klobasa	Npmsg
-je	Va-r3s-n
-s	Si
-petimi	Mlc-pi
-glasovi	Ncmpi
-potrdil	Vmep-sm
-prejšnji	Agpmsay
-teden	Ncmsan
-razrešenega	Appmsg
-državnega	Agpmsg
-sekretarja	Ncmsg
-Gašparja	Npmsg
-Gašparja	Npmsg
-Mišiča	Npmsg
-za	Sa
-novega	Agpmsa
-predsednika	Ncmsay
-uprave	Ncfsg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-razjarilo	Vmep-sn
-tri	Mlcfpa
-koalicijske	Agpfpa
-stranke	Ncfpa
-.	Z
-Šef	Ncmsn
-SD	Npfsg
-Igor	Npmsn
-Lukšič	Npmsn
-je	Va-r3s-n
-denimo	Vmem1p
-že	Q
-napovedal	Vmep-sm
-,	Z
-da	Cs
-pričakuje	Vmpr3s
-ukrepanje	Ncnsa
-Slovenske	Agpfsg
-odškodninske	Agpfsg
-družbe	Ncfsg
-(	Z
-Sod	Ncmsn
-)	Z
-in	Cc
-vlade	Ncfsg
-.	Z
-V	Sl
-nasprotnem	Agpmsl
-primeru	Ncmsl
-,	Z
-pa	Cc
-bo	Va-f3s-n
-SD	Npfsa
-koalicijo	Ncfsa
-najverjetneje	Rgs
-zapustila	Vmep-sf
-.	Z
-Ljubljanski	Agpmsny
-župan	Ncmsn
-Zoran	Npmsn
-Janković	Npmsn
-je	Va-r3s-n
-domnevno	Agpnsa
-vpletanje	Ncnsa
-v	Sa
-kadrovanje	Ncnsa
-večkrat	Rgc
-zanikal	Vmep-sm
-.	Z
-Podjetja	Ncnsg
-njegovega	Ps3msgsm
-sina	Ncmsg
-Damijana	Npmsay
-Jankovića	Npmsgy
-pa	Cc
-so	Va-r3p-n
-sicer	Q
-precej	Rgp
-zadolžena	Appnpn
-.	Z
-Electa	Npmsn
-Naložbe	Npfsg
-,	Z
-Electa	Npmsn
-d.o.o	Mdc
-.	Z
-,	Z
-Composita	Npmsn
-,	Z
-Oxina	Npmsay
-in	Cc
-Sar	Npmsn
-imajo	Vmpr3p-n
-po	Sl
-podatkih	Ncmpl
-Ajpesa	Npmsg
-blokirane	Appmpa
-račune	Ncmpa
-.	Z
+token	tag	lemma
+Sin	mte:Ncmsn	sin
+ljubljanskega	mte:Agpmsg	ljubljanski
+župana	mte:Ncmsg	župan
+Zorana	mte:Npmsg	Zoran
+Jankovića	mte:Npmsg	Janković
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+Gašpar	mte:Npmsn	Gašpar
+Gašpar	mte:Npmsn	Gašpar
+Mišič	mte:Npmsn	Mišič
+velik	mte:Agpmsan	velik
+potencial	mte:Ncmsan	potencial
+v	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+"	mte:Z	"
+Trenutno	mte:Rgp	trenutno
+se	mte:Px------y	se
+razdolžujemo	mte:Vmpr1p	razdolževati
+.	mte:Z	.
+Če	mte:Cs	če
+bomo	mte:Va-f1p-n	biti
+prišli	mte:Vmep-pm	priti
+do	mte:Sg	do
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+pa	mte:Cc	pa
+bom	mte:Va-f1s-n	biti
+konkretno	mte:Rgp	konkretno
+razmislil	mte:Vmep-sm	razmisliti
+o	mte:Sl	o
+naložbi	mte:Ncfsl	naložba
+v	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+naše	mte:Ps1nsap	naš
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+imenovanju	mte:Ncnsl	imenovanje
+Gašparja	mte:Npmsg	Gašpar
+Gašparja	mte:Npmsg	Gašpar
+Mišiča	mte:Npmsg	Mišič
+pripravljen	mte:Appmsnn	pripravljen
+investirati	mte:Vmbn	investirati
+v	mte:Sa	v
+Luko	mte:Npfsa	Luka
+Koper	mte:Npmsa	Koper
+,	mte:Z	,
+odgovoril	mte:Vmep-sm	odgovoriti
+Damijan	mte:Npmsn	Damijan
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+:	mte:Z	:
+"	mte:Z	"
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+je	mte:Va-r3s-n	biti
+ena	mte:Mlpfsn	en
+redkih	mte:Agpfpg	redek
+slovenskih	mte:Agpfpg	slovenski
+družb	mte:Ncfpg	družba
+s	mte:Si	z
+potencialom	mte:Ncmsi	potencial
+.	mte:Z	.
+Gašpar	mte:Npmsn	Gašpar
+Gašpar	mte:Npmsn	Gašpar
+Mišič	mte:Npmsn	Mišič
+ima	mte:Vmpr3s-n	imeti
+potencial	mte:Ncmsan	potencial
+.	mte:Z	.
+Absolutno	mte:Rgp	absoluten
+bi	mte:Va-c	biti
+kupil	mte:Vmep-sm	kupiti
+delnice	mte:Ncfpa	delnica
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+"	mte:Z	"
+Devetčlanski	mte:Agpmsny	devetčlanski
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+pod	mte:Si	pod
+vodstvom	mte:Ncnsi	vodstvo
+Dina	mte:Npmsg	Dina
+Klobasa	mte:Npmsg	Klobasa
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+petimi	mte:Mlc-pi	pet
+glasovi	mte:Ncmpi	glas
+potrdil	mte:Vmep-sm	potrditi
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+razrešenega	mte:Appmsg	razrešen
+državnega	mte:Agpmsg	državen
+sekretarja	mte:Ncmsg	sekretar
+Gašparja	mte:Npmsg	Gašpar
+Gašparja	mte:Npmsg	Gašpar
+Mišiča	mte:Npmsg	Mišič
+za	mte:Sa	za
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+razjarilo	mte:Vmep-sn	razjariti
+tri	mte:Mlcfpa	trije
+koalicijske	mte:Agpfpa	koalicijski
+stranke	mte:Ncfpa	stranka
+.	mte:Z	.
+Šef	mte:Ncmsn	šef
+SD	mte:Npfsg	SD
+Igor	mte:Npmsn	Igor
+Lukšič	mte:Npmsn	Lukšič
+je	mte:Va-r3s-n	biti
+denimo	mte:Vmem1p	deti
+že	mte:Q	že
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+pričakuje	mte:Vmpr3s	pričakovati
+ukrepanje	mte:Ncnsa	ukrepanje
+Slovenske	mte:Agpfsg	slovenski
+odškodninske	mte:Agpfsg	odškodninski
+družbe	mte:Ncfsg	družba
+(	mte:Z	(
+Sod	mte:Ncmsn	sod
+)	mte:Z	)
+in	mte:Cc	in
+vlade	mte:Ncfsg	vlada
+.	mte:Z	.
+V	mte:Sl	v
+nasprotnem	mte:Agpmsl	nasproten
+primeru	mte:Ncmsl	primer
+,	mte:Z	,
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+SD	mte:Npfsa	SD
+koalicijo	mte:Ncfsa	koalicija
+najverjetneje	mte:Rgs	verjetno
+zapustila	mte:Vmep-sf	zapustiti
+.	mte:Z	.
+Ljubljanski	mte:Agpmsny	ljubljanski
+župan	mte:Ncmsn	župan
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+je	mte:Va-r3s-n	biti
+domnevno	mte:Agpnsa	domneven
+vpletanje	mte:Ncnsa	vpletanje
+v	mte:Sa	v
+kadrovanje	mte:Ncnsa	kadrovanje
+večkrat	mte:Rgc	večkrat
+zanikal	mte:Vmep-sm	zanikati
+.	mte:Z	.
+Podjetja	mte:Ncnsg	podjetje
+njegovega	mte:Ps3msgsm	njegov
+sina	mte:Ncmsg	sin
+Damijana	mte:Npmsg	Damijan
+Jankovića	mte:Npmsg	Janković
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+precej	mte:Rgp	precej
+zadolžena	mte:Appnpn	zadolžen
+.	mte:Z	.
+Electa	mte:Npmsn	Electa
+Naložbe	mte:Npfsg	Naložba
+,	mte:Z	,
+Electa	mte:Npmsn	Electa
+d.o.o	mte:Mdc	d.o.o
+.	mte:Z	.
+,	mte:Z	,
+Composita	mte:Npmsn	Composita
+,	mte:Z	,
+Oxina	mte:Npmsn	Oxina
+in	mte:Cc	in
+Sar	mte:Npmsn	Sar
+imajo	mte:Vmpr3p-n	imeti
+po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Ajpesa	mte:Npmsg	Ajpes
+blokirane	mte:Appmpa	blokiran
+račune	mte:Ncmpa	račun
+.	mte:Z	.
+Damijan	mte:Npmsn	Damijan
+Janković	mte:Npmsn	Janković
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+Gašpar	mte:Npmsn	Gašpar
+Gašpar	mte:Npmsn	Gašpar
+Mišič	mte:Npmsn	Mišič
+v	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+velik	mte:Agpmsan	velik
+potencial	mte:Ncmsan	potencial

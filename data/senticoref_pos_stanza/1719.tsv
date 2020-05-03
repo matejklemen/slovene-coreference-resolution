@@ -1,559 +1,575 @@
-token	tag
-Uprava	Ncfsn
-največje	Agsfsg
-ameriške	Agpfsg
-banke	Ncfsg
-JP	Npfsn
-Morgan	Npmsn
-Chase	Npmsn
-je	Va-r3s-n
-sprejela	Vmep-sf
-odstop	Ncmsan
-glavne	Agpfsg
-direktorice	Ncfsg
-oddelka	Ncmsg
-za	Sa
-investicije	Ncfpa
-Ine	Npfsg
-Drew	Npfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-tako	Rgp
-postala	Vmep-sf
-prva	Mlofsn
-žrtev	Ncfsn
-izgube	Ncfsg
-najmanj	Rgs
-dveh	Mlcfdg
-milijard	Ncfdg
-dolarjev	Ncmpg
-v	Sl
-šestih	Mlc-pl
-tednih	Ncmpl
-zaradi	Sg
-napačnih	Agpfpg
-naložb	Ncfpg
-.	Z
-Zamenjal	Vmep-sm
-jo	Pp3fsa--y
-bo	Va-f3s-n
-eden	Mlpmsn
-od	Sg
-direktorjev	Ncmpg
-v	Sl
-investicijskem	Agpmsl
-oddelku	Ncmsl
-Matt	Npmsn
-Zames	Npmsn
-.	Z
-Direktorica	Ncfsn
-oddelka	Ncmsg
-za	Sa
-investicije	Ncfpa
-v	Sl
-največji	Agsfsl
-ameriški	Agpfsl
-banki	Ncfsl
-JP	Npmsn
-Morgan	Npmsn
-Chase	Npmsn
-,	Z
-55	Mdc
--	Z
-letna	Agpfsn
-Ina	Npfsn
-Drew	Npfsn
-,	Z
-je	Va-r3s-n
-zaradi	Sg
-hude	Agpfsg
-polomije	Ncfsg
-pri	Sl
-trgovanju	Ncnsl
-z	Si
-izvedenimi	Appmpi
-finančnimi	Agpmpi
-instrumenti	Ncmpi
-,	Z
-ki	Cs
-je	Va-r3s-n
-banki	Ncfsd
-ustvarila	Vmep-sf
-najmanj	Rgs
-dve	Mlcfda
-milijardi	Ncfda
-dolarjev	Ncmpg
-izgube	Ncfsg
-,	Z
-odstopila	Vmep-sf
-.	Z
-Toliko	Rgp
-je	Va-r3s-n
-bilo	Va-p-sn
-le	Q
-neposredne	Agpfsg
-izgube	Ncfsg
-s	Si
-trgovanjem	Ncnsi
-,	Z
-banka	Ncfsn
-pa	Cc
-je	Va-r3s-n
-dobila	Vmep-sf
-hud	Agpmsan
-udarec	Ncmsan
-svojemu	Px-msd
-ugledu	Ncmsd
-ter	Cc
-vrednosti	Ncfsd
-delnic	Ncfpg
-.	Z
-Banka	Npfsn
-je	Va-r3s-n
-samo	Q
-v	Sa
-četrtek	Ncmsan
-,	Z
-ko	Cs
-je	Va-r3s-n
-glavni	Agpmsny
-izvršni	Agpmsny
-direktor	Ncmsn
-Jamie	Npmsn
-Dimon	Npmsn
-objavil	Vmep-sm
-izgubo	Ncfsa
-,	Z
-izgubila	Vmep-sf
-15	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-vrednosti	Ncfsg
-delnic	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-v	Sa
-petek	Ncmsan
-ponovno	Rgp
-pocenile	Vmep-pf
-za	Sa
-skoraj	Q
-10	Mdc
-odstotkov	Ncmpg
-.	Z
-JP	Ncmsn
-Morgan	Npmsn
-Chase	Npmsn
-je	Va-r3s-n
-škodovala	Vmbp-sf
-tudi	Q
-celotni	Agpfsd
-bančni	Agpfsd
-industriji	Ncfsd
-,	Z
-ki	Cs
-se	Px------y
-bo	Va-f3s-n
-sedaj	Rgp
-težje	Rgc
-upirala	Vmpp-sf
-dodatnim	Agpfpd
-regulacijam	Ncfpd
-Wall	Npmsn
-Streeta	Npmsg
-.	Z
-Ina	Npfsn
-Drew	Npfsn
-je	Va-r3s-n
-vodila	Vmpp-sf
-investicijski	Agpmsay
-oddelek	Ncmsan
-pri	Sl
-JP	Npmsn
-Morgan	Npmsn
-Chase	Npmsn
-zadnjih	Agpnpg
-sedem	Mlc-pa
-let	Ncnpg
-.	Z
-Za	Sa
-svoje	Px-nsa
-delo	Ncnsa
-je	Va-r3s-n
-bila	Va-p-sf
-tudi	Q
-obilno	Rgp
-poplačana	Appfsn
-,	Z
-saj	Cc
-je	Va-r3s-n
-samo	Q
-lani	Rgp
-zaslužila	Vmep-sf
-15,5	Mdc
-milijona	Ncmsg
-dolarjev	Ncmpg
-.	Z
-Po	Sl
-objavi	Ncfsl
-škandala	Ncmsg
-je	Va-r3s-n
-večkrat	Rgc
-ponudila	Vmep-sf
-odstop	Ncmsan
-,	Z
-vendar	Cc
-še	Q
-ni	Va-r3s-y
-bil	Va-p-sm
-sprejet	Appmsnn
-.	Z
-Za	Sa
-velike	Agpfpa
-izgube	Ncfpa
-s	Si
-trgovanji	Ncnpi
-je	Va-r3s-n
-odgovoren	Agpmsnn
-londonski	Agpmsny
-trgovec	Ncmsn
-z	Si
-vrednostnimi	Agpmpi
-papirji	Ncmpi
-za	Sa
-banko	Ncfsa
-Bruno	Npmsn
-Iksil	Npmsn
-.	Z
-Iksilu	Npmsl
-so	Va-r3p-n
-zaradi	Sg
-velikanskih	Agpfpg
-vsot	Ncfpg
-denarja	Ncmsg
-za	Sa
-stave	Ncfpa
-z	Si
-izmenjavami	Ncfpi
-posojilnega	Agpnsg
-tveganja	Ncnsg
-credit	Ncmsn
-default	Ncmsan
-swaps	Rgp
-rekli	Vmep-pm
-kar	Rgp
-londonski	Agpmsny
-kit	Ncmsn
-.	Z
-Obrvi	Ncfpg
-je	Va-r3s-n
-dvigal	Vmpp-sm
-že	Q
-aprila	Ncmsg
-,	Z
-vendar	Cc
-je	Va-r3s-n
-takrat	Rgp
-Dimon	Npmsn
-skupaj	Rgp
-z	Si
-drugimi	Mlpmpi
-šefi	Ncmpi
-banke	Ncfsg
-zamahnil	Vmep-sm
-z	Si
-roko	Ncfsi
-in	Cc
-zavrnil	Vmep-sm
-opozorila	Ncnpa
-.	Z
-V	Sa
-nedeljo	Ncfsa
-je	Va-r3s-n
-za	Sa
-televizijo	Ncfsa
-NBC	Npfsn
-priznal	Vmep-sm
-,	Z
-da	Cs
-aprila	Ncmsg
-ni	Va-r3s-y
-imel	Vmpp-sm
-prav	Rgp
-,	Z
-vendar	Cc
-se	Px------y
-je	Va-r3s-n
-branil	Vmpp-sm
-,	Z
-da	Cs
-ni	Va-r3s-y
-vedel	Vmpp-sm
-za	Sa
-vse	Pg-fpa
-razsežnosti	Ncfpa
-težav	Ncfpg
-.	Z
-Priznal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-so	Va-r3p-n
-naredili	Vmep-pm
-hudo	Agpfsa
-napako	Ncfsa
-in	Cc
-veliko	Agpfsa
-škodo	Ncfsa
-lastni	Agpfsd
-verodostojnosti	Ncfsd
-,	Z
-za	Sa
-kar	Pr-nsa
-bodo	Va-f3p-n
-plačali	Vmep-pm
-ceno	Ncfsa
-.	Z
-Po	Sl
-besedah	Ncfpl
-demokratskega	Agpmsg
-senatorja	Ncmsg
-iz	Sg
-Michigana	Npmsg
-Carla	Npmsg
-Levina	Npmsg
-bo	Va-f3s-n
-to	Pd-nsn
-izguba	Ncfsn
-boja	Ncmsg
-za	Sa
-slabitev	Ncfsa
-dodatnih	Agpfpg
-regulacij	Ncfpg
-finančne	Agpfsg
-industrije	Ncfsg
-.	Z
-Nekaj	Rgp
-novih	Agpfpg
-regulacij	Ncfpg
-zaradi	Sg
-zadnje	Agpfsg
-finančne	Agpfsg
-krize	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-pomagal	Vmbp-sm
-povzročiti	Vmen
-Wall	Npmsn
-Street	Npmsn
-s	Si
-podobnimi	Agpmpi
-postopki	Ncmpi
-,	Z
-kot	Cs
-jih	Pp3fpa--y
-je	Va-r3s-n
-sedaj	Rgp
-ponovno	Rgp
-zagrešila	Vmep-sf
-banka	Ncfsn
-JP	Npmsn
-Morgan	Npmsn
-Chase	Npmsn
-,	Z
-je	Va-r3s-n
-bilo	Va-p-sn
-že	Q
-potrjenih	Appmpg
-.	Z
-Uvaja	Vmpr3s
-pa	Cc
-se	Px------y
-še	Q
-tako	Rgp
-imenovano	Appnsn
-Volckerjevo	Aspnsn
-pravilo	Ncnsa
-,	Z
-ki	Cs
-nosi	Vmpr3s
-ime	Ncnsa
-po	Sl
-nekdanjem	Agpmsl
-predsedniku	Ncmsl
-Federal	Npmsn
-Reserve	Npfsg
-Paulu	Npmsl
-Volckerju	Npmsl
-.	Z
-Dimon	Npmsn
-sicer	Q
-zatrjuje	Vmpr3s
-,	Z
-da	Cs
-omenjeno	Appnsn
-pravilo	Ncnsn
-ne	Q
-bi	Va-c
-preprečilo	Vmep-sn
-polomije	Ncfsg
-,	Z
-ker	Cs
-pravilo	Ncnsn
-prepoveduje	Vmpr3s
-podobno	Agpnsa
-trgovanje	Ncnsa
-za	Sa
-dobiček	Ncmsan
-banke	Ncfsg
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-so	Va-r3p-n
-s	Si
-propadlimi	Appfpi
-investicijami	Ncfpi
-dejansko	Rgp
-želeli	Vmpp-pm
-banko	Ncfsa
-le	Q
-zaščititi	Vmen
-pred	Si
-izgubami	Ncfpi
-,	Z
-ne	Q
-pa	Cc
-pridelati	Vmen
-dobička	Ncmsg
-.	Z
-Demokratski	Agpmsny
-kongresnik	Ncmsn
-iz	Sg
-Massachusettsa	Npmsg
-Barney	Npmsn
-Frank	Npmsn
-pa	Cc
-je	Va-r3s-n
-za	Sa
-televizijo	Ncfsa
-ABC	Npmsn
-podobno	Rgp
-kot	Cs
-Levin	Npmsn
-za	Sa
-NBC	Npmsa
-dejal	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-zadnja	Agpfsn
-različica	Ncfsn
-Volckerjevega	Aspnsg
-pravila	Ncnsg
-tovrstno	Agpnsa
-trgovanje	Ncnsa
-in	Cc
-izgube	Ncfpa
-preprečila	Vmep-sf
-.	Z
-Dimon	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-svojo	Px-fsa
-banko	Ncfsa
-uspešno	Rgp
-pripeljal	Vmep-sm
-skozi	Sa
-vihar	Ncmsan
-zadnje	Agpfsg
-svetovne	Agpfsg
-finančne	Agpfsg
-krize	Ncfsg
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-do	Sg
-zdaj	Rgp
-eden	Mlpmsn
-glasnejših	Agcmpg
-kritikov	Ncmpg
-novih	Agpfpg
-regulacij	Ncfpg
-finančne	Agpfsg
-industrije	Ncfsg
-.	Z
-Sedaj	Rgp
-bo	Va-f3s-n
-to	Pd-nsn
-malce	Rgp
-težje	Agcnsn
-.	Z
-Dimon	Cs
-nima	Vmpr3s-y
-težav	Ncfpg
-z	Si
-morebitnimi	Agpfpi
-kongresnimi	Agpfpi
-preiskavami	Ncfpi
-in	Cc
-je	Va-r3s-n
-že	Q
-sam	Agpmsnn
-zagotovil	Vmep-sm
-vsem	Pg-mpd
-zaposlenim	Appmpd
-ter	Cc
-kritikom	Ncmpd
-,	Z
-da	Cs
-bodo	Va-f3p-n
-zadevi	Ncfsd
-prišli	Vmep-pm
-do	Sg
-konca	Ncmsg
-ter	Cc
-se	Px------y
-iz	Sg
-napake	Ncfsg
-nekaj	Pi-nsa
-naučili	Vmep-pm
-.	Z
-Polomija	Ncfsn
-ga	Pp3msa--y
-je	Va-r3s-n
-očitno	Rgp
-hudo	Rgp
-prizadela	Vmep-sf
-,	Z
-saj	Cc
-je	Va-r3s-n
-med	Si
-drugim	Mlpnsi
-celo	Q
-javno	Rgp
-povedal	Vmep-sm
-,	Z
-da	Cs
-nima	Vmpr3s-y
-nič	Pz-nsa
-proti	Sd
-višjim	Agcmpd
-davkom	Ncmpd
-na	Sa
-svojo	Px-fsa
-plačo	Ncfsa
-,	Z
-ker	Cs
-si	Px---d--y
-želi	Vmpr3s
-bolj	Rgc
-enakopravne	Agpfsg
-družbe	Ncfsg
-.	Z
+token	tag	lemma
+Uprava	mte:Ncfsn	uprava
+največje	mte:Agsfsg	velik
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+JP	mte:Npfsn	JP
+Morgan	mte:Npmsn	Morgan
+Chase	mte:Npmsn	Chase
+je	mte:Va-r3s-n	biti
+sprejela	mte:Vmep-sf	sprejeti
+odstop	mte:Ncmsan	odstop
+glavne	mte:Agpfsg	glaven
+direktorice	mte:Ncfsg	direktorica
+oddelka	mte:Ncmsg	oddelek
+za	mte:Sa	za
+investicije	mte:Ncfpa	investicija
+Ine	mte:Npfsg	Ine
+Drew	mte:Npfsg	Drew
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+postala	mte:Vmep-sf	postati
+prva	mte:Mlofsn	prvi
+žrtev	mte:Ncfsn	žrtev
+izgube	mte:Ncfsg	izguba
+najmanj	mte:Rgs	najmanj
+dveh	mte:Mlcfdg	dva
+milijard	mte:Ncfdg	milijarda
+dolarjev	mte:Ncmpg	dolar
+v	mte:Sl	v
+šestih	mte:Mlc-pl	šest
+tednih	mte:Ncmpl	teden
+zaradi	mte:Sg	zaradi
+napačnih	mte:Agpfpg	napačen
+naložb	mte:Ncfpg	naložba
+.	mte:Z	.
+Zamenjal	mte:Vmep-sm	zamenjati
+jo	mte:Pp3fsa--y	on
+bo	mte:Va-f3s-n	biti
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+direktorjev	mte:Ncmpg	direktor
+v	mte:Sl	v
+investicijskem	mte:Agpmsl	investicijski
+oddelku	mte:Ncmsl	oddelek
+Matt	mte:Npmsn	Matt
+Zames	mte:Npmsn	Zames
+.	mte:Z	.
+Direktorica	mte:Ncfsn	direktorica
+oddelka	mte:Ncmsg	oddelek
+za	mte:Sa	za
+investicije	mte:Ncfpa	investicija
+v	mte:Sl	v
+največji	mte:Agsfsl	velik
+ameriški	mte:Agpfsl	ameriški
+banki	mte:Ncfsl	banka
+JP	mte:Npmsn	JP
+Morgan	mte:Npmsn	Morgan
+Chase	mte:Npmsn	Chase
+,	mte:Z	,
+55	mte:Mdc	55
+-	mte:Z	-
+letna	mte:Agpfsn	leten
+Ina	mte:Npfsn	Ina
+Drew	mte:Npfsn	Drew
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+hude	mte:Agpfsg	hud
+polomije	mte:Ncfsg	polomija
+pri	mte:Sl	pri
+trgovanju	mte:Ncnsl	trgovanje
+z	mte:Si	z
+izvedenimi	mte:Appmpi	izveden
+finančnimi	mte:Agpmpi	finančen
+instrumenti	mte:Ncmpi	instrument
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+banki	mte:Ncfsd	banka
+ustvarila	mte:Vmep-sf	ustvariti
+najmanj	mte:Rgs	najmanj
+dve	mte:Mlcfda	dva
+milijardi	mte:Ncfda	milijarda
+dolarjev	mte:Ncmpg	dolar
+izgube	mte:Ncfsg	izguba
+,	mte:Z	,
+odstopila	mte:Vmep-sf	odstopiti
+.	mte:Z	.
+Toliko	mte:Rgp	toliko
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+le	mte:Q	le
+neposredne	mte:Agpfsg	neposreden
+izgube	mte:Ncfsg	izguba
+s	mte:Si	z
+trgovanjem	mte:Ncnsi	trgovanje
+,	mte:Z	,
+banka	mte:Ncfsn	banka
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dobila	mte:Vmep-sf	dobiti
+hud	mte:Agpmsan	hud
+udarec	mte:Ncmsan	udarec
+svojemu	mte:Px-msd	svoj
+ugledu	mte:Ncmsd	ugled
+ter	mte:Cc	ter
+vrednosti	mte:Ncfsd	vrednost
+delnic	mte:Ncfpg	delnica
+.	mte:Z	.
+Banka	mte:Npfsn	banka
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+glavni	mte:Agpmsny	glaven
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+Jamie	mte:Npmsn	Jamie
+Dimon	mte:Npmsn	Dimon
+objavil	mte:Vmep-sm	objaviti
+izgubo	mte:Ncfsa	izguba
+,	mte:Z	,
+izgubila	mte:Vmep-sf	izgubiti
+15	mte:Mdc	15
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+vrednosti	mte:Ncfsg	vrednost
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+ponovno	mte:Rgp	ponovno
+pocenile	mte:Vmep-pf	poceniti
+za	mte:Sa	za
+skoraj	mte:Q	skoraj
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+JP	mte:Ncmsn	JP
+Morgan	mte:Npmsn	Morgan
+Chase	mte:Npmsn	Chase
+je	mte:Va-r3s-n	biti
+škodovala	mte:Vmbp-sf	škodovati
+tudi	mte:Q	tudi
+celotni	mte:Agpfsd	celoten
+bančni	mte:Agpfsd	bančen
+industriji	mte:Ncfsd	industrija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+sedaj	mte:Rgp	sedaj
+težje	mte:Rgc	težko
+upirala	mte:Vmpp-sf	upirati
+dodatnim	mte:Agpfpd	dodaten
+regulacijam	mte:Ncfpd	regulacija
+Wall	mte:Npmsn	Wall
+Streeta	mte:Npmsg	Streeta
+.	mte:Z	.
+Ina	mte:Npfsn	Ina
+Drew	mte:Npfsn	Drew
+je	mte:Va-r3s-n	biti
+vodila	mte:Vmpp-sf	voditi
+investicijski	mte:Agpmsay	investicijski
+oddelek	mte:Ncmsan	oddelek
+pri	mte:Sl	pri
+JP	mte:Npmsn	JP
+Morgan	mte:Npmsn	Morgan
+Chase	mte:Npmsn	Chase
+zadnjih	mte:Agpnpg	zadnji
+sedem	mte:Mlc-pa	sedem
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Za	mte:Sa	za
+svoje	mte:Px-nsa	svoj
+delo	mte:Ncnsa	delo
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+tudi	mte:Q	tudi
+obilno	mte:Rgp	obilno
+poplačana	mte:Appfsn	poplačan
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+lani	mte:Rgp	lani
+zaslužila	mte:Vmep-sf	zaslužiti
+15,5	mte:Mdc	15,5
+milijona	mte:Ncmsg	milijon
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Po	mte:Sl	po
+objavi	mte:Ncfsl	objava
+škandala	mte:Ncmsg	škandala
+je	mte:Va-r3s-n	biti
+večkrat	mte:Rgc	večkrat
+ponudila	mte:Vmep-sf	ponuditi
+odstop	mte:Ncmsan	odstop
+,	mte:Z	,
+vendar	mte:Cc	vendar
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+sprejet	mte:Appmsnn	sprejet
+.	mte:Z	.
+Za	mte:Sa	za
+velike	mte:Agpfpa	velik
+izgube	mte:Ncfpa	izguba
+s	mte:Si	z
+trgovanji	mte:Ncnpi	trgovanje
+je	mte:Va-r3s-n	biti
+odgovoren	mte:Agpmsnn	odgovoren
+londonski	mte:Agpmsny	londonski
+trgovec	mte:Ncmsn	trgovec
+z	mte:Si	z
+vrednostnimi	mte:Agpmpi	vrednosten
+papirji	mte:Ncmpi	papir
+za	mte:Sa	za
+banko	mte:Ncfsa	banka
+Bruno	mte:Npmsn	Bruno
+Iksil	mte:Npmsn	Iksil
+.	mte:Z	.
+Iksilu	mte:Npmsl	Iksil
+so	mte:Va-r3p-n	biti
+zaradi	mte:Sg	zaradi
+velikanskih	mte:Agpfpg	velikanski
+vsot	mte:Ncfpg	vsota
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+stave	mte:Ncfpa	stava
+z	mte:Si	z
+izmenjavami	mte:Ncfpi	izmenjava
+posojilnega	mte:Agpnsg	posojilen
+tveganja	mte:Ncnsg	tveganje
+credit	mte:Ncmsn	credit
+default	mte:Ncmsan	default
+swaps	mte:Rgp	swaps
+rekli	mte:Vmep-pm	reči
+kar	mte:Rgp	kar
+londonski	mte:Agpmsny	londonski
+kit	mte:Ncmsn	kit
+.	mte:Z	.
+Obrvi	mte:Ncfpg	obrv
+je	mte:Va-r3s-n	biti
+dvigal	mte:Vmpp-sm	dvigati
+že	mte:Q	že
+aprila	mte:Ncmsg	april
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+Dimon	mte:Npmsn	Dimon
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+drugimi	mte:Mlpmpi	drug
+šefi	mte:Ncmpi	šef
+banke	mte:Ncfsg	banka
+zamahnil	mte:Vmep-sm	zamahniti
+z	mte:Si	z
+roko	mte:Ncfsi	roka
+in	mte:Cc	in
+zavrnil	mte:Vmep-sm	zavrniti
+opozorila	mte:Ncnpa	opozorilo
+.	mte:Z	.
+V	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+televizijo	mte:Ncfsa	televizija
+NBC	mte:Npfsn	NBC
+priznal	mte:Vmep-sm	priznati
+,	mte:Z	,
+da	mte:Cs	da
+aprila	mte:Ncmsg	april
+ni	mte:Va-r3s-y	biti
+imel	mte:Vmpp-sm	imeti
+prav	mte:Rgp	prav
+,	mte:Z	,
+vendar	mte:Cc	vendar
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+branil	mte:Vmpp-sm	braniti
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+vedel	mte:Vmpp-sm	vedeti
+za	mte:Sa	za
+vse	mte:Pg-fpa	ves
+razsežnosti	mte:Ncfpa	razsežnost
+težav	mte:Ncfpg	težava
+.	mte:Z	.
+Priznal	mte:Vmep-sm	priznati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+naredili	mte:Vmep-pm	narediti
+hudo	mte:Agpfsa	hud
+napako	mte:Ncfsa	napaka
+in	mte:Cc	in
+veliko	mte:Agpfsa	velik
+škodo	mte:Ncfsa	škoda
+lastni	mte:Agpfsd	lasten
+verodostojnosti	mte:Ncfsd	verodostojnost
+,	mte:Z	,
+za	mte:Sa	za
+kar	mte:Pr-nsa	kar
+bodo	mte:Va-f3p-n	biti
+plačali	mte:Vmep-pm	plačati
+ceno	mte:Ncfsa	cena
+.	mte:Z	.
+Po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+demokratskega	mte:Agpmsg	demokratski
+senatorja	mte:Ncmsg	senator
+iz	mte:Sg	iz
+Michigana	mte:Npmsg	Michigan
+Carla	mte:Npmsg	Carla
+Levina	mte:Npmsg	Levina
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+izguba	mte:Ncfsn	izguba
+boja	mte:Ncmsg	boj
+za	mte:Sa	za
+slabitev	mte:Ncfsa	slabitev
+dodatnih	mte:Agpfpg	dodaten
+regulacij	mte:Ncfpg	regulacija
+finančne	mte:Agpfsg	finančen
+industrije	mte:Ncfsg	industrija
+.	mte:Z	.
+Nekaj	mte:Rgp	nekaj
+novih	mte:Agpfpg	nov
+regulacij	mte:Ncfpg	regulacija
+zaradi	mte:Sg	zaradi
+zadnje	mte:Agpfsg	zadnji
+finančne	mte:Agpfsg	finančen
+krize	mte:Ncfsg	kriza
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+pomagal	mte:Vmbp-sm	pomagati
+povzročiti	mte:Vmen	povzročiti
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+s	mte:Si	z
+podobnimi	mte:Agpmpi	podoben
+postopki	mte:Ncmpi	postopek
+,	mte:Z	,
+kot	mte:Cs	kot
+jih	mte:Pp3fpa--y	on
+je	mte:Va-r3s-n	biti
+sedaj	mte:Rgp	sedaj
+ponovno	mte:Rgp	ponovno
+zagrešila	mte:Vmep-sf	zagrešiti
+banka	mte:Ncfsn	banka
+JP	mte:Npmsn	JP
+Morgan	mte:Npmsn	Morgan
+Chase	mte:Npmsn	Chase
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+že	mte:Q	že
+potrjenih	mte:Appmpg	potrjen
+.	mte:Z	.
+Uvaja	mte:Vmpr3s	uvajati
+pa	mte:Cc	pa
+se	mte:Px------y	se
+še	mte:Q	še
+tako	mte:Rgp	tako
+imenovano	mte:Appnsn	imenovan
+Volckerjevo	mte:Aspnsn	Volckerjev
+pravilo	mte:Ncnsa	pravilo
+,	mte:Z	,
+ki	mte:Cs	ki
+nosi	mte:Vmpr3s	nositi
+ime	mte:Ncnsa	ime
+po	mte:Sl	po
+nekdanjem	mte:Agpmsl	nekdanji
+predsedniku	mte:Ncmsl	predsednik
+Federal	mte:Npmsn	Federal
+Reserve	mte:Npfsg	Reserve
+Paulu	mte:Npmsl	Paul
+Volckerju	mte:Npmsl	Volcker
+.	mte:Z	.
+Dimon	mte:Npmsn	Dimon
+sicer	mte:Q	sicer
+zatrjuje	mte:Vmpr3s	zatrjevati
+,	mte:Z	,
+da	mte:Cs	da
+omenjeno	mte:Appnsn	omenjen
+pravilo	mte:Ncnsn	pravilo
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+preprečilo	mte:Vmep-sn	preprečiti
+polomije	mte:Ncfsg	polomija
+,	mte:Z	,
+ker	mte:Cs	ker
+pravilo	mte:Ncnsn	pravilo
+prepoveduje	mte:Vmpr3s	prepovedovati
+podobno	mte:Agpnsa	podoben
+trgovanje	mte:Ncnsa	trgovanje
+za	mte:Sa	za
+dobiček	mte:Ncmsan	dobiček
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+so	mte:Va-r3p-n	biti
+s	mte:Si	z
+propadlimi	mte:Appfpi	propadel
+investicijami	mte:Ncfpi	investicija
+dejansko	mte:Rgp	dejansko
+želeli	mte:Vmpp-pm	želeti
+banko	mte:Ncfsa	banka
+le	mte:Q	le
+zaščititi	mte:Vmen	zaščititi
+pred	mte:Si	pred
+izgubami	mte:Ncfpi	izguba
+,	mte:Z	,
+ne	mte:Q	ne
+pa	mte:Cc	pa
+pridelati	mte:Vmen	pridelati
+dobička	mte:Ncmsg	dobiček
+.	mte:Z	.
+Demokratski	mte:Agpmsny	demokratski
+kongresnik	mte:Ncmsn	kongresnik
+iz	mte:Sg	iz
+Massachusettsa	mte:Npmsg	Massachusetts
+Barney	mte:Npmsn	Barney
+Frank	mte:Npmsn	Frank
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+televizijo	mte:Ncfsa	televizija
+ABC	mte:Npmsn	ABC
+podobno	mte:Rgp	podobno
+kot	mte:Cs	kot
+Levin	mte:Npmsn	Levin
+za	mte:Sa	za
+NBC	mte:Npmsa	NBC
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+zadnja	mte:Agpfsn	zadnji
+različica	mte:Ncfsn	različica
+Volckerjevega	mte:Aspnsg	Volckerjev
+pravila	mte:Ncnsg	pravilo
+tovrstno	mte:Agpnsa	tovrsten
+trgovanje	mte:Ncnsa	trgovanje
+in	mte:Cc	in
+izgube	mte:Ncfpa	izguba
+preprečila	mte:Vmep-sf	preprečiti
+.	mte:Z	.
+Dimon	mte:Npmsn	Dimon
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+svojo	mte:Px-fsa	svoj
+banko	mte:Ncfsa	banka
+uspešno	mte:Rgp	uspešno
+pripeljal	mte:Vmep-sm	pripeljati
+skozi	mte:Sa	skozi
+vihar	mte:Ncmsan	vihar
+zadnje	mte:Agpfsg	zadnji
+svetovne	mte:Agpfsg	svetoven
+finančne	mte:Agpfsg	finančen
+krize	mte:Ncfsg	kriza
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+eden	mte:Mlpmsn	eden
+glasnejših	mte:Agcmpg	glasen
+kritikov	mte:Ncmpg	kritik
+novih	mte:Agpfpg	nov
+regulacij	mte:Ncfpg	regulacija
+finančne	mte:Agpfsg	finančen
+industrije	mte:Ncfsg	industrija
+.	mte:Z	.
+Sedaj	mte:Rgp	sedaj
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+malce	mte:Rgp	malce
+težje	mte:Agcnsn	težek
+.	mte:Z	.
+Dimon	mte:Cs	dimon
+nima	mte:Vmpr3s-y	imeti
+težav	mte:Ncfpg	težava
+z	mte:Si	z
+morebitnimi	mte:Agpfpi	morebiten
+kongresnimi	mte:Agpfpi	kongresen
+preiskavami	mte:Ncfpi	preiskava
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+sam	mte:Agpmsnn	sam
+zagotovil	mte:Vmep-sm	zagotoviti
+vsem	mte:Pg-mpd	ves
+zaposlenim	mte:Appmpd	zaposlen
+ter	mte:Cc	ter
+kritikom	mte:Ncmpd	kritik
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+zadevi	mte:Ncfsd	zadeva
+prišli	mte:Vmep-pm	priti
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+ter	mte:Cc	ter
+se	mte:Px------y	se
+iz	mte:Sg	iz
+napake	mte:Ncfsg	napaka
+nekaj	mte:Pi-nsa	nekaj
+naučili	mte:Vmep-pm	naučiti
+.	mte:Z	.
+Polomija	mte:Ncfsn	polomija
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+očitno	mte:Rgp	očitno
+hudo	mte:Rgp	hudo
+prizadela	mte:Vmep-sf	prizadeti
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+celo	mte:Q	celo
+javno	mte:Rgp	javno
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+nima	mte:Vmpr3s-y	imeti
+nič	mte:Pz-nsa	nič
+proti	mte:Sd	proti
+višjim	mte:Agcmpd	visok
+davkom	mte:Ncmpd	davek
+na	mte:Sa	na
+svojo	mte:Px-fsa	svoj
+plačo	mte:Ncfsa	plača
+,	mte:Z	,
+ker	mte:Cs	ker
+si	mte:Px---d--y	se
+želi	mte:Vmpr3s	želeti
+bolj	mte:Rgc	bolj
+enakopravne	mte:Agpfsg	enakopraven
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+napadi	mte:Ncmpn	napad
+na	mte:Sa	na
+poslovni	mte:Agpmsay	posloven
+svet	mte:Ncmsan	svet
+na	mte:Sa	na
+splošno	mte:Agpnsa	splošen
+ne	mte:Q	ne
+zdijo	mte:Vmpr3p	zdeti
+produktivni	mte:Agpmpn	produktiven

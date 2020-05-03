@@ -1,205 +1,236 @@
-token	tag
-Danes	Rgp
-je	Va-r3s-n
-premiera	Ncmsg
-Janeza	Npmsay
-Janšo	Npmsay
-,	Z
-na	Sa
-prvi	Mlomsa
-dan	Ncmsan
-obiska	Ncmsg
-na	Sl
-Japonskem	Npnsl
-,	Z
-v	Sl
-cesarski	Agpfsl
-palači	Ncfsl
-v	Sl
-Tokiu	Npmsl
-sprejel	Vmep-sm
-japonski	Agpmsny
-cesar	Ncmsn
-Akihito	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-cesarju	Ncmsd
-izročil	Vmep-sm
-tudi	Q
-priložnostni	Agpnpa
-darili	Ncnpa
-,	Z
-herbarij	Ncmsn
-Froelichovega	Aspmsg
-svišča	Ncmsg
-,	Z
-cvetlice	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-endemična	Agpfsn
-v	Sl
-Kamniško	Agpnsn
--	Z
-Savinjskih	Agpfpl
-Alpah	Npfpl
-in	Cc
-Karavankah	Npfpl
-,	Z
-ter	Cc
-človeško	Agpfsa
-ribico	Ncfsa
-v	Sl
-bronu	Ncmsl
-.	Z
-Na	Sa
-prvi	Mlomsa
-dan	Ncmsan
-obiska	Ncmsg
-na	Sl
-Japonskem	Npnsl
-je	Va-r3s-n
-premiera	Ncmsg
-Janeza	Npmsg
-Janšo	Npmsg
-danes	Rgp
-v	Sl
-cesarski	Agpfsl
-palači	Ncfsl
-v	Sl
-Tokiu	Npmsl
-sprejel	Vmep-sm
-japonski	Agpmsny
-cesar	Ncmsn
-Akihito	Npfsn
-.	Z
-Janšev	Aspmsnn
-obisk	Ncmsn
-na	Sl
-Japonskem	Npnsl
-je	Va-r3s-n
-prvi	Mlomsn
-obisk	Ncmsn
-kakšnega	Pq-msg
-slovenskega	Agpmsg
-premiera	Ncmsg
-v	Sl
-deželi	Ncfsl
-vzhajajočega	Appnsg
-sonca	Ncnsg
-.	Z
-Japonski	Agpmsny
-cesar	Ncmsn
-Akihito	Npmsn
-pa	Cc
-je	Va-r3s-n
-že	Q
-leta	Ncnsg
-1976	Mdc
-,	Z
-tedaj	Rgp
-še	Q
-kot	Cs
-prestolonaslednik	Ncmsn
-,	Z
-obiskal	Vmep-sm
-Slovenijo	Npfsa
-.	Z
-Obojestransko	Agpnsa
-zanimanje	Ncnsa
-za	Sa
-podnebne	Agpfpa
-spremembe	Ncfpa
-Premier	Ncmsn
-Janša	Npmsn
-in	Cc
-cesar	Ncmsn
-Akihito	Npfsn
-sta	Va-r3d-n
-precej	Rgp
-pozornosti	Ncfsg
-namenila	Vmep-dm
-podnebnim	Agpfpd
-spremembam	Ncfpd
-,	Z
-saj	Cc
-je	Va-r3s-n
-cesar	Ncmsn
-,	Z
-kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-premier	Ncmsn
-,	Z
-velik	Agpmsnn
-ljubitelj	Ncmsn
-narave	Ncfsg
-in	Cc
-ga	Pp3msa--y
-zanimajo	Vmpr3p
-vsi	Pg-mpn
-napori	Ncmpn
-za	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-se	Px------y
-negativni	Agpmpn
-učinki	Ncmpn
-podnebnih	Agpfpg
-sprememb	Ncfpg
-ne	Q
-bi	Va-c
-odrazili	Vmep-pm
-na	Sl
-poslabšanju	Ncnsl
-pogojev	Ncmpg
-za	Sa
-življenje	Ncnsa
-prihodnjih	Agpfpg
-generacij	Ncfpg
-.	Z
-V	Sa
-sredo	Ncfsa
-bo	Va-f3s-n
-tudi	Q
-vrhunsko	Agpnsn
-srečanje	Ncnsn
-EU	Npfsg
-in	Cc
-Japonske	Npfsg
-,	Z
-v	Sl
-ospredju	Ncnsl
-pozornosti	Ncfsg
-pa	Cc
-naj	Q
-bi	Va-c
-bili	Va-p-pm
-ukrepi	Ncmpn
-za	Sa
-boj	Ncmsan
-proti	Sd
-podnebnim	Agpfpd
-spremembam	Ncfpd
-.	Z
-Z	Si
-Janšo	Npfsi
-tudi	Q
-skupina	Ncfsn
-poslovnežev	Ncmpg
-Janšo	Npfsa
-na	Sl
-obisku	Ncmsl
-spremlja	Vmpr3s
-minister	Ncmsn
-za	Sa
-gospodarstvo	Ncnsa
-Andrej	Npmsn
-Vizjak	Npmsn
-ter	Cc
-skupina	Ncfsn
-27	Mdc
-slovenskih	Agpmpg
-poslovnežev	Ncmpg
-.	Z
+token	tag	lemma
+Danes	mte:Rgp	danes
+je	mte:Va-r3s-n	biti
+premiera	mte:Ncmsg	premier
+Janeza	mte:Npmsay	Janez
+Janšo	mte:Npmsay	Janšo
+,	mte:Z	,
+na	mte:Sa	na
+prvi	mte:Mlomsa	prvi
+dan	mte:Ncmsan	dan
+obiska	mte:Ncmsg	obisk
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+,	mte:Z	,
+v	mte:Sl	v
+cesarski	mte:Agpfsl	cesarski
+palači	mte:Ncfsl	palača
+v	mte:Sl	v
+Tokiu	mte:Npmsl	Tokio
+sprejel	mte:Vmep-sm	sprejeti
+japonski	mte:Agpmsny	japonski
+cesar	mte:Ncmsn	cesar
+Akihito	mte:Npmsn	Akihito
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+cesarju	mte:Ncmsd	cesar
+izročil	mte:Vmep-sm	izročiti
+tudi	mte:Q	tudi
+priložnostni	mte:Agpnpa	priložnosten
+darili	mte:Ncnpa	darilo
+,	mte:Z	,
+herbarij	mte:Ncmsn	herbarij
+Froelichovega	mte:Aspmsg	Froelichov
+svišča	mte:Ncmsg	svišče
+,	mte:Z	,
+cvetlice	mte:Ncfsg	cvetlica
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+endemična	mte:Agpfsn	endemičen
+v	mte:Sl	v
+Kamniško	mte:Agpnsn	kamniški
+-	mte:Z	-
+Savinjskih	mte:Agpfpl	savinjski
+Alpah	mte:Npfpl	Alpe
+in	mte:Cc	in
+Karavankah	mte:Npfpl	Karavanka
+,	mte:Z	,
+ter	mte:Cc	ter
+človeško	mte:Agpfsa	človeški
+ribico	mte:Ncfsa	ribica
+v	mte:Sl	v
+bronu	mte:Ncmsl	bron
+.	mte:Z	.
+Na	mte:Sa	na
+prvi	mte:Mlomsa	prvi
+dan	mte:Ncmsan	dan
+obiska	mte:Ncmsg	obisk
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+je	mte:Va-r3s-n	biti
+premiera	mte:Ncmsg	premier
+Janeza	mte:Npmsg	Janez
+Janšo	mte:Npmsg	Janšo
+danes	mte:Rgp	danes
+v	mte:Sl	v
+cesarski	mte:Agpfsl	cesarski
+palači	mte:Ncfsl	palača
+v	mte:Sl	v
+Tokiu	mte:Npmsl	Tokio
+sprejel	mte:Vmep-sm	sprejeti
+japonski	mte:Agpmsny	japonski
+cesar	mte:Ncmsn	cesar
+Akihito	mte:Npfsn	Akihito
+.	mte:Z	.
+Janšev	mte:Aspmsnn	janšev
+obisk	mte:Ncmsn	obisk
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+je	mte:Va-r3s-n	biti
+prvi	mte:Mlomsn	prvi
+obisk	mte:Ncmsn	obisk
+kakšnega	mte:Pq-msg	kakšen
+slovenskega	mte:Agpmsg	slovenski
+premiera	mte:Ncmsg	premier
+v	mte:Sl	v
+deželi	mte:Ncfsl	dežela
+vzhajajočega	mte:Appnsg	vzhajajoč
+sonca	mte:Ncnsg	sonce
+.	mte:Z	.
+Japonski	mte:Agpmsny	japonski
+cesar	mte:Ncmsn	cesar
+Akihito	mte:Npmsn	Akihito
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+leta	mte:Ncnsg	leto
+1976	mte:Mdc	1976
+,	mte:Z	,
+tedaj	mte:Rgp	tedaj
+še	mte:Q	še
+kot	mte:Cs	kot
+prestolonaslednik	mte:Ncmsn	prestolonaslednik
+,	mte:Z	,
+obiskal	mte:Vmep-sm	obiskati
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Obojestransko	mte:Agpnsa	obojestranski
+zanimanje	mte:Ncnsa	zanimanje
+za	mte:Sa	za
+podnebne	mte:Agpfpa	podneben
+spremembe	mte:Ncfpa	sprememba
+Premier	mte:Ncmsn	premier
+Janša	mte:Npmsn	Janša
+in	mte:Cc	in
+cesar	mte:Ncmsn	cesar
+Akihito	mte:Npfsn	Akihito
+sta	mte:Va-r3d-n	biti
+precej	mte:Rgp	precej
+pozornosti	mte:Ncfsg	pozornost
+namenila	mte:Vmep-dm	nameniti
+podnebnim	mte:Agpfpd	podneben
+spremembam	mte:Ncfpd	sprememba
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+cesar	mte:Ncmsn	cesar
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+premier	mte:Ncmsn	premier
+,	mte:Z	,
+velik	mte:Agpmsnn	velik
+ljubitelj	mte:Ncmsn	ljubitelj
+narave	mte:Ncfsg	narava
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+zanimajo	mte:Vmpr3p	zanimati
+vsi	mte:Pg-mpn	ves
+napori	mte:Ncmpn	napor
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+negativni	mte:Agpmpn	negativen
+učinki	mte:Ncmpn	učinek
+podnebnih	mte:Agpfpg	podneben
+sprememb	mte:Ncfpg	sprememba
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+odrazili	mte:Vmep-pm	odraziti
+na	mte:Sl	na
+poslabšanju	mte:Ncnsl	poslabšanje
+pogojev	mte:Ncmpg	pogoj
+za	mte:Sa	za
+življenje	mte:Ncnsa	življenje
+prihodnjih	mte:Agpfpg	prihodnji
+generacij	mte:Ncfpg	generacija
+.	mte:Z	.
+V	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+bo	mte:Va-f3s-n	biti
+tudi	mte:Q	tudi
+vrhunsko	mte:Agpnsn	vrhunsko
+srečanje	mte:Ncnsn	srečanje
+EU	mte:Npfsg	EU
+in	mte:Cc	in
+Japonske	mte:Npfsg	Japonska
+,	mte:Z	,
+v	mte:Sl	v
+ospredju	mte:Ncnsl	ospredje
+pozornosti	mte:Ncfsg	pozornost
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+ukrepi	mte:Ncmpn	ukrep
+za	mte:Sa	za
+boj	mte:Ncmsan	boj
+proti	mte:Sd	proti
+podnebnim	mte:Agpfpd	podneben
+spremembam	mte:Ncfpd	sprememba
+.	mte:Z	.
+Z	mte:Si	z
+Janšo	mte:Npfsi	Janšo
+tudi	mte:Q	tudi
+skupina	mte:Ncfsn	skupina
+poslovnežev	mte:Ncmpg	poslovnež
+Janšo	mte:Npfsa	Janšo
+na	mte:Sl	na
+obisku	mte:Ncmsl	obisk
+spremlja	mte:Vmpr3s	spremljati
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+Andrej	mte:Npmsn	Andrej
+Vizjak	mte:Npmsn	Vizjak
+ter	mte:Cc	ter
+skupina	mte:Ncfsn	skupina
+27	mte:Mdc	27
+slovenskih	mte:Agpmpg	slovenski
+poslovnežev	mte:Ncmpg	poslovnež
+.	mte:Z	.
+Ti	mte:Pd-mpn	ta
+bodo	mte:Va-f3p-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+sodelovali	mte:Vmpp-pm	sodelovati
+na	mte:Sl	na
+slovensko	mte:Agpnsn	slovenski
+-	mte:Z	-
+japonski	mte:Agpfsl	japonski
+poslovni	mte:Agpfsl	posloven
+konferenci	mte:Ncfsl	konferenca
+oziroma	mte:Cc	oziroma
+predstavitvi	mte:Ncfsl	predstavitev
+slovenske	mte:Agpfsg	slovenski
+avtomobilske	mte:Agpfsg	avtomobilski
+industrije	mte:Ncfsg	industrija
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+želijo	mte:Vmpr3p	želeti
+spodbuditi	mte:Vmen	spodbuditi
+sodelovanje	mte:Ncnsa	sodelovanje
+med	mte:Si	med
+slovenskimi	mte:Agpmpi	slovenski
+proizvajalci	mte:Ncmpi	proizvajalec
+avtomobilskih	mte:Agpmpg	avtomobilski
+delov	mte:Ncmpg	del
+in	mte:Cc	in
+japonsko	mte:Agpfsi	japonski
+avtomobilsko	mte:Agpfsi	avtomobilski
+industrijo	mte:Ncfsi	industrija

@@ -1,413 +1,438 @@
-token	tag
-Volilna	Agpfsn
-kampanja	Ncfsn
-predsedniškega	Agpmsg
-kandidata	Ncmsg
-Milana	Npmsg
-Zvera	Npmsg
-bo	Va-f3s-n
-skromna	Agpfsn
-in	Cc
-skladna	Agpfsn
-z	Si
-gospodarskim	Agpnsi
-in	Cc
-finančnim	Agpnsi
-stanjem	Ncnsi
-v	Sl
-Sloveniji	Npfsl
-,	Z
-pravi	Vmbr3s
-vodja	Ncmsn
-službe	Ncfsg
-SDS	Npfsg
-za	Sa
-odnose	Ncmpa
-z	Si
-javnostmi	Ncfpi
-Jernej	Npmsn
-Pavlin	Npmsn
-.	Z
-V	Sl
-volilnem	Agpmsl
-štabu	Ncmsl
-kandidata	Ncmsg
-Milana	Npmsg
-Zvera	Npmsg
-so	Va-r3p-n
-prepričani	Appmpn
-,	Z
-da	Cs
-tokrat	Rgp
-za	Sa
-spremembo	Ncfsa
-potrebujemo	Vmpr1p
-predsednika	Ncmsay
-,	Z
-ki	Cs
-vidi	Vmbr3s
-dlje	Rgc
-in	Cc
-preko	Sg
-svoje	Px-fsg
-politične	Agpfsg
-zamejenosti	Ncfsg
-,	Z
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-novinarski	Agpfsl
-konferenci	Ncfsl
-poudaril	Vmep-sm
-vodja	Ncmsn
-službe	Ncfsg
-SDS	Npfsg
-za	Sa
-odnose	Ncmpa
-z	Si
-javnostmi	Ncfpi
-Jernej	Npmsn
-Pavlin	Npmsn
-.	Z
-Zver	Npmsn
-sicer	Q
-pričakuje	Vmpr3s
-intenziven	Agpmsan
-mesec	Ncmsan
-,	Z
-želi	Vmpr3s
-pa	Cc
-si	Px---d--y
-predvsem	Q
-vsebinske	Agpfpa
-kampanje	Ncfpa
-.	Z
-Tako	Rgp
-bo	Va-f3s-n
-po	Sl
-Pavlinovih	Aspfpl
-besedah	Ncfpl
-slogan	Ncmsn
-Zverove	Aspfsg
-volilne	Agpfsg
-kampanje	Ncfsg
-Predsednik	Ncmsn
-,	Z
-ki	Cs
-vidi	Vmbr3s
-dlje	Rgc
-.	Z
-Zver	Npmsn
-kandidira	Vmbr3s
-s	Si
-podporo	Ncfsi
-SDS	Npfsg
-in	Cc
-NSi	Npfsg
-.	Z
-V	Sl
-imenu	Ncnsl
-volilnega	Agpmsg
-štaba	Ncmsg
-je	Va-r3s-n
-Pavlin	Npmsn
-izpostavil	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-kampanja	Ncfsn
-skromna	Agpfsn
-in	Cc
-skladna	Agpfsn
-z	Si
-gospodarskim	Agpnsi
-in	Cc
-finančnim	Agpnsi
-stanjem	Ncnsi
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Večino	Ncfsa
-aktivnosti	Ncfsg
-bodo	Va-f3p-n
-izvedli	Vmep-pm
-v	Sl
-lastni	Agpfsl
-režiji	Ncfsl
-Kampanjo	Ncfsa
-bodo	Va-f3p-n
-financirali	Vmbp-pm
-iz	Sg
-lastnih	Agpmpg
-virov	Ncmpg
-in	Cc
-prispevkov	Ncmpg
-podpornikov	Ncmpg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-Pavlin	Npmsn
-poudaril	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-jim	Pp3mpd--y
-zaradi	Sg
-trenutnih	Agpfpg
-razmer	Ncfpg
-zdi	Vmpr3s
-"	Z
-neprimerno	Agpnsn
-in	Cc
-neodgovorno	Agpnsn
-pričakovati	Vmpn
-"	Z
-,	Z
-da	Cs
-bi	Va-c
-državljani	Ncmpn
-veliko	Rgp
-donirali	Vmpp-pm
-za	Sa
-samo	Q
-kampanjo	Ncfsa
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-volilni	Agpmsay
-štab	Ncmsnn
-sestavljajo	Vmpr3p
-predvsem	Q
-mladi	Agpmpn
-ljudje	Ncmpn
-iz	Sg
-strank	Ncfpg
-podpornic	Ncfpg
-,	Z
-večino	Ncfsa
-aktivnosti	Ncfsg
-pa	Cc
-so	Va-r3p-n
-in	Cc
-bodo	Va-f3p-n
-izvedli	Vmep-pm
-v	Sl
-lastni	Agpfsl
-režiji	Ncfsl
-.	Z
-Dan	Ncmsan
-pred	Si
-začetkom	Ncmsi
-uradne	Agpfsg
-volilne	Agpfsg
-kampanje	Ncfsg
-je	Va-r3s-n
-Zver	Npmsn
-povedal	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-stil	Ncmsn
-delovanja	Ncnsg
-"	Z
-verjetno	Rgp
-nekoliko	Rgp
-drugačen	Agpmsnn
-"	Z
-od	Sg
-minulih	Appmpg
-tednov	Ncmpg
-.	Z
-V	Sl
-njegovem	Ps3mslsm
-volilnem	Agpmsl
-štabu	Ncmsl
-bodo	Va-f3p-n
-do	Sg
-dneva	Ncmsg
-volitev	Ncfpg
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-11	Mdc
-.	Z
-novembra	Ncmsg
-,	Z
-pripravili	Vmep-pm
-še	Q
-devet	Mlc-pa
-volilnih	Agpfpg
-konvencij	Ncfpg
-po	Sl
-različnih	Agpmpl
-krajih	Ncmpl
-,	Z
-sicer	Q
-pa	Cc
-bo	Va-f3s-n
-dobršen	Agpmsnn
-del	Ncmsn
-kampanje	Ncfsg
-potekal	Vmpp-sm
-tudi	Q
-preko	Sg
-medijev	Ncmpg
-in	Cc
-soočenj	Ncnpg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Zvera	Npmsay
-je	Va-r3s-n
-danes	Rgp
-podprl	Vmep-sm
-tudi	Q
-minister	Ncmsn
-za	Sa
-obrambo	Ncfsa
-Aleš	Npmsn
-Hojs	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-kot	Cs
-državljan	Ncmsn
-prepričan	Appmsnn
-,	Z
-da	Cs
-je	Va-r3s-n
-Zver	Npmsn
-"	Z
-najboljši	Agsmsny
-kandidat	Ncmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-Slovenija	Npfsn
-premore	Vmbr3s
-"	Z
-in	Cc
-bo	Va-f3s-n
-tudi	Q
-"	Z
-najboljši	Agsmsny
-poveljnik	Ncmsn
-obrambnih	Agpfpg
-sil	Ncfpg
-"	Z
-.	Z
-"	Z
-Slovenska	Agpfsn
-vojska	Ncfsn
-je	Va-r3s-n
-zelo	Rgp
-učinkovita	Agpfsn
-"	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-izrazil	Vmep-sm
-zadovoljstvo	Ncnsa
-,	Z
-da	Cs
-se	Px------y
-Zveru	Npmsd
-"	Z
-kot	Cs
-bodočemu	Agpmsd
-poveljniku	Ncmsd
-obrambnih	Agpfpg
-sil	Ncfpg
-"	Z
-vloga	Ncfsn
-predsednika	Ncmsg
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-zdi	Vmpr3s
-ustrezna	Agpfsn
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-zaveda	Vmpr3s
-,	Z
-kaj	Pq-nsa
-so	Va-r3p-n
-pristojnosti	Ncfpn
-predsednika	Ncmsg
-države	Ncfsg
-in	Cc
-kaj	Pq-nsa
-so	Va-r3p-n
-pristojnosti	Ncfpn
-izvršilne	Agpfsg
-veje	Ncfsg
-oblasti	Ncfsg
-.	Z
-Po	Sl
-Zverovih	Aspfpl
-ocenah	Ncfpl
-je	Va-r3s-n
-slovenska	Agpfsn
-vojska	Ncfsn
-zelo	Rgp
-učinkovita	Agpfsn
-ter	Cc
-operativno	Rgp
-dobro	Rgp
-usposobljena	Appfsn
-,	Z
-zato	Cc
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-bo	Va-f3s-n
-minister	Ncmsn
-za	Sa
-obrambo	Ncfsa
-tudi	Q
-z	Si
-manj	Rgc
-denarja	Ncmsg
-zaradi	Sg
-krčenja	Ncnsg
-proračunskih	Agpnpg
-sredstev	Ncnpg
-uspel	Vmep-sm
-ohraniti	Vmen
-dosedanji	Agpmsay
-nivo	Ncmsan
-obrambe	Ncfsg
-.	Z
-"	Z
-Ne	Q
-zavidam	Vmpr1s
-težkega	Agpmsg
-položaja	Ncmsg
-ministra	Ncmsg
-,	Z
-ki	Cs
-mora	Vmpr3s
-zagotavljati	Vmpn
-ustrezno	Agpfsa
-raven	Ncfsa
-varnosti	Ncfsg
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-Zver	Npmsn
-.	Z
+token	tag	lemma
+Volilna	mte:Agpfsn	volilen
+kampanja	mte:Ncfsn	kampanja
+predsedniškega	mte:Agpmsg	predsedniški
+kandidata	mte:Ncmsg	kandidat
+Milana	mte:Npmsg	Milan
+Zvera	mte:Npmsg	Zvera
+bo	mte:Va-f3s-n	biti
+skromna	mte:Agpfsn	skromen
+in	mte:Cc	in
+skladna	mte:Agpfsn	skladen
+z	mte:Si	z
+gospodarskim	mte:Agpnsi	gospodarski
+in	mte:Cc	in
+finančnim	mte:Agpnsi	finančen
+stanjem	mte:Ncnsi	stanje
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+vodja	mte:Ncmsn	vodja
+službe	mte:Ncfsg	služba
+SDS	mte:Npfsg	SDS
+za	mte:Sa	za
+odnose	mte:Ncmpa	odnos
+z	mte:Si	z
+javnostmi	mte:Ncfpi	javnost
+Jernej	mte:Npmsn	Jernej
+Pavlin	mte:Npmsn	Pavlin
+.	mte:Z	.
+V	mte:Sl	v
+volilnem	mte:Agpmsl	volilen
+štabu	mte:Ncmsl	štab
+kandidata	mte:Ncmsg	kandidat
+Milana	mte:Npmsg	Milan
+Zvera	mte:Npmsg	Zvera
+so	mte:Va-r3p-n	biti
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+tokrat	mte:Rgp	tokrat
+za	mte:Sa	za
+spremembo	mte:Ncfsa	sprememba
+potrebujemo	mte:Vmpr1p	potrebovati
+predsednika	mte:Ncmsay	predsednik
+,	mte:Z	,
+ki	mte:Cs	ki
+vidi	mte:Vmbr3s	videti
+dlje	mte:Rgc	dolgo
+in	mte:Cc	in
+preko	mte:Sg	preko
+svoje	mte:Px-fsg	svoj
+politične	mte:Agpfsg	političen
+zamejenosti	mte:Ncfsg	zamejenost
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+poudaril	mte:Vmep-sm	poudariti
+vodja	mte:Ncmsn	vodja
+službe	mte:Ncfsg	služba
+SDS	mte:Npfsg	SDS
+za	mte:Sa	za
+odnose	mte:Ncmpa	odnos
+z	mte:Si	z
+javnostmi	mte:Ncfpi	javnost
+Jernej	mte:Npmsn	Jernej
+Pavlin	mte:Npmsn	Pavlin
+.	mte:Z	.
+Zver	mte:Npmsn	Zver
+sicer	mte:Q	sicer
+pričakuje	mte:Vmpr3s	pričakovati
+intenziven	mte:Agpmsan	intenziven
+mesec	mte:Ncmsan	mesec
+,	mte:Z	,
+želi	mte:Vmpr3s	želeti
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+predvsem	mte:Q	predvsem
+vsebinske	mte:Agpfpa	vsebinski
+kampanje	mte:Ncfpa	kampanja
+.	mte:Z	.
+Tako	mte:Rgp	tako
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+Pavlinovih	mte:Aspfpl	Pavlinov
+besedah	mte:Ncfpl	beseda
+slogan	mte:Ncmsn	slogan
+Zverove	mte:Aspfsg	Zverov
+volilne	mte:Agpfsg	volilen
+kampanje	mte:Ncfsg	kampanja
+Predsednik	mte:Ncmsn	predsednik
+,	mte:Z	,
+ki	mte:Cs	ki
+vidi	mte:Vmbr3s	videti
+dlje	mte:Rgc	dolgo
+.	mte:Z	.
+Zver	mte:Npmsn	Zver
+kandidira	mte:Vmbr3s	kandidirati
+s	mte:Si	z
+podporo	mte:Ncfsi	podpora
+SDS	mte:Npfsg	SDS
+in	mte:Cc	in
+NSi	mte:Npfsg	NSi
+.	mte:Z	.
+V	mte:Sl	v
+imenu	mte:Ncnsl	ime
+volilnega	mte:Agpmsg	volilen
+štaba	mte:Ncmsg	štab
+je	mte:Va-r3s-n	biti
+Pavlin	mte:Npmsn	Pavlin
+izpostavil	mte:Vmep-sm	izpostaviti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+kampanja	mte:Ncfsn	kampanja
+skromna	mte:Agpfsn	skromen
+in	mte:Cc	in
+skladna	mte:Agpfsn	skladen
+z	mte:Si	z
+gospodarskim	mte:Agpnsi	gospodarski
+in	mte:Cc	in
+finančnim	mte:Agpnsi	finančen
+stanjem	mte:Ncnsi	stanje
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Večino	mte:Ncfsa	večina
+aktivnosti	mte:Ncfsg	aktivnost
+bodo	mte:Va-f3p-n	biti
+izvedli	mte:Vmep-pm	izvesti
+v	mte:Sl	v
+lastni	mte:Agpfsl	lasten
+režiji	mte:Ncfsl	režija
+Kampanjo	mte:Ncfsa	kampanja
+bodo	mte:Va-f3p-n	biti
+financirali	mte:Vmbp-pm	financirati
+iz	mte:Sg	iz
+lastnih	mte:Agpmpg	lasten
+virov	mte:Ncmpg	vir
+in	mte:Cc	in
+prispevkov	mte:Ncmpg	prispevek
+podpornikov	mte:Ncmpg	podpornik
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+Pavlin	mte:Npmsn	Pavlin
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+zaradi	mte:Sg	zaradi
+trenutnih	mte:Agpfpg	trenuten
+razmer	mte:Ncfpg	razmera
+zdi	mte:Vmpr3s	zdeti
+"	mte:Z	"
+neprimerno	mte:Agpnsn	neprimerno
+in	mte:Cc	in
+neodgovorno	mte:Agpnsn	neodgovoren
+pričakovati	mte:Vmpn	pričakovati
+"	mte:Z	"
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+državljani	mte:Ncmpn	državljan
+veliko	mte:Rgp	veliko
+donirali	mte:Vmpp-pm	donirati
+za	mte:Sa	za
+samo	mte:Q	samo
+kampanjo	mte:Ncfsa	kampanja
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+volilni	mte:Agpmsay	volilen
+štab	mte:Ncmsnn	štab
+sestavljajo	mte:Vmpr3p	sestavljati
+predvsem	mte:Q	predvsem
+mladi	mte:Agpmpn	mlad
+ljudje	mte:Ncmpn	človek
+iz	mte:Sg	iz
+strank	mte:Ncfpg	stranka
+podpornic	mte:Ncfpg	podpornica
+,	mte:Z	,
+večino	mte:Ncfsa	večina
+aktivnosti	mte:Ncfsg	aktivnost
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+in	mte:Cc	in
+bodo	mte:Va-f3p-n	biti
+izvedli	mte:Vmep-pm	izvesti
+v	mte:Sl	v
+lastni	mte:Agpfsl	lasten
+režiji	mte:Ncfsl	režija
+.	mte:Z	.
+Dan	mte:Ncmsan	dan
+pred	mte:Si	pred
+začetkom	mte:Ncmsi	začetek
+uradne	mte:Agpfsg	uraden
+volilne	mte:Agpfsg	volilen
+kampanje	mte:Ncfsg	kampanja
+je	mte:Va-r3s-n	biti
+Zver	mte:Npmsn	Zver
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+stil	mte:Ncmsn	stil
+delovanja	mte:Ncnsg	delovanje
+"	mte:Z	"
+verjetno	mte:Rgp	verjetno
+nekoliko	mte:Rgp	nekoliko
+drugačen	mte:Agpmsnn	drugačen
+"	mte:Z	"
+od	mte:Sg	od
+minulih	mte:Appmpg	minul
+tednov	mte:Ncmpg	teden
+.	mte:Z	.
+V	mte:Sl	v
+njegovem	mte:Ps3mslsm	njegov
+volilnem	mte:Agpmsl	volilen
+štabu	mte:Ncmsl	štab
+bodo	mte:Va-f3p-n	biti
+do	mte:Sg	do
+dneva	mte:Ncmsg	dan
+volitev	mte:Ncfpg	volitev
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+11	mte:Mdc	11
+.	mte:Z	.
+novembra	mte:Ncmsg	november
+,	mte:Z	,
+pripravili	mte:Vmep-pm	pripraviti
+še	mte:Q	še
+devet	mte:Mlc-pa	devet
+volilnih	mte:Agpfpg	volilen
+konvencij	mte:Ncfpg	konvencija
+po	mte:Sl	po
+različnih	mte:Agpmpl	različen
+krajih	mte:Ncmpl	kraj
+,	mte:Z	,
+sicer	mte:Q	sicer
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+dobršen	mte:Agpmsnn	dobršen
+del	mte:Ncmsn	del
+kampanje	mte:Ncfsg	kampanja
+potekal	mte:Vmpp-sm	potekati
+tudi	mte:Q	tudi
+preko	mte:Sg	preko
+medijev	mte:Ncmpg	medij
+in	mte:Cc	in
+soočenj	mte:Ncnpg	soočenja
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Zvera	mte:Npmsay	Zvera
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+podprl	mte:Vmep-sm	podpreti
+tudi	mte:Q	tudi
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+obrambo	mte:Ncfsa	obramba
+Aleš	mte:Npmsn	Aleš
+Hojs	mte:Npmsn	Hojs
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+državljan	mte:Ncmsn	državljan
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Zver	mte:Npmsn	Zver
+"	mte:Z	"
+najboljši	mte:Agsmsny	dober
+kandidat	mte:Ncmsn	kandidat
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+Slovenija	mte:Npfsn	Slovenija
+premore	mte:Vmbr3s	premoči
+"	mte:Z	"
+in	mte:Cc	in
+bo	mte:Va-f3s-n	biti
+tudi	mte:Q	tudi
+"	mte:Z	"
+najboljši	mte:Agsmsny	dober
+poveljnik	mte:Ncmsn	poveljnik
+obrambnih	mte:Agpfpg	obramben
+sil	mte:Ncfpg	sila
+"	mte:Z	"
+.	mte:Z	.
+"	mte:Z	"
+Slovenska	mte:Agpfsn	slovenski
+vojska	mte:Ncfsn	vojska
+je	mte:Va-r3s-n	biti
+zelo	mte:Rgp	zelo
+učinkovita	mte:Agpfsn	učinkovit
+"	mte:Z	"
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+izrazil	mte:Vmep-sm	izraziti
+zadovoljstvo	mte:Ncnsa	zadovoljstvo
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Zveru	mte:Npmsd	Zver
+"	mte:Z	"
+kot	mte:Cs	kot
+bodočemu	mte:Agpmsd	bodoč
+poveljniku	mte:Ncmsd	poveljnik
+obrambnih	mte:Agpfpg	obramben
+sil	mte:Ncfpg	sila
+"	mte:Z	"
+vloga	mte:Ncfsn	vloga
+predsednika	mte:Ncmsg	predsednik
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+zdi	mte:Vmpr3s	zdeti
+ustrezna	mte:Agpfsn	ustrezen
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+zaveda	mte:Vmpr3s	zavedati
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+so	mte:Va-r3p-n	biti
+pristojnosti	mte:Ncfpn	pristojnost
+predsednika	mte:Ncmsg	predsednik
+države	mte:Ncfsg	država
+in	mte:Cc	in
+kaj	mte:Pq-nsa	kaj
+so	mte:Va-r3p-n	biti
+pristojnosti	mte:Ncfpn	pristojnost
+izvršilne	mte:Agpfsg	izvršilen
+veje	mte:Ncfsg	veja
+oblasti	mte:Ncfsg	oblast
+.	mte:Z	.
+Po	mte:Sl	po
+Zverovih	mte:Aspfpl	zverov
+ocenah	mte:Ncfpl	ocena
+je	mte:Va-r3s-n	biti
+slovenska	mte:Agpfsn	slovenski
+vojska	mte:Ncfsn	vojska
+zelo	mte:Rgp	zelo
+učinkovita	mte:Agpfsn	učinkovit
+ter	mte:Cc	ter
+operativno	mte:Rgp	operativen
+dobro	mte:Rgp	dobro
+usposobljena	mte:Appfsn	usposobljen
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+obrambo	mte:Ncfsa	obramba
+tudi	mte:Q	tudi
+z	mte:Si	z
+manj	mte:Rgc	manj
+denarja	mte:Ncmsg	denar
+zaradi	mte:Sg	zaradi
+krčenja	mte:Ncnsg	krčenje
+proračunskih	mte:Agpnpg	proračunski
+sredstev	mte:Ncnpg	sredstvo
+uspel	mte:Vmep-sm	uspeti
+ohraniti	mte:Vmen	ohraniti
+dosedanji	mte:Agpmsay	dosedanji
+nivo	mte:Ncmsan	nivo
+obrambe	mte:Ncfsg	obramba
+.	mte:Z	.
+"	mte:Z	"
+Ne	mte:Q	ne
+zavidam	mte:Vmpr1s	zavidati
+težkega	mte:Agpmsg	težek
+položaja	mte:Ncmsg	položaj
+ministra	mte:Ncmsg	minister
+,	mte:Z	,
+ki	mte:Cs	ki
+mora	mte:Vmpr3s	morati
+zagotavljati	mte:Vmpn	zagotavljati
+ustrezno	mte:Agpfsa	ustrezen
+raven	mte:Ncfsa	raven
+varnosti	mte:Ncfsg	varnost
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+Zver	mte:Npmsn	Zver
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+ima	mte:Vmpr3s-n	imeti
+Slovenija	mte:Npfsn	Slovenija
+izjemno	mte:Rgp	izjemno
+nizek	mte:Agpmsan	nizek
+obrambni	mte:Agpmsay	obramben
+proračun	mte:Ncmsan	proračun
+,	mte:Z	,
+vsi	mte:Pg-mpn	ves
+proračunski	mte:Agpmpn	proračunski
+rezi	mte:Ncmpn	reza
+pa	mte:Cc	pa
+imajo	mte:Vmpr3p-n	imeti
+določene	mte:Appfpa	določen
+limite	mte:Ncfpa	limita
+in	mte:Cc	in
+ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+obrambi	mte:Ncfsl	obramba
+že	mte:Q	že
+dosežen	mte:Appmsnn	dosežen

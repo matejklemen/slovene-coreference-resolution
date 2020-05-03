@@ -1,193 +1,212 @@
-token	tag
-RTV	Npfsn
-Slovenija	Npfsn
-je	Va-r3s-n
-nocoj	Ncfsa
-v	Sl
-okviru	Ncmsl
-dobrodelne	Agpfsg
-akcije	Ncfsg
-Stopimo	Vmer1p
-skupaj	Rgp
-,	Z
-pomagajmo	Vmbm1p
-žrtvam	Ncfpd
-poplav	Ncfpg
-zbrala	Vmep-sf
-582.000	Mdc
-evrov	Ncmpg
-.	Z
-Zbrana	Appnpn
-sredstva	Ncnpa
-bo	Va-f3s-n
-nacionalna	Agpfsn
-televizija	Ncfsn
-namenila	Vmep-sf
-za	Sa
-pomoč	Ncfsa
-žrtvam	Ncfpd
-novembrskih	Agpfpg
-poplav	Ncfpg
-.	Z
-Osrednji	Agpmsny
-dogodek	Ncmsn
-akcije	Ncfsg
-je	Va-r3s-n
-bila	Va-p-sf
-nocojšnja	Agpfsn
-posebna	Agpfsn
-oddaja	Ncfsn
-,	Z
-ki	Cs
-bo	Va-f3s-n
-potekala	Vmpp-sf
-v	Sa
-živo	Ncfsa
-iz	Sg
-studia	Ncmsg
-Televizije	Ncfsg
-Slovenija	Npfsn
-,	Z
-začela	Vmep-sf
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-ob	Sl
-20	Mdc
-.	Z
-uri	Ncfsl
-in	Cc
-sedem	Mlc-pa
-minut	Ncfpg
-.	Z
-Oddaja	Ncfsn
-je	Va-r3s-n
-bila	Va-p-sf
-sestavljena	Appfsn
-iz	Sg
-prispevkov	Ncmpg
-novinarjev	Ncmpg
-in	Cc
-dopisnikov	Ncmpg
-RTVS	Ncmsg
-z	Sg
-najbolj	Rgs
-prizadetih	Appnpg
-območij	Ncnpg
-in	Cc
-pogovora	Ncmsg
-z	Si
-različnimi	Agpmpi
-gosti	Ncmpi
-,	Z
-ki	Cs
-so	Va-r3p-n
-vključeni	Appmpn
-v	Sa
-saniranje	Ncnsa
-škode	Ncfsg
-in	Cc
-reševanje	Ncnsa
-ljudi	Ncmpg
-ter	Cc
-premoženja	Ncnsg
-ob	Sl
-poplavah	Ncfpl
-.	Z
-V	Sl
-oddaji	Ncfsl
-je	Va-r3s-n
-sodeloval	Vmpp-sm
-tudi	Q
-Simfonični	Agpmsny
-orkester	Ncmsn
-RTVS	Npmsn
-s	Si
-Tinkaro	Npfsi
-Kovač	Npfsi
-,	Z
-Nušo	Npfsi
-Derenda	Npfsi
-,	Z
-Darjo	Npfsi
-Švajger	Npfsi
-,	Z
-Eroiko	Npfsi
-,	Z
-Janom	Npmsi
-Plestenjakom	Npmsi
-,	Z
-ansamblom	Ncmsi
-Franca	Npmsg
-Miheliča	Npmsg
-,	Z
-otroškim	Agpmsi
-pevskim	Agpmsi
-zborom	Ncmsi
-RTV	Npfsi
-SLO	Npmsi
-in	Cc
-drugimi	Mlpnpi
-imeni	Ncnpi
-slovenske	Agpfsg
-glasbe	Ncfsg
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-RTVS	Npfsg
-.	Z
-Voditelji	Ncmpn
-osrednje	Agpfsg
-oddaje	Ncfsg
-so	Va-r3p-n
-bili	Va-p-pm
-Slavko	Npmsn
-Bobovnik	Npmsn
-,	Z
-Jasmina	Npfsn
-Jamnik	Npmsn
-in	Cc
-Jelena	Npfsn
-Aščić	Npfsn
-.	Z
-Za	Sa
-žrtve	Ncfpa
-poplav	Ncfpg
-Novembrske	Agpfsg
-poplave	Ncfsg
-so	Va-r3p-n
-najbolj	Rgs
-prizadele	Vmep-pf
-Štajersko	Npfsa
-,	Z
-Koroško	Npfsa
-,	Z
-Posavje	Npnsa
-in	Cc
-Posočje	Npnsa
-.	Z
-Voda	Ncfsn
-je	Va-r3s-n
-zalila	Vmep-sf
-številne	Agpfpa
-stavbe	Ncfpa
-–	Z
-poškodovanih	Appmpg
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-nekaj	Rgp
-tisoč	Mlc-pa
-stanovanjskih	Agpmpg
-in	Cc
-poslovnih	Agpmpg
-objektov	Ncmpg
-–	Z
-in	Cc
-ceste	Ncfsg
-ter	Cc
-sprožila	Vmep-sf
-vrsto	Ncfsa
-plazov	Ncmpg
-.	Z
+token	tag	lemma
+RTV	mte:Npfsn	RTV
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+nocoj	mte:Ncfsa	nocoj
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+dobrodelne	mte:Agpfsg	dobrodelen
+akcije	mte:Ncfsg	akcija
+Stopimo	mte:Vmer1p	stopiti
+skupaj	mte:Rgp	skupaj
+,	mte:Z	,
+pomagajmo	mte:Vmbm1p	pomagati
+žrtvam	mte:Ncfpd	žrtev
+poplav	mte:Ncfpg	poplava
+zbrala	mte:Vmep-sf	zbrati
+582.000	mte:Mdc	582.000
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Zbrana	mte:Appnpn	zbran
+sredstva	mte:Ncnpa	sredstvo
+bo	mte:Va-f3s-n	biti
+nacionalna	mte:Agpfsn	nacionalen
+televizija	mte:Ncfsn	televizija
+namenila	mte:Vmep-sf	nameniti
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+žrtvam	mte:Ncfpd	žrtev
+novembrskih	mte:Agpfpg	novembrski
+poplav	mte:Ncfpg	poplava
+.	mte:Z	.
+Osrednji	mte:Agpmsny	osrednji
+dogodek	mte:Ncmsn	dogodek
+akcije	mte:Ncfsg	akcija
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+nocojšnja	mte:Agpfsn	nocojšnji
+posebna	mte:Agpfsn	poseben
+oddaja	mte:Ncfsn	oddaja
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+potekala	mte:Vmpp-sf	potekati
+v	mte:Sa	v
+živo	mte:Ncfsa	živo
+iz	mte:Sg	iz
+studia	mte:Ncmsg	studio
+Televizije	mte:Ncfsg	televizija
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+začela	mte:Vmep-sf	začeti
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+20	mte:Mdc	20
+.	mte:Z	.
+uri	mte:Ncfsl	ura
+in	mte:Cc	in
+sedem	mte:Mlc-pa	sedem
+minut	mte:Ncfpg	minuta
+.	mte:Z	.
+Oddaja	mte:Ncfsn	oddaja
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+sestavljena	mte:Appfsn	sestavljen
+iz	mte:Sg	iz
+prispevkov	mte:Ncmpg	prispevek
+novinarjev	mte:Ncmpg	novinar
+in	mte:Cc	in
+dopisnikov	mte:Ncmpg	dopisnik
+RTVS	mte:Ncmsg	rtvs
+z	mte:Sg	z
+najbolj	mte:Rgs	najbolj
+prizadetih	mte:Appnpg	prizadet
+območij	mte:Ncnpg	območje
+in	mte:Cc	in
+pogovora	mte:Ncmsg	pogovor
+z	mte:Si	z
+različnimi	mte:Agpmpi	različen
+gosti	mte:Ncmpi	gost
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+vključeni	mte:Appmpn	vključen
+v	mte:Sa	v
+saniranje	mte:Ncnsa	saniranje
+škode	mte:Ncfsg	škoda
+in	mte:Cc	in
+reševanje	mte:Ncnsa	reševanje
+ljudi	mte:Ncmpg	človek
+ter	mte:Cc	ter
+premoženja	mte:Ncnsg	premoženje
+ob	mte:Sl	ob
+poplavah	mte:Ncfpl	poplava
+.	mte:Z	.
+V	mte:Sl	v
+oddaji	mte:Ncfsl	oddaja
+je	mte:Va-r3s-n	biti
+sodeloval	mte:Vmpp-sm	sodelovati
+tudi	mte:Q	tudi
+Simfonični	mte:Agpmsny	simfoničen
+orkester	mte:Ncmsn	orkester
+RTVS	mte:Npmsn	RTVS
+s	mte:Si	z
+Tinkaro	mte:Npfsi	Tinkaro
+Kovač	mte:Npfsi	Kovač
+,	mte:Z	,
+Nušo	mte:Npfsi	Nuša
+Derenda	mte:Npfsi	Derenda
+,	mte:Z	,
+Darjo	mte:Npfsi	Darja
+Švajger	mte:Npfsi	Švajger
+,	mte:Z	,
+Eroiko	mte:Npfsi	Eroiko
+,	mte:Z	,
+Janom	mte:Npmsi	Jan
+Plestenjakom	mte:Npmsi	Plestenjak
+,	mte:Z	,
+ansamblom	mte:Ncmsi	ansambel
+Franca	mte:Npmsg	Franc
+Miheliča	mte:Npmsg	Mihelič
+,	mte:Z	,
+otroškim	mte:Agpmsi	otroški
+pevskim	mte:Agpmsi	pevski
+zborom	mte:Ncmsi	zbor
+RTV	mte:Npfsi	RTV
+SLO	mte:Npmsi	SLO
+in	mte:Cc	in
+drugimi	mte:Mlpnpi	drug
+imeni	mte:Ncnpi	ime
+slovenske	mte:Agpfsg	slovenski
+glasbe	mte:Ncfsg	glasba
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+RTVS	mte:Npfsg	RTVS
+.	mte:Z	.
+Voditelji	mte:Ncmpn	voditelj
+osrednje	mte:Agpfsg	osrednji
+oddaje	mte:Ncfsg	oddaja
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+Slavko	mte:Npmsn	Slavko
+Bobovnik	mte:Npmsn	Bobovnik
+,	mte:Z	,
+Jasmina	mte:Npfsn	Jasmina
+Jamnik	mte:Npmsn	Jamnik
+in	mte:Cc	in
+Jelena	mte:Npfsn	Jelena
+Aščić	mte:Npfsn	Aščić
+.	mte:Z	.
+Za	mte:Sa	za
+žrtve	mte:Ncfpa	žrtev
+poplav	mte:Ncfpg	poplava
+Novembrske	mte:Agpfsg	novembrski
+poplave	mte:Ncfsg	poplava
+so	mte:Va-r3p-n	biti
+najbolj	mte:Rgs	najbolj
+prizadele	mte:Vmep-pf	prizadeti
+Štajersko	mte:Npfsa	Štajerska
+,	mte:Z	,
+Koroško	mte:Npfsa	Koroška
+,	mte:Z	,
+Posavje	mte:Npnsa	Posavje
+in	mte:Cc	in
+Posočje	mte:Npnsa	Posočje
+.	mte:Z	.
+Voda	mte:Ncfsn	voda
+je	mte:Va-r3s-n	biti
+zalila	mte:Vmep-sf	zaliti
+številne	mte:Agpfpa	številen
+stavbe	mte:Ncfpa	stavba
+–	mte:Z	–
+poškodovanih	mte:Appmpg	poškodovan
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+nekaj	mte:Rgp	nekaj
+tisoč	mte:Mlc-pa	tisoč
+stanovanjskih	mte:Agpmpg	stanovanjski
+in	mte:Cc	in
+poslovnih	mte:Agpmpg	posloven
+objektov	mte:Ncmpg	objekt
+–	mte:Z	–
+in	mte:Cc	in
+ceste	mte:Ncfsg	cesta
+ter	mte:Cc	ter
+sprožila	mte:Vmep-sf	sprožiti
+vrsto	mte:Ncfsa	vrsta
+plazov	mte:Ncmpg	plaz
+.	mte:Z	.
+Za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+prizadetim	mte:Appmpd	prizadet
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+po	mte:Sl	po
+poplavah	mte:Ncfpl	poplava
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+odločili	mte:Vmep-pm	odločiti
+Slovenska	mte:Agpfsn	slovenski
+karitas	mte:Ncfsn	karitas
+,	mte:Z	,
+Rdeči	mte:Agpmsny	rdeč
+križ	mte:Ncmsn	križ
+Slovenije	mte:Npfsg	Slovenija
+in	mte:Cc	in
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina

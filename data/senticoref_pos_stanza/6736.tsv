@@ -1,850 +1,885 @@
-token	tag
-Obletnica	Ncfsn
-propada	Ncmsg
-banke	Ncfsg
-Lehman	Npfsg
-Brothers	Npfsn
-Pred	Si
-letom	Ncnsi
-dni	Ncmpg
-je	Va-r3s-n
-ena	Mlpfsn
-najstarejših	Agsfpg
-ameriških	Agpfpg
-bank	Ncfpg
-Lehman	Npmsg
-Brothers	Npfsn
-razglasila	Vmep-sf
-stečaj	Ncmsan
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-ves	Pg-msn
-svet	Ncmsn
-dokončno	Rgp
-pahnilo	Vmep-sn
-v	Sa
-eno	Mlpfsa
-najhujših	Agsfpg
-gospodarskih	Agpfpg
-kriz	Ncfpg
-.	Z
-Investicijska	Agpfsn
-banka	Ncfsn
-Lehman	Npfsn
-Brothers	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-imela	Vmpp-sf
-158	Mdc
--	Z
-letno	Agpfsa
-tradicijo	Ncfsa
-,	Z
-je	Va-r3s-n
-v	Sa
-težave	Ncfpa
-zašla	Vmep-sf
-zaradi	Sg
-velike	Agpfsg
-izpostavljenosti	Ncfsg
-vrednostnim	Agpmpd
-papirjem	Ncmsd
-na	Sl
-podlagi	Ncfsl
-hipotek	Ncfpg
-,	Z
-predvsem	Q
-drugorazrednih	Agpmpg
-,	Z
-katerih	Pq-fpg
-vrednost	Ncfsn
-ni	Va-r3s-y
-bila	Va-p-sf
-dvomljiva	Agpfsn
-,	Z
-dokler	Cs
-je	Va-r3s-n
-ameriški	Agpmsny
-nepremičninski	Agpmsny
-trg	Ncmsn
-cvetel	Vmpp-sm
-.	Z
-Med	Si
-letoma	Ncndi
-1997	Mdc
-in	Cc
-2006	Mdc
-,	Z
-ko	Cs
-je	Va-r3s-n
-nepremičninski	Agpmsny
-trg	Ncmsn
-doživel	Vmep-sm
-vrhunec	Ncmsan
-,	Z
-se	Px------y
-je	Va-r3s-n
-povprečna	Agpfsn
-ameriška	Agpfsn
-hiša	Ncfsn
-podražila	Vmep-sf
-za	Sa
-124	Mdc
-odstotkov	Ncmpg
-,	Z
-zato	Cc
-so	Va-r3p-n
-se	Px------y
-Američani	Npmpn
-do	Sg
-vratu	Ncmsg
-zadolžili	Vmep-pm
-.	Z
-Posojila	Ncnsg
-so	Va-r3p-n
-dobivali	Vmpp-pm
-vsi	Pg-mpn
-,	Z
-ne	Q
-glede	Rgp
-na	Sa
-zmožnost	Ncfsa
-odplačevanja	Ncnsg
-,	Z
-in	Cc
-tako	Rgp
-so	Va-r3p-n
-bile	Va-p-pf
-do	Sg
-leta	Ncnsg
-2007	Mdc
-drugorazredne	Agpfpn
-hipoteke	Ncfpn
-,	Z
-katerih	Pq-mpg
-najemniki	Ncmpn
-niso	Va-r3p-y
-bili	Va-p-pm
-sposobni	Agpmpn
-odplačevati	Vmpn
-posojila	Ncnpg
-brez	Sg
-nenehne	Agpfsg
-rasti	Ncfsg
-vrednosti	Ncfsg
-nepremičnin	Ncfpg
-,	Z
-vredne	Agpfsg
-že	Q
-1.300	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-.	Z
-Takrat	Rgp
-so	Va-r3p-n
-banke	Ncfpn
-zaplenile	Vmep-pf
-1,3	Mdc
-milijona	Ncmsg
-hiš	Ncfpg
-in	Cc
-stanovanj	Ncnpg
-,	Z
-leta	Ncnsg
-2008	Mdc
-pa	Cc
-že	Q
-2,3	Mdc
-milijona	Ncmsg
-.	Z
-Do	Sg
-septembra	Ncmsg
-2008	Mdc
-se	Px------y
-je	Va-r3s-n
-povprečna	Agpfsn
-cena	Ncfsn
-hiš	Ncfpg
-ali	Cc
-stanovanja	Ncnsg
-v	Sl
-ZDA	Npfpl
-znižala	Vmep-sf
-za	Sa
-20	Mdc
-odstotkov	Ncmpg
-od	Sg
-rekordnih	Agpfpg
-cen	Ncfpg
-sredi	Sg
-leta	Ncnsg
-2006	Mdc
-,	Z
-ko	Cs
-so	Va-r3p-n
-se	Px------y
-začele	Vmep-pf
-razmere	Ncfpn
-obračati	Vmpn
-na	Sa
-slabše	Rgc
-.	Z
-Iskali	Vmpp-pm
-rešitve	Ncfpa
-,	Z
-a	Cc
-za	Sa
-banko	Ncfsa
-je	Va-r3s-n
-bilo	Va-p-sn
-prepozno	Agpnsn
-Ko	Cs
-je	Va-r3s-n
-konec	Sg
-avgusta	Ncmsg
-2008	Mdc
-na	Sl
-Wall	Npmsl
-Streetu	Ncmsl
-začela	Vmep-sf
-vladati	Vmpn
-zaskrbljenost	Ncfsa
-zaradi	Sg
-zdravja	Ncnsg
-banke	Ncfsg
-Lehman	Npmsg
-Brothers	Npmsn
-in	Cc
-drugih	Mlpfpg
-finančnih	Agpfpg
-ustanov	Ncfpg
-,	Z
-se	Px------y
-je	Va-r3s-n
-kriza	Ncfsn
-razširila	Vmep-sf
-že	Q
-v	Sa
-vse	Pg-mpa
-pore	Ncmpa
-družbe	Ncfsg
-.	Z
-Ameriška	Agpfsn
-vlada	Ncfsn
-je	Va-r3s-n
-7	Mdc
-.	Z
-septembra	Ncmsg
-prevzela	Vmep-sf
-paradržavni	Agpmda
-hipotekarni	Agpmsa
-podjetji	Ncnda
-Fannie	Npmsn
-Mae	Npmsn
-in	Cc
-Freddie	Npmsn
-Mac	Npmsn
-in	Cc
-jima	Pp3mdd--y
-namenila	Vmep-sf
-200	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-pomoči	Ncfsg
-,	Z
-takrat	Rgp
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-obetala	Vmpp-sf
-tudi	Q
-pomoč	Ncfsa
-banki	Ncfsd
-Lehman	Npmsg
-Brothers	Npmsn
-.	Z
-Načrt	Ncmsn
-,	Z
-da	Cs
-bi	Va-c
-banko	Ncfsa
-prevzela	Vmep-sf
-Korejska	Agpfsn
-investicijska	Agpfsn
-banka	Ncfsn
-,	Z
-je	Va-r3s-n
-padel	Vmep-sm
-v	Sa
-vodo	Ncfsa
-,	Z
-banka	Ncfsn
-pa	Cc
-je	Va-r3s-n
-samo	Q
-v	Sl
-tretjem	Mlonsl
-četrtletju	Ncnsl
-prijavila	Vmep-sf
-3,9	Mdc
-milijarde	Ncfsg
-dolarjev	Ncmpg
-izgub	Ncfpg
-.	Z
-13	Mdc
-.	Z
-septembra	Ncmsg
-je	Va-r3s-n
-nato	Rgp
-predsednik	Ncmsn
-newyorških	Agpfpg
-zveznih	Agpfpg
-rezerv	Ncfpg
-in	Cc
-sedanji	Agpmsny
-finančni	Agpmsny
-minister	Ncmsn
-ZDA	Npfpg
-Timothy	Npmsn
-Geithner	Npmsn
-sklical	Vmep-sm
-nujen	Agpmsan
-sestanek	Ncmsan
-za	Sa
-banko	Ncfsa
-Lehman	Npfsg
-Brothers	Npfsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-pogajala	Vmpp-sf
-,	Z
-da	Cs
-bi	Va-c
-jo	Pp3fsa--y
-prevzela	Vmep-sf
-Bank	Npfsn
-of	Xf
-America	Npfsn
-,	Z
-prav	Q
-tako	Rgp
-tudi	Q
-britansko	Agpfsa
-banko	Ncfsa
-Barclays	Npmsn
-,	Z
-kar	Pr-nsn
-pa	Cc
-je	Va-r3s-n
-pozneje	Rgc
-propadlo	Vmep-sn
-.	Z
-Banka	Ncfsn
-Lehman	Npfsn
-Brothers	Npfsn
-je	Va-r3s-n
-15	Mdc
-.	Z
-septembra	Ncmsg
-razglasila	Vmep-sf
-največji	Agsmsay
-stečaj	Ncmsan
-v	Sl
-ameriški	Agpfsl
-zgodovini	Ncfsl
-,	Z
-nekdaj	Rgp
-zelo	Rgp
-ugledno	Agpfsa
-finančno	Agpfsa
-institucijo	Ncfsa
-pa	Cc
-so	Va-r3p-n
-razprodali	Vmpp-pm
-po	Sl
-delih	Ncnpl
-.	Z
-Borzni	Agpmpn
-trgi	Ncmpn
-so	Va-r3p-n
-se	Px------y
-zatresli	Vmep-pm
-,	Z
-vrednosti	Ncfpn
-padale	Vmpp-pf
-Novica	Ncfsn
-je	Va-r3s-n
-na	Sl
-borznih	Agpmpl
-trgih	Ncmpl
-odjeknila	Vmep-sf
-kot	Cs
-bombna	Agpfsn
-eksplozija	Ncfsn
-,	Z
-indeks	Ncmsn
-Dow	Npmsn
-Jones	Npmsn
-je	Va-r3s-n
-v	Sl
-enem	Mlpmsl
-samem	Agpmsl
-dnevu	Ncmsl
-na	Sl
-newyorški	Agpfsl
-borzi	Ncfsl
-izgubil	Vmep-sm
-500	Mdc
-točk	Ncfpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-bil	Va-p-sm
-največji	Agsmsny
-enodnevni	Agpmsny
-padec	Ncmsn
-po	Sl
-napadih	Ncmpl
-na	Sl
-ZDA	Npfpl
-11	Mdc
-.	Z
-septembra	Ncmsg
-2001	Mdc
-.	Z
-Propad	Ncmsn
-banke	Ncfsg
-je	Va-r3s-n
-nato	Rgp
-prisilil	Vmep-sm
-oblasti	Ncfpa
-,	Z
-da	Cs
-pomagajo	Vmbr3p
-drugim	Mlpnpd
-velikim	Agpnpd
-finančnim	Agpnpd
-podjetjem	Ncnpd
-,	Z
-katerih	Pq-mpg
-propad	Ncmsn
-bi	Va-c
-imel	Vmpp-sm
-katastrofalne	Agpfpa
-posledice	Ncfpa
-za	Sa
-sistem	Ncmsan
-.	Z
-S	Si
-propadom	Ncmsi
-banke	Ncfsg
-Lehman	Npmsg
-Brothers	Npmsn
-se	Px------y
-je	Va-r3s-n
-uresničilo	Vmep-sn
-to	Pd-nsn
-,	Z
-kar	Pr-nsa
-so	Va-r3p-n
-napovedovali	Vmpp-pm
-ekonomisti	Ncmpn
-,	Z
-propad	Ncmsn
-je	Va-r3s-n
-svet	Ncmsn
-dokončno	Rgp
-pahnil	Vmep-sm
-v	Sa
-najhujšo	Agsfsa
-gospodarsko	Agpfsa
-krizo	Ncfsa
-po	Sl
-30	Mdc
-.	Z
-letih	Ncnpl
-prejšnjega	Agpnsg
-stoletja	Ncnsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-države	Ncfpa
-prisilila	Vmep-sf
-,	Z
-da	Cs
-so	Va-r3p-n
-začele	Vmep-pf
-sprejemati	Vmpn
-ukrepe	Ncmpa
-za	Sa
-reševanje	Ncnsa
-,	Z
-nekatere	Pi-fpa
-bolj	Rgc
-,	Z
-druge	Mlpfpa
-manj	Rgc
-uspešno	Rgp
-.	Z
-Milijarde	Npfsg
-za	Sa
-reševanje	Ncnsa
-oslabelih	Appnpg
-gospodarstev	Ncnpg
-Evropa	Npfsn
-je	Va-r3s-n
-svoje	Px-fsa
-banke	Ncfpa
-začela	Vmep-sf
-reševati	Vmpn
-konec	Sg
-septembra	Ncmsg
-,	Z
-3	Mdc
-.	Z
-oktobra	Ncmsg
-pa	Cc
-je	Va-r3s-n
-takratni	Agpmsny
-predsednik	Ncmsn
-George	Npmsn
-Bush	Npmsn
-potrdil	Vmep-sm
-700	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-vreden	Agpmsan
-sveženj	Ncmsan
-,	Z
-s	Si
-katerim	Pq-msi
-naj	Q
-bi	Va-c
-rešili	Vmep-pm
-ameriško	Agpnsa
-gospodarstvo	Ncnsa
-.	Z
-13	Mdc
-.	Z
-oktobra	Ncmsg
-je	Va-r3s-n
-500	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-vreden	Agpmsan
-stimulacijski	Agpmsay
-sveženj	Ncmsan
-napovedala	Vmep-sf
-Nemčija	Npfsn
-,	Z
-le	Q
-nekaj	Rgp
-dni	Ncmpg
-pozneje	Rgc
-pa	Cc
-360	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-vreden	Agpmsan
-sveženj	Ncmsan
-še	Q
-Francija	Npmsn
-.	Z
-Dvojici	Ncfsn
-so	Va-r3p-n
-sledile	Vmpp-pf
-preostale	Vmep-pf
-evropske	Agpfpa
-države	Ncfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-12	Mdc
-.	Z
-decembra	Ncmsg
-potrdile	Vmep-pf
-200	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-vreden	Agpmsan
-stimulacijski	Agpmsay
-sveženj	Ncmsan
-,	Z
-nato	Rgp
-pa	Cc
-še	Q
-Japonska	Npfsn
-in	Cc
-Kitajska	Npfsn
-.	Z
-Država	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-kriza	Ncfsn
-najbolj	Rgs
-prizadela	Vmep-sf
-,	Z
-je	Va-r3s-n
-bila	Va-p-sf
-Islandija	Npfsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-znašla	Vmep-sf
-na	Sl
-robu	Ncmsl
-stečaja	Ncmsg
-.	Z
-Zaradi	Sg
-krize	Ncfsg
-so	Va-r3p-n
-se	Px------y
-vztrajno	Rgp
-nižale	Vmpp-pf
-obrestne	Agpfpn
-mere	Ncfpn
-.	Z
-Ameriške	Agpfpn
-zvezne	Agpfpn
-rezerve	Ncfpn
-FED	Npfsg
-so	Va-r3p-n
-obrestno	Agpfsa
-mero	Ncfsa
-na	Sl
-med	Si
-0	Mdc
-in	Cc
-0,25	Mdc
-odstotka	Ncmsg
-znižale	Vmep-pf
-16	Mdc
-.	Z
-decembra	Ncmsg
-in	Cc
-tam	Rgp
-vztraja	Vmpr3s
-še	Q
-danes	Rgp
-,	Z
-znižala	Vmep-sf
-pa	Cc
-jo	Pp3fsa--y
-je	Va-r3s-n
-tudi	Q
-Evropska	Agpfsn
-centralna	Agpfsn
-banka	Ncfsn
-,	Z
-in	Cc
-sicer	Q
-na	Sa
-odstotek	Ncmsan
-.	Z
-Kriza	Ncfsn
-se	Px------y
-je	Va-r3s-n
-močno	Rgp
-poznala	Vmpp-sf
-tudi	Q
-na	Sl
-borznih	Agpmpl
-trgih	Ncmpl
-,	Z
-saj	Cc
-je	Va-r3s-n
-samo	Q
-na	Sl
-ameriških	Agpfpl
-borzah	Ncfpl
-od	Sg
-januarja	Ncmsg
-do	Sg
-oktobra	Ncmsg
-2008	Mdc
-v	Sl
-zrah	Ncfsl
-izpuhtelo	Vmep-sn
-kar	Rgp
-8.000	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-premoženja	Ncnsg
-.	Z
-Se	Px------y
-kriza	Ncfsn
-počasi	Rgp
-poslavlja	Vmpr3s
-?	Z
-Države	Ncfpn
-so	Va-r3p-n
-skozi	Sa
-leto	Ncnsa
-sprejemale	Vmpp-pf
-številne	Agpmpa
-ukrepe	Ncmpa
-in	Cc
-ti	Pd-mpn
-fiskalni	Agpmpn
-in	Cc
-monetarni	Agpmpn
-ukrepi	Ncmpn
-so	Va-r3p-n
-pomagali	Vmbp-pm
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-kriza	Ncfsn
-sčasoma	Rgp
-le	Q
-unesla	Vmep-sf
-.	Z
-Nekatere	Pi-fpn
-večje	Agcfpn
-države	Ncfpn
-,	Z
-med	Si
-njimi	Pp3mpi
-Francija	Npfsn
-,	Z
-Nemčija	Npfsn
-in	Cc
-Japonska	Npfsn
-,	Z
-so	Va-r3p-n
-v	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-letos	Rgp
-že	Q
-ugotovile	Vmep-pf
-gospodarsko	Agpfsa
-rast	Ncfsa
-in	Cc
-se	Px------y
-tako	Rgp
-dvignile	Vmep-pf
-iz	Sg
-recesije	Ncfsg
-.	Z
-Analitiki	Ncmpn
-napovedujejo	Vmpr3p
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-gospodarska	Agpfsn
-rast	Ncfsn
-v	Sl
-ZDA	Npfpl
-dvignila	Vmep-sf
-v	Sl
-tretjem	Mlonsl
-četrtletju	Ncnsl
-,	Z
-pa	Cc
-čeprav	Cs
-se	Px------y
-Američani	Npmpn
-še	Q
-vedno	Rgp
-spopadajo	Vmpr3p
-z	Si
-reševanjem	Ncnsi
-krize	Ncfsg
-.	Z
-Če	Cs
-gre	Vmbr3s
-verjeti	Vmbn
-ekonomistom	Ncmpd
-,	Z
-se	Px------y
-bo	Va-f3s-n
-kriza	Ncfsn
-kmalu	Rgp
-končala	Vmep-sf
-,	Z
-a	Cc
-analitiki	Ncmpn
-opozarjajo	Vmpr3p
-,	Z
-da	Cs
-tokratna	Agpfsn
-kriza	Ncfsn
-številnih	Agpfpg
-držav	Ncfpg
-ni	Va-r3s-y
-naučila	Vmep-sf
-lekcije	Ncfsg
-,	Z
-ki	Cs
-bi	Va-c
-jih	Pp3mpa--y
-morala	Vmpp-sf
-,	Z
-in	Cc
-da	Cs
-niso	Va-r3p-y
-sprejeli	Vmep-pm
-ukrepov	Ncmpg
-,	Z
-ki	Cs
-bi	Va-c
-jih	Pp3mpa--y
-morali	Vmpp-pm
-,	Z
-da	Cs
-se	Px------y
-kriza	Ncfsn
-dejansko	Rgp
-ne	Q
-bi	Va-c
-več	Q
-ponovila	Vmep-sf
-.	Z
-Enakega	Pi-nsg
-mnenja	Ncnsg
-je	Va-r3s-n
-tudi	Q
-ameriški	Agpmsny
-predsednik	Ncmsn
-Barack	Npmsn
-Obama	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-svojem	Px-msl
-govoru	Ncmsl
-bančnikom	Ncmsd
-leto	Ncnsa
-dni	Ncmpg
-po	Sl
-propadu	Ncmsl
-banke	Ncfsg
-Lehman	Npmsg
-Brothers	Npmsn
-dejal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-številni	Agpmpn
-v	Sl
-finančni	Agpfsl
-industriji	Ncfsl
-iz	Sg
-te	Pd-fsg
-izkušnje	Ncfsg
-niso	Va-r3p-y
-naučili	Vmep-pm
-ničesar	Pz-nsg
-.	Z
+token	tag	lemma
+Obletnica	mte:Ncfsn	obletnica
+propada	mte:Ncmsg	propad
+banke	mte:Ncfsg	banka
+Lehman	mte:Npfsg	Lehman
+Brothers	mte:Npfsn	Brothers
+Pred	mte:Si	pred
+letom	mte:Ncnsi	leto
+dni	mte:Ncmpg	dan
+je	mte:Va-r3s-n	biti
+ena	mte:Mlpfsn	en
+najstarejših	mte:Agsfpg	star
+ameriških	mte:Agpfpg	ameriški
+bank	mte:Ncfpg	banka
+Lehman	mte:Npmsg	Lehman
+Brothers	mte:Npfsn	Brothers
+razglasila	mte:Vmep-sf	razglasiti
+stečaj	mte:Ncmsan	stečaj
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+ves	mte:Pg-msn	ves
+svet	mte:Ncmsn	svet
+dokončno	mte:Rgp	dokončno
+pahnilo	mte:Vmep-sn	pahniti
+v	mte:Sa	v
+eno	mte:Mlpfsa	en
+najhujših	mte:Agsfpg	hud
+gospodarskih	mte:Agpfpg	gospodarski
+kriz	mte:Ncfpg	kriz
+.	mte:Z	.
+Investicijska	mte:Agpfsn	investicijski
+banka	mte:Ncfsn	banka
+Lehman	mte:Npfsn	Lehman
+Brothers	mte:Npmsn	Brothers
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+imela	mte:Vmpp-sf	imeti
+158	mte:Mdc	158
+-	mte:Z	-
+letno	mte:Agpfsa	leten
+tradicijo	mte:Ncfsa	tradicija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+težave	mte:Ncfpa	težava
+zašla	mte:Vmep-sf	zaiti
+zaradi	mte:Sg	zaradi
+velike	mte:Agpfsg	velik
+izpostavljenosti	mte:Ncfsg	izpostavljenost
+vrednostnim	mte:Agpmpd	vrednosten
+papirjem	mte:Ncmsd	papir
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+hipotek	mte:Ncfpg	hipotek
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+drugorazrednih	mte:Agpmpg	drugorazreden
+,	mte:Z	,
+katerih	mte:Pq-fpg	kateri
+vrednost	mte:Ncfsn	vrednost
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+dvomljiva	mte:Agpfsn	dvomljiv
+,	mte:Z	,
+dokler	mte:Cs	dokler
+je	mte:Va-r3s-n	biti
+ameriški	mte:Agpmsny	ameriški
+nepremičninski	mte:Agpmsny	nepremičninski
+trg	mte:Ncmsn	trg
+cvetel	mte:Vmpp-sm	cveti
+.	mte:Z	.
+Med	mte:Si	med
+letoma	mte:Ncndi	leto
+1997	mte:Mdc	1997
+in	mte:Cc	in
+2006	mte:Mdc	2006
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+nepremičninski	mte:Agpmsny	nepremičninski
+trg	mte:Ncmsn	trg
+doživel	mte:Vmep-sm	doživeti
+vrhunec	mte:Ncmsan	vrhunec
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+povprečna	mte:Agpfsn	povprečen
+ameriška	mte:Agpfsn	ameriški
+hiša	mte:Ncfsn	hiša
+podražila	mte:Vmep-sf	podražiti
+za	mte:Sa	za
+124	mte:Mdc	124
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+Američani	mte:Npmpn	Američan
+do	mte:Sg	do
+vratu	mte:Ncmsg	vrat
+zadolžili	mte:Vmep-pm	zadolžiti
+.	mte:Z	.
+Posojila	mte:Ncnsg	posojilo
+so	mte:Va-r3p-n	biti
+dobivali	mte:Vmpp-pm	dobivati
+vsi	mte:Pg-mpn	ves
+,	mte:Z	,
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+zmožnost	mte:Ncfsa	zmožnost
+odplačevanja	mte:Ncnsg	odplačevanje
+,	mte:Z	,
+in	mte:Cc	in
+tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+drugorazredne	mte:Agpfpn	drugorazreden
+hipoteke	mte:Ncfpn	hipoteka
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+najemniki	mte:Ncmpn	najemnik
+niso	mte:Va-r3p-y	biti
+bili	mte:Va-p-pm	biti
+sposobni	mte:Agpmpn	sposoben
+odplačevati	mte:Vmpn	odplačevati
+posojila	mte:Ncnpg	posojilo
+brez	mte:Sg	brez
+nenehne	mte:Agpfsg	nenehen
+rasti	mte:Ncfsg	rast
+vrednosti	mte:Ncfsg	vrednost
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+vredne	mte:Agpfsg	vreden
+že	mte:Q	že
+1.300	mte:Mdc	1.300
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Takrat	mte:Rgp	takrat
+so	mte:Va-r3p-n	biti
+banke	mte:Ncfpn	banka
+zaplenile	mte:Vmep-pf	zapleniti
+1,3	mte:Mdc	1,3
+milijona	mte:Ncmsg	milijon
+hiš	mte:Ncfpg	hiša
+in	mte:Cc	in
+stanovanj	mte:Ncnpg	stanovanje
+,	mte:Z	,
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+pa	mte:Cc	pa
+že	mte:Q	že
+2,3	mte:Mdc	2,3
+milijona	mte:Ncmsg	milijon
+.	mte:Z	.
+Do	mte:Sg	do
+septembra	mte:Ncmsg	september
+2008	mte:Mdc	2008
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+hiš	mte:Ncfpg	hiša
+ali	mte:Cc	ali
+stanovanja	mte:Ncnsg	stanovanje
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+20	mte:Mdc	20
+odstotkov	mte:Ncmpg	odstotek
+od	mte:Sg	od
+rekordnih	mte:Agpfpg	rekorden
+cen	mte:Ncfpg	cena
+sredi	mte:Sg	sredi
+leta	mte:Ncnsg	leto
+2006	mte:Mdc	2006
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+začele	mte:Vmep-pf	začeti
+razmere	mte:Ncfpn	razmera
+obračati	mte:Vmpn	obračati
+na	mte:Sa	na
+slabše	mte:Rgc	slabo
+.	mte:Z	.
+Iskali	mte:Vmpp-pm	iskati
+rešitve	mte:Ncfpa	rešitev
+,	mte:Z	,
+a	mte:Cc	a
+za	mte:Sa	za
+banko	mte:Ncfsa	banka
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+prepozno	mte:Agpnsn	prepozen
+Ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+avgusta	mte:Ncmsg	avgust
+2008	mte:Mdc	2008
+na	mte:Sl	na
+Wall	mte:Npmsl	Wall
+Streetu	mte:Ncmsl	street
+začela	mte:Vmep-sf	začeti
+vladati	mte:Vmpn	vladati
+zaskrbljenost	mte:Ncfsa	zaskrbljenost
+zaradi	mte:Sg	zaradi
+zdravja	mte:Ncnsg	zdravje
+banke	mte:Ncfsg	banka
+Lehman	mte:Npmsg	Lehman
+Brothers	mte:Npmsn	Brothers
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+finančnih	mte:Agpfpg	finančen
+ustanov	mte:Ncfpg	ustan
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+kriza	mte:Ncfsn	kriza
+razširila	mte:Vmep-sf	razširiti
+že	mte:Q	že
+v	mte:Sa	v
+vse	mte:Pg-mpa	ves
+pore	mte:Ncmpa	pora
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Ameriška	mte:Agpfsn	ameriški
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+7	mte:Mdc	7
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+prevzela	mte:Vmep-sf	prevzeti
+paradržavni	mte:Agpmda	paradržaven
+hipotekarni	mte:Agpmsa	hipotekaren
+podjetji	mte:Ncnda	podjetje
+Fannie	mte:Npmsn	Fannie
+Mae	mte:Npmsn	Mae
+in	mte:Cc	in
+Freddie	mte:Npmsn	Freddie
+Mac	mte:Npmsn	Mac
+in	mte:Cc	in
+jima	mte:Pp3mdd--y	on
+namenila	mte:Vmep-sf	nameniti
+200	mte:Mdc	200
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+pomoči	mte:Ncfsg	pomoč
+,	mte:Z	,
+takrat	mte:Rgp	takrat
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+obetala	mte:Vmpp-sf	obetati
+tudi	mte:Q	tudi
+pomoč	mte:Ncfsa	pomoč
+banki	mte:Ncfsd	banka
+Lehman	mte:Npmsg	Lehman
+Brothers	mte:Npmsn	Brothers
+.	mte:Z	.
+Načrt	mte:Ncmsn	načrt
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+banko	mte:Ncfsa	banka
+prevzela	mte:Vmep-sf	prevzeti
+Korejska	mte:Agpfsn	korejski
+investicijska	mte:Agpfsn	investicijski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+padel	mte:Vmep-sm	pasti
+v	mte:Sa	v
+vodo	mte:Ncfsa	voda
+,	mte:Z	,
+banka	mte:Ncfsn	banka
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+v	mte:Sl	v
+tretjem	mte:Mlonsl	tretji
+četrtletju	mte:Ncnsl	četrtletje
+prijavila	mte:Vmep-sf	prijaviti
+3,9	mte:Mdc	3,9
+milijarde	mte:Ncfsg	milijarda
+dolarjev	mte:Ncmpg	dolar
+izgub	mte:Ncfpg	izguba
+.	mte:Z	.
+13	mte:Mdc	13
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+predsednik	mte:Ncmsn	predsednik
+newyorških	mte:Agpfpg	newyorški
+zveznih	mte:Agpfpg	zvezen
+rezerv	mte:Ncfpg	rezerva
+in	mte:Cc	in
+sedanji	mte:Agpmsny	sedanji
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+ZDA	mte:Npfpg	ZDA
+Timothy	mte:Npmsn	Timothy
+Geithner	mte:Npmsn	Geithner
+sklical	mte:Vmep-sm	sklicati
+nujen	mte:Agpmsan	nujen
+sestanek	mte:Ncmsan	sestanek
+za	mte:Sa	za
+banko	mte:Ncfsa	banka
+Lehman	mte:Npfsg	Lehman
+Brothers	mte:Npfsn	Brothers
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pogajala	mte:Vmpp-sf	pogajati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+jo	mte:Pp3fsa--y	on
+prevzela	mte:Vmep-sf	prevzeti
+Bank	mte:Npfsn	Bank
+of	mte:Xf	of
+America	mte:Npfsn	America
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+tudi	mte:Q	tudi
+britansko	mte:Agpfsa	britanski
+banko	mte:Ncfsa	banka
+Barclays	mte:Npmsn	Barclays
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+pozneje	mte:Rgc	pozno
+propadlo	mte:Vmep-sn	propasti
+.	mte:Z	.
+Banka	mte:Ncfsn	banka
+Lehman	mte:Npfsn	Lehman
+Brothers	mte:Npfsn	Brothers
+je	mte:Va-r3s-n	biti
+15	mte:Mdc	15
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+razglasila	mte:Vmep-sf	razglasiti
+največji	mte:Agsmsay	velik
+stečaj	mte:Ncmsan	stečaj
+v	mte:Sl	v
+ameriški	mte:Agpfsl	ameriški
+zgodovini	mte:Ncfsl	zgodovina
+,	mte:Z	,
+nekdaj	mte:Rgp	nekdaj
+zelo	mte:Rgp	zelo
+ugledno	mte:Agpfsa	ugleden
+finančno	mte:Agpfsa	finančen
+institucijo	mte:Ncfsa	institucija
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+razprodali	mte:Vmpp-pm	razprodati
+po	mte:Sl	po
+delih	mte:Ncnpl	del
+.	mte:Z	.
+Borzni	mte:Agpmpn	borzen
+trgi	mte:Ncmpn	trg
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+zatresli	mte:Vmep-pm	zatresti
+,	mte:Z	,
+vrednosti	mte:Ncfpn	vrednost
+padale	mte:Vmpp-pf	padati
+Novica	mte:Ncfsn	novica
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+borznih	mte:Agpmpl	borzen
+trgih	mte:Ncmpl	trg
+odjeknila	mte:Vmep-sf	odjekniti
+kot	mte:Cs	kot
+bombna	mte:Agpfsn	bomben
+eksplozija	mte:Ncfsn	eksplozija
+,	mte:Z	,
+indeks	mte:Ncmsn	indeks
+Dow	mte:Npmsn	Dow
+Jones	mte:Npmsn	Jones
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+enem	mte:Mlpmsl	en
+samem	mte:Agpmsl	sam
+dnevu	mte:Ncmsl	dan
+na	mte:Sl	na
+newyorški	mte:Agpfsl	newyorški
+borzi	mte:Ncfsl	borz
+izgubil	mte:Vmep-sm	izgubiti
+500	mte:Mdc	500
+točk	mte:Ncfpg	točka
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+največji	mte:Agsmsny	velik
+enodnevni	mte:Agpmsny	enodneven
+padec	mte:Ncmsn	padec
+po	mte:Sl	po
+napadih	mte:Ncmpl	napad
+na	mte:Sl	na
+ZDA	mte:Npfpl	ZDA
+11	mte:Mdc	11
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+2001	mte:Mdc	2001
+.	mte:Z	.
+Propad	mte:Ncmsn	propad
+banke	mte:Ncfsg	banka
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+prisilil	mte:Vmep-sm	prisiliti
+oblasti	mte:Ncfpa	oblast
+,	mte:Z	,
+da	mte:Cs	da
+pomagajo	mte:Vmbr3p	pomagati
+drugim	mte:Mlpnpd	drug
+velikim	mte:Agpnpd	velik
+finančnim	mte:Agpnpd	finančen
+podjetjem	mte:Ncnpd	podjetje
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+propad	mte:Ncmsn	propad
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+katastrofalne	mte:Agpfpa	katastrofalen
+posledice	mte:Ncfpa	posledica
+za	mte:Sa	za
+sistem	mte:Ncmsan	sistem
+.	mte:Z	.
+S	mte:Si	z
+propadom	mte:Ncmsi	propad
+banke	mte:Ncfsg	banka
+Lehman	mte:Npmsg	Lehman
+Brothers	mte:Npmsn	Brothers
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+uresničilo	mte:Vmep-sn	uresničiti
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+so	mte:Va-r3p-n	biti
+napovedovali	mte:Vmpp-pm	napovedovati
+ekonomisti	mte:Ncmpn	ekonomist
+,	mte:Z	,
+propad	mte:Ncmsn	propad
+je	mte:Va-r3s-n	biti
+svet	mte:Ncmsn	svet
+dokončno	mte:Rgp	dokončno
+pahnil	mte:Vmep-sm	pahniti
+v	mte:Sa	v
+najhujšo	mte:Agsfsa	hudek
+gospodarsko	mte:Agpfsa	gospodarski
+krizo	mte:Ncfsa	kriza
+po	mte:Sl	po
+30	mte:Mdc	30
+.	mte:Z	.
+letih	mte:Ncnpl	leto
+prejšnjega	mte:Agpnsg	prejšnji
+stoletja	mte:Ncnsg	stoletje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+države	mte:Ncfpa	država
+prisilila	mte:Vmep-sf	prisiliti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+začele	mte:Vmep-pf	začeti
+sprejemati	mte:Vmpn	sprejemati
+ukrepe	mte:Ncmpa	ukrep
+za	mte:Sa	za
+reševanje	mte:Ncnsa	reševanje
+,	mte:Z	,
+nekatere	mte:Pi-fpa	nekateri
+bolj	mte:Rgc	bolj
+,	mte:Z	,
+druge	mte:Mlpfpa	drug
+manj	mte:Rgc	manj
+uspešno	mte:Rgp	uspešno
+.	mte:Z	.
+Milijarde	mte:Npfsg	Milijarda
+za	mte:Sa	za
+reševanje	mte:Ncnsa	reševanje
+oslabelih	mte:Appnpg	oslabel
+gospodarstev	mte:Ncnpg	gospodarstvo
+Evropa	mte:Npfsn	Evropa
+je	mte:Va-r3s-n	biti
+svoje	mte:Px-fsa	svoj
+banke	mte:Ncfpa	banka
+začela	mte:Vmep-sf	začeti
+reševati	mte:Vmpn	reševati
+konec	mte:Sg	konec
+septembra	mte:Ncmsg	september
+,	mte:Z	,
+3	mte:Mdc	3
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+takratni	mte:Agpmsny	takraten
+predsednik	mte:Ncmsn	predsednik
+George	mte:Npmsn	George
+Bush	mte:Npmsn	Bush
+potrdil	mte:Vmep-sm	potrditi
+700	mte:Mdc	700
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+vreden	mte:Agpmsan	vreden
+sveženj	mte:Ncmsan	sveženj
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+rešili	mte:Vmep-pm	rešiti
+ameriško	mte:Agpnsa	ameriški
+gospodarstvo	mte:Ncnsa	gospodarstvo
+.	mte:Z	.
+13	mte:Mdc	13
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+je	mte:Va-r3s-n	biti
+500	mte:Mdc	500
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+vreden	mte:Agpmsan	vreden
+stimulacijski	mte:Agpmsay	stimulacijski
+sveženj	mte:Ncmsan	sveženj
+napovedala	mte:Vmep-sf	napovedati
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+le	mte:Q	le
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+pozneje	mte:Rgc	pozno
+pa	mte:Cc	pa
+360	mte:Mdc	360
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+vreden	mte:Agpmsan	vreden
+sveženj	mte:Ncmsan	sveženj
+še	mte:Q	še
+Francija	mte:Npmsn	Francija
+.	mte:Z	.
+Dvojici	mte:Ncfsn	dvojica
+so	mte:Va-r3p-n	biti
+sledile	mte:Vmpp-pf	slediti
+preostale	mte:Vmep-pf	preostati
+evropske	mte:Agpfpa	evropski
+države	mte:Ncfpa	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+12	mte:Mdc	12
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+potrdile	mte:Vmep-pf	potrditi
+200	mte:Mdc	200
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+vreden	mte:Agpmsan	vreden
+stimulacijski	mte:Agpmsay	stimulacijski
+sveženj	mte:Ncmsan	sveženj
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+še	mte:Q	še
+Japonska	mte:Npfsn	Japonska
+in	mte:Cc	in
+Kitajska	mte:Npfsn	Kitajska
+.	mte:Z	.
+Država	mte:Ncfsn	država
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+kriza	mte:Ncfsn	kriza
+najbolj	mte:Rgs	najbolj
+prizadela	mte:Vmep-sf	prizadeti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+Islandija	mte:Npfsn	Islandija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+znašla	mte:Vmep-sf	znajti
+na	mte:Sl	na
+robu	mte:Ncmsl	rob
+stečaja	mte:Ncmsg	stečaj
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+krize	mte:Ncfsg	kriza
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+vztrajno	mte:Rgp	vztrajno
+nižale	mte:Vmpp-pf	nižati
+obrestne	mte:Agpfpn	obresten
+mere	mte:Ncfpn	mera
+.	mte:Z	.
+Ameriške	mte:Agpfpn	ameriški
+zvezne	mte:Agpfpn	zvezen
+rezerve	mte:Ncfpn	rezerva
+FED	mte:Npfsg	FED
+so	mte:Va-r3p-n	biti
+obrestno	mte:Agpfsa	obresten
+mero	mte:Ncfsa	mera
+na	mte:Sl	na
+med	mte:Si	med
+0	mte:Mdc	0
+in	mte:Cc	in
+0,25	mte:Mdc	0,25
+odstotka	mte:Ncmsg	odstotek
+znižale	mte:Vmep-pf	znižati
+16	mte:Mdc	16
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+in	mte:Cc	in
+tam	mte:Rgp	tam
+vztraja	mte:Vmpr3s	vztrajati
+še	mte:Q	še
+danes	mte:Rgp	danes
+,	mte:Z	,
+znižala	mte:Vmep-sf	znižati
+pa	mte:Cc	pa
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+Evropska	mte:Agpfsn	evropski
+centralna	mte:Agpfsn	centralen
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+na	mte:Sa	na
+odstotek	mte:Ncmsan	odstotek
+.	mte:Z	.
+Kriza	mte:Ncfsn	kriza
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+močno	mte:Rgp	močno
+poznala	mte:Vmpp-sf	poznati
+tudi	mte:Q	tudi
+na	mte:Sl	na
+borznih	mte:Agpmpl	borzen
+trgih	mte:Ncmpl	trg
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+na	mte:Sl	na
+ameriških	mte:Agpfpl	ameriški
+borzah	mte:Ncfpl	borza
+od	mte:Sg	od
+januarja	mte:Ncmsg	januar
+do	mte:Sg	do
+oktobra	mte:Ncmsg	oktober
+2008	mte:Mdc	2008
+v	mte:Sl	v
+zrah	mte:Ncfsl	zrah
+izpuhtelo	mte:Vmep-sn	izpuhteti
+kar	mte:Rgp	kar
+8.000	mte:Mdc	8.000
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+premoženja	mte:Ncnsg	premoženje
+.	mte:Z	.
+Se	mte:Px------y	se
+kriza	mte:Ncfsn	kriza
+počasi	mte:Rgp	počasi
+poslavlja	mte:Vmpr3s	poslavljati
+?	mte:Z	?
+Države	mte:Ncfpn	država
+so	mte:Va-r3p-n	biti
+skozi	mte:Sa	skozi
+leto	mte:Ncnsa	leto
+sprejemale	mte:Vmpp-pf	sprejemati
+številne	mte:Agpmpa	številen
+ukrepe	mte:Ncmpa	ukrep
+in	mte:Cc	in
+ti	mte:Pd-mpn	ta
+fiskalni	mte:Agpmpn	fiskalen
+in	mte:Cc	in
+monetarni	mte:Agpmpn	monetaren
+ukrepi	mte:Ncmpn	ukrep
+so	mte:Va-r3p-n	biti
+pomagali	mte:Vmbp-pm	pomagati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+kriza	mte:Ncfsn	kriza
+sčasoma	mte:Rgp	sčasoma
+le	mte:Q	le
+unesla	mte:Vmep-sf	unesti
+.	mte:Z	.
+Nekatere	mte:Pi-fpn	nekateri
+večje	mte:Agcfpn	velik
+države	mte:Ncfpn	država
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+Francija	mte:Npfsn	Francija
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+in	mte:Cc	in
+Japonska	mte:Npfsn	Japonska
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+letos	mte:Rgp	letos
+že	mte:Q	že
+ugotovile	mte:Vmep-pf	ugotoviti
+gospodarsko	mte:Agpfsa	gospodarski
+rast	mte:Ncfsa	rast
+in	mte:Cc	in
+se	mte:Px------y	se
+tako	mte:Rgp	tako
+dvignile	mte:Vmep-pf	dvigniti
+iz	mte:Sg	iz
+recesije	mte:Ncfsg	recesija
+.	mte:Z	.
+Analitiki	mte:Ncmpn	analitik
+napovedujejo	mte:Vmpr3p	napovedovati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+gospodarska	mte:Agpfsn	gospodarski
+rast	mte:Ncfsn	rast
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+dvignila	mte:Vmep-sf	dvigniti
+v	mte:Sl	v
+tretjem	mte:Mlonsl	tretji
+četrtletju	mte:Ncnsl	četrtletje
+,	mte:Z	,
+pa	mte:Cc	pa
+čeprav	mte:Cs	čeprav
+se	mte:Px------y	se
+Američani	mte:Npmpn	Američan
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+spopadajo	mte:Vmpr3p	spopadati
+z	mte:Si	z
+reševanjem	mte:Ncnsi	reševanje
+krize	mte:Ncfsg	kriza
+.	mte:Z	.
+Če	mte:Cs	če
+gre	mte:Vmbr3s	iti
+verjeti	mte:Vmbn	verjeti
+ekonomistom	mte:Ncmpd	ekonomist
+,	mte:Z	,
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+kriza	mte:Ncfsn	kriza
+kmalu	mte:Rgp	kmalu
+končala	mte:Vmep-sf	končati
+,	mte:Z	,
+a	mte:Cc	a
+analitiki	mte:Ncmpn	analitik
+opozarjajo	mte:Vmpr3p	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+tokratna	mte:Agpfsn	tokraten
+kriza	mte:Ncfsn	kriza
+številnih	mte:Agpfpg	številen
+držav	mte:Ncfpg	država
+ni	mte:Va-r3s-y	biti
+naučila	mte:Vmep-sf	naučiti
+lekcije	mte:Ncfsg	lekcija
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+morala	mte:Vmpp-sf	morati
+,	mte:Z	,
+in	mte:Cc	in
+da	mte:Cs	da
+niso	mte:Va-r3p-y	biti
+sprejeli	mte:Vmep-pm	sprejeti
+ukrepov	mte:Ncmpg	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+morali	mte:Vmpp-pm	morati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+kriza	mte:Ncfsn	kriza
+dejansko	mte:Rgp	dejansko
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+več	mte:Q	več
+ponovila	mte:Vmep-sf	ponoviti
+.	mte:Z	.
+Enakega	mte:Pi-nsg	enak
+mnenja	mte:Ncnsg	mnenje
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+Barack	mte:Npmsn	Barack
+Obama	mte:Npmsn	Obam
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+svojem	mte:Px-msl	svoj
+govoru	mte:Ncmsl	govor
+bančnikom	mte:Ncmsd	bančnik
+leto	mte:Ncnsa	leto
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+propadu	mte:Ncmsl	propad
+banke	mte:Ncfsg	banka
+Lehman	mte:Npmsg	Lehman
+Brothers	mte:Npmsn	Brothers
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+številni	mte:Agpmpn	številen
+v	mte:Sl	v
+finančni	mte:Agpfsl	finančen
+industriji	mte:Ncfsl	industrija
+iz	mte:Sg	iz
+te	mte:Pd-fsg	ta
+izkušnje	mte:Ncfsg	izkušnja
+niso	mte:Va-r3p-y	biti
+naučili	mte:Vmep-pm	naučiti
+ničesar	mte:Pz-nsg	nič
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+ne	mte:Q	ne
+pozabijo	mte:Vmer3p	pozabiti
+na	mte:Sa	na
+dramatične	mte:Agpmpa	dramatičen
+dogodke	mte:Ncmpa	dogodek
+septembra	mte:Ncmsg	september
+lani	mte:Rgp	lani
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bankam	mte:Ncfpd	banka
+na	mte:Sl	na
+robu	mte:Ncmsl	rob
+propada	mte:Ncmsg	propad
+na	mte:Sa	na
+pomoč	mte:Ncfsa	pomoč
+priskočila	mte:Vmep-sf	priskočiti
+država	mte:Ncfsn	država
+,	mte:Z	,
+in	mte:Cc	in
+še	mte:Q	še
+enkrat	mte:Rgp	enkrat
+pozval	mte:Vmep-sm	pozvati
+k	mte:Sd	k
+reformi	mte:Ncfsd	reforma
+sistema	mte:Ncmsg	sistem
+finančne	mte:Agpfsg	finančen
+regulacije	mte:Ncfsg	regulacija

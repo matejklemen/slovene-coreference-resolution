@@ -1,636 +1,657 @@
-token	tag
-Najslabše	Agsfpa
-ocene	Ncfpa
-učinkovitosti	Ncfsg
-trga	Ncmsg
-dela	Ncnsg
-in	Cc
-razvitosti	Ncfsg
-finančnega	Agpmsg
-trga	Ncmsg
-Slovenija	Npfsn
-je	Va-r3s-n
-na	Sl
-lestvici	Ncfsl
-svetovne	Agpfsg
-konkurenčnosti	Ncfsg
-izgubila	Vmep-sf
-12	Mdc
-mest	Ncnpg
-in	Cc
-se	Px------y
-znašla	Vmep-sf
-na	Sl
-57	Mdc
-.	Z
-mestu	Ncnsl
-med	Si
-142	Mdc
-državami	Ncfpi
-.	Z
-Za	Sa
-ekonomista	Ncmsay
-Bernarda	Npmsg
-Brščiča	Npmsg
-je	Va-r3s-n
-to	Pd-nsn
-znak	Ncmsn
-za	Sa
-alarm	Ncmsan
-.	Z
-Svetovni	Agpmsny
-gospodarski	Agpmsny
-forum	Ncmsn
-v	Sl
-svojem	Px-nsl
-poročilu	Ncnsl
-o	Sl
-svetovni	Agpfsl
-konkurenčnosti	Ncfsl
-2011	Mdc
--	Z
-2012	Mdc
-ugotavlja	Vmpr3s
-,	Z
-da	Cs
-Švica	Npfsn
-ohranja	Vmpr3s
-položaj	Ncmsan
-najbolj	Rgs
-konkurenčnega	Agpnsg
-svetovnega	Agpnsg
-gospodarstva	Ncnsg
-predvsem	Q
-zaradi	Sg
-dobrih	Agpmpg
-gospodarskih	Agpmpg
-rezultatov	Ncmpg
-na	Sl
-praktično	Rgp
-vseh	Pg-npl
-področjih	Ncnpl
-.	Z
-Kot	Cs
-največje	Agsfsg
-prednosti	Ncfpn
-švicarskega	Agpnsg
-gospodarstva	Ncnsg
-WEF	Npmsn
-izpostavlja	Vmpr3s
-inovacijsko	Agpfsa
-sposobnost	Ncfsa
-,	Z
-tehnološko	Agpfsa
-razvitost	Ncfsa
-in	Cc
-učinkovitost	Ncfsa
-trga	Ncmsg
-dela	Ncnsg
-.	Z
-Še	Q
-posebej	Rgp
-dobro	Rgp
-ocenjeni	Appmpn
-so	Va-r3p-n
-švicarske	Agpfpn
-znanstvene	Agpfpn
-in	Cc
-raziskovalne	Agpfpn
-ustanove	Ncfpn
-,	Z
-dober	Agpmsnn
-prenos	Ncmsn
-raziskovalnih	Agpnpg
-dognanj	Ncnpg
-v	Sa
-gospodarstvo	Ncnsa
-in	Cc
-močni	Agpmpn
-raziskovalno	Agpnsn
--	Z
-razvojni	Agpmpn
-oddelki	Ncmpn
-v	Sl
-podjetjih	Ncnpl
-.	Z
-Švica	Npfsn
-je	Va-r3s-n
-na	Sl
-vrhu	Ncmsl
-lestvice	Ncfsg
-tudi	Q
-po	Sl
-kakovosti	Ncfsl
-in	Cc
-preglednosti	Ncfsl
-javnih	Agpfpg
-institucij	Ncfpg
-ter	Cc
-delovanju	Ncnsl
-pravne	Agpfsg
-države	Ncfsg
-,	Z
-infrastrukturi	Ncfsl
-,	Z
-trdnem	Agpmsl
-finančnem	Agpmsl
-sistemu	Ncmsl
-in	Cc
-stabilnem	Agpnsl
-makroekonomskem	Agpnsl
-okolju	Ncnsl
-.	Z
-Švici	Npfsl
-sledijo	Vmpr3p
-Singapur	Npmsan
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-s	Sg
-tretjega	Mlomsg
-povzpel	Vmep-sm
-na	Sa
-drugo	Mlpnsa
-mesto	Ncnsa
-,	Z
-Švedska	Npfsn
-lani	Rgp
-druga	Mlpfsn
-,	Z
-Finska	Npfsn
-lani	Rgp
-sedma	Mlofsn
-,	Z
-ZDA	Npfpg
-lani	Rgp
-četrto	Mlonsn
-mesto	Ncnsn
-,	Z
-Nemčija	Npfsn
-lani	Rgp
-petem	Mlonsl
-mestu	Ncnsl
-,	Z
-Nizozemska	Agpfsn
-lani	Rgp
-osma	Mlofsn
-,	Z
-Danska	Npfsn
-lani	Rgp
-deveta	Mlofsn
-,	Z
-Japonska	Npfsn
-lani	Rgp
-šesta	Mlofsn
-in	Cc
-Velika	Agpfsn
-Britanija	Npfsn
-lani	Rgp
-12	Mdc
-.	Z
-.	Z
-Pred	Si
-nami	Pp1-pi
-Indija	Npfsn
-,	Z
-za	Si
-nami	Pp1-pi
-Mehika	Npfsn
-Slovenija	Npfsn
-je	Va-r3s-n
-pristala	Vmep-sf
-na	Sl
-57	Mdc
-.	Z
-mestu	Ncnsl
-med	Si
-142	Mdc
-državami	Ncfpi
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-lani	Rgp
-na	Sl
-45	Mdc
-.	Z
-mestu	Ncnsl
-med	Si
-139	Mdc
-državami	Ncfpi
-.	Z
-Na	Sl
-letošnji	Agpfsl
-lestvici	Ncfsl
-je	Va-r3s-n
-tik	Rgp
-za	Sa
-Indijo	Npfsa
-ki	Cs
-je	Va-r3s-n
-izgubila	Vmep-sf
-pet	Mlc-pa
-mest	Ncnpg
-in	Cc
-pred	Si
-Mehiko	Npfsi
-ki	Cs
-je	Va-r3s-n
-pridobila	Vmep-sf
-osem	Mlc-pa
-mest	Ncnpg
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-dobila	Vmep-sf
-najboljše	Agsfpa
-ocene	Ncfpa
-za	Sa
-področje	Ncnsa
-višjega	Agcnsg
-izobraževanja	Ncnsg
-in	Cc
-usposabljanja	Ncnsg
-21	Mdc
-.	Z
-mesto	Ncnsa
-ter	Cc
-zdravja	Ncnsa
-in	Cc
-osnovnega	Agpnsg
-izobraževanja	Ncnsg
-24	Mdc
-.	Z
-mesto	Ncnsa
-.	Z
-Sledila	Vmpp-sf
-so	Va-r3p-n
-področja	Ncnpa
-tehnološke	Agpfsg
-pripravljenosti	Ncfsg
-32	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-makroekonomskega	Agpnsg
-okolja	Ncnsg
-35	Mdc
-.	Z
-mesto	Ncnsn
-,	Z
-infrastrukture	Ncfsn
-37	Mdc
-.	Z
-mesto	Ncnsn
-ter	Cc
-inovacij	Ncfpg
-40	Mdc
-.	Z
-mesto	Ncnsa
-,	Z
-učinkovitosti	Ncfsg
-trga	Ncmsg
-dobrin	Ncfpg
-48	Mdc
-.	Z
-mesto	Ncnsa
-,	Z
-razvitosti	Ncfsd
-poslovanja	Ncnsg
-49	Mdc
-.	Z
-mesto	Ncnsa
-in	Cc
-delovanja	Ncnsg
-institucij	Ncfpg
-55	Mdc
-.	Z
-mesto	Ncnsa
-.	Z
-Velikost	Ncfsa
-trga	Ncmsg
-Slovenijo	Npfsa
-uvršča	Vmpr3s
-na	Sa
-80	Mdc
-.	Z
-mesto	Ncnsa
-.	Z
-Najslabše	Agsfpa
-ocene	Ncfpa
-je	Va-r3s-n
-Slovenija	Npfsn
-dobila	Vmep-sf
-za	Sa
-učinkovitost	Ncfsa
-trga	Ncmsg
-dela	Ncnsg
-in	Cc
-razvitost	Ncfsa
-finančnega	Agpmsg
-trga	Ncmsg
-oboje	Pg-nsa
-102	Mdc
-.	Z
-mesto	Ncnsa
-.	Z
-Največji	Agsfsl
-težavi	Ncfsl
-Slovenije	Npfsg
-dostop	Ncmsan
-do	Sg
-financiranja	Ncnsg
-in	Cc
-neučinkovita	Agpfsn
-birokracija	Ncfsn
-Glede	Rgp
-na	Sa
-ugotovitve	Ncfpa
-raziskave	Ncfsg
-je	Va-r3s-n
-največja	Agsfsn
-ovira	Ncfsn
-za	Sa
-poslovanje	Ncnsa
-v	Sl
-Sloveniji	Npfsl
-dostop	Ncmsan
-do	Sg
-financiranja	Ncnsg
-.	Z
-Sledijo	Vmpr3p
-neučinkovitost	Ncfsa
-vladne	Agpfsg
-birokracije	Ncfsg
-,	Z
-stroga	Agpfsn
-delovna	Agpfsn
-regulativa	Ncfsn
-,	Z
-davčne	Agpfpn
-stopnje	Ncfpn
-in	Cc
-davčna	Agpfsn
-regulacija	Ncfsn
-.	Z
-Brščič	Npmsn
-Za	Sa
-slabo	Agpnsa
-stanje	Ncnsa
-je	Va-r3s-n
-kriva	Agpfsn
-država	Ncfsn
-Ekonomist	Ncmsn
-Bernard	Npmsn
-Brščič	Npmsn
-meni	Vmpr3s
-,	Z
-da	Cs
-poslabšanje	Ncnsa
-konkurenčnega	Agpmsg
-položaja	Ncmsg
-Slovenije	Npfsg
-zaznavajo	Vmpr3p
-praktično	Rgp
-že	Q
-vse	Pg-fpa
-institucije	Ncfpa
-,	Z
-ki	Cs
-se	Px------y
-s	Si
-tem	Pd-nsi
-ukvarjajo	Vmpr3p
-.	Z
-Po	Sl
-njegovem	Ps3nslsm
-mnenju	Ncnsl
-padec	Ncmsn
-na	Sl
-lestvici	Ncfsl
-konkurenčnosti	Ncfsg
-domačih	Agpmpg
-opazovalcev	Ncmpg
-ne	Q
-preseneča	Vmpr3s
-,	Z
-saj	Cc
-se	Px------y
-je	Va-r3s-n
-v	Sl
-zadnjih	Agpnpl
-treh	Mlcnpl
-letih	Ncnpl
-izjemno	Rgp
-poslabšalo	Vmep-sn
-poslovno	Agpnsn
-okolje	Ncnsa
-.	Z
-Za	Sa
-nastali	Appmsay
-položaj	Ncmsan
-je	Va-r3s-n
-neposredno	Rgp
-odgovorna	Agpfsn
-država	Ncfsn
-,	Z
-ki	Cs
-ni	Va-r3s-y
-vzpostavila	Vmep-sf
-reda	Ncmsg
-na	Sl
-najbolj	Rgs
-kritičnih	Agpnpl
-področjih	Ncnpl
-dostop	Ncmsan
-do	Sg
-finančnih	Agpmpg
-virov	Ncmpg
-,	Z
-neučinkovita	Agpfsn
-birokracijo	Ncfsa
-in	Cc
-toga	Agpfsn
-delovnopravno	Agpfsn
-zakonodaja	Ncfsn
-,	Z
-pravi	Vmbr3s
-Brščič	Npmsn
-.	Z
-Izboljšave	Ncfpn
-so	Va-r3p-n
-nujne	Agpfpn
-Prav	Q
-na	Sl
-teh	Pd-fpl
-najšibkejših	Agsfpl
-točkah	Ncfpl
-slovenske	Agpfsg
-konkurenčnosti	Ncfsg
-,	Z
-bi	Va-c
-po	Sl
-Brščičevem	Aspnsl
-mnenju	Ncnsl
-država	Ncfsn
-morala	Vmpp-sf
-poskrbeti	Vmen
-za	Sa
-red	Ncmsan
-in	Cc
-institucionalne	Agpfpa
-spremembe	Ncfpa
-.	Z
-Tu	Rgp
-je	Va-r3s-n
-zlasti	Q
-pomemben	Agpmsnn
-trg	Ncmsn
-dela	Ncnsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-tudi	Q
-v	Sl
-Svetovnem	Agpmsl
-gospodarskem	Agpmsl
-forumu	Ncmsl
-izpostavljajo	Vmpr3p
-kot	Cs
-izjemno	Rgp
-rigidnega	Agpnsg
-in	Cc
-nefleksibilnega	Agpnsg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Izboljšati	Vmen
-bi	Va-c
-bilo	Va-p-sn
-treba	Rgp
-tudi	Q
-finančni	Agpmsay
-sektor	Ncmsan
-,	Z
-saj	Cc
-vemo	Vmpr1p
-,	Z
-da	Cs
-imata	Vmpr3d-n
-državni	Agpfdn
-banki	Ncfdn
-zelo	Rgp
-velik	Agpmsnn
-tržni	Agpmsay
-delež	Ncmsan
-,	Z
-banke	Ncfpn
-pa	Cc
-niso	Va-r3p-y
-dobro	Rgp
-upravljane	Appfpn
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Brščič	Npmsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-izpostavil	Vmep-sm
-še	Q
-problem	Ncmsan
-političnih	Agpmpg
-kreditov	Ncmpg
-,	Z
-kjer	Cs
-se	Px------y
-politično	Rgp
-ustreznim	Agpmpd
-posameznikom	Ncmpd
-dajejo	Vmpr3p
-neustrezno	Rgp
-zavarovani	Appmpn
-krediti	Ncmpn
-,	Z
-posledično	Rgp
-pa	Cc
-podjetja	Ncnpn
-,	Z
-ki	Cs
-bi	Va-c
-imela	Vmpp-pf
-zanimive	Agpfpa
-podjetniške	Agpfpa
-ideje	Ncfpa
-,	Z
-do	Sg
-teh	Pd-npg
-sredstev	Ncnpg
-vsaj	Q
-v	Sl
-državnih	Agpfpl
-bankah	Ncfpl
-ne	Q
-morejo	Vmpr3p
-priti	Vmen
-.	Z
-Gaspari	Npmsn
-Vlada	Ncfsn
-je	Va-r3s-n
-ukrepe	Ncmpa
-sprejela	Vmep-sf
-Na	Sa
-objavo	Ncfsa
-lestvice	Ncfsg
-se	Px------y
-je	Va-r3s-n
-odzval	Vmep-sm
-tudi	Q
-minister	Ncmsn
-za	Sa
-razvoj	Ncmsan
-in	Cc
-evropske	Agpfpa
-zadeve	Ncfpa
-ter	Cc
-začasni	Agpmsny
-minister	Ncmsn
-za	Sa
-gospodarstvo	Ncnsa
-Mitja	Npmsn
-Gaspari	Npmsn
-.	Z
-Poudaril	Vmep-sm
-je	Va-r3s-n
-vladne	Agpmpa
-ukrepe	Ncmpa
-za	Sa
-izboljšanje	Ncnsa
-konkurenčnosti	Ncfsg
-in	Cc
-ukrepe	Ncmpa
-glede	Sg
-bančnega	Agpmsg
-sektorja	Ncmsg
-,	Z
-sprejete	Appmsg
-februarja	Ncmsg
-letos	Rgp
-.	Z
-Na	Sa
-upad	Ncmsan
-konkurenčnosti	Ncfsg
-slovenskega	Agpnsg
-gospodarstva	Ncnsg
-se	Px------y
-je	Va-r3s-n
-odzval	Vmep-sm
-tudi	Q
-Andrej	Npmsn
-Vizjak	Npmsn
-SDS	Npmsn
-.	Z
+token	tag	lemma
+Najslabše	mte:Agsfpa	lahslab
+ocene	mte:Ncfpa	ocena
+učinkovitosti	mte:Ncfsg	učinkovitost
+trga	mte:Ncmsg	trg
+dela	mte:Ncnsg	delo
+in	mte:Cc	in
+razvitosti	mte:Ncfsg	razvitost
+finančnega	mte:Agpmsg	finančen
+trga	mte:Ncmsg	trg
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+svetovne	mte:Agpfsg	svetoven
+konkurenčnosti	mte:Ncfsg	konkurenčnost
+izgubila	mte:Vmep-sf	izgubiti
+12	mte:Mdc	12
+mest	mte:Ncnpg	mesto
+in	mte:Cc	in
+se	mte:Px------y	se
+znašla	mte:Vmep-sf	znajti
+na	mte:Sl	na
+57	mte:Mdc	57
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+med	mte:Si	med
+142	mte:Mdc	142
+državami	mte:Ncfpi	država
+.	mte:Z	.
+Za	mte:Sa	za
+ekonomista	mte:Ncmsay	ekonomist
+Bernarda	mte:Npmsg	Bernard
+Brščiča	mte:Npmsg	Brščič
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+znak	mte:Ncmsn	znak
+za	mte:Sa	za
+alarm	mte:Ncmsan	alarma
+.	mte:Z	.
+Svetovni	mte:Agpmsny	svetoven
+gospodarski	mte:Agpmsny	gospodarski
+forum	mte:Ncmsn	forum
+v	mte:Sl	v
+svojem	mte:Px-nsl	svoj
+poročilu	mte:Ncnsl	poročilo
+o	mte:Sl	o
+svetovni	mte:Agpfsl	svetoven
+konkurenčnosti	mte:Ncfsl	konkurenčnost
+2011	mte:Mdc	2011
+-	mte:Z	-
+2012	mte:Mdc	2012
+ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+Švica	mte:Npfsn	Švica
+ohranja	mte:Vmpr3s	ohranjati
+položaj	mte:Ncmsan	položaj
+najbolj	mte:Rgs	najbolj
+konkurenčnega	mte:Agpnsg	konkurenčen
+svetovnega	mte:Agpnsg	svetoven
+gospodarstva	mte:Ncnsg	gospodarstvo
+predvsem	mte:Q	predvsem
+zaradi	mte:Sg	zaradi
+dobrih	mte:Agpmpg	dober
+gospodarskih	mte:Agpmpg	gospodarski
+rezultatov	mte:Ncmpg	rezultat
+na	mte:Sl	na
+praktično	mte:Rgp	praktično
+vseh	mte:Pg-npl	ves
+področjih	mte:Ncnpl	področje
+.	mte:Z	.
+Kot	mte:Cs	kot
+največje	mte:Agsfsg	velik
+prednosti	mte:Ncfpn	prednost
+švicarskega	mte:Agpnsg	švicarski
+gospodarstva	mte:Ncnsg	gospodarstvo
+WEF	mte:Npmsn	WEF
+izpostavlja	mte:Vmpr3s	izpostavljati
+inovacijsko	mte:Agpfsa	inovacijski
+sposobnost	mte:Ncfsa	sposobnost
+,	mte:Z	,
+tehnološko	mte:Agpfsa	tehnološki
+razvitost	mte:Ncfsa	razvitost
+in	mte:Cc	in
+učinkovitost	mte:Ncfsa	učinkovitost
+trga	mte:Ncmsg	trg
+dela	mte:Ncnsg	delo
+.	mte:Z	.
+Še	mte:Q	še
+posebej	mte:Rgp	posebej
+dobro	mte:Rgp	dobro
+ocenjeni	mte:Appmpn	ocenjen
+so	mte:Va-r3p-n	biti
+švicarske	mte:Agpfpn	švicarski
+znanstvene	mte:Agpfpn	znanstven
+in	mte:Cc	in
+raziskovalne	mte:Agpfpn	raziskovalen
+ustanove	mte:Ncfpn	ustanova
+,	mte:Z	,
+dober	mte:Agpmsnn	dober
+prenos	mte:Ncmsn	prenos
+raziskovalnih	mte:Agpnpg	raziskovalen
+dognanj	mte:Ncnpg	dognanje
+v	mte:Sa	v
+gospodarstvo	mte:Ncnsa	gospodarstvo
+in	mte:Cc	in
+močni	mte:Agpmpn	močen
+raziskovalno	mte:Agpnsn	raziskovalen
+-	mte:Z	-
+razvojni	mte:Agpmpn	razvojen
+oddelki	mte:Ncmpn	oddelek
+v	mte:Sl	v
+podjetjih	mte:Ncnpl	podjetje
+.	mte:Z	.
+Švica	mte:Npfsn	Švica
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+vrhu	mte:Ncmsl	vrh
+lestvice	mte:Ncfsg	lestvica
+tudi	mte:Q	tudi
+po	mte:Sl	po
+kakovosti	mte:Ncfsl	kakovost
+in	mte:Cc	in
+preglednosti	mte:Ncfsl	preglednost
+javnih	mte:Agpfpg	javen
+institucij	mte:Ncfpg	institucija
+ter	mte:Cc	ter
+delovanju	mte:Ncnsl	delovanje
+pravne	mte:Agpfsg	praven
+države	mte:Ncfsg	država
+,	mte:Z	,
+infrastrukturi	mte:Ncfsl	infrastruktura
+,	mte:Z	,
+trdnem	mte:Agpmsl	trden
+finančnem	mte:Agpmsl	finančen
+sistemu	mte:Ncmsl	sistem
+in	mte:Cc	in
+stabilnem	mte:Agpnsl	stabilen
+makroekonomskem	mte:Agpnsl	makroekonomski
+okolju	mte:Ncnsl	okolje
+.	mte:Z	.
+Švici	mte:Npfsl	Švica
+sledijo	mte:Vmpr3p	slediti
+Singapur	mte:Npmsan	Singapur
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+s	mte:Sg	z
+tretjega	mte:Mlomsg	tretji
+povzpel	mte:Vmep-sm	povzpeti
+na	mte:Sa	na
+drugo	mte:Mlpnsa	drug
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+Švedska	mte:Npfsn	Švedska
+lani	mte:Rgp	lani
+druga	mte:Mlpfsn	drug
+,	mte:Z	,
+Finska	mte:Npfsn	Finska
+lani	mte:Rgp	lani
+sedma	mte:Mlofsn	sedmi
+,	mte:Z	,
+ZDA	mte:Npfpg	ZDA
+lani	mte:Rgp	lani
+četrto	mte:Mlonsn	četrti
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+lani	mte:Rgp	lani
+petem	mte:Mlonsl	peti
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+Nizozemska	mte:Agpfsn	nizozemski
+lani	mte:Rgp	lani
+osma	mte:Mlofsn	osmi
+,	mte:Z	,
+Danska	mte:Npfsn	Danska
+lani	mte:Rgp	lani
+deveta	mte:Mlofsn	devet
+,	mte:Z	,
+Japonska	mte:Npfsn	Japonska
+lani	mte:Rgp	lani
+šesta	mte:Mlofsn	šesti
+in	mte:Cc	in
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+lani	mte:Rgp	lani
+12	mte:Mdc	12
+.	mte:Z	.
+.	mte:Z	.
+Pred	mte:Si	pred
+nami	mte:Pp1-pi	jaz
+Indija	mte:Npfsn	Indija
+,	mte:Z	,
+za	mte:Si	za
+nami	mte:Pp1-pi	jaz
+Mehika	mte:Npfsn	Mehika
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+pristala	mte:Vmep-sf	pristati
+na	mte:Sl	na
+57	mte:Mdc	57
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+med	mte:Si	med
+142	mte:Mdc	142
+državami	mte:Ncfpi	država
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+lani	mte:Rgp	lani
+na	mte:Sl	na
+45	mte:Mdc	45
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+med	mte:Si	med
+139	mte:Mdc	139
+državami	mte:Ncfpi	država
+.	mte:Z	.
+Na	mte:Sl	na
+letošnji	mte:Agpfsl	letošnji
+lestvici	mte:Ncfsl	lestvica
+je	mte:Va-r3s-n	biti
+tik	mte:Rgp	tik
+za	mte:Sa	za
+Indijo	mte:Npfsa	Indija
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+izgubila	mte:Vmep-sf	izgubiti
+pet	mte:Mlc-pa	pet
+mest	mte:Ncnpg	mesto
+in	mte:Cc	in
+pred	mte:Si	pred
+Mehiko	mte:Npfsi	Mehiko
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+pridobila	mte:Vmep-sf	pridobiti
+osem	mte:Mlc-pa	osem
+mest	mte:Ncnpg	mesto
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+dobila	mte:Vmep-sf	dobiti
+najboljše	mte:Agsfpa	dober
+ocene	mte:Ncfpa	ocena
+za	mte:Sa	za
+področje	mte:Ncnsa	področje
+višjega	mte:Agcnsg	visok
+izobraževanja	mte:Ncnsg	izobraževanje
+in	mte:Cc	in
+usposabljanja	mte:Ncnsg	usposabljanje
+21	mte:Mdc	21
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+ter	mte:Cc	ter
+zdravja	mte:Ncnsa	zdravje
+in	mte:Cc	in
+osnovnega	mte:Agpnsg	osnoven
+izobraževanja	mte:Ncnsg	izobraževanje
+24	mte:Mdc	24
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Sledila	mte:Vmpp-sf	slediti
+so	mte:Va-r3p-n	biti
+področja	mte:Ncnpa	področje
+tehnološke	mte:Agpfsg	tehnološki
+pripravljenosti	mte:Ncfsg	pripravljenost
+32	mte:Mdc	32
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+makroekonomskega	mte:Agpnsg	makroekonomski
+okolja	mte:Ncnsg	okolje
+35	mte:Mdc	35
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+,	mte:Z	,
+infrastrukture	mte:Ncfsn	infrastruktura
+37	mte:Mdc	37
+.	mte:Z	.
+mesto	mte:Ncnsn	mesto
+ter	mte:Cc	ter
+inovacij	mte:Ncfpg	inovacija
+40	mte:Mdc	40
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+učinkovitosti	mte:Ncfsg	učinkovitost
+trga	mte:Ncmsg	trg
+dobrin	mte:Ncfpg	dobrina
+48	mte:Mdc	48
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+razvitosti	mte:Ncfsd	razvitost
+poslovanja	mte:Ncnsg	poslovanje
+49	mte:Mdc	49
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+in	mte:Cc	in
+delovanja	mte:Ncnsg	delovanje
+institucij	mte:Ncfpg	institucija
+55	mte:Mdc	55
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Velikost	mte:Ncfsa	velikost
+trga	mte:Ncmsg	trg
+Slovenijo	mte:Npfsa	Slovenija
+uvršča	mte:Vmpr3s	uvrščati
+na	mte:Sa	na
+80	mte:Mdc	80
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Najslabše	mte:Agsfpa	lahslab
+ocene	mte:Ncfpa	ocena
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+dobila	mte:Vmep-sf	dobiti
+za	mte:Sa	za
+učinkovitost	mte:Ncfsa	učinkovitost
+trga	mte:Ncmsg	trg
+dela	mte:Ncnsg	delo
+in	mte:Cc	in
+razvitost	mte:Ncfsa	razvitost
+finančnega	mte:Agpmsg	finančen
+trga	mte:Ncmsg	trg
+oboje	mte:Pg-nsa	oboj
+102	mte:Mdc	102
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+.	mte:Z	.
+Največji	mte:Agsfsl	velik
+težavi	mte:Ncfsl	težava
+Slovenije	mte:Npfsg	Slovenija
+dostop	mte:Ncmsan	dostop
+do	mte:Sg	do
+financiranja	mte:Ncnsg	financiranje
+in	mte:Cc	in
+neučinkovita	mte:Agpfsn	neučinkovit
+birokracija	mte:Ncfsn	birokracija
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+ugotovitve	mte:Ncfpa	ugotovitev
+raziskave	mte:Ncfsg	raziskava
+je	mte:Va-r3s-n	biti
+največja	mte:Agsfsn	velik
+ovira	mte:Ncfsn	ovira
+za	mte:Sa	za
+poslovanje	mte:Ncnsa	poslovanje
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+dostop	mte:Ncmsan	dostop
+do	mte:Sg	do
+financiranja	mte:Ncnsg	financiranje
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+neučinkovitost	mte:Ncfsa	neučinkovitost
+vladne	mte:Agpfsg	vladen
+birokracije	mte:Ncfsg	birokracija
+,	mte:Z	,
+stroga	mte:Agpfsn	stro
+delovna	mte:Agpfsn	deloven
+regulativa	mte:Ncfsn	regulativa
+,	mte:Z	,
+davčne	mte:Agpfpn	davčen
+stopnje	mte:Ncfpn	stopnja
+in	mte:Cc	in
+davčna	mte:Agpfsn	davčen
+regulacija	mte:Ncfsn	regulacija
+.	mte:Z	.
+Brščič	mte:Npmsn	Brščič
+Za	mte:Sa	za
+slabo	mte:Agpnsa	slab
+stanje	mte:Ncnsa	stanje
+je	mte:Va-r3s-n	biti
+kriva	mte:Agpfsn	kriv
+država	mte:Ncfsn	država
+Ekonomist	mte:Ncmsn	ekonomist
+Bernard	mte:Npmsn	Bernard
+Brščič	mte:Npmsn	Brščič
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+poslabšanje	mte:Ncnsa	poslabšanje
+konkurenčnega	mte:Agpmsg	konkurenčen
+položaja	mte:Ncmsg	položaj
+Slovenije	mte:Npfsg	Slovenija
+zaznavajo	mte:Vmpr3p	zaznavati
+praktično	mte:Rgp	praktično
+že	mte:Q	že
+vse	mte:Pg-fpa	ves
+institucije	mte:Ncfpa	institucija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+ukvarjajo	mte:Vmpr3p	ukvarjati
+.	mte:Z	.
+Po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+mnenju	mte:Ncnsl	mnenje
+padec	mte:Ncmsn	padec
+na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+konkurenčnosti	mte:Ncfsg	konkurenčnost
+domačih	mte:Agpmpg	domač
+opazovalcev	mte:Ncmpg	opazovalec
+ne	mte:Q	ne
+preseneča	mte:Vmpr3s	presenečati
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+izjemno	mte:Rgp	izjemno
+poslabšalo	mte:Vmep-sn	poslabšati
+poslovno	mte:Agpnsn	posloven
+okolje	mte:Ncnsa	okolje
+.	mte:Z	.
+Za	mte:Sa	za
+nastali	mte:Appmsay	nastati
+položaj	mte:Ncmsan	položaj
+je	mte:Va-r3s-n	biti
+neposredno	mte:Rgp	neposredno
+odgovorna	mte:Agpfsn	odgovoren
+država	mte:Ncfsn	država
+,	mte:Z	,
+ki	mte:Cs	ki
+ni	mte:Va-r3s-y	biti
+vzpostavila	mte:Vmep-sf	vzpostaviti
+reda	mte:Ncmsg	red
+na	mte:Sl	na
+najbolj	mte:Rgs	najbolj
+kritičnih	mte:Agpnpl	kritičen
+področjih	mte:Ncnpl	področje
+dostop	mte:Ncmsan	dostop
+do	mte:Sg	do
+finančnih	mte:Agpmpg	finančen
+virov	mte:Ncmpg	vir
+,	mte:Z	,
+neučinkovita	mte:Agpfsn	neučinkovit
+birokracijo	mte:Ncfsa	birokracija
+in	mte:Cc	in
+toga	mte:Agpfsn	tog
+delovnopravno	mte:Agpfsn	delovnopraven
+zakonodaja	mte:Ncfsn	zakonodaja
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Brščič	mte:Npmsn	Brščič
+.	mte:Z	.
+Izboljšave	mte:Ncfpn	izboljšava
+so	mte:Va-r3p-n	biti
+nujne	mte:Agpfpn	nujen
+Prav	mte:Q	prav
+na	mte:Sl	na
+teh	mte:Pd-fpl	ta
+najšibkejših	mte:Agsfpl	šibek
+točkah	mte:Ncfpl	točka
+slovenske	mte:Agpfsg	slovenski
+konkurenčnosti	mte:Ncfsg	konkurenčnost
+,	mte:Z	,
+bi	mte:Va-c	biti
+po	mte:Sl	po
+Brščičevem	mte:Aspnsl	brščičev
+mnenju	mte:Ncnsl	mnenje
+država	mte:Ncfsn	država
+morala	mte:Vmpp-sf	morati
+poskrbeti	mte:Vmen	poskrbeti
+za	mte:Sa	za
+red	mte:Ncmsan	red
+in	mte:Cc	in
+institucionalne	mte:Agpfpa	institucionalen
+spremembe	mte:Ncfpa	sprememba
+.	mte:Z	.
+Tu	mte:Rgp	tu
+je	mte:Va-r3s-n	biti
+zlasti	mte:Q	zlasti
+pomemben	mte:Agpmsnn	pomemben
+trg	mte:Ncmsn	trg
+dela	mte:Ncnsg	delo
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Svetovnem	mte:Agpmsl	svetoven
+gospodarskem	mte:Agpmsl	gospodarski
+forumu	mte:Ncmsl	forum
+izpostavljajo	mte:Vmpr3p	izpostavljati
+kot	mte:Cs	kot
+izjemno	mte:Rgp	izjemno
+rigidnega	mte:Agpnsg	rigiden
+in	mte:Cc	in
+nefleksibilnega	mte:Agpnsg	nefleksibilen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Izboljšati	mte:Vmen	izboljšati
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+tudi	mte:Q	tudi
+finančni	mte:Agpmsay	finančen
+sektor	mte:Ncmsan	sektor
+,	mte:Z	,
+saj	mte:Cc	saj
+vemo	mte:Vmpr1p	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+imata	mte:Vmpr3d-n	imeti
+državni	mte:Agpfdn	državen
+banki	mte:Ncfdn	banka
+zelo	mte:Rgp	zelo
+velik	mte:Agpmsnn	velik
+tržni	mte:Agpmsay	tržen
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+banke	mte:Ncfpn	banka
+pa	mte:Cc	pa
+niso	mte:Va-r3p-y	biti
+dobro	mte:Rgp	dobro
+upravljane	mte:Appfpn	upravljan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Brščič	mte:Npmsn	Brščič
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+izpostavil	mte:Vmep-sm	izpostaviti
+še	mte:Q	še
+problem	mte:Ncmsan	problem
+političnih	mte:Agpmpg	političen
+kreditov	mte:Ncmpg	kredit
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+politično	mte:Rgp	politično
+ustreznim	mte:Agpmpd	ustrezen
+posameznikom	mte:Ncmpd	posameznik
+dajejo	mte:Vmpr3p	dajati
+neustrezno	mte:Rgp	neustrezno
+zavarovani	mte:Appmpn	zavarovan
+krediti	mte:Ncmpn	kredit
+,	mte:Z	,
+posledično	mte:Rgp	posledično
+pa	mte:Cc	pa
+podjetja	mte:Ncnpn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+imela	mte:Vmpp-pf	imeti
+zanimive	mte:Agpfpa	zanimiv
+podjetniške	mte:Agpfpa	podjetniški
+ideje	mte:Ncfpa	ideja
+,	mte:Z	,
+do	mte:Sg	do
+teh	mte:Pd-npg	ta
+sredstev	mte:Ncnpg	sredstvo
+vsaj	mte:Q	vsaj
+v	mte:Sl	v
+državnih	mte:Agpfpl	državen
+bankah	mte:Ncfpl	banka
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+priti	mte:Vmen	priti
+.	mte:Z	.
+Gaspari	mte:Npmsn	Gaspari
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+ukrepe	mte:Ncmpa	ukrep
+sprejela	mte:Vmep-sf	sprejeti
+Na	mte:Sa	na
+objavo	mte:Ncfsa	objava
+lestvice	mte:Ncfsg	lestvica
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+odzval	mte:Vmep-sm	odzvati
+tudi	mte:Q	tudi
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+in	mte:Cc	in
+evropske	mte:Agpfpa	evropski
+zadeve	mte:Ncfpa	zadeva
+ter	mte:Cc	ter
+začasni	mte:Agpmsny	začasen
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+Mitja	mte:Npmsn	Mitja
+Gaspari	mte:Npmsn	Gaspari
+.	mte:Z	.
+Poudaril	mte:Vmep-sm	poudariti
+je	mte:Va-r3s-n	biti
+vladne	mte:Agpmpa	vladen
+ukrepe	mte:Ncmpa	ukrep
+za	mte:Sa	za
+izboljšanje	mte:Ncnsa	izboljšanje
+konkurenčnosti	mte:Ncfsg	konkurenčnost
+in	mte:Cc	in
+ukrepe	mte:Ncmpa	ukrep
+glede	mte:Sg	glede
+bančnega	mte:Agpmsg	bančen
+sektorja	mte:Ncmsg	sektor
+,	mte:Z	,
+sprejete	mte:Appmsg	sprejet
+februarja	mte:Ncmsg	februar
+letos	mte:Rgp	letos
+.	mte:Z	.
+Na	mte:Sa	na
+upad	mte:Ncmsan	upad
+konkurenčnosti	mte:Ncfsg	konkurenčnost
+slovenskega	mte:Agpnsg	slovenski
+gospodarstva	mte:Ncnsg	gospodarstvo
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+odzval	mte:Vmep-sm	odzvati
+tudi	mte:Q	tudi
+Andrej	mte:Npmsn	Andrej
+Vizjak	mte:Npmsn	Vizjak
+SDS	mte:Npmsn	SDS
+.	mte:Z	.
+Meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+nižji	mte:Agcmsny	nizek
+položaj	mte:Ncmsn	položaj
+na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+posledica	mte:Ncfsn	posledica
+neustrezne	mte:Agpfsg	neustrezen
+gospodarske	mte:Agpfsg	gospodarski
+politike	mte:Ncfsg	politika
+Pahorjeve	mte:Aspfsg	Pahorjev
+vlade	mte:Ncfsg	vlada
+ter	mte:Cc	ter
+da	mte:Cs	da
+potrjuje	mte:Vmpr3s	potrjevati
+kritike	mte:Ncfpa	kritika
+gospodarstvenikov	mte:Ncmpg	gospodarstvenik
+in	mte:Cc	in
+opozicije	mte:Ncfsg	opozicija

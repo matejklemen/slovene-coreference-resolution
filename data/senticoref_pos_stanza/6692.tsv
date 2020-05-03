@@ -1,540 +1,580 @@
-token	tag
-Lahovnik	Npmsn
-napačno	Rgp
-interpretiral	Vmbp-sm
-številke	Ncfpa
-iz	Sg
-predloga	Ncmsg
-?	Z
-Zgodba	Ncfsn
-z	Si
-Muro	Npfsi
-je	Va-r3s-n
-za	Sa
-mene	Pp1-sa
-končana	Appfsn
-,	Z
-je	Va-r3s-n
-odločen	Appmsnn
-Joc	Npmsn
-Pečečnik	Npmsn
-.	Z
-Tako	Rgp
-se	Px------y
-je	Va-r3s-n
-odločil	Vmep-sm
-,	Z
-ker	Cs
-ni	Va-r3s-y
-dobil	Vmep-sm
-odgovora	Ncmsg
-predstavnikov	Ncmpg
-države	Ncfsg
-in	Cc
-obvestila	Vmep-sf
-Soda	Npfsn
-,	Z
-da	Cs
-se	Px------y
-namerava	Vmpr3s
-odločati	Vmpn
-šele	Q
-v	Sa
-ponedeljek	Ncmsan
-.	Z
-Pečečnik	Npmsn
-je	Va-r3s-n
-v	Sl
-pogovoru	Ncmsl
-za	Sa
-Odmeve	Ncmpa
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-razočaran	Appmsnn
-nad	Si
-nivojem	Ncmsi
-družbe	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-,	Z
-saj	Cc
-nimamo	Vmpr1p-y
-volje	Ncfsg
-,	Z
-znanja	Ncnsg
-ali	Cc
-pa	Cc
-potrebe	Ncfpg
-za	Sa
-nek	Pi-msa
-skupen	Agpmsan
-nastop	Ncmsan
-,	Z
-da	Cs
-bi	Va-c
-skupaj	Rgp
-reševali	Vmpp-pm
-in	Cc
-si	Px---d--y
-pomagali	Vmbp-pm
-.	Z
-Podjetnik	Ncmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-še	Q
-dejal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-razočarale	Vmep-pf
-tudi	Q
-kritike	Ncfpn
-ekonomistov	Ncmpg
-,	Z
-ministrov	Ncmpg
-in	Cc
-medijev	Ncmpg
-,	Z
-saj	Cc
-,	Z
-kot	Cs
-pravi	Vmbr3s
-,	Z
-so	Va-r3p-n
-ga	Pp3msa--y
-predstavljali	Vmpp-pm
-kot	Cs
-nekega	Pi-msg
-manipulatorja	Ncmsg
-Zdi	Vmpr3s
-se	Px------y
-mi	Pp1-sd--y
-zamalo	Rgp
-,	Z
-ker	Cs
-sem	Va-r1s-n
-družino	Ncfsa
-pustil	Vmep-sm
-na	Sl
-dopustu	Ncmsl
-in	Cc
-prišel	Vmep-sm
-reševat	Vmpu
-Muro	Npfsa
-,	Z
-nekateri	Pi-mpn
-ljudje	Ncmpn
-pa	Cc
-niso	Va-r3p-y
-mogli	Vmpp-pm
-priti	Vmen
-niti	Q
-na	Sa
-sestanek	Ncmsan
-.	Z
-Očitno	Rgp
-problem	Ncmsn
-ni	Va-r3s-y
-dovolj	Rgp
-resen	Agpmsnn
-za	Sa
-njih	Pp3mpa
-.	Z
-Pečečnik	Npmsn
-je	Va-r3s-n
-sicer	Q
-že	Q
-pred	Si
-tem	Pd-nsi
-zatrdil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-gospodarski	Agpmsny
-minister	Ncmsn
-Matej	Npmsn
-Lahovnik	Npmsn
-napačno	Rgp
-interpretiral	Vmbp-sm
-številke	Ncfpa
-v	Sl
-njegovem	Ps3mslsm
-predlogu	Ncmsl
-.	Z
-Drži	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-predlagal	Vmbp-sm
-,	Z
-da	Cs
-država	Ncfsn
-prispeva	Vmpr3s
-20	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-vendar	Cc
-pa	Cc
-zagotavlja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-ta	Pd-npa
-sredstva	Ncnpa
-razdelil	Vmep-sm
-na	Sa
-10	Mdc
--	Z
-milijonski	Agpmsay
-vložek	Ncmsan
-v	Sa
-poslovne	Agpmpa
-prostore	Ncmpa
-v	Sl
-Ljubljani	Npfsl
-,	Z
-3,5	Mdc
--	Z
-milijonski	Agpmsay
-vložek	Ncmsan
-za	Sa
-zaloge	Ncfpa
-iz	Sg
-stare	Agpfsg
-Mure	Npfsg
-in	Cc
-6,5	Mdc
--	Z
-milijonski	Agpmsay
-vložek	Ncmsan
-v	Sa
-najem	Ncmsan
-ali	Cc
-odkup	Ncmsan
-prostorov	Ncmpg
-v	Sl
-Murski	Agpfsl
-Soboti	Npfsl
-.	Z
-Murine	Aspfpn
-stare	Agpfpn
-zaloge	Ncfpa
-naj	Q
-bi	Va-c
-bile	Va-p-pf
-sicer	Q
-vredne	Agpfpn
-sedem	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Razlaga	Ncfsn
-Pečečnikovih	Aspmpg
-vi	Pp2mpn
-10	Mdc
-,	Z
-mi	Pp1-sd--y
-10	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-Tako	Rgp
-bi	Va-c
-država	Ncfsn
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-vložila	Vmep-sf
-v	Sa
-družbo	Ncfsa
-,	Z
-v	Sl
-kateri	Pq-fsl
-bi	Va-c
-bila	Va-p-sf
-nato	Rgp
-100	Mdc
--	Z
-odstotni	Agpmsny
-lastnik	Ncmsn
-.	Z
-To	Pd-nsn
-naj	Q
-bi	Va-c
-šlo	Vmbp-sn
-tako	Rgp
-najprej	Rgs
-bi	Va-c
-ustanovili	Vmep-pm
-podjetje	Ncnsa
-Mura	Npfsn
-Outlet	Npmsn
-,	Z
-v	Sa
-katero	Pq-fsa
-bi	Va-c
-država	Ncfsn
-ali	Cc
-Sod	Npmsn
-in	Cc
-Pečečnikov	Aspmsnn
-GSA	Npmsn
-vložila	Vmep-sf
-vsak	Pg-msa
-po	Sa
-10	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-in	Cc
-sicer	Q
-država	Ncfsn
-v	Sl
-oblliki	Ncfsl
-denarnih	Agpnpg
-sredstev	Ncnpg
-,	Z
-GSA	Npmsn
-pa	Cc
-bi	Va-c
-prispeval	Vmbp-sm
-nepremičnino	Ncfsa
-v	Sl
-Ljubljani	Npfsl
-.	Z
-Država	Ncfsn
-bi	Va-c
-nepremičnino	Ncfsa
-nato	Rgp
-odkupila	Vmep-sf
-od	Sg
-GSA	Npmsn
--	Z
-ja	Q
-in	Cc
-postala	Vmep-sf
-100	Mdc
--	Z
-odstotna	Agpfsn
-lastnica	Ncfsn
-podjetja	Ncnsg
-Mura	Npfsn
-Outlet	Npmsn
-.	Z
-GSA	Npmsn
-bi	Va-c
-prejetih	Appmpg
-10	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-vložil	Vmep-sm
-v	Sa
-novo	Agpfsa
-Muro	Npfsa
-,	Z
-ki	Cs
-bi	Va-c
-jo	Pp3fsa--y
-ustanovil	Vmep-sm
-Pečečnik	Npmsn
-.	Z
-PREBERITE	Vmem2p
-VEČ	Q
-Tajnikar	Npmsn
-,	Z
-Mencinger	Npmsn
-o	Sl
-predlogu	Ncmsl
-Nerealen	Agpmsnn
-,	Z
-kompliciran	Appmsnn
-,	Z
-nevšečen	Appmsnn
-.	Z
-Pečečnikova	Aspfsn
-Mura	Npfsn
-naj	Q
-bi	Va-c
-med	Si
-drugim	Mlpnsi
-prejela	Vmep-sf
-6,5	Mdc
-,	Z
-milijona	Ncmsg
-evrov	Ncmpg
-od	Sg
-oddaje	Ncfsg
-ali	Cc
-prodaje	Ncfsg
-Murinih	Aspfpg
-nepremičnin	Ncfpg
-v	Sl
-Murski	Agpfsl
-Soboti	Npfsl
-,	Z
-3,5	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-od	Sg
-odprodaje	Ncfsg
-zalog	Ncfpg
-,	Z
-najela	Vmep-sf
-pa	Cc
-naj	Q
-bi	Va-c
-še	Q
-12	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-posojil	Ncnpg
-za	Sa
-odpravnine	Ncfpa
-delavcem	Ncmpd
-in	Cc
-tekoče	Appnsa
-poslovanje	Ncnsa
-.	Z
-Sod	Ncmsan
-odločanje	Ncnsa
-o	Sl
-predlogu	Ncmsl
-prestavil	Vmep-sm
-na	Sa
-ponedeljek	Ncmsan
-Lahovnik	Npmsn
-prišel	Vmep-sm
-do	Sg
-številke	Ncfsg
-37	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-Gospodarski	Agpmsny
-minister	Ncmsn
-Matej	Npmsn
-Lahovnik	Npmsn
-je	Va-r3s-n
-ocenil	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-morala	Vmpp-sf
-država	Ncfsn
-po	Sl
-Pečečnikovem	Aspmsl
-predlogu	Ncmsl
-v	Sa
-Muro	Npfsa
-vložiti	Vmen
-37	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-na	Sl
-vladi	Ncfsl
-pa	Cc
-so	Va-r3p-n
-bili	Va-p-pm
-izraženi	Appmpn
-številni	Agpmpn
-pomisleki	Ncmpn
-.	Z
-Gre	Vmbr3s
-za	Sa
-vsaj	Q
-tri	Mlcmpa
-probleme	Ncmpa
-,	Z
-je	Va-r3s-n
-dodal	Vmep-sm
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-najpomembnejši	Agsmsny
-ta	Pd-msn
-,	Z
-da	Cs
-je	Va-r3s-n
-tveganje	Ncnsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-prevzema	Vmpr3s
-Sod	Ncmsn
-,	Z
-precej	Rgp
-nesorazmerno	Rgp
-v	Sl
-primerjavi	Ncfsl
-z	Si
-vložkom	Ncmsi
-zasebnega	Agpmsg
-investitorja	Ncmsg
-.	Z
-Tri	Mlcfpa
-nerešljive	Agpfpa
-težave	Ncfpa
-Vlada	Ncfsn
-je	Va-r3s-n
-izrazila	Vmep-sf
-pomisleke	Ncmpa
-tudi	Q
-zaradi	Sg
-Pečečnikove	Aspfsg
-zahteve	Ncfsg
-,	Z
-da	Cs
-bi	Va-c
-država	Ncfsn
-Muri	Npfsd
-jamčila	Vmep-sf
-šivanje	Ncnsa
-vseh	Pg-fpg
-uniform	Ncfpg
-.	Z
-S	Si
-tem	Pd-nsi
-bi	Va-c
-po	Sl
-ministrovih	Aspfpl
-besedah	Ncfpl
-kršili	Vmbp-pm
-zakona	Ncmsg
-o	Sl
-javnih	Agpnpl
-naročilih	Ncnpl
-in	Cc
-o	Sl
-preprečevanju	Ncnsl
-omejevanja	Ncnsg
-konkurence	Ncfsg
-.	Z
-Tretja	Mlofsn
-težava	Ncfsn
-bi	Va-c
-bilo	Va-p-sn
-poroštvo	Ncnsn
-,	Z
-saj	Cc
-bi	Va-c
-po	Sl
-Lahovnikovih	Aspfpl
-besedah	Ncfpl
-lahko	Rgp
-pomenilo	Vmbp-sn
-nedovoljeno	Agpfsa
-državno	Agpfsa
-pomoč	Ncfsa
-oz	Ncmsg
-.	Z
-kršenje	Ncnsa
-pravil	Ncnpg
-enotnega	Agpmsg
-evropskega	Agpmsg
-trga	Ncmsg
-.	Z
+token	tag	lemma
+Lahovnik	mte:Npmsn	Lahovnik
+napačno	mte:Rgp	napačen
+interpretiral	mte:Vmbp-sm	interpretirati
+številke	mte:Ncfpa	številka
+iz	mte:Sg	iz
+predloga	mte:Ncmsg	predlog
+?	mte:Z	?
+Zgodba	mte:Ncfsn	zgodba
+z	mte:Si	z
+Muro	mte:Npfsi	Mura
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+mene	mte:Pp1-sa	jaz
+končana	mte:Appfsn	končan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odločen	mte:Appmsnn	odločen
+Joc	mte:Npmsn	Joc
+Pečečnik	mte:Npmsn	Pečečnik
+.	mte:Z	.
+Tako	mte:Rgp	tako
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+odločil	mte:Vmep-sm	odločiti
+,	mte:Z	,
+ker	mte:Cs	ker
+ni	mte:Va-r3s-y	biti
+dobil	mte:Vmep-sm	dobiti
+odgovora	mte:Ncmsg	odgovor
+predstavnikov	mte:Ncmpg	predstavnik
+države	mte:Ncfsg	država
+in	mte:Cc	in
+obvestila	mte:Vmep-sf	obvestilo
+Soda	mte:Npfsn	Soda
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+namerava	mte:Vmpr3s	nameravati
+odločati	mte:Vmpn	odločati
+šele	mte:Q	šele
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+.	mte:Z	.
+Pečečnik	mte:Npmsn	Pečečnik
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+pogovoru	mte:Ncmsl	pogovor
+za	mte:Sa	za
+Odmeve	mte:Ncmpa	odmeva
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+razočaran	mte:Appmsnn	razočaran
+nad	mte:Si	nad
+nivojem	mte:Ncmsi	nivo
+družbe	mte:Ncfsg	družba
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+saj	mte:Cc	saj
+nimamo	mte:Vmpr1p-y	imeti
+volje	mte:Ncfsg	volja
+,	mte:Z	,
+znanja	mte:Ncnsg	znanje
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+potrebe	mte:Ncfpg	potreba
+za	mte:Sa	za
+nek	mte:Pi-msa	nek
+skupen	mte:Agpmsan	skupen
+nastop	mte:Ncmsan	nastop
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+skupaj	mte:Rgp	skupaj
+reševali	mte:Vmpp-pm	reševati
+in	mte:Cc	in
+si	mte:Px---d--y	se
+pomagali	mte:Vmbp-pm	pomagati
+.	mte:Z	.
+Podjetnik	mte:Ncmsn	podjetnik
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+razočarale	mte:Vmep-pf	razočarati
+tudi	mte:Q	tudi
+kritike	mte:Ncfpn	kritika
+ekonomistov	mte:Ncmpg	ekonomist
+,	mte:Z	,
+ministrov	mte:Ncmpg	minister
+in	mte:Cc	in
+medijev	mte:Ncmpg	medij
+,	mte:Z	,
+saj	mte:Cc	saj
+,	mte:Z	,
+kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+predstavljali	mte:Vmpp-pm	predstavljati
+kot	mte:Cs	kot
+nekega	mte:Pi-msg	nek
+manipulatorja	mte:Ncmsg	manipulator
+Zdi	mte:Vmpr3s	zdeti
+se	mte:Px------y	se
+mi	mte:Pp1-sd--y	jaz
+zamalo	mte:Rgp	zamalo
+,	mte:Z	,
+ker	mte:Cs	ker
+sem	mte:Va-r1s-n	biti
+družino	mte:Ncfsa	družina
+pustil	mte:Vmep-sm	pustiti
+na	mte:Sl	na
+dopustu	mte:Ncmsl	dopust
+in	mte:Cc	in
+prišel	mte:Vmep-sm	priti
+reševat	mte:Vmpu	reševati
+Muro	mte:Npfsa	Mura
+,	mte:Z	,
+nekateri	mte:Pi-mpn	nekateri
+ljudje	mte:Ncmpn	človek
+pa	mte:Cc	pa
+niso	mte:Va-r3p-y	biti
+mogli	mte:Vmpp-pm	moči
+priti	mte:Vmen	priti
+niti	mte:Q	niti
+na	mte:Sa	na
+sestanek	mte:Ncmsan	sestanek
+.	mte:Z	.
+Očitno	mte:Rgp	očitno
+problem	mte:Ncmsn	problem
+ni	mte:Va-r3s-y	biti
+dovolj	mte:Rgp	dovolj
+resen	mte:Agpmsnn	resen
+za	mte:Sa	za
+njih	mte:Pp3mpa	on
+.	mte:Z	.
+Pečečnik	mte:Npmsn	Pečečnik
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+že	mte:Q	že
+pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+zatrdil	mte:Vmep-sm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+gospodarski	mte:Agpmsny	gospodarski
+minister	mte:Ncmsn	minister
+Matej	mte:Npmsn	Matej
+Lahovnik	mte:Npmsn	Lahovnik
+napačno	mte:Rgp	napačen
+interpretiral	mte:Vmbp-sm	interpretirati
+številke	mte:Ncfpa	številka
+v	mte:Sl	v
+njegovem	mte:Ps3mslsm	njegov
+predlogu	mte:Ncmsl	predlog
+.	mte:Z	.
+Drži	mte:Vmpr3s	držati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+predlagal	mte:Vmbp-sm	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+država	mte:Ncfsn	država
+prispeva	mte:Vmpr3s	prispevati
+20	mte:Mdc	20
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+zagotavlja	mte:Vmpr3s	zagotavljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-npa	ta
+sredstva	mte:Ncnpa	sredstvo
+razdelil	mte:Vmep-sm	razdeliti
+na	mte:Sa	na
+10	mte:Mdc	10
+-	mte:Z	-
+milijonski	mte:Agpmsay	milijonski
+vložek	mte:Ncmsan	vložek
+v	mte:Sa	v
+poslovne	mte:Agpmpa	posloven
+prostore	mte:Ncmpa	prostor
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+3,5	mte:Mdc	3,5
+-	mte:Z	-
+milijonski	mte:Agpmsay	milijonski
+vložek	mte:Ncmsan	vložek
+za	mte:Sa	za
+zaloge	mte:Ncfpa	zaloga
+iz	mte:Sg	iz
+stare	mte:Agpfsg	star
+Mure	mte:Npfsg	Mura
+in	mte:Cc	in
+6,5	mte:Mdc	6,5
+-	mte:Z	-
+milijonski	mte:Agpmsay	milijonski
+vložek	mte:Ncmsan	vložek
+v	mte:Sa	v
+najem	mte:Ncmsan	najem
+ali	mte:Cc	ali
+odkup	mte:Ncmsan	odkup
+prostorov	mte:Ncmpg	prostor
+v	mte:Sl	v
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+.	mte:Z	.
+Murine	mte:Aspfpn	murin
+stare	mte:Agpfpn	star
+zaloge	mte:Ncfpa	zaloga
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+sicer	mte:Q	sicer
+vredne	mte:Agpfpn	vreden
+sedem	mte:Mlc-pa	sedem
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Razlaga	mte:Ncfsn	razlaga
+Pečečnikovih	mte:Aspmpg	pečečnikov
+vi	mte:Pp2mpn	ti
+10	mte:Mdc	10
+,	mte:Z	,
+mi	mte:Pp1-sd--y	jaz
+10	mte:Mdc	10
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+Tako	mte:Rgp	tako
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+vložila	mte:Vmep-sf	vložiti
+v	mte:Sa	v
+družbo	mte:Ncfsa	družba
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+nato	mte:Rgp	nato
+100	mte:Mdc	100
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+lastnik	mte:Ncmsn	lastnik
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+šlo	mte:Vmbp-sn	iti
+tako	mte:Rgp	tako
+najprej	mte:Rgs	najprej
+bi	mte:Va-c	biti
+ustanovili	mte:Vmep-pm	ustanoviti
+podjetje	mte:Ncnsa	podjetje
+Mura	mte:Npfsn	Mura
+Outlet	mte:Npmsn	Outlet
+,	mte:Z	,
+v	mte:Sa	v
+katero	mte:Pq-fsa	kateri
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+ali	mte:Cc	ali
+Sod	mte:Npmsn	Sod
+in	mte:Cc	in
+Pečečnikov	mte:Aspmsnn	pečečnikov
+GSA	mte:Npmsn	GSA
+vložila	mte:Vmep-sf	vložiti
+vsak	mte:Pg-msa	vsak
+po	mte:Sa	po
+10	mte:Mdc	10
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+država	mte:Ncfsn	država
+v	mte:Sl	v
+oblliki	mte:Ncfsl	obllika
+denarnih	mte:Agpnpg	denaren
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+GSA	mte:Npmsn	GSA
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+prispeval	mte:Vmbp-sm	prispevati
+nepremičnino	mte:Ncfsa	nepremičnina
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+Država	mte:Ncfsn	država
+bi	mte:Va-c	biti
+nepremičnino	mte:Ncfsa	nepremičnina
+nato	mte:Rgp	nato
+odkupila	mte:Vmep-sf	odkupiti
+od	mte:Sg	od
+GSA	mte:Npmsn	GSA
+-	mte:Z	-
+ja	mte:Q	ja
+in	mte:Cc	in
+postala	mte:Vmep-sf	postati
+100	mte:Mdc	100
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+lastnica	mte:Ncfsn	lastnica
+podjetja	mte:Ncnsg	podjetje
+Mura	mte:Npfsn	Mura
+Outlet	mte:Npmsn	Outlet
+.	mte:Z	.
+GSA	mte:Npmsn	GSA
+bi	mte:Va-c	biti
+prejetih	mte:Appmpg	prejet
+10	mte:Mdc	10
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+vložil	mte:Vmep-sm	vložiti
+v	mte:Sa	v
+novo	mte:Agpfsa	nov
+Muro	mte:Npfsa	Mura
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+jo	mte:Pp3fsa--y	on
+ustanovil	mte:Vmep-sm	ustanoviti
+Pečečnik	mte:Npmsn	Pečečnik
+.	mte:Z	.
+PREBERITE	mte:Vmem2p	preberiti
+VEČ	mte:Q	več
+Tajnikar	mte:Npmsn	Tajnikar
+,	mte:Z	,
+Mencinger	mte:Npmsn	Mencinger
+o	mte:Sl	o
+predlogu	mte:Ncmsl	predlog
+Nerealen	mte:Agpmsnn	nerealen
+,	mte:Z	,
+kompliciran	mte:Appmsnn	kompliciran
+,	mte:Z	,
+nevšečen	mte:Appmsnn	nevšečen
+.	mte:Z	.
+Pečečnikova	mte:Aspfsn	pečečnikov
+Mura	mte:Npfsn	Mura
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+prejela	mte:Vmep-sf	prejeti
+6,5	mte:Mdc	6,5
+,	mte:Z	,
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+od	mte:Sg	od
+oddaje	mte:Ncfsg	oddaja
+ali	mte:Cc	ali
+prodaje	mte:Ncfsg	prodaja
+Murinih	mte:Aspfpg	Murin
+nepremičnin	mte:Ncfpg	nepremičnina
+v	mte:Sl	v
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+,	mte:Z	,
+3,5	mte:Mdc	3,5
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+od	mte:Sg	od
+odprodaje	mte:Ncfsg	odprodaja
+zalog	mte:Ncfpg	zaloga
+,	mte:Z	,
+najela	mte:Vmep-sf	najti
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+še	mte:Q	še
+12	mte:Mdc	12
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+posojil	mte:Ncnpg	posojilo
+za	mte:Sa	za
+odpravnine	mte:Ncfpa	odpravnina
+delavcem	mte:Ncmpd	delavec
+in	mte:Cc	in
+tekoče	mte:Appnsa	tekoče
+poslovanje	mte:Ncnsa	poslovanje
+.	mte:Z	.
+Sod	mte:Ncmsan	sod
+odločanje	mte:Ncnsa	odločanje
+o	mte:Sl	o
+predlogu	mte:Ncmsl	predlog
+prestavil	mte:Vmep-sm	prestaviti
+na	mte:Sa	na
+ponedeljek	mte:Ncmsan	ponedeljek
+Lahovnik	mte:Npmsn	Lahovnik
+prišel	mte:Vmep-sm	priti
+do	mte:Sg	do
+številke	mte:Ncfsg	številka
+37	mte:Mdc	37
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+Gospodarski	mte:Agpmsny	gospodarski
+minister	mte:Ncmsn	minister
+Matej	mte:Npmsn	Matej
+Lahovnik	mte:Npmsn	Lahovnik
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sf	morati
+država	mte:Ncfsn	država
+po	mte:Sl	po
+Pečečnikovem	mte:Aspmsl	pečečnikov
+predlogu	mte:Ncmsl	predlog
+v	mte:Sa	v
+Muro	mte:Npfsa	Mura
+vložiti	mte:Vmen	vložiti
+37	mte:Mdc	37
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+na	mte:Sl	na
+vladi	mte:Ncfsl	vlada
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+izraženi	mte:Appmpn	izražen
+številni	mte:Agpmpn	številen
+pomisleki	mte:Ncmpn	pomislek
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+vsaj	mte:Q	vsaj
+tri	mte:Mlcmpa	trije
+probleme	mte:Ncmpa	problem
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+najpomembnejši	mte:Agsmsny	pomemben
+ta	mte:Pd-msn	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tveganje	mte:Ncnsn	tveganje
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+prevzema	mte:Vmpr3s	prevzemati
+Sod	mte:Ncmsn	sod
+,	mte:Z	,
+precej	mte:Rgp	precej
+nesorazmerno	mte:Rgp	nesorazmerno
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+vložkom	mte:Ncmsi	vložek
+zasebnega	mte:Agpmsg	zaseben
+investitorja	mte:Ncmsg	investitor
+.	mte:Z	.
+Tri	mte:Mlcfpa	trije
+nerešljive	mte:Agpfpa	nerešljiv
+težave	mte:Ncfpa	težava
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+izrazila	mte:Vmep-sf	izraziti
+pomisleke	mte:Ncmpa	pomislek
+tudi	mte:Q	tudi
+zaradi	mte:Sg	zaradi
+Pečečnikove	mte:Aspfsg	pečečnikov
+zahteve	mte:Ncfsg	zahteva
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+Muri	mte:Npfsd	Muri
+jamčila	mte:Vmep-sf	jamčiti
+šivanje	mte:Ncnsa	šivanje
+vseh	mte:Pg-fpg	ves
+uniform	mte:Ncfpg	uniforma
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+bi	mte:Va-c	biti
+po	mte:Sl	po
+ministrovih	mte:Aspfpl	ministrov
+besedah	mte:Ncfpl	beseda
+kršili	mte:Vmbp-pm	kršiti
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+javnih	mte:Agpnpl	javen
+naročilih	mte:Ncnpl	naročilo
+in	mte:Cc	in
+o	mte:Sl	o
+preprečevanju	mte:Ncnsl	preprečevanje
+omejevanja	mte:Ncnsg	omejevanje
+konkurence	mte:Ncfsg	konkurenca
+.	mte:Z	.
+Tretja	mte:Mlofsn	tretji
+težava	mte:Ncfsn	težava
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+poroštvo	mte:Ncnsn	poroštvo
+,	mte:Z	,
+saj	mte:Cc	saj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+Lahovnikovih	mte:Aspfpl	Lahovnikov
+besedah	mte:Ncfpl	beseda
+lahko	mte:Rgp	lahko
+pomenilo	mte:Vmbp-sn	pomeniti
+nedovoljeno	mte:Agpfsa	nedovoljen
+državno	mte:Agpfsa	državen
+pomoč	mte:Ncfsa	pomoč
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+kršenje	mte:Ncnsa	kršenje
+pravil	mte:Ncnpg	pravilo
+enotnega	mte:Agpmsg	enoten
+evropskega	mte:Agpmsg	evropski
+trga	mte:Ncmsg	trg
+.	mte:Z	.
+Lahovnik	mte:Npmsn	Lahovnik
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+morata	mte:Vmpr3d	morati
+ministrstvo	mte:Ncnsa	ministrstvo
+in	mte:Cc	in
+Sod	mte:Ncmsn	sod
+najti	mte:Vmen	najti
+takšnega	mte:Pd-msa	takšen
+zasebnega	mte:Agpmsa	zaseben
+investitorja	mte:Ncmsay	investitor
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+v	mte:Sa	v
+Muro	mte:Npfsa	Mura
+vložil	mte:Vmep-sm	vložiti
+svež	mte:Agpmsan	svež
+kapital	mte:Ncmsan	kapital
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+država	mte:Ncfsn	država
+Muro	mte:Npfsa	Mura
+z	mte:Si	z
+vsemi	mte:Pg-mpi	ves
+instrumenti	mte:Ncmpi	instrument
+,	mte:Z	,
+ki	mte:Cs	ki
+jh	mte:Pp3msa--y	on
+ima	mte:Vmpr3s-n	imeti
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+,	mte:Z	,
+tudi	mte:Q	tudi
+podprla	mte:Vmep-sf	podpreti

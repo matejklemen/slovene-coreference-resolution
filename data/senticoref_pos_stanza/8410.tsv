@@ -1,462 +1,500 @@
-token	tag
-V	Sl
-Zavodu	Ncmsl
-25	Mdc
-.	Z
-junij	Ncmsn
-ne	Q
-nasprotujejo	Vmpr3p
-mednarodni	Agpfsd
-arbitraži	Ncfsd
-in	Cc
-razsojanju	Ncnsd
-mednarodnega	Agpnsg
-sodišča	Ncnsg
-,	Z
-nasprotujejo	Vmpr3p
-pa	Cc
-sprejetim	Appnpd
-slovenskim	Agpnpd
-izhodiščem	Ncnpd
-za	Sa
-tako	Pd-nsa
-odločanje	Ncnsa
-,	Z
-Boris	Npmsn
-Dežulović	Npmsn
-,	Z
-hrvaški	Agpmsny
-novinar	Ncmsn
-in	Cc
-kolumnist	Ncmsn
-Kako	Rgp
-bo	Va-f3s-n
-po	Sl
-vašem	Ps1nslp
-mnenju	Ncnsl
-sobotni	Agpmsny
-shod	Ncmsan
-na	Sl
-Jorasovem	Aspnsl
-zemljišču	Ncnsl
-vplival	Vmpp-sm
-na	Sa
-slovensko	Agpnsa
--	Z
-hrvaške	Agpmpa
-odnose	Ncmpa
-?	Z
-V	Sa
-soboto	Ncfsa
-,	Z
-26	Mdc
-.	Z
-aprila	Ncmsg
-se	Px------y
-bo	Va-f3s-n
-pri	Sl
-meni	Pp1-sl
-doma	Rgp
-zbralo	Vmep-sn
-deset	Mlc-pa
-prijateljev	Ncmpg
-,	Z
-da	Cs
-si	Px---d--y
-bomo	Va-f1p-n
-skupaj	Rgp
-ogledali	Vmep-pm
-tekmo	Ncfsa
-Chelsea	Npmsn
-in	Cc
-Manchester	Npmsn
-Uniteda	Npmsg
-.	Z
-Pogovarjali	Vmpp-pm
-se	Px------y
-bomo	Va-f1p-n
-o	Sl
-tem	Pd-nsl
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-Ronaldo	Npmsa
-zapustil	Vmep-sm
-United	Npmsan
-in	Cc
-ali	Rgp
-bo	Va-f3s-n
-Abramovič	Npmsn
-kupil	Vmep-sm
-Kakaja	Npmsay
-iz	Sg
-Milana	Npmsg
-,	Z
-organizirali	Vmbp-pm
-pa	Cc
-bomo	Va-f1p-n
-tudi	Q
-interno	Agpfsa
-stavnico	Ncfsa
-.	Z
-Pričakovati	Vmpn
-je	Va-r3s-n
-,	Z
-da	Cs
-bo	Va-f3s-n
-Chelsea	Npmsn
-zmagal	Vmep-sm
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-končnica	Ncfsn
-Premiershipa	Ncmsg
-dramatična	Agpfsn
-in	Cc
-se	Px------y
-bomo	Va-f1p-n
-pri	Sl
-meni	Pp1-sl
-doma	Rgp
-še	Q
-enkrat	Rgp
-zbrali	Vmep-pm
-naslednjo	Agpfsa
-soboto	Ncfsa
-.	Z
-In	Cc
-kaj	Pq-nsa
-ima	Vmpr3s-n
-to	Pd-nsn
-opraviti	Vmen
-z	Si
-meddržavnimi	Agpmpi
-odnosi	Ncmpi
-?	Z
-Enako	Rgp
-kot	Cs
-zbor	Ncmsn
-Jorasovih	Aspmpg
-prijateljev	Ncmpg
-na	Sl
-njegovem	Ps3nslsm
-zasebnem	Agpnsl
-zemljišču	Ncnsl
-.	Z
-V	Sl
-Zavodi	Ncmpl
-25	Mdc
-.	Z
-junij	Ncmsn
-so	Va-r3p-n
-po	Sl
-besedah	Ncfpl
-predsednika	Ncmsg
-društva	Ncnsg
-Marjana	Npmsg
-Podobnika	Npmsg
-prepričani	Appmpn
-,	Z
-da	Cs
-izhodišča	Ncnpn
-vlade	Ncfsg
-za	Sa
-reševanje	Ncnsa
-meje	Ncfsg
-s	Si
-Hrvaško	Npfsi
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-minuli	Appmsay
-teden	Ncmsan
-potrdil	Vmep-sm
-odbor	Ncmsn
-državnega	Agpmsg
-zbora	Ncmsg
-za	Sa
-zunanjo	Agpfsa
-politiko	Ncfsa
-,	Z
-pomenijo	Vmbr3p
-veliko	Agpfsa
-nevarnost	Ncfsa
-,	Z
-da	Cs
-bo	Va-f3s-n
-Slovenija	Npfsn
-izgubila	Vmep-sf
-številne	Agpmpa
-dele	Ncmpa
-slovenskega	Agpnsg
-ozemlja	Ncnsg
-,	Z
-lahko	Rgp
-pa	Cc
-tudi	Q
-neomejen	Agpmsnn
-dostop	Ncmsan
-do	Sg
-odprtega	Appnsg
-morja	Ncnsg
-.	Z
-Slovenija	Npfsn
-namreč	Cc
-pristaja	Vmpr3s
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-bo	Va-f3s-n
-mednarodno	Agpnsn
-sodno	Agpnsn
-telo	Ncnsn
-odločalo	Vmpp-sn
-o	Sl
-nesporno	Agpnsn
-slovenskem	Agpnsl
-ozemlju	Ncnsl
-in	Cc
-morju	Ncnsl
-,	Z
-"	Z
-torej	Rgp
-o	Sl
-ozemlju	Ncnsl
-in	Cc
-morju	Ncnsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-25	Mdc
-.	Z
-junija	Ncmsg
-1991	Mdc
-nesporno	Agpnsn
-slovensko	Agpnsn
-"	Z
-.	Z
-Podobnik	Npmsn
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-v	Sl
-Zavodu	Ncmsl
-25	Mdc
-.	Z
-junija	Ncmsg
-podpirajo	Vmpr3p
-vstop	Ncmsan
-Hrvaške	Npfsg
-v	Sa
-EU	Npfsa
-in	Cc
-se	Px------y
-zavzemajo	Vmpr3p
-za	Sa
-dobrososedske	Agpmpa
-odnose	Ncmpa
-s	Si
-Hrvaško	Npfsi
-,	Z
-toda	Cc
-ti	Pd-mpn
-lahko	Rgp
-temeljijo	Vmpr3p
-samo	Q
-na	Sl
-pravičnosti	Ncfsl
-.	Z
-"	Z
-Mi	Pp1-sd--y
-vztrajamo	Vmpr1p
-na	Sa
-pravični	Agpmsay
-mejo	Ncfsa
-,	Z
-Hrvaška	Npfsn
-pa	Cc
-nasprotuje	Vmpr3s
-načelu	Ncnsd
-pravičnosti	Ncfsg
-,	Z
-torej	Rgp
-ni	Va-r3s-y
-za	Sa
-pravično	Agpfsa
-mejo	Ncfsa
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-"	Z
-Mi	Pp1-sd--y
-si	Px---d--y
-želimo	Vmpr1p
-dobrih	Agpmpg
-odnosov	Ncmpg
-,	Z
-osnova	Ncfsn
-za	Sa
-to	Pd-nsa
-pa	Cc
-je	Va-r3s-n
-pravičnost	Ncfsn
-,	Z
-(	Z
-saj	Cc
-)	Z
-brez	Sg
-pravičnosti	Ncfsg
-ni	Va-r3s-y
-medsebojnega	Agpnsg
-spoštovanja	Ncnsg
-,	Z
-"	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-Podobnik	Npmsn
-.	Z
-Mednarodni	Agpmpn
-strokovnjaki	Ncmpn
-na	Sl
-Reki	Ncfsl
-OZP	Npmsn
-je	Va-r3s-n
-minuli	Appmsay
-četrtek	Ncmsan
-na	Sl
-zaprti	Appfsl
-seji	Ncfsl
-sprejel	Vmep-sm
-za	Sa
-pogajanja	Ncnpa
-za	Sa
-sklenitev	Ncfsa
-posebnega	Agpmsg
-sporazuma	Ncmsg
-o	Sl
-reševanju	Ncnsl
-mejnega	Agpnsg
-vprašanja	Ncnsg
-med	Si
-Slovenijo	Npfsi
-in	Cc
-Hrvaško	Npfsi
-pred	Si
-tretjim	Mlomsi
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-jih	Pp3mpa--y
-slovenski	Agpmpn
-pogajalci	Ncmpn
-hrvaški	Agpfsd
-strani	Ncfsd
-predstavila	Vmep-pf
-v	Sa
-torek	Ncmsan
-na	Sl
-prvem	Mlomsl
-sestanku	Ncmsl
-mešane	Appfsg
-skupine	Ncfsg
-mednarodnopravnih	Agpmpg
-strokovnjakov	Ncmpg
-na	Sl
-v	Sl
-hotelu	Ncmsl
-Bonavia	Npmsg
-na	Sl
-Reki	Npfsl
-.	Z
-V	Sl
-komisiji	Ncfsl
-je	Va-r3s-n
-sedem	Mlc-pa
-strokovnjakov	Ncmpg
-iz	Sg
-vsake	Pg-fsg
-države	Ncfsg
-,	Z
-presedajoči	Appmpn
-slovenskega	Agpnsg
-dela	Ncnsg
-je	Va-r3s-n
-Miha	Npmsn
-Pogačnik	Npmsn
-,	Z
-hrvaškega	Agpmsg
-pa	Cc
-Davorin	Npmsn
-Rudolf	Npmsn
-.	Z
-Slovenski	Agpmsny
-zunanji	Agpmsny
-minister	Ncmsn
-Dimitrij	Npmsn
-Rupel	Npmsn
-je	Va-r3s-n
-minuli	Appmsay
-teden	Ncmsan
-izjavil	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-po	Sl
-tem	Pd-nsl
-srečanju	Ncnsl
-mogoče	Agpnsn
-sklepati	Vmpn
-,	Z
-v	Sl
-kateri	Pq-fsl
-smeri	Ncfsl
-se	Px------y
-bodo	Va-f3p-n
-nadaljevali	Vmpp-pm
-poskusi	Ncmpn
-urejanje	Ncnsa
-vprašanja	Ncnsg
-meje	Ncfsg
-.	Z
-Obenem	Rgp
-je	Va-r3s-n
-spomnil	Vmep-sm
-,	Z
-da	Cs
-sta	Va-r3d-n
-predsednika	Ncmdn
-slovenske	Agpfsg
-in	Cc
-hrvaške	Agpfsg
-vlade	Ncfsg
-,	Z
-Janez	Npmsn
-Janša	Npmsn
-in	Cc
-Ivo	Npmsn
-Sanader	Npmsn
-pred	Si
-časom	Ncmsi
-prišla	Vmep-dm
-do	Sg
-dogovora	Ncmsg
-,	Z
-da	Cs
-je	Va-r3s-n
-treba	Rgp
-rešitev	Ncfsa
-poiskati	Vmen
-s	Si
-pomočjo	Ncfsi
-tretjega	Mlomsg
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+Zavodu	mte:Ncmsl	zavod
+25	mte:Mdc	25
+.	mte:Z	.
+junij	mte:Ncmsn	junij
+ne	mte:Q	ne
+nasprotujejo	mte:Vmpr3p	nasprotovati
+mednarodni	mte:Agpfsd	mednaroden
+arbitraži	mte:Ncfsd	arbitraž
+in	mte:Cc	in
+razsojanju	mte:Ncnsd	razsojanje
+mednarodnega	mte:Agpnsg	mednaroden
+sodišča	mte:Ncnsg	sodišče
+,	mte:Z	,
+nasprotujejo	mte:Vmpr3p	nasprotovati
+pa	mte:Cc	pa
+sprejetim	mte:Appnpd	sprejet
+slovenskim	mte:Agpnpd	slovenski
+izhodiščem	mte:Ncnpd	izhodišče
+za	mte:Sa	za
+tako	mte:Pd-nsa	tak
+odločanje	mte:Ncnsa	odločanje
+,	mte:Z	,
+Boris	mte:Npmsn	Boris
+Dežulović	mte:Npmsn	Dežulović
+,	mte:Z	,
+hrvaški	mte:Agpmsny	hrvaški
+novinar	mte:Ncmsn	novinar
+in	mte:Cc	in
+kolumnist	mte:Ncmsn	kolumnist
+Kako	mte:Rgp	kako
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+vašem	mte:Ps1nslp	vaš
+mnenju	mte:Ncnsl	mnenje
+sobotni	mte:Agpmsny	soboten
+shod	mte:Ncmsan	shod
+na	mte:Sl	na
+Jorasovem	mte:Aspnsl	Jorasov
+zemljišču	mte:Ncnsl	zemljišče
+vplival	mte:Vmpp-sm	vplivati
+na	mte:Sa	na
+slovensko	mte:Agpnsa	slovenski
+-	mte:Z	-
+hrvaške	mte:Agpmpa	hrvaški
+odnose	mte:Ncmpa	odnos
+?	mte:Z	?
+V	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+,	mte:Z	,
+26	mte:Mdc	26
+.	mte:Z	.
+aprila	mte:Ncmsg	april
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+pri	mte:Sl	pri
+meni	mte:Pp1-sl	jaz
+doma	mte:Rgp	doma
+zbralo	mte:Vmep-sn	zbrati
+deset	mte:Mlc-pa	deset
+prijateljev	mte:Ncmpg	prijatelj
+,	mte:Z	,
+da	mte:Cs	da
+si	mte:Px---d--y	se
+bomo	mte:Va-f1p-n	biti
+skupaj	mte:Rgp	skupaj
+ogledali	mte:Vmep-pm	ogledati
+tekmo	mte:Ncfsa	tekma
+Chelsea	mte:Npmsn	Chelse
+in	mte:Cc	in
+Manchester	mte:Npmsn	Manchester
+Uniteda	mte:Npmsg	United
+.	mte:Z	.
+Pogovarjali	mte:Vmpp-pm	pogovarjati
+se	mte:Px------y	se
+bomo	mte:Va-f1p-n	biti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+Ronaldo	mte:Npmsa	Ronaldo
+zapustil	mte:Vmep-sm	zapustiti
+United	mte:Npmsan	United
+in	mte:Cc	in
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+Abramovič	mte:Npmsn	Abramovič
+kupil	mte:Vmep-sm	kupiti
+Kakaja	mte:Npmsay	Kakaj
+iz	mte:Sg	iz
+Milana	mte:Npmsg	Milan
+,	mte:Z	,
+organizirali	mte:Vmbp-pm	organizirati
+pa	mte:Cc	pa
+bomo	mte:Va-f1p-n	biti
+tudi	mte:Q	tudi
+interno	mte:Agpfsa	interen
+stavnico	mte:Ncfsa	stavnica
+.	mte:Z	.
+Pričakovati	mte:Vmpn	pričakovati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Chelsea	mte:Npmsn	Chelse
+zmagal	mte:Vmep-sm	zmagati
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+končnica	mte:Ncfsn	končnica
+Premiershipa	mte:Ncmsg	premiershipa
+dramatična	mte:Agpfsn	dramatičen
+in	mte:Cc	in
+se	mte:Px------y	se
+bomo	mte:Va-f1p-n	biti
+pri	mte:Sl	pri
+meni	mte:Pp1-sl	jaz
+doma	mte:Rgp	doma
+še	mte:Q	še
+enkrat	mte:Rgp	enkrat
+zbrali	mte:Vmep-pm	zbrati
+naslednjo	mte:Agpfsa	naslednji
+soboto	mte:Ncfsa	sobota
+.	mte:Z	.
+In	mte:Cc	in
+kaj	mte:Pq-nsa	kaj
+ima	mte:Vmpr3s-n	imeti
+to	mte:Pd-nsn	ta
+opraviti	mte:Vmen	opraviti
+z	mte:Si	z
+meddržavnimi	mte:Agpmpi	meddržaven
+odnosi	mte:Ncmpi	odnos
+?	mte:Z	?
+Enako	mte:Rgp	enako
+kot	mte:Cs	kot
+zbor	mte:Ncmsn	zbor
+Jorasovih	mte:Aspmpg	Jorasov
+prijateljev	mte:Ncmpg	prijatelj
+na	mte:Sl	na
+njegovem	mte:Ps3nslsm	njegov
+zasebnem	mte:Agpnsl	zaseben
+zemljišču	mte:Ncnsl	zemljišče
+.	mte:Z	.
+V	mte:Sl	v
+Zavodi	mte:Ncmpl	zavod
+25	mte:Mdc	25
+.	mte:Z	.
+junij	mte:Ncmsn	junij
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+predsednika	mte:Ncmsg	predsednik
+društva	mte:Ncnsg	društvo
+Marjana	mte:Npmsg	Marjan
+Podobnika	mte:Npmsg	Podobnik
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+izhodišča	mte:Ncnpn	izhodišče
+vlade	mte:Ncfsg	vlada
+za	mte:Sa	za
+reševanje	mte:Ncnsa	reševanje
+meje	mte:Ncfsg	meja
+s	mte:Si	z
+Hrvaško	mte:Npfsi	Hrvaška
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+minuli	mte:Appmsay	minul
+teden	mte:Ncmsan	teden
+potrdil	mte:Vmep-sm	potrditi
+odbor	mte:Ncmsn	odbor
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+za	mte:Sa	za
+zunanjo	mte:Agpfsa	zunanji
+politiko	mte:Ncfsa	politika
+,	mte:Z	,
+pomenijo	mte:Vmbr3p	pomeniti
+veliko	mte:Agpfsa	velik
+nevarnost	mte:Ncfsa	nevarnost
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+izgubila	mte:Vmep-sf	izgubiti
+številne	mte:Agpmpa	številen
+dele	mte:Ncmpa	del
+slovenskega	mte:Agpnsg	slovenski
+ozemlja	mte:Ncnsg	ozemlje
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+neomejen	mte:Agpmsnn	neomejen
+dostop	mte:Ncmsan	dostop
+do	mte:Sg	do
+odprtega	mte:Appnsg	odprt
+morja	mte:Ncnsg	morje
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+namreč	mte:Cc	namreč
+pristaja	mte:Vmpr3s	pristajati
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+mednarodno	mte:Agpnsn	mednaroden
+sodno	mte:Agpnsn	soden
+telo	mte:Ncnsn	telo
+odločalo	mte:Vmpp-sn	odločati
+o	mte:Sl	o
+nesporno	mte:Agpnsn	nesporen
+slovenskem	mte:Agpnsl	slovenski
+ozemlju	mte:Ncnsl	ozemlje
+in	mte:Cc	in
+morju	mte:Ncnsl	morje
+,	mte:Z	,
+"	mte:Z	"
+torej	mte:Rgp	torej
+o	mte:Sl	o
+ozemlju	mte:Ncnsl	ozemlje
+in	mte:Cc	in
+morju	mte:Ncnsl	morje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+25	mte:Mdc	25
+.	mte:Z	.
+junija	mte:Ncmsg	junij
+1991	mte:Mdc	1991
+nesporno	mte:Agpnsn	nesporen
+slovensko	mte:Agpnsn	slovenski
+"	mte:Z	"
+.	mte:Z	.
+Podobnik	mte:Npmsn	Podobnik
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+Zavodu	mte:Ncmsl	zavod
+25	mte:Mdc	25
+.	mte:Z	.
+junija	mte:Ncmsg	junij
+podpirajo	mte:Vmpr3p	podpirati
+vstop	mte:Ncmsan	vstop
+Hrvaške	mte:Npfsg	Hrvaška
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+in	mte:Cc	in
+se	mte:Px------y	se
+zavzemajo	mte:Vmpr3p	zavzemati
+za	mte:Sa	za
+dobrososedske	mte:Agpmpa	dobrososedski
+odnose	mte:Ncmpa	odnos
+s	mte:Si	z
+Hrvaško	mte:Npfsi	Hrvaška
+,	mte:Z	,
+toda	mte:Cc	toda
+ti	mte:Pd-mpn	ta
+lahko	mte:Rgp	lahko
+temeljijo	mte:Vmpr3p	temeljiti
+samo	mte:Q	samo
+na	mte:Sl	na
+pravičnosti	mte:Ncfsl	pravičnost
+.	mte:Z	.
+"	mte:Z	"
+Mi	mte:Pp1-sd--y	jaz
+vztrajamo	mte:Vmpr1p	vztrajati
+na	mte:Sa	na
+pravični	mte:Agpmsay	pravičen
+mejo	mte:Ncfsa	meja
+,	mte:Z	,
+Hrvaška	mte:Npfsn	hrvaški
+pa	mte:Cc	pa
+nasprotuje	mte:Vmpr3s	nasprotovati
+načelu	mte:Ncnsd	načelo
+pravičnosti	mte:Ncfsg	pravičnost
+,	mte:Z	,
+torej	mte:Rgp	torej
+ni	mte:Va-r3s-y	biti
+za	mte:Sa	za
+pravično	mte:Agpfsa	pravičen
+mejo	mte:Ncfsa	meja
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+"	mte:Z	"
+Mi	mte:Pp1-sd--y	jaz
+si	mte:Px---d--y	se
+želimo	mte:Vmpr1p	želeti
+dobrih	mte:Agpmpg	dober
+odnosov	mte:Ncmpg	odnos
+,	mte:Z	,
+osnova	mte:Ncfsn	osnova
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+pravičnost	mte:Ncfsn	pravičnost
+,	mte:Z	,
+(	mte:Z	(
+saj	mte:Cc	saj
+)	mte:Z	)
+brez	mte:Sg	brez
+pravičnosti	mte:Ncfsg	pravičnost
+ni	mte:Va-r3s-y	biti
+medsebojnega	mte:Agpnsg	medsebojen
+spoštovanja	mte:Ncnsg	spoštovanje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+Podobnik	mte:Npmsn	Podobnik
+.	mte:Z	.
+Mednarodni	mte:Agpmpn	mednaroden
+strokovnjaki	mte:Ncmpn	strokovnjak
+na	mte:Sl	na
+Reki	mte:Ncfsl	reka
+OZP	mte:Npmsn	OZP
+je	mte:Va-r3s-n	biti
+minuli	mte:Appmsay	minul
+četrtek	mte:Ncmsan	četrtek
+na	mte:Sl	na
+zaprti	mte:Appfsl	zaprt
+seji	mte:Ncfsl	seja
+sprejel	mte:Vmep-sm	sprejeti
+za	mte:Sa	za
+pogajanja	mte:Ncnpa	pogajanje
+za	mte:Sa	za
+sklenitev	mte:Ncfsa	sklenitev
+posebnega	mte:Agpmsg	poseben
+sporazuma	mte:Ncmsg	sporazum
+o	mte:Sl	o
+reševanju	mte:Ncnsl	reševanje
+mejnega	mte:Agpnsg	mejen
+vprašanja	mte:Ncnsg	vprašanje
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Hrvaško	mte:Npfsi	Hrvaška
+pred	mte:Si	pred
+tretjim	mte:Mlomsi	tretji
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+slovenski	mte:Agpmpn	slovenski
+pogajalci	mte:Ncmpn	pogajalec
+hrvaški	mte:Agpfsd	hrvaški
+strani	mte:Ncfsd	stran
+predstavila	mte:Vmep-pf	predstaviti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+na	mte:Sl	na
+prvem	mte:Mlomsl	prvi
+sestanku	mte:Ncmsl	sestanek
+mešane	mte:Appfsg	mešan
+skupine	mte:Ncfsg	skupina
+mednarodnopravnih	mte:Agpmpg	mednarodnopraven
+strokovnjakov	mte:Ncmpg	strokovnjak
+na	mte:Sl	na
+v	mte:Sl	v
+hotelu	mte:Ncmsl	hotel
+Bonavia	mte:Npmsg	Bonavia
+na	mte:Sl	na
+Reki	mte:Npfsl	Reki
+.	mte:Z	.
+V	mte:Sl	v
+komisiji	mte:Ncfsl	komisija
+je	mte:Va-r3s-n	biti
+sedem	mte:Mlc-pa	sedem
+strokovnjakov	mte:Ncmpg	strokovnjak
+iz	mte:Sg	iz
+vsake	mte:Pg-fsg	vsak
+države	mte:Ncfsg	država
+,	mte:Z	,
+presedajoči	mte:Appmpn	presedajoč
+slovenskega	mte:Agpnsg	slovenski
+dela	mte:Ncnsg	delo
+je	mte:Va-r3s-n	biti
+Miha	mte:Npmsn	Miha
+Pogačnik	mte:Npmsn	Pogačnik
+,	mte:Z	,
+hrvaškega	mte:Agpmsg	hrvaški
+pa	mte:Cc	pa
+Davorin	mte:Npmsn	Davorin
+Rudolf	mte:Npmsn	Rudolf
+.	mte:Z	.
+Slovenski	mte:Agpmsny	slovenski
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Dimitrij	mte:Npmsn	Dimitrij
+Rupel	mte:Npmsn	Rupel
+je	mte:Va-r3s-n	biti
+minuli	mte:Appmsay	minul
+teden	mte:Ncmsan	teden
+izjavil	mte:Vmep-sm	izjaviti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+srečanju	mte:Ncnsl	srečanje
+mogoče	mte:Agpnsn	mogoč
+sklepati	mte:Vmpn	sklepati
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+smeri	mte:Ncfsl	smer
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+nadaljevali	mte:Vmpp-pm	nadaljevati
+poskusi	mte:Ncmpn	poskus
+urejanje	mte:Ncnsa	urejanje
+vprašanja	mte:Ncnsg	vprašanje
+meje	mte:Ncfsg	meja
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+je	mte:Va-r3s-n	biti
+spomnil	mte:Vmep-sm	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+predsednika	mte:Ncmdn	predsednik
+slovenske	mte:Agpfsg	slovenski
+in	mte:Cc	in
+hrvaške	mte:Agpfsg	hrvaški
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+in	mte:Cc	in
+Ivo	mte:Npmsn	Ivo
+Sanader	mte:Npmsn	Sanader
+pred	mte:Si	pred
+časom	mte:Ncmsi	čas
+prišla	mte:Vmep-dm	priti
+do	mte:Sg	do
+dogovora	mte:Ncmsg	dogovor
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+rešitev	mte:Ncfsa	rešitev
+poiskati	mte:Vmen	poiskati
+s	mte:Si	z
+pomočjo	mte:Ncfsi	pomoč
+tretjega	mte:Mlomsg	tretji
+.	mte:Z	.
+"	mte:Z	"
+Katera	mte:Pq-fsn	kateri
+oseba	mte:Ncfsn	oseba
+,	mte:Z	,
+katera	mte:Pq-fsn	kateri
+institucija	mte:Ncfsn	institucija
+to	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+še	mte:Q	še
+niti	mte:Q	niti
+določeno	mte:Appnsn	določen
+niti	mte:Q	niti
+odločeno	mte:Appnsn	odločen
+,	mte:Z	,
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+se	mte:Px------y	se
+bosta	mte:Va-f3d-n	biti
+morali	mte:Vmpp-df	morati
+državi	mte:Ncfdn	država
+sporazumeti	mte:Vmen	sporazumeti
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+ter	mte:Cc	ter
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+potreben	mte:Agpmsnn	potreben
+nek	mte:Pi-msn	nek
+dogovor	mte:Ncmsn	dogovor

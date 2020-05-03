@@ -1,296 +1,328 @@
-token	tag
-Poslansko	Agpnsn
-mesto	Ncnsn
-Mojce	Npfsg
-Kucler	Npfsg
-Dolinar	Npfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-postala	Vmep-sf
-ministrica	Ncfsn
-za	Sa
-visoko	Agpnsa
-šolstvo	Ncnsa
-,	Z
-znanost	Ncfsa
-in	Cc
-tehnologijo	Ncfsa
-,	Z
-pripada	Vmpr3s
-Majdi	Npfsd
-Zupan	Npmsd
-,	Z
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-ugotovila	Vmep-sf
-Državna	Agpfsn
-volilna	Agpfsn
-komisija	Ncfsn
-(	Z
-DVK	Npmsn
-)	Z
-.	Z
-Komisija	Ncfsn
-je	Va-r3s-n
-namreč	Cc
-razveljavila	Vmep-sf
-žreb	Ncmsan
-volilne	Agpfsg
-komisije	Ncfsg
-tretje	Mlofsg
-volilne	Agpfsg
-enote	Ncfsg
-,	Z
-po	Sl
-katerem	Pq-msl
-bi	Va-c
-izpraznjeno	Appnsa
-poslansko	Agpnsa
-mesto	Ncnsa
-NSi	Npfsg
-zasedel	Vmep-sm
-Anton	Npmsn
-Zakrajšek	Npmsn
-.	Z
-Ker	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-poslanka	Ncfsn
-NSi	Npfsn
-Mojca	Npfsn
-Kucler	Npfsn
-Dolinar	Npfsn
-imenovana	Appfsn
-za	Sa
-ministrico	Ncfsa
-,	Z
-se	Px------y
-je	Va-r3s-n
-njen	Ps3msnsf
-poslanski	Agpmsny
-sedež	Ncmsn
-izpraznil	Vmep-sm
-.	Z
-Zapletlo	Vmep-sn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-pri	Sl
-določanju	Ncnsl
-njenega	Ps3msgsf
-naslednika	Ncmsg
-,	Z
-saj	Cc
-sta	Va-r3d-n
-Majda	Npfsn
-Zupan	Npmsn
-in	Cc
-Anton	Npmsn
-Zakrajšek	Npmsn
-na	Sl
-volitvah	Ncfpl
-leta	Ncnsg
-2004	Mdc
-na	Sl
-listi	Ncfsl
-NSi	Npfsn
-v	Sl
-tretji	Mlofsl
-volilni	Agpfsl
-enoti	Ncfsl
-prejela	Vmep-dm
-enak	Pi-msa
-delež	Ncmsan
-glasov	Ncmpg
-,	Z
-zaokrožen	Appmsnn
-na	Sa
-dve	Mlcnda
-decimalni	Agpnda
-mesti	Ncnda
-.	Z
-DVK	Npfsn
-je	Va-r3s-n
-zato	Rgp
-volilno	Agpfsa
-komisijo	Ncfsa
-tretje	Mlofsg
-volilne	Agpfsg
-enote	Ncfsg
-pozvala	Vmep-sf
-,	Z
-naj	Cs
-sporoči	Vmer3s
-,	Z
-kdo	Pq-msn
-je	Va-r3s-n
-naslednji	Agpmsny
-na	Sl
-listi	Ncfsl
-za	Sa
-Mojco	Npfsa
-Kucler	Npfsa
-Dolinar	Npfsa
-.	Z
-Komisija	Ncfsn
-volilne	Agpfsg
-enote	Ncfsg
-se	Px------y
-je	Va-r3s-n
-nato	Rgp
-odločila	Vmep-sf
-,	Z
-da	Cs
-imata	Vmpr3d-n
-Zupanova	Aspmsn
-in	Cc
-Zakrajšek	Npmsn
-enak	Pi-msn
-izid	Ncmsn
-in	Cc
-da	Cs
-se	Px------y
-med	Si
-njima	Pp3mdi
-opravi	Vmer3s
-žreb	Ncmsan
-.	Z
-Ta	Pd-msn
-pa	Cc
-je	Va-r3s-n
-določil	Vmep-sm
-,	Z
-naj	Cs
-poslansko	Agpnsa
-mesto	Ncnsa
-zasede	Vmer3s
-Zakrajšek	Npmsn
-.	Z
-RVK	Npmsn
-:	Z
-Zakon	Ncmsn
-ne	Q
-določa	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-mora	Vmpr3s
-delež	Ncmsan
-prejetih	Appmpg
-glasov	Ncmpg
-zaokrožiti	Vmen
-na	Sa
-dve	Mlcfda
-decimalki	Ncfda
-Državna	Agpfsn
-volilna	Agpfsn
-komisija	Ncfsn
-pa	Cc
-je	Va-r3s-n
-danes	Rgp
-žreb	Ncmsan
-razveljavila	Vmep-sf
-,	Z
-saj	Cc
-zakonodaja	Ncfsn
-nikjer	Rgp
-ne	Q
-določa	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-mora	Vmpr3s
-delež	Ncmsan
-prejetih	Appmpg
-glasov	Ncmpg
-zaokroževati	Vmpn
-na	Sa
-dve	Mlcnda
-decimalni	Agpnda
-števili	Ncnda
-,	Z
-izid	Ncmsn
-pa	Cc
-se	Px------y
-ugotavlja	Vmpr3s
-na	Sl
-podlagi	Ncfsl
-deleža	Ncmsg
-.	Z
-Če	Cs
-bi	Va-c
-odstotek	Ncmsan
-glasov	Ncmpg
-zaokrožili	Vmep-pm
-na	Sa
-štiri	Mlcfpa
-decimalke	Ncfpa
-,	Z
-pa	Cc
-ima	Vmpr3s-n
-prednost	Ncfsa
-Zupanova	Aspfsn
-.	Z
-Prejela	Vmep-sf
-je	Va-r3s-n
-namreč	Cc
-14,1403	Mdc
-odstotka	Ncmsg
-glasov	Ncmpg
-,	Z
-Zakrajšek	Npmsn
-pa	Cc
-14,1356	Mdc
-odstotka	Ncmsg
-.	Z
-Upokojenka	Ncfsn
-Zupanova	Aspfsn
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-osem	Mlc-pa
-dni	Ncmpg
-časa	Ncmsg
-,	Z
-da	Cs
-državni	Agpfsd
-volilni	Agpfsd
-komisiji	Ncfsd
-poda	Vmbr3s
-svoje	Px-nsa
-soglasje	Ncnsa
-,	Z
-je	Va-r3s-n
-že	Q
-bila	Va-p-sf
-poslanka	Ncfsn
-v	Sl
-prejšnjem	Agpmsl
-mandatu	Ncmsl
-državnega	Agpmsg
-zbora	Ncmsg
-,	Z
-Zakrajšek	Npmsn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-po	Sl
-zadnjih	Agpfpl
-državnozborskih	Agpfpl
-volitvah	Ncfpl
-leta	Ncnsg
-2004	Mdc
-odločil	Vmep-sm
-za	Sa
-izstop	Ncmsan
-iz	Sg
-stranke	Ncfsg
-NSi	Npfsg
-in	Cc
-prestopil	Vmep-sm
-k	Sd
-SDS	Npfsd
-.	Z
+token	tag	lemma
+Poslansko	mte:Agpnsn	poslanski
+mesto	mte:Ncnsn	mesto
+Mojce	mte:Npfsg	Mojca
+Kucler	mte:Npfsg	Kucler
+Dolinar	mte:Npfsg	Dolinar
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+postala	mte:Vmep-sf	postati
+ministrica	mte:Ncfsn	ministrica
+za	mte:Sa	za
+visoko	mte:Agpnsa	visok
+šolstvo	mte:Ncnsa	šolstvo
+,	mte:Z	,
+znanost	mte:Ncfsa	znanost
+in	mte:Cc	in
+tehnologijo	mte:Ncfsa	tehnologija
+,	mte:Z	,
+pripada	mte:Vmpr3s	pripadati
+Majdi	mte:Npfsd	Majda
+Zupan	mte:Npmsd	Zupan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+ugotovila	mte:Vmep-sf	ugotoviti
+Državna	mte:Agpfsn	državen
+volilna	mte:Agpfsn	volilen
+komisija	mte:Ncfsn	komisija
+(	mte:Z	(
+DVK	mte:Npmsn	DVK
+)	mte:Z	)
+.	mte:Z	.
+Komisija	mte:Ncfsn	komisija
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+razveljavila	mte:Vmep-sf	razveljaviti
+žreb	mte:Ncmsan	žreb
+volilne	mte:Agpfsg	volilen
+komisije	mte:Ncfsg	komisija
+tretje	mte:Mlofsg	tretji
+volilne	mte:Agpfsg	volilen
+enote	mte:Ncfsg	enota
+,	mte:Z	,
+po	mte:Sl	po
+katerem	mte:Pq-msl	kateri
+bi	mte:Va-c	biti
+izpraznjeno	mte:Appnsa	izpraznjen
+poslansko	mte:Agpnsa	poslanski
+mesto	mte:Ncnsa	mesto
+NSi	mte:Npfsg	NSi
+zasedel	mte:Vmep-sm	zasesti
+Anton	mte:Npmsn	Anton
+Zakrajšek	mte:Npmsn	Zakrajšek
+.	mte:Z	.
+Ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+poslanka	mte:Ncfsn	poslanka
+NSi	mte:Npfsn	NSi
+Mojca	mte:Npfsn	Mojca
+Kucler	mte:Npfsn	Kucler
+Dolinar	mte:Npfsn	Dolinar
+imenovana	mte:Appfsn	imenovan
+za	mte:Sa	za
+ministrico	mte:Ncfsa	ministrica
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+njen	mte:Ps3msnsf	njen
+poslanski	mte:Agpmsny	poslanski
+sedež	mte:Ncmsn	sedež
+izpraznil	mte:Vmep-sm	izprazniti
+.	mte:Z	.
+Zapletlo	mte:Vmep-sn	zaplesti
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+določanju	mte:Ncnsl	določanje
+njenega	mte:Ps3msgsf	njen
+naslednika	mte:Ncmsg	naslednik
+,	mte:Z	,
+saj	mte:Cc	saj
+sta	mte:Va-r3d-n	biti
+Majda	mte:Npfsn	Majda
+Zupan	mte:Npmsn	Zupan
+in	mte:Cc	in
+Anton	mte:Npmsn	Anton
+Zakrajšek	mte:Npmsn	Zakrajšek
+na	mte:Sl	na
+volitvah	mte:Ncfpl	volitev
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+na	mte:Sl	na
+listi	mte:Ncfsl	list
+NSi	mte:Npfsn	NSi
+v	mte:Sl	v
+tretji	mte:Mlofsl	tretji
+volilni	mte:Agpfsl	volilen
+enoti	mte:Ncfsl	enota
+prejela	mte:Vmep-dm	prejeti
+enak	mte:Pi-msa	enak
+delež	mte:Ncmsan	delež
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+zaokrožen	mte:Appmsnn	zaokrožen
+na	mte:Sa	na
+dve	mte:Mlcnda	dva
+decimalni	mte:Agpnda	decimalen
+mesti	mte:Ncnda	mesto
+.	mte:Z	.
+DVK	mte:Npfsn	DVK
+je	mte:Va-r3s-n	biti
+zato	mte:Rgp	zato
+volilno	mte:Agpfsa	volilen
+komisijo	mte:Ncfsa	komisija
+tretje	mte:Mlofsg	tretji
+volilne	mte:Agpfsg	volilen
+enote	mte:Ncfsg	enota
+pozvala	mte:Vmep-sf	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+sporoči	mte:Vmer3s	sporočiti
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+je	mte:Va-r3s-n	biti
+naslednji	mte:Agpmsny	naslednji
+na	mte:Sl	na
+listi	mte:Ncfsl	list
+za	mte:Sa	za
+Mojco	mte:Npfsa	Mojco
+Kucler	mte:Npfsa	Kucler
+Dolinar	mte:Npfsa	Dolinar
+.	mte:Z	.
+Komisija	mte:Ncfsn	komisija
+volilne	mte:Agpfsg	volilen
+enote	mte:Ncfsg	enota
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+odločila	mte:Vmep-sf	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+imata	mte:Vmpr3d-n	imeti
+Zupanova	mte:Aspmsn	zupanov
+in	mte:Cc	in
+Zakrajšek	mte:Npmsn	Zakrajšek
+enak	mte:Pi-msn	enak
+izid	mte:Ncmsn	izid
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+med	mte:Si	med
+njima	mte:Pp3mdi	on
+opravi	mte:Vmer3s	opraviti
+žreb	mte:Ncmsan	žreb
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+določil	mte:Vmep-sm	določilo
+,	mte:Z	,
+naj	mte:Cs	naj
+poslansko	mte:Agpnsa	poslanski
+mesto	mte:Ncnsa	mesto
+zasede	mte:Vmer3s	zasesti
+Zakrajšek	mte:Npmsn	Zakrajšek
+.	mte:Z	.
+RVK	mte:Npmsn	RVK
+:	mte:Z	:
+Zakon	mte:Ncmsn	zakon
+ne	mte:Q	ne
+določa	mte:Vmpr3s	določati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+delež	mte:Ncmsan	delež
+prejetih	mte:Appmpg	prejet
+glasov	mte:Ncmpg	glas
+zaokrožiti	mte:Vmen	zaokrožiti
+na	mte:Sa	na
+dve	mte:Mlcfda	dva
+decimalki	mte:Ncfda	decimalka
+Državna	mte:Agpfsn	državen
+volilna	mte:Agpfsn	volilen
+komisija	mte:Ncfsn	komisija
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+žreb	mte:Ncmsan	žreb
+razveljavila	mte:Vmep-sf	razveljaviti
+,	mte:Z	,
+saj	mte:Cc	saj
+zakonodaja	mte:Ncfsn	zakonodaja
+nikjer	mte:Rgp	nikjer
+ne	mte:Q	ne
+določa	mte:Vmpr3s	določati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+delež	mte:Ncmsan	delež
+prejetih	mte:Appmpg	prejet
+glasov	mte:Ncmpg	glas
+zaokroževati	mte:Vmpn	zaokroževati
+na	mte:Sa	na
+dve	mte:Mlcnda	dva
+decimalni	mte:Agpnda	decimalen
+števili	mte:Ncnda	število
+,	mte:Z	,
+izid	mte:Ncmsn	izid
+pa	mte:Cc	pa
+se	mte:Px------y	se
+ugotavlja	mte:Vmpr3s	ugotavljati
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+deleža	mte:Ncmsg	delež
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+odstotek	mte:Ncmsan	odstotek
+glasov	mte:Ncmpg	glas
+zaokrožili	mte:Vmep-pm	zaokrožiti
+na	mte:Sa	na
+štiri	mte:Mlcfpa	štirje
+decimalke	mte:Ncfpa	decimalka
+,	mte:Z	,
+pa	mte:Cc	pa
+ima	mte:Vmpr3s-n	imeti
+prednost	mte:Ncfsa	prednost
+Zupanova	mte:Aspfsn	zupanov
+.	mte:Z	.
+Prejela	mte:Vmep-sf	prejeti
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+14,1403	mte:Mdc	14,1403
+odstotka	mte:Ncmsg	odstotek
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+Zakrajšek	mte:Npmsn	Zakrajšek
+pa	mte:Cc	pa
+14,1356	mte:Mdc	14,1356
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Upokojenka	mte:Ncfsn	upokojenka
+Zupanova	mte:Aspfsn	zupanov
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+osem	mte:Mlc-pa	osem
+dni	mte:Ncmpg	dan
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+da	mte:Cs	da
+državni	mte:Agpfsd	državen
+volilni	mte:Agpfsd	volilen
+komisiji	mte:Ncfsd	komisija
+poda	mte:Vmbr3s	podati
+svoje	mte:Px-nsa	svoj
+soglasje	mte:Ncnsa	soglasje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+bila	mte:Va-p-sf	biti
+poslanka	mte:Ncfsn	poslanka
+v	mte:Sl	v
+prejšnjem	mte:Agpmsl	prejšnji
+mandatu	mte:Ncmsl	mandat
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+,	mte:Z	,
+Zakrajšek	mte:Npmsn	Zakrajšek
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+zadnjih	mte:Agpfpl	zadnji
+državnozborskih	mte:Agpfpl	državnozborski
+volitvah	mte:Ncfpl	volitev
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+odločil	mte:Vmep-sm	odločiti
+za	mte:Sa	za
+izstop	mte:Ncmsa	izstop
+iz	mte:Sg	iz
+stranke	mte:Ncfsg	stranka
+NSi	mte:Npfsg	NSi
+in	mte:Cc	in
+prestopil	mte:Vmep-sm	prestopiti
+k	mte:Sd	k
+SDS	mte:Npfsd	SDS
+.	mte:Z	.
+Predstavniki	mte:Ncmpn	predstavnik
+NSi	mte:Npfsg	NSi
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+na	mte:Sa	na
+sklep	mte:Ncmsan	sklep
+volilne	mte:Agpfsg	volilen
+komisije	mte:Ncfsg	komisija
+volilne	mte:Agpfsg	volilen
+enote	mte:Ncfsg	enota
+podali	mte:Vmbp-pm	podati
+ugovor	mte:Ncmsan	ugovor
+,	mte:Z	,
+a	mte:Cc	a
+ga	mte:Pp3msa--y	on
+DVK	mte:Npfsn	DVK
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+ni	mte:Va-r3s-y	biti
+obravnavala	mte:Vmpp-sf	obravnavati
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+odločila	mte:Vmep-sf	odločiti
+za	mte:Sa	za
+razveljavitev	mte:Ncfsa	razveljavitev
+žreba	mte:Ncmsg	žreba

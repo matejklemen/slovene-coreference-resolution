@@ -1,229 +1,247 @@
-token	tag
-Raziskava	Ncfsn
-je	Va-r3s-n
-pokazala	Vmep-sf
-,	Z
-da	Cs
-sta	Va-r3d-n
-slovenski	Agpndn
-gradbišči	Ncndn
-pri	Sl
-Vrhniki	Npfsl
-in	Cc
-Senožečah	Appfpl
-med	Si
-najslabše	Rgs
-zavarovanimi	Appfpi
-v	Sl
-Evropi	Npfsl
-Več	Rgc
-o	Sl
-raziskavi	Ncfsl
-50	Mdc
-gradbišč	Ncnpg
-v	Sl
-11	Mdc
-evropskih	Agpfpl
-državah	Ncfpl
-,	Z
-po	Sl
-katerih	Pq-mpl
-je	Va-r3s-n
-Slovenija	Npfsn
-na	Sl
-zadnjem	Agpnsl
-mestu	Ncnsl
-,	Z
-si	Px---d--y
-lahko	Rgp
-preberete	Vmer2p
-v	Sl
-članku	Ncmsl
-raziskovalca	Ncmsg
-(	Z
-v	Sl
-angleščini	Ncfsl
-)	Z
-Vir	Ncmsn
-:	Z
-EuroTest	Npmsn
-Mobility	Npmsn
-Slovenski	Agpnsn
-gradbišči	Ncnsn
-na	Sl
-avtocesti	Ncfsl
-Ljubljana	Npfsn
--	Z
-Koper	Npmsn
-pri	Sl
-Vrhniki	Npfsl
-in	Cc
-pri	Sl
-Senožečah	Npnpl
-sta	Va-r3d-n
-drugo	Mlpnsn
-oziroma	Cc
-tretje	Mlonsn
-najslabše	Agsnsn
-zavarovano	Appnsn
-gradbišče	Ncnsn
-v	Sl
-Evropi	Npfsl
-,	Z
-je	Va-r3s-n
-pokazala	Vmep-sf
-raziskava	Ncfsn
-50	Mdc
-gradbišč	Ncnpg
-v	Sl
-11	Mdc
-evropskih	Agpfpl
-državah	Ncfpl
-.	Z
-Raziskavo	Ncfsa
-je	Va-r3s-n
-julija	Ncmsg
-opravilo	Ncnsn
-16	Mdc
-avtomobilskih	Agpmpg
-klubov	Ncmpg
-v	Sl
-Evropi	Npfsl
-,	Z
-sodelovala	Vmpp-sf
-je	Va-r3s-n
-tudi	Q
-Avto	Ncmsn
-moto	Ncmsn
-zveza	Ncfsn
-Slovenije	Npfsg
-(	Z
-AMZS	Npmsn
-)	Z
-.	Z
-Slovenija	Npfsn
-se	Px------y
-je	Va-r3s-n
-odrezala	Vmep-sf
-najslabše	Rgs
-,	Z
-Anglija	Npfsn
-najboljše	Agsfsn
-Raziskava	Ncfsn
-je	Va-r3s-n
-zajemala	Vmpp-sf
-gradbišča	Ncnsg
-v	Sl
-Avstriji	Npfsl
-,	Z
-Švici	Npfsl
-,	Z
-Nemčiji	Npfsl
-,	Z
-na	Sl
-Danskem	Npnsl
-,	Z
-Španiji	Npfsl
-,	Z
-Franciji	Npfsl
-,	Z
-Veliki	Agpfsl
-Britaniji	Npfsl
-,	Z
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-Italiji	Npfsl
-,	Z
-Sloveniji	Npfsl
-in	Cc
-na	Sl
-Nizozemskem	Agpnsl
-.	Z
-Slovenija	Npfsn
-se	Px------y
-je	Va-r3s-n
-z	Si
-dvema	Mlcndi
-gradbiščema	Ncndi
-na	Sl
-začetku	Ncmsl
-lestvice	Ncfsg
-med	Si
-državami	Ncfpi
-odrezala	Vmep-sf
-najslabše	Rgs
-.	Z
-Najboljša	Agsfsn
-so	Va-r3p-n
-bila	Va-p-pn
-po	Sl
-raziskavi	Ncfsl
-gradbišča	Ncnsg
-v	Sl
-Angliji	Npfsl
-.	Z
-Največje	Agsfsg
-pomanjkljivosti	Ncfsg
-so	Va-r3p-n
-pri	Sl
-varnostni	Agpfsl
-opremi	Ncfsl
-in	Cc
-napravah	Ncfpl
-V	Sl
-Sloveniji	Npfsl
-so	Va-r3p-n
-največje	Agsfpn
-pomanjkljivosti	Ncfpn
-pri	Sl
-varnostni	Agpfsl
-opremi	Ncfsl
-in	Cc
-napravah	Ncfpl
-,	Z
-je	Va-r3s-n
-danes	Rgp
-ob	Sl
-predstavitvi	Ncfsl
-raziskave	Ncfsg
-povedal	Vmep-sm
-odgovorni	Agpmsny
-urednik	Ncmsn
-Motorevije	Npfsg
-France	Npmsn
-Kmetič	Npmsn
-.	Z
-Marsikje	Rgp
-ni	Va-r3s-y
-odstavnih	Agpfpg
-niš	Ncfpg
-ali	Cc
-vsaj	Q
-zasilnih	Agpmpg
-prostorov	Ncmpg
-,	Z
-kjer	Cs
-se	Px------y
-lahko	Rgp
-vozniki	Ncmpn
-ustavijo	Vmer3p
-ob	Sl
-okvarah	Ncfpl
-vozil	Ncnpg
-,	Z
-voznikom	Ncmpd
-tudi	Q
-ni	Va-r3s-y
-na	Sa
-voljo	Ncfsa
-telefonov	Ncmpg
-za	Sa
-klic	Ncmsan
-v	Sl
-sili	Ncfsl
-,	Z
-je	Va-r3s-n
-nadaljeval	Vmpp-sm
-Kmetič	Npmsn
-.	Z
+token	tag	lemma
+Raziskava	mte:Ncfsn	raziskava
+je	mte:Va-r3s-n	biti
+pokazala	mte:Vmep-sf	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+slovenski	mte:Agpndn	slovenski
+gradbišči	mte:Ncndn	gradbišče
+pri	mte:Sl	pri
+Vrhniki	mte:Npfsl	Vrhnika
+in	mte:Cc	in
+Senožečah	mte:Appfpl	senožeč
+med	mte:Si	med
+najslabše	mte:Rgs	slabo
+zavarovanimi	mte:Appfpi	zavarovan
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+Več	mte:Rgc	več
+o	mte:Sl	o
+raziskavi	mte:Ncfsl	raziskava
+50	mte:Mdc	50
+gradbišč	mte:Ncnpg	gradbišče
+v	mte:Sl	v
+11	mte:Mdc	11
+evropskih	mte:Agpfpl	evropski
+državah	mte:Ncfpl	država
+,	mte:Z	,
+po	mte:Sl	po
+katerih	mte:Pq-mpl	kateri
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+na	mte:Sl	na
+zadnjem	mte:Agpnsl	zadnji
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+si	mte:Px---d--y	se
+lahko	mte:Rgp	lahko
+preberete	mte:Vmer2p	prebrati
+v	mte:Sl	v
+članku	mte:Ncmsl	članek
+raziskovalca	mte:Ncmsg	raziskovalec
+(	mte:Z	(
+v	mte:Sl	v
+angleščini	mte:Ncfsl	angleščina
+)	mte:Z	)
+Vir	mte:Ncmsn	vir
+:	mte:Z	:
+EuroTest	mte:Npmsn	Eurotest
+Mobility	mte:Npmsn	Mobility
+Slovenski	mte:Agpnsn	slovenski
+gradbišči	mte:Ncnsn	gradbišče
+na	mte:Sl	na
+avtocesti	mte:Ncfsl	avtocesta
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Koper	mte:Npmsn	Koper
+pri	mte:Sl	pri
+Vrhniki	mte:Npfsl	Vrhnika
+in	mte:Cc	in
+pri	mte:Sl	pri
+Senožečah	mte:Npnpl	Senožeče
+sta	mte:Va-r3d-n	biti
+drugo	mte:Mlpnsn	drug
+oziroma	mte:Cc	oziroma
+tretje	mte:Mlonsn	tretji
+najslabše	mte:Agsnsn	slabo
+zavarovano	mte:Appnsn	zavarovan
+gradbišče	mte:Ncnsn	gradbišče
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pokazala	mte:Vmep-sf	pokazati
+raziskava	mte:Ncfsn	raziskava
+50	mte:Mdc	50
+gradbišč	mte:Ncnpg	gradbišče
+v	mte:Sl	v
+11	mte:Mdc	11
+evropskih	mte:Agpfpl	evropski
+državah	mte:Ncfpl	država
+.	mte:Z	.
+Raziskavo	mte:Ncfsa	raziskava
+je	mte:Va-r3s-n	biti
+julija	mte:Ncmsg	julij
+opravilo	mte:Ncnsn	opravilo
+16	mte:Mdc	16
+avtomobilskih	mte:Agpmpg	avtomobilski
+klubov	mte:Ncmpg	klub
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+sodelovala	mte:Vmpp-sf	sodelovati
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+Avto	mte:Ncmsn	avto
+moto	mte:Ncmsn	moto
+zveza	mte:Ncfsn	zveza
+Slovenije	mte:Npfsg	Slovenija
+(	mte:Z	(
+AMZS	mte:Npmsn	AMZS
+)	mte:Z	)
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+odrezala	mte:Vmep-sf	odrezati
+najslabše	mte:Rgs	slabo
+,	mte:Z	,
+Anglija	mte:Npfsn	Anglija
+najboljše	mte:Agsfsn	dober
+Raziskava	mte:Ncfsn	raziskava
+je	mte:Va-r3s-n	biti
+zajemala	mte:Vmpp-sf	zajemati
+gradbišča	mte:Ncnsg	gradbišče
+v	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+,	mte:Z	,
+Švici	mte:Npfsl	Švica
+,	mte:Z	,
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+na	mte:Sl	na
+Danskem	mte:Npnsl	Dansko
+,	mte:Z	,
+Španiji	mte:Npfsl	Španija
+,	mte:Z	,
+Franciji	mte:Npfsl	Francija
+,	mte:Z	,
+Veliki	mte:Agpfsl	velik
+Britaniji	mte:Npfsl	Britanija
+,	mte:Z	,
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+Italiji	mte:Npfsl	Italija
+,	mte:Z	,
+Sloveniji	mte:Npfsl	Slovenija
+in	mte:Cc	in
+na	mte:Sl	na
+Nizozemskem	mte:Npnsl	Nizozemsko
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+dvema	mte:Mlcndi	dva
+gradbiščema	mte:Ncndi	gradbišče
+na	mte:Sl	na
+začetku	mte:Ncmsl	začetek
+lestvice	mte:Ncfsg	lestvica
+med	mte:Si	med
+državami	mte:Ncfpi	država
+odrezala	mte:Vmep-sf	odrezati
+najslabše	mte:Rgs	slabo
+.	mte:Z	.
+Najboljša	mte:Agsfsn	dober
+so	mte:Va-r3p-n	biti
+bila	mte:Va-p-pn	biti
+po	mte:Sl	po
+raziskavi	mte:Ncfsl	raziskava
+gradbišča	mte:Ncnsg	gradbišče
+v	mte:Sl	v
+Angliji	mte:Npfsl	Anglija
+.	mte:Z	.
+Največje	mte:Agsfsg	velik
+pomanjkljivosti	mte:Ncfsg	pomanjkljivost
+so	mte:Va-r3p-n	biti
+pri	mte:Sl	pri
+varnostni	mte:Agpfsl	varnosten
+opremi	mte:Ncfsl	oprema
+in	mte:Cc	in
+napravah	mte:Ncfpl	naprava
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+so	mte:Va-r3p-n	biti
+največje	mte:Agsfpn	velik
+pomanjkljivosti	mte:Ncfpn	pomanjkljivost
+pri	mte:Sl	pri
+varnostni	mte:Agpfsl	varnosten
+opremi	mte:Ncfsl	oprema
+in	mte:Cc	in
+napravah	mte:Ncfpl	naprava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+ob	mte:Sl	ob
+predstavitvi	mte:Ncfsl	predstavitev
+raziskave	mte:Ncfsg	raziskava
+povedal	mte:Vmep-sm	povedati
+odgovorni	mte:Agpmsny	odgovoren
+urednik	mte:Ncmsn	urednik
+Motorevije	mte:Npfsg	Motorevija
+France	mte:Npmsn	France
+Kmetič	mte:Npmsn	Kmetič
+.	mte:Z	.
+Marsikje	mte:Rgp	marsikje
+ni	mte:Va-r3s-y	biti
+odstavnih	mte:Agpfpg	odstaven
+niš	mte:Ncfpg	niša
+ali	mte:Cc	ali
+vsaj	mte:Q	vsaj
+zasilnih	mte:Agpmpg	zasilen
+prostorov	mte:Ncmpg	prostor
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+vozniki	mte:Ncmpn	voznik
+ustavijo	mte:Vmer3p	ustaviti
+ob	mte:Sl	ob
+okvarah	mte:Ncfpl	okvara
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+voznikom	mte:Ncmpd	voznik
+tudi	mte:Q	tudi
+ni	mte:Va-r3s-y	biti
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+telefonov	mte:Ncmpg	telefon
+za	mte:Sa	za
+klic	mte:Ncmsan	klic
+v	mte:Sl	v
+sili	mte:Ncfsl	sila
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+nadaljeval	mte:Vmpp-sm	nadaljevati
+Kmetič	mte:Npmsn	Kmetič
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+so	mte:Va-r3p-n	biti
+opozorila	mte:Ncnpn	opozorilo
+o	mte:Sl	o
+meritvah	mte:Ncfpl	meritev
+hitrosti	mte:Ncfsg	hitrost
+postavljena	mte:Appfpn	postavljen
+zelo	mte:Rgp	zelo
+na	mte:Sa	na
+redko	mte:Rgp	redko
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+sploh	mte:Q	sploh
+ne	mte:Q	ne
+,	mte:Z	,
+še	mte:Q	še
+dodaja	mte:Vmpr3s	dodajati

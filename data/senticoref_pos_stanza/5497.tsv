@@ -1,171 +1,231 @@
-token	tag
-Razlogov	Ncmpg
-za	Sa
-nadaljevanje	Ncnsa
-pogovorov	Ncmpg
-o	Sl
-vstopu	Ncmsl
-SLS	Npfsg
-v	Sa
-koalicijo	Ncfsa
-ni	Va-r3s-y
-,	Z
-saj	Cc
-je	Va-r3s-n
-SLS	Npfsn
-svoje	Px-nsa
-negativno	Agpnsa
-stališče	Ncnsa
-do	Sg
-tega	Pd-nsg
-vprašanja	Ncnsg
-že	Q
-sporočila	Vmep-sf
-,	Z
-meni	Vmpr3s
-predsednik	Ncmsn
-stranke	Ncfsg
-SLS	Npfsn
-Radovan	Npmsn
-Žerjav	Npmsn
-Zoran	Npmsn
-Janković	Npmsn
-,	Z
-predsednik	Ncmsn
-Pozitivne	Agpfsg
-Slovenije	Npfsg
-je	Va-r3s-n
-danes	Rgp
-dopoldne	Rgp
-prejel	Vmep-sm
-pismo	Ncnsa
-predsednika	Ncmsg
-SLS	Npfsg
-Radovana	Npmsg
-Žerjava	Npmsg
-,	Z
-v	Sl
-katerem	Pq-msl
-se	Px------y
-je	Va-r3s-n
-SLS	Npfsn
-zahvalila	Vmep-sf
-Jankovićevemu	Aspnsd
-povabilu	Ncnsd
-na	Sa
-ponovni	Agpmsay
-pogovor	Ncmsan
-z	Si
-Žerjavom	Npmsi
-,	Z
-ki	Cs
-pa	Cc
-se	Px------y
-ga	Pp3msa--y
-slednji	Agpmsny
-ne	Q
-bo	Va-f3s-n
-udeležil	Vmep-sm
-.	Z
-"	Z
-SLS	Npfsn
-je	Va-r3s-n
-do	Sg
-vprašanja	Ncnsg
-o	Sl
-vstopu	Ncmsl
-v	Sa
-koalicijo	Ncfsa
-že	Q
-izrazila	Vmep-sf
-svoje	Px-nsa
-negativno	Agpnsa
-stališče	Ncnsa
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-izrazili	Vmep-pm
-tudi	Q
-pristojni	Agpmpn
-organi	Ncmpn
-v	Sl
-stranki	Ncfsl
-,	Z
-"	Z
-so	Va-r3p-n
-v	Sl
-sporočilu	Ncnsl
-za	Sa
-javnost	Ncfsa
-zapisali	Vmep-pm
-v	Sl
-SLS	Npfsl
-.	Z
-SLS	Npfsn
-pripravljen	Appmsnn
-podpreti	Vmen
-nujne	Agpmpa
-projekte	Ncmpa
-Žerjav	Npmsn
-je	Va-r3s-n
-v	Sl
-dopisu	Ncmsl
-Jankoviću	Npmsl
-tudi	Q
-zaželel	Vmep-sm
-uspešno	Agpnsa
-nadaljevanje	Ncnsa
-pogovorov	Ncmpg
-z	Si
-morebitnimi	Agpmpi
-koalicijskimi	Agpmpi
-partnerji	Ncmpi
-in	Cc
-čimprejšnji	Agpmsny
-zaključek	Ncmsan
-le	Q
--	Z
-teh	Pd-npg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-še	Q
-zapisal	Vmep-sm
-Žerjav	Npmsn
-,	Z
-se	Px------y
-bo	Va-f3s-n
-SLS	Npfsn
-po	Sl
-izvolitvi	Ncfsl
-mandatarja	Ncmsg
-in	Cc
-sestavi	Ncfsl
-vladne	Agpfsg
-koalicije	Ncfsg
-pripravljena	Appfsn
-pogovoriti	Vmen
-o	Sl
-sodelovanju	Ncnsl
-SLS	Npfsn
-pri	Sl
-nujnih	Agpmpl
-projektih	Ncmpl
-za	Sa
-Slovenijo	Npfsa
-,	Z
-ki	Cs
-so	Va-r3p-n
-pomembni	Agpmpn
-za	Sa
-izhod	Ncmsan
-iz	Sg
-težav	Ncfpg
-,	Z
-v	Sl
-katerih	Pq-mpl
-se	Px------y
-trenutno	Rgp
-nahajamo	Vmpr1p
-.	Z
+token	tag	lemma
+Razlogov	mte:Ncmpg	razlog
+za	mte:Sa	za
+nadaljevanje	mte:Ncnsa	nadaljevanje
+pogovorov	mte:Ncmpg	pogovor
+o	mte:Sl	o
+vstopu	mte:Ncmsl	vstop
+SLS	mte:Npfsg	SLS
+v	mte:Sa	v
+koalicijo	mte:Ncfsa	koalicija
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+SLS	mte:Npfsn	SLS
+svoje	mte:Px-nsa	svoj
+negativno	mte:Agpnsa	negativen
+stališče	mte:Ncnsa	stališče
+do	mte:Sg	do
+tega	mte:Pd-nsg	ta
+vprašanja	mte:Ncnsg	vprašanje
+že	mte:Q	že
+sporočila	mte:Vmep-sf	sporočiti
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+predsednik	mte:Ncmsn	predsednik
+stranke	mte:Ncfsg	stranka
+SLS	mte:Npfsn	SLS
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+Pozitivne	mte:Agpfsg	pozitiven
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+dopoldne	mte:Rgp	dopoldne
+prejel	mte:Vmep-sm	prejeti
+pismo	mte:Ncnsa	pismo
+predsednika	mte:Ncmsg	predsednik
+SLS	mte:Npfsg	SLS
+Radovana	mte:Npmsg	Radovan
+Žerjava	mte:Npmsg	Žerjava
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+SLS	mte:Npfsn	SLS
+zahvalila	mte:Vmep-sf	zahvaliti
+Jankovićevemu	mte:Aspnsd	Jankovićev
+povabilu	mte:Ncnsd	povabilo
+na	mte:Sa	na
+ponovni	mte:Agpmsay	ponoven
+pogovor	mte:Ncmsan	pogovor
+z	mte:Si	z
+Žerjavom	mte:Npmsi	Žerjav
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+se	mte:Px------y	se
+ga	mte:Pp3msa--y	on
+slednji	mte:Agpmsny	slednji
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+udeležil	mte:Vmep-sm	udeležiti
+.	mte:Z	.
+"	mte:Z	"
+SLS	mte:Npfsn	SLS
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+vprašanja	mte:Ncnsg	vprašanje
+o	mte:Sl	o
+vstopu	mte:Ncmsl	vstop
+v	mte:Sa	v
+koalicijo	mte:Ncfsa	koalicija
+že	mte:Q	že
+izrazila	mte:Vmep-sf	izraziti
+svoje	mte:Px-nsa	svoj
+negativno	mte:Agpnsa	negativen
+stališče	mte:Ncnsa	stališče
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+izrazili	mte:Vmep-pm	izraziti
+tudi	mte:Q	tudi
+pristojni	mte:Agpmpn	pristojen
+organi	mte:Ncmpn	organ
+v	mte:Sl	v
+stranki	mte:Ncfsl	stranka
+,	mte:Z	,
+"	mte:Z	"
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+zapisali	mte:Vmep-pm	zapisati
+v	mte:Sl	v
+SLS	mte:Npfsl	SLS
+.	mte:Z	.
+SLS	mte:Npfsn	SLS
+pripravljen	mte:Appmsnn	pripravljen
+podpreti	mte:Vmen	podpreti
+nujne	mte:Agpmpa	nujen
+projekte	mte:Ncmpa	projekt
+Žerjav	mte:Npmsn	Žerjav
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+dopisu	mte:Ncmsl	dopis
+Jankoviću	mte:Npmsl	Janković
+tudi	mte:Q	tudi
+zaželel	mte:Vmep-sm	zaželeti
+uspešno	mte:Agpnsa	uspešen
+nadaljevanje	mte:Ncnsa	nadaljevanje
+pogovorov	mte:Ncmpg	pogovor
+z	mte:Si	z
+morebitnimi	mte:Agpmpi	morebiten
+koalicijskimi	mte:Agpmpi	koalicijski
+partnerji	mte:Ncmpi	partner
+in	mte:Cc	in
+čimprejšnji	mte:Agpmsny	čimprejšnji
+zaključek	mte:Ncmsan	zaključek
+le	mte:Q	le
+-	mte:Z	-
+teh	mte:Pd-npg	ta
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+zapisal	mte:Vmep-sm	zapisati
+Žerjav	mte:Npmsn	Žerjav
+,	mte:Z	,
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+SLS	mte:Npfsn	SLS
+po	mte:Sl	po
+izvolitvi	mte:Ncfsl	izvolitev
+mandatarja	mte:Ncmsg	mandatar
+in	mte:Cc	in
+sestavi	mte:Ncfsl	sestava
+vladne	mte:Agpfsg	vladen
+koalicije	mte:Ncfsg	koalicija
+pripravljena	mte:Appfsn	pripravljen
+pogovoriti	mte:Vmen	pogovoriti
+o	mte:Sl	o
+sodelovanju	mte:Ncnsl	sodelovanje
+SLS	mte:Npfsn	SLS
+pri	mte:Sl	pri
+nujnih	mte:Agpmpl	nujen
+projektih	mte:Ncmpl	projekt
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+pomembni	mte:Agpmpn	pomemben
+za	mte:Sa	za
+izhod	mte:Ncmsan	izhod
+iz	mte:Sg	iz
+težav	mte:Ncfpg	težava
+,	mte:Z	,
+v	mte:Sl	v
+katerih	mte:Pq-mpl	kateri
+se	mte:Px------y	se
+trenutno	mte:Rgp	trenutno
+nahajamo	mte:Vmpr1p	nahajati
+.	mte:Z	.
+SLS	mte:Npfsn	SLS
+do	mte:Sg	do
+danes	mte:Rgp	danes
+pričakuje	mte:Vmpr3s	pričakovati
+opredelitev	mte:Ncfsa	opredelitev
+do	mte:Sg	do
+vlade	mte:Ncfsg	vlada
+ustavne	mte:Agpfsg	ustaven
+večine	mte:Ncfsg	večina
+Hkrati	mte:Rgp	hkrati
+Žerjav	mte:Npmsn	Žerjav
+od	mte:Sg	od
+Jankovića	mte:Npmsg	Janković
+pričakuje	mte:Vmpr3s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+Pozitivni	mte:Agpfsl	pozitiven
+Sloveniji	mte:Npfsl	Slovenija
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+pozivom	mte:Ncmsi	poziv
+političnih	mte:Agpfpg	političen
+strank	mte:Ncfpg	stranka
+Lista	mte:Ncmsg	list
+Virant	mte:Npmsn	Virant
+,	mte:Z	,
+Državljanska	mte:Agpmsg	državljanski
+lista	mte:Ncmsg	list
+Gregorja	mte:Npmsg	Gregor
+Viranta	mte:Npmsg	Virant
+,	mte:Z	,
+Demokratične	mte:Agpfsg	demokratičen
+stranke	mte:Ncfsg	stranka
+upokojencev	mte:Ncmpg	upokojenec
+Slovenije	mte:Npfsg	Slovenija
+(	mte:Z	(
+DeSUS	mte:Npmsn	Desus
+)	mte:Z	)
+in	mte:Cc	in
+SLS	mte:Npfsn	SLS
+,	mte:Z	,
+danes	mte:Rgp	danes
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+dne	mte:Ncmsg	dan
+opredelili	mte:Vmep-pm	opredeliti
+do	mte:Sg	do
+pobude	mte:Ncfsg	pobuda
+za	mte:Sa	za
+oblikovanje	mte:Ncnsa	oblikovanje
+vlade	mte:Ncfsg	vlada
+narodne	mte:Agpfsg	naroden
+enotnosti	mte:Ncfsg	enotnost
+vlade	mte:Ncfsg	vlada
+ustavne	mte:Agpfsg	ustaven
+večine	mte:Ncfsg	večina

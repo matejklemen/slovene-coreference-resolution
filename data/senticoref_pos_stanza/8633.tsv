@@ -1,286 +1,307 @@
-token	tag
-Za	Si
-kulisami	Ncfpi
-alarma	Ncmsg
-,	Z
-da	Cs
-bo	Va-f3s-n
-v	Sl
-koaliciji	Ncfsl
-zavrelo	Vmep-sn
-zaradi	Sg
-LDS	Npfsg
-,	Z
-se	Px------y
-skrivajo	Vmpr3p
-številna	Agpnpn
-resnična	Agpnpn
-nezadovoljstva	Ncnpn
-.	Z
-Denimo	Vmem1p
-v	Sl
-Zaresu	Ncnsl
-,	Z
-kjer	Cs
-se	Px------y
-zdi	Vmpr3s
-,	Z
-da	Cs
-živijo	Vmpr3p
-poslanci	Ncmpn
-in	Cc
-ministri	Ncmpn
-ločeni	Appnpn
-življenji	Ncnpn
-.	Z
-Ministri	Ncmpn
-poslancev	Ncmpg
-ne	Q
-obveščajo	Vmpr3p
-dovolj	Rgp
-,	Z
-pravijo	Vmbr3p
-naši	Ps1mpnp
-viri	Ncmpn
-.	Z
-Nezadovoljstvo	Ncnsa
-LDS	Npfsg
-nad	Si
-Ruplom	Npmsi
-pa	Cc
-podpirajo	Vmpr3p
-nekateri	Pi-mpn
-novi	Agpmpn
-poslanci	Ncmpn
-SD	Npmsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-zelo	Rgp
-kritični	Agpmpn
-do	Sg
-koalicijske	Agpfsg
-partnerice	Ncfsg
-Zares	Rgp
-.	Z
-"	Z
-To	Pd-nsn
-ni	Va-r3s-y
-politična	Agpfsn
-stranka	Ncfsn
-,	Z
-to	Pd-nsn
-je	Va-r3s-n
-interesna	Agpfsn
-skupina	Ncfsn
-,	Z
-"	Z
-se	Px------y
-eden	Mlpmsn
-od	Sg
-poslancev	Ncmpg
-SD	Npfsn
-jezi	Vmpr3s
-zaradi	Sg
-neskromnih	Agpmpg
-apetitov	Ncmpg
-Zaresa	Ncmsg
-do	Sg
-kadrovskega	Agpmsg
-kolača	Ncmsg
-,	Z
-ki	Cs
-presega	Vmpr3s
-uspeh	Ncmsan
-na	Sl
-volitvah	Ncfpl
-.	Z
-Ministri	Ncmpn
-poslancev	Ncmpg
-ne	Q
-obveščajo	Vmpr3p
-dovolj	Rgp
-,	Z
-pravijo	Vmbr3p
-naši	Ps1mpnp
-viri	Ncmpn
-.	Z
-Veto	Ncmsan
-Zaresa	Ncmsg
-Po	Sl
-svojem	Px-msl
-okusu	Ncmsl
-so	Va-r3p-n
-menda	Q
-pokadrovali	Vmpp-pm
-pri	Sl
-Elesu	Npmsl
-.	Z
-Kadrovanje	Ncnsn
-v	Sa
-Kad	Ncmsan
-in	Cc
-Sod	Ncmsan
-prihaja	Vmpr3s
-z	Si
-enotedensko	Agpfsi
-zamudo	Ncfsi
-zaradi	Sg
-koalicijskega	Agpmsg
-veta	Ncmsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-na	Sa
-prvotno	Rgp
-izbrana	Appnpa
-imena	Ncnpa
-dali	Vmep-pm
-v	Sl
-Zaresu	Ncmsl
-.	Z
-V	Sl
-novi	Agpfsl
-vladi	Ncfsl
-so	Va-r3p-n
-številni	Agpmpn
-funkcionarji	Ncmpn
-starih	Agpfpg
-vlad	Ncfpg
-.	Z
-Poleg	Sg
-Dimitrija	Npmsg
-Rupla	Npmsg
-je	Va-r3s-n
-pri	Sl
-Pahorju	Npmsl
-našel	Vmep-sm
-službo	Ncfsa
-nekdanji	Agpmsny
-predsednik	Ncmsn
-parlamenta	Ncmsg
-Jožef	Npmsn
-Školč	Npmsn
-(	Z
-LDS	Npfsn
-)	Z
-,	Z
-direktorica	Ncfsn
-vladnega	Agpmsg
-urada	Ncmsg
-za	Sa
-komuniciranje	Ncnsa
-je	Va-r3s-n
-postala	Vmep-sf
-Veronika	Npfsn
-Stabej	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-pred	Si
-diplomatsko	Agpfsi
-kariero	Ncfsi
-do	Sg
-leta	Ncnsg
-1997	Mdc
-svetovalka	Ncfsn
-pri	Sl
-Janezu	Npmsl
-Drnovšku	Npmsl
-.	Z
-Podobno	Rgp
-kot	Cs
-Valentina	Npfsn
-Flander	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-postala	Vmep-sf
-vodja	Ncmsn
-kabineta	Ncmsg
-finančnega	Agpmsg
-ministra	Ncmsg
-Franceta	Npmsg
-Križaniča	Npmsg
-.	Z
-Za	Sa
-državno	Agpfsa
-sekretarko	Ncfsa
-pa	Cc
-je	Va-r3s-n
-vzel	Vmep-sm
-kar	Rgp
-Heleno	Npfsa
-Kamnar	Npfsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-isto	Pi-fsa
-funkcijo	Ncfsa
-opravljala	Vmpp-sf
-pod	Si
-Antonom	Npmsi
-Ropom	Npmsi
-in	Cc
-Dušanom	Npmsi
-Mramorjem	Npmsi
-.	Z
-Tudi	Q
-na	Sl
-kulturnem	Agpnsl
-ministrstvu	Ncnsl
-je	Va-r3s-n
-državni	Agpmsny
-sekretar	Ncmsn
-nekdanji	Agpmsny
-Drnovškov	Aspmsnn
-svetovalec	Ncmsn
-Stojan	Npmsn
-Pelko	Npmsn
-.	Z
-Državna	Agpfsn
-sekretarka	Ncfsn
-na	Sl
-Ministrstvu	Ncnsl
-za	Sa
-lokalno	Agpfsa
-samoupravo	Ncfsa
-Meta	Npfsn
-Vesel	Agpmsnn
-Valentinčič	Npmsn
-pa	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-v	Sl
-preteklosti	Ncfsl
-generalna	Agpfsn
-sekretarka	Ncfsn
-na	Sl
-Ministrstvu	Ncnsl
-za	Sa
-zdravje	Ncnsa
-.	Z
-Tudi	Q
-strankarsko	Rgp
-lojalnih	Agpmpg
-ne	Q
-manjka	Vmpr3s
-.	Z
-V	Sl
-premierjevem	Aspmsl
-kabinetu	Ncmsl
-sedijo	Vmpr3p
-dolgoletni	Agpmpn
-člani	Ncmpn
-SD	Npfsg
-Rado	Npmsn
-Genorio	Npmsn
-,	Z
-Nataša	Npfsn
-Kovač	Npfsn
-in	Cc
-Miloš	Npmsn
-Pavlica	Npmsn
-.	Z
+token	tag	lemma
+Za	mte:Si	za
+kulisami	mte:Ncfpi	kulisa
+alarma	mte:Ncmsg	alarma
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+koaliciji	mte:Ncfsl	koalicija
+zavrelo	mte:Vmep-sn	zavreti
+zaradi	mte:Sg	zaradi
+LDS	mte:Npfsg	LDS
+,	mte:Z	,
+se	mte:Px------y	se
+skrivajo	mte:Vmpr3p	skrivati
+številna	mte:Agpnpn	številen
+resnična	mte:Agpnpn	resničen
+nezadovoljstva	mte:Ncnpn	nezadovoljstvo
+.	mte:Z	.
+Denimo	mte:Vmem1p	drimovati
+v	mte:Sl	v
+Zaresu	mte:Ncnsl	zares
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+zdi	mte:Vmpr3s	zdeti
+,	mte:Z	,
+da	mte:Cs	da
+živijo	mte:Vmpr3p	živeti
+poslanci	mte:Ncmpn	poslanec
+in	mte:Cc	in
+ministri	mte:Ncmpn	minister
+ločeni	mte:Appnpn	ločen
+življenji	mte:Ncnpn	življenje
+.	mte:Z	.
+Ministri	mte:Ncmpn	minister
+poslancev	mte:Ncmpg	poslanec
+ne	mte:Q	ne
+obveščajo	mte:Vmpr3p	obveščati
+dovolj	mte:Rgp	dovolj
+,	mte:Z	,
+pravijo	mte:Vmbr3p	praviti
+naši	mte:Ps1mpnp	naš
+viri	mte:Ncmpn	vir
+.	mte:Z	.
+Nezadovoljstvo	mte:Ncnsa	nezadovoljstvo
+LDS	mte:Npfsg	LDS
+nad	mte:Si	nad
+Ruplom	mte:Npmsi	Rupel
+pa	mte:Cc	pa
+podpirajo	mte:Vmpr3p	podpirati
+nekateri	mte:Pi-mpn	nekateri
+novi	mte:Agpmpn	nov
+poslanci	mte:Ncmpn	poslanec
+SD	mte:Npmsg	SD
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zelo	mte:Rgp	zelo
+kritični	mte:Agpmpn	kritičen
+do	mte:Sg	do
+koalicijske	mte:Agpfsg	koalicijski
+partnerice	mte:Ncfsg	partnerica
+Zares	mte:Rgp	zares
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+ni	mte:Va-r3s-y	biti
+politična	mte:Agpfsn	političen
+stranka	mte:Ncfsn	stranka
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+interesna	mte:Agpfsn	interesen
+skupina	mte:Ncfsn	skupina
+,	mte:Z	,
+"	mte:Z	"
+se	mte:Px------y	se
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+poslancev	mte:Ncmpg	poslanec
+SD	mte:Npfsn	SD
+jezi	mte:Vmpr3s	jeza
+zaradi	mte:Sg	zaradi
+neskromnih	mte:Agpmpg	neskromen
+apetitov	mte:Ncmpg	apetit
+Zaresa	mte:Ncmsg	zaresa
+do	mte:Sg	do
+kadrovskega	mte:Agpmsg	kadrovski
+kolača	mte:Ncmsg	kolač
+,	mte:Z	,
+ki	mte:Cs	ki
+presega	mte:Vmpr3s	presegati
+uspeh	mte:Ncmsan	uspeh
+na	mte:Sl	na
+volitvah	mte:Ncfpl	volitev
+.	mte:Z	.
+Ministri	mte:Ncmpn	minister
+poslancev	mte:Ncmpg	poslanec
+ne	mte:Q	ne
+obveščajo	mte:Vmpr3p	obveščati
+dovolj	mte:Rgp	dovolj
+,	mte:Z	,
+pravijo	mte:Vmbr3p	praviti
+naši	mte:Ps1mpnp	naš
+viri	mte:Ncmpn	vir
+.	mte:Z	.
+Veto	mte:Ncmsan	veto
+Zaresa	mte:Ncmsg	zaresa
+Po	mte:Sl	po
+svojem	mte:Px-msl	svoj
+okusu	mte:Ncmsl	okus
+so	mte:Va-r3p-n	biti
+menda	mte:Q	menda
+pokadrovali	mte:Vmpp-pm	pokadrovati
+pri	mte:Sl	pri
+Elesu	mte:Npmsl	Eles
+.	mte:Z	.
+Kadrovanje	mte:Ncnsn	kadrovanje
+v	mte:Sa	v
+Kad	mte:Ncmsan	kad
+in	mte:Cc	in
+Sod	mte:Ncmsan	sod
+prihaja	mte:Vmpr3s	prihajati
+z	mte:Si	z
+enotedensko	mte:Agpfsi	enotedenski
+zamudo	mte:Ncfsi	zamuda
+zaradi	mte:Sg	zaradi
+koalicijskega	mte:Agpmsg	koalicijski
+veta	mte:Ncmsg	vet
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+na	mte:Sa	na
+prvotno	mte:Rgp	prvotno
+izbrana	mte:Appnpa	izbran
+imena	mte:Ncnpa	ime
+dali	mte:Vmep-pm	dati
+v	mte:Sl	v
+Zaresu	mte:Ncmsl	zares
+.	mte:Z	.
+V	mte:Sl	v
+novi	mte:Agpfsl	nov
+vladi	mte:Ncfsl	vlada
+so	mte:Va-r3p-n	biti
+številni	mte:Agpmpn	številen
+funkcionarji	mte:Ncmpn	funkcionar
+starih	mte:Agpfpg	star
+vlad	mte:Ncfpg	vlad
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+Dimitrija	mte:Npmsg	Dimitrij
+Rupla	mte:Npmsg	Rupel
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+Pahorju	mte:Npmsl	Pahorje
+našel	mte:Vmep-sm	najti
+službo	mte:Ncfsa	služba
+nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+parlamenta	mte:Ncmsg	parlament
+Jožef	mte:Npmsn	Jožef
+Školč	mte:Npmsn	Školč
+(	mte:Z	(
+LDS	mte:Npfsn	LDS
+)	mte:Z	)
+,	mte:Z	,
+direktorica	mte:Ncfsn	direktorica
+vladnega	mte:Agpmsg	vladen
+urada	mte:Ncmsg	urad
+za	mte:Sa	za
+komuniciranje	mte:Ncnsa	komuniciranje
+je	mte:Va-r3s-n	biti
+postala	mte:Vmep-sf	postati
+Veronika	mte:Npfsn	Veronika
+Stabej	mte:Npfsn	Stabej
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+pred	mte:Si	pred
+diplomatsko	mte:Agpfsi	diplomatski
+kariero	mte:Ncfsi	kariera
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+1997	mte:Mdc	1997
+svetovalka	mte:Ncfsn	svetovalka
+pri	mte:Sl	pri
+Janezu	mte:Npmsl	Janez
+Drnovšku	mte:Npmsl	Drnovšek
+.	mte:Z	.
+Podobno	mte:Rgp	podobno
+kot	mte:Cs	kot
+Valentina	mte:Npfsn	Valentina
+Flander	mte:Npfsn	Flander
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+postala	mte:Vmep-sf	postati
+vodja	mte:Ncmsn	vodja
+kabineta	mte:Ncmsg	kabinet
+finančnega	mte:Agpmsg	finančen
+ministra	mte:Ncmsg	minister
+Franceta	mte:Npmsg	France
+Križaniča	mte:Npmsg	Križanič
+.	mte:Z	.
+Za	mte:Sa	za
+državno	mte:Agpfsa	državen
+sekretarko	mte:Ncfsa	sekretarka
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vzel	mte:Vmep-sm	vzeti
+kar	mte:Rgp	kar
+Heleno	mte:Npfsa	Helena
+Kamnar	mte:Npfsa	Kamnar
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+isto	mte:Pi-fsa	isti
+funkcijo	mte:Ncfsa	funkcija
+opravljala	mte:Vmpp-sf	opravljati
+pod	mte:Si	pod
+Antonom	mte:Npmsi	Anton
+Ropom	mte:Npmsi	Rop
+in	mte:Cc	in
+Dušanom	mte:Npmsi	Dušan
+Mramorjem	mte:Npmsi	Mramor
+.	mte:Z	.
+Tudi	mte:Q	tudi
+na	mte:Sl	na
+kulturnem	mte:Agpnsl	kulturen
+ministrstvu	mte:Ncnsl	ministrstvo
+je	mte:Va-r3s-n	biti
+državni	mte:Agpmsny	državen
+sekretar	mte:Ncmsn	sekretar
+nekdanji	mte:Agpmsny	nekdanji
+Drnovškov	mte:Aspmsnn	Drnovškov
+svetovalec	mte:Ncmsn	svetovalec
+Stojan	mte:Npmsn	Stojan
+Pelko	mte:Npmsn	Pelko
+.	mte:Z	.
+Državna	mte:Agpfsn	državen
+sekretarka	mte:Ncfsn	sekretarka
+na	mte:Sl	na
+Ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+lokalno	mte:Agpfsa	lokalen
+samoupravo	mte:Ncfsa	samouprava
+Meta	mte:Npfsn	Meta
+Vesel	mte:Agpmsnn	vesel
+Valentinčič	mte:Npmsn	Valentinčič
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+generalna	mte:Agpfsn	generalen
+sekretarka	mte:Ncfsn	sekretarka
+na	mte:Sl	na
+Ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+zdravje	mte:Ncnsa	zdravje
+.	mte:Z	.
+Tudi	mte:Q	tudi
+strankarsko	mte:Rgp	strankarski
+lojalnih	mte:Agpmpg	lojalen
+ne	mte:Q	ne
+manjka	mte:Vmpr3s	manjkati
+.	mte:Z	.
+V	mte:Sl	v
+premierjevem	mte:Aspmsl	premierjev
+kabinetu	mte:Ncmsl	kabinet
+sedijo	mte:Vmpr3p	sedeti
+dolgoletni	mte:Agpmpn	dolgoleten
+člani	mte:Ncmpn	član
+SD	mte:Npfsg	SD
+Rado	mte:Npmsn	Rado
+Genorio	mte:Npmsn	Genoria
+,	mte:Z	,
+Nataša	mte:Npfsn	Nataša
+Kovač	mte:Npmsn	Kovač
+in	mte:Cc	in
+Miloš	mte:Npmsn	Miloš
+Pavlica	mte:Npmsn	Pavlica
+.	mte:Z	.
+Golobič	mte:Npmsn	Golobič
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+šefico	mte:Ncfsa	šefica
+kabineta	mte:Ncmsg	kabinet
+vzel	mte:Vmep-sm	vzeti
+dosedanjo	mte:Agpfsa	dosedanji
+Zaresovo	mte:Aspfsa	zaresov
+piarovko	mte:Ncfsa	piarovka
+Tino	mte:Npfsa	Tino
+Hrastnik	mte:Npfsa	Hrastnik
+,	mte:Z	,
+Širca	mte:Npfsa	Širca
+pa	mte:Cc	pa
+strankino	mte:Aspfsa	strankin
+strokovno	mte:Agpfsa	strokoven
+sodelavko	mte:Ncfsa	sodelavka
+iz	mte:Sg	iz
+parlamenta	mte:Ncmsg	parlament
+Majo	mte:Vmpr3p-n	meti
+Glücks	mte:Npmsa	Glücks

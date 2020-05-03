@@ -1,350 +1,405 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Novomeško	Agpnsn
-gradbeno	Agpnsn
-podjetje	Ncnsn
-CGP	Npfsn
-je	Va-r3s-n
-danes	Rgp
-uradno	Rgp
-odprlo	Vmep-sn
-svoje	Px-nsa
-predstavništvo	Ncnsa
-v	Sl
-Ljubljani	Npfsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-pojasnil	Vmep-sm
-predsednik	Ncmsn
-uprave	Ncfsg
-CGP	Npfsg
-Marjan	Npmsn
-Pezdirc	Npmsn
-,	Z
-podjetje	Ncnsn
-ne	Q
-želi	Vmpr3s
-biti	Va-n
-le	Q
-lokalno	Agpnsn
-gradbeno	Agpnsn
-podjetje	Ncnsn
-,	Z
-temveč	Cc
-želi	Vmpr3s
-delovati	Vmpn
-na	Sl
-celotnem	Agpmsl
-slovenskem	Agpmsl
-trgu	Ncmsl
-,	Z
-k	Sd
-čemur	Pr-msd
-bo	Va-f3s-n
-pripomoglo	Vmep-sn
-tudi	Q
-predstavništvo	Ncnsn
-v	Sl
-upravnem	Agpnsl
-in	Cc
-poslovnem	Agpnsl
-središču	Ncnsl
-države	Ncfsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-novinarski	Agpfsl
-konferenci	Ncfsl
-v	Sl
-Ljubljani	Npfsl
-povedal	Vmep-sm
-Pezdirc	Npmsn
-,	Z
-želi	Vmpr3s
-postati	Vmen
-CGP	Ncnsa
-vseslovensko	Agpnsa
-gradbeno	Agpnsa
-podjetje	Ncnsa
-,	Z
-zato	Cc
-odpira	Vmpr3s
-predstavništva	Ncnpa
-v	Sl
-Sloveniji	Npfsl
--	Z
-poleg	Sg
-Ljubljane	Npfsg
-ima	Vmpr3s-n
-predstavništva	Ncnpa
-v	Sl
-Kočevju	Npnsl
-,	Z
-Črnomlju	Npmsl
-,	Z
-Krškem	Npnsl
-,	Z
-Trebnjem	Npnsl
-in	Cc
-Kopru	Npmsl
-,	Z
-razmišljajo	Vmpr3p
-pa	Cc
-tudi	Q
-o	Sl
-odprtju	Ncnsl
-predstavništva	Ncnsg
-v	Sl
-Mariboru	Npmsl
-.	Z
-Za	Sa
-odprtje	Ncnsa
-predstavništva	Ncnsg
-v	Sl
-Ljubljani	Npfsl
-se	Px------y
-je	Va-r3s-n
-podjetje	Ncnsn
-odločilo	Vmep-sn
-,	Z
-ker	Cs
-gre	Vmbr3s
-za	Sa
-upravno	Agpnsa
-in	Cc
-poslovno	Agpnsa
-središče	Ncnsa
-ter	Cc
-največji	Agsmsay
-mikro	Ncmsan
-trg	Ncmsan
-v	Sl
-državi	Ncfsl
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Pezdirc	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-pozornost	Ncfsa
-v	Sl
-Ljubljani	Npfsl
-posvetili	Vmep-pm
-predvsem	Q
-investicijskemu	Agpmsd
-inženiringu	Ncmsd
-.	Z
-Glavni	Agpfsd
-nalogi	Ncfsd
-predstavništva	Ncnsg
-v	Sl
-prestolnici	Ncfsl
-bosta	Va-f3d-n
-tudi	Q
-uspešno	Agpnsn
-plasiranje	Ncnsa
-lastnih	Agpmpg
-komercialnih	Agpmpg
-projektov	Ncmpg
-in	Cc
-podpora	Ncfsn
-zaposlenim	Appmpd
-pri	Sl
-sodelovanju	Ncnsl
-z	Si
-investitorji	Ncmpi
-,	Z
-predstavništvo	Ncnsn
-pa	Cc
-bo	Va-f3s-n
-tudi	Q
-osnova	Ncfsn
-za	Sa
-uspešno	Agpnsa
-delovanje	Ncnsa
-skupine	Ncfsg
-CGP	Npfsn
-na	Sl
-tem	Pd-nsl
-območju	Ncnsl
-.	Z
-Družba	Ncfsn
-želi	Vmpr3s
-biti	Va-n
-poleg	Sg
-tega	Pd-nsg
-dejavna	Agpfsn
-tudi	Q
-na	Sl
-tujih	Agpmpl
-trgih	Ncmpl
-.	Z
-Doslej	Rgp
-je	Va-r3s-n
-že	Q
-ustanovila	Vmep-sf
-hčerinske	Agpfpa
-družbe	Ncfpa
-v	Sl
-Zagrebu	Npmsl
-,	Z
-Beogradu	Npmsl
-,	Z
-Sarajevu	Npnsl
-,	Z
-Prištini	Npfsl
-in	Cc
-Tirani	Npfsl
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-hkrati	Rgp
-vlogo	Ncfsa
-predstavništev	Ncnpg
-,	Z
-preko	Sg
-katerih	Pq-mpg
-podjetje	Ncnsn
-pridobi	Vmer3s
-,	Z
-vodi	Vmpr3s
-in	Cc
-dokonča	Vmer3s
-projekte	Ncmpa
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Pezdirc	Npmsn
-.	Z
-Podjetje	Ncnsn
-je	Va-r3s-n
-bilo	Va-p-sn
-po	Sl
-besedah	Ncfpl
-Pezdirca	Npmsg
-v	Sl
-zadnjih	Agpnpl
-letih	Ncnpl
-aktivno	Rgp
-na	Sl
-področju	Ncnsl
-različnih	Agpfpg
-dejavnosti	Ncfpg
-,	Z
-njegov	Ps3msnsm
-poslovni	Agpmsny
-sistem	Ncmsn
-pa	Cc
-sloni	Vmpr3s
-na	Sl
-šestih	Mlc-pl
-stebrih	Ncmpl
--	Z
-nizke	Agpfsg
-gradnje	Ncfsg
-,	Z
-visoke	Agpfsg
-gradnje	Ncfsg
-,	Z
-vzdrževanje	Ncnsn
-cestnega	Agpnsg
-omrežja	Ncnsg
-,	Z
-proizvodnja	Ncfsn
-gradbenih	Agpmpg
-materialov	Ncmpg
-,	Z
-investicijski	Agpmsny
-inženiring	Ncmsn
-in	Cc
-vzdrževanje	Ncnsn
-vodotokov	Ncmpg
-.	Z
-Pezdirc	Npmsn
-poslovanje	Ncnsn
-družbe	Ncfsg
-v	Sl
-prvi	Mlofsl
-polovici	Ncfsl
-leta	Ncnsg
-sicer	Q
-ocenjuje	Vmpr3s
-kot	Cs
-uspešno	Rgp
-,	Z
-zasluge	Ncfpa
-temu	Pd-nsd
-pa	Cc
-pripisuje	Vmpr3s
-razpršenosti	Ncfsd
-dejavnosti	Ncfsg
-,	Z
-s	Si
-čimer	Pr-nsi
-je	Va-r3s-n
-družbi	Ncfsd
-uspelo	Vmep-sn
-zmanjšali	Vmep-pm
-odvisnost	Ncfsa
-samo	Q
-od	Sg
-enega	Mlpmsg
-segmenta	Ncmsg
-trga	Ncmsg
-.	Z
-"	Z
-To	Pd-nsn
-nam	Pp1-pd
-je	Va-r3s-n
-danes	Rgp
-prav	Q
-gotovo	Rgp
-najmočnejša	Agsfsn
-točka	Ncfsn
-pri	Sl
-tej	Pd-fsl
-obrambi	Ncfsl
-,	Z
-"	Z
-je	Va-r3s-n
-za	Sa
-STA	Va-r3d-n
-ob	Sl
-robu	Ncmsl
-novinarske	Agpfsg
-konference	Ncfsg
-pojasnil	Vmep-sm
-Pezdirc	Npmsn
-.	Z
-"	Z
-Moram	Vmpr1s
-povedati	Vmen
-tudi	Q
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-družba	Ncfsn
-CGP	Npfsn
-že	Q
-v	Sl
-preteklih	Appnpl
-letih	Ncnpl
-ne	Q
-glede	Rgp
-na	Sa
-konjukturne	Agpfpa
-razmere	Ncfpa
-dejavna	Agpfsn
-v	Sl
-tujini	Ncfsl
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Novomeško	mte:Agpnsn	novomeški
+gradbeno	mte:Agpnsn	gradben
+podjetje	mte:Ncnsn	podjetje
+CGP	mte:Npfsn	CGP
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+uradno	mte:Rgp	uradno
+odprlo	mte:Vmep-sn	odpreti
+svoje	mte:Px-nsa	svoj
+predstavništvo	mte:Ncnsa	predstavništvo
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+pojasnil	mte:Vmep-sm	pojasniti
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+CGP	mte:Npfsg	CGP
+Marjan	mte:Npmsn	Marjan
+Pezdirc	mte:Npmsn	Pezdirc
+,	mte:Z	,
+podjetje	mte:Ncnsn	podjetje
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+biti	mte:Va-n	biti
+le	mte:Q	le
+lokalno	mte:Agpnsn	lokalen
+gradbeno	mte:Agpnsn	gradben
+podjetje	mte:Ncnsn	podjetje
+,	mte:Z	,
+temveč	mte:Cc	temveč
+želi	mte:Vmpr3s	želeti
+delovati	mte:Vmpn	delovati
+na	mte:Sl	na
+celotnem	mte:Agpmsl	celoten
+slovenskem	mte:Agpmsl	slovenski
+trgu	mte:Ncmsl	trg
+,	mte:Z	,
+k	mte:Sd	k
+čemur	mte:Pr-msd	kar
+bo	mte:Va-f3s-n	biti
+pripomoglo	mte:Vmep-sn	pripomoči
+tudi	mte:Q	tudi
+predstavništvo	mte:Ncnsn	predstavništvo
+v	mte:Sl	v
+upravnem	mte:Agpnsl	upraven
+in	mte:Cc	in
+poslovnem	mte:Agpnsl	posloven
+središču	mte:Ncnsl	središče
+države	mte:Ncfsg	država
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+povedal	mte:Vmep-sm	povedati
+Pezdirc	mte:Npmsn	Pezdirc
+,	mte:Z	,
+želi	mte:Vmpr3s	želeti
+postati	mte:Vmen	postati
+CGP	mte:Ncnsa	CGP
+vseslovensko	mte:Agpnsa	vseslovenski
+gradbeno	mte:Agpnsa	gradben
+podjetje	mte:Ncnsa	podjetje
+,	mte:Z	,
+zato	mte:Cc	zato
+odpira	mte:Vmpr3s	odpirati
+predstavništva	mte:Ncnpa	predstavništvo
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+-	mte:Z	-
+poleg	mte:Sg	poleg
+Ljubljane	mte:Npfsg	Ljubljana
+ima	mte:Vmpr3s-n	imeti
+predstavništva	mte:Ncnpa	predstavništvo
+v	mte:Sl	v
+Kočevju	mte:Npnsl	Kočevje
+,	mte:Z	,
+Črnomlju	mte:Npmsl	Črnomelj
+,	mte:Z	,
+Krškem	mte:Npnsl	Krško
+,	mte:Z	,
+Trebnjem	mte:Npnsl	Trebnje
+in	mte:Cc	in
+Kopru	mte:Npmsl	Koper
+,	mte:Z	,
+razmišljajo	mte:Vmpr3p	razmišljati
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+o	mte:Sl	o
+odprtju	mte:Ncnsl	odprtje
+predstavništva	mte:Ncnsg	predstavništvo
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+.	mte:Z	.
+Za	mte:Sa	za
+odprtje	mte:Ncnsa	odprtje
+predstavništva	mte:Ncnsg	predstavništvo
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+odločilo	mte:Vmep-sn	odločiti
+,	mte:Z	,
+ker	mte:Cs	ker
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+upravno	mte:Agpnsa	upraven
+in	mte:Cc	in
+poslovno	mte:Agpnsa	posloven
+središče	mte:Ncnsa	središče
+ter	mte:Cc	ter
+največji	mte:Agsmsay	velik
+mikro	mte:Ncmsan	mikro
+trg	mte:Ncmsan	trg
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Pezdirc	mte:Npmsn	Pezdirc
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+pozornost	mte:Ncfsa	pozornost
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+posvetili	mte:Vmep-pm	posvetiti
+predvsem	mte:Q	predvsem
+investicijskemu	mte:Agpmsd	investicijski
+inženiringu	mte:Ncmsd	inženiring
+.	mte:Z	.
+Glavni	mte:Agpfsd	glaven
+nalogi	mte:Ncfsd	nalog
+predstavništva	mte:Ncnsg	predstavništvo
+v	mte:Sl	v
+prestolnici	mte:Ncfsl	prestolnica
+bosta	mte:Va-f3d-n	biti
+tudi	mte:Q	tudi
+uspešno	mte:Agpnsn	uspešen
+plasiranje	mte:Ncnsa	plasiranje
+lastnih	mte:Agpmpg	lasten
+komercialnih	mte:Agpmpg	komercialen
+projektov	mte:Ncmpg	projekt
+in	mte:Cc	in
+podpora	mte:Ncfsn	podpora
+zaposlenim	mte:Appmpd	zaposlen
+pri	mte:Sl	pri
+sodelovanju	mte:Ncnsl	sodelovanje
+z	mte:Si	z
+investitorji	mte:Ncmpi	investitor
+,	mte:Z	,
+predstavništvo	mte:Ncnsn	predstavništvo
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+tudi	mte:Q	tudi
+osnova	mte:Ncfsn	osnova
+za	mte:Sa	za
+uspešno	mte:Agpnsa	uspešen
+delovanje	mte:Ncnsa	delovanje
+skupine	mte:Ncfsg	skupina
+CGP	mte:Npfsn	CGP
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+območju	mte:Ncnsl	območje
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+želi	mte:Vmpr3s	želeti
+biti	mte:Va-n	biti
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+dejavna	mte:Agpfsn	dejaven
+tudi	mte:Q	tudi
+na	mte:Sl	na
+tujih	mte:Agpmpl	tuj
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+Doslej	mte:Rgp	doslej
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+ustanovila	mte:Vmep-sf	ustanoviti
+hčerinske	mte:Agpfpa	hčerinski
+družbe	mte:Ncfpa	družba
+v	mte:Sl	v
+Zagrebu	mte:Npmsl	Zagreb
+,	mte:Z	,
+Beogradu	mte:Npmsl	Beograd
+,	mte:Z	,
+Sarajevu	mte:Npnsl	Sarajevo
+,	mte:Z	,
+Prištini	mte:Npfsl	Priština
+in	mte:Cc	in
+Tirani	mte:Npfsl	Tirani
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+hkrati	mte:Rgp	hkrati
+vlogo	mte:Ncfsa	vloga
+predstavništev	mte:Ncnpg	predstavništvo
+,	mte:Z	,
+preko	mte:Sg	preko
+katerih	mte:Pq-mpg	kateri
+podjetje	mte:Ncnsn	podjetje
+pridobi	mte:Vmer3s	pridobiti
+,	mte:Z	,
+vodi	mte:Vmpr3s	voditi
+in	mte:Cc	in
+dokonča	mte:Vmer3s	dokončati
+projekte	mte:Ncmpa	projekt
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Pezdirc	mte:Npmsn	Pezdirc
+.	mte:Z	.
+Podjetje	mte:Ncnsn	podjetje
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Pezdirca	mte:Npmsg	Pezdirc
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+letih	mte:Ncnpl	leto
+aktivno	mte:Rgp	aktivno
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+različnih	mte:Agpfpg	različen
+dejavnosti	mte:Ncfpg	dejavnost
+,	mte:Z	,
+njegov	mte:Ps3msnsm	njegov
+poslovni	mte:Agpmsny	posloven
+sistem	mte:Ncmsn	sistem
+pa	mte:Cc	pa
+sloni	mte:Vmpr3s	sloneti
+na	mte:Sl	na
+šestih	mte:Mlc-pl	šest
+stebrih	mte:Ncmpl	steber
+-	mte:Z	-
+nizke	mte:Agpfsg	nizek
+gradnje	mte:Ncfsg	gradnja
+,	mte:Z	,
+visoke	mte:Agpfsg	visok
+gradnje	mte:Ncfsg	gradnja
+,	mte:Z	,
+vzdrževanje	mte:Ncnsn	vzdrževanje
+cestnega	mte:Agpnsg	cesten
+omrežja	mte:Ncnsg	omrežje
+,	mte:Z	,
+proizvodnja	mte:Ncfsn	proizvodnja
+gradbenih	mte:Agpmpg	gradben
+materialov	mte:Ncmpg	material
+,	mte:Z	,
+investicijski	mte:Agpmsny	investicijski
+inženiring	mte:Ncmsn	inženiring
+in	mte:Cc	in
+vzdrževanje	mte:Ncnsn	vzdrževanje
+vodotokov	mte:Ncmpg	vodotok
+.	mte:Z	.
+Pezdirc	mte:Npmsn	Pezdirc
+poslovanje	mte:Ncnsn	poslovanje
+družbe	mte:Ncfsg	družba
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+polovici	mte:Ncfsl	polovica
+leta	mte:Ncnsg	leto
+sicer	mte:Q	sicer
+ocenjuje	mte:Vmpr3s	ocenjevati
+kot	mte:Cs	kot
+uspešno	mte:Rgp	uspešno
+,	mte:Z	,
+zasluge	mte:Ncfpa	zasluga
+temu	mte:Pd-nsd	ta
+pa	mte:Cc	pa
+pripisuje	mte:Vmpr3s	pripisovati
+razpršenosti	mte:Ncfsd	razpršenost
+dejavnosti	mte:Ncfsg	dejavnost
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+je	mte:Va-r3s-n	biti
+družbi	mte:Ncfsd	družba
+uspelo	mte:Vmep-sn	uspeti
+zmanjšali	mte:Vmep-pm	zmanjšati
+odvisnost	mte:Ncfsa	odvisnost
+samo	mte:Q	samo
+od	mte:Sg	od
+enega	mte:Mlpmsg	en
+segmenta	mte:Ncmsg	segment
+trga	mte:Ncmsg	trg
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+prav	mte:Q	prav
+gotovo	mte:Rgp	gotovo
+najmočnejša	mte:Agsfsn	močen
+točka	mte:Ncfsn	točka
+pri	mte:Sl	pri
+tej	mte:Pd-fsl	ta
+obrambi	mte:Ncfsl	obramba
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+ob	mte:Sl	ob
+robu	mte:Ncmsl	rob
+novinarske	mte:Agpfsg	novinarski
+konference	mte:Ncfsg	konferenca
+pojasnil	mte:Vmep-sm	pojasniti
+Pezdirc	mte:Npmsn	Pezdirc
+.	mte:Z	.
+"	mte:Z	"
+Moram	mte:Vmpr1s	morati
+povedati	mte:Vmen	povedati
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+družba	mte:Ncfsn	družba
+CGP	mte:Npfsn	CGP
+že	mte:Q	že
+v	mte:Sl	v
+preteklih	mte:Appnpl	pretekel
+letih	mte:Ncnpl	leto
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+konjukturne	mte:Agpfpa	konjukturen
+razmere	mte:Ncfpa	razmera
+dejavna	mte:Agpfsn	dejaven
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+.	mte:Z	.
+V	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+imamo	mte:Vmpr1p-n	imeti
+aktivne	mte:Agpmpa	aktiven
+projekte	mte:Ncmpa	projekt
+v	mte:Sl	v
+Albaniji	mte:Npfsl	Albanija
+in	mte:Cc	in
+na	mte:Sl	na
+Kosovu	mte:Npnsl	Kosovo
+,	mte:Z	,
+borimo	mte:Vmpr1p	boreti
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+za	mte:Sa	za
+projekte	mte:Ncmpa	projekt
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+in	mte:Cc	in
+BiH	mte:Npfsl	Bih
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+tudi	mte:Q	tudi
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+računamo	mte:Vmpr1p	računati
+,	mte:Z	,
+da	mte:Cs	da
+bomo	mte:Va-f1p-n	biti
+prav	mte:Q	prav
+s	mte:Si	z
+to	mte:Pd-fsi	ta
+razpršenostjo	mte:Ncfsi	razpršenost
+dejavnosti	mte:Ncfsg	dejavnost
+ter	mte:Cc	ter
+delovanjem	mte:Ncnsi	delovanje
+in	mte:Cc	in
+iskanjem	mte:Ncnsi	iskanje
+projektov	mte:Ncmpg	projekt
+na	mte:Sl	na
+tujem	mte:Agpmsl	tuj
+trgu	mte:Ncmsl	trg
+uspeli	mte:Vmep-pm	uspeti
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+zahtevnem	mte:Agpnsl	zahteven
+gospodarskem	mte:Agpnsl	gospodarski
+okolju	mte:Ncnsl	okolje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dodal	mte:Vmep-sm	dodati

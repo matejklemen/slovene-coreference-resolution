@@ -1,385 +1,432 @@
-token	tag
-Turistična	Agpfsn
-sezona	Ncfsn
-na	Sl
-Gorenjskem	Npnsl
-Gorenjska	Agpnpn
-turistična	Agpnpn
-središča	Ncnpn
-so	Va-r3p-n
-na	Sl
-vrhuncu	Ncmsl
-sezone	Ncfsg
-polno	Rgp
-zasedena	Appnpn
-.	Z
-V	Sl
-Bohinju	Npmsl
-dosegajo	Vmpr3p
-podobno	Agpnsa
-število	Ncnsa
-prenočitev	Ncfpg
-kot	Cs
-lani	Rgp
-,	Z
-na	Sl
-Bledu	Npnsl
-in	Cc
-v	Sl
-Kranjski	Agpfsl
-Gori	Npfsl
-pa	Cc
-je	Va-r3s-n
-obisk	Ncmsn
-še	Q
-boljši	Agcmsny
-.	Z
-Letošnja	Agpfsn
-sezona	Ncfsn
-je	Va-r3s-n
-do	Sg
-zdaj	Rgp
-dobra	Agpfsn
-,	Z
-je	Va-r3s-n
-zadovoljna	Agpfsn
-direktorica	Ncfsn
-Turizma	Ncmsg
-Bled	Npmsn
-Eva	Npfsn
-Štravs	Npfsn
-Podlogar	Npfsn
-.	Z
-Že	Q
-junij	Ncmsn
-je	Va-r3s-n
-bil	Va-p-sm
-boljši	Agcmsny
-kot	Cs
-lanski	Agpmsny
-,	Z
-enako	Rgp
-velja	Vmpr3s
-za	Sa
-julij	Ncmsan
-,	Z
-ko	Cs
-so	Va-r3p-n
-se	Px------y
-napolnili	Vmep-pm
-ne	Q
-le	Q
-hoteli	Vmpp-pm
-,	Z
-temveč	Cc
-tudi	Q
-zasebne	Agpfpn
-namestitve	Ncfpn
-in	Cc
-kamp	Ncmsan
-.	Z
-Dobro	Rgp
-so	Va-r3p-n
-zasedeni	Appmpn
-tudi	Q
-okoliški	Agpmpn
-kraji	Ncmpn
-od	Sg
-Radovljice	Ncfsg
-in	Cc
-kampa	Ncmsg
-Šobec	Npmsn
-do	Sg
-Bohinja	Npmsg
-,	Z
-kar	Pr-nsn
-daje	Vmpr3s
-destinaciji	Ncfsd
-pravi	Agpmsay
-turistični	Agpmsay
-utrip	Ncmsan
-,	Z
-je	Va-r3s-n
-izpostavila	Vmep-sf
-in	Cc
-dodala	Vmep-sf
-,	Z
-da	Cs
-bo	Va-f3s-n
-do	Sg
-sredine	Ncfsg
-avgusta	Ncmsg
-Bled	Npmsn
-polno	Rgp
-zaseden	Appmsnn
-.	Z
-Struktura	Ncfsn
-gostov	Ncmpg
-na	Sl
-Bledu	Npnsl
-je	Va-r3s-n
-izjemno	Rgp
-pestra	Ncfsn
-,	Z
-saj	Cc
-gostje	Ncmpn
-prihajajo	Vmpr3p
-iz	Sg
-skoraj	Q
-80	Mdc
-držav	Ncfpg
-.	Z
-V	Sl
-prvih	Mlompl
-sedmih	Mlc-pl
-mesecih	Ncmpl
-letos	Rgp
-je	Va-r3s-n
-bilo	Va-p-sn
-po	Sl
-daljšem	Agcnsl
-obdobju	Ncnsl
-znova	Rgp
-največ	Rgs
-angleških	Agpmpg
-gostov	Ncmpg
-.	Z
-Sledijo	Vmpr3p
-jim	Pp3mpd--y
-gostje	Ncmpn
-iz	Sg
-Nemčije	Npfsg
-in	Cc
-Nizozemske	Agpfsg
-,	Z
-v	Sl
-porastu	Ncmsl
-je	Va-r3s-n
-število	Ncnsn
-gostov	Ncmpg
-iz	Sg
-Rusije	Npfsg
-in	Cc
-Amerike	Npfsg
-,	Z
-Italijanov	Npmpg
-pa	Cc
-je	Va-r3s-n
-bistveno	Rgp
-manj	Rgc
-kot	Cs
-lani	Rgp
-.	Z
-Kranjska	Agpfsn
-Gora	Npfsn
-dobro	Rgp
-zasedena	Appfsn
-,	Z
-a	Cc
-ne	Q
-rekordno	Agpfsa
-Nekoliko	Rgp
-drugačno	Agpfsa
-izkušnjo	Ncfsa
-z	Si
-italijanskimi	Agpmpi
-gosti	Ncmpi
-imajo	Vmpr3p-n
-letos	Rgp
-v	Sl
-Kranjski	Agpfsl
-Gori	Npfsl
-,	Z
-kamor	Cs
-se	Px------y
-italijanski	Agpmpn
-meščani	Ncmpn
-umaknejo	Vmer3p
-pred	Si
-vročino	Ncfsi
-.	Z
-Že	Q
-od	Sg
-začetka	Ncmsg
-poletne	Agpfsg
-sezone	Ncfsg
-so	Va-r3p-n
-hoteli	Vmpp-pm
-v	Sl
-Kranjski	Agpfsl
-Gori	Npfsl
-dobro	Rgp
-zasedeni	Appmpn
-,	Z
-nekoliko	Rgp
-slabše	Agcnsn
-je	Va-r3s-n
-bilo	Va-p-sn
-pri	Sl
-manjših	Agcmpl
-ponudnikih	Ncmpl
-namestitev	Ncfsn
-.	Z
-Trenutno	Rgp
-pa	Cc
-so	Va-r3p-n
-na	Sl
-vrhuncu	Ncmsl
-sezone	Ncfsg
-skoraj	Q
-vse	Pg-fpn
-nočitvene	Agpfpn
-zmogljivosti	Ncfpn
-zasedene	Appfpn
-,	Z
-a	Cc
-za	Sa
-zdaj	Rgp
-kaže	Vmpr3s
-,	Z
-da	Cs
-sezona	Ncfsn
-ne	Q
-bo	Va-f3s-n
-dosegla	Vmep-sf
-rekordne	Agpfsg
-iz	Sg
-leta	Ncnsg
-2010	Mdc
-.	Z
-Slovenskih	Agpmpg
-gostov	Ncmpg
-je	Va-r3s-n
-v	Sl
-Kranjski	Agpfsl
-Gori	Npfsl
-okrog	Rgp
-30	Mdc
-odstotkov	Ncmpg
-,	Z
-med	Si
-tujimi	Agpmpi
-pa	Cc
-poleg	Sg
-Italijanov	Npmpg
-prevladujejo	Vmpr3p
-Angleži	Npmpn
-,	Z
-Belgijci	Npmpn
-,	Z
-Nemci	Npmpn
-,	Z
-Hrvati	Npmpn
-in	Cc
-Čehi	Npmpn
-,	Z
-opažajo	Vmpr3p
-tudi	Q
-povečanje	Ncnsa
-števila	Ncnsg
-gostov	Ncmpg
-iz	Sg
-Madžarske	Npfsg
-,	Z
-ogromno	Agpnsn
-pa	Cc
-je	Va-r3s-n
-dnevnih	Agpmpg
-obiskovalcev	Ncmpg
-,	Z
-predvsem	Q
-kolesarjev	Ncmpg
-in	Cc
-planincev	Ncmpg
-.	Z
-Letos	Rgp
-se	Px------y
-je	Va-r3s-n
-v	Sl
-vročini	Ncfsl
-pokazalo	Vmep-sn
-,	Z
-kako	Rgp
-dobrodošle	Agpfpn
-bi	Va-c
-bile	Va-p-pf
-v	Sl
-Kranjski	Agpfsl
-Gori	Npfsl
-urejene	Appfpn
-vodne	Agpfpn
-površine	Ncfpn
-,	Z
-zato	Cc
-bodo	Va-f3p-n
-turistični	Agpmpn
-delavci	Ncmpn
-skupaj	Rgp
-z	Si
-občino	Ncfsi
-v	Sa
-prihodnje	Agpnsa
-poskusili	Vmep-pm
-najti	Vmen
-rešitev	Ncfsa
-za	Sa
-ureditev	Ncfsa
-kopališča	Ncnsg
-v	Sl
-Jasni	Npfsl
-.	Z
-Bohinjska	Agpfsn
-kopalna	Agpfsn
-kad	Ncmsn
-V	Sl
-Bohinju	Npmsl
-se	Px------y
-medtem	Rgp
-še	Q
-vedno	Rgp
-spopadajo	Vmpr3p
-s	Si
-težavami	Ncfpi
-nekaterih	Pi-mpg
-hotelov	Ncmpg
-,	Z
-kaže	Vmpr3s
-da	Cs
-bo	Va-f3s-n
-sezona	Ncfsn
-podobna	Agpfsn
-lanski	Agpfsd
-.	Z
-Z	Si
-zasedenostjo	Ncfsi
-nočitvenih	Agpfpg
-kapacitet	Ncfpg
-moramo	Vmpr1p
-biti	Va-n
-zadovoljni	Agpmpn
-.	Z
-Večje	Agcnsn
-vprašanje	Ncnsn
-pa	Cc
-je	Va-r3s-n
-,	Z
-kakšen	Pq-msn
-bo	Va-f3s-n
-turistični	Agpmsny
-izplen	Ncmsn
-,	Z
-opozarja	Vmpr3s
-direktor	Ncmsn
-Turizma	Ncmsg
-Bohinj	Npmsn
-Klemen	Npmsn
-Langus	Npmsn
-.	Z
-Zelo	Rgp
-veliko	Rgp
-je	Va-r3s-n
-v	Sl
-Bohinju	Npmsl
-enodnevnih	Agpmpg
-gostov	Ncmpg
-.	Z
+token	tag	lemma
+Turistična	mte:Agpfsn	turističen
+sezona	mte:Ncfsn	sezona
+na	mte:Sl	na
+Gorenjskem	mte:Npnsl	Gorenjsko
+Gorenjska	mte:Agpnpn	gorenjski
+turistična	mte:Agpnpn	turističen
+središča	mte:Ncnpn	središče
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+vrhuncu	mte:Ncmsl	vrhunec
+sezone	mte:Ncfsg	sezona
+polno	mte:Rgp	polno
+zasedena	mte:Appnpn	zaseden
+.	mte:Z	.
+V	mte:Sl	v
+Bohinju	mte:Npmsl	Bohinj
+dosegajo	mte:Vmpr3p	dosegati
+podobno	mte:Agpnsa	podoben
+število	mte:Ncnsa	število
+prenočitev	mte:Ncfpg	prenočitev
+kot	mte:Cs	kot
+lani	mte:Rgp	lani
+,	mte:Z	,
+na	mte:Sl	na
+Bledu	mte:Npnsl	Bled
+in	mte:Cc	in
+v	mte:Sl	v
+Kranjski	mte:Agpfsl	kranjski
+Gori	mte:Npfsl	Gori
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+obisk	mte:Ncmsn	obisk
+še	mte:Q	še
+boljši	mte:Agcmsny	dober
+.	mte:Z	.
+Letošnja	mte:Agpfsn	letošnji
+sezona	mte:Ncfsn	sezona
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+dobra	mte:Agpfsn	dober
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zadovoljna	mte:Agpfsn	zadovoljen
+direktorica	mte:Ncfsn	direktorica
+Turizma	mte:Ncmsg	turizem
+Bled	mte:Npmsn	Bled
+Eva	mte:Npfsn	Eva
+Štravs	mte:Npfsn	Štravs
+Podlogar	mte:Npfsn	Podlogar
+.	mte:Z	.
+Že	mte:Q	že
+junij	mte:Ncmsn	junij
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+boljši	mte:Agcmsny	dober
+kot	mte:Cs	kot
+lanski	mte:Agpmsny	lanski
+,	mte:Z	,
+enako	mte:Rgp	enako
+velja	mte:Vmpr3s	veljati
+za	mte:Sa	za
+julij	mte:Ncmsan	julij
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+napolnili	mte:Vmep-pm	napolniti
+ne	mte:Q	ne
+le	mte:Q	le
+hoteli	mte:Vmpp-pm	hoteti
+,	mte:Z	,
+temveč	mte:Cc	temveč
+tudi	mte:Q	tudi
+zasebne	mte:Agpfpn	zaseben
+namestitve	mte:Ncfpn	namestitev
+in	mte:Cc	in
+kamp	mte:Ncmsan	kamp
+.	mte:Z	.
+Dobro	mte:Rgp	dobro
+so	mte:Va-r3p-n	biti
+zasedeni	mte:Appmpn	zaseden
+tudi	mte:Q	tudi
+okoliški	mte:Agpmpn	okoliški
+kraji	mte:Ncmpn	kraj
+od	mte:Sg	od
+Radovljice	mte:Ncfsg	radovljica
+in	mte:Cc	in
+kampa	mte:Ncmsg	kampa
+Šobec	mte:Npmsn	Šobec
+do	mte:Sg	do
+Bohinja	mte:Npmsg	Bohinj
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+daje	mte:Vmpr3s	dajati
+destinaciji	mte:Ncfsd	destinacija
+pravi	mte:Agpmsay	pravi
+turistični	mte:Agpmsay	turističen
+utrip	mte:Ncmsan	utrip
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+izpostavila	mte:Vmep-sf	izpostaviti
+in	mte:Cc	in
+dodala	mte:Vmep-sf	dodati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+sredine	mte:Ncfsg	sredina
+avgusta	mte:Ncmsg	avgust
+Bled	mte:Npmsn	Bled
+polno	mte:Rgp	polno
+zaseden	mte:Appmsnn	zaseden
+.	mte:Z	.
+Struktura	mte:Ncfsn	struktura
+gostov	mte:Ncmpg	gost
+na	mte:Sl	na
+Bledu	mte:Npnsl	Bled
+je	mte:Va-r3s-n	biti
+izjemno	mte:Rgp	izjemno
+pestra	mte:Ncfsn	pester
+,	mte:Z	,
+saj	mte:Cc	saj
+gostje	mte:Ncmpn	gost
+prihajajo	mte:Vmpr3p	prihajati
+iz	mte:Sg	iz
+skoraj	mte:Q	skoraj
+80	mte:Mdc	80
+držav	mte:Ncfpg	država
+.	mte:Z	.
+V	mte:Sl	v
+prvih	mte:Mlompl	prvi
+sedmih	mte:Mlc-pl	sedem
+mesecih	mte:Ncmpl	mesec
+letos	mte:Rgp	letos
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+po	mte:Sl	po
+daljšem	mte:Agcnsl	dolg
+obdobju	mte:Ncnsl	obdobje
+znova	mte:Rgp	znova
+največ	mte:Rgs	največ
+angleških	mte:Agpmpg	angleški
+gostov	mte:Ncmpg	gost
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+jim	mte:Pp3mpd--y	on
+gostje	mte:Ncmpn	gost
+iz	mte:Sg	iz
+Nemčije	mte:Npfsg	Nemčija
+in	mte:Cc	in
+Nizozemske	mte:Agpfsg	nizozemski
+,	mte:Z	,
+v	mte:Sl	v
+porastu	mte:Ncmsl	porast
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+gostov	mte:Ncmpg	gost
+iz	mte:Sg	iz
+Rusije	mte:Npfsg	Rusija
+in	mte:Cc	in
+Amerike	mte:Npfsg	Amerika
+,	mte:Z	,
+Italijanov	mte:Npmpg	Italijan
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bistveno	mte:Rgp	bistveno
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+lani	mte:Rgp	lani
+.	mte:Z	.
+Kranjska	mte:Agpfsn	kranjski
+Gora	mte:Npfsn	Gora
+dobro	mte:Rgp	dobro
+zasedena	mte:Appfsn	zaseden
+,	mte:Z	,
+a	mte:Cc	a
+ne	mte:Q	ne
+rekordno	mte:Agpfsa	rekordno
+Nekoliko	mte:Rgp	nekoliko
+drugačno	mte:Agpfsa	drugačen
+izkušnjo	mte:Ncfsa	izkušnja
+z	mte:Si	z
+italijanskimi	mte:Agpmpi	italijanski
+gosti	mte:Ncmpi	gost
+imajo	mte:Vmpr3p-n	imeti
+letos	mte:Rgp	letos
+v	mte:Sl	v
+Kranjski	mte:Agpfsl	kranjski
+Gori	mte:Npfsl	Gori
+,	mte:Z	,
+kamor	mte:Cs	kamor
+se	mte:Px------y	se
+italijanski	mte:Agpmpn	italijanski
+meščani	mte:Ncmpn	meščan
+umaknejo	mte:Vmer3p	umakniti
+pred	mte:Si	pred
+vročino	mte:Ncfsi	vročina
+.	mte:Z	.
+Že	mte:Q	že
+od	mte:Sg	od
+začetka	mte:Ncmsg	začetek
+poletne	mte:Agpfsg	poleten
+sezone	mte:Ncfsg	sezona
+so	mte:Va-r3p-n	biti
+hoteli	mte:Vmpp-pm	hoteti
+v	mte:Sl	v
+Kranjski	mte:Agpfsl	kranjski
+Gori	mte:Npfsl	Gori
+dobro	mte:Rgp	dobro
+zasedeni	mte:Appmpn	zaseden
+,	mte:Z	,
+nekoliko	mte:Rgp	nekoliko
+slabše	mte:Agcnsn	slab
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+pri	mte:Sl	pri
+manjših	mte:Agcmpl	majhen
+ponudnikih	mte:Ncmpl	ponudnik
+namestitev	mte:Ncfsn	namestitev
+.	mte:Z	.
+Trenutno	mte:Rgp	trenutno
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+vrhuncu	mte:Ncmsl	vrhunec
+sezone	mte:Ncfsg	sezona
+skoraj	mte:Q	skoraj
+vse	mte:Pg-fpn	ves
+nočitvene	mte:Agpfpn	nočitven
+zmogljivosti	mte:Ncfpn	zmogljivost
+zasedene	mte:Appfpn	zaseden
+,	mte:Z	,
+a	mte:Cc	a
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+da	mte:Cs	da
+sezona	mte:Ncfsn	sezona
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+dosegla	mte:Vmep-sf	doseči
+rekordne	mte:Agpfsg	rekorden
+iz	mte:Sg	iz
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+.	mte:Z	.
+Slovenskih	mte:Agpmpg	slovenski
+gostov	mte:Ncmpg	gost
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Kranjski	mte:Agpfsl	kranjski
+Gori	mte:Npfsl	Gori
+okrog	mte:Rgp	okrog
+30	mte:Mdc	30
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+med	mte:Si	med
+tujimi	mte:Agpmpi	tuj
+pa	mte:Cc	pa
+poleg	mte:Sg	poleg
+Italijanov	mte:Npmpg	Italijan
+prevladujejo	mte:Vmpr3p	prevladovati
+Angleži	mte:Npmpn	Anglež
+,	mte:Z	,
+Belgijci	mte:Npmpn	Belgijci
+,	mte:Z	,
+Nemci	mte:Npmpn	Nemec
+,	mte:Z	,
+Hrvati	mte:Npmpn	Hrvat
+in	mte:Cc	in
+Čehi	mte:Npmpn	Čeh
+,	mte:Z	,
+opažajo	mte:Vmpr3p	opažati
+tudi	mte:Q	tudi
+povečanje	mte:Ncnsa	povečanje
+števila	mte:Ncnsg	število
+gostov	mte:Ncmpg	gost
+iz	mte:Sg	iz
+Madžarske	mte:Npfsg	Madžarska
+,	mte:Z	,
+ogromno	mte:Agpnsn	ogromen
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dnevnih	mte:Agpmpg	dneven
+obiskovalcev	mte:Ncmpg	obiskovalec
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+kolesarjev	mte:Ncmpg	kolesar
+in	mte:Cc	in
+planincev	mte:Ncmpg	planinec
+.	mte:Z	.
+Letos	mte:Rgp	letos
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+vročini	mte:Ncfsl	vročina
+pokazalo	mte:Vmep-sn	pokazati
+,	mte:Z	,
+kako	mte:Rgp	kako
+dobrodošle	mte:Agpfpn	dobrodošel
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+v	mte:Sl	v
+Kranjski	mte:Agpfsl	kranjski
+Gori	mte:Npfsl	Gori
+urejene	mte:Appfpn	urejen
+vodne	mte:Agpfpn	voden
+površine	mte:Ncfpn	površina
+,	mte:Z	,
+zato	mte:Cc	zato
+bodo	mte:Va-f3p-n	biti
+turistični	mte:Agpmpn	turističen
+delavci	mte:Ncmpn	delavec
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+občino	mte:Ncfsi	občina
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+poskusili	mte:Vmep-pm	poskusiti
+najti	mte:Vmen	najti
+rešitev	mte:Ncfsa	rešitev
+za	mte:Sa	za
+ureditev	mte:Ncfsa	ureditev
+kopališča	mte:Ncnsg	kopališče
+v	mte:Sl	v
+Jasni	mte:Npfsl	Jasna
+.	mte:Z	.
+Bohinjska	mte:Agpfsn	bohinjski
+kopalna	mte:Agpfsn	kopalen
+kad	mte:Ncmsn	kad
+V	mte:Sl	v
+Bohinju	mte:Npmsl	Bohinj
+se	mte:Px------y	se
+medtem	mte:Rgp	medtem
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+spopadajo	mte:Vmpr3p	spopadati
+s	mte:Si	z
+težavami	mte:Ncfpi	težava
+nekaterih	mte:Pi-mpg	nekateri
+hotelov	mte:Ncmpg	hotel
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+sezona	mte:Ncfsn	sezona
+podobna	mte:Agpfsn	podoben
+lanski	mte:Agpfsd	lanski
+.	mte:Z	.
+Z	mte:Si	z
+zasedenostjo	mte:Ncfsi	zasedenost
+nočitvenih	mte:Agpfpg	nočitven
+kapacitet	mte:Ncfpg	kapacitet
+moramo	mte:Vmpr1p	morati
+biti	mte:Va-n	biti
+zadovoljni	mte:Agpmpn	zadovoljen
+.	mte:Z	.
+Večje	mte:Agcnsn	velik
+vprašanje	mte:Ncnsn	vprašanje
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kakšen	mte:Pq-msn	kakšen
+bo	mte:Va-f3s-n	biti
+turistični	mte:Agpmsny	turističen
+izplen	mte:Ncmsn	izplen
+,	mte:Z	,
+opozarja	mte:Vmpr3s	opozarjati
+direktor	mte:Ncmsn	direktor
+Turizma	mte:Ncmsg	turizem
+Bohinj	mte:Npmsn	Bohinj
+Klemen	mte:Npmsn	Klemen
+Langus	mte:Npmsn	Langus
+.	mte:Z	.
+Zelo	mte:Rgp	zelo
+veliko	mte:Rgp	veliko
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Bohinju	mte:Npmsl	Bohinj
+enodnevnih	mte:Agpmpg	enodneven
+gostov	mte:Ncmpg	gost
+.	mte:Z	.
+Žal	mte:Rgp	žal
+je	mte:Va-r3s-n	biti
+Bohinj	mte:Npmsn	Bohinj
+v	mte:Sl	v
+zavesti	mte:Ncfsl	zavest
+Slovencev	mte:Npmpg	Slovenec
+predvsem	mte:Q	predvsem
+poletna	mte:Agpfsn	poleten
+kopalna	mte:Agpfsn	kopalen
+kad	mte:Ncmsn	kad
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+Langus	mte:Npmsn	Langus
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+kljub	mte:Sd	kljub
+navalu	mte:Ncmsd	navalo
+enodnevnih	mte:Agpmpg	enodneven
+gostov	mte:Ncmpg	gost
+ob	mte:Sl	ob
+koncih	mte:Ncmpl	konec
+tedna	mte:Ncmsg	teden
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+z	mte:Si	z
+nekaterimi	mte:Pi-mpi	nekateri
+mehkimi	mte:Agpmpi	mehek
+ukrepi	mte:Ncmpi	ukrep
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+dodatni	mte:Agpmpn	dodaten
+avtobusi	mte:Ncmpn	avtobus
+,	mte:Z	,
+uspelo	mte:Vmep-sn	uspeti
+omiliti	mte:Vmen	omiliti
+prometni	mte:Agpmsay	prometen
+pritisk	mte:Ncmsan	pritisk
+na	mte:Sa	na
+območje	mte:Ncnsa	območje
+Bohinjskega	mte:Agpnsg	bohinjski
+jezera	mte:Ncnsg	jezero

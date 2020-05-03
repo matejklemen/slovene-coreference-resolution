@@ -1,352 +1,417 @@
-token	tag
-Predsednik	Ncmsn
-vlade	Ncfsg
-Janez	Npmsn
-Janša	Npmsn
-si	Px---d--y
-je	Va-r3s-n
-s	Si
-spremstvom	Ncnsi
-ogledal	Vmep-sm
-posledice	Ncfpa
-katastrofalnega	Agpnsg
-neurja	Ncnsg
-na	Sl
-območju	Ncnsl
-občin	Ncfpg
-Kamnik	Npmsn
-in	Cc
-Gornji	Agpmsny
-Grad	Ncmsn
-.	Z
-Premier	Ncmsn
-Janez	Npmsn
-Janša	Npmsn
-se	Px------y
-je	Va-r3s-n
-v	Sl
-družbi	Ncfsl
-poveljnika	Ncmsg
-civilne	Agpfsg
-zaščite	Ncfsg
-Mirana	Npmsg
-Bogataja	Npmsg
-,	Z
-kamniškega	Agpmsg
-župana	Ncmsg
-Toneta	Npmsg
-Smolnikarja	Npmsg
-,	Z
-župana	Ncmsg
-Gornjega	Agpmsg
-Grada	Npmsg
-Stanka	Npmsg
-Ogradija	Npmsg
-in	Cc
-poslanca	Ncmsg
-SLS	Npmsg
-Jakoba	Npmsg
-Presečnika	Npmsg
-najprej	Rgs
-odpravil	Vmep-sm
-v	Sa
-vas	Ncfsa
-Gozd	Ncmsn
-,	Z
-kjer	Cs
-je	Va-r3s-n
-domačinom	Ncmpd
-,	Z
-ki	Cs
-ob	Sl
-pomoči	Ncfsl
-številnih	Agpmpg
-prostovoljcev	Ncmpg
-iz	Sg
-vse	Pg-fsg
-Slovenije	Npfsg
-poskušajo	Vmpr3p
-čim	Rgp
-prej	Rgc
-sanirati	Vmbn
-poškodovana	Appnpa
-ostrešja	Ncnpa
-hiš	Ncfpg
-,	Z
-obljubil	Vmep-sm
-pomoč	Ncfsa
-države	Ncfsg
-.	Z
-Tisti	Pd-mpn
-,	Z
-ki	Cs
-objektov	Ncmpg
-niso	Va-r3p-y
-imeli	Vmpp-pm
-zavarovanih	Appmpg
-,	Z
-lahko	Rgp
-računajo	Vmpr3p
-le	Q
-na	Sa
-dobrodelno	Agpfsa
-pomoč	Ncfsa
-,	Z
-zato	Cc
-pozivam	Vmpr1s
-k	Sd
-solidarnosti	Ncfsd
-do	Sg
-prizadetih	Appfpg
-.	Z
-Janez	Npmsn
-Janša	Npmsn
-Po	Sl
-ogledu	Ncmsl
-prelaza	Ncmsg
-Črnivec	Npmsn
-,	Z
-kjer	Cs
-so	Va-r3p-n
-veliko	Agpfsa
-škodo	Ncfsa
-utrpeli	Vmep-pm
-tamkajšnji	Agpmpn
-gozdovi	Ncmpn
-,	Z
-se	Px------y
-je	Va-r3s-n
-Janša	Npmsn
-zahvalil	Vmep-sm
-vsem	Pg-mpd
-gasilcem	Ncmpd
-,	Z
-reševalcem	Ncmpd
-,	Z
-lokalnim	Agpfpd
-oblastem	Ncfpd
-in	Cc
-vsem	Pg-mpd
-ostalim	Appmpd
-,	Z
-ki	Cs
-so	Va-r3p-n
-prizadetim	Appmpd
-prebivalcem	Ncmpd
-prvi	Mlomsn
-priskočili	Vmep-pm
-na	Sa
-pomoč	Ncfsa
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-to	Pd-nsn
-v	Sl
-celotni	Agpfsl
-zgodbi	Ncfsl
-"	Z
-šele	Q
-prvi	Mlomsn
-del	Ncmsn
-,	Z
-morda	Q
-tudi	Q
-najlažji	Agsmsny
-,	Z
-saj	Cc
-je	Va-r3s-n
-zdaj	Rgp
-na	Sl
-vrsti	Ncfsl
-sanacija	Ncfsn
-posledic	Ncfpg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-dolgotrajna	Agpfsn
-in	Cc
-zelo	Rgp
-draga	Agpfsn
-"	Z
-.	Z
-Možne	Agpfpa
-davčne	Agpfpa
-olajšave	Ncfpa
-za	Sa
-kmetijce	Ncmpa
-Janša	Npmsn
-,	Z
-ki	Cs
-o	Sl
-višini	Ncfsl
-škode	Ncfsg
-ni	Va-r3s-y
-želel	Vmpp-sm
-govoriti	Vmpn
-,	Z
-je	Va-r3s-n
-zatrdil	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-vlada	Ncfsn
-v	Sa
-četrtek	Ncmsan
-sprejela	Vmep-sf
-prve	Mlompa
-ukrepe	Ncmpa
-,	Z
-med	Si
-njimi	Pp3mpi
-tudi	Q
-finančne	Agpfpn
-narave	Ncfpn
-,	Z
-s	Si
-katerimi	Pq-mpi
-bodo	Va-f3p-n
-pristopili	Vmep-pm
-k	Sd
-sanaciji	Ncfsd
-škode	Ncfsg
-.	Z
-Vlada	Ncfsn
-bo	Va-f3s-n
-med	Si
-drugim	Mlpnsi
-namenila	Vmep-sf
-intervencijska	Agpnpa
-sredstva	Ncnpa
-za	Sa
-pokritje	Ncnsa
-stroškov	Ncmpg
-reševanja	Ncnsg
-,	Z
-sredstva	Ncnpn
-za	Sa
-sanacijo	Ncfsa
-šolskih	Agpmpg
-in	Cc
-nekaterih	Pi-mpg
-drugih	Mlpmpg
-objektov	Ncmpg
-,	Z
-finančna	Agpnpa
-sredstva	Ncnpa
-bo	Va-f3s-n
-nakazala	Vmep-sf
-tudi	Q
-humanitarnim	Agpfpd
-organizacijam	Ncfpd
-.	Z
-Najbolj	Rgs
-prizadete	Appfpa
-občine	Ncfpa
-bodo	Va-f3p-n
-po	Sl
-besedah	Ncfpl
-premierja	Ncmsg
-prejele	Vmep-pf
-še	Q
-dodatna	Agpnpn
-interventna	Agpnpn
-sredstva	Ncnpn
-.	Z
-"	Z
-Lastnikom	Ncmpd
-kmetij	Ncfpg
-,	Z
-ki	Cs
-jim	Pp3mpd--y
-je	Va-r3s-n
-bil	Va-p-sm
-v	Sl
-neurju	Ncnsl
-uničeni	Appmsny
-gozd	Ncmsn
-glavni	Agpmsny
-ali	Cc
-edini	Agpmsny
-vir	Ncmsn
-prihodkov	Ncmpg
-,	Z
-bo	Va-f3s-n
-treba	Rgp
-zagotoviti	Vmen
-posebno	Agpfsa
-pomoč	Ncfsa
-,	Z
-denimo	Vmem1p
-v	Sl
-obliki	Ncfsl
-davčnih	Agpfpg
-olajšav	Ncfpg
-.	Z
-Vlada	Ncfsn
-se	Px------y
-bo	Va-f3s-n
-o	Sl
-dokončni	Agpfsl
-rešitvi	Ncfsl
-še	Q
-izrekla	Vmep-sf
-,	Z
-"	Z
-je	Va-r3s-n
-pristavil	Vmep-sm
-Janša	Npmsn
-.	Z
-V	Sl
-naši	Ps1fslp
-občini	Ncfsl
-je	Va-r3s-n
-okoli	Rgp
-40	Mdc
-kmetij	Ncfpg
-izgubilo	Vmep-sn
-glavni	Agpmsay
-vir	Ncmsan
-dohodka	Ncmsg
-–	Z
-gozd	Ncmsan
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-katastrofa	Ncfsn
-prihodnjih	Agpmpg
-rodov	Ncmpg
-.	Z
-Stanko	Npmsn
-Ogradi	Npfsn
-,	Z
-župan	Ncmsn
-Gornjega	Agpmsg
-grada	Ncmsg
-60	Mdc
-močno	Rgp
-poškodovanih	Appmpg
-blokov	Ncmpg
-v	Sl
-Kamniku	Npmsl
-Bolj	Rgc
-konkretna	Agpfsn
-o	Sl
-višini	Ncfsl
-škode	Ncfsg
-sta	Va-r3d-n
-bila	Va-p-dm
-župana	Ncmdn
-,	Z
-ki	Cs
-sta	Va-r3d-n
-Janšo	Npfsa
-spremljala	Vmpp-dm
-na	Sl
-poti	Ncfsl
-skozi	Sa
-opustošeno	Appnsa
-območje	Ncnsa
-.	Z
+token	tag	lemma
+Predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+spremstvom	mte:Ncnsi	spremstvo
+ogledal	mte:Vmep-sm	ogledati
+posledice	mte:Ncfpa	posledica
+katastrofalnega	mte:Agpnsg	katastrofalen
+neurja	mte:Ncnsg	neurje
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+občin	mte:Ncfpg	občina
+Kamnik	mte:Npmsn	Kamnik
+in	mte:Cc	in
+Gornji	mte:Agpmsny	gornji
+Grad	mte:Ncmsn	grad
+.	mte:Z	.
+Premier	mte:Ncmsn	premier
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+poveljnika	mte:Ncmsg	poveljnik
+civilne	mte:Agpfsg	civilen
+zaščite	mte:Ncfsg	zaščita
+Mirana	mte:Npmsg	Miran
+Bogataja	mte:Npmsg	Bogataj
+,	mte:Z	,
+kamniškega	mte:Agpmsg	kamniški
+župana	mte:Ncmsg	župan
+Toneta	mte:Npmsg	Tone
+Smolnikarja	mte:Npmsg	Smolnikar
+,	mte:Z	,
+župana	mte:Ncmsg	župan
+Gornjega	mte:Agpmsg	gornji
+Grada	mte:Npmsg	Grada
+Stanka	mte:Npmsg	Stanka
+Ogradija	mte:Npmsg	Ogradija
+in	mte:Cc	in
+poslanca	mte:Ncmsg	poslanec
+SLS	mte:Npmsg	SLS
+Jakoba	mte:Npmsg	Jakob
+Presečnika	mte:Npmsg	Presečnik
+najprej	mte:Rgs	najprej
+odpravil	mte:Vmep-sm	odpraviti
+v	mte:Sa	v
+vas	mte:Ncfsa	vas
+Gozd	mte:Ncmsn	gozd
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+domačinom	mte:Ncmpd	domačin
+,	mte:Z	,
+ki	mte:Cs	ki
+ob	mte:Sl	ob
+pomoči	mte:Ncfsl	pomoč
+številnih	mte:Agpmpg	številen
+prostovoljcev	mte:Ncmpg	prostovoljec
+iz	mte:Sg	iz
+vse	mte:Pg-fsg	ves
+Slovenije	mte:Npfsg	Slovenija
+poskušajo	mte:Vmpr3p	poskušati
+čim	mte:Rgp	čim
+prej	mte:Rgc	prej
+sanirati	mte:Vmbn	sanirati
+poškodovana	mte:Appnpa	poškodovan
+ostrešja	mte:Ncnpa	ostrešje
+hiš	mte:Ncfpg	hiša
+,	mte:Z	,
+obljubil	mte:Vmep-sm	obljubiti
+pomoč	mte:Ncfsa	pomoč
+države	mte:Ncfsg	država
+.	mte:Z	.
+Tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+objektov	mte:Ncmpg	objekt
+niso	mte:Va-r3p-y	biti
+imeli	mte:Vmpp-pm	imeti
+zavarovanih	mte:Appmpg	zavarovan
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+računajo	mte:Vmpr3p	računati
+le	mte:Q	le
+na	mte:Sa	na
+dobrodelno	mte:Agpfsa	dobrodelen
+pomoč	mte:Ncfsa	pomoč
+,	mte:Z	,
+zato	mte:Cc	zato
+pozivam	mte:Vmpr1s	pozivati
+k	mte:Sd	k
+solidarnosti	mte:Ncfsd	solidarnost
+do	mte:Sg	do
+prizadetih	mte:Appfpg	prizadet
+.	mte:Z	.
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+Po	mte:Sl	po
+ogledu	mte:Ncmsl	ogled
+prelaza	mte:Ncmsg	prelaz
+Črnivec	mte:Npmsn	Črnivec
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+veliko	mte:Agpfsa	velik
+škodo	mte:Ncfsa	škoda
+utrpeli	mte:Vmep-pm	utrpeti
+tamkajšnji	mte:Agpmpn	tamkajšnji
+gozdovi	mte:Ncmpn	gozd
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Janša	mte:Npmsn	Janša
+zahvalil	mte:Vmep-sm	zahvaliti
+vsem	mte:Pg-mpd	ves
+gasilcem	mte:Ncmpd	gasilec
+,	mte:Z	,
+reševalcem	mte:Ncmpd	reševalec
+,	mte:Z	,
+lokalnim	mte:Agpfpd	lokalen
+oblastem	mte:Ncfpd	oblast
+in	mte:Cc	in
+vsem	mte:Pg-mpd	ves
+ostalim	mte:Appmpd	ostal
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+prizadetim	mte:Appmpd	prizadet
+prebivalcem	mte:Ncmpd	prebivalec
+prvi	mte:Mlomsn	prvi
+priskočili	mte:Vmep-pm	priskočiti
+na	mte:Sa	na
+pomoč	mte:Ncfsa	pomoč
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+zgodbi	mte:Ncfsl	zgodba
+"	mte:Z	"
+šele	mte:Q	šele
+prvi	mte:Mlomsn	prvi
+del	mte:Ncmsn	del
+,	mte:Z	,
+morda	mte:Q	morda
+tudi	mte:Q	tudi
+najlažji	mte:Agsmsny	lep
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+na	mte:Sl	na
+vrsti	mte:Ncfsl	vrsta
+sanacija	mte:Ncfsn	sanacija
+posledic	mte:Ncfpg	posledica
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+dolgotrajna	mte:Agpfsn	dolgotrajen
+in	mte:Cc	in
+zelo	mte:Rgp	zelo
+draga	mte:Agpfsn	drag
+"	mte:Z	"
+.	mte:Z	.
+Možne	mte:Agpfpa	možen
+davčne	mte:Agpfpa	davčen
+olajšave	mte:Ncfpa	olajšava
+za	mte:Sa	za
+kmetijce	mte:Ncmpa	kmetijca
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+ki	mte:Cs	ki
+o	mte:Sl	o
+višini	mte:Ncfsl	višina
+škode	mte:Ncfsg	škoda
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+govoriti	mte:Vmpn	govoriti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+vlada	mte:Ncfsn	vlada
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+sprejela	mte:Vmep-sf	sprejeti
+prve	mte:Mlompa	prvi
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+tudi	mte:Q	tudi
+finančne	mte:Agpfpn	finančen
+narave	mte:Ncfpn	narava
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+bodo	mte:Va-f3p-n	biti
+pristopili	mte:Vmep-pm	pristopiti
+k	mte:Sd	k
+sanaciji	mte:Ncfsd	sanacija
+škode	mte:Ncfsg	škoda
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+bo	mte:Va-f3s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+namenila	mte:Vmep-sf	nameniti
+intervencijska	mte:Agpnpa	intervencijski
+sredstva	mte:Ncnpa	sredstvo
+za	mte:Sa	za
+pokritje	mte:Ncnsa	pokritje
+stroškov	mte:Ncmpg	strošek
+reševanja	mte:Ncnsg	reševanje
+,	mte:Z	,
+sredstva	mte:Ncnpn	sredstvo
+za	mte:Sa	za
+sanacijo	mte:Ncfsa	sanacija
+šolskih	mte:Agpmpg	šolski
+in	mte:Cc	in
+nekaterih	mte:Pi-mpg	nekateri
+drugih	mte:Mlpmpg	drug
+objektov	mte:Ncmpg	objekt
+,	mte:Z	,
+finančna	mte:Agpnpa	finančen
+sredstva	mte:Ncnpa	sredstvo
+bo	mte:Va-f3s-n	biti
+nakazala	mte:Vmep-sf	nakazati
+tudi	mte:Q	tudi
+humanitarnim	mte:Agpfpd	humanitaren
+organizacijam	mte:Ncfpd	organizacija
+.	mte:Z	.
+Najbolj	mte:Rgs	najbolj
+prizadete	mte:Appfpa	prizadet
+občine	mte:Ncfpa	občina
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+premierja	mte:Ncmsg	premier
+prejele	mte:Vmep-pf	prejeti
+še	mte:Q	še
+dodatna	mte:Agpnpn	dodaten
+interventna	mte:Agpnpn	interventen
+sredstva	mte:Ncnpn	sredstvo
+.	mte:Z	.
+"	mte:Z	"
+Lastnikom	mte:Ncmpd	lastnik
+kmetij	mte:Ncfpg	kmetija
+,	mte:Z	,
+ki	mte:Cs	ki
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+v	mte:Sl	v
+neurju	mte:Ncnsl	neurje
+uničeni	mte:Appmsny	uničen
+gozd	mte:Ncmsn	gozd
+glavni	mte:Agpmsny	glaven
+ali	mte:Cc	ali
+edini	mte:Agpmsny	edin
+vir	mte:Ncmsn	vir
+prihodkov	mte:Ncmpg	prihodek
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+treba	mte:Rgp	treba
+zagotoviti	mte:Vmen	zagotoviti
+posebno	mte:Agpfsa	poseben
+pomoč	mte:Ncfsa	pomoč
+,	mte:Z	,
+denimo	mte:Vmem1p	deti
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+davčnih	mte:Agpfpg	davčen
+olajšav	mte:Ncfpg	olajšava
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+o	mte:Sl	o
+dokončni	mte:Agpfsl	dokončen
+rešitvi	mte:Ncfsl	rešitev
+še	mte:Q	še
+izrekla	mte:Vmep-sf	izreči
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pristavil	mte:Vmep-sm	pristaviti
+Janša	mte:Npmsn	Janša
+.	mte:Z	.
+V	mte:Sl	v
+naši	mte:Ps1fslp	naš
+občini	mte:Ncfsl	občina
+je	mte:Va-r3s-n	biti
+okoli	mte:Rgp	okoli
+40	mte:Mdc	40
+kmetij	mte:Ncfpg	kmetija
+izgubilo	mte:Vmep-sn	izgubiti
+glavni	mte:Agpmsay	glaven
+vir	mte:Ncmsan	vir
+dohodka	mte:Ncmsg	dohodek
+–	mte:Z	–
+gozd	mte:Ncmsan	gozd
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+katastrofa	mte:Ncfsn	katastrof
+prihodnjih	mte:Agpmpg	prihodnji
+rodov	mte:Ncmpg	rod
+.	mte:Z	.
+Stanko	mte:Npmsn	Stanko
+Ogradi	mte:Npfsn	Ogradi
+,	mte:Z	,
+župan	mte:Ncmsn	župan
+Gornjega	mte:Agpmsg	gornji
+grada	mte:Ncmsg	grad
+60	mte:Mdc	60
+močno	mte:Rgp	močno
+poškodovanih	mte:Appmpg	poškodovan
+blokov	mte:Ncmpg	blok
+v	mte:Sl	v
+Kamniku	mte:Npmsl	Kamnik
+Bolj	mte:Rgc	bolj
+konkretna	mte:Agpfsn	konkreten
+o	mte:Sl	o
+višini	mte:Ncfsl	višina
+škode	mte:Ncfsg	škoda
+sta	mte:Va-r3d-n	biti
+bila	mte:Va-p-dm	biti
+župana	mte:Ncmdn	župan
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+Janšo	mte:Npfsa	Janšo
+spremljala	mte:Vmpp-dm	spremljati
+na	mte:Sl	na
+poti	mte:Ncfsl	pot
+skozi	mte:Sa	skozi
+opustošeno	mte:Appnsa	opustošen
+območje	mte:Ncnsa	območje
+.	mte:Z	.
+Gornjegrajski	mte:Agpmsny	gornjegrajski
+župan	mte:Ncmsn	župan
+Ogradi	mte:Ncfsn	ograd
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+znaša	mte:Vmpr3s	znašati
+višina	mte:Ncfsn	višina
+škoda	mte:Ncfsn	škoda
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+občine	mte:Ncfsg	občina
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+,	mte:Z	,
+med	mte:Si	med
+11	mte:Mdc	11
+in	mte:Cc	in
+15	mte:Mdc	15
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kamniški	mte:Agpmsny	kamniški
+župan	mte:Ncmsn	župan
+Smolnikar	mte:Npmsn	Smolnikar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+na	mte:Sl	na
+poslopju	mte:Ncnsl	poslopje
+osnovne	mte:Agpfsg	osnoven
+šole	mte:Ncfsg	šola
+v	mte:Sl	v
+Duplici	mte:Npfsl	Duplica
+škode	mte:Ncfsg	škoda
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+300.000	mte:Mdc	300.000
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+v	mte:Sl	v
+Kamniku	mte:Npmsl	Kamnik
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+močno	mte:Rgp	močno
+poškodovanih	mte:Appmpg	poškodovan
+okoli	mte:Rgp	okoli
+60	mte:Mdc	60
+stanovanjskih	mte:Agpmpg	stanovanjski
+blokov	mte:Ncmpg	blok
+in	mte:Cc	in
+bližnja	mte:Agpfsn	bližnji
+znamenitost	mte:Ncfsn	znamenitost
+,	mte:Z	,
+Arboretum	mte:Ncmsn	arboretum
+Volčji	mte:Agpmsny	volčji
+Potok	mte:Ncmsn	potok

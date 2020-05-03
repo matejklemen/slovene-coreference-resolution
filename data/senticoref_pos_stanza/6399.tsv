@@ -1,616 +1,635 @@
-token	tag
-Indeks	Ncmsn
-Dow	Npmsn
-Jones	Npmsn
-znova	Rgp
-padel	Vmep-sm
-Lahko	Rgp
-rešimo	Vmer1p
-krizo	Ncfsa
-in	Cc
-jo	Pp3fsa--y
-bomo	Va-f1p-n
-,	Z
-je	Va-r3s-n
-razburjene	Appmpa
-državljane	Ncmpa
-umirjal	Vmpp-sm
-George	Npmsn
-Bush	Npmsn
-.	Z
-Sprva	Rgp
-je	Va-r3s-n
-kazalo	Vmpp-sn
-,	Z
-da	Cs
-se	Px------y
-Wall	Npmsn
-Streetu	Npmsd
-napoveduje	Vmpr3s
-še	Q
-en	Mlpmsa
-črn	Agpmsan
-dan	Ncmsan
-,	Z
-a	Cc
-je	Va-r3s-n
-Nasdaq	Npmsn
-končal	Vmep-sm
-celo	Q
-v	Sl
-zelenem	Agpmsl
-.	Z
-Borzne	Agpmpa
-posrednike	Ncmpa
-po	Sl
-vsem	Pg-msl
-svetu	Ncmsl
-v	Sl
-teh	Pd-mpl
-dneh	Ncmpl
-močno	Rgp
-boli	Vmpr3s
-glava	Ncfsn
-,	Z
-saj	Cc
-indeksom	Ncmpd
-kljub	Sd
-številnim	Agpfpd
-finančnim	Agpfpd
-injekcijam	Ncfpd
-nikakor	Rgp
-ne	Q
-uspe	Vmer3s
-izplavati	Vmpn
-iz	Sg
-rdečih	Agpfpg
-številk	Ncfpg
-evropski	Agpmpn
-trgi	Ncmpn
-so	Va-r3p-n
-trgovanje	Ncnsa
-končali	Vmep-pm
-z	Si
-osemodstotno	Agpfsi
-izgubo	Ncfsi
-glede	Rgp
-na	Sa
-včeraj	Rgp
-,	Z
-jutro	Ncnsn
-na	Sl
-ameriškem	Agpmsl
-Wall	Npmsl
-Streetu	Ncmsl
-se	Px------y
-je	Va-r3s-n
-tudi	Q
-začelo	Vmep-sn
-z	Si
-velikim	Agpmsi
-padcem	Ncmsi
-,	Z
-trgovalni	Agpmsay
-dan	Ncmsn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-končal	Vmep-sm
-nekoliko	Rgp
-obetavnejše	Agcnsn
-.	Z
-Indeks	Ncmsn
-Nasdaq	Npmsn
-je	Va-r3s-n
-v	Sl
-primerjavi	Ncfsl
-s	Si
-četrtkom	Ncmsi
-pridobil	Vmep-sm
-0,27	Mdc
-odstotka	Ncmsg
-1.649,51	Mdc
-točke	Ncfsg
-,	Z
-indeks	Ncmsn
-Dow	Npmsn
-Jones	Npmsn
-pa	Cc
-je	Va-r3s-n
-izgubil	Vmep-sm
-1,49	Mdc
-odstotka	Ncmsg
-8.451,19	Mdc
-točke	Ncfsg
-.	Z
-Vmes	Rgp
-je	Va-r3s-n
-Dow	Npmsn
-Jones	Npmsn
-prvič	Rgp
-po	Sl
-letu	Ncnsl
-2003	Mdc
-zdrsnil	Vmep-sm
-celo	Q
-pod	Sa
-8.000	Mdc
-točk	Ncfpg
-.	Z
-Razum	Ncmsn
-je	Va-r3s-n
-odpovedal	Vmep-sm
-,	Z
-kje	Rgp
-je	Va-r3s-n
-dno	Ncnsn
-?	Z
-!	Z
-Borzni	Agpfsd
-cunami	Ncfsd
-pustoši	Vmer3s
-vse	Pg-nsa
-pred	Si
-seboj	Px---i
-Ameriški	Agpmsny
-predsednik	Ncmsn
-George	Npmsn
-Bush	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-vladni	Agpmsny
-načrt	Ncmsn
-za	Sa
-rešitev	Ncfsa
-krize	Ncfsg
-dovolj	Rgp
-agresiven	Agpmsnn
-,	Z
-da	Cs
-bo	Va-f3s-n
-obrodil	Vmep-sm
-sadove	Ncmpa
-,	Z
-toda	Cc
-potrebuje	Vmpr3s
-še	Q
-nekaj	Rgp
-časa	Ncmsg
-.	Z
-Skozi	Sa
-ta	Pd-npa
-prizadevanja	Ncnpa
-svet	Ncmsn
-pošilja	Vmpr3s
-jasne	Agpmpa
-znake	Ncmpa
-.	Z
-V	Sl
-tem	Pd-nsl
-smo	Va-r1p-n
-skupaj	Rgp
-in	Cc
-skozi	Sa
-to	Pd-nsa
-se	Px------y
-bomo	Va-f1p-n
-skupaj	Rgp
-prebili	Vmep-pm
-.	Z
-Hkrati	Rgp
-s	Si
-padcem	Ncmsi
-borznih	Agpmpg
-indeksov	Ncmpg
-padajo	Vmpr3p
-tudi	Q
-cene	Ncfpn
-nafte	Ncfsg
-za	Sa
-159	Mdc
--	Z
-litrski	Agpmsay
-sodček	Ncmsan
-je	Va-r3s-n
-treba	Rgp
-odšteti	Vmen
-okoli	Rgp
-80	Mdc
-dolarjev	Ncmpg
-naj	Q
-spomnimo	Vmer1p
-,	Z
-še	Q
-pred	Si
-dvema	Mlcmdi
-mesecema	Ncmdi
-je	Va-r3s-n
-bila	Va-p-sf
-cena	Ncfsn
-več	Rgc
-kot	Cs
-140	Mdc
-dolarjev	Ncmpg
-.	Z
-G	Ncmsn
--	Z
-7	Mdc
-bo	Va-f3s-n
-iskal	Vmpp-sm
-rešitev	Ncfsa
-Finančni	Agpmpn
-ministri	Ncmpn
-in	Cc
-guvernerji	Ncmpn
-centralnih	Agpfpg
-bank	Ncfpg
-sedmih	Mlc-pg
-industrijsko	Rgp
-najbolj	Rgs
-razvitih	Agpfpg
-držav	Ncfpg
--	Z
-ZDA	Npfpg
-,	Z
-Japonske	Npfsg
-,	Z
-Velike	Agpfsg
-Britanije	Npfsg
-,	Z
-Francije	Npfsg
-,	Z
-Italije	Npfsg
-in	Cc
-Kanade	Npfsg
--	Z
-so	Va-r3p-n
-večinoma	Rgp
-že	Q
-prišli	Vmep-pm
-v	Sl
-ZDA	Npfpl
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-konec	Sg
-tedna	Ncmsg
-premlevali	Vmpp-pm
-,	Z
-kako	Rgp
-se	Px------y
-učinkovito	Rgp
-spopasti	Vmen
-s	Si
-krizo	Ncfsi
-,	Z
-ki	Cs
-se	Px------y
-iz	Sg
-dneva	Ncmsg
-v	Sa
-dan	Ncmsan
-povečuje	Vmpr3s
-.	Z
-Bush	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-razume	Vmbr3s
-zaskrbljenost	Ncfsa
-Američanov	Npmpg
-glede	Sg
-njihove	Ps3fsgp
-gospodarske	Agpfsg
-prihodnosti	Ncfsg
-.	Z
-Strah	Ncmsn
-lahko	Rgp
-hrani	Vmpr3s
-strah	Ncmsan
-in	Cc
-tako	Rgp
-je	Va-r3s-n
-težko	Agpnsn
-videti	Vmbn
-vse	Pg-mpa
-ukrepe	Ncmpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-narejeni	Appmpn
-,	Z
-da	Cs
-bi	Va-c
-problem	Ncmsan
-rešili	Vmep-pm
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-Bush	Npmsn
-,	Z
-700	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-vredna	Agpfsn
-finančna	Agpfsn
-injekcija	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-podpisal	Vmep-sm
-pretekli	Appmsay
-teden	Ncmsan
-,	Z
-omogoča	Vmpr3s
-uporabo	Ncfsa
-številnih	Agpmpg
-ukrepov	Ncmpg
-za	Sa
-izboljšanje	Ncnsa
-trenutnega	Agpnsg
-stanja	Ncnsg
-,	Z
-med	Si
-njimi	Pp3mpi
-tudi	Q
-vladni	Agpmsny
-nakup	Ncmsn
-deležev	Ncmpg
-bank	Ncfpg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-prvič	Rgp
-,	Z
-da	Cs
-je	Va-r3s-n
-Bush	Npmsn
-omenil	Vmep-sm
-vladni	Agpmsay
-odkup	Ncmsan
-deležev	Ncmpg
-bank	Ncfpg
-.	Z
-Države	Ncfpg
-iščejo	Vmpr3p
-načine	Ncmpa
-,	Z
-kako	Rgp
-pomagati	Vmbn
-V	Sl
-Washingtonu	Npmsl
-se	Px------y
-je	Va-r3s-n
-začel	Vmep-sm
-tudi	Q
-osrednji	Agpmsny
-del	Ncmsn
-srečanj	Ncnpg
-v	Sl
-okviru	Ncmsl
-jesenskega	Agpnsg
-zasedanja	Ncnsg
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-in	Cc
-Svetovne	Agpfsg
-banke	Ncfsg
-.	Z
-Ukrepe	Ncmpa
-proti	Sd
-finančni	Agpfsd
-krizi	Ncfsd
-je	Va-r3s-n
-napovedalo	Vmep-sn
-več	Rgc
-evropskih	Agpfpg
-držav	Ncfpg
-.	Z
-Španska	Agpfsn
-vlada	Ncfsn
-je	Va-r3s-n
-potrdila	Vmep-sf
-oblikovanje	Ncnsa
-30	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-vrednega	Agpmsg
-začasnega	Agpmsg
-sklada	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-uporabili	Vmep-pm
-za	Sa
-nakup	Ncmsan
-premoženja	Ncnsg
-bank	Ncfpg
-in	Cc
-spodbudo	Ncfsa
-posojanju	Ncnsd
-,	Z
-če	Cs
-bo	Va-f3s-n
-to	Pd-nsn
-potrebno	Agpnsn
-.	Z
-Danski	Agpmsny
-parlament	Ncmsn
-je	Va-r3s-n
-potrdil	Vmep-sm
-vladni	Agpmsay
-zakonodajni	Agpmsay
-predlog	Ncmsan
-,	Z
-v	Sl
-skladu	Ncmsl
-s	Si
-katerim	Pq-msi
-Danska	Npfsn
-do	Sg
-30	Mdc
-.	Z
-septembra	Ncmsg
-2010	Mdc
-jamči	Vmer3s
-za	Sa
-vse	Pg-fpa
-domače	Agpfpa
-in	Cc
-tuje	Agpfpa
-vloge	Ncfpa
-v	Sl
-danskih	Agpfpl
-bankah	Ncfpl
-in	Cc
-hranilnicah	Ncfpl
-.	Z
-V	Sl
-Italiji	Npfsl
-so	Va-r3p-n
-razširili	Vmep-pm
-prepoved	Ncfsa
-t	Ncmsn
-.	Z
-i	Ncmsn
-.	Z
-prodaj	Ncmsa
-na	Sa
-kratko	Agpnsa
-na	Sa
-vse	Pg-mpa
-vrednostne	Agpmpa
-papirje	Ncmpa
-,	Z
-ki	Cs
-kotirajo	Vmpr3p
-v	Sl
-Italiji	Npfsl
-,	Z
-do	Sg
-konca	Ncmsg
-oktobra	Ncmsg
-.	Z
-Nizozemska	Agpfsn
-vlada	Ncfsn
-je	Va-r3s-n
-že	Q
-v	Sa
-četrtek	Ncmsan
-pripravila	Vmep-sf
-20	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-sredstev	Ncnpg
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-na	Sa
-voljo	Ncfsa
-nizozemskim	Agpfpd
-finančnim	Agpfpd
-ustanovam	Ncfpd
-.	Z
-Islandija	Npfsn
-ina	Npfsn
-Velika	Agpfsn
-Britanija	Npfsn
-sta	Va-r3d-n
-si	Px---d--y
-v	Sl
-laseh	Ncmpl
-Velika	Agpfsn
-Britanija	Npfsn
-je	Va-r3s-n
-poslala	Vmep-sf
-delegacijo	Ncfsa
-na	Sa
-Islandijo	Npfsa
-,	Z
-da	Cs
-bi	Va-c
-tam	Rgp
-našla	Vmep-sf
-rešitev	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-bi	Va-c
-odpravili	Vmep-pm
-zamrznitev	Ncfsa
-več	Rgc
-kot	Cs
-pet	Mlc-pa
-milijard	Ncfpg
-prihrankov	Ncmpg
-.	Z
-Islandija	Npfsn
-je	Va-r3s-n
-namreč	Cc
-nacionalizirala	Vmbp-sf
-tri	Mlcfpa
-največje	Agsfpa
-islandske	Agpfpa
-banke	Ncfpa
-,	Z
-ker	Cs
-so	Va-r3p-n
-se	Px------y
-znašle	Vmep-pf
-v	Sl
-težavah	Ncfpl
-,	Z
-pri	Sl
-tem	Pd-nsl
-pa	Cc
-je	Va-r3s-n
-zamrznila	Vmep-sf
-več	Rgc
-kot	Cs
-pet	Mlc-pa
-milijard	Ncfpg
-evrov	Ncmpg
-sredstev	Ncnpg
-okrog	Rgp
-300.000	Mdc
-britanskih	Agpmpg
-varčevalcev	Ncmpg
-,	Z
-kar	Pr-nsn
-pa	Cc
-je	Va-r3s-n
-v	Sl
-Veliki	Agpfsl
-Britaniji	Npfsl
-naletelo	Vmep-sn
-na	Sa
-neodobravanje	Ncnsa
-.	Z
-Britanci	Npmpn
-so	Va-r3p-n
-potem	Rgp
-enako	Rgp
-storili	Vmep-pm
-s	Si
-premoženjem	Ncnsi
-islandskih	Agpfpg
-bank	Ncfpg
-na	Sl
-Otoku	Ncmsl
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-so	Va-r3p-n
-vzrojili	Vmep-pm
-v	Sl
-Reykjaviku	Npmsl
-.	Z
+token	tag	lemma
+Indeks	mte:Ncmsn	indeks
+Dow	mte:Npmsn	Dow
+Jones	mte:Npmsn	Jones
+znova	mte:Rgp	znova
+padel	mte:Vmep-sm	pasti
+Lahko	mte:Rgp	lahko
+rešimo	mte:Vmer1p	rešiti
+krizo	mte:Ncfsa	kriza
+in	mte:Cc	in
+jo	mte:Pp3fsa--y	on
+bomo	mte:Va-f1p-n	biti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+razburjene	mte:Appmpa	razburjen
+državljane	mte:Ncmpa	državljan
+umirjal	mte:Vmpp-sm	umirjati
+George	mte:Npmsn	George
+Bush	mte:Npmsn	Bush
+.	mte:Z	.
+Sprva	mte:Rgp	sprva
+je	mte:Va-r3s-n	biti
+kazalo	mte:Vmpp-sn	kazati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Wall	mte:Npmsn	Wall
+Streetu	mte:Npmsd	Stree
+napoveduje	mte:Vmpr3s	napovedovati
+še	mte:Q	še
+en	mte:Mlpmsa	en
+črn	mte:Agpmsan	črn
+dan	mte:Ncmsan	dan
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+Nasdaq	mte:Npmsn	Nasdaq
+končal	mte:Vmep-sm	končati
+celo	mte:Q	celo
+v	mte:Sl	v
+zelenem	mte:Agpmsl	zelen
+.	mte:Z	.
+Borzne	mte:Agpmpa	borzen
+posrednike	mte:Ncmpa	posrednik
+po	mte:Sl	po
+vsem	mte:Pg-msl	ves
+svetu	mte:Ncmsl	svet
+v	mte:Sl	v
+teh	mte:Pd-mpl	ta
+dneh	mte:Ncmpl	dan
+močno	mte:Rgp	močno
+boli	mte:Vmpr3s	boleti
+glava	mte:Ncfsn	glava
+,	mte:Z	,
+saj	mte:Cc	saj
+indeksom	mte:Ncmpd	indeks
+kljub	mte:Sd	kljub
+številnim	mte:Agpfpd	številen
+finančnim	mte:Agpfpd	finančen
+injekcijam	mte:Ncfpd	injekcija
+nikakor	mte:Rgp	nikakor
+ne	mte:Q	ne
+uspe	mte:Vmer3s	uspeti
+izplavati	mte:Vmpn	izplavati
+iz	mte:Sg	iz
+rdečih	mte:Agpfpg	rdeč
+številk	mte:Ncfpg	številka
+evropski	mte:Agpmpn	evropski
+trgi	mte:Ncmpn	trg
+so	mte:Va-r3p-n	biti
+trgovanje	mte:Ncnsa	trgovanje
+končali	mte:Vmep-pm	končati
+z	mte:Si	z
+osemodstotno	mte:Agpfsi	osemodstoten
+izgubo	mte:Ncfsi	izguba
+glede	mte:Rgp	glede
+na	mte:Sa	na
+včeraj	mte:Rgp	včeraj
+,	mte:Z	,
+jutro	mte:Ncnsn	jutro
+na	mte:Sl	na
+ameriškem	mte:Agpmsl	ameriški
+Wall	mte:Npmsl	Wall
+Streetu	mte:Ncmsl	street
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+začelo	mte:Vmep-sn	začeti
+z	mte:Si	z
+velikim	mte:Agpmsi	velik
+padcem	mte:Ncmsi	padec
+,	mte:Z	,
+trgovalni	mte:Agpmsay	trgovalen
+dan	mte:Ncmsn	dan
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+končal	mte:Vmep-sm	končati
+nekoliko	mte:Rgp	nekoliko
+obetavnejše	mte:Agcnsn	obetaven
+.	mte:Z	.
+Indeks	mte:Ncmsn	indeks
+Nasdaq	mte:Npmsn	Nasdaq
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+s	mte:Si	z
+četrtkom	mte:Ncmsi	četrtek
+pridobil	mte:Vmep-sm	pridobiti
+0,27	mte:Mdc	0,27
+odstotka	mte:Ncmsg	odstotek
+1.649,51	mte:Mdc	1.649,51
+točke	mte:Ncfsg	točka
+,	mte:Z	,
+indeks	mte:Ncmsn	indeks
+Dow	mte:Npmsn	Dow
+Jones	mte:Npmsn	Jones
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+izgubil	mte:Vmep-sm	izgubiti
+1,49	mte:Mdc	1,49
+odstotka	mte:Ncmsg	odstotek
+8.451,19	mte:Mdc	8.451,19
+točke	mte:Ncfsg	točka
+.	mte:Z	.
+Vmes	mte:Rgp	vmes
+je	mte:Va-r3s-n	biti
+Dow	mte:Npmsn	Dow
+Jones	mte:Npmsn	Jones
+prvič	mte:Rgp	prvič
+po	mte:Sl	po
+letu	mte:Ncnsl	leto
+2003	mte:Mdc	2003
+zdrsnil	mte:Vmep-sm	zdrsniti
+celo	mte:Q	celo
+pod	mte:Sa	pod
+8.000	mte:Mdc	8.000
+točk	mte:Ncfpg	točka
+.	mte:Z	.
+Razum	mte:Ncmsn	razum
+je	mte:Va-r3s-n	biti
+odpovedal	mte:Vmep-sm	odpovedati
+,	mte:Z	,
+kje	mte:Rgp	kje
+je	mte:Va-r3s-n	biti
+dno	mte:Ncnsn	dan
+?	mte:Z	?
+!	mte:Z	!
+Borzni	mte:Agpfsd	borzen
+cunami	mte:Ncfsd	cuna
+pustoši	mte:Vmer3s	pustošiti
+vse	mte:Pg-nsa	ves
+pred	mte:Si	pred
+seboj	mte:Px---i	se
+Ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+George	mte:Npmsn	George
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vladni	mte:Agpmsny	vladen
+načrt	mte:Ncmsn	načrt
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+krize	mte:Ncfsg	kriza
+dovolj	mte:Rgp	dovolj
+agresiven	mte:Agpmsnn	agresiven
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+obrodil	mte:Vmep-sm	obroditi
+sadove	mte:Ncmpa	sad
+,	mte:Z	,
+toda	mte:Cc	toda
+potrebuje	mte:Vmpr3s	potrebovati
+še	mte:Q	še
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+.	mte:Z	.
+Skozi	mte:Sa	skozi
+ta	mte:Pd-npa	ta
+prizadevanja	mte:Ncnpa	prizadevanje
+svet	mte:Ncmsn	svet
+pošilja	mte:Vmpr3s	pošiljati
+jasne	mte:Agpmpa	jasen
+znake	mte:Ncmpa	znak
+.	mte:Z	.
+V	mte:Sl	v
+tem	mte:Pd-nsl	ta
+smo	mte:Va-r1p-n	biti
+skupaj	mte:Rgp	skupaj
+in	mte:Cc	in
+skozi	mte:Sa	skozi
+to	mte:Pd-nsa	ta
+se	mte:Px------y	se
+bomo	mte:Va-f1p-n	biti
+skupaj	mte:Rgp	skupaj
+prebili	mte:Vmep-pm	prebiti
+.	mte:Z	.
+Hkrati	mte:Rgp	hkrati
+s	mte:Si	z
+padcem	mte:Ncmsi	padec
+borznih	mte:Agpmpg	borzen
+indeksov	mte:Ncmpg	indeks
+padajo	mte:Vmpr3p	padati
+tudi	mte:Q	tudi
+cene	mte:Ncfpn	cena
+nafte	mte:Ncfsg	nafta
+za	mte:Sa	za
+159	mte:Mdc	159
+-	mte:Z	-
+litrski	mte:Agpmsay	litrski
+sodček	mte:Ncmsan	sodček
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+odšteti	mte:Vmen	odšteti
+okoli	mte:Rgp	okoli
+80	mte:Mdc	80
+dolarjev	mte:Ncmpg	dolar
+naj	mte:Q	naj
+spomnimo	mte:Vmer1p	spomniti
+,	mte:Z	,
+še	mte:Q	še
+pred	mte:Si	pred
+dvema	mte:Mlcmdi	dva
+mesecema	mte:Ncmdi	mesec
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+cena	mte:Ncfsn	cena
+več	mte:Rgc	več
+kot	mte:Cs	kot
+140	mte:Mdc	140
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+G	mte:Ncmsn	G
+-	mte:Z	-
+7	mte:Mdc	7
+bo	mte:Va-f3s-n	biti
+iskal	mte:Vmpp-sm	iskati
+rešitev	mte:Ncfsa	rešitev
+Finančni	mte:Agpmpn	finančen
+ministri	mte:Ncmpn	minister
+in	mte:Cc	in
+guvernerji	mte:Ncmpn	guverner
+centralnih	mte:Agpfpg	centralen
+bank	mte:Ncfpg	banka
+sedmih	mte:Mlc-pg	sedem
+industrijsko	mte:Rgp	industrijsko
+najbolj	mte:Rgs	najbolj
+razvitih	mte:Agpfpg	razvit
+držav	mte:Ncfpg	država
+-	mte:Z	-
+ZDA	mte:Npfpg	ZDA
+,	mte:Z	,
+Japonske	mte:Npfsg	Japonska
+,	mte:Z	,
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+,	mte:Z	,
+Francije	mte:Npfsg	Francija
+,	mte:Z	,
+Italije	mte:Npfsg	Italija
+in	mte:Cc	in
+Kanade	mte:Npfsg	Kanada
+-	mte:Z	-
+so	mte:Va-r3p-n	biti
+večinoma	mte:Rgp	večinoma
+že	mte:Q	že
+prišli	mte:Vmep-pm	priti
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+konec	mte:Sg	konec
+tedna	mte:Ncmsg	teden
+premlevali	mte:Vmpp-pm	premlevati
+,	mte:Z	,
+kako	mte:Rgp	kako
+se	mte:Px------y	se
+učinkovito	mte:Rgp	učinkovito
+spopasti	mte:Vmen	spopasti
+s	mte:Si	z
+krizo	mte:Ncfsi	kriza
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+iz	mte:Sg	iz
+dneva	mte:Ncmsg	dan
+v	mte:Sa	v
+dan	mte:Ncmsan	dan
+povečuje	mte:Vmpr3s	povečevati
+.	mte:Z	.
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+razume	mte:Vmbr3s	razumeti
+zaskrbljenost	mte:Ncfsa	zaskrbljenost
+Američanov	mte:Npmpg	Američan
+glede	mte:Sg	glede
+njihove	mte:Ps3fsgp	njihov
+gospodarske	mte:Agpfsg	gospodarski
+prihodnosti	mte:Ncfsg	prihodnost
+.	mte:Z	.
+Strah	mte:Ncmsn	strah
+lahko	mte:Rgp	lahko
+hrani	mte:Vmpr3s	hraniti
+strah	mte:Ncmsan	strah
+in	mte:Cc	in
+tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+težko	mte:Agpnsn	težek
+videti	mte:Vmbn	videti
+vse	mte:Pg-mpa	ves
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+narejeni	mte:Appmpn	narejen
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+problem	mte:Ncmsan	problem
+rešili	mte:Vmep-pm	rešiti
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Bush	mte:Npmsn	Bush
+,	mte:Z	,
+700	mte:Mdc	700
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+vredna	mte:Agpfsn	vreden
+finančna	mte:Agpfsn	finančen
+injekcija	mte:Ncfsn	injekcija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+podpisal	mte:Vmep-sm	podpisati
+pretekli	mte:Appmsay	pretekel
+teden	mte:Ncmsan	teden
+,	mte:Z	,
+omogoča	mte:Vmpr3s	omogočati
+uporabo	mte:Ncfsa	uporaba
+številnih	mte:Agpmpg	številen
+ukrepov	mte:Ncmpg	ukrep
+za	mte:Sa	za
+izboljšanje	mte:Ncnsa	izboljšanje
+trenutnega	mte:Agpnsg	trenuten
+stanja	mte:Ncnsg	stanje
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+tudi	mte:Q	tudi
+vladni	mte:Agpmsny	vladen
+nakup	mte:Ncmsn	nakup
+deležev	mte:Ncmpg	delež
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+prvič	mte:Rgp	prvič
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Bush	mte:Npmsn	Bush
+omenil	mte:Vmep-sm	omeniti
+vladni	mte:Agpmsay	vladen
+odkup	mte:Ncmsan	odkup
+deležev	mte:Ncmpg	delež
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+Države	mte:Ncfpg	država
+iščejo	mte:Vmpr3p	iskati
+načine	mte:Ncmpa	način
+,	mte:Z	,
+kako	mte:Rgp	kako
+pomagati	mte:Vmbn	pomagati
+V	mte:Sl	v
+Washingtonu	mte:Npmsl	Washington
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+začel	mte:Vmep-sm	začeti
+tudi	mte:Q	tudi
+osrednji	mte:Agpmsny	osrednji
+del	mte:Ncmsn	del
+srečanj	mte:Ncnpg	srečanje
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+jesenskega	mte:Agpnsg	jesenski
+zasedanja	mte:Ncnsg	zasedanje
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+in	mte:Cc	in
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Ukrepe	mte:Ncmpa	ukrep
+proti	mte:Sd	proti
+finančni	mte:Agpfsd	finančen
+krizi	mte:Ncfsd	kriza
+je	mte:Va-r3s-n	biti
+napovedalo	mte:Vmep-sn	napovedati
+več	mte:Rgc	več
+evropskih	mte:Agpfpg	evropski
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Španska	mte:Agpfsn	španski
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+potrdila	mte:Vmep-sf	potrditi
+oblikovanje	mte:Ncnsa	oblikovanje
+30	mte:Mdc	30
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+vrednega	mte:Agpmsg	vreden
+začasnega	mte:Agpmsg	začasen
+sklada	mte:Ncmsg	sklad
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+uporabili	mte:Vmep-pm	uporabiti
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+premoženja	mte:Ncnsg	premoženje
+bank	mte:Ncfpg	banka
+in	mte:Cc	in
+spodbudo	mte:Ncfsa	spodbuda
+posojanju	mte:Ncnsd	posojanje
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+potrebno	mte:Agpnsn	potreben
+.	mte:Z	.
+Danski	mte:Agpmsny	danski
+parlament	mte:Ncmsn	parlament
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+vladni	mte:Agpmsay	vladen
+zakonodajni	mte:Agpmsay	zakonodajen
+predlog	mte:Ncmsan	predlog
+,	mte:Z	,
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+Danska	mte:Npfsn	Danska
+do	mte:Sg	do
+30	mte:Mdc	30
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+2010	mte:Mdc	2010
+jamči	mte:Vmer3s	jamči
+za	mte:Sa	za
+vse	mte:Pg-fpa	ves
+domače	mte:Agpfpa	domač
+in	mte:Cc	in
+tuje	mte:Agpfpa	tuj
+vloge	mte:Ncfpa	vloga
+v	mte:Sl	v
+danskih	mte:Agpfpl	danski
+bankah	mte:Ncfpl	banka
+in	mte:Cc	in
+hranilnicah	mte:Ncfpl	hranilnica
+.	mte:Z	.
+V	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+so	mte:Va-r3p-n	biti
+razširili	mte:Vmep-pm	razširiti
+prepoved	mte:Ncfsa	prepoved
+t	mte:Ncmsn	t
+.	mte:Z	.
+i	mte:Ncmsn	i
+.	mte:Z	.
+prodaj	mte:Ncmsa	prodaja
+na	mte:Sa	na
+kratko	mte:Agpnsa	kratek
+na	mte:Sa	na
+vse	mte:Pg-mpa	ves
+vrednostne	mte:Agpmpa	vrednosten
+papirje	mte:Ncmpa	papir
+,	mte:Z	,
+ki	mte:Cs	ki
+kotirajo	mte:Vmpr3p	kotirati
+v	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+,	mte:Z	,
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+oktobra	mte:Ncmsg	oktober
+.	mte:Z	.
+Nizozemska	mte:Agpfsn	nizozemski
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+pripravila	mte:Vmep-sf	pripraviti
+20	mte:Mdc	20
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+nizozemskim	mte:Agpfpd	nizozemski
+finančnim	mte:Agpfpd	finančen
+ustanovam	mte:Ncfpd	ustanova
+.	mte:Z	.
+Islandija	mte:Npfsn	Islandija
+ina	mte:Npfsn	ina
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+sta	mte:Va-r3d-n	biti
+si	mte:Px---d--y	se
+v	mte:Sl	v
+laseh	mte:Ncmpl	las
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+je	mte:Va-r3s-n	biti
+poslala	mte:Vmep-sf	poslati
+delegacijo	mte:Ncfsa	delegacija
+na	mte:Sa	na
+Islandijo	mte:Npfsa	Islandija
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+tam	mte:Rgp	tam
+našla	mte:Vmep-sf	najti
+rešitev	mte:Ncfsa	rešitev
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+bi	mte:Va-c	biti
+odpravili	mte:Vmep-pm	odpraviti
+zamrznitev	mte:Ncfsa	zamrznitev
+več	mte:Rgc	več
+kot	mte:Cs	kot
+pet	mte:Mlc-pa	pet
+milijard	mte:Ncfpg	milijarda
+prihrankov	mte:Ncmpg	prihranek
+.	mte:Z	.
+Islandija	mte:Npfsn	Islandija
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+nacionalizirala	mte:Vmbp-sf	nacionalizirati
+tri	mte:Mlcfpa	trije
+največje	mte:Agsfpa	velik
+islandske	mte:Agpfpa	islandski
+banke	mte:Ncfpa	banka
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+znašle	mte:Vmep-pf	znajti
+v	mte:Sl	v
+težavah	mte:Ncfpl	težava
+,	mte:Z	,
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zamrznila	mte:Vmep-sf	zamrzniti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+pet	mte:Mlc-pa	pet
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+sredstev	mte:Ncnpg	sredstvo
+okrog	mte:Rgp	okrog
+300.000	mte:Mdc	300.000
+britanskih	mte:Agpmpg	britanski
+varčevalcev	mte:Ncmpg	varčevalec
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Veliki	mte:Agpfsl	velik
+Britaniji	mte:Npfsl	Britanija
+naletelo	mte:Vmep-sn	naleteti
+na	mte:Sa	na
+neodobravanje	mte:Ncnsa	neodobravanje
+.	mte:Z	.
+Britanci	mte:Npmpn	Britanci
+so	mte:Va-r3p-n	biti
+potem	mte:Rgp	potem
+enako	mte:Rgp	enako
+storili	mte:Vmep-pm	storiti
+s	mte:Si	z
+premoženjem	mte:Ncnsi	premoženje
+islandskih	mte:Agpfpg	islandski
+bank	mte:Ncfpg	banka
+na	mte:Sl	na
+Otoku	mte:Ncmsl	otok
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+so	mte:Va-r3p-n	biti
+vzrojili	mte:Vmep-pm	vzrojiti
+v	mte:Sl	v
+Reykjaviku	mte:Npmsl	Reykjavik
+.	mte:Z	.
+Vrednost	mte:Ncfsn	vrednost
+evra	mte:Ncmsg	evro
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+dolarjem	mte:Ncmsi	dolar
+je	mte:Va-r3s-n	biti
+padla	mte:Vmep-sf	pasti
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+padla	mte:Vmep-sf	pasti
+vrednost	mte:Ncfsa	vrednost
+funta	mte:Ncmsg	funt
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+dolarjem	mte:Ncmsi	dolar

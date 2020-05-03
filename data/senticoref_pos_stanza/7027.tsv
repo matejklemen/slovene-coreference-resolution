@@ -1,578 +1,607 @@
-token	tag
-Direktor	Ncmsn
-BP	Npmsn
--	Z
-ja	Q
-Tony	Npmsn
-Hayward	Npmsn
-1	Mdc
-.	Z
-oktobra	Ncmsg
-odhaja	Vmpr3s
-,	Z
-zamenjal	Vmep-sm
-ga	Pp3msa--y
-bo	Va-f3s-n
-Dudley	Npmsn
-Naftno	Agpnsn
-podjetje	Ncnsn
-BP	Npmsn
-je	Va-r3s-n
-od	Sg
-aprila	Ncmsg
-do	Sg
-junija	Ncmsg
-poslovalo	Vmpp-sn
-s	Si
-13	Mdc
-milijardami	Ncfpi
-evrov	Ncmpg
-izgube	Ncfsg
-,	Z
-stroški	Ncmpn
-v	Sl
-Mehiškem	Agpmsl
-zalivu	Ncmsl
-so	Va-r3p-n
-bili	Va-p-pm
-25	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-.	Z
-Podjetje	Ncnsa
-zapušča	Vmpr3s
-Tony	Npmsn
-Hayward	Npmsn
-.	Z
-Od	Sg
-eksplozije	Ncfsg
-na	Sl
-naftni	Agpfsl
-ploščadi	Ncfsl
-20	Mdc
-.	Z
-aprila	Ncmsg
-letos	Rgp
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-umrlo	Vmep-sn
-11	Mdc
-delavcev	Ncmpg
-,	Z
-v	Sa
-Mehiški	Agpmsay
-zaliv	Ncmsan
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-razlila	Vmep-sf
-rekordna	Agpfsn
-količina	Ncfsn
-nafte	Ncfsg
-,	Z
-se	Px------y
-je	Va-r3s-n
-vrednost	Ncfsn
-BP	Npfsn
--	Z
-ja	Q
-na	Sl
-trgu	Ncmsl
-znižala	Vmep-sf
-za	Sa
-40	Mdc
-odstotkov	Ncmpg
-.	Z
-V	Sl
-polletnem	Agpnsl
-poročilu	Ncnsl
-je	Va-r3s-n
-v	Sa
-25	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-BP	Npmsn
-namenil	Vmep-sm
-stroškom	Ncmpd
-čiščenja	Ncnsg
-nafte	Ncfsg
-,	Z
-vštetih	Ncmpg
-tudi	Q
-15	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-podjetje	Ncnsn
-namenilo	Vmep-sn
-različnim	Agpfpd
-tožbam	Ncfpd
-in	Cc
-izplačilu	Ncnsd
-odškodnine	Ncfsg
-ribičem	Ncmpd
-.	Z
-BBC	Npmsn
-piše	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-imel	Vmpp-sm
-BP	Npmsn
-,	Z
-če	Cs
-seveda	Q
-ne	Q
-bi	Va-c
-upoštevali	Vmbp-pm
-stroškov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-imel	Vmpp-sm
-z	Si
-Mehiškim	Agpmsi
-zalivom	Ncmsi
-,	Z
-v	Sl
-drugem	Mlpnsl
-četretletju	Ncnsl
-šestih	Mlc-pg
-milijard	Ncfpg
-evrov	Ncmpg
-dobička	Ncmsg
-v	Sl
-primerjavi	Ncfsl
-z	Si
-drugim	Mlpnsi
-četrtletjem	Ncnsi
-v	Sl
-letu	Ncnsl
-2009	Mdc
-,	Z
-ko	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-pridelal	Vmep-sm
-2,2	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Podjetje	Ncnsn
-za	Sa
-drugo	Mlpnsa
-četretletje	Ncnsa
-ne	Q
-bo	Va-f3s-n
-izplačevalo	Vmpp-sn
-dividend	Ncfpg
-,	Z
-prav	Q
-tako	Rgp
-pa	Cc
-je	Va-r3s-n
-napovedalo	Vmep-sn
-,	Z
-da	Cs
-bo	Va-f3s-n
-prodalo	Vmep-sn
-nekaj	Rgp
-svojega	Px-nsg
-premoženja	Ncnsg
-za	Sa
-23	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-.	Z
-BP	Ncmsn
-z	Si
-novim	Agpnsi
-vodstvom	Ncnsi
-Čeprav	Cs
-so	Va-r3p-n
-se	Px------y
-britanski	Agpmpn
-mediji	Ncmpn
-razpisali	Vmep-pm
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-generalni	Agpmsny
-direktor	Ncmsn
-podjetja	Ncnsg
-British	Npmsn
-Petroleum	Npmsn
-Tony	Npmsn
-Hayward	Npmsn
-v	Sa
-soboto	Ncfsa
-podal	Vmbp-sm
-svoj	Px-msa
-odstop	Ncmsan
-v	Sl
-24	Mdc
-urah	Ncfpl
-,	Z
-se	Px------y
-to	Pd-nsn
-ni	Va-r3s-y
-zgodilo	Vmep-sn
-.	Z
-BP	Npmsn
-je	Va-r3s-n
-namreč	Cc
-objavil	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-Hayward	Npmsn
-po	Sl
-28	Mdc
-letih	Ncnpl
-v	Sl
-podjetju	Ncnsl
-s	Sg
-položaja	Ncmsg
-generalnega	Agpmsg
-direktorja	Ncmsg
-odšel	Vmep-sm
-1	Mdc
-.	Z
-oktobra	Ncmsg
-letos	Rgp
-,	Z
-zamenjal	Vmep-sm
-pa	Cc
-ga	Pp3msa--y
-bo	Va-f3s-n
-ameriški	Agpmsny
-kolega	Ncmsn
-Robert	Npmsn
-Dudley	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-sicer	Q
-odgovoren	Agpmsnn
-za	Sa
-čiščenje	Ncnsa
-razlite	Ncfsg
-nafte	Ncfsg
-v	Sl
-Mehiškem	Agpmsl
-zalivu	Ncmsl
-,	Z
-piše	Vmpr3s
-britanski	Agpmsay
-medij	Ncmsn
-BBC	Npmsn
-.	Z
-Greenpeace	Npmsn
-zahteva	Vmbr3s
-bolj	Rgc
-zeleno	Agpfsa
-politiko	Ncfsa
-Bencinske	Agpfsg
-črpalke	Ncfsg
-BP	Npfsn
--	Z
-ja	Q
-v	Sl
-Londonu	Npmsl
-so	Va-r3p-n
-zaprli	Vmep-pm
-okoljevarstveni	Agpmpn
-protestniki	Ncmpn
-.	Z
-Skupina	Ncfsn
-Greenpeace	Npmsn
-trdi	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-prekinila	Vmep-sf
-dobavo	Ncfsa
-goriva	Ncnsg
-na	Sa
-vse	Pg-fpa
-črpalke	Ncfpa
-v	Sl
-središču	Ncnsl
-britanske	Agpfsg
-prestolnice	Ncfsg
-,	Z
-BP	Npmsn
-pa	Cc
-je	Va-r3s-n
-sporočil	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-zaprli	Vmep-pm
-okoli	Rgp
-20	Mdc
-njihovih	Ps3fpgp
-črpalk	Ncfpg
-.	Z
-Aktivisti	Ncmpn
-so	Va-r3p-n
-dobavo	Ncfsa
-goriva	Ncnsg
-ustavili	Vmep-pm
-tako	Rgp
-,	Z
-da	Cs
-so	Va-r3p-n
-zaprli	Vmep-pm
-varnostne	Agpmpa
-ventile	Ncmpa
-na	Sl
-črpalkah	Ncfpl
-,	Z
-nato	Rgp
-pa	Cc
-jih	Pp3mpa--y
-odstranili	Vmep-pm
-,	Z
-da	Cs
-jih	Pp3mpa--y
-ne	Q
-bi	Va-c
-mogli	Vmpp-pm
-znova	Rgp
-odpreti	Vmen
-.	Z
-Ventile	Ncmpa
-bodo	Va-f3p-n
-vrnili	Vmep-pm
-,	Z
-je	Va-r3s-n
-zatrdil	Vmep-sm
-Greenpeace	Npmsn
-.	Z
-Greenpeace	Npmsn
-želi	Vmpr3s
-s	Si
-svojo	Px-fsi
-akcijo	Ncfsi
-podjetje	Ncnsa
-prisiliti	Vmen
-k	Sd
-bolj	Rgc
-zeleni	Agpfsd
-energetski	Agpfsd
-politiki	Ncfsd
-oziroma	Cc
-da	Cs
-bi	Va-c
-prisilili	Vmep-pm
-prihodnje	Agpnsa
-vodstvo	Ncnsa
-podjetja	Ncnsg
-,	Z
-da	Cs
-se	Px------y
-oddalji	Vmer3s
-od	Sg
-obsedenosti	Ncfsg
-z	Si
-zelo	Rgp
-nevarnimi	Agpmpi
-,	Z
-do	Sg
-okolja	Ncnsg
-neodgovornimi	Agpmpi
-viri	Ncmpi
-nafte	Ncfsg
-zdajšnjega	Agpmsg
-vodje	Ncmsg
-Tonyja	Npmsg
-Haywarda	Npmsg
-.	Z
-BP	Npmsn
-je	Va-r3s-n
-akcijo	Ncfsa
-označil	Vmep-sm
-za	Sa
-neodgovorno	Agpnsa
-in	Cc
-otroško	Agpnsa
-dejanje	Ncnsa
-,	Z
-ki	Cs
-se	Px------y
-vmešava	Vmpr3s
-v	Sa
-varnostne	Agpmpa
-sisteme	Ncmpa
-.	Z
-Hayward	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-trenutek	Ncmsn
-njegovega	Ps3msgsm
-odhoda	Ncmsg
-primeren	Agpmsnn
-,	Z
-saj	Cc
-je	Va-r3s-n
-BP	Npmsn
--	Z
-ju	Pp3mda--y
-uspelo	Vmep-sn
-ustaviti	Vmen
-iztekanje	Ncnsa
-nafte	Ncfsg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-dobra	Agpfsn
-osnova	Ncfsn
-za	Sa
-spremembo	Ncfsa
-vodstva	Ncnsg
-v	Sl
-podjetju	Ncnsl
-,	Z
-je	Va-r3s-n
-še	Q
-pojasnil	Vmep-sm
-Hayward	Npmsn
-.	Z
-Hayward	Npmsn
-upravičen	Appmsnn
-do	Sg
-700	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-pokojnine	Ncfsg
-letno	Rgp
-Že	Q
-v	Sa
-ponedeljek	Ncmsan
-je	Va-r3s-n
-BBC	Npmsn
-objavil	Vmep-sm
-podatek	Ncmsan
-,	Z
-da	Cs
-bo	Va-f3s-n
-Hayward	Npmsn
-upravičen	Appmsnn
-do	Sg
-700	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-pokojnine	Ncfsg
-letno	Agpnsn
-.	Z
-Sicer	Q
-pa	Cc
-je	Va-r3s-n
-vrednost	Ncfsn
-Haywardova	Aspfsg
-upokojitvene	Agpfsg
-vreče	Ncfsg
-ocenjena	Appfsn
-na	Sa
-13	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-bo	Va-f3s-n
-lahko	Rgp
-obdržal	Vmep-sm
-vrednost	Ncfsa
-delnic	Ncfpg
-.	Z
-Nad	Si
-Haywardom	Npmsi
-kot	Cs
-senca	Ncfsn
-zla	Ncmsg
-ne	Q
-ležijo	Vmpr3p
-le	Q
-rdeče	Agpfpn
-številke	Ncfpn
-,	Z
-temveč	Cc
-tudi	Q
-obtožbe	Ncfpn
-ameriških	Agpmpg
-kongresnikov	Ncmpg
-,	Z
-da	Cs
-ni	Va-r3s-y
-prevzel	Vmep-sm
-nikakršne	Pz-fsg
-odgovornosti	Ncfsg
-.	Z
-Neprimerne	Agpfpn
-so	Va-r3p-n
-bile	Va-p-pf
-tudi	Q
-njegove	Ps3fpnsm
-izjave	Ncfpn
-,	Z
-češ	Q
-da	Cs
-je	Va-r3s-n
-nastala	Vmep-sf
-nesreča	Ncfsn
-res	Rgp
-grozna	Agpfsn
-,	Z
-a	Cc
-da	Cs
-si	Px---d--y
-tudi	Q
-on	Pp3msn
-želi	Vmpr3s
-nazaj	Rgp
-svoje	Px-nsa
-staro	Agpnsa
-življenje	Ncnsa
-.	Z
-Prav	Q
-tako	Rgp
-se	Px------y
-je	Va-r3s-n
-sredi	Sg
-junija	Ncmsg
-odpravil	Vmep-sm
-na	Sa
-jadranje	Ncnsa
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-nafta	Ncfsn
-iz	Sg
-globini	Ncfsg
-1.500	Mdc
-metrov	Ncmpg
-vrela	Vmep-sf
-na	Sa
-plan	Ncmsan
-z	Si
-vso	Pg-fsi
-svojo	Px-fsi
-silo	Ncfsi
-.	Z
+token	tag	lemma
+Direktor	mte:Ncmsn	direktor
+BP	mte:Npmsn	BP
+-	mte:Z	-
+ja	mte:Q	ja
+Tony	mte:Npmsn	Tony
+Hayward	mte:Npmsn	Hayward
+1	mte:Mdc	1
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+odhaja	mte:Vmpr3s	odhajati
+,	mte:Z	,
+zamenjal	mte:Vmep-sm	zamenjati
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+Dudley	mte:Npmsn	Dudley
+Naftno	mte:Agpnsn	naften
+podjetje	mte:Ncnsn	podjetje
+BP	mte:Npmsn	BP
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+aprila	mte:Ncmsg	april
+do	mte:Sg	do
+junija	mte:Ncmsg	junij
+poslovalo	mte:Vmpp-sn	poslovati
+s	mte:Si	z
+13	mte:Mdc	13
+milijardami	mte:Ncfpi	milijarda
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+,	mte:Z	,
+stroški	mte:Ncmpn	strošek
+v	mte:Sl	v
+Mehiškem	mte:Agpmsl	mehiški
+zalivu	mte:Ncmsl	zaliv
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+25	mte:Mdc	25
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Podjetje	mte:Ncnsa	podjetje
+zapušča	mte:Vmpr3s	zapuščati
+Tony	mte:Npmsn	Tony
+Hayward	mte:Npmsn	Hayward
+.	mte:Z	.
+Od	mte:Sg	od
+eksplozije	mte:Ncfsg	eksplozija
+na	mte:Sl	na
+naftni	mte:Agpfsl	naften
+ploščadi	mte:Ncfsl	ploščad
+20	mte:Mdc	20
+.	mte:Z	.
+aprila	mte:Ncmsg	april
+letos	mte:Rgp	letos
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+umrlo	mte:Vmep-sn	umreti
+11	mte:Mdc	11
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+v	mte:Sa	v
+Mehiški	mte:Agpmsay	mehiški
+zaliv	mte:Ncmsan	zaliv
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+razlila	mte:Vmep-sf	razliti
+rekordna	mte:Agpfsn	rekorden
+količina	mte:Ncfsn	količina
+nafte	mte:Ncfsg	nafta
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+vrednost	mte:Ncfsn	vrednost
+BP	mte:Npfsn	BP
+-	mte:Z	-
+ja	mte:Q	ja
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+40	mte:Mdc	40
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+polletnem	mte:Agpnsl	polleten
+poročilu	mte:Ncnsl	poročilo
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+25	mte:Mdc	25
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+BP	mte:Npmsn	BP
+namenil	mte:Vmep-sm	nameniti
+stroškom	mte:Ncmpd	strošek
+čiščenja	mte:Ncnsg	čiščenje
+nafte	mte:Ncfsg	nafta
+,	mte:Z	,
+vštetih	mte:Ncmpg	vštet
+tudi	mte:Q	tudi
+15	mte:Mdc	15
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+namenilo	mte:Vmep-sn	nameniti
+različnim	mte:Agpfpd	različen
+tožbam	mte:Ncfpd	tožba
+in	mte:Cc	in
+izplačilu	mte:Ncnsd	izplačilo
+odškodnine	mte:Ncfsg	odškodnina
+ribičem	mte:Ncmpd	ribič
+.	mte:Z	.
+BBC	mte:Npmsn	BBC
+piše	mte:Vmpr3s	pisati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+BP	mte:Npmsn	BP
+,	mte:Z	,
+če	mte:Cs	če
+seveda	mte:Q	seveda
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+upoštevali	mte:Vmbp-pm	upoštevati
+stroškov	mte:Ncmpg	strošek
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+z	mte:Si	z
+Mehiškim	mte:Agpmsi	mehiški
+zalivom	mte:Ncmsi	zaliv
+,	mte:Z	,
+v	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četretletju	mte:Ncnsl	četretletje
+šestih	mte:Mlc-pg	šest
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+dobička	mte:Ncmsg	dobiček
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+drugim	mte:Mlpnsi	drug
+četrtletjem	mte:Ncnsi	četrtletje
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2009	mte:Mdc	2009
+,	mte:Z	,
+ko	mte:Cs	ko
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+pridelal	mte:Vmep-sm	pridelati
+2,2	mte:Mdc	2,2
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Podjetje	mte:Ncnsn	podjetje
+za	mte:Sa	za
+drugo	mte:Mlpnsa	drug
+četretletje	mte:Ncnsa	četretletje
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+izplačevalo	mte:Vmpp-sn	izplačevati
+dividend	mte:Ncfpg	dividend
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+napovedalo	mte:Vmep-sn	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+prodalo	mte:Vmep-sn	prodati
+nekaj	mte:Rgp	nekaj
+svojega	mte:Px-nsg	svoj
+premoženja	mte:Ncnsg	premoženje
+za	mte:Sa	za
+23	mte:Mdc	23
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+BP	mte:Ncmsn	BP
+z	mte:Si	z
+novim	mte:Agpnsi	nov
+vodstvom	mte:Ncnsi	vodstvo
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+britanski	mte:Agpmpn	britanski
+mediji	mte:Ncmpn	medij
+razpisali	mte:Vmep-pm	razpisati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+podjetja	mte:Ncnsg	podjetje
+British	mte:Npmsn	British
+Petroleum	mte:Npmsn	Petroleum
+Tony	mte:Npmsn	Tony
+Hayward	mte:Npmsn	Hayward
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+podal	mte:Vmbp-sm	podati
+svoj	mte:Px-msa	svoj
+odstop	mte:Ncmsan	odstop
+v	mte:Sl	v
+24	mte:Mdc	24
+urah	mte:Ncfpl	ura
+,	mte:Z	,
+se	mte:Px------y	se
+to	mte:Pd-nsn	ta
+ni	mte:Va-r3s-y	biti
+zgodilo	mte:Vmep-sn	zgoditi
+.	mte:Z	.
+BP	mte:Npmsn	BP
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+objavil	mte:Vmep-sm	objaviti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Hayward	mte:Npmsn	Hayward
+po	mte:Sl	po
+28	mte:Mdc	28
+letih	mte:Ncnpl	leto
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+generalnega	mte:Agpmsg	generalen
+direktorja	mte:Ncmsg	direktor
+odšel	mte:Vmep-sm	oditi
+1	mte:Mdc	1
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+letos	mte:Rgp	letos
+,	mte:Z	,
+zamenjal	mte:Vmep-sm	zamenjati
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+ameriški	mte:Agpmsny	ameriški
+kolega	mte:Ncmsn	kolega
+Robert	mte:Npmsn	Robert
+Dudley	mte:Npmsn	Dudley
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+odgovoren	mte:Agpmsnn	odgovoren
+za	mte:Sa	za
+čiščenje	mte:Ncnsa	čiščenje
+razlite	mte:Ncfsg	razlita
+nafte	mte:Ncfsg	nafta
+v	mte:Sl	v
+Mehiškem	mte:Agpmsl	mehiški
+zalivu	mte:Ncmsl	zaliv
+,	mte:Z	,
+piše	mte:Vmpr3s	pisati
+britanski	mte:Agpmsay	britanski
+medij	mte:Ncmsn	medij
+BBC	mte:Npmsn	BBC
+.	mte:Z	.
+Greenpeace	mte:Npmsn	Greenpeace
+zahteva	mte:Vmbr3s	zahtevati
+bolj	mte:Rgc	bolj
+zeleno	mte:Agpfsa	zelen
+politiko	mte:Ncfsa	politika
+Bencinske	mte:Agpfsg	bencinski
+črpalke	mte:Ncfsg	črpalka
+BP	mte:Npfsn	BP
+-	mte:Z	-
+ja	mte:Q	ja
+v	mte:Sl	v
+Londonu	mte:Npmsl	London
+so	mte:Va-r3p-n	biti
+zaprli	mte:Vmep-pm	zapreti
+okoljevarstveni	mte:Agpmpn	okoljevarstven
+protestniki	mte:Ncmpn	protestnik
+.	mte:Z	.
+Skupina	mte:Ncfsn	skupina
+Greenpeace	mte:Npmsn	Greenpeace
+trdi	mte:Vmpr3s	trditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+prekinila	mte:Vmep-sf	prekiniti
+dobavo	mte:Ncfsa	dobava
+goriva	mte:Ncnsg	gorivo
+na	mte:Sa	na
+vse	mte:Pg-fpa	ves
+črpalke	mte:Ncfpa	črpalka
+v	mte:Sl	v
+središču	mte:Ncnsl	središče
+britanske	mte:Agpfsg	britanski
+prestolnice	mte:Ncfsg	prestolnica
+,	mte:Z	,
+BP	mte:Npmsn	BP
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+sporočil	mte:Vmep-sm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+zaprli	mte:Vmep-pm	zapreti
+okoli	mte:Rgp	okoli
+20	mte:Mdc	20
+njihovih	mte:Ps3fpgp	njihov
+črpalk	mte:Ncfpg	črpalka
+.	mte:Z	.
+Aktivisti	mte:Ncmpn	aktivist
+so	mte:Va-r3p-n	biti
+dobavo	mte:Ncfsa	dobava
+goriva	mte:Ncnsg	gorivo
+ustavili	mte:Vmep-pm	ustaviti
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+zaprli	mte:Vmep-pm	zapreti
+varnostne	mte:Agpmpa	varnosten
+ventile	mte:Ncmpa	ventila
+na	mte:Sl	na
+črpalkah	mte:Ncfpl	črpalka
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+odstranili	mte:Vmep-pm	odstraniti
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+mogli	mte:Vmpp-pm	moči
+znova	mte:Rgp	znova
+odpreti	mte:Vmen	odpreti
+.	mte:Z	.
+Ventile	mte:Ncmpa	ventila
+bodo	mte:Va-f3p-n	biti
+vrnili	mte:Vmep-pm	vrniti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+Greenpeace	mte:Npmsn	Greenpeace
+.	mte:Z	.
+Greenpeace	mte:Npmsn	Greenpeace
+želi	mte:Vmpr3s	želeti
+s	mte:Si	z
+svojo	mte:Px-fsi	svoj
+akcijo	mte:Ncfsi	akcija
+podjetje	mte:Ncnsa	podjetje
+prisiliti	mte:Vmen	prisiliti
+k	mte:Sd	k
+bolj	mte:Rgc	bolj
+zeleni	mte:Agpfsd	zelen
+energetski	mte:Agpfsd	energetski
+politiki	mte:Ncfsd	politika
+oziroma	mte:Cc	oziroma
+da	mte:Cs	da
+bi	mte:Va-c	biti
+prisilili	mte:Vmep-pm	prisiliti
+prihodnje	mte:Agpnsa	prihodnji
+vodstvo	mte:Ncnsa	vodstvo
+podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+oddalji	mte:Vmer3s	oddaljiti
+od	mte:Sg	od
+obsedenosti	mte:Ncfsg	obsedenost
+z	mte:Si	z
+zelo	mte:Rgp	zelo
+nevarnimi	mte:Agpmpi	nevaren
+,	mte:Z	,
+do	mte:Sg	do
+okolja	mte:Ncnsg	okolje
+neodgovornimi	mte:Agpmpi	neodgovoren
+viri	mte:Ncmpi	vir
+nafte	mte:Ncfsg	nafta
+zdajšnjega	mte:Agpmsg	zdajšnji
+vodje	mte:Ncmsg	vodja
+Tonyja	mte:Npmsg	Tony
+Haywarda	mte:Npmsg	Hayward
+.	mte:Z	.
+BP	mte:Npmsn	BP
+je	mte:Va-r3s-n	biti
+akcijo	mte:Ncfsa	akcija
+označil	mte:Vmep-sm	označiti
+za	mte:Sa	za
+neodgovorno	mte:Agpnsa	neodgovoren
+in	mte:Cc	in
+otroško	mte:Agpnsa	otroški
+dejanje	mte:Ncnsa	dejanje
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+vmešava	mte:Vmpr3s	vmešavati
+v	mte:Sa	v
+varnostne	mte:Agpmpa	varnosten
+sisteme	mte:Ncmpa	sistem
+.	mte:Z	.
+Hayward	mte:Npmsn	Hayward
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+trenutek	mte:Ncmsn	trenutek
+njegovega	mte:Ps3msgsm	njegov
+odhoda	mte:Ncmsg	odhod
+primeren	mte:Agpmsnn	primeren
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+BP	mte:Npmsn	BP
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+uspelo	mte:Vmep-sn	uspeti
+ustaviti	mte:Vmen	ustaviti
+iztekanje	mte:Ncnsa	iztekanje
+nafte	mte:Ncfsg	nafta
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+dobra	mte:Agpfsn	dober
+osnova	mte:Ncfsn	osnova
+za	mte:Sa	za
+spremembo	mte:Ncfsa	sprememba
+vodstva	mte:Ncnsg	vodstvo
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pojasnil	mte:Vmep-sm	pojasniti
+Hayward	mte:Npmsn	Hayward
+.	mte:Z	.
+Hayward	mte:Npmsn	Hayward
+upravičen	mte:Appmsnn	upravičen
+do	mte:Sg	do
+700	mte:Mdc	700
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+pokojnine	mte:Ncfsg	pokojnina
+letno	mte:Rgp	letno
+Že	mte:Q	že
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+je	mte:Va-r3s-n	biti
+BBC	mte:Npmsn	BBC
+objavil	mte:Vmep-sm	objaviti
+podatek	mte:Ncmsan	podatek
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Hayward	mte:Npmsn	Hayward
+upravičen	mte:Appmsnn	upravičen
+do	mte:Sg	do
+700	mte:Mdc	700
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+pokojnine	mte:Ncfsg	pokojnina
+letno	mte:Agpnsn	leten
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vrednost	mte:Ncfsn	vrednost
+Haywardova	mte:Aspfsg	Haywardov
+upokojitvene	mte:Agpfsg	upokojitven
+vreče	mte:Ncfsg	vreča
+ocenjena	mte:Appfsn	ocenjen
+na	mte:Sa	na
+13	mte:Mdc	13
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+bo	mte:Va-f3s-n	biti
+lahko	mte:Rgp	lahko
+obdržal	mte:Vmep-sm	obdržati
+vrednost	mte:Ncfsa	vrednost
+delnic	mte:Ncfpg	delnica
+.	mte:Z	.
+Nad	mte:Si	nad
+Haywardom	mte:Npmsi	Hayward
+kot	mte:Cs	kot
+senca	mte:Ncfsn	senca
+zla	mte:Ncmsg	zla
+ne	mte:Q	ne
+ležijo	mte:Vmpr3p	ležati
+le	mte:Q	le
+rdeče	mte:Agpfpn	rdeč
+številke	mte:Ncfpn	številka
+,	mte:Z	,
+temveč	mte:Cc	temveč
+tudi	mte:Q	tudi
+obtožbe	mte:Ncfpn	obtožba
+ameriških	mte:Agpmpg	ameriški
+kongresnikov	mte:Ncmpg	kongresnik
+,	mte:Z	,
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+prevzel	mte:Vmep-sm	prevzeti
+nikakršne	mte:Pz-fsg	nikakršen
+odgovornosti	mte:Ncfsg	odgovornost
+.	mte:Z	.
+Neprimerne	mte:Agpfpn	neprimeren
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+tudi	mte:Q	tudi
+njegove	mte:Ps3fpnsm	njegov
+izjave	mte:Ncfpn	izjava
+,	mte:Z	,
+češ	mte:Q	češ
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+nastala	mte:Vmep-sf	nastati
+nesreča	mte:Ncfsn	nesreča
+res	mte:Rgp	res
+grozna	mte:Agpfsn	grozen
+,	mte:Z	,
+a	mte:Cc	a
+da	mte:Cs	da
+si	mte:Px---d--y	se
+tudi	mte:Q	tudi
+on	mte:Pp3msn	on
+želi	mte:Vmpr3s	želeti
+nazaj	mte:Rgp	nazaj
+svoje	mte:Px-nsa	svoj
+staro	mte:Agpnsa	star
+življenje	mte:Ncnsa	življenje
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sredi	mte:Sg	sredi
+junija	mte:Ncmsg	junij
+odpravil	mte:Vmep-sm	odpraviti
+na	mte:Sa	na
+jadranje	mte:Ncnsa	jadranje
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+nafta	mte:Ncfsn	nafta
+iz	mte:Sg	iz
+globini	mte:Ncfsg	globina
+1.500	mte:Mdc	1.500
+metrov	mte:Ncmpg	meter
+vrela	mte:Vmep-sf	vreti
+na	mte:Sa	na
+plan	mte:Ncmsan	plan
+z	mte:Si	z
+vso	mte:Pg-fsi	ves
+svojo	mte:Px-fsi	svoj
+silo	mte:Ncfsi	sila
+.	mte:Z	.
+Hayward	mte:Npmsn	Hayward
+bo	mte:Va-f3s-n	biti
+kljub	mte:Sd	kljub
+odhodu	mte:Ncmsd	odhod
+,	mte:Z	,
+zamenjal	mte:Vmep-sm	zamenjati
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+ameriški	mte:Agpmsny	ameriški
+kolega	mte:Ncmsn	kolega
+Bob	mte:Npmsn	Bob
+Dudley	mte:Npmsn	Dudley
+,	mte:Z	,
+prejel	mte:Vmep-sm	prejeti
+celoletni	mte:Agpmsay	celoleten
+izkupiček	mte:Ncmsan	izkupiček
+letošnje	mte:Agpfsg	letošnji
+plače	mte:Ncfsg	plača
+in	mte:Cc	in
+še	mte:Q	še
+nekatere	mte:Pi-fpa	nekateri
+bonitete	mte:Ncfpa	boniteta
+za	mte:Sa	za
+nekaj	mte:Rgp	nekaj
+več	mte:Rgc	več
+kot	mte:Cs	kot
+milijon	mte:Ncmsan	milijon
+evrov	mte:Ncmpg	evro

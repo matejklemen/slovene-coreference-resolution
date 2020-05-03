@@ -1,544 +1,564 @@
-token	tag
-Na	Sl
-Okrožnem	Agpnsl
-sodišču	Ncnsl
-v	Sl
-Mariboru	Npmsl
-se	Px------y
-je	Va-r3s-n
-začelo	Vmep-sn
-sojenje	Ncnsn
-20	Mdc
--	Z
-letnemu	Agpmsd
-Ljubljančanu	Npmsd
-Elvisu	Npmsd
-Livadiću	Npmsd
-in	Cc
-petim	Mlompd
-soobtoženim	Appmpd
-zaradi	Sg
-umora	Ncmsg
-pred	Si
-mariborsko	Agpfsi
-diskoteko	Ncfsi
-Trust	Npmsn
-.	Z
-Livadić	Npmsn
-naj	Q
-bi	Va-c
-po	Sl
-prerivanju	Ncnsl
-stopil	Vmep-sm
-do	Sg
-svojega	Px-msg
-avta	Ncmsg
-,	Z
-vzel	Vmep-sm
-japonski	Agpmsay
-meč	Ncmsan
-katana	Ncmsg
-in	Cc
-z	Si
-njim	Pp3msi
-Moma	Npmsn
-zabodel	Vmep-sm
-v	Sa
-prsni	Agpmsay
-koš	Ncmsan
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-ta	Pd-msn
-izkrvavel	Vmep-sm
-v	Sl
-nekaj	Rgp
-minutah	Ncfpl
-.	Z
-©	Ncmsn
-iStockphoto	Npmsn
-Medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-Elvis	Npmsn
-Livadić	Npmsn
-molčal	Vmpp-sm
-,	Z
-so	Va-r3p-n
-drugi	Mlpmpn
-podali	Vmbp-pm
-vsak	Pg-msa
-svojo	Px-fsa
-različico	Ncfsa
-dogodka	Ncmsg
-,	Z
-zlasti	Q
-o	Sl
-tem	Pd-nsl
-,	Z
-kaj	Pq-nsn
-se	Px------y
-je	Va-r3s-n
-dogajalo	Vmpp-sn
-naslednji	Agpmsny
-dan	Ncmsan
-.	Z
-Okrožna	Agpfsn
-tožilka	Ncfsn
-Alja	Npfsn
-Kramberger	Npfsn
-Kirbiš	Npfsn
-je	Va-r3s-n
-v	Sl
-obtožnici	Ncfsl
-pojasnila	Ncnsg
-okoliščine	Ncfsg
-dogodka	Ncmsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-bile	Va-p-pf
-ugotovljene	Appfpn
-v	Sl
-preiskovalnem	Agpmsl
-postopku	Ncmsl
-.	Z
-Zabodel	Vmep-sm
-ga	Pp3msa--y
-je	Va-r3s-n
-z	Si
-japonskim	Agpmsi
-mečem	Ncmsi
-28	Mdc
--	Z
-letni	Agpmsny
-Gregor	Npmsn
-Mom	Npmsn
-naj	Q
-bi	Va-c
-se	Px------y
-9	Mdc
-.	Z
-decembra	Ncmsg
-lani	Rgp
-naključno	Rgp
-sprl	Vmep-sm
-z	Si
-Livadićem	Npmsi
-,	Z
-ta	Pd-msn
-pa	Cc
-naj	Q
-bi	Va-c
-nato	Rgp
-skupaj	Rgp
-s	Si
-preostalo	Appfsi
-peterico	Ncfsi
-z	Si
-njim	Pp3msi
-fizično	Rgp
-obračunal	Vmep-sm
-na	Sl
-dvorišču	Ncnsl
-.	Z
-Livadić	Npmsn
-naj	Q
-bi	Va-c
-po	Sl
-prerivanju	Ncnsl
-stopil	Vmep-sm
-do	Sg
-svojega	Px-msg
-avta	Ncmsg
-,	Z
-vzel	Vmep-sm
-japonski	Agpmsay
-meč	Ncmsan
-katana	Ncmsg
-in	Cc
-z	Si
-njim	Pp3msi
-Moma	Npmsn
-zabodel	Vmep-sm
-v	Sa
-prsni	Agpmsay
-koš	Ncmsan
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-ta	Pd-msn
-v	Sl
-nekaj	Rgp
-minutah	Ncfpl
-izkrvavel	Vmep-sm
-.	Z
-Kramberger	Npmsn
-Kirbiševa	Aspfsn
-je	Va-r3s-n
-zato	Rgp
-v	Sl
-obtožnici	Ncfsl
-vseh	Pg-mpg
-šest	Mlc-pa
-udeležencev	Ncmpg
-obtožila	Vmep-sf
-nasilništva	Ncnpa
-,	Z
-Livadića	Npmsay
-umora	Ncmsay
-,	Z
-preostali	Appfsa
-peterici	Ncfsa
-,	Z
-21	Mdc
--	Z
-letnemu	Agpmsd
-Gregorju	Npmsd
-Plahutniku	Npmsd
-in	Cc
-leto	Ncnsa
-mlajšemu	Agcmsd
-bratu	Ncmsd
-Dejanu	Npmsd
-Plahutniku	Npmsd
-iz	Sg
-Škrilj	Npfsg
-pri	Sl
-Igu	Npmsl
-,	Z
-23	Mdc
--	Z
-letnemu	Agpmsd
-Tomažu	Npmsd
-Ropotarju	Npmsd
-iz	Sg
-Zagorice	Npfsg
-pri	Sl
-Igu	Npmsl
-in	Cc
-23	Mdc
--	Z
-oziroma	Cc
-21	Mdc
--	Z
-letnima	Agpmdd
-bratoma	Ncmpd
-Samirju	Npmsd
-in	Cc
-Damirju	Npmsd
-Goliću	Npmsd
-iz	Sg
-Iške	Agpfsg
-vasi	Ncfsg
-,	Z
-pa	Cc
-bo	Va-f3s-n
-poskušala	Vmpp-sf
-dokazati	Vmen
-še	Q
-pomoč	Ncfsa
-storilcu	Ncmsd
-pri	Sl
-kaznivem	Agpnsl
-dejanju	Ncnsl
-,	Z
-in	Cc
-sicer	Q
-s	Si
-skrivanjem	Ncnsi
-obremenilnih	Agpmpg
-dokazov	Ncmpg
-–	Z
-že	Q
-omenjenega	Appmsg
-noža	Ncmsg
-in	Cc
-Livadićeve	Aspfsg
-okrvavljene	Appfsg
-bunde	Ncfsg
-.	Z
-Povod	Ncmsn
-za	Sa
-incident	Ncmsan
-je	Va-r3s-n
-bil	Va-p-sm
-alkohol	Ncmsn
-Zaradi	Sg
-molka	Ncmsg
-prvoobtoženega	Appmsg
-in	Cc
-bolj	Rgc
-ali	Cc
-manj	Rgc
-podobnega	Agpnsg
-pričanja	Ncnsg
-vse	Rgp
-preostale	Appfpa
-peterice	Ncfpa
-o	Sl
-tem	Pd-nsl
-,	Z
-kaj	Pq-nsn
-se	Px------y
-je	Va-r3s-n
-dogajalo	Vmpp-sn
-na	Sa
-večer	Ncmsan
-in	Cc
-v	Sl
-noči	Ncfsl
-umora	Ncmsg
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-poudarek	Ncmsn
-na	Sl
-prvi	Mlofsl
-obravnavi	Ncfsl
-predvsem	Q
-na	Sl
-dogajanju	Ncnsl
-naslednji	Agpmsay
-dan	Ncmsn
-,	Z
-ko	Cs
-so	Va-r3p-n
-se	Px------y
-obtoženi	Appmpn
-poskušali	Vmpp-pm
-znebiti	Vmen
-omenjenih	Appmpg
-dokazov	Ncmpg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-povedali	Vmep-pm
-,	Z
-so	Va-r3p-n
-se	Px------y
-v	Sl
-Maribor	Npmsl
-odpravili	Vmep-pm
-po	Sl
-popoldanskem	Agpnsl
-pijančevanju	Ncnsl
-doma	Ncmsg
-,	Z
-za	Sa
-to	Pd-nsa
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-,	Z
-ker	Cs
-je	Va-r3s-n
-Damir	Npmsn
-Golić	Npmsn
-tam	Rgp
-želel	Vmpp-sm
-obiskati	Vmen
-svoje	Px-nsa
-dekle	Ncnsa
-.	Z
-Iz	Sg
-zagovorov	Ncmpg
-obtoženih	Appfpg
-je	Va-r3s-n
-bilo	Va-p-sn
-sklepati	Vmpn
-,	Z
-da	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-vsi	Pg-mpn
-kar	Rgp
-precej	Rgp
-vinjeni	Agpmpn
-,	Z
-Livadić	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-po	Sl
-njihovem	Ps3nslp
-mnenju	Ncnsl
-precej	Rgp
-konfliktna	Agpfsn
-oseba	Ncfsn
-,	Z
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-nato	Rgp
-zapletel	Vmep-sm
-v	Sa
-spor	Ncmsan
-z	Si
-Momom	Npmsi
-.	Z
-Čeprav	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-poskušali	Vmpp-pm
-pomiriti	Vmen
-,	Z
-se	Px------y
-jim	Pp3mpd--y
-je	Va-r3s-n
-izmuznil	Vmep-sm
-in	Cc
-iz	Sg
-avta	Ncmsg
-prinesel	Vmep-sm
-morilsko	Agpnsa
-orožje	Ncnsa
-ter	Cc
-stekel	Vmep-sm
-za	Sa
-žrtvijo	Ncfsa
-.	Z
-Po	Sl
-nasilnem	Agpnsl
-dejanju	Ncnsl
-so	Va-r3p-n
-vsi	Pg-mpn
-skupaj	Rgp
-odšli	Vmep-pm
-v	Sa
-Livadićev	Aspmsan
-avtomobil	Ncmsan
-in	Cc
-se	Px------y
-odpeljali	Vmep-pm
-proti	Sd
-Ljubljani	Npfsd
-.	Z
-Soobtoženim	Appnpd
-skupno	Agpnsa
-kesanje	Ncnsa
-Vsak	Pg-msn
-po	Sa
-svoje	Px-fsa
-so	Va-r3p-n
-nato	Rgp
-obtoženci	Ncmpn
-predstavili	Vmep-pm
-,	Z
-kaj	Pq-nsn
-se	Px------y
-je	Va-r3s-n
-zgodilo	Vmep-sn
-po	Sl
-jutranjem	Agpmsl
-prihodu	Ncmsl
-v	Sa
-Ljubljano	Npfsa
-,	Z
-kjer	Cs
-so	Va-r3p-n
-v	Sl
-Jaršah	Npfpl
-zapustili	Vmep-pm
-Livadića	Npmsay
-,	Z
-ki	Cs
-jim	Pp3mpd--y
-je	Va-r3s-n
-predal	Vmep-sm
-tudi	Q
-nož	Ncmsnn
-in	Cc
-bundo	Ncfsa
-,	Z
-in	Cc
-se	Px------y
-s	Si
-Plahutnikovim	Aspmsi
-avtomobilom	Ncmsi
-odpeljali	Vmep-pm
-proti	Sd
-Igu	Npmsd
-.	Z
-Brata	Npmsn
-Plahutnik	Npmsn
-sta	Va-r3d-n
-povedala	Vmep-dm
-,	Z
-da	Cs
-je	Va-r3s-n
-katana	Ncmsn
-ostala	Vmep-sf
-pri	Sl
-njima	Pp3mdl
-in	Cc
-sta	Va-r3d-n
-se	Px------y
-je	Va-r3s-n
-pozneje	Rgc
-znebila	Vmep-dm
-,	Z
-bundo	Ncfsa
-pa	Cc
-so	Va-r3p-n
-s	Si
-sabo	Px---i
-odnesli	Vmep-pm
-preostali	Appmpn
-trije	Mlcmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-jo	Pp3fsa--y
-nato	Rgp
-tudi	Q
-zažgali	Vmep-pm
-.	Z
-Sicer	Q
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-izjavam	Ncfpd
-peterice	Ncfsg
-soobtoženih	Appmpg
-skupno	Agpnsn
-še	Q
-to	Pd-nsn
-,	Z
-da	Cs
-je	Va-r3s-n
-vsem	Pg-npd
-žal	Rgp
-za	Sa
-to	Pd-nsa
-,	Z
-kar	Pr-nsn
-se	Px------y
-je	Va-r3s-n
-zgodilo	Vmep-sn
-,	Z
-njihovo	Ps3nsnp
-ravnanje	Ncnsn
-po	Sl
-dogodku	Ncmsl
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-predvsem	Q
-posledica	Ncfsn
-šoka	Ncmsg
-,	Z
-ko	Cs
-so	Va-r3p-n
-izvedeli	Vmep-pm
-za	Sa
-novico	Ncfsa
-o	Sl
-smrti	Ncfsl
-njihove	Ps3fsgp
-nočne	Agpfsg
-žrtve	Ncfsg
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+Okrožnem	mte:Agpnsl	okrožen
+sodišču	mte:Ncnsl	sodišče
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+začelo	mte:Vmep-sn	začeti
+sojenje	mte:Ncnsn	sojenje
+20	mte:Mdc	20
+-	mte:Z	-
+letnemu	mte:Agpmsd	leten
+Ljubljančanu	mte:Npmsd	Ljubljančan
+Elvisu	mte:Npmsd	Elvis
+Livadiću	mte:Npmsd	Livadić
+in	mte:Cc	in
+petim	mte:Mlompd	peti
+soobtoženim	mte:Appmpd	soobtožen
+zaradi	mte:Sg	zaradi
+umora	mte:Ncmsg	umor
+pred	mte:Si	pred
+mariborsko	mte:Agpfsi	mariborski
+diskoteko	mte:Ncfsi	diskoteka
+Trust	mte:Npmsn	Trust
+.	mte:Z	.
+Livadić	mte:Npmsn	Livadić
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+prerivanju	mte:Ncnsl	prerivanje
+stopil	mte:Vmep-sm	stopiti
+do	mte:Sg	do
+svojega	mte:Px-msg	svoj
+avta	mte:Ncmsg	avto
+,	mte:Z	,
+vzel	mte:Vmep-sm	vzeti
+japonski	mte:Agpmsay	japonski
+meč	mte:Ncmsan	meč
+katana	mte:Ncmsg	katan
+in	mte:Cc	in
+z	mte:Si	z
+njim	mte:Pp3msi	on
+Moma	mte:Npmsn	Moma
+zabodel	mte:Vmep-sm	zabodeti
+v	mte:Sa	v
+prsni	mte:Agpmsay	prsen
+koš	mte:Ncmsan	koš
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+izkrvavel	mte:Vmep-sm	izkrvaveti
+v	mte:Sl	v
+nekaj	mte:Rgp	nekaj
+minutah	mte:Ncfpl	minuta
+.	mte:Z	.
+©	mte:Ncmsn	©
+iStockphoto	mte:Npmsn	IStockphoto
+Medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Elvis	mte:Npmsn	Elvis
+Livadić	mte:Npmsn	Livadić
+molčal	mte:Vmpp-sm	molčati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+drugi	mte:Mlpmpn	drug
+podali	mte:Vmbp-pm	podati
+vsak	mte:Pg-msa	vsak
+svojo	mte:Px-fsa	svoj
+različico	mte:Ncfsa	različica
+dogodka	mte:Ncmsg	dogodek
+,	mte:Z	,
+zlasti	mte:Q	zlasti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+dogajalo	mte:Vmpp-sn	dogajati
+naslednji	mte:Agpmsny	naslednji
+dan	mte:Ncmsan	dan
+.	mte:Z	.
+Okrožna	mte:Agpfsn	okrožen
+tožilka	mte:Ncfsn	tožilka
+Alja	mte:Npfsn	Alja
+Kramberger	mte:Npfsn	Kramberger
+Kirbiš	mte:Npfsn	Kirbiš
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+obtožnici	mte:Ncfsl	obtožnica
+pojasnila	mte:Ncnsg	pojasnilo
+okoliščine	mte:Ncfsg	okoliščina
+dogodka	mte:Ncmsg	dogodek
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+ugotovljene	mte:Appfpn	ugotovljen
+v	mte:Sl	v
+preiskovalnem	mte:Agpmsl	preiskovalen
+postopku	mte:Ncmsl	postopek
+.	mte:Z	.
+Zabodel	mte:Vmep-sm	zabodeti
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+japonskim	mte:Agpmsi	japonski
+mečem	mte:Ncmsi	meč
+28	mte:Mdc	28
+-	mte:Z	-
+letni	mte:Agpmsny	leten
+Gregor	mte:Npmsn	Gregor
+Mom	mte:Npmsn	Mom
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+9	mte:Mdc	9
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+naključno	mte:Rgp	naključno
+sprl	mte:Vmep-sm	spreti
+z	mte:Si	z
+Livadićem	mte:Npmsi	Livadić
+,	mte:Z	,
+ta	mte:Pd-msn	ta
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+nato	mte:Rgp	nato
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+preostalo	mte:Appfsi	preostati
+peterico	mte:Ncfsi	peterica
+z	mte:Si	z
+njim	mte:Pp3msi	on
+fizično	mte:Rgp	fizično
+obračunal	mte:Vmep-sm	obračunati
+na	mte:Sl	na
+dvorišču	mte:Ncnsl	dvorišče
+.	mte:Z	.
+Livadić	mte:Npmsn	Livadić
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+prerivanju	mte:Ncnsl	prerivanje
+stopil	mte:Vmep-sm	stopiti
+do	mte:Sg	do
+svojega	mte:Px-msg	svoj
+avta	mte:Ncmsg	avto
+,	mte:Z	,
+vzel	mte:Vmep-sm	vzeti
+japonski	mte:Agpmsay	japonski
+meč	mte:Ncmsan	meč
+katana	mte:Ncmsg	katan
+in	mte:Cc	in
+z	mte:Si	z
+njim	mte:Pp3msi	on
+Moma	mte:Npmsn	Moma
+zabodel	mte:Vmep-sm	zabodeti
+v	mte:Sa	v
+prsni	mte:Agpmsay	prsen
+koš	mte:Ncmsan	koš
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+v	mte:Sl	v
+nekaj	mte:Rgp	nekaj
+minutah	mte:Ncfpl	minuta
+izkrvavel	mte:Vmep-sm	izkrvaveti
+.	mte:Z	.
+Kramberger	mte:Npmsn	Kramberger
+Kirbiševa	mte:Aspfsn	Kirbišev
+je	mte:Va-r3s-n	biti
+zato	mte:Rgp	zato
+v	mte:Sl	v
+obtožnici	mte:Ncfsl	obtožnica
+vseh	mte:Pg-mpg	ves
+šest	mte:Mlc-pa	šest
+udeležencev	mte:Ncmpg	udeleženec
+obtožila	mte:Vmep-sf	obtožiti
+nasilništva	mte:Ncnpa	nasilništvo
+,	mte:Z	,
+Livadića	mte:Npmsay	Livadić
+umora	mte:Ncmsay	umor
+,	mte:Z	,
+preostali	mte:Appfsa	preostal
+peterici	mte:Ncfsa	peterica
+,	mte:Z	,
+21	mte:Mdc	21
+-	mte:Z	-
+letnemu	mte:Agpmsd	leten
+Gregorju	mte:Npmsd	Gregorje
+Plahutniku	mte:Npmsd	Plahutnik
+in	mte:Cc	in
+leto	mte:Ncnsa	leto
+mlajšemu	mte:Agcmsd	mlad
+bratu	mte:Ncmsd	brat
+Dejanu	mte:Npmsd	Dejan
+Plahutniku	mte:Npmsd	Plahutnik
+iz	mte:Sg	iz
+Škrilj	mte:Npfsg	Škrilj
+pri	mte:Sl	pri
+Igu	mte:Npmsl	Igu
+,	mte:Z	,
+23	mte:Mdc	23
+-	mte:Z	-
+letnemu	mte:Agpmsd	leten
+Tomažu	mte:Npmsd	Tomaž
+Ropotarju	mte:Npmsd	Ropotar
+iz	mte:Sg	iz
+Zagorice	mte:Npfsg	Zagorica
+pri	mte:Sl	pri
+Igu	mte:Npmsl	Igu
+in	mte:Cc	in
+23	mte:Mdc	23
+-	mte:Z	-
+oziroma	mte:Cc	oziroma
+21	mte:Mdc	21
+-	mte:Z	-
+letnima	mte:Agpmdd	leten
+bratoma	mte:Ncmpd	brat
+Samirju	mte:Npmsd	Samir
+in	mte:Cc	in
+Damirju	mte:Npmsd	Damir
+Goliću	mte:Npmsd	Golić
+iz	mte:Sg	iz
+Iške	mte:Agpfsg	iški
+vasi	mte:Ncfsg	vas
+,	mte:Z	,
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+poskušala	mte:Vmpp-sf	poskušati
+dokazati	mte:Vmen	dokazati
+še	mte:Q	še
+pomoč	mte:Ncfsa	pomoč
+storilcu	mte:Ncmsd	storilec
+pri	mte:Sl	pri
+kaznivem	mte:Agpnsl	kazniv
+dejanju	mte:Ncnsl	dejanje
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+s	mte:Si	z
+skrivanjem	mte:Ncnsi	skrivanje
+obremenilnih	mte:Agpmpg	obremenilen
+dokazov	mte:Ncmpg	dokaz
+–	mte:Z	–
+že	mte:Q	že
+omenjenega	mte:Appmsg	omenjen
+noža	mte:Ncmsg	nož
+in	mte:Cc	in
+Livadićeve	mte:Aspfsg	Livadićev
+okrvavljene	mte:Appfsg	okrvavljen
+bunde	mte:Ncfsg	bunda
+.	mte:Z	.
+Povod	mte:Ncmsn	povod
+za	mte:Sa	za
+incident	mte:Ncmsan	incident
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+alkohol	mte:Ncmsn	alkohol
+Zaradi	mte:Sg	zaradi
+molka	mte:Ncmsg	molka
+prvoobtoženega	mte:Appmsg	prvoobtožen
+in	mte:Cc	in
+bolj	mte:Rgc	bolj
+ali	mte:Cc	ali
+manj	mte:Rgc	manj
+podobnega	mte:Agpnsg	podoben
+pričanja	mte:Ncnsg	pričanje
+vse	mte:Rgp	vse
+preostale	mte:Appfpa	preostal
+peterice	mte:Ncfpa	peterica
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+dogajalo	mte:Vmpp-sn	dogajati
+na	mte:Sa	na
+večer	mte:Ncmsan	večer
+in	mte:Cc	in
+v	mte:Sl	v
+noči	mte:Ncfsl	noč
+umora	mte:Ncmsg	umor
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+poudarek	mte:Ncmsn	poudarek
+na	mte:Sl	na
+prvi	mte:Mlofsl	prvi
+obravnavi	mte:Ncfsl	obravnava
+predvsem	mte:Q	predvsem
+na	mte:Sl	na
+dogajanju	mte:Ncnsl	dogajanje
+naslednji	mte:Agpmsay	naslednji
+dan	mte:Ncmsn	dan
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+obtoženi	mte:Appmpn	obtožen
+poskušali	mte:Vmpp-pm	poskušati
+znebiti	mte:Vmen	znebiti
+omenjenih	mte:Appmpg	omenjen
+dokazov	mte:Ncmpg	dokaz
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+Maribor	mte:Npmsl	Maribor
+odpravili	mte:Vmep-pm	odpraviti
+po	mte:Sl	po
+popoldanskem	mte:Agpnsl	popoldanski
+pijančevanju	mte:Ncnsl	pijančevanje
+doma	mte:Ncmsg	dom
+,	mte:Z	,
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+Damir	mte:Npmsn	Damir
+Golić	mte:Npmsn	Golić
+tam	mte:Rgp	tam
+želel	mte:Vmpp-sm	želeti
+obiskati	mte:Vmen	obiskati
+svoje	mte:Px-nsa	svoj
+dekle	mte:Ncnsa	dekle
+.	mte:Z	.
+Iz	mte:Sg	iz
+zagovorov	mte:Ncmpg	zagovor
+obtoženih	mte:Appfpg	obtožen
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+sklepati	mte:Vmpn	sklepati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+vsi	mte:Pg-mpn	ves
+kar	mte:Rgp	kar
+precej	mte:Rgp	precej
+vinjeni	mte:Agpmpn	vinjen
+,	mte:Z	,
+Livadić	mte:Npmsn	Livadić
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njihovem	mte:Ps3nslp	njihov
+mnenju	mte:Ncnsl	mnenje
+precej	mte:Rgp	precej
+konfliktna	mte:Agpfsn	konflikten
+oseba	mte:Ncfsn	oseba
+,	mte:Z	,
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+zapletel	mte:Vmep-sm	zapleteti
+v	mte:Sa	v
+spor	mte:Ncmsan	spor
+z	mte:Si	z
+Momom	mte:Npmsi	Mom
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+poskušali	mte:Vmpp-pm	poskušati
+pomiriti	mte:Vmen	pomiriti
+,	mte:Z	,
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+izmuznil	mte:Vmep-sm	izmuzniti
+in	mte:Cc	in
+iz	mte:Sg	iz
+avta	mte:Ncmsg	avto
+prinesel	mte:Vmep-sm	prinesti
+morilsko	mte:Agpnsa	morilski
+orožje	mte:Ncnsa	orožje
+ter	mte:Cc	ter
+stekel	mte:Vmep-sm	steči
+za	mte:Sa	za
+žrtvijo	mte:Ncfsa	žrtev
+.	mte:Z	.
+Po	mte:Sl	po
+nasilnem	mte:Agpnsl	nasilen
+dejanju	mte:Ncnsl	dejanje
+so	mte:Va-r3p-n	biti
+vsi	mte:Pg-mpn	ves
+skupaj	mte:Rgp	skupaj
+odšli	mte:Vmep-pm	oditi
+v	mte:Sa	v
+Livadićev	mte:Aspmsan	Livadićev
+avtomobil	mte:Ncmsan	avtomobil
+in	mte:Cc	in
+se	mte:Px------y	se
+odpeljali	mte:Vmep-pm	odpeljati
+proti	mte:Sd	proti
+Ljubljani	mte:Npfsd	Ljubljana
+.	mte:Z	.
+Soobtoženim	mte:Appnpd	Soobtožen
+skupno	mte:Agpnsa	skupen
+kesanje	mte:Ncnsa	kesanje
+Vsak	mte:Pg-msn	vsak
+po	mte:Sa	po
+svoje	mte:Px-fsa	svoj
+so	mte:Va-r3p-n	biti
+nato	mte:Rgp	nato
+obtoženci	mte:Ncmpn	obtoženec
+predstavili	mte:Vmep-pm	predstaviti
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+po	mte:Sl	po
+jutranjem	mte:Agpmsl	jutranji
+prihodu	mte:Ncmsl	prihod
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Jaršah	mte:Npfpl	Jarše
+zapustili	mte:Vmep-pm	zapustiti
+Livadića	mte:Npmsay	Livadić
+,	mte:Z	,
+ki	mte:Cs	ki
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+predal	mte:Vmep-sm	predati
+tudi	mte:Q	tudi
+nož	mte:Ncmsnn	nož
+in	mte:Cc	in
+bundo	mte:Ncfsa	bunda
+,	mte:Z	,
+in	mte:Cc	in
+se	mte:Px------y	se
+s	mte:Si	z
+Plahutnikovim	mte:Aspmsi	Plahutnikov
+avtomobilom	mte:Ncmsi	avtomobil
+odpeljali	mte:Vmep-pm	odpeljati
+proti	mte:Sd	proti
+Igu	mte:Npmsd	Igu
+.	mte:Z	.
+Brata	mte:Npmsn	brat
+Plahutnik	mte:Npmsn	Plahutnik
+sta	mte:Va-r3d-n	biti
+povedala	mte:Vmep-dm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+katana	mte:Ncmsn	katan
+ostala	mte:Vmep-sf	ostati
+pri	mte:Sl	pri
+njima	mte:Pp3mdl	on
+in	mte:Cc	in
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pozneje	mte:Rgc	pozno
+znebila	mte:Vmep-dm	znebiti
+,	mte:Z	,
+bundo	mte:Ncfsa	bunda
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+s	mte:Si	z
+sabo	mte:Px---i	se
+odnesli	mte:Vmep-pm	odnesti
+preostali	mte:Appmpn	preostal
+trije	mte:Mlcmpn	trije
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jo	mte:Pp3fsa--y	on
+nato	mte:Rgp	nato
+tudi	mte:Q	tudi
+zažgali	mte:Vmep-pm	zažgati
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+izjavam	mte:Ncfpd	izjava
+peterice	mte:Ncfsg	peterica
+soobtoženih	mte:Appmpg	soobtožen
+skupno	mte:Agpnsn	skupen
+še	mte:Q	še
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vsem	mte:Pg-npd	ves
+žal	mte:Rgp	žal
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+njihovo	mte:Ps3nsnp	njihov
+ravnanje	mte:Ncnsn	ravnanje
+po	mte:Sl	po
+dogodku	mte:Ncmsl	dogodek
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+predvsem	mte:Q	predvsem
+posledica	mte:Ncfsn	posledica
+šoka	mte:Ncmsg	šoka
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+izvedeli	mte:Vmep-pm	izvedeti
+za	mte:Sa	za
+novico	mte:Ncfsa	novica
+o	mte:Sl	o
+smrti	mte:Ncfsl	smrt
+njihove	mte:Ps3fsgp	njihov
+nočne	mte:Agpfsg	nočen
+žrtve	mte:Ncfsg	žrtev
+.	mte:Z	.
+Sojenje	mte:Ncnsn	sojenje
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+vodi	mte:Vmpr3s	voditi
+predsednica	mte:Ncfsn	predsednica
+senata	mte:Ncmsg	senat
+Andreja	mte:Npmsg	Andreja
+Lukeš	mte:Npmsg	Lukeš
+,	mte:Z	,
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+z	mte:Si	z
+nastopom	mte:Ncmsi	nastop
+prvih	mte:Mlofpg	prvi
+prič	mte:Ncfpg	priča
+nadaljevalo	mte:Vmpp-sn	nadaljevati
+že	mte:Q	že
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek

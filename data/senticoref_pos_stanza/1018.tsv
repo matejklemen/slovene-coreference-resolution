@@ -1,587 +1,616 @@
-token	tag
-Lani	Rgp
-so	Va-r3p-n
-cene	Ncfpn
-stanovanj	Ncnpg
-padle	Vmep-pf
-od	Sg
-4,4	Mdc
-do	Sg
-17,5	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-Ljubljani	Npfsl
-,	Z
-Kopru	Npmsl
-in	Cc
-na	Sl
-Obali	Npfsl
-pa	Cc
-so	Va-r3p-n
-nepremičnine	Ncfpn
-še	Q
-precenjene	Appfpn
-,	Z
-ugotavljajo	Vmpr3p
-v	Sl
-letnem	Agpnsl
-poročilu	Ncnsl
-Geodetske	Agpfsg
-uprave	Ncfsg
-Gurs	Npfsn
-.	Z
-Celovški	Agpfsl
-dvori	Ncfsl
-v	Sl
-Ljubljani	Npfsl
-Promet	Ncmsan
-z	Si
-vsemi	Pg-fpi
-vrstami	Ncfpi
-nepremičnin	Ncfpg
-je	Va-r3s-n
-dosegel	Vmep-sm
-najnižjo	Agsfsa
-raven	Ncfsa
-v	Sl
-prvi	Mlofsl
-polovici	Ncfsl
-leta	Ncnsg
-2009	Mdc
-.	Z
-Na	Sl
-ravni	Ncfsl
-države	Ncfsg
-so	Va-r3p-n
-na	Sl
-Gursu	Npmsl
-v	Sl
-letu	Ncnsl
-2009	Mdc
-evidentirali	Vmbp-pm
-okoli	Rgp
-5600	Mdc
-prodaj	Ncfpg
-stanovanj	Ncnpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-bilo	Va-p-sn
-17	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-leta	Ncnsg
-2008	Mdc
-in	Cc
-49	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-leta	Ncnsg
-2007	Mdc
-.	Z
-V	Sl
-zadnjem	Agpnsl
-četrtletju	Ncnsl
-2009	Mdc
-je	Va-r3s-n
-nepremičninski	Agpmsny
-trg	Ncmsn
-že	Q
-pričel	Vmep-sm
-okrevati	Vmpn
-,	Z
-kljub	Sd
-temu	Pd-nsd
-pa	Cc
-je	Va-r3s-n
-v	Sl
-nekaterih	Pi-mpl
-predelih	Ncmpl
-,	Z
-kjer	Cs
-so	Va-r3p-n
-stanovanja	Ncnpn
-še	Q
-precenjena	Appnpn
-pričakovati	Vmpn
-dodatno	Agpnsa
-padanje	Ncnsa
-cen	Ncfpg
-,	Z
-so	Va-r3p-n
-ocenili	Vmep-pm
-na	Sl
-Gursu	Npmsl
-.	Z
-Vprašanje	Ncnsn
-pa	Cc
-je	Va-r3s-n
-,	Z
-ali	Rgp
-gre	Vmbr3s
-za	Sa
-realno	Agpfsa
-rast	Ncfsa
-,	Z
-ali	Rgp
-pa	Cc
-so	Va-r3p-n
-podatki	Ncmpn
-o	Sl
-okrevanju	Ncnsl
-posledica	Ncfsn
-zelo	Rgp
-ohlapne	Agpfpn
-razlage	Ncfpn
-statističnih	Agpmpg
-podatkov	Ncmpg
-?	Z
-Cene	Ncfpn
-so	Va-r3p-n
-padle	Vmep-pf
-za	Sa
-od	Sg
-štiri	Mlcfpa
-do	Sg
-17	Mdc
-odstotkov	Ncmpg
-Cene	Agpfsg
-nepremičnin	Ncfpg
-so	Va-r3p-n
-v	Sl
-letu	Ncnsl
-2009	Mdc
-realno	Rgp
-padle	Vmep-pf
-,	Z
-cene	Ncfpn
-zemljišča	Ncnpn
-pa	Cc
-stagnirale	Vmpp-pf
-.	Z
-Po	Sl
-podatkih	Ncmpl
-Gursa	Npmsg
-so	Va-r3p-n
-se	Px------y
-cene	Ncfpn
-rabljenih	Appnpg
-stanovanj	Ncnpg
-na	Sl
-ravni	Ncfsl
-države	Ncfsg
-znižale	Vmep-pf
-za	Sa
-več	Rgc
-kot	Cs
-sedem	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-nova	Agpnpn
-stanovanja	Ncnpn
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-pocenila	Vmep-pn
-za	Sa
-skoraj	Q
-deset	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-Po	Sl
-podatkih	Ncmpl
-Statističnega	Agpmsg
-urada	Ncmsg
-RS	Npfsg
-Surs	Npmsn
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-cene	Ncfpn
-novogradenj	Ncfpg
-znižale	Vmep-pf
-celo	Q
-za	Sa
-17,5	Mdc
-odstotka	Ncmsg
-.	Z
-Po	Sl
-analizi	Ncfsl
-spletnega	Agpnsg
-portala	Ncnsg
-SLONEP	Npmsn
-,	Z
-kjer	Cs
-spremljajo	Vmpr3p
-oglaševane	Appfpa
-cene	Ncfpa
-stanovanj	Ncnpg
-,	Z
-je	Va-r3s-n
-cena	Ncfsn
-trisobnega	Agpnsg
-stanovanja	Ncnsg
-v	Sl
-Ljubljani	Npfsl
-padla	Vmep-sf
-za	Sa
-4,4	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-okolici	Ncfsl
-Ljubljane	Npfsg
-pa	Cc
-za	Sa
-14,1	Mdc
-odstotka	Ncmsg
-.	Z
-Sicer	Q
-pa	Cc
-je	Va-r3s-n
-tu	Rgp
-treba	Rgp
-upoštevati	Vmbn
-tudi	Q
-podatke	Ncmpa
-Gursa	Npmsg
-za	Sa
-Ljubljano	Npfsa
-,	Z
-ki	Cs
-kažejo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-povečala	Vmep-sf
-tudi	Q
-razlika	Ncfsn
-med	Si
-oglaševanimi	Appfpi
-in	Cc
-dejanskimi	Agpfpi
-cenami	Ncfpi
-stanovanj	Ncnpg
-.	Z
-Rast	Ncfsn
-cen	Ncfpg
-novogradnje	Ncfsg
-in	Cc
-rabljena	Appnpn
-stanovanja	Ncnpn
-Foto	Ncmsn
-Banka	Ncfsn
-Slovenije	Npfsg
-Najdražja	Agsnpn
-stanovanja	Ncnpn
-v	Sl
-Ljubljani	Npfsl
-,	Z
-najcenejša	Agsfsn
-v	Sl
-Murski	Agpfsl
-Soboti	Npfsl
-Povprečna	Agpfsn
-cena	Ncfsn
-rabljenega	Appnsg
-stanovanja	Ncnsg
-je	Va-r3s-n
-bila	Va-p-sf
-v	Sl
-letu	Ncnsl
-2009	Mdc
-1.700	Mdc
-evrov	Ncmpg
-/	Z
-m2	Ncmsn
-.	Z
-Konec	Sg
-leta	Ncnsg
-2009	Mdc
-je	Va-r3s-n
-bil	Va-p-sm
-kvadratni	Agpmsny
-meter	Ncmsn
-rabljenega	Appnsg
-stanovanja	Ncnsg
-najdražji	Agsmsny
-v	Sl
-Ljubljani	Npfsl
-2.460	Mdc
-evrov	Ncmpg
-,	Z
-sledil	Vmpp-sm
-je	Va-r3s-n
-Koper	Npmsn
-,	Z
-kjer	Cs
-je	Va-r3s-n
-povprečna	Agpfsn
-cena	Ncfsn
-kvadratnega	Agpmsg
-metra	Ncmsg
-znašala	Vmpp-sf
-2.330	Mdc
-evrov	Ncmpg
-.	Z
-V	Sl
-Novi	Agpfsl
-Gorici	Npfsl
-je	Va-r3s-n
-bila	Va-p-sf
-povprečna	Agpfsn
-cena	Ncfsn
-kvadratnega	Agpmsg
-metra	Ncmsg
-stanovanja	Ncnsg
-1.860	Mdc
-evrov	Ncmpg
-,	Z
-v	Sl
-Kranju	Npmsl
-1.730	Mdc
-evrov	Ncmpg
-,	Z
-v	Sl
-Celju	Npnsl
-1.250	Mdc
-in	Cc
-v	Sl
-Mariboru	Npmsl
-1.230	Mdc
-evrov	Ncmpg
-.	Z
-Najnižje	Agsfpa
-cene	Ncfpa
-stanovanj	Ncnpg
-so	Va-r3p-n
-v	Sl
-Murski	Agpfsl
-Soboti	Npfsl
-1.160	Mdc
-,	Z
-kjer	Cs
-je	Va-r3s-n
-stanovanjski	Agpmsny
-trg	Ncmsn
-tudi	Q
-najmanj	Rgs
-dejaven	Agpmsnn
-.	Z
-Precenjenost	Ncfsa
-v	Sl
-Ljubljani	Npfsl
-,	Z
-Kopru	Npmsl
-in	Cc
-na	Sl
-Obali	Ncfsl
-Cene	Ncfsg
-nepremičnin	Ncfpg
-so	Va-r3p-n
-ponekod	Rgp
-že	Q
-dosegle	Vmep-pf
-spodnjo	Agpfsa
-mejo	Ncfsa
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-drugod	Rgp
-še	Q
-vedno	Rgp
-bolj	Rgc
-ali	Cc
-manj	Rgc
-precenjene	Appfpn
-,	Z
-ugotavljajo	Vmpr3p
-na	Sl
-Gursu	Npmsl
-.	Z
-Po	Sl
-pokazateljih	Ncmpl
-,	Z
-kot	Cs
-so	Va-r3p-n
-razmerje	Ncnsn
-med	Si
-povprečnimi	Agpfpi
-tržnimi	Agpfpi
-cenami	Ncfpi
-in	Cc
-najemninami	Ncfpi
-,	Z
-relativne	Agpfpn
-cene	Ncfsg
-,	Z
-realna	Agpfsn
-kupna	Agpfsn
-moč	Ncfsn
-in	Cc
-stroški	Ncmpn
-gradnje	Ncfsg
-,	Z
-so	Va-r3p-n
-nepremičnine	Ncfpn
-precenjene	Appfpn
-predvsem	Q
-v	Sl
-Ljubljani	Npfsl
-,	Z
-Kopru	Npmsl
-in	Cc
-na	Sl
-Obali	Npfsl
-,	Z
-nekoliko	Rgp
-manj	Rgc
-pa	Cc
-v	Sl
-okolici	Ncfsl
-Ljubljane	Npfsg
-,	Z
-Novi	Agpfsl
-Gorici	Npfsl
-,	Z
-Novem	Agpnsl
-mestu	Ncnsl
-in	Cc
-nekaterih	Pi-mpl
-turističnih	Agpmpl
-krajih	Ncmpl
-na	Sl
-Gorenjskem	Npnsl
-.	Z
-V	Sl
-Mariboru	Npmsl
-je	Va-r3s-n
-cena	Ncfsn
-za	Sa
-kvadratni	Agpmsay
-meter	Ncmsan
-stanovanja	Ncnsg
-okoli	Rgp
-1.230	Mdc
-evrov	Ncmpg
-.	Z
-V	Sl
-Mariboru	Npmsl
-in	Cc
-Celju	Npnsl
-ter	Cc
-v	Sl
-drugih	Mlpnpl
-manjših	Agcnpl
-mestih	Ncnpl
-pa	Cc
-so	Va-r3p-n
-cene	Ncfpn
-na	Sl
-ravneh	Ncfpl
-,	Z
-na	Sl
-katerih	Pq-npl
-znižanj	Ncnpg
-realno	Rgp
-ni	Va-r3s-y
-več	Q
-pričakovati	Vmpn
-,	Z
-oziroma	Cc
-bi	Va-c
-bila	Va-p-sf
-mogoča	Agpfsn
-le	Q
-ob	Sl
-popolnem	Agpmsl
-kolapsu	Ncmsl
-nepremičninskega	Agpmsg
-trga	Ncmsg
-.	Z
-Trg	Ncmsn
-bo	Va-f3s-n
-počasi	Rgp
-okreval	Vmpp-sm
-,	Z
-cene	Ncfpn
-bodo	Va-f3p-n
-še	Q
-padale	Vmpp-pf
-Pok	Ncmsan
-nepremičninskega	Agpmsg
-balona	Ncmsg
-in	Cc
-dodaten	Agpmsan
-padec	Ncmsan
-cen	Ncfpg
-bi	Va-c
-se	Px------y
-lahko	Rgp
-zgodila	Vmep-sf
-,	Z
-če	Cs
-bodo	Va-f3p-n
-banke	Ncfpn
-začele	Vmep-pf
-množično	Rgp
-zasegati	Vmpn
-neprodane	Agpfpa
-nepremičnine	Ncfpa
-prezadolženih	Appnpg
-gradbenih	Agpnpg
-podjetij	Ncnpg
-in	Cc
-jih	Pp3mpa--y
-razprodajati	Vmpn
-na	Sl
-trgu	Ncmsl
-.	Z
-Pravijo	Vmbr3p
-pa	Cc
-,	Z
-da	Cs
-banke	Ncfpn
-niso	Va-r3p-y
-niti	Q
-zainteresirane	Appfpn
-niti	Q
-usposobljene	Appfpn
-za	Sa
-prodajanje	Ncnsa
-nepremičnin	Ncfpg
-,	Z
-zato	Cc
-se	Px------y
-bodo	Va-f3p-n
-stečajem	Ncmpd
-in	Cc
-zasegom	Ncmsi
-praviloma	Rgp
-izogibale	Vmpp-pf
-,	Z
-še	Q
-pravijo	Vmbr3p
-na	Sl
-Gursu	Npmsl
-.	Z
-Najverjetnejši	Agsmsny
-scenarij	Ncmsn
-na	Sl
-nepremičninskem	Agpmsl
-trgu	Ncmsl
-pa	Cc
-je	Va-r3s-n
-počasno	Agpnsn
-okrevanje	Ncnsn
-trga	Ncmsg
-,	Z
-z	Si
-nekaterimi	Pi-npi
-nihanji	Ncnpi
-.	Z
+token	tag	lemma
+Lani	mte:Rgp	lani
+so	mte:Va-r3p-n	biti
+cene	mte:Ncfpn	cena
+stanovanj	mte:Ncnpg	stanovanje
+padle	mte:Vmep-pf	pasti
+od	mte:Sg	od
+4,4	mte:Mdc	4,4
+do	mte:Sg	do
+17,5	mte:Mdc	17,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+Kopru	mte:Npmsl	Koper
+in	mte:Cc	in
+na	mte:Sl	na
+Obali	mte:Npfsl	Obali
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+nepremičnine	mte:Ncfpn	nepremičnina
+še	mte:Q	še
+precenjene	mte:Appfpn	precenjen
+,	mte:Z	,
+ugotavljajo	mte:Vmpr3p	ugotavljati
+v	mte:Sl	v
+letnem	mte:Agpnsl	leten
+poročilu	mte:Ncnsl	poročilo
+Geodetske	mte:Agpfsg	geodetski
+uprave	mte:Ncfsg	uprava
+Gurs	mte:Npfsn	Gurs
+.	mte:Z	.
+Celovški	mte:Agpfsl	celovški
+dvori	mte:Ncfsl	dvor
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+Promet	mte:Ncmsan	promet
+z	mte:Si	z
+vsemi	mte:Pg-fpi	ves
+vrstami	mte:Ncfpi	vrsta
+nepremičnin	mte:Ncfpg	nepremičnina
+je	mte:Va-r3s-n	biti
+dosegel	mte:Vmep-sm	doseči
+najnižjo	mte:Agsfsa	nizek
+raven	mte:Ncfsa	raven
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+polovici	mte:Ncfsl	polovica
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+.	mte:Z	.
+Na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+države	mte:Ncfsg	država
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+Gursu	mte:Npmsl	Gurs
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2009	mte:Mdc	2009
+evidentirali	mte:Vmbp-pm	evidentirati
+okoli	mte:Rgp	okoli
+5600	mte:Mdc	5600
+prodaj	mte:Ncfpg	prodaja
+stanovanj	mte:Ncnpg	stanovanje
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+in	mte:Cc	in
+49	mte:Mdc	49
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+.	mte:Z	.
+V	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+četrtletju	mte:Ncnsl	četrtletje
+2009	mte:Mdc	2009
+je	mte:Va-r3s-n	biti
+nepremičninski	mte:Agpmsny	nepremičninski
+trg	mte:Ncmsn	trg
+že	mte:Q	že
+pričel	mte:Vmep-sm	pričeti
+okrevati	mte:Vmpn	okrevati
+,	mte:Z	,
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+nekaterih	mte:Pi-mpl	nekateri
+predelih	mte:Ncmpl	predel
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+stanovanja	mte:Ncnpn	stanovanje
+še	mte:Q	še
+precenjena	mte:Appnpn	precenjen
+pričakovati	mte:Vmpn	pričakovati
+dodatno	mte:Agpnsa	dodaten
+padanje	mte:Ncnsa	padanja
+cen	mte:Ncfpg	cena
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+ocenili	mte:Vmep-pm	oceniti
+na	mte:Sl	na
+Gursu	mte:Npmsl	Gurs
+.	mte:Z	.
+Vprašanje	mte:Ncnsn	vprašanje
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+ali	mte:Rgp	ali
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+realno	mte:Agpfsa	realen
+rast	mte:Ncfsa	rast
+,	mte:Z	,
+ali	mte:Rgp	ali
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+podatki	mte:Ncmpn	podatek
+o	mte:Sl	o
+okrevanju	mte:Ncnsl	okrevanje
+posledica	mte:Ncfsn	posledica
+zelo	mte:Rgp	zelo
+ohlapne	mte:Agpfpn	ohlapen
+razlage	mte:Ncfpn	razlaga
+statističnih	mte:Agpmpg	statističen
+podatkov	mte:Ncmpg	podatek
+?	mte:Z	?
+Cene	mte:Ncfpn	cena
+so	mte:Va-r3p-n	biti
+padle	mte:Vmep-pf	pasti
+za	mte:Sa	za
+od	mte:Sg	od
+štiri	mte:Mlcfpa	štirje
+do	mte:Sg	do
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+Cene	mte:Agpfsg	cena
+nepremičnin	mte:Ncfpg	nepremičnina
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2009	mte:Mdc	2009
+realno	mte:Rgp	realno
+padle	mte:Vmep-pf	pasti
+,	mte:Z	,
+cene	mte:Ncfpn	cena
+zemljišča	mte:Ncnpn	zemljišče
+pa	mte:Cc	pa
+stagnirale	mte:Vmpp-pf	stagnirati
+.	mte:Z	.
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Gursa	mte:Npmsg	Gurs
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+cene	mte:Ncfpn	cena
+rabljenih	mte:Appnpg	rabljen
+stanovanj	mte:Ncnpg	stanovanje
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+države	mte:Ncfsg	država
+znižale	mte:Vmep-pf	znižati
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+sedem	mte:Mlc-pa	sedem
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+nova	mte:Agpnpn	nov
+stanovanja	mte:Ncnpn	stanovanje
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pocenila	mte:Vmep-pn	poceniti
+za	mte:Sa	za
+skoraj	mte:Q	skoraj
+deset	mte:Mlc-pa	deset
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Statističnega	mte:Agpmsg	statističen
+urada	mte:Ncmsg	urad
+RS	mte:Npfsg	RS
+Surs	mte:Npmsn	Surs
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+cene	mte:Ncfpn	cena
+novogradenj	mte:Ncfpg	novogradenje
+znižale	mte:Vmep-pf	znižati
+celo	mte:Q	celo
+za	mte:Sa	za
+17,5	mte:Mdc	17,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Po	mte:Sl	po
+analizi	mte:Ncfsl	analiza
+spletnega	mte:Agpnsg	spleten
+portala	mte:Ncnsg	portala
+SLONEP	mte:Npmsn	Slonep
+,	mte:Z	,
+kjer	mte:Cs	kjer
+spremljajo	mte:Vmpr3p	spremljati
+oglaševane	mte:Appfpa	oglaševan
+cene	mte:Ncfpa	cena
+stanovanj	mte:Ncnpg	stanovanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+cena	mte:Ncfsn	cena
+trisobnega	mte:Agpnsg	trisoben
+stanovanja	mte:Ncnsg	stanovanje
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+padla	mte:Vmep-sf	pasti
+za	mte:Sa	za
+4,4	mte:Mdc	4,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+okolici	mte:Ncfsl	okolica
+Ljubljane	mte:Npfsg	Ljubljana
+pa	mte:Cc	pa
+za	mte:Sa	za
+14,1	mte:Mdc	14,1
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tu	mte:Rgp	tu
+treba	mte:Rgp	treba
+upoštevati	mte:Vmbn	upoštevati
+tudi	mte:Q	tudi
+podatke	mte:Ncmpa	podatek
+Gursa	mte:Npmsg	Gurs
+za	mte:Sa	za
+Ljubljano	mte:Npfsa	Ljubljana
+,	mte:Z	,
+ki	mte:Cs	ki
+kažejo	mte:Vmpr3p	kazati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+povečala	mte:Vmep-sf	povečati
+tudi	mte:Q	tudi
+razlika	mte:Ncfsn	razlika
+med	mte:Si	med
+oglaševanimi	mte:Appfpi	oglaševan
+in	mte:Cc	in
+dejanskimi	mte:Agpfpi	dejanski
+cenami	mte:Ncfpi	cena
+stanovanj	mte:Ncnpg	stanovanje
+.	mte:Z	.
+Rast	mte:Ncfsn	rast
+cen	mte:Ncfpg	cena
+novogradnje	mte:Ncfsg	novogradnja
+in	mte:Cc	in
+rabljena	mte:Appnpn	rabljen
+stanovanja	mte:Ncnpn	stanovanje
+Foto	mte:Ncmsn	foto
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+Najdražja	mte:Agsnpn	najdražji
+stanovanja	mte:Ncnpn	stanovanje
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+najcenejša	mte:Agsfsn	noceni
+v	mte:Sl	v
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+Povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+rabljenega	mte:Appnsg	rabljen
+stanovanja	mte:Ncnsg	stanovanje
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2009	mte:Mdc	2009
+1.700	mte:Mdc	1.700
+evrov	mte:Ncmpg	evro
+/	mte:Z	/
+m2	mte:Ncmsn	m2
+.	mte:Z	.
+Konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+kvadratni	mte:Agpmsny	kvadraten
+meter	mte:Ncmsn	meter
+rabljenega	mte:Appnsg	rabljen
+stanovanja	mte:Ncnsg	stanovanje
+najdražji	mte:Agsmsny	lep
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+2.460	mte:Mdc	2.460
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+sledil	mte:Vmpp-sm	slediti
+je	mte:Va-r3s-n	biti
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+kvadratnega	mte:Agpmsg	kvadraten
+metra	mte:Ncmsg	meter
+znašala	mte:Vmpp-sf	znašati
+2.330	mte:Mdc	2.330
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+Novi	mte:Agpfsl	nov
+Gorici	mte:Npfsl	Gorica
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+kvadratnega	mte:Agpmsg	kvadraten
+metra	mte:Ncmsg	meter
+stanovanja	mte:Ncnsg	stanovanje
+1.860	mte:Mdc	1.860
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+v	mte:Sl	v
+Kranju	mte:Npmsl	Kranj
+1.730	mte:Mdc	1.730
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+v	mte:Sl	v
+Celju	mte:Npnsl	Celje
+1.250	mte:Mdc	1.250
+in	mte:Cc	in
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+1.230	mte:Mdc	1.230
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Najnižje	mte:Agsfpa	nizek
+cene	mte:Ncfpa	cena
+stanovanj	mte:Ncnpg	stanovanje
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+1.160	mte:Mdc	1.160
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+stanovanjski	mte:Agpmsny	stanovanjski
+trg	mte:Ncmsn	trg
+tudi	mte:Q	tudi
+najmanj	mte:Rgs	najmanj
+dejaven	mte:Agpmsnn	dejaven
+.	mte:Z	.
+Precenjenost	mte:Ncfsa	precenjenost
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+Kopru	mte:Npmsl	Koper
+in	mte:Cc	in
+na	mte:Sl	na
+Obali	mte:Ncfsl	obala
+Cene	mte:Ncfsg	cena
+nepremičnin	mte:Ncfpg	nepremičnina
+so	mte:Va-r3p-n	biti
+ponekod	mte:Rgp	ponekod
+že	mte:Q	že
+dosegle	mte:Vmep-pf	doseči
+spodnjo	mte:Agpfsa	spodnji
+mejo	mte:Ncfsa	meja
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+drugod	mte:Rgp	drugod
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+bolj	mte:Rgc	bolj
+ali	mte:Cc	ali
+manj	mte:Rgc	manj
+precenjene	mte:Appfpn	precenjen
+,	mte:Z	,
+ugotavljajo	mte:Vmpr3p	ugotavljati
+na	mte:Sl	na
+Gursu	mte:Npmsl	Gurs
+.	mte:Z	.
+Po	mte:Sl	po
+pokazateljih	mte:Ncmpl	pokazatelj
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+razmerje	mte:Ncnsn	razmerje
+med	mte:Si	med
+povprečnimi	mte:Agpfpi	povprečen
+tržnimi	mte:Agpfpi	tržen
+cenami	mte:Ncfpi	cena
+in	mte:Cc	in
+najemninami	mte:Ncfpi	najemnina
+,	mte:Z	,
+relativne	mte:Agpfpn	relativen
+cene	mte:Ncfsg	cena
+,	mte:Z	,
+realna	mte:Agpfsn	realen
+kupna	mte:Agpfsn	kupen
+moč	mte:Ncfsn	moč
+in	mte:Cc	in
+stroški	mte:Ncmpn	strošek
+gradnje	mte:Ncfsg	gradnja
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+nepremičnine	mte:Ncfpn	nepremičnina
+precenjene	mte:Appfpn	precenjen
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+Kopru	mte:Npmsl	Koper
+in	mte:Cc	in
+na	mte:Sl	na
+Obali	mte:Npfsl	Obali
+,	mte:Z	,
+nekoliko	mte:Rgp	nekoliko
+manj	mte:Rgc	manj
+pa	mte:Cc	pa
+v	mte:Sl	v
+okolici	mte:Ncfsl	okolica
+Ljubljane	mte:Npfsg	Ljubljana
+,	mte:Z	,
+Novi	mte:Agpfsl	nov
+Gorici	mte:Npfsl	Gorica
+,	mte:Z	,
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+in	mte:Cc	in
+nekaterih	mte:Pi-mpl	nekateri
+turističnih	mte:Agpmpl	turističen
+krajih	mte:Ncmpl	kraj
+na	mte:Sl	na
+Gorenjskem	mte:Npnsl	Gorenjsko
+.	mte:Z	.
+V	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+je	mte:Va-r3s-n	biti
+cena	mte:Ncfsn	cena
+za	mte:Sa	za
+kvadratni	mte:Agpmsay	kvadraten
+meter	mte:Ncmsan	meter
+stanovanja	mte:Ncnsg	stanovanje
+okoli	mte:Rgp	okoli
+1.230	mte:Mdc	1.230
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+in	mte:Cc	in
+Celju	mte:Npnsl	Celje
+ter	mte:Cc	ter
+v	mte:Sl	v
+drugih	mte:Mlpnpl	drug
+manjših	mte:Agcnpl	majhen
+mestih	mte:Ncnpl	mesto
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+cene	mte:Ncfpn	cena
+na	mte:Sl	na
+ravneh	mte:Ncfpl	raven
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-npl	kateri
+znižanj	mte:Ncnpg	znižanje
+realno	mte:Rgp	realno
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+pričakovati	mte:Vmpn	pričakovati
+,	mte:Z	,
+oziroma	mte:Cc	oziroma
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+mogoča	mte:Agpfsn	mogoč
+le	mte:Q	le
+ob	mte:Sl	ob
+popolnem	mte:Agpmsl	popoln
+kolapsu	mte:Ncmsl	kolaps
+nepremičninskega	mte:Agpmsg	nepremičninski
+trga	mte:Ncmsg	trg
+.	mte:Z	.
+Trg	mte:Ncmsn	trg
+bo	mte:Va-f3s-n	biti
+počasi	mte:Rgp	počasi
+okreval	mte:Vmpp-sm	okrevati
+,	mte:Z	,
+cene	mte:Ncfpn	cena
+bodo	mte:Va-f3p-n	biti
+še	mte:Q	še
+padale	mte:Vmpp-pf	padati
+Pok	mte:Ncmsan	pok
+nepremičninskega	mte:Agpmsg	nepremičninski
+balona	mte:Ncmsg	balon
+in	mte:Cc	in
+dodaten	mte:Agpmsan	dodaten
+padec	mte:Ncmsan	padec
+cen	mte:Ncfpg	cena
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+zgodila	mte:Vmep-sf	zgoditi
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+banke	mte:Ncfpn	banka
+začele	mte:Vmep-pf	začeti
+množično	mte:Rgp	množično
+zasegati	mte:Vmpn	zasegati
+neprodane	mte:Agpfpa	neprodan
+nepremičnine	mte:Ncfpa	nepremičnina
+prezadolženih	mte:Appnpg	prezadolžen
+gradbenih	mte:Agpnpg	gradben
+podjetij	mte:Ncnpg	podjetje
+in	mte:Cc	in
+jih	mte:Pp3mpa--y	on
+razprodajati	mte:Vmpn	razprodajati
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+.	mte:Z	.
+Pravijo	mte:Vmbr3p	praviti
+pa	mte:Cc	pa
+,	mte:Z	,
+da	mte:Cs	da
+banke	mte:Ncfpn	banka
+niso	mte:Va-r3p-y	biti
+niti	mte:Q	niti
+zainteresirane	mte:Appfpn	zainteresiran
+niti	mte:Q	niti
+usposobljene	mte:Appfpn	usposobljen
+za	mte:Sa	za
+prodajanje	mte:Ncnsa	prodajanje
+nepremičnin	mte:Ncfpg	nepremičnina
+,	mte:Z	,
+zato	mte:Cc	zato
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+stečajem	mte:Ncmpd	stečaj
+in	mte:Cc	in
+zasegom	mte:Ncmsi	zaseg
+praviloma	mte:Rgp	praviloma
+izogibale	mte:Vmpp-pf	izogibati
+,	mte:Z	,
+še	mte:Q	še
+pravijo	mte:Vmbr3p	praviti
+na	mte:Sl	na
+Gursu	mte:Npmsl	Gurs
+.	mte:Z	.
+Najverjetnejši	mte:Agsmsny	velik
+scenarij	mte:Ncmsn	scenarij
+na	mte:Sl	na
+nepremičninskem	mte:Agpmsl	nepremičninski
+trgu	mte:Ncmsl	trg
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+počasno	mte:Agpnsn	počasen
+okrevanje	mte:Ncnsn	okrevanje
+trga	mte:Ncmsg	trg
+,	mte:Z	,
+z	mte:Si	z
+nekaterimi	mte:Pi-npi	nekateri
+nihanji	mte:Ncnpi	nihanje
+.	mte:Z	.
+Na	mte:Sl	na
+trgih	mte:Ncmpl	trg
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+stanovanj	mte:Ncnpg	stanovanje
+preveč	mte:Rgp	preveč
+,	mte:Z	,
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+padanje	mte:Ncnsn	padanja
+cen	mte:Ncfpg	cena
+še	mte:Q	še
+nadaljevalo	mte:Vmpp-sn	nadaljevati
+,	mte:Z	,
+dokler	mte:Cs	dokler
+zaloge	mte:Ncfpn	zaloga
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+pošle	mte:Vmep-pf	poslati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sklepnih	mte:Agpfpl	sklepen
+ugotovitvah	mte:Ncfpl	ugotovitev
+še	mte:Q	še
+zapisali	mte:Vmep-pm	zapisati
+na	mte:Sl	na
+Gursu	mte:Npmsl	Gurs

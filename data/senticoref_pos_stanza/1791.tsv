@@ -1,511 +1,530 @@
-token	tag
-Ekonomist	Ncmsn
-Damijan	Npmsn
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-mora	Vmpr3s
-Slovenija	Npfsn
-v	Sl
-enem	Mlpmsl
-mesecu	Ncmsl
-prepričati	Vmen
-finančni	Agpmsay
-svet	Ncmsan
-,	Z
-da	Cs
-lahko	Rgp
-obvlada	Vmbr3s
-javne	Agpfpa
-finance	Ncfpa
-in	Cc
-da	Cs
-je	Va-r3s-n
-sposobna	Agpfsn
-zagnati	Vmen
-gospodarsko	Agpfsa
-rast	Ncfsa
-.	Z
-Novo	Agpnsa
-znižanje	Ncnsa
-bonitetne	Agpfsg
-ocene	Ncfsg
-Slovenije	Npfsg
-sploh	Q
-ni	Va-r3s-y
-nedolžno	Agpnsn
-,	Z
-pa	Cc
-je	Va-r3s-n
-poudaril	Vmep-sm
-predsednik	Ncmsn
-GZS	Npfsg
-Hribar	Npmsn
-Milič	Npmsn
-.	Z
-Jože	Npmsn
-Damijan	Npmsn
-Po	Sl
-novem	Agpmsl
-padcu	Ncmsl
-bonitete	Ncfsg
-mora	Vmpr3s
-Slovenija	Npfsn
-po	Sl
-prepričanju	Ncnsl
-ekonomista	Ncmsg
-Jožeta	Npmsg
-Damijana	Npmsg
-v	Sl
-enem	Mlpmsl
-mesecu	Ncmsl
-prepričati	Vmen
-finančni	Agpmsay
-svet	Ncmsan
-,	Z
-da	Cs
-lahko	Rgp
-obvlada	Vmbr3s
-javne	Agpfpa
-finance	Ncfpa
-in	Cc
-da	Cs
-je	Va-r3s-n
-sposobna	Agpfsn
-zagnati	Vmen
-gospodarsko	Agpfsa
-rast	Ncfsa
-.	Z
-Vlada	Ncfsn
-mora	Vmpr3s
-nujno	Agpnsn
-pripraviti	Vmen
-obsežen	Agpmsan
-New	Npmsan
-Deal	Ncmsan
-za	Sa
-zagon	Ncmsan
-gospodarstva	Ncnsg
-,	Z
-saj	Cc
-lahko	Rgp
-samo	Q
-ta	Pd-fsa
-Slovenijo	Npfsa
-potegne	Vmer3s
-iz	Sg
-dolžniške	Agpfsg
-spirale	Ncfsg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Damijanu	Npmsd
-se	Px------y
-bonitetne	Agpfsg
-ocene	Ncfsg
-agencije	Ncfsg
-Moodys	Npmsn
-za	Sa
-Slovenijo	Npfsa
-agencija	Ncfsn
-je	Va-r3s-n
-v	Sa
-četrtek	Ncmsan
-oceno	Ncfsa
-kreditnega	Agpnsg
-dolga	Agpmsg
-znižala	Vmep-sf
-z	Si
-A2	Ncmsi
-na	Sa
-Baa2	Npfsa
-,	Z
-obete	Ncfpn
-za	Sa
-naprej	Rgp
-pa	Cc
-ohranila	Vmep-sf
-negativne	Agpfpa
-zdijo	Vmpr3p
-korektne	Agpfpa
-in	Cc
-relevantne	Agpfpa
-.	Z
-Kot	Cs
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-so	Va-r3p-n
-se	Px------y
-finančne	Agpfpn
-težave	Ncfpn
-Slovenije	Npfsg
-zaradi	Sg
-napačne	Agpfsg
-ekonomske	Agpfsg
-politike	Ncfsg
-,	Z
-in	Cc
-sicer	Q
-glede	Sg
-zvišanja	Ncnsg
-plač	Ncfpg
-v	Sl
-javnem	Agpmsl
-sektorju	Ncmsl
-in	Cc
-minimalne	Agpfpn
-plače	Ncfpn
-,	Z
-neprivatizacije	Ncfpn
-bank	Ncfpg
-pred	Si
-krizo	Ncfsi
-in	Cc
-nereševanja	Ncnsg
-bank	Ncfpg
-po	Sl
-začetku	Ncmsl
-krize	Ncfsg
-,	Z
-močno	Rgp
-zaostrile	Vmep-pf
-.	Z
-Če	Cs
-je	Va-r3s-n
-še	Q
-pred	Si
-kratkim	Agpnsi
-kazalo	Vmpp-sn
-,	Z
-da	Cs
-bo	Va-f3s-n
-Slovenija	Npfsn
-potrebovala	Vmpp-sf
-pomoč	Ncfsa
-EU	Npfsg
-le	Q
-v	Sl
-primeru	Ncmsl
-sanacije	Ncfsg
-bank	Ncfpg
-,	Z
-zdaj	Rgp
-kaže	Vmpr3s
-,	Z
-da	Cs
-jo	Pp3fsa--y
-bo	Va-f3s-n
-potrebovala	Vmpp-sf
-že	Q
-za	Sa
-financiranje	Ncnsa
-tekočega	Appmsg
-proračuna	Ncmsg
-,	Z
-meni	Vmpr3s
-Damijan	Npmsn
-.	Z
-Obeti	Ncmpn
-se	Px------y
-slabšajo	Vmpr3p
-,	Z
-in	Cc
-kot	Cs
-kaže	Vmpr3s
-,	Z
-je	Va-r3s-n
-Slovenija	Npfsn
-zašla	Vmep-sf
-v	Sa
-grško	Agpnsa
--	Z
-špansko	Agpnsa
-javnofinančno	Agpnsa
-spiralo	Ncnsa
-navzdol	Rgp
-,	Z
-opozarja	Vmpr3s
-Damijan	Npmsn
-,	Z
-ki	Cs
-ne	Q
-glede	Rgp
-na	Sa
-mnenje	Ncnsa
-o	Sl
-bonitetnih	Agpfpl
-agencijah	Ncfpl
-izpostavlja	Vmpr3s
-dejstvo	Ncnsa
-,	Z
-da	Cs
-nam	Pp1-pd
-te	Pd-fpn
-posredno	Rgp
-določajo	Vmpr3p
-ceno	Ncfsa
-zadolževanja	Ncnsg
-in	Cc
-s	Si
-tem	Pd-nsi
-vzdržnost	Ncfsa
-naših	Ps1fpgp
-javnih	Agpfpg
-financ	Ncfpg
-.	Z
-Finančni	Agpmpn
-viri	Ncmpn
-bodo	Va-f3p-n
-še	Q
-težje	Rgc
-dostopni	Agpmpn
-in	Cc
-še	Q
-dražji	Agcmsay
-Novo	Agpnsa
-znižanje	Ncnsa
-bonitetne	Agpfsg
-ocene	Ncfsg
-Slovenije	Npfsg
-sploh	Q
-ni	Va-r3s-y
-nedolžno	Agpnsn
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-predsednik	Ncmsn
-Gospodarske	Agpfsg
-zbornice	Ncfsg
-Slovenije	Npfsg
-Samo	Q
-Hribar	Npmsn
-Milič	Npmsn
-.	Z
-Samo	Q
-Hribar	Npmsn
-Milič	Npmsn
-Foto	Npmsn
-Blaž	Npmsn
-Garbajs	Npmsn
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-bo	Va-f3s-n
-to	Pd-nsn
-še	Q
-otežilo	Vmep-sn
-poslovanje	Ncnsa
-slovenskih	Agpnpg
-podjetij	Ncnpg
-,	Z
-saj	Cc
-bodo	Va-f3p-n
-finančni	Agpmpn
-viri	Ncmpn
-še	Q
-težje	Rgc
-dostopni	Agpmpn
-in	Cc
-še	Q
-dražji	Agcmpn
-,	Z
-kar	Pr-nsn
-se	Px------y
-bo	Va-f3s-n
-negativno	Rgp
-izrazilo	Vmep-sn
-tudi	Q
-pri	Sl
-gospodarski	Agpfsl
-aktivnosti	Ncfsl
-.	Z
-Prvi	Mlomsn
-mož	Ncmsn
-GZS	Npmsn
-je	Va-r3s-n
-uvodoma	Ncmpd
-spomnil	Vmep-sm
-,	Z
-da	Cs
-Slovenija	Npfsn
-že	Q
-sedaj	Rgp
-nima	Vmpr3s-y
-več	Q
-gospodarske	Agpfsg
-rasti	Ncfsg
-.	Z
-Ocenil	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-so	Va-r3p-n
-napovedi	Ncfpn
-Evropske	Agpfsg
-banke	Ncfsg
-za	Sa
-obnovo	Ncfsa
-in	Cc
-razvoj	Ncmsan
-EBRD	Npfsg
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-slovenski	Agpmsny
-bruto	Agpmsny
-domači	Agpmsny
-proizvod	Ncmsn
-BDP	Npmsn
-letos	Rgp
-skrčil	Vmep-sm
-za	Sa
-dva	Mlcmda
-odstotka	Ncmda
-,	Z
-žal	Rgp
-točne	Agpfpg
-,	Z
-lahko	Rgp
-pa	Cc
-celo	Q
-preveč	Rgp
-optimistične	Agpfsg
-.	Z
-Glede	Rgp
-na	Sa
-to	Pd-nsa
-je	Va-r3s-n
-opozoril	Vmep-sm
-,	Z
-da	Cs
-v	Sl
-državi	Ncfsl
-upada	Vmpr3s
-domače	Agpnsa
-povpraševanje	Ncnsa
-,	Z
-zmanjšuje	Vmpr3s
-pa	Cc
-se	Px------y
-tudi	Q
-slovenska	Agpfsn
-aktivnost	Ncfsn
-na	Sl
-tujih	Agpmpl
-trgih	Ncmpl
-.	Z
-To	Pd-nsn
-se	Px------y
-pozna	Vmpr3s
-na	Sl
-gospodarski	Agpfsl
-rasti	Ncfsl
-in	Cc
-bo	Va-f3s-n
-vplivalo	Vmpp-sn
-na	Sa
-konkurenčnost	Ncfsa
-slovenskega	Agpnsg
-gospodarstva	Ncnsg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Hribar	Npmsn
-Miliča	Npmsg
-skrbi	Vmpr3s
-tudi	Q
-,	Z
-ker	Cs
-na	Sl
-vidiku	Ncmsl
-ni	Va-r3s-y
-novih	Agpfpg
-investicij	Ncfpg
-,	Z
-čeprav	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-v	Sl
-svojih	Px-mpl
-predvolilnih	Agpmpl
-programih	Ncmpl
-napovedovale	Vmpp-pf
-vse	Pg-fpn
-politične	Agpfpn
-stranke	Ncfpn
-.	Z
-Vladajoča	Appfsn
-koalicija	Ncfsn
-je	Va-r3s-n
-to	Pd-nsa
-zapisala	Vmep-sf
-tudi	Q
-v	Sa
-koalicijsko	Agpfsa
-pogodbo	Ncfsa
-,	Z
-a	Cc
-v	Sl
-smeri	Ncfsl
-gospodarskega	Agpmsg
-razvoja	Ncmsg
-ni	Va-r3s-y
-začela	Vmep-sf
-še	Q
-nobenega	Pz-msg
-projekta	Ncmsg
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-kritičen	Agpmsnn
-.	Z
-Preiti	Vmen
-je	Va-r3s-n
-treba	Rgp
-od	Sg
-besed	Ncfpg
-k	Sd
-dejanjem	Ncnpd
-,	Z
-je	Va-r3s-n
-menil	Vmpp-sm
-in	Cc
-pozval	Vmep-sm
-k	Sd
-hitrejšim	Agcfpd
-in	Cc
-odločnejšim	Agcfpd
-spremembam	Ncfpd
-.	Z
-Mislim	Vmpr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-interes	Ncmsn
-Slovenije	Npfsg
-v	Sl
-tem	Pd-msl
-trenutku	Ncmsl
-pomembnejši	Agcmsny
-od	Sg
-strankarskega	Agpmsg
-interesa	Ncmsg
-.	Z
-Vsi	Pg-mpn
-smo	Va-r1p-n
-na	Sl
-isti	Pi-fsl
-ladji	Ncfsl
-tako	Rgp
-socialni	Agpmpn
-partnerji	Ncmpn
-kot	Cs
-politične	Agpfpn
-stranke	Ncfpn
-.	Z
+token	tag	lemma
+Ekonomist	mte:Ncmsn	ekonomist
+Damijan	mte:Npmsn	Damijan
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+mora	mte:Vmpr3s	morati
+Slovenija	mte:Npfsn	Slovenija
+v	mte:Sl	v
+enem	mte:Mlpmsl	en
+mesecu	mte:Ncmsl	mesec
+prepričati	mte:Vmen	prepričati
+finančni	mte:Agpmsay	finančen
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+obvlada	mte:Vmbr3s	obvladati
+javne	mte:Agpfpa	javen
+finance	mte:Ncfpa	finance
+in	mte:Cc	in
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sposobna	mte:Agpfsn	sposoben
+zagnati	mte:Vmen	zagnati
+gospodarsko	mte:Agpfsa	gospodarski
+rast	mte:Ncfsa	rast
+.	mte:Z	.
+Novo	mte:Agpnsa	nov
+znižanje	mte:Ncnsa	znižanje
+bonitetne	mte:Agpfsg	boniteten
+ocene	mte:Ncfsg	ocena
+Slovenije	mte:Npfsg	Slovenija
+sploh	mte:Q	sploh
+ni	mte:Va-r3s-y	biti
+nedolžno	mte:Agpnsn	nedolžen
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+predsednik	mte:Ncmsn	predsednik
+GZS	mte:Npfsg	GZS
+Hribar	mte:Npmsn	Hribar
+Milič	mte:Npmsn	Milič
+.	mte:Z	.
+Jože	mte:Npmsn	Jože
+Damijan	mte:Npmsn	Damijan
+Po	mte:Sl	po
+novem	mte:Agpmsl	nov
+padcu	mte:Ncmsl	padec
+bonitete	mte:Ncfsg	boniteta
+mora	mte:Vmpr3s	morati
+Slovenija	mte:Npfsn	Slovenija
+po	mte:Sl	po
+prepričanju	mte:Ncnsl	prepričanje
+ekonomista	mte:Ncmsg	ekonomist
+Jožeta	mte:Npmsg	Jože
+Damijana	mte:Npmsg	Damijan
+v	mte:Sl	v
+enem	mte:Mlpmsl	en
+mesecu	mte:Ncmsl	mesec
+prepričati	mte:Vmen	prepričati
+finančni	mte:Agpmsay	finančen
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+obvlada	mte:Vmbr3s	obvladati
+javne	mte:Agpfpa	javen
+finance	mte:Ncfpa	finance
+in	mte:Cc	in
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sposobna	mte:Agpfsn	sposoben
+zagnati	mte:Vmen	zagnati
+gospodarsko	mte:Agpfsa	gospodarski
+rast	mte:Ncfsa	rast
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+mora	mte:Vmpr3s	morati
+nujno	mte:Agpnsn	nujen
+pripraviti	mte:Vmen	pripraviti
+obsežen	mte:Agpmsan	obsežen
+New	mte:Npmsan	New
+Deal	mte:Ncmsan	deal
+za	mte:Sa	za
+zagon	mte:Ncmsan	zagon
+gospodarstva	mte:Ncnsg	gospodarstvo
+,	mte:Z	,
+saj	mte:Cc	saj
+lahko	mte:Rgp	lahko
+samo	mte:Q	samo
+ta	mte:Pd-fsa	ta
+Slovenijo	mte:Npfsa	Slovenija
+potegne	mte:Vmer3s	potegniti
+iz	mte:Sg	iz
+dolžniške	mte:Agpfsg	dolžniški
+spirale	mte:Ncfsg	spirala
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Damijanu	mte:Npmsd	Damijan
+se	mte:Px------y	se
+bonitetne	mte:Agpfsg	boniteten
+ocene	mte:Ncfsg	ocena
+agencije	mte:Ncfsg	agencija
+Moodys	mte:Npmsn	Moodys
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+agencija	mte:Ncfsn	agencija
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+oceno	mte:Ncfsa	ocena
+kreditnega	mte:Agpnsg	krediten
+dolga	mte:Agpmsg	dolg
+znižala	mte:Vmep-sf	znižati
+z	mte:Si	z
+A2	mte:Ncmsi	A2
+na	mte:Sa	na
+Baa2	mte:Npfsa	Baa2
+,	mte:Z	,
+obete	mte:Ncfpn	obeta
+za	mte:Sa	za
+naprej	mte:Rgp	naprej
+pa	mte:Cc	pa
+ohranila	mte:Vmep-sf	ohraniti
+negativne	mte:Agpfpa	negativen
+zdijo	mte:Vmpr3p	zdeti
+korektne	mte:Agpfpa	korekten
+in	mte:Cc	in
+relevantne	mte:Agpfpa	relevanten
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+finančne	mte:Agpfpn	finančen
+težave	mte:Ncfpn	težava
+Slovenije	mte:Npfsg	Slovenija
+zaradi	mte:Sg	zaradi
+napačne	mte:Agpfsg	napačen
+ekonomske	mte:Agpfsg	ekonomski
+politike	mte:Ncfsg	politika
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+glede	mte:Sg	glede
+zvišanja	mte:Ncnsg	zvišanje
+plač	mte:Ncfpg	plača
+v	mte:Sl	v
+javnem	mte:Agpmsl	javen
+sektorju	mte:Ncmsl	sektor
+in	mte:Cc	in
+minimalne	mte:Agpfpn	minimalen
+plače	mte:Ncfpn	plača
+,	mte:Z	,
+neprivatizacije	mte:Ncfpn	neprivatizacija
+bank	mte:Ncfpg	banka
+pred	mte:Si	pred
+krizo	mte:Ncfsi	kriza
+in	mte:Cc	in
+nereševanja	mte:Ncnsg	nereševanje
+bank	mte:Ncfpg	banka
+po	mte:Sl	po
+začetku	mte:Ncmsl	začetek
+krize	mte:Ncfsg	kriza
+,	mte:Z	,
+močno	mte:Rgp	močno
+zaostrile	mte:Vmep-pf	zaostriti
+.	mte:Z	.
+Če	mte:Cs	če
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+kazalo	mte:Vmpp-sn	kazati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+potrebovala	mte:Vmpp-sf	potrebovati
+pomoč	mte:Ncfsa	pomoč
+EU	mte:Npfsg	EU
+le	mte:Q	le
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+sanacije	mte:Ncfsg	sanacija
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+da	mte:Cs	da
+jo	mte:Pp3fsa--y	on
+bo	mte:Va-f3s-n	biti
+potrebovala	mte:Vmpp-sf	potrebovati
+že	mte:Q	že
+za	mte:Sa	za
+financiranje	mte:Ncnsa	financiranje
+tekočega	mte:Appmsg	tekoč
+proračuna	mte:Ncmsg	proračun
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+Damijan	mte:Npmsn	Damijan
+.	mte:Z	.
+Obeti	mte:Ncmpn	obet
+se	mte:Px------y	se
+slabšajo	mte:Vmpr3p	slabšati
+,	mte:Z	,
+in	mte:Cc	in
+kot	mte:Cs	kot
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+zašla	mte:Vmep-sf	zaiti
+v	mte:Sa	v
+grško	mte:Agpnsa	grški
+-	mte:Z	-
+špansko	mte:Agpnsa	španski
+javnofinančno	mte:Agpnsa	javnofinančen
+spiralo	mte:Ncnsa	spiralo
+navzdol	mte:Rgp	navzdol
+,	mte:Z	,
+opozarja	mte:Vmpr3s	opozarjati
+Damijan	mte:Npmsn	Damijan
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+mnenje	mte:Ncnsa	mnenje
+o	mte:Sl	o
+bonitetnih	mte:Agpfpl	boniteten
+agencijah	mte:Ncfpl	agencija
+izpostavlja	mte:Vmpr3s	izpostavljati
+dejstvo	mte:Ncnsa	dejstvo
+,	mte:Z	,
+da	mte:Cs	da
+nam	mte:Pp1-pd	jaz
+te	mte:Pd-fpn	ta
+posredno	mte:Rgp	posredno
+določajo	mte:Vmpr3p	določati
+ceno	mte:Ncfsa	cena
+zadolževanja	mte:Ncnsg	zadolževanje
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+vzdržnost	mte:Ncfsa	vzdržnost
+naših	mte:Ps1fpgp	naš
+javnih	mte:Agpfpg	javen
+financ	mte:Ncfpg	finance
+.	mte:Z	.
+Finančni	mte:Agpmpn	finančen
+viri	mte:Ncmpn	vir
+bodo	mte:Va-f3p-n	biti
+še	mte:Q	še
+težje	mte:Rgc	težko
+dostopni	mte:Agpmpn	dostopen
+in	mte:Cc	in
+še	mte:Q	še
+dražji	mte:Agcmsay	dražji
+Novo	mte:Agpnsa	nov
+znižanje	mte:Ncnsa	znižanje
+bonitetne	mte:Agpfsg	boniteten
+ocene	mte:Ncfsg	ocena
+Slovenije	mte:Npfsg	Slovenija
+sploh	mte:Q	sploh
+ni	mte:Va-r3s-y	biti
+nedolžno	mte:Agpnsn	nedolžen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+predsednik	mte:Ncmsn	predsednik
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+Samo	mte:Q	samo
+Hribar	mte:Npmsn	Hribar
+Milič	mte:Npmsn	Milič
+.	mte:Z	.
+Samo	mte:Q	samo
+Hribar	mte:Npmsn	Hribar
+Milič	mte:Npmsn	Milič
+Foto	mte:Npmsn	foto
+Blaž	mte:Npmsn	Blaž
+Garbajs	mte:Npmsn	Garbajs
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+še	mte:Q	še
+otežilo	mte:Vmep-sn	otežiti
+poslovanje	mte:Ncnsa	poslovanje
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+saj	mte:Cc	saj
+bodo	mte:Va-f3p-n	biti
+finančni	mte:Agpmpn	finančen
+viri	mte:Ncmpn	vir
+še	mte:Q	še
+težje	mte:Rgc	težko
+dostopni	mte:Agpmpn	dostopen
+in	mte:Cc	in
+še	mte:Q	še
+dražji	mte:Agcmpn	dražji
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+negativno	mte:Rgp	negativen
+izrazilo	mte:Vmep-sn	izraziti
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+gospodarski	mte:Agpfsl	gospodarski
+aktivnosti	mte:Ncfsl	aktivnost
+.	mte:Z	.
+Prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+GZS	mte:Npmsn	GZS
+je	mte:Va-r3s-n	biti
+uvodoma	mte:Ncmpd	uvod
+spomnil	mte:Vmep-sm	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+Slovenija	mte:Npfsn	Slovenija
+že	mte:Q	že
+sedaj	mte:Rgp	sedaj
+nima	mte:Vmpr3s-y	imeti
+več	mte:Q	več
+gospodarske	mte:Agpfsg	gospodarski
+rasti	mte:Ncfsg	rast
+.	mte:Z	.
+Ocenil	mte:Vmep-sm	oceniti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+napovedi	mte:Ncfpn	napoved
+Evropske	mte:Agpfsg	evropski
+banke	mte:Ncfsg	banka
+za	mte:Sa	za
+obnovo	mte:Ncfsa	obnova
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+EBRD	mte:Npfsg	EBRD
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+slovenski	mte:Agpmsny	slovenski
+bruto	mte:Agpmsny	bruto
+domači	mte:Agpmsny	domač
+proizvod	mte:Ncmsn	proizvod
+BDP	mte:Npmsn	BDP
+letos	mte:Rgp	letos
+skrčil	mte:Vmep-sm	skrčiti
+za	mte:Sa	za
+dva	mte:Mlcmda	dva
+odstotka	mte:Ncmda	odstotek
+,	mte:Z	,
+žal	mte:Rgp	žal
+točne	mte:Agpfpg	točen
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+pa	mte:Cc	pa
+celo	mte:Q	celo
+preveč	mte:Rgp	preveč
+optimistične	mte:Agpfsg	optimističen
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+upada	mte:Vmpr3s	upadati
+domače	mte:Agpnsa	domač
+povpraševanje	mte:Ncnsa	povpraševanje
+,	mte:Z	,
+zmanjšuje	mte:Vmpr3s	zmanjševati
+pa	mte:Cc	pa
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+slovenska	mte:Agpfsn	slovenski
+aktivnost	mte:Ncfsn	aktivnost
+na	mte:Sl	na
+tujih	mte:Agpmpl	tuj
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+se	mte:Px------y	se
+pozna	mte:Vmpr3s	poznati
+na	mte:Sl	na
+gospodarski	mte:Agpfsl	gospodarski
+rasti	mte:Ncfsl	rast
+in	mte:Cc	in
+bo	mte:Va-f3s-n	biti
+vplivalo	mte:Vmpp-sn	vplivati
+na	mte:Sa	na
+konkurenčnost	mte:Ncfsa	konkurenčnost
+slovenskega	mte:Agpnsg	slovenski
+gospodarstva	mte:Ncnsg	gospodarstvo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Hribar	mte:Npmsn	Hribar
+Miliča	mte:Npmsg	Milič
+skrbi	mte:Vmpr3s	skrbeti
+tudi	mte:Q	tudi
+,	mte:Z	,
+ker	mte:Cs	ker
+na	mte:Sl	na
+vidiku	mte:Ncmsl	vidik
+ni	mte:Va-r3s-y	biti
+novih	mte:Agpfpg	nov
+investicij	mte:Ncfpg	investicija
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+v	mte:Sl	v
+svojih	mte:Px-mpl	svoj
+predvolilnih	mte:Agpmpl	predvolilen
+programih	mte:Ncmpl	program
+napovedovale	mte:Vmpp-pf	napovedovati
+vse	mte:Pg-fpn	ves
+politične	mte:Agpfpn	političen
+stranke	mte:Ncfpn	stranka
+.	mte:Z	.
+Vladajoča	mte:Appfsn	vladajoč
+koalicija	mte:Ncfsn	koalicija
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsa	ta
+zapisala	mte:Vmep-sf	zapisati
+tudi	mte:Q	tudi
+v	mte:Sa	v
+koalicijsko	mte:Agpfsa	koalicijski
+pogodbo	mte:Ncfsa	pogodba
+,	mte:Z	,
+a	mte:Cc	a
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+gospodarskega	mte:Agpmsg	gospodarski
+razvoja	mte:Ncmsg	razvoj
+ni	mte:Va-r3s-y	biti
+začela	mte:Vmep-sf	začeti
+še	mte:Q	še
+nobenega	mte:Pz-msg	noben
+projekta	mte:Ncmsg	projekt
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+kritičen	mte:Agpmsnn	kritičen
+.	mte:Z	.
+Preiti	mte:Vmen	preiti
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+od	mte:Sg	od
+besed	mte:Ncfpg	beseda
+k	mte:Sd	k
+dejanjem	mte:Ncnpd	dejanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+menil	mte:Vmpp-sm	meniti
+in	mte:Cc	in
+pozval	mte:Vmep-sm	pozvati
+k	mte:Sd	k
+hitrejšim	mte:Agcfpd	hiter
+in	mte:Cc	in
+odločnejšim	mte:Agcfpd	odločen
+spremembam	mte:Ncfpd	sprememba
+.	mte:Z	.
+Mislim	mte:Vmpr1s	misliti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+interes	mte:Ncmsn	interes
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+pomembnejši	mte:Agcmsny	pomemben
+od	mte:Sg	od
+strankarskega	mte:Agpmsg	strankarski
+interesa	mte:Ncmsg	interes
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+smo	mte:Va-r1p-n	biti
+na	mte:Sl	na
+isti	mte:Pi-fsl	isti
+ladji	mte:Ncfsl	ladja
+tako	mte:Rgp	tako
+socialni	mte:Agpmpn	socialen
+partnerji	mte:Ncmpn	partner
+kot	mte:Cs	kot
+politične	mte:Agpfpn	političen
+stranke	mte:Ncfpn	stranka
+.	mte:Z	.
+In	mte:Cc	in
+tej	mte:Pd-fsl	ta
+ladji	mte:Ncfsl	ladja
+se	mte:Px------y	se
+reče	mte:Vmer3s	reči
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zadnja	mte:Agpnpa	zadnji
+tri	mte:Mlcnpa	trije
+leta	mte:Ncnpa	leto
+na	mte:Sl	na
+poti	mte:Ncfsl	pot
+grškega	mte:Agpmsg	grški
+scenarija	mte:Ncmsg	scenarija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+sklenil	mte:Vmep-sm	skleniti

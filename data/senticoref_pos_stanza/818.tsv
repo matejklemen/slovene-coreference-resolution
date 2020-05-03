@@ -1,493 +1,529 @@
-token	tag
-Delo	Ncnsn
-v	Sl
-podjetjih	Ncnpl
-Prevent	Npmsn
-Globala	Npmsg
-je	Va-r3s-n
-potekalo	Vmpp-sn
-nemoteno	Agpnsn
-,	Z
-vendar	Cc
-pa	Cc
-so	Va-r3p-n
-štirje	Mlcmpn
-tovornjaki	Ncmpn
-družbe	Ncfsg
-Prevent	Npmsn
-DEV	Npmsn
-želeli	Vmpp-pm
-naložiti	Vmen
-repromaterial	Ncmsan
-iz	Sg
-tovarne	Ncfsg
-Prevent	Npmsn
-Global	Npmsn
-.	Z
-Potem	Rgp
-ko	Cs
-kljub	Sd
-ultimatu	Ncmsd
-nemškega	Agpnsg
-podjetja	Ncnsg
-Prevent	Npmsn
-DEV	Npmsn
-do	Sg
-nedelje	Ncfsg
-ni	Va-r3s-y
-prišlo	Vmep-sn
-do	Sg
-zamenjave	Ncfsg
-v	Sl
-vrhu	Ncmsl
-družbe	Ncfsg
-Prevent	Npmsn
-Global	Npmsn
-,	Z
-je	Va-r3s-n
-delo	Ncnsn
-v	Sl
-podjetjih	Ncnpl
-Prevent	Npmsn
-Globala	Npmsg
-danes	Rgp
-še	Q
-potekalo	Vmpp-sn
-nemoteno	Agpnsn
-.	Z
-Predsednik	Ncmsn
-podjetniškega	Agpmsg
-sindikata	Ncmsg
-Prevent	Npmsn
-Global	Npmsn
-Vlado	Npfsn
-Zorman	Npmsn
-pa	Cc
-je	Va-r3s-n
-potrdil	Vmep-sm
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-danes	Rgp
-štirje	Mlcmpn
-tovornjaki	Ncmpn
-družbe	Ncfsg
-Prevent	Npmsn
-DEV	Npmsn
-želeli	Vmpp-pm
-naložiti	Vmen
-repromaterial	Ncmsan
-iz	Sg
-tovarne	Ncfsg
-Prevent	Npmsn
-Global	Npmsn
-,	Z
-a	Cc
-pristojni	Agpmpn
-tega	Pd-nsg
-niso	Va-r3p-y
-dovolili	Vmep-pm
-.	Z
-V	Sl
-Prevent	Npmsl
-Globalu	Npmsl
-je	Va-r3s-n
-200	Mdc
-zaposlenih	Appmpg
-.	Z
-Zorman	Npmsn
-tako	Rgp
-meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-grožnja	Ncfsn
-Prevent	Npmsn
-DEV	Npmsn
-v	Sl
-lasti	Ncfsl
-Nijaza	Npmsg
-Hastorja	Npmsg
-,	Z
-da	Cs
-bo	Va-f3s-n
-z	Si
-današnjim	Agpmsi
-dnem	Ncmsi
-začel	Vmep-sm
-seliti	Vmpn
-proizvodnjo	Ncfsa
-iz	Sg
-Slovenije	Npfsg
-,	Z
-če	Cs
-do	Sg
-nedelje	Ncfsg
-ne	Q
-bo	Va-f3s-n
-zamenjana	Appfsn
-uprava	Ncfsn
-Prevent	Npfsn
-Globala	Npfsn
-,	Z
-resna	Agpfsn
-.	Z
-Dejal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-so	Va-r3p-n
-zato	Rgp
-tudi	Q
-opozorili	Vmep-pm
-upravo	Ncfsa
-in	Cc
-nadzorni	Agpmsay
-svet	Ncmsan
-,	Z
-da	Cs
-s	Si
-svojimi	Px-fpi
-odločitvami	Ncfpi
-sprejemajo	Vmpr3p
-odgovornost	Ncfsa
-.	Z
-Prevent	Npmsn
-DEV	Ncmsn
-vztraja	Vmpr3s
-pri	Sl
-nameri	Ncfsl
-,	Z
-da	Cs
-proizvodnjo	Ncfsa
-izseli	Vmer3s
-iz	Sg
-Slovenije	Npfsg
-,	Z
-če	Cs
-ne	Q
-bo	Va-f3s-n
-prišlo	Vmep-sn
-do	Sg
-zamenjave	Ncfsg
-uprave	Ncfsg
-,	Z
-pa	Cc
-je	Va-r3s-n
-v	Sl
-pogovoru	Ncmsl
-z	Si
-generalnim	Agpmsi
-sekretarjem	Ncmsi
-Sindikata	Ncmsg
-tekstilne	Agpfsg
-in	Cc
-usnjarsko	Agpnsn
--	Z
-predelovalne	Agpfsg
-industrije	Ncfsg
-Slovenije	Npfsg
-Antonom	Npmsi
-Rozmanom	Npmsi
-dejal	Vmep-sm
-predstavnik	Ncmsn
-podjetja	Ncnsg
-Prevent	Npmsn
-DEV	Npmsn
-Carsten	Npmsn
-Unverricht	Npmsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-Rozman	Npmsn
-povedal	Vmep-sm
-,	Z
-se	Px------y
-je	Va-r3s-n
-Prevent	Npmsn
-DEV	Npmsn
-kljub	Sd
-temu	Pd-nsd
-še	Q
-pripravljen	Appmsnn
-konstruktivno	Rgp
-pogovarjati	Vmpn
-.	Z
-Ali	Rgp
-bo	Va-f3s-n
-zmagala	Vmep-sf
-modrost	Ncfsa
-?	Z
-Tudi	Q
-Rozman	Npmsn
-upa	Vmbr3s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-predstavniki	Ncmpn
-Prevent	Npmsn
-DEV	Npmsn
-in	Cc
-Prevent	Npmsn
-Global	Npmsn
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-kmalu	Rgp
-sestali	Vmep-pm
-,	Z
-zmogli	Vmep-pm
-dovolj	Rgp
-modrosti	Ncfsg
-za	Sa
-dogovor	Ncmsan
-,	Z
-da	Cs
-bi	Va-c
-v	Sl
-Sloveniji	Npfsl
-ohranili	Vmep-pm
-vsaj	Q
-od	Sg
-700	Mdc
-do	Sg
-800	Mdc
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-avtomobilski	Agpfsl
-proizvodnji	Ncfsl
-.	Z
-Sam	Agpmsnn
-namreč	Cc
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-Prevent	Npmsn
-Global	Npmsn
-,	Z
-ne	Q
-glede	Rgp
-na	Sa
-prihodnje	Agpmpa
-dogovore	Ncmpa
-,	Z
-pristal	Vmep-sm
-v	Sl
-stečaju	Ncmsl
-.	Z
-Predsednik	Ncmsn
-podjetniškega	Agpmsg
-sindikata	Ncmsg
-Vlado	Ncfsa
-Zorman	Npmsn
-upa	Vmbr3s
-,	Z
-da	Cs
-grožnja	Ncfsn
-nemškega	Agpnsg
-podjetja	Ncnsg
-Prevent	Npmsn
-DEV	Npmsnn
-,	Z
-da	Cs
-če	Cs
-uprava	Ncfsn
-do	Sg
-nedelje	Ncfsg
-ne	Q
-bo	Va-f3s-n
-zamenjana	Appfsn
-,	Z
-danes	Rgp
-začne	Vmer3s
-seliti	Vmpn
-proizvodnjo	Ncfsa
-iz	Sg
-Slovenije	Npfsg
-,	Z
-ne	Q
-bo	Va-f3s-n
-uresničena	Appfsn
-.	Z
-Zaenkrat	Rgp
-kakšnih	Pq-fpg
-informacij	Ncfpg
-o	Sl
-tem	Pd-nsl
-ni	Va-r3s-y
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Enako	Rgp
-je	Va-r3s-n
-potrdila	Vmep-sf
-tudi	Q
-predstavnica	Ncfsn
-za	Sa
-stike	Ncmpa
-z	Si
-javnostjo	Ncfsi
-v	Sl
-Prevent	Npmsl
-Globalu	Npmsl
-Monika	Npfsn
-Žvikart	Npfsn
-.	Z
-Uprava	Ncfsn
-pripravljena	Appfsn
-odstopiti	Vmen
-Uprava	Ncfsn
-je	Va-r3s-n
-pripravljena	Appfsn
-odstopiti	Vmen
-,	Z
-če	Cs
-nemški	Agpmsny
-Prevent	Ncmsn
-DEV	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-kupec	Ncmsn
-večine	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-sešitih	Agpfpg
-avtomobilskih	Agpfpg
-sedežnih	Agpfpg
-prevlek	Ncfpg
-,	Z
-zagotovi	Vmer3s
-,	Z
-da	Cs
-družba	Ncfsn
-Prevent	Npmsn
-Global	Npmsn
-ne	Q
-bo	Va-f3s-n
-šla	Vmbp-sf
-v	Sa
-stečaj	Ncmsan
-,	Z
-da	Cs
-se	Px------y
-ohranijo	Vmer3p
-delovna	Agpnpn
-mesta	Ncnpn
-in	Cc
-da	Cs
-se	Px------y
-ohrani	Vmer3s
-vsaj	Q
-dosedanji	Agpmsay
-obseg	Ncmsan
-proizvodnje	Ncfsg
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsan
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-v	Sa
-nedeljo	Ncfsa
-na	Sl
-izredni	Agpfsl
-seji	Ncfsl
-seznanil	Vmep-sm
-s	Si
-pogojno	Agpfsi
-pripravljenostjo	Ncfsi
-uprave	Ncfsg
-za	Sa
-umik	Ncmsan
-,	Z
-uprave	Ncfsg
-ni	Va-r3s-y
-razrešil	Vmep-sm
-.	Z
-Izrazil	Vmep-sm
-pa	Cc
-je	Va-r3s-n
-načelno	Agpfsa
-podporo	Ncfsa
-zahtevi	Ncfsd
-Prevent	Npmsn
-DEV	Npmsn
-po	Sl
-razrešitvi	Ncfsl
-uprave	Ncfsg
-,	Z
-v	Sl
-kolikor	Cs
-lahko	Rgp
-Prevent	Npmsn
-DEV	Npmsn
-zagotovi	Vmer3s
-5,2	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-takojšnjega	Agpnsg
-posojila	Ncnsg
-,	Z
-redefiniranje	Ncnsa
-komercialnih	Agpmpg
-pogojev	Ncmpg
-,	Z
-ki	Cs
-bi	Va-c
-zagotovili	Vmep-pm
-normalno	Agpnsa
-poslovanje	Ncnsa
-družbe	Ncfsg
-Prevent	Npmsn
-Global	Npmsn
-,	Z
-in	Cc
-ohranitev	Ncfsa
-vseh	Pg-mpg
-programov	Ncmpg
-vsaj	Q
-do	Sg
-izteka	Ncmsg
-pogodb	Ncfpg
-,	Z
-je	Va-r3s-n
-po	Sl
-seji	Ncfsl
-nadzornega	Agpmsg
-sveta	Ncmsg
-pojasnil	Vmep-sm
-predsednik	Ncmsn
-nadzornikov	Ncmpg
-Vladimir	Npmsn
-Bilić	Npmsn
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-mu	Pp3msd--y
-je	Va-r3s-n
-naložil	Vmep-sm
-,	Z
-da	Cs
-mora	Vmpr3s
-čim	Rgp
-prej	Rgc
-organizirati	Vmbn
-sestanek	Ncmsan
-med	Si
-predstavniki	Ncmpi
-družb	Ncfpg
-Prevent	Npmsn
-Global	Npmsn
-in	Cc
-Prevent	Npmsn
-DEV	Npmsn
-.	Z
+token	tag	lemma
+Delo	mte:Ncnsn	delo
+v	mte:Sl	v
+podjetjih	mte:Ncnpl	podjetje
+Prevent	mte:Npmsn	Prevent
+Globala	mte:Npmsg	Global
+je	mte:Va-r3s-n	biti
+potekalo	mte:Vmpp-sn	potekati
+nemoteno	mte:Agpnsn	nemoten
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+štirje	mte:Mlcmpn	štirje
+tovornjaki	mte:Ncmpn	tovornjak
+družbe	mte:Ncfsg	družba
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+želeli	mte:Vmpp-pm	želeti
+naložiti	mte:Vmen	naložiti
+repromaterial	mte:Ncmsan	repromaterial
+iz	mte:Sg	iz
+tovarne	mte:Ncfsg	tovarna
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+kljub	mte:Sd	kljub
+ultimatu	mte:Ncmsd	ultimat
+nemškega	mte:Agpnsg	nemški
+podjetja	mte:Ncnsg	podjetje
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+do	mte:Sg	do
+nedelje	mte:Ncfsg	nedelje
+ni	mte:Va-r3s-y	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+zamenjave	mte:Ncfsg	zamenjava
+v	mte:Sl	v
+vrhu	mte:Ncmsl	vrh
+družbe	mte:Ncfsg	družba
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+delo	mte:Ncnsn	delo
+v	mte:Sl	v
+podjetjih	mte:Ncnpl	podjetje
+Prevent	mte:Npmsn	Prevent
+Globala	mte:Npmsg	Global
+danes	mte:Rgp	danes
+še	mte:Q	še
+potekalo	mte:Vmpp-sn	potekati
+nemoteno	mte:Agpnsn	nemoten
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+podjetniškega	mte:Agpmsg	podjetniški
+sindikata	mte:Ncmsg	sindikat
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+Vlado	mte:Npfsn	vlada
+Zorman	mte:Npmsn	Zorman
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+danes	mte:Rgp	danes
+štirje	mte:Mlcmpn	štirje
+tovornjaki	mte:Ncmpn	tovornjak
+družbe	mte:Ncfsg	družba
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+želeli	mte:Vmpp-pm	želeti
+naložiti	mte:Vmen	naložiti
+repromaterial	mte:Ncmsan	repromaterial
+iz	mte:Sg	iz
+tovarne	mte:Ncfsg	tovarna
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+,	mte:Z	,
+a	mte:Cc	a
+pristojni	mte:Agpmpn	pristojen
+tega	mte:Pd-nsg	ta
+niso	mte:Va-r3p-y	biti
+dovolili	mte:Vmep-pm	dovoliti
+.	mte:Z	.
+V	mte:Sl	v
+Prevent	mte:Npmsl	Prevent
+Globalu	mte:Npmsl	Global
+je	mte:Va-r3s-n	biti
+200	mte:Mdc	200
+zaposlenih	mte:Appmpg	zaposlen
+.	mte:Z	.
+Zorman	mte:Npmsn	Zorman
+tako	mte:Rgp	tako
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+grožnja	mte:Ncfsn	grožnja
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Nijaza	mte:Npmsg	Nijaz
+Hastorja	mte:Npmsg	Hastor
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+z	mte:Si	z
+današnjim	mte:Agpmsi	današnji
+dnem	mte:Ncmsi	dan
+začel	mte:Vmep-sm	začeti
+seliti	mte:Vmpn	seliti
+proizvodnjo	mte:Ncfsa	proizvodnja
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+če	mte:Cs	če
+do	mte:Sg	do
+nedelje	mte:Ncfsg	nedelje
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+zamenjana	mte:Appfsn	zamenjan
+uprava	mte:Ncfsn	uprava
+Prevent	mte:Npfsn	Prevent
+Globala	mte:Npfsn	Global
+,	mte:Z	,
+resna	mte:Agpfsn	resen
+.	mte:Z	.
+Dejal	mte:Vmep-sm	dejati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+zato	mte:Rgp	zato
+tudi	mte:Q	tudi
+opozorili	mte:Vmep-pm	opozoriti
+upravo	mte:Ncfsa	uprava
+in	mte:Cc	in
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+da	mte:Cs	da
+s	mte:Si	z
+svojimi	mte:Px-fpi	svoj
+odločitvami	mte:Ncfpi	odločitev
+sprejemajo	mte:Vmpr3p	sprejemati
+odgovornost	mte:Ncfsa	odgovornost
+.	mte:Z	.
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Ncmsn	dev
+vztraja	mte:Vmpr3s	vztrajati
+pri	mte:Sl	pri
+nameri	mte:Ncfsl	namera
+,	mte:Z	,
+da	mte:Cs	da
+proizvodnjo	mte:Ncfsa	proizvodnja
+izseli	mte:Vmer3s	izseliti
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+če	mte:Cs	če
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+zamenjave	mte:Ncfsg	zamenjava
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+pogovoru	mte:Ncmsl	pogovor
+z	mte:Si	z
+generalnim	mte:Agpmsi	generalen
+sekretarjem	mte:Ncmsi	sekretar
+Sindikata	mte:Ncmsg	sindikat
+tekstilne	mte:Agpfsg	tekstilen
+in	mte:Cc	in
+usnjarsko	mte:Agpnsn	usnjarski
+-	mte:Z	-
+predelovalne	mte:Agpfsg	predelovalen
+industrije	mte:Ncfsg	industrija
+Slovenije	mte:Npfsg	Slovenija
+Antonom	mte:Npmsi	Anton
+Rozmanom	mte:Npmsi	Rozman
+dejal	mte:Vmep-sm	dejati
+predstavnik	mte:Ncmsn	predstavnik
+podjetja	mte:Ncnsg	podjetje
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+Carsten	mte:Npmsn	Carsten
+Unverricht	mte:Npmsn	Unverricht
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Rozman	mte:Npmsn	Rozman
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+še	mte:Q	še
+pripravljen	mte:Appmsnn	pripravljen
+konstruktivno	mte:Rgp	konstruktivno
+pogovarjati	mte:Vmpn	pogovarjati
+.	mte:Z	.
+Ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+zmagala	mte:Vmep-sf	zmagati
+modrost	mte:Ncfsa	modrost
+?	mte:Z	?
+Tudi	mte:Q	tudi
+Rozman	mte:Npmsn	Rozman
+upa	mte:Vmbr3s	up
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+predstavniki	mte:Ncmpn	predstavnik
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+in	mte:Cc	in
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+kmalu	mte:Rgp	kmalu
+sestali	mte:Vmep-pm	sestati
+,	mte:Z	,
+zmogli	mte:Vmep-pm	zmoči
+dovolj	mte:Rgp	dovolj
+modrosti	mte:Ncfsg	modrost
+za	mte:Sa	za
+dogovor	mte:Ncmsan	dogovor
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+ohranili	mte:Vmep-pm	ohraniti
+vsaj	mte:Q	vsaj
+od	mte:Sg	od
+700	mte:Mdc	700
+do	mte:Sg	do
+800	mte:Mdc	800
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+avtomobilski	mte:Agpfsl	avtomobilski
+proizvodnji	mte:Ncfsl	proizvodnja
+.	mte:Z	.
+Sam	mte:Agpmsnn	sam
+namreč	mte:Cc	namreč
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+,	mte:Z	,
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+prihodnje	mte:Agpmpa	prihodnji
+dogovore	mte:Ncmpa	dogovor
+,	mte:Z	,
+pristal	mte:Vmep-sm	pristati
+v	mte:Sl	v
+stečaju	mte:Ncmsl	stečaj
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+podjetniškega	mte:Agpmsg	podjetniški
+sindikata	mte:Ncmsg	sindikat
+Vlado	mte:Ncfsa	vlada
+Zorman	mte:Npmsn	Zorman
+upa	mte:Vmbr3s	up
+,	mte:Z	,
+da	mte:Cs	da
+grožnja	mte:Ncfsn	grožnja
+nemškega	mte:Agpnsg	nemški
+podjetja	mte:Ncnsg	podjetje
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsnn	DEV
+,	mte:Z	,
+da	mte:Cs	da
+če	mte:Cs	če
+uprava	mte:Ncfsn	uprava
+do	mte:Sg	do
+nedelje	mte:Ncfsg	nedelje
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+zamenjana	mte:Appfsn	zamenjan
+,	mte:Z	,
+danes	mte:Rgp	danes
+začne	mte:Vmer3s	začeti
+seliti	mte:Vmpn	seliti
+proizvodnjo	mte:Ncfsa	proizvodnja
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+uresničena	mte:Appfsn	uresničen
+.	mte:Z	.
+Zaenkrat	mte:Rgp	zaenkrat
+kakšnih	mte:Pq-fpg	kakšen
+informacij	mte:Ncfpg	informacija
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Enako	mte:Rgp	enako
+je	mte:Va-r3s-n	biti
+potrdila	mte:Vmep-sf	potrditi
+tudi	mte:Q	tudi
+predstavnica	mte:Ncfsn	predstavnica
+za	mte:Sa	za
+stike	mte:Ncmpa	stik
+z	mte:Si	z
+javnostjo	mte:Ncfsi	javnost
+v	mte:Sl	v
+Prevent	mte:Npmsl	Prevent
+Globalu	mte:Npmsl	Global
+Monika	mte:Npfsn	Monika
+Žvikart	mte:Npfsn	Žvikart
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+pripravljena	mte:Appfsn	pripravljen
+odstopiti	mte:Vmen	odstopiti
+Uprava	mte:Ncfsn	uprava
+je	mte:Va-r3s-n	biti
+pripravljena	mte:Appfsn	pripravljen
+odstopiti	mte:Vmen	odstopiti
+,	mte:Z	,
+če	mte:Cs	če
+nemški	mte:Agpmsny	nemški
+Prevent	mte:Ncmsn	prevent
+DEV	mte:Npmsn	DEV
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+kupec	mte:Ncmsn	kupec
+večine	mte:Ncfsg	večina
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+sešitih	mte:Agpfpg	sešit
+avtomobilskih	mte:Agpfpg	avtomobilski
+sedežnih	mte:Agpfpg	sedežen
+prevlek	mte:Ncfpg	prevleka
+,	mte:Z	,
+zagotovi	mte:Vmer3s	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+družba	mte:Ncfsn	družba
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+šla	mte:Vmbp-sf	iti
+v	mte:Sa	v
+stečaj	mte:Ncmsan	stečaj
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+ohranijo	mte:Vmer3p	ohraniti
+delovna	mte:Agpnpn	deloven
+mesta	mte:Ncnpn	mesto
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+ohrani	mte:Vmer3s	ohraniti
+vsaj	mte:Q	vsaj
+dosedanji	mte:Agpmsay	dosedanji
+obseg	mte:Ncmsan	obseg
+proizvodnje	mte:Ncfsg	proizvodnja
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+na	mte:Sl	na
+izredni	mte:Agpfsl	izreden
+seji	mte:Ncfsl	seja
+seznanil	mte:Vmep-sm	seznaniti
+s	mte:Si	z
+pogojno	mte:Agpfsi	pogojno
+pripravljenostjo	mte:Ncfsi	pripravljenost
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+umik	mte:Ncmsan	umik
+,	mte:Z	,
+uprave	mte:Ncfsg	uprava
+ni	mte:Va-r3s-y	biti
+razrešil	mte:Vmep-sm	razrešiti
+.	mte:Z	.
+Izrazil	mte:Vmep-sm	izraziti
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+načelno	mte:Agpfsa	načelno
+podporo	mte:Ncfsa	podpora
+zahtevi	mte:Ncfsd	zahteva
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+po	mte:Sl	po
+razrešitvi	mte:Ncfsl	razrešitev
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+v	mte:Sl	v
+kolikor	mte:Cs	kolikor
+lahko	mte:Rgp	lahko
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+zagotovi	mte:Vmer3s	zagotoviti
+5,2	mte:Mdc	5,2
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+takojšnjega	mte:Agpnsg	takojšnji
+posojila	mte:Ncnsg	posojilo
+,	mte:Z	,
+redefiniranje	mte:Ncnsa	redefiniranje
+komercialnih	mte:Agpmpg	komercialen
+pogojev	mte:Ncmpg	pogoj
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+zagotovili	mte:Vmep-pm	zagotoviti
+normalno	mte:Agpnsa	normalen
+poslovanje	mte:Ncnsa	poslovanje
+družbe	mte:Ncfsg	družba
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+,	mte:Z	,
+in	mte:Cc	in
+ohranitev	mte:Ncfsa	ohranitev
+vseh	mte:Pg-mpg	ves
+programov	mte:Ncmpg	program
+vsaj	mte:Q	vsaj
+do	mte:Sg	do
+izteka	mte:Ncmsg	iztekati
+pogodb	mte:Ncfpg	pogodba
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+seji	mte:Ncfsl	seja
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+pojasnil	mte:Vmep-sm	pojasniti
+predsednik	mte:Ncmsn	predsednik
+nadzornikov	mte:Ncmpg	nadzornik
+Vladimir	mte:Npmsn	Vladimir
+Bilić	mte:Npmsn	Bilić
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+naložil	mte:Vmep-sm	naložiti
+,	mte:Z	,
+da	mte:Cs	da
+mora	mte:Vmpr3s	morati
+čim	mte:Rgp	čim
+prej	mte:Rgc	prej
+organizirati	mte:Vmbn	organizirati
+sestanek	mte:Ncmsan	sestanek
+med	mte:Si	med
+predstavniki	mte:Ncmpi	predstavnik
+družb	mte:Ncfpg	družba
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+in	mte:Cc	in
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+.	mte:Z	.
+Na	mte:Sa	na
+nedeljsko	mte:Agpfsa	nedeljski
+izredno	mte:Agpfsa	izreden
+sejo	mte:Ncfsa	seja
+sta	mte:Va-r3d-n	biti
+sicer	mte:Q	sicer
+bila	mte:Va-p-dm	biti
+vabljena	mte:Appmdn	vabljen
+oba	mte:Pg-mdn	oba
+največja	mte:Agsmdn	velik
+lastnika	mte:Ncmdn	lastnik
+,	mte:Z	,
+Janko	mte:Npmsn	Janko
+Zakeršnik	mte:Npmsn	Zakeršnik
+52	mte:Mdc	52
+odstotkov	mte:Ncmpg	odstotek
+in	mte:Cc	in
+Nijaz	mte:Npmsn	Nijaz
+Hastor	mte:Npmsn	Hastor
+45	mte:Mdc	45
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+vendar	mte:Cc	vendar
+se	mte:Px------y	se
+slednji	mte:Agpmsny	slednji
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+lastnik	mte:Ncmsn	lastnik
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Ncmsn	dev
+,	mte:Z	,
+seje	mte:Ncfsg	seja
+ni	mte:Va-r3s-y	biti
+udeležil	mte:Vmep-sm	udeležiti

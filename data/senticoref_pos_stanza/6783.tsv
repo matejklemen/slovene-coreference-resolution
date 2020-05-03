@@ -1,333 +1,363 @@
-token	tag
-V	Sl
-Berlinu	Npmsl
-in	Cc
-Moskvi	Npfsl
-presenečeni	Appmsn
-nad	Si
-odločitvijo	Ncfsi
-GM	Npfsn
--	Z
-ja	Q
-Iz	Sg
-Detroita	Npmsg
-je	Va-r3s-n
-prišla	Vmep-sf
-presenetljiva	Agpfsn
-odločitev	Ncfsn
-.	Z
-General	Ncmsn
-Motors	Npmsn
-se	Px------y
-je	Va-r3s-n
-odločil	Vmep-sm
-,	Z
-da	Cs
-ne	Q
-bo	Va-f3s-n
-prodal	Vmep-sm
-evropskih	Agpnpg
-avtomobilskih	Agpnpg
-podjetij	Ncnpg
-Opel	Npmsn
-in	Cc
-Vauxhaull	Npmsn
-kanadski	Agpfsd
-skupini	Ncfsd
-Magna	Npfsn
-.	Z
-Ameriški	Agpmsny
-avtomobilski	Agpmsny
-velikan	Ncmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-zaradi	Sg
-gospodarske	Agpfsg
-krize	Ncfsg
-znašel	Vmep-sm
-v	Sl
-velikih	Agpfpl
-težavah	Ncfpl
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-morala	Vmpp-sf
-z	Si
-znatno	Agpfsi
-finančno	Agpfsi
-injekcijo	Ncfsi
-posredovati	Vmbn
-celo	Q
-ameriška	Agpfsn
-vlada	Ncfsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-po	Sl
-večmesečnih	Agpnpl
-pogajanjih	Ncnpl
-septembra	Ncmsg
-odločil	Vmep-sm
-,	Z
-da	Cs
-proda	Vmer3s
-svoji	Px-nsd
-evropski	Agpnsd
-podjetji	Ncnpd
-kanadskemu	Agpmsd
-proizvajalcu	Ncmsd
-avtomobilskih	Agpmpg
-delov	Ncmpg
-Magna	Npfsn
-International	Npfsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-za	Sa
-nakup	Ncmsan
-potegoval	Vmpp-sm
-skupaj	Rgp
-z	Si
-rusko	Agpfsi
-banko	Ncfsi
-Sberbank	Npfsn
-.	Z
-Septembrski	Agpmsay
-dogovor	Ncmsan
-je	Va-r3s-n
-pozdravila	Vmep-sf
-nemška	Agpfsn
-vlada	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-njem	Pp3msl
-videla	Vmbp-sf
-rešitev	Ncfsa
-za	Sa
-številna	Agpnpa
-delovna	Agpnpa
-mesta	Ncnpa
-,	Z
-saj	Cc
-je	Va-r3s-n
-izmed	Sg
-50.000	Mdc
-delavcev	Ncmpg
-,	Z
-kolikor	Cs
-jih	Pp3mpa--y
-Opel	Npmsn
-zaposluje	Vmpr3s
-v	Sl
-Evropi	Npfsl
-,	Z
-kar	Pr-nsa
-polovica	Ncfsn
-v	Sl
-Nemčiji	Npfsl
-.	Z
-Novi	Agpmsny
-kupec	Ncmsn
-se	Px------y
-je	Va-r3s-n
-namreč	Cc
-zavezal	Vmpp-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-ohranil	Vmep-sm
-delovna	Agpnpa
-mesta	Ncnpa
-in	Cc
-ne	Q
-bo	Va-f3s-n
-zapiral	Vmpp-sm
-Oplovih	Ncmpg
-tovarn	Ncfpg
-v	Sl
-Evropi	Npfsl
-.	Z
-Berlin	Npmsn
-je	Va-r3s-n
-takrat	Rgp
-tudi	Q
-obljubil	Vmep-sm
-4,5	Mdc
-milijarde	Ncfsg
-državnih	Agpnpg
-jamstev	Ncnpg
-za	Sa
-pomoč	Ncfsa
-Magni	Npfsn
-pri	Sl
-prestrukturiranju	Ncnsl
-Opla	Ncmsg
-.	Z
-Izboljšano	Appnsa
-poslovno	Agpnsa
-ozračje	Ncnsa
-in	Cc
-strateški	Agpmsay
-pomen	Ncmsan
-obeh	Pg-ndg
-evropskih	Agpnpg
-podjetij	Ncnpg
-za	Sa
-lastno	Agpfsa
-tržno	Agpfsa
-strategijo	Ncfsa
-sta	Va-r3d-n
-po	Sl
-besedah	Ncfpl
-upravnega	Agpmsg
-odbora	Ncmsg
-GM	Npmsn
--	Z
-ja	Q
-vplivala	Vmpp-sf
-na	Sa
-odločitev	Ncfsa
-,	Z
-da	Cs
-v	Sl
-svoji	Px-fsl
-lasti	Ncfsl
-obdrži	Vmer3s
-Opel	Npmsn
-in	Cc
-Vauxhall	Npmsan
-.	Z
-Generalni	Agpmsny
-direktor	Ncmsn
-GM	Npmsn
--	Z
-ja	Q
-Fredercik	Npmsn
-Henderson	Npmsn
-je	Va-r3s-n
-napovedal	Vmep-sm
-skorajšnjo	Agpfsa
-predstavitev	Ncfsa
-načrta	Ncmsg
-za	Sa
-prestrukturiranje	Ncnsa
-nemškim	Agpfpd
-in	Cc
-drugim	Mlpfpd
-vladam	Ncfpd
-ter	Cc
-ob	Sl
-tem	Pd-nsl
-izrazil	Vmep-sm
-upanje	Ncnsa
-,	Z
-da	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-dobro	Rgp
-sprejeli	Vmep-pm
-.	Z
-Presenečenje	Ncnsa
-ter	Cc
-osuplost	Ncfsa
-v	Sl
-Berlinu	Npmsl
-in	Cc
-Moskvi	Npfsl
-A	Cc
-nemška	Agpfsn
-vlada	Ncfsn
-ni	Va-r3s-y
-zadovoljna	Agpfsn
-z	Si
-odločitvijo	Ncfsi
-GM	Npfsn
--	Z
-a	Cc
-in	Cc
-je	Va-r3s-n
-močno	Rgp
-presenečena	Appfsn
-.	Z
-Za	Sa
-nemškega	Agpmsa
-gospodarskega	Agpmsa
-ministra	Ncmsay
-Rainerja	Npmsgy
-Brüderleja	Npmsgy
-je	Va-r3s-n
-odločitev	Ncfsn
-o	Sl
-zavrnitvi	Ncfsl
-dogovora	Ncmsg
-o	Sl
-prodaji	Ncfsl
-skrajno	Rgp
-nesprejemljiva	Agpfsn
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-zaposleni	Appmpn
-v	Sl
-Oplu	Ncmsl
-že	Q
-napovedali	Vmep-pm
-stavko	Ncfsa
-in	Cc
-naj	Q
-bi	Va-c
-kratko	Agpfsa
-prekinitev	Ncfsa
-dela	Ncnsg
-začeli	Vmep-pm
-v	Sa
-četrtek	Ncmsan
-.	Z
-Nič	Rgp
-bolj	Rgc
-niso	Va-r3p-y
-nad	Si
-odločitvijo	Ncfsi
-GM	Npmsn
--	Z
-a	Cc
-navdušeni	Appmpn
-v	Sl
-Rusiji	Npfsl
-.	Z
-Iz	Sg
-kabineta	Ncmsg
-ruskega	Agpmsg
-predsednika	Ncmsg
-vlade	Ncfsg
-so	Va-r3p-n
-izrazili	Vmep-pm
-zaskrbljenost	Ncfsa
-,	Z
-ob	Sl
-tem	Pd-nsl
-pa	Cc
-napovedali	Vmep-pm
-,	Z
-da	Cs
-bo	Va-f3s-n
-avstrijsko	Agpnsn
--	Z
-kanadsko	Agpnsn
--	Z
-ruska	Agpfsn
-naveza	Ncfsn
-Magna	Npfsn
-in	Cc
-Sberbank	Npfsn
-temeljito	Rgp
-analizirala	Vmbp-sf
-odločitev	Ncfsa
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+Berlinu	mte:Npmsl	Berlin
+in	mte:Cc	in
+Moskvi	mte:Npfsl	Moskva
+presenečeni	mte:Appmsn	presenečen
+nad	mte:Si	nad
+odločitvijo	mte:Ncfsi	odločitev
+GM	mte:Npfsn	GM
+-	mte:Z	-
+ja	mte:Q	ja
+Iz	mte:Sg	iz
+Detroita	mte:Npmsg	Detroita
+je	mte:Va-r3s-n	biti
+prišla	mte:Vmep-sf	priti
+presenetljiva	mte:Agpfsn	presenetljiv
+odločitev	mte:Ncfsn	odločitev
+.	mte:Z	.
+General	mte:Ncmsn	general
+Motors	mte:Npmsn	Motors
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+odločil	mte:Vmep-sm	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+prodal	mte:Vmep-sm	prodati
+evropskih	mte:Agpnpg	evropski
+avtomobilskih	mte:Agpnpg	avtomobilski
+podjetij	mte:Ncnpg	podjetje
+Opel	mte:Npmsn	Opel
+in	mte:Cc	in
+Vauxhaull	mte:Npmsn	Vauxhaull
+kanadski	mte:Agpfsd	kanadski
+skupini	mte:Ncfsd	skupina
+Magna	mte:Npfsn	Magna
+.	mte:Z	.
+Ameriški	mte:Agpmsny	ameriški
+avtomobilski	mte:Agpmsny	avtomobilski
+velikan	mte:Ncmsn	velikan
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+gospodarske	mte:Agpfsg	gospodarski
+krize	mte:Ncfsg	kriza
+znašel	mte:Vmep-sm	znajti
+v	mte:Sl	v
+velikih	mte:Agpfpl	velik
+težavah	mte:Ncfpl	težava
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+morala	mte:Vmpp-sf	morati
+z	mte:Si	z
+znatno	mte:Agpfsi	znaten
+finančno	mte:Agpfsi	finančen
+injekcijo	mte:Ncfsi	injekcija
+posredovati	mte:Vmbn	posredovati
+celo	mte:Q	celo
+ameriška	mte:Agpfsn	ameriški
+vlada	mte:Ncfsn	vlada
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+večmesečnih	mte:Agpnpl	večmesečen
+pogajanjih	mte:Ncnpl	pogajanje
+septembra	mte:Ncmsg	september
+odločil	mte:Vmep-sm	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+proda	mte:Vmer3s	prodati
+svoji	mte:Px-nsd	svoj
+evropski	mte:Agpnsd	evropski
+podjetji	mte:Ncnpd	podjetje
+kanadskemu	mte:Agpmsd	kanadski
+proizvajalcu	mte:Ncmsd	proizvajalec
+avtomobilskih	mte:Agpmpg	avtomobilski
+delov	mte:Ncmpg	del
+Magna	mte:Npfsn	Magna
+International	mte:Npfsn	International
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+potegoval	mte:Vmpp-sm	potegovati
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+rusko	mte:Agpfsi	ruski
+banko	mte:Ncfsi	banka
+Sberbank	mte:Npfsn	Sberbank
+.	mte:Z	.
+Septembrski	mte:Agpmsay	septembrski
+dogovor	mte:Ncmsan	dogovor
+je	mte:Va-r3s-n	biti
+pozdravila	mte:Vmep-sf	pozdraviti
+nemška	mte:Agpfsn	nemški
+vlada	mte:Ncfsn	vlada
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+njem	mte:Pp3msl	on
+videla	mte:Vmbp-sf	videti
+rešitev	mte:Ncfsa	rešitev
+za	mte:Sa	za
+številna	mte:Agpnpa	številen
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+izmed	mte:Sg	izmed
+50.000	mte:Mdc	50.000
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+kolikor	mte:Cs	kolikor
+jih	mte:Pp3mpa--y	on
+Opel	mte:Npmsn	Opel
+zaposluje	mte:Vmpr3s	zaposlovati
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+polovica	mte:Ncfsn	polovica
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+.	mte:Z	.
+Novi	mte:Agpmsny	nov
+kupec	mte:Ncmsn	kupec
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+zavezal	mte:Vmpp-sm	zavezati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+ohranil	mte:Vmep-sm	ohraniti
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+in	mte:Cc	in
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+zapiral	mte:Vmpp-sm	zapirati
+Oplovih	mte:Ncmpg	oplov
+tovarn	mte:Ncfpg	tovarna
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Berlin	mte:Npmsn	Berlin
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+tudi	mte:Q	tudi
+obljubil	mte:Vmep-sm	obljubiti
+4,5	mte:Mdc	4,5
+milijarde	mte:Ncfsg	milijarda
+državnih	mte:Agpnpg	državen
+jamstev	mte:Ncnpg	jamstvo
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+Magni	mte:Npfsn	Magna
+pri	mte:Sl	pri
+prestrukturiranju	mte:Ncnsl	prestrukturiranje
+Opla	mte:Ncmsg	opla
+.	mte:Z	.
+Izboljšano	mte:Appnsa	izboljšan
+poslovno	mte:Agpnsa	posloven
+ozračje	mte:Ncnsa	ozračje
+in	mte:Cc	in
+strateški	mte:Agpmsay	strateški
+pomen	mte:Ncmsan	pomen
+obeh	mte:Pg-ndg	oba
+evropskih	mte:Agpnpg	evropski
+podjetij	mte:Ncnpg	podjetje
+za	mte:Sa	za
+lastno	mte:Agpfsa	lasten
+tržno	mte:Agpfsa	tržen
+strategijo	mte:Ncfsa	strategija
+sta	mte:Va-r3d-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+upravnega	mte:Agpmsg	upraven
+odbora	mte:Ncmsg	odbor
+GM	mte:Npmsn	GM
+-	mte:Z	-
+ja	mte:Q	ja
+vplivala	mte:Vmpp-sf	vplivati
+na	mte:Sa	na
+odločitev	mte:Ncfsa	odločitev
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+svoji	mte:Px-fsl	svoj
+lasti	mte:Ncfsl	last
+obdrži	mte:Vmer3s	obdržati
+Opel	mte:Npmsn	Opel
+in	mte:Cc	in
+Vauxhall	mte:Npmsan	Vauxhall
+.	mte:Z	.
+Generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+GM	mte:Npmsn	GM
+-	mte:Z	-
+ja	mte:Q	ja
+Fredercik	mte:Npmsn	Fredercik
+Henderson	mte:Npmsn	Henderson
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+skorajšnjo	mte:Agpfsa	skorajšnji
+predstavitev	mte:Ncfsa	predstavitev
+načrta	mte:Ncmsg	načrt
+za	mte:Sa	za
+prestrukturiranje	mte:Ncnsa	prestrukturiranje
+nemškim	mte:Agpfpd	nemški
+in	mte:Cc	in
+drugim	mte:Mlpfpd	drug
+vladam	mte:Ncfpd	vlada
+ter	mte:Cc	ter
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+izrazil	mte:Vmep-sm	izraziti
+upanje	mte:Ncnsa	upanje
+,	mte:Z	,
+da	mte:Cs	da
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+dobro	mte:Rgp	dobro
+sprejeli	mte:Vmep-pm	sprejeti
+.	mte:Z	.
+Presenečenje	mte:Ncnsa	presenečenje
+ter	mte:Cc	ter
+osuplost	mte:Ncfsa	osuplost
+v	mte:Sl	v
+Berlinu	mte:Npmsl	Berlin
+in	mte:Cc	in
+Moskvi	mte:Npfsl	Moskva
+A	mte:Cc	a
+nemška	mte:Agpfsn	nemški
+vlada	mte:Ncfsn	vlada
+ni	mte:Va-r3s-y	biti
+zadovoljna	mte:Agpfsn	zadovoljen
+z	mte:Si	z
+odločitvijo	mte:Ncfsi	odločitev
+GM	mte:Npfsn	GM
+-	mte:Z	-
+a	mte:Cc	a
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+močno	mte:Rgp	močno
+presenečena	mte:Appfsn	presenečen
+.	mte:Z	.
+Za	mte:Sa	za
+nemškega	mte:Agpmsa	nemški
+gospodarskega	mte:Agpmsa	gospodarski
+ministra	mte:Ncmsay	minister
+Rainerja	mte:Npmsgy	Rainer
+Brüderleja	mte:Npmsgy	Brüderele
+je	mte:Va-r3s-n	biti
+odločitev	mte:Ncfsn	odločitev
+o	mte:Sl	o
+zavrnitvi	mte:Ncfsl	zavrnitev
+dogovora	mte:Ncmsg	dogovor
+o	mte:Sl	o
+prodaji	mte:Ncfsl	prodaja
+skrajno	mte:Rgp	skrajno
+nesprejemljiva	mte:Agpfsn	nesprejemljiv
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+zaposleni	mte:Appmpn	zaposlen
+v	mte:Sl	v
+Oplu	mte:Ncmsl	opel
+že	mte:Q	že
+napovedali	mte:Vmep-pm	napovedati
+stavko	mte:Ncfsa	stavka
+in	mte:Cc	in
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+kratko	mte:Agpfsa	kratek
+prekinitev	mte:Ncfsa	prekinitev
+dela	mte:Ncnsg	delo
+začeli	mte:Vmep-pm	začeti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+.	mte:Z	.
+Nič	mte:Rgp	nič
+bolj	mte:Rgc	bolj
+niso	mte:Va-r3p-y	biti
+nad	mte:Si	nad
+odločitvijo	mte:Ncfsi	odločitev
+GM	mte:Npmsn	GM
+-	mte:Z	-
+a	mte:Cc	a
+navdušeni	mte:Appmpn	navdušen
+v	mte:Sl	v
+Rusiji	mte:Npfsl	Rusija
+.	mte:Z	.
+Iz	mte:Sg	iz
+kabineta	mte:Ncmsg	kabinet
+ruskega	mte:Agpmsg	ruski
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+so	mte:Va-r3p-n	biti
+izrazili	mte:Vmep-pm	izraziti
+zaskrbljenost	mte:Ncfsa	zaskrbljenost
+,	mte:Z	,
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+napovedali	mte:Vmep-pm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+avstrijsko	mte:Agpnsn	avstrijski
+-	mte:Z	-
+kanadsko	mte:Agpnsn	kanadski
+-	mte:Z	-
+ruska	mte:Agpfsn	ruski
+naveza	mte:Ncfsn	naveza
+Magna	mte:Npfsn	Magna
+in	mte:Cc	in
+Sberbank	mte:Npfsn	Sberbank
+temeljito	mte:Rgp	temeljito
+analizirala	mte:Vmbp-sf	analizirati
+odločitev	mte:Ncfsa	odločitev
+.	mte:Z	.
+Moskva	mte:Npfsn	Moskva
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+večkrat	mte:Rgc	večkrat
+poudarila	mte:Vmep-sf	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+Oplu	mte:Ncmsd	opel
+skupini	mte:Ncfsd	skupina
+z	mte:Si	z
+ruskim	mte:Agpmsi	ruski
+kapitalom	mte:Ncmsi	kapital
+znak	mte:Ncmsn	znak
+pripravljenosti	mte:Ncfsg	pripravljenost
+ameriškega	mte:Agpmsg	ameriški
+predsednika	mte:Ncmsg	predsednik
+Baracka	mte:Npmsg	Baracka
+Obame	mte:Npmsg	Obame
+,	mte:Z	,
+da	mte:Cs	da
+okrepi	mte:Vmer3s	okrepiti
+gospodarske	mte:Agpmpa	gospodarski
+odnose	mte:Ncmpa	odnos
+med	mte:Si	med
+Rusijo	mte:Npfsi	Rusija
+in	mte:Cc	in
+ZDA	mte:Npfpi	ZDA

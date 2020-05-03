@@ -1,269 +1,282 @@
-token	tag
-Slovenec	Npmsn
-leta	Ncnsg
-2007	Mdc
-je	Va-r3s-n
-po	Sl
-izboru	Ncmsl
-bralcev	Ncmpg
-Nedeljskega	Agpmsg
-dnevnika	Ncmsg
-postal	Vmep-sm
-Danilo	Npmsn
-Türk	Npmsn
-.	Z
-Največ	Rgs
-bralcev	Ncmpg
-bi	Va-c
-namreč	Cc
-na	Sa
-kosilo	Ncnsa
-povabilo	Ncnsa
-predsednika	Ncmsay
-države	Ncfsg
-.	Z
-Nedeljski	Agpmsny
-dnevnik	Ncmsn
-je	Va-r3s-n
-že	Q
-dvajsetič	Mlomsa
-razglasil	Vmep-sm
-Slovenca	Npmsay
-leta	Ncnsg
-.	Z
-Laskavi	Npmsn
-naziv	Ncmsan
-za	Sa
-leto	Ncnsa
-2007	Mdc
-si	Px---d--y
-je	Va-r3s-n
-prislužil	Vmep-sm
-predsednik	Ncmsn
-države	Ncfsg
-Danilo	Npmsn
-Türk	Npmsn
-,	Z
-ki	Cs
-bi	Va-c
-ga	Pp3msa--y
-največ	Rgs
-bralcev	Ncmpg
-in	Cc
-bralk	Ncfpg
-Nedeljskega	Agpmsg
-dnevnika	Ncmsg
-povabilo	Vmep-sn
-k	Sd
-sebi	Px---d
-na	Sa
-kosilo	Ncnsa
-.	Z
-Uredništvo	Ncnsa
-časnika	Ncmsg
-tako	Rgp
-vsako	Pg-nsa
-leto	Ncnsa
-pripravi	Vmer3s
-izbor	Ncmsan
-Slovencev	Npmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-zaznamovali	Vmbp-pm
-minulo	Appnsa
-leto	Ncnsa
-,	Z
-nato	Rgp
-pa	Cc
-bralke	Ncfpa
-in	Cc
-bralci	Ncmpn
-za	Sa
-svoje	Px-fpa
-favorite	Ncfpa
-glasujejo	Vmbr3p
-v	Sl
-štirih	Mlcmpl
-krogih	Ncmpl
-glasovanja	Ncnsg
-.	Z
-Na	Sl
-jubilejni	Agpfsl
-prireditvi	Ncfsl
-v	Sl
-Litiji	Npfsl
-pa	Cc
-so	Va-r3p-n
-razglasili	Vmep-pm
-tudi	Q
-častnega	Agpmsa
-Slovenca	Npmsay
-leta	Ncnsg
-2007	Mdc
-.	Z
-Ta	Pd-msn
-naziv	Ncmsn
-je	Va-r3s-n
-tokrat	Rgp
-pripadel	Vmep-sm
-Janezu	Npmsd
-Drnovšku	Npmsd
-.	Z
-Nekdanji	Agpmsny
-predsednik	Ncmsn
-je	Va-r3s-n
-bil	Va-p-sm
-izbran	Appmsnn
-predvsem	Q
-zaradi	Sg
-svoje	Px-fsg
-človeške	Agpfsg
-dimenzije	Ncfsg
-in	Cc
-pristnih	Agpnpg
-etičnih	Agpnpg
-dejanj	Ncnpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-v	Sa
-zavest	Ncfsa
-Slovencev	Npmpg
-vnesel	Vmep-sm
-globalni	Agpmsay
-pogled	Ncmsan
-in	Cc
-občutek	Ncmsan
-soodgovornosti	Ncfsg
-za	Sa
-svetovne	Agpmpa
-probleme	Ncmpa
-.	Z
-Priznanje	Ncnsn
-za	Sa
-izjemne	Agpmpa
-dosežke	Ncmpa
-pa	Cc
-je	Va-r3s-n
-pripadlo	Vmep-sn
-plavalcu	Ncmsd
-Petru	Npmsd
-Mankoču	Npmsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-letos	Rgp
-že	Q
-osmič	Rgp
-zapored	Rgp
-osvojil	Vmep-sm
-naslov	Ncmsan
-evropskega	Agpmsg
-prvaka	Ncmsg
-v	Sl
-plavanju	Ncnsl
-na	Sa
-sto	Mlc-pa
-metrov	Ncmpg
-mešano	Appfsa
-.	Z
-Poleg	Sg
-omenjenih	Appmpg
-so	Va-r3p-n
-za	Sa
-favorite	Ncfpa
-letošnje	Agpfsg
-akcije	Ncfsg
-veljali	Vmpp-pm
-tudi	Q
-predsednik	Ncmsn
-vlade	Ncfsg
-Janez	Npmsn
-Janša	Npmsn
-,	Z
-ljubljanski	Agpmsny
-nadškof	Ncmsn
-in	Cc
-metropolit	Ncmsn
-Alojz	Npmsn
-Uran	Npmsn
-,	Z
-voditelj	Ncmsn
-Sašo	Npmsn
-Hribar	Npmsn
-,	Z
-poslanec	Ncmsn
-SNS	Npfsg
-Zmago	Npmsn
-Jelinčič	Npmsn
-,	Z
-športnica	Ncfsn
-Petra	Npfsn
-Majdič	Npfsn
-,	Z
-predsednik	Ncmsn
-SD	Npfsg
-Borut	Npmsn
-Pahor	Npmsn
-in	Cc
-predsednik	Ncmsn
-Zveze	Ncfsg
-borcev	Ncmpg
-Janez	Npmsn
-Stanovnik	Npmsn
-.	Z
-Slovenija	Npfsn
-dobila	Vmep-sf
-tudi	Q
-sedem	Mlc-pa
-čudes	Ncfpg
-Pol	Rgp
-leta	Ncnsg
-pa	Cc
-je	Va-r3s-n
-več	Rgc
-kot	Cs
-šest	Mlc-pa
-tisoč	Mlc-pa
-bralcev	Ncmpg
-Nedeljskega	Agpnsg
-sodelovalo	Vmpp-sn
-v	Sl
-še	Q
-eni	Mlpfsl
-akciji	Ncfsl
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-za	Sa
-sedem	Mlc-pa
-čudes	Ncfpg
-Slovenije	Npfsg
-izbrala	Vmep-sf
-Aljažev	Agpmsan
-stolp	Ncmsan
-,	Z
-Blejski	Agpmsay
-grad	Ncmsan
-,	Z
-bolnišnico	Ncfsa
-Franja	Npfsn
-,	Z
-cerkev	Ncfsa
-sv	Npfsg
-.	Z
-Roka	Ncmsg
-s	Si
-Kalvarijo	Npfsi
-,	Z
-planiško	Agpfsi
-velikanko	Ncfsi
-,	Z
-Plečnikovo	Aspnsn
-Tromostovje	Ncnsn
-in	Cc
-Predjamski	Agpmsay
-grad	Ncmsan
-.	Z
+token	tag	lemma
+Slovenec	mte:Npmsn	Slovenec
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+izboru	mte:Ncmsl	izbor
+bralcev	mte:Ncmpg	bralec
+Nedeljskega	mte:Agpmsg	nedeljski
+dnevnika	mte:Ncmsg	dnevnik
+postal	mte:Vmep-sm	postati
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+.	mte:Z	.
+Največ	mte:Rgs	največ
+bralcev	mte:Ncmpg	bralec
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+na	mte:Sa	na
+kosilo	mte:Ncnsa	kosilo
+povabilo	mte:Ncnsa	povabilo
+predsednika	mte:Ncmsay	predsednik
+države	mte:Ncfsg	država
+.	mte:Z	.
+Nedeljski	mte:Agpmsny	nedeljski
+dnevnik	mte:Ncmsn	dnevnik
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+dvajsetič	mte:Mlomsa	dvajsetič
+razglasil	mte:Vmep-sm	razglasiti
+Slovenca	mte:Npmsay	Slovenec
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Laskavi	mte:Npmsn	Laskava
+naziv	mte:Ncmsan	naziv
+za	mte:Sa	za
+leto	mte:Ncnsa	leto
+2007	mte:Mdc	2007
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+prislužil	mte:Vmep-sm	prislužiti
+predsednik	mte:Ncmsn	predsednik
+države	mte:Ncfsg	država
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+največ	mte:Rgs	največ
+bralcev	mte:Ncmpg	bralec
+in	mte:Cc	in
+bralk	mte:Ncfpg	bralka
+Nedeljskega	mte:Agpmsg	nedeljski
+dnevnika	mte:Ncmsg	dnevnik
+povabilo	mte:Vmep-sn	povabilo
+k	mte:Sd	k
+sebi	mte:Px---d	se
+na	mte:Sa	na
+kosilo	mte:Ncnsa	kosilo
+.	mte:Z	.
+Uredništvo	mte:Ncnsa	uredništvo
+časnika	mte:Ncmsg	časnik
+tako	mte:Rgp	tako
+vsako	mte:Pg-nsa	vsak
+leto	mte:Ncnsa	leto
+pripravi	mte:Vmer3s	pripraviti
+izbor	mte:Ncmsan	izbor
+Slovencev	mte:Npmpg	Slovenec
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zaznamovali	mte:Vmbp-pm	zaznamovati
+minulo	mte:Appnsa	minul
+leto	mte:Ncnsa	leto
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+bralke	mte:Ncfpa	bralka
+in	mte:Cc	in
+bralci	mte:Ncmpn	bralec
+za	mte:Sa	za
+svoje	mte:Px-fpa	svoj
+favorite	mte:Ncfpa	favorita
+glasujejo	mte:Vmbr3p	glasovati
+v	mte:Sl	v
+štirih	mte:Mlcmpl	štirje
+krogih	mte:Ncmpl	krog
+glasovanja	mte:Ncnsg	glasovanje
+.	mte:Z	.
+Na	mte:Sl	na
+jubilejni	mte:Agpfsl	jubilejen
+prireditvi	mte:Ncfsl	prireditev
+v	mte:Sl	v
+Litiji	mte:Npfsl	Litija
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+razglasili	mte:Vmep-pm	razglasiti
+tudi	mte:Q	tudi
+častnega	mte:Agpmsa	časten
+Slovenca	mte:Npmsay	Slovenec
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+naziv	mte:Ncmsn	naziv
+je	mte:Va-r3s-n	biti
+tokrat	mte:Rgp	tokrat
+pripadel	mte:Vmep-sm	pripasti
+Janezu	mte:Npmsd	Janez
+Drnovšku	mte:Npmsd	Drnovšek
+.	mte:Z	.
+Nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+izbran	mte:Appmsnn	izbran
+predvsem	mte:Q	predvsem
+zaradi	mte:Sg	zaradi
+svoje	mte:Px-fsg	svoj
+človeške	mte:Agpfsg	človeški
+dimenzije	mte:Ncfsg	dimenzija
+in	mte:Cc	in
+pristnih	mte:Agpnpg	pristen
+etičnih	mte:Agpnpg	etičen
+dejanj	mte:Ncnpg	dejanje
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+zavest	mte:Ncfsa	zavest
+Slovencev	mte:Npmpg	Slovenec
+vnesel	mte:Vmep-sm	vnesti
+globalni	mte:Agpmsay	globalen
+pogled	mte:Ncmsan	pogled
+in	mte:Cc	in
+občutek	mte:Ncmsan	občutek
+soodgovornosti	mte:Ncfsg	soodgovornost
+za	mte:Sa	za
+svetovne	mte:Agpmpa	svetoven
+probleme	mte:Ncmpa	problem
+.	mte:Z	.
+Priznanje	mte:Ncnsn	priznanje
+za	mte:Sa	za
+izjemne	mte:Agpmpa	izjemen
+dosežke	mte:Ncmpa	dosežek
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+pripadlo	mte:Vmep-sn	pripasti
+plavalcu	mte:Ncmsd	plavalec
+Petru	mte:Npmsd	Peter
+Mankoču	mte:Npmsd	Mankoč
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+letos	mte:Rgp	letos
+že	mte:Q	že
+osmič	mte:Rgp	osmič
+zapored	mte:Rgp	zapored
+osvojil	mte:Vmep-sm	osvojiti
+naslov	mte:Ncmsan	naslov
+evropskega	mte:Agpmsg	evropski
+prvaka	mte:Ncmsg	prvak
+v	mte:Sl	v
+plavanju	mte:Ncnsl	plavanje
+na	mte:Sa	na
+sto	mte:Mlc-pa	sto
+metrov	mte:Ncmpg	meter
+mešano	mte:Appfsa	mešan
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+omenjenih	mte:Appmpg	omenjen
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+favorite	mte:Ncfpa	favorita
+letošnje	mte:Agpfsg	letošnji
+akcije	mte:Ncfsg	akcija
+veljali	mte:Vmpp-pm	veljati
+tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+ljubljanski	mte:Agpmsny	ljubljanski
+nadškof	mte:Ncmsn	nadškof
+in	mte:Cc	in
+metropolit	mte:Ncmsn	metropolit
+Alojz	mte:Npmsn	Alojz
+Uran	mte:Npmsn	Uran
+,	mte:Z	,
+voditelj	mte:Ncmsn	voditelj
+Sašo	mte:Npmsn	Sašo
+Hribar	mte:Npmsn	Hribar
+,	mte:Z	,
+poslanec	mte:Ncmsn	poslanec
+SNS	mte:Npfsg	SNS
+Zmago	mte:Npmsn	Zmago
+Jelinčič	mte:Npmsn	Jelinčič
+,	mte:Z	,
+športnica	mte:Ncfsn	športnica
+Petra	mte:Npfsn	Peter
+Majdič	mte:Npfsn	Majdič
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+SD	mte:Npfsg	SD
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+predsednik	mte:Ncmsn	predsednik
+Zveze	mte:Ncfsg	zveza
+borcev	mte:Ncmpg	borec
+Janez	mte:Npmsn	Janez
+Stanovnik	mte:Npmsn	Stanovnik
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+dobila	mte:Vmep-sf	dobiti
+tudi	mte:Q	tudi
+sedem	mte:Mlc-pa	sedem
+čudes	mte:Ncfpg	čudes
+Pol	mte:Rgp	potem
+leta	mte:Ncnsg	leto
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+šest	mte:Mlc-pa	šest
+tisoč	mte:Mlc-pa	tisoč
+bralcev	mte:Ncmpg	bralec
+Nedeljskega	mte:Agpnsg	nedeljski
+sodelovalo	mte:Vmpp-sn	sodelovati
+v	mte:Sl	v
+še	mte:Q	še
+eni	mte:Mlpfsl	en
+akciji	mte:Ncfsl	akcija
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+sedem	mte:Mlc-pa	sedem
+čudes	mte:Ncfpg	čudes
+Slovenije	mte:Npfsg	Slovenija
+izbrala	mte:Vmep-sf	izbrati
+Aljažev	mte:Agpmsan	Aljažev
+stolp	mte:Ncmsan	stolp
+,	mte:Z	,
+Blejski	mte:Agpmsay	blejski
+grad	mte:Ncmsan	grad
+,	mte:Z	,
+bolnišnico	mte:Ncfsa	bolnišnica
+Franja	mte:Npfsn	Franjo
+,	mte:Z	,
+cerkev	mte:Ncfsn	cerkev
+sv	mte:Npfsg	sv
+.	mte:Z	.
+Roka	mte:Ncmsg	roka
+s	mte:Si	z
+Kalvarijo	mte:Npfsi	Kalvarija
+,	mte:Z	,
+planiško	mte:Agpfsi	planiški
+velikanko	mte:Ncfsi	velikanka
+,	mte:Z	,
+Plečnikovo	mte:Aspnsn	plečnikov
+Tromostovje	mte:Npnsn	Tromostovje
+in	mte:Cc	in
+Predjamski	mte:Agpmsny	predjamski
+grad	mte:Ncmsn	grad
+.	mte:Z	.
+Župani	mte:Ncmpn	župan
+občin	mte:Ncfpg	občina
+,	mte:Z	,
+v	mte:Sl	v
+katerih	mte:Pq-mpl	kateri
+so	mte:Va-r3p-n	biti
+omenjena	mte:Appnpn	omenjen
+čudesa	mte:Ncnpn	čudes
+,	mte:Z	,
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+dobili	mte:Vmep-pm	dobiti
+certifikate	mte:Ncmpa	certifikat

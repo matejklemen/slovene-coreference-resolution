@@ -1,633 +1,673 @@
-token	tag
-Uprava	Ncfsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-mora	Vmpr3s
-najkasneje	Rgs
-v	Sl
-roku	Ncmsl
-šestih	Mlc-pg
-mesecev	Ncmpg
-vložiti	Vmen
-ustrezno	Agpfsa
-odškodninsko	Agpfsa
-tožbo	Ncfsa
-zoper	Sa
-Šrota	Npmsay
-,	Z
-ki	Cs
-pa	Cc
-tudi	Q
-ni	Va-r3s-y
-dobil	Vmep-sm
-razrešnice	Ncfsg
-za	Sa
-lansko	Agpnsa
-poslovanje	Ncnsa
-.	Z
-Skupščina	Ncfsn
-ni	Va-r3s-y
-podprla	Vmep-sf
-predloga	Ncmsg
-za	Sa
-reorganizacijo	Ncfsa
-skupine	Ncfsg
-Pivovarna	Ncfsn
-Laško	Npnsn
-v	Sa
-pogodbeni	Agpmsay
-koncern	Ncmsan
-.	Z
-Skupščina	Ncfsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-danes	Rgp
-ni	Va-r3s-y
-podprla	Vmep-sf
-predloga	Ncmsg
-uprave	Ncfsg
-in	Cc
-nadzornega	Agpmsg
-sveta	Ncmsg
-za	Sa
-reorganizacijo	Ncfsa
-skupine	Ncfsg
-Pivovarna	Ncfsn
-Laško	Npnsn
-v	Sa
-pogodbeni	Agpmsay
-koncern	Ncmsan
-.	Z
-Skladno	Rgp
-s	Si
-predlogom	Ncmsi
-naj	Q
-bi	Va-c
-Pivovarna	Ncfsn
-Laško	Npnsn
-postala	Vmep-sf
-obvladujoča	Appfsn
-družba	Ncfsn
-v	Sl
-koncernu	Ncmsl
-,	Z
-Pivovarna	Ncfsn
-Union	Npmsn
-,	Z
-Radenska	Npfsn
-in	Cc
-Fructal	Npmsn
-pa	Cc
-odvisne	Agpfpn
-družbe	Ncfpn
-.	Z
-Delničarji	Ncmpn
-so	Va-r3p-n
-predlog	Ncmsan
-zavrnili	Vmep-pm
-.	Z
-Pred	Si
-začetkom	Ncmsi
-skupščine	Ncfsg
-je	Va-r3s-n
-NLB	Npfsn
-prek	Sg
-svojega	Px-msg
-pooblaščenca	Ncmsg
-podala	Vmbp-sf
-predlog	Ncmsan
-,	Z
-naj	Cs
-se	Px------y
-predlog	Ncmsn
-sklepa	Ncmsg
-za	Sa
-reorganizacijo	Ncfsa
-skupine	Ncfsg
-umakne	Vmer3s
-z	Sg
-dnevnega	Agpmsg
-reda	Ncmsg
-do	Sg
-prihodnje	Agpfsg
-skupščine	Ncfsg
-.	Z
-NLB	Npfsn
-namreč	Cc
-predlog	Ncmsan
-oblikovanja	Ncnsg
-pogodbenega	Agpmsg
-holdinga	Ncmsg
-podpira	Vmpr3s
-,	Z
-vendar	Cc
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-pogoji	Ncmpn
-za	Sa
-potrditev	Ncfsa
-predloga	Ncmsg
-še	Q
-niso	Va-r3p-y
-izpolnjeni	Appmpn
-.	Z
-V	Sl
-banki	Ncfsl
-namreč	Cc
-želijo	Vmpr3p
-najprej	Rgs
-prejeti	Vmen
-potrjen	Appmsan
-načrt	Ncmsan
-poslovne	Agpfsg
-in	Cc
-finančne	Agpfsg
-reorganizacije	Ncfsg
-.	Z
-Uprava	Ncfsn
-pivovarne	Ncfsg
-se	Px------y
-z	Si
-umikom	Ncmsi
-ni	Va-r3s-y
-strinjala	Vmpp-sf
-,	Z
-delničarji	Ncmpn
-pa	Cc
-so	Va-r3p-n
-nato	Rgp
-predlog	Ncmsan
-,	Z
-ki	Cs
-bi	Va-c
-za	Sa
-potrditev	Ncfsa
-potreboval	Vmpp-sm
-tri	Mlcfpa
-četrtine	Ncfpa
-oddanih	Appmpg
-glasov	Ncmpg
-,	Z
-v	Sl
-glasovanju	Ncnsl
-zavrnili	Vmep-pm
-.	Z
-Kaj	Pq-nsa
-pa	Cc
-Šrot	Npmsn
-?	Z
-Boško	Npmsn
-Šrot	Npmsn
-Foto	Npmsn
-POP	Npmsn
-TV	Npmsn
-Skupščina	Ncfsn
-danes	Rgp
-z	Si
-več	Rgc
-kot	Cs
-99	Mdc
-odstotki	Ncmpi
-glasov	Ncmpg
-navzočega	Agpmsg
-kapitala	Ncmsg
-tudi	Q
-ni	Va-r3s-y
-podelila	Vmep-sf
-razrešnice	Ncfsg
-nekdanjemu	Agpmsd
-direktorju	Ncmsd
-družbe	Ncfsg
-Bošku	Npmsd
-Šrotu	Npmsd
-,	Z
-potrdila	Vmep-sf
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-predlog	Ncmsan
-sklepa	Ncmsg
-,	Z
-v	Sl
-skladu	Ncmsl
-s	Si
-katerim	Pq-msi
-mora	Vmpr3s
-uprava	Ncfsn
-najkasneje	Rgs
-v	Sl
-roku	Ncmsl
-šestih	Mlc-pg
-mesecev	Ncmpg
-vložiti	Vmen
-ustrezno	Agpfsa
-odškodninsko	Agpfsa
-tožbo	Ncfsa
-.	Z
-Delničarji	Ncmpn
-sicer	Q
-niso	Va-r3p-y
-podprli	Vmep-pm
-nasprotnih	Agpmpg
-predlogov	Ncmpg
-malih	Agpmpg
-delničarjev	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-pozivali	Vmpp-pm
-k	Sd
-sprejetju	Ncnsd
-sklepa	Ncmsg
-,	Z
-v	Sl
-skladu	Ncmsl
-s	Si
-katerim	Pq-msi
-bi	Va-c
-uprava	Ncfsn
-morala	Vmpp-sf
-vložitvi	Ncfsd
-tožbe	Ncfsg
-tako	Rgp
-proti	Sd
-Šrotu	Npmsd
-kot	Cs
-tudi	Q
-proti	Sd
-odgovornim	Agpmpd
-nekdanjim	Agpmpd
-nadzornikom	Ncmpd
-.	Z
-Na	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-je	Va-r3s-n
-Dušan	Npmsn
-Zorko	Npmsn
-prejel	Vmep-sm
-razrešnico	Ncfsa
-,	Z
-prav	Q
-tako	Rgp
-so	Va-r3p-n
-jo	Pp3fsa--y
-delničarji	Ncmpn
-podelili	Vmep-pm
-članom	Ncmpd
-nadzornega	Agpmsg
-sveta	Ncmsg
-,	Z
-kljub	Sd
-temu	Pd-nsd
-,	Z
-da	Cs
-so	Va-r3p-n
-mali	Agpmpn
-delničarji	Ncmpn
-opozarjali	Vmpp-pm
-na	Sa
-domnevno	Agpfsa
-odgovornost	Ncfsa
-nekaterih	Pi-mpg
-nadzornikov	Ncmpg
-pri	Sl
-sodelovanju	Ncnsl
-z	Si
-nekdanjim	Agpnsi
-vodstvom	Ncnsi
-družbe	Ncfsg
-.	Z
-Za	Sa
-novega	Agpmsa
-člana	Ncmsay
-nadzornega	Agpmsg
-sveta	Ncmsg
-je	Va-r3s-n
-skupščina	Ncfsn
-imenovala	Vmbp-sf
-Petra	Npmsay
-Groznika	Npmsay
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-predlagala	Vmbp-sf
-NLB	Npfsn
-.	Z
-Njegov	Ps3msnsm
-mandat	Ncmsn
-začne	Vmer3s
-teči	Vmpn
-z	Si
-današnjim	Agpmsi
-dnem	Ncmsi
-,	Z
-iztekel	Vmep-sm
-pa	Cc
-se	Px------y
-bo	Va-f3s-n
-31	Mdc
-.	Z
-avgusta	Ncmsg
-2013	Mdc
-.	Z
-Za	Sa
-revizijsko	Agpfsa
-družbo	Ncfsa
-za	Sa
-letošnje	Agpnsa
-leto	Ncnsa
-so	Va-r3p-n
-imenovali	Vmbp-pm
-družbo	Ncfsa
-Deloitte	Npfsn
-Revizija	Ncfsn
-,	Z
-podprli	Vmep-pm
-pa	Cc
-so	Va-r3p-n
-tudi	Q
-spremembe	Ncfpa
-statuta	Ncmsg
-,	Z
-potrebne	Agpfpn
-zaradi	Sg
-uskladitve	Ncfsg
-z	Si
-zakonom	Ncmsi
-o	Sl
-gospodarskih	Agpfpl
-družbah	Ncfpl
-.	Z
-Delničarji	Ncmpn
-so	Va-r3p-n
-podprli	Vmep-pm
-še	Q
-nekatere	Pi-fpa
-druge	Mlpfpa
-spremembe	Ncfpa
-statuta	Ncmsg
-,	Z
-ki	Cs
-v	Sa
-družbo	Ncfsa
-uvajajo	Vmpr3p
-sistem	Ncmsan
-največ	Rgs
-tričlanske	Agpfsg
-uprave	Ncfsg
-.	Z
-Ta	Pd-fsn
-uprava	Ncfsn
-mora	Vmpr3s
-med	Si
-drugim	Mlpnsi
-pridobiti	Vmen
-soglasje	Ncnsa
-nadzornega	Agpmsg
-sveta	Ncmsg
-za	Sa
-pridobitve	Ncfpa
-ali	Cc
-odtujitve	Ncfsg
-finančnih	Agpfpg
-naložb	Ncfpg
-v	Sl
-vrednosti	Ncfsl
-nad	Sa
-tri	Mlcmpa
-milijone	Ncmpa
-evrov	Ncmpg
-,	Z
-dajanje	Ncnsa
-posojil	Ncnpg
-,	Z
-razen	Sg
-odvisnim	Agpfpd
-družbam	Ncfpd
-,	Z
-ter	Cc
-investicije	Ncfpa
-,	Z
-nakupe	Ncmpa
-ali	Cc
-prodajo	Ncfsa
-osnovnih	Agpnpg
-sredstev	Ncnpg
-,	Z
-ki	Cs
-posamično	Rgp
-presegajo	Vmpr3p
-500.000	Mdc
-evrov	Ncmpg
-,	Z
-kadar	Cs
-niso	Va-r3p-y
-vključeni	Appmpn
-v	Sa
-poslovni	Agpmsay
-načrt	Ncmsan
-družbe	Ncfsg
-.	Z
-Niso	Va-r3p-y
-pa	Cc
-podprli	Vmep-pm
-predloga	Ncmsg
-,	Z
-v	Sl
-skladu	Ncmsl
-s	Si
-katerim	Pq-msi
-bi	Va-c
-družba	Ncfsn
-lahko	Rgp
-zaposlenim	Appmpd
-delavcem	Ncmpd
-v	Sl
-družbi	Ncfsl
-prodajala	Vmpp-sf
-lastne	Agpfpa
-delnice	Ncfpa
-za	Sa
-20	Mdc
-odstotkov	Ncmpg
-nižjo	Agcfsa
-ceno	Ncfsa
-.	Z
-Predstavniki	Ncmpn
-malih	Agpmpg
-delničarjev	Ncmpg
-so	Va-r3p-n
-sicer	Q
-napovedali	Vmep-pm
-izpodbojne	Agpfpa
-tožbe	Ncfpa
-na	Sa
-nekatere	Pi-mpa
-sklepe	Ncmpa
-skupščine	Ncfsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-pričakovano	Appnsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-najbolj	Rgs
-živahna	Agpfsn
-razprava	Ncfsn
-razvila	Vmep-sf
-okoli	Sg
-predloga	Ncmsg
-za	Sa
-reorganizacijo	Ncfsa
-skupine	Ncfsg
-.	Z
-Direktor	Ncmsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-Dušan	Npmsn
-Zorko	Npmsn
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-preoblikovanje	Ncnsn
-v	Sa
-pogodbeni	Agpmsay
-koncern	Ncmsan
-nujno	Agpnsn
-zaradi	Sg
-izvrševanja	Ncnsg
-sinergij	Ncfpg
-v	Sl
-skupini	Ncfsl
-,	Z
-komercialni	Agpmsny
-direktor	Ncmsn
-Gorazd	Npmsn
-Lukman	Npmsn
-pa	Cc
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-pivovarna	Ncfsn
-namerava	Vmpr3s
-do	Sg
-leta	Ncnsg
-2014	Mdc
-povečati	Vmen
-promet	Ncmsan
-na	Sa
-355	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-dobiček	Ncmsan
-pred	Si
-obrestmi	Ncfpi
-,	Z
-davki	Ncmpi
-in	Cc
-amortizacijo	Ncfsi
-pa	Cc
-na	Sa
-60	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Zorko	Npmsn
-je	Va-r3s-n
-na	Sl
-novinarski	Agpfsl
-konferenci	Ncfsl
-po	Sl
-skupščini	Ncfsl
-le	Q
--	Z
-to	Pd-nsa
-ocenil	Vmep-sm
-kot	Cs
-uspešno	Rgp
-.	Z
-Zame	Pp1-sa--b
-je	Va-r3s-n
-bistveno	Agpnsn
-,	Z
-da	Cs
-smo	Va-r1p-n
-dobili	Vmep-pm
-novega	Agpmsa
-člana	Ncmsay
-nadzornega	Agpmsg
-sveta	Ncmsg
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-.	Z
-Glede	Sg
-reorganizacije	Ncfsg
-pa	Cc
-je	Va-r3s-n
-napovedal	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-nova	Agpfsn
-uprava	Ncfsn
-poskušala	Vmpp-sf
-pripraviti	Vmen
-nov	Agpmsan
-program	Ncmsan
-,	Z
-ki	Cs
-bo	Va-f3s-n
-sprejemljiv	Agpmsnn
-za	Sa
-lastnike	Ncmpa
-.	Z
-To	Pd-nsn
-bo	Va-f3s-n
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-sedaj	Rgp
-lažje	Agcnsn
-,	Z
-saj	Cc
-ima	Vmpr3s-n
-NLB	Npfsn
-med	Si
-nadzorniki	Ncmpi
-svojega	Px-msg
-predstavnika	Ncmsay
-.	Z
-Izpostavil	Vmep-sm
-pa	Cc
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-družba	Ncfsn
-pod	Si
-njegovim	Ps3nsism
-vodstvom	Ncnsi
-opravila	Ncnsg
-srečanja	Ncnsg
-z	Si
-vsemi	Pg-fpi
-18	Mdc
-bankami	Ncfpi
-upnicami	Ncfpi
-in	Cc
-jim	Pp3mpd--y
-svoje	Px-mpa
-namene	Ncmpa
-natančno	Rgp
-predstavila	Vmep-sf
-.	Z
+token	tag	lemma
+Uprava	mte:Ncfsn	uprava
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+mora	mte:Vmpr3s	morati
+najkasneje	mte:Rgs	kasno
+v	mte:Sl	v
+roku	mte:Ncmsl	rok
+šestih	mte:Mlc-pg	šest
+mesecev	mte:Ncmpg	mesec
+vložiti	mte:Vmen	vložiti
+ustrezno	mte:Agpfsa	ustrezen
+odškodninsko	mte:Agpfsa	odškodninski
+tožbo	mte:Ncfsa	tožba
+zoper	mte:Sa	zoper
+Šrota	mte:Npmsay	Šrot
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+ni	mte:Va-r3s-y	biti
+dobil	mte:Vmep-sm	dobiti
+razrešnice	mte:Ncfsg	razrešnica
+za	mte:Sa	za
+lansko	mte:Agpnsa	lanski
+poslovanje	mte:Ncnsa	poslovanje
+.	mte:Z	.
+Skupščina	mte:Ncfsn	skupščina
+ni	mte:Va-r3s-y	biti
+podprla	mte:Vmep-sf	podpreti
+predloga	mte:Ncmsg	predlog
+za	mte:Sa	za
+reorganizacijo	mte:Ncfsa	reorganizacija
+skupine	mte:Ncfsg	skupina
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+v	mte:Sa	v
+pogodbeni	mte:Agpmsay	pogodben
+koncern	mte:Ncmsan	koncern
+.	mte:Z	.
+Skupščina	mte:Ncfsn	skupščina
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+danes	mte:Rgp	danes
+ni	mte:Va-r3s-y	biti
+podprla	mte:Vmep-sf	podpreti
+predloga	mte:Ncmsg	predlog
+uprave	mte:Ncfsg	uprava
+in	mte:Cc	in
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+za	mte:Sa	za
+reorganizacijo	mte:Ncfsa	reorganizacija
+skupine	mte:Ncfsg	skupina
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+v	mte:Sa	v
+pogodbeni	mte:Agpmsay	pogodben
+koncern	mte:Ncmsan	koncern
+.	mte:Z	.
+Skladno	mte:Rgp	skladno
+s	mte:Si	z
+predlogom	mte:Ncmsi	predlog
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+postala	mte:Vmep-sf	postati
+obvladujoča	mte:Appfsn	obvladujoč
+družba	mte:Ncfsn	družba
+v	mte:Sl	v
+koncernu	mte:Ncmsl	koncern
+,	mte:Z	,
+Pivovarna	mte:Ncfsn	pivovarna
+Union	mte:Npmsn	Union
+,	mte:Z	,
+Radenska	mte:Npfsn	Radenska
+in	mte:Cc	in
+Fructal	mte:Npmsn	Fructal
+pa	mte:Cc	pa
+odvisne	mte:Agpfpn	odvisen
+družbe	mte:Ncfpn	družba
+.	mte:Z	.
+Delničarji	mte:Ncmpn	delničar
+so	mte:Va-r3p-n	biti
+predlog	mte:Ncmsan	predlog
+zavrnili	mte:Vmep-pm	zavrniti
+.	mte:Z	.
+Pred	mte:Si	pred
+začetkom	mte:Ncmsi	začetek
+skupščine	mte:Ncfsg	skupščina
+je	mte:Va-r3s-n	biti
+NLB	mte:Npfsn	NLB
+prek	mte:Sg	prek
+svojega	mte:Px-msg	svoj
+pooblaščenca	mte:Ncmsg	pooblaščenec
+podala	mte:Vmbp-sf	podati
+predlog	mte:Ncmsan	predlog
+,	mte:Z	,
+naj	mte:Cs	naj
+se	mte:Px------y	se
+predlog	mte:Ncmsn	predlog
+sklepa	mte:Ncmsg	sklep
+za	mte:Sa	za
+reorganizacijo	mte:Ncfsa	reorganizacija
+skupine	mte:Ncfsg	skupina
+umakne	mte:Vmer3s	umakniti
+z	mte:Sg	z
+dnevnega	mte:Agpmsg	dneven
+reda	mte:Ncmsg	red
+do	mte:Sg	do
+prihodnje	mte:Agpfsg	prihodnji
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+NLB	mte:Npfsn	NLB
+namreč	mte:Cc	namreč
+predlog	mte:Ncmsan	predlog
+oblikovanja	mte:Ncnsg	oblikovanje
+pogodbenega	mte:Agpmsg	pogodben
+holdinga	mte:Ncmsg	holdinga
+podpira	mte:Vmpr3s	podpirati
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+pogoji	mte:Ncmpn	pogoj
+za	mte:Sa	za
+potrditev	mte:Ncfsa	potrditev
+predloga	mte:Ncmsg	predlog
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+izpolnjeni	mte:Appmpn	izpolnjen
+.	mte:Z	.
+V	mte:Sl	v
+banki	mte:Ncfsl	banka
+namreč	mte:Cc	namreč
+želijo	mte:Vmpr3p	želeti
+najprej	mte:Rgs	najprej
+prejeti	mte:Vmen	prejeti
+potrjen	mte:Appmsan	potrjen
+načrt	mte:Ncmsan	načrt
+poslovne	mte:Agpfsg	posloven
+in	mte:Cc	in
+finančne	mte:Agpfsg	finančen
+reorganizacije	mte:Ncfsg	reorganizacija
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+pivovarne	mte:Ncfsg	pivovarna
+se	mte:Px------y	se
+z	mte:Si	z
+umikom	mte:Ncmsi	umik
+ni	mte:Va-r3s-y	biti
+strinjala	mte:Vmpp-sf	strinjati
+,	mte:Z	,
+delničarji	mte:Ncmpn	delničar
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+nato	mte:Rgp	nato
+predlog	mte:Ncmsan	predlog
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+za	mte:Sa	za
+potrditev	mte:Ncfsa	potrditev
+potreboval	mte:Vmpp-sm	potrebovati
+tri	mte:Mlcfpa	trije
+četrtine	mte:Ncfpa	četrtina
+oddanih	mte:Appmpg	oddan
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+v	mte:Sl	v
+glasovanju	mte:Ncnsl	glasovanje
+zavrnili	mte:Vmep-pm	zavrniti
+.	mte:Z	.
+Kaj	mte:Pq-nsa	kaj
+pa	mte:Cc	pa
+Šrot	mte:Npmsn	Šrot
+?	mte:Z	?
+Boško	mte:Npmsn	Boško
+Šrot	mte:Npmsn	Šrot
+Foto	mte:Npmsn	foto
+POP	mte:Npmsn	POP
+TV	mte:Npmsn	TV
+Skupščina	mte:Ncfsn	skupščina
+danes	mte:Rgp	danes
+z	mte:Si	z
+več	mte:Rgc	več
+kot	mte:Cs	kot
+99	mte:Mdc	99
+odstotki	mte:Ncmpi	odstotek
+glasov	mte:Ncmpg	glas
+navzočega	mte:Agpmsg	navzoč
+kapitala	mte:Ncmsg	kapital
+tudi	mte:Q	tudi
+ni	mte:Va-r3s-y	biti
+podelila	mte:Vmep-sf	podeliti
+razrešnice	mte:Ncfsg	razrešnica
+nekdanjemu	mte:Agpmsd	nekdanji
+direktorju	mte:Ncmsd	direktor
+družbe	mte:Ncfsg	družba
+Bošku	mte:Npmsd	Boško
+Šrotu	mte:Npmsd	Šrot
+,	mte:Z	,
+potrdila	mte:Vmep-sf	potrditi
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+predlog	mte:Ncmsan	predlog
+sklepa	mte:Ncmsg	sklep
+,	mte:Z	,
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+mora	mte:Vmpr3s	morati
+uprava	mte:Ncfsn	uprava
+najkasneje	mte:Rgs	kasno
+v	mte:Sl	v
+roku	mte:Ncmsl	rok
+šestih	mte:Mlc-pg	šest
+mesecev	mte:Ncmpg	mesec
+vložiti	mte:Vmen	vložiti
+ustrezno	mte:Agpfsa	ustrezen
+odškodninsko	mte:Agpfsa	odškodninski
+tožbo	mte:Ncfsa	tožba
+.	mte:Z	.
+Delničarji	mte:Ncmpn	delničar
+sicer	mte:Q	sicer
+niso	mte:Va-r3p-y	biti
+podprli	mte:Vmep-pm	podpreti
+nasprotnih	mte:Agpmpg	nasproten
+predlogov	mte:Ncmpg	predlog
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+pozivali	mte:Vmpp-pm	pozivati
+k	mte:Sd	k
+sprejetju	mte:Ncnsd	sprejetje
+sklepa	mte:Ncmsg	sklep
+,	mte:Z	,
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+bi	mte:Va-c	biti
+uprava	mte:Ncfsn	uprava
+morala	mte:Vmpp-sf	morati
+vložitvi	mte:Ncfsd	vložitev
+tožbe	mte:Ncfsg	tožba
+tako	mte:Rgp	tako
+proti	mte:Sd	proti
+Šrotu	mte:Npmsd	Šrot
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+proti	mte:Sd	proti
+odgovornim	mte:Agpmpd	odgovoren
+nekdanjim	mte:Agpmpd	nekdanji
+nadzornikom	mte:Ncmpd	nadzornik
+.	mte:Z	.
+Na	mte:Sl	na
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+je	mte:Va-r3s-n	biti
+Dušan	mte:Npmsn	Dušan
+Zorko	mte:Npmsn	Zorko
+prejel	mte:Vmep-sm	prejeti
+razrešnico	mte:Ncfsa	razrešnica
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+jo	mte:Pp3fsa--y	on
+delničarji	mte:Ncmpn	delničar
+podelili	mte:Vmep-pm	podeliti
+članom	mte:Ncmpd	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+,	mte:Z	,
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+mali	mte:Agpmpn	mali
+delničarji	mte:Ncmpn	delničar
+opozarjali	mte:Vmpp-pm	opozarjati
+na	mte:Sa	na
+domnevno	mte:Agpfsa	domneven
+odgovornost	mte:Ncfsa	odgovornost
+nekaterih	mte:Pi-mpg	nekateri
+nadzornikov	mte:Ncmpg	nadzornik
+pri	mte:Sl	pri
+sodelovanju	mte:Ncnsl	sodelovanje
+z	mte:Si	z
+nekdanjim	mte:Agpnsi	nekdanji
+vodstvom	mte:Ncnsi	vodstvo
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Za	mte:Sa	za
+novega	mte:Agpmsa	nov
+člana	mte:Ncmsay	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+je	mte:Va-r3s-n	biti
+skupščina	mte:Ncfsn	skupščina
+imenovala	mte:Vmbp-sf	imenovati
+Petra	mte:Npmsay	Peter
+Groznika	mte:Npmsay	Groznik
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+predlagala	mte:Vmbp-sf	predlagati
+NLB	mte:Npfsn	NLB
+.	mte:Z	.
+Njegov	mte:Ps3msnsm	njegov
+mandat	mte:Ncmsn	mandat
+začne	mte:Vmer3s	začeti
+teči	mte:Vmpn	teči
+z	mte:Si	z
+današnjim	mte:Agpmsi	današnji
+dnem	mte:Ncmsi	dan
+,	mte:Z	,
+iztekel	mte:Vmep-sm	izteči
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+31	mte:Mdc	31
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+2013	mte:Mdc	2013
+.	mte:Z	.
+Za	mte:Sa	za
+revizijsko	mte:Agpfsa	revizijski
+družbo	mte:Ncfsa	družba
+za	mte:Sa	za
+letošnje	mte:Agpnsa	letošnji
+leto	mte:Ncnsa	leto
+so	mte:Va-r3p-n	biti
+imenovali	mte:Vmbp-pm	imenovati
+družbo	mte:Ncfsa	družba
+Deloitte	mte:Npfsn	Deloitta
+Revizija	mte:Ncfsn	revizija
+,	mte:Z	,
+podprli	mte:Vmep-pm	podpreti
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+spremembe	mte:Ncfpa	sprememba
+statuta	mte:Ncmsg	statuta
+,	mte:Z	,
+potrebne	mte:Agpfpn	potreben
+zaradi	mte:Sg	zaradi
+uskladitve	mte:Ncfsg	uskladitev
+z	mte:Si	z
+zakonom	mte:Ncmsi	zakon
+o	mte:Sl	o
+gospodarskih	mte:Agpfpl	gospodarski
+družbah	mte:Ncfpl	družba
+.	mte:Z	.
+Delničarji	mte:Ncmpn	delničar
+so	mte:Va-r3p-n	biti
+podprli	mte:Vmep-pm	podpreti
+še	mte:Q	še
+nekatere	mte:Pi-fpa	nekateri
+druge	mte:Mlpfpa	drug
+spremembe	mte:Ncfpa	sprememba
+statuta	mte:Ncmsg	statuta
+,	mte:Z	,
+ki	mte:Cs	ki
+v	mte:Sa	v
+družbo	mte:Ncfsa	družba
+uvajajo	mte:Vmpr3p	uvajati
+sistem	mte:Ncmsan	sistem
+največ	mte:Rgs	največ
+tričlanske	mte:Agpfsg	tričlanski
+uprave	mte:Ncfsg	uprava
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+uprava	mte:Ncfsn	uprava
+mora	mte:Vmpr3s	morati
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+pridobiti	mte:Vmen	pridobiti
+soglasje	mte:Ncnsa	soglasje
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+za	mte:Sa	za
+pridobitve	mte:Ncfpa	pridobitev
+ali	mte:Cc	ali
+odtujitve	mte:Ncfsg	odtujitev
+finančnih	mte:Agpfpg	finančen
+naložb	mte:Ncfpg	naložba
+v	mte:Sl	v
+vrednosti	mte:Ncfsl	vrednost
+nad	mte:Sa	nad
+tri	mte:Mlcmpa	trije
+milijone	mte:Ncmpa	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+dajanje	mte:Ncnsa	dajanje
+posojil	mte:Ncnpg	posojilo
+,	mte:Z	,
+razen	mte:Sg	razen
+odvisnim	mte:Agpfpd	odvisen
+družbam	mte:Ncfpd	družba
+,	mte:Z	,
+ter	mte:Cc	ter
+investicije	mte:Ncfpa	investicija
+,	mte:Z	,
+nakupe	mte:Ncmpa	nakup
+ali	mte:Cc	ali
+prodajo	mte:Ncfsa	prodaja
+osnovnih	mte:Agpnpg	osnoven
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+posamično	mte:Rgp	posamičen
+presegajo	mte:Vmpr3p	presegati
+500.000	mte:Mdc	500.000
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kadar	mte:Cs	kadar
+niso	mte:Va-r3p-y	biti
+vključeni	mte:Appmpn	vključen
+v	mte:Sa	v
+poslovni	mte:Agpmsay	posloven
+načrt	mte:Ncmsan	načrt
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Niso	mte:Va-r3p-y	biti
+pa	mte:Cc	pa
+podprli	mte:Vmep-pm	podpreti
+predloga	mte:Ncmsg	predlog
+,	mte:Z	,
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+bi	mte:Va-c	biti
+družba	mte:Ncfsn	družba
+lahko	mte:Rgp	lahko
+zaposlenim	mte:Appmpd	zaposlen
+delavcem	mte:Ncmpd	delavec
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+prodajala	mte:Vmpp-sf	prodajati
+lastne	mte:Agpfpa	lasten
+delnice	mte:Ncfpa	delnica
+za	mte:Sa	za
+20	mte:Mdc	20
+odstotkov	mte:Ncmpg	odstotek
+nižjo	mte:Agcfsa	nizek
+ceno	mte:Ncfsa	cena
+.	mte:Z	.
+Predstavniki	mte:Ncmpn	predstavnik
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+napovedali	mte:Vmep-pm	napovedati
+izpodbojne	mte:Agpfpa	izpodbojen
+tožbe	mte:Ncfpa	tožba
+na	mte:Sa	na
+nekatere	mte:Pi-mpa	nekateri
+sklepe	mte:Ncmpa	sklep
+skupščine	mte:Ncfsg	skupščina
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+pričakovano	mte:Appnsn	pričakovan
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+najbolj	mte:Rgs	najbolj
+živahna	mte:Agpfsn	živahen
+razprava	mte:Ncfsn	razprava
+razvila	mte:Vmep-sf	razviti
+okoli	mte:Sg	okoli
+predloga	mte:Ncmsg	predlog
+za	mte:Sa	za
+reorganizacijo	mte:Ncfsa	reorganizacija
+skupine	mte:Ncfsg	skupina
+.	mte:Z	.
+Direktor	mte:Ncmsn	direktor
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+Dušan	mte:Npmsn	Dušan
+Zorko	mte:Npmsn	Zorko
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+preoblikovanje	mte:Ncnsn	preoblikovanje
+v	mte:Sa	v
+pogodbeni	mte:Agpmsay	pogodben
+koncern	mte:Ncmsan	koncern
+nujno	mte:Agpnsn	nujen
+zaradi	mte:Sg	zaradi
+izvrševanja	mte:Ncnsg	izvrševanje
+sinergij	mte:Ncfpg	sinergija
+v	mte:Sl	v
+skupini	mte:Ncfsl	skupina
+,	mte:Z	,
+komercialni	mte:Agpmsny	komercialen
+direktor	mte:Ncmsn	direktor
+Gorazd	mte:Npmsn	Gorazd
+Lukman	mte:Npmsn	Lukman
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+pivovarna	mte:Ncfsn	pivovarna
+namerava	mte:Vmpr3s	nameravati
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2014	mte:Mdc	2014
+povečati	mte:Vmen	povečati
+promet	mte:Ncmsan	promet
+na	mte:Sa	na
+355	mte:Mdc	355
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+dobiček	mte:Ncmsan	dobiček
+pred	mte:Si	pred
+obrestmi	mte:Ncfpi	obrest
+,	mte:Z	,
+davki	mte:Ncmpi	davek
+in	mte:Cc	in
+amortizacijo	mte:Ncfsi	amortizacija
+pa	mte:Cc	pa
+na	mte:Sa	na
+60	mte:Mdc	60
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Zorko	mte:Npmsn	Zorko
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+po	mte:Sl	po
+skupščini	mte:Ncfsl	skupščina
+le	mte:Q	le
+-	mte:Z	-
+to	mte:Pd-nsa	ta
+ocenil	mte:Vmep-sm	oceniti
+kot	mte:Cs	kot
+uspešno	mte:Rgp	uspešno
+.	mte:Z	.
+Zame	mte:Pp1-sa--b	zame
+je	mte:Va-r3s-n	biti
+bistveno	mte:Agpnsn	bistven
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+dobili	mte:Vmep-pm	dobiti
+novega	mte:Agpmsa	nov
+člana	mte:Ncmsay	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+.	mte:Z	.
+Glede	mte:Sg	glede
+reorganizacije	mte:Ncfsg	reorganizacija
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+nova	mte:Agpfsn	nov
+uprava	mte:Ncfsn	uprava
+poskušala	mte:Vmpp-sf	poskušati
+pripraviti	mte:Vmen	pripraviti
+nov	mte:Agpmsan	nov
+program	mte:Ncmsan	program
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+sprejemljiv	mte:Agpmsnn	sprejemljiv
+za	mte:Sa	za
+lastnike	mte:Ncmpa	lastnik
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+sedaj	mte:Rgp	sedaj
+lažje	mte:Agcnsn	lahek
+,	mte:Z	,
+saj	mte:Cc	saj
+ima	mte:Vmpr3s-n	imeti
+NLB	mte:Npfsn	NLB
+med	mte:Si	med
+nadzorniki	mte:Ncmpi	nadzornik
+svojega	mte:Px-msg	svoj
+predstavnika	mte:Ncmsay	predstavnik
+.	mte:Z	.
+Izpostavil	mte:Vmep-sm	izpostaviti
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+pod	mte:Si	pod
+njegovim	mte:Ps3nsism	njegov
+vodstvom	mte:Ncnsi	vodstvo
+opravila	mte:Ncnsg	opravilo
+srečanja	mte:Ncnsg	srečanje
+z	mte:Si	z
+vsemi	mte:Pg-fpi	ves
+18	mte:Mdc	18
+bankami	mte:Ncfpi	banka
+upnicami	mte:Ncfpi	upnica
+in	mte:Cc	in
+jim	mte:Pp3mpd--y	on
+svoje	mte:Px-mpa	svoj
+namene	mte:Ncmpa	namen
+natančno	mte:Rgp	natančno
+predstavila	mte:Vmep-sf	predstaviti
+.	mte:Z	.
+NLB	mte:Npfsn	NLB
+ni	mte:Va-r3s-y	biti
+glasovala	mte:Vmbp-sf	glasovati
+proti	mte:Rgp	proti
+,	mte:Z	,
+ampak	mte:Cc	ampak
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+vzela	mte:Vmep-sf	vzeti
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+da	mte:Cs	da
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+še	mte:Q	še
+razmisli	mte:Vmer3s	razmisti
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+komentiral	mte:Vmbp-sm	komentirati
+zavrnitev	mte:Ncfsa	zavrnitev
+predloga	mte:Ncmsg	predlog
+uprave	mte:Ncfsg	uprava
+ter	mte:Cc	ter
+izrazil	mte:Vmep-sm	izraziti
+prepričanje	mte:Ncnsa	prepričanje
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+z	mte:Si	z
+lastniki	mte:Ncmpi	lastnik
+kmalu	mte:Rgp	kmalu
+dosegli	mte:Vmep-pm	doseči
+dogovor	mte:Ncmsan	dogovor
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+sprejemljiv	mte:Agpmsnn	sprejemljiv
+za	mte:Sa	za
+vse	mte:Pg-nsa	ves

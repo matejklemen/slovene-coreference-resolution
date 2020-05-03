@@ -1,314 +1,335 @@
-token	tag
-Slovenija	Npfsn
-ima	Vmpr3s-n
-z	Si
-3,6	Mdc
--	Z
-odstotno	Agpfsi
-stopnjo	Ncfsi
-inflacije	Ncfsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-najvišjo	Agsfsa
-inflacijo	Ncfsa
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-.	Z
-V	Sl
-območju	Ncnsl
-evra	Ncmsg
-so	Va-r3p-n
-se	Px------y
-septembra	Ncmsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-najbolj	Rgs
-zvišale	Vmep-pf
-cene	Ncfpn
-izobraževanja	Ncnsg
-9,1	Mdc
-odstotka	Ncmsg
-,	Z
-alkohola	Ncmsg
-in	Cc
-tobaka	Ncmsg
-3,8	Mdc
-odstotka	Ncmsg
-ter	Cc
-gostinskih	Agpfpg
-storitev	Ncfpg
-za	Sa
-3,1	Mdc
-odstotka	Ncmsg
-,	Z
-najmanj	Rgs
-pa	Cc
-so	Va-r3p-n
-k	Sd
-inflaciji	Ncfsd
-prispevale	Vmbp-pf
-cene	Ncfpa
-telekomunikacijskih	Agpfpg
-storitev	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-zabeležile	Vmep-pf
-celo	Agpfsa
-deflacijo	Ncfsa
-v	Sl
-višini	Ncfsl
-1,6	Mdc
-odstotka	Ncmsg
-,	Z
-kulturne	Agpfsg
-storitve	Ncfsg
-in	Cc
-rekreacija	Ncfsn
-0,2	Mdc
-odstotka	Ncmsg
-ter	Cc
-cene	Ncfpa
-oblačil	Ncnpg
-0,9	Mdc
-odstotka	Ncmsg
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-zabeležila	Vmep-sf
-3,6	Mdc
--	Z
-odstotno	Agpfsa
-stopnjo	Ncfsa
-inflacije	Ncfsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-največ	Rgs
-ned	Ncmsn
-vsemi	Pg-fpi
-članicami	Ncfpi
-območja	Ncnsg
-evro	Ncmsn
-,	Z
-katerega	Pq-msg
-članica	Ncfsn
-je	Va-r3s-n
-Slovenija	Npfsn
-od	Sg
-1	Mdc
-.	Z
-januarja	Ncmsg
-.	Z
-Sledijo	Vmpr3p
-ji	Pp3fsd--y
-Grčija	Npfsn
-in	Cc
-Irska	Npfsn
-po	Sa
-2,9	Mdc
-odstotka	Ncmsg
-ter	Cc
-Nemčija	Npfsn
-in	Cc
-Španija	Npfsn
-po	Sa
-2,7	Mdc
-odstotka	Ncmsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-danes	Rgp
-še	Q
-sporočil	Vmep-sm
-evropski	Agpmsny
-statistični	Agpmsny
-urad	Ncmsn
-Eurostat	Npmsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-letna	Agpfsn
-stopnja	Ncfsn
-inflacije	Ncfsg
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-septembra	Ncmsg
-v	Sl
-primerjavi	Ncfsl
-z	Si
-avgustom	Ncmsi
-nekoliko	Rgp
-povečala	Vmep-sf
-in	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-2,1	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-celotni	Agpfsl
-EU	Npfsl
-je	Va-r3s-n
-bila	Va-p-sf
-septembra	Ncmsg
-inflacija	Ncfsn
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-v	Sl
-primerjavi	Ncfsl
-s	Si
-prejšnjim	Agpmsi
-mesecem	Ncmsi
-prav	Q
-tako	Rgp
-nekoliko	Rgp
-višja	Agcfsn
-in	Cc
-je	Va-r3s-n
-znašala	Vmpp-sf
-2,2	Mdc
-odstotka	Ncmsg
-.	Z
-Avgusta	Npmsg
-je	Va-r3s-n
-bila	Va-p-sf
-sicer	Q
-letna	Agpfsn
-stopnja	Ncfsn
-inflacije	Ncfsg
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-1,7	Mdc
--	Z
-odstotna	Agpfsn
-,	Z
-v	Sl
-celotni	Agpfsl
-Uniji	Ncfsl
-pa	Cc
-1,9	Mdc
--	Z
-odstotna	Agpfsn
-.	Z
-Septembra	Ncmsg
-so	Va-r3p-n
-najnižje	Agsfpn
-stopnje	Ncfpn
-inflacije	Ncfsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-v	Sa
-EU	Npfsl
-beležile	Vmpp-pf
-Nizozemska	Agpfsn
-1,3	Mdc
-odstotka	Ncmsg
-,	Z
-Belgija	Npfsn
-1,4	Mdc
-odstotka	Ncmsg
-,	Z
-Francija	Npfsn
-1,6odstotka	Npmsg
-ter	Cc
-Italija	Npfsn
-in	Cc
-Finska	Npfsn
-po	Sl
-1,7	Mdc
-odstotka	Ncmsg
-.	Z
-Najvišje	Agsfsg
-so	Va-r3p-n
-biletne	Agpfpn
-inflacijske	Agpfpn
-stopnje	Ncfpn
-v	Sl
-Latviji	Npfsl
-11,5	Mdc
-odstotka	Ncmsg
-,	Z
-Bolgariji	Npfsl
-11odstotkov	Npmpg
-,	Z
-Estoniji	Npfsl
-7,5	Mdc
-odstotka	Ncmsg
-in	Cc
-Litvi	Npfsl
-7,1	Mdc
-odstotka	Ncmsg
-.	Z
-Slovenija	Npfsn
-ima	Vmpr3s-n
-spet	Rgp
-najvišjo	Agsfsa
-inflacijo	Ncfsa
-med	Si
-članicami	Ncfpi
-območja	Ncnsg
-evro	Ncmsn
-.	Z
-Najnižje	Agsnsa
-letno	Agpnsa
-povprečje	Ncnsa
-inflacije	Ncfsg
-so	Va-r3p-n
-septembra	Ncmsg
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-zabeležile	Vmep-pf
-Malta	Npfsa
-0,9	Mdc
-odstotka	Ncmsg
-,	Z
-Danska	Npfsn
-1,2	Mdc
-odstotka	Ncmsg
-in	Cc
-Nizozemska	Agpfsn
-1,3	Mdc
-odstotka	Ncmsg
-,	Z
-najvišje	Rgs
-pa	Cc
-Latvija	Npfsn
-11,5	Mdc
-odstotka	Ncmsg
-,	Z
-Bolgarija	Npfsn
-11	Mdc
-odstotkov	Ncmpg
-in	Cc
-Estonija	Npfsn
-7,5	Mdc
-odstotka	Ncmsg
-.	Z
-Tako	Cc
-območje	Ncnsn
-evra	Ncmsg
-kot	Cs
-sedemindvajseterica	Ncfsn
-pa	Cc
-sta	Va-r3d-n
-septembra	Ncmsg
-v	Sl
-primerjavi	Ncfsl
-z	Si
-avgustom	Ncmsi
-zabeležila	Vmep-dm
-manjšo	Agcfsa
-inflacijo	Ncfsa
-.	Z
+token	tag	lemma
+Slovenija	mte:Npfsn	Slovenija
+ima	mte:Vmpr3s-n	imeti
+z	mte:Si	z
+3,6	mte:Mdc	3,6
+-	mte:Z	-
+odstotno	mte:Agpfsi	odstoten
+stopnjo	mte:Ncfsi	stopnja
+inflacije	mte:Ncfsg	inflacija
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+najvišjo	mte:Agsfsa	visok
+inflacijo	mte:Ncfsa	inflacija
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+V	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+septembra	mte:Ncmsg	september
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+najbolj	mte:Rgs	najbolj
+zvišale	mte:Vmep-pf	zvišati
+cene	mte:Ncfpn	cena
+izobraževanja	mte:Ncnsg	izobraževanje
+9,1	mte:Mdc	9,1
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+alkohola	mte:Ncmsg	alkohol
+in	mte:Cc	in
+tobaka	mte:Ncmsg	tobak
+3,8	mte:Mdc	3,8
+odstotka	mte:Ncmsg	odstotek
+ter	mte:Cc	ter
+gostinskih	mte:Agpfpg	gostinski
+storitev	mte:Ncfpg	storitev
+za	mte:Sa	za
+3,1	mte:Mdc	3,1
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+najmanj	mte:Rgs	najmanj
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+k	mte:Sd	k
+inflaciji	mte:Ncfsd	inflacija
+prispevale	mte:Vmbp-pf	prispevati
+cene	mte:Ncfpa	cena
+telekomunikacijskih	mte:Agpfpg	telekomunikacijski
+storitev	mte:Ncfpg	storitev
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zabeležile	mte:Vmep-pf	zabeležiti
+celo	mte:Agpfsa	cel
+deflacijo	mte:Ncfsa	deflacija
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+1,6	mte:Mdc	1,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+kulturne	mte:Agpfsg	kulturen
+storitve	mte:Ncfsg	storitev
+in	mte:Cc	in
+rekreacija	mte:Ncfsn	rekreacija
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+ter	mte:Cc	ter
+cene	mte:Ncfpa	cena
+oblačil	mte:Ncnpg	oblačilo
+0,9	mte:Mdc	0,9
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+zabeležila	mte:Vmep-sf	zabeležiti
+3,6	mte:Mdc	3,6
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+stopnjo	mte:Ncfsa	stopnja
+inflacije	mte:Ncfsg	inflacija
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+največ	mte:Rgs	največ
+ned	mte:Ncmsn	ned
+vsemi	mte:Pg-fpi	ves
+članicami	mte:Ncfpi	članica
+območja	mte:Ncnsg	območje
+evro	mte:Ncmsn	evro
+,	mte:Z	,
+katerega	mte:Pq-msg	kateri
+članica	mte:Ncfsn	članica
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+od	mte:Sg	od
+1	mte:Mdc	1
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+ji	mte:Pp3fsd--y	on
+Grčija	mte:Npfsn	Grčija
+in	mte:Cc	in
+Irska	mte:Npfsn	Irska
+po	mte:Sa	po
+2,9	mte:Mdc	2,9
+odstotka	mte:Ncmsg	odstotek
+ter	mte:Cc	ter
+Nemčija	mte:Npfsn	Nemčija
+in	mte:Cc	in
+Španija	mte:Npfsn	Španija
+po	mte:Sa	po
+2,7	mte:Mdc	2,7
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+še	mte:Q	še
+sporočil	mte:Vmep-sm	sporočiti
+evropski	mte:Agpmsny	evropski
+statistični	mte:Agpmsny	statističen
+urad	mte:Ncmsn	urad
+Eurostat	mte:Npmsn	Eurostat
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+letna	mte:Agpfsn	leten
+stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+septembra	mte:Ncmsg	september
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+avgustom	mte:Ncmsi	avgust
+nekoliko	mte:Rgp	nekoliko
+povečala	mte:Vmep-sf	povečati
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+2,1	mte:Mdc	2,1
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+septembra	mte:Ncmsg	september
+inflacija	mte:Ncfsn	inflacija
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+s	mte:Si	z
+prejšnjim	mte:Agpmsi	prejšnji
+mesecem	mte:Ncmsi	mesec
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+nekoliko	mte:Rgp	nekoliko
+višja	mte:Agcfsn	visok
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+2,2	mte:Mdc	2,2
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Avgusta	mte:Npmsg	Avgusta
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+sicer	mte:Q	sicer
+letna	mte:Agpfsn	leten
+stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+1,7	mte:Mdc	1,7
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+,	mte:Z	,
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+Uniji	mte:Ncfsl	unija
+pa	mte:Cc	pa
+1,9	mte:Mdc	1,9
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+.	mte:Z	.
+Septembra	mte:Ncmsg	september
+so	mte:Va-r3p-n	biti
+najnižje	mte:Agsfpn	nizko
+stopnje	mte:Ncfpn	stopnja
+inflacije	mte:Ncfsg	inflacija
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+v	mte:Sa	v
+EU	mte:Npfsl	EU
+beležile	mte:Vmpp-pf	beležiti
+Nizozemska	mte:Agpfsn	nizozemski
+1,3	mte:Mdc	1,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Belgija	mte:Npfsn	Belgija
+1,4	mte:Mdc	1,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Francija	mte:Npfsn	Francija
+1,6odstotka	mte:Npmsg	1,6odstotka
+ter	mte:Cc	ter
+Italija	mte:Npfsn	Italija
+in	mte:Cc	in
+Finska	mte:Npfsn	Finska
+po	mte:Sl	po
+1,7	mte:Mdc	1,7
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Najvišje	mte:Agsfsg	visok
+so	mte:Va-r3p-n	biti
+biletne	mte:Agpfpn	bileten
+inflacijske	mte:Agpfpn	inflacijski
+stopnje	mte:Ncfpn	stopnja
+v	mte:Sl	v
+Latviji	mte:Npfsl	Latvija
+11,5	mte:Mdc	11,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Bolgariji	mte:Npfsl	Bolgarija
+11odstotkov	mte:Npmpg	11odstotk
+,	mte:Z	,
+Estoniji	mte:Npfsl	Estonija
+7,5	mte:Mdc	7,5
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Litvi	mte:Npfsl	Litva
+7,1	mte:Mdc	7,1
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+ima	mte:Vmpr3s-n	imeti
+spet	mte:Rgp	spet
+najvišjo	mte:Agsfsa	visok
+inflacijo	mte:Ncfsa	inflacija
+med	mte:Si	med
+članicami	mte:Ncfpi	članica
+območja	mte:Ncnsg	območje
+evro	mte:Ncmsn	evro
+.	mte:Z	.
+Najnižje	mte:Agsnsa	nizek
+letno	mte:Agpnsa	leten
+povprečje	mte:Ncnsa	povprečje
+inflacije	mte:Ncfsg	inflacija
+so	mte:Va-r3p-n	biti
+septembra	mte:Ncmsg	september
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+zabeležile	mte:Vmep-pf	zabeležiti
+Malta	mte:Npfsa	Malta
+0,9	mte:Mdc	0,9
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Danska	mte:Npfsn	Danska
+1,2	mte:Mdc	1,2
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Nizozemska	mte:Agpfsn	nizozemski
+1,3	mte:Mdc	1,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+najvišje	mte:Rgs	visok
+pa	mte:Cc	pa
+Latvija	mte:Npfsn	Latvija
+11,5	mte:Mdc	11,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Bolgarija	mte:Npfsn	Bolgarija
+11	mte:Mdc	11
+odstotkov	mte:Ncmpg	odstotek
+in	mte:Cc	in
+Estonija	mte:Npfsn	Estonija
+7,5	mte:Mdc	7,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Tako	mte:Cc	tako
+območje	mte:Ncnsn	območje
+evra	mte:Ncmsg	evro
+kot	mte:Cs	kot
+sedemindvajseterica	mte:Ncfsn	sedemindvajseterica
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+septembra	mte:Ncmsg	september
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+avgustom	mte:Ncmsi	avgust
+zabeležila	mte:Vmep-df	zabeležiti
+manjšo	mte:Agcfsa	majhen
+inflacijo	mte:Ncfsa	inflacija
+.	mte:Z	.
+Mesečna	mte:Agpfsn	mesečen
+stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+septembra	mte:Ncmsg	september
+tako	mte:Rgp	tako
+0,4	mte:Mdc	0,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+pa	mte:Cc	pa
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+0,4	mte:Mdc	0,4
+odstotka	mte:Ncmsg	odstotek

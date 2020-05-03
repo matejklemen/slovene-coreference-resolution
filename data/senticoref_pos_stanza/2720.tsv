@@ -1,488 +1,490 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Gorenjska	Agpfsn
-banka	Ncfsn
-je	Va-r3s-n
-v	Sa
-sredo	Ncfsa
-prodala	Vmep-sf
-štiri	Mlcmpa
-odstotke	Ncmpa
-delnic	Ncfpg
-Petrola	Npmsg
-in	Cc
-isti	Pi-msa
-dan	Ncmsan
-od	Sg
-Zvon	Ncfsg
-Ena	Mlpfsn
-Holdinga	Ncmsg
-odkupila	Vmep-sf
-desetino	Ncfsa
-Abanke	Npfsg
-Vipa	Npfsn
-,	Z
-je	Va-r3s-n
-razvidno	Agpnsn
-iz	Sg
-delniške	Agpfsg
-knjige	Ncfsg
-.	Z
-To	Pd-nsn
-posledično	Rgp
-pomeni	Vmbr3s
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-glavno	Agpfsa
-besedo	Ncfsa
-v	Sl
-tretji	Mlofsl
-največji	Agsfsl
-slovenski	Agpfsl
-banki	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodi	Vmpr3s
-Aleš	Npmsn
-Žajdela	Npmsn
-,	Z
-tudi	Q
-uradno	Rgp
-Gorenjci	Npmpn
-.	Z
-Poleg	Sg
-dejstva	Ncnsg
-,	Z
-da	Cs
-Sava	Npfsn
-in	Cc
-Gorenjska	Agpfsn
-banka	Ncfsn
-skupaj	Rgp
-obvladujeta	Vmpr3d
-že	Q
-tretjino	Ncfsa
-delnic	Ncfpg
-Abanke	Npfsg
-,	Z
-je	Va-r3s-n
-v	Sl
-začetku	Ncmsl
-tedna	Ncmsg
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-te	Pd-fsg
-banke	Ncfsg
-postal	Vmep-sm
-prvi	Mlomsn
-mož	Ncmsn
-Save	Npfsg
-Janez	Npmsn
-Bohorič	Npmsn
-.	Z
-Gorenjski	Agpfsl
-banki	Ncfsl
-je	Va-r3s-n
-delnice	Ncfsa
-Abanke	Npfsg
-prodal	Vmep-sm
-Zvon	Ncmsan
-Ena	Mlpfsn
-Holding	Ncmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-skoraj	Q
-popolnoma	Rgp
-umaknil	Vmep-sm
-iz	Sg
-njenega	Ps3nsgsf
-lastništva	Ncnsg
--	Z
-še	Q
-dodatnih	Agpmpg
-pet	Mlc-pa
-odstotkov	Ncmpg
-Abanke	Ncfsg
-je	Va-r3s-n
-namreč	Cc
-prodal	Vmep-sm
-Kranjski	Agpfsd
-družbi	Ncfsd
-BPT	Npmsn
-.	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-Zvon	Ncmsn
-Ena	Mlpfsn
-Holdinga	Ncmsg
-Simon	Npmsn
-Zdolšek	Npmsn
-je	Va-r3s-n
-za	Sa
-Dnevnik	Ncmsan
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-se	Px------y
-za	Sa
-prodajo	Ncfsa
-odločili	Vmep-pm
-zaradi	Sg
-več	Rgc
-razlogov	Ncmpg
-,	Z
-eden	Mlpmsn
-od	Sg
-teh	Pd-npg
-je	Va-r3s-n
-bilo	Va-p-sn
-tudi	Q
-vračilo	Ncnsn
-dela	Ncnsg
-posojila	Ncnsg
-Dravskim	Agpfpd
-elektrarnam	Ncfpd
-Maribor	Npmsn
-(	Z
-DEM	Npmsn
-)	Z
-.	Z
-Po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-je	Va-r3s-n
-imel	Vmpp-sm
-Zvon	Ncmsan
-delnice	Ncfpg
-Abanke	Npfsg
-zastavljene	Appfpa
-pri	Sl
-Novi	Agpfsl
-Ljubljanski	Agpfsl
-banki	Ncfsl
-(	Z
-NLB	Npmsn
-)	Z
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-moral	Vmpp-sm
-del	Ncmsn
-kupnine	Ncfsg
-uporabiti	Vmen
-tudi	Q
-za	Sa
-delno	Agpnsa
-poplačilo	Ncnsa
-posojil	Ncnpg
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-je	Va-r3s-n
-imel	Vmpp-sm
-najeta	Agpfsn
-pri	Sl
-naši	Ps1fslp
-največji	Agsfsl
-banki	Ncfsl
-.	Z
-Zaradi	Sg
-okoli	Rgp
-30	Mdc
--	Z
-milijonskega	Agpmsg
-nakupa	Ncmsg
-deleža	Ncmsg
-v	Sl
-Abanki	Npfsl
-je	Va-r3s-n
-morala	Vmpp-sf
-Gorenjska	Agpfsn
-banka	Ncfsn
-prodati	Vmen
-tudi	Q
-štiriodstotni	Agpmsay
-delež	Ncmsan
-Petrola	Npmsg
-,	Z
-ki	Cs
-bi	Va-c
-bil	Va-p-sm
-po	Sl
-včerajšnjih	Agpfpl
-borznih	Agpfpl
-cenah	Ncfpl
-vreden	Agpmsnn
-le	Q
-dobre	Agpmpa
-štiri	Mlcmpa
-milijone	Ncmpa
-evrov	Ncmpg
-manj	Rgc
-.	Z
-Pri	Sl
-prodaji	Ncfsl
-delnic	Ncfpg
-Abanke	Ncfsg
-Gorenjski	Agpfsl
-banki	Ncfsl
-si	Px---d--y
-je	Va-r3s-n
-Zvon	Ncmsn
-po	Sl
-besedah	Ncfpl
-Zdolška	Ncmsg
-uspel	Vmep-sm
-zagotoviti	Vmen
-tudi	Q
-možnost	Ncfsa
-ponovnega	Agpmsg
-odkupa	Ncmsg
-tega	Pd-msg
-deleža	Ncmsg
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-prodaja	Ncfsn
-po	Sl
-vsej	Pg-fsl
-verjetnosti	Ncfsl
-ni	Va-r3s-y
-bila	Va-p-sf
-dokončna	Agpfsn
-.	Z
-To	Pd-nsn
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-eden	Mlpmsn
-od	Sg
-razlogov	Ncmpg
-,	Z
-zakaj	Rgp
-Gorenjski	Agpfsd
-banki	Ncfsd
-ni	Va-r3s-y
-treba	Rgp
-objaviti	Vmen
-prevzemne	Agpfsg
-ponudbe	Ncfsg
-za	Sa
-Abanko	Npfsa
-Vipa	Npfsa
-,	Z
-čeprav	Cs
-zdaj	Rgp
-skupaj	Rgp
-s	Si
-Savo	Npfsi
-obvladuje	Vmpr3s
-dobro	Agpfsa
-tretjino	Ncfsa
-njenega	Ps3nsgsf
-lastništva	Ncnsg
-.	Z
-"	Z
-Interes	Ncmsan
-za	Sa
-združitev	Ncfsa
-bank	Ncfpg
-na	Sl
-obeh	Pg-fdl
-straneh	Ncfdl
-obstaja	Vmpr3s
-,	Z
-o	Sl
-objavi	Ncfsl
-kakršne	Pq-fsg
-koli	Q
-prevzemne	Agpfsg
-ponudbe	Ncfsg
-pa	Cc
-je	Va-r3s-n
-povsem	Rgp
-prezgodaj	Rgp
-govoriti	Vmpn
-,	Z
-"	Z
-pravijo	Vmbr3p
-v	Sl
-Gorenjski	Agpfsl
-banki	Ncfsl
-in	Cc
-dodajajo	Vmpr3p
-,	Z
-da	Cs
-"	Z
-za	Sa
-zdaj	Rgp
-ni	Va-r3s-y
-bil	Va-p-sm
-sprožen	Appmsnn
-še	Q
-noben	Pz-msn
-formalni	Agpmsny
-korak	Ncmsn
-v	Sa
-to	Pd-fsa
-smer	Ncfsa
-,	Z
-pridobljeno	Appnsn
-pa	Cc
-ni	Va-r3s-y
-bilo	Va-p-sn
-niti	Q
-načelno	Agpnsn
-soglasje	Ncnsn
-lastnikov	Ncmpg
-"	Z
-.	Z
-V	Sl
-Savi	Npfsl
-pojasnjujejo	Vmpr3p
-,	Z
-da	Cs
-po	Sl
-določilih	Ncnpl
-zakona	Ncmsg
-o	Sl
-prevzemih	Ncmpl
-niso	Va-r3p-y
-zavezani	Appmpn
-k	Sd
-objavi	Ncfsd
-prevzemne	Agpfsg
-ponudbe	Ncfsg
-.	Z
-Ker	Cs
-Sava	Npfsn
-nima	Vmpr3s-y
-v	Sl
-lasti	Ncfsl
-več	Rgc
-kot	Cs
-50	Mdc
-odstotkov	Ncmpg
-Gorenjske	Agpfsg
-banke	Ncfsg
-,	Z
-uradno	Rgp
-nista	Va-r3d-y
-obravnavani	Appfdn
-kot	Cs
-povezani	Appfdn
-osebi	Ncfdn
-,	Z
-v	Sl
-Savi	Npfsl
-pa	Cc
-naj	Q
-bi	Va-c
-si	Px---d--y
-glede	Sg
-tega	Pd-nsg
-pridobili	Vmep-pm
-tudi	Q
-pravno	Agpnsa
-mnenje	Ncnsa
-.	Z
-V	Sl
-Savi	Npfsl
-menijo	Vmpr3p
-,	Z
-da	Cs
-nakup	Ncmsn
-delnic	Ncfpg
-Abanke	Ncfsg
-ne	Q
-bo	Va-f3s-n
-vplival	Vmpp-sm
-na	Sa
-povezovanje	Ncnsa
-obeh	Pg-fdg
-bank	Ncfdg
-,	Z
-"	Z
-saj	Cc
-jim	Pp3mpd--y
-ni	Va-r3s-y
-znano	Appnsn
-,	Z
-da	Cs
-bi	Va-c
-ideji	Ncfsd
-o	Sl
-povezovanju	Ncnsl
-kdo	Pq-msn
-nasprotoval	Vmpp-sm
-"	Z
-.	Z
-Podobno	Rgp
-odgovarjajo	Vmpr3p
-tudi	Q
-v	Sl
-Gorenjski	Agpfsl
-banki	Ncfsl
-,	Z
-kjer	Cs
-menijo	Vmpr3p
-,	Z
-da	Cs
-bi	Va-c
-njihov	Ps3msnp
-nakup	Ncmsn
-lahko	Rgp
-imel	Vmpp-sm
-izključno	Rgp
-pozitiven	Agpmsan
-vpliv	Ncmsan
-na	Sa
-načrtovano	Appnsa
-povezovanje	Ncnsa
-.	Z
-Kdaj	Rgp
-bo	Va-f3s-n
-do	Sg
-povezovanja	Ncnsg
-prišlo	Vmep-sn
-,	Z
-še	Q
-ni	Va-r3s-y
-znano	Appnsn
-,	Z
-odločujoči	Appmsay
-glas	Ncmsan
-pa	Cc
-bo	Va-f3s-n
-imela	Vmpp-sf
-Zavarovalnica	Ncfsn
-Triglav	Npmsn
-(	Z
-25,6	Mdc
--	Z
-odstotna	Agpfsn
-lastnica	Ncfsn
-Abanke	Npfsg
-)	Z
-,	Z
-kjer	Cs
-doslej	Rgp
-večjega	Agcmsg
-interesa	Ncmsg
-za	Sa
-združitev	Ncfsa
-obeh	Pg-fdg
-bank	Ncfdg
-ni	Va-r3s-y
-bilo	Va-p-sn
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+prodala	mte:Vmep-sf	prodati
+štiri	mte:Mlcmpa	štirje
+odstotke	mte:Ncmpa	odstotek
+delnic	mte:Ncfpg	delnica
+Petrola	mte:Npmsg	Petrol
+in	mte:Cc	in
+isti	mte:Pi-msa	isti
+dan	mte:Ncmsan	dan
+od	mte:Sg	od
+Zvon	mte:Ncfsg	zvon
+Ena	mte:Mlpfsn	en
+Holdinga	mte:Ncmsg	holdinga
+odkupila	mte:Vmep-sf	odkupiti
+desetino	mte:Ncfsa	desetina
+Abanke	mte:Npfsg	Abanka
+Vipa	mte:Npfsn	Vipa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+razvidno	mte:Agpnsn	razviden
+iz	mte:Sg	iz
+delniške	mte:Agpfsg	delniški
+knjige	mte:Ncfsg	knjiga
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+posledično	mte:Rgp	posledično
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+glavno	mte:Agpfsa	glaven
+besedo	mte:Ncfsa	beseda
+v	mte:Sl	v
+tretji	mte:Mlofsl	tretji
+največji	mte:Agsfsl	velik
+slovenski	mte:Agpfsl	slovenski
+banki	mte:Ncfsl	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+Aleš	mte:Npmsn	Aleš
+Žajdela	mte:Npmsn	Žajdela
+,	mte:Z	,
+tudi	mte:Q	tudi
+uradno	mte:Rgp	uradno
+Gorenjci	mte:Npmpn	Gorenjca
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+dejstva	mte:Ncnsg	dejstvo
+,	mte:Z	,
+da	mte:Cs	da
+Sava	mte:Npfsn	Sava
+in	mte:Cc	in
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+skupaj	mte:Rgp	skupaj
+obvladujeta	mte:Vmpr3d	obvladovati
+že	mte:Q	že
+tretjino	mte:Ncfsa	tretjina
+delnic	mte:Ncfpg	delnica
+Abanke	mte:Npfsg	Abanka
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+tedna	mte:Ncmsg	teden
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+te	mte:Pd-fsg	ta
+banke	mte:Ncfsg	banka
+postal	mte:Vmep-sm	postati
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Save	mte:Npfsg	Sava
+Janez	mte:Npmsn	Janez
+Bohorič	mte:Npmsn	Bohorič
+.	mte:Z	.
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+je	mte:Va-r3s-n	biti
+delnice	mte:Ncfsa	delnica
+Abanke	mte:Npfsg	Abanka
+prodal	mte:Vmep-sm	prodati
+Zvon	mte:Ncmsan	zvon
+Ena	mte:Mlpfsn	en
+Holding	mte:Ncmsn	holding
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+skoraj	mte:Q	skoraj
+popolnoma	mte:Rgp	popolnoma
+umaknil	mte:Vmep-sm	umakniti
+iz	mte:Sg	iz
+njenega	mte:Ps3nsgsf	njen
+lastništva	mte:Ncnsg	lastništvo
+-	mte:Z	-
+še	mte:Q	še
+dodatnih	mte:Agpmpg	dodaten
+pet	mte:Mlc-pa	pet
+odstotkov	mte:Ncmpg	odstotek
+Abanke	mte:Ncfsg	abanka
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+prodal	mte:Vmep-sm	prodati
+Kranjski	mte:Agpfsd	kranjski
+družbi	mte:Ncfsd	družba
+BPT	mte:Npmsn	BPT
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Zvon	mte:Ncmsn	zvon
+Ena	mte:Mlpfsn	en
+Holdinga	mte:Ncmsg	holdinga
+Simon	mte:Npmsn	Simon
+Zdolšek	mte:Npmsn	Zdolšek
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Dnevnik	mte:Ncmsan	dnevnik
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+odločili	mte:Vmep-pm	odločiti
+zaradi	mte:Sg	zaradi
+več	mte:Rgc	več
+razlogov	mte:Ncmpg	razlog
+,	mte:Z	,
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+teh	mte:Pd-npg	ta
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+tudi	mte:Q	tudi
+vračilo	mte:Ncnsn	vračilo
+dela	mte:Ncnsg	delo
+posojila	mte:Ncnsg	posojilo
+Dravskim	mte:Agpfpd	dravski
+elektrarnam	mte:Ncfpd	elektrarna
+Maribor	mte:Npmsn	Maribor
+(	mte:Z	(
+DEM	mte:Npmsn	DEM
+)	mte:Z	)
+.	mte:Z	.
+Po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+Zvon	mte:Ncmsan	zvon
+delnice	mte:Ncfpg	delnica
+Abanke	mte:Npfsg	Abanka
+zastavljene	mte:Appfpa	zastavljen
+pri	mte:Sl	pri
+Novi	mte:Agpfsl	nov
+Ljubljanski	mte:Agpfsl	ljubljanski
+banki	mte:Ncfsl	banka
+(	mte:Z	(
+NLB	mte:Npmsn	NLB
+)	mte:Z	)
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+moral	mte:Vmpp-sm	morati
+del	mte:Ncmsn	del
+kupnine	mte:Ncfsg	kupnina
+uporabiti	mte:Vmen	uporabiti
+tudi	mte:Q	tudi
+za	mte:Sa	za
+delno	mte:Agpnsa	delno
+poplačilo	mte:Ncnsa	poplačilo
+posojil	mte:Ncnpg	posojilo
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+najeta	mte:Agpfsn	najet
+pri	mte:Sl	pri
+naši	mte:Ps1fslp	naš
+največji	mte:Agsfsl	velik
+banki	mte:Ncfsl	banka
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+okoli	mte:Rgp	okoli
+30	mte:Mdc	30
+-	mte:Z	-
+milijonskega	mte:Agpmsg	milijonski
+nakupa	mte:Ncmsg	nakup
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+Abanki	mte:Npfsl	Abanka
+je	mte:Va-r3s-n	biti
+morala	mte:Vmpp-sf	morati
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+prodati	mte:Vmen	prodati
+tudi	mte:Q	tudi
+štiriodstotni	mte:Agpmsay	štiriodstoten
+delež	mte:Ncmsan	delež
+Petrola	mte:Npmsg	Petrol
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+po	mte:Sl	po
+včerajšnjih	mte:Agpfpl	včerajšnji
+borznih	mte:Agpfpl	borzen
+cenah	mte:Ncfpl	cena
+vreden	mte:Agpmsnn	vreden
+le	mte:Q	le
+dobre	mte:Agpmpa	dober
+štiri	mte:Mlcmpa	štirje
+milijone	mte:Ncmpa	milijon
+evrov	mte:Ncmpg	evro
+manj	mte:Rgc	manj
+.	mte:Z	.
+Pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+delnic	mte:Ncfpg	delnica
+Abanke	mte:Ncfsg	abanka
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+Zvon	mte:Ncmsn	zvon
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Zdolška	mte:Ncmsg	zdolška
+uspel	mte:Vmep-sm	uspeti
+zagotoviti	mte:Vmen	zagotoviti
+tudi	mte:Q	tudi
+možnost	mte:Ncfsa	možnost
+ponovnega	mte:Agpmsg	ponoven
+odkupa	mte:Ncmsg	odkup
+tega	mte:Pd-msg	ta
+deleža	mte:Ncmsg	delež
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+prodaja	mte:Ncfsn	prodaja
+po	mte:Sl	po
+vsej	mte:Pg-fsl	ves
+verjetnosti	mte:Ncfsl	verjetnost
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+dokončna	mte:Agpfsn	dokončen
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+razlogov	mte:Ncmpg	razlog
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+Gorenjski	mte:Agpfsd	gorenjski
+banki	mte:Ncfsd	banka
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+objaviti	mte:Vmen	objaviti
+prevzemne	mte:Agpfsg	prevzemen
+ponudbe	mte:Ncfsg	ponudba
+za	mte:Sa	za
+Abanko	mte:Npfsa	Abanko
+Vipa	mte:Npfsa	Vipa
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+zdaj	mte:Rgp	zdaj
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+Savo	mte:Npfsi	Savo
+obvladuje	mte:Vmpr3s	obvladovati
+dobro	mte:Agpfsa	dober
+tretjino	mte:Ncfsa	tretjina
+njenega	mte:Ps3nsgsf	njen
+lastništva	mte:Ncnsg	lastništvo
+.	mte:Z	.
+"	mte:Z	"
+Interes	mte:Ncmsan	interes
+za	mte:Sa	za
+združitev	mte:Ncfsa	združitev
+bank	mte:Ncfpg	banka
+na	mte:Sl	na
+obeh	mte:Pg-fdl	oba
+straneh	mte:Ncfdl	stran
+obstaja	mte:Vmpr3s	obstajati
+,	mte:Z	,
+o	mte:Sl	o
+objavi	mte:Ncfsl	objava
+kakršne	mte:Pq-fsg	kakršen
+koli	mte:Q	koli
+prevzemne	mte:Agpfsg	prevzemen
+ponudbe	mte:Ncfsg	ponudba
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+povsem	mte:Rgp	povsem
+prezgodaj	mte:Rgp	prezgodaj
+govoriti	mte:Vmpn	govoriti
+,	mte:Z	,
+"	mte:Z	"
+pravijo	mte:Vmbr3p	praviti
+v	mte:Sl	v
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+in	mte:Cc	in
+dodajajo	mte:Vmpr3p	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+"	mte:Z	"
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+sprožen	mte:Appmsnn	sprožen
+še	mte:Q	še
+noben	mte:Pz-msn	noben
+formalni	mte:Agpmsny	formalen
+korak	mte:Ncmsn	korak
+v	mte:Sa	v
+to	mte:Pd-fsa	ta
+smer	mte:Ncfsa	smer
+,	mte:Z	,
+pridobljeno	mte:Appnsn	pridobljen
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+niti	mte:Q	niti
+načelno	mte:Agpnsn	načelno
+soglasje	mte:Ncnsn	soglasje
+lastnikov	mte:Ncmpg	lastnik
+"	mte:Z	"
+.	mte:Z	.
+V	mte:Sl	v
+Savi	mte:Npfsl	Sava
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+,	mte:Z	,
+da	mte:Cs	da
+po	mte:Sl	po
+določilih	mte:Ncnpl	določilo
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+prevzemih	mte:Ncmpl	prevzem
+niso	mte:Va-r3p-y	biti
+zavezani	mte:Appmpn	zavezan
+k	mte:Sd	k
+objavi	mte:Ncfsd	objava
+prevzemne	mte:Agpfsg	prevzemen
+ponudbe	mte:Ncfsg	ponudba
+.	mte:Z	.
+Ker	mte:Cs	ker
+Sava	mte:Npfsn	Sava
+nima	mte:Vmpr3s-y	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+več	mte:Rgc	več
+kot	mte:Cs	kot
+50	mte:Mdc	50
+odstotkov	mte:Ncmpg	odstotek
+Gorenjske	mte:Agpfsg	Gorenjska
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+uradno	mte:Rgp	uradno
+nista	mte:Va-r3d-y	biti
+obravnavani	mte:Appfdn	obravnavan
+kot	mte:Cs	kot
+povezani	mte:Appfdn	povezan
+osebi	mte:Ncfdn	oseba
+,	mte:Z	,
+v	mte:Sl	v
+Savi	mte:Npfsl	Sava
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+si	mte:Px---d--y	se
+glede	mte:Sg	glede
+tega	mte:Pd-nsg	ta
+pridobili	mte:Vmep-pm	pridobiti
+tudi	mte:Q	tudi
+pravno	mte:Agpnsa	praven
+mnenje	mte:Ncnsa	mnenje
+.	mte:Z	.
+V	mte:Sl	v
+Savi	mte:Npfsl	Sava
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+nakup	mte:Ncmsn	nakup
+delnic	mte:Ncfpg	delnica
+Abanke	mte:Ncfsg	abanka
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+vplival	mte:Vmpp-sm	vplivati
+na	mte:Sa	na
+povezovanje	mte:Ncnsa	povezovanje
+obeh	mte:Pg-fdg	oba
+bank	mte:Ncfdg	banka
+,	mte:Z	,
+"	mte:Z	"
+saj	mte:Cc	saj
+jim	mte:Pp3mpd--y	on
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ideji	mte:Ncfsd	ideja
+o	mte:Sl	o
+povezovanju	mte:Ncnsl	povezovanje
+kdo	mte:Pq-msn	kdo
+nasprotoval	mte:Vmpp-sm	nasprotovati
+"	mte:Z	"
+.	mte:Z	.
+Podobno	mte:Rgp	podobno
+odgovarjajo	mte:Vmpr3p	odgovarjati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+,	mte:Z	,
+kjer	mte:Cs	kjer
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+njihov	mte:Ps3msnp	njihov
+nakup	mte:Ncmsn	nakup
+lahko	mte:Rgp	lahko
+imel	mte:Vmpp-sm	imeti
+izključno	mte:Rgp	izključno
+pozitiven	mte:Agpmsan	pozitiven
+vpliv	mte:Ncmsan	vpliv
+na	mte:Sa	na
+načrtovano	mte:Appnsa	načrtovan
+povezovanje	mte:Ncnsa	povezovanje
+.	mte:Z	.
+Kdaj	mte:Rgp	kdaj
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+povezovanja	mte:Ncnsg	povezovanje
+prišlo	mte:Vmep-sn	priti
+,	mte:Z	,
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+odločujoči	mte:Appmsay	odločujoč
+glas	mte:Ncmsan	glas
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+imela	mte:Vmpp-sf	imeti
+Zavarovalnica	mte:Ncfsn	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+(	mte:Z	(
+25,6	mte:Mdc	25,6
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+lastnica	mte:Ncfsn	lastnica
+Abanke	mte:Npfsg	Abanka
+)	mte:Z	)
+,	mte:Z	,
+kjer	mte:Cs	kjer
+doslej	mte:Rgp	doslej
+večjega	mte:Agcmsg	velik
+interesa	mte:Ncmsg	interes
+za	mte:Sa	za
+združitev	mte:Ncfsa	združitev
+obeh	mte:Pg-fdg	oba
+bank	mte:Ncfdg	banka
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+.	mte:Z	.
+matjaz.polanic	mte:Mdc	matjazdpolanica
+@	mte:Z	@

@@ -1,372 +1,409 @@
-token	tag
-Sodišče	Ncnsn
-je	Va-r3s-n
-zamenjalo	Vmep-sn
-prisilnega	Agpmsa
-upravitelja	Ncmsay
-SCT	Npmsn
-.	Z
-Prejšnja	Agpfsn
-upraviteljica	Ncfsn
-Darja	Npfsn
-Erceg	Npfsn
-je	Va-r3s-n
-namreč	Cc
-zaprosila	Vmep-sf
-za	Sa
-razrešitev	Ncfsa
-,	Z
-da	Cs
-se	Px------y
-ne	Q
-bi	Va-c
-ustvarjal	Vmpp-sm
-videz	Ncmsn
-nepristranskosti	Ncfsg
-,	Z
-ker	Cs
-je	Va-r3s-n
-predsednica	Ncfsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-upnika	Ncmsg
-SCT	Npmsn
-.	Z
-Prisilna	Agpfsn
-upraviteljica	Ncfsn
-SCT	Npmsn
-Darja	Npfsn
-Erceg	Npfsn
-je	Va-r3s-n
-sodišču	Ncnsd
-predlagala	Vmbp-sf
-svojo	Px-fsa
-razrešitev	Ncfsa
-.	Z
-V	Sl
-obrazložitvi	Ncfsl
-je	Va-r3s-n
-zapisala	Vmep-sf
-,	Z
-da	Cs
-ne	Q
-želi	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-umetno	Rgp
-ustvarjale	Vmpp-pf
-kakršne	Pq-fpn
-koli	Q
-okoliščine	Ncfpn
-ali	Cc
-namigi	Ncmpn
-,	Z
-ki	Cs
-bi	Va-c
-vzbujali	Vmpp-pm
-morebiten	Agpmsan
-dvom	Ncmsan
-v	Sa
-njeno	Ps3fsasf
-strokovno	Agpfsa
-in	Cc
-objektivno	Agpfsa
-nepristranskost	Ncfsa
-.	Z
-Ercegova	Aspfsn
-je	Va-r3s-n
-namreč	Cc
-predsednica	Ncfsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-GPG	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-tudi	Q
-eden	Mlpmsn
-izmed	Sg
-upnikov	Ncmpg
-SCT	Npmsg
-,	Z
-kar	Pr-nsn
-bi	Va-c
-lahko	Rgp
-pri	Sl
-ostalih	Appfpl
-strankah	Ncfpl
-v	Sl
-postopku	Ncmsl
-zbudilo	Vmep-sn
-dvom	Ncmsan
-v	Sa
-njeno	Ps3fsasf
-pristranskost	Ncfsa
-.	Z
-Sodišče	Ncnsn
-je	Va-r3s-n
-Ercegovo	Aspnsa
-razrešilo	Vmep-sn
-in	Cc
-na	Sa
-njeno	Ps3nsasf
-mesto	Ncnsa
-imenovalo	Vmbp-sn
-Marijo	Npfsa
-Magdaleno	Agpfsa
-Šantl	Npfsa
-.	Z
-V	Sl
-pojasnilu	Ncnsl
-pa	Cc
-je	Va-r3s-n
-sodnik	Ncmsn
-še	Q
-zapisal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-sodišče	Ncnsn
-prepričano	Appnsn
-,	Z
-da	Cs
-bi	Va-c
-Ercegova	Aspfsn
-v	Sl
-postopku	Ncmsl
-delovala	Vmpp-sf
-nepristransko	Agpfsa
-in	Cc
-strokovno	Agpnsn
-.	Z
-Njeni	Ps3fsdsf
-prošnji	Ncfsd
-za	Sa
-razrešitev	Ncfsa
-pa	Cc
-je	Va-r3s-n
-ugodilo	Vmep-sn
-zaradi	Sg
-možnega	Agpmsg
-videza	Ncmsg
-nepristranskosti	Ncfsg
-in	Cc
-čim	Rgp
-bolj	Rgc
-nemotenega	Agpmsg
-poteka	Vmpr3s
-postopka	Ncmsg
-prisilne	Agpfsg
-poravnave	Ncfsg
-.	Z
-Pred	Si
-imenovanjem	Ncnsi
-Šantlove	Aspfsg
-se	Px------y
-je	Va-r3s-n
-sicer	Q
-zgodil	Vmep-sm
-še	Q
-en	Mlpmsn
-zaplet	Ncmsn
-,	Z
-saj	Cc
-je	Va-r3s-n
-računalniški	Agpmsny
-program	Ncmsn
-kot	Cs
-naslednjega	Agpmsg
-upravitelja	Ncmsg
-izbral	Vmep-sm
-Borisa	Npmsay
-Dolamiča	Npmsay
-,	Z
-ki	Cs
-pa	Cc
-je	Va-r3s-n
-direktor	Ncmsn
-GPG	Npmsn
-.	Z
-Sodišče	Ncnsn
-je	Va-r3s-n
-tudi	Q
-njega	Pp3msa
-razrešilo	Vmep-sn
-iz	Sg
-istih	Pi-mpg
-razlogov	Ncmpg
-kot	Cs
-Ercegovo	Aspnsa
-.	Z
-Sodišče	Ncnsn
-je	Va-r3s-n
-postopek	Ncmsan
-prisilne	Agpfsg
-poravnave	Ncfsg
-začelo	Vmep-sn
-25	Mdc
-.	Z
-januarja	Ncmsg
-.	Z
-Upniki	Ncmpn
-imajo	Vmpr3p-n
-čas	Ncmsan
-za	Sa
-prijavo	Ncfsa
-terjatev	Ncfpg
-do	Sg
-25	Mdc
-.	Z
-februarja	Ncmsg
-.	Z
-Sodišče	Ncnsn
-je	Va-r3s-n
-v	Sa
-petčlanski	Agpmsay
-upniški	Agpmsay
-odbor	Ncmsan
-imenovalo	Vmbp-sn
-Petrol	Npmsn
-,	Z
-NLB	Npfsa
-,	Z
-Abanko	Npfsa
-,	Z
-Salonit	Npfsa
-Anhovo	Npfsa
-in	Cc
-družbo	Ncfsa
-za	Sa
-upravljanje	Ncnsa
-z	Si
-avtocestami	Ncfpi
-v	Sl
-Federaciji	Npfsl
-BiH	Npfsn
-.	Z
-SCT	Npmsn
-pridobil	Vmep-sm
-posle	Ncmpa
-v	Sl
-Srbiji	Npfsl
-?	Z
-Iz	Sg
-SCT	Npfsg
-so	Va-r3p-n
-sporočili	Vmep-pm
-,	Z
-da	Cs
-so	Va-r3p-n
-kljub	Sd
-prisilni	Agpfsd
-poravnavi	Ncfsd
-uspeli	Vmep-pm
-pridobiti	Vmen
-več	Rgc
-poslov	Ncmpg
-v	Sl
-Srbiji	Npfsl
-.	Z
-Njihova	Ps3fsnp
-hčerinska	Agpfsn
-družba	Ncfsn
-SCT	Npmsn
-&	Ncmsn
-CG	Ncfsn
-Montaža	Ncfsn
-iz	Sg
-Beograda	Npmsg
-je	Va-r3s-n
-tako	Rgp
-pridobila	Vmep-sf
-gradnjo	Ncfsa
-Športno	Agpnsn
--	Z
-rekreacijskega	Agpmsg
-centra	Ncmsg
-Voždovac	Npmsn
-z	Si
-nogometnim	Agpnsi
-igriščem	Ncnsi
-na	Sl
-strehi	Ncfsl
-objekta	Ncmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-razpolagal	Vmpp-sm
-z	Si
-72.400	Mdc
-kvadratnimi	Agpmpi
-metri	Ncmpi
-prostora	Ncmsg
-.	Z
-Posel	Ncmsn
-je	Va-r3s-n
-vreden	Agpmsnn
-22	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-bo	Va-f3s-n
-SCT	Npmsn
-gradil	Vmpp-sm
-tudi	Q
-logistični	Agpmsny
-center	Ncmsn
-PTT	Npfsg
-Srbije	Npfsg
-v	Sl
-Zemunu	Npmsl
-,	Z
-sodeloval	Vmpp-sm
-pri	Sl
-gradnji	Ncfsl
-nemškega	Agpnsg
-podjetja	Ncnsg
-Norma	Npfsn
-Group	Npmsn
-v	Sl
-Subotici	Npfsl
-ter	Cc
-Plazza	Agpmsg
-centra	Ncmsg
-v	Sl
-Kragujevcu	Npmsl
-.	Z
-Skupna	Agpfsn
-vrednost	Ncfsn
-teh	Pd-mpg
-poslov	Ncmpg
-znaša	Vmpr3s
-devet	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-V	Sa
-sredo	Ncfsa
-je	Va-r3s-n
-sicer	Q
-prišlo	Vmep-sn
-na	Sa
-dan	Ncmsan
-,	Z
-da	Cs
-pa	Cc
-je	Va-r3s-n
-SCT	Npmsn
-po	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-izgubil	Vmep-sm
-gradnjo	Ncfsa
-predora	Ncmsg
-Vijenac	Npmsn
-v	Sl
-Federaciji	Npfsl
-BiH	Npmsn
-.	Z
+token	tag	lemma
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+zamenjalo	mte:Vmep-sn	zamenjati
+prisilnega	mte:Agpmsa	prisilen
+upravitelja	mte:Ncmsay	upravitelj
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Prejšnja	mte:Agpfsn	prejšnji
+upraviteljica	mte:Ncfsn	upraviteljica
+Darja	mte:Npfsn	Darja
+Erceg	mte:Npfsn	Erceg
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+zaprosila	mte:Vmep-sf	zaprositi
+za	mte:Sa	za
+razrešitev	mte:Ncfsa	razrešitev
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+ustvarjal	mte:Vmpp-sm	ustvarjati
+videz	mte:Ncmsn	videz
+nepristranskosti	mte:Ncfsg	nepristranskost
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+predsednica	mte:Ncfsn	predsednica
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+upnika	mte:Ncmsg	upnik
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Prisilna	mte:Agpfsn	prisilen
+upraviteljica	mte:Ncfsn	upraviteljica
+SCT	mte:Npmsn	SCT
+Darja	mte:Npfsn	Darja
+Erceg	mte:Npfsn	Erceg
+je	mte:Va-r3s-n	biti
+sodišču	mte:Ncnsd	sodišče
+predlagala	mte:Vmbp-sf	predlagati
+svojo	mte:Px-fsa	svoj
+razrešitev	mte:Ncfsa	razrešitev
+.	mte:Z	.
+V	mte:Sl	v
+obrazložitvi	mte:Ncfsl	obrazložitev
+je	mte:Va-r3s-n	biti
+zapisala	mte:Vmep-sf	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+umetno	mte:Rgp	umeten
+ustvarjale	mte:Vmpp-pf	ustvarjati
+kakršne	mte:Pq-fpn	kakršen
+koli	mte:Q	koli
+okoliščine	mte:Ncfpn	okoliščina
+ali	mte:Cc	ali
+namigi	mte:Ncmpn	namig
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+vzbujali	mte:Vmpp-pm	vzbujati
+morebiten	mte:Agpmsan	morebiten
+dvom	mte:Ncmsan	dvom
+v	mte:Sa	v
+njeno	mte:Ps3fsasf	njen
+strokovno	mte:Agpfsa	strokoven
+in	mte:Cc	in
+objektivno	mte:Agpfsa	objektiven
+nepristranskost	mte:Ncfsa	nepristranskost
+.	mte:Z	.
+Ercegova	mte:Aspfsn	Ercegov
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+predsednica	mte:Ncfsn	predsednica
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+GPG	mte:Npmsn	GPG
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+eden	mte:Mlpmsn	eden
+izmed	mte:Sg	izmed
+upnikov	mte:Ncmpg	upnik
+SCT	mte:Npmsg	SCT
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+pri	mte:Sl	pri
+ostalih	mte:Appfpl	ostal
+strankah	mte:Ncfpl	stranka
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+zbudilo	mte:Vmep-sn	zbuditi
+dvom	mte:Ncmsan	dvom
+v	mte:Sa	v
+njeno	mte:Ps3fsasf	njen
+pristranskost	mte:Ncfsa	pristranskost
+.	mte:Z	.
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+Ercegovo	mte:Aspnsa	Ercegov
+razrešilo	mte:Vmep-sn	razrešiti
+in	mte:Cc	in
+na	mte:Sa	na
+njeno	mte:Ps3nsasf	njen
+mesto	mte:Ncnsa	mesto
+imenovalo	mte:Vmbp-sn	imenovati
+Marijo	mte:Npfsa	Marija
+Magdaleno	mte:Agpfsa	magdalen
+Šantl	mte:Npfsa	Šantl
+.	mte:Z	.
+V	mte:Sl	v
+pojasnilu	mte:Ncnsl	pojasnilo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+sodnik	mte:Ncmsn	sodnik
+še	mte:Q	še
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sodišče	mte:Ncnsn	sodišče
+prepričano	mte:Appnsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+Ercegova	mte:Aspfsn	Ercegov
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+delovala	mte:Vmpp-sf	delovati
+nepristransko	mte:Agpfsa	nepristranski
+in	mte:Cc	in
+strokovno	mte:Agpnsn	strokoven
+.	mte:Z	.
+Njeni	mte:Ps3fsdsf	njen
+prošnji	mte:Ncfsd	prošnja
+za	mte:Sa	za
+razrešitev	mte:Ncfsa	razrešitev
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+ugodilo	mte:Vmep-sn	ugoditi
+zaradi	mte:Sg	zaradi
+možnega	mte:Agpmsg	možen
+videza	mte:Ncmsg	videz
+nepristranskosti	mte:Ncfsg	nepristranskost
+in	mte:Cc	in
+čim	mte:Rgp	čim
+bolj	mte:Rgc	bolj
+nemotenega	mte:Agpmsg	nemoten
+poteka	mte:Vmpr3s	potekati
+postopka	mte:Ncmsg	postopek
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+.	mte:Z	.
+Pred	mte:Si	pred
+imenovanjem	mte:Ncnsi	imenovanje
+Šantlove	mte:Aspfsg	Šantlov
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+zgodil	mte:Vmep-sm	zgoditi
+še	mte:Q	še
+en	mte:Mlpmsn	en
+zaplet	mte:Ncmsn	zaplet
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+računalniški	mte:Agpmsny	računalniški
+program	mte:Ncmsn	program
+kot	mte:Cs	kot
+naslednjega	mte:Agpmsg	naslednji
+upravitelja	mte:Ncmsg	upravitelj
+izbral	mte:Vmep-sm	izbrati
+Borisa	mte:Npmsay	Boris
+Dolamiča	mte:Npmsay	Dolamič
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+direktor	mte:Ncmsn	direktor
+GPG	mte:Npmsn	GPG
+.	mte:Z	.
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+njega	mte:Pp3msa	on
+razrešilo	mte:Vmep-sn	razrešiti
+iz	mte:Sg	iz
+istih	mte:Pi-mpg	isti
+razlogov	mte:Ncmpg	razlog
+kot	mte:Cs	kot
+Ercegovo	mte:Aspnsa	Ercegov
+.	mte:Z	.
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+postopek	mte:Ncmsan	postopek
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+začelo	mte:Vmep-sn	začeti
+25	mte:Mdc	25
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+.	mte:Z	.
+Upniki	mte:Ncmpn	upnik
+imajo	mte:Vmpr3p-n	imeti
+čas	mte:Ncmsan	čas
+za	mte:Sa	za
+prijavo	mte:Ncfsa	prijava
+terjatev	mte:Ncfpg	terjatev
+do	mte:Sg	do
+25	mte:Mdc	25
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+.	mte:Z	.
+Sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+petčlanski	mte:Agpmsay	petčlanski
+upniški	mte:Agpmsay	upniški
+odbor	mte:Ncmsan	odbor
+imenovalo	mte:Vmbp-sn	imenovati
+Petrol	mte:Npmsn	Petrol
+,	mte:Z	,
+NLB	mte:Npfsa	NLB
+,	mte:Z	,
+Abanko	mte:Npfsa	Abanko
+,	mte:Z	,
+Salonit	mte:Npfsa	Salonit
+Anhovo	mte:Npfsa	Anhovo
+in	mte:Cc	in
+družbo	mte:Ncfsa	družba
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+z	mte:Si	z
+avtocestami	mte:Ncfpi	avtocesta
+v	mte:Sl	v
+Federaciji	mte:Npfsl	Federacija
+BiH	mte:Npfsn	Bih
+.	mte:Z	.
+SCT	mte:Npmsn	SCT
+pridobil	mte:Vmep-sm	pridobiti
+posle	mte:Ncmpa	posel
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+?	mte:Z	?
+Iz	mte:Sg	iz
+SCT	mte:Npfsg	SCT
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+kljub	mte:Sd	kljub
+prisilni	mte:Agpfsd	prisilen
+poravnavi	mte:Ncfsd	poravnava
+uspeli	mte:Vmep-pm	uspeti
+pridobiti	mte:Vmen	pridobiti
+več	mte:Rgc	več
+poslov	mte:Ncmpg	posel
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+.	mte:Z	.
+Njihova	mte:Ps3fsnp	njihov
+hčerinska	mte:Agpfsn	hčerinski
+družba	mte:Ncfsn	družba
+SCT	mte:Npmsn	SCT
+&	mte:Ncmsn	&
+CG	mte:Ncfsn	CG
+Montaža	mte:Ncfsn	montaža
+iz	mte:Sg	iz
+Beograda	mte:Npmsg	Beograd
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+pridobila	mte:Vmep-sf	pridobiti
+gradnjo	mte:Ncfsa	gradnja
+Športno	mte:Agpnsn	športen
+-	mte:Z	-
+rekreacijskega	mte:Agpmsg	rekreacijski
+centra	mte:Ncmsg	center
+Voždovac	mte:Npmsn	Voždovac
+z	mte:Si	z
+nogometnim	mte:Agpnsi	nogometen
+igriščem	mte:Ncnsi	igrišče
+na	mte:Sl	na
+strehi	mte:Ncfsl	streha
+objekta	mte:Ncmsg	objekt
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+razpolagal	mte:Vmpp-sm	razpolagati
+z	mte:Si	z
+72.400	mte:Mdc	72.400
+kvadratnimi	mte:Agpmpi	kvadraten
+metri	mte:Ncmpi	meter
+prostora	mte:Ncmsg	prostor
+.	mte:Z	.
+Posel	mte:Ncmsn	posel
+je	mte:Va-r3s-n	biti
+vreden	mte:Agpmsnn	vreden
+22	mte:Mdc	22
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+bo	mte:Va-f3s-n	biti
+SCT	mte:Npmsn	SCT
+gradil	mte:Vmpp-sm	graditi
+tudi	mte:Q	tudi
+logistični	mte:Agpmsny	logističen
+center	mte:Ncmsn	center
+PTT	mte:Npfsg	PTT
+Srbije	mte:Npfsg	Srbija
+v	mte:Sl	v
+Zemunu	mte:Npmsl	Zemun
+,	mte:Z	,
+sodeloval	mte:Vmpp-sm	sodelovati
+pri	mte:Sl	pri
+gradnji	mte:Ncfsl	gradnja
+nemškega	mte:Agpnsg	nemški
+podjetja	mte:Ncnsg	podjetje
+Norma	mte:Npfsn	Norma
+Group	mte:Npmsn	Group
+v	mte:Sl	v
+Subotici	mte:Npfsl	Subotica
+ter	mte:Cc	ter
+Plazza	mte:Agpmsg	plazz
+centra	mte:Ncmsg	center
+v	mte:Sl	v
+Kragujevcu	mte:Npmsl	Kragujevc
+.	mte:Z	.
+Skupna	mte:Agpfsn	skupen
+vrednost	mte:Ncfsn	vrednost
+teh	mte:Pd-mpg	ta
+poslov	mte:Ncmpg	posel
+znaša	mte:Vmpr3s	znašati
+devet	mte:Mlc-pa	devet
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+prišlo	mte:Vmep-sn	priti
+na	mte:Sa	na
+dan	mte:Ncmsan	dan
+,	mte:Z	,
+da	mte:Cs	da
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+SCT	mte:Npmsn	SCT
+po	mte:Sl	po
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+izgubil	mte:Vmep-sm	izgubiti
+gradnjo	mte:Ncfsa	gradnja
+predora	mte:Ncmsg	predor
+Vijenac	mte:Npmsn	Vijenac
+v	mte:Sl	v
+Federaciji	mte:Npfsl	Federacija
+BiH	mte:Npmsn	Bih
+.	mte:Z	.
+Pogodbo	mte:Ncfsa	pogodba
+,	mte:Z	,
+vredno	mte:Rgp	vreden
+54,6	mte:Mdc	54,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+razdrla	mte:Vmep-sf	razdreti
+družba	mte:Ncfsn	družba
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+z	mte:Si	z
+avtocestami	mte:Ncfpi	avtocesta
+v	mte:Sl	v
+Federaciji	mte:Npfsl	Federacija
+BiH	mte:Npfsn	Bih
+,	mte:Z	,
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+po	mte:Sl	po
+pogovoru	mte:Ncmsl	pogovor
+s	mte:Si	z
+predstavniki	mte:Ncmpi	predstavnik
+SCT	mte:Npmpg	SCT
+in	mte:Cc	in
+nadzornikom	mte:Ncmsi	nadzornik
+gradnje	mte:Ncfsg	gradnja
+,	mte:Z	,
+inštitutom	mte:Ncmsi	inštitut
+IGH	mte:Z	IGH

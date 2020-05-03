@@ -1,471 +1,513 @@
-token	tag
-Predsednik	Ncmsn
-ZDA	Npfpg
-George	Npmsn
-Bush	Npmsn
-je	Va-r3s-n
-v	Sl
-svojem	Px-msl
-zadnjem	Agpmsl
-govoru	Ncmsl
-priznal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-gospodarstvo	Ncnsn
-v	Sl
-težavah	Ncfpl
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-to	Pd-nsn
-ne	Q
-bo	Va-f3s-n
-trajalo	Vmpp-sn
-,	Z
-če	Cs
-bodo	Va-f3p-n
-politiki	Ncmpn
-zaupali	Vmbp-pm
-v	Sa
-ljudstvo	Ncnsa
-in	Cc
-ne	Q
-bodo	Va-f3p-n
-višali	Vmpp-pm
-davkov	Ncmpg
-Foto	Ncmsn
-:	Z
-©	Ncmsn
-Bloomberg	Npmsn
-businessweek	Ncmsn
-Ameriški	Agpmsny
-predsednik	Ncmsn
-George	Npmsn
-Bush	Npmsn
-je	Va-r3s-n
-včeraj	Rgp
-opravil	Vmep-sm
-svoj	Px-msa
-zadnji	Agpmsay
-govor	Ncmsan
-o	Sl
-položaju	Ncmsl
-v	Sl
-državi	Ncfsl
-pred	Si
-kongresom	Ncmsi
-,	Z
-vlado	Ncfsi
-in	Cc
-vrhovnim	Agpnsi
-sodiščem	Ncnsi
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-začel	Vmep-sm
-s	Si
-priznanjem	Ncnsi
-,	Z
-da	Cs
-je	Va-r3s-n
-gospodarstvo	Ncnsa
-v	Sl
-težavah	Ncfpl
-,	Z
-sicer	Q
-pa	Cc
-je	Va-r3s-n
-njegov	Ps3msnsm
-govor	Ncmsn
-izzvenel	Vmep-sm
-,	Z
-kot	Cs
-naštevanje	Ncnsn
-nedokončanih	Agpfpg
-nalog	Ncfpg
-,	Z
-od	Sg
-vojne	Ncfsg
-v	Sl
-Iraku	Npmsl
-na	Sl
-tujem	Agpmsl
-do	Sg
-pokojninske	Agpfsg
-reforme	Ncfsg
-doma	Ncmsg
-.	Z
-Bush	Npmsn
-je	Va-r3s-n
-v	Sl
-kongresni	Agpfsl
-palači	Ncfsl
-uvodoma	Ncmsd
-priznal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-ameriško	Agpnsn
-gospodarstvo	Ncnsn
-v	Sl
-težavah	Ncfpl
-,	Z
-vendar	Cc
-pa	Cc
-izrazil	Vmep-sm
-prepričanje	Ncnsa
-,	Z
-da	Cs
-to	Pd-nsn
-ne	Q
-bo	Va-f3s-n
-trajalo	Vmpp-sn
-,	Z
-če	Cs
-bodo	Va-f3p-n
-politiki	Ncmpn
-zaupali	Vmbp-pm
-v	Sl
-sposobnosti	Ncfsl
-ljudstva	Ncnsg
-in	Cc
-ne	Q
-bodo	Va-f3p-n
-višali	Vmpp-pm
-davkov	Ncmpg
-.	Z
-Poudaril	Vmep-sm
-je	Va-r3s-n
-rast	Ncfsa
-zaposlovanja	Ncnsg
-v	Sl
-zadnjih	Agpmpl
-52	Mdc
-mesecih	Ncmpl
-,	Z
-vendar	Cc
-priznal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-sedaj	Rgp
-ta	Pd-fsn
-upočasnila	Vmep-sf
-,	Z
-kot	Cs
-tudi	Q
-gospodarska	Agpfsn
-rast	Ncfsn
-.	Z
-Demokratske	Agpmpa
-senatorje	Ncmpa
-je	Va-r3s-n
-pozval	Vmep-sm
-naj	Q
-hitro	Rgp
-potrdijo	Vmer3p
-dogovor	Ncmsan
-o	Sl
-stimulacijskem	Agpmsl
-paketu	Ncmsl
-med	Si
-Belo	Agpfsi
-hišo	Ncfsi
-in	Cc
-predstavniškim	Agpmsi
-domom	Ncmsi
-,	Z
-kongresu	Ncmsd
-z	Si
-demokratsko	Agpfsi
-večino	Ncfsi
-pa	Cc
-zagrozil	Vmep-sm
-z	Si
-vetom	Ncmsi
-na	Sa
-vsak	Pg-msa
-zakon	Ncmsan
-,	Z
-ki	Cs
-ne	Q
-bo	Va-f3s-n
-znižal	Vmep-sm
-porabe	Ncfsg
-.	Z
-Kongres	Ncmsn
-je	Va-r3s-n
-pozval	Vmep-sm
-naj	Q
-sprejme	Vmer3s
-pokojninsko	Agpfsa
-in	Cc
-imigracijsko	Agpfsa
-reformo	Ncfsa
-.	Z
-Bush	Npmsn
-napovedal	Vmep-sm
-uravnoteženje	Ncnsa
-proračuna	Ncmsg
-do	Sg
-leta	Ncnsg
-2012	Mdc
-,	Z
-če	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-ubogali	Vmbp-pm
-in	Cc
-črtali	Vmpp-pm
-posebno	Agpfsa
-porabo	Ncfsa
-Ameriški	Agpmsny
-predsednik	Ncmsn
-je	Va-r3s-n
-napovedal	Vmep-sm
-uravnoteženje	Ncnsa
-proračuna	Ncmsg
-do	Sg
-leta	Ncnsg
-2012	Mdc
-,	Z
-če	Cs
-ga	Pp3msa--y
-bodo	Va-f3p-n
-ubogali	Vmbp-pm
-in	Cc
-črtali	Vmpp-pm
-posebno	Agpfsa
-porabo	Ncfsa
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-kongresniki	Ncmpn
-vključijo	Vmer3p
-v	Sa
-proračunske	Agpmpa
-zakone	Ncmpa
-mimo	Sg
-glasovanja	Ncnsg
-s	Si
-ciljem	Ncmsi
-razveseliti	Vmen
-volivce	Ncmpa
-.	Z
-Če	Cs
-te	Pd-fsn
-posebne	Agpfsg
-porabe	Ncfsg
-ne	Q
-bodo	Va-f3p-n
-zmanjšali	Vmep-pm
-za	Sa
-polovico	Ncfsa
-,	Z
-bo	Va-f3s-n
-sledil	Vmpp-sm
-Bushev	Agpmsny
-veto	Ncmsn
-na	Sa
-proračun	Ncmsan
-.	Z
-Na	Sl
-domačem	Agpnsl
-področju	Ncnsl
-se	Px------y
-je	Va-r3s-n
-Bush	Npmsn
-zavzel	Vmep-sm
-za	Sa
-zmanjšanje	Ncnsa
-odvisnosti	Ncfsg
-od	Sg
-tuje	Agpfsg
-nafte	Ncfsg
-z	Si
-večjo	Agcfsi
-porabo	Ncfsi
-jedrske	Agpfsg
-energije	Ncfsg
-in	Cc
-premoga	Ncmsg
-ter	Cc
-pozval	Vmep-sm
-k	Sd
-mednarodnemu	Agpmsd
-sporazumu	Ncmsd
-proti	Sd
-podnebnim	Agpfpd
-spremembam	Ncfpd
-,	Z
-ki	Cs
-bo	Va-f3s-n
-vključeval	Vmpp-sm
-vse	Pg-mpa
-velike	Agpmpa
-onesnaževalce	Ncmpa
-.	Z
-Od	Sg
-kongresa	Ncmsg
-je	Va-r3s-n
-zahteval	Vmbp-sm
-zakon	Ncmsan
-proti	Sd
-kloniranju	Ncnsd
-ljudi	Ncmpg
-in	Cc
-več	Rgc
-vlaganja	Ncnsg
-v	Sa
-znanost	Ncfsa
-,	Z
-predlagal	Vmbp-sm
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-davčne	Agpfpa
-olajšave	Ncfpa
-za	Sa
-zdravstveno	Agpnsa
-zavarovanje	Ncnsa
-.	Z
-"	Z
-Umik	Ncmsn
-iz	Sg
-Iraka	Npmsg
-po	Sl
-koncu	Ncmsl
-mandata	Ncmsg
-bi	Va-c
-pomenilo	Vmbp-sn
-zmago	Ncfsa
-Al	Npfsn
-Kaide	Npfsg
-Kot	Cs
-zadnja	Agpnpa
-4	Mdc
-leta	Ncnpa
-je	Va-r3s-n
-tudi	Q
-tokrat	Rgp
-govoril	Vmpp-sm
-o	Sl
-tem	Pd-nsl
-,	Z
-da	Cs
-v	Sl
-Iraku	Npmsl
-dosegajo	Vmpr3p
-napredek	Ncmsan
-,	Z
-čeprav	Cs
-delo	Ncnsn
-še	Q
-ni	Va-r3s-y
-končano	Appnsn
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-posvaril	Vmep-sm
-pred	Si
-umikom	Ncmsi
-iz	Sg
-Iraka	Npmsg
-,	Z
-po	Sl
-koncu	Ncmsl
-njegovega	Ps3msgsm
-mandata	Ncmsg
-,	Z
-ker	Cs
-bi	Va-c
-to	Pd-nsn
-pomenilo	Vmbp-sn
-zmago	Ncfsa
-teroristov	Ncmpg
-Al	Npmsn
-Kaide	Npfsg
-.	Z
-V	Sl
-53	Mdc
-minut	Ncfpg
-trajajočem	Appmsl
-govoru	Ncmsl
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-z	Si
-aplavzi	Ncmpi
-prekinjali	Vmpp-pm
-le	Q
-republikanci	Ncmpn
-,	Z
-je	Va-r3s-n
-Bush	Npmsn
-Američanom	Npmpd
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-bolj	Rgc
-zanima	Vmpr3s
-predsedniška	Agpfsn
-tekma	Ncfsn
-za	Sa
-njegovega	Ps3msasm
-naslednika	Ncmsay
-,	Z
-ponovno	Rgp
-govoril	Vmpp-sm
-o	Sl
-tekoči	Appfsl
-vojni	Ncfsl
-proti	Sd
-terorizmu	Ncmsd
-,	Z
-širjenju	Ncnsd
-svobode	Ncfsg
-po	Sl
-svetu	Ncmsl
-in	Cc
-grozil	Vmpp-sm
-Iranu	Npmsd
-.	Z
-"	Z
-ZDA	Npfpg
-bodo	Va-f3p-n
-branile	Vmpp-pf
-svoje	Px-mpa
-vitalne	Agpmpa
-interese	Ncmpa
-v	Sl
-Perzijskem	Agpmsl
-zalivu	Ncmsl
-"	Z
-Severne	Agpfsg
-Koreje	Npfsg
-tokrat	Rgp
-ni	Va-r3s-y
-omenjal	Vmpp-sm
-,	Z
-Teheranu	Npmsl
-pa	Cc
-je	Va-r3s-n
-sporočil	Vmep-sm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-ZDA	Npfpn
-branile	Vmpp-pf
-svoje	Px-mpa
-vitalne	Agpmpa
-interese	Ncmpa
-v	Sl
-Perzijskem	Agpmsl
-zalivu	Ncmsl
-.	Z
+token	tag	lemma
+Predsednik	mte:Ncmsn	predsednik
+ZDA	mte:Npfpg	ZDA
+George	mte:Npmsn	George
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+svojem	mte:Px-msl	svoj
+zadnjem	mte:Agpmsl	zadnji
+govoru	mte:Ncmsl	govor
+priznal	mte:Vmep-sm	priznati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+gospodarstvo	mte:Ncnsn	gospodarstvo
+v	mte:Sl	v
+težavah	mte:Ncfpl	težava
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+to	mte:Pd-nsn	ta
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+trajalo	mte:Vmpp-sn	trajati
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+politiki	mte:Ncmpn	politika
+zaupali	mte:Vmbp-pm	zaupati
+v	mte:Sa	v
+ljudstvo	mte:Ncnsa	ljudstvo
+in	mte:Cc	in
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+višali	mte:Vmpp-pm	višati
+davkov	mte:Ncmpg	davek
+Foto	mte:Ncmsn	foto
+:	mte:Z	:
+©	mte:Ncmsn	©
+Bloomberg	mte:Npmsn	Bloomberg
+businessweek	mte:Ncmsn	businessweek
+Ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+George	mte:Npmsn	George
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+opravil	mte:Vmep-sm	opraviti
+svoj	mte:Px-msa	svoj
+zadnji	mte:Agpmsay	zadnji
+govor	mte:Ncmsan	govor
+o	mte:Sl	o
+položaju	mte:Ncmsl	položaj
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+pred	mte:Si	pred
+kongresom	mte:Ncmsi	kongres
+,	mte:Z	,
+vlado	mte:Ncfsi	vlada
+in	mte:Cc	in
+vrhovnim	mte:Agpnsi	vrhoven
+sodiščem	mte:Ncnsi	sodišče
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+začel	mte:Vmep-sm	začeti
+s	mte:Si	z
+priznanjem	mte:Ncnsi	priznanje
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+gospodarstvo	mte:Ncnsa	gospodarstvo
+v	mte:Sl	v
+težavah	mte:Ncfpl	težava
+,	mte:Z	,
+sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+njegov	mte:Ps3msnsm	njegov
+govor	mte:Ncmsn	govor
+izzvenel	mte:Vmep-sm	izzveneti
+,	mte:Z	,
+kot	mte:Cs	kot
+naštevanje	mte:Ncnsn	naštevanje
+nedokončanih	mte:Agpfpg	nedokončan
+nalog	mte:Ncfpg	naloga
+,	mte:Z	,
+od	mte:Sg	od
+vojne	mte:Ncfsg	vojna
+v	mte:Sl	v
+Iraku	mte:Npmsl	Irak
+na	mte:Sl	na
+tujem	mte:Agpmsl	tuj
+do	mte:Sg	do
+pokojninske	mte:Agpfsg	pokojninski
+reforme	mte:Ncfsg	reforma
+doma	mte:Ncmsg	dom
+.	mte:Z	.
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+kongresni	mte:Agpfsl	kongresen
+palači	mte:Ncfsl	palača
+uvodoma	mte:Ncmsd	uvod
+priznal	mte:Vmep-sm	priznati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ameriško	mte:Agpnsn	ameriški
+gospodarstvo	mte:Ncnsn	gospodarstvo
+v	mte:Sl	v
+težavah	mte:Ncfpl	težava
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+izrazil	mte:Vmep-sm	izraziti
+prepričanje	mte:Ncnsa	prepričanje
+,	mte:Z	,
+da	mte:Cs	da
+to	mte:Pd-nsn	ta
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+trajalo	mte:Vmpp-sn	trajati
+,	mte:Z	,
+če	mte:Cs	če
+bodo	mte:Va-f3p-n	biti
+politiki	mte:Ncmpn	politika
+zaupali	mte:Vmbp-pm	zaupati
+v	mte:Sl	v
+sposobnosti	mte:Ncfsl	sposobnost
+ljudstva	mte:Ncnsg	ljudstvo
+in	mte:Cc	in
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+višali	mte:Vmpp-pm	višati
+davkov	mte:Ncmpg	davek
+.	mte:Z	.
+Poudaril	mte:Vmep-sm	poudariti
+je	mte:Va-r3s-n	biti
+rast	mte:Ncfsa	rast
+zaposlovanja	mte:Ncnsg	zaposlovanje
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+52	mte:Mdc	52
+mesecih	mte:Ncmpl	mesec
+,	mte:Z	,
+vendar	mte:Cc	vendar
+priznal	mte:Vmep-sm	priznati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sedaj	mte:Rgp	sedaj
+ta	mte:Pd-fsn	ta
+upočasnila	mte:Vmep-sf	upočasniti
+,	mte:Z	,
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+gospodarska	mte:Agpfsn	gospodarski
+rast	mte:Ncfsn	rast
+.	mte:Z	.
+Demokratske	mte:Agpmpa	demokratski
+senatorje	mte:Ncmpa	senator
+je	mte:Va-r3s-n	biti
+pozval	mte:Vmep-sm	pozvati
+naj	mte:Q	naj
+hitro	mte:Rgp	hitro
+potrdijo	mte:Vmer3p	potrditi
+dogovor	mte:Ncmsan	dogovor
+o	mte:Sl	o
+stimulacijskem	mte:Agpmsl	stimulacijski
+paketu	mte:Ncmsl	paket
+med	mte:Si	med
+Belo	mte:Agpfsi	bel
+hišo	mte:Ncfsi	hiša
+in	mte:Cc	in
+predstavniškim	mte:Agpmsi	predstavniški
+domom	mte:Ncmsi	dom
+,	mte:Z	,
+kongresu	mte:Ncmsd	kongres
+z	mte:Si	z
+demokratsko	mte:Agpfsi	demokratski
+večino	mte:Ncfsi	večina
+pa	mte:Cc	pa
+zagrozil	mte:Vmep-sm	zagroziti
+z	mte:Si	z
+vetom	mte:Ncmsi	veto
+na	mte:Sa	na
+vsak	mte:Pg-msa	vsak
+zakon	mte:Ncmsan	zakon
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+znižal	mte:Vmep-sm	znižati
+porabe	mte:Ncfsg	poraba
+.	mte:Z	.
+Kongres	mte:Ncmsn	kongres
+je	mte:Va-r3s-n	biti
+pozval	mte:Vmep-sm	pozvati
+naj	mte:Q	naj
+sprejme	mte:Vmer3s	sprejeti
+pokojninsko	mte:Agpfsa	pokojninski
+in	mte:Cc	in
+imigracijsko	mte:Agpfsa	imigracijski
+reformo	mte:Ncfsa	reforma
+.	mte:Z	.
+Bush	mte:Npmsn	Bush
+napovedal	mte:Vmep-sm	napovedati
+uravnoteženje	mte:Ncnsa	uravnoteženje
+proračuna	mte:Ncmsg	proračun
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2012	mte:Mdc	2012
+,	mte:Z	,
+če	mte:Cs	če
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+ubogali	mte:Vmbp-pm	ubogati
+in	mte:Cc	in
+črtali	mte:Vmpp-pm	črtati
+posebno	mte:Agpfsa	poseben
+porabo	mte:Ncfsa	poraba
+Ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+uravnoteženje	mte:Ncnsa	uravnoteženje
+proračuna	mte:Ncmsg	proračun
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2012	mte:Mdc	2012
+,	mte:Z	,
+če	mte:Cs	če
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+ubogali	mte:Vmbp-pm	ubogati
+in	mte:Cc	in
+črtali	mte:Vmpp-pm	črtati
+posebno	mte:Agpfsa	poseben
+porabo	mte:Ncfsa	poraba
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+kongresniki	mte:Ncmpn	kongresnik
+vključijo	mte:Vmer3p	vključiti
+v	mte:Sa	v
+proračunske	mte:Agpmpa	proračunski
+zakone	mte:Ncmpa	zakon
+mimo	mte:Sg	mimo
+glasovanja	mte:Ncnsg	glasovanje
+s	mte:Si	z
+ciljem	mte:Ncmsi	cilj
+razveseliti	mte:Vmen	razveseliti
+volivce	mte:Ncmpa	volivec
+.	mte:Z	.
+Če	mte:Cs	če
+te	mte:Pd-fsn	ta
+posebne	mte:Agpfsg	poseben
+porabe	mte:Ncfsg	poraba
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+zmanjšali	mte:Vmep-pm	zmanjšati
+za	mte:Sa	za
+polovico	mte:Ncfsa	polovica
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+sledil	mte:Vmpp-sm	slediti
+Bushev	mte:Agpmsny	bushev
+veto	mte:Ncmsn	veto
+na	mte:Sa	na
+proračun	mte:Ncmsan	proračun
+.	mte:Z	.
+Na	mte:Sl	na
+domačem	mte:Agpnsl	domač
+področju	mte:Ncnsl	področje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Bush	mte:Npmsn	Bush
+zavzel	mte:Vmep-sm	zavzeti
+za	mte:Sa	za
+zmanjšanje	mte:Ncnsa	zmanjšanje
+odvisnosti	mte:Ncfsg	odvisnost
+od	mte:Sg	od
+tuje	mte:Agpfsg	tuj
+nafte	mte:Ncfsg	nafta
+z	mte:Si	z
+večjo	mte:Agcfsi	velik
+porabo	mte:Ncfsi	poraba
+jedrske	mte:Agpfsg	jedrski
+energije	mte:Ncfsg	energija
+in	mte:Cc	in
+premoga	mte:Ncmsg	premog
+ter	mte:Cc	ter
+pozval	mte:Vmep-sm	pozvati
+k	mte:Sd	k
+mednarodnemu	mte:Agpmsd	mednaroden
+sporazumu	mte:Ncmsd	sporazum
+proti	mte:Sd	proti
+podnebnim	mte:Agpfpd	podneben
+spremembam	mte:Ncfpd	sprememba
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+vključeval	mte:Vmpp-sm	vključevati
+vse	mte:Pg-mpa	ves
+velike	mte:Agpmpa	velik
+onesnaževalce	mte:Ncmpa	onesnaževalec
+.	mte:Z	.
+Od	mte:Sg	od
+kongresa	mte:Ncmsg	kongres
+je	mte:Va-r3s-n	biti
+zahteval	mte:Vmbp-sm	zahtevati
+zakon	mte:Ncmsan	zakon
+proti	mte:Sd	proti
+kloniranju	mte:Ncnsd	kloniranje
+ljudi	mte:Ncmpg	človek
+in	mte:Cc	in
+več	mte:Rgc	več
+vlaganja	mte:Ncnsg	vlaganje
+v	mte:Sa	v
+znanost	mte:Ncfsa	znanost
+,	mte:Z	,
+predlagal	mte:Vmbp-sm	predlagati
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+davčne	mte:Agpfpa	davčen
+olajšave	mte:Ncfpa	olajšava
+za	mte:Sa	za
+zdravstveno	mte:Agpnsa	zdravstven
+zavarovanje	mte:Ncnsa	zavarovanje
+.	mte:Z	.
+"	mte:Z	"
+Umik	mte:Ncmsn	umik
+iz	mte:Sg	iz
+Iraka	mte:Npmsg	Irak
+po	mte:Sl	po
+koncu	mte:Ncmsl	konec
+mandata	mte:Ncmsg	mandat
+bi	mte:Va-c	biti
+pomenilo	mte:Vmbp-sn	pomeniti
+zmago	mte:Ncfsa	zmaga
+Al	mte:Npfsn	Al
+Kaide	mte:Npfsg	Kaide
+Kot	mte:Cs	kot
+zadnja	mte:Agpnpa	zadnji
+4	mte:Mdc	4
+leta	mte:Ncnpa	leto
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+tokrat	mte:Rgp	tokrat
+govoril	mte:Vmpp-sm	govoriti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+Iraku	mte:Npmsl	Irak
+dosegajo	mte:Vmpr3p	dosegati
+napredek	mte:Ncmsan	napredek
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+delo	mte:Ncnsn	delo
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+končano	mte:Appnsn	končan
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+posvaril	mte:Vmep-sm	posvariti
+pred	mte:Si	pred
+umikom	mte:Ncmsi	umik
+iz	mte:Sg	iz
+Iraka	mte:Npmsg	Irak
+,	mte:Z	,
+po	mte:Sl	po
+koncu	mte:Ncmsl	konec
+njegovega	mte:Ps3msgsm	njegov
+mandata	mte:Ncmsg	mandat
+,	mte:Z	,
+ker	mte:Cs	ker
+bi	mte:Va-c	biti
+to	mte:Pd-nsn	ta
+pomenilo	mte:Vmbp-sn	pomeniti
+zmago	mte:Ncfsa	zmaga
+teroristov	mte:Ncmpg	terorist
+Al	mte:Npmsn	Al
+Kaide	mte:Npfsg	Kaide
+.	mte:Z	.
+V	mte:Sl	v
+53	mte:Mdc	53
+minut	mte:Ncfpg	minuta
+trajajočem	mte:Appmsl	trajajoč
+govoru	mte:Ncmsl	govor
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+z	mte:Si	z
+aplavzi	mte:Ncmpi	aplavz
+prekinjali	mte:Vmpp-pm	prekinjati
+le	mte:Q	le
+republikanci	mte:Ncmpn	republikanec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Bush	mte:Npmsn	Bush
+Američanom	mte:Npmpd	Američan
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+bolj	mte:Rgc	bolj
+zanima	mte:Vmpr3s	zanimati
+predsedniška	mte:Agpfsn	predsedniški
+tekma	mte:Ncfsn	tekma
+za	mte:Sa	za
+njegovega	mte:Ps3msasm	njegov
+naslednika	mte:Ncmsay	naslednik
+,	mte:Z	,
+ponovno	mte:Rgp	ponovno
+govoril	mte:Vmpp-sm	govoriti
+o	mte:Sl	o
+tekoči	mte:Appfsl	tekoč
+vojni	mte:Ncfsl	vojna
+proti	mte:Sd	proti
+terorizmu	mte:Ncmsd	terorizem
+,	mte:Z	,
+širjenju	mte:Ncnsd	širjenje
+svobode	mte:Ncfsg	svoboda
+po	mte:Sl	po
+svetu	mte:Ncmsl	svet
+in	mte:Cc	in
+grozil	mte:Vmpp-sm	groziti
+Iranu	mte:Npmsd	Iran
+.	mte:Z	.
+"	mte:Z	"
+ZDA	mte:Npfpg	ZDA
+bodo	mte:Va-f3p-n	biti
+branile	mte:Vmpp-pf	braniti
+svoje	mte:Px-mpa	svoj
+vitalne	mte:Agpmpa	vitalen
+interese	mte:Ncmpa	interes
+v	mte:Sl	v
+Perzijskem	mte:Agpmsl	perzijski
+zalivu	mte:Ncmsl	zaliv
+"	mte:Z	"
+Severne	mte:Agpfsg	severen
+Koreje	mte:Npfsg	Korej
+tokrat	mte:Rgp	tokrat
+ni	mte:Va-r3s-y	biti
+omenjal	mte:Vmpp-sm	omenjati
+,	mte:Z	,
+Teheranu	mte:Npmsl	Teheran
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+sporočil	mte:Vmep-sm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+ZDA	mte:Npfpn	ZDA
+branile	mte:Vmpp-pf	braniti
+svoje	mte:Px-mpa	svoj
+vitalne	mte:Agpmpa	vitalen
+interese	mte:Ncmpa	interes
+v	mte:Sl	v
+Perzijskem	mte:Agpmsl	perzijski
+zalivu	mte:Ncmsl	zaliv
+.	mte:Z	.
+Guvernerka	mte:Npfsn	Guvernerka
+Kansasa	mte:Npmsg	Kansas
+Kathleen	mte:Npfsn	Kathleen
+Sebelius	mte:Npmsn	Sebelius
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+uradnem	mte:Agpmsl	uraden
+odgovoru	mte:Ncmsl	odgovor
+demokratov	mte:Ncmpg	demokrat
+pozvala	mte:Vmep-sf	pozvati
+predsednika	mte:Ncmsay	predsednik
+Busha	mte:Npmsay	Bush
+naj	mte:Q	naj
+svoje	mte:Px-mpa	svoj
+zadnje	mte:Agpmpa	zadnji
+dni	mte:Ncmpa	dan
+na	mte:Sl	na
+položaju	mte:Ncmsl	položaj
+izkoristi	mte:Vmer3s	izkoristi
+za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+v	mte:Sa	v
+korist	mte:Ncfsa	korist
+Američanov	mte:Npmpg	Američan
+,	mte:Z	,
+ki	mte:Cs	ki
+nujno	mte:Rgp	nujno
+potrebujejo	mte:Vmpr3p	potrebovati
+dostopno	mte:Agpnsa	dostopen
+zdravstvo	mte:Ncnsa	zdravstvo
+in	mte:Cc	in
+zunanjo	mte:Agpfsa	zunanji
+politiko	mte:Ncfsa	politika
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+ustvarila	mte:Vmep-sf	ustvariti
+več	mte:Rgc	več
+zaveznikov	mte:Ncmpg	zaveznik
+,	mte:Z	,
+kot	mte:Cs	kot
+sovražnikov	mte:Ncmpg	sovražnikov

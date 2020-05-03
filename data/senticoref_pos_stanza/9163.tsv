@@ -1,430 +1,450 @@
-token	tag
-Sin	Ncmsn
-pokojnega	Agpmsg
-slovenskega	Agpmsg
-predsednika	Ncmsg
-,	Z
-Jaša	Npmsn
-Drnovšek	Npmsn
-,	Z
-prek	Sg
-sodišča	Ncnsg
-poskuša	Vmpr3s
-doseči	Vmen
-,	Z
-da	Cs
-se	Px------y
-kip	Ncmsan
-njegovega	Ps3msgsm
-očeta	Ncmsg
-odstrani	Vmer3s
-iz	Sg
-parka	Ncmsg
-Občine	Ncfsg
-Zagorje	Npnsn
-in	Cc
-da	Cs
-se	Px------y
-preimenuje	Vmpr3s
-po	Sl
-njem	Pp3msl
-poimenovani	Appmsny
-park	Ncmsan
-.	Z
-Na	Sa
-kratko	Agpnsa
-smo	Va-r1p-n
-že	Q
-poročali	Vmpp-pm
-,	Z
-da	Cs
-sin	Ncmsn
-Janeza	Npmsg
-Drnovška	Npmsg
-,	Z
-Jaša	Npmsn
-,	Z
-vztraja	Vmpr3s
-pri	Sl
-zahtevi	Ncfsl
-,	Z
-da	Cs
-se	Px------y
-kip	Ncmsan
-njegovega	Ps3msgsm
-pokojnega	Agpmsg
-očeta	Ncmsg
-odstrani	Vmer3s
-iz	Sg
-parka	Ncmsg
-Občine	Ncfsg
-Zagorje	Npnsn
-.	Z
-"	Z
-To	Pd-fsa
-zahtevo	Ncfsa
-je	Va-r3s-n
-prek	Sg
-odvetniške	Agpfsg
-družbe	Ncfsg
-na	Sa
-našo	Ps1fsap
-občino	Ncfsa
-poslal	Vmep-sm
-že	Q
-pred	Si
-nekaj	Rgp
-meseci	Ncmpi
-,	Z
-že	Q
-takrat	Rgp
-smo	Va-r1p-n
-mu	Pp3msd--y
-odgovorili	Vmep-pm
-,	Z
-da	Cs
-kipa	Ncmsg
-ne	Q
-bomo	Va-f1p-n
-odstranili	Vmep-pm
-,	Z
-ravno	Q
-tako	Rgp
-ne	Q
-bomo	Va-f1p-n
-preimenovali	Vmpp-pm
-trga	Ncmsg
-,	Z
-"	Z
-je	Va-r3s-n
-za	Sa
-Žurnal24	Mdc
-povedal	Vmep-sm
-župan	Ncmsn
-Občine	Ncfsg
-Zagorje	Npnsn
-Matjaž	Npmsn
-Švagan	Npmsn
-.	Z
-Jaša	Npmsn
-Drnovšek	Npmsn
-se	Px------y
-je	Va-r3s-n
-nato	Rgp
-obrnil	Vmep-sm
-na	Sa
-Okrajno	Agpnsa
-sodišče	Ncnsa
-v	Sl
-Zagorju	Npnsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sa
-petek	Ncmsan
-njegovo	Ps3fsasm
-zahtevo	Ncfsa
-posredovalo	Vmbp-sn
-občini	Ncfsd
-.	Z
-Ta	Pd-msn
-mora	Vmpr3s
-na	Sa
-zahteve	Ncfpa
-odgovoriti	Vmen
-oziroma	Cc
-svojo	Px-fsa
-plat	Ncfsa
-predstaviti	Vmen
-v	Sl
-30	Mdc
-dneh	Ncmpl
-.	Z
-Poklicali	Vmep-pm
-smo	Va-r1p-n
-tudi	Q
-odvetnico	Ncfsa
-Jaše	Npmsg
-Drnovška	Npmsg
-,	Z
-Uršo	Npfsa
-Chitrakar	Npfsa
-:	Z
-"	Z
-Dokler	Cs
-je	Va-r3s-n
-sodni	Agpmsny
-postopek	Ncmsn
-v	Sl
-teku	Ncmsl
-,	Z
-ničesar	Pz-nsg
-ne	Q
-komentiram	Vmbr1s
-.	Z
-"	Z
-Pojasnila	Vmep-sf
-pa	Cc
-nam	Pp1-pd
-je	Va-r3s-n
-,	Z
-da	Cs
-v	Sl
-tožbi	Ncfsl
-ne	Q
-zahtevajo	Vmbr3p
-nikakršnega	Pz-msg
-denarja	Ncmsg
-(	Z
-10	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-,	Z
-kot	Cs
-to	Pd-nsa
-napačno	Rgp
-poročajo	Vmpr3p
-nekateri	Pi-mpn
-mediji	Ncmpn
-.	Z
-"	Z
-Gre	Vmbr3s
-le	Q
-za	Sa
-ocenjen	Appmsan
-strošek	Ncmsan
-sodišča	Ncnsg
-.	Z
-"	Z
-V	Sl
-zahtevi	Ncfsl
-Jaša	Npmsn
-Drnovšek	Npmsn
-izpostavlja	Vmpr3s
-,	Z
-da	Cs
-"	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-njegov	Ps3msnsm
-oče	Ncmsn
-ne	Q
-bi	Va-c
-želel	Vmpp-sm
-biti	Va-n
-upodobljen	Appmsnn
-v	Sl
-obliki	Ncfsl
-kipa	Ncmsg
-,	Z
-niti	Q
-ne	Q
-bi	Va-c
-želel	Vmpp-sm
-,	Z
-da	Cs
-se	Px------y
-po	Sl
-njem	Pp3msl
-imenuje	Vmbr3s
-mestni	Agpmsny
-park	Ncmsn
-"	Z
-.	Z
-Med	Si
-drugim	Mlpmsi
-se	Px------y
-Jaša	Npmsn
-Drnovšek	Npmsn
-sklicuje	Vmpr3s
-tudi	Q
-na	Sa
-mnenje	Ncnsa
-predsednika	Ncmsg
-Danila	Npmsg
-Türka	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-stališče	Ncnsa
-svojcev	Ncmpg
-pokojnega	Agpmsg
-Drnovška	Npmsg
-že	Q
-pred	Si
-meseci	Ncmpi
-podprl	Vmep-sm
-,	Z
-v	Sl
-zahtevi	Ncfsl
-pa	Cc
-je	Va-r3s-n
-izpostavljeno	Appnsn
-,	Z
-da	Cs
-so	Va-r3p-n
-stališče	Ncnsa
-podprli	Vmep-pm
-tudi	Q
-drugi	Mlpmpn
-predstavniki	Ncmpn
-političnih	Agpfpg
-strank	Ncfpg
-,	Z
-kot	Cs
-na	Sa
-primer	Ncmsan
-Gregor	Npmsn
-Golobič	Npmsn
-,	Z
-Katarina	Npfsn
-Kresal	Npfsn
-in	Cc
-Borut	Npmsn
-Pahor	Npmsn
-.	Z
-Kip	Ncmsn
-je	Va-r3s-n
-tam	Rgp
-,	Z
-kamor	Cs
-spada	Vmpr3s
-"	Z
-Mi	Pp1-sd--y
-smo	Va-r1p-n
-že	Q
-takrat	Rgp
-,	Z
-ko	Cs
-smo	Va-r1p-n
-na	Sa
-občino	Ncfsa
-prejeli	Vmep-pm
-zahtevo	Ncfsa
-,	Z
-sprejeli	Vmep-pm
-stališče	Ncnsa
-,	Z
-da	Cs
-kipa	Ncmsg
-ne	Q
-odstranimo	Vmer1p
-.	Z
-Zdaj	Rgp
-si	Px---d--y
-bomo	Va-f1p-n
-vzeli	Vmep-pm
-čas	Ncmsan
-,	Z
-pripravili	Vmep-pm
-dokumentacijo	Ncfsa
-in	Cc
-v	Sl
-podanem	Appmsl
-roku	Ncmsl
-poslali	Vmep-pm
-odgovor	Ncmsan
-na	Sa
-sodišče	Ncnsa
-,	Z
-"	Z
-je	Va-r3s-n
-pri	Sl
-tem	Pd-nsl
-povedal	Vmep-sm
-župan	Ncmsn
-Švagan	Npmsn
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-s	Si
-tem	Pd-msi
-kipom	Ncmsi
-ne	Q
-posegajo	Vmpr3p
-v	Sa
-zasebno	Agpnsa
-življenje	Ncnsa
-Drnovškovih	Aspmpg
-,	Z
-pač	Q
-pa	Cc
-v	Sa
-javno	Agpnsa
-življenje	Ncnsa
-nekdanjega	Agpmsg
-predsednika	Ncmsg
-.	Z
-"	Z
-Ne	Q
-nazadnje	Rgp
-je	Va-r3s-n
-bil	Va-p-sm
-častni	Agpmsny
-občan	Ncmsn
-Občine	Ncfsg
-Zagorje	Npnsn
-,	Z
-ta	Pd-msn
-naziv	Ncmsn
-je	Va-r3s-n
-nosil	Vmpp-sm
-.	Z
-Ocenjujemo	Vmpr1p
-,	Z
-da	Cs
-je	Va-r3s-n
-tudi	Q
-mesto	Ncnsn
-kipa	Ncmsg
-pravilno	Agpnsn
-,	Z
-torej	Rgp
-med	Si
-občani	Ncmpi
-Zagorja	Npnsg
-.	Z
-"	Z
-Švagan	Npmsn
-nadaljuje	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-že	Q
-pred	Si
-"	Z
-nekaj	Rgp
-meseci	Ncmpi
-bilo	Va-p-sn
-veliko	Rgp
-ogorčenja	Ncnsg
-,	Z
-celo	Q
-solza	Ncfsn
-na	Sa
-račun	Ncmsan
-tega	Pd-nsg
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-kip	Ncmsn
-odstranil	Vmep-sm
-in	Cc
-da	Cs
-bi	Va-c
-park	Ncmsan
-poimenovali	Vmep-pm
-nazaj	Rgp
-v	Sa
-Mestni	Agpmsay
-park	Ncmsan
-"	Z
-.	Z
+token	tag	lemma
+Sin	mte:Ncmsn	sin
+pokojnega	mte:Agpmsg	pokojen
+slovenskega	mte:Agpmsg	slovenski
+predsednika	mte:Ncmsg	predsednik
+,	mte:Z	,
+Jaša	mte:Npmsn	Jaša
+Drnovšek	mte:Npmsn	Drnovšek
+,	mte:Z	,
+prek	mte:Sg	prek
+sodišča	mte:Ncnsg	sodišče
+poskuša	mte:Vmpr3s	poskušati
+doseči	mte:Vmen	doseči
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+kip	mte:Ncmsan	kip
+njegovega	mte:Ps3msgsm	njegov
+očeta	mte:Ncmsg	oče
+odstrani	mte:Vmer3s	odstraniti
+iz	mte:Sg	iz
+parka	mte:Ncmsg	park
+Občine	mte:Ncfsg	občina
+Zagorje	mte:Npnsn	Zagorje
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+preimenuje	mte:Vmpr3s	preimenovati
+po	mte:Sl	po
+njem	mte:Pp3msl	on
+poimenovani	mte:Appmsny	poimenovan
+park	mte:Ncmsan	park
+.	mte:Z	.
+Na	mte:Sa	na
+kratko	mte:Agpnsa	kratek
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+poročali	mte:Vmpp-pm	poročati
+,	mte:Z	,
+da	mte:Cs	da
+sin	mte:Ncmsn	sin
+Janeza	mte:Npmsg	Janez
+Drnovška	mte:Npmsg	Drnovšek
+,	mte:Z	,
+Jaša	mte:Npmsn	Jaša
+,	mte:Z	,
+vztraja	mte:Vmpr3s	vztrajati
+pri	mte:Sl	pri
+zahtevi	mte:Ncfsl	zahteva
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+kip	mte:Ncmsan	kip
+njegovega	mte:Ps3msgsm	njegov
+pokojnega	mte:Agpmsg	pokojen
+očeta	mte:Ncmsg	oče
+odstrani	mte:Vmer3s	odstraniti
+iz	mte:Sg	iz
+parka	mte:Ncmsg	park
+Občine	mte:Ncfsg	občina
+Zagorje	mte:Npnsn	Zagorje
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-fsa	ta
+zahtevo	mte:Ncfsa	zahteva
+je	mte:Va-r3s-n	biti
+prek	mte:Sg	prek
+odvetniške	mte:Agpfsg	odvetniški
+družbe	mte:Ncfsg	družba
+na	mte:Sa	na
+našo	mte:Ps1fsap	naš
+občino	mte:Ncfsa	občina
+poslal	mte:Vmep-sm	poslati
+že	mte:Q	že
+pred	mte:Si	pred
+nekaj	mte:Rgp	nekaj
+meseci	mte:Ncmpi	mesec
+,	mte:Z	,
+že	mte:Q	že
+takrat	mte:Rgp	takrat
+smo	mte:Va-r1p-n	biti
+mu	mte:Pp3msd--y	on
+odgovorili	mte:Vmep-pm	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+kipa	mte:Ncmsg	kipa
+ne	mte:Q	ne
+bomo	mte:Va-f1p-n	biti
+odstranili	mte:Vmep-pm	odstraniti
+,	mte:Z	,
+ravno	mte:Q	ravno
+tako	mte:Rgp	tako
+ne	mte:Q	ne
+bomo	mte:Va-f1p-n	biti
+preimenovali	mte:Vmpp-pm	preimenovati
+trga	mte:Ncmsg	trg
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Žurnal24	mte:Mdc	žurnal24
+povedal	mte:Vmep-sm	povedati
+župan	mte:Ncmsn	župan
+Občine	mte:Ncfsg	občina
+Zagorje	mte:Npnsn	Zagorje
+Matjaž	mte:Npmsn	Matjaž
+Švagan	mte:Npmsn	Švagan
+.	mte:Z	.
+Jaša	mte:Npmsn	Jaša
+Drnovšek	mte:Npmsn	Drnovšek
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+obrnil	mte:Vmep-sm	obrniti
+na	mte:Sa	na
+Okrajno	mte:Agpnsa	okrajen
+sodišče	mte:Ncnsa	sodišče
+v	mte:Sl	v
+Zagorju	mte:Npnsl	Zagorje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+njegovo	mte:Ps3fsasm	njegov
+zahtevo	mte:Ncfsa	zahteva
+posredovalo	mte:Vmbp-sn	posredovati
+občini	mte:Ncfsd	občina
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+mora	mte:Vmpr3s	morati
+na	mte:Sa	na
+zahteve	mte:Ncfpa	zahteva
+odgovoriti	mte:Vmen	odgovoriti
+oziroma	mte:Cc	oziroma
+svojo	mte:Px-fsa	svoj
+plat	mte:Ncfsa	plat
+predstaviti	mte:Vmen	predstaviti
+v	mte:Sl	v
+30	mte:Mdc	30
+dneh	mte:Ncmpl	dan
+.	mte:Z	.
+Poklicali	mte:Vmep-pm	poklicati
+smo	mte:Va-r1p-n	biti
+tudi	mte:Q	tudi
+odvetnico	mte:Ncfsa	odvetnica
+Jaše	mte:Npmsg	Jaša
+Drnovška	mte:Npmsg	Drnovšek
+,	mte:Z	,
+Uršo	mte:Npfsa	Urša
+Chitrakar	mte:Npfsa	Chitrakar
+:	mte:Z	:
+"	mte:Z	"
+Dokler	mte:Cs	dokler
+je	mte:Va-r3s-n	biti
+sodni	mte:Agpmsny	soden
+postopek	mte:Ncmsn	postopek
+v	mte:Sl	v
+teku	mte:Ncmsl	tek
+,	mte:Z	,
+ničesar	mte:Pz-nsg	nič
+ne	mte:Q	ne
+komentiram	mte:Vmbr1s	komentirati
+.	mte:Z	.
+"	mte:Z	"
+Pojasnila	mte:Vmep-sf	pojasniti
+pa	mte:Cc	pa
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+tožbi	mte:Ncfsl	tožba
+ne	mte:Q	ne
+zahtevajo	mte:Vmbr3p	zahtevati
+nikakršnega	mte:Pz-msg	nikakršen
+denarja	mte:Ncmsg	denar
+(	mte:Z	(
+10	mte:Mdc	10
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+,	mte:Z	,
+kot	mte:Cs	kot
+to	mte:Pd-nsa	ta
+napačno	mte:Rgp	napačen
+poročajo	mte:Vmpr3p	poročati
+nekateri	mte:Pi-mpn	nekateri
+mediji	mte:Ncmpn	medij
+.	mte:Z	.
+"	mte:Z	"
+Gre	mte:Vmbr3s	iti
+le	mte:Q	le
+za	mte:Sa	za
+ocenjen	mte:Appmsan	ocenjen
+strošek	mte:Ncmsan	strošek
+sodišča	mte:Ncnsg	sodišče
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+zahtevi	mte:Ncfsl	zahteva
+Jaša	mte:Npmsn	Jaša
+Drnovšek	mte:Npmsn	Drnovšek
+izpostavlja	mte:Vmpr3s	izpostavljati
+,	mte:Z	,
+da	mte:Cs	da
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+njegov	mte:Ps3msnsm	njegov
+oče	mte:Ncmsn	oče
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+želel	mte:Vmpp-sm	želeti
+biti	mte:Va-n	biti
+upodobljen	mte:Appmsnn	upodobljen
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+kipa	mte:Ncmsg	kipa
+,	mte:Z	,
+niti	mte:Q	niti
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+želel	mte:Vmpp-sm	želeti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+po	mte:Sl	po
+njem	mte:Pp3msl	on
+imenuje	mte:Vmbr3s	imenovati
+mestni	mte:Agpmsny	mesten
+park	mte:Ncmsn	park
+"	mte:Z	"
+.	mte:Z	.
+Med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+se	mte:Px------y	se
+Jaša	mte:Npmsn	Jaša
+Drnovšek	mte:Npmsn	Drnovšek
+sklicuje	mte:Vmpr3s	sklicevati
+tudi	mte:Q	tudi
+na	mte:Sa	na
+mnenje	mte:Ncnsa	mnenje
+predsednika	mte:Ncmsg	predsednik
+Danila	mte:Npmsg	Danila
+Türka	mte:Npmsg	Türk
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+stališče	mte:Ncnsa	stališče
+svojcev	mte:Ncmpg	svojec
+pokojnega	mte:Agpmsg	pokojen
+Drnovška	mte:Npmsg	Drnovšek
+že	mte:Q	že
+pred	mte:Si	pred
+meseci	mte:Ncmpi	mesec
+podprl	mte:Vmep-sm	podpreti
+,	mte:Z	,
+v	mte:Sl	v
+zahtevi	mte:Ncfsl	zahteva
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+izpostavljeno	mte:Appnsn	izpostavljen
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+stališče	mte:Ncnsa	stališče
+podprli	mte:Vmep-pm	podpreti
+tudi	mte:Q	tudi
+drugi	mte:Mlpmpn	drug
+predstavniki	mte:Ncmpn	predstavnik
+političnih	mte:Agpfpg	političen
+strank	mte:Ncfpg	stranka
+,	mte:Z	,
+kot	mte:Cs	kot
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+Gregor	mte:Npmsn	Gregor
+Golobič	mte:Npmsn	Golobič
+,	mte:Z	,
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+in	mte:Cc	in
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+.	mte:Z	.
+Kip	mte:Ncmsn	kip
+je	mte:Va-r3s-n	biti
+tam	mte:Rgp	tam
+,	mte:Z	,
+kamor	mte:Cs	kamor
+spada	mte:Vmpr3s	spadati
+"	mte:Z	"
+Mi	mte:Pp1-sd--y	jaz
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+takrat	mte:Rgp	takrat
+,	mte:Z	,
+ko	mte:Cs	ko
+smo	mte:Va-r1p-n	biti
+na	mte:Sa	na
+občino	mte:Ncfsa	občina
+prejeli	mte:Vmep-pm	prejeti
+zahtevo	mte:Ncfsa	zahteva
+,	mte:Z	,
+sprejeli	mte:Vmep-pm	sprejeti
+stališče	mte:Ncnsa	stališče
+,	mte:Z	,
+da	mte:Cs	da
+kipa	mte:Ncmsg	kipa
+ne	mte:Q	ne
+odstranimo	mte:Vmer1p	odstraniti
+.	mte:Z	.
+Zdaj	mte:Rgp	zdaj
+si	mte:Px---d--y	se
+bomo	mte:Va-f1p-n	biti
+vzeli	mte:Vmep-pm	vzeti
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+pripravili	mte:Vmep-pm	pripraviti
+dokumentacijo	mte:Ncfsa	dokumentacija
+in	mte:Cc	in
+v	mte:Sl	v
+podanem	mte:Appmsl	podan
+roku	mte:Ncmsl	rok
+poslali	mte:Vmep-pm	poslati
+odgovor	mte:Ncmsan	odgovor
+na	mte:Sa	na
+sodišče	mte:Ncnsa	sodišče
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+povedal	mte:Vmep-sm	povedati
+župan	mte:Ncmsn	župan
+Švagan	mte:Npmsn	Švagan
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+kipom	mte:Ncmsi	kip
+ne	mte:Q	ne
+posegajo	mte:Vmpr3p	posegati
+v	mte:Sa	v
+zasebno	mte:Agpnsa	zaseben
+življenje	mte:Ncnsa	življenje
+Drnovškovih	mte:Aspmpg	Drnovškov
+,	mte:Z	,
+pač	mte:Q	pač
+pa	mte:Cc	pa
+v	mte:Sa	v
+javno	mte:Agpnsa	javen
+življenje	mte:Ncnsa	življenje
+nekdanjega	mte:Agpmsg	nekdanji
+predsednika	mte:Ncmsg	predsednik
+.	mte:Z	.
+"	mte:Z	"
+Ne	mte:Q	ne
+nazadnje	mte:Rgp	nazadnje
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+častni	mte:Agpmsny	časten
+občan	mte:Ncmsn	občan
+Občine	mte:Ncfsg	občina
+Zagorje	mte:Npnsn	Zagorje
+,	mte:Z	,
+ta	mte:Pd-msn	ta
+naziv	mte:Ncmsn	naziv
+je	mte:Va-r3s-n	biti
+nosil	mte:Vmpp-sm	nositi
+.	mte:Z	.
+Ocenjujemo	mte:Vmpr1p	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+mesto	mte:Ncnsn	mesto
+kipa	mte:Ncmsg	kipa
+pravilno	mte:Agpnsn	pravilno
+,	mte:Z	,
+torej	mte:Rgp	torej
+med	mte:Si	med
+občani	mte:Ncmpi	občan
+Zagorja	mte:Npnsg	Zagorje
+.	mte:Z	.
+"	mte:Z	"
+Švagan	mte:Npmsn	Švagan
+nadaljuje	mte:Vmpr3s	nadaljevati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+že	mte:Q	že
+pred	mte:Si	pred
+"	mte:Z	"
+nekaj	mte:Rgp	nekaj
+meseci	mte:Ncmpi	mesec
+bilo	mte:Va-p-sn	biti
+veliko	mte:Rgp	veliko
+ogorčenja	mte:Ncnsg	ogorčenje
+,	mte:Z	,
+celo	mte:Q	celo
+solza	mte:Ncfsn	solza
+na	mte:Sa	na
+račun	mte:Ncmsan	račun
+tega	mte:Pd-nsg	ta
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+kip	mte:Ncmsn	kip
+odstranil	mte:Vmep-sm	odstraniti
+in	mte:Cc	in
+da	mte:Cs	da
+bi	mte:Va-c	biti
+park	mte:Ncmsan	park
+poimenovali	mte:Vmep-pm	poimenovati
+nazaj	mte:Rgp	nazaj
+v	mte:Sa	v
+Mestni	mte:Agpmsay	mesten
+park	mte:Ncmsan	park
+"	mte:Z	"
+.	mte:Z	.
+Prepričan	mte:Appmsnn	prepričan
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+večina	mte:Ncfsn	večina
+občanov	mte:Ncmpg	občan
+ogorčenih	mte:Appmpg	ogorčen
+in	mte:Cc	in
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+kip	mte:Ncmsn	kip
+in	mte:Cc	in
+ime	mte:Ncnsa	ime
+obdržita	mte:Vmer3d	obdržiti

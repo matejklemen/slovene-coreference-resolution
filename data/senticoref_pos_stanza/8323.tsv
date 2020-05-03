@@ -1,198 +1,207 @@
-token	tag
-Zunanji	Agpmsny
-minister	Ncmsn
-Rupel	Npmsn
-na	Sl
-Brdu	Npnsl
-pri	Sl
-Kranju	Npmsl
-gosti	Vmpr3p
-zunanje	Agpmpa
-ministre	Ncmpa
-Velike	Agpfsg
-Britanije	Npfsg
-,	Z
-Francije	Npfsg
-,	Z
-Nemčije	Npfsg
-in	Cc
-Italije	Npfsg
-.	Z
-Preučili	Vmep-pm
-naj	Q
-bi	Va-c
-najnovejši	Agsmsay
-razvoj	Ncmsan
-v	Sl
-razpravi	Ncfsl
-o	Sl
-Kosovu	Npnsl
-.	Z
-Sestanka	Ncmsg
-slovenskega	Agpnsg
-predsedstva	Ncnsg
-s	Si
-člani	Ncmpi
-kontaktne	Agpfsg
-skupine	Ncfsg
-iz	Sg
-EU	Npfsg
-se	Px------y
-bodo	Va-f3p-n
-udeležili	Vmep-pm
-zunanji	Agpmpn
-ministri	Ncmpn
-Velike	Agpfsg
-Britanije	Npfsg
-,	Z
-Francije	Npfsg
-,	Z
-Nemčije	Npfsg
-in	Cc
-Italije	Npfsg
-,	Z
-ki	Cs
-se	Px------y
-jim	Pp3mpd--y
-bosta	Va-f3d-n
-pridružila	Vmep-dm
-tudi	Q
-komisar	Ncmsn
-za	Sa
-širitev	Ncfsa
-Olli	Npmsn
-Rehn	Npmsn
-in	Cc
-visoki	Agpmsny
-zunanjepolitični	Agpmsny
-predstavnik	Ncmsn
-EU	Npfsg
-Javier	Npmsn
-Solana	Npmsn
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-z	Sg
-MZZ	Npfsi
-,	Z
-bo	Va-f3s-n
-slovenski	Agpmsny
-zunanji	Agpmsny
-minister	Ncmsn
-in	Cc
-predsedujoči	Appmsn
-Svetu	Ncmsl
-za	Sa
-splošne	Agpfpa
-zadeve	Ncfpa
-in	Cc
-zunanje	Agpmpa
-odnose	Ncmpa
-Dimitrij	Npmsn
-Rupel	Npmsn
-tako	Rgp
-gostil	Vmpp-sm
-zunanje	Agpmpa
-ministre	Ncmpa
-Velike	Agpfsg
-Britanije	Npfsg
-Davida	Npmsg
-Millibanda	Npmsg
-,	Z
-Francije	Npfsg
-Bernarda	Npmsg
-Kouchnerja	Npmsg
-,	Z
-Nemčije	Npfsg
-Franka	Npmsg
--	Z
-Walterja	Npmsg
-Steinmeierja	Npmsg
-in	Cc
-Italije	Npfsg
-Massima	Npmsg
-D'Alemo	Npmsg
-.	Z
-Srečanje	Ncnsn
-bo	Va-f3s-n
-potekalo	Vmpp-sn
-za	Si
-tesno	Rgp
-zaprtimi	Appnpi
-vrati	Ncnpi
-,	Z
-predvidena	Appmdn
-pa	Cc
-nista	Va-r3d-y
-niti	Q
-čas	Ncmsn
-za	Sa
-fotografiranje	Ncnsa
-niti	Q
-izjava	Ncfsn
-za	Sa
-javnost	Ncfsa
-.	Z
-Prebojnih	Agpfpg
-odločitev	Ncfpg
-ni	Va-r3s-y
-pričakovati	Vmpn
-Na	Sl
-srečanju	Ncnsl
-bodo	Va-f3p-n
-preučili	Vmep-pm
-najnovejši	Agsmsay
-razvoj	Ncmsan
-v	Sl
-razpravi	Ncfsl
-o	Sl
-Kosovu	Npnsl
-,	Z
-vendar	Cc
-prebojnih	Agpfpg
-odločitev	Ncfpg
-ni	Va-r3s-y
-pričakovati	Vmpn
-,	Z
-so	Va-r3p-n
-pred	Si
-dnevi	Ncmpi
-pojasnili	Vmep-pm
-diplomatski	Agpmpn
-viri	Ncmpn
-v	Sl
-Bruslju	Npmsl
-.	Z
-Po	Sl
-pričakovanjih	Ncnpl
-naj	Q
-bi	Va-c
-ministri	Ncmpn
-sicer	Q
-govorili	Vmpp-pm
-predvsem	Q
-o	Sl
-tem	Pd-nsl
-,	Z
-kdaj	Rgp
-naj	Q
-bi	Va-c
-se	Px------y
-EU	Npfsn
-odločila	Vmep-sf
-o	Sl
-napotitvi	Ncfsl
-svoje	Px-fsg
-civilne	Agpfsg
-misije	Ncfsg
-na	Sa
-Kosovo	Npnsa
-,	Z
-ki	Cs
-pa	Cc
-ji	Pp3fsd--y
-Beograd	Npmsn
-ostro	Rgp
-nasprotuje	Vmpr3s
-.	Z
+token	tag	lemma
+Zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Rupel	mte:Npmsn	Rupel
+na	mte:Sl	na
+Brdu	mte:Npnsl	Brd
+pri	mte:Sl	pri
+Kranju	mte:Npmsl	Kranj
+gosti	mte:Vmpr3p	gost
+zunanje	mte:Agpmpa	zunanji
+ministre	mte:Ncmpa	minister
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+,	mte:Z	,
+Francije	mte:Npfsg	Francija
+,	mte:Z	,
+Nemčije	mte:Npfsg	Nemčija
+in	mte:Cc	in
+Italije	mte:Npfsg	Italija
+.	mte:Z	.
+Preučili	mte:Vmep-pm	preučiti
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+najnovejši	mte:Agsmsay	nov
+razvoj	mte:Ncmsan	razvoj
+v	mte:Sl	v
+razpravi	mte:Ncfsl	razprava
+o	mte:Sl	o
+Kosovu	mte:Npnsl	Kosovo
+.	mte:Z	.
+Sestanka	mte:Ncmsg	sestanka
+slovenskega	mte:Agpnsg	slovenski
+predsedstva	mte:Ncnsg	predsedstvo
+s	mte:Si	z
+člani	mte:Ncmpi	član
+kontaktne	mte:Agpfsg	kontakten
+skupine	mte:Ncfsg	skupina
+iz	mte:Sg	iz
+EU	mte:Npfsg	EU
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+udeležili	mte:Vmep-pm	udeležiti
+zunanji	mte:Agpmpn	zunanji
+ministri	mte:Ncmpn	minister
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+,	mte:Z	,
+Francije	mte:Npfsg	Francija
+,	mte:Z	,
+Nemčije	mte:Npfsg	Nemčija
+in	mte:Cc	in
+Italije	mte:Npfsg	Italija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+bosta	mte:Va-f3d-n	biti
+pridružila	mte:Vmep-dm	pridružiti
+tudi	mte:Q	tudi
+komisar	mte:Ncmsn	komisar
+za	mte:Sa	za
+širitev	mte:Ncfsa	širitev
+Olli	mte:Npmsn	Olli
+Rehn	mte:Npmsn	Rehn
+in	mte:Cc	in
+visoki	mte:Agpmsny	visok
+zunanjepolitični	mte:Agpmsny	zunanjepolitičen
+predstavnik	mte:Ncmsn	predstavnik
+EU	mte:Npfsg	EU
+Javier	mte:Npmsn	Javier
+Solana	mte:Npmsn	Solana
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+z	mte:Sg	z
+MZZ	mte:Npfsi	MZZ
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+slovenski	mte:Agpmsny	slovenski
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+in	mte:Cc	in
+predsedujoči	mte:Appmsn	predsedujoč
+Svetu	mte:Ncmsl	svet
+za	mte:Sa	za
+splošne	mte:Agpfpa	splošen
+zadeve	mte:Ncfpa	zadeva
+in	mte:Cc	in
+zunanje	mte:Agpmpa	zunanji
+odnose	mte:Ncmpa	odnos
+Dimitrij	mte:Npmsn	Dimitrij
+Rupel	mte:Npmsn	Rupel
+tako	mte:Rgp	tako
+gostil	mte:Vmpp-sm	gostiti
+zunanje	mte:Agpmpa	zunanji
+ministre	mte:Ncmpa	minister
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+Davida	mte:Npmsg	David
+Millibanda	mte:Npmsg	Milliband
+,	mte:Z	,
+Francije	mte:Npfsg	Francija
+Bernarda	mte:Npmsg	Bernard
+Kouchnerja	mte:Npmsg	Kouchner
+,	mte:Z	,
+Nemčije	mte:Npfsg	Nemčija
+Franka	mte:Npmsg	Franko
+-	mte:Z	-
+Walterja	mte:Npmsg	Walter
+Steinmeierja	mte:Npmsg	Steinmeir
+in	mte:Cc	in
+Italije	mte:Npfsg	Italija
+Massima	mte:Npmsg	Massimo
+D'Alemo	mte:Npmsg	D'Alemo
+.	mte:Z	.
+Srečanje	mte:Ncnsn	srečanje
+bo	mte:Va-f3s-n	biti
+potekalo	mte:Vmpp-sn	potekati
+za	mte:Si	za
+tesno	mte:Rgp	tesno
+zaprtimi	mte:Appnpi	zaprt
+vrati	mte:Ncnpi	vrata
+,	mte:Z	,
+predvidena	mte:Appmdn	predviden
+pa	mte:Cc	pa
+nista	mte:Va-r3d-y	biti
+niti	mte:Q	niti
+čas	mte:Ncmsn	čas
+za	mte:Sa	za
+fotografiranje	mte:Ncnsa	fotografiranje
+niti	mte:Q	niti
+izjava	mte:Ncfsn	izjava
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+.	mte:Z	.
+Prebojnih	mte:Agpfpg	prebojen
+odločitev	mte:Ncfpg	odločitev
+ni	mte:Va-r3s-y	biti
+pričakovati	mte:Vmpn	pričakovati
+Na	mte:Sl	na
+srečanju	mte:Ncnsl	srečanje
+bodo	mte:Va-f3p-n	biti
+preučili	mte:Vmep-pm	preučiti
+najnovejši	mte:Agsmsay	nov
+razvoj	mte:Ncmsan	razvoj
+v	mte:Sl	v
+razpravi	mte:Ncfsl	razprava
+o	mte:Sl	o
+Kosovu	mte:Npnsl	Kosovo
+,	mte:Z	,
+vendar	mte:Cc	vendar
+prebojnih	mte:Agpfpg	prebojen
+odločitev	mte:Ncfpg	odločitev
+ni	mte:Va-r3s-y	biti
+pričakovati	mte:Vmpn	pričakovati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+pojasnili	mte:Vmep-pm	pojasniti
+diplomatski	mte:Agpmpn	diplomatski
+viri	mte:Ncmpn	vir
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+.	mte:Z	.
+Po	mte:Sl	po
+pričakovanjih	mte:Ncnpl	pričakovanje
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ministri	mte:Ncmpn	minister
+sicer	mte:Q	sicer
+govorili	mte:Vmpp-pm	govoriti
+predvsem	mte:Q	predvsem
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kdaj	mte:Rgp	kdaj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+EU	mte:Npfsn	EU
+odločila	mte:Vmep-sf	odločiti
+o	mte:Sl	o
+napotitvi	mte:Ncfsl	napotitev
+svoje	mte:Px-fsg	svoj
+civilne	mte:Agpfsg	civilen
+misije	mte:Ncfsg	misija
+na	mte:Sa	na
+Kosovo	mte:Npnsa	Kosovo
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+ji	mte:Pp3fsd--y	on
+Beograd	mte:Npmsn	Beograd
+ostro	mte:Rgp	ostro
+nasprotuje	mte:Vmpr3s	nasprotovati
+.	mte:Z	.
+Politično	mte:Agpfsa	političen
+odločitev	mte:Ncfsa	odločitev
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+Unija	mte:Ncfsn	unija
+sprejela	mte:Vmep-sf	sprejeti
+decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani

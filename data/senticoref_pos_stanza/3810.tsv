@@ -1,476 +1,495 @@
-token	tag
-Beograd	Npmsn
--	Z
-V	Sl
-srbskem	Agpmsl
-Nectarju	Npmsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-lastnik	Ncmsn
-ajdovskega	Agpmsg
-Fructala	Npmsg
-,	Z
-so	Va-r3p-n
-danes	Rgp
-zanikali	Vmep-pm
-poročanje	Ncnsa
-srbskih	Agpmpg
-medijev	Ncmpg
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-izvršni	Agpmsny
-direktor	Ncmsn
-Nectarja	Npmsg
-Bojan	Npmsn
-Radun	Npmsn
-v	Sa
-petek	Ncmsan
-napovedal	Vmep-sm
-selitev	Ncfsa
-dela	Ncnsg
-Fructalove	Aspfsg
-proizvodnje	Ncfsg
-v	Sa
-Srbijo	Npfsa
-.	Z
-Njegove	Ps3fpnsm
-besede	Ncfpn
-naj	Q
-bi	Va-c
-bile	Va-p-pf
-napačno	Rgp
-razumljene	Appfpn
-,	Z
-proizvodnjo	Ncfsa
-namreč	Cc
-želijo	Vmpr3p
-le	Q
-še	Q
-povečati	Vmen
-,	Z
-sta	Va-r3d-n
-poročala	Vmpp-dm
-POP	Npmsn
-TV	Npmsn
-in	Cc
-Radio	Npmsn
-Slovenija	Npfsn
-.	Z
-Radun	Npmsn
-je	Va-r3s-n
-za	Sa
-POP	Npmsa
-TV	Npmsn
-povedal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-proizvodi	Ncmpn
-za	Sa
-Nectarjeva	Aspnpa
-tržišča	Ncnpa
-ne	Q
-bodo	Va-f3p-n
-proizvajali	Vmpp-pm
-le	Q
-v	Sl
-Fructalovem	Aspmsl
-obratu	Ncmsl
-v	Sl
-Ajdovščini	Npfsl
-,	Z
-ampak	Cc
-tudi	Q
-drugod	Rgp
-,	Z
-in	Cc
-sicer	Q
-v	Sl
-Skopju	Npmsl
-in	Cc
-v	Sl
-Srbiji	Npfsl
-.	Z
-"	Z
-Za	Sa
-delavce	Ncmpa
-v	Sl
-Sloveniji	Npfsl
-to	Pd-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-mi	Pp1-sd--y
-od	Sg
-njih	Pp3mpg
-pričakujemo	Vmpr1p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-še	Q
-bolj	Rgc
-produktivni	Agpmpn
-in	Cc
-učinkoviti	Agpmpn
-,	Z
-kar	Pr-nsn
-zadeva	Vmpr3s
-proizvodnjo	Ncfsa
-.	Z
-Nihče	Pz-msn
-nima	Vmpr3s-y
-niti	Q
-enega	Mlpmsg
-razloga	Ncmsg
-,	Z
-da	Cs
-bi	Va-c
-ga	Pp3msa--y
-skrbelo	Vmpp-sn
-za	Sa
-njegovo	Ps3nsasm
-delovno	Agpnsa
-mesto	Ncnsa
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Radun	Npmsn
-.	Z
-Enako	Rgp
-je	Va-r3s-n
-poročal	Vmpp-sm
-tudi	Q
-Radio	Ncmsn
-Slovenija	Npfsn
-,	Z
-kjer	Cs
-so	Va-r3p-n
-navedli	Vmep-pm
-tudi	Q
-župana	Ncmsay
-Občine	Ncfsg
-Ajdovščina	Npfsn
-Marjana	Npmsg
-Poljška	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-zavrnil	Vmep-sm
-namige	Ncmpa
-o	Sl
-odpuščanjih	Ncnpl
-in	Cc
-potrdil	Vmep-sm
-,	Z
-da	Cs
-gre	Vmbr3s
-le	Q
-za	Sa
-širjenje	Ncnsa
-tradicionalnih	Agpmpg
-Fructalovih	Aspmpg
-proizvodov	Ncmpg
-.	Z
-Mediji	Ncmpn
-so	Va-r3p-n
-namreč	Cc
-poročali	Vmpp-pm
-,	Z
-da	Cs
-je	Va-r3s-n
-Radun	Npmsn
-na	Sl
-forumu	Ncmsl
-managerjev	Ncmpg
-v	Sl
-Beogradu	Npmsl
-v	Sa
-petek	Ncmsan
-zvečer	Rgp
-dejal	Vmep-sm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-zaradi	Sg
-ekonomskih	Agpmpg
-interesov	Ncmpg
-del	Ncmsn
-Fructalove	Aspfsg
-proizvodnje	Ncfsg
-iz	Sg
-Slovenije	Npfsg
-prenesli	Vmep-pm
-v	Sa
-Srbijo	Npfsa
-.	Z
-Med	Si
-razlogi	Ncmpi
-za	Sa
-selitev	Ncfsa
-dela	Ncmsg
-proizvodnje	Ncfsg
-iz	Sg
-Slovenije	Npfsg
-v	Sa
-Srbijo	Npfsa
-je	Va-r3s-n
-prvi	Mlomsn
-mož	Ncmsn
-Nectarja	Npmsg
-naštel	Vmep-sm
-ugodnejše	Agcfpa
-carinske	Agpfpa
-dajatve	Ncfpa
-na	Sa
-izvoz	Ncmsan
-ter	Cc
-nižje	Agcmpa
-stroške	Ncmpa
-proizvodnje	Ncfsg
-in	Cc
-cenejše	Agcfpa
-surovine	Ncfpa
-,	Z
-je	Va-r3s-n
-poročala	Vmpp-sf
-srbska	Agpfsn
-tiskovna	Agpfsn
-agencija	Ncfsn
-Tanjug	Npnsn
-.	Z
-Tanjug	Npnsn
-je	Va-r3s-n
-nato	Rgp
-danes	Rgp
-popoldne	Rgp
-poročal	Vmpp-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-iz	Sg
-Nectarja	Npmsg
-sporočili	Vmep-pm
-,	Z
-da	Cs
-načrtujejo	Vmpr3p
-več	Rgc
-aktivnosti	Ncfpg
-,	Z
-prek	Sg
-katerih	Pq-mpg
-bi	Va-c
-se	Px------y
-Fructal	Npmsn
-vrnil	Vmep-sm
-na	Sa
-vsa	Pg-npa
-regionalna	Agpnpa
-tržišča	Ncnpa
-,	Z
-na	Sl
-katerih	Pq-mpl
-v	Sl
-zadnjem	Agpnsl
-obdobju	Ncnsl
-ni	Va-r3s-y
-bil	Va-p-sm
-dovolj	Rgp
-prisoten	Agpmsnn
-.	Z
-Proizvodnja	Ncfsn
-bo	Va-f3s-n
-zaradi	Sg
-širjenja	Ncnsg
-Fructala	Npmsg
-in	Cc
-nadaljnjega	Agpnsg
-vlaganja	Ncnsg
-v	Sa
-njegov	Ps3msasm
-razvoj	Ncmsan
-potekala	Vmpp-sf
-na	Sl
-treh	Mlcfpl
-lokacijah	Ncfpl
-,	Z
-v	Sl
-Sloveniji	Npfsl
-,	Z
-Makedoniji	Npfsl
-in	Cc
-v	Sl
-Srbiji	Npfsl
-,	Z
-je	Va-r3s-n
-poročal	Vmpp-sm
-Tanjug	Npnsn
-.	Z
-Spomnimo	Vmer1p
-:	Z
-Decembra	Ncmsg
-lani	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-Nectar	Npmsn
-postal	Vmep-sm
-lastnik	Ncmsn
-Fructala	Npmsg
-,	Z
-so	Va-r3p-n
-v	Sl
-srbski	Agpfsl
-družbi	Ncfsl
-dejali	Vmep-pm
-,	Z
-da	Cs
-poleg	Sg
-ohranitve	Ncfsg
-proizvodnje	Ncfsg
-načrtujejo	Vmpr3p
-dodatna	Agpnpa
-vlaganja	Ncnpa
-v	Sa
-razvoj	Ncmsan
-sadjarstva	Ncnsg
-in	Cc
-lokalnih	Agpmpg
-pridelovalcev	Ncmpg
-sadja	Ncnsg
-v	Sl
-Vipavski	Agpfsl
-dolini	Ncfsl
-.	Z
-Nectar	Npmsn
-pa	Cc
-je	Va-r3s-n
-z	Si
-ajdovsko	Agpfsi
-občino	Ncfsi
-tudi	Q
-sklenil	Vmep-sm
-sporazum	Ncmsan
-,	Z
-v	Sl
-katerem	Pq-msl
-se	Px------y
-je	Va-r3s-n
-zavezal	Vmpp-sm
-,	Z
-da	Cs
-zaposlenih	Appmpg
-v	Sl
-Fructalu	Npmsl
--	Z
-teh	Pd-mpg
-je	Va-r3s-n
-okoli	Rgp
-370	Mdc
--	Z
-ne	Q
-bo	Va-f3s-n
-odpuščal	Vmpp-sm
-.	Z
-Petkovega	Aspmsg
-foruma	Ncmsg
-menedžerjev	Ncmpg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-v	Sl
-Beogradu	Npmsl
-pripravilo	Vmep-sn
-srbsko	Agpnsn
-združenje	Ncnsn
-menedžerjev	Ncmpg
-,	Z
-se	Px------y
-je	Va-r3s-n
-udeležil	Vmep-sm
-tudi	Q
-predsednik	Ncmsn
-uprave	Ncfsg
-Gorenja	Npnsg
-Franjo	Npmsn
-Bobinac	Npmsn
-.	Z
-Ta	Pd-msn
-je	Va-r3s-n
-zbranim	Appmpd
-po	Sl
-poročanju	Ncnsl
-Tanjuga	Npnsg
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-Gorenje	Npnsn
-resno	Rgp
-razmišlja	Vmpr3s
-o	Sl
-širitvi	Ncfsl
-naložbe	Ncfsg
-v	Sl
-Valjevu	Npmsl
-in	Cc
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-število	Ncnsn
-zaposlenih	Appmpg
-v	Sl
-srbskih	Agpmpl
-obratih	Ncmpl
-Gorenja	Npnsg
-od	Sg
-sredine	Ncfsg
-leta	Ncnsg
-povečevalo	Vmpp-sn
-,	Z
-s	Sg
-sedanjih	Agpmpg
-1100	Mdc
-na	Sa
-verjetno	Rgp
-več	Rgc
-kot	Cs
-1500	Mdc
-.	Z
-Gorenje	Npnsn
-je	Va-r3s-n
-po	Sl
-navedbah	Ncfpl
-prvega	Mlomsg
-moža	Ncmsg
-velenjske	Agpfsg
-družbe	Ncfsg
-v	Sl
-preteklih	Appnpl
-šestih	Mlc-pl
-,	Z
-sedmih	Mlc-pl
-letih	Ncnpl
-v	Sa
-tri	Mlcfpa
-tovarne	Ncfpa
-v	Sl
-Srbiji	Npfsl
--	Z
-v	Sl
-Valjevu	Npmsl
-,	Z
-Stari	Agpfsl
-Pazovi	Npmsl
-in	Cc
-Zaječarju	Ncmsl
--	Z
-investiralo	Vmbp-sn
-okoli	Rgp
-70	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Beograd	mte:Npmsn	Beograd
+-	mte:Z	-
+V	mte:Sl	v
+srbskem	mte:Agpmsl	srbski
+Nectarju	mte:Npmsl	Nectar
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+lastnik	mte:Ncmsn	lastnik
+ajdovskega	mte:Agpmsg	ajdovski
+Fructala	mte:Npmsg	Fructal
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+zanikali	mte:Vmep-pm	zanikati
+poročanje	mte:Ncnsa	poročanje
+srbskih	mte:Agpmpg	srbski
+medijev	mte:Ncmpg	medij
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+Nectarja	mte:Npmsg	Nectar
+Bojan	mte:Npmsn	Bojan
+Radun	mte:Npmsn	Radun
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+napovedal	mte:Vmep-sm	napovedati
+selitev	mte:Ncfsa	selitev
+dela	mte:Ncnsg	delo
+Fructalove	mte:Aspfsg	Fructalov
+proizvodnje	mte:Ncfsg	proizvodnja
+v	mte:Sa	v
+Srbijo	mte:Npfsa	Srbija
+.	mte:Z	.
+Njegove	mte:Ps3fpnsm	njegov
+besede	mte:Ncfpn	beseda
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+napačno	mte:Rgp	napačen
+razumljene	mte:Appfpn	razumljen
+,	mte:Z	,
+proizvodnjo	mte:Ncfsa	proizvodnja
+namreč	mte:Cc	namreč
+želijo	mte:Vmpr3p	želeti
+le	mte:Q	le
+še	mte:Q	še
+povečati	mte:Vmen	povečati
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+poročala	mte:Vmpp-dm	poročati
+POP	mte:Npmsn	POP
+TV	mte:Npmsn	TV
+in	mte:Cc	in
+Radio	mte:Npmsn	Radia
+Slovenija	mte:Npfsn	Slovenija
+.	mte:Z	.
+Radun	mte:Npmsn	Radun
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+POP	mte:Npmsa	POP
+TV	mte:Npmsn	TV
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+proizvodi	mte:Ncmpn	proizvod
+za	mte:Sa	za
+Nectarjeva	mte:Aspnpa	Nectarjev
+tržišča	mte:Ncnpa	tržišče
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+proizvajali	mte:Vmpp-pm	proizvajati
+le	mte:Q	le
+v	mte:Sl	v
+Fructalovem	mte:Aspmsl	Fructalov
+obratu	mte:Ncmsl	obrat
+v	mte:Sl	v
+Ajdovščini	mte:Npfsl	Ajdovščina
+,	mte:Z	,
+ampak	mte:Cc	ampak
+tudi	mte:Q	tudi
+drugod	mte:Rgp	drugod
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+Skopju	mte:Npmsl	Skopje
+in	mte:Cc	in
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+.	mte:Z	.
+"	mte:Z	"
+Za	mte:Sa	za
+delavce	mte:Ncmpa	delavec
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+to	mte:Pd-nsn	ta
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+mi	mte:Pp1-sd--y	jaz
+od	mte:Sg	od
+njih	mte:Pp3mpg	on
+pričakujemo	mte:Vmpr1p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+še	mte:Q	še
+bolj	mte:Rgc	bolj
+produktivni	mte:Agpmpn	produktiven
+in	mte:Cc	in
+učinkoviti	mte:Agpmpn	učinkovit
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+zadeva	mte:Vmpr3s	zadevati
+proizvodnjo	mte:Ncfsa	proizvodnja
+.	mte:Z	.
+Nihče	mte:Pz-msn	nihče
+nima	mte:Vmpr3s-y	imeti
+niti	mte:Q	niti
+enega	mte:Mlpmsg	en
+razloga	mte:Ncmsg	razlog
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+skrbelo	mte:Vmpp-sn	skrbeti
+za	mte:Sa	za
+njegovo	mte:Ps3nsasm	njegov
+delovno	mte:Agpnsa	deloven
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Radun	mte:Npmsn	Radun
+.	mte:Z	.
+Enako	mte:Rgp	enako
+je	mte:Va-r3s-n	biti
+poročal	mte:Vmpp-sm	poročati
+tudi	mte:Q	tudi
+Radio	mte:Ncmsn	radio
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+navedli	mte:Vmep-pm	navesti
+tudi	mte:Q	tudi
+župana	mte:Ncmsay	župan
+Občine	mte:Ncfsg	občina
+Ajdovščina	mte:Npfsn	Ajdovščina
+Marjana	mte:Npmsg	Marjan
+Poljška	mte:Npmsg	Poljška
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zavrnil	mte:Vmep-sm	zavrniti
+namige	mte:Ncmpa	namig
+o	mte:Sl	o
+odpuščanjih	mte:Ncnpl	odpuščanje
+in	mte:Cc	in
+potrdil	mte:Vmep-sm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+le	mte:Q	le
+za	mte:Sa	za
+širjenje	mte:Ncnsa	širjenje
+tradicionalnih	mte:Agpmpg	tradicionalen
+Fructalovih	mte:Aspmpg	Fructalov
+proizvodov	mte:Ncmpg	proizvod
+.	mte:Z	.
+Mediji	mte:Ncmpn	medij
+so	mte:Va-r3p-n	biti
+namreč	mte:Cc	namreč
+poročali	mte:Vmpp-pm	poročati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Radun	mte:Npmsn	Radun
+na	mte:Sl	na
+forumu	mte:Ncmsl	forum
+managerjev	mte:Ncmpg	manager
+v	mte:Sl	v
+Beogradu	mte:Npmsl	Beograd
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+zvečer	mte:Rgp	zvečer
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+zaradi	mte:Sg	zaradi
+ekonomskih	mte:Agpmpg	ekonomski
+interesov	mte:Ncmpg	interes
+del	mte:Ncmsn	del
+Fructalove	mte:Aspfsg	Fructalov
+proizvodnje	mte:Ncfsg	proizvodnja
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+prenesli	mte:Vmep-pm	prenesti
+v	mte:Sa	v
+Srbijo	mte:Npfsa	Srbija
+.	mte:Z	.
+Med	mte:Si	med
+razlogi	mte:Ncmpi	razlog
+za	mte:Sa	za
+selitev	mte:Ncfsa	selitev
+dela	mte:Ncmsg	delo
+proizvodnje	mte:Ncfsg	proizvodnja
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sa	v
+Srbijo	mte:Npfsa	Srbija
+je	mte:Va-r3s-n	biti
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Nectarja	mte:Npmsg	Nectar
+naštel	mte:Vmep-sm	našti
+ugodnejše	mte:Agcfpa	ugoden
+carinske	mte:Agpfpa	carinski
+dajatve	mte:Ncfpa	dajatev
+na	mte:Sa	na
+izvoz	mte:Ncmsan	izvoz
+ter	mte:Cc	ter
+nižje	mte:Agcmpa	nizek
+stroške	mte:Ncmpa	strošek
+proizvodnje	mte:Ncfsg	proizvodnja
+in	mte:Cc	in
+cenejše	mte:Agcfpa	poceni
+surovine	mte:Ncfpa	surovina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročala	mte:Vmpp-sf	poročati
+srbska	mte:Agpfsn	srbski
+tiskovna	mte:Agpfsn	tiskoven
+agencija	mte:Ncfsn	agencija
+Tanjug	mte:Npnsn	Tanjug
+.	mte:Z	.
+Tanjug	mte:Npnsn	Tanjug
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+danes	mte:Rgp	danes
+popoldne	mte:Rgp	popoldne
+poročal	mte:Vmpp-sm	poročati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+iz	mte:Sg	iz
+Nectarja	mte:Npmsg	Nectar
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+načrtujejo	mte:Vmpr3p	načrtovati
+več	mte:Rgc	več
+aktivnosti	mte:Ncfpg	aktivnost
+,	mte:Z	,
+prek	mte:Sg	prek
+katerih	mte:Pq-mpg	kateri
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+Fructal	mte:Npmsn	Fructal
+vrnil	mte:Vmep-sm	vrniti
+na	mte:Sa	na
+vsa	mte:Pg-npa	ves
+regionalna	mte:Agpnpa	regionalen
+tržišča	mte:Ncnpa	tržišče
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-mpl	kateri
+v	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+obdobju	mte:Ncnsl	obdobje
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+dovolj	mte:Rgp	dovolj
+prisoten	mte:Agpmsnn	prisoten
+.	mte:Z	.
+Proizvodnja	mte:Ncfsn	proizvodnja
+bo	mte:Va-f3s-n	biti
+zaradi	mte:Sg	zaradi
+širjenja	mte:Ncnsg	širjenje
+Fructala	mte:Npmsg	Fructal
+in	mte:Cc	in
+nadaljnjega	mte:Agpnsg	nadaljnji
+vlaganja	mte:Ncnsg	vlaganje
+v	mte:Sa	v
+njegov	mte:Ps3msasm	njegov
+razvoj	mte:Ncmsan	razvoj
+potekala	mte:Vmpp-sf	potekati
+na	mte:Sl	na
+treh	mte:Mlcfpl	trije
+lokacijah	mte:Ncfpl	lokacija
+,	mte:Z	,
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+Makedoniji	mte:Npfsl	Makedonija
+in	mte:Cc	in
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročal	mte:Vmpp-sm	poročati
+Tanjug	mte:Npnsn	Tanjug
+.	mte:Z	.
+Spomnimo	mte:Vmer1p	spomniti
+:	mte:Z	:
+Decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Nectar	mte:Npmsn	Nectar
+postal	mte:Vmep-sm	postati
+lastnik	mte:Ncmsn	lastnik
+Fructala	mte:Npmsg	Fructal
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+srbski	mte:Agpfsl	srbski
+družbi	mte:Ncfsl	družba
+dejali	mte:Vmep-pm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+poleg	mte:Sg	poleg
+ohranitve	mte:Ncfsg	ohranitev
+proizvodnje	mte:Ncfsg	proizvodnja
+načrtujejo	mte:Vmpr3p	načrtovati
+dodatna	mte:Agpnpa	dodaten
+vlaganja	mte:Ncnpa	vlaganje
+v	mte:Sa	v
+razvoj	mte:Ncmsan	razvoj
+sadjarstva	mte:Ncnsg	sadjarstvo
+in	mte:Cc	in
+lokalnih	mte:Agpmpg	lokalen
+pridelovalcev	mte:Ncmpg	pridelovalec
+sadja	mte:Ncnsg	sadje
+v	mte:Sl	v
+Vipavski	mte:Agpfsl	vipavski
+dolini	mte:Ncfsl	dolina
+.	mte:Z	.
+Nectar	mte:Npmsn	Nectar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+ajdovsko	mte:Agpfsi	ajdovski
+občino	mte:Ncfsi	občina
+tudi	mte:Q	tudi
+sklenil	mte:Vmep-sm	skleniti
+sporazum	mte:Ncmsan	sporazum
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zavezal	mte:Vmpp-sm	zavezati
+,	mte:Z	,
+da	mte:Cs	da
+zaposlenih	mte:Appmpg	zaposlen
+v	mte:Sl	v
+Fructalu	mte:Npmsl	Fructal
+-	mte:Z	-
+teh	mte:Pd-mpg	ta
+je	mte:Va-r3s-n	biti
+okoli	mte:Rgp	okoli
+370	mte:Mdc	370
+-	mte:Z	-
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+odpuščal	mte:Vmpp-sm	odpuščati
+.	mte:Z	.
+Petkovega	mte:Aspmsg	Petkov
+foruma	mte:Ncmsg	forum
+menedžerjev	mte:Ncmpg	menedžer
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Beogradu	mte:Npmsl	Beograd
+pripravilo	mte:Vmep-sn	pripraviti
+srbsko	mte:Agpnsn	srbski
+združenje	mte:Ncnsn	združenje
+menedžerjev	mte:Ncmpg	menedžer
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+udeležil	mte:Vmep-sm	udeležiti
+tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Gorenja	mte:Npnsg	gorenje
+Franjo	mte:Npmsn	Franjo
+Bobinac	mte:Npmsn	Bobinac
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+zbranim	mte:Appmpd	zbran
+po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+Tanjuga	mte:Npnsg	Tanjuga
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+Gorenje	mte:Npnsn	Gorenje
+resno	mte:Rgp	resno
+razmišlja	mte:Vmpr3s	razmišljati
+o	mte:Sl	o
+širitvi	mte:Ncfsl	širitev
+naložbe	mte:Ncfsg	naložba
+v	mte:Sl	v
+Valjevu	mte:Npmsl	Valjav
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+število	mte:Ncnsn	število
+zaposlenih	mte:Appmpg	zaposlen
+v	mte:Sl	v
+srbskih	mte:Agpmpl	srbski
+obratih	mte:Ncmpl	obrat
+Gorenja	mte:Npnsg	gorenje
+od	mte:Sg	od
+sredine	mte:Ncfsg	sredina
+leta	mte:Ncnsg	leto
+povečevalo	mte:Vmpp-sn	povečevati
+,	mte:Z	,
+s	mte:Sg	z
+sedanjih	mte:Agpmpg	sedanji
+1100	mte:Mdc	1100
+na	mte:Sa	na
+verjetno	mte:Rgp	verjetno
+več	mte:Rgc	več
+kot	mte:Cs	kot
+1500	mte:Mdc	1500
+.	mte:Z	.
+Gorenje	mte:Npnsn	Gorenje
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+velenjske	mte:Agpfsg	velenjski
+družbe	mte:Ncfsg	družba
+v	mte:Sl	v
+preteklih	mte:Appnpl	pretekel
+šestih	mte:Mlc-pl	šest
+,	mte:Z	,
+sedmih	mte:Mlc-pl	sedem
+letih	mte:Ncnpl	leto
+v	mte:Sa	v
+tri	mte:Mlcfpa	trije
+tovarne	mte:Ncfpa	tovarna
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+-	mte:Z	-
+v	mte:Sl	v
+Valjevu	mte:Npmsl	Valjav
+,	mte:Z	,
+Stari	mte:Agpfsl	star
+Pazovi	mte:Npmsl	Pazova
+in	mte:Cc	in
+Zaječarju	mte:Ncmsl	zaječar
+-	mte:Z	-
+investiralo	mte:Vmbp-sn	investirati
+okoli	mte:Rgp	okoli
+70	mte:Mdc	70
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Srbija	mte:Npfsn	Srbija
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+so	mte:Va-r3p-n	biti
+tuje	mte:Agpfpn	tuj
+investicije	mte:Ncfpn	investicija
+dobrodošle	mte:Agpfpn	dobrodošel
+,	mte:Z	,
+namreč	mte:Cc	namreč
+tujim	mte:Agpmpd	tuj
+vlagateljem	mte:Ncmpd	vlagatelj
+omogoča	mte:Vmpr3s	omogočati
+spodbude	mte:Ncfpa	spodbuda
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pojasnil	mte:Vmep-sm	pojasniti
+Bobinac	mte:Npmsn	Bobinac

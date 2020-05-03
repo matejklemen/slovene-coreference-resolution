@@ -1,447 +1,453 @@
-token	tag
-Oslabljeno	Appfsa
-vlado	Ncfsa
-,	Z
-v	Sa
-kateri	Pq-fsl
-družbo	Ncfsa
-SDS	Npfsg
-Janeza	Npmsg
-Janše	Npfsg
-dela	Ncmsg
-le	Q
-NSi	Npfsn
-,	Z
-po	Sl
-dobrem	Agpnsl
-letu	Ncnsl
-dela	Ncnsg
-čaka	Vmpr3s
-glasovanje	Ncnsa
-o	Sl
-nezaupnici	Ncfsl
-.	Z
-Vlada	Ncfsn
-Janeza	Npmsg
-Janše	Npfsg
-je	Va-r3s-n
-prvo	Mlofsa
-obletnico	Ncfsa
-10	Mdc
-.	Z
-februarja	Ncmsg
-dočakala	Vmep-sf
-oslabljena	Appfsn
-.	Z
-Najprej	Rgs
-sta	Va-r3d-n
-odšla	Vmep-dm
-Državljanska	Agpmdn
-lista	Ncmdn
-(	Z
-DL	Npmsn
-)	Z
-in	Cc
-z	Si
-njo	Pp3fsi
-dva	Mlcmdn
-ministra	Ncmdn
-,	Z
-Janez	Npmsn
-Šušteršič	Npmsn
-in	Cc
-Senko	Npfsn
-Pličanič	Npmsn
-.	Z
-Dvaindvajsetega	Mlomsg
-februarja	Ncmsg
-sta	Va-r3d-n
-vlado	Ncfsa
-zapustila	Vmep-dm
-Karl	Npmsn
-Erjavec	Npmsn
-in	Cc
-Tomaž	Npmsn
-Gantar	Npmsn
-iz	Sg
-DeSUS	Npmsn
-,	Z
-nazadnje	Rgp
-pa	Cc
-še	Q
-Franc	Npmsn
-Bogovič	Npmsn
-in	Cc
-Radovan	Npmsn
-Žerjav	Npmsn
-iz	Sg
-SLS	Npfsg
-.	Z
-Janša	Npmsn
-in	Cc
-SDS	Npmsn
-sta	Va-r3d-n
-ostala	Vmep-dm
-sama	Agpmdn
-z	Si
-NSi	Npfsi
-in	Cc
-edino	Agpfsi
-ministrico	Ncfsi
-Ljudmilo	Npfsi
-Novak	Npfsi
-.	Z
-Navzven	Rgp
-je	Va-r3s-n
-delovala	Vmpp-sm
-trdno	Rgp
-vse	Pg-nsa
-do	Sg
-poročila	Ncnsg
-Komisije	Ncfsg
-za	Sa
-preprečevanje	Ncnsa
-korupcije	Ncfsg
-,	Z
-ko	Cs
-se	Px------y
-je	Va-r3s-n
-konflikt	Ncmsn
-zaostril	Vmep-sm
-predvsem	Q
-med	Si
-Janšo	Npfsi
-in	Cc
-predsednikom	Ncmsi
-DL	Npmsn
-Gregorjem	Npmsi
-Virantom	Npmsi
-.	Z
-Namesto	Sg
-15	Mdc
-le	Q
-11	Mdc
-ministrov	Ncmpg
-Delo	Ncnsn
-Janševe	Aspfsg
-vlade	Ncfsg
-je	Va-r3s-n
-bilo	Va-p-sn
-usmerjeno	Appnsn
-predvsem	Q
-v	Sa
-uravnoteženje	Ncnsa
-javnih	Agpfpg
-financ	Ncfpg
-in	Cc
-reforme	Ncfpa
-.	Z
-Na	Sl
-gospodarskem	Agpnsl
-področju	Ncnsl
-se	Px------y
-je	Va-r3s-n
-veliko	Rgp
-ukvarjala	Vmpp-sf
-s	Si
-sanacijo	Ncfsi
-bank	Ncfpg
-,	Z
-na	Sl
-zunanjepolitičnem	Agpmsl
-pa	Cc
-s	Si
-Hrvaško	Npfsi
-.	Z
-Že	Q
-pred	Si
-imenovanjem	Ncnsi
-vlade	Ncfsg
-je	Va-r3s-n
-nova	Agpfsn
-koalicija	Ncfsn
-spremenila	Vmep-sf
-zakon	Ncmsan
-o	Sl
-vladi	Ncfsl
-,	Z
-s	Si
-čimer	Pr-nsi
-je	Va-r3s-n
-število	Ncnsa
-ministrstev	Ncnpg
-s	Si
-15	Mdc
-znižala	Vmep-sf
-na	Sa
-11	Mdc
-,	Z
-število	Ncnsa
-ministrov	Ncmpg
-brez	Sg
-resorja	Ncmsg
-pa	Cc
-s	Sg
-tri	Mlcfpa
-na	Sa
-enega	Mlpmsa
-.	Z
-Varčevanje	Ncnsa
-in	Cc
-stavka	Ncfsn
-Varčevanja	Ncnsg
-se	Px------y
-je	Va-r3s-n
-lotila	Vmep-sf
-z	Si
-zakonom	Ncmsi
-za	Sa
-uravnoteženje	Ncnsa
-javnih	Agpfpg
-financ	Ncfpg
-,	Z
-ki	Cs
-je	Va-r3s-n
-predvideval	Vmpp-sm
-znižanje	Ncnsa
-izdatkov	Ncmpg
-za	Sa
-javni	Agpmsay
-sektor	Ncmsan
-,	Z
-ukinitev	Ncfsa
-nekaterih	Pi-fpg
-pravic	Ncfpg
-iz	Sg
-pokojnin	Ncfpg
-in	Cc
-socialne	Agpfsg
-zakonodaje	Ncfsg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-zadela	Vmep-sf
-ob	Sa
-interese	Ncmpa
-sindikatov	Ncmpg
-.	Z
-"	Z
-V	Sl
-imenu	Ncnsl
-fiskalnih	Agpmpg
-ciljev	Ncmpg
-sta	Va-r3d-n
-bili	Va-p-df
-žrtvovani	Appfdn
-ekonomska	Agpfsn
-in	Cc
-socialna	Agpfsn
-slika	Ncfsn
-države	Ncfsg
-,	Z
-"	Z
-so	Va-r3p-n
-ob	Sl
-obletnici	Ncfsl
-delovanja	Ncnsg
-sindikatov	Ncmpg
-zapisali	Vmep-pm
-v	Sl
-ZSSS	Npfsl
-.	Z
-Sindikati	Ncmpn
-so	Va-r3p-n
-aprila	Ncmsg
-pripravili	Vmep-pm
-stavko	Ncfsa
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-je	Va-r3s-n
-po	Sl
-ocenah	Ncfpl
-organizatorjev	Ncmpg
-udeležilo	Vmep-sn
-okoli	Rgp
-sto	Mlc-pa
-tisoč	Mlc-pa
-javnih	Agpmpg
-uslužbencev	Ncmpg
-.	Z
-Strukturne	Agpfsg
-reforme	Ncfsg
-V	Sl
-drugi	Mlpfsl
-polovici	Ncfsl
-leta	Ncnsg
-2011	Mdc
-se	Px------y
-je	Va-r3s-n
-vlada	Ncfsn
-lotila	Vmep-sf
-priprave	Ncfpa
-strukturnih	Agpfpg
-reform	Ncfpg
-.	Z
-Kot	Cs
-dve	Mlcfdn
-glavni	Agpfdn
-je	Va-r3s-n
-izpostavila	Vmep-sf
-pokojninsko	Agpfsa
-reformo	Ncfsa
-in	Cc
-reformo	Ncfsa
-trga	Ncmsg
-dela	Ncnsg
-.	Z
-Prvo	Mlofsa
-je	Va-r3s-n
-sprejela	Vmep-sf
-,	Z
-pogajanja	Ncnpn
-za	Sa
-drugo	Mlpfsa
-pa	Cc
-še	Q
-potekajo	Vmpr3p
-.	Z
-Si	Px---d--y
-je	Va-r3s-n
-pa	Cc
-vlada	Ncfsn
-novo	Agpfsa
-fronto	Ncfsa
-s	Si
-sindikati	Ncmpi
-odprla	Vmep-sf
-s	Si
-predlogom	Ncmsi
-proračuna	Ncmsg
-za	Sa
-leto	Ncnsa
-2013	Mdc
-,	Z
-ki	Cs
-je	Va-r3s-n
-predvideval	Vmpp-sm
-petodstotno	Agpnsa
-znižanje	Ncnsa
-mase	Ncfsg
-plač	Ncfpg
-v	Sl
-javnem	Agpmsl
-sektorju	Ncmsl
-.	Z
-Pogajanja	Ncnpa
-,	Z
-povezana	Appfsn
-z	Si
-znižanjem	Ncnsi
-mase	Ncfsg
-plač	Ncfpg
-,	Z
-so	Va-r3p-n
-bila	Va-p-pn
-neuspešna	Agpnpn
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-so	Va-r3p-n
-sindikati	Ncmpn
-javnega	Agpmsg
-sektorja	Ncmsg
-23	Mdc
-.	Z
-januarja	Ncmsg
-pripravili	Vmep-pm
-še	Q
-eno	Mlpfsa
-enodnevno	Agpfsa
-stavko	Ncfsa
-.	Z
-Še	Q
-vedno	Rgp
-stavkajo	Vmpr3p
-policisti	Ncmpn
-.	Z
-Slaba	Agpfsn
-banka	Ncfsn
-in	Cc
-SDH	Npmsn
-Niti	Cc
-zakon	Ncmsn
-o	Sl
-Slovenskem	Agpmsl
-državnem	Agpmsl
-holdingu	Ncmsl
-niti	Q
-zakon	Ncmsn
-o	Sl
-slabi	Agpfsl
-banki	Ncfsl
-doslej	Rgp
-še	Q
-nista	Va-r3d-y
-uspela	Vmep-dm
-zaživeti	Vmen
-,	Z
-kot	Cs
-si	Px---d--y
-je	Va-r3s-n
-zamislila	Vmep-sf
-vlada	Ncfsn
-.	Z
-S	Si
-sanacijo	Ncfsi
-bančnega	Agpmsg
-sektorja	Ncmsg
-se	Px------y
-je	Va-r3s-n
-zaenkrat	Rgp
-ukvarjala	Vmpp-sf
-brez	Sg
-večjih	Agcmpg
-uspehov	Ncmpg
-.	Z
-Največjima	Agsfdi
-državnima	Agpfdi
-bankama	Ncfdi
-je	Va-r3s-n
-priskočila	Vmep-sf
-na	Sa
-pomoč	Ncfsa
-s	Si
-hibridnim	Agpnsi
-posojilom	Ncnsi
-.	Z
-Pomoč	Ncfsa
-gospodarstvu	Ncnsd
-Gospodarstvu	Ncnsd
-je	Va-r3s-n
-priskočila	Vmep-sf
-na	Sa
-pomoč	Ncfsa
-z	Si
-zniževanjem	Ncnsi
-stopnje	Ncfsg
-davka	Ncmsg
-od	Sg
-dohodkov	Ncmpg
-pravnih	Agpfpg
-oseb	Ncfpg
-ter	Cc
-višjimi	Agcfpi
-olajšavami	Ncfpi
-za	Sa
-vlaganja	Ncnpa
-v	Sa
-raziskave	Ncfpa
-in	Cc
-razvoj	Ncmsan
-ter	Cc
-za	Sa
-investicije	Ncfpa
-.	Z
+token	tag	lemma
+Oslabljeno	mte:Appfsa	oslabljen
+vlado	mte:Ncfsa	vlada
+,	mte:Z	,
+v	mte:Sa	v
+kateri	mte:Pq-fsl	kateri
+družbo	mte:Ncfsa	družba
+SDS	mte:Npfsg	SDS
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npfsg	Janše
+dela	mte:Ncmsg	delo
+le	mte:Q	le
+NSi	mte:Npfsn	NSi
+,	mte:Z	,
+po	mte:Sl	po
+dobrem	mte:Agpnsl	dober
+letu	mte:Ncnsl	leto
+dela	mte:Ncnsg	delo
+čaka	mte:Vmpr3s	čakati
+glasovanje	mte:Ncnsa	glasovanje
+o	mte:Sl	o
+nezaupnici	mte:Ncfsl	nezaupnica
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npfsg	Janše
+je	mte:Va-r3s-n	biti
+prvo	mte:Mlofsa	prvi
+obletnico	mte:Ncfsa	obletnica
+10	mte:Mdc	10
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+dočakala	mte:Vmep-sf	dočakati
+oslabljena	mte:Appfsn	oslabljen
+.	mte:Z	.
+Najprej	mte:Rgs	najprej
+sta	mte:Va-r3d-n	biti
+odšla	mte:Vmep-dm	oditi
+Državljanska	mte:Agpmdn	državljanski
+lista	mte:Ncmdn	list
+(	mte:Z	(
+DL	mte:Npmsn	DL
+)	mte:Z	)
+in	mte:Cc	in
+z	mte:Si	z
+njo	mte:Pp3fsi	on
+dva	mte:Mlcmdn	dva
+ministra	mte:Ncmdn	minister
+,	mte:Z	,
+Janez	mte:Npmsn	Janez
+Šušteršič	mte:Npmsn	Šušteršič
+in	mte:Cc	in
+Senko	mte:Npfsn	Senko
+Pličanič	mte:Npmsn	Pličanič
+.	mte:Z	.
+Dvaindvajsetega	mte:Mlomsg	dvaindvajseti
+februarja	mte:Ncmsg	februar
+sta	mte:Va-r3d-n	biti
+vlado	mte:Ncfsa	vlada
+zapustila	mte:Vmep-dm	zapustiti
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+in	mte:Cc	in
+Tomaž	mte:Npmsn	Tomaž
+Gantar	mte:Npmsn	Gantar
+iz	mte:Sg	iz
+DeSUS	mte:Npmsn	Desus
+,	mte:Z	,
+nazadnje	mte:Rgp	nazadnje
+pa	mte:Cc	pa
+še	mte:Q	še
+Franc	mte:Npmsn	Franc
+Bogovič	mte:Npmsn	Bogovič
+in	mte:Cc	in
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+iz	mte:Sg	iz
+SLS	mte:Npfsg	SLS
+.	mte:Z	.
+Janša	mte:Npmsn	Janša
+in	mte:Cc	in
+SDS	mte:Npmsn	SDS
+sta	mte:Va-r3d-n	biti
+ostala	mte:Vmep-dm	ostati
+sama	mte:Agpmdn	sam
+z	mte:Si	z
+NSi	mte:Npfsi	NSi
+in	mte:Cc	in
+edino	mte:Agpfsi	edin
+ministrico	mte:Ncfsi	ministrica
+Ljudmilo	mte:Npfsi	Ljudmilo
+Novak	mte:Npfsi	Novak
+.	mte:Z	.
+Navzven	mte:Rgp	navzven
+je	mte:Va-r3s-n	biti
+delovala	mte:Vmpp-sm	delovati
+trdno	mte:Rgp	trdno
+vse	mte:Pg-nsa	ves
+do	mte:Sg	do
+poročila	mte:Ncnsg	poročilo
+Komisije	mte:Ncfsg	komisija
+za	mte:Sa	za
+preprečevanje	mte:Ncnsa	preprečevanje
+korupcije	mte:Ncfsg	korupcija
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+konflikt	mte:Ncmsn	konflikt
+zaostril	mte:Vmep-sm	zaostriti
+predvsem	mte:Q	predvsem
+med	mte:Si	med
+Janšo	mte:Npfsi	Janšo
+in	mte:Cc	in
+predsednikom	mte:Ncmsi	predsednik
+DL	mte:Npmsn	DL
+Gregorjem	mte:Npmsi	Gregor
+Virantom	mte:Npmsi	Virant
+.	mte:Z	.
+Namesto	mte:Sg	namesto
+15	mte:Mdc	15
+le	mte:Q	le
+11	mte:Mdc	11
+ministrov	mte:Ncmpg	minister
+Delo	mte:Ncnsn	delo
+Janševe	mte:Aspfsg	Janšev
+vlade	mte:Ncfsg	vlada
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+usmerjeno	mte:Appnsn	usmerjen
+predvsem	mte:Q	predvsem
+v	mte:Sa	v
+uravnoteženje	mte:Ncnsa	uravnoteženje
+javnih	mte:Agpfpg	javen
+financ	mte:Ncfpg	finance
+in	mte:Cc	in
+reforme	mte:Ncfpa	reforma
+.	mte:Z	.
+Na	mte:Sl	na
+gospodarskem	mte:Agpnsl	gospodarski
+področju	mte:Ncnsl	področje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+veliko	mte:Rgp	veliko
+ukvarjala	mte:Vmpp-sf	ukvarjati
+s	mte:Si	z
+sanacijo	mte:Ncfsi	sanacija
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+na	mte:Sl	na
+zunanjepolitičnem	mte:Agpmsl	zunanjepolitičen
+pa	mte:Cc	pa
+s	mte:Si	z
+Hrvaško	mte:Npfsi	Hrvaška
+.	mte:Z	.
+Že	mte:Q	že
+pred	mte:Si	pred
+imenovanjem	mte:Ncnsi	imenovanje
+vlade	mte:Ncfsg	vlada
+je	mte:Va-r3s-n	biti
+nova	mte:Agpfsn	nov
+koalicija	mte:Ncfsn	koalicija
+spremenila	mte:Vmep-sf	spremeniti
+zakon	mte:Ncmsan	zakon
+o	mte:Sl	o
+vladi	mte:Ncfsl	vlada
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsa	število
+ministrstev	mte:Ncnpg	ministrstvo
+s	mte:Si	z
+15	mte:Mdc	15
+znižala	mte:Vmep-sf	znižati
+na	mte:Sa	na
+11	mte:Mdc	11
+,	mte:Z	,
+število	mte:Ncnsa	število
+ministrov	mte:Ncmpg	minister
+brez	mte:Sg	brez
+resorja	mte:Ncmsg	resor
+pa	mte:Cc	pa
+s	mte:Sg	z
+tri	mte:Mlcfpa	trije
+na	mte:Sa	na
+enega	mte:Mlpmsa	en
+.	mte:Z	.
+Varčevanje	mte:Ncnsa	varčevanje
+in	mte:Cc	in
+stavka	mte:Ncfsn	stavka
+Varčevanja	mte:Ncnsg	varčevanje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+lotila	mte:Vmep-sf	lotiti
+z	mte:Si	z
+zakonom	mte:Ncmsi	zakon
+za	mte:Sa	za
+uravnoteženje	mte:Ncnsa	uravnoteženje
+javnih	mte:Agpfpg	javen
+financ	mte:Ncfpg	finance
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+predvideval	mte:Vmpp-sm	predvidevati
+znižanje	mte:Ncnsa	znižanje
+izdatkov	mte:Ncmpg	izdatek
+za	mte:Sa	za
+javni	mte:Agpmsay	javen
+sektor	mte:Ncmsan	sektor
+,	mte:Z	,
+ukinitev	mte:Ncfsa	ukinitev
+nekaterih	mte:Pi-fpg	nekateri
+pravic	mte:Ncfpg	pravica
+iz	mte:Sg	iz
+pokojnin	mte:Ncfpg	pokojnina
+in	mte:Cc	in
+socialne	mte:Agpfsg	socialen
+zakonodaje	mte:Ncfsg	zakonodaja
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+zadela	mte:Vmep-sf	zadeti
+ob	mte:Sa	ob
+interese	mte:Ncmpa	interes
+sindikatov	mte:Ncmpg	sindikat
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+imenu	mte:Ncnsl	ime
+fiskalnih	mte:Agpmpg	fiskalen
+ciljev	mte:Ncmpg	cilj
+sta	mte:Va-r3d-n	biti
+bili	mte:Va-p-df	biti
+žrtvovani	mte:Appfdn	žrtvovan
+ekonomska	mte:Agpfsn	ekonomski
+in	mte:Cc	in
+socialna	mte:Agpfsn	socialen
+slika	mte:Ncfsn	slika
+države	mte:Ncfsg	država
+,	mte:Z	,
+"	mte:Z	"
+so	mte:Va-r3p-n	biti
+ob	mte:Sl	ob
+obletnici	mte:Ncfsl	obletnica
+delovanja	mte:Ncnsg	delovanje
+sindikatov	mte:Ncmpg	sindikat
+zapisali	mte:Vmep-pm	zapisati
+v	mte:Sl	v
+ZSSS	mte:Npfsl	ZSSS
+.	mte:Z	.
+Sindikati	mte:Ncmpn	sindikat
+so	mte:Va-r3p-n	biti
+aprila	mte:Ncmsg	april
+pripravili	mte:Vmep-pm	pripraviti
+stavko	mte:Ncfsa	stavka
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+ocenah	mte:Ncfpl	ocena
+organizatorjev	mte:Ncmpg	organizator
+udeležilo	mte:Vmep-sn	udeležiti
+okoli	mte:Rgp	okoli
+sto	mte:Mlc-pa	sto
+tisoč	mte:Mlc-pa	tisoč
+javnih	mte:Agpmpg	javen
+uslužbencev	mte:Ncmpg	uslužbenec
+.	mte:Z	.
+Strukturne	mte:Agpfsg	strukturen
+reforme	mte:Ncfsg	reforma
+V	mte:Sl	v
+drugi	mte:Mlpfsl	drug
+polovici	mte:Ncfsl	polovica
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+lotila	mte:Vmep-sf	lotiti
+priprave	mte:Ncfpa	priprava
+strukturnih	mte:Agpfpg	strukturen
+reform	mte:Ncfpg	reforma
+.	mte:Z	.
+Kot	mte:Cs	kot
+dve	mte:Mlcfdn	dva
+glavni	mte:Agpfdn	glaven
+je	mte:Va-r3s-n	biti
+izpostavila	mte:Vmep-sf	izpostaviti
+pokojninsko	mte:Agpfsa	pokojninski
+reformo	mte:Ncfsa	reforma
+in	mte:Cc	in
+reformo	mte:Ncfsa	reforma
+trga	mte:Ncmsg	trg
+dela	mte:Ncnsg	delo
+.	mte:Z	.
+Prvo	mte:Mlofsa	prvi
+je	mte:Va-r3s-n	biti
+sprejela	mte:Vmep-sf	sprejeti
+,	mte:Z	,
+pogajanja	mte:Ncnpn	pogajanje
+za	mte:Sa	za
+drugo	mte:Mlpfsa	drug
+pa	mte:Cc	pa
+še	mte:Q	še
+potekajo	mte:Vmpr3p	potekati
+.	mte:Z	.
+Si	mte:Px---d--y	biti
+je	mte:Va-r3s-n	biti
+pa	mte:Cc	pa
+vlada	mte:Ncfsn	vlada
+novo	mte:Agpfsa	nov
+fronto	mte:Ncfsa	fronta
+s	mte:Si	z
+sindikati	mte:Ncmpi	sindikat
+odprla	mte:Vmep-sf	odpreti
+s	mte:Si	z
+predlogom	mte:Ncmsi	predlog
+proračuna	mte:Ncmsg	proračun
+za	mte:Sa	za
+leto	mte:Ncnsa	leto
+2013	mte:Mdc	2013
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+predvideval	mte:Vmpp-sm	predvidevati
+petodstotno	mte:Agpnsa	petodstoten
+znižanje	mte:Ncnsa	znižanje
+mase	mte:Ncfsg	masa
+plač	mte:Ncfpg	plača
+v	mte:Sl	v
+javnem	mte:Agpmsl	javen
+sektorju	mte:Ncmsl	sektor
+.	mte:Z	.
+Pogajanja	mte:Ncnpa	pogajanje
+,	mte:Z	,
+povezana	mte:Appfsn	povezan
+z	mte:Si	z
+znižanjem	mte:Ncnsi	znižanje
+mase	mte:Ncfsg	masa
+plač	mte:Ncfpg	plača
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+bila	mte:Va-p-pn	biti
+neuspešna	mte:Agpnpn	neuspešen
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+so	mte:Va-r3p-n	biti
+sindikati	mte:Ncmpn	sindikat
+javnega	mte:Agpmsg	javen
+sektorja	mte:Ncmsg	sektor
+23	mte:Mdc	23
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+pripravili	mte:Vmep-pm	pripraviti
+še	mte:Q	še
+eno	mte:Mlpfsa	en
+enodnevno	mte:Agpfsa	enodneven
+stavko	mte:Ncfsa	stavka
+.	mte:Z	.
+Še	mte:Q	še
+vedno	mte:Rgp	vedno
+stavkajo	mte:Vmpr3p	stavkati
+policisti	mte:Ncmpn	policist
+.	mte:Z	.
+Slaba	mte:Agpfsn	slab
+banka	mte:Ncfsn	banka
+in	mte:Cc	in
+SDH	mte:Npmsn	SDH
+Niti	mte:Cc	niti
+zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+Slovenskem	mte:Agpmsl	slovenski
+državnem	mte:Agpmsl	državen
+holdingu	mte:Ncmsl	holding
+niti	mte:Q	niti
+zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+slabi	mte:Agpfsl	slab
+banki	mte:Ncfsl	banka
+doslej	mte:Rgp	doslej
+še	mte:Q	še
+nista	mte:Va-r3d-y	biti
+uspela	mte:Vmep-dm	uspeti
+zaživeti	mte:Vmen	zaživeti
+,	mte:Z	,
+kot	mte:Cs	kot
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+zamislila	mte:Vmep-sf	zamisliti
+vlada	mte:Ncfsn	vlada
+.	mte:Z	.
+S	mte:Si	z
+sanacijo	mte:Ncfsi	sanacija
+bančnega	mte:Agpmsg	bančen
+sektorja	mte:Ncmsg	sektor
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zaenkrat	mte:Rgp	zaenkrat
+ukvarjala	mte:Vmpp-sf	ukvarjati
+brez	mte:Sg	brez
+večjih	mte:Agcmpg	velik
+uspehov	mte:Ncmpg	uspeh
+.	mte:Z	.
+Največjima	mte:Agsfdi	velik
+državnima	mte:Agpfdi	državen
+bankama	mte:Ncfdi	banka
+je	mte:Va-r3s-n	biti
+priskočila	mte:Vmep-sf	priskočiti
+na	mte:Sa	na
+pomoč	mte:Ncfsa	pomoč
+s	mte:Si	z
+hibridnim	mte:Agpnsi	hibriden
+posojilom	mte:Ncnsi	posojilo
+.	mte:Z	.
+Pomoč	mte:Ncfsa	pomoč
+gospodarstvu	mte:Ncnsd	gospodarstvo
+Gospodarstvu	mte:Ncnsd	gospodarstvo
+je	mte:Va-r3s-n	biti
+priskočila	mte:Vmep-sf	priskočiti
+na	mte:Sa	na
+pomoč	mte:Ncfsa	pomoč
+z	mte:Si	z
+zniževanjem	mte:Ncnsi	zniževanje
+stopnje	mte:Ncfsg	stopnja
+davka	mte:Ncmsg	davek
+od	mte:Sg	od
+dohodkov	mte:Ncmpg	dohodek
+pravnih	mte:Agpfpg	praven
+oseb	mte:Ncfpg	oseba
+ter	mte:Cc	ter
+višjimi	mte:Agcfpi	visok
+olajšavami	mte:Ncfpi	olajšava
+za	mte:Sa	za
+vlaganja	mte:Ncnpa	vlaganje
+v	mte:Sa	v
+raziskave	mte:Ncfpa	raziskava
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+ter	mte:Cc	ter
+za	mte:Sa	za
+investicije	mte:Ncfpa	investicija
+.	mte:Z	.
+Napovedala	mte:Vmep-sf	napovedati
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+nekaj	mte:Rgp	nekaj
+administrativnih	mte:Agpfpg	administrativen
+razbremenitev	mte:Ncfpg	razbremenitev

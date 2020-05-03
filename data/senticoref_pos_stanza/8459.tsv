@@ -1,213 +1,235 @@
-token	tag
-Soproga	Ncfsn
-ameriškega	Agpmsg
-predsednika	Ncmsg
-Laura	Npfsg
-Bush	Npfsn
-si	Px---d--y
-je	Va-r3s-n
-ogledala	Vmep-sf
-razstavo	Ncfsa
-slovenskih	Agpmpg
-impresionistov	Ncmpg
-in	Cc
-prisluhnila	Vmep-sf
-debati	Ncfsd
-mladih	Agpmpg
-o	Sl
-prostovoljnem	Agpmsl
-delu	Ncnsl
-.	Z
-Soproga	Npfsn
-ameriškega	Agpmsg
-predsednika	Ncmsg
-Laura	Npfsg
-Bush	Npmsn
-si	Px---d--y
-je	Va-r3s-n
-v	Sl
-sklopu	Ncmsl
-damskega	Agpmsg
-programa	Ncmsg
-v	Sl
-družbi	Ncfsl
-soproge	Ncfsg
-slovenskega	Agpmsg
-predsednika	Ncmsg
-Barbare	Npfsg
-Miklič	Npfsg
-Türk	Npmsg
-in	Cc
-zaročenke	Ncfsg
-predsednika	Ncmsg
-Evropskega	Agpmsg
-sveta	Ncmsg
-in	Cc
-slovenskega	Agpmsg
-premierja	Ncmsg
-Urške	Npfsg
-Bačovnik	Npfsg
-v	Sl
-Narodni	Agpfsl
-ogledala	Vmep-sf
-razstavo	Ncfsa
-slovenskih	Agpmpg
-impresionistov	Ncmpg
-,	Z
-nato	Rgp
-pa	Cc
-je	Va-r3s-n
-prisluhnila	Vmep-sf
-debati	Ncfsd
-mladih	Agpmpg
-o	Sl
-tem	Pd-nsl
-,	Z
-ali	Rgp
-bi	Va-c
-moralo	Vmpp-sn
-biti	Va-n
-prostovoljno	Agpnsn
-delo	Ncnsn
-pogoj	Ncmsn
-za	Sa
-zaključek	Ncmsan
-srednje	Agpfsg
-šole	Ncfsg
-.	Z
-Soprogo	Npfsa
-predsednika	Ncmsgy
-Georgea	Npmsg
-Busha	Npmsg
-je	Va-r3s-n
-še	Q
-posebej	Rgp
-navdušila	Vmep-sf
-angleščina	Ncfsn
-mladih	Agpmpg
-debaterjev	Ncmpg
-,	Z
-spregovorila	Vmep-sf
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-o	Sl
-prostovoljnem	Agpmsl
-delu	Ncnsl
-v	Sl
-ZDA	Npfpl
-,	Z
-kjer	Cs
-o	Sl
-tem	Pd-nsl
-,	Z
-ali	Rgp
-naj	Q
-bo	Va-f3s-n
-prostovoljno	Agpnsn
-delo	Ncnsn
-v	Sl
-srednji	Agpfsl
-šoli	Ncfsl
-obvezno	Agpnsn
-ali	Cc
-ne	Q
-,	Z
-odločajo	Vmpr3p
-na	Sl
-lokalni	Agpfsl
-ravni	Ncfsl
-.	Z
-Medtem	Rgp
-sta	Va-r3d-n
-zaročenka	Ncfsn
-predsednika	Ncmsg
-vlade	Ncfsg
-Janeza	Npmsg
-Janše	Npfsg
-Urška	Npfsn
-Bačovnik	Npfsn
-in	Cc
-soproga	Ncmdn
-predsednika	Ncmsg
-Evropske	Agpfsg
-komisije	Ncfsg
-Margarida	Npmsg
-Sousa	Npmsn
-Uva	Npmsn
-Barroso	Npmsn
-obiskali	Vmep-dm
-onkološki	Agpmsay
-inštitut	Ncmsan
-,	Z
-kjer	Cs
-sta	Va-r3d-n
-si	Px---d--y
-ogledali	Vmep-dm
-center	Ncmsan
-za	Sa
-bolezni	Ncfpa
-dojk	Npfsg
-.	Z
-Barbara	Npfsn
-Miklič	Npfsn
-Türk	Npfsn
-in	Cc
-Urška	Npfsn
-Bačovnik	Npfsn
-sta	Va-r3d-n
-pred	Si
-tem	Pd-nsi
-v	Sl
-sklopu	Ncmsl
-obiska	Ncmsg
-,	Z
-za	Sa
-katerega	Pq-msa
-so	Va-r3p-n
-veljali	Vmpp-pm
-strogi	Agpmpn
-varnostni	Agpmpn
-ukrepi	Ncmpn
-,	Z
-za	Sa
-Lauro	Npfsa
-Bush	Npfsa
-in	Cc
-soprogo	Ncfsa
-predsednika	Ncmsg
-Evropske	Agpfsg
-komisije	Ncfsg
-priredili	Vmep-pm
-kosilo	Ncnsa
-v	Sl
-Vili	Npfsl
-Podrožnik	Npmsn
-,	Z
-po	Sl
-koncu	Ncmsl
-obiska	Ncmsg
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-dame	Ncfpn
-pridružile	Vmep-pf
-svojim	Px-mpd
-soprogom	Ncmpd
-na	Sl
-Brdu	Npnsl
-pri	Sl
-Kranju	Npmsl
-,	Z
-kjer	Cs
-so	Va-r3p-n
-imeli	Vmpp-pm
-na	Sl
-programu	Ncmsl
-ogled	Ncmsan
-nastopa	Ncmsg
-jahalne	Agpfsg
-šole	Ncfsg
-Kobilarne	Agpfsg
-Lipica	Npfsn
-.	Z
+token	tag	lemma
+Soproga	mte:Ncfsn	soproga
+ameriškega	mte:Agpmsg	ameriški
+predsednika	mte:Ncmsg	predsednik
+Laura	mte:Npfsg	Laura
+Bush	mte:Npfsn	Bush
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+ogledala	mte:Vmep-sf	ogledati
+razstavo	mte:Ncfsa	razstava
+slovenskih	mte:Agpmpg	slovenski
+impresionistov	mte:Ncmpg	impresionist
+in	mte:Cc	in
+prisluhnila	mte:Vmep-sf	prisluhniti
+debati	mte:Ncfsd	debat
+mladih	mte:Agpmpg	mlad
+o	mte:Sl	o
+prostovoljnem	mte:Agpmsl	prostovoljen
+delu	mte:Ncnsl	del
+.	mte:Z	.
+Soproga	mte:Npfsn	Soproga
+ameriškega	mte:Agpmsg	ameriški
+predsednika	mte:Ncmsg	predsednik
+Laura	mte:Npfsg	Laura
+Bush	mte:Npmsn	Bush
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+sklopu	mte:Ncmsl	sklop
+damskega	mte:Agpmsg	damski
+programa	mte:Ncmsg	program
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+soproge	mte:Ncfsg	soproga
+slovenskega	mte:Agpmsg	slovenski
+predsednika	mte:Ncmsg	predsednik
+Barbare	mte:Npfsg	Barbare
+Miklič	mte:Npfsg	Miklič
+Türk	mte:Npmsg	Türk
+in	mte:Cc	in
+zaročenke	mte:Ncfsg	zaročenka
+predsednika	mte:Ncmsg	predsednik
+Evropskega	mte:Agpmsg	evropski
+sveta	mte:Ncmsg	svet
+in	mte:Cc	in
+slovenskega	mte:Agpmsg	slovenski
+premierja	mte:Ncmsg	premier
+Urške	mte:Npfsg	Urška
+Bačovnik	mte:Npfsg	Bačovnik
+v	mte:Sl	v
+Narodni	mte:Agpfsl	naroden
+ogledala	mte:Vmep-sf	ogledati
+razstavo	mte:Ncfsa	razstava
+slovenskih	mte:Agpmpg	slovenski
+impresionistov	mte:Ncmpg	impresionist
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+prisluhnila	mte:Vmep-sf	prisluhniti
+debati	mte:Ncfsd	debat
+mladih	mte:Agpmpg	mlad
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+bi	mte:Va-c	biti
+moralo	mte:Vmpp-sn	morati
+biti	mte:Va-n	biti
+prostovoljno	mte:Agpnsn	prostovoljen
+delo	mte:Ncnsn	delo
+pogoj	mte:Ncmsn	pogoj
+za	mte:Sa	za
+zaključek	mte:Ncmsan	zaključek
+srednje	mte:Agpfsg	srednji
+šole	mte:Ncfsg	šola
+.	mte:Z	.
+Soprogo	mte:Npfsa	Soproga
+predsednika	mte:Ncmsgy	predsednik
+Georgea	mte:Npmsg	George
+Busha	mte:Npmsg	Bush
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+navdušila	mte:Vmep-sf	navdušiti
+angleščina	mte:Ncfsn	angleščina
+mladih	mte:Agpmpg	mlad
+debaterjev	mte:Ncmpg	debater
+,	mte:Z	,
+spregovorila	mte:Vmep-sf	spregovoriti
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+o	mte:Sl	o
+prostovoljnem	mte:Agpmsl	prostovoljen
+delu	mte:Ncnsl	del
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+kjer	mte:Cs	kjer
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+naj	mte:Q	naj
+bo	mte:Va-f3s-n	biti
+prostovoljno	mte:Agpnsn	prostovoljen
+delo	mte:Ncnsn	delo
+v	mte:Sl	v
+srednji	mte:Agpfsl	srednji
+šoli	mte:Ncfsl	šola
+obvezno	mte:Agpnsn	obvezen
+ali	mte:Cc	ali
+ne	mte:Q	ne
+,	mte:Z	,
+odločajo	mte:Vmpr3p	odločati
+na	mte:Sl	na
+lokalni	mte:Agpfsl	lokalen
+ravni	mte:Ncfsl	raven
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+sta	mte:Va-r3d-n	biti
+zaročenka	mte:Ncfsn	zaročenka
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npfsg	Janše
+Urška	mte:Npfsn	Urška
+Bačovnik	mte:Npfsn	Bačovnik
+in	mte:Cc	in
+soproga	mte:Ncmdn	soproga
+predsednika	mte:Ncmsg	predsednik
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+Margarida	mte:Npmsg	Margarid
+Sousa	mte:Npmsn	Sous
+Uva	mte:Npmsn	Uva
+Barroso	mte:Npmsn	Barroso
+obiskali	mte:Vmep-dm	obiskati
+onkološki	mte:Agpmsay	onkološki
+inštitut	mte:Ncmsan	inštitut
+,	mte:Z	,
+kjer	mte:Cs	kjer
+sta	mte:Va-r3d-n	biti
+si	mte:Px---d--y	se
+ogledali	mte:Vmep-dm	ogledati
+center	mte:Ncmsan	center
+za	mte:Sa	za
+bolezni	mte:Ncfpa	bolezen
+dojk	mte:Npfsg	dojk
+.	mte:Z	.
+Barbara	mte:Npfsn	Barbara
+Miklič	mte:Npfsn	Miklič
+Türk	mte:Npfsn	Türk
+in	mte:Cc	in
+Urška	mte:Npfsn	Urška
+Bačovnik	mte:Npfsn	Bačovnik
+sta	mte:Va-r3d-n	biti
+pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+v	mte:Sl	v
+sklopu	mte:Ncmsl	sklop
+obiska	mte:Ncmsg	obisk
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+so	mte:Va-r3p-n	biti
+veljali	mte:Vmpp-pm	veljati
+strogi	mte:Agpmpn	strog
+varnostni	mte:Agpmpn	varnosten
+ukrepi	mte:Ncmpn	ukrep
+,	mte:Z	,
+za	mte:Sa	za
+Lauro	mte:Npfsa	Laura
+Bush	mte:Npfsa	Bush
+in	mte:Cc	in
+soprogo	mte:Ncfsa	soproga
+predsednika	mte:Ncmsg	predsednik
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+priredili	mte:Vmep-pm	prirediti
+kosilo	mte:Ncnsa	kosilo
+v	mte:Sl	v
+Vili	mte:Npfsl	Vila
+Podrožnik	mte:Npmsn	Podrožnik
+,	mte:Z	,
+po	mte:Sl	po
+koncu	mte:Ncmsl	konec
+obiska	mte:Ncmsg	obisk
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+dame	mte:Ncfpn	dama
+pridružile	mte:Vmep-pf	pridružiti
+svojim	mte:Px-mpd	svoj
+soprogom	mte:Ncmpd	soprog
+na	mte:Sl	na
+Brdu	mte:Npnsl	Brd
+pri	mte:Sl	pri
+Kranju	mte:Npmsl	Kranj
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+na	mte:Sl	na
+programu	mte:Ncmsl	program
+ogled	mte:Ncmsan	ogled
+nastopa	mte:Ncmsg	nastop
+jahalne	mte:Agpfsg	jahalen
+šole	mte:Ncfsg	šola
+Kobilarne	mte:Agpfsg	kobilaren
+Lipica	mte:Npfsg	Lipica
+.	mte:Z	.
+Zakonca	mte:Ncmdn	zakonca
+Bush	mte:Npmsn	Bush
+sta	mte:Va-r3d-n	biti
+potem	mte:Rgp	potem
+z	mte:Sg	z
+letališča	mte:Ncnsg	letališče
+Jožeta	mte:Npmsg	Jože
+Pučnika	mte:Npmsg	Pučnik
+Ljubljana	mte:Npfsn	Ljubljana
+odpotovala	mte:Vmep-dm	odpotovati
+v	mte:Sa	v
+Nemčijo	mte:Npfsa	Nemčija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+naslednja	mte:Agpfsn	naslednji
+postaja	mte:Ncfsn	postaja
+enotedenske	mte:Agpfsg	enotedenski
+evropske	mte:Agpfsg	evropski
+turneje	mte:Ncfsg	turena
+ameriškega	mte:Agpmsg	ameriški
+predsednika	mte:Ncmsg	predsednik

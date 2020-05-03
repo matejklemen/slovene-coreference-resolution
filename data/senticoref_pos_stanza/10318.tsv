@@ -1,435 +1,493 @@
-token	tag
-Hokejisti	Ncmpn
-.	Z
-V	Sl
-Tivoliju	Npmsl
-ne	Q
-trenirajo	Vmpr3p
-zaradi	Sg
-EP	Ncmsg
-,	Z
-v	Sl
-Zalogu	Ncmsl
-ne	Q
-delajo	Vmpr3p
-hladilne	Agpfsg
-naprave	Ncfsg
-.	Z
-"	Z
-To	Pd-nsn
-je	Va-r3s-n
-višek	Ncmsn
-svinjarije	Ncfsg
-.	Z
-Moj	Ps1msns
-vnuk	Ncmsn
-že	Q
-13	Mdc
-let	Ncnpg
-igra	Vmpr3s
-hokej	Ncmsn
-,	Z
-zdaj	Rgp
-pa	Cc
-zaradi	Sg
-evropskega	Agpnsg
-prvenstva	Ncnsg
-(	Z
-EP	Npmsn
-)	Z
-v	Sl
-košarki	Ncfsl
-v	Sl
-Hali	Npfsl
-Tivoli	Npmsn
-nimajo	Vmpr3p-y
-kje	Rgp
-trenirati	Vmpn
-.	Z
-Vsak	Pg-msa
-dan	Ncmsan
-se	Px------y
-morajo	Vmpr3p
-voziti	Vmpn
-v	Sa
-Celje	Npnsa
-,	Z
-saj	Cc
-tudi	Q
-v	Sl
-Zalogu	Ncmsl
-ledu	Ncmsl
-ni	Va-r3s-y
-,	Z
-ker	Cs
-ne	Q
-delajo	Vmpr3p
-hladilne	Agpfsg
-naprave	Ncfsg
-,	Z
-"	Z
-je	Va-r3s-n
-povedala	Vmep-sf
-babica	Ncfsn
-enega	Mlpmsg
-od	Sg
-mladih	Agpmpg
-hokejistov	Ncmpg
-.	Z
-Dodala	Vmep-sf
-je	Va-r3s-n
-,	Z
-da	Cs
-že	Q
-tako	Rgp
-vsak	Pg-msa
-mesec	Ncmsan
-plačajo	Vmer3p
-72	Mdc
-evrov	Ncmpg
-članarine	Ncfsg
-,	Z
-zdaj	Rgp
-pa	Cc
-morajo	Vmpr3p
-plačevati	Vmpn
-še	Q
-bencin	Ncmsan
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-mora	Vmpr3s
-njen	Ps3msnsf
-vnuk	Ncmsn
-štirikrat	Rgp
-na	Sa
-teden	Ncmsan
-nekoga	Pi-msa
-prositi	Vmpn
-za	Sa
-prevoz	Ncmsan
-,	Z
-ker	Cs
-v	Sl
-družini	Ncfsl
-nimajo	Vmpr3p-y
-avtomobila	Ncmsg
-.	Z
-Treningi	Ncmpn
-v	Sl
-Celju	Npnsl
-neobvezni	Agpmpn
-V	Sl
-Hokejskem	Agpmsl
-klubu	Ncmsl
-Olimpija	Npfsn
-so	Va-r3p-n
-pojasnili	Vmep-pm
-,	Z
-da	Cs
-hokejisti	Ncmpn
-trenirajo	Vmpr3p
-v	Sl
-Celju	Npnsl
-,	Z
-ker	Cs
-je	Va-r3s-n
-to	Pd-nsn
-edini	Agpmsny
-led	Ncmsn
-v	Sl
-Sloveniji	Npfsl
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-lahko	Rgp
-zagotovili	Vmep-pm
-,	Z
-saj	Cc
-ga	Pp3msa--y
-v	Sl
-Ljubljani	Npfsl
-ni	Va-r3s-y
-:	Z
-"	Z
-Zakaj	Rgp
-ga	Pp3msa--y
-ni	Va-r3s-y
-,	Z
-boste	Va-f2p-n
-morali	Vmpp-pm
-vprašati	Vmen
-Javni	Agpmsay
-zavod	Ncmsan
-Šport	Ncmsn
-Ljubljana	Npfsn
-,	Z
-ki	Cs
-upravlja	Vmpr3s
-športne	Agpmpa
-objekte	Ncmpa
-,	Z
-Halo	Npmsn
-Tivoli	Npmsn
-in	Cc
-Zalog	Ncfpg
-.	Z
-"	Z
-Dodali	Vmep-pm
-so	Va-r3p-n
-,	Z
-da	Cs
-treningi	Ncmpn
-v	Sl
-Celju	Npnsl
-niso	Va-r3p-y
-obvezni	Agpmpn
-,	Z
-zato	Cc
-so	Va-r3p-n
-za	Sa
-tiste	Pd-mpa
-,	Z
-ki	Cs
-tja	Rgp
-ne	Q
-morejo	Vmpr3p
-,	Z
-organizirali	Vmbp-pm
-suhe	Agpmpa
-treninge	Ncmpa
-v	Sl
-Ljubljani	Npfsl
-.	Z
-"	Z
-Potrudili	Vmep-pm
-smo	Va-r1p-n
-se	Px------y
-,	Z
-kolikor	Cs
-smo	Va-r1p-n
-se	Px------y
-lahko	Rgp
-,	Z
-da	Cs
-bi	Va-c
-zagotovili	Vmep-pm
-treninge	Ncmpa
-na	Sl
-ledu	Ncmsl
-,	Z
-"	Z
-so	Va-r3p-n
-povedali	Vmep-pm
-v	Sl
-klubu	Ncmsl
-in	Cc
-dodali	Vmep-pm
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-že	Q
-tako	Rgp
-veliko	Rgp
-težav	Ncfpg
-pri	Sl
-sestavljanju	Ncnsl
-urnika	Ncmsg
-,	Z
-saj	Cc
-si	Px---d--y
-Halo	Npmsn
-Tivoli	Npmsn
-delijo	Vmpr3p
-z	Si
-vsemi	Pg-fpi
-ekipami	Ncfpi
-Olimpije	Npfsg
-,	Z
-rekreativci	Ncmpi
-,	Z
-veterani	Ncmpi
-in	Cc
-drsalci	Ncmpi
-:	Z
-"	Z
-Si	Px---d--y
-predstavljate	Vmpr2p
-,	Z
-kako	Rgp
-se	Px------y
-odzovejo	Vmer3p
-starši	Ncmpn
-hokejistov	Ncmpg
-,	Z
-ko	Cs
-jim	Pp3mpd--y
-rečejo	Vmer3p
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-trening	Ncmsan
-ob	Sl
-14	Mdc
-.	Z
-uri	Ncfsl
-?	Z
-Vsi	Pg-mpn
-lahko	Rgp
-otroke	Ncmpa
-pripeljejo	Vmer3p
-šele	Q
-po	Sl
-15	Mdc
-.	Z
-uri	Ncfsl
-,	Z
-pa	Cc
-še	Q
-to	Pd-nsa
-s	Si
-pomočjo	Ncfsi
-babic	Ncfpg
-,	Z
-tako	Cc
-da	Cs
-moramo	Vmpr1p
-popoldne	Rgp
-led	Ncmsa
-razdeliti	Vmen
-med	Sa
-vse	Pg-mpa
-omenjene	Appmpa
-.	Z
-"	Z
-Zdaj	Rgp
-pričakujejo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-na	Sa
-led	Ncmsan
-v	Sl
-Tivoliju	Npmsl
-vrnili	Vmep-pm
-po	Sl
-EP	Ncmsan
-,	Z
-in	Cc
-sicer	Q
-15	Mdc
-.	Z
-septembra	Ncmsg
-.	Z
-Zalog	Ncfpg
-v	Sa
-ponedeljek	Ncmsan
-nared	Rgp
-Od	Sg
-ponedeljka	Ncmsg
-pa	Cc
-bodo	Va-f3p-n
-hokejisti	Ncmpn
-lahko	Rgp
-trenirali	Vmpp-pm
-v	Sl
-Zalogu	Npmsl
-,	Z
-je	Va-r3s-n
-včeraj	Rgp
-napovedal	Vmep-sm
-Boris	Npmsn
-Makoter	Npmsn
-iz	Sg
-Športa	Npmsg
-Ljubljana	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-zadolžen	Appmsnn
-za	Sa
-park	Ncmsan
-Zalog	Ncfpg
-.	Z
-"	Z
-Zelo	Rgp
-smo	Va-r1p-n
-si	Px---d--y
-prizadevali	Vmpp-pm
-,	Z
-da	Cs
-bi	Va-c
-led	Npmsn
-zagotovili	Vmep-pm
-že	Q
-avgusta	Ncmsg
-,	Z
-a	Cc
-so	Va-r3p-n
-se	Px------y
-pokvarile	Vmep-pf
-Mercatorjeve	Aspfpn
-hladilnice	Ncfpn
-,	Z
-ki	Cs
-nam	Pp1-pd
-zagotavljajo	Vmpr3p
-led	Ncmsan
-.	Z
-To	Pd-nsn
-se	Px------y
-je	Va-r3s-n
-zgodilo	Vmep-sn
-prvič	Rgp
-,	Z
-pa	Cc
-prav	Q
-letos	Rgp
-,	Z
-ko	Cs
-v	Sl
-Hali	Npfsl
-Tivoli	Npmsn
-zaradi	Sg
-EP	Npmsg
-ni	Va-r3s-y
-ledu	Ncmsg
-,	Z
-"	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Makoter	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-se	Px------y
-Mercatorju	Npmsd
-pokvarili	Vmep-pm
-kompresorji	Ncmpn
-,	Z
-nato	Rgp
-pa	Cc
-so	Va-r3p-n
-morali	Vmpp-pm
-čakati	Vmpn
-na	Sa
-rezervne	Agpmpa
-dele	Ncmpa
-iz	Sg
-Italije	Npfsg
-,	Z
-tako	Cc
-da	Cs
-jim	Pp3mpd--y
-je	Va-r3s-n
-zdaj	Rgp
-le	Q
-uspelo	Vmep-sn
-popraviti	Vmen
-hladilne	Agpfpa
-naprave	Ncfpa
-.	Z
+token	tag	lemma
+Hokejisti	mte:Ncmpn	hokejist
+.	mte:Z	.
+V	mte:Sl	v
+Tivoliju	mte:Npmsl	Tivolij
+ne	mte:Q	ne
+trenirajo	mte:Vmpr3p	trenirati
+zaradi	mte:Sg	zaradi
+EP	mte:Ncmsg	EP
+,	mte:Z	,
+v	mte:Sl	v
+Zalogu	mte:Ncmsl	zalog
+ne	mte:Q	ne
+delajo	mte:Vmpr3p	delati
+hladilne	mte:Agpfsg	hladilen
+naprave	mte:Ncfsg	naprava
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+višek	mte:Ncmsn	višek
+svinjarije	mte:Ncfsg	svinjarija
+.	mte:Z	.
+Moj	mte:Ps1msns	moj
+vnuk	mte:Ncmsn	vnuk
+že	mte:Q	že
+13	mte:Mdc	13
+let	mte:Ncnpg	leto
+igra	mte:Vmpr3s	igrati
+hokej	mte:Ncmsn	hokej
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+pa	mte:Cc	pa
+zaradi	mte:Sg	zaradi
+evropskega	mte:Agpnsg	evropski
+prvenstva	mte:Ncnsg	prvenstvo
+(	mte:Z	(
+EP	mte:Npmsn	EP
+)	mte:Z	)
+v	mte:Sl	v
+košarki	mte:Ncfsl	košarka
+v	mte:Sl	v
+Hali	mte:Npfsl	Hali
+Tivoli	mte:Npmsn	Tivoli
+nimajo	mte:Vmpr3p-y	imeti
+kje	mte:Rgp	kje
+trenirati	mte:Vmpn	trenirati
+.	mte:Z	.
+Vsak	mte:Pg-msa	vsak
+dan	mte:Ncmsan	dan
+se	mte:Px------y	se
+morajo	mte:Vmpr3p	morati
+voziti	mte:Vmpn	voziti
+v	mte:Sa	v
+Celje	mte:Npnsa	Celje
+,	mte:Z	,
+saj	mte:Cc	saj
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Zalogu	mte:Ncmsl	zalog
+ledu	mte:Ncmsl	led
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+ker	mte:Cs	ker
+ne	mte:Q	ne
+delajo	mte:Vmpr3p	delati
+hladilne	mte:Agpfsg	hladilen
+naprave	mte:Ncfsg	naprava
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedala	mte:Vmep-sf	povedati
+babica	mte:Ncfsn	babica
+enega	mte:Mlpmsg	en
+od	mte:Sg	od
+mladih	mte:Agpmpg	mlad
+hokejistov	mte:Ncmpg	hokejist
+.	mte:Z	.
+Dodala	mte:Vmep-sf	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+že	mte:Q	že
+tako	mte:Rgp	tako
+vsak	mte:Pg-msa	vsak
+mesec	mte:Ncmsan	mesec
+plačajo	mte:Vmer3p	plačati
+72	mte:Mdc	72
+evrov	mte:Ncmpg	evro
+članarine	mte:Ncfsg	članarina
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+pa	mte:Cc	pa
+morajo	mte:Vmpr3p	morati
+plačevati	mte:Vmpn	plačevati
+še	mte:Q	še
+bencin	mte:Ncmsan	bencin
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+mora	mte:Vmpr3s	morati
+njen	mte:Ps3msnsf	njen
+vnuk	mte:Ncmsn	vnuk
+štirikrat	mte:Rgp	štirikrat
+na	mte:Sa	na
+teden	mte:Ncmsan	teden
+nekoga	mte:Pi-msa	nekdo
+prositi	mte:Vmpn	prositi
+za	mte:Sa	za
+prevoz	mte:Ncmsan	prevoz
+,	mte:Z	,
+ker	mte:Cs	ker
+v	mte:Sl	v
+družini	mte:Ncfsl	družina
+nimajo	mte:Vmpr3p-y	imeti
+avtomobila	mte:Ncmsg	avtomobil
+.	mte:Z	.
+Treningi	mte:Ncmpn	trening
+v	mte:Sl	v
+Celju	mte:Npnsl	Celje
+neobvezni	mte:Agpmpn	neobvezen
+V	mte:Sl	v
+Hokejskem	mte:Agpmsl	hokejski
+klubu	mte:Ncmsl	klub
+Olimpija	mte:Npfsn	Olimpija
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+hokejisti	mte:Ncmpn	hokejist
+trenirajo	mte:Vmpr3p	trenirati
+v	mte:Sl	v
+Celju	mte:Npnsl	Celje
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+edini	mte:Agpmsny	edin
+led	mte:Ncmsn	led
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+lahko	mte:Rgp	lahko
+zagotovili	mte:Vmep-pm	zagotoviti
+,	mte:Z	,
+saj	mte:Cc	saj
+ga	mte:Pp3msa--y	on
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+ni	mte:Va-r3s-y	biti
+:	mte:Z	:
+"	mte:Z	"
+Zakaj	mte:Rgp	zakaj
+ga	mte:Pp3msa--y	on
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+boste	mte:Va-f2p-n	biti
+morali	mte:Vmpp-pm	morati
+vprašati	mte:Vmen	vprašati
+Javni	mte:Agpmsay	javen
+zavod	mte:Ncmsan	zavod
+Šport	mte:Ncmsn	šport
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+ki	mte:Cs	ki
+upravlja	mte:Vmpr3s	upravljati
+športne	mte:Agpmpa	športen
+objekte	mte:Ncmpa	objekt
+,	mte:Z	,
+Halo	mte:Npmsn	Halo
+Tivoli	mte:Npmsn	Tivoli
+in	mte:Cc	in
+Zalog	mte:Ncfpg	zaloga
+.	mte:Z	.
+"	mte:Z	"
+Dodali	mte:Vmep-pm	dodati
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+treningi	mte:Ncmpn	trening
+v	mte:Sl	v
+Celju	mte:Npnsl	Celje
+niso	mte:Va-r3p-y	biti
+obvezni	mte:Agpmpn	obvezen
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+tiste	mte:Pd-mpa	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+tja	mte:Rgp	tja
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+,	mte:Z	,
+organizirali	mte:Vmbp-pm	organizirati
+suhe	mte:Agpmpa	suh
+treninge	mte:Ncmpa	trening
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+"	mte:Z	"
+Potrudili	mte:Vmep-pm	potruditi
+smo	mte:Va-r1p-n	biti
+se	mte:Px------y	se
+,	mte:Z	,
+kolikor	mte:Cs	kolikor
+smo	mte:Va-r1p-n	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+zagotovili	mte:Vmep-pm	zagotoviti
+treninge	mte:Ncmpa	trening
+na	mte:Sl	na
+ledu	mte:Ncmsl	led
+,	mte:Z	,
+"	mte:Z	"
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+v	mte:Sl	v
+klubu	mte:Ncmsl	klub
+in	mte:Cc	in
+dodali	mte:Vmep-pm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+že	mte:Q	že
+tako	mte:Rgp	tako
+veliko	mte:Rgp	veliko
+težav	mte:Ncfpg	težava
+pri	mte:Sl	pri
+sestavljanju	mte:Ncnsl	sestavljanje
+urnika	mte:Ncmsg	urnik
+,	mte:Z	,
+saj	mte:Cc	saj
+si	mte:Px---d--y	se
+Halo	mte:Npmsn	Halo
+Tivoli	mte:Npmsn	Tivoli
+delijo	mte:Vmpr3p	deliti
+z	mte:Si	z
+vsemi	mte:Pg-fpi	ves
+ekipami	mte:Ncfpi	ekipa
+Olimpije	mte:Npfsg	Olimpija
+,	mte:Z	,
+rekreativci	mte:Ncmpi	rekreativec
+,	mte:Z	,
+veterani	mte:Ncmpi	veteran
+in	mte:Cc	in
+drsalci	mte:Ncmpi	drsalec
+:	mte:Z	:
+"	mte:Z	"
+Si	mte:Px---d--y	biti
+predstavljate	mte:Vmpr2p	predstavljati
+,	mte:Z	,
+kako	mte:Rgp	kako
+se	mte:Px------y	se
+odzovejo	mte:Vmer3p	odzoveti
+starši	mte:Ncmpn	starš
+hokejistov	mte:Ncmpg	hokejist
+,	mte:Z	,
+ko	mte:Cs	ko
+jim	mte:Pp3mpd--y	on
+rečejo	mte:Vmer3p	reči
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+trening	mte:Ncmsan	trening
+ob	mte:Sl	ob
+14	mte:Mdc	14
+.	mte:Z	.
+uri	mte:Ncfsl	ura
+?	mte:Z	?
+Vsi	mte:Pg-mpn	ves
+lahko	mte:Rgp	lahko
+otroke	mte:Ncmpa	otrok
+pripeljejo	mte:Vmer3p	pripeljati
+šele	mte:Q	šele
+po	mte:Sl	po
+15	mte:Mdc	15
+.	mte:Z	.
+uri	mte:Ncfsl	ura
+,	mte:Z	,
+pa	mte:Cc	pa
+še	mte:Q	še
+to	mte:Pd-nsa	ta
+s	mte:Si	z
+pomočjo	mte:Ncfsi	pomoč
+babic	mte:Ncfpg	babica
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+moramo	mte:Vmpr1p	morati
+popoldne	mte:Rgp	popoldne
+led	mte:Ncmsa	led
+razdeliti	mte:Vmen	razdeliti
+med	mte:Sa	med
+vse	mte:Pg-mpa	ves
+omenjene	mte:Appmpa	omenjen
+.	mte:Z	.
+"	mte:Z	"
+Zdaj	mte:Rgp	zdaj
+pričakujejo	mte:Vmpr3p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+na	mte:Sa	na
+led	mte:Ncmsan	led
+v	mte:Sl	v
+Tivoliju	mte:Npmsl	Tivolij
+vrnili	mte:Vmep-pm	vrniti
+po	mte:Sl	po
+EP	mte:Ncmsan	EP
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+15	mte:Mdc	15
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Zalog	mte:Ncfpg	zaloga
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+nared	mte:Rgp	nared
+Od	mte:Sg	od
+ponedeljka	mte:Ncmsg	ponedeljka
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+hokejisti	mte:Ncmpn	hokejist
+lahko	mte:Rgp	lahko
+trenirali	mte:Vmpp-pm	trenirati
+v	mte:Sl	v
+Zalogu	mte:Npmsl	Zalog
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+napovedal	mte:Vmep-sm	napovedati
+Boris	mte:Npmsn	Boris
+Makoter	mte:Npmsn	Makoter
+iz	mte:Sg	iz
+Športa	mte:Npmsg	Šport
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zadolžen	mte:Appmsnn	zadolžen
+za	mte:Sa	za
+park	mte:Ncmsan	park
+Zalog	mte:Ncfpg	zaloga
+.	mte:Z	.
+"	mte:Z	"
+Zelo	mte:Rgp	zelo
+smo	mte:Va-r1p-n	biti
+si	mte:Px---d--y	se
+prizadevali	mte:Vmpp-pm	prizadevati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+led	mte:Npmsn	led
+zagotovili	mte:Vmep-pm	zagotoviti
+že	mte:Q	že
+avgusta	mte:Ncmsg	avgust
+,	mte:Z	,
+a	mte:Cc	a
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pokvarile	mte:Vmep-pf	pokvariti
+Mercatorjeve	mte:Aspfpn	Mercatorjev
+hladilnice	mte:Ncfpn	hladilnica
+,	mte:Z	,
+ki	mte:Cs	ki
+nam	mte:Pp1-pd	jaz
+zagotavljajo	mte:Vmpr3p	zagotavljati
+led	mte:Ncmsan	led
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+prvič	mte:Rgp	prvič
+,	mte:Z	,
+pa	mte:Cc	pa
+prav	mte:Q	prav
+letos	mte:Rgp	letos
+,	mte:Z	,
+ko	mte:Cs	ko
+v	mte:Sl	v
+Hali	mte:Npfsl	Hali
+Tivoli	mte:Npmsn	Tivoli
+zaradi	mte:Sg	zaradi
+EP	mte:Npmsg	EP
+ni	mte:Va-r3s-y	biti
+ledu	mte:Ncmsg	led
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Makoter	mte:Npmsn	Makoter
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+Mercatorju	mte:Npmsd	Mercator
+pokvarili	mte:Vmep-pm	pokvariti
+kompresorji	mte:Ncmpn	kompresor
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+morali	mte:Vmpp-pm	morati
+čakati	mte:Vmpn	čakati
+na	mte:Sa	na
+rezervne	mte:Agpmpa	rezerven
+dele	mte:Ncmpa	del
+iz	mte:Sg	iz
+Italije	mte:Npfsg	Italija
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+le	mte:Q	le
+uspelo	mte:Vmep-sn	uspeti
+popraviti	mte:Vmen	popraviti
+hladilne	mte:Agpfpg	hladilen
+naprave	mte:Ncfpa	naprava
+.	mte:Z	.
+"	mte:Z	"
+Jutri	mte:Rgp	jutri
+se	mte:Px------y	se
+začne	mte:Vmer3s	začeti
+hladiti	mte:Vmpn	hladiti
+betonska	mte:Agpfsn	betonski
+plošča	mte:Ncfsn	plošča
+,	mte:Z	,
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+in	mte:Cc	in
+četrtek	mte:Ncmsan	četrtek
+bomo	mte:Va-f1p-n	biti
+naredili	mte:Vmep-pm	narediti
+led	mte:Ncmsan	led
+in	mte:Cc	in
+zarisali	mte:Vmep-pm	zarisati
+črte	mte:Ncfpa	črta
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+lahko	mte:Rgp	lahko
+začeli	mte:Vmep-pm	začeti
+treningi	mte:Ncmpn	trening
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Makoter	mte:Npmsn	Makoter
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+zaveda	mte:Vmpr3s	zavedati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+hokejisti	mte:Ncmpn	hokejist
+zaradi	mte:Sg	zaradi
+teh	mte:Pd-fpg	ta
+težav	mte:Ncfpg	težava
+morali	mte:Vmpp-pm	morati
+voziti	mte:Vmpn	voziti
+na	mte:Sa	na
+drug	mte:Mlpmsan	drug
+konec	mte:Ncmsan	konec
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+trenirali	mte:Vmpp-pm	trenirati
+na	mte:Sl	na
+ledu	mte:Ncmsl	led

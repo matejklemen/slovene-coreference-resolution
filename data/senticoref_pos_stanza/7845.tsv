@@ -1,518 +1,541 @@
-token	tag
-Večina	Ncfsn
-gradbenih	Agpmpg
-velikanov	Ncmpg
-je	Va-r3s-n
-končala	Vmep-sf
-v	Sl
-stečaju	Ncmsl
-Predlog	Ncmsan
-za	Sa
-stečaj	Ncmsan
-Kraškega	Agpmsg
-zidarja	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-vložen	Agpmsnn
-pretekli	Appmsay
-ponedeljek	Ncmsan
-,	Z
-pomeni	Vmbr3s
-padec	Ncmsan
-še	Q
-ene	Mlpfsg
-izmed	Sg
-domin	Ncfpg
-v	Sl
-nizu	Ncmsl
-propadov	Ncmpg
-nekdanjih	Agpnpg
-uspešnih	Agpnpg
-slovenskih	Agpnpg
-gradbenih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Sežansko	Agpnsn
-gradbeno	Agpnsn
-podjetje	Ncnsn
-je	Va-r3s-n
-delovalo	Vmpp-sn
-vse	Pg-nsn
-od	Sg
-povojnih	Agpnpg
-let	Ncnpg
-,	Z
-ko	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-ustanovljeno	Appnsn
-z	Si
-namenom	Ncmsi
-izgradnje	Ncfsg
-porušene	Appfsg
-domovine	Ncfsg
-.	Z
-Med	Si
-njegovimi	Ps3mpism
-poznejšimi	Agcmpi
-prepoznavnejšimi	Agcmpi
-projekti	Ncmpi
-so	Va-r3p-n
-bile	Va-p-pf
-med	Si
-drugim	Mlpnsi
-stolpnice	Ncfpn
-v	Sl
-ljubljanskih	Agpfpl
-Dravljah	Npfpl
-in	Cc
-Fužinah	Npfpl
-.	Z
-V	Sl
-zadnjih	Agpnpl
-letih	Ncnpl
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-v	Sl
-Kraškem	Agpmsl
-zidarju	Ncmsl
-tako	Rgp
-kot	Cs
-v	Sl
-mnogo	Rgp
-drugih	Mlpnpl
-slovenskih	Agpnpl
-gradbenih	Agpnpl
-podjetjih	Ncnpl
-posvečali	Vmpp-pm
-številnim	Agpmpd
-stanovanjskim	Agpmpd
-projektom	Ncmpd
-tako	Cc
-na	Sl
-Primorskem	Npnsl
-kot	Cs
-v	Sl
-prestolnici	Ncfsl
-.	Z
-Prav	Q
-pretirana	Appfsn
-stanovanjska	Agpfsn
-gradnja	Ncfsn
-je	Va-r3s-n
-bila	Va-p-sf
-eden	Mlpmsn
-glavnih	Agpmpg
-krivcev	Ncmpg
-za	Sa
-stečaje	Ncmpa
-gradbenih	Agpnpg
-podjetij	Ncnpg
-,	Z
-med	Si
-katerimi	Pq-mpi
-so	Va-r3p-n
-se	Px------y
-do	Sg
-zdaj	Rgp
-znašli	Vmep-pm
-še	Q
-SCT	Npmsn
-,	Z
-Vegrad	Npmsn
-,	Z
-Primorje	Npnsn
-MTB	Npmsn
-,	Z
-Konstruktor	Npmsn
-VGR	Npmsn
-,	Z
-Gradbeno	Agpnsn
-podjetje	Ncnsn
-Bežigrad	Npmsn
-,	Z
-Gradis	Npmsn
-Celje	Npnsn
-,	Z
-CPM	Npmsn
-,	Z
-GPG	Npmsn
-,	Z
-Stavbar	Npmsn
-Gradnje	Npfsg
-in	Cc
-Gradbinec	Npmsn
-GIP	Npmsn
-.	Z
-Seznamu	Ncmsd
-stečajnikov	Ncmpg
-pa	Cc
-se	Px------y
-bo	Va-f3s-n
-pridružilo	Vmep-sn
-še	Q
-kakšno	Pq-nsn
-nekdaj	Rgp
-zveneče	Appnsn
-ime	Ncnsn
-med	Si
-gradbenimi	Agpnpi
-podjetji	Ncnpi
-,	Z
-saj	Cc
-so	Va-r3p-n
-trenutno	Rgp
-v	Sl
-fazi	Ncfsl
-prisilne	Agpfsg
-poravnave	Ncfsg
-Energoplan	Npmsn
-,	Z
-Gradis	Npmsn
-skupina	Ncfsn
-G	Ncmsn
-,	Z
-druži	Vmpr3s
-ju	Pp3mda--y
-tudi	Q
-podjetje	Ncnsn
-Grep	Npmsn
-,	Z
-ki	Cs
-gradi	Vmpr3s
-športno	Agpnsa
--	Z
-trgovski	Agpmsay
-kompleks	Ncmsan
-v	Sl
-Stožicah	Npfpl
-,	Z
-ter	Cc
-CMC	Npmsn
-Celje	Npnsn
-.	Z
-Gospodarska	Agpfsn
-kriza	Ncfsn
-je	Va-r3s-n
-najbolj	Rgs
-prizadela	Vmep-sf
-tista	Pd-npa
-gradbena	Agpnpa
-podjetja	Ncnpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-najbolj	Rgs
-posvečala	Vmpp-pf
-tržni	Agpfsd
-stanovanjski	Agpfsd
-gradnji	Ncfsd
-.	Z
-Gradbena	Agpnpn
-podjetja	Ncnpn
-,	Z
-ki	Cs
-se	Px------y
-ukvarjajo	Vmpr3p
-s	Si
-cestno	Agpfsi
-in	Cc
-drugo	Mlpfsi
-infrastrukturo	Ncfsi
-,	Z
-imajo	Vmpr3p-n
-vsaj	Q
-za	Sa
-zdaj	Rgp
-malo	Rgp
-manj	Rgc
-likvidnostnih	Agpfpg
-težav	Ncfpg
-.	Z
-Preveliko	Agpnsn
-zadolževanje	Ncnsn
-za	Sa
-stanovanjske	Agpfpa
-in	Cc
-poslovne	Agpfpa
-gradnje	Ncfpa
-pa	Cc
-zagotovo	Rgp
-ni	Va-r3s-y
-edini	Agpmsny
-vzrok	Ncmsn
-za	Sa
-propad	Ncmsan
-podjetij	Ncnpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-prispevala	Vmbp-pn
-enega	Mlpmsa
-glavnih	Agpmpg
-deležev	Ncmpg
-h	Sd
-gospodarski	Agpfsd
-rasti	Ncfsd
-oziroma	Cc
-dvigu	Ncmsd
-bruto	Agpmsg
-družbenega	Agpmsg
-proizvoda	Ncmsg
-BDP	Ncmsn
-Slovenije	Npfsg
-sredi	Sg
-prejšnjega	Agpnsg
-desetletja	Ncnsg
-.	Z
-Odgovornost	Ncfsa
-na	Sa
-vodilnih	Agpmpl
-Velik	Agpmsan
-del	Ncmsan
-odgovornosti	Ncfsg
-nosi	Vmpr3s
-tudi	Q
-vodstveni	Agpmsay
-kader	Ncmsan
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-s	Si
-t	Ncmsi
-.	Z
-i	Mrc
-.	Z
-tajkunskimi	Agpmpi
-prevzemi	Ncmpi
-dokopal	Vmep-sm
-do	Sg
-večinskega	Agpmsg
-ali	Cc
-pretežnega	Agpmsg
-dela	Ncmsg
-njihovih	Ps3fpgp
-gospodarskih	Agpfpg
-družb	Ncfpg
-in	Cc
-jih	Pp3mpa--y
-nato	Rgp
-finančno	Rgp
-izčrpal	Vmep-sm
-za	Sa
-odplačevanje	Ncnsa
-silnih	Agpnpg
-posojil	Ncnpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-so	Va-r3p-n
-jim	Pp3mpd--y
-banke	Ncfpn
-ravnodušno	Rgp
-omogočile	Vmep-pf
-lastniške	Agpmpa
-prevzeme	Ncmpa
-.	Z
-Banke	Ncfpn
-naj	Q
-bi	Va-c
-imele	Vmpp-pf
-do	Sg
-gradbenih	Agpnpg
-podjetij	Ncnpg
-vsega	Pg-nsg
-skupaj	Rgp
-za	Sa
-več	Rgc
-kot	Cs
-tri	Mlcfpa
-milijarde	Ncfpa
-evrov	Ncmpg
-terjatev	Ncfpg
-,	Z
-skupaj	Rgp
-z	Si
-garancijami	Ncfpi
-pa	Cc
-celo	Q
-več	Rgc
-kot	Cs
-pet	Mlc-pa
-milijard	Ncfpg
-.	Z
-Zaradi	Sg
-stečajev	Ncmpg
-v	Sl
-gradbenem	Agpmsl
-sektorju	Ncmsl
-bodo	Va-f3p-n
-lahko	Rgp
-ostale	Vmep-pf
-praznih	Agpfpg
-rok	Ncfpg
-za	Sa
-več	Rgc
-sto	Mlc-pa
-milijonov	Ncmpg
-.	Z
-Vendar	Cc
-se	Px------y
-bodo	Va-f3p-n
-banke	Ncfpn
-reševale	Vmpp-pf
-oziroma	Cc
-sanirale	Vmbp-pf
-z	Si
-dokapitalizacijo	Ncfsi
-,	Z
-tudi	Q
-na	Sa
-račun	Ncmsan
-davkoplačevalskega	Agpmsg
-denarja	Ncmsg
-.	Z
-Gradbena	Agpnpn
-podjetja	Ncnpn
-pač	Q
-ne	Q
-.	Z
-Kar	Rgp
-nekaj	Rgp
-jih	Pp3mpg--y
-je	Va-r3s-n
-pred	Si
-stečajem	Ncmsi
-,	Z
-denimo	Vmem1p
-v	Sl
-primeru	Ncmsl
-SCT	Npmsn
--	Z
-ja	Q
-in	Cc
-Primorja	Npnsg
-,	Z
-najavljalo	Rgs
-,	Z
-da	Cs
-jim	Pp3mpd--y
-prihajajo	Vmpr3p
-na	Sa
-pomoč	Ncfsa
-tuji	Agpmpn
-partnerji	Ncmpn
-s	Si
-svežim	Agpmsi
-kapitalom	Ncmsi
-.	Z
-Vendar	Cc
-so	Va-r3p-n
-se	Px------y
-te	Pd-fpn
-zgodbe	Ncfpn
-uvrščale	Vmpp-pf
-le	Q
-v	Sa
-žanr	Ncmsan
-fikcije	Ncfsg
-.	Z
-Reševanje	Ncnsn
-z	Si
-avtocestnim	Agpmsi
-križem	Ncmsi
-Slovenska	Agpfsn
-gradbena	Agpfsn
-industrija	Ncfsn
-se	Px------y
-je	Va-r3s-n
-znašla	Vmep-sf
-v	Sl
-težavah	Ncfpl
-ob	Sl
-osamosvojitvi	Ncfsl
-Slovenije	Npfsg
-,	Z
-še	Q
-posebej	Rgp
-večja	Agcnpn
-gradbena	Agpnpn
-podjetja	Ncnpn
-.	Z
-Tako	Rgp
-kot	Cs
-velik	Agpmsnn
-del	Ncmsn
-slovenskega	Agpnsg
-gospodarstva	Ncnsg
-je	Va-r3s-n
-utrpela	Vmep-sf
-izgubo	Ncfsa
-trgov	Ncmpg
-na	Sl
-območju	Ncnsl
-nekdanje	Agpfsg
-Jugoslavije	Npfsg
-,	Z
-pa	Cc
-tudi	Q
-drugod	Rgp
-po	Sl
-vzhodni	Agpfsl
-Evropi	Npfsl
-.	Z
-SCT	Npmsn
-je	Va-r3s-n
-v	Sl
-času	Ncmsl
-nekdanje	Agpfsg
-Jugoslavije	Npfsg
-gradil	Vmpp-sm
-po	Sl
-celotni	Agpfsl
-nekdanji	Agpfsl
-skupni	Agpfsl
-državi	Ncfsl
-,	Z
-pa	Cc
-tudi	Q
-v	Sl
-državah	Ncfpl
-nekdanjega	Agpmsg
-vzhodnega	Agpmsg
-bloka	Ncmsg
-,	Z
-v	Sl
-Afriki	Npfsl
-in	Cc
-na	Sl
-Bližnjem	Agpmsl
-vzhodu	Ncmsl
-.	Z
-Na	Sa
-pomoč	Ncfsa
-je	Va-r3s-n
-kmalu	Rgp
-priskočila	Vmep-sf
-država	Ncfsn
-in	Cc
-začela	Vmep-sf
-se	Px------y
-je	Va-r3s-n
-izgradnja	Ncfsn
-slovenskega	Agpmsg
-avtocestnega	Agpmsg
-križa	Ncmsg
-.	Z
-Večino	Ncfsa
-poslov	Ncmpg
-so	Va-r3p-n
-dobila	Vmep-pn
-slovenska	Agpnpn
-podjetja	Ncnpn
-.	Z
+token	tag	lemma
+Večina	mte:Ncfsn	večina
+gradbenih	mte:Agpmpg	gradben
+velikanov	mte:Ncmpg	velikan
+je	mte:Va-r3s-n	biti
+končala	mte:Vmep-sf	končati
+v	mte:Sl	v
+stečaju	mte:Ncmsl	stečaj
+Predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+stečaj	mte:Ncmsan	stečaj
+Kraškega	mte:Agpmsg	kraški
+zidarja	mte:Ncmsg	zidar
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+vložen	mte:Agpmsnn	vložen
+pretekli	mte:Appmsay	pretekel
+ponedeljek	mte:Ncmsan	ponedeljek
+,	mte:Z	,
+pomeni	mte:Vmbr3s	pomeniti
+padec	mte:Ncmsan	padec
+še	mte:Q	še
+ene	mte:Mlpfsg	en
+izmed	mte:Sg	izmed
+domin	mte:Ncfpg	domina
+v	mte:Sl	v
+nizu	mte:Ncmsl	niz
+propadov	mte:Ncmpg	propad
+nekdanjih	mte:Agpnpg	nekdanji
+uspešnih	mte:Agpnpg	uspešen
+slovenskih	mte:Agpnpg	slovenski
+gradbenih	mte:Agpnpg	gradben
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Sežansko	mte:Agpnsn	sežanski
+gradbeno	mte:Agpnsn	gradben
+podjetje	mte:Ncnsn	podjetje
+je	mte:Va-r3s-n	biti
+delovalo	mte:Vmpp-sn	delovati
+vse	mte:Pg-nsn	ves
+od	mte:Sg	od
+povojnih	mte:Agpnpg	povojen
+let	mte:Ncnpg	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+ustanovljeno	mte:Appnsn	ustanovljen
+z	mte:Si	z
+namenom	mte:Ncmsi	namen
+izgradnje	mte:Ncfsg	izgradnja
+porušene	mte:Appfsg	porušen
+domovine	mte:Ncfsg	domovina
+.	mte:Z	.
+Med	mte:Si	med
+njegovimi	mte:Ps3mpism	njegov
+poznejšimi	mte:Agcmpi	pozeni
+prepoznavnejšimi	mte:Agcmpi	prepozeven
+projekti	mte:Ncmpi	projekt
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+stolpnice	mte:Ncfpn	stolpnica
+v	mte:Sl	v
+ljubljanskih	mte:Agpfpl	ljubljanski
+Dravljah	mte:Npfpl	Dravlja
+in	mte:Cc	in
+Fužinah	mte:Npfpl	Fužine
+.	mte:Z	.
+V	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+letih	mte:Ncnpl	leto
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+Kraškem	mte:Agpmsl	kraški
+zidarju	mte:Ncmsl	zidar
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+v	mte:Sl	v
+mnogo	mte:Rgp	mnogo
+drugih	mte:Mlpnpl	drug
+slovenskih	mte:Agpnpl	slovenski
+gradbenih	mte:Agpnpl	gradben
+podjetjih	mte:Ncnpl	podjetje
+posvečali	mte:Vmpp-pm	posvečati
+številnim	mte:Agpmpd	številen
+stanovanjskim	mte:Agpmpd	stanovanjski
+projektom	mte:Ncmpd	projekt
+tako	mte:Cc	tako
+na	mte:Sl	na
+Primorskem	mte:Npnsl	Primorsko
+kot	mte:Cs	kot
+v	mte:Sl	v
+prestolnici	mte:Ncfsl	prestolnica
+.	mte:Z	.
+Prav	mte:Q	prav
+pretirana	mte:Appfsn	pretiran
+stanovanjska	mte:Agpfsn	stanovanjski
+gradnja	mte:Ncfsn	gradnja
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+eden	mte:Mlpmsn	eden
+glavnih	mte:Agpmpg	glaven
+krivcev	mte:Ncmpg	krivec
+za	mte:Sa	za
+stečaje	mte:Ncmpa	stečaj
+gradbenih	mte:Agpnpg	gradben
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+znašli	mte:Vmep-pm	znajti
+še	mte:Q	še
+SCT	mte:Npmsn	SCT
+,	mte:Z	,
+Vegrad	mte:Npmsn	Vegrad
+,	mte:Z	,
+Primorje	mte:Npnsn	Primorje
+MTB	mte:Npmsn	MTB
+,	mte:Z	,
+Konstruktor	mte:Npmsn	Konstruktor
+VGR	mte:Npmsn	VGR
+,	mte:Z	,
+Gradbeno	mte:Agpnsn	gradben
+podjetje	mte:Ncnsn	podjetje
+Bežigrad	mte:Npmsn	Bežigrad
+,	mte:Z	,
+Gradis	mte:Npmsn	Gradis
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+CPM	mte:Npmsn	CPM
+,	mte:Z	,
+GPG	mte:Npmsn	GPG
+,	mte:Z	,
+Stavbar	mte:Npmsn	Stavbar
+Gradnje	mte:Npfsg	Gradnja
+in	mte:Cc	in
+Gradbinec	mte:Npmsn	Gradbinec
+GIP	mte:Npmsn	GIP
+.	mte:Z	.
+Seznamu	mte:Ncmsd	seznam
+stečajnikov	mte:Ncmpg	stečajnik
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+pridružilo	mte:Vmep-sn	pridružiti
+še	mte:Q	še
+kakšno	mte:Pq-nsn	kakšen
+nekdaj	mte:Rgp	nekdaj
+zveneče	mte:Appnsn	zveneč
+ime	mte:Ncnsn	ime
+med	mte:Si	med
+gradbenimi	mte:Agpnpi	gradben
+podjetji	mte:Ncnpi	podjetje
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+trenutno	mte:Rgp	trenutno
+v	mte:Sl	v
+fazi	mte:Ncfsl	faza
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+Energoplan	mte:Npmsn	Energoplan
+,	mte:Z	,
+Gradis	mte:Npmsn	Gradis
+skupina	mte:Ncfsn	skupina
+G	mte:Ncmsn	G
+,	mte:Z	,
+druži	mte:Vmpr3s	družiti
+ju	mte:Pp3mda--y	on
+tudi	mte:Q	tudi
+podjetje	mte:Ncnsn	podjetje
+Grep	mte:Npmsn	Grep
+,	mte:Z	,
+ki	mte:Cs	ki
+gradi	mte:Vmpr3s	graditi
+športno	mte:Agpnsa	športen
+-	mte:Z	-
+trgovski	mte:Agpmsay	trgovski
+kompleks	mte:Ncmsan	kompleks
+v	mte:Sl	v
+Stožicah	mte:Npfpl	Stožice
+,	mte:Z	,
+ter	mte:Cc	ter
+CMC	mte:Npmsn	CMC
+Celje	mte:Npnsn	Celje
+.	mte:Z	.
+Gospodarska	mte:Agpfsn	gospodarski
+kriza	mte:Ncfsn	kriza
+je	mte:Va-r3s-n	biti
+najbolj	mte:Rgs	najbolj
+prizadela	mte:Vmep-sf	prizadeti
+tista	mte:Pd-npa	tisti
+gradbena	mte:Agpnpa	gradben
+podjetja	mte:Ncnpa	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+najbolj	mte:Rgs	najbolj
+posvečala	mte:Vmpp-pf	posvečati
+tržni	mte:Agpfsd	tržen
+stanovanjski	mte:Agpfsd	stanovanjski
+gradnji	mte:Ncfsd	gradnja
+.	mte:Z	.
+Gradbena	mte:Agpnpn	gradben
+podjetja	mte:Ncnpn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+ukvarjajo	mte:Vmpr3p	ukvarjati
+s	mte:Si	z
+cestno	mte:Agpfsi	cestno
+in	mte:Cc	in
+drugo	mte:Mlpfsi	drug
+infrastrukturo	mte:Ncfsi	infrastruktura
+,	mte:Z	,
+imajo	mte:Vmpr3p-n	imeti
+vsaj	mte:Q	vsaj
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+malo	mte:Rgp	malo
+manj	mte:Rgc	manj
+likvidnostnih	mte:Agpfpg	likvidnosten
+težav	mte:Ncfpg	težava
+.	mte:Z	.
+Preveliko	mte:Agpnsn	prevelik
+zadolževanje	mte:Ncnsn	zadolževanje
+za	mte:Sa	za
+stanovanjske	mte:Agpfpa	stanovanjski
+in	mte:Cc	in
+poslovne	mte:Agpfpa	posloven
+gradnje	mte:Ncfpa	gradnja
+pa	mte:Cc	pa
+zagotovo	mte:Rgp	zagotovo
+ni	mte:Va-r3s-y	biti
+edini	mte:Agpmsny	edin
+vzrok	mte:Ncmsn	vzrok
+za	mte:Sa	za
+propad	mte:Ncmsan	propad
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+prispevala	mte:Vmbp-pn	prispevati
+enega	mte:Mlpmsa	en
+glavnih	mte:Agpmpg	glaven
+deležev	mte:Ncmpg	delež
+h	mte:Sd	k
+gospodarski	mte:Agpfsd	gospodarski
+rasti	mte:Ncfsd	rast
+oziroma	mte:Cc	oziroma
+dvigu	mte:Ncmsd	dvig
+bruto	mte:Agpmsg	bruto
+družbenega	mte:Agpmsg	družben
+proizvoda	mte:Ncmsg	proizvod
+BDP	mte:Ncmsn	BDP
+Slovenije	mte:Npfsg	Slovenija
+sredi	mte:Sg	sredi
+prejšnjega	mte:Agpnsg	prejšnji
+desetletja	mte:Ncnsg	desetletje
+.	mte:Z	.
+Odgovornost	mte:Ncfsa	odgovornost
+na	mte:Sa	na
+vodilnih	mte:Agpmpl	vodilen
+Velik	mte:Agpmsan	velik
+del	mte:Ncmsan	del
+odgovornosti	mte:Ncfsg	odgovornost
+nosi	mte:Vmpr3s	nositi
+tudi	mte:Q	tudi
+vodstveni	mte:Agpmsay	vodstven
+kader	mte:Ncmsan	kader
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+t	mte:Ncmsi	t
+.	mte:Z	.
+i	mte:Mrc	i
+.	mte:Z	.
+tajkunskimi	mte:Agpmpi	tajkunski
+prevzemi	mte:Ncmpi	prevzem
+dokopal	mte:Vmep-sm	dokopati
+do	mte:Sg	do
+večinskega	mte:Agpmsg	večinski
+ali	mte:Cc	ali
+pretežnega	mte:Agpmsg	pretežen
+dela	mte:Ncmsg	delo
+njihovih	mte:Ps3fpgp	njihov
+gospodarskih	mte:Agpfpg	gospodarski
+družb	mte:Ncfpg	družba
+in	mte:Cc	in
+jih	mte:Pp3mpa--y	on
+nato	mte:Rgp	nato
+finančno	mte:Rgp	finančen
+izčrpal	mte:Vmep-sm	izčrpati
+za	mte:Sa	za
+odplačevanje	mte:Ncnsa	odplačevanje
+silnih	mte:Agpnpg	silen
+posojil	mte:Ncnpg	posojilo
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+so	mte:Va-r3p-n	biti
+jim	mte:Pp3mpd--y	on
+banke	mte:Ncfpn	banka
+ravnodušno	mte:Rgp	ravnodušno
+omogočile	mte:Vmep-pf	omogočiti
+lastniške	mte:Agpmpa	lastniški
+prevzeme	mte:Ncmpa	prevzem
+.	mte:Z	.
+Banke	mte:Ncfpn	banka
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imele	mte:Vmpp-pf	imeti
+do	mte:Sg	do
+gradbenih	mte:Agpnpg	gradben
+podjetij	mte:Ncnpg	podjetje
+vsega	mte:Pg-nsg	ves
+skupaj	mte:Rgp	skupaj
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+tri	mte:Mlcfpa	trije
+milijarde	mte:Ncfpa	milijarda
+evrov	mte:Ncmpg	evro
+terjatev	mte:Ncfpg	terjatev
+,	mte:Z	,
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+garancijami	mte:Ncfpi	garancija
+pa	mte:Cc	pa
+celo	mte:Q	celo
+več	mte:Rgc	več
+kot	mte:Cs	kot
+pet	mte:Mlc-pa	pet
+milijard	mte:Ncfpg	milijarda
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+stečajev	mte:Ncmpg	stečaj
+v	mte:Sl	v
+gradbenem	mte:Agpmsl	gradben
+sektorju	mte:Ncmsl	sektor
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+ostale	mte:Vmep-pf	ostati
+praznih	mte:Agpfpg	prazen
+rok	mte:Ncfpg	rok
+za	mte:Sa	za
+več	mte:Rgc	več
+sto	mte:Mlc-pa	sto
+milijonov	mte:Ncmpg	milijon
+.	mte:Z	.
+Vendar	mte:Cc	vendar
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+banke	mte:Ncfpn	banka
+reševale	mte:Vmpp-pf	reševati
+oziroma	mte:Cc	oziroma
+sanirale	mte:Vmbp-pf	sanirati
+z	mte:Si	z
+dokapitalizacijo	mte:Ncfsi	dokapitalizacija
+,	mte:Z	,
+tudi	mte:Q	tudi
+na	mte:Sa	na
+račun	mte:Ncmsan	račun
+davkoplačevalskega	mte:Agpmsg	davkoplačevalski
+denarja	mte:Ncmsg	denar
+.	mte:Z	.
+Gradbena	mte:Agpnpn	gradben
+podjetja	mte:Ncnpn	podjetje
+pač	mte:Q	pač
+ne	mte:Q	ne
+.	mte:Z	.
+Kar	mte:Rgp	kar
+nekaj	mte:Rgp	nekaj
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+stečajem	mte:Ncmsi	stečaj
+,	mte:Z	,
+denimo	mte:Vmem1p	deti
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+ja	mte:Q	ja
+in	mte:Cc	in
+Primorja	mte:Npnsg	Primorje
+,	mte:Z	,
+najavljalo	mte:Rgs	najavljalo
+,	mte:Z	,
+da	mte:Cs	da
+jim	mte:Pp3mpd--y	on
+prihajajo	mte:Vmpr3p	prihajati
+na	mte:Sa	na
+pomoč	mte:Ncfsa	pomoč
+tuji	mte:Agpmpn	tuj
+partnerji	mte:Ncmpn	partner
+s	mte:Si	z
+svežim	mte:Agpmsi	svež
+kapitalom	mte:Ncmsi	kapital
+.	mte:Z	.
+Vendar	mte:Cc	vendar
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+te	mte:Pd-fpn	ta
+zgodbe	mte:Ncfpn	zgodba
+uvrščale	mte:Vmpp-pf	uvrščati
+le	mte:Q	le
+v	mte:Sa	v
+žanr	mte:Ncmsan	žanr
+fikcije	mte:Ncfsg	fikcija
+.	mte:Z	.
+Reševanje	mte:Ncnsn	reševanje
+z	mte:Si	z
+avtocestnim	mte:Agpmsi	avtocesten
+križem	mte:Ncmsi	križ
+Slovenska	mte:Agpfsn	slovenski
+gradbena	mte:Agpfsn	gradben
+industrija	mte:Ncfsn	industrija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+znašla	mte:Vmep-sf	znajti
+v	mte:Sl	v
+težavah	mte:Ncfpl	težava
+ob	mte:Sl	ob
+osamosvojitvi	mte:Ncfsl	osamosvojitev
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+večja	mte:Agcnpn	velik
+gradbena	mte:Agpnpn	gradben
+podjetja	mte:Ncnpn	podjetje
+.	mte:Z	.
+Tako	mte:Rgp	tako
+kot	mte:Cs	kot
+velik	mte:Agpmsnn	velik
+del	mte:Ncmsn	del
+slovenskega	mte:Agpnsg	slovenski
+gospodarstva	mte:Ncnsg	gospodarstvo
+je	mte:Va-r3s-n	biti
+utrpela	mte:Vmep-sf	utrpeti
+izgubo	mte:Ncfsa	izguba
+trgov	mte:Ncmpg	trg
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+nekdanje	mte:Agpfsg	nekdanji
+Jugoslavije	mte:Npfsg	Jugoslavija
+,	mte:Z	,
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+drugod	mte:Rgp	drugod
+po	mte:Sl	po
+vzhodni	mte:Agpfsl	vzhoden
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+SCT	mte:Npmsn	SCT
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+nekdanje	mte:Agpfsg	nekdanji
+Jugoslavije	mte:Npfsg	Jugoslavija
+gradil	mte:Vmpp-sm	graditi
+po	mte:Sl	po
+celotni	mte:Agpfsl	celoten
+nekdanji	mte:Agpfsl	nekdanji
+skupni	mte:Agpfsl	skupen
+državi	mte:Ncfsl	država
+,	mte:Z	,
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+nekdanjega	mte:Agpmsg	nekdanji
+vzhodnega	mte:Agpmsg	vzhoden
+bloka	mte:Ncmsg	blok
+,	mte:Z	,
+v	mte:Sl	v
+Afriki	mte:Npfsl	Afrika
+in	mte:Cc	in
+na	mte:Sl	na
+Bližnjem	mte:Agpmsl	bližnji
+vzhodu	mte:Ncmsl	vzhod
+.	mte:Z	.
+Na	mte:Sa	na
+pomoč	mte:Ncfsa	pomoč
+je	mte:Va-r3s-n	biti
+kmalu	mte:Rgp	kmalu
+priskočila	mte:Vmep-sf	priskočiti
+država	mte:Ncfsn	država
+in	mte:Cc	in
+začela	mte:Vmep-sf	začeti
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+izgradnja	mte:Ncfsn	izgradnja
+slovenskega	mte:Agpmsg	slovenski
+avtocestnega	mte:Agpmsg	avtocesten
+križa	mte:Ncmsg	križ
+.	mte:Z	.
+Večino	mte:Ncfsa	večina
+poslov	mte:Ncmpg	posel
+so	mte:Va-r3p-n	biti
+dobila	mte:Vmep-sn	dobiti
+slovenska	mte:Agpnpn	slovenski
+podjetja	mte:Ncnpn	podjetje
+.	mte:Z	.
+Gradnja	mte:Ncfsn	gradnja
+novega	mte:Agpnsg	nov
+avtocestnega	mte:Agpnsg	avtocesten
+omrežja	mte:Ncnsg	omrežje
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+nekaterimi	mte:Pi-fpi	nekateri
+drugimi	mte:Mlpfpi	drug
+državami	mte:Ncfpi	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+gradile	mte:Vmpp-pf	graditi
+avtoceste	mte:Ncfpn	avtocesta
+,	mte:Z	,
+potekala	mte:Vmpp-sf	potekati
+zelo	mte:Rgp	zelo
+počasi	mte:Rgp	počasi

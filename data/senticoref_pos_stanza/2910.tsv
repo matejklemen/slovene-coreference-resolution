@@ -1,321 +1,330 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Pogajanja	Ncnpn
-o	Sl
-gradnji	Ncfsl
-plinovoda	Ncmsg
-Južni	Agpmsay
-tok	Ncmsan
-čez	Sa
-Slovenijo	Npfsa
-so	Va-r3p-n
-se	Px------y
-uspešno	Rgp
-končala	Vmep-pm
-,	Z
-slovenski	Agpmsny
-in	Cc
-ruski	Agpmsny
-premier	Ncmsn
-,	Z
-Borut	Npmsn
-Pahor	Npmsn
-in	Cc
-Vladimir	Npmsn
-Putin	Npmsn
-,	Z
-pa	Cc
-bi	Va-c
-lahko	Rgp
-sporazum	Ncmsan
-podpisala	Vmep-sf
-pred	Si
-nogometno	Agpfsi
-tekmo	Ncfsi
-med	Si
-Rusijo	Npfsi
-in	Cc
-Slovenijo	Npfsi
-,	Z
-ki	Cs
-bo	Va-f3s-n
-14	Mdc
-.	Z
-novembra	Ncmsg
-v	Sl
-Moskvi	Npfsl
-,	Z
-je	Va-r3s-n
-danes	Rgp
-poročala	Vmpp-sf
-TV	Npfsn
-Slovenija	Npfsn
-.	Z
-Pogovori	Ncmpn
-o	Sl
-gradnji	Ncfsl
-Južnega	Agpmsg
-toka	Ncmsg
-v	Sl
-Sloveniji	Npfsl
-so	Va-r3p-n
-potekali	Vmpp-pm
-vse	Rgp
-od	Sg
-lanske	Agpfsg
-pomladi	Ncfsg
-,	Z
-ko	Cs
-se	Px------y
-je	Va-r3s-n
-ruska	Agpfsn
-energetska	Agpfsn
-družba	Ncfsn
-Gazprom	Npmsn
-odločila	Vmep-sf
-za	Sa
-traso	Ncfsa
-plinovoda	Ncmsg
-.	Z
-Zadnja	Agpnpa
-odprta	Appnpa
-vprašanja	Ncnpa
-,	Z
-pri	Sl
-katerih	Pq-mpl
-naj	Q
-bi	Va-c
-velik	Agpmsan
-napredek	Ncmsan
-dosegli	Vmep-pm
-ob	Sl
-zadnjem	Agpmsl
-obisku	Ncmsl
-slovenskih	Agpmpg
-predstavnikov	Ncmpg
-v	Sl
-Moskvi	Npfsl
-22	Mdc
-.	Z
-oktobra	Ncmsg
-,	Z
-so	Va-r3p-n
-se	Px------y
-nanašala	Vmpp-pn
-na	Sa
-lastništvo	Ncnsa
-in	Cc
-davčni	Agpmsay
-položaj	Ncmsan
-skupnega	Agpnsg
-podjetja	Ncnsg
-v	Sl
-Sloveniji	Npfsl
-.	Z
-V	Sa
-sporazum	Ncmsan
-naj	Q
-bi	Va-c
-po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-ob	Sl
-oktobrskem	Agpmsl
-obisku	Ncmsl
-v	Sl
-Moskvi	Npfsl
-navajali	Vmpp-pm
-mediji	Ncmpn
-,	Z
-vnesli	Vmep-pm
-nekatera	Pi-npa
-določila	Ncnpa
-,	Z
-zaradi	Sg
-katerih	Pq-mpg
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-besedilo	Ncnsn
-dogovora	Ncmsg
-sprejemljivejše	Agcnsn
-tudi	Q
-za	Sa
-Evropsko	Agpfsa
-komisijo	Ncfsa
-.	Z
-Če	Cs
-bi	Va-c
-imel	Vmpp-sm
-Gazprom	Npmsn
-v	Sl
-skupnem	Agpnsl
-podjetju	Ncnsl
-z	Si
-družbo	Ncfsi
-Geoplin	Npmsn
-plinovodi	Ncmsa
-polovični	Agpmsay
-delež	Ncmsan
-,	Z
-bi	Va-c
-namreč	Cc
-to	Pd-nsn
-pomenilo	Vmbp-sn
-,	Z
-da	Cs
-Slovenija	Npfsn
-krši	Vmbr3s
-določila	Ncnpa
-tretjega	Mlomsg
-energetskega	Agpmsg
-paketa	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-začel	Vmep-sm
-veljati	Vmpn
-v	Sl
-začetku	Ncmsl
-septembra	Ncmsg
-.	Z
-Ta	Pd-fsn
-določa	Vmpr3s
-,	Z
-da	Cs
-plinovodna	Agpfsn
-infrastruktura	Ncfsn
-ne	Q
-sme	Vmpr3s
-biti	Va-n
-v	Sl
-lasti	Ncfsl
-podjetij	Ncnpg
-,	Z
-ki	Cs
-s	Si
-plinom	Ncmsi
-trgujejo	Vmpr3p
-,	Z
-prav	Q
-tako	Rgp
-pa	Cc
-prepoveduje	Vmpr3s
-lastništvo	Ncnsa
-plinovodov	Ncmpg
-v	Sl
-državah	Ncfpl
-EU	Npfsg
-podjetjem	Ncnsi
-iz	Sg
-tretjih	Mlofpg
-držav	Ncfpg
-.	Z
-Pahor	Npmsn
-in	Cc
-Putin	Npmsn
-sta	Va-r3d-n
-sporazumu	Ncmsd
-posvetila	Vmep-dm
-veliko	Rgp
-pozornosti	Ncfsg
-med	Si
-svojim	Px-nsi
-prvim	Mlonsi
-medsebojnim	Agpnsi
-srečanjem	Ncnsi
-,	Z
-ki	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sl
-začetku	Ncmsl
-septembra	Ncmsg
-v	Sl
-poljskem	Agpmsl
-Gdansku	Npmsl
-.	Z
-Takrat	Rgp
-sta	Va-r3d-n
-se	Px------y
-zavzela	Vmep-dm
-za	Sa
-pospešitev	Ncfsa
-pogovorov	Ncmpg
-in	Cc
-čim	Rgp
-prejšnji	Agpmsay
-dogovor	Ncmsan
-.	Z
-Plinovod	Aspmsnn
-Južni	Agpmsny
-tok	Ncmsn
-je	Va-r3s-n
-skupen	Agpmsnn
-projekt	Ncmsn
-Gazproma	Npmsn
-in	Cc
-italijanske	Agpfsg
-družbe	Ncfsg
-Eni	Mlpfsn
-,	Z
-sestavljala	Vmpp-dm
-pa	Cc
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-dva	Mlcmdn
-kraka	Ncmdn
-.	Z
-Poleg	Sg
-kraka	Ncmsg
-iz	Sg
-Rusije	Npfsg
-,	Z
-pod	Si
-Črnim	Agpnsi
-morjem	Ncnsi
-do	Sg
-Bolgarije	Npfsg
-,	Z
-Srbije	Npfsg
-,	Z
-Madžarske	Npfsg
-in	Cc
-Avstrije	Npfsg
-oz	Npfsg
-.	Z
-Slovenije	Npfsg
-v	Sa
-Italijo	Npfsa
-,	Z
-naj	Q
-bi	Va-c
-v	Sa
-Italijo	Npfsa
-šel	Vmbp-sm
-tudi	Q
-krak	Ncmsn
-,	Z
-ki	Cs
-bi	Va-c
-se	Px------y
-iz	Sg
-Bolgarije	Npfsg
-razcepil	Vmep-sm
-v	Sa
-Grčijo	Npfsa
-in	Cc
-nato	Rgp
-pod	Si
-Jadranskim	Agpnsi
-morjem	Ncnsi
-v	Sa
-južno	Agpfsa
-Italijo	Npfsa
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Pogajanja	mte:Ncnpn	pogajanje
+o	mte:Sl	o
+gradnji	mte:Ncfsl	gradnja
+plinovoda	mte:Ncmsg	plinovod
+Južni	mte:Agpmsay	južen
+tok	mte:Ncmsan	tok
+čez	mte:Sa	čez
+Slovenijo	mte:Npfsa	Slovenija
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+uspešno	mte:Rgp	uspešno
+končala	mte:Vmep-pm	končati
+,	mte:Z	,
+slovenski	mte:Agpmsny	slovenski
+in	mte:Cc	in
+ruski	mte:Agpmsny	ruski
+premier	mte:Ncmsn	premier
+,	mte:Z	,
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+Vladimir	mte:Npmsn	Vladimir
+Putin	mte:Npmsn	Putin
+,	mte:Z	,
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+sporazum	mte:Ncmsan	sporazum
+podpisala	mte:Vmep-sf	podpisati
+pred	mte:Si	pred
+nogometno	mte:Agpfsi	nogometen
+tekmo	mte:Ncfsi	tekma
+med	mte:Si	med
+Rusijo	mte:Npfsi	Rusija
+in	mte:Cc	in
+Slovenijo	mte:Npfsi	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+14	mte:Mdc	14
+.	mte:Z	.
+novembra	mte:Ncmsg	november
+v	mte:Sl	v
+Moskvi	mte:Npfsl	Moskva
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+poročala	mte:Vmpp-sf	poročati
+TV	mte:Npfsn	TV
+Slovenija	mte:Npfsn	Slovenija
+.	mte:Z	.
+Pogovori	mte:Ncmpn	pogovor
+o	mte:Sl	o
+gradnji	mte:Ncfsl	gradnja
+Južnega	mte:Agpmsg	južen
+toka	mte:Ncmsg	tok
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+so	mte:Va-r3p-n	biti
+potekali	mte:Vmpp-pm	potekati
+vse	mte:Rgp	vse
+od	mte:Sg	od
+lanske	mte:Agpfsg	lanski
+pomladi	mte:Ncfsg	pomlad
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ruska	mte:Agpfsn	ruski
+energetska	mte:Agpfsn	energetski
+družba	mte:Ncfsn	družba
+Gazprom	mte:Npmsn	Gazprom
+odločila	mte:Vmep-sf	odločiti
+za	mte:Sa	za
+traso	mte:Ncfsa	trasa
+plinovoda	mte:Ncmsg	plinovod
+.	mte:Z	.
+Zadnja	mte:Agpnpa	zadnji
+odprta	mte:Appnpa	odprt
+vprašanja	mte:Ncnpa	vprašanje
+,	mte:Z	,
+pri	mte:Sl	pri
+katerih	mte:Pq-mpl	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+velik	mte:Agpmsan	velik
+napredek	mte:Ncmsan	napredek
+dosegli	mte:Vmep-pm	doseči
+ob	mte:Sl	ob
+zadnjem	mte:Agpmsl	zadnji
+obisku	mte:Ncmsl	obisk
+slovenskih	mte:Agpmpg	slovenski
+predstavnikov	mte:Ncmpg	predstavnik
+v	mte:Sl	v
+Moskvi	mte:Npfsl	Moskva
+22	mte:Mdc	22
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+nanašala	mte:Vmpp-pn	nanašati
+na	mte:Sa	na
+lastništvo	mte:Ncnsa	lastništvo
+in	mte:Cc	in
+davčni	mte:Agpmsay	davčen
+položaj	mte:Ncmsan	položaj
+skupnega	mte:Agpnsg	skupen
+podjetja	mte:Ncnsg	podjetje
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+V	mte:Sa	v
+sporazum	mte:Ncmsan	sporazum
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+ob	mte:Sl	ob
+oktobrskem	mte:Agpmsl	oktobrski
+obisku	mte:Ncmsl	obisk
+v	mte:Sl	v
+Moskvi	mte:Npfsl	Moskva
+navajali	mte:Vmpp-pm	navajati
+mediji	mte:Ncmpn	medij
+,	mte:Z	,
+vnesli	mte:Vmep-pm	vnesti
+nekatera	mte:Pi-npa	nekateri
+določila	mte:Ncnpa	določilo
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+katerih	mte:Pq-mpg	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+besedilo	mte:Ncnsn	besedilo
+dogovora	mte:Ncmsg	dogovor
+sprejemljivejše	mte:Agcnsn	sprejemljiv
+tudi	mte:Q	tudi
+za	mte:Sa	za
+Evropsko	mte:Agpfsa	evropski
+komisijo	mte:Ncfsa	komisija
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+Gazprom	mte:Npmsn	Gazprom
+v	mte:Sl	v
+skupnem	mte:Agpnsl	skupen
+podjetju	mte:Ncnsl	podjetje
+z	mte:Si	z
+družbo	mte:Ncfsi	družba
+Geoplin	mte:Npmsn	Geoplin
+plinovodi	mte:Ncmsa	plinovod
+polovični	mte:Agpmsay	polovičen
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+to	mte:Pd-nsn	ta
+pomenilo	mte:Vmbp-sn	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+Slovenija	mte:Npfsn	Slovenija
+krši	mte:Vmbr3s	kršiti
+določila	mte:Ncnpa	določilo
+tretjega	mte:Mlomsg	tretji
+energetskega	mte:Agpmsg	energetski
+paketa	mte:Ncmsg	paket
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+začel	mte:Vmep-sm	začeti
+veljati	mte:Vmpn	veljati
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+določa	mte:Vmpr3s	določati
+,	mte:Z	,
+da	mte:Cs	da
+plinovodna	mte:Agpfsn	plinovoden
+infrastruktura	mte:Ncfsn	infrastruktura
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+biti	mte:Va-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+s	mte:Si	z
+plinom	mte:Ncmsi	plin
+trgujejo	mte:Vmpr3p	trgovati
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+prepoveduje	mte:Vmpr3s	prepovedovati
+lastništvo	mte:Ncnsa	lastništvo
+plinovodov	mte:Ncmpg	plinovod
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+EU	mte:Npfsg	EU
+podjetjem	mte:Ncnsi	podjetje
+iz	mte:Sg	iz
+tretjih	mte:Mlofpg	tretji
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+Putin	mte:Npmsn	Putin
+sta	mte:Va-r3d-n	biti
+sporazumu	mte:Ncmsd	sporazum
+posvetila	mte:Vmep-dm	posvetiti
+veliko	mte:Rgp	veliko
+pozornosti	mte:Ncfsg	pozornost
+med	mte:Si	med
+svojim	mte:Px-nsi	svoj
+prvim	mte:Mlonsi	prvi
+medsebojnim	mte:Agpnsi	medsebojen
+srečanjem	mte:Ncnsi	srečanje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+septembra	mte:Ncmsg	september
+v	mte:Sl	v
+poljskem	mte:Agpmsl	poljski
+Gdansku	mte:Npmsl	Gdansko
+.	mte:Z	.
+Takrat	mte:Rgp	takrat
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+zavzela	mte:Vmep-dm	zavzeti
+za	mte:Sa	za
+pospešitev	mte:Ncfsa	pospešitev
+pogovorov	mte:Ncmpg	pogovor
+in	mte:Cc	in
+čim	mte:Rgp	čim
+prejšnji	mte:Agpmsay	prejšnji
+dogovor	mte:Ncmsan	dogovor
+.	mte:Z	.
+Plinovod	mte:Aspmsnn	plinovod
+Južni	mte:Agpmsny	južen
+tok	mte:Ncmsn	tok
+je	mte:Va-r3s-n	biti
+skupen	mte:Agpmsnn	skupen
+projekt	mte:Ncmsn	projekt
+Gazproma	mte:Npmsn	Gazprom
+in	mte:Cc	in
+italijanske	mte:Agpfsg	italijanski
+družbe	mte:Ncfsg	družba
+Eni	mte:Mlpfsn	en
+,	mte:Z	,
+sestavljala	mte:Vmpp-dm	sestavljati
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+dva	mte:Mlcmdn	dva
+kraka	mte:Ncmdn	krak
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+kraka	mte:Ncmsg	krak
+iz	mte:Sg	iz
+Rusije	mte:Npfsg	Rusija
+,	mte:Z	,
+pod	mte:Si	pod
+Črnim	mte:Agpnsi	črn
+morjem	mte:Ncnsi	morje
+do	mte:Sg	do
+Bolgarije	mte:Npfsg	Bolgarija
+,	mte:Z	,
+Srbije	mte:Npfsg	Srbija
+,	mte:Z	,
+Madžarske	mte:Npfsg	Madžarska
+in	mte:Cc	in
+Avstrije	mte:Npfsg	Avstrija
+oz	mte:Npfsg	oz
+.	mte:Z	.
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sa	v
+Italijo	mte:Npfsa	Italija
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sa	v
+Italijo	mte:Npfsa	Italija
+šel	mte:Vmbp-sm	iti
+tudi	mte:Q	tudi
+krak	mte:Ncmsn	krak
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+iz	mte:Sg	iz
+Bolgarije	mte:Npfsg	Bolgarija
+razcepil	mte:Vmep-sm	razcepiti
+v	mte:Sa	v
+Grčijo	mte:Npfsa	Grčija
+in	mte:Cc	in
+nato	mte:Rgp	nato
+pod	mte:Si	pod
+Jadranskim	mte:Agpnsi	jadranski
+morjem	mte:Ncnsi	morje
+v	mte:Sa	v
+južno	mte:Agpfsa	južen
+Italijo	mte:Npfsa	Italija
+.	mte:Z	.
+Južni	mte:Agpmsny	južen
+tok	mte:Ncmsn	tok
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+končan	mte:Appmsnn	končan
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2015	mte:Mdc	2015

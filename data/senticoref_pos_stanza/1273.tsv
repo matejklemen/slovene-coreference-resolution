@@ -1,620 +1,646 @@
-token	tag
-V	Sl
-T	Ncmsn
--	Z
-2	Mdc
-so	Va-r3p-n
-se	Px------y
-ostro	Rgp
-odzvali	Vmep-pm
-na	Sa
-predlog	Ncmsan
-stečaja	Ncmsg
-s	Sg
-strani	Ncfsg
-Telekoma	Npmsg
-Slovenije	Npfsg
-Telekom	Npmsn
-Slovenije	Npfsg
-se	Px------y
-želi	Vmpr3s
-praktično	Rgp
-zastonj	Rgp
-polastiti	Vmen
-večjega	Agcnsg
-in	Cc
-boljšega	Agcnsg
-optičnega	Agpnsg
-omrežja	Ncnsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-izgradila	Vmep-sf
-družba	Ncfsn
-T	Npmsn
--	Z
-2	Mdc
-.	Z
-Telekom	Npmsn
-Slovenije	Npfsg
-je	Va-r3s-n
-v	Sa
-četrtek	Ncmsan
-na	Sa
-Okrožno	Agpnsa
-sodišče	Ncnsa
-v	Sl
-Mariboru	Npmsl
-podal	Vmbp-sm
-predlog	Ncmsan
-za	Sa
-začetek	Ncmsan
-stečajnega	Agpmsg
-postopka	Ncmsg
-nad	Si
-telekomunikacijsko	Agpfsi
-družbo	Ncfsi
-T	Npmsn
--	Z
-2	Mdc
-.	Z
-Za	Sa
-korak	Ncmsan
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-zaradi	Sg
-neplačevanja	Ncnsg
-obveznosti	Ncfsg
-in	Cc
-insolventnosti	Ncfsg
-omenjene	Appfsg
-mariborske	Agpfsg
-družbe	Ncfsg
-.	Z
-Družba	Ncfsn
-T	Ncmsn
--	Z
-2	Mdc
-že	Q
-od	Sg
-leta	Ncnsg
-2008	Mdc
-kljub	Sd
-sklenjenim	Appfpd
-pogodbam	Ncfpd
-ne	Q
-izpolnjuje	Vmpr3s
-svojih	Px-fpg
-obveznosti	Ncfpg
-,	Z
-poleg	Sg
-tega	Pd-nsg
-pa	Cc
-je	Va-r3s-n
-v	Sl
-letih	Ncnpl
-2008	Mdc
-in	Cc
-2009	Mdc
-izkazala	Vmep-sf
-veliko	Agpfsa
-izgubo	Ncfsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-obeh	Pg-ndl
-letih	Ncndl
-presegla	Vmep-sf
-polovico	Ncfsa
-kapitala	Ncmsg
-.	Z
-To	Pd-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-družba	Ncfsn
-insolventna	Agpfsn
-,	Z
-s	Si
-čimer	Pr-nsi
-so	Va-r3p-n
-izpolnjeni	Appmpn
-vsi	Pg-mpn
-pogoji	Ncmpn
-za	Sa
-začetek	Ncmsan
-stečajnega	Agpmsg
-postopka	Ncmsg
-.	Z
-Telekom	Npmsn
-Slovenije	Npfsg
-želi	Vmpr3s
-s	Si
-predlogom	Ncmsi
-za	Sa
-začetek	Ncmsan
-stečajnega	Agpmsg
-postopka	Ncmsg
-zagotoviti	Vmen
-,	Z
-da	Cs
-terjatve	Ncfpn
-družbe	Ncfsg
-do	Sg
-T	Ncmsn
--	Z
-2	Mdc
-ne	Q
-bodo	Va-f3p-n
-naraščale	Vmpp-pf
-,	Z
-so	Va-r3p-n
-dodali	Vmep-pm
-.	Z
-Pričakujejo	Vmpr3p
-pa	Cc
-poplačilo	Ncnsa
-vsaj	Q
-dela	Ncnsg
-terjatev	Ncfpg
-,	Z
-ki	Cs
-na	Sa
-današnji	Agpmsay
-dan	Ncmsan
-brez	Sg
-zamudnih	Agpfpg
-obresti	Ncfpg
-znašajo	Vmpr3p
-12,6	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-in	Cc
-sicer	Q
-11,6	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-zapadlih	Appfpg
-terjatev	Ncfpg
-,	Z
-od	Sg
-katerih	Pq-mpg
-je	Va-r3s-n
-8,2	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-v	Sl
-postopku	Ncmsl
-sodne	Agpfsg
-izterjave	Ncfsg
-,	Z
-dober	Agpmsnn
-milijon	Ncmsn
-evrov	Ncmpg
-pa	Cc
-nezapadlih	Appfpg
-terjatev	Ncfpg
-.	Z
-Iz	Sg
-T	Ncmsn
--	Z
-2	Mdc
-so	Va-r3p-n
-danes	Rgp
-sporočili	Vmep-pm
-našim	Ps1mpdp
-uporabnikom	Ncmpd
-in	Cc
-širši	Agcfsd
-javnosti	Ncfsd
-,	Z
-da	Cs
-T	Ncmsn
--	Z
-2	Mdc
-svojim	Px-mpd
-uporabnikom	Ncmpd
-nemoteno	Rgp
-zagotavlja	Vmpr3s
-vse	Pg-fpa
-storitve	Ncfpa
-.	Z
-Predloga	Ncmsg
-za	Sa
-stečaj	Ncmsan
-niso	Va-r3p-y
-prejeli	Vmep-pm
-,	Z
-so	Va-r3p-n
-pa	Cc
-prepričani	Appmpn
-,	Z
-da	Cs
-tovrstna	Agpfsn
-odločitev	Ncfsn
-Telekoma	Npmsg
-Slovenije	Npfsg
-potrjuje	Vmpr3s
-in	Cc
-izkazuje	Vmpr3s
-namero	Ncfsa
-Telekoma	Npmsg
-Slovenije	Npfsg
-,	Z
-da	Cs
-vztraja	Vmpr3s
-na	Sl
-poti	Ncfsl
-izkoriščanja	Ncnsg
-zlorabe	Ncfsg
-prevladujočega	Appmsg
-tržnega	Agpmsg
-položaja	Ncmsg
-,	Z
-po	Sl
-kateri	Pq-fsl
-hodi	Vmpr3s
-zadnjih	Agpnpg
-20	Mdc
-let	Ncnpg
-.	Z
-Trdijo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-hoče	Vmpr3s-n
-Telekom	Npmsn
-Slovenije	Npfsg
-praktično	Rgp
-zastonj	Rgp
-polastiti	Vmen
-večjega	Agcnsg
-in	Cc
-boljšega	Agcnsg
-optičnega	Agpnsg
-omrežja	Ncnsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-izgradila	Vmep-sf
-družba	Ncfsn
-T	Ncmsn
--	Z
-2	Mdc
-in	Cc
-ki	Cs
-je	Va-r3s-n
-tehnološko	Rgp
-precej	Rgp
-naprednejše	Agcfsn
-od	Sg
-omrežja	Ncnsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-ima	Vmpr3s-n
-Telekom	Npmsn
-Slovenije	Npfsg
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-treba	Rgp
-dodati	Vmen
-,	Z
-da	Cs
-se	Px------y
-sprevrženost	Ncfsn
-ravnanja	Ncnsg
-Telekoma	Npmsg
-Slovenije	Npfsg
-še	Q
-posebej	Rgp
-kaže	Vmpr3s
-v	Sl
-tem	Pd-nsl
-,	Z
-da	Cs
-Telekom	Ncmsn
-Slovenije	Npfsg
-družbi	Ncfsd
-T	Npmsn
--	Z
-2	Mdc
-dolguje	Vmpr3s
-skoraj	Q
-130	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-iz	Sg
-naslova	Ncmsg
-odškodninske	Agpfsg
-odgovornosti	Ncfsg
-,	Z
-medtem	Rgp
-ko	Cs
-stečajni	Agpmsny
-postopek	Ncmsn
-proti	Sd
-T	Ncmsn
--	Z
-2	Mdc
-vlaga	Vmpr3s
-zaradi	Sg
-12	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-ta	Pd-fsn
-višina	Ncfsn
-sporna	Agpfsn
-.	Z
-Takšno	Pd-nsn
-ravnanje	Ncnsn
-tržno	Rgp
-najmočnejšega	Agsmsg
-operaterja	Ncmsg
-v	Sl
-državi	Ncfsl
-pomeni	Vmbr3s
-hudo	Agpfsa
-obliko	Ncfsa
-pritiska	Ncmsg
-na	Sa
-svojega	Px-msa
-edinega	Agpmsa
-konkurenta	Ncmsay
-.	Z
-Poudarili	Vmep-pm
-so	Va-r3p-n
-,	Z
-da	Cs
-so	Va-r3p-n
-proti	Sd
-Telekomu	Npmsd
-Slovenije	Npfsg
-odškodninsko	Agpfsa
-tožbo	Ncfsa
-za	Sa
-plačilo	Ncnsa
-skoraj	Q
-130	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-glavnice	Ncfsg
-vložili	Vmep-pm
-že	Q
-pred	Si
-skoraj	Q
-štirimi	Mlcnpi
-leti	Ncnpi
-,	Z
-vendar	Cc
-sodišče	Ncnsn
-v	Sl
-tem	Pd-msl
-času	Ncmsl
-ni	Va-r3s-y
-razpisalo	Vmep-sn
-niti	Q
-ene	Mlpfsg
-glavne	Agpfsg
-obravnave	Ncfsg
-.	Z
-Agencijo	Ncfsa
-za	Sa
-pošto	Ncfsa
-in	Cc
-elektronske	Agpfsg
-komunikacije	Ncfsg
-Apek	Npmsn
-,	Z
-ki	Cs
-deluje	Vmpr3s
-v	Sl
-okviru	Ncmsl
-ministrstva	Ncnsg
-za	Sa
-visoko	Agpnsa
-šolstvo	Ncnsa
-,	Z
-ni	Va-r3s-y
-ukrenil	Vmep-sm
-in	Cc
-ne	Q
-ukrene	Vmer3s
-ničesar	Pz-nsg
-.	Z
-Prav	Q
-tako	Rgp
-ničesar	Pz-nsg
-ne	Q
-ukrene	Vmer3s
-ministrstvo	Ncnsn
-za	Sa
-gospodarstvo	Ncnsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-dolžno	Agpnsn
-zagotavljati	Vmpn
-konkurenco	Ncfsa
-na	Sl
-slovenskem	Agpmsl
-trgu	Ncmsl
-telekomunikacij	Ncfpg
-.	Z
-Spomnili	Vmep-pm
-so	Va-r3p-n
-,	Z
-da	Cs
-smo	Va-r1p-n
-se	Px------y
-s	Si
-tovrstno	Agpfsi
-zlorabo	Ncfsi
-tržne	Agpfsg
-moči	Ncfsg
-in	Cc
-monopola	Ncmsg
-v	Sl
-Sloveniji	Npfsl
-že	Q
-srečali	Vmep-pm
-pred	Si
-leti	Ncnpi
-,	Z
-ko	Cs
-je	Va-r3s-n
-monopolist	Ncmsn
-na	Sa
-enak	Pi-msa
-način	Ncmsan
-z	Sg
-našega	Ps1msgp
-trga	Ncmsg
-umaknil	Vmep-sm
-konkurenco	Ncfsa
-na	Sl
-področju	Ncnsl
-mobilne	Agpfsg
-telefonije	Ncfsg
-.	Z
-Takrat	Rgp
-se	Px------y
-je	Va-r3s-n
-Vega	Npmsn
-Western	Npmsn
-Wireless	Npmsn
-International	Npmsn
-kot	Cs
-močan	Agpmsnn
-tuji	Agpmsny
-investitor	Ncmsn
-na	Sl
-koncu	Ncmsl
-raje	Rgc
-odločila	Vmep-sf
-za	Sa
-umik	Ncmsan
-s	Sg
-slovenskega	Agpmsg
-trga	Ncmsg
-,	Z
-kot	Cs
-da	Cs
-bi	Va-c
-se	Px------y
-prerivala	Vmpp-sf
-z	Si
-državnimi	Agpmpi
-organi	Ncmpi
-in	Cc
-državnim	Agpnsi
-podjetjem	Ncnsi
-.	Z
-Gospodarsko	Agpnsn
-ministrstvo	Ncnsn
-in	Cc
-Apek	Ncmsn
-zato	Rgp
-javno	Rgp
-sprašujejo	Vmpr3p
-,	Z
-kaj	Pq-nsn
-sta	Va-r3d-n
-doslej	Rgp
-konkretnega	Agpnsg
-storila	Vmep-dm
-,	Z
-da	Cs
-bi	Va-c
-zagotovila	Vmep-dm
-konkurenco	Ncfsa
-na	Sl
-slovenskem	Agpmsl
-telekomunikacijskem	Agpmsl
-trgu	Ncmsl
-.	Z
-Pričakujemo	Vmpr1p
-konkretni	Agpmsay
-odgovor	Ncmsan
-,	Z
-saj	Cc
-je	Va-r3s-n
-celotna	Agpfsn
-situacija	Ncfsn
-resnično	Rgp
-žalostna	Agpfsn
-,	Z
-hkrati	Rgp
-pa	Cc
-smo	Va-r1p-n
-v	Sa
-posmeh	Ncmsa
-v	Sl
-Evropi	Npfsl
-.	Z
-T	Npmsn
--	Z
-2	Mdc
-se	Px------y
-je	Va-r3s-n
-sicer	Q
-januarja	Ncmsg
-letos	Rgp
-enkrat	Rgp
-že	Q
-izognil	Vmep-sm
-stečajnemu	Agpmsd
-postopku	Ncmsd
-.	Z
-Okrožno	Agpnsn
-sodišče	Ncnsn
-v	Sl
-Mariboru	Npmsl
-je	Va-r3s-n
-namreč	Cc
-na	Sl
-podlagi	Ncfsl
-umika	Ncmsg
-predloga	Ncmsg
-za	Sa
-začetek	Ncmsan
-stečajnega	Agpmsg
-postopka	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-poslal	Vmep-sm
-upnik	Ncmsn
-Smart	Npmsn
-Com	Npmsn
-,	Z
-ustavilo	Vmep-sn
-stečajni	Agpmsay
-postopek	Ncmsan
-.	Z
-Hkrati	Rgp
-so	Va-r3p-n
-šteli	Vmpp-pm
-,	Z
-da	Cs
-sta	Va-r3d-n
-predlog	Ncmsan
-umaknila	Vmep-dm
-tudi	Q
-druga	Mlpmdn
-dva	Mlcmdn
-udeleženca	Ncmdn
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+T	mte:Ncmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+ostro	mte:Rgp	ostro
+odzvali	mte:Vmep-pm	odzvati
+na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+stečaja	mte:Ncmsg	stečaj
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+se	mte:Px------y	se
+želi	mte:Vmpr3s	želeti
+praktično	mte:Rgp	praktično
+zastonj	mte:Rgp	zastonj
+polastiti	mte:Vmen	polastiti
+večjega	mte:Agcnsg	velik
+in	mte:Cc	in
+boljšega	mte:Agcnsg	dober
+optičnega	mte:Agpnsg	optičen
+omrežja	mte:Ncnsg	omrežje
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+izgradila	mte:Vmep-sf	izgraditi
+družba	mte:Ncfsn	družba
+T	mte:Npmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+.	mte:Z	.
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+na	mte:Sa	na
+Okrožno	mte:Agpnsa	okrožen
+sodišče	mte:Ncnsa	sodišče
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+podal	mte:Vmbp-sm	podati
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+stečajnega	mte:Agpmsg	stečajen
+postopka	mte:Ncmsg	postopek
+nad	mte:Si	nad
+telekomunikacijsko	mte:Agpfsi	telekomunikacijski
+družbo	mte:Ncfsi	družba
+T	mte:Npmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+.	mte:Z	.
+Za	mte:Sa	za
+korak	mte:Ncmsan	korak
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+zaradi	mte:Sg	zaradi
+neplačevanja	mte:Ncnsg	neplačevanje
+obveznosti	mte:Ncfsg	obveznost
+in	mte:Cc	in
+insolventnosti	mte:Ncfsg	insolventnost
+omenjene	mte:Appfsg	omenjen
+mariborske	mte:Agpfsg	mariborski
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+T	mte:Ncmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+kljub	mte:Sd	kljub
+sklenjenim	mte:Appfpd	sklenjen
+pogodbam	mte:Ncfpd	pogodba
+ne	mte:Q	ne
+izpolnjuje	mte:Vmpr3s	izpolnjevati
+svojih	mte:Px-fpg	svoj
+obveznosti	mte:Ncfpg	obveznost
+,	mte:Z	,
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+letih	mte:Ncnpl	leto
+2008	mte:Mdc	2008
+in	mte:Cc	in
+2009	mte:Mdc	2009
+izkazala	mte:Vmep-sf	izkazati
+veliko	mte:Agpfsa	velik
+izgubo	mte:Ncfsa	izguba
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+obeh	mte:Pg-ndl	oba
+letih	mte:Ncndl	leto
+presegla	mte:Vmep-sf	preseči
+polovico	mte:Ncfsa	polovica
+kapitala	mte:Ncmsg	kapital
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+insolventna	mte:Agpfsn	insolventen
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+so	mte:Va-r3p-n	biti
+izpolnjeni	mte:Appmpn	izpolnjen
+vsi	mte:Pg-mpn	ves
+pogoji	mte:Ncmpn	pogoj
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+stečajnega	mte:Agpmsg	stečajen
+postopka	mte:Ncmsg	postopek
+.	mte:Z	.
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+želi	mte:Vmpr3s	želeti
+s	mte:Si	z
+predlogom	mte:Ncmsi	predlog
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+stečajnega	mte:Agpmsg	stečajen
+postopka	mte:Ncmsg	postopek
+zagotoviti	mte:Vmen	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+terjatve	mte:Ncfpn	terjatva
+družbe	mte:Ncfsg	družba
+do	mte:Sg	do
+T	mte:Ncmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+naraščale	mte:Vmpp-pf	naraščati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+dodali	mte:Vmep-pm	dodati
+.	mte:Z	.
+Pričakujejo	mte:Vmpr3p	pričakovati
+pa	mte:Cc	pa
+poplačilo	mte:Ncnsa	poplačilo
+vsaj	mte:Q	vsaj
+dela	mte:Ncnsg	delo
+terjatev	mte:Ncfpg	terjatev
+,	mte:Z	,
+ki	mte:Cs	ki
+na	mte:Sa	na
+današnji	mte:Agpmsay	današnji
+dan	mte:Ncmsan	dan
+brez	mte:Sg	brez
+zamudnih	mte:Agpfpg	zamuden
+obresti	mte:Ncfpg	obresti
+znašajo	mte:Vmpr3p	znašati
+12,6	mte:Mdc	12,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+11,6	mte:Mdc	11,6
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+zapadlih	mte:Appfpg	zapadel
+terjatev	mte:Ncfpg	terjatev
+,	mte:Z	,
+od	mte:Sg	od
+katerih	mte:Pq-mpg	kateri
+je	mte:Va-r3s-n	biti
+8,2	mte:Mdc	8,2
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+sodne	mte:Agpfsg	soden
+izterjave	mte:Ncfsg	izterjava
+,	mte:Z	,
+dober	mte:Agpmsnn	dober
+milijon	mte:Ncmsn	milijon
+evrov	mte:Ncmpg	evro
+pa	mte:Cc	pa
+nezapadlih	mte:Appfpg	nezapadel
+terjatev	mte:Ncfpg	terjatev
+.	mte:Z	.
+Iz	mte:Sg	iz
+T	mte:Ncmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+sporočili	mte:Vmep-pm	sporočiti
+našim	mte:Ps1mpdp	naš
+uporabnikom	mte:Ncmpd	uporabnik
+in	mte:Cc	in
+širši	mte:Agcfsd	širok
+javnosti	mte:Ncfsd	javnost
+,	mte:Z	,
+da	mte:Cs	da
+T	mte:Ncmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+svojim	mte:Px-mpd	svoj
+uporabnikom	mte:Ncmpd	uporabnik
+nemoteno	mte:Rgp	nemoten
+zagotavlja	mte:Vmpr3s	zagotavljati
+vse	mte:Pg-fpa	ves
+storitve	mte:Ncfpa	storitev
+.	mte:Z	.
+Predloga	mte:Ncmsg	predlog
+za	mte:Sa	za
+stečaj	mte:Ncmsan	stečaj
+niso	mte:Va-r3p-y	biti
+prejeli	mte:Vmep-pm	prejeti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+tovrstna	mte:Agpfsn	tovrsten
+odločitev	mte:Ncfsn	odločitev
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+potrjuje	mte:Vmpr3s	potrjevati
+in	mte:Cc	in
+izkazuje	mte:Vmpr3s	izkazovati
+namero	mte:Ncfsa	namera
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+da	mte:Cs	da
+vztraja	mte:Vmpr3s	vztrajati
+na	mte:Sl	na
+poti	mte:Ncfsl	pot
+izkoriščanja	mte:Ncnsg	izkoriščanje
+zlorabe	mte:Ncfsg	zloraba
+prevladujočega	mte:Appmsg	prevladujoč
+tržnega	mte:Agpmsg	tržen
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+po	mte:Sl	po
+kateri	mte:Pq-fsl	kateri
+hodi	mte:Vmpr3s	hoditi
+zadnjih	mte:Agpnpg	zadnji
+20	mte:Mdc	20
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Trdijo	mte:Vmpr3p	trditi
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+hoče	mte:Vmpr3s-n	hoteti
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+praktično	mte:Rgp	praktično
+zastonj	mte:Rgp	zastonj
+polastiti	mte:Vmen	polastiti
+večjega	mte:Agcnsg	velik
+in	mte:Cc	in
+boljšega	mte:Agcnsg	dober
+optičnega	mte:Agpnsg	optičen
+omrežja	mte:Ncnsg	omrežje
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+izgradila	mte:Vmep-sf	izgraditi
+družba	mte:Ncfsn	družba
+T	mte:Ncmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+in	mte:Cc	in
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+tehnološko	mte:Rgp	tehnološko
+precej	mte:Rgp	precej
+naprednejše	mte:Agcfsn	rapreden
+od	mte:Sg	od
+omrežja	mte:Ncnsg	omrežje
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+ima	mte:Vmpr3s-n	imeti
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+dodati	mte:Vmen	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+sprevrženost	mte:Ncfsn	sprevrženost
+ravnanja	mte:Ncnsg	ravnanje
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+kaže	mte:Vmpr3s	kazati
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+Telekom	mte:Ncmsn	telek
+Slovenije	mte:Npfsg	Slovenija
+družbi	mte:Ncfsd	družba
+T	mte:Npmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+dolguje	mte:Vmpr3s	dolgovati
+skoraj	mte:Q	skoraj
+130	mte:Mdc	130
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+iz	mte:Sg	iz
+naslova	mte:Ncmsg	naslov
+odškodninske	mte:Agpfsg	odškodninski
+odgovornosti	mte:Ncfsg	odgovornost
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+stečajni	mte:Agpmsny	stečajen
+postopek	mte:Ncmsn	postopek
+proti	mte:Sd	proti
+T	mte:Ncmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+vlaga	mte:Vmpr3s	vlagati
+zaradi	mte:Sg	zaradi
+12	mte:Mdc	12
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-fsn	ta
+višina	mte:Ncfsn	višina
+sporna	mte:Agpfsn	sporen
+.	mte:Z	.
+Takšno	mte:Pd-nsn	takšen
+ravnanje	mte:Ncnsn	ravnanje
+tržno	mte:Rgp	tržno
+najmočnejšega	mte:Agsmsg	močen
+operaterja	mte:Ncmsg	operater
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+pomeni	mte:Vmbr3s	pomeniti
+hudo	mte:Agpfsa	hud
+obliko	mte:Ncfsa	oblika
+pritiska	mte:Ncmsg	pritisk
+na	mte:Sa	na
+svojega	mte:Px-msa	svoj
+edinega	mte:Agpmsa	edin
+konkurenta	mte:Ncmsay	konkurenta
+.	mte:Z	.
+Poudarili	mte:Vmep-pm	poudariti
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+proti	mte:Sd	proti
+Telekomu	mte:Npmsd	Telekom
+Slovenije	mte:Npfsg	Slovenija
+odškodninsko	mte:Agpfsa	odškodninski
+tožbo	mte:Ncfsa	tožba
+za	mte:Sa	za
+plačilo	mte:Ncnsa	plačilo
+skoraj	mte:Q	skoraj
+130	mte:Mdc	130
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+glavnice	mte:Ncfsg	glavnica
+vložili	mte:Vmep-pm	vložiti
+že	mte:Q	že
+pred	mte:Si	pred
+skoraj	mte:Q	skoraj
+štirimi	mte:Mlcnpi	štirje
+leti	mte:Ncnpi	leto
+,	mte:Z	,
+vendar	mte:Cc	vendar
+sodišče	mte:Ncnsn	sodišče
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+času	mte:Ncmsl	čas
+ni	mte:Va-r3s-y	biti
+razpisalo	mte:Vmep-sn	razpisati
+niti	mte:Q	niti
+ene	mte:Mlpfsg	en
+glavne	mte:Agpfsg	glaven
+obravnave	mte:Ncfsg	obravnava
+.	mte:Z	.
+Agencijo	mte:Ncfsa	agencija
+za	mte:Sa	za
+pošto	mte:Ncfsa	pošta
+in	mte:Cc	in
+elektronske	mte:Agpfsg	elektronski
+komunikacije	mte:Ncfsg	komunikacija
+Apek	mte:Npmsn	Apek
+,	mte:Z	,
+ki	mte:Cs	ki
+deluje	mte:Vmpr3s	delovati
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+visoko	mte:Agpnsa	visok
+šolstvo	mte:Ncnsa	šolstvo
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+ukrenil	mte:Vmep-sm	ukreniti
+in	mte:Cc	in
+ne	mte:Q	ne
+ukrene	mte:Vmer3s	ukreniti
+ničesar	mte:Pz-nsg	nič
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+ničesar	mte:Pz-nsg	nič
+ne	mte:Q	ne
+ukrene	mte:Vmer3s	ukreniti
+ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+dolžno	mte:Agpnsn	dolžen
+zagotavljati	mte:Vmpn	zagotavljati
+konkurenco	mte:Ncfsa	konkurenca
+na	mte:Sl	na
+slovenskem	mte:Agpmsl	slovenski
+trgu	mte:Ncmsl	trg
+telekomunikacij	mte:Ncfpg	telekomunikacija
+.	mte:Z	.
+Spomnili	mte:Vmep-pm	spomniti
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+se	mte:Px------y	se
+s	mte:Si	z
+tovrstno	mte:Agpfsi	tovrsten
+zlorabo	mte:Ncfsi	zloraba
+tržne	mte:Agpfsg	tržen
+moči	mte:Ncfsg	moč
+in	mte:Cc	in
+monopola	mte:Ncmsg	monopol
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+že	mte:Q	že
+srečali	mte:Vmep-pm	srečati
+pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+monopolist	mte:Ncmsn	monopolist
+na	mte:Sa	na
+enak	mte:Pi-msa	enak
+način	mte:Ncmsan	način
+z	mte:Sg	z
+našega	mte:Ps1msgp	naš
+trga	mte:Ncmsg	trg
+umaknil	mte:Vmep-sm	umakniti
+konkurenco	mte:Ncfsa	konkurenca
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+mobilne	mte:Agpfsg	mobilen
+telefonije	mte:Ncfsg	telefonija
+.	mte:Z	.
+Takrat	mte:Rgp	takrat
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Vega	mte:Npmsn	Vega
+Western	mte:Npmsn	Western
+Wireless	mte:Npmsn	Wireless
+International	mte:Npmsn	International
+kot	mte:Cs	kot
+močan	mte:Agpmsnn	močen
+tuji	mte:Agpmsny	tuj
+investitor	mte:Ncmsn	investitor
+na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+raje	mte:Rgc	raje
+odločila	mte:Vmep-sf	odločiti
+za	mte:Sa	za
+umik	mte:Ncmsan	umik
+s	mte:Sg	z
+slovenskega	mte:Agpmsg	slovenski
+trga	mte:Ncmsg	trg
+,	mte:Z	,
+kot	mte:Cs	kot
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+prerivala	mte:Vmpp-sf	prerivati
+z	mte:Si	z
+državnimi	mte:Agpmpi	državen
+organi	mte:Ncmpi	organ
+in	mte:Cc	in
+državnim	mte:Agpnsi	državen
+podjetjem	mte:Ncnsi	podjetje
+.	mte:Z	.
+Gospodarsko	mte:Agpnsn	gospodarski
+ministrstvo	mte:Ncnsn	ministrstvo
+in	mte:Cc	in
+Apek	mte:Ncmsn	apek
+zato	mte:Rgp	zato
+javno	mte:Rgp	javno
+sprašujejo	mte:Vmpr3p	spraševati
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+sta	mte:Va-r3d-n	biti
+doslej	mte:Rgp	doslej
+konkretnega	mte:Agpnsg	konkreten
+storila	mte:Vmep-dm	storiti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+zagotovila	mte:Vmep-dm	zagotoviti
+konkurenco	mte:Ncfsa	konkurenca
+na	mte:Sl	na
+slovenskem	mte:Agpmsl	slovenski
+telekomunikacijskem	mte:Agpmsl	telekomunikacijski
+trgu	mte:Ncmsl	trg
+.	mte:Z	.
+Pričakujemo	mte:Vmpr1p	pričakovati
+konkretni	mte:Agpmsay	konkreten
+odgovor	mte:Ncmsan	odgovor
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+celotna	mte:Agpfsn	celoten
+situacija	mte:Ncfsn	situacija
+resnično	mte:Rgp	resnično
+žalostna	mte:Agpfsn	žalosten
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+smo	mte:Va-r1p-n	biti
+v	mte:Sa	v
+posmeh	mte:Ncmsa	posmeh
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+T	mte:Npmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+januarja	mte:Ncmsg	januar
+letos	mte:Rgp	letos
+enkrat	mte:Rgp	enkrat
+že	mte:Q	že
+izognil	mte:Vmep-sm	izogniti
+stečajnemu	mte:Agpmsd	stečajen
+postopku	mte:Ncmsd	postopek
+.	mte:Z	.
+Okrožno	mte:Agpnsn	okrožen
+sodišče	mte:Ncnsn	sodišče
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+umika	mte:Ncmsg	umik
+predloga	mte:Ncmsg	predlog
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+stečajnega	mte:Agpmsg	stečajen
+postopka	mte:Ncmsg	postopek
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+poslal	mte:Vmep-sm	poslati
+upnik	mte:Ncmsn	upnik
+Smart	mte:Npmsn	Smart
+Com	mte:Npmsn	Com
+,	mte:Z	,
+ustavilo	mte:Vmep-sn	ustaviti
+stečajni	mte:Agpmsay	stečajen
+postopek	mte:Ncmsan	postopek
+.	mte:Z	.
+Hkrati	mte:Rgp	hkrati
+so	mte:Va-r3p-n	biti
+šteli	mte:Vmpp-pm	šteti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+predlog	mte:Ncmsan	predlog
+umaknila	mte:Vmep-dm	umakniti
+tudi	mte:Q	tudi
+druga	mte:Mlpmdn	drug
+dva	mte:Mlcmdn	dva
+udeleženca	mte:Ncmdn	udeleženca
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+ljubljanskega	mte:Agpmsg	ljubljanski
+Smart	mte:Npmsn	Smart
+Coma	mte:Npmsn	Coma
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+prvi	mte:Mlomsa	prvi
+podal	mte:Vmbp-sm	podati
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+stečajnega	mte:Agpmsg	stečajen
+postopka	mte:Ncmsg	postopek
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+namreč	mte:Cc	namreč
+udeležbo	mte:Ncfsa	udeležba
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+priglasila	mte:Vmep-dm	priglasiti
+še	mte:Q	še
+Lokainvest	mte:Npmsn	Lokainvest
+in	mte:Cc	in
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
