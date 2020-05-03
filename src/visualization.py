@@ -3,7 +3,7 @@ import webbrowser
 import os
 import ast
 from bs4 import BeautifulSoup
-from data import COREF149_DIR
+from data import COREF149_DIR, SENTICOREF_DIR, SentiCorefDocument
 
 VISUAL_FILE_NAME = 'visualization.html'
 current_directory = os.getcwd()
@@ -127,6 +127,117 @@ def get_compared(parsed_doc, parsed_preds, doc_id):
     """
 
 
+def get_compared_senticoref(parsed_doc, parsed_preds, doc_id):
+
+    # Prepare dictionaries for predictions
+    color_by_cluster_id = {}
+    color_by_mention_prediction = {}
+    for mention_id, cluster_id in parsed_preds.items():
+        if cluster_id not in color_by_cluster_id:
+            color_by_cluster_id[cluster_id] = random_color()
+
+        color = color_by_cluster_id[cluster_id]
+        color_by_mention_prediction[mention_id] = color
+
+    # Get dictionary of colors for each token and tokens for mentions
+    cluster_color_by_token = {}
+    mention_by_token = {}
+    for cluster in parsed_doc.clusters:
+        color = random_color()
+        for rc_id in cluster:
+            for token in parsed_doc.mentions[rc_id].token_ids:
+                cluster_color_by_token[token] = color
+                mention_by_token[token] = rc_id
+
+    # Combine to text
+    ground_truth = ""
+    predictions = ""
+    gt_color_ids = {}
+    preds_color_ids = {}
+    unique_classes = {}
+    for sentence in parsed_doc.sents:
+        if ground_truth != "":
+            ground_truth += "<br><br>"
+            predictions += "<br><br>"
+
+        row_truth = ""
+        row_predictions = ""
+        for token_id in sentence:
+            if row_truth != "":
+                row_truth += " "
+                row_predictions += " "
+
+            # Ground truth logic
+            if token_id in cluster_color_by_token:
+                color = cluster_color_by_token[token_id]
+                color_id = len(gt_color_ids)
+                if color in gt_color_ids:
+                    color_id = gt_color_ids[color]
+                else:
+                    gt_color_ids[color] = color_id
+                cls = f"""{doc_id}-gt-c-{color_id}"""
+                unique_classes[cls] = 1
+                row_truth += f"""<span style="background-color:{color};border-radius: 3px;padding: 0px 2px;" class="{cls}">""" + \
+                             parsed_doc.id_to_tok[token_id] + "</span>"
+            else:
+                row_truth += parsed_doc.id_to_tok[token_id]
+
+            # Predictions
+            if token_id in mention_by_token:
+                mention = mention_by_token[token_id]
+                if mention in color_by_mention_prediction:
+                    color = color_by_mention_prediction[mention]
+                    color_id = len(preds_color_ids)
+                    if color in preds_color_ids:
+                        color_id = preds_color_ids[color]
+                    else:
+                        preds_color_ids[color] = color_id
+                    cls = f"""{doc_id}-pr-c-{color_id}"""
+                    unique_classes[cls] = 1
+                    row_predictions += f"""<span style="background-color:{color};border-radius: 3px;padding: 0px 2px;" class="{cls}">""" + \
+                                       parsed_doc.id_to_tok[token_id] + "</span>"
+            else:
+                row_predictions += parsed_doc.id_to_tok[token_id]
+
+        ground_truth += row_truth
+        predictions += row_predictions
+
+    return f"""
+        <div style="width:100%;display:flex">
+            <div style="width:45%;"><h3>Ground truth</h3>{ground_truth}</div>
+            <div style="width:10%;"></div>
+            <div style="width:45%;"><h3>Model predictions</h3>{predictions}</div>
+        </div>
+        <script>
+            var allClassNames =  [{', '.join('"{0}"'.format(c) for c in unique_classes.keys())}];
+    
+            allClassNames.forEach(function(clsName) {{
+                allClasses = document.getElementsByClassName(clsName);
+                
+                for (var i = 0; i < allClasses.length; i++) {{
+                    cls = allClasses[i];
+                    cls.addEventListener("mouseenter", (e) => {{
+                        var bgColor = $('.'+clsName).css( 'background-color');
+                        $('.'+clsName).attr('data-color', bgColor);
+                        $('.'+clsName).css( 'background-color', 'black');
+                        $('.'+clsName).css( 'color', 'white');
+                    }});
+    
+                    cls.addEventListener("mouseleave", (e) => {{
+                        var bgColor = $('.'+clsName).attr('data-color')
+                        $('.'+clsName).css( 'background-color', bgColor);
+                        $('.'+clsName).css( 'color', 'initial');
+                    }});
+                }}
+            }})
+        </script>
+        """
+
+def parse_document_senticoref(document_name):
+    file_path = os.path.join(SENTICOREF_DIR, document_name + ".tsv")
+    return SentiCorefDocument.read(file_path)
+
+
 def parse_document(document_name):
     file_path = os.path.join(COREF149_DIR, document_name+".tcf")
     with open(file_path, encoding="utf8") as f:
@@ -140,7 +251,7 @@ def parse_predictions(clusters):
     return ast.literal_eval(clusters)
 
 
-def get_document_predictions(test_preds_file):
+def get_document_predictions(test_preds_file, database_name):
     ul_elements = ""
     document_content = ""
 
@@ -164,10 +275,15 @@ def get_document_predictions(test_preds_file):
 
         clusters = predictions[i+1]
 
-        parsed_doc = parse_document(document)
         parsed_preds = parse_predictions(clusters)
 
-        text = get_compared(parsed_doc, parsed_preds, i)
+        if database_name == 'coref149':
+            parsed_doc = parse_document(document)
+            text = get_compared(parsed_doc, parsed_preds, i)
+        else:
+            parsed_doc = parse_document_senticoref(document)
+            text = get_compared_senticoref(parsed_doc, parsed_preds, i)
+
 
         tab_id = "id" + str(i)
         ul_elements += f"""<li class="nav-item"><a class="nav-link" href="#{tab_id}" data-toggle="tab">{document}</a></li>"""
@@ -201,13 +317,19 @@ def get_test_scores(pred_scores_file):
     """
 
 
+def get_database_name(test_scores):
+    return test_scores.split('<br>')[0].split('Database: ')[1].rstrip()
+
+
 def write_body(visual_path, pred_clusters_file, pred_scores_file):
     test_scores = get_test_scores(pred_scores_file)
-    document_predictions = get_document_predictions(pred_clusters_file)
+    database_name = get_database_name(test_scores)
+    # Remove database name (will be in title)
+    document_predictions = get_document_predictions(pred_clusters_file, database_name)
 
     body = f"""
         <body>
-            <h2>Visualization of predictions</h2>
+            <h2>Visualization of predictions for {database_name}</h2>
             {test_scores}
             {document_predictions}
         </body>
@@ -286,4 +408,4 @@ def build_and_display(pred_clusters_file, pred_scores_file, save_dir, display):
 
 # Only for testing
 if __name__ == "__main__":
-    build_and_display("./test_preds.txt", current_directory, True)
+    build_and_display("./pred_clusters.txt", "./pred_scores.txt", current_directory, True)

@@ -37,7 +37,7 @@ data/
     +-- ssj4.15.tcf
     +-- ssj5.30.tcf
     +-- ... (list of .tcf files)
-+-- sentiCoref
++-- senticoref1_0
     +-- 1.tsv
     +-- 2.tsv
     +-- ... (list of .tsv files)

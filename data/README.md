@@ -1,5 +1,5 @@
 ## SentiCoref file structure
-------------------------
+
 ```
 [format]   
 [layers]   
@@ -7,7 +7,8 @@
 <empty_line>   
 [body]   
 ```
-------------------------
+
+
 **About [format]:**
 - example: `#FORMAT=WebAnno TSV 3.2`
 
@@ -39,4 +40,5 @@
       the token/sub-token annotation, separated by a TAB character. If there is no annotation for the
       given span layer, a _ character is placed in the column. If the feature has no/null annotation or
       if the span layer do not have a feature at all, a * character represents the annotation.
+- Chain layers will have always two features, referenceType and referenceRelation.
 - Todo: more if needed

@@ -38,11 +38,12 @@ NUM_EPOCHS = 100
 LEARNING_RATE = 0.005
 
 # affects shuffle of documents for training/dev/test set and initial parameters for model
-RANDOM_SEED = 13
+RANDOM_SEED = 22
 if RANDOM_SEED:
     np.random.seed(RANDOM_SEED)
     torch.random.manual_seed(RANDOM_SEED)
 
+DATABASE_NAME = 'senticoref'  # Use 'coref149' or 'senticoref'
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
 VISUALIZATION_OPEN_WHEN_DONE = True
@@ -511,6 +512,7 @@ class BaselineModel:
             # Save test predictions and scores to file for further debugging
             with open(self.path_pred_scores, "w", encoding="utf-8") as f:
                 f.writelines([
+                    f"Database: {DATABASE_NAME}\n\n",
                     f"Test scores:\n",
                     f"MUC:      {muc_score}\n",
                     f"BCubed:   {b3_score}\n",
@@ -687,7 +689,7 @@ if __name__ == "__main__":
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
 
     # Read corpus. Documents will be of type 'Document'
-    documents = read_corpus("coref149")
+    documents = read_corpus(DATABASE_NAME)
     train_docs, dev_docs, test_docs = split_into_sets(documents)
 
     if not baseline.loaded_from_file:
