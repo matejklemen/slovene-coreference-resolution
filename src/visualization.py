@@ -309,21 +309,42 @@ def get_test_scores(pred_scores_file):
     with open(pred_scores_file) as f:
         scores_txt = f.readlines()
 
-    test_scores_txt = "<br>".join(scores_txt)
-    return f"""
-        <div style="margin:20px">
-            {test_scores_txt}
+    # pred_scores file can contain scores for multiple models.
+    # find all lines starting with "Test scores" and print them in separate
+
+    score_indexes = []
+    for index, line in enumerate(scores_txt):
+        if line.startswith("Test scores"):
+            score_indexes.append(index)
+
+    before = """
+    <div class="container" style="margin:20px">
+        <div class="row">
+    """
+    after = """
         </div>
+    </div>
     """
 
+    scores = ""
+    for line_index in score_indexes:
+        txt = ""
+        txt += """<div class="col">"""
+        txt += "<br>".join(scores_txt[line_index:line_index+5])
+        txt += """</div>"""
+        scores += txt
 
-def get_database_name(test_scores):
-    return test_scores.split('<br>')[0].split('Database: ')[1].rstrip()
+    return before + scores + after
+
+
+def get_database_name(pred_scores_file):
+    with open(pred_scores_file) as f:
+        return f.readlines()[0].split('Database: ')[1].rstrip()
 
 
 def write_body(visual_path, pred_clusters_file, pred_scores_file):
     test_scores = get_test_scores(pred_scores_file)
-    database_name = get_database_name(test_scores)
+    database_name = get_database_name(pred_scores_file)
     # Remove database name (will be in title)
     document_predictions = get_document_predictions(pred_clusters_file, database_name)
 

@@ -89,7 +89,7 @@ class MentionFeatures:
 
         # Index in which mention appears
         self.idx_sent = mention.positions[0][0]
-        self.idx_in_sent = mention.positions[0][1] # TODO
+        self.idx_in_sent = mention.positions[0][1]  # TODO
 
         # morphosyntactic description
         self.msd_desc = mention_objs[0]["ana"]
@@ -219,7 +219,7 @@ class MentionPairFeatures:
         False: otherwise
         """
         return int(this_feats.category != "Z" and other_feats.category != "Z" and \
-               " ".join(this_feats.lemmas) == " ".join(other_feats.lemmas))
+                   " ".join(this_feats.lemmas) == " ".join(other_feats.lemmas))
 
     @staticmethod
     def in_same_sentence(this_feats, other_feats):
@@ -533,12 +533,15 @@ class BaselineModel:
                         f"Document '{doc_id}':\n",
                         str(clusters), "\n"
                     ])
-
-            # Build and display visualization
-            if VISUALIZATION_GENERATE:
-                build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir, VISUALIZATION_OPEN_WHEN_DONE)
-
         pass
+
+    def visualize(self):
+        # Build and display visualization
+        if VISUALIZATION_GENERATE:
+            build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir,
+                              VISUALIZATION_OPEN_WHEN_DONE)
+        else:
+            logging.warning("Visualization is disabled and thus not generated. Set VISUALIZATION_GENERATE to true.")
 
     def _prepare(self):
         """
@@ -654,12 +657,17 @@ class BaselineModel:
                 else:
                     # Add current mention as candidate
                     candidates.append(cand_id)
-                    features.append(MentionPairFeatures.for_mentions(curr_doc, head_mention, cand_mention, idx_head, idx_candidate))
+                    features.append(
+                        MentionPairFeatures.for_mentions(curr_doc, head_mention, cand_mention, idx_head, idx_candidate))
 
         return preds, (doc_loss, n_examples)
 
 
 class AllInOneModel:
+
+    def __init__(self, baseline=None):
+        self.baseline = baseline
+
     def evaluate(self, test_docs):
         muc_score = metrics.Score()
         b3_score = metrics.Score()
@@ -681,8 +689,23 @@ class AllInOneModel:
         logging.info(f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}")
         logging.info(f"\n")
 
+        if MODELS_SAVE_DIR and self.baseline is not None:
+            # Save test predictions and scores to file for further debugging
+            with open(self.baseline.path_pred_scores, "a", encoding="utf-8") as f:
+                f.writelines([
+                    f"Test scores for All-in-one model:\n",
+                    f"MUC:      {muc_score}\n",
+                    f"BCubed:   {b3_score}\n",
+                    f"CEAFe:    {ceaf_score}\n",
+                    f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
+                ])
+
 
 class EachInOwnModel:
+
+    def __init__(self, baseline=None):
+        self.baseline = baseline
+
     def evaluate(self, test_docs):
         muc_score = metrics.Score()
         b3_score = metrics.Score()
@@ -703,6 +726,17 @@ class EachInOwnModel:
         logging.info(f"CEAFe:    {ceaf_score}")
         logging.info(f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}")
         logging.info(f"\n")
+
+        if MODELS_SAVE_DIR and self.baseline is not None:
+            # Save test predictions and scores to file for further debugging
+            with open(self.baseline.path_pred_scores, "a", encoding="utf-8") as f:
+                f.writelines([
+                    f"Test scores for Each-in-own model:\n",
+                    f"MUC:      {muc_score}\n",
+                    f"BCubed:   {b3_score}\n",
+                    f"CEAFe:    {ceaf_score}\n",
+                    f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
+                ])
 
 
 def split_into_sets(documents):
@@ -737,7 +771,7 @@ if __name__ == "__main__":
 
     # if you'd like to reuse a model, give it a name, i.e.
     # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
-    baseline = BaselineModel(NUM_FEATURES)
+    baseline = BaselineModel(NUM_FEATURES, name="202005904_160314")
 
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
 
@@ -751,7 +785,9 @@ if __name__ == "__main__":
 
     baseline.evaluate(test_docs)
 
-    aioModel = AllInOneModel()
+    aioModel = AllInOneModel(baseline)
     aioModel.evaluate(test_docs)
-    eioModel = EachInOwnModel()
+    eioModel = EachInOwnModel(baseline)
     eioModel.evaluate(test_docs)
+
+    baseline.visualize()
