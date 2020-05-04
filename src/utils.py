@@ -33,7 +33,7 @@ def get_clusters(preds):
     """ Convert {antecedent_id: mention_id} pairs into {mention_id: assigned_cluster_id} pairs. """
     cluster_assignments = {}
 
-    for id_cluster, cluster_starter in enumerate(preds[None]):
+    for id_cluster, cluster_starter in enumerate(preds.get(None, [])):
         stack = [cluster_starter]
         curr_cluster = []
         while len(stack) > 0:

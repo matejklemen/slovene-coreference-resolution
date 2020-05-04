@@ -173,8 +173,8 @@ def read_senticoref_doc(file_path):
         id_to_tok[tok_id] = token
         idx_inside_sent += 1
 
-        _, pos_tag, lemma = curr_metadata.iloc[i].values
-        metadata["tokens"][tok_id] = {"ana": pos_tag, "lemma": lemma}
+        text, pos_tag, lemma = curr_metadata.iloc[i].values
+        metadata["tokens"][tok_id] = {"ana": pos_tag, "lemma": lemma, "text": text}
 
         # Segment sentences heuristically
         if token in {".", "!", "?"}:
@@ -262,6 +262,7 @@ def read_coref149_doc(file_path, ssj_doc):
 
         if token_id:
             metadata["tokens"][token_id] = token.attrs
+            metadata["tokens"][token_id]["text"] = token.text
 
     # __init__(self, doc_id, tokens, sentences, mentions, clusters, ssj_doc=None, tok_to_position=None)
     return Document(doc_id, fixed_tokens, fixed_sents, fixed_mentions, clusters, ssj_doc, tok_to_position,

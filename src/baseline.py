@@ -82,14 +82,16 @@ class MentionFeatures:
         self.mention = mention
 
         # bs4 tags (metadata) for mention tokens (<=1 per token, punctuation currently excluded)
-        mention_objs = document.ssj_doc.findAll("w", {"xml:id": lambda val: val and val in mention.token_ids})
+        mention_objs = []
+        for tok_id in mention.token_ids:
+            mention_objs.append(document.metadata['tokens'][tok_id])
 
         # Index in which mention appears
         self.idx_sent = mention.positions[0][0]
         self.idx_in_sent = mention.positions[0][1] # TODO
 
         # morphosyntactic description
-        self.msd_desc = mention_objs[0].attrs["ana"].split(":")[1]
+        self.msd_desc = mention_objs[0]["ana"]
 
         # gender, number, main category
         self.gender = None  # {None, 'm', 's', 'z'}
@@ -102,7 +104,7 @@ class MentionFeatures:
 
         counted_categories = Counter()
         for obj in mention_objs:
-            _, obj_msd_desc = obj["ana"].split(":")
+            obj_msd_desc = obj["ana"]
 
             # Take gender of first token for which it can be determined
             if self.gender is None:
@@ -122,8 +124,13 @@ class MentionFeatures:
             counted_categories[obj_category] += 1
 
             # add token and it's lemma to list
-            self.tokens.append(obj.text)
-            self.lemmas.append(obj["lemma"])
+            # self.tokens.append(obj.text)
+
+            self.tokens.append(obj["text"])
+            if "lemma" in obj:
+                self.lemmas.append(obj["lemma"])
+            else:
+                self.lemmas.append(obj["text"])
 
         self.category = counted_categories.most_common(1)[0][0]
 
@@ -573,7 +580,7 @@ class BaselineModel:
             Returns predictions, loss and number of examples evaluated. """
 
         if len(curr_doc.mentions) == 0:
-            return [], (0.0, 0)
+            return {}, (0.0, 0)
 
         cluster_sets = []
         mention_to_cluster_id = {}
@@ -687,7 +694,7 @@ if __name__ == "__main__":
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
 
     # Read corpus. Documents will be of type 'Document'
-    documents = read_corpus("coref149")
+    documents = read_corpus("senticoref")
     train_docs, dev_docs, test_docs = split_into_sets(documents)
 
     if not baseline.loaded_from_file:
