@@ -3,7 +3,7 @@ import webbrowser
 import os
 import ast
 from bs4 import BeautifulSoup
-from data import COREF149_DIR, SENTICOREF_DIR, SentiCorefDocument
+from data import COREF149_DIR, SENTICOREF_DIR, read_senticoref_doc
 
 VISUAL_FILE_NAME = 'visualization.html'
 current_directory = os.getcwd()
@@ -235,7 +235,7 @@ def get_compared_senticoref(parsed_doc, parsed_preds, doc_id):
 
 def parse_document_senticoref(document_name):
     file_path = os.path.join(SENTICOREF_DIR, document_name + ".tsv")
-    return SentiCorefDocument.read(file_path)
+    return read_senticoref_doc(file_path)
 
 
 def parse_document(document_name):
