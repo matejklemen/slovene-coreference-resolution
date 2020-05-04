@@ -1,200 +1,223 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Upravi	Ncfsd
-trgovske	Agpfsg
-družbe	Ncfsg
-Mercator	Npmsn
-se	Px------y
-je	Va-r3s-n
-z	Si
-letom	Ncnsi
-2010	Mdc
-iztekel	Vmep-sm
-mandat	Ncmsn
-in	Cc
-s	Si
-1	Mdc
-.	Z
-januarjem	Ncmsi
-je	Va-r3s-n
-nov	Agpmsan
-petletni	Agpmsay
-mandat	Ncmsan
-nastopila	Vmep-sf
-nova	Agpfsn
-uprava	Ncfsn
-,	Z
-v	Sl
-kateri	Pq-fsl
-sta	Va-r3d-n
-se	Px------y
-dosedanjim	Agpmpd
-štirim	Mlcmpd
-članom	Ncmpd
-Žigi	Npmsd
-Debeljaku	Npmsd
-,	Z
-Veri	Ncfsd
-Aljančič	Npmsn
-Falež	Npmsd
-,	Z
-Mateji	Npfsd
-Jesenek	Npmsd
-in	Cc
-Petru	Npmsd
-Zavrlu	Ncnsd
-pridružili	Vmep-dm
-dve	Mlcfda
-novi	Agpfda
-članici	Ncfda
-:	Z
-Melita	Npfsn
-Kolbezen	Npfsn
-in	Cc
-Stanka	Npfsn
-Čurović	Npfsn
-.	Z
-Novo	Agpfsa
-Mercatorjevo	Aspfsa
-upravo	Ncfsa
-je	Va-r3s-n
-nadzorni	Agpmsny
-svet	Ncmsn
-družbe	Ncfsg
-imenoval	Vmbp-sm
-konec	Sg
-lanskega	Agpmsg
-marca	Ncmsg
-,	Z
-ko	Cs
-so	Va-r3p-n
-pojasnili	Vmep-pm
-,	Z
-da	Cs
-število	Ncnsn
-članov	Ncmpg
-uprave	Ncfsg
-in	Cc
-razdelitev	Ncfsn
-delovnih	Agpnpg
-področij	Ncnpg
-ustreza	Vmpr3s
-novi	Agpmsdy
-makro	Ncmsn
--	Z
-organizacijski	Agpfsd
-strukturi	Ncfsd
-skupine	Ncfsg
-Mercator	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-uveljavljena	Appfsn
-v	Sl
-začetku	Ncmsl
-leta	Ncnsg
-2010	Mdc
-.	Z
-Upravo	Ncfsa
-tako	Rgp
-sestavljajo	Vmpr3p
-predsednik	Ncmsn
-Žiga	Npmsn
-Debeljak	Npmsn
-ter	Cc
-članica	Ncfsn
-uprave	Ncfsg
-za	Sa
-strateško	Agpnsa
-trženje	Ncnsa
-in	Cc
-globalno	Agpfsa
-nabavo	Ncfsa
-Mateja	Npmsg
-Jesenek	Npmsn
-,	Z
-članica	Ncfsn
-uprave	Ncfsg
-za	Sa
-strateške	Agpfpa
-finance	Ncfpa
-in	Cc
-informatiko	Ncfsa
-Melita	Npfsn
-Kolbezen	Npfsn
-,	Z
-članica	Ncfsn
-uprave	Ncfsg
-za	Sa
-strateški	Agpmsay
-razvoj	Ncmsan
-kadrov	Ncmpg
-in	Cc
-organizacijo	Ncfsa
-Vera	Ncfsn
-Aljančič	Npfsn
-Falež	Npfsn
-,	Z
-član	Ncmsn
-uprave	Ncfsg
-za	Sa
-poslovno	Agpnsa
-področje	Ncnsa
-Mercator	Npmsn
-trgovina	Ncfsn
-Slovenija	Npfsn
-Peter	Npmsn
-Zavrl	Npmsn
-in	Cc
-članica	Ncfsn
-uprave	Ncfsg
-za	Sa
-poslovno	Agpnsa
-področje	Ncnsa
-Mercator	Npmsn
-trgovina	Ncfsn
-jugovzhodna	Agpfsn
-Evropa	Npfsn
-Stanka	Npfsn
-Čurović	Npfsn
-.	Z
-Nepremičninsko	Agpfsa
-dejavnost	Ncfsa
-bo	Va-f3s-n
-v	Sl
-upravi	Ncfsl
-neposredno	Rgp
-pokrival	Vmpp-sm
-predsednik	Ncmsn
-uprave	Ncfsg
-skupaj	Rgp
-s	Si
-pomočnikom	Ncmsi
-predsednika	Ncmsg
-uprave	Ncfsg
-za	Sa
-poslovno	Agpnsa
-področje	Ncnsa
-Mercator	Npmsn
-nepremičnine	Ncfsg
-Alešem	Npmsi
-Resnikom	Npmsi
-,	Z
-so	Va-r3p-n
-danes	Rgp
-sporočili	Vmep-pm
-iz	Sg
-Mercatorja	Npmsg
-.	Z
-Dosedanji	Agpmsny
-pomočnik	Ncmsn
-predsednika	Ncmsg
-uprave	Ncfsg
-Stanislav	Npmsn
-Brodnjak	Npmsn
-je	Va-r3s-n
-s	Si
-1	Mdc
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Upravi	mte:Ncfsd	uprava
+trgovske	mte:Agpfsg	trgovski
+družbe	mte:Ncfsg	družba
+Mercator	mte:Npmsn	Mercator
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+letom	mte:Ncnsi	leto
+2010	mte:Mdc	2010
+iztekel	mte:Vmep-sm	izteči
+mandat	mte:Ncmsn	mandat
+in	mte:Cc	in
+s	mte:Si	z
+1	mte:Mdc	1
+.	mte:Z	.
+januarjem	mte:Ncmsi	januar
+je	mte:Va-r3s-n	biti
+nov	mte:Agpmsan	nov
+petletni	mte:Agpmsay	petleten
+mandat	mte:Ncmsan	mandat
+nastopila	mte:Vmep-sf	nastopiti
+nova	mte:Agpfsn	nov
+uprava	mte:Ncfsn	uprava
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+dosedanjim	mte:Agpmpd	dosedanji
+štirim	mte:Mlcmpd	štirje
+članom	mte:Ncmpd	član
+Žigi	mte:Npmsd	Žiga
+Debeljaku	mte:Npmsd	Debeljak
+,	mte:Z	,
+Veri	mte:Ncfsd	vera
+Aljančič	mte:Npmsn	Aljančič
+Falež	mte:Npmsd	Falež
+,	mte:Z	,
+Mateji	mte:Npfsd	Mateja
+Jesenek	mte:Npmsd	Jesenek
+in	mte:Cc	in
+Petru	mte:Npmsd	Peter
+Zavrlu	mte:Ncnsd	zavrlo
+pridružili	mte:Vmep-dm	pridružiti
+dve	mte:Mlcfda	dva
+novi	mte:Agpfda	nov
+članici	mte:Ncfda	članica
+:	mte:Z	:
+Melita	mte:Npfsn	Melita
+Kolbezen	mte:Npfsn	Kolbezen
+in	mte:Cc	in
+Stanka	mte:Npfsn	Stanka
+Čurović	mte:Npfsn	Čurović
+.	mte:Z	.
+Novo	mte:Agpfsa	nov
+Mercatorjevo	mte:Aspfsa	Mercatorjev
+upravo	mte:Ncfsa	uprava
+je	mte:Va-r3s-n	biti
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+družbe	mte:Ncfsg	družba
+imenoval	mte:Vmbp-sm	imenovati
+konec	mte:Sg	konec
+lanskega	mte:Agpmsg	lanski
+marca	mte:Ncmsg	marec
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+število	mte:Ncnsn	število
+članov	mte:Ncmpg	član
+uprave	mte:Ncfsg	uprava
+in	mte:Cc	in
+razdelitev	mte:Ncfsn	razdelitev
+delovnih	mte:Agpnpg	deloven
+področij	mte:Ncnpg	področje
+ustreza	mte:Vmpr3s	ustrezati
+novi	mte:Agpmsdy	nov
+makro	mte:Ncmsn	makra
+-	mte:Z	-
+organizacijski	mte:Agpfsd	organizacijski
+strukturi	mte:Ncfsd	struktura
+skupine	mte:Ncfsg	skupina
+Mercator	mte:Npmsn	Mercator
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+uveljavljena	mte:Appfsn	uveljavljen
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+.	mte:Z	.
+Upravo	mte:Ncfsa	uprava
+tako	mte:Rgp	tako
+sestavljajo	mte:Vmpr3p	sestavljati
+predsednik	mte:Ncmsn	predsednik
+Žiga	mte:Npmsn	Žiga
+Debeljak	mte:Npmsn	Debeljak
+ter	mte:Cc	ter
+članica	mte:Ncfsn	članica
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+strateško	mte:Agpnsa	strateški
+trženje	mte:Ncnsa	trženje
+in	mte:Cc	in
+globalno	mte:Agpfsa	globalen
+nabavo	mte:Ncfsa	nabava
+Mateja	mte:Npmsg	Mateja
+Jesenek	mte:Npmsn	Jesenek
+,	mte:Z	,
+članica	mte:Ncfsn	članica
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+strateške	mte:Agpfpa	strateški
+finance	mte:Ncfpa	finance
+in	mte:Cc	in
+informatiko	mte:Ncfsa	informatika
+Melita	mte:Npfsn	Melita
+Kolbezen	mte:Npfsn	Kolbezen
+,	mte:Z	,
+članica	mte:Ncfsn	članica
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+strateški	mte:Agpmsay	strateški
+razvoj	mte:Ncmsan	razvoj
+kadrov	mte:Ncmpg	kader
+in	mte:Cc	in
+organizacijo	mte:Ncfsa	organizacija
+Vera	mte:Ncfsn	vera
+Aljančič	mte:Npfsn	Aljančič
+Falež	mte:Npfsn	Falež
+,	mte:Z	,
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+poslovno	mte:Agpnsa	posloven
+področje	mte:Ncnsa	področje
+Mercator	mte:Npmsn	Mercator
+trgovina	mte:Ncfsn	trgovina
+Slovenija	mte:Npfsn	Slovenija
+Peter	mte:Npmsn	Peter
+Zavrl	mte:Npmsn	Zavrl
+in	mte:Cc	in
+članica	mte:Ncfsn	članica
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+poslovno	mte:Agpnsa	posloven
+področje	mte:Ncnsa	področje
+Mercator	mte:Npmsn	Mercator
+trgovina	mte:Ncfsn	trgovina
+jugovzhodna	mte:Agpfsn	jugovzhoden
+Evropa	mte:Npfsn	Evropa
+Stanka	mte:Npfsn	Stanka
+Čurović	mte:Npfsn	Čurović
+.	mte:Z	.
+Nepremičninsko	mte:Agpfsa	nepremičninski
+dejavnost	mte:Ncfsa	dejavnost
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+upravi	mte:Ncfsl	uprava
+neposredno	mte:Rgp	neposredno
+pokrival	mte:Vmpp-sm	pokrivati
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+pomočnikom	mte:Ncmsi	pomočnik
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+poslovno	mte:Agpnsa	posloven
+področje	mte:Ncnsa	področje
+Mercator	mte:Npmsn	Mercator
+nepremičnine	mte:Ncfsg	nepremičnina
+Alešem	mte:Npmsi	Aleš
+Resnikom	mte:Npmsi	Resnik
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Dosedanji	mte:Agpmsny	dosedanji
+pomočnik	mte:Ncmsn	pomočnik
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Stanislav	mte:Npmsn	Stanislav
+Brodnjak	mte:Npmsn	Brodnjak
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+1	mte:Mdc	1
+.	mte:Z	.
+januarjem	mte:Ncmsi	januar
+2011	mte:Mdc	2011
+prevzel	mte:Vmep-sm	prevzeti
+funkcijo	mte:Ncfsa	funkcija
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+družbe	mte:Ncfsg	družba
+Mercator	mte:Npmsn	Mercator
+-	mte:Z	-
+H	mte:Sd	h
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+opravljal	mte:Vmpp-sm	opravljati
+tudi	mte:Q	tudi
+funkcijo	mte:Ncfsa	funkcija
+svetovalca	mte:Ncmsg	svetovalec
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+za	mte:Sa	za
+mednarodne	mte:Agpfpa	mednaroden
+zadeve	mte:Ncfpa	zadeva

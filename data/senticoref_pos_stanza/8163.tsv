@@ -1,957 +1,985 @@
-token	tag
-27	Mdc
-kilometrov	Ncmpg
-nove	Agpfsg
-proge	Ncfsg
-bi	Va-c
-stalo	Vmpp-sn
-kar	Rgp
-1,4	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-Upam	Vmpr1s
-si	Px---d--y
-trditi	Vmpn
-,	Z
-da	Cs
-se	Px------y
-da	Vmer3s
-drugi	Mlpmsay
-tir	Ncmsan
-narediti	Vmen
-za	Sa
-pol	Rgp
-te	Pd-fsg
-cene	Ncfsg
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-minister	Ncmsn
-za	Sa
-infrastrukturo	Ncfsa
-in	Cc
-prostor	Ncmsan
-Samo	Q
-Omerzel	Npmsn
-.	Z
-Investicija	Ncfsn
-je	Va-r3s-n
-trenutno	Rgp
-ocenjena	Appfsn
-na	Sa
-kar	Rgp
-1,4	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Minister	Ncmsn
-Omerzel	Npmsn
-je	Va-r3s-n
-potrdil	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-Slovenija	Npfsn
-lotila	Vmep-sf
-izvedbe	Ncfsg
-gradnje	Ncfsg
-drugega	Mlpmsg
-tira	Ncmsg
-železniške	Agpfsg
-proge	Ncfsg
-med	Si
-Divačo	Npfsi
-in	Cc
-Koprom	Npmsi
-v	Sl
-dolžini	Ncfsl
-27	Mdc
-kilometrov	Ncmpg
-,	Z
-vendar	Cc
-se	Px------y
-mu	Pp3msd--y
-zdi	Vmpr3s
-ocenjena	Appfsn
-vrednost	Ncfsn
-previsoka	Agpfsn
-.	Z
-Omerzel	Npmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-spomnil	Vmep-sm
-,	Z
-da	Cs
-ima	Vmpr3s-n
-Slovenija	Npfsn
-znotraj	Sg
-Evrope	Npfsg
-izjemno	Agpfsa
-strateško	Agpfsa
-lego	Ncfsa
-,	Z
-vendar	Cc
-to	Pd-nsn
-samo	Q
-po	Sl
-sebi	Px---l
-ni	Va-r3s-y
-dovolj	Rgp
-,	Z
-zato	Cc
-je	Va-r3s-n
-treba	Rgp
-vlagati	Vmpn
-v	Sa
-infrastrukturo	Ncfsa
-,	Z
-ne	Q
-le	Q
-železniško	Agpnsn
-.	Z
-Drugi	Mlpmsny
-tir	Ncmsn
-pa	Cc
-je	Va-r3s-n
-po	Sl
-njegovem	Ps3nslsm
-mnenju	Ncnsl
-pomemben	Agpmsnn
-tudi	Q
-za	Sa
-razvoj	Ncmsan
-Luke	Npfsg
-Koper	Npmsn
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-infrastrukturo	Ncfsa
-in	Cc
-prostor	Ncmsan
-so	Va-r3p-n
-pred	Si
-svojo	Px-fsi
-odločitvijo	Ncfsi
-,	Z
-ali	Cc
-in	Cc
-kako	Rgp
-projekt	Ncmsan
-nadaljevati	Vmpn
-,	Z
-proučili	Vmep-pm
-podobne	Agpmpa
-projekte	Ncmpa
-doma	Ncmsg
-in	Cc
-v	Sl
-tujini	Ncfsl
-ter	Cc
-pregledali	Vmep-pm
-,	Z
-kakšne	Pq-fsg
-rešitve	Ncfpg
-predvideva	Vmpr3s
-projektna	Agpfsn
-dokumentacija	Ncfsn
-in	Cc
-kaj	Pq-nsn
-se	Px------y
-je	Va-r3s-n
-do	Sg
-zdaj	Rgp
-dogajalo	Vmpp-sn
-s	Si
-projektom	Ncmsi
-.	Z
-Ob	Sl
-tem	Pd-nsl
-se	Px------y
-je	Va-r3s-n
-izkazalo	Vmep-sn
-,	Z
-da	Cs
-znaša	Vmpr3s
-ocena	Ncfsn
-investicije	Ncfsg
-1,4	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Ta	Pd-fsn
-številka	Ncfsn
-je	Va-r3s-n
-zame	Pp1-sa--b
-nesprejemljiva	Agpfsn
-.	Z
-Vložiti	Vmen
-1,4	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-v	Sa
-27	Mdc
-kilometrov	Ncmpg
-železnice	Ncfsg
-je	Va-r3s-n
-nekaj	Pi-nsn
-,	Z
-kar	Pr-nsn
-noben	Pz-msn
-finančno	Agpnsn
--	Z
-poslovni	Agpmsny
-model	Ncmsn
-ne	Q
-more	Vmpr3s
-prenesti	Vmen
-.	Z
-Po	Sl
-vseh	Pg-fpl
-informacijah	Ncfpl
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-imamo	Vmpr1p-n
-,	Z
-si	Px---d--y
-upam	Vmpr1s
-trditi	Vmpn
-,	Z
-da	Cs
-se	Px------y
-da	Vmer3s
-drugi	Mlpmsay
-tir	Ncmsan
-narediti	Vmen
-za	Sa
-pol	Rgp
-te	Pd-fsg
-cene	Ncfsg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Omerzel	Npmsn
-.	Z
-Prepričan	Appmsnn
-je	Va-r3s-n
-,	Z
-da	Cs
-ne	Q
-potrebujemo	Vmpr1p
-vedno	Rgp
-najboljših	Agsfpg
-tehnoloških	Agpfpg
-rešitev	Ncfpg
-na	Sl
-svetu	Ncmsl
-,	Z
-gradbena	Agpnpn
-dela	Ncnpn
-pa	Cc
-se	Px------y
-da	Vmer3s
-izvesti	Vmen
-veliko	Rgp
-bolj	Rgc
-optimalno	Agpnsn
-,	Z
-marsikatera	Pi-fpn
-niti	Q
-niso	Va-r3p-y
-potrebna	Agpnpn
-Ko	Cs
-vse	Pg-nsa
-to	Pd-nsa
-upoštevamo	Vmbr1p
-,	Z
-pridemo	Vmer1p
-v	Sa
-ta	Pd-msa
-rang	Ncmsan
-cene	Ncfsg
-.	Z
-Černač	Npmsn
-To	Pd-nsn
-bo	Va-f3s-n
-novi	Agpmsny
-Teš	Npmsn
-6	Mdc
--	Z
-tokrat	Rgp
-na	Sl
-tirih	Ncmpl
-Na	Sa
-Omerzelove	Aspfpa
-trditve	Ncfpa
-,	Z
-da	Cs
-je	Va-r3s-n
-tir	Ncmsn
-mogoče	Agpnsn
-zgraditi	Vmen
-za	Sa
-polovico	Ncfsa
-prvotne	Agpfsg
-ocene	Ncfsg
-,	Z
-se	Px------y
-je	Va-r3s-n
-že	Q
-odzval	Vmep-sm
-njegov	Ps3msnsm
-predhodnik	Ncmsn
-in	Cc
-poslanec	Ncmsn
-SDS	Npmsn
--	Z
-a	Cc
-Zvonko	Npmsn
-Černač	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-minister	Ncmsn
-zavaja	Vmpr3s
-javnost	Ncfsa
-in	Cc
-da	Cs
-bo	Va-f3s-n
-gradnja	Ncfsn
-drugega	Mlpmsg
-tira	Ncmsg
-Divača	Npfsn
--	Z
-Koper	Npmsn
-postala	Vmep-sf
-novi	Agpmsay
-Teš	Npmsan
-6	Mdc
-,	Z
-tokrat	Rgp
-na	Sl
-tirih	Ncmpl
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-spomnil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-o	Sl
-propadlem	Appmsl
-razpisu	Ncmsl
-za	Sa
-cestninjenje	Ncnsa
-tovornih	Agpnpg
-vozil	Ncnpg
-v	Sl
-prostem	Agpmsl
-prometnem	Agpmsl
-toku	Ncmsl
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-projekt	Ncmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-ponudnik	Ncmsn
-skupaj	Rgp
-s	Si
-stroški	Ncmpi
-financiranja	Ncnsg
-vrednotil	Vmep-sm
-na	Sa
-približno	Rgp
-200	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-mogoče	Agpnsn
-izvesti	Vmen
-za	Sa
-deset	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-in	Cc
-da	Cs
-bo	Va-f3s-n
-do	Sg
-konca	Ncmsg
-poletja	Ncnsg
-predstavil	Vmep-sm
-način	Ncmsan
-izvedbe	Ncfsg
-tega	Pd-msg
-projekta	Ncmsg
-.	Z
-Čakamo	Vmpr1p
-.	Z
-Poletje	Ncnsn
-je	Va-r3s-n
-mimo	Rgp
-,	Z
-je	Va-r3s-n
-zapisal	Vmep-sm
-in	Cc
-nadaljeval	Vmpp-sm
-Tako	Rgp
-,	Z
-kot	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-vrednost	Ncfsn
-projekta	Ncmsg
-drugega	Mlpmsg
-tira	Ncmsg
-včeraj	Rgp
-1,3	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-je	Va-r3s-n
-lahko	Rgp
-danes	Rgp
-za	Sa
-ministra	Ncmsay
-Omerzela	Vmep-sf
-ob	Sl
-istih	Pi-fpl
-predpostavkah	Ncfpl
-vrednost	Ncfsa
-700	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-pojutrišnjem	Npnsl
-če	Cs
-bo	Va-f3s-n
-javnost	Ncfsa
-ocenila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-to	Pd-nsn
-previsoko	Rgp
-pa	Cc
-mogoče	Agpnsn
-samo	Q
-500	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Gradnja	Ncfsn
-bo	Va-f3s-n
-trajala	Vmpp-sf
-šest	Mlc-pa
-let	Ncnpg
-Omerzel	Npmsn
-je	Va-r3s-n
-sicer	Q
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-pridobitev	Ncfsn
-gradbenega	Agpnsg
-dovoljenja	Ncnsg
-predvidena	Appfsn
-na	Sl
-začetku	Ncmsl
-leta	Ncnsg
-2014	Mdc
-,	Z
-šele	Q
-nato	Rgp
-bodo	Va-f3p-n
-lahko	Rgp
-začeli	Vmep-pm
-iskati	Vmpn
-izvajalca	Ncmsay
-.	Z
-Gradnja	Ncfsn
-naj	Q
-bi	Va-c
-po	Sl
-trenutnih	Agpmpl
-načrtih	Ncmpl
-trajala	Vmpp-sf
-približno	Rgp
-šest	Mlc-pa
-let	Ncnpg
-.	Z
-Pri	Sl
-infrastrukturnih	Agpmpl
-projektih	Ncmpl
-je	Va-r3s-n
-vrnitev	Ncfsn
-investicije	Ncfsg
-malce	Rgp
-daljša	Agcfsn
-,	Z
-saj	Cc
-po	Sl
-ocenah	Ncfpl
-ministra	Ncmsg
-znaša	Vmpr3s
-okoli	Rgp
-20	Mdc
-ali	Cc
-25	Mdc
-let	Ncnpg
-.	Z
-Minister	Ncmsn
-je	Va-r3s-n
-tudi	Q
-prepričan	Appmsnn
-,	Z
-da	Cs
-je	Va-r3s-n
-700	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-ekonomsko	Rgp
-upravičena	Appfsn
-investicija	Ncfsn
-in	Cc
-da	Cs
-bo	Va-f3s-n
-recenzija	Ncfsn
-pokazala	Vmep-sf
-,	Z
-da	Cs
-so	Va-r3p-n
-si	Px---d--y
-zastavili	Vmep-pm
-pravi	Agpmsay
-cilj	Ncmsan
-.	Z
-Gradnjo	Ncfsa
-drugega	Mlpmsg
-tira	Ncmsg
-pa	Cc
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-mogoče	Agpnsn
-financirati	Vmbn
-s	Si
-kohezijskimi	Agpnpi
-sredstvi	Ncnpi
-iz	Sg
-nove	Agpfsg
-finančne	Agpfsg
-perspektive	Ncfsg
-2014	Mdc
--	Z
-2020	Mdc
-,	Z
-druga	Mlpfsn
-možnost	Ncfsn
-pa	Cc
-je	Va-r3s-n
-koriščenje	Ncnsn
-sredstev	Ncnpg
-iz	Sg
-t	Ncmsn
-.	Z
-i	Ncmsn
-.	Z
-sklada	Ncmsg
-CEF	Npmsn
-Connecting	Npmsn
-Europe	Npmsn
-Facility	Npmsn
-,	Z
-za	Sa
-katere	Pq-mpa
-lahko	Rgp
-kandidiramo	Vmbr1p
-s	Si
-projekti	Ncmpi
-.	Z
-Tretja	Mlofsn
-možnost	Ncfsn
-za	Sa
-financiranje	Ncnsa
-je	Va-r3s-n
-javno	Agpnsn
--	Z
-zasebno	Agpnsa
-partnerstvo	Ncnsa
-V	Sl
-tem	Pd-msl
-konceptu	Ncmsl
-moramo	Vmpr1p
-na	Sa
-Slovenske	Agpfpa
-železnice	Ncfpa
-gledati	Vmpn
-malce	Rgp
-širše	Agcnsg
-.	Z
-Če	Cs
-govorimo	Vmpr1p
-o	Sl
-javno	Agpnsn
--	Z
-zasebnem	Agpnsl
-partnerstvu	Ncnsl
-,	Z
-govorimo	Vmpr1p
-o	Sl
-tem	Pd-nsl
-,	Z
-da	Cs
-pripeljemo	Vmer1p
-partnerja	Ncmsay
-za	Sa
-upravljavski	Agpmsay
-del	Ncmsan
--	Z
-torej	Rgp
-ne	Q
-govorimo	Vmpr1p
-o	Sl
-infrastrukturi	Ncfsl
-,	Z
-ampak	Cc
-o	Sl
-upravljavskem	Agpnsl
-delu	Ncnsl
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-spomnil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-v	Sl
-preteklosti	Ncfsl
-že	Q
-predstavljena	Appfsn
-ideja	Ncfsn
-o	Sl
-povezovanju	Ncnsl
-Luke	Npfsg
-Koper	Npmsn
-in	Cc
-Slovenskih	Agpfpg
-železnic	Ncfpg
-,	Z
-ki	Cs
-se	Px------y
-zdi	Vmpr3s
-ministru	Ncmsd
-dobra	Agpfsn
-,	Z
-saj	Cc
-oba	Pg-mdn
-sistema	Ncmdn
-drug	Mlpmsnn
-brez	Sg
-drugega	Mlpmsg
-dejansko	Rgp
-ne	Q
-moreta	Vmpr3d
-delovati	Vmpn
-.	Z
-Njuno	Ps3nsnd
-povezovanje	Ncnsn
-se	Px------y
-mu	Pp3msd--y
-zdi	Vmpr3s
-zato	Rgp
-smiselno	Agpnsn
-.	Z
-Država	Ncfsn
-porabila	Vmep-sf
-že	Q
-40	Mdc
-milijonov	Ncmpg
-Ideja	Ncfsn
-o	Sl
-projektu	Ncmsl
-drugega	Mlpmsg
-tira	Ncmsg
-Divača	Npfsn
--	Z
-Koper	Npmsn
-sega	Vmpr3s
-v	Sa
-sredino	Ncfsa
-90	Mdc
-.	Z
-let	Ncnpg
-preteklega	Appnsg
-stoletja	Ncnsg
-,	Z
-umestitev	Ncfsa
-proge	Ncfsg
-v	Sa
-prostor	Ncmsan
-pa	Cc
-je	Va-r3s-n
-vlada	Ncfsn
-potrdila	Vmep-sf
-že	Q
-leta	Ncnsg
-2005	Mdc
-.	Z
-Postopki	Ncmpn
-so	Va-r3p-n
-se	Px------y
-zavlekli	Vmep-pm
-zaradi	Sg
-sprememb	Ncfpg
-načrtov	Ncmpg
-in	Cc
-dolgotrajnega	Agpnsg
-pridobivanja	Ncnsg
-potrebnih	Agpnpg
-zemljišč	Ncnpg
-.	Z
-Za	Sa
-projekt	Ncmsan
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-porabljenih	Appmpg
-že	Q
-skoraj	Q
-40	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Pretežni	Agpmsay
-del	Ncmsan
-sredstev	Ncnpg
-so	Va-r3p-n
-porabili	Vmep-pm
-za	Sa
-projektiranje	Ncnsa
-in	Cc
-pripravo	Ncfsa
-dokumentacije	Ncfsg
-,	Z
-za	Sa
-analize	Ncfpa
-in	Cc
-pregled	Ncmsan
-zastavljene	Appfsg
-trase	Ncfsg
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-minister	Ncmsn
-.	Z
-Kot	Cs
-pravi	Vmbr3s
-,	Z
-drži	Vmpr3s
-podatek	Ncmsan
-,	Z
-da	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-odkupljenih	Appmpg
-99	Mdc
-odstotkov	Ncmpg
-zemlje	Ncfsg
-,	Z
-vendar	Cc
-znaša	Vmpr3s
-to	Pd-nsa
-le	Q
-pet	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Večinski	Agpmsny
-del	Ncmsn
-gre	Vmbr3s
-pod	Si
-zemljo	Ncfsa
-in	Cc
-dejansko	Rgp
-te	Pd-fsg
-zemlje	Ncfsg
-za	Sa
-odkup	Ncmsan
-res	Rgp
-ni	Va-r3s-y
-tako	Rgp
-veliko	Rgp
-,	Z
-je	Va-r3s-n
-dodal	Vmep-sm
-.	Z
-SŽ	Npfsn
-Gradnja	Ncfsn
-drugega	Mlpmsg
-tira	Ncmsg
-je	Va-r3s-n
-nujna	Agpfsn
-Na	Sl
-Slovenskih	Agpfpl
-železnicah	Ncfpl
-napoved	Ncfsa
-gradnje	Ncfsg
-drugega	Mlpmsg
-tira	Ncmsg
-pozdravljajo	Vmpr3p
-,	Z
-saj	Cc
-so	Va-r3p-n
-prepričani	Appmpn
-,	Z
-da	Cs
-je	Va-r3s-n
-nujna	Agpfsn
--	Z
-brez	Sg
-sodobnih	Agpfpg
-železniških	Agpfpg
-prog	Ncfpg
-se	Px------y
-bo	Va-f3s-n
-promet	Ncmsn
-namreč	Cc
-preusmeril	Vmep-sm
-na	Sa
-ceste	Ncfpa
-,	Z
-kar	Pr-nsn
-bo	Va-f3s-n
-povzročilo	Vmep-sn
-dodatne	Agpfpa
-okoljske	Agpfpa
-obremenitve	Ncfpa
-,	Z
-železniški	Agpmpn
-prometni	Agpmpn
-koridorji	Ncmpn
-pa	Cc
-se	Px------y
-bodo	Va-f3p-n
-popolnoma	Rgp
-izognili	Vmep-pm
-Sloveniji	Npfsd
-,	Z
-so	Va-r3p-n
-dejali	Vmep-pm
-na	Sa
-SŽ	Npmsn
--	Z
-ju	Pp3mda--y
-.	Z
-Ob	Sl
-tem	Pd-nsl
-so	Va-r3p-n
-dodali	Vmep-pm
-,	Z
-da	Cs
-je	Va-r3s-n
-zdajšnja	Agpfsn
-enotirna	Agpfsn
-proga	Ncfsn
-že	Q
-danes	Rgp
-popolnoma	Rgp
-zasedena	Appfsn
-,	Z
-dodatne	Agpfpn
-omejitve	Ncfpn
-pa	Cc
-povzročajo	Vmpr3p
-nujna	Agpnpa
-vzdrževalna	Agpnpa
-dela	Ncnpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sl
-preteklosti	Ncfsl
-bistveno	Rgp
-premalo	Agpnsn
-,	Z
-pomenijo	Vmbr3p
-pa	Cc
-popolno	Agpfsa
-ustavitev	Ncfsa
-tovornega	Agpmsg
-prometa	Ncmsg
-.	Z
-Proga	Ncfsn
-med	Si
-Divačo	Npfsi
-in	Cc
-Koprom	Npmsi
-sodi	Vmpr3s
-med	Sa
-najpomembnejše	Agsfpa
-evropske	Agpfpa
-železniške	Agpfpa
-povezave	Ncfpa
-in	Cc
-je	Va-r3s-n
-del	Ncmsn
-evropskega	Agpnsg
-jedrnega	Agpnsg
-železniškega	Agpnsg
-omrežja	Ncnsg
-.	Z
-Prevozi	Ncmpn
-v	Sa
-Luko	Npfsa
-Koper	Npmsn
-in	Cc
-iz	Sg
-nje	Pp3fsg
-pomenijo	Vmbr3p
-kar	Rgp
-60	Mdc
-odstotkov	Ncmpg
-vsega	Pg-msg
-tovornega	Agpmsg
-prometa	Ncmsg
-Slovenskih	Agpfpg
-železnic	Ncfpg
-,	Z
-še	Q
-pravijo	Vmbr3p
-.	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-Luke	Npfsg
-Koper	Npmsn
-Gašpar	Npmsn
-Gašpar	Npmsn
-Mišič	Npmsn
-pa	Cc
-je	Va-r3s-n
-že	Q
-v	Sa
-četrtek	Ncmsan
-izrazil	Vmep-sm
-pričakovanje	Ncnsa
-,	Z
-da	Cs
-bo	Va-f3s-n
-vlada	Ncfsn
-projekt	Ncmsan
-potrdila	Vmep-sf
-.	Z
+token	tag	lemma
+27	mte:Mdc	27
+kilometrov	mte:Ncmpg	kilometer
+nove	mte:Agpfsg	nov
+proge	mte:Ncfsg	proga
+bi	mte:Va-c	biti
+stalo	mte:Vmpp-sn	stati
+kar	mte:Rgp	kar
+1,4	mte:Mdc	1,4
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+Upam	mte:Vmpr1s	upati
+si	mte:Px---d--y	se
+trditi	mte:Vmpn	trditi
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+da	mte:Vmer3s	dati
+drugi	mte:Mlpmsay	drug
+tir	mte:Ncmsan	tir
+narediti	mte:Vmen	narediti
+za	mte:Sa	za
+pol	mte:Rgp	pol
+te	mte:Pd-fsg	ta
+cene	mte:Ncfsg	cena
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+infrastrukturo	mte:Ncfsa	infrastruktura
+in	mte:Cc	in
+prostor	mte:Ncmsan	prostor
+Samo	mte:Q	samo
+Omerzel	mte:Npmsn	Omerzel
+.	mte:Z	.
+Investicija	mte:Ncfsn	investicija
+je	mte:Va-r3s-n	biti
+trenutno	mte:Rgp	trenutno
+ocenjena	mte:Appfsn	ocenjen
+na	mte:Sa	na
+kar	mte:Rgp	kar
+1,4	mte:Mdc	1,4
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+Omerzel	mte:Npmsn	Omerzel
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+lotila	mte:Vmep-sf	lotiti
+izvedbe	mte:Ncfsg	izvedba
+gradnje	mte:Ncfsg	gradnja
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+železniške	mte:Agpfsg	železniški
+proge	mte:Ncfsg	proga
+med	mte:Si	med
+Divačo	mte:Npfsi	Divačo
+in	mte:Cc	in
+Koprom	mte:Npmsi	Koper
+v	mte:Sl	v
+dolžini	mte:Ncfsl	dolžina
+27	mte:Mdc	27
+kilometrov	mte:Ncmpg	kilometer
+,	mte:Z	,
+vendar	mte:Cc	vendar
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+zdi	mte:Vmpr3s	zdeti
+ocenjena	mte:Appfsn	ocenjen
+vrednost	mte:Ncfsn	vrednost
+previsoka	mte:Agpfsn	previsok
+.	mte:Z	.
+Omerzel	mte:Npmsn	Omerzel
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+spomnil	mte:Vmep-sm	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+Slovenija	mte:Npfsn	Slovenija
+znotraj	mte:Sg	znotraj
+Evrope	mte:Npfsg	Evropa
+izjemno	mte:Agpfsa	izjemen
+strateško	mte:Agpfsa	strateški
+lego	mte:Ncfsa	lega
+,	mte:Z	,
+vendar	mte:Cc	vendar
+to	mte:Pd-nsn	ta
+samo	mte:Q	samo
+po	mte:Sl	po
+sebi	mte:Px---l	se
+ni	mte:Va-r3s-y	biti
+dovolj	mte:Rgp	dovolj
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+vlagati	mte:Vmpn	vlagati
+v	mte:Sa	v
+infrastrukturo	mte:Ncfsa	infrastruktura
+,	mte:Z	,
+ne	mte:Q	ne
+le	mte:Q	le
+železniško	mte:Agpnsn	železniški
+.	mte:Z	.
+Drugi	mte:Mlpmsny	drug
+tir	mte:Ncmsn	tir
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+mnenju	mte:Ncnsl	mnenje
+pomemben	mte:Agpmsnn	pomemben
+tudi	mte:Q	tudi
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+infrastrukturo	mte:Ncfsa	infrastruktura
+in	mte:Cc	in
+prostor	mte:Ncmsan	prostor
+so	mte:Va-r3p-n	biti
+pred	mte:Si	pred
+svojo	mte:Px-fsi	svoj
+odločitvijo	mte:Ncfsi	odločitev
+,	mte:Z	,
+ali	mte:Cc	ali
+in	mte:Cc	in
+kako	mte:Rgp	kako
+projekt	mte:Ncmsan	projekt
+nadaljevati	mte:Vmpn	nadaljevati
+,	mte:Z	,
+proučili	mte:Vmep-pm	proučiti
+podobne	mte:Agpmpa	podoben
+projekte	mte:Ncmpa	projekt
+doma	mte:Ncmsg	dom
+in	mte:Cc	in
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+ter	mte:Cc	ter
+pregledali	mte:Vmep-pm	pregledati
+,	mte:Z	,
+kakšne	mte:Pq-fsg	kakšen
+rešitve	mte:Ncfpg	rešitev
+predvideva	mte:Vmpr3s	predvidevati
+projektna	mte:Agpfsn	projekten
+dokumentacija	mte:Ncfsn	dokumentacija
+in	mte:Cc	in
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+dogajalo	mte:Vmpp-sn	dogajati
+s	mte:Si	z
+projektom	mte:Ncmsi	projekt
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+izkazalo	mte:Vmep-sn	izkazati
+,	mte:Z	,
+da	mte:Cs	da
+znaša	mte:Vmpr3s	znašati
+ocena	mte:Ncfsn	ocena
+investicije	mte:Ncfsg	investicija
+1,4	mte:Mdc	1,4
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+številka	mte:Ncfsn	številka
+je	mte:Va-r3s-n	biti
+zame	mte:Pp1-sa--b	zame
+nesprejemljiva	mte:Agpfsn	nesprejemljiv
+.	mte:Z	.
+Vložiti	mte:Vmen	vložiti
+1,4	mte:Mdc	1,4
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+v	mte:Sa	v
+27	mte:Mdc	27
+kilometrov	mte:Ncmpg	kilometer
+železnice	mte:Ncfsg	železnica
+je	mte:Va-r3s-n	biti
+nekaj	mte:Pi-nsn	nekaj
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+noben	mte:Pz-msn	noben
+finančno	mte:Agpnsn	finančen
+-	mte:Z	-
+poslovni	mte:Agpmsny	posloven
+model	mte:Ncmsn	model
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+prenesti	mte:Vmen	prenesti
+.	mte:Z	.
+Po	mte:Sl	po
+vseh	mte:Pg-fpl	ves
+informacijah	mte:Ncfpl	informacija
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+imamo	mte:Vmpr1p-n	imeti
+,	mte:Z	,
+si	mte:Px---d--y	se
+upam	mte:Vmpr1s	upati
+trditi	mte:Vmpn	trditi
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+da	mte:Vmer3s	dati
+drugi	mte:Mlpmsay	drug
+tir	mte:Ncmsan	tir
+narediti	mte:Vmen	narediti
+za	mte:Sa	za
+pol	mte:Rgp	pol
+te	mte:Pd-fsg	ta
+cene	mte:Ncfsg	cena
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Omerzel	mte:Npmsn	Omerzel
+.	mte:Z	.
+Prepričan	mte:Appmsnn	prepričan
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+potrebujemo	mte:Vmpr1p	potrebovati
+vedno	mte:Rgp	vedno
+najboljših	mte:Agsfpg	dober
+tehnoloških	mte:Agpfpg	tehnološki
+rešitev	mte:Ncfpg	rešitev
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+,	mte:Z	,
+gradbena	mte:Agpnpn	gradben
+dela	mte:Ncnpn	delo
+pa	mte:Cc	pa
+se	mte:Px------y	se
+da	mte:Vmer3s	dati
+izvesti	mte:Vmen	izvesti
+veliko	mte:Rgp	veliko
+bolj	mte:Rgc	bolj
+optimalno	mte:Agpnsn	optimalen
+,	mte:Z	,
+marsikatera	mte:Pi-fpn	marsikateri
+niti	mte:Q	niti
+niso	mte:Va-r3p-y	biti
+potrebna	mte:Agpnpn	potreben
+Ko	mte:Cs	ko
+vse	mte:Pg-nsa	ves
+to	mte:Pd-nsa	ta
+upoštevamo	mte:Vmbr1p	upoštevati
+,	mte:Z	,
+pridemo	mte:Vmer1p	priti
+v	mte:Sa	v
+ta	mte:Pd-msa	ta
+rang	mte:Ncmsan	rang
+cene	mte:Ncfsg	cena
+.	mte:Z	.
+Černač	mte:Npmsn	Černač
+To	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+novi	mte:Agpmsny	nov
+Teš	mte:Npmsn	Teš
+6	mte:Mdc	6
+-	mte:Z	-
+tokrat	mte:Rgp	tokrat
+na	mte:Sl	na
+tirih	mte:Ncmpl	tir
+Na	mte:Sa	na
+Omerzelove	mte:Aspfpa	Omerzelov
+trditve	mte:Ncfpa	trditev
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tir	mte:Ncmsn	tir
+mogoče	mte:Agpnsn	mogoč
+zgraditi	mte:Vmen	zgraditi
+za	mte:Sa	za
+polovico	mte:Ncfsa	polovica
+prvotne	mte:Agpfsg	prvoten
+ocene	mte:Ncfsg	ocena
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+odzval	mte:Vmep-sm	odzvati
+njegov	mte:Ps3msnsm	njegov
+predhodnik	mte:Ncmsn	predhodnik
+in	mte:Cc	in
+poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsn	SDS
+-	mte:Z	-
+a	mte:Cc	a
+Zvonko	mte:Npmsn	Zvonko
+Černač	mte:Npmsn	Černač
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+minister	mte:Ncmsn	minister
+zavaja	mte:Vmpr3s	zavajati
+javnost	mte:Ncfsa	javnost
+in	mte:Cc	in
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+gradnja	mte:Ncfsn	gradnja
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+Divača	mte:Npfsn	Divač
+-	mte:Z	-
+Koper	mte:Npmsn	Koper
+postala	mte:Vmep-sf	postati
+novi	mte:Agpmsay	nov
+Teš	mte:Npmsan	Teš
+6	mte:Mdc	6
+,	mte:Z	,
+tokrat	mte:Rgp	tokrat
+na	mte:Sl	na
+tirih	mte:Ncmpl	tir
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+spomnil	mte:Vmep-sm	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+propadlem	mte:Appmsl	propadel
+razpisu	mte:Ncmsl	razpis
+za	mte:Sa	za
+cestninjenje	mte:Ncnsa	cestninjenje
+tovornih	mte:Agpnpg	tovoren
+vozil	mte:Ncnpg	vozilo
+v	mte:Sl	v
+prostem	mte:Agpmsl	prost
+prometnem	mte:Agpmsl	prometen
+toku	mte:Ncmsl	tok
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+projekt	mte:Ncmsn	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+ponudnik	mte:Ncmsn	ponudnik
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+stroški	mte:Ncmpi	strošek
+financiranja	mte:Ncnsg	financiranje
+vrednotil	mte:Vmep-sm	vrednotiti
+na	mte:Sa	na
+približno	mte:Rgp	približno
+200	mte:Mdc	200
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+mogoče	mte:Agpnsn	mogoč
+izvesti	mte:Vmen	izvesti
+za	mte:Sa	za
+deset	mte:Mlc-pa	deset
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+poletja	mte:Ncnsg	poletje
+predstavil	mte:Vmep-sm	predstaviti
+način	mte:Ncmsan	način
+izvedbe	mte:Ncfsg	izvedba
+tega	mte:Pd-msg	ta
+projekta	mte:Ncmsg	projekt
+.	mte:Z	.
+Čakamo	mte:Vmpr1p	čakati
+.	mte:Z	.
+Poletje	mte:Ncnsn	poletje
+je	mte:Va-r3s-n	biti
+mimo	mte:Rgp	mimo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+in	mte:Cc	in
+nadaljeval	mte:Vmpp-sm	nadaljevati
+Tako	mte:Rgp	tako
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+vrednost	mte:Ncfsn	vrednost
+projekta	mte:Ncmsg	projekt
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+včeraj	mte:Rgp	včeraj
+1,3	mte:Mdc	1,3
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+lahko	mte:Rgp	lahko
+danes	mte:Rgp	danes
+za	mte:Sa	za
+ministra	mte:Ncmsay	minister
+Omerzela	mte:Vmep-sf	omerzeti
+ob	mte:Sl	ob
+istih	mte:Pi-fpl	isti
+predpostavkah	mte:Ncfpl	predpostavka
+vrednost	mte:Ncfsa	vrednost
+700	mte:Mdc	700
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+pojutrišnjem	mte:Npnsl	Pojutrišnja
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+javnost	mte:Ncfsa	javnost
+ocenila	mte:Vmep-sf	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+previsoko	mte:Rgp	previsoko
+pa	mte:Cc	pa
+mogoče	mte:Agpnsn	mogoč
+samo	mte:Q	samo
+500	mte:Mdc	500
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Gradnja	mte:Ncfsn	gradnja
+bo	mte:Va-f3s-n	biti
+trajala	mte:Vmpp-sf	trajati
+šest	mte:Mlc-pa	šest
+let	mte:Ncnpg	leto
+Omerzel	mte:Npmsn	Omerzel
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+pridobitev	mte:Ncfsn	pridobitev
+gradbenega	mte:Agpnsg	gradben
+dovoljenja	mte:Ncnsg	dovoljenje
+predvidena	mte:Appfsn	predviden
+na	mte:Sl	na
+začetku	mte:Ncmsl	začetek
+leta	mte:Ncnsg	leto
+2014	mte:Mdc	2014
+,	mte:Z	,
+šele	mte:Q	šele
+nato	mte:Rgp	nato
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+začeli	mte:Vmep-pm	začeti
+iskati	mte:Vmpn	iskati
+izvajalca	mte:Ncmsay	izvajalec
+.	mte:Z	.
+Gradnja	mte:Ncfsn	gradnja
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+trenutnih	mte:Agpmpl	trenuten
+načrtih	mte:Ncmpl	načrt
+trajala	mte:Vmpp-sf	trajati
+približno	mte:Rgp	približno
+šest	mte:Mlc-pa	šest
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Pri	mte:Sl	pri
+infrastrukturnih	mte:Agpmpl	infrastrukturen
+projektih	mte:Ncmpl	projekt
+je	mte:Va-r3s-n	biti
+vrnitev	mte:Ncfsn	vrnitev
+investicije	mte:Ncfsg	investicija
+malce	mte:Rgp	malce
+daljša	mte:Agcfsn	dolg
+,	mte:Z	,
+saj	mte:Cc	saj
+po	mte:Sl	po
+ocenah	mte:Ncfpl	ocena
+ministra	mte:Ncmsg	minister
+znaša	mte:Vmpr3s	znašati
+okoli	mte:Rgp	okoli
+20	mte:Mdc	20
+ali	mte:Cc	ali
+25	mte:Mdc	25
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+700	mte:Mdc	700
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+ekonomsko	mte:Rgp	ekonomsko
+upravičena	mte:Appfsn	upravičen
+investicija	mte:Ncfsn	investicija
+in	mte:Cc	in
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+recenzija	mte:Ncfsn	recenzija
+pokazala	mte:Vmep-sf	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+si	mte:Px---d--y	se
+zastavili	mte:Vmep-pm	zastaviti
+pravi	mte:Agpmsay	pravi
+cilj	mte:Ncmsan	cilj
+.	mte:Z	.
+Gradnjo	mte:Ncfsa	gradnja
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+mogoče	mte:Agpnsn	mogoč
+financirati	mte:Vmbn	financirati
+s	mte:Si	z
+kohezijskimi	mte:Agpnpi	kohezijski
+sredstvi	mte:Ncnpi	sredstvo
+iz	mte:Sg	iz
+nove	mte:Agpfsg	nov
+finančne	mte:Agpfsg	finančen
+perspektive	mte:Ncfsg	perspektiva
+2014	mte:Mdc	2014
+-	mte:Z	-
+2020	mte:Mdc	2020
+,	mte:Z	,
+druga	mte:Mlpfsn	drug
+možnost	mte:Ncfsn	možnost
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+koriščenje	mte:Ncnsn	koriščenje
+sredstev	mte:Ncnpg	sredstvo
+iz	mte:Sg	iz
+t	mte:Ncmsn	t
+.	mte:Z	.
+i	mte:Ncmsn	i
+.	mte:Z	.
+sklada	mte:Ncmsg	sklad
+CEF	mte:Npmsn	CEF
+Connecting	mte:Npmsn	Connecting
+Europe	mte:Npmsn	europe
+Facility	mte:Npmsn	Facility
+,	mte:Z	,
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+lahko	mte:Rgp	lahko
+kandidiramo	mte:Vmbr1p	kandidirati
+s	mte:Si	z
+projekti	mte:Ncmpi	projekt
+.	mte:Z	.
+Tretja	mte:Mlofsn	tretji
+možnost	mte:Ncfsn	možnost
+za	mte:Sa	za
+financiranje	mte:Ncnsa	financiranje
+je	mte:Va-r3s-n	biti
+javno	mte:Agpnsn	javen
+-	mte:Z	-
+zasebno	mte:Agpnsa	zaseben
+partnerstvo	mte:Ncnsa	partnerstvo
+V	mte:Sl	v
+tem	mte:Pd-msl	ta
+konceptu	mte:Ncmsl	koncept
+moramo	mte:Vmpr1p	morati
+na	mte:Sa	na
+Slovenske	mte:Agpfpa	slovenski
+železnice	mte:Ncfpa	železnica
+gledati	mte:Vmpn	gledati
+malce	mte:Rgp	malce
+širše	mte:Agcnsg	širok
+.	mte:Z	.
+Če	mte:Cs	če
+govorimo	mte:Vmpr1p	govoriti
+o	mte:Sl	o
+javno	mte:Agpnsn	javen
+-	mte:Z	-
+zasebnem	mte:Agpnsl	zaseben
+partnerstvu	mte:Ncnsl	partnerstvo
+,	mte:Z	,
+govorimo	mte:Vmpr1p	govoriti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+pripeljemo	mte:Vmer1p	pripeljati
+partnerja	mte:Ncmsay	partner
+za	mte:Sa	za
+upravljavski	mte:Agpmsay	upravljavski
+del	mte:Ncmsan	del
+-	mte:Z	-
+torej	mte:Rgp	torej
+ne	mte:Q	ne
+govorimo	mte:Vmpr1p	govoriti
+o	mte:Sl	o
+infrastrukturi	mte:Ncfsl	infrastruktura
+,	mte:Z	,
+ampak	mte:Cc	ampak
+o	mte:Sl	o
+upravljavskem	mte:Agpnsl	upravljavski
+delu	mte:Ncnsl	del
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+spomnil	mte:Vmep-sm	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+že	mte:Q	že
+predstavljena	mte:Appfsn	predstavljen
+ideja	mte:Ncfsn	ideja
+o	mte:Sl	o
+povezovanju	mte:Ncnsl	povezovanje
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+in	mte:Cc	in
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+zdi	mte:Vmpr3s	zdeti
+ministru	mte:Ncmsd	minister
+dobra	mte:Agpfsn	dober
+,	mte:Z	,
+saj	mte:Cc	saj
+oba	mte:Pg-mdn	oba
+sistema	mte:Ncmdn	sistem
+drug	mte:Mlpmsnn	drug
+brez	mte:Sg	brez
+drugega	mte:Mlpmsg	drug
+dejansko	mte:Rgp	dejansko
+ne	mte:Q	ne
+moreta	mte:Vmpr3d	moči
+delovati	mte:Vmpn	delovati
+.	mte:Z	.
+Njuno	mte:Ps3nsnd	njun
+povezovanje	mte:Ncnsn	povezovanje
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+zdi	mte:Vmpr3s	zdeti
+zato	mte:Rgp	zato
+smiselno	mte:Agpnsn	smiseln
+.	mte:Z	.
+Država	mte:Ncfsn	država
+porabila	mte:Vmep-sf	porabiti
+že	mte:Q	že
+40	mte:Mdc	40
+milijonov	mte:Ncmpg	milijon
+Ideja	mte:Ncfsn	ideja
+o	mte:Sl	o
+projektu	mte:Ncmsl	projekt
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+Divača	mte:Npfsn	Divač
+-	mte:Z	-
+Koper	mte:Npmsn	Koper
+sega	mte:Vmpr3s	segati
+v	mte:Sa	v
+sredino	mte:Ncfsa	sredina
+90	mte:Mdc	90
+.	mte:Z	.
+let	mte:Ncnpg	leto
+preteklega	mte:Appnsg	pretekel
+stoletja	mte:Ncnsg	stoletje
+,	mte:Z	,
+umestitev	mte:Ncfsa	umestitev
+proge	mte:Ncfsg	proga
+v	mte:Sa	v
+prostor	mte:Ncmsan	prostor
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+potrdila	mte:Vmep-sf	potrditi
+že	mte:Q	že
+leta	mte:Ncnsg	leto
+2005	mte:Mdc	2005
+.	mte:Z	.
+Postopki	mte:Ncmpn	postopek
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+zavlekli	mte:Vmep-pm	zavleči
+zaradi	mte:Sg	zaradi
+sprememb	mte:Ncfpg	sprememba
+načrtov	mte:Ncmpg	načrt
+in	mte:Cc	in
+dolgotrajnega	mte:Agpnsg	dolgotrajen
+pridobivanja	mte:Ncnsg	pridobivanje
+potrebnih	mte:Agpnpg	potreben
+zemljišč	mte:Ncnpg	zemljišče
+.	mte:Z	.
+Za	mte:Sa	za
+projekt	mte:Ncmsan	projekt
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+porabljenih	mte:Appmpg	porabljen
+že	mte:Q	že
+skoraj	mte:Q	skoraj
+40	mte:Mdc	40
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Pretežni	mte:Agpmsay	pretežen
+del	mte:Ncmsan	del
+sredstev	mte:Ncnpg	sredstvo
+so	mte:Va-r3p-n	biti
+porabili	mte:Vmep-pm	porabiti
+za	mte:Sa	za
+projektiranje	mte:Ncnsa	projektiranje
+in	mte:Cc	in
+pripravo	mte:Ncfsa	priprava
+dokumentacije	mte:Ncfsg	dokumentacija
+,	mte:Z	,
+za	mte:Sa	za
+analize	mte:Ncfpa	analiza
+in	mte:Cc	in
+pregled	mte:Ncmsan	pregled
+zastavljene	mte:Appfsg	zastavljen
+trase	mte:Ncfsg	tras
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+minister	mte:Ncmsn	minister
+.	mte:Z	.
+Kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+drži	mte:Vmpr3s	držati
+podatek	mte:Ncmsan	podatek
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+odkupljenih	mte:Appmpg	odkupljen
+99	mte:Mdc	99
+odstotkov	mte:Ncmpg	odstotek
+zemlje	mte:Ncfsg	zemlja
+,	mte:Z	,
+vendar	mte:Cc	vendar
+znaša	mte:Vmpr3s	znašati
+to	mte:Pd-nsa	ta
+le	mte:Q	le
+pet	mte:Mlc-pa	pet
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Večinski	mte:Agpmsny	večinski
+del	mte:Ncmsn	del
+gre	mte:Vmbr3s	iti
+pod	mte:Si	pod
+zemljo	mte:Ncfsa	zemlja
+in	mte:Cc	in
+dejansko	mte:Rgp	dejansko
+te	mte:Pd-fsg	ta
+zemlje	mte:Ncfsg	zemlja
+za	mte:Sa	za
+odkup	mte:Ncmsan	odkup
+res	mte:Rgp	res
+ni	mte:Va-r3s-y	biti
+tako	mte:Rgp	tako
+veliko	mte:Rgp	veliko
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dodal	mte:Vmep-sm	dodati
+.	mte:Z	.
+SŽ	mte:Npfsn	SŽ
+Gradnja	mte:Ncfsn	gradnja
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+je	mte:Va-r3s-n	biti
+nujna	mte:Agpfsn	nujen
+Na	mte:Sl	na
+Slovenskih	mte:Agpfpl	slovenski
+železnicah	mte:Ncfpl	železnica
+napoved	mte:Ncfsa	napoved
+gradnje	mte:Ncfsg	gradnja
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+pozdravljajo	mte:Vmpr3p	pozdravljati
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+nujna	mte:Agpfsn	nujen
+-	mte:Z	-
+brez	mte:Sg	brez
+sodobnih	mte:Agpfpg	sodoben
+železniških	mte:Agpfpg	železniški
+prog	mte:Ncfpg	proga
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+promet	mte:Ncmsn	promet
+namreč	mte:Cc	namreč
+preusmeril	mte:Vmep-sm	preusmeriti
+na	mte:Sa	na
+ceste	mte:Ncfpa	cesta
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+bo	mte:Va-f3s-n	biti
+povzročilo	mte:Vmep-sn	povzročiti
+dodatne	mte:Agpfpa	dodaten
+okoljske	mte:Agpfpa	okoljski
+obremenitve	mte:Ncfpa	obremenitev
+,	mte:Z	,
+železniški	mte:Agpmpn	železniški
+prometni	mte:Agpmpn	prometen
+koridorji	mte:Ncmpn	koridor
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+popolnoma	mte:Rgp	popolnoma
+izognili	mte:Vmep-pm	izogniti
+Sloveniji	mte:Npfsd	Slovenija
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+dejali	mte:Vmep-pm	dejati
+na	mte:Sa	na
+SŽ	mte:Npmsn	SŽ
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+so	mte:Va-r3p-n	biti
+dodali	mte:Vmep-pm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zdajšnja	mte:Agpfsn	zdajšnji
+enotirna	mte:Agpfsn	enotiren
+proga	mte:Ncfsn	proga
+že	mte:Q	že
+danes	mte:Rgp	danes
+popolnoma	mte:Rgp	popolnoma
+zasedena	mte:Appfsn	zaseden
+,	mte:Z	,
+dodatne	mte:Agpfpn	dodaten
+omejitve	mte:Ncfpn	omejitev
+pa	mte:Cc	pa
+povzročajo	mte:Vmpr3p	povzročati
+nujna	mte:Agpnpa	nujen
+vzdrževalna	mte:Agpnpa	vzdrževalen
+dela	mte:Ncnpa	delo
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+bistveno	mte:Rgp	bistveno
+premalo	mte:Agpnsn	premalo
+,	mte:Z	,
+pomenijo	mte:Vmbr3p	pomeniti
+pa	mte:Cc	pa
+popolno	mte:Agpfsa	popoln
+ustavitev	mte:Ncfsa	ustavitev
+tovornega	mte:Agpmsg	tovoren
+prometa	mte:Ncmsg	promet
+.	mte:Z	.
+Proga	mte:Ncfsn	proga
+med	mte:Si	med
+Divačo	mte:Npfsi	Divačo
+in	mte:Cc	in
+Koprom	mte:Npmsi	Koper
+sodi	mte:Vmpr3s	soditi
+med	mte:Sa	med
+najpomembnejše	mte:Agsfpa	pomemben
+evropske	mte:Agpfpa	evropski
+železniške	mte:Agpfpa	železniški
+povezave	mte:Ncfpa	povezava
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+del	mte:Ncmsn	del
+evropskega	mte:Agpnsg	evropski
+jedrnega	mte:Agpnsg	jedrn
+železniškega	mte:Agpnsg	železniški
+omrežja	mte:Ncnsg	omrežje
+.	mte:Z	.
+Prevozi	mte:Ncmpn	prevoz
+v	mte:Sa	v
+Luko	mte:Npfsa	Luka
+Koper	mte:Npmsn	Koper
+in	mte:Cc	in
+iz	mte:Sg	iz
+nje	mte:Pp3fsg	on
+pomenijo	mte:Vmbr3p	pomeniti
+kar	mte:Rgp	kar
+60	mte:Mdc	60
+odstotkov	mte:Ncmpg	odstotek
+vsega	mte:Pg-msg	ves
+tovornega	mte:Agpmsg	tovoren
+prometa	mte:Ncmsg	promet
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+,	mte:Z	,
+še	mte:Q	še
+pravijo	mte:Vmbr3p	praviti
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+Gašpar	mte:Npmsn	Gašpar
+Gašpar	mte:Npmsn	Gašpar
+Mišič	mte:Npmsn	Mišič
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+izrazil	mte:Vmep-sm	izraziti
+pričakovanje	mte:Ncnsa	pričakovanje
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+vlada	mte:Ncfsn	vlada
+projekt	mte:Ncmsan	projekt
+potrdila	mte:Vmep-sf	potrditi
+.	mte:Z	.
+Četudi	mte:Cs	četudi
+danes	mte:Rgp	danes
+začnemo	mte:Vmer1p	začeti
+graditi	mte:Vmpn	graditi
+,	mte:Z	,
+smo	mte:Va-r1p-n	biti
+že	mte:Q	že
+prepozni	mte:Agpmpn	prepozen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+zdi	mte:Vmpr3s	zdeti
+dilema	mte:Ncfsn	dilm
+o	mte:Sl	o
+gradnji	mte:Ncfsl	gradnja
+drugega	mte:Mlpmsg	drug
+tira	mte:Ncmsg	tir
+nesprejemljiva	mte:Agpfsn	nesprejemljiv

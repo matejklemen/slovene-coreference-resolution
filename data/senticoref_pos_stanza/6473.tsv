@@ -1,343 +1,353 @@
-token	tag
-Gazprom	Npmsn
-ponuja	Vmpr3s
-plin	Ncmsan
-po	Sl
-nižji	Agcfsl
-ceni	Ncfsl
-Ruski	Agpmsny
-energetski	Agpmsny
-velikan	Ncmsn
-Gazprom	Npmsn
-je	Va-r3s-n
-Ukrajini	Npfsd
-ponudil	Vmep-sm
-novo	Agpfsa
-,	Z
-nekoliko	Rgp
-nižjo	Agcfsa
-ceno	Ncfsa
-za	Sa
-plin	Ncmsan
-in	Cc
-Kijev	Npmsan
-pozval	Vmep-sm
-k	Sd
-nadaljevanju	Ncnsd
-pogajanj	Ncnpg
-o	Sl
-odplačilu	Ncnsl
-dolga	Agpfsn
-.	Z
-Ukrajini	Npfsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-zadnjih	Agpmpl
-dneh	Ncmpl
-plačala	Vmep-sf
-del	Ncmsan
-1,56	Mdc
-milijarde	Ncfsg
-ameriških	Agpmpg
-dolarjev	Ncmpg
-dolga	Agpfsn
-za	Sa
-dobavo	Ncfsa
-plina	Ncmsg
-,	Z
-še	Q
-vedno	Rgp
-pa	Cc
-dolguje	Vmpr3s
-600	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-zamudnih	Agpfpg
-obresti	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-zdaj	Rgp
-jabolko	Ncnsa
-spora	Ncmsg
-,	Z
-je	Va-r3s-n
-Gazprom	Npmsn
-ponudil	Vmep-sm
-plin	Ncmsan
-po	Sa
-450	Mdc
-dolarjev	Ncmpg
-za	Sa
-1.000	Mdc
-kubičnih	Agpmpg
-metrov	Ncmpg
-namesto	Sg
-tržne	Agpfsg
-cene	Ncfsg
-500	Mdc
-dolarjev	Ncmpg
-.	Z
-Ukrajina	Npfsn
-na	Sa
-ponudbo	Ncfsa
-še	Q
-ni	Va-r3s-y
-odgovorila	Vmep-sf
-.	Z
-Gazprom	Npmsn
-Ukrajina	Npfsn
-krade	Vmpr3s
-plin	Ncmsan
-Rusija	Npfsn
-je	Va-r3s-n
-z	Si
-začetkom	Ncmsi
-leta	Ncnsg
-prekinila	Vmep-sf
-dobavo	Ncfsa
-plina	Ncmsg
-Ukrajini	Npfsd
-,	Z
-čez	Sa
-to	Pd-fsa
-državo	Ncfsa
-pa	Cc
-še	Q
-vedno	Rgp
-potuje	Vmpr3s
-plin	Ncmsn
-,	Z
-namenjen	Appmsnn
-v	Sa
-Evropo	Npfsa
-,	Z
-od	Sg
-koder	Cs
-poročajo	Vmpr3p
-o	Sl
-upadu	Ncmsl
-dobave	Ncfsg
-plina	Ncmsg
-.	Z
-Rusija	Npfsn
-zmanjšano	Appfsa
-dobavo	Ncfsa
-plina	Ncmsg
-v	Sa
-Evropo	Npfsa
-pripisuje	Vmpr3s
-Ukrajini	Npfsd
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-kradla	Vmpp-sf
-plin	Ncmsan
-,	Z
-namenjen	Appmsnn
-evropskim	Agpmpd
-porabnikom	Ncmpd
-.	Z
-Namestnik	Ncmsn
-direktorja	Ncmsg
-Gazproma	Npmsg
-Aleksander	Npmsn
-Medvedjev	Npmsn
-je	Va-r3s-n
-Ukrajino	Npfsa
-pozval	Vmep-sm
-,	Z
-naj	Cs
-se	Px------y
-vzdrži	Vmer3s
-teh	Pd-npg
-protizakonitih	Agpnpg
-dejanj	Ncnpg
-in	Cc
-se	Px------y
-vrne	Vmer3s
-za	Sa
-pogajalsko	Agpfsa
-mizo	Ncfsa
-,	Z
-kjer	Cs
-bi	Va-c
-se	Px------y
-lahko	Rgp
-dogovorili	Vmep-pm
-o	Sl
-rešitvi	Ncfsl
-,	Z
-ki	Cs
-bi	Va-c
-bila	Va-p-sf
-sprejemljijva	Ncfsn
-tako	Rgp
-za	Sa
-rusko	Agpnsa
-kot	Cs
-za	Sa
-ukrajinsko	Agpfsa
-stran	Ncfsa
-.	Z
-Tožba	Ncfsn
-pred	Si
-arbitražnim	Agpnsi
-sodiščem	Ncnsi
-Gazprom	Npmsn
-je	Va-r3s-n
-proti	Sd
-ukrajinskemu	Agpnsd
-državnemu	Agpnsd
-plinskemu	Agpnsd
-podjetju	Ncnsd
-Naftogaz	Npmsn
-vložil	Vmep-sm
-tožbo	Ncfsa
-na	Sl
-arbitražnem	Agpnsl
-sodišču	Ncnsl
-v	Sl
-Stockholmu	Npmsl
-in	Cc
-sodišče	Ncnsa
-zaprosil	Vmep-sm
-,	Z
-naj	Cs
-Naftogazu	Npmsd
-prepove	Vmer3s
-kakršna	Pq-npa
-koli	Q
-dejanja	Ncnpa
-,	Z
-katerih	Pq-mpg
-cilj	Ncmsn
-je	Va-r3s-n
-zmanjšati	Vmen
-tranzit	Ncmsan
-ruskega	Agpmsg
-plina	Ncmsg
-v	Sa
-Evropo	Npfsa
-.	Z
-Ukrajina	Npfsn
-obtožbe	Ncfsg
-zanika	Vmpr3s
-in	Cc
-trdi	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-Rusija	Npfsn
-sama	Agpfsn
-znižala	Vmep-sf
-dobavo	Ncfsa
-plina	Ncmsg
-evropskim	Agpmsd
-odjemalcem	Ncmpd
-.	Z
-Gazprom	Npmsn
-zagotavlja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sa
-plinovod	Ncmsan
-,	Z
-ki	Cs
-poteka	Vmpr3s
-čez	Sa
-Ukrajino	Npfsa
-,	Z
-spustil	Vmep-sm
-dodatnih	Agpmpg
-326	Mdc
-milijonov	Ncmpg
-kubičnih	Agpmpg
-metrov	Ncmpg
-plina	Ncmsg
-.	Z
-Spor	Ncmsn
-je	Va-r3s-n
-zelo	Rgp
-podoben	Agpmsnn
-tistemu	Pd-nsd
-izpred	Sg
-treh	Mlcnpg
-let	Ncnpg
-,	Z
-ko	Cs
-je	Va-r3s-n
-Rusija	Npfsn
-tudi	Q
-ustavila	Vmep-sf
-dobavo	Ncfsa
-plina	Ncmsg
-Ukrajini	Npfsd
-,	Z
-posledično	Rgp
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-v	Sa
-Evropo	Npfsa
-prišlo	Vmep-sn
-manj	Rgc
-plina	Ncmsg
-.	Z
-Spor	Ncmsn
-še	Q
-dodatno	Rgp
-zapleta	Vmpr3s
-razhajanje	Ncnsa
-obeh	Pg-fdg
-strani	Ncfdg
-glede	Sg
-cene	Ncfsg
-plina	Ncmsg
-v	Sa
-prihodnje	Agpnsa
-.	Z
-Iz	Sg
-nekaterih	Pi-fpg
-evropskih	Agpfpg
-držav	Ncfpg
-medtem	Rgp
-poročajo	Vmpr3p
-o	Sl
-upadu	Ncmsl
-dobave	Ncfsg
-plina	Ncmsg
-.	Z
-V	Sl
-Romuniji	Npfsl
-so	Va-r3p-n
-zabeležili	Vmep-pm
-30	Mdc
--	Z
-odstotni	Agpmsay
-padec	Ncmsan
-pritoka	Ncmsg
-plina	Ncmsg
-,	Z
-Bolgariji	Npfsl
-za	Sa
-10	Mdc
-do	Sg
-15	Mdc
-odstotkov	Ncmpg
-,	Z
-Poljski	Npmsn
-za	Sa
-šest	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-Češki	Npmsn
-pa	Cc
-za	Sa
-pet	Mlc-pa
-odstotkov	Ncmpg
-.	Z
+token	tag	lemma
+Gazprom	mte:Npmsn	Gazprom
+ponuja	mte:Vmpr3s	ponujati
+plin	mte:Ncmsan	plin
+po	mte:Sl	po
+nižji	mte:Agcfsl	nizek
+ceni	mte:Ncfsl	cena
+Ruski	mte:Agpmsny	ruski
+energetski	mte:Agpmsny	energetski
+velikan	mte:Ncmsn	velikan
+Gazprom	mte:Npmsn	Gazprom
+je	mte:Va-r3s-n	biti
+Ukrajini	mte:Npfsd	Ukrajina
+ponudil	mte:Vmep-sm	ponuditi
+novo	mte:Agpfsa	nov
+,	mte:Z	,
+nekoliko	mte:Rgp	nekoliko
+nižjo	mte:Agcfsa	nizek
+ceno	mte:Ncfsa	cena
+za	mte:Sa	za
+plin	mte:Ncmsan	plin
+in	mte:Cc	in
+Kijev	mte:Npmsan	Kijev
+pozval	mte:Vmep-sm	pozvati
+k	mte:Sd	k
+nadaljevanju	mte:Ncnsd	nadaljevanje
+pogajanj	mte:Ncnpg	pogajanje
+o	mte:Sl	o
+odplačilu	mte:Ncnsl	odplačilo
+dolga	mte:Agpfsn	dolg
+.	mte:Z	.
+Ukrajini	mte:Npfsd	Ukrajina
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+dneh	mte:Ncmpl	dan
+plačala	mte:Vmep-sf	plačati
+del	mte:Ncmsan	del
+1,56	mte:Mdc	1,56
+milijarde	mte:Ncfsg	milijarda
+ameriških	mte:Agpmpg	ameriški
+dolarjev	mte:Ncmpg	dolar
+dolga	mte:Agpfsn	dolg
+za	mte:Sa	za
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+,	mte:Z	,
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+pa	mte:Cc	pa
+dolguje	mte:Vmpr3s	dolgovati
+600	mte:Mdc	600
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+zamudnih	mte:Agpfpg	zamuden
+obresti	mte:Ncfpg	obresti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zdaj	mte:Rgp	zdaj
+jabolko	mte:Ncnsa	jabolko
+spora	mte:Ncmsg	spor
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Gazprom	mte:Npmsn	Gazprom
+ponudil	mte:Vmep-sm	ponuditi
+plin	mte:Ncmsan	plin
+po	mte:Sa	po
+450	mte:Mdc	450
+dolarjev	mte:Ncmpg	dolar
+za	mte:Sa	za
+1.000	mte:Mdc	1.000
+kubičnih	mte:Agpmpg	kubičen
+metrov	mte:Ncmpg	meter
+namesto	mte:Sg	namesto
+tržne	mte:Agpfsg	tržen
+cene	mte:Ncfsg	cena
+500	mte:Mdc	500
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Ukrajina	mte:Npfsn	Ukrajina
+na	mte:Sa	na
+ponudbo	mte:Ncfsa	ponudba
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+odgovorila	mte:Vmep-sf	odgovoriti
+.	mte:Z	.
+Gazprom	mte:Npmsn	Gazprom
+Ukrajina	mte:Npfsn	Ukrajina
+krade	mte:Vmpr3s	krasti
+plin	mte:Ncmsan	plin
+Rusija	mte:Npfsn	Rusija
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+začetkom	mte:Ncmsi	začetek
+leta	mte:Ncnsg	leto
+prekinila	mte:Vmep-sf	prekiniti
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+Ukrajini	mte:Npfsd	Ukrajina
+,	mte:Z	,
+čez	mte:Sa	čez
+to	mte:Pd-fsa	ta
+državo	mte:Ncfsa	država
+pa	mte:Cc	pa
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+potuje	mte:Vmpr3s	potovati
+plin	mte:Ncmsn	plin
+,	mte:Z	,
+namenjen	mte:Appmsnn	namenjen
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+,	mte:Z	,
+od	mte:Sg	od
+koder	mte:Cs	koder
+poročajo	mte:Vmpr3p	poročati
+o	mte:Sl	o
+upadu	mte:Ncmsl	upad
+dobave	mte:Ncfsg	dobava
+plina	mte:Ncmsg	plin
+.	mte:Z	.
+Rusija	mte:Npfsn	Rusija
+zmanjšano	mte:Appfsa	zmanjšan
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+pripisuje	mte:Vmpr3s	pripisovati
+Ukrajini	mte:Npfsd	Ukrajina
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+kradla	mte:Vmpp-sf	krasti
+plin	mte:Ncmsan	plin
+,	mte:Z	,
+namenjen	mte:Appmsnn	namenjen
+evropskim	mte:Agpmpd	evropski
+porabnikom	mte:Ncmpd	porabnik
+.	mte:Z	.
+Namestnik	mte:Ncmsn	namestnik
+direktorja	mte:Ncmsg	direktor
+Gazproma	mte:Npmsg	Gazprom
+Aleksander	mte:Npmsn	Aleksander
+Medvedjev	mte:Npmsn	Medvedjev
+je	mte:Va-r3s-n	biti
+Ukrajino	mte:Npfsa	Ukrajina
+pozval	mte:Vmep-sm	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+se	mte:Px------y	se
+vzdrži	mte:Vmer3s	vzdržati
+teh	mte:Pd-npg	ta
+protizakonitih	mte:Agpnpg	protizakonit
+dejanj	mte:Ncnpg	dejanje
+in	mte:Cc	in
+se	mte:Px------y	se
+vrne	mte:Vmer3s	vrniti
+za	mte:Sa	za
+pogajalsko	mte:Agpfsa	pogajalski
+mizo	mte:Ncfsa	miza
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+dogovorili	mte:Vmep-pm	dogovoriti
+o	mte:Sl	o
+rešitvi	mte:Ncfsl	rešitev
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+sprejemljijva	mte:Ncfsn	sprejemljijev
+tako	mte:Rgp	tako
+za	mte:Sa	za
+rusko	mte:Agpnsa	ruski
+kot	mte:Cs	kot
+za	mte:Sa	za
+ukrajinsko	mte:Agpfsa	ukrajinski
+stran	mte:Ncfsa	stran
+.	mte:Z	.
+Tožba	mte:Ncfsn	tožba
+pred	mte:Si	pred
+arbitražnim	mte:Agpnsi	arbitražen
+sodiščem	mte:Ncnsi	sodišče
+Gazprom	mte:Npmsn	Gazprom
+je	mte:Va-r3s-n	biti
+proti	mte:Sd	proti
+ukrajinskemu	mte:Agpnsd	ukrajinski
+državnemu	mte:Agpnsd	državen
+plinskemu	mte:Agpnsd	plinski
+podjetju	mte:Ncnsd	podjetje
+Naftogaz	mte:Npmsn	Naftogaz
+vložil	mte:Vmep-sm	vložiti
+tožbo	mte:Ncfsa	tožba
+na	mte:Sl	na
+arbitražnem	mte:Agpnsl	arbitražen
+sodišču	mte:Ncnsl	sodišče
+v	mte:Sl	v
+Stockholmu	mte:Npmsl	Stockholm
+in	mte:Cc	in
+sodišče	mte:Ncnsa	sodišče
+zaprosil	mte:Vmep-sm	zaprositi
+,	mte:Z	,
+naj	mte:Cs	naj
+Naftogazu	mte:Npmsd	Naftogaz
+prepove	mte:Vmer3s	prepovati
+kakršna	mte:Pq-npa	kakršen
+koli	mte:Q	koli
+dejanja	mte:Ncnpa	dejanje
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+cilj	mte:Ncmsn	cilj
+je	mte:Va-r3s-n	biti
+zmanjšati	mte:Vmen	zmanjšati
+tranzit	mte:Ncmsan	tranzit
+ruskega	mte:Agpmsg	ruski
+plina	mte:Ncmsg	plin
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+.	mte:Z	.
+Ukrajina	mte:Npfsn	Ukrajina
+obtožbe	mte:Ncfsg	obtožba
+zanika	mte:Vmpr3s	zanikati
+in	mte:Cc	in
+trdi	mte:Vmpr3s	trditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Rusija	mte:Npfsn	Rusija
+sama	mte:Agpfsn	sam
+znižala	mte:Vmep-sf	znižati
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+evropskim	mte:Agpmsd	evropski
+odjemalcem	mte:Ncmpd	odjemalec
+.	mte:Z	.
+Gazprom	mte:Npmsn	Gazprom
+zagotavlja	mte:Vmpr3s	zagotavljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+plinovod	mte:Ncmsan	plinovod
+,	mte:Z	,
+ki	mte:Cs	ki
+poteka	mte:Vmpr3s	potekati
+čez	mte:Sa	čez
+Ukrajino	mte:Npfsa	Ukrajina
+,	mte:Z	,
+spustil	mte:Vmep-sm	spustiti
+dodatnih	mte:Agpmpg	dodaten
+326	mte:Mdc	326
+milijonov	mte:Ncmpg	milijon
+kubičnih	mte:Agpmpg	kubičen
+metrov	mte:Ncmpg	meter
+plina	mte:Ncmsg	plin
+.	mte:Z	.
+Spor	mte:Ncmsn	spor
+je	mte:Va-r3s-n	biti
+zelo	mte:Rgp	zelo
+podoben	mte:Agpmsnn	podoben
+tistemu	mte:Pd-nsd	tisti
+izpred	mte:Sg	izpred
+treh	mte:Mlcnpg	trije
+let	mte:Ncnpg	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Rusija	mte:Npfsn	Rusija
+tudi	mte:Q	tudi
+ustavila	mte:Vmep-sf	ustaviti
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+Ukrajini	mte:Npfsd	Ukrajina
+,	mte:Z	,
+posledično	mte:Rgp	posledično
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+prišlo	mte:Vmep-sn	priti
+manj	mte:Rgc	manj
+plina	mte:Ncmsg	plin
+.	mte:Z	.
+Spor	mte:Ncmsn	spor
+še	mte:Q	še
+dodatno	mte:Rgp	dodatno
+zapleta	mte:Vmpr3s	zaplesati
+razhajanje	mte:Ncnsa	razhajanje
+obeh	mte:Pg-fdg	oba
+strani	mte:Ncfdg	stran
+glede	mte:Sg	glede
+cene	mte:Ncfsg	cena
+plina	mte:Ncmsg	plin
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+.	mte:Z	.
+Iz	mte:Sg	iz
+nekaterih	mte:Pi-fpg	nekateri
+evropskih	mte:Agpfpg	evropski
+držav	mte:Ncfpg	država
+medtem	mte:Rgp	medtem
+poročajo	mte:Vmpr3p	poročati
+o	mte:Sl	o
+upadu	mte:Ncmsl	upad
+dobave	mte:Ncfsg	dobava
+plina	mte:Ncmsg	plin
+.	mte:Z	.
+V	mte:Sl	v
+Romuniji	mte:Npfsl	Romunija
+so	mte:Va-r3p-n	biti
+zabeležili	mte:Vmep-pm	zabeležiti
+30	mte:Mdc	30
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+padec	mte:Ncmsan	padec
+pritoka	mte:Ncmsg	pritok
+plina	mte:Ncmsg	plin
+,	mte:Z	,
+Bolgariji	mte:Npfsl	Bolgarija
+za	mte:Sa	za
+10	mte:Mdc	10
+do	mte:Sg	do
+15	mte:Mdc	15
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+Poljski	mte:Npmsn	poljski
+za	mte:Sa	za
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+Češki	mte:Npmsn	Češki
+pa	mte:Cc	pa
+za	mte:Sa	za
+pet	mte:Mlc-pa	pet
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Iz	mte:Sg	iz
+Nemčije	mte:Npfsg	Nemčija
+,	mte:Z	,
+Madžarske	mte:Npfsg	Madžarska
+in	mte:Cc	in
+Hrvaške	mte:Npfsg	Hrvaška
+poročajo	mte:Vmpr3p	poročati
+o	mte:Sl	o
+nezmanjšani	mte:Agpfsl	nezmanjšan
+dobavi	mte:Ncfsl	dobava

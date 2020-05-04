@@ -1,278 +1,319 @@
-token	tag
-Če	Cs
-se	Px------y
-bomo	Va-f1p-n
-ustavili	Vmep-pm
-pred	Sa
-blokado	Ncfsa
-obojestranskih	Agpmpg
-vetov	Ncmpg
-,	Z
-se	Px------y
-ne	Q
-bo	Va-f3s-n
-šlo	Vmbp-sn
-naprej	Rgp
-,	Z
-glede	Sg
-spora	Ncmsg
-med	Si
-Slovenijo	Npfsi
-in	Cc
-Hrvaško	Npfsi
-meni	Vmpr3s
-italijanski	Agpmsny
-minister	Ncmsn
-Franco	Npmsn
-Frattini	Npmsn
-.	Z
-Franco	Npmsn
-Frattini	Npmsn
-meni	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-morala	Vmpp-sm
-problem	Ncmsan
-Slovensko	Agpnsn
--	Z
-hrvaškega	Agpmsg
-spora	Ncmsg
-rešiti	Vmen
-Evropska	Agpfsn
-komisija	Ncfsn
-.	Z
-Italijanski	Agpmsny
-minister	Ncmsn
-Franco	Npmsn
-Frattini	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-s	Si
-svojo	Px-fsi
-četrtkovo	Aspfsi
-izjavo	Ncfsi
-,	Z
-da	Cs
-bi	Va-c
-morala	Vmpp-sf
-biti	Va-n
-Slovenija	Npfsn
-v	Sl
-odnosih	Ncmpl
-s	Si
-Hrvaško	Npfsi
-prožnejša	Agcfsn
-,	Z
-je	Va-r3s-n
-ocenil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-mogoče	Agpnsn
-slovensko	Agpfsa
-blokado	Ncfsa
-hrvaških	Agpnpg
-pogajanj	Ncnpg
-z	Si
-EU	Npfsi
-rešiti	Vmen
-tako	Rgp
-,	Z
-da	Cs
-naredi	Vmer3s
-Hrvaška	Agpfsn
-korak	Ncmsn
-naprej	Rgp
-glede	Sg
-sporne	Agpfsg
-pristopne	Agpfsg
-dokumentacije	Ncfsg
-.	Z
-"	Z
-Najbolje	Rgs
-bi	Va-c
-bilo	Va-p-sn
-,	Z
-če	Cs
-bi	Va-c
-bila	Va-p-sf
-sporna	Agpfsn
-dokumentacija	Ncfsn
-umaknjena	Appfsn
-"	Z
-"	Z
-Menim	Vmpr1s
-,	Z
-da	Cs
-Hrvaška	Npfsn
-lahko	Rgp
-naredi	Vmer3s
-tisti	Pd-msa
-korak	Ncmsan
-naprej	Rgp
-,	Z
-ki	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-zamišljen	Appmsnn
-glede	Sg
-dokumentov	Ncmpg
-,	Z
-ki	Cs
-po	Sl
-mnenju	Ncnsl
-Slovenije	Npfsg
-prejudicirajo	Vmpr3p
-izid	Ncmsan
-pogajanj	Ncnpg
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Frattini	Npmsn
-.	Z
-"	Z
-Če	Cs
-bi	Va-c
-bila	Va-p-sf
-ta	Pd-fsn
-dokumentacija	Ncfsn
-umaknjena	Appfsn
-,	Z
-bi	Va-c
-bilo	Va-p-sn
-še	Q
-bolje	Rgc
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-dodal	Vmep-sm
-.	Z
-Obenem	Rgp
-je	Va-r3s-n
-italijanski	Agpmsny
-minister	Ncmsn
-ob	Sl
-robu	Ncmsl
-zasedanja	Ncnsg
-zunanjih	Agpmpg
-ministrov	Ncmpg
-G8	Npfsg
-v	Sl
-Trstu	Npmsl
-v	Sa
-soboto	Ncfsa
-zvečer	Rgp
-tudi	Q
-menil	Vmpp-sm
-,	Z
-da	Cs
-bi	Va-c
-morala	Vmpp-sf
-,	Z
-ko	Cs
-ima	Vmpr3s-n
-neko	Pi-nsn
-vprašanje	Ncnsa
-tako	Rgp
-velik	Agpmsan
-pomen	Ncmsan
-,	Z
-ta	Pd-msa
-problem	Ncmsan
-rešiti	Vmen
-Evropska	Agpfsn
-komisija	Ncfsn
-.	Z
-"	Z
-Če	Cs
-se	Px------y
-bomo	Va-f1p-n
-ustavili	Vmep-pm
-pred	Sa
-blokado	Ncfsa
-obojestranskih	Agpmpg
-vetov	Ncmpg
-,	Z
-se	Px------y
-ne	Q
-bo	Va-f3s-n
-šlo	Vmbp-sn
-naprej	Rgp
-,	Z
-"	Z
-je	Va-r3s-n
-opozoril	Vmep-sm
-.	Z
-"	Z
-Dozorel	Vmep-sm
-je	Va-r3s-n
-čas	Ncmsn
-za	Sa
-ponovni	Agpmsay
-zagon	Ncmsan
-pristopnih	Agpnpg
-pogajanj	Ncnpg
-Hrvaške	Npfsg
-"	Z
-Podobno	Agpfsa
-izjavo	Ncfsa
-je	Va-r3s-n
-dal	Vmep-sm
-Frattini	Npmsn
-v	Sa
-soboto	Ncfsa
-v	Sl
-Trstu	Npmsl
-tudi	Q
-za	Sa
-hrvaški	Agpmsay
-časnik	Ncmsan
-Večernji	Agpmsny
-list	Ncmsan
-,	Z
-v	Sl
-pogovoru	Ncmsl
-za	Sa
-katerega	Pq-msa
-pa	Cc
-je	Va-r3s-n
-poleg	Sg
-tega	Pd-nsg
-še	Q
-ocenil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-dozorel	Vmep-sm
-čas	Ncmsn
-za	Sa
-ponoven	Agpmsan
-zagon	Ncmsan
-pristopnih	Agpnpg
-pogajanj	Ncnpg
-Hrvaške	Npfsg
-z	Sg
-EU	Npfsg
-,	Z
-ter	Cc
-izrazil	Vmep-sm
-željo	Ncfsa
-,	Z
-da	Cs
-tudi	Q
-Slovenija	Npfsn
-sprejme	Vmer3s
-predlog	Ncmsan
-Evropske	Agpfsg
-komisije	Ncfsg
-,	Z
-saj	Cc
-gre	Vmbr3s
-za	Sa
-uravnotežen	Appmsan
-predlog	Ncmsan
-.	Z
+token	tag	lemma
+Če	mte:Cs	če
+se	mte:Px------y	se
+bomo	mte:Va-f1p-n	biti
+ustavili	mte:Vmep-pm	ustaviti
+pred	mte:Sa	pred
+blokado	mte:Ncfsa	blokada
+obojestranskih	mte:Agpmpg	obojestranski
+vetov	mte:Ncmpg	vet
+,	mte:Z	,
+se	mte:Px------y	se
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+šlo	mte:Vmbp-sn	iti
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+glede	mte:Sg	glede
+spora	mte:Ncmsg	spor
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Hrvaško	mte:Npfsi	Hrvaška
+meni	mte:Vmpr3s	meniti
+italijanski	mte:Agpmsny	italijanski
+minister	mte:Ncmsn	minister
+Franco	mte:Npmsn	Franco
+Frattini	mte:Npmsn	Frattina
+.	mte:Z	.
+Franco	mte:Npmsn	Franco
+Frattini	mte:Npmsn	Frattina
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sm	morati
+problem	mte:Ncmsan	problem
+Slovensko	mte:Agpnsn	slovenski
+-	mte:Z	-
+hrvaškega	mte:Agpmsg	hrvaški
+spora	mte:Ncmsg	spor
+rešiti	mte:Vmen	rešiti
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+.	mte:Z	.
+Italijanski	mte:Agpmsny	italijanski
+minister	mte:Ncmsn	minister
+Franco	mte:Npmsn	Franco
+Frattini	mte:Npmsn	Frattina
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+svojo	mte:Px-fsi	svoj
+četrtkovo	mte:Aspfsi	četrtkov
+izjavo	mte:Ncfsi	izjava
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sf	morati
+biti	mte:Va-n	biti
+Slovenija	mte:Npfsn	Slovenija
+v	mte:Sl	v
+odnosih	mte:Ncmpl	odnos
+s	mte:Si	z
+Hrvaško	mte:Npfsi	Hrvaška
+prožnejša	mte:Agcfsn	prožen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+slovensko	mte:Agpfsa	slovenski
+blokado	mte:Ncfsa	blokada
+hrvaških	mte:Agpnpg	hrvaški
+pogajanj	mte:Ncnpg	pogajanje
+z	mte:Si	z
+EU	mte:Npfsi	EU
+rešiti	mte:Vmen	rešiti
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+naredi	mte:Vmer3s	narediti
+Hrvaška	mte:Agpfsn	hrvaški
+korak	mte:Ncmsn	korak
+naprej	mte:Rgp	naprej
+glede	mte:Sg	glede
+sporne	mte:Agpfsg	sporen
+pristopne	mte:Agpfsg	pristopen
+dokumentacije	mte:Ncfsg	dokumentacija
+.	mte:Z	.
+"	mte:Z	"
+Najbolje	mte:Rgs	dobro
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+sporna	mte:Agpfsn	sporen
+dokumentacija	mte:Ncfsn	dokumentacija
+umaknjena	mte:Appfsn	umaknjen
+"	mte:Z	"
+"	mte:Z	"
+Menim	mte:Vmpr1s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+Hrvaška	mte:Npfsn	hrvaški
+lahko	mte:Rgp	lahko
+naredi	mte:Vmer3s	narediti
+tisti	mte:Pd-msa	tisti
+korak	mte:Ncmsan	korak
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+zamišljen	mte:Appmsnn	zamišljen
+glede	mte:Sg	glede
+dokumentov	mte:Ncmpg	dokument
+,	mte:Z	,
+ki	mte:Cs	ki
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+Slovenije	mte:Npfsg	Slovenija
+prejudicirajo	mte:Vmpr3p	prejudicirati
+izid	mte:Ncmsan	izid
+pogajanj	mte:Ncnpg	pogajanje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Frattini	mte:Npmsn	Frattina
+.	mte:Z	.
+"	mte:Z	"
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+ta	mte:Pd-fsn	ta
+dokumentacija	mte:Ncfsn	dokumentacija
+umaknjena	mte:Appfsn	umaknjen
+,	mte:Z	,
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+še	mte:Q	še
+bolje	mte:Rgc	dobro
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dodal	mte:Vmep-sm	dodati
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+je	mte:Va-r3s-n	biti
+italijanski	mte:Agpmsny	italijanski
+minister	mte:Ncmsn	minister
+ob	mte:Sl	ob
+robu	mte:Ncmsl	rob
+zasedanja	mte:Ncnsg	zasedanje
+zunanjih	mte:Agpmpg	zunanji
+ministrov	mte:Ncmpg	minister
+G8	mte:Npfsg	G8
+v	mte:Sl	v
+Trstu	mte:Npmsl	Trst
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+zvečer	mte:Rgp	zvečer
+tudi	mte:Q	tudi
+menil	mte:Vmpp-sm	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sf	morati
+,	mte:Z	,
+ko	mte:Cs	ko
+ima	mte:Vmpr3s-n	imeti
+neko	mte:Pi-nsn	nek
+vprašanje	mte:Ncnsa	vprašanje
+tako	mte:Rgp	tako
+velik	mte:Agpmsan	velik
+pomen	mte:Ncmsan	pomen
+,	mte:Z	,
+ta	mte:Pd-msa	ta
+problem	mte:Ncmsan	problem
+rešiti	mte:Vmen	rešiti
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+.	mte:Z	.
+"	mte:Z	"
+Če	mte:Cs	če
+se	mte:Px------y	se
+bomo	mte:Va-f1p-n	biti
+ustavili	mte:Vmep-pm	ustaviti
+pred	mte:Sa	pred
+blokado	mte:Ncfsa	blokada
+obojestranskih	mte:Agpmpg	obojestranski
+vetov	mte:Ncmpg	vet
+,	mte:Z	,
+se	mte:Px------y	se
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+šlo	mte:Vmbp-sn	iti
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+.	mte:Z	.
+"	mte:Z	"
+Dozorel	mte:Vmep-sm	dozoreti
+je	mte:Va-r3s-n	biti
+čas	mte:Ncmsn	čas
+za	mte:Sa	za
+ponovni	mte:Agpmsay	ponoven
+zagon	mte:Ncmsan	zagon
+pristopnih	mte:Agpnpg	pristopen
+pogajanj	mte:Ncnpg	pogajanje
+Hrvaške	mte:Npfsg	Hrvaška
+"	mte:Z	"
+Podobno	mte:Agpfsa	podoben
+izjavo	mte:Ncfsa	izjava
+je	mte:Va-r3s-n	biti
+dal	mte:Vmep-sm	dati
+Frattini	mte:Npmsn	Frattina
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+v	mte:Sl	v
+Trstu	mte:Npmsl	Trst
+tudi	mte:Q	tudi
+za	mte:Sa	za
+hrvaški	mte:Agpmsay	hrvaški
+časnik	mte:Ncmsan	časnik
+Večernji	mte:Agpmsny	večernji
+list	mte:Ncmsan	list
+,	mte:Z	,
+v	mte:Sl	v
+pogovoru	mte:Ncmsl	pogovor
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+še	mte:Q	še
+ocenil	mte:Vmep-sm	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+dozorel	mte:Vmep-sm	dozoreti
+čas	mte:Ncmsn	čas
+za	mte:Sa	za
+ponoven	mte:Agpmsan	ponoven
+zagon	mte:Ncmsan	zagon
+pristopnih	mte:Agpnpg	pristopen
+pogajanj	mte:Ncnpg	pogajanje
+Hrvaške	mte:Npfsg	Hrvaška
+z	mte:Sg	z
+EU	mte:Npfsg	EU
+,	mte:Z	,
+ter	mte:Cc	ter
+izrazil	mte:Vmep-sm	izraziti
+željo	mte:Ncfsa	želja
+,	mte:Z	,
+da	mte:Cs	da
+tudi	mte:Q	tudi
+Slovenija	mte:Npfsn	Slovenija
+sprejme	mte:Vmer3s	sprejeti
+predlog	mte:Ncmsan	predlog
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+,	mte:Z	,
+saj	mte:Cc	saj
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+uravnotežen	mte:Appmsan	uravnotežen
+predlog	mte:Ncmsan	predlog
+.	mte:Z	.
+"	mte:Z	"
+Mi	mte:Pp1-sd--y	jaz
+stojimo	mte:Vmpr1p	stati
+na	mte:Sl	na
+stališču	mte:Ncnsl	stališče
+Evrope	mte:Npfsg	Evropa
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+očitke	mte:Ncmpa	očitek
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+sporu	mte:Ncmsl	spor
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Hrvaško	mte:Npfsi	Hrvaška
+postavil	mte:Vmep-sm	postaviti
+na	mte:Sa	na
+stran	mte:Ncfsa	stran
+slednje	mte:Agpnsa	slednji
+,	mte:Z	,
+še	mte:Q	še
+odgovoril	mte:Vmep-sm	odgovoriti
+Frattini	mte:Npmsn	Frattina
+in	mte:Cc	in
+ocenil	mte:Vmep-sm	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+objektivno	mte:Rgp	objektivno
+obstajajo	mte:Vmpr3p	obstajati
+pogoji	mte:Ncmpn	pogoj
+za	mte:Sa	za
+sprejetje	mte:Ncnsa	sprejetje
+predloga	mte:Ncmsg	predlog
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija

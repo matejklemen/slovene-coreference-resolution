@@ -1,368 +1,395 @@
-token	tag
-V	Sl
-Sloveniji	Npfsl
-se	Px------y
-je	Va-r3s-n
-cena	Ncfsn
-elektrike	Ncfsg
-v	Sl
-drugem	Mlpnsl
-polletju	Ncnsl
-lani	Rgp
-glede	Rgp
-na	Sa
-enako	Pi-nsa
-obdobje	Ncnsa
-leta	Ncnsg
-2011	Mdc
-zvišala	Vmep-sf
-za	Sa
-3,4	Mdc
-odstotka	Ncmsg
-,	Z
-cena	Ncfsn
-plina	Ncmsg
-pa	Cc
-znižala	Vmep-sf
-za	Sa
-7,8	Mdc
-odstotka	Ncmsg
-.	Z
-Le	Q
-pri	Sl
-nas	Pp1-pl
-se	Px------y
-je	Va-r3s-n
-na	Sl
-ravni	Ncfsl
-EU	Npfsg
-cena	Ncfsn
-plina	Ncmsg
-znižala	Vmep-sf
-.	Z
-Cene	Ncfsg
-električne	Agpfsg
-energije	Ncfsg
-in	Cc
-plina	Ncmsg
-za	Sa
-gospodinjstva	Ncnpa
-v	Sl
-EU	Npfsl
-so	Va-r3p-n
-se	Px------y
-drugem	Mlpnsl
-polletju	Ncnsl
-lani	Rgp
-glede	Rgp
-na	Sa
-enako	Pi-nsa
-obdobje	Ncnsa
-leta	Ncnsg
-2011	Mdc
-zvišale	Vmep-pf
-.	Z
-Po	Sl
-podatkih	Ncmpl
-evropskega	Agpmsg
-statističnega	Agpmsg
-urada	Ncmsg
-Eurostat	Npmsn
-se	Px------y
-je	Va-r3s-n
-elektrika	Ncfsn
-podražila	Vmep-sf
-za	Sa
-6,6	Mdc
-odstotka	Ncmsg
-,	Z
-plin	Ncmsn
-pa	Cc
-za	Sa
-10,3	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-Sloveniji	Npfsl
-se	Px------y
-je	Va-r3s-n
-cena	Ncfsn
-elektrike	Ncfsg
-zvišala	Vmep-sf
-za	Sa
-3,4	Mdc
-odstotka	Ncmsg
-,	Z
-cena	Ncfsn
-plina	Ncmsg
-pa	Cc
-znižala	Vmep-sf
-za	Sa
-7,8	Mdc
-odstotka	Ncmsg
-.	Z
-Elektrika	Npfsn
-se	Px------y
-je	Va-r3s-n
-najbolj	Rgs
-podražila	Vmep-sf
-na	Sl
-Cipru	Npfsl
-V	Sl
-zadnjih	Agpmpl
-šestih	Mlc-pl
-mesecih	Ncmpl
-lani	Rgp
-so	Va-r3p-n
-največjo	Agsfsa
-rast	Ncfsa
-cen	Ncfpg
-električne	Agpfsg
-energije	Ncfsg
-v	Sl
-nacionalnih	Agpfpl
-valutah	Ncfpl
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-imeli	Vmpp-pm
-Ciper	Npmsan
-+	Ncmsn
-20,6	Mdc
-odstotka	Ncmsg
-,	Z
-Grčija	Npfsn
-+	Z
-14,5	Mdc
-odstotka	Ncmsg
-,	Z
-Italija	Npfsn
-+	Z
-11,2	Mdc
-odstotka	Ncmsg
-ter	Cc
-Irska	Npfsn
-in	Cc
-Portugalska	Npfsn
-v	Sl
-obeh	Pg-fdl
-državah	Ncfdl
-+	Ncmsn
-9,7	Mdc
-odstotka	Ncmsg
-.	Z
-Največji	Agsmsay
-padec	Ncmsan
-so	Va-r3p-n
-imele	Vmpp-pf
-Švedska	Npfsn
-4,7	Mdc
-odstotka	Ncmsg
-,	Z
-Madžarska	Npfsn
-1,9	Mdc
-odstotka	Ncmsg
-in	Cc
-Finska	Npfsn
-0,9	Mdc
-odstotka	Ncmsg
-.	Z
-Izraženo	Appnsn
-v	Sl
-evrih	Ncmpl
-je	Va-r3s-n
-bila	Va-p-sf
-povprečna	Agpfsn
-cena	Ncfsn
-elektrike	Ncfsg
-za	Sa
-gospodinjstva	Ncnpa
-najnižja	Agsfsn
-v	Sl
-Bolgariji	Npfsl
-9,60	Mdc
-evra	Ncmsg
-za	Sa
-100	Mdc
-kilovatnih	Agpfpg
-ur	Ncfpg
-,	Z
-Romuniji	Npfsl
-10,8	Mdc
-evra	Ncmsg
-,	Z
-Estoniji	Npfsd
-11,2	Mdc
-evra	Ncmsg
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-najvišjo	Rgs
-imele	Vmpp-pf
-Danska	Npfsn
-29,7	Mdc
-evra	Ncmsg
-,	Z
-Nemčija	Npfsn
-26,8	Mdc
-evra	Ncmsg
-in	Cc
-Italija	Npfsn
-23	Mdc
-evrov	Ncmpg
-.	Z
-Povprečna	Agpfsn
-cena	Ncfsn
-električne	Agpfsg
-energije	Ncfsg
-v	Sl
-sedemindvajseterici	Mlofsl
-je	Va-r3s-n
-bila	Va-p-sf
-sicer	Q
-19,7	Mdc
-evra	Ncmsg
-za	Sa
-100	Mdc
-kilovatnih	Agpfpg
-ur	Ncfpg
-,	Z
-povprečna	Agpfsn
-cena	Ncfsn
-v	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-dosegla	Vmep-sf
-15,4	Mdc
-evra	Ncmsg
-.	Z
-Samo	Q
-pri	Sl
-nas	Pp1-pl
-se	Px------y
-je	Va-r3s-n
-cena	Ncfsn
-plina	Ncmsg
-znižala	Vmep-sf
-Med	Si
-drugim	Mlpnsi
-polletjem	Ncnsi
-lani	Rgp
-in	Cc
-zadnjimi	Agpmpi
-šestimi	Mlc-pi
-meseci	Ncmpi
-2011	Mdc
-so	Va-r3p-n
-najvišjo	Agsfsa
-rast	Ncfsa
-cene	Ncfsg
-plina	Ncmsg
-v	Sl
-nacionalnih	Agpfpl
-valutah	Ncfpl
-imele	Vmpp-pf
-Latvija	Npfsn
-+	Ncmsn
-21,1	Mdc
-odstotka	Ncmsg
-,	Z
-Estonija	Npfsn
-+	Z
-18,5	Mdc
-odstotka	Ncmsg
-in	Cc
-Bolgarija	Npfsn
-+	Z
-17,8	Mdc
-odstotka	Ncmsg
-.	Z
-Edini	Agpmsay
-padec	Ncmsan
-smo	Va-r1p-n
-zaznali	Vmep-pm
-v	Sl
-Sloveniji	Npfsl
-,	Z
-cena	Ncfsn
-plina	Ncmsg
-se	Px------y
-je	Va-r3s-n
-pri	Sl
-nas	Pp1-pl
-znižala	Vmep-sf
-za	Sa
-7,8	Mdc
-odstotka	Ncmsg
-.	Z
-Izraženo	Appnsn
-v	Sl
-evrih	Ncmpl
-pa	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-povprečna	Agpfsn
-cena	Ncfsn
-plina	Ncmsg
-najnižja	Agsfsn
-v	Sl
-Romuniji	Npfsl
-2,7	Mdc
-evra	Ncmsg
-za	Sa
-100	Mdc
-kilovatnih	Agpfpg
-ur	Ncfpg
-,	Z
-na	Sl
-Slovaškem	Npnsl
-5,1	Mdc
-evra	Ncmsg
-in	Cc
-v	Sl
-Estoniji	Npfsl
-5,2	Mdc
-evra	Ncmsg
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-najvišjo	Agsfsa
-ceno	Ncfsa
-imele	Vmpp-pf
-Švedska	Npfsn
-12,7	Mdc
-evra	Ncmsg
-,	Z
-Danska	Npfsn
-10,8	Mdc
-evra	Ncmsg
-in	Cc
-Grčija	Npfsn
-10,2	Mdc
-evra	Ncmsg
-.	Z
-Povprečna	Agpfsn
-cena	Ncfsn
-plina	Ncmsg
-v	Sl
-sedemindvajseterici	Mlofsl
-je	Va-r3s-n
-bila	Va-p-sf
-7,2	Mdc
-evra	Ncmsg
-za	Sa
-100	Mdc
-kilovatnih	Agpfpg
-ur	Ncfpg
-.	Z
-Povprečna	Agpfsn
-cena	Ncfsn
-v	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-dosegla	Vmep-sf
-7,3	Mdc
-evra	Ncmsg
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+cena	mte:Ncfsn	cena
+elektrike	mte:Ncfsg	elektrika
+v	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+polletju	mte:Ncnsl	polletje
+lani	mte:Rgp	lani
+glede	mte:Rgp	glede
+na	mte:Sa	na
+enako	mte:Pi-nsa	enak
+obdobje	mte:Ncnsa	obdobje
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+zvišala	mte:Vmep-sf	zvišati
+za	mte:Sa	za
+3,4	mte:Mdc	3,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+cena	mte:Ncfsn	cena
+plina	mte:Ncmsg	plin
+pa	mte:Cc	pa
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+7,8	mte:Mdc	7,8
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Le	mte:Q	le
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+EU	mte:Npfsg	EU
+cena	mte:Ncfsn	cena
+plina	mte:Ncmsg	plin
+znižala	mte:Vmep-sf	znižati
+.	mte:Z	.
+Cene	mte:Ncfsg	cena
+električne	mte:Agpfsg	električen
+energije	mte:Ncfsg	energija
+in	mte:Cc	in
+plina	mte:Ncmsg	plin
+za	mte:Sa	za
+gospodinjstva	mte:Ncnpa	gospodinjstvo
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+drugem	mte:Mlpnsl	drug
+polletju	mte:Ncnsl	polletje
+lani	mte:Rgp	lani
+glede	mte:Rgp	glede
+na	mte:Sa	na
+enako	mte:Pi-nsa	enak
+obdobje	mte:Ncnsa	obdobje
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+zvišale	mte:Vmep-pf	zvišati
+.	mte:Z	.
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+evropskega	mte:Agpmsg	evropski
+statističnega	mte:Agpmsg	statističen
+urada	mte:Ncmsg	urad
+Eurostat	mte:Npmsn	Eurostat
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+elektrika	mte:Ncfsn	elektrika
+podražila	mte:Vmep-sf	podražiti
+za	mte:Sa	za
+6,6	mte:Mdc	6,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+plin	mte:Ncmsn	plin
+pa	mte:Cc	pa
+za	mte:Sa	za
+10,3	mte:Mdc	10,3
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+cena	mte:Ncfsn	cena
+elektrike	mte:Ncfsg	elektrika
+zvišala	mte:Vmep-sf	zvišati
+za	mte:Sa	za
+3,4	mte:Mdc	3,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+cena	mte:Ncfsn	cena
+plina	mte:Ncmsg	plin
+pa	mte:Cc	pa
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+7,8	mte:Mdc	7,8
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Elektrika	mte:Npfsn	Elektrik
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+najbolj	mte:Rgs	najbolj
+podražila	mte:Vmep-sf	podražiti
+na	mte:Sl	na
+Cipru	mte:Npfsl	Cipro
+V	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+šestih	mte:Mlc-pl	šest
+mesecih	mte:Ncmpl	mesec
+lani	mte:Rgp	lani
+so	mte:Va-r3p-n	biti
+največjo	mte:Agsfsa	velik
+rast	mte:Ncfsa	rast
+cen	mte:Ncfpg	cena
+električne	mte:Agpfsg	električen
+energije	mte:Ncfsg	energija
+v	mte:Sl	v
+nacionalnih	mte:Agpfpl	nacionalen
+valutah	mte:Ncfpl	valuta
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+imeli	mte:Vmpp-pm	imeti
+Ciper	mte:Npmsan	Ciper
++	mte:Ncmsn	+
+20,6	mte:Mdc	20,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Grčija	mte:Npfsn	Grčija
++	mte:Z	+
+14,5	mte:Mdc	14,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Italija	mte:Npfsn	Italija
++	mte:Z	+
+11,2	mte:Mdc	11,2
+odstotka	mte:Ncmsg	odstotek
+ter	mte:Cc	ter
+Irska	mte:Npfsn	Irska
+in	mte:Cc	in
+Portugalska	mte:Npfsn	Portugalska
+v	mte:Sl	v
+obeh	mte:Pg-fdl	oba
+državah	mte:Ncfdl	država
++	mte:Ncmsn	+
+9,7	mte:Mdc	9,7
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Največji	mte:Agsmsay	velik
+padec	mte:Ncmsan	padec
+so	mte:Va-r3p-n	biti
+imele	mte:Vmpp-pf	imeti
+Švedska	mte:Npfsn	Švedska
+4,7	mte:Mdc	4,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Madžarska	mte:Npfsn	Madžarska
+1,9	mte:Mdc	1,9
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Finska	mte:Npfsn	Finska
+0,9	mte:Mdc	0,9
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Izraženo	mte:Appnsn	izražen
+v	mte:Sl	v
+evrih	mte:Ncmpl	evro
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+elektrike	mte:Ncfsg	elektrika
+za	mte:Sa	za
+gospodinjstva	mte:Ncnpa	gospodinjstvo
+najnižja	mte:Agsfsn	nizek
+v	mte:Sl	v
+Bolgariji	mte:Npfsl	Bolgarija
+9,60	mte:Mdc	9,60
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+100	mte:Mdc	100
+kilovatnih	mte:Agpfpg	kilovaten
+ur	mte:Ncfpg	ura
+,	mte:Z	,
+Romuniji	mte:Npfsl	Romunija
+10,8	mte:Mdc	10,8
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+Estoniji	mte:Npfsd	Estonija
+11,2	mte:Mdc	11,2
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+najvišjo	mte:Rgs	visok
+imele	mte:Vmpp-pf	imeti
+Danska	mte:Npfsn	Danska
+29,7	mte:Mdc	29,7
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+26,8	mte:Mdc	26,8
+evra	mte:Ncmsg	evro
+in	mte:Cc	in
+Italija	mte:Npfsn	Italija
+23	mte:Mdc	23
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+električne	mte:Agpfsg	električen
+energije	mte:Ncfsg	energija
+v	mte:Sl	v
+sedemindvajseterici	mte:Mlofsl	sedemindvajseterici
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+sicer	mte:Q	sicer
+19,7	mte:Mdc	19,7
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+100	mte:Mdc	100
+kilovatnih	mte:Agpfpg	kilovaten
+ur	mte:Ncfpg	ura
+,	mte:Z	,
+povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+dosegla	mte:Vmep-sf	doseči
+15,4	mte:Mdc	15,4
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Samo	mte:Q	samo
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+cena	mte:Ncfsn	cena
+plina	mte:Ncmsg	plin
+znižala	mte:Vmep-sf	znižati
+Med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+polletjem	mte:Ncnsi	polletje
+lani	mte:Rgp	lani
+in	mte:Cc	in
+zadnjimi	mte:Agpmpi	zadnji
+šestimi	mte:Mlc-pi	šest
+meseci	mte:Ncmpi	mesec
+2011	mte:Mdc	2011
+so	mte:Va-r3p-n	biti
+najvišjo	mte:Agsfsa	visok
+rast	mte:Ncfsa	rast
+cene	mte:Ncfsg	cena
+plina	mte:Ncmsg	plin
+v	mte:Sl	v
+nacionalnih	mte:Agpfpl	nacionalen
+valutah	mte:Ncfpl	valuta
+imele	mte:Vmpp-pf	imeti
+Latvija	mte:Npfsn	Latvija
++	mte:Ncmsn	+
+21,1	mte:Mdc	21,1
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Estonija	mte:Npfsn	Estonija
++	mte:Z	+
+18,5	mte:Mdc	18,5
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Bolgarija	mte:Npfsn	Bolgarija
++	mte:Z	+
+17,8	mte:Mdc	17,8
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Edini	mte:Agpmsay	edin
+padec	mte:Ncmsan	padec
+smo	mte:Va-r1p-n	biti
+zaznali	mte:Vmep-pm	zaznati
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+cena	mte:Ncfsn	cena
+plina	mte:Ncmsg	plin
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+7,8	mte:Mdc	7,8
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Izraženo	mte:Appnsn	izražen
+v	mte:Sl	v
+evrih	mte:Ncmpl	evro
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+plina	mte:Ncmsg	plin
+najnižja	mte:Agsfsn	nizek
+v	mte:Sl	v
+Romuniji	mte:Npfsl	Romunija
+2,7	mte:Mdc	2,7
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+100	mte:Mdc	100
+kilovatnih	mte:Agpfpg	kilovaten
+ur	mte:Ncfpg	ura
+,	mte:Z	,
+na	mte:Sl	na
+Slovaškem	mte:Npnsl	Slovaško
+5,1	mte:Mdc	5,1
+evra	mte:Ncmsg	evro
+in	mte:Cc	in
+v	mte:Sl	v
+Estoniji	mte:Npfsl	Estonija
+5,2	mte:Mdc	5,2
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+najvišjo	mte:Agsfsa	visok
+ceno	mte:Ncfsa	cena
+imele	mte:Vmpp-pf	imeti
+Švedska	mte:Npfsn	Švedska
+12,7	mte:Mdc	12,7
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+Danska	mte:Npfsn	Danska
+10,8	mte:Mdc	10,8
+evra	mte:Ncmsg	evro
+in	mte:Cc	in
+Grčija	mte:Npfsn	Grčija
+10,2	mte:Mdc	10,2
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+plina	mte:Ncmsg	plin
+v	mte:Sl	v
+sedemindvajseterici	mte:Mlofsl	sedemindvajseterici
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+7,2	mte:Mdc	7,2
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+100	mte:Mdc	100
+kilovatnih	mte:Agpfpg	kilovaten
+ur	mte:Ncfpg	ura
+.	mte:Z	.
+Povprečna	mte:Agpfsn	povprečen
+cena	mte:Ncfsn	cena
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+dosegla	mte:Vmep-sf	doseči
+7,3	mte:Mdc	7,3
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+V	mte:Sl	v
+drugi	mte:Mlpfsl	drug
+polovici	mte:Ncfsl	polovica
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+cene	mte:Ncfpn	cena
+električne	mte:Agpfsg	električen
+energije	mte:Ncfsg	energija
+v	mte:Sl	v
+članicah	mte:Ncfpl	članica
+EU	mte:Npfsg	EU
+v	mte:Sl	v
+letni	mte:Agpfsl	leten
+primerjavi	mte:Ncfsl	primerjava
+zvišale	mte:Vmep-pf	zvišati
+za	mte:Sa	za
+6,3	mte:Mdc	6,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+cene	mte:Ncfsg	cena
+plina	mte:Ncmsg	plin
+pa	mte:Cc	pa
+za	mte:Sa	za
+12,6	mte:Mdc	12,6
+odstotka	mte:Ncmsg	odstotek

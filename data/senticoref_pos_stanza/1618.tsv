@@ -1,732 +1,741 @@
-token	tag
-Agrokor	Ncmsn
-naj	Q
-bi	Va-c
-se	Px------y
-nakupa	Ncmsg
-večinskega	Agpmsg
-lastniškega	Agpmsg
-deleža	Ncmsg
-Mercatorja	Npmsg
-od	Sg
-konzorcija	Ncmsg
-prodajalcev	Ncmpg
-lotil	Vmep-sm
-brez	Sg
-enega	Mlpmsg
-samega	Agpmsg
-evra	Ncmsg
-kapitala	Ncmsg
-in	Cc
-zaradi	Sg
-visoke	Agpfsg
-zadolženosti	Ncfsg
-tudi	Q
-z	Si
-zelo	Rgp
-omejenimi	Appfpi
-možnostmi	Ncfpi
-dodatnega	Agpnsg
-zadolževanja	Ncnsg
-.	Z
-Dokumenti	Ncmpi
-italijanske	Agpfsg
-banke	Ncfsg
-Unicredit	Npmsn
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-pridobili	Vmep-pm
-na	Sl
-časniku	Ncmsl
-Dnevnik	Ncmsn
-,	Z
-naj	Q
-bi	Va-c
-dokazovali	Vmpp-pm
-,	Z
-da	Cs
-maksimalni	Agpmsay
-znesek	Ncmsan
-,	Z
-za	Sa
-katerega	Pq-msa
-se	Px------y
-lahko	Rgp
-zadolži	Vmer3s
-Agrokor	Npmsn
-,	Z
-ne	Q
-da	Cs
-bi	Va-c
-pri	Sl
-tem	Pd-nsl
-kršil	Vmbp-sm
-zaveze	Ncfpa
-do	Sg
-kupcev	Ncmpg
-svojih	Px-fpg
-obveznic	Ncfpg
-,	Z
-znaša	Vmpr3s
-le	Q
-250	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-nakup	Ncmsn
-večinskega	Agpmsg
-deleža	Ncmsg
-v	Sl
-Mercatorju	Npmsl
-glede	Rgp
-na	Sa
-ponujeno	Appfsa
-ceno	Ncfsa
-221	Mdc
-evrov	Ncmpg
-za	Sa
-delnico	Ncfsa
-ocenjen	Appmsnn
-na	Sa
-preko	Sg
-800	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Namesto	Sg
-lastnega	Agpmsg
-kapitala	Ncmsg
-naj	Q
-bi	Va-c
-hrvaški	Agpmsny
-živilsko	Agpnsn
--	Z
-trgovski	Agpmsny
-velikan	Ncmsn
-potencialnim	Agpmpd
-finančnim	Agpmpd
-partnerjem	Ncmpd
-v	Sl
-poslu	Ncmsl
-obljubljal	Vmpp-sm
-,	Z
-da	Cs
-bi	Va-c
-prihodnje	Agpnsa
-leto	Ncnsa
-lahko	Rgp
-prodal	Vmep-sm
-proizvajalca	Ncmsay
-sladoledov	Ncmpg
-Ledo	Npfsn
-.	Z
-Dokument	Ncmsn
-,	Z
-ki	Cs
-sta	Va-r3d-n
-ga	Pp3msa--y
-Zagrebačka	Ncmdn
-banka	Ncfdn
-ter	Cc
-Unicredit	Npmsn
-Bank	Npfsn
-Austria	Npfsn
-,	Z
-obe	Pg-fdn
-iz	Sg
-skupine	Ncfsg
-Unicredit	Npmsn
-,	Z
-12	Mdc
-.	Z
-oktobra	Ncmsg
-,	Z
-torej	Rgp
-tik	Rgp
-pred	Si
-oddajo	Ncfsi
-nezavezujoče	Appfsg
-ponudbe	Ncfsg
-Agrokorja	Ncmsg
-za	Sa
-Mercator	Npmsan
-,	Z
-poslali	Vmep-pm
-na	Sa
-matično	Agpfsa
-banko	Ncfsa
-v	Sl
-Milanu	Npmsl
-,	Z
-tako	Rgp
-po	Sl
-pisanju	Ncnsl
-časnika	Ncmsg
-dokazuje	Vmpr3s
-,	Z
-da	Cs
-brez	Sg
-Evropske	Agpfsg
-banke	Ncfsg
-za	Sa
-obnovo	Ncfsa
-in	Cc
-razvoj	Ncmsan
-EBRD	Npfsg
-in	Cc
-Mednarodne	Agpfsg
-finančne	Agpfsg
-korporacije	Ncfsg
-IFC	Npmsn
-iz	Sg
-skupine	Ncfsg
-Svetovne	Agpfsg
-banke	Ncfsg
-finančna	Agpfsn
-konstrukcija	Ncfsn
-posla	Ncmsg
-ni	Va-r3s-y
-mogoča	Agpfsn
-.	Z
-Agrokor	Ncmsn
-naj	Q
-bi	Va-c
-tako	Rgp
-pričakoval	Vmpp-sm
-,	Z
-da	Cs
-obe	Pg-fdn
-mednarodni	Agpfdn
-finančni	Agpfdn
-ustanovi	Ncfdn
-v	Sa
-prevzem	Ncmsan
-vložita	Vmer3d
-po	Sa
-170	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-EBRD	Npmsn
-in	Cc
-IFC	Npmsn
-glede	Rgp
-na	Sa
-dokumente	Ncmpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-razkrili	Vmep-pm
-v	Sl
-Mercatorjevi	Aspfsl
-upravi	Ncfsl
-,	Z
-zaenkrat	Rgp
-sploh	Q
-še	Q
-nista	Va-r3d-y
-zagotovili	Vmep-dm
-,	Z
-da	Cs
-bosta	Va-f3d-n
-v	Sl
-financiranju	Ncnsl
-sodelovali	Vmpp-dm
-in	Cc
-se	Px------y
-skupaj	Rgp
-z	Si
-Agrokorjem	Npmsi
-ne	Q
-pogajata	Vmpr3d
-s	Si
-konzorcijem	Ncmsi
-prodajalcev	Ncmpg
-.	Z
-Možnost	Ncfsn
-za	Sa
-sodelovanje	Ncnsa
-v	Sl
-projektu	Ncmsl
-naj	Q
-bi	Va-c
-proučili	Vmep-pm
-šele	Q
-po	Sl
-opravljenem	Appmsl
-skrbnem	Agpmsl
-pregledu	Ncmsl
-poslovanja	Ncnsg
-največjega	Agsmsg
-slovenskega	Agpmsg
-trgovca	Ncmsg
-.	Z
-Tudi	Q
-če	Cs
-bi	Va-c
-EBRD	Npmsn
-in	Cc
-IFC	Npmsn
-prispevali	Vmbp-pm
-340	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-Agrokor	Npmsn
-pa	Cc
-bi	Va-c
-se	Px------y
-zadolžil	Vmep-sm
-za	Sa
-omenjenih	Appmpg
-250	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-bi	Va-c
-še	Q
-vedno	Rgp
-ostalo	Vmep-sn
-prek	Sg
-200	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-dodatnih	Agpnpg
-sredstev	Ncnpg
-,	Z
-ki	Cs
-bi	Va-c
-jih	Pp3mpa--y
-moral	Vmpp-sm
-najti	Vmen
-hrvaški	Agpmsay
-koncern	Ncmsan
-.	Z
-Glede	Rgp
-na	Sa
-dokument	Ncmsan
-v	Sl
-Zagrebu	Npmsl
-ocenjujejo	Vmpr3p
-,	Z
-da	Cs
-bi	Va-c
-s	Si
-prodajo	Ncfsi
-Leda	Npmsg
-iztržili	Vmep-pm
-480	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-bi	Va-c
-jih	Pp3mpa--y
-280	Mdc
-milijonov	Ncmpg
-namenili	Vmep-pm
-za	Sa
-prevzem	Ncmsan
-Mercatorja	Npmsg
-,	Z
-preostalo	Vmep-sn
-pa	Cc
-za	Sa
-poplačilo	Ncnsa
-obveznosti	Ncfsg
-.	Z
-V	Sl
-vmesnem	Agpnsl
-obdobju	Ncnsl
-do	Sg
-zaključka	Ncmsg
-te	Pd-fsg
-transakcije	Ncfsg
-bi	Va-c
-Agrokor	Npmsn
-tako	Rgp
-potreboval	Vmpp-sm
-premostitveno	Agpnsa
-posojilo	Ncnsa
-.	Z
-Ob	Sl
-tem	Pd-nsl
-v	Sl
-Agrokorju	Npmsl
-dovoljujejo	Vmpr3p
-tudi	Q
-možnost	Ncfsa
-,	Z
-da	Cs
-prodaja	Ncfsn
-Leda	Npmsg
-ne	Q
-bi	Va-c
-uspela	Vmep-sf
-,	Z
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-pa	Cc
-se	Px------y
-zanašajo	Vmpr3p
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-bodo	Va-f3p-n
-našli	Vmep-pm
-nove	Agpmpa
-partnerje	Ncmpa
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-sodelovali	Vmpp-pm
-pri	Sl
-nakupu	Ncmsl
-Mercatorja	Npmsg
-.	Z
-Računali	Vmpp-pm
-naj	Q
-bi	Va-c
-zlasti	Q
-na	Sa
-istrsko	Agpfsa
-skupino	Ncfsa
-Adris	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-nastala	Vmep-sf
-na	Sl
-temeljih	Ncmpl
-Tobačne	Agpfsg
-tovarne	Ncfsg
-Rovinj	Npmsn
-.	Z
-Agrokor	Npmsn
-naj	Q
-teh	Pd-fpg
-možnosti	Ncfpg
-v	Sl
-nezavezujoči	Appfsl
-ponudbi	Ncfsl
-za	Sa
-Mercator	Npmsan
-sploh	Q
-ne	Q
-bi	Va-c
-omenjal	Vmpp-sm
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-v	Sl
-njej	Pp3fsl
-zapisal	Vmep-sm
-,	Z
-da	Cs
-namerava	Vmpr3s
-skupaj	Rgp
-z	Si
-EBRD	Npmsi
-,	Z
-IFC	Npmsi
-in	Cc
-skladom	Ncmsi
-One	Npmsn
-Equity	Npmsn
-Partners	Npmsn
-,	Z
-ki	Cs
-deluje	Vmpr3s
-v	Sl
-okviru	Ncmsl
-ameriške	Agpfsg
-banke	Ncfsg
-JP	Npmsn
-Morgan	Npmsn
-Chase	Npmsn
-,	Z
-oblikovati	Vmpn
-poseben	Agpmsan
-finančni	Agpmsay
-holding	Ncmsan
-,	Z
-v	Sa
-katerega	Pq-msa
-bi	Va-c
-tuji	Agpmpn
-partnerji	Ncmpn
-vložili	Vmep-pm
-kapital	Ncmsan
-,	Z
-Agrokor	Ncmsn
-pa	Cc
-trgovsko	Agpfsa
-verigo	Ncfsa
-Konzum	Npmsn
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-naj	Q
-bi	Va-c
-dokument	Ncmsan
-razkrival	Vmpp-sm
-še	Q
-en	Mlpmsa
-ključen	Agpmsan
-vidik	Ncmsan
-finančne	Agpfsg
-konstrukcije	Ncfsg
-Agrokorjevega	Aspmsg
-prevzema	Ncmsg
-Mercatorja	Npmsg
-.	Z
-Gre	Vmbr3s
-za	Sa
-dogovor	Ncmsan
-z	Si
-obstoječimi	Appmpi
-Mercatorjevimi	Aspmpi
-posojilodajalci	Ncmpi
-,	Z
-da	Cs
-ti	Pp2-pd--y
-zaradi	Sg
-spremenjenega	Appnsg
-lastništva	Ncnsg
-ne	Q
-bodo	Va-f3p-n
-ukinili	Vmep-pm
-za	Sa
-950	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-posojilnih	Agpfpg
-linij	Ncfpg
-.	Z
-Glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-so	Va-r3p-n
-za	Sa
-večino	Ncfsa
-teh	Pd-mpg
-posojilnih	Agpmpg
-mehanizmov	Ncmpg
-banke	Ncfsg
-,	Z
-ki	Cs
-Mercator	Npmsan
-prodajajo	Vmpr3p
-,	Z
-v	Sl
-Zagrebu	Npmsl
-menijo	Vmpr3p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-te	Pd-fpn
-zaveze	Ncfpn
-ohranile	Vmep-pf
-.	Z
-Foto	Ncmsn
-Reuters	Npmsn
-Dokument	Ncmsn
-naj	Q
-bi	Va-c
-po	Sl
-pisanju	Ncnsl
-Dnevnika	Ncmsg
-na	Sa
-laž	Ncfsa
-postavljal	Vmpp-sm
-tudi	Q
-Agrokorjeve	Aspfsg
-obljube	Ncfpa
-,	Z
-da	Cs
-ne	Q
-bo	Va-f3s-n
-finančno	Rgp
-izčrpaval	Vmpp-sm
-Mercatorja	Npmsg
-in	Cc
-da	Cs
-bo	Va-f3s-n
-povečeval	Vmpp-sm
-število	Ncnsa
-zaposlenih	Appmpg
-ter	Cc
-celo	Q
-izboljšal	Vmep-sm
-položaj	Ncmsan
-slovenskih	Agpmpg
-dobaviteljev	Ncmpg
-.	Z
-Iz	Sg
-dopisa	Ncmsg
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-namreč	Cc
-razvidno	Agpnsn
-,	Z
-da	Cs
-Agrokor	Ncmsn
-že	Q
-v	Sl
-prvem	Mlonsl
-letu	Ncnsl
-napoveduje	Vmpr3s
-za	Sa
-okoli	Rgp
-170	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-sinergij	Ncfpg
-,	Z
-kar	Pr-nsn
-v	Sl
-poslovnem	Agpmsl
-žargonu	Ncmsl
-pomeni	Vmbr3s
-prihranke	Ncmpa
-ob	Sl
-združevanju	Ncnsl
-aktivnosti	Ncfsg
-dveh	Mlcndg
-podjetij	Ncnpg
-.	Z
-Skupaj	Rgp
-52,10	Mdc
-odstotka	Ncmsg
-Mercatorja	Npmsg
-prodajajo	Vmpr3p
-Abanka	Npfsn
-,	Z
-Banka	Npfsn
-Celje	Npnsn
-,	Z
-Banka	Npfsn
-Koper	Npmsn
-,	Z
-Gorenjska	Agpfsn
-banka	Ncfsn
-,	Z
-banka	Ncfsn
-Hypo	Npfsn
-Alpe	Npmsn
-Adria	Npfsn
-,	Z
-delniški	Agpmsny
-investicijski	Agpmsny
-sklad	Ncmsn
-NFD	Npmsn
-1	Mdc
-,	Z
-NFD	Npmsn
-Holding	Npmsn
-,	Z
-NKBM	Npfsn
-,	Z
-NLB	Npfsn
-,	Z
-Pivovarna	Ncfsn
-Laško	Npnsn
-,	Z
-Pivovarna	Ncfsn
-Union	Npmsn
-in	Cc
-Radenska	Npfsn
-.	Z
-Omenjeni	Appmpn
-delničarji	Ncmpn
-so	Va-r3p-n
-junija	Ncmsg
-letos	Rgp
-podpisali	Vmep-pm
-sporazum	Ncmsan
-o	Sl
-skupni	Agpfsl
-prodaji	Ncfsl
-trgovskega	Agpnsg
-podjetja	Ncnsg
-.	Z
-V	Sl
-zadnjih	Agpmpl
-dneh	Ncmpl
-se	Px------y
-je	Va-r3s-n
-prodaja	Ncfsn
-zapletla	Vmep-sf
-,	Z
-saj	Cc
-je	Va-r3s-n
-Mercatorjeva	Aspfsn
-uprava	Ncfsn
-razkrila	Vmep-sf
-,	Z
-da	Cs
-se	Px------y
-s	Si
-prodajalci	Ncmpi
-pogaja	Vmpr3s
-izključno	Rgp
-Agrokor	Ncmsn
-in	Cc
-ne	Q
-napovedani	Appmsny
-konzorcij	Ncmsn
-kupcev	Ncmpg
-,	Z
-to	Pd-nsn
-pa	Cc
-bi	Va-c
-lahko	Rgp
-po	Sl
-njenem	Ps3nslsf
-mnenju	Ncnsl
-škodilo	Vmpp-sn
-interesom	Ncmpd
-enega	Mlpnsg
-največjih	Agsnpg
-slovenskih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Prodajalci	Ncmpn
-medtem	Rgp
-pravijo	Vmbr3p
-,	Z
-da	Cs
-so	Va-r3p-n
-mednarodni	Agpmpn
-partnerji	Ncmpn
-posel	Ncmsn
-pripravljeni	Appmpn
-podpreti	Vmen
-v	Sl
-poznejši	Agcfsl
-fazi	Ncfsl
-,	Z
-zato	Cc
-pozivajo	Vmpr3p
-k	Sd
-vnovičnemu	Agpmsd
-izrazu	Ncmsd
-podpore	Agpfsg
-prodaji	Ncfsd
-.	Z
+token	tag	lemma
+Agrokor	mte:Ncmsn	agrokor
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+nakupa	mte:Ncmsg	nakup
+večinskega	mte:Agpmsg	večinski
+lastniškega	mte:Agpmsg	lastniški
+deleža	mte:Ncmsg	delež
+Mercatorja	mte:Npmsg	Mercator
+od	mte:Sg	od
+konzorcija	mte:Ncmsg	konzorcij
+prodajalcev	mte:Ncmpg	prodajalec
+lotil	mte:Vmep-sm	lotiti
+brez	mte:Sg	brez
+enega	mte:Mlpmsg	en
+samega	mte:Agpmsg	sam
+evra	mte:Ncmsg	evro
+kapitala	mte:Ncmsg	kapital
+in	mte:Cc	in
+zaradi	mte:Sg	zaradi
+visoke	mte:Agpfsg	visok
+zadolženosti	mte:Ncfsg	zadolženost
+tudi	mte:Q	tudi
+z	mte:Si	z
+zelo	mte:Rgp	zelo
+omejenimi	mte:Appfpi	omejen
+možnostmi	mte:Ncfpi	možnost
+dodatnega	mte:Agpnsg	dodaten
+zadolževanja	mte:Ncnsg	zadolževanje
+.	mte:Z	.
+Dokumenti	mte:Ncmpi	dokument
+italijanske	mte:Agpfsg	italijanski
+banke	mte:Ncfsg	banka
+Unicredit	mte:Npmsn	Unicredit
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+pridobili	mte:Vmep-pm	pridobiti
+na	mte:Sl	na
+časniku	mte:Ncmsl	časnik
+Dnevnik	mte:Ncmsn	dnevnik
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+dokazovali	mte:Vmpp-pm	dokazovati
+,	mte:Z	,
+da	mte:Cs	da
+maksimalni	mte:Agpmsay	maksimalen
+znesek	mte:Ncmsan	znesek
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+zadolži	mte:Vmer3s	zadolžiti
+Agrokor	mte:Npmsn	Agrokor
+,	mte:Z	,
+ne	mte:Q	ne
+da	mte:Cs	da
+bi	mte:Va-c	biti
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+kršil	mte:Vmbp-sm	kršiti
+zaveze	mte:Ncfpa	zaveza
+do	mte:Sg	do
+kupcev	mte:Ncmpg	kupec
+svojih	mte:Px-fpg	svoj
+obveznic	mte:Ncfpg	obveznica
+,	mte:Z	,
+znaša	mte:Vmpr3s	znašati
+le	mte:Q	le
+250	mte:Mdc	250
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+nakup	mte:Ncmsn	nakup
+večinskega	mte:Agpmsg	večinski
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+Mercatorju	mte:Npmsl	Mercator
+glede	mte:Rgp	glede
+na	mte:Sa	na
+ponujeno	mte:Appfsa	ponujen
+ceno	mte:Ncfsa	cena
+221	mte:Mdc	221
+evrov	mte:Ncmpg	evro
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+ocenjen	mte:Appmsnn	ocenjen
+na	mte:Sa	na
+preko	mte:Sg	preko
+800	mte:Mdc	800
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Namesto	mte:Sg	namesto
+lastnega	mte:Agpmsg	lasten
+kapitala	mte:Ncmsg	kapital
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+hrvaški	mte:Agpmsny	hrvaški
+živilsko	mte:Agpnsn	živilski
+-	mte:Z	-
+trgovski	mte:Agpmsny	trgovski
+velikan	mte:Ncmsn	velikan
+potencialnim	mte:Agpmpd	potencialen
+finančnim	mte:Agpmpd	finančen
+partnerjem	mte:Ncmpd	partner
+v	mte:Sl	v
+poslu	mte:Ncmsl	posel
+obljubljal	mte:Vmpp-sm	obljubljati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+lahko	mte:Rgp	lahko
+prodal	mte:Vmep-sm	prodati
+proizvajalca	mte:Ncmsay	proizvajalec
+sladoledov	mte:Ncmpg	sladoled
+Ledo	mte:Npfsn	Ledo
+.	mte:Z	.
+Dokument	mte:Ncmsn	dokument
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+ga	mte:Pp3msa--y	on
+Zagrebačka	mte:Ncmdn	zagrebačka
+banka	mte:Ncfdn	banka
+ter	mte:Cc	ter
+Unicredit	mte:Npmsn	Unicredit
+Bank	mte:Npfsn	Bank
+Austria	mte:Npfsn	Austria
+,	mte:Z	,
+obe	mte:Pg-fdn	oba
+iz	mte:Sg	iz
+skupine	mte:Ncfsg	skupina
+Unicredit	mte:Npmsn	Unicredit
+,	mte:Z	,
+12	mte:Mdc	12
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+,	mte:Z	,
+torej	mte:Rgp	torej
+tik	mte:Rgp	tik
+pred	mte:Si	pred
+oddajo	mte:Ncfsi	oddaja
+nezavezujoče	mte:Appfsg	nezavezujoč
+ponudbe	mte:Ncfsg	ponudba
+Agrokorja	mte:Ncmsg	agrokor
+za	mte:Sa	za
+Mercator	mte:Npmsan	Mercator
+,	mte:Z	,
+poslali	mte:Vmep-pm	poslati
+na	mte:Sa	na
+matično	mte:Agpfsa	matičen
+banko	mte:Ncfsa	banka
+v	mte:Sl	v
+Milanu	mte:Npmsl	Milan
+,	mte:Z	,
+tako	mte:Rgp	tako
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+časnika	mte:Ncmsg	časnik
+dokazuje	mte:Vmpr3s	dokazovati
+,	mte:Z	,
+da	mte:Cs	da
+brez	mte:Sg	brez
+Evropske	mte:Agpfsg	evropski
+banke	mte:Ncfsg	banka
+za	mte:Sa	za
+obnovo	mte:Ncfsa	obnova
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+EBRD	mte:Npfsg	EBRD
+in	mte:Cc	in
+Mednarodne	mte:Agpfsg	mednaroden
+finančne	mte:Agpfsg	finančen
+korporacije	mte:Ncfsg	korporacija
+IFC	mte:Npmsn	IFC
+iz	mte:Sg	iz
+skupine	mte:Ncfsg	skupina
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+finančna	mte:Agpfsn	finančen
+konstrukcija	mte:Ncfsn	konstrukcija
+posla	mte:Ncmsg	posel
+ni	mte:Va-r3s-y	biti
+mogoča	mte:Agpfsn	mogoč
+.	mte:Z	.
+Agrokor	mte:Ncmsn	agrokor
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+tako	mte:Rgp	tako
+pričakoval	mte:Vmpp-sm	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+obe	mte:Pg-fdn	oba
+mednarodni	mte:Agpfdn	mednaroden
+finančni	mte:Agpfdn	finančen
+ustanovi	mte:Ncfdn	ustanov
+v	mte:Sa	v
+prevzem	mte:Ncmsan	prevzem
+vložita	mte:Vmer3d	vložiti
+po	mte:Sa	po
+170	mte:Mdc	170
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+EBRD	mte:Npmsn	EBRD
+in	mte:Cc	in
+IFC	mte:Npmsn	IFC
+glede	mte:Rgp	glede
+na	mte:Sa	na
+dokumente	mte:Ncmpa	dokument
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+razkrili	mte:Vmep-pm	razkriti
+v	mte:Sl	v
+Mercatorjevi	mte:Aspfsl	Mercatorjev
+upravi	mte:Ncfsl	uprava
+,	mte:Z	,
+zaenkrat	mte:Rgp	zaenkrat
+sploh	mte:Q	sploh
+še	mte:Q	še
+nista	mte:Va-r3d-y	biti
+zagotovili	mte:Vmep-dm	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+bosta	mte:Va-f3d-n	biti
+v	mte:Sl	v
+financiranju	mte:Ncnsl	financiranje
+sodelovali	mte:Vmpp-dm	sodelovati
+in	mte:Cc	in
+se	mte:Px------y	se
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+Agrokorjem	mte:Npmsi	Agrokor
+ne	mte:Q	ne
+pogajata	mte:Vmpr3d	pogajati
+s	mte:Si	z
+konzorcijem	mte:Ncmsi	konzorcij
+prodajalcev	mte:Ncmpg	prodajalec
+.	mte:Z	.
+Možnost	mte:Ncfsn	možnost
+za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+v	mte:Sl	v
+projektu	mte:Ncmsl	projekt
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+proučili	mte:Vmep-pm	proučiti
+šele	mte:Q	šele
+po	mte:Sl	po
+opravljenem	mte:Appmsl	opravljen
+skrbnem	mte:Agpmsl	skrben
+pregledu	mte:Ncmsl	pregled
+poslovanja	mte:Ncnsg	poslovanje
+največjega	mte:Agsmsg	velik
+slovenskega	mte:Agpmsg	slovenski
+trgovca	mte:Ncmsg	trgovec
+.	mte:Z	.
+Tudi	mte:Q	tudi
+če	mte:Cs	če
+bi	mte:Va-c	biti
+EBRD	mte:Npmsn	EBRD
+in	mte:Cc	in
+IFC	mte:Npmsn	IFC
+prispevali	mte:Vmbp-pm	prispevati
+340	mte:Mdc	340
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+Agrokor	mte:Npmsn	Agrokor
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+zadolžil	mte:Vmep-sm	zadolžiti
+za	mte:Sa	za
+omenjenih	mte:Appmpg	omenjen
+250	mte:Mdc	250
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+bi	mte:Va-c	biti
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+ostalo	mte:Vmep-sn	ostati
+prek	mte:Sg	prek
+200	mte:Mdc	200
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+dodatnih	mte:Agpnpg	dodaten
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+moral	mte:Vmpp-sm	morati
+najti	mte:Vmen	najti
+hrvaški	mte:Agpmsay	hrvaški
+koncern	mte:Ncmsan	koncern
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+dokument	mte:Ncmsan	dokument
+v	mte:Sl	v
+Zagrebu	mte:Npmsl	Zagreb
+ocenjujejo	mte:Vmpr3p	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+Leda	mte:Npmsg	Leda
+iztržili	mte:Vmep-pm	iztržiti
+480	mte:Mdc	480
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+280	mte:Mdc	280
+milijonov	mte:Ncmpg	milijon
+namenili	mte:Vmep-pm	nameniti
+za	mte:Sa	za
+prevzem	mte:Ncmsan	prevzem
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+preostalo	mte:Vmep-sn	preostati
+pa	mte:Cc	pa
+za	mte:Sa	za
+poplačilo	mte:Ncnsa	poplačilo
+obveznosti	mte:Ncfsg	obveznost
+.	mte:Z	.
+V	mte:Sl	v
+vmesnem	mte:Agpnsl	vmesen
+obdobju	mte:Ncnsl	obdobje
+do	mte:Sg	do
+zaključka	mte:Ncmsg	zaključek
+te	mte:Pd-fsg	ta
+transakcije	mte:Ncfsg	transakcija
+bi	mte:Va-c	biti
+Agrokor	mte:Npmsn	Agrokor
+tako	mte:Rgp	tako
+potreboval	mte:Vmpp-sm	potrebovati
+premostitveno	mte:Agpnsa	premostitven
+posojilo	mte:Ncnsa	posojilo
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+v	mte:Sl	v
+Agrokorju	mte:Npmsl	Agrokor
+dovoljujejo	mte:Vmpr3p	dovoljevati
+tudi	mte:Q	tudi
+možnost	mte:Ncfsa	možnost
+,	mte:Z	,
+da	mte:Cs	da
+prodaja	mte:Ncfsn	prodaja
+Leda	mte:Npmsg	Leda
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+uspela	mte:Vmep-sf	uspeti
+,	mte:Z	,
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+pa	mte:Cc	pa
+se	mte:Px------y	se
+zanašajo	mte:Vmpr3p	zanašati
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+našli	mte:Vmep-pm	najti
+nove	mte:Agpmpa	nov
+partnerje	mte:Ncmpa	partner
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+sodelovali	mte:Vmpp-pm	sodelovati
+pri	mte:Sl	pri
+nakupu	mte:Ncmsl	nakup
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Računali	mte:Vmpp-pm	računati
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+zlasti	mte:Q	zlasti
+na	mte:Sa	na
+istrsko	mte:Agpfsa	istrski
+skupino	mte:Ncfsa	skupina
+Adris	mte:Npmsn	Adris
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+nastala	mte:Vmep-sf	nastati
+na	mte:Sl	na
+temeljih	mte:Ncmpl	temelj
+Tobačne	mte:Agpfsg	tobačen
+tovarne	mte:Ncfsg	tovarna
+Rovinj	mte:Npmsn	Rovinj
+.	mte:Z	.
+Agrokor	mte:Npmsn	Agrokor
+naj	mte:Q	naj
+teh	mte:Pd-fpg	ta
+možnosti	mte:Ncfpg	možnost
+v	mte:Sl	v
+nezavezujoči	mte:Appfsl	nezavezujoč
+ponudbi	mte:Ncfsl	ponudba
+za	mte:Sa	za
+Mercator	mte:Npmsan	Mercator
+sploh	mte:Q	sploh
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+omenjal	mte:Vmpp-sm	omenjati
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+njej	mte:Pp3fsl	on
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+namerava	mte:Vmpr3s	nameravati
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+EBRD	mte:Npmsi	EBRD
+,	mte:Z	,
+IFC	mte:Npmsi	IFC
+in	mte:Cc	in
+skladom	mte:Ncmsi	sklad
+One	mte:Npmsn	One
+Equity	mte:Npmsn	Equity
+Partners	mte:Npmsn	Partners
+,	mte:Z	,
+ki	mte:Cs	ki
+deluje	mte:Vmpr3s	delovati
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+JP	mte:Npmsn	JP
+Morgan	mte:Npmsn	Morgan
+Chase	mte:Npmsn	Chase
+,	mte:Z	,
+oblikovati	mte:Vmpn	oblikovati
+poseben	mte:Agpmsan	poseben
+finančni	mte:Agpmsay	finančen
+holding	mte:Ncmsan	holding
+,	mte:Z	,
+v	mte:Sa	v
+katerega	mte:Pq-msa	kateri
+bi	mte:Va-c	biti
+tuji	mte:Agpmpn	tuj
+partnerji	mte:Ncmpn	partner
+vložili	mte:Vmep-pm	vložiti
+kapital	mte:Ncmsan	kapital
+,	mte:Z	,
+Agrokor	mte:Ncmsn	agrokor
+pa	mte:Cc	pa
+trgovsko	mte:Agpfsa	trgovski
+verigo	mte:Ncfsa	veriga
+Konzum	mte:Npmsn	Konzum
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+dokument	mte:Ncmsan	dokument
+razkrival	mte:Vmpp-sm	razkrivati
+še	mte:Q	še
+en	mte:Mlpmsa	en
+ključen	mte:Agpmsan	ključen
+vidik	mte:Ncmsan	vidik
+finančne	mte:Agpfsg	finančen
+konstrukcije	mte:Ncfsg	konstrukcija
+Agrokorjevega	mte:Aspmsg	Agrokorjev
+prevzema	mte:Ncmsg	prevzem
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+dogovor	mte:Ncmsan	dogovor
+z	mte:Si	z
+obstoječimi	mte:Appmpi	obstoječ
+Mercatorjevimi	mte:Aspmpi	Mercatorjev
+posojilodajalci	mte:Ncmpi	posojilodajalec
+,	mte:Z	,
+da	mte:Cs	da
+ti	mte:Pp2-pd--y	ti
+zaradi	mte:Sg	zaradi
+spremenjenega	mte:Appnsg	spremenjen
+lastništva	mte:Ncnsg	lastništvo
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+ukinili	mte:Vmep-pm	ukiniti
+za	mte:Sa	za
+950	mte:Mdc	950
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+posojilnih	mte:Agpfpg	posojilen
+linij	mte:Ncfpg	linija
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+večino	mte:Ncfsa	večina
+teh	mte:Pd-mpg	ta
+posojilnih	mte:Agpmpg	posojilen
+mehanizmov	mte:Ncmpg	mehanizem
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+Mercator	mte:Npmsan	Mercator
+prodajajo	mte:Vmpr3p	prodajati
+,	mte:Z	,
+v	mte:Sl	v
+Zagrebu	mte:Npmsl	Zagreb
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+te	mte:Pd-fpn	ta
+zaveze	mte:Ncfpn	zaveza
+ohranile	mte:Vmep-pf	ohraniti
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+Reuters	mte:Npmsn	Reuters
+Dokument	mte:Ncmsn	dokument
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Dnevnika	mte:Ncmsg	dnevnik
+na	mte:Sa	na
+laž	mte:Ncfsa	laž
+postavljal	mte:Vmpp-sm	postavljati
+tudi	mte:Q	tudi
+Agrokorjeve	mte:Aspfsg	Agrokorjev
+obljube	mte:Ncfpa	obljuba
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+finančno	mte:Rgp	finančen
+izčrpaval	mte:Vmpp-sm	izčrpavati
+Mercatorja	mte:Npmsg	Mercator
+in	mte:Cc	in
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+povečeval	mte:Vmpp-sm	povečevati
+število	mte:Ncnsa	število
+zaposlenih	mte:Appmpg	zaposlen
+ter	mte:Cc	ter
+celo	mte:Q	celo
+izboljšal	mte:Vmep-sm	izboljšati
+položaj	mte:Ncmsan	položaj
+slovenskih	mte:Agpmpg	slovenski
+dobaviteljev	mte:Ncmpg	dobavitelj
+.	mte:Z	.
+Iz	mte:Sg	iz
+dopisa	mte:Ncmsg	dopis
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+namreč	mte:Cc	namreč
+razvidno	mte:Agpnsn	razviden
+,	mte:Z	,
+da	mte:Cs	da
+Agrokor	mte:Ncmsn	agrokor
+že	mte:Q	že
+v	mte:Sl	v
+prvem	mte:Mlonsl	prvi
+letu	mte:Ncnsl	leto
+napoveduje	mte:Vmpr3s	napovedovati
+za	mte:Sa	za
+okoli	mte:Rgp	okoli
+170	mte:Mdc	170
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+sinergij	mte:Ncfpg	sinergija
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+v	mte:Sl	v
+poslovnem	mte:Agpmsl	posloven
+žargonu	mte:Ncmsl	žargon
+pomeni	mte:Vmbr3s	pomeniti
+prihranke	mte:Ncmpa	prihranek
+ob	mte:Sl	ob
+združevanju	mte:Ncnsl	združevanje
+aktivnosti	mte:Ncfsg	aktivnost
+dveh	mte:Mlcndg	dva
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Skupaj	mte:Rgp	skupaj
+52,10	mte:Mdc	52,10
+odstotka	mte:Ncmsg	odstotek
+Mercatorja	mte:Npmsg	Mercator
+prodajajo	mte:Vmpr3p	prodajati
+Abanka	mte:Npfsn	Abanka
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+banka	mte:Ncfsn	banka
+Hypo	mte:Npfsn	Hypo
+Alpe	mte:Npmsn	Alpe
+Adria	mte:Npfsn	Adria
+,	mte:Z	,
+delniški	mte:Agpmsny	delniški
+investicijski	mte:Agpmsny	investicijski
+sklad	mte:Ncmsn	sklad
+NFD	mte:Npmsn	NFD
+1	mte:Mdc	1
+,	mte:Z	,
+NFD	mte:Npmsn	NFD
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+NKBM	mte:Npfsn	NKBM
+,	mte:Z	,
+NLB	mte:Npfsn	NLB
+,	mte:Z	,
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+Pivovarna	mte:Ncfsn	pivovarna
+Union	mte:Npmsn	Union
+in	mte:Cc	in
+Radenska	mte:Npfsn	Radenska
+.	mte:Z	.
+Omenjeni	mte:Appmpn	omenjen
+delničarji	mte:Ncmpn	delničar
+so	mte:Va-r3p-n	biti
+junija	mte:Ncmsg	junij
+letos	mte:Rgp	letos
+podpisali	mte:Vmep-pm	podpisati
+sporazum	mte:Ncmsan	sporazum
+o	mte:Sl	o
+skupni	mte:Agpfsl	skupen
+prodaji	mte:Ncfsl	prodaja
+trgovskega	mte:Agpnsg	trgovski
+podjetja	mte:Ncnsg	podjetje
+.	mte:Z	.
+V	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+dneh	mte:Ncmpl	dan
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+zapletla	mte:Vmep-sf	zaplesti
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+Mercatorjeva	mte:Aspfsn	Mercatorjev
+uprava	mte:Ncfsn	uprava
+razkrila	mte:Vmep-sf	razkriti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+s	mte:Si	z
+prodajalci	mte:Ncmpi	prodajalec
+pogaja	mte:Vmpr3s	pogajati
+izključno	mte:Rgp	izključno
+Agrokor	mte:Ncmsn	agrokor
+in	mte:Cc	in
+ne	mte:Q	ne
+napovedani	mte:Appmsny	napovedan
+konzorcij	mte:Ncmsn	konzorcija
+kupcev	mte:Ncmpg	kupec
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+po	mte:Sl	po
+njenem	mte:Ps3nslsf	njen
+mnenju	mte:Ncnsl	mnenje
+škodilo	mte:Vmpp-sn	škoditi
+interesom	mte:Ncmpd	interes
+enega	mte:Mlpnsg	en
+največjih	mte:Agsnpg	velik
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Prodajalci	mte:Ncmpn	prodajalec
+medtem	mte:Rgp	medtem
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+mednarodni	mte:Agpmpn	mednaroden
+partnerji	mte:Ncmpn	partner
+posel	mte:Ncmsn	posel
+pripravljeni	mte:Appmpn	pripravljen
+podpreti	mte:Vmen	podpreti
+v	mte:Sl	v
+poznejši	mte:Agcfsl	pozeni
+fazi	mte:Ncfsl	faza
+,	mte:Z	,
+zato	mte:Cc	zato
+pozivajo	mte:Vmpr3p	pozivati
+k	mte:Sd	k
+vnovičnemu	mte:Agpmsd	vnovičen
+izrazu	mte:Ncmsd	izraz
+podpore	mte:Agpfsg	podpora
+prodaji	mte:Ncfsd	prodaja
+.	mte:Z	.
+Mercatorjeva	mte:Aspfsn	Mercatorjev
+uprava	mte:Ncfsn	uprava
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+pripravila	mte:Vmep-sf	pripraviti
+predloge	mte:Ncmpa	predlog
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+zapleta	mte:Ncmsg	zaplet

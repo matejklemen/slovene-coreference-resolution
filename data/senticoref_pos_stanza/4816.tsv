@@ -1,408 +1,438 @@
-token	tag
-Države	Ncfpn
-članice	Ncfpn
-območja	Ncnsg
-evra	Ncmsg
-so	Va-r3p-n
-septembra	Ncmsg
-v	Sl
-trgovini	Ncfsl
-s	Si
-preostalim	Appmsi
-svetom	Ncmsi
-zabeležile	Vmep-pf
-3,7	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-presežka	Ncmsg
-Območje	Ncnsn
-evra	Ncmsg
-je	Va-r3s-n
-po	Sl
-avgustovskem	Agpmsl
-primanjkljaju	Ncmsl
-septembra	Ncmsg
-zopet	Rgp
-zabeležilo	Vmep-sn
-zunanjetrgovinski	Agpmsay
-presežek	Ncmsan
-v	Sl
-višini	Ncfsl
-3,7	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Celotna	Agpfsn
-EU	Npfsn
-je	Va-r3s-n
-še	Q
-julija	Ncmsg
-zabeležila	Vmep-sf
-11,2	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-primanjkljaja	Ncmsg
-.	Z
-Izvoz	Ncmsn
-septembra	Ncmsg
-večji	Agcmsny
-za	Sa
-5,5	Mdc
-,	Z
-izvoz	Ncmsan
-za	Sa
-1,1	Mdc
-odstotka	Ncmsg
-Septembra	Ncmsg
-letos	Rgp
-se	Px------y
-je	Va-r3s-n
-glede	Rgp
-na	Sa
-mesec	Ncmsan
-prej	Rgc
-izvoz	Ncmsn
-povečal	Vmep-sm
-za	Sa
-5,5	Mdc
-odstotka	Ncmsg
-,	Z
-uvoz	Ncmsn
-pa	Cc
-za	Sa
-1,1	Mdc
-odstotka	Ncmsg
-.	Z
-Podatki	Ncmpn
-so	Va-r3p-n
-presenetljivi	Agpmpn
-,	Z
-še	Q
-posebej	Rgp
-v	Sl
-luči	Ncfsl
-krepitve	Ncfsg
-evra	Ncmsg
-v	Sl
-primerjavi	Ncfsl
-z	Si
-ameriškim	Agpmsi
-dolarjem	Ncmsi
-.	Z
-Podatki	Ncmpi
-o	Sl
-izraziti	Vmen
-rasti	Ncfsl
-izvoza	Ncmsg
-potrjujejo	Vmpr3p
-tudi	Q
-trditve	Ncfpa
-številnih	Agpmpg
-poznavalcev	Ncmpg
-,	Z
-da	Cs
-je	Va-r3s-n
-vrnitev	Ncfsn
-območja	Ncnsg
-evra	Ncmsg
-k	Sd
-rasti	Ncfsd
-v	Sl
-tretjem	Mlonsl
-letošnjem	Agpnsl
-četrtletju	Ncnsl
-predvsem	Q
-posledica	Ncfsn
-krepitve	Ncfsg
-izvozne	Agpfsg
-dejavnosti	Ncfsg
-in	Cc
-manj	Rgc
-okrevanja	Ncnsg
-domačega	Agpnsg
-povpraševanja	Ncnsg
-.	Z
-V	Sl
-celotni	Agpfsl
-EU	Npfsl
-septembra	Ncmsg
-11,2	Mdc
-milijarde	Ncfsg
-presežka	Ncmsg
-Celotna	Agpfsn
-EU	Npfsn
-je	Va-r3s-n
-septembra	Ncmsg
-letos	Rgp
-beležila	Vmpp-sf
-11,2	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-zunanjetrgovinskega	Agpmsg
-presežka	Ncmsg
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-septembra	Ncmsg
-lani	Rgp
-ta	Pd-msn
-znašal	Vmpp-sm
-24,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Avgusta	Npmsg
-letos	Rgp
-je	Va-r3s-n
-primanjkljaj	Ncmsn
-znašal	Vmpp-sm
-12	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-avgusta	Ncmsg
-lani	Rgp
-pa	Cc
-28,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Izvoz	Ncmsn
-sedemindvajseterice	Ncfsg
-se	Px------y
-je	Va-r3s-n
-septembra	Ncmsg
-na	Sl
-mesečni	Agpfsl
-ravni	Ncfsl
-povečal	Vmep-sm
-za	Sa
-3,4	Mdc
-odstotka	Ncmsg
-,	Z
-uvoz	Ncmsn
-pa	Cc
-za	Sa
-2,2	Mdc
-odstotka	Ncmsg
-.	Z
-EU	Npfsg
-je	Va-r3s-n
-v	Sl
-obdobju	Ncnsl
-od	Sg
-januarja	Ncmsg
-do	Sg
-avgusta	Ncmsg
-letos	Rgp
-v	Sl
-primerjavi	Ncfsl
-z	Si
-enakim	Pi-nsi
-obdobjem	Ncnsi
-lani	Rgp
-zabeležila	Vmep-sf
-padec	Ncmsan
-trgovinskih	Agpmpg
-tokov	Ncmpg
-z	Si
-vsemi	Pg-fpi
-največjimi	Agsfpi
-trgovinskimi	Agpfpi
-partnericami	Ncfpi
-.	Z
-Trgovanje	Ncnsa
-najbolj	Rgs
-zmanjšano	Appnsa
-z	Si
-Rusijo	Npfsi
-Izvoz	Ncmsn
-se	Px------y
-je	Va-r3s-n
-najbolj	Rgs
-zmanjšal	Vmep-sm
-v	Sl
-trgovini	Ncfsl
-z	Si
-Rusijo	Npfsi
-(	Z
-za	Sa
-40	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Turčijo	Npfsi
-(	Z
-za	Sa
-28	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Južno	Agpfsi
-Korejo	Npfsi
-in	Cc
-Brazilijo	Npfsi
-(	Z
-za	Sa
-23	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Norveško	Npfsi
-in	Cc
-ZDA	Npfpg
-(	Z
-za	Sa
-20	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-unija	Ncfsn
-po	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-najbolj	Rgs
-zmanjšala	Vmep-sf
-uvoz	Ncmsan
-iz	Sg
-Rusije	Npfsg
-(	Z
-za	Sa
-43	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Norveške	Npfsg
-(	Z
-za	Sa
-31	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Japonske	Npfsg
-(	Z
-za	Sa
-29	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Brazilije	Npfsg
-(	Z
-za	Sa
-28	Mdc
-odstotkov	Ncmpg
-)	Z
-in	Cc
-Turčije	Npfsg
-(	Z
-za	Sa
-26	Mdc
-odstotkov	Ncmpg
-)	Z
-.	Z
-Presežek	Ncmsan
-najbolj	Rgs
-zmanjšan	Appmsnn
-z	Sg
-ZDA	Npfpg
-,	Z
-primanjkljaj	Ncmsn
-s	Si
-Kitajsko	Npfsi
-Presežek	Ncmsn
-se	Px------y
-je	Va-r3s-n
-v	Sl
-istem	Pi-nsl
-časovnem	Agpnsl
-obdobju	Ncnsl
-zmanjšal	Vmep-sm
-v	Sl
-trgovini	Ncfsl
-z	Si
-ZDA	Npfpi
-,	Z
-največjo	Agsfsa
-trgovinsko	Agpfsa
-partnerico	Ncfsa
-EU	Npfsn
-,	Z
-in	Cc
-sicer	Q
-za	Sa
-39	Mdc
-odstotkov	Ncmpg
-na	Sa
-26,1	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-ter	Cc
-s	Si
-Švico	Npfsi
-(	Z
-za	Sa
-30	Mdc
-odstotkov	Ncmpg
-na	Sa
-8,6	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-)	Z
-.	Z
-Hkrati	Rgp
-je	Va-r3s-n
-EU	Npfsn
-zmanjšala	Vmep-sf
-primanjkljaj	Ncmsan
-v	Sl
-trgovanju	Ncnsl
-s	Si
-Kitajsko	Npfsi
-(	Z
-za	Sa
-16	Mdc
-odstotkov	Ncmpg
-na	Sa
-86,4	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-)	Z
-,	Z
-Rusijo	Npfsa
-(	Z
-za	Sa
-47	Mdc
-odstotkov	Ncmpg
-na	Sa
-29,1	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-)	Z
-,	Z
-Norveško	Npfsa
-(	Z
-za	Sa
-40	Mdc
-odstotkov	Ncmpg
-na	Sa
-21,9	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-)	Z
-in	Cc
-Japonsko	Npfsa
-(	Z
-za	Sa
-43	Mdc
-odstotkov	Ncmpg
-na	Sa
-13	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-)	Z
-.	Z
+token	tag	lemma
+Države	mte:Ncfpn	država
+članice	mte:Ncfpn	članica
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+so	mte:Va-r3p-n	biti
+septembra	mte:Ncmsg	september
+v	mte:Sl	v
+trgovini	mte:Ncfsl	trgovina
+s	mte:Si	z
+preostalim	mte:Appmsi	preostal
+svetom	mte:Ncmsi	svet
+zabeležile	mte:Vmep-pf	zabeležiti
+3,7	mte:Mdc	3,7
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+presežka	mte:Ncmsg	presežek
+Območje	mte:Ncnsn	območje
+evra	mte:Ncmsg	evro
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+avgustovskem	mte:Agpmsl	avgustovski
+primanjkljaju	mte:Ncmsl	primanjkljaj
+septembra	mte:Ncmsg	september
+zopet	mte:Rgp	zopet
+zabeležilo	mte:Vmep-sn	zabeležiti
+zunanjetrgovinski	mte:Agpmsay	zunanjetrgovinski
+presežek	mte:Ncmsan	presežek
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+3,7	mte:Mdc	3,7
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Celotna	mte:Agpfsn	celoten
+EU	mte:Npfsn	EU
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+julija	mte:Ncmsg	julij
+zabeležila	mte:Vmep-sf	zabeležiti
+11,2	mte:Mdc	11,2
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+primanjkljaja	mte:Ncmsg	primanjkljaj
+.	mte:Z	.
+Izvoz	mte:Ncmsn	izvoz
+septembra	mte:Ncmsg	september
+večji	mte:Agcmsny	velik
+za	mte:Sa	za
+5,5	mte:Mdc	5,5
+,	mte:Z	,
+izvoz	mte:Ncmsan	izvoz
+za	mte:Sa	za
+1,1	mte:Mdc	1,1
+odstotka	mte:Ncmsg	odstotek
+Septembra	mte:Ncmsg	september
+letos	mte:Rgp	letos
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+glede	mte:Rgp	glede
+na	mte:Sa	na
+mesec	mte:Ncmsan	mesec
+prej	mte:Rgc	prej
+izvoz	mte:Ncmsn	izvoz
+povečal	mte:Vmep-sm	povečati
+za	mte:Sa	za
+5,5	mte:Mdc	5,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+uvoz	mte:Ncmsn	uvoz
+pa	mte:Cc	pa
+za	mte:Sa	za
+1,1	mte:Mdc	1,1
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Podatki	mte:Ncmpn	podatek
+so	mte:Va-r3p-n	biti
+presenetljivi	mte:Agpmpn	presenetljiv
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+v	mte:Sl	v
+luči	mte:Ncfsl	luč
+krepitve	mte:Ncfsg	krepitev
+evra	mte:Ncmsg	evro
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+ameriškim	mte:Agpmsi	ameriški
+dolarjem	mte:Ncmsi	dolar
+.	mte:Z	.
+Podatki	mte:Ncmpi	podatek
+o	mte:Sl	o
+izraziti	mte:Vmen	izraziti
+rasti	mte:Ncfsl	rast
+izvoza	mte:Ncmsg	izvoz
+potrjujejo	mte:Vmpr3p	potrjevati
+tudi	mte:Q	tudi
+trditve	mte:Ncfpa	trditev
+številnih	mte:Agpmpg	številen
+poznavalcev	mte:Ncmpg	poznavalec
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vrnitev	mte:Ncfsn	vrnitev
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+k	mte:Sd	k
+rasti	mte:Ncfsd	rast
+v	mte:Sl	v
+tretjem	mte:Mlonsl	tretji
+letošnjem	mte:Agpnsl	letošnji
+četrtletju	mte:Ncnsl	četrtletje
+predvsem	mte:Q	predvsem
+posledica	mte:Ncfsn	posledica
+krepitve	mte:Ncfsg	krepitev
+izvozne	mte:Agpfsg	izvozen
+dejavnosti	mte:Ncfsg	dejavnost
+in	mte:Cc	in
+manj	mte:Rgc	manj
+okrevanja	mte:Ncnsg	okrevanje
+domačega	mte:Agpnsg	domač
+povpraševanja	mte:Ncnsg	povpraševanje
+.	mte:Z	.
+V	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+septembra	mte:Ncmsg	september
+11,2	mte:Mdc	11,2
+milijarde	mte:Ncfsg	milijarda
+presežka	mte:Ncmsg	presežek
+Celotna	mte:Agpfsn	celoten
+EU	mte:Npfsn	EU
+je	mte:Va-r3s-n	biti
+septembra	mte:Ncmsg	september
+letos	mte:Rgp	letos
+beležila	mte:Vmpp-sf	beležiti
+11,2	mte:Mdc	11,2
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+zunanjetrgovinskega	mte:Agpmsg	zunanjetrgovinski
+presežka	mte:Ncmsg	presežek
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+septembra	mte:Ncmsg	september
+lani	mte:Rgp	lani
+ta	mte:Pd-msn	ta
+znašal	mte:Vmpp-sm	znašati
+24,5	mte:Mdc	24,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Avgusta	mte:Npmsg	Avgusta
+letos	mte:Rgp	letos
+je	mte:Va-r3s-n	biti
+primanjkljaj	mte:Ncmsn	primanjkljaj
+znašal	mte:Vmpp-sm	znašati
+12	mte:Mdc	12
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+avgusta	mte:Ncmsg	avgust
+lani	mte:Rgp	lani
+pa	mte:Cc	pa
+28,5	mte:Mdc	28,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Izvoz	mte:Ncmsn	izvoz
+sedemindvajseterice	mte:Ncfsg	sedemindvajseterica
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+septembra	mte:Ncmsg	september
+na	mte:Sl	na
+mesečni	mte:Agpfsl	mesečen
+ravni	mte:Ncfsl	raven
+povečal	mte:Vmep-sm	povečati
+za	mte:Sa	za
+3,4	mte:Mdc	3,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+uvoz	mte:Ncmsn	uvoz
+pa	mte:Cc	pa
+za	mte:Sa	za
+2,2	mte:Mdc	2,2
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+EU	mte:Npfsg	EU
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+obdobju	mte:Ncnsl	obdobje
+od	mte:Sg	od
+januarja	mte:Ncmsg	januar
+do	mte:Sg	do
+avgusta	mte:Ncmsg	avgust
+letos	mte:Rgp	letos
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+enakim	mte:Pi-nsi	enak
+obdobjem	mte:Ncnsi	obdobje
+lani	mte:Rgp	lani
+zabeležila	mte:Vmep-sf	zabeležiti
+padec	mte:Ncmsan	padec
+trgovinskih	mte:Agpmpg	trgovinski
+tokov	mte:Ncmpg	tok
+z	mte:Si	z
+vsemi	mte:Pg-fpi	ves
+največjimi	mte:Agsfpi	velik
+trgovinskimi	mte:Agpfpi	trgovinski
+partnericami	mte:Ncfpi	partnerica
+.	mte:Z	.
+Trgovanje	mte:Ncnsa	trgovanje
+najbolj	mte:Rgs	najbolj
+zmanjšano	mte:Appnsa	zmanjšan
+z	mte:Si	z
+Rusijo	mte:Npfsi	Rusija
+Izvoz	mte:Ncmsn	izvoz
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+najbolj	mte:Rgs	najbolj
+zmanjšal	mte:Vmep-sm	zmanjšati
+v	mte:Sl	v
+trgovini	mte:Ncfsl	trgovina
+z	mte:Si	z
+Rusijo	mte:Npfsi	Rusija
+(	mte:Z	(
+za	mte:Sa	za
+40	mte:Mdc	40
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Turčijo	mte:Npfsi	Turčija
+(	mte:Z	(
+za	mte:Sa	za
+28	mte:Mdc	28
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Južno	mte:Agpfsi	južen
+Korejo	mte:Npfsi	Korej
+in	mte:Cc	in
+Brazilijo	mte:Npfsi	Brazilija
+(	mte:Z	(
+za	mte:Sa	za
+23	mte:Mdc	23
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Norveško	mte:Npfsi	Norveška
+in	mte:Cc	in
+ZDA	mte:Npfpg	ZDA
+(	mte:Z	(
+za	mte:Sa	za
+20	mte:Mdc	20
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+unija	mte:Ncfsn	unija
+po	mte:Sl	po
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+najbolj	mte:Rgs	najbolj
+zmanjšala	mte:Vmep-sf	zmanjšati
+uvoz	mte:Ncmsan	uvoz
+iz	mte:Sg	iz
+Rusije	mte:Npfsg	Rusija
+(	mte:Z	(
+za	mte:Sa	za
+43	mte:Mdc	43
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Norveške	mte:Npfsg	Norveška
+(	mte:Z	(
+za	mte:Sa	za
+31	mte:Mdc	31
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Japonske	mte:Npfsg	Japonska
+(	mte:Z	(
+za	mte:Sa	za
+29	mte:Mdc	29
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Brazilije	mte:Npfsg	Brazilija
+(	mte:Z	(
+za	mte:Sa	za
+28	mte:Mdc	28
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+in	mte:Cc	in
+Turčije	mte:Npfsg	Turčija
+(	mte:Z	(
+za	mte:Sa	za
+26	mte:Mdc	26
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+.	mte:Z	.
+Presežek	mte:Ncmsan	presežek
+najbolj	mte:Rgs	najbolj
+zmanjšan	mte:Appmsnn	zmanjšan
+z	mte:Sg	z
+ZDA	mte:Npfpg	ZDA
+,	mte:Z	,
+primanjkljaj	mte:Ncmsn	primanjkljaj
+s	mte:Si	z
+Kitajsko	mte:Npfsi	Kitajska
+Presežek	mte:Ncmsn	presežek
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+istem	mte:Pi-nsl	isti
+časovnem	mte:Agpnsl	časoven
+obdobju	mte:Ncnsl	obdobje
+zmanjšal	mte:Vmep-sm	zmanjšati
+v	mte:Sl	v
+trgovini	mte:Ncfsl	trgovina
+z	mte:Si	z
+ZDA	mte:Npfpi	ZDA
+,	mte:Z	,
+največjo	mte:Agsfsa	velik
+trgovinsko	mte:Agpfsa	trgovinski
+partnerico	mte:Ncfsa	partnerica
+EU	mte:Npfsn	EU
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+za	mte:Sa	za
+39	mte:Mdc	39
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+26,1	mte:Mdc	26,1
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ter	mte:Cc	ter
+s	mte:Si	z
+Švico	mte:Npfsi	Švico
+(	mte:Z	(
+za	mte:Sa	za
+30	mte:Mdc	30
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+8,6	mte:Mdc	8,6
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+.	mte:Z	.
+Hkrati	mte:Rgp	hkrati
+je	mte:Va-r3s-n	biti
+EU	mte:Npfsn	EU
+zmanjšala	mte:Vmep-sf	zmanjšati
+primanjkljaj	mte:Ncmsan	primanjkljaj
+v	mte:Sl	v
+trgovanju	mte:Ncnsl	trgovanje
+s	mte:Si	z
+Kitajsko	mte:Npfsi	Kitajska
+(	mte:Z	(
+za	mte:Sa	za
+16	mte:Mdc	16
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+86,4	mte:Mdc	86,4
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+,	mte:Z	,
+Rusijo	mte:Npfsa	Rusija
+(	mte:Z	(
+za	mte:Sa	za
+47	mte:Mdc	47
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+29,1	mte:Mdc	29,1
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+,	mte:Z	,
+Norveško	mte:Npfsa	Norveška
+(	mte:Z	(
+za	mte:Sa	za
+40	mte:Mdc	40
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+21,9	mte:Mdc	21,9
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+in	mte:Cc	in
+Japonsko	mte:Npfsa	Japonska
+(	mte:Z	(
+za	mte:Sa	za
+43	mte:Mdc	43
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+13	mte:Mdc	13
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+.	mte:Z	.
+Slovenska	mte:Agpfsn	slovenski
+bilanca	mte:Ncfsn	bilance
+v	mte:Sl	v
+sedmih	mte:Mlc-pl	sedem
+mesecih	mte:Ncmpl	mesec
+izravnana	mte:Appfsn	izravnan
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+sedmih	mte:Mlc-pl	sedem
+mesecih	mte:Ncmpl	mesec
+letos	mte:Rgp	letos
+zabeležila	mte:Vmep-sf	zabeležiti
+izravnano	mte:Appfsa	izravnan
+zunanjetrgovinsko	mte:Agpfsa	zunanjetrgovinski
+bilanco	mte:Ncfsa	bilanca
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+enakem	mte:Pi-nsl	enak
+obdobju	mte:Ncnsl	obdobje
+lani	mte:Rgp	lani
+beležila	mte:Vmpp-sf	beležiti
+1,2	mte:Mdc	1,2
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+primanjkljaja	mte:Ncmsg	primanjkljaj

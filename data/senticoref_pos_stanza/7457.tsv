@@ -1,235 +1,255 @@
-token	tag
-Od	Sg
-prejšnjega	Agpmsg
-tedna	Ncmsg
-zaposlen	Appmsnn
-pri	Sl
-SCT	Npmsl
-Holdingu	Ncmsl
-Ivan	Npmsn
-Zidar	Npmsn
-je	Va-r3s-n
-postal	Vmep-sm
-edini	Agpmsny
-delničar	Ncmsn
-družbe	Ncfsg
-SCT	Npmsn
-Holding	Npmsn
-,	Z
-na	Sa
-katero	Pq-fsa
-je	Va-r3s-n
-pred	Si
-ali	Cc
-med	Si
-neuspelo	Agpfsi
-prisilno	Agpfsi
-poravnavo	Ncfsi
-prenesel	Vmep-sm
-nekatere	Pi-mpa
-zdrave	Agpmpa
-dele	Ncmpa
-SCT	Npmsn
-.	Z
-Nekdanja	Agpmdn
-člana	Ncmdn
-upravnega	Agpmsg
-odbora	Ncmsg
-SCT	Npmsn
--	Z
-ja	Q
-Aleksander	Npmsn
-Meze	Npmsn
-in	Cc
-Janez	Npmsn
-Jamnik	Npmsn
-sta	Va-r3d-n
-svoja	Px-mda
-12	Mdc
--	Z
-odstotna	Agpmdn
-deleža	Ncmdn
-v	Sl
-družbi	Ncfsl
-namreč	Cc
-prodala	Vmep-dm
-za	Sa
-125.000	Mdc
-evrov	Ncmpg
-,	Z
-Zidar	Npmsn
-pa	Cc
-načrtuje	Vmpr3s
-nove	Agpmpa
-posle	Ncmpa
-na	Sl
-Balkanu	Npmsl
-,	Z
-pišejo	Vmpr3p
-današnji	Agpmpn
-časniki	Ncmpn
-.	Z
-Družba	Ncfsn
-SCT	Npmsn
-Holding	Npmsn
-je	Va-r3s-n
-po	Sl
-pisanju	Ncnsl
-Dnevnika	Ncmsg
-njuna	Ps3mdad
-deleža	Ncmdg
-odkupila	Vmep-sf
-kar	Rgp
-sama	Agpfsn
-,	Z
-Zidar	Npmsn
-pa	Cc
-ostaja	Vmpr3s
-lastnik	Ncmsn
-76	Mdc
-odstotkov	Ncmpg
-omenjene	Appfsg
-družbe	Ncfsg
-.	Z
-Prek	Sg
-SCT	Npmsg
-Holdinga	Ncmsg
-tako	Rgp
-Zidar	Npmsn
-lastniško	Rgp
-obvladuje	Vmpr3s
-Tovarno	Ncfsa
-kovinske	Agpfsg
-opreme	Ncfsg
-TKO	Rgp
-iz	Sg
-Murske	Agpfsg
-Sobote	Npfsg
-,	Z
-ki	Cs
-izdeluje	Vmpr3s
-sestavne	Agpmpa
-dele	Ncmpa
-za	Sa
-gradbeno	Agpfsa
-mehanizacijo	Ncfsa
-,	Z
-veliko	Agpfsa
-večino	Ncfsa
-prometa	Ncmsg
-pa	Cc
-ustvarijo	Vmer3p
-s	Si
-tujimi	Agpmpi
-kupci	Ncmpi
-.	Z
-SCT	Npmsn
-Holding	Npmsn
-ima	Vmpr3s-n
-v	Sl
-lasti	Ncfsl
-tudi	Q
-51	Mdc
-odstotkov	Ncmpg
-podjetja	Ncnsg
-SCT	Npmsn
--	Z
-Porr	Npmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-z	Si
-avstrijskim	Agpmsi
-partnerjem	Ncmsi
-februarja	Ncmsg
-letos	Rgp
-ustanovil	Vmep-sm
-za	Sa
-kandidiranje	Ncnsa
-na	Sl
-razpisih	Ncmpl
-za	Sa
-gradnjo	Ncfsa
-železnic	Ncfpg
-.	Z
-So	Va-r3p-n
-pa	Cc
-Zidarju	Npmsd
-za	Sa
-zdaj	Rgp
-propadli	Vmep-pm
-načrti	Ncmpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-imel	Vmpp-sm
-z	Si
-nemškim	Agpnsi
-podjetjem	Ncnsi
-ISC	Npmsn
-Handelsgesselschaft	Npmsg
-.	Z
-Tega	Pd-nsg
-je	Va-r3s-n
-decembra	Ncmsg
-lani	Rgp
-iz	Sg
-SCT	Npfsg
-prenesel	Vmep-sm
-na	Sa
-SCT	Npmsan
-Holding	Npmsan
-,	Z
-vendar	Cc
-pa	Cc
-je	Va-r3s-n
-iz	Sg
-nemškega	Agpmsg
-poslovnega	Agpmsg
-registra	Ncmsg
-razvidno	Agpnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-družba	Ncfsn
-,	Z
-prek	Sg
-katere	Pq-fsg
-je	Va-r3s-n
-SCT	Npmsn
-več	Rgc
-desetletij	Ncnpg
-nabavljal	Vmpp-sm
-materiale	Ncmpa
-in	Cc
-mehanizacijo	Ncfsa
-,	Z
-aprila	Ncmsg
-letos	Rgp
-ponovno	Rgp
-prešla	Vmep-sf
-v	Sa
-last	Ncfsa
-SCT	Npmsg
-,	Z
-še	Q
-poroča	Vmpr3s
-Dnevnik	Ncmsn
-.	Z
-Po	Sl
-pisanju	Ncnsl
-Financ	Ncfpg
-pa	Cc
-je	Va-r3s-n
-Zidar	Npmsn
-od	Sg
-prejšnjega	Agpmsg
-tedna	Ncmsg
-tudi	Q
-zaposlen	Appmsnn
-na	Sl
-SCT	Npmsl
-Holdingu	Ncmsl
-.	Z
+token	tag	lemma
+Od	mte:Sg	od
+prejšnjega	mte:Agpmsg	prejšnji
+tedna	mte:Ncmsg	teden
+zaposlen	mte:Appmsnn	zaposlen
+pri	mte:Sl	pri
+SCT	mte:Npmsl	SCT
+Holdingu	mte:Ncmsl	holding
+Ivan	mte:Npmsn	Ivan
+Zidar	mte:Npmsn	Zidar
+je	mte:Va-r3s-n	biti
+postal	mte:Vmep-sm	postati
+edini	mte:Agpmsny	edin
+delničar	mte:Ncmsn	delničar
+družbe	mte:Ncfsg	družba
+SCT	mte:Npmsn	SCT
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+na	mte:Sa	na
+katero	mte:Pq-fsa	kateri
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+ali	mte:Cc	ali
+med	mte:Si	med
+neuspelo	mte:Agpfsi	neuspel
+prisilno	mte:Agpfsi	prisilen
+poravnavo	mte:Ncfsi	poravnava
+prenesel	mte:Vmep-sm	prenesti
+nekatere	mte:Pi-mpa	nekateri
+zdrave	mte:Agpmpa	zdrav
+dele	mte:Ncmpa	del
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Nekdanja	mte:Agpmdn	nekdanji
+člana	mte:Ncmdn	član
+upravnega	mte:Agpmsg	upraven
+odbora	mte:Ncmsg	odbor
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+ja	mte:Q	ja
+Aleksander	mte:Npmsn	Aleksander
+Meze	mte:Npmsn	Meze
+in	mte:Cc	in
+Janez	mte:Npmsn	Janez
+Jamnik	mte:Npmsn	Jamnik
+sta	mte:Va-r3d-n	biti
+svoja	mte:Px-mda	svoj
+12	mte:Mdc	12
+-	mte:Z	-
+odstotna	mte:Agpmdn	odstoten
+deleža	mte:Ncmdn	delež
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+namreč	mte:Cc	namreč
+prodala	mte:Vmep-dm	prodati
+za	mte:Sa	za
+125.000	mte:Mdc	125.000
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+Zidar	mte:Npmsn	Zidar
+pa	mte:Cc	pa
+načrtuje	mte:Vmpr3s	načrtovati
+nove	mte:Agpmpa	nov
+posle	mte:Ncmpa	posel
+na	mte:Sl	na
+Balkanu	mte:Npmsl	Balkan
+,	mte:Z	,
+pišejo	mte:Vmpr3p	pisati
+današnji	mte:Agpmpn	današnji
+časniki	mte:Ncmpn	časnik
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+SCT	mte:Npmsn	SCT
+Holding	mte:Npmsn	holding
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Dnevnika	mte:Ncmsg	dnevnik
+njuna	mte:Ps3mdad	njun
+deleža	mte:Ncmdg	delež
+odkupila	mte:Vmep-sf	odkupiti
+kar	mte:Rgp	kar
+sama	mte:Agpfsn	sam
+,	mte:Z	,
+Zidar	mte:Npmsn	Zidar
+pa	mte:Cc	pa
+ostaja	mte:Vmpr3s	ostajati
+lastnik	mte:Ncmsn	lastnik
+76	mte:Mdc	76
+odstotkov	mte:Ncmpg	odstotek
+omenjene	mte:Appfsg	omenjen
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Prek	mte:Sg	prek
+SCT	mte:Npmsg	SCT
+Holdinga	mte:Ncmsg	holdinga
+tako	mte:Rgp	tako
+Zidar	mte:Npmsn	Zidar
+lastniško	mte:Rgp	lastniško
+obvladuje	mte:Vmpr3s	obvladovati
+Tovarno	mte:Ncfsa	tovarna
+kovinske	mte:Agpfsg	kovinski
+opreme	mte:Ncfsg	oprema
+TKO	mte:Rgp	tko
+iz	mte:Sg	iz
+Murske	mte:Agpfsg	murski
+Sobote	mte:Npfsg	Sobota
+,	mte:Z	,
+ki	mte:Cs	ki
+izdeluje	mte:Vmpr3s	izdelovati
+sestavne	mte:Agpmpa	sestaven
+dele	mte:Ncmpa	del
+za	mte:Sa	za
+gradbeno	mte:Agpfsa	gradben
+mehanizacijo	mte:Ncfsa	mehanizacija
+,	mte:Z	,
+veliko	mte:Agpfsa	velik
+večino	mte:Ncfsa	večina
+prometa	mte:Ncmsg	promet
+pa	mte:Cc	pa
+ustvarijo	mte:Vmer3p	ustvariti
+s	mte:Si	z
+tujimi	mte:Agpmpi	tuj
+kupci	mte:Ncmpi	kupec
+.	mte:Z	.
+SCT	mte:Npmsn	SCT
+Holding	mte:Npmsn	holding
+ima	mte:Vmpr3s-n	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+tudi	mte:Q	tudi
+51	mte:Mdc	51
+odstotkov	mte:Ncmpg	odstotek
+podjetja	mte:Ncnsg	podjetje
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+Porr	mte:Npmsn	Porr
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+avstrijskim	mte:Agpmsi	avstrijski
+partnerjem	mte:Ncmsi	partner
+februarja	mte:Ncmsg	februar
+letos	mte:Rgp	letos
+ustanovil	mte:Vmep-sm	ustanoviti
+za	mte:Sa	za
+kandidiranje	mte:Ncnsa	kandidiranje
+na	mte:Sl	na
+razpisih	mte:Ncmpl	razpis
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+železnic	mte:Ncfpg	železnica
+.	mte:Z	.
+So	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+Zidarju	mte:Npmsd	Zidar
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+propadli	mte:Vmep-pm	propasti
+načrti	mte:Ncmpn	načrt
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+z	mte:Si	z
+nemškim	mte:Agpnsi	nemški
+podjetjem	mte:Ncnsi	podjetje
+ISC	mte:Npmsn	ISC
+Handelsgesselschaft	mte:Npmsg	Handelsgesselschaft
+.	mte:Z	.
+Tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+iz	mte:Sg	iz
+SCT	mte:Npfsg	SCT
+prenesel	mte:Vmep-sm	prenesti
+na	mte:Sa	na
+SCT	mte:Npmsan	SCT
+Holding	mte:Npmsan	holding
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+iz	mte:Sg	iz
+nemškega	mte:Agpmsg	nemški
+poslovnega	mte:Agpmsg	posloven
+registra	mte:Ncmsg	register
+razvidno	mte:Agpnsn	razviden
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+,	mte:Z	,
+prek	mte:Sg	prek
+katere	mte:Pq-fsg	kateri
+je	mte:Va-r3s-n	biti
+SCT	mte:Npmsn	SCT
+več	mte:Rgc	več
+desetletij	mte:Ncnpg	desetletje
+nabavljal	mte:Vmpp-sm	nabavljati
+materiale	mte:Ncmpa	material
+in	mte:Cc	in
+mehanizacijo	mte:Ncfsa	mehanizacija
+,	mte:Z	,
+aprila	mte:Ncmsg	april
+letos	mte:Rgp	letos
+ponovno	mte:Rgp	ponovno
+prešla	mte:Vmep-sf	preiti
+v	mte:Sa	v
+last	mte:Ncfsa	last
+SCT	mte:Npmsg	SCT
+,	mte:Z	,
+še	mte:Q	še
+poroča	mte:Vmpr3s	poročati
+Dnevnik	mte:Ncmsn	dnevnik
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Financ	mte:Ncfpg	finance
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Zidar	mte:Npmsn	Zidar
+od	mte:Sg	od
+prejšnjega	mte:Agpmsg	prejšnji
+tedna	mte:Ncmsg	teden
+tudi	mte:Q	tudi
+zaposlen	mte:Appmsnn	zaposlen
+na	mte:Sl	na
+SCT	mte:Npmsl	SCT
+Holdingu	mte:Ncmsl	holding
+.	mte:Z	.
+Iz	mte:Sg	iz
+neuradnih	mte:Agpmpg	neuraden
+virov	mte:Ncmpg	vir
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+izvedeli	mte:Vmep-pm	izvedeti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+Zidar	mte:Npmsn	Zidar
+dogovorjen	mte:Appmsnn	dogovorjen
+že	mte:Q	že
+za	mte:Sa	za
+več	mte:Rgc	več
+poslov	mte:Ncmpg	posel
+v	mte:Sl	v
+BiH	mte:Npfsl	Bih
+in	mte:Cc	in
+Srbiji	mte:Npfsl	Srbija

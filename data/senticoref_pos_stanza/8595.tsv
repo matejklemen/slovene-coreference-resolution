@@ -1,311 +1,345 @@
-token	tag
-Intenzivne	Agpfpn
-padavine	Ncfpn
-in	Cc
-močan	Agpmsan
-veter	Ncmsan
-so	Va-r3p-n
-predvsem	Q
-v	Sl
-zahodni	Agpfsl
-Sloveniji	Npfsl
-povzročili	Vmep-pm
-številne	Agpfpa
-nevšečnosti	Ncfpa
-.	Z
-V	Sl
-Bohinjski	Agpfsl
-dolini	Ncfsl
-se	Px------y
-je	Va-r3s-n
-na	Sa
-cesto	Ncfsa
-podrl	Vmep-sm
-celo	Q
-kozolec	Ncmsn
-.	Z
-Vreme.net	Mdc
-Podrobno	Agpfsa
-vremensko	Agpfsa
-napoved	Ncfsa
-za	Sa
-danes	Rgp
-in	Cc
-prihodnje	Agpmpa
-dni	Ncmpa
-si	Px---d--y
-lahko	Rgp
-preberete	Vmer2p
-na	Sl
-našem	Ps1nslp
-vremenskem	Agpnsl
-portalu	Ncnsl
-,	Z
-dostopnem	Agpnsl
-na	Sl
-tej	Pd-fsl
-povezavi	Ncfsl
-.	Z
-V	Sl
-noči	Ncfsl
-s	Sg
-srede	Ncfsg
-na	Sa
-četrtek	Ncmsan
-se	Px------y
-je	Va-r3s-n
-zaradi	Sg
-povišanega	Appnsg
-plimovanja	Ncnsg
-morja	Ncnsg
-in	Cc
-okrepljenega	Appmsg
-jugovzhodnega	Agpmsg
-vetra	Ncmsg
-gladina	Ncfsn
-morja	Ncnsg
-dvignila	Vmep-sf
-do	Sg
-samega	Agpmsg
-roba	Ncmsg
-črte	Ncfsg
-prelivanja	Ncnsg
-,	Z
-vendar	Cc
-je	Va-r3s-n
-nato	Rgp
-morje	Ncnsa
-začelo	Vmep-sn
-upadati	Vmpn
-.	Z
-V	Sl
-Kranjski	Agpfsl
-Gori	Npfsl
-so	Va-r3p-n
-gasilci	Ncmpn
-iz	Sg
-prostorov	Ncmpg
-stanovanjske	Agpfsg
-hiše	Ncfsg
-prečrpali	Vmep-pm
-meteorno	Agpfsa
-vodo	Ncfsa
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-zalila	Vmep-sf
-tudi	Q
-zunanje	Agpfpa
-površine	Ncfpa
-podjetja	Ncnsg
-Avtoprevoz	Npmsn
-Tolmin	Npmsn
-.	Z
-Veter	Ncmsn
-ruval	Ncmsn
-drevesa	Ncnsg
-Še	Q
-več	Rgc
-težav	Ncfpg
-kot	Cs
-meteorne	Agpfsg
-vode	Ncfsg
-je	Va-r3s-n
-povzročil	Vmep-sm
-močan	Agpmsan
-veter	Ncmsan
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-sunkih	Ncmpl
-dosegel	Vmep-sm
-hitrost	Ncfsa
-prek	Sg
-100	Mdc
-kilometrov	Ncmpg
-na	Sa
-uro	Ncfsa
-.	Z
-V	Sl
-naselju	Ncnsl
-Parecag	Npmsn
-v	Sl
-Občini	Ncfsl
-Piran	Npmsn
-je	Va-r3s-n
-veter	Ncmsnn
-z	Sg
-drevesa	Ncnsg
-odlomil	Vmep-sm
-vejo	Ncfsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-nato	Rgp
-ovirala	Vmpp-sf
-promet	Ncmsan
-na	Sl
-cesti	Ncfsl
-.	Z
-Podrto	Appnsn
-drevo	Ncnsn
-je	Va-r3s-n
-oviralo	Vmpp-sn
-promet	Ncmsan
-tudi	Q
-na	Sl
-cesti	Ncfsl
-Šmarje	Npfpn
-–	Z
-Koper	Npmsn
-in	Cc
-na	Sl
-cesti	Ncfsl
-med	Si
-Kranjsko	Agpfsi
-Goro	Npfsi
-in	Cc
-Korenskim	Agpnsi
-sedlom	Ncnsi
-.	Z
-V	Sl
-naselju	Ncnsl
-Plužna	Npfsn
-pri	Sl
-Bovcu	Npmsl
-se	Px------y
-je	Va-r3s-n
-na	Sa
-cesto	Ncfsa
-podrl	Vmep-sm
-telefonski	Agpfsny
-drog	Ncfsn
-.	Z
-Zgodaj	Rgp
-zjutraj	Rgp
-v	Sa
-petek	Ncmsan
-se	Px------y
-je	Va-r3s-n
-drevo	Ncnsn
-podrlo	Vmep-sn
-še	Q
-na	Sa
-cesto	Ncfsa
-,	Z
-ki	Cs
-pelje	Vmpr3s
-iz	Sg
-Javorniškega	Agpmsg
-Rovta	Npmsg
-na	Sl
-Jesenicah	Npfpl
-.	Z
-V	Sl
-Bohinju	Npmsl
-se	Px------y
-je	Va-r3s-n
-na	Sa
-cesto	Ncfsa
-,	Z
-ki	Cs
-vodi	Vmpr3s
-skozi	Sa
-Srednjo	Agpfsa
-vas	Ncfsa
-,	Z
-podrl	Vmep-sm
-kozolec	Ncmsan
-.	Z
-O	Sl
-oviri	Ncfsl
-na	Sl
-cesti	Ncfsl
-poročajo	Vmpr3p
-še	Q
-iz	Sg
-Trbovelj	Npfpg
-,	Z
-kjer	Cs
-se	Px------y
-je	Va-r3s-n
-na	Sa
-cesto	Ncfsa
-v	Sl
-bližini	Ncfsl
-Bolnišnice	Ncfsg
-Klek	Npfsn
-podrlo	Vmep-sn
-drevo	Ncnsn
-.	Z
-Vodotoki	Ncmpn
-zelo	Rgp
-visoko	Agpfsn
-Agencija	Ncfsn
-RS	Npfsg
-za	Sa
-okolje	Ncnsa
-(	Z
-Arso	Npmsn
-)	Z
-poroča	Vmpr3s
-,	Z
-da	Cs
-so	Va-r3p-n
-v	Sl
-noči	Ncfsl
-na	Sa
-četrtek	Ncmsan
-povsod	Rgp
-po	Sl
-državi	Ncfsl
-narasle	Vmep-pf
-reke	Ncfpn
-,	Z
-še	Q
-najbolj	Rgs
-v	Sl
-zgornjem	Agpnsl
-Posočju	Npnsl
-,	Z
-Sava	Agpfsn
-Bohinjka	Npfsn
-s	Si
-pritoki	Ncmpi
-ter	Cc
-nekateri	Pi-mpn
-hudourniki	Ncmpi
-v	Sl
-dolini	Ncfsl
-Planice	Npfsg
-in	Cc
-reka	Ncfsn
-Drava	Npfsn
-.	Z
-Opozorilne	Agpfsg
-vrednosti	Ncfpn
-pretokov	Ncmpg
-so	Va-r3p-n
-presegle	Vmep-pf
-:	Z
-Soča	Npfsn
-v	Sl
-Logu	Npmsl
-Čezsoškem	Npnsl
-(	Z
-320	Mdc
-kubičnih	Agpmpg
-metrov	Ncmpg
-na	Sa
-sekundo	Ncfsa
-,	Z
-še	Q
-narašča	Vmpr3s
-)	Z
-,	Z
-Sava	Npfsn
-Bohinjka	Npfsn
-pri	Sl
-Sv	Npfsl
-.	Z
+token	tag	lemma
+Intenzivne	mte:Agpfpn	intenziven
+padavine	mte:Ncfpn	padavina
+in	mte:Cc	in
+močan	mte:Agpmsan	močen
+veter	mte:Ncmsan	veter
+so	mte:Va-r3p-n	biti
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+zahodni	mte:Agpfsl	zahoden
+Sloveniji	mte:Npfsl	Slovenija
+povzročili	mte:Vmep-pm	povzročiti
+številne	mte:Agpfpa	številen
+nevšečnosti	mte:Ncfpa	nevšečnost
+.	mte:Z	.
+V	mte:Sl	v
+Bohinjski	mte:Agpfsl	bohinjski
+dolini	mte:Ncfsl	dolina
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+cesto	mte:Ncfsa	cesta
+podrl	mte:Vmep-sm	podreti
+celo	mte:Q	celo
+kozolec	mte:Ncmsn	kozolec
+.	mte:Z	.
+Vreme.net	mte:Mdc	vreme.net
+Podrobno	mte:Agpfsa	podrobno
+vremensko	mte:Agpfsa	vremenski
+napoved	mte:Ncfsa	napoved
+za	mte:Sa	za
+danes	mte:Rgp	danes
+in	mte:Cc	in
+prihodnje	mte:Agpmpa	prihodnji
+dni	mte:Ncmpa	dan
+si	mte:Px---d--y	se
+lahko	mte:Rgp	lahko
+preberete	mte:Vmer2p	prebrati
+na	mte:Sl	na
+našem	mte:Ps1nslp	naš
+vremenskem	mte:Agpnsl	vremenski
+portalu	mte:Ncnsl	portal
+,	mte:Z	,
+dostopnem	mte:Agpnsl	dostopen
+na	mte:Sl	na
+tej	mte:Pd-fsl	ta
+povezavi	mte:Ncfsl	povezava
+.	mte:Z	.
+V	mte:Sl	v
+noči	mte:Ncfsl	noč
+s	mte:Sg	z
+srede	mte:Ncfsg	sreda
+na	mte:Sa	na
+četrtek	mte:Ncmsan	četrtek
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+povišanega	mte:Appnsg	povišan
+plimovanja	mte:Ncnsg	plimovanje
+morja	mte:Ncnsg	morje
+in	mte:Cc	in
+okrepljenega	mte:Appmsg	okrepljen
+jugovzhodnega	mte:Agpmsg	jugovzhoden
+vetra	mte:Ncmsg	veter
+gladina	mte:Ncfsn	gladina
+morja	mte:Ncnsg	morje
+dvignila	mte:Vmep-sf	dvigniti
+do	mte:Sg	do
+samega	mte:Agpmsg	sam
+roba	mte:Ncmsg	rob
+črte	mte:Ncfsg	črta
+prelivanja	mte:Ncnsg	prelivanje
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+morje	mte:Ncnsa	morje
+začelo	mte:Vmep-sn	začeti
+upadati	mte:Vmpn	upadati
+.	mte:Z	.
+V	mte:Sl	v
+Kranjski	mte:Agpfsl	kranjski
+Gori	mte:Npfsl	Gori
+so	mte:Va-r3p-n	biti
+gasilci	mte:Ncmpn	gasilec
+iz	mte:Sg	iz
+prostorov	mte:Ncmpg	prostor
+stanovanjske	mte:Agpfsg	stanovanjski
+hiše	mte:Ncfsg	hiša
+prečrpali	mte:Vmep-pm	prečrpati
+meteorno	mte:Agpfsa	meteoren
+vodo	mte:Ncfsa	voda
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+zalila	mte:Vmep-sf	zaliti
+tudi	mte:Q	tudi
+zunanje	mte:Agpfpa	zunanji
+površine	mte:Ncfpa	površina
+podjetja	mte:Ncnsg	podjetje
+Avtoprevoz	mte:Npmsn	Avtoprevoz
+Tolmin	mte:Npmsn	Tolmin
+.	mte:Z	.
+Veter	mte:Ncmsn	veter
+ruval	mte:Ncmsn	ruval
+drevesa	mte:Ncnsg	drevo
+Še	mte:Q	še
+več	mte:Rgc	več
+težav	mte:Ncfpg	težava
+kot	mte:Cs	kot
+meteorne	mte:Agpfsg	meteoren
+vode	mte:Ncfsg	voda
+je	mte:Va-r3s-n	biti
+povzročil	mte:Vmep-sm	povzročiti
+močan	mte:Agpmsan	močen
+veter	mte:Ncmsan	veter
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+sunkih	mte:Ncmpl	sunek
+dosegel	mte:Vmep-sm	doseči
+hitrost	mte:Ncfsa	hitrost
+prek	mte:Sg	prek
+100	mte:Mdc	100
+kilometrov	mte:Ncmpg	kilometer
+na	mte:Sa	na
+uro	mte:Ncfsa	ura
+.	mte:Z	.
+V	mte:Sl	v
+naselju	mte:Ncnsl	naselje
+Parecag	mte:Npmsn	Parecag
+v	mte:Sl	v
+Občini	mte:Ncfsl	občina
+Piran	mte:Npmsn	Piran
+je	mte:Va-r3s-n	biti
+veter	mte:Ncmsnn	veter
+z	mte:Sg	z
+drevesa	mte:Ncnsg	drevo
+odlomil	mte:Vmep-sm	odlomiti
+vejo	mte:Ncfsa	veja
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+ovirala	mte:Vmpp-sf	ovirati
+promet	mte:Ncmsan	promet
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+.	mte:Z	.
+Podrto	mte:Appnsn	podrt
+drevo	mte:Ncnsn	drevo
+je	mte:Va-r3s-n	biti
+oviralo	mte:Vmpp-sn	ovirati
+promet	mte:Ncmsan	promet
+tudi	mte:Q	tudi
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Šmarje	mte:Npfpn	Šmar
+–	mte:Z	–
+Koper	mte:Npmsn	Koper
+in	mte:Cc	in
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+med	mte:Si	med
+Kranjsko	mte:Agpfsi	kranjski
+Goro	mte:Npfsi	Goro
+in	mte:Cc	in
+Korenskim	mte:Agpnsi	korenski
+sedlom	mte:Ncnsi	sedlom
+.	mte:Z	.
+V	mte:Sl	v
+naselju	mte:Ncnsl	naselje
+Plužna	mte:Npfsn	Plužn
+pri	mte:Sl	pri
+Bovcu	mte:Npmsl	Bovc
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+cesto	mte:Ncfsa	cesta
+podrl	mte:Vmep-sm	podreti
+telefonski	mte:Agpfsny	telefonski
+drog	mte:Ncfsn	droga
+.	mte:Z	.
+Zgodaj	mte:Rgp	zgodaj
+zjutraj	mte:Rgp	zjutraj
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+drevo	mte:Ncnsn	drevo
+podrlo	mte:Vmep-sn	podreti
+še	mte:Q	še
+na	mte:Sa	na
+cesto	mte:Ncfsa	cesta
+,	mte:Z	,
+ki	mte:Cs	ki
+pelje	mte:Vmpr3s	peljati
+iz	mte:Sg	iz
+Javorniškega	mte:Agpmsg	javorniški
+Rovta	mte:Npmsg	Rovta
+na	mte:Sl	na
+Jesenicah	mte:Npfpl	Jesenice
+.	mte:Z	.
+V	mte:Sl	v
+Bohinju	mte:Npmsl	Bohinj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+cesto	mte:Ncfsa	cesta
+,	mte:Z	,
+ki	mte:Cs	ki
+vodi	mte:Vmpr3s	voditi
+skozi	mte:Sa	skozi
+Srednjo	mte:Agpfsa	srednji
+vas	mte:Ncfsa	vas
+,	mte:Z	,
+podrl	mte:Vmep-sm	podreti
+kozolec	mte:Ncmsan	kozolec
+.	mte:Z	.
+O	mte:Sl	o
+oviri	mte:Ncfsl	ovira
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+poročajo	mte:Vmpr3p	poročati
+še	mte:Q	še
+iz	mte:Sg	iz
+Trbovelj	mte:Npfpg	Trbovlje
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+cesto	mte:Ncfsa	cesta
+v	mte:Sl	v
+bližini	mte:Ncfsl	bližina
+Bolnišnice	mte:Ncfsg	bolnišnica
+Klek	mte:Npfsn	Klek
+podrlo	mte:Vmep-sn	podreti
+drevo	mte:Ncnsn	drevo
+.	mte:Z	.
+Vodotoki	mte:Ncmpn	vodotok
+zelo	mte:Rgp	zelo
+visoko	mte:Agpfsn	visok
+Agencija	mte:Ncfsn	agencija
+RS	mte:Npfsg	RS
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+(	mte:Z	(
+Arso	mte:Npmsn	Arso
+)	mte:Z	)
+poroča	mte:Vmpr3s	poročati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+noči	mte:Ncfsl	noč
+na	mte:Sa	na
+četrtek	mte:Ncmsan	četrtek
+povsod	mte:Rgp	povsod
+po	mte:Sl	po
+državi	mte:Ncfsl	država
+narasle	mte:Vmep-pf	narasti
+reke	mte:Ncfpn	reka
+,	mte:Z	,
+še	mte:Q	še
+najbolj	mte:Rgs	najbolj
+v	mte:Sl	v
+zgornjem	mte:Agpnsl	zgornji
+Posočju	mte:Npnsl	Posočje
+,	mte:Z	,
+Sava	mte:Agpfsn	Sava
+Bohinjka	mte:Npfsn	Bohinjka
+s	mte:Si	z
+pritoki	mte:Ncmpi	pritok
+ter	mte:Cc	ter
+nekateri	mte:Pi-mpn	nekateri
+hudourniki	mte:Ncmpi	hudournik
+v	mte:Sl	v
+dolini	mte:Ncfsl	dolina
+Planice	mte:Npfsg	Planica
+in	mte:Cc	in
+reka	mte:Ncfsn	reka
+Drava	mte:Npfsn	Drava
+.	mte:Z	.
+Opozorilne	mte:Agpfsg	opozorilen
+vrednosti	mte:Ncfpn	vrednost
+pretokov	mte:Ncmpg	pretok
+so	mte:Va-r3p-n	biti
+presegle	mte:Vmep-pf	preseči
+:	mte:Z	:
+Soča	mte:Npfsn	Soča
+v	mte:Sl	v
+Logu	mte:Npmsl	Log
+Čezsoškem	mte:Npnsl	Čezsoško
+(	mte:Z	(
+320	mte:Mdc	320
+kubičnih	mte:Agpmpg	kubičen
+metrov	mte:Ncmpg	meter
+na	mte:Sa	na
+sekundo	mte:Ncfsa	sekunda
+,	mte:Z	,
+še	mte:Q	še
+narašča	mte:Vmpr3s	naraščati
+)	mte:Z	)
+,	mte:Z	,
+Sava	mte:Npfsn	Sava
+Bohinjka	mte:Npfsn	Bohinjka
+pri	mte:Sl	pri
+Sv	mte:Npfsl	Sv
+.	mte:Z	.
+Janezu	mte:Npmsl	Janez
+(	mte:Z	(
+kubičnih	mte:Agpmpg	kubičen
+metrov	mte:Ncmpg	meter
+na	mte:Sa	na
+sekundo	mte:Ncfsa	sekunda
+,	mte:Z	,
+še	mte:Q	še
+narašča	mte:Vmpr3s	naraščati
+)	mte:Z	)
+in	mte:Cc	in
+Sava	mte:Npfsn	Sava
+v	mte:Sl	v
+Radovljici	mte:Npfsl	Radovljica
+(	mte:Z	(
+kubičnih	mte:Agpmpg	kubičen
+metrov	mte:Ncmpg	meter
+na	mte:Sa	na
+sekundo	mte:Ncfsa	sekunda
+,	mte:Z	,
+še	mte:Q	še
+narašča	mte:Vmpr3s	naraščati
+)	mte:Z	)
+,	mte:Z	,
+ter	mte:Cc	ter
+Drava	mte:Npfsn	Drava
+v	mte:Sl	v
+Dravogradu	mte:Npmsl	Dravograd
+(	mte:Z	(
+kubičnih	mte:Agpmpg	kubičen
+metrov	mte:Ncmpg	meter
+na	mte:Sa	na
+sekundo	mte:Ncfsa	sekunda
+)	mte:Z	)

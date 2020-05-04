@@ -1,263 +1,291 @@
-token	tag
-Črnuška	Agpfsn
-tovarna	Ncfsn
-že	Q
-tretja	Mlofsn
-zdrava	Agpfsn
-družba	Ncfsn
-,	Z
-ki	Cs
-ni	Va-r3s-y
-več	Q
-SCT	Npmsn
--	Z
-jeva	Agpfsn
-Podjetje	Ncnsn
-SCT	Npmsn
-Naložbe	Ncfsg
-,	Z
-hčerinska	Agpfsn
-družba	Ncfsn
-SCT	Npmsn
--	Z
-ja	Q
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-prisilni	Agpfsl
-poravnavi	Ncfsl
-,	Z
-je	Va-r3s-n
-prodalo	Vmep-sn
-51	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-Tovarne	Ncfsg
-asfalta	Ncmsg
-Črnuče	Npmsn
-.	Z
-Ivan	Npmsn
-Zidar	Npmsn
-je	Va-r3s-n
-tako	Rgp
-iz	Sg
-morebitne	Agpfsg
-stečajne	Agpfsg
-mase	Ncfsg
-izločil	Vmep-sm
-enega	Mlpmsa
-zadnjih	Agpmpg
-še	Q
-zdravih	Agpmpg
-delov	Ncmpg
-SCT	Npmsn
--	Z
-ja	Q
-.	Z
-Zidar	Npmsn
-je	Va-r3s-n
-o	Sl
-prodaji	Ncfsl
-obvestil	Vmep-sm
-prisilno	Agpfsa
-upraviteljico	Ncfsa
-SCT	Npmsn
--	Z
-ja	Q
-Marijo	Npfsa
-Magdaleno	Agpfsa
-Šantl	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-dejala	Vmep-sf
-,	Z
-da	Cs
-prodaje	Ncfsg
-ne	Q
-more	Vmpr3s
-izpodbijati	Vmpn
-,	Z
-ker	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-opravilo	Vmep-sn
-hčerinsko	Agpnsn
-podjetje	Ncnsn
-.	Z
-Prodajo	Ncfsa
-bi	Va-c
-lahko	Rgp
-izpodbijal	Vmpp-sm
-le	Q
-stečajni	Agpmsny
-upravitelj	Ncmsn
-SCT	Npfsg
-Naložb	Ncfpg
-,	Z
-če	Cs
-bi	Va-c
-seveda	Q
-upniki	Ncmpn
-predtem	Rgp
-zahtevali	Vmbp-pm
-njen	Ps3msasf
-stečaj	Ncmsan
-.	Z
-Zdravo	Agpnsn
-podjetje	Ncnsn
-ni	Va-r3s-y
-več	Q
-SCT	Npmsn
--	Z
-jevo	Agpnsn
-.	Z
-.	Z
-.	Z
-SCT	Npmsn
--	Z
-jev	Agpmsny
-delež	Ncmsn
-Tovarne	Ncfsg
-asfalta	Ncmsg
-Črnuče	Npfsn
-je	Va-r3s-n
-kupilo	Vmep-sn
-Cestno	Agpnsn
-podjetje	Ncnsn
-Ljubljana	Npfsn
-.	Z
-Prodana	Appfsn
-družba	Ncfsn
-v	Sl
-nasprotju	Ncnsl
-s	Si
-preostalimi	Appfpi
-SCT	Ncfpi
--	Z
-jevimi	Agpfpi
-družbami	Ncfpi
-nima	Vmpr3s-y
-blokiranih	Appmpg
-računov	Ncmpg
-,	Z
-konec	Sg
-leta	Ncnsg
-2009	Mdc
-pa	Cc
-je	Va-r3s-n
-imela	Vmpp-sf
-skoraj	Q
-15	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-kapitala	Ncmsg
-in	Cc
-nizek	Agpmsan
-delež	Ncmsan
-dolgov	Ncmpg
-.	Z
-Leto	Ncnsn
-2009	Mdc
-je	Va-r3s-n
-končala	Vmep-sf
-z	Si
-12	Mdc
-milijoni	Ncmpi
-evrov	Ncmpg
-prihodkov	Ncmpg
-in	Cc
-1,8	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-dobička	Ncmsg
-.	Z
-.	Z
-.	Z
-.	Z
-ostali	Vmep-pm
-le	Q
-šibki	Agpmpn
-deli	Ncmpn
-družbe	Ncfsg
-?	Z
-Družba	Ncfsn
-SCT	Npmsn
-Naložbe	Ncfsg
-naj	Q
-bi	Va-c
-kupnino	Ncfsa
-porabila	Vmep-sf
-za	Sa
-odplačilo	Ncnsa
-lastnih	Agpfpg
-obveznosti	Ncfpg
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-krovni	Agpmsny
-SCT	Ncmsan
-s	Si
-prodajo	Ncfsi
-ne	Q
-bo	Va-f3s-n
-pridobil	Vmep-sm
-ničesar	Pz-nsg
-,	Z
-piše	Vmpr3s
-Dnevnik	Ncmsn
-.	Z
-Družba	Ncfsn
-je	Va-r3s-n
-tudi	Q
-lastnica	Ncfsn
-podjetja	Ncnsg
-SCT	Npmsn
-Stanovanjski	Agpmsny
-inženiring	Ncmsn
-,	Z
-ki	Cs
-pa	Cc
-ima	Vmpr3s-n
-blokirane	Appmpa
-račune	Ncmpa
-in	Cc
-naj	Q
-bi	Va-c
-kmalu	Rgp
-razglasilo	Vmep-sn
-insolventnost	Ncfsa
-.	Z
-V	Sl
-primeru	Ncmsl
-stečaja	Ncmsg
-gradbenega	Agpmsg
-velikana	Ncmsg
-tako	Rgp
-upniki	Ncmpn
-ne	Q
-bi	Va-c
-dobili	Vmep-pm
-veliko	Rgp
-,	Z
-čeprav	Cs
-je	Va-r3s-n
-v	Sl
-načrtu	Ncmsl
-finančnega	Agpnsg
-prestrukturiranja	Ncnsg
-vrednost	Ncfsn
-podjetja	Ncnsg
-SCT	Npmsn
-Naložbe	Ncfsg
-še	Q
-ocenjena	Appfsn
-na	Sa
-9,2	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Črnuška	mte:Agpfsn	črnuški
+tovarna	mte:Ncfsn	tovarna
+že	mte:Q	že
+tretja	mte:Mlofsn	tretji
+zdrava	mte:Agpfsn	zdrav
+družba	mte:Ncfsn	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+jeva	mte:Agpfsn	jev
+Podjetje	mte:Ncnsn	podjetje
+SCT	mte:Npmsn	SCT
+Naložbe	mte:Ncfsg	naložba
+,	mte:Z	,
+hčerinska	mte:Agpfsn	hčerinski
+družba	mte:Ncfsn	družba
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+ja	mte:Q	ja
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+prisilni	mte:Agpfsl	prisilen
+poravnavi	mte:Ncfsl	poravnava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prodalo	mte:Vmep-sn	prodati
+51	mte:Mdc	51
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+Tovarne	mte:Ncfsg	tovarna
+asfalta	mte:Ncmsg	asfalta
+Črnuče	mte:Npmsn	Črnuče
+.	mte:Z	.
+Ivan	mte:Npmsn	Ivan
+Zidar	mte:Npmsn	Zidar
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+iz	mte:Sg	iz
+morebitne	mte:Agpfsg	morebiten
+stečajne	mte:Agpfsg	stečajen
+mase	mte:Ncfsg	masa
+izločil	mte:Vmep-sm	izločiti
+enega	mte:Mlpmsa	en
+zadnjih	mte:Agpmpg	zadnji
+še	mte:Q	še
+zdravih	mte:Agpmpg	zdrav
+delov	mte:Ncmpg	del
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+ja	mte:Q	ja
+.	mte:Z	.
+Zidar	mte:Npmsn	Zidar
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+prodaji	mte:Ncfsl	prodaja
+obvestil	mte:Vmep-sm	obvestiti
+prisilno	mte:Agpfsa	prisilen
+upraviteljico	mte:Ncfsa	upraviteljica
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+ja	mte:Q	ja
+Marijo	mte:Npfsa	Marija
+Magdaleno	mte:Agpfsa	magdalen
+Šantl	mte:Npfsn	Šantl
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+prodaje	mte:Ncfsg	prodaja
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+izpodbijati	mte:Vmpn	izpodbijati
+,	mte:Z	,
+ker	mte:Cs	ker
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+opravilo	mte:Vmep-sn	opravilo
+hčerinsko	mte:Agpnsn	hčerinski
+podjetje	mte:Ncnsn	podjetje
+.	mte:Z	.
+Prodajo	mte:Ncfsa	prodaja
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+izpodbijal	mte:Vmpp-sm	izpodbijati
+le	mte:Q	le
+stečajni	mte:Agpmsny	stečajen
+upravitelj	mte:Ncmsn	upravitelj
+SCT	mte:Npfsg	SCT
+Naložb	mte:Ncfpg	naložba
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+seveda	mte:Q	seveda
+upniki	mte:Ncmpn	upnik
+predtem	mte:Rgp	predtem
+zahtevali	mte:Vmbp-pm	zahtevati
+njen	mte:Ps3msasf	njen
+stečaj	mte:Ncmsan	stečaj
+.	mte:Z	.
+Zdravo	mte:Agpnsn	zdrav
+podjetje	mte:Ncnsn	podjetje
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+jevo	mte:Agpnsn	jev
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+SCT	mte:Npmsn	SCT
+-	mte:Z	-
+jev	mte:Agpmsny	jev
+delež	mte:Ncmsn	delež
+Tovarne	mte:Ncfsg	tovarna
+asfalta	mte:Ncmsg	asfalta
+Črnuče	mte:Npfsn	Črnuče
+je	mte:Va-r3s-n	biti
+kupilo	mte:Vmep-sn	kupiti
+Cestno	mte:Agpnsn	cesten
+podjetje	mte:Ncnsn	podjetje
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+Prodana	mte:Appfsn	prodan
+družba	mte:Ncfsn	družba
+v	mte:Sl	v
+nasprotju	mte:Ncnsl	nasprotje
+s	mte:Si	z
+preostalimi	mte:Appfpi	preostal
+SCT	mte:Ncfpi	SCT
+-	mte:Z	-
+jevimi	mte:Agpfpi	jev
+družbami	mte:Ncfpi	družba
+nima	mte:Vmpr3s-y	imeti
+blokiranih	mte:Appmpg	blokiran
+računov	mte:Ncmpg	račun
+,	mte:Z	,
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+imela	mte:Vmpp-sf	imeti
+skoraj	mte:Q	skoraj
+15	mte:Mdc	15
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+kapitala	mte:Ncmsg	kapital
+in	mte:Cc	in
+nizek	mte:Agpmsan	nizek
+delež	mte:Ncmsan	delež
+dolgov	mte:Ncmpg	dolg
+.	mte:Z	.
+Leto	mte:Ncnsn	leto
+2009	mte:Mdc	2009
+je	mte:Va-r3s-n	biti
+končala	mte:Vmep-sf	končati
+z	mte:Si	z
+12	mte:Mdc	12
+milijoni	mte:Ncmpi	milijon
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+in	mte:Cc	in
+1,8	mte:Mdc	1,8
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+dobička	mte:Ncmsg	dobiček
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+ostali	mte:Vmep-pm	ostati
+le	mte:Q	le
+šibki	mte:Agpmpn	šibek
+deli	mte:Ncmpn	del
+družbe	mte:Ncfsg	družba
+?	mte:Z	?
+Družba	mte:Ncfsn	družba
+SCT	mte:Npmsn	SCT
+Naložbe	mte:Ncfsg	naložba
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+kupnino	mte:Ncfsa	kupnina
+porabila	mte:Vmep-sf	porabiti
+za	mte:Sa	za
+odplačilo	mte:Ncnsa	odplačilo
+lastnih	mte:Agpfpg	lasten
+obveznosti	mte:Ncfpg	obveznost
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+krovni	mte:Agpmsny	kroven
+SCT	mte:Ncmsan	SCT
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+pridobil	mte:Vmep-sm	pridobiti
+ničesar	mte:Pz-nsg	nič
+,	mte:Z	,
+piše	mte:Vmpr3s	pisati
+Dnevnik	mte:Ncmsn	dnevnik
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+lastnica	mte:Ncfsn	lastnica
+podjetja	mte:Ncnsg	podjetje
+SCT	mte:Npmsn	SCT
+Stanovanjski	mte:Agpmsny	stanovanjski
+inženiring	mte:Ncmsn	inženiring
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+ima	mte:Vmpr3s-n	imeti
+blokirane	mte:Appmpa	blokiran
+račune	mte:Ncmpa	račun
+in	mte:Cc	in
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+kmalu	mte:Rgp	kmalu
+razglasilo	mte:Vmep-sn	razglasiti
+insolventnost	mte:Ncfsa	insolventnost
+.	mte:Z	.
+V	mte:Sl	v
+primeru	mte:Ncmsl	primer
+stečaja	mte:Ncmsg	stečaj
+gradbenega	mte:Agpmsg	gradben
+velikana	mte:Ncmsg	velikan
+tako	mte:Rgp	tako
+upniki	mte:Ncmpn	upnik
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+dobili	mte:Vmep-pm	dobiti
+veliko	mte:Rgp	veliko
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+načrtu	mte:Ncmsl	načrt
+finančnega	mte:Agpnsg	finančen
+prestrukturiranja	mte:Ncnsg	prestrukturiranje
+vrednost	mte:Ncfsn	vrednost
+podjetja	mte:Ncnsg	podjetje
+SCT	mte:Npmsn	SCT
+Naložbe	mte:Ncfsg	naložba
+še	mte:Q	še
+ocenjena	mte:Appfsn	ocenjen
+na	mte:Sa	na
+9,2	mte:Mdc	9,2
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Ivan	mte:Npmsn	Ivan
+Zidar	mte:Npmsn	Zidar
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+Dnevnika	mte:Ncmsg	dnevnik
+iz	mte:Sg	iz
+SCT	mte:Npmsg	SCT
+-	mte:Z	-
+ja	mte:Q	ja
+pred	mte:Si	pred
+upniki	mte:Ncmpi	upnik
+že	mte:Q	že
+umaknil	mte:Vmep-sm	umakniti
+tudi	mte:Q	tudi
+nemško	mte:Agpnsa	nemški
+hčerinsko	mte:Agpnsa	hčerinski
+podjetje	mte:Ncnsa	podjetje
+SCT	mte:Npmsn	SCT
+ISC	mte:Npmsn	ISC
+München	mte:Npmsn	München
+in	mte:Cc	in
+Tovarno	mte:Ncfsa	tovarna
+kovinske	mte:Agpfsg	kovinski
+opreme	mte:Ncfsg	oprema
+iz	mte:Sg	iz
+Murske	mte:Agpfsg	murski
+Sobote	mte:Npfsg	Sobota

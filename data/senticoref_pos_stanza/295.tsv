@@ -1,329 +1,401 @@
-token	tag
-Srbska	Agpfsn
-agencija	Ncfsn
-za	Sa
-privatizacijo	Ncfsa
-je	Va-r3s-n
-odpovedala	Vmep-sf
-prodajo	Ncfsa
-nepremičnin	Ncfpg
-slovenskih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Zunanji	Agpmsny
-minister	Ncmsn
-Rupel	Npmsn
-je	Va-r3s-n
-z	Si
-njihovo	Ps3fsip
-odločitvijo	Ncfsi
-zadovoljen	Agpmsnn
-.	Z
-Srbski	Agpmsny
-zunanji	Agpmsny
-minister	Ncmsn
-Vuk	Npmsn
-Jeremić	Npmsn
-in	Cc
-Dimitrij	Npmsn
-Rupel	Npmsn
-.	Z
-Dražba	Ncfsn
-nepremičnin	Ncfpg
-slovenskih	Agpnpg
-podjetij	Ncnpg
-v	Sl
-Srbiji	Npfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-srbska	Agpfsn
-agencija	Ncfsn
-za	Sa
-privatizacijo	Ncfsa
-sprva	Rgp
-napovedala	Vmep-sf
-za	Sa
-september	Ncmsan
-in	Cc
-zatem	Rgp
-prestavila	Vmep-sf
-na	Sa
-oktober	Ncmsan
-,	Z
-je	Va-r3s-n
-dokončno	Rgp
-odpovedana	Appfsn
-,	Z
-je	Va-r3s-n
-danes	Rgp
-novinarjem	Ncmpd
-v	Sl
-Ljubljani	Npfsl
-povedal	Vmep-sm
-minister	Ncmsn
-za	Sa
-zunanje	Agpfpa
-zadeve	Ncfpa
-Dimitrij	Npmsn
-Rupel	Npmsn
-.	Z
-Na	Sl
-seznamu	Ncmsl
-za	Sa
-prodajo	Ncfsa
-je	Va-r3s-n
-bilo	Va-p-sn
-premoženje	Ncnsn
-približno	Rgp
-20	Mdc
-podjetij	Ncnpg
-.	Z
-Rupel	Npmsn
-je	Va-r3s-n
-odločitev	Ncfsa
-srbskih	Agpfpg
-oblasti	Ncfpg
-označil	Vmep-sm
-za	Sa
-pomemben	Agpmsan
-prispevek	Ncmsan
-k	Sd
-prizadevanjem	Ncnpd
-za	Sa
-rešitev	Ncfsa
-tega	Pd-nsg
-vprašanja	Ncnsg
-.	Z
-S	Si
-tem	Pd-nsi
-se	Px------y
-je	Va-r3s-n
-rešil	Vmep-sm
-spor	Ncmsan
-,	Z
-ki	Cs
-je	Va-r3s-n
-trajal	Vmpp-sm
-kar	Rgp
-nekaj	Rgp
-tednov	Ncmpg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-ter	Cc
-spomnil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-srbska	Agpfsn
-agencija	Ncfsn
-za	Sa
-privatizacijo	Ncfsa
-želela	Vmpp-sf
-prodati	Vmen
-nepremičnine	Ncfpa
-slovenskih	Agpnpg
-podjetij	Ncnpg
-na	Sl
-dražbah	Ncfpl
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-v	Sl
-nasprotju	Ncnsl
-z	Si
-določili	Ncnpi
-priloge	Ncfsg
-G	Ncmsn
-sporazuma	Ncmsg
-o	Sl
-vprašanjih	Ncnpl
-nasledstva	Ncnsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-vse	Pg-fpn
-države	Ncfpn
-naslednice	Ncfpn
-nekdanje	Agpfsg
-Jugoslavije	Npfsg
-podpisale	Vmep-pf
-leta	Ncnsg
-2001	Mdc
-na	Sl
-Dunaju	Npmsl
-,	Z
-je	Va-r3s-n
-opozoril	Vmep-sm
-.	Z
-Slovenska	Agpfsn
-diplomacija	Ncfsn
-je	Va-r3s-n
-v	Sl
-obdobju	Ncnsl
-od	Sg
-letošnjega	Agpmsg
-marca	Ncmsg
-večkrat	Rgc
-protestirala	Vmbp-sf
-proti	Sd
-nameri	Ncfsd
-srbske	Agpfsg
-agencije	Ncfsg
-,	Z
-med	Si
-drugim	Mlpmsi
-je	Va-r3s-n
-v	Sa
-Beograd	Npmsan
-poslala	Vmep-sf
-štiri	Mlcfpa
-protestne	Agpfpa
-note	Ncfpa
-,	Z
-tudi	Q
-Rupel	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-večkrat	Rgc
-v	Sl
-stikih	Ncmpl
-s	Si
-srbskim	Agpmsi
-kolegom	Ncmsi
-Vukom	Npmsi
-Jeremićem	Npmsi
-.	Z
-Srbska	Agpfsn
-vlada	Ncfsn
-je	Va-r3s-n
-po	Sl
-intenzivnih	Agpnpl
-prizadevanjih	Ncnpl
-naše	Ps1fsgp
-diplomacije	Ncfsg
-razumela	Vmbp-sf
-,	Z
-da	Cs
-so	Va-r3p-n
-naša	Ps1npnp
-stališča	Ncnpn
-utemeljena	Appnpn
-,	Z
-je	Va-r3s-n
-danes	Rgp
-komentiral	Vmbp-sm
-Rupel	Npmsn
-.	Z
-Foto	Ncmsn
-Črt	Ncfpg
-Butul	Npmsn
-Zunanji	Agpmsny
-minister	Ncmsn
-je	Va-r3s-n
-napovedal	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-omenjena	Appfsn
-problematika	Ncfsn
-zdaj	Rgp
-na	Sl
-dnevnem	Agpmsl
-redu	Ncmsl
-že	Q
-napovedanega	Appmsg
-sestanka	Ncmsg
-visokih	Agpmpg
-predstavnikov	Ncmpg
-za	Sa
-nasledstvo	Ncnsa
-,	Z
-ki	Cs
-bo	Va-f3s-n
-predvidoma	Rgp
-konec	Sg
-septembra	Ncmsg
-.	Z
-Slovenija	Npfsn
-bo	Va-f3s-n
-na	Sl
-njem	Pp3msl
-predlagala	Vmbp-sf
-,	Z
-naj	Cs
-v	Sl
-okviru	Ncmsl
-odbora	Ncmsg
-pride	Vmer3s
-do	Sg
-sporazuma	Ncmsg
-med	Si
-slovensko	Agpfsi
-in	Cc
-srbsko	Agpfsi
-stranjo	Ncfsi
-o	Sl
-tem	Pd-nsl
-,	Z
-kako	Rgp
-razumeti	Vmbn
-omenjeno	Appfsa
-prilogo	Ncfsa
-sporazuma	Ncmsg
-,	Z
-je	Va-r3s-n
-napovedal	Vmep-sm
-Rupel	Npmsn
-.	Z
-Na	Sl
-zunanjem	Agpnsl
-ministrstvu	Ncnsl
-so	Va-r3p-n
-že	Q
-prejeli	Vmep-pm
-nekaj	Rgp
-zahval	Ncfpg
-v	Sl
-zvezi	Ncfsl
-z	Si
-odpovedjo	Ncfsi
-dražbe	Ncfsg
-.	Z
-Med	Si
-njimi	Pp3mpi
-so	Va-r3p-n
-tudi	Q
-tisti	Pd-mpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-v	Sl
-preteklosti	Ncfsl
-kritično	Rgp
-izražali	Vmpp-pm
-do	Sg
-prizadevanj	Ncnpg
-slovenske	Agpfsg
-diplomacije	Ncfsg
-za	Sa
-rešitev	Ncfsa
-tega	Pd-msg
-problema	Ncmsg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Rupel	Npmsn
-ter	Cc
-kot	Cs
-primer	Ncmsn
-navedel	Vmep-sm
-podjetji	Ncnpa
-Iskra	Npfsn
-in	Cc
-Birostroj	Npfsn
-.	Z
+token	tag	lemma
+Srbska	mte:Agpfsn	srbski
+agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+privatizacijo	mte:Ncfsa	privatizacija
+je	mte:Va-r3s-n	biti
+odpovedala	mte:Vmep-sf	odpovedati
+prodajo	mte:Ncfsa	prodaja
+nepremičnin	mte:Ncfpg	nepremičnina
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Rupel	mte:Npmsn	Rupel
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+njihovo	mte:Ps3fsip	njihov
+odločitvijo	mte:Ncfsi	odločitev
+zadovoljen	mte:Agpmsnn	zadovoljen
+.	mte:Z	.
+Srbski	mte:Agpmsny	srbski
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Vuk	mte:Npmsn	Vuk
+Jeremić	mte:Npmsn	Jeremić
+in	mte:Cc	in
+Dimitrij	mte:Npmsn	Dimitrij
+Rupel	mte:Npmsn	Rupel
+.	mte:Z	.
+Dražba	mte:Ncfsn	dražba
+nepremičnin	mte:Ncfpg	nepremičnina
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+srbska	mte:Agpfsn	srbski
+agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+privatizacijo	mte:Ncfsa	privatizacija
+sprva	mte:Rgp	sprva
+napovedala	mte:Vmep-sf	napovedati
+za	mte:Sa	za
+september	mte:Ncmsan	september
+in	mte:Cc	in
+zatem	mte:Rgp	zatem
+prestavila	mte:Vmep-sf	prestaviti
+na	mte:Sa	na
+oktober	mte:Ncmsan	oktober
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dokončno	mte:Rgp	dokončno
+odpovedana	mte:Appfsn	odpovedan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+novinarjem	mte:Ncmpd	novinar
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+povedal	mte:Vmep-sm	povedati
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+zunanje	mte:Agpfpa	zunanji
+zadeve	mte:Ncfpa	zadeva
+Dimitrij	mte:Npmsn	Dimitrij
+Rupel	mte:Npmsn	Rupel
+.	mte:Z	.
+Na	mte:Sl	na
+seznamu	mte:Ncmsl	seznam
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+premoženje	mte:Ncnsn	premoženje
+približno	mte:Rgp	približno
+20	mte:Mdc	20
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Rupel	mte:Npmsn	Rupel
+je	mte:Va-r3s-n	biti
+odločitev	mte:Ncfsa	odločitev
+srbskih	mte:Agpfpg	srbski
+oblasti	mte:Ncfpg	oblast
+označil	mte:Vmep-sm	označiti
+za	mte:Sa	za
+pomemben	mte:Agpmsan	pomemben
+prispevek	mte:Ncmsan	prispevek
+k	mte:Sd	k
+prizadevanjem	mte:Ncnpd	prizadevanje
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+tega	mte:Pd-nsg	ta
+vprašanja	mte:Ncnsg	vprašanje
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+rešil	mte:Vmep-sm	rešiti
+spor	mte:Ncmsan	spor
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+trajal	mte:Vmpp-sm	trajati
+kar	mte:Rgp	kar
+nekaj	mte:Rgp	nekaj
+tednov	mte:Ncmpg	teden
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+ter	mte:Cc	ter
+spomnil	mte:Vmep-sm	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+srbska	mte:Agpfsn	srbski
+agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+privatizacijo	mte:Ncfsa	privatizacija
+želela	mte:Vmpp-sf	želeti
+prodati	mte:Vmen	prodati
+nepremičnine	mte:Ncfpa	nepremičnina
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+na	mte:Sl	na
+dražbah	mte:Ncfpl	dražba
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+nasprotju	mte:Ncnsl	nasprotje
+z	mte:Si	z
+določili	mte:Ncnpi	določiti
+priloge	mte:Ncfsg	priloga
+G	mte:Ncmsn	G
+sporazuma	mte:Ncmsg	sporazum
+o	mte:Sl	o
+vprašanjih	mte:Ncnpl	vprašanje
+nasledstva	mte:Ncnsg	nasledstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+vse	mte:Pg-fpn	ves
+države	mte:Ncfpn	država
+naslednice	mte:Ncfpn	naslednica
+nekdanje	mte:Agpfsg	nekdanji
+Jugoslavije	mte:Npfsg	Jugoslavija
+podpisale	mte:Vmep-pf	podpisati
+leta	mte:Ncnsg	leto
+2001	mte:Mdc	2001
+na	mte:Sl	na
+Dunaju	mte:Npmsl	Dunaj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+.	mte:Z	.
+Slovenska	mte:Agpfsn	slovenski
+diplomacija	mte:Ncfsn	diplomacija
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+obdobju	mte:Ncnsl	obdobje
+od	mte:Sg	od
+letošnjega	mte:Agpmsg	letošnji
+marca	mte:Ncmsg	marec
+večkrat	mte:Rgc	večkrat
+protestirala	mte:Vmbp-sf	protestirati
+proti	mte:Sd	proti
+nameri	mte:Ncfsd	namera
+srbske	mte:Agpfsg	srbski
+agencije	mte:Ncfsg	agencija
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+Beograd	mte:Npmsan	Beograd
+poslala	mte:Vmep-sf	poslati
+štiri	mte:Mlcfpa	štirje
+protestne	mte:Agpfpa	protesten
+note	mte:Ncfpa	not
+,	mte:Z	,
+tudi	mte:Q	tudi
+Rupel	mte:Npmsn	Rupel
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+večkrat	mte:Rgc	večkrat
+v	mte:Sl	v
+stikih	mte:Ncmpl	stik
+s	mte:Si	z
+srbskim	mte:Agpmsi	srbski
+kolegom	mte:Ncmsi	kolega
+Vukom	mte:Npmsi	Vuk
+Jeremićem	mte:Npmsi	Jeremić
+.	mte:Z	.
+Srbska	mte:Agpfsn	srbski
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+intenzivnih	mte:Agpnpl	intenziven
+prizadevanjih	mte:Ncnpl	prizadevanje
+naše	mte:Ps1fsgp	naš
+diplomacije	mte:Ncfsg	diplomacija
+razumela	mte:Vmbp-sf	razumeti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+naša	mte:Ps1npnp	naš
+stališča	mte:Ncnpn	stališče
+utemeljena	mte:Appnpn	utemeljen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+komentiral	mte:Vmbp-sm	komentirati
+Rupel	mte:Npmsn	Rupel
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+Črt	mte:Ncfpg	črt
+Butul	mte:Npmsn	Butul
+Zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+omenjena	mte:Appfsn	omenjen
+problematika	mte:Ncfsn	problematika
+zdaj	mte:Rgp	zdaj
+na	mte:Sl	na
+dnevnem	mte:Agpmsl	dneven
+redu	mte:Ncmsl	red
+že	mte:Q	že
+napovedanega	mte:Appmsg	napovedan
+sestanka	mte:Ncmsg	sestanka
+visokih	mte:Agpmpg	visok
+predstavnikov	mte:Ncmpg	predstavnik
+za	mte:Sa	za
+nasledstvo	mte:Ncnsa	nasledstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+konec	mte:Sg	konec
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+njem	mte:Pp3msl	on
+predlagala	mte:Vmbp-sf	predlagati
+,	mte:Z	,
+naj	mte:Cs	naj
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+odbora	mte:Ncmsg	odbor
+pride	mte:Vmer3s	priti
+do	mte:Sg	do
+sporazuma	mte:Ncmsg	sporazum
+med	mte:Si	med
+slovensko	mte:Agpfsi	slovenski
+in	mte:Cc	in
+srbsko	mte:Agpfsi	srbski
+stranjo	mte:Ncfsi	stranja
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kako	mte:Rgp	kako
+razumeti	mte:Vmbn	razumeti
+omenjeno	mte:Appfsa	omenjen
+prilogo	mte:Ncfsa	priloga
+sporazuma	mte:Ncmsg	sporazum
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+Rupel	mte:Npmsn	Rupel
+.	mte:Z	.
+Na	mte:Sl	na
+zunanjem	mte:Agpnsl	zunanji
+ministrstvu	mte:Ncnsl	ministrstvo
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+prejeli	mte:Vmep-pm	prejeti
+nekaj	mte:Rgp	nekaj
+zahval	mte:Ncfpg	zahvala
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+odpovedjo	mte:Ncfsi	odpoved
+dražbe	mte:Ncfsg	dražba
+.	mte:Z	.
+Med	mte:Si	med
+njimi	mte:Pp3mpi	on
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+kritično	mte:Rgp	kritično
+izražali	mte:Vmpp-pm	izražati
+do	mte:Sg	do
+prizadevanj	mte:Ncnpg	prizadevanje
+slovenske	mte:Agpfsg	slovenski
+diplomacije	mte:Ncfsg	diplomacija
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+tega	mte:Pd-msg	ta
+problema	mte:Ncmsg	problem
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Rupel	mte:Npmsn	Rupel
+ter	mte:Cc	ter
+kot	mte:Cs	kot
+primer	mte:Ncmsn	primer
+navedel	mte:Vmep-sm	navesti
+podjetji	mte:Ncnpa	podjetje
+Iskra	mte:Npfsn	iskra
+in	mte:Cc	in
+Birostroj	mte:Npfsn	Birostroj
+.	mte:Z	.
+Po	mte:Sl	po
+nepopolnih	mte:Agpmpl	nepopoln
+podatkih	mte:Ncmpl	podatek
+zunanjega	mte:Agpnsg	zunanji
+ministrstva	mte:Ncnsg	ministrstvo
+so	mte:Va-r3p-n	biti
+bila	mte:Va-p-pn	biti
+na	mte:Sl	na
+seznamu	mte:Ncmsl	seznam
+srbske	mte:Agpfsg	srbski
+agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+na	mte:Sl	na
+preklicani	mte:Appfsl	preklican
+dražbi	mte:Ncfsl	dražba
+tudi	mte:Q	tudi
+naslednja	mte:Agpnpn	naslednji
+podjetja	mte:Ncnpn	podjetje
+s	mte:Si	z
+slovenskim	mte:Agpnsi	slovenski
+premoženjem	mte:Ncnsi	premoženje
+Stogram	mte:Npmsg	Stogram
+s	mte:Si	z
+sedežem	mte:Ncmsi	sedež
+v	mte:Sl	v
+Zrenjaninu	mte:Npmsl	Zrenjanin
+,	mte:Z	,
+Inter	mte:Npmsn	Inter
+-	mte:Z	-
+Konim	mte:Npmsn	Konim
+,	mte:Z	,
+Beometalna	mte:Npfsn	Beometalna
+,	mte:Z	,
+Isel	mte:Npmsn	Isel
+,	mte:Z	,
+V	mte:Sl	v
+&	mte:Npmsn	&
+V	mte:Sl	v
+Co	mte:Npmsn	Co
+,	mte:Z	,
+Drvokomerc	mte:Npmsn	Drvokomerc
+,	mte:Z	,
+EI	mte:Ncmsn	EI
+Era	mte:Npmsn	era
+,	mte:Z	,
+Birostroj	mte:Npmsn	Birostroj
+,	mte:Z	,
+Vektor	mte:Ncmsn	vektor
+in	mte:Cc	in
+Iskra	mte:Ncfsn	iskra
+Commerce	mte:Npfsn	Commerce
+s	mte:Si	z
+sedežem	mte:Ncmsi	sedež
+v	mte:Sl	v
+Beogradu	mte:Npmsl	Beograd
+,	mte:Z	,
+Frigo	mte:Npmsn	Frigo
+-	mte:Z	-
+Srem	mte:Npmsn	Srem
+s	mte:Si	z
+sedežem	mte:Ncmsi	sedež
+v	mte:Sl	v
+Irigu	mte:Npmsl	Irig
+ter	mte:Cc	ter
+Interpan	mte:Npmsn	Interpan
+in	mte:Cc	in
+Autotrading	mte:Npmsn	Autotrading
+Pan	mte:Npmsn	Pan
+iz	mte:Sg	iz
+Novega	mte:Agpmsg	nov
+Sada	mte:Npmsg	Sado

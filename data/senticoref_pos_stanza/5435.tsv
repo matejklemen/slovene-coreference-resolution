@@ -1,379 +1,390 @@
-token	tag
-Dolžniška	Agpfsn
-kriza	Ncfsn
-je	Va-r3s-n
-francosko	Agpnsn
--	Z
-belgijsko	Agpnsn
--	Z
-luksemburško	Agpfsa
-banko	Ncfsa
-Dexia	Npmsn
-v	Sl
-prvih	Mlompl
-devetih	Mlc-pl
-mesecih	Ncmpl
-stala	Vmpp-sf
-že	Q
-približno	Rgp
-10	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-Samo	Q
-v	Sl
-tretjem	Mlonsl
-četrtletju	Ncnsl
-se	Px------y
-je	Va-r3s-n
-finančni	Agpmsny
-položaj	Ncmsn
-skupine	Ncfsg
-zaradi	Sg
-padca	Ncmsg
-vrednosti	Ncfsg
-grških	Agpfpg
-državnih	Agpfpg
-obveznic	Ncfpg
-in	Cc
-podržavljenja	Ncnsg
-belgijske	Agpfsg
-hčere	Ncfsg
-poslabšal	Vmep-sm
-6,3	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-so	Va-r3p-n
-danes	Rgp
-sporočili	Vmep-pm
-iz	Sg
-banke	Ncfsg
-.	Z
-Dexia	Npmsn
-je	Va-r3s-n
-bila	Va-p-sf
-prva	Mlofsn
-velika	Agpfsn
-evropska	Agpfsn
-banka	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-zaradi	Sg
-finančne	Agpfsg
-krize	Ncfsg
-leta	Ncnsg
-2008	Mdc
-potrebovala	Vmpp-sf
-državno	Agpfsa
-pomoč	Ncfsa
-.	Z
-V	Sa
-trenutne	Agpfpa
-težave	Ncfpa
-jo	Pp3fsa--y
-je	Va-r3s-n
-spravilo	Vmep-sn
-lastništvo	Ncnsn
-grških	Agpfpg
-obveznic	Ncfpg
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-izgubila	Vmep-sf
-zaupanje	Ncnsa
-na	Sl
-trgu	Ncmsl
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-skupini	Ncfsd
-s	Si
-35.200	Mdc
-zaposlenimi	Appfpi
-povzročilo	Vmep-sn
-velike	Agpfpa
-likvidnostne	Agpfpa
-težave	Ncfpa
-.	Z
-V	Sl
-izogib	Ncmsl
-propadu	Ncmsl
-Belgija	Npfsn
-hčerinsko	Agpfsa
-družbo	Ncfsa
-prevzela	Vmep-sf
-za	Sa
-štiri	Mlcfpa
-milijarde	Ncfpa
-Da	Cs
-bi	Va-c
-se	Px------y
-izognili	Vmep-pm
-propadu	Ncmsd
-,	Z
-so	Va-r3p-n
-se	Px------y
-Francija	Npfsn
-,	Z
-Belgija	Npfsn
-in	Cc
-Luksemburg	Npmsn
-v	Sl
-letošnjem	Agpmsl
-oktobru	Ncmsl
-dogovorili	Vmep-pm
-o	Sl
-razčlenitvi	Ncfsl
-skupine	Ncfsg
-in	Cc
-Belgija	Npfsn
-je	Va-r3s-n
-za	Sa
-štiri	Mlcfpa
-milijarde	Ncfpa
-evrov	Ncmpg
-prevzela	Vmep-sf
-njeno	Ps3fsasf
-belgijsko	Agpfsa
-hčerinsko	Agpfsa
-banko	Ncfsa
-.	Z
-Poleg	Sg
-nacionalizacije	Ncfsg
-belgijske	Agpfsg
-hčere	Ncfsg
-je	Va-r3s-n
-načrt	Ncmsan
-iz	Sg
-prejšnjega	Agpmsg
-meseca	Ncmsg
-vključeval	Vmpp-sm
-še	Q
-finančno	Agpfsa
-injekcijo	Ncfsa
-Dexiini	Npfsd
-enoti	Ncfsd
-v	Sl
-Franciji	Npfsl
-,	Z
-ki	Cs
-financira	Vmbr3s
-lokalne	Agpfpa
-skupnosti	Ncfpa
-,	Z
-ter	Cc
-prodajo	Ncfsa
-dobičkonosne	Agpfsg
-luksemburške	Agpfsg
-enote	Ncfsg
-skupini	Ncfsd
-investitorjev	Ncmpg
-.	Z
-Jamstva	Ncnsg
-mora	Vmpr3s
-odobriti	Vmen
-še	Q
-Evropska	Agpfsn
-komisija	Ncfsn
-Prav	Q
-tako	Rgp
-so	Va-r3p-n
-vse	Pg-fpn
-tri	Mlcfpn
-države	Ncfpn
-ponudile	Vmep-pf
-državna	Agpnpa
-jamstva	Ncnpa
-v	Sl
-višini	Ncfsl
-90	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-od	Sg
-tega	Pd-nsg
-znaša	Vmpr3s
-jamstvo	Ncnsa
-Belgije	Npfsg
-60,5	Mdc
-odstotka	Ncmsg
-,	Z
-Francije	Npfsg
-36,5	Mdc
-odstotka	Ncmsg
-in	Cc
-Luksemburga	Npmsg
-tri	Mlcmpa
-odstotke	Ncmpa
-.	Z
-Odobriti	Vmen
-ga	Pp3msa--y
-mora	Vmpr3s
-še	Q
-Evropska	Agpfsn
-komisija	Ncfsn
-.	Z
-Podržavljenje	Ncnsn
-belgijske	Agpfsg
-hčere	Ncfsg
-je	Va-r3s-n
-na	Sa
-četrtletne	Agpmpa
-rezultate	Ncmpa
-Dexie	Npfsg
-negativno	Rgp
-vplivalo	Vmpp-sn
-s	Si
-4,1	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Dodatno	Rgp
-je	Va-r3s-n
-morala	Vmpp-sf
-bančna	Agpfsn
-skupina	Ncfsn
-zaradi	Sg
-padca	Ncmsg
-vrednosti	Ncfsg
-grških	Agpfpg
-obveznic	Ncfpg
-za	Sa
-55	Mdc
-odstotkov	Ncmpg
-opraviti	Vmen
-2,3	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-odpisov	Ncmpg
-,	Z
-je	Va-r3s-n
-po	Sl
-poročanju	Ncnsl
-tujih	Agpfpg
-tiskovnih	Agpfpg
-agencij	Ncfpg
-danes	Rgp
-povedal	Vmep-sm
-prvi	Mlomsn
-mož	Ncmsn
-banke	Ncfsg
-Pierre	Npmsn
-Mariani	Npmsn
-.	Z
-S	Si
-prodajo	Ncfsi
-zavarovalnice	Ncfsg
-v	Sl
-Turčiji	Npfsl
-pa	Cc
-je	Va-r3s-n
-Dexia	Npfsn
-ustvarila	Vmep-sf
-malenkosten	Agpmsan
-dobiček	Ncmsan
-.	Z
-Izpostavljenost	Ncfsn
-se	Px------y
-je	Va-r3s-n
-zmanjšala	Vmep-sf
-Izpostavljenost	Ncfsa
-do	Sg
-državnih	Agpfpg
-obveznic	Ncfpg
-ogroženih	Appfpg
-članic	Ncfpg
-območja	Ncnsg
-evra	Ncmsg
-Grčije	Npfsg
-,	Z
-Irske	Npfsg
-,	Z
-Italije	Npfsg
-,	Z
-Portugalske	Npfsg
-in	Cc
-Španije	Npfsg
-se	Px------y
-je	Va-r3s-n
-s	Si
-23,2	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-kolikor	Cs
-je	Va-r3s-n
-znašala	Vmpp-sf
-konec	Sg
-junija	Ncmsg
-,	Z
-do	Sg
-konca	Ncmsg
-septembra	Ncmsg
-znižala	Vmep-sf
-na	Sa
-13,6	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Ker	Cs
-je	Va-r3s-n
-v	Sl
-fazi	Ncfsl
-razčlenitve	Ncfsg
-,	Z
-Dexia	Ncmsg
-popolnih	Agpmpg
-podatkov	Ncmpg
-o	Sl
-poslovanju	Ncnsl
-v	Sl
-letošnjem	Agpnsl
-tretjem	Mlonsl
-četrtletju	Ncnsl
-ne	Q
-bo	Va-f3s-n
-uradno	Rgp
-objavila	Vmep-sf
-.	Z
-V	Sl
-prvem	Mlonsl
-polletju	Ncnsl
-je	Va-r3s-n
-izguba	Ncfsn
-znašala	Vmpp-sf
-štiri	Mlcfpa
-milijarde	Ncfpa
-evrov	Ncmpg
-.	Z
-Dexia	Npmsn
-je	Va-r3s-n
-državni	Agpmsay
-denar	Ncmsan
-prejela	Vmep-sf
-že	Q
-pred	Si
-tremi	Mlcnpi
-leti	Ncnpi
-.	Z
-Po	Sl
-podatkih	Ncmpl
-Evropske	Agpfsg
-komisije	Ncfsg
-sta	Va-r3d-n
-ji	Pp3fsd--y
-Belgija	Npfsn
-in	Cc
-Francija	Npmsn
-takrat	Rgp
-zagotovili	Vmep-dm
-finančno	Agpfsa
-injekcijo	Ncfsa
-v	Sl
-višini	Ncfsl
-šest	Mlc-pa
-milijard	Ncfpg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Dolžniška	mte:Agpfsn	dolžniški
+kriza	mte:Ncfsn	kriza
+je	mte:Va-r3s-n	biti
+francosko	mte:Agpnsn	francoski
+-	mte:Z	-
+belgijsko	mte:Agpnsn	belgijski
+-	mte:Z	-
+luksemburško	mte:Agpfsa	luksemburški
+banko	mte:Ncfsa	banka
+Dexia	mte:Npmsn	Dexia
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+stala	mte:Vmpp-sf	stati
+že	mte:Q	že
+približno	mte:Rgp	približno
+10	mte:Mdc	10
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+Samo	mte:Q	samo
+v	mte:Sl	v
+tretjem	mte:Mlonsl	tretji
+četrtletju	mte:Ncnsl	četrtletje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+finančni	mte:Agpmsny	finančen
+položaj	mte:Ncmsn	položaj
+skupine	mte:Ncfsg	skupina
+zaradi	mte:Sg	zaradi
+padca	mte:Ncmsg	padec
+vrednosti	mte:Ncfsg	vrednost
+grških	mte:Agpfpg	grški
+državnih	mte:Agpfpg	državen
+obveznic	mte:Ncfpg	obveznica
+in	mte:Cc	in
+podržavljenja	mte:Ncnsg	podržavljenje
+belgijske	mte:Agpfsg	belgijski
+hčere	mte:Ncfsg	hči
+poslabšal	mte:Vmep-sm	poslabšati
+6,3	mte:Mdc	6,3
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Dexia	mte:Npmsn	Dexia
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+prva	mte:Mlofsn	prvi
+velika	mte:Agpfsn	velik
+evropska	mte:Agpfsn	evropski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+finančne	mte:Agpfsg	finančen
+krize	mte:Ncfsg	kriza
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+potrebovala	mte:Vmpp-sf	potrebovati
+državno	mte:Agpfsa	državen
+pomoč	mte:Ncfsa	pomoč
+.	mte:Z	.
+V	mte:Sa	v
+trenutne	mte:Agpfpa	trenuten
+težave	mte:Ncfpa	težava
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+spravilo	mte:Vmep-sn	spraviti
+lastništvo	mte:Ncnsn	lastništvo
+grških	mte:Agpfpg	grški
+obveznic	mte:Ncfpg	obveznica
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+izgubila	mte:Vmep-sf	izgubiti
+zaupanje	mte:Ncnsa	zaupanje
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+skupini	mte:Ncfsd	skupina
+s	mte:Si	z
+35.200	mte:Mdc	35.200
+zaposlenimi	mte:Appfpi	zaposlen
+povzročilo	mte:Vmep-sn	povzročiti
+velike	mte:Agpfpa	velik
+likvidnostne	mte:Agpfpa	likvidnosten
+težave	mte:Ncfpa	težava
+.	mte:Z	.
+V	mte:Sl	v
+izogib	mte:Ncmsl	izogiba
+propadu	mte:Ncmsl	propad
+Belgija	mte:Npfsn	Belgija
+hčerinsko	mte:Agpfsa	hčerinski
+družbo	mte:Ncfsa	družba
+prevzela	mte:Vmep-sf	prevzeti
+za	mte:Sa	za
+štiri	mte:Mlcfpa	štirje
+milijarde	mte:Ncfpa	milijarda
+Da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+izognili	mte:Vmep-pm	izogniti
+propadu	mte:Ncmsd	propad
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+Francija	mte:Npfsn	Francija
+,	mte:Z	,
+Belgija	mte:Npfsn	Belgija
+in	mte:Cc	in
+Luksemburg	mte:Npmsn	Luksemburg
+v	mte:Sl	v
+letošnjem	mte:Agpmsl	letošnji
+oktobru	mte:Ncmsl	oktober
+dogovorili	mte:Vmep-pm	dogovoriti
+o	mte:Sl	o
+razčlenitvi	mte:Ncfsl	razčlenitev
+skupine	mte:Ncfsg	skupina
+in	mte:Cc	in
+Belgija	mte:Npfsn	Belgija
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+štiri	mte:Mlcfpa	štirje
+milijarde	mte:Ncfpa	milijarda
+evrov	mte:Ncmpg	evro
+prevzela	mte:Vmep-sf	prevzeti
+njeno	mte:Ps3fsasf	njen
+belgijsko	mte:Agpfsa	belgijski
+hčerinsko	mte:Agpfsa	hčerinski
+banko	mte:Ncfsa	banka
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+nacionalizacije	mte:Ncfsg	nacionalizacija
+belgijske	mte:Agpfsg	belgijski
+hčere	mte:Ncfsg	hči
+je	mte:Va-r3s-n	biti
+načrt	mte:Ncmsan	načrt
+iz	mte:Sg	iz
+prejšnjega	mte:Agpmsg	prejšnji
+meseca	mte:Ncmsg	mesec
+vključeval	mte:Vmpp-sm	vključevati
+še	mte:Q	še
+finančno	mte:Agpfsa	finančen
+injekcijo	mte:Ncfsa	injekcija
+Dexiini	mte:Npfsd	Dexiini
+enoti	mte:Ncfsd	enota
+v	mte:Sl	v
+Franciji	mte:Npfsl	Francija
+,	mte:Z	,
+ki	mte:Cs	ki
+financira	mte:Vmbr3s	financirati
+lokalne	mte:Agpfpa	lokalen
+skupnosti	mte:Ncfpa	skupnost
+,	mte:Z	,
+ter	mte:Cc	ter
+prodajo	mte:Ncfsa	prodaja
+dobičkonosne	mte:Agpfsg	dobičkonosen
+luksemburške	mte:Agpfsg	luksemburški
+enote	mte:Ncfsg	enota
+skupini	mte:Ncfsd	skupina
+investitorjev	mte:Ncmpg	investitor
+.	mte:Z	.
+Jamstva	mte:Ncnsg	jamstvo
+mora	mte:Vmpr3s	morati
+odobriti	mte:Vmen	odobriti
+še	mte:Q	še
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+vse	mte:Pg-fpn	ves
+tri	mte:Mlcfpn	trije
+države	mte:Ncfpn	država
+ponudile	mte:Vmep-pf	ponuditi
+državna	mte:Agpnpa	državen
+jamstva	mte:Ncnpa	jamstvo
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+90	mte:Mdc	90
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+znaša	mte:Vmpr3s	znašati
+jamstvo	mte:Ncnsa	jamstvo
+Belgije	mte:Npfsg	Belgija
+60,5	mte:Mdc	60,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Francije	mte:Npfsg	Francija
+36,5	mte:Mdc	36,5
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Luksemburga	mte:Npmsg	Luksemburg
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+.	mte:Z	.
+Odobriti	mte:Vmen	odobriti
+ga	mte:Pp3msa--y	on
+mora	mte:Vmpr3s	morati
+še	mte:Q	še
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+.	mte:Z	.
+Podržavljenje	mte:Ncnsn	podržavljenje
+belgijske	mte:Agpfsg	belgijski
+hčere	mte:Ncfsg	hči
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+četrtletne	mte:Agpmpa	četrtleten
+rezultate	mte:Ncmpa	rezultat
+Dexie	mte:Npfsg	Dexie
+negativno	mte:Rgp	negativen
+vplivalo	mte:Vmpp-sn	vplivati
+s	mte:Si	z
+4,1	mte:Mdc	4,1
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Dodatno	mte:Rgp	dodatno
+je	mte:Va-r3s-n	biti
+morala	mte:Vmpp-sf	morati
+bančna	mte:Agpfsn	bančen
+skupina	mte:Ncfsn	skupina
+zaradi	mte:Sg	zaradi
+padca	mte:Ncmsg	padec
+vrednosti	mte:Ncfsg	vrednost
+grških	mte:Agpfpg	grški
+obveznic	mte:Ncfpg	obveznica
+za	mte:Sa	za
+55	mte:Mdc	55
+odstotkov	mte:Ncmpg	odstotek
+opraviti	mte:Vmen	opraviti
+2,3	mte:Mdc	2,3
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+odpisov	mte:Ncmpg	odpis
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+tujih	mte:Agpfpg	tuj
+tiskovnih	mte:Agpfpg	tiskoven
+agencij	mte:Ncfpg	agencija
+danes	mte:Rgp	danes
+povedal	mte:Vmep-sm	povedati
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+banke	mte:Ncfsg	banka
+Pierre	mte:Npmsn	Pierre
+Mariani	mte:Npmsn	Mariani
+.	mte:Z	.
+S	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+zavarovalnice	mte:Ncfsg	zavarovalnica
+v	mte:Sl	v
+Turčiji	mte:Npfsl	Turčija
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Dexia	mte:Npfsn	Dexia
+ustvarila	mte:Vmep-sf	ustvariti
+malenkosten	mte:Agpmsan	malenkosten
+dobiček	mte:Ncmsan	dobiček
+.	mte:Z	.
+Izpostavljenost	mte:Ncfsn	izpostavljenost
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zmanjšala	mte:Vmep-sf	zmanjšati
+Izpostavljenost	mte:Ncfsa	izpostavljenost
+do	mte:Sg	do
+državnih	mte:Agpfpg	državen
+obveznic	mte:Ncfpg	obveznica
+ogroženih	mte:Appfpg	ogrožen
+članic	mte:Ncfpg	članica
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+Grčije	mte:Npfsg	Grčija
+,	mte:Z	,
+Irske	mte:Npfsg	Irska
+,	mte:Z	,
+Italije	mte:Npfsg	Italija
+,	mte:Z	,
+Portugalske	mte:Npfsg	Portugalska
+in	mte:Cc	in
+Španije	mte:Npfsg	Španija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+23,2	mte:Mdc	23,2
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kolikor	mte:Cs	kolikor
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+konec	mte:Sg	konec
+junija	mte:Ncmsg	junij
+,	mte:Z	,
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+septembra	mte:Ncmsg	september
+znižala	mte:Vmep-sf	znižati
+na	mte:Sa	na
+13,6	mte:Mdc	13,6
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+fazi	mte:Ncfsl	faza
+razčlenitve	mte:Ncfsg	razčlenitev
+,	mte:Z	,
+Dexia	mte:Ncmsg	dexia
+popolnih	mte:Agpmpg	popoln
+podatkov	mte:Ncmpg	podatek
+o	mte:Sl	o
+poslovanju	mte:Ncnsl	poslovanje
+v	mte:Sl	v
+letošnjem	mte:Agpnsl	letošnji
+tretjem	mte:Mlonsl	tretji
+četrtletju	mte:Ncnsl	četrtletje
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+uradno	mte:Rgp	uradno
+objavila	mte:Vmep-sf	objaviti
+.	mte:Z	.
+V	mte:Sl	v
+prvem	mte:Mlonsl	prvi
+polletju	mte:Ncnsl	polletje
+je	mte:Va-r3s-n	biti
+izguba	mte:Ncfsn	izguba
+znašala	mte:Vmpp-sf	znašati
+štiri	mte:Mlcfpa	štirje
+milijarde	mte:Ncfpa	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Dexia	mte:Npmsn	Dexia
+je	mte:Va-r3s-n	biti
+državni	mte:Agpmsay	državen
+denar	mte:Ncmsan	denar
+prejela	mte:Vmep-sf	prejeti
+že	mte:Q	že
+pred	mte:Si	pred
+tremi	mte:Mlcnpi	trije
+leti	mte:Ncnpi	leto
+.	mte:Z	.
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+sta	mte:Va-r3d-n	biti
+ji	mte:Pp3fsd--y	on
+Belgija	mte:Npfsn	Belgija
+in	mte:Cc	in
+Francija	mte:Npmsn	Francija
+takrat	mte:Rgp	takrat
+zagotovili	mte:Vmep-dm	zagotoviti
+finančno	mte:Agpfsa	finančen
+injekcijo	mte:Ncfsa	injekcija
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+šest	mte:Mlc-pa	šest
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+deležna	mte:Agpfsn	deležen
+približno	mte:Rgp	približno
+138	mte:Mdc	138
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+državnih	mte:Agpnpg	državen
+jamstev	mte:Ncnpg	jamstvo

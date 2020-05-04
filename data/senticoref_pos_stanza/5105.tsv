@@ -1,444 +1,464 @@
-token	tag
-Na	Sl
-domačih	Agpnpl
-letališčih	Ncnpl
-je	Va-r3s-n
-lani	Rgp
-prispelo	Vmep-sn
-14	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-potnikov	Ncmpg
-kot	Cs
-predlani	Rgp
-Na	Sa
-tri	Mlcnpa
-slovenska	Agpnpa
-mednarodna	Agpnpa
-letališča	Ncnpa
-je	Va-r3s-n
-lani	Rgp
-prispelo	Vmep-sn
-toliko	Rgp
-letal	Ncnpg
-kot	Cs
-leta	Ncnsg
-2008	Mdc
-(	Z
-25.524	Mdc
-letal	Ncnpg
-)	Z
-,	Z
-število	Ncnsn
-potnikov	Ncmpg
-pa	Cc
-je	Va-r3s-n
-upadlo	Vmep-sn
-za	Sa
-14	Mdc
-odstotkov	Ncmpg
-na	Sa
-1,46	Mdc
-milijona	Ncmsg
-.	Z
-Devet	Mlc-pa
-od	Sg
-desetih	Mlc-pg
-potnikov	Ncmpg
-pristane	Vmer3s
-v	Sl
-Ljubljani	Npfsl
-Leta	Ncnsg
-2009	Mdc
-je	Va-r3s-n
-sicer	Q
-86	Mdc
-odstotkov	Ncmpg
-letal	Ncnpg
-prispelo	Vmep-sn
-na	Sa
-Letališče	Ncnsa
-Jožeta	Npmsg
-Pučnika	Npmsg
-,	Z
-13	Mdc
-odstotkov	Ncmpg
-na	Sa
-Letališče	Ncnsa
-Portorož	Npmsn
-,	Z
-en	Mlpmsa
-odstotek	Ncmsan
-pa	Cc
-na	Sa
-Letališče	Ncnsa
-Edvarda	Npmsg
-Rusjana	Npmsg
-Maribor	Npmsn
-.	Z
-Kot	Cs
-ugotavlja	Vmpr3s
-državni	Agpmsny
-statistični	Agpmsny
-urad	Ncmsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-število	Ncnsn
-prispelih	Appnpg
-letal	Ncnpg
-na	Sa
-slovenska	Agpnpa
-mednarodna	Agpnpa
-letališča	Ncnpa
-od	Sg
-leta	Ncnsg
-1992	Mdc
-naprej	Rgp
-ves	Pg-msa
-čas	Ncmsan
-zviševalo	Vmpp-sn
-in	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-tako	Rgp
-lani	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-znašalo	Vmpp-sn
-25.524	Mdc
-letal	Ncnpg
-,	Z
-glede	Rgp
-na	Sa
-leto	Ncnsa
-1992	Mdc
-višje	Rgc
-že	Q
-za	Sa
-več	Rgc
-kot	Cs
-petkrat	Rgp
-.	Z
-Daleč	Rgp
-za	Si
-rekordnim	Agpnsi
-letom	Ncnsi
-2007	Mdc
-Podoben	Agpmsan
-trend	Ncmsan
-rasti	Ncfsg
-je	Va-r3s-n
-statistični	Agpmsny
-urad	Ncmsn
-zabeležil	Vmep-sm
-tudi	Q
-na	Sl
-področju	Ncnsl
-letalskega	Agpmsg
-potniškega	Agpmsg
-prometa	Ncmsg
-.	Z
-Tudi	Q
-ta	Pd-msn
-je	Va-r3s-n
-namreč	Cc
-lani	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-zabeležil	Vmep-sm
-1,46	Mdc
-milijona	Ncmsg
-potnikov	Ncmpg
-,	Z
-v	Sl
-primerjavi	Ncfsl
-z	Si
-letom	Ncnsi
-1992	Mdc
-poskočil	Vmep-sm
-za	Sa
-več	Rgc
-kot	Cs
-petkrat	Rgp
-.	Z
-Od	Sg
-tedaj	Rgp
-je	Va-r3s-n
-sicer	Q
-upad	Ncmsn
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-doživel	Vmep-sm
-le	Q
-v	Sl
-letih	Ncnpl
-2001	Mdc
-in	Cc
-2002	Mdc
-zaradi	Sg
-terorističnega	Agpmsg
-letalskega	Agpmsg
-napada	Ncmsg
-v	Sl
-New	Npmsn
-Yorku	Npmsl
-,	Z
-in	Cc
-leta	Ncnsg
-2009	Mdc
-.	Z
-Rekordno	Agpnsn
-število	Ncnsn
-potnikov	Ncmpg
-je	Va-r3s-n
-sicer	Q
-letalski	Agpmsny
-promet	Ncmsn
-zabeležil	Vmep-sm
-leta	Ncnsg
-2008	Mdc
-(	Z
-1,7	Mdc
-milijona	Ncmsg
-potnikov	Ncmpg
-)	Z
-.	Z
-Največ	Rgs
-potnikov	Ncmpg
-leti	Ncnpg
-v	Sa
-Nemčijo	Npfsa
-Preko	Sg
-Letališča	Ncnsg
-Jožeta	Npmsg
-Pučnika	Npmsg
-je	Va-r3s-n
-lani	Rgp
-potovalo	Vmpp-sn
-1,42	Mdc
-milijona	Ncmsg
-potnikov	Ncmpg
-oziroma	Cc
-14	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-leta	Ncnsg
-2008	Mdc
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-83	Mdc
-odstotkov	Ncmpg
-vseh	Pg-mpg
-potnikov	Ncmpg
-potovalo	Vmpp-sn
-z	Si
-rednimi	Agpnpi
-leti	Ncnpi
-.	Z
-Med	Si
-njimi	Pp3mpi
-jih	Pp3mpa--y
-je	Va-r3s-n
-največ	Rgs
-potovalo	Vmpp-sn
-na	Sl
-relacijah	Ncfpl
-med	Si
-Slovenijo	Npfsi
-in	Cc
-Nemčijo	Npfsi
-(	Z
-16	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Slovenijo	Npfsa
-in	Cc
-Veliko	Agpfsi
-Britanijo	Npfsi
-(	Z
-12	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Slovenijo	Npfsi
-in	Cc
-Turčijo	Npfsi
-(	Z
-osem	Mlc-pa
-odstotkov	Ncmpg
-)	Z
-,	Z
-Slovenijo	Npfsa
-in	Cc
-Francijo	Npfsi
-(	Z
-osem	Mlc-pa
-odstotkov	Ncmpg
-)	Z
-ter	Cc
-Slovenijo	Npfsa
-in	Cc
-Srbijo	Npfsi
-(	Z
-sedem	Mlc-pa
-odstotkov	Ncmpg
-)	Z
-.	Z
-Adrii	Npfsl
-število	Ncnsa
-potnikov	Ncmpg
-upadlo	Vmep-sn
-za	Sa
-12	Mdc
-odstotkov	Ncmpg
-Največji	Agsmsny
-slovenski	Agpmsay
-letalski	Agpmsay
-prevoznik	Ncmsan
-Adria	Npfsn
-Airways	Npmsn
-je	Va-r3s-n
-leta	Ncnsg
-2009	Mdc
-prepeljal	Vmep-sm
-1,14	Mdc
-milijona	Ncmsg
-potnikov	Ncmpg
-,	Z
-kar	Pr-nsn
-glede	Rgp
-na	Sa
-leto	Ncnsa
-poprej	Rgp
-predstavlja	Vmpr3s
-12	Mdc
--	Z
-odstotni	Agpmsay
-upad	Ncmsan
-.	Z
-Število	Ncnsn
-prepeljanih	Appmpg
-potnikov	Ncmpg
-se	Px------y
-je	Va-r3s-n
-sicer	Q
-lani	Rgp
-znižalo	Vmep-sn
-prvič	Rgp
-po	Sl
-letu	Ncnsl
-2001	Mdc
-.	Z
-Lani	Rgp
-je	Va-r3s-n
-preko	Sg
-treh	Mlcnpg
-slovenskih	Agpnpg
-mednarodnih	Agpnpg
-letališč	Ncnpg
-potovalo	Vmpp-sn
-7600	Mdc
-ton	Ncfpg
-blaga	Ncnsg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-31	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-leta	Ncnsg
-2008	Mdc
-in	Cc
-62	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-rekordnega	Agpnsg
-leta	Ncnsg
-2007	Mdc
-.	Z
-Lani	Rgp
-v	Sl
-Evropi	Npfsl
-šest	Mlc-pa
-odstotkov	Ncmpg
-manj	Rgc
-potnikov	Ncmpg
-Leta	Ncnsg
-2009	Mdc
-je	Va-r3s-n
-preko	Sg
-letališč	Ncnpg
-Evropske	Agpfsg
-unije	Ncfsg
-potovalo	Vmpp-sn
-751	Mdc
-milijonov	Ncmpg
-potnikov	Ncmpg
-oziroma	Cc
-šest	Mlc-pa
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-leta	Ncnsg
-2008	Mdc
-,	Z
-ko	Cs
-je	Va-r3s-n
-preko	Sg
-letališč	Ncnpg
-EU	Npfsg
-potovalo	Vmpp-sn
-rekordnih	Agpmpg
-798	Mdc
-milijonov	Ncmpg
-potnikov	Ncmpg
-.	Z
-Največ	Rgs
-jih	Pp3mpg--y
-je	Va-r3s-n
-letelo	Vmpp-sn
-na	Sa
-ali	Cc
-iz	Sg
-letališč	Ncnpg
-v	Sl
-Veliki	Agpfsl
-Britaniji	Npfsl
-,	Z
-sledile	Vmpp-pf
-pa	Cc
-so	Va-r3p-n
-Nemčija	Npfsn
-,	Z
-Španija	Npfsn
-in	Cc
-Francija	Npfsn
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-Slovenija	Npfsn
-po	Sl
-številu	Ncnsl
-potnikov	Ncmpg
-na	Sl
-letališčih	Ncnpl
-sedemindvajseterice	Ncfsg
-na	Sl
-predzadnjem	Agpnsl
-,	Z
-26	Mdc
-.	Z
-mestu	Ncnsl
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+domačih	mte:Agpnpl	domač
+letališčih	mte:Ncnpl	letališče
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+prispelo	mte:Vmep-sn	prispeti
+14	mte:Mdc	14
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+potnikov	mte:Ncmpg	potnik
+kot	mte:Cs	kot
+predlani	mte:Rgp	predlani
+Na	mte:Sa	na
+tri	mte:Mlcnpa	trije
+slovenska	mte:Agpnpa	slovenski
+mednarodna	mte:Agpnpa	mednaroden
+letališča	mte:Ncnpa	letališče
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+prispelo	mte:Vmep-sn	prispeti
+toliko	mte:Rgp	toliko
+letal	mte:Ncnpg	letalo
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+(	mte:Z	(
+25.524	mte:Mdc	25.524
+letal	mte:Ncnpg	letalo
+)	mte:Z	)
+,	mte:Z	,
+število	mte:Ncnsn	število
+potnikov	mte:Ncmpg	potnik
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+upadlo	mte:Vmep-sn	upasti
+za	mte:Sa	za
+14	mte:Mdc	14
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+1,46	mte:Mdc	1,46
+milijona	mte:Ncmsg	milijon
+.	mte:Z	.
+Devet	mte:Mlc-pa	devet
+od	mte:Sg	od
+desetih	mte:Mlc-pg	deset
+potnikov	mte:Ncmpg	potnik
+pristane	mte:Vmer3s	pristati
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+Leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+86	mte:Mdc	86
+odstotkov	mte:Ncmpg	odstotek
+letal	mte:Ncnpg	letalo
+prispelo	mte:Vmep-sn	prispeti
+na	mte:Sa	na
+Letališče	mte:Ncnsa	letališče
+Jožeta	mte:Npmsg	Jože
+Pučnika	mte:Npmsg	Pučnik
+,	mte:Z	,
+13	mte:Mdc	13
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+Letališče	mte:Ncnsa	letališče
+Portorož	mte:Npmsn	Portorož
+,	mte:Z	,
+en	mte:Mlpmsa	en
+odstotek	mte:Ncmsan	odstotek
+pa	mte:Cc	pa
+na	mte:Sa	na
+Letališče	mte:Ncnsa	letališče
+Edvarda	mte:Npmsg	Edvardo
+Rusjana	mte:Npmsg	Rusjan
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+Kot	mte:Cs	kot
+ugotavlja	mte:Vmpr3s	ugotavljati
+državni	mte:Agpmsny	državen
+statistični	mte:Agpmsny	statističen
+urad	mte:Ncmsn	urad
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+prispelih	mte:Appnpg	prispel
+letal	mte:Ncnpg	letalo
+na	mte:Sa	na
+slovenska	mte:Agpnpa	slovenski
+mednarodna	mte:Agpnpa	mednaroden
+letališča	mte:Ncnpa	letališče
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+1992	mte:Mdc	1992
+naprej	mte:Rgp	naprej
+ves	mte:Pg-msa	ves
+čas	mte:Ncmsan	čas
+zviševalo	mte:Vmpp-sn	zviševati
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+tako	mte:Rgp	tako
+lani	mte:Rgp	lani
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+znašalo	mte:Vmpp-sn	znašati
+25.524	mte:Mdc	25.524
+letal	mte:Ncnpg	letalo
+,	mte:Z	,
+glede	mte:Rgp	glede
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+1992	mte:Mdc	1992
+višje	mte:Rgc	visoko
+že	mte:Q	že
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+petkrat	mte:Rgp	petkrat
+.	mte:Z	.
+Daleč	mte:Rgp	daleč
+za	mte:Si	za
+rekordnim	mte:Agpnsi	rekorden
+letom	mte:Ncnsi	leto
+2007	mte:Mdc	2007
+Podoben	mte:Agpmsan	podoben
+trend	mte:Ncmsan	trend
+rasti	mte:Ncfsg	rast
+je	mte:Va-r3s-n	biti
+statistični	mte:Agpmsny	statističen
+urad	mte:Ncmsn	urad
+zabeležil	mte:Vmep-sm	zabeležiti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+letalskega	mte:Agpmsg	letalski
+potniškega	mte:Agpmsg	potniški
+prometa	mte:Ncmsg	promet
+.	mte:Z	.
+Tudi	mte:Q	tudi
+ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+lani	mte:Rgp	lani
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+zabeležil	mte:Vmep-sm	zabeležiti
+1,46	mte:Mdc	1,46
+milijona	mte:Ncmsg	milijon
+potnikov	mte:Ncmpg	potnik
+,	mte:Z	,
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+letom	mte:Ncnsi	leto
+1992	mte:Mdc	1992
+poskočil	mte:Vmep-sm	poskočiti
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+petkrat	mte:Rgp	petkrat
+.	mte:Z	.
+Od	mte:Sg	od
+tedaj	mte:Rgp	tedaj
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+upad	mte:Ncmsn	upad
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+doživel	mte:Vmep-sm	doživeti
+le	mte:Q	le
+v	mte:Sl	v
+letih	mte:Ncnpl	leto
+2001	mte:Mdc	2001
+in	mte:Cc	in
+2002	mte:Mdc	2002
+zaradi	mte:Sg	zaradi
+terorističnega	mte:Agpmsg	terorističen
+letalskega	mte:Agpmsg	letalski
+napada	mte:Ncmsg	napad
+v	mte:Sl	v
+New	mte:Npmsn	New
+Yorku	mte:Npmsl	York
+,	mte:Z	,
+in	mte:Cc	in
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+.	mte:Z	.
+Rekordno	mte:Agpnsn	rekorden
+število	mte:Ncnsn	število
+potnikov	mte:Ncmpg	potnik
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+letalski	mte:Agpmsny	letalski
+promet	mte:Ncmsn	promet
+zabeležil	mte:Vmep-sm	zabeležiti
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+(	mte:Z	(
+1,7	mte:Mdc	1,7
+milijona	mte:Ncmsg	milijon
+potnikov	mte:Ncmpg	potnik
+)	mte:Z	)
+.	mte:Z	.
+Največ	mte:Rgs	največ
+potnikov	mte:Ncmpg	potnik
+leti	mte:Ncnpg	leto
+v	mte:Sa	v
+Nemčijo	mte:Npfsa	Nemčija
+Preko	mte:Sg	preko
+Letališča	mte:Ncnsg	letališče
+Jožeta	mte:Npmsg	Jože
+Pučnika	mte:Npmsg	Pučnik
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+potovalo	mte:Vmpp-sn	potovati
+1,42	mte:Mdc	1,42
+milijona	mte:Ncmsg	milijon
+potnikov	mte:Ncmpg	potnik
+oziroma	mte:Cc	oziroma
+14	mte:Mdc	14
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+83	mte:Mdc	83
+odstotkov	mte:Ncmpg	odstotek
+vseh	mte:Pg-mpg	ves
+potnikov	mte:Ncmpg	potnik
+potovalo	mte:Vmpp-sn	potovati
+z	mte:Si	z
+rednimi	mte:Agpnpi	reden
+leti	mte:Ncnpi	leto
+.	mte:Z	.
+Med	mte:Si	med
+njimi	mte:Pp3mpi	on
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+največ	mte:Rgs	največ
+potovalo	mte:Vmpp-sn	potovati
+na	mte:Sl	na
+relacijah	mte:Ncfpl	relacija
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Nemčijo	mte:Npfsi	Nemčija
+(	mte:Z	(
+16	mte:Mdc	16
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Slovenijo	mte:Npfsa	Slovenija
+in	mte:Cc	in
+Veliko	mte:Agpfsi	velik
+Britanijo	mte:Npfsi	Britanija
+(	mte:Z	(
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Turčijo	mte:Npfsi	Turčija
+(	mte:Z	(
+osem	mte:Mlc-pa	osem
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Slovenijo	mte:Npfsa	Slovenija
+in	mte:Cc	in
+Francijo	mte:Npfsi	Francija
+(	mte:Z	(
+osem	mte:Mlc-pa	osem
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+ter	mte:Cc	ter
+Slovenijo	mte:Npfsa	Slovenija
+in	mte:Cc	in
+Srbijo	mte:Npfsi	Srbija
+(	mte:Z	(
+sedem	mte:Mlc-pa	sedem
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+.	mte:Z	.
+Adrii	mte:Npfsl	Adrii
+število	mte:Ncnsa	število
+potnikov	mte:Ncmpg	potnik
+upadlo	mte:Vmep-sn	upasti
+za	mte:Sa	za
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+Največji	mte:Agsmsny	velik
+slovenski	mte:Agpmsay	slovenski
+letalski	mte:Agpmsay	letalski
+prevoznik	mte:Ncmsan	prevoznik
+Adria	mte:Npfsn	Adria
+Airways	mte:Npmsn	Airways
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+prepeljal	mte:Vmep-sm	prepeljati
+1,14	mte:Mdc	1,14
+milijona	mte:Ncmsg	milijon
+potnikov	mte:Ncmpg	potnik
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+glede	mte:Rgp	glede
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+poprej	mte:Rgp	poprej
+predstavlja	mte:Vmpr3s	predstavljati
+12	mte:Mdc	12
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+upad	mte:Ncmsan	upad
+.	mte:Z	.
+Število	mte:Ncnsn	število
+prepeljanih	mte:Appmpg	prepeljan
+potnikov	mte:Ncmpg	potnik
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+lani	mte:Rgp	lani
+znižalo	mte:Vmep-sn	znižati
+prvič	mte:Rgp	prvič
+po	mte:Sl	po
+letu	mte:Ncnsl	leto
+2001	mte:Mdc	2001
+.	mte:Z	.
+Lani	mte:Rgp	lani
+je	mte:Va-r3s-n	biti
+preko	mte:Sg	preko
+treh	mte:Mlcnpg	trije
+slovenskih	mte:Agpnpg	slovenski
+mednarodnih	mte:Agpnpg	mednaroden
+letališč	mte:Ncnpg	letališče
+potovalo	mte:Vmpp-sn	potovati
+7600	mte:Mdc	7600
+ton	mte:Ncfpg	tona
+blaga	mte:Ncnsg	blago
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+31	mte:Mdc	31
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+in	mte:Cc	in
+62	mte:Mdc	62
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+rekordnega	mte:Agpnsg	rekorden
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+.	mte:Z	.
+Lani	mte:Rgp	lani
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+potnikov	mte:Ncmpg	potnik
+Leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+je	mte:Va-r3s-n	biti
+preko	mte:Sg	preko
+letališč	mte:Ncnpg	letališče
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+potovalo	mte:Vmpp-sn	potovati
+751	mte:Mdc	751
+milijonov	mte:Ncmpg	milijon
+potnikov	mte:Ncmpg	potnik
+oziroma	mte:Cc	oziroma
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+preko	mte:Sg	preko
+letališč	mte:Ncnpg	letališče
+EU	mte:Npfsg	EU
+potovalo	mte:Vmpp-sn	potovati
+rekordnih	mte:Agpmpg	rekorden
+798	mte:Mdc	798
+milijonov	mte:Ncmpg	milijon
+potnikov	mte:Ncmpg	potnik
+.	mte:Z	.
+Največ	mte:Rgs	največ
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+letelo	mte:Vmpp-sn	leteti
+na	mte:Sa	na
+ali	mte:Cc	ali
+iz	mte:Sg	iz
+letališč	mte:Ncnpg	letališče
+v	mte:Sl	v
+Veliki	mte:Agpfsl	velik
+Britaniji	mte:Npfsl	Britanija
+,	mte:Z	,
+sledile	mte:Vmpp-pf	slediti
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Španija	mte:Npfsn	Španija
+in	mte:Cc	in
+Francija	mte:Npfsn	Francija
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+Slovenija	mte:Npfsn	Slovenija
+po	mte:Sl	po
+številu	mte:Ncnsl	število
+potnikov	mte:Ncmpg	potnik
+na	mte:Sl	na
+letališčih	mte:Ncnpl	letališče
+sedemindvajseterice	mte:Ncfsg	sedemindvajseterica
+na	mte:Sl	na
+predzadnjem	mte:Agpnsl	predzadnji
+,	mte:Z	,
+26	mte:Mdc	26
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+.	mte:Z	.
+Promet	mte:Ncmsn	promet
+blaga	mte:Ncnsg	blago
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+letališčih	mte:Ncnpl	letališče
+EU	mte:Npfsg	EU
+lani	mte:Rgp	lani
+znašal	mte:Vmpp-sm	znašati
+11,3	mte:Mdc	11,3
+milijona	mte:Ncmsg	milijon
+ton	mte:Ncfpg	tona
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+leto	mte:Ncnsn	leto
+poprej	mte:Rgp	poprej

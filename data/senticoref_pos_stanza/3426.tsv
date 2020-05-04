@@ -1,441 +1,460 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Kongresni	Agpmsny
-turizem	Ncmsn
-je	Va-r3s-n
-eden	Mlpmsn
-ključnih	Agpmpg
-produktov	Ncmpg
-slovenskega	Agpmsg
-turizma	Ncmsg
-.	Z
-Je	Va-r3s-n
-produkt	Ncmsn
-z	Si
-visoko	Agpfsi
-dodano	Appfsi
-vrednostjo	Ncfsi
-,	Z
-potrošnja	Ncfsn
-turistov	Ncmpg
-v	Sl
-tem	Pd-msl
-segmentu	Ncmsl
-je	Va-r3s-n
-najvišja	Agsfsn
-in	Cc
-multiplikativni	Agpmpn
-učinki	Ncmpn
-so	Va-r3p-n
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-največji	Agsmpn
-,	Z
-je	Va-r3s-n
-ob	Sl
-začetku	Ncmsl
-največje	Agsfsg
-poslovne	Agpfsg
-borze	Ncfsg
-za	Sa
-kongresni	Agpmsay
-turizem	Ncmsan
-za	Sa
-področje	Ncnsa
-jugovzhodne	Agpfsg
-Evrope	Npfsg
--	Z
-Conventa	Npfsn
-izpostavila	Vmep-sf
-direktorica	Ncfsn
-STO	Mlc-pn
-Maja	Npfsg
-Pak	Npfsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-prepričana	Appfsn
-direktorica	Ncfsn
-Slovenske	Agpfsg
-turistične	Agpfsg
-organizacije	Ncfsg
-(	Z
-STO	Mlc-pn
-)	Z
-,	Z
-je	Va-r3s-n
-kongresni	Agpmsny
-turizem	Ncmsn
-velikega	Agpmsg
-pomena	Ncmsg
-za	Sa
-desezonalizacijo	Ncfsa
-in	Cc
-generira	Vmbr3s
-obiske	Ncmpa
-novih	Agpfpg
-ciljnih	Agpfpg
-skupin	Ncfpg
-.	Z
-Konkurenčne	Agpfsg
-prednosti	Ncfpa
-Slovenije	Npfsg
-za	Sa
-izvedbo	Ncfsa
-poslovnih	Agpmpg
-dogodkov	Ncmpg
-predstavljajo	Vmpr3p
-naša	Ps1fsnp
-centralna	Agpfsn
-lega	Ncfsn
-v	Sl
-Evropi	Npfsl
-,	Z
-dostopnost	Ncfsa
-ključnih	Agpmpg
-trgov	Ncmpg
-in	Cc
-dobro	Agpnsn
-razmerje	Ncnsa
-med	Si
-ceno	Ncfsi
-in	Cc
-kakovostjo	Ncfsi
-.	Z
-"	Z
-Borza	Npfsn
-Conventa	Npfsn
-je	Va-r3s-n
-velikega	Agpmsg
-pomena	Ncmsg
-za	Sa
-slovenski	Agpmsay
-poslovni	Agpmsay
-turizem	Ncmsan
-.	Z
-Je	Va-r3s-n
-največji	Agsmsny
-poslovni	Agpmsny
-dogodek	Ncmsn
-poslovnega	Agpmsg
-turizma	Ncmsg
-v	Sl
-Sloveniji	Npfsl
-in	Cc
-regiji	Ncfsl
-,	Z
-"	Z
-je	Va-r3s-n
-na	Sl
-novinarski	Agpfsl
-konferenci	Ncfsl
-v	Sl
-Ljubljani	Npfsl
-dejala	Vmep-sf
-Pakova	Aspfsn
-.	Z
-Poudarila	Vmep-sf
-je	Va-r3s-n
-,	Z
-da	Cs
-Conventa	Npmsn
-pomeni	Vmbr3s
-tudi	Q
-mednarodno	Agpfsa
-promocijo	Ncfsa
-Slovenije	Npfsg
-kot	Cs
-turistične	Agpfpa
-in	Cc
-kongresne	Agpfpa
-destinacije	Ncfpa
-.	Z
-Izpostavila	Vmep-sf
-je	Va-r3s-n
-pet	Mlc-pa
-ključnih	Agpfpg
-usmeritev	Ncfpg
-programa	Ncmsg
-dela	Ncnsg
-STO	Mlc-pa
-.	Z
-Med	Si
-usmeritvami	Ncfpi
-je	Va-r3s-n
-koncentracija	Ncfsn
-promocije	Ncfsg
-na	Sl
-ključnih	Agpmpl
-emitivnih	Agpmpl
-trgih	Ncmpl
-in	Cc
-razvoj	Ncmsnn
-novih	Agpmpg
-trgov	Ncmpg
-in	Cc
-segmentov	Ncmpg
-.	Z
-Želijo	Vmpr3p
-krepiti	Vmpn
-znamko	Ncfsa
-I	Ncmsn
-feel	Ncfsn
-Slovenia	Npfsn
-,	Z
-krepiti	Vmpn
-spletno	Agpnsa
-trženje	Ncnsa
-,	Z
-spodbujanje	Ncnsa
-razvoja	Ncmsg
-in	Cc
-trženja	Ncnsg
-zelenega	Agpmsg
-oz	Ncmsg
-.	Z
-trajnostnega	Agpmsg
-turizma	Ncmsg
-ter	Cc
-krepitev	Ncfsa
-in	Cc
-povečanje	Ncnsa
-učinkovitosti	Ncfsg
-partnerstva	Ncnsg
-in	Cc
-co	Npmsn
--	Z
-brandinga.Turisti	Npmpn
-si	Px---d--y
-želijo	Vmpr3p
-okolju	Ncnsd
-prijaznega	Agpnsg
-potovanja	Ncnsg
-"	Z
-Turisti	Ncmpn
-si	Px---d--y
-želijo	Vmpr3p
-okolju	Ncnsd
-prijaznega	Agpnsg
-potovanja	Ncnsg
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-Svetovna	Agpfsn
-turistična	Agpfsn
-organizacija	Ncfsn
-že	Q
-napovedala	Vmep-sf
-,	Z
-da	Cs
-lahko	Rgp
-hotelski	Agpmsny
-sektor	Ncmsan
-do	Sg
-leta	Ncnsg
-2020	Mdc
-porabo	Ncfsa
-energije	Ncfsg
-zmanjša	Vmer3s
-do	Sg
-30	Mdc
-odstotkov	Ncmpg
-,	Z
-"	Z
-pravi	Vmbr3s
-Pakova	Aspmsn
-.	Z
-Slovenija	Npfsn
-pri	Sl
-skrbi	Ncfsl
-za	Sa
-bolj	Rgc
-trajnostno	Agpfsa
-ponudbo	Ncfsa
-želi	Vmpr3s
-zmanjšati	Vmen
-ogljični	Agpmsay
-odtis	Ncmsan
-pri	Sl
-promociji	Ncfsl
-zelenih	Agpmpg
-produktov	Ncmpg
-,	Z
-spodbuja	Vmpr3s
-zelene	Agpfsa
-destinacije	Ncfpa
-,	Z
-uvajanja	Ncnsg
-trajnostnih	Agpmpg
-procesnih	Agpmpg
-modelov	Ncmpg
-v	Sl
-hotelih	Ncnpl
-.	Z
-Direktor	Ncmsn
-Zavoda	Ncmsg
--	Z
-kongresnoturističnega	Agpmsg
-urada	Ncmsg
-Miha	Npmsn
-Kovačič	Npmsn
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-na	Sl
-letošnji	Agpmsl
-Conventi	Npfsl
-predstavlja	Vmpr3s
-140	Mdc
-ponudnikov	Ncmpg
-in	Cc
-devet	Mlc-pa
-destinacij	Ncfpg
-jugovzhodne	Agpfsg
-Evrope	Npfsg
-,	Z
-in	Cc
-sicer	Q
-Hrvaška	Npfsn
-,	Z
-Črna	Agpfsn
-Gora	Npfsn
-,	Z
-Bosna	Npfsn
-in	Cc
-Hercegovina	Npfsn
-,	Z
-Bolgarija	Npfsn
-,	Z
-Srbija	Npfsn
-,	Z
-Albanija	Npfsn
-,	Z
-Italija	Npfsn
-,	Z
-Avstrija	Npfsn
-in	Cc
-Slovenija	Npfsn
-.	Z
-Novost	Ncfsn
-je	Va-r3s-n
-tudi	Q
-Eko	Ncmsn
-dan	Ncmsn
-Med	Si
-novostmi	Ncfpi
-letošnje	Agpfsg
-Convente	Npfsg
-je	Va-r3s-n
-Eko	Ncmsn
-dan	Ncmsn
-,	Z
-pa	Cc
-možnost	Ncfsa
-brezplačnega	Agpmsg
-razstavnega	Agpmsg
-prostora	Ncmsg
-za	Sa
-ponudnike	Ncmpa
-jugovzhodne	Agpfsg
-Evrope	Npfsg
-z	Si
-nižjim	Agcmsi
-bruto	Agpmsi
-domačim	Agpmsi
-proizvodom	Ncmsi
-.	Z
-Med	Si
-drugim	Mlpmsi
-bodo	Va-f3p-n
-podelili	Vmep-pm
-tudi	Q
-nagrado	Ncfsa
-za	Sa
-posebne	Agpmpa
-dosežke	Ncmpa
-v	Sl
-kongresni	Agpfsl
-industriji	Ncfsl
-Niku	Npmsl
-Račiču	Npmsl
-,	Z
-direktorju	Ncmsd
-hrvaškega	Agpmsg
-kongresnega	Agpmsg
-urada	Ncmsg
-.	Z
-Barbara	Npfsn
-Vajda	Npfsn
-s	Sg
-Turizma	Ncmsg
-Ljubljana	Npfsn
-je	Va-r3s-n
-poudarila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-prestolnica	Ncfsn
-v	Sl
-veliki	Agpfsl
-meri	Ncfsl
-odvisna	Agpfsn
-od	Sg
-prihodov	Ncmpg
-tujih	Agpmpg
-gostov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-ponavadi	Rgp
-95	Mdc
-odstotkov	Ncmpg
-.	Z
-V	Sl
-strukturi	Ncfsl
-teh	Pd-mpg
-gostov	Ncmpg
-jih	Pp3mpg--y
-je	Va-r3s-n
-60	Mdc
-odstotkov	Ncmpg
-poslovnih	Agpmpg
-turistov	Ncmpg
-.	Z
-"	Z
-Evropski	Agpmsny
-mestni	Agpmsny
-turizem	Ncmsn
-si	Px---d--y
-je	Va-r3s-n
-od	Sg
-ekonomske	Agpfsg
-krize	Ncfsg
-kot	Cs
-kaže	Vmpr3s
-opomogel	Vmep-sm
-hitreje	Rgc
-kot	Cs
-druge	Mlpfpa
-turistične	Agpfpa
-zvrsti	Ncfpa
-,	Z
-podobno	Agpnsn
-je	Va-r3s-n
-tudi	Q
-v	Sl
-Ljubljani	Npfsl
-.	Z
-S	Si
-kazalci	Ncmpi
-za	Sa
-leto	Ncnsa
-2010	Mdc
-smo	Va-r1p-n
-zadovoljni	Agpmpn
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Kongresni	mte:Agpmsny	kongresen
+turizem	mte:Ncmsn	turizem
+je	mte:Va-r3s-n	biti
+eden	mte:Mlpmsn	eden
+ključnih	mte:Agpmpg	ključen
+produktov	mte:Ncmpg	produkt
+slovenskega	mte:Agpmsg	slovenski
+turizma	mte:Ncmsg	turizem
+.	mte:Z	.
+Je	mte:Va-r3s-n	biti
+produkt	mte:Ncmsn	produkt
+z	mte:Si	z
+visoko	mte:Agpfsi	visok
+dodano	mte:Appfsi	dodan
+vrednostjo	mte:Ncfsi	vrednost
+,	mte:Z	,
+potrošnja	mte:Ncfsn	potrošnja
+turistov	mte:Ncmpg	turist
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+segmentu	mte:Ncmsl	segment
+je	mte:Va-r3s-n	biti
+najvišja	mte:Agsfsn	visok
+in	mte:Cc	in
+multiplikativni	mte:Agpmpn	multiplikativen
+učinki	mte:Ncmpn	učinek
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+največji	mte:Agsmpn	velik
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+začetku	mte:Ncmsl	začetek
+največje	mte:Agsfsg	velik
+poslovne	mte:Agpfsg	posloven
+borze	mte:Ncfsg	borza
+za	mte:Sa	za
+kongresni	mte:Agpmsay	kongresen
+turizem	mte:Ncmsan	turizem
+za	mte:Sa	za
+področje	mte:Ncnsa	področje
+jugovzhodne	mte:Agpfsg	jugovzhoden
+Evrope	mte:Npfsg	Evropa
+-	mte:Z	-
+Conventa	mte:Npfsn	Convent
+izpostavila	mte:Vmep-sf	izpostaviti
+direktorica	mte:Ncfsn	direktorica
+STO	mte:Mlc-pn	sto
+Maja	mte:Npfsg	Maja
+Pak	mte:Npfsn	Pak
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+prepričana	mte:Appfsn	prepričan
+direktorica	mte:Ncfsn	direktorica
+Slovenske	mte:Agpfsg	slovenski
+turistične	mte:Agpfsg	turističen
+organizacije	mte:Ncfsg	organizacija
+(	mte:Z	(
+STO	mte:Mlc-pn	sto
+)	mte:Z	)
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+kongresni	mte:Agpmsny	kongresen
+turizem	mte:Ncmsn	turizem
+velikega	mte:Agpmsg	velik
+pomena	mte:Ncmsg	pomen
+za	mte:Sa	za
+desezonalizacijo	mte:Ncfsa	desezonalizacija
+in	mte:Cc	in
+generira	mte:Vmbr3s	generirati
+obiske	mte:Ncmpa	obiska
+novih	mte:Agpfpg	nov
+ciljnih	mte:Agpfpg	ciljen
+skupin	mte:Ncfpg	skupina
+.	mte:Z	.
+Konkurenčne	mte:Agpfsg	konkurenčen
+prednosti	mte:Ncfpa	prednost
+Slovenije	mte:Npfsg	Slovenija
+za	mte:Sa	za
+izvedbo	mte:Ncfsa	izvedba
+poslovnih	mte:Agpmpg	posloven
+dogodkov	mte:Ncmpg	dogodek
+predstavljajo	mte:Vmpr3p	predstavljati
+naša	mte:Ps1fsnp	naš
+centralna	mte:Agpfsn	centralen
+lega	mte:Ncfsn	leg
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+dostopnost	mte:Ncfsa	dostopnost
+ključnih	mte:Agpmpg	ključen
+trgov	mte:Ncmpg	trg
+in	mte:Cc	in
+dobro	mte:Agpnsn	dober
+razmerje	mte:Ncnsa	razmerje
+med	mte:Si	med
+ceno	mte:Ncfsi	cena
+in	mte:Cc	in
+kakovostjo	mte:Ncfsi	kakovost
+.	mte:Z	.
+"	mte:Z	"
+Borza	mte:Npfsn	Borz
+Conventa	mte:Npfsn	Convent
+je	mte:Va-r3s-n	biti
+velikega	mte:Agpmsg	velik
+pomena	mte:Ncmsg	pomen
+za	mte:Sa	za
+slovenski	mte:Agpmsay	slovenski
+poslovni	mte:Agpmsay	posloven
+turizem	mte:Ncmsan	turizem
+.	mte:Z	.
+Je	mte:Va-r3s-n	biti
+največji	mte:Agsmsny	velik
+poslovni	mte:Agpmsny	posloven
+dogodek	mte:Ncmsn	dogodek
+poslovnega	mte:Agpmsg	posloven
+turizma	mte:Ncmsg	turizem
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+in	mte:Cc	in
+regiji	mte:Ncfsl	regija
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+dejala	mte:Vmep-sf	dejati
+Pakova	mte:Aspfsn	pakov
+.	mte:Z	.
+Poudarila	mte:Vmep-sf	poudariti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+Conventa	mte:Npmsn	Convent
+pomeni	mte:Vmbr3s	pomeniti
+tudi	mte:Q	tudi
+mednarodno	mte:Agpfsa	mednaroden
+promocijo	mte:Ncfsa	promocija
+Slovenije	mte:Npfsg	Slovenija
+kot	mte:Cs	kot
+turistične	mte:Agpfpa	turističen
+in	mte:Cc	in
+kongresne	mte:Agpfpa	kongresen
+destinacije	mte:Ncfpa	destinacija
+.	mte:Z	.
+Izpostavila	mte:Vmep-sf	izpostaviti
+je	mte:Va-r3s-n	biti
+pet	mte:Mlc-pa	pet
+ključnih	mte:Agpfpg	ključen
+usmeritev	mte:Ncfpg	usmeritev
+programa	mte:Ncmsg	program
+dela	mte:Ncnsg	delo
+STO	mte:Mlc-pa	sto
+.	mte:Z	.
+Med	mte:Si	med
+usmeritvami	mte:Ncfpi	usmeritev
+je	mte:Va-r3s-n	biti
+koncentracija	mte:Ncfsn	koncentracija
+promocije	mte:Ncfsg	promocija
+na	mte:Sl	na
+ključnih	mte:Agpmpl	ključen
+emitivnih	mte:Agpmpl	emitiven
+trgih	mte:Ncmpl	trg
+in	mte:Cc	in
+razvoj	mte:Ncmsnn	razvoj
+novih	mte:Agpmpg	nov
+trgov	mte:Ncmpg	trg
+in	mte:Cc	in
+segmentov	mte:Ncmpg	segment
+.	mte:Z	.
+Želijo	mte:Vmpr3p	želeti
+krepiti	mte:Vmpn	krepiti
+znamko	mte:Ncfsa	znamka
+I	mte:Ncmsn	I
+feel	mte:Ncfsn	feel
+Slovenia	mte:Npfsn	Slovenia
+,	mte:Z	,
+krepiti	mte:Vmpn	krepiti
+spletno	mte:Agpnsa	spleten
+trženje	mte:Ncnsa	trženje
+,	mte:Z	,
+spodbujanje	mte:Ncnsa	spodbujanje
+razvoja	mte:Ncmsg	razvoj
+in	mte:Cc	in
+trženja	mte:Ncnsg	trženje
+zelenega	mte:Agpmsg	zelen
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+trajnostnega	mte:Agpmsg	trajnosten
+turizma	mte:Ncmsg	turizem
+ter	mte:Cc	ter
+krepitev	mte:Ncfsa	krepitev
+in	mte:Cc	in
+povečanje	mte:Ncnsa	povečanje
+učinkovitosti	mte:Ncfsg	učinkovitost
+partnerstva	mte:Ncnsg	partnerstvo
+in	mte:Cc	in
+co	mte:Npmsn	co
+-	mte:Z	-
+brandinga.Turisti	mte:Npmpn	brandinga.Turisti
+si	mte:Px---d--y	se
+želijo	mte:Vmpr3p	želeti
+okolju	mte:Ncnsd	okolje
+prijaznega	mte:Agpnsg	prijazen
+potovanja	mte:Ncnsg	potovanje
+"	mte:Z	"
+Turisti	mte:Ncmpn	turist
+si	mte:Px---d--y	se
+želijo	mte:Vmpr3p	želeti
+okolju	mte:Ncnsd	okolje
+prijaznega	mte:Agpnsg	prijazen
+potovanja	mte:Ncnsg	potovanje
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+Svetovna	mte:Agpfsn	svetoven
+turistična	mte:Agpfsn	turističen
+organizacija	mte:Ncfsn	organizacija
+že	mte:Q	že
+napovedala	mte:Vmep-sf	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+hotelski	mte:Agpmsny	hotelski
+sektor	mte:Ncmsan	sektor
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2020	mte:Mdc	2020
+porabo	mte:Ncfsa	poraba
+energije	mte:Ncfsg	energija
+zmanjša	mte:Vmer3s	zmanjšati
+do	mte:Sg	do
+30	mte:Mdc	30
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+Pakova	mte:Aspmsn	pakov
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+pri	mte:Sl	pri
+skrbi	mte:Ncfsl	skrb
+za	mte:Sa	za
+bolj	mte:Rgc	bolj
+trajnostno	mte:Agpfsa	trajnosten
+ponudbo	mte:Ncfsa	ponudba
+želi	mte:Vmpr3s	želeti
+zmanjšati	mte:Vmen	zmanjšati
+ogljični	mte:Agpmsay	ogljičen
+odtis	mte:Ncmsan	odtis
+pri	mte:Sl	pri
+promociji	mte:Ncfsl	promocija
+zelenih	mte:Agpmpg	zelen
+produktov	mte:Ncmpg	produkt
+,	mte:Z	,
+spodbuja	mte:Vmpr3s	spodbujati
+zelene	mte:Agpfsa	zelen
+destinacije	mte:Ncfpa	destinacija
+,	mte:Z	,
+uvajanja	mte:Ncnsg	uvajanje
+trajnostnih	mte:Agpmpg	trajnosten
+procesnih	mte:Agpmpg	procesen
+modelov	mte:Ncmpg	model
+v	mte:Sl	v
+hotelih	mte:Ncnpl	hotel
+.	mte:Z	.
+Direktor	mte:Ncmsn	direktor
+Zavoda	mte:Ncmsg	zavod
+-	mte:Z	-
+kongresnoturističnega	mte:Agpmsg	kongresnoturističen
+urada	mte:Ncmsg	urad
+Miha	mte:Npmsn	Miha
+Kovačič	mte:Npmsn	Kovačič
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+na	mte:Sl	na
+letošnji	mte:Agpmsl	letošnji
+Conventi	mte:Npfsl	Conventi
+predstavlja	mte:Vmpr3s	predstavljati
+140	mte:Mdc	140
+ponudnikov	mte:Ncmpg	ponudnik
+in	mte:Cc	in
+devet	mte:Mlc-pa	devet
+destinacij	mte:Ncfpg	destinacija
+jugovzhodne	mte:Agpfsg	jugovzhoden
+Evrope	mte:Npfsg	Evropa
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+Hrvaška	mte:Npfsn	hrvaški
+,	mte:Z	,
+Črna	mte:Agpfsn	črn
+Gora	mte:Npfsn	Gora
+,	mte:Z	,
+Bosna	mte:Npfsn	Bosna
+in	mte:Cc	in
+Hercegovina	mte:Npfsn	Hercegovina
+,	mte:Z	,
+Bolgarija	mte:Npfsn	Bolgarija
+,	mte:Z	,
+Srbija	mte:Npfsn	Srbija
+,	mte:Z	,
+Albanija	mte:Npfsn	Albanija
+,	mte:Z	,
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+Avstrija	mte:Npfsn	Avstrija
+in	mte:Cc	in
+Slovenija	mte:Npfsn	Slovenija
+.	mte:Z	.
+Novost	mte:Ncfsn	novost
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+Eko	mte:Ncmsn	eka
+dan	mte:Ncmsn	dan
+Med	mte:Si	med
+novostmi	mte:Ncfpi	novost
+letošnje	mte:Agpfsg	letošnji
+Convente	mte:Npfsg	Conventa
+je	mte:Va-r3s-n	biti
+Eko	mte:Ncmsn	eka
+dan	mte:Ncmsn	dan
+,	mte:Z	,
+pa	mte:Cc	pa
+možnost	mte:Ncfsa	možnost
+brezplačnega	mte:Agpmsg	brezplačen
+razstavnega	mte:Agpmsg	razstaven
+prostora	mte:Ncmsg	prostor
+za	mte:Sa	za
+ponudnike	mte:Ncmpa	ponudnik
+jugovzhodne	mte:Agpfsg	jugovzhoden
+Evrope	mte:Npfsg	Evropa
+z	mte:Si	z
+nižjim	mte:Agcmsi	nizek
+bruto	mte:Agpmsi	bruto
+domačim	mte:Agpmsi	domač
+proizvodom	mte:Ncmsi	proizvod
+.	mte:Z	.
+Med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+bodo	mte:Va-f3p-n	biti
+podelili	mte:Vmep-pm	podeliti
+tudi	mte:Q	tudi
+nagrado	mte:Ncfsa	nagrada
+za	mte:Sa	za
+posebne	mte:Agpmpa	poseben
+dosežke	mte:Ncmpa	dosežek
+v	mte:Sl	v
+kongresni	mte:Agpfsl	kongresen
+industriji	mte:Ncfsl	industrija
+Niku	mte:Npmsl	Nik
+Račiču	mte:Npmsl	Račič
+,	mte:Z	,
+direktorju	mte:Ncmsd	direktor
+hrvaškega	mte:Agpmsg	hrvaški
+kongresnega	mte:Agpmsg	kongresen
+urada	mte:Ncmsg	urad
+.	mte:Z	.
+Barbara	mte:Npfsn	Barbara
+Vajda	mte:Npfsn	Vajda
+s	mte:Sg	z
+Turizma	mte:Ncmsg	turizem
+Ljubljana	mte:Npfsn	Ljubljana
+je	mte:Va-r3s-n	biti
+poudarila	mte:Vmep-sf	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+prestolnica	mte:Ncfsn	prestolnica
+v	mte:Sl	v
+veliki	mte:Agpfsl	velik
+meri	mte:Ncfsl	mera
+odvisna	mte:Agpfsn	odvisen
+od	mte:Sg	od
+prihodov	mte:Ncmpg	prihod
+tujih	mte:Agpmpg	tuj
+gostov	mte:Ncmpg	gost
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+ponavadi	mte:Rgp	ponavadi
+95	mte:Mdc	95
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+strukturi	mte:Ncfsl	struktura
+teh	mte:Pd-mpg	ta
+gostov	mte:Ncmpg	gost
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+60	mte:Mdc	60
+odstotkov	mte:Ncmpg	odstotek
+poslovnih	mte:Agpmpg	posloven
+turistov	mte:Ncmpg	turist
+.	mte:Z	.
+"	mte:Z	"
+Evropski	mte:Agpmsny	evropski
+mestni	mte:Agpmsny	mesten
+turizem	mte:Ncmsn	turizem
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+ekonomske	mte:Agpfsg	ekonomski
+krize	mte:Ncfsg	kriza
+kot	mte:Cs	kot
+kaže	mte:Vmpr3s	kazati
+opomogel	mte:Vmep-sm	opomoči
+hitreje	mte:Rgc	hitro
+kot	mte:Cs	kot
+druge	mte:Mlpfpa	drug
+turistične	mte:Agpfpa	turističen
+zvrsti	mte:Ncfpa	zvrst
+,	mte:Z	,
+podobno	mte:Agpnsn	podoben
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+S	mte:Si	z
+kazalci	mte:Ncmpi	kazalec
+za	mte:Sa	za
+leto	mte:Ncnsa	leto
+2010	mte:Mdc	2010
+smo	mte:Va-r1p-n	biti
+zadovoljni	mte:Agpmpn	zadovoljen
+.	mte:Z	.
+Lani	mte:Rgp	lani
+smo	mte:Va-r1p-n	biti
+našteli	mte:Vmep-pm	našteti
+718.000	mte:Mdc	718.000
+nočitev	mte:Ncfpg	nočitev
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+5,2	mte:Mdc	5,2
+odstotka	mte:Ncmsg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+leto	mte:Ncnsa	leto
+prej	mte:Rgc	prej
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dodala	mte:Vmep-sf	dodati
+Vajda	mte:Npfsn	Vajda

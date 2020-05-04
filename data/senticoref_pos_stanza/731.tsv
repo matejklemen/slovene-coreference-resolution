@@ -1,351 +1,373 @@
-token	tag
-Na	Sa
-razpis	Ncmsan
-za	Sa
-generalnega	Agpmsa
-direktorja	Ncmsay
-Slovenskih	Agpfpg
-železnic	Ncfpg
-je	Va-r3s-n
-prispelo	Vmep-sn
-15	Mdc
-prijav	Ncfpg
-.	Z
-Kandidati	Ncmpn
-so	Va-r3p-n
-prijavi	Ncfsa
-priložili	Vmep-pm
-tudi	Q
-seznam	Ncmsan
-vizij	Ncfpg
-in	Cc
-strategij	Ncfpg
-.	Z
-Njihova	Ps3npnp
-imena	Ncnpa
-še	Q
-ostajajo	Vmpr3p
-skrivnost	Ncfsa
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-Slovenskih	Agpfpg
-železnic	Ncfpg
-je	Va-r3s-n
-razpis	Ncmsn
-objavil	Vmep-sm
-tri	Mlcmpa
-dni	Ncmpa
-zatem	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-7	Mdc
-.	Z
-julija	Ncmsg
-Matic	Npmsn
-Tasič	Npmsn
-podal	Vmbp-sm
-nepreklicno	Agpfsa
-odstopno	Agpfsa
-izjavo	Ncfsa
-s	Sg
-položaja	Ncmsg
-prvega	Mlomsg
-moža	Ncmsg
-družbe	Ncfsg
-.	Z
-Tasič	Npmsn
-je	Va-r3s-n
-krmilo	Ncnsa
-železnic	Ncfpg
-zapustil	Vmep-sm
-po	Sl
-samo	Q
-štirih	Mlcmpl
-mesecih	Ncmpl
-vodenja	Ncnsg
-,	Z
-železnice	Ncfsg
-pa	Cc
-začasno	Rgp
-vodi	Vmpr3s
-član	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Aleš	Npmsn
-Tavčar	Npmsn
-.	Z
-Tasič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-položaj	Ncmsan
-prvega	Mlomsg
-moža	Ncmsg
-železnic	Ncfpg
-brez	Sg
-javnega	Agpmsg
-razpisa	Ncmsg
-zasedel	Vmep-sm
-17	Mdc
-.	Z
-marca	Ncmsg
-,	Z
-je	Va-r3s-n
-z	Sg
-železnic	Ncfpg
-odšel	Vmep-sm
-,	Z
-saj	Cc
-kljub	Sd
-zahtevam	Ncfpd
-nadzornikov	Ncmpg
-in	Cc
-resornega	Agpmsg
-ministra	Ncmsg
-ni	Va-r3s-y
-odstopil	Vmep-sm
-s	Sg
-položaja	Ncmsg
-župana	Ncmsg
-občine	Ncfsg
-Prevalje	Npnsn
-.	Z
-Razpisna	Agpfsn
-komisija	Ncfsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Slovenskih	Agpfpg
-železnic	Ncfpg
-je	Va-r3s-n
-danes	Rgp
-dopoldne	Rgp
-pregledala	Vmep-sf
-15	Mdc
-prispelih	Appfpg
-prijav	Ncfpg
-na	Sa
-razpis	Ncmsan
-za	Sa
-generalnega	Agpmsa
-direktorja	Ncmsay
-družbe	Ncfsg
-.	Z
-Znova	Rgp
-se	Px------y
-bo	Va-f3s-n
-sestala	Vmep-sf
-prihodnjo	Agpfsa
-sredo	Ncfsa
-,	Z
-po	Sl
-temeljiti	Ncfsl
-preučitvi	Ncfsl
-prijav	Ncfpg
-oz	Ncfsg
-.	Z
-priloženih	Appfpg
-vizij	Ncfpg
-in	Cc
-strategij	Ncfpg
-,	Z
-ko	Cs
-bo	Va-f3s-n
-na	Sa
-pogovor	Ncmsan
-tudi	Q
-povabila	Vmep-sf
-ustrezne	Agpmpa
-kandidate	Ncmpa
-.	Z
-Kot	Cs
-je	Va-r3s-n
-pojasnila	Vmep-sf
-predsednica	Ncfsn
-razpisne	Agpfsg
-komisije	Ncfsg
-Branka	Npmsn
-Neffat	Npmsn
-,	Z
-bo	Va-f3s-n
-komisija	Ncfsn
-pregledala	Vmep-sf
-,	Z
-koliko	Rgp
-prijav	Ncfpg
-je	Va-r3s-n
-zadostilo	Vmep-sn
-vsem	Pg-mpd
-razpisnim	Agpmpd
-pogojem	Ncmpd
-,	Z
-torej	Rgp
-tako	Rgp
-formalnim	Agpmpd
-pogojem	Ncmpd
-kot	Cs
-priložitvi	Ncfsd
-vizije	Ncfsg
-in	Cc
-strategije	Ncfsg
-Slovenskih	Agpfpg
-železnic	Ncfpg
-za	Sa
-prihodnji	Agpmsay
-štiriletni	Agpmsay
-mandat	Ncmsan
-.	Z
-Vizijo	Ncfsa
-in	Cc
-strategijo	Ncfsa
-je	Va-r3s-n
-po	Sl
-njenih	Ps3nplsf
-pojasnilih	Ncnpl
-sicer	Q
-k	Sd
-prijavi	Ncfsd
-priložila	Vmep-sf
-večina	Ncfsn
-kandidatov	Ncmpg
-.	Z
-Razpisna	Agpfsn
-komisija	Ncfsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-bo	Va-f3s-n
-do	Sg
-prihodnjega	Agpmsg
-tedna	Ncmsg
-podrobneje	Rgc
-analizirala	Vmbp-sf
-in	Cc
-preučila	Vmep-sf
-priložene	Appfpa
-vizije	Ncfpa
-in	Cc
-se	Px------y
-znova	Rgp
-sestala	Vmep-sf
-v	Sa
-sredo	Ncfsa
-,	Z
-2	Mdc
-.	Z
-septembra	Ncmsg
-,	Z
-ko	Cs
-bo	Va-f3s-n
-na	Sa
-pogovor	Ncmsan
-povabila	Vmep-sf
-tudi	Q
-ustrezne	Agpmpa
-kandidate	Ncmpa
-.	Z
-O	Sl
-imenih	Ncnpl
-je	Va-r3s-n
-po	Sl
-njenih	Ps3fplsf
-besedah	Ncfpl
-še	Q
-prezgodaj	Rgp
-govoriti	Vmpn
-.	Z
-Komisija	Ncfsn
-bo	Va-f3s-n
-nato	Rgp
-nadzornemu	Agpmsd
-svetu	Ncmsd
-Slovenskih	Agpfpg
-železnic	Ncfpg
-vodi	Ncfsg
-ga	Pp3msa--y
-Andrej	Npmsn
-Godec	Npmsn
-predlagala	Vmbp-sf
-kandidata	Ncmsg
-,	Z
-Neffatova	Aspfsn
-pa	Cc
-ne	Q
-izključuje	Vmpr3s
-niti	Q
-morebitne	Agpfsg
-ponovitve	Ncfsg
-razpisa	Ncmsg
-,	Z
-če	Cs
-med	Si
-petnajsterico	Ncfsi
-ne	Q
-bi	Va-c
-našli	Vmep-pm
-primernega	Agpmsg
-kandidata	Ncmsg
-za	Sa
-vodenje	Ncnsa
-družbe	Ncfsg
-.	Z
-Med	Si
-prijavljenimi	Appnpi
-ni	Va-r3s-y
-znanih	Appnpg
-imen	Ncnpg
-iz	Sg
-gospodarstva	Ncnsg
-,	Z
-glavni	Agpmsay
-favorit	Ncmsn
-pa	Cc
-je	Va-r3s-n
-nekdanji	Agpmsny
-direktor	Ncmsn
-Term	Npfsg
-Čatež	Npmsn
-in	Cc
-Sinfonike	Npfsg
-Goran	Npmsn
-Brankovič	Npmsn
-.	Z
-Podporo	Ncfsa
-naj	Q
-bi	Va-c
-imel	Vmpp-sm
-v	Sl
-levi	Agpfsl
-kot	Cs
-v	Sl
-desni	Agpfsl
-politični	Agpfsl
-opciji	Ncfsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-prejšnji	Agpmsay
-teden	Ncmsan
-poudaril	Vmep-sm
-prvi	Mlomsn
-nadzornik	Ncmsn
-železnic	Ncfpg
-Godec	Npmsn
-,	Z
-bi	Va-c
-lahko	Rgp
-izbranec	Ncmsn
-vodenje	Ncnsn
-Slovenskih	Agpfpg
-železnic	Ncfpg
-,	Z
-če	Cs
-bo	Va-f3s-n
-šlo	Vmbp-sn
-vse	Pg-nsa
-po	Sl
-načrtu	Ncmsl
-,	Z
-prevzel	Vmep-sm
-oktobra	Ncmsg
-.	Z
+token	tag	lemma
+Na	mte:Sa	na
+razpis	mte:Ncmsan	razpis
+za	mte:Sa	za
+generalnega	mte:Agpmsa	generalen
+direktorja	mte:Ncmsay	direktor
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+je	mte:Va-r3s-n	biti
+prispelo	mte:Vmep-sn	prispeti
+15	mte:Mdc	15
+prijav	mte:Ncfpg	prijava
+.	mte:Z	.
+Kandidati	mte:Ncmpn	kandidat
+so	mte:Va-r3p-n	biti
+prijavi	mte:Ncfsa	prijava
+priložili	mte:Vmep-pm	priložiti
+tudi	mte:Q	tudi
+seznam	mte:Ncmsan	seznam
+vizij	mte:Ncfpg	vizje
+in	mte:Cc	in
+strategij	mte:Ncfpg	strategija
+.	mte:Z	.
+Njihova	mte:Ps3npnp	njihov
+imena	mte:Ncnpa	ime
+še	mte:Q	še
+ostajajo	mte:Vmpr3p	ostajati
+skrivnost	mte:Ncfsa	skrivnost
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+je	mte:Va-r3s-n	biti
+razpis	mte:Ncmsn	razpis
+objavil	mte:Vmep-sm	objaviti
+tri	mte:Mlcmpa	trije
+dni	mte:Ncmpa	dan
+zatem	mte:Rgp	zatem
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+7	mte:Mdc	7
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+Matic	mte:Npmsn	Matic
+Tasič	mte:Npmsn	Tasič
+podal	mte:Vmbp-sm	podati
+nepreklicno	mte:Agpfsa	nepreklicen
+odstopno	mte:Agpfsa	odstopen
+izjavo	mte:Ncfsa	izjava
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Tasič	mte:Npmsn	Tasič
+je	mte:Va-r3s-n	biti
+krmilo	mte:Ncnsa	krmilo
+železnic	mte:Ncfpg	železnica
+zapustil	mte:Vmep-sm	zapustiti
+po	mte:Sl	po
+samo	mte:Q	samo
+štirih	mte:Mlcmpl	štirje
+mesecih	mte:Ncmpl	mesec
+vodenja	mte:Ncnsg	vodenje
+,	mte:Z	,
+železnice	mte:Ncfsg	železnica
+pa	mte:Cc	pa
+začasno	mte:Rgp	začasno
+vodi	mte:Vmpr3s	voditi
+član	mte:Ncmsn	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Aleš	mte:Npmsn	Aleš
+Tavčar	mte:Npmsn	Tavčar
+.	mte:Z	.
+Tasič	mte:Npmsn	Tasič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+položaj	mte:Ncmsan	položaj
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+železnic	mte:Ncfpg	železnica
+brez	mte:Sg	brez
+javnega	mte:Agpmsg	javen
+razpisa	mte:Ncmsg	razpis
+zasedel	mte:Vmep-sm	zasesti
+17	mte:Mdc	17
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+z	mte:Sg	z
+železnic	mte:Ncfpg	železnica
+odšel	mte:Vmep-sm	oditi
+,	mte:Z	,
+saj	mte:Cc	saj
+kljub	mte:Sd	kljub
+zahtevam	mte:Ncfpd	zahteva
+nadzornikov	mte:Ncmpg	nadzornik
+in	mte:Cc	in
+resornega	mte:Agpmsg	resoren
+ministra	mte:Ncmsg	minister
+ni	mte:Va-r3s-y	biti
+odstopil	mte:Vmep-sm	odstopiti
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+župana	mte:Ncmsg	župan
+občine	mte:Ncfsg	občina
+Prevalje	mte:Npnsn	Prevalje
+.	mte:Z	.
+Razpisna	mte:Agpfsn	razpisen
+komisija	mte:Ncfsn	komisija
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+dopoldne	mte:Rgp	dopoldne
+pregledala	mte:Vmep-sf	pregledati
+15	mte:Mdc	15
+prispelih	mte:Appfpg	prispel
+prijav	mte:Ncfpg	prijava
+na	mte:Sa	na
+razpis	mte:Ncmsan	razpis
+za	mte:Sa	za
+generalnega	mte:Agpmsa	generalen
+direktorja	mte:Ncmsay	direktor
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Znova	mte:Rgp	znova
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+sestala	mte:Vmep-sf	sestati
+prihodnjo	mte:Agpfsa	prihodnji
+sredo	mte:Ncfsa	sreda
+,	mte:Z	,
+po	mte:Sl	po
+temeljiti	mte:Ncfsl	temeljit
+preučitvi	mte:Ncfsl	preučitev
+prijav	mte:Ncfpg	prijava
+oz	mte:Ncfsg	oz
+.	mte:Z	.
+priloženih	mte:Appfpg	priložen
+vizij	mte:Ncfpg	vizje
+in	mte:Cc	in
+strategij	mte:Ncfpg	strategija
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+na	mte:Sa	na
+pogovor	mte:Ncmsan	pogovor
+tudi	mte:Q	tudi
+povabila	mte:Vmep-sf	povabiti
+ustrezne	mte:Agpmpa	ustrezen
+kandidate	mte:Ncmpa	kandidat
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+predsednica	mte:Ncfsn	predsednica
+razpisne	mte:Agpfsg	razpisen
+komisije	mte:Ncfsg	komisija
+Branka	mte:Npmsn	Branko
+Neffat	mte:Npmsn	Neffat
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+komisija	mte:Ncfsn	komisija
+pregledala	mte:Vmep-sf	pregledati
+,	mte:Z	,
+koliko	mte:Rgp	koliko
+prijav	mte:Ncfpg	prijava
+je	mte:Va-r3s-n	biti
+zadostilo	mte:Vmep-sn	zadostiti
+vsem	mte:Pg-mpd	ves
+razpisnim	mte:Agpmpd	razpisen
+pogojem	mte:Ncmpd	pogoj
+,	mte:Z	,
+torej	mte:Rgp	torej
+tako	mte:Rgp	tako
+formalnim	mte:Agpmpd	formalen
+pogojem	mte:Ncmpd	pogoj
+kot	mte:Cs	kot
+priložitvi	mte:Ncfsd	priložitev
+vizije	mte:Ncfsg	vizija
+in	mte:Cc	in
+strategije	mte:Ncfsg	strategija
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+za	mte:Sa	za
+prihodnji	mte:Agpmsay	prihodnji
+štiriletni	mte:Agpmsay	štirileten
+mandat	mte:Ncmsan	mandat
+.	mte:Z	.
+Vizijo	mte:Ncfsa	vizija
+in	mte:Cc	in
+strategijo	mte:Ncfsa	strategija
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njenih	mte:Ps3nplsf	njen
+pojasnilih	mte:Ncnpl	pojasnilo
+sicer	mte:Q	sicer
+k	mte:Sd	k
+prijavi	mte:Ncfsd	prijava
+priložila	mte:Vmep-sf	priložiti
+večina	mte:Ncfsn	večina
+kandidatov	mte:Ncmpg	kandidat
+.	mte:Z	.
+Razpisna	mte:Agpfsn	razpisen
+komisija	mte:Ncfsn	komisija
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+bo	mte:Va-f3s-n	biti
+do	mte:Sg	do
+prihodnjega	mte:Agpmsg	prihodnji
+tedna	mte:Ncmsg	teden
+podrobneje	mte:Rgc	podrobno
+analizirala	mte:Vmbp-sf	analizirati
+in	mte:Cc	in
+preučila	mte:Vmep-sf	preučiti
+priložene	mte:Appfpa	priložen
+vizije	mte:Ncfpa	vizija
+in	mte:Cc	in
+se	mte:Px------y	se
+znova	mte:Rgp	znova
+sestala	mte:Vmep-sf	sestati
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+,	mte:Z	,
+2	mte:Mdc	2
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+na	mte:Sa	na
+pogovor	mte:Ncmsan	pogovor
+povabila	mte:Vmep-sf	povabiti
+tudi	mte:Q	tudi
+ustrezne	mte:Agpmpa	ustrezen
+kandidate	mte:Ncmpa	kandidat
+.	mte:Z	.
+O	mte:Sl	o
+imenih	mte:Ncnpl	ime
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njenih	mte:Ps3fplsf	njen
+besedah	mte:Ncfpl	beseda
+še	mte:Q	še
+prezgodaj	mte:Rgp	prezgodaj
+govoriti	mte:Vmpn	govoriti
+.	mte:Z	.
+Komisija	mte:Ncfsn	komisija
+bo	mte:Va-f3s-n	biti
+nato	mte:Rgp	nato
+nadzornemu	mte:Agpmsd	nadzoren
+svetu	mte:Ncmsd	svet
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+vodi	mte:Ncfsg	voda
+ga	mte:Pp3msa--y	on
+Andrej	mte:Npmsn	Andrej
+Godec	mte:Npmsn	Godec
+predlagala	mte:Vmbp-sf	predlagati
+kandidata	mte:Ncmsg	kandidat
+,	mte:Z	,
+Neffatova	mte:Aspfsn	Neffatov
+pa	mte:Cc	pa
+ne	mte:Q	ne
+izključuje	mte:Vmpr3s	izključevati
+niti	mte:Q	niti
+morebitne	mte:Agpfsg	morebiten
+ponovitve	mte:Ncfsg	ponovitev
+razpisa	mte:Ncmsg	razpis
+,	mte:Z	,
+če	mte:Cs	če
+med	mte:Si	med
+petnajsterico	mte:Ncfsi	petnajsterica
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+našli	mte:Vmep-pm	najti
+primernega	mte:Agpmsg	primeren
+kandidata	mte:Ncmsg	kandidat
+za	mte:Sa	za
+vodenje	mte:Ncnsa	vodenje
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Med	mte:Si	med
+prijavljenimi	mte:Appnpi	prijavljen
+ni	mte:Va-r3s-y	biti
+znanih	mte:Appnpg	znan
+imen	mte:Ncnpg	ime
+iz	mte:Sg	iz
+gospodarstva	mte:Ncnsg	gospodarstvo
+,	mte:Z	,
+glavni	mte:Agpmsay	glaven
+favorit	mte:Ncmsn	favorit
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+nekdanji	mte:Agpmsny	nekdanji
+direktor	mte:Ncmsn	direktor
+Term	mte:Npfsg	Term
+Čatež	mte:Npmsn	Čatež
+in	mte:Cc	in
+Sinfonike	mte:Npfsg	Sinfonik
+Goran	mte:Npmsn	Goran
+Brankovič	mte:Npmsn	Brankovič
+.	mte:Z	.
+Podporo	mte:Ncfsa	podpora
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+v	mte:Sl	v
+levi	mte:Agpfsl	lev
+kot	mte:Cs	kot
+v	mte:Sl	v
+desni	mte:Agpfsl	desen
+politični	mte:Agpfsl	političen
+opciji	mte:Ncfsl	opcija
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+poudaril	mte:Vmep-sm	poudariti
+prvi	mte:Mlomsn	prvi
+nadzornik	mte:Ncmsn	nadzornik
+železnic	mte:Ncfpg	železnica
+Godec	mte:Npmsn	Godec
+,	mte:Z	,
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+izbranec	mte:Ncmsn	izbranec
+vodenje	mte:Ncnsn	vodenje
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+šlo	mte:Vmbp-sn	iti
+vse	mte:Pg-nsa	ves
+po	mte:Sl	po
+načrtu	mte:Ncmsl	načrt
+,	mte:Z	,
+prevzel	mte:Vmep-sm	prevzeti
+oktobra	mte:Ncmsg	oktober
+.	mte:Z	.
+Mandat	mte:Ncmsn	mandat
+traja	mte:Vmpr3s	trajati
+štiri	mte:Mlcnpa	štirje
+leta	mte:Ncnpa	leto
+z	mte:Si	z
+možnostjo	mte:Ncfsi	možnost
+ponovnega	mte:Agpnsg	ponoven
+imenovanja	mte:Ncnsg	imenovanje
+,	mte:Z	,
+z	mte:Si	z
+izbranim	mte:Appmsi	izbran
+kandidatom	mte:Ncmsi	kandidat
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+sklenjena	mte:Appfsn	sklenjen
+pogodba	mte:Ncfsn	pogodba
+o	mte:Sl	o
+zaposlitvi	mte:Ncfsl	zaposlitev
+za	mte:Sa	za
+čas	mte:Ncmsan	čas
+trajanja	mte:Ncnsg	trajanje
+mandata	mte:Ncmsg	mandat

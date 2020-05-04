@@ -1,512 +1,549 @@
-token	tag
-Novembra	Ncmsg
-je	Va-r3s-n
-imela	Vmpp-sf
-Slovenija	Npfsn
-v	Sl
-evro	Ncmsl
-območju	Ncnsl
-najvišjo	Agsfsa
-inflacijo	Ncfsa
-.	Z
-ECB	Npmsn
-napoveduje	Vmpr3s
-rast	Ncfsa
-inflacije	Ncfsg
-tudi	Q
-leta	Ncnsg
-2008	Mdc
-.	Z
-Glavni	Agpmpn
-krivci	Ncmpn
-za	Sa
-inflacijo	Ncfsa
-naj	Q
-bi	Va-c
-bile	Va-p-pf
-višje	Agcfpn
-cene	Ncfpn
-osnovnih	Agpfpg
-živil	Ncfpg
-.	Z
-Letna	Agpfsn
-stopnja	Ncfsn
-inflacije	Ncfsg
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-in	Cc
-v	Sl
-celotni	Agpfsl
-Evropski	Agpfsl
-uniji	Ncfsl
-je	Va-r3s-n
-bila	Va-p-sf
-novembra	Ncmsg
-3,1	Mdc
-odstotka	Ncmsg
-.	Z
-Med	Si
-13	Mdc
-državami	Ncfpi
-območja	Ncnsg
-evra	Ncmsg
-je	Va-r3s-n
-bila	Va-p-sf
-inflacija	Ncfsn
-najvišja	Agsfsn
-v	Sl
-Sloveniji	Npfsl
-,	Z
-in	Cc
-sicer	Q
-5,7	Mdc
-odstotka	Ncmsg
-,	Z
-najnižja	Agsfsn
-pa	Cc
-na	Sl
-Nizozemskem	Agpmsl
-z	Si
-1,8	Mdc
-odstotka	Ncmsg
-,	Z
-je	Va-r3s-n
-v	Sl
-zadnji	Agpfsl
-oceni	Ncfsl
-potrdil	Vmep-sm
-evropski	Agpmsay
-statistični	Agpmsay
-urad	Ncmsan
-Eurostat	Npmsn
-.	Z
-Oktobra	Ncmsg
-letos	Rgp
-je	Va-r3s-n
-inflacija	Ncfsn
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-znašala	Vmpp-sf
-2,6	Mdc
-odstotka	Ncmsg
-.	Z
-Stopnja	Ncfsn
-inflacije	Ncfsg
-je	Va-r3s-n
-bila	Va-p-sf
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-novembra	Ncmsg
-najvišja	Agsfsn
-od	Sg
-uvedbe	Ncfsg
-evra	Ncmsg
-leta	Ncnsg
-2002	Mdc
-in	Cc
-nad	Si
-predhodnimi	Agpfpi
-ocenami	Ncfpi
-.	Z
-Glavni	Agpmpn
-krivci	Ncmpn
-za	Sa
-inflacijo	Ncfsa
-pa	Cc
-naj	Q
-bi	Va-c
-bile	Va-p-pf
-višje	Agcfpn
-cene	Ncfpn
-osnovnih	Agpfpg
-živil	Ncfpg
-,	Z
-kot	Cs
-so	Va-r3p-n
-mleko	Ncnsn
-,	Z
-sir	Ncmsn
-in	Cc
-jajca	Ncnpn
-,	Z
-transportnega	Agpnsg
-goriva	Ncnsg
-in	Cc
-kurilnega	Agpnsg
-olja	Ncnsg
-.	Z
-Stopnja	Ncfsn
-inflacije	Ncfsg
-je	Va-r3s-n
-precej	Rgp
-višja	Agcfsn
-od	Sg
-cilja	Ncmsg
-Evropske	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-,	Z
-ki	Cs
-znaša	Vmpr3s
-pod	Si
-,	Z
-vendar	Cc
-blizu	Sg
-dveh	Mlcmdg
-odstotkov	Ncmdg
-.	Z
-Oktobra	Ncmsg
-je	Va-r3s-n
-letna	Agpfsn
-stopnja	Ncfsn
-inflacije	Ncfsg
-v	Sl
-EU	Npfsl
-znašala	Vmpp-sf
-2,7	Mdc
-odstotka	Ncmsg
-,	Z
-septembra	Ncmsg
-pa	Cc
-še	Q
-2,2	Mdc
-odstotka	Ncmsg
-.	Z
-Lani	Rgp
-je	Va-r3s-n
-stopnja	Ncfsn
-inflacije	Ncfsg
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-znašala	Vmpp-sf
-1,8	Mdc
-odstotka	Ncmsg
-.	Z
-Najnižje	Agsfsg
-stopnje	Ncfsg
-inflacije	Ncfsg
-v	Sl
-EU	Npfsl
-so	Va-r3p-n
-novembra	Ncmsg
-zabeležile	Vmep-pf
-Nizozemska	Agpfsn
-1,8	Mdc
-odstotka	Ncmsg
-,	Z
-Finska	Npfsn
-2,1	Mdc
-odstotka	Ncmsg
-in	Cc
-Slovaška	Npfsn
-z	Si
-2,3	Mdc
-odstotka	Ncmsg
-,	Z
-najvišjo	Agsfsi
-stopnjo	Ncfsi
-inflacije	Ncfsg
-v	Sa
-EU	Npfsa
-pa	Cc
-so	Va-r3p-n
-zabeležile	Vmep-pf
-Latvija	Npfsn
-13,7	Mdc
-odstotka	Ncmsg
-,	Z
-Bolgarija	Npfsn
-11,4	Mdc
-odstotka	Ncmsg
-in	Cc
-Estonija	Npfsn
-9,3	Mdc
-odstotka	Ncmsg
-.	Z
-Foto	Npmsn
-Reuters	Npmsn
-Povišana	Appfsn
-inflacija	Ncfsn
-tudi	Q
-naslednje	Agpnsa
-leto	Ncnsa
-?	Z
-Vodja	Ncmsn
-poslanske	Agpfsg
-skupine	Ncfsg
-SDS	Npmsn
-Jože	Npmsn
-Tanko	Npmsn
-podprl	Vmep-sm
-pobudo	Ncfsa
-Gospodarske	Agpfsg
-zbornice	Ncfsg
-Slovenije	Npfsg
-GZS	Npfsg
-,	Z
-naj	Cs
-se	Px------y
-pri	Sl
-boju	Ncmsl
-zoper	Sa
-inflacijo	Ncfsa
-organizirajo	Vmbr3p
-vsi	Pg-mpn
-trije	Mlcmpn
-partnerji	Ncmpn
-vlada	Ncfsn
-,	Z
-delodajalci	Ncmpn
-in	Cc
-delojemalci	Ncmpn
-oz	Ncmsg
-.	Z
-sindikati	Ncmpn
-.	Z
-Povedal	Vmep-sm
-je	Va-r3s-n
-tudi	Q
-,	Z
-da	Cs
-je	Va-r3s-n
-koalicija	Ncfsn
-vložila	Vmep-sf
-zahtevo	Ncfsa
-za	Sa
-sklic	Ncmsan
-izredne	Agpfsg
-seje	Ncfsg
-,	Z
-na	Sl
-kateri	Pq-fsl
-bi	Va-c
-obravnavali	Vmpp-pm
-noveli	Ncfsa
-zakona	Ncmsg
-o	Sl
-prevzemih	Ncmpl
-in	Cc
-o	Sl
-bančništvu	Ncnsl
-ter	Cc
-opozoril	Vmep-sm
-na	Sa
-svarila	Ncnpa
-ekonomistov	Ncmpg
-pred	Si
-pretiranimi	Appmpi
-dvigi	Ncmpi
-plač	Ncfpg
-.	Z
-Ta	Pd-fsn
-bi	Va-c
-namreč	Cc
-lahko	Rgp
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-spodbudila	Vmep-sf
-inflacijska	Agpnpa
-pričakovanja	Ncnpa
-in	Cc
-s	Si
-tem	Pd-nsi
-dvignila	Vmep-sf
-inflacijo	Ncfsa
-.	Z
-Evropska	Agpfsn
-centralna	Agpfsn
-banka	Ncfsn
-ECB	Npfsn
-bo	Va-f3s-n
-odločno	Rgp
-in	Cc
-pravočasno	Rgp
-ukrepala	Vmpp-sf
-proti	Sd
-inflacijskim	Agpnpd
-tveganjem	Ncnpd
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-eden	Mlpmsn
-od	Sg
-članov	Ncmpg
-Sveta	Ncmsg
-ECB	Npmsn
-,	Z
-guverner	Ncmsn
-luksemburške	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-Yves	Npmsn
-Mersch	Npmsn
-.	Z
-Svet	Ncmsn
-ECB	Npmsg
-je	Va-r3s-n
-pripravljen	Appmsnn
-ukrepati	Vmpn
-proti	Sd
-tveganjem	Ncnpd
-za	Sa
-dvig	Ncmsan
-cen	Ncfpg
-,	Z
-kot	Cs
-zahteva	Vmbr3s
-njegov	Ps3msasm
-položaj	Ncmsan
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Mersch	Npmsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-še	Q
-ponovil	Vmep-sm
-napovedi	Ncfpa
-ECB	Npfsg
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-pričakovati	Vmpn
-povišano	Appfsa
-inflacijo	Ncfsa
-do	Sg
-konca	Ncmsg
-prihodnjega	Agpnsg
-leta	Ncnsg
-.	Z
-Po	Sl
-novih	Agpfpl
-,	Z
-popravljenih	Appfpl
-napovedih	Ncfpl
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-je	Va-r3s-n
-ECB	Npfsn
-objavila	Vmep-sf
-6	Mdc
-.	Z
-decembra	Ncmsg
-,	Z
-je	Va-r3s-n
-zaradi	Sg
-višjih	Agcfpg
-cen	Ncfpg
-nafte	Ncfsg
-in	Cc
-hrane	Ncfsg
-letos	Rgp
-pričakovati	Vmpn
-2,1	Mdc
--	Z
-odstotno	Agpfsa
-inflacijo	Ncfsa
-,	Z
-ki	Cs
-se	Px------y
-bo	Va-f3s-n
-leta	Ncnsg
-2008	Mdc
-povzpela	Vmep-sf
-na	Sa
-2,5	Mdc
-odstotka	Ncmsg
-.	Z
-Po	Sl
-prvih	Mlofpl
-ocenah	Ncfpl
-ECB	Ncfsg
-naj	Q
-bi	Va-c
-se	Px------y
-inflacija	Ncfsn
-zmanjšala	Vmep-sf
-šele	Q
-leta	Ncnsg
-2009	Mdc
-,	Z
-ko	Cs
-naj	Q
-bi	Va-c
-padla	Vmep-sf
-na	Sa
-1,8	Mdc
-odstotka	Ncmsg
-in	Cc
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-znova	Rgp
-v	Sl
-okviru	Ncmsl
-cilja	Ncmsg
-ECB	Npmsg
-,	Z
-ki	Cs
-znaša	Vmpr3s
-pod	Si
-,	Z
-vendar	Cc
-blizu	Sg
-dveh	Mlcmdg
-odstotkov	Ncmdg
-.	Z
-Predtem	Rgp
-je	Va-r3s-n
-ECB	Npfsn
-za	Sa
-leti	Ncnpa
-2007	Mdc
-in	Cc
-2008	Mdc
-napovedala	Vmep-sf
-2,0	Mdc
--	Z
-odstotno	Agpfsa
-inflacijo	Ncfsa
-.	Z
-Guverner	Ncmsn
-luksemburške	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-je	Va-r3s-n
-danes	Rgp
-še	Q
-opozoril	Vmep-sm
-pred	Si
-stalnim	Agpnsi
-zviševanjem	Ncnsi
-cen	Ncfpg
-in	Cc
-pred	Si
-zahtevami	Ncfpi
-po	Sl
-dvigu	Ncmsl
-kupne	Agpfsg
-moči	Ncfsg
-in	Cc
-s	Si
-tem	Pd-msi
-dvigu	Ncmsl
-plač	Ncfpg
-.	Z
+token	tag	lemma
+Novembra	mte:Ncmsg	november
+je	mte:Va-r3s-n	biti
+imela	mte:Vmpp-sf	imeti
+Slovenija	mte:Npfsn	Slovenija
+v	mte:Sl	v
+evro	mte:Ncmsl	evro
+območju	mte:Ncnsl	območje
+najvišjo	mte:Agsfsa	visok
+inflacijo	mte:Ncfsa	inflacija
+.	mte:Z	.
+ECB	mte:Npmsn	ECB
+napoveduje	mte:Vmpr3s	napovedovati
+rast	mte:Ncfsa	rast
+inflacije	mte:Ncfsg	inflacija
+tudi	mte:Q	tudi
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+.	mte:Z	.
+Glavni	mte:Agpmpn	glaven
+krivci	mte:Ncmpn	krivec
+za	mte:Sa	za
+inflacijo	mte:Ncfsa	inflacija
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+višje	mte:Agcfpn	visok
+cene	mte:Ncfpn	cena
+osnovnih	mte:Agpfpg	osnoven
+živil	mte:Ncfpg	živilo
+.	mte:Z	.
+Letna	mte:Agpfsn	leten
+stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+in	mte:Cc	in
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+Evropski	mte:Agpfsl	evropski
+uniji	mte:Ncfsl	unija
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+novembra	mte:Ncmsg	november
+3,1	mte:Mdc	3,1
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Med	mte:Si	med
+13	mte:Mdc	13
+državami	mte:Ncfpi	država
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+inflacija	mte:Ncfsn	inflacija
+najvišja	mte:Agsfsn	visok
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+5,7	mte:Mdc	5,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+najnižja	mte:Agsfsn	nizek
+pa	mte:Cc	pa
+na	mte:Sl	na
+Nizozemskem	mte:Agpmsl	nizozemski
+z	mte:Si	z
+1,8	mte:Mdc	1,8
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnji	mte:Agpfsl	zadnji
+oceni	mte:Ncfsl	ocena
+potrdil	mte:Vmep-sm	potrditi
+evropski	mte:Agpmsay	evropski
+statistični	mte:Agpmsay	statističen
+urad	mte:Ncmsan	urad
+Eurostat	mte:Npmsn	Eurostat
+.	mte:Z	.
+Oktobra	mte:Ncmsg	oktober
+letos	mte:Rgp	letos
+je	mte:Va-r3s-n	biti
+inflacija	mte:Ncfsn	inflacija
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+znašala	mte:Vmpp-sf	znašati
+2,6	mte:Mdc	2,6
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+novembra	mte:Ncmsg	november
+najvišja	mte:Agsfsn	visok
+od	mte:Sg	od
+uvedbe	mte:Ncfsg	uvedba
+evra	mte:Ncmsg	evro
+leta	mte:Ncnsg	leto
+2002	mte:Mdc	2002
+in	mte:Cc	in
+nad	mte:Si	nad
+predhodnimi	mte:Agpfpi	predhoden
+ocenami	mte:Ncfpi	ocena
+.	mte:Z	.
+Glavni	mte:Agpmpn	glaven
+krivci	mte:Ncmpn	krivec
+za	mte:Sa	za
+inflacijo	mte:Ncfsa	inflacija
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+višje	mte:Agcfpn	visok
+cene	mte:Ncfpn	cena
+osnovnih	mte:Agpfpg	osnoven
+živil	mte:Ncfpg	živilo
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+mleko	mte:Ncnsn	mleko
+,	mte:Z	,
+sir	mte:Ncmsn	sir
+in	mte:Cc	in
+jajca	mte:Ncnpn	jajce
+,	mte:Z	,
+transportnega	mte:Agpnsg	transporten
+goriva	mte:Ncnsg	gorivo
+in	mte:Cc	in
+kurilnega	mte:Agpnsg	kurilen
+olja	mte:Ncnsg	olje
+.	mte:Z	.
+Stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+je	mte:Va-r3s-n	biti
+precej	mte:Rgp	precej
+višja	mte:Agcfsn	visok
+od	mte:Sg	od
+cilja	mte:Ncmsg	cilj
+Evropske	mte:Agpfsg	evropski
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+znaša	mte:Vmpr3s	znašati
+pod	mte:Si	pod
+,	mte:Z	,
+vendar	mte:Cc	vendar
+blizu	mte:Sg	blizu
+dveh	mte:Mlcmdg	dva
+odstotkov	mte:Ncmdg	odstotek
+.	mte:Z	.
+Oktobra	mte:Ncmsg	oktober
+je	mte:Va-r3s-n	biti
+letna	mte:Agpfsn	leten
+stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+znašala	mte:Vmpp-sf	znašati
+2,7	mte:Mdc	2,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+septembra	mte:Ncmsg	september
+pa	mte:Cc	pa
+še	mte:Q	še
+2,2	mte:Mdc	2,2
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Lani	mte:Rgp	lani
+je	mte:Va-r3s-n	biti
+stopnja	mte:Ncfsn	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+znašala	mte:Vmpp-sf	znašati
+1,8	mte:Mdc	1,8
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Najnižje	mte:Agsfsg	nizek
+stopnje	mte:Ncfsg	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+so	mte:Va-r3p-n	biti
+novembra	mte:Ncmsg	november
+zabeležile	mte:Vmep-pf	zabeležiti
+Nizozemska	mte:Agpfsn	nizozemski
+1,8	mte:Mdc	1,8
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Finska	mte:Npfsn	Finska
+2,1	mte:Mdc	2,1
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Slovaška	mte:Npfsn	Slovaška
+z	mte:Si	z
+2,3	mte:Mdc	2,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+najvišjo	mte:Agsfsi	visok
+stopnjo	mte:Ncfsi	stopnja
+inflacije	mte:Ncfsg	inflacija
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+zabeležile	mte:Vmep-pf	zabeležiti
+Latvija	mte:Npfsn	Latvija
+13,7	mte:Mdc	13,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Bolgarija	mte:Npfsn	Bolgarija
+11,4	mte:Mdc	11,4
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Estonija	mte:Npfsn	Estonija
+9,3	mte:Mdc	9,3
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Foto	mte:Npmsn	foto
+Reuters	mte:Npmsn	Reuters
+Povišana	mte:Appfsn	povišan
+inflacija	mte:Ncfsn	inflacija
+tudi	mte:Q	tudi
+naslednje	mte:Agpnsa	naslednji
+leto	mte:Ncnsa	leto
+?	mte:Z	?
+Vodja	mte:Ncmsn	vodja
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+SDS	mte:Npmsn	SDS
+Jože	mte:Npmsn	Jože
+Tanko	mte:Npmsn	Tanko
+podprl	mte:Vmep-sm	podpreti
+pobudo	mte:Ncfsa	pobuda
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+GZS	mte:Npfsg	GZS
+,	mte:Z	,
+naj	mte:Cs	naj
+se	mte:Px------y	se
+pri	mte:Sl	pri
+boju	mte:Ncmsl	boj
+zoper	mte:Sa	zoper
+inflacijo	mte:Ncfsa	inflacija
+organizirajo	mte:Vmbr3p	organizirati
+vsi	mte:Pg-mpn	ves
+trije	mte:Mlcmpn	trije
+partnerji	mte:Ncmpn	partner
+vlada	mte:Ncfsn	vlada
+,	mte:Z	,
+delodajalci	mte:Ncmpn	delodajalec
+in	mte:Cc	in
+delojemalci	mte:Ncmpn	delojemalec
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+sindikati	mte:Ncmpn	sindikat
+.	mte:Z	.
+Povedal	mte:Vmep-sm	povedati
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+koalicija	mte:Ncfsn	koalicija
+vložila	mte:Vmep-sf	vložiti
+zahtevo	mte:Ncfsa	zahteva
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+izredne	mte:Agpfsg	izreden
+seje	mte:Ncfsg	seja
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bi	mte:Va-c	biti
+obravnavali	mte:Vmpp-pm	obravnavati
+noveli	mte:Ncfsa	novel
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+prevzemih	mte:Ncmpl	prevzem
+in	mte:Cc	in
+o	mte:Sl	o
+bančništvu	mte:Ncnsl	bančništvo
+ter	mte:Cc	ter
+opozoril	mte:Vmep-sm	opozoriti
+na	mte:Sa	na
+svarila	mte:Ncnpa	svarilo
+ekonomistov	mte:Ncmpg	ekonomist
+pred	mte:Si	pred
+pretiranimi	mte:Appmpi	pretiran
+dvigi	mte:Ncmpi	dviga
+plač	mte:Ncfpg	plača
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+lahko	mte:Rgp	lahko
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+spodbudila	mte:Vmep-sf	spodbuditi
+inflacijska	mte:Agpnpa	inflacijski
+pričakovanja	mte:Ncnpa	pričakovanje
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+dvignila	mte:Vmep-sf	dvigniti
+inflacijo	mte:Ncfsa	inflacija
+.	mte:Z	.
+Evropska	mte:Agpfsn	evropski
+centralna	mte:Agpfsn	centralen
+banka	mte:Ncfsn	banka
+ECB	mte:Npfsn	ECB
+bo	mte:Va-f3s-n	biti
+odločno	mte:Rgp	odločno
+in	mte:Cc	in
+pravočasno	mte:Rgp	pravočasno
+ukrepala	mte:Vmpp-sf	ukrepati
+proti	mte:Sd	proti
+inflacijskim	mte:Agpnpd	inflacijski
+tveganjem	mte:Ncnpd	tveganje
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+članov	mte:Ncmpg	član
+Sveta	mte:Ncmsg	svet
+ECB	mte:Npmsn	ECB
+,	mte:Z	,
+guverner	mte:Ncmsn	guverner
+luksemburške	mte:Agpfsg	luksemburški
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+Yves	mte:Npmsn	Yves
+Mersch	mte:Npmsn	Mersch
+.	mte:Z	.
+Svet	mte:Ncmsn	svet
+ECB	mte:Npmsg	ECB
+je	mte:Va-r3s-n	biti
+pripravljen	mte:Appmsnn	pripravljen
+ukrepati	mte:Vmpn	ukrepati
+proti	mte:Sd	proti
+tveganjem	mte:Ncnpd	tveganje
+za	mte:Sa	za
+dvig	mte:Ncmsan	dviga
+cen	mte:Ncfpg	cena
+,	mte:Z	,
+kot	mte:Cs	kot
+zahteva	mte:Vmbr3s	zahtevati
+njegov	mte:Ps3msasm	njegov
+položaj	mte:Ncmsan	položaj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Mersch	mte:Npmsn	Mersch
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+ponovil	mte:Vmep-sm	ponoviti
+napovedi	mte:Ncfpa	napoved
+ECB	mte:Npfsg	ECB
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+pričakovati	mte:Vmpn	pričakovati
+povišano	mte:Appfsa	povišan
+inflacijo	mte:Ncfsa	inflacija
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+prihodnjega	mte:Agpnsg	prihodnji
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Po	mte:Sl	po
+novih	mte:Agpfpl	nov
+,	mte:Z	,
+popravljenih	mte:Appfpl	popravljen
+napovedih	mte:Ncfpl	napoved
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+je	mte:Va-r3s-n	biti
+ECB	mte:Npfsn	ECB
+objavila	mte:Vmep-sf	objaviti
+6	mte:Mdc	6
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+višjih	mte:Agcfpg	visok
+cen	mte:Ncfpg	cena
+nafte	mte:Ncfsg	nafta
+in	mte:Cc	in
+hrane	mte:Ncfsg	hrana
+letos	mte:Rgp	letos
+pričakovati	mte:Vmpn	pričakovati
+2,1	mte:Mdc	2,1
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+inflacijo	mte:Ncfsa	inflacija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+povzpela	mte:Vmep-sf	povzpeti
+na	mte:Sa	na
+2,5	mte:Mdc	2,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Po	mte:Sl	po
+prvih	mte:Mlofpl	prvi
+ocenah	mte:Ncfpl	ocena
+ECB	mte:Ncfsg	ECB
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+inflacija	mte:Ncfsn	inflacija
+zmanjšala	mte:Vmep-sf	zmanjšati
+šele	mte:Q	šele
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+,	mte:Z	,
+ko	mte:Cs	ko
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+padla	mte:Vmep-sf	pasti
+na	mte:Sa	na
+1,8	mte:Mdc	1,8
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+znova	mte:Rgp	znova
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+cilja	mte:Ncmsg	cilj
+ECB	mte:Npmsg	ECB
+,	mte:Z	,
+ki	mte:Cs	ki
+znaša	mte:Vmpr3s	znašati
+pod	mte:Si	pod
+,	mte:Z	,
+vendar	mte:Cc	vendar
+blizu	mte:Sg	blizu
+dveh	mte:Mlcmdg	dva
+odstotkov	mte:Ncmdg	odstotek
+.	mte:Z	.
+Predtem	mte:Rgp	predtem
+je	mte:Va-r3s-n	biti
+ECB	mte:Npfsn	ECB
+za	mte:Sa	za
+leti	mte:Ncnpa	leto
+2007	mte:Mdc	2007
+in	mte:Cc	in
+2008	mte:Mdc	2008
+napovedala	mte:Vmep-sf	napovedati
+2,0	mte:Mdc	2,0
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+inflacijo	mte:Ncfsa	inflacija
+.	mte:Z	.
+Guverner	mte:Ncmsn	guverner
+luksemburške	mte:Agpfsg	luksemburški
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+še	mte:Q	še
+opozoril	mte:Vmep-sm	opozoriti
+pred	mte:Si	pred
+stalnim	mte:Agpnsi	stalen
+zviševanjem	mte:Ncnsi	zviševanje
+cen	mte:Ncfpg	cena
+in	mte:Cc	in
+pred	mte:Si	pred
+zahtevami	mte:Ncfpi	zahteva
+po	mte:Sl	po
+dvigu	mte:Ncmsl	dvig
+kupne	mte:Agpfsg	kupen
+moči	mte:Ncfsg	moč
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+dvigu	mte:Ncmsl	dvig
+plač	mte:Ncfpg	plača
+.	mte:Z	.
+Zahteval	mte:Vmbp-sm	zahtevati
+je	mte:Va-r3s-n	biti
+odpravo	mte:Ncfsa	odprava
+avtomatičnega	mte:Agpnsg	avtomatičen
+prilagajanja	mte:Ncnsg	prilagajanje
+plač	mte:Ncfpg	plača
+inflaciji	mte:Ncfsd	inflacija
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+kjer	mte:Cs	kjer
+še	mte:Q	še
+obstaja	mte:Vmpr3s	obstajati
+-	mte:Z	-
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+sta	mte:Va-r3d-n	biti
+Belgija	mte:Npfsn	Belgija
+in	mte:Cc	in
+Luksemburg	mte:Npmsn	Luksemburg
+-	mte:Z	-
+,	mte:Z	,
+saj	mte:Cc	saj
+to	mte:Pd-nsn	ta
+po	mte:Sl	po
+njegovem	mte:Ps3mslsm	njegov
+škodi	mte:Ncfsl	škod
+konkurenčnosti	mte:Ncfsg	konkurenčnost
+evropskega	mte:Agpnsg	evropski
+gospodarstva	mte:Ncnsg	gospodarstvo
+in	mte:Cc	in
+ni	mte:Va-r3s-y	biti
+kompatibilno	mte:Agpnsn	kompatibilen
+s	mte:Si	z
+stabilnostjo	mte:Ncfsi	stabilnost
+cen	mte:Ncfpg	cena

@@ -1,320 +1,344 @@
-token	tag
-Po	Sl
-ustanovitvi	Ncfsl
-poslanskih	Agpfpg
-skupin	Ncfpg
-(	Z
-PS	Npmsn
-)	Z
-v	Sl
-novoizvoljenem	Agpmsl
-sklicu	Ncmsl
-parlamenta	Ncmsg
-lahko	Rgp
-zdaj	Rgp
-predsednik	Ncmsn
-države	Ncfsg
-po	Sl
-posvetu	Ncmsl
-z	Si
-njimi	Pp3mpi
-predlaga	Vmbr3s
-kandidata	Ncmsay
-za	Sa
-novega	Agpmsa
-mandatarja	Ncmsay
-.	Z
-Teden	Ncmsan
-dni	Ncmpg
-po	Sl
-ustanovni	Agpfsl
-seji	Ncfsl
-državnega	Agpmsg
-zbora	Ncmsg
-,	Z
-torej	Rgp
-danes	Rgp
-,	Z
-se	Px------y
-je	Va-r3s-n
-namreč	Cc
-iztekel	Vmep-sm
-rok	Ncmsn
-,	Z
-do	Sg
-katerega	Pq-msg
-morajo	Vmpr3p
-biti	Va-n
-ustanovljene	Appfpn
-poslanske	Agpfpn
-skupine	Ncfpn
-v	Sl
-parlamentu	Ncmsl
-.	Z
-Novi	Agpmpn
-vodje	Ncmpn
-poslanskih	Agpfpg
-skupin	Ncfpg
-so	Va-r3p-n
-morali	Vmpp-pm
-o	Sl
-ustanovitvi	Ncfsl
-poslanske	Agpfsg
-skupine	Ncfsg
-obvestiti	Vmen
-predsednika	Ncmsay
-državnega	Agpmsg
-zbora	Ncmsg
-in	Cc
-mu	Pp3msd--y
-predložiti	Vmen
-seznam	Ncmsan
-članov	Ncmpg
-z	Si
-njihovimi	Ps3fpip
-podpisanimi	Appfpi
-pristopnimi	Agpfpi
-izjavami	Ncfpi
-.	Z
-Predsednik	Ncmsn
-DZ	Npmsg
-Pavle	Npmsn
-Gantar	Npmsn
-pa	Cc
-je	Va-r3s-n
-predsedniku	Ncmsd
-republike	Ncfsg
-Danilu	Npmsd
-Türku	Npmsd
-posredoval	Vmbp-sm
-poročilo	Ncnsa
-o	Sl
-ustanovitvi	Ncfsl
-poslanskih	Agpfpg
-skupin	Ncfpg
-.	Z
-Za	Sa
-izvolitev	Ncfsa
-potrebnih	Agpmpg
-najmanj	Rgs
-46	Mdc
-glasov	Ncmpg
-Predsednika	Ncmsg
-vlade	Ncfsg
-sicer	Q
-voli	Vmbr3s
-državni	Agpmsny
-zbor	Ncmsn
-na	Sl
-tajnem	Agpnsl
-glasovanju	Ncnsl
-,	Z
-za	Sa
-izvolitev	Ncfsa
-pa	Cc
-potrebuje	Vmpr3s
-večino	Ncfsa
-glasov	Ncmpg
-vseh	Pg-mpg
-poslancev	Ncmpg
-,	Z
-torej	Rgp
-najmanj	Rgs
-46	Mdc
-.	Z
-Novoizvoljeni	Agpmsny
-predsednik	Ncmsn
-vlade	Ncfsg
-pa	Cc
-mora	Vmpr3s
-nato	Rgp
-v	Sl
-15	Mdc
-dneh	Ncmpl
-po	Sl
-svoji	Px-fsl
-izvolitvi	Ncfsl
-državnemu	Agpmsd
-zboru	Ncmsd
-predlagati	Vmbn
-imenovanje	Ncnsa
-ministrov	Ncmpg
-.	Z
-Poslanske	Agpfsg
-skupine	Ncfpn
-so	Va-r3p-n
-morale	Vmpp-pf
-ob	Sl
-ustanovitvi	Ncfsl
-določiti	Vmen
-tudi	Q
-svoje	Px-mpa
-vodje	Ncmpa
-in	Cc
-njihove	Ps3mpap
-namestnike	Ncmpa
-.	Z
-Poslansko	Agpfsa
-skupino	Ncfsa
-SD	Npfsg
-bo	Va-f3s-n
-vodil	Vmpp-sm
-Bojan	Npmsn
-Kontič	Npmsn
-,	Z
-poslance	Ncmpa
-SDS	Npfsg
-Jože	Npmsn
-Tanko	Npfsn
-,	Z
-poslansko	Agpfsa
-skupino	Ncfsa
-Zares	Rgp
-Gregor	Npmsn
-Golobič	Npmsn
-,	Z
-poslance	Ncmpa
-DeSUS	Npmsn
-Franc	Npmsn
-Žnidaršič	Npmsn
-,	Z
-poslance	Ncmpa
-SNS	Npfsg
-Zmago	Npfsn
-Jelinčič	Npmsn
-,	Z
-poslansko	Agpfsa
-skupino	Ncfsa
-SLS	Npfsn
-Jakob	Npmsn
-Presečnik	Npmsn
-,	Z
-vodja	Ncmsn
-poslancev	Ncmpg
-LDS	Npfsg
-pa	Cc
-bo	Va-f3s-n
-Borut	Npmsn
-Sajovic	Npmsn
-.	Z
-Mandatarski	Agpmsny
-kandidat	Ncmsn
-bo	Va-f3s-n
-znan	Appmsnn
-v	Sl
-začetku	Ncmsl
-novembra	Ncmsg
-Ustanovitev	Ncfsg
-poslanskih	Agpfpg
-skupin	Ncfpg
-je	Va-r3s-n
-predpogoj	Agpnsn
-,	Z
-da	Cs
-predsednik	Ncmsn
-republike	Ncfsg
-lahko	Rgp
-predlaga	Vmbr3s
-kandidata	Ncmsay
-za	Sa
-novega	Agpmsa
-mandatarja	Ncmsay
-za	Sa
-sestavo	Ncfsa
-vlade	Ncfsg
-.	Z
-V	Sl
-skladu	Ncmsl
-z	Si
-ustavo	Ncfsi
-mora	Vmpr3s
-namreč	Cc
-predsednik	Ncmsn
-kandidata	Ncmsg
-predlagati	Vmbn
-po	Sl
-posvetovanju	Ncnsl
-z	Si
-vodji	Ncmsi
-poslanskih	Agpfpg
-skupin	Ncfpg
-.	Z
-Predsednik	Ncmsn
-Türk	Npmsn
-bo	Va-f3s-n
-sicer	Q
-razgovore	Ncmpa
-predvidoma	Rgp
-začel	Vmep-sm
-po	Sl
-28	Mdc
-.	Z
-oktobru	Ncmsl
-,	Z
-ko	Cs
-se	Px------y
-vrne	Vmer3s
-z	Sg
-obiska	Ncmsg
-na	Sl
-Kitajskem	Npnsl
-,	Z
-posvetovanja	Ncnsg
-pa	Cc
-naj	Q
-bi	Va-c
-opravil	Vmep-sm
-do	Sg
-konca	Ncmsg
-meseca	Ncmsg
-ter	Cc
-v	Sl
-začetku	Ncmsl
-novembra	Ncmsg
-predlagal	Vmbp-sm
-mandatarskega	Agpmsa
-kandidata	Ncmsay
-.	Z
-Seja	Ncfsn
-državnega	Agpmsg
-zbora	Ncmsg
-,	Z
-na	Sl
-kateri	Pq-fsl
-bodo	Va-f3p-n
-poslanci	Ncmpn
-volili	Vmbp-pm
-mandatarja	Ncmsay
-,	Z
-pa	Cc
-bo	Va-f3s-n
-predvidoma	Rgp
-sklicana	Appfsn
-najpozneje	Rgs
-do	Sg
-sredine	Ncfsg
-novembra	Ncmsg
-.	Z
-Vsebina	Ncfsn
-koalicijske	Agpfsg
-pogodbe	Ncfsg
-predvidoma	Rgp
-oblikovana	Appfsn
-v	Sa
-soboto	Ncfsa
-Najverjetnejši	Agsmsny
-mandatar	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-je	Va-r3s-n
-vsem	Pg-mpd
-predsednikom	Ncmsi
-morebitnih	Agpfpg
-koalicijskih	Agpfpg
-strank	Ncfpg
-poslal	Vmep-sm
-čistopis	Ncmsan
-predloga	Ncmsg
-koalicijske	Agpfsg
-pogodbe	Ncfsg
-.	Z
+token	tag	lemma
+Po	mte:Sl	po
+ustanovitvi	mte:Ncfsl	ustanovitev
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+(	mte:Z	(
+PS	mte:Npmsn	PS
+)	mte:Z	)
+v	mte:Sl	v
+novoizvoljenem	mte:Agpmsl	novoizvoljen
+sklicu	mte:Ncmsl	sklic
+parlamenta	mte:Ncmsg	parlament
+lahko	mte:Rgp	lahko
+zdaj	mte:Rgp	zdaj
+predsednik	mte:Ncmsn	predsednik
+države	mte:Ncfsg	država
+po	mte:Sl	po
+posvetu	mte:Ncmsl	posvet
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+predlaga	mte:Vmbr3s	predlagati
+kandidata	mte:Ncmsay	kandidat
+za	mte:Sa	za
+novega	mte:Agpmsa	nov
+mandatarja	mte:Ncmsay	mandatar
+.	mte:Z	.
+Teden	mte:Ncmsan	teden
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+ustanovni	mte:Agpfsl	ustanoven
+seji	mte:Ncfsl	seja
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+,	mte:Z	,
+torej	mte:Rgp	torej
+danes	mte:Rgp	danes
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+iztekel	mte:Vmep-sm	izteči
+rok	mte:Ncmsn	rok
+,	mte:Z	,
+do	mte:Sg	do
+katerega	mte:Pq-msg	kateri
+morajo	mte:Vmpr3p	morati
+biti	mte:Va-n	biti
+ustanovljene	mte:Appfpn	ustanovljen
+poslanske	mte:Agpfpn	poslanski
+skupine	mte:Ncfpn	skupina
+v	mte:Sl	v
+parlamentu	mte:Ncmsl	parlament
+.	mte:Z	.
+Novi	mte:Agpmpn	nov
+vodje	mte:Ncmpn	vodja
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+so	mte:Va-r3p-n	biti
+morali	mte:Vmpp-pm	morati
+o	mte:Sl	o
+ustanovitvi	mte:Ncfsl	ustanovitev
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+obvestiti	mte:Vmen	obvestiti
+predsednika	mte:Ncmsay	predsednik
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+in	mte:Cc	in
+mu	mte:Pp3msd--y	on
+predložiti	mte:Vmen	predložiti
+seznam	mte:Ncmsan	seznam
+članov	mte:Ncmpg	član
+z	mte:Si	z
+njihovimi	mte:Ps3fpip	njihov
+podpisanimi	mte:Appfpi	podpisan
+pristopnimi	mte:Agpfpi	pristopen
+izjavami	mte:Ncfpi	izjava
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+DZ	mte:Npmsg	DZ
+Pavle	mte:Npmsn	Pavle
+Gantar	mte:Npmsn	Gantar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+predsedniku	mte:Ncmsd	predsednik
+republike	mte:Ncfsg	republika
+Danilu	mte:Npmsd	Danil
+Türku	mte:Npmsd	Türk
+posredoval	mte:Vmbp-sm	posredovati
+poročilo	mte:Ncnsa	poročilo
+o	mte:Sl	o
+ustanovitvi	mte:Ncfsl	ustanovitev
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+.	mte:Z	.
+Za	mte:Sa	za
+izvolitev	mte:Ncfsa	izvolitev
+potrebnih	mte:Agpmpg	potreben
+najmanj	mte:Rgs	najmanj
+46	mte:Mdc	46
+glasov	mte:Ncmpg	glas
+Predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+sicer	mte:Q	sicer
+voli	mte:Vmbr3s	voliti
+državni	mte:Agpmsny	državen
+zbor	mte:Ncmsn	zbor
+na	mte:Sl	na
+tajnem	mte:Agpnsl	tajen
+glasovanju	mte:Ncnsl	glasovanje
+,	mte:Z	,
+za	mte:Sa	za
+izvolitev	mte:Ncfsa	izvolitev
+pa	mte:Cc	pa
+potrebuje	mte:Vmpr3s	potrebovati
+večino	mte:Ncfsa	večina
+glasov	mte:Ncmpg	glas
+vseh	mte:Pg-mpg	ves
+poslancev	mte:Ncmpg	poslanec
+,	mte:Z	,
+torej	mte:Rgp	torej
+najmanj	mte:Rgs	najmanj
+46	mte:Mdc	46
+.	mte:Z	.
+Novoizvoljeni	mte:Agpmsny	novoizvoljen
+predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+pa	mte:Cc	pa
+mora	mte:Vmpr3s	morati
+nato	mte:Rgp	nato
+v	mte:Sl	v
+15	mte:Mdc	15
+dneh	mte:Ncmpl	dan
+po	mte:Sl	po
+svoji	mte:Px-fsl	svoj
+izvolitvi	mte:Ncfsl	izvolitev
+državnemu	mte:Agpmsd	državen
+zboru	mte:Ncmsd	zbor
+predlagati	mte:Vmbn	predlagati
+imenovanje	mte:Ncnsa	imenovanje
+ministrov	mte:Ncmpg	minister
+.	mte:Z	.
+Poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfpn	skupina
+so	mte:Va-r3p-n	biti
+morale	mte:Vmpp-pf	morati
+ob	mte:Sl	ob
+ustanovitvi	mte:Ncfsl	ustanovitev
+določiti	mte:Vmen	določiti
+tudi	mte:Q	tudi
+svoje	mte:Px-mpa	svoj
+vodje	mte:Ncmpa	vodja
+in	mte:Cc	in
+njihove	mte:Ps3mpap	njihov
+namestnike	mte:Ncmpa	namestnik
+.	mte:Z	.
+Poslansko	mte:Agpfsa	poslanski
+skupino	mte:Ncfsa	skupina
+SD	mte:Npfsg	SD
+bo	mte:Va-f3s-n	biti
+vodil	mte:Vmpp-sm	voditi
+Bojan	mte:Npmsn	Bojan
+Kontič	mte:Npmsn	Kontič
+,	mte:Z	,
+poslance	mte:Ncmpa	poslanec
+SDS	mte:Npfsg	SDS
+Jože	mte:Npmsn	Jože
+Tanko	mte:Npfsn	Tanko
+,	mte:Z	,
+poslansko	mte:Agpfsa	poslanski
+skupino	mte:Ncfsa	skupina
+Zares	mte:Rgp	zares
+Gregor	mte:Npmsn	Gregor
+Golobič	mte:Npmsn	Golobič
+,	mte:Z	,
+poslance	mte:Ncmpa	poslanec
+DeSUS	mte:Npmsn	Desus
+Franc	mte:Npmsn	Franc
+Žnidaršič	mte:Npmsn	Žnidaršič
+,	mte:Z	,
+poslance	mte:Ncmpa	poslanec
+SNS	mte:Npfsg	SNS
+Zmago	mte:Npfsn	Zmago
+Jelinčič	mte:Npmsn	Jelinčič
+,	mte:Z	,
+poslansko	mte:Agpfsa	poslanski
+skupino	mte:Ncfsa	skupina
+SLS	mte:Npfsn	SLS
+Jakob	mte:Npmsn	Jakob
+Presečnik	mte:Npmsn	Presečnik
+,	mte:Z	,
+vodja	mte:Ncmsn	vodja
+poslancev	mte:Ncmpg	poslanec
+LDS	mte:Npfsg	LDS
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+Borut	mte:Npmsn	Borut
+Sajovic	mte:Npmsn	Sajovica
+.	mte:Z	.
+Mandatarski	mte:Agpmsny	mandatarski
+kandidat	mte:Ncmsn	kandidat
+bo	mte:Va-f3s-n	biti
+znan	mte:Appmsnn	znan
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+novembra	mte:Ncmsg	november
+Ustanovitev	mte:Ncfsg	ustanovitev
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+je	mte:Va-r3s-n	biti
+predpogoj	mte:Agpnsn	predpogoj
+,	mte:Z	,
+da	mte:Cs	da
+predsednik	mte:Ncmsn	predsednik
+republike	mte:Ncfsg	republika
+lahko	mte:Rgp	lahko
+predlaga	mte:Vmbr3s	predlagati
+kandidata	mte:Ncmsay	kandidat
+za	mte:Sa	za
+novega	mte:Agpmsa	nov
+mandatarja	mte:Ncmsay	mandatar
+za	mte:Sa	za
+sestavo	mte:Ncfsa	sestava
+vlade	mte:Ncfsg	vlada
+.	mte:Z	.
+V	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+ustavo	mte:Ncfsi	ustava
+mora	mte:Vmpr3s	morati
+namreč	mte:Cc	namreč
+predsednik	mte:Ncmsn	predsednik
+kandidata	mte:Ncmsg	kandidat
+predlagati	mte:Vmbn	predlagati
+po	mte:Sl	po
+posvetovanju	mte:Ncnsl	posvetovanje
+z	mte:Si	z
+vodji	mte:Ncmsi	vodja
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+Türk	mte:Npmsn	Türk
+bo	mte:Va-f3s-n	biti
+sicer	mte:Q	sicer
+razgovore	mte:Ncmpa	razgovor
+predvidoma	mte:Rgp	predvidoma
+začel	mte:Vmep-sm	začeti
+po	mte:Sl	po
+28	mte:Mdc	28
+.	mte:Z	.
+oktobru	mte:Ncmsl	oktober
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+vrne	mte:Vmer3s	vrniti
+z	mte:Sg	z
+obiska	mte:Ncmsg	obisk
+na	mte:Sl	na
+Kitajskem	mte:Npnsl	Kitajsko
+,	mte:Z	,
+posvetovanja	mte:Ncnsg	posvetovanje
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+opravil	mte:Vmep-sm	opraviti
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+meseca	mte:Ncmsg	mesec
+ter	mte:Cc	ter
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+novembra	mte:Ncmsg	november
+predlagal	mte:Vmbp-sm	predlagati
+mandatarskega	mte:Agpmsa	mandatarski
+kandidata	mte:Ncmsay	kandidat
+.	mte:Z	.
+Seja	mte:Ncfsn	seja
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bodo	mte:Va-f3p-n	biti
+poslanci	mte:Ncmpn	poslanec
+volili	mte:Vmbp-pm	voliti
+mandatarja	mte:Ncmsay	mandatar
+,	mte:Z	,
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+sklicana	mte:Appfsn	sklican
+najpozneje	mte:Rgs	pozno
+do	mte:Sg	do
+sredine	mte:Ncfsg	sredina
+novembra	mte:Ncmsg	november
+.	mte:Z	.
+Vsebina	mte:Ncfsn	vsebina
+koalicijske	mte:Agpfsg	koalicijski
+pogodbe	mte:Ncfsg	pogodba
+predvidoma	mte:Rgp	predvidoma
+oblikovana	mte:Appfsn	oblikovan
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+Najverjetnejši	mte:Agsmsny	velik
+mandatar	mte:Ncmsn	mandatar
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+je	mte:Va-r3s-n	biti
+vsem	mte:Pg-msi	ves
+predsednikom	mte:Ncmsi	predsednik
+morebitnih	mte:Agpfpg	morebiten
+koalicijskih	mte:Agpfpg	koalicijski
+strank	mte:Ncfpg	stranka
+poslal	mte:Vmep-sm	poslati
+čistopis	mte:Ncmsan	čistopis
+predloga	mte:Ncmsg	predlog
+koalicijske	mte:Agpfsg	koalicijski
+pogodbe	mte:Ncfsg	pogodba
+.	mte:Z	.
+Stranke	mte:Ncfsg	stranka
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+do	mte:Sg	do
+predloga	mte:Ncmsg	predlog
+opredelile	mte:Vmep-pf	opredeliti
+do	mte:Sg	do
+sobote	mte:Ncfsg	sobota
+,	mte:Z	,
+ko	mte:Cs	ko
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+skupnem	mte:Agpmsl	skupen
+sestanku	mte:Ncmsl	sestanek
+dokončno	mte:Rgp	dokončno
+dogovorili	mte:Vmep-pm	dogovoriti
+in	mte:Cc	in
+oblikovali	mte:Vmpp-pm	oblikovati
+vsebinski	mte:Agpmsay	vsebinski
+del	mte:Ncmsan	del
+koalicijske	mte:Agpfsg	koalicijski
+pogodbe	mte:Ncfsg	pogodba

@@ -1,365 +1,400 @@
-token	tag
-Hrvaški	Agpmsny
-sindikat	Ncmsn
-spominja	Vmpr3s
-na	Sa
-Mercatorjeve	Aspmpa
-prevzeme	Ncmpa
-na	Sl
-Hrvaškem	Npnsl
-Hrvaški	Agpmpn
-mediji	Ncmpn
-glede	Sg
-Mercatorja	Npmsg
-pišejo	Vmpr3p
-,	Z
-da	Cs
-so	Va-r3p-n
-Američani	Npmpn
-v	Sl
-zadnjem	Agpmsl
-trenutku	Ncmsl
-ustavili	Vmep-pm
-poskus	Ncmsan
-Agrokorja	Ncmsg
-za	Sa
-prevzem	Ncmsan
-slovenskega	Agpmsg
-trgovca	Ncmsg
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-bi	Va-c
-se	Px------y
-lahko	Rgp
-prodaja	Ncfsn
-zavlekla	Vmep-sf
-za	Sa
-najmanj	Rgs
-mesec	Ncmsan
-dni	Ncmpg
-.	Z
-V	Sa
-torek	Ncmsan
-je	Va-r3s-n
-ameriška	Agpfsn
-družba	Ncfsn
-Eatons	Npmsn
-Capital	Npmsn
-s	Si
-sedežem	Ncmsi
-v	Sl
-Las	Npmsl
-Vegasu	Npmsl
-objavila	Vmep-sf
-namero	Ncfsa
-za	Sa
-nakup	Ncmsan
-delnic	Ncfpg
-Pivovarne	Ncfsg
-Laško	Npnsn
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-družba	Ncfsn
-po	Sl
-objavi	Ncfsl
-namere	Ncfsg
-za	Sa
-prevzem	Ncmsan
-ne	Q
-sme	Vmpr3s
-narediti	Vmen
-zadev	Ncfpg
-,	Z
-ki	Cs
-bi	Va-c
-otežile	Vmep-pf
-prevzem	Ncmsan
-.	Z
-Tako	Rgp
-bi	Va-c
-morala	Vmpp-sf
-skladno	Rgp
-z	Si
-zakonom	Ncmsi
-o	Sl
-prevzemih	Ncmpl
-morebitno	Agpfsa
-prodajo	Ncfsa
-delnic	Ncfpg
-Mercatorja	Npmsg
-v	Sl
-lasti	Ncfsl
-Laškega	Npnsg
--	Z
-skupina	Ncfsn
-ima	Vmpr3s-n
-skupno	Agpnsa
-23,34	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
--	Z
-potrditi	Vmen
-še	Q
-skupščina	Ncfsn
-pivovarne	Ncfsg
-.	Z
-Skupno	Agpnsa
-52,10	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-Mercatorja	Npmsg
-prodajajo	Vmpr3p
-NLB	Npfsn
-,	Z
-NKBM	Npfsn
-,	Z
-Abanka	Npfsn
-,	Z
-Banka	Npfsn
-Celje	Npnsn
-,	Z
-Banka	Npfsn
-Koper	Npmsn
-,	Z
-Gorenjska	Agpfsn
-banka	Ncfsn
-,	Z
-banka	Ncfsn
-Hypo	Npfsn
-Alpe	Npmsn
-Adria	Npfsn
-,	Z
-delniški	Agpmsny
-investicijski	Agpmsny
-sklad	Ncmsn
-NFD	Npmsn
-1	Mdc
-,	Z
-NFD	Npmsn
-Holding	Npmsn
-ter	Cc
-Pivovarna	Ncfsn
-Laško	Npnsn
-,	Z
-Pivovarna	Ncfsn
-Union	Npmsn
-in	Cc
-Radenska	Npfsn
-.	Z
-Hrvaški	Agpmsny
-časopis	Ncmsn
-Večernji	Agpmsny
-list	Ncmsn
-piše	Vmpr3s
-,	Z
-da	Cs
-so	Va-r3p-n
-prodajalci	Ncmpn
-upravi	Ncfsn
-jasno	Agpnsn
-in	Cc
-glasno	Rgp
-sporočili	Vmep-pm
-,	Z
-da	Cs
-Mercator	Npmsn
-prodajajo	Vmpr3p
-Agrokorju	Npmsd
-,	Z
-vendar	Cc
-bi	Va-c
-lahko	Rgp
-nova	Agpfsn
-ponudba	Ncfsn
-za	Sa
-Laško	Npnsa
-proces	Ncmsan
-prodaje	Ncfsg
-ustavila	Vmep-sf
-za	Sa
-najmanj	Rgs
-mesec	Ncmsan
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-z	Sg
-neba	Ncnsg
-padla	Vmep-sf
-ponudba	Ncfsn
-družbe	Ncfsg
-Eatons	Npmsn
-Capital	Npmsn
-.	Z
-Šampanjec	Npmsn
-in	Cc
-za	Sa
-jutri	Ncnsa
-napovedano	Appnsn
-podpisovanje	Ncnsa
-kupoprodajnega	Agpmsg
-dogovora	Ncmsg
-bo	Va-f3s-n
-tako	Rgp
-očitno	Rgp
-počakal	Vmep-sm
-še	Q
-nekaj	Rgp
-časa	Ncmsg
-,	Z
-piše	Vmpr3s
-Večernji	Npmsn
-list	Ncmsn
-in	Cc
-dodaja	Vmpr3s
-,	Z
-pri	Sl
-čemer	Pr-nsl
-se	Px------y
-sklicuje	Vmpr3s
-na	Sa
-vire	Ncmpa
-blizu	Sg
-Agrokorja	Npmsg
-,	Z
-da	Cs
-so	Va-r3p-n
-zdaj	Rgp
-na	Sl
-vrsti	Ncfsl
-pravniki	Ncmpn
-,	Z
-ki	Cs
-morajo	Vmpr3p
-preučiti	Vmen
-,	Z
-ali	Rgp
-bi	Va-c
-lahko	Rgp
-nova	Agpfsn
-ponudba	Ncfsn
-za	Sa
-Laško	Npnsa
-vplivala	Vmpp-sf
-na	Sa
-prodajo	Ncfsa
-.	Z
-Agrokor	Npmsn
-ima	Vmpr3s-n
-najboljša	Agsnpa
-priporočila	Ncnpa
-Hrvaški	Agpmsay
-časopis	Ncmsan
-piše	Vmpr3s
-,	Z
-da	Cs
-Laškemu	Npnsd
-gori	Vmpr3s
-pod	Si
-nogami	Ncfpi
-in	Cc
-da	Cs
-je	Va-r3s-n
-vse	Rgp
-bližje	Agcmsd
-stečaju	Ncmsd
-.	Z
-Večernji	Agpmsny
-list	Ncmsn
-poroča	Vmpr3s
-tudi	Q
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-pred	Si
-sedežem	Ncmsi
-slovenske	Agpfsg
-vlade	Ncfsg
-v	Sl
-Ljubljani	Npfsl
-zbralo	Vmep-sn
-okoli	Rgp
-50	Mdc
-članov	Ncmpg
-svobodnih	Agpmpg
-sindikatov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-protestirali	Vmbp-pm
-proti	Sd
-prodaji	Ncfsd
-Merkatorja	Npmsg
-Agrokorju	Npmsd
-.	Z
-Slovenskim	Agpmpd
-sindikalistom	Ncmpd
-je	Va-r3s-n
-sindikat	Ncmsn
-hrvaške	Agpfsg
-trgovine	Ncfsg
-sporočil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-Agrokor	Ncmsn
-eden	Mlpmsn
-izmed	Sg
-najboljših	Agsmpg
-hrvaških	Agpmpg
-delodajalcev	Ncmpg
-in	Cc
-imajo	Vmpr3p-n
-od	Sg
-njega	Pp3msg
-najboljša	Agsnpn
-priporočila	Ncnpa
-,	Z
-kjer	Cs
-koli	Q
-je	Va-r3s-n
-vlagal	Vmpp-sm
-.	Z
-Hrvaški	Agpmsny
-sindikat	Ncmsn
-ob	Sl
-tem	Pd-nsl
-spomnil	Vmep-sm
-na	Sa
-dobro	Rgp
-znane	Appmpa
-primere	Ncmpa
-Mercatorjevih	Aspmpg
-prevzemov	Ncmpg
-Getroa	Npmsg
-,	Z
-Slobode	Npfsg
-in	Cc
-Presoflexa	Npmsg
-,	Z
-vendar	Cc
-jim	Pp3mpd--y
-ni	Va-r3s-y
-padlo	Vmep-sn
-na	Sa
-pamet	Ncfsa
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-lotili	Vmep-pm
-sindikalnih	Agpfpg
-akcij	Ncfpg
-,	Z
-kot	Cs
-so	Va-r3p-n
-se	Px------y
-jih	Pp3mpa--y
-slovenski	Agpmpn
-kolegi	Ncmpn
-.	Z
+token	tag	lemma
+Hrvaški	mte:Agpmsny	hrvaški
+sindikat	mte:Ncmsn	sindikat
+spominja	mte:Vmpr3s	spominjati
+na	mte:Sa	na
+Mercatorjeve	mte:Aspmpa	Mercatorjev
+prevzeme	mte:Ncmpa	prevzem
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+Hrvaški	mte:Agpmpn	hrvaški
+mediji	mte:Ncmpn	medij
+glede	mte:Sg	glede
+Mercatorja	mte:Npmsg	Mercator
+pišejo	mte:Vmpr3p	pisati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+Američani	mte:Npmpn	Američan
+v	mte:Sl	v
+zadnjem	mte:Agpmsl	zadnji
+trenutku	mte:Ncmsl	trenutek
+ustavili	mte:Vmep-pm	ustaviti
+poskus	mte:Ncmsan	poskus
+Agrokorja	mte:Ncmsg	agrokor
+za	mte:Sa	za
+prevzem	mte:Ncmsan	prevzem
+slovenskega	mte:Agpmsg	slovenski
+trgovca	mte:Ncmsg	trgovec
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+prodaja	mte:Ncfsn	prodaja
+zavlekla	mte:Vmep-sf	zavleči
+za	mte:Sa	za
+najmanj	mte:Rgs	najmanj
+mesec	mte:Ncmsan	mesec
+dni	mte:Ncmpg	dan
+.	mte:Z	.
+V	mte:Sa	v
+torek	mte:Ncmsan	torek
+je	mte:Va-r3s-n	biti
+ameriška	mte:Agpfsn	ameriški
+družba	mte:Ncfsn	družba
+Eatons	mte:Npmsn	Eatons
+Capital	mte:Npmsn	Capital
+s	mte:Si	z
+sedežem	mte:Ncmsi	sedež
+v	mte:Sl	v
+Las	mte:Npmsl	las
+Vegasu	mte:Npmsl	Vegas
+objavila	mte:Vmep-sf	objaviti
+namero	mte:Ncfsa	namera
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+delnic	mte:Ncfpg	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+družba	mte:Ncfsn	družba
+po	mte:Sl	po
+objavi	mte:Ncfsl	objava
+namere	mte:Ncfsg	namera
+za	mte:Sa	za
+prevzem	mte:Ncmsan	prevzem
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+narediti	mte:Vmen	narediti
+zadev	mte:Ncfpg	zadeva
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+otežile	mte:Vmep-pf	otežiti
+prevzem	mte:Ncmsan	prevzem
+.	mte:Z	.
+Tako	mte:Rgp	tako
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sf	morati
+skladno	mte:Rgp	skladno
+z	mte:Si	z
+zakonom	mte:Ncmsi	zakon
+o	mte:Sl	o
+prevzemih	mte:Ncmpl	prevzem
+morebitno	mte:Agpfsa	morebiten
+prodajo	mte:Ncfsa	prodaja
+delnic	mte:Ncfpg	delnica
+Mercatorja	mte:Npmsg	Mercator
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Laškega	mte:Npnsg	Laško
+-	mte:Z	-
+skupina	mte:Ncfsn	skupina
+ima	mte:Vmpr3s-n	imeti
+skupno	mte:Agpnsa	skupen
+23,34	mte:Mdc	23,34
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+-	mte:Z	-
+potrditi	mte:Vmen	potrditi
+še	mte:Q	še
+skupščina	mte:Ncfsn	skupščina
+pivovarne	mte:Ncfsg	pivovarna
+.	mte:Z	.
+Skupno	mte:Agpnsa	skupen
+52,10	mte:Mdc	52,10
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+Mercatorja	mte:Npmsg	Mercator
+prodajajo	mte:Vmpr3p	prodajati
+NLB	mte:Npfsn	NLB
+,	mte:Z	,
+NKBM	mte:Npfsn	NKBM
+,	mte:Z	,
+Abanka	mte:Npfsn	Abanka
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+Banka	mte:Npfsn	banka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+banka	mte:Ncfsn	banka
+Hypo	mte:Npfsn	Hypo
+Alpe	mte:Npmsn	Alpe
+Adria	mte:Npfsn	Adria
+,	mte:Z	,
+delniški	mte:Agpmsny	delniški
+investicijski	mte:Agpmsny	investicijski
+sklad	mte:Ncmsn	sklad
+NFD	mte:Npmsn	NFD
+1	mte:Mdc	1
+,	mte:Z	,
+NFD	mte:Npmsn	NFD
+Holding	mte:Npmsn	holding
+ter	mte:Cc	ter
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+Pivovarna	mte:Ncfsn	pivovarna
+Union	mte:Npmsn	Union
+in	mte:Cc	in
+Radenska	mte:Npfsn	Radenska
+.	mte:Z	.
+Hrvaški	mte:Agpmsny	hrvaški
+časopis	mte:Ncmsn	časopis
+Večernji	mte:Agpmsny	večernji
+list	mte:Ncmsn	list
+piše	mte:Vmpr3s	pisati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+prodajalci	mte:Ncmpn	prodajalec
+upravi	mte:Ncfsn	uprava
+jasno	mte:Agpnsn	jasen
+in	mte:Cc	in
+glasno	mte:Rgp	glasno
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+Mercator	mte:Npmsn	Mercator
+prodajajo	mte:Vmpr3p	prodajati
+Agrokorju	mte:Npmsd	Agrokor
+,	mte:Z	,
+vendar	mte:Cc	vendar
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+nova	mte:Agpfsn	nov
+ponudba	mte:Ncfsn	ponudba
+za	mte:Sa	za
+Laško	mte:Npnsa	Laško
+proces	mte:Ncmsan	proces
+prodaje	mte:Ncfsg	prodaja
+ustavila	mte:Vmep-sf	ustaviti
+za	mte:Sa	za
+najmanj	mte:Rgs	najmanj
+mesec	mte:Ncmsan	mesec
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+z	mte:Sg	z
+neba	mte:Ncnsg	nebo
+padla	mte:Vmep-sf	pasti
+ponudba	mte:Ncfsn	ponudba
+družbe	mte:Ncfsg	družba
+Eatons	mte:Npmsn	Eatons
+Capital	mte:Npmsn	Capital
+.	mte:Z	.
+Šampanjec	mte:Npmsn	Šampanjec
+in	mte:Cc	in
+za	mte:Sa	za
+jutri	mte:Ncnsa	jutri
+napovedano	mte:Appnsn	napovedan
+podpisovanje	mte:Ncnsa	podpisovanje
+kupoprodajnega	mte:Agpmsg	kupoprodajen
+dogovora	mte:Ncmsg	dogovor
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+očitno	mte:Rgp	očitno
+počakal	mte:Vmep-sm	počakati
+še	mte:Q	še
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+piše	mte:Vmpr3s	pisati
+Večernji	mte:Npmsn	Večernji
+list	mte:Ncmsn	list
+in	mte:Cc	in
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+se	mte:Px------y	se
+sklicuje	mte:Vmpr3s	sklicevati
+na	mte:Sa	na
+vire	mte:Ncmpa	vir
+blizu	mte:Sg	blizu
+Agrokorja	mte:Npmsg	Agrokor
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+zdaj	mte:Rgp	zdaj
+na	mte:Sl	na
+vrsti	mte:Ncfsl	vrsta
+pravniki	mte:Ncmpn	pravnik
+,	mte:Z	,
+ki	mte:Cs	ki
+morajo	mte:Vmpr3p	morati
+preučiti	mte:Vmen	preučiti
+,	mte:Z	,
+ali	mte:Rgp	ali
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+nova	mte:Agpfsn	nov
+ponudba	mte:Ncfsn	ponudba
+za	mte:Sa	za
+Laško	mte:Npnsa	Laško
+vplivala	mte:Vmpp-sf	vplivati
+na	mte:Sa	na
+prodajo	mte:Ncfsa	prodaja
+.	mte:Z	.
+Agrokor	mte:Npmsn	Agrokor
+ima	mte:Vmpr3s-n	imeti
+najboljša	mte:Agsnpa	dober
+priporočila	mte:Ncnpa	priporočilo
+Hrvaški	mte:Agpmsay	hrvaški
+časopis	mte:Ncmsan	časopis
+piše	mte:Vmpr3s	pisati
+,	mte:Z	,
+da	mte:Cs	da
+Laškemu	mte:Npnsd	Laško
+gori	mte:Vmpr3s	goreti
+pod	mte:Si	pod
+nogami	mte:Ncfpi	noga
+in	mte:Cc	in
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vse	mte:Rgp	vse
+bližje	mte:Agcmsd	blizu
+stečaju	mte:Ncmsd	stečaj
+.	mte:Z	.
+Večernji	mte:Agpmsny	večernji
+list	mte:Ncmsn	list
+poroča	mte:Vmpr3s	poročati
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+sedežem	mte:Ncmsi	sedež
+slovenske	mte:Agpfsg	slovenski
+vlade	mte:Ncfsg	vlada
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+zbralo	mte:Vmep-sn	zbrati
+okoli	mte:Rgp	okoli
+50	mte:Mdc	50
+članov	mte:Ncmpg	član
+svobodnih	mte:Agpmpg	svoboden
+sindikatov	mte:Ncmpg	sindikat
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+protestirali	mte:Vmbp-pm	protestirati
+proti	mte:Sd	proti
+prodaji	mte:Ncfsd	prodaja
+Merkatorja	mte:Npmsg	Merkator
+Agrokorju	mte:Npmsd	Agrokor
+.	mte:Z	.
+Slovenskim	mte:Agpmpd	slovenski
+sindikalistom	mte:Ncmpd	sindikalist
+je	mte:Va-r3s-n	biti
+sindikat	mte:Ncmsn	sindikat
+hrvaške	mte:Agpfsg	hrvaški
+trgovine	mte:Ncfsg	trgovina
+sporočil	mte:Vmep-sm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Agrokor	mte:Ncmsn	agrokor
+eden	mte:Mlpmsn	eden
+izmed	mte:Sg	izmed
+najboljših	mte:Agsmpg	dober
+hrvaških	mte:Agpmpg	hrvaški
+delodajalcev	mte:Ncmpg	delodajalec
+in	mte:Cc	in
+imajo	mte:Vmpr3p-n	imeti
+od	mte:Sg	od
+njega	mte:Pp3msg	on
+najboljša	mte:Agsnpn	dober
+priporočila	mte:Ncnpa	priporočilo
+,	mte:Z	,
+kjer	mte:Cs	kjer
+koli	mte:Q	koli
+je	mte:Va-r3s-n	biti
+vlagal	mte:Vmpp-sm	vlagati
+.	mte:Z	.
+Hrvaški	mte:Agpmsny	hrvaški
+sindikat	mte:Ncmsn	sindikat
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+spomnil	mte:Vmep-sm	spomniti
+na	mte:Sa	na
+dobro	mte:Rgp	dobro
+znane	mte:Appmpa	znan
+primere	mte:Ncmpa	primer
+Mercatorjevih	mte:Aspmpg	Mercatorjev
+prevzemov	mte:Ncmpg	prevzem
+Getroa	mte:Npmsg	Getro
+,	mte:Z	,
+Slobode	mte:Npfsg	Sloboda
+in	mte:Cc	in
+Presoflexa	mte:Npmsg	Presoflex
+,	mte:Z	,
+vendar	mte:Cc	vendar
+jim	mte:Pp3mpd--y	on
+ni	mte:Va-r3s-y	biti
+padlo	mte:Vmep-sn	pasti
+na	mte:Sa	na
+pamet	mte:Ncfsa	pamet
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lotili	mte:Vmep-pm	lotiti
+sindikalnih	mte:Agpfpg	sindikalen
+akcij	mte:Ncfpg	akcija
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+jih	mte:Pp3mpa--y	on
+slovenski	mte:Agpmpn	slovenski
+kolegi	mte:Ncmpn	kolega
+.	mte:Z	.
+Spomnijo	mte:Vmer3p	spomniti
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+z	mte:Si	z
+Mercatorjem	mte:Npmsi	Mercator
+-	mte:Z	-
+H	mte:Sd	h
+trikrat	mte:Rgp	trikrat
+poskušali	mte:Vmpp-pm	poskušati
+podpisati	mte:Vmen	podpisati
+kolektivno	mte:Agpfsa	kolektiven
+pogodbo	mte:Ncfsa	pogodba
+,	mte:Z	,
+a	mte:Cc	a
+jim	mte:Pp3mpd--y	on
+tega	mte:Pd-nsg	ta
+še	mte:Q	še
+do	mte:Sg	do
+danes	mte:Rgp	danes
+ni	mte:Va-r3s-y	biti
+uspelo	mte:Vmep-sn	uspeti
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+Agrokor	mte:Npmsn	Agrokor
+v	mte:Sl	v
+vseh	mte:Pg-npl	ves
+svojih	mte:Px-npl	svoj
+podjetjih	mte:Ncnpl	podjetje
+spoštuje	mte:Vmpr3s	spoštovati
+dogovore	mte:Ncmpa	dogovor
+s	mte:Si	z
+sindikati	mte:Ncmpi	sindikat

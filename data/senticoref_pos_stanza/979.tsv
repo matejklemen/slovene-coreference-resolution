@@ -1,535 +1,575 @@
-token	tag
-Delavcem	Ncmpd
-Jadranske	Agpfsg
-pivovarne	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-lasti	Ncfsl
-Pivovarne	Ncfsg
-Laško	Npnsn
-,	Z
-je	Va-r3s-n
-prekipelo	Vmep-sn
-,	Z
-zasedli	Vmep-pm
-so	Va-r3p-n
-tovarno	Ncfsa
-,	Z
-od	Sg
-direktorja	Ncmsg
-pa	Cc
-so	Va-r3p-n
-zahtevali	Vmbp-pm
-,	Z
-naj	Cs
-jim	Pp3mpd--y
-vendarle	Cc
-pojasni	Vmer3s
-,	Z
-kaj	Pq-nsn
-se	Px------y
-bo	Va-f3s-n
-zgodilo	Vmep-sn
-s	Si
-pivovarno	Ncfsi
-v	Sl
-Splitu	Npmsl
-.	Z
-Jadranska	Agpfsn
-pivovarna	Ncfsn
-Delavci	Ncmpn
-Jadranske	Agpfsg
-pivovarne	Ncfsg
-so	Va-r3p-n
-dopoldne	Rgp
-zasedli	Vmep-pm
-prostore	Ncmpa
-podjetja	Ncnsg
-,	Z
-direktorju	Ncmsd
-Nenadu	Npmsd
-Buljanu	Npmsd
-prepovedali	Vmep-pm
-vstop	Ncmsan
-in	Cc
-od	Sg
-njega	Pp3msg
-zahtevali	Vmbp-pm
-,	Z
-da	Cs
-pokliče	Vmer3s
-slovenske	Agpmpa
-lastnike	Ncmpa
-v	Sl
-Laškem	Npnsl
-in	Cc
-od	Sg
-njih	Pp3mpg
-izve	Vmer3s
-,	Z
-kaj	Pq-nsn
-se	Px------y
-bo	Va-f3s-n
-zgodilo	Vmep-sn
-s	Si
-pivovarno	Ncfsi
-v	Sl
-Splitu	Npmsl
-,	Z
-je	Va-r3s-n
-na	Sl
-svoji	Px-fsl
-spletni	Agpfsl
-strani	Ncfsl
-poročala	Vmpp-sf
-Slobodna	Agpfsn
-Dalmacija	Npfsn
-.	Z
-Buljan	Npmsn
-sprva	Rgp
-ni	Va-r3s-y
-želel	Vmpp-sm
-poklicati	Vmen
-v	Sa
-Slovenijo	Npfsa
-,	Z
-a	Cc
-po	Sl
-soočenju	Ncnsl
-z	Si
-delavci	Ncmpi
-,	Z
-si	Px---d--y
-je	Va-r3s-n
-premislil	Vmep-sm
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-je	Va-r3s-n
-upravi	Ncfsd
-sporočil	Vmep-sm
-,	Z
-da	Cs
-delavci	Ncmpn
-zahtevajo	Vmbr3p
-,	Z
-da	Cs
-eden	Mlpmsn
-od	Sg
-slovenskih	Agpmpg
-predstavnikov	Ncmpg
-obišče	Vmer3s
-tovarno	Ncfsa
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-regionalni	Agpmsny
-predstavnik	Ncmsn
-sindikata	Ncmsg
-industrije	Ncfsg
-Ivica	Npfsn
-Blažević	Npmsn
-,	Z
-so	Va-r3p-n
-od	Sg
-Buljana	Npmsg
-zahtevali	Vmbp-pm
-vnovični	Agpmsay
-zagon	Ncmsan
-proizvodnje	Ncfsg
-,	Z
-ker	Cs
-imajo	Vmpr3p-n
-surovin	Ncfpg
-za	Sa
-približno	Rgp
-mesec	Ncmsan
-dni	Ncmpg
-dela	Ncnsg
-.	Z
-Lažje	Rgc
-se	Px------y
-nas	Pp1-pa
-bodo	Va-f3p-n
-znebili	Vmep-pm
-,	Z
-če	Cs
-ne	Q
-delamo	Vmpr1p
-,	Z
-je	Va-r3s-n
-izjavil	Vmep-sm
-Blažević	Npmsn
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-so	Va-r3p-n
-delavci	Ncmpn
-zahtevali	Vmbp-pm
-razglasitev	Ncfsa
-stečaja	Ncmsg
-na	Sl
-splitskem	Agpnsl
-trgovskem	Agpnsl
-sodišču	Ncnsl
-,	Z
-potem	Rgp
-ko	Cs
-so	Va-r3p-n
-lastniki	Ncmpn
-pred	Si
-mesecem	Ncmsi
-dni	Ncmpg
-napovedali	Vmep-pm
-,	Z
-da	Cs
-nameravajo	Vmpr3p
-zapreti	Vmen
-podjetje	Ncnsa
-.	Z
-Pivovarna	Ncfsn
-Laško	Npnsn
-je	Va-r3s-n
-od	Sg
-leta	Ncnsg
-2001	Mdc
-večinska	Agpfsn
-lastnica	Ncfsn
-Jadranske	Agpfsg
-pivovarne	Ncfsg
-.	Z
-Mali	Agpmpn
-delničarji	Ncmpn
-so	Va-r3p-n
-prepričani	Appmpn
-,	Z
-da	Cs
-je	Va-r3s-n
-splitsko	Agpfsa
-pivovarno	Ncfsa
-možno	Agpnsn
-rešiti	Vmen
-,	Z
-ker	Cs
-lahko	Rgp
-naredijo	Vmer3p
-400.000	Mdc
-hektolitrov	Ncmpg
-piva	Ncnsg
-ter	Cc
-prodajo	Ncfsa
-100.000	Mdc
-hektolitrov	Ncmpg
-vode	Ncfsg
-,	Z
-sokov	Ncmpg
-in	Cc
-uvoznega	Agpnsg
-piva	Ncnsg
-.	Z
-Če	Cs
-bi	Va-c
-omenjena	Appfsn
-proizvodnja	Ncfsn
-zaživela	Vmep-sf
-,	Z
-bi	Va-c
-lahko	Rgp
-odprli	Vmep-pm
-tudi	Q
-dodatna	Agpnpa
-delovna	Agpnpa
-mesta	Ncnpa
-,	Z
-so	Va-r3p-n
-prepričani	Appmpn
-.	Z
-Društvo	Ncnsn
-malih	Agpmpg
-delničarjev	Ncmpg
-je	Va-r3s-n
-pisalo	Vmpp-sn
-tudi	Q
-Pahorju	Npmsd
-Društvo	Ncnsn
-malih	Agpmpg
-delničarjev	Ncmpg
-Jadranske	Agpfsg
-pivovarne	Ncfsg
-je	Va-r3s-n
-sredi	Sg
-februarja	Ncmsg
-o	Sl
-stanju	Ncnsl
-v	Sl
-podjetju	Ncnsl
-in	Cc
-napovedanem	Appnsl
-zaprtju	Ncnsl
-tovarne	Ncfsg
-pisno	Agpnsn
-obvestilo	Ncnsa
-tudi	Q
-slovenskega	Agpmsg
-premierja	Ncmsg
-Boruta	Npmsg
-Pahorja	Npmsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-takrat	Rgp
-pojasnil	Vmep-sm
-predsednik	Ncmsn
-društva	Ncnsg
-delničarjev	Ncmpg
-Nenad	Npmsn
-Bulović	Npmsn
-,	Z
-so	Va-r3p-n
-želeli	Vmpp-pm
-opozoriti	Vmen
-predsednika	Ncmsay
-slovenske	Agpfsg
-vlade	Ncfsg
-o	Sl
-škodljivih	Agpnpl
-dejanjih	Ncnpl
-,	Z
-s	Si
-katerimi	Pq-mpi
-so	Va-r3p-n
-slovenski	Agpmpn
-poslovneži	Ncmpn
-nameravali	Vmpp-pm
-pripeljati	Vmen
-do	Sg
-propada	Ncmsg
-edine	Agpfsg
-dalmatinske	Agpfsg
-pivovarne	Ncfsg
-.	Z
-Delavce	Ncmpa
-zanima	Vmpr3s
-,	Z
-kaj	Pq-nsn
-se	Px------y
-bo	Va-f3s-n
-zgodilo	Vmep-sn
-z	Si
-njihovo	Ps3fsip
-pivovarno	Ncfsi
-.	Z
-Foto	Ncmsn
-Kanal	Ncmsn
-A	Cc
-Mali	Agpmpn
-delničarji	Ncmpn
-so	Va-r3p-n
-prijavili	Vmep-pm
-Šrota	Npmsay
-,	Z
-Turnška	Npmsay
-in	Cc
-Udriha	Npmsay
-Podobno	Agpnsa
-pismo	Ncnsa
-so	Va-r3p-n
-poslali	Vmep-pm
-tudi	Q
-hrvaškemu	Agpnsd
-državnemu	Agpnsd
-tožilstvu	Ncnsd
-in	Cc
-hrvaški	Agpfsd
-premierki	Ncfsd
-Jadranki	Npfsd
-Kosor	Npfsd
-,	Z
-posebej	Rgp
-pa	Cc
-so	Va-r3p-n
-jezni	Agpmpn
-na	Sa
-nekdanjega	Agpmsa
-predsednika	Ncmsay
-uprave	Ncfsg
-Pivovarne	Ncfsg
-Laško	Npnsn
-Boška	Npmsg
-Šrota	Npmsgy
-,	Z
-dolgoletnega	Agpmsa
-predsednika	Ncmsay
-nadzornega	Agpmsg
-odbora	Ncmsg
-Jadranske	Agpfsg
-pivovarne	Ncfsg
-Antona	Npmsg
-Turnška	Npmsg
-in	Cc
-nekdanjega	Agpmsa
-direktorja	Ncmsay
-pivovarne	Ncfsg
-Tomaža	Npmsgy
-Udriha	Npmsg
-,	Z
-je	Va-r3s-n
-izpostavil	Vmep-sm
-Bulović	Npmsn
-.	Z
-Izrazil	Vmep-sm
-je	Va-r3s-n
-pričakovanje	Ncnsa
-,	Z
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-v	Sa
-celotni	Agpmsay
-primer	Ncmsan
-vključili	Vmep-pm
-tudi	Q
-slovenski	Agpmpn
-preiskovalci	Ncmpn
-.	Z
-Mali	Agpmpn
-delničarji	Ncmpn
-so	Va-r3p-n
-prejšnji	Agpmsay
-teden	Ncmsan
-sporočili	Vmep-pm
-,	Z
-da	Cs
-so	Va-r3p-n
-prijavo	Ncfsa
-proti	Sd
-Šrotu	Npmsd
-poslali	Vmep-pm
-tudi	Q
-Uradu	Ncmsd
-za	Sa
-boj	Ncmsan
-proti	Sd
-korupciji	Ncfsd
-in	Cc
-organiziranemu	Appmsd
-kriminalu	Ncmsd
-Uskok	Npmsn
-.	Z
-Urad	Ncmsn
-na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-so	Va-r3p-n
-začeli	Vmep-pm
-preiskavo	Ncfsa
-proti	Sd
-Šrotu	Npmsd
-,	Z
-še	Q
-ni	Va-r3s-y
-odgovoril	Vmep-sm
-.	Z
-V	Sl
-Pivovarni	Ncfsl
-Laško	Npnsn
-še	Q
-vedno	Rgp
-iščejo	Vmpr3p
-kupca	Ncmsay
-za	Sa
-splitsko	Agpfsa
-pivovarno	Ncfsa
-Tiskovni	Agpmsny
-predstavnik	Ncmsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-Jure	Npmsn
-Štrus	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-še	Q
-vedno	Rgp
-iščejo	Vmpr3p
-kupca	Ncmsay
-za	Sa
-Jadransko	Agpfsa
-pivovarno	Ncfsa
-,	Z
-če	Cs
-pa	Cc
-jim	Pp3mpd--y
-to	Pd-nsn
-ne	Q
-bo	Va-f3s-n
-uspelo	Vmep-sn
-,	Z
-bodo	Va-f3p-n
-tovarno	Ncfsa
-likvidirali	Vmbp-pm
-.	Z
-V	Sl
-primeru	Ncmsl
-likvidacije	Ncfsg
-bi	Va-c
-delavci	Ncmpn
-dobili	Vmep-pm
-vse	Pg-fpa
-odpravnine	Ncfpa
-,	Z
-še	Q
-pravi	Vmbr3s
-Štrovs	Npmsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-bodo	Va-f3p-n
-proizvodnjo	Ncfsa
-v	Sl
-vsakem	Pg-msl
-primeru	Ncmsl
-preselili	Vmep-pm
-,	Z
-saj	Cc
-ima	Vmpr3s-n
-ta	Pd-fsn
-proizvodnji	Ncfsd
-obrat	Ncmsan
-v	Sl
-Splitu	Npmsl
-velike	Agpfsg
-izgube	Ncfpa
-.	Z
-Končna	Agpfsn
-odločitev	Ncfsn
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-znana	Appfsn
-v	Sl
-nekaj	Rgp
-tednih	Ncmpl
-.	Z
-Delavcem	Ncmpd
-so	Va-r3p-n
-ta	Pd-msa
-dva	Mlcmda
-scenarija	Ncmda
-povedali	Vmep-pm
-že	Q
-pred	Si
-kakšnim	Pq-msi
-mesecem	Ncmsi
-.	Z
+token	tag	lemma
+Delavcem	mte:Ncmpd	delavec
+Jadranske	mte:Agpfsg	jadranski
+pivovarne	mte:Ncfsg	pivovarna
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prekipelo	mte:Vmep-sn	prekipeti
+,	mte:Z	,
+zasedli	mte:Vmep-pm	zasesti
+so	mte:Va-r3p-n	biti
+tovarno	mte:Ncfsa	tovarna
+,	mte:Z	,
+od	mte:Sg	od
+direktorja	mte:Ncmsg	direktor
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+zahtevali	mte:Vmbp-pm	zahtevati
+,	mte:Z	,
+naj	mte:Cs	naj
+jim	mte:Pp3mpd--y	on
+vendarle	mte:Cc	vendarle
+pojasni	mte:Vmer3s	pojasniti
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+s	mte:Si	z
+pivovarno	mte:Ncfsi	pivovarna
+v	mte:Sl	v
+Splitu	mte:Npmsl	Split
+.	mte:Z	.
+Jadranska	mte:Agpfsn	jadranski
+pivovarna	mte:Ncfsn	pivovarna
+Delavci	mte:Ncmpn	delavec
+Jadranske	mte:Agpfsg	jadranski
+pivovarne	mte:Ncfsg	pivovarna
+so	mte:Va-r3p-n	biti
+dopoldne	mte:Rgp	dopoldne
+zasedli	mte:Vmep-pm	zasesti
+prostore	mte:Ncmpa	prostor
+podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+direktorju	mte:Ncmsd	direktor
+Nenadu	mte:Npmsd	Nenad
+Buljanu	mte:Npmsd	Buljan
+prepovedali	mte:Vmep-pm	prepovedati
+vstop	mte:Ncmsan	vstop
+in	mte:Cc	in
+od	mte:Sg	od
+njega	mte:Pp3msg	on
+zahtevali	mte:Vmbp-pm	zahtevati
+,	mte:Z	,
+da	mte:Cs	da
+pokliče	mte:Vmer3s	poklicati
+slovenske	mte:Agpmpa	slovenski
+lastnike	mte:Ncmpa	lastnik
+v	mte:Sl	v
+Laškem	mte:Npnsl	Laško
+in	mte:Cc	in
+od	mte:Sg	od
+njih	mte:Pp3mpg	on
+izve	mte:Vmer3s	izvati
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+s	mte:Si	z
+pivovarno	mte:Ncfsi	pivovarna
+v	mte:Sl	v
+Splitu	mte:Npmsl	Split
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+svoji	mte:Px-fsl	svoj
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+poročala	mte:Vmpp-sf	poročati
+Slobodna	mte:Agpfsn	sloboden
+Dalmacija	mte:Npfsn	Dalmacija
+.	mte:Z	.
+Buljan	mte:Npmsn	Buljan
+sprva	mte:Rgp	sprva
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+poklicati	mte:Vmen	poklicati
+v	mte:Sa	v
+Slovenijo	mte:Npfsa	Slovenija
+,	mte:Z	,
+a	mte:Cc	a
+po	mte:Sl	po
+soočenju	mte:Ncnsl	soočenje
+z	mte:Si	z
+delavci	mte:Ncmpi	delavec
+,	mte:Z	,
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+premislil	mte:Vmep-sm	premisliti
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+upravi	mte:Ncfsd	uprava
+sporočil	mte:Vmep-sm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+delavci	mte:Ncmpn	delavec
+zahtevajo	mte:Vmbr3p	zahtevati
+,	mte:Z	,
+da	mte:Cs	da
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+slovenskih	mte:Agpmpg	slovenski
+predstavnikov	mte:Ncmpg	predstavnik
+obišče	mte:Vmer3s	obiskati
+tovarno	mte:Ncfsa	tovarna
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+regionalni	mte:Agpmsny	regionalen
+predstavnik	mte:Ncmsn	predstavnik
+sindikata	mte:Ncmsg	sindikat
+industrije	mte:Ncfsg	industrija
+Ivica	mte:Npfsn	Ivica
+Blažević	mte:Npmsn	Blažević
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+od	mte:Sg	od
+Buljana	mte:Npmsg	Buljana
+zahtevali	mte:Vmbp-pm	zahtevati
+vnovični	mte:Agpmsay	vnovičen
+zagon	mte:Ncmsan	zagon
+proizvodnje	mte:Ncfsg	proizvodnja
+,	mte:Z	,
+ker	mte:Cs	ker
+imajo	mte:Vmpr3p-n	imeti
+surovin	mte:Ncfpg	surovina
+za	mte:Sa	za
+približno	mte:Rgp	približno
+mesec	mte:Ncmsan	mesec
+dni	mte:Ncmpg	dan
+dela	mte:Ncnsg	delo
+.	mte:Z	.
+Lažje	mte:Rgc	lahko
+se	mte:Px------y	se
+nas	mte:Pp1-pa	jaz
+bodo	mte:Va-f3p-n	biti
+znebili	mte:Vmep-pm	znebiti
+,	mte:Z	,
+če	mte:Cs	če
+ne	mte:Q	ne
+delamo	mte:Vmpr1p	delati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+izjavil	mte:Vmep-sm	izjaviti
+Blažević	mte:Npmsn	Blažević
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+delavci	mte:Ncmpn	delavec
+zahtevali	mte:Vmbp-pm	zahtevati
+razglasitev	mte:Ncfsa	razglasitev
+stečaja	mte:Ncmsg	stečaj
+na	mte:Sl	na
+splitskem	mte:Agpnsl	splitski
+trgovskem	mte:Agpnsl	trgovski
+sodišču	mte:Ncnsl	sodišče
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+lastniki	mte:Ncmpn	lastnik
+pred	mte:Si	pred
+mesecem	mte:Ncmsi	mesec
+dni	mte:Ncmpg	dan
+napovedali	mte:Vmep-pm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+nameravajo	mte:Vmpr3p	nameravati
+zapreti	mte:Vmen	zapreti
+podjetje	mte:Ncnsa	podjetje
+.	mte:Z	.
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2001	mte:Mdc	2001
+večinska	mte:Agpfsn	večinski
+lastnica	mte:Ncfsn	lastnica
+Jadranske	mte:Agpfsg	jadranski
+pivovarne	mte:Ncfsg	pivovarna
+.	mte:Z	.
+Mali	mte:Agpmpn	mali
+delničarji	mte:Ncmpn	delničar
+so	mte:Va-r3p-n	biti
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+splitsko	mte:Agpfsa	splitski
+pivovarno	mte:Ncfsa	pivovarna
+možno	mte:Agpnsn	možen
+rešiti	mte:Vmen	rešiti
+,	mte:Z	,
+ker	mte:Cs	ker
+lahko	mte:Rgp	lahko
+naredijo	mte:Vmer3p	narediti
+400.000	mte:Mdc	400.000
+hektolitrov	mte:Ncmpg	hektoliter
+piva	mte:Ncnsg	pivo
+ter	mte:Cc	ter
+prodajo	mte:Ncfsa	prodaja
+100.000	mte:Mdc	100.000
+hektolitrov	mte:Ncmpg	hektoliter
+vode	mte:Ncfsg	voda
+,	mte:Z	,
+sokov	mte:Ncmpg	sok
+in	mte:Cc	in
+uvoznega	mte:Agpnsg	uvozen
+piva	mte:Ncnsg	pivo
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+omenjena	mte:Appfsn	omenjen
+proizvodnja	mte:Ncfsn	proizvodnja
+zaživela	mte:Vmep-sf	zaživeti
+,	mte:Z	,
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+odprli	mte:Vmep-pm	odpreti
+tudi	mte:Q	tudi
+dodatna	mte:Agpnpa	dodaten
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+prepričani	mte:Appmpn	prepričan
+.	mte:Z	.
+Društvo	mte:Ncnsn	društvo
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+je	mte:Va-r3s-n	biti
+pisalo	mte:Vmpp-sn	pisati
+tudi	mte:Q	tudi
+Pahorju	mte:Npmsd	Pahorje
+Društvo	mte:Ncnsn	društvo
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+Jadranske	mte:Agpfsg	jadranski
+pivovarne	mte:Ncfsg	pivovarna
+je	mte:Va-r3s-n	biti
+sredi	mte:Sg	sredi
+februarja	mte:Ncmsg	februar
+o	mte:Sl	o
+stanju	mte:Ncnsl	stanje
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+in	mte:Cc	in
+napovedanem	mte:Appnsl	napovedan
+zaprtju	mte:Ncnsl	zaprtje
+tovarne	mte:Ncfsg	tovarna
+pisno	mte:Agpnsn	pisno
+obvestilo	mte:Ncnsa	obvestiti
+tudi	mte:Q	tudi
+slovenskega	mte:Agpmsg	slovenski
+premierja	mte:Ncmsg	premier
+Boruta	mte:Npmsg	Borut
+Pahorja	mte:Npmsg	Pahorje
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+pojasnil	mte:Vmep-sm	pojasniti
+predsednik	mte:Ncmsn	predsednik
+društva	mte:Ncnsg	društvo
+delničarjev	mte:Ncmpg	delničar
+Nenad	mte:Npmsn	Nenad
+Bulović	mte:Npmsn	Bulović
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+želeli	mte:Vmpp-pm	želeti
+opozoriti	mte:Vmen	opozoriti
+predsednika	mte:Ncmsay	predsednik
+slovenske	mte:Agpfsg	slovenski
+vlade	mte:Ncfsg	vlada
+o	mte:Sl	o
+škodljivih	mte:Agpnpl	škodljiv
+dejanjih	mte:Ncnpl	dejanje
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+so	mte:Va-r3p-n	biti
+slovenski	mte:Agpmpn	slovenski
+poslovneži	mte:Ncmpn	poslovnež
+nameravali	mte:Vmpp-pm	nameravati
+pripeljati	mte:Vmen	pripeljati
+do	mte:Sg	do
+propada	mte:Ncmsg	propad
+edine	mte:Agpfsg	edin
+dalmatinske	mte:Agpfsg	dalmatinski
+pivovarne	mte:Ncfsg	pivovarna
+.	mte:Z	.
+Delavce	mte:Ncmpa	delavec
+zanima	mte:Vmpr3s	zanimati
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+z	mte:Si	z
+njihovo	mte:Ps3fsip	njihov
+pivovarno	mte:Ncfsi	pivovarna
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+Kanal	mte:Ncmsn	Kanal
+A	mte:Cc	a
+Mali	mte:Agpmpn	mali
+delničarji	mte:Ncmpn	delničar
+so	mte:Va-r3p-n	biti
+prijavili	mte:Vmep-pm	prijaviti
+Šrota	mte:Npmsay	Šrot
+,	mte:Z	,
+Turnška	mte:Npmsay	Turnška
+in	mte:Cc	in
+Udriha	mte:Npmsay	Udrih
+Podobno	mte:Agpnsa	podoben
+pismo	mte:Ncnsa	pismo
+so	mte:Va-r3p-n	biti
+poslali	mte:Vmep-pm	poslati
+tudi	mte:Q	tudi
+hrvaškemu	mte:Agpnsd	hrvaški
+državnemu	mte:Agpnsd	državen
+tožilstvu	mte:Ncnsd	tožilstvo
+in	mte:Cc	in
+hrvaški	mte:Agpfsd	hrvaški
+premierki	mte:Ncfsd	premierka
+Jadranki	mte:Npfsd	Jadranki
+Kosor	mte:Npfsd	Kosor
+,	mte:Z	,
+posebej	mte:Rgp	posebej
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+jezni	mte:Agpmpn	jezen
+na	mte:Sa	na
+nekdanjega	mte:Agpmsa	nekdanji
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+Boška	mte:Npmsg	Boška
+Šrota	mte:Npmsgy	Šrot
+,	mte:Z	,
+dolgoletnega	mte:Agpmsa	dolgoleten
+predsednika	mte:Ncmsay	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+odbora	mte:Ncmsg	odbor
+Jadranske	mte:Agpfsg	jadranski
+pivovarne	mte:Ncfsg	pivovarna
+Antona	mte:Npmsg	Anton
+Turnška	mte:Npmsg	Turnška
+in	mte:Cc	in
+nekdanjega	mte:Agpmsa	nekdanji
+direktorja	mte:Ncmsay	direktor
+pivovarne	mte:Ncfsg	pivovarna
+Tomaža	mte:Npmsgy	Tomaž
+Udriha	mte:Npmsg	Udrih
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+izpostavil	mte:Vmep-sm	izpostaviti
+Bulović	mte:Npmsn	Bulović
+.	mte:Z	.
+Izrazil	mte:Vmep-sm	izraziti
+je	mte:Va-r3s-n	biti
+pričakovanje	mte:Ncnsa	pričakovanje
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+v	mte:Sa	v
+celotni	mte:Agpmsay	celoten
+primer	mte:Ncmsan	primer
+vključili	mte:Vmep-pm	vključiti
+tudi	mte:Q	tudi
+slovenski	mte:Agpmpn	slovenski
+preiskovalci	mte:Ncmpn	preiskovalec
+.	mte:Z	.
+Mali	mte:Agpmpn	mali
+delničarji	mte:Ncmpn	delničar
+so	mte:Va-r3p-n	biti
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+prijavo	mte:Ncfsa	prijava
+proti	mte:Sd	proti
+Šrotu	mte:Npmsd	Šrot
+poslali	mte:Vmep-pm	poslati
+tudi	mte:Q	tudi
+Uradu	mte:Ncmsd	urad
+za	mte:Sa	za
+boj	mte:Ncmsan	boj
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+in	mte:Cc	in
+organiziranemu	mte:Appmsd	organiziran
+kriminalu	mte:Ncmsd	kriminal
+Uskok	mte:Npmsn	Uskok
+.	mte:Z	.
+Urad	mte:Ncmsn	urad
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+začeli	mte:Vmep-pm	začeti
+preiskavo	mte:Ncfsa	preiskava
+proti	mte:Sd	proti
+Šrotu	mte:Npmsd	Šrot
+,	mte:Z	,
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+odgovoril	mte:Vmep-sm	odgovoriti
+.	mte:Z	.
+V	mte:Sl	v
+Pivovarni	mte:Ncfsl	pivovarna
+Laško	mte:Npnsn	Laško
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+iščejo	mte:Vmpr3p	iskati
+kupca	mte:Ncmsay	kupec
+za	mte:Sa	za
+splitsko	mte:Agpfsa	splitski
+pivovarno	mte:Ncfsa	pivovarna
+Tiskovni	mte:Agpmsny	tiskoven
+predstavnik	mte:Ncmsn	predstavnik
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+Jure	mte:Npmsn	Jure
+Štrus	mte:Npmsn	Štrus
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+iščejo	mte:Vmpr3p	iskati
+kupca	mte:Ncmsay	kupec
+za	mte:Sa	za
+Jadransko	mte:Agpfsa	jadranski
+pivovarno	mte:Ncfsa	pivovarna
+,	mte:Z	,
+če	mte:Cs	če
+pa	mte:Cc	pa
+jim	mte:Pp3mpd--y	on
+to	mte:Pd-nsn	ta
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+uspelo	mte:Vmep-sn	uspeti
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+tovarno	mte:Ncfsa	tovarna
+likvidirali	mte:Vmbp-pm	likvidirati
+.	mte:Z	.
+V	mte:Sl	v
+primeru	mte:Ncmsl	primer
+likvidacije	mte:Ncfsg	likvidacija
+bi	mte:Va-c	biti
+delavci	mte:Ncmpn	delavec
+dobili	mte:Vmep-pm	dobiti
+vse	mte:Pg-fpa	ves
+odpravnine	mte:Ncfpa	odpravnina
+,	mte:Z	,
+še	mte:Q	še
+pravi	mte:Vmbr3s	praviti
+Štrovs	mte:Npmsn	Štrovs
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+proizvodnjo	mte:Ncfsa	proizvodnja
+v	mte:Sl	v
+vsakem	mte:Pg-msl	vsak
+primeru	mte:Ncmsl	primer
+preselili	mte:Vmep-pm	preseliti
+,	mte:Z	,
+saj	mte:Cc	saj
+ima	mte:Vmpr3s-n	imeti
+ta	mte:Pd-fsn	ta
+proizvodnji	mte:Ncfsd	proizvodnja
+obrat	mte:Ncmsan	obrat
+v	mte:Sl	v
+Splitu	mte:Npmsl	Split
+velike	mte:Agpfsg	velik
+izgube	mte:Ncfpa	izguba
+.	mte:Z	.
+Končna	mte:Agpfsn	končen
+odločitev	mte:Ncfsn	odločitev
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+znana	mte:Appfsn	znan
+v	mte:Sl	v
+nekaj	mte:Rgp	nekaj
+tednih	mte:Ncmpl	teden
+.	mte:Z	.
+Delavcem	mte:Ncmpd	delavec
+so	mte:Va-r3p-n	biti
+ta	mte:Pd-msa	ta
+dva	mte:Mlcmda	dva
+scenarija	mte:Ncmda	scenarija
+povedali	mte:Vmep-pm	povedati
+že	mte:Q	že
+pred	mte:Si	pred
+kakšnim	mte:Pq-msi	kakšen
+mesecem	mte:Ncmsi	mesec
+.	mte:Z	.
+So	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+danes	mte:Rgp	danes
+sindikate	mte:Ncmpa	sindikat
+iz	mte:Sg	iz
+Pivovarne	mte:Ncfsg	pivovarna
+laško	mte:Rgp	laško
+povabili	mte:Vmep-pm	povabiti
+,	mte:Z	,
+da	mte:Cs	da
+pridejo	mte:Vmer3p	priti
+na	mte:Sa	na
+sedež	mte:Ncmsan	sedež
+podjetja	mte:Ncnsg	podjetje
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+o	mte:Sl	o
+zadevah	mte:Ncfpl	zadeva
+znova	mte:Rgp	znova
+pogovorili	mte:Vmep-pm	pogovoriti
+,	mte:Z	,
+a	mte:Cc	a
+so	mte:Va-r3p-n	biti
+hrvaški	mte:Agpmpn	hrvaški
+sindikalisti	mte:Ncmpn	sindikalist
+to	mte:Pd-nsa	ta
+povabilo	mte:Ncnsa	povabilo
+zavrnili	mte:Vmep-pm	zavrniti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+predstavnik	mte:Ncmsn	predstavnik
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško

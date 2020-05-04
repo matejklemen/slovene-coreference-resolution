@@ -1,1001 +1,1025 @@
-token	tag
-Družbena	Agpfsn
-odgovornost	Ncfsn
-podjetij	Ncnpg
-Iluzija	Ncfsn
-ali	Cc
-nujnost	Ncfsn
-?	Z
-Nemško	Agpnsn
-podjetje	Ncnsn
-je	Va-r3s-n
-,	Z
-v	Sl
-ne	Q
-ravno	Q
-zlatih	Agpmpl
-časih	Ncmpl
-gospodarstva	Ncnsg
-,	Z
-slovenskemu	Agpnsd
-človekoljubnemu	Agpnsd
-društvu	Ncnsd
-zgradilo	Vmep-sn
-in	Cc
-podarilo	Vmep-sn
-milijon	Ncmsan
-evrov	Ncmpg
-vredne	Agpmpa
-prostore	Ncmpa
-za	Sa
-odrasle	Appfpa
-osebe	Ncfpa
-z	Si
-motnjami	Ncfpi
-v	Sl
-razvoju	Ncmsl
-.	Z
-V	Sl
-poplavi	Ncfsl
-konfliktov	Ncmpg
-in	Cc
-političnega	Agpmsg
-boja	Ncmsg
-se	Px------y
-pozitivne	Agpfpn
-novice	Ncfpn
-redkeje	Rgc
-prebijejo	Vmer3p
-na	Sa
-naslovnice	Ncfpa
-.	Z
-Takšne	Pd-fpn
-,	Z
-kot	Cs
-je	Va-r3s-n
-pričujoča	Appfsn
-,	Z
-tudi	Q
-zato	Rgp
-,	Z
-ker	Cs
-so	Va-r3p-n
-dogodki	Ncmpn
-za	Si
-njimi	Pp3mpi
-dejansko	Rgp
-precej	Rgp
-redki	Agpmpn
-.	Z
-Ni	Va-r3s-y
-ravno	Q
-pogosto	Agpnsn
-,	Z
-da	Cs
-se	Px------y
-zaposleni	Appmpn
-nekega	Pi-nsg
-manjšega	Agcnsg
-nemškega	Agpnsg
-podjetja	Ncnsg
-navkljub	Sd
-ne	Q
-ravno	Q
-rožnatim	Agpfpd
-razmeram	Ncfpd
-odločijo	Vmer3p
-svoj	Px-msa
-prosti	Agpmsay
-čas	Ncmsan
-posvetiti	Vmen
-milijon	Ncmsan
-evrov	Ncmpg
-vrednemu	Agpmsd
-človekoljubnemu	Agpmsd
-projektu	Ncmsd
-.	Z
-Preberite	Vmem2p
-tudi	Q
-Protestniki	Ncmpn
-v	Sl
-NLB	Npfsl
-proti	Sd
-pohlepu	Ncmsd
-Nismo	Va-r1p-y
-blago	Ncnsn
-v	Sl
-rokah	Ncfpl
-bank	Ncfpg
-in	Cc
-politikov	Ncmpg
-!	Z
-Brez	Sg
-promocij	Ncfpg
-,	Z
-zahval	Ncfpg
-ali	Cc
-lastnih	Agpfpg
-koristi	Ncfpg
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-društva	Ncnsg
-Barka	Npfsn
-,	Z
-ki	Cs
-skrbi	Vmpr3s
-za	Sa
-odrasle	Appfpa
-osebe	Ncfpa
-z	Si
-motnjami	Ncfpi
-v	Sl
-duševnem	Agpmsl
-razvoju	Ncmsl
-,	Z
-je	Va-r3s-n
-Baufritz	Npmsn
-Gmbh	Npmsn
-&	Npmsn
-Co	Npmsn
-v	Sl
-letu	Ncnsl
-in	Cc
-pol	Rgp
-v	Sl
-Medvodah	Npfpl
-odprl	Vmep-sm
-poseben	Agpmsan
-varstveno	Agpnsa
--	Z
-delovni	Agpmsay
-center	Ncmsan
-brez	Sg
-kakršnih	Pq-fpg
-koli	Q
-promocij	Ncfpg
-,	Z
-koristi	Ncfpg
-ali	Cc
-zahval	Ncfpg
-zase	Px---a--b
-.	Z
-Direktor	Ncmsn
-enostavno	Rgp
-verjame	Vmbr3s
-v	Sa
-to	Pd-nsa
-,	Z
-kar	Pr-nsa
-počnemo	Vmbr1p
-in	Cc
-je	Va-r3s-n
-hotel	Vmpp-sm
-tudi	Q
-sam	Agpmsnn
-kaj	Pq-nsa
-storiti	Vmen
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-z	Sg
-društva	Ncnsg
-.	Z
-Zadeva	Ncfsn
-je	Va-r3s-n
-še	Q
-toliko	Rgp
-bolj	Rgc
-neverjetna	Agpfsn
-,	Z
-ker	Cs
-so	Va-r3p-n
-jo	Pp3fsa--y
-načrtovali	Vmpp-pm
-pred	Si
-krizo	Ncfsi
-,	Z
-realizirali	Vmbp-pm
-pa	Cc
-med	Si
-njo	Pp3fsi
-,	Z
-ko	Cs
-je	Va-r3s-n
-tudi	Q
-podjetje	Ncnsn
-samo	Q
-zašlo	Vmep-sn
-v	Sa
-precejšnje	Agpfpa
-težave	Ncfpa
-.	Z
-A	Cc
-je	Va-r3s-n
-podjetje	Ncnsn
-podarilo	Vmep-sn
-material	Ncmsan
-,	Z
-lokalna	Agpfsn
-župnija	Ncfsn
-je	Va-r3s-n
-z	Si
-darovi	Ncmpi
-pokrila	Vmep-sf
-stroške	Ncmpa
-tovornjakov	Ncmpg
-,	Z
-delavci	Ncmpn
-pa	Cc
-so	Va-r3p-n
-med	Si
-počitnicami	Ncfpi
-in	Cc
-v	Sl
-prostem	Agpmsl
-času	Ncmsl
-izvedli	Vmep-pm
-vse	Pg-nsa
-ostalo	Vmep-sn
-,	Z
-so	Va-r3p-n
-nadaljevali	Vmpp-pm
-v	Sl
-društvu	Ncnsl
-Barka	Npfsn
-.	Z
-Ker	Cs
-pa	Cc
-se	Px------y
-Barki	Ncfsd
-dogodka	Ncmsg
-ni	Va-r3s-y
-zdelo	Vmpp-sn
-prav	Q
-zadržati	Vmen
-le	Q
-zase	Px---a--b
-,	Z
-so	Va-r3p-n
-pri	Sl
-nemškem	Agpnsl
-veleposlaništvu	Ncnsl
-in	Cc
-Gospodarski	Agpfsl
-zbornici	Ncfsl
-Slovenije	Npfsg
-dali	Vmep-pm
-pobudo	Ncfsa
-.	Z
-Na	Sa
-njihov	Ps3msap
-predlog	Ncmsan
-je	Va-r3s-n
-GZS	Npmsn
-organiziral	Vmbp-sm
-simpozij	Ncmsan
-,	Z
-kjer	Cs
-so	Va-r3p-n
-o	Sl
-družbeni	Agpfsl
-odgovornosti	Ncfsl
-podjetij	Ncnpg
-spregovorili	Vmep-pm
-donator	Ncmsn
-Helmut	Npmsn
-Holl	Npmsn
-,	Z
-pa	Cc
-tudi	Q
-druga	Mlpnpn
-nemška	Agpnpn
-podjetja	Ncnpn
-,	Z
-ki	Cs
-delujejo	Vmpr3p
-na	Sa
-podoben	Agpmsan
-način	Ncmsan
-.	Z
-Je	Va-r3s-n
-princip	Ncmsn
-,	Z
-da	Cs
-podjetje	Ncnsn
--	Z
-še	Q
-posebej	Rgp
-v	Sl
-času	Ncmsl
-krize	Ncfsg
--	Z
-deluje	Vmpr3s
-do	Sg
-družbe	Ncfsg
-,	Z
-lastnih	Agpmpg
-delavcev	Ncmpg
-in	Cc
-okolja	Ncnsg
-odgovorno	Rgp
-,	Z
-možen	Agpmsnn
-?	Z
-Je	Va-r3s-n
-sploh	Q
-izvedljiv	Agpmsnn
-,	Z
-glede	Sg
-dodatne	Agpmpa
-stroške	Ncmpa
-,	Z
-ki	Cs
-poskrbijo	Vmer3p
-za	Sa
-slabši	Agcmsay
-položaj	Ncmsan
-v	Sl
-globalni	Agpfsl
-bitki	Ncfsl
-za	Sa
-konkurenčnost	Ncfsa
-?	Z
-Naj	Cs
-bodo	Va-f3p-n
-delavci	Ncmpn
-udeleženi	Appmpn
-pri	Sl
-dobičku	Ncmsl
-podjetja	Ncnsg
-,	Z
-še	Q
-več	Rgc
--	Z
-naj	Cs
-nosijo	Vmpr3p
-tudi	Q
-delež	Ncmsan
-izgube	Ncfsg
-,	Z
-ko	Cs
-zaide	Vmer3s
-podjetje	Ncnsa
-v	Sa
-težave	Ncfpa
-?	Z
-Solidarnost	Ncfsn
-je	Va-r3s-n
-v	Sl
-Sloveniji	Npfsl
-globoko	Rgp
-vraščena	Appfsn
-Izvršna	Agpfsn
-direktorica	Ncfsn
-GZS	Npfsn
--	Z
-ja	Q
-Alenka	Npfsn
-Avberšek	Npfsn
-je	Va-r3s-n
-prepričana	Appfsn
-,	Z
-da	Cs
-je	Va-r3s-n
-družbena	Agpfsn
-odgovornost	Ncfsn
-podjetij	Ncnpg
-nujnost	Ncfsn
-.	Z
-Multinacionalni	Agpmsny
-kapitalistični	Agpmsny
-finančni	Agpmsay
-sistem	Ncmsn
-je	Va-r3s-n
-sistem	Ncmsn
-vrednot	Ncfpg
-,	Z
-potisnil	Vmep-sm
-v	Sa
-brezno	Ncnsa
-.	Z
-Konkurenca	Ncfsn
-pritiska	Ncmsg
-na	Sa
-vse	Pg-nsa
-,	Z
-zato	Cc
-tudi	Q
-tisti	Pd-mpn
-gospodarski	Agpmpn
-subjekti	Ncmpn
-,	Z
-ki	Cs
-se	Px------y
-na	Sa
-zunaj	Rgp
-trudijo	Vmpr3p
-slediti	Vmpn
-trajnostnemu	Agpmsd
-razvoju	Ncmsd
-,	Z
-odgovornost	Ncfsa
-do	Sg
-okolja	Ncnsg
-izpolnjujejo	Vmpr3p
-tako	Rgp
-,	Z
-da	Cs
-umazane	Appfpn
-proizvodnje	Ncfpn
-selijo	Vmpr3p
-v	Sa
-dežele	Ncfpa
-tretjega	Mlomsg
-sveta	Ncmsg
-po	Sl
-načelu	Ncnsl
-daleč	Rgp
-od	Sg
-oči	Ncfpg
-,	Z
-daleč	Rgp
-od	Sg
-srca	Ncnsg
-.	Z
-Ter	Cc
-daleč	Rgp
-od	Sg
-višjih	Agcfpg
-plač	Ncfpg
-.	Z
-Kljub	Sd
-temu	Pd-nsd
-je	Va-r3s-n
-prepričana	Appfsn
-,	Z
-da	Cs
-odgovornost	Ncfsn
-do	Sg
-drugega	Mlpnsg
-še	Q
-posebej	Rgp
-pri	Sl
-nas	Pp1-pl
-,	Z
-Slovencih	Npmpl
-,	Z
-ni	Va-r3s-y
-izginila	Vmep-sf
-.	Z
-Še	Q
-več	Q
-,	Z
-solidarnost	Ncfsn
-je	Va-r3s-n
-v	Sl
-slovenski	Agpfsl
-kulturi	Ncfsl
-zgodovinsko	Rgp
-globoko	Rgp
-vraščena	Appfsn
-,	Z
-ekonomska	Agpfsn
-nuja	Ncfsn
-jo	Pp3fsa--y
-je	Va-r3s-n
-le	Q
-prekrila	Vmep-sf
-.	Z
-Avberškova	Aspfsn
-je	Va-r3s-n
-argumentacijo	Ncfsa
-potegnila	Vmep-sf
-še	Q
-stopnjo	Ncfsa
-višje	Agcfsg
-.	Z
-Ne	Q
-le	Q
-,	Z
-da	Cs
-je	Va-r3s-n
-družbena	Agpfsn
-odgovornost	Ncfsn
-vrednota	Ncfsn
-le	Q
-kot	Cs
-moralni	Agpmsny
-ideal	Ncmsn
--	Z
-več	Rgc
-,	Z
-na	Sa
-dolgi	Agpmsay
-rok	Ncmsan
-je	Va-r3s-n
-to	Pd-fsa
-nujnost	Ncfsn
-na	Sl
-poti	Ncfsl
-k	Sd
-resnično	Rgp
-uspešnim	Agpnpd
-podjetjem	Ncnpd
-.	Z
-Kaj	Pq-nsn
-sploh	Q
-je	Va-r3s-n
-družbeno	Agpnsn
-odgovorno	Agpnsn
-podjetje	Ncnsn
-?	Z
-Definicije	Ncfpn
-so	Va-r3p-n
-mnogotere	Agpfpn
-,	Z
-Avberškova	Aspfsn
-pa	Cc
-je	Va-r3s-n
-koncept	Ncmsan
-definirala	Vmbp-sf
-kot	Cs
-podjetje	Ncnsa
-,	Z
-ki	Cs
-deluje	Vmpr3s
-odgovorno	Agpnsn
-in	Cc
-partnersko	Agpnsn
-do	Sg
-svojih	Px-mpg
-delavcev	Ncmpg
-,	Z
-dobaviteljev	Ncmpg
-,	Z
-lastnikov	Ncmpg
-,	Z
-družbe	Ncfsg
-in	Cc
-okolja	Ncnsg
--	Z
-obenem	Rgp
-pa	Cc
-je	Va-r3s-n
-njegovo	Ps3nsnsm
-prvo	Mlonsa
-poslanstvo	Ncnsa
-,	Z
-da	Cs
-je	Va-r3s-n
-ekonomsko	Rgp
-uspešno	Agpnsn
-.	Z
-Za	Sa
-Avberškovo	Aspfsa
-je	Va-r3s-n
-svoj	Px-msa
-pogled	Ncmsan
-na	Sa
-odgovornost	Ncfsa
-v	Sl
-luči	Ncfsl
-evropskih	Agpfpg
-integracij	Ncfpg
-pojasnil	Vmep-sm
-Josef	Npmsn
-Miller	Npmsn
-,	Z
-nekdanji	Agpmsny
-bavarski	Agpmsny
-minister	Ncmsn
-za	Sa
-kmetijstvo	Ncnsa
-in	Cc
-gozdarstvo	Ncnsa
-.	Z
-Vzrok	Ncmsan
-za	Sa
-krizo	Ncfsa
--	Z
-pohlep	Ncmsn
-Miller	Npmsn
-je	Va-r3s-n
-izrazil	Vmep-sm
-prepričanje	Ncnsa
-,	Z
-da	Cs
-je	Va-r3s-n
-krizo	Ncfsa
-,	Z
-ki	Cs
-ogroža	Vmpr3s
-temeljni	Agpmsay
-projekt	Ncmsan
-evropske	Agpfsg
-skupnosti	Ncfsg
-,	Z
-povzročilo	Vmep-sn
-ravno	Q
-pomanjkanje	Ncnsa
-odgovornosti	Ncfsg
-in	Cc
-posledično	Rgp
-odprta	Appfsn
-pot	Ncfsn
-pohlepu	Ncmsd
-.	Z
-V	Sl
-času	Ncmsl
-konjunkture	Ncfsg
-je	Va-r3s-n
-po	Sl
-njegovi	Ps3fslsm
-oceni	Ncfsl
-finančni	Agpmsay
-sektor	Ncmsan
-dovolj	Rgp
-pritisnil	Vmep-sm
-na	Sa
-države	Ncfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-v	Sl
-iskanju	Ncnsl
-čimhitrejše	Agcfsg
-gospodarske	Agpfsg
-rasti	Ncfsg
-dovolile	Vmep-pf
-deregulacijo	Ncfsa
-finančnega	Agpmsg
-sektorja	Ncmsg
-.	Z
-Ta	Pd-msn
-je	Va-r3s-n
-,	Z
-tudi	Q
-v	Sl
-največjih	Agsfpl
-evropskih	Agpfpl
-bankah	Ncfpl
-,	Z
-šel	Vmbp-sm
-v	Sa
-vse	Pg-fpa
-bolj	Rgc
-tvegane	Appfpa
-investicije	Ncfpa
-,	Z
-z	Si
-zapletenimi	Agpmpi
-finančnimi	Agpmpi
-instrumenti	Ncmpi
-hkrati	Rgp
-vlagal	Vmpp-sm
-v	Sa
-podjetja	Ncnpa
-in	Cc
-države	Ncfpa
-ter	Cc
-hkrati	Rgp
-stavil	Vmpp-sm
-na	Sa
-njihov	Ps3msap
-propad	Ncmsan
-.	Z
-Tvezili	Vmpp-pm
-so	Va-r3p-n
-nam	Pp1-pd
-,	Z
-da	Cs
-so	Va-r3p-n
-dolgovi	Ncmpn
-že	Q
-sami	Agpmpn
-po	Sl
-sebi	Px---l
-vrednost	Ncfsa
-in	Cc
-da	Cs
-je	Va-r3s-n
-treba	Rgp
-z	Si
-njimi	Pp3mpi
-znati	Vmpn
-trgovati	Vmpn
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Miller	Npmsn
-.	Z
-Na	Sa
-tak	Pd-msa
-način	Ncmsan
-so	Va-r3p-n
-spravili	Vmep-pm
-v	Sa
-veliko	Agpfsa
-nevarnost	Ncfsa
-sanje	Ncfsg
-mnogih	Pi-fpg
-generacij	Ncfpg
-,	Z
-združeno	Appfsa
-Evropo	Npfsa
-na	Sl
-temelju	Ncmsl
-solidarnosti	Ncfsg
-in	Cc
-družbene	Agpfsg
-odgovornosti	Ncfsg
-.	Z
-Evropska	Agpfsn
-unija	Ncfsn
-je	Va-r3s-n
-v	Sl
-veliki	Agpfsl
-nevarnosti	Ncfsl
-Velika	Agpfsn
-zadolženost	Ncfsa
-in	Cc
-kriza	Ncfsn
-proračunskih	Agpmpg
-primanjkljajev	Ncmpg
-postavlja	Vmpr3s
-na	Sa
-kocko	Ncfsa
-skupno	Agpfsa
-evropsko	Agpfsa
-valuto	Ncfsa
-,	Z
-na	Sa
-daljši	Agcmsay
-rok	Ncmsan
-pa	Cc
-celo	Q
-Evropsko	Agpfsa
-unijo	Ncfsa
-,	Z
-je	Va-r3s-n
-nadaljeval	Vmpp-sm
-Miller	Npmsn
-.	Z
-Da	Cs
-je	Va-r3s-n
-situacija	Ncfsn
-resna	Agpfsn
-,	Z
-kaže	Vmpr3s
-tudi	Q
-prestavitev	Ncfsa
-vrha	Ncmsg
-Evropske	Agpfsg
-unije	Ncfsg
-,	Z
-prva	Mlofsn
-v	Sl
-zgodovini	Ncfsl
-,	Z
-na	Sl
-kateri	Pq-fsl
-bodo	Va-f3p-n
-med	Si
-drugim	Mlpnsi
-odločali	Vmpp-pm
-o	Sl
-dokapitalizaciji	Ncfsl
-evropskih	Agpfpg
-bank	Ncfpg
-.	Z
-Miller	Npmsn
-rešitev	Ncfsn
-vidi	Vmbr3s
-ravno	Q
-v	Sl
-družbeni	Agpfsl
-odgovornosti	Ncfsl
--	Z
-upravljalci	Ncmpn
-bank	Ncfpg
-ter	Cc
-korporacij	Ncfpg
-so	Va-r3p-n
-navadno	Rgp
-odgovorni	Agpmpn
-le	Q
-svojim	Px-mpd
-delničarjem	Ncmpd
-in	Cc
-kapitalu	Ncmsd
-,	Z
-zato	Cc
-delujejo	Vmpr3p
-za	Sa
-čimvečji	Agpmsay
-dobiček	Ncmsan
-v	Sl
-čimkrajšem	Agcmsl
-času	Ncmsl
-.	Z
-Če	Cs
-bi	Va-c
-z	Si
-določenimi	Appmpi
-pravnimi	Agpmpi
-popravki	Ncmpi
-odločevalcem	Ncmsi
-obesili	Vmep-pm
-še	Q
-odgovornost	Ncfsa
-do	Sg
-družbe	Ncfsg
-in	Cc
-okolja	Ncnsg
-,	Z
-bo	Va-f3s-n
-to	Pd-nsa
-prvi	Mlomsa
-korak	Ncmsan
-k	Sd
-rešitvi	Ncfsd
-,	Z
-je	Va-r3s-n
-sklenil	Vmep-sm
-nekdanji	Agpmsny
-bavarski	Agpmsny
-minister	Ncmsn
-.	Z
-Bavarska	Agpfsn
-,	Z
-nemška	Agpfsn
-zvezna	Agpfsn
-dežela	Ncfsn
-z	Si
-12	Mdc
-milijoni	Ncmpi
-prebivalcev	Ncmpg
-,	Z
-je	Va-r3s-n
-trenutno	Rgp
-ena	Mlpfsn
-najmanj	Rgs
-zadolženih	Appfpg
-političnih	Agpfpg
-enot	Ncfpg
-v	Sl
-Evropi	Npfsl
-ter	Cc
-beleži	Vmpr3s
-rekordno	Agpfsa
-nizko	Agpfsa
-brezposelnot	Ncfsa
-.	Z
-Miller	Npmsn
-pravi	Vmbr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-tako	Rgp
-ravno	Q
-zaradi	Sg
-omejenega	Appnsg
-zadolževanja	Ncnsg
-v	Sl
-času	Ncmsl
-krize	Ncfsg
-ter	Cc
-široko	Rgp
-razširjenega	Appnsg
-načela	Ncnsg
-družbene	Agpfsg
-odgovornosti	Ncfsg
-v	Sl
-lokalnem	Agpnsl
-gospodarstvu	Ncnsl
-.	Z
-Holl	Npmsn
-Projekt	Ncmsn
-je	Va-r3s-n
-prinesel	Vmep-sm
-izjemno	Agpnsa
-veselje	Ncnsa
-Svoj	Px-msa
-pogled	Ncmsan
-na	Sa
-družbeno	Agpfsa
-odgovornost	Ncfsa
-je	Va-r3s-n
-predstavil	Vmep-sm
-tudi	Q
-Holl	Npmsn
-.	Z
-V	Sl
-podjetju	Ncnsl
-se	Px------y
-osredotočajo	Vmpr3p
-na	Sa
-ekološke	Agpmpa
-materiale	Ncmpa
-.	Z
-Pri	Sl
-odnosu	Ncmsl
-z	Si
-dobavitelji	Ncmpi
-si	Px---d--y
-prizadevajo	Vmpr3p
-za	Sa
-povsem	Rgp
-partnerski	Agpmsay
-,	Z
-neizkoriščevalski	Agpmsay
-odnos	Ncmsan
-.	Z
-V	Sl
-odnosih	Ncmpl
-z	Si
-družbo	Ncfsi
-se	Px------y
-redno	Rgp
-ukvarjajo	Vmpr3p
-z	Si
-dobrodelnimi	Agpmpi
-postranskimi	Agpmpi
-projekti	Ncmpi
-.	Z
-Npr	Z
-Uredili	Vmep-pm
-so	Va-r3p-n
-balinarsko	Agpfsa
-progo	Ncfsa
-za	Sa
-osebe	Ncfpa
-z	Si
-motnjami	Ncfpi
-v	Sl
-razvoju	Ncmsl
-,	Z
-zaposleni	Appmpn
-so	Va-r3p-n
-se	Px------y
-udeležili	Vmep-pm
-projekta	Ncmsg
-darovalcev	Ncmpg
-kostnega	Agpmsg
-mozga	Ncmsg
-,	Z
-pogozdovali	Vmpp-pm
-plazovita	Agpnpa
-področja	Ncnpa
-itd	Ncfsg
-.	Z
-Posebna	Agpfsn
-točka	Ncfsn
-pa	Cc
-je	Va-r3s-n
-odgovornost	Ncfsn
-zaposlenih	Appmpg
-.	Z
-Pomembno	Agpnsn
-je	Va-r3s-n
-,	Z
-da	Cs
-se	Px------y
-počutijo	Vmpr3p
-soodgovorne	Agpfpn
-za	Sa
-rezultate	Ncmpa
-svojega	Px-nsg
-dela	Ncnsg
-in	Cc
-podjetja	Ncnsg
-ter	Cc
-da	Cs
-so	Va-r3p-n
-partnerji	Ncmpn
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-Holl	Npmsn
-.	Z
+token	tag	lemma
+Družbena	mte:Agpfsn	družben
+odgovornost	mte:Ncfsn	odgovornost
+podjetij	mte:Ncnpg	podjetje
+Iluzija	mte:Ncfsn	iluzija
+ali	mte:Cc	ali
+nujnost	mte:Ncfsn	nujnost
+?	mte:Z	?
+Nemško	mte:Agpnsn	nemški
+podjetje	mte:Ncnsn	podjetje
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+v	mte:Sl	v
+ne	mte:Q	ne
+ravno	mte:Q	ravno
+zlatih	mte:Agpmpl	zlat
+časih	mte:Ncmpl	čas
+gospodarstva	mte:Ncnsg	gospodarstvo
+,	mte:Z	,
+slovenskemu	mte:Agpnsd	slovenski
+človekoljubnemu	mte:Agpnsd	človekoljuben
+društvu	mte:Ncnsd	društvo
+zgradilo	mte:Vmep-sn	zgraditi
+in	mte:Cc	in
+podarilo	mte:Vmep-sn	podariti
+milijon	mte:Ncmsan	milijon
+evrov	mte:Ncmpg	evro
+vredne	mte:Agpmpa	vreden
+prostore	mte:Ncmpa	prostor
+za	mte:Sa	za
+odrasle	mte:Appfpa	odrasel
+osebe	mte:Ncfpa	oseba
+z	mte:Si	z
+motnjami	mte:Ncfpi	motnja
+v	mte:Sl	v
+razvoju	mte:Ncmsl	razvoj
+.	mte:Z	.
+V	mte:Sl	v
+poplavi	mte:Ncfsl	poplava
+konfliktov	mte:Ncmpg	konflikt
+in	mte:Cc	in
+političnega	mte:Agpmsg	političen
+boja	mte:Ncmsg	boj
+se	mte:Px------y	se
+pozitivne	mte:Agpfpn	pozitiven
+novice	mte:Ncfpn	novica
+redkeje	mte:Rgc	redko
+prebijejo	mte:Vmer3p	prebiti
+na	mte:Sa	na
+naslovnice	mte:Ncfpa	naslovnica
+.	mte:Z	.
+Takšne	mte:Pd-fpn	takšen
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+pričujoča	mte:Appfsn	pričujoč
+,	mte:Z	,
+tudi	mte:Q	tudi
+zato	mte:Rgp	zato
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+dogodki	mte:Ncmpn	dogodek
+za	mte:Si	za
+njimi	mte:Pp3mpi	on
+dejansko	mte:Rgp	dejansko
+precej	mte:Rgp	precej
+redki	mte:Agpmpn	redek
+.	mte:Z	.
+Ni	mte:Va-r3s-y	biti
+ravno	mte:Q	ravno
+pogosto	mte:Agpnsn	pogost
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+zaposleni	mte:Appmpn	zaposlen
+nekega	mte:Pi-nsg	nek
+manjšega	mte:Agcnsg	majhen
+nemškega	mte:Agpnsg	nemški
+podjetja	mte:Ncnsg	podjetje
+navkljub	mte:Sd	navkljub
+ne	mte:Q	ne
+ravno	mte:Q	ravno
+rožnatim	mte:Agpfpd	rožnat
+razmeram	mte:Ncfpd	razmera
+odločijo	mte:Vmer3p	odločiti
+svoj	mte:Px-msa	svoj
+prosti	mte:Agpmsay	prost
+čas	mte:Ncmsan	čas
+posvetiti	mte:Vmen	posvetiti
+milijon	mte:Ncmsan	milijon
+evrov	mte:Ncmpg	evro
+vrednemu	mte:Agpmsd	vreden
+človekoljubnemu	mte:Agpmsd	človekoljuben
+projektu	mte:Ncmsd	projekt
+.	mte:Z	.
+Preberite	mte:Vmem2p	prebrati
+tudi	mte:Q	tudi
+Protestniki	mte:Ncmpn	protestnik
+v	mte:Sl	v
+NLB	mte:Npfsl	NLB
+proti	mte:Sd	proti
+pohlepu	mte:Ncmsd	pohlep
+Nismo	mte:Va-r1p-y	biti
+blago	mte:Ncnsn	blago
+v	mte:Sl	v
+rokah	mte:Ncfpl	roka
+bank	mte:Ncfpg	banka
+in	mte:Cc	in
+politikov	mte:Ncmpg	politik
+!	mte:Z	!
+Brez	mte:Sg	brez
+promocij	mte:Ncfpg	promocija
+,	mte:Z	,
+zahval	mte:Ncfpg	zahvala
+ali	mte:Cc	ali
+lastnih	mte:Agpfpg	lasten
+koristi	mte:Ncfpg	korist
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+društva	mte:Ncnsg	društvo
+Barka	mte:Npfsn	Bark
+,	mte:Z	,
+ki	mte:Cs	ki
+skrbi	mte:Vmpr3s	skrbeti
+za	mte:Sa	za
+odrasle	mte:Appfpa	odrasel
+osebe	mte:Ncfpa	oseba
+z	mte:Si	z
+motnjami	mte:Ncfpi	motnja
+v	mte:Sl	v
+duševnem	mte:Agpmsl	duševen
+razvoju	mte:Ncmsl	razvoj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Baufritz	mte:Npmsn	Baufritz
+Gmbh	mte:Npmsn	Gmbh
+&	mte:Npmsn	&
+Co	mte:Npmsn	Co
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+in	mte:Cc	in
+pol	mte:Rgp	pol
+v	mte:Sl	v
+Medvodah	mte:Npfpl	Medvode
+odprl	mte:Vmep-sm	odpreti
+poseben	mte:Agpmsan	poseben
+varstveno	mte:Agpnsa	varstven
+-	mte:Z	-
+delovni	mte:Agpmsay	deloven
+center	mte:Ncmsan	center
+brez	mte:Sg	brez
+kakršnih	mte:Pq-fpg	kakršen
+koli	mte:Q	koli
+promocij	mte:Ncfpg	promocija
+,	mte:Z	,
+koristi	mte:Ncfpg	korist
+ali	mte:Cc	ali
+zahval	mte:Ncfpg	zahvala
+zase	mte:Px---a--b	zase
+.	mte:Z	.
+Direktor	mte:Ncmsn	direktor
+enostavno	mte:Rgp	enostavno
+verjame	mte:Vmbr3s	verjeti
+v	mte:Sa	v
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+počnemo	mte:Vmbr1p	početi
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+hotel	mte:Vmpp-sm	hoteti
+tudi	mte:Q	tudi
+sam	mte:Agpmsnn	sam
+kaj	mte:Pq-nsa	kaj
+storiti	mte:Vmen	storiti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+z	mte:Sg	z
+društva	mte:Ncnsg	društvo
+.	mte:Z	.
+Zadeva	mte:Ncfsn	zadeva
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+toliko	mte:Rgp	toliko
+bolj	mte:Rgc	bolj
+neverjetna	mte:Agpfsn	neverjeten
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+jo	mte:Pp3fsa--y	on
+načrtovali	mte:Vmpp-pm	načrtovati
+pred	mte:Si	pred
+krizo	mte:Ncfsi	kriza
+,	mte:Z	,
+realizirali	mte:Vmbp-pm	realizirati
+pa	mte:Cc	pa
+med	mte:Si	med
+njo	mte:Pp3fsi	on
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+podjetje	mte:Ncnsn	podjetje
+samo	mte:Q	samo
+zašlo	mte:Vmep-sn	zaiti
+v	mte:Sa	v
+precejšnje	mte:Agpfpa	precejšnji
+težave	mte:Ncfpa	težava
+.	mte:Z	.
+A	mte:Cc	a
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+podarilo	mte:Vmep-sn	podariti
+material	mte:Ncmsan	material
+,	mte:Z	,
+lokalna	mte:Agpfsn	lokalen
+župnija	mte:Ncfsn	župnija
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+darovi	mte:Ncmpi	dar
+pokrila	mte:Vmep-sf	pokriti
+stroške	mte:Ncmpa	strošek
+tovornjakov	mte:Ncmpg	tovornjak
+,	mte:Z	,
+delavci	mte:Ncmpn	delavec
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+med	mte:Si	med
+počitnicami	mte:Ncfpi	počitnice
+in	mte:Cc	in
+v	mte:Sl	v
+prostem	mte:Agpmsl	prost
+času	mte:Ncmsl	čas
+izvedli	mte:Vmep-pm	izvesti
+vse	mte:Pg-nsa	ves
+ostalo	mte:Vmep-sn	ostati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+nadaljevali	mte:Vmpp-pm	nadaljevati
+v	mte:Sl	v
+društvu	mte:Ncnsl	društvo
+Barka	mte:Npfsn	Bark
+.	mte:Z	.
+Ker	mte:Cs	ker
+pa	mte:Cc	pa
+se	mte:Px------y	se
+Barki	mte:Ncfsd	barka
+dogodka	mte:Ncmsg	dogodek
+ni	mte:Va-r3s-y	biti
+zdelo	mte:Vmpp-sn	zdeti
+prav	mte:Q	prav
+zadržati	mte:Vmen	zadržati
+le	mte:Q	le
+zase	mte:Px---a--b	zase
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pri	mte:Sl	pri
+nemškem	mte:Agpnsl	nemški
+veleposlaništvu	mte:Ncnsl	veleposlaništvo
+in	mte:Cc	in
+Gospodarski	mte:Agpfsl	gospodarski
+zbornici	mte:Ncfsl	zbornica
+Slovenije	mte:Npfsg	Slovenija
+dali	mte:Vmep-pm	dati
+pobudo	mte:Ncfsa	pobuda
+.	mte:Z	.
+Na	mte:Sa	na
+njihov	mte:Ps3msap	njihov
+predlog	mte:Ncmsan	predlog
+je	mte:Va-r3s-n	biti
+GZS	mte:Npmsn	GZS
+organiziral	mte:Vmbp-sm	organizirati
+simpozij	mte:Ncmsan	simpozje
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+o	mte:Sl	o
+družbeni	mte:Agpfsl	družben
+odgovornosti	mte:Ncfsl	odgovornost
+podjetij	mte:Ncnpg	podjetje
+spregovorili	mte:Vmep-pm	spregovoriti
+donator	mte:Ncmsn	donator
+Helmut	mte:Npmsn	Helmut
+Holl	mte:Npmsn	Holl
+,	mte:Z	,
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+druga	mte:Mlpnpn	drug
+nemška	mte:Agpnpn	nemški
+podjetja	mte:Ncnpn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+delujejo	mte:Vmpr3p	delovati
+na	mte:Sa	na
+podoben	mte:Agpmsan	podoben
+način	mte:Ncmsan	način
+.	mte:Z	.
+Je	mte:Va-r3s-n	biti
+princip	mte:Ncmsn	princip
+,	mte:Z	,
+da	mte:Cs	da
+podjetje	mte:Ncnsn	podjetje
+-	mte:Z	-
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+krize	mte:Ncfsg	kriza
+-	mte:Z	-
+deluje	mte:Vmpr3s	delovati
+do	mte:Sg	do
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+lastnih	mte:Agpmpg	lasten
+delavcev	mte:Ncmpg	delavec
+in	mte:Cc	in
+okolja	mte:Ncnsg	okolje
+odgovorno	mte:Rgp	odgovorno
+,	mte:Z	,
+možen	mte:Agpmsnn	možen
+?	mte:Z	?
+Je	mte:Va-r3s-n	biti
+sploh	mte:Q	sploh
+izvedljiv	mte:Agpmsnn	izvedljiv
+,	mte:Z	,
+glede	mte:Sg	glede
+dodatne	mte:Agpmpa	dodaten
+stroške	mte:Ncmpa	strošek
+,	mte:Z	,
+ki	mte:Cs	ki
+poskrbijo	mte:Vmer3p	poskrbeti
+za	mte:Sa	za
+slabši	mte:Agcmsay	slab
+položaj	mte:Ncmsan	položaj
+v	mte:Sl	v
+globalni	mte:Agpfsl	globalen
+bitki	mte:Ncfsl	bitka
+za	mte:Sa	za
+konkurenčnost	mte:Ncfsa	konkurenčnost
+?	mte:Z	?
+Naj	mte:Cs	naj
+bodo	mte:Va-f3p-n	biti
+delavci	mte:Ncmpn	delavec
+udeleženi	mte:Appmpn	udeležen
+pri	mte:Sl	pri
+dobičku	mte:Ncmsl	dobiček
+podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+še	mte:Q	še
+več	mte:Rgc	več
+-	mte:Z	-
+naj	mte:Cs	naj
+nosijo	mte:Vmpr3p	nositi
+tudi	mte:Q	tudi
+delež	mte:Ncmsan	delež
+izgube	mte:Ncfsg	izguba
+,	mte:Z	,
+ko	mte:Cs	ko
+zaide	mte:Vmer3s	zaiti
+podjetje	mte:Ncnsa	podjetje
+v	mte:Sa	v
+težave	mte:Ncfpa	težava
+?	mte:Z	?
+Solidarnost	mte:Ncfsn	solidarnost
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+globoko	mte:Rgp	globoko
+vraščena	mte:Appfsn	vraščen
+Izvršna	mte:Agpfsn	izvršen
+direktorica	mte:Ncfsn	direktorica
+GZS	mte:Npfsn	GZS
+-	mte:Z	-
+ja	mte:Q	ja
+Alenka	mte:Npfsn	Alenka
+Avberšek	mte:Npfsn	Avberšek
+je	mte:Va-r3s-n	biti
+prepričana	mte:Appfsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+družbena	mte:Agpfsn	družben
+odgovornost	mte:Ncfsn	odgovornost
+podjetij	mte:Ncnpg	podjetje
+nujnost	mte:Ncfsn	nujnost
+.	mte:Z	.
+Multinacionalni	mte:Agpmsny	multinacionalen
+kapitalistični	mte:Agpmsny	kapitalističen
+finančni	mte:Agpmsay	finančen
+sistem	mte:Ncmsn	sistem
+je	mte:Va-r3s-n	biti
+sistem	mte:Ncmsn	sistem
+vrednot	mte:Ncfpg	vrednota
+,	mte:Z	,
+potisnil	mte:Vmep-sm	potisniti
+v	mte:Sa	v
+brezno	mte:Ncnsa	brezno
+.	mte:Z	.
+Konkurenca	mte:Ncfsn	konkurenca
+pritiska	mte:Ncmsg	pritisk
+na	mte:Sa	na
+vse	mte:Pg-nsa	ves
+,	mte:Z	,
+zato	mte:Cc	zato
+tudi	mte:Q	tudi
+tisti	mte:Pd-mpn	tisti
+gospodarski	mte:Agpmpn	gospodarski
+subjekti	mte:Ncmpn	subjekt
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+na	mte:Sa	na
+zunaj	mte:Rgp	zunaj
+trudijo	mte:Vmpr3p	truditi
+slediti	mte:Vmpn	slediti
+trajnostnemu	mte:Agpmsd	trajnosten
+razvoju	mte:Ncmsd	razvoj
+,	mte:Z	,
+odgovornost	mte:Ncfsa	odgovornost
+do	mte:Sg	do
+okolja	mte:Ncnsg	okolje
+izpolnjujejo	mte:Vmpr3p	izpolnjevati
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+umazane	mte:Appfpn	umazan
+proizvodnje	mte:Ncfpn	proizvodnja
+selijo	mte:Vmpr3p	seleti
+v	mte:Sa	v
+dežele	mte:Ncfpa	dežela
+tretjega	mte:Mlomsg	tretji
+sveta	mte:Ncmsg	svet
+po	mte:Sl	po
+načelu	mte:Ncnsl	načelo
+daleč	mte:Rgp	daleč
+od	mte:Sg	od
+oči	mte:Ncfpg	oči
+,	mte:Z	,
+daleč	mte:Rgp	daleč
+od	mte:Sg	od
+srca	mte:Ncnsg	srce
+.	mte:Z	.
+Ter	mte:Cc	ter
+daleč	mte:Rgp	daleč
+od	mte:Sg	od
+višjih	mte:Agcfpg	visok
+plač	mte:Ncfpg	plača
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+je	mte:Va-r3s-n	biti
+prepričana	mte:Appfsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+odgovornost	mte:Ncfsn	odgovornost
+do	mte:Sg	do
+drugega	mte:Mlpnsg	drug
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+,	mte:Z	,
+Slovencih	mte:Npmpl	Slovenec
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+izginila	mte:Vmep-sf	izginiti
+.	mte:Z	.
+Še	mte:Q	še
+več	mte:Q	več
+,	mte:Z	,
+solidarnost	mte:Ncfsn	solidarnost
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+slovenski	mte:Agpfsl	slovenski
+kulturi	mte:Ncfsl	kultura
+zgodovinsko	mte:Rgp	zgodovinski
+globoko	mte:Rgp	globoko
+vraščena	mte:Appfsn	vraščen
+,	mte:Z	,
+ekonomska	mte:Agpfsn	ekonomski
+nuja	mte:Ncfsn	nuj
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+le	mte:Q	le
+prekrila	mte:Vmep-sf	prekriti
+.	mte:Z	.
+Avberškova	mte:Aspfsn	Avberškov
+je	mte:Va-r3s-n	biti
+argumentacijo	mte:Ncfsa	argumentacija
+potegnila	mte:Vmep-sf	potegniti
+še	mte:Q	še
+stopnjo	mte:Ncfsa	stopnja
+višje	mte:Agcfsg	visok
+.	mte:Z	.
+Ne	mte:Q	ne
+le	mte:Q	le
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+družbena	mte:Agpfsn	družben
+odgovornost	mte:Ncfsn	odgovornost
+vrednota	mte:Ncfsn	vrednota
+le	mte:Q	le
+kot	mte:Cs	kot
+moralni	mte:Agpmsny	moralen
+ideal	mte:Ncmsn	ideal
+-	mte:Z	-
+več	mte:Rgc	več
+,	mte:Z	,
+na	mte:Sa	na
+dolgi	mte:Agpmsay	dolg
+rok	mte:Ncmsan	rok
+je	mte:Va-r3s-n	biti
+to	mte:Pd-fsa	ta
+nujnost	mte:Ncfsn	nujnost
+na	mte:Sl	na
+poti	mte:Ncfsl	pot
+k	mte:Sd	k
+resnično	mte:Rgp	resnično
+uspešnim	mte:Agpnpd	uspešen
+podjetjem	mte:Ncnpd	podjetje
+.	mte:Z	.
+Kaj	mte:Pq-nsn	kaj
+sploh	mte:Q	sploh
+je	mte:Va-r3s-n	biti
+družbeno	mte:Agpnsn	družbeno
+odgovorno	mte:Agpnsn	odgovoren
+podjetje	mte:Ncnsn	podjetje
+?	mte:Z	?
+Definicije	mte:Ncfpn	definicija
+so	mte:Va-r3p-n	biti
+mnogotere	mte:Agpfpn	mnogoter
+,	mte:Z	,
+Avberškova	mte:Aspfsn	Avberškov
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+koncept	mte:Ncmsan	koncept
+definirala	mte:Vmbp-sf	definirati
+kot	mte:Cs	kot
+podjetje	mte:Ncnsa	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+deluje	mte:Vmpr3s	delovati
+odgovorno	mte:Agpnsn	odgovoren
+in	mte:Cc	in
+partnersko	mte:Agpnsn	partnerski
+do	mte:Sg	do
+svojih	mte:Px-mpg	svoj
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+dobaviteljev	mte:Ncmpg	dobavitelj
+,	mte:Z	,
+lastnikov	mte:Ncmpg	lastnik
+,	mte:Z	,
+družbe	mte:Ncfsg	družba
+in	mte:Cc	in
+okolja	mte:Ncnsg	okolje
+-	mte:Z	-
+obenem	mte:Rgp	obenem
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+njegovo	mte:Ps3nsnsm	njegov
+prvo	mte:Mlonsa	prvi
+poslanstvo	mte:Ncnsa	poslanstvo
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ekonomsko	mte:Rgp	ekonomsko
+uspešno	mte:Agpnsn	uspešen
+.	mte:Z	.
+Za	mte:Sa	za
+Avberškovo	mte:Aspfsa	avberškov
+je	mte:Va-r3s-n	biti
+svoj	mte:Px-msa	svoj
+pogled	mte:Ncmsan	pogled
+na	mte:Sa	na
+odgovornost	mte:Ncfsa	odgovornost
+v	mte:Sl	v
+luči	mte:Ncfsl	luč
+evropskih	mte:Agpfpg	evropski
+integracij	mte:Ncfpg	integracija
+pojasnil	mte:Vmep-sm	pojasniti
+Josef	mte:Npmsn	Josef
+Miller	mte:Npmsn	Miller
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+bavarski	mte:Agpmsny	bavarski
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+kmetijstvo	mte:Ncnsa	kmetijstvo
+in	mte:Cc	in
+gozdarstvo	mte:Ncnsa	gozdarstvo
+.	mte:Z	.
+Vzrok	mte:Ncmsan	vzrok
+za	mte:Sa	za
+krizo	mte:Ncfsa	kriza
+-	mte:Z	-
+pohlep	mte:Ncmsn	pohlep
+Miller	mte:Npmsn	Miller
+je	mte:Va-r3s-n	biti
+izrazil	mte:Vmep-sm	izraziti
+prepričanje	mte:Ncnsa	prepričanje
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+krizo	mte:Ncfsa	kriza
+,	mte:Z	,
+ki	mte:Cs	ki
+ogroža	mte:Vmpr3s	ogrožati
+temeljni	mte:Agpmsay	temeljen
+projekt	mte:Ncmsan	projekt
+evropske	mte:Agpfsg	evropski
+skupnosti	mte:Ncfsg	skupnost
+,	mte:Z	,
+povzročilo	mte:Vmep-sn	povzročiti
+ravno	mte:Q	ravno
+pomanjkanje	mte:Ncnsa	pomanjkanje
+odgovornosti	mte:Ncfsg	odgovornost
+in	mte:Cc	in
+posledično	mte:Rgp	posledično
+odprta	mte:Appfsn	odprt
+pot	mte:Ncfsn	pot
+pohlepu	mte:Ncmsd	pohlep
+.	mte:Z	.
+V	mte:Sl	v
+času	mte:Ncmsl	čas
+konjunkture	mte:Ncfsg	konjunktura
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njegovi	mte:Ps3fslsm	njegov
+oceni	mte:Ncfsl	ocena
+finančni	mte:Agpmsay	finančen
+sektor	mte:Ncmsan	sektor
+dovolj	mte:Rgp	dovolj
+pritisnil	mte:Vmep-sm	pritisniti
+na	mte:Sa	na
+države	mte:Ncfpa	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+iskanju	mte:Ncnsl	iskanje
+čimhitrejše	mte:Agcfsg	čimhitren
+gospodarske	mte:Agpfsg	gospodarski
+rasti	mte:Ncfsg	rast
+dovolile	mte:Vmep-pf	dovoliti
+deregulacijo	mte:Ncfsa	deregulacija
+finančnega	mte:Agpmsg	finančen
+sektorja	mte:Ncmsg	sektor
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+tudi	mte:Q	tudi
+v	mte:Sl	v
+največjih	mte:Agsfpl	velik
+evropskih	mte:Agpfpl	evropski
+bankah	mte:Ncfpl	banka
+,	mte:Z	,
+šel	mte:Vmbp-sm	iti
+v	mte:Sa	v
+vse	mte:Pg-fpa	ves
+bolj	mte:Rgc	bolj
+tvegane	mte:Appfpa	tvegan
+investicije	mte:Ncfpa	investicija
+,	mte:Z	,
+z	mte:Si	z
+zapletenimi	mte:Agpmpi	zapleten
+finančnimi	mte:Agpmpi	finančen
+instrumenti	mte:Ncmpi	instrument
+hkrati	mte:Rgp	hkrati
+vlagal	mte:Vmpp-sm	vlagati
+v	mte:Sa	v
+podjetja	mte:Ncnpa	podjetje
+in	mte:Cc	in
+države	mte:Ncfpa	država
+ter	mte:Cc	ter
+hkrati	mte:Rgp	hkrati
+stavil	mte:Vmpp-sm	staviti
+na	mte:Sa	na
+njihov	mte:Ps3msap	njihov
+propad	mte:Ncmsan	propad
+.	mte:Z	.
+Tvezili	mte:Vmpp-pm	tveziti
+so	mte:Va-r3p-n	biti
+nam	mte:Pp1-pd	jaz
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+dolgovi	mte:Ncmpn	dolg
+že	mte:Q	že
+sami	mte:Agpmpn	sam
+po	mte:Sl	po
+sebi	mte:Px---l	se
+vrednost	mte:Ncfsa	vrednost
+in	mte:Cc	in
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+znati	mte:Vmpn	znati
+trgovati	mte:Vmpn	trgovati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Miller	mte:Npmsn	Miller
+.	mte:Z	.
+Na	mte:Sa	na
+tak	mte:Pd-msa	tak
+način	mte:Ncmsan	način
+so	mte:Va-r3p-n	biti
+spravili	mte:Vmep-pm	spraviti
+v	mte:Sa	v
+veliko	mte:Agpfsa	velik
+nevarnost	mte:Ncfsa	nevarnost
+sanje	mte:Ncfsg	sanja
+mnogih	mte:Pi-fpg	mnog
+generacij	mte:Ncfpg	generacija
+,	mte:Z	,
+združeno	mte:Appfsa	združen
+Evropo	mte:Npfsa	Evropa
+na	mte:Sl	na
+temelju	mte:Ncmsl	temelj
+solidarnosti	mte:Ncfsg	solidarnost
+in	mte:Cc	in
+družbene	mte:Agpfsg	družben
+odgovornosti	mte:Ncfsg	odgovornost
+.	mte:Z	.
+Evropska	mte:Agpfsn	evropski
+unija	mte:Ncfsn	unija
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+veliki	mte:Agpfsl	velik
+nevarnosti	mte:Ncfsl	nevarnost
+Velika	mte:Agpfsn	velik
+zadolženost	mte:Ncfsa	zadolženost
+in	mte:Cc	in
+kriza	mte:Ncfsn	kriza
+proračunskih	mte:Agpmpg	proračunski
+primanjkljajev	mte:Ncmpg	primanjkljaj
+postavlja	mte:Vmpr3s	postavljati
+na	mte:Sa	na
+kocko	mte:Ncfsa	kocka
+skupno	mte:Agpfsa	skupen
+evropsko	mte:Agpfsa	evropski
+valuto	mte:Ncfsa	valuta
+,	mte:Z	,
+na	mte:Sa	na
+daljši	mte:Agcmsay	dolg
+rok	mte:Ncmsan	rok
+pa	mte:Cc	pa
+celo	mte:Q	celo
+Evropsko	mte:Agpfsa	evropski
+unijo	mte:Ncfsa	unija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+nadaljeval	mte:Vmpp-sm	nadaljevati
+Miller	mte:Npmsn	Miller
+.	mte:Z	.
+Da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+situacija	mte:Ncfsn	situacija
+resna	mte:Agpfsn	resen
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+tudi	mte:Q	tudi
+prestavitev	mte:Ncfsa	prestavitev
+vrha	mte:Ncmsg	vrh
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+,	mte:Z	,
+prva	mte:Mlofsn	prvi
+v	mte:Sl	v
+zgodovini	mte:Ncfsl	zgodovina
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bodo	mte:Va-f3p-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+dokapitalizaciji	mte:Ncfsl	dokapitalizacija
+evropskih	mte:Agpfpg	evropski
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+Miller	mte:Npmsn	Miller
+rešitev	mte:Ncfsn	rešitev
+vidi	mte:Vmbr3s	videti
+ravno	mte:Q	ravno
+v	mte:Sl	v
+družbeni	mte:Agpfsl	družben
+odgovornosti	mte:Ncfsl	odgovornost
+-	mte:Z	-
+upravljalci	mte:Ncmpn	upravljalec
+bank	mte:Ncfpg	banka
+ter	mte:Cc	ter
+korporacij	mte:Ncfpg	korporacija
+so	mte:Va-r3p-n	biti
+navadno	mte:Rgp	navadno
+odgovorni	mte:Agpmpn	odgovoren
+le	mte:Q	le
+svojim	mte:Px-mpd	svoj
+delničarjem	mte:Ncmpd	delničar
+in	mte:Cc	in
+kapitalu	mte:Ncmsd	kapital
+,	mte:Z	,
+zato	mte:Cc	zato
+delujejo	mte:Vmpr3p	delovati
+za	mte:Sa	za
+čimvečji	mte:Agpmsay	čimvečji
+dobiček	mte:Ncmsan	dobiček
+v	mte:Sl	v
+čimkrajšem	mte:Agcmsl	čimkrat
+času	mte:Ncmsl	čas
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+z	mte:Si	z
+določenimi	mte:Appmpi	določen
+pravnimi	mte:Agpmpi	praven
+popravki	mte:Ncmpi	popravek
+odločevalcem	mte:Ncmsi	odločevalec
+obesili	mte:Vmep-pm	obesiti
+še	mte:Q	še
+odgovornost	mte:Ncfsa	odgovornost
+do	mte:Sg	do
+družbe	mte:Ncfsg	družba
+in	mte:Cc	in
+okolja	mte:Ncnsg	okolje
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsa	ta
+prvi	mte:Mlomsa	prvi
+korak	mte:Ncmsan	korak
+k	mte:Sd	k
+rešitvi	mte:Ncfsd	rešitev
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+sklenil	mte:Vmep-sm	skleniti
+nekdanji	mte:Agpmsny	nekdanji
+bavarski	mte:Agpmsny	bavarski
+minister	mte:Ncmsn	minister
+.	mte:Z	.
+Bavarska	mte:Agpfsn	bavarski
+,	mte:Z	,
+nemška	mte:Agpfsn	nemški
+zvezna	mte:Agpfsn	zvezen
+dežela	mte:Ncfsn	dežela
+z	mte:Si	z
+12	mte:Mdc	12
+milijoni	mte:Ncmpi	milijon
+prebivalcev	mte:Ncmpg	prebivalec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+trenutno	mte:Rgp	trenutno
+ena	mte:Mlpfsn	en
+najmanj	mte:Rgs	najmanj
+zadolženih	mte:Appfpg	zadolžen
+političnih	mte:Agpfpg	političen
+enot	mte:Ncfpg	enota
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+ter	mte:Cc	ter
+beleži	mte:Vmpr3s	beležiti
+rekordno	mte:Agpfsa	rekordno
+nizko	mte:Agpfsa	nizek
+brezposelnot	mte:Ncfsa	brezposelnot
+.	mte:Z	.
+Miller	mte:Npmsn	Miller
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+ravno	mte:Q	ravno
+zaradi	mte:Sg	zaradi
+omejenega	mte:Appnsg	omejen
+zadolževanja	mte:Ncnsg	zadolževanje
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+krize	mte:Ncfsg	kriza
+ter	mte:Cc	ter
+široko	mte:Rgp	široko
+razširjenega	mte:Appnsg	razširjen
+načela	mte:Ncnsg	načelo
+družbene	mte:Agpfsg	družben
+odgovornosti	mte:Ncfsg	odgovornost
+v	mte:Sl	v
+lokalnem	mte:Agpnsl	lokalen
+gospodarstvu	mte:Ncnsl	gospodarstvo
+.	mte:Z	.
+Holl	mte:Npmsn	Holl
+Projekt	mte:Ncmsn	projekt
+je	mte:Va-r3s-n	biti
+prinesel	mte:Vmep-sm	prinesti
+izjemno	mte:Agpnsa	izjemen
+veselje	mte:Ncnsa	veselje
+Svoj	mte:Px-msa	svoj
+pogled	mte:Ncmsan	pogled
+na	mte:Sa	na
+družbeno	mte:Agpfsa	družbeno
+odgovornost	mte:Ncfsa	odgovornost
+je	mte:Va-r3s-n	biti
+predstavil	mte:Vmep-sm	predstaviti
+tudi	mte:Q	tudi
+Holl	mte:Npmsn	Holl
+.	mte:Z	.
+V	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+se	mte:Px------y	se
+osredotočajo	mte:Vmpr3p	osredotočati
+na	mte:Sa	na
+ekološke	mte:Agpmpa	ekološki
+materiale	mte:Ncmpa	material
+.	mte:Z	.
+Pri	mte:Sl	pri
+odnosu	mte:Ncmsl	odnos
+z	mte:Si	z
+dobavitelji	mte:Ncmpi	dobavitelj
+si	mte:Px---d--y	se
+prizadevajo	mte:Vmpr3p	prizadevati
+za	mte:Sa	za
+povsem	mte:Rgp	povsem
+partnerski	mte:Agpmsay	partnerski
+,	mte:Z	,
+neizkoriščevalski	mte:Agpmsay	neizkoriščevalski
+odnos	mte:Ncmsan	odnos
+.	mte:Z	.
+V	mte:Sl	v
+odnosih	mte:Ncmpl	odnos
+z	mte:Si	z
+družbo	mte:Ncfsi	družba
+se	mte:Px------y	se
+redno	mte:Rgp	redno
+ukvarjajo	mte:Vmpr3p	ukvarjati
+z	mte:Si	z
+dobrodelnimi	mte:Agpmpi	dobrodelen
+postranskimi	mte:Agpmpi	postranski
+projekti	mte:Ncmpi	projekt
+.	mte:Z	.
+Npr	mte:Z	Npr
+Uredili	mte:Vmep-pm	urediti
+so	mte:Va-r3p-n	biti
+balinarsko	mte:Agpfsa	balinarski
+progo	mte:Ncfsa	proga
+za	mte:Sa	za
+osebe	mte:Ncfpa	oseba
+z	mte:Si	z
+motnjami	mte:Ncfpi	motnja
+v	mte:Sl	v
+razvoju	mte:Ncmsl	razvoj
+,	mte:Z	,
+zaposleni	mte:Appmpn	zaposlen
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+udeležili	mte:Vmep-pm	udeležiti
+projekta	mte:Ncmsg	projekt
+darovalcev	mte:Ncmpg	darovalec
+kostnega	mte:Agpmsg	kosten
+mozga	mte:Ncmsg	mozg
+,	mte:Z	,
+pogozdovali	mte:Vmpp-pm	pogozdovati
+plazovita	mte:Agpnpa	plazovit
+področja	mte:Ncnpa	področje
+itd	mte:Ncfsg	itd
+.	mte:Z	.
+Posebna	mte:Agpfsn	poseben
+točka	mte:Ncfsn	točka
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+odgovornost	mte:Ncfsn	odgovornost
+zaposlenih	mte:Appmpg	zaposlen
+.	mte:Z	.
+Pomembno	mte:Agpnsn	pomemben
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+počutijo	mte:Vmpr3p	počutiti
+soodgovorne	mte:Agpfpn	soodgovoren
+za	mte:Sa	za
+rezultate	mte:Ncmpa	rezultat
+svojega	mte:Px-nsg	svoj
+dela	mte:Ncnsg	delo
+in	mte:Cc	in
+podjetja	mte:Ncnsg	podjetje
+ter	mte:Cc	ter
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+partnerji	mte:Ncmpn	partner
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+Holl	mte:Npmsn	Holl
+.	mte:Z	.
+Večina	mte:Ncfsn	večina
+se	mte:Px------y	se
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+prostovoljno	mte:Rgp	prostovoljno
+pridružila	mte:Vmep-sf	pridružiti
+sistemu	mte:Ncmsd	sistem
+bonusov	mte:Ncmpg	bonus
+za	mte:Sa	za
+pozitivno	mte:Agpnsa	pozitiven
+poslovanje	mte:Ncnsa	poslovanje
+ob	mte:Sl	ob
+zavedanju	mte:Ncnsl	zavedanje
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-fsn	ta
+prinaša	mte:Vmpr3s	prinašati
+tudi	mte:Q	tudi
+maluse	mte:Ncmsa	malus
+,	mte:Z	,
+ko	mte:Cs	ko
+ima	mte:Vmpr3s-n	imeti
+podjetje	mte:Ncnsa	podjetje
+izgubo	mte:Ncfsa	izguba

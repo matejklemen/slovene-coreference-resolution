@@ -1,335 +1,342 @@
-token	tag
-Slovenske	Agpfpa
-ceste	Ncfpn
-oblegajo	Vmpr3p
-številni	Agpmpn
-turisti	Ncmpn
-,	Z
-poleg	Sg
-tega	Pd-nsg
-pa	Cc
-se	Px------y
-na	Sa
-počitnice	Ncfpa
-odpravljajo	Vmpr3p
-tudi	Q
-mnogi	Pi-mpn
-Slovenci	Npmpn
-.	Z
-Zastoji	Ncmpn
-se	Px------y
-pojavljajo	Vmpr3p
-predvsem	Q
-na	Sl
-obali	Ncfsl
-in	Cc
-mejnih	Agpmpl
-prehodih	Ncmpl
-s	Si
-Hrvaško	Npfsi
-.	Z
-Po	Sl
-zadnjih	Agpmpl
-podatkih	Ncmpl
-prometno	Agpnsn
--	Z
-informacijskega	Agpmsg
-centra	Ncmsg
-je	Va-r3s-n
-zgoščen	Appmsnn
-promet	Ncmsn
-le	Q
-proti	Sd
-mejnemu	Agpmsd
-prehodu	Ncmsd
-Gruškovje	Npnsn
-,	Z
-kjer	Cs
-osebna	Agpnpn
-vozila	Ncnpn
-čakajo	Vmpr3p
-na	Sa
-prestop	Ncmsan
-meje	Ncfsg
-približno	Rgp
-40	Mdc
-minut	Ncfpg
-,	Z
-pri	Sl
-Dobovcu	Npmsl
-pa	Cc
-eno	Mlpfsa
-uro	Ncfsa
-.	Z
-Na	Sl
-ostalih	Appmpl
-mejnih	Agpmpl
-prehodih	Ncmpl
-je	Va-r3s-n
-promet	Ncmsn
-tekoč	Appmsnn
-.	Z
-Zastoji	Ncmpn
-na	Sl
-mejnih	Agpmpl
-prehodih	Ncmpl
-in	Cc
-v	Sl
-smeri	Ncfsl
-letovišč	Ncnpg
-Zastoji	Ncmpn
-naj	Q
-bi	Va-c
-se	Px------y
-še	Q
-pojavljali	Vmpp-pm
-na	Sl
-cestah	Ncfpl
-Divača	Npfsn
--	Z
-mejni	Agpmsny
-prehod	Ncmsn
-Starod	Npmsn
-,	Z
-od	Sg
-Postojne	Npfsg
-proti	Sd
-mejnemu	Agpmsd
-prehodu	Ncmsd
-Jelšane	Npfsn
-,	Z
-od	Sg
-Kopra	Npmsg
-proti	Sd
-mejnima	Agpmdd
-prehodoma	Ncmdd
-Sečovlje	Npfsn
-in	Cc
-Dragonja	Npfsn
-,	Z
-na	Sl
-koncu	Ncmsl
-dolenjske	Agpfsg
-avtoceste	Ncfsg
-pri	Sl
-Pluski	Npfsl
-in	Cc
-naprej	Rgp
-proti	Sd
-mejnemu	Agpmsd
-prehodu	Ncmsd
-Obrežje	Ncnsn
-in	Cc
-od	Sg
-Šentilja	Npmsg
-proti	Sd
-Mariboru	Npmsd
-in	Cc
-naprej	Rgp
-proti	Sd
-mejnemu	Agpmsd
-prehodu	Ncmsd
-Gruškovje	Npnsn
-.	Z
-Zaradi	Sg
-vračanja	Ncnsg
-turistov	Ncmpg
-pa	Cc
-so	Va-r3p-n
-pričakovani	Appmpn
-zastoji	Ncmpn
-tudi	Q
-na	Sl
-koncu	Ncmsl
-Gorenjske	Agpfsg
-avtoceste	Ncfsg
-pri	Sl
-Podtaboru	Npmsl
-in	Cc
-od	Sg
-mejnega	Agpmsg
-prehoda	Ncmsg
-Gruškovje	Npnsn
-proti	Sd
-Mariboru	Npmsd
-.	Z
-Italijani	Npmpn
-oblegajo	Vmpr3p
-Hrvaško	Npfsa
-Slovenske	Agpfsg
-in	Cc
-hrvaške	Agpfsg
-ceste	Ncfsg
-bodo	Va-f3p-n
-ta	Pd-msa
-vikend	Ncmsan
-oblegali	Vmpp-pm
-predvsem	Q
-italijanski	Agpmpn
-turisti	Ncmpn
-,	Z
-saj	Cc
-so	Va-r3p-n
-se	Px------y
-pri	Sl
-zahodnih	Agpmpl
-sosedih	Ncmpl
-pričele	Vmep-pf
-tradicionalne	Agpfpn
-ferragosta	Ncfpn
-počitnice	Ncfpg
-.	Z
-Po	Sl
-poročanju	Ncnsl
-Hrvaškega	Agpmsg
-avto	Ncmsn
-kluba	Ncmsg
-so	Va-r3p-n
-že	Q
-v	Sl
-jutranjih	Agpfpl
-urah	Ncfpl
-beležili	Vmpp-pm
-neverjetno	Agpfsa
-gnečo	Ncfsa
-na	Sl
-cestah	Ncfpl
-.	Z
-Najdaljše	Agsfpa
-kolone	Ncfpa
-so	Va-r3p-n
-na	Sl
-avtocesti	Ncfsl
-A1	Npmsn
-(	Z
-Zagreb	Npmsn
-–	Z
-Split	Npmsn
-)	Z
-.	Z
-Okoli	Sg
-6.30	Mdc
-ure	Ncfsg
-so	Va-r3p-n
-v	Sl
-predoru	Ncmsl
-Mala	Agpfsn
-Kapela	Npfsn
-odprli	Vmep-pm
-oba	Pg-mda
-pasova	Ncmda
-v	Sl
-smeri	Ncfsl
-morja	Ncnsg
-.	Z
-Kljub	Sd
-temu	Pd-nsd
-je	Va-r3s-n
-kolona	Ncfsn
-vozil	Vmpp-sm
-dolga	Agpfsn
-7,5	Mdc
-kilometrov	Ncmpg
-,	Z
-pred	Si
-predorom	Ncmsi
-Sveti	Agpmsny
-Rok	Ncmsn
-pa	Cc
-je	Va-r3s-n
-kolona	Ncfsn
-vozil	Vmpp-sm
-dolga	Agpmpa
-4	Mdc
-kilometre	Ncmpa
-.	Z
-Tudi	Q
-na	Sl
-stari	Agpfsl
-cesti	Ncfsl
-D1	Npmsn
-(	Z
-Karlovac	Npmsn
-–	Z
-Plitvice	Npfsg
-–	Z
-Split	Npmsn
-)	Z
-je	Va-r3s-n
-močno	Rgp
-povečan	Appmsnn
-promet	Ncmsn
-.	Z
-Pri	Sl
-Slunju	Npmsl
-se	Px------y
-je	Va-r3s-n
-zgodila	Vmep-sf
-prometna	Agpfsn
-nesreča	Ncfsn
-.	Z
-Zaradi	Sg
-odstranjevanja	Ncnsg
-tovornega	Agpnsg
-vozila	Ncnsg
-so	Va-r3p-n
-nastale	Vmep-pf
-daljše	Agcfpn
-kolone	Ncfpn
-.	Z
-Promet	Ncmsn
-je	Va-r3s-n
-močno	Rgp
-povečan	Appmsnn
-pri	Sl
-izvozu	Ncmsl
-z	Sg
-avtoceste	Ncfsg
-Zagreb	Npmsn
--	Z
-Reka	Npfsn
-pri	Sl
-Crikvenici	Npfsl
-in	Cc
-za	Sa
-krški	Agpmsay
-most	Ncmsan
-.	Z
-Gneča	Ncfsn
-je	Va-r3s-n
-tudi	Q
-v	Sl
-trajektnih	Agpnpl
-pristaniščih	Ncnpl
-.	Z
-Obnovitvena	Agpnpn
-dela	Ncnpn
-Obnovitvena	Agpnpn
-dela	Ncnpn
-ovirajo	Vmpr3p
-promet	Ncmsan
-na	Sl
-ljubljanski	Agpfsl
-obvoznici	Ncfsl
-,	Z
-med	Si
-priključkoma	Ncmdi
-Ljubljana	Npfsn
--	Z
-center	Ncmsn
-in	Cc
-Ljubljana	Npfsn
--	Z
-jug	Ncmsn
-v	Sa
-obe	Pg-fda
-smeri	Ncfda
-.	Z
-Promet	Ncmsn
-tam	Rgp
-poteka	Vmpr3s
-po	Sl
-dveh	Mlcmdl
-zoženih	Appmdl
-pasovih	Ncmdl
-.	Z
+token	tag	lemma
+Slovenske	mte:Agpfpa	slovenski
+ceste	mte:Ncfpn	cesta
+oblegajo	mte:Vmpr3p	oblegati
+številni	mte:Agpmpn	številen
+turisti	mte:Ncmpn	turist
+,	mte:Z	,
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+se	mte:Px------y	se
+na	mte:Sa	na
+počitnice	mte:Ncfpa	počitnice
+odpravljajo	mte:Vmpr3p	odpravljati
+tudi	mte:Q	tudi
+mnogi	mte:Pi-mpn	mnog
+Slovenci	mte:Npmpn	Slovenec
+.	mte:Z	.
+Zastoji	mte:Ncmpn	zastoj
+se	mte:Px------y	se
+pojavljajo	mte:Vmpr3p	pojavljati
+predvsem	mte:Q	predvsem
+na	mte:Sl	na
+obali	mte:Ncfsl	obala
+in	mte:Cc	in
+mejnih	mte:Agpmpl	mejen
+prehodih	mte:Ncmpl	prehod
+s	mte:Si	z
+Hrvaško	mte:Npfsi	Hrvaška
+.	mte:Z	.
+Po	mte:Sl	po
+zadnjih	mte:Agpmpl	zadnji
+podatkih	mte:Ncmpl	podatek
+prometno	mte:Agpnsn	prometen
+-	mte:Z	-
+informacijskega	mte:Agpmsg	informacijski
+centra	mte:Ncmsg	center
+je	mte:Va-r3s-n	biti
+zgoščen	mte:Appmsnn	zgoščen
+promet	mte:Ncmsn	promet
+le	mte:Q	le
+proti	mte:Sd	proti
+mejnemu	mte:Agpmsd	mejen
+prehodu	mte:Ncmsd	prehod
+Gruškovje	mte:Npnsn	Gruškovje
+,	mte:Z	,
+kjer	mte:Cs	kjer
+osebna	mte:Agpnpn	oseben
+vozila	mte:Ncnpn	vozilo
+čakajo	mte:Vmpr3p	čakati
+na	mte:Sa	na
+prestop	mte:Ncmsan	prestop
+meje	mte:Ncfsg	meja
+približno	mte:Rgp	približno
+40	mte:Mdc	40
+minut	mte:Ncfpg	minuta
+,	mte:Z	,
+pri	mte:Sl	pri
+Dobovcu	mte:Npmsl	Dobovc
+pa	mte:Cc	pa
+eno	mte:Mlpfsa	en
+uro	mte:Ncfsa	ura
+.	mte:Z	.
+Na	mte:Sl	na
+ostalih	mte:Appmpl	ostal
+mejnih	mte:Agpmpl	mejen
+prehodih	mte:Ncmpl	prehod
+je	mte:Va-r3s-n	biti
+promet	mte:Ncmsn	promet
+tekoč	mte:Appmsnn	tekoč
+.	mte:Z	.
+Zastoji	mte:Ncmpn	zastoj
+na	mte:Sl	na
+mejnih	mte:Agpmpl	mejen
+prehodih	mte:Ncmpl	prehod
+in	mte:Cc	in
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+letovišč	mte:Ncnpg	letovišče
+Zastoji	mte:Ncmpn	zastoj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+še	mte:Q	še
+pojavljali	mte:Vmpp-pm	pojavljati
+na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+Divača	mte:Npfsn	Divač
+-	mte:Z	-
+mejni	mte:Agpmsny	mejen
+prehod	mte:Ncmsn	prehod
+Starod	mte:Npmsn	Starod
+,	mte:Z	,
+od	mte:Sg	od
+Postojne	mte:Npfsg	Postojna
+proti	mte:Sd	proti
+mejnemu	mte:Agpmsd	mejen
+prehodu	mte:Ncmsd	prehod
+Jelšane	mte:Npfsn	Jelšane
+,	mte:Z	,
+od	mte:Sg	od
+Kopra	mte:Npmsg	Koper
+proti	mte:Sd	proti
+mejnima	mte:Agpmdd	mejen
+prehodoma	mte:Ncmdd	prehod
+Sečovlje	mte:Npfsn	Sečovlje
+in	mte:Cc	in
+Dragonja	mte:Npfsn	Dragonj
+,	mte:Z	,
+na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+dolenjske	mte:Agpfsg	dolenjski
+avtoceste	mte:Ncfsg	avtocesta
+pri	mte:Sl	pri
+Pluski	mte:Npfsl	Pluski
+in	mte:Cc	in
+naprej	mte:Rgp	naprej
+proti	mte:Sd	proti
+mejnemu	mte:Agpmsd	mejen
+prehodu	mte:Ncmsd	prehod
+Obrežje	mte:Ncnsn	obrežje
+in	mte:Cc	in
+od	mte:Sg	od
+Šentilja	mte:Npmsg	Šentilja
+proti	mte:Sd	proti
+Mariboru	mte:Npmsd	Maribor
+in	mte:Cc	in
+naprej	mte:Rgp	naprej
+proti	mte:Sd	proti
+mejnemu	mte:Agpmsd	mejen
+prehodu	mte:Ncmsd	prehod
+Gruškovje	mte:Npnsn	Gruškovje
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+vračanja	mte:Ncnsg	vračanje
+turistov	mte:Ncmpg	turist
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+pričakovani	mte:Appmpn	pričakovan
+zastoji	mte:Ncmpn	zastoj
+tudi	mte:Q	tudi
+na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+Gorenjske	mte:Agpfsg	Gorenjska
+avtoceste	mte:Ncfsg	avtocesta
+pri	mte:Sl	pri
+Podtaboru	mte:Npmsl	Podtabor
+in	mte:Cc	in
+od	mte:Sg	od
+mejnega	mte:Agpmsg	mejen
+prehoda	mte:Ncmsg	prehod
+Gruškovje	mte:Npnsn	Gruškovje
+proti	mte:Sd	proti
+Mariboru	mte:Npmsd	Maribor
+.	mte:Z	.
+Italijani	mte:Npmpn	Italijan
+oblegajo	mte:Vmpr3p	oblegati
+Hrvaško	mte:Npfsa	Hrvaška
+Slovenske	mte:Agpfsg	slovenski
+in	mte:Cc	in
+hrvaške	mte:Agpfsg	hrvaški
+ceste	mte:Ncfsg	cesta
+bodo	mte:Va-f3p-n	biti
+ta	mte:Pd-msa	ta
+vikend	mte:Ncmsan	vikend
+oblegali	mte:Vmpp-pm	oblegati
+predvsem	mte:Q	predvsem
+italijanski	mte:Agpmpn	italijanski
+turisti	mte:Ncmpn	turist
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pri	mte:Sl	pri
+zahodnih	mte:Agpmpl	zahoden
+sosedih	mte:Ncmpl	sosed
+pričele	mte:Vmep-pf	pričeti
+tradicionalne	mte:Agpfpn	tradicionalen
+ferragosta	mte:Ncfpn	ferragost
+počitnice	mte:Ncfpg	počitnice
+.	mte:Z	.
+Po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+Hrvaškega	mte:Agpmsg	hrvaški
+avto	mte:Ncmsn	avto
+kluba	mte:Ncmsg	klub
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+v	mte:Sl	v
+jutranjih	mte:Agpfpl	jutranji
+urah	mte:Ncfpl	ura
+beležili	mte:Vmpp-pm	beležiti
+neverjetno	mte:Agpfsa	neverjetno
+gnečo	mte:Ncfsa	gneča
+na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+.	mte:Z	.
+Najdaljše	mte:Agsfpa	dolg
+kolone	mte:Ncfpa	kolona
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+avtocesti	mte:Ncfsl	avtocesta
+A1	mte:Npmsn	A1
+(	mte:Z	(
+Zagreb	mte:Npmsn	Zagreb
+–	mte:Z	–
+Split	mte:Npmsn	Split
+)	mte:Z	)
+.	mte:Z	.
+Okoli	mte:Sg	okoli
+6.30	mte:Mdc	6.30
+ure	mte:Ncfsg	ura
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+predoru	mte:Ncmsl	predor
+Mala	mte:Agpfsn	mali
+Kapela	mte:Npfsn	Kapel
+odprli	mte:Vmep-pm	odpreti
+oba	mte:Pg-mda	oba
+pasova	mte:Ncmda	pas
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+morja	mte:Ncnsg	morje
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+je	mte:Va-r3s-n	biti
+kolona	mte:Ncfsn	kolona
+vozil	mte:Vmpp-sm	voziti
+dolga	mte:Agpfsn	dolg
+7,5	mte:Mdc	7,5
+kilometrov	mte:Ncmpg	kilometer
+,	mte:Z	,
+pred	mte:Si	pred
+predorom	mte:Ncmsi	predor
+Sveti	mte:Agpmsny	svet
+Rok	mte:Ncmsn	rok
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+kolona	mte:Ncfsn	kolona
+vozil	mte:Vmpp-sm	voziti
+dolga	mte:Agpmpa	dolg
+4	mte:Mdc	4
+kilometre	mte:Ncmpa	kilometer
+.	mte:Z	.
+Tudi	mte:Q	tudi
+na	mte:Sl	na
+stari	mte:Agpfsl	star
+cesti	mte:Ncfsl	cesta
+D1	mte:Npmsn	D1
+(	mte:Z	(
+Karlovac	mte:Npmsn	Karlovac
+–	mte:Z	–
+Plitvice	mte:Npfsg	Plitvica
+–	mte:Z	–
+Split	mte:Npmsn	Split
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+močno	mte:Rgp	močno
+povečan	mte:Appmsnn	povečan
+promet	mte:Ncmsn	promet
+.	mte:Z	.
+Pri	mte:Sl	pri
+Slunju	mte:Npmsl	Slunj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zgodila	mte:Vmep-sf	zgoditi
+prometna	mte:Agpfsn	prometen
+nesreča	mte:Ncfsn	nesreča
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+odstranjevanja	mte:Ncnsg	odstranjevanje
+tovornega	mte:Agpnsg	tovoren
+vozila	mte:Ncnsg	vozilo
+so	mte:Va-r3p-n	biti
+nastale	mte:Vmep-pf	nastati
+daljše	mte:Agcfpn	dolg
+kolone	mte:Ncfpn	kolona
+.	mte:Z	.
+Promet	mte:Ncmsn	promet
+je	mte:Va-r3s-n	biti
+močno	mte:Rgp	močno
+povečan	mte:Appmsnn	povečan
+pri	mte:Sl	pri
+izvozu	mte:Ncmsl	izvoz
+z	mte:Sg	z
+avtoceste	mte:Ncfsg	avtocesta
+Zagreb	mte:Npmsn	Zagreb
+-	mte:Z	-
+Reka	mte:Npfsn	Reka
+pri	mte:Sl	pri
+Crikvenici	mte:Npfsl	Crikvenica
+in	mte:Cc	in
+za	mte:Sa	za
+krški	mte:Agpmsay	krški
+most	mte:Ncmsan	most
+.	mte:Z	.
+Gneča	mte:Ncfsn	gneča
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+trajektnih	mte:Agpnpl	trajekten
+pristaniščih	mte:Ncnpl	pristanišče
+.	mte:Z	.
+Obnovitvena	mte:Agpnpn	obnovitven
+dela	mte:Ncnpn	delo
+Obnovitvena	mte:Agpnpn	obnovitven
+dela	mte:Ncnpn	delo
+ovirajo	mte:Vmpr3p	ovirati
+promet	mte:Ncmsan	promet
+na	mte:Sl	na
+ljubljanski	mte:Agpfsl	ljubljanski
+obvoznici	mte:Ncfsl	obvoznica
+,	mte:Z	,
+med	mte:Si	med
+priključkoma	mte:Ncmdi	priključek
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+center	mte:Ncmsn	center
+in	mte:Cc	in
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+jug	mte:Ncmsn	jug
+v	mte:Sa	v
+obe	mte:Pg-fda	oba
+smeri	mte:Ncfda	smer
+.	mte:Z	.
+Promet	mte:Ncmsn	promet
+tam	mte:Rgp	tam
+poteka	mte:Vmpr3s	potekati
+po	mte:Sl	po
+dveh	mte:Mlcmdl	dva
+zoženih	mte:Appmdl	zožen
+pasovih	mte:Ncmdl	pas
+.	mte:Z	.
+Dela	mte:Ncnsg	delo
+bodo	mte:Va-f3p-n	biti
+predvidoma	mte:Rgp	predvidoma
+potekala	mte:Vmpp-pn	potekati
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+meseca	mte:Ncmsg	mesec

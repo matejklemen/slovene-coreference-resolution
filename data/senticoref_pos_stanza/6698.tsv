@@ -1,635 +1,644 @@
-token	tag
-Domine	Ncfpn
-Šrotovega	Aspmsg
-imperija	Ncmsg
-začele	Vmep-pf
-padati	Vmpn
-Lastnika	Ncmsay
-delnic	Ncfpg
-Pivovarne	Ncfsg
-Laško	Npnsn
-in	Cc
-Mercatorja	Npmsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-NLB	Npfsn
-zasegel	Vmep-sm
-Infond	Npmsn
-Holdingu	Ncmsd
-in	Cc
-na	Sl
-Ljubljanski	Agpfsl
-borzi	Ncfsl
-zdaj	Rgp
-prodal	Vmep-sm
-,	Z
-sta	Va-r3d-n
-družbi	Ncfdn
-Publikum	Npmsn
-Fin	Npmsn
-in	Cc
-Fin	Npmsn
--	Z
-Do	Sg
-.	Z
-Publikum	Npmsn
-Fin	Ncmsn
-naj	Q
-bi	Va-c
-postal	Vmep-sm
-lastnik	Ncmsn
-3,9	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-pivovarne	Ncfsg
-,	Z
-Fin	Npmsn
--	Z
-Do	Sg
-,	Z
-ki	Cs
-je	Va-r3s-n
-sicer	Q
-v	Sl
-stoodstotni	Agpfsl
-lasti	Ncfsl
-Nove	Agpfsg
-ljubljanske	Agpfsg
-banke	Ncfsg
-,	Z
-pa	Cc
-preostalega	Appmsg
-deleža	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-prodal	Vmep-sm
-NLB	Npfsn
-.	Z
-To	Pd-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-imel	Vmpp-sm
-v	Sl
-lasti	Ncfsl
-okoli	Rgp
-19	Mdc
-odstotkov	Ncmpg
-Laškega	Npnsg
-in	Cc
-okoli	Rgp
-10	Mdc
-odstotkov	Ncmpg
-delnic	Ncfpg
-Mercatorja	Npmsg
-.	Z
-Laško	Npnsn
-po	Sl
-31	Mdc
-,	Z
-Mercator	Npmsn
-po	Sa
-165	Mdc
-evrov	Ncmpg
-na	Sa
-delnico	Ncfsa
-NLB	Npfsg
-je	Va-r3s-n
-namreč	Cc
-prodal	Vmep-sm
-vseh	Pg-mpg
-svojih	Px-mpg
-23	Mdc
-odstotkov	Ncmpg
-delnic	Ncfpg
-Pivovarne	Ncfsg
-Laško	Npnsn
-in	Cc
-deset	Mlc-pa
-odstotkov	Ncmpg
-delnic	Ncfpg
-Mercatorja	Npmsg
-.	Z
-404.832	Mdc
-delnic	Ncfpg
-Mercatorja	Npmsg
-je	Va-r3s-n
-prodal	Vmep-sm
-po	Sa
-165	Mdc
-evra	Ncmsg
-za	Sa
-delnico	Ncfsa
-,	Z
-2.056.738	Mdc
-delnic	Ncfpg
-Pivovarne	Ncfsg
-pa	Cc
-je	Va-r3s-n
-prodal	Vmep-sm
-po	Sa
-31,5	Mdc
-evra	Ncmsg
-za	Sa
-delnico	Ncfsa
-.	Z
-Vrednost	Ncfsa
-poslov	Ncmpg
-je	Va-r3s-n
-skupaj	Rgp
-nad	Si
-131	Mdc
-miljonov	Ncmpg
-evrov	Ncmpg
--	Z
-prvi	Mlomsn
-je	Va-r3s-n
-bil	Va-p-sm
-vreden	Agpmsnn
-10.806.169	Mdc
-evrov	Ncmpg
-,	Z
-drugi	Mlpmpn
-53.981.077	Mdc
-evrov	Ncmpg
-in	Cc
-tretji	Mlomsn
-Mercator	Npmsn
-66.797.280	Mdc
-evrov	Ncmpg
-.	Z
-Gre	Vmbr3s
-za	Sa
-delnice	Ncfpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-banka	Ncfsn
-pred	Si
-kratkim	Agpnsi
-zasegla	Vmep-sf
-Infond	Ncmsn
-Holdingu	Ncmsd
-,	Z
-razlog	Ncmsn
-za	Sa
-prodajo	Ncfsa
-na	Sl
-borzi	Ncfsl
-pa	Cc
-naj	Q
-ne	Q
-bi	Va-c
-bil	Va-p-sm
-le	Q
-neuspešen	Agpmsnn
-razpis	Ncmsn
-,	Z
-na	Sl
-katerem	Pq-msl
-je	Va-r3s-n
-NLB	Npfsn
-dobil	Vmep-sm
-le	Q
-nizko	Agpfsa
-ponudbo	Ncfsa
-Kada	Ncfsg
-za	Sa
-delnice	Ncfpa
-Mercatorja	Npmsg
-,	Z
-temveč	Cc
-se	Px------y
-je	Va-r3s-n
-banka	Ncfsn
-verjetno	Rgp
-želela	Vmpp-sf
-izogniti	Vmen
-tudi	Q
-zapletom	Ncmpd
-po	Sl
-vstopu	Ncmsl
-tujega	Agpmsg
-lastnika	Ncmsg
-v	Sl
-Kolonel	Npmsl
-.	Z
-Po	Sl
-stopinjah	Ncfpl
-NLB	Npfsg
--	Z
-ja	Q
-verjetno	Rgp
-še	Q
-druge	Mlpfpn
-banke	Ncfpn
-upnice	Ncfsg
-Po	Sl
-pisanju	Ncnsl
-spletnih	Agpmpg
-Financ	Ncmpg
-naj	Q
-bi	Va-c
-se	Px------y
-NLB	Npfsn
-s	Si
-preprodajo	Ncfsi
-delnic	Ncfpg
-Publikumu	Npmsd
-Fin	Npmsn
-in	Cc
-Fin	Npmsn
--	Z
-Do	Sg
--	Z
-ju	Pp3mda--y
-obranil	Vmep-sm
-pred	Si
-pričakovanim	Appmsi
-začetkom	Ncmsi
-insolventnih	Agpmpg
-postopkov	Ncmpg
-v	Sl
-Infond	Ncmsn
-Holdingu	Ncmsl
-in	Cc
-tako	Rgp
-zavaroval	Vmep-sm
-zdaj	Rgp
-že	Q
-svoje	Px-nsa
-premoženje	Ncnsa
--	Z
-torej	Rgp
-delnice	Ncfpa
-,	Z
-s	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-Infond	Npmsn
-Holding	Ncmsn
-pri	Sl
-največji	Agsfsl
-slovenski	Agpfsl
-banki	Ncfsl
-zavaroval	Vmep-sm
-130	Mdc
-milijonov	Ncmpg
-neodplačanih	Agpnpg
-posojil	Ncnpg
-.	Z
-Tako	Rgp
-je	Va-r3s-n
-banka	Ncfsn
-tudi	Q
-fiksirala	Vmbp-sf
-svojo	Px-fsa
-bilanco	Ncfsa
-,	Z
-pišejo	Vmpr3p
-spletne	Agpmpa
-Finance	Ncmpa
-.	Z
-Izvršbe	Ncfpa
-na	Sa
-delnice	Ncfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-predstavljale	Vmpp-pf
-zavarovanja	Ncnpa
-za	Sa
-posojila	Ncnpa
-omenjene	Appfsg
-družbe	Ncfsg
-,	Z
-naj	Q
-bi	Va-c
-v	Sa
-četrtek	Ncmsan
-nadaljevale	Vmpp-pf
-še	Q
-druge	Mlpfpn
-banke	Ncfpn
-upnice	Ncfsg
-.	Z
-To	Pd-nsn
-bi	Va-c
-lahko	Rgp
-povzročilo	Vmep-sn
-,	Z
-da	Cs
-bi	Va-c
-bila	Va-p-sf
-zahteva	Ncfsn
-za	Sa
-začetek	Ncmsan
-stečajnega	Agpmsg
-postopka	Ncmsg
-Infond	Ncmsn
-Holdinga	Ncmsg
-vložena	Appfsn
-že	Q
-v	Sl
-prihodnjih	Agpmpl
-dneh	Ncmpl
-,	Z
-saj	Cc
-bo	Va-f3s-n
-imela	Vmpp-sf
-družba	Ncfsn
-tudi	Q
-uradno	Rgp
-manj	Rgc
-premoženja	Ncnsg
-kot	Cs
-obveznosti	Ncfpg
-.	Z
-Zlata	Agpmsg
-Moneta	Ncmsg
-v	Sl
-strahu	Ncmsl
-pred	Si
-težavami	Ncfpi
-?	Z
-Povejmo	Vmem1p
-še	Q
-,	Z
-da	Cs
-je	Va-r3s-n
-posel	Ncmsn
-NLB	Npfsn
-prek	Sg
-borze	Ncfsg
-skušal	Vmpp-sm
-izpeljati	Vmen
-že	Q
-v	Sa
-torek	Ncmsan
-.	Z
-Ob	Sl
-koncu	Ncmsl
-trgovanja	Ncnsg
-je	Va-r3s-n
-bilo	Va-p-sn
-naročilo	Vmep-sn
-nato	Rgp
-umaknjeno	Appnsn
-.	Z
-Neuradno	Agpnsn
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-v	Sl
-ozadju	Ncnsl
-Probanka	Npfsn
-,	Z
-prek	Sg
-katere	Pq-fsg
-je	Va-r3s-n
-NLB	Npfsn
-po	Sl
-pogodbi	Ncfsl
-z	Si
-Infondom	Npmsi
-Holdingom	Npmsi
-odgovoren	Agpmsnn
-izpeljati	Vmen
-prodajo	Ncfsa
-delnic	Ncfpg
-na	Sl
-borzi	Ncfsl
-in	Cc
-ki	Cs
-naj	Q
-bi	Va-c
-ves	Pg-msa
-dopoldne	Rgp
-zavlačevala	Vmpp-sf
-z	Si
-vnosom	Ncmsi
-naročila	Ncnsg
-,	Z
-je	Va-r3s-n
-poročal	Vmpp-sm
-Dnevnik	Ncmsn
-.	Z
-Po	Sl
-domnevah	Ncfpl
-Dnevnikovih	Aspmpg
-virov	Ncmpg
-naj	Q
-bi	Va-c
-bile	Va-p-pf
-razlog	Ncmsn
-za	Sa
-včerajšnjo	Agpfsa
-neuspešno	Agpfsa
-prodajo	Ncfsa
-težave	Ncfsg
-,	Z
-v	Sa
-katere	Pq-fsa
-bi	Va-c
-ob	Sl
-morebitni	Agpfsl
-prodaje	Ncfsl
-zašla	Vmep-sf
-Probanka	Npfsn
-in	Cc
-z	Si
-njo	Pp3fsi
-povezane	Appfpn
-družbe	Ncfpn
-.	Z
-Zlata	Agpfsn
-Moneta	Ncfsn
-II	Mrc
-,	Z
-družba	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-prek	Sg
-Medaljona	Npmsg
-obvladujejo	Vmpr3p
-menedžerji	Ncmpn
-Probanke	Ncfsg
-,	Z
-naj	Cs
-bi	Va-c
-namreč	Cc
-drugim	Mlpfpd
-družbam	Ncfpd
-,	Z
-neuradno	Rgp
-Infond	Npmsn
-Holdingu	Ncmsd
-,	Z
-posodila	Vmep-sf
-deset	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Rok	Ncfpg
-za	Sa
-vrnitev	Ncfsa
-posojila	Ncnsg
-se	Px------y
-je	Va-r3s-n
-iztekel	Vmep-sm
-konec	Sg
-junija	Ncmsg
-,	Z
-zavarovano	Appnsn
-pa	Cc
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-z	Si
-delnicami	Ncfpi
-Laškega	Npnsg
-,	Z
-s	Si
-katerimi	Pq-mpi
-pa	Cc
-je	Va-r3s-n
-svoja	Px-npa
-posojila	Ncnpa
-zavaroval	Vmep-sm
-tudi	Q
-NLB	Npfsn
-.	Z
-Tako	Rgp
-naj	Q
-bi	Va-c
-Zlati	Agpmsny
-Moneti	Ncmsn
-grozilo	Vmpp-sn
-,	Z
-da	Cs
-bo	Va-f3s-n
-ostala	Vmep-sf
-brez	Sg
-zavarovanja	Ncnsg
-za	Sa
-dana	Ncnpa
-posojila	Ncnpa
-.	Z
-25	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-vredni	Agpmpn
-posli	Ncmpn
-Banke	Ncfsg
-Celje	Npnsn
-?	Z
-Na	Sl
-Ljubljanski	Agpfsl
-borzi	Ncfsl
-se	Px------y
-je	Va-r3s-n
-z	Si
-delnicami	Ncfpi
-Pivovarne	Ncfsg
-Laško	Npnsn
-in	Cc
-Mercatorja	Npmsg
-precej	Rgp
-poslovalo	Vmpp-sn
-tudi	Q
-sicer	Q
-.	Z
-Prodale	Vmep-pf
-so	Va-r3p-n
-se	Px------y
-v	Sl
-dveh	Mlcmdl
-svežnjih	Ncmdl
-,	Z
-pri	Sl
-čemer	Pr-nsl
-naj	Q
-bi	Va-c
-sveženj	Ncmsan
-z	Si
-Mercatorjevimi	Aspfpi
-delnicami	Ncfpi
-obsegal	Vmpp-sm
-104.270	Mdc
-delnic	Ncfpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-2,77	Mdc
-odstotka	Ncmsg
-delnic	Ncfpg
-družbe	Ncfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-bile	Va-p-pf
-prodane	Appfpn
-po	Sa
-164,5	Mdc
-evra	Ncmsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-včerajšnji	Agpmsny
-končni	Agpmsny
-tečaj	Ncmsn
-.	Z
-Vrednost	Ncfsn
-posla	Ncmsg
-je	Va-r3s-n
-znašala	Vmpp-sf
-17.152.415	Mdc
-evrov	Ncmpg
-.	Z
-Posel	Ncmsn
-z	Si
-delnicami	Ncfpi
-Pivovarne	Ncfsg
-Laško	Npnsn
-je	Va-r3s-n
-obsegal	Vmpp-sm
-252.500	Mdc
-delnic	Ncfpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-2,88	Mdc
-odstotka	Ncmsg
-delnic	Ncfpg
-laškega	Agpmsg
-holdinga	Ncmsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-bile	Va-p-pf
-tudi	Q
-prodane	Appfpn
-po	Sl
-včerajšnjem	Agpmsl
-zaključnem	Agpmsl
-tečaju	Ncmsl
-pri	Sl
-32,37	Mdc
-evra	Ncmsg
-.	Z
-Vrednost	Ncfsn
-posla	Ncmsg
-je	Va-r3s-n
-znašala	Vmpp-sf
-8.173.425	Mdc
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Domine	mte:Ncfpn	domina
+Šrotovega	mte:Aspmsg	Šrotov
+imperija	mte:Ncmsg	imperija
+začele	mte:Vmep-pf	začeti
+padati	mte:Vmpn	padati
+Lastnika	mte:Ncmsay	lastnik
+delnic	mte:Ncfpg	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+NLB	mte:Npfsn	NLB
+zasegel	mte:Vmep-sm	zaseči
+Infond	mte:Npmsn	Infond
+Holdingu	mte:Ncmsd	holding
+in	mte:Cc	in
+na	mte:Sl	na
+Ljubljanski	mte:Agpfsl	ljubljanski
+borzi	mte:Ncfsl	borz
+zdaj	mte:Rgp	zdaj
+prodal	mte:Vmep-sm	prodati
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+družbi	mte:Ncfdn	družba
+Publikum	mte:Npmsn	Publikum
+Fin	mte:Npmsn	Fin
+in	mte:Cc	in
+Fin	mte:Npmsn	Fin
+-	mte:Z	-
+Do	mte:Sg	do
+.	mte:Z	.
+Publikum	mte:Npmsn	Publikum
+Fin	mte:Ncmsn	fina
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+postal	mte:Vmep-sm	postati
+lastnik	mte:Ncmsn	lastnik
+3,9	mte:Mdc	3,9
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+pivovarne	mte:Ncfsg	pivovarna
+,	mte:Z	,
+Fin	mte:Npmsn	Fin
+-	mte:Z	-
+Do	mte:Sg	do
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+v	mte:Sl	v
+stoodstotni	mte:Agpfsl	stoodstoten
+lasti	mte:Ncfsl	last
+Nove	mte:Agpfsg	nov
+ljubljanske	mte:Agpfsg	ljubljanski
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+pa	mte:Cc	pa
+preostalega	mte:Appmsg	preostal
+deleža	mte:Ncmsg	delež
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+prodal	mte:Vmep-sm	prodati
+NLB	mte:Npfsn	NLB
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+okoli	mte:Rgp	okoli
+19	mte:Mdc	19
+odstotkov	mte:Ncmpg	odstotek
+Laškega	mte:Npnsg	Laško
+in	mte:Cc	in
+okoli	mte:Rgp	okoli
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+delnic	mte:Ncfpg	delnica
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Laško	mte:Npnsn	Laško
+po	mte:Sl	po
+31	mte:Mdc	31
+,	mte:Z	,
+Mercator	mte:Npmsn	Mercator
+po	mte:Sa	po
+165	mte:Mdc	165
+evrov	mte:Ncmpg	evro
+na	mte:Sa	na
+delnico	mte:Ncfsa	delnica
+NLB	mte:Npfsg	NLB
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+prodal	mte:Vmep-sm	prodati
+vseh	mte:Pg-mpg	ves
+svojih	mte:Px-mpg	svoj
+23	mte:Mdc	23
+odstotkov	mte:Ncmpg	odstotek
+delnic	mte:Ncfpg	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+deset	mte:Mlc-pa	deset
+odstotkov	mte:Ncmpg	odstotek
+delnic	mte:Ncfpg	delnica
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+404.832	mte:Mdc	404.832
+delnic	mte:Ncfpg	delnica
+Mercatorja	mte:Npmsg	Mercator
+je	mte:Va-r3s-n	biti
+prodal	mte:Vmep-sm	prodati
+po	mte:Sa	po
+165	mte:Mdc	165
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+,	mte:Z	,
+2.056.738	mte:Mdc	2.056.738
+delnic	mte:Ncfpg	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+prodal	mte:Vmep-sm	prodati
+po	mte:Sa	po
+31,5	mte:Mdc	31,5
+evra	mte:Ncmsg	evro
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+.	mte:Z	.
+Vrednost	mte:Ncfsa	vrednost
+poslov	mte:Ncmpg	posel
+je	mte:Va-r3s-n	biti
+skupaj	mte:Rgp	skupaj
+nad	mte:Si	nad
+131	mte:Mdc	131
+miljonov	mte:Ncmpg	miljon
+evrov	mte:Ncmpg	evro
+-	mte:Z	-
+prvi	mte:Mlomsn	prvi
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+vreden	mte:Agpmsnn	vreden
+10.806.169	mte:Mdc	10.806.169
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+drugi	mte:Mlpmpn	drug
+53.981.077	mte:Mdc	53.981.077
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+tretji	mte:Mlomsn	tretji
+Mercator	mte:Npmsn	Mercator
+66.797.280	mte:Mdc	66.797.280
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+delnice	mte:Ncfpa	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+banka	mte:Ncfsn	banka
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+zasegla	mte:Vmep-sf	zaseči
+Infond	mte:Ncmsn	infond
+Holdingu	mte:Ncmsd	holding
+,	mte:Z	,
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+na	mte:Sl	na
+borzi	mte:Ncfsl	borz
+pa	mte:Cc	pa
+naj	mte:Q	naj
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+le	mte:Q	le
+neuspešen	mte:Agpmsnn	neuspešen
+razpis	mte:Ncmsn	razpis
+,	mte:Z	,
+na	mte:Sl	na
+katerem	mte:Pq-msl	kateri
+je	mte:Va-r3s-n	biti
+NLB	mte:Npfsn	NLB
+dobil	mte:Vmep-sm	dobiti
+le	mte:Q	le
+nizko	mte:Agpfsa	nizek
+ponudbo	mte:Ncfsa	ponudba
+Kada	mte:Ncfsg	kada
+za	mte:Sa	za
+delnice	mte:Ncfpa	delnica
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+temveč	mte:Cc	temveč
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+banka	mte:Ncfsn	banka
+verjetno	mte:Rgp	verjetno
+želela	mte:Vmpp-sf	želeti
+izogniti	mte:Vmen	izogniti
+tudi	mte:Q	tudi
+zapletom	mte:Ncmpd	zaplet
+po	mte:Sl	po
+vstopu	mte:Ncmsl	vstop
+tujega	mte:Agpmsg	tuj
+lastnika	mte:Ncmsg	lastnik
+v	mte:Sl	v
+Kolonel	mte:Npmsl	Kolonel
+.	mte:Z	.
+Po	mte:Sl	po
+stopinjah	mte:Ncfpl	stopinja
+NLB	mte:Npfsg	NLB
+-	mte:Z	-
+ja	mte:Q	ja
+verjetno	mte:Rgp	verjetno
+še	mte:Q	še
+druge	mte:Mlpfpn	drug
+banke	mte:Ncfpn	banka
+upnice	mte:Ncfsg	upnica
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+spletnih	mte:Agpmpg	spleten
+Financ	mte:Ncmpg	finance
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+NLB	mte:Npfsn	NLB
+s	mte:Si	z
+preprodajo	mte:Ncfsi	preprodaja
+delnic	mte:Ncfpg	delnica
+Publikumu	mte:Npmsd	Publikum
+Fin	mte:Npmsn	Fin
+in	mte:Cc	in
+Fin	mte:Npmsn	Fin
+-	mte:Z	-
+Do	mte:Sg	do
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+obranil	mte:Vmep-sm	obraniti
+pred	mte:Si	pred
+pričakovanim	mte:Appmsi	pričakovan
+začetkom	mte:Ncmsi	začetek
+insolventnih	mte:Agpmpg	insolventen
+postopkov	mte:Ncmpg	postopek
+v	mte:Sl	v
+Infond	mte:Ncmsn	infond
+Holdingu	mte:Ncmsl	holding
+in	mte:Cc	in
+tako	mte:Rgp	tako
+zavaroval	mte:Vmep-sm	zavarovati
+zdaj	mte:Rgp	zdaj
+že	mte:Q	že
+svoje	mte:Px-nsa	svoj
+premoženje	mte:Ncnsa	premoženje
+-	mte:Z	-
+torej	mte:Rgp	torej
+delnice	mte:Ncfpa	delnica
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+Infond	mte:Npmsn	Infond
+Holding	mte:Ncmsn	holding
+pri	mte:Sl	pri
+največji	mte:Agsfsl	velik
+slovenski	mte:Agpfsl	slovenski
+banki	mte:Ncfsl	banka
+zavaroval	mte:Vmep-sm	zavarovati
+130	mte:Mdc	130
+milijonov	mte:Ncmpg	milijon
+neodplačanih	mte:Agpnpg	neodplačan
+posojil	mte:Ncnpg	posojilo
+.	mte:Z	.
+Tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+banka	mte:Ncfsn	banka
+tudi	mte:Q	tudi
+fiksirala	mte:Vmbp-sf	fiksirati
+svojo	mte:Px-fsa	svoj
+bilanco	mte:Ncfsa	bilanca
+,	mte:Z	,
+pišejo	mte:Vmpr3p	pisati
+spletne	mte:Agpmpa	spleten
+Finance	mte:Ncmpa	finance
+.	mte:Z	.
+Izvršbe	mte:Ncfpa	izvršba
+na	mte:Sa	na
+delnice	mte:Ncfpa	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+predstavljale	mte:Vmpp-pf	predstavljati
+zavarovanja	mte:Ncnpa	zavarovanje
+za	mte:Sa	za
+posojila	mte:Ncnpa	posojilo
+omenjene	mte:Appfsg	omenjen
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+nadaljevale	mte:Vmpp-pf	nadaljevati
+še	mte:Q	še
+druge	mte:Mlpfpn	drug
+banke	mte:Ncfpn	banka
+upnice	mte:Ncfsg	upnica
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+povzročilo	mte:Vmep-sn	povzročiti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+zahteva	mte:Ncfsn	zahtevati
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+stečajnega	mte:Agpmsg	stečajen
+postopka	mte:Ncmsg	postopek
+Infond	mte:Ncmsn	infond
+Holdinga	mte:Ncmsg	holdinga
+vložena	mte:Appfsn	vložen
+že	mte:Q	že
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+dneh	mte:Ncmpl	dan
+,	mte:Z	,
+saj	mte:Cc	saj
+bo	mte:Va-f3s-n	biti
+imela	mte:Vmpp-sf	imeti
+družba	mte:Ncfsn	družba
+tudi	mte:Q	tudi
+uradno	mte:Rgp	uradno
+manj	mte:Rgc	manj
+premoženja	mte:Ncnsg	premoženje
+kot	mte:Cs	kot
+obveznosti	mte:Ncfpg	obveznost
+.	mte:Z	.
+Zlata	mte:Agpmsg	zlat
+Moneta	mte:Ncmsg	monet
+v	mte:Sl	v
+strahu	mte:Ncmsl	strah
+pred	mte:Si	pred
+težavami	mte:Ncfpi	težava
+?	mte:Z	?
+Povejmo	mte:Vmem1p	povedati
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+posel	mte:Ncmsn	posel
+NLB	mte:Npfsn	NLB
+prek	mte:Sg	prek
+borze	mte:Ncfsg	borza
+skušal	mte:Vmpp-sm	skušati
+izpeljati	mte:Vmen	izpeljati
+že	mte:Q	že
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+.	mte:Z	.
+Ob	mte:Sl	ob
+koncu	mte:Ncmsl	konec
+trgovanja	mte:Ncnsg	trgovanje
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+naročilo	mte:Vmep-sn	naročiti
+nato	mte:Rgp	nato
+umaknjeno	mte:Appnsn	umaknjen
+.	mte:Z	.
+Neuradno	mte:Agpnsn	neuraden
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+v	mte:Sl	v
+ozadju	mte:Ncnsl	ozadje
+Probanka	mte:Npfsn	Probanka
+,	mte:Z	,
+prek	mte:Sg	prek
+katere	mte:Pq-fsg	kateri
+je	mte:Va-r3s-n	biti
+NLB	mte:Npfsn	NLB
+po	mte:Sl	po
+pogodbi	mte:Ncfsl	pogodba
+z	mte:Si	z
+Infondom	mte:Npmsi	Infond
+Holdingom	mte:Npmsi	Holding
+odgovoren	mte:Agpmsnn	odgovoren
+izpeljati	mte:Vmen	izpeljati
+prodajo	mte:Ncfsa	prodaja
+delnic	mte:Ncfpg	delnica
+na	mte:Sl	na
+borzi	mte:Ncfsl	borz
+in	mte:Cc	in
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ves	mte:Pg-msa	ves
+dopoldne	mte:Rgp	dopoldne
+zavlačevala	mte:Vmpp-sf	zavlačevati
+z	mte:Si	z
+vnosom	mte:Ncmsi	vnos
+naročila	mte:Ncnsg	naročilo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročal	mte:Vmpp-sm	poročati
+Dnevnik	mte:Ncmsn	dnevnik
+.	mte:Z	.
+Po	mte:Sl	po
+domnevah	mte:Ncfpl	domneva
+Dnevnikovih	mte:Aspmpg	Dnevnikov
+virov	mte:Ncmpg	vir
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+včerajšnjo	mte:Agpfsa	včerajšnji
+neuspešno	mte:Agpfsa	neuspešen
+prodajo	mte:Ncfsa	prodaja
+težave	mte:Ncfsg	težava
+,	mte:Z	,
+v	mte:Sa	v
+katere	mte:Pq-fsa	kateri
+bi	mte:Va-c	biti
+ob	mte:Sl	ob
+morebitni	mte:Agpfsl	morebiten
+prodaje	mte:Ncfsl	prodaja
+zašla	mte:Vmep-sf	zaiti
+Probanka	mte:Npfsn	Probanka
+in	mte:Cc	in
+z	mte:Si	z
+njo	mte:Pp3fsi	on
+povezane	mte:Appfpn	povezan
+družbe	mte:Ncfpn	družba
+.	mte:Z	.
+Zlata	mte:Agpfsn	zlat
+Moneta	mte:Ncfsn	monet
+II	mte:Mrc	II
+,	mte:Z	,
+družba	mte:Ncfsn	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+prek	mte:Sg	prek
+Medaljona	mte:Npmsg	Medaljon
+obvladujejo	mte:Vmpr3p	obvladovati
+menedžerji	mte:Ncmpn	menedžer
+Probanke	mte:Ncfsg	probanka
+,	mte:Z	,
+naj	mte:Cs	naj
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+drugim	mte:Mlpfpd	drug
+družbam	mte:Ncfpd	družba
+,	mte:Z	,
+neuradno	mte:Rgp	neuradno
+Infond	mte:Npmsn	Infond
+Holdingu	mte:Ncmsd	holding
+,	mte:Z	,
+posodila	mte:Vmep-sf	posoditi
+deset	mte:Mlc-pa	deset
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Rok	mte:Ncfpg	rok
+za	mte:Sa	za
+vrnitev	mte:Ncfsa	vrnitev
+posojila	mte:Ncnsg	posojilo
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+iztekel	mte:Vmep-sm	izteči
+konec	mte:Sg	konec
+junija	mte:Ncmsg	junij
+,	mte:Z	,
+zavarovano	mte:Appnsn	zavarovan
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+Laškega	mte:Npnsg	Laško
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+svoja	mte:Px-npa	svoj
+posojila	mte:Ncnpa	posojilo
+zavaroval	mte:Vmep-sm	zavarovati
+tudi	mte:Q	tudi
+NLB	mte:Npfsn	NLB
+.	mte:Z	.
+Tako	mte:Rgp	tako
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Zlati	mte:Agpmsny	zlat
+Moneti	mte:Ncmsn	monet
+grozilo	mte:Vmpp-sn	groziti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+ostala	mte:Vmep-sf	ostati
+brez	mte:Sg	brez
+zavarovanja	mte:Ncnsg	zavarovanje
+za	mte:Sa	za
+dana	mte:Ncnpa	dana
+posojila	mte:Ncnpa	posojilo
+.	mte:Z	.
+25	mte:Mdc	25
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+vredni	mte:Agpmpn	vreden
+posli	mte:Ncmpn	posel
+Banke	mte:Ncfsg	banka
+Celje	mte:Npnsn	Celje
+?	mte:Z	?
+Na	mte:Sl	na
+Ljubljanski	mte:Agpfsl	ljubljanski
+borzi	mte:Ncfsl	borz
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+Mercatorja	mte:Npmsg	Mercator
+precej	mte:Rgp	precej
+poslovalo	mte:Vmpp-sn	poslovati
+tudi	mte:Q	tudi
+sicer	mte:Q	sicer
+.	mte:Z	.
+Prodale	mte:Vmep-pf	prodati
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+dveh	mte:Mlcmdl	dva
+svežnjih	mte:Ncmdl	sveženj
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+sveženj	mte:Ncmsan	sveženj
+z	mte:Si	z
+Mercatorjevimi	mte:Aspfpi	Mercatorjev
+delnicami	mte:Ncfpi	delnica
+obsegal	mte:Vmpp-sm	obsegati
+104.270	mte:Mdc	104.270
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+2,77	mte:Mdc	2,77
+odstotka	mte:Ncmsg	odstotek
+delnic	mte:Ncfpg	delnica
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+prodane	mte:Appfpn	prodan
+po	mte:Sa	po
+164,5	mte:Mdc	164,5
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+včerajšnji	mte:Agpmsny	včerajšnji
+končni	mte:Agpmsny	končen
+tečaj	mte:Ncmsn	tečaj
+.	mte:Z	.
+Vrednost	mte:Ncfsn	vrednost
+posla	mte:Ncmsg	posel
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+17.152.415	mte:Mdc	17.152.415
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Posel	mte:Ncmsn	posel
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+je	mte:Va-r3s-n	biti
+obsegal	mte:Vmpp-sm	obsegati
+252.500	mte:Mdc	252.500
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+2,88	mte:Mdc	2,88
+odstotka	mte:Ncmsg	odstotek
+delnic	mte:Ncfpg	delnica
+laškega	mte:Agpmsg	laški
+holdinga	mte:Ncmsg	holdinga
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+tudi	mte:Q	tudi
+prodane	mte:Appfpn	prodan
+po	mte:Sl	po
+včerajšnjem	mte:Agpmsl	včerajšnji
+zaključnem	mte:Agpmsl	zaključen
+tečaju	mte:Ncmsl	tečaj
+pri	mte:Sl	pri
+32,37	mte:Mdc	32,37
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Vrednost	mte:Ncfsn	vrednost
+posla	mte:Ncmsg	posel
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+8.173.425	mte:Mdc	8.173.425
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+obeh	mte:Pg-mdl	oba
+primerih	mte:Ncmdl	primer
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+delnice	mte:Ncfpa	delnica
+zasegla	mte:Vmep-sf	zaseči
+Banka	mte:Npfsn	banka
+Celje	mte:Npnsn	Celje

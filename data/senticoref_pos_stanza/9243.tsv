@@ -1,311 +1,343 @@
-token	tag
-V	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-sta	Va-r3d-n
-se	Px------y
-spremenili	Vmep-dm
-občini	Ncfdn
-Vrhnika	Npfsn
-in	Cc
-Cerknica	Npfsn
-.	Z
-Največ	Rgs
-naselij	Ncnpg
-ima	Vmpr3s-n
-občina	Ncfsn
-Krško	Npnsn
-.	Z
-Na	Sa
-novo	Agpfsa
-smo	Va-r1p-n
-dobili	Vmep-pm
-tri	Mlcfpa
-ulice	Ncfpa
-,	Z
-spremenili	Vmep-pm
-pa	Cc
-smo	Va-r1p-n
-kar	Rgp
-dva	Mlcmda
-tisoč	Mlc-pa
-hišnih	Agpfpg
-številk	Ncfpg
-.	Z
-V	Sl
-Registru	Ncmsl
-prostorskih	Agpfpg
-enot	Ncfpg
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sl
-drugem	Mlpnsl
-četrtletju	Ncnsl
-spremenjenih	Appmpg
-več	Rgc
-kot	Cs
-dva	Mlcmdn
-tisoč	Mlc-pa
-hišnih	Agpfpg
-številk	Ncfpg
-.	Z
-Največ	Rgs
-novih	Agpfpg
-hišnih	Agpfpg
-številk	Ncfpg
-je	Va-r3s-n
-dobila	Vmep-sf
-občina	Ncfsn
-Koper	Npmsn
-.	Z
-Spremenjeni	Appmsny
-Vrhnika	Npfsn
-in	Cc
-Cerknica	Npfsn
-Po	Sl
-podatkih	Ncmpl
-Statističnega	Agpmsg
-urada	Ncmsg
-RS	Npmsg
-sta	Va-r3d-n
-se	Px------y
-v	Sl
-tem	Pd-nsl
-obdobju	Ncnsl
-spremenili	Vmep-dm
-območji	Ncnpa
-občin	Ncfpg
-Vrhnika	Npfsn
-in	Cc
-Cerknica	Npfsn
-,	Z
-in	Cc
-sicer	Q
-se	Px------y
-je	Va-r3s-n
-del	Ncmsn
-naselja	Ncnsg
-Dobec	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-doslej	Rgp
-spadal	Vmpp-sm
-v	Sa
-občino	Ncfsa
-Cerknica	Npfsn
-,	Z
-priključil	Vmep-sm
-naselju	Ncnsd
-Pokojišče	Ncnsa
-v	Sl
-občini	Ncfsl
-Vrhnika	Npfsn
-,	Z
-del	Ncmsn
-naselja	Ncnsg
-Padež	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-doslej	Rgp
-spadal	Vmpp-sm
-v	Sa
-občino	Ncfsa
-Vrhnika	Npfsn
-,	Z
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-priključil	Vmep-sm
-naselju	Ncnsd
-Kožljek	Npmsn
-v	Sl
-občini	Ncfsl
-Cerknica	Npfsn
-.	Z
-Drugo	Mlpnsn
-četrtletje	Ncnsn
-Spremenjene	Appfpn
-so	Va-r3p-n
-bile	Va-p-pf
-2.303	Mdc
-hišne	Agpfpn
-številke	Ncfpn
-,	Z
-od	Sg
-tega	Pd-nsg
-jih	Pp3mpa--y
-je	Va-r3s-n
-1.271	Mdc
-nastalo	Vmep-sn
-na	Sa
-novo	Agpnsa
-,	Z
-967	Mdc
-je	Va-r3s-n
-bilo	Va-p-sn
-ukinjenih	Appmpg
-,	Z
-65	Mdc
-pa	Cc
-preštevilčenih	Appmpg
-.	Z
-Največ	Rgs
-naselij	Ncnpg
-v	Sl
-Krškem	Npnsl
-Po	Sl
-številu	Ncnsl
-naselij	Ncnpg
-je	Va-r3s-n
-bila	Va-p-sf
-na	Sl
-prvem	Mlonsl
-mestu	Ncnsl
-občina	Ncfsn
-Krško	Npnsn
-s	Si
-158	Mdc
-naselji	Ncnpi
-,	Z
-na	Sl
-drugem	Mlpnsl
-pa	Cc
-občina	Ncfsn
-Trebnje	Npnsn
-s	Si
-153	Mdc
-naselji	Ncnpi
-.	Z
-Občine	Ncfsg
-Kobilje	Npnsn
-in	Cc
-Odranci	Npmpn
-ter	Cc
-Trzin	Npmsn
-so	Va-r3p-n
-obsegale	Vmpp-pf
-vsaka	Pg-nsa
-le	Q
-po	Sa
-eno	Mlpnsa
-naselje	Ncnsa
-.	Z
-Na	Sa
-novo	Agpnsa
-je	Va-r3s-n
-nastalo	Vmep-sn
-le	Q
-eno	Mlpnsn
-naselje	Ncnsn
-,	Z
-in	Cc
-sicer	Q
-na	Sl
-območju	Ncnsl
-občine	Ncfsg
-Krško	Npnsn
-(	Z
-Kerinov	Aspmsnn
-Grm	Ncmsn
-)	Z
-,	Z
-število	Ncnsn
-ulic	Ncfpg
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-povečalo	Vmep-sn
-za	Sa
-tri	Mlcmpa
-.	Z
-Sveti	Agpmsny
-Jurij	Npmsn
-le	Q
-s	Si
-štirimi	Mlcfpi
-ulicami	Ncfpi
-Več	Rgc
-kot	Cs
-tisoč	Mlc-pa
-ulic	Ncfpg
-ima	Vmpr3s-n
-le	Q
-občina	Ncfsn
-Ljubljana	Npfsn
-,	Z
-nad	Si
-200	Mdc
-ulic	Ncfpg
-pa	Cc
-ima	Vmpr3s-n
-še	Q
-pet	Mlc-pa
-občin	Ncfpg
-.	Z
-Občina	Ncfsn
-z	Si
-najmanjšim	Agsnsi
-številom	Ncnsi
-ulic	Ncfpg
-(	Z
-tj	Ncmsn
-.	Z
-4	Mdc
-)	Z
-je	Va-r3s-n
-občina	Ncfsn
-Sveti	Agpmsny
-Jurij	Npmsn
-(	Z
-pomurska	Agpfsn
-regija	Ncfsn
-)	Z
-.	Z
-Največjo	Agsfsa
-skupino	Ncfsa
-so	Va-r3p-n
-sestavljale	Vmpp-pf
-občine	Ncfpn
-z	Si
-naselji	Ncnpi
-brez	Sg
-uličnega	Agpmsg
-sistema	Ncmsg
-–	Z
-takih	Pd-fpg
-občin	Ncfpg
-je	Va-r3s-n
-bilo	Va-p-sn
-64	Mdc
-.	Z
-Število	Ncnsn
-hišnih	Agpnpg
-številk	Ncfpg
-se	Px------y
-je	Va-r3s-n
-najopazneje	Rgs
-povečalo	Vmep-sn
-v	Sl
-občini	Ncfsl
-Koper	Npmsn
-,	Z
-in	Cc
-sicer	Q
-za	Sa
-52	Mdc
-.	Z
-Sledi	Vmpr3s
-občina	Ncfsn
-Krško	Npnsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-na	Sa
-novo	Agpnsa
-dobila	Vmep-sf
-48	Mdc
-hišnih	Agpfpg
-številk	Ncfpg
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+spremenili	mte:Vmep-dm	spremeniti
+občini	mte:Ncfdn	občina
+Vrhnika	mte:Npfsn	Vrhnik
+in	mte:Cc	in
+Cerknica	mte:Npfsn	Cerknica
+.	mte:Z	.
+Največ	mte:Rgs	največ
+naselij	mte:Ncnpg	naselje
+ima	mte:Vmpr3s-n	imeti
+občina	mte:Ncfsn	občina
+Krško	mte:Npnsn	Krško
+.	mte:Z	.
+Na	mte:Sa	na
+novo	mte:Agpfsa	nov
+smo	mte:Va-r1p-n	biti
+dobili	mte:Vmep-pm	dobiti
+tri	mte:Mlcfpa	trije
+ulice	mte:Ncfpa	ulica
+,	mte:Z	,
+spremenili	mte:Vmep-pm	spremeniti
+pa	mte:Cc	pa
+smo	mte:Va-r1p-n	biti
+kar	mte:Rgp	kar
+dva	mte:Mlcmda	dva
+tisoč	mte:Mlc-pa	tisoč
+hišnih	mte:Agpfpg	hišen
+številk	mte:Ncfpg	številka
+.	mte:Z	.
+V	mte:Sl	v
+Registru	mte:Ncmsl	registru
+prostorskih	mte:Agpfpg	prostorski
+enot	mte:Ncfpg	enota
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+drugem	mte:Mlpnsl	drug
+četrtletju	mte:Ncnsl	četrtletje
+spremenjenih	mte:Appmpg	spremenjen
+več	mte:Rgc	več
+kot	mte:Cs	kot
+dva	mte:Mlcmdn	dva
+tisoč	mte:Mlc-pa	tisoč
+hišnih	mte:Agpfpg	hišen
+številk	mte:Ncfpg	številka
+.	mte:Z	.
+Največ	mte:Rgs	največ
+novih	mte:Agpfpg	nov
+hišnih	mte:Agpfpg	hišen
+številk	mte:Ncfpg	številka
+je	mte:Va-r3s-n	biti
+dobila	mte:Vmep-sf	dobiti
+občina	mte:Ncfsn	občina
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Spremenjeni	mte:Appmsny	spremenjen
+Vrhnika	mte:Npfsn	Vrhnik
+in	mte:Cc	in
+Cerknica	mte:Npfsn	Cerknica
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Statističnega	mte:Agpmsg	statističen
+urada	mte:Ncmsg	urad
+RS	mte:Npmsg	RS
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+obdobju	mte:Ncnsl	obdobje
+spremenili	mte:Vmep-dm	spremeniti
+območji	mte:Ncnpa	območje
+občin	mte:Ncfpg	občina
+Vrhnika	mte:Npfsn	Vrhnik
+in	mte:Cc	in
+Cerknica	mte:Npfsn	Cerknica
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+del	mte:Ncmsn	del
+naselja	mte:Ncnsg	naselje
+Dobec	mte:Npmsn	Dobec
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+doslej	mte:Rgp	doslej
+spadal	mte:Vmpp-sm	spadati
+v	mte:Sa	v
+občino	mte:Ncfsa	občina
+Cerknica	mte:Npfsn	Cerknica
+,	mte:Z	,
+priključil	mte:Vmep-sm	priključiti
+naselju	mte:Ncnsd	naselje
+Pokojišče	mte:Ncnsa	pokojišče
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+Vrhnika	mte:Npfsn	Vrhnik
+,	mte:Z	,
+del	mte:Ncmsn	del
+naselja	mte:Ncnsg	naselje
+Padež	mte:Npmsn	Padež
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+doslej	mte:Rgp	doslej
+spadal	mte:Vmpp-sm	spadati
+v	mte:Sa	v
+občino	mte:Ncfsa	občina
+Vrhnika	mte:Npfsn	Vrhnik
+,	mte:Z	,
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+priključil	mte:Vmep-sm	priključiti
+naselju	mte:Ncnsd	naselje
+Kožljek	mte:Npmsn	Kožljek
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+Cerknica	mte:Npfsn	Cerknica
+.	mte:Z	.
+Drugo	mte:Mlpnsn	drug
+četrtletje	mte:Ncnsn	četrtletje
+Spremenjene	mte:Appfpn	spremenjen
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+2.303	mte:Mdc	2.303
+hišne	mte:Agpfpn	hišen
+številke	mte:Ncfpn	številka
+,	mte:Z	,
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+1.271	mte:Mdc	1.271
+nastalo	mte:Vmep-sn	nastati
+na	mte:Sa	na
+novo	mte:Agpnsa	nov
+,	mte:Z	,
+967	mte:Mdc	967
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+ukinjenih	mte:Appmpg	ukinjen
+,	mte:Z	,
+65	mte:Mdc	65
+pa	mte:Cc	pa
+preštevilčenih	mte:Appmpg	preštevilčen
+.	mte:Z	.
+Največ	mte:Rgs	največ
+naselij	mte:Ncnpg	naselje
+v	mte:Sl	v
+Krškem	mte:Npnsl	Krško
+Po	mte:Sl	po
+številu	mte:Ncnsl	število
+naselij	mte:Ncnpg	naselje
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+na	mte:Sl	na
+prvem	mte:Mlonsl	prvi
+mestu	mte:Ncnsl	mesto
+občina	mte:Ncfsn	občina
+Krško	mte:Npnsn	Krško
+s	mte:Si	z
+158	mte:Mdc	158
+naselji	mte:Ncnpi	naselje
+,	mte:Z	,
+na	mte:Sl	na
+drugem	mte:Mlpnsl	drug
+pa	mte:Cc	pa
+občina	mte:Ncfsn	občina
+Trebnje	mte:Npnsn	Trebnje
+s	mte:Si	z
+153	mte:Mdc	153
+naselji	mte:Ncnpi	naselje
+.	mte:Z	.
+Občine	mte:Ncfsg	občina
+Kobilje	mte:Npnsn	Kobilje
+in	mte:Cc	in
+Odranci	mte:Npmpn	Odranci
+ter	mte:Cc	ter
+Trzin	mte:Npmsn	Trzin
+so	mte:Va-r3p-n	biti
+obsegale	mte:Vmpp-pf	obsegati
+vsaka	mte:Pg-nsa	vsak
+le	mte:Q	le
+po	mte:Sa	po
+eno	mte:Mlpnsa	en
+naselje	mte:Ncnsa	naselje
+.	mte:Z	.
+Na	mte:Sa	na
+novo	mte:Agpnsa	nov
+je	mte:Va-r3s-n	biti
+nastalo	mte:Vmep-sn	nastati
+le	mte:Q	le
+eno	mte:Mlpnsn	en
+naselje	mte:Ncnsn	naselje
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+občine	mte:Ncfsg	občina
+Krško	mte:Npnsn	Krško
+(	mte:Z	(
+Kerinov	mte:Aspmsnn	kerinov
+Grm	mte:Ncmsn	Grm
+)	mte:Z	)
+,	mte:Z	,
+število	mte:Ncnsn	število
+ulic	mte:Ncfpg	ulica
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+povečalo	mte:Vmep-sn	povečati
+za	mte:Sa	za
+tri	mte:Mlcmpa	trije
+.	mte:Z	.
+Sveti	mte:Agpmsny	svet
+Jurij	mte:Npmsn	Jurij
+le	mte:Q	le
+s	mte:Si	z
+štirimi	mte:Mlcfpi	štirje
+ulicami	mte:Ncfpi	ulica
+Več	mte:Rgc	več
+kot	mte:Cs	kot
+tisoč	mte:Mlc-pa	tisoč
+ulic	mte:Ncfpg	ulica
+ima	mte:Vmpr3s-n	imeti
+le	mte:Q	le
+občina	mte:Ncfsn	občina
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+nad	mte:Si	nad
+200	mte:Mdc	200
+ulic	mte:Ncfpg	ulica
+pa	mte:Cc	pa
+ima	mte:Vmpr3s-n	imeti
+še	mte:Q	še
+pet	mte:Mlc-pa	pet
+občin	mte:Ncfpg	občina
+.	mte:Z	.
+Občina	mte:Ncfsn	občina
+z	mte:Si	z
+najmanjšim	mte:Agsnsi	majhen
+številom	mte:Ncnsi	število
+ulic	mte:Ncfpg	ulica
+(	mte:Z	(
+tj	mte:Ncmsn	tj
+.	mte:Z	.
+4	mte:Mdc	4
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+občina	mte:Ncfsn	občina
+Sveti	mte:Agpmsny	svet
+Jurij	mte:Npmsn	Jurij
+(	mte:Z	(
+pomurska	mte:Agpfsn	pomurski
+regija	mte:Ncfsn	regija
+)	mte:Z	)
+.	mte:Z	.
+Največjo	mte:Agsfsa	velik
+skupino	mte:Ncfsa	skupina
+so	mte:Va-r3p-n	biti
+sestavljale	mte:Vmpp-pf	sestavljati
+občine	mte:Ncfpn	občina
+z	mte:Si	z
+naselji	mte:Ncnpi	naselje
+brez	mte:Sg	brez
+uličnega	mte:Agpmsg	uličen
+sistema	mte:Ncmsg	sistem
+–	mte:Z	–
+takih	mte:Pd-fpg	tak
+občin	mte:Ncfpg	občina
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+64	mte:Mdc	64
+.	mte:Z	.
+Število	mte:Ncnsn	število
+hišnih	mte:Agpnpg	hišen
+številk	mte:Ncfpg	številka
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+najopazneje	mte:Rgs	pozno
+povečalo	mte:Vmep-sn	povečati
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+za	mte:Sa	za
+52	mte:Mdc	52
+.	mte:Z	.
+Sledi	mte:Vmpr3s	slediti
+občina	mte:Ncfsn	občina
+Krško	mte:Npnsn	Krško
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+novo	mte:Agpnsa	nov
+dobila	mte:Vmep-sf	dobiti
+48	mte:Mdc	48
+hišnih	mte:Agpfpg	hišen
+številk	mte:Ncfpg	številka
+.	mte:Z	.
+Najopazneje	mte:Rgs	pogopazno
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+zmanjšalo	mte:Vmep-sn	zmanjšati
+v	mte:Sl	v
+občinah	mte:Ncfpl	občina
+Slovenska	mte:Agpfsn	slovenski
+Bistrica	mte:Npfsn	Bistrica
+(	mte:Z	(
+za	mte:Sa	za
+73	mte:Mdc	73
+)	mte:Z	)
+,	mte:Z	,
+Metlika	mte:Npfsn	Metlika
+(	mte:Z	(
+za	mte:Sa	za
+51	mte:Mdc	51
+)	mte:Z	)
+,	mte:Z	,
+Rogaška	mte:Agpfsn	rogaški
+Slatina	mte:Npfsn	Slatina
+(	mte:Z	(
+za	mte:Sa	za
+50	mte:Mdc	50
+)	mte:Z	)
+in	mte:Cc	in
+Lendava	mte:Npfsn	Lendava
+(	mte:Z	(
+za	mte:Sa	za
+34	mte:Mdc	34
+)	mte:Z	)

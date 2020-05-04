@@ -1,252 +1,281 @@
-token	tag
-Vodafone	Ncfpn
-bo	Va-f3s-n
-na	Sl
-trgih	Ncmpl
-,	Z
-kjer	Cs
-skupaj	Rgp
-živi	Vmpr3s
-1,4	Mdc
-milijarde	Ncfsg
-ljudi	Ncmpg
-,	Z
-prodajal	Vmpp-sm
-Applov	Aspmsnn
-iPhone	Ncmsn
-Vodafone	Npfsn
-se	Px------y
-je	Va-r3s-n
-pogodil	Vmep-sm
-z	Si
-Applom	Ncmsi
-za	Sa
-prodajo	Ncfsa
-njihovega	Ps3msgp
-mobilnega	Agpmsg
-telefona	Ncmsg
-iPhone	Ncmsn
-in	Cc
-ga	Pp3msa--y
-bo	Va-f3s-n
-ponudil	Vmep-sm
-svojim	Px-mpd
-uporabnikom	Ncmpd
-v	Sl
-Avstraliji	Npfsl
-,	Z
-Indiji	Npfsl
-,	Z
-Italiji	Npfsl
-,	Z
-na	Sl
-Češkem	Npnsl
-,	Z
-v	Sl
-Egiptu	Npmsl
-,	Z
-Grčiji	Npfsl
-,	Z
-na	Sl
-Portugalskem	Npnsl
-,	Z
-v	Sl
-Novi	Agpfsl
-Zelandiji	Npfsl
-,	Z
-Južnoafriški	Agpfsl
-republiki	Ncfsl
-in	Cc
-Turčiji	Npfsl
-,	Z
-v	Sl
-katerih	Pq-mpl
-skupaj	Rgp
-živi	Vmpr3s
-1,4	Mdc
-milijarde	Ncfsg
-prebivalcev	Ncmpg
-.	Z
-V	Sl
-Italiji	Npfsl
-ga	Pp3msa--y
-bo	Va-f3s-n
-v	Sl
-ponudbi	Ncfsl
-imela	Vmpp-sf
-tudi	Q
-Telecom	Npmsn
-Italia	Npfsn
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-prvič	Rgp
-,	Z
-da	Cs
-Apple	Npmsn
-ni	Va-r3s-y
-sklenil	Vmep-sm
-ekskluzivne	Agpfsg
-pogodbe	Ncfsg
-z	Si
-le	Q
-enim	Mlpmsi
-operaterjem	Ncmsi
-v	Sl
-državi	Ncfsl
-.	Z
-Pogodba	Ncfsn
-pomembna	Agpfsn
-tako	Cc
-za	Sa
-Vodafone	Npfpa
-,	Z
-kot	Cs
-za	Sa
-Apple	Npmsan
-Pogodba	Ncfsn
-je	Va-r3s-n
-za	Sa
-Vodafone	Npfpa
-zelo	Rgp
-pomembna	Agpfsn
-,	Z
-saj	Cc
-so	Va-r3p-n
-ga	Pp3msa--y
-do	Sg
-zdaj	Rgp
-lahko	Rgp
-prodajali	Vmpp-pm
-samo	Q
-v	Sl
-Združenem	Appnsl
-kraljestvu	Ncnsl
-,	Z
-ki	Cs
-pa	Cc
-šteje	Vmpr3s
-"	Z
-le	Q
-"	Z
-61	Mdc
-milijonov	Ncmpg
-ljudi	Ncmpg
-.	Z
-Samo	Q
-v	Sl
-Indiji	Npfsl
-so	Va-r3p-n
-mobilni	Agpmpn
-operaterji	Ncmpn
-v	Sa
-zadnje	Agpnsa
-pol	Rgp
-leta	Ncnsg
-pridobili	Vmep-pm
-osem	Mlc-pa
-milijonov	Ncmpg
-novih	Agpmpg
-naročnikov	Ncmpg
-,	Z
-kar	Pr-nsn
-po	Sl
-hitrosti	Ncfsl
-rasti	Ncfsg
-trga	Ncmsg
-Indijo	Npfsa
-postavlja	Vmpr3s
-na	Sa
-prvo	Mlonsa
-mesto	Ncnsa
-,	Z
-poroča	Vmpr3s
-Bloomberg	Npmsn
-.	Z
-Za	Sa
-Apple	Npmsan
-pa	Cc
-je	Va-r3s-n
-sodelovanje	Ncnsa
-z	Si
-Vodafonom	Ncmsi
-del	Ncmsn
-načrta	Ncmsg
-za	Sa
-povečanje	Ncnsa
-prodaje	Ncfsg
-zunaj	Sg
-Združenih	Appfpg
-držav	Ncfpg
-.	Z
-Kasneje	Rgc
-letos	Rgp
-nova	Agpfsn
-verzija	Ncfsn
-iPhona	Ncmsg
-Do	Sg
-zdaj	Rgp
-je	Va-r3s-n
-Apple	Npmsn
-iPhone	Ncmsan
-uradno	Rgp
-prodajal	Vmpp-sm
-le	Q
-v	Sl
-ZDA	Npfpl
-,	Z
-Veliki	Agpfsl
-Britaniji	Npfsl
-,	Z
-Franciji	Npfsl
-,	Z
-Nemčiji	Npfsl
-,	Z
-Avstriji	Npfsl
-in	Cc
-na	Sl
-Irskem	Npnsl
-,	Z
-kupiti	Vmen
-pa	Cc
-ga	Pp3msa--y
-je	Va-r3s-n
-mogoče	Agpnsn
-tudi	Q
-v	Sl
-Sloveniji	Npfsl
-pri	Sl
-Tušmobilu	Npmsl
-,	Z
-ki	Cs
-pa	Cc
-nima	Vmpr3s-y
-pogodbe	Ncfsg
-z	Si
-Applom	Ncmsi
-.	Z
-V	Sl
-drugi	Mlpfsl
-polovici	Ncfsl
-leta	Ncnsg
-naj	Q
-bi	Va-c
-Apple	Npmsn
-tudi	Q
-začel	Vmep-sm
-prodajati	Vmpn
-novo	Agpfsa
-verzijo	Ncfsa
-iPhone	Ncmsn
-,	Z
-najprej	Rgs
-seveda	Q
-v	Sl
-ZDA	Npfpl
-preko	Sg
-svojega	Px-msg
-partnerja	Ncmsg
-AT	Xf
-&	Xf
-T	Xf
-.	Z
+token	tag	lemma
+Vodafone	mte:Ncfpn	vodafon
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+trgih	mte:Ncmpl	trg
+,	mte:Z	,
+kjer	mte:Cs	kjer
+skupaj	mte:Rgp	skupaj
+živi	mte:Vmpr3s	živeti
+1,4	mte:Mdc	1,4
+milijarde	mte:Ncfsg	milijarda
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+prodajal	mte:Vmpp-sm	prodajati
+Applov	mte:Aspmsnn	applov
+iPhone	mte:Ncmsn	iphona
+Vodafone	mte:Npfsn	Vodafona
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pogodil	mte:Vmep-sm	pogoditi
+z	mte:Si	z
+Applom	mte:Ncmsi	applom
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+njihovega	mte:Ps3msgp	njihov
+mobilnega	mte:Agpmsg	mobilen
+telefona	mte:Ncmsg	telefon
+iPhone	mte:Ncmsn	iphona
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+ponudil	mte:Vmep-sm	ponuditi
+svojim	mte:Px-mpd	svoj
+uporabnikom	mte:Ncmpd	uporabnik
+v	mte:Sl	v
+Avstraliji	mte:Npfsl	Avstralija
+,	mte:Z	,
+Indiji	mte:Npfsl	Indija
+,	mte:Z	,
+Italiji	mte:Npfsl	Italija
+,	mte:Z	,
+na	mte:Sl	na
+Češkem	mte:Npnsl	Češko
+,	mte:Z	,
+v	mte:Sl	v
+Egiptu	mte:Npmsl	Egipt
+,	mte:Z	,
+Grčiji	mte:Npfsl	Grčija
+,	mte:Z	,
+na	mte:Sl	na
+Portugalskem	mte:Npnsl	Portugalsko
+,	mte:Z	,
+v	mte:Sl	v
+Novi	mte:Agpfsl	nov
+Zelandiji	mte:Npfsl	Zelandija
+,	mte:Z	,
+Južnoafriški	mte:Agpfsl	južnoafriški
+republiki	mte:Ncfsl	republika
+in	mte:Cc	in
+Turčiji	mte:Npfsl	Turčija
+,	mte:Z	,
+v	mte:Sl	v
+katerih	mte:Pq-mpl	kateri
+skupaj	mte:Rgp	skupaj
+živi	mte:Vmpr3s	živeti
+1,4	mte:Mdc	1,4
+milijarde	mte:Ncfsg	milijarda
+prebivalcev	mte:Ncmpg	prebivalec
+.	mte:Z	.
+V	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+ponudbi	mte:Ncfsl	ponudba
+imela	mte:Vmpp-sf	imeti
+tudi	mte:Q	tudi
+Telecom	mte:Npmsn	Telecom
+Italia	mte:Npfsn	Italia
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+prvič	mte:Rgp	prvič
+,	mte:Z	,
+da	mte:Cs	da
+Apple	mte:Npmsn	Apple
+ni	mte:Va-r3s-y	biti
+sklenil	mte:Vmep-sm	skleniti
+ekskluzivne	mte:Agpfsg	ekskluziven
+pogodbe	mte:Ncfsg	pogodba
+z	mte:Si	z
+le	mte:Q	le
+enim	mte:Mlpmsi	en
+operaterjem	mte:Ncmsi	operater
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+.	mte:Z	.
+Pogodba	mte:Ncfsn	pogodba
+pomembna	mte:Agpfsn	pomemben
+tako	mte:Cc	tako
+za	mte:Sa	za
+Vodafone	mte:Npfpa	Vodafona
+,	mte:Z	,
+kot	mte:Cs	kot
+za	mte:Sa	za
+Apple	mte:Npmsan	Apple
+Pogodba	mte:Ncfsn	pogodba
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Vodafone	mte:Npfpa	Vodafona
+zelo	mte:Rgp	zelo
+pomembna	mte:Agpfsn	pomemben
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+lahko	mte:Rgp	lahko
+prodajali	mte:Vmpp-pm	prodajati
+samo	mte:Q	samo
+v	mte:Sl	v
+Združenem	mte:Appnsl	združen
+kraljestvu	mte:Ncnsl	kraljestvo
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+šteje	mte:Vmpr3s	šteti
+"	mte:Z	"
+le	mte:Q	le
+"	mte:Z	"
+61	mte:Mdc	61
+milijonov	mte:Ncmpg	milijon
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+Samo	mte:Q	samo
+v	mte:Sl	v
+Indiji	mte:Npfsl	Indija
+so	mte:Va-r3p-n	biti
+mobilni	mte:Agpmpn	mobilen
+operaterji	mte:Ncmpn	operater
+v	mte:Sa	v
+zadnje	mte:Agpnsa	zadnji
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+pridobili	mte:Vmep-pm	pridobiti
+osem	mte:Mlc-pa	osem
+milijonov	mte:Ncmpg	milijon
+novih	mte:Agpmpg	nov
+naročnikov	mte:Ncmpg	naročnik
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+po	mte:Sl	po
+hitrosti	mte:Ncfsl	hitrost
+rasti	mte:Ncfsg	rast
+trga	mte:Ncmsg	trg
+Indijo	mte:Npfsa	Indija
+postavlja	mte:Vmpr3s	postavljati
+na	mte:Sa	na
+prvo	mte:Mlonsa	prvi
+mesto	mte:Ncnsa	mesto
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+Bloomberg	mte:Npmsn	Bloomberg
+.	mte:Z	.
+Za	mte:Sa	za
+Apple	mte:Npmsan	Apple
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+sodelovanje	mte:Ncnsa	sodelovanje
+z	mte:Si	z
+Vodafonom	mte:Ncmsi	vodafon
+del	mte:Ncmsn	del
+načrta	mte:Ncmsg	načrt
+za	mte:Sa	za
+povečanje	mte:Ncnsa	povečanje
+prodaje	mte:Ncfsg	prodaja
+zunaj	mte:Sg	zunaj
+Združenih	mte:Appfpg	združen
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Kasneje	mte:Rgc	kasno
+letos	mte:Rgp	letos
+nova	mte:Agpfsn	nov
+verzija	mte:Ncfsn	verzija
+iPhona	mte:Ncmsg	iphon
+Do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+je	mte:Va-r3s-n	biti
+Apple	mte:Npmsn	Apple
+iPhone	mte:Ncmsan	iphona
+uradno	mte:Rgp	uradno
+prodajal	mte:Vmpp-sm	prodajati
+le	mte:Q	le
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+Veliki	mte:Agpfsl	velik
+Britaniji	mte:Npfsl	Britanija
+,	mte:Z	,
+Franciji	mte:Npfsl	Francija
+,	mte:Z	,
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+Avstriji	mte:Npfsl	Avstrija
+in	mte:Cc	in
+na	mte:Sl	na
+Irskem	mte:Npnsl	Irsko
+,	mte:Z	,
+kupiti	mte:Vmen	kupiti
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+pri	mte:Sl	pri
+Tušmobilu	mte:Npmsl	Tušmobil
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+nima	mte:Vmpr3s-y	imeti
+pogodbe	mte:Ncfsg	pogodba
+z	mte:Si	z
+Applom	mte:Ncmsi	applom
+.	mte:Z	.
+V	mte:Sl	v
+drugi	mte:Mlpfsl	drug
+polovici	mte:Ncfsl	polovica
+leta	mte:Ncnsg	leto
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Apple	mte:Npmsn	Apple
+tudi	mte:Q	tudi
+začel	mte:Vmep-sm	začeti
+prodajati	mte:Vmpn	prodajati
+novo	mte:Agpfsa	nov
+verzijo	mte:Ncfsa	verzija
+iPhone	mte:Ncmsn	iphona
+,	mte:Z	,
+najprej	mte:Rgs	najprej
+seveda	mte:Q	seveda
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+preko	mte:Sg	preko
+svojega	mte:Px-msg	svoj
+partnerja	mte:Ncmsg	partner
+AT	mte:Xf	at
+&	mte:Xf	&
+T	mte:Ncmsn	T
+.	mte:Z	.
+Nov	mte:Agpmsan	nov
+aparat	mte:Ncmsan	aparat
+bo	mte:Va-f3s-n	biti
+3G	mte:Npmsn	3G
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+povezljiv	mte:Agpmsnn	povezljiv
+z	mte:Si	z
+UMTS	mte:Ncmsi	umts
+in	mte:Cc	in
+zato	mte:Rgp	zato
+bolj	mte:Rgc	bolj
+zanimiv	mte:Agpmsnn	zanimiv
+za	mte:Sa	za
+evropski	mte:Agpmsay	evropski
+trg	mte:Ncmsan	trg
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+pametnih	mte:Agpmpl	pameten
+telefonih	mte:Ncmpl	telefon
+to	mte:Pd-nsa	ta
+že	mte:Q	že
+standard	mte:Ncmsn	standard

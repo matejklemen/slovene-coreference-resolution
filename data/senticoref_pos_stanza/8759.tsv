@@ -1,669 +1,689 @@
-token	tag
-V	Sl
-mešanici	Ncfsl
-začimb	Ncfpg
-Spice	Npfsg
-,	Z
-ki	Cs
-se	Px------y
-v	Sl
-obliki	Ncfsl
-cigaret	Ncfpg
-prodajajo	Vmpr3p
-tudi	Q
-v	Sl
-Sloveniji	Npfsl
-,	Z
-so	Va-r3p-n
-našli	Vmep-pm
-zdravju	Ncnsd
-škodljive	Agpfsg
-snovi	Ncfsg
-.	Z
-16	Mdc
--	Z
-letnik	Ncmsn
-iz	Sg
-Ljubljane	Npfsg
-se	Px------y
-je	Va-r3s-n
-z	Si
-omenjenim	Appmsi
-izdelkom	Ncmsi
-zastrupil	Vmep-sm
-.	Z
-Spice	Npfsn
-vpliva	Vmpr3s
-na	Sa
-vidno	Agpnsa
-,	Z
-slušno	Agpnsa
-in	Cc
-čutno	Agpnsa
-zaznavanje	Ncnsa
-,	Z
-kar	Pr-nsn
-upočasni	Vmer3s
-reflekse	Ncmpa
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-posebej	Rgp
-problematično	Agpnsn
-pri	Sl
-upravljanju	Ncnsl
-ali	Cc
-vožnji	Ncfsl
-,	Z
-saj	Cc
-se	Px------y
-poveča	Vmer3s
-tveganje	Ncnsa
-za	Sa
-prometne	Agpfpa
-nesreče	Ncfpa
-.	Z
-Mercedes	Npmsn
-Lovrečič	Npmsn
-,	Z
-Informacijska	Agpfsn
-enota	Ncfsn
-za	Sa
-prepovedane	Appfpa
-droge	Ncfpa
-pri	Sl
-IVZ	Ncfpl
-.	Z
-Inštitut	Ncmsn
-za	Sa
-varovanje	Ncnsa
-zdravja	Ncnsg
-(	Z
-IVZ	Ncfsn
-)	Z
-opozarja	Vmpr3s
-na	Sa
-izdelek	Ncmsan
-,	Z
-imenovan	Appmsnn
-Spice	Npmsa
-,	Z
-ki	Cs
-vsebuje	Vmpr3s
-psihoaktivne	Agpfpa
-snovi	Ncfpa
-in	Cc
-je	Va-r3s-n
-v	Sl
-obliki	Ncfsl
-cigaret	Ncfpg
-na	Sa
-prodaj	Ncfsl
-v	Sl
-večjih	Agcnpl
-mestih	Ncnpl
-,	Z
-v	Sl
-Ljubljani	Npfsl
-,	Z
-Mariboru	Npmsl
-in	Cc
-Celju	Npnsl
-.	Z
-Izdelek	Ncmsan
-vsebuje	Vmpr3s
-več	Rgc
-škodljivih	Agpfpg
-snovi	Ncfpg
-,	Z
-zato	Cc
-IVZ	Ncfsn
-njegovo	Ps3fsasm
-uporabo	Ncfsa
-odsvetuje	Vmpr3s
-.	Z
-V	Sl
-Ljubljani	Npfsl
-so	Va-r3p-n
-zabeležili	Vmep-pm
-tudi	Q
-primer	Ncmsan
-zastrupitve	Ncfsg
-.	Z
-Natančne	Agpmpa
-podatke	Ncmpa
-,	Z
-kje	Rgp
-vse	Pg-nsn
-je	Va-r3s-n
-mogoče	Agpnsn
-omenjeni	Appmsny
-izdelek	Ncmsn
-kupiti	Vmen
-,	Z
-še	Q
-zbirajo	Vmpr3p
-.	Z
-Laboratorijske	Agpfpa
-analize	Ncfpa
-,	Z
-izvedene	Appfpa
-v	Sl
-Švici	Npfsl
-,	Z
-so	Va-r3p-n
-v	Sl
-sibirski	Agpfsl
-srčnici	Ncfsl
-(	Z
-Leonurus	Xf
-sibiricus	Ncmsn
-)	Z
-,	Z
-ki	Cs
-je	Va-r3s-n
-sestavni	Agpmsny
-del	Ncmsn
-zeliščne	Agpfsg
-mešanice	Ncfsg
-v	Sl
-izdelkih	Ncmpl
-Spice	Npfsg
-,	Z
-ugotovile	Vmep-pf
-prisotnost	Ncfsa
-alkaloida	Ncmsg
-leonurin	Ncmpg
-.	Z
-V	Sl
-vsaj	Q
-treh	Mlcmpl
-proizvodih	Ncmpl
-Spice	Npfsn
-(	Z
-gold	Ncmsn
-,	Z
-silver	Ncmsn
-in	Cc
-diamond	Npmsn
-)	Z
-so	Va-r3p-n
-prepoznali	Vmep-pm
-tudi	Q
-psihoaktivni	Agpfpa
-snovi	Ncfpa
-,	Z
-sintetična	Agpmdn
-kanabinoida	Ncmdn
-JWH	Npmsn
--	Z
-018	Mdc
-in	Cc
-CP	Ncmsn
-47	Mdc
--	Z
-497	Mdc
-.	Z
-Po	Sl
-nepreverjeni	Agpfsl
-informaciji	Ncfsl
-,	Z
-pridobljeni	Appmpn
-na	Sl
-spletnih	Agpfpl
-straneh	Ncfpl
-,	Z
-so	Va-r3p-n
-ameriški	Agpmpn
-mejni	Agpmpn
-organi	Ncmpn
-v	Sl
-izdelku	Ncmsl
-Spice	Npfsn
-gold	Npmsn
-odkrili	Vmep-pm
-še	Q
-tretjo	Mlofsa
-sintetično	Agpfsa
-snov	Ncfsa
-,	Z
-HU	Npmsn
--	Z
-210	Mdc
-.	Z
-Center	Ncmsn
-za	Sa
-forenzične	Agpfpa
-preiskave	Ncfpa
-z	Sg
-generalne	Agpfsg
-policijske	Agpfsg
-uprave	Ncfsg
-je	Va-r3s-n
-opravil	Vmep-sm
-analizo	Ncfsa
-vsebnosti	Ncfsg
-v	Sl
-teh	Pd-mpl
-izdelkih	Ncmpl
-,	Z
-ki	Cs
-so	Va-r3p-n
-na	Sa
-prodaj	Ncfsa
-v	Sl
-Sloveniji	Npfsl
-,	Z
-in	Cc
-potrdil	Vmep-sm
-prisotnost	Ncfsa
-sintetičnega	Agpmsg
-kanabinoida	Ncmsg
-,	Z
-homologa	Ncmsg
-CP	Npmsn
--	Z
-47	Mdc
--	Z
-497	Mdc
--	Z
-C8	Npmsn
-.	Z
-Prepoved	Ncmsa
-prodaje	Ncfsg
-izdelkov	Ncmpg
-Nemčija	Npfsn
-,	Z
-Avstrija	Npfsn
-in	Cc
-Francija	Npfsn
-so	Va-r3p-n
-že	Q
-pripravile	Vmep-pf
-zakonodajne	Agpmpa
-ukrepe	Ncmpa
-za	Sa
-prepoved	Ncfsa
-oziroma	Cc
-nadzor	Ncmsan
-nad	Si
-izdelki	Ncmpi
-Spice	Npfsg
-.	Z
-V	Sl
-Avstriji	Npfsl
-so	Va-r3p-n
-7	Mdc
-.	Z
-januarja	Ncmsg
-letos	Rgp
-z	Si
-direktivo	Ncfsi
-v	Sl
-okviru	Ncmsl
-zakona	Ncmsg
-o	Sl
-zdravilih	Ncnpl
-prepovedali	Vmep-pm
-uvoz	Ncmsan
-ali	Cc
-trgovanje	Ncnsa
-z	Si
-mešanico	Ncfsi
-tobaka	Ncmsg
-,	Z
-ki	Cs
-vsebuje	Vmpr3s
-JWH	Npmsn
--	Z
-018	Mdc
-.	Z
-V	Sl
-Nemčiji	Npfsl
-od	Sg
-22	Mdc
-.	Z
-januarja	Ncmsg
-proizvodov	Ncmpg
-Spice	Npfsg
-ni	Va-r3s-y
-več	Q
-mogoče	Agpnsn
-kupiti	Vmen
-(	Z
-ne	Q
-na	Sl
-internetu	Ncmsl
-ne	Q
-v	Sl
-tako	Rgp
-imenovanih	Appfpl
-'	Z
-headshops	Ncmsn
-'	Z
-)	Z
-,	Z
-prepovedane	Appfpn
-pa	Cc
-so	Va-r3p-n
-tudi	Q
-proizvodnja	Ncfsn
-,	Z
-posest	Ncfsn
-in	Cc
-pridobivanje	Ncnsn
-izdelkov	Ncmpg
-,	Z
-ki	Cs
-vsebujejo	Vmpr3p
-snovi	Ncfpa
-CP	Npmsn
--	Z
-47	Mdc
--	Z
-497	Mdc
-in	Cc
-še	Q
-štiri	Mlcfpa
-iz	Sg
-homologne	Agpfsg
-serije	Ncfsg
-(	Z
-C6	Npmsn
--	Z
-C9	Npmsn
-)	Z
-.	Z
-Sintetične	Agpmpa
-kanabinoide	Ncmpa
-JWH	Npmsn
--	Z
-018	Mdc
-,	Z
-CP	Ncmsn
--	Z
-47	Mdc
-in	Cc
-šest	Mlc-pa
-homologov	Ncmpg
-ter	Cc
-HU	Npmsn
--	Z
-210	Mdc
-so	Va-r3p-n
-med	Sa
-prepovedane	Appfpa
-droge	Ncfpa
-23	Mdc
-.	Z
-februarja	Ncmsg
-letos	Rgp
-uvrstile	Vmep-pf
-tudi	Q
-francoske	Agpfpn
-oblasti	Ncfpn
-.	Z
-Tveganje	Ncnsn
-Spice	Npfsg
-predstavlja	Vmpr3s
-dvakratno	Agpnsa
-tveganje	Ncnsa
-za	Sa
-zdravje	Ncnsa
-:	Z
-zaradi	Sg
-načina	Ncmsg
-vnosa	Ncmsg
-snovi	Ncfsg
-v	Sa
-telo	Ncnsa
-,	Z
-to	Pd-nsn
-je	Va-r3s-n
-s	Si
-kajenjem	Ncnsi
-,	Z
-in	Cc
-zaradi	Sg
-psihoaktivnega	Agpmsg
-učinka	Ncmsg
-sintetičnih	Agpmpg
-kanabinoidov	Ncmpg
-.	Z
-Po	Sl
-trenutno	Rgp
-razpoložljivih	Agpmpl
-podatkih	Ncmpl
-IVZ	Ncfpg
-,	Z
-pridobljenih	Appmpg
-iz	Sg
-primerov	Ncmpg
-zastrupitev	Ncfpg
-,	Z
-uživanje	Ncnsn
-učinkuje	Vmpr3s
-na	Sa
-srčno	Agpnsa
--	Z
-žilni	Agpmsay
-in	Cc
-živčni	Agpmsay
-sistem	Ncmsan
-(	Z
-pojavijo	Vmer3p
-se	Px------y
-pospešeno	Agpnsn
-bitje	Ncnsn
-srca	Ncnsg
-,	Z
-kratkotrajne	Agpfsg
-izgube	Ncfsg
-zavesti	Ncfsg
-)	Z
-.	Z
-Psihoaktivni	Agpmpn
-učinki	Ncmpn
-pri	Sl
-človeku	Ncmsl
-so	Va-r3p-n
-podobni	Agpmpn
-učinkom	Ncmpd
-kanabisa	Ncmsg
-:	Z
-evforija	Ncfsn
-,	Z
-sprostitev	Ncfsn
-,	Z
-večja	Agcfsn
-socializiranost	Ncfsn
-,	Z
-večja	Agcfsn
-intenzivnost	Ncfsn
-zaznavanja	Ncnsg
-,	Z
-povečanje	Ncnsn
-teka	Ncmsg
-.	Z
-Pri	Sl
-višjih	Agcmpl
-odmerkih	Ncmpl
-pa	Cc
-se	Px------y
-pojavljajo	Vmpr3p
-psihične	Agpfpn
-težave:motnje	Ncfpn
-zaznavanja	Ncnsg
-in	Cc
-depersonalizacija	Ncfsn
-ali	Cc
-hujše	Agcfpn
-duševne	Agpfpn
-motnje	Ncfpn
-.	Z
-Po	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-ima	Vmpr3s-n
-kajenje	Ncnsa
-pripravkov	Ncmpg
-Spice	Npmsn
-podobne	Agpmpa
-učinke	Ncmpa
-na	Sa
-dihalni	Agpmsay
-sistem	Ncmsan
-kot	Cs
-kajenje	Ncnsa
-cigaret	Ncfpg
-tobaka	Ncmsg
-.	Z
-Pri	Sl
-tem	Pd-nsl
-se	Px------y
-razvijajo	Vmpr3p
-produkti	Ncmpn
-pirolize	Ncfsg
-s	Si
-plinsko	Agpfsi
-fazo	Ncfsi
-(	Z
-kemično	Agpnsn
-in	Cc
-toplotno	Agpnsn
-draženje	Ncnsn
-,	Z
-rakotvornost	Ncfsn
-)	Z
-in	Cc
-fazo	Ncfsa
-delcev	Ncmpg
-,	Z
-ki	Cs
-vsebujejo	Vmpr3p
-potencialno	Agpfsa
-rakotvorne	Agpfpa
-snovi	Ncfpa
-.	Z
-Uporaba	Ncfsn
-sintetičnih	Agpmpg
-kanabinoidov	Ncmpg
-vpliva	Vmpr3s
-na	Sa
-psihomotorne	Agpfpa
-pa	Cc
-tudi	Q
-kognitivne	Agpfpa
-funkcije	Ncfpa
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-spremeni	Vmer3s
-sporočila	Ncnpa
-v	Sl
-možganih	Ncmpl
-,	Z
-ki	Cs
-vplivajo	Vmpr3p
-na	Sa
-zaznavanje	Ncnsa
-in	Cc
-koordinacijo	Ncfsa
-,	Z
-kar	Pr-nsn
-vpliva	Vmpr3s
-na	Sa
-vidno	Agpnsa
-,	Z
-slušno	Agpnsa
-in	Cc
-čutno	Agpnsa
-zaznavanje	Ncnsa
-ter	Cc
-upočasni	Vmer3s
-reflekse	Ncmpa
-.	Z
-Zmes	Ncfsa
-posušenih	Appmpg
-rastlinskih	Agpmpg
-delcev	Ncmpg
-,	Z
-s	Si
-katero	Pq-fsi
-je	Va-r3s-n
-polnjena	Appfsn
-cigareta	Ncfsn
-Spice	Npfsn
-.	Z
-©	Npmsn
-GPU	Npmsn
-Primer	Ncmsnn
-zastrupitve	Ncfsg
-V	Sl
-Centru	Ncmsl
-za	Sa
-zastrupitve	Ncfpa
-UKC	Npfsg
-Ljubljana	Npfsn
-so	Va-r3p-n
-po	Sl
-podatkih	Ncmpl
-IVZ	Ncfpg
-zaradi	Sg
-blažje	Agcfsg
-zastrupitve	Ncfsg
-s	Si
-tovrstnim	Agpmsi
-izdelkom	Ncmsi
-marca	Ncmsg
-letos	Rgp
-zdravili	Vmpp-pm
-16	Mdc
--	Z
-letnega	Agpmsa
-bolnika	Ncmsay
-.	Z
-Spice	Npmsn
-naj	Q
-bi	Va-c
-kupil	Vmep-sm
-v	Sl
-Ljubljani	Npfsl
-in	Cc
-ga	Pp3msa--y
-kadil	Vmpp-sm
-.	Z
-Bolnik	Ncmsn
-je	Va-r3s-n
-zanikal	Vmep-sm
-kajenje	Ncnsa
-marihuane	Ncfsg
-in	Cc
-zaužitje	Ncnsa
-ekstazija	Ncfsg
-.	Z
-Bil	Va-p-sm
-je	Va-r3s-n
-nemiren	Agpmsnn
-,	Z
-bilo	Va-p-sn
-mu	Pp3msd--y
-je	Va-r3s-n
-slabo	Agpnsn
-,	Z
-bruhal	Vmpp-sm
-je	Va-r3s-n
-,	Z
-se	Px------y
-znojil	Vmep-sm
-in	Cc
-tresel	Vmpp-sm
-,	Z
-srce	Ncnsn
-mu	Pp3msd--y
-je	Va-r3s-n
-bílo	Vmpp-sn
-hitro	Agpnsn
-in	Cc
-neredno	Agpnsn
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+mešanici	mte:Ncfsl	mešanica
+začimb	mte:Ncfpg	začimba
+Spice	mte:Npfsg	Spice
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+cigaret	mte:Ncfpg	cigaret
+prodajajo	mte:Vmpr3p	prodajati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+našli	mte:Vmep-pm	najti
+zdravju	mte:Ncnsd	zdravje
+škodljive	mte:Agpfsg	škodljiv
+snovi	mte:Ncfsg	snov
+.	mte:Z	.
+16	mte:Mdc	16
+-	mte:Z	-
+letnik	mte:Ncmsn	letnik
+iz	mte:Sg	iz
+Ljubljane	mte:Npfsg	Ljubljana
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+omenjenim	mte:Appmsi	omenjen
+izdelkom	mte:Ncmsi	izdelek
+zastrupil	mte:Vmep-sm	zastrupiti
+.	mte:Z	.
+Spice	mte:Npfsn	Spice
+vpliva	mte:Vmpr3s	vplivati
+na	mte:Sa	na
+vidno	mte:Agpnsa	vidno
+,	mte:Z	,
+slušno	mte:Agpnsa	slušen
+in	mte:Cc	in
+čutno	mte:Agpnsa	čuten
+zaznavanje	mte:Ncnsa	zaznavanje
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+upočasni	mte:Vmer3s	upočasniti
+reflekse	mte:Ncmpa	refleksa
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+posebej	mte:Rgp	posebej
+problematično	mte:Agpnsn	problematičen
+pri	mte:Sl	pri
+upravljanju	mte:Ncnsl	upravljanje
+ali	mte:Cc	ali
+vožnji	mte:Ncfsl	vožnja
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+poveča	mte:Vmer3s	povečati
+tveganje	mte:Ncnsa	tveganje
+za	mte:Sa	za
+prometne	mte:Agpfpa	prometen
+nesreče	mte:Ncfpa	nesreča
+.	mte:Z	.
+Mercedes	mte:Npmsn	Mercedes
+Lovrečič	mte:Npmsn	Lovrečič
+,	mte:Z	,
+Informacijska	mte:Agpfsn	informacijski
+enota	mte:Ncfsn	enota
+za	mte:Sa	za
+prepovedane	mte:Appfpa	prepovedan
+droge	mte:Ncfpa	droga
+pri	mte:Sl	pri
+IVZ	mte:Ncfpl	IVZ
+.	mte:Z	.
+Inštitut	mte:Ncmsn	inštitut
+za	mte:Sa	za
+varovanje	mte:Ncnsa	varovanje
+zdravja	mte:Ncnsg	zdravje
+(	mte:Z	(
+IVZ	mte:Ncfsn	IVZ
+)	mte:Z	)
+opozarja	mte:Vmpr3s	opozarjati
+na	mte:Sa	na
+izdelek	mte:Ncmsan	izdelek
+,	mte:Z	,
+imenovan	mte:Appmsnn	imenovan
+Spice	mte:Npmsa	Spice
+,	mte:Z	,
+ki	mte:Cs	ki
+vsebuje	mte:Vmpr3s	vsebovati
+psihoaktivne	mte:Agpfpa	psihoaktiven
+snovi	mte:Ncfpa	snov
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+cigaret	mte:Ncfpg	cigaret
+na	mte:Sa	na
+prodaj	mte:Ncfsl	prodaja
+v	mte:Sl	v
+večjih	mte:Agcnpl	velik
+mestih	mte:Ncnpl	mesto
+,	mte:Z	,
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+Mariboru	mte:Npmsl	Maribor
+in	mte:Cc	in
+Celju	mte:Npnsl	Celje
+.	mte:Z	.
+Izdelek	mte:Ncmsan	izdelek
+vsebuje	mte:Vmpr3s	vsebovati
+več	mte:Rgc	več
+škodljivih	mte:Agpfpg	škodljiv
+snovi	mte:Ncfpg	snov
+,	mte:Z	,
+zato	mte:Cc	zato
+IVZ	mte:Ncfsn	IVZ
+njegovo	mte:Ps3fsasm	njegov
+uporabo	mte:Ncfsa	uporaba
+odsvetuje	mte:Vmpr3s	odsvetovati
+.	mte:Z	.
+V	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+so	mte:Va-r3p-n	biti
+zabeležili	mte:Vmep-pm	zabeležiti
+tudi	mte:Q	tudi
+primer	mte:Ncmsan	primer
+zastrupitve	mte:Ncfsg	zastrupitev
+.	mte:Z	.
+Natančne	mte:Agpmpa	natančen
+podatke	mte:Ncmpa	podatek
+,	mte:Z	,
+kje	mte:Rgp	kje
+vse	mte:Pg-nsn	ves
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+omenjeni	mte:Appmsny	omenjen
+izdelek	mte:Ncmsn	izdelek
+kupiti	mte:Vmen	kupiti
+,	mte:Z	,
+še	mte:Q	še
+zbirajo	mte:Vmpr3p	zbirati
+.	mte:Z	.
+Laboratorijske	mte:Agpfpa	laboratorijski
+analize	mte:Ncfpa	analiza
+,	mte:Z	,
+izvedene	mte:Appfpa	izveden
+v	mte:Sl	v
+Švici	mte:Npfsl	Švica
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sibirski	mte:Agpfsl	sibirski
+srčnici	mte:Ncfsl	srčnica
+(	mte:Z	(
+Leonurus	mte:Xf	leonurus
+sibiricus	mte:Ncmsn	sibiricus
+)	mte:Z	)
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sestavni	mte:Agpmsny	sestaven
+del	mte:Ncmsn	del
+zeliščne	mte:Agpfsg	zeliščen
+mešanice	mte:Ncfsg	mešanica
+v	mte:Sl	v
+izdelkih	mte:Ncmpl	izdelek
+Spice	mte:Npfsg	Spice
+,	mte:Z	,
+ugotovile	mte:Vmep-pf	ugotoviti
+prisotnost	mte:Ncfsa	prisotnost
+alkaloida	mte:Ncmsg	alkaloida
+leonurin	mte:Ncmpg	leonurina
+.	mte:Z	.
+V	mte:Sl	v
+vsaj	mte:Q	vsaj
+treh	mte:Mlcmpl	trije
+proizvodih	mte:Ncmpl	proizvod
+Spice	mte:Npfsn	Spice
+(	mte:Z	(
+gold	mte:Ncmsn	gold
+,	mte:Z	,
+silver	mte:Ncmsn	silver
+in	mte:Cc	in
+diamond	mte:Npmsn	diamond
+)	mte:Z	)
+so	mte:Va-r3p-n	biti
+prepoznali	mte:Vmep-pm	prepoznati
+tudi	mte:Q	tudi
+psihoaktivni	mte:Agpfpa	psihoaktiven
+snovi	mte:Ncfpa	snov
+,	mte:Z	,
+sintetična	mte:Agpmdn	sintetičen
+kanabinoida	mte:Ncmdn	kanabinoid
+JWH	mte:Npmsn	JWH
+-	mte:Z	-
+018	mte:Mdc	018
+in	mte:Cc	in
+CP	mte:Ncmsn	CP
+47	mte:Mdc	47
+-	mte:Z	-
+497	mte:Mdc	497
+.	mte:Z	.
+Po	mte:Sl	po
+nepreverjeni	mte:Agpfsl	nepreverjen
+informaciji	mte:Ncfsl	informacija
+,	mte:Z	,
+pridobljeni	mte:Appmpn	pridobljen
+na	mte:Sl	na
+spletnih	mte:Agpfpl	spleten
+straneh	mte:Ncfpl	stran
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+ameriški	mte:Agpmpn	ameriški
+mejni	mte:Agpmpn	mejen
+organi	mte:Ncmpn	organ
+v	mte:Sl	v
+izdelku	mte:Ncmsl	izdelek
+Spice	mte:Npfsn	Spice
+gold	mte:Npmsn	gold
+odkrili	mte:Vmep-pm	odkriti
+še	mte:Q	še
+tretjo	mte:Mlofsa	tretji
+sintetično	mte:Agpfsa	sintetičen
+snov	mte:Ncfsa	snov
+,	mte:Z	,
+HU	mte:Npmsn	HU
+-	mte:Z	-
+210	mte:Mdc	210
+.	mte:Z	.
+Center	mte:Ncmsn	center
+za	mte:Sa	za
+forenzične	mte:Agpfpa	forenzičen
+preiskave	mte:Ncfpa	preiskava
+z	mte:Sg	z
+generalne	mte:Agpfsg	generalen
+policijske	mte:Agpfsg	policijski
+uprave	mte:Ncfsg	uprava
+je	mte:Va-r3s-n	biti
+opravil	mte:Vmep-sm	opraviti
+analizo	mte:Ncfsa	analiza
+vsebnosti	mte:Ncfsg	vsebnost
+v	mte:Sl	v
+teh	mte:Pd-mpl	ta
+izdelkih	mte:Ncmpl	izdelek
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+na	mte:Sa	na
+prodaj	mte:Ncfsa	prodaja
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+in	mte:Cc	in
+potrdil	mte:Vmep-sm	potrditi
+prisotnost	mte:Ncfsa	prisotnost
+sintetičnega	mte:Agpmsg	sintetičen
+kanabinoida	mte:Ncmsg	kanabinoid
+,	mte:Z	,
+homologa	mte:Ncmsg	homol
+CP	mte:Npmsn	CP
+-	mte:Z	-
+47	mte:Mdc	47
+-	mte:Z	-
+497	mte:Mdc	497
+-	mte:Z	-
+C8	mte:Npmsn	C8
+.	mte:Z	.
+Prepoved	mte:Ncmsa	prepoved
+prodaje	mte:Ncfsg	prodaja
+izdelkov	mte:Ncmpg	izdelek
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Avstrija	mte:Npfsn	Avstrija
+in	mte:Cc	in
+Francija	mte:Npfsn	Francija
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+pripravile	mte:Vmep-pf	pripraviti
+zakonodajne	mte:Agpmpa	zakonodajen
+ukrepe	mte:Ncmpa	ukrep
+za	mte:Sa	za
+prepoved	mte:Ncfsa	prepoved
+oziroma	mte:Cc	oziroma
+nadzor	mte:Ncmsan	nadzor
+nad	mte:Si	nad
+izdelki	mte:Ncmpi	izdelek
+Spice	mte:Npfsg	Spice
+.	mte:Z	.
+V	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+so	mte:Va-r3p-n	biti
+7	mte:Mdc	7
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+letos	mte:Rgp	letos
+z	mte:Si	z
+direktivo	mte:Ncfsi	direktiva
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+zdravilih	mte:Ncnpl	zdravilo
+prepovedali	mte:Vmep-pm	prepovedati
+uvoz	mte:Ncmsan	uvoz
+ali	mte:Cc	ali
+trgovanje	mte:Ncnsa	trgovanje
+z	mte:Si	z
+mešanico	mte:Ncfsi	mešanica
+tobaka	mte:Ncmsg	tobak
+,	mte:Z	,
+ki	mte:Cs	ki
+vsebuje	mte:Vmpr3s	vsebovati
+JWH	mte:Npmsn	JWH
+-	mte:Z	-
+018	mte:Mdc	018
+.	mte:Z	.
+V	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+od	mte:Sg	od
+22	mte:Mdc	22
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+proizvodov	mte:Ncmpg	proizvod
+Spice	mte:Npfsg	Spice
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+mogoče	mte:Agpnsn	mogoč
+kupiti	mte:Vmen	kupiti
+(	mte:Z	(
+ne	mte:Q	ne
+na	mte:Sl	na
+internetu	mte:Ncmsl	internet
+ne	mte:Q	ne
+v	mte:Sl	v
+tako	mte:Rgp	tako
+imenovanih	mte:Appfpl	imenovan
+'	mte:Z	'
+headshops	mte:Ncmsn	headshops
+'	mte:Z	'
+)	mte:Z	)
+,	mte:Z	,
+prepovedane	mte:Appfpn	prepovedan
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+proizvodnja	mte:Ncfsn	proizvodnja
+,	mte:Z	,
+posest	mte:Ncfsn	posest
+in	mte:Cc	in
+pridobivanje	mte:Ncnsn	pridobivanje
+izdelkov	mte:Ncmpg	izdelek
+,	mte:Z	,
+ki	mte:Cs	ki
+vsebujejo	mte:Vmpr3p	vsebovati
+snovi	mte:Ncfpa	snov
+CP	mte:Npmsn	CP
+-	mte:Z	-
+47	mte:Mdc	47
+-	mte:Z	-
+497	mte:Mdc	497
+in	mte:Cc	in
+še	mte:Q	še
+štiri	mte:Mlcfpa	štirje
+iz	mte:Sg	iz
+homologne	mte:Agpfsg	homologen
+serije	mte:Ncfsg	serija
+(	mte:Z	(
+C6	mte:Npmsn	C6
+-	mte:Z	-
+C9	mte:Npmsn	C9
+)	mte:Z	)
+.	mte:Z	.
+Sintetične	mte:Agpmpa	sintetičen
+kanabinoide	mte:Ncmpa	kanabinoid
+JWH	mte:Npmsn	JWH
+-	mte:Z	-
+018	mte:Mdc	018
+,	mte:Z	,
+CP	mte:Ncmsn	CP
+-	mte:Z	-
+47	mte:Mdc	47
+in	mte:Cc	in
+šest	mte:Mlc-pa	šest
+homologov	mte:Ncmpg	homolog
+ter	mte:Cc	ter
+HU	mte:Npmsn	HU
+-	mte:Z	-
+210	mte:Mdc	210
+so	mte:Va-r3p-n	biti
+med	mte:Sa	med
+prepovedane	mte:Appfpa	prepovedan
+droge	mte:Ncfpa	droga
+23	mte:Mdc	23
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+letos	mte:Rgp	letos
+uvrstile	mte:Vmep-pf	uvrstiti
+tudi	mte:Q	tudi
+francoske	mte:Agpfpn	francoski
+oblasti	mte:Ncfpn	oblast
+.	mte:Z	.
+Tveganje	mte:Ncnsn	tveganje
+Spice	mte:Npfsg	Spice
+predstavlja	mte:Vmpr3s	predstavljati
+dvakratno	mte:Agpnsa	dvakraten
+tveganje	mte:Ncnsa	tveganje
+za	mte:Sa	za
+zdravje	mte:Ncnsa	zdravje
+:	mte:Z	:
+zaradi	mte:Sg	zaradi
+načina	mte:Ncmsg	način
+vnosa	mte:Ncmsg	vnos
+snovi	mte:Ncfsg	snov
+v	mte:Sa	v
+telo	mte:Ncnsa	telo
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+kajenjem	mte:Ncnsi	kajenje
+,	mte:Z	,
+in	mte:Cc	in
+zaradi	mte:Sg	zaradi
+psihoaktivnega	mte:Agpmsg	psihoaktiven
+učinka	mte:Ncmsg	učinek
+sintetičnih	mte:Agpmpg	sintetičen
+kanabinoidov	mte:Ncmpg	kanabinoid
+.	mte:Z	.
+Po	mte:Sl	po
+trenutno	mte:Rgp	trenutno
+razpoložljivih	mte:Agpmpl	razpoložljiv
+podatkih	mte:Ncmpl	podatek
+IVZ	mte:Ncfpg	IVZ
+,	mte:Z	,
+pridobljenih	mte:Appmpg	pridobljen
+iz	mte:Sg	iz
+primerov	mte:Ncmpg	primer
+zastrupitev	mte:Ncfpg	zastrupitev
+,	mte:Z	,
+uživanje	mte:Ncnsn	uživanje
+učinkuje	mte:Vmpr3s	učinkovati
+na	mte:Sa	na
+srčno	mte:Agpnsa	srčen
+-	mte:Z	-
+žilni	mte:Agpmsay	žilen
+in	mte:Cc	in
+živčni	mte:Agpmsay	živčen
+sistem	mte:Ncmsan	sistem
+(	mte:Z	(
+pojavijo	mte:Vmer3p	pojaviti
+se	mte:Px------y	se
+pospešeno	mte:Agpnsn	pospešeno
+bitje	mte:Ncnsn	bitje
+srca	mte:Ncnsg	srce
+,	mte:Z	,
+kratkotrajne	mte:Agpfsg	kratkotrajen
+izgube	mte:Ncfsg	izguba
+zavesti	mte:Ncfsg	zavest
+)	mte:Z	)
+.	mte:Z	.
+Psihoaktivni	mte:Agpmpn	psihoaktiven
+učinki	mte:Ncmpn	učinek
+pri	mte:Sl	pri
+človeku	mte:Ncmsl	človek
+so	mte:Va-r3p-n	biti
+podobni	mte:Agpmpn	podoben
+učinkom	mte:Ncmpd	učinek
+kanabisa	mte:Ncmsg	kanabis
+:	mte:Z	:
+evforija	mte:Ncfsn	evforija
+,	mte:Z	,
+sprostitev	mte:Ncfsn	sprostitev
+,	mte:Z	,
+večja	mte:Agcfsn	velik
+socializiranost	mte:Ncfsn	socializiranost
+,	mte:Z	,
+večja	mte:Agcfsn	velik
+intenzivnost	mte:Ncfsn	intenzivnost
+zaznavanja	mte:Ncnsg	zaznavanje
+,	mte:Z	,
+povečanje	mte:Ncnsn	povečanje
+teka	mte:Ncmsg	tek
+.	mte:Z	.
+Pri	mte:Sl	pri
+višjih	mte:Agcmpl	visok
+odmerkih	mte:Ncmpl	odmerek
+pa	mte:Cc	pa
+se	mte:Px------y	se
+pojavljajo	mte:Vmpr3p	pojavljati
+psihične	mte:Agpfpn	psihičen
+težave:motnje	mte:Ncfpn	težavelmotnja
+zaznavanja	mte:Ncnsg	zaznavanje
+in	mte:Cc	in
+depersonalizacija	mte:Ncfsn	depersonalizacija
+ali	mte:Cc	ali
+hujše	mte:Agcfpn	hud
+duševne	mte:Agpfpn	duševen
+motnje	mte:Ncfpn	motnja
+.	mte:Z	.
+Po	mte:Sl	po
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+ima	mte:Vmpr3s-n	imeti
+kajenje	mte:Ncnsa	kajenje
+pripravkov	mte:Ncmpg	pripravek
+Spice	mte:Npmsn	Spice
+podobne	mte:Agpmpa	podoben
+učinke	mte:Ncmpa	učinek
+na	mte:Sa	na
+dihalni	mte:Agpmsay	dihalen
+sistem	mte:Ncmsan	sistem
+kot	mte:Cs	kot
+kajenje	mte:Ncnsa	kajenje
+cigaret	mte:Ncfpg	cigaret
+tobaka	mte:Ncmsg	tobak
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+se	mte:Px------y	se
+razvijajo	mte:Vmpr3p	razvijati
+produkti	mte:Ncmpn	produkt
+pirolize	mte:Ncfsg	piroliza
+s	mte:Si	z
+plinsko	mte:Agpfsi	plinski
+fazo	mte:Ncfsi	faza
+(	mte:Z	(
+kemično	mte:Agpnsn	kemično
+in	mte:Cc	in
+toplotno	mte:Agpnsn	toplotno
+draženje	mte:Ncnsn	draženje
+,	mte:Z	,
+rakotvornost	mte:Ncfsn	rakotvornost
+)	mte:Z	)
+in	mte:Cc	in
+fazo	mte:Ncfsa	faza
+delcev	mte:Ncmpg	delec
+,	mte:Z	,
+ki	mte:Cs	ki
+vsebujejo	mte:Vmpr3p	vsebovati
+potencialno	mte:Agpfsa	potencialen
+rakotvorne	mte:Agpfpa	rakotvoren
+snovi	mte:Ncfpa	snov
+.	mte:Z	.
+Uporaba	mte:Ncfsn	uporaba
+sintetičnih	mte:Agpmpg	sintetičen
+kanabinoidov	mte:Ncmpg	kanabinoid
+vpliva	mte:Vmpr3s	vplivati
+na	mte:Sa	na
+psihomotorne	mte:Agpfpa	psihomotoren
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+kognitivne	mte:Agpfpa	kognitiven
+funkcije	mte:Ncfpa	funkcija
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+spremeni	mte:Vmer3s	spremeniti
+sporočila	mte:Ncnpa	sporočilo
+v	mte:Sl	v
+možganih	mte:Ncmpl	možgani
+,	mte:Z	,
+ki	mte:Cs	ki
+vplivajo	mte:Vmpr3p	vplivati
+na	mte:Sa	na
+zaznavanje	mte:Ncnsa	zaznavanje
+in	mte:Cc	in
+koordinacijo	mte:Ncfsa	koordinacija
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+vpliva	mte:Vmpr3s	vplivati
+na	mte:Sa	na
+vidno	mte:Agpnsa	vidno
+,	mte:Z	,
+slušno	mte:Agpnsa	slušen
+in	mte:Cc	in
+čutno	mte:Agpnsa	čuten
+zaznavanje	mte:Ncnsa	zaznavanje
+ter	mte:Cc	ter
+upočasni	mte:Vmer3s	upočasniti
+reflekse	mte:Ncmpa	refleksa
+.	mte:Z	.
+Zmes	mte:Ncfsa	zmes
+posušenih	mte:Appmpg	posušen
+rastlinskih	mte:Agpmpg	rastlinski
+delcev	mte:Ncmpg	delec
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+je	mte:Va-r3s-n	biti
+polnjena	mte:Appfsn	polnjen
+cigareta	mte:Ncfsn	cigaret
+Spice	mte:Npfsn	Spice
+.	mte:Z	.
+©	mte:Npmsn	©
+GPU	mte:Npmsn	GPU
+Primer	mte:Ncmsnn	primer
+zastrupitve	mte:Ncfsg	zastrupitev
+V	mte:Sl	v
+Centru	mte:Ncmsl	center
+za	mte:Sa	za
+zastrupitve	mte:Ncfpa	zastrupitev
+UKC	mte:Npfsg	UKC
+Ljubljana	mte:Npfsn	Ljubljana
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+IVZ	mte:Ncfpg	IVZ
+zaradi	mte:Sg	zaradi
+blažje	mte:Agcfsg	blag
+zastrupitve	mte:Ncfsg	zastrupitev
+s	mte:Si	z
+tovrstnim	mte:Agpmsi	tovrsten
+izdelkom	mte:Ncmsi	izdelek
+marca	mte:Ncmsg	marec
+letos	mte:Rgp	letos
+zdravili	mte:Vmpp-pm	zdravilo
+16	mte:Mdc	16
+-	mte:Z	-
+letnega	mte:Agpmsa	leten
+bolnika	mte:Ncmsay	bolnik
+.	mte:Z	.
+Spice	mte:Npmsn	Spice
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+kupil	mte:Vmep-sm	kupiti
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+kadil	mte:Vmpp-sm	kaditi
+.	mte:Z	.
+Bolnik	mte:Ncmsn	bolnik
+je	mte:Va-r3s-n	biti
+zanikal	mte:Vmep-sm	zanikati
+kajenje	mte:Ncnsa	kajenje
+marihuane	mte:Ncfsg	marihuana
+in	mte:Cc	in
+zaužitje	mte:Ncnsa	zaužitje
+ekstazija	mte:Ncfsg	ekstazija
+.	mte:Z	.
+Bil	mte:Va-p-sm	biti
+je	mte:Va-r3s-n	biti
+nemiren	mte:Agpmsnn	nemiren
+,	mte:Z	,
+bilo	mte:Va-p-sn	biti
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+slabo	mte:Agpnsn	slab
+,	mte:Z	,
+bruhal	mte:Vmpp-sm	bruhati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+se	mte:Px------y	se
+znojil	mte:Vmep-sm	znojiti
+in	mte:Cc	in
+tresel	mte:Vmpp-sm	tresti
+,	mte:Z	,
+srce	mte:Ncnsn	srce
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+bílo	mte:Vmpp-sn	biti
+hitro	mte:Agpnsn	hiter
+in	mte:Cc	in
+neredno	mte:Agpnsn	nereden
+.	mte:Z	.
+Vzorca	mte:Ncmsg	vzorec
+urina	mte:Ncmsg	urina
+in	mte:Cc	in
+krvi	mte:Ncfsg	kri
+sta	mte:Va-r3d-n	biti
+bila	mte:Va-p-dm	biti
+poslana	mte:Appmdn	poslan
+v	mte:Sa	v
+toksikološki	mte:Agpmsay	toksikološki
+laboratorij	mte:Ncmsan	laboratorij
+(	mte:Z	(
+Inštitut	mte:Ncmsn	inštitut
+za	mte:Sa	za
+sodno	mte:Agpfsa	soden
+medicino	mte:Ncfsa	medicina
+)	mte:Z	)
+,	mte:Z	,
+izvidov	mte:Ncmpg	izvid
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti

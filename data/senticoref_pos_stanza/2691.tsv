@@ -1,318 +1,334 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Nemški	Agpmsny
-avtomobilski	Agpmsny
-koncern	Ncmsn
-Daimler	Npmsn
-je	Va-r3s-n
-vstopil	Vmep-sm
-v	Sa
-lastništvo	Ncnsa
-ameriškega	Agpmsg
-proizvajalca	Ncmsg
-električnih	Agpmpg
-avtomobilov	Ncmpg
-Tesla	Npmsn
-Motors	Npmsn
-.	Z
-Proizvajalec	Ncmsn
-avtomobilskih	Agpfpg
-znamk	Ncfpg
-Mercedes	Npmsn
--	Z
-Benz	Npmsn
-in	Cc
-Smart	Npmsn
-je	Va-r3s-n
-za	Sa
-okoli	Rgp
-50	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-kupil	Vmep-sm
-desetodstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-ameriškem	Agpnsl
-podjetju	Ncnsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-med	Si
-drugim	Mlpnsi
-razvilo	Vmep-sn
-električni	Agpmsay
-športni	Agpmsay
-avtomobil	Ncmsan
-za	Sa
-dolge	Agpfpa
-proge	Ncfpa
-.	Z
-Daimler	Npmsn
-se	Px------y
-želi	Vmpr3s
-na	Sa
-ta	Pd-msa
-način	Ncmsan
-utrditi	Vmen
-na	Sl
-trgu	Ncmsl
-električnih	Agpmpg
-avtomobilov	Ncmpg
-,	Z
-ki	Cs
-se	Px------y
-mu	Pp3msd--y
-v	Sl
-prihodnosti	Ncfsl
-obeta	Vmpr3s
-razmah	Ncmsn
-.	Z
-"	Z
-Naše	Ps2nsnp
-strateško	Agpnsn
-partnerstvo	Ncnsn
-je	Va-r3s-n
-pomemben	Agpmsnn
-korak	Ncmsn
-k	Sd
-pospešitvi	Ncfsd
-globalne	Agpfsg
-komercializacije	Ncfsg
-električnih	Agpmpg
-motorjev	Ncmpg
-,	Z
-"	Z
-je	Va-r3s-n
-v	Sa
-torek	Ncmsan
-zvečer	Rgp
-v	Sl
-izjavi	Ncfsl
-povedal	Vmep-sm
-član	Ncmsn
-uprave	Ncfsg
-Daimlerja	Npmsg
-in	Cc
-vodja	Ncmsn
-oddelka	Ncmsg
-za	Sa
-raziskave	Ncfpa
-in	Cc
-razvoj	Ncmsn
-Thomas	Npmsn
-Weber	Npmsn
-.	Z
-Cilj	Ncmsn
-strateškega	Agpmsg
-dogovora	Ncmsg
-med	Si
-podjetjema	Ncndi
-je	Va-r3s-n
-po	Sl
-navedbah	Ncfpl
-Daimlerja	Npmsg
-tesnejše	Agcnsa
-sodelovanje	Ncnsa
-pri	Sl
-razvoju	Ncmsl
-električnih	Agpmpg
-motorjev	Ncmpg
-,	Z
-akumulatorjev	Ncmpg
-in	Cc
-nekaterih	Pi-npg
-vozil	Ncnpg
-na	Sa
-električni	Agpmsay
-pogon	Ncmsan
-.	Z
-Tesla	Npfsn
-Motors	Npmsn
-iz	Sg
-San	Npmsg
-Carlosa	Npmsg
-v	Sl
-Kaliforniji	Npfsl
-je	Va-r3s-n
-po	Sl
-navedbah	Ncfpl
-Daimlerja	Npmsg
-trenutno	Rgp
-edini	Agpmsny
-proizvajalec	Ncmsn
-,	Z
-ki	Cs
-s	Si
-svojim	Px-msi
-športnim	Agpmsi
-avtomobilom	Ncmsi
-tesla	Ncmsn
-roadster	Ncmsan
-in	Cc
-limuzino	Ncfsa
-model	Ncmsn
-S	Si
-lahko	Rgp
-ponudi	Vmer3s
-za	Sa
-dolge	Agpfpa
-proge	Ncfpa
-primerni	Agpmsay
-električni	Agpmsay
-vozilo	Ncnsa
-.	Z
-Model	Ncmsan
-S	Si
-ima	Vmpr3s-n
-z	Si
-enim	Mlpnsi
-polnjenjem	Ncnsi
-domet	Ncmsan
-480	Mdc
-kilometrov	Ncmpg
-.	Z
-Tesla	Npfsn
-Motros	Npmsn
-sicer	Q
-že	Q
-od	Sg
-leta	Ncnsg
-2004	Mdc
-razvija	Vmpr3s
-električne	Agpmpa
-avtomobile	Ncmpa
-.	Z
-Podjetji	Ncnpi
-sta	Va-r3d-n
-že	Q
-sklenili	Vmep-dm
-,	Z
-da	Cs
-bo	Va-f3s-n
-Tesla	Npfsn
-Motors	Npmsn
-razvil	Vmep-sm
-litij	Ncnsa
--	Z
-ionske	Agpmpa
-akumulatorje	Ncmpa
-za	Sa
-prvih	Mlonpg
-1000	Mdc
-električnih	Agpnpg
-vozil	Ncnpg
-smart	Ncmsn
-druge	Mlpfsg
-generacije	Ncfsg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-na	Sa
-trg	Ncmsan
-prišli	Vmep-pm
-konec	Sg
-leta	Ncnsg
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-naj	Q
-bi	Va-c
-Tesla	Npmsn
-Motors	Npmsn
-z	Si
-elektromotorji	Ncmpi
-opremil	Vmep-sm
-tudi	Q
-vozila	Ncnpa
-mercedes	Ncmsn
-A	Cc
-nove	Agpfpg
-generacije	Ncfpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-Daimler	Npmsn
-predstavil	Vmep-sm
-leta	Ncnsg
-2011	Mdc
-.	Z
-To	Pd-nsa
-so	Va-r3p-n
-sicer	Q
-zaenkrat	Rgp
-v	Sl
-nemškem	Agpmsl
-koncernu	Ncmsl
-zanikali	Vmep-pm
-.	Z
-Z	Si
-letom	Ncnsi
-2012	Mdc
-želi	Vmpr3s
-Daimler	Npmsn
-vozila	Ncnpg
-mercedes	Ncmsn
--	Z
-benz	Npmsn
-in	Cc
-smart	Ncmsa
-opremljati	Vmpn
-z	Si
-lastnimi	Agpnpi
-litij	Ncnpi
--	Z
-ionskimi	Agpmpi
-akumulatorji	Ncmpi
-.	Z
-V	Sa
-ta	Pd-msa
-namen	Ncmsan
-je	Va-r3s-n
-Daimler	Npmsn
-pred	Si
-kratkim	Agpnsi
-kupil	Vmep-sm
-delež	Ncmsan
-v	Sl
-nemškem	Agpnsl
-podjetju	Ncnsl
-Li	Npmsn
--	Z
-tec	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-ukvarja	Vmpr3s
-z	Si
-razvojem	Ncmsi
-tovrstne	Agpfsg
-tehnologije	Ncfsg
-.	Z
-Daimler	Npmsn
-je	Va-r3s-n
-septembra	Ncmsg
-lani	Rgp
-sklenil	Vmep-sm
-tudi	Q
-partnerstvo	Ncnsa
-z	Si
-nemškim	Agpmsi
-elektroenergetskim	Agpmsi
-koncernom	Ncmsi
-RWE	Npmsi
-,	Z
-s	Si
-katerim	Pq-msi
-naj	Q
-bi	Va-c
-razvili	Vmep-pm
-mrežo	Ncfsa
-polnilnih	Agpfpg
-postaj	Ncfpg
-v	Sl
-Berlinu	Npmsl
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Nemški	mte:Agpmsny	nemški
+avtomobilski	mte:Agpmsny	avtomobilski
+koncern	mte:Ncmsn	koncern
+Daimler	mte:Npmsn	Daimler
+je	mte:Va-r3s-n	biti
+vstopil	mte:Vmep-sm	vstopiti
+v	mte:Sa	v
+lastništvo	mte:Ncnsa	lastništvo
+ameriškega	mte:Agpmsg	ameriški
+proizvajalca	mte:Ncmsg	proizvajalec
+električnih	mte:Agpmpg	električen
+avtomobilov	mte:Ncmpg	avtomobil
+Tesla	mte:Npmsn	Tesla
+Motors	mte:Npmsn	Motors
+.	mte:Z	.
+Proizvajalec	mte:Ncmsn	proizvajalec
+avtomobilskih	mte:Agpfpg	avtomobilski
+znamk	mte:Ncfpg	znamka
+Mercedes	mte:Npmsn	Mercedes
+-	mte:Z	-
+Benz	mte:Npmsn	Benz
+in	mte:Cc	in
+Smart	mte:Npmsn	Smart
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+okoli	mte:Rgp	okoli
+50	mte:Mdc	50
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+kupil	mte:Vmep-sm	kupiti
+desetodstotni	mte:Agpmsay	desetodstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+ameriškem	mte:Agpnsl	ameriški
+podjetju	mte:Ncnsl	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+razvilo	mte:Vmep-sn	razviti
+električni	mte:Agpmsay	električen
+športni	mte:Agpmsay	športen
+avtomobil	mte:Ncmsan	avtomobil
+za	mte:Sa	za
+dolge	mte:Agpfpa	dolg
+proge	mte:Ncfpa	proga
+.	mte:Z	.
+Daimler	mte:Npmsn	Daimler
+se	mte:Px------y	se
+želi	mte:Vmpr3s	želeti
+na	mte:Sa	na
+ta	mte:Pd-msa	ta
+način	mte:Ncmsan	način
+utrditi	mte:Vmen	utrditi
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+električnih	mte:Agpmpg	električen
+avtomobilov	mte:Ncmpg	avtomobil
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+v	mte:Sl	v
+prihodnosti	mte:Ncfsl	prihodnost
+obeta	mte:Vmpr3s	obetati
+razmah	mte:Ncmsn	razmah
+.	mte:Z	.
+"	mte:Z	"
+Naše	mte:Ps2nsnp	naš
+strateško	mte:Agpnsn	strateški
+partnerstvo	mte:Ncnsn	partnerstvo
+je	mte:Va-r3s-n	biti
+pomemben	mte:Agpmsnn	pomemben
+korak	mte:Ncmsn	korak
+k	mte:Sd	k
+pospešitvi	mte:Ncfsd	pospešitev
+globalne	mte:Agpfsg	globalen
+komercializacije	mte:Ncfsg	komercializacija
+električnih	mte:Agpmpg	električen
+motorjev	mte:Ncmpg	motor
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+zvečer	mte:Rgp	zvečer
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+povedal	mte:Vmep-sm	povedati
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+Daimlerja	mte:Npmsg	Daimler
+in	mte:Cc	in
+vodja	mte:Ncmsn	vodja
+oddelka	mte:Ncmsg	oddelek
+za	mte:Sa	za
+raziskave	mte:Ncfpa	raziskava
+in	mte:Cc	in
+razvoj	mte:Ncmsn	razvoj
+Thomas	mte:Npmsn	Thomas
+Weber	mte:Npmsn	Weber
+.	mte:Z	.
+Cilj	mte:Ncmsn	cilj
+strateškega	mte:Agpmsg	strateški
+dogovora	mte:Ncmsg	dogovor
+med	mte:Si	med
+podjetjema	mte:Ncndi	podjetje
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Daimlerja	mte:Npmsg	Daimler
+tesnejše	mte:Agcnsa	tesen
+sodelovanje	mte:Ncnsa	sodelovanje
+pri	mte:Sl	pri
+razvoju	mte:Ncmsl	razvoj
+električnih	mte:Agpmpg	električen
+motorjev	mte:Ncmpg	motor
+,	mte:Z	,
+akumulatorjev	mte:Ncmpg	akumulator
+in	mte:Cc	in
+nekaterih	mte:Pi-npg	nekateri
+vozil	mte:Ncnpg	vozilo
+na	mte:Sa	na
+električni	mte:Agpmsay	električen
+pogon	mte:Ncmsan	pogon
+.	mte:Z	.
+Tesla	mte:Npfsn	Tesla
+Motors	mte:Npmsn	Motors
+iz	mte:Sg	iz
+San	mte:Npmsg	San
+Carlosa	mte:Npmsg	Carlos
+v	mte:Sl	v
+Kaliforniji	mte:Npfsl	Kalifornija
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Daimlerja	mte:Npmsg	Daimler
+trenutno	mte:Rgp	trenutno
+edini	mte:Agpmsny	edin
+proizvajalec	mte:Ncmsn	proizvajalec
+,	mte:Z	,
+ki	mte:Cs	ki
+s	mte:Si	z
+svojim	mte:Px-msi	svoj
+športnim	mte:Agpmsi	športen
+avtomobilom	mte:Ncmsi	avtomobil
+tesla	mte:Ncmsn	teslo
+roadster	mte:Ncmsan	roadster
+in	mte:Cc	in
+limuzino	mte:Ncfsa	limuzina
+model	mte:Ncmsn	model
+S	mte:Si	z
+lahko	mte:Rgp	lahko
+ponudi	mte:Vmer3s	ponuditi
+za	mte:Sa	za
+dolge	mte:Agpfpa	dolg
+proge	mte:Ncfpa	proga
+primerni	mte:Agpmsay	primeren
+električni	mte:Agpmsay	električen
+vozilo	mte:Ncnsa	vozilo
+.	mte:Z	.
+Model	mte:Ncmsan	model
+S	mte:Si	z
+ima	mte:Vmpr3s-n	imeti
+z	mte:Si	z
+enim	mte:Mlpnsi	en
+polnjenjem	mte:Ncnsi	polnjenje
+domet	mte:Ncmsan	domet
+480	mte:Mdc	480
+kilometrov	mte:Ncmpg	kilometer
+.	mte:Z	.
+Tesla	mte:Npfsn	Tesla
+Motros	mte:Npmsn	Motros
+sicer	mte:Q	sicer
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+razvija	mte:Vmpr3s	razvijati
+električne	mte:Agpmpa	električen
+avtomobile	mte:Ncmpa	avtomobil
+.	mte:Z	.
+Podjetji	mte:Ncnpi	podjetje
+sta	mte:Va-r3d-n	biti
+že	mte:Q	že
+sklenili	mte:Vmep-dm	skleniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Tesla	mte:Npfsn	Tesla
+Motors	mte:Npmsn	Motors
+razvil	mte:Vmep-sm	razviti
+litij	mte:Ncnsa	litje
+-	mte:Z	-
+ionske	mte:Agpmpa	ionski
+akumulatorje	mte:Ncmpa	akumulator
+za	mte:Sa	za
+prvih	mte:Mlonpg	prvi
+1000	mte:Mdc	1000
+električnih	mte:Agpnpg	električen
+vozil	mte:Ncnpg	vozilo
+smart	mte:Ncmsn	smart
+druge	mte:Mlpfsg	drug
+generacije	mte:Ncfsg	generacija
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+na	mte:Sa	na
+trg	mte:Ncmsan	trg
+prišli	mte:Vmep-pm	priti
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Tesla	mte:Npmsn	Tesla
+Motors	mte:Npmsn	Motors
+z	mte:Si	z
+elektromotorji	mte:Ncmpi	elektromotor
+opremil	mte:Vmep-sm	opremiti
+tudi	mte:Q	tudi
+vozila	mte:Ncnpa	vozilo
+mercedes	mte:Ncmsn	mercedes
+A	mte:Cc	a
+nove	mte:Agpfpg	nov
+generacije	mte:Ncfpg	generacija
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+Daimler	mte:Npmsn	Daimler
+predstavil	mte:Vmep-sm	predstaviti
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+zaenkrat	mte:Rgp	zaenkrat
+v	mte:Sl	v
+nemškem	mte:Agpmsl	nemški
+koncernu	mte:Ncmsl	koncern
+zanikali	mte:Vmep-pm	zanikati
+.	mte:Z	.
+Z	mte:Si	z
+letom	mte:Ncnsi	leto
+2012	mte:Mdc	2012
+želi	mte:Vmpr3s	želeti
+Daimler	mte:Npmsn	Daimler
+vozila	mte:Ncnpg	vozilo
+mercedes	mte:Npmsn	mercedes
+-	mte:Z	-
+benz	mte:Npmsn	benz
+in	mte:Cc	in
+smart	mte:Ncmsa	smart
+opremljati	mte:Vmpn	opremljati
+z	mte:Si	z
+lastnimi	mte:Agpnpi	lasten
+litij	mte:Ncnpi	litje
+-	mte:Z	-
+ionskimi	mte:Agpmpi	ionski
+akumulatorji	mte:Ncmpi	akumulator
+.	mte:Z	.
+V	mte:Sa	v
+ta	mte:Pd-msa	ta
+namen	mte:Ncmsan	namen
+je	mte:Va-r3s-n	biti
+Daimler	mte:Npmsn	Daimler
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+kupil	mte:Vmep-sm	kupiti
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+nemškem	mte:Agpnsl	nemški
+podjetju	mte:Ncnsl	podjetje
+Li	mte:Npmsn	Li
+-	mte:Z	-
+tec	mte:Npmsn	tec
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+ukvarja	mte:Vmpr3s	ukvarjati
+z	mte:Si	z
+razvojem	mte:Ncmsi	razvoj
+tovrstne	mte:Agpfsg	tovrsten
+tehnologije	mte:Ncfsg	tehnologija
+.	mte:Z	.
+Daimler	mte:Npmsn	Daimler
+je	mte:Va-r3s-n	biti
+septembra	mte:Ncmsg	september
+lani	mte:Rgp	lani
+sklenil	mte:Vmep-sm	skleniti
+tudi	mte:Q	tudi
+partnerstvo	mte:Ncnsa	partnerstvo
+z	mte:Si	z
+nemškim	mte:Agpmsi	nemški
+elektroenergetskim	mte:Agpmsi	elektroenergetski
+koncernom	mte:Ncmsi	koncern
+RWE	mte:Npmsi	RWE
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+razvili	mte:Vmep-pm	razviti
+mrežo	mte:Ncfsa	mreža
+polnilnih	mte:Agpfpg	polnilen
+postaj	mte:Ncfpg	postaja
+v	mte:Sl	v
+Berlinu	mte:Npmsl	Berlin
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+največje	mte:Agsnsn	velik
+tovrstno	mte:Agpnsn	tovrsten
+omrežje	mte:Ncnsn	omrežje
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+in	mte:Cc	in
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+začelo	mte:Vmep-sn	začeti
+delovati	mte:Vmpn	delovati
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto

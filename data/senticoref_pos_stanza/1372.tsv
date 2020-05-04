@@ -1,430 +1,436 @@
-token	tag
-Prvi	Mlomsn
-nadzornik	Ncmsn
-Pošte	Ncfsg
-Slovenije	Npfsg
-Klemen	Npmsn
-Grošelj	Npmsn
-in	Cc
-generalni	Agpmsny
-direktor	Ncmsn
-Aleš	Npmsn
-Hauc	Npmsn
-se	Px------y
-bosta	Va-f3d-n
-srečala	Vmep-dm
-prihodnji	Agpmsay
-teden	Ncmsan
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-pa	Cc
-bo	Va-f3s-n
-od	Sg
-vodstva	Ncnsg
-zahteval	Vmbp-sm
-pojasnila	Ncnpa
-glede	Sg
-nekaterih	Pi-npg
-preteklih	Appnpg
-dejanj	Ncnpg
-in	Cc
-ukrepov	Ncmpg
-za	Sa
-v	Sa
-prihodnje	Agpnsa
-.	Z
-Aleš	Npmsn
-Hauc	Npmsn
-Kot	Cs
-je	Va-r3s-n
-prvi	Mlomsn
-nadzornik	Ncmsn
-Pošte	Ncfsg
-Slovenije	Npfsg
-Klemen	Npmsn
-Grošelj	Npmsn
-zapisal	Vmep-sm
-v	Sl
-izjavi	Ncfsl
-za	Sa
-javnost	Ncfsa
-,	Z
-bo	Va-f3s-n
-nadzorni	Agpmsny
-svet	Ncmsn
-od	Sg
-poslovodstva	Ncnsg
-družbe	Ncfsg
-zahteval	Vmbp-sm
-natančna	Agpnpa
-pojasnila	Ncnpa
-glede	Sg
-izvajanja	Ncnsg
-postopkov	Ncmpg
-javnega	Agpnsg
-naročanja	Ncnsg
-pravnih	Agpnpg
-mnenj	Ncnpg
-v	Sl
-zvezi	Ncfsl
-s	Si
-plačo	Ncfsi
-poslovodstva	Ncnsg
-in	Cc
-imenovanjem	Ncnsi
-prokurista	Ncmsg
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-bo	Va-f3s-n
-zahteval	Vmbp-sm
-dodatna	Agpnpa
-pojasnila	Ncnpa
-v	Sl
-zvezi	Ncfsl
-s	Si
-postopki	Ncmpi
-in	Cc
-dejanji	Ncnpi
-nekaterih	Pi-mpg
-uslužbencev	Ncmpg
-Pošte	Ncfsg
-Slovenije	Npfsg
-glede	Sg
-sklepov	Ncmpg
-nadzornega	Agpmsg
-sveta	Ncmsg
-z	Sg
-dopisne	Agpfsg
-seje	Ncfsg
-17	Mdc
-.	Z
-decembra	Ncmsg
-.	Z
-Takrat	Rgp
-so	Va-r3p-n
-nadzorniki	Ncmpn
-za	Sa
-prokurista	Ncmsay
-družbe	Ncfsg
-imenovali	Vmbp-pm
-Matjaža	Npmsay
-Andrica	Npmsay
-,	Z
-ki	Cs
-bo	Va-f3s-n
-družbo	Ncfsa
-zastopal	Vmpp-sm
-pri	Sl
-sklepanju	Ncnsl
-vseh	Pg-mpg
-pravnih	Agpmpg
-poslov	Ncmpg
-.	Z
-Nadzorniki	Ncmpn
-bodo	Va-f3p-n
-od	Sg
-poslovodstva	Ncnsg
-na	Sl
-tej	Pd-fsl
-seji	Ncfsl
-zahtevali	Vmbp-pm
-tudi	Q
-pojasnila	Ncnpa
-v	Sl
-zvezi	Ncfsl
-s	Si
-poslovanjem	Ncnsi
-družbe	Ncfsg
-s	Si
-podjetjema	Ncndi
-,	Z
-ki	Cs
-sta	Va-r3d-n
-izdajali	Vmpp-df
-brezplačnika	Ncmsay
-Ekspres	Npmsn
-in	Cc
-Slovenski	Agpmsny
-tednik	Ncmsn
-,	Z
-zanima	Vmpr3s
-pa	Cc
-jih	Pp3mpa--y
-predvsem	Q
-to	Pd-nsn
-,	Z
-zakaj	Rgp
-niso	Va-r3p-y
-bila	Va-p-pn
-zahtevana	Appnpn
-dodatna	Agpnpn
-zavarovanja	Ncnpn
-posla	Ncmsg
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-postalo	Vmep-sn
-očitno	Agpnsn
-,	Z
-da	Cs
-izdajatelja	Ncmsg
-brezplačnikov	Ncmpg
-Zame	Pp1-sa--b
--	Z
-tek	Ncmsn
-in	Cc
-Progresija	Ncfsn
-kršita	Agpfsn
-dogovorjene	Appfpn
-pogodbene	Agpfpn
-obveznosti	Ncfpn
-.	Z
-Kot	Cs
-pravi	Vmbr3s
-Grošelj	Npmsn
-,	Z
-pa	Cc
-nadzorni	Agpmsny
-svet	Ncmsn
-od	Sg
-poslovodstva	Ncnsg
-pričakuje	Vmpr3s
-še	Q
-posebej	Rgp
-predstavitev	Ncfsa
-konkretnih	Agpmpg
-kratkoročnih	Agpmpg
-in	Cc
-dolgoročnih	Agpmpg
-ukrepov	Ncmpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-bo	Va-f3s-n
-zagotovljeno	Appnsn
-,	Z
-da	Cs
-bo	Va-f3s-n
-Pošta	Ncfsn
-Slovenije	Npfsg
-v	Sl
-poslovnem	Agpnsl
-letu	Ncnsl
-2011	Mdc
-dosegala	Vmpp-sf
-poslovne	Agpmpa
-rezultate	Ncmpa
-vsaj	Q
-na	Sl
-ravni	Ncfsl
-preteklih	Appnpg
-dveh	Mlcndg
-poslovnih	Agpndg
-let	Ncnpg
-,	Z
-upoštevajoč	Rr
-vse	Pg-fpa
-okoliščine	Ncfpa
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-nastopile	Vmep-pf
-v	Sl
-tem	Pd-nsl
-letu	Ncnsl
-,	Z
-še	Q
-posebej	Rgp
-popolno	Agpfsa
-liberalizacijo	Ncfsa
-poštnih	Agpfpg
-storitev	Ncfpg
-.	Z
-Polemika	Ncfsn
-škodi	Vmer3s
-ugledu	Ncmsd
-družbe	Ncfsg
-Kot	Cs
-navaja	Vmpr3s
-Grošelj	Npmsn
-,	Z
-sta	Va-r3d-n
-se	Px------y
-z	Si
-Alešem	Npmsi
-Haucem	Npmsi
-dogovorila	Vmep-dm
-,	Z
-da	Cs
-se	Px------y
-v	Sl
-prihodnjem	Agpmsl
-tednu	Ncmsl
-srečata	Vmer3d
-,	Z
-kot	Cs
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Pošte	Ncfsg
-Slovenije	Npfsg
-pa	Cc
-Grošelj	Npmsn
-s	Si
-tem	Pd-nsi
-tudi	Q
-prekinja	Vmpr3s
-javno	Agpfsa
-polemiko	Ncfsa
-,	Z
-ki	Cs
-po	Sl
-njegovih	Ps3fplsm
-navedbah	Ncfpl
-škodi	Vmbr3s
-ugledu	Ncmsd
-družbe	Ncfsg
-.	Z
-Grošelj	Npmsn
-bi	Va-c
-se	Px------y
-moral	Vmpp-sm
-v	Sl
-skladu	Ncmsl
-z	Si
-napovedmi	Ncfpi
-s	Si
-Haucem	Npmsi
-sestati	Vmen
-že	Q
-v	Sa
-ponedeljek	Ncmsan
-,	Z
-na	Sl
-tem	Pd-msl
-sestanku	Ncmsl
-pa	Cc
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-skušal	Vmpp-sm
-prepričati	Vmen
-v	Sa
-odstop	Ncmsan
-s	Sg
-položaja	Ncmsg
-.	Z
-Do	Sg
-sestanka	Ncmsg
-nato	Rgp
-ni	Va-r3s-y
-prišlo	Vmep-sn
-,	Z
-saj	Cc
-je	Va-r3s-n
-Hauc	Npmsn
-zaprosil	Vmep-sm
-za	Sa
-skupni	Agpmsay
-sestanek	Ncmsan
-obeh	Pg-mdg
-z	Si
-vodstvom	Ncnsi
-agencije	Ncfsg
-za	Sa
-upravljanje	Ncnsa
-kapitalskih	Agpfpg
-naložb	Ncfpg
-države	Ncfsg
-.	Z
-Vzroke	Ncmpa
-za	Sa
-zahtevo	Ncfsa
-po	Sl
-odhodu	Ncmsl
-Hauca	Npmsg
-gre	Vmbr3s
-najverjetneje	Rgs
-iskati	Vmpn
-med	Si
-vprašanji	Ncnpi
-,	Z
-o	Sl
-katerih	Pq-mpl
-bodo	Va-f3p-n
-nadzorniki	Ncmpn
-januarja	Ncmsg
-od	Sg
-poslovodstva	Ncnsg
-terjali	Vmpp-pm
-pojasnila	Ncnpa
-.	Z
-Grošelj	Npmsn
-je	Va-r3s-n
-namreč	Cc
-za	Sa
-časnik	Ncmsan
-Finance	Ncmpg
-izjavo	Ncfsa
-za	Sa
-javnost	Ncfsa
-napovedal	Vmep-sm
-že	Q
-za	Sa
-v	Sa
-ponedeljek	Ncmsan
-,	Z
-a	Cc
-je	Va-r3s-n
-nato	Rgp
-dejal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-mora	Vmpr3s
-o	Sl
-ugotovitvah	Ncfpl
-najprej	Rgs
-pogovoriti	Vmen
-z	Si
-ostalimi	Appmpi
-člani	Ncmpi
-nadzornega	Agpmsg
-sveta	Ncmsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-danes	Rgp
-pisal	Vmpp-sm
-časnik	Ncmsn
-Dnevnik	Ncmsn
-,	Z
-naj	Q
-bi	Va-c
-se	Px------y
-Grošelj	Npmsn
-v	Sa
-ponedeljek	Ncmsan
-sestal	Vmep-sm
-s	Si
-predstavniki	Ncmpi
-omenjene	Appfsg
-agencije	Ncfsg
-,	Z
-ti	Pd-mpn
-pa	Cc
-naj	Q
-bi	Va-c
-mu	Pp3msd--y
-očitali	Vmpp-pm
-prekoračitev	Ncfsa
-pooblastil	Ncnpg
-nadzornikov	Ncmpg
-pri	Sl
-imenovanju	Ncnsl
-prokurista	Ncmsg
-Andrica	Npmsg
-.	Z
+token	tag	lemma
+Prvi	mte:Mlomsn	prvi
+nadzornik	mte:Ncmsn	nadzornik
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+Klemen	mte:Npmsn	Klemen
+Grošelj	mte:Npmsn	Grošelj
+in	mte:Cc	in
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+Aleš	mte:Npmsn	Aleš
+Hauc	mte:Npmsn	Hauc
+se	mte:Px------y	se
+bosta	mte:Va-f3d-n	biti
+srečala	mte:Vmep-dm	srečati
+prihodnji	mte:Agpmsay	prihodnji
+teden	mte:Ncmsan	teden
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+od	mte:Sg	od
+vodstva	mte:Ncnsg	vodstvo
+zahteval	mte:Vmbp-sm	zahtevati
+pojasnila	mte:Ncnpa	pojasnilo
+glede	mte:Sg	glede
+nekaterih	mte:Pi-npg	nekateri
+preteklih	mte:Appnpg	pretekel
+dejanj	mte:Ncnpg	dejanje
+in	mte:Cc	in
+ukrepov	mte:Ncmpg	ukrep
+za	mte:Sa	za
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+.	mte:Z	.
+Aleš	mte:Npmsn	Aleš
+Hauc	mte:Npmsn	Hauc
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+prvi	mte:Mlomsn	prvi
+nadzornik	mte:Ncmsn	nadzornik
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+Klemen	mte:Npmsn	Klemen
+Grošelj	mte:Npmsn	Grošelj
+zapisal	mte:Vmep-sm	zapisati
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+od	mte:Sg	od
+poslovodstva	mte:Ncnsg	poslovodstvo
+družbe	mte:Ncfsg	družba
+zahteval	mte:Vmbp-sm	zahtevati
+natančna	mte:Agpnpa	natančen
+pojasnila	mte:Ncnpa	pojasnilo
+glede	mte:Sg	glede
+izvajanja	mte:Ncnsg	izvajanje
+postopkov	mte:Ncmpg	postopek
+javnega	mte:Agpnsg	javen
+naročanja	mte:Ncnsg	naročanje
+pravnih	mte:Agpnpg	praven
+mnenj	mte:Ncnpg	mnenje
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+plačo	mte:Ncfsi	plača
+poslovodstva	mte:Ncnsg	poslovodstvo
+in	mte:Cc	in
+imenovanjem	mte:Ncnsi	imenovanje
+prokurista	mte:Ncmsg	prokurist
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+bo	mte:Va-f3s-n	biti
+zahteval	mte:Vmbp-sm	zahtevati
+dodatna	mte:Agpnpa	dodaten
+pojasnila	mte:Ncnpa	pojasnilo
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+postopki	mte:Ncmpi	postopek
+in	mte:Cc	in
+dejanji	mte:Ncnpi	dejanje
+nekaterih	mte:Pi-mpg	nekateri
+uslužbencev	mte:Ncmpg	uslužbenec
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+glede	mte:Sg	glede
+sklepov	mte:Ncmpg	sklep
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+z	mte:Sg	z
+dopisne	mte:Agpfsg	dopisen
+seje	mte:Ncfsg	seja
+17	mte:Mdc	17
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+.	mte:Z	.
+Takrat	mte:Rgp	takrat
+so	mte:Va-r3p-n	biti
+nadzorniki	mte:Ncmpn	nadzornik
+za	mte:Sa	za
+prokurista	mte:Ncmsay	prokurist
+družbe	mte:Ncfsg	družba
+imenovali	mte:Vmbp-pm	imenovati
+Matjaža	mte:Npmsay	Matjaž
+Andrica	mte:Npmsay	Andrica
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+družbo	mte:Ncfsa	družba
+zastopal	mte:Vmpp-sm	zastopati
+pri	mte:Sl	pri
+sklepanju	mte:Ncnsl	sklepanje
+vseh	mte:Pg-mpg	ves
+pravnih	mte:Agpmpg	praven
+poslov	mte:Ncmpg	posel
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+bodo	mte:Va-f3p-n	biti
+od	mte:Sg	od
+poslovodstva	mte:Ncnsg	poslovodstvo
+na	mte:Sl	na
+tej	mte:Pd-fsl	ta
+seji	mte:Ncfsl	seja
+zahtevali	mte:Vmbp-pm	zahtevati
+tudi	mte:Q	tudi
+pojasnila	mte:Ncnpa	pojasnilo
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+poslovanjem	mte:Ncnsi	poslovanje
+družbe	mte:Ncfsg	družba
+s	mte:Si	z
+podjetjema	mte:Ncndi	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+izdajali	mte:Vmpp-df	izdajati
+brezplačnika	mte:Ncmsay	brezplačnik
+Ekspres	mte:Npmsn	Ekspres
+in	mte:Cc	in
+Slovenski	mte:Agpmsny	slovenski
+tednik	mte:Ncmsn	tednik
+,	mte:Z	,
+zanima	mte:Vmpr3s	zanimati
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+predvsem	mte:Q	predvsem
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+niso	mte:Va-r3p-y	biti
+bila	mte:Va-p-pn	biti
+zahtevana	mte:Appnpn	zahtevan
+dodatna	mte:Agpnpn	dodaten
+zavarovanja	mte:Ncnpn	zavarovanje
+posla	mte:Ncmsg	posel
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+postalo	mte:Vmep-sn	postati
+očitno	mte:Agpnsn	očiten
+,	mte:Z	,
+da	mte:Cs	da
+izdajatelja	mte:Ncmsg	izdajatelj
+brezplačnikov	mte:Ncmpg	brezplačnik
+Zame	mte:Pp1-sa--b	zame
+-	mte:Z	-
+tek	mte:Ncmsn	tek
+in	mte:Cc	in
+Progresija	mte:Ncfsn	progresija
+kršita	mte:Agpfsn	kršit
+dogovorjene	mte:Appfpn	dogovorjen
+pogodbene	mte:Agpfpn	pogodben
+obveznosti	mte:Ncfpn	obveznost
+.	mte:Z	.
+Kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+Grošelj	mte:Npmsn	Grošelj
+,	mte:Z	,
+pa	mte:Cc	pa
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+od	mte:Sg	od
+poslovodstva	mte:Ncnsg	poslovodstvo
+pričakuje	mte:Vmpr3s	pričakovati
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+predstavitev	mte:Ncfsa	predstavitev
+konkretnih	mte:Agpmpg	konkreten
+kratkoročnih	mte:Agpmpg	kratkoročen
+in	mte:Cc	in
+dolgoročnih	mte:Agpmpg	dolgoročen
+ukrepov	mte:Ncmpg	ukrep
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+bo	mte:Va-f3s-n	biti
+zagotovljeno	mte:Appnsn	zagotovljen
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Pošta	mte:Ncfsn	pošta
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+poslovnem	mte:Agpnsl	posloven
+letu	mte:Ncnsl	leto
+2011	mte:Mdc	2011
+dosegala	mte:Vmpp-sf	dosegati
+poslovne	mte:Agpmpa	posloven
+rezultate	mte:Ncmpa	rezultat
+vsaj	mte:Q	vsaj
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+preteklih	mte:Appnpg	pretekel
+dveh	mte:Mlcndg	dva
+poslovnih	mte:Agpndg	posloven
+let	mte:Ncnpg	leto
+,	mte:Z	,
+upoštevajoč	mte:Rr	upoštevajoč
+vse	mte:Pg-fpa	ves
+okoliščine	mte:Ncfpa	okoliščina
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+nastopile	mte:Vmep-pf	nastopiti
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+letu	mte:Ncnsl	leto
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+popolno	mte:Agpfsa	popoln
+liberalizacijo	mte:Ncfsa	liberalizacija
+poštnih	mte:Agpfpg	pošten
+storitev	mte:Ncfpg	storitev
+.	mte:Z	.
+Polemika	mte:Ncfsn	polemika
+škodi	mte:Vmer3s	škoditi
+ugledu	mte:Ncmsd	ugled
+družbe	mte:Ncfsg	družba
+Kot	mte:Cs	kot
+navaja	mte:Vmpr3s	navajati
+Grošelj	mte:Npmsn	Grošelj
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+z	mte:Si	z
+Alešem	mte:Npmsi	Aleš
+Haucem	mte:Npmsi	Hauce
+dogovorila	mte:Vmep-dm	dogovoriti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+v	mte:Sl	v
+prihodnjem	mte:Agpmsl	prihodnji
+tednu	mte:Ncmsl	teden
+srečata	mte:Vmer3d	srečati
+,	mte:Z	,
+kot	mte:Cs	kot
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Pošte	mte:Ncfsg	pošta
+Slovenije	mte:Npfsg	Slovenija
+pa	mte:Cc	pa
+Grošelj	mte:Npmsn	Grošelj
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+tudi	mte:Q	tudi
+prekinja	mte:Vmpr3s	prekinjati
+javno	mte:Agpfsa	javen
+polemiko	mte:Ncfsa	polemika
+,	mte:Z	,
+ki	mte:Cs	ki
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+navedbah	mte:Ncfpl	navedba
+škodi	mte:Vmbr3s	škoditi
+ugledu	mte:Ncmsd	ugled
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Grošelj	mte:Npmsn	Grošelj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+moral	mte:Vmpp-sm	morati
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+napovedmi	mte:Ncfpi	napoved
+s	mte:Si	z
+Haucem	mte:Npmsi	Hauce
+sestati	mte:Vmen	sestati
+že	mte:Q	že
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+,	mte:Z	,
+na	mte:Sl	na
+tem	mte:Pd-msl	ta
+sestanku	mte:Ncmsl	sestanek
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+skušal	mte:Vmpp-sm	skušati
+prepričati	mte:Vmen	prepričati
+v	mte:Sa	v
+odstop	mte:Ncmsan	odstop
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+.	mte:Z	.
+Do	mte:Sg	do
+sestanka	mte:Ncmsg	sestanka
+nato	mte:Rgp	nato
+ni	mte:Va-r3s-y	biti
+prišlo	mte:Vmep-sn	priti
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+Hauc	mte:Npmsn	Hauc
+zaprosil	mte:Vmep-sm	zaprositi
+za	mte:Sa	za
+skupni	mte:Agpmsay	skupen
+sestanek	mte:Ncmsan	sestanek
+obeh	mte:Pg-mdg	oba
+z	mte:Si	z
+vodstvom	mte:Ncnsi	vodstvo
+agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+države	mte:Ncfsg	država
+.	mte:Z	.
+Vzroke	mte:Ncmpa	vzrok
+za	mte:Sa	za
+zahtevo	mte:Ncfsa	zahteva
+po	mte:Sl	po
+odhodu	mte:Ncmsl	odhod
+Hauca	mte:Npmsg	Hauca
+gre	mte:Vmbr3s	iti
+najverjetneje	mte:Rgs	verjetno
+iskati	mte:Vmpn	iskati
+med	mte:Si	med
+vprašanji	mte:Ncnpi	vprašanje
+,	mte:Z	,
+o	mte:Sl	o
+katerih	mte:Pq-mpl	kateri
+bodo	mte:Va-f3p-n	biti
+nadzorniki	mte:Ncmpn	nadzornik
+januarja	mte:Ncmsg	januar
+od	mte:Sg	od
+poslovodstva	mte:Ncnsg	poslovodstvo
+terjali	mte:Vmpp-pm	terjati
+pojasnila	mte:Ncnpa	pojasnilo
+.	mte:Z	.
+Grošelj	mte:Npmsn	Grošelj
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+za	mte:Sa	za
+časnik	mte:Ncmsan	časnik
+Finance	mte:Ncmpg	finance
+izjavo	mte:Ncfsa	izjava
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+napovedal	mte:Vmep-sm	napovedati
+že	mte:Q	že
+za	mte:Sa	za
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+o	mte:Sl	o
+ugotovitvah	mte:Ncfpl	ugotovitev
+najprej	mte:Rgs	najprej
+pogovoriti	mte:Vmen	pogovoriti
+z	mte:Si	z
+ostalimi	mte:Appmpi	ostal
+člani	mte:Ncmpi	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+pisal	mte:Vmpp-sm	pisati
+časnik	mte:Ncmsn	časnik
+Dnevnik	mte:Ncmsn	dnevnik
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+Grošelj	mte:Npmsn	Grošelj
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+sestal	mte:Vmep-sm	sestati
+s	mte:Si	z
+predstavniki	mte:Ncmpi	predstavnik
+omenjene	mte:Appfsg	omenjen
+agencije	mte:Ncfsg	agencija
+,	mte:Z	,
+ti	mte:Pd-mpn	ta
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+mu	mte:Pp3msd--y	on
+očitali	mte:Vmpp-pm	očitati
+prekoračitev	mte:Ncfsa	prekoračitev
+pooblastil	mte:Ncnpg	pooblastilo
+nadzornikov	mte:Ncmpg	nadzornik
+pri	mte:Sl	pri
+imenovanju	mte:Ncnsl	imenovanje
+prokurista	mte:Ncmsg	prokurist
+Andrica	mte:Npmsg	Andrica
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+prekomerna	mte:Agpnpa	prekomeren
+pooblastila	mte:Ncnpa	pooblastilo

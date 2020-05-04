@@ -1,549 +1,568 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Za	Sa
-nakup	Ncmsan
-49	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-v	Sl
-Telekomu	Npmsl
-Slovenije	Npfsg
-se	Px------y
-za	Sa
-zdaj	Rgp
-zanima	Vmpr3s
-15	Mdc
-družb	Ncfpg
-,	Z
-med	Si
-katerimi	Pq-mpi
-so	Va-r3p-n
-tako	Rgp
-telekomunikacijska	Agpnpn
-podjetja	Ncnpn
-kot	Cs
-skladi	Ncmpn
-tveganega	Appmsg
-kapital	Ncmsn
-in	Cc
-holdinške	Agpfsg
-družbe	Ncfsg
-.	Z
-"	Z
-Veseli	Agpmpn
-smo	Va-r1p-n
-velikega	Agpmsg
-odziva	Ncmsg
-,	Z
-vendar	Cc
-za	Sa
-zdaj	Rgp
-še	Q
-ne	Q
-vemo	Vmpr1p
-,	Z
-ali	Rgp
-bodo	Va-f3p-n
-ti	Pd-mpn
-ponudniki	Ncmpn
-tudi	Q
-oddali	Vmep-pm
-kakovostne	Agpfpa
-ponudbe	Ncfpa
-,	Z
-"	Z
-je	Va-r3s-n
-za	Sa
-Dnevnik	Ncmsan
-povedal	Vmep-sm
-minister	Ncmsn
-za	Sa
-gospodarstvo	Ncnsa
-Andrej	Npmsn
-Vizjak	Npmsn
-.	Z
-"	Z
-Verjetno	Rgp
-se	Px------y
-bodo	Va-f3p-n
-na	Sa
-razpis	Ncmsan
-prijavili	Vmep-pm
-še	Q
-kakšni	Pq-mpn
-ponudniki	Ncmpn
-,	Z
-vlada	Ncfsn
-in	Cc
-privatizacijska	Agpfsn
-komisija	Ncfsn
-sta	Va-r3d-n
-dali	Vmep-dm
-jasno	Agpnsa
-vedeti	Vmpn
-,	Z
-da	Cs
-od	Sg
-kupca	Ncmsg
-Telekoma	Npmsg
-Slovenije	Npfsg
-pričakujeta	Vmpr3d
-,	Z
-da	Cs
-bo	Va-f3s-n
-sistem	Ncmsn
-razvijal	Vmpp-sm
-tudi	Q
-v	Sa
-prihodnje	Agpnsa
-.	Z
-"	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-bo	Va-f3s-n
-imela	Vmpp-sf
-pri	Sl
-izbiri	Ncfsl
-kupca	Ncmsg
-ključno	Agpfsa
-vlogo	Ncfsa
-tako	Rgp
-cena	Ncfsn
-kot	Cs
-izpolnjevanje	Ncnsn
-vseh	Pg-fpg
-zahtev	Ncfpg
-,	Z
-vendar	Cc
-status	Ncmsn
-ponudnika	Ncmsg
-ne	Q
-bo	Va-f3s-n
-omogočal	Vmpp-sm
-nobene	Pz-fsg
-prednosti	Ncfsg
-.	Z
-Komisija	Ncfsn
-za	Sa
-vodenje	Ncnsa
-in	Cc
-nadzor	Ncmsan
-postopka	Ncmsg
-prodaje	Ncfsg
-kapitalske	Agpfsg
-naložbe	Ncfsg
-države	Ncfsg
-v	Sl
-Telekom	Npmsl
-Slovenije	Npfsg
-je	Va-r3s-n
-status	Ncmsan
-registriranega	Appmsg
-ponudnika	Ncmsg
-za	Sa
-nakup	Ncmsan
-državnega	Agpmsg
-deleža	Ncmsg
-v	Sl
-nacionalnem	Agpmsl
-telefonskem	Agpmsl
-operaterju	Ncmsl
-dodelila	Vmep-sf
-:	Z
-ruskemu	Agpnsd
-podjetju	Ncnsd
-Sistema	Npmsg
-,	Z
-hrvaškemu	Agpmsd
-Telekomu	Npmsd
-,	Z
-madžarskemu	Agpmsd
-Magyar	Npmsn
-Telekom	Npmsn
-,	Z
-egiptovskemu	Agpmsd
-Telecom	Npmsn
-Egypt	Npmsn
-,	Z
-britanskemu	Agpmsd
-skladu	Ncmsd
-Providence	Npmsn
-Equity	Npmsn
-,	Z
-avstralski	Agpmsny
-Macquarie	Npmsn
-Bank	Npfpg
-,	Z
-islandski	Agpfsd
-Skipti	Ncfsd
-,	Z
-družbi	Ncfsd
-Oger	Npmsg
-Telecom	Npmsn
-iz	Sg
-Združenih	Appmpg
-arabskih	Agpmpg
-emiratov	Ncmpg
-,	Z
-luksemburško	Agpnsn
--	Z
-ameriški	Agpfsd
-družbi	Ncfsd
-CEP	Npmsn
-III	Mrc
-/	Z
-(	Z
-Carlyle	Npmsn
-)	Z
-,	Z
-britanskemu	Agpmsd
-ponudniku	Ncmsd
-Babcock	Npmsn
-$	Npmsn
-amp	Npmsn
-,	Z
-Brown	Npmsn
-,	Z
-luksemburškemu	Agpmsd
-Skywheelerju	Npmsd
-(	Z
-Permira	Npmsn
-)	Z
-,	Z
-britanski	Agpfsd
-družbi	Ncfsd
-Apax	Npmsn
-,	Z
-britansko	Agpnsn
--	Z
-nemškemu	Agpmsd
-konzorciju	Ncmsd
-Bain	Npmsn
-Capital	Npmsn
-$	Npmsn
-amp	Npmsn
-,	Z
-Axos	Npmsn
-Capital	Npmsn
-,	Z
-ameriški	Agpfsd
-družbi	Ncfsd
-SAC	Npmsn
-PCG	Npmsn
-LLP	Npmsn
-in	Cc
-Engrotušu	Npmsd
-kot	Cs
-edinemu	Agpmsd
-slovenskemu	Agpmsd
-ponudniku	Ncmsd
-.	Z
-Iz	Sg
-tabele	Ncfsg
-je	Va-r3s-n
-razvidno	Agpnsn
-,	Z
-da	Cs
-se	Px------y
-za	Sa
-Telekom	Npmsan
-večinoma	Rgp
-zanimajo	Vmpr3p
-večje	Agcfpn
-družbe	Ncfpn
-,	Z
-saj	Cc
-so	Va-r3p-n
-imeli	Vmpp-pm
-ponudniki	Ncmpn
-konec	Sg
-minulega	Appnsg
-leta	Ncnsg
-v	Sl
-povprečju	Ncnsl
-13	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-sredstev	Ncnpg
-,	Z
-dve	Mlcfda
-milijardi	Ncfda
-evrov	Ncmpg
-prihodkov	Ncmpg
-in	Cc
-344	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-dobička	Ncmsg
-.	Z
-Največji	Agsmsny
-med	Si
-ponudniki	Ncmpi
-,	Z
-za	Sa
-katere	Pq-mpa
-smo	Va-r1p-n
-uspeli	Vmep-pm
-zbrati	Vmen
-podatke	Ncmpa
-,	Z
-je	Va-r3s-n
-avstralska	Agpfsn
-banka	Ncfsn
-Macquarie	Npfsn
-Bank	Npfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-samo	Q
-lani	Rgp
-ustvarila	Vmep-sf
-malenkost	Ncfsa
-pod	Sa
-milijardo	Ncfsi
-evrov	Ncmpg
-čistega	Agpmsg
-dobička	Ncmsg
-.	Z
-Po	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-je	Va-r3s-n
-imel	Vmpp-sm
-konec	Sg
-minulega	Appnsg
-leta	Ncnsg
-po	Sl
-razpoložljivih	Agpmpl
-podatkih	Ncmpl
-najmanj	Rgs
-sredstev	Ncnpg
-Engrotuš	Npmsn
-Mirka	Npmsg
-Tuša	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-imel	Vmpp-sm
-tudi	Q
-najmanjši	Agsmsay
-čisti	Agpmsay
-dobiček	Ncmsan
-,	Z
-in	Cc
-sicer	Q
-zgolj	Q
-devet	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Telekom	Npmsn
-Slovenije	Npfsg
-je	Va-r3s-n
-bil	Va-p-sm
-včeraj	Rgp
-na	Sl
-borzi	Ncfsl
-vreden	Agpmsnn
-dobre	Agpfsg
-tri	Mlcfpa
-milijarde	Ncfpa
-evrov	Ncmpg
-,	Z
-delež	Ncmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-prodaja	Vmpr3s
-država	Ncfsn
-,	Z
-pa	Cc
-1,49	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Za	Sa
-primerjavo	Ncfsa
-:	Z
-lani	Rgp
-je	Va-r3s-n
-Telekom	Npmsn
-ustvaril	Vmep-sm
-vsega	Pg-msg
-100	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-čistega	Agpmsg
-dobička	Ncmsg
-,	Z
-sodeč	Rr
-po	Sl
-prvem	Mlonsl
-polletju	Ncnsl
-,	Z
-bodo	Va-f3p-n
-letošnji	Agpmpn
-rezultati	Ncmpn
-opazneje	Rgc
-slabši	Agcmpn
-kot	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-lanski	Agpmpn
-.	Z
-Prva	Mlofsn
-faza	Ncfsn
-odprodaje	Ncfsg
-49,1	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-bo	Va-f3s-n
-predvidoma	Rgp
-končana	Appfsn
-15	Mdc
-.	Z
-oktobra	Ncmsg
-,	Z
-ko	Cs
-bodo	Va-f3p-n
-morali	Vmpp-pm
-ponudniki	Ncmpn
-oddati	Vmen
-tudi	Q
-nezavezujoče	Appfpa
-ponudbe	Ncfpa
-.	Z
-Morebitni	Agpmsny
-kupec	Ncmsn
-bo	Va-f3s-n
-moral	Vmpp-sm
-po	Sl
-nakupu	Ncmsl
-državnega	Agpmsg
-deleža	Ncmsg
-objaviti	Vmen
-tudi	Q
-prevzemno	Agpfsa
-ponudbo	Ncfsa
-,	Z
-vendar	Cc
-je	Va-r3s-n
-kljub	Sd
-precejšnjemu	Agpnsd
-številu	Ncnsd
-ponudnikov	Ncmpg
-vprašanje	Ncnsn
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-prodaja	Ncfsn
-zaradi	Sg
-visoke	Agpfsg
-cene	Ncfsg
-delnice	Ncfsg
-Telekoma	Npmsg
-na	Sl
-borzi	Ncfsl
-tudi	Q
-dokončno	Rgp
-izpeljana	Appfsn
-.	Z
-Poznavalci	Ncmpn
-razmer	Ncfpg
-pojasnjujejo	Vmpr3p
-,	Z
-da	Cs
-veliko	Agpnsn
-zanimanje	Ncnsn
-za	Sa
-Telekom	Npmsan
-Slovenije	Npfsg
-niti	Q
-ni	Va-r3s-y
-presenetljivo	Agpnsn
-,	Z
-saj	Cc
-ima	Vmpr3s-n
-večina	Ncfsn
-telekomunikacijskih	Agpfpg
-družb	Ncfpg
-v	Sl
-Evropi	Npfsl
-že	Q
-večinskega	Agpmsa
-lastnika	Ncmsay
-oziroma	Cc
-je	Va-r3s-n
-njihovo	Ps3nsnp
-lastništvo	Ncnsa
-že	Q
-konsolidirano	Appnsn
-.	Z
-Za	Sa
-primerjavo	Ncfsa
-:	Z
-za	Sa
-nakup	Ncmsan
-malteškega	Agpmsg
-telekoma	Ncmsg
-pred	Si
-približno	Rgp
-dvema	Mlcndi
-letoma	Ncndi
-je	Va-r3s-n
-bilo	Va-p-sn
-ponudnikov	Ncmpg
-čez	Sa
-40	Mdc
-.	Z
-V	Sl
-drugi	Mlpfsl
-fazi	Ncfsl
-privatizacije	Ncfsg
-Telekoma	Npmsg
-Slovenije	Npfsg
-bodo	Va-f3p-n
-izbrane	Appmpa
-ponudnike	Ncmpa
-povabili	Vmep-pm
-,	Z
-da	Cs
-oddajo	Vmer3p
-še	Q
-zavezujoče	Appfpa
-ponudbe	Ncfpa
-,	Z
-komisija	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-poziv	Ncmsan
-objavila	Vmep-sf
-skupaj	Rgp
-z	Si
-ministrstvom	Ncnsi
-za	Sa
-gospodarstvo	Ncnsa
-,	Z
-si	Px---d--y
-pridržuje	Vmpr3s
-pravico	Ncfsa
-,	Z
-da	Cs
-se	Px------y
-odloči	Vmer3s
-za	Sa
-izvedbo	Ncfsa
-tretje	Mlofsg
-faze	Ncfsg
-postopka	Ncmsg
-,	Z
-torej	Rgp
-za	Sa
-licitacijo	Ncfsa
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+49	mte:Mdc	49
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+Telekomu	mte:Npmsl	Telekom
+Slovenije	mte:Npfsg	Slovenija
+se	mte:Px------y	se
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+zanima	mte:Vmpr3s	zanimati
+15	mte:Mdc	15
+družb	mte:Ncfpg	družba
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+telekomunikacijska	mte:Agpnpn	telekomunikacijski
+podjetja	mte:Ncnpn	podjetje
+kot	mte:Cs	kot
+skladi	mte:Ncmpn	sklad
+tveganega	mte:Appmsg	tvegan
+kapital	mte:Ncmsn	kapital
+in	mte:Cc	in
+holdinške	mte:Agpfsg	holdinški
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+"	mte:Z	"
+Veseli	mte:Agpmpn	vesel
+smo	mte:Va-r1p-n	biti
+velikega	mte:Agpmsg	velik
+odziva	mte:Ncmsg	odziv
+,	mte:Z	,
+vendar	mte:Cc	vendar
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+še	mte:Q	še
+ne	mte:Q	ne
+vemo	mte:Vmpr1p	vedeti
+,	mte:Z	,
+ali	mte:Rgp	ali
+bodo	mte:Va-f3p-n	biti
+ti	mte:Pd-mpn	ta
+ponudniki	mte:Ncmpn	ponudnik
+tudi	mte:Q	tudi
+oddali	mte:Vmep-pm	oddati
+kakovostne	mte:Agpfpa	kakovosten
+ponudbe	mte:Ncfpa	ponudba
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Dnevnik	mte:Ncmsan	dnevnik
+povedal	mte:Vmep-sm	povedati
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+Andrej	mte:Npmsn	Andrej
+Vizjak	mte:Npmsn	Vizjak
+.	mte:Z	.
+"	mte:Z	"
+Verjetno	mte:Rgp	verjetno
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+na	mte:Sa	na
+razpis	mte:Ncmsan	razpis
+prijavili	mte:Vmep-pm	prijaviti
+še	mte:Q	še
+kakšni	mte:Pq-mpn	kakšen
+ponudniki	mte:Ncmpn	ponudnik
+,	mte:Z	,
+vlada	mte:Ncfsn	vlada
+in	mte:Cc	in
+privatizacijska	mte:Agpfsn	privatizacijski
+komisija	mte:Ncfsn	komisija
+sta	mte:Va-r3d-n	biti
+dali	mte:Vmep-dm	dati
+jasno	mte:Agpnsa	jasen
+vedeti	mte:Vmpn	vedeti
+,	mte:Z	,
+da	mte:Cs	da
+od	mte:Sg	od
+kupca	mte:Ncmsg	kupec
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+pričakujeta	mte:Vmpr3d	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+sistem	mte:Ncmsn	sistem
+razvijal	mte:Vmpp-sm	razvijati
+tudi	mte:Q	tudi
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+.	mte:Z	.
+"	mte:Z	"
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+imela	mte:Vmpp-sf	imeti
+pri	mte:Sl	pri
+izbiri	mte:Ncfsl	izbira
+kupca	mte:Ncmsg	kupec
+ključno	mte:Agpfsa	ključen
+vlogo	mte:Ncfsa	vloga
+tako	mte:Rgp	tako
+cena	mte:Ncfsn	cena
+kot	mte:Cs	kot
+izpolnjevanje	mte:Ncnsn	izpolnjevanje
+vseh	mte:Pg-fpg	ves
+zahtev	mte:Ncfpg	zahteva
+,	mte:Z	,
+vendar	mte:Cc	vendar
+status	mte:Ncmsn	status
+ponudnika	mte:Ncmsg	ponudnik
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+omogočal	mte:Vmpp-sm	omogočati
+nobene	mte:Pz-fsg	noben
+prednosti	mte:Ncfsg	prednost
+.	mte:Z	.
+Komisija	mte:Ncfsn	komisija
+za	mte:Sa	za
+vodenje	mte:Ncnsa	vodenje
+in	mte:Cc	in
+nadzor	mte:Ncmsan	nadzor
+postopka	mte:Ncmsg	postopek
+prodaje	mte:Ncfsg	prodaja
+kapitalske	mte:Agpfsg	kapitalski
+naložbe	mte:Ncfsg	naložba
+države	mte:Ncfsg	država
+v	mte:Sl	v
+Telekom	mte:Npmsl	Telekom
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+status	mte:Ncmsan	status
+registriranega	mte:Appmsg	registriran
+ponudnika	mte:Ncmsg	ponudnik
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+državnega	mte:Agpmsg	državen
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+nacionalnem	mte:Agpmsl	nacionalen
+telefonskem	mte:Agpmsl	telefonski
+operaterju	mte:Ncmsl	operater
+dodelila	mte:Vmep-sf	dodeliti
+:	mte:Z	:
+ruskemu	mte:Agpnsd	ruski
+podjetju	mte:Ncnsd	podjetje
+Sistema	mte:Npmsg	Sistem
+,	mte:Z	,
+hrvaškemu	mte:Agpmsd	hrvaški
+Telekomu	mte:Npmsd	Telekom
+,	mte:Z	,
+madžarskemu	mte:Agpmsd	madžarski
+Magyar	mte:Npmsn	Magyar
+Telekom	mte:Npmsn	Telekom
+,	mte:Z	,
+egiptovskemu	mte:Agpmsd	egiptovski
+Telecom	mte:Npmsn	Telecom
+Egypt	mte:Npmsn	Egypt
+,	mte:Z	,
+britanskemu	mte:Agpmsd	britanski
+skladu	mte:Ncmsd	sklad
+Providence	mte:Npmsn	Providenca
+Equity	mte:Npmsn	Equity
+,	mte:Z	,
+avstralski	mte:Agpmsny	avstralski
+Macquarie	mte:Npmsn	Macquarie
+Bank	mte:Npfpg	Bank
+,	mte:Z	,
+islandski	mte:Agpfsd	islandski
+Skipti	mte:Ncfsd	skipt
+,	mte:Z	,
+družbi	mte:Ncfsd	družba
+Oger	mte:Npmsg	Oger
+Telecom	mte:Npmsn	Telecom
+iz	mte:Sg	iz
+Združenih	mte:Appmpg	združen
+arabskih	mte:Agpmpg	arabski
+emiratov	mte:Ncmpg	emirat
+,	mte:Z	,
+luksemburško	mte:Agpnsn	luksemburški
+-	mte:Z	-
+ameriški	mte:Agpfsd	ameriški
+družbi	mte:Ncfsd	družba
+CEP	mte:Npmsn	CEP
+III	mte:Mrc	III
+/	mte:Z	/
+(	mte:Z	(
+Carlyle	mte:Npmsn	Carlyle
+)	mte:Z	)
+,	mte:Z	,
+britanskemu	mte:Agpmsd	britanski
+ponudniku	mte:Ncmsd	ponudnik
+Babcock	mte:Npmsn	Babcock
+$	mte:Npmsn	$
+amp	mte:Npmsn	Ampe
+,	mte:Z	,
+Brown	mte:Npmsn	Brown
+,	mte:Z	,
+luksemburškemu	mte:Agpmsd	luksemburški
+Skywheelerju	mte:Npmsd	Skywheeler
+(	mte:Z	(
+Permira	mte:Npmsn	Permir
+)	mte:Z	)
+,	mte:Z	,
+britanski	mte:Agpfsd	britanski
+družbi	mte:Ncfsd	družba
+Apax	mte:Npmsn	Apax
+,	mte:Z	,
+britansko	mte:Agpnsn	britanski
+-	mte:Z	-
+nemškemu	mte:Agpmsd	nemški
+konzorciju	mte:Ncmsd	konzorcij
+Bain	mte:Npmsn	Bain
+Capital	mte:Npmsn	Capital
+$	mte:Npmsn	$
+amp	mte:Npmsn	Ampe
+,	mte:Z	,
+Axos	mte:Npmsn	Axos
+Capital	mte:Npmsn	Capital
+,	mte:Z	,
+ameriški	mte:Agpfsd	ameriški
+družbi	mte:Ncfsd	družba
+SAC	mte:Npmsn	SAC
+PCG	mte:Npmsn	PCG
+LLP	mte:Npmsn	LLP
+in	mte:Cc	in
+Engrotušu	mte:Npmsd	Engrotuš
+kot	mte:Cs	kot
+edinemu	mte:Agpmsd	edin
+slovenskemu	mte:Agpmsd	slovenski
+ponudniku	mte:Ncmsd	ponudnik
+.	mte:Z	.
+Iz	mte:Sg	iz
+tabele	mte:Ncfsg	tabela
+je	mte:Va-r3s-n	biti
+razvidno	mte:Agpnsn	razviden
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+za	mte:Sa	za
+Telekom	mte:Npmsan	Telekom
+večinoma	mte:Rgp	večinoma
+zanimajo	mte:Vmpr3p	zanimati
+večje	mte:Agcfpn	velik
+družbe	mte:Ncfpn	družba
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+ponudniki	mte:Ncmpn	ponudnik
+konec	mte:Sg	konec
+minulega	mte:Appnsg	minul
+leta	mte:Ncnsg	leto
+v	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+13	mte:Mdc	13
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+dve	mte:Mlcfda	dva
+milijardi	mte:Ncfda	milijarda
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+in	mte:Cc	in
+344	mte:Mdc	344
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+dobička	mte:Ncmsg	dobiček
+.	mte:Z	.
+Največji	mte:Agsmsny	velik
+med	mte:Si	med
+ponudniki	mte:Ncmpi	ponudnik
+,	mte:Z	,
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+smo	mte:Va-r1p-n	biti
+uspeli	mte:Vmep-pm	uspeti
+zbrati	mte:Vmen	zbrati
+podatke	mte:Ncmpa	podatek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+avstralska	mte:Agpfsn	avstralski
+banka	mte:Ncfsn	banka
+Macquarie	mte:Npfsn	Macquarie
+Bank	mte:Npfsg	Bank
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+lani	mte:Rgp	lani
+ustvarila	mte:Vmep-sf	ustvariti
+malenkost	mte:Ncfsa	malenkost
+pod	mte:Sa	pod
+milijardo	mte:Ncfsi	milijarda
+evrov	mte:Ncmpg	evro
+čistega	mte:Agpmsg	čist
+dobička	mte:Ncmsg	dobiček
+.	mte:Z	.
+Po	mte:Sl	po
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+konec	mte:Sg	konec
+minulega	mte:Appnsg	minul
+leta	mte:Ncnsg	leto
+po	mte:Sl	po
+razpoložljivih	mte:Agpmpl	razpoložljiv
+podatkih	mte:Ncmpl	podatek
+najmanj	mte:Rgs	najmanj
+sredstev	mte:Ncnpg	sredstvo
+Engrotuš	mte:Npmsn	Engrotuš
+Mirka	mte:Npmsg	Mirko
+Tuša	mte:Npmsg	Tuša
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+tudi	mte:Q	tudi
+najmanjši	mte:Agsmsay	majhen
+čisti	mte:Agpmsay	čist
+dobiček	mte:Ncmsan	dobiček
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+zgolj	mte:Q	zgolj
+devet	mte:Mlc-pa	devet
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+včeraj	mte:Rgp	včeraj
+na	mte:Sl	na
+borzi	mte:Ncfsl	borz
+vreden	mte:Agpmsnn	vreden
+dobre	mte:Agpfsg	dober
+tri	mte:Mlcfpa	trije
+milijarde	mte:Ncfpa	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+delež	mte:Ncmsn	delež
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+prodaja	mte:Vmpr3s	prodajati
+država	mte:Ncfsn	država
+,	mte:Z	,
+pa	mte:Cc	pa
+1,49	mte:Mdc	1,49
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Za	mte:Sa	za
+primerjavo	mte:Ncfsa	primerjava
+:	mte:Z	:
+lani	mte:Rgp	lani
+je	mte:Va-r3s-n	biti
+Telekom	mte:Npmsn	Telekom
+ustvaril	mte:Vmep-sm	ustvariti
+vsega	mte:Pg-msg	ves
+100	mte:Mdc	100
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+čistega	mte:Agpmsg	čist
+dobička	mte:Ncmsg	dobiček
+,	mte:Z	,
+sodeč	mte:Rr	sodeč
+po	mte:Sl	po
+prvem	mte:Mlonsl	prvi
+polletju	mte:Ncnsl	polletje
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+letošnji	mte:Agpmpn	letošnji
+rezultati	mte:Ncmpn	rezultat
+opazneje	mte:Rgc	opazno
+slabši	mte:Agcmpn	slab
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+lanski	mte:Agpmpn	lanski
+.	mte:Z	.
+Prva	mte:Mlofsn	prvi
+faza	mte:Ncfsn	faza
+odprodaje	mte:Ncfsg	odprodaja
+49,1	mte:Mdc	49,1
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+končana	mte:Appfsn	končan
+15	mte:Mdc	15
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+,	mte:Z	,
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+ponudniki	mte:Ncmpn	ponudnik
+oddati	mte:Vmen	oddati
+tudi	mte:Q	tudi
+nezavezujoče	mte:Appfpa	nezavezujoč
+ponudbe	mte:Ncfpa	ponudba
+.	mte:Z	.
+Morebitni	mte:Agpmsny	morebiten
+kupec	mte:Ncmsn	kupec
+bo	mte:Va-f3s-n	biti
+moral	mte:Vmpp-sm	morati
+po	mte:Sl	po
+nakupu	mte:Ncmsl	nakup
+državnega	mte:Agpmsg	državen
+deleža	mte:Ncmsg	delež
+objaviti	mte:Vmen	objaviti
+tudi	mte:Q	tudi
+prevzemno	mte:Agpfsa	prevzemen
+ponudbo	mte:Ncfsa	ponudba
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+kljub	mte:Sd	kljub
+precejšnjemu	mte:Agpnsd	precejšnji
+številu	mte:Ncnsd	število
+ponudnikov	mte:Ncmpg	ponudnik
+vprašanje	mte:Ncnsn	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+zaradi	mte:Sg	zaradi
+visoke	mte:Agpfsg	visok
+cene	mte:Ncfsg	cena
+delnice	mte:Ncfsg	delnica
+Telekoma	mte:Npmsg	Telekom
+na	mte:Sl	na
+borzi	mte:Ncfsl	borz
+tudi	mte:Q	tudi
+dokončno	mte:Rgp	dokončno
+izpeljana	mte:Appfsn	izpeljan
+.	mte:Z	.
+Poznavalci	mte:Ncmpn	poznavalec
+razmer	mte:Ncfpg	razmera
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+,	mte:Z	,
+da	mte:Cs	da
+veliko	mte:Agpnsn	velik
+zanimanje	mte:Ncnsn	zanimanje
+za	mte:Sa	za
+Telekom	mte:Npmsan	Telekom
+Slovenije	mte:Npfsg	Slovenija
+niti	mte:Q	niti
+ni	mte:Va-r3s-y	biti
+presenetljivo	mte:Agpnsn	presenetljiv
+,	mte:Z	,
+saj	mte:Cc	saj
+ima	mte:Vmpr3s-n	imeti
+večina	mte:Ncfsn	večina
+telekomunikacijskih	mte:Agpfpg	telekomunikacijski
+družb	mte:Ncfpg	družba
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+že	mte:Q	že
+večinskega	mte:Agpmsa	večinski
+lastnika	mte:Ncmsay	lastnik
+oziroma	mte:Cc	oziroma
+je	mte:Va-r3s-n	biti
+njihovo	mte:Ps3nsnp	njihov
+lastništvo	mte:Ncnsa	lastništvo
+že	mte:Q	že
+konsolidirano	mte:Appnsn	konsolidiran
+.	mte:Z	.
+Za	mte:Sa	za
+primerjavo	mte:Ncfsa	primerjava
+:	mte:Z	:
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+malteškega	mte:Agpmsg	malteški
+telekoma	mte:Ncmsg	teleko
+pred	mte:Si	pred
+približno	mte:Rgp	približno
+dvema	mte:Mlcndi	dva
+letoma	mte:Ncndi	leto
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+ponudnikov	mte:Ncmpg	ponudnik
+čez	mte:Sa	čez
+40	mte:Mdc	40
+.	mte:Z	.
+V	mte:Sl	v
+drugi	mte:Mlpfsl	drug
+fazi	mte:Ncfsl	faza
+privatizacije	mte:Ncfsg	privatizacija
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+bodo	mte:Va-f3p-n	biti
+izbrane	mte:Appmpa	izbran
+ponudnike	mte:Ncmpa	ponudnik
+povabili	mte:Vmep-pm	povabiti
+,	mte:Z	,
+da	mte:Cs	da
+oddajo	mte:Vmer3p	oddati
+še	mte:Q	še
+zavezujoče	mte:Appfpa	zavezujoč
+ponudbe	mte:Ncfpa	ponudba
+,	mte:Z	,
+komisija	mte:Ncfsn	komisija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+poziv	mte:Ncmsan	poziv
+objavila	mte:Vmep-sf	objaviti
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+ministrstvom	mte:Ncnsi	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+si	mte:Px---d--y	se
+pridržuje	mte:Vmpr3s	pridrževati
+pravico	mte:Ncfsa	pravica
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+odloči	mte:Vmer3s	odločiti
+za	mte:Sa	za
+izvedbo	mte:Ncfsa	izvedba
+tretje	mte:Mlofsg	tretji
+faze	mte:Ncfsg	faza
+postopka	mte:Ncmsg	postopek
+,	mte:Z	,
+torej	mte:Rgp	torej
+za	mte:Sa	za
+licitacijo	mte:Ncfsa	licitacija
+.	mte:Z	.
+Vizjak	mte:Npmsn	Vizjak
+napoveduje	mte:Vmpr3s	napovedovati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+lahko	mte:Rgp	lahko
+prodaja	mte:Ncfsn	prodaja
+državnega	mte:Agpmsg	državen
+deleža	mte:Ncmsg	delež
+Telekoma	mte:Npmsg	Telekom
+po	mte:Sl	po
+najboljšem	mte:Agsmsl	dober
+scenariju	mte:Ncmsl	scenarij
+končana	mte:Appfsn	končan
+že	mte:Q	že
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+leta	mte:Ncnsg	leto

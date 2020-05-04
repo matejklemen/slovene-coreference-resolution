@@ -1,493 +1,547 @@
-token	tag
-Posebni	Agpmsny
-davčni	Agpmsny
-urad	Ncmsn
-naj	Q
-bi	Va-c
-v	Sl
-družbi	Ncfsl
-SCT	Npmsn
-zaznal	Vmep-sm
-sistemske	Agpfpa
-oz	Ncfpg
-.	Z
-organizirane	Appfsg
-davčne	Agpfsg
-utaje	Ncfsg
-DDV	Ncmsg
-.	Z
-Missing	Npmsn
-trader	Ncmsn
-podjetje	Ncnsn
-je	Va-r3s-n
-po	Sl
-pojasnilih	Ncnpl
-Davčne	Agpfsg
-uprave	Ncfsg
-RS	Npfsg
-Durs	Npmsn
-eno	Mlpfsa
-iz	Sg
-skupine	Ncfsg
-podjetij	Ncnpg
-,	Z
-ki	Cs
-sodelujejo	Vmpr3p
-v	Sl
-izkoriščanju	Ncnsl
-sistema	Ncmsg
-obdavčitve	Ncfsg
-z	Si
-DDV	Ncmsi
-v	Sl
-obliki	Ncfsl
-ponavljajočih	Appmpg
-se	Px------y
-nakupov	Ncmpg
-in	Cc
-prodaj	Ncfsg
-.	Z
-Sistemske	Agpfsg
-oz	Ncfsg
-.	Z
-organizirane	Appfsg
-davčne	Agpfsg
-utaje	Ncfsg
-DDV	Ncmsg
-pa	Cc
-se	Px------y
-v	Sl
-strokovni	Agpfsl
-terminologiji	Ncfsl
-imenujejo	Vmbr3p
-davčni	Agpmpn
-vrtiljaki	Ncmpn
-oz	Ncmsg
-.	Z
-missing	Ncmsn
-trader	Ncmsn
-utaje	Ncfsg
-.	Z
-Davčni	Agpmpn
-inšpektorji	Ncmpn
-so	Va-r3p-n
-v	Sl
-postopku	Ncmsl
-inšpekcijskega	Agpmsg
-nadzora	Ncmsg
-v	Sl
-podjetju	Ncnsl
-SCT	Npmsn
-za	Sa
-obdobje	Ncnsa
-od	Sg
-začetka	Ncmsg
-leta	Ncnsg
-2004	Mdc
-do	Sg
-konca	Ncmsg
-leta	Ncnsg
-2006	Mdc
-odkrili	Vmep-pm
-poslovanje	Ncnsa
-z	Si
-več	Rgc
-pravnimi	Agpfpi
-osebami	Ncfpi
-,	Z
-ki	Cs
-po	Sl
-dosedanjih	Agpfpl
-ugotovitvah	Ncfpl
-predstavljajo	Vmpr3p
-missing	Ncmsan
-trader	Ncmsan
-podjetja	Ncnsg
-.	Z
-V	Sl
-SCT	Npmsl
-so	Va-r3p-n
-se	Px------y
-na	Sa
-odločbo	Ncfsa
-Dursa	Npmsg
-pritožili	Vmep-pm
-,	Z
-ker	Cs
-postopek	Ncmsn
-še	Q
-ni	Va-r3s-y
-zaključen	Appmsnn
-,	Z
-pa	Cc
-ga	Pp3msa--y
-ne	Q
-komentirajo	Vmbr3p
-.	Z
-Posebni	Agpmsny
-davčni	Agpmsny
-urad	Ncmsn
-je	Va-r3s-n
-v	Sl
-družbi	Ncfsl
-SCT	Npmsn
-opravil	Vmep-sm
-davčni	Agpmsay
-inšpekcijski	Agpmsay
-pregled	Ncmsan
-za	Sa
-leta	Ncnsg
-2004	Mdc
-,	Z
-2005	Mdc
-in	Cc
-2006	Mdc
-,	Z
-so	Va-r3p-n
-potrdili	Vmep-pm
-v	Sl
-SCT	Npmsan
-.	Z
-Zoper	Sa
-odločbo	Ncfsa
-Dursa	Npmsg
-so	Va-r3p-n
-vložili	Vmep-pm
-pritožbo	Ncfsa
-,	Z
-ki	Cs
-so	Va-r3p-n
-jo	Pp3fsa--y
-podkrepili	Vmep-pm
-z	Si
-mnenjem	Ncnsi
-stalnega	Agpmsg
-sodnega	Agpmsg
-izvedenca	Ncmsg
-in	Cc
-Inštituta	Ncmsg
-za	Sa
-primerjalno	Agpnsa
-pravo	Ncnsa
-pri	Sl
-Pravni	Agpfsl
-fakulteti	Ncfsl
-Univerze	Ncfsg
-v	Sl
-Ljubljani	Npfsl
-,	Z
-ki	Cs
-sta	Va-r3d-n
-pritrdila	Vmep-dm
-stališčem	Ncnsd
-družbe	Ncfsg
-SCT	Npmsn
-.	Z
-Ker	Cs
-postopek	Ncmsn
-še	Q
-ni	Va-r3s-y
-zaključen	Appmsnn
-,	Z
-ostalih	Appfpg
-stvari	Ncfpg
-ne	Q
-moremo	Vmpr1p
-komentirati	Vmbn
-,	Z
-so	Va-r3p-n
-zapisali	Vmep-pm
-.	Z
-Inšpektorji	Ncmpn
-so	Va-r3p-n
-v	Sl
-SCT	Npmsl
-po	Sl
-neuradnih	Agpfpl
-a	Cc
-zanesljivih	Agpfpl
-informacijah	Ncfpl
-za	Sa
-omenjeno	Appnsa
-obdobje	Ncnsa
-pregledali	Vmep-pm
-obračun	Ncmsan
-davka	Ncmsg
-od	Sg
-dobička	Ncmsg
-oz	Z
-.	Z
-od	Sg
-dohodka	Ncmsg
-pravnih	Agpfpg
-oseb	Ncfpg
-ter	Cc
-davkov	Ncmpg
-in	Cc
-prispevkov	Ncmpg
-od	Sg
-plač	Ncfpg
-in	Cc
-drugih	Mlpmpg
-osebnih	Agpmpg
-prejemkov	Ncmpg
-.	Z
-Poslovanje	Ncnsa
-z	Si
-missing	Ncmsi
-trader	Ncmsn
-podjetji	Ncnpi
-so	Va-r3p-n
-zaznali	Vmep-pm
-za	Sa
-leto	Ncnsa
-2006	Mdc
-,	Z
-večinoma	Rgp
-pa	Cc
-gre	Vmbr3s
-za	Sa
-podjetja	Ncnpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-ustanovila	Vmep-sf
-družba	Ncfsn
-Sinergo	Npmsn
-.	Z
-Pri	Sl
-tem	Pd-nsl
-se	Px------y
-zdi	Vmpr3s
-inšpektorjem	Ncmpd
-zanimivo	Agpnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-ta	Pd-fsn
-družba	Ncfsn
-ustanoviteljica	Ncfsn
-tudi	Q
-družbe	Ncfsg
-Glotis	Npfsn
-ter	Cc
-nekaj	Rgp
-odvisnih	Agpfpg
-družb	Ncfpg
-zavezanca	Ncmsg
-SCT	Npmsn
-IBK	Npmsn
-,	Z
-SCT	Npmsn
-NG	Npmsn
-,	Z
-SCT	Npmsn
-Novista	Npmsn
-,	Z
-SCT	Npmsn
-Primorska	Npfsn
-in	Cc
-drugih	Mlpmpg
-.	Z
-Glotis	Npfsn
-je	Va-r3s-n
-tudi	Q
-večinska	Agpfsn
-lastnica	Ncfsn
-družbe	Ncfsg
-Delfi	Npmsn
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-v	Sl
-lasti	Ncfsl
-SCT	Npmsn
-.	Z
-Kot	Cs
-so	Va-r3p-n
-ugotovili	Vmep-pm
-davčni	Agpmpn
-inšpektorji	Ncmpn
-,	Z
-se	Px------y
-večina	Ncfsn
-računov	Ncmpg
-s	Sg
-strani	Ncfsg
-missing	Ncmsn
-trader	Ncmsn
-podjetij	Ncnpg
-pojavlja	Vmpr3s
-pri	Sl
-izgradnji	Ncfsl
-lastne	Agpfsg
-investicije	Ncfsg
-betonarne	Agpfsg
-,	Z
-nekaj	Pi-nsn
-pa	Cc
-tudi	Q
-pri	Sl
-izgradnji	Ncfsl
-avtocest	Ncfpg
-.	Z
-Po	Sl
-okvirno	Rgp
-zaključenem	Appmsl
-davčnem	Agpmsl
-inšpekcijskem	Agpmsl
-nadzoru	Ncmsl
-za	Sa
-leti	Ncnpa
-2004	Mdc
-in	Cc
-2006	Mdc
-znaša	Vmpr3s
-skupni	Agpmsay
-znesek	Ncmsan
-transakcij	Ncfpg
-v	Sl
-poslovanju	Ncnsl
-z	Si
-navedenimi	Appfpi
-družbami	Ncfpi
-približno	Rgp
-230	Mdc
-milijonov	Ncmpg
-tolarjev	Ncmpg
-in	Cc
-71	Mdc
-milijonov	Ncmpg
-tolarjev	Ncmpg
-DDV	Ncmsg
-.	Z
-Kot	Cs
-danes	Rgp
-poroča	Vmpr3s
-Dnevnik	Ncmsn
-,	Z
-ki	Cs
-se	Px------y
-sklicuje	Vmpr3s
-na	Sa
-neuradne	Agpmpa
-vire	Ncmpa
-,	Z
-bo	Va-f3s-n
-moral	Vmpp-sm
-SCT	Npmsn
-državi	Ncfsl
-plačati	Vmen
-za	Sa
-približno	Rgp
-pet	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-zaostalih	Appfpg
-davčnih	Agpfpg
-obveznosti	Ncfpg
-.	Z
-Pri	Sl
-pregledu	Ncmsl
-poslovne	Agpfsg
-dokumentacije	Ncfsg
-so	Va-r3p-n
-inšpektorji	Ncmpn
-poleg	Sg
-tega	Pd-nsg
-ugotovili	Vmep-pm
-,	Z
-da	Cs
-velik	Agpmsan
-strošek	Ncmsnn
-v	Sl
-omenjenih	Appnpl
-treh	Mlcnpl
-letih	Ncnpl
-predstavljajo	Vmpr3p
-svetovalne	Agpfpa
-storitve	Ncfpa
-različnih	Agpnpg
-podjetij	Ncnpg
-izven	Sg
-Slovenije	Npfsg
-.	Z
-Ta	Pd-fsn
-so	Va-r3p-n
-SCT	Npmsn
-zaračunala	Vmep-pf
-svetovalne	Agpfpa
-storitve	Ncfpn
-ob	Sl
-sklicevanju	Ncnsl
-na	Sa
-pogodbe	Ncfpa
-,	Z
-v	Sl
-katerih	Pq-mpl
-pa	Cc
-ni	Va-r3s-y
-določenega	Appmsg
-nobenega	Pz-msg
-pogodbenega	Agpmsg
-zneska	Ncmsg
-.	Z
-Sporni	Agpmpn
-stroški	Ncmpn
-svetovalnih	Agpfpg
-storitev	Ncfpg
-v	Sl
-omenjenih	Appnpl
-treh	Mlcnpl
-letih	Ncnpl
-znašajo	Vmpr3p
-1,9	Mdc
-milijarde	Ncfsg
-tolarjev	Ncmpg
-,	Z
-po	Sl
-mnenju	Ncnsl
-inšpektorjev	Ncmpg
-pa	Cc
-obstaja	Vmpr3s
-sum	Ncmsn
-,	Z
-da	Cs
-so	Va-r3p-n
-ti	Pd-mpn
-stroški	Ncmpn
-fiktivni	Agpmpn
-oz	Ncmpn
-.	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-navidezne	Agpmpa
-posle	Ncmpa
-s	Si
-ciljem	Ncmsi
-odliva	Ncmsg
-sredstev	Ncnpg
-iz	Sg
-SCT	Npmsg
-.	Z
-Davčni	Agpmpn
-inšpektorji	Ncmpn
-so	Va-r3p-n
-lani	Rgp
-pregledali	Vmep-pm
-tudi	Q
-podjetje	Ncnsa
-Delfi	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-zdaj	Rgp
-100	Mdc
--	Z
-odstotni	Agpmsny
-lastnik	Ncmsn
-družbe	Ncfsg
-SCT	Npmsn
-.	Z
+token	tag	lemma
+Posebni	mte:Agpmsny	poseben
+davčni	mte:Agpmsny	davčen
+urad	mte:Ncmsn	urad
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+SCT	mte:Npmsn	SCT
+zaznal	mte:Vmep-sm	zaznati
+sistemske	mte:Agpfpa	sistemski
+oz	mte:Ncfpg	oz
+.	mte:Z	.
+organizirane	mte:Appfsg	organiziran
+davčne	mte:Agpfsg	davčen
+utaje	mte:Ncfsg	utaj
+DDV	mte:Ncmsg	DDV
+.	mte:Z	.
+Missing	mte:Npmsn	Missing
+trader	mte:Ncmsn	trader
+podjetje	mte:Ncnsn	podjetje
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+pojasnilih	mte:Ncnpl	pojasnilo
+Davčne	mte:Agpfsg	davčen
+uprave	mte:Ncfsg	uprava
+RS	mte:Npfsg	RS
+Durs	mte:Npmsn	Durs
+eno	mte:Mlpfsa	en
+iz	mte:Sg	iz
+skupine	mte:Ncfsg	skupina
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+sodelujejo	mte:Vmpr3p	sodelovati
+v	mte:Sl	v
+izkoriščanju	mte:Ncnsl	izkoriščanje
+sistema	mte:Ncmsg	sistem
+obdavčitve	mte:Ncfsg	obdavčitev
+z	mte:Si	z
+DDV	mte:Ncmsi	DDV
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+ponavljajočih	mte:Appmpg	ponavljajoč
+se	mte:Px------y	se
+nakupov	mte:Ncmpg	nakup
+in	mte:Cc	in
+prodaj	mte:Ncfsg	prodaja
+.	mte:Z	.
+Sistemske	mte:Agpfsg	sistemski
+oz	mte:Ncfsg	oz
+.	mte:Z	.
+organizirane	mte:Appfsg	organiziran
+davčne	mte:Agpfsg	davčen
+utaje	mte:Ncfsg	utaj
+DDV	mte:Ncmsg	DDV
+pa	mte:Cc	pa
+se	mte:Px------y	se
+v	mte:Sl	v
+strokovni	mte:Agpfsl	strokoven
+terminologiji	mte:Ncfsl	terminologija
+imenujejo	mte:Vmbr3p	imenovati
+davčni	mte:Agpmpn	davčen
+vrtiljaki	mte:Ncmpn	vrtiljak
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+missing	mte:Ncmsn	missing
+trader	mte:Ncmsn	trader
+utaje	mte:Ncfsg	utaj
+.	mte:Z	.
+Davčni	mte:Agpmpn	davčen
+inšpektorji	mte:Ncmpn	inšpektor
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+inšpekcijskega	mte:Agpmsg	inšpekcijski
+nadzora	mte:Ncmsg	nadzor
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+SCT	mte:Npmsn	SCT
+za	mte:Sa	za
+obdobje	mte:Ncnsa	obdobje
+od	mte:Sg	od
+začetka	mte:Ncmsg	začetek
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+leta	mte:Ncnsg	leto
+2006	mte:Mdc	2006
+odkrili	mte:Vmep-pm	odkriti
+poslovanje	mte:Ncnsa	poslovanje
+z	mte:Si	z
+več	mte:Rgc	več
+pravnimi	mte:Agpfpi	praven
+osebami	mte:Ncfpi	oseba
+,	mte:Z	,
+ki	mte:Cs	ki
+po	mte:Sl	po
+dosedanjih	mte:Agpfpl	dosedanji
+ugotovitvah	mte:Ncfpl	ugotovitev
+predstavljajo	mte:Vmpr3p	predstavljati
+missing	mte:Ncmsan	missing
+trader	mte:Ncmsan	trader
+podjetja	mte:Ncnsg	podjetje
+.	mte:Z	.
+V	mte:Sl	v
+SCT	mte:Npmsl	SCT
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+na	mte:Sa	na
+odločbo	mte:Ncfsa	odločba
+Dursa	mte:Npmsg	Durs
+pritožili	mte:Vmep-pm	pritožiti
+,	mte:Z	,
+ker	mte:Cs	ker
+postopek	mte:Ncmsn	postopek
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+zaključen	mte:Appmsnn	zaključen
+,	mte:Z	,
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+ne	mte:Q	ne
+komentirajo	mte:Vmbr3p	komentirati
+.	mte:Z	.
+Posebni	mte:Agpmsny	poseben
+davčni	mte:Agpmsny	davčen
+urad	mte:Ncmsn	urad
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+SCT	mte:Npmsn	SCT
+opravil	mte:Vmep-sm	opraviti
+davčni	mte:Agpmsay	davčen
+inšpekcijski	mte:Agpmsay	inšpekcijski
+pregled	mte:Ncmsan	pregled
+za	mte:Sa	za
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+,	mte:Z	,
+2005	mte:Mdc	2005
+in	mte:Cc	in
+2006	mte:Mdc	2006
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+potrdili	mte:Vmep-pm	potrditi
+v	mte:Sl	v
+SCT	mte:Npmsan	SCT
+.	mte:Z	.
+Zoper	mte:Sa	zoper
+odločbo	mte:Ncfsa	odločba
+Dursa	mte:Npmsg	Durs
+so	mte:Va-r3p-n	biti
+vložili	mte:Vmep-pm	vložiti
+pritožbo	mte:Ncfsa	pritožba
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jo	mte:Pp3fsa--y	on
+podkrepili	mte:Vmep-pm	podkrepiti
+z	mte:Si	z
+mnenjem	mte:Ncnsi	mnenje
+stalnega	mte:Agpmsg	stalen
+sodnega	mte:Agpmsg	soden
+izvedenca	mte:Ncmsg	izvedenca
+in	mte:Cc	in
+Inštituta	mte:Ncmsg	inštitut
+za	mte:Sa	za
+primerjalno	mte:Agpnsa	primerjalen
+pravo	mte:Ncnsa	pravo
+pri	mte:Sl	pri
+Pravni	mte:Agpfsl	praven
+fakulteti	mte:Ncfsl	fakulteta
+Univerze	mte:Ncfsg	univerza
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+pritrdila	mte:Vmep-dm	pritrditi
+stališčem	mte:Ncnsd	stališče
+družbe	mte:Ncfsg	družba
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Ker	mte:Cs	ker
+postopek	mte:Ncmsn	postopek
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+zaključen	mte:Appmsnn	zaključen
+,	mte:Z	,
+ostalih	mte:Appfpg	ostal
+stvari	mte:Ncfpg	stvar
+ne	mte:Q	ne
+moremo	mte:Vmpr1p	moči
+komentirati	mte:Vmbn	komentirati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+zapisali	mte:Vmep-pm	zapisati
+.	mte:Z	.
+Inšpektorji	mte:Ncmpn	inšpektor
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+SCT	mte:Npmsl	SCT
+po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+a	mte:Cc	a
+zanesljivih	mte:Agpfpl	zanesljiv
+informacijah	mte:Ncfpl	informacija
+za	mte:Sa	za
+omenjeno	mte:Appnsa	omenjen
+obdobje	mte:Ncnsa	obdobje
+pregledali	mte:Vmep-pm	pregledati
+obračun	mte:Ncmsan	obračun
+davka	mte:Ncmsg	davek
+od	mte:Sg	od
+dobička	mte:Ncmsg	dobiček
+oz	mte:Z	oz
+.	mte:Z	.
+od	mte:Sg	od
+dohodka	mte:Ncmsg	dohodek
+pravnih	mte:Agpfpg	praven
+oseb	mte:Ncfpg	oseba
+ter	mte:Cc	ter
+davkov	mte:Ncmpg	davek
+in	mte:Cc	in
+prispevkov	mte:Ncmpg	prispevek
+od	mte:Sg	od
+plač	mte:Ncfpg	plača
+in	mte:Cc	in
+drugih	mte:Mlpmpg	drug
+osebnih	mte:Agpmpg	oseben
+prejemkov	mte:Ncmpg	prejemek
+.	mte:Z	.
+Poslovanje	mte:Ncnsa	poslovanje
+z	mte:Si	z
+missing	mte:Ncmsi	missing
+trader	mte:Ncmsn	trader
+podjetji	mte:Ncnpi	podjetje
+so	mte:Va-r3p-n	biti
+zaznali	mte:Vmep-pm	zaznati
+za	mte:Sa	za
+leto	mte:Ncnsa	leto
+2006	mte:Mdc	2006
+,	mte:Z	,
+večinoma	mte:Rgp	večinoma
+pa	mte:Cc	pa
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+podjetja	mte:Ncnpa	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+ustanovila	mte:Vmep-sf	ustanoviti
+družba	mte:Ncfsn	družba
+Sinergo	mte:Npmsn	Sinerga
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+se	mte:Px------y	se
+zdi	mte:Vmpr3s	zdeti
+inšpektorjem	mte:Ncmpd	inšpektor
+zanimivo	mte:Agpnsn	zanimiv
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-fsn	ta
+družba	mte:Ncfsn	družba
+ustanoviteljica	mte:Ncfsn	ustanoviteljica
+tudi	mte:Q	tudi
+družbe	mte:Ncfsg	družba
+Glotis	mte:Npfsn	Glotis
+ter	mte:Cc	ter
+nekaj	mte:Rgp	nekaj
+odvisnih	mte:Agpfpg	odvisen
+družb	mte:Ncfpg	družba
+zavezanca	mte:Ncmsg	zavezanec
+SCT	mte:Npmsn	SCT
+IBK	mte:Npmsn	IBK
+,	mte:Z	,
+SCT	mte:Npmsn	SCT
+NG	mte:Npmsn	NG
+,	mte:Z	,
+SCT	mte:Npmsn	SCT
+Novista	mte:Npmsn	Novist
+,	mte:Z	,
+SCT	mte:Npmsn	SCT
+Primorska	mte:Npfsn	Primorska
+in	mte:Cc	in
+drugih	mte:Mlpmpg	drug
+.	mte:Z	.
+Glotis	mte:Npfsn	Glotis
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+večinska	mte:Agpfsn	večinski
+lastnica	mte:Ncfsn	lastnica
+družbe	mte:Ncfsg	družba
+Delfi	mte:Npmsn	Delf
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+ugotovili	mte:Vmep-pm	ugotoviti
+davčni	mte:Agpmpn	davčen
+inšpektorji	mte:Ncmpn	inšpektor
+,	mte:Z	,
+se	mte:Px------y	se
+večina	mte:Ncfsn	večina
+računov	mte:Ncmpg	račun
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+missing	mte:Ncmsn	missing
+trader	mte:Ncmsn	trader
+podjetij	mte:Ncnpg	podjetje
+pojavlja	mte:Vmpr3s	pojavljati
+pri	mte:Sl	pri
+izgradnji	mte:Ncfsl	izgradnja
+lastne	mte:Agpfsg	lasten
+investicije	mte:Ncfsg	investicija
+betonarne	mte:Agpfsg	betonaren
+,	mte:Z	,
+nekaj	mte:Pi-nsn	nekaj
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+izgradnji	mte:Ncfsl	izgradnja
+avtocest	mte:Ncfpg	avtocest
+.	mte:Z	.
+Po	mte:Sl	po
+okvirno	mte:Rgp	okvirno
+zaključenem	mte:Appmsl	zaključen
+davčnem	mte:Agpmsl	davčen
+inšpekcijskem	mte:Agpmsl	inšpekcijski
+nadzoru	mte:Ncmsl	nadzor
+za	mte:Sa	za
+leti	mte:Ncnpa	leto
+2004	mte:Mdc	2004
+in	mte:Cc	in
+2006	mte:Mdc	2006
+znaša	mte:Vmpr3s	znašati
+skupni	mte:Agpmsay	skupen
+znesek	mte:Ncmsan	znesek
+transakcij	mte:Ncfpg	transakcija
+v	mte:Sl	v
+poslovanju	mte:Ncnsl	poslovanje
+z	mte:Si	z
+navedenimi	mte:Appfpi	naveden
+družbami	mte:Ncfpi	družba
+približno	mte:Rgp	približno
+230	mte:Mdc	230
+milijonov	mte:Ncmpg	milijon
+tolarjev	mte:Ncmpg	tolar
+in	mte:Cc	in
+71	mte:Mdc	71
+milijonov	mte:Ncmpg	milijon
+tolarjev	mte:Ncmpg	tolar
+DDV	mte:Ncmsg	DDV
+.	mte:Z	.
+Kot	mte:Cs	kot
+danes	mte:Rgp	danes
+poroča	mte:Vmpr3s	poročati
+Dnevnik	mte:Ncmsn	dnevnik
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+sklicuje	mte:Vmpr3s	sklicevati
+na	mte:Sa	na
+neuradne	mte:Agpmpa	neuraden
+vire	mte:Ncmpa	vir
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+moral	mte:Vmpp-sm	morati
+SCT	mte:Npmsn	SCT
+državi	mte:Ncfsl	država
+plačati	mte:Vmen	plačati
+za	mte:Sa	za
+približno	mte:Rgp	približno
+pet	mte:Mlc-pa	pet
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+zaostalih	mte:Appfpg	zaostal
+davčnih	mte:Agpfpg	davčen
+obveznosti	mte:Ncfpg	obveznost
+.	mte:Z	.
+Pri	mte:Sl	pri
+pregledu	mte:Ncmsl	pregled
+poslovne	mte:Agpfsg	posloven
+dokumentacije	mte:Ncfsg	dokumentacija
+so	mte:Va-r3p-n	biti
+inšpektorji	mte:Ncmpn	inšpektor
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+ugotovili	mte:Vmep-pm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+velik	mte:Agpmsan	velik
+strošek	mte:Ncmsnn	strošek
+v	mte:Sl	v
+omenjenih	mte:Appnpl	omenjen
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+predstavljajo	mte:Vmpr3p	predstavljati
+svetovalne	mte:Agpfpa	svetovalen
+storitve	mte:Ncfpa	storitev
+različnih	mte:Agpnpg	različen
+podjetij	mte:Ncnpg	podjetje
+izven	mte:Sg	izven
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+so	mte:Va-r3p-n	biti
+SCT	mte:Npmsn	SCT
+zaračunala	mte:Vmep-pf	zaračunati
+svetovalne	mte:Agpfpa	svetovalen
+storitve	mte:Ncfpn	storitev
+ob	mte:Sl	ob
+sklicevanju	mte:Ncnsl	sklicevanje
+na	mte:Sa	na
+pogodbe	mte:Ncfpa	pogodba
+,	mte:Z	,
+v	mte:Sl	v
+katerih	mte:Pq-mpl	kateri
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+določenega	mte:Appmsg	določen
+nobenega	mte:Pz-msg	noben
+pogodbenega	mte:Agpmsg	pogodben
+zneska	mte:Ncmsg	znesek
+.	mte:Z	.
+Sporni	mte:Agpmpn	sporen
+stroški	mte:Ncmpn	strošek
+svetovalnih	mte:Agpfpg	svetovalen
+storitev	mte:Ncfpg	storitev
+v	mte:Sl	v
+omenjenih	mte:Appnpl	omenjen
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+znašajo	mte:Vmpr3p	znašati
+1,9	mte:Mdc	1,9
+milijarde	mte:Ncfsg	milijarda
+tolarjev	mte:Ncmpg	tolar
+,	mte:Z	,
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+inšpektorjev	mte:Ncmpg	inšpektor
+pa	mte:Cc	pa
+obstaja	mte:Vmpr3s	obstajati
+sum	mte:Ncmsn	sum
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+ti	mte:Pd-mpn	ta
+stroški	mte:Ncmpn	strošek
+fiktivni	mte:Agpmpn	fiktiven
+oz	mte:Ncmpn	oz
+.	mte:Z	.
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+navidezne	mte:Agpmpa	navidezen
+posle	mte:Ncmpa	posel
+s	mte:Si	z
+ciljem	mte:Ncmsi	cilj
+odliva	mte:Ncmsg	odliv
+sredstev	mte:Ncnpg	sredstvo
+iz	mte:Sg	iz
+SCT	mte:Npmsg	SCT
+.	mte:Z	.
+Davčni	mte:Agpmpn	davčen
+inšpektorji	mte:Ncmpn	inšpektor
+so	mte:Va-r3p-n	biti
+lani	mte:Rgp	lani
+pregledali	mte:Vmep-pm	pregledati
+tudi	mte:Q	tudi
+podjetje	mte:Ncnsa	podjetje
+Delfi	mte:Npmsn	Delf
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+100	mte:Mdc	100
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+lastnik	mte:Ncmsn	lastnik
+družbe	mte:Ncfsg	družba
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Inšpektorji	mte:Ncmpn	inšpektor
+so	mte:Va-r3p-n	biti
+ugotovili	mte:Vmep-pm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+družba	mte:Ncfsn	družba
+Delfi	mte:Npfsn	Delf
+ustanovljena	mte:Appfsn	ustanovljen
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+izključno	mte:Rgp	izključno
+zaradi	mte:Sg	zaradi
+lastninjenja	mte:Ncnsg	lastninjenje
+SCT	mte:Npmsn	SCT
+,	mte:Z	,
+družba	mte:Ncfsn	družba
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+delnice	mte:Ncfpa	delnica
+SCT	mte:Npmsn	SCT
+pridobivala	mte:Vmpp-sf	pridobivati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+najemala	mte:Vmpp-sf	najemati
+namenske	mte:Agpmpa	namenski
+kredite	mte:Ncmpa	kredite
+pri	mte:Sl	pri
+Novi	mte:Agpfsl	nov
+Ljubljanski	mte:Agpfsl	ljubljanski
+banki	mte:Ncfsl	banka
+in	mte:Cc	in
+jih	mte:Pp3fpa--y	on
+je	mte:Va-r3s-n	biti
+zavarovala	mte:Vmep-sf	zavarovati
+z	mte:Si	z
+vpisom	mte:Ncmsi	vpis
+zastavne	mte:Agpfsg	zastaven
+pravice	mte:Ncfsg	pravica
+na	mte:Sl	na
+delnicah	mte:Ncfpl	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+odkupljene	mte:Appfpn	odkupljen
+s	mte:Si	z
+temi	mte:Pd-mpi	ta
+krediti	mte:Ncmpi	kredit

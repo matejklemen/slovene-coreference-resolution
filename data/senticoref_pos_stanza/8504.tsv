@@ -1,273 +1,287 @@
-token	tag
-Nova	Agpfsn
-Slovenija	Npfsn
-je	Va-r3s-n
-podprla	Vmep-sf
-prizadevanja	Ncnpa
-ankaranske	Agpfsg
-civilne	Agpfsg
-iniciative	Ncfsg
-za	Sa
-ustanovitev	Ncfsa
-občine	Ncfsg
-Ankaran	Npmsn
-.	Z
-Koprski	Agpmpn
-občinski	Agpmpn
-svetniki	Ncmpn
-so	Va-r3p-n
-imeli	Vmpp-pm
-na	Sl
-dnevnem	Agpmsl
-redu	Ncmsl
-včerajšnje	Agpfsg
-seje	Ncfsg
-predlog	Ncmsan
-za	Sa
-začetek	Ncmsan
-postopka	Ncmsg
-za	Sa
-spremembo	Ncfsa
-območij	Ncnpg
-naselij	Ncnpg
-v	Sl
-občini	Ncfsl
-,	Z
-čemur	Cs
-nasprotujejo	Vmpr3p
-v	Sl
-krajevni	Agpfsl
-skupnosti	Ncfsl
-(	Z
-KS	Npmsn
-)	Z
-Ankaran	Npmsn
-.	Z
-"	Z
-Sprejeli	Vmep-pm
-smo	Va-r1p-n
-sklep	Ncmsan
-,	Z
-da	Cs
-smo	Va-r1p-n
-proti	Sd
-spreminjanju	Ncnsd
-meja	Ncfpg
-naselij	Ncnpg
-v	Sl
-koprski	Agpfsl
-občini	Ncfsl
-,	Z
-"	Z
-pravi	Vmbr3s
-Boštjan	Npmsn
-Hrabar	Npmsn
-,	Z
-novi	Agpmsny
-predsednik	Ncmsn
-ankaranske	Agpfsg
-KS	Npfsg
-.	Z
-Zdaj	Rgp
-bodo	Va-f3p-n
-počakali	Vmep-pm
-na	Sa
-odločitev	Ncfsa
-občinskih	Agpmpg
-svetnikov	Ncmpg
-.	Z
-"	Z
-S	Si
-pobudo	Ncfsi
-za	Sa
-ustanovitev	Ncfsa
-občine	Ncfsg
-Ankaran	Npmsn
-nismo	Va-r1p-y
-uradno	Rgp
-seznanjeni	Appmpn
-.	Z
-"	Z
-Mojca	Npfsn
-Beljan	Npfsn
-iz	Sg
-koprske	Agpfsg
-občine	Ncfsg
-Spor	Ncmsn
-zaradi	Sg
-pristanišča	Ncnsg
-Predlog	Ncmsn
-,	Z
-pod	Sa
-katerega	Pq-msa
-je	Va-r3s-n
-podpisan	Appmsnn
-koprski	Agpmsny
-župan	Ncmsn
-Boris	Npmsn
-Popovič	Npmsn
-,	Z
-predvideva	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-iz	Sg
-naselja	Ncnsg
-Ankaran	Npmsn
-administrativno	Rgp
-izloči	Vmer3s
-območje	Ncnsa
-koprskega	Agpnsg
-pristanišča	Ncnsg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-kot	Cs
-enotna	Agpfsn
-ekonomska	Agpfsn
-cona	Ncfsn
-spadalo	Vmpp-sn
-pod	Sa
-naselje	Ncnsa
-Koper	Npmsn
-.	Z
-Ankarančani	Npmpn
-se	Px------y
-bojijo	Vmpr3p
-predvsem	Q
-,	Z
-da	Cs
-ne	Q
-bi	Va-c
-imeli	Vmpp-pm
-več	Q
-besede	Ncfsg
-glede	Sg
-ekološke	Agpfsg
-problematike	Ncfsg
-in	Cc
-davščin	Ncfpg
-povezanih	Appnpg
-s	Si
-pristaniščem	Ncnsi
-,	Z
-kar	Pr-nsa
-je	Va-r3s-n
-za	Sa
-Žunal24	Mdc
-povedal	Vmep-sm
-že	Q
-Oliver	Npmsn
-Morgan	Npmsn
-,	Z
-eden	Mlpmsn
-izmed	Sg
-165	Mdc
-Ankarančanov	Npmpg
-,	Z
-ki	Cs
-bi	Va-c
-v	Sl
-primeru	Ncmsl
-spremembe	Ncfsg
-meja	Ncfpg
-naselij	Ncnpg
-"	Z
-postal	Vmep-sm
-"	Z
-Koprčan	Npmsn
-.	Z
-Morgan	Npmsn
-je	Va-r3s-n
-na	Sl
-ustavnem	Agpnsl
-sodišču	Ncnsl
-enkrat	Rgp
-že	Q
-dosegel	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-tak	Pd-msa
-občinski	Agpmsay
-odlok	Ncmsan
-razveljavili	Vmep-pm
-.	Z
-Poslanska	Agpfsn
-pobuda	Ncfsn
-NSi	Npfsg
-Anton	Npmsn
-Kokalj	Npmsn
-,	Z
-poslanec	Ncmsn
-NSi	Npfsg
-,	Z
-pa	Cc
-je	Va-r3s-n
-včeraj	Rgp
-presenetil	Vmep-sm
-z	Si
-vložitvijo	Ncfsi
-predloga	Ncmsg
-za	Sa
-začetek	Ncmsan
-postopka	Ncmsg
-za	Sa
-ustanovitev	Ncfsa
-občine	Ncfsg
-Ankaran	Npmsn
-,	Z
-ki	Cs
-bi	Va-c
-obsegala	Vmpp-sf
-meje	Ncfpa
-sedanje	Agpfsg
-krajevne	Agpfsg
-skupnosti	Ncfsg
-.	Z
-V	Sl
-NSi	Npfsl
-se	Px------y
-sklicujejo	Vmpr3p
-na	Sa
-prizadevanja	Ncnpa
-civilne	Agpfsg
-iniciative	Ncfsg
-,	Z
-vendar	Cc
-so	Va-r3p-n
-nam	Pp1-pd
-tako	Rgp
-v	Sl
-KS	Npmsl
-Ankaran	Npmsn
-kot	Cs
-tudi	Q
-Edi	Npmsn
-Pucer	Npmsn
-,	Z
-ki	Cs
-vodi	Vmpr3s
-Civilno	Agpfsa
-iniciativo	Ncfsa
-Ankaran	Npmsn
-–	Z
-ta	Pd-msn
-se	Px------y
-bori	Vmpr3s
-proti	Sd
-tretjemu	Mlomsd
-pomolu	Ncmsd
-v	Sl
-koprskem	Agpnsl
-pristanišču	Ncnsl
-,	Z
-zagotovili	Vmep-pm
-,	Z
-da	Cs
-s	Si
-pobudo	Ncfsi
-nimajo	Vmpr3p-y
-nič	Pz-nsa
-.	Z
+token	tag	lemma
+Nova	mte:Agpfsn	nov
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+podprla	mte:Vmep-sf	podpreti
+prizadevanja	mte:Ncnpa	prizadevanje
+ankaranske	mte:Agpfsg	ankaranski
+civilne	mte:Agpfsg	civilen
+iniciative	mte:Ncfsg	iniciativa
+za	mte:Sa	za
+ustanovitev	mte:Ncfsa	ustanovitev
+občine	mte:Ncfsg	občina
+Ankaran	mte:Npmsn	Ankaran
+.	mte:Z	.
+Koprski	mte:Agpmpn	koprski
+občinski	mte:Agpmpn	občinski
+svetniki	mte:Ncmpn	svetnik
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+na	mte:Sl	na
+dnevnem	mte:Agpmsl	dneven
+redu	mte:Ncmsl	red
+včerajšnje	mte:Agpfsg	včerajšnji
+seje	mte:Ncfsg	seja
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+postopka	mte:Ncmsg	postopek
+za	mte:Sa	za
+spremembo	mte:Ncfsa	sprememba
+območij	mte:Ncnpg	območje
+naselij	mte:Ncnpg	naselje
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+,	mte:Z	,
+čemur	mte:Cs	čemur
+nasprotujejo	mte:Vmpr3p	nasprotovati
+v	mte:Sl	v
+krajevni	mte:Agpfsl	krajeven
+skupnosti	mte:Ncfsl	skupnost
+(	mte:Z	(
+KS	mte:Npmsn	KS
+)	mte:Z	)
+Ankaran	mte:Npmsn	Ankaran
+.	mte:Z	.
+"	mte:Z	"
+Sprejeli	mte:Vmep-pm	sprejeti
+smo	mte:Va-r1p-n	biti
+sklep	mte:Ncmsan	sklep
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+proti	mte:Sd	proti
+spreminjanju	mte:Ncnsd	spreminjanje
+meja	mte:Ncfpg	meja
+naselij	mte:Ncnpg	naselje
+v	mte:Sl	v
+koprski	mte:Agpfsl	koprski
+občini	mte:Ncfsl	občina
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+Boštjan	mte:Npmsn	Boštjan
+Hrabar	mte:Npmsn	Hrabar
+,	mte:Z	,
+novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+ankaranske	mte:Agpfsg	ankaranski
+KS	mte:Npfsg	KS
+.	mte:Z	.
+Zdaj	mte:Rgp	zdaj
+bodo	mte:Va-f3p-n	biti
+počakali	mte:Vmep-pm	počakati
+na	mte:Sa	na
+odločitev	mte:Ncfsa	odločitev
+občinskih	mte:Agpmpg	občinski
+svetnikov	mte:Ncmpg	svetnik
+.	mte:Z	.
+"	mte:Z	"
+S	mte:Si	z
+pobudo	mte:Ncfsi	pobuda
+za	mte:Sa	za
+ustanovitev	mte:Ncfsa	ustanovitev
+občine	mte:Ncfsg	občina
+Ankaran	mte:Npmsn	Ankaran
+nismo	mte:Va-r1p-y	biti
+uradno	mte:Rgp	uradno
+seznanjeni	mte:Appmpn	seznanjen
+.	mte:Z	.
+"	mte:Z	"
+Mojca	mte:Npfsn	Mojca
+Beljan	mte:Npfsn	Beljan
+iz	mte:Sg	iz
+koprske	mte:Agpfsg	koprski
+občine	mte:Ncfsg	občina
+Spor	mte:Ncmsn	spor
+zaradi	mte:Sg	zaradi
+pristanišča	mte:Ncnsg	pristanišče
+Predlog	mte:Ncmsn	predlog
+,	mte:Z	,
+pod	mte:Sa	pod
+katerega	mte:Pq-msa	kateri
+je	mte:Va-r3s-n	biti
+podpisan	mte:Appmsnn	podpisan
+koprski	mte:Agpmsny	koprski
+župan	mte:Ncmsn	župan
+Boris	mte:Npmsn	Boris
+Popovič	mte:Npmsn	Popovič
+,	mte:Z	,
+predvideva	mte:Vmpr3s	predvidevati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+iz	mte:Sg	iz
+naselja	mte:Ncnsg	naselje
+Ankaran	mte:Npmsn	Ankaran
+administrativno	mte:Rgp	administrativno
+izloči	mte:Vmer3s	izločiti
+območje	mte:Ncnsa	območje
+koprskega	mte:Agpnsg	koprski
+pristanišča	mte:Ncnsg	pristanišče
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+kot	mte:Cs	kot
+enotna	mte:Agpfsn	enoten
+ekonomska	mte:Agpfsn	ekonomski
+cona	mte:Ncfsn	cona
+spadalo	mte:Vmpp-sn	spadati
+pod	mte:Sa	pod
+naselje	mte:Ncnsa	naselje
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Ankarančani	mte:Npmpn	Ankarančan
+se	mte:Px------y	se
+bojijo	mte:Vmpr3p	bati
+predvsem	mte:Q	predvsem
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+imeli	mte:Vmpp-pm	imeti
+več	mte:Q	več
+besede	mte:Ncfsg	beseda
+glede	mte:Sg	glede
+ekološke	mte:Agpfsg	ekološki
+problematike	mte:Ncfsg	problematika
+in	mte:Cc	in
+davščin	mte:Ncfpg	davščina
+povezanih	mte:Appnpg	povezan
+s	mte:Si	z
+pristaniščem	mte:Ncnsi	pristanišče
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Žunal24	mte:Mdc	žunal24
+povedal	mte:Vmep-sm	povedati
+že	mte:Q	že
+Oliver	mte:Npmsn	Oliver
+Morgan	mte:Npmsn	Morgan
+,	mte:Z	,
+eden	mte:Mlpmsn	eden
+izmed	mte:Sg	izmed
+165	mte:Mdc	165
+Ankarančanov	mte:Npmpg	Ankarančan
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+spremembe	mte:Ncfsg	sprememba
+meja	mte:Ncfpg	meja
+naselij	mte:Ncnpg	naselje
+"	mte:Z	"
+postal	mte:Vmep-sm	postati
+"	mte:Z	"
+Koprčan	mte:Npmsn	Koprčan
+.	mte:Z	.
+Morgan	mte:Npmsn	Morgan
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+ustavnem	mte:Agpnsl	ustaven
+sodišču	mte:Ncnsl	sodišče
+enkrat	mte:Rgp	enkrat
+že	mte:Q	že
+dosegel	mte:Vmep-sm	doseči
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+tak	mte:Pd-msa	tak
+občinski	mte:Agpmsay	občinski
+odlok	mte:Ncmsan	odlok
+razveljavili	mte:Vmep-pm	razveljaviti
+.	mte:Z	.
+Poslanska	mte:Agpfsn	poslanski
+pobuda	mte:Ncfsn	pobud
+NSi	mte:Npfsg	NSi
+Anton	mte:Npmsn	Anton
+Kokalj	mte:Npmsn	Kokalj
+,	mte:Z	,
+poslanec	mte:Ncmsn	poslanec
+NSi	mte:Npfsg	NSi
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+presenetil	mte:Vmep-sm	presenetiti
+z	mte:Si	z
+vložitvijo	mte:Ncfsi	vložitev
+predloga	mte:Ncmsg	predlog
+za	mte:Sa	za
+začetek	mte:Ncmsan	začetek
+postopka	mte:Ncmsg	postopek
+za	mte:Sa	za
+ustanovitev	mte:Ncfsa	ustanovitev
+občine	mte:Ncfsg	občina
+Ankaran	mte:Npmsn	Ankaran
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+obsegala	mte:Vmpp-sf	obsegati
+meje	mte:Ncfpa	meja
+sedanje	mte:Agpfsg	sedanji
+krajevne	mte:Agpfsg	krajeven
+skupnosti	mte:Ncfsg	skupnost
+.	mte:Z	.
+V	mte:Sl	v
+NSi	mte:Npfsl	NSi
+se	mte:Px------y	se
+sklicujejo	mte:Vmpr3p	sklicevati
+na	mte:Sa	na
+prizadevanja	mte:Ncnpa	prizadevanje
+civilne	mte:Agpfsg	civilen
+iniciative	mte:Ncfsg	iniciativa
+,	mte:Z	,
+vendar	mte:Cc	vendar
+so	mte:Va-r3p-n	biti
+nam	mte:Pp1-pd	jaz
+tako	mte:Rgp	tako
+v	mte:Sl	v
+KS	mte:Npmsl	KS
+Ankaran	mte:Npmsn	Ankaran
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+Edi	mte:Npmsn	Edi
+Pucer	mte:Npmsn	Pucer
+,	mte:Z	,
+ki	mte:Cs	ki
+vodi	mte:Vmpr3s	voditi
+Civilno	mte:Agpfsa	civilen
+iniciativo	mte:Ncfsa	iniciativo
+Ankaran	mte:Npmsn	Ankaran
+–	mte:Z	–
+ta	mte:Pd-msn	ta
+se	mte:Px------y	se
+bori	mte:Vmpr3s	boreti
+proti	mte:Sd	proti
+tretjemu	mte:Mlomsd	tretji
+pomolu	mte:Ncmsd	pomol
+v	mte:Sl	v
+koprskem	mte:Agpnsl	koprski
+pristanišču	mte:Ncnsl	pristanišče
+,	mte:Z	,
+zagotovili	mte:Vmep-pm	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+s	mte:Si	z
+pobudo	mte:Ncfsi	pobuda
+nimajo	mte:Vmpr3p-y	imeti
+nič	mte:Pz-nsa	nič
+.	mte:Z	.
+Izkazalo	mte:Vmep-sn	izkazati
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+za	mte:Si	za
+njo	mte:Pp3fsi	on
+stoji	mte:Vmpr3s	stati
+Ankarančan	mte:Npmsn	Ankarančan
+Gregor	mte:Npmsn	Gregor
+Strmčnik	mte:Npmsn	Strmčnik
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa

@@ -1,221 +1,263 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-Abanke	Npfsg
-Vipe	Npmsn
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-za	Sa
-novega	Agpmsa
-predsednika	Ncmsay
-uprave	Ncfsg
-imenoval	Vmbp-sm
-Jožeta	Npmsay
-Leniča	Npmsay
-.	Z
-Ta	Pd-msn
-bo	Va-f3s-n
-vodilno	Agpnsa
-mesto	Ncnsa
-v	Sl
-upravi	Ncfsl
-prevzel	Vmep-sm
-po	Sl
-pridobitvi	Ncfsl
-dovoljena	Appfsn
-Banke	Ncfsg
-Slovenije	Npfsg
-,	Z
-vendar	Cc
-ne	Q
-pred	Si
-1	Mdc
-.	Z
-januarjem	Ncmsi
-2011	Mdc
-.	Z
-Člana	Ncmsg
-uprave	Ncfsg
-ostajata	Vmpr3d
-Radovan	Npmsn
-Jereb	Npmsn
-in	Cc
-Gregor	Npmsn
-Hudobivnik	Npmsn
-.	Z
-Nadzorniki	Ncmpn
-so	Va-r3p-n
-tako	Rgp
-zaključili	Vmep-pm
-postopek	Ncmsan
-za	Sa
-dopolnitev	Ncfsa
-uprave	Ncfsg
-banke	Ncfsg
-,	Z
-so	Va-r3p-n
-prek	Sg
-spletnih	Agpfpg
-strani	Ncfpg
-Ljubljanske	Agpfsg
-borze	Ncfsg
-sporočili	Vmep-pm
-iz	Sg
-tretje	Mlofsg
-največje	Agsfsg
-banke	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Ta	Pd-msa
-postopek	Ncmsan
-so	Va-r3p-n
-nadzorniki	Ncmpn
-sprožili	Vmep-pm
-,	Z
-potem	Rgp
-ko	Cs
-Matej	Npmsn
-Narat	Npmsn
-iz	Sg
-NLB	Npfsg
-,	Z
-njihov	Ps3msnp
-kandidat	Ncmsn
-za	Sa
-prvega	Mlomsa
-moža	Ncmsay
-banke	Ncfsg
-,	Z
-ni	Va-r3s-y
-dobil	Vmep-sm
-dovoljenja	Ncnsg
-Banke	Ncfsg
-Slovenije	Npfsg
-za	Sa
-opravljanje	Ncnsa
-te	Pd-fsg
-funkcije	Ncfsg
-.	Z
-Abanko	Ncfsa
-od	Sg
-konca	Ncmsg
-aprila	Ncmsg
-vodi	Vmpr3s
-dvočlanska	Agpfsn
-uprava	Ncfsn
-pod	Si
-Jerebovim	Aspnsi
-vodstvom	Ncnsi
-,	Z
-saj	Cc
-je	Va-r3s-n
-takrat	Rgp
-dotedanji	Agpmsny
-prvi	Mlomsn
-mož	Ncmsn
-Abanke	Npfsg
-Aleš	Npmsn
-Žajdela	Npmsn
-tragično	Rgp
-preminil	Vmep-sm
-v	Sl
-prometni	Agpfsl
-nesreči	Ncfsl
-.	Z
-Jože	Npmsn
-Lenič	Npmsn
-,	Z
-magister	Ncmsn
-mednarodne	Agpfsg
-ekonomije	Ncfsg
-,	Z
-univerzitetni	Agpmsny
-diplomirani	Appmsny
-geograf	Ncmsn
-in	Cc
-profesor	Ncmsn
-geologije	Ncfsg
-,	Z
-je	Va-r3s-n
-poslovno	Agpfsa
-pot	Ncfsa
-začel	Vmep-sm
-v	Sl
-zasebnem	Agpnsl
-podjetju	Ncnsl
-Oikos	Ncmsn
-in	Cc
-jo	Pp3fsa--y
-nadaljeval	Vmpp-sm
-kot	Cs
-predsednik	Ncmsn
-izvršnega	Agpmsg
-sveta	Ncmsg
-Občine	Ncfsg
-Domžale	Npfpn
-.	Z
-Od	Sg
-decembra	Ncmsg
-1992	Mdc
-do	Sg
-januarja	Ncmsg
-2000	Mdc
-je	Va-r3s-n
-bil	Va-p-sm
-poslanec	Ncmsn
-DZ	Npmsg
-.	Z
-Deloval	Vmpp-sm
-je	Va-r3s-n
-kot	Cs
-svetovalec	Ncmsn
-uprave	Ncfsg
-SKB	Npfsg
-banke	Ncfsg
-in	Cc
-več	Rgc
-let	Ncnpg
-kot	Cs
-predsednik	Ncmsn
-uprave	Ncfsg
-vodil	Vmpp-sm
-Kapitalsko	Agpfsa
-družbo	Ncfsa
-.	Z
-Od	Sg
-decembra	Ncmsg
-2003	Mdc
-do	Sg
-junija	Ncmsg
-2005	Mdc
-je	Va-r3s-n
-bil	Va-p-sm
-predsednik	Ncmsn
-uprave	Ncfsg
-Zavarovalnice	Ncfsg
-Triglav	Npmsn
-,	Z
-nato	Rgp
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-zaposlil	Vmep-sm
-kot	Cs
-svetovalec	Ncmsn
-uprave	Ncfsg
-pozavarovalnice	Ncfsg
-Triglav	Npmsn
-Reinsurance	Npmpa
-.	Z
-Trenutno	Rgp
-je	Va-r3s-n
-zaposlen	Appmsnn
-v	Sl
-družbi	Ncfsl
-Aksum	Npmsn
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Abanke	mte:Npfsg	Abanka
+Vipe	mte:Npmsn	Vipe
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+za	mte:Sa	za
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+imenoval	mte:Vmbp-sm	imenovati
+Jožeta	mte:Npmsay	Jože
+Leniča	mte:Npmsay	Lenič
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+bo	mte:Va-f3s-n	biti
+vodilno	mte:Agpnsa	vodilen
+mesto	mte:Ncnsa	mesto
+v	mte:Sl	v
+upravi	mte:Ncfsl	uprava
+prevzel	mte:Vmep-sm	prevzeti
+po	mte:Sl	po
+pridobitvi	mte:Ncfsl	pridobitev
+dovoljena	mte:Appfsn	dovoljen
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ne	mte:Q	ne
+pred	mte:Si	pred
+1	mte:Mdc	1
+.	mte:Z	.
+januarjem	mte:Ncmsi	januar
+2011	mte:Mdc	2011
+.	mte:Z	.
+Člana	mte:Ncmsg	član
+uprave	mte:Ncfsg	uprava
+ostajata	mte:Vmpr3d	ostajati
+Radovan	mte:Npmsn	Radovan
+Jereb	mte:Npmsn	Jereb
+in	mte:Cc	in
+Gregor	mte:Npmsn	Gregor
+Hudobivnik	mte:Npmsn	Hudobivnik
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+zaključili	mte:Vmep-pm	zaključiti
+postopek	mte:Ncmsan	postopek
+za	mte:Sa	za
+dopolnitev	mte:Ncfsa	dopolnitev
+uprave	mte:Ncfsg	uprava
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+prek	mte:Sg	prek
+spletnih	mte:Agpfpg	spleten
+strani	mte:Ncfpg	stran
+Ljubljanske	mte:Agpfsg	ljubljanski
+borze	mte:Ncfsg	borza
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+tretje	mte:Mlofsg	tretji
+največje	mte:Agsfsg	velik
+banke	mte:Ncfsg	banka
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Ta	mte:Pd-msa	ta
+postopek	mte:Ncmsan	postopek
+so	mte:Va-r3p-n	biti
+nadzorniki	mte:Ncmpn	nadzornik
+sprožili	mte:Vmep-pm	sprožiti
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+Matej	mte:Npmsn	Matej
+Narat	mte:Npmsn	Narat
+iz	mte:Sg	iz
+NLB	mte:Npfsg	NLB
+,	mte:Z	,
+njihov	mte:Ps3msnp	njihov
+kandidat	mte:Ncmsn	kandidat
+za	mte:Sa	za
+prvega	mte:Mlomsa	prvi
+moža	mte:Ncmsay	mož
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+dobil	mte:Vmep-sm	dobiti
+dovoljenja	mte:Ncnsg	dovoljenje
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+za	mte:Sa	za
+opravljanje	mte:Ncnsa	opravljanje
+te	mte:Pd-fsg	ta
+funkcije	mte:Ncfsg	funkcija
+.	mte:Z	.
+Abanko	mte:Ncfsa	abanka
+od	mte:Sg	od
+konca	mte:Ncmsg	konec
+aprila	mte:Ncmsg	april
+vodi	mte:Vmpr3s	voditi
+dvočlanska	mte:Agpfsn	dvočlanski
+uprava	mte:Ncfsn	uprava
+pod	mte:Si	pod
+Jerebovim	mte:Aspnsi	Jerebov
+vodstvom	mte:Ncnsi	vodstvo
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+dotedanji	mte:Agpmsny	dotedanji
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Abanke	mte:Npfsg	Abanka
+Aleš	mte:Npmsn	Aleš
+Žajdela	mte:Npmsn	Žajdela
+tragično	mte:Rgp	tragično
+preminil	mte:Vmep-sm	preminiti
+v	mte:Sl	v
+prometni	mte:Agpfsl	prometen
+nesreči	mte:Ncfsl	nesreča
+.	mte:Z	.
+Jože	mte:Npmsn	Jože
+Lenič	mte:Npmsn	Lenič
+,	mte:Z	,
+magister	mte:Ncmsn	magister
+mednarodne	mte:Agpfsg	mednaroden
+ekonomije	mte:Ncfsg	ekonomija
+,	mte:Z	,
+univerzitetni	mte:Agpmsny	univerziteten
+diplomirani	mte:Appmsny	diplomiran
+geograf	mte:Ncmsn	geograf
+in	mte:Cc	in
+profesor	mte:Ncmsn	profesor
+geologije	mte:Ncfsg	geologija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poslovno	mte:Agpfsa	posloven
+pot	mte:Ncfsa	pot
+začel	mte:Vmep-sm	začeti
+v	mte:Sl	v
+zasebnem	mte:Agpnsl	zaseben
+podjetju	mte:Ncnsl	podjetje
+Oikos	mte:Ncmsn	oikos
+in	mte:Cc	in
+jo	mte:Pp3fsa--y	on
+nadaljeval	mte:Vmpp-sm	nadaljevati
+kot	mte:Cs	kot
+predsednik	mte:Ncmsn	predsednik
+izvršnega	mte:Agpmsg	izvršen
+sveta	mte:Ncmsg	svet
+Občine	mte:Ncfsg	občina
+Domžale	mte:Npfpn	Domžale
+.	mte:Z	.
+Od	mte:Sg	od
+decembra	mte:Ncmsg	december
+1992	mte:Mdc	1992
+do	mte:Sg	do
+januarja	mte:Ncmsg	januar
+2000	mte:Mdc	2000
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+poslanec	mte:Ncmsn	poslanec
+DZ	mte:Npmsg	DZ
+.	mte:Z	.
+Deloval	mte:Vmpp-sm	delovati
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+svetovalec	mte:Ncmsn	svetovalec
+uprave	mte:Ncfsg	uprava
+SKB	mte:Npfsg	SKB
+banke	mte:Ncfsg	banka
+in	mte:Cc	in
+več	mte:Rgc	več
+let	mte:Ncnpg	leto
+kot	mte:Cs	kot
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+vodil	mte:Vmpp-sm	voditi
+Kapitalsko	mte:Agpfsa	kapitalski
+družbo	mte:Ncfsa	družba
+.	mte:Z	.
+Od	mte:Sg	od
+decembra	mte:Ncmsg	december
+2003	mte:Mdc	2003
+do	mte:Sg	do
+junija	mte:Ncmsg	junij
+2005	mte:Mdc	2005
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Zavarovalnice	mte:Ncfsg	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zaposlil	mte:Vmep-sm	zaposliti
+kot	mte:Cs	kot
+svetovalec	mte:Ncmsn	svetovalec
+uprave	mte:Ncfsg	uprava
+pozavarovalnice	mte:Ncfsg	pozavarovalnica
+Triglav	mte:Npmsn	Triglav
+Reinsurance	mte:Npmpa	Reinsuranca
+.	mte:Z	.
+Trenutno	mte:Rgp	trenutno
+je	mte:Va-r3s-n	biti
+zaposlen	mte:Appmsnn	zaposlen
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+Aksum	mte:Npmsn	Aksum
+.	mte:Z	.
+Sedaj	mte:Rgp	sedaj
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+novomeške	mte:Agpfsg	novomeški
+Krke	mte:Npfsg	Krka
+,	mte:Z	,
+bil	mte:Va-p-sm	biti
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+član	mte:Ncmsn	član
+nadzornih	mte:Agpmpg	nadzoren
+svetov	mte:Ncmpg	svet
+Leka	mte:Npmsg	Leka
+,	mte:Z	,
+Save	mte:Npfsg	Sava
+,	mte:Z	,
+NLB	mte:Npfsg	NLB
+,	mte:Z	,
+Intereurope	mte:Npmsn	Intereurope
+,	mte:Z	,
+Dela	mte:Ncnsg	delo
+in	mte:Cc	in
+Slovenskega	mte:Agpnsg	slovenski
+zavarovalnega	mte:Agpnsg	zavarovalen
+združenja	mte:Ncnsg	združenje
+ter	mte:Cc	ter
+nekaterih	mte:Pi-fpg	nekateri
+odvisnih	mte:Agpfpg	odvisen
+družb	mte:Ncfpg	družba
+Zavarovalnice	mte:Ncfsg	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+razvidno	mte:Agpnsn	razviden
+iz	mte:Sg	iz
+spletnih	mte:Agpfpg	spleten
+strani	mte:Ncfpg	stran
+družbe	mte:Ncfsg	družba
+Krka	mte:Npfsn	Krka

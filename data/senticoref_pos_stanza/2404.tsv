@@ -1,388 +1,390 @@
-token	tag
-Druga	Mlpfsn
-največja	Agsfsn
-britanska	Agpfsn
-banka	Ncfsn
-,	Z
-Barclays	Npmsn
-,	Z
-bo	Va-f3s-n
-izdala	Vmep-sf
-za	Sa
-8,1	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-novih	Agpfpg
-delnic	Ncfpg
-.	Z
-Iz	Sg
-banke	Ncfsg
-so	Va-r3p-n
-sporočili	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-v	Sl
-nasprotju	Ncnsl
-z	Si
-RBS	Npmsi
-,	Z
-HBOS	Npmsn
-in	Cc
-Lloyds	Npmsn
-prišli	Vmep-pm
-do	Sg
-svežega	Agpmsg
-kapitala	Ncmsg
-brez	Sg
-vladne	Agpfsg
-pomoči	Ncfsg
-ter	Cc
-da	Cs
-letos	Rgp
-ne	Q
-bodo	Va-f3p-n
-delničarjem	Ncmpd
-izplačali	Vmbp-pm
-dividend	Ncfpg
-.	Z
-Tako	Cc
-naj	Q
-bi	Va-c
-skupaj	Rgp
-z	Si
-neizplačanimi	Agpfpi
-dividendami	Ncfpi
-banka	Ncfsn
-dobila	Vmep-sf
-12,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-MUFG	Npmsn
-do	Sg
-petine	Ncfsg
-v	Sl
-Morgan	Npmsl
-Stanleyju	Npmsl
-Največja	Agsfsn
-japonska	Agpfsn
-banka	Ncfsn
-,	Z
-Mitsubishi	Npmsn
-UFJ	Npmsn
-Financial	Npmsn
-Group	Npmsn
-(	Z
-MUFG	Npmsn
-)	Z
-,	Z
-je	Va-r3s-n
-za	Sa
-devet	Mlc-pa
-milijard	Ncfpg
-dolarjev	Ncmpg
-kupila	Vmep-sf
-21	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-ameriški	Agpfsl
-investicijski	Agpfsl
-banki	Ncfsl
-Morgan	Npmsn
-Stanley	Npmsn
-.	Z
-Novica	Ncfsn
-o	Sl
-prevzemu	Ncmsl
-je	Va-r3s-n
-povzročila	Vmep-sf
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-včeraj	Rgp
-zjutraj	Rgp
-cena	Ncfsn
-delnice	Ncfsg
-ameriške	Agpfsg
-banke	Ncfsg
-zvišala	Vmep-sf
-za	Sa
-dobrih	Agpmpg
-28	Mdc
-odstotkov.Filipinski	Agpmsny
-milijarder	Ncmsn
-za	Sa
-nakup	Ncmsan
-enote	Ncfsg
-AIG	Z
-Eden	Mlpmsn
-najbogatejših	Agsmpg
-Filipincev	Npmpg
-,	Z
-Henry	Npmsn
-Sy	Npmsn
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-v	Sl
-lasti	Ncfsl
-drugo	Mlpfsa
-največjo	Agsfsa
-filipinsko	Agpfsa
-banko	Ncfsa
-,	Z
-Banco	Npmsn
-de	Xf
-oro	Npmsn
-Unibank	Npmsn
-,	Z
-se	Px------y
-zanima	Vmpr3s
-za	Sa
-nakup	Ncmsan
-filipinske	Agpfsg
-enote	Ncfsg
-ameriške	Agpfsg
-banke	Ncfsg
-AIG	Npfsn
-.	Z
-Divizija	Ncfsn
-je	Va-r3s-n
-sicer	Q
-največja	Agsfsn
-zavarovalnica	Ncfsn
-v	Sl
-državi.Fed	Npfsl
-odobril	Vmep-sm
-prevzem	Ncmsan
-Wachovie	Npfsn
-Ameriška	Agpfsn
-centralna	Agpfsn
-banka	Ncfsn
-Fed	Npmsn
-je	Va-r3s-n
-banki	Ncfsd
-Wells	Npmsn
-Fargo	Npmsn
-odobrila	Vmep-sf
-15	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-vreden	Agpmsan
-prevzem	Ncmsan
-ameriške	Agpfsg
-banke	Ncfsg
-Wachovia	Npmsg
-.	Z
-S	Si
-to	Pd-fsi
-odločitvijo	Ncfsi
-je	Va-r3s-n
-odprta	Appfsn
-pot	Ncfsn
-za	Sa
-nastanek	Ncmsan
-koncerna	Ncmsg
-z	Si
-največjo	Agsfsi
-mrežo	Ncfsi
-bančnih	Agpfpg
-poslovalnic	Ncfpg
-v	Sl
-ZDA	Npfpl
-.	Z
-Po	Sl
-mnenju	Ncnsl
-analitikov	Ncmpg
-bo	Va-f3s-n
-banka	Ncfsn
-Wells	Npmsn
-Fargo	Npmsn
-verjetno	Rgp
-prodala	Vmep-sf
-enoto	Ncfsa
-Wachovie	Npmsn
-za	Sa
-investicijsko	Agpnsa
-bančništvo	Ncnsa
-,	Z
-ki	Cs
-zaposluje	Vmpr3s
-6000	Mdc
-ljudi	Ncmpg
-in	Cc
-ustvarja	Vmpr3s
-16	Mdc
-odstotkov	Ncmpg
-prihodkov	Ncmpg
-banke	Ncfsg
-.	Z
-Delnica	Ncfsn
-Berkshire	Npfsn
-padla	Vmep-sf
-za	Sa
-18	Mdc
-odstotkov	Ncmpg
-Vrednost	Ncfsa
-družbe	Ncfsg
-Berkshire	Npmsn
-Hathaway	Npfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodi	Vmpr3s
-Warren	Npmsn
-Buffett	Npmsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-v	Sl
-prejšnjem	Agpmsl
-tednu	Ncmsl
-znižala	Vmep-sf
-za	Sa
-18	Mdc
-odstotkov	Ncmpg
-oziroma	Cc
-za	Sa
-10,4	Mdc
-milijarde	Ncfsg
-dolarjev	Ncmpg
-.	Z
-Portfolij	Ncmsn
-družbe	Ncfsg
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-znižal	Vmep-sm
-za	Sa
-17	Mdc
-odstotkov	Ncmpg
-,	Z
-saj	Cc
-je	Va-r3s-n
-delnica	Ncfsn
-največje	Agsfsg
-investicije	Ncfsg
-družbe	Ncfsg
-,	Z
-Coca	Npmsn
--	Z
-Cole	Npfsn
-,	Z
-padla	Vmep-sf
-za	Sa
-21	Mdc
-odstotkov	Ncmpg
-,	Z
-delnica	Ncfsn
-druge	Mlpfsg
-največje	Agsfsg
-investicije	Ncfsg
-družbe	Ncfsg
-,	Z
-banke	Ncfsg
-Wells	Npmsn
-Fargo	Npmsn
-,	Z
-pa	Cc
-za	Sa
-18	Mdc
-odstotkov.Crobex	Npmpg
-za	Sa
-15,9	Mdc
-odstotka	Ncmsg
-navzgor	Rgp
-V	Sl
-Zagrebu	Npmsl
-se	Px------y
-je	Va-r3s-n
-včeraj	Rgp
-osrednji	Agpmsny
-indeks	Ncmsn
-Crobex	Npmsn
-zvišal	Vmep-sm
-za	Sa
-15,9	Mdc
-odstotka	Ncmsg
-,	Z
-zaradi	Sg
-močnih	Agpfpg
-podražitev	Ncfpg
-pa	Cc
-so	Va-r3p-n
-na	Sl
-začetku	Ncmsl
-trgovanja	Ncnsg
-ustavili	Vmep-pm
-trgovanje	Ncnsa
-z	Si
-več	Rgc
-kot	Cs
-40	Mdc
-delnicami	Ncfpi
-.	Z
-Osrednji	Agpmsay
-beograjski	Agpmsay
-indeks	Ncmsan
-Belex	Npmsn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-zvišal	Vmep-sm
-"	Z
-le	Q
-"	Z
-za	Sa
-3,5	Mdc
-odstotka.Banco	Npmsn
-Santander	Npmsn
-za	Sa
-nakup	Ncmsan
-Bancorpa	Npmsg
-Največja	Agsfsn
-španska	Agpfsn
-banka	Ncfsn
-,	Z
-Banco	Npmsn
-Santander	Npmsn
-,	Z
-želi	Vmpr3s
-prevzeti	Vmen
-ameriško	Agpfsa
-banko	Ncfsa
-Sovereign	Npmsn
-Bancorp	Npmsn
-.	Z
-Španska	Agpfsn
-banka	Ncfsn
-je	Va-r3s-n
-leta	Ncnsg
-2006	Mdc
-za	Sa
-četrtinski	Agpmsay
-delež	Ncmsan
-omenjene	Appfsg
-ameriške	Agpfsg
-banke	Ncfsg
-plačala	Vmep-sf
-2,9	Mdc
-milijarde	Ncfsg
-dolarjev	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-14	Mdc
-odstotkov	Ncmpg
-več	Rgc
-od	Sg
-trenutne	Agpfsg
-celotne	Agpfsg
-tržne	Agpfsg
-vrednosti	Ncfsg
-banke	Ncfsg
-.	Z
+token	tag	lemma
+Druga	mte:Mlpfsn	drug
+največja	mte:Agsfsn	velik
+britanska	mte:Agpfsn	britanski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+Barclays	mte:Npmsn	Barclays
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+izdala	mte:Vmep-sf	izdati
+za	mte:Sa	za
+8,1	mte:Mdc	8,1
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+novih	mte:Agpfpg	nov
+delnic	mte:Ncfpg	delnica
+.	mte:Z	.
+Iz	mte:Sg	iz
+banke	mte:Ncfsg	banka
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+nasprotju	mte:Ncnsl	nasprotje
+z	mte:Si	z
+RBS	mte:Npmsi	RBS
+,	mte:Z	,
+HBOS	mte:Npmsn	HBOS
+in	mte:Cc	in
+Lloyds	mte:Npmsn	Lloyds
+prišli	mte:Vmep-pm	priti
+do	mte:Sg	do
+svežega	mte:Agpmsg	svež
+kapitala	mte:Ncmsg	kapital
+brez	mte:Sg	brez
+vladne	mte:Agpfsg	vladen
+pomoči	mte:Ncfsg	pomoč
+ter	mte:Cc	ter
+da	mte:Cs	da
+letos	mte:Rgp	letos
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+delničarjem	mte:Ncmpd	delničar
+izplačali	mte:Vmbp-pm	izplačati
+dividend	mte:Ncfpg	dividend
+.	mte:Z	.
+Tako	mte:Cc	tako
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+neizplačanimi	mte:Agpfpi	neizplačan
+dividendami	mte:Ncfpi	dividenda
+banka	mte:Ncfsn	banka
+dobila	mte:Vmep-sf	dobiti
+12,5	mte:Mdc	12,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+MUFG	mte:Npmsn	MUFG
+do	mte:Sg	do
+petine	mte:Ncfsg	petina
+v	mte:Sl	v
+Morgan	mte:Npmsl	Morgan
+Stanleyju	mte:Npmsl	Stanley
+Največja	mte:Agsfsn	velik
+japonska	mte:Agpfsn	japonski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+Mitsubishi	mte:Npmsn	Mitsubishi
+UFJ	mte:Npmsn	UFJ
+Financial	mte:Npmsn	Financial
+Group	mte:Npmsn	Group
+(	mte:Z	(
+MUFG	mte:Npmsn	MUFG
+)	mte:Z	)
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+devet	mte:Mlc-pa	devet
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+kupila	mte:Vmep-sf	kupiti
+21	mte:Mdc	21
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+ameriški	mte:Agpfsl	ameriški
+investicijski	mte:Agpfsl	investicijski
+banki	mte:Ncfsl	banka
+Morgan	mte:Npmsn	Morgan
+Stanley	mte:Npmsn	Stanley
+.	mte:Z	.
+Novica	mte:Ncfsn	novica
+o	mte:Sl	o
+prevzemu	mte:Ncmsl	prevzem
+je	mte:Va-r3s-n	biti
+povzročila	mte:Vmep-sf	povzročiti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+zjutraj	mte:Rgp	zjutraj
+cena	mte:Ncfsn	cena
+delnice	mte:Ncfsg	delnica
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+zvišala	mte:Vmep-sf	zvišati
+za	mte:Sa	za
+dobrih	mte:Agpmpg	dober
+28	mte:Mdc	28
+odstotkov.Filipinski	mte:Agpmsny	odstotkov.Filipinski
+milijarder	mte:Ncmsn	milijarder
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+enote	mte:Ncfsg	enota
+AIG	mte:Z	AIG
+Eden	mte:Mlpmsn	eden
+najbogatejših	mte:Agsmpg	bogat
+Filipincev	mte:Npmpg	Filipinec
+,	mte:Z	,
+Henry	mte:Npmsn	Henry
+Sy	mte:Npmsn	Sy
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+drugo	mte:Mlpfsa	drug
+največjo	mte:Agsfsa	velik
+filipinsko	mte:Agpfsa	filipinski
+banko	mte:Ncfsa	banka
+,	mte:Z	,
+Banco	mte:Npmsn	Banco
+de	mte:Xf	de
+oro	mte:Npmsn	oro
+Unibank	mte:Npmsn	Unibank
+,	mte:Z	,
+se	mte:Px------y	se
+zanima	mte:Vmpr3s	zanimati
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+filipinske	mte:Agpfsg	filipinski
+enote	mte:Ncfsg	enota
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+AIG	mte:Npfsn	AIG
+.	mte:Z	.
+Divizija	mte:Ncfsn	divizija
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+največja	mte:Agsfsn	velik
+zavarovalnica	mte:Ncfsn	zavarovalnica
+v	mte:Sl	v
+državi.Fed	mte:Npfsl	državi.Fed
+odobril	mte:Vmep-sm	odobriti
+prevzem	mte:Ncmsan	prevzem
+Wachovie	mte:Npfsn	Wachovie
+Ameriška	mte:Agpfsn	ameriški
+centralna	mte:Agpfsn	centralen
+banka	mte:Ncfsn	banka
+Fed	mte:Npmsn	Fed
+je	mte:Va-r3s-n	biti
+banki	mte:Ncfsd	banka
+Wells	mte:Npmsn	Wells
+Fargo	mte:Npmsn	Fargo
+odobrila	mte:Vmep-sf	odobriti
+15	mte:Mdc	15
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+vreden	mte:Agpmsan	vreden
+prevzem	mte:Ncmsan	prevzem
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+Wachovia	mte:Npmsg	Wachovio
+.	mte:Z	.
+S	mte:Si	z
+to	mte:Pd-fsi	ta
+odločitvijo	mte:Ncfsi	odločitev
+je	mte:Va-r3s-n	biti
+odprta	mte:Appfsn	odprt
+pot	mte:Ncfsn	pot
+za	mte:Sa	za
+nastanek	mte:Ncmsan	nastanek
+koncerna	mte:Ncmsg	koncerna
+z	mte:Si	z
+največjo	mte:Agsfsi	velik
+mrežo	mte:Ncfsi	mreža
+bančnih	mte:Agpfpg	bančen
+poslovalnic	mte:Ncfpg	poslovalnica
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+.	mte:Z	.
+Po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+analitikov	mte:Ncmpg	analitik
+bo	mte:Va-f3s-n	biti
+banka	mte:Ncfsn	banka
+Wells	mte:Npmsn	Wells
+Fargo	mte:Npmsn	Fargo
+verjetno	mte:Rgp	verjetno
+prodala	mte:Vmep-sf	prodati
+enoto	mte:Ncfsa	enota
+Wachovie	mte:Npmsn	Wachovie
+za	mte:Sa	za
+investicijsko	mte:Agpnsa	investicijski
+bančništvo	mte:Ncnsa	bančništvo
+,	mte:Z	,
+ki	mte:Cs	ki
+zaposluje	mte:Vmpr3s	zaposlovati
+6000	mte:Mdc	6000
+ljudi	mte:Ncmpg	človek
+in	mte:Cc	in
+ustvarja	mte:Vmpr3s	ustvarjati
+16	mte:Mdc	16
+odstotkov	mte:Ncmpg	odstotek
+prihodkov	mte:Ncmpg	prihodek
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Delnica	mte:Ncfsn	delnica
+Berkshire	mte:Npfsn	Berkshire
+padla	mte:Vmep-sf	pasti
+za	mte:Sa	za
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+Vrednost	mte:Ncfsa	vrednost
+družbe	mte:Ncfsg	družba
+Berkshire	mte:Npmsn	Berkshire
+Hathaway	mte:Npfsn	Hathaway
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+Warren	mte:Npmsn	Warren
+Buffett	mte:Npmsn	Buffett
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+prejšnjem	mte:Agpmsl	prejšnji
+tednu	mte:Ncmsl	teden
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+oziroma	mte:Cc	oziroma
+za	mte:Sa	za
+10,4	mte:Mdc	10,4
+milijarde	mte:Ncfsg	milijarda
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Portfolij	mte:Ncmsn	portfolij
+družbe	mte:Ncfsg	družba
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+znižal	mte:Vmep-sm	znižati
+za	mte:Sa	za
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+delnica	mte:Ncfsn	delnica
+največje	mte:Agsfsg	velik
+investicije	mte:Ncfsg	investicija
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+Coca	mte:Npmsn	Coca
+-	mte:Z	-
+Cole	mte:Npfsn	Cole
+,	mte:Z	,
+padla	mte:Vmep-sf	pasti
+za	mte:Sa	za
+21	mte:Mdc	21
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+delnica	mte:Ncfsn	delnica
+druge	mte:Mlpfsg	drug
+največje	mte:Agsfsg	velik
+investicije	mte:Ncfsg	investicija
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+banke	mte:Ncfsg	banka
+Wells	mte:Npmsn	Wells
+Fargo	mte:Npmsn	Fargo
+,	mte:Z	,
+pa	mte:Cc	pa
+za	mte:Sa	za
+18	mte:Mdc	18
+odstotkov.Crobex	mte:Npmpg	odstotkov.Crobex
+za	mte:Sa	za
+15,9	mte:Mdc	15,9
+odstotka	mte:Ncmsg	odstotek
+navzgor	mte:Rgp	navzgor
+V	mte:Sl	v
+Zagrebu	mte:Npmsl	Zagreb
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+osrednji	mte:Agpmsny	osrednji
+indeks	mte:Ncmsn	indeks
+Crobex	mte:Npmsn	Crobex
+zvišal	mte:Vmep-sm	zvišati
+za	mte:Sa	za
+15,9	mte:Mdc	15,9
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+močnih	mte:Agpfpg	močen
+podražitev	mte:Ncfpg	podražitev
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+začetku	mte:Ncmsl	začetek
+trgovanja	mte:Ncnsg	trgovanje
+ustavili	mte:Vmep-pm	ustaviti
+trgovanje	mte:Ncnsa	trgovanje
+z	mte:Si	z
+več	mte:Rgc	več
+kot	mte:Cs	kot
+40	mte:Mdc	40
+delnicami	mte:Ncfpi	delnica
+.	mte:Z	.
+Osrednji	mte:Agpmsay	osrednji
+beograjski	mte:Agpmsay	beograjski
+indeks	mte:Ncmsan	indeks
+Belex	mte:Npmsn	Belex
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zvišal	mte:Vmep-sm	zvišati
+"	mte:Z	"
+le	mte:Q	le
+"	mte:Z	"
+za	mte:Sa	za
+3,5	mte:Mdc	3,5
+odstotka.Banco	mte:Npmsn	odstotka.banca
+Santander	mte:Npmsn	Santander
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+Bancorpa	mte:Npmsg	Bancorp
+Največja	mte:Agsfsn	velik
+španska	mte:Agpfsn	španski
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+Banco	mte:Npmsn	Banco
+Santander	mte:Npmsn	Santander
+,	mte:Z	,
+želi	mte:Vmpr3s	želeti
+prevzeti	mte:Vmen	prevzeti
+ameriško	mte:Agpfsa	ameriški
+banko	mte:Ncfsa	banka
+Sovereign	mte:Npmsn	Sovereign
+Bancorp	mte:Npmsn	Bancorp
+.	mte:Z	.
+Španska	mte:Agpfsn	španski
+banka	mte:Ncfsn	banka
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2006	mte:Mdc	2006
+za	mte:Sa	za
+četrtinski	mte:Agpmsay	četrtinski
+delež	mte:Ncmsan	delež
+omenjene	mte:Appfsg	omenjen
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+plačala	mte:Vmep-sf	plačati
+2,9	mte:Mdc	2,9
+milijarde	mte:Ncfsg	milijarda
+dolarjev	mte:Ncmpg	dolar
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+14	mte:Mdc	14
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+od	mte:Sg	od
+trenutne	mte:Agpfsg	trenuten
+celotne	mte:Agpfsg	celoten
+tržne	mte:Agpfsg	tržen
+vrednosti	mte:Ncfsg	vrednost
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Pripravila	mte:Vmep-sf	pripraviti
+Luki	mte:Npfsd	Luki

@@ -1,532 +1,554 @@
-token	tag
-Brezposelnost	Ncfsn
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-se	Px------y
-je	Va-r3s-n
-julija	Ncmsg
-povzpela	Vmep-sf
-na	Sa
-najvišjo	Agsfsa
-raven	Ncfsa
-v	Sl
-zadnjih	Agpnpl
-10	Mdc
-letih	Ncnpl
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-med	Si
-državami	Ncfpi
-,	Z
-ki	Cs
-so	Va-r3p-n
-zabeležile	Vmep-pf
-najnižjo	Agsfsa
-stopnjo	Ncfsa
-brezposelnosti	Ncfsg
-.	Z
-V	Sl
-Sloveniji	Npfsl
-se	Px------y
-je	Va-r3s-n
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-julija	Ncmsg
-v	Sl
-primerjavi	Ncfsl
-z	Si
-junijem	Ncmsi
-znižala	Vmep-sf
-za	Sa
-desetinko	Ncfsa
-odstotne	Agpfsg
-točke	Ncfsg
-in	Cc
-je	Va-r3s-n
-znašala	Vmpp-sf
-šest	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-V	Sl
-16	Mdc
-državah	Ncfpl
-članicah	Ncfpl
-EU	Npfsg
-,	Z
-ki	Cs
-uporabljajo	Vmpr3p
-evro	Ncmsan
-,	Z
-je	Va-r3s-n
-bilo	Va-p-sn
-julija	Ncmsg
-letos	Rgp
-15,09	Mdc
-milijona	Ncmsg
-brezposelnih	Agpmpg
-,	Z
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-povzpela	Vmep-sf
-na	Sa
-9,5	Mdc
-odstotka	Ncmsg
-,	Z
-je	Va-r3s-n
-danes	Rgp
-sporočil	Vmep-sm
-evropski	Agpmsny
-statistični	Agpmsny
-urad	Ncmsn
-Eurostat	Npmsn
-.	Z
-Stopnja	Ncfsn
-brezposelnosti	Ncfsg
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-je	Va-r3s-n
-bila	Va-p-sf
-tako	Rgp
-julija	Ncmsg
-najvišja	Agsfsn
-po	Sl
-maju	Ncmsl
-leta	Ncnsg
-1999	Mdc
-.	Z
-V	Sl
-celotni	Agpfsl
-EU	Npfsl
-pa	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-julija	Ncmsg
-devetodstotna	Agpfsn
-,	Z
-brez	Sg
-dela	Ncnsg
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-21,794	Mdc
-milijona	Ncmsg
-ljudi	Ncmpg
-.	Z
-Stopnja	Ncfsn
-brezposelnosti	Ncfsg
-v	Sl
-EU	Npfsl
-je	Va-r3s-n
-najvišja	Agsfsn
-po	Sl
-maju	Ncmsl
-2005	Mdc
-.	Z
-Število	Ncnsn
-brezposelnih	Agpfpg
-v	Sl
-državah	Ncfpl
-,	Z
-ki	Cs
-uporabljajo	Vmpr3p
-skupno	Agpfsa
-evropsko	Agpfsa
-valuto	Ncfsa
-,	Z
-se	Px------y
-je	Va-r3s-n
-julija	Ncmsg
-na	Sl
-mesečni	Agpfsl
-ravni	Ncfsl
-povečalo	Vmep-sn
-za	Sa
-167.000	Mdc
-,	Z
-v	Sl
-EU	Npfsl
-pa	Cc
-za	Sa
-225.000	Mdc
-.	Z
-Brezposelnost	Ncfsa
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-se	Px------y
-je	Va-r3s-n
-julija	Ncmsg
-v	Sl
-primerjavi	Ncfsl
-z	Si
-junijem	Ncmsi
-zvišala	Vmep-sf
-za	Sa
-0,1	Mdc
-odstotne	Agpfsg
-točke	Ncfsg
-,	Z
-tolikšno	Pd-nsn
-je	Va-r3s-n
-bilo	Va-p-sn
-zvišanje	Ncnsn
-tudi	Q
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-.	Z
-V	Sl
-primerjavi	Ncfsl
-z	Si
-julijem	Ncmsi
-2008	Mdc
-se	Px------y
-je	Va-r3s-n
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-tako	Rgp
-v	Sl
-državah	Ncfpl
-z	Si
-evrom	Ncmsi
-kot	Cs
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-zvišala	Vmep-sf
-za	Sa
-dve	Mlcfda
-odstotni	Agpfda
-točki	Ncfda
-.	Z
-V	Sl
-Sloveniji	Npfsl
-se	Px------y
-je	Va-r3s-n
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-zvišala	Vmep-sf
-za	Sa
-1,6	Mdc
-odstotne	Agpfsg
-točke	Ncfsg
-.	Z
-V	Sa
-EU	Npfsl
-je	Va-r3s-n
-bilo	Va-p-sn
-julija	Ncmsg
-brez	Sg
-dela	Ncnsg
-nekaj	Rgp
-več	Rgc
-kot	Cs
-21,79	Mdc
-milijona	Ncmsg
-ljudi	Ncmpg
-,	Z
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-pa	Cc
-15,09	Mdc
-milijona	Ncmsg
-ljudi	Ncmpg
-.	Z
-V	Sl
-primerjavi	Ncfsl
-z	Si
-julijem	Ncmsi
-lani	Rgp
-se	Px------y
-je	Va-r3s-n
-število	Ncnsn
-brezposelnih	Agpmpg
-v	Sl
-sedemindvajseterici	Ncfsl
-zvišalo	Vmep-sn
-za	Sa
-nekaj	Rgp
-več	Rgc
-kot	Cs
-5,11	Mdc
-milijona	Ncmsg
-oseb	Ncfpg
-,	Z
-v	Sl
-območju	Ncnsl
-z	Si
-evrom	Ncmsi
-pa	Cc
-za	Sa
-3,26	Mdc
-milijona	Ncmsg
-.	Z
-Foto	Ncmsn
-Dare	Npmsn
-Čekeliš	Npmsn
-Najnižjo	Agsfsa
-stopnjo	Ncfsa
-brezposelnosti	Ncfsg
-so	Va-r3p-n
-med	Si
-državami	Ncfpi
-,	Z
-za	Sa
-katere	Pq-mpa
-je	Va-r3s-n
-Eurostat	Npmsn
-imel	Vmpp-sm
-podatke	Ncmpa
-,	Z
-julija	Ncmsg
-beležile	Vmpp-pf
-Nizozemska	Agpfsn
-3,4	Mdc
-odstotka	Ncmsg
-,	Z
-Avstrija	Npfsn
-4,4	Mdc
-odstotka	Ncmsg
-,	Z
-Ciper	Npmsn
-5,5	Mdc
-odstotka	Ncmsg
-,	Z
-Danska	Npfsn
-5,9	Mdc
-odstotka	Ncmsg
-in	Cc
-Slovenija	Npfsn
-šest	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-Najvišjo	Agsfsa
-stopnjo	Ncfsa
-brezposelnosti	Ncfsg
-pa	Cc
-so	Va-r3p-n
-medtem	Rgp
-zabeležile	Vmep-pf
-Španija	Npfsn
-18,5	Mdc
-odstotka	Ncmsg
-,	Z
-Latvija	Npfsn
-17,4	Mdc
-odstotka	Ncmsg
-,	Z
-Litva	Npfsn
-16,7	Mdc
-odstotka	Ncmsg
-in	Cc
-Estonija	Npfsn
-13,3	Mdc
-odstotka	Ncmsg
-.	Z
-Julija	Npmsg
-so	Va-r3p-n
-v	Sl
-primerjavi	Ncfsl
-z	Si
-julijem	Ncmsi
-lani	Rgp
-vse	Pg-fpn
-članice	Ncfpn
-EU	Npfsg
-zabeležile	Vmep-pf
-porast	Ncmsan
-brezposelnosti	Ncfsg
-.	Z
-Še	Q
-najmanj	Rgs
-se	Px------y
-je	Va-r3s-n
-brezposelnost	Ncfsn
-povečala	Vmep-sf
-v	Sl
-Romuniji	Npfsl
-s	Si
-5,7	Mdc
-na	Sa
-6,2	Mdc
-odstotka	Ncmsg
-in	Cc
-Nemčiji	Npfsl
-s	Si
-7,2	Mdc
-na	Sa
-7,7	Mdc
-odstotka	Ncmsg
-,	Z
-medtem	Rgp
-ko	Cs
-so	Va-r3p-n
-največji	Agsmsay
-porast	Ncmsan
-brezposelnosti	Ncfsg
-zabeležili	Vmep-pm
-v	Sl
-Litvi	Npfsl
-s	Si
-5,8	Mdc
-na	Sa
-16,7	Mdc
-odstotka	Ncmsg
-in	Cc
-v	Sl
-Latviji	Npfsl
-s	Si
-6,9	Mdc
-na	Sa
-17,4	Mdc
-odstotka	Ncmsg
-.	Z
-Brezposelnost	Ncfsn
-med	Si
-moškimi	Agpfpi
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-se	Px------y
-je	Va-r3s-n
-julija	Ncmsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-zvišala	Vmep-sf
-s	Si
-6,9	Mdc
-na	Sa
-9,3	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-pa	Cc
-s	Si
-6,6	Mdc
-na	Sa
-9,1	Mdc
-odstotka	Ncmsg
-.	Z
-Pri	Sl
-ženskah	Ncfpl
-se	Px------y
-je	Va-r3s-n
-brezposelnost	Ncfsn
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-v	Sl
-tem	Pd-nsl
-obdobju	Ncnsl
-zvišala	Vmep-sf
-z	Si
-8,3	Mdc
-na	Sa
-9,8	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-pa	Cc
-s	Si
-7,4	Mdc
-na	Sa
-devet	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-V	Sl
-Sloveniji	Npfsl
-se	Px------y
-je	Va-r3s-n
-brezposelnost	Ncfsn
-moških	Agpmpg
-julija	Ncmsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-zvišala	Vmep-sf
-s	Sg
-štirih	Mlcmpg
-na	Sa
-6,1	Mdc
-odstotka	Ncmsg
-,	Z
-delež	Ncmsnn
-brezposelnih	Agpfpg
-žensk	Ncfpg
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-zvišal	Vmep-sm
-s	Si
-4,8	Mdc
-na	Sa
-šest	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-Med	Si
-mladimi	Agpmpi
-do	Sg
-25	Mdc
-let	Ncnpg
-je	Va-r3s-n
-brezposelnost	Ncfsn
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-julija	Ncmsg
-znašala	Vmpp-sf
-19,7	Mdc
-odstotka	Ncmsg
-julija	Ncmsg
-2008	Mdc
-je	Va-r3s-n
-bila	Va-p-sf
-15,4	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-pa	Cc
-19,8	Mdc
-odstotka	Ncmsg
-julija	Ncmsg
-2008	Mdc
-15,4	Mdc
-odstotka	Ncmsg
-.	Z
-Najmanj	Rgs
-brezposelnih	Agpmpg
-med	Si
-mladimi	Agpfpi
-je	Va-r3s-n
-bilo	Va-p-sn
-na	Sl
-Nizozemskem	Agpmsl
-6,6	Mdc
-odstotka	Ncmsg
-,	Z
-največ	Rgs
-pa	Cc
-v	Sl
-Španiji	Npfsl
-38,4	Mdc
-odstotka	Ncmsg
-.	Z
+token	tag	lemma
+Brezposelnost	mte:Ncfsn	brezposelnost
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+julija	mte:Ncmsg	julij
+povzpela	mte:Vmep-sf	povzpeti
+na	mte:Sa	na
+najvišjo	mte:Agsfsa	visok
+raven	mte:Ncfsa	raven
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+10	mte:Mdc	10
+letih	mte:Ncnpl	leto
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+državami	mte:Ncfpi	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zabeležile	mte:Vmep-pf	zabeležiti
+najnižjo	mte:Agsfsa	nizek
+stopnjo	mte:Ncfsa	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+julija	mte:Ncmsg	julij
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+junijem	mte:Ncmsi	junij
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+desetinko	mte:Ncfsa	desetinka
+odstotne	mte:Agpfsg	odstoten
+točke	mte:Ncfsg	točka
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+16	mte:Mdc	16
+državah	mte:Ncfpl	država
+članicah	mte:Ncfpl	članica
+EU	mte:Npfsg	EU
+,	mte:Z	,
+ki	mte:Cs	ki
+uporabljajo	mte:Vmpr3p	uporabljati
+evro	mte:Ncmsan	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+julija	mte:Ncmsg	julij
+letos	mte:Rgp	letos
+15,09	mte:Mdc	15,09
+milijona	mte:Ncmsg	milijon
+brezposelnih	mte:Agpmpg	brezposeln
+,	mte:Z	,
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+povzpela	mte:Vmep-sf	povzpeti
+na	mte:Sa	na
+9,5	mte:Mdc	9,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+sporočil	mte:Vmep-sm	sporočiti
+evropski	mte:Agpmsny	evropski
+statistični	mte:Agpmsny	statističen
+urad	mte:Ncmsn	urad
+Eurostat	mte:Npmsn	Eurostat
+.	mte:Z	.
+Stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+tako	mte:Rgp	tako
+julija	mte:Ncmsg	julij
+najvišja	mte:Agsfsn	visok
+po	mte:Sl	po
+maju	mte:Ncmsl	maj
+leta	mte:Ncnsg	leto
+1999	mte:Mdc	1999
+.	mte:Z	.
+V	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+julija	mte:Ncmsg	julij
+devetodstotna	mte:Agpfsn	devetodstoten
+,	mte:Z	,
+brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+21,794	mte:Mdc	21,794
+milijona	mte:Ncmsg	milijon
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+Stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+je	mte:Va-r3s-n	biti
+najvišja	mte:Agsfsn	visok
+po	mte:Sl	po
+maju	mte:Ncmsl	maj
+2005	mte:Mdc	2005
+.	mte:Z	.
+Število	mte:Ncnsn	število
+brezposelnih	mte:Agpfpg	brezposeln
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+,	mte:Z	,
+ki	mte:Cs	ki
+uporabljajo	mte:Vmpr3p	uporabljati
+skupno	mte:Agpfsa	skupen
+evropsko	mte:Agpfsa	evropski
+valuto	mte:Ncfsa	valuta
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+julija	mte:Ncmsg	julij
+na	mte:Sl	na
+mesečni	mte:Agpfsl	mesečen
+ravni	mte:Ncfsl	raven
+povečalo	mte:Vmep-sn	povečati
+za	mte:Sa	za
+167.000	mte:Mdc	167.000
+,	mte:Z	,
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+pa	mte:Cc	pa
+za	mte:Sa	za
+225.000	mte:Mdc	225.000
+.	mte:Z	.
+Brezposelnost	mte:Ncfsa	brezposelnost
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+julija	mte:Ncmsg	julij
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+junijem	mte:Ncmsi	junij
+zvišala	mte:Vmep-sf	zvišati
+za	mte:Sa	za
+0,1	mte:Mdc	0,1
+odstotne	mte:Agpfsg	odstoten
+točke	mte:Ncfsg	točka
+,	mte:Z	,
+tolikšno	mte:Pd-nsn	tolikšen
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+zvišanje	mte:Ncnsn	zvišanje
+tudi	mte:Q	tudi
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+.	mte:Z	.
+V	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+julijem	mte:Ncmsi	julij
+2008	mte:Mdc	2008
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+tako	mte:Rgp	tako
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+z	mte:Si	z
+evrom	mte:Ncmsi	evro
+kot	mte:Cs	kot
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+zvišala	mte:Vmep-sf	zvišati
+za	mte:Sa	za
+dve	mte:Mlcfda	dva
+odstotni	mte:Agpfda	odstoten
+točki	mte:Ncfda	točka
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+zvišala	mte:Vmep-sf	zvišati
+za	mte:Sa	za
+1,6	mte:Mdc	1,6
+odstotne	mte:Agpfsg	odstoten
+točke	mte:Ncfsg	točka
+.	mte:Z	.
+V	mte:Sa	v
+EU	mte:Npfsl	EU
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+julija	mte:Ncmsg	julij
+brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+nekaj	mte:Rgp	nekaj
+več	mte:Rgc	več
+kot	mte:Cs	kot
+21,79	mte:Mdc	21,79
+milijona	mte:Ncmsg	milijon
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+pa	mte:Cc	pa
+15,09	mte:Mdc	15,09
+milijona	mte:Ncmsg	milijon
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+V	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+julijem	mte:Ncmsi	julij
+lani	mte:Rgp	lani
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+brezposelnih	mte:Agpmpg	brezposeln
+v	mte:Sl	v
+sedemindvajseterici	mte:Ncfsl	sedemindvajseterica
+zvišalo	mte:Vmep-sn	zvišati
+za	mte:Sa	za
+nekaj	mte:Rgp	nekaj
+več	mte:Rgc	več
+kot	mte:Cs	kot
+5,11	mte:Mdc	5,11
+milijona	mte:Ncmsg	milijon
+oseb	mte:Ncfpg	oseba
+,	mte:Z	,
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+z	mte:Si	z
+evrom	mte:Ncmsi	evro
+pa	mte:Cc	pa
+za	mte:Sa	za
+3,26	mte:Mdc	3,26
+milijona	mte:Ncmsg	milijon
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+Dare	mte:Npmsn	Dare
+Čekeliš	mte:Npmsn	Čekeliš
+Najnižjo	mte:Agsfsa	nizek
+stopnjo	mte:Ncfsa	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+so	mte:Va-r3p-n	biti
+med	mte:Si	med
+državami	mte:Ncfpi	država
+,	mte:Z	,
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+je	mte:Va-r3s-n	biti
+Eurostat	mte:Npmsn	Eurostat
+imel	mte:Vmpp-sm	imeti
+podatke	mte:Ncmpa	podatek
+,	mte:Z	,
+julija	mte:Ncmsg	julij
+beležile	mte:Vmpp-pf	beležiti
+Nizozemska	mte:Agpfsn	nizozemski
+3,4	mte:Mdc	3,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Avstrija	mte:Npfsn	Avstrija
+4,4	mte:Mdc	4,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Ciper	mte:Npmsn	Ciper
+5,5	mte:Mdc	5,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Danska	mte:Npfsn	Danska
+5,9	mte:Mdc	5,9
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Slovenija	mte:Npfsn	Slovenija
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Najvišjo	mte:Agsfsa	visok
+stopnjo	mte:Ncfsa	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+medtem	mte:Rgp	medtem
+zabeležile	mte:Vmep-pf	zabeležiti
+Španija	mte:Npfsn	Španija
+18,5	mte:Mdc	18,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Latvija	mte:Npfsn	Latvija
+17,4	mte:Mdc	17,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Litva	mte:Npfsn	Litva
+16,7	mte:Mdc	16,7
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Estonija	mte:Npfsn	Estonija
+13,3	mte:Mdc	13,3
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Julija	mte:Npmsg	Julij
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+julijem	mte:Ncmsi	julij
+lani	mte:Rgp	lani
+vse	mte:Pg-fpn	ves
+članice	mte:Ncfpn	članica
+EU	mte:Npfsg	EU
+zabeležile	mte:Vmep-pf	zabeležiti
+porast	mte:Ncmsan	porast
+brezposelnosti	mte:Ncfsg	brezposelnost
+.	mte:Z	.
+Še	mte:Q	še
+najmanj	mte:Rgs	najmanj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+brezposelnost	mte:Ncfsn	brezposelnost
+povečala	mte:Vmep-sf	povečati
+v	mte:Sl	v
+Romuniji	mte:Npfsl	Romunija
+s	mte:Si	z
+5,7	mte:Mdc	5,7
+na	mte:Sa	na
+6,2	mte:Mdc	6,2
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+Nemčiji	mte:Npfsl	Nemčija
+s	mte:Si	z
+7,2	mte:Mdc	7,2
+na	mte:Sa	na
+7,7	mte:Mdc	7,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+največji	mte:Agsmsay	velik
+porast	mte:Ncmsan	porast
+brezposelnosti	mte:Ncfsg	brezposelnost
+zabeležili	mte:Vmep-pm	zabeležiti
+v	mte:Sl	v
+Litvi	mte:Npfsl	Litva
+s	mte:Si	z
+5,8	mte:Mdc	5,8
+na	mte:Sa	na
+16,7	mte:Mdc	16,7
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+v	mte:Sl	v
+Latviji	mte:Npfsl	Latvija
+s	mte:Si	z
+6,9	mte:Mdc	6,9
+na	mte:Sa	na
+17,4	mte:Mdc	17,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Brezposelnost	mte:Ncfsn	brezposelnost
+med	mte:Si	med
+moškimi	mte:Agpfpi	moški
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+julija	mte:Ncmsg	julij
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+zvišala	mte:Vmep-sf	zvišati
+s	mte:Si	z
+6,9	mte:Mdc	6,9
+na	mte:Sa	na
+9,3	mte:Mdc	9,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+pa	mte:Cc	pa
+s	mte:Si	z
+6,6	mte:Mdc	6,6
+na	mte:Sa	na
+9,1	mte:Mdc	9,1
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Pri	mte:Sl	pri
+ženskah	mte:Ncfpl	ženska
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+brezposelnost	mte:Ncfsn	brezposelnost
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+obdobju	mte:Ncnsl	obdobje
+zvišala	mte:Vmep-sf	zvišati
+z	mte:Si	z
+8,3	mte:Mdc	8,3
+na	mte:Sa	na
+9,8	mte:Mdc	9,8
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+pa	mte:Cc	pa
+s	mte:Si	z
+7,4	mte:Mdc	7,4
+na	mte:Sa	na
+devet	mte:Mlc-pa	devet
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+brezposelnost	mte:Ncfsn	brezposelnost
+moških	mte:Agpmpg	moški
+julija	mte:Ncmsg	julij
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+zvišala	mte:Vmep-sf	zvišati
+s	mte:Sg	z
+štirih	mte:Mlcmpg	štirje
+na	mte:Sa	na
+6,1	mte:Mdc	6,1
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+delež	mte:Ncmsnn	delež
+brezposelnih	mte:Agpfpg	brezposeln
+žensk	mte:Ncfpg	ženska
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zvišal	mte:Vmep-sm	zvišati
+s	mte:Si	z
+4,8	mte:Mdc	4,8
+na	mte:Sa	na
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Med	mte:Si	med
+mladimi	mte:Agpmpi	mlad
+do	mte:Sg	do
+25	mte:Mdc	25
+let	mte:Ncnpg	leto
+je	mte:Va-r3s-n	biti
+brezposelnost	mte:Ncfsn	brezposelnost
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+julija	mte:Ncmsg	julij
+znašala	mte:Vmpp-sf	znašati
+19,7	mte:Mdc	19,7
+odstotka	mte:Ncmsg	odstotek
+julija	mte:Ncmsg	julij
+2008	mte:Mdc	2008
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+15,4	mte:Mdc	15,4
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+pa	mte:Cc	pa
+19,8	mte:Mdc	19,8
+odstotka	mte:Ncmsg	odstotek
+julija	mte:Ncmsg	julij
+2008	mte:Mdc	2008
+15,4	mte:Mdc	15,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Najmanj	mte:Rgs	najmanj
+brezposelnih	mte:Agpmpg	brezposeln
+med	mte:Si	med
+mladimi	mte:Agpfpi	mlad
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+na	mte:Sl	na
+Nizozemskem	mte:Agpmsl	nizozemski
+6,6	mte:Mdc	6,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+največ	mte:Rgs	največ
+pa	mte:Cc	pa
+v	mte:Sl	v
+Španiji	mte:Npfsl	Španija
+38,4	mte:Mdc	38,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+medtem	mte:Rgp	medtem
+za	mte:Sa	za
+primerjavo	mte:Ncfsa	primerjava
+julija	mte:Ncmsg	julij
+9,4	mte:Mdc	9,4
+odstotka	mte:Ncmsg	odstotek
+brezposelnih	mte:Agpmpg	brezposeln
+,	mte:Z	,
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+pa	mte:Cc	pa
+5,7	mte:Mdc	5,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+sporočil	mte:Vmep-sm	sporočiti
+Eurostat	mte:Npmsn	Eurostat

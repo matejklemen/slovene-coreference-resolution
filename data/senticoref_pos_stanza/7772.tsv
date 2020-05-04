@@ -1,534 +1,558 @@
-token	tag
-Joseph	Npmsn
-Stiglitz	Npmsn
-To	Pd-nsn
-je	Va-r3s-n
-voodoo	Ncmsn
-ekonomija	Ncfsn
-Pomoč	Ncfsn
-Španiji	Npfsd
-je	Va-r3s-n
-finančnim	Agpmpd
-trgom	Ncmpd
-prinesla	Vmep-sf
-veliko	Agpnsa
-olajšanje	Ncnsa
-.	Z
-Tvegane	Ncmpn
-naložbe	Ncfpn
-so	Va-r3p-n
-porasle	Vmep-pf
-,	Z
-prav	Q
-tako	Rgp
-evro	Ncmsan
-.	Z
-Toda	Cc
-veselje	Ncnsn
-utegne	Vmbr3s
-biti	Va-n
-zelo	Rgp
-kratkotrajno	Agpnsn
-.	Z
-Logično	Rgp
-je	Va-r3s-n
-največji	Agsmsay
-skok	Ncmsan
-doživela	Vmep-sf
-borza	Ncfsn
-v	Sl
-Madridu	Npmsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-teden	Ncmsan
-začela	Vmep-sf
-z	Si
-več	Rgc
-kot	Cs
-petodstotno	Agpfsi
-rastjo	Ncfsi
-.	Z
-Visoki	Agpmpn
-pribitki	Ncmpn
-so	Va-r3p-n
-bili	Va-p-pm
-opazni	Agpmpn
-tudi	Q
-v	Sl
-Frankfurtu	Npmsl
-,	Z
-kjer	Cs
-je	Va-r3s-n
-indeks	Ncmsn
-DAX30	Mdc
-pridobil	Vmep-sm
-več	Rgc
-kot	Cs
-2,5	Mdc
-odstotka	Ncmsg
-.	Z
-Največjo	Agsfsa
-rast	Ncfsa
-so	Va-r3p-n
-doživele	Vmep-pf
-finančne	Agpfpn
-delnice	Ncfpn
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-tudi	Q
-posledica	Ncfsn
-zapiranja	Ncnsg
-kratkih	Agpfpg
-pozicij	Ncfpg
-tistih	Pd-mpg
-vlagateljev	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-stavili	Vmpp-pm
-na	Sa
-nadaljnje	Agpmpa
-padce	Ncmpa
-bančnih	Agpfpg
-delnic	Ncfpg
-.	Z
-Vrednost	Ncfsn
-evra	Ncmsg
-se	Px------y
-je	Va-r3s-n
-okrepila	Vmep-sf
-do	Sg
-1,2647	Mdc
-dolarja	Ncmsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-tritedenski	Agpmsny
-vrh	Ncmsn
-.	Z
-Javni	Agpmsny
-dolg	Ncmsn
-bo	Va-f3s-n
-dosegel	Vmep-sm
-skoraj	Q
-80	Mdc
-odstotkov	Ncmpg
-BDP	Ncmsn
--	Z
-ja	Q
-Načrt	Ncmsn
-finančnih	Agpmpg
-ministrov	Ncmpg
-evrskega	Agpnsg
-območja	Ncnsg
-,	Z
-da	Cs
-Španiji	Npfsd
-posodijo	Vmer3p
-do	Sg
-100	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-za	Sa
-sanacijo	Ncfsa
-finančnega	Agpmsg
-sistema	Ncmsg
-,	Z
-je	Va-r3s-n
-obsežnejši	Agcmsny
-od	Sg
-predvidevanj	Ncnpg
-in	Cc
-bo	Va-f3s-n
-vsaj	Q
-začasno	Rgp
-pomagal	Vmbp-sm
-bankam	Ncfpd
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-prizadeli	Vmep-pm
-pok	Ncmsn
-nepremičninskega	Agpmsg
-balona	Ncmsg
-,	Z
-recesija	Ncfsn
-in	Cc
-visoka	Agpfsn
-brezposelnost	Ncfsn
-.	Z
-Španski	Agpmsny
-dolg	Agpmsnn
-se	Px------y
-bo	Va-f3s-n
-,	Z
-če	Cs
-bo	Va-f3s-n
-Madrid	Npmsn
-res	Rgp
-dobil	Vmep-sm
-celotnih	Agpfpg
-sto	Mlc-pa
-milijard	Ncfpg
-,	Z
-povečal	Vmep-sm
-na	Sa
-skoraj	Q
-80	Mdc
-odstotkov	Ncmpg
-BDP	Npmsn
--	Z
-ja	Q
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-konec	Sg
-leta	Ncnsg
-2011	Mdc
-pri	Sl
-68,5	Mdc
-odstotka	Ncmsg
-.	Z
-Španiji	Npfsl
-bodo	Va-f3p-n
-zaradi	Sg
-tega	Pd-nsg
-vlagatelji	Ncmpn
-še	Q
-bolj	Rgc
-neradi	Rgp
-posojali	Vmpp-pm
-denar	Ncmsan
-.	Z
-Joseph	Npmsn
-Stiglitz	Npmsn
-To	Pd-nsn
-je	Va-r3s-n
-voodoo	Ncmsn
-ekonomija	Ncfsn
-Priznani	Appmsny
-ekonomist	Ncmsn
-Joseph	Npmsn
-Stiglitz	Npmsn
-je	Va-r3s-n
-skeptičen	Agpmsnn
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-ta	Pd-fsa
-pomoč	Ncfsa
-dolgoročno	Rgp
-pomagala	Vmbp-sf
-,	Z
-saj	Cc
-gre	Vmbr3s
-v	Sl
-bistvu	Ncnsl
-za	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-vlada	Ncfsn
-v	Sl
-Madridu	Npmsl
-rešuje	Vmpr3s
-španske	Agpfpa
-banke	Ncfpa
-,	Z
-te	Pd-fpa
-pa	Cc
-špansko	Agpfsa
-vlado	Ncfsa
-,	Z
-ko	Cs
-kupujejo	Vmpr3p
-njene	Ps3fpasf
-obveznice	Ncfpa
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-voodoo	Ncmsn
-ekonomija	Ncfsn
-,	Z
-ki	Cs
-ne	Q
-deluje	Vmpr3s
-in	Cc
-ne	Q
-bo	Va-f3s-n
-delovala	Vmpp-sf
-.	Z
-Kaj	Pq-nsa
-pomaga	Vmbr3s
-požarni	Agpmsny
-zid	Ncmsn
-,	Z
-če	Cs
-na	Sa
-ogenj	Ncmsan
-dolivaš	Vmpr2s
-olje	Ncnsa
-.	Z
-Potrebno	Agpnsn
-se	Px------y
-je	Va-r3s-n
-lotiti	Vmen
-jedra	Ncnsg
-težav	Ncfpg
-,	Z
-torej	Rgp
-spodbuditi	Vmen
-gospodarsko	Agpfsa
-rast	Ncfsa
-.	Z
-Stiglitz	Npmsn
-je	Va-r3s-n
-nasprotnik	Ncmsn
-varčevalnih	Agpmpg
-ukrepov	Ncmpg
-,	Z
-ena	Mlpfsn
-od	Sg
-njegovih	Ps3fpgsm
-rešitev	Ncfpg
-pa	Cc
-je	Va-r3s-n
-uvedba	Ncfsn
-evropske	Agpfsg
-bančne	Agpfsg
-unije	Ncfsg
-.	Z
-V	Sa
-nedeljo	Ncfsa
-volitve	Ncfpn
-v	Sl
-Grčiji	Npfsl
-Izkušnje	Ncfpn
-zadnjih	Agpnpg
-let	Ncnpg
-kažejo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-na	Sl
-finančnih	Agpmpl
-trgih	Ncmpl
-optimizem	Ncmsn
-zelo	Rgp
-kratkotrajen	Agpmsnn
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-Evropa	Npfsn
-obljubila	Vmep-sf
-pomoč	Ncfsa
-eni	Mlpfsd
-izmed	Sg
-svojih	Px-fpg
-prezadolženih	Appfpg
-držav	Ncfpg
-.	Z
-Tudi	Q
-tokrat	Rgp
-verjetno	Rgp
-ne	Q
-bo	Va-f3s-n
-nič	Pz-nsn
-drugače	Rgp
-,	Z
-zlasti	Q
-ko	Cs
-bodo	Va-f3p-n
-vlagatelji	Ncmpn
-pozornost	Ncfsa
-začeli	Vmep-pm
-posvečati	Vmpn
-prihajajočim	Appfpd
-grškim	Agpfpd
-parlamentarnim	Agpfpd
-volitvam	Ncfpd
-,	Z
-ki	Cs
-utegnejo	Vmbr3p
-povzročiti	Vmen
-slovo	Ncnsa
-Grčije	Npfsg
-od	Sg
-evra	Ncmsg
-.	Z
-In	Cc
-tu	Rgp
-je	Va-r3s-n
-še	Q
-Italija	Npfsn
-,	Z
-ki	Cs
-mora	Vmpr3s
-vsak	Pg-msa
-mesec	Ncmsan
-na	Sl
-obvezniških	Agpmpl
-trgih	Ncmpl
-prositi	Vmpn
-za	Sa
-35	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-skorajda	Q
-vrednost	Ncfsn
-slovenskega	Agpmsg
-BDP	Ncmsg
--	Z
-ja	Q
-.	Z
-Tečaji	Ncmpn
-delnic	Ncfpg
-na	Sl
-Lj	Npmsl
-.	Z
-borzi	Ncmsn
-PETROL	Npmsn
-+	Ncmsn
-7,94	Mdc
-%	Ncmsn
-182,95	Mdc
-EUR	Ncmsn
-TELEKOM	Npmsn
-+	Ncmsn
-2,94	Mdc
-%	Ncmsn
-70,00	Mdc
-MERCATOR	Ncmsn
-+	Ncmsn
-2,34	Mdc
-%	Ncmsn
-127,00	Mdc
-LUKA	Npmsn
-KOPER	Npmsn
-+	Z
-0,72	Mdc
-%	Ncmsn
-8,36	Mdc
-KRKA	Npfsn
-+	Ncmsn
-0,33	Mdc
-%	Ncmsn
-42,50	Mdc
-GORENJE	Ncnsn
--	Z
-0,08	Mdc
-%	Ncmsn
-5,006	Mdc
-ZAV	Ncmsn
-.	Z
-TRIGLAV	Npmsn
--	Z
-0,75	Mdc
-%	Ncmsn
-13,20	Mdc
-NOVA	Agpfsn
-KBM	Npfsg
--	Z
-6,38	Mdc
-%	Ncmsn
-2,20	Mdc
-Italijo	Npfsa
-pesti	Ncfsg
-zlasti	Q
-visok	Agpmsnn
-dolg	Agpmsnn
-Makroekonomska	Agpfsn
-slika	Ncfsn
-Italije	Npfsg
-je	Va-r3s-n
-sicer	Q
-boljša	Agcfsn
-kot	Cs
-v	Sl
-Španiji	Npfsl
-.	Z
-Proračunski	Agpmsay
-primanjkljaj	Ncmsan
-naj	Q
-bi	Va-c
-država	Ncfsn
-letos	Rgp
-spravila	Vmep-sf
-pod	Sa
-tri	Mlcmpa
-odstotke	Ncmpa
-BDP	Ncmsg
--	Z
-ja	Q
-.	Z
-Stopnja	Ncfsn
-brezposelnosti	Ncfsg
-ni	Va-r3s-y
-niti	Q
-na	Sl
-polovici	Ncfsl
-španske	Agpfsg
-,	Z
-prav	Q
-tako	Rgp
-države	Ncfsg
-ni	Va-r3s-y
-prizadelo	Vmep-sn
-sesutje	Ncnsn
-nepremičninskega	Agpmsg
-trga	Ncmsg
-,	Z
-tako	Cc
-da	Cs
-so	Va-r3p-n
-banke	Ncfpn
-bolj	Rgc
-zdrave	Agpfpn
-.	Z
-Največja	Agsfsn
-težava	Ncfsn
-je	Va-r3s-n
-visok	Agpmsnn
-javni	Agpmsny
-dolg	Agpmsnn
-2.000	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-skoraj	Q
-120	Mdc
-%	Ncmpg
-BDP	Ncmsn
--	Z
-ja	Q
-,	Z
-višjega	Agcmsg
-imata	Vmpr3d-n
-le	Q
-Japonska	Npfsn
-in	Cc
-Grčija	Npfsn
-.	Z
-Italijansko	Agpnsn
-gospodarstvo	Ncnsn
-naj	Q
-bi	Va-c
-se	Px------y
-letos	Rgp
-skrčilo	Vmep-sn
-za	Sa
-1,7	Mdc
-odstotka	Ncmsg
-.	Z
+token	tag	lemma
+Joseph	mte:Npmsn	Joseph
+Stiglitz	mte:Npmsn	Stiglitz
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+voodoo	mte:Ncmsn	voodaa
+ekonomija	mte:Ncfsn	ekonomija
+Pomoč	mte:Ncfsn	pomoč
+Španiji	mte:Npfsd	Španija
+je	mte:Va-r3s-n	biti
+finančnim	mte:Agpmpd	finančen
+trgom	mte:Ncmpd	trg
+prinesla	mte:Vmep-sf	prinesti
+veliko	mte:Agpnsa	velik
+olajšanje	mte:Ncnsa	olajšanje
+.	mte:Z	.
+Tvegane	mte:Ncmpn	tvegan
+naložbe	mte:Ncfpn	naložba
+so	mte:Va-r3p-n	biti
+porasle	mte:Vmep-pf	porasti
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+evro	mte:Ncmsan	evro
+.	mte:Z	.
+Toda	mte:Cc	toda
+veselje	mte:Ncnsn	veselje
+utegne	mte:Vmbr3s	utegniti
+biti	mte:Va-n	biti
+zelo	mte:Rgp	zelo
+kratkotrajno	mte:Agpnsn	kratkotrajen
+.	mte:Z	.
+Logično	mte:Rgp	logičen
+je	mte:Va-r3s-n	biti
+največji	mte:Agsmsay	velik
+skok	mte:Ncmsan	skok
+doživela	mte:Vmep-sf	doživeti
+borza	mte:Ncfsn	borz
+v	mte:Sl	v
+Madridu	mte:Npmsl	Madrid
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+teden	mte:Ncmsan	teden
+začela	mte:Vmep-sf	začeti
+z	mte:Si	z
+več	mte:Rgc	več
+kot	mte:Cs	kot
+petodstotno	mte:Agpfsi	petodstoten
+rastjo	mte:Ncfsi	rast
+.	mte:Z	.
+Visoki	mte:Agpmpn	visok
+pribitki	mte:Ncmpn	pribitek
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+opazni	mte:Agpmpn	opazen
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Frankfurtu	mte:Npmsl	Frankfurt
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+indeks	mte:Ncmsn	indeks
+DAX30	mte:Mdc	dax30
+pridobil	mte:Vmep-sm	pridobiti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+2,5	mte:Mdc	2,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Največjo	mte:Agsfsa	velik
+rast	mte:Ncfsa	rast
+so	mte:Va-r3p-n	biti
+doživele	mte:Vmep-pf	doživeti
+finančne	mte:Agpfpn	finančen
+delnice	mte:Ncfpn	delnica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+posledica	mte:Ncfsn	posledica
+zapiranja	mte:Ncnsg	zapiranje
+kratkih	mte:Agpfpg	kratek
+pozicij	mte:Ncfpg	pozicija
+tistih	mte:Pd-mpg	tisti
+vlagateljev	mte:Ncmpg	vlagatelj
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+stavili	mte:Vmpp-pm	staviti
+na	mte:Sa	na
+nadaljnje	mte:Agpmpa	nadaljnji
+padce	mte:Ncmpa	padec
+bančnih	mte:Agpfpg	bančen
+delnic	mte:Ncfpg	delnica
+.	mte:Z	.
+Vrednost	mte:Ncfsn	vrednost
+evra	mte:Ncmsg	evro
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+okrepila	mte:Vmep-sf	okrepiti
+do	mte:Sg	do
+1,2647	mte:Mdc	1,2647
+dolarja	mte:Ncmsg	dolar
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+tritedenski	mte:Agpmsny	tritedenski
+vrh	mte:Ncmsn	vrh
+.	mte:Z	.
+Javni	mte:Agpmsny	javen
+dolg	mte:Ncmsn	dolg
+bo	mte:Va-f3s-n	biti
+dosegel	mte:Vmep-sm	doseči
+skoraj	mte:Q	skoraj
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+BDP	mte:Ncmsn	BDP
+-	mte:Z	-
+ja	mte:Q	ja
+Načrt	mte:Ncmsn	načrt
+finančnih	mte:Agpmpg	finančen
+ministrov	mte:Ncmpg	minister
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+,	mte:Z	,
+da	mte:Cs	da
+Španiji	mte:Npfsd	Španija
+posodijo	mte:Vmer3p	posoditi
+do	mte:Sg	do
+100	mte:Mdc	100
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+za	mte:Sa	za
+sanacijo	mte:Ncfsa	sanacija
+finančnega	mte:Agpmsg	finančen
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+obsežnejši	mte:Agcmsny	obsežen
+od	mte:Sg	od
+predvidevanj	mte:Ncnpg	predvidevanje
+in	mte:Cc	in
+bo	mte:Va-f3s-n	biti
+vsaj	mte:Q	vsaj
+začasno	mte:Rgp	začasno
+pomagal	mte:Vmbp-sm	pomagati
+bankam	mte:Ncfpd	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+prizadeli	mte:Vmep-pm	prizadeti
+pok	mte:Ncmsn	pok
+nepremičninskega	mte:Agpmsg	nepremičninski
+balona	mte:Ncmsg	balon
+,	mte:Z	,
+recesija	mte:Ncfsn	recesija
+in	mte:Cc	in
+visoka	mte:Agpfsn	visok
+brezposelnost	mte:Ncfsn	brezposelnost
+.	mte:Z	.
+Španski	mte:Agpmsny	španski
+dolg	mte:Agpmsnn	dolg
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+Madrid	mte:Npmsn	Madrid
+res	mte:Rgp	res
+dobil	mte:Vmep-sm	dobiti
+celotnih	mte:Agpfpg	celoten
+sto	mte:Mlc-pa	sto
+milijard	mte:Ncfpg	milijarda
+,	mte:Z	,
+povečal	mte:Vmep-sm	povečati
+na	mte:Sa	na
+skoraj	mte:Q	skoraj
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+BDP	mte:Npmsn	BDP
+-	mte:Z	-
+ja	mte:Q	ja
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+pri	mte:Sl	pri
+68,5	mte:Mdc	68,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Španiji	mte:Npfsl	Španija
+bodo	mte:Va-f3p-n	biti
+zaradi	mte:Sg	zaradi
+tega	mte:Pd-nsg	ta
+vlagatelji	mte:Ncmpn	vlagatelj
+še	mte:Q	še
+bolj	mte:Rgc	bolj
+neradi	mte:Rgp	neradi
+posojali	mte:Vmpp-pm	posojati
+denar	mte:Ncmsan	denar
+.	mte:Z	.
+Joseph	mte:Npmsn	Joseph
+Stiglitz	mte:Npmsn	Stiglitz
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+voodoo	mte:Ncmsn	voodaa
+ekonomija	mte:Ncfsn	ekonomija
+Priznani	mte:Appmsny	priznan
+ekonomist	mte:Ncmsn	ekonomist
+Joseph	mte:Npmsn	Joseph
+Stiglitz	mte:Npmsn	Stiglitz
+je	mte:Va-r3s-n	biti
+skeptičen	mte:Agpmsnn	skeptičen
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+ta	mte:Pd-fsa	ta
+pomoč	mte:Ncfsa	pomoč
+dolgoročno	mte:Rgp	dolgoročno
+pomagala	mte:Vmbp-sf	pomagati
+,	mte:Z	,
+saj	mte:Cc	saj
+gre	mte:Vmbr3s	iti
+v	mte:Sl	v
+bistvu	mte:Ncnsl	bistvo
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+vlada	mte:Ncfsn	vlada
+v	mte:Sl	v
+Madridu	mte:Npmsl	Madrid
+rešuje	mte:Vmpr3s	reševati
+španske	mte:Agpfpa	španski
+banke	mte:Ncfpa	banka
+,	mte:Z	,
+te	mte:Pd-fpa	ta
+pa	mte:Cc	pa
+špansko	mte:Agpfsa	španski
+vlado	mte:Ncfsa	vlada
+,	mte:Z	,
+ko	mte:Cs	ko
+kupujejo	mte:Vmpr3p	kupovati
+njene	mte:Ps3fpasf	njen
+obveznice	mte:Ncfpa	obveznica
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+voodoo	mte:Ncmsn	voodaa
+ekonomija	mte:Ncfsn	ekonomija
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+deluje	mte:Vmpr3s	delovati
+in	mte:Cc	in
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+delovala	mte:Vmpp-sf	delovati
+.	mte:Z	.
+Kaj	mte:Pq-nsa	kaj
+pomaga	mte:Vmbr3s	pomagati
+požarni	mte:Agpmsny	požaren
+zid	mte:Ncmsn	zid
+,	mte:Z	,
+če	mte:Cs	če
+na	mte:Sa	na
+ogenj	mte:Ncmsan	ogenj
+dolivaš	mte:Vmpr2s	dolivati
+olje	mte:Ncnsa	olje
+.	mte:Z	.
+Potrebno	mte:Agpnsn	potreben
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+lotiti	mte:Vmen	lotiti
+jedra	mte:Ncnsg	jedro
+težav	mte:Ncfpg	težava
+,	mte:Z	,
+torej	mte:Rgp	torej
+spodbuditi	mte:Vmen	spodbuditi
+gospodarsko	mte:Agpfsa	gospodarski
+rast	mte:Ncfsa	rast
+.	mte:Z	.
+Stiglitz	mte:Npmsn	Stiglitz
+je	mte:Va-r3s-n	biti
+nasprotnik	mte:Ncmsn	nasprotnik
+varčevalnih	mte:Agpmpg	varčevalen
+ukrepov	mte:Ncmpg	ukrep
+,	mte:Z	,
+ena	mte:Mlpfsn	en
+od	mte:Sg	od
+njegovih	mte:Ps3fpgsm	njegov
+rešitev	mte:Ncfpg	rešitev
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+uvedba	mte:Ncfsn	uvedba
+evropske	mte:Agpfsg	evropski
+bančne	mte:Agpfsg	bančen
+unije	mte:Ncfsg	unija
+.	mte:Z	.
+V	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+volitve	mte:Ncfpn	volitev
+v	mte:Sl	v
+Grčiji	mte:Npfsl	Grčija
+Izkušnje	mte:Ncfpn	izkušnja
+zadnjih	mte:Agpnpg	zadnji
+let	mte:Ncnpg	leto
+kažejo	mte:Vmpr3p	kazati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+na	mte:Sl	na
+finančnih	mte:Agpmpl	finančen
+trgih	mte:Ncmpl	trg
+optimizem	mte:Ncmsn	optimizem
+zelo	mte:Rgp	zelo
+kratkotrajen	mte:Agpmsnn	kratkotrajen
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Evropa	mte:Npfsn	Evropa
+obljubila	mte:Vmep-sf	obljubiti
+pomoč	mte:Ncfsa	pomoč
+eni	mte:Mlpfsd	en
+izmed	mte:Sg	izmed
+svojih	mte:Px-fpg	svoj
+prezadolženih	mte:Appfpg	prezadolžen
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Tudi	mte:Q	tudi
+tokrat	mte:Rgp	tokrat
+verjetno	mte:Rgp	verjetno
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+nič	mte:Pz-nsn	nič
+drugače	mte:Rgp	drugače
+,	mte:Z	,
+zlasti	mte:Q	zlasti
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+vlagatelji	mte:Ncmpn	vlagatelj
+pozornost	mte:Ncfsa	pozornost
+začeli	mte:Vmep-pm	začeti
+posvečati	mte:Vmpn	posvečati
+prihajajočim	mte:Appfpd	prihajajoč
+grškim	mte:Agpfpd	grški
+parlamentarnim	mte:Agpfpd	parlamentaren
+volitvam	mte:Ncfpd	volitev
+,	mte:Z	,
+ki	mte:Cs	ki
+utegnejo	mte:Vmbr3p	utegniti
+povzročiti	mte:Vmen	povzročiti
+slovo	mte:Ncnsa	slovo
+Grčije	mte:Npfsg	Grčija
+od	mte:Sg	od
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+In	mte:Cc	in
+tu	mte:Rgp	tu
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+ki	mte:Cs	ki
+mora	mte:Vmpr3s	morati
+vsak	mte:Pg-msa	vsak
+mesec	mte:Ncmsan	mesec
+na	mte:Sl	na
+obvezniških	mte:Agpmpl	obvezniški
+trgih	mte:Ncmpl	trg
+prositi	mte:Vmpn	prositi
+za	mte:Sa	za
+35	mte:Mdc	35
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+skorajda	mte:Q	skorajda
+vrednost	mte:Ncfsn	vrednost
+slovenskega	mte:Agpmsg	slovenski
+BDP	mte:Ncmsg	BDP
+-	mte:Z	-
+ja	mte:Q	ja
+.	mte:Z	.
+Tečaji	mte:Ncmpn	tečaj
+delnic	mte:Ncfpg	delnica
+na	mte:Sl	na
+Lj	mte:Npmsl	Lj
+.	mte:Z	.
+borzi	mte:Ncmsn	borz
+PETROL	mte:Npmsn	Petrol
++	mte:Ncmsn	+
+7,94	mte:Mdc	7,94
+%	mte:Ncmsn	%
+182,95	mte:Mdc	182,95
+EUR	mte:Ncmsn	eur
+TELEKOM	mte:Npmsn	Telekom
++	mte:Ncmsn	+
+2,94	mte:Mdc	2,94
+%	mte:Ncmsn	%
+70,00	mte:Mdc	70,00
+MERCATOR	mte:Ncmsn	mercator
++	mte:Ncmsn	+
+2,34	mte:Mdc	2,34
+%	mte:Ncmsn	%
+127,00	mte:Mdc	127,00
+LUKA	mte:Npmsn	LUKA
+KOPER	mte:Npmsn	Koper
++	mte:Z	+
+0,72	mte:Mdc	0,72
+%	mte:Ncmsn	%
+8,36	mte:Mdc	8,36
+KRKA	mte:Npfsn	Krka
++	mte:Ncmsn	+
+0,33	mte:Mdc	0,33
+%	mte:Ncmsn	%
+42,50	mte:Mdc	42,50
+GORENJE	mte:Ncnsn	gorenje
+-	mte:Z	-
+0,08	mte:Mdc	0,08
+%	mte:Ncmsn	%
+5,006	mte:Mdc	5,006
+ZAV	mte:Ncmsn	ZAV
+.	mte:Z	.
+TRIGLAV	mte:Npmsn	Triglav
+-	mte:Z	-
+0,75	mte:Mdc	0,75
+%	mte:Ncmsn	%
+13,20	mte:Mdc	13,20
+NOVA	mte:Agpfsn	nov
+KBM	mte:Npfsg	KBM
+-	mte:Z	-
+6,38	mte:Mdc	6,38
+%	mte:Ncmsn	%
+2,20	mte:Mdc	2,20
+Italijo	mte:Npfsa	Italija
+pesti	mte:Ncfsg	pest
+zlasti	mte:Q	zlasti
+visok	mte:Agpmsnn	visok
+dolg	mte:Agpmsnn	dolg
+Makroekonomska	mte:Agpfsn	makroekonomski
+slika	mte:Ncfsn	slika
+Italije	mte:Npfsg	Italija
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+boljša	mte:Agcfsn	dober
+kot	mte:Cs	kot
+v	mte:Sl	v
+Španiji	mte:Npfsl	Španija
+.	mte:Z	.
+Proračunski	mte:Agpmsay	proračunski
+primanjkljaj	mte:Ncmsan	primanjkljaj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+letos	mte:Rgp	letos
+spravila	mte:Vmep-sf	spraviti
+pod	mte:Sa	pod
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+BDP	mte:Ncmsg	BDP
+-	mte:Z	-
+ja	mte:Q	ja
+.	mte:Z	.
+Stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+ni	mte:Va-r3s-y	biti
+niti	mte:Q	niti
+na	mte:Sl	na
+polovici	mte:Ncfsl	polovica
+španske	mte:Agpfsg	španski
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+države	mte:Ncfsg	država
+ni	mte:Va-r3s-y	biti
+prizadelo	mte:Vmep-sn	prizadeti
+sesutje	mte:Ncnsn	sesutje
+nepremičninskega	mte:Agpmsg	nepremičninski
+trga	mte:Ncmsg	trg
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+banke	mte:Ncfpn	banka
+bolj	mte:Rgc	bolj
+zdrave	mte:Agpfpn	zdrav
+.	mte:Z	.
+Največja	mte:Agsfsn	velik
+težava	mte:Ncfsn	težava
+je	mte:Va-r3s-n	biti
+visok	mte:Agpmsnn	visok
+javni	mte:Agpmsny	javen
+dolg	mte:Agpmsnn	dolg
+2.000	mte:Mdc	2.000
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+skoraj	mte:Q	skoraj
+120	mte:Mdc	120
+%	mte:Ncmpg	%
+BDP	mte:Npmsn	BDP
+-	mte:Z	-
+ja	mte:Q	ja
+,	mte:Z	,
+višjega	mte:Agcmsg	visok
+imata	mte:Vmpr3d-n	imeti
+le	mte:Q	le
+Japonska	mte:Npfsn	Japonska
+in	mte:Cc	in
+Grčija	mte:Npfsn	Grčija
+.	mte:Z	.
+Italijansko	mte:Agpnsn	italijanski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+letos	mte:Rgp	letos
+skrčilo	mte:Vmep-sn	skrčiti
+za	mte:Sa	za
+1,7	mte:Mdc	1,7
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Donos	mte:Ncmsn	donos
+10	mte:Mdc	10
+-	mte:Z	-
+letne	mte:Agpfsg	leten
+italijanske	mte:Agpfsg	italijanski
+obveznice	mte:Ncfsg	obveznica
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+na	mte:Sl	na
+začetku	mte:Ncmsl	začetek
+leta	mte:Ncnsg	leto
+200	mte:Mdc	200
+bazičnih	mte:Agpfpg	bazičen
+točk	mte:Ncfpg	točka
+višje	mte:Agcnsn	visok
+od	mte:Sg	od
+španske	mte:Agpfsg	španski
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+je	mte:Va-r3s-n	biti
+skoraj	mte:Q	skoraj
+50	mte:Mdc	50
+točk	mte:Ncfpg	točka
+manjši	mte:Agcmsny	majhen

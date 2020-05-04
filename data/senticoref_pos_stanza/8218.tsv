@@ -1,558 +1,566 @@
-token	tag
-Poslanec	Ncmsn
-SDS	Npmsg
-Branko	Npmsn
-Grims	Npmsn
-je	Va-r3s-n
-zbiranje	Ncnsa
-podpisov	Ncmpg
-za	Sa
-kakovostno	Agpnsa
-javno	Agpnsa
-šolstvo	Ncnsa
-s	Sg
-strani	Ncfsg
-Sindikata	Ncmsg
-vzgoje	Ncfsg
-,	Z
-izobraževanja	Ncnsg
-,	Z
-znanosti	Ncfsg
-in	Cc
-kulture	Ncfsg
-Slovenije	Npfsg
-(	Z
-Sviz	Npmsn
-)	Z
-označil	Vmep-sm
-za	Sa
-politično	Agpfsa
-akcijo	Ncfsa
-,	Z
-ki	Cs
-ne	Q
-koristi	Vmpr3s
-slovenskemu	Agpnsd
-šolstvu	Ncnsd
-.	Z
-Branko	Npmsn
-Grims	Npmsn
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-novinarski	Agpfsl
-konferenci	Ncfsl
-povedal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-poslanska	Agpfsn
-skupina	Ncfsn
-SDS	Npfsn
-minuli	Appmsay
-četrtek	Ncmsan
-sestala	Vmep-sf
-s	Si
-glavnim	Agpmsi
-tajnikom	Ncmsi
-Sviza	Npmsi
-Branimirjem	Npmsi
-Štrukljem	Npmsi
-,	Z
-kjer	Cs
-so	Va-r3p-n
-po	Sl
-besedah	Ncfpl
-Grimsa	Npmsg
-dosegli	Vmep-pm
-soglasje	Ncnsa
-o	Sl
-vseh	Pg-npl
-ključnih	Agpnpl
-odprtih	Appnpl
-vprašanjih	Ncnpl
-,	Z
-tudi	Q
-glede	Sg
-možnosti	Ncfsg
-financiranja	Ncnsg
-glede	Rgp
-na	Sa
-število	Ncnsa
-učencev	Ncmpg
-.	Z
-Grims	Npmsn
-pravi	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-v	Sl
-SDS	Npfsl
-kljub	Sd
-temu	Pd-nsd
-držali	Vmpp-pm
-dogovora	Ncmsg
-in	Cc
-iz	Sg
-predlaganega	Appmsg
-zakona	Ncmsg
-v	Sl
-celoti	Ncfsl
-črtali	Vmpp-pm
-možnost	Ncfsa
-financiranja	Ncnsg
-po	Sl
-glavi	Ncfsl
-učenca	Ncmsg
-.	Z
-"	Z
-Pa	Cc
-čeprav	Cs
-je	Va-r3s-n
-v	Sl
-zakonu	Ncmsl
-ta	Pd-fsn
-možnost	Ncfsn
-obstajala	Vmpp-sf
-zgolj	Q
-kot	Cs
-možnost	Ncfsn
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-ob	Sl
-tem	Pd-nsl
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-so	Va-r3p-n
-že	Q
-v	Sa
-petek	Ncmsan
-vložili	Vmep-pm
-nekatera	Pi-npa
-dopolnila	Ncnpa
-k	Sd
-zakonu	Ncmsd
-,	Z
-ki	Cs
-po	Sl
-poslančevih	Aspfpl
-besedah	Ncfpl
-odpravljajo	Vmpr3p
-prav	Q
-vse	Pg-fpa
-kritične	Agpfpa
-točke	Ncfpa
-.	Z
-Grims	Npmsn
-vztraja	Vmpr3s
-pri	Sl
-stoodstotnem	Agpnsl
-financiranju	Ncnsl
-zasebnih	Agpfpg
-šol	Ncfpg
-"	Z
-Tovrstne	Agpfsg
-aktivnosti	Ncfsg
-sindikata	Ncmsg
-otežujejo	Vmpr3p
-vsakršne	Pg-fpa
-nadaljnje	Agpfpa
-možnosti	Ncfpa
-dogovarjanja	Ncnsg
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-poslanec	Ncmsn
-SDS	Npmsg
-.	Z
-Sicer	Q
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-Štrukelj	Npmsn
-minulo	Appfsa
-sredo	Ncfsa
-sestal	Vmep-sm
-tudi	Q
-s	Si
-predstavniki	Ncmpi
-ministrstva	Ncnsg
-za	Sa
-šolstvo	Ncnsa
-in	Cc
-tudi	Q
-tam	Rgp
-so	Va-r3p-n
-,	Z
-tako	Rgp
-pravi	Vmbr3s
-Grims	Npmsn
-,	Z
-dosegli	Vmep-pm
-soglasje	Ncnsa
-o	Sl
-vseh	Pg-npl
-ključnih	Agpnpl
-odprtih	Appnpl
-vprašanjih	Ncnpl
-.	Z
-Edino	Agpnsn
-odprto	Appnsn
-vprašanje	Ncnsn
-po	Sl
-besedah	Ncfpl
-Grimsa	Npmsg
-ostaja	Vmpr3s
-financiranje	Ncnsa
-zasebnih	Agpfpg
-šol	Ncfpg
-.	Z
-Dejal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-vztrajajo	Vmpr3p
-pri	Sl
-njihovem	Ps3nslp
-stoodstotnem	Agpnsl
-financiranju	Ncnsl
-.	Z
-Poslanec	Ncmsn
-SDS	Npmsn
-je	Va-r3s-n
-morebitnim	Agpmpd
-pobudnikom	Ncmpd
-referenduma	Ncmsg
-o	Sl
-tem	Pd-nsl
-vprašanju	Ncnsl
-še	Q
-sporočil	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-stroški	Ncmpn
-tovrstnega	Agpmsg
-referenduma	Ncmsg
-zadostovali	Vmpp-pm
-za	Sa
-12	Mdc
-let	Ncnpg
-financiranja	Ncnsg
-zasebnih	Agpfpg
-šol	Ncfpg
-.	Z
-Širca	Npfsn
-:	Z
-Ne	Q
-gre	Vmbr3s
-za	Sa
-reforme	Ncfpa
-,	Z
-gre	Vmbr3s
-za	Sa
-revolucijo	Ncfsa
-Opozicijski	Agpmpn
-poslanci	Ncmpn
-Majda	Npfsn
-Širca	Npfsn
-(	Z
-NP	Ncmsn
-)	Z
-,	Z
-Majda	Npfsn
-Potrata	Npfsn
-(	Z
-SD	Npmsn
-)	Z
-,	Z
-Barbara	Npfsn
-Žgajner	Npfsn
-Tavš	Npfsn
-(	Z
-SNS	Npmsn
-)	Z
-,	Z
-Rudolf	Npmsn
-Moge	Npmsn
-(	Z
-LDS	Npfsn
-)	Z
-in	Cc
-Slavko	Npmsn
-Gaber	Npmsn
-(	Z
-samostojni	Agpmsny
-poslanec	Ncmsn
-)	Z
-pa	Cc
-so	Va-r3p-n
-pred	Si
-četrtkovo	Aspfsi
-obravnavo	Ncfsi
-novel	Ncmpg
-zakonov	Ncmpg
-o	Sl
-osnovni	Agpfsl
-šoli	Ncfsl
-ter	Cc
-organizaciji	Ncfsl
-in	Cc
-financiranju	Ncnsl
-vzgoje	Ncfsg
-in	Cc
-izobraževanja	Ncnsg
-na	Sl
-matičnem	Agpmsl
-odboru	Ncmsl
-v	Sl
-DZ	Npfsl
-poudarili	Vmep-pm
-pomen	Ncmsan
-javne	Agpfsg
-predstavitve	Ncfsg
-mnenj	Ncnpg
-.	Z
-Menijo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-ta	Pd-fsn
-nujno	Rgp
-potrebna	Agpfsn
-pred	Si
-nadaljnjo	Agpfsi
-obravnavo	Ncfsi
-na	Sl
-odboru	Ncmsl
-,	Z
-saj	Cc
-vse	Pg-nsn
-kaže	Vmpr3s
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-spremembe	Ncfpa
-brez	Sg
-dogovora	Ncmsg
-s	Si
-stroko	Ncfsi
-.	Z
-Potrata	Ncfsn
-je	Va-r3s-n
-dejala	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-opozicija	Ncfsn
-podpisala	Vmep-sf
-predlog	Ncmsan
-za	Sa
-razširitev	Ncfsa
-seje	Ncfsg
-odbora	Ncmsg
-DZ	Npmsg
-za	Sa
-kulturo	Ncfsa
-,	Z
-šolstvo	Ncnsa
-in	Cc
-šport	Ncmsan
-z	Si
-zahtevo	Ncfsi
-po	Sl
-javni	Agpfsl
-predstavitvi	Ncfsl
-mnenj	Ncnpg
-v	Sl
-zvezi	Ncfsl
-z	Si
-obema	Pg-mdi
-predlaganima	Appmdi
-zakonoma	Ncmdi
-.	Z
-"	Z
-Opozicija	Ncfsn
-nikoli	Rgp
-ni	Va-r3s-y
-trdila	Vmpp-sf
-,	Z
-da	Cs
-spremembe	Ncfpn
-na	Sl
-šolskem	Agpnsl
-področju	Ncnsl
-niso	Va-r3p-y
-potrebne	Agpfpn
-,	Z
-zahtevala	Vmbp-sf
-pa	Cc
-je	Va-r3s-n
-jasne	Agpmpa
-,	Z
-pregledne	Agpmpa
-,	Z
-strokovne	Agpmpa
-predloge	Ncmpa
-za	Sa
-vse	Pg-mpa
-ukrepe	Ncmpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-načrtovane	Appfpn
-spremembe	Ncfpn
-napovedujejo	Vmpr3p
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnila	Vmep-sf
-.	Z
-Širca	Npfsn
-je	Va-r3s-n
-menila	Vmpp-sf
-,	Z
-da	Cs
-na	Sl
-področju	Ncnsl
-šolstva	Ncnsg
-ne	Q
-gre	Vmbr3s
-le	Q
-za	Sa
-reforme	Ncfpa
-,	Z
-ampak	Cc
-za	Sa
-revolucijo	Ncfsa
-.	Z
-Dodala	Vmep-sf
-je	Va-r3s-n
-,	Z
-da	Cs
-ostaja	Vmpr3s
-minister	Ncmsn
-Zver	Npmsn
-v	Sl
-zagovoru	Ncmsl
-sprememb	Ncfpg
-obeh	Pg-mdg
-zakonov	Ncmdg
-sam	Agpmsnn
-na	Sl
-enem	Mlpmsl
-bregu	Ncmsl
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-vsa	Pg-fsn
-zainteresirana	Appfsn
-javnost	Ncfsn
-na	Sl
-drugem	Mlpmsl
-.	Z
-"	Z
-Če	Cs
-bo	Va-f3s-n
-šel	Vmbp-sm
-tako	Rgp
-naprej	Rgp
-,	Z
-bo	Va-f3s-n
-dokazal	Vmep-sm
-,	Z
-da	Cs
-rekonstrukcija	Ncfsn
-vlade	Ncfsg
-ni	Va-r3s-y
-bila	Va-p-sf
-popolna	Agpfsn
-,	Z
-"	Z
-je	Va-r3s-n
-menila	Vmpp-sf
-.	Z
-Gaber	Npmsn
-pa	Cc
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-sistem	Ncmsn
-potrebuje	Vmpr3s
-nadgrajevanje	Ncnsa
-,	Z
-vendar	Cc
-domišljeno	Appnsn
-nadgrajevanje	Ncnsa
-.	Z
-Dopolnila	Vmep-sf
-po	Sl
-njegovem	Ps3nslsm
-mnenju	Ncnsl
-nakazujejo	Vmpr3p
-,	Z
-v	Sl
-kateri	Pq-fsl
-smeri	Ncfsl
-bi	Va-c
-morala	Vmpp-sf
-stroka	Ncfsn
-najprej	Rgs
-razpravljati	Vmpn
-.	Z
-Na	Sa
-predlog	Ncmsan
-sindikatov	Ncmpg
-je	Va-r3s-n
-bilo	Va-p-sn
-vloženih	Appmpg
-več	Rgc
-kot	Cs
-70	Mdc
-dopolnil	Ncnpg
-.	Z
-Meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-na	Sl
-področju	Ncnsl
-zasebnih	Agpfpg
-šol	Ncfpg
-mogoče	Agpnsn
-dograditi	Vmen
-sistem	Ncmsan
-,	Z
-predlaga	Vmbr3s
-pa	Cc
-,	Z
-da	Cs
-ostane	Vmer3s
-delež	Ncmsan
-javnega	Agpnsg
-financiranja	Ncnsg
-takšen	Pd-msn
-,	Z
-kot	Cs
-je	Va-r3s-n
-danes	Rgp
-,	Z
-torej	Rgp
-85	Mdc
--	Z
-odstoten	Agpmsnn
-.	Z
+token	tag	lemma
+Poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsg	SDS
+Branko	mte:Npmsn	Branko
+Grims	mte:Npmsn	Grims
+je	mte:Va-r3s-n	biti
+zbiranje	mte:Ncnsa	zbiranje
+podpisov	mte:Ncmpg	podpis
+za	mte:Sa	za
+kakovostno	mte:Agpnsa	kakovostno
+javno	mte:Agpnsa	javen
+šolstvo	mte:Ncnsa	šolstvo
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+Sindikata	mte:Ncmsg	sindikat
+vzgoje	mte:Ncfsg	vzgoja
+,	mte:Z	,
+izobraževanja	mte:Ncnsg	izobraževanje
+,	mte:Z	,
+znanosti	mte:Ncfsg	znanost
+in	mte:Cc	in
+kulture	mte:Ncfsg	kultura
+Slovenije	mte:Npfsg	Slovenija
+(	mte:Z	(
+Sviz	mte:Npmsn	Sviz
+)	mte:Z	)
+označil	mte:Vmep-sm	označiti
+za	mte:Sa	za
+politično	mte:Agpfsa	političen
+akcijo	mte:Ncfsa	akcija
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+koristi	mte:Vmpr3s	koristiti
+slovenskemu	mte:Agpnsd	slovenski
+šolstvu	mte:Ncnsd	šolstvo
+.	mte:Z	.
+Branko	mte:Npmsn	Branko
+Grims	mte:Npmsn	Grims
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+poslanska	mte:Agpfsn	poslanski
+skupina	mte:Ncfsn	skupina
+SDS	mte:Npfsn	SDS
+minuli	mte:Appmsay	minul
+četrtek	mte:Ncmsan	četrtek
+sestala	mte:Vmep-sf	sestati
+s	mte:Si	z
+glavnim	mte:Agpmsi	glaven
+tajnikom	mte:Ncmsi	tajnik
+Sviza	mte:Npmsi	Sviza
+Branimirjem	mte:Npmsi	Branimir
+Štrukljem	mte:Npmsi	Štrukelj
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Grimsa	mte:Npmsg	Grims
+dosegli	mte:Vmep-pm	doseči
+soglasje	mte:Ncnsa	soglasje
+o	mte:Sl	o
+vseh	mte:Pg-npl	ves
+ključnih	mte:Agpnpl	ključen
+odprtih	mte:Appnpl	odprt
+vprašanjih	mte:Ncnpl	vprašanje
+,	mte:Z	,
+tudi	mte:Q	tudi
+glede	mte:Sg	glede
+možnosti	mte:Ncfsg	možnost
+financiranja	mte:Ncnsg	financiranje
+glede	mte:Rgp	glede
+na	mte:Sa	na
+število	mte:Ncnsa	število
+učencev	mte:Ncmpg	učenec
+.	mte:Z	.
+Grims	mte:Npmsn	Grims
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+SDS	mte:Npfsl	SDS
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+držali	mte:Vmpp-pm	držati
+dogovora	mte:Ncmsg	dogovor
+in	mte:Cc	in
+iz	mte:Sg	iz
+predlaganega	mte:Appmsg	predlagan
+zakona	mte:Ncmsg	zakon
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+črtali	mte:Vmpp-pm	črtati
+možnost	mte:Ncfsa	možnost
+financiranja	mte:Ncnsg	financiranje
+po	mte:Sl	po
+glavi	mte:Ncfsl	glava
+učenca	mte:Ncmsg	učenec
+.	mte:Z	.
+"	mte:Z	"
+Pa	mte:Cc	pa
+čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zakonu	mte:Ncmsl	zakon
+ta	mte:Pd-fsn	ta
+možnost	mte:Ncfsn	možnost
+obstajala	mte:Vmpp-sf	obstajati
+zgolj	mte:Q	zgolj
+kot	mte:Cs	kot
+možnost	mte:Ncfsn	možnost
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+vložili	mte:Vmep-pm	vložiti
+nekatera	mte:Pi-npa	nekateri
+dopolnila	mte:Ncnpa	dopolniti
+k	mte:Sd	k
+zakonu	mte:Ncmsd	zakon
+,	mte:Z	,
+ki	mte:Cs	ki
+po	mte:Sl	po
+poslančevih	mte:Aspfpl	poslančev
+besedah	mte:Ncfpl	beseda
+odpravljajo	mte:Vmpr3p	odpravljati
+prav	mte:Q	prav
+vse	mte:Pg-fpa	ves
+kritične	mte:Agpfpa	kritičen
+točke	mte:Ncfpa	točka
+.	mte:Z	.
+Grims	mte:Npmsn	Grims
+vztraja	mte:Vmpr3s	vztrajati
+pri	mte:Sl	pri
+stoodstotnem	mte:Agpnsl	stoodstoten
+financiranju	mte:Ncnsl	financiranje
+zasebnih	mte:Agpfpg	zaseben
+šol	mte:Ncfpg	šola
+"	mte:Z	"
+Tovrstne	mte:Agpfsg	tovrsten
+aktivnosti	mte:Ncfsg	aktivnost
+sindikata	mte:Ncmsg	sindikat
+otežujejo	mte:Vmpr3p	oteževati
+vsakršne	mte:Pg-fpa	vsakršen
+nadaljnje	mte:Agpfpa	nadaljnji
+možnosti	mte:Ncfpa	možnost
+dogovarjanja	mte:Ncnsg	dogovarjanje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsg	SDS
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Štrukelj	mte:Npmsn	Štrukelj
+minulo	mte:Appfsa	minul
+sredo	mte:Ncfsa	sreda
+sestal	mte:Vmep-sm	sestati
+tudi	mte:Q	tudi
+s	mte:Si	z
+predstavniki	mte:Ncmpi	predstavnik
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+šolstvo	mte:Ncnsa	šolstvo
+in	mte:Cc	in
+tudi	mte:Q	tudi
+tam	mte:Rgp	tam
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+tako	mte:Rgp	tako
+pravi	mte:Vmbr3s	praviti
+Grims	mte:Npmsn	Grims
+,	mte:Z	,
+dosegli	mte:Vmep-pm	doseči
+soglasje	mte:Ncnsa	soglasje
+o	mte:Sl	o
+vseh	mte:Pg-npl	ves
+ključnih	mte:Agpnpl	ključen
+odprtih	mte:Appnpl	odprt
+vprašanjih	mte:Ncnpl	vprašanje
+.	mte:Z	.
+Edino	mte:Agpnsn	edin
+odprto	mte:Appnsn	odprt
+vprašanje	mte:Ncnsn	vprašanje
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Grimsa	mte:Npmsg	Grims
+ostaja	mte:Vmpr3s	ostajati
+financiranje	mte:Ncnsa	financiranje
+zasebnih	mte:Agpfpg	zaseben
+šol	mte:Ncfpg	šola
+.	mte:Z	.
+Dejal	mte:Vmep-sm	dejati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+vztrajajo	mte:Vmpr3p	vztrajati
+pri	mte:Sl	pri
+njihovem	mte:Ps3nslp	njihov
+stoodstotnem	mte:Agpnsl	stoodstoten
+financiranju	mte:Ncnsl	financiranje
+.	mte:Z	.
+Poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsn	SDS
+je	mte:Va-r3s-n	biti
+morebitnim	mte:Agpmpd	morebiten
+pobudnikom	mte:Ncmpd	pobudnik
+referenduma	mte:Ncmsg	referendum
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+vprašanju	mte:Ncnsl	vprašanje
+še	mte:Q	še
+sporočil	mte:Vmep-sm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+stroški	mte:Ncmpn	strošek
+tovrstnega	mte:Agpmsg	tovrsten
+referenduma	mte:Ncmsg	referendum
+zadostovali	mte:Vmpp-pm	zadostovati
+za	mte:Sa	za
+12	mte:Mdc	12
+let	mte:Ncnpg	leto
+financiranja	mte:Ncnsg	financiranje
+zasebnih	mte:Agpfpg	zaseben
+šol	mte:Ncfpg	šola
+.	mte:Z	.
+Širca	mte:Npfsn	Širca
+:	mte:Z	:
+Ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+reforme	mte:Ncfpa	reforma
+,	mte:Z	,
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+revolucijo	mte:Ncfsa	revolucija
+Opozicijski	mte:Agpmpn	opozicijski
+poslanci	mte:Ncmpn	poslanec
+Majda	mte:Npfsn	Majda
+Širca	mte:Npfsn	Širca
+(	mte:Z	(
+NP	mte:Ncmsn	NP
+)	mte:Z	)
+,	mte:Z	,
+Majda	mte:Npfsn	Majda
+Potrata	mte:Npfsn	Potrat
+(	mte:Z	(
+SD	mte:Npmsn	SD
+)	mte:Z	)
+,	mte:Z	,
+Barbara	mte:Npfsn	Barbara
+Žgajner	mte:Npfsn	Žgajner
+Tavš	mte:Npfsn	Tavš
+(	mte:Z	(
+SNS	mte:Npmsn	SNS
+)	mte:Z	)
+,	mte:Z	,
+Rudolf	mte:Npmsn	Rudolf
+Moge	mte:Npmsn	Moge
+(	mte:Z	(
+LDS	mte:Npfsn	LDS
+)	mte:Z	)
+in	mte:Cc	in
+Slavko	mte:Npmsn	Slavko
+Gaber	mte:Npmsn	Gaber
+(	mte:Z	(
+samostojni	mte:Agpmsny	samostojen
+poslanec	mte:Ncmsn	poslanec
+)	mte:Z	)
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+pred	mte:Si	pred
+četrtkovo	mte:Aspfsi	četrtkov
+obravnavo	mte:Ncfsi	obravnava
+novel	mte:Ncmpg	novel
+zakonov	mte:Ncmpg	zakon
+o	mte:Sl	o
+osnovni	mte:Agpfsl	osnoven
+šoli	mte:Ncfsl	šola
+ter	mte:Cc	ter
+organizaciji	mte:Ncfsl	organizacija
+in	mte:Cc	in
+financiranju	mte:Ncnsl	financiranje
+vzgoje	mte:Ncfsg	vzgoja
+in	mte:Cc	in
+izobraževanja	mte:Ncnsg	izobraževanje
+na	mte:Sl	na
+matičnem	mte:Agpmsl	matičen
+odboru	mte:Ncmsl	odbor
+v	mte:Sl	v
+DZ	mte:Npfsl	DZ
+poudarili	mte:Vmep-pm	poudariti
+pomen	mte:Ncmsan	pomen
+javne	mte:Agpfsg	javen
+predstavitve	mte:Ncfsg	predstavitev
+mnenj	mte:Ncnpg	mnenje
+.	mte:Z	.
+Menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-fsn	ta
+nujno	mte:Rgp	nujno
+potrebna	mte:Agpfsn	potreben
+pred	mte:Si	pred
+nadaljnjo	mte:Agpfsi	nadaljnji
+obravnavo	mte:Ncfsi	obravnava
+na	mte:Sl	na
+odboru	mte:Ncmsl	odbor
+,	mte:Z	,
+saj	mte:Cc	saj
+vse	mte:Pg-nsn	ves
+kaže	mte:Vmpr3s	kazati
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+spremembe	mte:Ncfpa	sprememba
+brez	mte:Sg	brez
+dogovora	mte:Ncmsg	dogovor
+s	mte:Si	z
+stroko	mte:Ncfsi	stroka
+.	mte:Z	.
+Potrata	mte:Ncfsn	potrat
+je	mte:Va-r3s-n	biti
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+opozicija	mte:Ncfsn	opozicija
+podpisala	mte:Vmep-sf	podpisati
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+razširitev	mte:Ncfsa	razširitev
+seje	mte:Ncfsg	seja
+odbora	mte:Ncmsg	odbor
+DZ	mte:Npmsg	DZ
+za	mte:Sa	za
+kulturo	mte:Ncfsa	kultura
+,	mte:Z	,
+šolstvo	mte:Ncnsa	šolstvo
+in	mte:Cc	in
+šport	mte:Ncmsan	šport
+z	mte:Si	z
+zahtevo	mte:Ncfsi	zahteva
+po	mte:Sl	po
+javni	mte:Agpfsl	javen
+predstavitvi	mte:Ncfsl	predstavitev
+mnenj	mte:Ncnpg	mnenje
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+obema	mte:Pg-mdi	oba
+predlaganima	mte:Appmdi	predlagan
+zakonoma	mte:Ncmdi	zakon
+.	mte:Z	.
+"	mte:Z	"
+Opozicija	mte:Ncfsn	opozicija
+nikoli	mte:Rgp	nikoli
+ni	mte:Va-r3s-y	biti
+trdila	mte:Vmpp-sf	trditi
+,	mte:Z	,
+da	mte:Cs	da
+spremembe	mte:Ncfpn	sprememba
+na	mte:Sl	na
+šolskem	mte:Agpnsl	šolski
+področju	mte:Ncnsl	področje
+niso	mte:Va-r3p-y	biti
+potrebne	mte:Agpfpn	potreben
+,	mte:Z	,
+zahtevala	mte:Vmbp-sf	zahtevati
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+jasne	mte:Agpmpa	jasen
+,	mte:Z	,
+pregledne	mte:Agpmpa	pregleden
+,	mte:Z	,
+strokovne	mte:Agpmpa	strokoven
+predloge	mte:Ncmpa	predlog
+za	mte:Sa	za
+vse	mte:Pg-mpa	ves
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+načrtovane	mte:Appfpn	načrtovan
+spremembe	mte:Ncfpn	sprememba
+napovedujejo	mte:Vmpr3p	napovedovati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+.	mte:Z	.
+Širca	mte:Npfsn	Širca
+je	mte:Va-r3s-n	biti
+menila	mte:Vmpp-sf	meniti
+,	mte:Z	,
+da	mte:Cs	da
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+šolstva	mte:Ncnsg	šolstvo
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+le	mte:Q	le
+za	mte:Sa	za
+reforme	mte:Ncfpa	reforma
+,	mte:Z	,
+ampak	mte:Cc	ampak
+za	mte:Sa	za
+revolucijo	mte:Ncfsa	revolucija
+.	mte:Z	.
+Dodala	mte:Vmep-sf	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+ostaja	mte:Vmpr3s	ostajati
+minister	mte:Ncmsn	minister
+Zver	mte:Npmsn	Zver
+v	mte:Sl	v
+zagovoru	mte:Ncmsl	zagovor
+sprememb	mte:Ncfpg	sprememba
+obeh	mte:Pg-mdg	oba
+zakonov	mte:Ncmdg	zakon
+sam	mte:Agpmsnn	sam
+na	mte:Sl	na
+enem	mte:Mlpmsl	en
+bregu	mte:Ncmsl	breg
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+vsa	mte:Pg-fsn	ves
+zainteresirana	mte:Appfsn	zainteresiran
+javnost	mte:Ncfsn	javnost
+na	mte:Sl	na
+drugem	mte:Mlpmsl	drug
+.	mte:Z	.
+"	mte:Z	"
+Če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+šel	mte:Vmbp-sm	iti
+tako	mte:Rgp	tako
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+dokazal	mte:Vmep-sm	dokazati
+,	mte:Z	,
+da	mte:Cs	da
+rekonstrukcija	mte:Ncfsn	rekonstrukcija
+vlade	mte:Ncfsg	vlada
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+popolna	mte:Agpfsn	popoln
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+menila	mte:Vmpp-sf	meniti
+.	mte:Z	.
+Gaber	mte:Npmsn	Gaber
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+sistem	mte:Ncmsn	sistem
+potrebuje	mte:Vmpr3s	potrebovati
+nadgrajevanje	mte:Ncnsa	nadgrajevanje
+,	mte:Z	,
+vendar	mte:Cc	vendar
+domišljeno	mte:Appnsn	domišljen
+nadgrajevanje	mte:Ncnsa	nadgrajevanje
+.	mte:Z	.
+Dopolnila	mte:Vmep-sf	dopolniti
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+mnenju	mte:Ncnsl	mnenje
+nakazujejo	mte:Vmpr3p	nakazovati
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+smeri	mte:Ncfsl	smer
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sf	morati
+stroka	mte:Ncfsn	strok
+najprej	mte:Rgs	najprej
+razpravljati	mte:Vmpn	razpravljati
+.	mte:Z	.
+Na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+sindikatov	mte:Ncmpg	sindikat
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+vloženih	mte:Appmpg	vložen
+več	mte:Rgc	več
+kot	mte:Cs	kot
+70	mte:Mdc	70
+dopolnil	mte:Ncnpg	dopolnilo
+.	mte:Z	.
+Meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+zasebnih	mte:Agpfpg	zaseben
+šol	mte:Ncfpg	šola
+mogoče	mte:Agpnsn	mogoč
+dograditi	mte:Vmen	dograditi
+sistem	mte:Ncmsan	sistem
+,	mte:Z	,
+predlaga	mte:Vmbr3s	predlagati
+pa	mte:Cc	pa
+,	mte:Z	,
+da	mte:Cs	da
+ostane	mte:Vmer3s	ostati
+delež	mte:Ncmsan	delež
+javnega	mte:Agpnsg	javen
+financiranja	mte:Ncnsg	financiranje
+takšen	mte:Pd-msn	takšen
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+,	mte:Z	,
+torej	mte:Rgp	torej
+85	mte:Mdc	85
+-	mte:Z	-
+odstoten	mte:Agpmsnn	odstoten
+.	mte:Z	.
+Gaber	mte:Npmsn	Gaber
+predlaga	mte:Vmbr3s	predlagati
+tudi	mte:Q	tudi
+možnost	mte:Ncfsa	možnost
+za	mte:Sa	za
+več	mte:Rgc	več
+ur	mte:Ncfpg	ura
+pouka	mte:Ncmsg	pouk

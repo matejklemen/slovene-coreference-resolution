@@ -1,405 +1,435 @@
-token	tag
-Slovenski	Agpmpn
-preiskovalci	Ncmpn
-sodelujejo	Vmpr3p
-tudi	Q
-s	Si
-tujimi	Agpmpi
-varnostnimi	Agpmpi
-organi	Ncmpi
-Policija	Ncfsn
-preverja	Vmpr3s
-več	Rgc
-sumov	Ncmpg
-kaznivih	Agpnpg
-dejanj	Ncnpg
-,	Z
-povezanih	Appmpg
-z	Si
-nepremičninskimi	Agpmpi
-posli	Ncmpi
-,	Z
-finančnimi	Agpfpi
-transakciji	Ncfpi
-in	Cc
-sumi	Vmpr3s
-zlorab	Ncfpg
-položaja	Ncmsg
-odgovornih	Agpfpg
-oseb	Ncfpg
-v	Sl
-Hypo	Npmsl
-Alpe	Npmsn
--	Z
-Adria	Npfsn
-banki	Ncfsd
-.	Z
-Preiskava	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-fazi	Ncfsl
-več	Rgc
-predkazenskih	Agpmpg
-postopkov	Ncmpg
-,	Z
-se	Px------y
-je	Va-r3s-n
-začela	Vmep-sf
-že	Q
-sredi	Sg
-lanskega	Agpnsg
-leta	Ncnsg
-.	Z
-Policija	Ncfsn
-že	Q
-od	Sg
-takrat	Rgp
-zbira	Vmpr3s
-dokumentacijo	Ncfsa
-,	Z
-ki	Cs
-pa	Cc
-še	Q
-ni	Va-r3s-y
-popolna	Agpfsn
-,	Z
-saj	Cc
-gre	Vmbr3s
-za	Sa
-obsežne	Agpfpa
-in	Cc
-zapletene	Agpfpa
-zadeve	Ncfpa
-,	Z
-ki	Cs
-zahtevajo	Vmbr3p
-tudi	Q
-mednarodno	Agpnsa
-sodelovanje	Ncnsa
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-z	Sg
-generalne	Agpfsg
-policijske	Agpfsg
-uprave	Ncfsg
-.	Z
-Pod	Si
-drobnogledom	Ncmsi
-Hypo	Npfsn
-banka	Ncfsn
-in	Cc
-Hypo	Npmsn
-Leasing	Npmsn
-V	Sl
-preiskavi	Ncfsl
-povezana	Appfsn
-je	Va-r3s-n
-s	Si
-Hypo	Npmsi
-Alpe	Npmsn
--	Z
-Adria	Npfsn
--	Z
-bank	Ncfpg
-in	Cc
-Hypo	Npmsn
-Leasingom	Npmsi
-sodeluje	Vmpr3s
-več	Rgc
-slovenskih	Agpfpg
-policijskih	Agpfpg
-uprav	Ncfpg
-,	Z
-uprava	Ncfsn
-kriminalistične	Agpfsg
-policije	Ncfsg
-ter	Cc
-varnostni	Agpmpn
-organi	Ncmpn
-drugih	Mlpfpg
-držav	Ncfpg
-,	Z
-med	Si
-njimi	Pp3mpi
-Avstrije	Npfsg
-.	Z
-Pristojni	Agpmpn
-organi	Ncmpn
-namreč	Cc
-preiskujejo	Vmpr3p
-tudi	Q
-sume	Ncmpa
-finančnih	Agpfpg
-nepravilnosti	Ncfpg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-potekale	Vmpp-pf
-preko	Sg
-finančnih	Agpfpg
-ustanov	Ncfpg
-in	Cc
-poslovnih	Agpmpg
-subjektov	Ncmpg
-v	Sl
-Liechtensteinu	Npmsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-so	Va-r3p-n
-mediji	Ncmpn
-nedavno	Rgp
-poročali	Vmpp-pm
-o	Sl
-domnevnih	Agpfpl
-nepravilnostih	Ncfpl
-pri	Sl
-gradbenih	Agpmpl
-poslih	Ncmpl
-Vegrada	Npmsg
-,	Z
-v	Sa
-katere	Pq-mpa
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-vpletena	Appfsn
-tudi	Q
-Hypo	Npfsn
-banka	Ncfsn
-in	Cc
-domnevnem	Agpnsl
-pretakanju	Ncnsl
-denarja	Ncmsg
-iz	Sg
-Vegrada	Npmsg
-na	Sa
-račune	Ncmpa
-v	Sl
-Liechtensteinu	Npmsl
-.	Z
-Preberite	Vmem2p
-tudi	Q
-Senica	Npfsn
-za	Sa
-odvetniško	Agpfsa
-pisarno	Ncfsa
-plačuje	Vmpr3s
-najemnino	Ncfsa
-Hypo	Npfsn
-Leasing.Vodstvo	Npmsn
-Hypa	Npmsg
-neuradno	Rgp
-odnesel	Vmep-sm
-kup	Ncmsan
-nepravilnosti	Ncfsg
-,	Z
-tudi	Q
-posli	Ncmpn
-z	Si
-Vegradom	Npmsi
-Bliskovita	Agpfsn
-menjava	Ncfsn
-slovenske	Agpfsg
-uprave	Ncfsg
-?	Z
-V	Sl
-Hypo	Npmsl
-Alpe	Npmsn
--	Z
-Adria	Npfsn
-banki	Ncfsd
-v	Sl
-Sloveniji	Npfsl
-matična	Agpfsn
-družba	Ncfsn
-ima	Vmpr3s-n
-sedež	Ncmsan
-v	Sl
-Celovcu	Npmsl
-so	Va-r3p-n
-pred	Si
-dnevi	Ncmpi
-zamenjali	Vmep-pm
-upravo	Ncfsa
-in	Cc
-namesto	Sg
-generalnega	Agpmsg
-direktorja	Ncmsg
-Andreja	Npmsg
-Potočnika	Npmsg
-in	Cc
-direktorjev	Ncmpg
-Marcela	Npmsg
-Sumperja	Npmsg
-in	Cc
-Aleksandra	Npfsg
-Skubica	Npfsg
-postavili	Vmep-pm
-Alexandra	Npmsay
-Pickerja	Npmsay
-in	Cc
-Mateja	Npmsay
-Falatova	Npmsay
-.	Z
-Spremembe	Ncfpn
-so	Va-r3p-n
-doletele	Vmep-pf
-tudi	Q
-nadzorni	Agpmsay
-svet	Ncmsan
-,	Z
-saj	Cc
-so	Va-r3p-n
-odpoklicali	Vmep-pm
-edinega	Agpmsa
-slovenskega	Agpmsa
-nadzornika	Ncmsay
-Aleša	Npmsay
-Rojsa	Npmsay
-.	Z
-Zamenjava	Ncfsn
-velja	Vmpr3s
-za	Sa
-nenavadno	Agpnsa
-tudi	Q
-zato	Rgp
-,	Z
-ker	Cs
-je	Va-r3s-n
-potekala	Vmpp-sf
-ob	Sl
-navzočnosti	Ncfsl
-tujih	Agpmpg
-,	Z
-avstrijskih	Agpmpg
-varnostnikov	Ncmpg
-,	Z
-za	Sa
-katere	Pq-mpa
-še	Q
-ni	Va-r3s-y
-jasno	Agpnsn
-,	Z
-ali	Rgp
-so	Va-r3p-n
-imeli	Vmpp-pm
-dovoljenje	Ncnsa
-za	Sa
-opravljanje	Ncnsa
-varnostnih	Agpfpg
-nalog	Ncfpg
-na	Sl
-ozemlju	Ncnsl
-Slovenije	Npfsg
-.	Z
-Novoimenovana	Appfsn
-uprava	Ncfsn
-še	Q
-nima	Vmpr3s-y
-dovoljenja	Ncnsg
-za	Sa
-opravljanje	Ncnsa
-funkcije	Ncfsg
-te	Pd-fsg
-izdaja	Ncfsn
-Banka	Ncfsn
-Slovenije	Npfsg
-,	Z
-zato	Cc
-banko	Ncfsa
-vodi	Vmpr3s
-začasna	Agpfsn
-uprava	Ncfsn
-,	Z
-člana	Ncmsay
-nadzornega	Agpmsg
-sveta	Ncmsg
-slovenske	Agpfsg
-banke	Ncfsg
-in	Cc
-upravnega	Agpmsg
-odbora	Ncmsg
-skupine	Ncfsg
-Hypo	Npfsn
-Alpe	Npmsn
--	Z
-Adria	Npfsn
-.	Z
-Na	Sl
-Banki	Ncfsl
-Slovenija	Npfsn
-so	Va-r3p-n
-dejali	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-postopek	Ncmsan
-dodeljevanja	Ncnsg
-dovoljenja	Ncnsg
-za	Sa
-opravljanje	Ncnsa
-funkcije	Ncfsg
-v	Sl
-upravi	Ncfsl
-banke	Ncfsg
-vodili	Vmpp-pm
-tako	Rgp
-kot	Cs
-vse	Pg-mpa
-druge	Mlpmpa
-takšne	Pd-mpa
-postopke	Ncmpa
-in	Cc
-v	Sl
-skladu	Ncmsl
-z	Si
-zakonom	Ncmsi
-o	Sl
-bančništvu	Ncnsl
-.	Z
-Rok	Ncmsn
-za	Sa
-izdajo	Ncfsa
-dovoljenja	Ncnsg
-je	Va-r3s-n
-tri	Mlcmpa
-mesece	Ncmpa
-od	Sg
-prejema	Ncmsg
-vloge	Ncfsg
-za	Sa
-izdajo	Ncfsa
-dovoljenja	Ncnsg
-.	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-hitro	Agpfsa
-zamenjavo	Ncfsa
-vodstva	Ncnsg
-slovenske	Agpfsg
-podružnice	Ncfsg
-označuje	Vmpr3s
-za	Sa
-zakonito	Agpnsa
-in	Cc
-dodaja	Vmpr3s
-,	Z
-da	Cs
-jim	Pp3mpd--y
-je	Va-r3s-n
-nadzorni	Agpmsny
-svet	Ncmsn
-razloge	Ncmpa
-za	Sa
-ukrep	Ncmsan
-pojasnil	Vmep-sm
-v	Sa
-petek	Ncmsan
-.	Z
+token	tag	lemma
+Slovenski	mte:Agpmpn	slovenski
+preiskovalci	mte:Ncmpn	preiskovalec
+sodelujejo	mte:Vmpr3p	sodelovati
+tudi	mte:Q	tudi
+s	mte:Si	z
+tujimi	mte:Agpmpi	tuj
+varnostnimi	mte:Agpmpi	varnosten
+organi	mte:Ncmpi	organ
+Policija	mte:Ncfsn	policija
+preverja	mte:Vmpr3s	preverjati
+več	mte:Rgc	več
+sumov	mte:Ncmpg	sum
+kaznivih	mte:Agpnpg	kazniv
+dejanj	mte:Ncnpg	dejanje
+,	mte:Z	,
+povezanih	mte:Appmpg	povezan
+z	mte:Si	z
+nepremičninskimi	mte:Agpmpi	nepremičninski
+posli	mte:Ncmpi	posel
+,	mte:Z	,
+finančnimi	mte:Agpfpi	finančen
+transakciji	mte:Ncfpi	transakcija
+in	mte:Cc	in
+sumi	mte:Vmpr3s	sumiti
+zlorab	mte:Ncfpg	zloraba
+položaja	mte:Ncmsg	položaj
+odgovornih	mte:Agpfpg	odgovoren
+oseb	mte:Ncfpg	oseba
+v	mte:Sl	v
+Hypo	mte:Npmsl	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+banki	mte:Ncfsd	banka
+.	mte:Z	.
+Preiskava	mte:Ncfsn	preiskava
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+fazi	mte:Ncfsl	faza
+več	mte:Rgc	več
+predkazenskih	mte:Agpmpg	predkazenski
+postopkov	mte:Ncmpg	postopek
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+začela	mte:Vmep-sf	začeti
+že	mte:Q	že
+sredi	mte:Sg	sredi
+lanskega	mte:Agpnsg	lanski
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Policija	mte:Ncfsn	policija
+že	mte:Q	že
+od	mte:Sg	od
+takrat	mte:Rgp	takrat
+zbira	mte:Vmpr3s	zbirati
+dokumentacijo	mte:Ncfsa	dokumentacija
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+popolna	mte:Agpfsn	popoln
+,	mte:Z	,
+saj	mte:Cc	saj
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+obsežne	mte:Agpfpa	obsežen
+in	mte:Cc	in
+zapletene	mte:Agpfpa	zapleten
+zadeve	mte:Ncfpa	zadeva
+,	mte:Z	,
+ki	mte:Cs	ki
+zahtevajo	mte:Vmbr3p	zahtevati
+tudi	mte:Q	tudi
+mednarodno	mte:Agpnsa	mednaroden
+sodelovanje	mte:Ncnsa	sodelovanje
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+z	mte:Sg	z
+generalne	mte:Agpfsg	generalen
+policijske	mte:Agpfsg	policijski
+uprave	mte:Ncfsg	uprava
+.	mte:Z	.
+Pod	mte:Si	pod
+drobnogledom	mte:Ncmsi	drobnogled
+Hypo	mte:Npfsn	Hypo
+banka	mte:Ncfsn	banka
+in	mte:Cc	in
+Hypo	mte:Npmsn	Hypo
+Leasing	mte:Npmsn	Leasing
+V	mte:Sl	v
+preiskavi	mte:Ncfsl	preiskava
+povezana	mte:Appfsn	povezan
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+Hypo	mte:Npmsi	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+-	mte:Z	-
+bank	mte:Ncfpg	banka
+in	mte:Cc	in
+Hypo	mte:Npmsn	Hypo
+Leasingom	mte:Npmsi	Leasing
+sodeluje	mte:Vmpr3s	sodelovati
+več	mte:Rgc	več
+slovenskih	mte:Agpfpg	slovenski
+policijskih	mte:Agpfpg	policijski
+uprav	mte:Ncfpg	uprava
+,	mte:Z	,
+uprava	mte:Ncfsn	uprava
+kriminalistične	mte:Agpfsg	kriminalističen
+policije	mte:Ncfsg	policija
+ter	mte:Cc	ter
+varnostni	mte:Agpmpn	varnosten
+organi	mte:Ncmpn	organ
+drugih	mte:Mlpfpg	drug
+držav	mte:Ncfpg	država
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+Avstrije	mte:Npfsg	Avstrija
+.	mte:Z	.
+Pristojni	mte:Agpmpn	pristojen
+organi	mte:Ncmpn	organ
+namreč	mte:Cc	namreč
+preiskujejo	mte:Vmpr3p	preiskovati
+tudi	mte:Q	tudi
+sume	mte:Ncmpa	suma
+finančnih	mte:Agpfpg	finančen
+nepravilnosti	mte:Ncfpg	nepravilnost
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+potekale	mte:Vmpp-pf	potekati
+preko	mte:Sg	preko
+finančnih	mte:Agpfpg	finančen
+ustanov	mte:Ncfpg	ustan
+in	mte:Cc	in
+poslovnih	mte:Agpmpg	posloven
+subjektov	mte:Ncmpg	subjekt
+v	mte:Sl	v
+Liechtensteinu	mte:Npmsl	Liechtenstein
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+mediji	mte:Ncmpn	medij
+nedavno	mte:Rgp	nedavno
+poročali	mte:Vmpp-pm	poročati
+o	mte:Sl	o
+domnevnih	mte:Agpfpl	domneven
+nepravilnostih	mte:Ncfpl	nepravilnost
+pri	mte:Sl	pri
+gradbenih	mte:Agpmpl	gradben
+poslih	mte:Ncmpl	posel
+Vegrada	mte:Npmsg	Vegrada
+,	mte:Z	,
+v	mte:Sa	v
+katere	mte:Pq-mpa	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+vpletena	mte:Appfsn	vpleten
+tudi	mte:Q	tudi
+Hypo	mte:Npfsn	Hypo
+banka	mte:Ncfsn	banka
+in	mte:Cc	in
+domnevnem	mte:Agpnsl	domneven
+pretakanju	mte:Ncnsl	pretakanje
+denarja	mte:Ncmsg	denar
+iz	mte:Sg	iz
+Vegrada	mte:Npmsg	Vegrada
+na	mte:Sa	na
+račune	mte:Ncmpa	račun
+v	mte:Sl	v
+Liechtensteinu	mte:Npmsl	Liechtenstein
+.	mte:Z	.
+Preberite	mte:Vmem2p	prebrati
+tudi	mte:Q	tudi
+Senica	mte:Npfsn	Senica
+za	mte:Sa	za
+odvetniško	mte:Agpfsa	odvetniški
+pisarno	mte:Ncfsa	pisarna
+plačuje	mte:Vmpr3s	plačevati
+najemnino	mte:Ncfsa	najemnina
+Hypo	mte:Npfsn	Hypo
+Leasing.Vodstvo	mte:Npmsn	Leasing.Vodstvo
+Hypa	mte:Npmsg	Hypa
+neuradno	mte:Rgp	neuradno
+odnesel	mte:Vmep-sm	odnesti
+kup	mte:Ncmsan	kup
+nepravilnosti	mte:Ncfsg	nepravilnost
+,	mte:Z	,
+tudi	mte:Q	tudi
+posli	mte:Ncmpn	posel
+z	mte:Si	z
+Vegradom	mte:Npmsi	Vegrad
+Bliskovita	mte:Agpfsn	bliskovit
+menjava	mte:Ncfsn	menjava
+slovenske	mte:Agpfsg	slovenski
+uprave	mte:Ncfsg	uprava
+?	mte:Z	?
+V	mte:Sl	v
+Hypo	mte:Npmsl	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+banki	mte:Ncfsd	banka
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+matična	mte:Agpfsn	matičen
+družba	mte:Ncfsn	družba
+ima	mte:Vmpr3s-n	imeti
+sedež	mte:Ncmsan	sedež
+v	mte:Sl	v
+Celovcu	mte:Npmsl	Celovec
+so	mte:Va-r3p-n	biti
+pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+zamenjali	mte:Vmep-pm	zamenjati
+upravo	mte:Ncfsa	uprava
+in	mte:Cc	in
+namesto	mte:Sg	namesto
+generalnega	mte:Agpmsg	generalen
+direktorja	mte:Ncmsg	direktor
+Andreja	mte:Npmsg	Andreja
+Potočnika	mte:Npmsg	Potočnik
+in	mte:Cc	in
+direktorjev	mte:Ncmpg	direktor
+Marcela	mte:Npmsg	Marcela
+Sumperja	mte:Npmsg	Sumper
+in	mte:Cc	in
+Aleksandra	mte:Npfsg	Aleksandra
+Skubica	mte:Npfsg	Skubica
+postavili	mte:Vmep-pm	postaviti
+Alexandra	mte:Npmsay	Alexandra
+Pickerja	mte:Npmsay	Picker
+in	mte:Cc	in
+Mateja	mte:Npmsay	Mateja
+Falatova	mte:Npmsay	Falatov
+.	mte:Z	.
+Spremembe	mte:Ncfpn	sprememba
+so	mte:Va-r3p-n	biti
+doletele	mte:Vmep-pf	doleteti
+tudi	mte:Q	tudi
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+odpoklicali	mte:Vmep-pm	odpoklicati
+edinega	mte:Agpmsa	edin
+slovenskega	mte:Agpmsa	slovenski
+nadzornika	mte:Ncmsay	nadzornik
+Aleša	mte:Npmsay	Aleša
+Rojsa	mte:Npmsay	Rojsa
+.	mte:Z	.
+Zamenjava	mte:Ncfsn	zamenjava
+velja	mte:Vmpr3s	veljati
+za	mte:Sa	za
+nenavadno	mte:Agpnsa	nenavaden
+tudi	mte:Q	tudi
+zato	mte:Rgp	zato
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+potekala	mte:Vmpp-sf	potekati
+ob	mte:Sl	ob
+navzočnosti	mte:Ncfsl	navzočnost
+tujih	mte:Agpmpg	tuj
+,	mte:Z	,
+avstrijskih	mte:Agpmpg	avstrijski
+varnostnikov	mte:Ncmpg	varnostnik
+,	mte:Z	,
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+dovoljenje	mte:Ncnsa	dovoljenje
+za	mte:Sa	za
+opravljanje	mte:Ncnsa	opravljanje
+varnostnih	mte:Agpfpg	varnosten
+nalog	mte:Ncfpg	naloga
+na	mte:Sl	na
+ozemlju	mte:Ncnsl	ozemlje
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Novoimenovana	mte:Appfsn	novoimenovan
+uprava	mte:Ncfsn	uprava
+še	mte:Q	še
+nima	mte:Vmpr3s-y	imeti
+dovoljenja	mte:Ncnsg	dovoljenje
+za	mte:Sa	za
+opravljanje	mte:Ncnsa	opravljanje
+funkcije	mte:Ncfsg	funkcija
+te	mte:Pd-fsg	ta
+izdaja	mte:Ncfsn	izdajati
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+zato	mte:Cc	zato
+banko	mte:Ncfsa	banka
+vodi	mte:Vmpr3s	voditi
+začasna	mte:Agpfsn	začasen
+uprava	mte:Ncfsn	uprava
+,	mte:Z	,
+člana	mte:Ncmsay	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+slovenske	mte:Agpfsg	slovenski
+banke	mte:Ncfsg	banka
+in	mte:Cc	in
+upravnega	mte:Agpmsg	upraven
+odbora	mte:Ncmsg	odbor
+skupine	mte:Ncfsg	skupina
+Hypo	mte:Npfsn	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+.	mte:Z	.
+Na	mte:Sl	na
+Banki	mte:Ncfsl	banka
+Slovenija	mte:Npfsn	Slovenija
+so	mte:Va-r3p-n	biti
+dejali	mte:Vmep-pm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+postopek	mte:Ncmsan	postopek
+dodeljevanja	mte:Ncnsg	dodeljevanje
+dovoljenja	mte:Ncnsg	dovoljenje
+za	mte:Sa	za
+opravljanje	mte:Ncnsa	opravljanje
+funkcije	mte:Ncfsg	funkcija
+v	mte:Sl	v
+upravi	mte:Ncfsl	uprava
+banke	mte:Ncfsg	banka
+vodili	mte:Vmpp-pm	voditi
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+vse	mte:Pg-mpa	ves
+druge	mte:Mlpmpa	drug
+takšne	mte:Pd-mpa	takšen
+postopke	mte:Ncmpa	postopek
+in	mte:Cc	in
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+zakonom	mte:Ncmsi	zakon
+o	mte:Sl	o
+bančništvu	mte:Ncnsl	bančništvo
+.	mte:Z	.
+Rok	mte:Ncmsn	rok
+za	mte:Sa	za
+izdajo	mte:Ncfsa	izdaja
+dovoljenja	mte:Ncnsg	dovoljenje
+je	mte:Va-r3s-n	biti
+tri	mte:Mlcmpa	trije
+mesece	mte:Ncmpa	mesec
+od	mte:Sg	od
+prejema	mte:Ncmsg	prejem
+vloge	mte:Ncfsg	vloga
+za	mte:Sa	za
+izdajo	mte:Ncfsa	izdaja
+dovoljenja	mte:Ncnsg	dovoljenje
+.	mte:Z	.
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+hitro	mte:Agpfsa	hiter
+zamenjavo	mte:Ncfsa	zamenjava
+vodstva	mte:Ncnsg	vodstvo
+slovenske	mte:Agpfsg	slovenski
+podružnice	mte:Ncfsg	podružnica
+označuje	mte:Vmpr3s	označevati
+za	mte:Sa	za
+zakonito	mte:Agpnsa	zakonit
+in	mte:Cc	in
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+razloge	mte:Ncmpa	razlog
+za	mte:Sa	za
+ukrep	mte:Ncmsan	ukrep
+pojasnil	mte:Vmep-sm	pojasniti
+v	mte:Sa	v
+petek	mte:Ncmsan	petek
+.	mte:Z	.
+Tudi	mte:Q	tudi
+na	mte:Sl	na
+generalni	mte:Agpfsl	generalen
+policijski	mte:Agpfsl	policijski
+upravi	mte:Ncfsl	uprava
+so	mte:Va-r3p-n	biti
+dejali	mte:Vmep-pm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+zamenjavo	mte:Ncfsi	zamenjava
+vodstva	mte:Ncnsg	vodstvo
+banke	mte:Ncfsg	banka
+niso	mte:Va-r3p-y	biti
+prejeli	mte:Vmep-pm	prejeti
+nobene	mte:Pz-fsg	noben
+prijave	mte:Ncfsg	prijava
+ali	mte:Cc	ali
+zaprosila	mte:Vmep-pf	zaprositi
+za	mte:Sa	za
+asistenco	mte:Ncfsa	asistenca
+,	mte:Z	,
+zato	mte:Cc	zato
+se	mte:Px------y	se
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+ne	mte:Q	ne
+ukvarjajo	mte:Vmpr3p	ukvarjati

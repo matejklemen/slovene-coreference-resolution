@@ -1,493 +1,531 @@
-token	tag
-Novo	Agpnsn
-mesto	Ncnsn
--	Z
-Novomeški	Agpmsny
-Revoz	Npmsn
-in	Cc
-Krka	Npmsn
-sta	Va-r3d-n
-napovedala	Vmep-dm
-,	Z
-da	Cs
-bosta	Va-f3d-n
-v	Sl
-prihodnjih	Agpmpl
-mesecih	Ncmpl
-ponovno	Rgp
-zaposlovala	Vmpp-dm
-.	Z
-Medtem	Rgp
-ko	Cs
-bodo	Va-f3p-n
-v	Sl
-Revozu	Npmsl
-približno	Rgp
-300	Mdc
-ljudi	Ncmpg
-zaposlili	Vmep-pm
-za	Sa
-določen	Appmsan
-čas	Ncmsan
-,	Z
-pa	Cc
-v	Sl
-Krki	Npfsl
-načrtujejo	Vmpr3p
-85	Mdc
-novih	Agpfpg
-stalnih	Agpfpg
-zaposlitev	Ncfpg
-.	Z
-Kljub	Sd
-napovedanemu	Appnsd
-zaposlovanju	Ncnsd
-pa	Cc
-na	Sl
-novomeški	Agpfsl
-območni	Agpfsl
-enoti	Ncfsl
-zavoda	Ncmsg
-za	Sa
-zaposlovanje	Ncnsa
-menijo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-brezposelnost	Ncfsn
-v	Sl
-regiji	Ncfsl
-ne	Q
-bo	Va-f3s-n
-znižala	Vmep-sf
-.	Z
-V	Sl
-Revozu	Npmsl
-,	Z
-kjer	Cs
-je	Va-r3s-n
-konec	Sg
-maja	Ncmsg
-brez	Sg
-dela	Ncnsg
-ostalo	Vmep-sn
-približno	Rgp
-390	Mdc
-agencijskih	Agpmpg
-delavcev	Ncmpg
-in	Cc
-približno	Rgp
-130	Mdc
-zaposlenih	Appmpg
-za	Sa
-določen	Appmsan
-čas	Ncmsan
-,	Z
-bo	Va-f3s-n
-predvidoma	Rgp
-konec	Sg
-meseca	Ncmsg
-ponovno	Rgp
-začela	Vmep-sf
-obratovati	Vmpn
-nočna	Agpfsn
-izmena	Ncfsn
-,	Z
-zato	Cc
-bodo	Va-f3p-n
-zaposlili	Vmep-pm
-300	Mdc
-novih	Agpmpg
-delavcev	Ncmpg
-,	Z
-so	Va-r3p-n
-v	Sl
-družbi	Ncfsl
-potrdili	Vmep-pm
-za	Sa
-STA	Va-r3d-n
-.	Z
-Pri	Sl
-zaposlovanju	Ncnsl
-bo	Va-f3s-n
-šlo	Vmbp-sn
-večinoma	Rgp
-za	Sa
-zaposlitve	Ncfpa
-za	Sa
-določen	Appmsan
-čas	Ncmsan
-,	Z
-predvidoma	Rgp
-pa	Cc
-bodo	Va-f3p-n
-zaposleni	Appmpn
-predvsem	Q
-delavci	Ncmpn
-v	Sl
-proizvodnji	Ncfsl
-,	Z
-ki	Cs
-jim	Pp3mpd--y
-je	Va-r3s-n
-bila	Va-p-sf
-pogodba	Ncfsn
-prekinjena	Appfsn
-konec	Sg
-maja	Ncmsg
-,	Z
-ko	Cs
-so	Va-r3p-n
-v	Sl
-Revozu	Npmsl
-zaradi	Sg
-težav	Ncfpg
-z	Si
-oskrbo	Ncfsi
-morali	Vmpp-pm
-odpraviti	Vmen
-nočno	Agpfsa
-izmeno	Ncfsa
-.	Z
-"	Z
-Zaposlitev	Ncfsa
-je	Va-r3s-n
-začasne	Agpfsg
-narave	Ncfsg
-,	Z
-predvidoma	Rgp
-do	Sg
-konca	Ncmsg
-leta	Ncnsg
-,	Z
-ob	Sl
-ugodnih	Agpfpl
-razmerah	Ncfpl
-na	Sl
-trgu	Ncmsl
-morda	Q
-tudi	Q
-dlje	Rgc
-,	Z
-"	Z
-so	Va-r3p-n
-še	Q
-zapisali	Vmep-pm
-.	Z
-V	Sl
-Krki	Npfsl
-pa	Cc
-do	Sg
-konca	Ncmsg
-leta	Ncnsg
-nameravajo	Vmpr3p
-zaposliti	Vmen
-85	Mdc
-ljudi	Ncmpg
-,	Z
-so	Va-r3p-n
-za	Sa
-STA	Va-r3d-n
-potrdili	Vmep-dm
-v	Sl
-družbi	Ncfsl
-.	Z
-Zaposlovali	Vmpp-pm
-bodo	Va-f3p-n
-predvsem	Q
-visokošolske	Agpmpa
-in	Cc
-univerzitetne	Agpmpa
-kadre	Ncmpa
-farmacevtske	Agpfsg
-in	Cc
-kemijske	Agpfsg
-usmeritve	Ncfsg
-ter	Cc
-tudi	Q
-drugih	Mlpfpg
-naravoslovnih	Agpfpg
-smeri	Ncfpg
-.	Z
-Med	Si
-srednješolskimi	Agpmpi
-kadri	Ncmpi
-bodo	Va-f3p-n
-zaposlovali	Vmpp-pm
-predvsem	Q
-kemijske	Agpfpa
-in	Cc
-farmacevtske	Agpfpa
-tehnike	Ncfpa
-.	Z
-"	Z
-V	Sl
-večini	Ncfsl
-primerov	Ncmpg
-bodo	Va-f3p-n
-to	Pd-nsn
-stalne	Agpfpn
-oblike	Ncfpn
-zaposlitve	Ncfsg
-"	Z
-,	Z
-so	Va-r3p-n
-zapisali	Vmep-pm
-.	Z
-Kljub	Sd
-napovedanemu	Appnsd
-zaposlovanju	Ncnsd
-pa	Cc
-na	Sl
-novomeški	Agpfsl
-območni	Agpfsl
-enoti	Ncfsl
-zavoda	Ncmsg
-za	Sa
-zaposlovanje	Ncnsa
-v	Sl
-prihodnjih	Agpmpl
-mesecih	Ncmpl
-ne	Q
-pričakujejo	Vmpr3p
-znižanja	Ncnsg
-stopnje	Ncfsg
-brezposelnosti	Ncfsg
-v	Sl
-regiji	Ncfsl
-.	Z
-Koordinator	Ncmsn
-analitike	Ncmpa
-novomeške	Agpfsg
-območne	Agpfsg
-službe	Ncfsg
-Jože	Npmsn
-Giodani	Npmsn
-je	Va-r3s-n
-za	Sa
-STA	Va-r3d-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-po	Sl
-zadnjih	Agpmpl
-objavljenih	Appmpl
-podatkih	Ncmpl
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-na	Sl
-Dolenjskem	Npnsl
-11,1	Mdc
--	Z
-odstotna	Agpfsn
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-v	Sl
-11,4	Mdc
--	Z
-odstotna	Agpfsn
-.	Z
-"	Z
-Na	Sl
-območju	Ncnsl
-Črnomlja	Npmsg
-in	Cc
-Metlike	Npfsg
-je	Va-r3s-n
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-15,2	Mdc
--	Z
-odstotna	Agpfsn
-,	Z
-v	Sl
-Novem	Agpnsl
-mestu	Ncnsl
-pa	Cc
-9,9	Mdc
--	Z
-odstotna	Agpfsn
-"	Z
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Giodani	Npmsn
-.	Z
-Konec	Sg
-junija	Ncmsg
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sl
-novomeški	Agpfsl
-regiji	Ncfsl
-skupaj	Rgp
-registriranih	Appfpg
-5857	Mdc
-brezposelnih	Agpfpg
-oseb	Ncfpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-11,3	Mdc
-odstotka	Ncmsg
-več	Rgc
-kot	Cs
-decembra	Ncmsg
-lani	Rgp
-,	Z
-medtem	Rgp
-ko	Cs
-se	Px------y
-je	Va-r3s-n
-na	Sl
-ravni	Ncfsl
-države	Ncfsg
-stopnja	Ncfsn
-brezposelnosti	Ncfsg
-znižala	Vmep-sf
-za	Sa
-2,2	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-prvi	Mlofsl
-polovici	Ncfsl
-letošnjega	Agpnsg
-leta	Ncnsg
-je	Va-r3s-n
-bilo	Va-p-sn
-sicer	Q
-v	Sl
-novomeški	Agpfsl
-regiji	Ncfsl
-razpisanih	Appnpg
-5345	Mdc
-prostih	Agpnpg
-delovnih	Agpnpg
-mest	Ncnpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-17	Mdc
-odstotkov	Ncmpg
-več	Rgc
-kot	Cs
-v	Sl
-enakem	Pi-nsl
-obdobju	Ncnsl
-lani	Rgp
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Giodani	Npmsn
-.	Z
-Giodani	Npmsn
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-povpraševanje	Ncnsn
-po	Sl
-delavcih	Ncmpl
-v	Sl
-jesenskih	Agpmpl
-mesecih	Ncmpl
-še	Q
-povečalo	Vmep-sn
-,	Z
-kljub	Sd
-temu	Pd-nsd
-pa	Cc
-ne	Q
-pričakuje	Vmpr3s
-znižanja	Ncnsg
-stopnje	Ncfsg
-brezposelnosti	Ncfsg
-predvsem	Q
-zaradi	Sg
-"	Z
-priliva	Ncmsg
-presežnih	Agpmpg
-delavcev	Ncmpg
-in	Cc
-rednega	Agpmsg
-generacijskega	Agpmsg
-priliva	Ncmsg
-"	Z
-.	Z
-Goidani	Npmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-še	Q
-poudaril	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-Revoz	Npmsn
-zaposlil	Vmep-sm
-predvsem	Q
-delavce	Ncmpa
-,	Z
-ki	Cs
-delajo	Vmpr3p
-preko	Sg
-posredniških	Agpfpg
-agencij	Ncfpg
-,	Z
-zato	Cc
-se	Px------y
-brezposelnost	Ncfsn
-ne	Q
-bo	Va-f3s-n
-znižala	Vmep-sf
-.	Z
-Po	Sl
-pisanju	Ncnsl
-današnjih	Agpfpg
-Financ	Ncfpg
-,	Z
-ki	Cs
-tudi	Q
-poročajo	Vmpr3p
-o	Sl
-napovedanem	Appnsl
-zaposlovanju	Ncnsl
-v	Sl
-Revozu	Npmsl
-in	Cc
-Krki	Npfsl
-,	Z
-dolenjska	Agpnpn
-podjetja	Ncnpn
-sicer	Q
-največ	Rgs
-povprašujejo	Vmpr3p
-po	Sl
-kemijskih	Agpmpl
-procesničarjih	Ncmpl
-,	Z
-mizarjih	Ncmpl
-,	Z
-ključavničarjih	Ncmpl
-,	Z
-avtomehanikih	Ncmpl
-,	Z
-voznikih	Ncmpl
-avtomehanikih	Ncmpl
-,	Z
-doktorjih	Ncmpl
-medicine	Ncfsg
-,	Z
-diplomiranih	Appfpl
-medicinskih	Agpfpl
-sestrah	Ncfpl
-in	Cc
-profesorjih	Ncmpl
-razrednega	Agpmsg
-pouka	Ncmsg
-.	Z
+token	tag	lemma
+Novo	mte:Agpnsn	nov
+mesto	mte:Ncnsn	mesto
+-	mte:Z	-
+Novomeški	mte:Agpmsny	novomeški
+Revoz	mte:Npmsn	Revoz
+in	mte:Cc	in
+Krka	mte:Npmsn	Krka
+sta	mte:Va-r3d-n	biti
+napovedala	mte:Vmep-dm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bosta	mte:Va-f3d-n	biti
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+mesecih	mte:Ncmpl	mesec
+ponovno	mte:Rgp	ponovno
+zaposlovala	mte:Vmpp-dm	zaposlovati
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+približno	mte:Rgp	približno
+300	mte:Mdc	300
+ljudi	mte:Ncmpg	človek
+zaposlili	mte:Vmep-pm	zaposliti
+za	mte:Sa	za
+določen	mte:Appmsan	določen
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+pa	mte:Cc	pa
+v	mte:Sl	v
+Krki	mte:Npfsl	Krki
+načrtujejo	mte:Vmpr3p	načrtovati
+85	mte:Mdc	85
+novih	mte:Agpfpg	nov
+stalnih	mte:Agpfpg	stalen
+zaposlitev	mte:Ncfpg	zaposlitev
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+napovedanemu	mte:Appnsd	napovedan
+zaposlovanju	mte:Ncnsd	zaposlovanje
+pa	mte:Cc	pa
+na	mte:Sl	na
+novomeški	mte:Agpfsl	novomeški
+območni	mte:Agpfsl	območen
+enoti	mte:Ncfsl	enota
+zavoda	mte:Ncmsg	zavod
+za	mte:Sa	za
+zaposlovanje	mte:Ncnsa	zaposlovanje
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+brezposelnost	mte:Ncfsn	brezposelnost
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+znižala	mte:Vmep-sf	znižati
+.	mte:Z	.
+V	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+maja	mte:Ncmsg	maj
+brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+ostalo	mte:Vmep-sn	ostati
+približno	mte:Rgp	približno
+390	mte:Mdc	390
+agencijskih	mte:Agpmpg	agencijski
+delavcev	mte:Ncmpg	delavec
+in	mte:Cc	in
+približno	mte:Rgp	približno
+130	mte:Mdc	130
+zaposlenih	mte:Appmpg	zaposlen
+za	mte:Sa	za
+določen	mte:Appmsan	določen
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+konec	mte:Sg	konec
+meseca	mte:Ncmsg	mesec
+ponovno	mte:Rgp	ponovno
+začela	mte:Vmep-sf	začeti
+obratovati	mte:Vmpn	obratovati
+nočna	mte:Agpfsn	nočen
+izmena	mte:Ncfsn	izmena
+,	mte:Z	,
+zato	mte:Cc	zato
+bodo	mte:Va-f3p-n	biti
+zaposlili	mte:Vmep-pm	zaposliti
+300	mte:Mdc	300
+novih	mte:Agpmpg	nov
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+potrdili	mte:Vmep-pm	potrditi
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+.	mte:Z	.
+Pri	mte:Sl	pri
+zaposlovanju	mte:Ncnsl	zaposlovanje
+bo	mte:Va-f3s-n	biti
+šlo	mte:Vmbp-sn	iti
+večinoma	mte:Rgp	večinoma
+za	mte:Sa	za
+zaposlitve	mte:Ncfpa	zaposlitev
+za	mte:Sa	za
+določen	mte:Appmsan	določen
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+predvidoma	mte:Rgp	predvidoma
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+zaposleni	mte:Appmpn	zaposlen
+predvsem	mte:Q	predvsem
+delavci	mte:Ncmpn	delavec
+v	mte:Sl	v
+proizvodnji	mte:Ncfsl	proizvodnja
+,	mte:Z	,
+ki	mte:Cs	ki
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+pogodba	mte:Ncfsn	pogodba
+prekinjena	mte:Appfsn	prekinjen
+konec	mte:Sg	konec
+maja	mte:Ncmsg	maj
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+zaradi	mte:Sg	zaradi
+težav	mte:Ncfpg	težava
+z	mte:Si	z
+oskrbo	mte:Ncfsi	oskrba
+morali	mte:Vmpp-pm	morati
+odpraviti	mte:Vmen	odpraviti
+nočno	mte:Agpfsa	nočen
+izmeno	mte:Ncfsa	izmena
+.	mte:Z	.
+"	mte:Z	"
+Zaposlitev	mte:Ncfsa	zaposlitev
+je	mte:Va-r3s-n	biti
+začasne	mte:Agpfsg	začasen
+narave	mte:Ncfsg	narava
+,	mte:Z	,
+predvidoma	mte:Rgp	predvidoma
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+ob	mte:Sl	ob
+ugodnih	mte:Agpfpl	ugoden
+razmerah	mte:Ncfpl	razmera
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+morda	mte:Q	morda
+tudi	mte:Q	tudi
+dlje	mte:Rgc	dolgo
+,	mte:Z	,
+"	mte:Z	"
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+zapisali	mte:Vmep-pm	zapisati
+.	mte:Z	.
+V	mte:Sl	v
+Krki	mte:Npfsl	Krki
+pa	mte:Cc	pa
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+leta	mte:Ncnsg	leto
+nameravajo	mte:Vmpr3p	nameravati
+zaposliti	mte:Vmen	zaposliti
+85	mte:Mdc	85
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+potrdili	mte:Vmep-dm	potrditi
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+.	mte:Z	.
+Zaposlovali	mte:Vmpp-pm	zaposlovati
+bodo	mte:Va-f3p-n	biti
+predvsem	mte:Q	predvsem
+visokošolske	mte:Agpmpa	visokošolski
+in	mte:Cc	in
+univerzitetne	mte:Agpmpa	univerziteten
+kadre	mte:Ncmpa	kader
+farmacevtske	mte:Agpfsg	farmacevtski
+in	mte:Cc	in
+kemijske	mte:Agpfsg	kemijski
+usmeritve	mte:Ncfsg	usmeritev
+ter	mte:Cc	ter
+tudi	mte:Q	tudi
+drugih	mte:Mlpfpg	drug
+naravoslovnih	mte:Agpfpg	naravosloven
+smeri	mte:Ncfpg	smer
+.	mte:Z	.
+Med	mte:Si	med
+srednješolskimi	mte:Agpmpi	srednješolski
+kadri	mte:Ncmpi	kader
+bodo	mte:Va-f3p-n	biti
+zaposlovali	mte:Vmpp-pm	zaposlovati
+predvsem	mte:Q	predvsem
+kemijske	mte:Agpfpa	kemijski
+in	mte:Cc	in
+farmacevtske	mte:Agpfpa	farmacevtski
+tehnike	mte:Ncfpa	tehnika
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+večini	mte:Ncfsl	večina
+primerov	mte:Ncmpg	primer
+bodo	mte:Va-f3p-n	biti
+to	mte:Pd-nsn	ta
+stalne	mte:Agpfpn	stalen
+oblike	mte:Ncfpn	oblika
+zaposlitve	mte:Ncfsg	zaposlitev
+"	mte:Z	"
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+zapisali	mte:Vmep-pm	zapisati
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+napovedanemu	mte:Appnsd	napovedan
+zaposlovanju	mte:Ncnsd	zaposlovanje
+pa	mte:Cc	pa
+na	mte:Sl	na
+novomeški	mte:Agpfsl	novomeški
+območni	mte:Agpfsl	območen
+enoti	mte:Ncfsl	enota
+zavoda	mte:Ncmsg	zavod
+za	mte:Sa	za
+zaposlovanje	mte:Ncnsa	zaposlovanje
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+mesecih	mte:Ncmpl	mesec
+ne	mte:Q	ne
+pričakujejo	mte:Vmpr3p	pričakovati
+znižanja	mte:Ncnsg	znižanje
+stopnje	mte:Ncfsg	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+.	mte:Z	.
+Koordinator	mte:Ncmsn	koordinator
+analitike	mte:Ncmpa	analitik
+novomeške	mte:Agpfsg	novomeški
+območne	mte:Agpfsg	območen
+službe	mte:Ncfsg	služba
+Jože	mte:Npmsn	Jože
+Giodani	mte:Npmsn	Giodani
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+zadnjih	mte:Agpmpl	zadnji
+objavljenih	mte:Appmpl	objavljen
+podatkih	mte:Ncmpl	podatek
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+na	mte:Sl	na
+Dolenjskem	mte:Npnsl	Dolenjsko
+11,1	mte:Mdc	11,1
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+11,4	mte:Mdc	11,4
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+.	mte:Z	.
+"	mte:Z	"
+Na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Črnomlja	mte:Npmsg	Črnomelj
+in	mte:Cc	in
+Metlike	mte:Npfsg	Metlika
+je	mte:Va-r3s-n	biti
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+15,2	mte:Mdc	15,2
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+,	mte:Z	,
+v	mte:Sl	v
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+pa	mte:Cc	pa
+9,9	mte:Mdc	9,9
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+"	mte:Z	"
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Giodani	mte:Npmsn	Giodani
+.	mte:Z	.
+Konec	mte:Sg	konec
+junija	mte:Ncmsg	junij
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+novomeški	mte:Agpfsl	novomeški
+regiji	mte:Ncfsl	regija
+skupaj	mte:Rgp	skupaj
+registriranih	mte:Appfpg	registriran
+5857	mte:Mdc	5857
+brezposelnih	mte:Agpfpg	brezposeln
+oseb	mte:Ncfpg	oseba
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+11,3	mte:Mdc	11,3
+odstotka	mte:Ncmsg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+države	mte:Ncfsg	država
+stopnja	mte:Ncfsn	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+2,2	mte:Mdc	2,2
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+polovici	mte:Ncfsl	polovica
+letošnjega	mte:Agpnsg	letošnji
+leta	mte:Ncnsg	leto
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+sicer	mte:Q	sicer
+v	mte:Sl	v
+novomeški	mte:Agpfsl	novomeški
+regiji	mte:Ncfsl	regija
+razpisanih	mte:Appnpg	razpisan
+5345	mte:Mdc	5345
+prostih	mte:Agpnpg	prost
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+v	mte:Sl	v
+enakem	mte:Pi-nsl	enak
+obdobju	mte:Ncnsl	obdobje
+lani	mte:Rgp	lani
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Giodani	mte:Npmsn	Giodani
+.	mte:Z	.
+Giodani	mte:Npmsn	Giodani
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+povpraševanje	mte:Ncnsn	povpraševanje
+po	mte:Sl	po
+delavcih	mte:Ncmpl	delavec
+v	mte:Sl	v
+jesenskih	mte:Agpmpl	jesenski
+mesecih	mte:Ncmpl	mesec
+še	mte:Q	še
+povečalo	mte:Vmep-sn	povečati
+,	mte:Z	,
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+pa	mte:Cc	pa
+ne	mte:Q	ne
+pričakuje	mte:Vmpr3s	pričakovati
+znižanja	mte:Ncnsg	znižanje
+stopnje	mte:Ncfsg	stopnja
+brezposelnosti	mte:Ncfsg	brezposelnost
+predvsem	mte:Q	predvsem
+zaradi	mte:Sg	zaradi
+"	mte:Z	"
+priliva	mte:Ncmsg	prilivo
+presežnih	mte:Agpmpg	presežen
+delavcev	mte:Ncmpg	delavec
+in	mte:Cc	in
+rednega	mte:Agpmsg	reden
+generacijskega	mte:Agpmsg	generacijski
+priliva	mte:Ncmsg	prilivo
+"	mte:Z	"
+.	mte:Z	.
+Goidani	mte:Npmsn	Goidani
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+še	mte:Q	še
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Revoz	mte:Npmsn	Revoz
+zaposlil	mte:Vmep-sm	zaposliti
+predvsem	mte:Q	predvsem
+delavce	mte:Ncmpa	delavec
+,	mte:Z	,
+ki	mte:Cs	ki
+delajo	mte:Vmpr3p	delati
+preko	mte:Sg	preko
+posredniških	mte:Agpfpg	posredniški
+agencij	mte:Ncfpg	agencija
+,	mte:Z	,
+zato	mte:Cc	zato
+se	mte:Px------y	se
+brezposelnost	mte:Ncfsn	brezposelnost
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+znižala	mte:Vmep-sf	znižati
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+današnjih	mte:Agpfpg	današnji
+Financ	mte:Ncfpg	finance
+,	mte:Z	,
+ki	mte:Cs	ki
+tudi	mte:Q	tudi
+poročajo	mte:Vmpr3p	poročati
+o	mte:Sl	o
+napovedanem	mte:Appnsl	napovedan
+zaposlovanju	mte:Ncnsl	zaposlovanje
+v	mte:Sl	v
+Revozu	mte:Npmsl	Revoz
+in	mte:Cc	in
+Krki	mte:Npfsl	Krki
+,	mte:Z	,
+dolenjska	mte:Agpnpn	dolenjski
+podjetja	mte:Ncnpn	podjetje
+sicer	mte:Q	sicer
+največ	mte:Rgs	največ
+povprašujejo	mte:Vmpr3p	povpraševati
+po	mte:Sl	po
+kemijskih	mte:Agpmpl	kemijski
+procesničarjih	mte:Ncmpl	procesničar
+,	mte:Z	,
+mizarjih	mte:Ncmpl	mizar
+,	mte:Z	,
+ključavničarjih	mte:Ncmpl	ključavničar
+,	mte:Z	,
+avtomehanikih	mte:Ncmpl	avtomehanik
+,	mte:Z	,
+voznikih	mte:Ncmpl	voznik
+avtomehanikih	mte:Ncmpl	avtomehanik
+,	mte:Z	,
+doktorjih	mte:Ncmpl	doktor
+medicine	mte:Ncfsg	medicina
+,	mte:Z	,
+diplomiranih	mte:Appfpl	diplomiran
+medicinskih	mte:Agpfpl	medicinski
+sestrah	mte:Ncfpl	sestrah
+in	mte:Cc	in
+profesorjih	mte:Ncmpl	profesor
+razrednega	mte:Agpmsg	razreden
+pouka	mte:Ncmsg	pouk
+.	mte:Z	.
+Med	mte:Si	med
+registriranimi	mte:Appmpi	registriran
+brezposelnimi	mte:Agpmpi	brezposeln
+prevladujejo	mte:Vmpr3p	prevladovati
+prodajalci	mte:Ncmpn	prodajalec
+,	mte:Z	,
+ključavničarji	mte:Ncmpn	ključavničar
+,	mte:Z	,
+konfekcionarji	mte:Ncmpn	konfekcionar
+tekstilij	mte:Ncnpg	tekstilij
+,	mte:Z	,
+avtomehaniki	mte:Ncmpn	avtomehanik
+,	mte:Z	,
+mizarji	mte:Ncmpn	mizar
+,	mte:Z	,
+frizerji	mte:Ncmpn	frizer
+,	mte:Z	,
+šivilje	mte:Ncfpn	šivilje
+,	mte:Z	,
+kuharji	mte:Ncmpn	kuhar
+in	mte:Cc	in
+natakarji	mte:Ncmpn	natakar
+,	mte:Z	,
+ekonomisti	mte:Ncmpn	ekonomist
+,	mte:Z	,
+pravniki	mte:Ncmpn	pravnik
+,	mte:Z	,
+inženirji	mte:Ncmpn	inženir
+strojništva	mte:Ncnsg	strojništvo
+,	mte:Z	,
+poslovni	mte:Agpmpn	posloven
+sekretarji	mte:Ncmpn	sekretar
+in	mte:Cc	in
+komercialisti	mte:Ncmpn	komercialist
+,	mte:Z	,
+še	mte:Q	še
+navaja	mte:Vmpr3s	navajati
+časnik	mte:Ncmsan	časnik

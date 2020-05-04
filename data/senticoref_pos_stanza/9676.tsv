@@ -1,480 +1,495 @@
-token	tag
-Danes	Rgp
-na	Sl
-sojenju	Ncnsl
-Kaničevi	Aspmsl
-in	Cc
-Pogorevcu	Npmsl
-pričali	Vmpp-pm
-zdravniki	Ncmpn
-in	Cc
-medicinske	Agpfpn
-sestre	Ncfpn
-,	Z
-ki	Cs
-pa	Cc
-z	Si
-Borom	Npmsi
-niso	Va-r3p-y
-imeli	Vmpp-pm
-veliko	Rgp
-stika	Ncmsg
-.	Z
-Na	Sl
-Okrožnem	Agpnsl
-sodišču	Ncnsl
-v	Sl
-Mariboru	Npmsl
-so	Va-r3p-n
-v	Sl
-sojenju	Ncnsl
-zdravnikoma	Ncmdd
-Zlatki	Npfsd
-Kanič	Npmsg
-in	Cc
-Robertu	Npmsd
-Pogorevcu	Npmsd
-zaslišali	Vmep-pm
-več	Rgc
-medicinskih	Agpfpg
-sester	Ncfpg
-in	Cc
-pediatra	Ncmsg
-Jerneja	Npmsg
-Dolinška	Npmsg
-iz	Sg
-Univerzitetnega	Agpmsg
-kliničnega	Agpmsg
-centra	Ncmsg
-(	Z
-UKC	Npmsn
-)	Z
-Maribor	Npmsn
-.	Z
-Specializant	Npmsn
-po	Sl
-navodilih	Ncnpl
-Prvi	Mlomsn
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-obravnavi	Ncfsl
-pričal	Vmpp-sm
-specializant	Ncmsn
-pediatrije	Ncfsg
-Gorazd	Npmsn
-Mlakar	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-12	Mdc
--	Z
-letnega	Agpmsg
-Bora	Npmsg
-spremljal	Vmpp-sm
-zadnje	Agpmpa
-tri	Mlcmpa
-dni	Ncmpa
-pred	Si
-smrtjo	Ncfsi
-v	Sl
-UKC	Npfsl
-Ljubljana	Npfsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-je	Va-r3s-n
-kot	Cs
-specializant	Ncmsn
-delal	Vmpp-sm
-vse	Pg-nsa
-po	Sl
-navodilih	Ncnpl
-nadzornega	Agpmsg
-zdravnika	Ncmsg
-.	Z
-Odlašajo	Vmpr3p
-,	Z
-preden	Cs
-pokličejo	Vmer3p
-za	Sa
-pomoč	Ncfsa
-Bolj	Rgc
-zgovoren	Agpmsnn
-je	Va-r3s-n
-bil	Va-p-sm
-mariborski	Agpmsny
-pediater	Ncmsn
-Dolinšek	Npmsn
-,	Z
-ki	Cs
-z	Si
-Borom	Npmsi
-sicer	Q
-ni	Va-r3s-y
-imel	Vmpp-sm
-stika	Ncmsg
-in	Cc
-je	Va-r3s-n
-primer	Ncmsan
-podrobneje	Rgc
-spoznal	Vmbp-sm
-iz	Sg
-medijev	Ncmpg
-.	Z
-Zato	Cc
-so	Va-r3p-n
-se	Px------y
-vprašanja	Ncnpn
-odvetnikov	Ncmpg
-zanj	Pp3msa--b
-vrtela	Vmpp-pn
-predvsem	Q
-okoli	Sg
-splošnih	Agpnpg
-pravil	Ncnpg
-delovanja	Ncnsg
-mariborske	Agpfsg
-pediatrije	Ncfsg
-.	Z
-Pojasnil	Vmep-sm
-je	Va-r3s-n
-,	Z
-kako	Rgp
-izvajajo	Vmpr3p
-dežurstva	Ncnpa
-,	Z
-kakšne	Pq-fpn
-so	Va-r3p-n
-naloge	Ncfpn
-in	Cc
-odgovornosti	Ncfpn
-specializantov	Ncmpg
-ter	Cc
-kako	Rgp
-potekajo	Vmpr3p
-posvetovanja	Ncnpa
-z	Si
-UKC	Npfsi
-Ljubljana	Npfsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-velja	Vmpr3s
-pravilo	Ncnsa
-,	Z
-da	Cs
-se	Px------y
-zdravnik	Ncmsn
-,	Z
-ko	Cs
-oceni	Vmer3s
-,	Z
-da	Cs
-primer	Ncmsn
-presega	Vmpr3s
-njegove	Ps3fpasm
-sposobnosti	Ncfpa
-in	Cc
-znanje	Ncnsa
-,	Z
-posvetuje	Vmpr3s
-z	Si
-drugimi	Mlpmpi
-zdravniki	Ncmpi
-.	Z
-Za	Sa
-to	Pd-nsa
-imajo	Vmpr3p-n
-vnaprej	Rgp
-določene	Appfpa
-telefonske	Agpfpa
-številke	Ncfpa
-,	Z
-a	Cc
-Dolinšek	Npmsn
-je	Va-r3s-n
-priznal	Vmep-sm
-,	Z
-da	Cs
-velikokrat	Rgp
-traja	Vmpr3s
-kar	Rgp
-nekaj	Rgp
-časa	Ncmsg
-,	Z
-preden	Cs
-se	Px------y
-zahtevanega	Appmsg
-prikliče	Vmer3s
-na	Sa
-telefon	Ncmsan
-.	Z
-Zato	Cc
-se	Px------y
-sam	Agpmsnn
-raje	Rgc
-zanaša	Vmpr3s
-na	Sa
-osebna	Agpnpa
-poznanstva	Ncnpa
-med	Si
-zdravniki	Ncmpi
-.	Z
-Sestre	Ncfsg
-:	Z
-Zdravnica	Ncfsn
-se	Px------y
-ni	Va-r3s-y
-vedla	Vmpp-sf
-neobičajno	Rgp
-Kasneje	Rgc
-je	Va-r3s-n
-pričalo	Vmpp-sn
-še	Q
-šest	Mlc-pa
-medicinskih	Agpfpg
-sester	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-v	Sl
-noči	Ncfsl
-z	Si
-12	Mdc
-.	Z
-na	Sa
-13	Mdc
-.	Z
-marec	Ncmsa
-2008	Mdc
-za	Sa
-kratek	Agpmsan
-čas	Ncmsan
-in	Cc
-na	Sa
-različne	Agpmpa
-načine	Ncmpa
-pomagale	Vmbp-pf
-oskrbeti	Vmen
-Bora	Npmsay
-.	Z
-Potrdile	Vmep-pf
-so	Va-r3p-n
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-otrok	Ncmsn
-zelo	Rgp
-nemiren	Agpmsnn
-.	Z
-Nobena	Pz-fsn
-pa	Cc
-ni	Va-r3s-y
-opazila	Vmep-sf
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-zdravnica	Ncfsn
-takrat	Rgp
-vedla	Vmpp-sf
-neobičajno	Agpfsa
-.	Z
-Kaničeva	Aspfsn
-in	Cc
-Pogorevc	Npmsn
-krivdo	Ncfsa
-zanikata	Vmer3s
-Kaničevi	Aspfsd
-in	Cc
-Pogorevcu	Npmsd
-zaradi	Sg
-domnevno	Rgp
-neustreznega	Agpnsg
-zdravljenja	Ncnsg
-grozi	Vmpr3s
-kazen	Ncfsa
-od	Sg
-šestih	Mlc-pg
-mesecev	Ncmpg
-do	Sg
-petih	Mlc-pg
-let	Ncnpg
-zapora	Ncmsg
-.	Z
-Sojenje	Ncnsn
-se	Px------y
-je	Va-r3s-n
-začelo	Vmep-sn
-konec	Sg
-junija	Ncmsg
-.	Z
-Prvoobtožena	Appfsn
-Zlatka	Npmsn
-Kanič	Npfsn
-in	Cc
-Robert	Npmsn
-Pogorevc	Npmsn
-,	Z
-ki	Cs
-ju	Pp3mda--y
-obtožnica	Ncfsn
-bremeni	Vmpr3s
-povzročitve	Ncfsg
-smrti	Ncfsg
-iz	Sg
-malomarnosti	Ncfsg
-,	Z
-sta	Va-r3d-n
-takrat	Rgp
-krivdo	Ncfsa
-zanikala	Vmep-dm
-in	Cc
-poudarila	Vmep-dm
-,	Z
-da	Cs
-sta	Va-r3d-n
-za	Sa
-fanta	Ncmsay
-naredila	Vmep-dm
-vse	Pg-nsa
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sl
-njuni	Ps3fslp
-moči	Ncfsl
-.	Z
-Kaničeva	Aspfsn
-je	Va-r3s-n
-zavrnila	Vmep-sf
-očitke	Ncmpa
-na	Sa
-račun	Ncmsan
-njenega	Ps3msgsf
-odnosa	Ncmsg
-do	Sg
-Borovih	Aspmpg
-staršev	Ncmpg
-.	Z
-Dejala	Vmep-sf
-je	Va-r3s-n
-,	Z
-da	Cs
-prevzema	Vmpr3s
-odgovornost	Ncfsa
-za	Sa
-napačno	Agpfsa
-diagnozo	Ncfsa
-,	Z
-nikakor	Rgp
-pa	Cc
-ne	Q
-pristaja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-pri	Sl
-svojem	Px-nsl
-delu	Ncnsl
-malomarna	Agpfsn
-in	Cc
-lahkomiselna	Agpfsn
-.	Z
-Pred	Si
-sodni	Agpmsay
-senat	Ncmsan
-sta	Va-r3d-n
-stopila	Vmep-dm
-tudi	Q
-Borova	Aspmdn
-starša	Ncmdn
-Tatjana	Npfsn
-in	Cc
-Matjaž	Npmsn
-Nekrep	Npmsn
-.	Z
-Kaničevi	Aspfsn
-sta	Va-r3d-n
-očitala	Vmpp-dm
-arogantnost	Ncfsa
-in	Cc
-neukrepanje	Ncnsa
-kljub	Sd
-resnosti	Ncfsd
-otrokovega	Aspnsg
-zdravstvenega	Agpnsg
-stanja	Ncnsg
-.	Z
-Mati	Npfsn
-je	Va-r3s-n
-dejala	Vmep-sf
-,	Z
-da	Cs
-se	Px------y
-Kaničeva	Aspfsn
-ni	Va-r3s-y
-hotela	Vmpp-sf
-pogovarjati	Vmpn
-z	Si
-njima	Pp3mdi
-,	Z
-otroku	Ncmsd
-pa	Cc
-naj	Q
-sploh	Q
-ne	Q
-bi	Va-c
-posvečala	Vmpp-sf
-pozornosti	Ncfsg
-.	Z
-Tudi	Q
-drugo	Mlpnsn
-osebje	Ncnsn
-na	Sl
-oddelku	Ncmsl
-po	Sl
-zatrjevanju	Ncnsl
-staršev	Ncmpg
-ni	Va-r3s-y
-hotelo	Vmpp-sn
-ukrepati	Vmpn
-,	Z
-čeprav	Cs
-sta	Va-r3d-n
-sama	Agpmdn
-nenehno	Rgp
-opozarjala	Vmpp-dm
-,	Z
-da	Cs
-je	Va-r3s-n
-Borovo	Aspnsn
-stanje	Ncnsn
-zelo	Rgp
-resno	Agpnsn
-.	Z
-Na	Sl
-obravnavi	Ncfsl
-9	Mdc
-.	Z
-septembra	Ncmsg
-je	Va-r3s-n
-bilo	Va-p-sn
-največ	Rgs
-zanimanja	Ncnsg
-namenjenega	Appnsg
-pričanju	Ncnsd
-ljubljanskega	Agpmsg
-pediatra	Ncmsg
-endokrinologa	Ncmsg
-Tadeja	Npmsg
-Battelina	Npmsg
-.	Z
+token	tag	lemma
+Danes	mte:Rgp	danes
+na	mte:Sl	na
+sojenju	mte:Ncnsl	sojenje
+Kaničevi	mte:Aspmsl	Kaničev
+in	mte:Cc	in
+Pogorevcu	mte:Npmsl	Pogorevc
+pričali	mte:Vmpp-pm	pričati
+zdravniki	mte:Ncmpn	zdravnik
+in	mte:Cc	in
+medicinske	mte:Agpfpn	medicinski
+sestre	mte:Ncfpn	sestra
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+z	mte:Si	z
+Borom	mte:Npmsi	Bor
+niso	mte:Va-r3p-y	biti
+imeli	mte:Vmpp-pm	imeti
+veliko	mte:Rgp	veliko
+stika	mte:Ncmsg	stik
+.	mte:Z	.
+Na	mte:Sl	na
+Okrožnem	mte:Agpnsl	okrožen
+sodišču	mte:Ncnsl	sodišče
+v	mte:Sl	v
+Mariboru	mte:Npmsl	Maribor
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sojenju	mte:Ncnsl	sojenje
+zdravnikoma	mte:Ncmdd	zdravnik
+Zlatki	mte:Npfsd	Zlatki
+Kanič	mte:Npmsg	Kanič
+in	mte:Cc	in
+Robertu	mte:Npmsd	Robert
+Pogorevcu	mte:Npmsd	Pogorevc
+zaslišali	mte:Vmep-pm	zaslišati
+več	mte:Rgc	več
+medicinskih	mte:Agpfpg	medicinski
+sester	mte:Ncfpg	sestra
+in	mte:Cc	in
+pediatra	mte:Ncmsg	pediater
+Jerneja	mte:Npmsg	Jernej
+Dolinška	mte:Npmsg	Dolinška
+iz	mte:Sg	iz
+Univerzitetnega	mte:Agpmsg	univerziteten
+kliničnega	mte:Agpmsg	kliničen
+centra	mte:Ncmsg	center
+(	mte:Z	(
+UKC	mte:Npmsn	UKC
+)	mte:Z	)
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+Specializant	mte:Npmsn	Specializant
+po	mte:Sl	po
+navodilih	mte:Ncnpl	navodilo
+Prvi	mte:Mlomsn	prvi
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+obravnavi	mte:Ncfsl	obravnava
+pričal	mte:Vmpp-sm	pričati
+specializant	mte:Ncmsn	specializant
+pediatrije	mte:Ncfsg	pediatrija
+Gorazd	mte:Npmsn	Gorazd
+Mlakar	mte:Npmsn	Mlakar
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+12	mte:Mdc	12
+-	mte:Z	-
+letnega	mte:Agpmsg	leten
+Bora	mte:Npmsg	Bora
+spremljal	mte:Vmpp-sm	spremljati
+zadnje	mte:Agpmpa	zadnji
+tri	mte:Mlcmpa	trije
+dni	mte:Ncmpa	dan
+pred	mte:Si	pred
+smrtjo	mte:Ncfsi	smrt
+v	mte:Sl	v
+UKC	mte:Npfsl	UKC
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+specializant	mte:Ncmsn	specializant
+delal	mte:Vmpp-sm	delati
+vse	mte:Pg-nsa	ves
+po	mte:Sl	po
+navodilih	mte:Ncnpl	navodilo
+nadzornega	mte:Agpmsg	nadzoren
+zdravnika	mte:Ncmsg	zdravnik
+.	mte:Z	.
+Odlašajo	mte:Vmpr3p	odlašati
+,	mte:Z	,
+preden	mte:Cs	preden
+pokličejo	mte:Vmer3p	poklicati
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+Bolj	mte:Rgc	bolj
+zgovoren	mte:Agpmsnn	zgovoren
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+mariborski	mte:Agpmsny	mariborski
+pediater	mte:Ncmsn	pediater
+Dolinšek	mte:Npmsn	Dolinšek
+,	mte:Z	,
+ki	mte:Cs	ki
+z	mte:Si	z
+Borom	mte:Npmsi	Bor
+sicer	mte:Q	sicer
+ni	mte:Va-r3s-y	biti
+imel	mte:Vmpp-sm	imeti
+stika	mte:Ncmsg	stik
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+primer	mte:Ncmsan	primer
+podrobneje	mte:Rgc	podrobno
+spoznal	mte:Vmbp-sm	spoznati
+iz	mte:Sg	iz
+medijev	mte:Ncmpg	medij
+.	mte:Z	.
+Zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+vprašanja	mte:Ncnpn	vprašanje
+odvetnikov	mte:Ncmpg	odvetnik
+zanj	mte:Pp3msa--b	zame
+vrtela	mte:Vmpp-pn	vrteti
+predvsem	mte:Q	predvsem
+okoli	mte:Sg	okoli
+splošnih	mte:Agpnpg	splošen
+pravil	mte:Ncnpg	pravilo
+delovanja	mte:Ncnsg	delovanje
+mariborske	mte:Agpfsg	mariborski
+pediatrije	mte:Ncfsg	pediatrija
+.	mte:Z	.
+Pojasnil	mte:Vmep-sm	pojasniti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kako	mte:Rgp	kako
+izvajajo	mte:Vmpr3p	izvajati
+dežurstva	mte:Ncnpa	dežurstvo
+,	mte:Z	,
+kakšne	mte:Pq-fpn	kakšen
+so	mte:Va-r3p-n	biti
+naloge	mte:Ncfpn	naloga
+in	mte:Cc	in
+odgovornosti	mte:Ncfpn	odgovornost
+specializantov	mte:Ncmpg	specializant
+ter	mte:Cc	ter
+kako	mte:Rgp	kako
+potekajo	mte:Vmpr3p	potekati
+posvetovanja	mte:Ncnpa	posvetovanje
+z	mte:Si	z
+UKC	mte:Npfsi	UKC
+Ljubljana	mte:Npfsn	Ljubljana
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+velja	mte:Vmpr3s	veljati
+pravilo	mte:Ncnsa	pravilo
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+zdravnik	mte:Ncmsn	zdravnik
+,	mte:Z	,
+ko	mte:Cs	ko
+oceni	mte:Vmer3s	ocena
+,	mte:Z	,
+da	mte:Cs	da
+primer	mte:Ncmsn	primer
+presega	mte:Vmpr3s	presegati
+njegove	mte:Ps3fpasm	njegov
+sposobnosti	mte:Ncfpa	sposobnost
+in	mte:Cc	in
+znanje	mte:Ncnsa	znanje
+,	mte:Z	,
+posvetuje	mte:Vmpr3s	posvetovati
+z	mte:Si	z
+drugimi	mte:Mlpmpi	drug
+zdravniki	mte:Ncmpi	zdravnik
+.	mte:Z	.
+Za	mte:Sa	za
+to	mte:Pd-nsa	ta
+imajo	mte:Vmpr3p-n	imeti
+vnaprej	mte:Rgp	vnaprej
+določene	mte:Appfpa	določen
+telefonske	mte:Agpfpa	telefonski
+številke	mte:Ncfpa	številka
+,	mte:Z	,
+a	mte:Cc	a
+Dolinšek	mte:Npmsn	Dolinšek
+je	mte:Va-r3s-n	biti
+priznal	mte:Vmep-sm	priznati
+,	mte:Z	,
+da	mte:Cs	da
+velikokrat	mte:Rgp	velikokrat
+traja	mte:Vmpr3s	trajati
+kar	mte:Rgp	kar
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+preden	mte:Cs	preden
+se	mte:Px------y	se
+zahtevanega	mte:Appmsg	zahtevan
+prikliče	mte:Vmer3s	prikliciti
+na	mte:Sa	na
+telefon	mte:Ncmsan	telefon
+.	mte:Z	.
+Zato	mte:Cc	zato
+se	mte:Px------y	se
+sam	mte:Agpmsnn	sam
+raje	mte:Rgc	raje
+zanaša	mte:Vmpr3s	zanašati
+na	mte:Sa	na
+osebna	mte:Agpnpa	oseben
+poznanstva	mte:Ncnpa	poznanstvo
+med	mte:Si	med
+zdravniki	mte:Ncmpi	zdravnik
+.	mte:Z	.
+Sestre	mte:Ncfsg	sestra
+:	mte:Z	:
+Zdravnica	mte:Ncfsn	zdravnica
+se	mte:Px------y	se
+ni	mte:Va-r3s-y	biti
+vedla	mte:Vmpp-sf	vedeti
+neobičajno	mte:Rgp	neobičajno
+Kasneje	mte:Rgc	kasno
+je	mte:Va-r3s-n	biti
+pričalo	mte:Vmpp-sn	pričati
+še	mte:Q	še
+šest	mte:Mlc-pa	šest
+medicinskih	mte:Agpfpg	medicinski
+sester	mte:Ncfpg	sestra
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+noči	mte:Ncfsl	noč
+z	mte:Si	z
+12	mte:Mdc	12
+.	mte:Z	.
+na	mte:Sa	na
+13	mte:Mdc	13
+.	mte:Z	.
+marec	mte:Ncmsa	marec
+2008	mte:Mdc	2008
+za	mte:Sa	za
+kratek	mte:Agpmsan	kratek
+čas	mte:Ncmsan	čas
+in	mte:Cc	in
+na	mte:Sa	na
+različne	mte:Agpmpa	različen
+načine	mte:Ncmpa	način
+pomagale	mte:Vmbp-pf	pomagati
+oskrbeti	mte:Vmen	oskrbeti
+Bora	mte:Npmsay	Bora
+.	mte:Z	.
+Potrdile	mte:Vmep-pf	potrditi
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+otrok	mte:Ncmsn	otrok
+zelo	mte:Rgp	zelo
+nemiren	mte:Agpmsnn	nemiren
+.	mte:Z	.
+Nobena	mte:Pz-fsn	noben
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+opazila	mte:Vmep-sf	opaziti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+zdravnica	mte:Ncfsn	zdravnica
+takrat	mte:Rgp	takrat
+vedla	mte:Vmpp-sf	vedeti
+neobičajno	mte:Agpfsa	neobičajen
+.	mte:Z	.
+Kaničeva	mte:Aspfsn	Kaničev
+in	mte:Cc	in
+Pogorevc	mte:Npmsn	Pogorevc
+krivdo	mte:Ncfsa	krivda
+zanikata	mte:Vmer3s	zanikati
+Kaničevi	mte:Aspfsd	Kaničev
+in	mte:Cc	in
+Pogorevcu	mte:Npmsd	Pogorevc
+zaradi	mte:Sg	zaradi
+domnevno	mte:Rgp	domnevno
+neustreznega	mte:Agpnsg	neustrezen
+zdravljenja	mte:Ncnsg	zdravljenje
+grozi	mte:Vmpr3s	groziti
+kazen	mte:Ncfsa	kazen
+od	mte:Sg	od
+šestih	mte:Mlc-pg	šest
+mesecev	mte:Ncmpg	mesec
+do	mte:Sg	do
+petih	mte:Mlc-pg	pet
+let	mte:Ncnpg	leto
+zapora	mte:Ncmsg	zapor
+.	mte:Z	.
+Sojenje	mte:Ncnsn	sojenje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+začelo	mte:Vmep-sn	začeti
+konec	mte:Sg	konec
+junija	mte:Ncmsg	junij
+.	mte:Z	.
+Prvoobtožena	mte:Appfsn	prvoobtožen
+Zlatka	mte:Npmsn	Zlatko
+Kanič	mte:Npfsn	Kanič
+in	mte:Cc	in
+Robert	mte:Npmsn	Robert
+Pogorevc	mte:Npmsn	Pogorevc
+,	mte:Z	,
+ki	mte:Cs	ki
+ju	mte:Pp3mda--y	on
+obtožnica	mte:Ncfsn	obtožnica
+bremeni	mte:Vmpr3s	bremeniti
+povzročitve	mte:Ncfsg	povzročitev
+smrti	mte:Ncfsg	smrt
+iz	mte:Sg	iz
+malomarnosti	mte:Ncfsg	malomarnost
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+takrat	mte:Rgp	takrat
+krivdo	mte:Ncfsa	krivda
+zanikala	mte:Vmep-dm	zanikati
+in	mte:Cc	in
+poudarila	mte:Vmep-dm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+za	mte:Sa	za
+fanta	mte:Ncmsay	fant
+naredila	mte:Vmep-dm	narediti
+vse	mte:Pg-nsa	ves
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+njuni	mte:Ps3fslp	njun
+moči	mte:Ncfsl	moč
+.	mte:Z	.
+Kaničeva	mte:Aspfsn	Kaničev
+je	mte:Va-r3s-n	biti
+zavrnila	mte:Vmep-sf	zavrniti
+očitke	mte:Ncmpa	očitek
+na	mte:Sa	na
+račun	mte:Ncmsan	račun
+njenega	mte:Ps3msgsf	njen
+odnosa	mte:Ncmsg	odnos
+do	mte:Sg	do
+Borovih	mte:Aspmpg	borov
+staršev	mte:Ncmpg	starš
+.	mte:Z	.
+Dejala	mte:Vmep-sf	dejati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+prevzema	mte:Vmpr3s	prevzemati
+odgovornost	mte:Ncfsa	odgovornost
+za	mte:Sa	za
+napačno	mte:Agpfsa	napačen
+diagnozo	mte:Ncfsa	diagnoza
+,	mte:Z	,
+nikakor	mte:Rgp	nikakor
+pa	mte:Cc	pa
+ne	mte:Q	ne
+pristaja	mte:Vmpr3s	pristajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+pri	mte:Sl	pri
+svojem	mte:Px-nsl	svoj
+delu	mte:Ncnsl	del
+malomarna	mte:Agpfsn	malomaren
+in	mte:Cc	in
+lahkomiselna	mte:Agpfsn	lahkomiseln
+.	mte:Z	.
+Pred	mte:Si	pred
+sodni	mte:Agpmsay	soden
+senat	mte:Ncmsan	senat
+sta	mte:Va-r3d-n	biti
+stopila	mte:Vmep-dm	stopiti
+tudi	mte:Q	tudi
+Borova	mte:Aspmdn	borov
+starša	mte:Ncmdn	starš
+Tatjana	mte:Npfsn	Tatjana
+in	mte:Cc	in
+Matjaž	mte:Npmsn	Matjaž
+Nekrep	mte:Npmsn	Nekrep
+.	mte:Z	.
+Kaničevi	mte:Aspfsn	Kaničev
+sta	mte:Va-r3d-n	biti
+očitala	mte:Vmpp-dm	očitati
+arogantnost	mte:Ncfsa	arogantnost
+in	mte:Cc	in
+neukrepanje	mte:Ncnsa	neukrepanje
+kljub	mte:Sd	kljub
+resnosti	mte:Ncfsd	resnost
+otrokovega	mte:Aspnsg	otrokov
+zdravstvenega	mte:Agpnsg	zdravstven
+stanja	mte:Ncnsg	stanje
+.	mte:Z	.
+Mati	mte:Npfsn	mati
+je	mte:Va-r3s-n	biti
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Kaničeva	mte:Aspfsn	Kaničev
+ni	mte:Va-r3s-y	biti
+hotela	mte:Vmpp-sf	hoteti
+pogovarjati	mte:Vmpn	pogovarjati
+z	mte:Si	z
+njima	mte:Pp3mdi	on
+,	mte:Z	,
+otroku	mte:Ncmsd	otrok
+pa	mte:Cc	pa
+naj	mte:Q	naj
+sploh	mte:Q	sploh
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+posvečala	mte:Vmpp-sf	posvečati
+pozornosti	mte:Ncfsg	pozornost
+.	mte:Z	.
+Tudi	mte:Q	tudi
+drugo	mte:Mlpnsn	drug
+osebje	mte:Ncnsn	osebje
+na	mte:Sl	na
+oddelku	mte:Ncmsl	oddelek
+po	mte:Sl	po
+zatrjevanju	mte:Ncnsl	zatrjevanje
+staršev	mte:Ncmpg	starš
+ni	mte:Va-r3s-y	biti
+hotelo	mte:Vmpp-sn	hoteti
+ukrepati	mte:Vmpn	ukrepati
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+sta	mte:Va-r3d-n	biti
+sama	mte:Agpmdn	sam
+nenehno	mte:Rgp	nenehno
+opozarjala	mte:Vmpp-dm	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Borovo	mte:Aspnsn	borov
+stanje	mte:Ncnsn	stanje
+zelo	mte:Rgp	zelo
+resno	mte:Agpnsn	resen
+.	mte:Z	.
+Na	mte:Sl	na
+obravnavi	mte:Ncfsl	obravnava
+9	mte:Mdc	9
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+največ	mte:Rgs	največ
+zanimanja	mte:Ncnsg	zanimanje
+namenjenega	mte:Appnsg	namenjen
+pričanju	mte:Ncnsd	pričanje
+ljubljanskega	mte:Agpmsg	ljubljanski
+pediatra	mte:Ncmsg	pediater
+endokrinologa	mte:Ncmsg	endokrinologa
+Tadeja	mte:Npmsg	Tadeja
+Battelina	mte:Npmsg	Battelin
+.	mte:Z	.
+Pričala	mte:Vmpp-dm	pričati
+sta	mte:Va-r3d-n	biti
+tudi	mte:Q	tudi
+zdravnika	mte:Ncmdn	zdravnik
+Peter	mte:Npmsn	Peter
+Šuštar	mte:Npmsn	Šuštar
+in	mte:Cc	in
+Nataša	mte:Npfsn	Nataša
+Bratina	mte:Npfsn	Bratina
+ter	mte:Cc	ter
+zaposleni	mte:Appmdn	zaposlen
+v	mte:Sl	v
+mariborski	mte:Agpfsl	mariborski
+reševalni	mte:Agpfsl	reševalen
+postaji	mte:Ncfsl	postaja

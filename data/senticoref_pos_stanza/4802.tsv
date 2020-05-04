@@ -1,349 +1,389 @@
-token	tag
-Na	Sl
-cestah	Ncfpl
-po	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-sneg	Ncmsn
-povzročil	Vmep-sm
-številne	Agpmpa
-zastoje	Ncmpa
-in	Cc
-prometne	Agpfpa
-nesreče	Ncfpa
-.	Z
-Na	Sa
-pot	Ncfsa
-nikar	Q
-brez	Sg
-zimske	Agpfsg
-opreme	Ncfsg
-Na	Sl
-Celjskem	Agpnsl
-je	Va-r3s-n
-danes	Rgp
-zjutraj	Rgp
-močno	Rgp
-snežilo	Vmep-sn
-,	Z
-tako	Cc
-da	Cs
-je	Va-r3s-n
-v	Sl
-nekaterih	Pi-npl
-višje	Rgc
-ležečih	Appnpl
-območjih	Ncnpl
-zapadlo	Vmep-sn
-do	Sg
-20	Mdc
-centimetrov	Ncmpg
-snega	Ncmsg
-,	Z
-v	Sl
-dolinah	Ncfpl
-pa	Cc
-manj	Rgc
-ali	Cc
-nič	Pz-nsn
-.	Z
-Trenutno	Agpnsn
-sneženje	Ncnsn
-pojenja	Vmpr3s
-,	Z
-je	Va-r3s-n
-pa	Cc
-novozapadli	Agpmsny
-sneg	Ncmsn
-povzročil	Vmep-sm
-polurni	Agpmsay
-zastoj	Ncmsan
-na	Sl
-cesti	Ncfsl
-Velenje	Npnsn
--	Z
-Arja	Npfsn
-vas	Ncfsa
-.	Z
-Celjski	Agpmpn
-policisti	Ncmpn
-so	Va-r3p-n
-v	Sl
-času	Ncmsl
-jutranjih	Agpmpg
-odhodov	Ncmpg
-v	Sa
-službo	Ncfsa
-obravnavali	Vmpp-pm
-devet	Mlc-pa
-prometnih	Agpfpg
-nesreč	Ncfpg
-.	Z
-Foto	Ncmsn
-:	Z
-Aleš	Npmsn
-Beno	Npmsn
-Vozniki	Ncmpn
-na	Sa
-zimske	Agpfpa
-razmere	Ncfpa
-še	Q
-niso	Va-r3p-y
-pripravljeni	Appmpn
-Po	Sl
-podatkih	Ncmpl
-celjske	Agpfsg
-zimske	Agpfsg
-službe	Ncfsg
-je	Va-r3s-n
-na	Sl
-Celjskem	Agpnsl
-zapadlo	Vmep-sn
-od	Sg
-nič	Pz-nsa
-do	Sg
-10	Mdc
-centimetrov	Ncmpg
-snega	Ncmsg
-v	Sl
-nižinah	Ncfpl
-,	Z
-na	Sl
-višje	Rgc
-ležečih	Appnpl
-območjih	Ncnpl
-,	Z
-denimo	Vmem1p
-na	Sl
-Rogli	Npfsl
-,	Z
-v	Sl
-Vitanju	Npnsl
-in	Cc
-Mozirju	Npnsl
-,	Z
-pa	Cc
-od	Sg
-15	Mdc
-do	Sg
-20	Mdc
-centimetrov	Ncmpg
-.	Z
-Na	Sl
-Celjski	Agpfsl
-koči	Ncfsl
-je	Va-r3s-n
-12	Mdc
-centimetrov	Ncmpg
-snega	Ncmsg
-,	Z
-na	Sl
-višje	Rgc
-ležečih	Appnpl
-območjih	Ncnpl
-Kozjanskega	Agpnsg
-pa	Cc
-je	Va-r3s-n
-zapadlo	Vmep-sn
-do	Sg
-15	Mdc
-centimetrov	Ncmpg
-snega	Ncmsg
-.	Z
-Delavci	Ncmpn
-celjske	Agpfsg
-zimske	Agpfsg
-službe	Ncfsg
-so	Va-r3p-n
-bili	Va-p-pm
-glede	Rgp
-na	Sa
-napovedano	Appnsa
-sneženje	Ncnsa
-v	Sl
-pripravljenosti	Ncfsl
-že	Q
-od	Sg
-ponedeljka	Ncmsg
-popoldne	Rgp
-z	Si
-vso	Pg-fsi
-razpoložljivo	Agpfsi
-opremo	Ncfsi
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-vodja	Ncmsn
-celjske	Agpfsg
-zimske	Agpfsg
-službe	Ncfsg
-Matjaž	Npmsn
-Kapitler	Npmsn
-,	Z
-ki	Cs
-ugotavlja	Vmpr3s
-,	Z
-da	Cs
-vozniki	Ncmpn
-na	Sa
-zimske	Agpfpa
-razmere	Ncfpa
-še	Q
-niso	Va-r3p-y
-pripravljeni	Appmpn
-.	Z
-Trenutno	Rgp
-sneži	Vmpr3s
-v	Sl
-zahodni	Agpfsl
-Sloveniji	Npfsl
-ter	Cc
-na	Sl
-Štajerskem	Npnsl
-in	Cc
-Dolenjskem	Npnsl
-.	Z
-Zastoji	Ncmpn
-na	Sl
-štajerski	Agpfsl
-in	Cc
-primorski	Agpfsl
-avtocesti	Ncfsl
-Kot	Cs
-poročajo	Vmpr3p
-v	Sl
-Prometno	Agpnsn
--	Z
-informacijskem	Agpmsl
-centru	Ncmsl
-za	Sa
-državne	Agpfpa
-ceste	Ncfpa
-,	Z
-zaradi	Sg
-povečanega	Appmsg
-prometa	Ncmsg
-,	Z
-snega	Ncmsg
-in	Cc
-pluženja	Ncnsg
-na	Sl
-primorski	Agpfsl
-avtocesti	Ncfsl
-med	Si
-Vrhniko	Npfsi
-in	Cc
-Logatcem	Npmsi
-občasno	Rgp
-nastajajo	Vmpr3p
-zastoji	Ncmpn
-v	Sl
-obe	Pg-fda
-smeri	Ncfda
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-zastoji	Ncmpn
-nastajajo	Vmpr3p
-še	Q
-na	Sl
-štajerski	Agpfsl
-avtocesti	Ncfsl
-med	Si
-Žalcem	Npmsi
-in	Cc
-Šempetrom	Npmsi
-zastoji	Ncmpi
-v	Sa
-obe	Pg-fda
-smeri	Ncfda
-,	Z
-pred	Si
-avtocestnim	Agpmsi
-izvozom	Ncmsi
-Slovenska	Agpfsn
-Bistrica	Npfsn
-jug	Npmsn
-proti	Sd
-Mariboru	Npmsd
-in	Cc
-na	Sl
-cesti	Ncfsl
-Logatec	Npmsn
--	Z
-Vrhnika	Npfsn
--	Z
-Brezovica	Npfsn
-.	Z
-Zimska	Agpfsn
-oprema	Ncfsn
-ponekod	Rgp
-obvezna	Agpfsn
-že	Q
-danes	Rgp
-Ob	Sl
-tem	Pd-nsl
-na	Sl
-Policijski	Agpfsl
-upravi	Ncfsl
-Celje	Npnsn
-opozarjajo	Vmpr3p
-voznike	Ncmpa
-,	Z
-naj	Cs
-se	Px------y
-na	Sa
-pot	Ncfsa
-odpravijo	Vmer3p
-pravočasno	Rgp
-ter	Cc
-naj	Q
-vozijo	Vmpr3p
-skrajno	Rgp
-strpno	Rgp
-in	Cc
-previdno	Rgp
-.	Z
-Poskrbeti	Vmen
-morajo	Vmpr3p
-tudi	Q
-za	Sa
-ustrezno	Agpfsa
-zimsko	Agpfsa
-opremo	Ncfsa
-.	Z
-Zakon	Ncmsn
-o	Sl
-varnosti	Ncfsl
-cestnega	Agpmsg
-prometa	Ncmsg
-določa	Vmpr3s
-,	Z
-da	Cs
-morajo	Vmpr3p
-biti	Va-n
-motorna	Agpnpn
-in	Cc
-priklopna	Agpnpn
-vozila	Ncnpn
-v	Sl
-cestnem	Agpmsl
-prometu	Ncmsl
-v	Sl
-obdobju	Ncnsl
-od	Sg
-15	Mdc
-.	Z
-novembra	Ncmsg
-do	Sg
-15	Mdc
-.	Z
-marca	Ncmsg
-naslednjega	Agpnsg
-leta	Ncnsg
-opremljena	Appnpn
-s	Si
-predpisano	Appfsi
-zimsko	Agpfsi
-opremo	Ncfsi
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+po	mte:Sl	po
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+sneg	mte:Ncmsn	sneg
+povzročil	mte:Vmep-sm	povzročiti
+številne	mte:Agpmpa	številen
+zastoje	mte:Ncmpa	zastoj
+in	mte:Cc	in
+prometne	mte:Agpfpa	prometen
+nesreče	mte:Ncfpa	nesreča
+.	mte:Z	.
+Na	mte:Sa	na
+pot	mte:Ncfsa	pot
+nikar	mte:Q	nikar
+brez	mte:Sg	brez
+zimske	mte:Agpfsg	zimski
+opreme	mte:Ncfsg	oprema
+Na	mte:Sl	na
+Celjskem	mte:Agpnsl	celjski
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+zjutraj	mte:Rgp	zjutraj
+močno	mte:Rgp	močno
+snežilo	mte:Vmep-sn	snežiti
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+nekaterih	mte:Pi-npl	nekateri
+višje	mte:Rgc	visoko
+ležečih	mte:Appnpl	ležeč
+območjih	mte:Ncnpl	območje
+zapadlo	mte:Vmep-sn	zapasti
+do	mte:Sg	do
+20	mte:Mdc	20
+centimetrov	mte:Ncmpg	centimeter
+snega	mte:Ncmsg	sneg
+,	mte:Z	,
+v	mte:Sl	v
+dolinah	mte:Ncfpl	dolina
+pa	mte:Cc	pa
+manj	mte:Rgc	manj
+ali	mte:Cc	ali
+nič	mte:Pz-nsn	nič
+.	mte:Z	.
+Trenutno	mte:Agpnsn	trenutno
+sneženje	mte:Ncnsn	sneženje
+pojenja	mte:Vmpr3s	pojenjati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pa	mte:Cc	pa
+novozapadli	mte:Agpmsny	novozapadel
+sneg	mte:Ncmsn	sneg
+povzročil	mte:Vmep-sm	povzročiti
+polurni	mte:Agpmsay	poluren
+zastoj	mte:Ncmsan	zastoj
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Velenje	mte:Npnsn	Velenje
+-	mte:Z	-
+Arja	mte:Npfsn	Arja
+vas	mte:Ncfsa	vas
+.	mte:Z	.
+Celjski	mte:Agpmpn	celjski
+policisti	mte:Ncmpn	policist
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+jutranjih	mte:Agpmpg	jutranji
+odhodov	mte:Ncmpg	odhod
+v	mte:Sa	v
+službo	mte:Ncfsa	služba
+obravnavali	mte:Vmpp-pm	obravnavati
+devet	mte:Mlc-pa	devet
+prometnih	mte:Agpfpg	prometen
+nesreč	mte:Ncfpg	nesreča
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+:	mte:Z	:
+Aleš	mte:Npmsn	Aleš
+Beno	mte:Npmsn	Beno
+Vozniki	mte:Ncmpn	voznik
+na	mte:Sa	na
+zimske	mte:Agpfpa	zimski
+razmere	mte:Ncfpa	razmera
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+pripravljeni	mte:Appmpn	pripravljen
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+celjske	mte:Agpfsg	celjski
+zimske	mte:Agpfsg	zimski
+službe	mte:Ncfsg	služba
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+Celjskem	mte:Agpnsl	celjski
+zapadlo	mte:Vmep-sn	zapasti
+od	mte:Sg	od
+nič	mte:Pz-nsa	nič
+do	mte:Sg	do
+10	mte:Mdc	10
+centimetrov	mte:Ncmpg	centimeter
+snega	mte:Ncmsg	sneg
+v	mte:Sl	v
+nižinah	mte:Ncfpl	nižina
+,	mte:Z	,
+na	mte:Sl	na
+višje	mte:Rgc	visoko
+ležečih	mte:Appnpl	ležeč
+območjih	mte:Ncnpl	območje
+,	mte:Z	,
+denimo	mte:Vmem1p	deti
+na	mte:Sl	na
+Rogli	mte:Npfsl	Rogl
+,	mte:Z	,
+v	mte:Sl	v
+Vitanju	mte:Npnsl	Vitanjo
+in	mte:Cc	in
+Mozirju	mte:Npnsl	Mozirje
+,	mte:Z	,
+pa	mte:Cc	pa
+od	mte:Sg	od
+15	mte:Mdc	15
+do	mte:Sg	do
+20	mte:Mdc	20
+centimetrov	mte:Ncmpg	centimeter
+.	mte:Z	.
+Na	mte:Sl	na
+Celjski	mte:Agpfsl	celjski
+koči	mte:Ncfsl	koča
+je	mte:Va-r3s-n	biti
+12	mte:Mdc	12
+centimetrov	mte:Ncmpg	centimeter
+snega	mte:Ncmsg	sneg
+,	mte:Z	,
+na	mte:Sl	na
+višje	mte:Rgc	visoko
+ležečih	mte:Appnpl	ležeč
+območjih	mte:Ncnpl	območje
+Kozjanskega	mte:Agpnsg	kozjanski
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zapadlo	mte:Vmep-sn	zapasti
+do	mte:Sg	do
+15	mte:Mdc	15
+centimetrov	mte:Ncmpg	centimeter
+snega	mte:Ncmsg	sneg
+.	mte:Z	.
+Delavci	mte:Ncmpn	delavec
+celjske	mte:Agpfsg	celjski
+zimske	mte:Agpfsg	zimski
+službe	mte:Ncfsg	služba
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+glede	mte:Rgp	glede
+na	mte:Sa	na
+napovedano	mte:Appnsa	napovedan
+sneženje	mte:Ncnsa	sneženje
+v	mte:Sl	v
+pripravljenosti	mte:Ncfsl	pripravljenost
+že	mte:Q	že
+od	mte:Sg	od
+ponedeljka	mte:Ncmsg	ponedeljka
+popoldne	mte:Rgp	popoldne
+z	mte:Si	z
+vso	mte:Pg-fsi	ves
+razpoložljivo	mte:Agpfsi	razpoložljiv
+opremo	mte:Ncfsi	oprema
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+vodja	mte:Ncmsn	vodja
+celjske	mte:Agpfsg	celjski
+zimske	mte:Agpfsg	zimski
+službe	mte:Ncfsg	služba
+Matjaž	mte:Npmsn	Matjaž
+Kapitler	mte:Npmsn	Kapitler
+,	mte:Z	,
+ki	mte:Cs	ki
+ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+vozniki	mte:Ncmpn	voznik
+na	mte:Sa	na
+zimske	mte:Agpfpa	zimski
+razmere	mte:Ncfpa	razmera
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+pripravljeni	mte:Appmpn	pripravljen
+.	mte:Z	.
+Trenutno	mte:Rgp	trenutno
+sneži	mte:Vmpr3s	snežati
+v	mte:Sl	v
+zahodni	mte:Agpfsl	zahoden
+Sloveniji	mte:Npfsl	Slovenija
+ter	mte:Cc	ter
+na	mte:Sl	na
+Štajerskem	mte:Npnsl	Štajersko
+in	mte:Cc	in
+Dolenjskem	mte:Npnsl	Dolenjsko
+.	mte:Z	.
+Zastoji	mte:Ncmpn	zastoj
+na	mte:Sl	na
+štajerski	mte:Agpfsl	štajerski
+in	mte:Cc	in
+primorski	mte:Agpfsl	primorski
+avtocesti	mte:Ncfsl	avtocesta
+Kot	mte:Cs	kot
+poročajo	mte:Vmpr3p	poročati
+v	mte:Sl	v
+Prometno	mte:Agpnsn	prometen
+-	mte:Z	-
+informacijskem	mte:Agpmsl	informacijski
+centru	mte:Ncmsl	center
+za	mte:Sa	za
+državne	mte:Agpfpa	državen
+ceste	mte:Ncfpa	cesta
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+povečanega	mte:Appmsg	povečan
+prometa	mte:Ncmsg	promet
+,	mte:Z	,
+snega	mte:Ncmsg	sneg
+in	mte:Cc	in
+pluženja	mte:Ncnsg	pluženje
+na	mte:Sl	na
+primorski	mte:Agpfsl	primorski
+avtocesti	mte:Ncfsl	avtocesta
+med	mte:Si	med
+Vrhniko	mte:Npfsi	Vrhnika
+in	mte:Cc	in
+Logatcem	mte:Npmsi	Logatc
+občasno	mte:Rgp	občasno
+nastajajo	mte:Vmpr3p	nastajati
+zastoji	mte:Ncmpn	zastoj
+v	mte:Sl	v
+obe	mte:Pg-fda	oba
+smeri	mte:Ncfda	smer
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+zastoji	mte:Ncmpn	zastoj
+nastajajo	mte:Vmpr3p	nastajati
+še	mte:Q	še
+na	mte:Sl	na
+štajerski	mte:Agpfsl	štajerski
+avtocesti	mte:Ncfsl	avtocesta
+med	mte:Si	med
+Žalcem	mte:Npmsi	Žalec
+in	mte:Cc	in
+Šempetrom	mte:Npmsi	Šempeter
+zastoji	mte:Ncmpi	zastoj
+v	mte:Sa	v
+obe	mte:Pg-fda	oba
+smeri	mte:Ncfda	smer
+,	mte:Z	,
+pred	mte:Si	pred
+avtocestnim	mte:Agpmsi	avtocesten
+izvozom	mte:Ncmsi	izvoz
+Slovenska	mte:Agpfsn	slovenski
+Bistrica	mte:Npfsn	Bistrica
+jug	mte:Npmsn	jug
+proti	mte:Sd	proti
+Mariboru	mte:Npmsd	Maribor
+in	mte:Cc	in
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Logatec	mte:Npmsn	Logatec
+-	mte:Z	-
+Vrhnika	mte:Npfsn	Vrhnik
+-	mte:Z	-
+Brezovica	mte:Npfsn	Brezovica
+.	mte:Z	.
+Zimska	mte:Agpfsn	zimski
+oprema	mte:Ncfsn	oprema
+ponekod	mte:Rgp	ponekod
+obvezna	mte:Agpfsn	obvezen
+že	mte:Q	že
+danes	mte:Rgp	danes
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+na	mte:Sl	na
+Policijski	mte:Agpfsl	policijski
+upravi	mte:Ncfsl	uprava
+Celje	mte:Npnsn	Celje
+opozarjajo	mte:Vmpr3p	opozarjati
+voznike	mte:Ncmpa	voznik
+,	mte:Z	,
+naj	mte:Cs	naj
+se	mte:Px------y	se
+na	mte:Sa	na
+pot	mte:Ncfsa	pot
+odpravijo	mte:Vmer3p	odpraviti
+pravočasno	mte:Rgp	pravočasno
+ter	mte:Cc	ter
+naj	mte:Q	naj
+vozijo	mte:Vmpr3p	voziti
+skrajno	mte:Rgp	skrajno
+strpno	mte:Rgp	strpno
+in	mte:Cc	in
+previdno	mte:Rgp	previdno
+.	mte:Z	.
+Poskrbeti	mte:Vmen	poskrbeti
+morajo	mte:Vmpr3p	morati
+tudi	mte:Q	tudi
+za	mte:Sa	za
+ustrezno	mte:Agpfsa	ustrezen
+zimsko	mte:Agpfsa	zimski
+opremo	mte:Ncfsa	oprema
+.	mte:Z	.
+Zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+varnosti	mte:Ncfsl	varnost
+cestnega	mte:Agpmsg	cesten
+prometa	mte:Ncmsg	promet
+določa	mte:Vmpr3s	določati
+,	mte:Z	,
+da	mte:Cs	da
+morajo	mte:Vmpr3p	morati
+biti	mte:Va-n	biti
+motorna	mte:Agpnpn	motoren
+in	mte:Cc	in
+priklopna	mte:Agpnpn	priklopen
+vozila	mte:Ncnpn	vozilo
+v	mte:Sl	v
+cestnem	mte:Agpmsl	cesten
+prometu	mte:Ncmsl	promet
+v	mte:Sl	v
+obdobju	mte:Ncnsl	obdobje
+od	mte:Sg	od
+15	mte:Mdc	15
+.	mte:Z	.
+novembra	mte:Ncmsg	november
+do	mte:Sg	do
+15	mte:Mdc	15
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+naslednjega	mte:Agpnsg	naslednji
+leta	mte:Ncnsg	leto
+opremljena	mte:Appnpn	opremljen
+s	mte:Si	z
+predpisano	mte:Appfsi	predpisan
+zimsko	mte:Agpfsi	zimski
+opremo	mte:Ncfsi	oprema
+.	mte:Z	.
+Predpisano	mte:Appfsi	predpisan
+zimsko	mte:Agpfsi	zimski
+opremo	mte:Ncfsi	oprema
+morajo	mte:Vmpr3p	morati
+vozniki	mte:Ncmpn	voznik
+imeti	mte:Vmpn	imeti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+zimskih	mte:Agpfpl	zimski
+razmerah	mte:Ncfpl	razmera
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+ali	mte:Cc	ali
+njenem	mte:Ps3nslsf	njen
+delu	mte:Ncnsl	del
+takrat	mte:Rgp	takrat
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+ob	mte:Sl	ob
+sneženju	mte:Ncnsl	sneženje
+sneg	mte:Ncmsn	sneg
+oprijema	mte:Ncmsg	oprijem
+vozišča	mte:Ncnsg	vozišče
+ali	mte:Cc	ali
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+vozišče	mte:Ncnsn	vozišče
+zasneženo	mte:Appnsn	zasnežen
+,	mte:Z	,
+zaledenelo	mte:Appnsn	zaledenel
+ali	mte:Cc	ali
+poledenelo	mte:Vmep-sn	poledeneti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+sporočili	mte:Vmep-pm	sporočiti

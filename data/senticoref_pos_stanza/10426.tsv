@@ -1,233 +1,235 @@
-token	tag
-Promet	Ncmsn
-na	Sl
-dolenjski	Agpfsl
-avtocesti	Ncfsl
-po	Sl
-tem	Pd-nsl
-,	Z
-ko	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-ta	Pd-fsn
-med	Si
-priključkoma	Ncmdi
-Grosuplje	Npmsn
-in	Cc
-Višnja	Agpfsn
-Gora	Npfsn
-zaprta	Appfsn
-zaradi	Sg
-gorečega	Appnsg
-vozila	Ncnsg
-,	Z
-poteka	Vmpr3s
-normalno	Agpnsn
-.	Z
-V	Sl
-večernih	Agpfpl
-urah	Ncfpl
-bodo	Va-f3p-n
-ponekod	Rgp
-popolne	Agpfpn
-zapore	Ncfpn
-zaradi	Sg
-silvestrovanj	Ncnpg
-.	Z
-Na	Sl
-odseku	Ncmsl
-avtoceste	Ncfsg
-Grosuplje	Npmsn
-–	Z
-Višnja	Agpfsn
-Gora	Npfsn
-proti	Sd
-Novemu	Agpnsd
-mestu	Ncnsd
-je	Va-r3s-n
-zjutraj	Rgp
-zagorelo	Vmep-sn
-osebno	Agpnsn
-vozilo	Ncnsn
-.	Z
-Avtocesta	Npfsn
-je	Va-r3s-n
-bila	Va-p-sf
-nekaj	Rgp
-časa	Ncmsg
-popolnoma	Rgp
-zaprta	Appfsn
-,	Z
-obvoz	Ncmsn
-pa	Cc
-je	Va-r3s-n
-potekal	Vmpp-sm
-po	Sl
-regionalnih	Agpfpl
-cestah	Ncfpl
-.	Z
-Posledice	Ncfpa
-nesreče	Ncfsg
-so	Va-r3p-n
-zdaj	Rgp
-odstranili	Vmep-pm
-,	Z
-tako	Cc
-da	Cs
-promet	Ncmsn
-spet	Rgp
-poteka	Vmpr3s
-tekoče	Appnsn
-.	Z
-Razmere	Ncfpn
-na	Sl
-cestah	Ncfpl
-drugje	Rgp
-po	Sl
-državi	Ncfsl
-so	Va-r3p-n
-trenutno	Rgp
-normalne	Agpfpn
-.	Z
-Zaradi	Sg
-snega	Ncmsg
-je	Va-r3s-n
-zaprt	Appmsnn
-prelaz	Ncmsn
-Vršič	Npmsn
-.	Z
-Popolni	Agpmpn
-zapori	Ncmpn
-sta	Va-r3d-n
-tudi	Q
-na	Sl
-regionalnih	Agpfpl
-cestah	Ncfpl
-Ruše	Npfsn
-–	Z
-Puščava	Npfsn
-v	Sl
-Rušah	Npfpl
-in	Cc
-Petriča	Npmsg
-–	Z
-Fikšinci	Npmsn
-pri	Sl
-Fikšincih	Npmpl
-.	Z
-Previdnost	Ncfsn
-je	Va-r3s-n
-potrebna	Agpfsn
-na	Sl
-cesti	Ncfsl
-Spodnja	Agpfsn
-Idrija	Npfsn
-–	Z
-Godovič	Npmsn
-zaradi	Sg
-možnosti	Ncfsg
-padanja	Ncnsg
-kamenja	Ncnsg
-na	Sa
-cestišče	Ncnsa
-.	Z
-Zapore	Ncfpa
-zaradi	Sg
-silvestrovanja	Ncnsg
-Zaradi	Sg
-nocojšnjih	Agpfpg
-prireditev	Ncfpg
-na	Sl
-prostem	Agpnsl
-bodo	Va-f3p-n
-v	Sl
-večernih	Agpfpl
-urah	Ncfpl
-popolne	Agpfpa
-zapore	Ncfpn
-na	Sl
-naslednjih	Agpfpl
-cestah	Ncfpl
-:	Z
-–	Z
-Slovenska	Agpfsn
-cesta	Ncfsn
-med	Si
-Aškerčevo	Aspfsi
-cesto	Ncfsi
-in	Cc
-Šubičevo	Aspfsi
-ulico	Ncfsi
-v	Sl
-Ljubljani	Npfsl
-od	Sg
-21	Mdc
-.	Z
-do	Sg
-5	Mdc
-.	Z
-ure	Ncfsg
-zjutraj	Rgp
-,	Z
-–	Z
-Murska	Agpfsn
-Sobota	Npfsn
-–	Z
-Gederovci	Npmpn
-v	Sl
-Murski	Agpfsl
-Soboti	Npfsl
-od	Sg
-20	Mdc
-.	Z
-do	Sg
-6	Mdc
-.	Z
-ure	Ncfsg
-zjutraj	Rgp
-,	Z
-–	Z
-Ljubljanska	Agpfsn
-cesta	Ncfsn
-v	Sl
-Slovenski	Agpfsl
-Bistrici	Npfsl
-od	Sg
-20	Mdc
-.	Z
-do	Sg
-4	Mdc
-.	Z
-ure	Ncfsg
-,	Z
-–	Z
-Breg	Npmsn
-–	Z
-Sevnica	Npfsn
-–	Z
-Brestanica	Npfsn
-v	Sl
-Sevnici	Npfsl
-od	Sg
-16	Mdc
-.	Z
-do	Sg
-in	Cc
-6	Mdc
-.	Z
-ure	Ncfsg
-,	Z
-–	Z
-regionalna	Agpfsn
-cesta	Ncfsn
-Krško	Npnsn
-–	Z
-Brežice	Npfpn
-v	Sl
-Krškem	Npnsl
-od	Sg
-20	Mdc
-.	Z
-do	Sg
-4	Mdc
-.	Z
+token	tag	lemma
+Promet	mte:Ncmsn	promet
+na	mte:Sl	na
+dolenjski	mte:Agpfsl	dolenjski
+avtocesti	mte:Ncfsl	avtocesta
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+ta	mte:Pd-fsn	ta
+med	mte:Si	med
+priključkoma	mte:Ncmdi	priključek
+Grosuplje	mte:Npmsn	Grosuplje
+in	mte:Cc	in
+Višnja	mte:Agpfsn	Višnji
+Gora	mte:Npfsn	Gora
+zaprta	mte:Appfsn	zaprt
+zaradi	mte:Sg	zaradi
+gorečega	mte:Appnsg	goreč
+vozila	mte:Ncnsg	vozilo
+,	mte:Z	,
+poteka	mte:Vmpr3s	potekati
+normalno	mte:Agpnsn	normalen
+.	mte:Z	.
+V	mte:Sl	v
+večernih	mte:Agpfpl	večeren
+urah	mte:Ncfpl	ura
+bodo	mte:Va-f3p-n	biti
+ponekod	mte:Rgp	ponekod
+popolne	mte:Agpfpn	popoln
+zapore	mte:Ncfpn	zapor
+zaradi	mte:Sg	zaradi
+silvestrovanj	mte:Ncnpg	silvestrovanje
+.	mte:Z	.
+Na	mte:Sl	na
+odseku	mte:Ncmsl	odsek
+avtoceste	mte:Ncfsg	avtocesta
+Grosuplje	mte:Npmsn	Grosuplje
+–	mte:Z	–
+Višnja	mte:Agpfsn	Višnji
+Gora	mte:Npfsn	Gora
+proti	mte:Sd	proti
+Novemu	mte:Agpnsd	nov
+mestu	mte:Ncnsd	mesto
+je	mte:Va-r3s-n	biti
+zjutraj	mte:Rgp	zjutraj
+zagorelo	mte:Vmep-sn	zagoreti
+osebno	mte:Agpnsn	oseben
+vozilo	mte:Ncnsn	vozilo
+.	mte:Z	.
+Avtocesta	mte:Npfsn	Avtocesta
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+popolnoma	mte:Rgp	popolnoma
+zaprta	mte:Appfsn	zaprt
+,	mte:Z	,
+obvoz	mte:Ncmsn	obvoz
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+potekal	mte:Vmpp-sm	potekati
+po	mte:Sl	po
+regionalnih	mte:Agpfpl	regionalen
+cestah	mte:Ncfpl	cesta
+.	mte:Z	.
+Posledice	mte:Ncfpa	posledica
+nesreče	mte:Ncfsg	nesreča
+so	mte:Va-r3p-n	biti
+zdaj	mte:Rgp	zdaj
+odstranili	mte:Vmep-pm	odstraniti
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+promet	mte:Ncmsn	promet
+spet	mte:Rgp	spet
+poteka	mte:Vmpr3s	potekati
+tekoče	mte:Appnsn	tekoče
+.	mte:Z	.
+Razmere	mte:Ncfpn	razmera
+na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+drugje	mte:Rgp	drugje
+po	mte:Sl	po
+državi	mte:Ncfsl	država
+so	mte:Va-r3p-n	biti
+trenutno	mte:Rgp	trenutno
+normalne	mte:Agpfpn	normalen
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+snega	mte:Ncmsg	sneg
+je	mte:Va-r3s-n	biti
+zaprt	mte:Appmsnn	zaprt
+prelaz	mte:Ncmsn	prelaz
+Vršič	mte:Npmsn	Vršič
+.	mte:Z	.
+Popolni	mte:Agpmpn	popoln
+zapori	mte:Ncmpn	zapor
+sta	mte:Va-r3d-n	biti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+regionalnih	mte:Agpfpl	regionalen
+cestah	mte:Ncfpl	cesta
+Ruše	mte:Npfsn	Ruše
+–	mte:Z	–
+Puščava	mte:Npfsn	Puščava
+v	mte:Sl	v
+Rušah	mte:Npfpl	Ruše
+in	mte:Cc	in
+Petriča	mte:Npmsg	Petrič
+–	mte:Z	–
+Fikšinci	mte:Npmsn	Fikšinci
+pri	mte:Sl	pri
+Fikšincih	mte:Npmpl	Fikšinci
+.	mte:Z	.
+Previdnost	mte:Ncfsn	previdnost
+je	mte:Va-r3s-n	biti
+potrebna	mte:Agpfsn	potreben
+na	mte:Sl	na
+cesti	mte:Ncfsl	cesta
+Spodnja	mte:Agpfsn	spodnji
+Idrija	mte:Npfsn	Idrija
+–	mte:Z	–
+Godovič	mte:Npmsn	Godovič
+zaradi	mte:Sg	zaradi
+možnosti	mte:Ncfsg	možnost
+padanja	mte:Ncnsg	padanje
+kamenja	mte:Ncnsg	kamenje
+na	mte:Sa	na
+cestišče	mte:Ncnsa	cestišče
+.	mte:Z	.
+Zapore	mte:Ncfpa	zapor
+zaradi	mte:Sg	zaradi
+silvestrovanja	mte:Ncnsg	silvestrovanje
+Zaradi	mte:Sg	zaradi
+nocojšnjih	mte:Agpfpg	nocojšnji
+prireditev	mte:Ncfpg	prireditev
+na	mte:Sl	na
+prostem	mte:Agpnsl	prost
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+večernih	mte:Agpfpl	večeren
+urah	mte:Ncfpl	ura
+popolne	mte:Agpfpa	popoln
+zapore	mte:Ncfpn	zapor
+na	mte:Sl	na
+naslednjih	mte:Agpfpl	naslednji
+cestah	mte:Ncfpl	cesta
+:	mte:Z	:
+–	mte:Z	–
+Slovenska	mte:Agpfsn	slovenski
+cesta	mte:Ncfsn	cesta
+med	mte:Si	med
+Aškerčevo	mte:Aspfsi	Aškerčev
+cesto	mte:Ncfsi	cesta
+in	mte:Cc	in
+Šubičevo	mte:Aspfsi	Šubičev
+ulico	mte:Ncfsi	ulica
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+od	mte:Sg	od
+21	mte:Mdc	21
+.	mte:Z	.
+do	mte:Sg	do
+5	mte:Mdc	5
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+zjutraj	mte:Rgp	zjutraj
+,	mte:Z	,
+–	mte:Z	–
+Murska	mte:Agpfsn	murski
+Sobota	mte:Npfsn	Sobota
+–	mte:Z	–
+Gederovci	mte:Npmpn	Gederovci
+v	mte:Sl	v
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+od	mte:Sg	od
+20	mte:Mdc	20
+.	mte:Z	.
+do	mte:Sg	do
+6	mte:Mdc	6
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+zjutraj	mte:Rgp	zjutraj
+,	mte:Z	,
+–	mte:Z	–
+Ljubljanska	mte:Agpfsn	ljubljanski
+cesta	mte:Ncfsn	cesta
+v	mte:Sl	v
+Slovenski	mte:Agpfsl	slovenski
+Bistrici	mte:Npfsl	Bistrica
+od	mte:Sg	od
+20	mte:Mdc	20
+.	mte:Z	.
+do	mte:Sg	do
+4	mte:Mdc	4
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+,	mte:Z	,
+–	mte:Z	–
+Breg	mte:Npmsn	Breg
+–	mte:Z	–
+Sevnica	mte:Npfsn	Sevnica
+–	mte:Z	–
+Brestanica	mte:Npfsn	Brestanica
+v	mte:Sl	v
+Sevnici	mte:Npfsl	Sevnica
+od	mte:Sg	od
+16	mte:Mdc	16
+.	mte:Z	.
+do	mte:Sg	do
+in	mte:Cc	in
+6	mte:Mdc	6
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+,	mte:Z	,
+–	mte:Z	–
+regionalna	mte:Agpfsn	regionalen
+cesta	mte:Ncfsn	cesta
+Krško	mte:Npnsn	Krško
+–	mte:Z	–
+Brežice	mte:Npfpn	Brežice
+v	mte:Sl	v
+Krškem	mte:Npnsl	Krško
+od	mte:Sg	od
+20	mte:Mdc	20
+.	mte:Z	.
+do	mte:Sg	do
+4	mte:Mdc	4
+.	mte:Z	.
+ure	mte:Ncfsg	ura
+zjutraj	mte:Rgp	zjutraj

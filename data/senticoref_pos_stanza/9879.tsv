@@ -1,278 +1,317 @@
-token	tag
-S	Si
-starostjo	Ncfsi
-se	Px------y
-posamezniki	Ncmpn
-vse	Rgp
-bolj	Rgc
-obračajo	Vmpr3p
-k	Sd
-veri	Ncfsd
-in	Cc
-Bogu	Ncmsd
-,	Z
-kaže	Vmpr3s
-najnovejša	Agsfsn
-raziskava	Ncfsn
-,	Z
-v	Sa
-katero	Pq-fsa
-so	Va-r3p-n
-bili	Va-p-pm
-vključeni	Appmpn
-prebivalci	Ncmpn
-iz	Sg
-30	Mdc
-držav	Ncfpg
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-ena	Mlpfsn
-izmed	Sg
-držav	Ncfpg
-,	Z
-kjer	Cs
-je	Va-r3s-n
-mogoče	Agpnsn
-opaziti	Vmen
-konstantno	Agpfsa
-rast	Ncfsa
-posameznikov	Ncmpg
-v	Sa
-verovanje	Ncnsa
-Boga	Ncmsg
-.	Z
-Raziskovalci	Ncmpn
-iz	Sg
-raziskovalnega	Agpmsg
-centra	Ncmsg
-v	Sl
-Chicagu	Npmsl
-NORC	Npmsn
-so	Va-r3p-n
-med	Si
-leti	Ncnpi
-1991	Mdc
-in	Cc
-2008	Mdc
-prebivalce	Ncmpa
-v	Sl
-30	Mdc
-državah	Ncfpl
-po	Sl
-svetu	Ncmsl
-spraševali	Vmpp-pm
-o	Sl
-stopnji	Ncfsl
-verovanja	Ncnsg
-v	Sa
-Boga	Ncmsay
-.	Z
-Rezultati	Ncmpn
-so	Va-r3p-n
-pokazali	Vmep-pm
-,	Z
-da	Cs
-starost	Ncfsn
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-igra	Vmpr3s
-veliko	Agpfsa
-vlogo	Ncfsa
-,	Z
-poroča	Vmpr3s
-Live	Npmsn
-Science	Npmsn
-.	Z
-V	Sa
-Boga	Npmsay
-so	Va-r3p-n
-tako	Rgp
-najbolj	Rgs
-verjeli	Vmbp-pm
-starejši	Agcmpn
-anketiranci	Ncmpn
-.	Z
-43	Mdc
-odstotkov	Ncmpg
-anketirancev	Ncmpg
-v	Sl
-starosti	Ncfsl
-68	Mdc
-let	Ncnpg
-in	Cc
-več	Rgc
-je	Va-r3s-n
-bilo	Va-p-sn
-prepričanih	Appmpg
-,	Z
-da	Cs
-Bog	Ncmsn
-obstaja	Vmpr3s
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-v	Sl
-primerjavi	Ncfsl
-s	Si
-tistimi	Pd-mpi
-,	Z
-ki	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-stari	Agpmpn
-27	Mdc
-let	Ncnpg
-in	Cc
-manj	Rgc
-dvakrat	Rgp
-več	Rgc
-(	Z
-23	Mdc
-odstotkov	Ncmpg
-)	Z
-.	Z
-V	Sl
-nekdanji	Agpfsl
-Vzhodni	Agpfsl
-Nemčiji	Npfsl
-se	Px------y
-je	Va-r3s-n
-medtem	Rgp
-za	Sa
-ateiste	Ncmpa
-izreklo	Vmep-sn
-kar	Rgp
-52	Mdc
-odstotkov	Ncmpg
-anketirancev	Ncmpg
-,	Z
-na	Sl
-Filipinih	Aspfpl
-pa	Cc
-le	Q
-en	Mlpmsn
-odstotek	Ncmsan
-.	Z
-Še	Q
-večje	Agcfsn
-razlika	Ncfsn
-je	Va-r3s-n
-pri	Sl
-vprašanju	Ncnsl
-,	Z
-ali	Rgp
-verjamete	Vmbr2p
-v	Sa
-Boga	Ncmsay
-:	Z
-temu	Pd-nsd
-je	Va-r3s-n
-pritrdilo	Vmep-sn
-84	Mdc
-odstotkov	Ncmpg
-Filipincev	Npmpg
-in	Cc
-le	Q
-8	Mdc
-odstotkov	Ncmpg
-prebivalcev	Ncmpg
-Vzhodne	Agpfsg
-Nemčije	Npfsg
-.	Z
-Najnižji	Agsmsay
-odstotek	Ncmsan
-verovanja	Ncnsg
-v	Sa
-Boga	Ncmsay
-so	Va-r3p-n
-raziskovalci	Ncmpn
-zabeležili	Vmep-pm
-na	Sl
-Japonskem	Npnsl
-(	Z
-4	Mdc
-odstotke	Ncmpa
-)	Z
-.	Z
-Na	Sa
-splošno	Agpnsa
-sicer	Q
-velja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-število	Ncnsn
-ljudi	Ncmpg
-,	Z
-ki	Cs
-verjamejo	Vmbr3p
-v	Sa
-Boga	Ncmsay
-najvišje	Agsfpa
-v	Sl
-državah	Ncfpl
-s	Si
-katoliško	Agpfsi
-tradicijo	Ncfsi
-.	Z
-Za	Sa
-ateiste	Ncmpa
-pa	Cc
-se	Px------y
-največ	Rgs
-ljudi	Ncmpg
-označuje	Vmpr3s
-v	Sl
-severnoevropskih	Agpfpl
-državah	Ncfpl
-,	Z
-kot	Cs
-na	Sa
-primer	Ncmsan
-v	Sl
-skandinavskih	Agpfpl
-državah	Ncfpl
-in	Cc
-v	Sl
-državah	Ncfpl
-nekdanjega	Agpmsg
-Vzhodnega	Agpmsg
-bloka	Ncmsg
-,	Z
-z	Si
-izjemo	Ncfsi
-Poljske	Npfsg
-.	Z
-V	Sl
-času	Ncmsl
-raziskave	Ncfsg
-pa	Cc
-so	Va-r3p-n
-samo	Q
-v	Sl
-petih	Mlc-pl
-državah	Ncfpl
-zaznali	Vmep-pm
-konstantno	Agpfsa
-rast	Ncfsa
-ljudi	Ncmpg
-,	Z
-ki	Cs
-verjamejo	Vmbr3p
-v	Sa
-Boga	Ncmsay
-:	Z
-Sloveniji	Npfsl
-,	Z
-Rusiji	Npfsl
-,	Z
-na	Sl
-Japonskem	Npnsl
-,	Z
-Zahodni	Agpfsl
-Nemčiji	Npfsl
-in	Cc
-Izraelu	Npmsl
-.	Z
+token	tag	lemma
+S	mte:Si	z
+starostjo	mte:Ncfsi	starost
+se	mte:Px------y	se
+posamezniki	mte:Ncmpn	posameznik
+vse	mte:Rgp	vse
+bolj	mte:Rgc	bolj
+obračajo	mte:Vmpr3p	obračati
+k	mte:Sd	k
+veri	mte:Ncfsd	vera
+in	mte:Cc	in
+Bogu	mte:Ncmsd	bog
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+najnovejša	mte:Agsfsn	nov
+raziskava	mte:Ncfsn	raziskava
+,	mte:Z	,
+v	mte:Sa	v
+katero	mte:Pq-fsa	kateri
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+vključeni	mte:Appmpn	vključen
+prebivalci	mte:Ncmpn	prebivalec
+iz	mte:Sg	iz
+30	mte:Mdc	30
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+ena	mte:Mlpfsn	en
+izmed	mte:Sg	izmed
+držav	mte:Ncfpg	država
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+opaziti	mte:Vmen	opaziti
+konstantno	mte:Agpfsa	konstanten
+rast	mte:Ncfsa	rast
+posameznikov	mte:Ncmpg	posameznik
+v	mte:Sa	v
+verovanje	mte:Ncnsa	verovanje
+Boga	mte:Ncmsg	bog
+.	mte:Z	.
+Raziskovalci	mte:Ncmpn	raziskovalec
+iz	mte:Sg	iz
+raziskovalnega	mte:Agpmsg	raziskovalen
+centra	mte:Ncmsg	center
+v	mte:Sl	v
+Chicagu	mte:Npmsl	Chicag
+NORC	mte:Npmsn	NORC
+so	mte:Va-r3p-n	biti
+med	mte:Si	med
+leti	mte:Ncnpi	leto
+1991	mte:Mdc	1991
+in	mte:Cc	in
+2008	mte:Mdc	2008
+prebivalce	mte:Ncmpa	prebivalec
+v	mte:Sl	v
+30	mte:Mdc	30
+državah	mte:Ncfpl	država
+po	mte:Sl	po
+svetu	mte:Ncmsl	svet
+spraševali	mte:Vmpp-pm	spraševati
+o	mte:Sl	o
+stopnji	mte:Ncfsl	stopnja
+verovanja	mte:Ncnsg	verovanje
+v	mte:Sa	v
+Boga	mte:Ncmsay	bog
+.	mte:Z	.
+Rezultati	mte:Ncmpn	rezultat
+so	mte:Va-r3p-n	biti
+pokazali	mte:Vmep-pm	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+starost	mte:Ncfsn	starost
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+igra	mte:Vmpr3s	igrati
+veliko	mte:Agpfsa	velik
+vlogo	mte:Ncfsa	vloga
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+Live	mte:Npmsn	Live
+Science	mte:Npmsn	Science
+.	mte:Z	.
+V	mte:Sa	v
+Boga	mte:Npmsay	bog
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+najbolj	mte:Rgs	najbolj
+verjeli	mte:Vmbp-pm	verjeti
+starejši	mte:Agcmpn	star
+anketiranci	mte:Ncmpn	anketiranca
+.	mte:Z	.
+43	mte:Mdc	43
+odstotkov	mte:Ncmpg	odstotek
+anketirancev	mte:Ncmpg	anketiranec
+v	mte:Sl	v
+starosti	mte:Ncfsl	starost
+68	mte:Mdc	68
+let	mte:Ncnpg	leto
+in	mte:Cc	in
+več	mte:Rgc	več
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+prepričanih	mte:Appmpg	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+Bog	mte:Ncmsn	bog
+obstaja	mte:Vmpr3s	obstajati
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+s	mte:Si	z
+tistimi	mte:Pd-mpi	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+stari	mte:Agpmpn	star
+27	mte:Mdc	27
+let	mte:Ncnpg	leto
+in	mte:Cc	in
+manj	mte:Rgc	manj
+dvakrat	mte:Rgp	dvakrat
+več	mte:Rgc	več
+(	mte:Z	(
+23	mte:Mdc	23
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+.	mte:Z	.
+V	mte:Sl	v
+nekdanji	mte:Agpfsl	nekdanji
+Vzhodni	mte:Agpfsl	vzhoden
+Nemčiji	mte:Npfsl	Nemčija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+medtem	mte:Rgp	medtem
+za	mte:Sa	za
+ateiste	mte:Ncmpa	ateist
+izreklo	mte:Vmep-sn	izreči
+kar	mte:Rgp	kar
+52	mte:Mdc	52
+odstotkov	mte:Ncmpg	odstotek
+anketirancev	mte:Ncmpg	anketiranec
+,	mte:Z	,
+na	mte:Sl	na
+Filipinih	mte:Aspfpl	filipin
+pa	mte:Cc	pa
+le	mte:Q	le
+en	mte:Mlpmsn	en
+odstotek	mte:Ncmsan	odstotek
+.	mte:Z	.
+Še	mte:Q	še
+večje	mte:Agcfsn	velik
+razlika	mte:Ncfsn	razlika
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+vprašanju	mte:Ncnsl	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+verjamete	mte:Vmbr2p	verjeti
+v	mte:Sa	v
+Boga	mte:Ncmsay	bog
+:	mte:Z	:
+temu	mte:Pd-nsd	ta
+je	mte:Va-r3s-n	biti
+pritrdilo	mte:Vmep-sn	pritrditi
+84	mte:Mdc	84
+odstotkov	mte:Ncmpg	odstotek
+Filipincev	mte:Npmpg	Filipinec
+in	mte:Cc	in
+le	mte:Q	le
+8	mte:Mdc	8
+odstotkov	mte:Ncmpg	odstotek
+prebivalcev	mte:Ncmpg	prebivalec
+Vzhodne	mte:Agpfsg	vzhoden
+Nemčije	mte:Npfsg	Nemčija
+.	mte:Z	.
+Najnižji	mte:Agsmsay	nizek
+odstotek	mte:Ncmsan	odstotek
+verovanja	mte:Ncnsg	verovanje
+v	mte:Sa	v
+Boga	mte:Ncmsay	bog
+so	mte:Va-r3p-n	biti
+raziskovalci	mte:Ncmpn	raziskovalec
+zabeležili	mte:Vmep-pm	zabeležiti
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+(	mte:Z	(
+4	mte:Mdc	4
+odstotke	mte:Ncmpa	odstotek
+)	mte:Z	)
+.	mte:Z	.
+Na	mte:Sa	na
+splošno	mte:Agpnsa	splošen
+sicer	mte:Q	sicer
+velja	mte:Vmpr3s	veljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+verjamejo	mte:Vmbr3p	verjeti
+v	mte:Sa	v
+Boga	mte:Ncmsay	bog
+najvišje	mte:Agsfpa	visok
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+s	mte:Si	z
+katoliško	mte:Agpfsi	katoliški
+tradicijo	mte:Ncfsi	tradicija
+.	mte:Z	.
+Za	mte:Sa	za
+ateiste	mte:Ncmpa	ateist
+pa	mte:Cc	pa
+se	mte:Px------y	se
+največ	mte:Rgs	največ
+ljudi	mte:Ncmpg	človek
+označuje	mte:Vmpr3s	označevati
+v	mte:Sl	v
+severnoevropskih	mte:Agpfpl	severnoevropski
+državah	mte:Ncfpl	država
+,	mte:Z	,
+kot	mte:Cs	kot
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+v	mte:Sl	v
+skandinavskih	mte:Agpfpl	skandinavski
+državah	mte:Ncfpl	država
+in	mte:Cc	in
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+nekdanjega	mte:Agpmsg	nekdanji
+Vzhodnega	mte:Agpmsg	vzhoden
+bloka	mte:Ncmsg	blok
+,	mte:Z	,
+z	mte:Si	z
+izjemo	mte:Ncfsi	izjema
+Poljske	mte:Npfsg	Poljska
+.	mte:Z	.
+V	mte:Sl	v
+času	mte:Ncmsl	čas
+raziskave	mte:Ncfsg	raziskava
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+samo	mte:Q	samo
+v	mte:Sl	v
+petih	mte:Mlc-pl	pet
+državah	mte:Ncfpl	država
+zaznali	mte:Vmep-pm	zaznati
+konstantno	mte:Agpfsa	konstanten
+rast	mte:Ncfsa	rast
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+verjamejo	mte:Vmbr3p	verjeti
+v	mte:Sa	v
+Boga	mte:Ncmsay	bog
+:	mte:Z	:
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+Rusiji	mte:Npfsl	Rusija
+,	mte:Z	,
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+,	mte:Z	,
+Zahodni	mte:Agpfsl	zahoden
+Nemčiji	mte:Npfsl	Nemčija
+in	mte:Cc	in
+Izraelu	mte:Npmsl	Izrael
+.	mte:Z	.
+Konstantno	mte:Agpnsn	konstanten
+zmanjševanje	mte:Ncnsa	zmanjševanje
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+verujejo	mte:Vmbr3p	verovati
+v	mte:Sa	v
+Boga	mte:Ncmsay	bog
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+značilno	mte:Agpnsn	značilen
+za	mte:Sa	za
+16	mte:Mdc	16
+držav	mte:Ncfpg	država
+:	mte:Z	:
+Avstralijo	mte:Npfsa	Avstralija
+,	mte:Z	,
+Avstrijo	mte:Npfsa	Avstrija
+,	mte:Z	,
+Vzhodno	mte:Agpfsa	vzhoden
+Nemčijo	mte:Npfsa	Nemčija
+,	mte:Z	,
+Veliko	mte:Agpfsa	velik
+Britanijo	mte:Npfsa	Britanija
+,	mte:Z	,
+Irsko	mte:Npfsa	irski
+,	mte:Z	,
+Nizozemsko	mte:Agpfsa	nizozemski
+,	mte:Z	,
+Novo	mte:Agpfsa	nov
+Zelandijo	mte:Npfsa	Zelandija
+,	mte:Z	,
+Severno	mte:Agpfsa	severen
+Irsko	mte:Npfsa	irski
+,	mte:Z	,
+Norveško	mte:Npfsa	Norveška
+in	mte:Cc	in
+Poljsko	mte:Npfsa	Poljska

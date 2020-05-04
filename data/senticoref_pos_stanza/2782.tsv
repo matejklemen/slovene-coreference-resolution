@@ -1,372 +1,425 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Droga	Ncfsn
-Kolinska	Npfsn
-spoštuje	Vmpr3s
-pridobljena	Appmda
-certifikata	Ncmdn
-halal	Ncmsn
-,	Z
-ki	Cs
-zagotavljata	Vmpr3d
-,	Z
-da	Cs
-so	Va-r3p-n
-testirani	Appmpn
-izdelki	Ncmpn
-Argeta	Ncmsg
-,	Z
-med	Si
-njimi	Pp3mpi
-tudi	Q
-piščančja	Ncfsn
-pašteta	Ncfsn
-Argeta	Npmsg
-,	Z
-izdelani	Appmpn
-v	Sl
-skladu	Ncmsl
-s	Si
-pravili	Ncnpi
-in	Cc
-zahtevami	Ncfpi
-halal	Ncmsg
-standarda	Ncmsg
-in	Cc
-torej	Rgp
-ne	Q
-vsebujejo	Vmpr3p
-svinjine	Ncfsg
-.	Z
-Certifikata	Ncmsg
-sta	Va-r3d-n
-izdali	Vmep-df
-islamski	Agpfdd
-skupnosti	Ncfda
-tako	Rgp
-v	Sl
-Sloveniji	Npfsl
-kot	Cs
-tudi	Q
-v	Sl
-BiH	Npfsl
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-Droge	Ncfsg
-Kolinske	Npfsg
-,	Z
-je	Va-r3s-n
-7	Mdc
-.	Z
-avgusta	Ncmsg
-letos	Rgp
-neodvisni	Agpmsny
-raziskovalni	Agpmsny
-laboratorij	Ncmsn
-Inštituta	Ncmsg
-Gissel	Npmsn
-iz	Sg
-Hanovra	Npmsg
-opravil	Vmep-sm
-testiranja	Ncnpa
-na	Sl
-piščančjih	Agpfpl
-paštetah	Ncfpl
-Argeta	Npmsg
-in	Cc
-ugotovil	Vmep-sm
-,	Z
-da	Cs
-te	Pd-fpn
-ne	Q
-vsebujejo	Vmpr3p
-svinjine	Ncfsg
-.	Z
-Slednji	Agpmsny
-je	Va-r3s-n
-testiranja	Ncnsg
-izvedel	Vmep-sm
-po	Sl
-enaki	Pi-fsl
-metodologiji	Ncfsl
-kot	Cs
-nemški	Agpmsny
-inštitut	Ncmsn
-za	Sa
-prehrano	Ncfsa
-Bayerisches	Npmsn
-Landesamt	Npmsn
-für	Xf
-Gesundheit	Npmsn
-und	Xf
-Lebensmittelsicherheit	Agpmpg
-,	Z
-ki	Cs
-je	Va-r3s-n
-ugotovil	Vmep-sm
-,	Z
-da	Cs
-piščančja	Ncfsn
-pašteta	Ncfsn
-Argeta	Npmsg
-vsebuje	Vmpr3s
-svinjsko	Agpnsa
-meso	Ncnsa
-in	Cc
-kosti	Ncfpa
-.	Z
-Analiza	Ncfsn
-v	Sl
-inštitutu	Ncmsl
-Gissel	Npmsn
-je	Va-r3s-n
-bila	Va-p-sf
-opravljena	Appfsn
-na	Sl
-izdelkih	Ncmpl
-Argeta	Ncmsg
-iste	Pi-fsg
-ter	Cc
-tudi	Q
-predhodne	Agpfsg
-in	Cc
-naslednje	Agpfsg
-serije	Ncfsg
-,	Z
-kot	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-v	Sa
-svojo	Px-fsa
-analizo	Ncfsa
-vključil	Vmep-sm
-tudi	Q
-bavarski	Agpmsny
-inštitut	Ncmsn
-za	Sa
-prehrano	Ncfsa
-.	Z
-Inštitut	Ncmsn
-Gissel	Npmsn
-je	Va-r3s-n
-za	Sa
-svoje	Px-fpa
-ugotovitve	Ncfpa
-tudi	Q
-izdal	Vmep-sm
-uradno	Agpnsa
-potrdilo	Ncnsa
-,	Z
-poudarjajo	Vmpr3p
-v	Sl
-Drogi	Ncfsl
-Kolinski	Npmsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-dodajajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-tudi	Q
-trgovska	Agpfsn
-veriga	Ncfsn
-Rewe	Npmsn
-,	Z
-kamor	Cs
-družba	Ncfsn
-prodaja	Vmpr3s
-svoje	Px-mpa
-izdelke	Ncmpa
-,	Z
-neodvisno	Rgp
-od	Sg
-Droge	Ncfsg
-Kolinske	Npfsg
-izvedla	Vmep-sf
-testiranja	Ncnpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-potrdila	Vmep-pn
-,	Z
-da	Cs
-izdelki	Ncmpn
-Argeta	Ncmsg
-ne	Q
-vsebujejo	Vmpr3p
-svinjine	Ncfsg
-.	Z
-To	Pd-nsa
-testiranje	Ncnsa
-je	Va-r3s-n
-4	Mdc
-.	Z
-avgusta	Ncmsg
-letos	Rgp
-izvedla	Vmep-sf
-organizacija	Ncfsn
-Lebensmittel	Npmsn
-Untersuchung	Npmsn
-iz	Sg
-Dunaja	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-za	Sa
-rezultate	Ncmpa
-testiranj	Ncnpg
-tudi	Q
-izdala	Vmep-sf
-uradno	Agpnsa
-potrdilo.Pašteta	Ncnsa
-Argeta	Npmsg
-ključni	Agpmsay
-program	Ncmsan
-družbe	Ncfsg
-S	Si
-tem	Pd-nsi
-so	Va-r3p-n
-se	Px------y
-v	Sl
-Drogi	Ncfsl
-Kolinski	Npmsn
-odzvali	Vmep-pm
-na	Sa
-sredino	Ncfsa
-vest	Ncfsn
-STA	Va-r3d-n
-,	Z
-ki	Cs
-smo	Va-r1p-n
-jo	Pp3fsa--y
-povzeli	Vmep-pm
-po	Sl
-srbski	Agpfsl
-tiskovni	Agpfsl
-agenciji	Ncfsl
-Tanjug	Npnsn
-,	Z
-da	Cs
-je	Va-r3s-n
-bavarski	Agpmsny
-inštitut	Ncmsn
-za	Sa
-prehrano	Ncfsa
-Bayerisches	Npmsn
-Landesamt	Npmsn
-für	Npmsn
-Gesundheit	Npmsn
-und	Xf
-Lebensmittelsicherheitt	Agpnpg
-ugotovil	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-v	Sl
-piščančji	Agpfsl
-pašteti	Ncfsl
-Argeta	Ncmsg
-proizvajalca	Ncmsg
-Droga	Npfsg
-Kolinska	Npfsn
-uporabljali	Vmpp-pm
-tudi	Q
-svinjsko	Agpnsa
-meso	Ncnsa
-in	Cc
-kosti	Ncfpa
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-močno	Rgp
-razburilo	Vmep-sn
-muslimane	Ncmpa
-,	Z
-predvsem	Q
-turško	Agpfsa
-skupnost	Ncfsa
-v	Sl
-Nemčiji	Npfsl
-.	Z
-Paštete	Npfsg
-s	Si
-certifikatom	Ncmsi
-halal	Ncmsn
-(	Z
-v	Sl
-arabščini	Ncfsl
-to	Pd-nsn
-pomeni	Vmbr3s
-dovoljeno	Appnsa
-oz	Ncfsa
-.	Z
-dobro	Rgp
-)	Z
-Droga	Ncfsn
-Kolinska	Npfsn
-proizvaja	Vmpr3s
-predvsem	Q
-v	Sl
-svoji	Px-fsl
-tovarni	Ncfsl
-Argeta	Npmsg
-v	Sl
-Sarajevu	Npnsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-z	Si
-delom	Ncnsi
-začela	Vmep-sf
-pred	Si
-slabimi	Agpnpi
-štirimi	Mlcnpi
-leti	Ncnpi
-.	Z
-Pašteta	Npfsn
-Argeta	Npmsg
-je	Va-r3s-n
-ključni	Agpmsny
-program	Ncmsn
-družbe	Ncfsg
-in	Cc
-je	Va-r3s-n
-tudi	Q
-najbolj	Rgs
-prodajani	Appmsny
-namaz	Ncmsn
-v	Sl
-Sloveniji	Npfsl
-,	Z
-BiH	Npfsl
-,	Z
-Makedoniji	Npfsl
-in	Cc
-na	Sl
-Kosovu	Npnsl
-,	Z
-v	Sl
-Srbiji	Npfsl
-je	Va-r3s-n
-po	Sl
-prodaji	Ncfsl
-na	Sl
-drugem	Mlpmsl
-oz	Ncmsl
-.	Z
-tretjem	Mlonsl
-mestu	Ncnsl
-,	Z
-v	Sl
-Švici	Npfsl
-in	Cc
-Avstriji	Npfsl
-pa	Cc
-na	Sl
-drugem	Mlpnsl
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Droga	mte:Ncfsn	droga
+Kolinska	mte:Npfsn	Kolinska
+spoštuje	mte:Vmpr3s	spoštovati
+pridobljena	mte:Appmda	pridobljen
+certifikata	mte:Ncmdn	certifikat
+halal	mte:Ncmsn	halalo
+,	mte:Z	,
+ki	mte:Cs	ki
+zagotavljata	mte:Vmpr3d	zagotavljati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+testirani	mte:Appmpn	testiran
+izdelki	mte:Ncmpn	izdelek
+Argeta	mte:Ncmsg	argeta
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+tudi	mte:Q	tudi
+piščančja	mte:Ncfsn	piščančje
+pašteta	mte:Ncfsn	pašteta
+Argeta	mte:Npmsg	Arge
+,	mte:Z	,
+izdelani	mte:Appmpn	izdelan
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+pravili	mte:Ncnpi	pravilo
+in	mte:Cc	in
+zahtevami	mte:Ncfpi	zahteva
+halal	mte:Ncmsg	halalo
+standarda	mte:Ncmsg	standard
+in	mte:Cc	in
+torej	mte:Rgp	torej
+ne	mte:Q	ne
+vsebujejo	mte:Vmpr3p	vsebovati
+svinjine	mte:Ncfsg	svinjina
+.	mte:Z	.
+Certifikata	mte:Ncmsg	certifikat
+sta	mte:Va-r3d-n	biti
+izdali	mte:Vmep-df	izdati
+islamski	mte:Agpfdd	islamski
+skupnosti	mte:Ncfda	skupnost
+tako	mte:Rgp	tako
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+v	mte:Sl	v
+BiH	mte:Npfsl	Bih
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Droge	mte:Ncfsg	droga
+Kolinske	mte:Npfsg	Kolinska
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+7	mte:Mdc	7
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+letos	mte:Rgp	letos
+neodvisni	mte:Agpmsny	neodvisen
+raziskovalni	mte:Agpmsny	raziskovalen
+laboratorij	mte:Ncmsn	laboratorij
+Inštituta	mte:Ncmsg	inštitut
+Gissel	mte:Npmsn	Gissel
+iz	mte:Sg	iz
+Hanovra	mte:Npmsg	Hanovra
+opravil	mte:Vmep-sm	opraviti
+testiranja	mte:Ncnpa	testiranje
+na	mte:Sl	na
+piščančjih	mte:Agpfpl	piščančji
+paštetah	mte:Ncfpl	pašteta
+Argeta	mte:Npmsg	Arge
+in	mte:Cc	in
+ugotovil	mte:Vmep-sm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+te	mte:Pd-fpn	ta
+ne	mte:Q	ne
+vsebujejo	mte:Vmpr3p	vsebovati
+svinjine	mte:Ncfsg	svinjina
+.	mte:Z	.
+Slednji	mte:Agpmsny	slednji
+je	mte:Va-r3s-n	biti
+testiranja	mte:Ncnsg	testiranje
+izvedel	mte:Vmep-sm	izvedeti
+po	mte:Sl	po
+enaki	mte:Pi-fsl	enak
+metodologiji	mte:Ncfsl	metodologija
+kot	mte:Cs	kot
+nemški	mte:Agpmsny	nemški
+inštitut	mte:Ncmsn	inštitut
+za	mte:Sa	za
+prehrano	mte:Ncfsa	prehrana
+Bayerisches	mte:Npmsn	Bayerisches
+Landesamt	mte:Npmsn	Landesamt
+für	mte:Xf	für
+Gesundheit	mte:Npmsn	Gesundheit
+und	mte:Xf	und
+Lebensmittelsicherheit	mte:Agpmpg	lebensmittelsicherheit
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+ugotovil	mte:Vmep-sm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+piščančja	mte:Ncfsn	piščančje
+pašteta	mte:Ncfsn	pašteta
+Argeta	mte:Npmsg	Arge
+vsebuje	mte:Vmpr3s	vsebovati
+svinjsko	mte:Agpnsa	svinjski
+meso	mte:Ncnsa	meso
+in	mte:Cc	in
+kosti	mte:Ncfpa	kost
+.	mte:Z	.
+Analiza	mte:Ncfsn	analiza
+v	mte:Sl	v
+inštitutu	mte:Ncmsl	inštitut
+Gissel	mte:Npmsn	Gissel
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+opravljena	mte:Appfsn	opravljen
+na	mte:Sl	na
+izdelkih	mte:Ncmpl	izdelek
+Argeta	mte:Ncmsg	argeta
+iste	mte:Pi-fsg	isti
+ter	mte:Cc	ter
+tudi	mte:Q	tudi
+predhodne	mte:Agpfsg	predhoden
+in	mte:Cc	in
+naslednje	mte:Agpfsg	naslednji
+serije	mte:Ncfsg	serija
+,	mte:Z	,
+kot	mte:Cs	kot
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+svojo	mte:Px-fsa	svoj
+analizo	mte:Ncfsa	analiza
+vključil	mte:Vmep-sm	vključiti
+tudi	mte:Q	tudi
+bavarski	mte:Agpmsny	bavarski
+inštitut	mte:Ncmsn	inštitut
+za	mte:Sa	za
+prehrano	mte:Ncfsa	prehrana
+.	mte:Z	.
+Inštitut	mte:Ncmsn	inštitut
+Gissel	mte:Npmsn	Gissel
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+svoje	mte:Px-fpa	svoj
+ugotovitve	mte:Ncfpa	ugotovitev
+tudi	mte:Q	tudi
+izdal	mte:Vmep-sm	izdati
+uradno	mte:Agpnsa	uraden
+potrdilo	mte:Ncnsa	potrdilo
+,	mte:Z	,
+poudarjajo	mte:Vmpr3p	poudarjati
+v	mte:Sl	v
+Drogi	mte:Ncfsl	droga
+Kolinski	mte:Npmsn	Kolinska
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+dodajajo	mte:Vmpr3p	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+trgovska	mte:Agpfsn	trgovski
+veriga	mte:Ncfsn	verig
+Rewe	mte:Npmsn	Rewe
+,	mte:Z	,
+kamor	mte:Cs	kamor
+družba	mte:Ncfsn	družba
+prodaja	mte:Vmpr3s	prodajati
+svoje	mte:Px-mpa	svoj
+izdelke	mte:Ncmpa	izdelek
+,	mte:Z	,
+neodvisno	mte:Rgp	neodvisen
+od	mte:Sg	od
+Droge	mte:Ncfsg	droga
+Kolinske	mte:Npfsg	Kolinska
+izvedla	mte:Vmep-sf	izvesti
+testiranja	mte:Ncnpa	testiranje
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+potrdila	mte:Vmep-pn	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+izdelki	mte:Ncmpn	izdelek
+Argeta	mte:Ncmsg	argeta
+ne	mte:Q	ne
+vsebujejo	mte:Vmpr3p	vsebovati
+svinjine	mte:Ncfsg	svinjina
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+testiranje	mte:Ncnsa	testiranje
+je	mte:Va-r3s-n	biti
+4	mte:Mdc	4
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+letos	mte:Rgp	letos
+izvedla	mte:Vmep-sf	izvesti
+organizacija	mte:Ncfsn	organizacija
+Lebensmittel	mte:Npmsn	Lebensmittel
+Untersuchung	mte:Npmsn	Untersuchung
+iz	mte:Sg	iz
+Dunaja	mte:Npmsg	Dunaj
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+rezultate	mte:Ncmpa	rezultat
+testiranj	mte:Ncnpg	testiranje
+tudi	mte:Q	tudi
+izdala	mte:Vmep-sf	izdati
+uradno	mte:Agpnsa	uraden
+potrdilo.Pašteta	mte:Ncnsa	potrdilospašteta
+Argeta	mte:Npmsg	Arge
+ključni	mte:Agpmsay	ključen
+program	mte:Ncmsan	program
+družbe	mte:Ncfsg	družba
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+v	mte:Sl	v
+Drogi	mte:Ncfsl	droga
+Kolinski	mte:Npmsn	Kolinska
+odzvali	mte:Vmep-pm	odzvati
+na	mte:Sa	na
+sredino	mte:Ncfsa	sredina
+vest	mte:Ncfsn	vest
+STA	mte:Va-r3d-n	biti
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+jo	mte:Pp3fsa--y	on
+povzeli	mte:Vmep-pm	povzeti
+po	mte:Sl	po
+srbski	mte:Agpfsl	srbski
+tiskovni	mte:Agpfsl	tiskoven
+agenciji	mte:Ncfsl	agencija
+Tanjug	mte:Npnsn	Tanjug
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bavarski	mte:Agpmsny	bavarski
+inštitut	mte:Ncmsn	inštitut
+za	mte:Sa	za
+prehrano	mte:Ncfsa	prehrana
+Bayerisches	mte:Npmsn	Bayerisches
+Landesamt	mte:Npmsn	Landesamt
+für	mte:Npmsn	für
+Gesundheit	mte:Npmsn	Gesundheit
+und	mte:Xf	und
+Lebensmittelsicherheitt	mte:Agpnpg	lebensmittelsicherheitt
+ugotovil	mte:Vmep-sm	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+piščančji	mte:Agpfsl	piščančji
+pašteti	mte:Ncfsl	paštet
+Argeta	mte:Ncmsg	argeta
+proizvajalca	mte:Ncmsg	proizvajalec
+Droga	mte:Npfsg	Droga
+Kolinska	mte:Npfsn	Kolinska
+uporabljali	mte:Vmpp-pm	uporabljati
+tudi	mte:Q	tudi
+svinjsko	mte:Agpnsa	svinjski
+meso	mte:Ncnsa	meso
+in	mte:Cc	in
+kosti	mte:Ncfpa	kost
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+močno	mte:Rgp	močno
+razburilo	mte:Vmep-sn	razburiti
+muslimane	mte:Ncmpa	musliman
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+turško	mte:Agpfsa	turški
+skupnost	mte:Ncfsa	skupnost
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+.	mte:Z	.
+Paštete	mte:Npfsg	Pašteta
+s	mte:Si	z
+certifikatom	mte:Ncmsi	certifikat
+halal	mte:Ncmsn	halalo
+(	mte:Z	(
+v	mte:Sl	v
+arabščini	mte:Ncfsl	arabščina
+to	mte:Pd-nsn	ta
+pomeni	mte:Vmbr3s	pomeniti
+dovoljeno	mte:Appnsa	dovoljen
+oz	mte:Ncfsa	oz
+.	mte:Z	.
+dobro	mte:Rgp	dobro
+)	mte:Z	)
+Droga	mte:Ncfsn	droga
+Kolinska	mte:Npfsn	Kolinska
+proizvaja	mte:Vmpr3s	proizvajati
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+svoji	mte:Px-fsl	svoj
+tovarni	mte:Ncfsl	tovarna
+Argeta	mte:Npmsg	Arge
+v	mte:Sl	v
+Sarajevu	mte:Npnsl	Sarajevo
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+delom	mte:Ncnsi	delo
+začela	mte:Vmep-sf	začeti
+pred	mte:Si	pred
+slabimi	mte:Agpnpi	slab
+štirimi	mte:Mlcnpi	štirje
+leti	mte:Ncnpi	leto
+.	mte:Z	.
+Pašteta	mte:Npfsn	Pašteta
+Argeta	mte:Npmsg	Arge
+je	mte:Va-r3s-n	biti
+ključni	mte:Agpmsny	ključen
+program	mte:Ncmsn	program
+družbe	mte:Ncfsg	družba
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+najbolj	mte:Rgs	najbolj
+prodajani	mte:Appmsny	prodajan
+namaz	mte:Ncmsn	namazaz
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+BiH	mte:Npfsl	Bih
+,	mte:Z	,
+Makedoniji	mte:Npfsl	Makedonija
+in	mte:Cc	in
+na	mte:Sl	na
+Kosovu	mte:Npnsl	Kosovo
+,	mte:Z	,
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+prodaji	mte:Ncfsl	prodaja
+na	mte:Sl	na
+drugem	mte:Mlpmsl	drug
+oz	mte:Ncmsl	oz
+.	mte:Z	.
+tretjem	mte:Mlonsl	tretji
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+v	mte:Sl	v
+Švici	mte:Npfsl	Švica
+in	mte:Cc	in
+Avstriji	mte:Npfsl	Avstrija
+pa	mte:Cc	pa
+na	mte:Sl	na
+drugem	mte:Mlpmsl	drug
+.	mte:Z	.
+Največ	mte:Rgs	največ
+namazov	mte:Ncmpg	namaz
+znamke	mte:Ncfsg	znamka
+Argeta	mte:Npmsg	Arge
+je	mte:Va-r3s-n	biti
+Droga	mte:Ncfsn	droga
+Kolinska	mte:Npfsn	Kolinska
+lani	mte:Rgp	lani
+prodala	mte:Vmep-sf	prodati
+v	mte:Sl	v
+BiH	mte:Npmsl	Bih
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+31	mte:Mdc	31
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+Slovenija	mte:Npfsn	Slovenija
+(	mte:Z	(
+13,6	mte:Mdc	13,6
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Srbija	mte:Npfsn	Srbija
+in	mte:Cc	in
+Črna	mte:Agpfsn	črn
+gora	mte:Ncfsn	gora
+(	mte:Z	(
+13,1	mte:Mdc	13,1
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Makedonija	mte:Npfsn	Makedonija
+(	mte:Z	(
+10,1	mte:Mdc	10,1
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Avstrija	mte:Npfsn	Avstrija
+in	mte:Cc	in
+Nemčija	mte:Npfsn	Nemčija
+(	mte:Z	(
+devet	mte:Mlc-pa	devet
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+ter	mte:Cc	ter
+Kosovo	mte:Npnsn	Kosovo
+(	mte:Z	(
+6,2	mte:Mdc	6,2
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)

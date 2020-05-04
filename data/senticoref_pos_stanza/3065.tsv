@@ -1,632 +1,634 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Dars	Npmsn
-naj	Q
-bi	Va-c
-po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-v	Sl
-prihodnjih	Agpmpl
-dneh	Ncmpl
-odločal	Vmpp-sm
-o	Sl
-usodi	Ncfsl
-razpisa	Ncmsg
-za	Sa
-vzpostavitev	Ncfsa
-pilotskega	Agpmsg
-sistema	Ncmsg
-pošiljanja	Ncnsg
-prometnih	Agpfpg
-informacij	Ncfpg
-v	Sa
-navigacijske	Agpfpa
-naprave	Ncfpa
-v	Sl
-avtomobilih	Ncmpl
-.	Z
-Po	Sl
-dostopnih	Agpmpl
-podatkih	Ncmpl
-sta	Va-r3d-n
-se	Px------y
-na	Sa
-razpis	Ncmsan
-prijavila	Vmep-dm
-dva	Mlcmdn
-ponudnika	Ncmdn
-:	Z
-poleg	Sg
-podjetja	Ncnsg
-Traffic	Npmsn
-Design	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-lasti	Ncfsl
-izumitelja	Ncmsg
-cestninskega	Agpmsg
-sistema	Ncmsg
-ABC	Npmsn
-Tomaža	Npmsg
-Kastelica	Npmsg
-,	Z
-še	Q
-podjetje	Ncnsa
-Monolit	Npmsn
-,	Z
-ki	Cs
-storitve	Ncfpa
-,	Z
-povezane	Appfpn
-s	Si
-tako	Rgp
-imenovanim	Appmsi
-kanalom	Ncmsi
-prometnih	Agpnpg
-sporočil	Ncnpg
-(	Z
-TMS	Npmsn
--	Z
-"	Z
-Traffic	Npmsn
-Message	Npmsn
-Channel	Npmsn
-"	Z
-)	Z
-,	Z
-Darsu	Npmsd
-ponuja	Vmpr3s
-za	Sa
-dobrih	Agpmpg
-175.000	Mdc
-evrov	Ncmpg
-.	Z
-Kasteličeva	Aspfsn
-ponudba	Ncfsn
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-"	Z
-težka	Agpfsn
-"	Z
-pol	Rgp
-manj	Rgc
-,	Z
-okrog	Rgp
-78.000	Mdc
-evrov	Ncmpg
-,	Z
-po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-pa	Cc
-ni	Va-r3s-y
-izključeno	Appnsn
-,	Z
-da	Cs
-bodo	Va-f3p-n
-na	Sl
-Darsu	Npmsl
-razpis	Ncmsan
-razveljavili	Vmep-pm
-.	Z
-Na	Sl
-Darsu	Npmsl
-so	Va-r3p-n
-sicer	Q
-decembra	Ncmsg
-lani	Rgp
-,	Z
-ko	Cs
-so	Va-r3p-n
-razpis	Ncmsan
-objavili	Vmep-pm
-,	Z
-očitno	Rgp
-pozabili	Vmep-pm
-na	Sa
-pomembno	Agpfsa
-"	Z
-podrobnost	Ncfsa
-"	Z
-.	Z
-Le	Q
-sedem	Mlc-pa
-mesecev	Ncmpg
-pred	Si
-objavo	Ncfsi
-razpisa	Ncmsg
-,	Z
-torej	Rgp
-maja	Ncmsg
-lani	Rgp
-,	Z
-je	Va-r3s-n
-namreč	Cc
-nekdanja	Agpfsn
-uprava	Ncfsn
-družbe	Ncfsg
-s	Si
-Tomislavom	Npmsi
-Nemcem	Npmsi
-na	Sl
-čelu	Ncnsl
-skupaj	Rgp
-z	Si
-državno	Agpfsi
-direkcijo	Ncfsi
-za	Sa
-ceste	Ncfpa
-vzpostavitev	Ncfsa
-sistema	Ncmsg
-obveščanja	Ncnsg
-o	Sl
-stanju	Ncnsl
-v	Sl
-prometu	Ncmsl
-prepustila	Vmep-sf
-RTV	Npfsn
-Slovenija	Npfsn
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-za	Sa
-objavljanje	Ncnsa
-informacij	Ncfpg
-prek	Sg
-radijskih	Agpmpg
-valov	Ncfpg
-izbrala	Vmep-sf
-svoj	Px-msa
-Radio	Ncmsan
-SI	Px---d--y
-,	Z
-za	Sa
-obveščanje	Ncnsa
-prek	Sg
-navigacijskih	Agpfpg
-naprav	Ncfpg
-pa	Cc
-našla	Vmep-sf
-zasebnega	Agpmsa
-partnerja	Ncmsay
-,	Z
-madžarsko	Agpnsn
-podjetje	Ncnsa
-TrafficNav	Npmsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-velja	Vmpr3s
-opozoriti	Vmen
-,	Z
-da	Cs
-sta	Va-r3d-n
-direkcija	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodi	Vmpr3s
-Gregor	Npmsn
-Ficko	Npmsn
-,	Z
-in	Cc
-Dars	Npmsn
-nacionalki	Ncfsd
-in	Cc
-posledično	Rgp
-tudi	Q
-Madžarom	Npmsa
-posel	Ncmsan
-oddala	Vmep-sm
-brez	Sg
-razpisa	Ncmsg
-,	Z
-in	Cc
-to	Pd-nsa
-za	Sa
-obdobje	Ncnsa
-petih	Mlc-pg
-let	Ncnpg
-.	Z
-Vse	Pg-nsn
-to	Pd-nsn
-je	Va-r3s-n
-posledično	Rgp
-pomenilo	Vmbp-sn
-,	Z
-da	Cs
-je	Va-r3s-n
-madžarsko	Agpnsn
-zasebno	Agpnsn
-podjetje	Ncnsn
-v	Sa
-uporabo	Ncfsa
-dobilo	Vmep-sn
-tudi	Q
-podatke	Ncmpa
-,	Z
-ki	Cs
-se	Px------y
-zbirajo	Vmpr3p
-pri	Sl
-državnem	Agpmsl
-Prometnoinformacijskem	Agpmsl
-centru	Ncmsl
-za	Sa
-državne	Agpfpa
-ceste	Ncfpa
-(	Z
-PIC	Npmsn
-)	Z
-.	Z
-TrafficNav	Npmsn
-je	Va-r3s-n
-namreč	Cc
-zagotovil	Vmep-sm
-programsko	Agpfsa
-opremo	Ncfsa
-,	Z
-prek	Sg
-katere	Pq-fsg
-Radio	Npmsn
-SI	Px---d--y
-vnaša	Vmpr3s
-podatke	Ncmpa
-o	Sl
-prometu	Ncmsl
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-lahko	Rgp
-vozniki	Ncmpn
-avtomobilov	Ncmpg
-vidijo	Vmbr3p
-na	Sl
-svojih	Px-fpl
-navigacijskih	Agpfpl
-napravah	Ncfpl
-.	Z
-S	Si
-tem	Pd-nsi
-ko	Cs
-Madžari	Npmpn
-skrbijo	Vmpr3p
-za	Sa
-delovanje	Ncnsa
-storitve	Ncfsg
-,	Z
-ki	Cs
-sicer	Q
-skoraj	Q
-v	Sl
-celoti	Ncfsl
-temelji	Vmpr3s
-na	Sl
-javni	Agpfsl
-infrastrukturi	Ncfsl
-(	Z
-oddajni	Agpfsl
-mreži	Ncfsl
-in	Cc
-podatkih	Ncmpl
-)	Z
-,	Z
-naj	Q
-bi	Va-c
-po	Sl
-naših	Ps1fplp
-informacijah	Ncfpl
-pridobili	Vmep-pm
-tudi	Q
-pravico	Ncfsa
-do	Sg
-uporabe	Ncfsg
-tako	Rgp
-imenovanih	Appfpg
-lokacijskih	Agpfpg
-tabel	Ncfpg
-,	Z
-torej	Rgp
-informacij	Ncfpg
-o	Sl
-trenutnem	Agpnsl
-dogajanju	Ncnsl
-v	Sl
-prometu	Ncmsl
-na	Sl
-slovenskih	Agpfpl
-cestah	Ncfpl
-.	Z
-Prav	Q
-te	Pd-fpn
-so	Va-r3p-n
-bistvo	Ncnsn
-posla	Ncmsg
--	Z
-TrafficNav	Npmsn
-jih	Pp3mpa--y
-lahko	Rgp
-namreč	Cc
-bolj	Rgc
-ali	Cc
-manj	Rgc
-brez	Sg
-nadzora	Ncmsg
-trži	Vmpr3s
-in	Cc
-preprodaja	Vmpr3s
-proizvajalcem	Ncmpd
-navigacijskih	Agpfpg
-naprav	Ncfpg
-.	Z
-Če	Cs
-želijo	Vmpr3p
-ti	Pd-mpn
-uporabnikom	Ncmpd
-omogočiti	Vmen
-vpogled	Ncmsan
-v	Sa
-stanje	Ncnsa
-na	Sl
-slovenskih	Agpfpl
-cestah	Ncfpl
-prek	Sg
-sistema	Ncmsg
-TMC	Npmsg
-,	Z
-morajo	Vmpr3p
-pri	Sl
-tem	Pd-nsl
-odkupiti	Vmen
-lokacijske	Agpfpa
-tabele	Ncfpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-prodaja	Vmpr3s
-TrafficNav	Npmsn
-.	Z
-Takšen	Pd-msa
-dogovor	Ncmsan
-so	Va-r3p-n
-tako	Rgp
-Madžari	Npmpn
-že	Q
-sklenili	Vmep-pm
-s	Si
-podjetjem	Ncnsi
-Navigon	Npmsn
-,	Z
-Garminovi	Aspmpn
-uporabniki	Ncmpn
-pa	Cc
-bodo	Va-f3p-n
-za	Sa
-prometne	Agpfpa
-informacije	Ncfpa
-na	Sl
-nadgrajeni	Appfsl
-napravi	Ncfsl
-plačevali	Vmpp-pm
-po	Sl
-15	Mdc
-.	Z
-aprilu	Ncmsl
-.	Z
-Pri	Sl
-tem	Pd-nsl
-sta	Va-r3d-n
-najbolj	Rgs
-sporni	Agpndn
-dve	Mlcndn
-dejstvi	Ncnda
-.	Z
-Prvič	Rgp
-,	Z
-čeprav	Cs
-sistem	Ncmsn
-TMC	Npmsn
-temelji	Vmpr3s
-na	Sl
-javni	Agpfsl
-infrastrukturi	Ncfsl
-,	Z
-je	Va-r3s-n
-za	Sa
-uporabnike	Ncmpa
-plačljiv	Agpmsnn
-.	Z
-Podatki	Ncmpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-zbira	Vmpr3s
-Prometnoinformacijski	Agpmsny
-center	Ncmsn
-,	Z
-so	Va-r3p-n
-tako	Rgp
-šifrirani	Appmpn
-,	Z
-njihov	Ps3msnp
-nakup	Ncmsn
-pa	Cc
-je	Va-r3s-n
-vštet	Agpmsnn
-v	Sa
-ceno	Ncfsa
-novega	Agpmsg
-ali	Cc
-ustrezno	Rgp
-nadgrajenega	Appmsg
-sprejemnika	Ncmsg
-TMC	Npmsn
-.	Z
-Za	Sa
-primerjavo	Ncfsa
-,	Z
-podatki	Ncmpn
-iz	Sg
-istega	Pi-msg
-sistema	Ncmsg
-so	Va-r3p-n
-brezplačni	Agpmpn
-v	Sl
-severni	Agpfsl
-Italiji	Npfsl
-,	Z
-Avstriji	Npfsl
-,	Z
-Belgiji	Npfsl
-,	Z
-Švici	Npfsl
-,	Z
-Franciji	Npfsl
-,	Z
-Nemčiji	Npfsl
-,	Z
-na	Sl
-Danskem	Npnsl
-,	Z
-Nizozemskem	Npnsl
-,	Z
-Češkem	Npnsl
-in	Cc
-še	Q
-v	Sl
-nekaterih	Pi-fpl
-evropskih	Agpfpl
-državah	Ncfpl
-.	Z
-V	Sl
-Sloveniji	Npfsl
-se	Px------y
-sicer	Q
-podatki	Ncmpn
-v	Sl
-navigacijskih	Agpfpl
-napravah	Ncfpl
-osvežujejo	Vmpr3p
-le	Q
-na	Sa
-vsakih	Pg-fpl
-petnajst	Mlc-pa
-minut	Ncfpg
-.	Z
-Prav	Q
-iz	Sg
-prakse	Ncfsg
-v	Sl
-drugih	Mlpfpl
-državah	Ncfpl
-izhaja	Vmpr3s
-drugo	Mlpnsa
-sporno	Agpnsn
-dejstvo	Ncnsa
-.	Z
-Po	Sl
-dostopnih	Agpmpl
-podatkih	Ncmpl
-namreč	Cc
-s	Si
-sistemom	Ncmsi
-TMC	Npmsn
-v	Sl
-večini	Ncfsl
-držav	Ncfpg
-EU	Npfsg
-upravljajo	Vmpr3p
-državni	Agpmpn
-organi	Ncmpn
-ali	Cc
-podjetja	Ncnpn
-:	Z
-v	Sl
-Avstriji	Npfsl
-tamkajšnji	Agpmsny
-upravljavec	Ncmsn
-avtocestnega	Agpnsg
-omrežja	Ncnsg
-Asfinag	Npmsn
-,	Z
-v	Sl
-Nemčiji	Npfsl
-Zvezni	Agpmsny
-inštitut	Ncmsn
-za	Sa
-avtoceste	Ncfpa
-,	Z
-na	Sl
-Nizozemskem	Agpmsl
-tamkajšnji	Agpmsny
-prometni	Agpmsny
-center	Ncmsn
-,	Z
-na	Sl
-Danskem	Npnsl
-in	Cc
-Finskem	Npnsl
-pa	Cc
-tamkajšnji	Agpnsl
-prometni	Agpnsl
-ministrstvi	Ncnsl
-.	Z
-Madžarski	Agpmsny
-TrafficNav	Npmsn
-je	Va-r3s-n
-sicer	Q
-najuspešnejši	Agsmsny
-zasebni	Agpmsny
-ponudnik	Ncmsn
-TMC	Npmsn
-,	Z
-saj	Cc
-skrbi	Vmpr3s
-za	Sa
-omenjeni	Appmsay
-sistem	Ncmsan
-še	Q
-na	Sl
-Madžarskem	Npnsl
-,	Z
-Hrvaškem	Npnsl
-,	Z
-Irskem	Npnsl
-in	Cc
-Portugalskem	Npnsl
-.	Z
-Po	Sl
-informacijah	Ncfpl
-,	Z
-ki	Cs
-nam	Pp1-pd
-jih	Pp3mpa--y
-včeraj	Rgp
-ni	Va-r3s-y
-uspelo	Vmep-sn
-preveriti	Vmen
-,	Z
-naj	Q
-bi	Va-c
-TrafficNav	Npmsn
-nastopal	Vmpp-sm
-kot	Cs
-podizvajalec	Ncmsn
-tudi	Q
-v	Sl
-ponudbi	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-na	Sa
-Dars	Npmsa
-poslalo	Vmep-sn
-podjetje	Ncnsn
-Monolit	Npmsn
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Dars	mte:Npmsn	Dars
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+dneh	mte:Ncmpl	dan
+odločal	mte:Vmpp-sm	odločati
+o	mte:Sl	o
+usodi	mte:Ncfsl	usoda
+razpisa	mte:Ncmsg	razpis
+za	mte:Sa	za
+vzpostavitev	mte:Ncfsa	vzpostavitev
+pilotskega	mte:Agpmsg	pilotski
+sistema	mte:Ncmsg	sistem
+pošiljanja	mte:Ncnsg	pošiljanje
+prometnih	mte:Agpfpg	prometen
+informacij	mte:Ncfpg	informacija
+v	mte:Sa	v
+navigacijske	mte:Agpfpa	navigacijski
+naprave	mte:Ncfpa	naprava
+v	mte:Sl	v
+avtomobilih	mte:Ncmpl	avtomobil
+.	mte:Z	.
+Po	mte:Sl	po
+dostopnih	mte:Agpmpl	dostopen
+podatkih	mte:Ncmpl	podatek
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+na	mte:Sa	na
+razpis	mte:Ncmsan	razpis
+prijavila	mte:Vmep-dm	prijaviti
+dva	mte:Mlcmdn	dva
+ponudnika	mte:Ncmdn	ponudnik
+:	mte:Z	:
+poleg	mte:Sg	poleg
+podjetja	mte:Ncnsg	podjetje
+Traffic	mte:Npmsn	Traffice
+Design	mte:Npmsn	Design
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+izumitelja	mte:Ncmsg	izumitelj
+cestninskega	mte:Agpmsg	cestninski
+sistema	mte:Ncmsg	sistem
+ABC	mte:Npmsn	ABC
+Tomaža	mte:Npmsg	Tomaž
+Kastelica	mte:Npmsg	Kastelic
+,	mte:Z	,
+še	mte:Q	še
+podjetje	mte:Ncnsa	podjetje
+Monolit	mte:Npmsn	Monolit
+,	mte:Z	,
+ki	mte:Cs	ki
+storitve	mte:Ncfpa	storitev
+,	mte:Z	,
+povezane	mte:Appfpn	povezan
+s	mte:Si	z
+tako	mte:Rgp	tako
+imenovanim	mte:Appmsi	imenovan
+kanalom	mte:Ncmsi	kanal
+prometnih	mte:Agpnpg	prometen
+sporočil	mte:Ncnpg	sporočilo
+(	mte:Z	(
+TMS	mte:Npmsn	TMS
+-	mte:Z	-
+"	mte:Z	"
+Traffic	mte:Npmsn	Traffice
+Message	mte:Npmsn	Message
+Channel	mte:Npmsn	Channel
+"	mte:Z	"
+)	mte:Z	)
+,	mte:Z	,
+Darsu	mte:Npmsd	Dars
+ponuja	mte:Vmpr3s	ponujati
+za	mte:Sa	za
+dobrih	mte:Agpmpg	dober
+175.000	mte:Mdc	175.000
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Kasteličeva	mte:Aspfsn	Kasteličev
+ponudba	mte:Ncfsn	ponudba
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+"	mte:Z	"
+težka	mte:Agpfsn	težek
+"	mte:Z	"
+pol	mte:Rgp	pol
+manj	mte:Rgc	manj
+,	mte:Z	,
+okrog	mte:Rgp	okrog
+78.000	mte:Mdc	78.000
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+izključeno	mte:Appnsn	izključen
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+na	mte:Sl	na
+Darsu	mte:Npmsl	Dars
+razpis	mte:Ncmsan	razpis
+razveljavili	mte:Vmep-pm	razveljaviti
+.	mte:Z	.
+Na	mte:Sl	na
+Darsu	mte:Npmsl	Dars
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+razpis	mte:Ncmsan	razpis
+objavili	mte:Vmep-pm	objaviti
+,	mte:Z	,
+očitno	mte:Rgp	očitno
+pozabili	mte:Vmep-pm	pozabiti
+na	mte:Sa	na
+pomembno	mte:Agpfsa	pomemben
+"	mte:Z	"
+podrobnost	mte:Ncfsa	podrobnost
+"	mte:Z	"
+.	mte:Z	.
+Le	mte:Q	le
+sedem	mte:Mlc-pa	sedem
+mesecev	mte:Ncmpg	mesec
+pred	mte:Si	pred
+objavo	mte:Ncfsi	objava
+razpisa	mte:Ncmsg	razpis
+,	mte:Z	,
+torej	mte:Rgp	torej
+maja	mte:Ncmsg	maj
+lani	mte:Rgp	lani
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+nekdanja	mte:Agpfsn	nekdanji
+uprava	mte:Ncfsn	uprava
+družbe	mte:Ncfsg	družba
+s	mte:Si	z
+Tomislavom	mte:Npmsi	Tomislavo
+Nemcem	mte:Npmsi	Nemec
+na	mte:Sl	na
+čelu	mte:Ncnsl	čelo
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+državno	mte:Agpfsi	državen
+direkcijo	mte:Ncfsi	direkcija
+za	mte:Sa	za
+ceste	mte:Ncfpa	cesta
+vzpostavitev	mte:Ncfsa	vzpostavitev
+sistema	mte:Ncmsg	sistem
+obveščanja	mte:Ncnsg	obveščanje
+o	mte:Sl	o
+stanju	mte:Ncnsl	stanje
+v	mte:Sl	v
+prometu	mte:Ncmsl	promet
+prepustila	mte:Vmep-sf	prepustiti
+RTV	mte:Npfsn	RTV
+Slovenija	mte:Npfsn	Slovenija
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+objavljanje	mte:Ncnsa	objavljanje
+informacij	mte:Ncfpg	informacija
+prek	mte:Sg	prek
+radijskih	mte:Agpmpg	radijski
+valov	mte:Ncfpg	val
+izbrala	mte:Vmep-sf	izbrati
+svoj	mte:Px-msa	svoj
+Radio	mte:Ncmsan	radio
+SI	mte:Px---d--y	se
+,	mte:Z	,
+za	mte:Sa	za
+obveščanje	mte:Ncnsa	obveščanje
+prek	mte:Sg	prek
+navigacijskih	mte:Agpfpg	navigacijski
+naprav	mte:Ncfpg	naprava
+pa	mte:Cc	pa
+našla	mte:Vmep-sf	najti
+zasebnega	mte:Agpmsa	zaseben
+partnerja	mte:Ncmsay	partner
+,	mte:Z	,
+madžarsko	mte:Agpnsn	madžarski
+podjetje	mte:Ncnsa	podjetje
+TrafficNav	mte:Npmsn	Trafficnav
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+velja	mte:Vmpr3s	veljati
+opozoriti	mte:Vmen	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+direkcija	mte:Ncfsn	direkcija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+Gregor	mte:Npmsn	Gregor
+Ficko	mte:Npmsn	Ficko
+,	mte:Z	,
+in	mte:Cc	in
+Dars	mte:Npmsn	Dars
+nacionalki	mte:Ncfsd	nacionalka
+in	mte:Cc	in
+posledično	mte:Rgp	posledično
+tudi	mte:Q	tudi
+Madžarom	mte:Npmsa	Madžar
+posel	mte:Ncmsan	posel
+oddala	mte:Vmep-sm	oddati
+brez	mte:Sg	brez
+razpisa	mte:Ncmsg	razpis
+,	mte:Z	,
+in	mte:Cc	in
+to	mte:Pd-nsa	ta
+za	mte:Sa	za
+obdobje	mte:Ncnsa	obdobje
+petih	mte:Mlc-pg	pet
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Vse	mte:Pg-nsn	ves
+to	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+posledično	mte:Rgp	posledično
+pomenilo	mte:Vmbp-sn	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+madžarsko	mte:Agpnsn	madžarski
+zasebno	mte:Agpnsn	zaseben
+podjetje	mte:Ncnsn	podjetje
+v	mte:Sa	v
+uporabo	mte:Ncfsa	uporaba
+dobilo	mte:Vmep-sn	dobiti
+tudi	mte:Q	tudi
+podatke	mte:Ncmpa	podatek
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+zbirajo	mte:Vmpr3p	zbirati
+pri	mte:Sl	pri
+državnem	mte:Agpmsl	državen
+Prometnoinformacijskem	mte:Agpmsl	prometnoinfoimacijski
+centru	mte:Ncmsl	center
+za	mte:Sa	za
+državne	mte:Agpfpa	državen
+ceste	mte:Ncfpa	cesta
+(	mte:Z	(
+PIC	mte:Npmsn	PIC
+)	mte:Z	)
+.	mte:Z	.
+TrafficNav	mte:Npmsn	Trafficnav
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+zagotovil	mte:Vmep-sm	zagotoviti
+programsko	mte:Agpfsa	programski
+opremo	mte:Ncfsa	oprema
+,	mte:Z	,
+prek	mte:Sg	prek
+katere	mte:Pq-fsg	kateri
+Radio	mte:Npmsn	Radia
+SI	mte:Px---d--y	se
+vnaša	mte:Vmpr3s	vnašati
+podatke	mte:Ncmpa	podatek
+o	mte:Sl	o
+prometu	mte:Ncmsl	promet
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+lahko	mte:Rgp	lahko
+vozniki	mte:Ncmpn	voznik
+avtomobilov	mte:Ncmpg	avtomobil
+vidijo	mte:Vmbr3p	videti
+na	mte:Sl	na
+svojih	mte:Px-fpl	svoj
+navigacijskih	mte:Agpfpl	navigacijski
+napravah	mte:Ncfpl	naprava
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+ko	mte:Cs	ko
+Madžari	mte:Npmpn	Madžara
+skrbijo	mte:Vmpr3p	skrbeti
+za	mte:Sa	za
+delovanje	mte:Ncnsa	delovanje
+storitve	mte:Ncfsg	storitev
+,	mte:Z	,
+ki	mte:Cs	ki
+sicer	mte:Q	sicer
+skoraj	mte:Q	skoraj
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+temelji	mte:Vmpr3s	temeljiti
+na	mte:Sl	na
+javni	mte:Agpfsl	javen
+infrastrukturi	mte:Ncfsl	infrastruktura
+(	mte:Z	(
+oddajni	mte:Agpfsl	oddajen
+mreži	mte:Ncfsl	mreža
+in	mte:Cc	in
+podatkih	mte:Ncmpl	podatek
+)	mte:Z	)
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+informacijah	mte:Ncfpl	informacija
+pridobili	mte:Vmep-pm	pridobiti
+tudi	mte:Q	tudi
+pravico	mte:Ncfsa	pravica
+do	mte:Sg	do
+uporabe	mte:Ncfsg	uporaba
+tako	mte:Rgp	tako
+imenovanih	mte:Appfpg	imenovan
+lokacijskih	mte:Agpfpg	lokacijski
+tabel	mte:Ncfpg	tabela
+,	mte:Z	,
+torej	mte:Rgp	torej
+informacij	mte:Ncfpg	informacija
+o	mte:Sl	o
+trenutnem	mte:Agpnsl	trenuten
+dogajanju	mte:Ncnsl	dogajanje
+v	mte:Sl	v
+prometu	mte:Ncmsl	promet
+na	mte:Sl	na
+slovenskih	mte:Agpfpl	slovenski
+cestah	mte:Ncfpl	cesta
+.	mte:Z	.
+Prav	mte:Q	prav
+te	mte:Pd-fpn	ta
+so	mte:Va-r3p-n	biti
+bistvo	mte:Ncnsn	bistvo
+posla	mte:Ncmsg	posel
+-	mte:Z	-
+TrafficNav	mte:Npmsn	Trafficnav
+jih	mte:Pp3mpa--y	on
+lahko	mte:Rgp	lahko
+namreč	mte:Cc	namreč
+bolj	mte:Rgc	bolj
+ali	mte:Cc	ali
+manj	mte:Rgc	manj
+brez	mte:Sg	brez
+nadzora	mte:Ncmsg	nadzor
+trži	mte:Vmpr3s	tržati
+in	mte:Cc	in
+preprodaja	mte:Vmpr3s	preprodajati
+proizvajalcem	mte:Ncmpd	proizvajalec
+navigacijskih	mte:Agpfpg	navigacijski
+naprav	mte:Ncfpg	naprava
+.	mte:Z	.
+Če	mte:Cs	če
+želijo	mte:Vmpr3p	želeti
+ti	mte:Pd-mpn	ta
+uporabnikom	mte:Ncmpd	uporabnik
+omogočiti	mte:Vmen	omogočiti
+vpogled	mte:Ncmsan	vpogled
+v	mte:Sa	v
+stanje	mte:Ncnsa	stanje
+na	mte:Sl	na
+slovenskih	mte:Agpfpl	slovenski
+cestah	mte:Ncfpl	cesta
+prek	mte:Sg	prek
+sistema	mte:Ncmsg	sistem
+TMC	mte:Npmsg	TMC
+,	mte:Z	,
+morajo	mte:Vmpr3p	morati
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+odkupiti	mte:Vmen	odkupiti
+lokacijske	mte:Agpfpa	lokacijski
+tabele	mte:Ncfpa	tabela
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+prodaja	mte:Vmpr3s	prodajati
+TrafficNav	mte:Npmsn	Trafficnav
+.	mte:Z	.
+Takšen	mte:Pd-msa	takšen
+dogovor	mte:Ncmsan	dogovor
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+Madžari	mte:Npmpn	Madžara
+že	mte:Q	že
+sklenili	mte:Vmep-pm	skleniti
+s	mte:Si	z
+podjetjem	mte:Ncnsi	podjetje
+Navigon	mte:Npmsn	Navigon
+,	mte:Z	,
+Garminovi	mte:Aspmpn	Garminov
+uporabniki	mte:Ncmpn	uporabnik
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+za	mte:Sa	za
+prometne	mte:Agpfpa	prometen
+informacije	mte:Ncfpa	informacija
+na	mte:Sl	na
+nadgrajeni	mte:Appfsl	nadgrajen
+napravi	mte:Ncfsl	naprava
+plačevali	mte:Vmpp-pm	plačevati
+po	mte:Sl	po
+15	mte:Mdc	15
+.	mte:Z	.
+aprilu	mte:Ncmsl	april
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+sta	mte:Va-r3d-n	biti
+najbolj	mte:Rgs	najbolj
+sporni	mte:Agpndn	sporen
+dve	mte:Mlcndn	dva
+dejstvi	mte:Ncnda	dejstvo
+.	mte:Z	.
+Prvič	mte:Rgp	prvič
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+sistem	mte:Ncmsn	sistem
+TMC	mte:Npmsn	TMC
+temelji	mte:Vmpr3s	temeljiti
+na	mte:Sl	na
+javni	mte:Agpfsl	javen
+infrastrukturi	mte:Ncfsl	infrastruktura
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+uporabnike	mte:Ncmpa	uporabnik
+plačljiv	mte:Agpmsnn	plačljiv
+.	mte:Z	.
+Podatki	mte:Ncmpn	podatek
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+zbira	mte:Vmpr3s	zbirati
+Prometnoinformacijski	mte:Agpmsny	prometnoinformacijski
+center	mte:Ncmsn	center
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+tako	mte:Rgp	tako
+šifrirani	mte:Appmpn	šifriran
+,	mte:Z	,
+njihov	mte:Ps3msnp	njihov
+nakup	mte:Ncmsn	nakup
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vštet	mte:Agpmsnn	vštet
+v	mte:Sa	v
+ceno	mte:Ncfsa	cena
+novega	mte:Agpmsg	nov
+ali	mte:Cc	ali
+ustrezno	mte:Rgp	ustrezno
+nadgrajenega	mte:Appmsg	nadgrajen
+sprejemnika	mte:Ncmsg	sprejemnik
+TMC	mte:Npmsn	TMC
+.	mte:Z	.
+Za	mte:Sa	za
+primerjavo	mte:Ncfsa	primerjava
+,	mte:Z	,
+podatki	mte:Ncmpn	podatek
+iz	mte:Sg	iz
+istega	mte:Pi-msg	isti
+sistema	mte:Ncmsg	sistem
+so	mte:Va-r3p-n	biti
+brezplačni	mte:Agpmpn	brezplačen
+v	mte:Sl	v
+severni	mte:Agpfsl	severen
+Italiji	mte:Npfsl	Italija
+,	mte:Z	,
+Avstriji	mte:Npfsl	Avstrija
+,	mte:Z	,
+Belgiji	mte:Npfsl	Belgija
+,	mte:Z	,
+Švici	mte:Npfsl	Švica
+,	mte:Z	,
+Franciji	mte:Npfsl	Francija
+,	mte:Z	,
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+na	mte:Sl	na
+Danskem	mte:Npnsl	Dansko
+,	mte:Z	,
+Nizozemskem	mte:Npnsl	Nizozemsko
+,	mte:Z	,
+Češkem	mte:Npnsl	Češko
+in	mte:Cc	in
+še	mte:Q	še
+v	mte:Sl	v
+nekaterih	mte:Pi-fpl	nekateri
+evropskih	mte:Agpfpl	evropski
+državah	mte:Ncfpl	država
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+podatki	mte:Ncmpn	podatek
+v	mte:Sl	v
+navigacijskih	mte:Agpfpl	navigacijski
+napravah	mte:Ncfpl	naprava
+osvežujejo	mte:Vmpr3p	osveževati
+le	mte:Q	le
+na	mte:Sa	na
+vsakih	mte:Pg-fpl	vsak
+petnajst	mte:Mlc-pa	petnajst
+minut	mte:Ncfpg	minuta
+.	mte:Z	.
+Prav	mte:Q	prav
+iz	mte:Sg	iz
+prakse	mte:Ncfsg	praksa
+v	mte:Sl	v
+drugih	mte:Mlpfpl	drug
+državah	mte:Ncfpl	država
+izhaja	mte:Vmpr3s	izhajati
+drugo	mte:Mlpnsa	drug
+sporno	mte:Agpnsn	sporen
+dejstvo	mte:Ncnsa	dejstvo
+.	mte:Z	.
+Po	mte:Sl	po
+dostopnih	mte:Agpmpl	dostopen
+podatkih	mte:Ncmpl	podatek
+namreč	mte:Cc	namreč
+s	mte:Si	z
+sistemom	mte:Ncmsi	sistem
+TMC	mte:Npmsn	TMC
+v	mte:Sl	v
+večini	mte:Ncfsl	večina
+držav	mte:Ncfpg	država
+EU	mte:Npfsg	EU
+upravljajo	mte:Vmpr3p	upravljati
+državni	mte:Agpmpn	državen
+organi	mte:Ncmpn	organ
+ali	mte:Cc	ali
+podjetja	mte:Ncnpn	podjetje
+:	mte:Z	:
+v	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+tamkajšnji	mte:Agpmsny	tamkajšnji
+upravljavec	mte:Ncmsn	upravljavec
+avtocestnega	mte:Agpnsg	avtocesten
+omrežja	mte:Ncnsg	omrežje
+Asfinag	mte:Npmsn	Asfinag
+,	mte:Z	,
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+Zvezni	mte:Agpmsny	zvezen
+inštitut	mte:Ncmsn	inštitut
+za	mte:Sa	za
+avtoceste	mte:Ncfpa	avtocesta
+,	mte:Z	,
+na	mte:Sl	na
+Nizozemskem	mte:Agpmsl	nizozemski
+tamkajšnji	mte:Agpmsny	tamkajšnji
+prometni	mte:Agpmsny	prometen
+center	mte:Ncmsn	center
+,	mte:Z	,
+na	mte:Sl	na
+Danskem	mte:Npnsl	Dansko
+in	mte:Cc	in
+Finskem	mte:Npnsl	Finsko
+pa	mte:Cc	pa
+tamkajšnji	mte:Agpnsl	tamkajšnji
+prometni	mte:Agpnsl	prometen
+ministrstvi	mte:Ncnsl	ministrstvo
+.	mte:Z	.
+Madžarski	mte:Agpmsny	madžarski
+TrafficNav	mte:Npmsn	Trafficnav
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+najuspešnejši	mte:Agsmsny	uspešen
+zasebni	mte:Agpmsny	zaseben
+ponudnik	mte:Ncmsn	ponudnik
+TMC	mte:Npmsn	TMC
+,	mte:Z	,
+saj	mte:Cc	saj
+skrbi	mte:Vmpr3s	skrbeti
+za	mte:Sa	za
+omenjeni	mte:Appmsay	omenjen
+sistem	mte:Ncmsan	sistem
+še	mte:Q	še
+na	mte:Sl	na
+Madžarskem	mte:Npnsl	Madžarsko
+,	mte:Z	,
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+Irskem	mte:Npnsl	Irsko
+in	mte:Cc	in
+Portugalskem	mte:Npnsl	Portugalsko
+.	mte:Z	.
+Po	mte:Sl	po
+informacijah	mte:Ncfpl	informacija
+,	mte:Z	,
+ki	mte:Cs	ki
+nam	mte:Pp1-pd	jaz
+jih	mte:Pp3mpa--y	on
+včeraj	mte:Rgp	včeraj
+ni	mte:Va-r3s-y	biti
+uspelo	mte:Vmep-sn	uspeti
+preveriti	mte:Vmen	preveriti
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+TrafficNav	mte:Npmsn	Trafficnav
+nastopal	mte:Vmpp-sm	nastopati
+kot	mte:Cs	kot
+podizvajalec	mte:Ncmsn	podizvajalec
+tudi	mte:Q	tudi
+v	mte:Sl	v
+ponudbi	mte:Ncfsl	ponudba
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+Dars	mte:Npmsa	Dars
+poslalo	mte:Vmep-sn	poslati
+podjetje	mte:Ncnsn	podjetje
+Monolit	mte:Npmsn	Monolit
+.	mte:Z	.
+primoz.cirman	mte:Npmsn	primoz.cirman
+@	mte:Z	@

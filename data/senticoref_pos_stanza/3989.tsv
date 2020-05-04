@@ -1,536 +1,569 @@
-token	tag
-Ključno	Agpfsa
-besedo	Ncfsa
-pri	Sl
-imenovanju	Ncnsl
-novih	Agpmpg
-nadzornikov	Ncmpg
-Telekoma	Npmsg
-Slovenije	Npfsg
-utegnejo	Vmbr3p
-imeti	Vmpn
-zlasti	Q
-družbe	Ncfsg
-blizu	Sg
-Darija	Npmsg
-Južne	Npfsg
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-obvladovale	Vmpp-pf
-kar	Rgp
-četrtino	Ncfsa
-vseh	Pg-mpg
-glasov	Ncmpg
-,	Z
-medtem	Rgp
-ko	Cs
-bo	Va-f3s-n
-med	Si
-državnimi	Agpmpi
-lastniki	Ncmpi
-lahko	Rgp
-glasovala	Vmbp-sf
-zgolj	Q
-NLB	Npfsa
-.	Z
-Slaba	Agpmdn
-dva	Mlcmdn
-tedna	Ncmdn
-pred	Si
-skupščino	Ncfsi
-Telekoma	Npmsg
-Slovenije	Npfsg
-,	Z
-na	Sl
-kateri	Pq-fsl
-bodo	Va-f3p-n
-delničarji	Ncmpn
-odločali	Vmpp-pm
-o	Sl
-zamenjavi	Ncfsl
-celotnega	Agpmsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-,	Z
-je	Va-r3s-n
-direktor	Ncmsn
-Agencije	Ncfsg
-za	Sa
-trg	Ncmsan
-vrednostnih	Agpmpg
-papirjev	Ncmpg
-(	Z
-ATVP	Npmsn
-)	Z
-Damjan	Npmsn
-Žugelj	Npmsn
-državi	Ncfsd
-vzel	Vmep-sm
-glasovalne	Agpfpa
-pravice	Ncfpa
-v	Sl
-nacionalnem	Agpmsl
-operaterju	Ncmsl
-.	Z
-Zaradi	Sg
-kršitve	Ncfsg
-zakona	Ncmsg
-o	Sl
-prevzemih	Ncmpl
-so	Va-r3p-n
-brez	Sg
-glasovalnih	Agpfpg
-pravic	Ncfpg
-poleg	Sg
-države	Ncfsg
-ostali	Vmep-pm
-tudi	Q
-Kapitalska	Agpfsn
-družba	Ncfsn
-(	Z
-Kad	Ncmsn
-)	Z
-,	Z
-Slovenska	Agpfsn
-odškodninska	Agpfsn
-družba	Ncfsn
-(	Z
-Sod	Ncmsn
-)	Z
-,	Z
-NKBM	Npfsn
-,	Z
-Zavarovalnica	Ncfsn
-Triglav	Npmsn
-,	Z
-Sklad	Ncmsn
-za	Sa
-financiranje	Ncnsa
-razgradnje	Ncfsg
-NEK	Agpmsnn
-in	Cc
-Aerodrom	Npmsn
-Ljubljana	Npfsn
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-skupaj	Rgp
-v	Sl
-lasti	Ncfsl
-73	Mdc
-odstotkov	Ncmpg
-Telekoma	Npmsg
-.	Z
-Žugelj	Npmsn
-pa	Cc
-glasovalnih	Agpfpg
-pravic	Ncfpg
-ni	Va-r3s-y
-vzel	Vmep-sm
-NLB	Npfsg
-,	Z
-ki	Cs
-je	Pp3fsg--y
-očitno	Rgp
-niti	Q
-ni	Va-r3s-y
-vključil	Vmep-sm
-v	Sa
-postopek	Ncmsan
-nadzora	Ncmsg
-,	Z
-čeprav	Cs
-je	Va-r3s-n
-v	Sl
-večinski	Agpfsl
-lasti	Ncfsl
-države	Ncfsg
-.	Z
-Izid	Ncmsn
-skupščine	Ncfsg
-,	Z
-napovedane	Appfsg
-za	Sa
-6	Mdc
-.	Z
-februar	Ncmsa
-,	Z
-in	Cc
-imenovanje	Ncnsa
-novih	Agpmpg
-članov	Ncmpg
-nadzornega	Agpmsg
-sveta	Ncmsg
-bo	Va-f3s-n
-tako	Rgp
-vse	Pg-nsn
-do	Sg
-zadnjega	Agpmsg
-negotovo	Agpnsn
-.	Z
-Eno	Mlpfsa
-od	Sg
-ključnih	Agpfpg
-vlog	Ncfpg
-na	Sl
-skupščini	Ncfsl
-utegne	Vmbr3s
-imeti	Vmpn
-beloKranjski	Agpmsny
-poslovnež	Ncmsn
-Dari	Npmsn
-Južna	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-že	Q
-na	Sl
-zadnji	Agpfsl
-skupščini	Ncfsl
-vlado	Ncfsa
-rešil	Vmep-sm
-iz	Sg
-zagate	Ncfsg
-in	Cc
-namesto	Sg
-države	Ncfsg
-za	Sa
-vodenje	Ncnsa
-Telekomove	Aspfsg
-skupščine	Ncfsg
-kar	Rgp
-sam	Agpmsnn
-predlagal	Vmbp-sm
-Francija	Npmsay
-Matoza	Npmsay
-.	Z
-Glede	Rgp
-na	Sa
-preteklo	Appfsa
-udeležbo	Ncfsa
-nedržavnih	Agpmpg
-lastnikov	Ncmpg
-na	Sl
-skupščinah	Ncfpl
-Telekoma	Npmsg
-bodo	Va-f3p-n
-imele	Vmpp-pf
-družbe	Ncfpa
-blizu	Sg
-Južne	Agpfsg
-kar	Rgp
-okoli	Rgp
-četrtino	Ncfsa
-,	Z
-skupaj	Rgp
-z	Si
-NLB	Npfsi
-pa	Cc
-tretjino	Ncfsa
-vseh	Pg-mpg
-glasov	Ncmpg
-.	Z
-»	Z
-Ne	Q
-vem	Vmpr1s
-niti	Q
-,	Z
-kdo	Pq-msn
-so	Va-r3p-n
-predlagani	Appmpn
-člani	Ncmpn
-za	Sa
-nadzorni	Agpmsay
-svet	Ncmsan
-,	Z
-saj	Cc
-se	Px------y
-s	Si
-tem	Pd-nsi
-še	Q
-nisem	Va-r1s-y
-ukvarjal	Vmpp-sm
-,	Z
-«	Z
-nam	Pp1-pd
-je	Va-r3s-n
-povedal	Vmep-sm
-Južna	Agpfsn
-in	Cc
-dodal	Vmep-sm
-:	Z
-»	Z
-Naslednji	Agpmsay
-teden	Ncmsan
-se	Px------y
-bom	Va-f1s-n
-odločil	Vmep-sm
-,	Z
-ali	Rgp
-se	Px------y
-bom	Va-f1s-n
-na	Sa
-skupščino	Ncfsa
-sploh	Q
-prijavil	Vmep-sm
-.	Z
-«	Z
-Okoli	Rgp
-20	Mdc
-odstotkov	Ncmpg
-glasov	Ncmpg
-bodo	Va-f3p-n
-na	Sl
-skupščini	Ncfsl
-imeli	Vmpp-pm
-vzajemni	Agpmpn
-skladi	Ncmpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-upravlja	Vmpr3s
-Skupina	Ncfsn
-KD	Npmsn
-Group	Npmsn
-,	Z
-prav	Q
-tolikšen	Pd-msn
-delež	Ncmsn
-pa	Cc
-bo	Va-f3s-n
-pripadel	Vmep-sm
-pokojninskim	Agpmpd
-skladom	Ncmpd
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-upravlja	Vmpr3s
-Modra	Agpfsn
-Zavarovalnica	Ncfsn
-.	Z
-Pomembno	Agpfsa
-vlogo	Ncfsa
-utegnejo	Vmbr3p
-tokrat	Rgp
-imeti	Vmpn
-tudi	Q
-vlagatelji	Ncmpn
-,	Z
-ki	Cs
-se	Px------y
-skrivajo	Vmpr3p
-za	Si
-fiduciarnimi	Agpmpi
-računi	Ncmpi
-tujih	Agpfpg
-bank	Ncfpg
-,	Z
-čeprav	Cs
-so	Va-r3p-n
-se	Px------y
-ti	Pd-mpn
-v	Sl
-preteklosti	Ncfsl
-le	Q
-redko	Rgp
-udeleževali	Vmpp-pm
-skupščin	Ncfpg
-.	Z
-Ker	Cs
-zdaj	Rgp
-že	Q
-nekdanja	Agpfsn
-Agencija	Ncfsn
-za	Sa
-upravljanje	Ncnsa
-kapitalskih	Agpfpg
-naložb	Ncfpg
-države	Ncfsg
-(	Z
-AUKN	Npfsn
-)	Z
-pri	Sl
-zahtevi	Ncfsl
-za	Sa
-sklic	Ncmsan
-skupščine	Ncfsg
-Telekoma	Npmsg
-ni	Va-r3s-y
-opravila	Vmep-sf
-nominacijskega	Agpmsg
-postopka	Ncmsg
-za	Sa
-nove	Agpmpa
-nadzornike	Ncmpa
-,	Z
-je	Va-r3s-n
-te	Pp2-sa--y
-naknadno	Rgp
-začel	Vmep-sm
-opravljati	Vmpn
-kar	Rgp
-Sod	Ncmsan
-.	Z
-Toda	Cc
-to	Pd-nsn
-se	Px------y
-utegne	Vmbr3s
-izkazati	Vmen
-za	Sa
-jalovo	Agpnsa
-delo	Ncnsa
-,	Z
-saj	Cc
-zasebnim	Agpmpd
-lastnikom	Ncmpd
-ni	Va-r3s-y
-treba	Rgp
-upoštevati	Vmbn
-zakona	Ncmsg
-o	Sl
-upravljanju	Ncnsl
-kapitalskih	Agpfpg
-naložb	Ncfpg
-države	Ncfsg
-.	Z
-Za	Sa
-zdaj	Rgp
-tako	Rgp
-ni	Va-r3s-y
-mogoče	Agpnsn
-izključiti	Vmen
-,	Z
-da	Cs
-bodo	Va-f3p-n
-vladni	Agpmpn
-kandidati	Ncmpn
-mesta	Ncnsg
-v	Sl
-nadzornem	Agpmsl
-svetu	Ncmsl
-Telekoma	Npmsg
-zasedli	Vmep-pm
-prav	Q
-zaradi	Sg
-odvzema	Ncmsg
-glasovalnih	Agpfpg
-pravic	Ncfpg
-državi	Ncfsd
-.	Z
-Pri	Sl
-nekaterih	Pi-mpl
-se	Px------y
-sicer	Q
-pojavljajo	Vmpr3p
-tudi	Q
-vprašanja	Ncnpn
-o	Sl
-etični	Agpfsl
-spornosti	Ncfsl
-.	Z
-Med	Si
-predlaganimi	Appmpi
-kandidati	Ncmpi
-je	Va-r3s-n
-namreč	Cc
-tudi	Q
-Matjaž	Npmsn
-Savodnik	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-preteklosti	Ncfsl
-vodil	Vmpp-sm
-Tušmobil	Npmsan
-,	Z
-nato	Rgp
-pa	Cc
-svetoval	Vmbp-sm
-generalnemu	Agpmsd
-direktorju	Ncmsd
-ravno	Q
-tako	Rgp
-konkurenčnega	Agpmsg
-T	Npmsn
--	Z
-2	Mdc
-.	Z
-Za	Sa
-nadzornika	Ncmsay
-Telekoma	Npmsg
-je	Va-r3s-n
-predlagan	Appmsnn
-tudi	Q
-nekdanji	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Zavarovalnice	Ncfsg
-Tilia	Npmsn
-Adolf	Npmsn
-Zupan	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-pred	Si
-leti	Ncnpi
-na	Sl
-prvi	Mlofsl
-stopnji	Ncfsl
-obsojen	Appmsnn
-zaradi	Sg
-ponarejanja	Ncnsg
-listin	Ncfpg
-,	Z
-prvostopenjsko	Agpnsn
-sodišče	Ncnsn
-pa	Cc
-mu	Pp3msd--y
-je	Va-r3s-n
-naložilo	Vmep-sn
-za	Sa
-450.000	Mdc
-takratnih	Agpmpg
-tolarjev	Ncmpg
-kazni	Ncfsg
-.	Z
-Bo	Va-f3s-n
-ATVP	Npmsn
-državi	Ncfsl
-vzela	Vmep-sf
-tudi	Q
-glasove	Ncmpa
-v	Sl
-Zavarovalnici	Ncfsl
-Triglav	Npmsn
-?	Z
-Državi	Ncfsd
-grozi	Vmpr3s
-tudi	Q
-izguba	Ncfsn
-glasovalnih	Agpfpg
-pravic	Ncfpg
-v	Sl
-Zavarovalnici	Ncfsl
-Triglav	Npmsn
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-delničarji	Ncmpn
-14	Mdc
-.	Z
-februarja	Ncmsg
-na	Sa
-zahtevo	Ncfsa
-AUKN	Npfsg
-prav	Q
-tako	Rgp
-odločali	Vmpp-pm
-o	Sl
-zamenjavi	Ncfsl
-celotnega	Agpmsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-.	Z
+token	tag	lemma
+Ključno	mte:Agpfsa	ključen
+besedo	mte:Ncfsa	beseda
+pri	mte:Sl	pri
+imenovanju	mte:Ncnsl	imenovanje
+novih	mte:Agpmpg	nov
+nadzornikov	mte:Ncmpg	nadzornik
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+utegnejo	mte:Vmbr3p	utegniti
+imeti	mte:Vmpn	imeti
+zlasti	mte:Q	zlasti
+družbe	mte:Ncfsg	družba
+blizu	mte:Sg	blizu
+Darija	mte:Npmsg	Darija
+Južne	mte:Npfsg	južen
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+obvladovale	mte:Vmpp-pf	obvladovati
+kar	mte:Rgp	kar
+četrtino	mte:Ncfsa	četrtina
+vseh	mte:Pg-mpg	ves
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+med	mte:Si	med
+državnimi	mte:Agpmpi	državen
+lastniki	mte:Ncmpi	lastnik
+lahko	mte:Rgp	lahko
+glasovala	mte:Vmbp-sf	glasovati
+zgolj	mte:Q	zgolj
+NLB	mte:Npfsa	NLB
+.	mte:Z	.
+Slaba	mte:Agpmdn	slab
+dva	mte:Mlcmdn	dva
+tedna	mte:Ncmdn	teden
+pred	mte:Si	pred
+skupščino	mte:Ncfsi	skupščina
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bodo	mte:Va-f3p-n	biti
+delničarji	mte:Ncmpn	delničar
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+zamenjavi	mte:Ncfsl	zamenjava
+celotnega	mte:Agpmsg	celoten
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+direktor	mte:Ncmsn	direktor
+Agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+trg	mte:Ncmsan	trg
+vrednostnih	mte:Agpmpg	vrednosten
+papirjev	mte:Ncmpg	papir
+(	mte:Z	(
+ATVP	mte:Npmsn	ATVP
+)	mte:Z	)
+Damjan	mte:Npmsn	Damjan
+Žugelj	mte:Npmsn	Žugelj
+državi	mte:Ncfsd	država
+vzel	mte:Vmep-sm	vzeti
+glasovalne	mte:Agpfpa	glasovalen
+pravice	mte:Ncfpa	pravica
+v	mte:Sl	v
+nacionalnem	mte:Agpmsl	nacionalen
+operaterju	mte:Ncmsl	operater
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+kršitve	mte:Ncfsg	kršitev
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+prevzemih	mte:Ncmpl	prevzem
+so	mte:Va-r3p-n	biti
+brez	mte:Sg	brez
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+poleg	mte:Sg	poleg
+države	mte:Ncfsg	država
+ostali	mte:Vmep-pm	ostati
+tudi	mte:Q	tudi
+Kapitalska	mte:Agpfsn	kapitalski
+družba	mte:Ncfsn	družba
+(	mte:Z	(
+Kad	mte:Ncmsn	kad
+)	mte:Z	)
+,	mte:Z	,
+Slovenska	mte:Agpfsn	slovenski
+odškodninska	mte:Agpfsn	odškodninski
+družba	mte:Ncfsn	družba
+(	mte:Z	(
+Sod	mte:Ncmsn	sod
+)	mte:Z	)
+,	mte:Z	,
+NKBM	mte:Npfsn	NKBM
+,	mte:Z	,
+Zavarovalnica	mte:Ncfsn	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+,	mte:Z	,
+Sklad	mte:Ncmsn	sklad
+za	mte:Sa	za
+financiranje	mte:Ncnsa	financiranje
+razgradnje	mte:Ncfsg	razgradnja
+NEK	mte:Agpmsnn	nek
+in	mte:Cc	in
+Aerodrom	mte:Npmsn	Aeroder
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+skupaj	mte:Rgp	skupaj
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+73	mte:Mdc	73
+odstotkov	mte:Ncmpg	odstotek
+Telekoma	mte:Npmsg	Telekom
+.	mte:Z	.
+Žugelj	mte:Npmsn	Žugelj
+pa	mte:Cc	pa
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+ni	mte:Va-r3s-y	biti
+vzel	mte:Vmep-sm	vzeti
+NLB	mte:Npfsg	NLB
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Pp3fsg--y	on
+očitno	mte:Rgp	očitno
+niti	mte:Q	niti
+ni	mte:Va-r3s-y	biti
+vključil	mte:Vmep-sm	vključiti
+v	mte:Sa	v
+postopek	mte:Ncmsan	postopek
+nadzora	mte:Ncmsg	nadzor
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+večinski	mte:Agpfsl	večinski
+lasti	mte:Ncfsl	last
+države	mte:Ncfsg	država
+.	mte:Z	.
+Izid	mte:Ncmsn	izid
+skupščine	mte:Ncfsg	skupščina
+,	mte:Z	,
+napovedane	mte:Appfsg	napovedan
+za	mte:Sa	za
+6	mte:Mdc	6
+.	mte:Z	.
+februar	mte:Ncmsa	februar
+,	mte:Z	,
+in	mte:Cc	in
+imenovanje	mte:Ncnsa	imenovanje
+novih	mte:Agpmpg	nov
+članov	mte:Ncmpg	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+vse	mte:Pg-nsn	ves
+do	mte:Sg	do
+zadnjega	mte:Agpmsg	zadnji
+negotovo	mte:Agpnsn	negotov
+.	mte:Z	.
+Eno	mte:Mlpfsa	en
+od	mte:Sg	od
+ključnih	mte:Agpfpg	ključen
+vlog	mte:Ncfpg	vloga
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+utegne	mte:Vmbr3s	utegniti
+imeti	mte:Vmpn	imeti
+beloKranjski	mte:Agpmsny	beloKranjski
+poslovnež	mte:Ncmsn	poslovnež
+Dari	mte:Npmsn	Dari
+Južna	mte:Npfsn	Južna
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+na	mte:Sl	na
+zadnji	mte:Agpfsl	zadnji
+skupščini	mte:Ncfsl	skupščina
+vlado	mte:Ncfsa	vlada
+rešil	mte:Vmep-sm	rešiti
+iz	mte:Sg	iz
+zagate	mte:Ncfsg	zagata
+in	mte:Cc	in
+namesto	mte:Sg	namesto
+države	mte:Ncfsg	država
+za	mte:Sa	za
+vodenje	mte:Ncnsa	vodenje
+Telekomove	mte:Aspfsg	Telekomov
+skupščine	mte:Ncfsg	skupščina
+kar	mte:Rgp	kar
+sam	mte:Agpmsnn	sam
+predlagal	mte:Vmbp-sm	predlagati
+Francija	mte:Npmsay	Francija
+Matoza	mte:Npmsay	Matoz
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+preteklo	mte:Appfsa	pretekel
+udeležbo	mte:Ncfsa	udeležba
+nedržavnih	mte:Agpmpg	nedržaven
+lastnikov	mte:Ncmpg	lastnik
+na	mte:Sl	na
+skupščinah	mte:Ncfpl	skupščina
+Telekoma	mte:Npmsg	Telekom
+bodo	mte:Va-f3p-n	biti
+imele	mte:Vmpp-pf	imeti
+družbe	mte:Ncfpa	družba
+blizu	mte:Sg	blizu
+Južne	mte:Agpfsg	južen
+kar	mte:Rgp	kar
+okoli	mte:Rgp	okoli
+četrtino	mte:Ncfsa	četrtina
+,	mte:Z	,
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+NLB	mte:Npfsi	NLB
+pa	mte:Cc	pa
+tretjino	mte:Ncfsa	tretjina
+vseh	mte:Pg-mpg	ves
+glasov	mte:Ncmpg	glas
+.	mte:Z	.
+»	mte:Z	»
+Ne	mte:Q	ne
+vem	mte:Vmpr1s	vedeti
+niti	mte:Q	niti
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+so	mte:Va-r3p-n	biti
+predlagani	mte:Appmpn	predlagan
+člani	mte:Ncmpn	član
+za	mte:Sa	za
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+še	mte:Q	še
+nisem	mte:Va-r1s-y	biti
+ukvarjal	mte:Vmpp-sm	ukvarjati
+,	mte:Z	,
+«	mte:Z	«
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Južna	mte:Agpfsn	južen
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+:	mte:Z	:
+»	mte:Z	»
+Naslednji	mte:Agpmsay	naslednji
+teden	mte:Ncmsan	teden
+se	mte:Px------y	se
+bom	mte:Va-f1s-n	biti
+odločil	mte:Vmep-sm	odločiti
+,	mte:Z	,
+ali	mte:Rgp	ali
+se	mte:Px------y	se
+bom	mte:Va-f1s-n	biti
+na	mte:Sa	na
+skupščino	mte:Ncfsa	skupščina
+sploh	mte:Q	sploh
+prijavil	mte:Vmep-sm	prijaviti
+.	mte:Z	.
+«	mte:Z	«
+Okoli	mte:Rgp	okoli
+20	mte:Mdc	20
+odstotkov	mte:Ncmpg	odstotek
+glasov	mte:Ncmpg	glas
+bodo	mte:Va-f3p-n	biti
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+imeli	mte:Vmpp-pm	imeti
+vzajemni	mte:Agpmpn	vzajemen
+skladi	mte:Ncmpn	sklad
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+upravlja	mte:Vmpr3s	upravljati
+Skupina	mte:Ncfsn	skupina
+KD	mte:Npmsn	KD
+Group	mte:Npmsn	Group
+,	mte:Z	,
+prav	mte:Q	prav
+tolikšen	mte:Pd-msn	tolikšen
+delež	mte:Ncmsn	delež
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+pripadel	mte:Vmep-sm	pripasti
+pokojninskim	mte:Agpmpd	pokojninski
+skladom	mte:Ncmpd	sklad
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+upravlja	mte:Vmpr3s	upravljati
+Modra	mte:Agpfsn	moder
+Zavarovalnica	mte:Ncfsn	zavarovalnica
+.	mte:Z	.
+Pomembno	mte:Agpfsa	pomemben
+vlogo	mte:Ncfsa	vloga
+utegnejo	mte:Vmbr3p	utegniti
+tokrat	mte:Rgp	tokrat
+imeti	mte:Vmpn	imeti
+tudi	mte:Q	tudi
+vlagatelji	mte:Ncmpn	vlagatelj
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+skrivajo	mte:Vmpr3p	skrivati
+za	mte:Si	za
+fiduciarnimi	mte:Agpmpi	fiduciaren
+računi	mte:Ncmpi	račun
+tujih	mte:Agpfpg	tuj
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+ti	mte:Pd-mpn	ta
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+le	mte:Q	le
+redko	mte:Rgp	redko
+udeleževali	mte:Vmpp-pm	udeleževati
+skupščin	mte:Ncfpg	skupščina
+.	mte:Z	.
+Ker	mte:Cs	ker
+zdaj	mte:Rgp	zdaj
+že	mte:Q	že
+nekdanja	mte:Agpfsn	nekdanji
+Agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+države	mte:Ncfsg	država
+(	mte:Z	(
+AUKN	mte:Npfsn	AUKN
+)	mte:Z	)
+pri	mte:Sl	pri
+zahtevi	mte:Ncfsl	zahteva
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+skupščine	mte:Ncfsg	skupščina
+Telekoma	mte:Npmsg	Telekom
+ni	mte:Va-r3s-y	biti
+opravila	mte:Vmep-sf	opravilo
+nominacijskega	mte:Agpmsg	nominacijski
+postopka	mte:Ncmsg	postopek
+za	mte:Sa	za
+nove	mte:Agpmpa	nov
+nadzornike	mte:Ncmpa	nadzornik
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+te	mte:Pp2-sa--y	ti
+naknadno	mte:Rgp	naknadno
+začel	mte:Vmep-sm	začeti
+opravljati	mte:Vmpn	opravljati
+kar	mte:Rgp	kar
+Sod	mte:Ncmsan	sod
+.	mte:Z	.
+Toda	mte:Cc	toda
+to	mte:Pd-nsn	ta
+se	mte:Px------y	se
+utegne	mte:Vmbr3s	utegniti
+izkazati	mte:Vmen	izkazati
+za	mte:Sa	za
+jalovo	mte:Agpnsa	jalov
+delo	mte:Ncnsa	delo
+,	mte:Z	,
+saj	mte:Cc	saj
+zasebnim	mte:Agpmpd	zaseben
+lastnikom	mte:Ncmpd	lastnik
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+upoštevati	mte:Vmbn	upoštevati
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+upravljanju	mte:Ncnsl	upravljanje
+kapitalskih	mte:Agpfpg	kapitalski
+naložb	mte:Ncfpg	naložba
+države	mte:Ncfsg	država
+.	mte:Z	.
+Za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+tako	mte:Rgp	tako
+ni	mte:Va-r3s-y	biti
+mogoče	mte:Agpnsn	mogoč
+izključiti	mte:Vmen	izključiti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+vladni	mte:Agpmpn	vladen
+kandidati	mte:Ncmpn	kandidat
+mesta	mte:Ncnsg	mesto
+v	mte:Sl	v
+nadzornem	mte:Agpmsl	nadzoren
+svetu	mte:Ncmsl	svet
+Telekoma	mte:Npmsg	Telekom
+zasedli	mte:Vmep-pm	zasesti
+prav	mte:Q	prav
+zaradi	mte:Sg	zaradi
+odvzema	mte:Ncmsg	odvzem
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+državi	mte:Ncfsd	država
+.	mte:Z	.
+Pri	mte:Sl	pri
+nekaterih	mte:Pi-mpl	nekateri
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+pojavljajo	mte:Vmpr3p	pojavljati
+tudi	mte:Q	tudi
+vprašanja	mte:Ncnpn	vprašanje
+o	mte:Sl	o
+etični	mte:Agpfsl	etičen
+spornosti	mte:Ncfsl	spornost
+.	mte:Z	.
+Med	mte:Si	med
+predlaganimi	mte:Appmpi	predlagan
+kandidati	mte:Ncmpi	kandidat
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+tudi	mte:Q	tudi
+Matjaž	mte:Npmsn	Matjaž
+Savodnik	mte:Npmsn	Savodnik
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+vodil	mte:Vmpp-sm	voditi
+Tušmobil	mte:Npmsan	Tušmobil
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+svetoval	mte:Vmbp-sm	svetovati
+generalnemu	mte:Agpmsd	generalen
+direktorju	mte:Ncmsd	direktor
+ravno	mte:Q	ravno
+tako	mte:Rgp	tako
+konkurenčnega	mte:Agpmsg	konkurenčen
+T	mte:Npmsn	T
+-	mte:Z	-
+2	mte:Mdc	2
+.	mte:Z	.
+Za	mte:Sa	za
+nadzornika	mte:Ncmsay	nadzornik
+Telekoma	mte:Npmsg	Telekom
+je	mte:Va-r3s-n	biti
+predlagan	mte:Appmsnn	predlagan
+tudi	mte:Q	tudi
+nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Zavarovalnice	mte:Ncfsg	zavarovalnica
+Tilia	mte:Npmsn	Tilia
+Adolf	mte:Npmsn	Adolf
+Zupan	mte:Npmsn	Zupan
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+na	mte:Sl	na
+prvi	mte:Mlofsl	prvi
+stopnji	mte:Ncfsl	stopnja
+obsojen	mte:Appmsnn	obsojen
+zaradi	mte:Sg	zaradi
+ponarejanja	mte:Ncnsg	ponarejanje
+listin	mte:Ncfpg	listina
+,	mte:Z	,
+prvostopenjsko	mte:Agpnsn	prvostopenjski
+sodišče	mte:Ncnsn	sodišče
+pa	mte:Cc	pa
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+naložilo	mte:Vmep-sn	naložiti
+za	mte:Sa	za
+450.000	mte:Mdc	450.000
+takratnih	mte:Agpmpg	takraten
+tolarjev	mte:Ncmpg	tolar
+kazni	mte:Ncfsg	kazen
+.	mte:Z	.
+Bo	mte:Va-f3s-n	biti
+ATVP	mte:Npmsn	ATVP
+državi	mte:Ncfsl	država
+vzela	mte:Vmep-sf	vzeti
+tudi	mte:Q	tudi
+glasove	mte:Ncmpa	glas
+v	mte:Sl	v
+Zavarovalnici	mte:Ncfsl	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+?	mte:Z	?
+Državi	mte:Ncfsl	država
+grozi	mte:Vmpr3s	groziti
+tudi	mte:Q	tudi
+izguba	mte:Ncfsn	izguba
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+v	mte:Sl	v
+Zavarovalnici	mte:Ncfsl	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+delničarji	mte:Ncmpn	delničar
+14	mte:Mdc	14
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+na	mte:Sa	na
+zahtevo	mte:Ncfsa	zahteva
+AUKN	mte:Npfsg	AUKN
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+zamenjavi	mte:Ncfsl	zamenjava
+celotnega	mte:Agpmsg	celoten
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Triglavu	mte:Npmsl	Triglav
+izgubila	mte:Vmep-sf	izgubiti
+glasovalne	mte:Agpfpa	glasovalen
+pravice	mte:Ncfpa	pravica
+,	mte:Z	,
+bi	mte:Va-c	biti
+imela	mte:Vmpp-sf	imeti
+ključno	mte:Agpfsa	ključen
+besedo	mte:Ncfsa	beseda
+pri	mte:Sl	pri
+imenovanju	mte:Ncnsl	imenovanje
+novih	mte:Agpmpg	nov
+nadzornikov	mte:Ncmpg	nadzornik
+švedska	mte:Agpfsn	švedski
+družba	mte:Ncfsn	družba
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+East	mte:Npmsn	East
+Capital	mte:Npmsn	Capital
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+državo	mte:Ncfsa	država
+druga	mte:Mlpfsn	drug
+največja	mte:Agsfsn	velik
+lastnica	mte:Ncfsn	lastnica
+Triglava	mte:Npmsg	Triglav

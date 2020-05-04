@@ -1,459 +1,474 @@
-token	tag
-Slovenci	Npmpn
-gospodarski	Agpmsay
-položaj	Ncmsan
-v	Sl
-državi	Ncfsl
-ocenjujemo	Vmpr1p
-kot	Cs
-porazen	Agpmsan
-.	Z
-Še	Q
-bolj	Rgc
-so	Va-r3p-n
-pesimistična	Agpnpn
-pričakovanja	Ncnpn
-za	Sa
-prihodnost	Ncfsa
-,	Z
-kar	Pr-nsn
-nas	Pp1-pa
-uvršča	Vmpr3s
-med	Sa
-najbolj	Rgs
-pesimistične	Agpmpa
-narode	Ncmpa
-na	Sl
-svetu	Ncmsl
-,	Z
-kaže	Vmpr3s
-povzetek	Ncmsan
-raziskave	Ncfsg
-,	Z
-s	Si
-katero	Pq-fsi
-je	Va-r3s-n
-podjetje	Ncnsn
-Ipsos	Npmsn
-ocenjevalo	Vmpp-sn
-,	Z
-kako	Rgp
-ljudje	Ncmpn
-ocenjujejo	Vmpr3p
-gospodarski	Agpmsay
-položaj	Ncmsan
-v	Sl
-svoji	Px-fsl
-državi	Ncfsl
-in	Cc
-kakšna	Pq-fpn
-so	Va-r3p-n
-pričakovanja	Ncnpn
-.	Z
-Raziskava	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-tržnoraziskovalno	Agpnsn
-podjetje	Ncnsn
-Ipsos	Npmsn
-v	Sl
-29	Mdc
-državah	Ncfpl
-sveta	Ncmsg
-izvedlo	Vmep-sn
-avgusta	Ncmsg
-in	Cc
-septembra	Ncmsg
-,	Z
-je	Va-r3s-n
-pokazala	Vmep-sf
-,	Z
-da	Cs
-zgolj	Q
-šest	Mlc-pa
-odstotkov	Ncmpg
-Slovencev	Npmpg
-meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-gospodarski	Agpmsny
-položaj	Ncmsn
-v	Sl
-Sloveniji	Npfsl
-dober	Agpmsnn
-.	Z
-Večina	Ncfsn
-stanje	Ncnsn
-ocenjuje	Vmpr3s
-kot	Cs
-slabo	Agpfsn
-,	Z
-več	Rgc
-kot	Cs
-polovica	Ncfsn
-kot	Cs
-zelo	Rgp
-slabo	Agpnsn
-.	Z
-Najbolj	Rgs
-kritične	Agpfsn
-do	Sg
-gospodarskega	Agpmsg
-položaja	Ncmsg
-so	Va-r3p-n
-ženske	Ncfpn
-,	Z
-po	Sl
-starosti	Ncfsl
-tisti	Pd-mpn
-od	Sg
-30	Mdc
-do	Sg
-49	Mdc
-leta	Ncnsg
-,	Z
-lokalno	Rgp
-iz	Sg
-severovzhodne	Agpfsg
-Slovenije	Npfsg
-,	Z
-Gorenjske	Npfsg
-in	Cc
-Primorske	Npfsg
-,	Z
-po	Sl
-dohodkih	Ncmpl
-pa	Cc
-tisti	Pd-mpn
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-nižje	Agcnsa
-.	Z
-Večinoma	Rgp
-negativni	Agpmpn
-tudi	Q
-preostali	Appmpn
-Evropejci	Npmpn
-Gospodarskega	Agpnsg
-okrevanja	Ncnsg
-Slovenci	Npmpn
-ne	Q
-pričakujejo	Vmpr3p
-niti	Q
-v	Sl
-prvi	Mlofsl
-polovici	Ncfsl
-prihodnjega	Agpnsg
-leta	Ncnsg
-.	Z
-Vsak	Pg-msn
-tretji	Mlomsn
-Slovenec	Npmsn
-namreč	Cc
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-lokalno	Agpnsn
-gospodarstvo	Ncnsn
-v	Sl
-naslednjih	Agpmpl
-šestih	Mlc-pl
-mesecih	Ncmpl
-še	Q
-šibkejše	Agcfsn
-.	Z
-Optimističnih	Agpfpg
-je	Va-r3s-n
-manj	Rgc
-kot	Cs
-desetina	Ncfsn
-.	Z
-Negativna	Agpfsn
-gospodarska	Agpfsn
-klima	Ncfsn
-je	Va-r3s-n
-prisotna	Agpfsn
-tudi	Q
-pri	Sl
-večini	Ncfsl
-preostalih	Appmpg
-Evropejcev	Npmpg
-.	Z
-Rep	Ncmsn
-lestvice	Ncfsg
-,	Z
-ki	Cs
-meri	Vmpr3s
-stopnjo	Ncfsa
-zaupanja	Ncnsg
-v	Sa
-gospodarski	Agpmsay
-položaj	Ncmsan
-v	Sl
-državi	Ncfsl
-,	Z
-namreč	Cc
-skoraj	Q
-v	Sl
-celoti	Ncfsl
-pripada	Vmpr3s
-evropskim	Agpfpd
-državam	Ncfpd
-:	Z
-poleg	Sg
-Slovenije	Npfsg
-še	Q
-Hrvaški	Npfsd
-,	Z
-Grčiji	Npfsd
-,	Z
-Madžarski	Npfsd
-,	Z
-Španiji	Npfsd
-,	Z
-Irski	Npfsl
-,	Z
-Srbiji	Npfsl
-,	Z
-Italiji	Npfsl
-.	Z
-Toda	Cc
-v	Sl
-večini	Ncfsl
-omenjenih	Appfpg
-držav	Ncfpg
-,	Z
-z	Si
-izjemo	Ncfsi
-Grčije	Npfsg
-in	Cc
-Madžarske	Npfsg
-,	Z
-je	Va-r3s-n
-čutiti	Vmpn
-večji	Agcmsay
-optimizem	Ncmsan
-glede	Sg
-prihodnosti	Ncfsg
-kot	Cs
-pri	Sl
-nas	Pp1-pl
-,	Z
-tudi	Q
-pri	Sl
-naših	Ps1mplp
-južnih	Agpmpl
-sosedih	Ncmpl
-,	Z
-na	Sl
-Hrvaškem	Npnsl
-in	Cc
-v	Sl
-Srbiji	Npfsl
-.	Z
-Toda	Cc
-,	Z
-kljub	Sd
-na	Sa
-splošno	Agpnsa
-nizkemu	Agpnsd
-zaupanju	Ncnsd
-v	Sa
-gospodarstvo	Ncnsa
-med	Si
-državljani	Ncmpi
-stare	Agpfsg
-celine	Ncfsg
-je	Va-r3s-n
-položaj	Ncmsn
-v	Sl
-Evropi	Npfsl
-vse	Rgp
-prej	Rgc
-kot	Cs
-enoznačen	Agpmsnn
-.	Z
-Optimizem	Ncmsn
-je	Va-r3s-n
-opaziti	Vmen
-na	Sl
-Švedskem	Npnsl
-ter	Cc
-v	Sl
-Nemčiji	Npfsl
-,	Z
-kjer	Cs
-ocena	Ncfsn
-trenutne	Agpmsg
-gospodarskega	Agpmsg
-položaja	Ncmsg
-narašča	Vmpr3s
-vse	Rgp
-od	Sg
-sredine	Ncfsg
-leta	Ncnsg
-2010	Mdc
-in	Cc
-je	Va-r3s-n
-konec	Sg
-letošnjega	Agpnsg
-poletja	Ncnsg
-znašala	Vmpp-sf
-70	Mdc
-oz	Ncmpg
-.	Z
-66	Mdc
-odstotkov	Ncmpg
-.	Z
-S	Si
-tem	Pd-nsi
-se	Px------y
-državi	Ncfsd
-uvrščata	Vmpr3d
-v	Sa
-sam	Agpmsan
-vrh	Ncmsan
-omenjene	Appfsg
-lestvice	Ncfsg
-.	Z
-V	Sl
-Belgiji	Npfsl
-je	Va-r3s-n
-pozitiven	Agpmsnn
-trend	Ncmsn
-opaziti	Vmen
-od	Sg
-konca	Ncmsg
-leta	Ncnsg
-2010	Mdc
-.	Z
-V	Sl
-zadnjih	Agpmpl
-treh	Mlcmpl
-mesecih	Ncmpl
-so	Va-r3p-n
-bolj	Rgc
-optimistični	Agpmpn
-tudi	Q
-Poljaki	Npmpn
-.	Z
-Najbolj	Rgs
-pozitivni	Agpmpn
-Brazilci	Npmpn
-in	Cc
-prebivalci	Ncmpn
-Savdske	Agpfsg
-Arabije	Npfsg
-Gospodarska	Agpfsn
-klima	Ncfsn
-je	Va-r3s-n
-sicer	Q
-najboljša	Agsfsn
-v	Sl
-Savdski	Agpfsl
-Arabiji	Npfsl
-,	Z
-kjer	Cs
-je	Va-r3s-n
-88	Mdc
-odstotkov	Ncmpg
-prebivalcev	Ncmpg
-mnenja	Ncnsg
-,	Z
-da	Cs
-je	Va-r3s-n
-stanje	Ncnsn
-dobro	Agpnsn
-.	Z
-Tam	Rgp
-je	Va-r3s-n
-pozitiven	Agpmsnn
-trend	Ncmsn
-opaziti	Vmen
-od	Sg
-sredine	Ncfsg
-leta	Ncnsg
-2010	Mdc
-.	Z
-Sledijo	Vmpr3p
-Kanada	Npfsn
-,	Z
-Švedska	Npfsn
-,	Z
-Indija	Npfsn
-,	Z
-Nemčija	Npfsn
-.	Z
-Daleč	Rgp
-najvišja	Agsnpn
-pričakovanja	Ncnpn
-ohranjajo	Vmpr3p
-Brazilci	Npmpn
-,	Z
-med	Si
-katerimi	Pq-mpi
-jih	Pp3mpa--y
-kar	Rgp
-71	Mdc
-odstotkov	Ncmpg
-meni	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-njihovo	Ps3nsnp
-gospodarstvo	Ncnsn
-čez	Sa
-pol	Rgp
-leta	Ncnsg
-močnejše	Agcnsn
-,	Z
-kot	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-.	Z
-Sledijo	Vmpr3p
-Savdska	Agpfsn
-Arabija	Npfsn
-s	Si
-64	Mdc
-odstotki	Ncmpi
-,	Z
-ter	Cc
-Argentina	Npfsn
-in	Cc
-Indija	Npfsn
-,	Z
-obe	Pg-fdn
-s	Si
-po	Si
-52	Mdc
-odstotki	Ncmpi
-.	Z
-Med	Si
-Evropejci	Npmpi
-so	Va-r3p-n
-najbolj	Rgs
-pozitivni	Agpmpn
-Nemci	Npmpn
-,	Z
-kjer	Cs
-je	Va-r3s-n
-18	Mdc
-odstotkov	Ncmpg
-takih	Pd-mpg
-,	Z
-ki	Cs
-v	Sl
-naslednjega	Agpnsg
-pol	Rgp
-leta	Ncnsg
-pričakujejo	Vmpr3p
-izboljšanje	Ncnsa
-gospodarskega	Agpmsg
-položaja	Ncmsg
-.	Z
+token	tag	lemma
+Slovenci	mte:Npmpn	Slovenec
+gospodarski	mte:Agpmsay	gospodarski
+položaj	mte:Ncmsan	položaj
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+ocenjujemo	mte:Vmpr1p	ocenjevati
+kot	mte:Cs	kot
+porazen	mte:Agpmsan	porazen
+.	mte:Z	.
+Še	mte:Q	še
+bolj	mte:Rgc	bolj
+so	mte:Va-r3p-n	biti
+pesimistična	mte:Agpnpn	pesimističen
+pričakovanja	mte:Ncnpn	pričakovanje
+za	mte:Sa	za
+prihodnost	mte:Ncfsa	prihodnost
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+nas	mte:Pp1-pa	jaz
+uvršča	mte:Vmpr3s	uvrščati
+med	mte:Sa	med
+najbolj	mte:Rgs	najbolj
+pesimistične	mte:Agpmpa	pesimističen
+narode	mte:Ncmpa	narod
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+povzetek	mte:Ncmsan	povzetek
+raziskave	mte:Ncfsg	raziskava
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+Ipsos	mte:Npmsn	Ipsos
+ocenjevalo	mte:Vmpp-sn	ocenjevati
+,	mte:Z	,
+kako	mte:Rgp	kako
+ljudje	mte:Ncmpn	človek
+ocenjujejo	mte:Vmpr3p	ocenjevati
+gospodarski	mte:Agpmsay	gospodarski
+položaj	mte:Ncmsan	položaj
+v	mte:Sl	v
+svoji	mte:Px-fsl	svoj
+državi	mte:Ncfsl	država
+in	mte:Cc	in
+kakšna	mte:Pq-fpn	kakšen
+so	mte:Va-r3p-n	biti
+pričakovanja	mte:Ncnpn	pričakovanje
+.	mte:Z	.
+Raziskava	mte:Ncfsn	raziskava
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+tržnoraziskovalno	mte:Agpnsn	tržnoraziskovalen
+podjetje	mte:Ncnsn	podjetje
+Ipsos	mte:Npmsn	Ipsos
+v	mte:Sl	v
+29	mte:Mdc	29
+državah	mte:Ncfpl	država
+sveta	mte:Ncmsg	svet
+izvedlo	mte:Vmep-sn	izvedi
+avgusta	mte:Ncmsg	avgust
+in	mte:Cc	in
+septembra	mte:Ncmsg	september
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pokazala	mte:Vmep-sf	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+zgolj	mte:Q	zgolj
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+Slovencev	mte:Npmpg	Slovenec
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+gospodarski	mte:Agpmsny	gospodarski
+položaj	mte:Ncmsn	položaj
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+dober	mte:Agpmsnn	dober
+.	mte:Z	.
+Večina	mte:Ncfsn	večina
+stanje	mte:Ncnsn	stanje
+ocenjuje	mte:Vmpr3s	ocenjevati
+kot	mte:Cs	kot
+slabo	mte:Agpfsn	slab
+,	mte:Z	,
+več	mte:Rgc	več
+kot	mte:Cs	kot
+polovica	mte:Ncfsn	polovica
+kot	mte:Cs	kot
+zelo	mte:Rgp	zelo
+slabo	mte:Agpnsn	slab
+.	mte:Z	.
+Najbolj	mte:Rgs	najbolj
+kritične	mte:Agpfsn	kritičen
+do	mte:Sg	do
+gospodarskega	mte:Agpmsg	gospodarski
+položaja	mte:Ncmsg	položaj
+so	mte:Va-r3p-n	biti
+ženske	mte:Ncfpn	ženska
+,	mte:Z	,
+po	mte:Sl	po
+starosti	mte:Ncfsl	starost
+tisti	mte:Pd-mpn	tisti
+od	mte:Sg	od
+30	mte:Mdc	30
+do	mte:Sg	do
+49	mte:Mdc	49
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+lokalno	mte:Rgp	lokalen
+iz	mte:Sg	iz
+severovzhodne	mte:Agpfsg	severovzhoden
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+Gorenjske	mte:Npfsg	Gorenjska
+in	mte:Cc	in
+Primorske	mte:Npfsg	Primorska
+,	mte:Z	,
+po	mte:Sl	po
+dohodkih	mte:Ncmpl	dohodek
+pa	mte:Cc	pa
+tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+nižje	mte:Agcnsa	nizek
+.	mte:Z	.
+Večinoma	mte:Rgp	večinoma
+negativni	mte:Agpmpn	negativen
+tudi	mte:Q	tudi
+preostali	mte:Appmpn	preostal
+Evropejci	mte:Npmpn	Evropejec
+Gospodarskega	mte:Agpnsg	gospodarski
+okrevanja	mte:Ncnsg	okrevanje
+Slovenci	mte:Npmpn	Slovenec
+ne	mte:Q	ne
+pričakujejo	mte:Vmpr3p	pričakovati
+niti	mte:Q	niti
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+polovici	mte:Ncfsl	polovica
+prihodnjega	mte:Agpnsg	prihodnji
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Vsak	mte:Pg-msn	vsak
+tretji	mte:Mlomsn	tretji
+Slovenec	mte:Npmsn	Slovenec
+namreč	mte:Cc	namreč
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+lokalno	mte:Agpnsn	lokalen
+gospodarstvo	mte:Ncnsn	gospodarstvo
+v	mte:Sl	v
+naslednjih	mte:Agpmpl	naslednji
+šestih	mte:Mlc-pl	šest
+mesecih	mte:Ncmpl	mesec
+še	mte:Q	še
+šibkejše	mte:Agcfsn	šibek
+.	mte:Z	.
+Optimističnih	mte:Agpfpg	optimističen
+je	mte:Va-r3s-n	biti
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+desetina	mte:Ncfsn	desetina
+.	mte:Z	.
+Negativna	mte:Agpfsn	negativen
+gospodarska	mte:Agpfsn	gospodarski
+klima	mte:Ncfsn	klim
+je	mte:Va-r3s-n	biti
+prisotna	mte:Agpfsn	prisoten
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+večini	mte:Ncfsl	večina
+preostalih	mte:Appmpg	preostal
+Evropejcev	mte:Npmpg	Evropejec
+.	mte:Z	.
+Rep	mte:Ncmsn	rep
+lestvice	mte:Ncfsg	lestvica
+,	mte:Z	,
+ki	mte:Cs	ki
+meri	mte:Vmpr3s	mera
+stopnjo	mte:Ncfsa	stopnja
+zaupanja	mte:Ncnsg	zaupanje
+v	mte:Sa	v
+gospodarski	mte:Agpmsay	gospodarski
+položaj	mte:Ncmsan	položaj
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+,	mte:Z	,
+namreč	mte:Cc	namreč
+skoraj	mte:Q	skoraj
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+pripada	mte:Vmpr3s	pripadati
+evropskim	mte:Agpfpd	evropski
+državam	mte:Ncfpd	država
+:	mte:Z	:
+poleg	mte:Sg	poleg
+Slovenije	mte:Npfsg	Slovenija
+še	mte:Q	še
+Hrvaški	mte:Npfsd	Hrvaška
+,	mte:Z	,
+Grčiji	mte:Npfsd	Grčija
+,	mte:Z	,
+Madžarski	mte:Npfsd	Madžarska
+,	mte:Z	,
+Španiji	mte:Npfsd	Španija
+,	mte:Z	,
+Irski	mte:Npfsl	Irska
+,	mte:Z	,
+Srbiji	mte:Npfsl	Srbija
+,	mte:Z	,
+Italiji	mte:Npfsl	Italija
+.	mte:Z	.
+Toda	mte:Cc	toda
+v	mte:Sl	v
+večini	mte:Ncfsl	večina
+omenjenih	mte:Appfpg	omenjen
+držav	mte:Ncfpg	država
+,	mte:Z	,
+z	mte:Si	z
+izjemo	mte:Ncfsi	izjema
+Grčije	mte:Npfsg	Grčija
+in	mte:Cc	in
+Madžarske	mte:Npfsg	Madžarska
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+čutiti	mte:Vmpn	čutiti
+večji	mte:Agcmsay	velik
+optimizem	mte:Ncmsan	optimizem
+glede	mte:Sg	glede
+prihodnosti	mte:Ncfsg	prihodnost
+kot	mte:Cs	kot
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+,	mte:Z	,
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+naših	mte:Ps1mplp	naš
+južnih	mte:Agpmpl	južen
+sosedih	mte:Ncmpl	sosed
+,	mte:Z	,
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+in	mte:Cc	in
+v	mte:Sl	v
+Srbiji	mte:Npfsl	Srbija
+.	mte:Z	.
+Toda	mte:Cc	toda
+,	mte:Z	,
+kljub	mte:Sd	kljub
+na	mte:Sa	na
+splošno	mte:Agpnsa	splošen
+nizkemu	mte:Agpnsd	nizek
+zaupanju	mte:Ncnsd	zaupanje
+v	mte:Sa	v
+gospodarstvo	mte:Ncnsa	gospodarstvo
+med	mte:Si	med
+državljani	mte:Ncmpi	državljan
+stare	mte:Agpfsg	star
+celine	mte:Ncfsg	celina
+je	mte:Va-r3s-n	biti
+položaj	mte:Ncmsn	položaj
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+vse	mte:Rgp	vse
+prej	mte:Rgc	prej
+kot	mte:Cs	kot
+enoznačen	mte:Agpmsnn	enoznačen
+.	mte:Z	.
+Optimizem	mte:Ncmsn	optimizem
+je	mte:Va-r3s-n	biti
+opaziti	mte:Vmen	opaziti
+na	mte:Sl	na
+Švedskem	mte:Npnsl	Švedsko
+ter	mte:Cc	ter
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+ocena	mte:Ncfsn	ocena
+trenutne	mte:Agpmsg	trenuten
+gospodarskega	mte:Agpmsg	gospodarski
+položaja	mte:Ncmsg	položaj
+narašča	mte:Vmpr3s	naraščati
+vse	mte:Rgp	vse
+od	mte:Sg	od
+sredine	mte:Ncfsg	sredina
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+letošnjega	mte:Agpnsg	letošnji
+poletja	mte:Ncnsg	poletje
+znašala	mte:Vmpp-sf	znašati
+70	mte:Mdc	70
+oz	mte:Ncmpg	oz
+.	mte:Z	.
+66	mte:Mdc	66
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+se	mte:Px------y	se
+državi	mte:Ncfsd	država
+uvrščata	mte:Vmpr3d	uvrščati
+v	mte:Sa	v
+sam	mte:Agpmsan	sam
+vrh	mte:Ncmsan	vrh
+omenjene	mte:Appfsg	omenjen
+lestvice	mte:Ncfsg	lestvica
+.	mte:Z	.
+V	mte:Sl	v
+Belgiji	mte:Npfsl	Belgija
+je	mte:Va-r3s-n	biti
+pozitiven	mte:Agpmsnn	pozitiven
+trend	mte:Ncmsn	trend
+opaziti	mte:Vmen	opaziti
+od	mte:Sg	od
+konca	mte:Ncmsg	konec
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+.	mte:Z	.
+V	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+treh	mte:Mlcmpl	trije
+mesecih	mte:Ncmpl	mesec
+so	mte:Va-r3p-n	biti
+bolj	mte:Rgc	bolj
+optimistični	mte:Agpmpn	optimističen
+tudi	mte:Q	tudi
+Poljaki	mte:Npmpn	Poljaki
+.	mte:Z	.
+Najbolj	mte:Rgs	najbolj
+pozitivni	mte:Agpmpn	pozitiven
+Brazilci	mte:Npmpn	Brazilec
+in	mte:Cc	in
+prebivalci	mte:Ncmpn	prebivalec
+Savdske	mte:Agpfsg	savdski
+Arabije	mte:Npfsg	Arabija
+Gospodarska	mte:Agpfsn	gospodarski
+klima	mte:Ncfsn	klim
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+najboljša	mte:Agsfsn	dober
+v	mte:Sl	v
+Savdski	mte:Agpfsl	savdski
+Arabiji	mte:Npfsl	Arabija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+88	mte:Mdc	88
+odstotkov	mte:Ncmpg	odstotek
+prebivalcev	mte:Ncmpg	prebivalec
+mnenja	mte:Ncnsg	mnenje
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+stanje	mte:Ncnsn	stanje
+dobro	mte:Agpnsn	dober
+.	mte:Z	.
+Tam	mte:Rgp	tam
+je	mte:Va-r3s-n	biti
+pozitiven	mte:Agpmsnn	pozitiven
+trend	mte:Ncmsn	trend
+opaziti	mte:Vmen	opaziti
+od	mte:Sg	od
+sredine	mte:Ncfsg	sredina
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+Kanada	mte:Npfsn	Kanad
+,	mte:Z	,
+Švedska	mte:Npfsn	Švedska
+,	mte:Z	,
+Indija	mte:Npfsn	Indija
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+.	mte:Z	.
+Daleč	mte:Rgp	daleč
+najvišja	mte:Agsnpn	visok
+pričakovanja	mte:Ncnpn	pričakovanje
+ohranjajo	mte:Vmpr3p	ohranjati
+Brazilci	mte:Npmpn	Brazilec
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+jih	mte:Pp3mpa--y	on
+kar	mte:Rgp	kar
+71	mte:Mdc	71
+odstotkov	mte:Ncmpg	odstotek
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+njihovo	mte:Ps3nsnp	njihov
+gospodarstvo	mte:Ncnsn	gospodarstvo
+čez	mte:Sa	čez
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+močnejše	mte:Agcnsn	močen
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+Savdska	mte:Agpfsn	savdski
+Arabija	mte:Npfsn	Arabija
+s	mte:Si	z
+64	mte:Mdc	64
+odstotki	mte:Ncmpi	odstotek
+,	mte:Z	,
+ter	mte:Cc	ter
+Argentina	mte:Npfsn	Argentina
+in	mte:Cc	in
+Indija	mte:Npfsn	Indija
+,	mte:Z	,
+obe	mte:Pg-fdn	oba
+s	mte:Si	z
+po	mte:Si	po
+52	mte:Mdc	52
+odstotki	mte:Ncmpi	odstotek
+.	mte:Z	.
+Med	mte:Si	med
+Evropejci	mte:Npmpi	Evropejec
+so	mte:Va-r3p-n	biti
+najbolj	mte:Rgs	najbolj
+pozitivni	mte:Agpmpn	pozitiven
+Nemci	mte:Npmpn	Nemec
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+takih	mte:Pd-mpg	tak
+,	mte:Z	,
+ki	mte:Cs	ki
+v	mte:Sl	v
+naslednjega	mte:Agpnsg	naslednji
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+pričakujejo	mte:Vmpr3p	pričakovati
+izboljšanje	mte:Ncnsa	izboljšanje
+gospodarskega	mte:Agpmsg	gospodarski
+položaja	mte:Ncmsg	položaj
+.	mte:Z	.
+Raziskava	mte:Ncfsn	raziskava
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+izvedena	mte:Appfsn	izveden
+v	mte:Sl	v
+29	mte:Mdc	29
+državah	mte:Ncfpl	država
+sveta	mte:Ncmsg	svet
+,	mte:Z	,
+v	mte:Sl	v
+vsaki	mte:Pg-fsl	vsak
+med	mte:Si	med
+najmanj	mte:Rgs	najmanj
+450	mte:Mdc	450
+anketiranimi	mte:Appmpi	anketiran

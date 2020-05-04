@@ -1,423 +1,425 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-V	Sl
-Nemčiji	Npfsl
-,	Z
-kjer	Cs
-imajo	Vmpr3p-n
-že	Q
-nekaj	Rgp
-časa	Ncmsg
-solidno	Agpfsa
-gospodarsko	Agpfsa
-rast	Ncfsa
-,	Z
-na	Sl
-mnogih	Pi-npl
-področjih	Ncnpl
-primanjkuje	Vmpr3s
-delovne	Agpfpa
-sile	Ncfpa
-,	Z
-medtem	Rgp
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-v	Sl
-Španiji	Npfsl
-,	Z
-Grčiji	Npfsl
-in	Cc
-na	Sl
-Portugalskem	Npnsl
-brezposelnost	Ncfsa
-skokovito	Rgp
-povečala	Vmep-sf
-.	Z
-Nemška	Agpfsn
-zvezna	Agpfsn
-agencija	Ncfsn
-za	Sa
-delo	Ncnsa
-s	Si
-sedežem	Ncmsi
-v	Sl
-Nürnbergu	Npmsl
-poskuša	Vmpr3s
-zdaj	Rgp
-iz	Sg
-teh	Pd-fpg
-evropskih	Agpfpg
-držav	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-tudi	Q
-v	Sl
-hudi	Agpfsl
-dolžniški	Agpfsl
-v	Sl
-krizi	Ncfsl
-,	Z
-privabiti	Vmen
-inženirje	Ncmpa
-,	Z
-strokovnjake	Ncmpa
-za	Sa
-informacijske	Agpfpa
-tehnologije	Ncfpa
-ter	Cc
-negovalno	Agpnsa
-osebje	Ncnsa
-v	Sl
-bolnišnicah	Ncfpl
-in	Cc
-domovih	Ncmpl
-za	Sa
-ostarele	Appmpa
-.	Z
-Ravno	Q
-v	Sl
-Španiji	Npfsl
-,	Z
-kjer	Cs
-brezposelnost	Ncfsn
-že	Q
-presega	Vmpr3s
-20	Mdc
-odstotkov	Ncmpg
-,	Z
-je	Va-r3s-n
-brez	Sg
-dela	Ncnsg
-tisoče	Mlc-pa
-inženirjev	Ncmpg
-in	Cc
-strokovnjakov	Ncmpg
-za	Sa
-informacijske	Agpfpa
-tehnologije	Ncfpa
-.	Z
-Nemška	Agpfsn
-agencija	Ncfsn
-za	Sa
-delo	Ncnsa
-jim	Pp3mpd--y
-poskuša	Vmpr3s
-zdaj	Rgp
-prikazati	Vmen
-Nemčijo	Npfsa
-v	Sl
-najlepši	Agsfsl
-luči	Ncfsl
-in	Cc
-vsaj	Q
-okoli	Rgp
-17.000	Mdc
-Špancev	Npmpg
-so	Va-r3p-n
-že	Q
-prepričali	Vmep-pm
-.	Z
-Na	Sl
-Portugalskem	Npnsl
-je	Va-r3s-n
-medtem	Rgp
-zlasti	Q
-zelo	Rgp
-veliko	Agpnsn
-zanimanje	Ncnsn
-za	Sa
-delo	Ncnsa
-negovalnega	Agpnsg
-osebja	Ncnsg
-,	Z
-Nemčija	Npfsn
-pa	Cc
-je	Va-r3s-n
-zanimiva	Agpfsn
-tudi	Q
-za	Sa
-grške	Agpmpa
-,	Z
-hrvaške	Agpmpa
-in	Cc
-bolgarske	Agpmpa
-zdravnike	Ncmpa
-,	Z
-bolničarje	Ncmpa
-,	Z
-medicinske	Agpfpa
-sestre	Ncfpa
-in	Cc
-inženirje	Ncmpa
-.	Z
-Glavna	Agpfsn
-ovira	Ncfsn
-za	Sa
-odhod	Ncmsan
-v	Sa
-Nemčijo	Npfsa
-iz	Sg
-južnoevropskih	Agpfpg
-držav	Ncfpg
-je	Va-r3s-n
-pomanjkljivo	Agpnsa
-znanje	Ncnsa
-nemščine	Ncfsg
-.	Z
-V	Sl
-Nemčiji	Npfsl
-menijo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-treba	Rgp
-zgledovati	Vmpn
-po	Sl
-anglosaških	Agpfpl
-družbah	Ncfpl
-in	Cc
-družini	Ncfsl
-prišleka	Ncmsg
-omogoči	Vmer3s
-jezikovni	Agpmsay
-tečaj	Ncmsan
-,	Z
-stanovanje	Ncnsa
-,	Z
-delo	Ncnsa
-tudi	Q
-za	Sa
-ženo	Ncfsa
-in	Cc
-vrtec	Ncmsan
-za	Sa
-otroka	Ncmsay
-.	Z
-"	Z
-Družba	Ncfsn
-mora	Vmpr3s
-biti	Va-n
-tudi	Q
-pripravljena	Appfsn
-,	Z
-da	Cs
-te	Pd-mpa
-ljudi	Ncmpa
-sprejme	Vmer3s
-in	Cc
-jih	Pp3mpa--y
-integrira	Vmbr3s
-,	Z
-"	Z
-pravi	Vmbr3s
-direktorica	Ncfsn
-Centra	Npmsg
-za	Sa
-posredovanje	Ncnsa
-poklicev	Ncmpg
-s	Si
-tujino	Ncfsi
-Monika	Npfsn
-Varnhagen	Npfsn
-.	Z
-Paul	Npmsn
-Ebsen	Npmsn
-,	Z
-govorec	Ncmsn
-nemške	Agpfsg
-zvezne	Agpfsg
-agencije	Ncfsg
-za	Sa
-delo	Ncnsa
-,	Z
-tako	Rgp
-meni	Vmpr3s
-,	Z
-da	Cs
-ovira	Ncfsn
-pri	Sl
-odhodu	Ncmsl
-Špancev	Npmpg
-na	Sa
-delo	Ncnsa
-v	Sa
-Nemčijo	Npfsa
-ni	Va-r3s-y
-samo	Q
-jezik	Ncmsn
-,	Z
-ampak	Cc
-tudi	Q
-vtis	Ncmsn
-,	Z
-da	Cs
-Nemčija	Npfsn
-ni	Va-r3s-y
-najbolj	Rgs
-odprta	Appfsn
-do	Sg
-tujcev	Ncmpg
-.	Z
-Danes	Rgp
-v	Sl
-Nemčiji	Npfsl
-ni	Va-r3s-y
-več	Q
-težava	Ncfsn
-najti	Vmen
-delo	Ncnsa
-,	Z
-ampak	Cc
-najti	Vmen
-ustrezne	Agpmpa
-ljudi	Ncmpa
-za	Sa
-razpoložljiva	Agpnpa
-delovna	Agpnpa
-mesta	Ncnpa
-.	Z
-Zveza	Ncfsn
-delodajalcev	Ncmpg
-je	Va-r3s-n
-nedavno	Rgp
-sporočila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-trenutno	Rgp
-150.000	Mdc
-nezasedenih	Agpnpg
-delovnih	Agpnpg
-mest	Ncnpg
-za	Sa
-kvalificirane	Appmpa
-delavce	Ncmpa
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-bo	Va-f3s-n
-po	Sl
-njihovih	Ps3fplp
-ocenah	Ncfpl
-Nemčija	Npfsn
-samo	Q
-letos	Rgp
-izgubila	Vmep-sf
-več	Rgc
-milijard	Ncfpg
-evrov	Ncmpg
-prihodkov	Ncmpg
-.	Z
-"	Z
-Nemčija	Npfsn
-vsako	Pg-nsa
-leto	Ncnsa
-potrebuje	Vmpr3s
-200.000	Mdc
-tujcev	Ncmpg
-,	Z
-"	Z
-je	Va-r3s-n
-v	Sl
-intervjuju	Ncmsl
-za	Sa
-dnevnik	Ncmsan
-Bild	Npmsn
-povedal	Vmep-sm
-Franck	Npmsn
--	Z
-Jürgen	Npmsn
-Weise	Npmsn
-,	Z
-direktor	Ncmsn
-zvezne	Agpfsg
-agencije	Ncfsg
-za	Sa
-delo	Ncnsa
-.	Z
-Tako	Rgp
-naj	Q
-bi	Va-c
-odslej	Q
-naloga	Ncfsn
-te	Pd-fsg
-agencije	Ncfsg
-postala	Vmep-sf
-tudi	Q
-privabiti	Vmen
-v	Sa
-Nemčijo	Npfsa
-mlade	Agpmpa
-evropske	Agpmpa
-diplomirance	Ncmpa
-iz	Sg
-južne	Agpfsg
-Evrope	Npfsg
-.	Z
-Novice	Ncfpn
-o	Sl
-vztrajnem	Agpnsl
-zmanjševanju	Ncnsl
-brezposelnih	Agpmpg
-v	Sl
-Nemčiji	Npfsl
-bi	Va-c
-morale	Vmpp-pf
-biti	Va-n
-dobre	Agpfpn
-tudi	Q
-za	Sa
-Slovenijo	Npfsa
-.	Z
-Vsaj	Q
-pred	Si
-leti	Ncnpi
-je	Va-r3s-n
-glede	Sg
-gospodarske	Agpfsg
-rasti	Ncfsg
-veljalo	Vmpp-sn
-,	Z
-da	Cs
-kadar	Cs
-gre	Vmbr3s
-Nemčiji	Npfsd
-dobro	Agpnsn
-,	Z
-gre	Vmbr3s
-Sloveniji	Npfsd
-,	Z
-ki	Cs
-izvaža	Vmpr3s
-predvsem	Q
-v	Sa
-Nemčijo	Npfsa
-,	Z
-še	Q
-dvakrat	Rgp
-bolje	Rgc
-.	Z
-Vendar	Cc
-je	Va-r3s-n
-vsaj	Q
-za	Sa
-zdaj	Rgp
-gospodarska	Agpfsn
-rast	Ncfsn
-pri	Sl
-nas	Pp1-pl
-precej	Rgp
-nižja	Agcfsn
-od	Sg
-solidne	Agpfsg
-nemške	Agpfsg
-,	Z
-brezposelnost	Ncfsn
-pa	Cc
-bistveno	Rgp
-višja	Agcfsn
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+V	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+imajo	mte:Vmpr3p-n	imeti
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+solidno	mte:Agpfsa	soliden
+gospodarsko	mte:Agpfsa	gospodarski
+rast	mte:Ncfsa	rast
+,	mte:Z	,
+na	mte:Sl	na
+mnogih	mte:Pi-npl	mnog
+področjih	mte:Ncnpl	področje
+primanjkuje	mte:Vmpr3s	primanjkovati
+delovne	mte:Agpfpa	deloven
+sile	mte:Ncfpa	sila
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Španiji	mte:Npfsl	Španija
+,	mte:Z	,
+Grčiji	mte:Npfsl	Grčija
+in	mte:Cc	in
+na	mte:Sl	na
+Portugalskem	mte:Npnsl	Portugalsko
+brezposelnost	mte:Ncfsa	brezposelnost
+skokovito	mte:Rgp	skokovito
+povečala	mte:Vmep-sf	povečati
+.	mte:Z	.
+Nemška	mte:Agpfsn	nemški
+zvezna	mte:Agpfsn	zvezen
+agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+s	mte:Si	z
+sedežem	mte:Ncmsi	sedež
+v	mte:Sl	v
+Nürnbergu	mte:Npmsl	Nürnberg
+poskuša	mte:Vmpr3s	poskušati
+zdaj	mte:Rgp	zdaj
+iz	mte:Sg	iz
+teh	mte:Pd-fpg	ta
+evropskih	mte:Agpfpg	evropski
+držav	mte:Ncfpg	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+hudi	mte:Agpfsl	hud
+dolžniški	mte:Agpfsl	dolžniški
+v	mte:Sl	v
+krizi	mte:Ncfsl	kriza
+,	mte:Z	,
+privabiti	mte:Vmen	privabiti
+inženirje	mte:Ncmpa	inženir
+,	mte:Z	,
+strokovnjake	mte:Ncmpa	strokovnjak
+za	mte:Sa	za
+informacijske	mte:Agpfpa	informacijski
+tehnologije	mte:Ncfpa	tehnologija
+ter	mte:Cc	ter
+negovalno	mte:Agpnsa	negovalen
+osebje	mte:Ncnsa	osebje
+v	mte:Sl	v
+bolnišnicah	mte:Ncfpl	bolnišnica
+in	mte:Cc	in
+domovih	mte:Ncmpl	dom
+za	mte:Sa	za
+ostarele	mte:Appmpa	ostarel
+.	mte:Z	.
+Ravno	mte:Q	ravno
+v	mte:Sl	v
+Španiji	mte:Npfsl	Španija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+brezposelnost	mte:Ncfsn	brezposelnost
+že	mte:Q	že
+presega	mte:Vmpr3s	presegati
+20	mte:Mdc	20
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+tisoče	mte:Mlc-pa	tisoč
+inženirjev	mte:Ncmpg	inženir
+in	mte:Cc	in
+strokovnjakov	mte:Ncmpg	strokovnjak
+za	mte:Sa	za
+informacijske	mte:Agpfpa	informacijski
+tehnologije	mte:Ncfpa	tehnologija
+.	mte:Z	.
+Nemška	mte:Agpfsn	nemški
+agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+jim	mte:Pp3mpd--y	on
+poskuša	mte:Vmpr3s	poskušati
+zdaj	mte:Rgp	zdaj
+prikazati	mte:Vmen	prikazati
+Nemčijo	mte:Npfsa	Nemčija
+v	mte:Sl	v
+najlepši	mte:Agsfsl	lep
+luči	mte:Ncfsl	luč
+in	mte:Cc	in
+vsaj	mte:Q	vsaj
+okoli	mte:Rgp	okoli
+17.000	mte:Mdc	17.000
+Špancev	mte:Npmpg	Španec
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+prepričali	mte:Vmep-pm	prepričati
+.	mte:Z	.
+Na	mte:Sl	na
+Portugalskem	mte:Npnsl	Portugalsko
+je	mte:Va-r3s-n	biti
+medtem	mte:Rgp	medtem
+zlasti	mte:Q	zlasti
+zelo	mte:Rgp	zelo
+veliko	mte:Agpnsn	velik
+zanimanje	mte:Ncnsn	zanimanje
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+negovalnega	mte:Agpnsg	negovalen
+osebja	mte:Ncnsg	osebje
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zanimiva	mte:Agpfsn	zanimiv
+tudi	mte:Q	tudi
+za	mte:Sa	za
+grške	mte:Agpmpa	grški
+,	mte:Z	,
+hrvaške	mte:Agpmpa	hrvaški
+in	mte:Cc	in
+bolgarske	mte:Agpmpa	bolgarski
+zdravnike	mte:Ncmpa	zdravnik
+,	mte:Z	,
+bolničarje	mte:Ncmpa	bolničar
+,	mte:Z	,
+medicinske	mte:Agpfpa	medicinski
+sestre	mte:Ncfpa	sestra
+in	mte:Cc	in
+inženirje	mte:Ncmpa	inženir
+.	mte:Z	.
+Glavna	mte:Agpfsn	glaven
+ovira	mte:Ncfsn	ovira
+za	mte:Sa	za
+odhod	mte:Ncmsan	odhod
+v	mte:Sa	v
+Nemčijo	mte:Npfsa	Nemčija
+iz	mte:Sg	iz
+južnoevropskih	mte:Agpfpg	južnoevropski
+držav	mte:Ncfpg	država
+je	mte:Va-r3s-n	biti
+pomanjkljivo	mte:Agpnsa	pomanjkljiv
+znanje	mte:Ncnsa	znanje
+nemščine	mte:Ncfsg	nemščina
+.	mte:Z	.
+V	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+zgledovati	mte:Vmpn	zgledovati
+po	mte:Sl	po
+anglosaških	mte:Agpfpl	anglosaški
+družbah	mte:Ncfpl	družba
+in	mte:Cc	in
+družini	mte:Ncfsl	družina
+prišleka	mte:Ncmsg	prišleka
+omogoči	mte:Vmer3s	omogočiti
+jezikovni	mte:Agpmsay	jezikoven
+tečaj	mte:Ncmsan	tečaj
+,	mte:Z	,
+stanovanje	mte:Ncnsa	stanovanje
+,	mte:Z	,
+delo	mte:Ncnsa	delo
+tudi	mte:Q	tudi
+za	mte:Sa	za
+ženo	mte:Ncfsa	žena
+in	mte:Cc	in
+vrtec	mte:Ncmsan	vrtec
+za	mte:Sa	za
+otroka	mte:Ncmsay	otrok
+.	mte:Z	.
+"	mte:Z	"
+Družba	mte:Ncfsn	družba
+mora	mte:Vmpr3s	morati
+biti	mte:Va-n	biti
+tudi	mte:Q	tudi
+pripravljena	mte:Appfsn	pripravljen
+,	mte:Z	,
+da	mte:Cs	da
+te	mte:Pd-mpa	ta
+ljudi	mte:Ncmpa	človek
+sprejme	mte:Vmer3s	sprejeti
+in	mte:Cc	in
+jih	mte:Pp3mpa--y	on
+integrira	mte:Vmbr3s	integrirati
+,	mte:Z	,
+"	mte:Z	"
+pravi	mte:Vmbr3s	praviti
+direktorica	mte:Ncfsn	direktorica
+Centra	mte:Npmsg	Center
+za	mte:Sa	za
+posredovanje	mte:Ncnsa	posredovanje
+poklicev	mte:Ncmpg	poklic
+s	mte:Si	z
+tujino	mte:Ncfsi	tujina
+Monika	mte:Npfsn	Monika
+Varnhagen	mte:Npfsn	Varnhagen
+.	mte:Z	.
+Paul	mte:Npmsn	Paul
+Ebsen	mte:Npmsn	Ebsen
+,	mte:Z	,
+govorec	mte:Ncmsn	govorec
+nemške	mte:Agpfsg	nemški
+zvezne	mte:Agpfsg	zvezen
+agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+,	mte:Z	,
+tako	mte:Rgp	tako
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+ovira	mte:Ncfsn	ovira
+pri	mte:Sl	pri
+odhodu	mte:Ncmsl	odhod
+Špancev	mte:Npmpg	Španec
+na	mte:Sa	na
+delo	mte:Ncnsa	delo
+v	mte:Sa	v
+Nemčijo	mte:Npfsa	Nemčija
+ni	mte:Va-r3s-y	biti
+samo	mte:Q	samo
+jezik	mte:Ncmsn	jezik
+,	mte:Z	,
+ampak	mte:Cc	ampak
+tudi	mte:Q	tudi
+vtis	mte:Ncmsn	vtis
+,	mte:Z	,
+da	mte:Cs	da
+Nemčija	mte:Npfsn	Nemčija
+ni	mte:Va-r3s-y	biti
+najbolj	mte:Rgs	najbolj
+odprta	mte:Appfsn	odprt
+do	mte:Sg	do
+tujcev	mte:Ncmpg	tujec
+.	mte:Z	.
+Danes	mte:Rgp	danes
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+težava	mte:Ncfsn	težava
+najti	mte:Vmen	najti
+delo	mte:Ncnsa	delo
+,	mte:Z	,
+ampak	mte:Cc	ampak
+najti	mte:Vmen	najti
+ustrezne	mte:Agpmpa	ustrezen
+ljudi	mte:Ncmpa	človek
+za	mte:Sa	za
+razpoložljiva	mte:Agpnpa	razpoložljiv
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+.	mte:Z	.
+Zveza	mte:Ncfsn	zveza
+delodajalcev	mte:Ncmpg	delodajalec
+je	mte:Va-r3s-n	biti
+nedavno	mte:Rgp	nedavno
+sporočila	mte:Vmep-sf	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+trenutno	mte:Rgp	trenutno
+150.000	mte:Mdc	150.000
+nezasedenih	mte:Agpnpg	nezaseden
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+za	mte:Sa	za
+kvalificirane	mte:Appmpa	kvalificiran
+delavce	mte:Ncmpa	delavec
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+njihovih	mte:Ps3fplp	njihov
+ocenah	mte:Ncfpl	ocena
+Nemčija	mte:Npfsn	Nemčija
+samo	mte:Q	samo
+letos	mte:Rgp	letos
+izgubila	mte:Vmep-sf	izgubiti
+več	mte:Rgc	več
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+.	mte:Z	.
+"	mte:Z	"
+Nemčija	mte:Npfsn	Nemčija
+vsako	mte:Pg-nsa	vsak
+leto	mte:Ncnsa	leto
+potrebuje	mte:Vmpr3s	potrebovati
+200.000	mte:Mdc	200.000
+tujcev	mte:Ncmpg	tujec
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+intervjuju	mte:Ncmsl	intervju
+za	mte:Sa	za
+dnevnik	mte:Ncmsan	dnevnik
+Bild	mte:Npmsn	Bild
+povedal	mte:Vmep-sm	povedati
+Franck	mte:Npmsn	Franck
+-	mte:Z	-
+Jürgen	mte:Npmsn	Jürgen
+Weise	mte:Npmsn	Weise
+,	mte:Z	,
+direktor	mte:Ncmsn	direktor
+zvezne	mte:Agpfsg	zvezen
+agencije	mte:Ncfsg	agencija
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+.	mte:Z	.
+Tako	mte:Rgp	tako
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+odslej	mte:Q	odslej
+naloga	mte:Ncfsn	naloga
+te	mte:Pd-fsg	ta
+agencije	mte:Ncfsg	agencija
+postala	mte:Vmep-sf	postati
+tudi	mte:Q	tudi
+privabiti	mte:Vmen	privabiti
+v	mte:Sa	v
+Nemčijo	mte:Npfsa	Nemčija
+mlade	mte:Agpmpa	mlad
+evropske	mte:Agpmpa	evropski
+diplomirance	mte:Ncmpa	diplomiranca
+iz	mte:Sg	iz
+južne	mte:Agpfsg	južen
+Evrope	mte:Npfsg	Evropa
+.	mte:Z	.
+Novice	mte:Ncfpn	novica
+o	mte:Sl	o
+vztrajnem	mte:Agpnsl	vztrajen
+zmanjševanju	mte:Ncnsl	zmanjševanje
+brezposelnih	mte:Agpmpg	brezposeln
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+bi	mte:Va-c	biti
+morale	mte:Vmpp-pf	morati
+biti	mte:Va-n	biti
+dobre	mte:Agpfpn	dober
+tudi	mte:Q	tudi
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Vsaj	mte:Q	vsaj
+pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+je	mte:Va-r3s-n	biti
+glede	mte:Sg	glede
+gospodarske	mte:Agpfsg	gospodarski
+rasti	mte:Ncfsg	rast
+veljalo	mte:Vmpp-sn	veljati
+,	mte:Z	,
+da	mte:Cs	da
+kadar	mte:Cs	kadar
+gre	mte:Vmbr3s	iti
+Nemčiji	mte:Npfsd	Nemčija
+dobro	mte:Agpnsn	dober
+,	mte:Z	,
+gre	mte:Vmbr3s	iti
+Sloveniji	mte:Npfsd	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+izvaža	mte:Vmpr3s	izvažati
+predvsem	mte:Q	predvsem
+v	mte:Sa	v
+Nemčijo	mte:Npfsa	Nemčija
+,	mte:Z	,
+še	mte:Q	še
+dvakrat	mte:Rgp	dvakrat
+bolje	mte:Rgc	dobro
+.	mte:Z	.
+Vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+vsaj	mte:Q	vsaj
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+gospodarska	mte:Agpfsn	gospodarski
+rast	mte:Ncfsn	rast
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+precej	mte:Rgp	precej
+nižja	mte:Agcfsn	nizek
+od	mte:Sg	od
+solidne	mte:Agpfsg	soliden
+nemške	mte:Agpfsg	nemški
+,	mte:Z	,
+brezposelnost	mte:Ncfsn	brezposelnost
+pa	mte:Cc	pa
+bistveno	mte:Rgp	bistveno
+višja	mte:Agcfsn	visok
+.	mte:Z	.
+poslovni	mte:Agpmsny	posloven
+@	mte:Z	@

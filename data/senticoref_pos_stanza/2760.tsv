@@ -1,566 +1,572 @@
-token	tag
-stuttgart	Npmsn
--	Z
-Wendelin	Npmsn
-Wiedeking	Npmsn
-je	Va-r3s-n
-danes	Rgp
-odstopil	Vmep-sm
-s	Sg
-položaja	Ncmsg
-predsednika	Ncmsg
-uprave	Ncfsg
-nemškega	Agpmsg
-proizvajalca	Ncmsg
-luksuznih	Agpmpg
-športnih	Agpmpg
-avtomobilov	Ncmpg
-Porsche	Npmsn
-.	Z
-Kot	Cs
-poročajo	Vmpr3p
-tuje	Agpfpa
-tiskovne	Agpfpa
-agencije	Ncfpa
-,	Z
-je	Va-r3s-n
-odstopil	Vmep-sm
-tudi	Q
-finančni	Agpmsny
-direktor	Ncmsn
-te	Pd-fsg
-družbe	Ncfsg
-Holger	Npmsn
-Haerter	Npmsn
-,	Z
-nadzorniki	Ncmpn
-pa	Cc
-so	Va-r3p-n
-oba	Pg-mda
-odstopa	Ncmdn
-že	Q
-sprejeli	Vmep-pm
-.	Z
-Wiedekinga	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-Porscheju	Npmsl
-od	Sg
-leta	Ncnsg
-1993	Mdc
-,	Z
-naj	Q
-bi	Va-c
-na	Sl
-mestu	Ncnsl
-predsednika	Ncmsg
-uprave	Ncfsg
-zamenjal	Vmep-sm
-direktor	Ncmsn
-proizvodnje	Ncfsg
-Michael	Npmsn
-Macht	Npmsn
-.	Z
-Odločitev	Ncfsn
-o	Sl
-odstopu	Ncmsl
-obeh	Pg-mdg
-je	Va-r3s-n
-bila	Va-p-sf
-sprejeta	Appfsn
-po	Sl
-predčasno	Rgp
-sklicani	Appfsl
-maratonski	Agpfsl
-nočni	Agpfsl
-seji	Ncfsl
-nadzornega	Agpmsg
-sveta	Ncmsg
-podjetja	Ncnsg
-iz	Sg
-Stuttgarta	Npmsg
--	Z
-sprva	Rgp
-je	Va-r3s-n
-bila	Va-p-sf
-seja	Ncfsn
-predvidena	Appfsn
-za	Sa
-danes	Rgp
-dopoldne	Rgp
-,	Z
-tako	Rgp
-Wiedeking	Npmsn
-kot	Cs
-Härter	Npmsn
-pa	Cc
-bosta	Va-f3d-n
-prejela	Vmep-dm
-odpravnini	Ncfda
-.	Z
-Prvi	Mlomsn
-bo	Va-f3s-n
-tako	Rgp
-za	Sa
-predčasni	Agpmsay
-odhod	Ncmsan
-z	Sg
-mesta	Ncnsg
-predsednika	Ncmsg
-uprave	Ncfsg
-,	Z
-njegova	Ps3fsnsm
-pogodba	Ncfsn
-bi	Va-c
-se	Px------y
-uradno	Rgp
-morala	Vmpp-sf
-izteči	Vmen
-šele	Q
-leta	Ncnsg
-2012	Mdc
-,	Z
-dobil	Vmep-sm
-50	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-od	Sg
-česar	Pr-nsg
-bo	Va-f3s-n
-polovico	Ncfsa
-nemudoma	Rgp
-namenil	Vmep-sm
-za	Sa
-dobrodelne	Agpmpa
-namene	Ncmpa
-.	Z
-Härter	Npmsn
-pa	Cc
-bo	Va-f3s-n
-prejel	Vmep-sm
-12,5	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-Pred	Si
-tem	Pd-nsi
-so	Va-r3p-n
-nemški	Agpmpn
-mediji	Ncmpn
-pisali	Vmpp-pm
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-Wideking	Npmsn
-iz	Sg
-podjetja	Ncnsg
-odšel	Vmep-sm
-celo	Q
-z	Si
-neverjetnimi	Agpmpi
-250	Mdc
-milijoni	Ncmpi
-evrov	Ncmpg
-odpravnine	Ncfsg
-.	Z
-Kot	Cs
-razlog	Ncmsn
-za	Sa
-odstop	Ncmsan
-dosedanjega	Agpmsg
-prvega	Mlomsg
-moža	Ncmsg
-in	Cc
-finančnega	Agpmsg
-direktorja	Ncmsg
-podjetja	Ncnsg
-,	Z
-so	Va-r3p-n
-v	Sl
-Porscheju	Npmsl
-navedli	Vmep-pm
-,	Z
-da	Cs
-sta	Va-r3d-n
-Wiedeking	Npmsn
-in	Cc
-Härter	Npmsn
-želela	Vmpp-dm
-na	Sa
-ta	Pd-msa
-način	Ncmsan
-"	Z
-dati	Vmen
-pomemben	Agpmsan
-prispevek	Ncmsan
-rešitvi	Ncfsd
-razmer	Ncfpg
-"	Z
-v	Sl
-katerih	Pq-mpl
-se	Px------y
-je	Va-r3s-n
-znašel	Vmep-sm
-Porsche	Npmsn
-.	Z
-Proizvajalec	Ncmsn
-iz	Sg
-Stuttgarta	Npmsg
-ima	Vmpr3s-n
-zaradi	Sg
-prevzemanja	Ncnsg
-svojega	Px-msg
-veliko	Rgp
-večjega	Agcmsg
-tekmeca	Ncmsg
-,	Z
-največjega	Agsmsg
-evropskega	Agpmsg
-proizvajalca	Ncmsg
-avtomobilov	Ncmpg
-Volkswagen	Npmsn
-(	Z
-VW	Npmsn
-)	Z
--	Z
-sedaj	Rgp
-ima	Vmpr3s-n
-Porsche	Npmsn
-v	Sl
-lasti	Ncfsl
-okoli	Rgp
-51	Mdc
-odstotkov	Ncmpg
-VW	Npmsn
-,	Z
-namero	Ncfsa
-za	Sa
-povečanje	Ncnsa
-deleža	Ncmsg
-na	Sa
-75	Mdc
-odstotkov	Ncmpg
-pa	Cc
-je	Va-r3s-n
-opustil	Vmep-sm
-,	Z
-potem	Rgp
-ko	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-zmanjkalo	Vmep-sn
-sredstev	Ncnpg
--	Z
-po	Sl
-najnovejših	Agsmpl
-podatkih	Ncmpl
-že	Q
-za	Sa
-okoli	Rgp
-deset	Mlc-pa
-milijard	Ncfpg
-evrov	Ncmpg
-dolga	Agpfsn
-,	Z
-zato	Cc
-že	Q
-nekaj	Rgp
-mesecev	Ncmpg
-išče	Vmpr3s
-različne	Agpmpa
-vire	Ncmpa
-svežega	Agpmsg
-kapitala	Ncmsg
-.	Z
-Takšna	Pd-fsn
-zadolženost	Ncfsn
-Porscheja	Npmsg
-je	Va-r3s-n
-med	Si
-drugim	Mlpnsi
-tudi	Q
-posledica	Ncfsn
-odločitev	Ncfsg
-Wiedekinga	Npmsg
-.	Z
-Kot	Cs
-se	Px------y
-je	Va-r3s-n
-izvedelo	Vmep-sn
-minuli	Appmsay
-teden	Ncmsan
-,	Z
-sta	Va-r3d-n
-se	Px------y
-najpomembnejša	Agsmdn
-lastnika	Ncmdn
-Porscheja	Npmsg
-,	Z
-družini	Ncfsd
-Porsche	Npmsn
-in	Cc
-Piech	Npmsn
--	Z
-Wolfgang	Npmsn
-Porsche	Npmsn
-je	Va-r3s-n
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Porscheja	Npmsg
-,	Z
-Ferdinand	Npmsn
-Piech	Npmsn
-pa	Cc
-obenem	Rgp
-predsednik	Ncmsn
-uprave	Ncfsg
-VW	Npmsn
-,	Z
-dogovarjata	Vmpr3d
-za	Sa
-dokapitalizacijo	Ncfsa
-Porscheja	Npmsg
-v	Sl
-višini	Ncfsl
-petih	Mlc-pg
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-ki	Cs
-bi	Va-c
-jih	Pp3mpa--y
-zagotovili	Vmep-pm
-s	Si
-pomočjo	Ncfsi
-obeh	Pg-fdg
-uglednih	Agpfdg
-nemških	Agpfdg
-družin	Ncfdg
-industrialcev	Ncmpg
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-naj	Q
-bi	Va-c
-milijardno	Agpfsa
-injekcijo	Ncfsa
-zagotovil	Vmep-sm
-tudi	Q
-zalivski	Agpmsny
-emirat	Ncmsn
-Katar	Npmsn
-oziroma	Cc
-njegova	Ps3fsnsm
-naložbena	Agpfsn
-roka	Ncfsn
-Qatar	Npmsn
-Investment	Xf
-Authority	Xf
-(	Z
-QIA	Npmsn
-)	Z
-ter	Cc
-si	Px---d--y
-tako	Rgp
-zagotovil	Vmep-sm
-lastniški	Agpmsay
-delež	Ncmsan
-v	Sl
-podjetju	Ncnsl
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-je	Va-r3s-n
-potrdil	Vmep-sm
-tako	Rgp
-petmilijardno	Agpfsa
-dokapitalizacijo	Ncfsa
-kot	Cs
-vstop	Ncmsan
-Katarja	Npmsg
-v	Sa
-lastništvo	Ncnsa
-.	Z
-Med	Si
-bratrancema	Ncmdi
-Porschejem	Npmsi
-in	Cc
-Piechom	Npmsi
-obenem	Rgp
-že	Q
-nekaj	Rgp
-časa	Ncmsg
-poteka	Vmpr3s
-ogorčen	Appmsnn
-boj	Ncmsn
-za	Sa
-prevlado	Ncfsa
-.	Z
-VW	Npmsn
-je	Va-r3s-n
-tako	Rgp
-Wolfgangu	Npmsl
-Porscheju	Npmsl
-že	Q
-konec	Sg
-junija	Ncmsg
-za	Sa
-49,9	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-Porscheju	Npmsl
-ponudil	Vmep-sm
-med	Si
-tremi	Mlcfpi
-in	Cc
-štirimi	Mlcfpi
-milijardami	Ncfpi
-evrov	Ncmpg
-.	Z
-Na	Sl
-koncu	Ncmsl
-tega	Pd-msg
-procesa	Ncmsg
-naj	Q
-bi	Va-c
-se	Px------y
-nato	Rgp
-Porsche	Npmsn
-in	Cc
-VW	Npmsn
-združila	Vmep-sf
-.	Z
-Proti	Sd
-združitvi	Ncfsd
-obeh	Pg-ndg
-nesorazmerno	Rgp
-velikih	Agpnpg
-podjetij	Ncnpg
-se	Px------y
-je	Va-r3s-n
-najbolj	Rgs
-glasno	Rgp
-zavzemal	Vmpp-sm
-prav	Q
-Wiedeking	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-bal	Vmpp-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-Porsche	Npmsn
-ob	Sl
-združitvi	Ncfsl
-s	Si
-VW	Npmsi
-izgubil	Vmep-sm
-svojo	Px-fsa
-identiteto	Ncfsa
-.	Z
-Z	Si
-njegovim	Ps3msism
-odhodom	Ncmsi
-je	Va-r3s-n
-tako	Rgp
-pot	Ncfsa
-do	Sg
-združitve	Ncfsg
-obeh	Pg-fdg
-družb	Ncfdg
-odprta	Appfsn
-.	Z
-Kot	Cs
-piše	Vmpr3s
-nemška	Agpfsn
-tiskovna	Agpfsn
-agencija	Ncfsn
-dpa	Npfsn
-,	Z
-naj	Q
-bi	Va-c
-se	Px------y
-družini	Ncfsd
-Porsche	Npmsn
-in	Cc
-Piech	Npmsn
-že	Q
-uskladili	Vmep-pm
-,	Z
-da	Cs
-bo	Va-f3s-n
-VW	Npmsn
-postopoma	Rgp
-popolnoma	Rgp
-prevzel	Vmep-sm
-Porsche	Npmsnn
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-tako	Rgp
-postal	Vmep-sm
-deseta	Mlofsn
-blagovna	Agpfsn
-znamka	Ncfsn
-v	Sl
-koncernu	Ncmsl
-Volkswagen	Npmsn
-.	Z
-Tak	Pd-msn
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-načrt	Ncmsn
-Ferdinanda	Npmsg
-Piecha	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-z	Si
-odstopom	Ncmsi
-Wiedekinga	Npmsg
-po	Sl
-navedbah	Ncfpl
-poznavalcev	Ncmpg
-zmagal	Vmep-sm
-v	Sl
-internem	Agpmsl
-dvoboju	Ncmsl
-Porsche	Npmsn
--	Z
-Piech	Npmsn
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-Porscheja	Npmsg
-zaenkrat	Rgp
-sicer	Q
-še	Q
-ni	Va-r3s-y
-uradno	Rgp
-sprejel	Vmep-sm
-odločitve	Ncfsg
-o	Sl
-nadaljnji	Agpfsl
-usodi	Ncfsl
-podjetja	Ncnsg
-,	Z
-danes	Rgp
-pa	Cc
-naj	Q
-se	Px------y
-ne	Q
-bi	Va-c
-več	Q
-sestal	Vmep-sm
-.	Z
+token	tag	lemma
+stuttgart	mte:Npmsn	stuttgart
+-	mte:Z	-
+Wendelin	mte:Npmsn	Wendelin
+Wiedeking	mte:Npmsn	Wiedeking
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+odstopil	mte:Vmep-sm	odstopiti
+s	mte:Sg	z
+položaja	mte:Ncmsg	položaj
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+nemškega	mte:Agpmsg	nemški
+proizvajalca	mte:Ncmsg	proizvajalec
+luksuznih	mte:Agpmpg	luksuzen
+športnih	mte:Agpmpg	športen
+avtomobilov	mte:Ncmpg	avtomobil
+Porsche	mte:Npmsn	Porsche
+.	mte:Z	.
+Kot	mte:Cs	kot
+poročajo	mte:Vmpr3p	poročati
+tuje	mte:Agpfpa	tuj
+tiskovne	mte:Agpfpa	tiskoven
+agencije	mte:Ncfpa	agencija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odstopil	mte:Vmep-sm	odstopiti
+tudi	mte:Q	tudi
+finančni	mte:Agpmsny	finančen
+direktor	mte:Ncmsn	direktor
+te	mte:Pd-fsg	ta
+družbe	mte:Ncfsg	družba
+Holger	mte:Npmsn	Holger
+Haerter	mte:Npmsn	Haerter
+,	mte:Z	,
+nadzorniki	mte:Ncmpn	nadzornik
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+oba	mte:Pg-mda	oba
+odstopa	mte:Ncmdn	odstop
+že	mte:Q	že
+sprejeli	mte:Vmep-pm	sprejeti
+.	mte:Z	.
+Wiedekinga	mte:Npmsg	Wiedekinga
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Porscheju	mte:Npmsl	Porsche
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+1993	mte:Mdc	1993
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+na	mte:Sl	na
+mestu	mte:Ncnsl	mesto
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+zamenjal	mte:Vmep-sm	zamenjati
+direktor	mte:Ncmsn	direktor
+proizvodnje	mte:Ncfsg	proizvodnja
+Michael	mte:Npmsn	Michael
+Macht	mte:Npmsn	Macht
+.	mte:Z	.
+Odločitev	mte:Ncfsn	odločitev
+o	mte:Sl	o
+odstopu	mte:Ncmsl	odstop
+obeh	mte:Pg-mdg	oba
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+sprejeta	mte:Appfsn	sprejet
+po	mte:Sl	po
+predčasno	mte:Rgp	predčasno
+sklicani	mte:Appfsl	sklican
+maratonski	mte:Agpfsl	maratonski
+nočni	mte:Agpfsl	nočen
+seji	mte:Ncfsl	seja
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+podjetja	mte:Ncnsg	podjetje
+iz	mte:Sg	iz
+Stuttgarta	mte:Npmsg	Stuttgarta
+-	mte:Z	-
+sprva	mte:Rgp	sprva
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+seja	mte:Ncfsn	seja
+predvidena	mte:Appfsn	predviden
+za	mte:Sa	za
+danes	mte:Rgp	danes
+dopoldne	mte:Rgp	dopoldne
+,	mte:Z	,
+tako	mte:Rgp	tako
+Wiedeking	mte:Npmsn	Wiedeking
+kot	mte:Cs	kot
+Härter	mte:Npmsn	Härter
+pa	mte:Cc	pa
+bosta	mte:Va-f3d-n	biti
+prejela	mte:Vmep-dm	prejeti
+odpravnini	mte:Ncfda	odpravnina
+.	mte:Z	.
+Prvi	mte:Mlomsn	prvi
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+za	mte:Sa	za
+predčasni	mte:Agpmsay	predčasen
+odhod	mte:Ncmsan	odhod
+z	mte:Sg	z
+mesta	mte:Ncnsg	mesto
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+njegova	mte:Ps3fsnsm	njegov
+pogodba	mte:Ncfsn	pogodba
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+uradno	mte:Rgp	uradno
+morala	mte:Vmpp-sf	morati
+izteči	mte:Vmen	izteči
+šele	mte:Q	šele
+leta	mte:Ncnsg	leto
+2012	mte:Mdc	2012
+,	mte:Z	,
+dobil	mte:Vmep-sm	dobiti
+50	mte:Mdc	50
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+od	mte:Sg	od
+česar	mte:Pr-nsg	kar
+bo	mte:Va-f3s-n	biti
+polovico	mte:Ncfsa	polovica
+nemudoma	mte:Rgp	nemudoma
+namenil	mte:Vmep-sm	nameniti
+za	mte:Sa	za
+dobrodelne	mte:Agpmpa	dobrodelen
+namene	mte:Ncmpa	namen
+.	mte:Z	.
+Härter	mte:Npmsn	Härter
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+prejel	mte:Vmep-sm	prejeti
+12,5	mte:Mdc	12,5
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+so	mte:Va-r3p-n	biti
+nemški	mte:Agpmpn	nemški
+mediji	mte:Ncmpn	medij
+pisali	mte:Vmpp-pm	pisati
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Wideking	mte:Npmsn	Wideking
+iz	mte:Sg	iz
+podjetja	mte:Ncnsg	podjetje
+odšel	mte:Vmep-sm	oditi
+celo	mte:Q	celo
+z	mte:Si	z
+neverjetnimi	mte:Agpmpi	neverjeten
+250	mte:Mdc	250
+milijoni	mte:Ncmpi	milijon
+evrov	mte:Ncmpg	evro
+odpravnine	mte:Ncfsg	odpravnina
+.	mte:Z	.
+Kot	mte:Cs	kot
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+odstop	mte:Ncmsan	odstop
+dosedanjega	mte:Agpmsg	dosedanji
+prvega	mte:Mlomsg	prvi
+moža	mte:Ncmsg	mož
+in	mte:Cc	in
+finančnega	mte:Agpmsg	finančen
+direktorja	mte:Ncmsg	direktor
+podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Porscheju	mte:Npmsl	Porsche
+navedli	mte:Vmep-pm	navesti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+Wiedeking	mte:Npmsn	Wiedeking
+in	mte:Cc	in
+Härter	mte:Npmsn	Härter
+želela	mte:Vmpp-dm	želeti
+na	mte:Sa	na
+ta	mte:Pd-msa	ta
+način	mte:Ncmsan	način
+"	mte:Z	"
+dati	mte:Vmen	dati
+pomemben	mte:Agpmsan	pomemben
+prispevek	mte:Ncmsan	prispevek
+rešitvi	mte:Ncfsd	rešitev
+razmer	mte:Ncfpg	razmera
+"	mte:Z	"
+v	mte:Sl	v
+katerih	mte:Pq-mpl	kateri
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+znašel	mte:Vmep-sm	znajti
+Porsche	mte:Npmsn	Porsche
+.	mte:Z	.
+Proizvajalec	mte:Ncmsn	proizvajalec
+iz	mte:Sg	iz
+Stuttgarta	mte:Npmsg	Stuttgarta
+ima	mte:Vmpr3s-n	imeti
+zaradi	mte:Sg	zaradi
+prevzemanja	mte:Ncnsg	prevzemanje
+svojega	mte:Px-msg	svoj
+veliko	mte:Rgp	veliko
+večjega	mte:Agcmsg	velik
+tekmeca	mte:Ncmsg	tekmec
+,	mte:Z	,
+največjega	mte:Agsmsg	velik
+evropskega	mte:Agpmsg	evropski
+proizvajalca	mte:Ncmsg	proizvajalec
+avtomobilov	mte:Ncmpg	avtomobil
+Volkswagen	mte:Npmsn	Volkswagen
+(	mte:Z	(
+VW	mte:Npmsn	VW
+)	mte:Z	)
+-	mte:Z	-
+sedaj	mte:Rgp	sedaj
+ima	mte:Vmpr3s-n	imeti
+Porsche	mte:Npmsn	Porsche
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+okoli	mte:Rgp	okoli
+51	mte:Mdc	51
+odstotkov	mte:Ncmpg	odstotek
+VW	mte:Npmsn	VW
+,	mte:Z	,
+namero	mte:Ncfsa	namera
+za	mte:Sa	za
+povečanje	mte:Ncnsa	povečanje
+deleža	mte:Ncmsg	delež
+na	mte:Sa	na
+75	mte:Mdc	75
+odstotkov	mte:Ncmpg	odstotek
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+opustil	mte:Vmep-sm	opustiti
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+zmanjkalo	mte:Vmep-sn	zmanjkati
+sredstev	mte:Ncnpg	sredstvo
+-	mte:Z	-
+po	mte:Sl	po
+najnovejših	mte:Agsmpl	nov
+podatkih	mte:Ncmpl	podatek
+že	mte:Q	že
+za	mte:Sa	za
+okoli	mte:Rgp	okoli
+deset	mte:Mlc-pa	deset
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+dolga	mte:Agpfsn	dolg
+,	mte:Z	,
+zato	mte:Cc	zato
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+mesecev	mte:Ncmpg	mesec
+išče	mte:Vmpr3s	iskati
+različne	mte:Agpmpa	različen
+vire	mte:Ncmpa	vir
+svežega	mte:Agpmsg	svež
+kapitala	mte:Ncmsg	kapital
+.	mte:Z	.
+Takšna	mte:Pd-fsn	takšen
+zadolženost	mte:Ncfsn	zadolženost
+Porscheja	mte:Npmsg	Porsche
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+tudi	mte:Q	tudi
+posledica	mte:Ncfsn	posledica
+odločitev	mte:Ncfsg	odločitev
+Wiedekinga	mte:Npmsg	Wiedekinga
+.	mte:Z	.
+Kot	mte:Cs	kot
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+izvedelo	mte:Vmep-sn	izvedeti
+minuli	mte:Appmsay	minul
+teden	mte:Ncmsan	teden
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+najpomembnejša	mte:Agsmdn	pomemben
+lastnika	mte:Ncmdn	lastnik
+Porscheja	mte:Npmsg	Porsche
+,	mte:Z	,
+družini	mte:Ncfsd	družina
+Porsche	mte:Npmsn	Porsche
+in	mte:Cc	in
+Piech	mte:Npmsn	Piech
+-	mte:Z	-
+Wolfgang	mte:Npmsn	Wolfgang
+Porsche	mte:Npmsn	Porsche
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Porscheja	mte:Npmsg	Porsche
+,	mte:Z	,
+Ferdinand	mte:Npmsn	Ferdinand
+Piech	mte:Npmsn	Piech
+pa	mte:Cc	pa
+obenem	mte:Rgp	obenem
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+VW	mte:Npmsn	VW
+,	mte:Z	,
+dogovarjata	mte:Vmpr3d	dogovarjati
+za	mte:Sa	za
+dokapitalizacijo	mte:Ncfsa	dokapitalizacija
+Porscheja	mte:Npmsg	Porsche
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+petih	mte:Mlc-pg	pet
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+zagotovili	mte:Vmep-pm	zagotoviti
+s	mte:Si	z
+pomočjo	mte:Ncfsi	pomoč
+obeh	mte:Pg-fdg	oba
+uglednih	mte:Agpfdg	ugleden
+nemških	mte:Agpfdg	nemški
+družin	mte:Ncfdg	družina
+industrialcev	mte:Ncmpg	industrialec
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+milijardno	mte:Agpfsa	milijarden
+injekcijo	mte:Ncfsa	injekcija
+zagotovil	mte:Vmep-sm	zagotoviti
+tudi	mte:Q	tudi
+zalivski	mte:Agpmsny	zalivski
+emirat	mte:Ncmsn	emirat
+Katar	mte:Npmsn	Katar
+oziroma	mte:Cc	oziroma
+njegova	mte:Ps3fsnsm	njegov
+naložbena	mte:Agpfsn	naložben
+roka	mte:Ncfsn	roka
+Qatar	mte:Npmsn	Qatar
+Investment	mte:Xf	investment
+Authority	mte:Xf	authority
+(	mte:Z	(
+QIA	mte:Npmsn	QIA
+)	mte:Z	)
+ter	mte:Cc	ter
+si	mte:Px---d--y	se
+tako	mte:Rgp	tako
+zagotovil	mte:Vmep-sm	zagotoviti
+lastniški	mte:Agpmsay	lastniški
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+tako	mte:Rgp	tako
+petmilijardno	mte:Agpfsa	petmilijarden
+dokapitalizacijo	mte:Ncfsa	dokapitalizacija
+kot	mte:Cs	kot
+vstop	mte:Ncmsan	vstop
+Katarja	mte:Npmsg	Katar
+v	mte:Sa	v
+lastništvo	mte:Ncnsa	lastništvo
+.	mte:Z	.
+Med	mte:Si	med
+bratrancema	mte:Ncmdi	bratranec
+Porschejem	mte:Npmsi	Porsche
+in	mte:Cc	in
+Piechom	mte:Npmsi	Piech
+obenem	mte:Rgp	obenem
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+poteka	mte:Vmpr3s	potekati
+ogorčen	mte:Appmsnn	ogorčen
+boj	mte:Ncmsn	boj
+za	mte:Sa	za
+prevlado	mte:Ncfsa	prevlada
+.	mte:Z	.
+VW	mte:Npmsn	VW
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+Wolfgangu	mte:Npmsl	Wolfgang
+Porscheju	mte:Npmsl	Porsche
+že	mte:Q	že
+konec	mte:Sg	konec
+junija	mte:Ncmsg	junij
+za	mte:Sa	za
+49,9	mte:Mdc	49,9
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+Porscheju	mte:Npmsl	Porsche
+ponudil	mte:Vmep-sm	ponuditi
+med	mte:Si	med
+tremi	mte:Mlcfpi	trije
+in	mte:Cc	in
+štirimi	mte:Mlcfpi	štirje
+milijardami	mte:Ncfpi	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+tega	mte:Pd-msg	ta
+procesa	mte:Ncmsg	proces
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+nato	mte:Rgp	nato
+Porsche	mte:Npmsn	Porsche
+in	mte:Cc	in
+VW	mte:Npmsn	VW
+združila	mte:Vmep-sf	združiti
+.	mte:Z	.
+Proti	mte:Sd	proti
+združitvi	mte:Ncfsd	združitev
+obeh	mte:Pg-ndg	oba
+nesorazmerno	mte:Rgp	nesorazmerno
+velikih	mte:Agpnpg	velik
+podjetij	mte:Ncnpg	podjetje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+najbolj	mte:Rgs	najbolj
+glasno	mte:Rgp	glasno
+zavzemal	mte:Vmpp-sm	zavzemati
+prav	mte:Q	prav
+Wiedeking	mte:Npmsn	Wiedeking
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+bal	mte:Vmpp-sm	bati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Porsche	mte:Npmsn	Porsche
+ob	mte:Sl	ob
+združitvi	mte:Ncfsl	združitev
+s	mte:Si	z
+VW	mte:Npmsi	VW
+izgubil	mte:Vmep-sm	izgubiti
+svojo	mte:Px-fsa	svoj
+identiteto	mte:Ncfsa	identiteta
+.	mte:Z	.
+Z	mte:Si	z
+njegovim	mte:Ps3msism	njegov
+odhodom	mte:Ncmsi	odhod
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+pot	mte:Ncfsa	pot
+do	mte:Sg	do
+združitve	mte:Ncfsg	združitev
+obeh	mte:Pg-fdg	oba
+družb	mte:Ncfdg	družba
+odprta	mte:Appfsn	odprt
+.	mte:Z	.
+Kot	mte:Cs	kot
+piše	mte:Vmpr3s	pisati
+nemška	mte:Agpfsn	nemški
+tiskovna	mte:Agpfsn	tiskoven
+agencija	mte:Ncfsn	agencija
+dpa	mte:Npfsn	dpa
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+družini	mte:Ncfsd	družina
+Porsche	mte:Npmsn	Porsche
+in	mte:Cc	in
+Piech	mte:Npmsn	Piech
+že	mte:Q	že
+uskladili	mte:Vmep-pm	uskladiti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+VW	mte:Npmsn	VW
+postopoma	mte:Rgp	postopoma
+popolnoma	mte:Rgp	popolnoma
+prevzel	mte:Vmep-sm	prevzeti
+Porsche	mte:Npmsnn	Porsche
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+tako	mte:Rgp	tako
+postal	mte:Vmep-sm	postati
+deseta	mte:Mlofsn	deseti
+blagovna	mte:Agpfsn	blagoven
+znamka	mte:Ncfsn	znamka
+v	mte:Sl	v
+koncernu	mte:Ncmsl	koncern
+Volkswagen	mte:Npmsn	Volkswagen
+.	mte:Z	.
+Tak	mte:Pd-msn	tak
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+načrt	mte:Ncmsn	načrt
+Ferdinanda	mte:Npmsg	Ferdinand
+Piecha	mte:Npmsn	Piech
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+odstopom	mte:Ncmsi	odstop
+Wiedekinga	mte:Npmsg	Wiedekinga
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+poznavalcev	mte:Ncmpg	poznavalec
+zmagal	mte:Vmep-sm	zmagati
+v	mte:Sl	v
+internem	mte:Agpmsl	interen
+dvoboju	mte:Ncmsl	dvoboj
+Porsche	mte:Npmsn	Porsche
+-	mte:Z	-
+Piech	mte:Npmsn	Piech
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Porscheja	mte:Npmsg	Porsche
+zaenkrat	mte:Rgp	zaenkrat
+sicer	mte:Q	sicer
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+uradno	mte:Rgp	uradno
+sprejel	mte:Vmep-sm	sprejeti
+odločitve	mte:Ncfsg	odločitev
+o	mte:Sl	o
+nadaljnji	mte:Agpfsl	nadaljnji
+usodi	mte:Ncfsl	usoda
+podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+danes	mte:Rgp	danes
+pa	mte:Cc	pa
+naj	mte:Q	naj
+se	mte:Px------y	se
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+več	mte:Q	več
+sestal	mte:Vmep-sm	sestati
+.	mte:Z	.
+Trenutno	mte:Rgp	trenutno
+pa	mte:Cc	pa
+zaseda	mte:Vmpr3s	zasedati
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+VW	mte:Ncmsn	VW

@@ -1,285 +1,302 @@
-token	tag
-Moskva	Npfsn
-,	Z
-Minsk	Npmsn
--	Z
-Rusija	Npfsn
-in	Cc
-Belorusija	Npfsn
-sta	Va-r3d-n
-danes	Rgp
-podpisali	Vmep-dm
-dodatno	Agpfsa
-pogodbo	Ncfsa
-k	Sd
-sporazumu	Ncmsd
-o	Sl
-prenosu	Ncmsl
-ruskega	Agpmsg
-plina	Ncmsg
-preko	Sg
-beloruskega	Agpnsg
-ozemlja	Ncnsg
-na	Sa
-Zahod	Ncmsan
-.	Z
-S	Si
-podpisom	Ncmsi
-pogodbe	Ncfsg
-naj	Q
-bi	Va-c
-državi	Ncfsd
-končali	Vmep-pm
-spor	Ncmsan
-,	Z
-v	Sa
-katerega	Pq-msa
-sta	Va-r3d-n
-se	Px------y
-junija	Ncmsg
-zapletli	Vmep-dm
-zaradi	Sg
-plačila	Ncnsg
-dolga	Agpmsn
-glede	Sg
-prenosa	Ncmsg
-plina	Ncmsg
-,	Z
-poročajo	Vmpr3p
-tuje	Agpfpn
-tiskovne	Agpfsg
-agencije	Ncfpn
-.	Z
-Ruski	Agpmsny
-plinski	Agpmsny
-monopolist	Ncmsn
-Gazprom	Npmsn
-je	Va-r3s-n
-po	Sl
-besedah	Ncfpl
-generalnega	Agpmsg
-direktorja	Ncmsg
-beloruskega	Agpnsg
-plinskega	Agpnsg
-podjetja	Ncnsg
-Beltransgaz	Npmsg
-Vladimirja	Npmsg
-Majorova	Aspmsg
-pristal	Vmep-sm
-na	Sa
-zahtevo	Ncfsa
-Minska	Agpnsg
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-za	Sa
-1000	Mdc
-kubičnih	Agpmpg
-metrov	Ncmpg
-plina	Ncmsg
-,	Z
-prepeljanih	Appmpg
-na	Sa
-100	Mdc
-kilometrov	Ncmpg
-,	Z
-plačal	Vmep-sm
-1,88	Mdc
-dolarja	Ncmsg
-.	Z
-Pogodba	Ncfsn
-,	Z
-ki	Cs
-sta	Va-r3d-n
-jo	Pp3fsa--y
-strani	Ncfpn
-podpisali	Vmep-dm
-danes	Rgp
-,	Z
-dopolnjuje	Vmpr3s
-že	Q
-obstoječo	Appfsa
-pogodbo	Ncfsa
-med	Si
-Beltransgazom	Npmsi
-in	Cc
-Gazpromom	Npmsi
-o	Sl
-prenosu	Ncmsl
-plina	Ncmsg
-na	Sa
-Zahod	Ncmsan
-.	Z
-Podpis	Ncmsan
-pogodbe	Ncfsg
-je	Va-r3s-n
-poleg	Sg
-Majorova	Aspfsg
-potrdila	Vmep-sf
-tudi	Q
-beloruska	Agpfsn
-vlada	Ncfsn
-,	Z
-medtem	Rgp
-ko	Cs
-ruski	Agpmsny
-gigant	Ncmsn
-o	Sl
-dogodku	Ncmsl
-še	Q
-molči	Vmpr3s
-.	Z
-Rusko	Npnsn
--	Z
-beloruski	Agpmsny
-spor	Ncmsn
-je	Va-r3s-n
-izbruhnil	Vmep-sm
-konec	Sg
-junija	Ncmsg
-,	Z
-ko	Cs
-je	Va-r3s-n
-Rusija	Npfsn
-zaradi	Sg
-spora	Ncmsg
-o	Sl
-plačilu	Ncnsl
-dolga	Agpfsn
-v	Sl
-višini	Ncfsl
-192	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-Belorusiji	Npfsd
-zmanjšala	Vmep-sf
-dobavo	Ncfsa
-plina	Ncmsg
-za	Sa
-15	Mdc
-odstotkov	Ncmpg
-.	Z
-Ker	Cs
-Minsk	Npmsn
-dolga	Agpfsn
-ni	Va-r3s-y
-takoj	Rgp
-poplačal	Vmep-sm
-,	Z
-je	Va-r3s-n
-Moskva	Npfsn
-dobavo	Ncfsa
-plina	Ncmsg
-postopoma	Rgp
-zmanjšala	Vmep-sf
-za	Sa
-60	Mdc
-odstotkov	Ncmpg
-.	Z
-Minsk	Npmsn
-je	Va-r3s-n
-sicer	Q
-trdil	Vmpp-sm
-,	Z
-da	Cs
-tudi	Q
-Gazprom	Npmsn
-Belorusiji	Npfsd
-dolguje	Vmpr3s
-denar	Ncmsan
--	Z
-za	Sa
-prenos	Ncmsan
-plina	Ncmsg
-preko	Sg
-beloruskega	Agpnsg
-ozemlja	Ncnsg
-v	Sa
-Evropo	Npfsa
-naj	Q
-bi	Va-c
-ji	Pp3fsd--y
-dolgoval	Vmbp-sm
-260	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-.	Z
-V	Sl
-sporu	Ncmsl
-je	Va-r3s-n
-prva	Mlofsn
-popustila	Vmep-sf
-Belorusija	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-odplačala	Vmep-sf
-svoj	Px-msa
-del	Ncmsan
-dolga	Agpfsn
-,	Z
-Gazprom	Npmsn
-pa	Cc
-je	Va-r3s-n
-Minsku	Npmsd
-plačal	Vmep-sm
-228	Mdc
-milijonov	Ncmpg
-dolarjev	Ncmpg
-.	Z
-Beloruski	Agpmsny
-predsednik	Ncmsn
-Aleksander	Npmsn
-Lukašenko	Npfsa
-je	Va-r3s-n
-Rusijo	Npfsa
-zato	Rgp
-pozval	Vmep-sm
-,	Z
-naj	Cs
-plača	Vmer3s
-še	Q
-preostali	Appmsay
-del	Ncmsan
-dolga	Agpfsn
-.	Z
-Rusko	Agpnsn
--	Z
-beloruski	Agpmsay
-spor	Ncmsan
-so	Va-r3p-n
-pozorno	Rgp
-spremljali	Vmpp-pm
-tudi	Q
-v	Sa
-EU	Npfsl
-.	Z
-Več	Rgc
-evropskih	Agpfpg
-držav	Ncfpg
-,	Z
-med	Si
-njimi	Pp3mpi
-tudi	Q
-Slovenija	Npfsn
-,	Z
-je	Va-r3s-n
-zaradi	Sg
-rusko	Agpnsn
--	Z
-ukrajinskega	Agpmsg
-spora	Ncmsg
-v	Sl
-začetku	Ncmsl
-lanskega	Agpnsg
-leta	Ncnsg
-namreč	Cc
-že	Q
-ostalo	Vmep-sn
-brez	Sg
-ruskega	Agpmsg
-plina	Ncmsg
-.	Z
+token	tag	lemma
+Moskva	mte:Npfsn	Moskva
+,	mte:Z	,
+Minsk	mte:Npmsn	Minsk
+-	mte:Z	-
+Rusija	mte:Npfsn	Rusija
+in	mte:Cc	in
+Belorusija	mte:Npfsn	Belorusija
+sta	mte:Va-r3d-n	biti
+danes	mte:Rgp	danes
+podpisali	mte:Vmep-dm	podpisati
+dodatno	mte:Agpfsa	dodaten
+pogodbo	mte:Ncfsa	pogodba
+k	mte:Sd	k
+sporazumu	mte:Ncmsd	sporazum
+o	mte:Sl	o
+prenosu	mte:Ncmsl	prenos
+ruskega	mte:Agpmsg	ruski
+plina	mte:Ncmsg	plin
+preko	mte:Sg	preko
+beloruskega	mte:Agpnsg	beloruski
+ozemlja	mte:Ncnsg	ozemlje
+na	mte:Sa	na
+Zahod	mte:Ncmsan	zahod
+.	mte:Z	.
+S	mte:Si	z
+podpisom	mte:Ncmsi	podpis
+pogodbe	mte:Ncfsg	pogodba
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+državi	mte:Ncfsd	država
+končali	mte:Vmep-pm	končati
+spor	mte:Ncmsan	spor
+,	mte:Z	,
+v	mte:Sa	v
+katerega	mte:Pq-msa	kateri
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+junija	mte:Ncmsg	junij
+zapletli	mte:Vmep-dm	zaplesti
+zaradi	mte:Sg	zaradi
+plačila	mte:Ncnsg	plačilo
+dolga	mte:Agpmsn	dolg
+glede	mte:Sg	glede
+prenosa	mte:Ncmsg	prenos
+plina	mte:Ncmsg	plin
+,	mte:Z	,
+poročajo	mte:Vmpr3p	poročati
+tuje	mte:Agpfpn	tuj
+tiskovne	mte:Agpfsg	tiskoven
+agencije	mte:Ncfpn	agencija
+.	mte:Z	.
+Ruski	mte:Agpmsny	ruski
+plinski	mte:Agpmsny	plinski
+monopolist	mte:Ncmsn	monopolist
+Gazprom	mte:Npmsn	Gazprom
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+generalnega	mte:Agpmsg	generalen
+direktorja	mte:Ncmsg	direktor
+beloruskega	mte:Agpnsg	beloruski
+plinskega	mte:Agpnsg	plinski
+podjetja	mte:Ncnsg	podjetje
+Beltransgaz	mte:Npmsg	Beltransgaz
+Vladimirja	mte:Npmsg	Vladimir
+Majorova	mte:Aspmsg	Majorov
+pristal	mte:Vmep-sm	pristati
+na	mte:Sa	na
+zahtevo	mte:Ncfsa	zahteva
+Minska	mte:Agpnsg	minski
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+za	mte:Sa	za
+1000	mte:Mdc	1000
+kubičnih	mte:Agpmpg	kubičen
+metrov	mte:Ncmpg	meter
+plina	mte:Ncmsg	plin
+,	mte:Z	,
+prepeljanih	mte:Appmpg	prepeljan
+na	mte:Sa	na
+100	mte:Mdc	100
+kilometrov	mte:Ncmpg	kilometer
+,	mte:Z	,
+plačal	mte:Vmep-sm	plačati
+1,88	mte:Mdc	1,88
+dolarja	mte:Ncmsg	dolar
+.	mte:Z	.
+Pogodba	mte:Ncfsn	pogodba
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+jo	mte:Pp3fsa--y	on
+strani	mte:Ncfpn	stran
+podpisali	mte:Vmep-dm	podpisati
+danes	mte:Rgp	danes
+,	mte:Z	,
+dopolnjuje	mte:Vmpr3s	dopolnjevati
+že	mte:Q	že
+obstoječo	mte:Appfsa	obstoječ
+pogodbo	mte:Ncfsa	pogodba
+med	mte:Si	med
+Beltransgazom	mte:Npmsi	Beltransgaz
+in	mte:Cc	in
+Gazpromom	mte:Npmsi	Gazprom
+o	mte:Sl	o
+prenosu	mte:Ncmsl	prenos
+plina	mte:Ncmsg	plin
+na	mte:Sa	na
+Zahod	mte:Ncmsan	zahod
+.	mte:Z	.
+Podpis	mte:Ncmsan	podpis
+pogodbe	mte:Ncfsg	pogodba
+je	mte:Va-r3s-n	biti
+poleg	mte:Sg	poleg
+Majorova	mte:Aspfsg	Majorov
+potrdila	mte:Vmep-sf	potrditi
+tudi	mte:Q	tudi
+beloruska	mte:Agpfsn	beloruski
+vlada	mte:Ncfsn	vlada
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+ruski	mte:Agpmsny	ruski
+gigant	mte:Ncmsn	gigant
+o	mte:Sl	o
+dogodku	mte:Ncmsl	dogodek
+še	mte:Q	še
+molči	mte:Vmpr3s	molčiti
+.	mte:Z	.
+Rusko	mte:Npnsn	Rusko
+-	mte:Z	-
+beloruski	mte:Agpmsny	beloruski
+spor	mte:Ncmsn	spor
+je	mte:Va-r3s-n	biti
+izbruhnil	mte:Vmep-sm	izbruhniti
+konec	mte:Sg	konec
+junija	mte:Ncmsg	junij
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Rusija	mte:Npfsn	Rusija
+zaradi	mte:Sg	zaradi
+spora	mte:Ncmsg	spor
+o	mte:Sl	o
+plačilu	mte:Ncnsl	plačilo
+dolga	mte:Agpfsn	dolg
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+192	mte:Mdc	192
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+Belorusiji	mte:Npfsd	Belorusija
+zmanjšala	mte:Vmep-sf	zmanjšati
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+za	mte:Sa	za
+15	mte:Mdc	15
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Ker	mte:Cs	ker
+Minsk	mte:Npmsn	Minsk
+dolga	mte:Agpfsn	dolg
+ni	mte:Va-r3s-y	biti
+takoj	mte:Rgp	takoj
+poplačal	mte:Vmep-sm	poplačati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Moskva	mte:Npfsn	Moskva
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+postopoma	mte:Rgp	postopoma
+zmanjšala	mte:Vmep-sf	zmanjšati
+za	mte:Sa	za
+60	mte:Mdc	60
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Minsk	mte:Npmsn	Minsk
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+trdil	mte:Vmpp-sm	trditi
+,	mte:Z	,
+da	mte:Cs	da
+tudi	mte:Q	tudi
+Gazprom	mte:Npmsn	Gazprom
+Belorusiji	mte:Npfsd	Belorusija
+dolguje	mte:Vmpr3s	dolgovati
+denar	mte:Ncmsan	denar
+-	mte:Z	-
+za	mte:Sa	za
+prenos	mte:Ncmsan	prenos
+plina	mte:Ncmsg	plin
+preko	mte:Sg	preko
+beloruskega	mte:Agpnsg	beloruski
+ozemlja	mte:Ncnsg	ozemlje
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ji	mte:Pp3fsd--y	on
+dolgoval	mte:Vmbp-sm	dolgovati
+260	mte:Mdc	260
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+V	mte:Sl	v
+sporu	mte:Ncmsl	spor
+je	mte:Va-r3s-n	biti
+prva	mte:Mlofsn	prvi
+popustila	mte:Vmep-sf	popustiti
+Belorusija	mte:Npfsn	Belorusija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+odplačala	mte:Vmep-sf	odplačati
+svoj	mte:Px-msa	svoj
+del	mte:Ncmsan	del
+dolga	mte:Agpfsn	dolg
+,	mte:Z	,
+Gazprom	mte:Npmsn	Gazprom
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Minsku	mte:Npmsd	Minsko
+plačal	mte:Vmep-sm	plačati
+228	mte:Mdc	228
+milijonov	mte:Ncmpg	milijon
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Beloruski	mte:Agpmsny	beloruski
+predsednik	mte:Ncmsn	predsednik
+Aleksander	mte:Npmsn	Aleksander
+Lukašenko	mte:Npfsa	Lukašenka
+je	mte:Va-r3s-n	biti
+Rusijo	mte:Npfsa	Rusija
+zato	mte:Rgp	zato
+pozval	mte:Vmep-sm	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+plača	mte:Vmer3s	plačati
+še	mte:Q	še
+preostali	mte:Appmsay	preostal
+del	mte:Ncmsan	del
+dolga	mte:Agpfsn	dolg
+.	mte:Z	.
+Rusko	mte:Agpnsn	ruski
+-	mte:Z	-
+beloruski	mte:Agpmsay	beloruski
+spor	mte:Ncmsan	spor
+so	mte:Va-r3p-n	biti
+pozorno	mte:Rgp	pozorno
+spremljali	mte:Vmpp-pm	spremljati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+.	mte:Z	.
+Več	mte:Rgc	več
+evropskih	mte:Agpfpg	evropski
+držav	mte:Ncfpg	država
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+tudi	mte:Q	tudi
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+rusko	mte:Agpnsn	ruski
+-	mte:Z	-
+ukrajinskega	mte:Agpmsg	ukrajinski
+spora	mte:Ncmsg	spor
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+lanskega	mte:Agpnsg	lanski
+leta	mte:Ncnsg	leto
+namreč	mte:Cc	namreč
+že	mte:Q	že
+ostalo	mte:Vmep-sn	ostati
+brez	mte:Sg	brez
+ruskega	mte:Agpmsg	ruski
+plina	mte:Ncmsg	plin
+.	mte:Z	.
+Nekatere	mte:Pi-fpn	nekateri
+države	mte:Ncfpn	država
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+zaradi	mte:Sg	zaradi
+tega	mte:Pd-nsg	ta
+resno	mte:Rgp	resno
+prizadete	mte:Appfpn	prizadet
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+Rusija	mte:Npfsn	Rusija
+dobavo	mte:Ncfsa	dobava
+plina	mte:Ncmsg	plin
+ustavila	mte:Vmep-sf	ustaviti
+sredi	mte:Sg	sredi
+zime	mte:Ncfsg	zima

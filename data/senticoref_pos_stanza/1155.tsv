@@ -1,131 +1,170 @@
-token	tag
-Novi	Agpmpn
-nadzorniki	Ncmpn
-velenjskega	Agpnsg
-Gorenja	Npnsg
-so	Va-r3p-n
-nastopili	Vmep-pm
-štiriletni	Agpmsay
-mandat	Ncmsan
-.	Z
-Vodi	Vmpr3s
-jih	Pp3mpa--y
-Uroš	Npmsn
-Slavinec	Npmsn
-,	Z
-njegova	Ps3mdnsm
-namestnika	Ncmdn
-sta	Va-r3d-n
-Maja	Npfsn
-Makovec	Npfsn
-Brenčič	Npfsn
-in	Cc
-Krešimir	Npmsn
-Martinjak	Npmsn
-.	Z
-Na	Sl
-ustanovni	Agpfsl
-seji	Ncfsl
-novega	Agpmsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-Gorenja	Npnsg
-so	Va-r3p-n
-za	Sa
-predsednika	Ncmsay
-sveta	Ncmsg
-izvolili	Vmep-pm
-Uroša	Npmsay
-Slavinca	Npmsg
-,	Z
-namestnika	Ncmsn
-pa	Cc
-sta	Va-r3d-n
-postala	Vmep-dm
-Maja	Npfsn
-Makovec	Npmsn
-Brenčič	Npmsn
-in	Cc
-Krešimir	Npmsn
-Martinjak	Npmsn
-.	Z
-Nadzorniki	Ncmpn
-so	Va-r3p-n
-danes	Rgp
-tudi	Q
-nastopili	Vmep-pm
-svoj	Px-msa
-štiriletni	Agpmsay
-mandat	Ncmsan
-,	Z
-je	Va-r3s-n
-družba	Ncfsn
-Gorenja	Npnsg
-sporočila	Vmep-sf
-prek	Sg
-spletnih	Agpfpg
-strani	Ncfpg
-Ljubljanske	Agpfsg
-borze	Ncfsg
-.	Z
-Nadzorni	Agpmsay
-svet	Ncmsan
-poleg	Sg
-naštetih	Appmpg
-sestavljajo	Vmpr3p
-še	Q
-Drago	Npmsn
-Krenker	Npmsn
-,	Z
-Peter	Npmsn
-Kobal	Npmsn
-,	Z
-Jure	Npmsn
-Slemenik	Npmsn
-,	Z
-Peter	Npmsn
-Kraljič	Npmsn
-,	Z
-Keith	Npmsn
-Miles	Npmsn
-,	Z
-Marcel	Npmsn
-van	Npmsn
-Asse	Npmsn
-in	Cc
-Bernard	Npmsn
-C	Npmsn
-.	Z
-Pasquier	Npmsn
-.	Z
-Skupščina	Ncfsn
-velenjskega	Agpnsg
-podjetja	Ncnsg
-je	Va-r3s-n
-maja	Ncmsg
-letos	Rgp
-potrdila	Vmep-sf
-spremembo	Ncfsa
-statuta	Ncmsg
-,	Z
-tako	Cc
-da	Cs
-ima	Vmpr3s-n
-družba	Ncfsn
-po	Sl
-novem	Agpnsl
-v	Sl
-nadzornem	Agpmsl
-svetu	Ncmsl
-šest	Mlc-pa
-predstavnikov	Ncmpg
-kapitala	Ncmsg
-in	Cc
-štiri	Mlcmpa
-predstavnike	Ncmpa
-delavcev	Ncmpg
-.	Z
-Kdo	Pq-msn
-je	Va-r3s-n
-Slavinec	Npmsn
-?	Z
+token	tag	lemma
+Novi	mte:Agpmpn	nov
+nadzorniki	mte:Ncmpn	nadzornik
+velenjskega	mte:Agpnsg	velenjski
+Gorenja	mte:Npnsg	gorenje
+so	mte:Va-r3p-n	biti
+nastopili	mte:Vmep-pm	nastopiti
+štiriletni	mte:Agpmsay	štirileten
+mandat	mte:Ncmsan	mandat
+.	mte:Z	.
+Vodi	mte:Vmpr3s	voditi
+jih	mte:Pp3mpa--y	on
+Uroš	mte:Npmsn	Uroš
+Slavinec	mte:Npmsn	Slavinec
+,	mte:Z	,
+njegova	mte:Ps3mdnsm	njegov
+namestnika	mte:Ncmdn	namestnik
+sta	mte:Va-r3d-n	biti
+Maja	mte:Npfsn	Maja
+Makovec	mte:Npfsn	Makovec
+Brenčič	mte:Npfsn	Brenčič
+in	mte:Cc	in
+Krešimir	mte:Npmsn	Krešimir
+Martinjak	mte:Npmsn	Martinjak
+.	mte:Z	.
+Na	mte:Sl	na
+ustanovni	mte:Agpfsl	ustanoven
+seji	mte:Ncfsl	seja
+novega	mte:Agpmsg	nov
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Gorenja	mte:Npnsg	gorenje
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+predsednika	mte:Ncmsay	predsednik
+sveta	mte:Ncmsg	svet
+izvolili	mte:Vmep-pm	izvoliti
+Uroša	mte:Npmsay	Uroša
+Slavinca	mte:Npmsg	Slavinca
+,	mte:Z	,
+namestnika	mte:Ncmsn	namestnik
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+postala	mte:Vmep-dm	postati
+Maja	mte:Npfsn	Maja
+Makovec	mte:Npmsn	Makovec
+Brenčič	mte:Npmsn	Brenčič
+in	mte:Cc	in
+Krešimir	mte:Npmsn	Krešimir
+Martinjak	mte:Npmsn	Martinjak
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+tudi	mte:Q	tudi
+nastopili	mte:Vmep-pm	nastopiti
+svoj	mte:Px-msa	svoj
+štiriletni	mte:Agpmsay	štirileten
+mandat	mte:Ncmsan	mandat
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+Gorenja	mte:Npnsg	gorenje
+sporočila	mte:Vmep-sf	sporočiti
+prek	mte:Sg	prek
+spletnih	mte:Agpfpg	spleten
+strani	mte:Ncfpg	stran
+Ljubljanske	mte:Agpfsg	ljubljanski
+borze	mte:Ncfsg	borza
+.	mte:Z	.
+Nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+poleg	mte:Sg	poleg
+naštetih	mte:Appmpg	naštet
+sestavljajo	mte:Vmpr3p	sestavljati
+še	mte:Q	še
+Drago	mte:Npmsn	Drago
+Krenker	mte:Npmsn	Krenker
+,	mte:Z	,
+Peter	mte:Npmsn	Peter
+Kobal	mte:Npmsn	Kobal
+,	mte:Z	,
+Jure	mte:Npmsn	Jure
+Slemenik	mte:Npmsn	Slemenik
+,	mte:Z	,
+Peter	mte:Npmsn	Peter
+Kraljič	mte:Npmsn	Kraljič
+,	mte:Z	,
+Keith	mte:Npmsn	Keith
+Miles	mte:Npmsn	Miles
+,	mte:Z	,
+Marcel	mte:Npmsn	Marcel
+van	mte:Npmsn	van
+Asse	mte:Npmsn	Asse
+in	mte:Cc	in
+Bernard	mte:Npmsn	Bernard
+C	mte:Npmsn	C
+.	mte:Z	.
+Pasquier	mte:Npmsn	Pasquier
+.	mte:Z	.
+Skupščina	mte:Ncfsn	skupščina
+velenjskega	mte:Agpnsg	velenjski
+podjetja	mte:Ncnsg	podjetje
+je	mte:Va-r3s-n	biti
+maja	mte:Ncmsg	maj
+letos	mte:Rgp	letos
+potrdila	mte:Vmep-sf	potrditi
+spremembo	mte:Ncfsa	sprememba
+statuta	mte:Ncmsg	statuta
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+družba	mte:Ncfsn	družba
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+v	mte:Sl	v
+nadzornem	mte:Agpmsl	nadzoren
+svetu	mte:Ncmsl	svet
+šest	mte:Mlc-pa	šest
+predstavnikov	mte:Ncmpg	predstavnik
+kapitala	mte:Ncmsg	kapital
+in	mte:Cc	in
+štiri	mte:Mlcmpa	štirje
+predstavnike	mte:Ncmpa	predstavnik
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Kdo	mte:Pq-msn	kdo
+je	mte:Va-r3s-n	biti
+Slavinec	mte:Npmsn	Slavinec
+?	mte:Z	?
+Slavinec	mte:Npmsn	Slavinec
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+1990	mte:Mdc	1990
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+družbe	mte:Ncfsg	družba
+Helios	mte:Npmsn	Helios
+Domžale	mte:Npfsn	Domžale
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+skupščine	mte:Ncfsg	skupščina
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+GZS	mte:Npmsg	GZS
+,	mte:Z	,
+leta	mte:Ncnsg	leto
+1997	mte:Mdc	1997
+je	mte:Va-r3s-n	biti
+prejel	mte:Vmep-sm	prejeti
+nagrado	mte:Ncfsa	nagrada
+GZS	mte:Npmsg	GZS
+za	mte:Sa	za
+izjemne	mte:Agpmpa	izjemen
+dosežke	mte:Ncmpa	dosežek
+v	mte:Sl	v
+gospodarstvu	mte:Ncnsl	gospodarstvo
+in	mte:Cc	in
+leta	mte:Ncnsg	leto
+2006	mte:Mdc	2006
+priznanje	mte:Ncnsa	priznanje
+za	mte:Sa	za
+managersko	mte:Agpfsa	managerski
+osebnost	mte:Ncfsa	osebnost
+leta	mte:Ncnsg	leto

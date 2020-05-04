@@ -1,947 +1,954 @@
-token	tag
-Direktor	Ncmsn
-Iniziative	Ncfsg
-Generali	Ncmpn
-96	Mdc
-Pierpaolo	Npmsn
-Cerani	Npmsn
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-da	Cs
-želi	Vmpr3s
-z	Si
-nakupom	Ncmsi
-Kolonela	Npmsg
-in	Cc
-s	Si
-tem	Pd-nsi
-podjetij	Ncnpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-ta	Pd-msn
-obvladuje	Vmpr3s
-,	Z
-prodreti	Vmen
-na	Sa
-tuje	Agpmpa
-trge	Ncmpa
-,	Z
-med	Si
-drugim	Mlpmsi
-bi	Va-c
-tudi	Q
-z	Si
-Radensko	Npfsi
-preplavil	Vmep-sm
-ZDA	Npfpg
-.	Z
-Pierpaolo	Npmsn
-Cerani	Npmsn
-Direktor	Ncmsn
-Iniziative	Npfsg
-Generali	Ncmpn
-96	Mdc
-Pierpaolo	Npmsn
-Cerani	Npmsn
-je	Va-r3s-n
-za	Sa
-Delo	Ncnsa
-povedal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-njegovo	Ps3nsnsm
-podjetje	Ncnsn
-kupilo	Vmep-sn
-30	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-Kolonela	Npmsg
-.	Z
-V	Sa
-Kolonel	Npmsan
-in	Cc
-verigo	Ncfsa
-precej	Rgp
-zadolženih	Appnpg
-podjetij	Ncnpg
-pa	Cc
-naj	Q
-bi	Va-c
-vstopil	Vmep-sm
-zaradi	Sg
-poslovne	Agpfsg
-priložnosti	Ncfsg
-.	Z
-Kljub	Sd
-velikim	Agpmpd
-dolgovom	Ncmpd
-ima	Vmpr3s-n
-narejen	Appmsnn
-sanacijski	Agpmsay
-načrt	Ncmsnn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-,	Z
-kot	Cs
-pravi	Vmbr3s
-,	Z
-lahko	Rgp
-uresniči	Vmer3s
-,	Z
-če	Cs
-bo	Va-f3s-n
-dobil	Vmep-sm
-nazaj	Rgp
-glasovalne	Agpfpa
-pravice	Ncfpa
-za	Sa
-Infond	Ncmsan
-Holding	Ncmsn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-zaradi	Sg
-suma	Ncmsg
-koncentracije	Ncfsg
-lastništva	Ncnsg
-zamrznil	Vmep-sm
-Urad	Ncmsn
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-Cerani	Npmsn
-povedal	Vmep-sm
-za	Sa
-Delo	Ncnsa
-,	Z
-je	Va-r3s-n
-za	Sa
-pridobitev	Ncfsa
-teh	Pd-fpg
-pravic	Ncfpg
-pripravljen	Appmsnn
-iti	Vmbn
-tudi	Q
-na	Sa
-Evropsko	Agpnsa
-sodišče	Ncnsa
-.	Z
-O	Sl
-tem	Pd-nsl
-pa	Cc
-se	Px------y
-namerava	Vmpr3s
-najprej	Rgs
-pogovoriti	Vmen
-z	Si
-ministrom	Ncmsi
-za	Sa
-finance	Ncfpa
-Francem	Npmsi
-Križaničem	Npmsi
-.	Z
-Napadli	Vmep-pm
-so	Va-r3p-n
-me	Pp1-sa--y
-,	Z
-da	Cs
-sem	Va-r1s-n
-italijanski	Agpmsny
-mafijec	Ncmsn
-,	Z
-ampak	Cc
-v	Sl
-resnici	Ncfsl
-sem	Va-r1s-n
-75	Mdc
--	Z
-odstotni	Agpmsny
-Slovenec	Npmsn
-,	Z
-torej	Rgp
-sem	Va-r1s-n
-slovenski	Agpmsny
-mafijec	Ncmsn
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Cerani	Npmsn
-,	Z
-ki	Cs
-napoveduje	Vmpr3s
-bitko	Ncfsa
-z	Si
-Uradom	Ncmsi
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-.	Z
-Križaniču	Npmsl
-namerava	Vmpr3s
-Cerani	Npmsa
-predstaviti	Vmen
-celotni	Agpmsay
-sanacijski	Agpmsay
-načrt	Ncmsan
-.	Z
-Meni	Vmpr3s
-,	Z
-da	Cs
-ima	Vmpr3s-n
-skupina	Ncfsn
-velik	Agpmsan
-potencial	Ncmsan
-,	Z
-ki	Cs
-pa	Cc
-ga	Pp3msa--y
-uničujejo	Vmpr3p
-razne	Agpfpn
-igrice	Ncfpn
-političnih	Agpfpg
-skupin	Ncfpg
-in	Cc
-medijev	Ncmpg
-.	Z
-Napadli	Vmep-pm
-so	Va-r3p-n
-me	Pp1-sa--y
-,	Z
-da	Cs
-sem	Va-r1s-n
-italijanski	Agpmsny
-mafijec	Ncmsn
-,	Z
-ampak	Cc
-v	Sl
-resnici	Ncfsl
-sem	Va-r1s-n
-75	Mdc
--	Z
-odstotni	Agpmsny
-Slovenec	Npmsn
-.	Z
-Torej	Rgp
-sem	Va-r1s-n
-slovenski	Agpmsny
-mafijec	Ncmsn
-,	Z
-pravi	Vmbr3s
-Cerani	Npmsn
-.	Z
-Za	Sa
-nakup	Ncmsan
-ni	Va-r3s-y
-bilo	Va-p-sn
-treba	Rgp
-veliko	Rgp
-denarja	Ncmsg
-Za	Sa
-italijanski	Agpmsay
-dnevnik	Ncmsan
-Il	Ncmsn
-Picolo	Npfsn
-pa	Cc
-je	Va-r3s-n
-Cerani	Npmsn
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-za	Sa
-nakup	Ncmsan
-omenjenega	Appmsg
-deleža	Ncmsg
-Kolonela	Npmsg
-ni	Va-r3s-y
-bilo	Va-p-sn
-treba	Rgp
-veliko	Rgp
-denarja	Ncmsg
-,	Z
-saj	Cc
-je	Va-r3s-n
-podjetje	Ncnsn
-zadolženo	Appnsn
-za	Sa
-kar	Rgp
-800	Mdc
-milijionov	Ncmpg
-evrov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-z	Si
-nakupom	Ncmsi
-tudi	Q
-prevzel	Vmep-sm
-.	Z
-Zavrnil	Vmep-sm
-je	Va-r3s-n
-namigovanja	Ncnpa
-,	Z
-da	Cs
-bi	Va-c
-za	Si
-nakupom	Ncmsi
-stala	Vmpp-sf
-kaka	Pq-fsn
-ameriška	Agpfsn
-družba	Ncfsn
-in	Cc
-zagotovil	Vmep-sm
-,	Z
-da	Cs
-posel	Ncmsn
-sklepa	Ncmsg
-le	Q
-njegov	Ps3msnsm
-holding	Ncmsn
-Iniziative	Ncfsg
-Generali	Ncmpn
-96	Mdc
-.	Z
-Pogajanja	Ncnsg
-o	Sl
-poslih	Ncmpl
-so	Va-r3p-n
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-trajala	Vmpp-pf
-tri	Mlcmpa
-mesece	Ncmpa
-.	Z
-Za	Sa
-tržaški	Agpmsay
-dnevnik	Ncmsan
-je	Va-r3s-n
-tudi	Q
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-do	Sg
-Radenske	Npfsg
-vedno	Rgp
-gojil	Vmpp-sm
-posebno	Agpfsa
-ljubezen	Ncfsa
-.	Z
-Ko	Cs
-sem	Va-r1s-n
-se	Px------y
-informiral	Vmbp-sm
-o	Sl
-možnostih	Ncfpl
-za	Sa
-njen	Ps3msasf
-nakup	Ncmsan
-,	Z
-sem	Va-r1s-n
-izvedel	Vmep-sm
-za	Sa
-težaven	Agpmsan
-položaj	Ncmsan
-Kolonela	Ncmsg
-.	Z
-Iz	Sg
-tega	Pd-nsg
-so	Va-r3p-n
-se	Px------y
-stvari	Ncfpn
-razvile	Vmep-pf
-naprej	Rgp
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-Cerani	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-še	Q
-dodal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-kupil	Vmep-sm
-tolikšen	Pd-msa
-delež	Ncmsan
-,	Z
-da	Cs
-z	Si
-njim	Pp3msi
-lahko	Rgp
-nadzoruje	Vmpr3s
-,	Z
-čeprav	Cs
-si	Px---d--y
-je	Va-r3s-n
-pridržal	Vmep-sm
-možnost	Ncfsa
-preveriti	Vmen
-nakup	Ncmsan
-stoodstotnega	Agpmsg
-deleža	Ncmsg
-.	Z
-Želi	Vmpr3s
-prodreti	Vmen
-na	Sa
-tuje	Agpmpa
-trge	Ncmpa
-Sam	Agpmsnn
-s	Si
-poslom	Ncmsi
-vidi	Vmbr3s
-priložnost	Ncfsa
-operacije	Ncfsg
-z	Si
-velikimi	Agpfpi
-možnostmi	Ncfpi
-za	Sa
-uspeh	Ncmsan
-,	Z
-ki	Cs
-je	Pp3fsg--y
-ne	Q
-gre	Vmbr3s
-zapraviti	Vmen
-,	Z
-saj	Cc
-gre	Vmbr3s
-za	Sa
-prestižne	Agpfpa
-znamke	Ncfpa
-in	Cc
-za	Sa
-visoko	Agpmpa
-kakovostne	Agpmpa
-proizvode	Ncmpa
-,	Z
-ki	Cs
-glede	Sg
-mineralne	Agpfsg
-vode	Ncfsg
-,	Z
-piva	Ncnsg
-in	Cc
-sadnih	Agpmpg
-sokov	Ncmpg
-pokrivajo	Vmpr3p
-90	Mdc
-odstotkov	Ncmpg
-slovenskega	Agpmsg
-trga	Ncmsg
-.	Z
-Povedal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-želi	Vmpr3s
-delati	Vmpn
-konkurenco	Ncfsa
-italijanskemu	Agpmsd
-San	Npmsd
-Pellegrinu	Npmsd
-in	Cc
-ZDA	Npfpd
-preplaviti	Vmen
-z	Si
-Radensko	Agpfsi
-.	Z
-Gre	Vmbr3s
-za	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-se	Px------y
-pomnoži	Vmer3s
-izvoz	Ncmsan
-in	Cc
-da	Cs
-se	Px------y
-te	Pd-mpa
-proizvode	Ncmpa
-prodaja	Vmpr3s
-po	Sl
-vsem	Pg-msl
-svetu	Ncmsl
-.	Z
-Radensko	Npfsa
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-danes	Rgp
-poznajo	Vmpr3p
-samo	Q
-v	Sl
-Furlaniji	Npfsl
--	Z
-Julijski	Agpfsl
-krajini	Ncfsl
-in	Cc
-Venetu	Npmsl
-,	Z
-predvsem	Q
-v	Sl
-ZDA	Npfpl
-,	Z
-sadne	Agpmpa
-sokove	Ncmpa
-Fructala	Npmsg
-pa	Cc
-po	Sl
-vsej	Pg-fsl
-Evropi	Npfsl
-.	Z
-Seveda	Q
-pa	Cc
-gre	Vmbr3s
-tudi	Q
-za	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-se	Px------y
-okrepi	Vmer3s
-uvoz	Ncmsan
-vseh	Pg-mpg
-teh	Pd-mpg
-proizvodov	Ncmpg
-v	Sa
-Italijo	Npfsa
-,	Z
-pravi	Vmbr3s
-Cerani	Npmsn
-in	Cc
-navaja	Vmpr3s
-možnost	Ncfsa
-selitve	Ncfsg
-sedeža	Ncmsg
-Kolonela	Npmsg
-iz	Sg
-Maribora	Npmsg
-v	Sa
-Ljubljano	Npfsa
-.	Z
-V	Sa
-slovensko	Agpfsa
-prestolnico	Ncfsa
-naj	Q
-bi	Va-c
-se	Px------y
-preselili	Vmep-pm
-tudi	Q
-nekateri	Pi-mpn
-sodelavci	Ncmpn
-tržaškega	Agpmsg
-podjetnika	Ncmsg
-.	Z
-Delo	Ncnsn
-in	Cc
-Večer	Ncmsan
-bosta	Va-f3d-n
-samostojna	Agpmdn
-Zatrdil	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-bo	Va-f3s-n
-v	Sl
-roku	Ncmsl
-enega	Mlpmsg
-meseca	Ncmsg
-pripravljen	Appmsnn
-celoten	Agpmsnn
-industrijski	Agpmsay
-načrt	Ncmsnn
-,	Z
-katerega	Pq-msg
-glavni	Agpfsn
-smernici	Ncfdn
-bosta	Va-f3d-n
-vsekakor	Q
-širjenje	Ncnsn
-slovenskih	Agpfpg
-znamk	Ncfpg
-in	Cc
-proizvodov	Ncmpg
-po	Sl
-vsem	Pg-msl
-svetu	Ncmsl
-ter	Cc
-ohranitev	Ncfsn
-vseh	Pg-npg
-delovnih	Agpnpg
-mest	Ncnpg
-.	Z
-Glede	Sg
-dnevnikov	Ncmpg
-Delo	Ncnsn
-in	Cc
-Večer	Ncmsn
-,	Z
-tržaški	Agpmsny
-podjetnik	Ncmsn
-pravi	Vmbr3s
-,	Z
-da	Cs
-ima	Vmpr3s-n
-prvi	Mlomsa
-499	Mdc
-zaposlenih	Appmpg
-,	Z
-od	Sg
-katerih	Pq-mpg
-je	Va-r3s-n
-400	Mdc
-novinarjev	Ncmpg
-,	Z
-in	Cc
-ustvarja	Vmpr3s
-pet	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-dobička	Ncmsg
-,	Z
-drugi	Mlpmsn
-pa	Cc
-ima	Vmpr3s-n
-280	Mdc
-zaposlenih	Appmpg
-.	Z
-Tudi	Q
-ta	Pd-npa
-delovna	Agpnpa
-mesta	Ncnpa
-bo	Va-f3s-n
-ohranil	Vmep-sm
-,	Z
-pri	Sl
-čemer	Pr-nsl
-dodaja	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-novinarjem	Ncmpd
-in	Cc
-urednikom	Ncmpd
-pustil	Vmep-sm
-čim	Rgp
-večjo	Agcfsa
-avtonomijo	Ncfsa
-.	Z
-Dolgovi	Ncmpn
-niso	Va-r3p-y
-glavna	Agpfsn
-skrb	Ncfsn
-,	Z
-glasovalne	Agpfpn
-pravice	Ncfpn
-so	Va-r3p-n
-večji	Agcmsny
-problem	Ncmsan
-Kolonel	Npmsn
-ima	Vmpr3s-n
-v	Sl
-lasti	Ncfsl
-78	Mdc
-odstotkov	Ncmpg
-Centra	Ncmsg
-naložb	Ncfpg
-,	Z
-omenjena	Appfsn
-družba	Ncfsn
-pa	Cc
-je	Va-r3s-n
-71	Mdc
--	Z
-odstotna	Agpfsn
-lastnica	Ncfsn
-Infond	Ncmsn
-Holdinga	Ncmsg
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-s	Si
-55	Mdc
--	Z
-odstotnim	Agpmsi
-deležem	Ncmsi
-večinski	Agpmsny
-lastnik	Ncmsn
-Pivovarne	Ncfsg
-Laško	Npnsn
-,	Z
-v	Sl
-lasti	Ncfsl
-pa	Cc
-ima	Vmpr3s-n
-tudi	Q
-24,9	Mdc
-odstotka	Ncmsg
-Mercatorja	Npmsg
-.	Z
-Kot	Cs
-pravi	Vmbr3s
-Cerani	Npmsn
-,	Z
-dolgovi	Ncmpn
-niso	Va-r3p-y
-glavna	Agpfsn
-težava	Ncfsn
-skupine	Ncfsg
-,	Z
-čeprav	Cs
-so	Va-r3p-n
-veliki	Agpmpn
-.	Z
-Huje	Rgc
-se	Px------y
-mu	Pp3msd--y
-zdi	Vmpr3s
-,	Z
-da	Cs
-z	Si
-družbo	Ncfsi
-ni	Va-r3s-y
-mogoče	Agpnsn
-upravljati	Vmpn
-,	Z
-ker	Cs
-Infond	Ncmsn
-Holding	Npmsn
-v	Sl
-pivovarni	Ncfsl
-nima	Vmpr3s-y
-glasovalnih	Agpfpg
-pravic	Ncfpg
-.	Z
-Naši	Ps1mpnp
-italijanski	Agpmpn
-odvetniki	Ncmpn
-,	Z
-med	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-tudi	Q
-najboljši	Agsmsny
-strokovnjak	Ncmsn
-za	Sa
-konkurenčno	Agpnsa
-pravo	Ncnsa
-Luciano	Npmsa
-Vasques	Npmsn
-,	Z
-bodo	Va-f3p-n
-skupaj	Rgp
-s	Si
-slovensko	Agpfsi
-odvetniško	Agpfsi
-družbo	Ncfsi
-Čeferin	Npmsn
-proučili	Vmep-pm
-možnosti	Ncfpa
-,	Z
-kako	Rgp
-bi	Va-c
-sprostili	Vmep-pm
-uveljavljanje	Ncnsa
-naših	Ps1fpgp
-glasovalnih	Agpfpg
-pravic	Ncfpg
-v	Sl
-Laškem	Npnsl
-.	Z
-Če	Cs
-v	Sl
-zelo	Rgp
-kratkem	Agpmsl
-času	Ncmsl
-ne	Q
-bomo	Va-f1p-n
-rešili	Vmep-pm
-teh	Pd-npg
-vprašanj	Ncnpg
-s	Si
-tukajšnjim	Agpmsi
-Uradom	Ncmsi
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-,	Z
-bomo	Va-f1p-n
-šli	Vmbp-pm
-na	Sa
-Evropsko	Agpnsa
-sodišče	Ncnsa
-,	Z
-je	Va-r3s-n
-napovedal	Vmep-sm
-Cerani	Npmsa
-.	Z
-Manjšinski	Agpmsay
-delež	Ncmsan
-smo	Va-r1p-n
-kupili	Vmep-pm
-,	Z
-ker	Cs
-želimo	Vmpr1p
-najprej	Rgs
-analizirati	Vmbn
-stanje	Ncnsa
-v	Sl
-podjetju	Ncnsl
-Težko	Agpnsn
-je	Va-r3s-n
-govoriti	Vmpn
-o	Sl
-tem	Pd-nsl
-,	Z
-kaj	Pq-nsn
-je	Va-r3s-n
-v	Sl
-ozadju	Ncnsl
-.	Z
-Dejstvo	Ncnsn
-pa	Cc
-je	Va-r3s-n
-,	Z
-da	Cs
-resni	Agpmpn
-investitorji	Ncmpn
-v	Sa
-podjetje	Ncnsa
-vstopajo	Vmpr3p
-tako	Rgp
-,	Z
-da	Cs
-se	Px------y
-pogovorijo	Vmer3p
-tudi	Q
-z	Si
-bankami	Ncfpi
-,	Z
-kar	Pr-nsn
-pa	Cc
-se	Px------y
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-ni	Va-r3s-y
-zgodilo	Vmep-sn
-.	Z
-Gospodarski	Agpmsny
-minister	Ncmsn
-Matej	Npmsn
-Lahovnik	Npmsn
-Direktor	Ncmsn
-Iniziative	Npfsg
-Generali	Ncmpn
-96	Mdc
-pravi	Vmbr3s
-,	Z
-da	Cs
-ima	Vmpr3s-n
-Boško	Npmsn
-Šrot	Npmsn
-še	Q
-vedno	Rgp
-v	Sl
-lasti	Ncfsl
-svoj	Px-msa
-delež	Ncmsan
-,	Z
-torej	Rgp
-večinski	Agpmsny
-,	Z
-vendar	Cc
-ni	Va-r3s-y
-več	Q
-dejaven	Agpmsnn
-v	Sl
-skupini	Ncfsl
-.	Z
-Kot	Cs
-pravi	Vmbr3s
-,	Z
-večine	Ncfsg
-v	Sl
-Kolonelu	Ncmsl
-niso	Va-r3p-y
-kupili	Vmep-pm
-,	Z
-ker	Cs
-morajo	Vmpr3p
-najprej	Rgs
-pogledati	Vmen
-in	Cc
-analizirati	Vmbn
-skupino	Ncfsa
-od	Sg
-znotraj	Sg
-.	Z
-Predvsem	Q
-zato	Rgp
-,	Z
-ker	Cs
-ne	Q
-moremo	Vmpr1p
-izvrševati	Vmpn
-upravljavskih	Agpfpg
-pravic	Ncfpg
-v	Sl
-Pivovarni	Ncfsl
-Laško	Npnsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-napovedal	Vmep-sm
-,	Z
-da	Cs
-po	Sl
-pregledu	Ncmsl
-obstaja	Vmpr3s
-tudi	Q
-možnost	Ncfsn
-,	Z
-da	Cs
-bi	Va-c
-pozneje	Rgc
-dokupili	Vmep-pm
-preostali	Appmsay
-delež	Ncmsan
-.	Z
-Skupina	Ncfsn
-Iniziative	Agpfpn
-Generali	Ncmpn
-96	Mdc
-se	Px------y
-primarno	Rgp
-ukvarja	Vmpr3s
-z	Si
-zdravili	Ncnpi
-.	Z
-So	Va-r3p-n
-največji	Agsmsny
-proizvajalec	Ncmsn
-infuzij	Ncmpg
-v	Sl
-Italiji	Npfsl
-izdelajo	Vmer3p
-okoli	Rgp
-80	Mdc
-milijonov	Ncmpg
-kosov	Ncmpg
-letno	Rgp
-.	Z
+token	tag	lemma
+Direktor	mte:Ncmsn	direktor
+Iniziative	mte:Ncfsg	iniziativa
+Generali	mte:Ncmpn	general
+96	mte:Mdc	96
+Pierpaolo	mte:Npmsn	Pierpaolo
+Cerani	mte:Npmsn	Cerani
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+želi	mte:Vmpr3s	želeti
+z	mte:Si	z
+nakupom	mte:Ncmsi	nakup
+Kolonela	mte:Npmsg	Kolonel
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+ta	mte:Pd-msn	ta
+obvladuje	mte:Vmpr3s	obvladovati
+,	mte:Z	,
+prodreti	mte:Vmen	prodreti
+na	mte:Sa	na
+tuje	mte:Agpmpa	tuj
+trge	mte:Ncmpa	trg
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+bi	mte:Va-c	biti
+tudi	mte:Q	tudi
+z	mte:Si	z
+Radensko	mte:Npfsi	Radensko
+preplavil	mte:Vmep-sm	preplaviti
+ZDA	mte:Npfpg	ZDA
+.	mte:Z	.
+Pierpaolo	mte:Npmsn	Pierpaolo
+Cerani	mte:Npmsn	Cerani
+Direktor	mte:Ncmsn	direktor
+Iniziative	mte:Npfsg	Iniziative
+Generali	mte:Ncmpn	general
+96	mte:Mdc	96
+Pierpaolo	mte:Npmsn	Pierpaolo
+Cerani	mte:Npmsn	Cerani
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Delo	mte:Ncnsa	delo
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+njegovo	mte:Ps3nsnsm	njegov
+podjetje	mte:Ncnsn	podjetje
+kupilo	mte:Vmep-sn	kupiti
+30	mte:Mdc	30
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+Kolonela	mte:Npmsg	Kolonel
+.	mte:Z	.
+V	mte:Sa	v
+Kolonel	mte:Npmsan	Kolonel
+in	mte:Cc	in
+verigo	mte:Ncfsa	veriga
+precej	mte:Rgp	precej
+zadolženih	mte:Appnpg	zadolžen
+podjetij	mte:Ncnpg	podjetje
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+vstopil	mte:Vmep-sm	vstopiti
+zaradi	mte:Sg	zaradi
+poslovne	mte:Agpfsg	posloven
+priložnosti	mte:Ncfsg	priložnost
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+velikim	mte:Agpmpd	velik
+dolgovom	mte:Ncmpd	dolg
+ima	mte:Vmpr3s-n	imeti
+narejen	mte:Appmsnn	narejen
+sanacijski	mte:Agpmsay	sanacijski
+načrt	mte:Ncmsnn	načrt
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+,	mte:Z	,
+kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+uresniči	mte:Vmer3s	uresničiti
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+dobil	mte:Vmep-sm	dobiti
+nazaj	mte:Rgp	nazaj
+glasovalne	mte:Agpfpa	glasovalen
+pravice	mte:Ncfpa	pravica
+za	mte:Sa	za
+Infond	mte:Ncmsan	infond
+Holding	mte:Ncmsn	holding
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+suma	mte:Ncmsg	suma
+koncentracije	mte:Ncfsg	koncentracija
+lastništva	mte:Ncnsg	lastništvo
+zamrznil	mte:Vmep-sm	zamrzniti
+Urad	mte:Ncmsn	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Cerani	mte:Npmsn	Cerani
+povedal	mte:Vmep-sm	povedati
+za	mte:Sa	za
+Delo	mte:Ncnsa	delo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+pridobitev	mte:Ncfsa	pridobitev
+teh	mte:Pd-fpg	ta
+pravic	mte:Ncfpg	pravica
+pripravljen	mte:Appmsnn	pripravljen
+iti	mte:Vmbn	iti
+tudi	mte:Q	tudi
+na	mte:Sa	na
+Evropsko	mte:Agpnsa	evropski
+sodišče	mte:Ncnsa	sodišče
+.	mte:Z	.
+O	mte:Sl	o
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+se	mte:Px------y	se
+namerava	mte:Vmpr3s	nameravati
+najprej	mte:Rgs	najprej
+pogovoriti	mte:Vmen	pogovoriti
+z	mte:Si	z
+ministrom	mte:Ncmsi	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Francem	mte:Npmsi	Franc
+Križaničem	mte:Npmsi	Križanič
+.	mte:Z	.
+Napadli	mte:Vmep-pm	napasti
+so	mte:Va-r3p-n	biti
+me	mte:Pp1-sa--y	jaz
+,	mte:Z	,
+da	mte:Cs	da
+sem	mte:Va-r1s-n	biti
+italijanski	mte:Agpmsny	italijanski
+mafijec	mte:Ncmsn	mafijec
+,	mte:Z	,
+ampak	mte:Cc	ampak
+v	mte:Sl	v
+resnici	mte:Ncfsl	resnica
+sem	mte:Va-r1s-n	biti
+75	mte:Mdc	75
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+Slovenec	mte:Npmsn	Slovenec
+,	mte:Z	,
+torej	mte:Rgp	torej
+sem	mte:Va-r1s-n	biti
+slovenski	mte:Agpmsny	slovenski
+mafijec	mte:Ncmsn	mafijec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Cerani	mte:Npmsn	Cerani
+,	mte:Z	,
+ki	mte:Cs	ki
+napoveduje	mte:Vmpr3s	napovedovati
+bitko	mte:Ncfsa	bitka
+z	mte:Si	z
+Uradom	mte:Ncmsi	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+.	mte:Z	.
+Križaniču	mte:Npmsl	Križanič
+namerava	mte:Vmpr3s	nameravati
+Cerani	mte:Npmsa	Cerani
+predstaviti	mte:Vmen	predstaviti
+celotni	mte:Agpmsay	celoten
+sanacijski	mte:Agpmsay	sanacijski
+načrt	mte:Ncmsan	načrt
+.	mte:Z	.
+Meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+skupina	mte:Ncfsn	skupina
+velik	mte:Agpmsan	velik
+potencial	mte:Ncmsan	potencial
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+uničujejo	mte:Vmpr3p	uničevati
+razne	mte:Agpfpn	razen
+igrice	mte:Ncfpn	igrica
+političnih	mte:Agpfpg	političen
+skupin	mte:Ncfpg	skupina
+in	mte:Cc	in
+medijev	mte:Ncmpg	medij
+.	mte:Z	.
+Napadli	mte:Vmep-pm	napasti
+so	mte:Va-r3p-n	biti
+me	mte:Pp1-sa--y	jaz
+,	mte:Z	,
+da	mte:Cs	da
+sem	mte:Va-r1s-n	biti
+italijanski	mte:Agpmsny	italijanski
+mafijec	mte:Ncmsn	mafijec
+,	mte:Z	,
+ampak	mte:Cc	ampak
+v	mte:Sl	v
+resnici	mte:Ncfsl	resnica
+sem	mte:Va-r1s-n	biti
+75	mte:Mdc	75
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+Slovenec	mte:Npmsn	Slovenec
+.	mte:Z	.
+Torej	mte:Rgp	torej
+sem	mte:Va-r1s-n	biti
+slovenski	mte:Agpmsny	slovenski
+mafijec	mte:Ncmsn	mafijec
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Cerani	mte:Npmsn	Cerani
+.	mte:Z	.
+Za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+veliko	mte:Rgp	veliko
+denarja	mte:Ncmsg	denar
+Za	mte:Sa	za
+italijanski	mte:Agpmsay	italijanski
+dnevnik	mte:Ncmsan	dnevnik
+Il	mte:Ncmsn	Il
+Picolo	mte:Npfsn	Picolo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Cerani	mte:Npmsn	Cerani
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+omenjenega	mte:Appmsg	omenjen
+deleža	mte:Ncmsg	delež
+Kolonela	mte:Npmsg	Kolonel
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+veliko	mte:Rgp	veliko
+denarja	mte:Ncmsg	denar
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+zadolženo	mte:Appnsn	zadolžen
+za	mte:Sa	za
+kar	mte:Rgp	kar
+800	mte:Mdc	800
+milijionov	mte:Ncmpg	milijion
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+nakupom	mte:Ncmsi	nakup
+tudi	mte:Q	tudi
+prevzel	mte:Vmep-sm	prevzeti
+.	mte:Z	.
+Zavrnil	mte:Vmep-sm	zavrniti
+je	mte:Va-r3s-n	biti
+namigovanja	mte:Ncnpa	namigovanje
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+za	mte:Si	za
+nakupom	mte:Ncmsi	nakup
+stala	mte:Vmpp-sf	stati
+kaka	mte:Pq-fsn	kak
+ameriška	mte:Agpfsn	ameriški
+družba	mte:Ncfsn	družba
+in	mte:Cc	in
+zagotovil	mte:Vmep-sm	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+posel	mte:Ncmsn	posel
+sklepa	mte:Ncmsg	sklep
+le	mte:Q	le
+njegov	mte:Ps3msnsm	njegov
+holding	mte:Ncmsn	holding
+Iniziative	mte:Ncfsg	iniziativa
+Generali	mte:Ncmpn	general
+96	mte:Mdc	96
+.	mte:Z	.
+Pogajanja	mte:Ncnsg	pogajanje
+o	mte:Sl	o
+poslih	mte:Ncmpl	posel
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+trajala	mte:Vmpp-pf	trajati
+tri	mte:Mlcmpa	trije
+mesece	mte:Ncmpa	mesec
+.	mte:Z	.
+Za	mte:Sa	za
+tržaški	mte:Agpmsay	tržaški
+dnevnik	mte:Ncmsan	dnevnik
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+Radenske	mte:Npfsg	Radenska
+vedno	mte:Rgp	vedno
+gojil	mte:Vmpp-sm	gojiti
+posebno	mte:Agpfsa	poseben
+ljubezen	mte:Ncfsa	ljubezen
+.	mte:Z	.
+Ko	mte:Cs	ko
+sem	mte:Va-r1s-n	biti
+se	mte:Px------y	se
+informiral	mte:Vmbp-sm	informirati
+o	mte:Sl	o
+možnostih	mte:Ncfpl	možnost
+za	mte:Sa	za
+njen	mte:Ps3msasf	njen
+nakup	mte:Ncmsan	nakup
+,	mte:Z	,
+sem	mte:Va-r1s-n	biti
+izvedel	mte:Vmep-sm	izvedeti
+za	mte:Sa	za
+težaven	mte:Agpmsan	težaven
+položaj	mte:Ncmsan	položaj
+Kolonela	mte:Ncmsg	kolonel
+.	mte:Z	.
+Iz	mte:Sg	iz
+tega	mte:Pd-nsg	ta
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+stvari	mte:Ncfpn	stvar
+razvile	mte:Vmep-pf	razviti
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Cerani	mte:Npmsn	Cerani
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+kupil	mte:Vmep-sm	kupiti
+tolikšen	mte:Pd-msa	tolikšen
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+da	mte:Cs	da
+z	mte:Si	z
+njim	mte:Pp3msi	on
+lahko	mte:Rgp	lahko
+nadzoruje	mte:Vmpr3s	nadzorovati
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+pridržal	mte:Vmep-sm	pridržati
+možnost	mte:Ncfsa	možnost
+preveriti	mte:Vmen	preveriti
+nakup	mte:Ncmsan	nakup
+stoodstotnega	mte:Agpmsg	stoodstoten
+deleža	mte:Ncmsg	delež
+.	mte:Z	.
+Želi	mte:Vmpr3s	želeti
+prodreti	mte:Vmen	prodreti
+na	mte:Sa	na
+tuje	mte:Agpmpa	tuj
+trge	mte:Ncmpa	trg
+Sam	mte:Agpmsnn	sam
+s	mte:Si	z
+poslom	mte:Ncmsi	posel
+vidi	mte:Vmbr3s	videti
+priložnost	mte:Ncfsa	priložnost
+operacije	mte:Ncfsg	operacija
+z	mte:Si	z
+velikimi	mte:Agpfpi	velik
+možnostmi	mte:Ncfpi	možnost
+za	mte:Sa	za
+uspeh	mte:Ncmsan	uspeh
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Pp3fsg--y	on
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+zapraviti	mte:Vmen	zapraviti
+,	mte:Z	,
+saj	mte:Cc	saj
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+prestižne	mte:Agpfpa	prestižen
+znamke	mte:Ncfpa	znamka
+in	mte:Cc	in
+za	mte:Sa	za
+visoko	mte:Agpmpa	visok
+kakovostne	mte:Agpmpa	kakovosten
+proizvode	mte:Ncmpa	proizvod
+,	mte:Z	,
+ki	mte:Cs	ki
+glede	mte:Sg	glede
+mineralne	mte:Agpfsg	mineralen
+vode	mte:Ncfsg	voda
+,	mte:Z	,
+piva	mte:Ncnsg	pivo
+in	mte:Cc	in
+sadnih	mte:Agpmpg	saden
+sokov	mte:Ncmpg	sok
+pokrivajo	mte:Vmpr3p	pokrivati
+90	mte:Mdc	90
+odstotkov	mte:Ncmpg	odstotek
+slovenskega	mte:Agpmsg	slovenski
+trga	mte:Ncmsg	trg
+.	mte:Z	.
+Povedal	mte:Vmep-sm	povedati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+želi	mte:Vmpr3s	želeti
+delati	mte:Vmpn	delati
+konkurenco	mte:Ncfsa	konkurenca
+italijanskemu	mte:Agpmsd	italijanski
+San	mte:Npmsd	San
+Pellegrinu	mte:Npmsd	Pellegrin
+in	mte:Cc	in
+ZDA	mte:Npfpd	ZDA
+preplaviti	mte:Vmen	preplaviti
+z	mte:Si	z
+Radensko	mte:Agpfsi	radenski
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+pomnoži	mte:Vmer3s	pomnožiti
+izvoz	mte:Ncmsan	izvoz
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+te	mte:Pd-mpa	ta
+proizvode	mte:Ncmpa	proizvod
+prodaja	mte:Vmpr3s	prodajati
+po	mte:Sl	po
+vsem	mte:Pg-msl	ves
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+Radensko	mte:Npfsa	Radensko
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+danes	mte:Rgp	danes
+poznajo	mte:Vmpr3p	poznati
+samo	mte:Q	samo
+v	mte:Sl	v
+Furlaniji	mte:Npfsl	Furlanija
+-	mte:Z	-
+Julijski	mte:Agpfsl	julijski
+krajini	mte:Ncfsl	krajina
+in	mte:Cc	in
+Venetu	mte:Npmsl	Venet
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+sadne	mte:Agpmpa	saden
+sokove	mte:Ncmpa	sok
+Fructala	mte:Npmsg	Fructal
+pa	mte:Cc	pa
+po	mte:Sl	po
+vsej	mte:Pg-fsl	ves
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Seveda	mte:Q	seveda
+pa	mte:Cc	pa
+gre	mte:Vmbr3s	iti
+tudi	mte:Q	tudi
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+okrepi	mte:Vmer3s	okrepiti
+uvoz	mte:Ncmsan	uvoz
+vseh	mte:Pg-mpg	ves
+teh	mte:Pd-mpg	ta
+proizvodov	mte:Ncmpg	proizvod
+v	mte:Sa	v
+Italijo	mte:Npfsa	Italija
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Cerani	mte:Npmsn	Cerani
+in	mte:Cc	in
+navaja	mte:Vmpr3s	navajati
+možnost	mte:Ncfsa	možnost
+selitve	mte:Ncfsg	selitev
+sedeža	mte:Ncmsg	sedež
+Kolonela	mte:Npmsg	Kolonel
+iz	mte:Sg	iz
+Maribora	mte:Npmsg	Maribor
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+.	mte:Z	.
+V	mte:Sa	v
+slovensko	mte:Agpfsa	slovenski
+prestolnico	mte:Ncfsa	prestolnica
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+preselili	mte:Vmep-pm	preseliti
+tudi	mte:Q	tudi
+nekateri	mte:Pi-mpn	nekateri
+sodelavci	mte:Ncmpn	sodelavec
+tržaškega	mte:Agpmsg	tržaški
+podjetnika	mte:Ncmsg	podjetnik
+.	mte:Z	.
+Delo	mte:Ncnsn	delo
+in	mte:Cc	in
+Večer	mte:Ncmsan	večer
+bosta	mte:Va-f3d-n	biti
+samostojna	mte:Agpmdn	samostojen
+Zatrdil	mte:Vmep-sm	zatrditi
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+roku	mte:Ncmsl	rok
+enega	mte:Mlpmsg	en
+meseca	mte:Ncmsg	mesec
+pripravljen	mte:Appmsnn	pripravljen
+celoten	mte:Agpmsnn	celoten
+industrijski	mte:Agpmsay	industrijski
+načrt	mte:Ncmsnn	načrt
+,	mte:Z	,
+katerega	mte:Pq-msg	kateri
+glavni	mte:Agpfsn	glaven
+smernici	mte:Ncfdn	smernica
+bosta	mte:Va-f3d-n	biti
+vsekakor	mte:Q	vsekakor
+širjenje	mte:Ncnsn	širjenje
+slovenskih	mte:Agpfpg	slovenski
+znamk	mte:Ncfpg	znamka
+in	mte:Cc	in
+proizvodov	mte:Ncmpg	proizvod
+po	mte:Sl	po
+vsem	mte:Pg-msl	ves
+svetu	mte:Ncmsl	svet
+ter	mte:Cc	ter
+ohranitev	mte:Ncfsn	ohranitev
+vseh	mte:Pg-npg	ves
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+.	mte:Z	.
+Glede	mte:Sg	glede
+dnevnikov	mte:Ncmpg	dnevnik
+Delo	mte:Ncnsn	delo
+in	mte:Cc	in
+Večer	mte:Ncmsn	večer
+,	mte:Z	,
+tržaški	mte:Agpmsny	tržaški
+podjetnik	mte:Ncmsn	podjetnik
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+prvi	mte:Mlomsa	prvi
+499	mte:Mdc	499
+zaposlenih	mte:Appmpg	zaposlen
+,	mte:Z	,
+od	mte:Sg	od
+katerih	mte:Pq-mpg	kateri
+je	mte:Va-r3s-n	biti
+400	mte:Mdc	400
+novinarjev	mte:Ncmpg	novinar
+,	mte:Z	,
+in	mte:Cc	in
+ustvarja	mte:Vmpr3s	ustvarjati
+pet	mte:Mlc-pa	pet
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+dobička	mte:Ncmsg	dobiček
+,	mte:Z	,
+drugi	mte:Mlpmsn	drug
+pa	mte:Cc	pa
+ima	mte:Vmpr3s-n	imeti
+280	mte:Mdc	280
+zaposlenih	mte:Appmpg	zaposlen
+.	mte:Z	.
+Tudi	mte:Q	tudi
+ta	mte:Pd-npa	ta
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+bo	mte:Va-f3s-n	biti
+ohranil	mte:Vmep-sm	ohraniti
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+dodaja	mte:Vmpr3s	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+novinarjem	mte:Ncmpd	novinar
+in	mte:Cc	in
+urednikom	mte:Ncmpd	urednik
+pustil	mte:Vmep-sm	pustiti
+čim	mte:Rgp	čim
+večjo	mte:Agcfsa	velik
+avtonomijo	mte:Ncfsa	avtonomija
+.	mte:Z	.
+Dolgovi	mte:Ncmpn	dolg
+niso	mte:Va-r3p-y	biti
+glavna	mte:Agpfsn	glaven
+skrb	mte:Ncfsn	skrb
+,	mte:Z	,
+glasovalne	mte:Agpfpn	glasovalen
+pravice	mte:Ncfpn	pravica
+so	mte:Va-r3p-n	biti
+večji	mte:Agcmsny	velik
+problem	mte:Ncmsan	problem
+Kolonel	mte:Npmsn	Kolonel
+ima	mte:Vmpr3s-n	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+78	mte:Mdc	78
+odstotkov	mte:Ncmpg	odstotek
+Centra	mte:Ncmsg	center
+naložb	mte:Ncfpg	naložba
+,	mte:Z	,
+omenjena	mte:Appfsn	omenjen
+družba	mte:Ncfsn	družba
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+71	mte:Mdc	71
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+lastnica	mte:Ncfsn	lastnica
+Infond	mte:Ncmsn	infond
+Holdinga	mte:Ncmsg	holdinga
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+55	mte:Mdc	55
+-	mte:Z	-
+odstotnim	mte:Agpmsi	odstoten
+deležem	mte:Ncmsi	delež
+večinski	mte:Agpmsny	večinski
+lastnik	mte:Ncmsn	lastnik
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+pa	mte:Cc	pa
+ima	mte:Vmpr3s-n	imeti
+tudi	mte:Q	tudi
+24,9	mte:Mdc	24,9
+odstotka	mte:Ncmsg	odstotek
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+Cerani	mte:Npmsn	Cerani
+,	mte:Z	,
+dolgovi	mte:Ncmpn	dolg
+niso	mte:Va-r3p-y	biti
+glavna	mte:Agpfsn	glaven
+težava	mte:Ncfsn	težava
+skupine	mte:Ncfsg	skupina
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+veliki	mte:Agpmpn	velik
+.	mte:Z	.
+Huje	mte:Rgc	hudo
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+zdi	mte:Vmpr3s	zdeti
+,	mte:Z	,
+da	mte:Cs	da
+z	mte:Si	z
+družbo	mte:Ncfsi	družba
+ni	mte:Va-r3s-y	biti
+mogoče	mte:Agpnsn	mogoč
+upravljati	mte:Vmpn	upravljati
+,	mte:Z	,
+ker	mte:Cs	ker
+Infond	mte:Ncmsn	infond
+Holding	mte:Npmsn	holding
+v	mte:Sl	v
+pivovarni	mte:Ncfsl	pivovarna
+nima	mte:Vmpr3s-y	imeti
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+.	mte:Z	.
+Naši	mte:Ps1mpnp	naš
+italijanski	mte:Agpmpn	italijanski
+odvetniki	mte:Ncmpn	odvetnik
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+najboljši	mte:Agsmsny	dober
+strokovnjak	mte:Ncmsn	strokovnjak
+za	mte:Sa	za
+konkurenčno	mte:Agpnsa	konkurenčen
+pravo	mte:Ncnsa	pravo
+Luciano	mte:Npmsa	Luciano
+Vasques	mte:Npmsn	Vasques
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+slovensko	mte:Agpfsi	slovenski
+odvetniško	mte:Agpfsi	odvetniški
+družbo	mte:Ncfsi	družba
+Čeferin	mte:Npmsn	Čeferin
+proučili	mte:Vmep-pm	proučiti
+možnosti	mte:Ncfpa	možnost
+,	mte:Z	,
+kako	mte:Rgp	kako
+bi	mte:Va-c	biti
+sprostili	mte:Vmep-pm	sprostiti
+uveljavljanje	mte:Ncnsa	uveljavljanje
+naših	mte:Ps1fpgp	naš
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+v	mte:Sl	v
+Laškem	mte:Npnsl	Laško
+.	mte:Z	.
+Če	mte:Cs	če
+v	mte:Sl	v
+zelo	mte:Rgp	zelo
+kratkem	mte:Agpmsl	kratek
+času	mte:Ncmsl	čas
+ne	mte:Q	ne
+bomo	mte:Va-f1p-n	biti
+rešili	mte:Vmep-pm	rešiti
+teh	mte:Pd-npg	ta
+vprašanj	mte:Ncnpg	vprašanje
+s	mte:Si	z
+tukajšnjim	mte:Agpmsi	tukajšnji
+Uradom	mte:Ncmsi	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+,	mte:Z	,
+bomo	mte:Va-f1p-n	biti
+šli	mte:Vmbp-pm	iti
+na	mte:Sa	na
+Evropsko	mte:Agpnsa	evropski
+sodišče	mte:Ncnsa	sodišče
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+Cerani	mte:Npmsa	Cerani
+.	mte:Z	.
+Manjšinski	mte:Agpmsay	manjšinski
+delež	mte:Ncmsan	delež
+smo	mte:Va-r1p-n	biti
+kupili	mte:Vmep-pm	kupiti
+,	mte:Z	,
+ker	mte:Cs	ker
+želimo	mte:Vmpr1p	želeti
+najprej	mte:Rgs	najprej
+analizirati	mte:Vmbn	analizirati
+stanje	mte:Ncnsa	stanje
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+Težko	mte:Agpnsn	težek
+je	mte:Va-r3s-n	biti
+govoriti	mte:Vmpn	govoriti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+ozadju	mte:Ncnsl	ozadje
+.	mte:Z	.
+Dejstvo	mte:Ncnsn	dejstvo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+resni	mte:Agpmpn	resen
+investitorji	mte:Ncmpn	investitor
+v	mte:Sa	v
+podjetje	mte:Ncnsa	podjetje
+vstopajo	mte:Vmpr3p	vstopati
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+pogovorijo	mte:Vmer3p	pogovoriti
+tudi	mte:Q	tudi
+z	mte:Si	z
+bankami	mte:Ncfpi	banka
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pa	mte:Cc	pa
+se	mte:Px------y	se
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+ni	mte:Va-r3s-y	biti
+zgodilo	mte:Vmep-sn	zgoditi
+.	mte:Z	.
+Gospodarski	mte:Agpmsny	gospodarski
+minister	mte:Ncmsn	minister
+Matej	mte:Npmsn	Matej
+Lahovnik	mte:Npmsn	Lahovnik
+Direktor	mte:Ncmsn	direktor
+Iniziative	mte:Npfsg	Iniziative
+Generali	mte:Ncmpn	general
+96	mte:Mdc	96
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+Boško	mte:Npmsn	Boško
+Šrot	mte:Npmsn	Šrot
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+svoj	mte:Px-msa	svoj
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+torej	mte:Rgp	torej
+večinski	mte:Agpmsny	večinski
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+dejaven	mte:Agpmsnn	dejaven
+v	mte:Sl	v
+skupini	mte:Ncfsl	skupina
+.	mte:Z	.
+Kot	mte:Cs	kot
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+večine	mte:Ncfsg	večina
+v	mte:Sl	v
+Kolonelu	mte:Ncmsl	kolonel
+niso	mte:Va-r3p-y	biti
+kupili	mte:Vmep-pm	kupiti
+,	mte:Z	,
+ker	mte:Cs	ker
+morajo	mte:Vmpr3p	morati
+najprej	mte:Rgs	najprej
+pogledati	mte:Vmen	pogledati
+in	mte:Cc	in
+analizirati	mte:Vmbn	analizirati
+skupino	mte:Ncfsa	skupina
+od	mte:Sg	od
+znotraj	mte:Sg	znotraj
+.	mte:Z	.
+Predvsem	mte:Q	predvsem
+zato	mte:Rgp	zato
+,	mte:Z	,
+ker	mte:Cs	ker
+ne	mte:Q	ne
+moremo	mte:Vmpr1p	moči
+izvrševati	mte:Vmpn	izvrševati
+upravljavskih	mte:Agpfpg	upravljavski
+pravic	mte:Ncfpg	pravica
+v	mte:Sl	v
+Pivovarni	mte:Ncfsl	pivovarna
+Laško	mte:Npnsn	Laško
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+po	mte:Sl	po
+pregledu	mte:Ncmsl	pregled
+obstaja	mte:Vmpr3s	obstajati
+tudi	mte:Q	tudi
+možnost	mte:Ncfsn	možnost
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+pozneje	mte:Rgc	pozno
+dokupili	mte:Vmep-pm	dokupiti
+preostali	mte:Appmsay	preostal
+delež	mte:Ncmsan	delež
+.	mte:Z	.
+Skupina	mte:Ncfsn	skupina
+Iniziative	mte:Agpfpn	Iniziativ
+Generali	mte:Ncmpn	general
+96	mte:Mdc	96
+se	mte:Px------y	se
+primarno	mte:Rgp	primarno
+ukvarja	mte:Vmpr3s	ukvarjati
+z	mte:Si	z
+zdravili	mte:Ncnpi	zdravilo
+.	mte:Z	.
+So	mte:Va-r3p-n	biti
+največji	mte:Agsmsny	velik
+proizvajalec	mte:Ncmsn	proizvajalec
+infuzij	mte:Ncmpg	infuzje
+v	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+izdelajo	mte:Vmer3p	izdelati
+okoli	mte:Rgp	okoli
+80	mte:Mdc	80
+milijonov	mte:Ncmpg	milijon
+kosov	mte:Ncmpg	kos
+letno	mte:Rgp	letno
+.	mte:Z	.
+Od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+imajo	mte:Vmpr3p-n	imeti
+70	mte:Mdc	70
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+prometa	mte:Ncmsg	promet

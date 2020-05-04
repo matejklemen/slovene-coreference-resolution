@@ -1,430 +1,458 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-V	Sa
-torek	Ncmsan
-je	Va-r3s-n
-Komisija	Ncfsn
-za	Sa
-preprečevanje	Ncnsa
-korupcije	Ncfsg
-predstavila	Vmep-sf
-spletno	Agpfsa
-aplikacijo	Ncfsa
-Supervizor	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-namenjena	Appfsn
-javnemu	Agpmsd
-pregledu	Ncmsd
-proračunskih	Agpmpg
-izdatkov	Ncmpg
-.	Z
-Predstavitev	Ncfsn
-je	Va-r3s-n
-v	Sl
-Sloveniji	Npfsl
-dvignila	Vmep-sf
-veliko	Rgp
-prahu	Ncmsg
-in	Cc
-povzročila	Vmep-sf
-izjemno	Rgp
-pozitiven	Agpmsan
-odziv	Ncmsan
-širše	Agcfsg
-javnosti	Ncfsg
-.	Z
-Spodbudne	Agpfpn
-kritike	Ncfpn
-pa	Cc
-niso	Va-r3p-y
-omejene	Appfpn
-zgolj	Q
-na	Sa
-domači	Agpmsay
-prostor	Ncmsan
-.	Z
-Proaktivni	Agpmsay
-pristop	Ncmsan
-k	Sd
-preprečevanju	Ncnsd
-korupcije	Ncfsg
-so	Va-r3p-n
-pohvalili	Vmep-pm
-tudi	Q
-hrvaški	Agpmpn
-mediji	Ncmpn
-,	Z
-opazili	Vmep-pm
-pa	Cc
-so	Va-r3p-n
-ga	Pp3msa--y
-celo	Q
-v	Sl
-ZDA	Npfpl
-.	Z
-Bravo	Npmsn
-za	Sa
-naše	Ps1mpap
-sosede	Ncmpa
-"	Z
-:	Z
-Hrvaški	Agpmpn
-mediji	Ncmpn
-navdušeni	Appmpn
-nad	Si
-slovensko	Agpfsi
-aplikacijo	Ncfsi
-SupervizorSupervizor	Ncmsn
-pohvalili	Vmep-pm
-tudi	Q
-v	Sl
-ZDA	Npfpl
-:	Z
-Takšne	Pd-fpa
-aplikacije	Ncfpa
-bi	Va-c
-potrebovali	Vmpp-pm
-v	Sl
-vseh	Pg-fpl
-državah	Ncfpl
-A	Cc
-Slovenija	Npfsn
-še	Q
-zdaleč	Rgp
-ni	Va-r3s-y
-edina	Agpfsn
-,	Z
-ki	Cs
-si	Px---d--y
-zaradi	Sg
-naraščajoče	Appfsg
-korupcije	Ncfsg
-želi	Vmpr3s
-povečati	Vmen
-transparentnost	Ncfsa
-poslovanja	Ncnsg
-javnih	Agpmpg
-organov	Ncmpg
-.	Z
-Prav	Q
-tako	Rgp
-pa	Cc
-ni	Va-r3s-y
-edina	Agpfsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-reševanja	Ncnsg
-problema	Ncmsg
-lotila	Vmep-sf
-na	Sa
-tak	Pd-msa
-način.Brazilski	Agpmsay
-spletni	Agpmsay
-portal	Ncmsan
-obratuje	Vmpr3s
-že	Q
-od	Sg
-leta	Ncnsg
-2004	Mdc
-,	Z
-vsebuje	Vmpr3s
-pa	Cc
-informacije	Ncfpa
-o	Sl
-finančni	Agpfsl
-strukturi	Ncfsl
-največjih	Agsmpg
-brazilskih	Agpmpg
-projektov	Ncmpg
-v	Sl
-novejšem	Agcnsl
-obdobju	Ncnsl
-–	Z
-svetovnega	Agpnsg
-prvenstva	Ncnsg
-v	Sl
-nogometu	Ncmsl
-2014	Mdc
-in	Cc
-poletnih	Agpfpg
-olimpijskih	Agpfpg
-iger	Ncfpg
-2016	Mdc
-.	Z
-Samo	Q
-v	Sl
-okviru	Ncmsl
-svetovnega	Agpnsg
-prvenstva	Ncnsg
-bo	Va-f3s-n
-Brazilija	Npfsn
-v	Sa
-športno	Agpfsa
-,	Z
-prometno	Agpfsa
-in	Cc
-turistično	Agpfsa
-infrastrukturo	Ncfsa
-investirala	Vmbp-sf
-preko	Sg
-20	Mdc
-milijard	Ncfpg
-brazilskih	Agpmpg
-realov	Ncmpg
-(	Z
-skoraj	Q
-9	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-)	Z
-,	Z
-visoki	Agpmpn
-zneski	Ncmpn
-pa	Cc
-bodo	Va-f3p-n
-potrebni	Agpmpn
-tudi	Q
-za	Sa
-posodobitev	Ncfsa
-infrastrukture	Ncfsg
-Ria	Npfsg
-de	Xf
-Janeira	Npmsg
-,	Z
-gostitelja	Ncmsg
-olimpijade	Ncfsg
-.	Z
-Poleg	Sg
-trenutno	Rgp
-najbolj	Rgs
-aktualnih	Agpmpg
-podatkov	Ncmpg
-pa	Cc
-so	Va-r3p-n
-brazilskim	Agpmpd
-državljanom	Ncmpd
-na	Sl
-spletu	Ncmsl
-dostopni	Agpmpn
-tudi	Q
-podatki	Ncmpn
-o	Sl
-ostalih	Appmpl
-državnih	Agpmpl
-izdatkih	Ncmpl
-,	Z
-in	Cc
-sicer	Q
-v	Sl
-roku	Ncmsl
-24	Mdc
-ur	Ncfpg
-od	Sg
-opravljene	Appfsg
-transakcije	Ncfsg
-.	Z
-Pravočasna	Agpfsn
-objava	Ncfsn
-podatkov	Ncmpg
-in	Cc
-učinkovit	Agpmsnn
-nadzor	Ncmsn
-sta	Va-r3d-n
-še	Q
-posebno	Rgp
-pomembna	Agpmdn
-ukrepa	Ncmdn
-v	Sl
-državah	Ncfpl
-,	Z
-kot	Cs
-je	Va-r3s-n
-Brazilija	Npfsn
-,	Z
-ki	Cs
-se	Px------y
-ukvarja	Vmpr3s
-z	Si
-visokimi	Agpfpi
-stopnjami	Ncfpi
-korupcije.Prizadevanje	Ncnsn
-za	Sa
-transparentnost	Ncfsa
-se	Px------y
-širi	Vmpr3s
-po	Sl
-svetu	Ncmsl
-Navdušenje	Ncnsn
-nad	Si
-projekti	Ncmpi
-,	Z
-ki	Cs
-povečujejo	Vmpr3p
-transparentnost	Ncfsa
-delovanja	Ncnsg
-javne	Agpfsg
-uprave	Ncfsg
-,	Z
-pa	Cc
-je	Va-r3s-n
-mogoče	Agpnsn
-opaziti	Vmen
-tudi	Q
-drugod	Rgp
-po	Sl
-svetu	Ncmsl
-.	Z
-Tako	Rgp
-je	Va-r3s-n
-Kenija	Npfsn
-prejšnji	Agpmsay
-mesec	Ncmsan
-postala	Vmep-sf
-prva	Mlofsn
-država	Ncfsn
-podsaharske	Agpfsg
-Afrike	Npfsg
-s	Si
-spletnim	Agpnsi
-portalom	Ncnsi
-,	Z
-ki	Cs
-vsebuje	Vmpr3s
-različne	Agpmpa
-vladne	Agpmpa
-podatke	Ncmpa
-.	Z
-Medtem	Rgp
-so	Va-r3p-n
-v	Sl
-Indiji	Npfsl
-vzpostavili	Vmep-pm
-ambiciozen	Agpmsan
-program	Ncmsan
-zagotavljanja	Ncnsg
-storitev	Ncfpg
-javne	Agpfsg
-uprave	Ncfsg
-v	Sl
-odmaknjenih	Appmpl
-predelih	Ncmpl
-s	Si
-pomočjo	Ncfsi
-mobilnih	Agpmpg
-telefonov	Ncmpg
-,	Z
-prav	Q
-tako	Rgp
-pa	Cc
-načrtujejo	Vmpr3p
-tudi	Q
-uvedbo	Ncfsa
-elektronske	Agpfsg
-javne	Agpfsg
-uprave	Ncfsg
-.	Z
-V	Sl
-Veliki	Agpfsl
-Britaniji	Npfsl
-je	Va-r3s-n
-prejšnji	Agpmsay
-mesec	Ncmsan
-premier	Ncmsn
-David	Npmsn
-Cameron	Npmsn
-javnim	Agpfpd
-agencijam	Ncfpd
-naložil	Vmep-sm
-javno	Agpfsa
-objavo	Ncfsa
-podatkov	Ncmpg
-s	Sg
-širokega	Agpnsg
-področja	Ncnsg
-javne	Agpfsg
-sfere	Ncfsg
-,	Z
-kot	Cs
-so	Va-r3p-n
-rezultati	Ncmpn
-izobraževalnih	Agpmpg
-programov	Ncmpg
-,	Z
-podatki	Ncmpn
-o	Sl
-učinkovitosti	Ncfsl
-zdravstvenih	Agpfpg
-ustanov	Ncfpg
-in	Cc
-tudi	Q
-vsi	Pg-mpn
-javni	Agpmpn
-izdatki	Ncmpn
-nad	Si
-zneskom	Ncmsi
-500	Mdc
-funtov	Ncmpg
-(	Z
-570	Mdc
-evrov	Ncmpg
-)	Z
-.	Z
-S	Si
-podobno	Agpfsi
-spletno	Agpfsi
-stranjo	Ncfsi
-,	Z
-USAspending	Ncmsn
-,	Z
-se	Px------y
-ponašajo	Vmpr3p
-tudi	Q
-ZDA	Npfpg
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-obenem	Rgp
-skupaj	Rgp
-z	Si
-Brazilijo	Npfsi
-ustanovile	Vmep-pf
-Partnerstvo	Ncnsa
-za	Sa
-odprto	Appfsa
-vlado	Ncfsa
-.	Z
-Iniciativa	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-bo	Va-f3s-n
-na	Sl
-naslednjem	Agpnsl
-srečanju	Ncnsl
-Združenih	Appmpg
-narodov	Ncmpg
-predstavil	Vmep-sm
-ameriški	Agpmsny
-predsednik	Ncmsn
-Barack	Npmsn
-Obama	Npmsn
-,	Z
-bo	Va-f3s-n
-namenjena	Appfsn
-spodbujanju	Ncnsd
-velikega	Agpmsg
-nabora	Ncmsg
-inovativnih	Agpfpg
-dejavnosti	Ncfpg
-pri	Sl
-zagotavljanju	Ncnsl
-transparentnega	Agpnsg
-delovanja	Ncnsg
-državnih	Agpfpg
-vlad	Ncfpg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+V	mte:Sa	v
+torek	mte:Ncmsan	torek
+je	mte:Va-r3s-n	biti
+Komisija	mte:Ncfsn	komisija
+za	mte:Sa	za
+preprečevanje	mte:Ncnsa	preprečevanje
+korupcije	mte:Ncfsg	korupcija
+predstavila	mte:Vmep-sf	predstaviti
+spletno	mte:Agpfsa	spleten
+aplikacijo	mte:Ncfsa	aplikacija
+Supervizor	mte:Npmsn	Supervizor
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+namenjena	mte:Appfsn	namenjen
+javnemu	mte:Agpmsd	javen
+pregledu	mte:Ncmsd	pregled
+proračunskih	mte:Agpmpg	proračunski
+izdatkov	mte:Ncmpg	izdatek
+.	mte:Z	.
+Predstavitev	mte:Ncfsn	predstavitev
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+dvignila	mte:Vmep-sf	dvigniti
+veliko	mte:Rgp	veliko
+prahu	mte:Ncmsg	prah
+in	mte:Cc	in
+povzročila	mte:Vmep-sf	povzročiti
+izjemno	mte:Rgp	izjemno
+pozitiven	mte:Agpmsan	pozitiven
+odziv	mte:Ncmsan	odziv
+širše	mte:Agcfsg	širok
+javnosti	mte:Ncfsg	javnost
+.	mte:Z	.
+Spodbudne	mte:Agpfpn	spodbuden
+kritike	mte:Ncfpn	kritika
+pa	mte:Cc	pa
+niso	mte:Va-r3p-y	biti
+omejene	mte:Appfpn	omejen
+zgolj	mte:Q	zgolj
+na	mte:Sa	na
+domači	mte:Agpmsay	domač
+prostor	mte:Ncmsan	prostor
+.	mte:Z	.
+Proaktivni	mte:Agpmsay	proaktiven
+pristop	mte:Ncmsan	pristop
+k	mte:Sd	k
+preprečevanju	mte:Ncnsd	preprečevanje
+korupcije	mte:Ncfsg	korupcija
+so	mte:Va-r3p-n	biti
+pohvalili	mte:Vmep-pm	pohvaliti
+tudi	mte:Q	tudi
+hrvaški	mte:Agpmpn	hrvaški
+mediji	mte:Ncmpn	medij
+,	mte:Z	,
+opazili	mte:Vmep-pm	opaziti
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+celo	mte:Q	celo
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+.	mte:Z	.
+Bravo	mte:Npmsn	Bravo
+za	mte:Sa	za
+naše	mte:Ps1mpap	naš
+sosede	mte:Ncmpa	soseda
+"	mte:Z	"
+:	mte:Z	:
+Hrvaški	mte:Agpmpn	hrvaški
+mediji	mte:Ncmpn	medij
+navdušeni	mte:Appmpn	navdušen
+nad	mte:Si	nad
+slovensko	mte:Agpfsi	slovenski
+aplikacijo	mte:Ncfsi	aplikacija
+SupervizorSupervizor	mte:Ncmsn	supervizorsupervizor
+pohvalili	mte:Vmep-pm	pohvaliti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+:	mte:Z	:
+Takšne	mte:Pd-fpa	takšen
+aplikacije	mte:Ncfpa	aplikacija
+bi	mte:Va-c	biti
+potrebovali	mte:Vmpp-pm	potrebovati
+v	mte:Sl	v
+vseh	mte:Pg-fpl	ves
+državah	mte:Ncfpl	država
+A	mte:Cc	a
+Slovenija	mte:Npfsn	Slovenija
+še	mte:Q	še
+zdaleč	mte:Rgp	zdaleč
+ni	mte:Va-r3s-y	biti
+edina	mte:Agpfsn	edin
+,	mte:Z	,
+ki	mte:Cs	ki
+si	mte:Px---d--y	se
+zaradi	mte:Sg	zaradi
+naraščajoče	mte:Appfsg	naraščajoč
+korupcije	mte:Ncfsg	korupcija
+želi	mte:Vmpr3s	želeti
+povečati	mte:Vmen	povečati
+transparentnost	mte:Ncfsa	transparentnost
+poslovanja	mte:Ncnsg	poslovanje
+javnih	mte:Agpmpg	javen
+organov	mte:Ncmpg	organ
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+edina	mte:Agpfsn	edin
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+reševanja	mte:Ncnsg	reševanje
+problema	mte:Ncmsg	problem
+lotila	mte:Vmep-sf	lotiti
+na	mte:Sa	na
+tak	mte:Pd-msa	tak
+način.Brazilski	mte:Agpmsay	način.Brazilski
+spletni	mte:Agpmsay	spleten
+portal	mte:Ncmsan	portala
+obratuje	mte:Vmpr3s	obratovati
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+,	mte:Z	,
+vsebuje	mte:Vmpr3s	vsebovati
+pa	mte:Cc	pa
+informacije	mte:Ncfpa	informacija
+o	mte:Sl	o
+finančni	mte:Agpfsl	finančen
+strukturi	mte:Ncfsl	struktura
+največjih	mte:Agsmpg	velik
+brazilskih	mte:Agpmpg	brazilski
+projektov	mte:Ncmpg	projekt
+v	mte:Sl	v
+novejšem	mte:Agcnsl	nov
+obdobju	mte:Ncnsl	obdobje
+–	mte:Z	–
+svetovnega	mte:Agpnsg	svetoven
+prvenstva	mte:Ncnsg	prvenstvo
+v	mte:Sl	v
+nogometu	mte:Ncmsl	nogomet
+2014	mte:Mdc	2014
+in	mte:Cc	in
+poletnih	mte:Agpfpg	poleten
+olimpijskih	mte:Agpfpg	olimpijski
+iger	mte:Ncfpg	igra
+2016	mte:Mdc	2016
+.	mte:Z	.
+Samo	mte:Q	samo
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+svetovnega	mte:Agpnsg	svetoven
+prvenstva	mte:Ncnsg	prvenstvo
+bo	mte:Va-f3s-n	biti
+Brazilija	mte:Npfsn	Brazilija
+v	mte:Sa	v
+športno	mte:Agpfsa	športen
+,	mte:Z	,
+prometno	mte:Agpfsa	prometen
+in	mte:Cc	in
+turistično	mte:Agpfsa	turističen
+infrastrukturo	mte:Ncfsa	infrastruktura
+investirala	mte:Vmbp-sf	investirati
+preko	mte:Sg	preko
+20	mte:Mdc	20
+milijard	mte:Ncfpg	milijarda
+brazilskih	mte:Agpmpg	brazilski
+realov	mte:Ncmpg	real
+(	mte:Z	(
+skoraj	mte:Q	skoraj
+9	mte:Mdc	9
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+,	mte:Z	,
+visoki	mte:Agpmpn	visok
+zneski	mte:Ncmpn	znesek
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+potrebni	mte:Agpmpn	potreben
+tudi	mte:Q	tudi
+za	mte:Sa	za
+posodobitev	mte:Ncfsa	posodobitev
+infrastrukture	mte:Ncfsg	infrastruktura
+Ria	mte:Npfsg	Ria
+de	mte:Xf	de
+Janeira	mte:Npmsg	Janeira
+,	mte:Z	,
+gostitelja	mte:Ncmsg	gostitelj
+olimpijade	mte:Ncfsg	olimpijad
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+trenutno	mte:Rgp	trenutno
+najbolj	mte:Rgs	najbolj
+aktualnih	mte:Agpmpg	aktualen
+podatkov	mte:Ncmpg	podatek
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+brazilskim	mte:Agpmpd	brazilski
+državljanom	mte:Ncmpd	državljan
+na	mte:Sl	na
+spletu	mte:Ncmsl	splet
+dostopni	mte:Agpmpn	dostopen
+tudi	mte:Q	tudi
+podatki	mte:Ncmpn	podatek
+o	mte:Sl	o
+ostalih	mte:Appmpl	ostal
+državnih	mte:Agpmpl	državen
+izdatkih	mte:Ncmpl	izdatek
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+roku	mte:Ncmsl	rok
+24	mte:Mdc	24
+ur	mte:Ncfpg	ura
+od	mte:Sg	od
+opravljene	mte:Appfsg	opravljen
+transakcije	mte:Ncfsg	transakcija
+.	mte:Z	.
+Pravočasna	mte:Agpfsn	pravočasen
+objava	mte:Ncfsn	objava
+podatkov	mte:Ncmpg	podatek
+in	mte:Cc	in
+učinkovit	mte:Agpmsnn	učinkovit
+nadzor	mte:Ncmsn	nadzor
+sta	mte:Va-r3d-n	biti
+še	mte:Q	še
+posebno	mte:Rgp	posebno
+pomembna	mte:Agpmdn	pomemben
+ukrepa	mte:Ncmdn	ukrep
+v	mte:Sl	v
+državah	mte:Ncfpl	država
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Brazilija	mte:Npfsn	Brazilija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+ukvarja	mte:Vmpr3s	ukvarjati
+z	mte:Si	z
+visokimi	mte:Agpfpi	visok
+stopnjami	mte:Ncfpi	stopnja
+korupcije.Prizadevanje	mte:Ncnsn	korupcije.Prizadevanje
+za	mte:Sa	za
+transparentnost	mte:Ncfsa	transparentnost
+se	mte:Px------y	se
+širi	mte:Vmpr3s	širati
+po	mte:Sl	po
+svetu	mte:Ncmsl	svet
+Navdušenje	mte:Ncnsn	navdušenje
+nad	mte:Si	nad
+projekti	mte:Ncmpi	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+povečujejo	mte:Vmpr3p	povečevati
+transparentnost	mte:Ncfsa	transparentnost
+delovanja	mte:Ncnsg	delovanje
+javne	mte:Agpfsg	javen
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+opaziti	mte:Vmen	opaziti
+tudi	mte:Q	tudi
+drugod	mte:Rgp	drugod
+po	mte:Sl	po
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+Tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+Kenija	mte:Npfsn	Kenija
+prejšnji	mte:Agpmsay	prejšnji
+mesec	mte:Ncmsan	mesec
+postala	mte:Vmep-sf	postati
+prva	mte:Mlofsn	prvi
+država	mte:Ncfsn	država
+podsaharske	mte:Agpfsg	podsaharski
+Afrike	mte:Npfsg	Afrika
+s	mte:Si	z
+spletnim	mte:Agpnsi	spleten
+portalom	mte:Ncnsi	portal
+,	mte:Z	,
+ki	mte:Cs	ki
+vsebuje	mte:Vmpr3s	vsebovati
+različne	mte:Agpmpa	različen
+vladne	mte:Agpmpa	vladen
+podatke	mte:Ncmpa	podatek
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Indiji	mte:Npfsl	Indija
+vzpostavili	mte:Vmep-pm	vzpostaviti
+ambiciozen	mte:Agpmsan	ambiciozen
+program	mte:Ncmsan	program
+zagotavljanja	mte:Ncnsg	zagotavljanje
+storitev	mte:Ncfpg	storitev
+javne	mte:Agpfsg	javen
+uprave	mte:Ncfsg	uprava
+v	mte:Sl	v
+odmaknjenih	mte:Appmpl	odmaknjen
+predelih	mte:Ncmpl	predel
+s	mte:Si	z
+pomočjo	mte:Ncfsi	pomoč
+mobilnih	mte:Agpmpg	mobilen
+telefonov	mte:Ncmpg	telefon
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+načrtujejo	mte:Vmpr3p	načrtovati
+tudi	mte:Q	tudi
+uvedbo	mte:Ncfsa	uvedba
+elektronske	mte:Agpfsg	elektronski
+javne	mte:Agpfsg	javen
+uprave	mte:Ncfsg	uprava
+.	mte:Z	.
+V	mte:Sl	v
+Veliki	mte:Agpfsl	velik
+Britaniji	mte:Npfsl	Britanija
+je	mte:Va-r3s-n	biti
+prejšnji	mte:Agpmsay	prejšnji
+mesec	mte:Ncmsan	mesec
+premier	mte:Ncmsn	premier
+David	mte:Npmsn	David
+Cameron	mte:Npmsn	Cameron
+javnim	mte:Agpfpd	javen
+agencijam	mte:Ncfpd	agencija
+naložil	mte:Vmep-sm	naložiti
+javno	mte:Agpfsa	javen
+objavo	mte:Ncfsa	objava
+podatkov	mte:Ncmpg	podatek
+s	mte:Sg	z
+širokega	mte:Agpnsg	širok
+področja	mte:Ncnsg	področje
+javne	mte:Agpfsg	javen
+sfere	mte:Ncfsg	sfera
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+rezultati	mte:Ncmpn	rezultat
+izobraževalnih	mte:Agpmpg	izobraževalen
+programov	mte:Ncmpg	program
+,	mte:Z	,
+podatki	mte:Ncmpn	podatek
+o	mte:Sl	o
+učinkovitosti	mte:Ncfsl	učinkovitost
+zdravstvenih	mte:Agpfpg	zdravstven
+ustanov	mte:Ncfpg	ustan
+in	mte:Cc	in
+tudi	mte:Q	tudi
+vsi	mte:Pg-mpn	ves
+javni	mte:Agpmpn	javen
+izdatki	mte:Ncmpn	izdatek
+nad	mte:Si	nad
+zneskom	mte:Ncmsi	znesek
+500	mte:Mdc	500
+funtov	mte:Ncmpg	funt
+(	mte:Z	(
+570	mte:Mdc	570
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+.	mte:Z	.
+S	mte:Si	z
+podobno	mte:Agpfsi	podoben
+spletno	mte:Agpfsi	spleten
+stranjo	mte:Ncfsi	stranja
+,	mte:Z	,
+USAspending	mte:Ncmsn	usaspending
+,	mte:Z	,
+se	mte:Px------y	se
+ponašajo	mte:Vmpr3p	ponašati
+tudi	mte:Q	tudi
+ZDA	mte:Npfpg	ZDA
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+obenem	mte:Rgp	obenem
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+Brazilijo	mte:Npfsi	Brazilija
+ustanovile	mte:Vmep-pf	ustanoviti
+Partnerstvo	mte:Ncnsa	partnerstvo
+za	mte:Sa	za
+odprto	mte:Appfsa	odprt
+vlado	mte:Ncfsa	vlada
+.	mte:Z	.
+Iniciativa	mte:Ncfsn	iniciativa
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+naslednjem	mte:Agpnsl	naslednji
+srečanju	mte:Ncnsl	srečanje
+Združenih	mte:Appmpg	združen
+narodov	mte:Ncmpg	narod
+predstavil	mte:Vmep-sm	predstaviti
+ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+Barack	mte:Npmsn	Barack
+Obama	mte:Npmsn	Obam
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+namenjena	mte:Appfsn	namenjen
+spodbujanju	mte:Ncnsd	spodbujanje
+velikega	mte:Agpmsg	velik
+nabora	mte:Ncmsg	nabor
+inovativnih	mte:Agpfpg	inovativen
+dejavnosti	mte:Ncfpg	dejavnost
+pri	mte:Sl	pri
+zagotavljanju	mte:Ncnsl	zagotavljanje
+transparentnega	mte:Agpnsg	transparenten
+delovanja	mte:Ncnsg	delovanje
+državnih	mte:Agpfpg	državen
+vlad	mte:Ncfpg	vlad
+.	mte:Z	.
+Partnerstvu	mte:Ncnsl	partnerstvo
+se	mte:Px------y	se
+že	mte:Q	že
+sedaj	mte:Rgp	sedaj
+pridružujejo	mte:Vmpr3p	pridruževati
+države	mte:Ncfpn	država
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+,	mte:Z	,
+Norveška	mte:Npfsn	Norveška
+,	mte:Z	,
+Mehika	mte:Npfsn	Mehika
+,	mte:Z	,
+Južnoafriška	mte:Agpfsn	južnoafriški
+republika	mte:Ncfsn	republika
+in	mte:Cc	in
+Filipini	mte:Npmsn	Filipina
+,	mte:Z	,
+nedvomno	mte:Rgp	nedvomno
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+sledile	mte:Vmpp-pf	slediti
+še	mte:Q	še
+številne	mte:Agpfpn	številen
+druge	mte:Mlpfpn	drug

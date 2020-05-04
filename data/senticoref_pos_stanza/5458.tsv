@@ -1,381 +1,385 @@
-token	tag
-Če	Cs
-bi	Va-c
-bile	Va-p-pf
-parlamentarne	Agpfpn
-volitve	Ncfpn
-danes	Rgp
-,	Z
-bi	Va-c
-zmagala	Vmep-sf
-stranka	Ncfsn
-SDS	Npfsg
-Janeza	Npmsg
-Janše	Npfsg
-s	Si
-skoraj	Q
-tretjinsko	Agpfsi
-podporo	Ncfsi
-,	Z
-na	Sl
-drugem	Mlpnsl
-mestu	Ncnsl
-bi	Va-c
-bila	Va-p-sf
-Pozitivna	Agpfsn
-Slovenija	Npfsn
-Zorana	Npmsg
-Jankovića	Npmsg
-s	Si
-slabo	Agpfsi
-petino	Ncfsi
-glasov	Ncmpg
-Foto	Npmsn
-:	Z
-Aleš	Npmsn
-Beno	Npmsn
-Če	Cs
-bi	Va-c
-bile	Va-p-pf
-volitve	Ncfpn
-to	Pd-fsa
-nedeljo	Ncfsa
-,	Z
-bi	Va-c
-31	Mdc
-odstotkov	Ncmpg
-vprašanih	Appmpg
-volilo	Vmbp-sn
-SDS	Npfsn
-,	Z
-18	Mdc
-odstotkov	Ncmpg
-pa	Cc
-Pozitivno	Agpfsa
-Slovenijo	Npfsa
-Zorana	Npmsg
-Jankovića	Npmsg
-,	Z
-kaže	Vmpr3s
-anketa	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-za	Sa
-TV	Ncmsan
-Slovenija	Npfsn
-naredila	Vmep-sf
-Mediana	Npfsn
-.	Z
-Na	Sl
-tretjem	Mlonsl
-in	Cc
-četrtem	Mlonsl
-mestu	Ncnsl
-bi	Va-c
-bili	Va-p-pm
-s	Si
-po	Si
-osmimi	Mlc-pi
-odstotki	Ncmpi
-glasov	Ncmpg
-Državljanska	Agpmsg
-lista	Ncmsg
-Gregorja	Npmsg
-Viranta	Npmsg
-in	Cc
-SD	Npmsg
-.	Z
-Povečuje	Vmpr3s
-se	Px------y
-podpora	Ncfsn
-NSi	Npfsg
-.	Z
-Na	Sa
-peto	Mlonsa
-mesto	Ncnsa
-bi	Va-c
-se	Px------y
-s	Si
-sedmimi	Mlc-pi
-odstotki	Ncmpi
-uvrstila	Vmep-sf
-NSi	Npfsn
-,	Z
-s	Si
-po	Si
-petimi	Mlc-pi
-odstotki	Ncmpi
-pa	Cc
-bi	Va-c
-ji	Pp3fsd--y
-sledili	Vmpp-pm
-DeSUS	Npmsn
-in	Cc
-SLS	Npfsn
-.	Z
-SNS	Npfsg
-in	Cc
-TRS	Npmsn
-bi	Va-c
-dobili	Vmep-pm
-vsaka	Pg-mpa
-po	Sa
-tri	Mlcmpa
-odstotke	Ncmpa
-,	Z
-vse	Pg-fpn
-ostale	Appfpn
-stranke	Ncfpn
-pa	Cc
-bi	Va-c
-dobile	Vmep-pf
-odstotek	Ncmsan
-ali	Cc
-manj	Rgc
-glasov	Ncmpg
-.	Z
-Podpora	Ncfsn
-najbolj	Rgs
-narasla	Vmep-sf
-SDS	Npfsn
-,	Z
-Janković	Npmsn
-in	Cc
-Pahor	Npmsn
-stagnirata	Vmpr3d
-Od	Sg
-prejšnjega	Agpmsg
-tedna	Ncmsg
-je	Va-r3s-n
-podpora	Ncfsn
-najbolj	Rgs
-narasla	Vmep-sf
-SDS	Npfsn
-,	Z
-in	Cc
-sicer	Q
-za	Sa
-štiri	Mlcmpa
-odstotke	Ncmpa
-,	Z
-medtem	Rgp
-ko	Cs
-sta	Va-r3d-n
-Pozitivna	Agpfsn
-Slovenija	Npfsn
-Zorana	Npmsg
-Jankoviča	Npmsg
-in	Cc
-SD	Npfsn
-ohranila	Vmep-dm
-približno	Rgp
-enak	Pi-msa
-rezultat	Ncmsan
-.	Z
-Povzpela	Vmep-dm
-se	Px------y
-je	Va-r3s-n
-tudi	Q
-NSi	Npfsn
-,	Z
-ki	Cs
-bi	Va-c
-še	Q
-pretekli	Appmsay
-teden	Ncmsan
-dobila	Vmep-sf
-5	Mdc
-odstotkov	Ncmpg
-glasov	Ncmpg
-.	Z
-65	Mdc
-odstotkov	Ncmpg
-vprašanih	Appmpg
-bi	Va-c
-se	Px------y
-volitev	Ncfpg
-zagotovo	Rgp
-udeležilo	Vmep-sn
-.	Z
-Dodatnih	Agpmpg
-14	Mdc
-odstotkov	Ncmpg
-bi	Va-c
-se	Px------y
-jih	Pp3mpg--y
-verjetno	Rgp
-udeležilo	Vmep-sn
-,	Z
-medtem	Rgp
-ko	Cs
-se	Px------y
-jih	Pp3mpg--y
-zagotovo	Rgp
-ali	Rgp
-verjetno	Rgp
-ne	Q
-bi	Va-c
-udeležilo	Vmep-sn
-17	Mdc
-odstotkov	Ncmpg
-.	Z
-Da	Cs
-Jankoviću	Npmsd
-afere	Npfsn
-škodujejo	Vmbr3p
-,	Z
-meni	Vmpr3s
-36,5	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-81,6	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-je	Va-r3s-n
-prepričanih	Appmpg
-,	Z
-da	Cs
-afere	Ncfpn
-vplivajo	Vmpr3p
-na	Sa
-odločitev	Ncfsa
-ljudi	Ncmpg
-o	Sl
-tem	Pd-nsl
-,	Z
-za	Sa
-koga	Pq-msa
-bodo	Va-f3p-n
-glasovali	Vmbp-pm
-.	Z
-Pri	Sl
-tem	Pd-nsl
-jih	Pp3mpa--y
-je	Va-r3s-n
-36,5	Mdc
-odstotka	Ncmsg
-prepričanih	Appmpg
-,	Z
-da	Cs
-Zoranu	Npmsd
-Jankoviću	Npmsd
-afere	Npfsd
-zelo	Rgp
-škodujejo	Vmbr3p
-,	Z
-medtem	Rgp
-ko	Cs
-jih	Pp3mpa--y
-48,3	Mdc
-odstotka	Ncmsg
-meni	Vmpr3s
-,	Z
-da	Cs
-mu	Pp3msd--y
-škodujejo	Vmbr3p
-v	Sl
-manjši	Agcfsl
-meri	Ncfsl
-.	Z
-19,8	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-meni	Vmpr3s
-,	Z
-da	Cs
-afere	Ncfpn
-Janezu	Npmsd
-Janši	Npfsd
-zelo	Rgp
-škodujejo	Vmbr3p
-,	Z
-medtem	Rgp
-ko	Cs
-jih	Pp3mpa--y
-52,3	Mdc
-odstotka	Ncmsg
-meni	Vmpr3s
-,	Z
-da	Cs
-mu	Pp3msd--y
-škodujejo	Vmbr3p
-v	Sl
-manjši	Agcfsl
-meri	Ncfsl
-.	Z
-53,4	Mdc
-odstotka	Ncmsg
-jih	Pp3mpg--y
-je	Va-r3s-n
-tudi	Q
-prepričana	Appfsn
-,	Z
-da	Cs
-afere	Ncfpn
-zelo	Rgp
-škodujejo	Vmbr3p
-Gregorju	Npmsd
-Virantu	Npmsd
-,	Z
-medtem	Rgp
-ko	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-32,6	Mdc
-odstotka	Ncmsg
-prepričanih	Appmpg
-,	Z
-da	Cs
-mu	Pp3msd--y
-škodujejo	Vmbr3p
-v	Sl
-manjši	Agcfsl
-meri	Ncfsl
-.	Z
-Anketa	Npfsn
-je	Va-r3s-n
-še	Q
-pokazala	Vmep-sf
-,	Z
-da	Cs
-Pozitivna	Agpfsn
-Slovenija	Npfsn
-,	Z
-SD	Npfsn
-in	Cc
-Virantova	Aspmsn
-lista	Ncmsn
-največ	Rgs
-glasov	Ncmpg
-dobivajo	Vmpr3p
-od	Sg
-volivcev	Ncmpg
-SD	Npfsg
-iz	Sg
-leta	Ncnsg
-2008	Mdc
-,	Z
-medtem	Rgp
-ko	Cs
-slaba	Agpfsn
-petina	Ncfsn
-volivcev	Ncmpg
-Virantove	Aspfsg
-liste	Ncfsg
-prihaja	Vmpr3s
-od	Sg
-volivcev	Ncmpg
-SDS	Npfsg
-iz	Sg
-leta	Ncnsg
-2008	Mdc
-.	Z
-Telefonska	Agpfsn
-anketa	Ncfsn
-je	Va-r3s-n
-bila	Va-p-sf
-opravljena	Appfsn
-25	Mdc
-.	Z
+token	tag	lemma
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+parlamentarne	mte:Agpfpn	parlamentaren
+volitve	mte:Ncfpn	volitev
+danes	mte:Rgp	danes
+,	mte:Z	,
+bi	mte:Va-c	biti
+zmagala	mte:Vmep-sf	zmagati
+stranka	mte:Ncfsn	stranka
+SDS	mte:Npfsg	SDS
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npfsg	Janše
+s	mte:Si	z
+skoraj	mte:Q	skoraj
+tretjinsko	mte:Agpfsi	tretjinski
+podporo	mte:Ncfsi	podpora
+,	mte:Z	,
+na	mte:Sl	na
+drugem	mte:Mlpnsl	drug
+mestu	mte:Ncnsl	mesto
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+Pozitivna	mte:Agpfsn	pozitiven
+Slovenija	mte:Npfsn	Slovenija
+Zorana	mte:Npmsg	Zoran
+Jankovića	mte:Npmsg	Janković
+s	mte:Si	z
+slabo	mte:Agpfsi	slab
+petino	mte:Ncfsi	petina
+glasov	mte:Ncmpg	glas
+Foto	mte:Npmsn	foto
+:	mte:Z	:
+Aleš	mte:Npmsn	Aleš
+Beno	mte:Npmsn	Beno
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+volitve	mte:Ncfpn	volitev
+to	mte:Pd-fsa	ta
+nedeljo	mte:Ncfsa	nedelja
+,	mte:Z	,
+bi	mte:Va-c	biti
+31	mte:Mdc	31
+odstotkov	mte:Ncmpg	odstotek
+vprašanih	mte:Appmpg	vprašan
+volilo	mte:Vmbp-sn	voliti
+SDS	mte:Npfsn	SDS
+,	mte:Z	,
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+pa	mte:Cc	pa
+Pozitivno	mte:Agpfsa	pozitiven
+Slovenijo	mte:Npfsa	Slovenija
+Zorana	mte:Npmsg	Zoran
+Jankovića	mte:Npmsg	Janković
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+anketa	mte:Ncfsn	anket
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+TV	mte:Ncmsan	TV
+Slovenija	mte:Npfsn	Slovenija
+naredila	mte:Vmep-sf	narediti
+Mediana	mte:Npfsn	Median
+.	mte:Z	.
+Na	mte:Sl	na
+tretjem	mte:Mlonsl	tretji
+in	mte:Cc	in
+četrtem	mte:Mlonsl	četrti
+mestu	mte:Ncnsl	mesto
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+s	mte:Si	z
+po	mte:Si	po
+osmimi	mte:Mlc-pi	osem
+odstotki	mte:Ncmpi	odstotek
+glasov	mte:Ncmpg	glas
+Državljanska	mte:Agpmsg	državljanski
+lista	mte:Ncmsg	list
+Gregorja	mte:Npmsg	Gregor
+Viranta	mte:Npmsg	Virant
+in	mte:Cc	in
+SD	mte:Npmsg	SD
+.	mte:Z	.
+Povečuje	mte:Vmpr3s	povečevati
+se	mte:Px------y	se
+podpora	mte:Ncfsn	podpora
+NSi	mte:Npfsg	NSi
+.	mte:Z	.
+Na	mte:Sa	na
+peto	mte:Mlonsa	peti
+mesto	mte:Ncnsa	mesto
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+s	mte:Si	z
+sedmimi	mte:Mlc-pi	sedem
+odstotki	mte:Ncmpi	odstotek
+uvrstila	mte:Vmep-sf	uvrstiti
+NSi	mte:Npfsn	NSi
+,	mte:Z	,
+s	mte:Si	z
+po	mte:Si	po
+petimi	mte:Mlc-pi	pet
+odstotki	mte:Ncmpi	odstotek
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+ji	mte:Pp3fsd--y	on
+sledili	mte:Vmpp-pm	slediti
+DeSUS	mte:Npmsn	Desus
+in	mte:Cc	in
+SLS	mte:Npfsn	SLS
+.	mte:Z	.
+SNS	mte:Npfsg	SNS
+in	mte:Cc	in
+TRS	mte:Npmsn	TRS
+bi	mte:Va-c	biti
+dobili	mte:Vmep-pm	dobiti
+vsaka	mte:Pg-mpa	vsak
+po	mte:Sa	po
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+,	mte:Z	,
+vse	mte:Pg-fpn	ves
+ostale	mte:Appfpn	ostal
+stranke	mte:Ncfpn	stranka
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+dobile	mte:Vmep-pf	dobiti
+odstotek	mte:Ncmsan	odstotek
+ali	mte:Cc	ali
+manj	mte:Rgc	manj
+glasov	mte:Ncmpg	glas
+.	mte:Z	.
+Podpora	mte:Ncfsn	podpora
+najbolj	mte:Rgs	najbolj
+narasla	mte:Vmep-sf	narasti
+SDS	mte:Npfsn	SDS
+,	mte:Z	,
+Janković	mte:Npmsn	Janković
+in	mte:Cc	in
+Pahor	mte:Npmsn	Pahor
+stagnirata	mte:Vmpr3d	stagnirati
+Od	mte:Sg	od
+prejšnjega	mte:Agpmsg	prejšnji
+tedna	mte:Ncmsg	teden
+je	mte:Va-r3s-n	biti
+podpora	mte:Ncfsn	podpora
+najbolj	mte:Rgs	najbolj
+narasla	mte:Vmep-sf	narasti
+SDS	mte:Npfsn	SDS
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+za	mte:Sa	za
+štiri	mte:Mlcmpa	štirje
+odstotke	mte:Ncmpa	odstotek
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+sta	mte:Va-r3d-n	biti
+Pozitivna	mte:Agpfsn	pozitiven
+Slovenija	mte:Npfsn	Slovenija
+Zorana	mte:Npmsg	Zoran
+Jankoviča	mte:Npmsg	Jankovič
+in	mte:Cc	in
+SD	mte:Npfsn	SD
+ohranila	mte:Vmep-dm	ohraniti
+približno	mte:Rgp	približno
+enak	mte:Pi-msa	enak
+rezultat	mte:Ncmsan	rezultat
+.	mte:Z	.
+Povzpela	mte:Vmep-dm	povzpeti
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+NSi	mte:Npfsn	NSi
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+še	mte:Q	še
+pretekli	mte:Appmsay	pretekel
+teden	mte:Ncmsan	teden
+dobila	mte:Vmep-sf	dobiti
+5	mte:Mdc	5
+odstotkov	mte:Ncmpg	odstotek
+glasov	mte:Ncmpg	glas
+.	mte:Z	.
+65	mte:Mdc	65
+odstotkov	mte:Ncmpg	odstotek
+vprašanih	mte:Appmpg	vprašan
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+volitev	mte:Ncfpg	volitev
+zagotovo	mte:Rgp	zagotovo
+udeležilo	mte:Vmep-sn	udeležiti
+.	mte:Z	.
+Dodatnih	mte:Agpmpg	dodaten
+14	mte:Mdc	14
+odstotkov	mte:Ncmpg	odstotek
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+jih	mte:Pp3mpg--y	on
+verjetno	mte:Rgp	verjetno
+udeležilo	mte:Vmep-sn	udeležiti
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+se	mte:Px------y	se
+jih	mte:Pp3mpg--y	on
+zagotovo	mte:Rgp	zagotovo
+ali	mte:Rgp	ali
+verjetno	mte:Rgp	verjetno
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+udeležilo	mte:Vmep-sn	udeležiti
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Da	mte:Cs	da
+Jankoviću	mte:Npmsd	Janković
+afere	mte:Npfsn	afera
+škodujejo	mte:Vmbr3p	škodovati
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+36,5	mte:Mdc	36,5
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+81,6	mte:Mdc	81,6
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+je	mte:Va-r3s-n	biti
+prepričanih	mte:Appmpg	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+afere	mte:Ncfpn	afera
+vplivajo	mte:Vmpr3p	vplivati
+na	mte:Sa	na
+odločitev	mte:Ncfsa	odločitev
+ljudi	mte:Ncmpg	človek
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+za	mte:Sa	za
+koga	mte:Pq-msa	kog
+bodo	mte:Va-f3p-n	biti
+glasovali	mte:Vmbp-pm	glasovati
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+36,5	mte:Mdc	36,5
+odstotka	mte:Ncmsg	odstotek
+prepričanih	mte:Appmpg	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+Zoranu	mte:Npmsd	Zoran
+Jankoviću	mte:Npmsd	Janković
+afere	mte:Npfsd	afera
+zelo	mte:Rgp	zelo
+škodujejo	mte:Vmbr3p	škodovati
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+jih	mte:Pp3mpa--y	on
+48,3	mte:Mdc	48,3
+odstotka	mte:Ncmsg	odstotek
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+mu	mte:Pp3msd--y	on
+škodujejo	mte:Vmbr3p	škodovati
+v	mte:Sl	v
+manjši	mte:Agcfsl	majhen
+meri	mte:Ncfsl	mera
+.	mte:Z	.
+19,8	mte:Mdc	19,8
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+afere	mte:Ncfpn	afera
+Janezu	mte:Npmsd	Janez
+Janši	mte:Npfsd	Janši
+zelo	mte:Rgp	zelo
+škodujejo	mte:Vmbr3p	škodovati
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+jih	mte:Pp3mpa--y	on
+52,3	mte:Mdc	52,3
+odstotka	mte:Ncmsg	odstotek
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+mu	mte:Pp3msd--y	on
+škodujejo	mte:Vmbr3p	škodovati
+v	mte:Sl	v
+manjši	mte:Agcfsl	majhen
+meri	mte:Ncfsl	mera
+.	mte:Z	.
+53,4	mte:Mdc	53,4
+odstotka	mte:Ncmsg	odstotek
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+prepričana	mte:Appfsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+afere	mte:Ncfpn	afera
+zelo	mte:Rgp	zelo
+škodujejo	mte:Vmbr3p	škodovati
+Gregorju	mte:Npmsd	Gregorje
+Virantu	mte:Npmsd	Virant
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+32,6	mte:Mdc	32,6
+odstotka	mte:Ncmsg	odstotek
+prepričanih	mte:Appmpg	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+mu	mte:Pp3msd--y	on
+škodujejo	mte:Vmbr3p	škodovati
+v	mte:Sl	v
+manjši	mte:Agcfsl	majhen
+meri	mte:Ncfsl	mera
+.	mte:Z	.
+Anketa	mte:Npfsn	Anket
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pokazala	mte:Vmep-sf	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+Pozitivna	mte:Agpfsn	pozitiven
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+SD	mte:Npfsn	SD
+in	mte:Cc	in
+Virantova	mte:Aspmsn	Virantov
+lista	mte:Ncmsn	list
+največ	mte:Rgs	največ
+glasov	mte:Ncmpg	glas
+dobivajo	mte:Vmpr3p	dobivati
+od	mte:Sg	od
+volivcev	mte:Ncmpg	volivec
+SD	mte:Npfsg	SD
+iz	mte:Sg	iz
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+slaba	mte:Agpfsn	slab
+petina	mte:Ncfsn	petina
+volivcev	mte:Ncmpg	volivec
+Virantove	mte:Aspfsg	Virantov
+liste	mte:Ncfsg	list
+prihaja	mte:Vmpr3s	prihajati
+od	mte:Sg	od
+volivcev	mte:Ncmpg	volivec
+SDS	mte:Npfsg	SDS
+iz	mte:Sg	iz
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+.	mte:Z	.
+Telefonska	mte:Agpfsn	telefonski
+anketa	mte:Ncfsn	anket
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+opravljena	mte:Appfsn	opravljen
+25	mte:Mdc	25
+.	mte:Z	.
+novembra	mte:Ncmsg	november
+na	mte:Sl	na
+vzorcu	mte:Ncmsl	vzorec
+474	mte:Mdc	474

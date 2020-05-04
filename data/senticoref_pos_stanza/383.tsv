@@ -1,540 +1,595 @@
-token	tag
-Podjetja	Ncnpn
-s	Si
-sedežem	Ncmsi
-v	Sl
-Rusiji	Npfsl
-najpogosteje	Rgs
-dajejo	Vmpr3p
-podkupnine	Ncfpa
-,	Z
-da	Cs
-bi	Va-c
-prišla	Vmep-sf
-do	Sg
-poslov	Ncmpg
-v	Sl
-tujini	Ncfsl
-.	Z
-Najmanj	Rgs
-so	Va-r3p-n
-skorumpirana	Appnpn
-belgijska	Agpnpn
-in	Cc
-kanadska	Agpnpn
-podjetja	Ncnpn
-.	Z
-Svetovna	Agpfsn
-organizacija	Ncfsn
-za	Sa
-boj	Ncmsan
-proti	Sd
-korupciji	Ncfsd
-Transparency	Npmsn
-International	Npfsn
-je	Va-r3s-n
-med	Si
-2700	Mdc
-direktorji	Ncmpi
-iz	Sg
-26	Mdc
-držav	Ncfpg
-izvedla	Vmep-sf
-raziskavo	Ncfsa
-o	Sl
-dajanju	Ncnsl
-podkupnin	Ncfpg
-za	Sa
-pridobivanje	Ncnsa
-poslov	Ncmpg
-v	Sl
-tujini	Ncfsl
-.	Z
-Na	Sl
-osnovi	Ncfsl
-dobljenih	Appmpg
-rezultatov	Ncmpg
-so	Va-r3p-n
-22	Mdc
-največjih	Agsfpg
-držav	Ncfpg
-razdelili	Vmep-pm
-na	Sa
-lestvico	Ncfsa
-najbolj	Rgs
-podvrženih	Appnpg
-podkupovanju	Ncnsd
-pri	Sl
-pridobivanju	Ncnsl
-poslov	Ncmpg
-v	Sl
-tujini	Ncfsl
-.	Z
-Sestavili	Vmep-pm
-so	Va-r3p-n
-lestvico	Ncfsa
-od	Sg
-1	Mdc
-do	Sg
-10	Mdc
-tako	Rgp
-imenovani	Appmsny
-Bribe	Npmsn
-Payers	Npmsn
-Index	Npmsn
--	Z
-BPI	Npmsn
-,	Z
-pri	Sl
-čemer	Pr-nsl
-višja	Agcfsn
-ocena	Ncfsn
-pomeni	Vmbr3s
-manjšo	Agcfsa
-korupcijo	Ncfsa
-.	Z
-Raziskava	Ncfsn
-je	Va-r3s-n
-zajela	Vmep-sf
-sedem	Mlc-pa
-držav	Ncfpg
-EU	Npfsg
-,	Z
-med	Si
-njimi	Pp3mpi
-ni	Va-r3s-y
-niti	Q
-Slovenije	Npfsg
-niti	Cc
-Finske	Npfsg
-,	Z
-ki	Cs
-sta	Va-r3d-n
-preko	Sg
-finskega	Agpnsg
-podjetja	Ncnsg
-Patria	Npmsn
-vpleteni	Appmdn
-v	Sa
-domnevno	Agpnsa
-sporni	Agpmsay
-posel	Ncmsan
-nakupa	Ncmsg
-vojaških	Agpmpg
-oklepnikov	Ncmpg
-.	Z
-Transparency	Npmsn
-International	Npmsn
-ugotavlja	Vmpr3s
-,	Z
-da	Cs
-podjetja	Ncnpn
-največkrat	Rgs
-dajejo	Vmpr3p
-podkupnine	Ncfpa
-,	Z
-da	Cs
-bi	Va-c
-prišla	Vmep-sf
-do	Sg
-poslov	Ncmpg
-v	Sl
-tujini	Ncfsl
-.	Z
-Pri	Sl
-tem	Pd-nsl
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-še	Q
-posebej	Rgp
-izpostavljena	Appfsn
-tržišča	Ncnpn
-držav	Ncfpg
-v	Sl
-razvoju	Ncmsl
-.	Z
-Očitno	Rgp
-največ	Rgs
-podkupnine	Ncfsg
-dajejo	Vmpr3p
-ruska	Agpnpn
-podjetja	Ncnpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-dobila	Vmep-pn
-daleč	Rgp
-najnižjo	Agsfsa
-oceno	Ncfsa
-5,9	Mdc
-.	Z
-Na	Sl
-dnu	Ncnsl
-so	Va-r3p-n
-se	Px------y
-znašle	Vmep-pf
-tudi	Q
-Kitajska	Npfsn
-6,5	Mdc
-,	Z
-Mehika	Npfsn
-6,6	Mdc
-in	Cc
-Indija	Npfsn
-6,8	Mdc
-.	Z
-Med	Si
-članicami	Ncfpi
-Evropske	Agpfsg
-unije	Ncfsg
-je	Va-r3s-n
-največ	Rgs
-korupcije	Ncfsg
-v	Sl
-Italiji	Npfsl
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-z	Si
-oceno	Ncfsi
-7,4	Mdc
-znašla	Vmep-sf
-na	Sl
-17	Mdc
-.	Z
-mestu	Ncnsl
-.	Z
-Najmanj	Rgs
-podkupnin	Ncfpg
-naj	Q
-bi	Va-c
-dajala	Vmpp-sf
-belgijska	Agpnpn
-in	Cc
-kanadska	Agpnpn
-podjetja	Ncnpn
-ocena	Ncfsn
-8,8	Mdc
-,	Z
-sledijo	Vmpr3p
-nizozemska	Agpfsn
-in	Cc
-švicarska	Agpfsn
-8,7	Mdc
-,	Z
-5	Mdc
-.	Z
-mesto	Ncnsa
-pa	Cc
-si	Px---d--y
-delijo	Vmpr3p
-japonska	Agpnpn
-,	Z
-nemška	Agpnpn
-in	Cc
-angleška	Agpnpn
-podjetja	Ncnpn
-8,6	Mdc
-.	Z
-Slovenija	Npfsn
-v	Sa
-raziskavo	Ncfsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-zajela	Vmep-sf
-22	Mdc
-največjih	Agsfpg
-in	Cc
-gospodarsko	Rgp
-najmočnejših	Agsfpg
-držav	Ncfpg
-,	Z
-ni	Va-r3s-y
-bila	Va-p-sf
-vključena	Appfsn
-.	Z
-Med	Si
-članicami	Ncfpi
-EU	Npfsg
-so	Va-r3p-n
-analizirali	Vmbp-pm
-sedem	Mlc-pa
-držav	Ncfpg
-.	Z
-Kos	Ncmsn
-zaskrbljen	Appmsnn
-Predsednik	Ncmsn
-komisije	Ncfsg
-za	Sa
-preprečevanje	Ncnsa
-korupcije	Ncfsg
-Drago	Npmsn
-Kos	Npmsn
-je	Va-r3s-n
-v	Sl
-pismu	Ncnsl
-ob	Sl
-torkovem	Aspmsl
-mednarodnem	Agpmsl
-dnevu	Ncmsl
-boja	Ncmsg
-proti	Sd
-korupciji	Ncfsd
-zapisal	Vmep-sm
-,	Z
-da	Cs
-dogodki	Ncmpn
-doma	Ncmsg
-in	Cc
-po	Sl
-svetu	Ncmsl
-vzbujajo	Vmpr3p
-vedno	Rgp
-več	Rgc
-dvomov	Ncmpg
-in	Cc
-skrbi	Vmpr3s
-glede	Sg
-tega	Pd-nsg
-,	Z
-ali	Rgp
-in	Cc
-kdo	Pq-msn
-se	Px------y
-sploh	Q
-še	Q
-resno	Rgp
-bori	Vmpr3s
-proti	Sd
-pojavu	Ncmsd
-korupcije	Ncfsg
-.	Z
-Ugotavlja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-situacija	Ncfsn
-zelo	Rgp
-slaba	Agpfsn
-tako	Rgp
-v	Sl
-Sloveniji	Npfsl
-kot	Cs
-v	Sl
-Evropi	Npfsl
-.	Z
-Drago	Npmsn
-Kos	Ncmsn
-Foto	Npmsn
-Tomaž	Npmsn
-Ungar	Npmsn
-Kos	Ncmsn
-tudi	Q
-izpostavlja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-Konvencija	Ncfsn
-OZN	Npfsg
-proti	Sd
-korupciji	Ncfsd
-sprejeta	Appfsn
-že	Q
-leta	Ncnsg
-2003	Mdc
-,	Z
-vendar	Cc
-se	Px------y
-države	Ncfpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-k	Sd
-njej	Pp3fsd
-pristopile	Vmep-pf
-in	Cc
-med	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-od	Sg
-februarja	Ncmsg
-letos	Rgp
-tudi	Q
-Slovenija	Npfsn
-,	Z
-še	Q
-ne	Q
-morejo	Vmpr3p
-sporazumeti	Vmen
-,	Z
-ali	Rgp
-bodo	Va-f3p-n
-sploh	Q
-vzpostavile	Vmep-pf
-kakšen	Pq-msa
-mehanizem	Ncmsan
-,	Z
-ki	Cs
-bo	Va-f3s-n
-nadziral	Vmpp-sm
-njeno	Ps3nsasf
-uresničevanje	Ncnsa
-.	Z
-Tudi	Q
-EU	Npfsn
-,	Z
-ki	Cs
-boj	Ncmsan
-proti	Sd
-korupciji	Ncfsd
-postavlja	Vmpr3s
-kot	Cs
-enega	Mlpmsg
-od	Sg
-najresnejših	Agsmpg
-pogojev	Ncmpg
-za	Sa
-vstop	Ncmsan
-,	Z
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-nima	Vmpr3s-y
-nobenih	Pz-mpg
-standardov	Ncmpg
-in	Cc
-ne	Q
-kaže	Vmpr3s
-nobene	Pz-fsg
-želje	Ncfsg
-in	Cc
-ne	Q
-aktivnosti	Ncfsg
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-kdo	Pq-msn
-v	Sl
-njenem	Ps3nslsf
-imenu	Ncnsl
-sploh	Q
-lotil	Vmep-sm
-tega	Pd-msg
-pojava	Ncmsg
-.	Z
-Od	Sg
-tod	Pr-nsg
-,	Z
-dodaja	Vmpr3s
-Kos	Ncmsan
-,	Z
-izhajajo	Vmpr3p
-tudi	Q
-vedno	Rgp
-glasnejše	Agcfpa
-ideje	Ncfpa
-,	Z
-da	Cs
-bi	Va-c
-morali	Vmpp-pm
-številnim	Agpmpd
-komisarjem	Ncmpd
-EU	Npfsg
-dodati	Vmen
-še	Q
-enega	Mlpmsa
-za	Sa
-boj	Ncmsan
-proti	Sd
-korupciji	Ncfsd
-.	Z
-Bo	Va-f3s-n
-pa	Cc
-za	Sa
-to	Pd-nsa
-,	Z
-poudarja	Vmpr3s
-Kos	Ncmsan
-,	Z
-treba	Rgp
-trdo	Rgp
-delati	Vmpn
-tudi	Q
-doma	Rgp
-,	Z
-začeti	Vmen
-bo	Va-f3s-n
-treba	Rgp
-z	Si
-odgovornim	Agpnsi
-uresničevanjem	Ncnsi
-štiri	Mlcnpa
-leta	Ncnpa
-stare	Agpfsg
-nacionalne	Agpfsg
-protikorupcijske	Agpfsg
-strategije	Ncfsg
-,	Z
-s	Si
-krpanjem	Ncnsi
-lukenj	Ncmpg
-v	Sl
-veljavni	Agpfsl
-in	Cc
-pripravljajoči	Appfsl
-se	Px------y
-zakonodaji	Ncfsl
-,	Z
-ki	Cs
-omogočajo	Vmpr3p
-korupcijo	Ncfsa
-in	Cc
-druge	Mlpfpa
-nezakonitosti	Ncfpa
-,	Z
-z	Si
-vzpostavitvijo	Ncfsi
-fleksibilnega	Agpmsg
-,	Z
-a	Cc
-učinkovitega	Agpmsg
-sistema	Ncmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-preprečeval	Vmpp-sm
-uveljavljanje	Ncnsa
-zasebnih	Agpmpg
-interesov	Ncmpg
-na	Sa
-škodo	Ncfsa
-javnega	Agpnsg
-,	Z
-z	Si
-zaščito	Ncfsi
-ljudi	Ncmpg
-,	Z
-ki	Cs
-prijavljajo	Vmpr3p
-korupcijo	Ncfsa
-,	Z
-z	Si
-ureditvijo	Ncfsi
-lobiranja	Ncnsg
-in	Cc
-z	Si
-učinkovitim	Agpmsi
-nadzorom	Ncmsi
-nad	Si
-financiranjem	Ncnsi
-političnih	Agpfpg
-strank	Ncfpg
-.	Z
+token	tag	lemma
+Podjetja	mte:Ncnpn	podjetje
+s	mte:Si	z
+sedežem	mte:Ncmsi	sedež
+v	mte:Sl	v
+Rusiji	mte:Npfsl	Rusija
+najpogosteje	mte:Rgs	pogosto
+dajejo	mte:Vmpr3p	dajati
+podkupnine	mte:Ncfpa	podkupnina
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+prišla	mte:Vmep-sf	priti
+do	mte:Sg	do
+poslov	mte:Ncmpg	posel
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+.	mte:Z	.
+Najmanj	mte:Rgs	najmanj
+so	mte:Va-r3p-n	biti
+skorumpirana	mte:Appnpn	skorumpiran
+belgijska	mte:Agpnpn	belgijski
+in	mte:Cc	in
+kanadska	mte:Agpnpn	kanadski
+podjetja	mte:Ncnpn	podjetje
+.	mte:Z	.
+Svetovna	mte:Agpfsn	svetoven
+organizacija	mte:Ncfsn	organizacija
+za	mte:Sa	za
+boj	mte:Ncmsan	boj
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+Transparency	mte:Npmsn	Transparency
+International	mte:Npfsn	International
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+2700	mte:Mdc	2700
+direktorji	mte:Ncmpi	direktor
+iz	mte:Sg	iz
+26	mte:Mdc	26
+držav	mte:Ncfpg	država
+izvedla	mte:Vmep-sf	izvesti
+raziskavo	mte:Ncfsa	raziskava
+o	mte:Sl	o
+dajanju	mte:Ncnsl	dajanje
+podkupnin	mte:Ncfpg	podkupnina
+za	mte:Sa	za
+pridobivanje	mte:Ncnsa	pridobivanje
+poslov	mte:Ncmpg	posel
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+.	mte:Z	.
+Na	mte:Sl	na
+osnovi	mte:Ncfsl	osnova
+dobljenih	mte:Appmpg	dobljen
+rezultatov	mte:Ncmpg	rezultat
+so	mte:Va-r3p-n	biti
+22	mte:Mdc	22
+največjih	mte:Agsfpg	velik
+držav	mte:Ncfpg	država
+razdelili	mte:Vmep-pm	razdeliti
+na	mte:Sa	na
+lestvico	mte:Ncfsa	lestvica
+najbolj	mte:Rgs	najbolj
+podvrženih	mte:Appnpg	podvržen
+podkupovanju	mte:Ncnsd	podkupovanje
+pri	mte:Sl	pri
+pridobivanju	mte:Ncnsl	pridobivanje
+poslov	mte:Ncmpg	posel
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+.	mte:Z	.
+Sestavili	mte:Vmep-pm	sestaviti
+so	mte:Va-r3p-n	biti
+lestvico	mte:Ncfsa	lestvica
+od	mte:Sg	od
+1	mte:Mdc	1
+do	mte:Sg	do
+10	mte:Mdc	10
+tako	mte:Rgp	tako
+imenovani	mte:Appmsny	imenovan
+Bribe	mte:Npmsn	Bribe
+Payers	mte:Npmsn	Payers
+Index	mte:Npmsn	Index
+-	mte:Z	-
+BPI	mte:Npmsn	BPI
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+višja	mte:Agcfsn	visok
+ocena	mte:Ncfsn	ocena
+pomeni	mte:Vmbr3s	pomeniti
+manjšo	mte:Agcfsa	majhen
+korupcijo	mte:Ncfsa	korupcija
+.	mte:Z	.
+Raziskava	mte:Ncfsn	raziskava
+je	mte:Va-r3s-n	biti
+zajela	mte:Vmep-sf	zajeti
+sedem	mte:Mlc-pa	sedem
+držav	mte:Ncfpg	država
+EU	mte:Npfsg	EU
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+ni	mte:Va-r3s-y	biti
+niti	mte:Q	niti
+Slovenije	mte:Npfsg	Slovenija
+niti	mte:Cc	niti
+Finske	mte:Npfsg	Finska
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+preko	mte:Sg	preko
+finskega	mte:Agpnsg	finski
+podjetja	mte:Ncnsg	podjetje
+Patria	mte:Npmsn	Patria
+vpleteni	mte:Appmdn	vpleten
+v	mte:Sa	v
+domnevno	mte:Agpnsa	domneven
+sporni	mte:Agpmsay	sporen
+posel	mte:Ncmsan	posel
+nakupa	mte:Ncmsg	nakup
+vojaških	mte:Agpmpg	vojaški
+oklepnikov	mte:Ncmpg	oklepnik
+.	mte:Z	.
+Transparency	mte:Npmsn	Transparency
+International	mte:Npmsn	International
+ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+podjetja	mte:Ncnpn	podjetje
+največkrat	mte:Rgs	največkrat
+dajejo	mte:Vmpr3p	dajati
+podkupnine	mte:Ncfpa	podkupnina
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+prišla	mte:Vmep-sf	priti
+do	mte:Sg	do
+poslov	mte:Ncmpg	posel
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+izpostavljena	mte:Appfsn	izpostavljen
+tržišča	mte:Ncnpn	tržišče
+držav	mte:Ncfpg	država
+v	mte:Sl	v
+razvoju	mte:Ncmsl	razvoj
+.	mte:Z	.
+Očitno	mte:Rgp	očitno
+največ	mte:Rgs	največ
+podkupnine	mte:Ncfsg	podkupnina
+dajejo	mte:Vmpr3p	dajati
+ruska	mte:Agpnpn	ruski
+podjetja	mte:Ncnpn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+dobila	mte:Vmep-pn	dobiti
+daleč	mte:Rgp	daleč
+najnižjo	mte:Agsfsa	nizek
+oceno	mte:Ncfsa	ocena
+5,9	mte:Mdc	5,9
+.	mte:Z	.
+Na	mte:Sl	na
+dnu	mte:Ncnsl	dno
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+znašle	mte:Vmep-pf	znajti
+tudi	mte:Q	tudi
+Kitajska	mte:Npfsn	Kitajska
+6,5	mte:Mdc	6,5
+,	mte:Z	,
+Mehika	mte:Npfsn	Mehika
+6,6	mte:Mdc	6,6
+in	mte:Cc	in
+Indija	mte:Npfsn	Indija
+6,8	mte:Mdc	6,8
+.	mte:Z	.
+Med	mte:Si	med
+članicami	mte:Ncfpi	članica
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+je	mte:Va-r3s-n	biti
+največ	mte:Rgs	največ
+korupcije	mte:Ncfsg	korupcija
+v	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+oceno	mte:Ncfsi	ocena
+7,4	mte:Mdc	7,4
+znašla	mte:Vmep-sf	znajti
+na	mte:Sl	na
+17	mte:Mdc	17
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+.	mte:Z	.
+Najmanj	mte:Rgs	najmanj
+podkupnin	mte:Ncfpg	podkupnina
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+dajala	mte:Vmpp-sf	dajati
+belgijska	mte:Agpnpn	belgijski
+in	mte:Cc	in
+kanadska	mte:Agpnpn	kanadski
+podjetja	mte:Ncnpn	podjetje
+ocena	mte:Ncfsn	ocena
+8,8	mte:Mdc	8,8
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+nizozemska	mte:Agpfsn	nizozemski
+in	mte:Cc	in
+švicarska	mte:Agpfsn	švicarski
+8,7	mte:Mdc	8,7
+,	mte:Z	,
+5	mte:Mdc	5
+.	mte:Z	.
+mesto	mte:Ncnsa	mesto
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+delijo	mte:Vmpr3p	deliti
+japonska	mte:Agpnpn	japonski
+,	mte:Z	,
+nemška	mte:Agpnpn	nemški
+in	mte:Cc	in
+angleška	mte:Agpnpn	angleški
+podjetja	mte:Ncnpn	podjetje
+8,6	mte:Mdc	8,6
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+v	mte:Sa	v
+raziskavo	mte:Ncfsa	raziskava
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zajela	mte:Vmep-sf	zajeti
+22	mte:Mdc	22
+največjih	mte:Agsfpg	velik
+in	mte:Cc	in
+gospodarsko	mte:Rgp	gospodarsko
+najmočnejših	mte:Agsfpg	močen
+držav	mte:Ncfpg	država
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+vključena	mte:Appfsn	vključen
+.	mte:Z	.
+Med	mte:Si	med
+članicami	mte:Ncfpi	članica
+EU	mte:Npfsg	EU
+so	mte:Va-r3p-n	biti
+analizirali	mte:Vmbp-pm	analizirati
+sedem	mte:Mlc-pa	sedem
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Kos	mte:Ncmsn	kos
+zaskrbljen	mte:Appmsnn	zaskrbljen
+Predsednik	mte:Ncmsn	predsednik
+komisije	mte:Ncfsg	komisija
+za	mte:Sa	za
+preprečevanje	mte:Ncnsa	preprečevanje
+korupcije	mte:Ncfsg	korupcija
+Drago	mte:Npmsn	Drago
+Kos	mte:Npmsn	Kos
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+pismu	mte:Ncnsl	pismo
+ob	mte:Sl	ob
+torkovem	mte:Aspmsl	torkov
+mednarodnem	mte:Agpmsl	mednaroden
+dnevu	mte:Ncmsl	dan
+boja	mte:Ncmsg	boj
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+dogodki	mte:Ncmpn	dogodek
+doma	mte:Ncmsg	dom
+in	mte:Cc	in
+po	mte:Sl	po
+svetu	mte:Ncmsl	svet
+vzbujajo	mte:Vmpr3p	vzbujati
+vedno	mte:Rgp	vedno
+več	mte:Rgc	več
+dvomov	mte:Ncmpg	dvom
+in	mte:Cc	in
+skrbi	mte:Vmpr3s	skrbeti
+glede	mte:Sg	glede
+tega	mte:Pd-nsg	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+in	mte:Cc	in
+kdo	mte:Pq-msn	kdo
+se	mte:Px------y	se
+sploh	mte:Q	sploh
+še	mte:Q	še
+resno	mte:Rgp	resno
+bori	mte:Vmpr3s	boreti
+proti	mte:Sd	proti
+pojavu	mte:Ncmsd	pojav
+korupcije	mte:Ncfsg	korupcija
+.	mte:Z	.
+Ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+situacija	mte:Ncfsn	situacija
+zelo	mte:Rgp	zelo
+slaba	mte:Agpfsn	slab
+tako	mte:Rgp	tako
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+kot	mte:Cs	kot
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Drago	mte:Npmsn	Drago
+Kos	mte:Ncmsn	kos
+Foto	mte:Npmsn	foto
+Tomaž	mte:Npmsn	Tomaž
+Ungar	mte:Npmsn	Ungar
+Kos	mte:Ncmsn	kos
+tudi	mte:Q	tudi
+izpostavlja	mte:Vmpr3s	izpostavljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+Konvencija	mte:Ncfsn	konvencija
+OZN	mte:Npfsg	OZN
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+sprejeta	mte:Appfsn	sprejet
+že	mte:Q	že
+leta	mte:Ncnsg	leto
+2003	mte:Mdc	2003
+,	mte:Z	,
+vendar	mte:Cc	vendar
+se	mte:Px------y	se
+države	mte:Ncfpn	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+k	mte:Sd	k
+njej	mte:Pp3fsd	on
+pristopile	mte:Vmep-pf	pristopiti
+in	mte:Cc	in
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+februarja	mte:Ncmsg	februar
+letos	mte:Rgp	letos
+tudi	mte:Q	tudi
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+še	mte:Q	še
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+sporazumeti	mte:Vmen	sporazumeti
+,	mte:Z	,
+ali	mte:Rgp	ali
+bodo	mte:Va-f3p-n	biti
+sploh	mte:Q	sploh
+vzpostavile	mte:Vmep-pf	vzpostaviti
+kakšen	mte:Pq-msa	kakšen
+mehanizem	mte:Ncmsan	mehanizem
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+nadziral	mte:Vmpp-sm	nadzirati
+njeno	mte:Ps3nsasf	njen
+uresničevanje	mte:Ncnsa	uresničevanje
+.	mte:Z	.
+Tudi	mte:Q	tudi
+EU	mte:Npfsn	EU
+,	mte:Z	,
+ki	mte:Cs	ki
+boj	mte:Ncmsan	boj
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+postavlja	mte:Vmpr3s	postavljati
+kot	mte:Cs	kot
+enega	mte:Mlpmsg	en
+od	mte:Sg	od
+najresnejših	mte:Agsmpg	revesen
+pogojev	mte:Ncmpg	pogoj
+za	mte:Sa	za
+vstop	mte:Ncmsan	vstop
+,	mte:Z	,
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+nima	mte:Vmpr3s-y	imeti
+nobenih	mte:Pz-mpg	noben
+standardov	mte:Ncmpg	standard
+in	mte:Cc	in
+ne	mte:Q	ne
+kaže	mte:Vmpr3s	kazati
+nobene	mte:Pz-fsg	noben
+želje	mte:Ncfsg	želja
+in	mte:Cc	in
+ne	mte:Q	ne
+aktivnosti	mte:Ncfsg	aktivnost
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+kdo	mte:Pq-msn	kdo
+v	mte:Sl	v
+njenem	mte:Ps3nslsf	njen
+imenu	mte:Ncnsl	ime
+sploh	mte:Q	sploh
+lotil	mte:Vmep-sm	lotiti
+tega	mte:Pd-msg	ta
+pojava	mte:Ncmsg	pojav
+.	mte:Z	.
+Od	mte:Sg	od
+tod	mte:Pr-nsg	tod
+,	mte:Z	,
+dodaja	mte:Vmpr3s	dodajati
+Kos	mte:Ncmsan	kos
+,	mte:Z	,
+izhajajo	mte:Vmpr3p	izhajati
+tudi	mte:Q	tudi
+vedno	mte:Rgp	vedno
+glasnejše	mte:Agcfpa	glasen
+ideje	mte:Ncfpa	ideja
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+številnim	mte:Agpmpd	številen
+komisarjem	mte:Ncmpd	komisar
+EU	mte:Npfsg	EU
+dodati	mte:Vmen	dodati
+še	mte:Q	še
+enega	mte:Mlpmsa	en
+za	mte:Sa	za
+boj	mte:Ncmsan	boj
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+.	mte:Z	.
+Bo	mte:Va-f3s-n	Bo
+pa	mte:Cc	pa
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+poudarja	mte:Vmpr3s	poudarjati
+Kos	mte:Ncmsan	kos
+,	mte:Z	,
+treba	mte:Rgp	treba
+trdo	mte:Rgp	trdo
+delati	mte:Vmpn	delati
+tudi	mte:Q	tudi
+doma	mte:Rgp	doma
+,	mte:Z	,
+začeti	mte:Vmen	začeti
+bo	mte:Va-f3s-n	biti
+treba	mte:Rgp	treba
+z	mte:Si	z
+odgovornim	mte:Agpnsi	odgovoren
+uresničevanjem	mte:Ncnsi	uresničevanje
+štiri	mte:Mlcnpa	štirje
+leta	mte:Ncnpa	leto
+stare	mte:Agpfsg	star
+nacionalne	mte:Agpfsg	nacionalen
+protikorupcijske	mte:Agpfsg	protikorupcijski
+strategije	mte:Ncfsg	strategija
+,	mte:Z	,
+s	mte:Si	z
+krpanjem	mte:Ncnsi	krpanje
+lukenj	mte:Ncmpg	luknja
+v	mte:Sl	v
+veljavni	mte:Agpfsl	veljaven
+in	mte:Cc	in
+pripravljajoči	mte:Appfsl	pripravljajoč
+se	mte:Px------y	se
+zakonodaji	mte:Ncfsl	zakonodaja
+,	mte:Z	,
+ki	mte:Cs	ki
+omogočajo	mte:Vmpr3p	omogočati
+korupcijo	mte:Ncfsa	korupcija
+in	mte:Cc	in
+druge	mte:Mlpfpa	drug
+nezakonitosti	mte:Ncfpa	nezakonitost
+,	mte:Z	,
+z	mte:Si	z
+vzpostavitvijo	mte:Ncfsi	vzpostavitev
+fleksibilnega	mte:Agpmsg	fleksibilen
+,	mte:Z	,
+a	mte:Cc	a
+učinkovitega	mte:Agpmsg	učinkovit
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+preprečeval	mte:Vmpp-sm	preprečevati
+uveljavljanje	mte:Ncnsa	uveljavljanje
+zasebnih	mte:Agpmpg	zaseben
+interesov	mte:Ncmpg	interes
+na	mte:Sa	na
+škodo	mte:Ncfsa	škoda
+javnega	mte:Agpnsg	javen
+,	mte:Z	,
+z	mte:Si	z
+zaščito	mte:Ncfsi	zaščita
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+prijavljajo	mte:Vmpr3p	prijavljati
+korupcijo	mte:Ncfsa	korupcija
+,	mte:Z	,
+z	mte:Si	z
+ureditvijo	mte:Ncfsi	ureditev
+lobiranja	mte:Ncnsg	lobiranje
+in	mte:Cc	in
+z	mte:Si	z
+učinkovitim	mte:Agpmsi	učinkovit
+nadzorom	mte:Ncmsi	nadzor
+nad	mte:Si	nad
+financiranjem	mte:Ncnsi	financiranje
+političnih	mte:Agpfpg	političen
+strank	mte:Ncfpg	stranka
+.	mte:Z	.
+Če	mte:Cs	če
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+uspešno	mte:Agpfsa	uspešen
+borbo	mte:Ncfsa	borba
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+res	mte:Rgp	res
+potreben	mte:Agpmsnn	potreben
+nov	mte:Agpmsnn	nov
+evropski	mte:Agpmsny	evropski
+komisar	mte:Ncmsn	komisar
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+zelo	mte:Rgp	zelo
+hitro	mte:Rgp	hitro
+pokazal	mte:Vmep-sm	pokazati
+čas	mte:Ncmsan	čas
+,	mte:Z	,
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+bi	mte:Va-c	biti
+ta	mte:Pd-msa	ta
+trenutek	mte:Ncmsan	trenutek
+povsem	mte:Rgp	povsem
+zadoščalo	mte:Vmpp-sn	zadoščati
+že	mte:Q	že
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+politika	mte:Ncfsn	politika
+glede	mte:Sg	glede
+odnosa	mte:Ncmsg	odnos
+do	mte:Sg	do
+tega	mte:Pd-nsg	ta
+in	mte:Cc	in
+njemu	mte:Pp3msd	on
+podobnih	mte:Agpmpg	podoben
+pojavov	mte:Ncmpg	pojav
+začela	mte:Vmep-sf	začeti
+držati	mte:Vmpn	držati
+svojih	mte:Px-fpg	svoj
+lastnih	mte:Agpfpg	lasten
+besed	mte:Ncfpg	beseda
+,	mte:Z	,
+sklene	mte:Vmer3s	skleniti
+svoje	mte:Px-nsa	svoj
+pismo	mte:Ncnsa	pismo
+predsednik	mte:Ncmsn	predsednik
+protikorupcijske	mte:Agpfsg	protikorupcijski
+komisije	mte:Ncfsg	komisija

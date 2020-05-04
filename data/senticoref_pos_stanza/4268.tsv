@@ -1,207 +1,226 @@
-token	tag
-Prvak	Ncmsn
-SD	Npmsg
-Borut	Npmsn
-Pahor	Npmsn
-meni	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-Slovenija	Npfsn
-ne	Q
-sme	Vmpr3s
-znajti	Vmen
-v	Sl
-časovni	Agpfsl
-stiski	Ncfsl
-,	Z
-ko	Cs
-bo	Va-f3s-n
-prišlo	Vmep-sn
-do	Sg
-razprave	Ncfsg
-o	Sl
-neodvisnosti	Ncfsl
-Kosova	Npnsg
-Podpredsednik	Ncmsn
-Evropskih	Agpmpg
-socialistov	Ncmpg
-Jan	Npmsn
-Marinus	Npmsn
-Wiersma	Npmsn
-,	Z
-predsednik	Ncmsn
-stranke	Ncfsg
-Martin	Npmsn
-Schulz	Npmsn
-,	Z
-prvak	Ncmsn
-Socialnih	Agpmpg
-demokrat	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-in	Cc
-še	Q
-en	Mlpmsn
-podpredsednik	Ncmsn
-stranke	Ncfsg
-Hannes	Npmsn
-Swoboda	Npmsn
-na	Sl
-konferenci	Ncfsl
-o	Sl
-politični	Agpfsl
-strategiji	Ncfsl
-za	Sa
-Zahodni	Agpmsay
-Balkan	Npmsan
-.	Z
-Predsednik	Ncmsn
-Socialnih	Agpmpg
-demokratov	Ncmpg
-(	Z
-SD	Npmsn
-)	Z
-Borut	Npmsn
-Pahor	Npmsn
-je	Va-r3s-n
-slovensko	Agpfsa
-vlado	Ncfsa
-na	Sl
-današnji	Agpfsl
-konferenci	Ncfsl
-Evropski	Agpmsny
-socialistov	Ncmpg
-o	Sl
-politični	Agpfsl
-strategiji	Ncfsl
-za	Sa
-Zahodni	Agpmsay
-Balkan	Npmsan
-v	Sl
-Ljubljani	Npfsl
-pozval	Vmep-sm
-,	Z
-naj	Cs
-čim	Rgp
-prej	Rgc
-začne	Vmer3s
-razpravo	Ncfsa
-o	Sl
-neodvisnosti	Ncfsl
-Kosova	Npnsg
-,	Z
-saj	Cc
-se	Px------y
-Slovenija	Npfsn
-ne	Q
-sme	Vmpr3s
-znajti	Vmen
-v	Sl
-časovni	Agpfsl
-stiski	Ncfsl
-glede	Sg
-tega	Pd-nsg
-pomembnega	Agpnsg
-vprašanja	Ncnsg
-.	Z
-Vodja	Ncmsn
-poslanske	Agpfsg
-skupine	Ncfsg
-Stranke	Ncfsg
-evropskih	Agpmpg
-socialistov	Ncmpg
-Martin	Npmsn
-Schulz	Npmsn
-je	Va-r3s-n
-glede	Sg
-stališča	Ncnsg
-stranke	Ncfsg
-do	Sg
-Kosova	Npnsg
-povedal	Vmep-sm
-,	Z
-da	Cs
-novonastale	Vmpp-pf
-države	Ncfpn
-ne	Q
-morejo	Vmpr3p
-priznati	Vmen
-,	Z
-saj	Cc
-sami	Agpmpn
-niso	Va-r3p-y
-država	Ncfsn
-,	Z
-ampak	Cc
-stranka	Ncfsn
-,	Z
-ki	Cs
-pa	Cc
-bo	Va-f3s-n
-stališče	Ncnsn
-do	Sg
-tega	Pd-nsg
-vprašanja	Ncnsg
-oblikovala	Vmpp-sf
-po	Sl
-posvetu	Ncmsl
-v	Sl
-Evropskem	Agpmsl
-parlamentu	Ncmsl
-.	Z
-Evropski	Agpmpn
-socialisti	Ncmpn
-:	Z
-Ne	Q
-sme	Vmpr3s
-priti	Vmen
-do	Sg
-izolacije	Ncfsg
-Srbije	Npfsg
-Dotaknili	Vmep-pm
-so	Va-r3p-n
-se	Px------y
-tudi	Q
-Hrvaške	Npfpn
-in	Cc
-povedali	Vmep-pm
-,	Z
-da	Cs
-želijo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-hrvaško	Agpnsn
-približevanje	Ncnsn
-Evropski	Agpfsd
-uniji	Ncfsd
-nadaljuje	Vmpr3s
-,	Z
-vendar	Cc
-mora	Vmpr3s
-rešiti	Vmen
-probleme	Ncmpa
-s	Si
-sosedi	Ncmpi
-.	Z
-Menijo	Vmpr3p
-tudi	Q
-,	Z
-da	Cs
-je	Va-r3s-n
-potrebno	Agpnsn
-v	Sl
-celoti	Ncfsl
-implementirati	Vmbn
-Ohridski	Agpmsay
-sporazum	Ncmsan
-in	Cc
-začeti	Vmen
-pogajanja	Ncnpa
-za	Sa
-približevanje	Ncnsa
-Makedonije	Npfsg
-Evropski	Agpfsd
-uniji	Ncfsd
-.	Z
+token	tag	lemma
+Prvak	mte:Ncmsn	prvak
+SD	mte:Npmsg	SD
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Slovenija	mte:Npfsn	Slovenija
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+znajti	mte:Vmen	znajti
+v	mte:Sl	v
+časovni	mte:Agpfsl	časoven
+stiski	mte:Ncfsl	stiska
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+razprave	mte:Ncfsg	razprava
+o	mte:Sl	o
+neodvisnosti	mte:Ncfsl	neodvisnost
+Kosova	mte:Npnsg	Kosovo
+Podpredsednik	mte:Ncmsn	podpredsednik
+Evropskih	mte:Agpmpg	evropski
+socialistov	mte:Ncmpg	socialist
+Jan	mte:Npmsn	Jan
+Marinus	mte:Npmsn	Marinus
+Wiersma	mte:Npmsn	Wiersmo
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+stranke	mte:Ncfsg	stranka
+Martin	mte:Npmsn	Martin
+Schulz	mte:Npmsn	Schulz
+,	mte:Z	,
+prvak	mte:Ncmsn	prvak
+Socialnih	mte:Agpmpg	socialen
+demokrat	mte:Ncmsn	demokrat
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+še	mte:Q	še
+en	mte:Mlpmsn	en
+podpredsednik	mte:Ncmsn	podpredsednik
+stranke	mte:Ncfsg	stranka
+Hannes	mte:Npmsn	Hannes
+Swoboda	mte:Npmsn	Swoboda
+na	mte:Sl	na
+konferenci	mte:Ncfsl	konferenca
+o	mte:Sl	o
+politični	mte:Agpfsl	političen
+strategiji	mte:Ncfsl	strategija
+za	mte:Sa	za
+Zahodni	mte:Agpmsay	zahoden
+Balkan	mte:Npmsan	Balkan
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+Socialnih	mte:Agpmpg	socialen
+demokratov	mte:Ncmpg	demokrat
+(	mte:Z	(
+SD	mte:Npmsn	SD
+)	mte:Z	)
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+je	mte:Va-r3s-n	biti
+slovensko	mte:Agpfsa	slovenski
+vlado	mte:Ncfsa	vlada
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+konferenci	mte:Ncfsl	konferenca
+Evropski	mte:Agpmsny	evropski
+socialistov	mte:Ncmpg	socialist
+o	mte:Sl	o
+politični	mte:Agpfsl	političen
+strategiji	mte:Ncfsl	strategija
+za	mte:Sa	za
+Zahodni	mte:Agpmsay	zahoden
+Balkan	mte:Npmsan	Balkan
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+pozval	mte:Vmep-sm	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+čim	mte:Rgp	čim
+prej	mte:Rgc	prej
+začne	mte:Vmer3s	začeti
+razpravo	mte:Ncfsa	razprava
+o	mte:Sl	o
+neodvisnosti	mte:Ncfsl	neodvisnost
+Kosova	mte:Npnsg	Kosovo
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+Slovenija	mte:Npfsn	Slovenija
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+znajti	mte:Vmen	znajti
+v	mte:Sl	v
+časovni	mte:Agpfsl	časoven
+stiski	mte:Ncfsl	stiska
+glede	mte:Sg	glede
+tega	mte:Pd-nsg	ta
+pomembnega	mte:Agpnsg	pomemben
+vprašanja	mte:Ncnsg	vprašanje
+.	mte:Z	.
+Vodja	mte:Ncmsn	vodja
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+Stranke	mte:Ncfsg	stranka
+evropskih	mte:Agpmpg	evropski
+socialistov	mte:Ncmpg	socialist
+Martin	mte:Npmsn	Martin
+Schulz	mte:Npmsn	Schulz
+je	mte:Va-r3s-n	biti
+glede	mte:Sg	glede
+stališča	mte:Ncnsg	stališče
+stranke	mte:Ncfsg	stranka
+do	mte:Sg	do
+Kosova	mte:Npnsg	Kosovo
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+novonastale	mte:Vmpp-pf	novonastati
+države	mte:Ncfpn	država
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+priznati	mte:Vmen	priznati
+,	mte:Z	,
+saj	mte:Cc	saj
+sami	mte:Agpmpn	sam
+niso	mte:Va-r3p-y	biti
+država	mte:Ncfsn	država
+,	mte:Z	,
+ampak	mte:Cc	ampak
+stranka	mte:Ncfsn	stranka
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+stališče	mte:Ncnsn	stališče
+do	mte:Sg	do
+tega	mte:Pd-nsg	ta
+vprašanja	mte:Ncnsg	vprašanje
+oblikovala	mte:Vmpp-sf	oblikovati
+po	mte:Sl	po
+posvetu	mte:Ncmsl	posvet
+v	mte:Sl	v
+Evropskem	mte:Agpmsl	evropski
+parlamentu	mte:Ncmsl	parlament
+.	mte:Z	.
+Evropski	mte:Agpmpn	evropski
+socialisti	mte:Ncmpn	socialist
+:	mte:Z	:
+Ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+priti	mte:Vmen	priti
+do	mte:Sg	do
+izolacije	mte:Ncfsg	izolacija
+Srbije	mte:Npfsg	Srbija
+Dotaknili	mte:Vmep-pm	dotakniti
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+Hrvaške	mte:Npfpn	Hrvaška
+in	mte:Cc	in
+povedali	mte:Vmep-pm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+želijo	mte:Vmpr3p	želeti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+hrvaško	mte:Agpnsn	hrvaški
+približevanje	mte:Ncnsn	približevanje
+Evropski	mte:Agpfsd	evropski
+uniji	mte:Ncfsd	unija
+nadaljuje	mte:Vmpr3s	nadaljevati
+,	mte:Z	,
+vendar	mte:Cc	vendar
+mora	mte:Vmpr3s	morati
+rešiti	mte:Vmen	rešiti
+probleme	mte:Ncmpa	problem
+s	mte:Si	z
+sosedi	mte:Ncmpi	soseda
+.	mte:Z	.
+Menijo	mte:Vmpr3p	meniti
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+potrebno	mte:Agpnsn	potreben
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+implementirati	mte:Vmbn	implementirati
+Ohridski	mte:Agpmsay	ohridski
+sporazum	mte:Ncmsan	sporazum
+in	mte:Cc	in
+začeti	mte:Vmen	začeti
+pogajanja	mte:Ncnpa	pogajanje
+za	mte:Sa	za
+približevanje	mte:Ncnsa	približevanje
+Makedonije	mte:Npfsg	Makedonija
+Evropski	mte:Agpfsd	evropski
+uniji	mte:Ncfsd	unija
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+priti	mte:Vmen	priti
+do	mte:Sg	do
+izolacije	mte:Ncfsg	izolacija
+Srbije	mte:Npfsg	Srbija
+in	mte:Cc	in
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+potrebno	mte:Agpnsn	potreben
+dobre	mte:Agpmpa	dober
+odnose	mte:Ncmpa	odnos
+nadaljevati	mte:Vmpn	nadaljevati

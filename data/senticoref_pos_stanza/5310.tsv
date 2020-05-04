@@ -1,674 +1,683 @@
-token	tag
-Domače	Agpfpn
-delnice	Ncfpn
-so	Va-r3p-n
-se	Px------y
-večinoma	Rgp
-podražile	Vmep-pf
-,	Z
-indeks	Ncmsn
-je	Va-r3s-n
-tako	Rgp
-zrasel	Vmep-sm
-za	Sa
-0,15	Mdc
-odstotka	Ncmsg
-.	Z
-Posredniki	Ncmpn
-so	Va-r3p-n
-sklenili	Vmep-pm
-za	Sa
-milijon	Ncmsan
-in	Cc
-pol	Rgp
-evrov	Ncmpg
-prometa	Ncmsg
-Stanje	Ncnsa
-ob	Sl
-13	Mdc
-:	Z
-00	Mdc
-Posredniki	Ncmpn
-so	Va-r3p-n
-danes	Rgp
-skupaj	Rgp
-sklenili	Vmep-pm
-za	Sa
-milijon	Ncmsan
-in	Cc
-pol	Rgp
-evrov	Ncmpg
-prometa	Ncmsg
-,	Z
-z	Si
-885	Mdc
-tisočaki	Ncmpi
-je	Va-r3s-n
-bila	Va-p-sf
-vodilna	Agpfsn
-Krka	Npfsn
-,	Z
-147	Mdc
-oziroma	Cc
-120	Mdc
-tisoč	Mlc-pa
-sta	Va-r3d-n
-dodali	Vmep-dm
-obveznica	Ncfsn
-Soda	Npfsn
-in	Cc
-delnica	Ncfsn
-Mercatorja	Npmsg
-.	Z
-Sto	Mlc-pa
-tisočakov	Ncmpg
-je	Va-r3s-n
-navrgel	Vmep-sm
-Petrol	Npmsn
-,	Z
-indeks	Ncmsn
-SBI	Ncmsn
-TOP	Ncmsn
-pa	Cc
-je	Va-r3s-n
-dan	Ncmsan
-zaključil	Vmep-sm
-s	Si
-skokom	Ncmsi
-za	Sa
-0,15	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-prvi	Mlofsl
-kotaciji	Ncfsl
-je	Va-r3s-n
-bil	Va-p-sm
-najboljši	Agsmsny
-Mercator	Npmsn
-,	Z
-pridobil	Vmep-sm
-je	Va-r3s-n
-1,6	Mdc
-odstotka	Ncmsg
-,	Z
-za	Sa
-1,1	Mdc
-odstotka	Ncmsg
-se	Px------y
-je	Va-r3s-n
-okrepila	Vmep-sf
-Intereuropa	Npfsn
-.	Z
-Cena	Ncfsn
-Krke	Npfsg
-se	Px------y
-je	Va-r3s-n
-zvišala	Vmep-sf
-za	Sa
-0,34	Mdc
-odstotka	Ncmsg
-na	Sa
-59,9	Mdc
-evra	Ncmsg
-,	Z
-dve	Mlcfda
-desetinki	Ncfda
-je	Va-r3s-n
-pridobil	Vmep-sm
-Petrol	Npmsn
-.	Z
-Z	Si
-Luko	Npfsi
-Koper	Npmsn
-se	Px------y
-ni	Va-r3s-y
-trgovalo	Vmpp-sn
-.	Z
-Cena	Ncfsn
-Telekoma	Npmsg
-je	Va-r3s-n
-upadla	Vmep-sf
-za	Sa
-0,07	Mdc
-odstotka	Ncmsg
-,	Z
-ob	Sa
-odstotek	Ncmsan
-je	Va-r3s-n
-Gorenje	Npnsn
-,	Z
-cena	Ncfsn
-NKBM	Npfsn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-skrčila	Vmep-sf
-za	Sa
-tri	Mlcmpa
-odstotke	Ncmpa
-in	Cc
-pol	Rgp
-na	Sa
-6,6	Mdc
-evra	Ncmsg
-.	Z
-Abanka	Npfsn
-je	Va-r3s-n
-upadla	Vmep-sf
-za	Sa
-pet	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-več	Rgc
-kot	Cs
-šest	Mlc-pa
-odstotkov	Ncmpg
-je	Va-r3s-n
-izgubilo	Vmep-sn
-Žito	Ncfsa
-.	Z
-Znižala	Vmep-sf
-se	Px------y
-je	Va-r3s-n
-tudi	Q
-vrednost	Ncfsa
-Laškega	Npnsg
-in	Cc
-Triglava	Npmsg
-,	Z
-1,2	Mdc
-odstotka	Ncmsg
-je	Va-r3s-n
-pridobila	Vmep-sf
-Sava	Npfsn
-,	Z
-2,6	Mdc
-odstotka	Ncmsg
-pa	Cc
-Aerodrom	Npmsn
-.	Z
-Stanje	Ncnsn
-ob	Sl
-12	Mdc
-:	Z
-00	Mdc
-Promet	Ncmsn
-na	Sl
-domači	Agpfsl
-borzi	Ncfsl
-se	Px------y
-vrača	Vmpr3s
-v	Sa
-okvire	Ncmpa
-,	Z
-ki	Cs
-smo	Va-r1p-n
-jih	Pp3mpa--y
-bili	Va-p-pm
-vajeni	Appmpn
-zadnje	Agpmpa
-tedne	Ncmpa
--	Z
-trenutno	Rgp
-znaša	Vmpr3s
-milijon	Ncmsan
-evrov	Ncmpg
-.	Z
-S	Si
-675	Mdc
-tisočaki	Ncmpi
-je	Va-r3s-n
-vodilna	Agpfsn
-Krka	Npfsn
-,	Z
-146	Mdc
-tisoč	Mlc-pa
-so	Va-r3p-n
-dodale	Vmep-pf
-obveznice	Ncfpa
-Soda	Npfsn
-,	Z
-60	Mdc
-tisoč	Mlc-pa
-Petrol	Npmsn
-,	Z
-pol	Rgp
-manj	Rgc
-pa	Cc
-Gorenje	Npnsn
-.	Z
-Indeks	Ncmsn
-SBI	Npmsn
-TOP	Npmsn
-je	Va-r3s-n
-zdaj	Rgp
-negativen	Agpmsnn
-,	Z
-izgubil	Vmep-sm
-je	Va-r3s-n
-0,03	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-prvi	Mlofsl
-kotaciji	Ncfsl
-je	Va-r3s-n
-še	Q
-naprej	Rgp
-najboljši	Agsmsny
-Mercator	Npmsn
-,	Z
-zvišal	Vmep-sm
-se	Px------y
-je	Va-r3s-n
-za	Sa
-1,6	Mdc
-odstotka	Ncmsg
-,	Z
-za	Sa
-malo	Rgp
-več	Rgc
-kot	Cs
-odstotek	Ncmsan
-se	Px------y
-je	Va-r3s-n
-podražila	Vmep-sf
-Intereuropa	Npfsn
-.	Z
-Vrednost	Ncfsn
-Krke	Npfsg
-je	Va-r3s-n
-zrasla	Vmep-sf
-za	Sa
-0,2	Mdc
-odstotka	Ncmsg
-ter	Cc
-se	Px------y
-zvišala	Vmep-sf
-na	Sa
-59,81	Mdc
-evra	Ncmsg
-.	Z
-Z	Si
-Luko	Npfsi
-Koper	Npmsn
-poslov	Ncmpg
-še	Q
-ni	Va-r3s-y
-.	Z
-Pol	Rgp
-odstotka	Ncmsg
-v	Sl
-minusu	Ncmsl
-je	Va-r3s-n
-Gorenje	Npnsn
-,	Z
-Telekom	Npmsn
-je	Va-r3s-n
-upadel	Vmep-sm
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-,	Z
-ob	Sa
-odstotek	Ncmsan
-je	Va-r3s-n
-Petrol	Npmsn
-.	Z
-Na	Sl
-dnu	Ncnsl
-prve	Mlofsg
-kotacije	Ncfsg
-je	Va-r3s-n
-NKBM	Npfsn
-,	Z
-pocenila	Vmep-sf
-se	Px------y
-je	Va-r3s-n
-za	Sa
-2,2	Mdc
-odstotka	Ncmsg
-in	Cc
-padla	Vmep-sf
-na	Sa
-6,7	Mdc
-evra	Ncmsg
-.	Z
-Kar	Rgp
-šest	Mlc-pa
-odstotkov	Ncmpg
-je	Va-r3s-n
-izgubilo	Vmep-sn
-Žito	Ncfsa
-,	Z
-malo	Rgp
-manj	Rgc
-Abanka	Npfsn
-,	Z
-ob	Sa
-dober	Agpmsan
-odstotek	Ncmsan
-je	Va-r3s-n
-Laško	Npnsn
-.	Z
-V	Sl
-plusu	Ncmsl
-je	Va-r3s-n
-Sava	Npfsn
-,	Z
-pridobila	Vmep-sf
-je	Va-r3s-n
-1,2	Mdc
-odstotka	Ncmsg
-,	Z
-za	Sa
-1,7	Mdc
-odstotka	Ncmsg
-je	Va-r3s-n
-zrasel	Vmep-sm
-Salus	Npmsn
-,	Z
-za	Sa
-dobra	Agpmda
-dva	Mlcmda
-in	Cc
-pol	Rgp
-pa	Cc
-Aerodrom	Npmsn
-.	Z
-Stanje	Ncnsa
-ob	Sl
-11	Mdc
-:	Z
-00	Mdc
-Dnevni	Agpmsay
-promet	Ncmsan
-danes	Rgp
-znaša	Vmpr3s
-823	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-,	Z
-večinoma	Rgp
-po	Sl
-zaslugi	Ncfsl
-Krke	Npfsg
-,	Z
-kjer	Cs
-se	Px------y
-je	Va-r3s-n
-obrnilo	Vmep-sn
-576	Mdc
-tisočakov	Ncmpg
-,	Z
-146	Mdc
-tisoč	Mlc-pa
-so	Va-r3p-n
-dodale	Vmep-pf
-obveznice	Ncfpn
-Soda	Npfsn
-.	Z
-Malo	Rgp
-manj	Rgc
-kot	Cs
-20	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-je	Va-r3s-n
-dodalo	Vmep-sn
-Gorenje	Npnsa
-,	Z
-indeks	Ncmsn
-SBI	Npmsn
-TOP	Npmsn
-je	Va-r3s-n
-pridobil	Vmep-sm
-pol	Rgp
-odstotka	Ncmsg
-.	Z
-V	Sl
-prvi	Mlofsl
-kotaciji	Ncfsl
-so	Va-r3p-n
-se	Px------y
-podražile	Vmep-pf
-tri	Mlcfpn
-delnice	Ncfpn
-.	Z
-Za	Sa
-dober	Agpmsan
-odstotek	Ncmsan
-in	Cc
-pol	Rgp
-je	Va-r3s-n
-porasel	Appmsnn
-Mercator	Npmsn
-,	Z
-0,34	Mdc
-odstotka	Ncmsg
-je	Va-r3s-n
-pridobila	Vmep-sf
-Krka	Npfsn
-.	Z
-Z	Si
-njenimi	Ps3fpisf
-delnicami	Ncfpi
-se	Px------y
-tako	Rgp
-trguje	Vmpr3s
-po	Sa
-59,9	Mdc
-evra	Ncmsg
-,	Z
-0,14	Mdc
-odstotka	Ncmsg
-je	Va-r3s-n
-pridobil	Vmep-sm
-Petrol	Npmsn
-.	Z
-Z	Si
-Luko	Npfsi
-Koper	Npmsn
-,	Z
-NKBM	Npfsn
-in	Cc
-Intereuropo	Npmsn
-še	Q
-ni	Va-r3s-y
-poslov	Ncmpg
-.	Z
-Gorenje	Npnsn
-ostaja	Vmpr3s
-na	Sl
-izhodišču	Ncnsl
-,	Z
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-je	Va-r3s-n
-padel	Vmep-sm
-Telekom	Npmsn
-.	Z
-Na	Sl
-dnu	Ncnsl
-je	Va-r3s-n
-Abanka	Npfsn
-,	Z
-izgubila	Vmep-sf
-je	Va-r3s-n
-skoraj	Q
-šest	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-za	Sa
-0,2	Mdc
-odstotka	Ncmsg
-se	Px------y
-je	Va-r3s-n
-znižala	Vmep-sf
-vrednost	Ncfsa
-Aerodroma	Npmsg
-.	Z
-V	Sl
-plusu	Ncmsl
-je	Va-r3s-n
-še	Q
-Salus	Npmsn
-,	Z
-pridobil	Vmep-sm
-je	Va-r3s-n
-1,7	Mdc
-odstotka	Ncmsg
-.	Z
-Stanje	Ncnsn
-ob	Sl
-10	Mdc
-:	Z
-00	Mdc
-Po	Sl
-pol	Rgp
-ure	Ncfsg
-današnjega	Agpnsg
-trgovanja	Ncnsg
-je	Va-r3s-n
-na	Sl
-domači	Agpfsl
-borzi	Ncfsl
-skoraj	Q
-toliko	Rgp
-prometa	Ncmsg
-,	Z
-kot	Cs
-smo	Va-r1p-n
-ga	Pp3msa--y
-našteli	Vmep-pm
-v	Sl
-prvih	Mlompl
-dveh	Mlcmdl
-dneh	Ncmdl
-julija	Ncmsg
-skupaj	Rgp
--	Z
-znaša	Vmpr3s
-658	Mdc
-tisočakov	Ncmpg
-.	Z
-Glavnino	Ncfsa
-(	Z
-481	Mdc
-tisoč	Mlc-pa
-)	Z
-je	Va-r3s-n
-prispevala	Vmbp-sf
-Krka	Npfsn
-,	Z
-142	Mdc
-so	Va-r3p-n
-dodale	Vmep-pf
-obveznice	Ncfpa
-Soda	Npfsn
-,	Z
-še	Q
-18	Mdc
-tisoč	Mlc-pa
-je	Va-r3s-n
-navrglo	Agpnsn
-Gorenje	Npnsn
-.	Z
-Indeks	Ncmsn
-SBI	Npmsn
-TOP	Npmsn
-je	Va-r3s-n
-tik	Rgp
-nad	Si
-izhodiščem	Ncnsi
-,	Z
-pridobil	Vmep-sm
-je	Va-r3s-n
-stotinko	Ncfsa
-odstotka	Ncmsg
-.	Z
-V	Sl
-prvi	Mlofsl
-kotaciji	Ncfsl
-smo	Va-r1p-n
-sicer	Q
-videli	Vmbp-pm
-posle	Ncmpa
-zgolj	Q
-s	Si
-tremi	Mlcfpi
-delnicami	Ncfpi
-,	Z
-ob	Sl
-prometu	Ncmsl
-1.300	Mdc
-evrov	Ncmpg
-se	Px------y
-je	Va-r3s-n
-tako	Rgp
-za	Sa
-0,18	Mdc
-odstotka	Ncmsg
-dvignil	Vmep-sm
-Mercator	Npmsn
-,	Z
-na	Sl
-izhodišču	Ncnsl
-je	Va-r3s-n
-Gorenje	Npnsn
-.	Z
-Krka	Npfsn
-se	Px------y
-je	Va-r3s-n
-rahlo	Rgp
-znižala	Vmep-sf
-,	Z
-njena	Ps3fsnsf
-cena	Ncfsn
-je	Va-r3s-n
-upadla	Vmep-sf
-za	Sa
-0,08	Mdc
-odstotka	Ncmsg
-na	Sa
-59,65	Mdc
-evra	Ncmsg
-.	Z
-Še	Q
-nižje	Rgc
-sta	Va-r3d-n
-delnici	Ncfdn
-Aerodroma	Npmsg
-in	Cc
-Triglava	Npmsg
-.	Z
-Triglav	Npmsn
-se	Px------y
-je	Va-r3s-n
-znižal	Vmep-sm
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-,	Z
-prav	Q
-toliko	Rgp
-je	Va-r3s-n
-izgubil	Vmep-sm
-Aerodrom	Npmsn
-.	Z
-Rahlo	Rgp
-v	Sl
-plusu	Ncmsl
-je	Va-r3s-n
-sicer	Q
-še	Q
-id	Npmsn
-NFd	Npmsn
-,	Z
-pridobil	Vmep-sm
-je	Va-r3s-n
-0,34	Mdc
-odstotka	Ncmsg
-.	Z
+token	tag	lemma
+Domače	mte:Agpfpn	domač
+delnice	mte:Ncfpn	delnica
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+večinoma	mte:Rgp	večinoma
+podražile	mte:Vmep-pf	podražiti
+,	mte:Z	,
+indeks	mte:Ncmsn	indeks
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+zrasel	mte:Vmep-sm	zrasti
+za	mte:Sa	za
+0,15	mte:Mdc	0,15
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Posredniki	mte:Ncmpn	posrednik
+so	mte:Va-r3p-n	biti
+sklenili	mte:Vmep-pm	skleniti
+za	mte:Sa	za
+milijon	mte:Ncmsan	milijon
+in	mte:Cc	in
+pol	mte:Rgp	pol
+evrov	mte:Ncmpg	evro
+prometa	mte:Ncmsg	promet
+Stanje	mte:Ncnsa	stanje
+ob	mte:Sl	ob
+13	mte:Mdc	13
+:	mte:Z	:
+00	mte:Mdc	00
+Posredniki	mte:Ncmpn	posrednik
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+skupaj	mte:Rgp	skupaj
+sklenili	mte:Vmep-pm	skleniti
+za	mte:Sa	za
+milijon	mte:Ncmsan	milijon
+in	mte:Cc	in
+pol	mte:Rgp	pol
+evrov	mte:Ncmpg	evro
+prometa	mte:Ncmsg	promet
+,	mte:Z	,
+z	mte:Si	z
+885	mte:Mdc	885
+tisočaki	mte:Ncmpi	tisočak
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+vodilna	mte:Agpfsn	vodilen
+Krka	mte:Npfsn	Krka
+,	mte:Z	,
+147	mte:Mdc	147
+oziroma	mte:Cc	oziroma
+120	mte:Mdc	120
+tisoč	mte:Mlc-pa	tisoč
+sta	mte:Va-r3d-n	biti
+dodali	mte:Vmep-dm	dodati
+obveznica	mte:Ncfsn	obveznica
+Soda	mte:Npfsn	Soda
+in	mte:Cc	in
+delnica	mte:Ncfsn	delnica
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Sto	mte:Mlc-pa	sto
+tisočakov	mte:Ncmpg	tisočak
+je	mte:Va-r3s-n	biti
+navrgel	mte:Vmep-sm	navreči
+Petrol	mte:Npmsn	Petrol
+,	mte:Z	,
+indeks	mte:Ncmsn	indeks
+SBI	mte:Ncmsn	SBI
+TOP	mte:Ncmsn	TOP
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dan	mte:Ncmsan	dan
+zaključil	mte:Vmep-sm	zaključiti
+s	mte:Si	z
+skokom	mte:Ncmsi	skok
+za	mte:Sa	za
+0,15	mte:Mdc	0,15
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+kotaciji	mte:Ncfsl	kotacija
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+najboljši	mte:Agsmsny	dober
+Mercator	mte:Npmsn	Mercator
+,	mte:Z	,
+pridobil	mte:Vmep-sm	pridobiti
+je	mte:Va-r3s-n	biti
+1,6	mte:Mdc	1,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+za	mte:Sa	za
+1,1	mte:Mdc	1,1
+odstotka	mte:Ncmsg	odstotek
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+okrepila	mte:Vmep-sf	okrepiti
+Intereuropa	mte:Npfsn	Intereurop
+.	mte:Z	.
+Cena	mte:Ncfsn	cena
+Krke	mte:Npfsg	Krka
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zvišala	mte:Vmep-sf	zvišati
+za	mte:Sa	za
+0,34	mte:Mdc	0,34
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+59,9	mte:Mdc	59,9
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+dve	mte:Mlcfda	dva
+desetinki	mte:Ncfda	desetinka
+je	mte:Va-r3s-n	biti
+pridobil	mte:Vmep-sm	pridobiti
+Petrol	mte:Npmsn	Petrol
+.	mte:Z	.
+Z	mte:Si	z
+Luko	mte:Npfsi	Luka
+Koper	mte:Npmsn	Koper
+se	mte:Px------y	se
+ni	mte:Va-r3s-y	biti
+trgovalo	mte:Vmpp-sn	trgovati
+.	mte:Z	.
+Cena	mte:Ncfsn	cena
+Telekoma	mte:Npmsg	Telekom
+je	mte:Va-r3s-n	biti
+upadla	mte:Vmep-sf	upasti
+za	mte:Sa	za
+0,07	mte:Mdc	0,07
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+ob	mte:Sa	ob
+odstotek	mte:Ncmsan	odstotek
+je	mte:Va-r3s-n	biti
+Gorenje	mte:Npnsn	Gorenje
+,	mte:Z	,
+cena	mte:Ncfsn	cena
+NKBM	mte:Npfsn	NKBM
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+skrčila	mte:Vmep-sf	skrčiti
+za	mte:Sa	za
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+in	mte:Cc	in
+pol	mte:Rgp	pol
+na	mte:Sa	na
+6,6	mte:Mdc	6,6
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Abanka	mte:Npfsn	Abanka
+je	mte:Va-r3s-n	biti
+upadla	mte:Vmep-sf	upasti
+za	mte:Sa	za
+pet	mte:Mlc-pa	pet
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+več	mte:Rgc	več
+kot	mte:Cs	kot
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+je	mte:Va-r3s-n	biti
+izgubilo	mte:Vmep-sn	izgubiti
+Žito	mte:Ncfsa	žita
+.	mte:Z	.
+Znižala	mte:Vmep-sf	znižati
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+vrednost	mte:Ncfsa	vrednost
+Laškega	mte:Npnsg	Laško
+in	mte:Cc	in
+Triglava	mte:Npmsg	Triglav
+,	mte:Z	,
+1,2	mte:Mdc	1,2
+odstotka	mte:Ncmsg	odstotek
+je	mte:Va-r3s-n	biti
+pridobila	mte:Vmep-sf	pridobiti
+Sava	mte:Npfsn	Sava
+,	mte:Z	,
+2,6	mte:Mdc	2,6
+odstotka	mte:Ncmsg	odstotek
+pa	mte:Cc	pa
+Aerodrom	mte:Npmsn	Aeroder
+.	mte:Z	.
+Stanje	mte:Ncnsn	stanje
+ob	mte:Sl	ob
+12	mte:Mdc	12
+:	mte:Z	:
+00	mte:Mdc	00
+Promet	mte:Ncmsn	promet
+na	mte:Sl	na
+domači	mte:Agpfsl	domač
+borzi	mte:Ncfsl	borz
+se	mte:Px------y	se
+vrača	mte:Vmpr3s	vračati
+v	mte:Sa	v
+okvire	mte:Ncmpa	okvira
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+jih	mte:Pp3mpa--y	on
+bili	mte:Va-p-pm	biti
+vajeni	mte:Appmpn	vajen
+zadnje	mte:Agpmpa	zadnji
+tedne	mte:Ncmpa	teden
+-	mte:Z	-
+trenutno	mte:Rgp	trenutno
+znaša	mte:Vmpr3s	znašati
+milijon	mte:Ncmsan	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+S	mte:Si	z
+675	mte:Mdc	675
+tisočaki	mte:Ncmpi	tisočak
+je	mte:Va-r3s-n	biti
+vodilna	mte:Agpfsn	vodilen
+Krka	mte:Npfsn	Krka
+,	mte:Z	,
+146	mte:Mdc	146
+tisoč	mte:Mlc-pa	tisoč
+so	mte:Va-r3p-n	biti
+dodale	mte:Vmep-pf	dodati
+obveznice	mte:Ncfpa	obveznica
+Soda	mte:Npfsn	Soda
+,	mte:Z	,
+60	mte:Mdc	60
+tisoč	mte:Mlc-pa	tisoč
+Petrol	mte:Npmsn	Petrol
+,	mte:Z	,
+pol	mte:Rgp	pol
+manj	mte:Rgc	manj
+pa	mte:Cc	pa
+Gorenje	mte:Npnsn	Gorenje
+.	mte:Z	.
+Indeks	mte:Ncmsn	indeks
+SBI	mte:Npmsn	SBI
+TOP	mte:Npmsn	TOP
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+negativen	mte:Agpmsnn	negativen
+,	mte:Z	,
+izgubil	mte:Vmep-sm	izgubiti
+je	mte:Va-r3s-n	biti
+0,03	mte:Mdc	0,03
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+kotaciji	mte:Ncfsl	kotacija
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+najboljši	mte:Agsmsny	dober
+Mercator	mte:Npmsn	Mercator
+,	mte:Z	,
+zvišal	mte:Vmep-sm	zvišati
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+1,6	mte:Mdc	1,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+za	mte:Sa	za
+malo	mte:Rgp	malo
+več	mte:Rgc	več
+kot	mte:Cs	kot
+odstotek	mte:Ncmsan	odstotek
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+podražila	mte:Vmep-sf	podražiti
+Intereuropa	mte:Npfsn	Intereurop
+.	mte:Z	.
+Vrednost	mte:Ncfsn	vrednost
+Krke	mte:Npfsg	Krka
+je	mte:Va-r3s-n	biti
+zrasla	mte:Vmep-sf	zrasti
+za	mte:Sa	za
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+ter	mte:Cc	ter
+se	mte:Px------y	se
+zvišala	mte:Vmep-sf	zvišati
+na	mte:Sa	na
+59,81	mte:Mdc	59,81
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Z	mte:Si	z
+Luko	mte:Npfsi	Luka
+Koper	mte:Npmsn	Koper
+poslov	mte:Ncmpg	posel
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+.	mte:Z	.
+Pol	mte:Rgp	potem
+odstotka	mte:Ncmsg	odstotek
+v	mte:Sl	v
+minusu	mte:Ncmsl	minus
+je	mte:Va-r3s-n	biti
+Gorenje	mte:Npnsn	Gorenje
+,	mte:Z	,
+Telekom	mte:Npmsn	Telekom
+je	mte:Va-r3s-n	biti
+upadel	mte:Vmep-sm	upasti
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+ob	mte:Sa	ob
+odstotek	mte:Ncmsan	odstotek
+je	mte:Va-r3s-n	biti
+Petrol	mte:Npmsn	Petrol
+.	mte:Z	.
+Na	mte:Sl	na
+dnu	mte:Ncnsl	dno
+prve	mte:Mlofsg	prvi
+kotacije	mte:Ncfsg	kotacija
+je	mte:Va-r3s-n	biti
+NKBM	mte:Npfsn	NKBM
+,	mte:Z	,
+pocenila	mte:Vmep-sf	poceniti
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+2,2	mte:Mdc	2,2
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+padla	mte:Vmep-sf	pasti
+na	mte:Sa	na
+6,7	mte:Mdc	6,7
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Kar	mte:Rgp	kar
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+je	mte:Va-r3s-n	biti
+izgubilo	mte:Vmep-sn	izgubiti
+Žito	mte:Ncfsa	žita
+,	mte:Z	,
+malo	mte:Rgp	malo
+manj	mte:Rgc	manj
+Abanka	mte:Npfsn	Abanka
+,	mte:Z	,
+ob	mte:Sa	ob
+dober	mte:Agpmsan	dober
+odstotek	mte:Ncmsan	odstotek
+je	mte:Va-r3s-n	biti
+Laško	mte:Npnsn	Laško
+.	mte:Z	.
+V	mte:Sl	v
+plusu	mte:Ncmsl	plus
+je	mte:Va-r3s-n	biti
+Sava	mte:Npfsn	Sava
+,	mte:Z	,
+pridobila	mte:Vmep-sf	pridobiti
+je	mte:Va-r3s-n	biti
+1,2	mte:Mdc	1,2
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+za	mte:Sa	za
+1,7	mte:Mdc	1,7
+odstotka	mte:Ncmsg	odstotek
+je	mte:Va-r3s-n	biti
+zrasel	mte:Vmep-sm	zrasti
+Salus	mte:Npmsn	Salus
+,	mte:Z	,
+za	mte:Sa	za
+dobra	mte:Agpmda	dober
+dva	mte:Mlcmda	dva
+in	mte:Cc	in
+pol	mte:Rgp	pol
+pa	mte:Cc	pa
+Aerodrom	mte:Npmsn	Aeroder
+.	mte:Z	.
+Stanje	mte:Ncnsa	stanje
+ob	mte:Sl	ob
+11	mte:Mdc	11
+:	mte:Z	:
+00	mte:Mdc	00
+Dnevni	mte:Agpmsay	dneven
+promet	mte:Ncmsan	promet
+danes	mte:Rgp	danes
+znaša	mte:Vmpr3s	znašati
+823	mte:Mdc	823
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+večinoma	mte:Rgp	večinoma
+po	mte:Sl	po
+zaslugi	mte:Ncfsl	zasluga
+Krke	mte:Npfsg	Krka
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+obrnilo	mte:Vmep-sn	obrniti
+576	mte:Mdc	576
+tisočakov	mte:Ncmpg	tisočak
+,	mte:Z	,
+146	mte:Mdc	146
+tisoč	mte:Mlc-pa	tisoč
+so	mte:Va-r3p-n	biti
+dodale	mte:Vmep-pf	dodati
+obveznice	mte:Ncfpn	obveznica
+Soda	mte:Npfsn	Soda
+.	mte:Z	.
+Malo	mte:Rgp	malo
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+20	mte:Mdc	20
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+je	mte:Va-r3s-n	biti
+dodalo	mte:Vmep-sn	dodati
+Gorenje	mte:Npnsa	Gorenje
+,	mte:Z	,
+indeks	mte:Ncmsn	indeks
+SBI	mte:Npmsn	SBI
+TOP	mte:Npmsn	TOP
+je	mte:Va-r3s-n	biti
+pridobil	mte:Vmep-sm	pridobiti
+pol	mte:Rgp	pol
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+kotaciji	mte:Ncfsl	kotacija
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+podražile	mte:Vmep-pf	podražiti
+tri	mte:Mlcfpn	trije
+delnice	mte:Ncfpn	delnica
+.	mte:Z	.
+Za	mte:Sa	za
+dober	mte:Agpmsan	dober
+odstotek	mte:Ncmsan	odstotek
+in	mte:Cc	in
+pol	mte:Rgp	pol
+je	mte:Va-r3s-n	biti
+porasel	mte:Appmsnn	porasel
+Mercator	mte:Npmsn	Mercator
+,	mte:Z	,
+0,34	mte:Mdc	0,34
+odstotka	mte:Ncmsg	odstotek
+je	mte:Va-r3s-n	biti
+pridobila	mte:Vmep-sf	pridobiti
+Krka	mte:Npfsn	Krka
+.	mte:Z	.
+Z	mte:Si	z
+njenimi	mte:Ps3fpisf	njen
+delnicami	mte:Ncfpi	delnica
+se	mte:Px------y	se
+tako	mte:Rgp	tako
+trguje	mte:Vmpr3s	trgovati
+po	mte:Sa	po
+59,9	mte:Mdc	59,9
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+0,14	mte:Mdc	0,14
+odstotka	mte:Ncmsg	odstotek
+je	mte:Va-r3s-n	biti
+pridobil	mte:Vmep-sm	pridobiti
+Petrol	mte:Npmsn	Petrol
+.	mte:Z	.
+Z	mte:Si	z
+Luko	mte:Npfsi	Luka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+NKBM	mte:Npfsn	NKBM
+in	mte:Cc	in
+Intereuropo	mte:Npmsn	Intereuropo
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+poslov	mte:Ncmpg	posel
+.	mte:Z	.
+Gorenje	mte:Npnsn	Gorenje
+ostaja	mte:Vmpr3s	ostajati
+na	mte:Sl	na
+izhodišču	mte:Ncnsl	izhodišče
+,	mte:Z	,
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+je	mte:Va-r3s-n	biti
+padel	mte:Vmep-sm	pasti
+Telekom	mte:Npmsn	Telekom
+.	mte:Z	.
+Na	mte:Sl	na
+dnu	mte:Ncnsl	dno
+je	mte:Va-r3s-n	biti
+Abanka	mte:Npfsn	Abanka
+,	mte:Z	,
+izgubila	mte:Vmep-sf	izgubiti
+je	mte:Va-r3s-n	biti
+skoraj	mte:Q	skoraj
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+za	mte:Sa	za
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+znižala	mte:Vmep-sf	znižati
+vrednost	mte:Ncfsa	vrednost
+Aerodroma	mte:Npmsg	Aerodrom
+.	mte:Z	.
+V	mte:Sl	v
+plusu	mte:Ncmsl	plus
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+Salus	mte:Npmsn	Salus
+,	mte:Z	,
+pridobil	mte:Vmep-sm	pridobiti
+je	mte:Va-r3s-n	biti
+1,7	mte:Mdc	1,7
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Stanje	mte:Ncnsn	stanje
+ob	mte:Sl	ob
+10	mte:Mdc	10
+:	mte:Z	:
+00	mte:Mdc	00
+Po	mte:Sl	po
+pol	mte:Rgp	pol
+ure	mte:Ncfsg	ura
+današnjega	mte:Agpnsg	današnji
+trgovanja	mte:Ncnsg	trgovanje
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+domači	mte:Agpfsl	domač
+borzi	mte:Ncfsl	borz
+skoraj	mte:Q	skoraj
+toliko	mte:Rgp	toliko
+prometa	mte:Ncmsg	promet
+,	mte:Z	,
+kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+ga	mte:Pp3msa--y	on
+našteli	mte:Vmep-pm	našteti
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+dveh	mte:Mlcmdl	dva
+dneh	mte:Ncmdl	dan
+julija	mte:Ncmsg	julij
+skupaj	mte:Rgp	skupaj
+-	mte:Z	-
+znaša	mte:Vmpr3s	znašati
+658	mte:Mdc	658
+tisočakov	mte:Ncmpg	tisočak
+.	mte:Z	.
+Glavnino	mte:Ncfsa	glavnina
+(	mte:Z	(
+481	mte:Mdc	481
+tisoč	mte:Mlc-pa	tisoč
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+prispevala	mte:Vmbp-sf	prispevati
+Krka	mte:Npfsn	Krka
+,	mte:Z	,
+142	mte:Mdc	142
+so	mte:Va-r3p-n	biti
+dodale	mte:Vmep-pf	dodati
+obveznice	mte:Ncfpa	obveznica
+Soda	mte:Npfsn	Soda
+,	mte:Z	,
+še	mte:Q	še
+18	mte:Mdc	18
+tisoč	mte:Mlc-pa	tisoč
+je	mte:Va-r3s-n	biti
+navrglo	mte:Agpnsn	navrgel
+Gorenje	mte:Npnsn	Gorenje
+.	mte:Z	.
+Indeks	mte:Ncmsn	indeks
+SBI	mte:Npmsn	SBI
+TOP	mte:Npmsn	TOP
+je	mte:Va-r3s-n	biti
+tik	mte:Rgp	tik
+nad	mte:Si	nad
+izhodiščem	mte:Ncnsi	izhodišče
+,	mte:Z	,
+pridobil	mte:Vmep-sm	pridobiti
+je	mte:Va-r3s-n	biti
+stotinko	mte:Ncfsa	stotinka
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+kotaciji	mte:Ncfsl	kotacija
+smo	mte:Va-r1p-n	biti
+sicer	mte:Q	sicer
+videli	mte:Vmbp-pm	videti
+posle	mte:Ncmpa	posel
+zgolj	mte:Q	zgolj
+s	mte:Si	z
+tremi	mte:Mlcfpi	trije
+delnicami	mte:Ncfpi	delnica
+,	mte:Z	,
+ob	mte:Sl	ob
+prometu	mte:Ncmsl	promet
+1.300	mte:Mdc	1.300
+evrov	mte:Ncmpg	evro
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+za	mte:Sa	za
+0,18	mte:Mdc	0,18
+odstotka	mte:Ncmsg	odstotek
+dvignil	mte:Vmep-sm	dvigniti
+Mercator	mte:Npmsn	Mercator
+,	mte:Z	,
+na	mte:Sl	na
+izhodišču	mte:Ncnsl	izhodišče
+je	mte:Va-r3s-n	biti
+Gorenje	mte:Npnsn	Gorenje
+.	mte:Z	.
+Krka	mte:Npfsn	Krka
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+rahlo	mte:Rgp	rahlo
+znižala	mte:Vmep-sf	znižati
+,	mte:Z	,
+njena	mte:Ps3fsnsf	njen
+cena	mte:Ncfsn	cena
+je	mte:Va-r3s-n	biti
+upadla	mte:Vmep-sf	upasti
+za	mte:Sa	za
+0,08	mte:Mdc	0,08
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+59,65	mte:Mdc	59,65
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Še	mte:Q	še
+nižje	mte:Rgc	nizek
+sta	mte:Va-r3d-n	biti
+delnici	mte:Ncfdn	delnica
+Aerodroma	mte:Npmsg	Aerodrom
+in	mte:Cc	in
+Triglava	mte:Npmsg	Triglav
+.	mte:Z	.
+Triglav	mte:Npmsn	Triglav
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+znižal	mte:Vmep-sm	znižati
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+prav	mte:Q	prav
+toliko	mte:Rgp	toliko
+je	mte:Va-r3s-n	biti
+izgubil	mte:Vmep-sm	izgubiti
+Aerodrom	mte:Npmsn	Aeroder
+.	mte:Z	.
+Rahlo	mte:Rgp	rahlo
+v	mte:Sl	v
+plusu	mte:Ncmsl	plus
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+še	mte:Q	še
+id	mte:Npmsn	id
+NFd	mte:Npmsn	NFd
+,	mte:Z	,
+pridobil	mte:Vmep-sm	pridobiti
+je	mte:Va-r3s-n	biti
+0,34	mte:Mdc	0,34
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Na	mte:Sl	na
+izhodišču	mte:Ncnsl	izhodišče
+ob	mte:Sl	ob
+prometu	mte:Ncmsl	promet
+le	mte:Q	le
+80	mte:Mdc	80
+evrov	mte:Ncmpg	evro
+je	mte:Va-r3s-n	biti
+Sava	mte:Npfsn	Sava

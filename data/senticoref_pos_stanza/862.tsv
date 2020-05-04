@@ -1,398 +1,434 @@
-token	tag
-Zaradi	Sg
-selitve	Ncfsg
-programa	Ncmsg
-izdelave	Ncfsg
-sedežnih	Agpfpg
-prevlek	Ncfpg
-za	Sa
-model	Ncmsan
-passat	Ncmsn
-comfort	Ncmsn
-iz	Sg
-Slovenj	Npmsg
-Gradca	Npmsg
-v	Sa
-Sarajevo	Npnsa
-,	Z
-so	Va-r3p-n
-pretekli	Appmsay
-teden	Ncmsan
-na	Sa
-čakanje	Ncnsa
-na	Sa
-delo	Ncnsa
-napotili	Vmep-pm
-17	Mdc
-Preventovih	Aspmpg
-delavcev	Ncmpg
-,	Z
-danes	Rgp
-pa	Cc
-še	Q
-28	Mdc
-.	Z
-Sedež	Ncmsn
-podjetja	Ncnsg
-Prevent	Npmsn
-Global	Npmsn
-v	Sl
-Slovenj	Npmsl
-Gradcu	Npmsl
-Na	Sl
-programu	Ncmsl
-izdelave	Ncfsg
-avtomobilskih	Agpfpg
-sedežnih	Agpfpg
-prevlek	Ncfpg
-za	Sa
-passat	Ncmsan
-comfort	Ncmsn
-sicer	Q
-dela	Vmpr3s
-150	Mdc
-delavcev	Ncmpg
-,	Z
-vendar	Cc
-so	Va-r3p-n
-jih	Pp3mpa--y
-nekaj	Pi-nsa
-prerazporedili	Vmep-pm
-v	Sa
-obrat	Ncmsan
-v	Sl
-Radlje	Npfsl
-ob	Sl
-Dravi	Npfsl
-,	Z
-kjer	Cs
-imajo	Vmpr3p-n
-trenutno	Rgp
-več	Rgc
-dela	Ncnsg
-,	Z
-veliko	Rgp
-jih	Pp3mpg--y
-je	Va-r3s-n
-tudi	Q
-na	Sl
-bolniški	Agpfsl
-.	Z
-Zaenkrat	Rgp
-tako	Rgp
-še	Q
-ni	Va-r3s-y
-znano	Appnsn
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-v	Sl
-prihodnjih	Agpmpl
-dneh	Ncmpl
-moralo	Vmpp-sn
-na	Sa
-čakanje	Ncnsa
-še	Q
-kaj	Pq-nsa
-delavcev	Ncmpg
-,	Z
-je	Va-r3s-n
-povedala	Vmep-sf
-predstavnica	Ncfsn
-za	Sa
-stike	Ncmpa
-z	Si
-mediji	Ncmpi
-v	Sl
-Prevent	Npmsl
-Globalu	Npmsl
-Monika	Npfsn
-Žvikart	Npfsn
-.	Z
-Selitev	Ncfsn
-programa	Ncmsg
-passat	Ncmsn
-comfort	Ncmsn
-v	Sa
-Sarajevo	Npnsa
-je	Va-r3s-n
-bila	Va-p-sf
-sicer	Q
-po	Sl
-besedah	Ncfpl
-predsednika	Ncmsg
-uprave	Ncfsg
-Prevent	Npmsn
-Globala	Npmsg
-Ivana	Npmsg
-Majcna	Npmsg
-z	Si
-nemškim	Agpnsi
-podjetjem	Ncnsi
-Prevent	Npmsn
-DEV	Npmsn
-dogovorjena	Appfsn
-že	Q
-lani	Rgp
-.	Z
-Kot	Cs
-kaže	Vmpr3s
-,	Z
-pa	Cc
-se	Px------y
-izvaja	Vmpr3s
-v	Sl
-zelo	Rgp
-neugodnem	Agpmsl
-času	Ncmsl
-za	Sa
-podjetje	Ncnsa
-Prevent	Npmsn
-Global	Npmsn
-.	Z
-Nesoglasje	Ncnsn
-med	Si
-največjima	Agsmdi
-lastnikoma	Ncmdi
-Položaj	Ncmsn
-družbe	Ncfsg
-je	Va-r3s-n
-negotov	Agpmsnn
-zaradi	Sg
-nesoglasij	Ncnpg
-med	Si
-največjima	Agsmdi
-lastnikoma	Ncmdi
-Prevent	Npmsi
-Globala	Npmsg
-,	Z
-Jankom	Npmsi
-Zakeršnikom	Npmsi
-in	Cc
-Nijazom	Npmsi
-Hastorjem	Npmsi
-,	Z
-sicer	Q
-tudi	Q
-lastnikom	Ncmsi
-podjetja	Ncnsg
-Prevent	Npmsn
-DEV	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-kupec	Ncmsn
-večine	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-sešitih	Agpfpg
-Preventovih	Aspfpg
-avtomobilskih	Agpfpg
-sedežnih	Agpfpg
-prevlek	Ncfpg
-.	Z
-Stanje	Ncnsa
-zaostrujejo	Vmpr3p
-Hastorjevi	Aspmpn
-doslej	Rgp
-neuspešni	Agpmpn
-pritiski	Ncmpn
-k	Sd
-odstopu	Ncmsd
-uprave	Ncfsg
-in	Cc
-nezaupanje	Ncnsa
-podrejenih	Appmpg
-direktorjev	Ncmpg
-do	Sg
-vodstva	Ncnsg
-družbe	Ncfsg
-.	Z
-Strani	Ncfsg
-bosta	Va-f3d-n
-stališča	Ncnpa
-skušali	Vmpp-dm
-zbližati	Vmen
-na	Sl
-sestanku	Ncmsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-napovedan	Appmsan
-za	Sa
-sredo	Ncfsa
-.	Z
-Po	Sl
-za	Sl
-zdaj	Rgp
-znanih	Appfpg
-informacijah	Ncfpl
-bodo	Va-f3p-n
-s	Sg
-strani	Ncfsg
-Prevent	Npmsn
-Globala	Npmsg
-na	Sl
-sestanku	Ncmsl
-sodelovali	Vmpp-pm
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Vladimir	Npmsn
-Bilić	Npmsn
-,	Z
-odvetnik	Ncmsn
-Miran	Npmsn
-Kos	Npmsn
-,	Z
-na	Sa
-katerega	Pq-msa
-so	Va-r3p-n
-se	Px------y
-zaradi	Sg
-razmer	Ncfpg
-v	Sl
-družbi	Ncfsl
-obrnili	Vmep-pm
-izvršni	Agpmpn
-direktorji	Ncmpn
-Prevent	Npmsn
-Globala	Npmsg
-,	Z
-na	Sl
-sestanku	Ncmsl
-pa	Cc
-bodo	Va-f3p-n
-sodelovali	Vmpp-pm
-tudi	Q
-nekateri	Pi-mpn
-izvršni	Agpmpn
-direktorji	Ncmpn
-.	Z
-Janko	Npmsn
-Zakeršnik	Npmsn
-Foto	Ncmsn
-POP	Npmsn
-TV	Ncmsn
-Kot	Cs
-je	Va-r3s-n
-povedal	Vmep-sm
-Bilić	Npmsn
-,	Z
-so	Va-r3p-n
-s	Si
-Prevent	Npmsi
-DEV	Npmsn
-že	Q
-posredovali	Vmbp-pm
-nekatere	Pi-mpa
-pogoje	Ncmpa
-,	Z
-pod	Si
-katerimi	Pq-mpi
-so	Va-r3p-n
-pripravljeni	Appmpn
-nadaljevati	Vmpn
-poslovno	Agpnsa
-sodelovanje	Ncnsa
-s	Si
-Prevent	Npmsi
-Globalom	Npmsi
-.	Z
-Med	Si
-drugim	Mlpnsi
-naj	Q
-bi	Va-c
-želeli	Vmpp-pm
-večjo	Agcfsa
-vlogo	Ncfsa
-pri	Sl
-imenovanju	Ncnsl
-uprave	Ncfsg
-družbe	Ncfsg
-.	Z
-Lastniki	Ncmpn
-bodo	Va-f3p-n
-na	Sl
-skupščini	Ncfsl
-odločali	Vmpp-pm
-tudi	Q
-o	Sl
-prodaji	Ncfsl
-premoženja	Ncnsg
-Prevent	Npmsn
-Globala	Npmsg
-Sicer	Q
-pa	Cc
-je	Va-r3s-n
-uprava	Ncfsn
-Prevent	Npfsn
-Globala	Npfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-sestavljata	Vmpr3d
-predsednik	Ncmsn
-Ivan	Npmsn
-Majcen	Npmsn
-in	Cc
-član	Ncmsn
-Dušan	Npmsn
-Zakeršnik	Npmsn
-,	Z
-v	Sa
-soboto	Ncfsa
-v	Sl
-časniku	Ncmsl
-Večer	Ncmsan
-objavila	Vmep-dm
-sklic	Ncmsan
-skupščine	Ncfsg
-družbe	Ncfsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-22	Mdc
-.	Z
-decembra	Ncmsg
-.	Z
-Delničarji	Ncmpn
-bodo	Va-f3p-n
-sprejemali	Vmpp-pm
-sklep	Ncmsan
-,	Z
-povezan	Appmsnn
-s	Si
-prodajo	Ncfsi
-premoženja	Ncnsg
-,	Z
-in	Cc
-odločali	Vmpp-pm
-o	Sl
-dveh	Mlcmdl
-novih	Agpmdl
-članih	Ncmdl
-nadzornega	Agpmsg
-sveta	Ncmsg
-.	Z
-Po	Sl
-odstopih	Ncmpl
-Bogdana	Npmsg
-Šavlija	Npmsg
-in	Cc
-Janka	Npmsg
-Šteharnika	Npmsg
-nadzorni	Agpmsny
-svet	Ncmsan
-predlaga	Vmbr3s
-imenovanje	Ncnsa
-Vojka	Npmsg
-Karnerja	Npmsg
-in	Cc
-Andreja	Npmsg
-Korošca	Npmsg
-za	Sa
-člana	Ncmsay
-nadzornega	Agpmsg
-sveta	Ncmsg
-.	Z
+token	tag	lemma
+Zaradi	mte:Sg	zaradi
+selitve	mte:Ncfsg	selitev
+programa	mte:Ncmsg	program
+izdelave	mte:Ncfsg	izdelava
+sedežnih	mte:Agpfpg	sedežen
+prevlek	mte:Ncfpg	prevleka
+za	mte:Sa	za
+model	mte:Ncmsan	model
+passat	mte:Ncmsn	passat
+comfort	mte:Ncmsn	comfort
+iz	mte:Sg	iz
+Slovenj	mte:Npmsg	Slovenj
+Gradca	mte:Npmsg	Gradc
+v	mte:Sa	v
+Sarajevo	mte:Npnsa	Sarajeva
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pretekli	mte:Appmsay	pretekel
+teden	mte:Ncmsan	teden
+na	mte:Sa	na
+čakanje	mte:Ncnsa	čakanje
+na	mte:Sa	na
+delo	mte:Ncnsa	delo
+napotili	mte:Vmep-pm	napotiti
+17	mte:Mdc	17
+Preventovih	mte:Aspmpg	Preventov
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+danes	mte:Rgp	danes
+pa	mte:Cc	pa
+še	mte:Q	še
+28	mte:Mdc	28
+.	mte:Z	.
+Sedež	mte:Ncmsn	sedež
+podjetja	mte:Ncnsg	podjetje
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+v	mte:Sl	v
+Slovenj	mte:Npmsl	Slovenj
+Gradcu	mte:Npmsl	Gradec
+Na	mte:Sl	na
+programu	mte:Ncmsl	program
+izdelave	mte:Ncfsg	izdelava
+avtomobilskih	mte:Agpfpg	avtomobilski
+sedežnih	mte:Agpfpg	sedežen
+prevlek	mte:Ncfpg	prevleka
+za	mte:Sa	za
+passat	mte:Ncmsan	passat
+comfort	mte:Ncmsn	comfort
+sicer	mte:Q	sicer
+dela	mte:Vmpr3s	delati
+150	mte:Mdc	150
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+vendar	mte:Cc	vendar
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+nekaj	mte:Pi-nsa	nekaj
+prerazporedili	mte:Vmep-pm	prerazporediti
+v	mte:Sa	v
+obrat	mte:Ncmsan	obrat
+v	mte:Sl	v
+Radlje	mte:Npfsl	Radlje
+ob	mte:Sl	ob
+Dravi	mte:Npfsl	Dravi
+,	mte:Z	,
+kjer	mte:Cs	kjer
+imajo	mte:Vmpr3p-n	imeti
+trenutno	mte:Rgp	trenutno
+več	mte:Rgc	več
+dela	mte:Ncnsg	delo
+,	mte:Z	,
+veliko	mte:Rgp	veliko
+jih	mte:Pp3mpg--y	on
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+bolniški	mte:Agpfsl	bolniški
+.	mte:Z	.
+Zaenkrat	mte:Rgp	zaenkrat
+tako	mte:Rgp	tako
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+dneh	mte:Ncmpl	dan
+moralo	mte:Vmpp-sn	morati
+na	mte:Sa	na
+čakanje	mte:Ncnsa	čakanje
+še	mte:Q	še
+kaj	mte:Pq-nsa	kaj
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedala	mte:Vmep-sf	povedati
+predstavnica	mte:Ncfsn	predstavnica
+za	mte:Sa	za
+stike	mte:Ncmpa	stik
+z	mte:Si	z
+mediji	mte:Ncmpi	medij
+v	mte:Sl	v
+Prevent	mte:Npmsl	Prevent
+Globalu	mte:Npmsl	Global
+Monika	mte:Npfsn	Monika
+Žvikart	mte:Npfsn	Žvikart
+.	mte:Z	.
+Selitev	mte:Ncfsn	selitev
+programa	mte:Ncmsg	program
+passat	mte:Ncmsn	passat
+comfort	mte:Ncmsn	comfort
+v	mte:Sa	v
+Sarajevo	mte:Npnsa	Sarajeva
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+sicer	mte:Q	sicer
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Prevent	mte:Npmsn	Prevent
+Globala	mte:Npmsg	Global
+Ivana	mte:Npmsg	Ivan
+Majcna	mte:Npmsg	Majcn
+z	mte:Si	z
+nemškim	mte:Agpnsi	nemški
+podjetjem	mte:Ncnsi	podjetje
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+dogovorjena	mte:Appfsn	dogovorjen
+že	mte:Q	že
+lani	mte:Rgp	lani
+.	mte:Z	.
+Kot	mte:Cs	kot
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+pa	mte:Cc	pa
+se	mte:Px------y	se
+izvaja	mte:Vmpr3s	izvajati
+v	mte:Sl	v
+zelo	mte:Rgp	zelo
+neugodnem	mte:Agpmsl	neugoden
+času	mte:Ncmsl	čas
+za	mte:Sa	za
+podjetje	mte:Ncnsa	podjetje
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+.	mte:Z	.
+Nesoglasje	mte:Ncnsn	nesoglasje
+med	mte:Si	med
+največjima	mte:Agsmdi	velik
+lastnikoma	mte:Ncmdi	lastnik
+Položaj	mte:Ncmsn	položaj
+družbe	mte:Ncfsg	družba
+je	mte:Va-r3s-n	biti
+negotov	mte:Agpmsnn	negotov
+zaradi	mte:Sg	zaradi
+nesoglasij	mte:Ncnpg	nesoglasje
+med	mte:Si	med
+največjima	mte:Agsmdi	velik
+lastnikoma	mte:Ncmdi	lastnik
+Prevent	mte:Npmsi	Prevent
+Globala	mte:Npmsg	Global
+,	mte:Z	,
+Jankom	mte:Npmsi	Jank
+Zakeršnikom	mte:Npmsi	Zakeršnik
+in	mte:Cc	in
+Nijazom	mte:Npmsi	Nijaz
+Hastorjem	mte:Npmsi	Hastor
+,	mte:Z	,
+sicer	mte:Q	sicer
+tudi	mte:Q	tudi
+lastnikom	mte:Ncmsi	lastnik
+podjetja	mte:Ncnsg	podjetje
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+kupec	mte:Ncmsn	kupec
+večine	mte:Ncfsg	večina
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+sešitih	mte:Agpfpg	sešit
+Preventovih	mte:Aspfpg	Preventov
+avtomobilskih	mte:Agpfpg	avtomobilski
+sedežnih	mte:Agpfpg	sedežen
+prevlek	mte:Ncfpg	prevleka
+.	mte:Z	.
+Stanje	mte:Ncnsa	stanje
+zaostrujejo	mte:Vmpr3p	zaostruvati
+Hastorjevi	mte:Aspmpn	Hastorjev
+doslej	mte:Rgp	doslej
+neuspešni	mte:Agpmpn	neuspešen
+pritiski	mte:Ncmpn	pritisk
+k	mte:Sd	k
+odstopu	mte:Ncmsd	odstop
+uprave	mte:Ncfsg	uprava
+in	mte:Cc	in
+nezaupanje	mte:Ncnsa	nezaupanje
+podrejenih	mte:Appmpg	podrejen
+direktorjev	mte:Ncmpg	direktor
+do	mte:Sg	do
+vodstva	mte:Ncnsg	vodstvo
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Strani	mte:Ncfsg	stran
+bosta	mte:Va-f3d-n	biti
+stališča	mte:Ncnpa	stališče
+skušali	mte:Vmpp-dm	skušati
+zbližati	mte:Vmen	zbližati
+na	mte:Sl	na
+sestanku	mte:Ncmsl	sestanek
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+napovedan	mte:Appmsan	napovedan
+za	mte:Sa	za
+sredo	mte:Ncfsa	sreda
+.	mte:Z	.
+Po	mte:Sl	po
+za	mte:Sl	za
+zdaj	mte:Rgp	zdaj
+znanih	mte:Appfpg	znan
+informacijah	mte:Ncfpl	informacija
+bodo	mte:Va-f3p-n	biti
+s	mte:Sg	z
+strani	mte:Ncfsg	stran
+Prevent	mte:Npmsn	Prevent
+Globala	mte:Npmsg	Global
+na	mte:Sl	na
+sestanku	mte:Ncmsl	sestanek
+sodelovali	mte:Vmpp-pm	sodelovati
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Vladimir	mte:Npmsn	Vladimir
+Bilić	mte:Npmsn	Bilić
+,	mte:Z	,
+odvetnik	mte:Ncmsn	odvetnik
+Miran	mte:Npmsn	Miran
+Kos	mte:Npmsn	Kos
+,	mte:Z	,
+na	mte:Sa	na
+katerega	mte:Pq-msa	kateri
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+zaradi	mte:Sg	zaradi
+razmer	mte:Ncfpg	razmera
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+obrnili	mte:Vmep-pm	obrniti
+izvršni	mte:Agpmpn	izvršen
+direktorji	mte:Ncmpn	direktor
+Prevent	mte:Npmsn	Prevent
+Globala	mte:Npmsg	Global
+,	mte:Z	,
+na	mte:Sl	na
+sestanku	mte:Ncmsl	sestanek
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+sodelovali	mte:Vmpp-pm	sodelovati
+tudi	mte:Q	tudi
+nekateri	mte:Pi-mpn	nekateri
+izvršni	mte:Agpmpn	izvršen
+direktorji	mte:Ncmpn	direktor
+.	mte:Z	.
+Janko	mte:Npmsn	Janko
+Zakeršnik	mte:Npmsn	Zakeršnik
+Foto	mte:Ncmsn	foto
+POP	mte:Npmsn	POP
+TV	mte:Ncmsn	TV
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Bilić	mte:Npmsn	Bilić
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+s	mte:Si	z
+Prevent	mte:Npmsi	Prevent
+DEV	mte:Npmsn	DEV
+že	mte:Q	že
+posredovali	mte:Vmbp-pm	posredovati
+nekatere	mte:Pi-mpa	nekateri
+pogoje	mte:Ncmpa	pogoj
+,	mte:Z	,
+pod	mte:Si	pod
+katerimi	mte:Pq-mpi	kateri
+so	mte:Va-r3p-n	biti
+pripravljeni	mte:Appmpn	pripravljen
+nadaljevati	mte:Vmpn	nadaljevati
+poslovno	mte:Agpnsa	posloven
+sodelovanje	mte:Ncnsa	sodelovanje
+s	mte:Si	z
+Prevent	mte:Npmsi	Prevent
+Globalom	mte:Npmsi	Global
+.	mte:Z	.
+Med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+želeli	mte:Vmpp-pm	želeti
+večjo	mte:Agcfsa	velik
+vlogo	mte:Ncfsa	vloga
+pri	mte:Sl	pri
+imenovanju	mte:Ncnsl	imenovanje
+uprave	mte:Ncfsg	uprava
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Lastniki	mte:Ncmpn	lastnik
+bodo	mte:Va-f3p-n	biti
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+odločali	mte:Vmpp-pm	odločati
+tudi	mte:Q	tudi
+o	mte:Sl	o
+prodaji	mte:Ncfsl	prodaja
+premoženja	mte:Ncnsg	premoženje
+Prevent	mte:Npmsn	Prevent
+Globala	mte:Npmsg	Global
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+Prevent	mte:Npfsn	Prevent
+Globala	mte:Npfsn	Global
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+sestavljata	mte:Vmpr3d	sestavljati
+predsednik	mte:Ncmsn	predsednik
+Ivan	mte:Npmsn	Ivan
+Majcen	mte:Npmsn	Majcen
+in	mte:Cc	in
+član	mte:Ncmsn	član
+Dušan	mte:Npmsn	Dušan
+Zakeršnik	mte:Npmsn	Zakeršnik
+,	mte:Z	,
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+v	mte:Sl	v
+časniku	mte:Ncmsl	časnik
+Večer	mte:Ncmsan	večer
+objavila	mte:Vmep-dm	objaviti
+sklic	mte:Ncmsan	sklic
+skupščine	mte:Ncfsg	skupščina
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+22	mte:Mdc	22
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+.	mte:Z	.
+Delničarji	mte:Ncmpn	delničar
+bodo	mte:Va-f3p-n	biti
+sprejemali	mte:Vmpp-pm	sprejemati
+sklep	mte:Ncmsan	sklep
+,	mte:Z	,
+povezan	mte:Appmsnn	povezan
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+in	mte:Cc	in
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+dveh	mte:Mlcmdl	dva
+novih	mte:Agpmdl	nov
+članih	mte:Ncmdl	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+Po	mte:Sl	po
+odstopih	mte:Ncmpl	odstop
+Bogdana	mte:Npmsg	Bogdan
+Šavlija	mte:Npmsg	Šavlija
+in	mte:Cc	in
+Janka	mte:Npmsg	Jank
+Šteharnika	mte:Npmsg	Šteharnik
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+predlaga	mte:Vmbr3s	predlagati
+imenovanje	mte:Ncnsa	imenovanje
+Vojka	mte:Npmsg	Vojka
+Karnerja	mte:Npmsg	Karner
+in	mte:Cc	in
+Andreja	mte:Npmsg	Andreja
+Korošca	mte:Npmsg	Korošca
+za	mte:Sa	za
+člana	mte:Ncmsay	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+in	mte:Cc	in
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+skupščini	mte:Ncfsd	skupščina
+v	mte:Sa	v
+sprejem	mte:Ncmsan	sprejem
+predlagata	mte:Vmbr3d	predlagati
+tudi	mte:Q	tudi
+sklep	mte:Ncmsan	sklep
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+za	mte:Sa	za
+preveritev	mte:Ncfsa	preveritev
+vodenja	mte:Ncnsg	vodenje
+poslov	mte:Ncmpg	posel
+med	mte:Si	med
+družbama	mte:Ncfdi	družba
+Prevent	mte:Npmsn	Prevent
+Global	mte:Npmsn	Global
+in	mte:Cc	in
+Prevent	mte:Npmsn	Prevent
+DEV	mte:Npmsn	DEV
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+petih	mte:Mlc-pl	pet
+letih	mte:Ncnpl	leto
+imenuje	mte:Vmbr3s	imenovati
+posebni	mte:Agpmsny	poseben
+revizor	mte:Ncmsn	revizor
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+družba	mte:Ncfsn	družba
+PricewaterhouseCoopers	mte:Ncmsn	pricewaterhousecoopers

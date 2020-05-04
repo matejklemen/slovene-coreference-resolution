@@ -1,649 +1,679 @@
-token	tag
-Na	Sl
-podlagi	Ncfsl
-analize	Ncfsg
-ekonomistov	Ncmpg
-naj	Q
-bi	Va-c
-prvi	Mlomsn
-pivovar	Ncmsn
-Boško	Npmsn
-Šrot	Npmsn
-zlorabljal	Vmpp-sm
-Mercator	Npmsan
-pri	Sl
-prodaji	Ncfsl
-pijač	Ncfpg
-.	Z
-Zaradi	Sg
-tega	Pd-msg
-Šrotu	Npmsd
-grozi	Vmpr3s
-obvezna	Agpfsn
-prodaja	Ncfsn
-Mercatorja	Npmsg
-in	Cc
-globa	Ncfsg
-.	Z
-Po	Sl
-poročanju	Ncnsl
-današnje	Agpfsg
-izdaje	Ncfsg
-Financ	Ncmpg
-prvi	Mlomsn
-pivovar	Ncmsn
-Boško	Npmsn
-Šrot	Npmsn
-lastništvo	Ncnsn
-Mercatorja	Npmsg
-zlorablja	Vmpr3s
-pri	Sl
-grosistični	Agpfsl
-prodaji	Ncfsl
-pijač	Ncfpg
-.	Z
-To	Pd-nsn
-naj	Q
-bi	Va-c
-bi	Va-c
-bilo	Va-p-sn
-razvidno	Agpnsn
-iz	Sg
-analize	Ncfsg
-ekonomista	Ncmsg
-Aljoše	Npmsg
-Feldina	Npmsg
-in	Cc
-Saša	Npmsg
-Polanca	Npmsg
-.	Z
-Šrotu	Npmsd
-naj	Q
-bi	Va-c
-tudi	Q
-grozila	Vmpp-sf
-obvezna	Agpfsn
-prodaja	Ncfsn
-Mercatorja	Npmsg
-in	Cc
-globa	Ncfsg
-v	Sl
-višini	Ncfsl
-do	Sg
-10	Mdc
-odstotkov	Ncmpg
-letnega	Agpmsg
-prometa	Ncmsg
-.	Z
-Šrot	Npmsn
-je	Va-r3s-n
-večkrat	Rgc
-zatrdi	Vmer3s
-,	Z
-da	Cs
-finančna	Agpfsn
-kriza	Ncfsn
-ni	Va-r3s-y
-razlog	Ncmsn
-za	Sa
-prodajo	Ncfsa
-Mercatorja	Npmsg
-,	Z
-temveč	Cc
-so	Va-r3p-n
-se	Px------y
-za	Sa
-prodajo	Ncfsa
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-odločili	Vmep-pm
-,	Z
-ker	Cs
-država	Ncfsn
-preko	Sg
-urada	Ncmsg
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-izvaja	Vmpr3s
-teror	Ncmsan
-nad	Si
-Pivovarno	Ncfsi
-Laško	Npnsn
-.	Z
-Družbe	Ncfsg
-okoli	Sg
-Laškega	Npnsg
-dobavijo	Vmer3p
-77,55	Mdc
-odstotka	Ncmsg
-vseh	Pg-fpg
-pijač	Ncfpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-proda	Vmer3s
-Mercator	Npmsn
-.	Z
-Mercator	Npmsn
-pa	Cc
-je	Va-r3s-n
-lani	Rgp
-obvladoval	Vmpp-sm
-64,3	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-na	Sl
-grosističnem	Agpmsl
-trgu	Ncmsl
-pijač	Ncfpg
-v	Sa
-delež	Ncmsan
-so	Va-r3p-n
-sicer	Q
-vključene	Appfpn
-tudi	Q
-pijače	Ncfpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-Mercator	Npmsn
-naprej	Rgp
-proda	Vmer3s
-gostincem	Ncmpd
-,	Z
-ker	Cs
-v	Sl
-Laškem	Npnsl
-podatkov	Ncmpg
-niso	Va-r3p-y
-ločili	Vmbp-pm
-.	Z
-To	Pd-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-od	Sg
-lani	Rgp
-skupaj	Rgp
-151	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-vrednega	Agpmsg
-slovenskega	Agpmsg
-grosističnega	Agpmsg
-trga	Ncmsg
-pijač	Ncfpg
-za	Sa
-dobrih	Agpmpg
-97	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-prodalo	Vmep-sn
-prek	Sg
-Mercatorja	Npmsg
-,	Z
-od	Sg
-tega	Pd-nsg
-za	Sa
-75,33	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-pijač	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-nastale	Vmep-pf
-v	Sl
-okviru	Ncmsl
-Laškega	Npnsg
-,	Z
-menijo	Vmpr3p
-v	Sl
-Financah	Ncfpl
-.	Z
-V	Sl
-Pivovarni	Ncfsl
-Laško	Npnsn
-analize	Ncfpn
-za	Sa
-zdaj	Rgp
-ne	Q
-komentirajo	Vmbr3p
-.	Z
-Analiza	Ncfsn
-prodaje	Ncfsg
-Mercatorja	Npmsg
-Varuh	Ncmsn
-konkurence	Ncfsg
-Jani	Npmsn
-Soršak	Npmsn
-še	Q
-ni	Va-r3s-y
-izpostavil	Vmep-sm
-,	Z
-kdaj	Rgp
-bo	Va-f3s-n
-Laščanom	Npmpd
-izdal	Vmep-sm
-odločbo	Ncfsa
-o	Sl
-kršitvi	Ncfsl
-vertikalne	Agpfsg
-integracije	Ncfsg
-v	Sl
-Mercatorju	Npmsl
-oziroma	Cc
-kdaj	Rgp
-jim	Pp3mpd--y
-bo	Va-f3s-n
-uradno	Rgp
-sporočil	Vmep-sm
-,	Z
-da	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-ujel	Vmep-sm
-pri	Sl
-zlorabljanju	Ncnsl
-lastništva	Ncnsg
-Mercatorja	Npmsg
-.	Z
-Po	Sl
-nekaterih	Pi-fpl
-informacijah	Ncfpl
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-dokument	Ncmsn
-o	Sl
-kršitvah	Ncfpl
-že	Q
-pripravljen	Appmsnn
-.	Z
-Feldin	Npmsn
-in	Cc
-Polanec	Npmsn
-naj	Q
-bi	Va-c
-kmalu	Rgp
-začela	Vmep-sm
-tudi	Q
-analizo	Ncfsa
-trga	Ncmsg
-pri	Sl
-prodaji	Ncfsl
-na	Sa
-drobno	Agpfsa
-,	Z
-tudi	Q
-ta	Pd-fsn
-pa	Cc
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-,	Z
-če	Cs
-bo	Va-f3s-n
-tako	Rgp
-želel	Vmpp-sm
-Urad	Ncmsan
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-UVK	Npmsg
-,	Z
-vključena	Appfsn
-v	Sa
-odločbo	Ncfsa
-.	Z
-Po	Sl
-odločbi	Ncfsl
-bo	Va-f3s-n
-sledil	Vmpp-sm
-pritožbeni	Agpmsny
-postopek	Ncmsn
-,	Z
-nato	Rgp
-pa	Cc
-končna	Agpfsn
-odločba	Ncfsn
-.	Z
-Podoben	Agpmsnn
-postopek	Ncmsn
-,	Z
-sicer	Q
-o	Sl
-kartelnem	Agpnsl
-dogovarjanju	Ncnsl
-,	Z
-je	Va-r3s-n
-pri	Sl
-elektrodistributerjih	Ncmpl
-trajal	Vmpp-sm
-nekaj	Rgp
-mesecev	Ncmpg
-,	Z
-so	Va-r3p-n
-še	Q
-poudarili	Vmep-pm
-v	Sl
-Financah	Ncfpl
-.	Z
-Kdo	Pq-msn
-bo	Va-f3s-n
-prodal	Vmep-sm
-Mercator	Npmsan
-?	Z
-Foto	Npmsn
-Dare	Npmsn
-Čekeliš	Npmsn
-Poleg	Sg
-globe	Ncfsg
-,	Z
-ki	Cs
-znaša	Vmpr3s
-do	Sg
-10	Mdc
-odstotkov	Ncmpg
-letnih	Agpmpg
-prihodkov	Ncmpg
-skupine	Ncfsg
-,	Z
-lahko	Rgp
-UVK	Npmsd
-Šrotu	Npmsd
-po	Sl
-zakonu	Ncmsl
-o	Sl
-preprečevanju	Ncnsl
-omejevanja	Ncnsg
-konkurence	Ncfsg
-naloži	Vmer3s
-tudi	Q
-obvezno	Agpfsa
-odprodajo	Ncfsa
-Mercatorja	Npmsg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-bi	Va-c
-urad	Ncmsan
-postavil	Vmep-sm
-tudi	Q
-rok	Ncmsan
-za	Sa
-prodajo	Ncfsa
-,	Z
-ki	Cs
-pa	Cc
-javno	Rgp
-ne	Q
-bi	Va-c
-bil	Va-p-sm
-znan	Appmsnn
-,	Z
-da	Cs
-ne	Q
-bi	Va-c
-slabšal	Vmpp-sm
-položaja	Ncmsg
-pri	Sl
-prodaji	Ncfsl
-.	Z
-Po	Sl
-evropski	Agpfsl
-praksi	Ncfsl
-sodeč	Rr
-,	Z
-pa	Cc
-bi	Va-c
-urad	Ncmsan
-čakal	Vmpp-sm
-največ	Rgs
-leto	Ncnsa
-dni	Ncmpg
-.	Z
-Nato	Rgp
-bi	Va-c
-sporni	Agpmsay
-delež	Ncmsan
-prodajal	Vmpp-sm
-sam	Agpmsnn
-.	Z
-Če	Cs
-torej	Rgp
-Šrotu	Npmsd
-v	Sl
-letu	Ncnsl
-dni	Ncmpg
-po	Sl
-odločbi	Ncfsl
-UVK	Npmsg
-ne	Q
-bi	Va-c
-uspelo	Vmep-sn
-prodati	Vmen
-Mercatorja	Npmsg
-,	Z
-bi	Va-c
-vodenje	Ncnsa
-postopka	Ncmsg
-za	Sa
-prodajo	Ncfsa
-prevzel	Vmep-sm
-urad	Ncmsn
-.	Z
-Ta	Pd-msn
-bi	Va-c
-lahko	Rgp
-ponudbe	Ncfpa
-zainteresiranih	Appmpg
-kupcev	Ncmpg
-zbral	Vmep-sm
-neposredno	Agpfsa
-ali	Cc
-pa	Cc
-Šrotov	Aspmsan
-delež	Ncmsan
-ponudil	Vmep-sm
-na	Sl
-dražbi	Ncfsl
-.	Z
-Boško	Npmsn
-Šrot	Npmsn
-je	Va-r3s-n
-že	Q
-v	Sl
-začetku	Ncmsl
-novembra	Ncmsg
-napovedal	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-Mercator	Npmsn
-prodal	Vmep-sm
-.	Z
-Objavljeno	Appnsn
-pa	Cc
-je	Va-r3s-n
-že	Q
-bilo	Va-p-sn
-,	Z
-da	Cs
-lahko	Rgp
-potencialni	Agpmpn
-kupci	Ncmpn
-dokumentacijo	Ncfsa
-za	Sa
-nakup	Ncmsan
-Mercatorja	Npmsg
-dvignejo	Vmer3p
-od	Sg
-9	Mdc
-.	Z
-januarja	Ncmsg
-prihodnje	Agpnsa
-leto	Ncnsa
-.	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-je	Va-r3s-n
-tudi	Q
-Agencija	Ncfsn
-za	Sa
-trg	Ncmsan
-vrednostnih	Agpmpg
-papirjev	Ncmpg
-ugotovila	Vmep-sf
-,	Z
-da	Cs
-različne	Agpfpn
-Šrotove	Aspfpn
-družbe	Ncfpn
-obvladujejo	Vmpr3p
-Mercator	Npmsan
-mimo	Sg
-prevzemne	Agpfsg
-zakonodaje	Ncfsg
-.	Z
-Pred	Si
-dobrim	Agpmsi
-tednom	Ncmsi
-jim	Pp3mpd--y
-je	Va-r3s-n
-Agencija	Ncfsn
-naložila	Vmep-sf
-skupaj	Rgp
-670	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-globe	Ncfsg
-.	Z
-Do	Sg
-znižanja	Ncnsg
-lastništva	Ncnsg
-v	Sl
-Mercatorju	Npmsl
-pod	Sa
-25	Mdc
-odstotkov	Ncmpg
-ali	Cc
-prevzema	Ncmsg
-najboljšega	Agsmsg
-soseda	Ncmsg
-pa	Cc
-Šrotove	Aspfsg
-družbe	Ncfsg
-tudi	Q
-ne	Q
-morejo	Vmpr3p
-uveljavljati	Vmpn
-glasovalnih	Agpfpg
-pravic	Ncfpg
-v	Sl
-njem	Pp3msl
-.	Z
-Finančna	Agpfsn
-kriza	Ncfsn
-ni	Va-r3s-y
-razlog	Ncmsn
-Šrot	Npmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-zatrdil	Vmep-sm
-,	Z
-da	Cs
-finančna	Agpfsn
-kriza	Ncfsn
-ni	Va-r3s-y
-razlog	Ncmsn
-za	Sa
-prodajo	Ncfsa
-Mercatorja	Npmsg
-,	Z
-temveč	Cc
-so	Va-r3p-n
-se	Px------y
-za	Sa
-prodajo	Ncfsa
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-odločili	Vmep-pm
-,	Z
-ker	Cs
-država	Ncfsn
-preko	Sg
-urada	Ncmsg
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-izvaja	Vmpr3s
-teror	Ncmsan
-nad	Si
-Pivovarno	Ncfsi
-Laško	Npnsn
-.	Z
-Po	Sl
-njegovem	Ps3nslsm
-prepričanju	Ncnsl
-je	Va-r3s-n
-šlo	Vmbp-sn
-pri	Sl
-odločitvah	Ncfpl
-urada	Ncmsg
-za	Sa
-škandalozne	Agpfpa
-in	Cc
-povsem	Rgp
-politične	Agpfpa
-odločitve	Ncfpa
-brez	Sg
-pravih	Agpfpg
-pravnih	Agpfpg
-podlag	Ncfpg
-na	Sa
-škodo	Ncfsa
-družbe	Ncfsg
-.	Z
-Pivovarna	Ncfsn
-bo	Va-f3s-n
-še	Q
-naprej	Rgp
-vodila	Vmpp-sf
-pravne	Agpmpa
-postopke	Ncmpa
-tudi	Q
-na	Sl
-ravni	Ncfsl
-EU	Npfsg
-,	Z
-s	Si
-katerimi	Pq-mpi
-bo	Va-f3s-n
-po	Sl
-Šrotovih	Aspfpl
-besedah	Ncfpl
-dokazala	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-povezava	Ncfsn
-med	Si
-Mercatorjem	Npmsi
-in	Cc
-Pivovarno	Ncfsi
-Laško	Npnsn
-skladna	Agpfsn
-z	Si
-zakonodajo	Ncfsi
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+analize	mte:Ncfsg	analiza
+ekonomistov	mte:Ncmpg	ekonomist
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+prvi	mte:Mlomsn	prvi
+pivovar	mte:Ncmsn	pivovar
+Boško	mte:Npmsn	Boško
+Šrot	mte:Npmsn	Šrot
+zlorabljal	mte:Vmpp-sm	zlorabljati
+Mercator	mte:Npmsan	Mercator
+pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+pijač	mte:Ncfpg	pijača
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+tega	mte:Pd-msg	ta
+Šrotu	mte:Npmsd	Šrot
+grozi	mte:Vmpr3s	groziti
+obvezna	mte:Agpfsn	obvezen
+prodaja	mte:Ncfsn	prodaja
+Mercatorja	mte:Npmsg	Mercator
+in	mte:Cc	in
+globa	mte:Ncfsg	glob
+.	mte:Z	.
+Po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+današnje	mte:Agpfsg	današnji
+izdaje	mte:Ncfsg	izdaja
+Financ	mte:Ncmpg	finance
+prvi	mte:Mlomsn	prvi
+pivovar	mte:Ncmsn	pivovar
+Boško	mte:Npmsn	Boško
+Šrot	mte:Npmsn	Šrot
+lastništvo	mte:Ncnsn	lastništvo
+Mercatorja	mte:Npmsg	Mercator
+zlorablja	mte:Vmpr3s	zlorabljati
+pri	mte:Sl	pri
+grosistični	mte:Agpfsl	grosističen
+prodaji	mte:Ncfsl	prodaja
+pijač	mte:Ncfpg	pijača
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+razvidno	mte:Agpnsn	razviden
+iz	mte:Sg	iz
+analize	mte:Ncfsg	analiza
+ekonomista	mte:Ncmsg	ekonomist
+Aljoše	mte:Npmsg	Aljoša
+Feldina	mte:Npmsg	Feldina
+in	mte:Cc	in
+Saša	mte:Npmsg	Sašo
+Polanca	mte:Npmsg	Polanc
+.	mte:Z	.
+Šrotu	mte:Npmsd	Šrot
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+tudi	mte:Q	tudi
+grozila	mte:Vmpp-sf	groziti
+obvezna	mte:Agpfsn	obvezen
+prodaja	mte:Ncfsn	prodaja
+Mercatorja	mte:Npmsg	Mercator
+in	mte:Cc	in
+globa	mte:Ncfsg	glob
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+do	mte:Sg	do
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+letnega	mte:Agpmsg	leten
+prometa	mte:Ncmsg	promet
+.	mte:Z	.
+Šrot	mte:Npmsn	Šrot
+je	mte:Va-r3s-n	biti
+večkrat	mte:Rgc	večkrat
+zatrdi	mte:Vmer3s	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+finančna	mte:Agpfsn	finančen
+kriza	mte:Ncfsn	kriza
+ni	mte:Va-r3s-y	biti
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+temveč	mte:Cc	temveč
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+ker	mte:Cs	ker
+država	mte:Ncfsn	država
+preko	mte:Sg	preko
+urada	mte:Ncmsg	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+izvaja	mte:Vmpr3s	izvajati
+teror	mte:Ncmsan	teror
+nad	mte:Si	nad
+Pivovarno	mte:Ncfsi	pivovarna
+Laško	mte:Npnsn	Laško
+.	mte:Z	.
+Družbe	mte:Ncfsg	družba
+okoli	mte:Sg	okoli
+Laškega	mte:Npnsg	Laško
+dobavijo	mte:Vmer3p	dobaviti
+77,55	mte:Mdc	77,55
+odstotka	mte:Ncmsg	odstotek
+vseh	mte:Pg-fpg	ves
+pijač	mte:Ncfpg	pijača
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+proda	mte:Vmer3s	prodati
+Mercator	mte:Npmsn	Mercator
+.	mte:Z	.
+Mercator	mte:Npmsn	Mercator
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+obvladoval	mte:Vmpp-sm	obvladovati
+64,3	mte:Mdc	64,3
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+na	mte:Sl	na
+grosističnem	mte:Agpmsl	grosističen
+trgu	mte:Ncmsl	trg
+pijač	mte:Ncfpg	pijača
+v	mte:Sa	v
+delež	mte:Ncmsan	delež
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+vključene	mte:Appfpn	vključen
+tudi	mte:Q	tudi
+pijače	mte:Ncfpn	pijača
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+Mercator	mte:Npmsn	Mercator
+naprej	mte:Rgp	naprej
+proda	mte:Vmer3s	prodati
+gostincem	mte:Ncmpd	gostinec
+,	mte:Z	,
+ker	mte:Cs	ker
+v	mte:Sl	v
+Laškem	mte:Npnsl	Laško
+podatkov	mte:Ncmpg	podatek
+niso	mte:Va-r3p-y	biti
+ločili	mte:Vmbp-pm	ločiti
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+lani	mte:Rgp	lani
+skupaj	mte:Rgp	skupaj
+151	mte:Mdc	151
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+vrednega	mte:Agpmsg	vreden
+slovenskega	mte:Agpmsg	slovenski
+grosističnega	mte:Agpmsg	grosističen
+trga	mte:Ncmsg	trg
+pijač	mte:Ncfpg	pijača
+za	mte:Sa	za
+dobrih	mte:Agpmpg	dober
+97	mte:Mdc	97
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+prodalo	mte:Vmep-sn	prodati
+prek	mte:Sg	prek
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+za	mte:Sa	za
+75,33	mte:Mdc	75,33
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+pijač	mte:Ncfpg	pijača
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+nastale	mte:Vmep-pf	nastati
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+Laškega	mte:Npnsg	Laško
+,	mte:Z	,
+menijo	mte:Vmpr3p	meniti
+v	mte:Sl	v
+Financah	mte:Ncfpl	finance
+.	mte:Z	.
+V	mte:Sl	v
+Pivovarni	mte:Ncfsl	pivovarna
+Laško	mte:Npnsn	Laško
+analize	mte:Ncfpn	analiza
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+ne	mte:Q	ne
+komentirajo	mte:Vmbr3p	komentirati
+.	mte:Z	.
+Analiza	mte:Ncfsn	analiza
+prodaje	mte:Ncfsg	prodaja
+Mercatorja	mte:Npmsg	Mercator
+Varuh	mte:Ncmsn	varuh
+konkurence	mte:Ncfsg	konkurenca
+Jani	mte:Npmsn	Jana
+Soršak	mte:Npmsn	Soršak
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+izpostavil	mte:Vmep-sm	izpostaviti
+,	mte:Z	,
+kdaj	mte:Rgp	kdaj
+bo	mte:Va-f3s-n	biti
+Laščanom	mte:Npmpd	Laščan
+izdal	mte:Vmep-sm	izdati
+odločbo	mte:Ncfsa	odločba
+o	mte:Sl	o
+kršitvi	mte:Ncfsl	kršitev
+vertikalne	mte:Agpfsg	vertikalen
+integracije	mte:Ncfsg	integracija
+v	mte:Sl	v
+Mercatorju	mte:Npmsl	Mercator
+oziroma	mte:Cc	oziroma
+kdaj	mte:Rgp	kdaj
+jim	mte:Pp3mpd--y	on
+bo	mte:Va-f3s-n	biti
+uradno	mte:Rgp	uradno
+sporočil	mte:Vmep-sm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+ujel	mte:Vmep-sm	ujeti
+pri	mte:Sl	pri
+zlorabljanju	mte:Ncnsl	zlorabljanje
+lastništva	mte:Ncnsg	lastništvo
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Po	mte:Sl	po
+nekaterih	mte:Pi-fpl	nekateri
+informacijah	mte:Ncfpl	informacija
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+dokument	mte:Ncmsn	dokument
+o	mte:Sl	o
+kršitvah	mte:Ncfpl	kršitev
+že	mte:Q	že
+pripravljen	mte:Appmsnn	pripravljen
+.	mte:Z	.
+Feldin	mte:Npmsn	Feldin
+in	mte:Cc	in
+Polanec	mte:Npmsn	Polanec
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+kmalu	mte:Rgp	kmalu
+začela	mte:Vmep-sm	začeti
+tudi	mte:Q	tudi
+analizo	mte:Ncfsa	analiza
+trga	mte:Ncmsg	trg
+pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+na	mte:Sa	na
+drobno	mte:Agpfsa	drobno
+,	mte:Z	,
+tudi	mte:Q	tudi
+ta	mte:Pd-fsn	ta
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+želel	mte:Vmpp-sm	želeti
+Urad	mte:Ncmsan	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+UVK	mte:Npmsg	UVK
+,	mte:Z	,
+vključena	mte:Appfsn	vključen
+v	mte:Sa	v
+odločbo	mte:Ncfsa	odločba
+.	mte:Z	.
+Po	mte:Sl	po
+odločbi	mte:Ncfsl	odločba
+bo	mte:Va-f3s-n	biti
+sledil	mte:Vmpp-sm	slediti
+pritožbeni	mte:Agpmsny	pritožben
+postopek	mte:Ncmsn	postopek
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+končna	mte:Agpfsn	končen
+odločba	mte:Ncfsn	odločba
+.	mte:Z	.
+Podoben	mte:Agpmsnn	podoben
+postopek	mte:Ncmsn	postopek
+,	mte:Z	,
+sicer	mte:Q	sicer
+o	mte:Sl	o
+kartelnem	mte:Agpnsl	kartelen
+dogovarjanju	mte:Ncnsl	dogovarjanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+elektrodistributerjih	mte:Ncmpl	elektrodistroduter
+trajal	mte:Vmpp-sm	trajati
+nekaj	mte:Rgp	nekaj
+mesecev	mte:Ncmpg	mesec
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+poudarili	mte:Vmep-pm	poudariti
+v	mte:Sl	v
+Financah	mte:Ncfpl	finance
+.	mte:Z	.
+Kdo	mte:Pq-msn	kdo
+bo	mte:Va-f3s-n	biti
+prodal	mte:Vmep-sm	prodati
+Mercator	mte:Npmsan	Mercator
+?	mte:Z	?
+Foto	mte:Npmsn	foto
+Dare	mte:Npmsn	Dare
+Čekeliš	mte:Npmsn	Čekeliš
+Poleg	mte:Sg	poleg
+globe	mte:Ncfsg	globa
+,	mte:Z	,
+ki	mte:Cs	ki
+znaša	mte:Vmpr3s	znašati
+do	mte:Sg	do
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+letnih	mte:Agpmpg	leten
+prihodkov	mte:Ncmpg	prihodek
+skupine	mte:Ncfsg	skupina
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+UVK	mte:Npmsd	UVK
+Šrotu	mte:Npmsd	Šrot
+po	mte:Sl	po
+zakonu	mte:Ncmsl	zakon
+o	mte:Sl	o
+preprečevanju	mte:Ncnsl	preprečevanje
+omejevanja	mte:Ncnsg	omejevanje
+konkurence	mte:Ncfsg	konkurenca
+naloži	mte:Vmer3s	naložiti
+tudi	mte:Q	tudi
+obvezno	mte:Agpfsa	obvezen
+odprodajo	mte:Ncfsa	odprodaja
+Mercatorja	mte:Npmsg	Mercator
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+bi	mte:Va-c	biti
+urad	mte:Ncmsan	urad
+postavil	mte:Vmep-sm	postaviti
+tudi	mte:Q	tudi
+rok	mte:Ncmsan	rok
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+javno	mte:Rgp	javno
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+znan	mte:Appmsnn	znan
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+slabšal	mte:Vmpp-sm	slabšati
+položaja	mte:Ncmsg	položaj
+pri	mte:Sl	pri
+prodaji	mte:Ncfsl	prodaja
+.	mte:Z	.
+Po	mte:Sl	po
+evropski	mte:Agpfsl	evropski
+praksi	mte:Ncfsl	praksa
+sodeč	mte:Rr	sodeč
+,	mte:Z	,
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+urad	mte:Ncmsan	urad
+čakal	mte:Vmpp-sm	čakati
+največ	mte:Rgs	največ
+leto	mte:Ncnsa	leto
+dni	mte:Ncmpg	dan
+.	mte:Z	.
+Nato	mte:Rgp	nato
+bi	mte:Va-c	biti
+sporni	mte:Agpmsay	sporen
+delež	mte:Ncmsan	delež
+prodajal	mte:Vmpp-sm	prodajati
+sam	mte:Agpmsnn	sam
+.	mte:Z	.
+Če	mte:Cs	če
+torej	mte:Rgp	torej
+Šrotu	mte:Npmsd	Šrot
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+odločbi	mte:Ncfsl	odločba
+UVK	mte:Npmsg	UVK
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+uspelo	mte:Vmep-sn	uspeti
+prodati	mte:Vmen	prodati
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+bi	mte:Va-c	biti
+vodenje	mte:Ncnsa	vodenje
+postopka	mte:Ncmsg	postopek
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+prevzel	mte:Vmep-sm	prevzeti
+urad	mte:Ncmsn	urad
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+ponudbe	mte:Ncfpa	ponudba
+zainteresiranih	mte:Appmpg	zainteresiran
+kupcev	mte:Ncmpg	kupec
+zbral	mte:Vmep-sm	zbrati
+neposredno	mte:Agpfsa	neposreden
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+Šrotov	mte:Aspmsan	šrotov
+delež	mte:Ncmsan	delež
+ponudil	mte:Vmep-sm	ponuditi
+na	mte:Sl	na
+dražbi	mte:Ncfsl	dražba
+.	mte:Z	.
+Boško	mte:Npmsn	Boško
+Šrot	mte:Npmsn	Šrot
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+novembra	mte:Ncmsg	november
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Mercator	mte:Npmsn	Mercator
+prodal	mte:Vmep-sm	prodati
+.	mte:Z	.
+Objavljeno	mte:Appnsn	objavljen
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+bilo	mte:Va-p-sn	biti
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+potencialni	mte:Agpmpn	potencialen
+kupci	mte:Ncmpn	kupec
+dokumentacijo	mte:Ncfsa	dokumentacija
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+Mercatorja	mte:Npmsg	Mercator
+dvignejo	mte:Vmer3p	dvigniti
+od	mte:Sg	od
+9	mte:Mdc	9
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+Agencija	mte:Ncfsn	agencija
+za	mte:Sa	za
+trg	mte:Ncmsan	trg
+vrednostnih	mte:Agpmpg	vrednosten
+papirjev	mte:Ncmpg	papir
+ugotovila	mte:Vmep-sf	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+različne	mte:Agpfpn	različen
+Šrotove	mte:Aspfpn	Šrotov
+družbe	mte:Ncfpn	družba
+obvladujejo	mte:Vmpr3p	obvladovati
+Mercator	mte:Npmsan	Mercator
+mimo	mte:Sg	mimo
+prevzemne	mte:Agpfsg	prevzemen
+zakonodaje	mte:Ncfsg	zakonodaja
+.	mte:Z	.
+Pred	mte:Si	pred
+dobrim	mte:Agpmsi	dober
+tednom	mte:Ncmsi	teden
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+Agencija	mte:Ncfsn	agencija
+naložila	mte:Vmep-sf	naložiti
+skupaj	mte:Rgp	skupaj
+670	mte:Mdc	670
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+globe	mte:Ncfsg	globa
+.	mte:Z	.
+Do	mte:Sg	do
+znižanja	mte:Ncnsg	znižanje
+lastništva	mte:Ncnsg	lastništvo
+v	mte:Sl	v
+Mercatorju	mte:Npmsl	Mercator
+pod	mte:Sa	pod
+25	mte:Mdc	25
+odstotkov	mte:Ncmpg	odstotek
+ali	mte:Cc	ali
+prevzema	mte:Ncmsg	prevzem
+najboljšega	mte:Agsmsg	dober
+soseda	mte:Ncmsg	sosed
+pa	mte:Cc	pa
+Šrotove	mte:Aspfsg	Šrotov
+družbe	mte:Ncfsg	družba
+tudi	mte:Q	tudi
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+uveljavljati	mte:Vmpn	uveljavljati
+glasovalnih	mte:Agpfpg	glasovalen
+pravic	mte:Ncfpg	pravica
+v	mte:Sl	v
+njem	mte:Pp3msl	on
+.	mte:Z	.
+Finančna	mte:Agpfsn	finančen
+kriza	mte:Ncfsn	kriza
+ni	mte:Va-r3s-y	biti
+razlog	mte:Ncmsn	razlog
+Šrot	mte:Npmsn	Šrot
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+zatrdil	mte:Vmep-sm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+finančna	mte:Agpfsn	finančen
+kriza	mte:Ncfsn	kriza
+ni	mte:Va-r3s-y	biti
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+temveč	mte:Cc	temveč
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+ker	mte:Cs	ker
+država	mte:Ncfsn	država
+preko	mte:Sg	preko
+urada	mte:Ncmsg	urad
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+izvaja	mte:Vmpr3s	izvajati
+teror	mte:Ncmsan	teror
+nad	mte:Si	nad
+Pivovarno	mte:Ncfsi	pivovarna
+Laško	mte:Npnsn	Laško
+.	mte:Z	.
+Po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+prepričanju	mte:Ncnsl	prepričanje
+je	mte:Va-r3s-n	biti
+šlo	mte:Vmbp-sn	iti
+pri	mte:Sl	pri
+odločitvah	mte:Ncfpl	odločitev
+urada	mte:Ncmsg	urad
+za	mte:Sa	za
+škandalozne	mte:Agpfpa	škandalozen
+in	mte:Cc	in
+povsem	mte:Rgp	povsem
+politične	mte:Agpfpa	političen
+odločitve	mte:Ncfpa	odločitev
+brez	mte:Sg	brez
+pravih	mte:Agpfpg	pravi
+pravnih	mte:Agpfpg	praven
+podlag	mte:Ncfpg	podlaga
+na	mte:Sa	na
+škodo	mte:Ncfsa	škoda
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Pivovarna	mte:Ncfsn	pivovarna
+bo	mte:Va-f3s-n	biti
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+vodila	mte:Vmpp-sf	voditi
+pravne	mte:Agpmpa	praven
+postopke	mte:Ncmpa	postopek
+tudi	mte:Q	tudi
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+EU	mte:Npfsg	EU
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+Šrotovih	mte:Aspfpl	Šrotov
+besedah	mte:Ncfpl	beseda
+dokazala	mte:Vmep-sf	dokazati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+povezava	mte:Ncfsn	povezava
+med	mte:Si	med
+Mercatorjem	mte:Npmsi	Mercator
+in	mte:Cc	in
+Pivovarno	mte:Ncfsi	pivovarna
+Laško	mte:Npnsn	Laško
+skladna	mte:Agpfsn	skladen
+z	mte:Si	z
+zakonodajo	mte:Ncfsi	zakonodaja
+.	mte:Z	.
+Prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Laškega	mte:Npnsg	Laško
+in	mte:Cc	in
+posredni	mte:Agpmsny	posreden
+lastnik	mte:Ncmsn	lastnik
+družbe	mte:Ncfsg	družba
+Infond	mte:Npmsn	Infond
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+največji	mte:Agsmsny	velik
+posamični	mte:Agpmsny	posamičen
+lastnik	mte:Ncmsn	lastnik
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+in	mte:Cc	in
+lastnik	mte:Ncmsn	lastnik
+23	mte:Mdc	23
+odstotkov	mte:Ncmpg	odstotek
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+tudi	mte:Q	tudi
+odškodninsko	mte:Agpfsa	odškodninski
+tožbo	mte:Ncfsa	tožba
+zoper	mte:Sa	zoper
+državo	mte:Ncfsa	država

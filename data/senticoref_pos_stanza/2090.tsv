@@ -1,228 +1,295 @@
-token	tag
-Stečajni	Agpmsny
-upravitelj	Ncmsn
-je	Va-r3s-n
-na	Sl
-javni	Agpfsl
-dražbi	Ncfsl
-Rimske	Agpfsg
-terme	Ncfsg
-prodal	Vmep-sm
-ljubljanskemu	Agpnsd
-podjetju	Ncnsd
-Terme	Npfsn
-Resort	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-edino	Rgp
-udeležilo	Vmep-sn
-dražbe	Ncfsg
-.	Z
-Za	Si
-kupcem	Ncmsi
-stoji	Vmpr3s
-češka	Agpfsn
-družba	Ncfsn
-Arsenij	Npmsn
-Plus	Npmsn
-,	Z
-za	Sa
-katero	Pq-fsa
-pa	Cc
-je	Va-r3s-n
-ruski	Agpmsny
-poslovnež	Ncmsn
-Valerij	Npmsn
-Arakelov	Aspmsnn
-.	Z
-Stečajni	Agpmsny
-upravitelj	Ncmsn
-Rimskih	Agpfpg
-term	Ncfpg
-Boris	Npmsn
-Dolamič	Npmsn
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-javni	Agpfsl
-dražbi	Ncfsl
-Rimske	Agpfsg
-terme	Ncfsg
-po	Sl
-izklicni	Agpfsl
-ceni	Ncfsl
-8,5	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-prodal	Vmep-sm
-ljubljanskemu	Agpnsd
-podjetju	Ncnsd
-Terme	Npfsn
-Resort	Npmsn
-.	Z
-Dolamič	Npmsn
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-družba	Ncfsn
-Terme	Npfsn
-Resort	Npmsn
-edina	Agpfsn
-udeležila	Vmep-sf
-dražbe	Ncfsg
-.	Z
-Zdravilišče	Ncnsn
-Rimske	Agpfsg
-Terme	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-od	Sg
-marca	Ncmsg
-v	Sl
-stečaju	Ncmsl
-,	Z
-je	Va-r3s-n
-končno	Rgp
-dobilo	Vmep-sn
-novega	Agpmsa
-lastnika	Ncmsay
-,	Z
-ruskega	Agpmsa
-poslovneža	Ncmsay
-Valerija	Npmsg
-Arakelova	Aspmsg
-.	Z
-Po	Sl
-predlogu	Ncmsl
-,	Z
-s	Si
-katerim	Pq-msi
-je	Va-r3s-n
-soglašal	Vmpp-sm
-tudi	Q
-upniški	Agpmsny
-odbor	Ncmsn
-,	Z
-je	Va-r3s-n
-bila	Va-p-sf
-družba	Ncfsn
-Rimske	Agpfsg
-terme	Ncfsg
-,	Z
-ki	Cs
-kljub	Sd
-stečaju	Ncmsd
-obratuje	Vmpr3s
-,	Z
-prodana	Appfsn
-kot	Cs
-poslovna	Agpfsn
-celota	Ncfsn
-.	Z
-Terme	Ncfpn
-Resort	Npmsn
-so	Va-r3p-n
-registrirane	Appfpn
-za	Sa
-dejavnost	Ncfsa
-zdravja	Ncnsg
-in	Cc
-turizma	Ncmsg
-,	Z
-ustanovljene	Appfpn
-so	Va-r3p-n
-z	Si
-zasebnim	Agpmsi
-kapitalom	Ncmsi
-,	Z
-zakoniti	Agpmsny
-zastopnik	Ncmsn
-pa	Cc
-je	Va-r3s-n
-Marjan	Npmsn
-Kolar	Npmsn
-.	Z
-Edini	Agpmsny
-družbenik	Ncmsn
-podjetja	Ncnsg
-je	Va-r3s-n
-po	Sl
-podatkih	Ncmpl
-Ajpesa	Npmsg
-družba	Ncfsn
-Arsenij	Npmsn
-Plus	Npmsn
-iz	Sg
-češkega	Agpnsg
-zdraviliškega	Agpnsg
-središča	Ncnsg
-Karlovi	Aspfsn
-Vari	Npmsn
-.	Z
-Za	Si
-češkim	Agpnsi
-podjetjem	Ncnsi
-stoji	Vmpr3s
-ruski	Agpmsny
-poslovnež	Ncmsn
-Valerij	Npmsn
-Arakelov	Npmsn
-.	Z
-V	Sl
-stečaju	Ncmsl
-Rimskih	Agpfpg
-term	Ncfpg
-je	Va-r3s-n
-okoli	Rgp
-190	Mdc
-upnikov	Ncmpg
-prijavilo	Vmep-sn
-za	Sa
-skupno	Agpnsa
-36,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-terjatev	Ncfpg
-,	Z
-stečajni	Agpmsny
-upravitelj	Ncmsn
-pa	Cc
-jih	Pp3fpa--y
-je	Va-r3s-n
-priznal	Vmep-sm
-za	Sa
-nekaj	Rgp
-manj	Rgc
-kot	Cs
-28	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Dolamič	Npmsn
-je	Va-r3s-n
-v	Sl
-zadnjem	Agpnsl
-poročilu	Ncnsl
-zapisal	Vmep-sm
-,	Z
-da	Cs
-družba	Ncfsn
-zaenkrat	Rgp
-nima	Vmpr3s-y
-težav	Ncfpg
-z	Si
-likvidnostjo	Ncfsi
-,	Z
-obveznosti	Ncfpn
-iz	Sg
-poslovanja	Ncnsg
-pa	Cc
-plačujejo	Vmpr3p
-redno	Rgp
-.	Z
+token	tag	lemma
+Stečajni	mte:Agpmsny	stečajen
+upravitelj	mte:Ncmsn	upravitelj
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+javni	mte:Agpfsl	javen
+dražbi	mte:Ncfsl	dražba
+Rimske	mte:Agpfsg	rimski
+terme	mte:Ncfsg	terma
+prodal	mte:Vmep-sm	prodati
+ljubljanskemu	mte:Agpnsd	ljubljanski
+podjetju	mte:Ncnsd	podjetje
+Terme	mte:Npfsn	terme
+Resort	mte:Npmsn	Resort
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+edino	mte:Rgp	edin
+udeležilo	mte:Vmep-sn	udeležiti
+dražbe	mte:Ncfsg	dražba
+.	mte:Z	.
+Za	mte:Si	za
+kupcem	mte:Ncmsi	kupec
+stoji	mte:Vmpr3s	stati
+češka	mte:Agpfsn	češki
+družba	mte:Ncfsn	družba
+Arsenij	mte:Npmsn	Arsenij
+Plus	mte:Npmsn	Plus
+,	mte:Z	,
+za	mte:Sa	za
+katero	mte:Pq-fsa	kateri
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+ruski	mte:Agpmsny	ruski
+poslovnež	mte:Ncmsn	poslovnež
+Valerij	mte:Npmsn	Valerij
+Arakelov	mte:Aspmsnn	Arakelov
+.	mte:Z	.
+Stečajni	mte:Agpmsny	stečajen
+upravitelj	mte:Ncmsn	upravitelj
+Rimskih	mte:Agpfpg	rimski
+term	mte:Ncfpg	term
+Boris	mte:Npmsn	Boris
+Dolamič	mte:Npmsn	Dolamič
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+javni	mte:Agpfsl	javen
+dražbi	mte:Ncfsl	dražba
+Rimske	mte:Agpfsg	rimski
+terme	mte:Ncfsg	terma
+po	mte:Sl	po
+izklicni	mte:Agpfsl	izklicen
+ceni	mte:Ncfsl	cena
+8,5	mte:Mdc	8,5
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+prodal	mte:Vmep-sm	prodati
+ljubljanskemu	mte:Agpnsd	ljubljanski
+podjetju	mte:Ncnsd	podjetje
+Terme	mte:Npfsn	terme
+Resort	mte:Npmsn	Resort
+.	mte:Z	.
+Dolamič	mte:Npmsn	Dolamič
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+Terme	mte:Npfsn	terme
+Resort	mte:Npmsn	Resort
+edina	mte:Agpfsn	edin
+udeležila	mte:Vmep-sf	udeležiti
+dražbe	mte:Ncfsg	dražba
+.	mte:Z	.
+Zdravilišče	mte:Ncnsn	zdravilišče
+Rimske	mte:Agpfsg	rimski
+Terme	mte:Ncfsg	terme
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+marca	mte:Ncmsg	marec
+v	mte:Sl	v
+stečaju	mte:Ncmsl	stečaj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+končno	mte:Rgp	končno
+dobilo	mte:Vmep-sn	dobiti
+novega	mte:Agpmsa	nov
+lastnika	mte:Ncmsay	lastnik
+,	mte:Z	,
+ruskega	mte:Agpmsa	ruski
+poslovneža	mte:Ncmsay	poslovnež
+Valerija	mte:Npmsg	Valerija
+Arakelova	mte:Aspmsg	Arakelov
+.	mte:Z	.
+Po	mte:Sl	po
+predlogu	mte:Ncmsl	predlog
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+je	mte:Va-r3s-n	biti
+soglašal	mte:Vmpp-sm	soglašati
+tudi	mte:Q	tudi
+upniški	mte:Agpmsny	upniški
+odbor	mte:Ncmsn	odbor
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+družba	mte:Ncfsn	družba
+Rimske	mte:Agpfsg	rimski
+terme	mte:Ncfsg	terma
+,	mte:Z	,
+ki	mte:Cs	ki
+kljub	mte:Sd	kljub
+stečaju	mte:Ncmsd	stečaj
+obratuje	mte:Vmpr3s	obratovati
+,	mte:Z	,
+prodana	mte:Appfsn	prodan
+kot	mte:Cs	kot
+poslovna	mte:Agpfsn	posloven
+celota	mte:Ncfsn	celota
+.	mte:Z	.
+Terme	mte:Ncfpn	terme
+Resort	mte:Npmsn	Resort
+so	mte:Va-r3p-n	biti
+registrirane	mte:Appfpn	registriran
+za	mte:Sa	za
+dejavnost	mte:Ncfsa	dejavnost
+zdravja	mte:Ncnsg	zdravje
+in	mte:Cc	in
+turizma	mte:Ncmsg	turizem
+,	mte:Z	,
+ustanovljene	mte:Appfpn	ustanovljen
+so	mte:Va-r3p-n	biti
+z	mte:Si	z
+zasebnim	mte:Agpmsi	zaseben
+kapitalom	mte:Ncmsi	kapital
+,	mte:Z	,
+zakoniti	mte:Agpmsny	zakonit
+zastopnik	mte:Ncmsn	zastopnik
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Marjan	mte:Npmsn	Marjan
+Kolar	mte:Npmsn	Kolar
+.	mte:Z	.
+Edini	mte:Agpmsny	edin
+družbenik	mte:Ncmsn	družbenik
+podjetja	mte:Ncnsg	podjetje
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+Ajpesa	mte:Npmsg	Ajpes
+družba	mte:Ncfsn	družba
+Arsenij	mte:Npmsn	Arsenij
+Plus	mte:Npmsn	Plus
+iz	mte:Sg	iz
+češkega	mte:Agpnsg	češki
+zdraviliškega	mte:Agpnsg	zdraviliški
+središča	mte:Ncnsg	središče
+Karlovi	mte:Aspfsn	Karlov
+Vari	mte:Npmsn	Vari
+.	mte:Z	.
+Za	mte:Si	za
+češkim	mte:Agpnsi	češki
+podjetjem	mte:Ncnsi	podjetje
+stoji	mte:Vmpr3s	stati
+ruski	mte:Agpmsny	ruski
+poslovnež	mte:Ncmsn	poslovnež
+Valerij	mte:Npmsn	Valerij
+Arakelov	mte:Npmsn	Arakel
+.	mte:Z	.
+V	mte:Sl	v
+stečaju	mte:Ncmsl	stečaj
+Rimskih	mte:Agpfpg	rimski
+term	mte:Ncfpg	term
+je	mte:Va-r3s-n	biti
+okoli	mte:Rgp	okoli
+190	mte:Mdc	190
+upnikov	mte:Ncmpg	upnik
+prijavilo	mte:Vmep-sn	prijaviti
+za	mte:Sa	za
+skupno	mte:Agpnsa	skupen
+36,4	mte:Mdc	36,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+terjatev	mte:Ncfpg	terjatev
+,	mte:Z	,
+stečajni	mte:Agpmsny	stečajen
+upravitelj	mte:Ncmsn	upravitelj
+pa	mte:Cc	pa
+jih	mte:Pp3fpa--y	on
+je	mte:Va-r3s-n	biti
+priznal	mte:Vmep-sm	priznati
+za	mte:Sa	za
+nekaj	mte:Rgp	nekaj
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+28	mte:Mdc	28
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Dolamič	mte:Npmsn	Dolamič
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+poročilu	mte:Ncnsl	poročilo
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+družba	mte:Ncfsn	družba
+zaenkrat	mte:Rgp	zaenkrat
+nima	mte:Vmpr3s-y	imeti
+težav	mte:Ncfpg	težava
+z	mte:Si	z
+likvidnostjo	mte:Ncfsi	likvidnost
+,	mte:Z	,
+obveznosti	mte:Ncfpn	obveznost
+iz	mte:Sg	iz
+poslovanja	mte:Ncnsg	poslovanje
+pa	mte:Cc	pa
+plačujejo	mte:Vmpr3p	plačevati
+redno	mte:Agpnsa	reden
+.	mte:Z	.
+Med	mte:Si	med
+največjimi	mte:Agsmpi	velik
+upniki	mte:Ncmpi	upnik
+Rimskih	mte:Agpfpg	rimski
+term	mte:Ncfpg	term
+so	mte:Va-r3p-n	biti
+Nova	mte:Agpfsn	nov
+Ljubljanska	mte:Agpfsn	ljubljanski
+banka	mte:Ncfsn	banka
+z	mte:Sg	z
+8,3	mte:Mdc	8,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+priznanih	mte:Appfpg	priznan
+terjatev	mte:Ncfpg	terjatev
+,	mte:Z	,
+država	mte:Ncfsn	država
+s	mte:Si	z
+skoraj	mte:Q	skoraj
+šestimi	mte:Mlc-pi	šest
+milijoni	mte:Ncmpi	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+SID	mte:Ncmsn	SID
+banka	mte:Ncfsn	banka
+s	mte:Si	z
+5,9	mte:Mdc	5,9
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+Nova	mte:Agpfsn	nov
+Kreditna	mte:Agpfsn	krediten
+banka	mte:Ncfsn	banka
+Maribor	mte:Npmsn	Maribor
+s	mte:Si	z
+4,1	mte:Mdc	4,1
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+Gorenjska	mte:Agpfsn	gorenjski
+banka	mte:Ncfsn	banka
+s	mte:Si	z
+tremi	mte:Mlcmpi	trije
+milijoni	mte:Ncmpi	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+Banka	mte:Ncfsn	banka
+Celje	mte:Npnsn	Celje
+z	mte:Si	z
+2,3	mte:Mdc	2,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+ter	mte:Cc	ter
+Davčna	mte:Agpfsn	davčen
+uprava	mte:Ncfsn	uprava
+RS	mte:Npfsn	RS
+in	mte:Cc	in
+družba	mte:Ncfsn	družba
+Prvi	mte:Mlomsn	prvi
+faktor	mte:Ncmsn	faktor
+s	mte:Si	z
+po	mte:Sa	po
+1,7	mte:Mdc	1,7
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+priznanih	mte:Appfpg	priznan
+terjatev	mte:Ncfpg	terjatev

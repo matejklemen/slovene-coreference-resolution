@@ -1,228 +1,247 @@
-token	tag
-Prihodnji	Agpmsay
-teden	Ncmsan
-bo	Va-f3s-n
-na	Sl
-srečanju	Ncnsl
-med	Si
-ameriškim	Agpmsi
-in	Cc
-ruskim	Agpmsi
-predsednikom	Ncmsi
-Georgom	Npmsi
-Bushem	Npmsi
-in	Cc
-Vladimirjem	Npmsi
-Putinom	Npmsi
-tema	Ncfsn
-pogovorov	Ncmpg
-tudi	Q
-postavitev	Ncfsn
-protiraketnega	Agpmsg
-ščita	Ncmsg
-v	Sl
-Evropi	Npfsl
-Foto	Ncmsn
-:	Z
-Bloomberg	Npmsn
-Ameriški	Agpmsny
-predsednik	Ncmsn
-George	Npmsn
-Bush	Npmsn
-namerava	Vmpr3s
-aprila	Ncmsg
-obiskati	Vmen
-ruskega	Agpmsa
-predsednika	Ncmsay
-Vladimirja	Npmsay
-Putina	Npmsay
-v	Sl
-ruskem	Agpnsl
-mestu	Ncnsl
-Sochi	Npmsn
-,	Z
-poroča	Vmpr3s
-CNN	Npmsn
-.	Z
-Po	Sl
-besedah	Ncfpl
-svetovalca	Ncmsg
-za	Sa
-nacionalno	Agpfsa
-varnost	Ncfsa
-Stephena	Npmsg
-Hadleyja	Npmsg
-,	Z
-bo	Va-f3s-n
-Bush	Npmsn
-odpotoval	Vmep-sm
-v	Sa
-Rusijo	Npfsa
-predvidoma	Rgp
-6	Mdc
-.	Z
-aprila	Ncmsg
-,	Z
-po	Sl
-postanku	Ncmsl
-na	Sl
-Hrvaškem	Npnsl
-.	Z
-To	Pd-nsn
-bo	Va-f3s-n
-priložnost	Ncfsn
-za	Sa
-srečanje	Ncnsa
-vodij	Ncfpg
-dveh	Mlcfdg
-največjih	Agsfpg
-držav	Ncfdg
-,	Z
-kjer	Cs
-bosta	Va-f3d-n
-ocenila	Vmep-dm
-napredek	Ncmsan
-in	Cc
-poskusila	Vmep-dm
-rešiti	Vmen
-nekatera	Pi-npa
-odprta	Appnpa
-vprašanja	Ncnpa
-,	Z
-med	Si
-drugim	Mlpnsi
-tudi	Q
-o	Sl
-postavitvi	Ncfsl
-protiraketnega	Agpmsg
-ščita	Ncmsg
-v	Sl
-Evropi	Npfsl
-ter	Cc
-postavila	Vmep-dm
-temelje	Ncmpa
-za	Sa
-dober	Agpmsan
-odnos	Ncmsan
-tudi	Q
-v	Sa
-prihodnje	Agpnsa
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Hadley	Npmsn
-.	Z
-Rusi	Npmpn
-bi	Va-c
-protiraketni	Agpmsay
-ščit	Ncmsan
-postavili	Vmep-pm
-v	Sl
-Azerbajdžanu	Npmsl
-ali	Cc
-Iraku	Npmsl
-Putin	Npmsn
-,	Z
-ki	Cs
-bo	Va-f3s-n
-spomladi	Rgp
-postal	Vmep-sm
-predsednik	Ncmsn
-vlade	Ncfsg
-,	Z
-meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-protiraketni	Agpmsny
-ščit	Ncmsn
-naperjen	Appmsnn
-proti	Sd
-Rusiji	Npfsd
-,	Z
-zato	Cc
-je	Va-r3s-n
-že	Q
-lanskega	Agpmsg
-julija	Ncmsg
-predlagal	Vmbp-sm
-,	Z
-da	Cs
-bi	Va-c
-ga	Pp3msa--y
-postavili	Vmep-pm
-v	Sl
-Rusiji	Npfsl
-bolj	Rgc
-prijaznim	Agpfpd
-državam	Ncfpd
-,	Z
-kot	Cs
-so	Va-r3p-n
-Azerbajdžan	Npmsn
-ali	Cc
-celo	Q
-Irak	Npmsn
-.	Z
-Hadley	Npmsn
-je	Va-r3s-n
-včeraj	Rgp
-ponovno	Rgp
-poudaril	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-protiraketni	Agpmsny
-ščit	Ncmsn
-usmerjen	Appmsnn
-proti	Sd
-Bližnjem	Agpmsd
-vzhodu	Ncmsd
-in	Cc
-ne	Q
-proti	Sd
-Rusiji	Npfsd
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-še	Q
-,	Z
-da	Cs
-administracija	Ncfsn
-želi	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-ZDA	Npfpn
-,	Z
-Rusija	Npfsn
-in	Cc
-Evropa	Npfsn
-delovali	Vmpp-df
-skupaj	Rgp
-pri	Sl
-ustvarjanju	Ncnsl
-takšnega	Pd-msg
-sistema	Ncmsg
-,	Z
-ki	Cs
-bi	Va-c
-varoval	Vmpp-sm
-pred	Si
-grožnjami	Ncfpi
-z	Sg
-Bližnjega	Agpmsg
-vzhoda	Ncmsg
-.	Z
-Sicer	Q
-pa	Cc
-se	Px------y
-bo	Va-f3s-n
-Bush	Npmsn
-prihodnji	Agpmsay
-teden	Ncmsan
-mudil	Vmpp-sm
-v	Sl
-vzhodni	Agpfsl
-Evropi	Npfsl
-.	Z
+token	tag	lemma
+Prihodnji	mte:Agpmsay	prihodnji
+teden	mte:Ncmsan	teden
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+srečanju	mte:Ncnsl	srečanje
+med	mte:Si	med
+ameriškim	mte:Agpmsi	ameriški
+in	mte:Cc	in
+ruskim	mte:Agpmsi	ruski
+predsednikom	mte:Ncmsi	predsednik
+Georgom	mte:Npmsi	Georg
+Bushem	mte:Npmsi	Bushem
+in	mte:Cc	in
+Vladimirjem	mte:Npmsi	Vladimir
+Putinom	mte:Npmsi	Putin
+tema	mte:Ncfsn	tema
+pogovorov	mte:Ncmpg	pogovor
+tudi	mte:Q	tudi
+postavitev	mte:Ncfsn	postavitev
+protiraketnega	mte:Agpmsg	protiraketen
+ščita	mte:Ncmsg	ščita
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+Foto	mte:Ncmsn	foto
+:	mte:Z	:
+Bloomberg	mte:Npmsn	Bloomberg
+Ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+George	mte:Npmsn	George
+Bush	mte:Npmsn	Bush
+namerava	mte:Vmpr3s	nameravati
+aprila	mte:Ncmsg	april
+obiskati	mte:Vmen	obiskati
+ruskega	mte:Agpmsa	ruski
+predsednika	mte:Ncmsay	predsednik
+Vladimirja	mte:Npmsay	Vladimir
+Putina	mte:Npmsay	Putina
+v	mte:Sl	v
+ruskem	mte:Agpnsl	ruski
+mestu	mte:Ncnsl	mesto
+Sochi	mte:Npmsn	Soch
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+CNN	mte:Npmsn	CNN
+.	mte:Z	.
+Po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+svetovalca	mte:Ncmsg	svetovalec
+za	mte:Sa	za
+nacionalno	mte:Agpfsa	nacionalen
+varnost	mte:Ncfsa	varnost
+Stephena	mte:Npmsg	Stephen
+Hadleyja	mte:Npmsg	Hadley
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+Bush	mte:Npmsn	Bush
+odpotoval	mte:Vmep-sm	odpotovati
+v	mte:Sa	v
+Rusijo	mte:Npfsa	Rusija
+predvidoma	mte:Rgp	predvidoma
+6	mte:Mdc	6
+.	mte:Z	.
+aprila	mte:Ncmsg	april
+,	mte:Z	,
+po	mte:Sl	po
+postanku	mte:Ncmsl	postanek
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+priložnost	mte:Ncfsn	priložnost
+za	mte:Sa	za
+srečanje	mte:Ncnsa	srečanje
+vodij	mte:Ncfpg	vodja
+dveh	mte:Mlcfdg	dva
+največjih	mte:Agsfpg	velik
+držav	mte:Ncfdg	država
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bosta	mte:Va-f3d-n	biti
+ocenila	mte:Vmep-dm	oceniti
+napredek	mte:Ncmsan	napredek
+in	mte:Cc	in
+poskusila	mte:Vmep-dm	poskusiti
+rešiti	mte:Vmen	rešiti
+nekatera	mte:Pi-npa	nekateri
+odprta	mte:Appnpa	odprt
+vprašanja	mte:Ncnpa	vprašanje
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+tudi	mte:Q	tudi
+o	mte:Sl	o
+postavitvi	mte:Ncfsl	postavitev
+protiraketnega	mte:Agpmsg	protiraketen
+ščita	mte:Ncmsg	ščita
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+ter	mte:Cc	ter
+postavila	mte:Vmep-dm	postaviti
+temelje	mte:Ncmpa	temelje
+za	mte:Sa	za
+dober	mte:Agpmsan	dober
+odnos	mte:Ncmsan	odnos
+tudi	mte:Q	tudi
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Hadley	mte:Npmsn	Hadley
+.	mte:Z	.
+Rusi	mte:Npmpn	Rus
+bi	mte:Va-c	biti
+protiraketni	mte:Agpmsay	protiraketen
+ščit	mte:Ncmsan	ščit
+postavili	mte:Vmep-pm	postaviti
+v	mte:Sl	v
+Azerbajdžanu	mte:Npmsl	Azerbajdžan
+ali	mte:Cc	ali
+Iraku	mte:Npmsl	Irak
+Putin	mte:Npmsn	Putin
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+spomladi	mte:Rgp	spomladi
+postal	mte:Vmep-sm	postati
+predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+protiraketni	mte:Agpmsny	protiraketen
+ščit	mte:Ncmsn	ščit
+naperjen	mte:Appmsnn	naperjen
+proti	mte:Sd	proti
+Rusiji	mte:Npfsd	Rusija
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+lanskega	mte:Agpmsg	lanski
+julija	mte:Ncmsg	julij
+predlagal	mte:Vmbp-sm	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+postavili	mte:Vmep-pm	postaviti
+v	mte:Sl	v
+Rusiji	mte:Npfsl	Rusija
+bolj	mte:Rgc	bolj
+prijaznim	mte:Agpfpd	prijazen
+državam	mte:Ncfpd	država
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+Azerbajdžan	mte:Npmsn	Azerbajdžan
+ali	mte:Cc	ali
+celo	mte:Q	celo
+Irak	mte:Npmsn	Irak
+.	mte:Z	.
+Hadley	mte:Npmsn	Hadley
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+ponovno	mte:Rgp	ponovno
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+protiraketni	mte:Agpmsny	protiraketen
+ščit	mte:Ncmsn	ščit
+usmerjen	mte:Appmsnn	usmerjen
+proti	mte:Sd	proti
+Bližnjem	mte:Agpmsd	bližnji
+vzhodu	mte:Ncmsd	vzhod
+in	mte:Cc	in
+ne	mte:Q	ne
+proti	mte:Sd	proti
+Rusiji	mte:Npfsd	Rusija
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+administracija	mte:Ncfsn	administracija
+želi	mte:Vmpr3s	želeti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ZDA	mte:Npfpn	ZDA
+,	mte:Z	,
+Rusija	mte:Npfsn	Rusija
+in	mte:Cc	in
+Evropa	mte:Npfsn	Evropa
+delovali	mte:Vmpp-df	delovati
+skupaj	mte:Rgp	skupaj
+pri	mte:Sl	pri
+ustvarjanju	mte:Ncnsl	ustvarjanje
+takšnega	mte:Pd-msg	takšen
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+varoval	mte:Vmpp-sm	varovati
+pred	mte:Si	pred
+grožnjami	mte:Ncfpi	grožnja
+z	mte:Sg	z
+Bližnjega	mte:Agpmsg	bližnji
+vzhoda	mte:Ncmsg	vzhod
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+Bush	mte:Npmsn	Bush
+prihodnji	mte:Agpmsay	prihodnji
+teden	mte:Ncmsan	teden
+mudil	mte:Vmpp-sm	muditi
+v	mte:Sl	v
+vzhodni	mte:Agpfsl	vzhoden
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+V	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+bo	mte:Va-f3s-n	biti
+obiskal	mte:Vmep-sm	obiskati
+Ukrajino	mte:Npfsa	Ukrajina
+,	mte:Z	,
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+vrh	mte:Ncmsn	vrh
+zveze	mte:Ncfsg	zveza
+Nato	mte:Npmsn	Nato
+v	mte:Sl	v
+Romuniji	mte:Npfsl	Romunija
+in	mte:Cc	in
+nato	mte:Rgp	nato
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+še	mte:Q	še
+Hrvaško	mte:Npfsa	Hrvaška

@@ -1,468 +1,498 @@
-token	tag
-Berlin	Npmsn
--	Z
-Nemško	Agpnsn
-finančno	Agpnsn
-ministrstvo	Ncnsn
-je	Va-r3s-n
-danes	Rgp
-ponovilo	Vmep-sn
-vztrajanje	Ncnsa
-pri	Sl
-tem	Pd-nsl
-,	Z
-da	Cs
-morajo	Vmpr3p
-v	Sl
-kakršni	Pq-fsl
-koli	Q
-morebitni	Agpfsl
-dodatni	Agpfsl
-pomoči	Ncfsl
-prezadolženi	Appfsn
-Grčiji	Npfsd
-sodelovati	Vmpn
-tudi	Q
-zasebni	Agpmpn
-imetniki	Ncmpn
-grškega	Agpnsg
-dolga	Agpnsg
-,	Z
-je	Va-r3s-n
-poročala	Vmpp-sf
-francoska	Agpfsn
-tiskovna	Agpfsn
-agencija	Ncfsn
-AFP	Npmsn
-.	Z
-"	Z
-Če	Cs
-javni	Agpmsny
-sektor	Ncmsn
-da	Cs
-več	Rgc
-"	Z
-kot	Cs
-110	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-,	Z
-za	Sa
-katere	Pq-mpa
-je	Va-r3s-n
-že	Q
-bil	Va-p-sm
-sklenjen	Appmsnn
-dogovor	Ncmsn
-,	Z
-"	Z
-je	Va-r3s-n
-jasno	Agpnsn
-,	Z
-da	Cs
-morajo	Vmpr3p
-sodelovati	Vmpn
-tudi	Q
-zasebni	Agpmpn
-upniki	Ncmpn
-"	Z
-,	Z
-je	Va-r3s-n
-na	Sl
-novinarski	Agpfsl
-konferenci	Ncfsl
-povedal	Vmep-sm
-tiskovni	Agpmsny
-predstavnik	Ncmsn
-ministrstva	Ncnsg
-Martin	Npmsn
-Kotthaus	Npmsn
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-Nemčija	Npfsn
-na	Sa
-dodatno	Agpfsa
-pomoč	Ncfsa
-pristala	Vmep-sf
-pod	Si
-tremi	Mlcmpi
-pogoji	Ncmpi
-.	Z
-Prvi	Mlomsn
-je	Va-r3s-n
-omenjeno	Appnsn
-sodelovanje	Ncnsn
-zasebnega	Agpmsg
-sektorja	Ncmsg
-,	Z
-drugi	Mlpmsn
-je	Va-r3s-n
-dodatno	Agpnsn
-ukrepanje	Ncnsa
-z	Sg
-grške	Agpfsg
-strani	Ncfsg
-,	Z
-še	Q
-posebej	Rgp
-v	Sl
-javnofinančni	Agpfsl
-politiki	Ncfsl
-,	Z
-tretji	Mlomsn
-pa	Cc
-pospešena	Agpfsn
-privatizacija	Ncfsn
-.	Z
-Berlin	Npmsn
-ima	Vmpr3s-n
-po	Sl
-navedbah	Ncfpl
-Kotthausa	Npmsg
-v	Sl
-zvezi	Ncfsl
-s	Si
-tem	Pd-nsi
-vprašanjem	Ncnsi
-velika	Agpnpa
-pričakovanja	Ncnpa
-,	Z
-čeprav	Cs
-je	Va-r3s-n
-to	Pd-fsa
-Nemčijo	Npfsa
-postavilo	Vmep-sn
-v	Sa
-konflikt	Ncmsan
-z	Si
-izvršnim	Agpmsi
-odborom	Ncmsi
-Evropske	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-(	Z
-ECB	Npmsn
-)	Z
-.	Z
-V	Sl
-ECB	Npmsl
-namreč	Cc
-opozarjajo	Vmpr3p
-,	Z
-da	Cs
-bi	Va-c
-siljenje	Ncnsn
-zasebnih	Agpmpg
-vlagateljev	Ncmpg
-v	Sa
-soudeležbo	Ncfsa
-pri	Sl
-pomoči	Ncfsl
-Grčiji	Npfsl
-lahko	Rgp
-resno	Rgp
-škodovalo	Vmbp-sn
-grškemu	Agpmsd
-bančnemu	Agpmsd
-sistemu	Ncmsd
-.	Z
-Grške	Agpfsg
-banke	Ncfsg
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-v	Sl
-lasti	Ncfsl
-večino	Ncfsa
-državnega	Agpnsg
-dolga	Agpnsg
-,	Z
-bi	Va-c
-se	Px------y
-namreč	Cc
-ob	Sl
-primoranosti	Ncfsl
-k	Sd
-odpisu	Ncmsd
-slabih	Agpfpg
-terjatev	Ncfpg
-lahko	Rgp
-zlomile	Vmep-pf
-,	Z
-to	Pd-nsn
-pa	Cc
-bi	Va-c
-vplivalo	Vmpp-sn
-tudi	Q
-na	Sa
-druge	Mlpfpa
-banke	Ncfpa
-po	Sl
-Evropi	Npfsl
-.	Z
-Ameriški	Agpmsny
-časnik	Ncmsn
-Wall	Npmsn
-Street	Npmsn
-Journal	Npmsn
-je	Va-r3s-n
-sicer	Q
-v	Sa
-torek	Ncmsan
-poročal	Vmpp-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-nemške	Agpfpn
-oblasti	Ncfpn
-morda	Q
-pripravljene	Appfpn
-odstopiti	Vmen
-od	Sg
-vztrajanja	Ncnsg
-pri	Sl
-zahtevi	Ncfsl
-glede	Sg
-udeležbe	Ncfsg
-zasebnih	Agpmpg
-vlagateljev	Ncmpg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-na	Sl
-finančnih	Agpmpl
-trgih	Ncmpl
-vzbudilo	Vmep-sn
-upanje	Ncnsa
-,	Z
-da	Cs
-bi	Va-c
-lahko	Rgp
-kmalu	Rgp
-prišlo	Vmep-sn
-do	Sg
-kakšnega	Pq-msg
-dogovora	Ncmsg
-.	Z
-Predstavniki	Ncmpn
-ECB	Npfsg
-,	Z
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-(	Z
-IMF	Npmsn
-)	Z
-in	Cc
-Evropske	Agpfsg
-komisije	Ncfsg
-so	Va-r3p-n
-trenutno	Rgp
-v	Sl
-pogovorih	Ncmpl
-z	Si
-grškimi	Agpmpi
-predstavniki	Ncmpi
-ter	Cc
-naj	Q
-bi	Va-c
-v	Sl
-bližnji	Agpfsl
-prihodnosti	Ncfsl
-objavili	Vmep-pm
-svojo	Px-nsa
-poročilo	Ncnsa
-,	Z
-morda	Q
-že	Q
-ta	Pd-msa
-konec	Ncmsan
-tedna	Ncmsg
-ali	Cc
-pa	Cc
-nekoliko	Rgp
-kasneje	Rgc
-.	Z
-Nemška	Agpfsn
-kanclerka	Ncfsn
-Angela	Npfsn
-Merkel	Npfsn
-je	Va-r3s-n
-sicer	Q
-danes	Rgp
-med	Si
-obiskom	Ncmsi
-v	Sl
-Singapurju	Npmsl
-dejala	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-za	Sa
-Evropo	Npfsa
-in	Cc
-Nemčijo	Npfsa
-pri	Sl
-reševanju	Ncnsl
-grške	Agpfsg
-dolžniške	Agpfsg
-krize	Ncfsg
-najbolj	Rgs
-pomemben	Agpmsnn
-cilj	Ncmsan
-stabilnost	Ncfsa
-območja	Ncnsg
-evra	Ncmsg
-.	Z
-Dokončne	Agpfsg
-odločitve	Ncfsg
-pa	Cc
-bo	Va-f3s-n
-sicer	Q
-mogoče	Agpnsn
-sprejeti	Vmen
-šele	Q
-,	Z
-ko	Cs
-bo	Va-f3s-n
-nared	Rgp
-omenjeno	Appnsn
-poročilo	Ncnsa
-.	Z
-Glavni	Agpmsny
-ekonomist	Ncmsn
-v	Sl
-ECB	Npmsl
-Jürgen	Npmsn
-Stark	Npmsn
-pa	Cc
-je	Va-r3s-n
-danes	Rgp
-izpostavil	Vmep-sm
-,	Z
-da	Cs
-mora	Vmpr3s
-Grčija	Npfsn
-okrepiti	Vmen
-reformne	Agpmpa
-napore	Ncmpa
-z	Si
-obsežnim	Agpmsi
-programom	Ncmsi
-privatizacije	Ncfsg
-.	Z
-"	Z
-Grčija	Npfsn
-je	Va-r3s-n
-v	Sl
-zadnjih	Agpnpl
-desetletjih	Ncnpl
-zastavila	Vmep-sf
-slabe	Agpfpa
-ekonomske	Agpfpa
-politike	Ncfpa
-in	Cc
-je	Va-r3s-n
-živela	Vmpp-sf
-nad	Si
-svojimi	Px-fpi
-zmožnostmi	Ncfpi
-.	Z
-Obrat	Ncmsn
-za	Sa
-180	Mdc
-stopinj	Ncfpg
-je	Va-r3s-n
-neizogiben	Agpmsnn
-in	Cc
-bo	Va-f3s-n
-boleč	Appmsnn
-,	Z
-"	Z
-je	Va-r3s-n
-Stark	Npmsn
-povedal	Vmep-sm
-za	Sa
-švicarski	Agpmsay
-poslovni	Agpmsay
-tednik	Ncmsan
-Handelszeitung	Npmsn
-.	Z
-Potem	Rgp
-ko	Cs
-sta	Va-r3d-n
-ji	Pp3fsd--y
-EU	Npfsn
-in	Cc
-Mednarodni	Agpmsny
-denarni	Agpmsny
-sklad	Ncmsn
-(	Z
-IMF	Npmsn
-)	Z
-že	Q
-odobrila	Vmep-dm
-za	Sa
-110	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-posojil	Ncnpg
-,	Z
-se	Px------y
-mora	Vmpr3s
-Grčija	Npfsn
-zdaj	Rgp
-dodatno	Rgp
-potruditi	Vmen
-,	Z
-da	Cs
-odplača	Vmer3s
-svoje	Px-mpa
-dolgove	Ncmpa
-,	Z
-in	Cc
-sicer	Q
-z	Si
-obsežnim	Agpmsi
-programom	Ncmsi
-privatizacije	Ncfsg
-,	Z
-je	Va-r3s-n
-dodal	Vmep-sm
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-strokovnjaki	Ncmpn
-ocenjujejo	Vmpr3p
-,	Z
-da	Cs
-ima	Vmpr3s-n
-Grčija	Npfsn
-za	Sa
-do	Sg
-300	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-privatizacijskega	Agpmsg
-potenciala	Ncmsg
-.	Z
-Del	Ncmsn
-te	Pd-fsg
-vrednosti	Ncfsg
-se	Px------y
-mora	Vmpr3s
-uporabiti	Vmen
-za	Sa
-znižanje	Ncnsa
-zadolženosti	Ncfsg
-,	Z
-meni	Vmpr3s
-Stark	Npmsn
-.	Z
+token	tag	lemma
+Berlin	mte:Npmsn	Berlin
+-	mte:Z	-
+Nemško	mte:Agpnsn	nemški
+finančno	mte:Agpnsn	finančen
+ministrstvo	mte:Ncnsn	ministrstvo
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+ponovilo	mte:Vmep-sn	ponoviti
+vztrajanje	mte:Ncnsa	vztrajanje
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+morajo	mte:Vmpr3p	morati
+v	mte:Sl	v
+kakršni	mte:Pq-fsl	kakršen
+koli	mte:Q	koli
+morebitni	mte:Agpfsl	morebiten
+dodatni	mte:Agpfsl	dodaten
+pomoči	mte:Ncfsl	pomoč
+prezadolženi	mte:Appfsn	prezadolžen
+Grčiji	mte:Npfsd	Grčija
+sodelovati	mte:Vmpn	sodelovati
+tudi	mte:Q	tudi
+zasebni	mte:Agpmpn	zaseben
+imetniki	mte:Ncmpn	imetnik
+grškega	mte:Agpnsg	grški
+dolga	mte:Agpnsg	dolg
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročala	mte:Vmpp-sf	poročati
+francoska	mte:Agpfsn	francoski
+tiskovna	mte:Agpfsn	tiskoven
+agencija	mte:Ncfsn	agencija
+AFP	mte:Npmsn	AFP
+.	mte:Z	.
+"	mte:Z	"
+Če	mte:Cs	če
+javni	mte:Agpmsny	javen
+sektor	mte:Ncmsn	sektor
+da	mte:Cs	da
+več	mte:Rgc	več
+"	mte:Z	"
+kot	mte:Cs	kot
+110	mte:Mdc	110
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+bil	mte:Va-p-sm	biti
+sklenjen	mte:Appmsnn	sklenjen
+dogovor	mte:Ncmsn	dogovor
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+da	mte:Cs	da
+morajo	mte:Vmpr3p	morati
+sodelovati	mte:Vmpn	sodelovati
+tudi	mte:Q	tudi
+zasebni	mte:Agpmpn	zaseben
+upniki	mte:Ncmpn	upnik
+"	mte:Z	"
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+povedal	mte:Vmep-sm	povedati
+tiskovni	mte:Agpmsny	tiskoven
+predstavnik	mte:Ncmsn	predstavnik
+ministrstva	mte:Ncnsg	ministrstvo
+Martin	mte:Npmsn	Martin
+Kotthaus	mte:Npmsn	Kotthaus
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+Nemčija	mte:Npfsn	Nemčija
+na	mte:Sa	na
+dodatno	mte:Agpfsa	dodaten
+pomoč	mte:Ncfsa	pomoč
+pristala	mte:Vmep-sf	pristati
+pod	mte:Si	pod
+tremi	mte:Mlcmpi	trije
+pogoji	mte:Ncmpi	pogoj
+.	mte:Z	.
+Prvi	mte:Mlomsn	prvi
+je	mte:Va-r3s-n	biti
+omenjeno	mte:Appnsn	omenjen
+sodelovanje	mte:Ncnsn	sodelovanje
+zasebnega	mte:Agpmsg	zaseben
+sektorja	mte:Ncmsg	sektor
+,	mte:Z	,
+drugi	mte:Mlpmsn	drug
+je	mte:Va-r3s-n	biti
+dodatno	mte:Agpnsn	dodaten
+ukrepanje	mte:Ncnsa	ukrepanje
+z	mte:Sg	z
+grške	mte:Agpfsg	grški
+strani	mte:Ncfsg	stran
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+v	mte:Sl	v
+javnofinančni	mte:Agpfsl	javnofinančen
+politiki	mte:Ncfsl	politika
+,	mte:Z	,
+tretji	mte:Mlomsn	tretji
+pa	mte:Cc	pa
+pospešena	mte:Agpfsn	pospešen
+privatizacija	mte:Ncfsn	privatizacija
+.	mte:Z	.
+Berlin	mte:Npmsn	Berlin
+ima	mte:Vmpr3s-n	imeti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Kotthausa	mte:Npmsg	Kotthaus
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+vprašanjem	mte:Ncnsi	vprašanje
+velika	mte:Agpnpa	velik
+pričakovanja	mte:Ncnpa	pričakovanje
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+to	mte:Pd-fsa	ta
+Nemčijo	mte:Npfsa	Nemčija
+postavilo	mte:Vmep-sn	postaviti
+v	mte:Sa	v
+konflikt	mte:Ncmsan	konflikt
+z	mte:Si	z
+izvršnim	mte:Agpmsi	izvršen
+odborom	mte:Ncmsi	odbor
+Evropske	mte:Agpfsg	evropski
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+(	mte:Z	(
+ECB	mte:Npmsn	ECB
+)	mte:Z	)
+.	mte:Z	.
+V	mte:Sl	v
+ECB	mte:Npmsl	ECB
+namreč	mte:Cc	namreč
+opozarjajo	mte:Vmpr3p	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+siljenje	mte:Ncnsn	siljenje
+zasebnih	mte:Agpmpg	zaseben
+vlagateljev	mte:Ncmpg	vlagatelj
+v	mte:Sa	v
+soudeležbo	mte:Ncfsa	soudeležba
+pri	mte:Sl	pri
+pomoči	mte:Ncfsl	pomoč
+Grčiji	mte:Npfsl	Grčija
+lahko	mte:Rgp	lahko
+resno	mte:Rgp	resno
+škodovalo	mte:Vmbp-sn	škodovati
+grškemu	mte:Agpmsd	grški
+bančnemu	mte:Agpmsd	bančen
+sistemu	mte:Ncmsd	sistem
+.	mte:Z	.
+Grške	mte:Agpfsg	grški
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+večino	mte:Ncfsa	večina
+državnega	mte:Agpnsg	državen
+dolga	mte:Agpnsg	dolg
+,	mte:Z	,
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+namreč	mte:Cc	namreč
+ob	mte:Sl	ob
+primoranosti	mte:Ncfsl	primoranost
+k	mte:Sd	k
+odpisu	mte:Ncmsd	odpis
+slabih	mte:Agpfpg	slab
+terjatev	mte:Ncfpg	terjatev
+lahko	mte:Rgp	lahko
+zlomile	mte:Vmep-pf	zlomiti
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+vplivalo	mte:Vmpp-sn	vplivati
+tudi	mte:Q	tudi
+na	mte:Sa	na
+druge	mte:Mlpfpa	drug
+banke	mte:Ncfpa	banka
+po	mte:Sl	po
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Ameriški	mte:Agpmsny	ameriški
+časnik	mte:Ncmsn	časnik
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+Journal	mte:Npmsn	Journal
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+poročal	mte:Vmpp-sm	poročati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+nemške	mte:Agpfpn	nemški
+oblasti	mte:Ncfpn	oblast
+morda	mte:Q	morda
+pripravljene	mte:Appfpn	pripravljen
+odstopiti	mte:Vmen	odstopiti
+od	mte:Sg	od
+vztrajanja	mte:Ncnsg	vztrajanje
+pri	mte:Sl	pri
+zahtevi	mte:Ncfsl	zahteva
+glede	mte:Sg	glede
+udeležbe	mte:Ncfsg	udeležba
+zasebnih	mte:Agpmpg	zaseben
+vlagateljev	mte:Ncmpg	vlagatelj
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+finančnih	mte:Agpmpl	finančen
+trgih	mte:Ncmpl	trg
+vzbudilo	mte:Vmep-sn	vzbuditi
+upanje	mte:Ncnsa	upanje
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+kmalu	mte:Rgp	kmalu
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+kakšnega	mte:Pq-msg	kakšen
+dogovora	mte:Ncmsg	dogovor
+.	mte:Z	.
+Predstavniki	mte:Ncmpn	predstavnik
+ECB	mte:Npfsg	ECB
+,	mte:Z	,
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+(	mte:Z	(
+IMF	mte:Npmsn	IMF
+)	mte:Z	)
+in	mte:Cc	in
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+so	mte:Va-r3p-n	biti
+trenutno	mte:Rgp	trenutno
+v	mte:Sl	v
+pogovorih	mte:Ncmpl	pogovor
+z	mte:Si	z
+grškimi	mte:Agpmpi	grški
+predstavniki	mte:Ncmpi	predstavnik
+ter	mte:Cc	ter
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+bližnji	mte:Agpfsl	bližnji
+prihodnosti	mte:Ncfsl	prihodnost
+objavili	mte:Vmep-pm	objaviti
+svojo	mte:Px-nsa	svoj
+poročilo	mte:Ncnsa	poročilo
+,	mte:Z	,
+morda	mte:Q	morda
+že	mte:Q	že
+ta	mte:Pd-msa	ta
+konec	mte:Ncmsan	konec
+tedna	mte:Ncmsg	teden
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+nekoliko	mte:Rgp	nekoliko
+kasneje	mte:Rgc	kasno
+.	mte:Z	.
+Nemška	mte:Agpfsn	nemški
+kanclerka	mte:Ncfsn	kanclerka
+Angela	mte:Npfsn	Angela
+Merkel	mte:Npfsn	Merkel
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+danes	mte:Rgp	danes
+med	mte:Si	med
+obiskom	mte:Ncmsi	obisk
+v	mte:Sl	v
+Singapurju	mte:Npmsl	Singapur
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Evropo	mte:Npfsa	Evropa
+in	mte:Cc	in
+Nemčijo	mte:Npfsa	Nemčija
+pri	mte:Sl	pri
+reševanju	mte:Ncnsl	reševanje
+grške	mte:Agpfsg	grški
+dolžniške	mte:Agpfsg	dolžniški
+krize	mte:Ncfsg	kriza
+najbolj	mte:Rgs	najbolj
+pomemben	mte:Agpmsnn	pomemben
+cilj	mte:Ncmsan	cilj
+stabilnost	mte:Ncfsa	stabilnost
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Dokončne	mte:Agpfsg	dokončen
+odločitve	mte:Ncfsg	odločitev
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+sicer	mte:Q	sicer
+mogoče	mte:Agpnsn	mogoč
+sprejeti	mte:Vmen	sprejeti
+šele	mte:Q	šele
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+nared	mte:Rgp	nared
+omenjeno	mte:Appnsn	omenjen
+poročilo	mte:Ncnsa	poročilo
+.	mte:Z	.
+Glavni	mte:Agpmsny	glaven
+ekonomist	mte:Ncmsn	ekonomist
+v	mte:Sl	v
+ECB	mte:Npmsl	ECB
+Jürgen	mte:Npmsn	Jürgen
+Stark	mte:Npmsn	Stark
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+izpostavil	mte:Vmep-sm	izpostaviti
+,	mte:Z	,
+da	mte:Cs	da
+mora	mte:Vmpr3s	morati
+Grčija	mte:Npfsn	Grčija
+okrepiti	mte:Vmen	okrepiti
+reformne	mte:Agpmpa	reformen
+napore	mte:Ncmpa	napor
+z	mte:Si	z
+obsežnim	mte:Agpmsi	obsežen
+programom	mte:Ncmsi	program
+privatizacije	mte:Ncfsg	privatizacija
+.	mte:Z	.
+"	mte:Z	"
+Grčija	mte:Npfsn	Grčija
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+desetletjih	mte:Ncnpl	desetletje
+zastavila	mte:Vmep-sf	zastaviti
+slabe	mte:Agpfpa	slab
+ekonomske	mte:Agpfpa	ekonomski
+politike	mte:Ncfpa	politika
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+živela	mte:Vmpp-sf	živeti
+nad	mte:Si	nad
+svojimi	mte:Px-fpi	svoj
+zmožnostmi	mte:Ncfpi	zmožnost
+.	mte:Z	.
+Obrat	mte:Ncmsn	obrat
+za	mte:Sa	za
+180	mte:Mdc	180
+stopinj	mte:Ncfpg	stopinja
+je	mte:Va-r3s-n	biti
+neizogiben	mte:Agpmsnn	neizogiben
+in	mte:Cc	in
+bo	mte:Va-f3s-n	biti
+boleč	mte:Appmsnn	boleč
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+Stark	mte:Npmsn	Stark
+povedal	mte:Vmep-sm	povedati
+za	mte:Sa	za
+švicarski	mte:Agpmsay	švicarski
+poslovni	mte:Agpmsay	posloven
+tednik	mte:Ncmsan	tednik
+Handelszeitung	mte:Npmsn	Handelszeitung
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+sta	mte:Va-r3d-n	biti
+ji	mte:Pp3fsd--y	on
+EU	mte:Npfsn	EU
+in	mte:Cc	in
+Mednarodni	mte:Agpmsny	mednaroden
+denarni	mte:Agpmsny	denaren
+sklad	mte:Ncmsn	sklad
+(	mte:Z	(
+IMF	mte:Npmsn	IMF
+)	mte:Z	)
+že	mte:Q	že
+odobrila	mte:Vmep-dm	odobriti
+za	mte:Sa	za
+110	mte:Mdc	110
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+posojil	mte:Ncnpg	posojilo
+,	mte:Z	,
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+Grčija	mte:Npfsn	Grčija
+zdaj	mte:Rgp	zdaj
+dodatno	mte:Rgp	dodatno
+potruditi	mte:Vmen	potruditi
+,	mte:Z	,
+da	mte:Cs	da
+odplača	mte:Vmer3s	odplačati
+svoje	mte:Px-mpa	svoj
+dolgove	mte:Ncmpa	dolg
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+z	mte:Si	z
+obsežnim	mte:Agpmsi	obsežen
+programom	mte:Ncmsi	program
+privatizacije	mte:Ncfsg	privatizacija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dodal	mte:Vmep-sm	dodati
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+strokovnjaki	mte:Ncmpn	strokovnjak
+ocenjujejo	mte:Vmpr3p	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+Grčija	mte:Npfsn	Grčija
+za	mte:Sa	za
+do	mte:Sg	do
+300	mte:Mdc	300
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+privatizacijskega	mte:Agpmsg	privatizacijski
+potenciala	mte:Ncmsg	potencial
+.	mte:Z	.
+Del	mte:Ncmsn	del
+te	mte:Pd-fsg	ta
+vrednosti	mte:Ncfsg	vrednost
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+uporabiti	mte:Vmen	uporabiti
+za	mte:Sa	za
+znižanje	mte:Ncnsa	znižanje
+zadolženosti	mte:Ncfsg	zadolženost
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+Stark	mte:Npmsn	Stark
+.	mte:Z	.
+Že	mte:Q	že
+50	mte:Mdc	50
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+grški	mte:Agpmsny	grški
+dolg	mte:Ncmsan	dolg
+znižalo	mte:Vmep-sn	znižati
+za	mte:Sa	za
+20	mte:Mdc	20
+odstotnih	mte:Agpfpg	odstoten
+točk	mte:Ncfpg	točka
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+Grčija	mte:Npfsn	Grčija
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+biti	mte:Va-n	biti
+sod	mte:Ncmsn	sod
+brez	mte:Sg	brez
+dna	mte:Ncnsg	dno
+za	mte:Sa	za
+finančno	mte:Agpfsa	finančen
+pomoč	mte:Ncfsa	pomoč

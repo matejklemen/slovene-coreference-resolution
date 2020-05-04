@@ -1,515 +1,546 @@
-token	tag
-Lokalne	Agpfpa
-volitve	Ncfpn
-.	Z
-SDS	Npfsn
-bo	Va-f3s-n
-v	Sa
-boj	Ncmsan
-za	Sa
-svetniška	Agpnpa
-mesta	Ncnpa
-v	Sl
-Ljubljani	Npfsl
-menda	Q
-poslala	Vmep-sf
-tudi	Q
-Mirana	Npmsay
-Pavlina	Npmsay
-,	Z
-člana	Ncmsay
-zlate	Agpfsg
-nogometne	Agpfsg
-selekcije	Ncfsg
-.	Z
-“	Z
-Pogovarjali	Vmpp-pm
-smo	Va-r1p-n
-se	Px------y
-,	Z
-vendar	Cc
-ni	Va-r3s-y
-še	Q
-nič	Pz-nsn
-gotovo	Rgp
-,	Z
-”	Z
-je	Va-r3s-n
-neuradno	Agpfsa
-informacijo	Ncfsa
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-se	Px------y
-na	Sl
-jesenskih	Agpfpl
-lokalnih	Agpfpl
-volitvah	Ncfpl
-pomeril	Vmep-sm
-s	Si
-kandidati	Ncmpi
-za	Sa
-ljubljanske	Agpmpa
-mestne	Agpmpa
-svetnike	Ncmpa
-na	Sl
-listi	Ncfsl
-SDS	Npfsg
-,	Z
-potrdil	Vmep-sm
-Miran	Npmsn
-Pavlin	Npmsn
-,	Z
-kapetan	Ncmsn
-in	Cc
-športni	Agpmsny
-direktor	Ncmsn
-državnega	Agpmsg
-prvaka	Ncmsg
-,	Z
-Nogometnega	Agpmsg
-kluba	Ncmsg
-(	Z
-NK	Npmsn
-)	Z
-Koper	Npmsn
-.	Z
-Meni	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-lahko	Rgp
-stranki	Ncfsd
-in	Cc
-mestu	Ncnsl
-Ljubljana	Npfsn
-,	Z
-če	Cs
-bi	Va-c
-bil	Va-p-sm
-izvoljen	Appmsnn
-,	Z
-pomagal	Vmbp-sm
-pri	Sl
-razvoju	Ncmsl
-in	Cc
-napredku	Ncmsl
-ljubljanskega	Agpmsg
-nogometa	Ncmsg
-.	Z
-Poudaril	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-o	Sl
-kandidaturi	Ncfsl
-še	Q
-prezgodaj	Rgp
-govoriti	Vmpn
-,	Z
-saj	Cc
-dokončna	Agpfsn
-odločitev	Ncfsn
-še	Q
-ni	Va-r3s-y
-sprejeta	Appfsn
-.	Z
-Kandidaturi	Ncfsd
-je	Va-r3s-n
-naklonjen	Appmsnn
-,	Z
-s	Si
-stranko	Ncfsi
-pa	Cc
-bi	Va-c
-se	Px------y
-menda	Q
-morali	Vmpp-pm
-dogovoriti	Vmen
-le	Q
-še	Q
-o	Sl
-načinu	Ncmsl
-.	Z
-Nekdanji	Agpmsny
-športni	Agpmsny
-direktor	Ncmsn
-in	Cc
-nogometaš	Ncmsn
-NK	Npmsn
-Olimpije	Npfsg
-je	Va-r3s-n
-sicer	Q
-poudaril	Vmep-sm
-,	Z
-da	Cs
-zelo	Rgp
-rad	Rgp
-pomaga	Vmbr3s
-stranki	Ncfsd
-SDS	Npfsg
-,	Z
-zato	Cc
-“	Z
-kar	Pr-nsn
-se	Px------y
-mene	Pp1-sa
-tiče	Vmpr3s
-,	Z
-ni	Va-r3s-y
-problemov	Ncmpg
-”	Z
-.	Z
-Na	Sl
-listi	Ncfsl
-SDS	Npmsn
-ni	Va-r3s-y
-prvič	Rgp
-Kandidat	Ncmsn
-.	Z
-Miran	Npmsn
-Pavlin	Npmsn
-je	Va-r3s-n
-na	Sl
-listi	Ncfsl
-SDS	Npfsg
-že	Q
-kandidiral	Vmbp-sm
-leta	Ncnsg
-2008	Mdc
-na	Sl
-državnozborskih	Agpfpl
-volitvah	Ncfpl
-.	Z
-Pomeril	Vmep-sm
-se	Px------y
-je	Va-r3s-n
-v	Sl
-devetem	Mlomsl
-volilnem	Agpmsl
-okraju	Ncmsl
-,	Z
-v	Sl
-volilni	Agpfsl
-enoti	Ncfsl
-Bežigrad	Npmsn
-II	Mrc
-.	Z
-V	Sl
-istem	Pi-msl
-okraju	Ncmsl
-sta	Va-r3d-n
-kandidirala	Vmbp-dm
-tudi	Q
-Gregor	Npmsn
-Golobič	Npmsn
-,	Z
-prvak	Ncmsn
-stranke	Ncfsg
-Zares	Rgp
-,	Z
-in	Cc
-zdajšnji	Agpmsny
-minister	Ncmsn
-za	Sa
-šolstvo	Ncnsa
-in	Cc
-šport	Ncmsan
-Igor	Npmsn
-Lukšič	Npmsn
-(	Z
-SD	Npmsn
-)	Z
-.	Z
-Ta	Pd-msn
-je	Va-r3s-n
-Pavlina	Npmsn
-prehitel	Vmep-sm
-z	Si
-dobrimi	Agpmpi
-42	Mdc
-odstotki	Ncmpi
-glasov	Ncmpg
-,	Z
-Pavlin	Npmsn
-pa	Cc
-je	Va-r3s-n
-s	Si
-slabimi	Agpmpi
-20	Mdc
-odstotki	Ncmpi
-glasov	Ncmpg
-prehitel	Vmep-sm
-tretjega	Mlomsa
-Golobiča	Npmsay
-.	Z
-V	Sl
-stranki	Ncfsl
-zadržano	Appnsn
-Predsednik	Ncmsn
-mestnega	Agpmsg
-odbora	Ncmsg
-SDS	Npfsg
-Dragutin	Npmsn
-Mate	Npmsn
-po	Sl
-telefonu	Ncmsl
-spet	Rgp
-ni	Va-r3s-y
-želel	Vmpp-sm
-dati	Vmen
-izjav	Ncfpg
-in	Cc
-nas	Pp1-pa
-je	Va-r3s-n
-napotil	Vmep-sm
-na	Sa
-strankino	Aspfsa
-službo	Ncfsa
-za	Sa
-stike	Ncmpa
-z	Si
-javnostmi	Ncfpi
-.	Z
-Janja	Npfsn
-Pavlin	Npfsn
-,	Z
-tiskovna	Agpfsn
-predstavnica	Ncfsn
-mestnega	Agpmsg
-odbora	Ncmsg
-SDS	Npfsg
-,	Z
-je	Va-r3s-n
-tako	Rgp
-sporočila	Vmep-sf
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-že	Q
-zdaj	Rgp
-kakovostno	Agpfsa
-ekipo	Ncfsa
-in	Cc
-pričakujejo	Vmpr3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-Ljubljana	Npfsn
-v	Sl
-naslednjem	Agpmsl
-mandatu	Ncmsl
-dobila	Vmep-sf
-ekipo	Ncfsa
-,	Z
-ki	Cs
-bo	Va-f3s-n
-“	Z
-spet	Rgp
-postavila	Vmep-sf
-zdrave	Agpmpa
-javno	Agpnsa
--	Z
-finančne	Agpmpa
-temelje	Ncmpa
-v	Sl
-mestu	Ncnsl
-ter	Cc
-ki	Cs
-bo	Va-f3s-n
-sposobna	Agpfsn
-političnega	Agpmsg
-dialoga	Ncmsg
-z	Si
-vsemi	Pg-mpi
-meščani	Ncmpi
-in	Cc
-političnimi	Agpfpi
-skupinami	Ncfpi
-”	Z
-.	Z
-“	Z
-Kdo	Pq-msn
-bodo	Va-f3p-n
-naši	Ps1mpnp
-prihodnji	Agpmpn
-kandidati	Ncmpn
-,	Z
-vam	Pp2-pd
-trenutno	Rgp
-še	Q
-ne	Q
-moremo	Vmpr1p
-povedati	Vmen
-,	Z
-saj	Cc
-gre	Vmbr3s
-za	Sa
-postopek	Ncmsan
-izbire	Ncfsg
-,	Z
-odvisen	Agpmsnn
-od	Sg
-več	Rgc
-meril	Ncnpg
-,	Z
-”	Z
-je	Va-r3s-n
-dodala	Vmep-sf
-Pavlinova	Aspfsn
-.	Z
-Nogometaš	Ncmsn
-naj	Q
-brca	Vmpr3s
-Oba	Pg-mda
-politična	Agpmda
-analitika	Ncmda
-,	Z
-ki	Cs
-smo	Va-r1p-n
-ju	Pp3mda--y
-poklicali	Vmep-pm
-,	Z
-pa	Cc
-sta	Va-r3d-n
-dejala	Vmep-dm
-,	Z
-da	Cs
-športnik	Ncmsn
-na	Sl
-kandidatni	Agpfsl
-listi	Ncfsl
-stranke	Ncfsg
-niti	Q
-v	Sl
-letu	Ncnsl
-,	Z
-ko	Cs
-bo	Va-f3s-n
-svetovno	Agpnsn
-nogometno	Agpnsn
-prvenstvo	Ncnsn
-,	Z
-ne	Q
-igra	Vmpr3s
-pomembnejše	Agcfsg
-vloge	Ncfsg
-.	Z
-“	Z
-Odgovor	Ncmsn
-je	Va-r3s-n
-zelo	Rgp
-preprost	Agpmsnn
-,	Z
-”	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Vlado	Ncfsa
-Miheljak	Npmsn
-in	Cc
-dodal	Vmep-sm
-:	Z
-“	Z
-Do	Sg
-zdaj	Rgp
-se	Px------y
-je	Va-r3s-n
-vedno	Rgp
-pokazalo	Vmep-sn
-,	Z
-da	Cs
-športniki	Ncmpn
-niso	Va-r3p-y
-noben	Pz-msn
-adut	Ncmsn
-.	Z
-”	Z
-Meni	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-Pavlinova	Aspfsn
-kandidatura	Ncfsn
-na	Sl
-ljubljanskih	Agpfpl
-volitvah	Ncfpl
-“	Z
-zgrešena	Appfsn
-investicija	Ncfsn
-”	Z
-.	Z
-Poudaril	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-ljudje	Ncmpn
-športnike	Ncmpa
-sicer	Q
-radi	Rgp
-,	Z
-vendar	Cc
-v	Sl
-njih	Pp3mpl
-ne	Q
-vidijo	Vmbr3p
-nosilcev	Ncmpg
-političnih	Agpfpg
-funkcij	Ncfpg
-.	Z
-Boštjan	Npmsn
-M	Npmsn
-.	Z
-Turk	Npmsn
-pa	Cc
-je	Va-r3s-n
-mnenja	Ncnsg
-,	Z
-da	Cs
-vsaka	Pg-fsn
-stvar	Ncfsn
-vpliva	Vmpr3s
-na	Sa
-izid	Ncmsan
-volitev	Ncfpg
-,	Z
-vendar	Cc
-kandidiranje	Ncnsn
-športnikov	Ncmpg
-ne	Q
-vpliva	Vmpr3s
-bistveno	Agpnsn
-.	Z
-Dejal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-sicer	Q
-športniki	Ncmpn
-vselej	Rgp
-sodelujejo	Vmpr3p
-v	Sl
-volilnih	Agpfpl
-kampanjah	Ncfpl
-na	Sa
-različne	Agpmpa
-načine	Ncmpa
-,	Z
-vendar	Cc
-se	Px------y
-ne	Q
-spominja	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-kaj	Pq-nsa
-od	Sg
-tega	Pd-nsg
-bistveno	Rgp
-vplivalo	Vmpp-sn
-na	Sa
-volilni	Agpmsay
-rezultat	Ncmsan
-.	Z
+token	tag	lemma
+Lokalne	mte:Agpfpa	lokalen
+volitve	mte:Ncfpn	volitev
+.	mte:Z	.
+SDS	mte:Npfsn	SDS
+bo	mte:Va-f3s-n	biti
+v	mte:Sa	v
+boj	mte:Ncmsan	boj
+za	mte:Sa	za
+svetniška	mte:Agpnpa	svetniški
+mesta	mte:Ncnpa	mesto
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+menda	mte:Q	menda
+poslala	mte:Vmep-sf	poslati
+tudi	mte:Q	tudi
+Mirana	mte:Npmsay	Miran
+Pavlina	mte:Npmsay	Pavlina
+,	mte:Z	,
+člana	mte:Ncmsay	član
+zlate	mte:Agpfsg	zlat
+nogometne	mte:Agpfsg	nogometen
+selekcije	mte:Ncfsg	selekcija
+.	mte:Z	.
+“	mte:Z	“
+Pogovarjali	mte:Vmpp-pm	pogovarjati
+smo	mte:Va-r1p-n	biti
+se	mte:Px------y	se
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ni	mte:Va-r3s-y	biti
+še	mte:Q	še
+nič	mte:Pz-nsn	nič
+gotovo	mte:Rgp	gotovo
+,	mte:Z	,
+”	mte:Z	”
+je	mte:Va-r3s-n	biti
+neuradno	mte:Agpfsa	neuradno
+informacijo	mte:Ncfsa	informacija
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+jesenskih	mte:Agpfpl	jesenski
+lokalnih	mte:Agpfpl	lokalen
+volitvah	mte:Ncfpl	volitev
+pomeril	mte:Vmep-sm	pomeriti
+s	mte:Si	z
+kandidati	mte:Ncmpi	kandidat
+za	mte:Sa	za
+ljubljanske	mte:Agpmpa	ljubljanski
+mestne	mte:Agpmpa	mesten
+svetnike	mte:Ncmpa	svetnik
+na	mte:Sl	na
+listi	mte:Ncfsl	list
+SDS	mte:Npfsg	SDS
+,	mte:Z	,
+potrdil	mte:Vmep-sm	potrditi
+Miran	mte:Npmsn	Miran
+Pavlin	mte:Npmsn	Pavlin
+,	mte:Z	,
+kapetan	mte:Ncmsn	kapetan
+in	mte:Cc	in
+športni	mte:Agpmsny	športen
+direktor	mte:Ncmsn	direktor
+državnega	mte:Agpmsg	državen
+prvaka	mte:Ncmsg	prvak
+,	mte:Z	,
+Nogometnega	mte:Agpmsg	nogometen
+kluba	mte:Ncmsg	klub
+(	mte:Z	(
+NK	mte:Npmsn	NK
+)	mte:Z	)
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+stranki	mte:Ncfsd	stranka
+in	mte:Cc	in
+mestu	mte:Ncnsl	mesto
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+izvoljen	mte:Appmsnn	izvoljen
+,	mte:Z	,
+pomagal	mte:Vmbp-sm	pomagati
+pri	mte:Sl	pri
+razvoju	mte:Ncmsl	razvoj
+in	mte:Cc	in
+napredku	mte:Ncmsl	napredek
+ljubljanskega	mte:Agpmsg	ljubljanski
+nogometa	mte:Ncmsg	nogomet
+.	mte:Z	.
+Poudaril	mte:Vmep-sm	poudariti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+kandidaturi	mte:Ncfsl	kandidatura
+še	mte:Q	še
+prezgodaj	mte:Rgp	prezgodaj
+govoriti	mte:Vmpn	govoriti
+,	mte:Z	,
+saj	mte:Cc	saj
+dokončna	mte:Agpfsn	dokončen
+odločitev	mte:Ncfsn	odločitev
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+sprejeta	mte:Appfsn	sprejet
+.	mte:Z	.
+Kandidaturi	mte:Ncfsd	kandidatura
+je	mte:Va-r3s-n	biti
+naklonjen	mte:Appmsnn	naklonjen
+,	mte:Z	,
+s	mte:Si	z
+stranko	mte:Ncfsi	stranka
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+menda	mte:Q	menda
+morali	mte:Vmpp-pm	morati
+dogovoriti	mte:Vmen	dogovoriti
+le	mte:Q	le
+še	mte:Q	še
+o	mte:Sl	o
+načinu	mte:Ncmsl	način
+.	mte:Z	.
+Nekdanji	mte:Agpmsny	nekdanji
+športni	mte:Agpmsny	športen
+direktor	mte:Ncmsn	direktor
+in	mte:Cc	in
+nogometaš	mte:Ncmsn	nogometaš
+NK	mte:Npmsn	NK
+Olimpije	mte:Npfsg	Olimpija
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+zelo	mte:Rgp	zelo
+rad	mte:Rgp	rad
+pomaga	mte:Vmbr3s	pomagati
+stranki	mte:Ncfsd	stranka
+SDS	mte:Npfsg	SDS
+,	mte:Z	,
+zato	mte:Cc	zato
+“	mte:Z	“
+kar	mte:Pr-nsn	kar
+se	mte:Px------y	se
+mene	mte:Pp1-sa	jaz
+tiče	mte:Vmpr3s	tikati
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+problemov	mte:Ncmpg	problem
+”	mte:Z	”
+.	mte:Z	.
+Na	mte:Sl	na
+listi	mte:Ncfsl	list
+SDS	mte:Npmsn	SDS
+ni	mte:Va-r3s-y	biti
+prvič	mte:Rgp	prvič
+Kandidat	mte:Ncmsn	kandidat
+.	mte:Z	.
+Miran	mte:Npmsn	Miran
+Pavlin	mte:Npmsn	Pavlin
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+listi	mte:Ncfsl	list
+SDS	mte:Npfsg	SDS
+že	mte:Q	že
+kandidiral	mte:Vmbp-sm	kandidirati
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+na	mte:Sl	na
+državnozborskih	mte:Agpfpl	državnozborski
+volitvah	mte:Ncfpl	volitev
+.	mte:Z	.
+Pomeril	mte:Vmep-sm	pomeriti
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+devetem	mte:Mlomsl	deveti
+volilnem	mte:Agpmsl	volilen
+okraju	mte:Ncmsl	okraj
+,	mte:Z	,
+v	mte:Sl	v
+volilni	mte:Agpfsl	volilen
+enoti	mte:Ncfsl	enota
+Bežigrad	mte:Npmsn	Bežigrad
+II	mte:Mrc	II
+.	mte:Z	.
+V	mte:Sl	v
+istem	mte:Pi-msl	isti
+okraju	mte:Ncmsl	okraj
+sta	mte:Va-r3d-n	biti
+kandidirala	mte:Vmbp-dm	kandidirati
+tudi	mte:Q	tudi
+Gregor	mte:Npmsn	Gregor
+Golobič	mte:Npmsn	Golobič
+,	mte:Z	,
+prvak	mte:Ncmsn	prvak
+stranke	mte:Ncfsg	stranka
+Zares	mte:Rgp	zares
+,	mte:Z	,
+in	mte:Cc	in
+zdajšnji	mte:Agpmsny	zdajšnji
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+šolstvo	mte:Ncnsa	šolstvo
+in	mte:Cc	in
+šport	mte:Ncmsan	šport
+Igor	mte:Npmsn	Igor
+Lukšič	mte:Npmsn	Lukšič
+(	mte:Z	(
+SD	mte:Npmsn	SD
+)	mte:Z	)
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+Pavlina	mte:Npmsn	Pavlina
+prehitel	mte:Vmep-sm	prehiteti
+z	mte:Si	z
+dobrimi	mte:Agpmpi	dober
+42	mte:Mdc	42
+odstotki	mte:Ncmpi	odstotek
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+Pavlin	mte:Npmsn	Pavlin
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+slabimi	mte:Agpmpi	slab
+20	mte:Mdc	20
+odstotki	mte:Ncmpi	odstotek
+glasov	mte:Ncmpg	glas
+prehitel	mte:Vmep-sm	prehiteti
+tretjega	mte:Mlomsa	tretji
+Golobiča	mte:Npmsay	Golobič
+.	mte:Z	.
+V	mte:Sl	v
+stranki	mte:Ncfsl	stranka
+zadržano	mte:Appnsn	zadržan
+Predsednik	mte:Ncmsn	predsednik
+mestnega	mte:Agpmsg	mesten
+odbora	mte:Ncmsg	odbor
+SDS	mte:Npfsg	SDS
+Dragutin	mte:Npmsn	Dragutin
+Mate	mte:Npmsn	Mate
+po	mte:Sl	po
+telefonu	mte:Ncmsl	telefon
+spet	mte:Rgp	spet
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+dati	mte:Vmen	dati
+izjav	mte:Ncfpg	izjava
+in	mte:Cc	in
+nas	mte:Pp1-pa	jaz
+je	mte:Va-r3s-n	biti
+napotil	mte:Vmep-sm	napotiti
+na	mte:Sa	na
+strankino	mte:Aspfsa	strankin
+službo	mte:Ncfsa	služba
+za	mte:Sa	za
+stike	mte:Ncmpa	stik
+z	mte:Si	z
+javnostmi	mte:Ncfpi	javnost
+.	mte:Z	.
+Janja	mte:Npfsn	Janja
+Pavlin	mte:Npfsn	Pavlin
+,	mte:Z	,
+tiskovna	mte:Agpfsn	tiskoven
+predstavnica	mte:Ncfsn	predstavnica
+mestnega	mte:Agpmsg	mesten
+odbora	mte:Ncmsg	odbor
+SDS	mte:Npfsg	SDS
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+sporočila	mte:Vmep-sf	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+že	mte:Q	že
+zdaj	mte:Rgp	zdaj
+kakovostno	mte:Agpfsa	kakovostno
+ekipo	mte:Ncfsa	ekipa
+in	mte:Cc	in
+pričakujejo	mte:Vmpr3p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Ljubljana	mte:Npfsn	Ljubljana
+v	mte:Sl	v
+naslednjem	mte:Agpmsl	naslednji
+mandatu	mte:Ncmsl	mandat
+dobila	mte:Vmep-sf	dobiti
+ekipo	mte:Ncfsa	ekipa
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+“	mte:Z	“
+spet	mte:Rgp	spet
+postavila	mte:Vmep-sf	postaviti
+zdrave	mte:Agpmpa	zdrav
+javno	mte:Agpnsa	javen
+-	mte:Z	-
+finančne	mte:Agpmpa	finančen
+temelje	mte:Ncmpa	temelje
+v	mte:Sl	v
+mestu	mte:Ncnsl	mesto
+ter	mte:Cc	ter
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+sposobna	mte:Agpfsn	sposoben
+političnega	mte:Agpmsg	političen
+dialoga	mte:Ncmsg	dialog
+z	mte:Si	z
+vsemi	mte:Pg-mpi	ves
+meščani	mte:Ncmpi	meščan
+in	mte:Cc	in
+političnimi	mte:Agpfpi	političen
+skupinami	mte:Ncfpi	skupina
+”	mte:Z	”
+.	mte:Z	.
+“	mte:Z	“
+Kdo	mte:Pq-msn	kdo
+bodo	mte:Va-f3p-n	biti
+naši	mte:Ps1mpnp	naš
+prihodnji	mte:Agpmpn	prihodnji
+kandidati	mte:Ncmpn	kandidat
+,	mte:Z	,
+vam	mte:Pp2-pd	ti
+trenutno	mte:Rgp	trenutno
+še	mte:Q	še
+ne	mte:Q	ne
+moremo	mte:Vmpr1p	moči
+povedati	mte:Vmen	povedati
+,	mte:Z	,
+saj	mte:Cc	saj
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+postopek	mte:Ncmsan	postopek
+izbire	mte:Ncfsg	izbira
+,	mte:Z	,
+odvisen	mte:Agpmsnn	odvisen
+od	mte:Sg	od
+več	mte:Rgc	več
+meril	mte:Ncnpg	meriti
+,	mte:Z	,
+”	mte:Z	”
+je	mte:Va-r3s-n	biti
+dodala	mte:Vmep-sf	dodati
+Pavlinova	mte:Aspfsn	Pavlinov
+.	mte:Z	.
+Nogometaš	mte:Ncmsn	nogometaš
+naj	mte:Q	naj
+brca	mte:Vmpr3s	brcati
+Oba	mte:Pg-mda	oba
+politična	mte:Agpmda	političen
+analitika	mte:Ncmda	analitika
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+ju	mte:Pp3mda--y	on
+poklicali	mte:Vmep-pm	poklicati
+,	mte:Z	,
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+dejala	mte:Vmep-dm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+športnik	mte:Ncmsn	športnik
+na	mte:Sl	na
+kandidatni	mte:Agpfsl	kandidaten
+listi	mte:Ncfsl	list
+stranke	mte:Ncfsg	stranka
+niti	mte:Q	niti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+svetovno	mte:Agpnsn	svetoven
+nogometno	mte:Agpnsn	nogometen
+prvenstvo	mte:Ncnsn	prvenstvo
+,	mte:Z	,
+ne	mte:Q	ne
+igra	mte:Vmpr3s	igrati
+pomembnejše	mte:Agcfsg	pomemben
+vloge	mte:Ncfsg	vloga
+.	mte:Z	.
+“	mte:Z	“
+Odgovor	mte:Ncmsn	odgovor
+je	mte:Va-r3s-n	biti
+zelo	mte:Rgp	zelo
+preprost	mte:Agpmsnn	preprosto
+,	mte:Z	,
+”	mte:Z	”
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Vlado	mte:Ncfsa	vlada
+Miheljak	mte:Npmsn	Miheljak
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+:	mte:Z	:
+“	mte:Z	“
+Do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+vedno	mte:Rgp	vedno
+pokazalo	mte:Vmep-sn	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+športniki	mte:Ncmpn	športnik
+niso	mte:Va-r3p-y	biti
+noben	mte:Pz-msn	noben
+adut	mte:Ncmsn	aduta
+.	mte:Z	.
+”	mte:Z	”
+Meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Pavlinova	mte:Aspfsn	Pavlinov
+kandidatura	mte:Ncfsn	kandidatura
+na	mte:Sl	na
+ljubljanskih	mte:Agpfpl	ljubljanski
+volitvah	mte:Ncfpl	volitev
+“	mte:Z	“
+zgrešena	mte:Appfsn	zgrešen
+investicija	mte:Ncfsn	investicija
+”	mte:Z	”
+.	mte:Z	.
+Poudaril	mte:Vmep-sm	poudariti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+ljudje	mte:Ncmpn	človek
+športnike	mte:Ncmpa	športnik
+sicer	mte:Q	sicer
+radi	mte:Rgp	rad
+,	mte:Z	,
+vendar	mte:Cc	vendar
+v	mte:Sl	v
+njih	mte:Pp3mpl	on
+ne	mte:Q	ne
+vidijo	mte:Vmbr3p	videti
+nosilcev	mte:Ncmpg	nosilec
+političnih	mte:Agpfpg	političen
+funkcij	mte:Ncfpg	funkcija
+.	mte:Z	.
+Boštjan	mte:Npmsn	Boštjan
+M	mte:Npmsn	M
+.	mte:Z	.
+Turk	mte:Npmsn	Turk
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+mnenja	mte:Ncnsg	mnenje
+,	mte:Z	,
+da	mte:Cs	da
+vsaka	mte:Pg-fsn	vsak
+stvar	mte:Ncfsn	stvar
+vpliva	mte:Vmpr3s	vplivati
+na	mte:Sa	na
+izid	mte:Ncmsan	izid
+volitev	mte:Ncfpg	volitev
+,	mte:Z	,
+vendar	mte:Cc	vendar
+kandidiranje	mte:Ncnsn	kandidiranje
+športnikov	mte:Ncmpg	športnik
+ne	mte:Q	ne
+vpliva	mte:Vmpr3s	vplivati
+bistveno	mte:Agpnsn	bistven
+.	mte:Z	.
+Dejal	mte:Vmep-sm	dejati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+sicer	mte:Q	sicer
+športniki	mte:Ncmpn	športnik
+vselej	mte:Rgp	vselej
+sodelujejo	mte:Vmpr3p	sodelovati
+v	mte:Sl	v
+volilnih	mte:Agpfpl	volilen
+kampanjah	mte:Ncfpl	kampanja
+na	mte:Sa	na
+različne	mte:Agpmpa	različen
+načine	mte:Ncmpa	način
+,	mte:Z	,
+vendar	mte:Cc	vendar
+se	mte:Px------y	se
+ne	mte:Q	ne
+spominja	mte:Vmpr3s	spominjati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+kaj	mte:Pq-nsa	kaj
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+bistveno	mte:Rgp	bistveno
+vplivalo	mte:Vmpp-sn	vplivati
+na	mte:Sa	na
+volilni	mte:Agpmsay	volilen
+rezultat	mte:Ncmsan	rezultat
+.	mte:Z	.
+“	mte:Z	“
+Menim	mte:Vmpr1s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+tu	mte:Rgp	tu
+postavlja	mte:Vmpr3s	postavljati
+vprašanje	mte:Ncnsn	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+nima	mte:Vmpr3s-y	imeti
+Miran	mte:Npmsn	Miran
+Pavlin	mte:Npmsn	Pavlin
+na	mte:Sl	na
+tem	mte:Pd-msl	ta
+planetu	mte:Ncmsl	planet
+početi	mte:Vmbn	početi
+kaj	mte:Pq-nsa	kaj
+pametnejšega	mte:Agcnsg	pometen
+,	mte:Z	,
+kot	mte:Cs	kot
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ljubljanski	mte:Agpmsny	ljubljanski
+mestni	mte:Agpmsny	mesten
+svetnik	mte:Ncmsn	svetnik
+,	mte:Z	,
+”	mte:Z	”
+je	mte:Va-r3s-n	biti
+sklenil	mte:Vmep-sm	skleniti
+Turk	mte:Npmsn	Turk

@@ -1,237 +1,272 @@
-token	tag
-Na	Sl
-ljubljanskem	Agpnsl
-okrožnem	Agpnsl
-sodišču	Ncnsl
-je	Va-r3s-n
-razpisan	Appmsnn
-narok	Ncmsn
-za	Sa
-glavno	Agpfsa
-obravnavo	Ncfsa
-v	Sl
-tožbi	Ncfsl
-koprskega	Agpmsg
-župana	Ncmsg
-Borisa	Npmsg
-Popoviča	Npmsg
-proti	Sd
-državi	Ncfsd
-.	Z
-Koprski	Agpmsny
-župan	Ncmsn
-Boris	Npmsn
-Popovič	Npmsn
-zahteva	Vmbr3s
-od	Sg
-države	Ncfsg
-odškodnino	Ncfsa
-v	Sl
-višini	Ncfsl
-16.667	Mdc
-evrov	Ncmpg
-zaradi	Sg
-po	Sl
-njegovem	Ps3mslsm
-nezakonitega	Agpmsg
-pripora	Ncmsg
-leta	Ncnsg
-2003	Mdc
-.	Z
-Državna	Agpfsn
-pravobranilka	Ncfsn
-zavrača	Vmpr3s
-njegov	Ps3msasm
-zahtevek	Ncmsan
-kot	Cs
-neutemeljen	Agpmsan
-.	Z
-Popovičev	Aspmsan
-pripor	Ncmsan
-Policisti	Ncmpn
-so	Va-r3p-n
-Borisa	Npmsay
-Popoviča	Npmsg
-9	Mdc
-.	Z
-septembra	Ncmsg
-2003	Mdc
-zaradi	Sg
-suma	Ncmsg
-zlorabe	Ncfsg
-uradnega	Agpmsg
-položaja	Ncmsg
-ali	Cc
-uradnih	Agpfpg
-pravic	Ncfpg
-,	Z
-pranja	Ncnsg
-denarja	Ncmsg
-in	Cc
-neupravičenega	Agpnsg
-dajanja	Ncnsg
-daril	Ncnpg
-priprli	Vmep-pm
-za	Sa
-skoraj	Q
-en	Mlpmsa
-mesec	Ncmsan
-.	Z
-Razlog	Ncmsn
-za	Sa
-to	Pd-nsa
-je	Va-r3s-n
-bila	Va-p-sf
-nevarnost	Ncfsn
-,	Z
-da	Cs
-bo	Va-f3s-n
-koprski	Agpmsny
-župan	Ncmsn
-vplival	Vmpp-sm
-na	Sa
-priče	Ncfpa
-.	Z
-Iz	Sg
-pripora	Ncmsg
-je	Va-r3s-n
-bil	Va-p-sm
-izpuščen	Appmsnn
-,	Z
-ko	Cs
-je	Va-r3s-n
-vrhovno	Agpnsn
-sodišče	Ncnsn
-presodilo	Vmep-sn
-,	Z
-da	Cs
-pripor	Ncmsn
-ni	Va-r3s-y
-bil	Va-p-sm
-utemeljen	Appmsnn
-.	Z
-Povabljeni	Appmsny
-le	Q
-ožji	Agcmpn
-sorodniki	Ncmpn
-Franci	Npmsn
-Matoz	Npmsn
-,	Z
-Popovičev	Aspmsnn
-pravni	Agpmsny
-zastopnik	Ncmsn
-,	Z
-je	Va-r3s-n
-na	Sl
-prvem	Mlomsl
-poravnalnem	Agpmsl
-naroku	Ncmsl
-konec	Sg
-marca	Ncmsg
-predlagal	Vmbp-sm
-,	Z
-naj	Cs
-sodišče	Ncnsn
-v	Sl
-sklopu	Ncmsl
-glavne	Agpfsg
-obravnave	Ncfsg
-zasliši	Vmer3s
-Popovičeve	Aspmpa
-ožje	Agcmpa
-sorodnike	Ncmpa
-in	Cc
-nato	Rgp
-določi	Vmer3s
-višino	Ncfsa
-odškodnine	Ncfsg
-.	Z
-Sodnica	Ncfsn
-Katarina	Npfsn
-Parazajda	Npfsn
-se	Px------y
-je	Va-r3s-n
-z	Si
-Matozovim	Aspmsi
-predlogom	Ncmsi
-strinjala	Vmpp-sf
-,	Z
-tako	Cc
-da	Cs
-bodo	Va-f3p-n
-danes	Rgp
-zaslišani	Appmpn
-Popovičeva	Aspfsn
-žena	Ncfsn
-Eva	Npfsn
-Popovič	Npmsn
-,	Z
-njegova	Ps3fsnsm
-sestra	Ncfsn
-Laura	Npfsn
-Ban	Npfsn
-in	Cc
-njegova	Ps3fsnsm
-mati	Ncfsn
-Solza	Npfsn
-Popovič	Npmsn
-.	Z
-Popovičev	Aspmsnn
-zagovornik	Ncmsn
-je	Va-r3s-n
-predlagal	Vmbp-sm
-še	Q
-zaslišanje	Ncnsa
-tedanjega	Agpmsg
-generalnega	Agpmsg
-direktorja	Ncmsg
-policije	Ncfsg
-Marka	Npmsg
-Pogorevca	Npmsg
-,	Z
-tedanje	Agpfsg
-generalne	Agpfsg
-državne	Agpfsg
-tožilke	Ncfsg
-Zdenke	Npfsg
-Cerar	Npfsg
-,	Z
-poslanca	Ncmsay
-SDS	Npmsg
-Pavla	Npmsg
-Ruparja	Npmsg
-in	Cc
-tedanjega	Agpmsa
-državnozborskega	Agpmsa
-poslanca	Ncmsay
-Lojzeta	Npmsgy
-Peterleta	Npmsgy
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-po	Sl
-njegovih	Ps3fplsm
-navedbah	Ncfpl
-pred	Si
-sodiščem	Ncnsi
-pričali	Vmpp-pm
-,	Z
-da	Cs
-"	Z
-je	Va-r3s-n
-bil	Va-p-sm
-proces	Ncmsn
-zoper	Sa
-Popoviča	Npmsay
-politično	Rgp
-motiviran	Appmsnn
-"	Z
-.	Z
-Sodnica	Ncfsn
-se	Px------y
-s	Si
-predlogom	Ncmsi
-ni	Va-r3s-y
-strinjala	Vmpp-sf
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+ljubljanskem	mte:Agpnsl	ljubljanski
+okrožnem	mte:Agpnsl	okrožen
+sodišču	mte:Ncnsl	sodišče
+je	mte:Va-r3s-n	biti
+razpisan	mte:Appmsnn	razpisan
+narok	mte:Ncmsn	narok
+za	mte:Sa	za
+glavno	mte:Agpfsa	glaven
+obravnavo	mte:Ncfsa	obravnava
+v	mte:Sl	v
+tožbi	mte:Ncfsl	tožba
+koprskega	mte:Agpmsg	koprski
+župana	mte:Ncmsg	župan
+Borisa	mte:Npmsg	Boris
+Popoviča	mte:Npmsg	Popovič
+proti	mte:Sd	proti
+državi	mte:Ncfsd	država
+.	mte:Z	.
+Koprski	mte:Agpmsny	koprski
+župan	mte:Ncmsn	župan
+Boris	mte:Npmsn	Boris
+Popovič	mte:Npmsn	Popovič
+zahteva	mte:Vmbr3s	zahtevati
+od	mte:Sg	od
+države	mte:Ncfsg	država
+odškodnino	mte:Ncfsa	odškodnina
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+16.667	mte:Mdc	16.667
+evrov	mte:Ncmpg	evro
+zaradi	mte:Sg	zaradi
+po	mte:Sl	po
+njegovem	mte:Ps3mslsm	njegov
+nezakonitega	mte:Agpmsg	nezakonit
+pripora	mte:Ncmsg	pripor
+leta	mte:Ncnsg	leto
+2003	mte:Mdc	2003
+.	mte:Z	.
+Državna	mte:Agpfsn	državen
+pravobranilka	mte:Ncfsn	pravobranilka
+zavrača	mte:Vmpr3s	zavračati
+njegov	mte:Ps3msasm	njegov
+zahtevek	mte:Ncmsan	zahtevek
+kot	mte:Cs	kot
+neutemeljen	mte:Agpmsan	neutemeljen
+.	mte:Z	.
+Popovičev	mte:Aspmsan	Popovičev
+pripor	mte:Ncmsan	pripor
+Policisti	mte:Ncmpn	policist
+so	mte:Va-r3p-n	biti
+Borisa	mte:Npmsay	Boris
+Popoviča	mte:Npmsg	Popovič
+9	mte:Mdc	9
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+2003	mte:Mdc	2003
+zaradi	mte:Sg	zaradi
+suma	mte:Ncmsg	suma
+zlorabe	mte:Ncfsg	zloraba
+uradnega	mte:Agpmsg	uraden
+položaja	mte:Ncmsg	položaj
+ali	mte:Cc	ali
+uradnih	mte:Agpfpg	uraden
+pravic	mte:Ncfpg	pravica
+,	mte:Z	,
+pranja	mte:Ncnsg	pranje
+denarja	mte:Ncmsg	denar
+in	mte:Cc	in
+neupravičenega	mte:Agpnsg	neupravičen
+dajanja	mte:Ncnsg	dajanje
+daril	mte:Ncnpg	darilo
+priprli	mte:Vmep-pm	pripreti
+za	mte:Sa	za
+skoraj	mte:Q	skoraj
+en	mte:Mlpmsa	en
+mesec	mte:Ncmsan	mesec
+.	mte:Z	.
+Razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+nevarnost	mte:Ncfsn	nevarnost
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+koprski	mte:Agpmsny	koprski
+župan	mte:Ncmsn	župan
+vplival	mte:Vmpp-sm	vplivati
+na	mte:Sa	na
+priče	mte:Ncfpa	priča
+.	mte:Z	.
+Iz	mte:Sg	iz
+pripora	mte:Ncmsg	pripor
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+izpuščen	mte:Appmsnn	izpuščen
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+vrhovno	mte:Agpnsn	vrhoven
+sodišče	mte:Ncnsn	sodišče
+presodilo	mte:Vmep-sn	presoditi
+,	mte:Z	,
+da	mte:Cs	da
+pripor	mte:Ncmsn	pripor
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+utemeljen	mte:Appmsnn	utemeljen
+.	mte:Z	.
+Povabljeni	mte:Appmsny	povabljen
+le	mte:Q	le
+ožji	mte:Agcmpn	ozek
+sorodniki	mte:Ncmpn	sorodnik
+Franci	mte:Npmsn	Franci
+Matoz	mte:Npmsn	Matoz
+,	mte:Z	,
+Popovičev	mte:Aspmsnn	Popovičev
+pravni	mte:Agpmsny	praven
+zastopnik	mte:Ncmsn	zastopnik
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+prvem	mte:Mlomsl	prvi
+poravnalnem	mte:Agpmsl	poravnalen
+naroku	mte:Ncmsl	narok
+konec	mte:Sg	konec
+marca	mte:Ncmsg	marec
+predlagal	mte:Vmbp-sm	predlagati
+,	mte:Z	,
+naj	mte:Cs	naj
+sodišče	mte:Ncnsn	sodišče
+v	mte:Sl	v
+sklopu	mte:Ncmsl	sklop
+glavne	mte:Agpfsg	glaven
+obravnave	mte:Ncfsg	obravnava
+zasliši	mte:Vmer3s	zaslišiti
+Popovičeve	mte:Aspmpa	Popovičev
+ožje	mte:Agcmpa	ozek
+sorodnike	mte:Ncmpa	sorodnik
+in	mte:Cc	in
+nato	mte:Rgp	nato
+določi	mte:Vmer3s	določiti
+višino	mte:Ncfsa	višina
+odškodnine	mte:Ncfsg	odškodnina
+.	mte:Z	.
+Sodnica	mte:Ncfsn	sodnica
+Katarina	mte:Npfsn	Katarina
+Parazajda	mte:Npfsn	Parazajda
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+Matozovim	mte:Aspmsi	Matozov
+predlogom	mte:Ncmsi	predlog
+strinjala	mte:Vmpp-sf	strinjati
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+danes	mte:Rgp	danes
+zaslišani	mte:Appmpn	zaslišan
+Popovičeva	mte:Aspfsn	popovičev
+žena	mte:Ncfsn	žena
+Eva	mte:Npfsn	Eva
+Popovič	mte:Npmsn	Popovič
+,	mte:Z	,
+njegova	mte:Ps3fsnsm	njegov
+sestra	mte:Ncfsn	sestra
+Laura	mte:Npfsn	Laura
+Ban	mte:Npfsn	Ban
+in	mte:Cc	in
+njegova	mte:Ps3fsnsm	njegov
+mati	mte:Ncfsn	mati
+Solza	mte:Npfsn	Solza
+Popovič	mte:Npmsn	Popovič
+.	mte:Z	.
+Popovičev	mte:Aspmsnn	Popovičev
+zagovornik	mte:Ncmsn	zagovornik
+je	mte:Va-r3s-n	biti
+predlagal	mte:Vmbp-sm	predlagati
+še	mte:Q	še
+zaslišanje	mte:Ncnsa	zaslišanje
+tedanjega	mte:Agpmsg	tedanji
+generalnega	mte:Agpmsg	generalen
+direktorja	mte:Ncmsg	direktor
+policije	mte:Ncfsg	policija
+Marka	mte:Npmsg	Marko
+Pogorevca	mte:Npmsg	Pogorevc
+,	mte:Z	,
+tedanje	mte:Agpfsg	tedanji
+generalne	mte:Agpfsg	generalen
+državne	mte:Agpfsg	državen
+tožilke	mte:Ncfsg	tožilka
+Zdenke	mte:Npfsg	Zdenka
+Cerar	mte:Npfsg	Cerar
+,	mte:Z	,
+poslanca	mte:Ncmsay	poslanec
+SDS	mte:Npmsg	SDS
+Pavla	mte:Npmsg	Pavel
+Ruparja	mte:Npmsg	Rupar
+in	mte:Cc	in
+tedanjega	mte:Agpmsa	tedanji
+državnozborskega	mte:Agpmsa	državnozborski
+poslanca	mte:Ncmsay	poslanec
+Lojzeta	mte:Npmsgy	Lojze
+Peterleta	mte:Npmsgy	Peterlet
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+navedbah	mte:Ncfpl	navedba
+pred	mte:Si	pred
+sodiščem	mte:Ncnsi	sodišče
+pričali	mte:Vmpp-pm	pričati
+,	mte:Z	,
+da	mte:Cs	da
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+proces	mte:Ncmsn	proces
+zoper	mte:Sa	zoper
+Popoviča	mte:Npmsay	Popovič
+politično	mte:Rgp	politično
+motiviran	mte:Appmsnn	motiviran
+"	mte:Z	"
+.	mte:Z	.
+Sodnica	mte:Ncfsn	sodnica
+se	mte:Px------y	se
+s	mte:Si	z
+predlogom	mte:Ncmsi	predlog
+ni	mte:Va-r3s-y	biti
+strinjala	mte:Vmpp-sf	strinjati
+.	mte:Z	.
+Matoz	mte:Npmsn	Matoz
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sodišče	mte:Ncnsn	sodišče
+omejilo	mte:Vmep-sn	omejiti
+samo	mte:Q	samo
+na	mte:Sa	na
+zaslišanje	mte:Ncnsa	zaslišanje
+Popovičevih	mte:Aspmpg	Popovičev
+ožjih	mte:Agcmpg	ozek
+sorodnikov	mte:Ncmpg	sorodnik
+zato	mte:Rgp	zato
+,	mte:Z	,
+ker	mte:Cs	ker
+ne	mte:Q	ne
+namerava	mte:Vmpr3s	nameravati
+odločati	mte:Vmpn	odločati
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+Popovič	mte:Npmsn	Popovič
+nezakonito	mte:Rgp	nezakonito
+priprt	mte:Appmsnn	priprt
+,	mte:Z	,
+ampak	mte:Cc	ampak
+le	mte:Q	le
+določiti	mte:Vmen	določiti
+višino	mte:Ncfsa	višina
+odškodnine	mte:Ncfsg	odškodnina

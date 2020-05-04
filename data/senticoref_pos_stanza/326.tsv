@@ -1,397 +1,444 @@
-token	tag
-Sarkozy	Npmsn
-in	Cc
-Barroso	Npmsn
-sta	Va-r3d-n
-z	Si
-Bushem	Npmsi
-dosegla	Vmep-dm
-dogovor	Ncmsan
-o	Sl
-organizaciji	Ncfsl
-svetovnega	Agpmsg
-finančnega	Agpmsg
-vrha	Ncmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-predvidoma	Rgp
-novembra	Ncmsg
-.	Z
-Ameriški	Agpmsny
-predsednik	Ncmsn
-George	Npmsn
-Bush	Npmsn
-je	Va-r3s-n
-v	Sa
-soboto	Ncfsa
-sprejel	Vmep-sm
-pobudo	Ncfsa
-francoskega	Agpmsg
-kolega	Ncmsg
-Nicolasa	Npmsg
-Sarkozyja	Npmsg
-in	Cc
-predsednika	Ncmsg
-Evropske	Agpfsg
-komisije	Ncfsg
-Joseja	Npmsg
-Manuela	Npmsg
-Barrose	Npmsg
-za	Sa
-organizacijo	Ncfsa
-svetovnega	Agpmsg
-finančnega	Agpmsg
-vrha	Ncmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-predvidoma	Rgp
-novembra	Ncmsg
-.	Z
-Voditelji	Ncmpn
-so	Va-r3p-n
-sicer	Q
-dosegli	Vmep-pm
-dogovor	Ncmsan
-glede	Sg
-organizacije	Ncfsg
-več	Rgc
-tovrstnih	Agpnpg
-vrhunskih	Agpnpg
-srečanj	Ncnpg
-,	Z
-od	Sg
-katerih	Pq-mpg
-pa	Cc
-bo	Va-f3s-n
-prvi	Mlomsn
-potekal	Vmpp-sm
-v	Sl
-ZDA	Npfpl
-.	Z
-Trije	Mlcmpn
-voditelji	Ncmpn
-so	Va-r3p-n
-organizacijo	Ncfsa
-vrha	Ncmsg
-,	Z
-namenjenega	Appmsg
-novi	Agpfsd
-svetovni	Agpfsd
-finančni	Agpfsd
-ureditvi	Ncfsd
-,	Z
-napovedali	Vmep-pm
-v	Sl
-izjavi	Ncfsl
-za	Sa
-medije	Ncmpa
-pred	Si
-začetkom	Ncmsi
-sestanka	Ncmsg
-v	Sl
-Camp	Npmsl
-Davidu	Npmsl
-,	Z
-kamor	Cs
-sta	Va-r3d-n
-Sarkozy	Npmsn
-in	Cc
-Barroso	Npmsn
-pripotovala	Vmep-dm
-iz	Sg
-Kanade	Npfsg
-.	Z
-Busha	Npmsay
-sta	Va-r3d-n
-na	Sl
-sestanku	Ncmsl
-spremljala	Vmpp-dm
-državna	Agpfsn
-sekretarka	Ncfsn
-Condoleezza	Npmsg
-Rice	Npmsn
-in	Cc
-finančni	Agpmsny
-minister	Ncmsn
-Henry	Npmsn
-Paulson	Npmsn
-.	Z
-Bush	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-le	Q
-,	Z
-da	Cs
-se	Px------y
-veseli	Agpmpn
-organizacije	Ncfpn
-vrha	Ncmsg
-svetovnih	Agpmpg
-voditeljev	Ncmpg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-kmalu	Rgp
-.	Z
-Zagotovil	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-bodo	Va-f3p-n
-skupaj	Rgp
-utrdili	Vmep-pm
-in	Cc
-posodobili	Vmep-pm
-nacionalne	Agpmpa
-finančne	Agpmpa
-sisteme	Ncmpa
-ter	Cc
-tako	Rgp
-zagotovili	Vmep-pm
-,	Z
-da	Cs
-se	Px------y
-podobna	Agpfsn
-kriza	Ncfsn
-ne	Q
-bo	Va-f3s-n
-več	Q
-ponovila	Vmep-sf
-.	Z
-Glede	Rgp
-na	Sa
-izjave	Ncfpa
-je	Va-r3s-n
-Busha	Npmsay
-sicer	Q
-še	Q
-treba	Rgp
-prepričati	Vmen
-,	Z
-da	Cs
-je	Va-r3s-n
-korenita	Agpfsn
-sprememba	Ncfsn
-svetovne	Agpfsg
-finančne	Agpfsg
-ureditve	Ncfsg
-,	Z
-o	Sl
-kateri	Pq-fsl
-sta	Va-r3d-n
-govorila	Vmpp-dm
-Sarkozy	Npmsn
-in	Cc
-Barroso	Npmsn
-,	Z
-res	Rgp
-potrebna	Agpmdn
-.	Z
-Bush	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-vrh	Ncmsn
-ne	Q
-sme	Vmpr3s
-spodkopati	Vmpn
-temeljnih	Agpnpg
-načel	Ncnpg
-mednarodnega	Agpmsg
-kapitalizma	Ncmsg
-ter	Cc
-da	Cs
-se	Px------y
-je	Va-r3s-n
-treba	Rgp
-upreti	Vmen
-skušnjavi	Ncfsd
-gospodarskega	Agpmsg
-izolacionizma	Ncmsg
-in	Cc
-nadaljevati	Vmpn
-politiko	Ncfsa
-odprtih	Appmpg
-trgov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-zvišali	Vmep-pm
-življenjski	Agpmsay
-standard	Ncmsan
-in	Cc
-se	Px------y
-milijonom	Ncmpd
-ljudi	Ncmpg
-po	Sl
-svetu	Ncmsl
-pomagali	Vmbp-pm
-izkopati	Vmen
-iz	Sg
-revščine	Ncfsg
-.	Z
-Sarkozy	Npmsn
-je	Va-r3s-n
-ognjevito	Rgp
-zagovarjal	Vmpp-sm
-potrebo	Ncfsa
-po	Sl
-reformah	Ncfpl
-mednarodne	Agpfsg
-finančne	Agpfsg
-arhitekture	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-nastala	Vmep-sf
-proti	Sd
-koncu	Ncmsd
-druge	Mlpfsg
-svetovne	Agpfsg
-vojne	Ncfsg
-na	Sl
-konferenci	Ncfsl
-v	Sl
-Breton	Npmsl
-Woodsu	Npmsl
-,	Z
-kjer	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-postavljeni	Appmpn
-temelji	Ncmpn
-Mednarodnega	Agpmsg
-denarnega	Agpmsg
-sklada	Ncmsg
-in	Cc
-Svetovne	Agpfsg
-banke	Ncfsg
-.	Z
-Tistim	Pd-npd
-,	Z
-ki	Cs
-so	Va-r3p-n
-nas	Pp1-pa
-pripeljali	Vmep-pm
-v	Sa
-to	Pd-fsa
-krizo	Ncfsa
-,	Z
-ne	Q
-smemo	Vmpr1p
-dovoliti	Vmen
-,	Z
-da	Cs
-to	Pd-nsa
-ponovijo	Vmer3p
-.	Z
-Ta	Pd-msn
-kapitalizem	Ncmsn
-je	Va-r3s-n
-izdaja	Ncfsn
-tistega	Pd-msg
-kapitalizma	Ncmsg
-,	Z
-v	Sa
-katerega	Pq-msa
-verjamemo	Vmbr1p
-,	Z
-in	Cc
-zato	Cc
-smo	Va-r1p-n
-prišli	Vmep-pm
-sem	Rgp
-,	Z
-da	Cs
-povemo	Vmer1p
-mnenje	Ncnsa
-Evrope	Npfsg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Sarkozy	Npmsn
-in	Cc
-govoril	Vmpp-sm
-o	Sl
-potrebi	Ncfsl
-po	Sl
-večji	Agcfsl
-regulaciji	Ncfsl
-finančnih	Agpmpg
-trgov	Ncmpg
-,	Z
-tudi	Q
-tako	Rgp
-imenovanih	Appmpg
-hedge	Ncmpn
-skladov	Ncmpg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-medtem	Rgp
-sporočili	Vmep-pm
-iz	Sg
-Bele	Agpfsg
-hiše	Ncfsg
-,	Z
-naj	Q
-bi	Va-c
-prvi	Mlomsn
-v	Sl
-vrsti	Ncfsl
-svetovnih	Agpmpg
-finančnih	Agpmpg
-vrhov	Ncmpg
-,	Z
-na	Sl
-katerih	Pq-mpl
-bodo	Va-f3p-n
-ključne	Agpfpn
-svetovne	Agpfpn
-gospodarske	Agpfpn
-sile	Ncfpn
-razpravljale	Vmpp-pf
-o	Sl
-morebitnih	Agpfpl
-rešitvah	Ncfpl
-za	Sa
-pretrese	Ncfsa
-na	Sl
-finančnih	Agpmpl
-trgih	Ncmpl
-,	Z
-potekal	Vmpp-sm
-novembra	Ncmsg
-,	Z
-enkrat	Rgp
-po	Sl
-ameriških	Agpfpl
-predsedniških	Agpfpl
-volitvah	Ncfpl
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-4	Mdc
-.	Z
-novembra	Ncmsg
-.	Z
-Gostiteljstvo	Ncnsa
-vrha	Ncmsg
-je	Va-r3s-n
-sicer	Q
-v	Sa
-soboto	Ncfsa
-ponudil	Vmep-sm
-tudi	Q
-generalni	Agpmsny
-sekretar	Ncmsn
-ZN	Npmsn
-Ban	Npmsn
-Ki	Cs
-Mun	Npmsn
-.	Z
+token	tag	lemma
+Sarkozy	mte:Npmsn	Sarkozy
+in	mte:Cc	in
+Barroso	mte:Npmsn	Barroso
+sta	mte:Va-r3d-n	biti
+z	mte:Si	z
+Bushem	mte:Npmsi	Bushem
+dosegla	mte:Vmep-dm	doseči
+dogovor	mte:Ncmsan	dogovor
+o	mte:Sl	o
+organizaciji	mte:Ncfsl	organizacija
+svetovnega	mte:Agpmsg	svetoven
+finančnega	mte:Agpmsg	finančen
+vrha	mte:Ncmsg	vrh
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+novembra	mte:Ncmsg	november
+.	mte:Z	.
+Ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+George	mte:Npmsn	George
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+sprejel	mte:Vmep-sm	sprejeti
+pobudo	mte:Ncfsa	pobuda
+francoskega	mte:Agpmsg	francoski
+kolega	mte:Ncmsg	kolega
+Nicolasa	mte:Npmsg	Nicolas
+Sarkozyja	mte:Npmsg	Sarkozy
+in	mte:Cc	in
+predsednika	mte:Ncmsg	predsednik
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+Joseja	mte:Npmsg	Josej
+Manuela	mte:Npmsg	Manuel
+Barrose	mte:Npmsg	Barrose
+za	mte:Sa	za
+organizacijo	mte:Ncfsa	organizacija
+svetovnega	mte:Agpmsg	svetoven
+finančnega	mte:Agpmsg	finančen
+vrha	mte:Ncmsg	vrh
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+novembra	mte:Ncmsg	november
+.	mte:Z	.
+Voditelji	mte:Ncmpn	voditelj
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+dosegli	mte:Vmep-pm	doseči
+dogovor	mte:Ncmsan	dogovor
+glede	mte:Sg	glede
+organizacije	mte:Ncfsg	organizacija
+več	mte:Rgc	več
+tovrstnih	mte:Agpnpg	tovrsten
+vrhunskih	mte:Agpnpg	vrhunski
+srečanj	mte:Ncnpg	srečanje
+,	mte:Z	,
+od	mte:Sg	od
+katerih	mte:Pq-mpg	kateri
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+prvi	mte:Mlomsn	prvi
+potekal	mte:Vmpp-sm	potekati
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+.	mte:Z	.
+Trije	mte:Mlcmpn	trije
+voditelji	mte:Ncmpn	voditelj
+so	mte:Va-r3p-n	biti
+organizacijo	mte:Ncfsa	organizacija
+vrha	mte:Ncmsg	vrh
+,	mte:Z	,
+namenjenega	mte:Appmsg	namenjen
+novi	mte:Agpfsd	nov
+svetovni	mte:Agpfsd	svetoven
+finančni	mte:Agpfsd	finančen
+ureditvi	mte:Ncfsd	ureditev
+,	mte:Z	,
+napovedali	mte:Vmep-pm	napovedati
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+za	mte:Sa	za
+medije	mte:Ncmpa	medij
+pred	mte:Si	pred
+začetkom	mte:Ncmsi	začetek
+sestanka	mte:Ncmsg	sestanka
+v	mte:Sl	v
+Camp	mte:Npmsl	Camp
+Davidu	mte:Npmsl	David
+,	mte:Z	,
+kamor	mte:Cs	kamor
+sta	mte:Va-r3d-n	biti
+Sarkozy	mte:Npmsn	Sarkozy
+in	mte:Cc	in
+Barroso	mte:Npmsn	Barroso
+pripotovala	mte:Vmep-dm	pripotovati
+iz	mte:Sg	iz
+Kanade	mte:Npfsg	Kanada
+.	mte:Z	.
+Busha	mte:Npmsay	Bush
+sta	mte:Va-r3d-n	biti
+na	mte:Sl	na
+sestanku	mte:Ncmsl	sestanek
+spremljala	mte:Vmpp-dm	spremljati
+državna	mte:Agpfsn	državen
+sekretarka	mte:Ncfsn	sekretarka
+Condoleezza	mte:Npmsg	Condoleezza
+Rice	mte:Npmsn	Rice
+in	mte:Cc	in
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Henry	mte:Npmsn	Henry
+Paulson	mte:Npmsn	Paulson
+.	mte:Z	.
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+le	mte:Q	le
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+veseli	mte:Agpmpn	vesel
+organizacije	mte:Ncfpn	organizacija
+vrha	mte:Ncmsg	vrh
+svetovnih	mte:Agpmpg	svetoven
+voditeljev	mte:Ncmpg	voditelj
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+kmalu	mte:Rgp	kmalu
+.	mte:Z	.
+Zagotovil	mte:Vmep-sm	zagotoviti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+skupaj	mte:Rgp	skupaj
+utrdili	mte:Vmep-pm	utrditi
+in	mte:Cc	in
+posodobili	mte:Vmep-pm	posodobiti
+nacionalne	mte:Agpmpa	nacionalen
+finančne	mte:Agpmpa	finančen
+sisteme	mte:Ncmpa	sistem
+ter	mte:Cc	ter
+tako	mte:Rgp	tako
+zagotovili	mte:Vmep-pm	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+podobna	mte:Agpfsn	podoben
+kriza	mte:Ncfsn	kriza
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+več	mte:Q	več
+ponovila	mte:Vmep-sf	ponoviti
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+izjave	mte:Ncfpa	izjava
+je	mte:Va-r3s-n	biti
+Busha	mte:Npmsay	Bush
+sicer	mte:Q	sicer
+še	mte:Q	še
+treba	mte:Rgp	treba
+prepričati	mte:Vmen	prepričati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+korenita	mte:Agpfsn	korenit
+sprememba	mte:Ncfsn	sprememba
+svetovne	mte:Agpfsg	svetoven
+finančne	mte:Agpfsg	finančen
+ureditve	mte:Ncfsg	ureditev
+,	mte:Z	,
+o	mte:Sl	o
+kateri	mte:Pq-fsl	kateri
+sta	mte:Va-r3d-n	biti
+govorila	mte:Vmpp-dm	govoriti
+Sarkozy	mte:Npmsn	Sarkozy
+in	mte:Cc	in
+Barroso	mte:Npmsn	Barroso
+,	mte:Z	,
+res	mte:Rgp	res
+potrebna	mte:Agpmdn	potreben
+.	mte:Z	.
+Bush	mte:Npmsn	Bush
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+vrh	mte:Ncmsn	vrh
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+spodkopati	mte:Vmpn	spodkopati
+temeljnih	mte:Agpnpg	temeljen
+načel	mte:Ncnpg	načelo
+mednarodnega	mte:Agpmsg	mednaroden
+kapitalizma	mte:Ncmsg	kapitalizem
+ter	mte:Cc	ter
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+upreti	mte:Vmen	upreti
+skušnjavi	mte:Ncfsd	skušnjava
+gospodarskega	mte:Agpmsg	gospodarski
+izolacionizma	mte:Ncmsg	izolacionizem
+in	mte:Cc	in
+nadaljevati	mte:Vmpn	nadaljevati
+politiko	mte:Ncfsa	politika
+odprtih	mte:Appmpg	odprt
+trgov	mte:Ncmpg	trg
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zvišali	mte:Vmep-pm	zvišati
+življenjski	mte:Agpmsay	življenjski
+standard	mte:Ncmsan	standard
+in	mte:Cc	in
+se	mte:Px------y	se
+milijonom	mte:Ncmpd	milijon
+ljudi	mte:Ncmpg	človek
+po	mte:Sl	po
+svetu	mte:Ncmsl	svet
+pomagali	mte:Vmbp-pm	pomagati
+izkopati	mte:Vmen	izkopati
+iz	mte:Sg	iz
+revščine	mte:Ncfsg	revščina
+.	mte:Z	.
+Sarkozy	mte:Npmsn	Sarkozy
+je	mte:Va-r3s-n	biti
+ognjevito	mte:Rgp	ognjevito
+zagovarjal	mte:Vmpp-sm	zagovarjati
+potrebo	mte:Ncfsa	potreba
+po	mte:Sl	po
+reformah	mte:Ncfpl	reforma
+mednarodne	mte:Agpfsg	mednaroden
+finančne	mte:Agpfsg	finančen
+arhitekture	mte:Ncfsg	arhitektura
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+nastala	mte:Vmep-sf	nastati
+proti	mte:Sd	proti
+koncu	mte:Ncmsd	konec
+druge	mte:Mlpfsg	drug
+svetovne	mte:Agpfsg	svetoven
+vojne	mte:Ncfsg	vojna
+na	mte:Sl	na
+konferenci	mte:Ncfsl	konferenca
+v	mte:Sl	v
+Breton	mte:Npmsl	Breton
+Woodsu	mte:Npmsl	Woods
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+postavljeni	mte:Appmpn	postavljen
+temelji	mte:Ncmpn	temeljiti
+Mednarodnega	mte:Agpmsg	mednaroden
+denarnega	mte:Agpmsg	denaren
+sklada	mte:Ncmsg	sklad
+in	mte:Cc	in
+Svetovne	mte:Agpfsg	svetoven
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Tistim	mte:Pd-npd	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+nas	mte:Pp1-pa	jaz
+pripeljali	mte:Vmep-pm	pripeljati
+v	mte:Sa	v
+to	mte:Pd-fsa	ta
+krizo	mte:Ncfsa	kriza
+,	mte:Z	,
+ne	mte:Q	ne
+smemo	mte:Vmpr1p	smeti
+dovoliti	mte:Vmen	dovoliti
+,	mte:Z	,
+da	mte:Cs	da
+to	mte:Pd-nsa	ta
+ponovijo	mte:Vmer3p	ponoviti
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+kapitalizem	mte:Ncmsn	kapitalizem
+je	mte:Va-r3s-n	biti
+izdaja	mte:Ncfsn	izdajati
+tistega	mte:Pd-msg	tisti
+kapitalizma	mte:Ncmsg	kapitalizem
+,	mte:Z	,
+v	mte:Sa	v
+katerega	mte:Pq-msa	kateri
+verjamemo	mte:Vmbr1p	verjeti
+,	mte:Z	,
+in	mte:Cc	in
+zato	mte:Cc	zato
+smo	mte:Va-r1p-n	biti
+prišli	mte:Vmep-pm	priti
+sem	mte:Rgp	sem
+,	mte:Z	,
+da	mte:Cs	da
+povemo	mte:Vmer1p	povedati
+mnenje	mte:Ncnsa	mnenje
+Evrope	mte:Npfsg	Evropa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Sarkozy	mte:Npmsn	Sarkozy
+in	mte:Cc	in
+govoril	mte:Vmpp-sm	govoriti
+o	mte:Sl	o
+potrebi	mte:Ncfsl	potreba
+po	mte:Sl	po
+večji	mte:Agcfsl	velik
+regulaciji	mte:Ncfsl	regulacija
+finančnih	mte:Agpmpg	finančen
+trgov	mte:Ncmpg	trg
+,	mte:Z	,
+tudi	mte:Q	tudi
+tako	mte:Rgp	tako
+imenovanih	mte:Appmpg	imenovan
+hedge	mte:Ncmpn	hedga
+skladov	mte:Ncmpg	sklad
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+medtem	mte:Rgp	medtem
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Bele	mte:Agpfsg	bel
+hiše	mte:Ncfsg	hiša
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+prvi	mte:Mlomsn	prvi
+v	mte:Sl	v
+vrsti	mte:Ncfsl	vrsta
+svetovnih	mte:Agpmpg	svetoven
+finančnih	mte:Agpmpg	finančen
+vrhov	mte:Ncmpg	vrh
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-mpl	kateri
+bodo	mte:Va-f3p-n	biti
+ključne	mte:Agpfpn	ključen
+svetovne	mte:Agpfpn	svetoven
+gospodarske	mte:Agpfpn	gospodarski
+sile	mte:Ncfpn	sila
+razpravljale	mte:Vmpp-pf	razpravljati
+o	mte:Sl	o
+morebitnih	mte:Agpfpl	morebiten
+rešitvah	mte:Ncfpl	rešitev
+za	mte:Sa	za
+pretrese	mte:Ncfsa	pretres
+na	mte:Sl	na
+finančnih	mte:Agpmpl	finančen
+trgih	mte:Ncmpl	trg
+,	mte:Z	,
+potekal	mte:Vmpp-sm	potekati
+novembra	mte:Ncmsg	november
+,	mte:Z	,
+enkrat	mte:Rgp	enkrat
+po	mte:Sl	po
+ameriških	mte:Agpfpl	ameriški
+predsedniških	mte:Agpfpl	predsedniški
+volitvah	mte:Ncfpl	volitev
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+4	mte:Mdc	4
+.	mte:Z	.
+novembra	mte:Ncmsg	november
+.	mte:Z	.
+Gostiteljstvo	mte:Ncnsa	gostiteljstvo
+vrha	mte:Ncmsg	vrh
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+ponudil	mte:Vmep-sm	ponuditi
+tudi	mte:Q	tudi
+generalni	mte:Agpmsny	generalen
+sekretar	mte:Ncmsn	sekretar
+ZN	mte:Npmsg	ZN
+Ban	mte:Npmsn	Ban
+Ki	mte:Cs	ki
+Mun	mte:Npmsn	Mun
+.	mte:Z	.
+Voditelji	mte:Ncmpn	voditelj
+skupine	mte:Ncfsg	skupina
+sedmih	mte:Mlc-pg	sedem
+najbolj	mte:Rgs	najbolj
+razvitih	mte:Agpfpg	razvit
+držav	mte:Ncfpg	država
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+in	mte:Cc	in
+Rusije	mte:Npfsg	Rusija
+G8	mte:Npfsg	G8
+ter	mte:Cc	ter
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+minulo	mte:Appfsa	minul
+sredo	mte:Ncfsa	sreda
+zavezali	mte:Vmpp-pm	zavezati
+k	mte:Sd	k
+sodelovanju	mte:Ncnsd	sodelovanje
+in	mte:Cc	in
+usklajevanju	mte:Ncnsd	usklajevanje
+ukrepov	mte:Ncmpg	ukrep
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+svetovne	mte:Agpfsg	svetoven
+finančne	mte:Agpfsg	finančen
+krize	mte:Ncfsg	kriza
+ter	mte:Cc	ter
+se	mte:Px------y	se
+izrekli	mte:Vmep-pm	izreči
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+vrhunskega	mte:Agpnsg	vrhunski
+srečanja	mte:Ncnsg	srečanje
+,	mte:Z	,
+na	mte:Sl	na
+katerem	mte:Pq-msl	kateri
+bi	mte:Va-c	biti
+vse	mte:Pg-fpn	ves
+vpletene	mte:Appfpn	vpleten
+države	mte:Ncfpn	država
+razpravljale	mte:Vmpp-pf	razpravljati
+o	mte:Sl	o
+morebitnih	mte:Agpfpl	morebiten
+rešitvah	mte:Ncfpl	rešitev

@@ -1,541 +1,550 @@
-token	tag
-Slovenijo	Npfsa
-je	Va-r3s-n
-aprila	Ncmsg
-obiskalo	Vmep-sn
-skoraj	Q
-četrt	Mdc
-milijona	Ncmsg
-turistov	Ncmpg
-.	Z
-Njihovo	Ps3nsnp
-število	Ncnsn
-pada	Vmpr3s
-,	Z
-kar	Pr-nsn
-med	Si
-turističnimi	Agpmpi
-delavci	Ncmpi
-že	Q
-povzroča	Vmpr3s
-sive	Agpmpa
-lase	Ncmpa
-.	Z
-Med	Si
-domačini	Ncmpi
-so	Va-r3p-n
-priljubljeni	Agpmpn
-Obala	Ncfsn
-in	Cc
-zdraviliški	Agpmpn
-kraji	Ncmpn
-,	Z
-tujci	Ncmpn
-se	Px------y
-zapeljejo	Vmer3p
-še	Q
-v	Sa
-Ljubljano	Npfsa
-,	Z
-Maribor	Npmsn
-in	Cc
-na	Sa
-Bled	Npmsan
-.	Z
-Aprila	Ncmsg
-je	Va-r3s-n
-v	Sl
-slovenskih	Agpnpl
-hotelih	Ncnpl
-,	Z
-apartmajih	Ncmpl
-,	Z
-planinskih	Agpfpl
-kočah	Ncfpl
-.	Z
-.	Z
-.	Z
-prespalo	Vmep-sn
-okoli	Rgp
-221.000	Mdc
-ljudi	Ncmpg
-.	Z
-221.000	Mdc
-turistov	Ncmpg
-je	Va-r3s-n
-aprila	Ncmsg
-v	Sl
-nastanitvenih	Agpmpl
-objektih	Ncmpl
-po	Sl
-Sloveniji	Npfsl
-skupaj	Rgp
-prespalo	Vmep-sn
-560.000	Mdc
--	Z
-krat	Rgp
-.	Z
-Na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-to	Pd-nsn
-predstavlja	Vmpr3s
-sedem	Mlc-pa
-odstotkov	Ncmpg
-manj	Rgc
-turistov	Ncmpg
-in	Cc
-12	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-prenočitev	Ncfpg
-.	Z
-Število	Ncnsn
-domačih	Agpmpg
-turistov	Ncmpg
-je	Va-r3s-n
-padlo	Vmep-sn
-za	Sa
-dva	Mlcmda
-,	Z
-tujih	Agpmpg
-pa	Cc
-za	Sa
-12	Mdc
-odstotkov	Ncmpg
-,	Z
-kažejo	Vmpr3p
-danes	Rgp
-objavljeni	Appmpn
-podatki	Ncmpn
-državnega	Agpmsg
-statističnega	Agpmsg
-urada	Ncmsg
-.	Z
-V	Sl
-prvih	Mlompl
-štirih	Mlcmpl
-mesecih	Ncmpl
-leta	Ncnsg
-je	Va-r3s-n
-bilo	Va-p-sn
-zabeleženih	Appmpg
-okoli	Rgp
-776.000	Mdc
-prihodov	Ncmpg
-turistov	Ncmpg
-ali	Cc
-za	Sa
-tri	Mlcmpa
-odstotke	Ncmpa
-manj	Rgc
-kot	Cs
-prejšnje	Agpnsa
-leto	Ncnsa
-v	Sl
-tem	Pd-nsl
-obdobju	Ncnsl
-in	Cc
-okoli	Rgp
-2,17	Mdc
-milijona	Ncmsg
-njihovih	Ps3fpgp
-prenočitev	Ncfpg
-ali	Cc
-za	Sa
-šest	Mlc-pa
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-prejšnje	Agpnsa
-leto	Ncnsa
-v	Sl
-tem	Pd-nsl
-obdobju	Ncnsl
-.	Z
-Tuji	Agpmpn
-turisti	Ncmpn
-so	Va-r3p-n
-v	Sl
-aprilu	Ncmsl
-ustvarili	Vmep-pm
-60	Mdc
-odstotkov	Ncmpg
-vseh	Pg-fpg
-turističnih	Agpfpg
-prenočitev	Ncfpg
-.	Z
-Ključni	Agpmpn
-evropski	Agpmpn
-trgi	Ncmpn
-,	Z
-od	Sg
-koder	Cs
-so	Va-r3p-n
-prihajali	Vmpp-pm
-tuji	Agpmpn
-turisti	Ncmpn
-,	Z
-so	Va-r3p-n
-bili	Va-p-pm
-Italija	Npfsn
-21	Mdc
-odstotkov	Ncmpg
-,	Z
-Avstrija	Npfsn
-16	Mdc
-odstotkov	Ncmpg
-,	Z
-Nemčija	Npfsn
-devet	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-Rusija	Npfsn
-sedem	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-Srbija	Npfsn
-pet	Mlc-pn
-odstotkov	Ncmpg
-,	Z
-Hrvaška	Npfsn
-štirje	Mlcmpn
-odstotki	Ncmpn
-in	Cc
-Velika	Agpnpn
-Britanija	Npfsn
-trije	Mlcmpn
-odstotki	Ncmpn
-.	Z
-V	Sl
-aprilu	Ncmsl
-so	Va-r3p-n
-turisti	Ncmpn
-z	Sg
-večine	Ncfsg
-pomembnejših	Agcmpg
-turističnih	Agpmpg
-trgov	Ncmpg
-v	Sl
-Sloveniji	Npfsl
-ustvarili	Vmep-pm
-manj	Rgc
-prenočitev	Ncfsa
-kot	Cs
-v	Sl
-enakem	Pi-nsl
-obdobju	Ncnsl
-lani	Rgp
-,	Z
-in	Cc
-sicer	Q
-turisti	Ncmpn
-iz	Sg
-Nemčije	Npfsg
-za	Sa
-32	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-,	Z
-iz	Sg
-Italije	Npfsg
-in	Cc
-Avstrije	Npfsg
-po	Sa
-21	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-,	Z
-iz	Sg
-Rusije	Npfsg
-za	Sa
-19	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-in	Cc
-iz	Sg
-Hrvaške	Npfsg
-za	Sa
-18	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-.	Z
-Manj	Rgc
-številne	Agpfpn
-kot	Cs
-v	Sl
-lanskem	Agpmsl
-aprilu	Ncmsl
-so	Va-r3p-n
-bile	Va-p-pf
-tudi	Q
-prenočitve	Ncfpn
-turistov	Ncmpg
-iz	Sg
-Srbije	Npfsg
-za	Sa
-10	Mdc
-odstotkov	Ncmpg
-in	Cc
-iz	Sg
-Velike	Agpfsg
-Britanije	Npfsg
-za	Sa
-šest	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-Največ	Rgs
-prenočitev	Ncfpg
-vseh	Pg-mpg
-turistov	Ncmpg
-,	Z
-domačih	Agpmpg
-in	Cc
-tujih	Agpmpg
-,	Z
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sl
-aprilu	Ncmsl
-zabeleženih	Appfpg
-v	Sl
-zdraviliških	Agpfpl
-občinah	Ncfpl
-,	Z
-in	Cc
-sicer	Q
-okoli	Rgp
-202.000	Mdc
-,	Z
-vendar	Cc
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-teh	Pd-mpg
-15	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-aprila	Ncmsg
-lani	Rgp
-.	Z
-Slovenska	Agpnpn
-naravna	Agpnpn
-zdravilišča	Ncnpn
-so	Va-r3p-n
-sicer	Q
-zelo	Rgp
-zaskrbljena	Appnpn
-nad	Si
-letošnjo	Agpfsi
-turistično	Agpfsi
-sezono	Ncfsi
-,	Z
-saj	Cc
-je	Va-r3s-n
-trend	Ncmsn
-obiska	Ncmsg
-in	Cc
-ustvarjenih	Appfpg
-prenočitev	Ncfpg
-predvsem	Q
-v	Sl
-prvih	Mlompl
-štirih	Mlcmpl
-mesecih	Ncmpl
-izrazito	Rgp
-negativen	Agpmsnn
-.	Z
-Največ	Rgs
-prenočitev	Ncfpg
-so	Va-r3p-n
-zabeležili	Vmep-pm
-v	Sl
-zdraviliških	Agpfpl
-občinah	Ncfpl
-,	Z
-a	Cc
-tudi	Q
-tam	Rgp
-obisk	Ncmsn
-pada	Vmpr3s
-,	Z
-kar	Pr-nsn
-že	Q
-povzroča	Vmpr3s
-skrbi	Vmpr3s
-.	Z
-Foto	Ncmsn
-Thinkstock	Npmsn
-Na	Sl
-drugem	Mlpnsl
-mestu	Ncnsl
-po	Sl
-številu	Ncnsl
-prenočitev	Ncfpg
-vseh	Pg-mpg
-turistov	Ncmpg
-so	Va-r3p-n
-bile	Va-p-pf
-obmorske	Agpfpn
-občine	Ncfpn
-,	Z
-kjer	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-zabeleženih	Appmpg
-okoli	Rgp
-126.000	Mdc
-prenočitev	Ncfpg
-turistov	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-12	Mdc
-odstotkov	Ncmpg
-manj	Rgc
-kot	Cs
-v	Sl
-aprilu	Ncmsl
-lani	Rgp
-.	Z
-Gorske	Agpfpn
-občine	Ncfpn
-so	Va-r3p-n
-zabeležile	Vmep-pf
-okoli	Rgp
-83.000	Mdc
-prenočitev	Ncfpg
-vseh	Pg-mpg
-turistov	Ncmpg
-,	Z
-kar	Pr-nsn
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-predstavlja	Vmpr3s
-devetodstotni	Agpmsay
-padec	Ncmsan
-.	Z
-Več	Rgc
-prenočitev	Ncfpg
-turistov	Ncmpg
-je	Va-r3s-n
-bilo	Va-p-sn
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-zabeleženih	Appmpg
-v	Sl
-planinskih	Agpmpl
-domovih	Ncmpl
-in	Cc
-kočah	Ncfpl
-za	Sa
-14	Mdc
-odstotkov	Ncmpg
-ter	Cc
-v	Sl
-mladinskih	Agpnpl
-hotelih	Ncnpl
-za	Sa
-11	Mdc
-odstotkov	Ncmpg
-,	Z
-manj	Rgc
-prenočitev	Ncfsa
-turistov	Ncmpg
-pa	Cc
-v	Sl
-hotelih	Ncnpl
-za	Sa
-12	Mdc
-odstotkov	Ncmpg
-,	Z
-v	Sl
-apartmajskih	Agpnpl
-in	Cc
-počitniških	Agpnpl
-naseljih	Ncnpl
-za	Sa
-17	Mdc
-odstotkov	Ncmpg
-,	Z
-v	Sl
-kampih	Ncmpl
-za	Sa
-19	Mdc
-odstotkov	Ncmpg
-,	Z
-na	Sl
-turističnih	Agpfpl
-kmetijah	Ncfpl
-z	Si
-nastanitvijo	Ncfsi
-za	Sa
-štiri	Mlcmpa
-odstotke	Ncmpa
-in	Cc
-v	Sl
-zasebnih	Agpfpl
-sobah	Ncfpl
-,	Z
-apartmajih	Ncmpl
-in	Cc
-hišah	Ncfpl
-za	Sa
-tri	Mlcmpa
-odstotke	Ncmpa
-.	Z
-Domači	Agpmpn
-turisti	Ncmpn
-so	Va-r3p-n
-skoraj	Q
-polovico	Ncfsa
-49	Mdc
-odstotkov	Ncmpg
-vseh	Pg-fpg
-svojih	Px-fpg
-prenočitev	Ncfpg
-ustvarili	Vmep-pm
-v	Sl
-občinah	Ncfpl
-Piran	Npmsn
-,	Z
-Moravske	Agpfsg
-Toplice	Npfpn
-,	Z
-Brežice	Npfpn
-,	Z
-Podčetrtek	Npmsn
-,	Z
-Izola	Npfsn
-in	Cc
-Koper	Npmsn
-.	Z
-Tuji	Agpmpn
-turisti	Ncmpn
-pa	Cc
-so	Va-r3p-n
-61	Mdc
-odstotkov	Ncmpg
-vseh	Pg-fpg
-svojih	Px-fpg
-prenočitev	Ncfpg
-ustvarili	Vmep-pm
-v	Sl
-občinah	Ncfpl
-Ljubljana	Npfsn
-,	Z
-Piran	Npmsn
-,	Z
-Bled	Npmsn
-,	Z
-Rogaška	Agpfsn
-Slatina	Npfsn
-,	Z
-Moravske	Agpfpn
-Toplice	Npfpn
-in	Cc
-Maribor	Npmsn
-.	Z
+token	tag	lemma
+Slovenijo	mte:Npfsa	Slovenija
+je	mte:Va-r3s-n	biti
+aprila	mte:Ncmsg	april
+obiskalo	mte:Vmep-sn	obiskati
+skoraj	mte:Q	skoraj
+četrt	mte:Mdc	četrt
+milijona	mte:Ncmsg	milijon
+turistov	mte:Ncmpg	turist
+.	mte:Z	.
+Njihovo	mte:Ps3nsnp	njihov
+število	mte:Ncnsn	število
+pada	mte:Vmpr3s	padati
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+med	mte:Si	med
+turističnimi	mte:Agpmpi	turističen
+delavci	mte:Ncmpi	delavec
+že	mte:Q	že
+povzroča	mte:Vmpr3s	povzročati
+sive	mte:Agpmpa	siv
+lase	mte:Ncmpa	las
+.	mte:Z	.
+Med	mte:Si	med
+domačini	mte:Ncmpi	domačin
+so	mte:Va-r3p-n	biti
+priljubljeni	mte:Agpmpn	priljubljen
+Obala	mte:Ncfsn	obala
+in	mte:Cc	in
+zdraviliški	mte:Agpmpn	zdraviliški
+kraji	mte:Ncmpn	kraj
+,	mte:Z	,
+tujci	mte:Ncmpn	tujec
+se	mte:Px------y	se
+zapeljejo	mte:Vmer3p	zapeljati
+še	mte:Q	še
+v	mte:Sa	v
+Ljubljano	mte:Npfsa	Ljubljana
+,	mte:Z	,
+Maribor	mte:Npmsn	Maribor
+in	mte:Cc	in
+na	mte:Sa	na
+Bled	mte:Npmsan	Bled
+.	mte:Z	.
+Aprila	mte:Ncmsg	april
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+slovenskih	mte:Agpnpl	slovenski
+hotelih	mte:Ncnpl	hotel
+,	mte:Z	,
+apartmajih	mte:Ncmpl	apartma
+,	mte:Z	,
+planinskih	mte:Agpfpl	planinski
+kočah	mte:Ncfpl	koča
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+prespalo	mte:Vmep-sn	prespati
+okoli	mte:Rgp	okoli
+221.000	mte:Mdc	221.000
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+221.000	mte:Mdc	221.000
+turistov	mte:Ncmpg	turist
+je	mte:Va-r3s-n	biti
+aprila	mte:Ncmsg	april
+v	mte:Sl	v
+nastanitvenih	mte:Agpmpl	nastanitven
+objektih	mte:Ncmpl	objekt
+po	mte:Sl	po
+Sloveniji	mte:Npfsl	Slovenija
+skupaj	mte:Rgp	skupaj
+prespalo	mte:Vmep-sn	prespati
+560.000	mte:Mdc	560.000
+-	mte:Z	-
+krat	mte:Rgp	krat
+.	mte:Z	.
+Na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+to	mte:Pd-nsn	ta
+predstavlja	mte:Vmpr3s	predstavljati
+sedem	mte:Mlc-pa	sedem
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+turistov	mte:Ncmpg	turist
+in	mte:Cc	in
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+prenočitev	mte:Ncfpg	prenočitev
+.	mte:Z	.
+Število	mte:Ncnsn	število
+domačih	mte:Agpmpg	domač
+turistov	mte:Ncmpg	turist
+je	mte:Va-r3s-n	biti
+padlo	mte:Vmep-sn	pasti
+za	mte:Sa	za
+dva	mte:Mlcmda	dva
+,	mte:Z	,
+tujih	mte:Agpmpg	tuj
+pa	mte:Cc	pa
+za	mte:Sa	za
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+kažejo	mte:Vmpr3p	kazati
+danes	mte:Rgp	danes
+objavljeni	mte:Appmpn	objavljen
+podatki	mte:Ncmpn	podatek
+državnega	mte:Agpmsg	državen
+statističnega	mte:Agpmsg	statističen
+urada	mte:Ncmsg	urad
+.	mte:Z	.
+V	mte:Sl	v
+prvih	mte:Mlompl	prvi
+štirih	mte:Mlcmpl	štirje
+mesecih	mte:Ncmpl	mesec
+leta	mte:Ncnsg	leto
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+zabeleženih	mte:Appmpg	zabeležen
+okoli	mte:Rgp	okoli
+776.000	mte:Mdc	776.000
+prihodov	mte:Ncmpg	prihod
+turistov	mte:Ncmpg	turist
+ali	mte:Cc	ali
+za	mte:Sa	za
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+prejšnje	mte:Agpnsa	prejšnji
+leto	mte:Ncnsa	leto
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+obdobju	mte:Ncnsl	obdobje
+in	mte:Cc	in
+okoli	mte:Rgp	okoli
+2,17	mte:Mdc	2,17
+milijona	mte:Ncmsg	milijon
+njihovih	mte:Ps3fpgp	njihov
+prenočitev	mte:Ncfpg	prenočitev
+ali	mte:Cc	ali
+za	mte:Sa	za
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+prejšnje	mte:Agpnsa	prejšnji
+leto	mte:Ncnsa	leto
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+obdobju	mte:Ncnsl	obdobje
+.	mte:Z	.
+Tuji	mte:Agpmpn	tuj
+turisti	mte:Ncmpn	turist
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+aprilu	mte:Ncmsl	april
+ustvarili	mte:Vmep-pm	ustvariti
+60	mte:Mdc	60
+odstotkov	mte:Ncmpg	odstotek
+vseh	mte:Pg-fpg	ves
+turističnih	mte:Agpfpg	turističen
+prenočitev	mte:Ncfpg	prenočitev
+.	mte:Z	.
+Ključni	mte:Agpmpn	ključen
+evropski	mte:Agpmpn	evropski
+trgi	mte:Ncmpn	trg
+,	mte:Z	,
+od	mte:Sg	od
+koder	mte:Cs	koder
+so	mte:Va-r3p-n	biti
+prihajali	mte:Vmpp-pm	prihajati
+tuji	mte:Agpmpn	tuj
+turisti	mte:Ncmpn	turist
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+Italija	mte:Npfsn	Italija
+21	mte:Mdc	21
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+Avstrija	mte:Npfsn	Avstrija
+16	mte:Mdc	16
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+devet	mte:Mlc-pa	devet
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+Rusija	mte:Npfsn	Rusija
+sedem	mte:Mlc-pa	sedem
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+Srbija	mte:Npfsn	Srbija
+pet	mte:Mlc-pn	pet
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+Hrvaška	mte:Npfsn	hrvaški
+štirje	mte:Mlcmpn	štirje
+odstotki	mte:Ncmpn	odstotek
+in	mte:Cc	in
+Velika	mte:Agpnpn	velik
+Britanija	mte:Npfsn	Britanija
+trije	mte:Mlcmpn	trije
+odstotki	mte:Ncmpn	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+aprilu	mte:Ncmsl	april
+so	mte:Va-r3p-n	biti
+turisti	mte:Ncmpn	turist
+z	mte:Sg	z
+večine	mte:Ncfsg	večina
+pomembnejših	mte:Agcmpg	pomemben
+turističnih	mte:Agpmpg	turističen
+trgov	mte:Ncmpg	trg
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+ustvarili	mte:Vmep-pm	ustvariti
+manj	mte:Rgc	manj
+prenočitev	mte:Ncfsa	prenočitev
+kot	mte:Cs	kot
+v	mte:Sl	v
+enakem	mte:Pi-nsl	enak
+obdobju	mte:Ncnsl	obdobje
+lani	mte:Rgp	lani
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+turisti	mte:Ncmpn	turist
+iz	mte:Sg	iz
+Nemčije	mte:Npfsg	Nemčija
+za	mte:Sa	za
+32	mte:Mdc	32
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+,	mte:Z	,
+iz	mte:Sg	iz
+Italije	mte:Npfsg	Italija
+in	mte:Cc	in
+Avstrije	mte:Npfsg	Avstrija
+po	mte:Sa	po
+21	mte:Mdc	21
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+,	mte:Z	,
+iz	mte:Sg	iz
+Rusije	mte:Npfsg	Rusija
+za	mte:Sa	za
+19	mte:Mdc	19
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+in	mte:Cc	in
+iz	mte:Sg	iz
+Hrvaške	mte:Npfsg	Hrvaška
+za	mte:Sa	za
+18	mte:Mdc	18
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+.	mte:Z	.
+Manj	mte:Rgc	manj
+številne	mte:Agpfpn	številen
+kot	mte:Cs	kot
+v	mte:Sl	v
+lanskem	mte:Agpmsl	lanski
+aprilu	mte:Ncmsl	april
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+tudi	mte:Q	tudi
+prenočitve	mte:Ncfpn	prenočitev
+turistov	mte:Ncmpg	turist
+iz	mte:Sg	iz
+Srbije	mte:Npfsg	Srbija
+za	mte:Sa	za
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+in	mte:Cc	in
+iz	mte:Sg	iz
+Velike	mte:Agpfsg	velik
+Britanije	mte:Npfsg	Britanija
+za	mte:Sa	za
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Največ	mte:Rgs	največ
+prenočitev	mte:Ncfpg	prenočitev
+vseh	mte:Pg-mpg	ves
+turistov	mte:Ncmpg	turist
+,	mte:Z	,
+domačih	mte:Agpmpg	domač
+in	mte:Cc	in
+tujih	mte:Agpmpg	tuj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sl	v
+aprilu	mte:Ncmsl	april
+zabeleženih	mte:Appfpg	zabeležen
+v	mte:Sl	v
+zdraviliških	mte:Agpfpl	zdraviliški
+občinah	mte:Ncfpl	občina
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+okoli	mte:Rgp	okoli
+202.000	mte:Mdc	202.000
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+teh	mte:Pd-mpg	ta
+15	mte:Mdc	15
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+aprila	mte:Ncmsg	april
+lani	mte:Rgp	lani
+.	mte:Z	.
+Slovenska	mte:Agpnpn	slovenski
+naravna	mte:Agpnpn	naraven
+zdravilišča	mte:Ncnpn	zdravilišče
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+zelo	mte:Rgp	zelo
+zaskrbljena	mte:Appnpn	zaskrbljen
+nad	mte:Si	nad
+letošnjo	mte:Agpfsi	letošnji
+turistično	mte:Agpfsi	turističen
+sezono	mte:Ncfsi	sezona
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+trend	mte:Ncmsn	trend
+obiska	mte:Ncmsg	obisk
+in	mte:Cc	in
+ustvarjenih	mte:Appfpg	ustvarjen
+prenočitev	mte:Ncfpg	prenočitev
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+štirih	mte:Mlcmpl	štirje
+mesecih	mte:Ncmpl	mesec
+izrazito	mte:Rgp	izrazito
+negativen	mte:Agpmsnn	negativen
+.	mte:Z	.
+Največ	mte:Rgs	največ
+prenočitev	mte:Ncfpg	prenočitev
+so	mte:Va-r3p-n	biti
+zabeležili	mte:Vmep-pm	zabeležiti
+v	mte:Sl	v
+zdraviliških	mte:Agpfpl	zdraviliški
+občinah	mte:Ncfpl	občina
+,	mte:Z	,
+a	mte:Cc	a
+tudi	mte:Q	tudi
+tam	mte:Rgp	tam
+obisk	mte:Ncmsn	obisk
+pada	mte:Vmpr3s	padati
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+že	mte:Q	že
+povzroča	mte:Vmpr3s	povzročati
+skrbi	mte:Vmpr3s	skrbeti
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+Thinkstock	mte:Npmsn	Thinkstock
+Na	mte:Sl	na
+drugem	mte:Mlpnsl	drug
+mestu	mte:Ncnsl	mesto
+po	mte:Sl	po
+številu	mte:Ncnsl	število
+prenočitev	mte:Ncfpg	prenočitev
+vseh	mte:Pg-mpg	ves
+turistov	mte:Ncmpg	turist
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+obmorske	mte:Agpfpn	obmorski
+občine	mte:Ncfpn	občina
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+zabeleženih	mte:Appmpg	zabeležen
+okoli	mte:Rgp	okoli
+126.000	mte:Mdc	126.000
+prenočitev	mte:Ncfpg	prenočitev
+turistov	mte:Ncmpg	turist
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+v	mte:Sl	v
+aprilu	mte:Ncmsl	april
+lani	mte:Rgp	lani
+.	mte:Z	.
+Gorske	mte:Agpfpn	gorski
+občine	mte:Ncfpn	občina
+so	mte:Va-r3p-n	biti
+zabeležile	mte:Vmep-pf	zabeležiti
+okoli	mte:Rgp	okoli
+83.000	mte:Mdc	83.000
+prenočitev	mte:Ncfpg	prenočitev
+vseh	mte:Pg-mpg	ves
+turistov	mte:Ncmpg	turist
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+predstavlja	mte:Vmpr3s	predstavljati
+devetodstotni	mte:Agpmsay	devetodstoten
+padec	mte:Ncmsan	padec
+.	mte:Z	.
+Več	mte:Rgc	več
+prenočitev	mte:Ncfpg	prenočitev
+turistov	mte:Ncmpg	turist
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+zabeleženih	mte:Appmpg	zabeležen
+v	mte:Sl	v
+planinskih	mte:Agpmpl	planinski
+domovih	mte:Ncmpl	dom
+in	mte:Cc	in
+kočah	mte:Ncfpl	koča
+za	mte:Sa	za
+14	mte:Mdc	14
+odstotkov	mte:Ncmpg	odstotek
+ter	mte:Cc	ter
+v	mte:Sl	v
+mladinskih	mte:Agpnpl	mladinski
+hotelih	mte:Ncnpl	hotel
+za	mte:Sa	za
+11	mte:Mdc	11
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+manj	mte:Rgc	manj
+prenočitev	mte:Ncfsa	prenočitev
+turistov	mte:Ncmpg	turist
+pa	mte:Cc	pa
+v	mte:Sl	v
+hotelih	mte:Ncnpl	hotel
+za	mte:Sa	za
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+apartmajskih	mte:Agpnpl	apartmajski
+in	mte:Cc	in
+počitniških	mte:Agpnpl	počitniški
+naseljih	mte:Ncnpl	naselje
+za	mte:Sa	za
+17	mte:Mdc	17
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+kampih	mte:Ncmpl	kamp
+za	mte:Sa	za
+19	mte:Mdc	19
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+turističnih	mte:Agpfpl	turističen
+kmetijah	mte:Ncfpl	kmetija
+z	mte:Si	z
+nastanitvijo	mte:Ncfsi	nastanitev
+za	mte:Sa	za
+štiri	mte:Mlcmpa	štirje
+odstotke	mte:Ncmpa	odstotek
+in	mte:Cc	in
+v	mte:Sl	v
+zasebnih	mte:Agpfpl	zaseben
+sobah	mte:Ncfpl	soba
+,	mte:Z	,
+apartmajih	mte:Ncmpl	apartma
+in	mte:Cc	in
+hišah	mte:Ncfpl	hiša
+za	mte:Sa	za
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+.	mte:Z	.
+Domači	mte:Agpmpn	domač
+turisti	mte:Ncmpn	turist
+so	mte:Va-r3p-n	biti
+skoraj	mte:Q	skoraj
+polovico	mte:Ncfsa	polovica
+49	mte:Mdc	49
+odstotkov	mte:Ncmpg	odstotek
+vseh	mte:Pg-fpg	ves
+svojih	mte:Px-fpg	svoj
+prenočitev	mte:Ncfpg	prenočitev
+ustvarili	mte:Vmep-pm	ustvariti
+v	mte:Sl	v
+občinah	mte:Ncfpl	občina
+Piran	mte:Npmsn	Piran
+,	mte:Z	,
+Moravske	mte:Agpfsg	moravski
+Toplice	mte:Npfpn	Toplice
+,	mte:Z	,
+Brežice	mte:Npfpn	Brežice
+,	mte:Z	,
+Podčetrtek	mte:Npmsn	Podčetrtek
+,	mte:Z	,
+Izola	mte:Npfsn	Izola
+in	mte:Cc	in
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Tuji	mte:Agpmpn	tuj
+turisti	mte:Ncmpn	turist
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+61	mte:Mdc	61
+odstotkov	mte:Ncmpg	odstotek
+vseh	mte:Pg-fpg	ves
+svojih	mte:Px-fpg	svoj
+prenočitev	mte:Ncfpg	prenočitev
+ustvarili	mte:Vmep-pm	ustvariti
+v	mte:Sl	v
+občinah	mte:Ncfpl	občina
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+Piran	mte:Npmsn	Piran
+,	mte:Z	,
+Bled	mte:Npmsn	Bled
+,	mte:Z	,
+Rogaška	mte:Agpfsn	rogaški
+Slatina	mte:Npfsn	Slatina
+,	mte:Z	,
+Moravske	mte:Agpfsg	moravski
+Toplice	mte:Npfpn	Toplice
+in	mte:Cc	in
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+Piran	mte:Npmsn	Piran
+je	mte:Va-r3s-n	biti
+priljubljen	mte:Agpmsnn	priljubljen
+tako	mte:Rgp	tako
+med	mte:Si	med
+domačimi	mte:Agpmpi	domač
+kot	mte:Cs	kot
+tujimi	mte:Agpmpi	tuj
+gosti	mte:Ncmpi	gost

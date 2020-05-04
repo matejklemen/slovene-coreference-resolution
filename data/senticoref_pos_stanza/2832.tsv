@@ -1,332 +1,351 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Premier	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-je	Va-r3s-n
-danes	Rgp
-v	Sl
-Ljubljani	Npfsl
-sprejel	Vmep-sm
-predsednika	Ncmsay
-malteškega	Agpmsg
-predstavniškega	Agpmsg
-doma	Ncmsg
-Louisa	Npmsg
-Galeo	Npmsg
-.	Z
-Sogovornika	Npmsay
-sta	Va-r3d-n
-se	Px------y
-med	Si
-drugim	Mlpnsi
-strinjala	Vmpp-dm
-,	Z
-da	Cs
-se	Px------y
-na	Sl
-gospodarskem	Agpnsl
-področju	Ncnsl
-ponujajo	Vmpr3p
-številne	Agpfpa
-možnosti	Ncfpa
-še	Q
-tesnejšega	Agcnsg
-sodelovanja	Ncnsg
-med	Si
-državama	Ncfdi
-.	Z
-Galea	Npmsn
-je	Va-r3s-n
-tudi	Q
-pohvalil	Vmep-sm
-prizadevanja	Ncnpa
-Slovenije	Npfsg
-za	Sa
-rešitev	Ncfsa
-spora	Ncmsg
-o	Sl
-meji	Ncfsl
-s	Si
-Hrvaško	Npfsi
-.	Z
-Kot	Cs
-so	Va-r3p-n
-se	Px------y
-sporočili	Vmep-pm
-iz	Sg
-kabineta	Ncmsg
-predsednika	Ncmsg
-vlade	Ncfsg
-,	Z
-sta	Va-r3d-n
-se	Px------y
-Pahor	Npmsn
-in	Cc
-Galea	Npmsn
-strinjala	Vmpp-dm
-tudi	Q
-,	Z
-da	Cs
-so	Va-r3p-n
-odnosi	Ncmpn
-med	Si
-državama	Ncfdi
-zelo	Rgp
-dobri	Agpmpn
-in	Cc
-brez	Sg
-odprtih	Appnpg
-vprašanj	Ncnpg
-.	Z
-Premier	Ncmsn
-Pahor	Npmsn
-se	Px------y
-je	Va-r3s-n
-gostu	Ncmsd
-zahvalil	Vmep-sm
-za	Sa
-podporo	Ncfsa
-Malte	Npfsg
-pri	Sl
-kandidaturi	Ncfsl
-Slovenije	Npfsg
-za	Sa
-sedež	Ncmsan
-Agencije	Ncfsg
-EU	Npfsg
-za	Sa
-sodelovanje	Ncnsa
-energetskih	Agpmpg
-regulatorjev	Ncmpg
-(	Z
-ACER	Npmsn
-)	Z
-.	Z
-V	Sl
-nadaljevanju	Ncnsl
-srečanja	Ncnsg
-sta	Va-r3d-n
-se	Px------y
-sogovornika	Ncmdn
-dotaknila	Vmep-dm
-tudi	Q
-nezakonitih	Agpfpg
-imigracij	Ncfpg
-,	Z
-ki	Cs
-za	Sa
-Malto	Npfsa
-predstavljajo	Vmpr3p
-enega	Mlpmsa
-glavnih	Agpmpg
-problemov	Ncmpg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-že	Q
-večkrat	Rgc
-izpostavila	Vmep-sf
-tudi	Q
-na	Sl
-ravni	Ncfsl
-EU	Npfsg
-.	Z
-Premier	Ncmsn
-je	Va-r3s-n
-ponudil	Vmep-sm
-podporo	Ncfsa
-Slovenije	Npfsg
-pri	Sl
-reševanju	Ncnsl
-tega	Pd-msg
-perečega	Agpmsg
-problema	Ncmsg
-ter	Cc
-se	Px------y
-zavzel	Vmep-sm
-za	Sa
-reševanje	Ncnsa
-teh	Pd-fpg
-težav	Ncfpg
-na	Sl
-ravni	Ncfsl
-EU	Npfsg
-.	Z
-Sogovornika	Ncmsg
-sta	Va-r3d-n
-se	Px------y
-tudi	Q
-strinjala	Vmpp-dm
-,	Z
-da	Cs
-je	Va-r3s-n
-širitev	Ncfsn
-EU	Npfsg
-pomembna	Agpfsn
-za	Sa
-stabilizacijo	Ncfsa
-Zahodnega	Agpmsg
-Balkana	Npmsg
-ter	Cc
-zagotavljanje	Ncnsa
-demokracije	Ncfsg
-in	Cc
-vladavine	Ncfsg
-prava	Ncnsg
-na	Sl
-tem	Pd-nsl
-območju	Ncnsl
-.	Z
-Galea	Npmsn
-je	Va-r3s-n
-pohvalil	Vmep-sm
-napor	Ncmsan
-Slovenije	Npfsg
-za	Sa
-rešitev	Ncfsa
-spora	Ncmsg
-o	Sl
-meji	Ncfsl
-s	Si
-Hrvaško	Npfsi
-in	Cc
-nadaljevanje	Ncnsa
-njenih	Ps3npgsf
-pogajanj	Ncnpg
-z	Si
-Evropsko	Agpfsi
-unijo	Ncfsi
-.	Z
-Ob	Sl
-koncu	Ncmsl
-srečanja	Ncnsg
-sta	Va-r3d-n
-sogovornika	Ncmdn
-izpostavila	Vmep-dm
-tudi	Q
-pomen	Ncmsn
-Lizbonske	Agpfsg
-pogodbe	Ncfsg
-za	Sa
-prihodnost	Ncfsa
-unije	Ncfsg
-.	Z
-Predsednika	Ncmsg
-malteškega	Agpmsg
-parlamenta	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-na	Sl
-uradnem	Agpmsl
-obisku	Ncmsl
-v	Sl
-Ljubljani	Npfsl
-,	Z
-je	Va-r3s-n
-v	Sa
-torek	Ncmsan
-sprejel	Vmep-sm
-že	Q
-predsednik	Ncmsn
-državnega	Agpmsg
-zbora	Ncmsg
-Pavel	Npmsn
-Gantar	Npmsn
-,	Z
-s	Si
-katerim	Pq-msi
-sta	Va-r3d-n
-gorila	Vmpp-dm
-predvsem	Q
-o	Sl
-evropskih	Agpfpl
-temah	Ncfpl
-in	Cc
-dvostranskemu	Agpnsd
-sodelovanju	Ncnsd
-.	Z
-Strinjala	Vmpp-dm
-sta	Va-r3d-n
-se	Px------y
-,	Z
-da	Cs
-parlamentarna	Agpfsn
-diplomacija	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-običajno	Rgp
-bolj	Rgc
-odprta	Appfsn
-in	Cc
-sproščena	Appfsn
-,	Z
-običajno	Rgp
-utira	Vmpr3s
-pot	Ncfsa
-odnosom	Ncmpd
-tudi	Q
-na	Sl
-drugih	Mlpnpl
-področjih	Ncnpl
-in	Cc
-da	Cs
-skupini	Ncfsl
-prijateljstva	Ncnsg
-,	Z
-ki	Cs
-delujeta	Vmpr3d
-v	Sl
-obeh	Pg-mdl
-parlamentih	Ncmdl
-,	Z
-čaka	Vmpr3s
-še	Q
-precej	Rgp
-dela	Ncnsg
-.	Z
-Galea	Npmsn
-je	Va-r3s-n
-Gantarju	Npmsd
-predstavil	Vmep-sm
-tudi	Q
-svoje	Px-mpa
-poglede	Ncmpa
-na	Sa
-sodelovanje	Ncnsa
-sredozemskih	Agpfpg
-držav	Ncfpg
-in	Cc
-izrazil	Vmep-sm
-pričakovanje	Ncnsa
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-EU	Npfsn
-zavedla	Vmep-sf
-pomena	Ncmsg
-sredozemskega	Agpmsg
-prostora	Ncmsg
-,	Z
-"	Z
-saj	Cc
-je	Va-r3s-n
-ta	Pd-fsn
-zibelka	Ncfsn
-evropske	Agpfsg
-civilizacije	Ncfsg
-in	Cc
-jo	Pp3fsa--y
-s	Si
-pestrostjo	Ncfsi
-narodov	Ncmpg
-in	Cc
-religij	Ncfpg
-bogati	Agpmpn
-"	Z
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Premier	mte:Ncmsn	premier
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+sprejel	mte:Vmep-sm	sprejeti
+predsednika	mte:Ncmsay	predsednik
+malteškega	mte:Agpmsg	malteški
+predstavniškega	mte:Agpmsg	predstavniški
+doma	mte:Ncmsg	dom
+Louisa	mte:Npmsg	Louis
+Galeo	mte:Npmsg	Galea
+.	mte:Z	.
+Sogovornika	mte:Npmsay	Sogovornik
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+strinjala	mte:Vmpp-dm	strinjati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+na	mte:Sl	na
+gospodarskem	mte:Agpnsl	gospodarski
+področju	mte:Ncnsl	področje
+ponujajo	mte:Vmpr3p	ponujati
+številne	mte:Agpfpa	številen
+možnosti	mte:Ncfpa	možnost
+še	mte:Q	še
+tesnejšega	mte:Agcnsg	tesen
+sodelovanja	mte:Ncnsg	sodelovanje
+med	mte:Si	med
+državama	mte:Ncfdi	država
+.	mte:Z	.
+Galea	mte:Npmsn	Gale
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+pohvalil	mte:Vmep-sm	pohvaliti
+prizadevanja	mte:Ncnpa	prizadevanje
+Slovenije	mte:Npfsg	Slovenija
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+spora	mte:Ncmsg	spor
+o	mte:Sl	o
+meji	mte:Ncfsl	meja
+s	mte:Si	z
+Hrvaško	mte:Npfsi	Hrvaška
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+kabineta	mte:Ncmsg	kabinet
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+Galea	mte:Npmsn	Gale
+strinjala	mte:Vmpp-dm	strinjati
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+odnosi	mte:Ncmpn	odnos
+med	mte:Si	med
+državama	mte:Ncfdi	država
+zelo	mte:Rgp	zelo
+dobri	mte:Agpmpn	dober
+in	mte:Cc	in
+brez	mte:Sg	brez
+odprtih	mte:Appnpg	odprt
+vprašanj	mte:Ncnpg	vprašanje
+.	mte:Z	.
+Premier	mte:Ncmsn	premier
+Pahor	mte:Npmsn	Pahor
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+gostu	mte:Ncmsd	gost
+zahvalil	mte:Vmep-sm	zahvaliti
+za	mte:Sa	za
+podporo	mte:Ncfsa	podpora
+Malte	mte:Npfsg	Malta
+pri	mte:Sl	pri
+kandidaturi	mte:Ncfsl	kandidatura
+Slovenije	mte:Npfsg	Slovenija
+za	mte:Sa	za
+sedež	mte:Ncmsan	sedež
+Agencije	mte:Ncfsg	agencija
+EU	mte:Npfsg	EU
+za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+energetskih	mte:Agpmpg	energetski
+regulatorjev	mte:Ncmpg	regulator
+(	mte:Z	(
+ACER	mte:Npmsn	ACER
+)	mte:Z	)
+.	mte:Z	.
+V	mte:Sl	v
+nadaljevanju	mte:Ncnsl	nadaljevanje
+srečanja	mte:Ncnsg	srečanje
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+sogovornika	mte:Ncmdn	sogovornik
+dotaknila	mte:Vmep-dm	dotakniti
+tudi	mte:Q	tudi
+nezakonitih	mte:Agpfpg	nezakonit
+imigracij	mte:Ncfpg	imigracija
+,	mte:Z	,
+ki	mte:Cs	ki
+za	mte:Sa	za
+Malto	mte:Npfsa	Malto
+predstavljajo	mte:Vmpr3p	predstavljati
+enega	mte:Mlpmsa	en
+glavnih	mte:Agpmpg	glaven
+problemov	mte:Ncmpg	problem
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+večkrat	mte:Rgc	večkrat
+izpostavila	mte:Vmep-sf	izpostaviti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Premier	mte:Ncmsn	premier
+je	mte:Va-r3s-n	biti
+ponudil	mte:Vmep-sm	ponuditi
+podporo	mte:Ncfsa	podpora
+Slovenije	mte:Npfsg	Slovenija
+pri	mte:Sl	pri
+reševanju	mte:Ncnsl	reševanje
+tega	mte:Pd-msg	ta
+perečega	mte:Agpmsg	pereč
+problema	mte:Ncmsg	problem
+ter	mte:Cc	ter
+se	mte:Px------y	se
+zavzel	mte:Vmep-sm	zavzeti
+za	mte:Sa	za
+reševanje	mte:Ncnsa	reševanje
+teh	mte:Pd-fpg	ta
+težav	mte:Ncfpg	težava
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Sogovornika	mte:Ncmsg	sogovornik
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+strinjala	mte:Vmpp-dm	strinjati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+širitev	mte:Ncfsn	širitev
+EU	mte:Npfsg	EU
+pomembna	mte:Agpfsn	pomemben
+za	mte:Sa	za
+stabilizacijo	mte:Ncfsa	stabilizacija
+Zahodnega	mte:Agpmsg	zahoden
+Balkana	mte:Npmsg	Balkan
+ter	mte:Cc	ter
+zagotavljanje	mte:Ncnsa	zagotavljanje
+demokracije	mte:Ncfsg	demokracija
+in	mte:Cc	in
+vladavine	mte:Ncfsg	vladavina
+prava	mte:Ncnsg	pravo
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+območju	mte:Ncnsl	območje
+.	mte:Z	.
+Galea	mte:Npmsn	Gale
+je	mte:Va-r3s-n	biti
+pohvalil	mte:Vmep-sm	pohvaliti
+napor	mte:Ncmsan	napor
+Slovenije	mte:Npfsg	Slovenija
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+spora	mte:Ncmsg	spor
+o	mte:Sl	o
+meji	mte:Ncfsl	meja
+s	mte:Si	z
+Hrvaško	mte:Npfsi	Hrvaška
+in	mte:Cc	in
+nadaljevanje	mte:Ncnsa	nadaljevanje
+njenih	mte:Ps3npgsf	njen
+pogajanj	mte:Ncnpg	pogajanje
+z	mte:Si	z
+Evropsko	mte:Agpfsi	evropski
+unijo	mte:Ncfsi	unija
+.	mte:Z	.
+Ob	mte:Sl	ob
+koncu	mte:Ncmsl	konec
+srečanja	mte:Ncnsg	srečanje
+sta	mte:Va-r3d-n	biti
+sogovornika	mte:Ncmdn	sogovornik
+izpostavila	mte:Vmep-dm	izpostaviti
+tudi	mte:Q	tudi
+pomen	mte:Ncmsn	pomen
+Lizbonske	mte:Agpfsg	lizbonski
+pogodbe	mte:Ncfsg	pogodba
+za	mte:Sa	za
+prihodnost	mte:Ncfsa	prihodnost
+unije	mte:Ncfsg	unija
+.	mte:Z	.
+Predsednika	mte:Ncmsg	predsednik
+malteškega	mte:Agpmsg	malteški
+parlamenta	mte:Ncmsg	parlament
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+uradnem	mte:Agpmsl	uraden
+obisku	mte:Ncmsl	obisk
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+sprejel	mte:Vmep-sm	sprejeti
+že	mte:Q	že
+predsednik	mte:Ncmsn	predsednik
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+Pavel	mte:Npmsn	Pavel
+Gantar	mte:Npmsn	Gantar
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+sta	mte:Va-r3d-n	biti
+gorila	mte:Vmpp-dm	goriti
+predvsem	mte:Q	predvsem
+o	mte:Sl	o
+evropskih	mte:Agpfpl	evropski
+temah	mte:Ncfpl	tema
+in	mte:Cc	in
+dvostranskemu	mte:Agpnsd	dvostranski
+sodelovanju	mte:Ncnsd	sodelovanje
+.	mte:Z	.
+Strinjala	mte:Vmpp-dm	strinjati
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+,	mte:Z	,
+da	mte:Cs	da
+parlamentarna	mte:Agpfsn	parlamentaren
+diplomacija	mte:Ncfsn	diplomacija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+običajno	mte:Rgp	običajno
+bolj	mte:Rgc	bolj
+odprta	mte:Appfsn	odprt
+in	mte:Cc	in
+sproščena	mte:Appfsn	sproščen
+,	mte:Z	,
+običajno	mte:Rgp	običajno
+utira	mte:Vmpr3s	utirati
+pot	mte:Ncfsa	pot
+odnosom	mte:Ncmpd	odnos
+tudi	mte:Q	tudi
+na	mte:Sl	na
+drugih	mte:Mlpnpl	drug
+področjih	mte:Ncnpl	področje
+in	mte:Cc	in
+da	mte:Cs	da
+skupini	mte:Ncfsl	skupina
+prijateljstva	mte:Ncnsg	prijateljstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+delujeta	mte:Vmpr3d	delovati
+v	mte:Sl	v
+obeh	mte:Pg-mdl	oba
+parlamentih	mte:Ncmdl	parlament
+,	mte:Z	,
+čaka	mte:Vmpr3s	čakati
+še	mte:Q	še
+precej	mte:Rgp	precej
+dela	mte:Ncnsg	delo
+.	mte:Z	.
+Galea	mte:Npmsn	Gale
+je	mte:Va-r3s-n	biti
+Gantarju	mte:Npmsd	Gantar
+predstavil	mte:Vmep-sm	predstaviti
+tudi	mte:Q	tudi
+svoje	mte:Px-mpa	svoj
+poglede	mte:Ncmpa	pogled
+na	mte:Sa	na
+sodelovanje	mte:Ncnsa	sodelovanje
+sredozemskih	mte:Agpfpg	sredozemski
+držav	mte:Ncfpg	država
+in	mte:Cc	in
+izrazil	mte:Vmep-sm	izraziti
+pričakovanje	mte:Ncnsa	pričakovanje
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+EU	mte:Npfsn	EU
+zavedla	mte:Vmep-sf	zavesti
+pomena	mte:Ncmsg	pomen
+sredozemskega	mte:Agpmsg	sredozemski
+prostora	mte:Ncmsg	prostor
+,	mte:Z	,
+"	mte:Z	"
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-fsn	ta
+zibelka	mte:Ncfsn	zibelka
+evropske	mte:Agpfsg	evropski
+civilizacije	mte:Ncfsg	civilizacija
+in	mte:Cc	in
+jo	mte:Pp3fsa--y	on
+s	mte:Si	z
+pestrostjo	mte:Ncfsi	pestrost
+narodov	mte:Ncmpg	narod
+in	mte:Cc	in
+religij	mte:Ncfpg	religija
+bogati	mte:Agpmpn	bogat
+"	mte:Z	"
+.	mte:Z	.
+Možnost	mte:Ncfsn	možnost
+reševanja	mte:Ncnsg	reševanje
+nekaterih	mte:Pi-mpg	nekateri
+ključnih	mte:Agpmpg	ključen
+problemov	mte:Ncmpg	problem
+v	mte:Sl	v
+Sredozemlju	mte:Npnsl	Sredozemlje
+malteški	mte:Agpmsny	malteški
+gost	mte:Ncmsn	gost
+vidi	mte:Vmbr3s	videti
+v	mte:Sl	v
+dialogu	mte:Ncmsl	dialog
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+vodi	mte:Vmpr3s	voditi
+Sredozemska	mte:Agpfsn	sredozemski
+Parlamentarna	mte:Agpfsn	parlamentaren
+skupščina	mte:Ncfsn	skupščina

@@ -1,278 +1,288 @@
-token	tag
-Po	Sl
-odstopu	Ncmsl
-Zdenka	Npmsg
-Pavčka	Npmsg
-je	Va-r3s-n
-GZS	Npfsn
-dobila	Vmep-sf
-novega	Agpmsa
-predsednika	Ncmsay
-.	Z
-To	Pd-nsa
-je	Va-r3s-n
-postal	Vmep-sm
-direktor	Ncmsn
-družbe	Ncfsg
-Sinet	Npmsn
-Stojan	Npmsn
-Binder	Npmsn
-.	Z
-Ministrica	Ncfsn
-Darja	Npfsn
-Radić	Npfsn
-je	Va-r3s-n
-že	Q
-pred	Si
-glasovanjem	Ncnsi
-dejala	Vmep-sf
-,	Z
-da	Cs
-računa	Ncmsg
-na	Sa
-dobro	Agpnsa
-sodelovanje	Ncnsa
-.	Z
-Skupščina	Ncfsn
-Gospodarske	Agpfsg
-zbornice	Ncfsg
-Slovenije	Npfsg
-GZS	Npfsg
-je	Va-r3s-n
-na	Sl
-izredni	Agpfsl
-seji	Ncfsl
-volila	Vmbp-sf
-novega	Agpmsa
-predsednika	Ncmsay
-zbornice	Ncfsg
-.	Z
-Po	Sl
-odstopu	Ncmsl
-Zdenka	Npmsg
-Pavčka	Npmsg
-sredi	Sg
-letošnjega	Agpmsg
-julija	Ncmsg
-so	Va-r3p-n
-se	Px------y
-za	Sa
-ta	Pd-msa
-položaj	Ncmsan
-potegovali	Vmpp-pm
-Stojan	Npmsn
-Binder	Npmsn
-,	Z
-Andrej	Npmsn
-Mate	Npmsn
-,	Z
-Vasilij	Npmsn
-Prešern	Npmsn
-in	Cc
-Boštjan	Npmsn
-Šifrar	Npmsn
-.	Z
-Uspelo	Vmep-sn
-je	Va-r3s-n
-Binderju	Npmsd
-,	Z
-sicer	Q
-direktorju	Ncmsd
-družbe	Ncfsg
-Sinet	Npmsn
-.	Z
-Izvoljen	Appmsnn
-je	Va-r3s-n
-bil	Va-p-sm
-v	Sl
-drugem	Mlpmsl
-krogu	Ncmsl
-,	Z
-dobil	Vmep-sm
-pa	Cc
-je	Va-r3s-n
-65	Mdc
-od	Sg
-86	Mdc
-veljavnih	Agpmpg
-glasov	Ncmpg
-.	Z
-Binder	Npmsn
-je	Va-r3s-n
-v	Sl
-programu	Ncmsl
-dela	Ncnsg
-opozoril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-svetovna	Agpfsn
-gospodarska	Agpfsn
-kriza	Ncfsn
-prizadela	Vmep-sf
-tudi	Q
-Slovenijo	Npfsa
-.	Z
-Vlada	Ncfsn
-je	Va-r3s-n
-sicer	Q
-pripravila	Vmep-sf
-izhodno	Agpfsa
-strategijo	Ncfsa
-,	Z
-vendar	Cc
-jo	Pp3fsa--y
-izvaja	Vmpr3s
-prepočasi	Rgp
-in	Cc
-premalo	Rgp
-odločno	Rgp
-,	Z
-pri	Sl
-tem	Pd-nsl
-pa	Cc
-dodatno	Rgp
-bremeni	Vmpr3s
-tudi	Q
-gospodarstvo	Ncnsa
-,	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-.	Z
-Kot	Cs
-predsednik	Ncmsn
-GZS	Npfsg
-si	Px---d--y
-bo	Va-f3s-n
-zato	Rgp
-med	Si
-drugim	Mlpmsi
-prizadeval	Vmpp-sm
-za	Sa
-izboljšanje	Ncnsa
-likvidnosti	Ncfsg
-in	Cc
-razbremenitev	Ncfpg
-gospodarstva	Ncnsg
-ter	Cc
-internacionalizacijo	Ncfsa
-podjetij	Ncnpg
-in	Cc
-prehod	Ncmsan
-v	Sa
-družbo	Ncfsa
-inovacij	Ncfpg
-.	Z
-Stojan	Npmsn
-Binder	Npmsn
-Novi	Agpmsny
-predsednik	Ncmsn
-GZS	Npmsg
-bo	Va-f3s-n
-to	Pd-fsa
-funkcijo	Ncfsa
-opravljal	Vmpp-sm
-do	Sg
-izteka	Ncmsg
-štiriletnega	Agpmsg
-mandata	Ncmsg
-sedanje	Agpfsg
-skupščine	Ncfsg
-GZS	Npfsg
-in	Cc
-konstituiranja	Ncnsg
-nove	Agpfsg
-,	Z
-torej	Rgp
-najdlje	Rgs
-do	Sg
-29	Mdc
-.	Z
-maja	Ncmsg
-2011	Mdc
-.	Z
-Po	Sl
-preteku	Ncmsl
-mandata	Ncmsg
-je	Va-r3s-n
-lahko	Rgp
-ponovno	Rgp
-izvoljen	Appmsnn
-za	Sa
-predsednika	Ncmsay
-GZS	Npfsg
-.	Z
-Radićeva	Aspfsn
-upa	Ncfsn
-na	Sa
-dobro	Agpnsa
-sodelovanje	Ncnsa
-Ministrica	Ncfsn
-za	Sa
-gospodarstvo	Ncnsa
-Darja	Npfsn
-Radić	Npfsn
-je	Va-r3s-n
-pred	Si
-začetkom	Ncmsi
-seje	Ncfsg
-dejala	Vmep-sf
-,	Z
-da	Cs
-si	Px---d--y
-na	Sl
-čelu	Ncnsl
-GZS	Npfsg
-želi	Vmpr3s
-nekoga	Pi-msa
-,	Z
-ki	Cs
-bo	Va-f3s-n
-razumel	Vmbp-sm
-pomen	Ncmsan
-sodelovanja	Ncnsg
-ministrstva	Ncnsg
-in	Cc
-zbornice	Ncfpg
-pri	Sl
-oblikovanju	Ncnsl
-nove	Agpfsg
-industrijske	Agpfsg
-politike	Ncfsg
-.	Z
-Za	Sa
-sodelovanje	Ncnsa
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-se	Px------y
-je	Va-r3s-n
-že	Q
-dogovorila	Vmep-sf
-z	Si
-generalnim	Agpmsi
-direktorjem	Ncmsi
-GZS	Npmsi
-Samom	Npmsi
-Hribarjem	Npmsi
-Miličem	Npmsi
-.	Z
-Dogovorila	Vmep-df
-sta	Va-r3d-n
-se	Px------y
-,	Z
-da	Cs
-začneta	Vmer3d
-ministrstvo	Ncnsa
-za	Sa
-gospodarstvo	Ncnsa
-in	Cc
-GZS	Npmsan
-to	Pd-fsa
-jesen	Ncfsa
-sodelovati	Vmpn
-pri	Sl
-pripravi	Ncfsl
-industrijske	Agpfsg
-politike	Ncfsg
-.	Z
+token	tag	lemma
+Po	mte:Sl	po
+odstopu	mte:Ncmsl	odstop
+Zdenka	mte:Npmsg	Zdenka
+Pavčka	mte:Npmsg	Pavčka
+je	mte:Va-r3s-n	biti
+GZS	mte:Npfsn	GZS
+dobila	mte:Vmep-sf	dobiti
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+je	mte:Va-r3s-n	biti
+postal	mte:Vmep-sm	postati
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Sinet	mte:Npmsn	Sinet
+Stojan	mte:Npmsn	Stojan
+Binder	mte:Npmsn	Binder
+.	mte:Z	.
+Ministrica	mte:Ncfsn	ministrica
+Darja	mte:Npfsn	Darja
+Radić	mte:Npfsn	Radić
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+pred	mte:Si	pred
+glasovanjem	mte:Ncnsi	glasovanje
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+računa	mte:Ncmsg	račun
+na	mte:Sa	na
+dobro	mte:Agpnsa	dober
+sodelovanje	mte:Ncnsa	sodelovanje
+.	mte:Z	.
+Skupščina	mte:Ncfsn	skupščina
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+GZS	mte:Npfsg	GZS
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+izredni	mte:Agpfsl	izreden
+seji	mte:Ncfsl	seja
+volila	mte:Vmbp-sf	voliti
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+zbornice	mte:Ncfsg	zbornica
+.	mte:Z	.
+Po	mte:Sl	po
+odstopu	mte:Ncmsl	odstop
+Zdenka	mte:Npmsg	Zdenka
+Pavčka	mte:Npmsg	Pavčka
+sredi	mte:Sg	sredi
+letošnjega	mte:Agpmsg	letošnji
+julija	mte:Ncmsg	julij
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+ta	mte:Pd-msa	ta
+položaj	mte:Ncmsan	položaj
+potegovali	mte:Vmpp-pm	potegovati
+Stojan	mte:Npmsn	Stojan
+Binder	mte:Npmsn	Binder
+,	mte:Z	,
+Andrej	mte:Npmsn	Andrej
+Mate	mte:Npmsn	Mate
+,	mte:Z	,
+Vasilij	mte:Npmsn	Vasilija
+Prešern	mte:Npmsn	Prešern
+in	mte:Cc	in
+Boštjan	mte:Npmsn	Boštjan
+Šifrar	mte:Npmsn	Šifrar
+.	mte:Z	.
+Uspelo	mte:Vmep-sn	uspeti
+je	mte:Va-r3s-n	biti
+Binderju	mte:Npmsd	Binder
+,	mte:Z	,
+sicer	mte:Q	sicer
+direktorju	mte:Ncmsd	direktor
+družbe	mte:Ncfsg	družba
+Sinet	mte:Npmsn	Sinet
+.	mte:Z	.
+Izvoljen	mte:Appmsnn	izvoljen
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+v	mte:Sl	v
+drugem	mte:Mlpmsl	drug
+krogu	mte:Ncmsl	krog
+,	mte:Z	,
+dobil	mte:Vmep-sm	dobiti
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+65	mte:Mdc	65
+od	mte:Sg	od
+86	mte:Mdc	86
+veljavnih	mte:Agpmpg	veljaven
+glasov	mte:Ncmpg	glas
+.	mte:Z	.
+Binder	mte:Npmsn	Binder
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+programu	mte:Ncmsl	program
+dela	mte:Ncnsg	delo
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+svetovna	mte:Agpfsn	svetoven
+gospodarska	mte:Agpfsn	gospodarski
+kriza	mte:Ncfsn	kriza
+prizadela	mte:Vmep-sf	prizadeti
+tudi	mte:Q	tudi
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+pripravila	mte:Vmep-sf	pripraviti
+izhodno	mte:Agpfsa	izhoden
+strategijo	mte:Ncfsa	strategija
+,	mte:Z	,
+vendar	mte:Cc	vendar
+jo	mte:Pp3fsa--y	on
+izvaja	mte:Vmpr3s	izvajati
+prepočasi	mte:Rgp	prepočasi
+in	mte:Cc	in
+premalo	mte:Rgp	premalo
+odločno	mte:Rgp	odločno
+,	mte:Z	,
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+dodatno	mte:Rgp	dodatno
+bremeni	mte:Vmpr3s	bremeniti
+tudi	mte:Q	tudi
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+.	mte:Z	.
+Kot	mte:Cs	kot
+predsednik	mte:Ncmsn	predsednik
+GZS	mte:Npfsg	GZS
+si	mte:Px---d--y	se
+bo	mte:Va-f3s-n	biti
+zato	mte:Rgp	zato
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+prizadeval	mte:Vmpp-sm	prizadevati
+za	mte:Sa	za
+izboljšanje	mte:Ncnsa	izboljšanje
+likvidnosti	mte:Ncfsg	likvidnost
+in	mte:Cc	in
+razbremenitev	mte:Ncfpg	razbremenitev
+gospodarstva	mte:Ncnsg	gospodarstvo
+ter	mte:Cc	ter
+internacionalizacijo	mte:Ncfsa	internacionacizacija
+podjetij	mte:Ncnpg	podjetje
+in	mte:Cc	in
+prehod	mte:Ncmsan	prehod
+v	mte:Sa	v
+družbo	mte:Ncfsa	družba
+inovacij	mte:Ncfpg	inovacija
+.	mte:Z	.
+Stojan	mte:Npmsn	Stojan
+Binder	mte:Npmsn	Binder
+Novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+GZS	mte:Npmsg	GZS
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-fsa	ta
+funkcijo	mte:Ncfsa	funkcija
+opravljal	mte:Vmpp-sm	opravljati
+do	mte:Sg	do
+izteka	mte:Ncmsg	iztekati
+štiriletnega	mte:Agpmsg	štirileten
+mandata	mte:Ncmsg	mandat
+sedanje	mte:Agpfsg	sedanji
+skupščine	mte:Ncfsg	skupščina
+GZS	mte:Npfsg	GZS
+in	mte:Cc	in
+konstituiranja	mte:Ncnsg	konstupstuir
+nove	mte:Agpfsg	nov
+,	mte:Z	,
+torej	mte:Rgp	torej
+najdlje	mte:Rgs	dolgo
+do	mte:Sg	do
+29	mte:Mdc	29
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+2011	mte:Mdc	2011
+.	mte:Z	.
+Po	mte:Sl	po
+preteku	mte:Ncmsl	pretek
+mandata	mte:Ncmsg	mandat
+je	mte:Va-r3s-n	biti
+lahko	mte:Rgp	lahko
+ponovno	mte:Rgp	ponovno
+izvoljen	mte:Appmsnn	izvoljen
+za	mte:Sa	za
+predsednika	mte:Ncmsay	predsednik
+GZS	mte:Npfsg	GZS
+.	mte:Z	.
+Radićeva	mte:Aspfsn	Radićev
+upa	mte:Ncfsn	up
+na	mte:Sa	na
+dobro	mte:Agpnsa	dober
+sodelovanje	mte:Ncnsa	sodelovanje
+Ministrica	mte:Ncfsn	ministrica
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+Darja	mte:Npfsn	Darja
+Radić	mte:Npfsn	Radić
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+začetkom	mte:Ncmsi	začetek
+seje	mte:Ncfsg	seja
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+si	mte:Px---d--y	se
+na	mte:Sl	na
+čelu	mte:Ncnsl	čelo
+GZS	mte:Npfsg	GZS
+želi	mte:Vmpr3s	želeti
+nekoga	mte:Pi-msa	nekdo
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+razumel	mte:Vmbp-sm	razumeti
+pomen	mte:Ncmsan	pomen
+sodelovanja	mte:Ncnsg	sodelovanje
+ministrstva	mte:Ncnsg	ministrstvo
+in	mte:Cc	in
+zbornice	mte:Ncfpg	zbornica
+pri	mte:Sl	pri
+oblikovanju	mte:Ncnsl	oblikovanje
+nove	mte:Agpfsg	nov
+industrijske	mte:Agpfsg	industrijski
+politike	mte:Ncfsg	politika
+.	mte:Z	.
+Za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+dogovorila	mte:Vmep-sf	dogovoriti
+z	mte:Si	z
+generalnim	mte:Agpmsi	generalen
+direktorjem	mte:Ncmsi	direktor
+GZS	mte:Npmsi	GZS
+Samom	mte:Npmsi	Sam
+Hribarjem	mte:Npmsi	Hribar
+Miličem	mte:Npmsi	Milič
+.	mte:Z	.
+Dogovorila	mte:Vmep-df	dogovoriti
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+,	mte:Z	,
+da	mte:Cs	da
+začneta	mte:Vmer3d	začeti
+ministrstvo	mte:Ncnsa	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+in	mte:Cc	in
+GZS	mte:Npmsa	GZS
+to	mte:Pd-fsa	ta
+jesen	mte:Ncfsa	jesen
+sodelovati	mte:Vmpn	sodelovati
+pri	mte:Sl	pri
+pripravi	mte:Ncfsl	priprava
+industrijske	mte:Agpfsg	industrijski
+politike	mte:Ncfsg	politika
+.	mte:Z	.
+Zbornica	mte:Ncfsn	zbornica
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+njenih	mte:Ps3fplsf	njen
+besedah	mte:Ncfpl	beseda
+v	mte:Sa	v
+pomoč	mte:Ncfsa	pomoč
+pri	mte:Sl	pri
+analitičnem	mte:Agpmsl	analitičen
+delu	mte:Ncnsl	del

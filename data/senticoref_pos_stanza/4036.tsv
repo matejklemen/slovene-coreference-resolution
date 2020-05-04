@@ -1,507 +1,542 @@
-token	tag
-Nekdanji	Agpmsny
-generalni	Agpmsny
-direktor	Ncmsn
-družbe	Ncfsg
-Hypo	Npmsn
-Leasing	Npmsn
-Andrej	Npmsn
-Potočnik	Npmsn
-je	Va-r3s-n
-tudi	Q
-na	Sl
-višjem	Agcnsl
-sodišču	Ncnsl
-izgubil	Vmep-sm
-tožbo	Ncfsa
-proti	Sd
-prejšnjemu	Agpmsd
-delodajalcu	Ncmsd
-.	Z
-Medtem	Rgp
-bo	Va-f3s-n
-moral	Vmpp-sm
-zaradi	Sg
-suma	Ncmsg
-storitve	Ncfsg
-kaznivega	Agpnsg
-dejanja	Ncnsg
-krive	Agpfsg
-izpovedi	Ncfsg
-v	Sl
-tožbi	Ncfsl
-na	Sa
-zatožno	Agpfsa
-klop	Ncfsa
-sesti	Vmen
-Andrej	Npmsn
-Oblak	Npmsn
-.	Z
-Tudi	Q
-višje	Agcnsn
-sodišče	Ncnsn
-je	Va-r3s-n
-presodilo	Vmep-sn
-,	Z
-da	Cs
-nekdanji	Agpmsny
-generalni	Agpmsny
-direktor	Ncmsn
-družbe	Ncfsg
-Hypo	Npmsn
-Leasing	Npmsn
-Andrej	Npmsn
-Potočnik	Npmsn
-pri	Sl
-odpovedi	Ncfsl
-delovnega	Agpnsg
-razmerja	Ncnsg
-leta	Ncnsg
-2011	Mdc
-ni	Va-r3s-y
-upravičen	Appmsnn
-do	Sg
-odškodnine	Ncfsg
-.	Z
-Na	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-bo	Va-f3s-n
-moral	Vmpp-sm
-poslovnež	Ncmsn
-Andrej	Npmsn
-Oblak	Npmsn
-sesti	Vmen
-na	Sa
-zatožno	Agpfsa
-klop	Ncfsa
-zaradi	Sg
-suma	Ncmsg
-storitve	Ncfsg
-kaznivega	Agpnsg
-dejanja	Ncnsg
-krive	Agpfsg
-izpovedi	Ncfsg
-.	Z
-Ker	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-prepričan	Appmsnn
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-razrešen	Appmsnn
-nezakonito	Rgp
-,	Z
-je	Va-r3s-n
-Potočnik	Npmsn
-proti	Sd
-svojemu	Px-msd
-nekdanjemu	Agpmsd
-delodajalcu	Ncmsd
-vložil	Vmep-sm
-odškodninsko	Agpfsa
-tožbo	Ncfsa
-.	Z
-V	Sl
-postopku	Ncmsl
-pred	Si
-delovnim	Agpnsi
-sodiščem	Ncnsi
-je	Va-r3s-n
-pričal	Vmpp-sm
-tudi	Q
-nekdanji	Agpmsny
-direktor	Ncmsn
-družbe	Ncfsg
-Hypo	Npmsn
-Alpe	Npmsn
-Adria	Npfsn
-Consultants	Npmsn
-Andrej	Npmsn
-Oblak	Npmsn
-,	Z
-pri	Sl
-čemer	Pr-nsl
-sta	Va-r3d-n
-Potočnik	Npmsn
-in	Cc
-Oblak	Npmsn
-drug	Mlpmsnn
-drugemu	Mlpmsd
-poročni	Agpfsd
-priči	Ncfsd
-.	Z
-Toda	Cc
-predsednik	Ncmsn
-senata	Ncmsg
-Franc	Npmsn
-Krašovec	Npmsn
-je	Va-r3s-n
-ocenil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-Oblak	Ncmsn
-v	Sl
-Potočnikovi	Aspfsl
-tožbi	Ncfsl
-krivo	Rgp
-pričal	Vmpp-sm
-,	Z
-zato	Cc
-ga	Pp3msa--y
-je	Va-r3s-n
-lani	Rgp
-kazensko	Rgp
-ovadil	Vmep-sm
-.	Z
-Na	Sl
-podlagi	Ncfsl
-ovadbe	Ncfsg
-so	Va-r3p-n
-na	Sl
-specializiranem	Appnsl
-državnem	Agpnsl
-tožilstvu	Ncnsl
-sredi	Sg
-marca	Ncmsg
-letos	Rgp
-proti	Sd
-Oblaku	Ncmsd
-vložili	Vmep-pm
-neposredno	Agpfsa
-obtožnico	Ncfsa
-.	Z
-Na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-je	Va-r3s-n
-obtožnica	Ncfsn
-že	Q
-pravnomočna	Agpfsn
-,	Z
-so	Va-r3p-n
-na	Sl
-tožilstvu	Ncnsl
-odgovorili	Vmep-pm
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-»	Z
-skrajšani	Appmsay
-«	Z
-kazenski	Agpmsay
-postopek	Ncmsan
-,	Z
-zato	Cc
-ni	Va-r3s-y
-postopka	Ncmsg
-preizkusa	Ncmsg
-obtožbe	Ncfsg
-,	Z
-niti	Q
-ugotavljanja	Ncnsg
-njene	Ps3fsgsf
-pravnomočnosti	Ncfsg
-.	Z
-To	Pd-nsn
-pomeni	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-v	Sl
-bližnji	Agpfsl
-prihodnosti	Ncfsl
-začelo	Vmep-sn
-sojenje	Ncnsn
-proti	Sd
-Oblaku	Ncmsd
-.	Z
-Na	Sl
-njem	Pp3msl
-lahko	Rgp
-pričakujemo	Vmpr1p
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-z	Si
-gotovostjo	Ncfsi
-razjasnilo	Vmep-sn
-,	Z
-kdo	Pq-msn
-je	Va-r3s-n
-lastnik	Ncmsn
-liechtensteinskega	Agpnsg
-podjetja	Ncnsg
-Immo	Npmsn
-Fund	Npmsn
-Invest	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-imelo	Vmpp-sn
-eno	Mlpfsa
-ključnih	Agpfpg
-vlog	Ncfpg
-v	Sl
-trikotniku	Ncmsl
-poslov	Ncmpg
-med	Si
-Hypom	Npmsi
-,	Z
-off	Npmsn
--	Z
-shore	Agpnpi
-podjetji	Ncnpi
-iz	Sg
-Liechtensteina	Npmsg
-in	Cc
-Paname	Npfsg
-ter	Cc
-Vegradom	Npmsi
-.	Z
-V	Sl
-povezavi	Ncfsl
-s	Si
-temi	Pd-mpi
-posli	Ncmpi
-poteka	Vmpr3s
-obširna	Agpfsn
-mednarodna	Agpfsn
-preiskava	Ncfsn
-.	Z
-Medtem	Rgp
-ko	Cs
-Oblak	Ncmsn
-zatrjuje	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-edini	Agpmsny
-lastnik	Ncmsn
-Imma	Npmsg
-,	Z
-so	Va-r3p-n
-po	Sl
-ugotovitvah	Ncfpl
-policije	Ncfsg
-in	Cc
-tožilstva	Ncnsg
-poleg	Sg
-njega	Pp3msg
-lastniki	Ncmpn
-še	Q
-nekdanji	Agpmsny
-dolgoletni	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Hypo	Npfsn
-Bank	Npfpg
-Božidar	Npmsn
-Špan	Npmsn
-,	Z
-njegov	Ps3msnsm
-naslednik	Ncmsn
-Anton	Npmsn
-Romih	Npmsn
-in	Cc
-Potočnik	Npmsn
-.	Z
-Špan	Npmsn
-in	Cc
-Romih	Npmpn
-v	Sl
-preteklosti	Ncfsl
-teh	Pd-fpg
-navedb	Ncfpg
-nista	Va-r3d-y
-želela	Vmpp-dm
-komentirati	Vmbn
-,	Z
-Potočnik	Npmsn
-pa	Cc
-je	Va-r3s-n
-lastništvo	Ncnsa
-v	Sl
-Immu	Npmsl
-večkrat	Rgc
-ostro	Rgp
-zanikal	Vmep-sm
-.	Z
-Da	Cs
-je	Va-r3s-n
-edini	Agpmsny
-lastnik	Ncmsn
-Imma	Npmsg
-,	Z
-je	Va-r3s-n
-Oblak	Ncmsn
-zatrjeval	Vmpp-sm
-tudi	Q
-v	Sl
-Potočnikovi	Aspfsl
-tožbi	Ncfsl
-proti	Sd
-Hypu	Npmsd
-.	Z
-Toda	Cc
-sodnik	Ncmsn
-Krašovec	Npmsn
-Oblaku	Ncmsd
-ni	Va-r3s-y
-verjel	Vmbp-sm
-,	Z
-v	Sl
-sodbi	Ncfsl
-,	Z
-s	Si
-katero	Pq-fsi
-je	Va-r3s-n
-zavrnil	Vmep-sm
-Potočnikove	Aspmpa
-odškodninske	Agpmpa
-zahtevke	Ncmpa
-proti	Sd
-Hypu	Npmsd
-,	Z
-pa	Cc
-je	Va-r3s-n
-navedel	Vmep-sm
-,	Z
-da	Cs
-Potočniku	Npmsd
-ni	Va-r3s-y
-v	Sl
-interesu	Ncmsl
-,	Z
-da	Cs
-se	Px------y
-lastništvo	Ncnsn
-liechtensteinskega	Agpnsg
-podjetja	Ncnsg
-razkrije	Vmer3s
-.	Z
-Odvetnica	Ncfsn
-Katarina	Npfsn
-Prebil	Vmep-sm
-je	Va-r3s-n
-na	Sl
-podlagi	Ncfsl
-Oblakovega	Aspnsg
-pooblastila	Ncnsg
-pojasnila	Ncnsg
-,	Z
-da	Cs
-njena	Ps3fsnsf
-stranka	Ncfsn
-ni	Va-r3s-y
-prejela	Vmep-sf
-nobene	Pz-fsg
-obtožnice	Ncfsg
-v	Sl
-zvezi	Ncfsl
-z	Si
-domnevnim	Agpnsi
-kaznivim	Agpnsi
-dejanjem	Ncnsi
-krivega	Agpnsg
-pričanja	Ncnsg
-,	Z
-zato	Cc
-je	Pp3fsg--y
-ne	Q
-more	Vmpr3s
-komentirati	Vmbn
-.	Z
-»	Z
-Oblak	Ncmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-vse	Pg-fpn
-izjave	Ncfpn
-na	Sl
-sodišču	Ncnsl
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-podal	Vmbp-sm
-,	Z
-resnične	Agpfpn
-.	Z
-Po	Sl
-vročitvi	Ncfsl
-obtožnice	Ncfsg
-Andreju	Npmsd
-Oblaku	Ncmsd
-se	Px------y
-bodo	Va-f3p-n
-preučile	Vmep-pf
-možnosti	Ncfpn
-za	Sa
-nadaljnje	Agpnsa
-ukrepanje	Ncnsa
-v	Sl
-okviru	Ncmsl
-zakonskih	Agpfpg
-možnosti	Ncfpg
-,	Z
-morda	Q
-tudi	Q
-v	Sl
-smeri	Ncfsl
-vložitve	Ncfsg
-ovadbe	Ncfsg
-zaradi	Sg
-krive	Agpfsg
-ovadbe	Ncfsg
-,	Z
-«	Z
-je	Va-r3s-n
-pojasnila	Vmep-sf
-Prebilova	Aspfsn
-.	Z
-Potočnik	Npmsn
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sl
-zvezi	Ncfsl
-z	Si
-odločitvijo	Ncfsi
-višjega	Agcnsg
-sodišča	Ncnsg
-vložil	Vmep-sm
-zahtevo	Ncfsa
-za	Sa
-revizijo	Ncfsa
-postopka	Ncmsg
-na	Sa
-vrhovno	Agpnsa
-sodišče	Ncnsa
-in	Cc
-da	Cs
-se	Px------y
-namerava	Vmpr3s
-pravdati	Vmen
-,	Z
-če	Cs
-bo	Va-f3s-n
-treba	Rgp
-,	Z
-tudi	Q
-do	Sg
-evropskega	Agpnsg
-sodišča	Ncnsg
-.	Z
+token	tag	lemma
+Nekdanji	mte:Agpmsny	nekdanji
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Hypo	mte:Npmsn	Hypo
+Leasing	mte:Npmsn	Leasing
+Andrej	mte:Npmsn	Andrej
+Potočnik	mte:Npmsn	Potočnik
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+višjem	mte:Agcnsl	visok
+sodišču	mte:Ncnsl	sodišče
+izgubil	mte:Vmep-sm	izgubiti
+tožbo	mte:Ncfsa	tožba
+proti	mte:Sd	proti
+prejšnjemu	mte:Agpmsd	prejšnji
+delodajalcu	mte:Ncmsd	delodajalec
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+bo	mte:Va-f3s-n	biti
+moral	mte:Vmpp-sm	morati
+zaradi	mte:Sg	zaradi
+suma	mte:Ncmsg	suma
+storitve	mte:Ncfsg	storitev
+kaznivega	mte:Agpnsg	kazniv
+dejanja	mte:Ncnsg	dejanje
+krive	mte:Agpfsg	kriv
+izpovedi	mte:Ncfsg	izpoved
+v	mte:Sl	v
+tožbi	mte:Ncfsl	tožba
+na	mte:Sa	na
+zatožno	mte:Agpfsa	zatožen
+klop	mte:Ncfsa	klop
+sesti	mte:Vmen	sesti
+Andrej	mte:Npmsn	Andrej
+Oblak	mte:Npmsn	Oblak
+.	mte:Z	.
+Tudi	mte:Q	tudi
+višje	mte:Agcnsn	visok
+sodišče	mte:Ncnsn	sodišče
+je	mte:Va-r3s-n	biti
+presodilo	mte:Vmep-sn	presoditi
+,	mte:Z	,
+da	mte:Cs	da
+nekdanji	mte:Agpmsny	nekdanji
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Hypo	mte:Npmsn	Hypo
+Leasing	mte:Npmsn	Leasing
+Andrej	mte:Npmsn	Andrej
+Potočnik	mte:Npmsn	Potočnik
+pri	mte:Sl	pri
+odpovedi	mte:Ncfsl	odpoved
+delovnega	mte:Agpnsg	deloven
+razmerja	mte:Ncnsg	razmerje
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+ni	mte:Va-r3s-y	biti
+upravičen	mte:Appmsnn	upravičen
+do	mte:Sg	do
+odškodnine	mte:Ncfsg	odškodnina
+.	mte:Z	.
+Na	mte:Sl	na
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+bo	mte:Va-f3s-n	biti
+moral	mte:Vmpp-sm	morati
+poslovnež	mte:Ncmsn	poslovnež
+Andrej	mte:Npmsn	Andrej
+Oblak	mte:Npmsn	Oblak
+sesti	mte:Vmen	sesti
+na	mte:Sa	na
+zatožno	mte:Agpfsa	zatožen
+klop	mte:Ncfsa	klop
+zaradi	mte:Sg	zaradi
+suma	mte:Ncmsg	suma
+storitve	mte:Ncfsg	storitev
+kaznivega	mte:Agpnsg	kazniv
+dejanja	mte:Ncnsg	dejanje
+krive	mte:Agpfsg	kriv
+izpovedi	mte:Ncfsg	izpoved
+.	mte:Z	.
+Ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+razrešen	mte:Appmsnn	razrešen
+nezakonito	mte:Rgp	nezakonito
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Potočnik	mte:Npmsn	Potočnik
+proti	mte:Sd	proti
+svojemu	mte:Px-msd	svoj
+nekdanjemu	mte:Agpmsd	nekdanji
+delodajalcu	mte:Ncmsd	delodajalec
+vložil	mte:Vmep-sm	vložiti
+odškodninsko	mte:Agpfsa	odškodninski
+tožbo	mte:Ncfsa	tožba
+.	mte:Z	.
+V	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+pred	mte:Si	pred
+delovnim	mte:Agpnsi	deloven
+sodiščem	mte:Ncnsi	sodišče
+je	mte:Va-r3s-n	biti
+pričal	mte:Vmpp-sm	pričati
+tudi	mte:Q	tudi
+nekdanji	mte:Agpmsny	nekdanji
+direktor	mte:Ncmsn	direktor
+družbe	mte:Ncfsg	družba
+Hypo	mte:Npmsn	Hypo
+Alpe	mte:Npmsn	Alpe
+Adria	mte:Npfsn	Adria
+Consultants	mte:Npmsn	Consultants
+Andrej	mte:Npmsn	Andrej
+Oblak	mte:Npmsn	Oblak
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+sta	mte:Va-r3d-n	biti
+Potočnik	mte:Npmsn	Potočnik
+in	mte:Cc	in
+Oblak	mte:Npmsn	Oblak
+drug	mte:Mlpmsnn	drug
+drugemu	mte:Mlpmsd	drug
+poročni	mte:Agpfsd	poročen
+priči	mte:Ncfsd	priča
+.	mte:Z	.
+Toda	mte:Cc	toda
+predsednik	mte:Ncmsn	predsednik
+senata	mte:Ncmsg	senat
+Franc	mte:Npmsn	Franc
+Krašovec	mte:Npmsn	Krašovec
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Oblak	mte:Ncmsn	Oblak
+v	mte:Sl	v
+Potočnikovi	mte:Aspfsl	potočnikov
+tožbi	mte:Ncfsl	tožba
+krivo	mte:Rgp	kriv
+pričal	mte:Vmpp-sm	pričati
+,	mte:Z	,
+zato	mte:Cc	zato
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+kazensko	mte:Rgp	kazensko
+ovadil	mte:Vmep-sm	ovaditi
+.	mte:Z	.
+Na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+ovadbe	mte:Ncfsg	ovadba
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+specializiranem	mte:Appnsl	specializiran
+državnem	mte:Agpnsl	državen
+tožilstvu	mte:Ncnsl	tožilstvo
+sredi	mte:Sg	sredi
+marca	mte:Ncmsg	marec
+letos	mte:Rgp	letos
+proti	mte:Sd	proti
+Oblaku	mte:Ncmsd	oblak
+vložili	mte:Vmep-pm	vložiti
+neposredno	mte:Agpfsa	neposreden
+obtožnico	mte:Ncfsa	obtožnica
+.	mte:Z	.
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+obtožnica	mte:Ncfsn	obtožnica
+že	mte:Q	že
+pravnomočna	mte:Agpfsn	pravnomočen
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+tožilstvu	mte:Ncnsl	tožilstvo
+odgovorili	mte:Vmep-pm	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+»	mte:Z	»
+skrajšani	mte:Appmsay	skrajšan
+«	mte:Z	«
+kazenski	mte:Agpmsay	kazenski
+postopek	mte:Ncmsan	postopek
+,	mte:Z	,
+zato	mte:Cc	zato
+ni	mte:Va-r3s-y	biti
+postopka	mte:Ncmsg	postopek
+preizkusa	mte:Ncmsg	preizkus
+obtožbe	mte:Ncfsg	obtožba
+,	mte:Z	,
+niti	mte:Q	niti
+ugotavljanja	mte:Ncnsg	ugotavljanje
+njene	mte:Ps3fsgsf	njen
+pravnomočnosti	mte:Ncfsg	pravnomočnost
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+bližnji	mte:Agpfsl	bližnji
+prihodnosti	mte:Ncfsl	prihodnost
+začelo	mte:Vmep-sn	začeti
+sojenje	mte:Ncnsn	sojenje
+proti	mte:Sd	proti
+Oblaku	mte:Ncmsd	oblak
+.	mte:Z	.
+Na	mte:Sl	na
+njem	mte:Pp3msl	on
+lahko	mte:Rgp	lahko
+pričakujemo	mte:Vmpr1p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+z	mte:Si	z
+gotovostjo	mte:Ncfsi	gotovost
+razjasnilo	mte:Vmep-sn	razjasniti
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+je	mte:Va-r3s-n	biti
+lastnik	mte:Ncmsn	lastnik
+liechtensteinskega	mte:Agpnsg	liechtensteinski
+podjetja	mte:Ncnsg	podjetje
+Immo	mte:Npmsn	Immo
+Fund	mte:Npmsn	Fund
+Invest	mte:Npmsn	Invest
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+imelo	mte:Vmpp-sn	imeti
+eno	mte:Mlpfsa	en
+ključnih	mte:Agpfpg	ključen
+vlog	mte:Ncfpg	vloga
+v	mte:Sl	v
+trikotniku	mte:Ncmsl	trikotnik
+poslov	mte:Ncmpg	posel
+med	mte:Si	med
+Hypom	mte:Npmsi	Hyp
+,	mte:Z	,
+off	mte:Npmsn	off
+-	mte:Z	-
+shore	mte:Agpnpi	shor
+podjetji	mte:Ncnpi	podjetje
+iz	mte:Sg	iz
+Liechtensteina	mte:Npmsg	Liechtensteina
+in	mte:Cc	in
+Paname	mte:Npfsg	Panama
+ter	mte:Cc	ter
+Vegradom	mte:Npmsi	Vegrad
+.	mte:Z	.
+V	mte:Sl	v
+povezavi	mte:Ncfsl	povezava
+s	mte:Si	z
+temi	mte:Pd-mpi	ta
+posli	mte:Ncmpi	posel
+poteka	mte:Vmpr3s	potekati
+obširna	mte:Agpfsn	obširen
+mednarodna	mte:Agpfsn	mednaroden
+preiskava	mte:Ncfsn	preiskava
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+Oblak	mte:Ncmsn	Oblak
+zatrjuje	mte:Vmpr3s	zatrjevati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+edini	mte:Agpmsny	edin
+lastnik	mte:Ncmsn	lastnik
+Imma	mte:Npmsg	Imma
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+ugotovitvah	mte:Ncfpl	ugotovitev
+policije	mte:Ncfsg	policija
+in	mte:Cc	in
+tožilstva	mte:Ncnsg	tožilstvo
+poleg	mte:Sg	poleg
+njega	mte:Pp3msg	on
+lastniki	mte:Ncmpn	lastnik
+še	mte:Q	še
+nekdanji	mte:Agpmsny	nekdanji
+dolgoletni	mte:Agpmsny	dolgoleten
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Hypo	mte:Npfsn	Hypo
+Bank	mte:Npfpg	Bank
+Božidar	mte:Npmsn	Božidar
+Špan	mte:Npmsn	Špan
+,	mte:Z	,
+njegov	mte:Ps3msnsm	njegov
+naslednik	mte:Ncmsn	naslednik
+Anton	mte:Npmsn	Anton
+Romih	mte:Npmsn	Romih
+in	mte:Cc	in
+Potočnik	mte:Npmsn	Potočnik
+.	mte:Z	.
+Špan	mte:Npmsn	Špan
+in	mte:Cc	in
+Romih	mte:Npmpn	Romih
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+teh	mte:Pd-fpg	ta
+navedb	mte:Ncfpg	navedba
+nista	mte:Va-r3d-y	biti
+želela	mte:Vmpp-dm	želeti
+komentirati	mte:Vmbn	komentirati
+,	mte:Z	,
+Potočnik	mte:Npmsn	Potočnik
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+lastništvo	mte:Ncnsa	lastništvo
+v	mte:Sl	v
+Immu	mte:Npmsl	Imm
+večkrat	mte:Rgc	večkrat
+ostro	mte:Rgp	ostro
+zanikal	mte:Vmep-sm	zanikati
+.	mte:Z	.
+Da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+edini	mte:Agpmsny	edin
+lastnik	mte:Ncmsn	lastnik
+Imma	mte:Npmsg	Imma
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Oblak	mte:Ncmsn	Oblak
+zatrjeval	mte:Vmpp-sm	zatrjevati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Potočnikovi	mte:Aspfsl	potočnikov
+tožbi	mte:Ncfsl	tožba
+proti	mte:Sd	proti
+Hypu	mte:Npmsd	Hype
+.	mte:Z	.
+Toda	mte:Cc	toda
+sodnik	mte:Ncmsn	sodnik
+Krašovec	mte:Npmsn	Krašovec
+Oblaku	mte:Ncmsd	oblak
+ni	mte:Va-r3s-y	biti
+verjel	mte:Vmbp-sm	verjeti
+,	mte:Z	,
+v	mte:Sl	v
+sodbi	mte:Ncfsl	sodba
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+je	mte:Va-r3s-n	biti
+zavrnil	mte:Vmep-sm	zavrniti
+Potočnikove	mte:Aspmpa	Potočnikov
+odškodninske	mte:Agpmpa	odškodninski
+zahtevke	mte:Ncmpa	zahtevek
+proti	mte:Sd	proti
+Hypu	mte:Npmsd	Hype
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+navedel	mte:Vmep-sm	navesti
+,	mte:Z	,
+da	mte:Cs	da
+Potočniku	mte:Npmsd	Potočnik
+ni	mte:Va-r3s-y	biti
+v	mte:Sl	v
+interesu	mte:Ncmsl	interes
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+lastništvo	mte:Ncnsn	lastništvo
+liechtensteinskega	mte:Agpnsg	liechtensteinski
+podjetja	mte:Ncnsg	podjetje
+razkrije	mte:Vmer3s	razkriti
+.	mte:Z	.
+Odvetnica	mte:Ncfsn	odvetnica
+Katarina	mte:Npfsn	Katarina
+Prebil	mte:Vmep-sm	prebiti
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+Oblakovega	mte:Aspnsg	Oblakov
+pooblastila	mte:Ncnsg	pooblastilo
+pojasnila	mte:Ncnsg	pojasnilo
+,	mte:Z	,
+da	mte:Cs	da
+njena	mte:Ps3fsnsf	njen
+stranka	mte:Ncfsn	stranka
+ni	mte:Va-r3s-y	biti
+prejela	mte:Vmep-sf	prejeti
+nobene	mte:Pz-fsg	noben
+obtožnice	mte:Ncfsg	obtožnica
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+domnevnim	mte:Agpnsi	domneven
+kaznivim	mte:Agpnsi	kazniv
+dejanjem	mte:Ncnsi	dejanje
+krivega	mte:Agpnsg	kriv
+pričanja	mte:Ncnsg	pričanje
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Pp3fsg--y	on
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+komentirati	mte:Vmbn	komentirati
+.	mte:Z	.
+»	mte:Z	»
+Oblak	mte:Ncmsn	Oblak
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+vse	mte:Pg-fpn	ves
+izjave	mte:Ncfpn	izjava
+na	mte:Sl	na
+sodišču	mte:Ncnsl	sodišče
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+podal	mte:Vmbp-sm	podati
+,	mte:Z	,
+resnične	mte:Agpfpn	resničen
+.	mte:Z	.
+Po	mte:Sl	po
+vročitvi	mte:Ncfsl	vročitev
+obtožnice	mte:Ncfsg	obtožnica
+Andreju	mte:Npmsd	Andrej
+Oblaku	mte:Ncmsd	oblak
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+preučile	mte:Vmep-pf	preučiti
+možnosti	mte:Ncfpn	možnost
+za	mte:Sa	za
+nadaljnje	mte:Agpnsa	nadaljnji
+ukrepanje	mte:Ncnsa	ukrepanje
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+zakonskih	mte:Agpfpg	zakonski
+možnosti	mte:Ncfpg	možnost
+,	mte:Z	,
+morda	mte:Q	morda
+tudi	mte:Q	tudi
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+vložitve	mte:Ncfsg	vložitev
+ovadbe	mte:Ncfsg	ovadba
+zaradi	mte:Sg	zaradi
+krive	mte:Agpfsg	kriv
+ovadbe	mte:Ncfsg	ovadba
+,	mte:Z	,
+«	mte:Z	«
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+Prebilova	mte:Aspfsn	Prebilov
+.	mte:Z	.
+Potočnik	mte:Npmsn	Potočnik
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+odločitvijo	mte:Ncfsi	odločitev
+višjega	mte:Agcnsg	visok
+sodišča	mte:Ncnsg	sodišče
+vložil	mte:Vmep-sm	vložiti
+zahtevo	mte:Ncfsa	zahteva
+za	mte:Sa	za
+revizijo	mte:Ncfsa	revizija
+postopka	mte:Ncmsg	postopek
+na	mte:Sa	na
+vrhovno	mte:Agpnsa	vrhoven
+sodišče	mte:Ncnsa	sodišče
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+namerava	mte:Vmpr3s	nameravati
+pravdati	mte:Vmen	pravdati
+,	mte:Z	,
+če	mte:Cs	če
+bo	mte:Va-f3s-n	biti
+treba	mte:Rgp	treba
+,	mte:Z	,
+tudi	mte:Q	tudi
+do	mte:Sg	do
+evropskega	mte:Agpnsg	evropski
+sodišča	mte:Ncnsg	sodišče
+.	mte:Z	.
+»	mte:Z	»
+Na	mte:Sl	na
+prvostopenjskem	mte:Agpnsl	prvostopenjski
+sodišču	mte:Ncnsl	sodišče
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+niti	mte:Q	niti
+enega	mte:Mlpnsg	en
+pričanja	mte:Ncnsg	pričanje
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+predložen	mte:Appmsnn	predložen
+noben	mte:Pz-msn	noben
+listinski	mte:Agpmsny	listinski
+dokaz	mte:Ncmsn	dokaz
+proti	mte:Sd	proti
+meni	mte:Pp1-sd	jaz
+,	mte:Z	,
+«	mte:Z	«
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Potočnik	mte:Npmsn	Potočnik
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+višje	mte:Agcnsn	visok
+sodišče	mte:Ncnsn	sodišče
+očitno	mte:Rgp	očitno
+verjelo	mte:Vmbp-sn	verjeti
+prvostopenjskemu	mte:Agpmsd	prvostopenjski

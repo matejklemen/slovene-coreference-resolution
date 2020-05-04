@@ -1,414 +1,431 @@
-token	tag
-Korupcijske	Agpfpn
-afere	Ncfpn
-naj	Q
-bi	Va-c
-bile	Va-p-pf
-dovolj	Rgp
-dober	Agpmsan
-razlog	Ncmsan
-,	Z
-da	Cs
-Evropska	Agpfsn
-unija	Ncfsn
-do	Sg
-nadaljnjega	Agpnsg
-zaustavi	Vmer3s
-vstop	Ncmsan
-Hrvaške	Npfsg
-v	Sa
-EU	Npfsa
-,	Z
-piše	Vmpr3s
-Financial	Npmsn
-Times	Npmsn
-Hrvaški	Agpmsny
-vstop	Ncmsn
-v	Sl
-EU	Npfsl
-se	Px------y
-mora	Vmpr3s
-kljub	Sd
-večini	Ncfsd
-zaprtih	Appfpg
-poglavij	Ncfpg
-ustaviti	Vmen
-,	Z
-dokler	Cs
-se	Px------y
-ne	Q
-razrešijo	Vmer3p
-notranji	Agpmpn
-problemi	Ncmpn
-s	Si
-korupcijo	Ncfsi
-,	Z
-meni	Vmpr3s
-Financial	Npmsn
-Times	Npmsn
-.	Z
-Kot	Cs
-argument	Ncmsn
-izpostavi	Vmer3s
-Romunijo	Npfsa
-in	Cc
-Bolgarijo	Npfsa
-,	Z
-ki	Cs
-po	Sl
-vstopu	Ncmsl
-v	Sa
-EU	Npfsa
-nista	Va-r3d-y
-pokazali	Vmep-dm
-napredka	Ncmsg
-v	Sl
-boju	Ncmsl
-proti	Sd
-korupciji	Ncfsd
-.	Z
-Evropska	Agpfsn
-Unija	Ncfsn
-ima	Vmpr3s-n
-po	Sl
-mnenju	Ncnsl
-časnika	Ncmsg
-namreč	Cc
-več	Rgc
-vpliva	Ncmsg
-na	Sa
-države	Ncfpa
-,	Z
-preden	Cs
-te	Pp2-sa--y
-vstopijo	Vmer3p
-v	Sa
-unijo	Ncfsa
-.	Z
-Posledično	Rgp
-bi	Va-c
-EU	Npfsn
-morala	Vmpp-sf
-pred	Si
-polnopravnim	Agpnsi
-članstvom	Ncnsi
-Hrvaške	Npfsg
-poskrbeti	Vmen
-,	Z
-da	Cs
-slednja	Agpfsn
-opravi	Vmer3s
-s	Si
-korupcijskimi	Agpmpi
-škandali	Ncmpi
-.	Z
-Avstrijci	Npmpi
-zaslišujejo	Vmpr3p
-Sanaderja	Npmsay
-Hrvaška	Npfsn
-zaprla	Vmep-sf
-še	Q
-tri	Mlcnpa
-pogajalska	Agpnpa
-poglavja	Ncnpa
-z	Si
-EU	Npfsi
-Hrvaška	Npfsn
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-medvladni	Agpfsl
-konferenci	Ncfsl
-v	Sl
-Bruslju	Npmsl
-zaprla	Vmep-sf
-še	Q
-tri	Mlcnpa
-poglavja	Ncnpa
-v	Sl
-pristopnih	Agpnpl
-pogajanjih	Ncnpl
-z	Si
-Evropsko	Agpfsi
-unijo	Ncfsi
--	Z
-poglavje	Ncnsn
-pravica	Ncfsn
-,	Z
-svoboda	Ncfsn
-in	Cc
-varnost	Ncfsn
-,	Z
-poglavje	Ncnsn
-okolje	Ncnsn
-ter	Cc
-poglavje	Ncnsn
-zunanja	Agpfsn
-,	Z
-obrambna	Agpfsn
-in	Cc
-varnostna	Agpfsn
-politika	Ncfsn
-.	Z
-Po	Sl
-današnjem	Agpnsl
-zapiranju	Ncnsl
-treh	Mlcnpg
-poglavij	Ncnpg
-ima	Vmpr3s-n
-Hrvaška	Npfsn
-skupaj	Rgp
-zaprtih	Appfpg
-28	Mdc
-izmed	Sg
-35	Mdc
-pogajalskih	Agpfpg
-poglavij	Ncfpg
-.	Z
-Hrvaška	Agpfsn
-računa	Ncmsg
-,	Z
-da	Cs
-bo	Va-f3s-n
-pogajanja	Ncnpn
-končala	Vmep-sf
-v	Sl
-prvi	Mlofsl
-polovici	Ncfsl
-prihodnjega	Agpnsg
-leta	Ncnsg
-.	Z
-Zapreti	Vmen
-mora	Vmpr3s
-še	Q
-sedem	Mlc-pa
-poglavij	Ncfpg
-,	Z
-od	Sg
-tega	Pd-nsg
-se	Px------y
-o	Sl
-enem	Mlpmsl
-od	Sg
-njih	Pp3mpg
-ne	Q
-pogaja	Vmpr3s
-.	Z
-Med	Si
-preostalimi	Appfpi
-šestimi	Mlc-pi
-sta	Va-r3d-n
-najtežji	Agsmdn
-poglavji	Ncndn
-konkurenca	Ncfsn
-,	Z
-kamor	Cs
-sodi	Vmpr3s
-vprašanje	Ncnsn
-ladjedelnic	Ncfpg
-,	Z
-in	Cc
-pravosodje	Ncnsn
-,	Z
-ki	Cs
-velja	Vmpr3s
-za	Sa
-"	Z
-poglavje	Ncnsa
-vseh	Pg-fpg
-poglavij	Ncfpg
-"	Z
-.	Z
-Bivši	Agpmsny
-hrvaški	Agpmsny
-premier	Ncmsn
-Ivo	Npmsn
-Sanader	Npmsn
-je	Va-r3s-n
-danes	Rgp
-stopil	Vmep-sm
-pred	Sa
-preiskovalce	Ncmpa
-koroškega	Agpmsg
-parlamenta	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-najverjetneje	Rgs
-zaslišujejo	Vmpr3p
-glede	Sg
-banke	Ncfsg
-Hypo	Npmsn
-Alpe	Npmsn
--	Z
-Adria	Npfsn
-.	Z
-Preden	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-zaslišali	Vmep-pm
-,	Z
-je	Va-r3s-n
-izjavil	Vmep-sm
-da	Cs
-od	Sg
-Hypa	Npmsg
-ni	Va-r3s-y
-dobil	Vmep-sm
-niti	Q
-zahteval	Vmbp-sm
-nobenega	Pz-msg
-denarja	Ncmsg
-ter	Cc
-da	Cs
-je	Va-r3s-n
-njegova	Ps3fsnsm
-vest	Ncfsn
-čista	Agpfsn
-,	Z
-poroča	Vmpr3s
-Kleine	Npmsn
-Zeitung	Npmsn
-.	Z
-Bivšega	Agpmsg
-hrvaškega	Agpmsg
-premiera	Ncmsg
-o	Sl
-(	Z
-Ivo	Npmsn
-Sanaderja	Npmsg
-fizično	Rgp
-ni	Va-r3s-y
-na	Sl
-zaslišanju	Ncnsl
-,	Z
-poroča	Vmpr3s
-Novi	Agpmsny
-list	Ncmsn
-.	Z
-Koroški	Agpmpn
-parlamentarci	Ncmpn
-,	Z
-ki	Cs
-preučujejo	Vmpr3p
-primer	Ncmsan
-Hypo	Npfsg
-,	Z
-ga	Pp3msa--y
-bodo	Va-f3p-n
-zaslišali	Vmep-pm
-preko	Sg
-video	Ncmsn
-povezave	Ncfsg
-.	Z
-Sanader	Npmsn
-je	Va-r3s-n
-namreč	Cc
-še	Q
-vedno	Rgp
-v	Sl
-priporu	Ncmsl
-v	Sl
-avstrijskem	Agpnsl
-mestu	Ncnsl
-Salzburg	Npmsn
-,	Z
-kjer	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-tudi	Q
-aretirali	Vmbp-pm
-.	Z
-Hrvaška	Npfsn
-nima	Vmpr3s-y
-informacij	Ncfpg
-o	Sl
-preiskavi	Ncfsl
-proti	Sd
-Sanaderju	Npmsd
-v	Sl
-Avstriji	Npfsl
-Hrvaški	Agpmsny
-pravosodni	Agpmsny
-minister	Ncmsn
-Dražen	Npmsn
-Bošnjaković	Npmsn
-je	Va-r3s-n
-danes	Rgp
-dejal	Vmep-sm
-,	Z
-da	Cs
-na	Sl
-pravosodnem	Agpnsl
-ministrstvu	Ncnsl
-niso	Va-r3p-y
-dobili	Vmep-pm
-nobenega	Pz-nsg
-potrdila	Ncnsg
-,	Z
-da	Cs
-so	Va-r3p-n
-v	Sl
-Avstriji	Npfsl
-sprožili	Vmep-pm
-kakršen	Pq-msa
-koli	Q
-formalno	Agpnsa
--	Z
-pravni	Agpmsay
-postopek	Ncmsan
-proti	Sd
-bivšemu	Agpmsd
-premieru	Ncmsd
-Ivu	Npmsd
-Sanaderju	Npmsd
-.	Z
-Avstrijsko	Agpnsn
-državno	Agpnsn
-tožilstvo	Ncnsn
-je	Va-r3s-n
-namreč	Cc
-v	Sa
-torek	Ncmsan
-potrdilo	Vmep-sn
-,	Z
-da	Cs
-so	Va-r3p-n
-tožilci	Ncmpn
-v	Sl
-Innsbrucku	Npmsl
-sprožili	Vmep-pm
-preiskavo	Ncfsa
-na	Sl
-podlagi	Ncfsl
-prijave	Ncfsg
-o	Sl
-pranju	Ncnsl
-denarja	Ncmsg
-ene	Mlpfsg
-od	Sg
-tirolskih	Agpfpg
-bank	Ncfpg
-.	Z
-Hrvaški	Agpmsny
-pravosodni	Agpmsny
-minister	Ncmsn
-ni	Va-r3s-y
-želel	Vmpp-sm
-ugibati	Vmpn
-,	Z
-kaj	Pq-nsn
-se	Px------y
-bo	Va-f3s-n
-zgodilo	Vmep-sn
-,	Z
-temveč	Cc
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-počakali	Vmep-pm
-na	Sa
-27	Mdc
-.	Z
+token	tag	lemma
+Korupcijske	mte:Agpfpn	korupcijski
+afere	mte:Ncfpn	afera
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+dovolj	mte:Rgp	dovolj
+dober	mte:Agpmsan	dober
+razlog	mte:Ncmsan	razlog
+,	mte:Z	,
+da	mte:Cs	da
+Evropska	mte:Agpfsn	evropski
+unija	mte:Ncfsn	unija
+do	mte:Sg	do
+nadaljnjega	mte:Agpnsg	nadaljnji
+zaustavi	mte:Vmer3s	zaustaviti
+vstop	mte:Ncmsan	vstop
+Hrvaške	mte:Npfsg	Hrvaška
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+,	mte:Z	,
+piše	mte:Vmpr3s	pisati
+Financial	mte:Npmsn	Financial
+Times	mte:Npmsn	Times
+Hrvaški	mte:Agpmsny	hrvaški
+vstop	mte:Ncmsn	vstop
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+kljub	mte:Sd	kljub
+večini	mte:Ncfsd	večina
+zaprtih	mte:Appfpg	zaprt
+poglavij	mte:Ncfpg	poglavje
+ustaviti	mte:Vmen	ustaviti
+,	mte:Z	,
+dokler	mte:Cs	dokler
+se	mte:Px------y	se
+ne	mte:Q	ne
+razrešijo	mte:Vmer3p	razrešiti
+notranji	mte:Agpmpn	notranji
+problemi	mte:Ncmpn	problem
+s	mte:Si	z
+korupcijo	mte:Ncfsi	korupcija
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+Financial	mte:Npmsn	Financial
+Times	mte:Npmsn	Times
+.	mte:Z	.
+Kot	mte:Cs	kot
+argument	mte:Ncmsn	argument
+izpostavi	mte:Vmer3s	izpostaviti
+Romunijo	mte:Npfsa	Romunija
+in	mte:Cc	in
+Bolgarijo	mte:Npfsa	Bolgarija
+,	mte:Z	,
+ki	mte:Cs	ki
+po	mte:Sl	po
+vstopu	mte:Ncmsl	vstop
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+nista	mte:Va-r3d-y	biti
+pokazali	mte:Vmep-dm	pokazati
+napredka	mte:Ncmsg	napredek
+v	mte:Sl	v
+boju	mte:Ncmsl	boj
+proti	mte:Sd	proti
+korupciji	mte:Ncfsd	korupcija
+.	mte:Z	.
+Evropska	mte:Agpfsn	evropski
+Unija	mte:Ncfsn	unija
+ima	mte:Vmpr3s-n	imeti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+časnika	mte:Ncmsg	časnik
+namreč	mte:Cc	namreč
+več	mte:Rgc	več
+vpliva	mte:Ncmsg	vpliv
+na	mte:Sa	na
+države	mte:Ncfpa	država
+,	mte:Z	,
+preden	mte:Cs	preden
+te	mte:Pp2-sa--y	ti
+vstopijo	mte:Vmer3p	vstopiti
+v	mte:Sa	v
+unijo	mte:Ncfsa	unija
+.	mte:Z	.
+Posledično	mte:Rgp	posledično
+bi	mte:Va-c	biti
+EU	mte:Npfsn	EU
+morala	mte:Vmpp-sf	morati
+pred	mte:Si	pred
+polnopravnim	mte:Agpnsi	polnopraven
+članstvom	mte:Ncnsi	članstvo
+Hrvaške	mte:Npfsg	Hrvaška
+poskrbeti	mte:Vmen	poskrbeti
+,	mte:Z	,
+da	mte:Cs	da
+slednja	mte:Agpfsn	slednji
+opravi	mte:Vmer3s	opraviti
+s	mte:Si	z
+korupcijskimi	mte:Agpmpi	korupcijski
+škandali	mte:Ncmpi	škandala
+.	mte:Z	.
+Avstrijci	mte:Npmpi	Avstrijca
+zaslišujejo	mte:Vmpr3p	zasliševati
+Sanaderja	mte:Npmsay	Sanader
+Hrvaška	mte:Npfsn	hrvaški
+zaprla	mte:Vmep-sf	zapreti
+še	mte:Q	še
+tri	mte:Mlcnpa	trije
+pogajalska	mte:Agpnpa	pogajalski
+poglavja	mte:Ncnpa	poglavje
+z	mte:Si	z
+EU	mte:Npfsi	EU
+Hrvaška	mte:Npfsn	hrvaški
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+medvladni	mte:Agpfsl	medvladen
+konferenci	mte:Ncfsl	konferenca
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+zaprla	mte:Vmep-sf	zapreti
+še	mte:Q	še
+tri	mte:Mlcnpa	trije
+poglavja	mte:Ncnpa	poglavje
+v	mte:Sl	v
+pristopnih	mte:Agpnpl	pristopen
+pogajanjih	mte:Ncnpl	pogajanje
+z	mte:Si	z
+Evropsko	mte:Agpfsi	evropski
+unijo	mte:Ncfsi	unija
+-	mte:Z	-
+poglavje	mte:Ncnsn	poglavje
+pravica	mte:Ncfsn	pravica
+,	mte:Z	,
+svoboda	mte:Ncfsn	svoboda
+in	mte:Cc	in
+varnost	mte:Ncfsn	varnost
+,	mte:Z	,
+poglavje	mte:Ncnsn	poglavje
+okolje	mte:Ncnsn	okolje
+ter	mte:Cc	ter
+poglavje	mte:Ncnsn	poglavje
+zunanja	mte:Agpfsn	zunanji
+,	mte:Z	,
+obrambna	mte:Agpfsn	obramben
+in	mte:Cc	in
+varnostna	mte:Agpfsn	varnosten
+politika	mte:Ncfsn	politika
+.	mte:Z	.
+Po	mte:Sl	po
+današnjem	mte:Agpnsl	današnji
+zapiranju	mte:Ncnsl	zapiranje
+treh	mte:Mlcnpg	trije
+poglavij	mte:Ncnpg	poglavje
+ima	mte:Vmpr3s-n	imeti
+Hrvaška	mte:Npfsn	hrvaški
+skupaj	mte:Rgp	skupaj
+zaprtih	mte:Appfpg	zaprt
+28	mte:Mdc	28
+izmed	mte:Sg	izmed
+35	mte:Mdc	35
+pogajalskih	mte:Agpfpg	pogajalski
+poglavij	mte:Ncfpg	poglavje
+.	mte:Z	.
+Hrvaška	mte:Agpfsn	hrvaški
+računa	mte:Ncmsg	račun
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+pogajanja	mte:Ncnpn	pogajanje
+končala	mte:Vmep-sf	končati
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+polovici	mte:Ncfsl	polovica
+prihodnjega	mte:Agpnsg	prihodnji
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Zapreti	mte:Vmen	zapreti
+mora	mte:Vmpr3s	morati
+še	mte:Q	še
+sedem	mte:Mlc-pa	sedem
+poglavij	mte:Ncfpg	poglavje
+,	mte:Z	,
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+se	mte:Px------y	se
+o	mte:Sl	o
+enem	mte:Mlpmsl	en
+od	mte:Sg	od
+njih	mte:Pp3mpg	on
+ne	mte:Q	ne
+pogaja	mte:Vmpr3s	pogajati
+.	mte:Z	.
+Med	mte:Si	med
+preostalimi	mte:Appfpi	preostal
+šestimi	mte:Mlc-pi	šest
+sta	mte:Va-r3d-n	biti
+najtežji	mte:Agsmdn	nevek
+poglavji	mte:Ncndn	poglavje
+konkurenca	mte:Ncfsn	konkurenca
+,	mte:Z	,
+kamor	mte:Cs	kamor
+sodi	mte:Vmpr3s	soditi
+vprašanje	mte:Ncnsn	vprašanje
+ladjedelnic	mte:Ncfpg	ladjedelnica
+,	mte:Z	,
+in	mte:Cc	in
+pravosodje	mte:Ncnsn	pravosodje
+,	mte:Z	,
+ki	mte:Cs	ki
+velja	mte:Vmpr3s	veljati
+za	mte:Sa	za
+"	mte:Z	"
+poglavje	mte:Ncnsa	poglavje
+vseh	mte:Pg-fpg	ves
+poglavij	mte:Ncfpg	poglavje
+"	mte:Z	"
+.	mte:Z	.
+Bivši	mte:Agpmsny	bivši
+hrvaški	mte:Agpmsny	hrvaški
+premier	mte:Ncmsn	premier
+Ivo	mte:Npmsn	Ivo
+Sanader	mte:Npmsn	Sanader
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+stopil	mte:Vmep-sm	stopiti
+pred	mte:Sa	pred
+preiskovalce	mte:Ncmpa	preiskovalec
+koroškega	mte:Agpmsg	koroški
+parlamenta	mte:Ncmsg	parlament
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+najverjetneje	mte:Rgs	verjetno
+zaslišujejo	mte:Vmpr3p	zasliševati
+glede	mte:Sg	glede
+banke	mte:Ncfsg	banka
+Hypo	mte:Npmsn	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+.	mte:Z	.
+Preden	mte:Cs	preden
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+zaslišali	mte:Vmep-pm	zaslišati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+izjavil	mte:Vmep-sm	izjaviti
+da	mte:Cs	da
+od	mte:Sg	od
+Hypa	mte:Npmsg	Hypa
+ni	mte:Va-r3s-y	biti
+dobil	mte:Vmep-sm	dobiti
+niti	mte:Q	niti
+zahteval	mte:Vmbp-sm	zahtevati
+nobenega	mte:Pz-msg	noben
+denarja	mte:Ncmsg	denar
+ter	mte:Cc	ter
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+njegova	mte:Ps3fsnsm	njegov
+vest	mte:Ncfsn	vest
+čista	mte:Agpfsn	čist
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+Kleine	mte:Npmsn	Kleine
+Zeitung	mte:Npmsn	Zeitung
+.	mte:Z	.
+Bivšega	mte:Agpmsg	bivši
+hrvaškega	mte:Agpmsg	hrvaški
+premiera	mte:Ncmsg	premier
+o	mte:Sl	o
+(	mte:Z	(
+Ivo	mte:Npmsn	Ivo
+Sanaderja	mte:Npmsg	Sanader
+fizično	mte:Rgp	fizično
+ni	mte:Va-r3s-y	biti
+na	mte:Sl	na
+zaslišanju	mte:Ncnsl	zaslišanje
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+Novi	mte:Agpmsny	nov
+list	mte:Ncmsn	list
+.	mte:Z	.
+Koroški	mte:Agpmpn	koroški
+parlamentarci	mte:Ncmpn	parlamentarca
+,	mte:Z	,
+ki	mte:Cs	ki
+preučujejo	mte:Vmpr3p	preučevati
+primer	mte:Ncmsan	primer
+Hypo	mte:Npfsg	Hypo
+,	mte:Z	,
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+zaslišali	mte:Vmep-pm	zaslišati
+preko	mte:Sg	preko
+video	mte:Ncmsn	video
+povezave	mte:Ncfsg	povezava
+.	mte:Z	.
+Sanader	mte:Npmsn	Sanader
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+v	mte:Sl	v
+priporu	mte:Ncmsl	pripor
+v	mte:Sl	v
+avstrijskem	mte:Agpnsl	avstrijski
+mestu	mte:Ncnsl	mesto
+Salzburg	mte:Npmsn	Salzburg
+,	mte:Z	,
+kjer	mte:Cs	kjer
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+tudi	mte:Q	tudi
+aretirali	mte:Vmbp-pm	aretirati
+.	mte:Z	.
+Hrvaška	mte:Npfsn	hrvaški
+nima	mte:Vmpr3s-y	imeti
+informacij	mte:Ncfpg	informacija
+o	mte:Sl	o
+preiskavi	mte:Ncfsl	preiskava
+proti	mte:Sd	proti
+Sanaderju	mte:Npmsd	Sanader
+v	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+Hrvaški	mte:Agpmsny	hrvaški
+pravosodni	mte:Agpmsny	pravosoden
+minister	mte:Ncmsn	minister
+Dražen	mte:Npmsn	Dražen
+Bošnjaković	mte:Npmsn	Bošnjaković
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+na	mte:Sl	na
+pravosodnem	mte:Agpnsl	pravosoden
+ministrstvu	mte:Ncnsl	ministrstvo
+niso	mte:Va-r3p-y	biti
+dobili	mte:Vmep-pm	dobiti
+nobenega	mte:Pz-nsg	noben
+potrdila	mte:Ncnsg	potrdilo
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+sprožili	mte:Vmep-pm	sprožiti
+kakršen	mte:Pq-msa	kakršen
+koli	mte:Q	koli
+formalno	mte:Agpnsa	formalno
+-	mte:Z	-
+pravni	mte:Agpmsay	praven
+postopek	mte:Ncmsan	postopek
+proti	mte:Sd	proti
+bivšemu	mte:Agpmsd	bivši
+premieru	mte:Ncmsd	premier
+Ivu	mte:Npmsd	Iv
+Sanaderju	mte:Npmsd	Sanader
+.	mte:Z	.
+Avstrijsko	mte:Agpnsn	avstrijski
+državno	mte:Agpnsn	državen
+tožilstvo	mte:Ncnsn	tožilstvo
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+potrdilo	mte:Vmep-sn	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+tožilci	mte:Ncmpn	tožilec
+v	mte:Sl	v
+Innsbrucku	mte:Npmsl	Innsbruck
+sprožili	mte:Vmep-pm	sprožiti
+preiskavo	mte:Ncfsa	preiskava
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+prijave	mte:Ncfsg	prijava
+o	mte:Sl	o
+pranju	mte:Ncnsl	pranje
+denarja	mte:Ncmsg	denar
+ene	mte:Mlpfsg	en
+od	mte:Sg	od
+tirolskih	mte:Agpfpg	tirolski
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+Hrvaški	mte:Agpmsny	hrvaški
+pravosodni	mte:Agpmsny	pravosoden
+minister	mte:Ncmsn	minister
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+ugibati	mte:Vmpn	ugibati
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+temveč	mte:Cc	temveč
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+počakali	mte:Vmep-pm	počakati
+na	mte:Sa	na
+27	mte:Mdc	27
+.	mte:Z	.
+december	mte:Ncmsan	december
+,	mte:Z	,
+ko	mte:Cs	ko
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+Sanader	mte:Npmsn	Sanader
+pred	mte:Si	pred
+avstrijskim	mte:Agpmsi	avstrijski
+sodnikom	mte:Ncmsi	sodnik
+izrekel	mte:Vmep-sm	izreči
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+sprejel	mte:Vmep-sm	sprejeti
+izročitev	mte:Ncfsa	izročitev
+Hrvaški	mte:Npfsn	Hrvaška

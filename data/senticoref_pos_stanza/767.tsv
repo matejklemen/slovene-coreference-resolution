@@ -1,559 +1,591 @@
-token	tag
-Mura	Npfsn
-bo	Va-f3s-n
-dobila	Vmep-sf
-novo	Agpnsa
-vodstvo	Ncnsa
-.	Z
-S	Si
-četrtkom	Ncmsi
-bo	Va-f3s-n
-mandat	Ncmsn
-nastopil	Vmep-sm
-novi	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Starman	Npmsn
-.	Z
-Delavci	Ncmpn
-bodo	Va-f3p-n
-prekinili	Vmep-pm
-stavko	Ncfsa
-,	Z
-v	Sa
-sredo	Ncfsa
-pa	Cc
-bo	Va-f3s-n
-za	Sa
-zaposlene	Appmpa
-dela	Ncnpa
-prost	Agpmsan
-dan	Ncmsan
-.	Z
-Delavce	Ncmpa
-je	Va-r3s-n
-obiskal	Vmep-sm
-tudi	Q
-premier	Ncmsn
-Pahor	Npmsn
-.	Z
-Nadzorni	Agpmsny
-svet	Ncmsn
-Mure	Npfsg
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-seji	Ncfsl
-sklenil	Vmep-sm
-,	Z
-da	Cs
-v	Sa
-sredo	Ncfsa
-preneha	Vmer3s
-mandat	Ncmsn
-sedanji	Agpfsd
-upravi	Ncfsd
-Mure	Npfsg
-in	Cc
-prokuristu	Ncmsd
-družbe	Ncfsg
-Zdenku	Npmsd
-Podlesniku	Npmsd
-,	Z
-je	Va-r3s-n
-po	Sl
-seji	Ncfsl
-povedal	Vmep-sm
-prvi	Mlomsn
-mož	Ncmsn
-Soda	Npmsn
-Tomaž	Npmsn
-Kuntarič	Npmsn
-.	Z
-Na	Sa
-predlog	Ncmsan
-Soda	Npfsg
-bo	Va-f3s-n
-s	Si
-četrtkom	Ncmsi
-mandat	Ncmsn
-nastopil	Vmep-sm
-novi	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Mure	Npfsg
-Bojan	Npmsn
-Starman	Npmsn
-,	Z
-sicer	Q
-župan	Ncmsn
-občine	Ncfsg
-Žiri	Npfsn
-.	Z
-Nove	Agpmpa
-nadzornike	Ncmpa
-bo	Va-f3s-n
-Mura	Npfsn
-dobila	Vmep-sf
-po	Sl
-izredni	Agpfsl
-skupščini	Ncfsl
-čez	Sa
-približno	Rgp
-mesec	Ncmsan
-dni	Ncmpg
-.	Z
-Delavci	Ncmpn
-so	Va-r3p-n
-se	Px------y
-ob	Sl
-tem	Pd-nsl
-odločili	Vmep-pm
-za	Sa
-prekinitev	Ncfsa
-stavke	Ncfsg
-.	Z
-Murini	Aspmpn
-delavci	Ncmpn
-pravijo	Vmbr3p
-,	Z
-da	Cs
-so	Va-r3p-n
-se	Px------y
-uprli	Vmep-pm
-spontano	Rgp
-zaradi	Sg
-nakopičenega	Appmsg
-obupa	Ncmsg
-in	Cc
-plače	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-manjša	Agcfsn
-od	Sg
-minimalne	Agpfsg
-.	Z
-Danes	Rgp
-so	Va-r3p-n
-se	Px------y
-jim	Pp3mpd--y
-pridružili	Vmep-pm
-tudi	Q
-njihovi	Ps3mpnp
-kolegi	Ncmpn
-iz	Sg
-Ljutomera	Npmsg
-.	Z
-V	Sa
-sredo	Ncfsa
-je	Va-r3s-n
-za	Sa
-vse	Pg-mpa
-zaposlene	Appmpa
-v	Sl
-družbi	Ncfsl
-,	Z
-razen	Sg
-za	Sa
-zaposlene	Appmpa
-v	Sl
-Murinih	Aspfpl
-trgovinah	Ncfpl
-,	Z
-dela	Vmpr3s
-prost	Agpmsan
-dan	Ncmsnn
-.	Z
-Na	Sa
-čelo	Ncnsa
-Mure	Npfsg
-bo	Va-f3s-n
-zdaj	Rgp
-,	Z
-kot	Cs
-omenjeno	Appnsn
-,	Z
-prišel	Vmep-sm
-Starman	Npmsn
-,	Z
-ta	Pd-msn
-je	Va-r3s-n
-po	Sl
-besedah	Ncfpl
-Kuntariča	Npmsg
-na	Sa
-imenovanje	Ncnsa
-pristal	Vmep-sm
-,	Z
-seznanjen	Appmsnn
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-z	Si
-razmerami	Ncfpi
-v	Sl
-murskosoboški	Agpfsl
-družbi	Ncfsl
-.	Z
-Z	Si
-njim	Pp3msi
-je	Va-r3s-n
-po	Sl
-Kuntaričevih	Aspfpl
-besedah	Ncfpl
-tudi	Q
-dogovorjeno	Appnsn
-,	Z
-da	Cs
-za	Sa
-vse	Pg-fpa
-družbe	Ncfpa
-,	Z
-za	Sa
-katere	Pq-mpa
-obstajajo	Vmpr3p
-pogoji	Ncmpn
-,	Z
-v	Sl
-čim	Rgp
-krajšem	Agcmsl
-času	Ncmsl
-predlaga	Vmbr3s
-uvedbo	Ncfsa
-stečaja	Ncmsg
-.	Z
-Po	Sl
-uvedbi	Ncfsl
-stečaja	Ncmsg
-krovne	Agpfsg
-družbe	Ncfsg
-bo	Va-f3s-n
-Sod	Ncmsn
-na	Sl
-podlagi	Ncfsl
-sklepa	Ncmsg
-vlade	Ncfsg
-podprl	Vmep-sm
-ohranitev	Ncfsa
-proizvodnje	Ncfsg
-v	Sl
-družbi	Ncfsl
-Mura	Npfsn
-in	Cc
-partnerji	Ncmpn
-.	Z
-V	Sl
-slednji	Agpfsl
-po	Sl
-besedah	Ncfpl
-Kuntariča	Npmsg
-lahko	Rgp
-pričakuje	Vmpr3s
-delo	Ncnsa
-med	Si
-1000	Mdc
-in	Cc
-1100	Mdc
-zaposlenih	Appfpg
-.	Z
-Z	Si
-dnem	Ncmsi
-uvedbe	Ncfsg
-stečaja	Ncmsg
-bodo	Va-f3p-n
-zaposleni	Appmpn
-v	Sl
-Muri	Npfsl
-prešli	Vmep-pm
-na	Sa
-zavod	Ncmsan
-za	Sa
-zaposlovanje	Ncnsa
-.	Z
-Ker	Cs
-se	Px------y
-zavedamo	Vmpr1p
-,	Z
-da	Cs
-bo	Va-f3s-n
-od	Sg
-trenutka	Ncmsg
-uvedbe	Ncfsg
-stečaja	Ncmsg
-do	Sg
-prejemanja	Ncnsg
-prvih	Mlonpg
-nadomestil	Vmep-sm
-preteklo	Vmep-sn
-kar	Rgp
-nekaj	Rgp
-časa	Ncmsg
-,	Z
-je	Va-r3s-n
-v	Sl
-dogovoru	Ncmsl
-z	Si
-ministrstvom	Ncnsi
-za	Sa
-delo	Ncnsa
-in	Cc
-z	Si
-ministrstvom	Ncnsi
-za	Sa
-finance	Ncfpa
-dogovorjeno	Appnsn
-,	Z
-da	Cs
-se	Px------y
-v	Sl
-čim	Rgp
-krajšem	Agcmsl
-času	Ncmsl
-zagotovi	Vmer3s
-izredna	Agpfsn
-socialna	Agpfsn
-pomoč	Ncfsn
-v	Sl
-maksimalnih	Agpmpl
-zneskih	Ncmpl
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Kuntarič	Npmsn
-.	Z
-Pahor	Npmsn
-Treba	Rgp
-je	Va-r3s-n
-začeti	Vmen
-na	Sa
-novo	Agpnsa
-Pred	Sa
-zbrane	Appmpa
-delavce	Ncmpa
-je	Va-r3s-n
-stopil	Vmep-sm
-tudi	Q
-premier	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-razume	Vmbr3s
-njihovo	Ps3fsap
-stisko	Ncfsa
-.	Z
-Dejal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-sta	Va-r3d-n
-z	Si
-ministrom	Ncmsi
-za	Sa
-gospodarstvo	Ncnsa
-Matejem	Npmsi
-Lahovnikom	Npmsi
-v	Sa
-Mursko	Agpfsa
-Soboto	Ncfsa
-prispela	Vmep-dm
-predvsem	Q
-zato	Rgp
-,	Z
-da	Cs
-bi	Va-c
-v	Sl
-nastalih	Appfpl
-razmerah	Ncfpl
-pomagala	Vmbp-sf
-,	Z
-kolikor	Cs
-je	Va-r3s-n
-v	Sl
-moči	Ncfsl
-vlade	Ncfsg
-.	Z
-Storili	Vmep-pm
-bomo	Va-f1p-n
-vse	Pg-nsa
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-v	Sl
-naši	Ps1fslp
-moči	Ncfsl
-,	Z
-da	Cs
-bo	Va-f3s-n
-Mura	Npfsn
-imela	Vmpp-sf
-svojo	Px-fsa
-prihodnost	Ncfsa
-.	Z
-Treba	Rgp
-je	Va-r3s-n
-začeti	Vmen
-na	Sa
-novo	Agpnsa
-.	Z
-Prosim	Vmpr1s
-,	Z
-da	Cs
-sprejmete	Vmer2p
-današnje	Agpmpa
-sklepe	Ncmpa
-kot	Cs
-tiste	Pd-mpa
-,	Z
-za	Sa
-katere	Pq-mpa
-sodimo	Vmpr1p
-,	Z
-da	Cs
-so	Va-r3p-n
-najbolj	Rgs
-preudarno	Rgp
-sprejeti	Vmen
-in	Cc
-v	Sa
-korist	Ncfsa
-vseh	Pg-mpg
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Pahor	Npmsn
-in	Cc
-poudaril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-problem	Ncmsn
-Mure	Npfsg
-problem	Ncmsn
-vseh	Pg-mpg
-.	Z
-Delavci	Ncmpn
-bodo	Va-f3p-n
-prekinili	Vmep-pm
-stavko	Ncfsa
-.	Z
-Foto	Ncmsn
-Dare	Npmsn
-Čekeliš	Npmsn
-350	Mdc
-delavcev	Ncmpg
-prostovoljno	Rgp
-delalo	Vmpp-sn
-Pred	Si
-Muro	Npfsi
-je	Va-r3s-n
-bilo	Va-p-sn
-že	Q
-od	Sg
-jutra	Ncnsg
-napeto	Appnsn
-,	Z
-ko	Cs
-se	Px------y
-je	Va-r3s-n
-pred	Si
-tovarno	Ncfsi
-zbralo	Vmep-sn
-več	Rgc
-kot	Cs
-tisoč	Mlc-pa
-ljudi	Ncmpg
-.	Z
-Razmere	Ncfpn
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-še	Q
-posebej	Rgp
-zaostrile	Vmep-pf
-,	Z
-ko	Cs
-so	Va-r3p-n
-skozi	Sa
-vrata	Ncnpa
-stopili	Vmep-pm
-delavci	Ncmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-prostovoljno	Rgp
-delali	Vmpp-pm
-na	Sl
-naročilu	Ncnsl
-za	Sa
-nemški	Agpmsay
-Hugo	Npmsan
-Boss	Npmsnn
-.	Z
-S	Si
-tem	Pd-nsi
-so	Va-r3p-n
-želeli	Vmpp-pm
-sporočiti	Vmen
-,	Z
-da	Cs
-protesta	Ncmsg
-ne	Q
-podpirajo	Vmpr3p
-.	Z
-Protestnike	Ncmpa
-pa	Cc
-podpiramo	Vmpr1p
-pri	Sl
-osnovnih	Agpfpl
-zahtevah	Ncfpl
-po	Sl
-ohranitvi	Ncfsl
-čim	Rgp
-večjega	Agcnsg
-števila	Ncnsg
-zaposlenih	Appfpg
-in	Cc
-zagotovitvi	Ncfsg
-vseh	Pg-fpg
-pravic	Ncfpg
-,	Z
-ki	Cs
-jim	Pp3mpd--y
-pripadajo	Vmpr3p
-za	Sa
-tiste	Pd-mpa
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-po	Sl
-stečaju	Ncmsl
-ostali	Vmep-pm
-brez	Sg
-dela	Ncnsg
-.	Z
-Ne	Q
-podpiramo	Vmpr1p
-pa	Cc
-zahtev	Ncfpg
-po	Sl
-odstopu	Ncmsl
-prokurista	Ncmsg
-Zdenka	Npmsg
-Podlesnika	Npmsg
-in	Cc
-člana	Ncmsg
-uprave	Ncfsg
-Dušana	Npmsg
-Gomboca	Npmsg
-.	Z
+token	tag	lemma
+Mura	mte:Npfsn	Mura
+bo	mte:Va-f3s-n	biti
+dobila	mte:Vmep-sf	dobiti
+novo	mte:Agpnsa	nov
+vodstvo	mte:Ncnsa	vodstvo
+.	mte:Z	.
+S	mte:Si	z
+četrtkom	mte:Ncmsi	četrtek
+bo	mte:Va-f3s-n	biti
+mandat	mte:Ncmsn	mandat
+nastopil	mte:Vmep-sm	nastopiti
+novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Starman	mte:Npmsn	Starman
+.	mte:Z	.
+Delavci	mte:Ncmpn	delavec
+bodo	mte:Va-f3p-n	biti
+prekinili	mte:Vmep-pm	prekiniti
+stavko	mte:Ncfsa	stavka
+,	mte:Z	,
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+za	mte:Sa	za
+zaposlene	mte:Appmpa	zaposlen
+dela	mte:Ncnpa	delo
+prost	mte:Agpmsan	prost
+dan	mte:Ncmsan	dan
+.	mte:Z	.
+Delavce	mte:Ncmpa	delavec
+je	mte:Va-r3s-n	biti
+obiskal	mte:Vmep-sm	obiskati
+tudi	mte:Q	tudi
+premier	mte:Ncmsn	premier
+Pahor	mte:Npmsn	Pahor
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Mure	mte:Npfsg	Mura
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+seji	mte:Ncfsl	seja
+sklenil	mte:Vmep-sm	skleniti
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+preneha	mte:Vmer3s	prenehati
+mandat	mte:Ncmsn	mandat
+sedanji	mte:Agpfsd	sedanji
+upravi	mte:Ncfsd	uprava
+Mure	mte:Npfsg	Mura
+in	mte:Cc	in
+prokuristu	mte:Ncmsd	prokurist
+družbe	mte:Ncfsg	družba
+Zdenku	mte:Npmsd	Zdenko
+Podlesniku	mte:Npmsd	Podlesnik
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+seji	mte:Ncfsl	seja
+povedal	mte:Vmep-sm	povedati
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Soda	mte:Npmsn	Soda
+Tomaž	mte:Npmsn	Tomaž
+Kuntarič	mte:Npmsn	Kuntarič
+.	mte:Z	.
+Na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+Soda	mte:Npfsg	Soda
+bo	mte:Va-f3s-n	biti
+s	mte:Si	z
+četrtkom	mte:Ncmsi	četrtek
+mandat	mte:Ncmsn	mandat
+nastopil	mte:Vmep-sm	nastopiti
+novi	mte:Agpmsny	nov
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Mure	mte:Npfsg	Mura
+Bojan	mte:Npmsn	Bojan
+Starman	mte:Npmsn	Starman
+,	mte:Z	,
+sicer	mte:Q	sicer
+župan	mte:Ncmsn	župan
+občine	mte:Ncfsg	občina
+Žiri	mte:Npfsn	Žira
+.	mte:Z	.
+Nove	mte:Agpmpa	nov
+nadzornike	mte:Ncmpa	nadzornik
+bo	mte:Va-f3s-n	biti
+Mura	mte:Npfsn	Mura
+dobila	mte:Vmep-sf	dobiti
+po	mte:Sl	po
+izredni	mte:Agpfsl	izreden
+skupščini	mte:Ncfsl	skupščina
+čez	mte:Sa	čez
+približno	mte:Rgp	približno
+mesec	mte:Ncmsan	mesec
+dni	mte:Ncmpg	dan
+.	mte:Z	.
+Delavci	mte:Ncmpn	delavec
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+odločili	mte:Vmep-pm	odločiti
+za	mte:Sa	za
+prekinitev	mte:Ncfsa	prekinitev
+stavke	mte:Ncfsg	stavka
+.	mte:Z	.
+Murini	mte:Aspmpn	Murin
+delavci	mte:Ncmpn	delavec
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+uprli	mte:Vmep-pm	upreti
+spontano	mte:Rgp	spontano
+zaradi	mte:Sg	zaradi
+nakopičenega	mte:Appmsg	nakopičen
+obupa	mte:Ncmsg	obup
+in	mte:Cc	in
+plače	mte:Ncfsg	plača
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+manjša	mte:Agcfsn	majhen
+od	mte:Sg	od
+minimalne	mte:Agpfsg	minimalen
+.	mte:Z	.
+Danes	mte:Rgp	danes
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+pridružili	mte:Vmep-pm	pridružiti
+tudi	mte:Q	tudi
+njihovi	mte:Ps3mpnp	njihov
+kolegi	mte:Ncmpn	kolega
+iz	mte:Sg	iz
+Ljutomera	mte:Npmsg	Ljutomer
+.	mte:Z	.
+V	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+vse	mte:Pg-mpa	ves
+zaposlene	mte:Appmpa	zaposlen
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+,	mte:Z	,
+razen	mte:Sg	razen
+za	mte:Sa	za
+zaposlene	mte:Appmpa	zaposlen
+v	mte:Sl	v
+Murinih	mte:Aspfpl	Murin
+trgovinah	mte:Ncfpl	trgovina
+,	mte:Z	,
+dela	mte:Vmpr3s	delati
+prost	mte:Agpmsan	prost
+dan	mte:Ncmsnn	dan
+.	mte:Z	.
+Na	mte:Sa	na
+čelo	mte:Ncnsa	čelo
+Mure	mte:Npfsg	Mura
+bo	mte:Va-f3s-n	biti
+zdaj	mte:Rgp	zdaj
+,	mte:Z	,
+kot	mte:Cs	kot
+omenjeno	mte:Appnsn	omenjen
+,	mte:Z	,
+prišel	mte:Vmep-sm	priti
+Starman	mte:Npmsn	Starman
+,	mte:Z	,
+ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Kuntariča	mte:Npmsg	Kuntarič
+na	mte:Sa	na
+imenovanje	mte:Ncnsa	imenovanje
+pristal	mte:Vmep-sm	pristati
+,	mte:Z	,
+seznanjen	mte:Appmsnn	seznanjen
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+z	mte:Si	z
+razmerami	mte:Ncfpi	razmera
+v	mte:Sl	v
+murskosoboški	mte:Agpfsl	murskosoboški
+družbi	mte:Ncfsl	družba
+.	mte:Z	.
+Z	mte:Si	z
+njim	mte:Pp3msi	on
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+Kuntaričevih	mte:Aspfpl	Kuntaričev
+besedah	mte:Ncfpl	beseda
+tudi	mte:Q	tudi
+dogovorjeno	mte:Appnsn	dogovorjen
+,	mte:Z	,
+da	mte:Cs	da
+za	mte:Sa	za
+vse	mte:Pg-fpa	ves
+družbe	mte:Ncfpa	družba
+,	mte:Z	,
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+obstajajo	mte:Vmpr3p	obstajati
+pogoji	mte:Ncmpn	pogoj
+,	mte:Z	,
+v	mte:Sl	v
+čim	mte:Rgp	čim
+krajšem	mte:Agcmsl	kratek
+času	mte:Ncmsl	čas
+predlaga	mte:Vmbr3s	predlagati
+uvedbo	mte:Ncfsa	uvedba
+stečaja	mte:Ncmsg	stečaj
+.	mte:Z	.
+Po	mte:Sl	po
+uvedbi	mte:Ncfsl	uvedba
+stečaja	mte:Ncmsg	stečaj
+krovne	mte:Agpfsg	kroven
+družbe	mte:Ncfsg	družba
+bo	mte:Va-f3s-n	biti
+Sod	mte:Ncmsn	sod
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+sklepa	mte:Ncmsg	sklep
+vlade	mte:Ncfsg	vlada
+podprl	mte:Vmep-sm	podpreti
+ohranitev	mte:Ncfsa	ohranitev
+proizvodnje	mte:Ncfsg	proizvodnja
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+Mura	mte:Npfsn	Mura
+in	mte:Cc	in
+partnerji	mte:Ncmpn	partner
+.	mte:Z	.
+V	mte:Sl	v
+slednji	mte:Agpfsl	slednji
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Kuntariča	mte:Npmsg	Kuntarič
+lahko	mte:Rgp	lahko
+pričakuje	mte:Vmpr3s	pričakovati
+delo	mte:Ncnsa	delo
+med	mte:Si	med
+1000	mte:Mdc	1000
+in	mte:Cc	in
+1100	mte:Mdc	1100
+zaposlenih	mte:Appfpg	zaposlen
+.	mte:Z	.
+Z	mte:Si	z
+dnem	mte:Ncmsi	dan
+uvedbe	mte:Ncfsg	uvedba
+stečaja	mte:Ncmsg	stečaj
+bodo	mte:Va-f3p-n	biti
+zaposleni	mte:Appmpn	zaposlen
+v	mte:Sl	v
+Muri	mte:Npfsl	Muri
+prešli	mte:Vmep-pm	preiti
+na	mte:Sa	na
+zavod	mte:Ncmsan	zavod
+za	mte:Sa	za
+zaposlovanje	mte:Ncnsa	zaposlovanje
+.	mte:Z	.
+Ker	mte:Cs	ker
+se	mte:Px------y	se
+zavedamo	mte:Vmpr1p	zavedati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+od	mte:Sg	od
+trenutka	mte:Ncmsg	trenutek
+uvedbe	mte:Ncfsg	uvedba
+stečaja	mte:Ncmsg	stečaj
+do	mte:Sg	do
+prejemanja	mte:Ncnsg	prejemanje
+prvih	mte:Mlonpg	prvi
+nadomestil	mte:Vmep-sm	nadomestiti
+preteklo	mte:Vmep-sn	preteči
+kar	mte:Rgp	kar
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+dogovoru	mte:Ncmsl	dogovor
+z	mte:Si	z
+ministrstvom	mte:Ncnsi	ministrstvo
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+in	mte:Cc	in
+z	mte:Si	z
+ministrstvom	mte:Ncnsi	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+dogovorjeno	mte:Appnsn	dogovorjen
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+v	mte:Sl	v
+čim	mte:Rgp	čim
+krajšem	mte:Agcmsl	kratek
+času	mte:Ncmsl	čas
+zagotovi	mte:Vmer3s	zagotoviti
+izredna	mte:Agpfsn	izreden
+socialna	mte:Agpfsn	socialen
+pomoč	mte:Ncfsn	pomoč
+v	mte:Sl	v
+maksimalnih	mte:Agpmpl	maksimalen
+zneskih	mte:Ncmpl	znesek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Kuntarič	mte:Npmsn	Kuntarič
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+Treba	mte:Rgp	treba
+je	mte:Va-r3s-n	biti
+začeti	mte:Vmen	začeti
+na	mte:Sa	na
+novo	mte:Agpnsa	nov
+Pred	mte:Sa	pred
+zbrane	mte:Appmpa	zbran
+delavce	mte:Ncmpa	delavec
+je	mte:Va-r3s-n	biti
+stopil	mte:Vmep-sm	stopiti
+tudi	mte:Q	tudi
+premier	mte:Ncmsn	premier
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+razume	mte:Vmbr3s	razumeti
+njihovo	mte:Ps3fsap	njihov
+stisko	mte:Ncfsa	stiska
+.	mte:Z	.
+Dejal	mte:Vmep-sm	dejati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+z	mte:Si	z
+ministrom	mte:Ncmsi	minister
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+Matejem	mte:Npmsi	Matej
+Lahovnikom	mte:Npmsi	Lahovnik
+v	mte:Sa	v
+Mursko	mte:Agpfsa	murski
+Soboto	mte:Ncfsa	sobota
+prispela	mte:Vmep-dm	prispeti
+predvsem	mte:Q	predvsem
+zato	mte:Rgp	zato
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+v	mte:Sl	v
+nastalih	mte:Appfpl	nastal
+razmerah	mte:Ncfpl	razmera
+pomagala	mte:Vmbp-sf	pomagati
+,	mte:Z	,
+kolikor	mte:Cs	kolikor
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+moči	mte:Ncfsl	moč
+vlade	mte:Ncfsg	vlada
+.	mte:Z	.
+Storili	mte:Vmep-pm	storiti
+bomo	mte:Va-f1p-n	biti
+vse	mte:Pg-nsa	ves
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+naši	mte:Ps1fslp	naš
+moči	mte:Ncfsl	moč
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+Mura	mte:Npfsn	Mura
+imela	mte:Vmpp-sf	imeti
+svojo	mte:Px-fsa	svoj
+prihodnost	mte:Ncfsa	prihodnost
+.	mte:Z	.
+Treba	mte:Rgp	treba
+je	mte:Va-r3s-n	biti
+začeti	mte:Vmen	začeti
+na	mte:Sa	na
+novo	mte:Agpnsa	nov
+.	mte:Z	.
+Prosim	mte:Vmpr1s	prositi
+,	mte:Z	,
+da	mte:Cs	da
+sprejmete	mte:Vmer2p	sprejeti
+današnje	mte:Agpmpa	današnji
+sklepe	mte:Ncmpa	sklep
+kot	mte:Cs	kot
+tiste	mte:Pd-mpa	tisti
+,	mte:Z	,
+za	mte:Sa	za
+katere	mte:Pq-mpa	kateri
+sodimo	mte:Vmpr1p	soditi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+najbolj	mte:Rgs	najbolj
+preudarno	mte:Rgp	preudarno
+sprejeti	mte:Vmen	sprejeti
+in	mte:Cc	in
+v	mte:Sa	v
+korist	mte:Ncfsa	korist
+vseh	mte:Pg-mpg	ves
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+problem	mte:Ncmsn	problem
+Mure	mte:Npfsg	Mura
+problem	mte:Ncmsn	problem
+vseh	mte:Pg-mpg	ves
+.	mte:Z	.
+Delavci	mte:Ncmpn	delavec
+bodo	mte:Va-f3p-n	biti
+prekinili	mte:Vmep-pm	prekiniti
+stavko	mte:Ncfsa	stavka
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+Dare	mte:Npmsn	Dare
+Čekeliš	mte:Npmsn	Čekeliš
+350	mte:Mdc	350
+delavcev	mte:Ncmpg	delavec
+prostovoljno	mte:Rgp	prostovoljno
+delalo	mte:Vmpp-sn	delati
+Pred	mte:Si	pred
+Muro	mte:Npfsi	Mura
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+že	mte:Q	že
+od	mte:Sg	od
+jutra	mte:Ncnsg	jutro
+napeto	mte:Appnsn	napet
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+tovarno	mte:Ncfsi	tovarna
+zbralo	mte:Vmep-sn	zbrati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+tisoč	mte:Mlc-pa	tisoč
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+Razmere	mte:Ncfpn	razmera
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+zaostrile	mte:Vmep-pf	zaostriti
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+skozi	mte:Sa	skozi
+vrata	mte:Ncnpa	vrata
+stopili	mte:Vmep-pm	stopiti
+delavci	mte:Ncmpn	delavec
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+prostovoljno	mte:Rgp	prostovoljno
+delali	mte:Vmpp-pm	delati
+na	mte:Sl	na
+naročilu	mte:Ncnsl	naročilo
+za	mte:Sa	za
+nemški	mte:Agpmsay	nemški
+Hugo	mte:Npmsan	Hugo
+Boss	mte:Npmsn	Boss
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+so	mte:Va-r3p-n	biti
+želeli	mte:Vmpp-pm	želeti
+sporočiti	mte:Vmen	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+protesta	mte:Ncmsg	protest
+ne	mte:Q	ne
+podpirajo	mte:Vmpr3p	podpirati
+.	mte:Z	.
+Protestnike	mte:Ncmpa	protestnik
+pa	mte:Cc	pa
+podpiramo	mte:Vmpr1p	podpirati
+pri	mte:Sl	pri
+osnovnih	mte:Agpfpl	osnoven
+zahtevah	mte:Ncfpl	zahteva
+po	mte:Sl	po
+ohranitvi	mte:Ncfsl	ohranitev
+čim	mte:Rgp	čim
+večjega	mte:Agcnsg	velik
+števila	mte:Ncnsg	število
+zaposlenih	mte:Appfpg	zaposlen
+in	mte:Cc	in
+zagotovitvi	mte:Ncfsg	zagotovitev
+vseh	mte:Pg-fpg	ves
+pravic	mte:Ncfpg	pravica
+,	mte:Z	,
+ki	mte:Cs	ki
+jim	mte:Pp3mpd--y	on
+pripadajo	mte:Vmpr3p	pripadati
+za	mte:Sa	za
+tiste	mte:Pd-mpa	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+stečaju	mte:Ncmsl	stečaj
+ostali	mte:Vmep-pm	ostati
+brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+.	mte:Z	.
+Ne	mte:Q	ne
+podpiramo	mte:Vmpr1p	podpirati
+pa	mte:Cc	pa
+zahtev	mte:Ncfpg	zahteva
+po	mte:Sl	po
+odstopu	mte:Ncmsl	odstop
+prokurista	mte:Ncmsg	prokurist
+Zdenka	mte:Npmsg	Zdenka
+Podlesnika	mte:Npmsg	Podlesnik
+in	mte:Cc	in
+člana	mte:Ncmsg	član
+uprave	mte:Ncfsg	uprava
+Dušana	mte:Npmsg	Dušan
+Gomboca	mte:Npmsg	Gomboc
+.	mte:Z	.
+O	mte:Sl	o
+zahtevi	mte:Ncfsl	zahteva
+po	mte:Sl	po
+odstopu	mte:Ncmsl	odstop
+sindikalnega	mte:Agpmsg	sindikalen
+predsednika	mte:Ncmsg	predsednik
+Forjana	mte:Npmsg	Forjan
+pa	mte:Cc	pa
+se	mte:Px------y	se
+nismo	mte:Va-r1p-y	biti
+opredeljevali	mte:Vmpp-pm	opredeljevati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejala	mte:Vmep-sf	dejati
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+za	mte:Sa	za
+radio	mte:Ncmsan	radio
+Murski	mte:Agpmsny	murski
+val	mte:Ncmsn	val
+Vesna	mte:Npfsn	Vesna
+Pavel	mte:Npmsn	Pavel
+,	mte:Z	,
+podpredsednica	mte:Ncfsn	podpredsednica
+sveta	mte:Ncmsg	svet
+delavcev	mte:Ncmpg	delavec
+in	mte:Cc	in
+sindikalna	mte:Agpfsn	sindikalen
+poverjenica	mte:Ncfsn	poverjenica
+v	mte:Sl	v
+Mura	mte:Npfsn	Mura
+in	mte:Cc	in

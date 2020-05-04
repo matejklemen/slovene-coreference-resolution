@@ -1,532 +1,553 @@
-token	tag
-Stranke	Ncfpn
-vladne	Agpfpn
-koalicije	Ncfsg
-so	Va-r3p-n
-se	Px------y
-zbrale	Vmep-pf
-na	Sl
-zadnjem	Agpmsl
-sestanku	Ncmsl
-v	Sl
-aktualnem	Agpmsl
-mandatu	Ncmsl
-vlade	Ncfsg
-.	Z
-Janša	Npmsn
-:	Z
-"	Z
-Dosegli	Vmep-pm
-smo	Va-r1p-n
-80	Mdc
-odstotkov	Ncmpg
-ciljev	Ncmpg
-,	Z
-obiskali	Vmep-pm
-vso	Pg-fsa
-Slovenijo	Npfsa
-in	Cc
-opoziciji	Ncfsd
-ponudili	Vmep-pm
-roko	Ncfsa
-sodelovanja	Ncnsg
-.	Z
-"	Z
-"	Z
-Prvič	Rgp
-v	Sl
-zgodovini	Ncfsl
-samostojne	Agpfsg
-Slovenije	Npfsg
-se	Px------y
-je	Va-r3s-n
-primerilo	Vmep-sn
-,	Z
-da	Cs
-je	Va-r3s-n
-koalicija	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-sestavila	Vmep-sf
-vlado	Ncfsa
-,	Z
-svoj	Px-msa
-štiriletni	Agpmsay
-mandat	Ncmsan
-tudi	Q
-končala	Vmep-sf
-,	Z
-"	Z
-je	Va-r3s-n
-na	Sl
-sestanku	Ncmsl
-dejal	Vmep-sm
-premier	Ncmsn
-Janez	Npmsn
-Janša	Npmsn
-in	Cc
-razložil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-stabilen	Agpmsnn
-mandat	Ncmsn
-vladi	Ncfsd
-omogočil	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-ukvarjala	Vmpp-sf
-s	Si
-ključnimi	Agpnpi
-razvojnimi	Agpnpi
-vprašanji	Ncnpi
-in	Cc
-ne	Q
-s	Si
-političnimi	Agpfpi
-turbulencami	Ncfpi
-.	Z
-Med	Si
-projekti	Ncmpi
-,	Z
-ki	Cs
-nam	Pp1-pd
-jih	Pp3mpa--y
-ni	Va-r3s-y
-uspelo	Vmep-sn
-uresničiti	Vmen
-,	Z
-so	Va-r3p-n
-pokrajine	Ncfpn
-.	Z
-Načrtovali	Vmpp-pm
-smo	Va-r1p-n
-namreč	Cc
-hkratne	Agpfpa
-pokrajinske	Agpfpa
-in	Cc
-državnozborske	Agpfpa
-volitve	Ncfpa
-.	Z
-Janez	Npmsn
-Janša	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-mandat	Ncmsn
-te	Pd-fsg
-vlade	Ncfsg
-v	Sl
-efektivnem	Agpmsl
-smislu	Ncmsl
-ni	Va-r3s-y
-bil	Va-p-sm
-dolg	Agpmsnn
-kot	Cs
-običajni	Agpmsny
-mandat	Ncmsn
-,	Z
-saj	Cc
-je	Va-r3s-n
-Slovenija	Npfsn
-pol	Rgp
-leta	Ncnsg
-predsedovala	Vmpp-sf
-EU	Npfsa
-,	Z
-vendar	Cc
-je	Va-r3s-n
-vladi	Ncfsd
-kljub	Sd
-temu	Pd-nsd
-uspelo	Vmep-sn
-izpolniti	Vmen
-80	Mdc
-odstotkov	Ncmpg
-zavez	Ncfpg
-,	Z
-nekaj	Rgp
-jih	Pp3mpg--y
-bo	Va-f3s-n
-še	Q
-uresničenih	Appmpg
-,	Z
-samo	Q
-šest	Mlc-pa
-odstotkov	Ncmpg
-pa	Cc
-jih	Pp3mpa--y
-bo	Va-f3s-n
-ostalo	Vmep-sn
-neizpolnjenih	Agpmpg
-.	Z
-"	Z
-Od	Sg
-realiziranih	Appmpg
-ukrepov	Ncmpg
-je	Va-r3s-n
-59	Mdc
-odstotkov	Ncmpg
-takih	Pd-mpg
-,	Z
-ki	Cs
-smo	Va-r1p-n
-jih	Pp3mpa--y
-uveljavili	Vmep-pm
-v	Sl
-celoti	Ncfsl
-,	Z
-ostali	Appmpn
-pa	Cc
-so	Va-r3p-n
-takšne	Pd-fpn
-narave	Ncfpn
-,	Z
-da	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-mogoče	Agpnsn
-končati	Vmen
-šele	Q
-v	Sl
-prihodnjem	Agpmsl
-mandatu	Ncmsl
-,	Z
-"	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Janša	Npmsn
-.	Z
-Premier	Ncmsn
-je	Va-r3s-n
-izpostavil	Vmep-sm
-,	Z
-da	Cs
-sta	Va-r3d-n
-se	Px------y
-tako	Rgp
-zakonodajna	Agpmdn
-kot	Cs
-izvršilna	Agpfsn
-veja	Ncfsn
-oblasti	Ncfsg
-v	Sl
-prejšnjih	Agpnpl
-treh	Mlcnpl
-letih	Ncnpl
-in	Cc
-pol	Rgp
-ukvarjali	Vmpp-dm
-tudi	Q
-s	Si
-številnimi	Agpfpi
-drugimi	Mlpfpi
-nalogami	Ncfpi
-,	Z
-ki	Cs
-niso	Va-r3p-y
-bile	Va-p-pf
-predvidene	Appfpn
-v	Sl
-koalicijski	Agpfsl
-pogodbi	Ncfsl
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-posebej	Rgp
-izpostavil	Vmep-sm
-vodenje	Ncnsa
-EU	Npfsg
-.	Z
-Ta	Pd-fsn
-vlada	Ncfsn
-je	Va-r3s-n
-kot	Cs
-prva	Mlofsn
-obiskala	Vmep-sf
-dele	Ncmpa
-Slovenije	Npfsg
-.	Z
-Janez	Npmsn
-Janša	Npmsn
-Med	Si
-ključnimi	Agpmpi
-dosežki	Ncmpi
-koalicije	Ncfsg
-je	Va-r3s-n
-predsednik	Ncmsn
-SDS	Npfsg
-izpostavil	Vmep-sm
-povečanje	Ncnsa
-zaposlenosti	Ncfsg
-in	Cc
-zmanjšanje	Ncnsa
-nezaposlenosti	Ncfsg
-,	Z
-znižanje	Ncnsa
-javne	Agpfsg
-porabe	Ncfsg
-,	Z
-proračunski	Agpmsay
-presežek	Ncmsan
-,	Z
-zagotovitev	Ncfsa
-pogojev	Ncmpg
-za	Sa
-sprejem	Ncmsan
-evra	Ncmsg
-,	Z
-vstop	Ncmsan
-v	Sa
-schengensko	Agpnsa
-območje	Ncnsa
-,	Z
-povečanje	Ncnsa
-učinkovitosti	Ncfsg
-javne	Agpfsg
-porabe	Ncfsg
-,	Z
-dvig	Ncmsan
-plač	Ncfpg
-in	Cc
-pokojnin	Ncfpg
-,	Z
-vzpostavitev	Ncfsa
-mehanizmov	Ncmpg
-za	Sa
-varstvo	Ncnsa
-konkurence	Ncfsg
-,	Z
-podpis	Ncmsan
-socialnega	Agpmsg
-sporazuma	Ncmsg
-,	Z
-vzpostavitev	Ncfsa
-preglednega	Agpmsg
-sistema	Ncmsg
-plač	Ncfpg
-v	Sl
-javnem	Agpmsl
-sektorju	Ncmsl
-in	Cc
-obiske	Ncmpa
-vlade	Ncfsg
-v	Sl
-slovenskih	Agpfpl
-regijah	Ncfpl
-.	Z
-Nazadnje	Rgp
-je	Va-r3s-n
-poudaril	Vmep-sm
-pripravljenost	Ncfsa
-koalicije	Ncfsg
-,	Z
-da	Cs
-je	Va-r3s-n
-kot	Cs
-prva	Mlofsn
-koalicija	Ncfsn
-opoziciji	Ncfsd
-ponudila	Vmep-sf
-enakopravno	Agpnsa
-delovanje	Ncnsa
-pri	Sl
-sprejemanju	Ncnsl
-ključnih	Agpfpg
-rešitev	Ncfpg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-je	Va-r3s-n
-posebej	Rgp
-spomnil	Vmep-sm
-na	Sa
-Partnerstvo	Ncnsa
-za	Sa
-razvoj	Ncmsan
-.	Z
-Bajuk	Npmsn
-,	Z
-Podobnik	Npmsn
-in	Cc
-Erjavec	Npmsn
-zadovoljni	Agpmpn
-z	Si
-delom	Ncnsi
-koalicije	Ncfsg
-Predsednik	Ncmsn
-NSi	Npfsg
-in	Cc
-finančni	Agpmsny
-minister	Ncmsn
-Andrej	Npmsn
-Bajuk	Npmsn
-je	Va-r3s-n
-izrazil	Vmep-sm
-prepričanje	Ncnsa
-,	Z
-da	Cs
-je	Va-r3s-n
-koalicija	Ncfsn
-delo	Ncnsa
-opravila	Vmep-sf
-dobro	Agpnsa
-in	Cc
-učinkovito	Agpnsa
-.	Z
-Na	Sa
-to	Pd-nsa
-po	Sl
-njegovem	Ps3mslsm
-kažejo	Vmpr3p
-tudi	Q
-njeni	Ps3mpnsf
-dosežki	Ncmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-veliki	Agpmpn
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-posebej	Rgp
-izpostavil	Vmep-sm
-zmanjšanje	Ncnsa
-javne	Agpfsg
-porabe	Ncfsg
-in	Cc
-proračunski	Agpmsay
-presežek	Ncmsan
-.	Z
-Lažje	Rgc
-je	Va-r3s-n
-samo	Q
-opazovati	Vmpn
-in	Cc
-kritizirati	Vmpn
-,	Z
-kar	Pr-nsa
-zelo	Rgp
-intenzivno	Rgp
-v	Sl
-tem	Pd-msl
-trenutku	Ncmsl
-sicer	Q
-počne	Vmbr3s
-opozicija	Ncfsn
-.	Z
-Karl	Npmsn
-Erjavec	Npmsn
-,	Z
-DeSUS	Npmsn
-Podpredsednik	Npmsn
-SLS	Npmsn
-in	Cc
-minister	Ncmsn
-za	Sa
-okolje	Ncnsa
-Janez	Npmsn
-Podobnik	Npmsn
-je	Va-r3s-n
-koalicijo	Ncfsa
-na	Sa
-splošno	Rgp
-ocenil	Vmep-sm
-kot	Cs
-stabilno	Agpnsn
-.	Z
-Takšna	Pd-fsn
-stabilnost	Ncfsn
-je	Va-r3s-n
-po	Sl
-njegovem	Ps3nslsm
-dobra	Agpfsn
-za	Sa
-državo	Ncfsa
-,	Z
-gospodarstvo	Ncnsa
-in	Cc
-druge	Mlpmpa
-sisteme	Ncmpa
-,	Z
-saj	Cc
-si	Px---d--y
-ti	Pp2-pd--y
-"	Z
-želijo	Vmpr3p
-predvsem	Q
-predvidljivih	Agpmpg
-pogojev	Ncmpg
-za	Sa
-sodelovanje	Ncnsa
-"	Z
-.	Z
-Predsednik	Ncmsn
-DeSUS	Npmsn
-in	Cc
-obrambni	Agpmsny
-minister	Ncmsn
-Karl	Npmsn
-Erjavec	Npmsn
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-njegova	Ps3fsnsm
-stranka	Ncfsn
-po	Sl
-svojem	Px-msl
-programu	Ncmsl
-nekoliko	Rgp
-drugačna	Agpfsn
-od	Sg
-ostalih	Appfpg
-koalicijskih	Agpfpg
-strank	Ncfpg
-,	Z
-zato	Cc
-so	Va-r3p-n
-"	Z
-bile	Va-p-pf
-morda	Q
-kdaj	Rgp
-tudi	Q
-kakšne	Pq-fpn
-praske	Agpfpn
-"	Z
-.	Z
-Predsedniku	Ncmsd
-DeSUS	Npmsn
--	Z
-a	Cc
-se	Px------y
-to	Pd-nsn
-ne	Q
-zdi	Vmpr3s
-nič	Pz-nsn
-hudega	Agpnsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-"	Z
-kdor	Pr-msn
-dela	Vmpr3s
-,	Z
-dela	Vmpr3s
-tudi	Q
-napake	Ncfpa
-"	Z
-.	Z
+token	tag	lemma
+Stranke	mte:Ncfpn	stranka
+vladne	mte:Agpfpn	vladen
+koalicije	mte:Ncfsg	koalicija
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+zbrale	mte:Vmep-pf	zbrati
+na	mte:Sl	na
+zadnjem	mte:Agpmsl	zadnji
+sestanku	mte:Ncmsl	sestanek
+v	mte:Sl	v
+aktualnem	mte:Agpmsl	aktualen
+mandatu	mte:Ncmsl	mandat
+vlade	mte:Ncfsg	vlada
+.	mte:Z	.
+Janša	mte:Npmsn	Janša
+:	mte:Z	:
+"	mte:Z	"
+Dosegli	mte:Vmep-pm	doseči
+smo	mte:Va-r1p-n	biti
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+ciljev	mte:Ncmpg	cilj
+,	mte:Z	,
+obiskali	mte:Vmep-pm	obiskati
+vso	mte:Pg-fsa	ves
+Slovenijo	mte:Npfsa	Slovenija
+in	mte:Cc	in
+opoziciji	mte:Ncfsd	opozicija
+ponudili	mte:Vmep-pm	ponuditi
+roko	mte:Ncfsa	roka
+sodelovanja	mte:Ncnsg	sodelovanje
+.	mte:Z	.
+"	mte:Z	"
+"	mte:Z	"
+Prvič	mte:Rgp	prvič
+v	mte:Sl	v
+zgodovini	mte:Ncfsl	zgodovina
+samostojne	mte:Agpfsg	samostojen
+Slovenije	mte:Npfsg	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+primerilo	mte:Vmep-sn	primeriti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+koalicija	mte:Ncfsn	koalicija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sestavila	mte:Vmep-sf	sestaviti
+vlado	mte:Ncfsa	vlada
+,	mte:Z	,
+svoj	mte:Px-msa	svoj
+štiriletni	mte:Agpmsay	štirileten
+mandat	mte:Ncmsan	mandat
+tudi	mte:Q	tudi
+končala	mte:Vmep-sf	končati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+sestanku	mte:Ncmsl	sestanek
+dejal	mte:Vmep-sm	dejati
+premier	mte:Ncmsn	premier
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+in	mte:Cc	in
+razložil	mte:Vmep-sm	razložiti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+stabilen	mte:Agpmsnn	stabilen
+mandat	mte:Ncmsn	mandat
+vladi	mte:Ncfsd	vlada
+omogočil	mte:Vmep-sm	omogočiti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ukvarjala	mte:Vmpp-sf	ukvarjati
+s	mte:Si	z
+ključnimi	mte:Agpnpi	ključen
+razvojnimi	mte:Agpnpi	razvojen
+vprašanji	mte:Ncnpi	vprašanje
+in	mte:Cc	in
+ne	mte:Q	ne
+s	mte:Si	z
+političnimi	mte:Agpfpi	političen
+turbulencami	mte:Ncfpi	turbulenca
+.	mte:Z	.
+Med	mte:Si	med
+projekti	mte:Ncmpi	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+nam	mte:Pp1-pd	jaz
+jih	mte:Pp3mpa--y	on
+ni	mte:Va-r3s-y	biti
+uspelo	mte:Vmep-sn	uspeti
+uresničiti	mte:Vmen	uresničiti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pokrajine	mte:Ncfpn	pokrajina
+.	mte:Z	.
+Načrtovali	mte:Vmpp-pm	načrtovati
+smo	mte:Va-r1p-n	biti
+namreč	mte:Cc	namreč
+hkratne	mte:Agpfpa	hkraten
+pokrajinske	mte:Agpfpa	pokrajinski
+in	mte:Cc	in
+državnozborske	mte:Agpfpa	državnozborski
+volitve	mte:Ncfpa	volitev
+.	mte:Z	.
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+mandat	mte:Ncmsn	mandat
+te	mte:Pd-fsg	ta
+vlade	mte:Ncfsg	vlada
+v	mte:Sl	v
+efektivnem	mte:Agpmsl	efektiven
+smislu	mte:Ncmsl	smisel
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+dolg	mte:Agpmsnn	dolg
+kot	mte:Cs	kot
+običajni	mte:Agpmsny	običajen
+mandat	mte:Ncmsn	mandat
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+predsedovala	mte:Vmpp-sf	predsedovati
+EU	mte:Npfsa	EU
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+vladi	mte:Ncfsd	vlada
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+uspelo	mte:Vmep-sn	uspeti
+izpolniti	mte:Vmen	izpolniti
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+zavez	mte:Ncfpg	zaveza
+,	mte:Z	,
+nekaj	mte:Rgp	nekaj
+jih	mte:Pp3mpg--y	on
+bo	mte:Va-f3s-n	biti
+še	mte:Q	še
+uresničenih	mte:Appmpg	uresničen
+,	mte:Z	,
+samo	mte:Q	samo
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+ostalo	mte:Vmep-sn	ostati
+neizpolnjenih	mte:Agpmpg	neizpolnjen
+.	mte:Z	.
+"	mte:Z	"
+Od	mte:Sg	od
+realiziranih	mte:Appmpg	realiziran
+ukrepov	mte:Ncmpg	ukrep
+je	mte:Va-r3s-n	biti
+59	mte:Mdc	59
+odstotkov	mte:Ncmpg	odstotek
+takih	mte:Pd-mpg	tak
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+jih	mte:Pp3mpa--y	on
+uveljavili	mte:Vmep-pm	uveljaviti
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+,	mte:Z	,
+ostali	mte:Appmpn	ostal
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+takšne	mte:Pd-fpn	takšen
+narave	mte:Ncfpn	narava
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+končati	mte:Vmen	končati
+šele	mte:Q	šele
+v	mte:Sl	v
+prihodnjem	mte:Agpmsl	prihodnji
+mandatu	mte:Ncmsl	mandat
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Janša	mte:Npmsn	Janša
+.	mte:Z	.
+Premier	mte:Ncmsn	premier
+je	mte:Va-r3s-n	biti
+izpostavil	mte:Vmep-sm	izpostaviti
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+tako	mte:Rgp	tako
+zakonodajna	mte:Agpmdn	zakonodajen
+kot	mte:Cs	kot
+izvršilna	mte:Agpfsn	izvršilen
+veja	mte:Ncfsn	veja
+oblasti	mte:Ncfsg	oblast
+v	mte:Sl	v
+prejšnjih	mte:Agpnpl	prejšnji
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+in	mte:Cc	in
+pol	mte:Rgp	pol
+ukvarjali	mte:Vmpp-dm	ukvarjati
+tudi	mte:Q	tudi
+s	mte:Si	z
+številnimi	mte:Agpfpi	številen
+drugimi	mte:Mlpfpi	drug
+nalogami	mte:Ncfpi	naloga
+,	mte:Z	,
+ki	mte:Cs	ki
+niso	mte:Va-r3p-y	biti
+bile	mte:Va-p-pf	biti
+predvidene	mte:Appfpn	predviden
+v	mte:Sl	v
+koalicijski	mte:Agpfsl	koalicijski
+pogodbi	mte:Ncfsl	pogodba
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+posebej	mte:Rgp	posebej
+izpostavil	mte:Vmep-sm	izpostaviti
+vodenje	mte:Ncnsa	vodenje
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+prva	mte:Mlofsn	prvi
+obiskala	mte:Vmep-sf	obiskati
+dele	mte:Ncmpa	del
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+Med	mte:Si	med
+ključnimi	mte:Agpmpi	ključen
+dosežki	mte:Ncmpi	dosežek
+koalicije	mte:Ncfsg	koalicija
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+SDS	mte:Npfsg	SDS
+izpostavil	mte:Vmep-sm	izpostaviti
+povečanje	mte:Ncnsa	povečanje
+zaposlenosti	mte:Ncfsg	zaposlenost
+in	mte:Cc	in
+zmanjšanje	mte:Ncnsa	zmanjšanje
+nezaposlenosti	mte:Ncfsg	nezaposlenost
+,	mte:Z	,
+znižanje	mte:Ncnsa	znižanje
+javne	mte:Agpfsg	javen
+porabe	mte:Ncfsg	poraba
+,	mte:Z	,
+proračunski	mte:Agpmsay	proračunski
+presežek	mte:Ncmsan	presežek
+,	mte:Z	,
+zagotovitev	mte:Ncfsa	zagotovitev
+pogojev	mte:Ncmpg	pogoj
+za	mte:Sa	za
+sprejem	mte:Ncmsan	sprejem
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+vstop	mte:Ncmsan	vstop
+v	mte:Sa	v
+schengensko	mte:Agpnsa	schengenski
+območje	mte:Ncnsa	območje
+,	mte:Z	,
+povečanje	mte:Ncnsa	povečanje
+učinkovitosti	mte:Ncfsg	učinkovitost
+javne	mte:Agpfsg	javen
+porabe	mte:Ncfsg	poraba
+,	mte:Z	,
+dvig	mte:Ncmsan	dviga
+plač	mte:Ncfpg	plača
+in	mte:Cc	in
+pokojnin	mte:Ncfpg	pokojnina
+,	mte:Z	,
+vzpostavitev	mte:Ncfsa	vzpostavitev
+mehanizmov	mte:Ncmpg	mehanizem
+za	mte:Sa	za
+varstvo	mte:Ncnsa	varstvo
+konkurence	mte:Ncfsg	konkurenca
+,	mte:Z	,
+podpis	mte:Ncmsan	podpis
+socialnega	mte:Agpmsg	socialen
+sporazuma	mte:Ncmsg	sporazum
+,	mte:Z	,
+vzpostavitev	mte:Ncfsa	vzpostavitev
+preglednega	mte:Agpmsg	pregleden
+sistema	mte:Ncmsg	sistem
+plač	mte:Ncfpg	plača
+v	mte:Sl	v
+javnem	mte:Agpmsl	javen
+sektorju	mte:Ncmsl	sektor
+in	mte:Cc	in
+obiske	mte:Ncmpa	obiska
+vlade	mte:Ncfsg	vlada
+v	mte:Sl	v
+slovenskih	mte:Agpfpl	slovenski
+regijah	mte:Ncfpl	regija
+.	mte:Z	.
+Nazadnje	mte:Rgp	nazadnje
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+pripravljenost	mte:Ncfsa	pripravljenost
+koalicije	mte:Ncfsg	koalicija
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+prva	mte:Mlofsn	prvi
+koalicija	mte:Ncfsn	koalicija
+opoziciji	mte:Ncfsd	opozicija
+ponudila	mte:Vmep-sf	ponuditi
+enakopravno	mte:Agpnsa	enakopraven
+delovanje	mte:Ncnsa	delovanje
+pri	mte:Sl	pri
+sprejemanju	mte:Ncnsl	sprejemanje
+ključnih	mte:Agpfpg	ključen
+rešitev	mte:Ncfpg	rešitev
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+je	mte:Va-r3s-n	biti
+posebej	mte:Rgp	posebej
+spomnil	mte:Vmep-sm	spomniti
+na	mte:Sa	na
+Partnerstvo	mte:Ncnsa	partnerstvo
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+.	mte:Z	.
+Bajuk	mte:Npmsn	Bajuk
+,	mte:Z	,
+Podobnik	mte:Npmsn	Podobnik
+in	mte:Cc	in
+Erjavec	mte:Npmsn	Erjavec
+zadovoljni	mte:Agpmpn	zadovoljen
+z	mte:Si	z
+delom	mte:Ncnsi	delo
+koalicije	mte:Ncfsg	koalicija
+Predsednik	mte:Ncmsn	predsednik
+NSi	mte:Npfsg	NSi
+in	mte:Cc	in
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Andrej	mte:Npmsn	Andrej
+Bajuk	mte:Npmsn	Bajuk
+je	mte:Va-r3s-n	biti
+izrazil	mte:Vmep-sm	izraziti
+prepričanje	mte:Ncnsa	prepričanje
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+koalicija	mte:Ncfsn	koalicija
+delo	mte:Ncnsa	delo
+opravila	mte:Vmep-sf	opravilo
+dobro	mte:Agpnsa	dober
+in	mte:Cc	in
+učinkovito	mte:Agpnsa	učinkovit
+.	mte:Z	.
+Na	mte:Sa	na
+to	mte:Pd-nsa	ta
+po	mte:Sl	po
+njegovem	mte:Ps3mslsm	njegov
+kažejo	mte:Vmpr3p	kazati
+tudi	mte:Q	tudi
+njeni	mte:Ps3mpnsf	njen
+dosežki	mte:Ncmpn	dosežek
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+veliki	mte:Agpmpn	velik
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+posebej	mte:Rgp	posebej
+izpostavil	mte:Vmep-sm	izpostaviti
+zmanjšanje	mte:Ncnsa	zmanjšanje
+javne	mte:Agpfsg	javen
+porabe	mte:Ncfsg	poraba
+in	mte:Cc	in
+proračunski	mte:Agpmsay	proračunski
+presežek	mte:Ncmsan	presežek
+.	mte:Z	.
+Lažje	mte:Rgc	lahko
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+opazovati	mte:Vmpn	opazovati
+in	mte:Cc	in
+kritizirati	mte:Vmpn	kritizirati
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+zelo	mte:Rgp	zelo
+intenzivno	mte:Rgp	intenzivno
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+sicer	mte:Q	sicer
+počne	mte:Vmbr3s	početi
+opozicija	mte:Ncfsn	opozicija
+.	mte:Z	.
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+,	mte:Z	,
+DeSUS	mte:Npmsn	Desus
+Podpredsednik	mte:Npmsn	Podpredsednik
+SLS	mte:Npmsn	SLS
+in	mte:Cc	in
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+Janez	mte:Npmsn	Janez
+Podobnik	mte:Npmsn	Podobnik
+je	mte:Va-r3s-n	biti
+koalicijo	mte:Ncfsa	koalicija
+na	mte:Sa	na
+splošno	mte:Rgp	splošen
+ocenil	mte:Vmep-sm	oceniti
+kot	mte:Cs	kot
+stabilno	mte:Agpnsn	stabilen
+.	mte:Z	.
+Takšna	mte:Pd-fsn	takšen
+stabilnost	mte:Ncfsn	stabilnost
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+dobra	mte:Agpfsn	dober
+za	mte:Sa	za
+državo	mte:Ncfsa	država
+,	mte:Z	,
+gospodarstvo	mte:Ncnsa	gospodarstvo
+in	mte:Cc	in
+druge	mte:Mlpmpa	drug
+sisteme	mte:Ncmpa	sistem
+,	mte:Z	,
+saj	mte:Cc	saj
+si	mte:Px---d--y	se
+ti	mte:Pp2-pd--y	ti
+"	mte:Z	"
+želijo	mte:Vmpr3p	želeti
+predvsem	mte:Q	predvsem
+predvidljivih	mte:Agpmpg	predvidljiv
+pogojev	mte:Ncmpg	pogoj
+za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+"	mte:Z	"
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+DeSUS	mte:Npmsn	Desus
+in	mte:Cc	in
+obrambni	mte:Agpmsny	obramben
+minister	mte:Ncmsn	minister
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+njegova	mte:Ps3fsnsm	njegov
+stranka	mte:Ncfsn	stranka
+po	mte:Sl	po
+svojem	mte:Px-msl	svoj
+programu	mte:Ncmsl	program
+nekoliko	mte:Rgp	nekoliko
+drugačna	mte:Agpfsn	drugačen
+od	mte:Sg	od
+ostalih	mte:Appfpg	ostal
+koalicijskih	mte:Agpfpg	koalicijski
+strank	mte:Ncfpg	stranka
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+"	mte:Z	"
+bile	mte:Va-p-pf	biti
+morda	mte:Q	morda
+kdaj	mte:Rgp	kdaj
+tudi	mte:Q	tudi
+kakšne	mte:Pq-fpn	kakšen
+praske	mte:Agpfpn	praski
+"	mte:Z	"
+.	mte:Z	.
+Predsedniku	mte:Ncmsd	predsednik
+DeSUS	mte:Npmsn	Desus
+-	mte:Z	-
+a	mte:Cc	a
+se	mte:Px------y	se
+to	mte:Pd-nsn	ta
+ne	mte:Q	ne
+zdi	mte:Vmpr3s	zdeti
+nič	mte:Pz-nsn	nič
+hudega	mte:Agpnsg	hud
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+"	mte:Z	"
+kdor	mte:Pr-msn	kdor
+dela	mte:Vmpr3s	delati
+,	mte:Z	,
+dela	mte:Vmpr3s	delati
+tudi	mte:Q	tudi
+napake	mte:Ncfpa	napaka
+"	mte:Z	"
+.	mte:Z	.
+"	mte:Z	"
+Lažje	mte:Rgc	lahko
+je	mte:Va-r3s-n	biti
+samo	mte:Q	samo
+opazovati	mte:Vmpn	opazovati
+in	mte:Cc	in
+kritizirati	mte:Vmpn	kritizirati
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+zelo	mte:Rgp	zelo
+intenzivno	mte:Rgp	intenzivno
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+sicer	mte:Q	sicer
+počne	mte:Vmbr3s	početi
+opozicija	mte:Ncfsn	opozicija
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati

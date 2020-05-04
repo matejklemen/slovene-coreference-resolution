@@ -1,499 +1,532 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-"	Z
-Slovenija	Npfsn
-uvedbo	Ncfsa
-evropskega	Agpmsg
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-načelno	Rgp
-podpira	Vmpr3s
-,	Z
-četudi	Cs
-ga	Pp3msa--y
-ne	Q
-bo	Va-f3s-n
-mogoče	Agpnsn
-uvesti	Vmen
-v	Sl
-celotni	Agpfsl
-EU	Npfsl
-,	Z
-"	Z
-je	Va-r3s-n
-včeraj	Rgp
-pred	Si
-srečanjem	Ncnsi
-finančnih	Agpmpg
-ministrov	Ncmpg
-v	Sl
-Luksemburgu	Npmsl
-dejal	Vmep-sm
-slovenski	Agpmsny
-minister	Ncmsn
-za	Sa
-finance	Ncfpa
-Janez	Npmsn
-Šušteršič	Npmsn
-.	Z
-In	Cc
-očitno	Rgp
-ga	Pp3msa--y
-na	Sl
-ravni	Ncfsl
-EU	Npfsg
-tudi	Q
-ne	Q
-bo	Va-f3s-n
-mogoče	Agpnsn
-uvesti	Vmen
-,	Z
-saj	Cc
-se	Px------y
-ob	Sl
-nasprotovanju	Ncnsl
-večine	Ncfsg
-z	Si
-njim	Pp3msi
-spogleduje	Vmpr3s
-le	Q
-devet	Mlc-pa
-članic	Ncfpg
-EU	Npfsg
-.	Z
-Še	Q
-pred	Si
-nekaj	Rgp
-tedni	Ncmpi
-glavni	Agpfsd
-nasprotnici	Ncfsd
-Nemčija	Npfsn
-in	Cc
-Francija	Npmsn
-sta	Va-r3d-n
-včeraj	Rgp
-s	Si
-skupnimi	Agpfpi
-močmi	Ncfpi
-želeli	Vmpp-pm
-prepričati	Vmen
-finančne	Agpmpa
-ministre	Ncmpa
-EU	Npfsg
-o	Sl
-uvedbi	Ncfsl
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-,	Z
-a	Cc
-brez	Sg
-uspeha	Ncmsg
-.	Z
-"	Z
-Menimo	Vmpr1p
-,	Z
-da	Cs
-bi	Va-c
-bila	Va-p-sf
-uvedba	Ncfsn
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-za	Sa
-nas	Pp1-pa
-zelo	Rgp
-škodljiva	Agpfsn
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-nizozemski	Agpmsny
-finančni	Agpmsny
-minister	Ncmsn
-Jan	Npmsn
-Kees	Npmsn
-De	Xf
-Jager	Npmsn
-,	Z
-njegov	Ps3msnsm
-švedski	Agpmsny
-kolega	Ncmsn
-Andres	Npmsn
-Borg	Npmsn
-pa	Cc
-je	Va-r3s-n
-menil	Vmpp-sm
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-lahko	Rgp
-za	Sa
-kompromis	Ncmsan
-vsi	Pg-mpn
-bolj	Rgc
-potrudili	Vmep-pm
-,	Z
-a	Cc
-je	Va-r3s-n
-trenutni	Agpmsny
-predlog	Ncmsn
-po	Sl
-njegovi	Ps3fslsm
-oceni	Ncfsl
-za	Sa
-Švedsko	Npfsa
-nesprejemljiv	Agpmsnn
-.	Z
-Devet	Mlc-pa
-držav	Ncfpg
-,	Z
-med	Si
-katerimi	Pq-mpi
-so	Va-r3p-n
-Nemčija	Npfsn
-,	Z
-Francija	Npfsn
-,	Z
-Avstrija	Npfsn
-in	Cc
-verjetno	Rgp
-tudi	Q
-Slovenija	Npfsn
-,	Z
-bo	Va-f3s-n
-tako	Rgp
-na	Sa
-lastno	Agpfsa
-pest	Ncfsa
-poskušalo	Vmpp-sn
-uvesti	Vmen
-davek	Ncmsan
-.	Z
-Vendar	Cc
-bodo	Va-f3p-n
-morale	Vmpp-pf
-prej	Rgc
-prepričati	Vmen
-vse	Pg-mpa
-ostale	Appmpa
-,	Z
-da	Cs
-njegova	Ps3fsnsm
-uvedba	Ncfsn
-ne	Q
-bo	Va-f3s-n
-škodovala	Vmbp-sf
-njihovim	Ps3mpdp
-finančnim	Agpmpd
-sistemom	Ncmpd
-.	Z
-Ob	Sl
-večini	Ncfsl
-držav	Ncfpg
-EU	Npfsg
-morebitni	Agpfsd
-uvedbi	Ncfsd
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-nasprotujejo	Vmpr3p
-tudi	Q
-v	Sl
-Združenju	Ncnsl
-bank	Ncfpg
-Slovenije	Npfsg
-(	Z
-ZBS	Npmsn
-)	Z
-.	Z
-Odhodki	Ncmpn
-bank	Ncfpg
-bi	Va-c
-namreč	Cc
-v	Sl
-primerjavi	Ncfsl
-z	Si
-lani	Rgp
-uvedenim	Appmsi
-davkom	Ncmsi
-na	Sa
-bilančno	Agpfsa
-vsoto	Ncfsa
-,	Z
-prek	Sg
-katerega	Pq-msg
-so	Va-r3p-n
-banke	Ncfpn
-v	Sa
-proračun	Ncmsan
-vrnile	Vmep-pf
-okoli	Rgp
-sedem	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-močno	Rgp
-narasli	Vmep-pm
-.	Z
-Po	Sl
-oceni	Ncfsl
-Abanke	Ncfsg
-Vipe	Npfsg
-bi	Va-c
-davek	Ncmsan
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-samo	Q
-v	Sl
-letu	Ncnsl
-2010	Mdc
-predstavljal	Vmpp-sm
-okoli	Rgp
-2,7	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-višje	Agcmpa
-odhodke	Ncmpa
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-morala	Vmpp-sf
-banka	Ncfsn
-lani	Rgp
-plačati	Vmen
-"	Z
-le	Q
-"	Z
-37.000	Mdc
-evrov	Ncmpg
-davka	Ncmsg
-na	Sa
-bilančno	Agpfsa
-vsoto	Ncfsa
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-vsota	Ncfsn
-,	Z
-ki	Cs
-poslovanja	Ncnsg
-bank	Ncfpg
-ne	Q
-otežuje	Vmpr3s
-,	Z
-medtem	Rgp
-ko	Cs
-"	Z
-prve	Mlofsg
-ocene	Ncfsg
-in	Cc
-preračuni	Ncfpg
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-kažejo	Vmpr3p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-zneski	Ncmpn
-po	Sl
-bankah	Ncfpl
-in	Cc
-po	Sl
-obdobjih	Ncnpl
-precej	Rgp
-različni	Agpmpn
-in	Cc
-za	Sa
-poslovanje	Ncnsa
-bank	Ncfpg
-ne	Q
-bodo	Va-f3p-n
-nepomembni	Agpmpn
-"	Z
-,	Z
-poudarjajo	Vmpr3p
-v	Sl
-Gorenjski	Agpfsl
-banki	Ncfsl
-.	Z
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-finance	Ncfpa
-medtem	Rgp
-molčijo	Vmpr3p
-.	Z
-Sicer	Q
-priznavajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-osnutek	Ncmsn
-zakona	Ncmsg
-o	Sl
-finančnih	Agpfpl
-transakcijah	Ncfpl
-pripravljen	Appmsnn
-,	Z
-vendar	Cc
-ga	Pp3msa--y
-bodo	Va-f3p-n
-javnosti	Ncfpn
-predstavili	Vmep-pm
-šele	Q
-,	Z
-ko	Cs
-bo	Va-f3s-n
-zrel	Agpmsnn
-za	Sa
-to	Pd-nsa
-.	Z
-Nekaj	Rgp
-podrobnosti	Ncfpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-Šušteršič	Npmsn
-predstavil	Vmep-sm
-na	Sl
-Bančni	Agpfsl
-konferenci	Ncfsl
-v	Sl
-Portorožu	Npmsl
-,	Z
-pa	Cc
-je	Va-r3s-n
-vendarle	Cc
-znanih	Appmpg
-.	Z
-Davek	Ncmsn
-predvideva	Vmpr3s
-zelo	Rgp
-široko	Agpfsa
-davčno	Agpfsa
-osnovo	Ncfsa
-ter	Cc
-relativno	Agpfsa
-nizko	Agpfsa
-davčno	Agpfsa
-stopnjo	Ncfsa
-v	Sl
-višini	Ncfsl
-0,01	Mdc
-odstotka	Ncmsg
-posamezne	Agpfsg
-transakcije	Ncfsg
-.	Z
-Predmet	Ncmsn
-obdavčitve	Ncfsg
-pri	Sl
-tem	Pd-nsl
-ne	Q
-bodo	Va-f3p-n
-vse	Pg-fpn
-transakcije	Ncfpn
-.	Z
-Izvzete	Appfpn
-naj	Q
-bi	Va-c
-bile	Va-p-pf
-transakcije	Ncfpn
-primarnega	Agpmsg
-trga	Ncmsg
-in	Cc
-z	Si
-valutami	Ncfpi
-,	Z
-krediti	Ncmpi
-gospodinjstvom	Ncnsi
-,	Z
-zavarovalne	Agpfsg
-pogodbe	Ncfsg
-ter	Cc
-transakcije	Ncfpg
-z	Si
-Evropsko	Agpfsi
-centralno	Agpfsi
-banko	Ncfsi
-(	Z
-ECB	Npmsn
-)	Z
-.	Z
-Minister	Ncmsn
-je	Va-r3s-n
-ob	Sl
-tem	Pd-nsl
-dejal	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-uvedba	Ncfsn
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-verjetno	Rgp
-pomenila	Vmbp-sf
-ukinitev	Ncfsa
-davka	Ncmsg
-na	Sa
-bilančno	Agpfsa
-vsoto	Ncfsa
-.	Z
-"	Z
-Uvedba	Ncfsn
-davka	Ncmsg
-na	Sa
-finančne	Agpfpa
-transakcije	Ncfpa
-bi	Va-c
-brez	Sg
-dvoma	Ncmsg
-negativno	Rgp
-vplivala	Vmpp-sf
-na	Sa
-celoten	Agpmsan
-finančni	Agpmsay
-sektor	Ncmsan
-,	Z
-"	Z
-ocenjujejo	Vmpr3p
-v	Sl
-ZBS	Npmsl
-,	Z
-kjer	Cs
-opozarjajo	Vmpr3p
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-konkurenčni	Agpmsny
-položaj	Ncmsn
-bank	Ncfpg
-,	Z
-ki	Cs
-se	Px------y
-spopadajo	Vmpr3p
-s	Si
-povečanimi	Appfpi
-kapitalskimi	Agpfpi
-zahtevami	Ncfpi
-,	Z
-s	Si
-tem	Pd-nsi
-občutno	Rgp
-poslabšal	Vmep-sm
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+"	mte:Z	"
+Slovenija	mte:Npfsn	Slovenija
+uvedbo	mte:Ncfsa	uvedba
+evropskega	mte:Agpmsg	evropski
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+načelno	mte:Rgp	načelno
+podpira	mte:Vmpr3s	podpirati
+,	mte:Z	,
+četudi	mte:Cs	četudi
+ga	mte:Pp3msa--y	on
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+uvesti	mte:Vmen	uvesti
+v	mte:Sl	v
+celotni	mte:Agpfsl	celoten
+EU	mte:Npfsl	EU
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+pred	mte:Si	pred
+srečanjem	mte:Ncnsi	srečanje
+finančnih	mte:Agpmpg	finančen
+ministrov	mte:Ncmpg	minister
+v	mte:Sl	v
+Luksemburgu	mte:Npmsl	Luksemburg
+dejal	mte:Vmep-sm	dejati
+slovenski	mte:Agpmsny	slovenski
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Janez	mte:Npmsn	Janez
+Šušteršič	mte:Npmsn	Šušteršič
+.	mte:Z	.
+In	mte:Cc	in
+očitno	mte:Rgp	očitno
+ga	mte:Pp3msa--y	on
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+EU	mte:Npfsg	EU
+tudi	mte:Q	tudi
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+uvesti	mte:Vmen	uvesti
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+ob	mte:Sl	ob
+nasprotovanju	mte:Ncnsl	nasprotovanje
+večine	mte:Ncfsg	večina
+z	mte:Si	z
+njim	mte:Pp3msi	on
+spogleduje	mte:Vmpr3s	spogledovati
+le	mte:Q	le
+devet	mte:Mlc-pa	devet
+članic	mte:Ncfpg	članica
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Še	mte:Q	še
+pred	mte:Si	pred
+nekaj	mte:Rgp	nekaj
+tedni	mte:Ncmpi	teden
+glavni	mte:Agpfsd	glaven
+nasprotnici	mte:Ncfsd	nasprotnica
+Nemčija	mte:Npfsn	Nemčija
+in	mte:Cc	in
+Francija	mte:Npmsn	Francija
+sta	mte:Va-r3d-n	biti
+včeraj	mte:Rgp	včeraj
+s	mte:Si	z
+skupnimi	mte:Agpfpi	skupen
+močmi	mte:Ncfpi	moč
+želeli	mte:Vmpp-pm	želeti
+prepričati	mte:Vmen	prepričati
+finančne	mte:Agpmpa	finančen
+ministre	mte:Ncmpa	minister
+EU	mte:Npfsg	EU
+o	mte:Sl	o
+uvedbi	mte:Ncfsl	uvedba
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+,	mte:Z	,
+a	mte:Cc	a
+brez	mte:Sg	brez
+uspeha	mte:Ncmsg	uspeh
+.	mte:Z	.
+"	mte:Z	"
+Menimo	mte:Vmpr1p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+uvedba	mte:Ncfsn	uvedba
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+za	mte:Sa	za
+nas	mte:Pp1-pa	jaz
+zelo	mte:Rgp	zelo
+škodljiva	mte:Agpfsn	škodljiv
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+nizozemski	mte:Agpmsny	nizozemski
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Jan	mte:Npmsn	Jan
+Kees	mte:Npmsn	Kees
+De	mte:Xf	de
+Jager	mte:Npmsn	Jager
+,	mte:Z	,
+njegov	mte:Ps3msnsm	njegov
+švedski	mte:Agpmsny	švedski
+kolega	mte:Ncmsn	kolega
+Andres	mte:Npmsn	Andres
+Borg	mte:Npmsn	Borg
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+menil	mte:Vmpp-sm	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+za	mte:Sa	za
+kompromis	mte:Ncmsan	kompromis
+vsi	mte:Pg-mpn	ves
+bolj	mte:Rgc	bolj
+potrudili	mte:Vmep-pm	potruditi
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+trenutni	mte:Agpmsny	trenuten
+predlog	mte:Ncmsn	predlog
+po	mte:Sl	po
+njegovi	mte:Ps3fslsm	njegov
+oceni	mte:Ncfsl	ocena
+za	mte:Sa	za
+Švedsko	mte:Npfsa	Švedska
+nesprejemljiv	mte:Agpmsnn	nesprejemljiv
+.	mte:Z	.
+Devet	mte:Mlc-pa	devet
+držav	mte:Ncfpg	država
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+so	mte:Va-r3p-n	biti
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Francija	mte:Npfsn	Francija
+,	mte:Z	,
+Avstrija	mte:Npfsn	Avstrija
+in	mte:Cc	in
+verjetno	mte:Rgp	verjetno
+tudi	mte:Q	tudi
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+na	mte:Sa	na
+lastno	mte:Agpfsa	lasten
+pest	mte:Ncfsa	pest
+poskušalo	mte:Vmpp-sn	poskušati
+uvesti	mte:Vmen	uvesti
+davek	mte:Ncmsan	davek
+.	mte:Z	.
+Vendar	mte:Cc	vendar
+bodo	mte:Va-f3p-n	biti
+morale	mte:Vmpp-pf	morati
+prej	mte:Rgc	prej
+prepričati	mte:Vmen	prepričati
+vse	mte:Pg-mpa	ves
+ostale	mte:Appmpa	ostal
+,	mte:Z	,
+da	mte:Cs	da
+njegova	mte:Ps3fsnsm	njegov
+uvedba	mte:Ncfsn	uvedba
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+škodovala	mte:Vmbp-sf	škodovati
+njihovim	mte:Ps3mpdp	njihov
+finančnim	mte:Agpmpd	finančen
+sistemom	mte:Ncmpd	sistem
+.	mte:Z	.
+Ob	mte:Sl	ob
+večini	mte:Ncfsl	večina
+držav	mte:Ncfpg	država
+EU	mte:Npfsg	EU
+morebitni	mte:Agpfsd	morebiten
+uvedbi	mte:Ncfsd	uvedba
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+nasprotujejo	mte:Vmpr3p	nasprotovati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Združenju	mte:Ncnsl	združenje
+bank	mte:Ncfpg	banka
+Slovenije	mte:Npfsg	Slovenija
+(	mte:Z	(
+ZBS	mte:Npmsn	ZBS
+)	mte:Z	)
+.	mte:Z	.
+Odhodki	mte:Ncmpn	odhodek
+bank	mte:Ncfpg	banka
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+lani	mte:Rgp	lani
+uvedenim	mte:Appmsi	uveden
+davkom	mte:Ncmsi	davek
+na	mte:Sa	na
+bilančno	mte:Agpfsa	bilančen
+vsoto	mte:Ncfsa	vsota
+,	mte:Z	,
+prek	mte:Sg	prek
+katerega	mte:Pq-msg	kateri
+so	mte:Va-r3p-n	biti
+banke	mte:Ncfpn	banka
+v	mte:Sa	v
+proračun	mte:Ncmsan	proračun
+vrnile	mte:Vmep-pf	vrniti
+okoli	mte:Rgp	okoli
+sedem	mte:Mlc-pa	sedem
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+močno	mte:Rgp	močno
+narasli	mte:Vmep-pm	narasti
+.	mte:Z	.
+Po	mte:Sl	po
+oceni	mte:Ncfsl	ocena
+Abanke	mte:Ncfsg	abanka
+Vipe	mte:Npfsg	Vipe
+bi	mte:Va-c	biti
+davek	mte:Ncmsan	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+samo	mte:Q	samo
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2010	mte:Mdc	2010
+predstavljal	mte:Vmpp-sm	predstavljati
+okoli	mte:Rgp	okoli
+2,7	mte:Mdc	2,7
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+višje	mte:Agcmpa	visok
+odhodke	mte:Ncmpa	odhodek
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+morala	mte:Vmpp-sf	morati
+banka	mte:Ncfsn	banka
+lani	mte:Rgp	lani
+plačati	mte:Vmen	plačati
+"	mte:Z	"
+le	mte:Q	le
+"	mte:Z	"
+37.000	mte:Mdc	37.000
+evrov	mte:Ncmpg	evro
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+bilančno	mte:Agpfsa	bilančen
+vsoto	mte:Ncfsa	vsota
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+vsota	mte:Ncfsn	vsota
+,	mte:Z	,
+ki	mte:Cs	ki
+poslovanja	mte:Ncnsg	poslovanje
+bank	mte:Ncfpg	banka
+ne	mte:Q	ne
+otežuje	mte:Vmpr3s	oteževati
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+"	mte:Z	"
+prve	mte:Mlofsg	prvi
+ocene	mte:Ncfsg	ocena
+in	mte:Cc	in
+preračuni	mte:Ncfpg	preračun
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+kažejo	mte:Vmpr3p	kazati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+zneski	mte:Ncmpn	znesek
+po	mte:Sl	po
+bankah	mte:Ncfpl	banka
+in	mte:Cc	in
+po	mte:Sl	po
+obdobjih	mte:Ncnpl	obdobje
+precej	mte:Rgp	precej
+različni	mte:Agpmpn	različen
+in	mte:Cc	in
+za	mte:Sa	za
+poslovanje	mte:Ncnsa	poslovanje
+bank	mte:Ncfpg	banka
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+nepomembni	mte:Agpmpn	nepomemben
+"	mte:Z	"
+,	mte:Z	,
+poudarjajo	mte:Vmpr3p	poudarjati
+v	mte:Sl	v
+Gorenjski	mte:Agpfsl	gorenjski
+banki	mte:Ncfsl	banka
+.	mte:Z	.
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+medtem	mte:Rgp	medtem
+molčijo	mte:Vmpr3p	molčiti
+.	mte:Z	.
+Sicer	mte:Q	sicer
+priznavajo	mte:Vmpr3p	priznavati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+osnutek	mte:Ncmsn	osnutek
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+finančnih	mte:Agpfpl	finančen
+transakcijah	mte:Ncfpl	transakcija
+pripravljen	mte:Appmsnn	pripravljen
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ga	mte:Pp3msa--y	on
+bodo	mte:Va-f3p-n	biti
+javnosti	mte:Ncfpn	javnost
+predstavili	mte:Vmep-pm	predstaviti
+šele	mte:Q	šele
+,	mte:Z	,
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+zrel	mte:Agpmsnn	zrel
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+.	mte:Z	.
+Nekaj	mte:Rgp	nekaj
+podrobnosti	mte:Ncfpg	podrobnost
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+Šušteršič	mte:Npmsn	Šušteršič
+predstavil	mte:Vmep-sm	predstaviti
+na	mte:Sl	na
+Bančni	mte:Agpfsl	bančen
+konferenci	mte:Ncfsl	konferenca
+v	mte:Sl	v
+Portorožu	mte:Npmsl	Portorož
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vendarle	mte:Cc	vendarle
+znanih	mte:Appmpg	znan
+.	mte:Z	.
+Davek	mte:Ncmsn	davek
+predvideva	mte:Vmpr3s	predvidevati
+zelo	mte:Rgp	zelo
+široko	mte:Agpfsa	širok
+davčno	mte:Agpfsa	davčen
+osnovo	mte:Ncfsa	osnova
+ter	mte:Cc	ter
+relativno	mte:Agpfsa	relativno
+nizko	mte:Agpfsa	nizek
+davčno	mte:Agpfsa	davčen
+stopnjo	mte:Ncfsa	stopnja
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+0,01	mte:Mdc	0,01
+odstotka	mte:Ncmsg	odstotek
+posamezne	mte:Agpfsg	posamezen
+transakcije	mte:Ncfsg	transakcija
+.	mte:Z	.
+Predmet	mte:Ncmsn	predmet
+obdavčitve	mte:Ncfsg	obdavčitev
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+vse	mte:Pg-fpn	ves
+transakcije	mte:Ncfpn	transakcija
+.	mte:Z	.
+Izvzete	mte:Appfpn	izvzet
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+transakcije	mte:Ncfpn	transakcija
+primarnega	mte:Agpmsg	primaren
+trga	mte:Ncmsg	trg
+in	mte:Cc	in
+z	mte:Si	z
+valutami	mte:Ncfpi	valuta
+,	mte:Z	,
+krediti	mte:Ncmpi	kredit
+gospodinjstvom	mte:Ncnsi	gospodinjstvo
+,	mte:Z	,
+zavarovalne	mte:Agpfsg	zavarovalen
+pogodbe	mte:Ncfsg	pogodba
+ter	mte:Cc	ter
+transakcije	mte:Ncfpn	transakcija
+z	mte:Si	z
+Evropsko	mte:Agpfsi	evropski
+centralno	mte:Agpfsi	centralen
+banko	mte:Ncfsi	banka
+(	mte:Z	(
+ECB	mte:Npmsn	ECB
+)	mte:Z	)
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+uvedba	mte:Ncfsn	uvedba
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+verjetno	mte:Rgp	verjetno
+pomenila	mte:Vmbp-sf	pomeniti
+ukinitev	mte:Ncfsa	ukinitev
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+bilančno	mte:Agpfsa	bilančen
+vsoto	mte:Ncfsa	vsota
+.	mte:Z	.
+"	mte:Z	"
+Uvedba	mte:Ncfsn	uvedba
+davka	mte:Ncmsg	davek
+na	mte:Sa	na
+finančne	mte:Agpfpa	finančen
+transakcije	mte:Ncfpa	transakcija
+bi	mte:Va-c	biti
+brez	mte:Sg	brez
+dvoma	mte:Ncmsg	dvom
+negativno	mte:Rgp	negativen
+vplivala	mte:Vmpp-sf	vplivati
+na	mte:Sa	na
+celoten	mte:Agpmsan	celoten
+finančni	mte:Agpmsay	finančen
+sektor	mte:Ncmsan	sektor
+,	mte:Z	,
+"	mte:Z	"
+ocenjujejo	mte:Vmpr3p	ocenjevati
+v	mte:Sl	v
+ZBS	mte:Npmsl	ZBS
+,	mte:Z	,
+kjer	mte:Cs	kjer
+opozarjajo	mte:Vmpr3p	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+konkurenčni	mte:Agpmsny	konkurenčen
+položaj	mte:Ncmsn	položaj
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+spopadajo	mte:Vmpr3p	spopadati
+s	mte:Si	z
+povečanimi	mte:Appfpi	povečan
+kapitalskimi	mte:Agpfpi	kapitalski
+zahtevami	mte:Ncfpi	zahteva
+,	mte:Z	,
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+občutno	mte:Rgp	občutno
+poslabšal	mte:Vmep-sm	poslabšati
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+Slovenija	mte:Npfsn	Slovenija
+odločila	mte:Vmep-sf	odločiti
+za	mte:Sa	za
+uvedbo	mte:Ncfsa	uvedba
+tega	mte:Pd-msg	ta
+davka	mte:Ncmsg	davek
+brez	mte:Sg	brez
+poprejšnje	mte:Agpfsg	poprejšnji
+časovne	mte:Agpfsg	časoven
+uskladitve	mte:Ncfsg	uskladitev
+s	mte:Si	z
+preostalimi	mte:Appfpi	preostal
+državami	mte:Ncfpi	država
+članicami	mte:Ncfpi	članica
+evrskega	mte:Agpnsg	evrski
+območja	mte:Ncnsg	območje
+,	mte:Z	,
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+prišlo	mte:Vmep-sn	priti
+še	mte:Q	še
+do	mte:Sg	do
+dodatnih	mte:Agpmpg	dodaten
+škodljivih	mte:Agpmpg	škodljiv
+učinkov	mte:Ncmpg	učinek
+,	mte:Z	,
+opozarjajo	mte:Vmpr3p	opozarjati
+v	mte:Sl	v
+ZBS	mte:Ncmsl	ZBS

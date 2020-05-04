@@ -1,287 +1,347 @@
-token	tag
-Slovenska	Agpfsn
-zemlja	Ncfsn
-je	Va-r3s-n
-dobesedno	Rgp
-pognojena	Appfsn
-s	Si
-človeško	Agpfsi
-bolečino	Ncfsi
-,	Z
-je	Va-r3s-n
-na	Sl
-tradicionalni	Agpfsl
-slovesnosti	Ncfsl
-pri	Sl
-Ruski	Agpfsl
-kapelici	Ncfsl
-povedal	Vmep-sm
-akademik	Ncmsn
-Matjaž	Npmsn
-Kmecl	Npmsn
-.	Z
-Na	Sl
-prireditvi	Ncfsl
-pod	Si
-Vršičem	Npmsi
-ob	Sl
-kapelici	Ncfsl
-,	Z
-ki	Cs
-stoji	Vmpr3s
-v	Sa
-spomin	Ncmsan
-na	Sa
-ujete	Agpmpa
-ruske	Agpmpa
-vojake	Ncmpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-med	Si
-gradnjo	Ncfsi
-ceste	Ncfsg
-čez	Sa
-prelaz	Ncmsan
-leta	Ncnsg
-1916	Mdc
-zasul	Vmep-sm
-snežni	Agpmsny
-plaz	Ncmsn
-,	Z
-se	Px------y
-je	Va-r3s-n
-zbralo	Vmep-sn
-več	Rgc
-sto	Mlc-pa
-ljudi	Ncmpg
-.	Z
-Vojakom	Ncmpd
-so	Va-r3p-n
-se	Px------y
-poklonili	Vmep-pm
-tudi	Q
-številni	Agpmpn
-visoki	Agpmpn
-gostje	Ncmpn
-iz	Sg
-Rusije	Npfsg
-in	Cc
-Slovenije	Npfsg
-.	Z
-Močna	Agpfsn
-delegacija	Ncfsn
-Poleg	Sg
-Gantarja	Npmsg
-so	Va-r3p-n
-bili	Va-p-pm
-prisotni	Agpmsny
-zunanji	Agpmsny
-minister	Ncmsn
-Samuel	Npmsn
-Žbogar	Npmsn
-,	Z
-ministrica	Ncfsn
-za	Sa
-obrambo	Ncfsa
-Ljubica	Npfsn
-Jelušič	Npfsn
-,	Z
-minister	Ncmsn
-za	Sa
-šolstvo	Ncnsa
-in	Cc
-šport	Ncmsan
-Igor	Npmsn
-Lukšič	Npmsn
-,	Z
-minister	Ncmsn
-za	Sa
-finance	Ncfpa
-Franc	Npmsn
-Križanič	Npmsn
-in	Cc
-predsednik	Ncmsn
-državnega	Agpmsg
-sveta	Ncmsg
-Blaž	Npmsn
-Kavčič	Npmsn
-.	Z
-Ruske	Agpfsg
-stran	Ncfsa
-je	Va-r3s-n
-poleg	Sg
-Sliske	Npmsg
-zastopal	Vmpp-sm
-še	Q
-namestnik	Ncmsn
-predsednika	Ncmsg
-odbora	Ncmsg
-sveta	Ncmsg
-federacije	Ncfsg
-za	Sa
-mednarodne	Agpfpa
-zadeve	Ncfpa
-Aleksander	Npmsn
-Podlesov	Npmsg
-in	Cc
-nadškof	Ncmsn
-Jaroslavski	Npmsn
--	Z
-Rostovski	Agpmsny
-Kiril	Npmsn
-v	Sl
-imenu	Ncnsl
-Ruske	Agpfsg
-pravoslavne	Agpfsg
-cerkve	Ncfsg
-.	Z
-Član	Ncmsn
-društva	Ncnsg
-Slovenija	Npfsn
-–	Z
-Rusija	Npfsn
-Matjaž	Npmsn
-Kmecl	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-Slovenci	Npmpn
-živimo	Vmpr1p
-na	Sl
-lepem	Agpmsl
-,	Z
-a	Cc
-precej	Rgp
-nesrečnem	Agpmsl
-kraju	Ncmsl
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-"	Z
-smo	Va-r1p-n
-si	Px---d--y
-na	Sa
-pleča	Ncfsa
-naprtili	Vmep-pm
-breme	Ncnsa
-vprašanj	Ncnpg
-,	Z
-kdo	Pq-msn
-je	Va-r3s-n
-kdaj	Rgp
-koga	Pq-msa
-ubil	Vmep-sm
-,	Z
-kje	Rgp
-in	Cc
-zakaj	Rgp
-,	Z
-namesto	Sg
-da	Cs
-bi	Va-c
-mrtve	Agpmpa
-pokopali	Vmep-pm
-v	Sl
-spoštljivem	Agpmsl
-spominu	Ncmsl
-.	Z
-"	Z
-Častni	Agpmsny
-pokrovitelj	Ncmsn
-letošnjega	Agpmsg
-dogodka	Ncmsg
-ob	Sl
-Ruski	Agpfsl
-kapelici	Ncfsl
-,	Z
-predsednik	Ncmsn
-državnega	Agpmsg
-zbora	Ncmsg
-Pavel	Npmsn
-Gantar	Npmsn
-je	Va-r3s-n
-slovesnost	Ncfsa
-označil	Vmep-sm
-kot	Cs
-izkaz	Ncmsan
-in	Cc
-posebej	Rgp
-prijazno	Agpfsa
-priložnost	Ncfsa
-za	Sa
-utrditev	Ncfsa
-slovensko	Agpnsn
--	Z
-ruskega	Agpnsg
-prijateljstva	Ncnsg
-.	Z
-Gantar	Npmsn
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-Slovenci	Npmpn
-v	Sl
-Rusih	Npmpl
-,	Z
-slovanskih	Agpmpl
-bratih	Ncmpl
-,	Z
-nikoli	Rgp
-niso	Va-r3p-y
-videli	Vmbp-pm
-sovražnikov	Ncmpg
-ter	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-prva	Mlofsn
-svetovna	Agpfsn
-vojna	Ncfsn
-naroda	Ncmsg
-močno	Rgp
-in	Cc
-za	Sa
-vedno	Rgp
-povezala	Vmep-sf
-na	Sa
-poseben	Agpmsan
-način	Ncmsan
-.	Z
-Rusi	Npmpn
-veseli	Agpmpn
-skrbi	Vmpr3s
-za	Sa
-kapelico	Ncfsa
-Vodja	Ncmsn
-ruske	Agpfsg
-delegacije	Ncfsg
-,	Z
-namestnica	Ncfsn
-predsednika	Ncmsg
-dume	Ncfsg
-Ljubov	Npmsg
-Sliska	Npmsg
-pa	Cc
-je	Va-r3s-n
-izrazila	Vmep-sf
-veselje	Ncnsa
-ob	Sl
-tem	Pd-nsl
-,	Z
-da	Cs
-se	Px------y
-ohranja	Vmpr3s
-tradicija	Ncfsn
-srečanj	Ncnpg
-na	Sl
-tem	Pd-msl
-prečudovitem	Agpmsl
-visokogorskem	Agpmsl
-kraju	Ncmsl
-.	Z
+token	tag	lemma
+Slovenska	mte:Agpfsn	slovenski
+zemlja	mte:Ncfsn	zemlja
+je	mte:Va-r3s-n	biti
+dobesedno	mte:Rgp	dobesedno
+pognojena	mte:Appfsn	pognojen
+s	mte:Si	z
+človeško	mte:Agpfsi	človeški
+bolečino	mte:Ncfsi	bolečina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+tradicionalni	mte:Agpfsl	tradicionalen
+slovesnosti	mte:Ncfsl	slovesnost
+pri	mte:Sl	pri
+Ruski	mte:Agpfsl	ruski
+kapelici	mte:Ncfsl	kapelica
+povedal	mte:Vmep-sm	povedati
+akademik	mte:Ncmsn	akademik
+Matjaž	mte:Npmsn	Matjaž
+Kmecl	mte:Npmsn	Kmecl
+.	mte:Z	.
+Na	mte:Sl	na
+prireditvi	mte:Ncfsl	prireditev
+pod	mte:Si	pod
+Vršičem	mte:Npmsi	Vršič
+ob	mte:Sl	ob
+kapelici	mte:Ncfsl	kapelica
+,	mte:Z	,
+ki	mte:Cs	ki
+stoji	mte:Vmpr3s	stati
+v	mte:Sa	v
+spomin	mte:Ncmsan	spomin
+na	mte:Sa	na
+ujete	mte:Agpmpa	ujet
+ruske	mte:Agpmpa	ruski
+vojake	mte:Ncmpa	vojak
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+gradnjo	mte:Ncfsi	gradnja
+ceste	mte:Ncfsg	cesta
+čez	mte:Sa	čez
+prelaz	mte:Ncmsan	prelaz
+leta	mte:Ncnsg	leto
+1916	mte:Mdc	1916
+zasul	mte:Vmep-sm	zasuti
+snežni	mte:Agpmsny	snežen
+plaz	mte:Ncmsn	plaz
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zbralo	mte:Vmep-sn	zbrati
+več	mte:Rgc	več
+sto	mte:Mlc-pa	sto
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+Vojakom	mte:Ncmpd	vojak
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+poklonili	mte:Vmep-pm	pokloniti
+tudi	mte:Q	tudi
+številni	mte:Agpmpn	številen
+visoki	mte:Agpmpn	visok
+gostje	mte:Ncmpn	gost
+iz	mte:Sg	iz
+Rusije	mte:Npfsg	Rusija
+in	mte:Cc	in
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Močna	mte:Agpfsn	močen
+delegacija	mte:Ncfsn	delegacija
+Poleg	mte:Sg	poleg
+Gantarja	mte:Npmsg	Gantar
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+prisotni	mte:Agpmsny	prisoten
+zunanji	mte:Agpmsny	zunanji
+minister	mte:Ncmsn	minister
+Samuel	mte:Npmsn	Samuel
+Žbogar	mte:Npmsn	Žbogar
+,	mte:Z	,
+ministrica	mte:Ncfsn	ministrica
+za	mte:Sa	za
+obrambo	mte:Ncfsa	obramba
+Ljubica	mte:Npfsn	Ljubica
+Jelušič	mte:Npfsn	Jelušič
+,	mte:Z	,
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+šolstvo	mte:Ncnsa	šolstvo
+in	mte:Cc	in
+šport	mte:Ncmsan	šport
+Igor	mte:Npmsn	Igor
+Lukšič	mte:Npmsn	Lukšič
+,	mte:Z	,
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Franc	mte:Npmsn	Franc
+Križanič	mte:Npmsn	Križanič
+in	mte:Cc	in
+predsednik	mte:Ncmsn	predsednik
+državnega	mte:Agpmsg	državen
+sveta	mte:Ncmsg	svet
+Blaž	mte:Npmsn	Blaž
+Kavčič	mte:Npmsn	Kavčič
+.	mte:Z	.
+Ruske	mte:Agpfsg	ruski
+stran	mte:Ncfsa	stran
+je	mte:Va-r3s-n	biti
+poleg	mte:Sg	poleg
+Sliske	mte:Npmsg	Sliska
+zastopal	mte:Vmpp-sm	zastopati
+še	mte:Q	še
+namestnik	mte:Ncmsn	namestnik
+predsednika	mte:Ncmsg	predsednik
+odbora	mte:Ncmsg	odbor
+sveta	mte:Ncmsg	svet
+federacije	mte:Ncfsg	federacija
+za	mte:Sa	za
+mednarodne	mte:Agpfpa	mednaroden
+zadeve	mte:Ncfpa	zadeva
+Aleksander	mte:Npmsn	Aleksander
+Podlesov	mte:Npmsg	Podles
+in	mte:Cc	in
+nadškof	mte:Ncmsn	nadškof
+Jaroslavski	mte:Npmsn	Jaroslavski
+-	mte:Z	-
+Rostovski	mte:Agpmsny	rostovski
+Kiril	mte:Npmsn	Kiril
+v	mte:Sl	v
+imenu	mte:Ncnsl	ime
+Ruske	mte:Agpfsg	ruski
+pravoslavne	mte:Agpfsg	pravoslaven
+cerkve	mte:Ncfsg	cerkev
+.	mte:Z	.
+Član	mte:Ncmsn	član
+društva	mte:Ncnsg	društvo
+Slovenija	mte:Npfsn	Slovenija
+–	mte:Z	–
+Rusija	mte:Npfsn	Rusija
+Matjaž	mte:Npmsn	Matjaž
+Kmecl	mte:Npmsn	Kmecl
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+Slovenci	mte:Npmpn	Slovenec
+živimo	mte:Vmpr1p	živeti
+na	mte:Sl	na
+lepem	mte:Agpmsl	lep
+,	mte:Z	,
+a	mte:Cc	a
+precej	mte:Rgp	precej
+nesrečnem	mte:Agpmsl	nesrečen
+kraju	mte:Ncmsl	kraj
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+"	mte:Z	"
+smo	mte:Va-r1p-n	biti
+si	mte:Px---d--y	se
+na	mte:Sa	na
+pleča	mte:Ncfsa	pleča
+naprtili	mte:Vmep-pm	naprtiti
+breme	mte:Ncnsa	breme
+vprašanj	mte:Ncnpg	vprašanje
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+je	mte:Va-r3s-n	biti
+kdaj	mte:Rgp	kdaj
+koga	mte:Pq-msa	kdo
+ubil	mte:Vmep-sm	ubiti
+,	mte:Z	,
+kje	mte:Rgp	kje
+in	mte:Cc	in
+zakaj	mte:Rgp	zakaj
+,	mte:Z	,
+namesto	mte:Sg	namesto
+da	mte:Cs	da
+bi	mte:Va-c	biti
+mrtve	mte:Agpmpa	mrtev
+pokopali	mte:Vmep-pm	pokopati
+v	mte:Sl	v
+spoštljivem	mte:Agpmsl	spoštljiv
+spominu	mte:Ncmsl	spomin
+.	mte:Z	.
+"	mte:Z	"
+Častni	mte:Agpmsny	časten
+pokrovitelj	mte:Ncmsn	pokrovitelj
+letošnjega	mte:Agpmsg	letošnji
+dogodka	mte:Ncmsg	dogodek
+ob	mte:Sl	ob
+Ruski	mte:Agpfsl	ruski
+kapelici	mte:Ncfsl	kapelica
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+Pavel	mte:Npmsn	Pavel
+Gantar	mte:Npmsn	Gantar
+je	mte:Va-r3s-n	biti
+slovesnost	mte:Ncfsa	slovesnost
+označil	mte:Vmep-sm	označiti
+kot	mte:Cs	kot
+izkaz	mte:Ncmsan	izkaz
+in	mte:Cc	in
+posebej	mte:Rgp	posebej
+prijazno	mte:Agpfsa	prijazen
+priložnost	mte:Ncfsa	priložnost
+za	mte:Sa	za
+utrditev	mte:Ncfsa	utrditev
+slovensko	mte:Agpnsn	slovenski
+-	mte:Z	-
+ruskega	mte:Agpnsg	ruski
+prijateljstva	mte:Ncnsg	prijateljstvo
+.	mte:Z	.
+Gantar	mte:Npmsn	Gantar
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+Slovenci	mte:Npmpn	Slovenec
+v	mte:Sl	v
+Rusih	mte:Npmpl	Rus
+,	mte:Z	,
+slovanskih	mte:Agpmpl	slovanski
+bratih	mte:Ncmpl	brat
+,	mte:Z	,
+nikoli	mte:Rgp	nikoli
+niso	mte:Va-r3p-y	biti
+videli	mte:Vmbp-pm	videti
+sovražnikov	mte:Ncmpg	sovražnikov
+ter	mte:Cc	ter
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+prva	mte:Mlofsn	prvi
+svetovna	mte:Agpfsn	svetoven
+vojna	mte:Ncfsn	vojna
+naroda	mte:Ncmsg	narod
+močno	mte:Rgp	močno
+in	mte:Cc	in
+za	mte:Sa	za
+vedno	mte:Rgp	vedno
+povezala	mte:Vmep-sf	povezati
+na	mte:Sa	na
+poseben	mte:Agpmsan	poseben
+način	mte:Ncmsan	način
+.	mte:Z	.
+Rusi	mte:Npmpn	Rus
+veseli	mte:Agpmpn	vesel
+skrbi	mte:Vmpr3s	skrbeti
+za	mte:Sa	za
+kapelico	mte:Ncfsa	kapelica
+Vodja	mte:Ncmsn	vodja
+ruske	mte:Agpfsg	ruski
+delegacije	mte:Ncfsg	delegacija
+,	mte:Z	,
+namestnica	mte:Ncfsn	namestnica
+predsednika	mte:Ncmsg	predsednik
+dume	mte:Ncfsg	duma
+Ljubov	mte:Npmsg	Ljub
+Sliska	mte:Npmsg	Sliska
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+izrazila	mte:Vmep-sf	izraziti
+veselje	mte:Ncnsa	veselje
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+ohranja	mte:Vmpr3s	ohranjati
+tradicija	mte:Ncfsn	tradicija
+srečanj	mte:Ncnpg	srečanje
+na	mte:Sl	na
+tem	mte:Pd-msl	ta
+prečudovitem	mte:Agpmsl	prečudovit
+visokogorskem	mte:Agpmsl	visokogorski
+kraju	mte:Ncmsl	kraj
+.	mte:Z	.
+"	mte:Z	"
+Vsakič	mte:Rgp	vsakič
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+vzpenjamo	mte:Vmpr1p	vzpenjati
+h	mte:Sd	k
+kapelici	mte:Ncfsd	kapelica
+,	mte:Z	,
+vsak	mte:Pg-msa	vsak
+izmed	mte:Sg	izmed
+nas	mte:Pp1-pg	jaz
+občuti	mte:Vmer3s	občutiti
+v	mte:Sl	v
+sebi	mte:Px---l	se
+neizmerno	mte:Agpfsa	neizmerno
+hvaležnost	mte:Ncfsa	hvaležnost
+Slovencem	mte:Npmpd	Slovenec
+za	mte:Sa	za
+takšno	mte:Pd-fsa	takšen
+skrb	mte:Ncfsa	skrb
+za	mte:Sa	za
+kapelico	mte:Ncfsa	kapelica
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+ter	mte:Cc	ter
+dodala	mte:Vmep-sf	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+spomin	mte:Ncmsn	spomin
+na	mte:Sa	na
+pokojne	mte:Agpmpa	pokojen
+vojake	mte:Ncmpa	vojak
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+mogoče	mte:Agpnsn	mogoč
+pokopati	mte:Vmen	pokopati
+v	mte:Sl	v
+lastni	mte:Agpfsl	lasten
+zemlji	mte:Ncfsl	zemlja
+,	mte:Z	,
+tukaj	mte:Rgp	tukaj
+živ	mte:Agpmsnn	živ
+,	mte:Z	,
+in	mte:Cc	in
+podkrepljen	mte:Appmsnn	podkrepljen
+s	mte:Si	z
+pravoslavno	mte:Agpfsi	pravoslaven
+molitvijo	mte:Ncfsi	molitev
+o	mte:Sl	o
+večnem	mte:Agpnsl	večen
+življenju	mte:Ncnsl	življenje

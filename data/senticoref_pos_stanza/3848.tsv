@@ -1,395 +1,442 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Španija	Npfsn
-je	Va-r3s-n
-pri	Sl
-reševanju	Ncnsl
-propadajočega	Appmsg
-bančnega	Agpmsg
-sistema	Ncmsg
-navsezadnje	Rgp
-vrgla	Vmep-sf
-puško	Ncfsa
-v	Sa
-koruzo	Ncfsa
-.	Z
-Finančni	Agpmsny
-minister	Ncmsn
-Španije	Npfsg
-Louis	Npmsn
-de	Xf
-Guindos	Npmsn
-je	Va-r3s-n
-namreč	Cc
-16	Mdc
-kolegov	Ncmpg
-iz	Sg
-preostalih	Appfpg
-držav	Ncfpg
-območja	Ncnsg
-evra	Ncmsg
-v	Sl
-2	Mdc
-uri	Ncfsl
-in	Cc
-pol	Rgp
-trajajoči	Appfsl
-videokonferenci	Ncfsl
-,	Z
-polni	Agpfsl
-žolčnih	Agpfpg
-debat	Ncfpg
-,	Z
-zaprosil	Vmep-sm
-za	Sa
-finančno	Agpfsa
-pomoč	Ncfsa
-,	Z
-ki	Cs
-naj	Q
-ne	Q
-bi	Va-c
-smela	Vmpp-sf
-preseči	Vmen
-100	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-.	Z
-S	Si
-tem	Pd-nsi
-se	Px------y
-Španija	Npfsn
-pridružuje	Vmpr3s
-državam	Ncfpd
-,	Z
-ki	Cs
-uživajo	Vmpr3p
-življenjsko	Agpfsa
-finančno	Agpfsa
-podporo	Ncfsa
-Evrope	Npfsg
-,	Z
-med	Si
-katerimi	Pq-mpi
-so	Va-r3p-n
-že	Q
-Portugalska	Npfsn
-,	Z
-Irska	Npfsn
-in	Cc
-Grčija	Npfsn
-,	Z
-trgi	Ncmpn
-pa	Cc
-bodo	Va-f3p-n
-bržkone	Rgp
-že	Q
-začeli	Vmep-pm
-špekulirati	Vmpn
-,	Z
-kdaj	Rgp
-bo	Va-f3s-n
-med	Si
-njimi	Pp3mpi
-še	Q
-zadnja	Agpfsn
-,	Z
-a	Cc
-tudi	Q
-največja	Agsfsn
-članica	Ncfsn
-"	Z
-prašičkov	Ncmpg
-"	Z
-(	Z
-PIIGS	Npmsn
-)	Z
--	Z
-Italija	Npfsn
-.	Z
-Mariano	Npmsn
-Rajoy	Npmsn
-,	Z
-španski	Agpmsny
-predsednik	Ncmsn
-vlade	Ncfsg
-,	Z
-se	Px------y
-je	Va-r3s-n
-tako	Rgp
-zadnji	Agpmsny
-v	Sl
-vrsti	Ncfsl
-evropskih	Agpmpg
-politikov	Ncmpg
-izkazal	Vmep-sm
-v	Sl
-priljubljenem	Agpmsl
-medkriznem	Agpmsl
-športu	Ncmsl
--	Z
-požiranju	Ncnsl
-lastnih	Agpfpg
-besed	Ncfpg
-.	Z
-Potem	Rgp
-ko	Cs
-je	Va-r3s-n
-še	Q
-ob	Sl
-koncu	Ncmsl
-maja	Ncmsg
-odločno	Rgp
-zatrjeval	Vmpp-sm
-,	Z
-da	Cs
-Španija	Npfsn
-mednarodne	Agpfsg
-pomoči	Ncfsg
-ne	Q
-potrebuje	Vmpr3s
-,	Z
-je	Va-r3s-n
-v	Sa
-soboto	Ncfsa
-ta	Pd-fsn
-zanjo	Pp3fsa--b
-tudi	Q
-uradno	Rgp
-zaprosila	Vmep-sf
-.	Z
-V	Sl
-kakšni	Pq-fsl
-obliki	Ncfsl
-jo	Pp3fsa--y
-bo	Va-f3s-n
-prejela	Vmep-sf
-,	Z
-se	Px------y
-finančni	Agpmpn
-ministri	Ncmpn
-še	Q
-niso	Va-r3p-y
-dogovorili	Vmep-pm
-,	Z
-nekaj	Pi-nsn
-pa	Cc
-je	Va-r3s-n
-gotovo	Agpnsn
--	Z
-Mednarodni	Agpmsny
-denarni	Agpmsny
-sklad	Ncmsn
-(	Z
-IMF	Npmsn
-)	Z
-na	Sa
-željo	Ncfsa
-Španije	Npfsg
-s	Si
-svojimi	Px-npi
-sredstvi	Ncnpi
-v	Sl
-njej	Pp3fsl
-ne	Q
-bo	Va-f3s-n
-sodeloval	Vmpp-sm
-.	Z
-Odprti	Appmdn
-sta	Va-r3d-n
-torej	Rgp
-možnosti	Ncfpn
-posojila	Ncnsg
-iz	Sg
-začasnega	Agpmsg
-kriznega	Agpmsg
-sklada	Ncmsg
-EFSF	Npmsg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-želi	Vmpr3s
-Finska	Npfsn
-od	Sg
-Španije	Npfsg
-dodatna	Agpnpn
-zavarovanja	Ncnpn
-,	Z
-ali	Cc
-iz	Sg
-stalnega	Agpmsg
-mehanizma	Ncmsg
-za	Sa
-stabilnost	Ncfsa
-evra	Ncmsg
-ESM	Npmsn
-,	Z
-ki	Cs
-začne	Vmer3s
-delovati	Vmpn
-prihodnji	Agpmsay
-mesec	Ncmsan
-.	Z
-Prav	Q
-tako	Rgp
-ostaja	Vmpr3s
-nejasno	Agpnsn
-,	Z
-koliko	Rgp
-od	Sg
-100	Mdc
-milijard	Ncfpg
-evrov	Ncmpg
-sredstev	Ncnpg
-bo	Va-f3s-n
-Madrid	Npmsn
-dejansko	Rgp
-potreboval	Vmpp-sm
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-na	Sa
-vprašanje	Ncnsa
-dali	Vmep-pm
-odgovor	Ncmsan
-šele	Q
-zunanji	Agpfsl
-reviziji	Ncfsl
-bančnega	Agpmsg
-sistema	Ncmsg
-,	Z
-ki	Cs
-ju	Pp3mda--y
-bosta	Va-f3d-n
-do	Sg
-21	Mdc
-.	Z
-junija	Ncmsg
-pripravili	Vmep-dm
-instituciji	Ncfdn
-Oliver	Npmsn
-Wyman	Npmsn
-in	Cc
-Roland	Npmsn
-Berger	Npmsn
-.	Z
-De	Xf
-Guindos	Npmsn
-je	Va-r3s-n
-sicer	Q
-ob	Sl
-tem	Pd-nsl
-namignil	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-končni	Agpmsny
-znesek	Ncmsn
-pomoči	Ncfsg
-nižji	Agcmsny
-.	Z
-Ne	Q
-glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-iz	Sg
-katerega	Pq-msg
-sklada	Ncmsg
-bo	Va-f3s-n
-denar	Ncmsn
-prišel	Vmep-sm
-,	Z
-ga	Pp3msa--y
-bo	Va-f3s-n
-Španija	Npfsn
-v	Sa
-bančni	Agpmsay
-sistem	Ncmsan
-črpala	Vmpp-sf
-skozi	Sa
-obstoječi	Appmsay
-sklad	Ncmsan
-za	Sa
-pomoč	Ncfsa
-bankam	Ncfpd
-(	Z
-Frob	Npmsn
-)	Z
-,	Z
-nad	Si
-katerim	Pq-msi
-bo	Va-f3s-n
-ohranila	Vmep-sf
-popoln	Agpmsan
-nadzor	Ncmsan
-.	Z
-Posledica	Ncfsn
-tega	Pd-nsg
-bo	Va-f3s-n
-rast	Ncfsn
-sicer	Q
-razmeroma	Rgp
-nizkega	Agpnsg
-,	Z
-a	Cc
-hitro	Rgp
-rastočega	Appmsg
-javnega	Agpmsg
-dolga	Agpfsg
-Španije	Npfsg
-,	Z
-ki	Cs
-pa	Cc
-naj	Q
-bi	Va-c
-zaradi	Sg
-narave	Ncfsg
-pomoči	Ncfsg
-ohranila	Vmep-sf
-sposobnost	Ncfsa
-zbiranja	Ncnsg
-svežih	Agpnpg
-sredstev	Ncnpg
-na	Sl
-mednarodnih	Agpmpl
-finančnih	Agpmpl
-trgih	Ncmpl
-.	Z
-Fokus	Ncmsn
-izključno	Rgp
-na	Sa
-bančni	Agpmsay
-sektor	Ncmsan
-namreč	Cc
-pomeni	Vmbr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-španski	Agpmsny
-primer	Ncmsn
-precej	Rgp
-drugačen	Agpmsnn
-tako	Rgp
-od	Sg
-grškega	Agpnsg
-in	Cc
-irskega	Agpnsg
-kot	Cs
-tudi	Q
-portugalskega	Agpnsg
-.	Z
-Nemški	Agpmsny
-finančni	Agpmsny
-minister	Ncmsn
-Wolfgang	Npmsn
-Schäuble	Npmsn
-je	Va-r3s-n
-z	Si
-razvojem	Ncmsi
-dogodkov	Ncmpg
-izredno	Rgp
-zadovoljen	Agpmsnn
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Španija	mte:Npfsn	Španija
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+reševanju	mte:Ncnsl	reševanje
+propadajočega	mte:Appmsg	propadajoč
+bančnega	mte:Agpmsg	bančen
+sistema	mte:Ncmsg	sistem
+navsezadnje	mte:Rgp	navsezadnje
+vrgla	mte:Vmep-sf	vreči
+puško	mte:Ncfsa	puška
+v	mte:Sa	v
+koruzo	mte:Ncfsa	koruza
+.	mte:Z	.
+Finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Španije	mte:Npfsg	Španija
+Louis	mte:Npmsn	Louis
+de	mte:Xf	de
+Guindos	mte:Npmsn	Guindos
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+16	mte:Mdc	16
+kolegov	mte:Ncmpg	kolega
+iz	mte:Sg	iz
+preostalih	mte:Appfpg	preostal
+držav	mte:Ncfpg	država
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+v	mte:Sl	v
+2	mte:Mdc	2
+uri	mte:Ncfsl	ura
+in	mte:Cc	in
+pol	mte:Rgp	pol
+trajajoči	mte:Appfsl	trajajoč
+videokonferenci	mte:Ncfsl	videokonferenca
+,	mte:Z	,
+polni	mte:Agpfsl	poln
+žolčnih	mte:Agpfpg	žolčen
+debat	mte:Ncfpg	debat
+,	mte:Z	,
+zaprosil	mte:Vmep-sm	zaprositi
+za	mte:Sa	za
+finančno	mte:Agpfsa	finančen
+pomoč	mte:Ncfsa	pomoč
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+smela	mte:Vmpp-sf	smeti
+preseči	mte:Vmen	preseči
+100	mte:Mdc	100
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+se	mte:Px------y	se
+Španija	mte:Npfsn	Španija
+pridružuje	mte:Vmpr3s	pridruževati
+državam	mte:Ncfpd	država
+,	mte:Z	,
+ki	mte:Cs	ki
+uživajo	mte:Vmpr3p	uživati
+življenjsko	mte:Agpfsa	življenjski
+finančno	mte:Agpfsa	finančen
+podporo	mte:Ncfsa	podpora
+Evrope	mte:Npfsg	Evropa
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+Portugalska	mte:Npfsn	Portugalska
+,	mte:Z	,
+Irska	mte:Npfsn	Irska
+in	mte:Cc	in
+Grčija	mte:Npfsn	Grčija
+,	mte:Z	,
+trgi	mte:Ncmpn	trg
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+bržkone	mte:Rgp	bržkone
+že	mte:Q	že
+začeli	mte:Vmep-pm	začeti
+špekulirati	mte:Vmpn	špekulirati
+,	mte:Z	,
+kdaj	mte:Rgp	kdaj
+bo	mte:Va-f3s-n	biti
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+še	mte:Q	še
+zadnja	mte:Agpfsn	zadnji
+,	mte:Z	,
+a	mte:Cc	a
+tudi	mte:Q	tudi
+največja	mte:Agsfsn	velik
+članica	mte:Ncfsn	članica
+"	mte:Z	"
+prašičkov	mte:Ncmpg	prašiček
+"	mte:Z	"
+(	mte:Z	(
+PIIGS	mte:Npmsn	PIIGS
+)	mte:Z	)
+-	mte:Z	-
+Italija	mte:Npfsn	Italija
+.	mte:Z	.
+Mariano	mte:Npmsn	Mariano
+Rajoy	mte:Npmsn	Rajoy
+,	mte:Z	,
+španski	mte:Agpmsny	španski
+predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+zadnji	mte:Agpmsny	zadnji
+v	mte:Sl	v
+vrsti	mte:Ncfsl	vrsta
+evropskih	mte:Agpmpg	evropski
+politikov	mte:Ncmpg	politik
+izkazal	mte:Vmep-sm	izkazati
+v	mte:Sl	v
+priljubljenem	mte:Agpmsl	priljubljen
+medkriznem	mte:Agpmsl	medkrizen
+športu	mte:Ncmsl	šport
+-	mte:Z	-
+požiranju	mte:Ncnsl	požiranje
+lastnih	mte:Agpfpg	lasten
+besed	mte:Ncfpg	beseda
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+ob	mte:Sl	ob
+koncu	mte:Ncmsl	konec
+maja	mte:Ncmsg	maj
+odločno	mte:Rgp	odločno
+zatrjeval	mte:Vmpp-sm	zatrjevati
+,	mte:Z	,
+da	mte:Cs	da
+Španija	mte:Npfsn	Španija
+mednarodne	mte:Agpfsg	mednaroden
+pomoči	mte:Ncfsg	pomoč
+ne	mte:Q	ne
+potrebuje	mte:Vmpr3s	potrebovati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+ta	mte:Pd-fsn	ta
+zanjo	mte:Pp3fsa--b	zame
+tudi	mte:Q	tudi
+uradno	mte:Rgp	uradno
+zaprosila	mte:Vmep-sf	zaprositi
+.	mte:Z	.
+V	mte:Sl	v
+kakšni	mte:Pq-fsl	kakšen
+obliki	mte:Ncfsl	oblika
+jo	mte:Pp3fsa--y	on
+bo	mte:Va-f3s-n	biti
+prejela	mte:Vmep-sf	prejeti
+,	mte:Z	,
+se	mte:Px------y	se
+finančni	mte:Agpmpn	finančen
+ministri	mte:Ncmpn	minister
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+dogovorili	mte:Vmep-pm	dogovoriti
+,	mte:Z	,
+nekaj	mte:Pi-nsn	nekaj
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+gotovo	mte:Agpnsn	gotovo
+-	mte:Z	-
+Mednarodni	mte:Agpmsny	mednaroden
+denarni	mte:Agpmsny	denaren
+sklad	mte:Ncmsn	sklad
+(	mte:Z	(
+IMF	mte:Npmsn	IMF
+)	mte:Z	)
+na	mte:Sa	na
+željo	mte:Ncfsa	želja
+Španije	mte:Npfsg	Španija
+s	mte:Si	z
+svojimi	mte:Px-npi	svoj
+sredstvi	mte:Ncnpi	sredstvo
+v	mte:Sl	v
+njej	mte:Pp3fsl	on
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+sodeloval	mte:Vmpp-sm	sodelovati
+.	mte:Z	.
+Odprti	mte:Appmdn	odprt
+sta	mte:Va-r3d-n	biti
+torej	mte:Rgp	torej
+možnosti	mte:Ncfpn	možnost
+posojila	mte:Ncnsg	posojilo
+iz	mte:Sg	iz
+začasnega	mte:Agpmsg	začasen
+kriznega	mte:Agpmsg	krizen
+sklada	mte:Ncmsg	sklad
+EFSF	mte:Npmsg	EFSF
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+želi	mte:Vmpr3s	želeti
+Finska	mte:Npfsn	Finska
+od	mte:Sg	od
+Španije	mte:Npfsg	Španija
+dodatna	mte:Agpnpn	dodaten
+zavarovanja	mte:Ncnpn	zavarovanje
+,	mte:Z	,
+ali	mte:Cc	ali
+iz	mte:Sg	iz
+stalnega	mte:Agpmsg	stalen
+mehanizma	mte:Ncmsg	mehanizem
+za	mte:Sa	za
+stabilnost	mte:Ncfsa	stabilnost
+evra	mte:Ncmsg	evro
+ESM	mte:Npmsn	ESM
+,	mte:Z	,
+ki	mte:Cs	ki
+začne	mte:Vmer3s	začeti
+delovati	mte:Vmpn	delovati
+prihodnji	mte:Agpmsay	prihodnji
+mesec	mte:Ncmsan	mesec
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+ostaja	mte:Vmpr3s	ostajati
+nejasno	mte:Agpnsn	nejasen
+,	mte:Z	,
+koliko	mte:Rgp	koliko
+od	mte:Sg	od
+100	mte:Mdc	100
+milijard	mte:Ncfpg	milijarda
+evrov	mte:Ncmpg	evro
+sredstev	mte:Ncnpg	sredstvo
+bo	mte:Va-f3s-n	biti
+Madrid	mte:Npmsn	Madrid
+dejansko	mte:Rgp	dejansko
+potreboval	mte:Vmpp-sm	potrebovati
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+dali	mte:Vmep-pm	dati
+odgovor	mte:Ncmsan	odgovor
+šele	mte:Q	šele
+zunanji	mte:Agpfsl	zunanji
+reviziji	mte:Ncfsl	revizija
+bančnega	mte:Agpmsg	bančen
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+ki	mte:Cs	ki
+ju	mte:Pp3mda--y	on
+bosta	mte:Va-f3d-n	biti
+do	mte:Sg	do
+21	mte:Mdc	21
+.	mte:Z	.
+junija	mte:Ncmsg	junij
+pripravili	mte:Vmep-dm	pripraviti
+instituciji	mte:Ncfdn	institucija
+Oliver	mte:Npmsn	Oliver
+Wyman	mte:Npmsn	Wyman
+in	mte:Cc	in
+Roland	mte:Npmsn	Roland
+Berger	mte:Npmsn	Berger
+.	mte:Z	.
+De	mte:Xf	de
+Guindos	mte:Npmsn	Guindos
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+namignil	mte:Vmep-sm	namigniti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+končni	mte:Agpmsny	končen
+znesek	mte:Ncmsn	znesek
+pomoči	mte:Ncfsg	pomoč
+nižji	mte:Agcmsny	nizek
+.	mte:Z	.
+Ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+iz	mte:Sg	iz
+katerega	mte:Pq-msg	kateri
+sklada	mte:Ncmsg	sklad
+bo	mte:Va-f3s-n	biti
+denar	mte:Ncmsn	denar
+prišel	mte:Vmep-sm	priti
+,	mte:Z	,
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+Španija	mte:Npfsn	Španija
+v	mte:Sa	v
+bančni	mte:Agpmsay	bančen
+sistem	mte:Ncmsan	sistem
+črpala	mte:Vmpp-sf	črpati
+skozi	mte:Sa	skozi
+obstoječi	mte:Appmsay	obstoječ
+sklad	mte:Ncmsan	sklad
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+bankam	mte:Ncfpd	banka
+(	mte:Z	(
+Frob	mte:Npmsn	Frob
+)	mte:Z	)
+,	mte:Z	,
+nad	mte:Si	nad
+katerim	mte:Pq-msi	kateri
+bo	mte:Va-f3s-n	biti
+ohranila	mte:Vmep-sf	ohraniti
+popoln	mte:Agpmsan	popoln
+nadzor	mte:Ncmsan	nadzor
+.	mte:Z	.
+Posledica	mte:Ncfsn	posledica
+tega	mte:Pd-nsg	ta
+bo	mte:Va-f3s-n	biti
+rast	mte:Ncfsn	rast
+sicer	mte:Q	sicer
+razmeroma	mte:Rgp	razmeroma
+nizkega	mte:Agpnsg	nizek
+,	mte:Z	,
+a	mte:Cc	a
+hitro	mte:Rgp	hitro
+rastočega	mte:Appmsg	rastoč
+javnega	mte:Agpmsg	javen
+dolga	mte:Agpfsg	dolg
+Španije	mte:Npfsg	Španija
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+zaradi	mte:Sg	zaradi
+narave	mte:Ncfsg	narava
+pomoči	mte:Ncfsg	pomoč
+ohranila	mte:Vmep-sf	ohraniti
+sposobnost	mte:Ncfsa	sposobnost
+zbiranja	mte:Ncnsg	zbiranje
+svežih	mte:Agpnpg	svež
+sredstev	mte:Ncnpg	sredstvo
+na	mte:Sl	na
+mednarodnih	mte:Agpmpl	mednaroden
+finančnih	mte:Agpmpl	finančen
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+Fokus	mte:Ncmsn	fokus
+izključno	mte:Rgp	izključno
+na	mte:Sa	na
+bančni	mte:Agpmsay	bančen
+sektor	mte:Ncmsan	sektor
+namreč	mte:Cc	namreč
+pomeni	mte:Vmbr3s	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+španski	mte:Agpmsny	španski
+primer	mte:Ncmsn	primer
+precej	mte:Rgp	precej
+drugačen	mte:Agpmsnn	drugačen
+tako	mte:Rgp	tako
+od	mte:Sg	od
+grškega	mte:Agpnsg	grški
+in	mte:Cc	in
+irskega	mte:Agpnsg	irski
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+portugalskega	mte:Agpnsg	portugalski
+.	mte:Z	.
+Nemški	mte:Agpmsny	nemški
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Wolfgang	mte:Npmsn	Wolfgang
+Schäuble	mte:Npmsn	Schäuble
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+razvojem	mte:Ncmsi	razvoj
+dogodkov	mte:Ncmpg	dogodek
+izredno	mte:Rgp	izredno
+zadovoljen	mte:Agpmsnn	zadovoljen
+.	mte:Z	.
+"	mte:Z	"
+Španija	mte:Npfsn	Španija
+je	mte:Va-r3s-n	biti
+storila	mte:Vmep-sf	storiti
+velik	mte:Agpmsan	velik
+napredek	mte:Ncmsan	napredek
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+dobri	mte:Agpfsl	dober
+poti	mte:Ncfsl	pot
+,	mte:Z	,
+da	mte:Cs	da
+ukroti	mte:Vmer3s	ukroti
+ekonomske	mte:Agpmpa	ekonomski
+in	mte:Cc	in
+finančne	mte:Agpmpa	finančen
+probleme	mte:Ncmpa	problem
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+včeraj	mte:Rgp	včeraj
+dejal	mte:Vmep-sm	dejati
+Schäuble	mte:Npmsn	Schäuble
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+moral	mte:Vmpp-sm	morati
+de	mte:Xf	de
+Guindos	mte:Npmsn	Guindos
+miriti	mte:Vmpn	miriti
+špansko	mte:Agpnsa	španski
+prebivalstvo	mte:Ncnsa	prebivalstvo
+,	mte:Z	,
+prepričano	mte:Appnsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+denar	mte:Ncmsn	denar
+za	mte:Sa	za
+banke	mte:Ncfpa	banka
+pogojen	mte:Appmsnn	pogojen
+z	mte:Si	z
+ostrimi	mte:Agpmpi	oster
+varčevalnimi	mte:Agpmpi	varčevalen
+ukrepi	mte:Ncmpi	ukrep

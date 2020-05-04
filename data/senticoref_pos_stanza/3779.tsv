@@ -1,166 +1,199 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Mednarodna	Agpfsn
-finančna	Agpfsn
-revija	Ncfsn
-Global	Npmsn
-Finance	Npmpn
-je	Va-r3s-n
-za	Sa
-najboljšo	Agsfsa
-banko	Ncfsa
-v	Sl
-Sloveniji	Npfsl
-v	Sl
-letu	Ncnsl
-2012	Mdc
-izbrala	Vmep-sf
-Novo	Agpfsa
-Ljubljansko	Agpfsa
-banko	Ncfsa
-(	Z
-NLB	Npfsn
-)	Z
-.	Z
-S	Si
-tem	Pd-nsi
-se	Px------y
-je	Va-r3s-n
-največja	Agsfsn
-slovenska	Agpfsn
-banka	Ncfsn
-že	Q
-petnajstič	Mlonpa
-zapored	Rgp
-uvrstila	Vmep-sf
-med	Sa
-najboljše	Agsfpa
-banke	Ncfpa
-na	Sl
-razvijajočih	Appmpl
-se	Px------y
-trgih	Ncmpl
-srednje	Agpfsg
-in	Cc
-vzhodne	Agpfsg
-Evrope	Npfsg
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-NLB	Npfsg
-.	Z
-Revija	Ncfsn
-Global	Npmsn
-Finance	Npmpn
-vsako	Pg-nsa
-leto	Ncnsa
-na	Sl
-podlagi	Ncfsl
-analiz	Ncfpg
-in	Cc
-ocen	Ncfpg
-mednarodnih	Agpmpg
-strokovnjakov	Ncmpg
-s	Sg
-področja	Ncnsg
-financ	Ncfpg
-,	Z
-vodilnih	Agpnpg
-v	Sl
-podjetjih	Ncnpl
-in	Cc
-bančnih	Agpmpg
-svetovalcev	Ncmpg
-prepozna	Vmer3s
-najboljše	Agsfpa
-banke	Ncfpa
-v	Sl
-posameznih	Agpfpl
-državah	Ncfpl
-in	Cc
-regijah	Ncfpl
-.	Z
-Tokratno	Agpnsa
-ocenjevanje	Ncnsa
-so	Va-r3p-n
-izvedli	Vmep-pm
-že	Q
-19	Mdc
-.	Z
-leto	Ncnsa
-zapored	Rgp
-.	Z
-Revija	Ncfsn
-je	Va-r3s-n
-,	Z
-kot	Cs
-je	Va-r3s-n
-objavljeno	Appnsn
-na	Sl
-njeni	Ps3fslsf
-spletni	Agpfsl
-strani	Ncfsl
-,	Z
-v	Sl
-regiji	Ncfsl
-srednja	Agpfsn
-in	Cc
-vzhodna	Agpfsn
-Evropa	Npfsn
-izbirala	Vmpp-sf
-najboljše	Agsfpa
-banke	Ncfpa
-v	Sl
-22	Mdc
-državah	Ncfpl
-.	Z
-Kot	Cs
-najboljša	Agsfsn
-v	Sl
-regiji	Ncfsl
-je	Va-r3s-n
-priznanje	Ncnsa
-prejela	Vmep-sf
-banka	Ncfsn
-Raiffeisen	Npfsn
-International	Npfsn
-,	Z
-katere	Pq-fsg
-podružnice	Ncfpn
-so	Va-r3p-n
-bile	Va-p-pf
-za	Sa
-najboljše	Agsfpa
-banke	Ncfpa
-izbrane	Appfpn
-v	Sl
-Albaniji	Npfsl
-,	Z
-Romuniji	Npfsl
-in	Cc
-Srbiji	Npfsl
-.	Z
-Med	Si
-kriteriji	Ncmpi
-so	Va-r3p-n
-bili	Va-p-pm
-rast	Ncfsn
-premoženja	Ncnsg
-,	Z
-dobičkonosnost	Ncfsn
-,	Z
-strateški	Agpmpn
-odnosi	Ncmpn
-,	Z
-storitve	Ncfpn
-za	Sa
-uporabnike	Ncmpa
-,	Z
-konkurenčnost	Ncfsn
-cen	Ncfpg
-in	Cc
-inovativnost	Ncfsn
-produktov	Ncmpg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Mednarodna	mte:Agpfsn	mednaroden
+finančna	mte:Agpfsn	finančen
+revija	mte:Ncfsn	revija
+Global	mte:Npmsn	Global
+Finance	mte:Npmpn	Finance
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+najboljšo	mte:Agsfsa	dober
+banko	mte:Ncfsa	banka
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2012	mte:Mdc	2012
+izbrala	mte:Vmep-sf	izbrati
+Novo	mte:Agpfsa	nov
+Ljubljansko	mte:Agpfsa	ljubljanski
+banko	mte:Ncfsa	banka
+(	mte:Z	(
+NLB	mte:Npfsn	NLB
+)	mte:Z	)
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+največja	mte:Agsfsn	velik
+slovenska	mte:Agpfsn	slovenski
+banka	mte:Ncfsn	banka
+že	mte:Q	že
+petnajstič	mte:Mlonpa	petnajstič
+zapored	mte:Rgp	zapored
+uvrstila	mte:Vmep-sf	uvrstiti
+med	mte:Sa	med
+najboljše	mte:Agsfpa	dober
+banke	mte:Ncfpa	banka
+na	mte:Sl	na
+razvijajočih	mte:Appmpl	razvijajoč
+se	mte:Px------y	se
+trgih	mte:Ncmpl	trg
+srednje	mte:Agpfsg	srednji
+in	mte:Cc	in
+vzhodne	mte:Agpfsg	vzhoden
+Evrope	mte:Npfsg	Evropa
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+NLB	mte:Npfsg	NLB
+.	mte:Z	.
+Revija	mte:Ncfsn	revija
+Global	mte:Npmsn	Global
+Finance	mte:Npmpn	Finance
+vsako	mte:Pg-nsa	vsak
+leto	mte:Ncnsa	leto
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+analiz	mte:Ncfpg	analiza
+in	mte:Cc	in
+ocen	mte:Ncfpg	ocena
+mednarodnih	mte:Agpmpg	mednaroden
+strokovnjakov	mte:Ncmpg	strokovnjak
+s	mte:Sg	z
+področja	mte:Ncnsg	področje
+financ	mte:Ncfpg	finance
+,	mte:Z	,
+vodilnih	mte:Agpnpg	vodilen
+v	mte:Sl	v
+podjetjih	mte:Ncnpl	podjetje
+in	mte:Cc	in
+bančnih	mte:Agpmpg	bančen
+svetovalcev	mte:Ncmpg	svetovalec
+prepozna	mte:Vmer3s	prepoznati
+najboljše	mte:Agsfpa	dober
+banke	mte:Ncfpa	banka
+v	mte:Sl	v
+posameznih	mte:Agpfpl	posamezen
+državah	mte:Ncfpl	država
+in	mte:Cc	in
+regijah	mte:Ncfpl	regija
+.	mte:Z	.
+Tokratno	mte:Agpnsa	tokraten
+ocenjevanje	mte:Ncnsa	ocenjevanje
+so	mte:Va-r3p-n	biti
+izvedli	mte:Vmep-pm	izvesti
+že	mte:Q	že
+19	mte:Mdc	19
+.	mte:Z	.
+leto	mte:Ncnsa	leto
+zapored	mte:Rgp	zapored
+.	mte:Z	.
+Revija	mte:Ncfsn	revija
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+objavljeno	mte:Appnsn	objavljen
+na	mte:Sl	na
+njeni	mte:Ps3fslsf	njen
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+,	mte:Z	,
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+srednja	mte:Agpfsn	srednji
+in	mte:Cc	in
+vzhodna	mte:Agpfsn	vzhoden
+Evropa	mte:Npfsn	Evropa
+izbirala	mte:Vmpp-sf	izbirati
+najboljše	mte:Agsfpa	dober
+banke	mte:Ncfpa	banka
+v	mte:Sl	v
+22	mte:Mdc	22
+državah	mte:Ncfpl	država
+.	mte:Z	.
+Kot	mte:Cs	kot
+najboljša	mte:Agsfsn	dober
+v	mte:Sl	v
+regiji	mte:Ncfsl	regija
+je	mte:Va-r3s-n	biti
+priznanje	mte:Ncnsa	priznanje
+prejela	mte:Vmep-sf	prejeti
+banka	mte:Ncfsn	banka
+Raiffeisen	mte:Npfsn	Raiffeisen
+International	mte:Npfsn	International
+,	mte:Z	,
+katere	mte:Pq-fsg	kateri
+podružnice	mte:Ncfpn	podružnica
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+za	mte:Sa	za
+najboljše	mte:Agsfpa	dober
+banke	mte:Ncfpa	banka
+izbrane	mte:Appfpn	izbran
+v	mte:Sl	v
+Albaniji	mte:Npfsl	Albanija
+,	mte:Z	,
+Romuniji	mte:Npfsl	Romunija
+in	mte:Cc	in
+Srbiji	mte:Npfsl	Srbija
+.	mte:Z	.
+Med	mte:Si	med
+kriteriji	mte:Ncmpi	kriterij
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+rast	mte:Ncfsn	rast
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+dobičkonosnost	mte:Ncfsn	dobičkonosnost
+,	mte:Z	,
+strateški	mte:Agpmpn	strateški
+odnosi	mte:Ncmpn	odnos
+,	mte:Z	,
+storitve	mte:Ncfpn	storitev
+za	mte:Sa	za
+uporabnike	mte:Ncmpa	uporabnik
+,	mte:Z	,
+konkurenčnost	mte:Ncfsn	konkurenčnost
+cen	mte:Ncfpg	cena
+in	mte:Cc	in
+inovativnost	mte:Ncfsn	inovativnost
+produktov	mte:Ncmpg	produkt
+.	mte:Z	.
+Raziskava	mte:Ncfsn	raziskava
+bank	mte:Ncfpg	banka
+na	mte:Sl	na
+razvijajočih	mte:Appmpl	razvijajoč
+se	mte:Px------y	se
+trgih	mte:Ncmpl	trg
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+poleg	mte:Sg	poleg
+regije	mte:Ncfsg	regija
+srednja	mte:Agpfsn	srednji
+in	mte:Cc	in
+vzhodna	mte:Agpfsn	vzhoden
+Evropa	mte:Npfsn	Evropa
+razdeljena	mte:Appfsn	razdeljen
+še	mte:Q	še
+na	mte:Sa	na
+regije	mte:Ncfpa	regija
+razvita	mte:Agpfsn	razvit
+Evropa	mte:Npfsn	Evropa
+,	mte:Z	,
+Bližnji	mte:Agpmsny	bližnji
+vzhod	mte:Ncmsn	vzhod
+,	mte:Z	,
+Afrika	mte:Npfsn	Afrik
+,	mte:Z	,
+Azija	mte:Npfsn	Azija
+,	mte:Z	,
+Severna	mte:Agpfsn	severen
+Amerika	mte:Npfsn	Amerika
+in	mte:Cc	in
+Latinska	mte:Agpfsn	latinski
+Amerika	mte:Npfsn	Amerika

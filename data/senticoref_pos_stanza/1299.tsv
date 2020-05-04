@@ -1,471 +1,496 @@
-token	tag
-Nobelovo	Agpfsa
-nagrado	Ncfsa
-za	Sa
-ekonomijo	Ncfsa
-letos	Rgp
-prejmejo	Vmer3p
-Peter	Npmsn
-Diamond	Npmsn
-,	Z
-Dale	Npmsn
-Mortensen	Npmsn
-in	Cc
-Christopher	Npmsn
-Pissarides	Npmsn
-za	Sa
-razvoj	Ncmsan
-teorij	Ncfpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-bodo	Va-f3p-n
-neskladja	Ncnpn
-na	Sl
-trgu	Ncmsl
-dela	Ncnsg
-čim	Rgp
-manjša	Agcnpn
-.	Z
-Letošnjo	Agpfsa
-Nobelovo	Agpfsa
-nagrado	Ncfsa
-za	Sa
-ekonomijo	Ncfsa
-si	Px---d--y
-bodo	Va-f3p-n
-razdelili	Vmep-pm
-trije	Mlcmpn
-ekonomisti	Ncmpn
-.	Z
-Nagrado	Ncfsa
-so	Va-r3p-n
-prejeli	Vmep-pm
-za	Sa
-razvoj	Ncmsan
-teorij	Ncfpg
-,	Z
-ki	Cs
-pomagajo	Vmbr3p
-pojasniti	Vmen
-,	Z
-kako	Rgp
-lahko	Rgp
-ekonomske	Agpfpn
-politike	Ncfpn
-vplivajo	Vmpr3p
-na	Sa
-brezposelnost	Ncfsa
-.	Z
-Modeli	Ncmpn
-nagrajencev	Ncmpg
-nam	Pp1-pd
-pomagajo	Vmbr3p
-razumeti	Vmbn
-,	Z
-kako	Rgp
-regulacija	Ncfsn
-in	Cc
-ekonomska	Agpfsn
-politika	Ncfsn
-vplivata	Vmpr3d
-na	Sa
-brezposelnost	Ncfsa
-,	Z
-prosta	Agpnpa
-delovna	Agpnpa
-mesta	Ncnpa
-in	Cc
-plače	Ncfpa
-,	Z
-je	Va-r3s-n
-v	Sl
-obrazložitvi	Ncfsl
-pojasnila	Ncnsg
-švedska	Agpfsn
-kraljeva	Agpfsn
-akademija	Ncfsn
-znanosti	Ncfsg
-.	Z
-Peter	Npmsn
-Diamond	Npmsn
-je	Va-r3s-n
-analiziral	Vmbp-sm
-splošna	Agpnpa
-razmerja	Ncnpa
-med	Si
-iskalci	Ncmpi
-in	Cc
-ponudniki	Ncmpi
-na	Sl
-trgu	Ncmsl
-,	Z
-Dale	Npmsn
-Mortensen	Npmsn
-in	Cc
-Christopher	Npmsn
-Pissarides	Npmsn
-pa	Cc
-sta	Va-r3d-n
-teorijo	Ncfsa
-razširila	Vmep-dm
-in	Cc
-jo	Pp3fsa--y
-prenesla	Vmep-dm
-na	Sa
-trg	Ncmsan
-dela	Ncnsg
-.	Z
-Ker	Cs
-iskanje	Ncnsn
-zaposlitve	Ncfsg
-zahteva	Vmbr3s
-veliko	Rgp
-časa	Ncmsg
-in	Cc
-virov	Ncmpg
-,	Z
-ustvari	Vmer3s
-trenja	Ncnpa
-na	Sl
-trgu	Ncmsl
-dela	Ncnsg
-,	Z
-kar	Pr-nsa
-pomaga	Vmbr3s
-pojasniti	Vmen
-,	Z
-zakaj	Rgp
-hkrati	Rgp
-obstajata	Vmpr3d
-tako	Rgp
-brezposelnost	Ncfsn
-kot	Cs
-prosta	Agpnpn
-delovna	Agpnpn
-mesta	Ncnpa
-,	Z
-menijo	Vmpr3p
-v	Sl
-akademiji	Ncfsl
-.	Z
-S	Si
-pomočjo	Ncfsi
-teorij	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-razvili	Vmep-pm
-z	Si
-analizo	Ncfsi
-trga	Ncmsg
-dela	Ncnsg
-in	Cc
-upoštevanjem	Ncnsi
-vseh	Pg-mpg
-notranjih	Agpmpg
-in	Cc
-predvsem	Q
-zunanjih	Agpmpg
-dejavnikov	Ncmpg
-,	Z
-ki	Cs
-vplivajo	Vmpr3p
-na	Sa
-njegovo	Ps3fsasm
-dinamiko	Ncfsa
-,	Z
-bodo	Va-f3p-n
-neskladja	Ncnpa
-na	Sl
-trgu	Ncmsl
-dela	Ncnsg
-čim	Rgp
-manjša	Agcnpn
-.	Z
-Kdo	Pq-msn
-so	Va-r3p-n
-nagrajenci	Ncmpn
-?	Z
-Pissarides	Npmsn
-je	Va-r3s-n
-nagrado	Ncfsa
-prejel	Vmep-sm
-za	Sa
-razlago	Ncfsa
-,	Z
-kako	Rgp
-uredbe	Ncfpn
-in	Cc
-vladna	Agpfsn
-politika	Ncfsn
-vplivajo	Vmpr3p
-na	Sa
-brezposelnost	Ncfsa
-,	Z
-ponudbe	Ncfpa
-služb	Ncfpg
-in	Cc
-plače	Ncfpa
-.	Z
-Sedemdesetletni	Agpmsny
-Diamond	Npmsn
-je	Va-r3s-n
-kot	Cs
-ekonomist	Ncmsn
-zaposlen	Appmsnn
-na	Sl
-inštitutu	Ncmsl
-za	Sa
-tehnologijo	Ncfsa
-v	Sl
-Massachusettsu	Npmsl
-,	Z
-proučuje	Vmpr3s
-pa	Cc
-socialno	Agpnsa
-varstvo	Ncnsa
-,	Z
-pokojnine	Ncfpa
-in	Cc
-davke	Ncmpa
-.	Z
-Ameriški	Agpmsny
-predsednik	Ncmsn
-Barack	Npmsn
-Obama	Npmsn
-ga	Pp3msa--y
-je	Va-r3s-n
-predlagal	Vmbp-sm
-za	Sa
-člana	Ncmsay
-sveta	Ncmsg
-guvernerjev	Ncmpg
-ameriške	Agpfsg
-centralne	Agpfsg
-banke	Ncfsg
-Federal	Npmsn
-Reserve	Npfsg
-,	Z
-vendar	Cc
-senat	Ncmsn
-njegovega	Ps3nsgsm
-imenovanja	Ncnsg
-ni	Va-r3s-y
-uspel	Vmep-sm
-potrditi	Vmen
-pred	Si
-prekinitvijo	Ncfsi
-dela	Ncnsg
-v	Sl
-kongresu	Ncmsl
-,	Z
-ki	Cs
-se	Px------y
-pripravlja	Vmpr3s
-na	Sa
-novembrske	Agpfpa
-kongresne	Agpfpa
-volitve	Ncfpa
-.	Z
-71	Mdc
--	Z
-letni	Agpmsny
-Mortensen	Npmsn
-je	Va-r3s-n
-profesor	Ncmsn
-ekonomije	Ncfsg
-na	Sl
-univerzi	Ncfsl
-v	Sl
-Evanstonu	Npmsl
-v	Sl
-zvezni	Agpfsl
-državi	Ncfsl
-Illinois	Npmsn
-,	Z
-62	Mdc
--	Z
-letni	Agpmsny
-Pissarides	Npmsn
-pa	Cc
-profesor	Ncmsn
-na	Sa
-London	Npmsan
-School	Xf
-of	Xf
-Economics	Npmsn
-.	Z
-Ta	Pd-fsn
-nagrada	Ncfsn
-je	Va-r3s-n
-tako	Rgp
-velika	Agpfsn
-,	Z
-da	Cs
-tudi	Q
-po	Sl
-tem	Pd-nsl
-,	Z
-ko	Cs
-jo	Pp3fsa--y
-dobiš	Vmer2s
-,	Z
-ne	Q
-verjameš	Vmbr2s
-,	Z
-da	Cs
-jo	Pp3fsa--y
-boš	Va-f2s-n
-dobil	Vmep-sm
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Pissarides	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-prek	Sg
-telekonference	Ncfsg
-oglasil	Vmep-sm
-akademiji	Ncfsd
-.	Z
-Na	Sa
-odločitev	Ncfsa
-kraljeve	Agpfsg
-akademije	Ncfsg
-se	Px------y
-je	Va-r3s-n
-med	Si
-prvmi	Ncmpi
-odzval	Vmep-sm
-Paul	Npmsn
-Krugman	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-Nobelovo	Agpfsa
-nagrado	Ncfsa
-za	Sa
-ekonomijo	Ncfsa
-prejel	Vmep-sm
-leta	Ncnsg
-2008	Mdc
-.	Z
-Diamond	Npmsn
-,	Z
-Mortensen	Npmsn
-in	Cc
-Pissarides	Npmsn
-so	Va-r3p-n
-si	Px---d--y
-jo	Pp3fsa--y
-močno	Rgp
-zaslužili	Vmep-pm
-,	Z
-njihovo	Ps3nsap
-delo	Ncnsa
-pa	Cc
-je	Va-r3s-n
-zelo	Rgp
-pomembno	Agpnsn
-,	Z
-je	Va-r3s-n
-zapisal	Vmep-sm
-v	Sl
-blogu	Ncmsl
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-časnika	Ncmsg
-The	Xf
-New	Npmsn
-York	Npmsn
-Times	Npmsn
-.	Z
-Lani	Rgp
-nagrado	Ncfsa
-prvič	Rgp
-dobila	Vmep-sf
-ženska	Ncfsn
-To	Pd-fsa
-prestižno	Agpfsa
-nagrado	Ncfsa
-sta	Va-r3d-n
-lani	Rgp
-prejela	Vmep-dm
-Američana	Npmsay
-Oliver	Npmsn
-Williamson	Npmsn
-in	Cc
-Elinor	Npfsn
-Ostrom	Npmsn
-,	Z
-slednja	Agpfsn
-kot	Cs
-prva	Mlofsn
-ženska	Ncfsn
-v	Sl
-zgodovini	Ncfsl
-.	Z
-Nagrajenca	Ncmdn
-sta	Va-r3d-n
-po	Sl
-mnenju	Ncnsl
-žirije	Ncfsg
-dokazala	Vmep-dm
-,	Z
-da	Cs
-lahko	Rgp
-gospodarska	Agpfsn
-analiza	Ncfsn
-osvetli	Vmer3s
-večino	Ncfsa
-oblik	Ncfpg
-družbene	Agpfsg
-ureditve	Ncfsg
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-zadnja	Agpfsn
-objava	Ncfsn
-dobitnika	Ncmsg
-ene	Mlpfsg
-od	Sg
-šestih	Mlc-pg
-nagrad	Ncfpg
-sklada	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-ustanovil	Vmep-sm
-švedski	Agpmsny
-industrialec	Ncmsn
-in	Cc
-izumitelj	Ncmsn
-dinamita	Ncmsg
-Alfred	Npmsn
-Nobel	Npmsn
-.	Z
-Nagrajenci	Ncmpn
-bodo	Va-f3p-n
-nagrado	Ncfsa
-prevzeli	Vmep-pm
-10	Mdc
-.	Z
-decembra	Ncmsg
-letos	Rgp
-na	Sa
-obletnico	Ncfsa
-smrti	Ncfsg
-Nobela	Npfsg
-.	Z
-Nagrada	Ncfsn
-je	Va-r3s-n
-vredna	Agpfsn
-milijon	Ncmsn
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Nobelovo	mte:Agpfsa	Nobelov
+nagrado	mte:Ncfsa	nagrada
+za	mte:Sa	za
+ekonomijo	mte:Ncfsa	ekonomija
+letos	mte:Rgp	letos
+prejmejo	mte:Vmer3p	prejeti
+Peter	mte:Npmsn	Peter
+Diamond	mte:Npmsn	Diamond
+,	mte:Z	,
+Dale	mte:Npmsn	Dale
+Mortensen	mte:Npmsn	Mortensen
+in	mte:Cc	in
+Christopher	mte:Npmsn	Christopher
+Pissarides	mte:Npmsn	Pissarides
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+teorij	mte:Ncfpg	teorija
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+bodo	mte:Va-f3p-n	biti
+neskladja	mte:Ncnpn	neskladje
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+dela	mte:Ncnsg	delo
+čim	mte:Rgp	čim
+manjša	mte:Agcnpn	majhen
+.	mte:Z	.
+Letošnjo	mte:Agpfsa	letošnji
+Nobelovo	mte:Agpfsa	Nobelov
+nagrado	mte:Ncfsa	nagrada
+za	mte:Sa	za
+ekonomijo	mte:Ncfsa	ekonomija
+si	mte:Px---d--y	se
+bodo	mte:Va-f3p-n	biti
+razdelili	mte:Vmep-pm	razdeliti
+trije	mte:Mlcmpn	trije
+ekonomisti	mte:Ncmpn	ekonomist
+.	mte:Z	.
+Nagrado	mte:Ncfsa	nagrada
+so	mte:Va-r3p-n	biti
+prejeli	mte:Vmep-pm	prejeti
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+teorij	mte:Ncfpg	teorija
+,	mte:Z	,
+ki	mte:Cs	ki
+pomagajo	mte:Vmbr3p	pomagati
+pojasniti	mte:Vmen	pojasniti
+,	mte:Z	,
+kako	mte:Rgp	kako
+lahko	mte:Rgp	lahko
+ekonomske	mte:Agpfpn	ekonomski
+politike	mte:Ncfpn	politika
+vplivajo	mte:Vmpr3p	vplivati
+na	mte:Sa	na
+brezposelnost	mte:Ncfsa	brezposelnost
+.	mte:Z	.
+Modeli	mte:Ncmpn	model
+nagrajencev	mte:Ncmpg	nagrajenec
+nam	mte:Pp1-pd	jaz
+pomagajo	mte:Vmbr3p	pomagati
+razumeti	mte:Vmbn	razumeti
+,	mte:Z	,
+kako	mte:Rgp	kako
+regulacija	mte:Ncfsn	regulacija
+in	mte:Cc	in
+ekonomska	mte:Agpfsn	ekonomski
+politika	mte:Ncfsn	politika
+vplivata	mte:Vmpr3d	vplivati
+na	mte:Sa	na
+brezposelnost	mte:Ncfsa	brezposelnost
+,	mte:Z	,
+prosta	mte:Agpnpa	prost
+delovna	mte:Agpnpa	deloven
+mesta	mte:Ncnpa	mesto
+in	mte:Cc	in
+plače	mte:Ncfpa	plača
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+obrazložitvi	mte:Ncfsl	obrazložitev
+pojasnila	mte:Ncnsg	pojasnilo
+švedska	mte:Agpfsn	švedski
+kraljeva	mte:Agpfsn	kraljev
+akademija	mte:Ncfsn	akademija
+znanosti	mte:Ncfsg	znanost
+.	mte:Z	.
+Peter	mte:Npmsn	Peter
+Diamond	mte:Npmsn	Diamond
+je	mte:Va-r3s-n	biti
+analiziral	mte:Vmbp-sm	analizirati
+splošna	mte:Agpnpa	splošen
+razmerja	mte:Ncnpa	razmerje
+med	mte:Si	med
+iskalci	mte:Ncmpi	iskalec
+in	mte:Cc	in
+ponudniki	mte:Ncmpi	ponudnik
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+,	mte:Z	,
+Dale	mte:Npmsn	Dale
+Mortensen	mte:Npmsn	Mortensen
+in	mte:Cc	in
+Christopher	mte:Npmsn	Christopher
+Pissarides	mte:Npmsn	Pissarides
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+teorijo	mte:Ncfsa	teorija
+razširila	mte:Vmep-dm	razširiti
+in	mte:Cc	in
+jo	mte:Pp3fsa--y	on
+prenesla	mte:Vmep-dm	prenesti
+na	mte:Sa	na
+trg	mte:Ncmsan	trg
+dela	mte:Ncnsg	delo
+.	mte:Z	.
+Ker	mte:Cs	ker
+iskanje	mte:Ncnsn	iskanje
+zaposlitve	mte:Ncfsg	zaposlitev
+zahteva	mte:Vmbr3s	zahtevati
+veliko	mte:Rgp	veliko
+časa	mte:Ncmsg	čas
+in	mte:Cc	in
+virov	mte:Ncmpg	vir
+,	mte:Z	,
+ustvari	mte:Vmer3s	ustvariti
+trenja	mte:Ncnpa	trenje
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+dela	mte:Ncnsg	delo
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+pomaga	mte:Vmbr3s	pomagati
+pojasniti	mte:Vmen	pojasniti
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+hkrati	mte:Rgp	hkrati
+obstajata	mte:Vmpr3d	obstajati
+tako	mte:Rgp	tako
+brezposelnost	mte:Ncfsn	brezposelnost
+kot	mte:Cs	kot
+prosta	mte:Agpnpn	prost
+delovna	mte:Agpnpn	deloven
+mesta	mte:Ncnpa	mesto
+,	mte:Z	,
+menijo	mte:Vmpr3p	meniti
+v	mte:Sl	v
+akademiji	mte:Ncfsl	akademija
+.	mte:Z	.
+S	mte:Si	z
+pomočjo	mte:Ncfsi	pomoč
+teorij	mte:Ncfpg	teorija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+razvili	mte:Vmep-pm	razviti
+z	mte:Si	z
+analizo	mte:Ncfsi	analiza
+trga	mte:Ncmsg	trg
+dela	mte:Ncnsg	delo
+in	mte:Cc	in
+upoštevanjem	mte:Ncnsi	upoštevanje
+vseh	mte:Pg-mpg	ves
+notranjih	mte:Agpmpg	notranji
+in	mte:Cc	in
+predvsem	mte:Q	predvsem
+zunanjih	mte:Agpmpg	zunanji
+dejavnikov	mte:Ncmpg	dejavnik
+,	mte:Z	,
+ki	mte:Cs	ki
+vplivajo	mte:Vmpr3p	vplivati
+na	mte:Sa	na
+njegovo	mte:Ps3fsasm	njegov
+dinamiko	mte:Ncfsa	dinamika
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+neskladja	mte:Ncnpa	neskladje
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+dela	mte:Ncnsg	delo
+čim	mte:Rgp	čim
+manjša	mte:Agcnpn	majhen
+.	mte:Z	.
+Kdo	mte:Pq-msn	kdo
+so	mte:Va-r3p-n	biti
+nagrajenci	mte:Ncmpn	nagrajenec
+?	mte:Z	?
+Pissarides	mte:Npmsn	Pissarides
+je	mte:Va-r3s-n	biti
+nagrado	mte:Ncfsa	nagrada
+prejel	mte:Vmep-sm	prejeti
+za	mte:Sa	za
+razlago	mte:Ncfsa	razlaga
+,	mte:Z	,
+kako	mte:Rgp	kako
+uredbe	mte:Ncfpn	uredba
+in	mte:Cc	in
+vladna	mte:Agpfsn	vladen
+politika	mte:Ncfsn	politika
+vplivajo	mte:Vmpr3p	vplivati
+na	mte:Sa	na
+brezposelnost	mte:Ncfsa	brezposelnost
+,	mte:Z	,
+ponudbe	mte:Ncfpa	ponudba
+služb	mte:Ncfpg	služba
+in	mte:Cc	in
+plače	mte:Ncfpa	plača
+.	mte:Z	.
+Sedemdesetletni	mte:Agpmsny	sedemdesetleten
+Diamond	mte:Npmsn	Diamond
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+ekonomist	mte:Ncmsn	ekonomist
+zaposlen	mte:Appmsnn	zaposlen
+na	mte:Sl	na
+inštitutu	mte:Ncmsl	inštitut
+za	mte:Sa	za
+tehnologijo	mte:Ncfsa	tehnologija
+v	mte:Sl	v
+Massachusettsu	mte:Npmsl	Massachusettsu
+,	mte:Z	,
+proučuje	mte:Vmpr3s	proučevati
+pa	mte:Cc	pa
+socialno	mte:Agpnsa	socialen
+varstvo	mte:Ncnsa	varstvo
+,	mte:Z	,
+pokojnine	mte:Ncfpa	pokojnina
+in	mte:Cc	in
+davke	mte:Ncmpa	davek
+.	mte:Z	.
+Ameriški	mte:Agpmsny	ameriški
+predsednik	mte:Ncmsn	predsednik
+Barack	mte:Npmsn	Barack
+Obama	mte:Npmsn	Obam
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+predlagal	mte:Vmbp-sm	predlagati
+za	mte:Sa	za
+člana	mte:Ncmsay	član
+sveta	mte:Ncmsg	svet
+guvernerjev	mte:Ncmpg	guverner
+ameriške	mte:Agpfsg	ameriški
+centralne	mte:Agpfsg	centralen
+banke	mte:Ncfsg	banka
+Federal	mte:Npmsn	Federal
+Reserve	mte:Npfsg	Reserve
+,	mte:Z	,
+vendar	mte:Cc	vendar
+senat	mte:Ncmsn	senat
+njegovega	mte:Ps3nsgsm	njegov
+imenovanja	mte:Ncnsg	imenovanje
+ni	mte:Va-r3s-y	biti
+uspel	mte:Vmep-sm	uspeti
+potrditi	mte:Vmen	potrditi
+pred	mte:Si	pred
+prekinitvijo	mte:Ncfsi	prekinitev
+dela	mte:Ncnsg	delo
+v	mte:Sl	v
+kongresu	mte:Ncmsl	kongres
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+pripravlja	mte:Vmpr3s	pripravljati
+na	mte:Sa	na
+novembrske	mte:Agpfpa	novembrski
+kongresne	mte:Agpfpa	kongresen
+volitve	mte:Ncfpa	volitev
+.	mte:Z	.
+71	mte:Mdc	71
+-	mte:Z	-
+letni	mte:Agpmsny	leten
+Mortensen	mte:Npmsn	Mortensen
+je	mte:Va-r3s-n	biti
+profesor	mte:Ncmsn	profesor
+ekonomije	mte:Ncfsg	ekonomija
+na	mte:Sl	na
+univerzi	mte:Ncfsl	univerza
+v	mte:Sl	v
+Evanstonu	mte:Npmsl	Evanston
+v	mte:Sl	v
+zvezni	mte:Agpfsl	zvezen
+državi	mte:Ncfsl	država
+Illinois	mte:Npmsn	Illinois
+,	mte:Z	,
+62	mte:Mdc	62
+-	mte:Z	-
+letni	mte:Agpmsny	leten
+Pissarides	mte:Npmsn	Pissarides
+pa	mte:Cc	pa
+profesor	mte:Ncmsn	profesor
+na	mte:Sa	na
+London	mte:Npmsan	London
+School	mte:Xf	school
+of	mte:Xf	of
+Economics	mte:Npmsn	Economics
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+nagrada	mte:Ncfsn	nagrada
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+velika	mte:Agpfsn	velik
+,	mte:Z	,
+da	mte:Cs	da
+tudi	mte:Q	tudi
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+jo	mte:Pp3fsa--y	on
+dobiš	mte:Vmer2s	dobiti
+,	mte:Z	,
+ne	mte:Q	ne
+verjameš	mte:Vmbr2s	verjeti
+,	mte:Z	,
+da	mte:Cs	da
+jo	mte:Pp3fsa--y	on
+boš	mte:Va-f2s-n	biti
+dobil	mte:Vmep-sm	dobiti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Pissarides	mte:Npmsn	Pissarides
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+prek	mte:Sg	prek
+telekonference	mte:Ncfsg	telekonferenca
+oglasil	mte:Vmep-sm	oglasiti
+akademiji	mte:Ncfsd	akademija
+.	mte:Z	.
+Na	mte:Sa	na
+odločitev	mte:Ncfsa	odločitev
+kraljeve	mte:Agpfsg	kraljev
+akademije	mte:Ncfsg	akademija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+prvmi	mte:Ncmpi	prvmi
+odzval	mte:Vmep-sm	odzvati
+Paul	mte:Npmsn	Paul
+Krugman	mte:Npmsn	Krugman
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+Nobelovo	mte:Agpfsa	Nobelov
+nagrado	mte:Ncfsa	nagrada
+za	mte:Sa	za
+ekonomijo	mte:Ncfsa	ekonomija
+prejel	mte:Vmep-sm	prejeti
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+.	mte:Z	.
+Diamond	mte:Npmsn	Diamond
+,	mte:Z	,
+Mortensen	mte:Npmsn	Mortensen
+in	mte:Cc	in
+Pissarides	mte:Npmsn	Pissarides
+so	mte:Va-r3p-n	biti
+si	mte:Px---d--y	se
+jo	mte:Pp3fsa--y	on
+močno	mte:Rgp	močno
+zaslužili	mte:Vmep-pm	zaslužiti
+,	mte:Z	,
+njihovo	mte:Ps3nsap	njihov
+delo	mte:Ncnsa	delo
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zelo	mte:Rgp	zelo
+pomembno	mte:Agpnsn	pomemben
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+v	mte:Sl	v
+blogu	mte:Ncmsl	blog
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+časnika	mte:Ncmsg	časnik
+The	mte:Xf	the
+New	mte:Npmsn	New
+York	mte:Npmsn	York
+Times	mte:Npmsn	Times
+.	mte:Z	.
+Lani	mte:Rgp	lani
+nagrado	mte:Ncfsa	nagrada
+prvič	mte:Rgp	prvič
+dobila	mte:Vmep-sf	dobiti
+ženska	mte:Ncfsn	ženska
+To	mte:Pd-fsa	ta
+prestižno	mte:Agpfsa	prestižen
+nagrado	mte:Ncfsa	nagrada
+sta	mte:Va-r3d-n	biti
+lani	mte:Rgp	lani
+prejela	mte:Vmep-dm	prejeti
+Američana	mte:Npmsay	Američan
+Oliver	mte:Npmsn	Oliver
+Williamson	mte:Npmsn	Williamson
+in	mte:Cc	in
+Elinor	mte:Npfsn	Elinor
+Ostrom	mte:Npmsn	Ostr
+,	mte:Z	,
+slednja	mte:Agpfsn	slednji
+kot	mte:Cs	kot
+prva	mte:Mlofsn	prvi
+ženska	mte:Ncfsn	ženska
+v	mte:Sl	v
+zgodovini	mte:Ncfsl	zgodovina
+.	mte:Z	.
+Nagrajenca	mte:Ncmdn	nagrajenca
+sta	mte:Va-r3d-n	biti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+žirije	mte:Ncfsg	žirija
+dokazala	mte:Vmep-dm	dokazati
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+gospodarska	mte:Agpfsn	gospodarski
+analiza	mte:Ncfsn	analiza
+osvetli	mte:Vmer3s	osveti
+večino	mte:Ncfsa	večina
+oblik	mte:Ncfpg	oblika
+družbene	mte:Agpfsg	družben
+ureditve	mte:Ncfsg	ureditev
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+zadnja	mte:Agpfsn	zadnji
+objava	mte:Ncfsn	objava
+dobitnika	mte:Ncmsg	dobitnik
+ene	mte:Mlpfsg	en
+od	mte:Sg	od
+šestih	mte:Mlc-pg	šest
+nagrad	mte:Ncfpg	nagrada
+sklada	mte:Ncmsg	sklad
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+ustanovil	mte:Vmep-sm	ustanoviti
+švedski	mte:Agpmsny	švedski
+industrialec	mte:Ncmsn	industrialec
+in	mte:Cc	in
+izumitelj	mte:Ncmsn	izumitelj
+dinamita	mte:Ncmsg	dinamita
+Alfred	mte:Npmsn	Alfred
+Nobel	mte:Npmsn	Nobel
+.	mte:Z	.
+Nagrajenci	mte:Ncmpn	nagrajenec
+bodo	mte:Va-f3p-n	biti
+nagrado	mte:Ncfsa	nagrada
+prevzeli	mte:Vmep-pm	prevzeti
+10	mte:Mdc	10
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+letos	mte:Rgp	letos
+na	mte:Sa	na
+obletnico	mte:Ncfsa	obletnica
+smrti	mte:Ncfsg	smrt
+Nobela	mte:Npfsg	Nobel
+.	mte:Z	.
+Nagrada	mte:Ncfsn	nagrada
+je	mte:Va-r3s-n	biti
+vredna	mte:Agpfsn	vreden
+milijon	mte:Ncmsn	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Sklad	mte:Ncmsn	sklad
+za	mte:Sa	za
+nagrado	mte:Ncfsa	nagrada
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+1968	mte:Mdc	1968
+v	mte:Sa	v
+spomin	mte:Ncmsan	spomin
+Alfredu	mte:Npmsd	Alfred
+Nobelu	mte:Npmsd	Nobel
+ustanovila	mte:Vmep-sf	ustanoviti
+Švedska	mte:Agpfsn	Švedska
+centralna	mte:Agpfsn	centralen
+banka	mte:Ncfsn	banka
+,	mte:Z	,
+prvo	mte:Mlofsa	prvi
+Nobelovo	mte:Agpfsa	Nobelov
+nagrado	mte:Ncfsa	nagrada
+za	mte:Sa	za
+ekonomijo	mte:Ncfsa	ekonomija
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+podelili	mte:Vmep-pm	podeliti
+leta	mte:Ncnsg	leto
+1969	mte:Mdc	1969

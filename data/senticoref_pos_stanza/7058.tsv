@@ -1,393 +1,423 @@
-token	tag
-Afero	Ncfsa
-banke	Ncfsg
-preiskujejo	Vmpr3p
-tudi	Q
-slovenski	Agpmpn
-kriminalisti	Ncmpn
-Uslužbenec	Ncmsn
-banke	Ncfsg
-Hypo	Npmsn
-Alpe	Npmsn
--	Z
-Adria	Npfsn
-je	Va-r3s-n
-spregovoril	Vmep-sm
-predsednik	Ncmsn
-uprave	Ncfsg
-Wolfgang	Npmsn
-Kulterer	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-v	Sl
-dobrih	Agpmpl
-odnosih	Ncmpl
-z	Si
-Ivom	Npmsi
-Sanaderjem	Npmsi
-,	Z
-denar	Ncmsan
-s	Sg
-Hrvaške	Npfsg
-pa	Cc
-naj	Q
-bi	Va-c
-z	Si
-zasebnimi	Agpnpi
-letali	Ncnpi
-vozili	Vmpp-pm
-v	Sa
-Celovec	Npmsan
-.	Z
-Vzleti	Vmer3s
-iz	Sg
-Celovca	Npmsg
-so	Va-r3p-n
-potekali	Vmpp-pm
-brez	Sg
-večjih	Agcfpg
-kontrol	Ncfpg
-.	Z
-Lahko	Rgp
-si	Px---d--y
-vzel	Vmep-sm
-s	Si
-seboj	Px---i
-,	Z
-kar	Pr-nsa
-si	Px---d--y
-hotel	Vmpp-sm
-.	Z
-Vedno	Rgp
-sta	Va-r3d-n
-bila	Va-p-dm
-zraven	Rgp
-kdo	Pq-msn
-od	Sg
-vodilnih	Agpmpg
-in	Cc
-kovček	Ncmsn
-z	Si
-denarjem	Ncmsi
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-neimenovani	Appmsny
-bančni	Agpmsny
-uslužbenec	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-delal	Vmpp-sm
-na	Sl
-oddelku	Ncmsl
-za	Sa
-trezor	Ncmsan
-.	Z
-Kot	Cs
-je	Va-r3s-n
-še	Q
-dejal	Vmep-sm
-nekdanji	Agpmsny
-uslužbenec	Ncmsn
-avstrijske	Agpfsg
-banke	Ncfsg
-v	Sl
-pogovoru	Ncmsl
-za	Sa
-televizijo	Ncfsa
-ORF	Npmsn
-,	Z
-je	Va-r3s-n
-imel	Vmpp-sm
-Kulterer	Npmsn
-dobre	Agpmpa
-odnose	Ncmpa
-s	Si
-tedanjim	Agpmsi
-hrvaškim	Agpmsi
-premierjem	Ncmsi
-Ivom	Npmsi
-Sanaderjem	Npmsi
-,	Z
-njegov	Ps3msnsm
-namestnik	Ncmsn
-Günter	Npmsn
-Striedinger	Npmsn
-pa	Cc
-je	Va-r3s-n
-skrbel	Vmpp-sm
-za	Sa
-hrvaškega	Agpmsa
-generala	Ncmsay
-Vladimirja	Npmsay
-Zagorca	Npmsay
-.	Z
-Denar	Ncmsan
-s	Sg
-Hrvaške	Npfsg
-naj	Q
-bi	Va-c
-z	Si
-zasebnimi	Agpnpi
-letali	Ncnpi
-vozili	Vmpp-pm
-v	Sa
-Celovec	Npmsan
-,	Z
-od	Sg
-tam	Rgp
-pa	Cc
-dalje	Rgp
-v	Sa
-Liechtenstein	Npmsan
-.	Z
-Poslovalnica	Ncfsn
-za	Sa
-zaupne	Agpmpa
-posle	Ncmpa
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-grad	Ncmsn
-Freyenthurn	Npmsn
-V	Sl
-gradu	Ncmsl
-sta	Va-r3d-n
-bila	Va-p-dm
-okence	Ncnsn
-za	Sa
-svetovanje	Ncnsa
-in	Cc
-trezor	Ncmsan
-,	Z
-od	Sg
-koder	Cs
-so	Va-r3p-n
-izplačevali	Vmpp-pm
-denar	Ncmsan
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-anonimnež	Ncmsn
-.	Z
-Stranke	Ncfpn
-naj	Q
-bi	Va-c
-skrivoma	Rgp
-prihajale	Vmpp-pf
-iz	Sg
-Italije	Npfsg
-in	Cc
-s	Sg
-Hrvaške	Npfsg
-,	Z
-če	Cs
-so	Va-r3p-n
-nastale	Vmep-pf
-kakšne	Pq-fpn
-težave	Ncfpn
-,	Z
-pa	Cc
-naj	Q
-bi	Va-c
-Kulterer	Npmsn
-izkoristil	Vmep-sm
-svoja	Px-npa
-poznanstva	Ncnpa
-,	Z
-med	Si
-drugim	Mlpnsi
-tudi	Q
-z	Si
-nekdanjim	Agpmsi
-koroškim	Agpmsi
-glavarjem	Ncmsi
-Jörgom	Npmsi
-Haiderjem	Npmsi
-.	Z
-Banka	Npfsn
-Hypo	Npfsn
-Alpe	Npmsn
--	Z
-Adria	Npfsn
-je	Va-r3s-n
-že	Q
-nekaj	Rgp
-časa	Ncmsg
-tarča	Ncfsn
-preiskav	Ncfpg
-zaradi	Sg
-sumov	Ncmpg
-različnih	Agpnpg
-kaznivih	Agpnpg
-dejanj	Ncnpg
-,	Z
-med	Si
-njimi	Pp3mpi
-so	Va-r3p-n
-zloraba	Ncfsn
-položaja	Ncmsg
-,	Z
-podkupovanje	Ncnsn
-in	Cc
-pranje	Ncnsn
-denarja	Ncmsg
-.	Z
-V	Sl
-Avstriji	Npfsl
-so	Va-r3p-n
-13	Mdc
-.	Z
-avgusta	Ncmsg
-zaradi	Sg
-suma	Ncmsg
-poneverbe	Ncfsg
-aretirali	Vmbp-pm
-nekdanjega	Agpmsa
-predsednika	Ncmsay
-uprave	Ncfsg
-banke	Ncfsg
-Wolfganga	Npmsg
-Kultererja	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-še	Q
-vedno	Rgp
-v	Sl
-preiskovalnem	Agpmsl
-zaporu	Ncmsl
-.	Z
-Kulterer	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-banko	Ncfsa
-vodil	Vmpp-sm
-med	Si
-letoma	Ncndi
-1992	Mdc
-in	Cc
-2006	Mdc
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-novembra	Ncmsg
-2008	Mdc
-zaradi	Sg
-prirejanja	Ncnsg
-bilanc	Ncfpg
-obsojen	Appmsnn
-na	Sa
-denarno	Agpfsa
-kazen	Ncfsa
-v	Sl
-višini	Ncfsl
-140.000	Mdc
-evrov	Ncmpg
-.	Z
-V	Sl
-preteklih	Appmpl
-mesecih	Ncmpl
-so	Va-r3p-n
-ga	Pp3msa--y
-pravosodni	Agpmpn
-organi	Ncmpn
-pod	Sa
-drobnogled	Ncmsan
-vzeli	Vmep-pm
-zaradi	Sg
-suma	Ncmsg
-pranja	Ncnsg
-denarja	Ncmsg
-in	Cc
-dvomljivih	Agpmpg
-poslov	Ncmpg
-na	Sl
-Balkanu	Npmsl
-.	Z
-Kriminalistična	Agpfsn
-preiskava	Ncfsn
-tudi	Q
-v	Sl
-Sloveniji	Npfsl
-Zaradi	Sg
-afere	Ncfsg
-banke	Ncfsg
-Hypo	Npfsn
-Alpe	Npmsn
--	Z
-Adria	Npfsn
-vodijo	Vmpr3p
-kriminalisti	Ncmpn
-preiskavo	Ncfsa
-tudi	Q
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Kaj	Pq-nsa
-in	Cc
-koga	Pq-msa
-preiskujejo	Vmpr3p
-,	Z
-za	Sa
-zdaj	Rgp
-še	Q
-ni	Va-r3s-y
-znano	Appnsn
-.	Z
-Po	Sl
-neuradnih	Agpmpl
-podatkih	Ncmpl
-naj	Q
-bi	Va-c
-bili	Va-p-pm
-zaskrbljeni	Appmpn
-predvsem	Q
-v	Sl
-LDS	Npfsl
--	Z
-u	Npmsn
-in	Cc
-v	Sl
-krogih	Ncmpl
-,	Z
-ki	Cs
-so	Va-r3p-n
-stranki	Ncfsd
-blizu	Rgp
-.	Z
-Kot	Cs
-smo	Va-r1p-n
-o	Sl
-tem	Pd-nsl
-že	Q
-pisali	Vmpp-pm
-na	Sl
-MMC	Ncmsn
--	Z
-ju	Pp3mda--y
-,	Z
-naj	Q
-bi	Va-c
-avstrijska	Agpfsn
-banka	Ncfsn
-stranki	Ncfsd
-odobrila	Vmep-sf
-ugodna	Agpnpa
-posojila	Ncnpa
-,	Z
-namenjena	Appfsn
-sanaciji	Ncfsd
-stranke	Ncfsg
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-njena	Ps3fsnsf
-predsednica	Ncfsn
-postala	Vmep-sf
-Katarina	Npfsn
-Kresal	Npfsn
-.	Z
+token	tag	lemma
+Afero	mte:Ncfsa	afera
+banke	mte:Ncfsg	banka
+preiskujejo	mte:Vmpr3p	preiskovati
+tudi	mte:Q	tudi
+slovenski	mte:Agpmpn	slovenski
+kriminalisti	mte:Ncmpn	kriminalist
+Uslužbenec	mte:Ncmsn	uslužbenec
+banke	mte:Ncfsg	banka
+Hypo	mte:Npmsn	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+je	mte:Va-r3s-n	biti
+spregovoril	mte:Vmep-sm	spregovoriti
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Wolfgang	mte:Npmsn	Wolfgang
+Kulterer	mte:Npmsn	Kulterer
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+v	mte:Sl	v
+dobrih	mte:Agpmpl	dober
+odnosih	mte:Ncmpl	odnos
+z	mte:Si	z
+Ivom	mte:Npmsi	Ivom
+Sanaderjem	mte:Npmsi	Sanader
+,	mte:Z	,
+denar	mte:Ncmsan	denar
+s	mte:Sg	z
+Hrvaške	mte:Npfsg	Hrvaška
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+z	mte:Si	z
+zasebnimi	mte:Agpnpi	zaseben
+letali	mte:Ncnpi	letalo
+vozili	mte:Vmpp-pm	voziti
+v	mte:Sa	v
+Celovec	mte:Npmsan	Celovec
+.	mte:Z	.
+Vzleti	mte:Vmer3s	vzlesti
+iz	mte:Sg	iz
+Celovca	mte:Npmsg	Celovec
+so	mte:Va-r3p-n	biti
+potekali	mte:Vmpp-pm	potekati
+brez	mte:Sg	brez
+večjih	mte:Agcfpg	velik
+kontrol	mte:Ncfpg	kontrol
+.	mte:Z	.
+Lahko	mte:Rgp	lahko
+si	mte:Px---d--y	se
+vzel	mte:Vmep-sm	vzeti
+s	mte:Si	z
+seboj	mte:Px---i	se
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+si	mte:Px---d--y	se
+hotel	mte:Vmpp-sm	hoteti
+.	mte:Z	.
+Vedno	mte:Rgp	vedno
+sta	mte:Va-r3d-n	biti
+bila	mte:Va-p-dm	biti
+zraven	mte:Rgp	zraven
+kdo	mte:Pq-msn	kdo
+od	mte:Sg	od
+vodilnih	mte:Agpmpg	vodilen
+in	mte:Cc	in
+kovček	mte:Ncmsn	kovček
+z	mte:Si	z
+denarjem	mte:Ncmsi	denar
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+neimenovani	mte:Appmsny	neimenovan
+bančni	mte:Agpmsny	bančen
+uslužbenec	mte:Ncmsn	uslužbenec
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+delal	mte:Vmpp-sm	delati
+na	mte:Sl	na
+oddelku	mte:Ncmsl	oddelek
+za	mte:Sa	za
+trezor	mte:Ncmsan	trezor
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+nekdanji	mte:Agpmsny	nekdanji
+uslužbenec	mte:Ncmsn	uslužbenec
+avstrijske	mte:Agpfsg	avstrijski
+banke	mte:Ncfsg	banka
+v	mte:Sl	v
+pogovoru	mte:Ncmsl	pogovor
+za	mte:Sa	za
+televizijo	mte:Ncfsa	televizija
+ORF	mte:Npmsn	ORF
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+Kulterer	mte:Npmsn	Kulterer
+dobre	mte:Agpmpa	dober
+odnose	mte:Ncmpa	odnos
+s	mte:Si	z
+tedanjim	mte:Agpmsi	tedanji
+hrvaškim	mte:Agpmsi	hrvaški
+premierjem	mte:Ncmsi	premier
+Ivom	mte:Npmsi	Ivom
+Sanaderjem	mte:Npmsi	Sanader
+,	mte:Z	,
+njegov	mte:Ps3msnsm	njegov
+namestnik	mte:Ncmsn	namestnik
+Günter	mte:Npmsn	Günter
+Striedinger	mte:Npmsn	Striedinger
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+skrbel	mte:Vmpp-sm	skrbeti
+za	mte:Sa	za
+hrvaškega	mte:Agpmsa	hrvaški
+generala	mte:Ncmsay	general
+Vladimirja	mte:Npmsay	Vladimir
+Zagorca	mte:Npmsay	Zagorc
+.	mte:Z	.
+Denar	mte:Ncmsan	denar
+s	mte:Sg	z
+Hrvaške	mte:Npfsg	Hrvaška
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+z	mte:Si	z
+zasebnimi	mte:Agpnpi	zaseben
+letali	mte:Ncnpi	letalo
+vozili	mte:Vmpp-pm	voziti
+v	mte:Sa	v
+Celovec	mte:Npmsan	Celovec
+,	mte:Z	,
+od	mte:Sg	od
+tam	mte:Rgp	tam
+pa	mte:Cc	pa
+dalje	mte:Rgp	dalje
+v	mte:Sa	v
+Liechtenstein	mte:Npmsan	Liechtenstein
+.	mte:Z	.
+Poslovalnica	mte:Ncfsn	poslovalnica
+za	mte:Sa	za
+zaupne	mte:Agpmpa	zaupen
+posle	mte:Ncmpa	posel
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+grad	mte:Ncmsn	grad
+Freyenthurn	mte:Npmsn	Freyenthurn
+V	mte:Sl	v
+gradu	mte:Ncmsl	grad
+sta	mte:Va-r3d-n	biti
+bila	mte:Va-p-dm	biti
+okence	mte:Ncnsn	okenca
+za	mte:Sa	za
+svetovanje	mte:Ncnsa	svetovanje
+in	mte:Cc	in
+trezor	mte:Ncmsan	trezor
+,	mte:Z	,
+od	mte:Sg	od
+koder	mte:Cs	koder
+so	mte:Va-r3p-n	biti
+izplačevali	mte:Vmpp-pm	izplačevati
+denar	mte:Ncmsan	denar
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+anonimnež	mte:Ncmsn	anonimnež
+.	mte:Z	.
+Stranke	mte:Ncfpn	stranka
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+skrivoma	mte:Rgp	skrivoma
+prihajale	mte:Vmpp-pf	prihajati
+iz	mte:Sg	iz
+Italije	mte:Npfsg	Italija
+in	mte:Cc	in
+s	mte:Sg	z
+Hrvaške	mte:Npfsg	Hrvaška
+,	mte:Z	,
+če	mte:Cs	če
+so	mte:Va-r3p-n	biti
+nastale	mte:Vmep-pf	nastati
+kakšne	mte:Pq-fpn	kakšen
+težave	mte:Ncfpn	težava
+,	mte:Z	,
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Kulterer	mte:Npmsn	Kulterer
+izkoristil	mte:Vmep-sm	izkoristiti
+svoja	mte:Px-npa	svoj
+poznanstva	mte:Ncnpa	poznanstvo
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+tudi	mte:Q	tudi
+z	mte:Si	z
+nekdanjim	mte:Agpmsi	nekdanji
+koroškim	mte:Agpmsi	koroški
+glavarjem	mte:Ncmsi	glavar
+Jörgom	mte:Npmsi	Jörg
+Haiderjem	mte:Npmsi	Haider
+.	mte:Z	.
+Banka	mte:Npfsn	banka
+Hypo	mte:Npfsn	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+tarča	mte:Ncfsn	tarča
+preiskav	mte:Ncfpg	preiskava
+zaradi	mte:Sg	zaradi
+sumov	mte:Ncmpg	sum
+različnih	mte:Agpnpg	različen
+kaznivih	mte:Agpnpg	kazniv
+dejanj	mte:Ncnpg	dejanje
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+so	mte:Va-r3p-n	biti
+zloraba	mte:Ncfsn	zloraba
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+podkupovanje	mte:Ncnsn	podkupovanje
+in	mte:Cc	in
+pranje	mte:Ncnsn	pranje
+denarja	mte:Ncmsg	denar
+.	mte:Z	.
+V	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+so	mte:Va-r3p-n	biti
+13	mte:Mdc	13
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+zaradi	mte:Sg	zaradi
+suma	mte:Ncmsg	suma
+poneverbe	mte:Ncfsg	poneverba
+aretirali	mte:Vmbp-pm	aretirati
+nekdanjega	mte:Agpmsa	nekdanji
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+banke	mte:Ncfsg	banka
+Wolfganga	mte:Npmsg	Wolfgang
+Kultererja	mte:Npmsg	Kulterer
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+v	mte:Sl	v
+preiskovalnem	mte:Agpmsl	preiskovalen
+zaporu	mte:Ncmsl	zapor
+.	mte:Z	.
+Kulterer	mte:Npmsn	Kulterer
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+banko	mte:Ncfsa	banka
+vodil	mte:Vmpp-sm	voditi
+med	mte:Si	med
+letoma	mte:Ncndi	leto
+1992	mte:Mdc	1992
+in	mte:Cc	in
+2006	mte:Mdc	2006
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+novembra	mte:Ncmsg	november
+2008	mte:Mdc	2008
+zaradi	mte:Sg	zaradi
+prirejanja	mte:Ncnsg	prirejanje
+bilanc	mte:Ncfpg	bilanca
+obsojen	mte:Appmsnn	obsojen
+na	mte:Sa	na
+denarno	mte:Agpfsa	denaren
+kazen	mte:Ncfsa	kazen
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+140.000	mte:Mdc	140.000
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+preteklih	mte:Appmpl	pretekel
+mesecih	mte:Ncmpl	mesec
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+pravosodni	mte:Agpmpn	pravosoden
+organi	mte:Ncmpn	organ
+pod	mte:Sa	pod
+drobnogled	mte:Ncmsan	drobnogled
+vzeli	mte:Vmep-pm	vzeti
+zaradi	mte:Sg	zaradi
+suma	mte:Ncmsg	suma
+pranja	mte:Ncnsg	pranje
+denarja	mte:Ncmsg	denar
+in	mte:Cc	in
+dvomljivih	mte:Agpmpg	dvomljiv
+poslov	mte:Ncmpg	posel
+na	mte:Sl	na
+Balkanu	mte:Npmsl	Balkan
+.	mte:Z	.
+Kriminalistična	mte:Agpfsn	kriminalističen
+preiskava	mte:Ncfsn	preiskava
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+Zaradi	mte:Sg	zaradi
+afere	mte:Ncfsg	afera
+banke	mte:Ncfsg	banka
+Hypo	mte:Npfsn	Hypo
+Alpe	mte:Npmsn	Alpe
+-	mte:Z	-
+Adria	mte:Npfsn	Adria
+vodijo	mte:Vmpr3p	voditi
+kriminalisti	mte:Ncmpn	kriminalist
+preiskavo	mte:Ncfsa	preiskava
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Kaj	mte:Pq-nsa	kaj
+in	mte:Cc	in
+koga	mte:Pq-msa	kdo
+preiskujejo	mte:Vmpr3p	preiskovati
+,	mte:Z	,
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+.	mte:Z	.
+Po	mte:Sl	po
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+zaskrbljeni	mte:Appmpn	zaskrbljen
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+LDS	mte:Npfsl	LDS
+-	mte:Z	-
+u	mte:Npmsn	u
+in	mte:Cc	in
+v	mte:Sl	v
+krogih	mte:Ncmpl	krog
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+stranki	mte:Ncfsd	stranka
+blizu	mte:Rgp	blizu
+.	mte:Z	.
+Kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+že	mte:Q	že
+pisali	mte:Vmpp-pm	pisati
+na	mte:Sl	na
+MMC	mte:Ncmsn	MMC
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+,	mte:Z	,
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+avstrijska	mte:Agpfsn	avstrijski
+banka	mte:Ncfsn	banka
+stranki	mte:Ncfsd	stranka
+odobrila	mte:Vmep-sf	odobriti
+ugodna	mte:Agpnpa	ugoden
+posojila	mte:Ncnpa	posojilo
+,	mte:Z	,
+namenjena	mte:Appfsn	namenjen
+sanaciji	mte:Ncfsd	sanacija
+stranke	mte:Ncfsg	stranka
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+njena	mte:Ps3fsnsf	njen
+predsednica	mte:Ncfsn	predsednica
+postala	mte:Vmep-sf	postati
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+.	mte:Z	.
+Vpletenost	mte:Ncfsn	vpletenost
+v	mte:Sa	v
+afero	mte:Ncfsa	afera
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+stranki	mte:Ncfsl	stranka
+LDS	mte:Npfsg	LDS
+že	mte:Q	že
+zavrnili	mte:Vmep-pm	zavrniti
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+v	mte:Sl	v
+slovenski	mte:Agpfsl	slovenski
+Hypo	mte:Npfsl	Hypo
+banki	mte:Ncfsl	banka
+zatrjujejo	mte:Vmpr3p	zatrjevati
+,	mte:Z	,
+da	mte:Cs	da
+nimajo	mte:Vmpr3p-y	imeti
+informacij	mte:Ncfpg	informacija
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+preiskovali	mte:Vmpp-pm	preiskovati
+slovensko	mte:Agpfsa	slovenski
+podružnico	mte:Ncfsa	podružnica

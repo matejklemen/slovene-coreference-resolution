@@ -1,317 +1,325 @@
-token	tag
-Poleg	Sg
-Slovenije	Npfsg
-bo	Va-f3s-n
-denar	Ncmsn
-moralo	Vmpp-sn
-vračati	Vmpn
-še	Q
-21	Mdc
-evropskih	Agpfpg
-držav	Ncfpg
-.	Z
-Slovenija	Npfsn
-mora	Vmpr3s
-v	Sa
-proračun	Ncmsan
-EU	Npfsg
-vrniti	Vmen
-286.000	Mdc
-evrov	Ncmpg
-neupravičeno	Rgp
-porabljenih	Appnpg
-sredstev	Ncnpg
-v	Sl
-okviru	Ncmsl
-skupne	Agpfsg
-kmetijske	Agpfsg
-politike	Ncfsg
-,	Z
-je	Va-r3s-n
-danes	Rgp
-sporočila	Vmep-sf
-Evropska	Agpfsn
-komisija	Ncfsn
-.	Z
-Skupno	Rgp
-je	Va-r3s-n
-sicer	Q
-Bruselj	Npmsn
-od	Sg
-članic	Ncfpg
-unije	Ncfsg
-v	Sl
-okviru	Ncmsl
-postopka	Ncmsg
-potrditve	Ncfsg
-obračunov	Ncmpg
-zahteval	Vmbp-sm
-vračilo	Ncnsa
-414	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-neupravičeno	Rgp
-porabljenih	Appnpg
-kmetijskih	Agpnpg
-sredstev	Ncnpg
-.	Z
-Slovenija	Npfsn
-bo	Va-f3s-n
-morala	Vmpp-sf
-v	Sa
-proračun	Ncmsan
-EU	Npfsg
-vrniti	Vmen
-98.000	Mdc
-evrov	Ncmpg
-iz	Sg
-sektorja	Ncmsg
-premij	Ncfpg
-za	Sa
-živali	Ncfpa
-zaradi	Sg
-nedoseganja	Ncnsg
-najmanjše	Agsfsg
-stopnje	Ncfsg
-pregledov	Ncmpg
-na	Sl
-kraju	Ncmsl
-samem	Agpnsl
-za	Sa
-ovce	Ncmpa
-in	Cc
-zaradi	Sg
-neizvajanja	Ncnsg
-sankcij	Ncfpg
-v	Sl
-primeru	Ncmsl
-prepoznega	Agpnsg
-označevanja	Ncnsg
-goveda	Ncmsg
-ter	Cc
-188.000	Mdc
-evrov	Ncmpg
-iz	Sg
-sektorja	Ncmsg
-pomoči	Ncfsg
-na	Sa
-površino	Ncfsa
-zaradi	Sg
-pomanjkljivosti	Ncfsg
-pri	Sl
-izračunavanju	Ncnsl
-pravic	Ncfpg
-.	Z
-Članice	Ncfpn
-unije	Ncfsg
-so	Va-r3p-n
-odgovorne	Agpfpn
-za	Sa
-upravljanje	Ncnsa
-večine	Ncfsg
-izplačil	Ncnpg
-v	Sl
-okviru	Ncmsl
-skupne	Agpfsg
-kmetijske	Agpfsg
-politike	Ncfsg
-,	Z
-ki	Cs
-se	Px------y
-opravijo	Vmer3p
-v	Sl
-glavnem	Agpnsl
-prek	Sg
-njihovih	Ps3fpgp
-plačilnih	Agpfpg
-agencij	Ncfpg
-.	Z
-Pristojne	Agpfpn
-so	Va-r3p-n
-tudi	Q
-za	Sa
-nadzor	Ncmsan
-,	Z
-ki	Cs
-na	Sa
-primer	Ncmsan
-vključuje	Vmpr3s
-preverjanje	Ncnsa
-zahtevkov	Ncmpg
-kmetov	Ncmpg
-za	Sa
-neposredna	Agpnpa
-plačila	Ncnpa
-.	Z
-Če	Cs
-denar	Ncmsn
-ni	Va-r3s-y
-ustrezno	Rgp
-porabljen	Appmsnn
-,	Z
-da	Cs
-hočejo	Vmpr3p-n
-nazaj	Rgp
-Komisija	Ncfsn
-,	Z
-ki	Cs
-bdi	Vmpr3s
-nad	Si
-pravilno	Agpfsi
-porabo	Ncfsi
-sredstev	Ncnpg
-,	Z
-vsako	Pg-nsa
-leto	Ncnsa
-izvede	Vmer3s
-več	Rgc
-kot	Cs
-100	Mdc
-inšpekcij	Ncfpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-preverja	Vmpr3s
-,	Z
-ali	Rgp
-sta	Va-r3d-n
-nadzor	Ncmsn
-in	Cc
-odziv	Ncmsn
-članic	Ncfpg
-na	Sl
-pomanjkljivosti	Ncfsl
-ustrezna	Agpmdn
-.	Z
-Ima	Vmpr3s-n
-tudi	Q
-pravico	Ncfsa
-,	Z
-da	Cs
-naknadno	Rgp
-zahteva	Vmbr3s
-vračilo	Ncnsa
-sredstev	Ncnpg
-EU	Npfsg
-,	Z
-če	Cs
-inšpekcije	Ncfpn
-pokažejo	Vmer3p
-,	Z
-da	Cs
-članice	Ncfpn
-ne	Q
-zagotavljajo	Vmpr3p
-ustrezne	Agpfsg
-porabe	Ncfsg
-.	Z
-Omenjen	Appmsan
-znesek	Ncmsan
-bodo	Va-f3p-n
-morale	Vmpp-pf
-članice	Ncfpa
-vrniti	Vmen
-v	Sa
-proračun	Ncmsan
-EU	Npfsg
-zaradi	Sg
-nespoštovanja	Ncnsg
-pravil	Ncnpg
-EU	Npfsg
-ali	Cc
-neustreznih	Agpmpg
-postopkov	Ncmpg
-nadzora	Ncmsg
-nad	Si
-izdatki	Ncmpi
-za	Sa
-kmetijstvo	Ncnsa
-.	Z
-Nekatere	Pi-mpa
-zneske	Ncmpa
-je	Va-r3s-n
-komisija	Ncfsn
-že	Q
-izterjala	Vmpp-sf
-,	Z
-zato	Cc
-bo	Va-f3s-n
-uradno	Rgp
-neto	Agpnsn
-finančni	Agpmsay
-učinek	Ncmsan
-današnjega	Agpmsg
-sklepa	Ncmsg
-približno	Rgp
-393	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Poleg	Sg
-Slovenije	Npfsg
-bo	Va-f3s-n
-denar	Ncmsan
-vračalo	Vmpp-sn
-še	Q
-21	Mdc
-držav	Ncfpg
-Z	Si
-današnjim	Agpmsi
-sklepom	Ncmsi
-komisija	Ncfsn
-povračilo	Ncnsn
-sredstev	Ncnpg
-zahteva	Vmbr3s
-od	Sg
-22	Mdc
-članic	Ncfpg
-unije	Ncfsg
-.	Z
-Poleg	Sg
-Slovenije	Npfsg
-so	Va-r3p-n
-to	Pd-nsa
-še	Q
-Belgija	Npfsn
-,	Z
-Bolgarija	Npfsn
-,	Z
-Češka	Npfsn
-,	Z
-Danska	Npfsn
-,	Z
-Nemčija	Npfsn
-,	Z
-Irska	Npfsn
-,	Z
-Grčija	Npfsn
-,	Z
-Španija	Npfsn
-,	Z
-Francija	Npfsn
-,	Z
-Italija	Npfsn
-,	Z
-Ciper	Npmsn
-,	Z
-Litva	Npfsn
-,	Z
-Madžarska	Npfsn
-,	Z
-Malta	Npfsn
-,	Z
-Nizozemska	Npfsn
-,	Z
-Poljska	Npfsn
-,	Z
-Romunija	Npfsn
-,	Z
-Slovaška	Npfsn
-,	Z
-Finska	Npfsn
-,	Z
-Švedska	Npfsn
-in	Cc
-Velika	Agpfsn
-Britanija	Npfsn
-.	Z
+token	tag	lemma
+Poleg	mte:Sg	poleg
+Slovenije	mte:Npfsg	Slovenija
+bo	mte:Va-f3s-n	biti
+denar	mte:Ncmsn	denar
+moralo	mte:Vmpp-sn	morati
+vračati	mte:Vmpn	vračati
+še	mte:Q	še
+21	mte:Mdc	21
+evropskih	mte:Agpfpg	evropski
+držav	mte:Ncfpg	država
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+mora	mte:Vmpr3s	morati
+v	mte:Sa	v
+proračun	mte:Ncmsan	proračun
+EU	mte:Npfsg	EU
+vrniti	mte:Vmen	vrniti
+286.000	mte:Mdc	286.000
+evrov	mte:Ncmpg	evro
+neupravičeno	mte:Rgp	neupravičen
+porabljenih	mte:Appnpg	porabljen
+sredstev	mte:Ncnpg	sredstvo
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+skupne	mte:Agpfsg	skupen
+kmetijske	mte:Agpfsg	kmetijski
+politike	mte:Ncfsg	politika
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+sporočila	mte:Vmep-sf	sporočiti
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+.	mte:Z	.
+Skupno	mte:Rgp	skupno
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+Bruselj	mte:Npmsn	Bruselj
+od	mte:Sg	od
+članic	mte:Ncfpg	članica
+unije	mte:Ncfsg	unija
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+postopka	mte:Ncmsg	postopek
+potrditve	mte:Ncfsg	potrditev
+obračunov	mte:Ncmpg	obračun
+zahteval	mte:Vmbp-sm	zahtevati
+vračilo	mte:Ncnsa	vračilo
+414	mte:Mdc	414
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+neupravičeno	mte:Rgp	neupravičen
+porabljenih	mte:Appnpg	porabljen
+kmetijskih	mte:Agpnpg	kmetijski
+sredstev	mte:Ncnpg	sredstvo
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+v	mte:Sa	v
+proračun	mte:Ncmsan	proračun
+EU	mte:Npfsg	EU
+vrniti	mte:Vmen	vrniti
+98.000	mte:Mdc	98.000
+evrov	mte:Ncmpg	evro
+iz	mte:Sg	iz
+sektorja	mte:Ncmsg	sektor
+premij	mte:Ncfpg	premija
+za	mte:Sa	za
+živali	mte:Ncfpa	žival
+zaradi	mte:Sg	zaradi
+nedoseganja	mte:Ncnsg	nedoseganje
+najmanjše	mte:Agsfsg	majhen
+stopnje	mte:Ncfsg	stopnja
+pregledov	mte:Ncmpg	pregled
+na	mte:Sl	na
+kraju	mte:Ncmsl	kraj
+samem	mte:Agpnsl	sam
+za	mte:Sa	za
+ovce	mte:Ncmpa	ovca
+in	mte:Cc	in
+zaradi	mte:Sg	zaradi
+neizvajanja	mte:Ncnsg	neizvajanje
+sankcij	mte:Ncfpg	sankcija
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+prepoznega	mte:Agpnsg	prepozen
+označevanja	mte:Ncnsg	označevanje
+goveda	mte:Ncmsg	goved
+ter	mte:Cc	ter
+188.000	mte:Mdc	188.000
+evrov	mte:Ncmpg	evro
+iz	mte:Sg	iz
+sektorja	mte:Ncmsg	sektor
+pomoči	mte:Ncfsg	pomoč
+na	mte:Sa	na
+površino	mte:Ncfsa	površina
+zaradi	mte:Sg	zaradi
+pomanjkljivosti	mte:Ncfsg	pomanjkljivost
+pri	mte:Sl	pri
+izračunavanju	mte:Ncnsl	izračunavanje
+pravic	mte:Ncfpg	pravica
+.	mte:Z	.
+Članice	mte:Ncfpn	članica
+unije	mte:Ncfsg	unija
+so	mte:Va-r3p-n	biti
+odgovorne	mte:Agpfpn	odgovoren
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+večine	mte:Ncfsg	večina
+izplačil	mte:Ncnpg	izplačilo
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+skupne	mte:Agpfsg	skupen
+kmetijske	mte:Agpfsg	kmetijski
+politike	mte:Ncfsg	politika
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+opravijo	mte:Vmer3p	opraviti
+v	mte:Sl	v
+glavnem	mte:Agpnsl	glaven
+prek	mte:Sg	prek
+njihovih	mte:Ps3fpgp	njihov
+plačilnih	mte:Agpfpg	plačilen
+agencij	mte:Ncfpg	agencija
+.	mte:Z	.
+Pristojne	mte:Agpfpn	pristojen
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+za	mte:Sa	za
+nadzor	mte:Ncmsan	nadzor
+,	mte:Z	,
+ki	mte:Cs	ki
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+vključuje	mte:Vmpr3s	vključevati
+preverjanje	mte:Ncnsa	preverjanje
+zahtevkov	mte:Ncmpg	zahtevek
+kmetov	mte:Ncmpg	kmet
+za	mte:Sa	za
+neposredna	mte:Agpnpa	neposreden
+plačila	mte:Ncnpa	plačilo
+.	mte:Z	.
+Če	mte:Cs	če
+denar	mte:Ncmsn	denar
+ni	mte:Va-r3s-y	biti
+ustrezno	mte:Rgp	ustrezno
+porabljen	mte:Appmsnn	porabljen
+,	mte:Z	,
+da	mte:Cs	da
+hočejo	mte:Vmpr3p-n	hoteti
+nazaj	mte:Rgp	nazaj
+Komisija	mte:Ncfsn	komisija
+,	mte:Z	,
+ki	mte:Cs	ki
+bdi	mte:Vmpr3s	bdeti
+nad	mte:Si	nad
+pravilno	mte:Agpfsi	pravilno
+porabo	mte:Ncfsi	poraba
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+vsako	mte:Pg-nsa	vsak
+leto	mte:Ncnsa	leto
+izvede	mte:Vmer3s	izvedeti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+100	mte:Mdc	100
+inšpekcij	mte:Ncfpg	inšpekcija
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+preverja	mte:Vmpr3s	preverjati
+,	mte:Z	,
+ali	mte:Rgp	ali
+sta	mte:Va-r3d-n	biti
+nadzor	mte:Ncmsn	nadzor
+in	mte:Cc	in
+odziv	mte:Ncmsn	odziv
+članic	mte:Ncfpg	članica
+na	mte:Sl	na
+pomanjkljivosti	mte:Ncfsl	pomanjkljivost
+ustrezna	mte:Agpmdn	ustrezen
+.	mte:Z	.
+Ima	mte:Vmpr3s-n	imeti
+tudi	mte:Q	tudi
+pravico	mte:Ncfsa	pravica
+,	mte:Z	,
+da	mte:Cs	da
+naknadno	mte:Rgp	naknadno
+zahteva	mte:Vmbr3s	zahtevati
+vračilo	mte:Ncnsa	vračilo
+sredstev	mte:Ncnpg	sredstvo
+EU	mte:Npfsg	EU
+,	mte:Z	,
+če	mte:Cs	če
+inšpekcije	mte:Ncfpn	inšpekcija
+pokažejo	mte:Vmer3p	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+članice	mte:Ncfpn	članica
+ne	mte:Q	ne
+zagotavljajo	mte:Vmpr3p	zagotavljati
+ustrezne	mte:Agpfsg	ustrezen
+porabe	mte:Ncfsg	poraba
+.	mte:Z	.
+Omenjen	mte:Appmsan	omenjen
+znesek	mte:Ncmsan	znesek
+bodo	mte:Va-f3p-n	biti
+morale	mte:Vmpp-pf	morati
+članice	mte:Ncfpa	članica
+vrniti	mte:Vmen	vrniti
+v	mte:Sa	v
+proračun	mte:Ncmsan	proračun
+EU	mte:Npfsg	EU
+zaradi	mte:Sg	zaradi
+nespoštovanja	mte:Ncnsg	nespoštovanje
+pravil	mte:Ncnpg	pravilo
+EU	mte:Npfsg	EU
+ali	mte:Cc	ali
+neustreznih	mte:Agpmpg	neustrezen
+postopkov	mte:Ncmpg	postopek
+nadzora	mte:Ncmsg	nadzor
+nad	mte:Si	nad
+izdatki	mte:Ncmpi	izdatek
+za	mte:Sa	za
+kmetijstvo	mte:Ncnsa	kmetijstvo
+.	mte:Z	.
+Nekatere	mte:Pi-mpa	nekateri
+zneske	mte:Ncmpa	znesek
+je	mte:Va-r3s-n	biti
+komisija	mte:Ncfsn	komisija
+že	mte:Q	že
+izterjala	mte:Vmpp-sf	izterjati
+,	mte:Z	,
+zato	mte:Cc	zato
+bo	mte:Va-f3s-n	biti
+uradno	mte:Rgp	uradno
+neto	mte:Agpnsn	neto
+finančni	mte:Agpmsay	finančen
+učinek	mte:Ncmsan	učinek
+današnjega	mte:Agpmsg	današnji
+sklepa	mte:Ncmsg	sklep
+približno	mte:Rgp	približno
+393	mte:Mdc	393
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+Slovenije	mte:Npfsg	Slovenija
+bo	mte:Va-f3s-n	biti
+denar	mte:Ncmsan	denar
+vračalo	mte:Vmpp-sn	vračati
+še	mte:Q	še
+21	mte:Mdc	21
+držav	mte:Ncfpg	država
+Z	mte:Si	z
+današnjim	mte:Agpmsi	današnji
+sklepom	mte:Ncmsi	sklep
+komisija	mte:Ncfsn	komisija
+povračilo	mte:Ncnsn	povračilo
+sredstev	mte:Ncnpg	sredstvo
+zahteva	mte:Vmbr3s	zahtevati
+od	mte:Sg	od
+22	mte:Mdc	22
+članic	mte:Ncfpg	članica
+unije	mte:Ncfsg	unija
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+Slovenije	mte:Npfsg	Slovenija
+so	mte:Va-r3p-n	biti
+to	mte:Pd-nsa	ta
+še	mte:Q	še
+Belgija	mte:Npfsn	Belgija
+,	mte:Z	,
+Bolgarija	mte:Npfsn	Bolgarija
+,	mte:Z	,
+Češka	mte:Npfsn	Češka
+,	mte:Z	,
+Danska	mte:Npfsn	Danska
+,	mte:Z	,
+Nemčija	mte:Npfsn	Nemčija
+,	mte:Z	,
+Irska	mte:Npfsn	Irska
+,	mte:Z	,
+Grčija	mte:Npfsn	Grčija
+,	mte:Z	,
+Španija	mte:Npfsn	Španija
+,	mte:Z	,
+Francija	mte:Npfsn	Francija
+,	mte:Z	,
+Italija	mte:Npfsn	Italija
+,	mte:Z	,
+Ciper	mte:Npmsn	Ciper
+,	mte:Z	,
+Litva	mte:Npfsn	Litva
+,	mte:Z	,
+Madžarska	mte:Npfsn	Madžarska
+,	mte:Z	,
+Malta	mte:Npfsn	Malta
+,	mte:Z	,
+Nizozemska	mte:Npfsn	Nizozemska
+,	mte:Z	,
+Poljska	mte:Npfsn	Poljska
+,	mte:Z	,
+Romunija	mte:Npfsn	Romunija
+,	mte:Z	,
+Slovaška	mte:Npfsn	Slovaška
+,	mte:Z	,
+Finska	mte:Npfsn	Finska
+,	mte:Z	,
+Švedska	mte:Npfsn	Švedska
+in	mte:Cc	in
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+.	mte:Z	.
+Največ	mte:Rgs	največ
+morajo	mte:Vmpr3p	morati
+vrniti	mte:Vmen	vrniti
+Britanci	mte:Npmpn	Britanci
+-	mte:Z	-
+111,7	mte:Mdc	111,7
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro

@@ -1,423 +1,466 @@
-token	tag
-Predsednik	Ncmsn
-Socialnih	Agpmpg
-demokratov	Ncmpg
-Borut	Npmsn
-Pahor	Npmsn
-obžaluje	Vmpr3s
-izstop	Sg
-Boška	Npmsgy
-Šrota	Npmsg
-iz	Sg
-stranke	Ncfsg
-,	Z
-glede	Sg
-svoje	Px-fsg
-domnevno	Rgp
-preveč	Rgp
-zmerne	Agpfsg
-politike	Ncfsg
-do	Sg
-Janeza	Npmsg
-Janše	Npmsg
-pa	Cc
-meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-premier	Ncmsn
-tekmec	Ncmsn
-,	Z
-ki	Cs
-pa	Cc
-ga	Pp3msa--y
-je	Va-r3s-n
-treba	Rgp
-spoštovati	Vmpn
-.	Z
-Socialni	Agpmpn
-demokrati	Ncmpn
-smo	Va-r1p-n
-alternativa	Ncfsn
-sedanji	Agpfsd
-politiki	Ncfsd
-,	Z
-na	Sl
-volivcih	Ncmpl
-pa	Cc
-je	Va-r3s-n
-,	Z
-da	Cs
-prej	Rgc
-kot	Cs
-v	Sl
-enem	Mlpnsl
-letu	Ncnsl
-odločijo	Vmer3p
-,	Z
-po	Sl
-kateri	Pq-fsl
-poti	Ncfsl
-bomo	Va-f1p-n
-šli	Vmbp-pm
-naprej	Rgp
-.	Z
-Borut	Npmsn
-Pahor	Npmsn
-Borut	Npmsn
-Pahor	Npmsn
-je	Va-r3s-n
-v	Sl
-posebni	Agpfsl
-deklaraciji	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-naslovil	Vmep-sm
-na	Sa
-medije	Ncmpa
-,	Z
-zapisal	Vmep-sm
-,	Z
-da	Cs
-izstop	Sg
-predsednika	Ncmsg
-uprave	Ncfsg
-Pivovarne	Ncfsg
-Laško	Npnsn
-Boška	Npmsg
-Šrota	Npmsg
-iz	Sg
-stranke	Ncfsg
-SD	Npfsg
-razume	Vmbr3s
-kot	Cs
-znak	Ncmsan
-nestrinjanja	Ncnsg
-in	Cc
-nezaupanja	Ncnsg
-v	Sa
-strankino	Aspnsa
-delo	Ncnsa
-.	Z
-Pahor	Npmsn
-ugotavlja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-razlog	Ncmsn
-za	Sa
-izstop	Rgp
-njegova	Ps3fsnsm
-zmerna	Agpfsn
-in	Cc
-konstruktivna	Agpfsn
-politika	Ncfsn
-ter	Cc
-domnevna	Agpfsn
-premajhna	Agpfsn
-jasnost	Ncfsn
-in	Cc
-odločnost	Ncfsn
-v	Sl
-oceni	Ncfsl
-nesprejemljivih	Agpfpg
-izjav	Ncfpg
-predsednika	Ncmsg
-vlade	Ncfsg
-Janeza	Npmsg
-Janše	Npmsg
-o	Sl
-nekaterih	Pi-mpl
-gospodarstvenikih	Ncmpl
-,	Z
-medijih	Ncmpl
-in	Cc
-opoziciji	Ncfsl
-.	Z
-Ob	Sl
-tem	Pd-nsl
-pa	Cc
-opozicijski	Agpmsny
-prvak	Ncmsn
-opozarja	Vmpr3s
-,	Z
-da	Cs
-tudi	Q
-"	Z
-če	Cs
-se	Px------y
-je	Va-r3s-n
-s	Si
-kritičnimi	Agpnpi
-stališči	Ncnpi
-g	Ncmsn
-.	Z
-Šrota	Npmsg
-do	Sg
-predsednika	Ncmsg
-vlade	Ncfsg
-mogoče	Agpnsn
-večinoma	Rgp
-strinjati	Vmpn
-,	Z
-se	Px------y
-zastavlja	Vmpr3s
-strateško	Agpnsn
-vprašanje	Ncnsn
-našega	Ps1nsgp
-političnega	Agpnsg
-obnašanja	Ncnsg
-,	Z
-ki	Cs
-si	Px---d--y
-zasluži	Vmer3s
-vso	Pg-fsa
-pozornost	Ncfsa
-"	Z
-.	Z
-"	Z
-Predsednik	Ncmsn
-SDS	Npfsg
-in	Cc
-vlade	Ncfsg
-je	Va-r3s-n
-naš	Ps1msnp
-tekmec	Ncmsn
-,	Z
-politični	Agpmsny
-nasprotnik	Ncmsn
-.	Z
-Pogostokrat	Rgp
-se	Px------y
-ne	Q
-strinjamo	Vmpr1p
-z	Si
-njegovo	Ps3fsism
-politiko	Ncfsi
-,	Z
-predvsem	Q
-pa	Cc
-ne	Q
-z	Si
-njegovim	Ps3msism
-načinom	Ncmsi
-vladanja	Ncnsg
-.	Z
-Toda	Cc
-kljub	Sd
-temu	Pd-nsd
-si	Px---d--y
-zasluži	Vmer3s
-spoštovanje	Ncnsa
-.	Z
-Meja	Ncfpg
-med	Si
-političnim	Agpnsi
-nasprotovanjem	Ncnsi
-na	Sl
-eni	Mlpfsl
-strani	Ncfsl
-in	Cc
-sovraštvom	Ncnsi
-oziroma	Cc
-prezirom	Ncmsi
-na	Sl
-drugi	Mlpfsl
-je	Va-r3s-n
-namreč	Cc
-lahko	Rgp
-zelo	Rgp
-tanka	Agpfsn
-in	Cc
-zahteva	Vmbr3s
-železno	Agpfsa
-disciplino	Ncfsa
-najbolj	Rgs
-odgovornih	Agpmpg
-politikov	Ncmpg
-,	Z
-da	Cs
-jih	Pp3mpa--y
-prizadetost	Ncfsn
-ob	Sl
-neutemeljenih	Agpfpl
-in	Cc
-žaljivih	Agpfpl
-obtožbah	Ncfpl
-ne	Q
-pahne	Vmer3s
-čeznjo	Rgp
-.	Z
-Zlasti	Q
-tistih	Pd-mpg
-,	Z
-ki	Cs
-dajemo	Vmpr1p
-prednost	Ncfsa
-politiki	Ncmsd
-soglasja	Ncnsg
-pred	Si
-politiko	Ncfsi
-konflikta	Ncmsg
-,	Z
-"	Z
-je	Va-r3s-n
-zapisal	Vmep-sm
-Pahor	Npmsn
-.	Z
-Boško	Npmsn
-Šrot	Npmsn
-je	Va-r3s-n
-v	Sl
-torkovem	Aspnsl
-pismu	Ncnsl
-Pahorju	Npmsd
-zapisal	Vmep-sm
-,	Z
-da	Cs
-ga	Pp3msa--y
-preseneča	Vmpr3s
-njegova	Ps3fsnsm
-molčečnost	Ncfsn
-v	Sl
-zvezi	Ncfsl
-s	Si
-kritikami	Ncfpi
-in	Cc
-lažnimi	Agpfpi
-izjavami	Ncfpi
-vladajoče	Appfsg
-politike	Ncfsg
-pod	Si
-vodstvom	Ncnsi
-premierja	Ncmsg
-Janše	Npmsg
-.	Z
-"	Z
-Od	Sg
-vodje	Ncmsg
-opozicijske	Agpfsg
-stranke	Ncfsg
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-apetite	Ncmpa
-po	Sl
-vodenju	Ncnsl
-države	Ncfsg
-,	Z
-takšne	Pd-fsg
-pasivnosti	Ncfsg
-nisem	Va-r1s-y
-pričakoval	Vmpp-sm
-,	Z
-"	Z
-je	Va-r3s-n
-zapisal	Vmep-sm
-Šrot	Npmsn
-in	Cc
-napovedal	Vmep-sm
-odhod	Ncmsan
-iz	Sg
-stranke	Ncfsg
-.	Z
-©	Npmsn
-Saša	Npmsn
-Despot	Npmsn
-/	Z
-Žurnal24	Mdc
-"	Z
-Rokavice	Ncfsg
-konflikta	Ncmsg
-ne	Q
-bom	Va-f1s-n
-pobral	Vmep-sm
-"	Z
-Kot	Cs
-nadaljuje	Vmpr3s
-predsednik	Ncmsn
-SD	Npfsg
-,	Z
-se	Px------y
-je	Va-r3s-n
-Slovenija	Npfsn
-znašla	Vmep-sf
-na	Sl
-izjemno	Rgp
-pomembnem	Agpnsl
-razpotju	Ncnsl
-,	Z
-kjer	Cs
-se	Px------y
-odloča	Vmpr3s
-o	Sl
-tem	Pd-nsl
-,	Z
-ali	Rgp
-se	Px------y
-bo	Va-f3s-n
-kljub	Sd
-političnim	Agpfpd
-razlikam	Ncfpd
-in	Cc
-prav	Q
-zaradi	Sg
-njih	Pp3mpg
-pristajalo	Vmpp-sn
-na	Sa
-tip	Ncmsan
-vladanja	Ncnsg
-,	Z
-ki	Cs
-utrjuje	Vmpr3s
-svojo	Px-fsa
-moč	Ncfsa
-s	Si
-poudarjanjem	Ncnsi
-razlik	Ncfpg
-in	Cc
-deluje	Vmpr3s
-razdiralno	Agpnsa
-,	Z
-ali	Rgp
-pa	Cc
-bo	Va-f3s-n
-v	Sa
-ospredje	Ncnsa
-stopil	Vmep-sm
-tip	Ncmsn
-vladanja	Ncnsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-iskal	Vmpp-sm
-sorodnosti	Ncfpa
-in	Cc
-deloval	Vmpp-sm
-povezovalno	Agpnsa
-.	Z
-Pahor	Npmsn
-zagotavlja	Vmpr3s
-,	Z
-da	Cs
-ostaja	Vmpr3s
-zvest	Agpmsnn
-konsenzu	Ncmsd
-pred	Si
-konfliktom	Ncmsi
-,	Z
-saj	Cc
-le	Q
-tako	Rgp
-vidi	Vmbr3s
-možnost	Ncfsa
-uspešnega	Agpnsg
-vodstva	Ncnsg
-Slovenije	Npfsg
-v	Sl
-prihodnosti	Ncfsl
-njenim	Ps3fpdsf
-razlikam	Ncfpd
-navkljub	Rgp
-.	Z
+token	tag	lemma
+Predsednik	mte:Ncmsn	predsednik
+Socialnih	mte:Agpmpg	socialen
+demokratov	mte:Ncmpg	demokrat
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+obžaluje	mte:Vmpr3s	obžalovati
+izstop	mte:Sg	izstop
+Boška	mte:Npmsgy	Boška
+Šrota	mte:Npmsg	Šrot
+iz	mte:Sg	iz
+stranke	mte:Ncfsg	stranka
+,	mte:Z	,
+glede	mte:Sg	glede
+svoje	mte:Px-fsg	svoj
+domnevno	mte:Rgp	domnevno
+preveč	mte:Rgp	preveč
+zmerne	mte:Agpfsg	zmeren
+politike	mte:Ncfsg	politika
+do	mte:Sg	do
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npmsg	Janše
+pa	mte:Cc	pa
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+premier	mte:Ncmsn	premier
+tekmec	mte:Ncmsn	tekmec
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+spoštovati	mte:Vmpn	spoštovati
+.	mte:Z	.
+Socialni	mte:Agpmpn	socialen
+demokrati	mte:Ncmpn	demokrat
+smo	mte:Va-r1p-n	biti
+alternativa	mte:Ncfsn	alternativa
+sedanji	mte:Agpfsd	sedanji
+politiki	mte:Ncfsd	politika
+,	mte:Z	,
+na	mte:Sl	na
+volivcih	mte:Ncmpl	volivec
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+prej	mte:Rgc	prej
+kot	mte:Cs	kot
+v	mte:Sl	v
+enem	mte:Mlpnsl	en
+letu	mte:Ncnsl	leto
+odločijo	mte:Vmer3p	odločiti
+,	mte:Z	,
+po	mte:Sl	po
+kateri	mte:Pq-fsl	kateri
+poti	mte:Ncfsl	pot
+bomo	mte:Va-f1p-n	biti
+šli	mte:Vmbp-pm	iti
+naprej	mte:Rgp	naprej
+.	mte:Z	.
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+posebni	mte:Agpfsl	poseben
+deklaraciji	mte:Ncfsl	deklaracija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+naslovil	mte:Vmep-sm	nasloviti
+na	mte:Sa	na
+medije	mte:Ncmpa	medij
+,	mte:Z	,
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+izstop	mte:Sg	izstop
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Pivovarne	mte:Ncfsg	pivovarna
+Laško	mte:Npnsn	Laško
+Boška	mte:Npmsg	Boška
+Šrota	mte:Npmsg	Šrot
+iz	mte:Sg	iz
+stranke	mte:Ncfsg	stranka
+SD	mte:Npfsg	SD
+razume	mte:Vmbr3s	razumeti
+kot	mte:Cs	kot
+znak	mte:Ncmsan	znak
+nestrinjanja	mte:Ncnsg	nestrinjanje
+in	mte:Cc	in
+nezaupanja	mte:Ncnsg	nezaupanje
+v	mte:Sa	v
+strankino	mte:Aspnsa	strankin
+delo	mte:Ncnsa	delo
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+izstop	mte:Rgp	izstop
+njegova	mte:Ps3fsnsm	njegov
+zmerna	mte:Agpfsn	zmeren
+in	mte:Cc	in
+konstruktivna	mte:Agpfsn	konstruktiven
+politika	mte:Ncfsn	politika
+ter	mte:Cc	ter
+domnevna	mte:Agpfsn	domneven
+premajhna	mte:Agpfsn	premajhen
+jasnost	mte:Ncfsn	jasnost
+in	mte:Cc	in
+odločnost	mte:Ncfsn	odločnost
+v	mte:Sl	v
+oceni	mte:Ncfsl	ocena
+nesprejemljivih	mte:Agpfpg	nesprejemljiv
+izjav	mte:Ncfpg	izjava
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npmsg	Janše
+o	mte:Sl	o
+nekaterih	mte:Pi-mpl	nekateri
+gospodarstvenikih	mte:Ncmpl	gospodarstvenik
+,	mte:Z	,
+medijih	mte:Ncmpl	medij
+in	mte:Cc	in
+opoziciji	mte:Ncfsl	opozicija
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+opozicijski	mte:Agpmsny	opozicijski
+prvak	mte:Ncmsn	prvak
+opozarja	mte:Vmpr3s	opozarjati
+,	mte:Z	,
+da	mte:Cs	da
+tudi	mte:Q	tudi
+"	mte:Z	"
+če	mte:Cs	če
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+kritičnimi	mte:Agpnpi	kritičen
+stališči	mte:Ncnpi	stališče
+g	mte:Ncmsn	g
+.	mte:Z	.
+Šrota	mte:Npmsg	Šrot
+do	mte:Sg	do
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+mogoče	mte:Agpnsn	mogoč
+večinoma	mte:Rgp	večinoma
+strinjati	mte:Vmpn	strinjati
+,	mte:Z	,
+se	mte:Px------y	se
+zastavlja	mte:Vmpr3s	zastavljati
+strateško	mte:Agpnsn	strateški
+vprašanje	mte:Ncnsn	vprašanje
+našega	mte:Ps1nsgp	naš
+političnega	mte:Agpnsg	političen
+obnašanja	mte:Ncnsg	obnašanje
+,	mte:Z	,
+ki	mte:Cs	ki
+si	mte:Px---d--y	se
+zasluži	mte:Vmer3s	zaslužiti
+vso	mte:Pg-fsa	ves
+pozornost	mte:Ncfsa	pozornost
+"	mte:Z	"
+.	mte:Z	.
+"	mte:Z	"
+Predsednik	mte:Ncmsn	predsednik
+SDS	mte:Npfsg	SDS
+in	mte:Cc	in
+vlade	mte:Ncfsg	vlada
+je	mte:Va-r3s-n	biti
+naš	mte:Ps1msnp	naš
+tekmec	mte:Ncmsn	tekmec
+,	mte:Z	,
+politični	mte:Agpmsny	političen
+nasprotnik	mte:Ncmsn	nasprotnik
+.	mte:Z	.
+Pogostokrat	mte:Rgp	pogostokrat
+se	mte:Px------y	se
+ne	mte:Q	ne
+strinjamo	mte:Vmpr1p	strinjati
+z	mte:Si	z
+njegovo	mte:Ps3fsism	njegov
+politiko	mte:Ncfsi	politika
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+pa	mte:Cc	pa
+ne	mte:Q	ne
+z	mte:Si	z
+njegovim	mte:Ps3msism	njegov
+načinom	mte:Ncmsi	način
+vladanja	mte:Ncnsg	vladanje
+.	mte:Z	.
+Toda	mte:Cc	toda
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+si	mte:Px---d--y	se
+zasluži	mte:Vmer3s	zaslužiti
+spoštovanje	mte:Ncnsa	spoštovanje
+.	mte:Z	.
+Meja	mte:Ncfpg	meja
+med	mte:Si	med
+političnim	mte:Agpnsi	političen
+nasprotovanjem	mte:Ncnsi	nasprotovanje
+na	mte:Sl	na
+eni	mte:Mlpfsl	en
+strani	mte:Ncfsl	stran
+in	mte:Cc	in
+sovraštvom	mte:Ncnsi	sovraštvo
+oziroma	mte:Cc	oziroma
+prezirom	mte:Ncmsi	prezir
+na	mte:Sl	na
+drugi	mte:Mlpfsl	drug
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+lahko	mte:Rgp	lahko
+zelo	mte:Rgp	zelo
+tanka	mte:Agpfsn	tanek
+in	mte:Cc	in
+zahteva	mte:Vmbr3s	zahtevati
+železno	mte:Agpfsa	železen
+disciplino	mte:Ncfsa	disciplina
+najbolj	mte:Rgs	najbolj
+odgovornih	mte:Agpmpg	odgovoren
+politikov	mte:Ncmpg	politik
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+prizadetost	mte:Ncfsn	prizadetost
+ob	mte:Sl	ob
+neutemeljenih	mte:Agpfpl	neutemeljen
+in	mte:Cc	in
+žaljivih	mte:Agpfpl	žaljiv
+obtožbah	mte:Ncfpl	obtožba
+ne	mte:Q	ne
+pahne	mte:Vmer3s	pahniti
+čeznjo	mte:Rgp	čeznjo
+.	mte:Z	.
+Zlasti	mte:Q	zlasti
+tistih	mte:Pd-mpg	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+dajemo	mte:Vmpr1p	dajati
+prednost	mte:Ncfsa	prednost
+politiki	mte:Ncmsd	politika
+soglasja	mte:Ncnsg	soglasje
+pred	mte:Si	pred
+politiko	mte:Ncfsi	politika
+konflikta	mte:Ncmsg	konflikt
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+Pahor	mte:Npmsn	Pahor
+.	mte:Z	.
+Boško	mte:Npmsn	Boško
+Šrot	mte:Npmsn	Šrot
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+torkovem	mte:Aspnsl	torkov
+pismu	mte:Ncnsl	pismo
+Pahorju	mte:Npmsd	Pahorje
+zapisal	mte:Vmep-sm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+ga	mte:Pp3msa--y	on
+preseneča	mte:Vmpr3s	presenečati
+njegova	mte:Ps3fsnsm	njegov
+molčečnost	mte:Ncfsn	molčečnost
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+kritikami	mte:Ncfpi	kritika
+in	mte:Cc	in
+lažnimi	mte:Agpfpi	lažen
+izjavami	mte:Ncfpi	izjava
+vladajoče	mte:Appfsg	vladajoč
+politike	mte:Ncfsg	politika
+pod	mte:Si	pod
+vodstvom	mte:Ncnsi	vodstvo
+premierja	mte:Ncmsg	premier
+Janše	mte:Npmsg	Janše
+.	mte:Z	.
+"	mte:Z	"
+Od	mte:Sg	od
+vodje	mte:Ncmsg	vodja
+opozicijske	mte:Agpfsg	opozicijski
+stranke	mte:Ncfsg	stranka
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+apetite	mte:Ncmpa	apetita
+po	mte:Sl	po
+vodenju	mte:Ncnsl	vodenje
+države	mte:Ncfsg	država
+,	mte:Z	,
+takšne	mte:Pd-fsg	takšen
+pasivnosti	mte:Ncfsg	pasivnost
+nisem	mte:Va-r1s-y	biti
+pričakoval	mte:Vmpp-sm	pričakovati
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+Šrot	mte:Npmsn	Šrot
+in	mte:Cc	in
+napovedal	mte:Vmep-sm	napovedati
+odhod	mte:Ncmsan	odhod
+iz	mte:Sg	iz
+stranke	mte:Ncfsg	stranka
+.	mte:Z	.
+©	mte:Npmsn	©
+Saša	mte:Npmsn	Sašo
+Despot	mte:Npmsn	Despot
+/	mte:Z	/
+Žurnal24	mte:Mdc	žurnal24
+"	mte:Z	"
+Rokavice	mte:Ncfsg	rokavica
+konflikta	mte:Ncmsg	konflikt
+ne	mte:Q	ne
+bom	mte:Va-f1s-n	biti
+pobral	mte:Vmep-sm	pobrati
+"	mte:Z	"
+Kot	mte:Cs	kot
+nadaljuje	mte:Vmpr3s	nadaljevati
+predsednik	mte:Ncmsn	predsednik
+SD	mte:Npfsg	SD
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+znašla	mte:Vmep-sf	znajti
+na	mte:Sl	na
+izjemno	mte:Rgp	izjemno
+pomembnem	mte:Agpnsl	pomemben
+razpotju	mte:Ncnsl	razpotje
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+odloča	mte:Vmpr3s	odločati
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ali	mte:Rgp	ali
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+kljub	mte:Sd	kljub
+političnim	mte:Agpfpd	političen
+razlikam	mte:Ncfpd	razlika
+in	mte:Cc	in
+prav	mte:Q	prav
+zaradi	mte:Sg	zaradi
+njih	mte:Pp3mpg	on
+pristajalo	mte:Vmpp-sn	pristajati
+na	mte:Sa	na
+tip	mte:Ncmsan	tip
+vladanja	mte:Ncnsg	vladanje
+,	mte:Z	,
+ki	mte:Cs	ki
+utrjuje	mte:Vmpr3s	utrjevati
+svojo	mte:Px-fsa	svoj
+moč	mte:Ncfsa	moč
+s	mte:Si	z
+poudarjanjem	mte:Ncnsi	poudarjanje
+razlik	mte:Ncfpg	razlika
+in	mte:Cc	in
+deluje	mte:Vmpr3s	delovati
+razdiralno	mte:Agpnsa	razdiralen
+,	mte:Z	,
+ali	mte:Rgp	ali
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+v	mte:Sa	v
+ospredje	mte:Ncnsa	ospredje
+stopil	mte:Vmep-sm	stopiti
+tip	mte:Ncmsn	tip
+vladanja	mte:Ncnsg	vladanje
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+iskal	mte:Vmpp-sm	iskati
+sorodnosti	mte:Ncfpa	sorodnost
+in	mte:Cc	in
+deloval	mte:Vmpp-sm	delovati
+povezovalno	mte:Agpnsa	povezovalen
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+zagotavlja	mte:Vmpr3s	zagotavljati
+,	mte:Z	,
+da	mte:Cs	da
+ostaja	mte:Vmpr3s	ostajati
+zvest	mte:Agpmsnn	zvest
+konsenzu	mte:Ncmsd	konsenz
+pred	mte:Si	pred
+konfliktom	mte:Ncmsi	konflikt
+,	mte:Z	,
+saj	mte:Cc	saj
+le	mte:Q	le
+tako	mte:Rgp	tako
+vidi	mte:Vmbr3s	videti
+možnost	mte:Ncfsa	možnost
+uspešnega	mte:Agpnsg	uspešen
+vodstva	mte:Ncnsg	vodstvo
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+prihodnosti	mte:Ncfsl	prihodnost
+njenim	mte:Ps3fpdsf	njen
+razlikam	mte:Ncfpd	razlika
+navkljub	mte:Rgp	navkljub
+.	mte:Z	.
+"	mte:Z	"
+Zdi	mte:Vmpr3s	zdeti
+se	mte:Px------y	se
+mi	mte:Pp1-sd--y	jaz
+izjemno	mte:Rgp	izjemno
+pomembno	mte:Agpnsn	pomemben
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+obdobju	mte:Ncnsl	obdobje
+povečane	mte:Appfsg	povečan
+politične	mte:Agpfsg	političen
+napetosti	mte:Ncfsg	napetost
+ne	mte:Q	ne
+padem	mte:Vmer1s	pasti
+v	mte:Sa	v
+skušnjavo	mte:Ncfsa	skušnjava
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+pobral	mte:Vmep-sm	pobrati
+vrženo	mte:Appfsa	vržen
+rokavico	mte:Ncfsa	rokavica
+konfliktne	mte:Agpfsg	konflikten
+politike	mte:Ncfsg	politika
+,	mte:Z	,
+ker	mte:Cs	ker
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+to	mte:Pd-nsn	ta
+dolgoročno	mte:Agpnsn	dolgoročno
+za	mte:Sa	za
+stranko	mte:Ncfsa	stranka
+in	mte:Cc	in
+Slovenijo	mte:Npfsa	Slovenija
+zelo	mte:Rgp	zelo
+slabo	mte:Agpnsn	slab
+,	mte:Z	,
+"	mte:Z	"
+sklene	mte:Vmer3s	skleniti
+deklaracijo	mte:Ncfsa	deklaracija
+Pahor	mte:Npmsn	Pahor

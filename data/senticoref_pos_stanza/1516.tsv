@@ -1,978 +1,1036 @@
-token	tag
-Na	Sl
-stresnih	Agpnpl
-testih	Ncnpl
-bank	Ncfpg
-v	Sl
-EU	Npfsl
-je	Va-r3s-n
-padlo	Vmep-sn
-osem	Mlc-pa
-bank	Ncfpg
-,	Z
-ena	Mlpfsn
-avstrijska	Agpfsn
-,	Z
-pet	Mlc-pn
-španskih	Agpfpg
-in	Cc
-dve	Mlcfda
-grški	Agpfda
-banki	Ncfda
-.	Z
-NKBM	Npfsn
-je	Va-r3s-n
-občutno	Rgp
-presegla	Vmep-sf
-prag	Ncmsan
-za	Sa
-uspešno	Rgp
-opravljen	Appmsan
-stresni	Agpmsay
-test	Ncmsan
-,	Z
-NLB	Npfsn
-pa	Cc
-ga	Pp3msa--y
-je	Va-r3s-n
-presegla	Vmep-sf
-za	Sa
-malenkost	Ncfsa
-.	Z
-Stresne	Agpmpa
-teste	Ncmpa
-evropskih	Agpfpg
-bank	Ncfpg
-je	Va-r3s-n
-izvedla	Vmep-sf
-Evropska	Agpfsn
-bančna	Agpfsn
-agencija	Ncfsn
-EBA	Npmsn
-,	Z
-v	Sa
-teste	Ncmpa
-pa	Cc
-je	Va-r3s-n
-bilo	Va-p-sn
-vključenih	Appfpg
-91	Mdc
-bank	Ncfpg
-,	Z
-ki	Cs
-predstavljajo	Vmpr3p
-65	Mdc
-odstotkov	Ncmpg
-bančnega	Agpmsg
-trga	Ncmsg
-v	Sl
-EU	Npfsl
-.	Z
-Banke	Ncfpn
-morajo	Vmpr3p
-sicer	Q
-na	Sl
-testih	Ncnpl
-razpolagati	Vmpn
-z	Si
-vsaj	Q
-petimi	Mlc-pi
-odstotki	Ncmpi
-najbolj	Rgs
-kakovostnega	Agpmsg
-temeljnega	Agpmsg
-kapitala	Ncmsg
-Core	Ncmsn
-Tier	Ncmsg
-1	Mdc
-,	Z
-testi	Ncmpn
-pa	Cc
-bodo	Va-f3p-n
-jasno	Rgp
-razkrili	Vmep-pm
-tudi	Q
-izpostavljenost	Ncfsa
-državnim	Agpfpd
-obveznicam	Ncfpi
-in	Cc
-slabim	Agpnsi
-posojilom	Ncnsi
-.	Z
-Core	Npmsn
-Tier	Npmsn
-1	Mdc
-je	Va-r3s-n
-bolj	Rgc
-restriktiven	Agpmsnn
-od	Sg
-količnika	Ncmsg
-temeljnega	Agpmsg
-kapitala	Ncmsg
-Tier	Ncmsg
-1	Mdc
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-upoštevali	Vmbp-pm
-pri	Sl
-lanskih	Agpnpl
-testih	Ncnpl
-.	Z
-Rezultati	Ncmpn
-in	Cc
-pomanjkljivosti	Ncfpl
-,	Z
-ki	Cs
-izhajajo	Vmpr3p
-iz	Sg
-obremenitvenih	Agpmpg
-testov	Ncmpg
-,	Z
-bodo	Va-f3p-n
-po	Sl
-navedbah	Ncfpl
-Banke	Ncfsg
-Slovenije	Npfsg
-služili	Vmpp-pm
-izboljšanju	Ncnsd
-trdnosti	Ncfsg
-finančnega	Agpmsg
-sistema	Ncmsg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-omenjene	Appfsg
-agencije	Ncfsg
-,	Z
-je	Va-r3s-n
-na	Sl
-stresnih	Agpnpl
-testih	Ncnpl
-padlo	Vmep-sn
-osem	Mlc-pa
-bank	Ncfpg
-,	Z
-ena	Mlpfsn
-avstrijska	Agpfsn
-,	Z
-pet	Mlc-pn
-španskih	Agpfpg
-in	Cc
-dve	Mlcfda
-grški	Agpfda
-banki	Ncfda
-.	Z
-V	Sa
-stresne	Agpmpa
-teste	Ncmpa
-sta	Va-r3d-n
-bili	Va-p-dm
-vključeni	Appfdn
-tudi	Q
-dve	Mlcfdn
-slovenski	Agpfda
-banki	Ncfda
-,	Z
-Nova	Agpfsn
-Ljubljanska	Agpfsn
-banka	Ncfsn
-NLB	Npfsn
-in	Cc
-Nova	Agpfsn
-Kreditna	Agpfsn
-banka	Ncfsn
-Maribor	Npmsn
-NKBM	Npmsn
-,	Z
-obe	Pg-fdn
-banki	Ncfdn
-pa	Cc
-sta	Va-r3d-n
-test	Ncmsan
-prestali	Vmep-dm
-.	Z
-V	Sl
-kolikšni	Pq-fsl
-meri	Ncfsl
-sta	Va-r3d-n
-banki	Ncfdn
-presegli	Vmep-dm
-magično	Agpfsa
-mejo	Ncfsa
-?	Z
-NKBM	Npfsn
-je	Va-r3s-n
-občutno	Rgp
-presegla	Vmep-sf
-prag	Ncmsan
-za	Sa
-uspešno	Rgp
-opravljen	Appmsan
-stresni	Agpmsay
-test	Ncmsan
-,	Z
-NLB	Npfsn
-pa	Cc
-ga	Pp3msa--y
-je	Va-r3s-n
-presegla	Vmep-sf
-za	Sa
-malenkost	Ncfsa
-.	Z
-Na	Sl
-Banki	Ncfsl
-Slovenije	Npfsg
-pravijo	Vmbr3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-NKBM	Npfsn
-v	Sa
-bodoče	Agpmpa
-še	Q
-naprej	Rgp
-zagotavljala	Vmpp-sf
-ustrezne	Agpfpa
-ravni	Ncfpa
-kapitala	Ncmsg
-,	Z
-za	Sa
-NLB	Npfsa
-pa	Cc
-pravijo	Vmbr3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-predmet	Ncmsn
-okrepljenega	Appmsg
-nadzora	Ncmsg
-Banke	Ncfsg
-Slovenije	Npfsg
-z	Si
-namenom	Ncmsi
-,	Z
-da	Cs
-se	Px------y
-čim	Rgp
-prej	Rgc
-zagotovi	Vmer3s
-višja	Agcfsn
-kapitalska	Agpfsn
-ustreznost	Ncfsn
-.	Z
-Pri	Sl
-obeh	Pg-fdl
-bankah	Ncfdl
-so	Va-r3p-n
-bili	Va-p-pm
-upoštevani	Appmpn
-učinki	Ncmpn
-dokapitalizacije	Ncfsg
-.	Z
-V	Sl
-primeru	Ncmsl
-NKBM	Npfsg
-je	Va-r3s-n
-dokapitalizacija	Ncfsn
-znašala	Vmpp-sf
-104	Mdc
-milijone	Ncmpa
-evrov	Ncmpg
-.	Z
-Če	Cs
-bi	Va-c
-bila	Va-p-sf
-dokapitalizacija	Ncfsn
-izvedena	Appfsn
-že	Q
-v	Sl
-letu	Ncnsl
-2010	Mdc
-,	Z
-bi	Va-c
-konec	Sg
-leta	Ncnsg
-2010	Mdc
-količnik	Ncmsn
-Core	Npmsn
-Tier	Npmsn
-1	Mdc
-znašal	Vmpp-sm
-9,5	Mdc
-odstotka	Ncmsg
-,	Z
-dejansko	Rgp
-pa	Cc
-je	Va-r3s-n
-znašal	Vmpp-sm
-7,4	Mdc
-odstotka	Ncmsg
-.	Z
-Izračun	Ncmsn
-sicer	Q
-ne	Q
-upošteva	Vmbr3s
-bodočih	Agpmpg
-mitigacijskih	Agpmpg
-ukrepov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-načrtuje	Vmpr3s
-banka	Ncfsn
-.	Z
-Na	Sl
-NLB	Npfsl
-opozarjajo	Vmpr3p
-na	Sa
-upoštevanje	Ncnsa
-nekaterih	Pi-mpg
-podatkov	Ncmpg
-pri	Sl
-interpretaciji	Ncfsl
-Pri	Sl
-testu	Ncnsl
-NLB	Npfsg
-so	Va-r3p-n
-upoštevali	Vmbp-pm
-učinke	Ncmpa
-letošnje	Agpfsg
-dokapitalizacije	Ncfsg
-v	Sl
-višini	Ncfsl
-250	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Če	Cs
-bi	Va-c
-bila	Va-p-sf
-dokapitalizacija	Ncfsn
-izvedena	Appfsn
-že	Q
-v	Sl
-letu	Ncnsl
-2010	Mdc
-,	Z
-bi	Va-c
-konec	Sg
-leta	Ncnsg
-2010	Mdc
-količnik	Ncmsn
-Core	Npmsn
-Tier	Npmsn
-1	Mdc
-znašal	Vmpp-sm
-6,8	Mdc
-odstotka	Ncmsg
-,	Z
-dejansko	Rgp
-pa	Cc
-je	Va-r3s-n
-znašal	Vmpp-sm
-5,2	Mdc
-odstotka	Ncmsg
-.	Z
-Izračun	Ncmsn
-ne	Q
-upošteva	Vmbr3s
-bodočih	Agpmpg
-tako	Rgp
-imenovanih	Appmpg
-mitigacijskih	Agpmpg
-ukrepov	Ncmpg
-npr	Ncmsn
-.	Z
-zmanjševanje	Ncnsn
-kreditnih	Agpnpg
-tveganj	Ncnpg
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-načrtuje	Vmpr3s
-banka	Ncfsn
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-NLB	Npfsg
-,	Z
-je	Va-r3s-n
-njihova	Ps3fsnp
-banka	Ncfsn
-test	Ncmsn
-prestala	Vmep-sf
-,	Z
-saj	Cc
-Core	Npmsn
-Tier	Npmsn
-1	Mdc
-tako	Rgp
-po	Sl
-osnovnem	Agpmsl
-kot	Cs
-po	Sl
-neugodnem	Agpmsl
-scenariju	Ncmsl
-presega	Vmpr3s
-mejo	Ncfsa
-pet	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-Po	Sl
-uporabi	Ncfsl
-predpostavk	Ncfpg
-po	Sl
-osnovnem	Agpmsl
-scenariju	Ncmsl
-naj	Q
-bi	Va-c
-v	Sl
-letu	Ncnsl
-2011	Mdc
-količnik	Ncmsan
-Core	Npmsn
-Tier	Npmsn
-1	Mdc
-za	Sa
-NLB	Npfsa
-na	Sl
-konsolidirani	Appfsl
-podlagi	Ncfsl
-znašal	Vmpp-sm
-6,3	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-letu	Ncnsl
-2012	Mdc
-pa	Cc
-6,7	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-skladu	Ncmsl
-z	Si
-neugodnim	Agpmsi
-scenarijem	Ncmsi
-bi	Va-c
-količnik	Ncmsnn
-Core	Npmsn
-Tier	Npfsn
-1	Mdc
-v	Sl
-letu	Ncnsl
-2011	Mdc
-znašal	Vmpp-sm
-5,5	Mdc
-odstotka	Ncmsg
-in	Cc
-v	Sl
-letu	Ncnsl
-2012	Mdc
-5,3	Mdc
-odstotka	Ncmsg
-.	Z
-Ta	Pd-msn
-rezultat	Ncmsn
-upošteva	Vmbr3s
-učinke	Ncmpa
-dokapitalizacije	Ncfsg
-NLB	Npfsg
-v	Sl
-višini	Ncfsl
-250	Mdc
-mio	Ncmpg
-evrov	Ncmpg
-,	Z
-ki	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-izvedena	Appfsn
-pomladi	Ncfsg
-letos	Rgp
-,	Z
-pravijo	Vmbr3p
-v	Sl
-banki	Ncfsl
-.	Z
-Na	Sl
-banki	Ncfsl
-pravijo	Vmbr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-pri	Sl
-interpretaciji	Ncfsl
-rezultatov	Ncmpg
-treba	Rgp
-upoštevati	Vmbn
-nekatera	Pi-npa
-pomembna	Agpnpa
-dejstva	Ncnpa
-.	Z
-Rezultati	Ncmpn
-ne	Q
-ločijo	Vmpr3p
-med	Si
-bankami	Ncfpi
-,	Z
-ki	Cs
-aktivno	Rgp
-sodelujejo	Vmpr3p
-v	Sl
-smeri	Ncfsl
-izboljšanja	Ncnsg
-položaja	Ncmsg
-,	Z
-in	Cc
-tistimi	Pd-mpi
-,	Z
-ki	Cs
-tovrstnih	Agpfpg
-aktivnosti	Ncfpg
-ne	Q
-izvajajo	Vmpr3p
-Prvo	Mlonsa
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-obremenitveni	Agpmsny
-test	Ncmsn
-izveden	Appmsnn
-po	Sl
-enotni	Agpfsl
-metodologiji	Ncfsl
-,	Z
-da	Cs
-bi	Va-c
-bila	Va-p-sf
-možna	Agpfsn
-čim	Rgp
-večja	Agcfsn
-primerljivost	Ncfsn
-rezultatov	Ncmpg
-.	Z
-Tak	Pd-msn
-pristop	Ncmsn
-zahteva	Vmbr3s
-številne	Agpfpa
-poenostavitve	Ncfpa
-in	Cc
-predpostavke	Ncfpa
-,	Z
-med	Si
-katerimi	Pq-mpi
-je	Va-r3s-n
-pomembna	Agpfsn
-predvsem	Q
-predpostavka	Ncfsn
-statične	Agpfsg
-bilance	Ncfsg
-stanja	Ncnsg
-31	Mdc
-.	Z
-12	Mdc
-.	Z
-2010	Mdc
-.	Z
-Tak	Pd-msn
-pristop	Ncmsn
-z	Si
-izjemo	Ncfsi
-dokapitalizacije	Ncfsg
-NLB	Npfsg
-,	Z
-izvedene	Appmsg
-marca	Ncmsg
-letos	Rgp
-,	Z
-ne	Q
-dovoljuje	Vmpr3s
-upoštevanja	Ncnsg
-ukrepov	Ncmpg
-za	Sa
-izboljšanje	Ncnsa
-kapitalske	Agpfsg
-pozicije	Ncfsg
-banke	Ncfsg
-npr	Ncmsn
-.	Z
-programa	Ncmsg
-dezinvestiranja	Ncnsg
-banke	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-teku	Ncmsl
-,	Z
-pravijo	Vmbr3p
-na	Sl
-NLB	Npfsl
-.	Z
-Dodajajo	Vmpr3p
-,	Z
-da	Cs
-rezultati	Ncmpn
-ne	Q
-razlikujejo	Vmpr3p
-med	Si
-bankami	Ncfpi
-,	Z
-ki	Cs
-aktivno	Rgp
-delujejo	Vmpr3p
-v	Sl
-smeri	Ncfsl
-izboljšanja	Ncnsg
-položaja	Ncmsg
-in	Cc
-so	Va-r3p-n
-v	Sl
-letošnjem	Agpnsl
-letu	Ncnsl
-izvedle	Vmep-pf
-še	Q
-dodatne	Agpmpa
-ukrepe	Ncmpa
-,	Z
-ki	Cs
-pozitivno	Rgp
-vplivajo	Vmpr3p
-na	Sa
-kapital	Ncmsan
-,	Z
-in	Cc
-tistimi	Pd-mpi
-,	Z
-ki	Cs
-tovrstnih	Agpfpg
-aktivnosti	Ncfpg
-ne	Q
-izvajajo	Vmpr3p
-.	Z
-Poenostavitve	Ncfsg
-vodijo	Vmpr3p
-do	Sg
-manj	Rgc
-ugodnih	Agpmpg
-rezultatov	Ncmpg
-Poenostavitve	Ncfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-posledica	Ncfsn
-prilagajanja	Ncnsg
-metodologije	Ncfsg
-,	Z
-po	Sl
-besedah	Ncfpl
-predstavnikov	Ncmpg
-NLB	Npfsg
-privedejo	Vmer3p
-do	Sg
-tega	Pd-nsg
-,	Z
-da	Cs
-so	Va-r3p-n
-rezultati	Ncmpn
-za	Sa
-banke	Ncfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-imele	Vmpp-pf
-ob	Sl
-koncu	Ncmsl
-leta	Ncnsg
-2010	Mdc
-visok	Agpmsnn
-nivo	Ncmsnn
-oblikovanih	Appfpg
-slabitev	Ncfpg
-in	Cc
-rezervacij	Ncfpg
-za	Sa
-kreditna	Agpnpa
-tveganja	Ncnpa
-,	Z
-manj	Rgc
-ugodni	Agpmpn
-.	Z
-Tako	Rgp
-so	Va-r3p-n
-v	Sl
-bistveno	Rgp
-slabšem	Agcmsl
-položaju	Ncmsl
-kot	Cs
-tiste	Pd-fpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-naredile	Vmep-pf
-manj	Rgc
-.	Z
-Ker	Cs
-visok	Agpmsnn
-nivo	Ncmsn
-oblikovanih	Appfpg
-slabitev	Ncfpg
-in	Cc
-rezervacij	Ncfpg
-NLB	Npfsg
-predstavlja	Vmpr3s
-močan	Agpmsnn
-amortizer	Ncmsn
-za	Sa
-prihodnja	Agpnpa
-negativna	Agpnpa
-dogajanja	Ncnpa
-,	Z
-je	Va-r3s-n
-to	Pd-nsn
-za	Sa
-banko	Ncfsa
-dejansko	Rgp
-pozitivno	Agpnsn
-,	Z
-dodajajo	Vmpr3p
-na	Sl
-NLB	Npfsl
-.	Z
-To	Pd-nsa
-so	Va-r3p-n
-hipotetični	Agpmpn
-scenariji	Ncmpn
-Pri	Sl
-tem	Pd-nsl
-so	Va-r3p-n
-iz	Sg
-NLB	Npfsg
-sporočili	Vmep-pm
-še	Q
-,	Z
-da	Cs
-rezultati	Ncmpn
-obremenitvenega	Agpnsg
-testiranja	Ncnsg
-ne	Q
-predstavljajo	Vmpr3p
-napovedi	Ncfsg
-pričakovanih	Appmpg
-rezultatov	Ncmpg
-,	Z
-saj	Cc
-so	Va-r3p-n
-to	Pd-nsa
-hipotetični	Agpmpn
-scenariji	Ncmpn
-z	Si
-vključenimi	Appfpi
-ekstremnimi	Agpfpi
-predpostavkami	Ncfpi
-,	Z
-ki	Cs
-se	Px------y
-kot	Cs
-take	Pd-fpn
-najverjetneje	Rgs
-ne	Q
-bodo	Va-f3p-n
-uresničile	Vmep-pf
-.	Z
-Božo	Npmsn
-Jašovič	Npmsn
-Foto	Ncmsn
-24ur.com	Mdc
-Jašovič	Npmsn
-Takšne	Pd-mpa
-rezultate	Ncmpa
-stresnega	Agpnsg
-testa	Ncnsg
-smo	Va-r1p-n
-pričakovali	Vmpp-pm
-Predsednik	Ncmsn
-uprave	Ncfsg
-NLB	Npfsg
-Božo	Npmsn
-Jašovič	Npmsn
-je	Va-r3s-n
-v	Sl
-prvem	Mlomsl
-odzivu	Ncmsl
-na	Sa
-rezultate	Ncmpa
-stresnih	Agpmpg
-testov	Ncmpg
-dejal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-takšen	Pd-msa
-rezultat	Ncmsnn
-pričakovali	Vmpp-pm
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-dodal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-za	Sa
-dolgoročno	Agpfsa
-stabilnost	Ncfsa
-banke	Ncfsg
-morali	Vmpp-pm
-kapitalsko	Rgp
-okrepiti	Vmen
-.	Z
-To	Pd-nsa
-naj	Q
-bi	Va-c
-dosegli	Vmep-pm
-z	Si
-250	Mdc
--	Z
-milijonsko	Agpfsi
-dokapitalizacijo	Ncfsi
-.	Z
-Z	Si
-omenjeno	Appfsi
-dokapitalizacijo	Ncfsi
-bi	Va-c
-predvidoma	Rgp
-prišli	Vmep-pm
-na	Sa
-Core	Ncmsn
-Tier	Ncmsn
-1	Mdc
-kapital	Ncmsan
-približno	Rgp
-9,5	Mdc
-odstotka	Ncmsg
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-Jašovič	Npmsn
-.	Z
-Ta	Pd-msa
-hip	Ncmsan
-v	Sl
-banki	Ncfsl
-sicer	Q
-še	Q
-nimajo	Vmpr3p-y
-natančne	Agpfsg
-razvrstitve	Ncfsg
-,	Z
-kje	Rgp
-bi	Va-c
-bili	Va-p-pm
-s	Si
-tem	Pd-msi
-kapitalom	Ncmsi
-razvrščeni	Appmpn
-na	Sl
-lestvici	Ncfsl
-,	Z
-a	Cc
-je	Va-r3s-n
-treba	Rgp
-gledati	Vmpn
-dolgoročno	Agpnsa
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Mi	Pp1-sd--y
-ne	Q
-računamo	Vmpr1p
-samo	Q
-na	Sa
-to	Pd-fsa
-dokapitalizacijo	Ncfsa
-,	Z
-računamo	Vmpr1p
-tudi	Q
-na	Sa
-vse	Pg-mpa
-ukrepe	Ncmpa
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-moramo	Vmpr1p
-v	Sl
-skladu	Ncmsl
-s	Si
-strategijo	Ncfsi
-izvesti	Vmen
-,	Z
-in	Cc
-ti	Pd-mpn
-ukrepi	Ncmpn
-bodo	Va-f3p-n
-še	Q
-dodatno	Rgp
-dolgoročno	Rgp
-prispevali	Vmbp-pm
-k	Sd
-povišanju	Ncnsd
-tega	Pd-msg
-količnika	Ncmsg
-.	Z
-V	Sl
-banki	Ncfsl
-pričakujejo	Vmpr3p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-lastniki	Ncmpn
-dosegli	Vmep-pm
-dogovor	Ncmsan
-,	Z
-kako	Rgp
-pravzaprav	Q
-lahko	Rgp
-zagotovijo	Vmer3p
-kapital	Ncmsan
-.	Z
-Če	Cs
-tak	Pd-msn
-dogovor	Ncmsn
-ne	Q
-bi	Va-c
-bil	Va-p-sm
-mogoč	Agpmsnn
-,	Z
-potem	Rgp
-je	Va-r3s-n
-alternativa	Ncfsn
-,	Z
-da	Cs
-gremo	Vmbr1p
-na	Sa
-skupščino	Ncfsa
-delničarjev	Ncmpg
-in	Cc
-predlagamo	Vmbr1p
-dokapitalizacijo	Ncfsa
-banke	Ncfsg
-na	Sl
-kapitalskem	Agpmsl
-trgu	Ncmsl
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+stresnih	mte:Agpnpl	stresen
+testih	mte:Ncnpl	test
+bank	mte:Ncfpg	banka
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+je	mte:Va-r3s-n	biti
+padlo	mte:Vmep-sn	pasti
+osem	mte:Mlc-pa	osem
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+ena	mte:Mlpfsn	en
+avstrijska	mte:Agpfsn	avstrijski
+,	mte:Z	,
+pet	mte:Mlc-pn	pet
+španskih	mte:Agpfpg	španski
+in	mte:Cc	in
+dve	mte:Mlcfda	dva
+grški	mte:Agpfda	grški
+banki	mte:Ncfda	banka
+.	mte:Z	.
+NKBM	mte:Npfsn	NKBM
+je	mte:Va-r3s-n	biti
+občutno	mte:Rgp	občutno
+presegla	mte:Vmep-sf	preseči
+prag	mte:Ncmsan	prag
+za	mte:Sa	za
+uspešno	mte:Rgp	uspešno
+opravljen	mte:Appmsan	opravljen
+stresni	mte:Agpmsay	stresen
+test	mte:Ncmsan	test
+,	mte:Z	,
+NLB	mte:Npfsn	NLB
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+presegla	mte:Vmep-sf	preseči
+za	mte:Sa	za
+malenkost	mte:Ncfsa	malenkost
+.	mte:Z	.
+Stresne	mte:Agpmpa	stresen
+teste	mte:Ncmpa	test
+evropskih	mte:Agpfpg	evropski
+bank	mte:Ncfpg	banka
+je	mte:Va-r3s-n	biti
+izvedla	mte:Vmep-sf	izvesti
+Evropska	mte:Agpfsn	evropski
+bančna	mte:Agpfsn	bančen
+agencija	mte:Ncfsn	agencija
+EBA	mte:Npmsn	EBA
+,	mte:Z	,
+v	mte:Sa	v
+teste	mte:Ncmpa	test
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+vključenih	mte:Appfpg	vključen
+91	mte:Mdc	91
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+predstavljajo	mte:Vmpr3p	predstavljati
+65	mte:Mdc	65
+odstotkov	mte:Ncmpg	odstotek
+bančnega	mte:Agpmsg	bančen
+trga	mte:Ncmsg	trg
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+.	mte:Z	.
+Banke	mte:Ncfpn	banka
+morajo	mte:Vmpr3p	morati
+sicer	mte:Q	sicer
+na	mte:Sl	na
+testih	mte:Ncnpl	test
+razpolagati	mte:Vmpn	razpolagati
+z	mte:Si	z
+vsaj	mte:Q	vsaj
+petimi	mte:Mlc-pi	pet
+odstotki	mte:Ncmpi	odstotek
+najbolj	mte:Rgs	najbolj
+kakovostnega	mte:Agpmsg	kakovosten
+temeljnega	mte:Agpmsg	temeljen
+kapitala	mte:Ncmsg	kapital
+Core	mte:Ncmsn	cora
+Tier	mte:Ncmsg	tier
+1	mte:Mdc	1
+,	mte:Z	,
+testi	mte:Ncmpn	test
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+jasno	mte:Rgp	jasno
+razkrili	mte:Vmep-pm	razkriti
+tudi	mte:Q	tudi
+izpostavljenost	mte:Ncfsa	izpostavljenost
+državnim	mte:Agpfpd	državen
+obveznicam	mte:Ncfpi	obveznica
+in	mte:Cc	in
+slabim	mte:Agpnsi	slab
+posojilom	mte:Ncnsi	posojilo
+.	mte:Z	.
+Core	mte:Npmsn	Core
+Tier	mte:Npmsn	Tier
+1	mte:Mdc	1
+je	mte:Va-r3s-n	biti
+bolj	mte:Rgc	bolj
+restriktiven	mte:Agpmsnn	restriktiven
+od	mte:Sg	od
+količnika	mte:Ncmsg	količnik
+temeljnega	mte:Agpmsg	temeljen
+kapitala	mte:Ncmsg	kapital
+Tier	mte:Ncmsg	tier
+1	mte:Mdc	1
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+upoštevali	mte:Vmbp-pm	upoštevati
+pri	mte:Sl	pri
+lanskih	mte:Agpnpl	lanski
+testih	mte:Ncnpl	test
+.	mte:Z	.
+Rezultati	mte:Ncmpn	rezultat
+in	mte:Cc	in
+pomanjkljivosti	mte:Ncfpl	pomanjkljivost
+,	mte:Z	,
+ki	mte:Cs	ki
+izhajajo	mte:Vmpr3p	izhajati
+iz	mte:Sg	iz
+obremenitvenih	mte:Agpmpg	obremenitven
+testov	mte:Ncmpg	test
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+služili	mte:Vmpp-pm	služiti
+izboljšanju	mte:Ncnsd	izboljšanje
+trdnosti	mte:Ncfsg	trdnost
+finančnega	mte:Agpmsg	finančen
+sistema	mte:Ncmsg	sistem
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+omenjene	mte:Appfsg	omenjen
+agencije	mte:Ncfsg	agencija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+stresnih	mte:Agpnpl	stresen
+testih	mte:Ncnpl	test
+padlo	mte:Vmep-sn	pasti
+osem	mte:Mlc-pa	osem
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+ena	mte:Mlpfsn	en
+avstrijska	mte:Agpfsn	avstrijski
+,	mte:Z	,
+pet	mte:Mlc-pn	pet
+španskih	mte:Agpfpg	španski
+in	mte:Cc	in
+dve	mte:Mlcfda	dva
+grški	mte:Agpfda	grški
+banki	mte:Ncfda	banka
+.	mte:Z	.
+V	mte:Sa	v
+stresne	mte:Agpmpa	stresen
+teste	mte:Ncmpa	test
+sta	mte:Va-r3d-n	biti
+bili	mte:Va-p-dm	biti
+vključeni	mte:Appfdn	vključen
+tudi	mte:Q	tudi
+dve	mte:Mlcfdn	dva
+slovenski	mte:Agpfda	slovenski
+banki	mte:Ncfda	banka
+,	mte:Z	,
+Nova	mte:Agpfsn	nov
+Ljubljanska	mte:Agpfsn	ljubljanski
+banka	mte:Ncfsn	banka
+NLB	mte:Npfsn	NLB
+in	mte:Cc	in
+Nova	mte:Agpfsn	nov
+Kreditna	mte:Agpfsn	krediten
+banka	mte:Ncfsn	banka
+Maribor	mte:Npmsn	Maribor
+NKBM	mte:Npmsn	NKBM
+,	mte:Z	,
+obe	mte:Pg-fdn	oba
+banki	mte:Ncfdn	banka
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+test	mte:Ncmsan	test
+prestali	mte:Vmep-dm	prestati
+.	mte:Z	.
+V	mte:Sl	v
+kolikšni	mte:Pq-fsl	kolikšen
+meri	mte:Ncfsl	mera
+sta	mte:Va-r3d-n	biti
+banki	mte:Ncfdn	banka
+presegli	mte:Vmep-dm	preseči
+magično	mte:Agpfsa	magičen
+mejo	mte:Ncfsa	meja
+?	mte:Z	?
+NKBM	mte:Npfsn	NKBM
+je	mte:Va-r3s-n	biti
+občutno	mte:Rgp	občutno
+presegla	mte:Vmep-sf	preseči
+prag	mte:Ncmsan	prag
+za	mte:Sa	za
+uspešno	mte:Rgp	uspešno
+opravljen	mte:Appmsan	opravljen
+stresni	mte:Agpmsay	stresen
+test	mte:Ncmsan	test
+,	mte:Z	,
+NLB	mte:Npfsn	NLB
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+presegla	mte:Vmep-sf	preseči
+za	mte:Sa	za
+malenkost	mte:Ncfsa	malenkost
+.	mte:Z	.
+Na	mte:Sl	na
+Banki	mte:Ncfsl	banka
+Slovenije	mte:Npfsg	Slovenija
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+NKBM	mte:Npfsn	NKBM
+v	mte:Sa	v
+bodoče	mte:Agpmpa	bodoč
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+zagotavljala	mte:Vmpp-sf	zagotavljati
+ustrezne	mte:Agpfpa	ustrezen
+ravni	mte:Ncfpa	raven
+kapitala	mte:Ncmsg	kapital
+,	mte:Z	,
+za	mte:Sa	za
+NLB	mte:Npfsa	NLB
+pa	mte:Cc	pa
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+predmet	mte:Ncmsn	predmet
+okrepljenega	mte:Appmsg	okrepljen
+nadzora	mte:Ncmsg	nadzor
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+z	mte:Si	z
+namenom	mte:Ncmsi	namen
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+čim	mte:Rgp	čim
+prej	mte:Rgc	prej
+zagotovi	mte:Vmer3s	zagotoviti
+višja	mte:Agcfsn	visok
+kapitalska	mte:Agpfsn	kapitalski
+ustreznost	mte:Ncfsn	ustreznost
+.	mte:Z	.
+Pri	mte:Sl	pri
+obeh	mte:Pg-fdl	oba
+bankah	mte:Ncfdl	banka
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+upoštevani	mte:Appmpn	upoštevan
+učinki	mte:Ncmpn	učinek
+dokapitalizacije	mte:Ncfsg	dokapitalizacija
+.	mte:Z	.
+V	mte:Sl	v
+primeru	mte:Ncmsl	primer
+NKBM	mte:Npfsg	NKBM
+je	mte:Va-r3s-n	biti
+dokapitalizacija	mte:Ncfsn	dokapitalizacija
+znašala	mte:Vmpp-sf	znašati
+104	mte:Mdc	104
+milijone	mte:Ncmpa	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+dokapitalizacija	mte:Ncfsn	dokapitalizacija
+izvedena	mte:Appfsn	izveden
+že	mte:Q	že
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2010	mte:Mdc	2010
+,	mte:Z	,
+bi	mte:Va-c	biti
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+količnik	mte:Ncmsn	količnik
+Core	mte:Npmsn	Core
+Tier	mte:Npmsn	Tier
+1	mte:Mdc	1
+znašal	mte:Vmpp-sm	znašati
+9,5	mte:Mdc	9,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+dejansko	mte:Rgp	dejansko
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+znašal	mte:Vmpp-sm	znašati
+7,4	mte:Mdc	7,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Izračun	mte:Ncmsn	izračun
+sicer	mte:Q	sicer
+ne	mte:Q	ne
+upošteva	mte:Vmbr3s	upoštevati
+bodočih	mte:Agpmpg	bodoč
+mitigacijskih	mte:Agpmpg	mitigacijski
+ukrepov	mte:Ncmpg	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+načrtuje	mte:Vmpr3s	načrtovati
+banka	mte:Ncfsn	banka
+.	mte:Z	.
+Na	mte:Sl	na
+NLB	mte:Npfsl	NLB
+opozarjajo	mte:Vmpr3p	opozarjati
+na	mte:Sa	na
+upoštevanje	mte:Ncnsa	upoštevanje
+nekaterih	mte:Pi-mpg	nekateri
+podatkov	mte:Ncmpg	podatek
+pri	mte:Sl	pri
+interpretaciji	mte:Ncfsl	interpretacija
+Pri	mte:Sl	pri
+testu	mte:Ncnsl	test
+NLB	mte:Npfsg	NLB
+so	mte:Va-r3p-n	biti
+upoštevali	mte:Vmbp-pm	upoštevati
+učinke	mte:Ncmpa	učinek
+letošnje	mte:Agpfsg	letošnji
+dokapitalizacije	mte:Ncfsg	dokapitalizacija
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+250	mte:Mdc	250
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Če	mte:Cs	če
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+dokapitalizacija	mte:Ncfsn	dokapitalizacija
+izvedena	mte:Appfsn	izveden
+že	mte:Q	že
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2010	mte:Mdc	2010
+,	mte:Z	,
+bi	mte:Va-c	biti
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+količnik	mte:Ncmsn	količnik
+Core	mte:Npmsn	Core
+Tier	mte:Npmsn	Tier
+1	mte:Mdc	1
+znašal	mte:Vmpp-sm	znašati
+6,8	mte:Mdc	6,8
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+dejansko	mte:Rgp	dejansko
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+znašal	mte:Vmpp-sm	znašati
+5,2	mte:Mdc	5,2
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Izračun	mte:Ncmsn	izračun
+ne	mte:Q	ne
+upošteva	mte:Vmbr3s	upoštevati
+bodočih	mte:Agpmpg	bodoč
+tako	mte:Rgp	tako
+imenovanih	mte:Appmpg	imenovan
+mitigacijskih	mte:Agpmpg	mitigacijski
+ukrepov	mte:Ncmpg	ukrep
+npr	mte:Ncmsn	npr
+.	mte:Z	.
+zmanjševanje	mte:Ncnsn	zmanjševanje
+kreditnih	mte:Agpnpg	krediten
+tveganj	mte:Ncnpg	tveganje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+načrtuje	mte:Vmpr3s	načrtovati
+banka	mte:Ncfsn	banka
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+NLB	mte:Npfsg	NLB
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+njihova	mte:Ps3fsnp	njihov
+banka	mte:Ncfsn	banka
+test	mte:Ncmsn	test
+prestala	mte:Vmep-sf	prestati
+,	mte:Z	,
+saj	mte:Cc	saj
+Core	mte:Npmsn	Core
+Tier	mte:Npmsn	Tier
+1	mte:Mdc	1
+tako	mte:Rgp	tako
+po	mte:Sl	po
+osnovnem	mte:Agpmsl	osnoven
+kot	mte:Cs	kot
+po	mte:Sl	po
+neugodnem	mte:Agpmsl	neugoden
+scenariju	mte:Ncmsl	scenarij
+presega	mte:Vmpr3s	presegati
+mejo	mte:Ncfsa	meja
+pet	mte:Mlc-pa	pet
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Po	mte:Sl	po
+uporabi	mte:Ncfsl	uporaba
+predpostavk	mte:Ncfpg	predpostavka
+po	mte:Sl	po
+osnovnem	mte:Agpmsl	osnoven
+scenariju	mte:Ncmsl	scenarij
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2011	mte:Mdc	2011
+količnik	mte:Ncmsan	količnik
+Core	mte:Npmsn	Core
+Tier	mte:Npmsn	Tier
+1	mte:Mdc	1
+za	mte:Sa	za
+NLB	mte:Npfsa	NLB
+na	mte:Sl	na
+konsolidirani	mte:Appfsl	konsolidiran
+podlagi	mte:Ncfsl	podlaga
+znašal	mte:Vmpp-sm	znašati
+6,3	mte:Mdc	6,3
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2012	mte:Mdc	2012
+pa	mte:Cc	pa
+6,7	mte:Mdc	6,7
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+neugodnim	mte:Agpmsi	neugoden
+scenarijem	mte:Ncmsi	scenarij
+bi	mte:Va-c	biti
+količnik	mte:Ncmsnn	količnik
+Core	mte:Npmsn	Core
+Tier	mte:Npfsn	Tier
+1	mte:Mdc	1
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2011	mte:Mdc	2011
+znašal	mte:Vmpp-sm	znašati
+5,5	mte:Mdc	5,5
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2012	mte:Mdc	2012
+5,3	mte:Mdc	5,3
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+rezultat	mte:Ncmsn	rezultat
+upošteva	mte:Vmbr3s	upoštevati
+učinke	mte:Ncmpa	učinek
+dokapitalizacije	mte:Ncfsg	dokapitalizacija
+NLB	mte:Npfsg	NLB
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+250	mte:Mdc	250
+mio	mte:Ncmpg	mio
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+izvedena	mte:Appfsn	izveden
+pomladi	mte:Ncfsg	pomlad
+letos	mte:Rgp	letos
+,	mte:Z	,
+pravijo	mte:Vmbr3p	praviti
+v	mte:Sl	v
+banki	mte:Ncfsl	banka
+.	mte:Z	.
+Na	mte:Sl	na
+banki	mte:Ncfsl	banka
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+interpretaciji	mte:Ncfsl	interpretacija
+rezultatov	mte:Ncmpg	rezultat
+treba	mte:Rgp	treba
+upoštevati	mte:Vmbn	upoštevati
+nekatera	mte:Pi-npa	nekateri
+pomembna	mte:Agpnpa	pomemben
+dejstva	mte:Ncnpa	dejstvo
+.	mte:Z	.
+Rezultati	mte:Ncmpn	rezultat
+ne	mte:Q	ne
+ločijo	mte:Vmpr3p	ločiti
+med	mte:Si	med
+bankami	mte:Ncfpi	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+aktivno	mte:Rgp	aktivno
+sodelujejo	mte:Vmpr3p	sodelovati
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+izboljšanja	mte:Ncnsg	izboljšanje
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+in	mte:Cc	in
+tistimi	mte:Pd-mpi	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+tovrstnih	mte:Agpfpg	tovrsten
+aktivnosti	mte:Ncfpg	aktivnost
+ne	mte:Q	ne
+izvajajo	mte:Vmpr3p	izvajati
+Prvo	mte:Mlonsa	prvi
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+obremenitveni	mte:Agpmsny	obremenitven
+test	mte:Ncmsn	test
+izveden	mte:Appmsnn	izveden
+po	mte:Sl	po
+enotni	mte:Agpfsl	enoten
+metodologiji	mte:Ncfsl	metodologija
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+možna	mte:Agpfsn	možen
+čim	mte:Rgp	čim
+večja	mte:Agcfsn	velik
+primerljivost	mte:Ncfsn	primerljivost
+rezultatov	mte:Ncmpg	rezultat
+.	mte:Z	.
+Tak	mte:Pd-msn	tak
+pristop	mte:Ncmsn	pristop
+zahteva	mte:Vmbr3s	zahtevati
+številne	mte:Agpfpa	številen
+poenostavitve	mte:Ncfpa	poenostavitev
+in	mte:Cc	in
+predpostavke	mte:Ncfpa	predpostavka
+,	mte:Z	,
+med	mte:Si	med
+katerimi	mte:Pq-mpi	kateri
+je	mte:Va-r3s-n	biti
+pomembna	mte:Agpfsn	pomemben
+predvsem	mte:Q	predvsem
+predpostavka	mte:Ncfsn	predpostavka
+statične	mte:Agpfsg	statičen
+bilance	mte:Ncfsg	bilanca
+stanja	mte:Ncnsg	stanje
+31	mte:Mdc	31
+.	mte:Z	.
+12	mte:Mdc	12
+.	mte:Z	.
+2010	mte:Mdc	2010
+.	mte:Z	.
+Tak	mte:Pd-msn	tak
+pristop	mte:Ncmsn	pristop
+z	mte:Si	z
+izjemo	mte:Ncfsi	izjema
+dokapitalizacije	mte:Ncfsg	dokapitalizacija
+NLB	mte:Npfsg	NLB
+,	mte:Z	,
+izvedene	mte:Appmsg	izveden
+marca	mte:Ncmsg	marec
+letos	mte:Rgp	letos
+,	mte:Z	,
+ne	mte:Q	ne
+dovoljuje	mte:Vmpr3s	dovoljevati
+upoštevanja	mte:Ncnsg	upoštevanje
+ukrepov	mte:Ncmpg	ukrep
+za	mte:Sa	za
+izboljšanje	mte:Ncnsa	izboljšanje
+kapitalske	mte:Agpfsg	kapitalski
+pozicije	mte:Ncfsg	pozicija
+banke	mte:Ncfsg	banka
+npr	mte:Ncmsn	npr
+.	mte:Z	.
+programa	mte:Ncmsg	program
+dezinvestiranja	mte:Ncnsg	dezinvestiranje
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+teku	mte:Ncmsl	tek
+,	mte:Z	,
+pravijo	mte:Vmbr3p	praviti
+na	mte:Sl	na
+NLB	mte:Npfsl	NLB
+.	mte:Z	.
+Dodajajo	mte:Vmpr3p	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+rezultati	mte:Ncmpn	rezultat
+ne	mte:Q	ne
+razlikujejo	mte:Vmpr3p	razlikovati
+med	mte:Si	med
+bankami	mte:Ncfpi	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+aktivno	mte:Rgp	aktivno
+delujejo	mte:Vmpr3p	delovati
+v	mte:Sl	v
+smeri	mte:Ncfsl	smer
+izboljšanja	mte:Ncnsg	izboljšanje
+položaja	mte:Ncmsg	položaj
+in	mte:Cc	in
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+letošnjem	mte:Agpnsl	letošnji
+letu	mte:Ncnsl	leto
+izvedle	mte:Vmep-pf	izvedati
+še	mte:Q	še
+dodatne	mte:Agpmpa	dodaten
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+pozitivno	mte:Rgp	pozitiven
+vplivajo	mte:Vmpr3p	vplivati
+na	mte:Sa	na
+kapital	mte:Ncmsan	kapital
+,	mte:Z	,
+in	mte:Cc	in
+tistimi	mte:Pd-mpi	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+tovrstnih	mte:Agpfpg	tovrsten
+aktivnosti	mte:Ncfpg	aktivnost
+ne	mte:Q	ne
+izvajajo	mte:Vmpr3p	izvajati
+.	mte:Z	.
+Poenostavitve	mte:Ncfsg	poenostavitev
+vodijo	mte:Vmpr3p	voditi
+do	mte:Sg	do
+manj	mte:Rgc	manj
+ugodnih	mte:Agpmpg	ugoden
+rezultatov	mte:Ncmpg	rezultat
+Poenostavitve	mte:Ncfsg	poenostavitev
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+posledica	mte:Ncfsn	posledica
+prilagajanja	mte:Ncnsg	prilagajanje
+metodologije	mte:Ncfsg	metodologija
+,	mte:Z	,
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+predstavnikov	mte:Ncmpg	predstavnik
+NLB	mte:Npfsg	NLB
+privedejo	mte:Vmer3p	privedeti
+do	mte:Sg	do
+tega	mte:Pd-nsg	ta
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+rezultati	mte:Ncmpn	rezultat
+za	mte:Sa	za
+banke	mte:Ncfpa	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+imele	mte:Vmpp-pf	imeti
+ob	mte:Sl	ob
+koncu	mte:Ncmsl	konec
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+visok	mte:Agpmsnn	visok
+nivo	mte:Ncmsnn	nivo
+oblikovanih	mte:Appfpg	oblikovan
+slabitev	mte:Ncfpg	slabitev
+in	mte:Cc	in
+rezervacij	mte:Ncfpg	rezervacija
+za	mte:Sa	za
+kreditna	mte:Agpnpa	krediten
+tveganja	mte:Ncnpa	tveganje
+,	mte:Z	,
+manj	mte:Rgc	manj
+ugodni	mte:Agpmpn	ugoden
+.	mte:Z	.
+Tako	mte:Rgp	tako
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+bistveno	mte:Rgp	bistveno
+slabšem	mte:Agcmsl	slab
+položaju	mte:Ncmsl	položaj
+kot	mte:Cs	kot
+tiste	mte:Pd-fpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+naredile	mte:Vmep-pf	narediti
+manj	mte:Rgc	manj
+.	mte:Z	.
+Ker	mte:Cs	ker
+visok	mte:Agpmsnn	visok
+nivo	mte:Ncmsn	nivo
+oblikovanih	mte:Appfpg	oblikovan
+slabitev	mte:Ncfpg	slabitev
+in	mte:Cc	in
+rezervacij	mte:Ncfpg	rezervacija
+NLB	mte:Npfsg	NLB
+predstavlja	mte:Vmpr3s	predstavljati
+močan	mte:Agpmsnn	močen
+amortizer	mte:Ncmsn	amortizer
+za	mte:Sa	za
+prihodnja	mte:Agpnpa	prihodnji
+negativna	mte:Agpnpa	negativen
+dogajanja	mte:Ncnpa	dogajanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+za	mte:Sa	za
+banko	mte:Ncfsa	banka
+dejansko	mte:Rgp	dejansko
+pozitivno	mte:Agpnsn	pozitiven
+,	mte:Z	,
+dodajajo	mte:Vmpr3p	dodajati
+na	mte:Sl	na
+NLB	mte:Npfsl	NLB
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+so	mte:Va-r3p-n	biti
+hipotetični	mte:Agpmpn	hipotetičen
+scenariji	mte:Ncmpn	scenarija
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+so	mte:Va-r3p-n	biti
+iz	mte:Sg	iz
+NLB	mte:Npfsg	NLB
+sporočili	mte:Vmep-pm	sporočiti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+rezultati	mte:Ncmpn	rezultat
+obremenitvenega	mte:Agpnsg	obremenitven
+testiranja	mte:Ncnsg	testiranje
+ne	mte:Q	ne
+predstavljajo	mte:Vmpr3p	predstavljati
+napovedi	mte:Ncfsg	napoved
+pričakovanih	mte:Appmpg	pričakovan
+rezultatov	mte:Ncmpg	rezultat
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+to	mte:Pd-nsa	ta
+hipotetični	mte:Agpmpn	hipotetičen
+scenariji	mte:Ncmpn	scenarija
+z	mte:Si	z
+vključenimi	mte:Appfpi	vključen
+ekstremnimi	mte:Agpfpi	ekstremen
+predpostavkami	mte:Ncfpi	predpostavka
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+kot	mte:Cs	kot
+take	mte:Pd-fpn	tak
+najverjetneje	mte:Rgs	verjetno
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+uresničile	mte:Vmep-pf	uresničiti
+.	mte:Z	.
+Božo	mte:Npmsn	Božo
+Jašovič	mte:Npmsn	Jašovič
+Foto	mte:Ncmsn	foto
+24ur.com	mte:Mdc	24ur.co
+Jašovič	mte:Npmsn	Jašovič
+Takšne	mte:Pd-mpa	takšen
+rezultate	mte:Ncmpa	rezultat
+stresnega	mte:Agpnsg	stresen
+testa	mte:Ncnsg	test
+smo	mte:Va-r1p-n	biti
+pričakovali	mte:Vmpp-pm	pričakovati
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+NLB	mte:Npfsg	NLB
+Božo	mte:Npmsn	Božo
+Jašovič	mte:Npmsn	Jašovič
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+prvem	mte:Mlomsl	prvi
+odzivu	mte:Ncmsl	odziv
+na	mte:Sa	na
+rezultate	mte:Ncmpa	rezultat
+stresnih	mte:Agpmpg	stresen
+testov	mte:Ncmpg	test
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+takšen	mte:Pd-msa	takšen
+rezultat	mte:Ncmsnn	rezultat
+pričakovali	mte:Vmpp-pm	pričakovati
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+za	mte:Sa	za
+dolgoročno	mte:Agpfsa	dolgoročno
+stabilnost	mte:Ncfsa	stabilnost
+banke	mte:Ncfsg	banka
+morali	mte:Vmpp-pm	morati
+kapitalsko	mte:Rgp	kapitalsko
+okrepiti	mte:Vmen	okrepiti
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+dosegli	mte:Vmep-pm	doseči
+z	mte:Si	z
+250	mte:Mdc	250
+-	mte:Z	-
+milijonsko	mte:Agpfsi	milijonski
+dokapitalizacijo	mte:Ncfsi	dokapitalizacija
+.	mte:Z	.
+Z	mte:Si	z
+omenjeno	mte:Appfsi	omenjen
+dokapitalizacijo	mte:Ncfsi	dokapitalizacija
+bi	mte:Va-c	biti
+predvidoma	mte:Rgp	predvidoma
+prišli	mte:Vmep-pm	priti
+na	mte:Sa	na
+Core	mte:Ncmsn	cora
+Tier	mte:Ncmsn	tier
+1	mte:Mdc	1
+kapital	mte:Ncmsan	kapital
+približno	mte:Rgp	približno
+9,5	mte:Mdc	9,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Jašovič	mte:Npmsn	Jašovič
+.	mte:Z	.
+Ta	mte:Pd-msa	ta
+hip	mte:Ncmsan	hip
+v	mte:Sl	v
+banki	mte:Ncfsl	banka
+sicer	mte:Q	sicer
+še	mte:Q	še
+nimajo	mte:Vmpr3p-y	imeti
+natančne	mte:Agpfsg	natančen
+razvrstitve	mte:Ncfsg	razvrstitev
+,	mte:Z	,
+kje	mte:Rgp	kje
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+kapitalom	mte:Ncmsi	kapital
+razvrščeni	mte:Appmpn	razvrščen
+na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+treba	mte:Rgp	treba
+gledati	mte:Vmpn	gledati
+dolgoročno	mte:Agpnsa	dolgoročno
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Mi	mte:Pp1-sd--y	jaz
+ne	mte:Q	ne
+računamo	mte:Vmpr1p	računati
+samo	mte:Q	samo
+na	mte:Sa	na
+to	mte:Pd-fsa	ta
+dokapitalizacijo	mte:Ncfsa	dokapitalizacija
+,	mte:Z	,
+računamo	mte:Vmpr1p	računati
+tudi	mte:Q	tudi
+na	mte:Sa	na
+vse	mte:Pg-mpa	ves
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+moramo	mte:Vmpr1p	morati
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+strategijo	mte:Ncfsi	strategija
+izvesti	mte:Vmen	izvesti
+,	mte:Z	,
+in	mte:Cc	in
+ti	mte:Pd-mpn	ta
+ukrepi	mte:Ncmpn	ukrep
+bodo	mte:Va-f3p-n	biti
+še	mte:Q	še
+dodatno	mte:Rgp	dodatno
+dolgoročno	mte:Rgp	dolgoročno
+prispevali	mte:Vmbp-pm	prispevati
+k	mte:Sd	k
+povišanju	mte:Ncnsd	povišanje
+tega	mte:Pd-msg	ta
+količnika	mte:Ncmsg	količnik
+.	mte:Z	.
+V	mte:Sl	v
+banki	mte:Ncfsl	banka
+pričakujejo	mte:Vmpr3p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+lastniki	mte:Ncmpn	lastnik
+dosegli	mte:Vmep-pm	doseči
+dogovor	mte:Ncmsan	dogovor
+,	mte:Z	,
+kako	mte:Rgp	kako
+pravzaprav	mte:Q	pravzaprav
+lahko	mte:Rgp	lahko
+zagotovijo	mte:Vmer3p	zagotoviti
+kapital	mte:Ncmsan	kapital
+.	mte:Z	.
+Če	mte:Cs	če
+tak	mte:Pd-msn	tak
+dogovor	mte:Ncmsn	dogovor
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+mogoč	mte:Agpmsnn	mogoč
+,	mte:Z	,
+potem	mte:Rgp	potem
+je	mte:Va-r3s-n	biti
+alternativa	mte:Ncfsn	alternativa
+,	mte:Z	,
+da	mte:Cs	da
+gremo	mte:Vmbr1p	iti
+na	mte:Sa	na
+skupščino	mte:Ncfsa	skupščina
+delničarjev	mte:Ncmpg	delničar
+in	mte:Cc	in
+predlagamo	mte:Vmbr1p	predlagati
+dokapitalizacijo	mte:Ncfsa	dokapitalizacija
+banke	mte:Ncfsg	banka
+na	mte:Sl	na
+kapitalskem	mte:Agpmsl	kapitalski
+trgu	mte:Ncmsl	trg
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+Jašovič	mte:Npmsn	Jašovič
+stresne	mte:Agpmpa	stresen
+teste	mte:Ncmpa	test
+bolj	mte:Rgc	bolj
+kot	mte:Cs	kot
+relevantno	mte:Agpfsa	relevanten
+informacijo	mte:Ncfsa	informacija
+za	mte:Sa	za
+investitorje	mte:Ncmpa	investitor
+ocenjuje	mte:Vmpr3s	ocenjevati
+kot	mte:Cs	kot
+pomembno	mte:Agpfsa	pomemben
+oceno	mte:Ncfsa	ocena
+za	mte:Sa	za
+splošno	mte:Agpnsa	splošen
+zaupanje	mte:Ncnsa	zaupanje
+v	mte:Sa	v
+banke	mte:Ncfpa	banka
+in	mte:Cc	in
+bančni	mte:Agpmsay	bančen
+sistem	mte:Ncmsan	sistem
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+ti	mte:Pd-mpn	ta
+testi	mte:Ncmpn	test
+bolj	mte:Rgc	bolj
+namenjeni	mte:Appmpn	namenjen
+širši	mte:Agcmsd	širok
+,	mte:Z	,
+nepoučeni	mte:Agpfsd	nepoučen
+javnosti	mte:Ncfsd	javnost
+,	mte:Z	,
+zato	mte:Cc	zato
+da	mte:Cs	da
+bi	mte:Va-c	biti
+gradili	mte:Vmpp-pm	graditi
+zaupanje	mte:Ncnsa	zaupanje
+v	mte:Sa	v
+trdnost	mte:Ncfsa	trdnost
+in	mte:Cc	in
+odpornost	mte:Ncfsa	odpornost
+bančnega	mte:Agpmsg	bančen
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+saj	mte:Cc	saj
+investitorji	mte:Ncmpn	investitor
+ponavadi	mte:Rgp	ponavadi
+dobro	mte:Rgp	dobro
+vedo	mte:Vmpr3p	vedeti
+,	mte:Z	,
+kakšen	mte:Pq-msn	kakšen
+je	mte:Va-r3s-n	biti
+položaj	mte:Ncmsn	položaj
+v	mte:Sl	v
+banki	mte:Ncfsl	banka

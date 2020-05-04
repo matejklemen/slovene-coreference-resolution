@@ -1,667 +1,688 @@
-token	tag
-Oceno	Ncfsa
-Aaa	Npfsg
-so	Va-r3p-n
-ohranile	Vmep-pf
-le	Q
-Avstrija	Npfsn
-,	Z
-Velika	Agpfsn
-Britanija	Npfsn
-,	Z
-Francija	Npfsn
-Moodys	Npmsn
-je	Va-r3s-n
-znižal	Vmep-sm
-kreditne	Agpfpa
-ocene	Ncfpa
-šestim	Mlofpd
-članicam	Ncfpd
-EU	Npfsg
--	Z
-ja	Q
-.	Z
-Sloveniji	Npfsd
-je	Va-r3s-n
-padla	Vmep-sf
-z	Si
-A1	Ncfsi
-na	Sa
-A2	Ncmsan
-z	Si
-negativnim	Agpmsi
-obetom	Ncmsi
-.	Z
-Znižanja	Ncnsg
-nam	Pp1-pd
-vedno	Rgp
-znova	Rgp
-utemeljijo	Vmer3p
-to	Pd-nsa
-,	Z
-da	Cs
-ne	Q
-reagiramo	Vmbr1p
-,	Z
-na	Sa
-to	Pd-nsa
-pravi	Vmbr3s
-ekonomist	Ncmsn
-Igor	Npmsn
-Masten	Npmsn
-.	Z
-Znižane	Appfpn
-ocene	Ncfpn
-naj	Q
-bi	Va-c
-izkazovale	Vmpp-pf
-izpostavljenost	Ncfsa
-rastočim	Appnsd
-finančnim	Agpnsd
-in	Cc
-makroekonomskim	Agpnsd
-tveganjem	Ncnsi
-zaradi	Sg
-evropske	Agpfsg
-dolžniške	Agpfsg
-krize	Ncfsg
-.	Z
-Nižja	Agcfsn
-bonitetna	Agpfsn
-ocena	Ncfsn
-Sloveniji	Npfsd
-z	Sg
-A1	Npfsn
-na	Sa
-A2	Npmsan
-napoveduje	Vmpr3s
-grožnje	Ncfpa
-o	Sl
-novem	Agpnsl
-znižanju	Ncnsl
-ocene	Ncfsg
-.	Z
-Ključna	Agpmdn
-razloga	Ncmdn
-znižanja	Ncnsg
-sta	Va-r3d-n
-enaka	Pi-mdn
-kot	Cs
-za	Sa
-vse	Pg-fpa
-druge	Mlpfpa
-države	Ncfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-doživele	Vmep-pf
-znižanje	Ncnsa
-ocene	Ncfsg
-,	Z
-to	Pd-nsn
-pa	Cc
-sta	Va-r3d-n
-nezanesljivost	Ncfsn
-glede	Sg
-institucionalne	Agpfsg
-reforme	Ncfsg
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-in	Cc
-šibka	Agpfsn
-makroekonomska	Agpfsn
-napoved	Ncfsn
-celotnega	Agpnsg
-območja	Ncnsg
-.	Z
-Slovenske	Agpfpn
-javne	Agpfpn
-finance	Ncfpn
-so	Va-r3p-n
-izpostavljene	Appfpn
-morebitnim	Agpmpd
-novim	Agpmpd
-šokom	Ncmpd
-,	Z
-še	Q
-posebej	Rgp
-zaradi	Sg
-morebitne	Agpfsg
-potrebe	Ncfsg
-zagotavljanja	Ncnsg
-dodatne	Agpfsg
-podpore	Ncfsg
-bančnemu	Agpmsd
-sektorju	Ncmsd
-.	Z
-Razlog	Ncmsn
-za	Sa
-znižanje	Ncnsa
-ocene	Ncfsg
-so	Va-r3p-n
-tudi	Q
-težave	Ncfpn
-,	Z
-s	Si
-katerimi	Pq-mpi
-se	Px------y
-Slovenija	Npfsn
-spoprijema	Vmpr1s
-kot	Cs
-majhno	Agpnsa
-in	Cc
-odprto	Appnsa
-gospodarstvo	Ncnsa
-zaradi	Sg
-šibke	Agpfsg
-rasti	Ncfsg
-v	Sl
-nekaterih	Pi-fpl
-ključnih	Agpfpl
-trgovinskih	Agpfpl
-partnericah	Ncfpl
-Evrope	Npfsg
-.	Z
-To	Pd-nsn
-prinaša	Vmpr3s
-bistveni	Agpmsay
-izziv	Ncmsan
-vladi	Ncfsd
-pri	Sl
-uresničevanju	Ncnsl
-srednjeročnih	Agpmpg
-načrtov	Ncmpg
-fiskalne	Agpfsg
-konsolidacije	Ncfsg
-.	Z
-Masten	Npmsn
-Ukrepi	Ncmpn
-nove	Agpfsg
-vlade	Ncfsg
-morajo	Vmpr3p
-biti	Va-n
-hitri	Agpmpn
-Nižja	Agcfsn
-ocena	Ncfsn
-kreditne	Agpfsg
-sposobnosti	Ncfsg
-pa	Cc
-se	Px------y
-bo	Va-f3s-n
-zdaj	Rgp
-zrcalila	Vmpp-sf
-tudi	Q
-v	Sl
-dražjem	Agcnsl
-zadolževanju	Ncnsl
-Slovenije	Npfsg
-.	Z
-In	Cc
-zakaj	Rgp
-se	Px------y
-nam	Pp1-pd
-ocena	Ncfsn
-še	Q
-znižuje	Vmpr3s
-?	Z
-Po	Sl
-besedah	Ncfpl
-profesorja	Ncmsg
-na	Sl
-Ekonomski	Agpfsl
-fakulteti	Ncfsl
-v	Sl
-Ljubljani	Npfsl
-Igorja	Npmsg
-Mastena	Npmsg
-moramo	Vmpr1p
-primerjati	Vmpn
-znižanje	Ncnsa
-ocen	Ncfpg
-z	Si
-našim	Ps1msip
-odgovorom	Ncmsi
-nanje	Pp3mpa--b
-.	Z
-Znižanja	Ncnsg
-nam	Pp1-pd
-vedno	Rgp
-znova	Rgp
-utemeljijo	Vmer3p
-to	Pd-nsa
-,	Z
-da	Cs
-ne	Q
-reagiramo	Vmbr1p
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-na	Sl
-začetku	Ncmsl
-krize	Ncfsg
-občutila	Vmep-sf
-nadpovprečno	Rgp
-velik	Agpmsan
-padec	Ncmsan
-,	Z
-sledilo	Vmpp-sn
-je	Va-r3s-n
-podpovprečno	Agpnsa
-okrevanje	Ncnsa
-,	Z
-zdaj	Rgp
-pa	Cc
-prihaja	Vmpr3s
-spet	Rgp
-do	Sg
-poslabšanja	Ncnsg
-.	Z
-To	Pd-nsn
-nikakor	Rgp
-ni	Va-r3s-y
-dobro	Agpnsn
-in	Cc
-zato	Cc
-se	Px------y
-ne	Q
-smemo	Vmpr1p
-čuditi	Vmpn
-tem	Pd-fpd
-ocenam	Ncfpd
-,	Z
-je	Va-r3s-n
-za	Sa
-MMC	Ncmsan
-dejal	Vmep-sm
-Masten	Npmsn
-.	Z
-Glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-so	Va-r3p-n
-bonitetne	Agpfpn
-agencije	Ncfpn
-kot	Cs
-enega	Mlpmsa
-izmed	Sg
-vzrokov	Ncmpg
-za	Sa
-slabe	Agpfpa
-napovedi	Ncfpa
-slovenski	Agpfsd
-kreditni	Agpfsd
-sposobnosti	Ncfpn
-pogosto	Rgp
-omenjale	Vmpp-pf
-tudi	Q
-politično	Agpfsa
-krizo	Ncfsa
-,	Z
-je	Va-r3s-n
-zdaj	Rgp
-novo	Rgp
-izvoljena	Appfsn
-in	Cc
-operativna	Agpfsn
-vlada	Ncfsn
-vsekakor	Q
-predpogoj	Ncfsn
-za	Sa
-okrevanje	Ncnsa
-.	Z
-A	Cc
-ukrepi	Ncmpn
-bodo	Va-f3p-n
-morali	Vmpp-pm
-biti	Va-n
-hitri	Agpmpn
-.	Z
-Zdaj	Rgp
-imamo	Vmpr1p-n
-finančnega	Agpmsa
-ministra	Ncmsay
-,	Z
-od	Sg
-katerega	Pq-msg
-lahko	Rgp
-pričakujemo	Vmpr1p
-ukrepe	Ncmpa
-.	Z
-A	Cc
-imamo	Vmpr1p-n
-tudi	Q
-že	Q
-nekaj	Rgp
-izkušenj	Ncfpg
-z	Si
-Janševo	Aspfsi
-vlado	Ncfsi
-iz	Sg
-preteklosti	Ncfsg
-in	Cc
-upamo	Vmpr1p
-,	Z
-da	Cs
-bo	Va-f3s-n
-zaradi	Sg
-kriznih	Agpfpg
-razmer	Ncfpg
-zdaj	Rgp
-obnašanje	Ncnsn
-te	Pd-fsg
-vlade	Ncfsg
-drugačno	Agpnsn
-,	Z
-je	Va-r3s-n
-še	Q
-dodal	Vmep-sm
-naš	Ps1msnp
-sogovornik	Ncmsn
-.	Z
-Ocena	Ncfsn
-bo	Va-f3s-n
-padala	Vmpp-sf
-,	Z
-dkoler	Cs
-ne	Q
-uredimo	Vmer1p
-razmer	Ncfpg
-Sloveniji	Npfsd
-pa	Cc
-bo	Va-f3s-n
-po	Sl
-mnenju	Ncnsl
-predsednika	Ncmsg
-Gospodarske	Agpfsg
-zbornice	Ncfsg
-Slovenije	Npfsg
-Sama	Agpfsg
-Hribarja	Npmsg
-Miliča	Npmsg
-bonitetna	Agpfsn
-ocena	Ncfsn
-padala	Vmpp-sf
-vse	Rgp
-dotlej	Rgp
-,	Z
-dokler	Cs
-ne	Q
-bo	Va-f3s-n
-obvladovala	Vmpp-sf
-razmer	Ncfpg
-.	Z
-Tisti	Pd-msa
-trenutek	Ncmsnn
-,	Z
-ko	Cs
-bomo	Va-f1p-n
-z	Si
-nekimi	Pi-mpi
-ukrepi	Ncmpi
-na	Sl
-področju	Ncnsl
-reform	Ncfpg
-,	Z
-varčevanja	Ncnsg
-,	Z
-zagona	Ncmsg
-novih	Agpfpg
-investicij	Ncfpg
-.	Z
-.	Z
-.	Z
-dokazali	Vmep-pm
-,	Z
-da	Cs
-se	Px------y
-stvari	Ncfpn
-spreminjajo	Vmpr3p
-,	Z
-bomo	Va-f1p-n
-lahko	Rgp
-optimisti	Ncmpn
-in	Cc
-se	Px------y
-bodo	Va-f3p-n
-tudi	Q
-bonitetne	Agpfpn
-ocene	Ncfpn
-Slovenije	Npfsg
-zelo	Rgp
-hitro	Rgp
-spremenile	Vmep-pf
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Nižjo	Agcfsa
-oceno	Ncfsa
-dal	Vmep-sm
-tudi	Q
-S	Si
-&	Ncmsi
-P	Ncmsn
-Spomnimo	Vmer1p
-.	Z
-Bonitetna	Agpfsn
-hiša	Ncfsn
-Standard	Ncmsn
-&	Npmsn
-Poor	Npmsn
-s	Si
-S	Si
-&	Npmsn
-P	Npmsn
-je	Va-r3s-n
-pred	Si
-slabim	Agpmsi
-mesecem	Ncmsi
-znižala	Vmep-sf
-bonitetno	Agpfsa
-oceno	Ncfsa
-devetim	Mlofpd
-evropskim	Agpfpd
-državam	Ncfpd
-,	Z
-med	Si
-njimi	Pp3mpi
-tudi	Q
-Sloveniji	Npfsd
-.	Z
-Bonitetno	Agpfsa
-oceno	Ncfsa
-ji	Pp3fsd--y
-je	Va-r3s-n
-znižala	Vmep-sf
-za	Sa
-eno	Mlpfsa
-stopnjo	Ncfsa
-,	Z
-z	Si
-AA	Npmsn
--	Z
-na	Sl
-A	Cc
-+	Ncmsn
-.	Z
-Še	Q
-pred	Si
-tem	Pd-nsi
-pa	Cc
-je	Va-r3s-n
-27	Mdc
-.	Z
-januarja	Ncmsg
-Fitch	Npmsn
-bonitetno	Agpfsa
-oceno	Ncfsa
-Sloveniji	Npfsd
-znižal	Vmep-sm
-z	Si
-AA	Npmsn
--	Z
-na	Sl
-A	Cc
-.	Z
-Negativne	Agpfsg
-napovedu	Ncmsl
-tudi	Q
-drugim	Mlpfpd
-državam	Ncfpd
-Moodys	Npmsn
-je	Va-r3s-n
-znižal	Vmep-sm
-oceno	Ncfsa
-tudi	Q
-Italiji	Npfsd
-,	Z
-in	Cc
-sicer	Q
-z	Si
-A2	Npmsi
-na	Sl
-A3	Npmsn
-,	Z
-Malti	Npfsl
-z	Si
-A2	Npmsn
-na	Sl
-A3	Npmsn
-,	Z
-Portugalski	Npfsl
-z	Si
-Ba2	Npmsi
-na	Sl
-Ba3	Npfsl
-,	Z
-Slovaški	Agpfsl
-z	Si
-A1	Npfsn
-na	Sl
-A2	Npmsl
-in	Cc
-Španiji	Npfsl
-z	Si
-A1	Npfsi
-na	Sa
-A3	Ncmsa
-.	Z
-Vse	Pg-fpn
-omenjene	Appfpn
-države	Ncfpn
-so	Va-r3p-n
-dobile	Vmep-pf
-tudi	Q
-negativne	Agpfpn
-napovedi	Ncfpn
-za	Sa
-oceno	Ncfsa
-.	Z
-Avstrija	Npfsn
-,	Z
-Velika	Agpfsn
-Britanija	Npfsn
-in	Cc
-Francija	Npfsn
-so	Va-r3p-n
-ohranile	Vmep-pf
-oceno	Ncfsa
-Aaa	Npfsg
-,	Z
-vendar	Cc
-pa	Cc
-dobile	Vmep-pf
-negativne	Agpfpa
-napovedi	Ncfpa
-.	Z
-Ministrstvo	Ncnsn
-za	Sa
-finance	Ncfpa
-krivi	Agpmpn
-šibkost	Ncfsa
-območja	Ncnsg
-evra	Ncmsg
-Na	Sl
-ministrstvu	Ncnsl
-za	Sa
-finance	Ncfpa
-znižanje	Ncnsa
-ocene	Ncfsg
-pripisujejo	Vmpr3p
-posledici	Ncfsd
-ocene	Ncfsg
-šibkosti	Ncfsg
-območja	Ncnsg
-evra	Ncmsg
-,	Z
-saj	Cc
-Slovenija	Npfsn
-kot	Cs
-majhno	Agpnsa
-gospodarstvo	Ncnsa
-deli	Vmpr3p
-usodo	Ncfsa
-celotnega	Agpnsg
-območja	Ncnsg
-.	Z
-Pri	Sl
-tem	Pd-nsl
-poudarjajo	Vmpr3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-vlada	Ncfsn
-v	Sl
-čim	Rgp
-krajšem	Agcmsl
-času	Ncmsl
-sprejela	Vmep-sf
-ukrepe	Ncmpa
-,	Z
-ki	Cs
-bi	Va-c
-ustavili	Vmep-pm
-padanje	Ncnsa
-bonitetne	Agpfsg
-ocene	Ncfsg
-v	Sa
-prihodnje	Agpnsa
-.	Z
-Zagotovili	Vmep-pm
-bodo	Va-f3p-n
-tudi	Q
-vodenje	Ncnsa
-politike	Ncfsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-pripeljala	Vmep-sf
-do	Sg
-dviga	Ncmsg
-ugleda	Ncmsg
-Slovenije	Npfsg
-na	Sl
-mednarodnih	Agpmpl
-finančnih	Agpmpl
-trgih	Ncmpl
-ter	Cc
-uvedla	Vmep-sf
-ukrepe	Ncmpa
-za	Sa
-privabljanje	Ncnsa
-investitorjev	Ncmpg
-,	Z
-razbremenila	Vmep-sf
-gospodarstvo	Ncnsa
-ter	Cc
-zmanjšala	Vmep-sf
-javno	Agpfsa
-porabo	Ncfsa
-,	Z
-poudarjajo	Vmpr3p
-na	Sl
-ministrstvu	Ncnsl
-.	Z
+token	tag	lemma
+Oceno	mte:Ncfsa	ocena
+Aaa	mte:Npfsg	Aaa
+so	mte:Va-r3p-n	biti
+ohranile	mte:Vmep-pf	ohraniti
+le	mte:Q	le
+Avstrija	mte:Npfsn	Avstrija
+,	mte:Z	,
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+,	mte:Z	,
+Francija	mte:Npfsn	Francija
+Moodys	mte:Npmsn	Moodys
+je	mte:Va-r3s-n	biti
+znižal	mte:Vmep-sm	znižati
+kreditne	mte:Agpfpa	krediten
+ocene	mte:Ncfpa	ocena
+šestim	mte:Mlofpd	šesti
+članicam	mte:Ncfpd	članica
+EU	mte:Npfsg	EU
+-	mte:Z	-
+ja	mte:Q	ja
+.	mte:Z	.
+Sloveniji	mte:Npfsd	Slovenija
+je	mte:Va-r3s-n	biti
+padla	mte:Vmep-sf	pasti
+z	mte:Si	z
+A1	mte:Ncfsi	A1
+na	mte:Sa	na
+A2	mte:Ncmsan	A2
+z	mte:Si	z
+negativnim	mte:Agpmsi	negativen
+obetom	mte:Ncmsi	obet
+.	mte:Z	.
+Znižanja	mte:Ncnsg	znižanje
+nam	mte:Pp1-pd	jaz
+vedno	mte:Rgp	vedno
+znova	mte:Rgp	znova
+utemeljijo	mte:Vmer3p	utemeljiti
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+reagiramo	mte:Vmbr1p	reagirati
+,	mte:Z	,
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+pravi	mte:Vmbr3s	praviti
+ekonomist	mte:Ncmsn	ekonomist
+Igor	mte:Npmsn	Igor
+Masten	mte:Npmsn	Masten
+.	mte:Z	.
+Znižane	mte:Appfpn	znižan
+ocene	mte:Ncfpn	ocena
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+izkazovale	mte:Vmpp-pf	izkazovati
+izpostavljenost	mte:Ncfsa	izpostavljenost
+rastočim	mte:Appnsd	rastoč
+finančnim	mte:Agpnsd	finančen
+in	mte:Cc	in
+makroekonomskim	mte:Agpnsd	makroekonomski
+tveganjem	mte:Ncnsi	tveganje
+zaradi	mte:Sg	zaradi
+evropske	mte:Agpfsg	evropski
+dolžniške	mte:Agpfsg	dolžniški
+krize	mte:Ncfsg	kriza
+.	mte:Z	.
+Nižja	mte:Agcfsn	nizek
+bonitetna	mte:Agpfsn	boniteten
+ocena	mte:Ncfsn	ocena
+Sloveniji	mte:Npfsd	Slovenija
+z	mte:Sg	z
+A1	mte:Npfsn	A1
+na	mte:Sa	na
+A2	mte:Npmsan	A2
+napoveduje	mte:Vmpr3s	napovedovati
+grožnje	mte:Ncfpa	grožnja
+o	mte:Sl	o
+novem	mte:Agpnsl	nov
+znižanju	mte:Ncnsl	znižanje
+ocene	mte:Ncfsg	ocena
+.	mte:Z	.
+Ključna	mte:Agpmdn	ključen
+razloga	mte:Ncmdn	razlog
+znižanja	mte:Ncnsg	znižanje
+sta	mte:Va-r3d-n	biti
+enaka	mte:Pi-mdn	enak
+kot	mte:Cs	kot
+za	mte:Sa	za
+vse	mte:Pg-fpa	ves
+druge	mte:Mlpfpa	drug
+države	mte:Ncfpa	država
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+doživele	mte:Vmep-pf	doživeti
+znižanje	mte:Ncnsa	znižanje
+ocene	mte:Ncfsg	ocena
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+pa	mte:Cc	pa
+sta	mte:Va-r3d-n	biti
+nezanesljivost	mte:Ncfsn	nezanesljivost
+glede	mte:Sg	glede
+institucionalne	mte:Agpfsg	institucionalen
+reforme	mte:Ncfsg	reforma
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+in	mte:Cc	in
+šibka	mte:Agpfsn	šibek
+makroekonomska	mte:Agpfsn	makroekonomski
+napoved	mte:Ncfsn	napoved
+celotnega	mte:Agpnsg	celoten
+območja	mte:Ncnsg	območje
+.	mte:Z	.
+Slovenske	mte:Agpfpn	slovenski
+javne	mte:Agpfpn	javen
+finance	mte:Ncfpn	finance
+so	mte:Va-r3p-n	biti
+izpostavljene	mte:Appfpn	izpostavljen
+morebitnim	mte:Agpmpd	morebiten
+novim	mte:Agpmpd	nov
+šokom	mte:Ncmpd	šok
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+zaradi	mte:Sg	zaradi
+morebitne	mte:Agpfsg	morebiten
+potrebe	mte:Ncfsg	potreba
+zagotavljanja	mte:Ncnsg	zagotavljanje
+dodatne	mte:Agpfsg	dodaten
+podpore	mte:Ncfsg	podpora
+bančnemu	mte:Agpmsd	bančen
+sektorju	mte:Ncmsd	sektor
+.	mte:Z	.
+Razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+znižanje	mte:Ncnsa	znižanje
+ocene	mte:Ncfsg	ocena
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+težave	mte:Ncfpn	težava
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+se	mte:Px------y	se
+Slovenija	mte:Npfsn	Slovenija
+spoprijema	mte:Vmpr1s	spopriti
+kot	mte:Cs	kot
+majhno	mte:Agpnsa	majhen
+in	mte:Cc	in
+odprto	mte:Appnsa	odprt
+gospodarstvo	mte:Ncnsa	gospodarstvo
+zaradi	mte:Sg	zaradi
+šibke	mte:Agpfsg	šibek
+rasti	mte:Ncfsg	rast
+v	mte:Sl	v
+nekaterih	mte:Pi-fpl	nekateri
+ključnih	mte:Agpfpl	ključen
+trgovinskih	mte:Agpfpl	trgovinski
+partnericah	mte:Ncfpl	partnerica
+Evrope	mte:Npfsg	Evropa
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+prinaša	mte:Vmpr3s	prinašati
+bistveni	mte:Agpmsay	bistven
+izziv	mte:Ncmsan	izziv
+vladi	mte:Ncfsd	vlada
+pri	mte:Sl	pri
+uresničevanju	mte:Ncnsl	uresničevanje
+srednjeročnih	mte:Agpmpg	srednjeročen
+načrtov	mte:Ncmpg	načrt
+fiskalne	mte:Agpfsg	fiskalen
+konsolidacije	mte:Ncfsg	konsolidacija
+.	mte:Z	.
+Masten	mte:Npmsn	Masten
+Ukrepi	mte:Ncmpn	ukrep
+nove	mte:Agpfsg	nov
+vlade	mte:Ncfsg	vlada
+morajo	mte:Vmpr3p	morati
+biti	mte:Va-n	biti
+hitri	mte:Agpmpn	hiter
+Nižja	mte:Agcfsn	nizek
+ocena	mte:Ncfsn	ocena
+kreditne	mte:Agpfsg	krediten
+sposobnosti	mte:Ncfsg	sposobnost
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+zdaj	mte:Rgp	zdaj
+zrcalila	mte:Vmpp-sf	zrcaliti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+dražjem	mte:Agcnsl	drag
+zadolževanju	mte:Ncnsl	zadolževanje
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+In	mte:Cc	in
+zakaj	mte:Rgp	zakaj
+se	mte:Px------y	se
+nam	mte:Pp1-pd	jaz
+ocena	mte:Ncfsn	ocena
+še	mte:Q	še
+znižuje	mte:Vmpr3s	zniževati
+?	mte:Z	?
+Po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+profesorja	mte:Ncmsg	profesor
+na	mte:Sl	na
+Ekonomski	mte:Agpfsl	ekonomski
+fakulteti	mte:Ncfsl	fakulteta
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+Igorja	mte:Npmsg	Igor
+Mastena	mte:Npmsg	Masten
+moramo	mte:Vmpr1p	morati
+primerjati	mte:Vmpn	primerjati
+znižanje	mte:Ncnsa	znižanje
+ocen	mte:Ncfpg	ocena
+z	mte:Si	z
+našim	mte:Ps1msip	naš
+odgovorom	mte:Ncmsi	odgovor
+nanje	mte:Pp3mpa--b	name
+.	mte:Z	.
+Znižanja	mte:Ncnsg	znižanje
+nam	mte:Pp1-pd	jaz
+vedno	mte:Rgp	vedno
+znova	mte:Rgp	znova
+utemeljijo	mte:Vmer3p	utemeljiti
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+reagiramo	mte:Vmbr1p	reagirati
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+začetku	mte:Ncmsl	začetek
+krize	mte:Ncfsg	kriza
+občutila	mte:Vmep-sf	občutiti
+nadpovprečno	mte:Rgp	nadpovprečno
+velik	mte:Agpmsan	velik
+padec	mte:Ncmsan	padec
+,	mte:Z	,
+sledilo	mte:Vmpp-sn	slediti
+je	mte:Va-r3s-n	biti
+podpovprečno	mte:Agpnsa	podpovprečen
+okrevanje	mte:Ncnsa	okrevanje
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+pa	mte:Cc	pa
+prihaja	mte:Vmpr3s	prihajati
+spet	mte:Rgp	spet
+do	mte:Sg	do
+poslabšanja	mte:Ncnsg	poslabšanje
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+nikakor	mte:Rgp	nikakor
+ni	mte:Va-r3s-y	biti
+dobro	mte:Agpnsn	dober
+in	mte:Cc	in
+zato	mte:Cc	zato
+se	mte:Px------y	se
+ne	mte:Q	ne
+smemo	mte:Vmpr1p	smeti
+čuditi	mte:Vmpn	čuditi
+tem	mte:Pd-fpd	ta
+ocenam	mte:Ncfpd	ocena
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+MMC	mte:Ncmsan	MMC
+dejal	mte:Vmep-sm	dejati
+Masten	mte:Npmsn	Masten
+.	mte:Z	.
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+bonitetne	mte:Agpfpn	boniteten
+agencije	mte:Ncfpn	agencija
+kot	mte:Cs	kot
+enega	mte:Mlpmsa	en
+izmed	mte:Sg	izmed
+vzrokov	mte:Ncmpg	vzrok
+za	mte:Sa	za
+slabe	mte:Agpfpa	slab
+napovedi	mte:Ncfpa	napoved
+slovenski	mte:Agpfsd	slovenski
+kreditni	mte:Agpfsd	krediten
+sposobnosti	mte:Ncfpn	sposobnost
+pogosto	mte:Rgp	pogosto
+omenjale	mte:Vmpp-pf	omenjati
+tudi	mte:Q	tudi
+politično	mte:Agpfsa	političen
+krizo	mte:Ncfsa	kriza
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+novo	mte:Rgp	nov
+izvoljena	mte:Appfsn	izvoljen
+in	mte:Cc	in
+operativna	mte:Agpfsn	operativen
+vlada	mte:Ncfsn	vlada
+vsekakor	mte:Q	vsekakor
+predpogoj	mte:Ncfsn	predpogoj
+za	mte:Sa	za
+okrevanje	mte:Ncnsa	okrevanje
+.	mte:Z	.
+A	mte:Cc	a
+ukrepi	mte:Ncmpn	ukrep
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+biti	mte:Va-n	biti
+hitri	mte:Agpmpn	hiter
+.	mte:Z	.
+Zdaj	mte:Rgp	zdaj
+imamo	mte:Vmpr1p-n	imeti
+finančnega	mte:Agpmsa	finančen
+ministra	mte:Ncmsay	minister
+,	mte:Z	,
+od	mte:Sg	od
+katerega	mte:Pq-msg	kateri
+lahko	mte:Rgp	lahko
+pričakujemo	mte:Vmpr1p	pričakovati
+ukrepe	mte:Ncmpa	ukrep
+.	mte:Z	.
+A	mte:Cc	a
+imamo	mte:Vmpr1p-n	imeti
+tudi	mte:Q	tudi
+že	mte:Q	že
+nekaj	mte:Rgp	nekaj
+izkušenj	mte:Ncfpg	izkušnja
+z	mte:Si	z
+Janševo	mte:Aspfsi	Janšev
+vlado	mte:Ncfsi	vlada
+iz	mte:Sg	iz
+preteklosti	mte:Ncfsg	preteklost
+in	mte:Cc	in
+upamo	mte:Vmpr1p	upati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+zaradi	mte:Sg	zaradi
+kriznih	mte:Agpfpg	krizen
+razmer	mte:Ncfpg	razmera
+zdaj	mte:Rgp	zdaj
+obnašanje	mte:Ncnsn	obnašanje
+te	mte:Pd-fsg	ta
+vlade	mte:Ncfsg	vlada
+drugačno	mte:Agpnsn	drugačen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dodal	mte:Vmep-sm	dodati
+naš	mte:Ps1msnp	naš
+sogovornik	mte:Ncmsn	sogovornik
+.	mte:Z	.
+Ocena	mte:Ncfsn	ocena
+bo	mte:Va-f3s-n	biti
+padala	mte:Vmpp-sf	padati
+,	mte:Z	,
+dkoler	mte:Cs	dkoler
+ne	mte:Q	ne
+uredimo	mte:Vmer1p	urediti
+razmer	mte:Ncfpg	razmera
+Sloveniji	mte:Npfsd	Slovenija
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+predsednika	mte:Ncmsg	predsednik
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+Sama	mte:Agpfsg	Sam
+Hribarja	mte:Npmsg	Hribar
+Miliča	mte:Npmsg	Milič
+bonitetna	mte:Agpfsn	boniteten
+ocena	mte:Ncfsn	ocena
+padala	mte:Vmpp-sf	padati
+vse	mte:Rgp	vse
+dotlej	mte:Rgp	dotlej
+,	mte:Z	,
+dokler	mte:Cs	dokler
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+obvladovala	mte:Vmpp-sf	obvladovati
+razmer	mte:Ncfpg	razmera
+.	mte:Z	.
+Tisti	mte:Pd-msa	tisti
+trenutek	mte:Ncmsnn	trenutek
+,	mte:Z	,
+ko	mte:Cs	ko
+bomo	mte:Va-f1p-n	biti
+z	mte:Si	z
+nekimi	mte:Pi-mpi	nek
+ukrepi	mte:Ncmpi	ukrep
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+reform	mte:Ncfpg	reforma
+,	mte:Z	,
+varčevanja	mte:Ncnsg	varčevanje
+,	mte:Z	,
+zagona	mte:Ncmsg	zagon
+novih	mte:Agpfpg	nov
+investicij	mte:Ncfpg	investicija
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+dokazali	mte:Vmep-pm	dokazati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+stvari	mte:Ncfpn	stvar
+spreminjajo	mte:Vmpr3p	spreminjati
+,	mte:Z	,
+bomo	mte:Va-f1p-n	biti
+lahko	mte:Rgp	lahko
+optimisti	mte:Ncmpn	optimist
+in	mte:Cc	in
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+tudi	mte:Q	tudi
+bonitetne	mte:Agpfpn	boniteten
+ocene	mte:Ncfpn	ocena
+Slovenije	mte:Npfsg	Slovenija
+zelo	mte:Rgp	zelo
+hitro	mte:Rgp	hitro
+spremenile	mte:Vmep-pf	spremeniti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Nižjo	mte:Agcfsa	nizek
+oceno	mte:Ncfsa	ocena
+dal	mte:Vmep-sm	dati
+tudi	mte:Q	tudi
+S	mte:Si	z
+&	mte:Ncmsi	&
+P	mte:Ncmsn	P
+Spomnimo	mte:Vmer1p	spomniti
+.	mte:Z	.
+Bonitetna	mte:Agpfsn	boniteten
+hiša	mte:Ncfsn	hiša
+Standard	mte:Ncmsn	standard
+&	mte:Npmsn	&
+Poor	mte:Npmsn	Poor
+s	mte:Si	z
+S	mte:Si	z
+&	mte:Npmsn	&
+P	mte:Npmsn	P
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+slabim	mte:Agpmsi	slab
+mesecem	mte:Ncmsi	mesec
+znižala	mte:Vmep-sf	znižati
+bonitetno	mte:Agpfsa	boniteten
+oceno	mte:Ncfsa	ocena
+devetim	mte:Mlofpd	devet
+evropskim	mte:Agpfpd	evropski
+državam	mte:Ncfpd	država
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+tudi	mte:Q	tudi
+Sloveniji	mte:Npfsd	Slovenija
+.	mte:Z	.
+Bonitetno	mte:Agpfsa	boniteten
+oceno	mte:Ncfsa	ocena
+ji	mte:Pp3fsd--y	on
+je	mte:Va-r3s-n	biti
+znižala	mte:Vmep-sf	znižati
+za	mte:Sa	za
+eno	mte:Mlpfsa	en
+stopnjo	mte:Ncfsa	stopnja
+,	mte:Z	,
+z	mte:Si	z
+AA	mte:Npmsn	AA
+-	mte:Z	-
+na	mte:Sl	na
+A	mte:Cc	a
++	mte:Ncmsn	+
+.	mte:Z	.
+Še	mte:Q	še
+pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+27	mte:Mdc	27
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+Fitch	mte:Npmsn	Fitch
+bonitetno	mte:Agpfsa	boniteten
+oceno	mte:Ncfsa	ocena
+Sloveniji	mte:Npfsd	Slovenija
+znižal	mte:Vmep-sm	znižati
+z	mte:Si	z
+AA	mte:Npmsn	AA
+-	mte:Z	-
+na	mte:Sl	na
+A	mte:Cc	a
+.	mte:Z	.
+Negativne	mte:Agpfsg	negativen
+napovedu	mte:Ncmsl	napoved
+tudi	mte:Q	tudi
+drugim	mte:Mlpfpd	drug
+državam	mte:Ncfpd	država
+Moodys	mte:Npmsn	Moodys
+je	mte:Va-r3s-n	biti
+znižal	mte:Vmep-sm	znižati
+oceno	mte:Ncfsa	ocena
+tudi	mte:Q	tudi
+Italiji	mte:Npfsd	Italija
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+z	mte:Si	z
+A2	mte:Npmsi	A2
+na	mte:Sl	na
+A3	mte:Npmsn	A3
+,	mte:Z	,
+Malti	mte:Npfsl	Malti
+z	mte:Si	z
+A2	mte:Npmsn	A2
+na	mte:Sl	na
+A3	mte:Npmsn	A3
+,	mte:Z	,
+Portugalski	mte:Npfsl	Portugalska
+z	mte:Si	z
+Ba2	mte:Npmsi	Ba2
+na	mte:Sl	na
+Ba3	mte:Npfsl	Ba3
+,	mte:Z	,
+Slovaški	mte:Agpfsl	slovaški
+z	mte:Si	z
+A1	mte:Npfsn	A1
+na	mte:Sl	na
+A2	mte:Npmsl	A2
+in	mte:Cc	in
+Španiji	mte:Npfsl	Španija
+z	mte:Si	z
+A1	mte:Npfsi	A1
+na	mte:Sa	na
+A3	mte:Ncmsa	A3
+.	mte:Z	.
+Vse	mte:Pg-fpn	ves
+omenjene	mte:Appfpn	omenjen
+države	mte:Ncfpn	država
+so	mte:Va-r3p-n	biti
+dobile	mte:Vmep-pf	dobiti
+tudi	mte:Q	tudi
+negativne	mte:Agpfpn	negativen
+napovedi	mte:Ncfpn	napoved
+za	mte:Sa	za
+oceno	mte:Ncfsa	ocena
+.	mte:Z	.
+Avstrija	mte:Npfsn	Avstrija
+,	mte:Z	,
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+in	mte:Cc	in
+Francija	mte:Npfsn	Francija
+so	mte:Va-r3p-n	biti
+ohranile	mte:Vmep-pf	ohraniti
+oceno	mte:Ncfsa	ocena
+Aaa	mte:Npfsg	Aaa
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+dobile	mte:Vmep-pf	dobiti
+negativne	mte:Agpfpa	negativen
+napovedi	mte:Ncfpa	napoved
+.	mte:Z	.
+Ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+krivi	mte:Agpmpn	kriv
+šibkost	mte:Ncfsa	šibkost
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+Na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+znižanje	mte:Ncnsa	znižanje
+ocene	mte:Ncfsg	ocena
+pripisujejo	mte:Vmpr3p	pripisovati
+posledici	mte:Ncfsd	posledica
+ocene	mte:Ncfsg	ocena
+šibkosti	mte:Ncfsg	šibkost
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+saj	mte:Cc	saj
+Slovenija	mte:Npfsn	Slovenija
+kot	mte:Cs	kot
+majhno	mte:Agpnsa	majhen
+gospodarstvo	mte:Ncnsa	gospodarstvo
+deli	mte:Vmpr3p	del
+usodo	mte:Ncfsa	usoda
+celotnega	mte:Agpnsg	celoten
+območja	mte:Ncnsg	območje
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+poudarjajo	mte:Vmpr3p	poudarjati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+vlada	mte:Ncfsn	vlada
+v	mte:Sl	v
+čim	mte:Rgp	čim
+krajšem	mte:Agcmsl	kratek
+času	mte:Ncmsl	čas
+sprejela	mte:Vmep-sf	sprejeti
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+ustavili	mte:Vmep-pm	ustaviti
+padanje	mte:Ncnsa	padanja
+bonitetne	mte:Agpfsg	boniteten
+ocene	mte:Ncfsg	ocena
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+.	mte:Z	.
+Zagotovili	mte:Vmep-pm	zagotoviti
+bodo	mte:Va-f3p-n	biti
+tudi	mte:Q	tudi
+vodenje	mte:Ncnsa	vodenje
+politike	mte:Ncfsg	politika
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+pripeljala	mte:Vmep-sf	pripeljati
+do	mte:Sg	do
+dviga	mte:Ncmsg	dvigati
+ugleda	mte:Ncmsg	ugled
+Slovenije	mte:Npfsg	Slovenija
+na	mte:Sl	na
+mednarodnih	mte:Agpmpl	mednaroden
+finančnih	mte:Agpmpl	finančen
+trgih	mte:Ncmpl	trg
+ter	mte:Cc	ter
+uvedla	mte:Vmep-sf	uvesti
+ukrepe	mte:Ncmpa	ukrep
+za	mte:Sa	za
+privabljanje	mte:Ncnsa	privabljanje
+investitorjev	mte:Ncmpg	investitor
+,	mte:Z	,
+razbremenila	mte:Vmep-sf	razbremeniti
+gospodarstvo	mte:Ncnsa	gospodarstvo
+ter	mte:Cc	ter
+zmanjšala	mte:Vmep-sf	zmanjšati
+javno	mte:Agpfsa	javen
+porabo	mte:Ncfsa	poraba
+,	mte:Z	,
+poudarjajo	mte:Vmpr3p	poudarjati
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+gospodarski	mte:Agpmsay	gospodarski
+razvoj	mte:Ncmsan	razvoj
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+že	mte:Q	že
+začela	mte:Vmep-sf	začeti
+s	mte:Si	z
+potrebnimi	mte:Agpmpi	potreben
+ukrepi	mte:Ncmpi	ukrep
+za	mte:Sa	za
+izboljšanje	mte:Ncnsa	izboljšanje
+bonitete	mte:Ncfsg	boniteta

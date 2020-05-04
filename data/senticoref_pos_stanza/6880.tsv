@@ -1,419 +1,475 @@
-token	tag
-Podgorica	Npfsn
-bo	Va-f3s-n
-pogovore	Ncmpa
-nadaljevala	Vmpp-sf
-z	Si
-Grki	Npmpi
-in	Cc
-Izraelci	Npmpi
-Črnogorska	Agpfsn
-vlada	Ncfsn
-je	Va-r3s-n
-razveljavila	Vmep-sf
-pogodbo	Ncfsa
-o	Sl
-gradnji	Ncfsl
-avtoceste	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-podpisala	Vmep-sf
-s	Si
-hrvaškim	Agpmsi
-konzorcijem	Ncmsi
-.	Z
-Hrvaški	Agpmpn
-gradbinci	Ncmpn
-namreč	Cc
-niso	Va-r3p-y
-dobili	Vmep-pm
-bančnega	Agpnsg
-zagotovila	Vmep-pm
-.	Z
-Odločitev	Ncfsa
-o	Sl
-prekinitvi	Ncfsl
-koncesijske	Agpfsg
-pogodbe	Ncfsg
-s	Si
-konzorcijem	Ncmsi
-na	Sl
-čelu	Ncnsl
-s	Si
-splitsko	Agpfsi
-družbo	Ncfsi
-Konstruktor	Npmsn
-je	Va-r3s-n
-bila	Va-p-sf
-pričakovana	Appfsn
-,	Z
-saj	Cc
-Hrvati	Npmpn
-niso	Va-r3p-y
-dobili	Vmep-pm
-bančnih	Agpmpg
-zagotovil	Vmep-sm
-za	Sa
-2,77	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-vredno	Agpfsa
-pogodbo	Ncfsa
-.	Z
-Vlada	Ncfsn
-v	Sl
-Podgorici	Npfsl
-bo	Va-f3s-n
-zdaj	Rgp
-nadaljevala	Vmpp-sf
-pogajanja	Ncnpa
-z	Si
-naslednjim	Agpmsi
-ponudnikom	Ncmsi
-z	Sg
-lanskega	Agpmsg
-javnega	Agpmsg
-razpisa	Ncmsg
-,	Z
-grško	Agpnsi
--	Z
-izraelskim	Agpmsi
-konzorcijem	Ncmsi
-Aktor	Npmsn
-.	Z
-Avtocesta	Npfsn
-bo	Va-f3s-n
-dolga	Agpfsn
-170	Mdc
-kilometrov	Ncmpg
-in	Cc
-bo	Va-f3s-n
-povezovala	Vmpp-sf
-pristaniško	Agpnsa
-mesto	Ncnsa
-Bar	Ncmsn
-s	Si
-severno	Agpfsi
-mejo	Ncfsi
-s	Si
-Srbijo	Npfsi
-.	Z
-Črnogorski	Agpmsny
-minister	Ncmsn
-za	Sa
-promet	Ncmsan
-in	Cc
-infrastrukturo	Ncfsa
-Andrija	Npfsn
-Lompar	Npmsn
-je	Va-r3s-n
-po	Sl
-seji	Ncfsl
-vlade	Ncfsg
-povedal	Vmep-sm
-,	Z
-da	Cs
-morajo	Vmpr3p
-biti	Va-n
-pogovori	Ncmpn
-z	Si
-Aktorjem	Npmsi
-končani	Appmpn
-v	Sl
-prihodnjih	Agpmpl
-štirih	Mlcmpl
-tednih	Ncmpl
-.	Z
-Lompar	Npmsn
-je	Va-r3s-n
-izrazil	Vmep-sm
-obžalovanje	Ncnsa
-,	Z
-da	Cs
-so	Va-r3p-n
-prekinili	Vmep-pm
-pogodbo	Ncfsa
-s	Si
-Konstruktorjem	Ncmsi
-,	Z
-saj	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-njegova	Ps3fsnsm
-ponudba	Ncfsn
-izredno	Rgp
-ugodna	Agpfsn
-.	Z
-Aktor	Npmsn
-je	Va-r3s-n
-ponudil	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-gradbeniško	Agpfsa
-izredno	Agpfsa
-zahtevno	Agpfsa
-avtocesto	Ncfsa
-skozi	Sa
-črnogorske	Agpfpa
-planine	Ncfpa
-zgradil	Vmep-sm
-za	Sa
-3,92	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-.	Z
-Po	Sl
-mnenju	Ncnsl
-črnogorskega	Agpmsg
-dnevnika	Ncmsg
-Dan	Ncmsn
-bo	Va-f3s-n
-to	Pd-nsn
-pomenilo	Vmbp-sn
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-najdražjo	Agsfsa
-cesto	Ncfsa
-vseh	Pg-mpg
-časov	Ncmpg
-na	Sl
-svetu	Ncmsl
-.	Z
-Dražje	Rgc
-od	Sg
-Slovenije	Npfsg
-in	Cc
-Hrvaške	Npfsg
-Dan	Ncmsn
-je	Va-r3s-n
-izračunal	Vmep-sm
-,	Z
-da	Cs
-bo	Va-f3s-n
-gradnja	Ncfsn
-prvega	Mlomsg
-odseka	Ncmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-dolg	Agpmsnn
-43,5	Mdc
-kilometra	Ncmsg
-,	Z
-stala	Vmpp-sf
-1,24	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-kar	Pr-nsn
-v	Sl
-povprečju	Ncnsl
-pomeni	Vmbr3s
-28,5	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-za	Sa
-kilometer	Ncmsan
-.	Z
-Časopis	Ncmsn
-je	Va-r3s-n
-to	Pd-nsa
-primerjal	Vmpp-sm
-z	Si
-gradnjo	Ncfsi
-kilometra	Ncmsg
-avtoceste	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-stal	Vmpp-sm
-9,77	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-ne	Q
-glede	Rgp
-na	Sa
-neugodno	Agpfsa
-konfiguracijo	Ncfsa
-zemljišč	Ncnpg
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-najzahtevnejši	Agsmsny
-odcep	Ncmsn
-avtoceste	Ncfsg
-od	Sg
-Zagreba	Npmsg
-do	Sg
-Dubrovnika	Npmsg
-povrečno	Rgp
-stal	Vmpp-sm
-7,14	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-za	Sa
-kilometer	Ncmsan
-.	Z
-Lansko	Agpfsa
-zmago	Ncfsa
-hrvaškega	Agpmsg
-konzorcija	Ncmsg
-na	Sl
-javnem	Agpmsl
-razpisu	Ncmsl
-so	Va-r3p-n
-na	Sl
-Hrvaškem	Npnsl
-označili	Vmep-pm
-kot	Cs
-posel	Ncmsan
-stoletja	Ncnsg
-,	Z
-ki	Cs
-pa	Cc
-je	Va-r3s-n
-propadel	Vmep-sm
-po	Sl
-tem	Pd-nsl
-,	Z
-ko	Cs
-Konstruktorju	Npmsd
-in	Cc
-Zagrebškemu	Agpmsd
-inštitutu	Ncmsd
-za	Sa
-gradbeništvo	Ncnsa
-ISH	Npmsn
-v	Sl
-osmih	Mlc-pl
-mesecih	Ncmpl
-ni	Va-r3s-y
-uspelo	Vmep-sn
-dobiti	Vmen
-zagotovil	Vmep-sm
-.	Z
-Lompar	Npmsn
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-hrvaškemu	Agpmsd
-konzorciju	Ncmsd
-najprej	Rgs
-dali	Vmep-pm
-šest	Mlc-pa
-mesecev	Ncmpg
-časa	Ncmsg
-za	Sa
-bančna	Agpnpa
-zagotovila	Ncnpa
-,	Z
-nato	Rgp
-še	Q
-dva	Mlcmda
-meseca	Ncmda
-,	Z
-na	Sl
-koncu	Ncmsl
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-,	Z
-da	Cs
-bi	Va-c
-nadaljnje	Agpnsn
-zavlačevanje	Ncnsa
-ogrozilo	Vmep-sn
-celoten	Agpmsan
-projekt	Ncmsan
-.	Z
-Minister	Ncmsn
-upa	Vmer3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-grško	Agpnsn
--	Z
-izraelski	Agpmsny
-konzorcij	Ncmsn
-zničal	Vmep-sm
-ceno	Ncfsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-za	Sa
-1,2	Mdc
-milijarde	Ncfsg
-večja	Agcfsn
-od	Sg
-hrvaškega	Agpmsg
-konzorcija	Ncmsg
-.	Z
-Hrvati	Npmpn
-ne	Q
-bi	Va-c
-imeli	Vmpp-pm
-veliko	Rgp
-koristi	Ncfsg
-Gospodarski	Agpmsny
-strokovnjak	Ncmsn
-Ljubo	Npmsn
-Jurčić	Npmsn
-je	Va-r3s-n
-za	Sa
-hrvaški	Agpmsay
-Večernji	Agpmsay
-list	Ncmsan
-dejal	Vmep-sm
-,	Z
-da	Cs
-hrvaško	Agpnsn
-gospodarstvo	Ncnsn
-ni	Va-r3s-y
-veliko	Rgp
-izgubilo	Vmep-sn
-zaradi	Sg
-propadlega	Appmsg
-posla	Ncmsg
-v	Sl
-Črni	Agpfsl
-gori	Ncfsl
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-bil	Va-p-sm
-zavajajoč	Appmsnn
-posel	Ncmsn
-,	Z
-pravi	Vmbr3s
-Jurčić	Npmsn
-in	Cc
-pojasnuje	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-imel	Vmpp-sm
-od	Sg
-njega	Pp3msg
-korist	Ncfsa
-le	Q
-hrvaški	Agpmsay
-konzorcij	Ncmsan
-,	Z
-Hrvaška	Npfsn
-pa	Cc
-bi	Va-c
-dobila	Vmep-sf
-sloves	Ncmsan
-gradbinca	Ncmsg
-.	Z
+token	tag	lemma
+Podgorica	mte:Npfsn	Podgorica
+bo	mte:Va-f3s-n	biti
+pogovore	mte:Ncmpa	pogovor
+nadaljevala	mte:Vmpp-sf	nadaljevati
+z	mte:Si	z
+Grki	mte:Npmpi	Grki
+in	mte:Cc	in
+Izraelci	mte:Npmpi	Izraelci
+Črnogorska	mte:Agpfsn	črnogorski
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+razveljavila	mte:Vmep-sf	razveljaviti
+pogodbo	mte:Ncfsa	pogodba
+o	mte:Sl	o
+gradnji	mte:Ncfsl	gradnja
+avtoceste	mte:Ncfsg	avtocesta
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+podpisala	mte:Vmep-sf	podpisati
+s	mte:Si	z
+hrvaškim	mte:Agpmsi	hrvaški
+konzorcijem	mte:Ncmsi	konzorcij
+.	mte:Z	.
+Hrvaški	mte:Agpmpn	hrvaški
+gradbinci	mte:Ncmpn	gradbinec
+namreč	mte:Cc	namreč
+niso	mte:Va-r3p-y	biti
+dobili	mte:Vmep-pm	dobiti
+bančnega	mte:Agpnsg	bančen
+zagotovila	mte:Vmep-pm	zagotoviti
+.	mte:Z	.
+Odločitev	mte:Ncfsa	odločitev
+o	mte:Sl	o
+prekinitvi	mte:Ncfsl	prekinitev
+koncesijske	mte:Agpfsg	koncesijski
+pogodbe	mte:Ncfsg	pogodba
+s	mte:Si	z
+konzorcijem	mte:Ncmsi	konzorcij
+na	mte:Sl	na
+čelu	mte:Ncnsl	čelo
+s	mte:Si	z
+splitsko	mte:Agpfsi	splitski
+družbo	mte:Ncfsi	družba
+Konstruktor	mte:Npmsn	Konstruktor
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+pričakovana	mte:Appfsn	pričakovan
+,	mte:Z	,
+saj	mte:Cc	saj
+Hrvati	mte:Npmpn	Hrvat
+niso	mte:Va-r3p-y	biti
+dobili	mte:Vmep-pm	dobiti
+bančnih	mte:Agpmpg	bančen
+zagotovil	mte:Vmep-sm	zagotoviti
+za	mte:Sa	za
+2,77	mte:Mdc	2,77
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+vredno	mte:Agpfsa	vreden
+pogodbo	mte:Ncfsa	pogodba
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+v	mte:Sl	v
+Podgorici	mte:Npfsl	Podgorica
+bo	mte:Va-f3s-n	biti
+zdaj	mte:Rgp	zdaj
+nadaljevala	mte:Vmpp-sf	nadaljevati
+pogajanja	mte:Ncnpa	pogajanje
+z	mte:Si	z
+naslednjim	mte:Agpmsi	naslednji
+ponudnikom	mte:Ncmsi	ponudnik
+z	mte:Sg	z
+lanskega	mte:Agpmsg	lanski
+javnega	mte:Agpmsg	javen
+razpisa	mte:Ncmsg	razpis
+,	mte:Z	,
+grško	mte:Agpnsi	grški
+-	mte:Z	-
+izraelskim	mte:Agpmsi	izraelski
+konzorcijem	mte:Ncmsi	konzorcij
+Aktor	mte:Npmsn	Aktor
+.	mte:Z	.
+Avtocesta	mte:Npfsn	Avtocesta
+bo	mte:Va-f3s-n	biti
+dolga	mte:Agpfsn	dolg
+170	mte:Mdc	170
+kilometrov	mte:Ncmpg	kilometer
+in	mte:Cc	in
+bo	mte:Va-f3s-n	biti
+povezovala	mte:Vmpp-sf	povezovati
+pristaniško	mte:Agpnsa	pristaniški
+mesto	mte:Ncnsa	mesto
+Bar	mte:Ncmsn	bar
+s	mte:Si	z
+severno	mte:Agpfsi	severen
+mejo	mte:Ncfsi	meja
+s	mte:Si	z
+Srbijo	mte:Npfsi	Srbija
+.	mte:Z	.
+Črnogorski	mte:Agpmsny	črnogorski
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+in	mte:Cc	in
+infrastrukturo	mte:Ncfsa	infrastruktura
+Andrija	mte:Npfsn	Andrija
+Lompar	mte:Npmsn	Lompar
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+seji	mte:Ncfsl	seja
+vlade	mte:Ncfsg	vlada
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+morajo	mte:Vmpr3p	morati
+biti	mte:Va-n	biti
+pogovori	mte:Ncmpn	pogovor
+z	mte:Si	z
+Aktorjem	mte:Npmsi	Aktor
+končani	mte:Appmpn	končan
+v	mte:Sl	v
+prihodnjih	mte:Agpmpl	prihodnji
+štirih	mte:Mlcmpl	štirje
+tednih	mte:Ncmpl	teden
+.	mte:Z	.
+Lompar	mte:Npmsn	Lompar
+je	mte:Va-r3s-n	biti
+izrazil	mte:Vmep-sm	izraziti
+obžalovanje	mte:Ncnsa	obžalovanje
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+prekinili	mte:Vmep-pm	prekiniti
+pogodbo	mte:Ncfsa	pogodba
+s	mte:Si	z
+Konstruktorjem	mte:Ncmsi	konstruktor
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+njegova	mte:Ps3fsnsm	njegov
+ponudba	mte:Ncfsn	ponudba
+izredno	mte:Rgp	izredno
+ugodna	mte:Agpfsn	ugoden
+.	mte:Z	.
+Aktor	mte:Npmsn	Aktor
+je	mte:Va-r3s-n	biti
+ponudil	mte:Vmep-sm	ponuditi
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+gradbeniško	mte:Agpfsa	gradbeniški
+izredno	mte:Agpfsa	izreden
+zahtevno	mte:Agpfsa	zahteven
+avtocesto	mte:Ncfsa	avtocesta
+skozi	mte:Sa	skozi
+črnogorske	mte:Agpfpa	črnogorski
+planine	mte:Ncfpa	planina
+zgradil	mte:Vmep-sm	zgraditi
+za	mte:Sa	za
+3,92	mte:Mdc	3,92
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+črnogorskega	mte:Agpmsg	črnogorski
+dnevnika	mte:Ncmsg	dnevnik
+Dan	mte:Ncmsn	dan
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+pomenilo	mte:Vmbp-sn	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+najdražjo	mte:Agsfsa	lep
+cesto	mte:Ncfsa	cesta
+vseh	mte:Pg-mpg	ves
+časov	mte:Ncmpg	čas
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+Dražje	mte:Rgc	dražje
+od	mte:Sg	od
+Slovenije	mte:Npfsg	Slovenija
+in	mte:Cc	in
+Hrvaške	mte:Npfsg	Hrvaška
+Dan	mte:Ncmsn	dan
+je	mte:Va-r3s-n	biti
+izračunal	mte:Vmep-sm	izračunati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+gradnja	mte:Ncfsn	gradnja
+prvega	mte:Mlomsg	prvi
+odseka	mte:Ncmsg	odsek
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+dolg	mte:Agpmsnn	dolg
+43,5	mte:Mdc	43,5
+kilometra	mte:Ncmsg	kilometer
+,	mte:Z	,
+stala	mte:Vmpp-sf	stati
+1,24	mte:Mdc	1,24
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+v	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+pomeni	mte:Vmbr3s	pomeniti
+28,5	mte:Mdc	28,5
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+za	mte:Sa	za
+kilometer	mte:Ncmsan	kilometer
+.	mte:Z	.
+Časopis	mte:Ncmsn	časopis
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsa	ta
+primerjal	mte:Vmpp-sm	primerjati
+z	mte:Si	z
+gradnjo	mte:Ncfsi	gradnja
+kilometra	mte:Ncmsg	kilometer
+avtoceste	mte:Ncfsg	avtocesta
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+stal	mte:Vmpp-sm	stati
+9,77	mte:Mdc	9,77
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+neugodno	mte:Agpfsa	neugoden
+konfiguracijo	mte:Ncfsa	konfiguracija
+zemljišč	mte:Ncnpg	zemljišče
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+najzahtevnejši	mte:Agsmsny	znarteven
+odcep	mte:Ncmsn	odcep
+avtoceste	mte:Ncfsg	avtocesta
+od	mte:Sg	od
+Zagreba	mte:Npmsg	Zagreb
+do	mte:Sg	do
+Dubrovnika	mte:Npmsg	Dubrovnik
+povrečno	mte:Rgp	povrečno
+stal	mte:Vmpp-sm	stati
+7,14	mte:Mdc	7,14
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+za	mte:Sa	za
+kilometer	mte:Ncmsan	kilometer
+.	mte:Z	.
+Lansko	mte:Agpfsa	lanski
+zmago	mte:Ncfsa	zmaga
+hrvaškega	mte:Agpmsg	hrvaški
+konzorcija	mte:Ncmsg	konzorcij
+na	mte:Sl	na
+javnem	mte:Agpmsl	javen
+razpisu	mte:Ncmsl	razpis
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+označili	mte:Vmep-pm	označiti
+kot	mte:Cs	kot
+posel	mte:Ncmsan	posel
+stoletja	mte:Ncnsg	stoletje
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+propadel	mte:Vmep-sm	propasti
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+Konstruktorju	mte:Npmsd	Konstruktor
+in	mte:Cc	in
+Zagrebškemu	mte:Agpmsd	zagrebški
+inštitutu	mte:Ncmsd	inštitut
+za	mte:Sa	za
+gradbeništvo	mte:Ncnsa	gradbeništvo
+ISH	mte:Npmsn	ISH
+v	mte:Sl	v
+osmih	mte:Mlc-pl	osem
+mesecih	mte:Ncmpl	mesec
+ni	mte:Va-r3s-y	biti
+uspelo	mte:Vmep-sn	uspeti
+dobiti	mte:Vmen	dobiti
+zagotovil	mte:Vmep-sm	zagotoviti
+.	mte:Z	.
+Lompar	mte:Npmsn	Lompar
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+hrvaškemu	mte:Agpmsd	hrvaški
+konzorciju	mte:Ncmsd	konzorcij
+najprej	mte:Rgs	najprej
+dali	mte:Vmep-pm	dati
+šest	mte:Mlc-pa	šest
+mesecev	mte:Ncmpg	mesec
+časa	mte:Ncmsg	čas
+za	mte:Sa	za
+bančna	mte:Agpnpa	bančen
+zagotovila	mte:Ncnpa	zagotoviti
+,	mte:Z	,
+nato	mte:Rgp	nato
+še	mte:Q	še
+dva	mte:Mlcmda	dva
+meseca	mte:Ncmda	mesec
+,	mte:Z	,
+na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+nadaljnje	mte:Agpnsn	nadaljnji
+zavlačevanje	mte:Ncnsa	zavlačevanje
+ogrozilo	mte:Vmep-sn	ogroziti
+celoten	mte:Agpmsan	celoten
+projekt	mte:Ncmsan	projekt
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+upa	mte:Vmer3s	up
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+grško	mte:Agpnsn	grški
+-	mte:Z	-
+izraelski	mte:Agpmsny	izraelski
+konzorcij	mte:Ncmsn	konzorcija
+zničal	mte:Vmep-sm	zničati
+ceno	mte:Ncfsa	cena
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+1,2	mte:Mdc	1,2
+milijarde	mte:Ncfsg	milijarda
+večja	mte:Agcfsn	velik
+od	mte:Sg	od
+hrvaškega	mte:Agpmsg	hrvaški
+konzorcija	mte:Ncmsg	konzorcij
+.	mte:Z	.
+Hrvati	mte:Npmpn	Hrvat
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+imeli	mte:Vmpp-pm	imeti
+veliko	mte:Rgp	veliko
+koristi	mte:Ncfsg	korist
+Gospodarski	mte:Agpmsny	gospodarski
+strokovnjak	mte:Ncmsn	strokovnjak
+Ljubo	mte:Npmsn	Ljuba
+Jurčić	mte:Npmsn	Jurčić
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+hrvaški	mte:Agpmsay	hrvaški
+Večernji	mte:Agpmsay	večernji
+list	mte:Ncmsan	list
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+hrvaško	mte:Agpnsn	hrvaški
+gospodarstvo	mte:Ncnsn	gospodarstvo
+ni	mte:Va-r3s-y	biti
+veliko	mte:Rgp	veliko
+izgubilo	mte:Vmep-sn	izgubiti
+zaradi	mte:Sg	zaradi
+propadlega	mte:Appmsg	propadel
+posla	mte:Ncmsg	posel
+v	mte:Sl	v
+Črni	mte:Agpfsl	črn
+gori	mte:Ncfsl	gora
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+zavajajoč	mte:Appmsnn	zavajajoč
+posel	mte:Ncmsn	posel
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Jurčić	mte:Npmsn	Jurčić
+in	mte:Cc	in
+pojasnuje	mte:Vmpr3s	pojasnovati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+od	mte:Sg	od
+njega	mte:Pp3msg	on
+korist	mte:Ncfsa	korist
+le	mte:Q	le
+hrvaški	mte:Agpmsay	hrvaški
+konzorcij	mte:Ncmsan	konzorcija
+,	mte:Z	,
+Hrvaška	mte:Npfsn	hrvaški
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+dobila	mte:Vmep-sf	dobiti
+sloves	mte:Ncmsan	sloves
+gradbinca	mte:Ncmsg	gradbinca
+.	mte:Z	.
+Hrvaško	mte:Agpnsn	hrvaški
+gospodarstvo	mte:Ncnsn	gospodarstvo
+koristi	mte:Ncfsg	korist
+namreč	mte:Cc	namreč
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+imelo	mte:Vmpp-sn	imeti
+,	mte:Z	,
+ker	mte:Cs	ker
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+večina	mte:Ncfsn	večina
+sredstev	mte:Ncnpg	sredstvo
+namenila	mte:Vmep-sf	nameniti
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+uvoženih	mte:Appmpg	uvožen
+strojev	mte:Ncmpg	stroj
+,	mte:Z	,
+material	mte:Ncmsn	material
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+iz	mte:Sg	iz
+Črne	mte:Agpfsg	črn
+gore	mte:Ncfsg	gora
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+bi	mte:Va-c	biti
+zaradi	mte:Sg	zaradi
+dražje	mte:Agcfsg	drag
+hrvaške	mte:Agpfsg	hrvaški
+delovne	mte:Agpfsg	deloven
+sile	mte:Ncfsg	sila
+dela	mte:Ncnsg	delo
+zagotovo	mte:Rgp	zagotovo
+izvajali	mte:Vmpp-pm	izvajati
+cenejši	mte:Agcmpn	poceni
+delavci	mte:Ncmpn	delavec
+,	mte:Z	,
+pojasnuje	mte:Vmpr3s	pojasnovati
+Jurčić	mte:Npmsn	Jurčić
+,	mte:Z	,
+ki	mte:Cs	ki
+meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+Konstruktor	mte:Npmsn	Konstruktor
+zaslužil	mte:Vmep-sm	zaslužiti
+največ	mte:Rgs	največ
+do	mte:Sg	do
+deset	mte:Mlc-pa	deset
+odstotkov	mte:Ncmpg	odstotek
+skupne	mte:Agpfsg	skupen
+vsote	mte:Ncfsg	vsota

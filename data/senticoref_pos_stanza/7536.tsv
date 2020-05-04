@@ -1,163 +1,194 @@
-token	tag
-163	Mdc
-rednih	Agpmpg
-tedenskih	Agpmpg
-poletov	Ncmpg
-Adria	Npfsn
-Airways	Npfsn
-bo	Va-f3s-n
-povečala	Vmep-sf
-število	Ncnsa
-poletov	Ncmpg
-v	Sa
-Beograd	Npmsan
-,	Z
-kamor	Cs
-bodo	Va-f3p-n
-od	Sg
-30	Mdc
-.	Z
-oktobra	Ncmsg
-leteli	Vmpp-pm
-osemkrat	Rgp
-tedensko	Rgp
-.	Z
-Sicer	Q
-pa	Cc
-Adria	Npfsn
-iz	Sg
-Ljubljane	Npfsg
-tedensko	Rgp
-leti	Ncnpa
-na	Sa
-15	Mdc
-destinacij	Ncfpg
-.	Z
-Konec	Sg
-oktobra	Ncmsg
-Adria	Npfsn
-prehaja	Vmpr3s
-na	Sa
-zimski	Agpmsay
-čas	Ncmsan
-letenja	Ncnsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-veljal	Vmpp-sm
-do	Sg
-24	Mdc
-.	Z
-marca	Ncmsg
-prihodnje	Agpnsa
-leto	Ncnsa
-.	Z
-Slovenski	Agpmsny
-letalski	Agpmsny
-prevoznik	Ncmsn
-bo	Va-f3s-n
-iz	Sg
-Ljubljane	Npfsg
-v	Sl
-zimskem	Agpnsl
-obdobju	Ncnsl
-opravil	Vmep-sm
-163	Mdc
-rednih	Agpmpg
-tedenskih	Agpmpg
-poletov	Ncmpg
-na	Sa
-15	Mdc
-destinacij	Ncfpg
--	Z
-večinoma	Rgp
-po	Sl
-Evropi	Npfsl
-.	Z
-Večkrat	Rgc
-dnevno	Rgp
-v	Sa
-Frankfurt	Npmsan
-,	Z
-München	Npmsan
-,	Z
-Zürich	Npmsan
-Štirikrat	Rgp
-dnevno	Rgp
-bodo	Va-f3p-n
-letala	Ncnpn
-letela	Vmpp-pn
-v	Sa
-Frankfurt	Npmsan
-,	Z
-trikrat	Rgp
-dnevno	Rgp
-pa	Cc
-na	Sa
-Dunaj	Npmsan
-,	Z
-v	Sa
-München	Npmsan
-in	Cc
-Zürich	Npmsan
-.	Z
-Enajstkrat	Mlc-sa
-na	Sa
-teden	Ncmsan
-bodo	Va-f3p-n
-povezali	Vmep-pm
-Ljubljano	Npfsa
-in	Cc
-Skopje	Npmsa
-,	Z
-osemkrat	Rgp
-tedensko	Rgp
-pa	Cc
-bo	Va-f3s-n
-mogoče	Agpnsn
-leteti	Vmpn
-v	Sa
-Beograd	Npmsan
-.	Z
-Devetkrat	Rgp
-tedensko	Rgp
-bo	Va-f3s-n
-polet	Ncmsan
-v	Sa
-Moskvo	Npfsa
-,	Z
-sedem	Mlc-pa
-poletov	Ncmpg
-tedensko	Rgp
-bodo	Va-f3p-n
-opravili	Vmep-pm
-v	Sa
-Istanbul	Npmsan
-,	Z
-Prištino	Npfsa
-in	Cc
-Tirano	Npfsa
-,	Z
-šest	Mlc-pa
-v	Sa
-Sarajevo	Npnsa
-in	Cc
-pet	Mlc-pa
-v	Sa
-Amsterdam	Npmsan
-.	Z
-Trikrat	Rgp
-tedensko	Rgp
-bo	Va-f3s-n
-Adria	Npfsn
-letela	Vmpp-sf
-v	Sa
-Podgorico	Npfsa
-,	Z
-dvakrat	Rgp
-na	Sa
-teden	Ncmsan
-pa	Cc
-v	Sa
-Köbenhavn	Npmsan
-.	Z
+token	tag	lemma
+163	mte:Mdc	163
+rednih	mte:Agpmpg	reden
+tedenskih	mte:Agpmpg	tedenski
+poletov	mte:Ncmpg	polet
+Adria	mte:Npfsn	Adria
+Airways	mte:Npfsn	Airways
+bo	mte:Va-f3s-n	biti
+povečala	mte:Vmep-sf	povečati
+število	mte:Ncnsa	število
+poletov	mte:Ncmpg	polet
+v	mte:Sa	v
+Beograd	mte:Npmsan	Beograd
+,	mte:Z	,
+kamor	mte:Cs	kamor
+bodo	mte:Va-f3p-n	biti
+od	mte:Sg	od
+30	mte:Mdc	30
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+leteli	mte:Vmpp-pm	leteti
+osemkrat	mte:Rgp	osemkrat
+tedensko	mte:Rgp	tedensko
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+Adria	mte:Npfsn	Adria
+iz	mte:Sg	iz
+Ljubljane	mte:Npfsg	Ljubljana
+tedensko	mte:Rgp	tedensko
+leti	mte:Ncnpa	leto
+na	mte:Sa	na
+15	mte:Mdc	15
+destinacij	mte:Ncfpg	destinacija
+.	mte:Z	.
+Konec	mte:Sg	konec
+oktobra	mte:Ncmsg	oktober
+Adria	mte:Npfsn	Adria
+prehaja	mte:Vmpr3s	prehajati
+na	mte:Sa	na
+zimski	mte:Agpmsay	zimski
+čas	mte:Ncmsan	čas
+letenja	mte:Ncnsg	letenje
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+veljal	mte:Vmpp-sm	veljati
+do	mte:Sg	do
+24	mte:Mdc	24
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+.	mte:Z	.
+Slovenski	mte:Agpmsny	slovenski
+letalski	mte:Agpmsny	letalski
+prevoznik	mte:Ncmsn	prevoznik
+bo	mte:Va-f3s-n	biti
+iz	mte:Sg	iz
+Ljubljane	mte:Npfsg	Ljubljana
+v	mte:Sl	v
+zimskem	mte:Agpnsl	zimski
+obdobju	mte:Ncnsl	obdobje
+opravil	mte:Vmep-sm	opraviti
+163	mte:Mdc	163
+rednih	mte:Agpmpg	reden
+tedenskih	mte:Agpmpg	tedenski
+poletov	mte:Ncmpg	polet
+na	mte:Sa	na
+15	mte:Mdc	15
+destinacij	mte:Ncfpg	destinacija
+-	mte:Z	-
+večinoma	mte:Rgp	večinoma
+po	mte:Sl	po
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Večkrat	mte:Rgc	večkrat
+dnevno	mte:Rgp	dnevno
+v	mte:Sa	v
+Frankfurt	mte:Npmsan	Frankfurt
+,	mte:Z	,
+München	mte:Npmsan	München
+,	mte:Z	,
+Zürich	mte:Npmsan	Zürich
+Štirikrat	mte:Rgp	štirikrat
+dnevno	mte:Rgp	dnevno
+bodo	mte:Va-f3p-n	biti
+letala	mte:Ncnpn	letalo
+letela	mte:Vmpp-pn	leteti
+v	mte:Sa	v
+Frankfurt	mte:Npmsan	Frankfurt
+,	mte:Z	,
+trikrat	mte:Rgp	trikrat
+dnevno	mte:Rgp	dnevno
+pa	mte:Cc	pa
+na	mte:Sa	na
+Dunaj	mte:Npmsan	Dunaj
+,	mte:Z	,
+v	mte:Sa	v
+München	mte:Npmsan	München
+in	mte:Cc	in
+Zürich	mte:Npmsan	Zürich
+.	mte:Z	.
+Enajstkrat	mte:Mlc-sa	enajstkrat
+na	mte:Sa	na
+teden	mte:Ncmsan	teden
+bodo	mte:Va-f3p-n	biti
+povezali	mte:Vmep-pm	povezati
+Ljubljano	mte:Npfsa	Ljubljana
+in	mte:Cc	in
+Skopje	mte:Npmsa	Skopje
+,	mte:Z	,
+osemkrat	mte:Rgp	osemkrat
+tedensko	mte:Rgp	tedensko
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+leteti	mte:Vmpn	leteti
+v	mte:Sa	v
+Beograd	mte:Npmsan	Beograd
+.	mte:Z	.
+Devetkrat	mte:Rgp	devetkrat
+tedensko	mte:Rgp	tedensko
+bo	mte:Va-f3s-n	biti
+polet	mte:Ncmsan	polet
+v	mte:Sa	v
+Moskvo	mte:Npfsa	Moskvo
+,	mte:Z	,
+sedem	mte:Mlc-pa	sedem
+poletov	mte:Ncmpg	polet
+tedensko	mte:Rgp	tedensko
+bodo	mte:Va-f3p-n	biti
+opravili	mte:Vmep-pm	opraviti
+v	mte:Sa	v
+Istanbul	mte:Npmsan	Istanbul
+,	mte:Z	,
+Prištino	mte:Npfsa	Priština
+in	mte:Cc	in
+Tirano	mte:Npfsa	Tirano
+,	mte:Z	,
+šest	mte:Mlc-pa	šest
+v	mte:Sa	v
+Sarajevo	mte:Npnsa	Sarajeva
+in	mte:Cc	in
+pet	mte:Mlc-pa	pet
+v	mte:Sa	v
+Amsterdam	mte:Npmsan	Amsterda
+.	mte:Z	.
+Trikrat	mte:Rgp	trikrat
+tedensko	mte:Rgp	tedensko
+bo	mte:Va-f3s-n	biti
+Adria	mte:Npfsn	Adria
+letela	mte:Vmpp-sf	leteti
+v	mte:Sa	v
+Podgorico	mte:Npfsa	Podgorica
+,	mte:Z	,
+dvakrat	mte:Rgp	dvakrat
+na	mte:Sa	na
+teden	mte:Ncmsan	teden
+pa	mte:Cc	pa
+v	mte:Sa	v
+Köbenhavn	mte:Npmsan	Köbenhavn
+.	mte:Z	.
+Iz	mte:Sg	iz
+Prištine	mte:Npfsg	Priština
+v	mte:Sa	v
+Nemčijo	mte:Npfsa	Nemčija
+Decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+je	mte:Va-r3s-n	biti
+Adria	mte:Npfsn	Adria
+Airways	mte:Npfsn	Airways
+vzpostavila	mte:Vmep-sf	vzpostaviti
+tudi	mte:Q	tudi
+redne	mte:Agpfpa	reden
+povezave	mte:Ncfpa	povezava
+iz	mte:Sg	iz
+Prištine	mte:Npfsg	Priština
+,	mte:Z	,
+od	mte:Sg	od
+koder	mte:Cs	koder
+bo	mte:Va-f3s-n	biti
+pozimi	mte:Rgp	pozimi
+štirikrat	mte:Rgp	štirikrat
+tedensko	mte:Rgp	tedensko
+letela	mte:Vmpp-sf	leteti
+v	mte:Sa	v
+München	mte:Npmsan	München
+,	mte:Z	,
+sedemkrat	mte:Rgp	sedemkrat
+tedensko	mte:Rgp	tedensko
+pa	mte:Cc	pa
+v	mte:Sa	v
+Frankfurt	mte:Npmsan	Frankfurt

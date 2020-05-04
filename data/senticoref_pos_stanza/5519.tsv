@@ -1,486 +1,516 @@
-token	tag
-Mala	Agpnpn
-in	Cc
-srednja	Agpnpn
-podjetja	Ncnpn
-so	Va-r3p-n
-v	Sl
-letih	Ncnpl
-2002	Mdc
--	Z
-2010	Mdc
-ustvarila	Vmep-pf
-85	Mdc
-odstotkov	Ncmpg
-novih	Agpnpg
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-EU	Npfsl
-,	Z
-kaže	Vmpr3s
-raziskava	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-danes	Rgp
-objavila	Vmep-sf
-Evropska	Agpfsn
-komisija	Ncfsn
-V	Sl
-obdobju	Ncnsl
-2002	Mdc
--	Z
-2010	Mdc
-se	Px------y
-je	Va-r3s-n
-po	Sl
-navedbah	Ncfpl
-Evropske	Agpfsg
-komisije	Ncfsg
-neto	Agpnsn
-zaposlovanje	Ncnsn
-v	Sl
-gospodarstvu	Ncnsl
-EU	Npfsg
-povečalo	Vmep-sn
-v	Sl
-povprečju	Ncnsl
-za	Sa
-1,1	Mdc
-milijona	Ncmsg
-novih	Agpnpg
-delovnih	Agpnpg
-mest	Ncnpg
-na	Sa
-leto	Ncnsa
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-med	Si
-redkimi	Agpfpi
-članicami	Ncfpi
-unije	Ncfsg
-,	Z
-kjer	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-rast	Ncfsn
-zaposlovanja	Ncnsg
-v	Sl
-omenjenem	Appnsl
-obdobju	Ncnsl
-v	Sl
-velikih	Agpnpl
-podjetjih	Ncnpl
-večja	Agcfsn
-kot	Cs
-v	Sl
-malih	Agpfpl
-in	Cc
-srednjih	Agpfpl
-.	Z
-Rast	Ncfsn
-zaposlovanja	Ncnsg
-v	Sl
-malih	Agpnpl
-in	Cc
-srednjih	Agpnpl
-podjetjih	Ncnpl
-v	Sl
-EU	Npfsl
-je	Va-r3s-n
-znašala	Vmpp-sf
-približno	Rgp
-odstotek	Ncmsan
-na	Sa
-leto	Ncnsa
-,	Z
-v	Sl
-velikih	Agpnpl
-podjetjih	Ncnpl
-pa	Cc
-okoli	Rgp
-pol	Rgp
-odstotka	Ncmsg
-.	Z
-Izjema	Ncfsn
-je	Va-r3s-n
-trgovina	Ncfsn
-,	Z
-kjer	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-rast	Ncfsn
-0,7	Mdc
--	Z
-odstotna	Agpfsn
-oziroma	Cc
-2,2	Mdc
--	Z
-odstotna	Agpfsn
-.	Z
-Mikro	Ncfsn
-podjetja	Ncnsg
-z	Si
-največ	Rgs
-novimi	Agpnpi
-slovenskimi	Agpnpi
-delovnimi	Agpnpi
-mesti	Ncnpi
-V	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-razmerje	Ncnsn
-drugačno	Agpnsn
-kot	Cs
-v	Sl
-povprečju	Ncnsl
-v	Sl
-EU	Npfsl
-:	Z
-skupno	Agpnsn
-zaposlovanje	Ncnsn
-v	Sl
-malih	Agpnpl
-in	Cc
-srednjih	Agpnpl
-podjetjih	Ncnpl
-je	Va-r3s-n
-v	Sl
-omenjenem	Appnsl
-obdobju	Ncnsl
-naraslo	Vmep-sn
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-velikih	Agpnpl
-podjetjih	Ncnpl
-pa	Cc
-za	Sa
-1,9	Mdc
-odstotka	Ncmsg
-.	Z
-Največ	Rgs
-so	Va-r3p-n
-k	Sd
-ustvarjanju	Ncnsd
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-Sloveniji	Npfsl
-prispevala	Vmbp-pf
-mikro	Ncfpa
-podjetja	Ncnsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-beležila	Vmpp-pn
-2,5	Mdc
--	Z
-odstotno	Agpfsa
-rast	Ncfsa
-zaposlovanja	Ncnsg
-.	Z
-Mala	Agpnpn
-podjetja	Ncnpn
-so	Va-r3p-n
-beležila	Vmpp-pn
-0,5	Mdc
--	Z
-odstotno	Agpfsa
-rast	Ncfsa
-,	Z
-srednja	Agpfsn
-pa	Cc
-1,5	Mdc
--	Z
-odstotni	Agpmsay
-padec	Ncmsan
-.	Z
-V	Sl
-Sloveniji	Npfsl
-le	Q
-0,2	Mdc
-odstotka	Ncmsg
-velikih	Agpnpg
-podjetij	Ncnpg
-Slovenija	Npfsn
-je	Va-r3s-n
-tako	Rgp
-poleg	Sg
-Francije	Npfsg
-,	Z
-Poljske	Npfsg
-in	Cc
-Španije	Npfsg
-ena	Mlpfsn
-redkih	Agpfpg
-članic	Ncfpg
-unije	Ncfsg
-,	Z
-kjer	Cs
-rast	Ncfsn
-zaposlovanja	Ncnsg
-v	Sl
-malih	Agpnpl
-in	Cc
-srednjih	Agpnpl
-podjetjih	Ncnpl
-ni	Va-r3s-y
-bila	Va-p-sf
-večja	Agcfsn
-kot	Cs
-v	Sl
-velikih	Agpnpl
-podjetjih	Ncnpl
-.	Z
-V	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-sicer	Q
-po	Sl
-podatkih	Ncmpl
-komisije	Ncfsg
-92,6	Mdc
-odstotka	Ncmsg
-mikro	Ncfpg
-podjetij	Ncnpg
-,	Z
-šest	Mlc-pa
-odstotkov	Ncmpg
-malih	Agpmpg
-in	Cc
-1,2	Mdc
-odstotka	Ncmsg
-srednjih	Agpmpg
-,	Z
-torej	Rgp
-99,8	Mdc
-odstotka	Ncmsg
-malih	Agpnpg
-in	Cc
-srednjih	Agpnpg
-podjetij	Ncnpg
-,	Z
-ter	Cc
-0,2	Mdc
-odstotka	Ncmsg
-velikih	Agpnpg
-podjetij	Ncnpg
-.	Z
-Tudi	Q
-v	Sl
-povprečju	Ncnsl
-v	Sa
-EU	Npfsl
-je	Va-r3s-n
-bila	Va-p-sf
-med	Si
-različnimi	Agpfpi
-vrstami	Ncfpi
-malih	Agpnpg
-in	Cc
-srednjih	Agpnpg
-podjetij	Ncnpg
-rast	Ncfsn
-zaposlovanja	Ncnsg
-največja	Agsfsn
-v	Sl
-mikro	Agpnpl
-podjetjih	Ncnpl
-,	Z
-to	Pd-nsn
-so	Va-r3p-n
-podjetja	Ncnpn
-z	Si
-manj	Rgc
-kot	Cs
-desetimi	Mlc-pi
-zaposlenimi	Appmpi
-,	Z
-ki	Cs
-so	Va-r3p-n
-doprinesla	Vmep-pn
-58	Mdc
-odstotkov	Ncmpg
-skupne	Agpfsg
-rasti	Ncfsg
-zaposlovanja	Ncnsg
-v	Sl
-gospodarstvu	Ncnsl
-.	Z
-V	Sl
-času	Ncmsl
-krize	Ncfsg
-najbolj	Rgs
-ranljiva	Agpfpn
-mikro	Ncfsn
-podjetja	Ncnsg
-Največ	Rgs
-novih	Agpnpg
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-EU	Npfsl
-je	Va-r3s-n
-bilo	Va-p-sn
-sicer	Q
-ustvarjenih	Appnpg
-v	Sl
-novih	Agpnpl
-malih	Agpnpl
-in	Cc
-srednjih	Agpnpl
-podjetjih	Ncnpl
-,	Z
-ki	Cs
-delujejo	Vmpr3p
-manj	Rgc
-kot	Cs
-pet	Mlc-pa
-let	Ncnpg
-.	Z
-Nova	Agpnpn
-podjetja	Ncnpn
-,	Z
-ki	Cs
-se	Px------y
-ukvarjajo	Vmpr3p
-s	Si
-poslovnimi	Agpfpi
-storitvami	Ncfpi
-,	Z
-ustvarijo	Vmer3p
-več	Rgc
-kot	Cs
-četrtino	Ncfsa
-novih	Agpnpg
-delovnih	Agpnpg
-mest	Ncnpg
-,	Z
-nova	Agpnpn
-podjetja	Ncnpn
-na	Sl
-področju	Ncnsl
-prevoza	Ncmsg
-in	Cc
-komunikacij	Ncfpg
-pa	Cc
-prispevajo	Vmbr3p
-najmanj	Rgs
-,	Z
-šest	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-Rezultati	Ncmpn
-raziskave	Ncfsg
-so	Va-r3p-n
-tudi	Q
-pokazali	Vmep-pm
-,	Z
-da	Cs
-je	Va-r3s-n
-gospodarska	Agpfsn
-kriza	Ncfsn
-negativno	Rgp
-vplivala	Vmpp-sf
-na	Sa
-zaposlovanje	Ncnsa
-v	Sl
-vseh	Pg-npl
-podjetjih	Ncnpl
-,	Z
-ne	Q
-glede	Rgp
-na	Sa
-velikost	Ncfsa
-,	Z
-najbolj	Rgs
-ranljiva	Agpfsn
-pa	Cc
-so	Va-r3p-n
-bila	Va-p-pn
-mikro	Ncfpn
-podjetja	Ncnpg
-.	Z
-V	Sa
-raziskavo	Ncfsa
-vključenih	Appfpg
-EU	Npfpg
-27	Mdc
-in	Cc
-še	Q
-deset	Mlc-pa
-držav	Ncfpg
-Zaradi	Sg
-gospodarske	Agpfsg
-krize	Ncfsg
-med	Si
-letoma	Ncndi
-2009	Mdc
-in	Cc
-2010	Mdc
-se	Px------y
-je	Va-r3s-n
-število	Ncnsn
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-sektorju	Ncmsl
-malih	Agpnpg
-in	Cc
-srednjih	Agpnpg
-podjetij	Ncnpg
-v	Sl
-povprečju	Ncnsl
-zmanjšalo	Vmep-sn
-za	Sa
-2,4	Mdc
-odstotka	Ncmsg
-na	Sa
-leto	Ncnsa
-,	Z
-medtem	Rgp
-ko	Cs
-se	Px------y
-je	Va-r3s-n
-v	Sl
-sektorju	Ncmsl
-velikih	Agpnpg
-podjetij	Ncnpg
-zmanjšalo	Vmep-sn
-za	Sa
-0,95	Mdc
-odstotka	Ncmsg
-na	Sa
-leto	Ncnsa
-.	Z
-Študija	Ncmsg
-je	Va-r3s-n
-del	Ncmsn
-projekta	Ncmsg
-o	Sl
-pregledu	Ncmsl
-uspešnosti	Ncfsg
-malih	Agpnpg
-in	Cc
-srednjih	Agpnpg
-podjetij	Ncnpg
-in	Cc
-temelji	Vmpr3s
-na	Sl
-raziskavi	Ncfsl
-podjetij	Ncnpg
-,	Z
-ki	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-izvedena	Appfsn
-konec	Sg
-leta	Ncnsg
-2010	Mdc
-.	Z
+token	tag	lemma
+Mala	mte:Agpnpn	mali
+in	mte:Cc	in
+srednja	mte:Agpnpn	srednji
+podjetja	mte:Ncnpn	podjetje
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+letih	mte:Ncnpl	leto
+2002	mte:Mdc	2002
+-	mte:Z	-
+2010	mte:Mdc	2010
+ustvarila	mte:Vmep-pf	ustvariti
+85	mte:Mdc	85
+odstotkov	mte:Ncmpg	odstotek
+novih	mte:Agpnpg	nov
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+,	mte:Z	,
+kaže	mte:Vmpr3s	kazati
+raziskava	mte:Ncfsn	raziskava
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+objavila	mte:Vmep-sf	objaviti
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+V	mte:Sl	v
+obdobju	mte:Ncnsl	obdobje
+2002	mte:Mdc	2002
+-	mte:Z	-
+2010	mte:Mdc	2010
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Evropske	mte:Agpfsg	evropski
+komisije	mte:Ncfsg	komisija
+neto	mte:Agpnsn	neto
+zaposlovanje	mte:Ncnsn	zaposlovanje
+v	mte:Sl	v
+gospodarstvu	mte:Ncnsl	gospodarstvo
+EU	mte:Npfsg	EU
+povečalo	mte:Vmep-sn	povečati
+v	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+za	mte:Sa	za
+1,1	mte:Mdc	1,1
+milijona	mte:Ncmsg	milijon
+novih	mte:Agpnpg	nov
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+redkimi	mte:Agpfpi	redek
+članicami	mte:Ncfpi	članica
+unije	mte:Ncfsg	unija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+rast	mte:Ncfsn	rast
+zaposlovanja	mte:Ncnsg	zaposlovanje
+v	mte:Sl	v
+omenjenem	mte:Appnsl	omenjen
+obdobju	mte:Ncnsl	obdobje
+v	mte:Sl	v
+velikih	mte:Agpnpl	velik
+podjetjih	mte:Ncnpl	podjetje
+večja	mte:Agcfsn	velik
+kot	mte:Cs	kot
+v	mte:Sl	v
+malih	mte:Agpfpl	mali
+in	mte:Cc	in
+srednjih	mte:Agpfpl	srednji
+.	mte:Z	.
+Rast	mte:Ncfsn	rast
+zaposlovanja	mte:Ncnsg	zaposlovanje
+v	mte:Sl	v
+malih	mte:Agpnpl	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpl	srednji
+podjetjih	mte:Ncnpl	podjetje
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+približno	mte:Rgp	približno
+odstotek	mte:Ncmsan	odstotek
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+,	mte:Z	,
+v	mte:Sl	v
+velikih	mte:Agpnpl	velik
+podjetjih	mte:Ncnpl	podjetje
+pa	mte:Cc	pa
+okoli	mte:Rgp	okoli
+pol	mte:Rgp	pol
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Izjema	mte:Ncfsn	izjema
+je	mte:Va-r3s-n	biti
+trgovina	mte:Ncfsn	trgovina
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+rast	mte:Ncfsn	rast
+0,7	mte:Mdc	0,7
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+oziroma	mte:Cc	oziroma
+2,2	mte:Mdc	2,2
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+.	mte:Z	.
+Mikro	mte:Ncfsn	mikro
+podjetja	mte:Ncnsg	podjetje
+z	mte:Si	z
+največ	mte:Rgs	največ
+novimi	mte:Agpnpi	nov
+slovenskimi	mte:Agpnpi	slovenski
+delovnimi	mte:Agpnpi	deloven
+mesti	mte:Ncnpi	mesto
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+razmerje	mte:Ncnsn	razmerje
+drugačno	mte:Agpnsn	drugačen
+kot	mte:Cs	kot
+v	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+:	mte:Z	:
+skupno	mte:Agpnsn	skupen
+zaposlovanje	mte:Ncnsn	zaposlovanje
+v	mte:Sl	v
+malih	mte:Agpnpl	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpl	srednji
+podjetjih	mte:Ncnpl	podjetje
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+omenjenem	mte:Appnsl	omenjen
+obdobju	mte:Ncnsl	obdobje
+naraslo	mte:Vmep-sn	narasti
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+velikih	mte:Agpnpl	velik
+podjetjih	mte:Ncnpl	podjetje
+pa	mte:Cc	pa
+za	mte:Sa	za
+1,9	mte:Mdc	1,9
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Največ	mte:Rgs	največ
+so	mte:Va-r3p-n	biti
+k	mte:Sd	k
+ustvarjanju	mte:Ncnsd	ustvarjanje
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+prispevala	mte:Vmbp-pf	prispevati
+mikro	mte:Ncfpa	mikro
+podjetja	mte:Ncnsg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+beležila	mte:Vmpp-pn	beležiti
+2,5	mte:Mdc	2,5
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+rast	mte:Ncfsa	rast
+zaposlovanja	mte:Ncnsg	zaposlovanje
+.	mte:Z	.
+Mala	mte:Agpnpn	mali
+podjetja	mte:Ncnpn	podjetje
+so	mte:Va-r3p-n	biti
+beležila	mte:Vmpp-pn	beležiti
+0,5	mte:Mdc	0,5
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+rast	mte:Ncfsa	rast
+,	mte:Z	,
+srednja	mte:Agpfsn	srednji
+pa	mte:Cc	pa
+1,5	mte:Mdc	1,5
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+padec	mte:Ncmsan	padec
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+le	mte:Q	le
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+velikih	mte:Agpnpg	velik
+podjetij	mte:Ncnpg	podjetje
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+poleg	mte:Sg	poleg
+Francije	mte:Npfsg	Francija
+,	mte:Z	,
+Poljske	mte:Npfsg	Poljska
+in	mte:Cc	in
+Španije	mte:Npfsg	Španija
+ena	mte:Mlpfsn	en
+redkih	mte:Agpfpg	redek
+članic	mte:Ncfpg	članica
+unije	mte:Ncfsg	unija
+,	mte:Z	,
+kjer	mte:Cs	kjer
+rast	mte:Ncfsn	rast
+zaposlovanja	mte:Ncnsg	zaposlovanje
+v	mte:Sl	v
+malih	mte:Agpnpl	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpl	srednji
+podjetjih	mte:Ncnpl	podjetje
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+večja	mte:Agcfsn	velik
+kot	mte:Cs	kot
+v	mte:Sl	v
+velikih	mte:Agpnpl	velik
+podjetjih	mte:Ncnpl	podjetje
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+komisije	mte:Ncfsg	komisija
+92,6	mte:Mdc	92,6
+odstotka	mte:Ncmsg	odstotek
+mikro	mte:Ncfpg	mikro
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+malih	mte:Agpmpg	mali
+in	mte:Cc	in
+1,2	mte:Mdc	1,2
+odstotka	mte:Ncmsg	odstotek
+srednjih	mte:Agpmpg	srednji
+,	mte:Z	,
+torej	mte:Rgp	torej
+99,8	mte:Mdc	99,8
+odstotka	mte:Ncmsg	odstotek
+malih	mte:Agpnpg	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpg	srednji
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ter	mte:Cc	ter
+0,2	mte:Mdc	0,2
+odstotka	mte:Ncmsg	odstotek
+velikih	mte:Agpnpg	velik
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Tudi	mte:Q	tudi
+v	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+v	mte:Sa	v
+EU	mte:Npfsl	EU
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+med	mte:Si	med
+različnimi	mte:Agpfpi	različen
+vrstami	mte:Ncfpi	vrsta
+malih	mte:Agpnpg	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpg	srednji
+podjetij	mte:Ncnpg	podjetje
+rast	mte:Ncfsn	rast
+zaposlovanja	mte:Ncnsg	zaposlovanje
+največja	mte:Agsfsn	velik
+v	mte:Sl	v
+mikro	mte:Agpnpl	miker
+podjetjih	mte:Ncnpl	podjetje
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+so	mte:Va-r3p-n	biti
+podjetja	mte:Ncnpn	podjetje
+z	mte:Si	z
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+desetimi	mte:Mlc-pi	deset
+zaposlenimi	mte:Appmpi	zaposlen
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+doprinesla	mte:Vmep-pn	doprinesti
+58	mte:Mdc	58
+odstotkov	mte:Ncmpg	odstotek
+skupne	mte:Agpfsg	skupen
+rasti	mte:Ncfsg	rast
+zaposlovanja	mte:Ncnsg	zaposlovanje
+v	mte:Sl	v
+gospodarstvu	mte:Ncnsl	gospodarstvo
+.	mte:Z	.
+V	mte:Sl	v
+času	mte:Ncmsl	čas
+krize	mte:Ncfsg	kriza
+najbolj	mte:Rgs	najbolj
+ranljiva	mte:Agpfpn	ranljiv
+mikro	mte:Ncfsn	mikro
+podjetja	mte:Ncnsg	podjetje
+Največ	mte:Rgs	največ
+novih	mte:Agpnpg	nov
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+sicer	mte:Q	sicer
+ustvarjenih	mte:Appnpg	ustvarjen
+v	mte:Sl	v
+novih	mte:Agpnpl	nov
+malih	mte:Agpnpl	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpl	srednji
+podjetjih	mte:Ncnpl	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+delujejo	mte:Vmpr3p	delovati
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+pet	mte:Mlc-pa	pet
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Nova	mte:Agpnpn	nov
+podjetja	mte:Ncnpn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+ukvarjajo	mte:Vmpr3p	ukvarjati
+s	mte:Si	z
+poslovnimi	mte:Agpfpi	posloven
+storitvami	mte:Ncfpi	storitev
+,	mte:Z	,
+ustvarijo	mte:Vmer3p	ustvariti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+četrtino	mte:Ncfsa	četrtina
+novih	mte:Agpnpg	nov
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+,	mte:Z	,
+nova	mte:Agpnpn	nov
+podjetja	mte:Ncnpn	podjetje
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+prevoza	mte:Ncmsg	prevoz
+in	mte:Cc	in
+komunikacij	mte:Ncfpg	komunikacija
+pa	mte:Cc	pa
+prispevajo	mte:Vmbr3p	prispevati
+najmanj	mte:Rgs	najmanj
+,	mte:Z	,
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Rezultati	mte:Ncmpn	rezultat
+raziskave	mte:Ncfsg	raziskava
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+pokazali	mte:Vmep-pm	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+gospodarska	mte:Agpfsn	gospodarski
+kriza	mte:Ncfsn	kriza
+negativno	mte:Rgp	negativen
+vplivala	mte:Vmpp-sf	vplivati
+na	mte:Sa	na
+zaposlovanje	mte:Ncnsa	zaposlovanje
+v	mte:Sl	v
+vseh	mte:Pg-npl	ves
+podjetjih	mte:Ncnpl	podjetje
+,	mte:Z	,
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+velikost	mte:Ncfsa	velikost
+,	mte:Z	,
+najbolj	mte:Rgs	najbolj
+ranljiva	mte:Agpfsn	ranljiv
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+bila	mte:Va-p-pn	biti
+mikro	mte:Ncfpn	mikro
+podjetja	mte:Ncnpg	podjetje
+.	mte:Z	.
+V	mte:Sa	v
+raziskavo	mte:Ncfsa	raziskava
+vključenih	mte:Appfpg	vključen
+EU	mte:Npfpg	EU
+27	mte:Mdc	27
+in	mte:Cc	in
+še	mte:Q	še
+deset	mte:Mlc-pa	deset
+držav	mte:Ncfpg	država
+Zaradi	mte:Sg	zaradi
+gospodarske	mte:Agpfsg	gospodarski
+krize	mte:Ncfsg	kriza
+med	mte:Si	med
+letoma	mte:Ncndi	leto
+2009	mte:Mdc	2009
+in	mte:Cc	in
+2010	mte:Mdc	2010
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+sektorju	mte:Ncmsl	sektor
+malih	mte:Agpnpg	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpg	srednji
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+povprečju	mte:Ncnsl	povprečje
+zmanjšalo	mte:Vmep-sn	zmanjšati
+za	mte:Sa	za
+2,4	mte:Mdc	2,4
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+sektorju	mte:Ncmsl	sektor
+velikih	mte:Agpnpg	velik
+podjetij	mte:Ncnpg	podjetje
+zmanjšalo	mte:Vmep-sn	zmanjšati
+za	mte:Sa	za
+0,95	mte:Mdc	0,95
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+leto	mte:Ncnsa	leto
+.	mte:Z	.
+Študija	mte:Ncmsg	študija
+je	mte:Va-r3s-n	biti
+del	mte:Ncmsn	del
+projekta	mte:Ncmsg	projekt
+o	mte:Sl	o
+pregledu	mte:Ncmsl	pregled
+uspešnosti	mte:Ncfsg	uspešnost
+malih	mte:Agpnpg	mali
+in	mte:Cc	in
+srednjih	mte:Agpnpg	srednji
+podjetij	mte:Ncnpg	podjetje
+in	mte:Cc	in
+temelji	mte:Vmpr3s	temeljiti
+na	mte:Sl	na
+raziskavi	mte:Ncfsl	raziskava
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+izvedena	mte:Appfsn	izveden
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+.	mte:Z	.
+V	mte:Sa	v
+raziskavo	mte:Ncfsa	raziskava
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+vključenih	mte:Appfpg	vključen
+27	mte:Mdc	27
+držav	mte:Ncfpg	država
+članic	mte:Ncfpg	članica
+EU	mte:Npfsg	EU
+ter	mte:Cc	ter
+Albanija	mte:Npfsn	Albanija
+,	mte:Z	,
+Črna	mte:Agpfsn	črn
+gora	mte:Ncfsn	gora
+,	mte:Z	,
+Hrvaška	mte:Npfsn	hrvaški
+,	mte:Z	,
+Islandija	mte:Npfsn	Islandija
+,	mte:Z	,
+Izrael	mte:Npmsn	Izrael
+,	mte:Z	,
+Liechtenstein	mte:Npmsn	Liechtenstein
+,	mte:Z	,
+Makedonija	mte:Npfsn	Makedonija
+,	mte:Z	,
+Norveška	mte:Npfsn	Norveška
+,	mte:Z	,
+Srbija	mte:Npfsn	Srbija
+in	mte:Cc	in
+Turčija	mte:Npfsn	Turčija

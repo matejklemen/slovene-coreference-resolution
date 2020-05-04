@@ -1,564 +1,591 @@
-token	tag
-Kriminalisti	Ncmpn
-so	Va-r3p-n
-končali	Vmep-pm
-pogovore	Ncmpa
-z	Si
-vpletenimi	Appmpi
-v	Sa
-domnevno	Agpfsa
-sporno	Agpfsa
-preprodajo	Ncfsa
-delnic	Ncfpg
-MK	Ncfsg
-Založbe	Ncfsg
-.	Z
-A	Cc
-med	Si
-zaslišanimi	Appmpi
-ni	Va-r3s-y
-bilo	Va-p-sn
-Antona	Npmsg
-Stresa	Npmsg
-in	Cc
-Franca	Npmsg
-Krambergerja	Npmsg
-,	Z
-ki	Cs
-sta	Va-r3d-n
-s	Si
-temi	Pd-mpi
-posli	Ncmpi
-mariborski	Agpfsd
-nadškofiji	Ncfsd
-zagotovila	Vmep-dm
-milijonsko	Agpfsa
-finančno	Agpfsa
-korist	Ncfsa
-.	Z
-Primer	Ncmsan
-domnevno	Rgp
-sporne	Agpfsg
-preprodaje	Ncfsg
-delnic	Ncfpg
-Mladinske	Agpfsg
-knjige	Ncfsg
-(	Z
-MK	Npmsn
-)	Z
-Založbe	Ncfsg
-,	Z
-s	Si
-katerimi	Pq-mpi
-sta	Va-r3d-n
-zdaj	Rgp
-že	Q
-upokojena	Appmdn
-nadškofa	Ncmdn
-dr	Npmsn
-.	Z
-Anton	Npmsn
-Stres	Npmsn
-in	Cc
-dr	Npmsn
-.	Z
-Franc	Npmsn
-Kramberger	Npmsn
-mariborski	Agpfsd
-nadškofiji	Ncfsd
-zagotovila	Vmep-dm
-skoraj	Q
-1,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-dobička	Ncmsg
-na	Sa
-račun	Ncmsan
-drugih	Mlpnpg
-podjetij	Ncnpg
-,	Z
-je	Va-r3s-n
-ponovno	Rgp
-na	Sl
-mizi	Ncfsl
-tožilcev	Ncmpg
-.	Z
-Ti	Pd-mpn
-se	Px------y
-bodo	Va-f3p-n
-morali	Vmpp-pm
-odločiti	Vmen
-,	Z
-ali	Rgp
-bodo	Va-f3p-n
-tokrat	Rgp
-zahtevali	Vmbp-pm
-kazenski	Agpmsay
-pregon	Ncmsan
-ali	Cc
-pa	Cc
-bodo	Va-f3p-n
-ovadbo	Ncfsa
-(	Z
-ponovno	Rgp
-)	Z
-zavrgli	Vmep-pm
-.	Z
-Kriminalisti	Ncmpn
-policijske	Agpfsg
-uprave	Ncfsg
-(	Z
-PU	Npmsn
-)	Z
-Ljubljana	Npfsn
-so	Va-r3p-n
-pred	Si
-kratkim	Agpnsi
-končali	Vmep-pm
-zaslišanja	Ncnpa
-vpletenih	Appmpg
-v	Sa
-deset	Mlc-pa
-let	Ncnpg
-stare	Agpmpa
-posle	Ncmpa
-z	Si
-delnicami	Ncfpi
-MK	Ncfsn
-Založbe	Ncfsg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-povedali	Vmep-pm
-na	Sa
-PU	Ncmsn
-Ljubljana	Npfsn
-,	Z
-so	Va-r3p-n
-poročilo	Ncnsa
-konec	Sg
-minulega	Appmsg
-meseca	Ncmsg
-že	Q
-dopolnili	Vmep-pm
-in	Cc
-poslali	Vmep-pm
-okrožnemu	Agpnsd
-državnemu	Agpnsd
-tožilstvu	Ncnsd
-v	Sl
-Ljubljani	Npfsl
-,	Z
-kjer	Cs
-pa	Cc
-odločitve	Ncfpn
-za	Sa
-zdaj	Rgp
-še	Q
-niso	Va-r3p-y
-sprejeli	Vmep-pm
-.	Z
-Spomnimo	Vmer1p
-,	Z
-da	Cs
-je	Va-r3s-n
-tožilstvo	Ncnsn
-pred	Si
-tremi	Mlcnpi
-leti	Ncnpi
-ovadbo	Ncfsa
-malih	Agpmpg
-delničarjev	Ncmpg
-MK	Npfsn
-Založbe	Ncfsg
-že	Q
-zavrglo	Vmep-sn
-,	Z
-kriminalisti	Ncmpn
-pa	Cc
-tedaj	Rgp
-po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-niso	Va-r3p-y
-zaslišali	Vmep-pm
-niti	Q
-ene	Mlpfsg
-osebe	Ncfsg
-,	Z
-vpletene	Appmpa
-v	Sa
-posle	Ncmpa
-z	Si
-delnicami	Ncfpi
-MK	Ncfsn
-Založbe	Ncfsg
-.	Z
-Primer	Ncmsan
-so	Va-r3p-n
-na	Sl
-tožilstvu	Ncnsl
-znova	Rgp
-odprli	Vmep-pm
-šele	Q
-,	Z
-ko	Cs
-smo	Va-r1p-n
-delniške	Agpfpa
-malverzacije	Ncfpa
-mariborske	Agpfsg
-nadškofije	Ncfsg
-avgusta	Ncmsg
-letos	Rgp
-razkrili	Vmep-pm
-v	Sl
-Dnevniku	Ncmsl
-.	Z
-Šest	Mlc-pa
-oseb	Ncfpg
-na	Sl
-pogovoru	Ncmsl
-na	Sl
-policiji	Ncfsl
-S	Si
-kom	Pq-msi
-so	Va-r3p-n
-tokrat	Rgp
-kriminalisti	Ncmpn
-opravili	Vmep-pm
-pogovore	Ncmpa
-,	Z
-na	Sl
-PU	Ncmsn
-Ljubljana	Npfsn
-niso	Va-r3p-y
-želeli	Vmpp-pm
-pojasniti	Vmen
-.	Z
-Povedali	Vmep-pm
-so	Va-r3p-n
-zgolj	Q
-,	Z
-da	Cs
-so	Va-r3p-n
-»	Z
-obvestila	Ncnpa
-zbirali	Vmpp-pm
-pri	Sl
-šestih	Mlc-pl
-osebah	Ncfpl
-«	Z
-.	Z
-Toda	Cc
-med	Si
-temi	Pd-mpi
-po	Sl
-dostopnih	Agpmpl
-podatkih	Ncmpl
-ni	Va-r3s-y
-bilo	Va-p-sn
-ne	Cc
-Stresa	Ncmsg
-ne	Q
-Krambergerja	Npmsg
-,	Z
-čeprav	Cs
-sta	Va-r3d-n
-se	Px------y
-oba	Pg-mdn
-podpisala	Vmep-dm
-pod	Sa
-vse	Pg-fsa
-domnevno	Rgp
-sporne	Agpfsg
-kupoprodajne	Agpfsg
-pogodbe	Ncfsg
-,	Z
-edina	Agpfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-imela	Vmpp-sf
-korist	Ncfsa
-od	Sg
-poslov	Ncmpg
-z	Si
-delnicami	Ncfpi
-MK	Ncfsn
-Založbe	Ncfsg
-,	Z
-pa	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-mariborska	Agpfsn
-nadškofija	Ncfsn
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-namreč	Cc
-decembra	Ncmsg
-2003	Mdc
-od	Sg
-Krekove	Aspfsg
-družbe	Ncfsg
-kupila	Vmep-sf
-večji	Agcmsay
-paket	Ncmsan
-delnic	Ncfpg
-MK	Ncfsn
-Založbe	Ncfsg
-in	Cc
-ga	Pp3msa--y
-še	Q
-isti	Pi-msa
-dan	Ncmsan
-s	Si
-600.000	Mdc
-evri	Ncmpi
-dobička	Ncmsg
-preprodala	Vmep-sf
-naprej	Rgp
-Etolu	Npmsd
-.	Z
-Zgodba	Ncfsn
-se	Px------y
-je	Va-r3s-n
-ponovila	Vmep-sf
-februarja	Ncmsg
-2004	Mdc
-,	Z
-le	Q
-da	Cs
-je	Va-r3s-n
-nadškofija	Ncfsn
-delnice	Ncfsg
-kupila	Vmep-sf
-od	Sg
-NFD	Npmsn
-1	Mdc
-,	Z
-dobiček	Ncmsn
-pri	Sl
-tem	Pd-msl
-poslu	Ncmsl
-pa	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-še	Q
-nekoliko	Rgp
-večji	Agcmsny
-.	Z
-Milijonska	Agpnpn
-sredstva	Ncnpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-s	Si
-temi	Pd-mpi
-posli	Ncmpi
-zaslužila	Vmep-sf
-Nadškofija	Npfsn
-Maribor	Npmsn
-,	Z
-je	Va-r3s-n
-zagotovil	Vmep-sm
-prav	Q
-Zvon	Ncmsn
-Ena	Mlpfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-pokril	Vmep-sm
-tudi	Q
-izgube	Ncfpa
-nekaterih	Pi-mpg
-vpletenih	Appmpg
-v	Sa
-posle	Ncmpa
-.	Z
-Tožilstvo	Ncnsa
-ponovno	Rgp
-odprlo	Vmep-sn
-primer	Ncmsan
-Poleg	Sg
-obeh	Pg-mdg
-nekdanjih	Agpmdg
-nadškofov	Ncmdg
-so	Va-r3p-n
-imeli	Vmpp-pm
-pri	Sl
-preprodaji	Ncfsl
-delnic	Ncfpg
-MK	Ncmsn
-Založbe	Ncfsg
-pomembno	Agpfsa
-vlogo	Ncfsa
-tudi	Q
-nekdanji	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-Zvona	Ncmsg
-Ena	Mlpfsn
-Holdinga	Ncmsg
-Simon	Npmsn
-Zdolšek	Npmsn
-,	Z
-ki	Cs
-nam	Pp1-pd
-je	Va-r3s-n
-pogovor	Ncmsn
-s	Si
-kriminalisti	Ncmpi
-potrdil	Vmep-sm
-,	Z
-nekdanja	Agpfsn
-članica	Ncfsn
-uprave	Ncfsg
-Zvona	Ncmsg
-Ena	Mlpfsn
-Mateja	Npfsn
-Vidnar	Npfsn
-Stiplošek	Npfsn
-,	Z
-nekdanji	Agpmsny
-predsednik	Ncmsn
-uprave	Ncfsg
-družbe	Ncfsg
-za	Sa
-upravljanje	Ncnsa
-NFD	Npmsn
-DZU	Npmsn
-Stanislav	Npmsn
-Valant	Npmsn
-,	Z
-bivši	Agpmsny
-direktor	Ncmsn
-Etola	Npmsg
-Ivan	Npmsn
-Ferme	Npmsn
-ter	Cc
-nekdanja	Agpmdn
-člana	Ncmdn
-poslovodstva	Ncnsg
-Krekove	Aspfsg
-družbe	Ncfsg
-za	Sa
-upravljanje	Ncnsa
-(	Z
-ta	Pd-msn
-je	Va-r3s-n
-dolga	Agpnpa
-leta	Ncnpa
-upravljala	Vmpp-sf
-Zvon	Ncmsan
-Ena	Mlpfsn
-)	Z
-Franc	Npmsn
-Ješovnik	Npmsn
-in	Cc
-Roza	Npmsn
-Mlakar	Npmsn
-Kukovič	Npmsn
-.	Z
-Zakaj	Rgp
-kriminalisti	Ncmpn
-pogovorov	Ncmpg
-z	Si
-vpletenimi	Appmpi
-niso	Va-r3p-y
-opravili	Vmep-pm
-že	Q
-pred	Si
-petimi	Mlc-pi
-leti	Ncnpi
-,	Z
-na	Sl
-policiji	Ncfsl
-ne	Q
-razkrivajo	Vmpr3p
-.	Z
-Dokler	Cs
-avgusta	Ncmsg
-letos	Rgp
-teh	Pd-mpg
-poslov	Ncmpg
-nismo	Va-r1p-y
-razkrili	Vmep-pm
-v	Sl
-Dnevniku	Ncmsl
-,	Z
-delniške	Agpfpn
-malverzacije	Ncfpn
-mariborske	Agpfsg
-nadškofije	Ncfsg
-pretirano	Rgp
-niso	Va-r3p-y
-zanimale	Vmpp-pf
-niti	Q
-tožilcev	Ncmpg
-.	Z
-Ker	Cs
-nam	Pp1-pd
-na	Sa
-vprašanja	Ncnpa
-na	Sl
-tožilstvu	Ncnsl
-in	Cc
-policiji	Ncfsl
-niso	Va-r3p-y
-želeli	Vmpp-pm
-odgovarjati	Vmpn
-,	Z
-smo	Va-r1p-n
-v	Sl
-Dnevniku	Ncmsl
-avgusta	Ncmsg
-po	Sl
-zakonu	Ncmsl
-o	Sl
-dostopu	Ncmsl
-do	Sg
-javnih	Agpfpg
-informacij	Ncfpg
-zahtevali	Vmbp-pm
-razkritje	Ncnsa
-poteka	Ncfsn
-prvotnega	Agpmsg
-,	Z
-že	Q
-končanega	Appmsg
-predkazenskega	Agpmsg
-postopka	Ncmsg
-.	Z
-Toda	Cc
-tik	Rgp
-preden	Cs
-je	Va-r3s-n
-minil	Vmep-sm
-rok	Ncmsn
-,	Z
-v	Sl
-katerem	Pq-msl
-bi	Va-c
-morali	Vmpp-pm
-dobiti	Vmen
-odgovore	Ncmpa
-,	Z
-so	Va-r3p-n
-se	Px------y
-na	Sl
-tožilstvu	Ncnsl
-odločili	Vmep-pm
-,	Z
-da	Cs
-primer	Ncmsan
-ponovno	Rgp
-odprejo	Vmer3p
-in	Cc
-od	Sg
-policije	Ncfsg
-zahtevajo	Vmbr3p
-dopolnitev	Ncfsa
-poročila	Ncnsg
-.	Z
+token	tag	lemma
+Kriminalisti	mte:Ncmpn	kriminalist
+so	mte:Va-r3p-n	biti
+končali	mte:Vmep-pm	končati
+pogovore	mte:Ncmpa	pogovor
+z	mte:Si	z
+vpletenimi	mte:Appmpi	vpleten
+v	mte:Sa	v
+domnevno	mte:Agpfsa	domneven
+sporno	mte:Agpfsa	sporen
+preprodajo	mte:Ncfsa	preprodaja
+delnic	mte:Ncfpg	delnica
+MK	mte:Ncfsg	MK
+Založbe	mte:Ncfsg	založba
+.	mte:Z	.
+A	mte:Cc	a
+med	mte:Si	med
+zaslišanimi	mte:Appmpi	zaslišan
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+Antona	mte:Npmsg	Anton
+Stresa	mte:Npmsg	Stres
+in	mte:Cc	in
+Franca	mte:Npmsg	Franc
+Krambergerja	mte:Npmsg	Kramberger
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+s	mte:Si	z
+temi	mte:Pd-mpi	ta
+posli	mte:Ncmpi	posel
+mariborski	mte:Agpfsd	mariborski
+nadškofiji	mte:Ncfsd	nadškofija
+zagotovila	mte:Vmep-dm	zagotoviti
+milijonsko	mte:Agpfsa	milijonski
+finančno	mte:Agpfsa	finančen
+korist	mte:Ncfsa	korist
+.	mte:Z	.
+Primer	mte:Ncmsan	primer
+domnevno	mte:Rgp	domnevno
+sporne	mte:Agpfsg	sporen
+preprodaje	mte:Ncfsg	preprodaja
+delnic	mte:Ncfpg	delnica
+Mladinske	mte:Agpfsg	mladinski
+knjige	mte:Ncfsg	knjiga
+(	mte:Z	(
+MK	mte:Npmsn	MK
+)	mte:Z	)
+Založbe	mte:Ncfsg	založba
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+sta	mte:Va-r3d-n	biti
+zdaj	mte:Rgp	zdaj
+že	mte:Q	že
+upokojena	mte:Appmdn	upokojen
+nadškofa	mte:Ncmdn	nadškof
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Anton	mte:Npmsn	Anton
+Stres	mte:Npmsn	Stres
+in	mte:Cc	in
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Franc	mte:Npmsn	Franc
+Kramberger	mte:Npmsn	Kramberger
+mariborski	mte:Agpfsd	mariborski
+nadškofiji	mte:Ncfsd	nadškofija
+zagotovila	mte:Vmep-dm	zagotoviti
+skoraj	mte:Q	skoraj
+1,3	mte:Mdc	1,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+dobička	mte:Ncmsg	dobiček
+na	mte:Sa	na
+račun	mte:Ncmsan	račun
+drugih	mte:Mlpnpg	drug
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ponovno	mte:Rgp	ponovno
+na	mte:Sl	na
+mizi	mte:Ncfsl	miza
+tožilcev	mte:Ncmpg	tožilec
+.	mte:Z	.
+Ti	mte:Pd-mpn	ta
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+odločiti	mte:Vmen	odločiti
+,	mte:Z	,
+ali	mte:Rgp	ali
+bodo	mte:Va-f3p-n	biti
+tokrat	mte:Rgp	tokrat
+zahtevali	mte:Vmbp-pm	zahtevati
+kazenski	mte:Agpmsay	kazenski
+pregon	mte:Ncmsan	pregon
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+ovadbo	mte:Ncfsa	ovadba
+(	mte:Z	(
+ponovno	mte:Rgp	ponovno
+)	mte:Z	)
+zavrgli	mte:Vmep-pm	zavreči
+.	mte:Z	.
+Kriminalisti	mte:Ncmpn	kriminalist
+policijske	mte:Agpfsg	policijski
+uprave	mte:Ncfsg	uprava
+(	mte:Z	(
+PU	mte:Npmsn	PU
+)	mte:Z	)
+Ljubljana	mte:Npfsn	Ljubljana
+so	mte:Va-r3p-n	biti
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+končali	mte:Vmep-pm	končati
+zaslišanja	mte:Ncnpa	zaslišanje
+vpletenih	mte:Appmpg	vpleten
+v	mte:Sa	v
+deset	mte:Mlc-pa	deset
+let	mte:Ncnpg	leto
+stare	mte:Agpmpa	star
+posle	mte:Ncmpa	posel
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+MK	mte:Ncfsn	MK
+Založbe	mte:Ncfsg	založba
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+na	mte:Sa	na
+PU	mte:Ncmsn	PU
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+poročilo	mte:Ncnsa	poročilo
+konec	mte:Sg	konec
+minulega	mte:Appmsg	minul
+meseca	mte:Ncmsg	mesec
+že	mte:Q	že
+dopolnili	mte:Vmep-pm	dopolniti
+in	mte:Cc	in
+poslali	mte:Vmep-pm	poslati
+okrožnemu	mte:Agpnsd	okrožen
+državnemu	mte:Agpnsd	državen
+tožilstvu	mte:Ncnsd	tožilstvo
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+kjer	mte:Cs	kjer
+pa	mte:Cc	pa
+odločitve	mte:Ncfpn	odločitev
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+sprejeli	mte:Vmep-pm	sprejeti
+.	mte:Z	.
+Spomnimo	mte:Vmer1p	spomniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tožilstvo	mte:Ncnsn	tožilstvo
+pred	mte:Si	pred
+tremi	mte:Mlcnpi	trije
+leti	mte:Ncnpi	leto
+ovadbo	mte:Ncfsa	ovadba
+malih	mte:Agpmpg	mali
+delničarjev	mte:Ncmpg	delničar
+MK	mte:Npfsn	MK
+Založbe	mte:Ncfsg	založba
+že	mte:Q	že
+zavrglo	mte:Vmep-sn	zavreči
+,	mte:Z	,
+kriminalisti	mte:Ncmpn	kriminalist
+pa	mte:Cc	pa
+tedaj	mte:Rgp	tedaj
+po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+niso	mte:Va-r3p-y	biti
+zaslišali	mte:Vmep-pm	zaslišati
+niti	mte:Q	niti
+ene	mte:Mlpfsg	en
+osebe	mte:Ncfsg	oseba
+,	mte:Z	,
+vpletene	mte:Appmpa	vpleten
+v	mte:Sa	v
+posle	mte:Ncmpa	posel
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+MK	mte:Ncfsn	MK
+Založbe	mte:Ncfsg	založba
+.	mte:Z	.
+Primer	mte:Ncmsan	primer
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+tožilstvu	mte:Ncnsl	tožilstvo
+znova	mte:Rgp	znova
+odprli	mte:Vmep-pm	odpreti
+šele	mte:Q	šele
+,	mte:Z	,
+ko	mte:Cs	ko
+smo	mte:Va-r1p-n	biti
+delniške	mte:Agpfpa	delniški
+malverzacije	mte:Ncfpa	malverzacija
+mariborske	mte:Agpfsg	mariborski
+nadškofije	mte:Ncfsg	nadškofija
+avgusta	mte:Ncmsg	avgust
+letos	mte:Rgp	letos
+razkrili	mte:Vmep-pm	razkriti
+v	mte:Sl	v
+Dnevniku	mte:Ncmsl	dnevnik
+.	mte:Z	.
+Šest	mte:Mlc-pa	šest
+oseb	mte:Ncfpg	oseba
+na	mte:Sl	na
+pogovoru	mte:Ncmsl	pogovor
+na	mte:Sl	na
+policiji	mte:Ncfsl	policija
+S	mte:Si	z
+kom	mte:Pq-msi	kdo
+so	mte:Va-r3p-n	biti
+tokrat	mte:Rgp	tokrat
+kriminalisti	mte:Ncmpn	kriminalist
+opravili	mte:Vmep-pm	opraviti
+pogovore	mte:Ncmpa	pogovor
+,	mte:Z	,
+na	mte:Sl	na
+PU	mte:Ncmsn	PU
+Ljubljana	mte:Npfsn	Ljubljana
+niso	mte:Va-r3p-y	biti
+želeli	mte:Vmpp-pm	želeti
+pojasniti	mte:Vmen	pojasniti
+.	mte:Z	.
+Povedali	mte:Vmep-pm	povedati
+so	mte:Va-r3p-n	biti
+zgolj	mte:Q	zgolj
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+»	mte:Z	»
+obvestila	mte:Ncnpa	obvestilo
+zbirali	mte:Vmpp-pm	zbirati
+pri	mte:Sl	pri
+šestih	mte:Mlc-pl	šest
+osebah	mte:Ncfpl	oseba
+«	mte:Z	«
+.	mte:Z	.
+Toda	mte:Cc	toda
+med	mte:Si	med
+temi	mte:Pd-mpi	ta
+po	mte:Sl	po
+dostopnih	mte:Agpmpl	dostopen
+podatkih	mte:Ncmpl	podatek
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+ne	mte:Cc	ne
+Stresa	mte:Ncmsg	stres
+ne	mte:Q	ne
+Krambergerja	mte:Npmsg	Kramberger
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+oba	mte:Pg-mdn	oba
+podpisala	mte:Vmep-dm	podpisati
+pod	mte:Sa	pod
+vse	mte:Pg-fsa	ves
+domnevno	mte:Rgp	domnevno
+sporne	mte:Agpfsg	sporen
+kupoprodajne	mte:Agpfsg	kupoprodajen
+pogodbe	mte:Ncfsg	pogodba
+,	mte:Z	,
+edina	mte:Agpfsn	edin
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+imela	mte:Vmpp-sf	imeti
+korist	mte:Ncfsa	korist
+od	mte:Sg	od
+poslov	mte:Ncmpg	posel
+z	mte:Si	z
+delnicami	mte:Ncfpi	delnica
+MK	mte:Ncfsn	MK
+Založbe	mte:Ncfsg	založba
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+mariborska	mte:Agpfsn	mariborski
+nadškofija	mte:Ncfsn	nadškofija
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+decembra	mte:Ncmsg	december
+2003	mte:Mdc	2003
+od	mte:Sg	od
+Krekove	mte:Aspfsg	krekov
+družbe	mte:Ncfsg	družba
+kupila	mte:Vmep-sf	kupiti
+večji	mte:Agcmsay	velik
+paket	mte:Ncmsan	paket
+delnic	mte:Ncfpg	delnica
+MK	mte:Ncfsn	MK
+Založbe	mte:Ncfsg	založba
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+še	mte:Q	še
+isti	mte:Pi-msa	isti
+dan	mte:Ncmsan	dan
+s	mte:Si	z
+600.000	mte:Mdc	600.000
+evri	mte:Ncmpi	evro
+dobička	mte:Ncmsg	dobiček
+preprodala	mte:Vmep-sf	preprodati
+naprej	mte:Rgp	naprej
+Etolu	mte:Npmsd	Etol
+.	mte:Z	.
+Zgodba	mte:Ncfsn	zgodba
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ponovila	mte:Vmep-sf	ponoviti
+februarja	mte:Ncmsg	februar
+2004	mte:Mdc	2004
+,	mte:Z	,
+le	mte:Q	le
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+nadškofija	mte:Ncfsn	nadškofija
+delnice	mte:Ncfsg	delnica
+kupila	mte:Vmep-sf	kupiti
+od	mte:Sg	od
+NFD	mte:Npmsn	NFD
+1	mte:Mdc	1
+,	mte:Z	,
+dobiček	mte:Ncmsn	dobiček
+pri	mte:Sl	pri
+tem	mte:Pd-msl	ta
+poslu	mte:Ncmsl	posel
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+še	mte:Q	še
+nekoliko	mte:Rgp	nekoliko
+večji	mte:Agcmsny	velik
+.	mte:Z	.
+Milijonska	mte:Agpnpn	milijonski
+sredstva	mte:Ncnpn	sredstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+temi	mte:Pd-mpi	ta
+posli	mte:Ncmpi	posel
+zaslužila	mte:Vmep-sf	zaslužiti
+Nadškofija	mte:Npfsn	Nadškofija
+Maribor	mte:Npmsn	Maribor
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zagotovil	mte:Vmep-sm	zagotoviti
+prav	mte:Q	prav
+Zvon	mte:Ncmsn	zvon
+Ena	mte:Mlpfsn	en
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+pokril	mte:Vmep-sm	pokriti
+tudi	mte:Q	tudi
+izgube	mte:Ncfpa	izguba
+nekaterih	mte:Pi-mpg	nekateri
+vpletenih	mte:Appmpg	vpleten
+v	mte:Sa	v
+posle	mte:Ncmpa	posel
+.	mte:Z	.
+Tožilstvo	mte:Ncnsa	tožilstvo
+ponovno	mte:Rgp	ponovno
+odprlo	mte:Vmep-sn	odpreti
+primer	mte:Ncmsan	primer
+Poleg	mte:Sg	poleg
+obeh	mte:Pg-mdg	oba
+nekdanjih	mte:Agpmdg	nekdanji
+nadškofov	mte:Ncmdg	nadškof
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+pri	mte:Sl	pri
+preprodaji	mte:Ncfsl	preprodaja
+delnic	mte:Ncfpg	delnica
+MK	mte:Ncmsn	MK
+Založbe	mte:Ncfsg	založba
+pomembno	mte:Agpfsa	pomemben
+vlogo	mte:Ncfsa	vloga
+tudi	mte:Q	tudi
+nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Zvona	mte:Ncmsg	zvona
+Ena	mte:Mlpfsn	en
+Holdinga	mte:Ncmsg	holdinga
+Simon	mte:Npmsn	Simon
+Zdolšek	mte:Npmsn	Zdolšek
+,	mte:Z	,
+ki	mte:Cs	ki
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+pogovor	mte:Ncmsn	pogovor
+s	mte:Si	z
+kriminalisti	mte:Ncmpi	kriminalist
+potrdil	mte:Vmep-sm	potrditi
+,	mte:Z	,
+nekdanja	mte:Agpfsn	nekdanji
+članica	mte:Ncfsn	članica
+uprave	mte:Ncfsg	uprava
+Zvona	mte:Ncmsg	zvona
+Ena	mte:Mlpfsn	en
+Mateja	mte:Npfsn	Mateja
+Vidnar	mte:Npfsn	Vidnar
+Stiplošek	mte:Npfsn	Stiplošek
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+družbe	mte:Ncfsg	družba
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+NFD	mte:Npmsn	NFD
+DZU	mte:Npmsn	DZU
+Stanislav	mte:Npmsn	Stanislav
+Valant	mte:Npmsn	Valant
+,	mte:Z	,
+bivši	mte:Agpmsny	bivši
+direktor	mte:Ncmsn	direktor
+Etola	mte:Npmsg	Etol
+Ivan	mte:Npmsn	Ivan
+Ferme	mte:Npmsn	Ferme
+ter	mte:Cc	ter
+nekdanja	mte:Agpmdn	nekdanji
+člana	mte:Ncmdn	član
+poslovodstva	mte:Ncnsg	poslovodstvo
+Krekove	mte:Aspfsg	krekov
+družbe	mte:Ncfsg	družba
+za	mte:Sa	za
+upravljanje	mte:Ncnsa	upravljanje
+(	mte:Z	(
+ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+dolga	mte:Agpnpa	dolg
+leta	mte:Ncnpa	leto
+upravljala	mte:Vmpp-sf	upravljati
+Zvon	mte:Ncmsan	zvon
+Ena	mte:Mlpfsn	en
+)	mte:Z	)
+Franc	mte:Npmsn	Franc
+Ješovnik	mte:Npmsn	Ješovnik
+in	mte:Cc	in
+Roza	mte:Npmsn	Roza
+Mlakar	mte:Npmsn	Mlakar
+Kukovič	mte:Npmsn	Kukovič
+.	mte:Z	.
+Zakaj	mte:Rgp	zakaj
+kriminalisti	mte:Ncmpn	kriminalist
+pogovorov	mte:Ncmpg	pogovor
+z	mte:Si	z
+vpletenimi	mte:Appmpi	vpleten
+niso	mte:Va-r3p-y	biti
+opravili	mte:Vmep-pm	opraviti
+že	mte:Q	že
+pred	mte:Si	pred
+petimi	mte:Mlc-pi	pet
+leti	mte:Ncnpi	leto
+,	mte:Z	,
+na	mte:Sl	na
+policiji	mte:Ncfsl	policija
+ne	mte:Q	ne
+razkrivajo	mte:Vmpr3p	razkrivati
+.	mte:Z	.
+Dokler	mte:Cs	dokler
+avgusta	mte:Ncmsg	avgust
+letos	mte:Rgp	letos
+teh	mte:Pd-mpg	ta
+poslov	mte:Ncmpg	posel
+nismo	mte:Va-r1p-y	biti
+razkrili	mte:Vmep-pm	razkriti
+v	mte:Sl	v
+Dnevniku	mte:Ncmsl	dnevnik
+,	mte:Z	,
+delniške	mte:Agpfpn	delniški
+malverzacije	mte:Ncfpn	malverzacija
+mariborske	mte:Agpfsg	mariborski
+nadškofije	mte:Ncfsg	nadškofija
+pretirano	mte:Rgp	pretirano
+niso	mte:Va-r3p-y	biti
+zanimale	mte:Vmpp-pf	zanimati
+niti	mte:Q	niti
+tožilcev	mte:Ncmpg	tožilec
+.	mte:Z	.
+Ker	mte:Cs	ker
+nam	mte:Pp1-pd	jaz
+na	mte:Sa	na
+vprašanja	mte:Ncnpa	vprašanje
+na	mte:Sl	na
+tožilstvu	mte:Ncnsl	tožilstvo
+in	mte:Cc	in
+policiji	mte:Ncfsl	policija
+niso	mte:Va-r3p-y	biti
+želeli	mte:Vmpp-pm	želeti
+odgovarjati	mte:Vmpn	odgovarjati
+,	mte:Z	,
+smo	mte:Va-r1p-n	biti
+v	mte:Sl	v
+Dnevniku	mte:Ncmsl	dnevnik
+avgusta	mte:Ncmsg	avgust
+po	mte:Sl	po
+zakonu	mte:Ncmsl	zakon
+o	mte:Sl	o
+dostopu	mte:Ncmsl	dostop
+do	mte:Sg	do
+javnih	mte:Agpfpg	javen
+informacij	mte:Ncfpg	informacija
+zahtevali	mte:Vmbp-pm	zahtevati
+razkritje	mte:Ncnsa	razkritje
+poteka	mte:Ncfsn	potekati
+prvotnega	mte:Agpmsg	prvoten
+,	mte:Z	,
+že	mte:Q	že
+končanega	mte:Appmsg	končan
+predkazenskega	mte:Agpmsg	predkazenski
+postopka	mte:Ncmsg	postopek
+.	mte:Z	.
+Toda	mte:Cc	toda
+tik	mte:Rgp	tik
+preden	mte:Cs	preden
+je	mte:Va-r3s-n	biti
+minil	mte:Vmep-sm	miniti
+rok	mte:Ncmsn	rok
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+dobiti	mte:Vmen	dobiti
+odgovore	mte:Ncmpa	odgovor
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+tožilstvu	mte:Ncnsl	tožilstvo
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+primer	mte:Ncmsan	primer
+ponovno	mte:Rgp	ponovno
+odprejo	mte:Vmer3p	odpreti
+in	mte:Cc	in
+od	mte:Sg	od
+policije	mte:Ncfsg	policija
+zahtevajo	mte:Vmbr3p	zahtevati
+dopolnitev	mte:Ncfsa	dopolnitev
+poročila	mte:Ncnsg	poročilo
+.	mte:Z	.
+Odprtje	mte:Ncnsa	odprtje
+predkazenskega	mte:Agpmsg	predkazenski
+postopka	mte:Ncmsg	postopek
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+policiji	mte:Ncfsl	policija
+nato	mte:Rgp	nato
+tudi	mte:Q	tudi
+izkoristili	mte:Vmep-pm	izkoristiti
+za	mte:Sa	za
+zavrnitev	mte:Ncfsa	zavrnitev
+naše	mte:Ps1fsgp	naš
+zahteve	mte:Ncfsg	zahteva
+po	mte:Sl	po
+razkritju	mte:Ncnsl	razkritje
+informacij	mte:Ncfpg	informacija
+,	mte:Z	,
+češ	mte:Q	češ
+da	mte:Cs	da
+bi	mte:Va-c	biti
+to	mte:Pd-nsn	ta
+»	mte:Z	»
+škodovalo	mte:Vmbp-sn	škodovati
+interesom	mte:Ncmpd	interes
+predkazenskega	mte:Agpmsg	predkazenski
+postopka	mte:Ncmsg	postopek
+«	mte:Z	«

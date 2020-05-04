@@ -1,361 +1,392 @@
-token	tag
-Slovenski	Agpmsny
-predsednik	Ncmsn
-Danilo	Npmsn
-Türk	Npmsn
-in	Cc
-premier	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-se	Px------y
-bosta	Va-f3d-n
-v	Sa
-nedeljo	Ncfsa
-skupaj	Rgp
-s	Si
-predsednikom	Ncmsi
-DZ	Npmsi
-Pavletom	Npmsi
-Gantarjem	Npmsi
-poklonila	Vmep-dm
-žrtvam	Ncfpd
-povojnih	Agpmpg
-pobojev	Ncmpg
-v	Sl
-grobišču	Ncnsl
-Huda	Agpfsn
-Jama	Npfsn
-.	Z
-Od	Sg
-odkritja	Ncnsg
-povojnega	Agpnsg
-grobišča	Ncnsg
-v	Sl
-rovu	Ncmsl
-Barbara	Npfsn
-v	Sl
-Hudi	Agpfsl
-jami	Ncfsl
-pri	Sl
-Laškem	Npnsl
-mineva	Vmpr3s
-že	Q
-več	Rgc
-kot	Cs
-pol	Rgp
-leta	Ncnsg
-.	Z
-Odkritje	Ncnsn
-grobišča	Ncnsg
-tretjega	Mlomsg
-marca	Ncmsg
-ni	Va-r3s-y
-šokiralo	Vmbp-sn
-samo	Q
-slovenske	Agpfsg
-javnosti	Ncfsg
-,	Z
-ampak	Cc
-tudi	Q
-hrvaško	Agpnsn
-,	Z
-saj	Cc
-se	Px------y
-je	Va-r3s-n
-žrtvam	Ncfpd
-pobojem	Ncmpd
-nekaj	Rgp
-dni	Ncmpg
-zatem	Rgp
-poklonila	Vmep-sf
-tudi	Q
-takratna	Agpfsn
-hrvaška	Agpfsn
-podpredsednica	Ncfsn
-vlade	Ncfsg
-in	Cc
-sedanja	Agpfsn
-premierka	Ncfsn
-Jadranka	Npfsn
-Kosor	Npfsn
-.	Z
-Slovensko	Agpfsa
-delegacijo	Ncfsa
-pa	Cc
-je	Va-r3s-n
-takrat	Rgp
-zastopala	Vmpp-sf
-državna	Agpfsn
-sekretarka	Ncfsn
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-delo	Ncnsa
-,	Z
-družino	Ncfsa
-in	Cc
-socialne	Agpfpa
-zadeve	Ncfpa
-Anja	Npfsn
-Kopač	Npfsn
-Mrak	Npfsn
-.	Z
-Pred	Si
-tem	Pd-nsi
-pa	Cc
-si	Px---d--y
-je	Va-r3s-n
-jamo	Ncfsa
-ogledala	Vmep-sf
-notranja	Agpfsn
-ministrica	Ncfsn
-Katarina	Npfsn
-Kresal	Npfsn
-.	Z
-Žrtvam	Ncfpd
-povojnega	Agpnsg
-grobišča	Ncnsg
-v	Sl
-rovu	Ncmsl
-Barbara	Npfsn
-v	Sl
-Hudi	Agpfsl
-jami	Ncfsl
-se	Px------y
-je	Va-r3s-n
-le	Q
-nekaj	Rgp
-dni	Ncmpg
-po	Sl
-odkritju	Ncnsl
-poklonila	Vmep-sf
-takratna	Agpfsn
-podpredsednica	Ncfsn
-vlade	Ncfsg
-Jadranka	Npfsn
-Kosor	Npfsn
-.	Z
-Foto	Npmsn
-:	Z
-Gregor	Npmsn
-Katič	Npmsn
-Pogrešali	Vmpp-pm
-Türka	Npmsay
-in	Cc
-Pahorja	Npmsay
-Že	Q
-vse	Pg-nsa
-od	Sg
-odkritja	Ncnsg
-grobišča	Ncnsg
-je	Va-r3s-n
-bila	Va-p-sf
-javnost	Ncfsn
-kritična	Agpfsn
-predvsem	Q
-do	Sg
-slovenskega	Agpmsg
-predsednika	Ncmsg
-Danila	Npmsg
-Türka	Npmsg
-in	Cc
-premierja	Ncmsg
-Boruta	Npmsg
-Pahorja	Npmsg
-,	Z
-saj	Cc
-se	Px------y
-do	Sg
-danes	Rgp
-še	Q
-nista	Va-r3d-y
-poklonila	Vmep-dm
-žrtvam	Ncfpd
-tega	Pd-nsg
-grobišča	Ncnsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-takrat	Rgp
-dejal	Vmep-sm
-Türk	Npmsn
-se	Px------y
-bo	Va-f3s-n
-žrtvam	Ncfpd
-poklonil	Vmep-sm
-takrat	Rgp
-,	Z
-ko	Cs
-bodo	Va-f3p-n
-forenziki	Ncmpn
-in	Cc
-drugi	Mlpmpn
-strokovnjaki	Ncmpn
-zaključili	Vmep-pm
-svoje	Px-nsa
-delo	Ncnsa
-.	Z
-Pahor	Npmsn
-pa	Cc
-se	Px------y
-je	Va-r3s-n
-zavzel	Vmep-sm
-za	Sa
-čimprejšen	Agpmsan
-sprejem	Ncmsan
-zakona	Ncmsg
-o	Sl
-vojnih	Agpnpl
-grobiščih	Ncnpl
-.	Z
-Odkritje	Ncnsn
-povojnega	Agpnsg
-grobišča	Ncnsg
-je	Va-r3s-n
-v	Sl
-začetku	Ncmsl
-marca	Ncmsg
-zgrozil	Vmep-sm
-slovensko	Agpfsa
-javnost	Ncfsa
-.	Z
-Foto	Ncmsn
-:	Z
-Žurnal24	Mdc
-Javnost	Ncfsn
-je	Va-r3s-n
-bila	Va-p-sf
-do	Sg
-Türka	Npmsg
-sicer	Q
-najbolj	Rgs
-kritična	Agpfsn
-zaradi	Sg
-izjave	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-izrekel	Vmep-sm
-v	Sa
-nedeljo	Ncfsa
-,	Z
-osmega	Mlomsg
-marca	Ncmsg
-med	Si
-obiskom	Ncmsi
-Trbovelj	Npfpg
-.	Z
-Takrat	Rgp
-je	Va-r3s-n
-na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-se	Px------y
-bo	Va-f3s-n
-šel	Vmbp-sm
-poklonit	Vmen
-žrtvam	Ncfpd
-povojnih	Agpmpg
-pobojev	Ncmpg
-v	Sl
-rovu	Ncmsl
-Barbara	Npfsn
-v	Sl
-Hudi	Agpfsl
-jami	Ncfsl
-pri	Sl
-Laškem	Npnsl
-odgovoril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sl
-Trbovljah	Npfpl
-zaradi	Sg
-prvorazredne	Agpfsg
-teme	Ncfsg
-in	Cc
-da	Cs
-zato	Cc
-o	Sl
-drugorazrednih	Agpfpl
-temah	Ncfpl
-ne	Q
-bo	Va-f3s-n
-govoril	Vmpp-sm
-.	Z
-Izjavo	Ncfsa
-je	Va-r3s-n
-dan	Ncmsn
-za	Si
-tem	Pd-msi
-Türk	Npmsn
-pojasnil	Vmep-sm
-v	Sl
-sporočilu	Ncnsl
-za	Sa
-javnost	Ncfsa
-:	Z
-"	Z
-Zaradi	Sg
-pravilnega	Agpnsg
-razumevanja	Ncnsg
-moje	Ps1fsgs
-včerajšnje	Agpfsg
-izjave	Ncfsg
-bi	Va-c
-želel	Vmpp-sm
-poudariti	Vmen
-,	Z
-da	Cs
-gre	Vmbr3s
-pri	Sl
-povojnih	Agpmpl
-pobojih	Ncmpl
-za	Sa
-pomembno	Agpfsa
-temo	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-se	Px------y
-Slovenija	Npfsn
-mora	Vmpr3s
-soočiti	Vmen
-.	Z
-Politično	Agpnsa
-manipuliranje	Ncnsa
-z	Si
-njo	Pp3fsi
-pa	Cc
-je	Va-r3s-n
-drugorazredno	Agpnsn
-in	Cc
-nesprejemljivo	Agpnsn
-.	Z
-"	Z
-Pobitih	Appmpg
-med	Si
-200	Mdc
-in	Cc
-300	Mdc
-ljudi	Ncmpg
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-so	Va-r3p-n
-v	Sl
-rovu	Ncmsl
-Barbara	Npfsn
-v	Sl
-začetku	Ncmsl
-marca	Ncmsg
-odkrili	Vmep-pm
-večje	Agcnsa
-število	Ncnsa
-posmrtnih	Agpmpg
-ostankov	Ncmpg
-.	Z
+token	tag	lemma
+Slovenski	mte:Agpmsny	slovenski
+predsednik	mte:Ncmsn	predsednik
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+in	mte:Cc	in
+premier	mte:Ncmsn	premier
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+se	mte:Px------y	se
+bosta	mte:Va-f3d-n	biti
+v	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+predsednikom	mte:Ncmsi	predsednik
+DZ	mte:Npmsi	DZ
+Pavletom	mte:Npmsi	Pavlet
+Gantarjem	mte:Npmsi	Gantar
+poklonila	mte:Vmep-dm	pokloniti
+žrtvam	mte:Ncfpd	žrtev
+povojnih	mte:Agpmpg	povojen
+pobojev	mte:Ncmpg	poboj
+v	mte:Sl	v
+grobišču	mte:Ncnsl	grobišče
+Huda	mte:Agpfsn	hud
+Jama	mte:Npfsn	Jam
+.	mte:Z	.
+Od	mte:Sg	od
+odkritja	mte:Ncnsg	odkritje
+povojnega	mte:Agpnsg	povojen
+grobišča	mte:Ncnsg	grobišče
+v	mte:Sl	v
+rovu	mte:Ncmsl	rov
+Barbara	mte:Npfsn	Barbara
+v	mte:Sl	v
+Hudi	mte:Agpfsl	hudi
+jami	mte:Ncfsl	jama
+pri	mte:Sl	pri
+Laškem	mte:Npnsl	Laško
+mineva	mte:Vmpr3s	minevati
+že	mte:Q	že
+več	mte:Rgc	več
+kot	mte:Cs	kot
+pol	mte:Rgp	pol
+leta	mte:Ncnsg	leto
+.	mte:Z	.
+Odkritje	mte:Ncnsn	odkritje
+grobišča	mte:Ncnsg	grobišče
+tretjega	mte:Mlomsg	tretji
+marca	mte:Ncmsg	marec
+ni	mte:Va-r3s-y	biti
+šokiralo	mte:Vmbp-sn	šokirati
+samo	mte:Q	samo
+slovenske	mte:Agpfsg	slovenski
+javnosti	mte:Ncfsg	javnost
+,	mte:Z	,
+ampak	mte:Cc	ampak
+tudi	mte:Q	tudi
+hrvaško	mte:Agpnsn	hrvaški
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+žrtvam	mte:Ncfpd	žrtev
+pobojem	mte:Ncmpd	poboj
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+zatem	mte:Rgp	zatem
+poklonila	mte:Vmep-sf	pokloniti
+tudi	mte:Q	tudi
+takratna	mte:Agpfsn	takraten
+hrvaška	mte:Agpfsn	hrvaški
+podpredsednica	mte:Ncfsn	podpredsednica
+vlade	mte:Ncfsg	vlada
+in	mte:Cc	in
+sedanja	mte:Agpfsn	sedanji
+premierka	mte:Ncfsn	premierka
+Jadranka	mte:Npfsn	Jadranka
+Kosor	mte:Npfsn	Kosor
+.	mte:Z	.
+Slovensko	mte:Agpfsa	slovenski
+delegacijo	mte:Ncfsa	delegacija
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+zastopala	mte:Vmpp-sf	zastopati
+državna	mte:Agpfsn	državen
+sekretarka	mte:Ncfsn	sekretarka
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+delo	mte:Ncnsa	delo
+,	mte:Z	,
+družino	mte:Ncfsa	družina
+in	mte:Cc	in
+socialne	mte:Agpfpa	socialen
+zadeve	mte:Ncfpa	zadeva
+Anja	mte:Npfsn	Anja
+Kopač	mte:Npfsn	Kopač
+Mrak	mte:Npfsn	Mrak
+.	mte:Z	.
+Pred	mte:Si	pred
+tem	mte:Pd-nsi	ta
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+je	mte:Va-r3s-n	biti
+jamo	mte:Ncfsa	jama
+ogledala	mte:Vmep-sf	ogledati
+notranja	mte:Agpfsn	notranji
+ministrica	mte:Ncfsn	ministrica
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+.	mte:Z	.
+Žrtvam	mte:Ncfpd	žrtev
+povojnega	mte:Agpnsg	povojen
+grobišča	mte:Ncnsg	grobišče
+v	mte:Sl	v
+rovu	mte:Ncmsl	rov
+Barbara	mte:Npfsn	Barbara
+v	mte:Sl	v
+Hudi	mte:Agpfsl	hudi
+jami	mte:Ncfsl	jama
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+le	mte:Q	le
+nekaj	mte:Rgp	nekaj
+dni	mte:Ncmpg	dan
+po	mte:Sl	po
+odkritju	mte:Ncnsl	odkritje
+poklonila	mte:Vmep-sf	pokloniti
+takratna	mte:Agpfsn	takraten
+podpredsednica	mte:Ncfsn	podpredsednica
+vlade	mte:Ncfsg	vlada
+Jadranka	mte:Npfsn	Jadranka
+Kosor	mte:Npfsn	Kosor
+.	mte:Z	.
+Foto	mte:Npmsn	foto
+:	mte:Z	:
+Gregor	mte:Npmsn	Gregor
+Katič	mte:Npmsn	Katič
+Pogrešali	mte:Vmpp-pm	pogrešati
+Türka	mte:Npmsay	Türk
+in	mte:Cc	in
+Pahorja	mte:Npmsay	Pahorje
+Že	mte:Q	že
+vse	mte:Pg-nsa	ves
+od	mte:Sg	od
+odkritja	mte:Ncnsg	odkritje
+grobišča	mte:Ncnsg	grobišče
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+javnost	mte:Ncfsn	javnost
+kritična	mte:Agpfsn	kritičen
+predvsem	mte:Q	predvsem
+do	mte:Sg	do
+slovenskega	mte:Agpmsg	slovenski
+predsednika	mte:Ncmsg	predsednik
+Danila	mte:Npmsg	Danila
+Türka	mte:Npmsg	Türk
+in	mte:Cc	in
+premierja	mte:Ncmsg	premier
+Boruta	mte:Npmsg	Borut
+Pahorja	mte:Npmsg	Pahorje
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+do	mte:Sg	do
+danes	mte:Rgp	danes
+še	mte:Q	še
+nista	mte:Va-r3d-y	biti
+poklonila	mte:Vmep-dm	pokloniti
+žrtvam	mte:Ncfpd	žrtev
+tega	mte:Pd-nsg	ta
+grobišča	mte:Ncnsg	grobišče
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+dejal	mte:Vmep-sm	dejati
+Türk	mte:Npmsn	Türk
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+žrtvam	mte:Ncfpd	žrtev
+poklonil	mte:Vmep-sm	pokloniti
+takrat	mte:Rgp	takrat
+,	mte:Z	,
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+forenziki	mte:Ncmpn	forenzik
+in	mte:Cc	in
+drugi	mte:Mlpmpn	drug
+strokovnjaki	mte:Ncmpn	strokovnjak
+zaključili	mte:Vmep-pm	zaključiti
+svoje	mte:Px-nsa	svoj
+delo	mte:Ncnsa	delo
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+pa	mte:Cc	pa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zavzel	mte:Vmep-sm	zavzeti
+za	mte:Sa	za
+čimprejšen	mte:Agpmsan	čimprejšen
+sprejem	mte:Ncmsan	sprejem
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+vojnih	mte:Agpnpl	vojen
+grobiščih	mte:Ncnpl	grobišče
+.	mte:Z	.
+Odkritje	mte:Ncnsn	odkritje
+povojnega	mte:Agpnsg	povojen
+grobišča	mte:Ncnsg	grobišče
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+marca	mte:Ncmsg	marec
+zgrozil	mte:Vmep-sm	zgroziti
+slovensko	mte:Agpfsa	slovenski
+javnost	mte:Ncfsa	javnost
+.	mte:Z	.
+Foto	mte:Ncmsn	foto
+:	mte:Z	:
+Žurnal24	mte:Mdc	žurnal24
+Javnost	mte:Ncfsn	javnost
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+do	mte:Sg	do
+Türka	mte:Npmsg	Türk
+sicer	mte:Q	sicer
+najbolj	mte:Rgs	najbolj
+kritična	mte:Agpfsn	kritičen
+zaradi	mte:Sg	zaradi
+izjave	mte:Ncfsg	izjava
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+izrekel	mte:Vmep-sm	izreči
+v	mte:Sa	v
+nedeljo	mte:Ncfsa	nedelja
+,	mte:Z	,
+osmega	mte:Mlomsg	osmi
+marca	mte:Ncmsg	marec
+med	mte:Si	med
+obiskom	mte:Ncmsi	obisk
+Trbovelj	mte:Npfpg	Trbovlje
+.	mte:Z	.
+Takrat	mte:Rgp	takrat
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+šel	mte:Vmbp-sm	iti
+poklonit	mte:Vmen	pokloniti
+žrtvam	mte:Ncfpd	žrtev
+povojnih	mte:Agpmpg	povojen
+pobojev	mte:Ncmpg	poboj
+v	mte:Sl	v
+rovu	mte:Ncmsl	rov
+Barbara	mte:Npfsn	Barbara
+v	mte:Sl	v
+Hudi	mte:Agpfsl	hudi
+jami	mte:Ncfsl	jama
+pri	mte:Sl	pri
+Laškem	mte:Npnsl	Laško
+odgovoril	mte:Vmep-sm	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Trbovljah	mte:Npfpl	Trbovlje
+zaradi	mte:Sg	zaradi
+prvorazredne	mte:Agpfsg	prvorazreden
+teme	mte:Ncfsg	tema
+in	mte:Cc	in
+da	mte:Cs	da
+zato	mte:Cc	zato
+o	mte:Sl	o
+drugorazrednih	mte:Agpfpl	drugorazreden
+temah	mte:Ncfpl	tema
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+govoril	mte:Vmpp-sm	govoriti
+.	mte:Z	.
+Izjavo	mte:Ncfsa	izjava
+je	mte:Va-r3s-n	biti
+dan	mte:Ncmsn	dan
+za	mte:Si	za
+tem	mte:Pd-msi	ta
+Türk	mte:Npmsn	Türk
+pojasnil	mte:Vmep-sm	pojasniti
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+:	mte:Z	:
+"	mte:Z	"
+Zaradi	mte:Sg	zaradi
+pravilnega	mte:Agpnsg	pravilen
+razumevanja	mte:Ncnsg	razumevanje
+moje	mte:Ps1fsgs	moj
+včerajšnje	mte:Agpfsg	včerajšnji
+izjave	mte:Ncfsg	izjava
+bi	mte:Va-c	biti
+želel	mte:Vmpp-sm	želeti
+poudariti	mte:Vmen	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+pri	mte:Sl	pri
+povojnih	mte:Agpmpl	povojen
+pobojih	mte:Ncmpl	poboj
+za	mte:Sa	za
+pomembno	mte:Agpfsa	pomemben
+temo	mte:Ncfsa	tema
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+se	mte:Px------y	se
+Slovenija	mte:Npfsn	Slovenija
+mora	mte:Vmpr3s	morati
+soočiti	mte:Vmen	soočiti
+.	mte:Z	.
+Politično	mte:Agpnsa	političen
+manipuliranje	mte:Ncnsa	manipuliranje
+z	mte:Si	z
+njo	mte:Pp3fsi	on
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+drugorazredno	mte:Agpnsn	drugorazreden
+in	mte:Cc	in
+nesprejemljivo	mte:Agpnsn	nesprejemljiv
+.	mte:Z	.
+"	mte:Z	"
+Pobitih	mte:Appmpg	pobit
+med	mte:Si	med
+200	mte:Mdc	200
+in	mte:Cc	in
+300	mte:Mdc	300
+ljudi	mte:Ncmpg	človek
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+rovu	mte:Ncmsl	rov
+Barbara	mte:Npfsn	Barbara
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+marca	mte:Ncmsg	marec
+odkrili	mte:Vmep-pm	odkriti
+večje	mte:Agcnsa	velik
+število	mte:Ncnsa	število
+posmrtnih	mte:Agpmpg	posmrten
+ostankov	mte:Ncmpg	ostanek
+.	mte:Z	.
+V	mte:Sl	v
+prvem	mte:Mlomsl	prvi
+delu	mte:Ncmsl	del
+hodnika	mte:Ncmsg	hodnik
+naj	mte:Q	naj
+bil	mte:Va-p-sm	biti
+bilo	mte:Va-p-sn	biti
+od	mte:Sg	od
+200	mte:Mdc	200
+do	mte:Sg	do
+300	mte:Mdc	300
+pobitih	mte:Appmpg	pobit
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+skriva	mte:Vmpr3s	skrivati
+v	mte:Sl	v
+še	mte:Q	še
+dveh	mte:Mlcmdl	dva
+jaških	mte:Ncmdl	jašek
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+zasuti	mte:Vmep-pm	zasutiti
+,	mte:Z	,
+pa	mte:Cc	pa
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan

@@ -1,285 +1,298 @@
-token	tag
-Dušan	Npmsn
-Kumer	Npmsn
-,	Z
-vodja	Ncmsn
-poslanske	Agpfsg
-skupine	Ncfsg
-SD	Npmsn
-in	Cc
-Borut	Npmsn
-Sajovic	Npmsn
-,	Z
-vodja	Ncmsn
-poslanskega	Agpmsg
-kluba	Ncmsg
-LDS	Npfsg
-sta	Va-r3d-n
-kot	Cs
-kandidata	Ncmdn
-za	Sa
-novega	Agpmsa
-predsednika	Ncmsay
-DZ	Npmsg
-predstavila	Vmep-dm
-poslanca	Ncmdn
-Ljuba	Npmsn
-Germiča	Npmsg
-.	Z
-Germič	Npmsn
-se	Px------y
-je	Va-r3s-n
-danes	Rgp
-predstavil	Vmep-sm
-tudi	Q
-kot	Cs
-ljubitelj	Ncmsn
-športa	Ncmsg
-in	Cc
-glasbe	Ncfsg
-–	Z
-med	Si
-drugim	Mlpmsi
-igra	Vmpr3s
-saksofon	Ncmsn
-v	Sl
-Parlament	Npmsn
-Dixie	Npmsn
-Bandu	Npmsl
-,	Z
-ki	Cs
-ga	Pp3msa--y
-sestavljajo	Vmpr3p
-aktualni	Agpmpn
-in	Cc
-nekdanji	Agpmpn
-poslanci	Ncmpn
-,	Z
-med	Si
-njimi	Pp3mpi
-Rudi	Npmsn
-Moge	Npmsn
-,	Z
-Geza	Npmsn
-Džuban	Npmsn
-,	Z
-včasih	Rgp
-pa	Cc
-zapojeta	Vmer3d
-tudi	Q
-Eva	Npfsn
-Irgl	Npfsn
-in	Cc
-Darja	Npfsn
-Lavtižar	Npfsn
-Bebler	Npfsn
-.	Z
-S	Si
-tem	Pd-nsi
-,	Z
-ko	Cs
-že	Q
-predstavljajo	Vmpr3p
-kandidata	Ncmsay
-,	Z
-želijo	Vmpr3p
-dati	Vmen
-možnost	Ncfsa
-drugim	Mlpfpd
-poslanskim	Agpfpd
-skupinam	Ncfpd
-,	Z
-da	Cs
-se	Px------y
-do	Sg
-seje	Ncfsg
-izrečejo	Vmer3p
-o	Sl
-kandidatu	Ncmsl
-,	Z
-so	Va-r3p-n
-na	Sl
-tiskovni	Agpfsl
-konferenci	Ncfsl
-povedali	Vmep-pm
-poslanci	Ncmpn
-.	Z
-Želijo	Vmpr3p
-namreč	Cc
-,	Z
-da	Cs
-bi	Va-c
-lahko	Rgp
-poslanci	Ncmpn
-o	Sl
-novem	Agpmsl
-predsedniku	Ncmsl
-državnega	Agpmsg
-zbora	Ncmsg
-glasovali	Vmbp-pm
-takoj	Rgp
-po	Sl
-odstopu	Ncmsl
-Pavla	Npmsg
-Gantarja	Npmsg
-.	Z
-Podporo	Ncfsa
-Ljubu	Npmsd
-Germiču	Npmsd
-za	Sa
-predsednika	Ncmsay
-DZ	Npmsg
-so	Va-r3p-n
-za	Sa
-zdaj	Rgp
-napovedali	Vmep-pm
-poslanci	Ncmpn
-SD	Npfsg
-in	Cc
-LDS	Npfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-ga	Pp3msa--y
-tudi	Q
-predlagali	Vmbp-pm
-,	Z
-pa	Cc
-tudi	Q
-poslanci	Ncmpn
-SNS	Npfsg
-,	Z
-Zares	Rgp
-in	Cc
-DeSUS	Npmsn
-.	Z
-V	Sl
-SDS	Npfsl
-njegove	Ps3fsgsm
-izvolitve	Ncfsg
-ne	Q
-bodo	Va-f3p-n
-podprli	Vmep-pm
-,	Z
-nepovezani	Agpmpn
-poslanci	Ncmpn
-in	Cc
-poslanci	Ncmpn
-SLS	Npfsg
-pa	Cc
-bodo	Va-f3p-n
-o	Sl
-tem	Pd-nsl
-odločali	Vmpp-pm
-v	Sa
-torek	Ncmsan
-.	Z
-Tako	Rgp
-lahko	Rgp
-Germič	Npmsn
-že	Q
-sedaj	Rgp
-računa	Ncmsg
-na	Sa
-50	Mdc
-glasov	Ncmpg
-podpore	Ncfsg
-,	Z
-za	Sa
-izvolitev	Ncfsa
-jih	Pp3mpg--y
-potrebuje	Vmpr3s
-46	Mdc
-.	Z
-(	Z
-STA	Va-r3d-n
-)	Z
-Tako	Rgp
-v	Sl
-SD	Npfsl
-kot	Cs
-LDS	Npfsn
-menijo	Vmpr3p
-,	Z
-da	Cs
-so	Va-r3p-n
-predlagali	Vmbp-pm
-dobrega	Agpmsa
-kandidata	Ncmsay
-,	Z
-ki	Cs
-bo	Va-f3s-n
-kvalitetno	Rgp
-vodil	Vmpp-sm
-delo	Ncnsa
-parlamenta	Ncmsg
-.	Z
-Borut	Npmsn
-Sajovic	Npmsn
-,	Z
-vodja	Ncmsn
-poslanske	Agpfsg
-skupine	Ncfsg
-LDS	Npfsg
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-si	Px---d--y
-odhoda	Ncmsg
-aktualnega	Agpmsg
-predsednika	Ncmsg
-sicer	Q
-niso	Va-r3p-y
-želeli	Vmpp-pm
-.	Z
-Ljubo	Npmsn
-Germič	Npmsn
-sicer	Q
-prihaja	Vmpr3s
-iz	Sg
-Ruš	Npfpg
-,	Z
-po	Sl
-izobrazbi	Ncfsl
-pa	Cc
-je	Va-r3s-n
-univerzitetni	Agpmsny
-diplomirani	Appmsny
-inženir	Ncmsn
-kemije	Ncfsg
-in	Cc
-kemijske	Agpfsg
-tehnologije	Ncfsg
-.	Z
-Slovenijo	Npfsa
-je	Va-r3s-n
-v	Sa
-EU	Npfsa
-zastopal	Vmpp-sm
-pred	Si
-vstopom	Ncmsi
-v	Sa
-EU	Npfsa
-,	Z
-kot	Cs
-opazovalec	Ncmsn
-,	Z
-po	Sl
-vstopu	Ncmsl
-v	Sa
-EU	Npfsa
-mu	Pp3msd--y
-je	Va-r3s-n
-pripadla	Vmep-sf
-naloga	Ncfsn
-prvega	Mlomsg
-predsednika	Ncmsg
-odbora	Ncmsg
-za	Sa
-evropske	Agpfpa
-zadeve	Ncfpa
-v	Sl
-slovenskem	Agpmsl
-parlamentu	Ncmsl
-.	Z
+token	tag	lemma
+Dušan	mte:Npmsn	Dušan
+Kumer	mte:Npmsn	Kumer
+,	mte:Z	,
+vodja	mte:Ncmsn	vodja
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+SD	mte:Npmsn	SD
+in	mte:Cc	in
+Borut	mte:Npmsn	Borut
+Sajovic	mte:Npmsn	Sajovica
+,	mte:Z	,
+vodja	mte:Ncmsn	vodja
+poslanskega	mte:Agpmsg	poslanski
+kluba	mte:Ncmsg	klub
+LDS	mte:Npfsg	LDS
+sta	mte:Va-r3d-n	biti
+kot	mte:Cs	kot
+kandidata	mte:Ncmdn	kandidat
+za	mte:Sa	za
+novega	mte:Agpmsa	nov
+predsednika	mte:Ncmsay	predsednik
+DZ	mte:Npmsg	DZ
+predstavila	mte:Vmep-dm	predstaviti
+poslanca	mte:Ncmdn	poslanec
+Ljuba	mte:Npmsn	Ljub
+Germiča	mte:Npmsg	Germič
+.	mte:Z	.
+Germič	mte:Npmsn	Germič
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+predstavil	mte:Vmep-sm	predstaviti
+tudi	mte:Q	tudi
+kot	mte:Cs	kot
+ljubitelj	mte:Ncmsn	ljubitelj
+športa	mte:Ncmsg	šport
+in	mte:Cc	in
+glasbe	mte:Ncfsg	glasba
+–	mte:Z	–
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+igra	mte:Vmpr3s	igrati
+saksofon	mte:Ncmsn	saksofon
+v	mte:Sl	v
+Parlament	mte:Npmsn	Parlament
+Dixie	mte:Npmsn	Dixie
+Bandu	mte:Npmsl	Band
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+sestavljajo	mte:Vmpr3p	sestavljati
+aktualni	mte:Agpmpn	aktualen
+in	mte:Cc	in
+nekdanji	mte:Agpmpn	nekdanji
+poslanci	mte:Ncmpn	poslanec
+,	mte:Z	,
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+Rudi	mte:Npmsn	Rudi
+Moge	mte:Npmsn	Moge
+,	mte:Z	,
+Geza	mte:Npmsn	Geza
+Džuban	mte:Npmsn	Džuban
+,	mte:Z	,
+včasih	mte:Rgp	včasih
+pa	mte:Cc	pa
+zapojeta	mte:Vmer3d	zapojati
+tudi	mte:Q	tudi
+Eva	mte:Npfsn	Eva
+Irgl	mte:Npfsn	Irgl
+in	mte:Cc	in
+Darja	mte:Npfsn	Darja
+Lavtižar	mte:Npfsn	Lavtižar
+Bebler	mte:Npfsn	Bebler
+.	mte:Z	.
+S	mte:Si	z
+tem	mte:Pd-nsi	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+že	mte:Q	že
+predstavljajo	mte:Vmpr3p	predstavljati
+kandidata	mte:Ncmsay	kandidat
+,	mte:Z	,
+želijo	mte:Vmpr3p	želeti
+dati	mte:Vmen	dati
+možnost	mte:Ncfsa	možnost
+drugim	mte:Mlpfpd	drug
+poslanskim	mte:Agpfpd	poslanski
+skupinam	mte:Ncfpd	skupina
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+do	mte:Sg	do
+seje	mte:Ncfsg	seja
+izrečejo	mte:Vmer3p	izreči
+o	mte:Sl	o
+kandidatu	mte:Ncmsl	kandidat
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+tiskovni	mte:Agpfsl	tiskoven
+konferenci	mte:Ncfsl	konferenca
+povedali	mte:Vmep-pm	povedati
+poslanci	mte:Ncmpn	poslanec
+.	mte:Z	.
+Želijo	mte:Vmpr3p	želeti
+namreč	mte:Cc	namreč
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+poslanci	mte:Ncmpn	poslanec
+o	mte:Sl	o
+novem	mte:Agpmsl	nov
+predsedniku	mte:Ncmsl	predsednik
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+glasovali	mte:Vmbp-pm	glasovati
+takoj	mte:Rgp	takoj
+po	mte:Sl	po
+odstopu	mte:Ncmsl	odstop
+Pavla	mte:Npmsg	Pavel
+Gantarja	mte:Npmsg	Gantar
+.	mte:Z	.
+Podporo	mte:Ncfsa	podpora
+Ljubu	mte:Npmsd	Ljub
+Germiču	mte:Npmsd	Germič
+za	mte:Sa	za
+predsednika	mte:Ncmsay	predsednik
+DZ	mte:Npmsg	DZ
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+napovedali	mte:Vmep-pm	napovedati
+poslanci	mte:Ncmpn	poslanec
+SD	mte:Npfsg	SD
+in	mte:Cc	in
+LDS	mte:Npfsg	LDS
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+tudi	mte:Q	tudi
+predlagali	mte:Vmbp-pm	predlagati
+,	mte:Z	,
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+poslanci	mte:Ncmpn	poslanec
+SNS	mte:Npfsg	SNS
+,	mte:Z	,
+Zares	mte:Rgp	zares
+in	mte:Cc	in
+DeSUS	mte:Npmsn	Desus
+.	mte:Z	.
+V	mte:Sl	v
+SDS	mte:Npfsl	SDS
+njegove	mte:Ps3fsgsm	njegov
+izvolitve	mte:Ncfsg	izvolitev
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+podprli	mte:Vmep-pm	podpreti
+,	mte:Z	,
+nepovezani	mte:Agpmpn	nepovezan
+poslanci	mte:Ncmpn	poslanec
+in	mte:Cc	in
+poslanci	mte:Ncmpn	poslanec
+SLS	mte:Npfsg	SLS
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+odločali	mte:Vmpp-pm	odločati
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+.	mte:Z	.
+Tako	mte:Rgp	tako
+lahko	mte:Rgp	lahko
+Germič	mte:Npmsn	Germič
+že	mte:Q	že
+sedaj	mte:Rgp	sedaj
+računa	mte:Ncmsg	račun
+na	mte:Sa	na
+50	mte:Mdc	50
+glasov	mte:Ncmpg	glas
+podpore	mte:Ncfsg	podpora
+,	mte:Z	,
+za	mte:Sa	za
+izvolitev	mte:Ncfsa	izvolitev
+jih	mte:Pp3mpg--y	on
+potrebuje	mte:Vmpr3s	potrebovati
+46	mte:Mdc	46
+.	mte:Z	.
+(	mte:Z	(
+STA	mte:Va-r3d-n	biti
+)	mte:Z	)
+Tako	mte:Rgp	tako
+v	mte:Sl	v
+SD	mte:Npfsl	SD
+kot	mte:Cs	kot
+LDS	mte:Npfsn	LDS
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+predlagali	mte:Vmbp-pm	predlagati
+dobrega	mte:Agpmsa	dober
+kandidata	mte:Ncmsay	kandidat
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+kvalitetno	mte:Rgp	kvaliteten
+vodil	mte:Vmpp-sm	voditi
+delo	mte:Ncnsa	delo
+parlamenta	mte:Ncmsg	parlament
+.	mte:Z	.
+Borut	mte:Npmsn	Borut
+Sajovic	mte:Npmsn	Sajovica
+,	mte:Z	,
+vodja	mte:Ncmsn	vodja
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+LDS	mte:Npfsg	LDS
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+si	mte:Px---d--y	se
+odhoda	mte:Ncmsg	odhod
+aktualnega	mte:Agpmsg	aktualen
+predsednika	mte:Ncmsg	predsednik
+sicer	mte:Q	sicer
+niso	mte:Va-r3p-y	biti
+želeli	mte:Vmpp-pm	želeti
+.	mte:Z	.
+Ljubo	mte:Npmsn	Ljuba
+Germič	mte:Npmsn	Germič
+sicer	mte:Q	sicer
+prihaja	mte:Vmpr3s	prihajati
+iz	mte:Sg	iz
+Ruš	mte:Npfpg	Ruš
+,	mte:Z	,
+po	mte:Sl	po
+izobrazbi	mte:Ncfsl	izobrazba
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+univerzitetni	mte:Agpmsny	univerziteten
+diplomirani	mte:Appmsny	diplomiran
+inženir	mte:Ncmsn	inženir
+kemije	mte:Ncfsg	kemija
+in	mte:Cc	in
+kemijske	mte:Agpfsg	kemijski
+tehnologije	mte:Ncfsg	tehnologija
+.	mte:Z	.
+Slovenijo	mte:Npfsa	Slovenija
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+zastopal	mte:Vmpp-sm	zastopati
+pred	mte:Si	pred
+vstopom	mte:Ncmsi	vstop
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+,	mte:Z	,
+kot	mte:Cs	kot
+opazovalec	mte:Ncmsn	opazovalec
+,	mte:Z	,
+po	mte:Sl	po
+vstopu	mte:Ncmsl	vstop
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+pripadla	mte:Vmep-sf	pripasti
+naloga	mte:Ncfsn	naloga
+prvega	mte:Mlomsg	prvi
+predsednika	mte:Ncmsg	predsednik
+odbora	mte:Ncmsg	odbor
+za	mte:Sa	za
+evropske	mte:Agpfpa	evropski
+zadeve	mte:Ncfpa	zadeva
+v	mte:Sl	v
+slovenskem	mte:Agpmsl	slovenski
+parlamentu	mte:Ncmsl	parlament
+.	mte:Z	.
+Trenutno	mte:Rgp	trenutno
+vodi	mte:Vmpr3s	voditi
+odbor	mte:Ncmsan	odbor
+za	mte:Sa	za
+zdravstvo	mte:Ncnsa	zdravstvo
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+namestnik	mte:Ncmsn	namestnik
+vodje	mte:Ncmsg	vodja
+poslanskega	mte:Agpmsg	poslanski
+kluba	mte:Ncmsg	klub
+LDS	mte:Npfsg	LDS

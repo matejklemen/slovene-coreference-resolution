@@ -1,737 +1,743 @@
-token	tag
-Slovenska	Agpnpn
-podjetja	Ncnpn
-poslovnim	Agpmpd
-partnerjem	Ncmpd
-podarjajo	Vmpr3p
-sol	Ncmsa
-,	Z
-vazice	Ncfpa
-v	Sl
-obliki	Ncfsl
-epruvete	Ncfsg
-,	Z
-koledarje	Ncmpa
-,	Z
-rokovnike	Ncmpa
-,	Z
-ročno	Rgp
-izdelane	Appmpa
-pralineje	Ncmpa
-,	Z
-knjige	Ncfpa
-in	Cc
-vino	Ncnsa
-.	Z
-Denar	Ncmsan
-zadnja	Agpnpa
-leta	Ncnpa
-večinoma	Rgp
-raje	Rgc
-namenijo	Vmer3p
-v	Sa
-humanitarne	Agpmpa
-namene	Ncmpa
-.	Z
-Poslovni	Agpmpn
-partnerji	Ncmpn
-Elektra	Npmsn
--	Z
-Slovenije	Npfsg
-Eles	Npmsn
-bodo	Va-f3p-n
-ob	Sl
-novem	Agpnsl
-letu	Ncnsl
-dobili	Vmep-pm
-simbolna	Agpnpa
-darilca	Ncnpa
-,	Z
-vredna	Agpnpn
-do	Sg
-10	Mdc
-evrov	Ncmpg
-in	Cc
-povezana	Appnpn
-z	Si
-njihovo	Ps3fsip
-dejavnostjo	Ncfsi
-.	Z
-V	Sl
-Elektru	Npmsl
-Ljubljana	Npfsn
-bodo	Va-f3p-n
-podarili	Vmep-pm
-tridelne	Agpmpa
-stenske	Agpmpa
-koledarje	Ncmpa
-,	Z
-ki	Cs
-stanejo	Vmpr3p
-manj	Rgc
-kot	Cs
-dva	Mlcmda
-evra	Ncmda
-,	Z
-in	Cc
-rokovnike	Ncmpa
-za	Sa
-manj	Rgc
-kot	Cs
-sedem	Mlc-pa
-evrov	Ncmpg
-.	Z
-Od	Sg
-Gen	Ncmsn
--	Z
-i	Ncmsn
-bodo	Va-f3p-n
-partnerji	Ncmpn
-dobili	Vmep-pm
-ročno	Rgp
-izdelane	Appmpa
-pralineje	Ncmpa
-v	Sl
-škatlici	Ncfsl
-z	Si
-njihovim	Ps3msip
-logotipom	Ncmsi
-,	Z
-knjige	Ncfpn
-in	Cc
-vino	Ncnsa
-.	Z
-Smo	Va-r1p-n
-bolj	Rgc
-usmerjeni	Appmpn
-v	Sa
-donacije	Ncfpa
-kot	Cs
-v	Sa
-razkošna	Agpnpa
-darila	Ncnpa
-,	Z
-so	Va-r3p-n
-poudarili	Vmep-pm
-.	Z
-Darila	Ncnpa
-za	Sa
-poslovne	Agpmpa
-partnerje	Ncmpa
-bodo	Va-f3p-n
-tudi	Q
-letos	Rgp
-bolj	Rgc
-simboličnih	Agpfpg
-vrednosti	Ncfpg
-.	Z
-V	Sl
-Elektru	Npmsl
-Gorenjska	Npfsn
-se	Px------y
-že	Q
-od	Sg
-leta	Ncnsg
-2008	Mdc
-naprej	Rgp
-odpovedujejo	Vmpr3p
-nakupu	Ncmsd
-poslovnih	Agpnpg
-daril	Ncnpg
-in	Cc
-denar	Ncmsan
-raje	Rgc
-namenijo	Vmer3p
-v	Sa
-dobrodelne	Agpmpa
-namene	Ncmpa
-.	Z
-Letos	Rgp
-so	Va-r3p-n
-z	Si
-nakupom	Ncmsi
-posebnega	Agpnsg
-sobnega	Agpnsg
-kolesa	Ncnsg
-pomagali	Vmbp-pm
-Centru	Ncmsd
-slepih	Agpmpg
-,	Z
-slabovidnih	Agpmpg
-in	Cc
-starejših	Agcmpg
-občanov	Ncmpg
-Škofja	Agpfsn
-Loka	Npfsn
-,	Z
-društvu	Ncnsd
-Sonček	Npmsn
-Zgornje	Agpfsg
-Gorenjske	Npfsg
-pa	Cc
-bodo	Va-f3p-n
-omogočili	Vmep-pm
-lažjo	Agcfsa
-,	Z
-predvsem	Q
-pa	Cc
-kakovostnejšo	Agcfsa
-organizacija	Ncfsn
-programov	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-pripravljajo	Vmpr3p
-za	Sa
-otroke	Ncmpa
-.	Z
-Prav	Q
-tako	Rgp
-smo	Va-r1p-n
-voščilnice	Ncfpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-pošiljamo	Vmpr1p
-poslovnim	Agpmpd
-partnerjem	Ncmpd
-,	Z
-kupili	Vmep-pm
-pri	Sl
-Zvezi	Ncfsl
-Sonček	Npmsn
-,	Z
-z	Si
-namenom	Ncmsi
-pomagati	Vmbn
-njihovim	Ps3mpdp
-varovancem	Ncmpd
-.	Z
-V	Sl
-Telekomu	Npmsl
-Slovenije	Npfsg
-bodo	Va-f3p-n
-darila	Ncnpn
-iz	Sg
-palete	Ncfsg
-proizvodov	Ncmpg
-njihove	Ps3fsgp
-hčerinske	Agpfsg
-družbe	Ncfsg
-Soline	Npfsn
-.	Z
-Vrednost	Ncfsn
-Si.mobilovega	Aspnsg
-darila	Ncnsg
-znaša	Vmpr3s
-približno	Rgp
-20	Mdc
-evrov	Ncmpg
-.	Z
-V	Sl
-Luki	Npfsl
-Koper	Npmsn
-bodo	Va-f3p-n
-simbolično	Rgp
-podarili	Vmep-pm
-tipične	Agpmpa
-pridelke	Ncmpa
-iz	Sg
-istrskega	Agpnsg
-okolja	Ncnsg
-.	Z
-V	Sl
-Zavarovalnici	Ncfsl
-Triglav	Npmsn
-so	Va-r3p-n
-pri	Sl
-izboru	Ncmsl
-novoletnih	Agpnpg
-daril	Ncnpg
-dali	Vmep-pm
-poudarek	Ncmsan
-tudi	Q
-na	Sa
-širjenje	Ncnsa
-ekološke	Agpfsg
-ozaveščenosti	Ncfsg
-.	Z
-V	Sl
-Petrolu	Npmsl
-letos	Rgp
-ne	Q
-bo	Va-f3s-n
-poslovnih	Agpnpg
-daril	Ncnpg
-,	Z
-ampak	Cc
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-za	Sa
-velik	Agpmsan
-humanitaren	Agpmsan
-projekt	Ncmsan
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-zaposleni	Appmpn
-na	Sl
-bencinskih	Agpmpl
-servisih	Ncmpl
-prostovoljno	Rgp
-pomagali	Vmbp-pm
-pomoči	Ncfsg
-potrebnim	Agpmpd
-v	Sl
-njihovem	Ps3nslp
-lokalnem	Agpnsl
-okolju	Ncnsl
-.	Z
-Tako	Rgp
-bodo	Va-f3p-n
-po	Sl
-vsej	Pg-fsl
-Sloveniji	Npfsl
-podarili	Vmep-pm
-313	Mdc
-daril	Ncnpg
-.	Z
-V	Sl
-Tuš	Ncmsn
-Holdingu	Ncmsl
-že	Q
-tradicionalno	Rgp
-ne	Q
-dajejo	Vmpr3p
-in	Cc
-ne	Q
-sprejemajo	Vmpr3p
-poslovnih	Agpnpg
-daril	Ncnpg
-,	Z
-raje	Rgc
-obdarujejo	Vmpr3p
-več	Rgc
-kot	Cs
-20.000	Mdc
-otrok	Ncmpg
-v	Sl
-njihovih	Ps3mplp
-nakupovalnih	Agpmpl
-centrih	Ncmpl
-.	Z
-V	Sl
-Novi	Agpfsl
-kreditni	Agpfsl
-banki	Ncfsl
-Maribor	Npmsn
-NKBM	Npmsn
-bodo	Va-f3p-n
-celoten	Agpmsnn
-znesek	Ncmsan
-,	Z
-ki	Cs
-bi	Va-c
-ga	Pp3msa--y
-sicer	Q
-namenili	Vmep-pm
-obdarovanju	Ncnsd
-poslovnih	Agpmpg
-partnerjev	Ncmpg
-,	Z
-tudi	Q
-letos	Rgp
-nakazali	Vmep-pm
-v	Sa
-dobrodelne	Agpmpa
-namene	Ncmpa
-,	Z
-tokrat	Rgp
-za	Sa
-nakup	Ncmsan
-mamografa	Ncmsg
-v	Sl
-Zdravstvenem	Agpmsl
-domu	Ncmsl
-Adolfa	Npmsg
-Drolca	Npmsg
-Maribor	Npmsn
-.	Z
-V	Sl
-Krki	Npfsl
-podarjajo	Vmpr3p
-kolekcijo	Ncfsa
-unikatnih	Agpnpg
-drobnih	Agpnpg
-darilc	Ncnpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-ni	Va-r3s-y
-mogoče	Agpnsn
-najti	Vmen
-na	Sl
-policah	Ncfpl
-trgovin	Ncfpg
-ali	Cc
-v	Sl
-darilnih	Agpmpl
-katalogih	Ncmpl
-.	Z
-V	Sl
-zadnjih	Agpnpl
-letih	Ncnpl
-jih	Pp3mpa--y
-zanje	Pp3mpa--b
-izdelujejo	Vmpr3p
-tudi	Q
-varovanci	Ncmpn
-vzgojnovarstvenih	Agpmpg
-centrov	Ncmpg
-.	Z
-Gre	Vmbr3s
-za	Sa
-darilca	Ncnpa
-,	Z
-ki	Cs
-predstavljajo	Vmpr3p
-naše	Ps1nsap
-poslanstvo	Ncnsa
-oziroma	Cc
-proizvodno	Agpfsa
-dejavnost	Ncfsa
-,	Z
-so	Va-r3p-n
-estetska	Agpnpn
-in	Cc
-hkrati	Rgp
-uporabna	Agpnpn
-.	Z
-Nimajo	Vmpr3p-y
-visoke	Agpfsg
-materialne	Agpfsg
-,	Z
-temveč	Cc
-sporočilno	Agpfsa
-vrednost	Ncfsa
-,	Z
-povezano	Appnsa
-z	Si
-izbrano	Appfsi
-zgodbo	Ncfsi
-oziroma	Cc
-našo	Ps1fsip
-dejavnostjo	Ncfsi
-,	Z
-in	Cc
-ne	Q
-posegajo	Vmpr3p
-v	Sa
-zasebnost	Ncfsa
-obdarovanca	Ncmsg
-.	Z
-Tako	Rgp
-podarijo	Vmer3p
-na	Sa
-primer	Ncmsan
-vazico	Ncfsa
-v	Sl
-obliki	Ncfsl
-epruvete	Ncfsg
-za	Sa
-en	Mlpmsa
-cvet	Ncmsan
-,	Z
-knjige	Ncfpa
-,	Z
-kot	Cs
-so	Va-r3p-n
-monografija	Ncfsn
-reke	Ncfsg
-Krke	Npfsg
-in	Cc
-Novega	Agpnsg
-mesta	Ncnsg
-ter	Cc
-Reka	Ncfsn
-zgodb	Ncfpg
-,	Z
-v	Sl
-kateri	Pq-fsl
-so	Va-r3p-n
-svoje	Px-mpa
-spomine	Ncmpa
-strnili	Vmep-pm
-sedanji	Agpmpn
-in	Cc
-upokojeni	Appmpn
-krkaši	Ncmpn
-.	Z
-Veliko	Rgp
-slovenskih	Agpnpg
-podjetij	Ncnpg
-denar	Ncmsn
-raje	Rgc
-podari	Vmer3s
-v	Sa
-humanitarne	Agpmpa
-namene	Ncmpa
-.	Z
-V	Sl
-Leku	Npmsl
-dajo	Vmer3p
-več	Rgc
-na	Sa
-vsebino	Ncfsa
-in	Cc
-obliko	Ncfsa
-daril	Ncnpg
-,	Z
-na	Sa
-izvirnost	Ncfsa
-in	Cc
-osebni	Agpmsay
-pečat	Ncmsan
-tistega	Pd-nsg
-,	Z
-ki	Cs
-darilo	Ncnsa
-podarja	Vmpr3s
-.	Z
-Pri	Sl
-izbiri	Ncfsl
-sodelujejo	Vmpr3p
-s	Si
-priznanimi	Appmpi
-slovenskimi	Agpmpi
-oblikovalci	Ncmpi
-in	Cc
-ustvarjalci	Ncmpi
-daril	Ncnpg
-,	Z
-trudimo	Vmpr1p
-se	Px------y
-,	Z
-da	Cs
-je	Va-r3s-n
-večina	Ncfsn
-naših	Ps1npgp
-daril	Ncnpg
-zasnovana	Appfsn
-in	Cc
-narejena	Appfsn
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Pozorni	Agpmpn
-so	Va-r3p-n
-,	Z
-da	Cs
-so	Va-r3p-n
-primerna	Agpnpn
-tudi	Q
-za	Sa
-potovanje	Ncnsa
-,	Z
-saj	Cc
-gredo	Vmbr3p
-z	Si
-našimi	Ps1mpip
-sodelavci	Ncmpi
-na	Sa
-različne	Agpmpa
-konce	Ncmpa
-sveta	Ncmsg
-,	Z
-predvsem	Q
-pa	Cc
-morajo	Vmpr3p
-biti	Va-n
-uporabna	Agpnpn
-in	Cc
-cenovno	Rgp
-ugodna	Agpnpn
-.	Z
-Pri	Sl
-njih	Pp3mpl
-imajo	Vmpr3p-n
-posebno	Agpnsn
-mesto	Ncnsn
-darila	Ncnsg
-,	Z
-ki	Cs
-se	Px------y
-navezujejo	Vmpr3p
-na	Sa
-njihovo	Ps3fsap
-farmacevtsko	Agpnsa
--	Z
-medicinsko	Agpfsa
-zbirko	Ncfsa
-Bohuslava	Npmsg
-Lavičke	Npfsg
-,	Z
-eno	Mlpfsa
-najlepših	Agsfpg
-in	Cc
-najbogatejših	Agsfpg
-tovrstnih	Agpfpg
-zbirk	Ncfpg
-v	Sl
-Evropi	Npfsl
-,	Z
-in	Cc
-darila	Ncnpa
-,	Z
-povezana	Appnpn
-s	Si
-Slovenijo	Npfsi
-,	Z
-slovenskim	Agpnsi
-ljudskim	Agpnsi
-izročilom	Ncnsi
-in	Cc
-z	Si
-našimi	Ps1mpip
-običaji	Ncmpi
-.	Z
-V	Sl
-Mercatorju	Npmsl
-že	Q
-peto	Mlonsa
-leto	Ncnsa
-ne	Q
-obdarujejo	Vmpr3p
-poslovnih	Agpmpg
-partnerjev	Ncmpg
-in	Cc
-tudi	Q
-njih	Pp3mpg
-pozivamo	Vmpr1p
-,	Z
-naj	Cs
-nam	Pp1-pd
-ne	Q
-podarjajo	Vmpr3p
-daril	Ncnpg
-ob	Sl
-koncu	Ncmsl
-leta	Ncnsg
-,	Z
-ampak	Cc
-naj	Q
-jih	Pp3mpa--y
-raje	Rgc
-namenijo	Vmer3p
-v	Sa
-humanitarne	Agpmpa
-namene	Ncmpa
-.	Z
-Odpovemo	Vmer1p
-se	Px------y
-tudi	Q
-pisnim	Agpfpd
-voščilnicam	Ncfpd
-in	Cc
-ne	Q
-prirejamo	Vmpr1p
-zabav	Ncfpg
-,	Z
-sredstva	Ncnpa
-pa	Cc
-namenijo	Vmer3p
-njihovi	Ps3fsdp
-humanitarni	Agpfsd
-fundaciji	Ncfsd
-.	Z
-Tudi	Q
-na	Sl
-Pošti	Ncfsl
-Slovenije	Npfsg
-so	Va-r3p-n
-klasična	Agpnpn
-poslovna	Agpnpn
-darila	Ncnpa
-zamenjali	Vmep-pm
-z	Si
-dobrodelnimi	Agpnpi
-darili	Ncnpi
-širši	Agcfsd
-javnosti	Ncfsd
-.	Z
-Tako	Rgp
-raje	Rgc
-donirajo	Vmpr3p
-v	Sa
-zdravstvo	Ncnsa
-,	Z
-kulturo	Ncfsa
-,	Z
-izobraževanje	Ncnsa
-in	Cc
-lokalne	Agpfpa
-skupnosti	Ncfpa
-.	Z
-V	Sl
-Merkurju	Npmsl
-bodo	Va-f3p-n
-simbolična	Agpnpa
-darila	Ncnpa
-izbrali	Vmep-pm
-med	Si
-izdelki	Ncmpi
-njihovega	Ps3msgp
-prodajnega	Agpmsg
-programa	Ncmsg
-oziroma	Cc
-lastnih	Agpfpg
-blagovnih	Agpfpg
-znamk	Ncfpg
-.	Z
-Bila	Va-p-pf
-bodo	Va-f3p-n
-praktična	Agpnpn
-,	Z
-kakovostna	Agpnpn
-in	Cc
-cenovno	Rgp
-ugodna	Agpnpn
-.	Z
-Namesto	Sg
-daril	Ncnpg
-za	Sa
-poslovne	Agpmpa
-partnerje	Ncmpa
-bo	Va-f3s-n
-Družba	Ncfsn
-za	Sa
-avtoceste	Ncfpa
-Dars	Npmsn
-tudi	Q
-letos	Rgp
-denar	Ncmsan
-namenila	Vmep-sf
-v	Sa
-dobrodelne	Agpmpa
-namene	Ncmpa
-,	Z
-in	Cc
-sicer	Q
-Mladinskemu	Agpmsd
-domu	Ncmsd
-Malči	Npmsn
-Belčeve	Npmsg
-iz	Sg
-Ljubljane	Npfsg
-,	Z
-Mladinskemu	Agpmsd
-domu	Ncmsd
-Maribor	Npmsn
-in	Cc
-Fundaciji	Npfsd
-Z	Si
-glavo	Ncfsi
-na	Sa
-zabavo	Ncfsa
-.	Z
+token	tag	lemma
+Slovenska	mte:Agpnpn	slovenski
+podjetja	mte:Ncnpn	podjetje
+poslovnim	mte:Agpmpd	posloven
+partnerjem	mte:Ncmpd	partner
+podarjajo	mte:Vmpr3p	podarjati
+sol	mte:Ncmsa	sol
+,	mte:Z	,
+vazice	mte:Ncfpa	vazica
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+epruvete	mte:Ncfsg	epruvet
+,	mte:Z	,
+koledarje	mte:Ncmpa	koledar
+,	mte:Z	,
+rokovnike	mte:Ncmpa	rokovnik
+,	mte:Z	,
+ročno	mte:Rgp	ročen
+izdelane	mte:Appmpa	izdelan
+pralineje	mte:Ncmpa	pralinej
+,	mte:Z	,
+knjige	mte:Ncfpa	knjiga
+in	mte:Cc	in
+vino	mte:Ncnsa	vino
+.	mte:Z	.
+Denar	mte:Ncmsan	denar
+zadnja	mte:Agpnpa	zadnji
+leta	mte:Ncnpa	leto
+večinoma	mte:Rgp	večinoma
+raje	mte:Rgc	raje
+namenijo	mte:Vmer3p	nameniti
+v	mte:Sa	v
+humanitarne	mte:Agpmpa	humanitaren
+namene	mte:Ncmpa	namen
+.	mte:Z	.
+Poslovni	mte:Agpmpn	posloven
+partnerji	mte:Ncmpn	partner
+Elektra	mte:Npmsn	Elektra
+-	mte:Z	-
+Slovenije	mte:Npfsg	Slovenija
+Eles	mte:Npmsn	Eles
+bodo	mte:Va-f3p-n	biti
+ob	mte:Sl	ob
+novem	mte:Agpnsl	nov
+letu	mte:Ncnsl	leto
+dobili	mte:Vmep-pm	dobiti
+simbolna	mte:Agpnpa	simbolen
+darilca	mte:Ncnpa	darilec
+,	mte:Z	,
+vredna	mte:Agpnpn	vreden
+do	mte:Sg	do
+10	mte:Mdc	10
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+povezana	mte:Appnpn	povezan
+z	mte:Si	z
+njihovo	mte:Ps3fsip	njihov
+dejavnostjo	mte:Ncfsi	dejavnost
+.	mte:Z	.
+V	mte:Sl	v
+Elektru	mte:Npmsl	Elektru
+Ljubljana	mte:Npfsn	Ljubljana
+bodo	mte:Va-f3p-n	biti
+podarili	mte:Vmep-pm	podariti
+tridelne	mte:Agpmpa	trideln
+stenske	mte:Agpmpa	stenski
+koledarje	mte:Ncmpa	koledar
+,	mte:Z	,
+ki	mte:Cs	ki
+stanejo	mte:Vmpr3p	stati
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+dva	mte:Mlcmda	dva
+evra	mte:Ncmda	evro
+,	mte:Z	,
+in	mte:Cc	in
+rokovnike	mte:Ncmpa	rokovnik
+za	mte:Sa	za
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+sedem	mte:Mlc-pa	sedem
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Od	mte:Sg	od
+Gen	mte:Ncmsn	gen
+-	mte:Z	-
+i	mte:Ncmsn	i
+bodo	mte:Va-f3p-n	biti
+partnerji	mte:Ncmpn	partner
+dobili	mte:Vmep-pm	dobiti
+ročno	mte:Rgp	ročen
+izdelane	mte:Appmpa	izdelan
+pralineje	mte:Ncmpa	pralinej
+v	mte:Sl	v
+škatlici	mte:Ncfsl	škatlica
+z	mte:Si	z
+njihovim	mte:Ps3msip	njihov
+logotipom	mte:Ncmsi	logotip
+,	mte:Z	,
+knjige	mte:Ncfpn	knjiga
+in	mte:Cc	in
+vino	mte:Ncnsa	vino
+.	mte:Z	.
+Smo	mte:Va-r1p-n	biti
+bolj	mte:Rgc	bolj
+usmerjeni	mte:Appmpn	usmerjen
+v	mte:Sa	v
+donacije	mte:Ncfpa	donacija
+kot	mte:Cs	kot
+v	mte:Sa	v
+razkošna	mte:Agpnpa	razkošen
+darila	mte:Ncnpa	darilo
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+poudarili	mte:Vmep-pm	poudariti
+.	mte:Z	.
+Darila	mte:Ncnpa	darilo
+za	mte:Sa	za
+poslovne	mte:Agpmpa	posloven
+partnerje	mte:Ncmpa	partner
+bodo	mte:Va-f3p-n	biti
+tudi	mte:Q	tudi
+letos	mte:Rgp	letos
+bolj	mte:Rgc	bolj
+simboličnih	mte:Agpfpg	simboličen
+vrednosti	mte:Ncfpg	vrednost
+.	mte:Z	.
+V	mte:Sl	v
+Elektru	mte:Npmsl	Elektru
+Gorenjska	mte:Npfsn	Gorenjska
+se	mte:Px------y	se
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2008	mte:Mdc	2008
+naprej	mte:Rgp	naprej
+odpovedujejo	mte:Vmpr3p	odpovedovati
+nakupu	mte:Ncmsd	nakup
+poslovnih	mte:Agpnpg	posloven
+daril	mte:Ncnpg	darilo
+in	mte:Cc	in
+denar	mte:Ncmsan	denar
+raje	mte:Rgc	raje
+namenijo	mte:Vmer3p	nameniti
+v	mte:Sa	v
+dobrodelne	mte:Agpmpa	dobrodelen
+namene	mte:Ncmpa	namen
+.	mte:Z	.
+Letos	mte:Rgp	letos
+so	mte:Va-r3p-n	biti
+z	mte:Si	z
+nakupom	mte:Ncmsi	nakup
+posebnega	mte:Agpnsg	poseben
+sobnega	mte:Agpnsg	soben
+kolesa	mte:Ncnsg	kolo
+pomagali	mte:Vmbp-pm	pomagati
+Centru	mte:Ncmsd	center
+slepih	mte:Agpmpg	slep
+,	mte:Z	,
+slabovidnih	mte:Agpmpg	slaboviden
+in	mte:Cc	in
+starejših	mte:Agcmpg	star
+občanov	mte:Ncmpg	občan
+Škofja	mte:Agpfsn	Škofji
+Loka	mte:Npfsn	Loka
+,	mte:Z	,
+društvu	mte:Ncnsd	društvo
+Sonček	mte:Npmsn	Sonček
+Zgornje	mte:Agpfsg	zgornji
+Gorenjske	mte:Npfsg	Gorenjska
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+omogočili	mte:Vmep-pm	omogočiti
+lažjo	mte:Agcfsa	lahek
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+pa	mte:Cc	pa
+kakovostnejšo	mte:Agcfsa	kakovosten
+organizacija	mte:Ncfsn	organizacija
+programov	mte:Ncmpg	program
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+pripravljajo	mte:Vmpr3p	pripravljati
+za	mte:Sa	za
+otroke	mte:Ncmpa	otrok
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+smo	mte:Va-r1p-n	biti
+voščilnice	mte:Ncfpa	voščilnica
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+pošiljamo	mte:Vmpr1p	pošiljati
+poslovnim	mte:Agpmpd	posloven
+partnerjem	mte:Ncmpd	partner
+,	mte:Z	,
+kupili	mte:Vmep-pm	kupiti
+pri	mte:Sl	pri
+Zvezi	mte:Ncfsl	zveza
+Sonček	mte:Npmsn	Sonček
+,	mte:Z	,
+z	mte:Si	z
+namenom	mte:Ncmsi	namen
+pomagati	mte:Vmbn	pomagati
+njihovim	mte:Ps3mpdp	njihov
+varovancem	mte:Ncmpd	varovanec
+.	mte:Z	.
+V	mte:Sl	v
+Telekomu	mte:Npmsl	Telekom
+Slovenije	mte:Npfsg	Slovenija
+bodo	mte:Va-f3p-n	biti
+darila	mte:Ncnpn	darilo
+iz	mte:Sg	iz
+palete	mte:Ncfsg	palet
+proizvodov	mte:Ncmpg	proizvod
+njihove	mte:Ps3fsgp	njihov
+hčerinske	mte:Agpfsg	hčerinski
+družbe	mte:Ncfsg	družba
+Soline	mte:Npfsn	Soline
+.	mte:Z	.
+Vrednost	mte:Ncfsn	vrednost
+Si.mobilovega	mte:Aspnsg	Si.mobilov
+darila	mte:Ncnsg	darilo
+znaša	mte:Vmpr3s	znašati
+približno	mte:Rgp	približno
+20	mte:Mdc	20
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+bodo	mte:Va-f3p-n	biti
+simbolično	mte:Rgp	simbolično
+podarili	mte:Vmep-pm	podariti
+tipične	mte:Agpmpa	tipičen
+pridelke	mte:Ncmpa	pridelka
+iz	mte:Sg	iz
+istrskega	mte:Agpnsg	istrski
+okolja	mte:Ncnsg	okolje
+.	mte:Z	.
+V	mte:Sl	v
+Zavarovalnici	mte:Ncfsl	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+so	mte:Va-r3p-n	biti
+pri	mte:Sl	pri
+izboru	mte:Ncmsl	izbor
+novoletnih	mte:Agpnpg	novoleten
+daril	mte:Ncnpg	darilo
+dali	mte:Vmep-pm	dati
+poudarek	mte:Ncmsan	poudarek
+tudi	mte:Q	tudi
+na	mte:Sa	na
+širjenje	mte:Ncnsa	širjenje
+ekološke	mte:Agpfsg	ekološki
+ozaveščenosti	mte:Ncfsg	ozaveščenost
+.	mte:Z	.
+V	mte:Sl	v
+Petrolu	mte:Npmsl	Petrol
+letos	mte:Rgp	letos
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+poslovnih	mte:Agpnpg	posloven
+daril	mte:Ncnpg	darilo
+,	mte:Z	,
+ampak	mte:Cc	ampak
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+za	mte:Sa	za
+velik	mte:Agpmsan	velik
+humanitaren	mte:Agpmsan	humanitaren
+projekt	mte:Ncmsan	projekt
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+zaposleni	mte:Appmpn	zaposlen
+na	mte:Sl	na
+bencinskih	mte:Agpmpl	bencinski
+servisih	mte:Ncmpl	servis
+prostovoljno	mte:Rgp	prostovoljno
+pomagali	mte:Vmbp-pm	pomagati
+pomoči	mte:Ncfsg	pomoč
+potrebnim	mte:Agpmpd	potreben
+v	mte:Sl	v
+njihovem	mte:Ps3nslp	njihov
+lokalnem	mte:Agpnsl	lokalen
+okolju	mte:Ncnsl	okolje
+.	mte:Z	.
+Tako	mte:Rgp	tako
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+vsej	mte:Pg-fsl	ves
+Sloveniji	mte:Npfsl	Slovenija
+podarili	mte:Vmep-pm	podariti
+313	mte:Mdc	313
+daril	mte:Ncnpg	darilo
+.	mte:Z	.
+V	mte:Sl	v
+Tuš	mte:Ncmsn	tuš
+Holdingu	mte:Ncmsl	holding
+že	mte:Q	že
+tradicionalno	mte:Rgp	tradicionalno
+ne	mte:Q	ne
+dajejo	mte:Vmpr3p	dajati
+in	mte:Cc	in
+ne	mte:Q	ne
+sprejemajo	mte:Vmpr3p	sprejemati
+poslovnih	mte:Agpnpg	posloven
+daril	mte:Ncnpg	darilo
+,	mte:Z	,
+raje	mte:Rgc	raje
+obdarujejo	mte:Vmpr3p	obdarovati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+20.000	mte:Mdc	20.000
+otrok	mte:Ncmpg	otrok
+v	mte:Sl	v
+njihovih	mte:Ps3mplp	njihov
+nakupovalnih	mte:Agpmpl	nakupovalen
+centrih	mte:Ncmpl	center
+.	mte:Z	.
+V	mte:Sl	v
+Novi	mte:Agpfsl	nov
+kreditni	mte:Agpfsl	krediten
+banki	mte:Ncfsl	banka
+Maribor	mte:Npmsn	Maribor
+NKBM	mte:Npmsn	NKBM
+bodo	mte:Va-f3p-n	biti
+celoten	mte:Agpmsnn	celoten
+znesek	mte:Ncmsan	znesek
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+sicer	mte:Q	sicer
+namenili	mte:Vmep-pm	nameniti
+obdarovanju	mte:Ncnsd	obdarovanje
+poslovnih	mte:Agpmpg	posloven
+partnerjev	mte:Ncmpg	partner
+,	mte:Z	,
+tudi	mte:Q	tudi
+letos	mte:Rgp	letos
+nakazali	mte:Vmep-pm	nakazati
+v	mte:Sa	v
+dobrodelne	mte:Agpmpa	dobrodelen
+namene	mte:Ncmpa	namen
+,	mte:Z	,
+tokrat	mte:Rgp	tokrat
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+mamografa	mte:Ncmsg	mamograf
+v	mte:Sl	v
+Zdravstvenem	mte:Agpmsl	zdravstven
+domu	mte:Ncmsl	dom
+Adolfa	mte:Npmsg	Adolf
+Drolca	mte:Npmsg	Drolc
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+V	mte:Sl	v
+Krki	mte:Npfsl	Krki
+podarjajo	mte:Vmpr3p	podarjati
+kolekcijo	mte:Ncfsa	kolekcija
+unikatnih	mte:Agpnpg	unikaten
+drobnih	mte:Agpnpg	droben
+darilc	mte:Ncnpg	darilca
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+ni	mte:Va-r3s-y	biti
+mogoče	mte:Agpnsn	mogoč
+najti	mte:Vmen	najti
+na	mte:Sl	na
+policah	mte:Ncfpl	polica
+trgovin	mte:Ncfpg	trgovina
+ali	mte:Cc	ali
+v	mte:Sl	v
+darilnih	mte:Agpmpl	darilen
+katalogih	mte:Ncmpl	katalog
+.	mte:Z	.
+V	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+letih	mte:Ncnpl	leto
+jih	mte:Pp3mpa--y	on
+zanje	mte:Pp3mpa--b	zame
+izdelujejo	mte:Vmpr3p	izdelovati
+tudi	mte:Q	tudi
+varovanci	mte:Ncmpn	varovanec
+vzgojnovarstvenih	mte:Agpmpg	vzgojnovarstven
+centrov	mte:Ncmpg	center
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+darilca	mte:Ncnpa	darilec
+,	mte:Z	,
+ki	mte:Cs	ki
+predstavljajo	mte:Vmpr3p	predstavljati
+naše	mte:Ps1nsap	naš
+poslanstvo	mte:Ncnsa	poslanstvo
+oziroma	mte:Cc	oziroma
+proizvodno	mte:Agpfsa	proizvoden
+dejavnost	mte:Ncfsa	dejavnost
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+estetska	mte:Agpnpn	estetski
+in	mte:Cc	in
+hkrati	mte:Rgp	hkrati
+uporabna	mte:Agpnpn	uporaben
+.	mte:Z	.
+Nimajo	mte:Vmpr3p-y	imeti
+visoke	mte:Agpfsg	visok
+materialne	mte:Agpfsg	materialen
+,	mte:Z	,
+temveč	mte:Cc	temveč
+sporočilno	mte:Agpfsa	sporočilen
+vrednost	mte:Ncfsa	vrednost
+,	mte:Z	,
+povezano	mte:Appnsa	povezan
+z	mte:Si	z
+izbrano	mte:Appfsi	izbran
+zgodbo	mte:Ncfsi	zgodba
+oziroma	mte:Cc	oziroma
+našo	mte:Ps1fsip	naš
+dejavnostjo	mte:Ncfsi	dejavnost
+,	mte:Z	,
+in	mte:Cc	in
+ne	mte:Q	ne
+posegajo	mte:Vmpr3p	posegati
+v	mte:Sa	v
+zasebnost	mte:Ncfsa	zasebnost
+obdarovanca	mte:Ncmsg	obdarovanec
+.	mte:Z	.
+Tako	mte:Rgp	tako
+podarijo	mte:Vmer3p	podariti
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+vazico	mte:Ncfsa	vazica
+v	mte:Sl	v
+obliki	mte:Ncfsl	oblika
+epruvete	mte:Ncfsg	epruvet
+za	mte:Sa	za
+en	mte:Mlpmsa	en
+cvet	mte:Ncmsan	cvet
+,	mte:Z	,
+knjige	mte:Ncfpa	knjiga
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+monografija	mte:Ncfsn	monografija
+reke	mte:Ncfsg	reka
+Krke	mte:Npfsg	Krka
+in	mte:Cc	in
+Novega	mte:Agpnsg	nov
+mesta	mte:Ncnsg	mesto
+ter	mte:Cc	ter
+Reka	mte:Ncfsn	reka
+zgodb	mte:Ncfpg	zgodba
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+so	mte:Va-r3p-n	biti
+svoje	mte:Px-mpa	svoj
+spomine	mte:Ncmpa	spomin
+strnili	mte:Vmep-pm	strniti
+sedanji	mte:Agpmpn	sedanji
+in	mte:Cc	in
+upokojeni	mte:Appmpn	upokojen
+krkaši	mte:Ncmpn	krkaš
+.	mte:Z	.
+Veliko	mte:Rgp	veliko
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+denar	mte:Ncmsn	denar
+raje	mte:Rgc	raje
+podari	mte:Vmer3s	podariti
+v	mte:Sa	v
+humanitarne	mte:Agpmpa	humanitaren
+namene	mte:Ncmpa	namen
+.	mte:Z	.
+V	mte:Sl	v
+Leku	mte:Npmsl	Lek
+dajo	mte:Vmer3p	dati
+več	mte:Rgc	več
+na	mte:Sa	na
+vsebino	mte:Ncfsa	vsebina
+in	mte:Cc	in
+obliko	mte:Ncfsa	oblika
+daril	mte:Ncnpg	darilo
+,	mte:Z	,
+na	mte:Sa	na
+izvirnost	mte:Ncfsa	izvirnost
+in	mte:Cc	in
+osebni	mte:Agpmsay	oseben
+pečat	mte:Ncmsan	pečat
+tistega	mte:Pd-nsg	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+darilo	mte:Ncnsa	darilo
+podarja	mte:Vmpr3s	podarjati
+.	mte:Z	.
+Pri	mte:Sl	pri
+izbiri	mte:Ncfsl	izbira
+sodelujejo	mte:Vmpr3p	sodelovati
+s	mte:Si	z
+priznanimi	mte:Appmpi	priznan
+slovenskimi	mte:Agpmpi	slovenski
+oblikovalci	mte:Ncmpi	oblikovalec
+in	mte:Cc	in
+ustvarjalci	mte:Ncmpi	ustvarjalec
+daril	mte:Ncnpg	darilo
+,	mte:Z	,
+trudimo	mte:Vmpr1p	truditi
+se	mte:Px------y	se
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+večina	mte:Ncfsn	večina
+naših	mte:Ps1npgp	naš
+daril	mte:Ncnpg	darilo
+zasnovana	mte:Appfsn	zasnovan
+in	mte:Cc	in
+narejena	mte:Appfsn	narejen
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Pozorni	mte:Agpmpn	pozoren
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+primerna	mte:Agpnpn	primeren
+tudi	mte:Q	tudi
+za	mte:Sa	za
+potovanje	mte:Ncnsa	potovanje
+,	mte:Z	,
+saj	mte:Cc	saj
+gredo	mte:Vmbr3p	iti
+z	mte:Si	z
+našimi	mte:Ps1mpip	naš
+sodelavci	mte:Ncmpi	sodelavec
+na	mte:Sa	na
+različne	mte:Agpmpa	različen
+konce	mte:Ncmpa	konec
+sveta	mte:Ncmsg	svet
+,	mte:Z	,
+predvsem	mte:Q	predvsem
+pa	mte:Cc	pa
+morajo	mte:Vmpr3p	morati
+biti	mte:Va-n	biti
+uporabna	mte:Agpnpn	uporaben
+in	mte:Cc	in
+cenovno	mte:Rgp	cenovno
+ugodna	mte:Agpnpn	ugoden
+.	mte:Z	.
+Pri	mte:Sl	pri
+njih	mte:Pp3mpl	on
+imajo	mte:Vmpr3p-n	imeti
+posebno	mte:Agpnsn	poseben
+mesto	mte:Ncnsn	mesto
+darila	mte:Ncnsg	darilo
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+navezujejo	mte:Vmpr3p	navezovati
+na	mte:Sa	na
+njihovo	mte:Ps3fsap	njihov
+farmacevtsko	mte:Agpnsa	farmacevtski
+-	mte:Z	-
+medicinsko	mte:Agpfsa	medicinski
+zbirko	mte:Ncfsa	zbirka
+Bohuslava	mte:Npmsg	Bohuslav
+Lavičke	mte:Npfsg	Lavička
+,	mte:Z	,
+eno	mte:Mlpfsa	en
+najlepših	mte:Agsfpg	lep
+in	mte:Cc	in
+najbogatejših	mte:Agsfpg	bogat
+tovrstnih	mte:Agpfpg	tovrsten
+zbirk	mte:Ncfpg	zbirka
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+in	mte:Cc	in
+darila	mte:Ncnpa	darilo
+,	mte:Z	,
+povezana	mte:Appnpn	povezan
+s	mte:Si	z
+Slovenijo	mte:Npfsi	Slovenija
+,	mte:Z	,
+slovenskim	mte:Agpnsi	slovenski
+ljudskim	mte:Agpnsi	ljudski
+izročilom	mte:Ncnsi	izročilo
+in	mte:Cc	in
+z	mte:Si	z
+našimi	mte:Ps1mpip	naš
+običaji	mte:Ncmpi	običaj
+.	mte:Z	.
+V	mte:Sl	v
+Mercatorju	mte:Npmsl	Mercator
+že	mte:Q	že
+peto	mte:Mlonsa	peti
+leto	mte:Ncnsa	leto
+ne	mte:Q	ne
+obdarujejo	mte:Vmpr3p	obdarovati
+poslovnih	mte:Agpmpg	posloven
+partnerjev	mte:Ncmpg	partner
+in	mte:Cc	in
+tudi	mte:Q	tudi
+njih	mte:Pp3mpg	on
+pozivamo	mte:Vmpr1p	pozivati
+,	mte:Z	,
+naj	mte:Cs	naj
+nam	mte:Pp1-pd	jaz
+ne	mte:Q	ne
+podarjajo	mte:Vmpr3p	podarjati
+daril	mte:Ncnpg	darilo
+ob	mte:Sl	ob
+koncu	mte:Ncmsl	konec
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+ampak	mte:Cc	ampak
+naj	mte:Q	naj
+jih	mte:Pp3mpa--y	on
+raje	mte:Rgc	raje
+namenijo	mte:Vmer3p	nameniti
+v	mte:Sa	v
+humanitarne	mte:Agpmpa	humanitaren
+namene	mte:Ncmpa	namen
+.	mte:Z	.
+Odpovemo	mte:Vmer1p	odpovedati
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+pisnim	mte:Agpfpd	pisen
+voščilnicam	mte:Ncfpd	voščilnica
+in	mte:Cc	in
+ne	mte:Q	ne
+prirejamo	mte:Vmpr1p	prirejati
+zabav	mte:Ncfpg	zabava
+,	mte:Z	,
+sredstva	mte:Ncnpa	sredstvo
+pa	mte:Cc	pa
+namenijo	mte:Vmer3p	nameniti
+njihovi	mte:Ps3fsdp	njihov
+humanitarni	mte:Agpfsd	humanitaren
+fundaciji	mte:Ncfsd	fundacija
+.	mte:Z	.
+Tudi	mte:Q	tudi
+na	mte:Sl	na
+Pošti	mte:Ncfsl	pošta
+Slovenije	mte:Npfsg	Slovenija
+so	mte:Va-r3p-n	biti
+klasična	mte:Agpnpn	klasičen
+poslovna	mte:Agpnpn	posloven
+darila	mte:Ncnpa	darilo
+zamenjali	mte:Vmep-pm	zamenjati
+z	mte:Si	z
+dobrodelnimi	mte:Agpnpi	dobrodelen
+darili	mte:Ncnpi	darilo
+širši	mte:Agcfsd	širok
+javnosti	mte:Ncfsd	javnost
+.	mte:Z	.
+Tako	mte:Rgp	tako
+raje	mte:Rgc	raje
+donirajo	mte:Vmpr3p	donirati
+v	mte:Sa	v
+zdravstvo	mte:Ncnsa	zdravstvo
+,	mte:Z	,
+kulturo	mte:Ncfsa	kultura
+,	mte:Z	,
+izobraževanje	mte:Ncnsa	izobraževanje
+in	mte:Cc	in
+lokalne	mte:Agpfpa	lokalen
+skupnosti	mte:Ncfpa	skupnost
+.	mte:Z	.
+V	mte:Sl	v
+Merkurju	mte:Npmsl	Merkur
+bodo	mte:Va-f3p-n	biti
+simbolična	mte:Agpnpa	simboličen
+darila	mte:Ncnpa	darilo
+izbrali	mte:Vmep-pm	izbrati
+med	mte:Si	med
+izdelki	mte:Ncmpi	izdelek
+njihovega	mte:Ps3msgp	njihov
+prodajnega	mte:Agpmsg	prodajen
+programa	mte:Ncmsg	program
+oziroma	mte:Cc	oziroma
+lastnih	mte:Agpfpg	lasten
+blagovnih	mte:Agpfpg	blagoven
+znamk	mte:Ncfpg	znamka
+.	mte:Z	.
+Bila	mte:Va-p-pf	biti
+bodo	mte:Va-f3p-n	biti
+praktična	mte:Agpnpn	praktičen
+,	mte:Z	,
+kakovostna	mte:Agpnpn	kakovosten
+in	mte:Cc	in
+cenovno	mte:Rgp	cenovno
+ugodna	mte:Agpnpn	ugoden
+.	mte:Z	.
+Namesto	mte:Sg	namesto
+daril	mte:Ncnpg	darilo
+za	mte:Sa	za
+poslovne	mte:Agpmpa	posloven
+partnerje	mte:Ncmpa	partner
+bo	mte:Va-f3s-n	biti
+Družba	mte:Ncfsn	družba
+za	mte:Sa	za
+avtoceste	mte:Ncfpa	avtocesta
+Dars	mte:Npmsn	Dars
+tudi	mte:Q	tudi
+letos	mte:Rgp	letos
+denar	mte:Ncmsan	denar
+namenila	mte:Vmep-sf	nameniti
+v	mte:Sa	v
+dobrodelne	mte:Agpmpa	dobrodelen
+namene	mte:Ncmpa	namen
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+Mladinskemu	mte:Agpmsd	mladinski
+domu	mte:Ncmsd	dom
+Malči	mte:Npmsn	Malča
+Belčeve	mte:Npmsg	Belč
+iz	mte:Sg	iz
+Ljubljane	mte:Npfsg	Ljubljana
+,	mte:Z	,
+Mladinskemu	mte:Agpmsd	mladinski
+domu	mte:Ncmsd	dom
+Maribor	mte:Npmsn	Maribor
+in	mte:Cc	in
+Fundaciji	mte:Npfsd	Fundacija
+Z	mte:Si	z
+glavo	mte:Ncfsi	glava
+na	mte:Sa	na
+zabavo	mte:Ncfsa	zabava
+.	mte:Z	.
+Vsak	mte:Pg-msn	vsak
+bo	mte:Va-f3s-n	biti
+dobil	mte:Vmep-sm	dobiti
+po	mte:Sa	po
+5000	mte:Mdc	5000
+evrov	mte:Ncmpg	evro

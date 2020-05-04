@@ -1,326 +1,361 @@
-token	tag
-Uprava	Ncfsn
-Triglava	Npmsg
-je	Va-r3s-n
-predlagala	Vmbp-sf
-,	Z
-da	Cs
-lastniki	Ncmpn
-odpokličejo	Vmer3p
-nadzorni	Agpmsay
-svet	Ncmsan
-Abanke	Npfsg
-,	Z
-ki	Cs
-mu	Pp3msd--y
-predseduje	Vmpr3s
-Tomaž	Npmsn
-Toplak	Npmsn
-.	Z
-Delničarji	Ncmpn
-bodo	Va-f3p-n
-o	Sl
-tem	Pd-nsl
-razpravljali	Vmpp-pm
-na	Sl
-skupščini	Ncfsl
-28	Mdc
-.	Z
-maja	Ncmsg
-.	Z
-Abanka	Npfsn
-je	Va-r3s-n
-tretja	Mlofsn
-največja	Agsfsn
-banka	Ncfsn
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Abanka	Npfsn
-je	Va-r3s-n
-že	Q
-pretekli	Appmsay
-teden	Ncmsan
-sklicala	Vmep-sf
-skupščino	Ncfsa
-delničarjev	Ncmpg
-,	Z
-kjer	Cs
-bi	Va-c
-sicer	Q
-razpravljali	Vmpp-pm
-o	Sl
-višini	Ncfsl
-dividende	Ncfsg
-predlagana	Appfsn
-je	Va-r3s-n
-1,01	Mdc
-evra	Ncmsg
-in	Cc
-o	Sl
-letnem	Agpnsl
-poročilu	Ncnsl
-banke	Ncfsg
-.	Z
-Ker	Cs
-30	Mdc
-.	Z
-junija	Ncmsg
-poteče	Vmer3s
-mandat	Ncmsn
-dvema	Mlcmda
-nadzornikoma	Ncmdd
-Tomažu	Npmsd
-Toplaku	Npmsd
-tudi	Q
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Istrabenza	Npmsg
-in	Cc
-nekdanji	Agpmsny
-prvi	Mlomsn
-mož	Ncmsn
-Kada	Npmsg
-in	Cc
-Simonu	Npmsd
-Zdolšku	Npmsd
-predsednik	Ncmsn
-uprave	Ncfsg
-Zvon	Ncmsn
-ena	Mlpfsn
-holding	Ncmsn
-,	Z
-uprava	Ncfsn
-Abanke	Npfsg
-predlaga	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-na	Sl
-skupščini	Ncfsl
-oba	Pg-mdn
-člana	Ncmdn
-imenuje	Vmbr3s
-znova	Rgp
-za	Sa
-štiriletno	Agpnsa
-obdobje	Ncnsa
-.	Z
-Uprava	Ncfsn
-Zavarovalnice	Ncfsg
-Triglav	Npmsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-vodi	Vmpr3s
-Andrej	Npmsn
-Kocič	Npmsn
-pa	Cc
-je	Va-r3s-n
-predlagala	Vmbp-sf
-razširitev	Ncfsa
-dnevnega	Agpmsg
-reda	Ncmsg
-skupščine	Ncfsg
-in	Cc
-nasprotni	Agpmsay
-predlog	Ncmsan
-uprave	Ncfsg
-Abanke	Npfsg
-odpoklic	Ncmsn
-celotnega	Agpmsg
-nadzornega	Agpmsg
-sveta	Ncmsg
-Abanke	Npfsg
-in	Cc
-imenovanje	Ncnsa
-novega	Agpnsg
-.	Z
-Edini	Agpmsny
-nadzornik	Ncmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-predlagajo	Vmbr3p
-znova	Rgp
-,	Z
-je	Va-r3s-n
-Simon	Npmsn
-Zdolšek	Npmsn
-,	Z
-predsednik	Ncmsn
-uprave	Ncfsg
-Zvon	Ncmsn
-ena	Mlpfsn
-holdinga	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-približno	Rgp
-17	Mdc
--	Z
-odstotni	Agpmsny
-lastnik	Ncmsnn
-Abanke	Ncfsg
-.	Z
-Svojega	Px-msg
-predloga	Ncmsg
-v	Sl
-Triglavu	Npmsl
-niso	Va-r3p-y
-utemeljili	Vmep-pm
-ali	Cc
-pojasnili	Vmep-pm
-,	Z
-kar	Pr-nsa
-po	Sl
-zakonu	Ncmsl
-tudi	Q
-ni	Va-r3s-y
-treba	Rgp
-.	Z
-V	Sl
-Triglavu	Npmsl
-so	Va-r3p-n
-za	Sa
-nove	Agpmpa
-nadzornike	Ncmpa
-,	Z
-poleg	Sg
-Simona	Npmsg
-Zdolška	Npmsg
-,	Z
-predlagali	Vmbp-pm
-predsednika	Ncmsay
-uprave	Ncfsg
-družbe	Ncfsg
-Casino	Npmsn
-Kobarid	Npmsn
-in	Cc
-prokurista	Ncmsg
-HIT	Npmsn
--	Z
-a	Cc
-iz	Sg
-Nove	Agpfsg
-Gorice	Npfsg
-Srdana	Npmsg
-Tovornika	Npmsg
-HIT	Npmsn
-je	Va-r3s-n
-približno	Rgp
-šestodstotni	Agpmsny
-lastnik	Ncmsn
-Abanke	Npfsg
-,	Z
-direktorja	Ncmsg
-pravne	Agpfsg
-pisarne	Ncfsg
-v	Sl
-Triglavu	Npmsl
-Miha	Npmsn
-Grilca	Npmsg
-,	Z
-izvršnega	Agpmsg
-direktorja	Ncmsg
-za	Sa
-finance	Ncfpa
-v	Sl
-Triglavu	Npmsl
-Uroša	Npmsg
-Ivanca	Npmsg
-in	Cc
-direktorja	Ncmsg
-Gradisa	Npmsg
-IPGI	Npmsg
-Aleša	Npmsg
-Vahčiča	Npmsg
-.	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-Triglava	Npmsg
-Andrej	Npmsn
-Kocič	Npmsn
-Foto	Npmsn
-POP	Npmsn
-TV	Ncmsn
-Zavarovalnica	Ncfsn
-Triglav	Npmsn
-je	Va-r3s-n
-sicer	Q
-največji	Agsmsny
-posamični	Agpmsny
-lastnik	Ncmsn
-Abanke	Npfsg
-s	Si
-25,6	Mdc
--	Z
-odstotnim	Agpmsi
-deležem	Ncmsi
-.	Z
-Drugi	Mlpmsny
-največji	Agsmsny
-lastnik	Ncmsn
-je	Va-r3s-n
-Sava	Npfsn
-s	Si
-23,83	Mdc
--	Z
-odstotnim	Agpmsi
-deležem	Ncmsi
-.	Z
-Sledijo	Vmpr3p
-Zvon	Ncmsan
-ena	Mlpfsn
-holding	Ncmsn
-17,16	Mdc
-odstotka	Ncmsg
-,	Z
-Triglav	Npmsn
-vzajemni	Agpmpn
-skladi	Ncmpn
-7,32	Mdc
-odstotka	Ncmsg
-in	Cc
-HIT	Ncmsn
-6,15	Mdc
-odstotka	Ncmsg
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-so	Va-r3p-n
-večji	Agcmpn
-lastniki	Ncmpn
-še	Q
-Diamond	Npmsn
-3,55	Mdc
-,	Z
-Sod	Ncmsn
-2,24	Mdc
-,	Z
-Vipa	Npmsn
-holding	Ncmsn
-2,18	Mdc
-,	Z
-Vipa	Npfsn
-1,91	Mdc
-in	Cc
-Raiffeisen	Npmsn
-Zentralbank	Npmsn
-Oesterreich	Npmsn
-1,47	Mdc
-.	Z
-Omenjeni	Appmpn
-lastniki	Ncmpn
-predstavljajo	Vmpr3p
-91,42	Mdc
-odstotka	Ncmsg
-lastniškega	Agpmsg
-deleža	Ncmsg
-,	Z
-drugo	Mlpfsa
-so	Va-r3p-n
-mali	Agpmpn
-delničarji	Ncmpn
-.	Z
+token	tag	lemma
+Uprava	mte:Ncfsn	uprava
+Triglava	mte:Npmsg	Triglav
+je	mte:Va-r3s-n	biti
+predlagala	mte:Vmbp-sf	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+lastniki	mte:Ncmpn	lastnik
+odpokličejo	mte:Vmer3p	odpoklicati
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+Abanke	mte:Npfsg	Abanka
+,	mte:Z	,
+ki	mte:Cs	ki
+mu	mte:Pp3msd--y	on
+predseduje	mte:Vmpr3s	predsedovati
+Tomaž	mte:Npmsn	Tomaž
+Toplak	mte:Npmsn	Toplak
+.	mte:Z	.
+Delničarji	mte:Ncmpn	delničar
+bodo	mte:Va-f3p-n	biti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+razpravljali	mte:Vmpp-pm	razpravljati
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+28	mte:Mdc	28
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+.	mte:Z	.
+Abanka	mte:Npfsn	Abanka
+je	mte:Va-r3s-n	biti
+tretja	mte:Mlofsn	tretji
+največja	mte:Agsfsn	velik
+banka	mte:Ncfsn	banka
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Abanka	mte:Npfsn	Abanka
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+pretekli	mte:Appmsay	pretekel
+teden	mte:Ncmsan	teden
+sklicala	mte:Vmep-sf	sklicati
+skupščino	mte:Ncfsa	skupščina
+delničarjev	mte:Ncmpg	delničar
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bi	mte:Va-c	biti
+sicer	mte:Q	sicer
+razpravljali	mte:Vmpp-pm	razpravljati
+o	mte:Sl	o
+višini	mte:Ncfsl	višina
+dividende	mte:Ncfsg	dividenda
+predlagana	mte:Appfsn	predlagan
+je	mte:Va-r3s-n	biti
+1,01	mte:Mdc	1,01
+evra	mte:Ncmsg	evro
+in	mte:Cc	in
+o	mte:Sl	o
+letnem	mte:Agpnsl	leten
+poročilu	mte:Ncnsl	poročilo
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Ker	mte:Cs	ker
+30	mte:Mdc	30
+.	mte:Z	.
+junija	mte:Ncmsg	junij
+poteče	mte:Vmer3s	poteči
+mandat	mte:Ncmsn	mandat
+dvema	mte:Mlcmda	dva
+nadzornikoma	mte:Ncmdd	nadzornik
+Tomažu	mte:Npmsd	Tomaž
+Toplaku	mte:Npmsd	Toplak
+tudi	mte:Q	tudi
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Istrabenza	mte:Npmsg	Istrabenz
+in	mte:Cc	in
+nekdanji	mte:Agpmsny	nekdanji
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Kada	mte:Npmsg	Kada
+in	mte:Cc	in
+Simonu	mte:Npmsd	Simon
+Zdolšku	mte:Npmsd	Zdolško
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Zvon	mte:Ncmsn	zvon
+ena	mte:Mlpfsn	en
+holding	mte:Ncmsn	holding
+,	mte:Z	,
+uprava	mte:Ncfsn	uprava
+Abanke	mte:Npfsg	Abanka
+predlaga	mte:Vmbr3s	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+oba	mte:Pg-mdn	oba
+člana	mte:Ncmdn	član
+imenuje	mte:Vmbr3s	imenovati
+znova	mte:Rgp	znova
+za	mte:Sa	za
+štiriletno	mte:Agpnsa	štirileten
+obdobje	mte:Ncnsa	obdobje
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+Zavarovalnice	mte:Ncfsg	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+vodi	mte:Vmpr3s	voditi
+Andrej	mte:Npmsn	Andrej
+Kocič	mte:Npmsn	Kocič
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+predlagala	mte:Vmbp-sf	predlagati
+razširitev	mte:Ncfsa	razširitev
+dnevnega	mte:Agpmsg	dneven
+reda	mte:Ncmsg	red
+skupščine	mte:Ncfsg	skupščina
+in	mte:Cc	in
+nasprotni	mte:Agpmsay	nasproten
+predlog	mte:Ncmsan	predlog
+uprave	mte:Ncfsg	uprava
+Abanke	mte:Npfsg	Abanka
+odpoklic	mte:Ncmsn	odpoklica
+celotnega	mte:Agpmsg	celoten
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Abanke	mte:Npfsg	Abanka
+in	mte:Cc	in
+imenovanje	mte:Ncnsa	imenovanje
+novega	mte:Agpnsg	nov
+.	mte:Z	.
+Edini	mte:Agpmsny	edin
+nadzornik	mte:Ncmsn	nadzornik
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+predlagajo	mte:Vmbr3p	predlagati
+znova	mte:Rgp	znova
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Simon	mte:Npmsn	Simon
+Zdolšek	mte:Npmsn	Zdolšek
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Zvon	mte:Ncmsn	zvon
+ena	mte:Mlpfsn	en
+holdinga	mte:Ncmsg	holdinga
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+približno	mte:Rgp	približno
+17	mte:Mdc	17
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+lastnik	mte:Ncmsnn	lastnik
+Abanke	mte:Ncfsg	abanka
+.	mte:Z	.
+Svojega	mte:Px-msg	svoj
+predloga	mte:Ncmsg	predlog
+v	mte:Sl	v
+Triglavu	mte:Npmsl	Triglav
+niso	mte:Va-r3p-y	biti
+utemeljili	mte:Vmep-pm	utemeljiti
+ali	mte:Cc	ali
+pojasnili	mte:Vmep-pm	pojasniti
+,	mte:Z	,
+kar	mte:Pr-nsa	kar
+po	mte:Sl	po
+zakonu	mte:Ncmsl	zakon
+tudi	mte:Q	tudi
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+.	mte:Z	.
+V	mte:Sl	v
+Triglavu	mte:Npmsl	Triglav
+so	mte:Va-r3p-n	biti
+za	mte:Sa	za
+nove	mte:Agpmpa	nov
+nadzornike	mte:Ncmpa	nadzornik
+,	mte:Z	,
+poleg	mte:Sg	poleg
+Simona	mte:Npmsg	Simon
+Zdolška	mte:Npmsg	Zdolška
+,	mte:Z	,
+predlagali	mte:Vmbp-pm	predlagati
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+družbe	mte:Ncfsg	družba
+Casino	mte:Npmsn	Casino
+Kobarid	mte:Npmsn	Kobarid
+in	mte:Cc	in
+prokurista	mte:Ncmsg	prokurist
+HIT	mte:Npmsn	Hit
+-	mte:Z	-
+a	mte:Cc	a
+iz	mte:Sg	iz
+Nove	mte:Agpfsg	nov
+Gorice	mte:Npfsg	Gorica
+Srdana	mte:Npmsg	Srdan
+Tovornika	mte:Npmsg	Tovornik
+HIT	mte:Npmsn	Hit
+je	mte:Va-r3s-n	biti
+približno	mte:Rgp	približno
+šestodstotni	mte:Agpmsny	šestodstoten
+lastnik	mte:Ncmsn	lastnik
+Abanke	mte:Npfsg	Abanka
+,	mte:Z	,
+direktorja	mte:Ncmsg	direktor
+pravne	mte:Agpfsg	praven
+pisarne	mte:Ncfsg	pisarna
+v	mte:Sl	v
+Triglavu	mte:Npmsl	Triglav
+Miha	mte:Npmsn	Miha
+Grilca	mte:Npmsg	Grilc
+,	mte:Z	,
+izvršnega	mte:Agpmsg	izvršen
+direktorja	mte:Ncmsg	direktor
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+v	mte:Sl	v
+Triglavu	mte:Npmsl	Triglav
+Uroša	mte:Npmsg	Uroša
+Ivanca	mte:Npmsg	Ivanc
+in	mte:Cc	in
+direktorja	mte:Ncmsg	direktor
+Gradisa	mte:Npmsg	Gradis
+IPGI	mte:Npmsg	IPGI
+Aleša	mte:Npmsg	Aleša
+Vahčiča	mte:Npmsg	Vahčič
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Triglava	mte:Npmsg	Triglav
+Andrej	mte:Npmsn	Andrej
+Kocič	mte:Npmsn	Kocič
+Foto	mte:Npmsn	foto
+POP	mte:Npmsn	POP
+TV	mte:Ncmsn	TV
+Zavarovalnica	mte:Ncfsn	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+največji	mte:Agsmsny	velik
+posamični	mte:Agpmsny	posamičen
+lastnik	mte:Ncmsn	lastnik
+Abanke	mte:Npfsg	Abanka
+s	mte:Si	z
+25,6	mte:Mdc	25,6
+-	mte:Z	-
+odstotnim	mte:Agpmsi	odstoten
+deležem	mte:Ncmsi	delež
+.	mte:Z	.
+Drugi	mte:Mlpmsny	drug
+največji	mte:Agsmsny	velik
+lastnik	mte:Ncmsn	lastnik
+je	mte:Va-r3s-n	biti
+Sava	mte:Npfsn	Sava
+s	mte:Si	z
+23,83	mte:Mdc	23,83
+-	mte:Z	-
+odstotnim	mte:Agpmsi	odstoten
+deležem	mte:Ncmsi	delež
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+Zvon	mte:Ncmsan	zvon
+ena	mte:Mlpfsn	en
+holding	mte:Ncmsn	holding
+17,16	mte:Mdc	17,16
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+Triglav	mte:Npmsn	Triglav
+vzajemni	mte:Agpmpn	vzajemen
+skladi	mte:Ncmpn	sklad
+7,32	mte:Mdc	7,32
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+HIT	mte:Ncmsn	Hit
+6,15	mte:Mdc	6,15
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+so	mte:Va-r3p-n	biti
+večji	mte:Agcmpn	velik
+lastniki	mte:Ncmpn	lastnik
+še	mte:Q	še
+Diamond	mte:Npmsn	Diamond
+3,55	mte:Mdc	3,55
+,	mte:Z	,
+Sod	mte:Ncmsn	sod
+2,24	mte:Mdc	2,24
+,	mte:Z	,
+Vipa	mte:Npmsn	Vipa
+holding	mte:Ncmsn	holding
+2,18	mte:Mdc	2,18
+,	mte:Z	,
+Vipa	mte:Npfsn	Vipa
+1,91	mte:Mdc	1,91
+in	mte:Cc	in
+Raiffeisen	mte:Npmsn	Raiffeisen
+Zentralbank	mte:Npmsn	Zentralbank
+Oesterreich	mte:Npmsn	Oesterreich
+1,47	mte:Mdc	1,47
+.	mte:Z	.
+Omenjeni	mte:Appmpn	omenjen
+lastniki	mte:Ncmpn	lastnik
+predstavljajo	mte:Vmpr3p	predstavljati
+91,42	mte:Mdc	91,42
+odstotka	mte:Ncmsg	odstotek
+lastniškega	mte:Agpmsg	lastniški
+deleža	mte:Ncmsg	delež
+,	mte:Z	,
+drugo	mte:Mlpfsa	drug
+so	mte:Va-r3p-n	biti
+mali	mte:Agpmpn	mali
+delničarji	mte:Ncmpn	delničar
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+trenutno	mte:Rgp	trenutno
+vodi	mte:Vmpr3s	voditi
+Tomaž	mte:Npmsn	Tomaž
+Toplak	mte:Npmsn	Toplak
+,	mte:Z	,
+člani	mte:Ncmpn	član
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+Simon	mte:Npmsn	Simon
+Zdolšek	mte:Npmsn	Zdolšek
+,	mte:Z	,
+direktor	mte:Ncmsn	direktor
+DSU	mte:Npfsg	DSU
+Uroš	mte:Npmsn	Uroš
+Rožič	mte:Npmsn	Rožič
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+HIT	mte:Npmsn	Hit
+-	mte:Z	-
+a	mte:Cc	a
+Niko	mte:Npmsn	Niko
+Trošt	mte:Npmsn	Trošt
+in	mte:Cc	in
+Irena	mte:Npfsn	Irena
+Vodopivec	mte:Npmsn	Vodopivec
+Jean	mte:Npmsn	Jean
+iz	mte:Sg	iz
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+finance	mte:Ncfpa	finance

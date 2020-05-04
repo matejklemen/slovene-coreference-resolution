@@ -1,442 +1,455 @@
-token	tag
-Ministrica	Ncfsn
-Katarina	Npfsn
-Kresal	Npfsn
-zatrjuje	Vmpr3s
-:	Z
-MNZ	Npnsn
-ni	Va-r3s-y
-iskalo	Vmpp-sn
-in	Cc
-ne	Q
-išče	Vmpr3s
-kupca	Ncmsg
-za	Sa
-stavbo	Ncfsa
-NPU	Npmsg
-.	Z
-Še	Q
-nikoli	Rgp
-ni	Va-r3s-y
-slišala	Vmbp-sf
-za	Sa
-predstavnika	Ncmsay
-Reiffeisen	Npmsg
-Leasinga	Npmsg
-,	Z
-ki	Cs
-trdi	Vmpr3s
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-o	Sl
-novi	Agpfsl
-pogodbi	Ncfsl
-pogovarjal	Vmpp-sm
-neposredno	Rgp
-z	Si
-njo	Pp3fsi
-.	Z
-Notranja	Agpfsn
-ministrica	Ncfsn
-in	Cc
-predsednica	Ncfsn
-LDS	Npfsg
-Katarina	Npfsn
-Kresal	Npfsn
-se	Px------y
-je	Va-r3s-n
-ostro	Rgp
-odzvala	Vmep-sf
-na	Sa
-sinočnje	Agpnsa
-poročanje	Ncnsa
-v	Sl
-medijih	Ncmpl
-,	Z
-da	Cs
-želi	Vmpr3s
-MNZ	Npfsa
-skleniti	Vmen
-novo	Agpfsa
-pogodbo	Ncfsa
-o	Sl
-najemu	Ncmsl
-stavbe	Ncfsg
-Nacionalnega	Agpmsg
-preiskovalnega	Agpmsg
-urada	Ncmsg
-(	Z
-NPU	Npmsn
-)	Z
-na	Sl
-Dimičevi	Aspfsl
-.	Z
-Včeraj	Rgp
-je	Va-r3s-n
-namreč	Cc
-prišlo	Vmep-sn
-na	Sa
-dan	Ncmsan
-,	Z
-da	Cs
-je	Va-r3s-n
-Reiffeisen	Npmsn
-Leasing	Npmsn
-na	Sl
-MNZ	Npfsl
-sredi	Sg
-maja	Ncmsg
-poslal	Vmep-sm
-uradni	Agpmsay
-predlog	Ncmsan
-pogodbe	Ncfsg
-,	Z
-po	Sl
-kateri	Pq-fsl
-bi	Va-c
-od	Sg
-trenutnega	Agpmsg
-lastnika	Ncmsg
-Ram	Npmsn
-Invest	Npmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-vodi	Vmpr3s
-Igor	Npmsn
-Jurij	Npmsn
-Pogačar	Npmsn
-,	Z
-stavbo	Ncfsa
-odkupili	Vmep-pm
-in	Cc
-jo	Pp3fsa--y
-takoj	Rgp
-znova	Rgp
-dali	Vmep-pm
-v	Sl
-najem	Ncmsl
-državi	Ncfsl
-po	Sl
-ugodnejših	Agcmpl
-pogojih	Ncmpl
-.	Z
-Sobotni	Agpmsny
-kongres	Ncmsn
-LDS	Npfsg
-je	Va-r3s-n
-očitno	Rgp
-prinesel	Vmep-sm
-novo	Agpfsa
-priložnost	Ncfsa
-,	Z
-da	Cs
-se	Px------y
-Katarino	Npfsa
-Kresal	Npfsa
-še	Q
-enkrat	Rgp
-očrni	Vmer3s
-.	Z
-Da	Cs
-se	Px------y
-pokaže	Vmer3s
-,	Z
-kakšne	Pq-fsg
-zarote	Ncfpn
-vse	Pg-nsn
-kuje	Vmpr3s
-.	Z
-Da	Cs
-dela	Vmpr3s
-izključno	Rgp
-v	Sa
-svoje	Px-nsa
-dobro	Agpnsa
-.	Z
-Da	Cs
-je	Va-r3s-n
-sužnja	Ncfsn
-elit	Ncfpg
-.	Z
-Da	Cs
-je	Va-r3s-n
-kriva	Agpfsn
-za	Sa
-vse	Pg-nsa
-.	Z
-Katarina	Npfsn
-Kresal	Npfsn
-Kresalova	Aspfsn
-je	Va-r3s-n
-v	Sl
-blogu	Ncmsl
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-LDS	Npfsg
-danes	Rgp
-ovrgla	Vmep-sf
-vsa	Pg-npa
-namigovanja	Ncnpa
-,	Z
-da	Cs
-za	Sa
-težnjo	Ncfsa
-Reiffeisen	Npmsn
-Leasinga	Npmsg
-stoji	Vmpr3s
-ona	Pp3fsn
-sama	Agpfsn
-,	Z
-potem	Rgp
-ko	Cs
-ji	Pp3fsd--y
-opozicija	Ncfsn
-in	Cc
-po	Sl
-nekaterih	Pi-mpl
-neuradnih	Agpmpl
-podatkih	Ncmpl
-tudi	Q
-Računsko	Agpnsn
-sodišče	Ncnsn
-očitata	Vmpr3d
-negospodarno	Agpfsa
-najemno	Agpfsa
-pogodbo	Ncfsa
-.	Z
-"	Z
-Sobotni	Agpmsny
-kongres	Ncmsn
-LDS	Npfsg
-je	Va-r3s-n
-očitno	Rgp
-prinesel	Vmep-sm
-novo	Agpfsa
-priložnost	Ncfsa
-,	Z
-da	Cs
-se	Px------y
-Katarino	Npfsa
-Kresal	Npfsa
-še	Q
-enkrat	Rgp
-očrni	Vmer3s
-.	Z
-Da	Cs
-se	Px------y
-pokaže	Vmer3s
-,	Z
-kakšne	Pq-fsg
-zarote	Ncfpn
-vse	Pg-nsn
-kuje	Vmpr3s
-.	Z
-Da	Cs
-dela	Vmpr3s
-izključno	Rgp
-v	Sa
-svoje	Px-nsa
-dobro	Agpnsa
-.	Z
-Da	Cs
-je	Va-r3s-n
-sužnja	Ncfsn
-elit	Ncfpg
-.	Z
-Da	Cs
-je	Va-r3s-n
-kriva	Agpfsn
-za	Sa
-vse	Pg-nsa
-.	Z
-Zato	Cc
-še	Q
-enkrat	Rgp
-in	Cc
-da	Cs
-bo	Va-f3s-n
-jasno	Agpnsn
-enkrat	Rgp
-za	Sa
-vselej	Rgp
-:	Z
-ministrstvo	Ncnsn
-za	Sa
-notranje	Agpfpa
-zadeve	Ncfpa
-ni	Va-r3s-y
-iskalo	Vmpp-sn
-in	Cc
-ne	Q
-išče	Vmpr3s
-kupca	Ncmsg
-za	Sa
-stavbo	Ncfsa
-NPU	Npmsg
-.	Z
-Ministrstvo	Ncnsn
-za	Sa
-notranje	Agpfpa
-zadeve	Ncfpa
-nikogar	Pz-msg
-ni	Va-r3s-y
-prosilo	Vmpp-sn
-za	Sa
-ponudbo	Ncfsa
-za	Sa
-odkup	Ncmsan
-stavbe	Ncfsg
-.	Z
-Katarina	Npfsn
-Kresal	Npfsn
-z	Si
-nikomer	Pz-msi
-iz	Sg
-Raiffeisen	Npfsg
-Leasing	Npmsg
-glede	Sg
-te	Pd-fsg
-ponudbe	Ncfsg
-ni	Va-r3s-y
-bila	Va-p-sf
-'	Z
-v	Sl
-stikih	Ncmpl
-'	Z
-.	Z
-"	Z
-Katarina	Npfsn
-Kresal	Npfsn
-ne	Q
-pozna	Vmpr3s
-in	Cc
-doslej	Rgp
-nikoli	Rgp
-ni	Va-r3s-y
-slišala	Vmbp-sf
-za	Sa
-predstavnika	Ncmsay
-Raiffeisen	Npmsg
-Leasing	Npmsg
-z	Sg
-Dunaja	Npmsg
-z	Si
-imenom	Ncnsi
-Johannes	Npmsn
-Frei	Npmsn
-,	Z
-"	Z
-nadaljuje	Vmpr3s
-Kresalova	Aspfsn
-,	Z
-s	Si
-čimer	Pr-nsi
-je	Va-r3s-n
-zanikala	Vmep-sf
-včerajšnje	Agpnsa
-poročanje	Ncnsa
-Kanala	Npmsg
-A	Cc
-,	Z
-za	Sa
-katerega	Pq-msa
-je	Va-r3s-n
-Frei	Npmsn
-dejal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-glede	Sg
-nove	Agpfsg
-pogodbe	Ncfsg
-pogaja	Vmpr3s
-neposredno	Rgp
-s	Si
-Kresalovo	Aspfsi
-.	Z
-"	Z
-Katarina	Npfsn
-Kresal	Npfsn
-se	Px------y
-s	Si
-ponudbo	Ncfsi
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-poslala	Vmep-sf
-Raiffeisen	Npfsn
-Leasing	Npmsn
-z	Sg
-Dunaja	Npmsg
-,	Z
-ni	Va-r3s-y
-ukvarjala	Vmpp-sf
-,	Z
-temveč	Cc
-so	Va-r3p-n
-jo	Pp3fsa--y
-v	Sa
-obravnavo	Ncfsa
-prevzele	Vmep-pf
-strokovne	Agpfpn
-službe	Ncfpn
-ministrstva	Ncnsg
-.	Z
-Ministrstvo	Ncnsn
-za	Sa
-notranje	Agpfpa
-zadeve	Ncfpa
-za	Sa
-odkup	Ncmsan
-stavbe	Ncfsg
-nima	Vmpr3s-y
-denarja	Ncmsg
-,	Z
-zato	Cc
-za	Sa
-to	Pd-nsa
-sploh	Q
-ni	Va-r3s-y
-možnosti	Ncfsg
-.	Z
-Bo	Va-f3s-n
-pa	Cc
-ministrstvo	Ncnsn
-uradno	Agpfsa
-ponudbo	Ncfsa
-preučilo	Vmep-sn
-,	Z
-se	Px------y
-o	Sl
-njej	Pp3fsl
-posvetovalo	Vmpp-sn
-s	Si
-pristojnimi	Agpmpi
-resorji	Ncmpi
-in	Cc
-nanjo	Pp3fsa--b
-uradno	Rgp
-odgovorilo	Vmep-sn
-.	Z
-Ne	Q
-vem	Vmpr1s
-,	Z
-zakaj	Rgp
-je	Va-r3s-n
-Raiffeisen	Npmsn
-Leasing	Npmsn
-z	Sg
-Dunaja	Npmsg
-ponudbo	Ncfsa
-poslal	Vmep-sm
-na	Sa
-ministrstvo	Ncnsa
-za	Sa
-notranje	Agpfpa
-zadeve	Ncfpa
-.	Z
+token	tag	lemma
+Ministrica	mte:Ncfsn	ministrica
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+zatrjuje	mte:Vmpr3s	zatrjevati
+:	mte:Z	:
+MNZ	mte:Npnsn	MNZ
+ni	mte:Va-r3s-y	biti
+iskalo	mte:Vmpp-sn	iskati
+in	mte:Cc	in
+ne	mte:Q	ne
+išče	mte:Vmpr3s	iskati
+kupca	mte:Ncmsg	kupec
+za	mte:Sa	za
+stavbo	mte:Ncfsa	stavba
+NPU	mte:Npmsg	NPU
+.	mte:Z	.
+Še	mte:Q	še
+nikoli	mte:Rgp	nikoli
+ni	mte:Va-r3s-y	biti
+slišala	mte:Vmbp-sf	slišati
+za	mte:Sa	za
+predstavnika	mte:Ncmsay	predstavnik
+Reiffeisen	mte:Npmsg	Reiffeisen
+Leasinga	mte:Npmsg	Leasing
+,	mte:Z	,
+ki	mte:Cs	ki
+trdi	mte:Vmpr3s	trditi
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+novi	mte:Agpfsl	nov
+pogodbi	mte:Ncfsl	pogodba
+pogovarjal	mte:Vmpp-sm	pogovarjati
+neposredno	mte:Rgp	neposredno
+z	mte:Si	z
+njo	mte:Pp3fsi	on
+.	mte:Z	.
+Notranja	mte:Agpfsn	notranji
+ministrica	mte:Ncfsn	ministrica
+in	mte:Cc	in
+predsednica	mte:Ncfsn	predsednica
+LDS	mte:Npfsg	LDS
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ostro	mte:Rgp	ostro
+odzvala	mte:Vmep-sf	odzvati
+na	mte:Sa	na
+sinočnje	mte:Agpnsa	sinočnji
+poročanje	mte:Ncnsa	poročanje
+v	mte:Sl	v
+medijih	mte:Ncmpl	medij
+,	mte:Z	,
+da	mte:Cs	da
+želi	mte:Vmpr3s	želeti
+MNZ	mte:Npfsa	MNZ
+skleniti	mte:Vmen	skleniti
+novo	mte:Agpfsa	nov
+pogodbo	mte:Ncfsa	pogodba
+o	mte:Sl	o
+najemu	mte:Ncmsl	najem
+stavbe	mte:Ncfsg	stavba
+Nacionalnega	mte:Agpmsg	nacionalen
+preiskovalnega	mte:Agpmsg	preiskovalen
+urada	mte:Ncmsg	urad
+(	mte:Z	(
+NPU	mte:Npmsn	NPU
+)	mte:Z	)
+na	mte:Sl	na
+Dimičevi	mte:Aspfsl	Dimičev
+.	mte:Z	.
+Včeraj	mte:Rgp	včeraj
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+prišlo	mte:Vmep-sn	priti
+na	mte:Sa	na
+dan	mte:Ncmsan	dan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Reiffeisen	mte:Npmsn	Reiffeisen
+Leasing	mte:Npmsn	Leasing
+na	mte:Sl	na
+MNZ	mte:Npfsl	MNZ
+sredi	mte:Sg	sredi
+maja	mte:Ncmsg	maj
+poslal	mte:Vmep-sm	poslati
+uradni	mte:Agpmsay	uraden
+predlog	mte:Ncmsan	predlog
+pogodbe	mte:Ncfsg	pogodba
+,	mte:Z	,
+po	mte:Sl	po
+kateri	mte:Pq-fsl	kateri
+bi	mte:Va-c	biti
+od	mte:Sg	od
+trenutnega	mte:Agpmsg	trenuten
+lastnika	mte:Ncmsg	lastnik
+Ram	mte:Npmsn	Ram
+Invest	mte:Npmsg	Invest
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+vodi	mte:Vmpr3s	voditi
+Igor	mte:Npmsn	Igor
+Jurij	mte:Npmsn	Jurij
+Pogačar	mte:Npmsn	Pogačar
+,	mte:Z	,
+stavbo	mte:Ncfsa	stavba
+odkupili	mte:Vmep-pm	odkupiti
+in	mte:Cc	in
+jo	mte:Pp3fsa--y	on
+takoj	mte:Rgp	takoj
+znova	mte:Rgp	znova
+dali	mte:Vmep-pm	dati
+v	mte:Sl	v
+najem	mte:Ncmsl	najem
+državi	mte:Ncfsl	država
+po	mte:Sl	po
+ugodnejših	mte:Agcmpl	ugoden
+pogojih	mte:Ncmpl	pogoj
+.	mte:Z	.
+Sobotni	mte:Agpmsny	soboten
+kongres	mte:Ncmsn	kongres
+LDS	mte:Npfsg	LDS
+je	mte:Va-r3s-n	biti
+očitno	mte:Rgp	očitno
+prinesel	mte:Vmep-sm	prinesti
+novo	mte:Agpfsa	nov
+priložnost	mte:Ncfsa	priložnost
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Katarino	mte:Npfsa	Katarina
+Kresal	mte:Npfsa	Kresal
+še	mte:Q	še
+enkrat	mte:Rgp	enkrat
+očrni	mte:Vmer3s	očrneti
+.	mte:Z	.
+Da	mte:Cs	da
+se	mte:Px------y	se
+pokaže	mte:Vmer3s	pokazati
+,	mte:Z	,
+kakšne	mte:Pq-fsg	kakšen
+zarote	mte:Ncfpn	zarota
+vse	mte:Pg-nsn	ves
+kuje	mte:Vmpr3s	kujiti
+.	mte:Z	.
+Da	mte:Cs	da
+dela	mte:Vmpr3s	delati
+izključno	mte:Rgp	izključno
+v	mte:Sa	v
+svoje	mte:Px-nsa	svoj
+dobro	mte:Agpnsa	dober
+.	mte:Z	.
+Da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sužnja	mte:Ncfsn	sužnja
+elit	mte:Ncfpg	elita
+.	mte:Z	.
+Da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+kriva	mte:Agpfsn	kriv
+za	mte:Sa	za
+vse	mte:Pg-nsa	ves
+.	mte:Z	.
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+Kresalova	mte:Aspfsn	Kresalov
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+blogu	mte:Ncmsl	blog
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+LDS	mte:Npfsg	LDS
+danes	mte:Rgp	danes
+ovrgla	mte:Vmep-sf	ovreči
+vsa	mte:Pg-npa	ves
+namigovanja	mte:Ncnpa	namigovanje
+,	mte:Z	,
+da	mte:Cs	da
+za	mte:Sa	za
+težnjo	mte:Ncfsa	težnja
+Reiffeisen	mte:Npmsn	Reiffeisen
+Leasinga	mte:Npmsg	Leasing
+stoji	mte:Vmpr3s	stati
+ona	mte:Pp3fsn	on
+sama	mte:Agpfsn	sam
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+ji	mte:Pp3fsd--y	on
+opozicija	mte:Ncfsn	opozicija
+in	mte:Cc	in
+po	mte:Sl	po
+nekaterih	mte:Pi-mpl	nekateri
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+tudi	mte:Q	tudi
+Računsko	mte:Agpnsn	računski
+sodišče	mte:Ncnsn	sodišče
+očitata	mte:Vmpr3d	očitati
+negospodarno	mte:Agpfsa	negospodaren
+najemno	mte:Agpfsa	najemen
+pogodbo	mte:Ncfsa	pogodba
+.	mte:Z	.
+"	mte:Z	"
+Sobotni	mte:Agpmsny	soboten
+kongres	mte:Ncmsn	kongres
+LDS	mte:Npfsg	LDS
+je	mte:Va-r3s-n	biti
+očitno	mte:Rgp	očitno
+prinesel	mte:Vmep-sm	prinesti
+novo	mte:Agpfsa	nov
+priložnost	mte:Ncfsa	priložnost
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Katarino	mte:Npfsa	Katarina
+Kresal	mte:Npfsa	Kresal
+še	mte:Q	še
+enkrat	mte:Rgp	enkrat
+očrni	mte:Vmer3s	očrneti
+.	mte:Z	.
+Da	mte:Cs	da
+se	mte:Px------y	se
+pokaže	mte:Vmer3s	pokazati
+,	mte:Z	,
+kakšne	mte:Pq-fsg	kakšen
+zarote	mte:Ncfpn	zarota
+vse	mte:Pg-nsn	ves
+kuje	mte:Vmpr3s	kujiti
+.	mte:Z	.
+Da	mte:Cs	da
+dela	mte:Vmpr3s	delati
+izključno	mte:Rgp	izključno
+v	mte:Sa	v
+svoje	mte:Px-nsa	svoj
+dobro	mte:Agpnsa	dober
+.	mte:Z	.
+Da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sužnja	mte:Ncfsn	sužnja
+elit	mte:Ncfpg	elita
+.	mte:Z	.
+Da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+kriva	mte:Agpfsn	kriv
+za	mte:Sa	za
+vse	mte:Pg-nsa	ves
+.	mte:Z	.
+Zato	mte:Cc	zato
+še	mte:Q	še
+enkrat	mte:Rgp	enkrat
+in	mte:Cc	in
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+jasno	mte:Agpnsn	jasen
+enkrat	mte:Rgp	enkrat
+za	mte:Sa	za
+vselej	mte:Rgp	vselej
+:	mte:Z	:
+ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+notranje	mte:Agpfpa	notranji
+zadeve	mte:Ncfpa	zadeva
+ni	mte:Va-r3s-y	biti
+iskalo	mte:Vmpp-sn	iskati
+in	mte:Cc	in
+ne	mte:Q	ne
+išče	mte:Vmpr3s	iskati
+kupca	mte:Ncmsg	kupec
+za	mte:Sa	za
+stavbo	mte:Ncfsa	stavba
+NPU	mte:Npmsg	NPU
+.	mte:Z	.
+Ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+notranje	mte:Agpfpa	notranji
+zadeve	mte:Ncfpa	zadeva
+nikogar	mte:Pz-msg	nihče
+ni	mte:Va-r3s-y	biti
+prosilo	mte:Vmpp-sn	prositi
+za	mte:Sa	za
+ponudbo	mte:Ncfsa	ponudba
+za	mte:Sa	za
+odkup	mte:Ncmsan	odkup
+stavbe	mte:Ncfsg	stavba
+.	mte:Z	.
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+z	mte:Si	z
+nikomer	mte:Pz-msi	nihče
+iz	mte:Sg	iz
+Raiffeisen	mte:Npfsg	Raiffeisen
+Leasing	mte:Npmsg	Leasing
+glede	mte:Sg	glede
+te	mte:Pd-fsg	ta
+ponudbe	mte:Ncfsg	ponudba
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+'	mte:Z	'
+v	mte:Sl	v
+stikih	mte:Ncmpl	stik
+'	mte:Z	'
+.	mte:Z	.
+"	mte:Z	"
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+ne	mte:Q	ne
+pozna	mte:Vmpr3s	poznati
+in	mte:Cc	in
+doslej	mte:Rgp	doslej
+nikoli	mte:Rgp	nikoli
+ni	mte:Va-r3s-y	biti
+slišala	mte:Vmbp-sf	slišati
+za	mte:Sa	za
+predstavnika	mte:Ncmsay	predstavnik
+Raiffeisen	mte:Npmsg	Raiffeisen
+Leasing	mte:Npmsg	Leasing
+z	mte:Sg	z
+Dunaja	mte:Npmsg	Dunaj
+z	mte:Si	z
+imenom	mte:Ncnsi	ime
+Johannes	mte:Npmsn	Johannes
+Frei	mte:Npmsn	Frei
+,	mte:Z	,
+"	mte:Z	"
+nadaljuje	mte:Vmpr3s	nadaljevati
+Kresalova	mte:Aspfsn	Kresalov
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+je	mte:Va-r3s-n	biti
+zanikala	mte:Vmep-sf	zanikati
+včerajšnje	mte:Agpnsa	včerajšnji
+poročanje	mte:Ncnsa	poročanje
+Kanala	mte:Npmsg	Kanal
+A	mte:Cc	a
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+je	mte:Va-r3s-n	biti
+Frei	mte:Npmsn	Frei
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+glede	mte:Sg	glede
+nove	mte:Agpfsg	nov
+pogodbe	mte:Ncfsg	pogodba
+pogaja	mte:Vmpr3s	pogajati
+neposredno	mte:Rgp	neposredno
+s	mte:Si	z
+Kresalovo	mte:Aspfsi	Kresalov
+.	mte:Z	.
+"	mte:Z	"
+Katarina	mte:Npfsn	Katarina
+Kresal	mte:Npfsn	Kresal
+se	mte:Px------y	se
+s	mte:Si	z
+ponudbo	mte:Ncfsi	ponudba
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+poslala	mte:Vmep-sf	poslati
+Raiffeisen	mte:Npfsn	Raiffeisen
+Leasing	mte:Npmsn	Leasing
+z	mte:Sg	z
+Dunaja	mte:Npmsg	Dunaj
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+ukvarjala	mte:Vmpp-sf	ukvarjati
+,	mte:Z	,
+temveč	mte:Cc	temveč
+so	mte:Va-r3p-n	biti
+jo	mte:Pp3fsa--y	on
+v	mte:Sa	v
+obravnavo	mte:Ncfsa	obravnava
+prevzele	mte:Vmep-pf	prevzeti
+strokovne	mte:Agpfpn	strokoven
+službe	mte:Ncfpn	služba
+ministrstva	mte:Ncnsg	ministrstvo
+.	mte:Z	.
+Ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+notranje	mte:Agpfpa	notranji
+zadeve	mte:Ncfpa	zadeva
+za	mte:Sa	za
+odkup	mte:Ncmsan	odkup
+stavbe	mte:Ncfsg	stavba
+nima	mte:Vmpr3s-y	imeti
+denarja	mte:Ncmsg	denar
+,	mte:Z	,
+zato	mte:Cc	zato
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+sploh	mte:Q	sploh
+ni	mte:Va-r3s-y	biti
+možnosti	mte:Ncfsg	možnost
+.	mte:Z	.
+Bo	mte:Va-f3s-n	biti
+pa	mte:Cc	pa
+ministrstvo	mte:Ncnsn	ministrstvo
+uradno	mte:Agpfsa	uraden
+ponudbo	mte:Ncfsa	ponudba
+preučilo	mte:Vmep-sn	preučiti
+,	mte:Z	,
+se	mte:Px------y	se
+o	mte:Sl	o
+njej	mte:Pp3fsl	on
+posvetovalo	mte:Vmpp-sn	posvetovati
+s	mte:Si	z
+pristojnimi	mte:Agpmpi	pristojen
+resorji	mte:Ncmpi	resor
+in	mte:Cc	in
+nanjo	mte:Pp3fsa--b	name
+uradno	mte:Rgp	uradno
+odgovorilo	mte:Vmep-sn	odgovoriti
+.	mte:Z	.
+Ne	mte:Q	ne
+vem	mte:Vmpr1s	vedeti
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+je	mte:Va-r3s-n	biti
+Raiffeisen	mte:Npmsn	Raiffeisen
+Leasing	mte:Npmsn	Leasing
+z	mte:Sg	z
+Dunaja	mte:Npmsg	Dunaj
+ponudbo	mte:Ncfsa	ponudba
+poslal	mte:Vmep-sm	poslati
+na	mte:Sa	na
+ministrstvo	mte:Ncnsa	ministrstvo
+za	mte:Sa	za
+notranje	mte:Agpfpa	notranji
+zadeve	mte:Ncfpa	zadeva
+.	mte:Z	.
+Ne	mte:Q	ne
+vem	mte:Vmpr1s	vedeti
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+je	mte:Pp3fsg--y	on
+niso	mte:Va-r3p-y	biti
+poslali	mte:Vmep-pm	poslati
+lastniku	mte:Ncmsd	lastnik
+,	mte:Z	,
+"	mte:Z	"
+še	mte:Q	še
+piše	mte:Vmpr3s	pisati
+Kresalova	mte:Aspfsn	Kresalov

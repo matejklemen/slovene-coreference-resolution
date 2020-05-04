@@ -1,836 +1,854 @@
-token	tag
-Naravna	Agpfsn
-katastrofa	Ncfsn
-na	Sl
-Japonskem	Npnsl
-vsaj	Q
-za	Sa
-zdaj	Rgp
-slovenskim	Agpmpd
-prodajalcem	Ncmpd
-avtomobilov	Ncmpg
-japonskih	Agpfpg
-blagovnih	Agpfpg
-znamk	Ncfpg
-večjih	Agcfpg
-težav	Ncfpg
-pri	Sl
-dobavi	Ncfsl
-vozil	Ncnpg
-in	Cc
-rezervnih	Agpmpg
-delov	Ncmpg
-ni	Va-r3s-y
-povzročila	Vmep-sf
-.	Z
-Čeprav	Cs
-so	Va-r3p-n
-japonske	Agpfpn
-tovarne	Ncfpn
-avtomobilov	Ncmpg
-napovedale	Vmep-pf
-nekajdnevno	Agpfsa
-začasno	Agpfsa
-ustavitev	Ncfsa
-proizvodnje	Ncfsg
-,	Z
-tudi	Q
-ta	Pd-msn
-na	Sa
-kratek	Agpmsan
-rok	Ncmsan
-ne	Q
-more	Vmpr3s
-ogroziti	Vmen
-dobave	Ncfsg
-vozil	Ncnpg
-v	Sa
-Slovenijo	Npfsa
-.	Z
-V	Sl
-družbi	Ncfsl
-Toyota	Npfsn
-Slovenia	Npfsn
-pravijo	Vmbr3p
-,	Z
-da	Cs
-težav	Ncfpg
-ne	Q
-bo	Va-f3s-n
-.	Z
-Predstavnica	Ncfsn
-za	Sa
-odnose	Ncmpa
-z	Si
-javnostmi	Ncfpi
-v	Sl
-družbi	Ncfsl
-Toyota	Npfsn
-Slovenia	Npfsn
-Jasna	Npfsn
-Baller	Npfsn
-je	Va-r3s-n
-pojasnila	Vmep-sf
-,	Z
-da	Cs
-bodo	Va-f3p-n
-Toyotine	Aspfpn
-tovarne	Ncfpn
-na	Sl
-Japonskem	Npnsl
-do	Sg
-srede	Ncfsg
-preventivno	Rgp
-zaprte	Appfpn
-,	Z
-vendar	Cc
-pa	Cc
-v	Sl
-treh	Mlcfpl
-tovarnah	Ncfpl
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-ima	Vmpr3s-n
-Toyota	Npfsn
-na	Sl
-najbolj	Rgs
-prizadetem	Appnsl
-območju	Ncnsl
-,	Z
-proizvajajo	Vmpr3p
-predvsem	Q
-vozila	Ncnpa
-,	Z
-namenjena	Appnpn
-ameriškemu	Agpnsd
-in	Cc
-japonskemu	Agpnsd
-tržišču	Ncnsd
-.	Z
-Tridnevno	Agpnsn
-zaprtje	Ncnsn
-tovarn	Ncfpg
-na	Sa
-dobavo	Ncfsa
-vozil	Ncnpg
-in	Cc
-sestavnih	Agpmpg
-delov	Ncmpg
-v	Sa
-Slovenijo	Npfsa
-ne	Q
-bo	Va-f3s-n
-imelo	Vmpp-sn
-večjega	Agcmsg
-vpliva	Ncmsg
-,	Z
-saj	Cc
-je	Va-r3s-n
-80	Mdc
-odstotkov	Ncmpg
-vozil	Ncnpg
-za	Sa
-evropski	Agpmsay
-in	Cc
-slovenski	Agpmsay
-trg	Ncmsan
-proizvedenih	Appmpg
-v	Sl
-Evropi	Npfsl
-.	Z
-Po	Sl
-zadnjih	Agpmpl
-podatkih	Ncmpl
-so	Va-r3p-n
-sicer	Q
-vsi	Pg-mpn
-delavci	Ncmpn
-Toyote	Npfsg
-in	Cc
-njihovi	Ps3mpnp
-svojci	Ncmpn
-na	Sl
-prizadetem	Appnsl
-območju	Ncnsl
-na	Sl
-varnem	Agpnsl
-.	Z
-Največji	Agsmsny
-problem	Ncmsan
-je	Va-r3s-n
-trenutno	Rgp
-motena	Appfsn
-dobava	Ncfsn
-električnega	Agpmsg
-toka	Ncmsg
-,	Z
-prioriteta	Ncfsn
-pa	Cc
-je	Va-r3s-n
-zagotoviti	Vmen
-varnost	Ncfsa
-vseh	Pg-mpg
-zaposlenih	Appmpg
-in	Cc
-njihovih	Ps3mpgp
-svojcev	Ncmpg
-,	Z
-je	Va-r3s-n
-pojasnila	Vmep-sf
-Ballerjeva	Aspfsn
-in	Cc
-dodala	Vmep-sf
-,	Z
-da	Cs
-jih	Pp3mpa--y
-korporacija	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-svojim	Px-mpd
-zaposlenim	Appmpd
-zagotovila	Vmep-sf
-tudi	Q
-humanitarno	Agpfsa
-pomoč	Ncfsa
-,	Z
-stalno	Rgp
-obvešča	Vmpr3s
-o	Sl
-situaciji	Ncfsl
-.	Z
-Glede	Sg
-drugih	Mlpmpg
-dobaviteljev	Ncmpg
-pa	Cc
-še	Q
-nimajo	Vmpr3p-y
-točnih	Agpmpg
-podatkov	Ncmpg
-.	Z
-Podobno	Rgp
-velja	Vmpr3s
-za	Sa
-Mazdo	Npfsa
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-po	Sl
-najnovejših	Agsmpl
-podatkih	Ncmpl
-iz	Sg
-Japonske	Npfsg
-zaustavitev	Ncfsg
-proizvodnje	Ncfsg
-podaljšali	Vmep-pm
-do	Sg
-nedelje	Ncfsg
-,	Z
-četudi	Cs
-sta	Va-r3d-n
-tovarni	Ncfsn
-Mazde	Npfsg
-1000	Mdc
-kilometrov	Ncmpg
-južneje	Rgc
-od	Sg
-središča	Ncnsg
-potresa	Ncmsg
-,	Z
-zato	Cc
-potres	Ncmsn
-in	Cc
-cunami	Ncfdn
-žrtev	Ncfpg
-med	Si
-zaposlenimi	Appmpi
-nista	Va-r3d-y
-zahtevala	Vmbp-dm
-in	Cc
-nista	Va-r3d-y
-poškodovala	Vmep-dm
-tovarne	Ncfsg
-.	Z
-Z	Si
-začasno	Agpfsi
-zaustavitvijo	Ncfsi
-proizvodnje	Ncfsg
-pa	Cc
-bo	Va-f3s-n
-Mazda	Npfsn
-omogočila	Vmep-sf
-svojim	Px-mpd
-dobaviteljem	Ncmpd
-,	Z
-ki	Cs
-so	Va-r3p-n
-bližje	Agcnsd
-središču	Ncnsd
-naravne	Agpfsg
-nesreče	Ncfsg
-,	Z
-da	Cs
-se	Px------y
-osredotočijo	Vmer3p
-na	Sa
-ogrožene	Appfpa
-in	Cc
-ponovno	Rgp
-organizirajo	Vmbr3p
-delo	Ncnsa
-.	Z
-Direktor	Ncmsn
-podjetja	Ncnsg
-Mazda	Npfsn
-Motor	Npmsn
-Slovenija	Npfsn
-Bogdan	Npmsn
-Žvanut	Npmsn
-je	Va-r3s-n
-zagotovil	Vmep-sm
-,	Z
-da	Cs
-začasna	Agpfsn
-zaustavitev	Ncfsn
-proizvodnje	Ncfsg
-dobave	Ncfsg
-avtomobilov	Ncmpg
-in	Cc
-nadomestnih	Agpmpg
-delov	Ncmpg
-v	Sa
-Slovenijo	Npfsa
-ne	Q
-bo	Va-f3s-n
-ogrozila	Vmep-sf
-.	Z
-Lahko	Rgp
-pa	Cc
-se	Px------y
-čez	Sa
-nekaj	Rgp
-mesecev	Ncmpg
-pojavijo	Vmer3p
-težave	Ncfpn
-,	Z
-če	Cs
-se	Px------y
-bo	Va-f3s-n
-izkazalo	Vmep-sn
-,	Z
-da	Cs
-vsi	Pg-mpn
-dobavitelji	Ncmpn
-Mazde	Npfsg
-ne	Q
-bodo	Va-f3p-n
-mogli	Vmpp-pm
-proizvajati	Vmpn
-potrebnih	Agpmpg
-avtomobilskih	Agpmpg
-delov	Ncmpg
-ali	Cc
-pa	Cc
-če	Cs
-bi	Va-c
-bile	Va-p-pf
-onemogočene	Appfpn
-kakšne	Pq-fsg
-logistične	Agpfsg
-poti	Ncfsg
-,	Z
-je	Va-r3s-n
-ocenil	Vmep-sm
-Žvanut	Npmsn
-.	Z
-Začasna	Agpfsn
-zaustavitev	Ncfsn
-proizvodnje	Ncfsg
-ne	Q
-bo	Va-f3s-n
-vplivala	Vmpp-sf
-na	Sa
-dobavo	Ncfsa
-Mazdinih	Aspmpg
-avtomobilov	Ncmpg
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Tudi	Q
-to	Pd-nsn
-,	Z
-kakšne	Pq-fpn
-težave	Ncfpa
-bi	Va-c
-lahko	Rgp
-katastrofa	Ncfsn
-na	Sl
-Japonskem	Npnsl
-povzročila	Vmep-sf
-pri	Sl
-dobavi	Ncfsl
-Hondinih	Aspnpg
-vozil	Ncnpg
-,	Z
-zaenkrat	Rgp
-še	Q
-ni	Va-r3s-y
-znano	Appnsn
-,	Z
-trenutno	Rgp
-pa	Cc
-vpliva	Vmpr3s
-v	Sl
-podjetju	Ncnsl
-AC	Npmsn
-Mobil	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-uvoznik	Ncmsn
-za	Sa
-Slovenijo	Npfsa
-,	Z
-ne	Q
-čutijo	Vmpr3p
-,	Z
-saj	Cc
-vozila	Ncnpn
-večinoma	Rgp
-naročajo	Vmpr3p
-pet	Mlc-pa
-mesecev	Ncmpg
-vnaprej	Rgp
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-ima	Vmpr3s-n
-Honda	Npmsn
-velik	Agpmsnn
-del	Ncmsn
-proizvodnje	Ncfsg
-za	Sa
-prodajo	Ncfsa
-na	Sa
-evropske	Agpmpa
-trge	Ncmpa
-v	Sl
-Evropi	Npfsl
-in	Cc
-tudi	Q
-v	Sl
-Sloveniji	Npfsl
-večina	Ncfsn
-vozil	Ncnpg
-pride	Vmer3s
-iz	Sg
-tovarne	Ncfsg
-v	Sl
-bližini	Ncfsl
-Londona	Npmsg
-.	Z
-Določene	Appmpa
-modele	Ncmpa
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-prodajamo	Vmpr1p
-v	Sl
-manjših	Agcfpl
-količinah	Ncfpl
-,	Z
-sicer	Q
-jemljejo	Vmpr3p
-iz	Sg
-japonskih	Agpfpg
-tovarn	Ncfpg
-,	Z
-vendar	Cc
-tudi	Q
-pri	Sl
-teh	Pd-mpl
-zaenkrat	Rgp
-neposrednega	Agpmsg
-vpliva	Ncmsg
-ne	Q
-čutimo	Vmpr1p
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-vodja	Ncmsn
-veleprodaje	Ncfsg
-v	Sl
-podjetju	Ncnsl
-David	Npmsn
-Rudolf	Npmsn
-.	Z
-Pojasnil	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-so	Va-r3p-n
-prejeli	Vmep-pm
-obvestilo	Ncnsa
-,	Z
-da	Cs
-je	Va-r3s-n
-Honda	Npfsn
-na	Sl
-Japonskem	Npnsl
-do	Sg
-1	Mdc
-.	Z
-aprila	Ncmsg
-zaprla	Vmep-sf
-pet	Mlc-pa
-tovarn	Ncfpg
-,	Z
-po	Sl
-tem	Pd-msl
-datumu	Ncmsl
-pa	Cc
-se	Px------y
-bo	Va-f3s-n
-videlo	Vmbp-sn
-,	Z
-ali	Rgp
-bodo	Va-f3p-n
-lahko	Rgp
-vse	Pg-fpn
-tovarne	Ncfpn
-ponovno	Rgp
-normalno	Rgp
-začele	Vmep-pf
-delo	Ncnsa
-.	Z
-Tudi	Q
-v	Sl
-salonu	Ncmsl
-avtomobilov	Ncmpg
-Subaru	Npmsn
-v	Sl
-Ljubljani	Npfsl
-so	Va-r3p-n
-povedali	Vmep-pm
-,	Z
-da	Cs
-prav	Q
-tako	Rgp
-zaenkrat	Rgp
-težav	Ncfpg
-oziroma	Cc
-zamud	Ncfpg
-pri	Sl
-dobavi	Ncfsl
-avtomobilov	Ncmpg
-nimajo	Vmpr3p-y
-,	Z
-saj	Cc
-niso	Va-r3p-y
-neposredni	Agpmsny
-uvoznik	Ncmsn
-avtomobilov	Ncmpg
-iz	Sg
-Japonske	Npfsg
-,	Z
-temveč	Cc
-uvažajo	Vmpr3p
-posredno	Rgp
-iz	Sg
-Italije	Npfsg
-,	Z
-pri	Sl
-čemer	Pr-nsl
-trenutno	Rgp
-problemov	Ncmpg
-še	Q
-niso	Va-r3p-y
-zaznali	Vmep-pm
-.	Z
-Težave	Ncfpn
-na	Sl
-Japonskem	Npnsl
-bi	Va-c
-lahko	Rgp
-ogrozile	Vmep-pf
-globalno	Agpfsa
-proizvodnjo	Ncfsa
-Tečaji	Ncmpn
-delnic	Ncfpg
-na	Sl
-vodilni	Agpfsl
-azijski	Agpfsl
-borzi	Ncfsl
-v	Sl
-Tokiu	Npmsl
-so	Va-r3p-n
-se	Px------y
-danes	Rgp
-močno	Rgp
-znižali	Vmep-pm
-,	Z
-vodilni	Agpmsny
-indeks	Ncmsn
-Nikkei	Npmsn
-pa	Cc
-je	Va-r3s-n
-zdrsnil	Vmep-sm
-za	Sa
-več	Rgc
-kot	Cs
-deset	Mlc-pa
-odstotkov	Ncmpg
-.	Z
-Singapurska	Agpfsn
-banka	Ncfsn
-DBS	Npmsn
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-bosta	Va-f3d-n
-petkov	Aspmsnn
-potres	Ncmsn
-in	Cc
-cunami	Ncfsn
-japonskemu	Agpnsd
-gospodarstvu	Ncnsd
-povzročila	Vmep-df
-škodo	Ncfsa
-v	Sl
-višini	Ncfsl
-100	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-enako	Rgp
-približno	Rgp
-dvema	Mlcmda
-odstotkoma	Ncmdd
-japonskega	Agpmsg
-bruto	Agpmsg
-domačega	Agpmsg
-proizvoda	Ncmsg
-.	Z
-Tečaji	Ncmpn
-delnic	Ncfpg
-so	Va-r3p-n
-se	Px------y
-močno	Rgp
-znižali	Vmep-pm
-.	Z
-V	Sl
-svetovnem	Agpnsl
-gospodarstvu	Ncnsl
-se	Px------y
-medtem	Rgp
-kažejo	Vmpr3p
-prvi	Mlompn
-znaki	Ncmpn
-težav	Ncfpg
-zaradi	Sg
-razmer	Ncfpg
-na	Sl
-Japonskem	Npnsl
-.	Z
-Dežela	Ncfsn
-vzhajajočega	Appnsg
-sonca	Ncnsg
-proizvede	Vmer3s
-približno	Rgp
-40	Mdc
-odstotkov	Ncmpg
-elektronskih	Agpfpg
-komponent	Ncfpg
-za	Sa
-izdelke	Ncmpa
-po	Sl
-vsem	Pg-msl
-svetu	Ncmsl
-.	Z
-Japonska	Npfsn
-ima	Vmpr3s-n
-ključno	Agpfsa
-vlogo	Ncfsa
-v	Sl
-globalni	Agpfsl
-tehnološki	Agpfsl
-verigi	Ncfsl
-,	Z
-ocenjuje	Vmpr3s
-Bavtoš	Npmsn
-Vajpaje	Npfsn
-iz	Sg
-podjetja	Ncnsg
-CLSA	Npmsn
-.	Z
-Večji	Agcmsay
-del	Ncmsan
-pomnilnika	Ncmsg
-NAND	Ncmsn
-flash	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-vgrajen	Appmsnn
-v	Sa
-nov	Agpmsan
-tablični	Agpmsay
-računalnik	Ncmsan
-ipad	Ncmsn
-2	Mdc
-ameriškega	Agpmsg
-proizvajalca	Ncmsg
-Apple	Npmsn
-,	Z
-proizvede	Vmer3s
-japonski	Agpmsay
-proizvajalec	Ncmsan
-elektronike	Ncfsg
-Toshiba	Npfsn
-.	Z
-Že	Q
-zdaj	Rgp
-beremo	Vmpr1p
-poročila	Ncnpa
-,	Z
-ki	Cs
-napovedujejo	Vmpr3p
-pomanjkanje	Ncnsa
-komponent	Ncfpg
-,	Z
-kar	Pr-nsn
-bi	Va-c
-lahko	Rgp
-vodilo	Vmpp-sn
-do	Sg
-zamud	Ncfpg
-ali	Cc
-zvišalo	Vmep-sn
-cene	Ncfpa
-naših	Ps1fpgp
-najljubših	Agsfpg
-elektronskih	Agpfpg
-igračk	Ncfpg
-,	Z
-so	Va-r3p-n
-danes	Rgp
-zapisali	Vmep-pm
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-Engadget	Npmsn
-.	Z
-Iz	Sg
-Toshibe	Npfsg
-so	Va-r3p-n
-sicer	Q
-sporočili	Vmep-pm
-,	Z
-da	Cs
-ostajata	Vmpr3d
-danes	Rgp
-zaprta	Appmdn
-le	Q
-še	Q
-ena	Mlpfsn
-njihova	Ps3fsnp
-tovarna	Ncfsn
-in	Cc
-raziskovalno	Agpnsn
--	Z
-razvojni	Agpmsny
-center	Ncmsn
-,	Z
-ob	Sl
-tem	Pd-nsl
-pa	Cc
-so	Va-r3p-n
-zagotovili	Vmep-pm
-,	Z
-da	Cs
-proizvodnje	Ncfsg
-pomnilnikov	Ncmpg
-NAND	Npmsn
-niso	Va-r3p-y
-ustavili	Vmep-pm
-.	Z
-Ameriški	Agpmsny
-proizvajalec	Ncmsn
-letal	Ncnpg
-Boeing	Npmsn
-medtem	Rgp
-še	Q
-ocenjuje	Vmpr3s
-vpliv	Ncmsan
-petkove	Aspfsg
-katastrofe	Ncfsg
-na	Sa
-proizvodnjo	Ncfsa
-letal	Ncnpg
-.	Z
-Številna	Agpnpa
-japonska	Agpnpa
-pristanišča	Ncnpa
-,	Z
-letališča	Ncnpa
-in	Cc
-tovarne	Ncfpn
-so	Va-r3p-n
-zaprti	Appmpn
-,	Z
-tamkajšnja	Agpfsn
-vlada	Ncfsn
-pa	Cc
-ocenjuje	Vmpr3s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-nastale	Vmep-pf
-težave	Ncfpn
-močno	Rgp
-vplivale	Vmpp-pf
-na	Sa
-vrsto	Ncfsa
-gospodarskih	Agpfpg
-dejavnosti	Ncfpg
-v	Sl
-državi	Ncfsl
-.	Z
-Potres	Ncmsn
-in	Cc
-cunami	Ncfsn
-sta	Va-r3d-n
-na	Sl
-Japonskem	Npnsl
-po	Sl
-zadnjih	Agpmpl
-uradnih	Agpmpl
-podatkih	Ncmpl
-zahtevala	Vmbp-dm
-prek	Sg
-2400	Mdc
-žrtev	Ncfpg
-,	Z
-ocenjujejo	Vmpr3p
-pa	Cc
-,	Z
-da	Cs
-bo	Va-f3s-n
-skupno	Agpnsn
-število	Ncnsn
-žrtev	Ncfpg
-preseglo	Vmep-sn
-10.000	Mdc
-,	Z
-saj	Cc
-je	Va-r3s-n
-cunami	Ncfsd
-odplavil	Vmep-sm
-cela	Agpnpa
-mesta	Ncnpa
-in	Cc
-vasi	Ncfpa
-.	Z
+token	tag	lemma
+Naravna	mte:Agpfsn	naraven
+katastrofa	mte:Ncfsn	katastrof
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+vsaj	mte:Q	vsaj
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+slovenskim	mte:Agpmpd	slovenski
+prodajalcem	mte:Ncmpd	prodajalec
+avtomobilov	mte:Ncmpg	avtomobil
+japonskih	mte:Agpfpg	japonski
+blagovnih	mte:Agpfpg	blagoven
+znamk	mte:Ncfpg	znamka
+večjih	mte:Agcfpg	velik
+težav	mte:Ncfpg	težava
+pri	mte:Sl	pri
+dobavi	mte:Ncfsl	dobava
+vozil	mte:Ncnpg	vozilo
+in	mte:Cc	in
+rezervnih	mte:Agpmpg	rezerven
+delov	mte:Ncmpg	del
+ni	mte:Va-r3s-y	biti
+povzročila	mte:Vmep-sf	povzročiti
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+japonske	mte:Agpfpn	japonski
+tovarne	mte:Ncfpn	tovarna
+avtomobilov	mte:Ncmpg	avtomobil
+napovedale	mte:Vmep-pf	napovedati
+nekajdnevno	mte:Agpfsa	nekajdneven
+začasno	mte:Agpfsa	začasen
+ustavitev	mte:Ncfsa	ustavitev
+proizvodnje	mte:Ncfsg	proizvodnja
+,	mte:Z	,
+tudi	mte:Q	tudi
+ta	mte:Pd-msn	ta
+na	mte:Sa	na
+kratek	mte:Agpmsan	kratek
+rok	mte:Ncmsan	rok
+ne	mte:Q	ne
+more	mte:Vmpr3s	moči
+ogroziti	mte:Vmen	ogroziti
+dobave	mte:Ncfsg	dobava
+vozil	mte:Ncnpg	vozilo
+v	mte:Sa	v
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+V	mte:Sl	v
+družbi	mte:Ncfsl	družba
+Toyota	mte:Npfsn	Toyot
+Slovenia	mte:Npfsn	Slovenia
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+težav	mte:Ncfpg	težava
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+.	mte:Z	.
+Predstavnica	mte:Ncfsn	predstavnica
+za	mte:Sa	za
+odnose	mte:Ncmpa	odnos
+z	mte:Si	z
+javnostmi	mte:Ncfpi	javnost
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+Toyota	mte:Npfsn	Toyot
+Slovenia	mte:Npfsn	Slovenia
+Jasna	mte:Npfsn	Jasna
+Baller	mte:Npfsn	Baller
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+Toyotine	mte:Aspfpn	toyotin
+tovarne	mte:Ncfpn	tovarna
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+do	mte:Sg	do
+srede	mte:Ncfsg	sreda
+preventivno	mte:Rgp	preventivno
+zaprte	mte:Appfpn	zaprt
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+v	mte:Sl	v
+treh	mte:Mlcfpl	trije
+tovarnah	mte:Ncfpl	tovarna
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+ima	mte:Vmpr3s-n	imeti
+Toyota	mte:Npfsn	Toyot
+na	mte:Sl	na
+najbolj	mte:Rgs	najbolj
+prizadetem	mte:Appnsl	prizadet
+območju	mte:Ncnsl	območje
+,	mte:Z	,
+proizvajajo	mte:Vmpr3p	proizvajati
+predvsem	mte:Q	predvsem
+vozila	mte:Ncnpa	vozilo
+,	mte:Z	,
+namenjena	mte:Appnpn	namenjen
+ameriškemu	mte:Agpnsd	ameriški
+in	mte:Cc	in
+japonskemu	mte:Agpnsd	japonski
+tržišču	mte:Ncnsd	tržišče
+.	mte:Z	.
+Tridnevno	mte:Agpnsn	tridneven
+zaprtje	mte:Ncnsn	zaprtje
+tovarn	mte:Ncfpg	tovarna
+na	mte:Sa	na
+dobavo	mte:Ncfsa	dobava
+vozil	mte:Ncnpg	vozilo
+in	mte:Cc	in
+sestavnih	mte:Agpmpg	sestaven
+delov	mte:Ncmpg	del
+v	mte:Sa	v
+Slovenijo	mte:Npfsa	Slovenija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+imelo	mte:Vmpp-sn	imeti
+večjega	mte:Agcmsg	velik
+vpliva	mte:Ncmsg	vpliv
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+vozil	mte:Ncnpg	vozilo
+za	mte:Sa	za
+evropski	mte:Agpmsay	evropski
+in	mte:Cc	in
+slovenski	mte:Agpmsay	slovenski
+trg	mte:Ncmsan	trg
+proizvedenih	mte:Appmpg	proizveden
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Po	mte:Sl	po
+zadnjih	mte:Agpmpl	zadnji
+podatkih	mte:Ncmpl	podatek
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+vsi	mte:Pg-mpn	ves
+delavci	mte:Ncmpn	delavec
+Toyote	mte:Npfsg	Toyota
+in	mte:Cc	in
+njihovi	mte:Ps3mpnp	njihov
+svojci	mte:Ncmpn	svojec
+na	mte:Sl	na
+prizadetem	mte:Appnsl	prizadet
+območju	mte:Ncnsl	območje
+na	mte:Sl	na
+varnem	mte:Agpnsl	varen
+.	mte:Z	.
+Največji	mte:Agsmsny	velik
+problem	mte:Ncmsan	problem
+je	mte:Va-r3s-n	biti
+trenutno	mte:Rgp	trenutno
+motena	mte:Appfsn	moten
+dobava	mte:Ncfsn	dobava
+električnega	mte:Agpmsg	električen
+toka	mte:Ncmsg	tok
+,	mte:Z	,
+prioriteta	mte:Ncfsn	prioriteta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zagotoviti	mte:Vmen	zagotoviti
+varnost	mte:Ncfsa	varnost
+vseh	mte:Pg-mpg	ves
+zaposlenih	mte:Appmpg	zaposlen
+in	mte:Cc	in
+njihovih	mte:Ps3mpgp	njihov
+svojcev	mte:Ncmpg	svojec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+Ballerjeva	mte:Aspfsn	Ballerjev
+in	mte:Cc	in
+dodala	mte:Vmep-sf	dodati
+,	mte:Z	,
+da	mte:Cs	da
+jih	mte:Pp3mpa--y	on
+korporacija	mte:Ncfsn	korporacija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+svojim	mte:Px-mpd	svoj
+zaposlenim	mte:Appmpd	zaposlen
+zagotovila	mte:Vmep-sf	zagotoviti
+tudi	mte:Q	tudi
+humanitarno	mte:Agpfsa	humanitaren
+pomoč	mte:Ncfsa	pomoč
+,	mte:Z	,
+stalno	mte:Rgp	stalno
+obvešča	mte:Vmpr3s	obveščati
+o	mte:Sl	o
+situaciji	mte:Ncfsl	situacija
+.	mte:Z	.
+Glede	mte:Sg	glede
+drugih	mte:Mlpmpg	drug
+dobaviteljev	mte:Ncmpg	dobavitelj
+pa	mte:Cc	pa
+še	mte:Q	še
+nimajo	mte:Vmpr3p-y	imeti
+točnih	mte:Agpmpg	točen
+podatkov	mte:Ncmpg	podatek
+.	mte:Z	.
+Podobno	mte:Rgp	podobno
+velja	mte:Vmpr3s	veljati
+za	mte:Sa	za
+Mazdo	mte:Npfsa	Mazdo
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+po	mte:Sl	po
+najnovejših	mte:Agsmpl	nov
+podatkih	mte:Ncmpl	podatek
+iz	mte:Sg	iz
+Japonske	mte:Npfsg	Japonska
+zaustavitev	mte:Ncfsg	zaustavitev
+proizvodnje	mte:Ncfsg	proizvodnja
+podaljšali	mte:Vmep-pm	podaljšati
+do	mte:Sg	do
+nedelje	mte:Ncfsg	nedelje
+,	mte:Z	,
+četudi	mte:Cs	četudi
+sta	mte:Va-r3d-n	biti
+tovarni	mte:Ncfsn	tovarna
+Mazde	mte:Npfsg	Mazda
+1000	mte:Mdc	1000
+kilometrov	mte:Ncmpg	kilometer
+južneje	mte:Rgc	južno
+od	mte:Sg	od
+središča	mte:Ncnsg	središče
+potresa	mte:Ncmsg	potres
+,	mte:Z	,
+zato	mte:Cc	zato
+potres	mte:Ncmsn	potres
+in	mte:Cc	in
+cunami	mte:Ncfdn	cuna
+žrtev	mte:Ncfpg	žrtev
+med	mte:Si	med
+zaposlenimi	mte:Appmpi	zaposlen
+nista	mte:Va-r3d-y	biti
+zahtevala	mte:Vmbp-dm	zahtevati
+in	mte:Cc	in
+nista	mte:Va-r3d-y	biti
+poškodovala	mte:Vmep-dm	poškodovati
+tovarne	mte:Ncfsg	tovarna
+.	mte:Z	.
+Z	mte:Si	z
+začasno	mte:Agpfsi	začasen
+zaustavitvijo	mte:Ncfsi	zaustavitev
+proizvodnje	mte:Ncfsg	proizvodnja
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+Mazda	mte:Npfsn	Mazda
+omogočila	mte:Vmep-sf	omogočiti
+svojim	mte:Px-mpd	svoj
+dobaviteljem	mte:Ncmpd	dobavitelj
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bližje	mte:Agcnsd	blizu
+središču	mte:Ncnsd	središče
+naravne	mte:Agpfsg	naraven
+nesreče	mte:Ncfsg	nesreča
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+osredotočijo	mte:Vmer3p	osredotočiti
+na	mte:Sa	na
+ogrožene	mte:Appfpa	ogrožen
+in	mte:Cc	in
+ponovno	mte:Rgp	ponovno
+organizirajo	mte:Vmbr3p	organizirati
+delo	mte:Ncnsa	delo
+.	mte:Z	.
+Direktor	mte:Ncmsn	direktor
+podjetja	mte:Ncnsg	podjetje
+Mazda	mte:Npfsn	Mazda
+Motor	mte:Npmsn	Motor
+Slovenija	mte:Npfsn	Slovenija
+Bogdan	mte:Npmsn	Bogdan
+Žvanut	mte:Npmsn	Žvanut
+je	mte:Va-r3s-n	biti
+zagotovil	mte:Vmep-sm	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+začasna	mte:Agpfsn	začasen
+zaustavitev	mte:Ncfsn	zaustavitev
+proizvodnje	mte:Ncfsg	proizvodnja
+dobave	mte:Ncfsg	dobava
+avtomobilov	mte:Ncmpg	avtomobil
+in	mte:Cc	in
+nadomestnih	mte:Agpmpg	nadomesten
+delov	mte:Ncmpg	del
+v	mte:Sa	v
+Slovenijo	mte:Npfsa	Slovenija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+ogrozila	mte:Vmep-sf	ogroziti
+.	mte:Z	.
+Lahko	mte:Rgp	lahko
+pa	mte:Cc	pa
+se	mte:Px------y	se
+čez	mte:Sa	čez
+nekaj	mte:Rgp	nekaj
+mesecev	mte:Ncmpg	mesec
+pojavijo	mte:Vmer3p	pojaviti
+težave	mte:Ncfpn	težava
+,	mte:Z	,
+če	mte:Cs	če
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+izkazalo	mte:Vmep-sn	izkazati
+,	mte:Z	,
+da	mte:Cs	da
+vsi	mte:Pg-mpn	ves
+dobavitelji	mte:Ncmpn	dobavitelj
+Mazde	mte:Npfsg	Mazda
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+mogli	mte:Vmpp-pm	moči
+proizvajati	mte:Vmpn	proizvajati
+potrebnih	mte:Agpmpg	potreben
+avtomobilskih	mte:Agpmpg	avtomobilski
+delov	mte:Ncmpg	del
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+če	mte:Cs	če
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+onemogočene	mte:Appfpn	onemogočen
+kakšne	mte:Pq-fsg	kakšen
+logistične	mte:Agpfsg	logističen
+poti	mte:Ncfsg	pot
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti
+Žvanut	mte:Npmsn	Žvanut
+.	mte:Z	.
+Začasna	mte:Agpfsn	začasen
+zaustavitev	mte:Ncfsn	zaustavitev
+proizvodnje	mte:Ncfsg	proizvodnja
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+vplivala	mte:Vmpp-sf	vplivati
+na	mte:Sa	na
+dobavo	mte:Ncfsa	dobava
+Mazdinih	mte:Aspmpg	Mazdin
+avtomobilov	mte:Ncmpg	avtomobil
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Tudi	mte:Q	tudi
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+kakšne	mte:Pq-fpn	kakšen
+težave	mte:Ncfpa	težava
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+katastrofa	mte:Ncfsn	katastrof
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+povzročila	mte:Vmep-sf	povzročiti
+pri	mte:Sl	pri
+dobavi	mte:Ncfsl	dobava
+Hondinih	mte:Aspnpg	hondin
+vozil	mte:Ncnpg	vozilo
+,	mte:Z	,
+zaenkrat	mte:Rgp	zaenkrat
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+trenutno	mte:Rgp	trenutno
+pa	mte:Cc	pa
+vpliva	mte:Vmpr3s	vplivati
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+AC	mte:Npmsn	AC
+Mobil	mte:Npmsn	Mobil
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+uvoznik	mte:Ncmsn	uvoznik
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+,	mte:Z	,
+ne	mte:Q	ne
+čutijo	mte:Vmpr3p	čutiti
+,	mte:Z	,
+saj	mte:Cc	saj
+vozila	mte:Ncnpn	vozilo
+večinoma	mte:Rgp	večinoma
+naročajo	mte:Vmpr3p	naročati
+pet	mte:Mlc-pa	pet
+mesecev	mte:Ncmpg	mesec
+vnaprej	mte:Rgp	vnaprej
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+ima	mte:Vmpr3s-n	imeti
+Honda	mte:Npmsn	Honda
+velik	mte:Agpmsnn	velik
+del	mte:Ncmsn	del
+proizvodnje	mte:Ncfsg	proizvodnja
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+na	mte:Sa	na
+evropske	mte:Agpmpa	evropski
+trge	mte:Ncmpa	trg
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+in	mte:Cc	in
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+večina	mte:Ncfsn	večina
+vozil	mte:Ncnpg	vozilo
+pride	mte:Vmer3s	priti
+iz	mte:Sg	iz
+tovarne	mte:Ncfsg	tovarna
+v	mte:Sl	v
+bližini	mte:Ncfsl	bližina
+Londona	mte:Npmsg	London
+.	mte:Z	.
+Določene	mte:Appmpa	določen
+modele	mte:Ncmpa	model
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+prodajamo	mte:Vmpr1p	prodajati
+v	mte:Sl	v
+manjših	mte:Agcfpl	majhen
+količinah	mte:Ncfpl	količina
+,	mte:Z	,
+sicer	mte:Q	sicer
+jemljejo	mte:Vmpr3p	jemati
+iz	mte:Sg	iz
+japonskih	mte:Agpfpg	japonski
+tovarn	mte:Ncfpg	tovarna
+,	mte:Z	,
+vendar	mte:Cc	vendar
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+teh	mte:Pd-mpl	ta
+zaenkrat	mte:Rgp	zaenkrat
+neposrednega	mte:Agpmsg	neposreden
+vpliva	mte:Ncmsg	vpliv
+ne	mte:Q	ne
+čutimo	mte:Vmpr1p	čutiti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+vodja	mte:Ncmsn	vodja
+veleprodaje	mte:Ncfsg	veleprodaja
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+David	mte:Npmsn	David
+Rudolf	mte:Npmsn	Rudolf
+.	mte:Z	.
+Pojasnil	mte:Vmep-sm	pojasniti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+prejeli	mte:Vmep-pm	prejeti
+obvestilo	mte:Ncnsa	obvestiti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Honda	mte:Npfsn	Honda
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+do	mte:Sg	do
+1	mte:Mdc	1
+.	mte:Z	.
+aprila	mte:Ncmsg	april
+zaprla	mte:Vmep-sf	zapreti
+pet	mte:Mlc-pa	pet
+tovarn	mte:Ncfpg	tovarna
+,	mte:Z	,
+po	mte:Sl	po
+tem	mte:Pd-msl	ta
+datumu	mte:Ncmsl	datum
+pa	mte:Cc	pa
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+videlo	mte:Vmbp-sn	videti
+,	mte:Z	,
+ali	mte:Rgp	ali
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+vse	mte:Pg-fpn	ves
+tovarne	mte:Ncfpn	tovarna
+ponovno	mte:Rgp	ponovno
+normalno	mte:Rgp	normalno
+začele	mte:Vmep-pf	začeti
+delo	mte:Ncnsa	delo
+.	mte:Z	.
+Tudi	mte:Q	tudi
+v	mte:Sl	v
+salonu	mte:Ncmsl	salon
+avtomobilov	mte:Ncmpg	avtomobil
+Subaru	mte:Npmsn	Subar
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+zaenkrat	mte:Rgp	zaenkrat
+težav	mte:Ncfpg	težava
+oziroma	mte:Cc	oziroma
+zamud	mte:Ncfpg	zamuda
+pri	mte:Sl	pri
+dobavi	mte:Ncfsl	dobava
+avtomobilov	mte:Ncmpg	avtomobil
+nimajo	mte:Vmpr3p-y	imeti
+,	mte:Z	,
+saj	mte:Cc	saj
+niso	mte:Va-r3p-y	biti
+neposredni	mte:Agpmsny	neposreden
+uvoznik	mte:Ncmsn	uvoznik
+avtomobilov	mte:Ncmpg	avtomobil
+iz	mte:Sg	iz
+Japonske	mte:Npfsg	Japonska
+,	mte:Z	,
+temveč	mte:Cc	temveč
+uvažajo	mte:Vmpr3p	uvažati
+posredno	mte:Rgp	posredno
+iz	mte:Sg	iz
+Italije	mte:Npfsg	Italija
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+trenutno	mte:Rgp	trenutno
+problemov	mte:Ncmpg	problem
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+zaznali	mte:Vmep-pm	zaznati
+.	mte:Z	.
+Težave	mte:Ncfpn	težava
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+ogrozile	mte:Vmep-pf	ogroziti
+globalno	mte:Agpfsa	globalen
+proizvodnjo	mte:Ncfsa	proizvodnja
+Tečaji	mte:Ncmpn	tečaj
+delnic	mte:Ncfpg	delnica
+na	mte:Sl	na
+vodilni	mte:Agpfsl	vodilen
+azijski	mte:Agpfsl	azijski
+borzi	mte:Ncfsl	borz
+v	mte:Sl	v
+Tokiu	mte:Npmsl	Tokio
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+danes	mte:Rgp	danes
+močno	mte:Rgp	močno
+znižali	mte:Vmep-pm	znižati
+,	mte:Z	,
+vodilni	mte:Agpmsny	vodilen
+indeks	mte:Ncmsn	indeks
+Nikkei	mte:Npmsn	Nikkei
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zdrsnil	mte:Vmep-sm	zdrsniti
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+deset	mte:Mlc-pa	deset
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Singapurska	mte:Agpfsn	singapurski
+banka	mte:Ncfsn	banka
+DBS	mte:Npmsn	DBS
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+bosta	mte:Va-f3d-n	biti
+petkov	mte:Aspmsnn	petkov
+potres	mte:Ncmsn	potres
+in	mte:Cc	in
+cunami	mte:Ncfsn	cuna
+japonskemu	mte:Agpnsd	japonski
+gospodarstvu	mte:Ncnsd	gospodarstvo
+povzročila	mte:Vmep-df	povzročiti
+škodo	mte:Ncfsa	škoda
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+100	mte:Mdc	100
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+enako	mte:Rgp	enako
+približno	mte:Rgp	približno
+dvema	mte:Mlcmda	dva
+odstotkoma	mte:Ncmdd	odstotek
+japonskega	mte:Agpmsg	japonski
+bruto	mte:Agpmsg	bruto
+domačega	mte:Agpmsg	domač
+proizvoda	mte:Ncmsg	proizvod
+.	mte:Z	.
+Tečaji	mte:Ncmpn	tečaj
+delnic	mte:Ncfpg	delnica
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+močno	mte:Rgp	močno
+znižali	mte:Vmep-pm	znižati
+.	mte:Z	.
+V	mte:Sl	v
+svetovnem	mte:Agpnsl	svetoven
+gospodarstvu	mte:Ncnsl	gospodarstvo
+se	mte:Px------y	se
+medtem	mte:Rgp	medtem
+kažejo	mte:Vmpr3p	kazati
+prvi	mte:Mlompn	prvi
+znaki	mte:Ncmpn	znak
+težav	mte:Ncfpg	težava
+zaradi	mte:Sg	zaradi
+razmer	mte:Ncfpg	razmera
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+.	mte:Z	.
+Dežela	mte:Ncfsn	dežela
+vzhajajočega	mte:Appnsg	vzhajajoč
+sonca	mte:Ncnsg	sonce
+proizvede	mte:Vmer3s	proizvesti
+približno	mte:Rgp	približno
+40	mte:Mdc	40
+odstotkov	mte:Ncmpg	odstotek
+elektronskih	mte:Agpfpg	elektronski
+komponent	mte:Ncfpg	komponent
+za	mte:Sa	za
+izdelke	mte:Ncmpa	izdelek
+po	mte:Sl	po
+vsem	mte:Pg-msl	ves
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+Japonska	mte:Npfsn	Japonska
+ima	mte:Vmpr3s-n	imeti
+ključno	mte:Agpfsa	ključen
+vlogo	mte:Ncfsa	vloga
+v	mte:Sl	v
+globalni	mte:Agpfsl	globalen
+tehnološki	mte:Agpfsl	tehnološki
+verigi	mte:Ncfsl	veriga
+,	mte:Z	,
+ocenjuje	mte:Vmpr3s	ocenjevati
+Bavtoš	mte:Npmsn	Bavtoš
+Vajpaje	mte:Npfsn	Vajpaj
+iz	mte:Sg	iz
+podjetja	mte:Ncnsg	podjetje
+CLSA	mte:Npmsn	CLSA
+.	mte:Z	.
+Večji	mte:Agcmsay	velik
+del	mte:Ncmsan	del
+pomnilnika	mte:Ncmsg	pomnilnik
+NAND	mte:Ncmsn	NAND
+flash	mte:Ncmsn	flas
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+vgrajen	mte:Appmsnn	vgrajen
+v	mte:Sa	v
+nov	mte:Agpmsan	nov
+tablični	mte:Agpmsay	tabličen
+računalnik	mte:Ncmsan	računalnik
+ipad	mte:Ncmsn	ipad
+2	mte:Mdc	2
+ameriškega	mte:Agpmsg	ameriški
+proizvajalca	mte:Ncmsg	proizvajalec
+Apple	mte:Npmsn	Apple
+,	mte:Z	,
+proizvede	mte:Vmer3s	proizvesti
+japonski	mte:Agpmsay	japonski
+proizvajalec	mte:Ncmsan	proizvajalec
+elektronike	mte:Ncfsg	elektronika
+Toshiba	mte:Npfsn	Toshiba
+.	mte:Z	.
+Že	mte:Q	že
+zdaj	mte:Rgp	zdaj
+beremo	mte:Vmpr1p	brati
+poročila	mte:Ncnpa	poročilo
+,	mte:Z	,
+ki	mte:Cs	ki
+napovedujejo	mte:Vmpr3p	napovedovati
+pomanjkanje	mte:Ncnsa	pomanjkanje
+komponent	mte:Ncfpg	komponent
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+vodilo	mte:Vmpp-sn	voditi
+do	mte:Sg	do
+zamud	mte:Ncfpg	zamuda
+ali	mte:Cc	ali
+zvišalo	mte:Vmep-sn	zvišati
+cene	mte:Ncfpa	cena
+naših	mte:Ps1fpgp	naš
+najljubših	mte:Agsfpg	ljub
+elektronskih	mte:Agpfpg	elektronski
+igračk	mte:Ncfpg	igračka
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+zapisali	mte:Vmep-pm	zapisati
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+Engadget	mte:Npmsn	Engadget
+.	mte:Z	.
+Iz	mte:Sg	iz
+Toshibe	mte:Npfsg	Toshibe
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+ostajata	mte:Vmpr3d	ostajati
+danes	mte:Rgp	danes
+zaprta	mte:Appmdn	zaprt
+le	mte:Q	le
+še	mte:Q	še
+ena	mte:Mlpfsn	en
+njihova	mte:Ps3fsnp	njihov
+tovarna	mte:Ncfsn	tovarna
+in	mte:Cc	in
+raziskovalno	mte:Agpnsn	raziskovalen
+-	mte:Z	-
+razvojni	mte:Agpmsny	razvojen
+center	mte:Ncmsn	center
+,	mte:Z	,
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+zagotovili	mte:Vmep-pm	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+proizvodnje	mte:Ncfsg	proizvodnja
+pomnilnikov	mte:Ncmpg	pomnilnik
+NAND	mte:Npmsn	NAND
+niso	mte:Va-r3p-y	biti
+ustavili	mte:Vmep-pm	ustaviti
+.	mte:Z	.
+Ameriški	mte:Agpmsny	ameriški
+proizvajalec	mte:Ncmsn	proizvajalec
+letal	mte:Ncnpg	letalo
+Boeing	mte:Npmsn	Boeing
+medtem	mte:Rgp	medtem
+še	mte:Q	še
+ocenjuje	mte:Vmpr3s	ocenjevati
+vpliv	mte:Ncmsan	vpliv
+petkove	mte:Aspfsg	petkov
+katastrofe	mte:Ncfsg	katastrofa
+na	mte:Sa	na
+proizvodnjo	mte:Ncfsa	proizvodnja
+letal	mte:Ncnpg	letalo
+.	mte:Z	.
+Številna	mte:Agpnpa	številen
+japonska	mte:Agpnpa	japonski
+pristanišča	mte:Ncnpa	pristanišče
+,	mte:Z	,
+letališča	mte:Ncnpa	letališče
+in	mte:Cc	in
+tovarne	mte:Ncfpn	tovarna
+so	mte:Va-r3p-n	biti
+zaprti	mte:Appmpn	zaprt
+,	mte:Z	,
+tamkajšnja	mte:Agpfsn	tamkajšnji
+vlada	mte:Ncfsn	vlada
+pa	mte:Cc	pa
+ocenjuje	mte:Vmpr3s	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+nastale	mte:Vmep-pf	nastati
+težave	mte:Ncfpn	težava
+močno	mte:Rgp	močno
+vplivale	mte:Vmpp-pf	vplivati
+na	mte:Sa	na
+vrsto	mte:Ncfsa	vrsta
+gospodarskih	mte:Agpfpg	gospodarski
+dejavnosti	mte:Ncfpg	dejavnost
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+.	mte:Z	.
+Potres	mte:Ncmsn	potres
+in	mte:Cc	in
+cunami	mte:Ncfsn	cuna
+sta	mte:Va-r3d-n	biti
+na	mte:Sl	na
+Japonskem	mte:Npnsl	Japonsko
+po	mte:Sl	po
+zadnjih	mte:Agpmpl	zadnji
+uradnih	mte:Agpmpl	uraden
+podatkih	mte:Ncmpl	podatek
+zahtevala	mte:Vmbp-dm	zahtevati
+prek	mte:Sg	prek
+2400	mte:Mdc	2400
+žrtev	mte:Ncfpg	žrtev
+,	mte:Z	,
+ocenjujejo	mte:Vmpr3p	ocenjevati
+pa	mte:Cc	pa
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+skupno	mte:Agpnsn	skupen
+število	mte:Ncnsn	število
+žrtev	mte:Ncfpg	žrtev
+preseglo	mte:Vmep-sn	preseči
+10.000	mte:Mdc	10.000
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+cunami	mte:Ncfsd	cuna
+odplavil	mte:Vmep-sm	odplaviti
+cela	mte:Agpnpa	cel
+mesta	mte:Ncnpa	mesto
+in	mte:Cc	in
+vasi	mte:Ncfpa	vas
+.	mte:Z	.
+Razmere	mte:Ncfpn	razmera
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+danes	mte:Rgp	danes
+dodatno	mte:Rgp	dodatno
+zapletle	mte:Vmep-pf	zaplesti
+v	mte:Sl	v
+nuklearki	mte:Ncfsl	nuklearka
+Fukušima	mte:Npfsn	Fukušim
+1	mte:Mdc	1
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+se	mte:Px------y	se
+mnogi	mte:Pi-mpn	mnog
+bojijo	mte:Vmpr3p	bati
+jedrske	mte:Agpfsg	jedrski
+katastrofe	mte:Ncfsg	katastrofa

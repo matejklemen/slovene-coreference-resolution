@@ -1,248 +1,300 @@
-token	tag
-15	Mdc
-.	Z
-maja	Ncmsg
-je	Va-r3s-n
-podal	Vmbp-sm
-nepreklicno	Agpfsa
-izjavo	Ncfsa
-Matjaž	Npmsn
-Gantar	Npmsn
-,	Z
-ki	Cs
-vodi	Vmpr3s
-KD	Npmsn
-Group	Npmsn
-,	Z
-je	Va-r3s-n
-nepreklicno	Rgp
-izstopil	Vmep-sm
-iz	Sg
-nadzornega	Agpmsg
-sveta	Ncmsg
-Petrola	Npmsg
-,	Z
-je	Va-r3s-n
-sporočil	Vmep-sm
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-.	Z
-Predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Petrola	Npmsg
-Viktor	Npmsn
-Baraga	Npmsn
-je	Va-r3s-n
-seznanil	Vmep-sm
-nadzorni	Agpmsay
-svet	Ncmsan
-,	Z
-da	Cs
-je	Va-r3s-n
-Matjaž	Npmsn
-Gantar	Npmsn
-15	Mdc
-.	Z
-maja	Ncmsg
-podal	Vmbp-sm
-pisno	Agpfsa
-izjavo	Ncfsa
-,	Z
-da	Cs
-nepreklicno	Rgp
-odstopa	Vmpr3s
-s	Sg
-funkcije	Ncfsg
-člana	Ncmsg
-nadzornikov	Ncmpg
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-Petrola	Npmsg
-.	Z
-Gantar	Npmsn
-,	Z
-sicer	Q
-direktor	Ncmsn
-družb	Ncfpg
-KD	Npmsn
-Group	Npmsn
-in	Cc
-KD	Npmsn
-Holding	Npmsn
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-za	Sa
-člana	Ncmsay
-nadzornega	Agpmsg
-sveta	Ncmsg
-kot	Cs
-predstavnik	Ncmsn
-kapitala	Ncmsg
-imenovan	Appmsnn
-na	Sl
-11	Mdc
-.	Z
-skupščini	Ncfsl
-delničarjev	Ncmpg
-4	Mdc
-.	Z
-aprila	Ncmsg
-2005	Mdc
-,	Z
-štiriletni	Agpmsny
-mandat	Ncmsn
-pa	Cc
-je	Va-r3s-n
-nastopil	Vmep-sm
-dan	Ncmsan
-pozneje	Rgc
-.	Z
-Nadzorniki	Ncmpn
-Petrola	Npmsg
-so	Va-r3p-n
-se	Px------y
-na	Sl
-39	Mdc
-.	Z
-redni	Agpfsl
-seji	Ncfsl
-posvetili	Vmep-pm
-tudi	Q
-rednemu	Agpnsd
-poslovanju	Ncnsd
-družbe	Ncfsg
-in	Cc
-zagotovitvi	Ncfsd
-še	Q
-učinkovitejšega	Agcnsg
-vodenja	Ncnsg
-in	Cc
-nadzora	Ncmsg
-z	Si
-oblikovanjem	Ncnsi
-komisij	Ncfpg
-nadzornega	Agpmsg
-sveta	Ncmsg
-,	Z
-piše	Vmpr3s
-v	Sl
-objavi	Ncfsl
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-Petrola	Npmsg
-.	Z
-15	Mdc
-.	Z
-maja	Ncmsg
-bi	Va-c
-morali	Vmpp-pm
-odločati	Vmpn
-o	Sl
-enotirnem	Agpmsl
-sistemu	Ncmsl
-upravljanja	Ncnsg
-Zanimivo	Agpnsn
-je	Va-r3s-n
-,	Z
-da	Cs
-so	Va-r3p-n
-15	Mdc
-.	Z
-maja	Ncmsg
-,	Z
-ko	Cs
-je	Va-r3s-n
-Gantar	Npmsn
-podal	Vmbp-sm
-odstopno	Agpfsa
-izjavo	Ncfsa
-,	Z
-iz	Sg
-dnevnega	Agpmsg
-reda	Ncmsg
-skupščine	Ncfsg
-Petrola	Npmsg
-umaknili	Vmep-pm
-odločanje	Ncnsa
-o	Sl
-prehodu	Ncmsl
-na	Sa
-enotirni	Agpmsay
-sistem	Ncmsan
-upravljanja	Ncnsg
-.	Z
-Viktor	Npmsn
-Baraga	Npmsn
-je	Va-r3s-n
-takrat	Rgp
-o	Sl
-razlogih	Ncmpl
-za	Sa
-umik	Ncmsan
-te	Pd-fsg
-teme	Ncfsg
-z	Sg
-dnevnega	Agpmsg
-reda	Ncmsg
-dejal	Vmep-sm
-,	Z
-da	Cs
-predlog	Ncmsn
-ne	Q
-bi	Va-c
-dobil	Vmep-sm
-ustrezne	Agpfsg
-podpore	Ncfsg
-.	Z
-Takšen	Pd-msa
-sklep	Ncmsan
-so	Va-r3p-n
-nadzorniki	Ncmpn
-sprejeli	Vmep-pm
-na	Sl
-sredini	Ncfsl
-seji	Ncfsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-pojasnil	Vmep-sm
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Baraga	Npmsn
-,	Z
-so	Va-r3p-n
-se	Px------y
-za	Sa
-ta	Pd-msa
-korak	Ncmsan
-odločili	Vmep-pm
-po	Sl
-pogovoru	Ncmsl
-z	Si
-velikimi	Agpmpi
-lastniki	Ncmpi
-družbe	Ncfsg
-.	Z
-Glede	Sg
-nadaljnje	Agpfsg
-usode	Ncfsg
-enotirnega	Agpmsg
-sistema	Ncmsg
-upravljanja	Ncnsg
-pa	Cc
-bodo	Va-f3p-n
-lastniki	Ncmpn
-odločali	Vmpp-pm
-na	Sl
-kateri	Pq-fsa
-izmed	Sg
-naslednjih	Agpfpg
-skupščin	Ncfpg
-.	Z
+token	tag	lemma
+15	mte:Mdc	15
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+je	mte:Va-r3s-n	biti
+podal	mte:Vmbp-sm	podati
+nepreklicno	mte:Agpfsa	nepreklicen
+izjavo	mte:Ncfsa	izjava
+Matjaž	mte:Npmsn	Matjaž
+Gantar	mte:Npmsn	Gantar
+,	mte:Z	,
+ki	mte:Cs	ki
+vodi	mte:Vmpr3s	voditi
+KD	mte:Npmsn	KD
+Group	mte:Npmsn	Group
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+nepreklicno	mte:Rgp	nepreklicno
+izstopil	mte:Vmep-sm	izstopiti
+iz	mte:Sg	iz
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Petrola	mte:Npmsg	Petrol
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+sporočil	mte:Vmep-sm	sporočiti
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Petrola	mte:Npmsg	Petrol
+Viktor	mte:Npmsn	Viktor
+Baraga	mte:Npmsn	Baraga
+je	mte:Va-r3s-n	biti
+seznanil	mte:Vmep-sm	seznaniti
+nadzorni	mte:Agpmsay	nadzoren
+svet	mte:Ncmsan	svet
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Matjaž	mte:Npmsn	Matjaž
+Gantar	mte:Npmsn	Gantar
+15	mte:Mdc	15
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+podal	mte:Vmbp-sm	podati
+pisno	mte:Agpfsa	pisno
+izjavo	mte:Ncfsa	izjava
+,	mte:Z	,
+da	mte:Cs	da
+nepreklicno	mte:Rgp	nepreklicno
+odstopa	mte:Vmpr3s	odstopati
+s	mte:Sg	z
+funkcije	mte:Ncfsg	funkcija
+člana	mte:Ncmsg	član
+nadzornikov	mte:Ncmpg	nadzornik
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Petrola	mte:Npmsg	Petrol
+.	mte:Z	.
+Gantar	mte:Npmsn	Gantar
+,	mte:Z	,
+sicer	mte:Q	sicer
+direktor	mte:Ncmsn	direktor
+družb	mte:Ncfpg	družba
+KD	mte:Npmsn	KD
+Group	mte:Npmsn	Group
+in	mte:Cc	in
+KD	mte:Npmsn	KD
+Holding	mte:Npmsn	holding
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+za	mte:Sa	za
+člana	mte:Ncmsay	član
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+kot	mte:Cs	kot
+predstavnik	mte:Ncmsn	predstavnik
+kapitala	mte:Ncmsg	kapital
+imenovan	mte:Appmsnn	imenovan
+na	mte:Sl	na
+11	mte:Mdc	11
+.	mte:Z	.
+skupščini	mte:Ncfsl	skupščina
+delničarjev	mte:Ncmpg	delničar
+4	mte:Mdc	4
+.	mte:Z	.
+aprila	mte:Ncmsg	april
+2005	mte:Mdc	2005
+,	mte:Z	,
+štiriletni	mte:Agpmsny	štirileten
+mandat	mte:Ncmsn	mandat
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+nastopil	mte:Vmep-sm	nastopiti
+dan	mte:Ncmsan	dan
+pozneje	mte:Rgc	pozno
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+Petrola	mte:Npmsg	Petrol
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+39	mte:Mdc	39
+.	mte:Z	.
+redni	mte:Agpfsl	reden
+seji	mte:Ncfsl	seja
+posvetili	mte:Vmep-pm	posvetiti
+tudi	mte:Q	tudi
+rednemu	mte:Agpnsd	reden
+poslovanju	mte:Ncnsd	poslovanje
+družbe	mte:Ncfsg	družba
+in	mte:Cc	in
+zagotovitvi	mte:Ncfsd	zagotovitev
+še	mte:Q	še
+učinkovitejšega	mte:Agcnsg	učinkovit
+vodenja	mte:Ncnsg	vodenje
+in	mte:Cc	in
+nadzora	mte:Ncmsg	nadzor
+z	mte:Si	z
+oblikovanjem	mte:Ncnsi	oblikovanje
+komisij	mte:Ncfpg	komisija
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+,	mte:Z	,
+piše	mte:Vmpr3s	pisati
+v	mte:Sl	v
+objavi	mte:Ncfsl	objava
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+Petrola	mte:Npmsg	Petrol
+.	mte:Z	.
+15	mte:Mdc	15
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+odločati	mte:Vmpn	odločati
+o	mte:Sl	o
+enotirnem	mte:Agpmsl	enotiren
+sistemu	mte:Ncmsl	sistem
+upravljanja	mte:Ncnsg	upravljanje
+Zanimivo	mte:Agpnsn	zanimiv
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+15	mte:Mdc	15
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Gantar	mte:Npmsn	Gantar
+podal	mte:Vmbp-sm	podati
+odstopno	mte:Agpfsa	odstopen
+izjavo	mte:Ncfsa	izjava
+,	mte:Z	,
+iz	mte:Sg	iz
+dnevnega	mte:Agpmsg	dneven
+reda	mte:Ncmsg	red
+skupščine	mte:Ncfsg	skupščina
+Petrola	mte:Npmsg	Petrol
+umaknili	mte:Vmep-pm	umakniti
+odločanje	mte:Ncnsa	odločanje
+o	mte:Sl	o
+prehodu	mte:Ncmsl	prehod
+na	mte:Sa	na
+enotirni	mte:Agpmsay	enotiren
+sistem	mte:Ncmsan	sistem
+upravljanja	mte:Ncnsg	upravljanje
+.	mte:Z	.
+Viktor	mte:Npmsn	Viktor
+Baraga	mte:Npmsn	Baraga
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+o	mte:Sl	o
+razlogih	mte:Ncmpl	razlog
+za	mte:Sa	za
+umik	mte:Ncmsan	umik
+te	mte:Pd-fsg	ta
+teme	mte:Ncfsg	tema
+z	mte:Sg	z
+dnevnega	mte:Agpmsg	dneven
+reda	mte:Ncmsg	red
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+predlog	mte:Ncmsn	predlog
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+dobil	mte:Vmep-sm	dobiti
+ustrezne	mte:Agpfsg	ustrezen
+podpore	mte:Ncfsg	podpora
+.	mte:Z	.
+Takšen	mte:Pd-msa	takšen
+sklep	mte:Ncmsan	sklep
+so	mte:Va-r3p-n	biti
+nadzorniki	mte:Ncmpn	nadzornik
+sprejeli	mte:Vmep-pm	sprejeti
+na	mte:Sl	na
+sredini	mte:Ncfsl	sredina
+seji	mte:Ncfsl	seja
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Baraga	mte:Npmsn	Baraga
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+ta	mte:Pd-msa	ta
+korak	mte:Ncmsan	korak
+odločili	mte:Vmep-pm	odločiti
+po	mte:Sl	po
+pogovoru	mte:Ncmsl	pogovor
+z	mte:Si	z
+velikimi	mte:Agpmpi	velik
+lastniki	mte:Ncmpi	lastnik
+družbe	mte:Ncfsg	družba
+.	mte:Z	.
+Glede	mte:Sg	glede
+nadaljnje	mte:Agpfsg	nadaljnji
+usode	mte:Ncfsg	usoda
+enotirnega	mte:Agpmsg	enotiren
+sistema	mte:Ncmsg	sistem
+upravljanja	mte:Ncnsg	upravljanje
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+lastniki	mte:Ncmpn	lastnik
+odločali	mte:Vmpp-pm	odločati
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+izmed	mte:Sg	izmed
+naslednjih	mte:Agpfpg	naslednji
+skupščin	mte:Ncfpg	skupščina
+.	mte:Z	.
+Nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Petrola	mte:Npmsg	Petrol
+sicer	mte:Q	sicer
+sestavljajo	mte:Vmpr3p	sestavljati
+predstavniki	mte:Ncmpn	predstavnik
+kapitala	mte:Ncmsg	kapital
+-	mte:Z	-
+poleg	mte:Sg	poleg
+Gantarja	mte:Npmsg	Gantar
+še	mte:Q	še
+Bojan	mte:Npmsn	Bojan
+Šrot	mte:Npmsn	Šrot
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+SLS	mte:Npfsn	SLS
+-	mte:Z	-
+a	mte:Cc	a
+in	mte:Cc	in
+celjski	mte:Agpmsny	celjski
+župan	mte:Ncmsn	župan
+,	mte:Z	,
+Andrej	mte:Npmsn	Andrej
+Bratož	mte:Npmsn	Bratož
+,	mte:Z	,
+Aleš	mte:Npmsn	Aleš
+Marinček	mte:Npmsn	Marinček
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+Viktor	mte:Npmsn	Viktor
+Baraga	mte:Npmsn	Baraga
+in	mte:Cc	in
+podpredsednik	mte:Ncmsn	podpredsednik
+Milan	mte:Npmsn	Milan
+Podpečan	mte:Npmsn	Podpečan
+,	mte:Z	,
+ki	mte:Cs	ki
+zastopa	mte:Vmpr3s	zastopati
+interese	mte:Ncmpa	interes
+Soda	mte:Npfsn	Soda
+-	mte:Z	-
+in	mte:Cc	in
+predstavniki	mte:Ncmpn	predstavnik
+zaposlenih	mte:Appmpg	zaposlen
+Samo	mte:Q	samo
+Gerdin	mte:Npmsn	Gerdin
+,	mte:Z	,
+Cvetka	mte:Npfsn	Cvetko
+Žigart	mte:Npfsn	Žigart
+in	mte:Cc	in
+Ciril	mte:Npmsn	Ciril
+Pirš	mte:Npmsn	Pirš

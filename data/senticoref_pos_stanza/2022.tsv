@@ -1,511 +1,531 @@
-token	tag
-Analitik	Ncmsn
-ameriške	Agpfsg
-banke	Ncfsg
-Citigroup	Npmsn
-Jaromir	Npmsn
-Sindel	Npmsn
-je	Va-r3s-n
-za	Sa
-ameriški	Agpmsay
-časnik	Ncmsan
-Wall	Npmsn
-Street	Npmsn
-Journal	Npmsn
-izračunal	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-prodaja	Ncfsn
-Elana	Npmsg
-,	Z
-Telekoma	Npmsg
-Slovenije	Npfsg
-,	Z
-Adrie	Npfsg
-Airways	Npfsn
-,	Z
-Krke	Npfsg
-in	Cc
-drugih	Mlpnpg
-državnih	Agpnpg
-podjetij	Ncnpg
-lahko	Rgp
-znašala	Vmpp-sf
-med	Si
-500	Mdc
-in	Cc
-750	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Kriza	Ncfsn
-je	Va-r3s-n
-Slovenijo	Npfsa
-spodbudila	Vmep-sf
-k	Sd
-privatizaciji	Ncfsd
-,	Z
-poroča	Vmpr3s
-ameriški	Agpmsny
-poslovni	Agpmsny
-časnik	Ncmsn
-Wall	Npmsn
-Street	Npmsn
-Journal	Npmsn
-.	Z
-Ugotavlja	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-Slovenija	Npfsn
-kapitalistični	Agpmsny
-sistem	Ncmsnn
-uvedla	Vmep-sf
-pred	Si
-dvema	Mlcndi
-desetletjema	Ncndi
-in	Cc
-da	Cs
-se	Px------y
-od	Sg
-tedaj	Rgp
-ljubosumno	Rgp
-oklepa	Ncmsg
-zakladnice	Ncfsg
-podjetij	Ncnpg
-.	Z
-Državna	Agpfsn
-vreča	Ncfsn
-podjetij	Ncnpg
-je	Va-r3s-n
-mešana	Appfsn
-,	Z
-v	Sl
-njej	Pp3fsl
-je	Va-r3s-n
-vse	Pg-nsn
-od	Sg
-zavarovalnic	Ncfpg
-do	Sg
-proizvajalcev	Ncmpg
-toaletnega	Agpmsg
-papirja	Ncmsg
-,	Z
-poroča	Vmpr3s
-.	Z
-Slovenija	Npfsn
-naj	Q
-bi	Va-c
-se	Px------y
-kot	Cs
-majhna	Agpfsn
-država	Ncfsn
-,	Z
-obkrožena	Appfsn
-z	Si
-bogatejšimi	Agcfpi
-sosedami	Ncfpi
-,	Z
-premoženja	Ncnsg
-oklepala	Vmpp-sf
-,	Z
-ker	Cs
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-želela	Vmpp-sf
-zaščititi	Vmen
-pred	Si
-tujci	Ncmpi
-.	Z
-Slovenija	Npfsn
-bo	Va-f3s-n
-s	Si
-prodajo	Ncfsi
-15	Mdc
-podjetij	Ncnpg
-zaslužila	Vmep-sf
-največ	Rgs
-750	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-je	Va-r3s-n
-ocenil	Vmep-sm
-analitik	Ncmsn
-za	Sa
-Wall	Npmsn
-Street	Npmsn
-Journal	Npmsn
-.	Z
-Odločitev	Ncfsn
-Slovenije	Npfsg
-,	Z
-da	Cs
-obdrži	Vmer3s
-tako	Rgp
-raznolike	Agpfpa
-družbe	Ncfpa
-in	Cc
-jih	Pp3fpa--y
-financira	Vmbr3s
-s	Si
-posojili	Ncnpi
-državnih	Agpfpg
-bank	Ncfpg
-,	Z
-zdaj	Rgp
-po	Sl
-navedbah	Ncfpl
-časnika	Ncmsg
-predstavlja	Vmpr3s
-središče	Ncnsa
-slovenske	Agpfsg
-gospodarske	Agpfsg
-krize	Ncfsg
-,	Z
-zaradi	Sg
-katere	Pq-fsg
-se	Px------y
-špekulira	Vmpr3s
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-država	Ncfsn
-prisiljena	Appfsn
-zaprositi	Vmen
-za	Sa
-mednarodno	Agpfsa
-pomoč	Ncfsa
-.	Z
-Država	Ncfsn
-obvladuje	Vmpr3s
-tri	Mlcfpa
-največje	Agsfpa
-banke	Ncfpa
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-skupaj	Rgp
-za	Sa
-9,2	Mdc
-milijarde	Ncfsg
-dolarjev	Ncmpg
-6,93	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-slabih	Agpnpg
-posojil	Ncnpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-20	Mdc
-odstotkov	Ncmpg
-slovenskega	Agpmsg
-bruto	Agpmsg
-domačega	Agpmsg
-proizvoda	Ncmsg
-BDP	Npmsn
-,	Z
-izpostavljajo	Vmpr3p
-pri	Sl
-Wall	Npmsn
-Street	Npmsn
-Journalu	Npmsl
-.	Z
-Po	Sl
-njihovih	Ps3fplp
-navedbah	Ncfpl
-je	Va-r3s-n
-Slovenija	Npfsn
-od	Sg
-strahu	Ncmsg
-pred	Si
-insolventnostjo	Ncfsi
-sprejela	Vmep-sf
-seznam	Ncmsan
-privatizacije	Ncfsg
-15	Mdc
-podjetij	Ncnpg
-.	Z
-Med	Si
-njimi	Pp3mpi
-posebej	Rgp
-omenjajo	Vmpr3p
-proizvajalca	Ncmsay
-smuči	Ncfpg
-in	Cc
-čolnov	Ncmpg
-Elan	Npmsn
-ter	Cc
-telekomunikacijsko	Agpnsa
-podjetje	Ncnsa
-Telekom	Npmsn
-Slovenije	Npfsg
-.	Z
-Hkrati	Rgp
-ocenjujejo	Vmpr3p
-,	Z
-da	Cs
-deleži	Ncmpn
-v	Sl
-15	Mdc
-podjetjih	Ncnpl
-,	Z
-ki	Cs
-so	Va-r3p-n
-namenjena	Appnpn
-za	Sa
-prodajo	Ncfsa
-,	Z
-predstavljajo	Vmpr3p
-majhen	Agpmsan
-delček	Ncmsan
-državnega	Agpnsg
-premoženja	Ncnsg
-,	Z
-saj	Cc
-ima	Vmpr3s-n
-Slovenija	Npfsn
-lastniški	Agpmsay
-delež	Ncmsan
-še	Q
-v	Sl
-več	Rgc
-kot	Cs
-80	Mdc
-drugih	Mlpfpl
-družbah	Ncfpl
-,	Z
-ponekod	Rgp
-tudi	Q
-večinski	Agpmsl
-.	Z
-Med	Si
-temi	Pd-mpi
-naštevajo	Vmpr3p
-največje	Agsnsa
-pristanišče	Ncnsa
-Luko	Npfsa
-Koper	Npmsn
-,	Z
-proizvajalca	Ncmsg
-čevljev	Ncmpg
-Peko	Ncfsa
-,	Z
-trgovca	Ncmsay
-z	Si
-gorivom	Ncnsi
-Petrol	Npmsn
-in	Cc
-farmacevta	Ncmsg
-Krko	Npfsi
-.	Z
-Verjamem	Vmbr1s
-,	Z
-da	Cs
-so	Va-r3p-n
-v	Sl
-Sloveniji	Npfsl
-še	Q
-vedno	Rgp
-zadržani	Appmpn
-do	Sg
-prodaje	Ncfsg
-družinske	Agpfsg
-srebrnine	Ncfsg
-,	Z
-je	Va-r3s-n
-za	Sa
-Wall	Npmsn
-Street	Npmsn
-Journal	Npmsn
-dejal	Vmep-sm
-ekonomist	Ncmsn
-pri	Sl
-Standard	Ncmsn
-Bank	Npfpg
-Timothy	Npmsn
-Ash	Npmsn
-.	Z
-Časnik	Npmsn
-povzema	Vmpr3s
-tudi	Q
-besede	Ncfpa
-predsednika	Ncmsg
-uprave	Ncfsg
-Modre	Agpfsg
-zavarovalnice	Ncfsg
-Boruta	Npmsg
-Jamnika	Npmsg
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sl
-državnih	Agpfpl
-rokah	Ncfpl
-trenutno	Rgp
-zaradi	Sg
-konverzije	Ncfsg
-slabih	Agpnpg
-posojil	Ncnpg
-v	Sa
-lastniške	Agpmpa
-deleže	Ncmpa
-bank	Ncfpg
-že	Q
-80	Mdc
-odstotkov	Ncmpg
-slovenskega	Agpnsg
-gospodarstva	Ncnsg
-in	Cc
-da	Cs
-se	Px------y
-mora	Vmpr3s
-Slovenija	Npfsn
-izogniti	Vmen
-razprodaji	Ncfsd
-.	Z
-Za	Sa
-vse	Pg-nsa
-bi	Va-c
-bilo	Va-p-sn
-slabo	Agpnsn
-,	Z
-če	Cs
-bi	Va-c
-se	Px------y
-Slovenijo	Npfsa
-videlo	Vmbp-sn
-kot	Cs
-neko	Pi-fsa
-diskontno	Agpfsa
-trgovino	Ncfsa
-za	Sa
-podjetja	Ncnpa
-ali	Cc
-premoženje	Ncnsa
-,	Z
-meni	Vmpr3s
-.	Z
-V	Sl
-časniku	Ncmsl
-pojasnjujejo	Vmpr3p
-še	Q
-,	Z
-da	Cs
-slovenska	Agpfsn
-vlada	Ncfsn
-ni	Va-r3s-y
-razkrila	Vmep-sf
-,	Z
-koliko	Rgp
-želi	Vmpr3s
-Slovenija	Npfsn
-zbrati	Vmen
-s	Si
-prodajo	Ncfsi
-deležev	Ncmpg
-v	Sl
-15	Mdc
-podjetjih	Ncnpl
-.	Z
-Analitik	Ncmsn
-ameriške	Agpfsg
-banke	Ncfsg
-Citigroup	Npmsn
-Jaromir	Npmsn
-Sindel	Npmsn
-pa	Cc
-je	Va-r3s-n
-po	Sl
-njihovih	Ps3fplp
-besedah	Ncfpl
-izračunal	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-prodaja	Ncfsn
-lahko	Rgp
-vladi	Ncfsd
-prinesla	Vmep-sf
-med	Sa
-500	Mdc
-in	Cc
-750	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-A	Cc
-glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-je	Va-r3s-n
-okrevanje	Ncnsn
-Evrope	Npfsg
-počasno	Agpnsn
-,	Z
-privatizacija	Ncfsn
-ne	Q
-bo	Va-f3s-n
-lahka	Agpfsn
-naloga	Ncfsn
-,	Z
-ocenjujejo	Vmpr3p
-v	Sl
-časniku	Ncmsl
-.	Z
-Obenem	Rgp
-opominjajo	Vmpr3p
-,	Z
-da	Cs
-Slovenija	Npfsn
-skoraj	Q
-75	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-letalskem	Agpmsl
-prevozniku	Ncmsl
-Adria	Npfsn
-Airways	Npmsn
-neuspešno	Rgp
-prodaja	Vmpr3s
-že	Q
-od	Sg
-lani	Rgp
-.	Z
-Ash	Npmsn
-se	Px------y
-boji	Vmpr3s
-,	Z
-da	Cs
-Sloveniji	Npfsd
-ne	Q
-bo	Va-f3s-n
-uspelo	Vmep-sn
-prodati	Vmen
-Nove	Agpfsg
-Kreditne	Agpfsg
-banke	Ncfsg
-Maribor	Npmsn
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-šla	Vmbp-sf
-v	Sa
-prodajo	Ncfsa
-takoj	Rgp
-po	Sl
-opravljenem	Appmsl
-prenosu	Ncmsl
-terjatev	Ncfpg
-na	Sa
-slabo	Agpfsa
-banko	Ncfsa
-.	Z
+token	tag	lemma
+Analitik	mte:Ncmsn	analitik
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+Citigroup	mte:Npmsn	Citigroup
+Jaromir	mte:Npmsn	Jaromir
+Sindel	mte:Npmsn	Sindel
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+ameriški	mte:Agpmsay	ameriški
+časnik	mte:Ncmsan	časnik
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+Journal	mte:Npmsn	Journal
+izračunal	mte:Vmep-sm	izračunati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+prodaja	mte:Ncfsn	prodaja
+Elana	mte:Npmsg	Elana
+,	mte:Z	,
+Telekoma	mte:Npmsg	Telekom
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+Adrie	mte:Npfsg	Adrie
+Airways	mte:Npfsn	Airways
+,	mte:Z	,
+Krke	mte:Npfsg	Krka
+in	mte:Cc	in
+drugih	mte:Mlpnpg	drug
+državnih	mte:Agpnpg	državen
+podjetij	mte:Ncnpg	podjetje
+lahko	mte:Rgp	lahko
+znašala	mte:Vmpp-sf	znašati
+med	mte:Si	med
+500	mte:Mdc	500
+in	mte:Cc	in
+750	mte:Mdc	750
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Kriza	mte:Ncfsn	kriza
+je	mte:Va-r3s-n	biti
+Slovenijo	mte:Npfsa	Slovenija
+spodbudila	mte:Vmep-sf	spodbuditi
+k	mte:Sd	k
+privatizaciji	mte:Ncfsd	privatizacija
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+ameriški	mte:Agpmsny	ameriški
+poslovni	mte:Agpmsny	posloven
+časnik	mte:Ncmsn	časnik
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+Journal	mte:Npmsn	Journal
+.	mte:Z	.
+Ugotavlja	mte:Vmpr3s	ugotavljati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+kapitalistični	mte:Agpmsny	kapitalističen
+sistem	mte:Ncmsnn	sistem
+uvedla	mte:Vmep-sf	uvesti
+pred	mte:Si	pred
+dvema	mte:Mlcndi	dva
+desetletjema	mte:Ncndi	desetletje
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+od	mte:Sg	od
+tedaj	mte:Rgp	tedaj
+ljubosumno	mte:Rgp	ljubosumno
+oklepa	mte:Ncmsg	oklep
+zakladnice	mte:Ncfsg	zakladnica
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Državna	mte:Agpfsn	državen
+vreča	mte:Ncfsn	vreča
+podjetij	mte:Ncnpg	podjetje
+je	mte:Va-r3s-n	biti
+mešana	mte:Appfsn	mešan
+,	mte:Z	,
+v	mte:Sl	v
+njej	mte:Pp3fsl	on
+je	mte:Va-r3s-n	biti
+vse	mte:Pg-nsn	ves
+od	mte:Sg	od
+zavarovalnic	mte:Ncfpg	zavarovalnica
+do	mte:Sg	do
+proizvajalcev	mte:Ncmpg	proizvajalec
+toaletnega	mte:Agpmsg	toaleten
+papirja	mte:Ncmsg	papir
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+kot	mte:Cs	kot
+majhna	mte:Agpfsn	majhen
+država	mte:Ncfsn	država
+,	mte:Z	,
+obkrožena	mte:Appfsn	obkrožen
+z	mte:Si	z
+bogatejšimi	mte:Agcfpi	bogat
+sosedami	mte:Ncfpi	soseda
+,	mte:Z	,
+premoženja	mte:Ncnsg	premoženje
+oklepala	mte:Vmpp-sf	oklepati
+,	mte:Z	,
+ker	mte:Cs	ker
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+želela	mte:Vmpp-sf	želeti
+zaščititi	mte:Vmen	zaščititi
+pred	mte:Si	pred
+tujci	mte:Ncmpi	tujec
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+bo	mte:Va-f3s-n	biti
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+15	mte:Mdc	15
+podjetij	mte:Ncnpg	podjetje
+zaslužila	mte:Vmep-sf	zaslužiti
+največ	mte:Rgs	največ
+750	mte:Mdc	750
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti
+analitik	mte:Ncmsn	analitik
+za	mte:Sa	za
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+Journal	mte:Npmsn	Journal
+.	mte:Z	.
+Odločitev	mte:Ncfsn	odločitev
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+da	mte:Cs	da
+obdrži	mte:Vmer3s	obdržati
+tako	mte:Rgp	tako
+raznolike	mte:Agpfpa	raznolik
+družbe	mte:Ncfpa	družba
+in	mte:Cc	in
+jih	mte:Pp3fpa--y	on
+financira	mte:Vmbr3s	financirati
+s	mte:Si	z
+posojili	mte:Ncnpi	posojilo
+državnih	mte:Agpfpg	državen
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+časnika	mte:Ncmsg	časnik
+predstavlja	mte:Vmpr3s	predstavljati
+središče	mte:Ncnsa	središče
+slovenske	mte:Agpfsg	slovenski
+gospodarske	mte:Agpfsg	gospodarski
+krize	mte:Ncfsg	kriza
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+katere	mte:Pq-fsg	kateri
+se	mte:Px------y	se
+špekulira	mte:Vmpr3s	špekulirati
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+država	mte:Ncfsn	država
+prisiljena	mte:Appfsn	prisiljen
+zaprositi	mte:Vmen	zaprositi
+za	mte:Sa	za
+mednarodno	mte:Agpfsa	mednaroden
+pomoč	mte:Ncfsa	pomoč
+.	mte:Z	.
+Država	mte:Ncfsn	država
+obvladuje	mte:Vmpr3s	obvladovati
+tri	mte:Mlcfpa	trije
+največje	mte:Agsfpa	velik
+banke	mte:Ncfpa	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+skupaj	mte:Rgp	skupaj
+za	mte:Sa	za
+9,2	mte:Mdc	9,2
+milijarde	mte:Ncfsg	milijarda
+dolarjev	mte:Ncmpg	dolar
+6,93	mte:Mdc	6,93
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+slabih	mte:Agpnpg	slab
+posojil	mte:Ncnpg	posojilo
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+20	mte:Mdc	20
+odstotkov	mte:Ncmpg	odstotek
+slovenskega	mte:Agpmsg	slovenski
+bruto	mte:Agpmsg	bruto
+domačega	mte:Agpmsg	domač
+proizvoda	mte:Ncmsg	proizvod
+BDP	mte:Npmsn	BDP
+,	mte:Z	,
+izpostavljajo	mte:Vmpr3p	izpostavljati
+pri	mte:Sl	pri
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+Journalu	mte:Npmsl	Journal
+.	mte:Z	.
+Po	mte:Sl	po
+njihovih	mte:Ps3fplp	njihov
+navedbah	mte:Ncfpl	navedba
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+od	mte:Sg	od
+strahu	mte:Ncmsg	strah
+pred	mte:Si	pred
+insolventnostjo	mte:Ncfsi	insolventnost
+sprejela	mte:Vmep-sf	sprejeti
+seznam	mte:Ncmsan	seznam
+privatizacije	mte:Ncfsg	privatizacija
+15	mte:Mdc	15
+podjetij	mte:Ncnpg	podjetje
+.	mte:Z	.
+Med	mte:Si	med
+njimi	mte:Pp3mpi	on
+posebej	mte:Rgp	posebej
+omenjajo	mte:Vmpr3p	omenjati
+proizvajalca	mte:Ncmsay	proizvajalec
+smuči	mte:Ncfpg	smuč
+in	mte:Cc	in
+čolnov	mte:Ncmpg	čoln
+Elan	mte:Npmsn	Elan
+ter	mte:Cc	ter
+telekomunikacijsko	mte:Agpnsa	telekomunikacijski
+podjetje	mte:Ncnsa	podjetje
+Telekom	mte:Npmsn	Telekom
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Hkrati	mte:Rgp	hkrati
+ocenjujejo	mte:Vmpr3p	ocenjevati
+,	mte:Z	,
+da	mte:Cs	da
+deleži	mte:Ncmpn	delež
+v	mte:Sl	v
+15	mte:Mdc	15
+podjetjih	mte:Ncnpl	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+namenjena	mte:Appnpn	namenjen
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+,	mte:Z	,
+predstavljajo	mte:Vmpr3p	predstavljati
+majhen	mte:Agpmsan	majhen
+delček	mte:Ncmsan	delček
+državnega	mte:Agpnsg	državen
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+saj	mte:Cc	saj
+ima	mte:Vmpr3s-n	imeti
+Slovenija	mte:Npfsn	Slovenija
+lastniški	mte:Agpmsay	lastniški
+delež	mte:Ncmsan	delež
+še	mte:Q	še
+v	mte:Sl	v
+več	mte:Rgc	več
+kot	mte:Cs	kot
+80	mte:Mdc	80
+drugih	mte:Mlpfpl	drug
+družbah	mte:Ncfpl	družba
+,	mte:Z	,
+ponekod	mte:Rgp	ponekod
+tudi	mte:Q	tudi
+večinski	mte:Agpmsl	večinski
+.	mte:Z	.
+Med	mte:Si	med
+temi	mte:Pd-mpi	ta
+naštevajo	mte:Vmpr3p	naštevati
+največje	mte:Agsnsa	velik
+pristanišče	mte:Ncnsa	pristanišče
+Luko	mte:Npfsa	Luka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+proizvajalca	mte:Ncmsg	proizvajalec
+čevljev	mte:Ncmpg	čevelj
+Peko	mte:Ncfsa	peka
+,	mte:Z	,
+trgovca	mte:Ncmsay	trgovec
+z	mte:Si	z
+gorivom	mte:Ncnsi	goriv
+Petrol	mte:Npmsn	Petrol
+in	mte:Cc	in
+farmacevta	mte:Ncmsg	farmacevta
+Krko	mte:Npfsi	Krko
+.	mte:Z	.
+Verjamem	mte:Vmbr1s	verjeti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+zadržani	mte:Appmpn	zadržan
+do	mte:Sg	do
+prodaje	mte:Ncfsg	prodaja
+družinske	mte:Agpfsg	družinski
+srebrnine	mte:Ncfsg	srebrnina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+Journal	mte:Npmsn	Journal
+dejal	mte:Vmep-sm	dejati
+ekonomist	mte:Ncmsn	ekonomist
+pri	mte:Sl	pri
+Standard	mte:Ncmsn	standard
+Bank	mte:Npfpg	Bank
+Timothy	mte:Npmsn	Timothy
+Ash	mte:Npmsn	Ash
+.	mte:Z	.
+Časnik	mte:Npmsn	Časnik
+povzema	mte:Vmpr3s	povzemati
+tudi	mte:Q	tudi
+besede	mte:Ncfpa	beseda
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Modre	mte:Agpfsg	moder
+zavarovalnice	mte:Ncfsg	zavarovalnica
+Boruta	mte:Npmsg	Borut
+Jamnika	mte:Npmsg	Jamnik
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+državnih	mte:Agpfpl	državen
+rokah	mte:Ncfpl	roka
+trenutno	mte:Rgp	trenutno
+zaradi	mte:Sg	zaradi
+konverzije	mte:Ncfsg	konverzija
+slabih	mte:Agpnpg	slab
+posojil	mte:Ncnpg	posojilo
+v	mte:Sa	v
+lastniške	mte:Agpmpa	lastniški
+deleže	mte:Ncmpa	deleža
+bank	mte:Ncfpg	banka
+že	mte:Q	že
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+slovenskega	mte:Agpnsg	slovenski
+gospodarstva	mte:Ncnsg	gospodarstvo
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+mora	mte:Vmpr3s	morati
+Slovenija	mte:Npfsn	Slovenija
+izogniti	mte:Vmen	izogniti
+razprodaji	mte:Ncfsd	razprodaja
+.	mte:Z	.
+Za	mte:Sa	za
+vse	mte:Pg-nsa	ves
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+slabo	mte:Agpnsn	slab
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+Slovenijo	mte:Npfsa	Slovenija
+videlo	mte:Vmbp-sn	videti
+kot	mte:Cs	kot
+neko	mte:Pi-fsa	nek
+diskontno	mte:Agpfsa	diskonten
+trgovino	mte:Ncfsa	trgovina
+za	mte:Sa	za
+podjetja	mte:Ncnpa	podjetje
+ali	mte:Cc	ali
+premoženje	mte:Ncnsa	premoženje
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+.	mte:Z	.
+V	mte:Sl	v
+časniku	mte:Ncmsl	časnik
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+slovenska	mte:Agpfsn	slovenski
+vlada	mte:Ncfsn	vlada
+ni	mte:Va-r3s-y	biti
+razkrila	mte:Vmep-sf	razkriti
+,	mte:Z	,
+koliko	mte:Rgp	koliko
+želi	mte:Vmpr3s	želeti
+Slovenija	mte:Npfsn	Slovenija
+zbrati	mte:Vmen	zbrati
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+deležev	mte:Ncmpg	delež
+v	mte:Sl	v
+15	mte:Mdc	15
+podjetjih	mte:Ncnpl	podjetje
+.	mte:Z	.
+Analitik	mte:Ncmsn	analitik
+ameriške	mte:Agpfsg	ameriški
+banke	mte:Ncfsg	banka
+Citigroup	mte:Npmsn	Citigroup
+Jaromir	mte:Npmsn	Jaromir
+Sindel	mte:Npmsn	Sindel
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+njihovih	mte:Ps3fplp	njihov
+besedah	mte:Ncfpl	beseda
+izračunal	mte:Vmep-sm	izračunati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+prodaja	mte:Ncfsn	prodaja
+lahko	mte:Rgp	lahko
+vladi	mte:Ncfsd	vlada
+prinesla	mte:Vmep-sf	prinesti
+med	mte:Sa	med
+500	mte:Mdc	500
+in	mte:Cc	in
+750	mte:Mdc	750
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+A	mte:Cc	a
+glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+okrevanje	mte:Ncnsn	okrevanje
+Evrope	mte:Npfsg	Evropa
+počasno	mte:Agpnsn	počasen
+,	mte:Z	,
+privatizacija	mte:Ncfsn	privatizacija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+lahka	mte:Agpfsn	lahek
+naloga	mte:Ncfsn	naloga
+,	mte:Z	,
+ocenjujejo	mte:Vmpr3p	ocenjevati
+v	mte:Sl	v
+časniku	mte:Ncmsl	časnik
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+opominjajo	mte:Vmpr3p	opominjati
+,	mte:Z	,
+da	mte:Cs	da
+Slovenija	mte:Npfsn	Slovenija
+skoraj	mte:Q	skoraj
+75	mte:Mdc	75
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+letalskem	mte:Agpmsl	letalski
+prevozniku	mte:Ncmsl	prevoznik
+Adria	mte:Npfsn	Adria
+Airways	mte:Npmsn	Airways
+neuspešno	mte:Rgp	neuspešen
+prodaja	mte:Vmpr3s	prodajati
+že	mte:Q	že
+od	mte:Sg	od
+lani	mte:Rgp	lani
+.	mte:Z	.
+Ash	mte:Npmsn	Ash
+se	mte:Px------y	se
+boji	mte:Vmpr3s	bati
+,	mte:Z	,
+da	mte:Cs	da
+Sloveniji	mte:Npfsd	Slovenija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+uspelo	mte:Vmep-sn	uspeti
+prodati	mte:Vmen	prodati
+Nove	mte:Agpfsg	nov
+Kreditne	mte:Agpfsg	krediten
+banke	mte:Ncfsg	banka
+Maribor	mte:Npmsn	Maribor
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+šla	mte:Vmbp-sf	iti
+v	mte:Sa	v
+prodajo	mte:Ncfsa	prodaja
+takoj	mte:Rgp	takoj
+po	mte:Sl	po
+opravljenem	mte:Appmsl	opravljen
+prenosu	mte:Ncmsl	prenos
+terjatev	mte:Ncfpg	terjatev
+na	mte:Sa	na
+slabo	mte:Agpfsa	slab
+banko	mte:Ncfsa	banka
+.	mte:Z	.
+V	mte:Sl	v
+primeru	mte:Ncmsl	primer
+takšnega	mte:Pd-msg	takšen
+scenarija	mte:Ncmsg	scenarija
+bi	mte:Va-c	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+dvomov	mte:Ncmpg	dvom
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+procesom	mte:Ncmsi	proces
+in	mte:Cc	in
+apetitom	mte:Ncmsi	apetit
+po	mte:Sl	po
+slovenskem	mte:Agpnsl	slovenski
+premoženju	mte:Ncnsl	premoženje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti

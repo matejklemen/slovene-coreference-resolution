@@ -1,475 +1,512 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Slovensko	Agpnsn
-elektroenergetsko	Agpnsn
-omrežje	Ncnsn
-se	Px------y
-lahko	Rgp
-že	Q
-prihodnje	Agpnsa
-leto	Ncnsa
-znajde	Vmer3s
-v	Sl
-obratovalnih	Agpfpl
-težavah	Ncfpl
-.	Z
-Poleti	Rgp
-2009	Mdc
-bo	Va-f3s-n
-namreč	Cc
-avstrijski	Agpmsny
-Verbund	Npmsn
-APG	Npmsn
-končal	Vmep-sm
-gradnjo	Ncfsa
-95	Mdc
-kilometrov	Ncmpg
-dolgega	Agpmsg
-daljnovoda	Ncmsg
-med	Si
-Gradiščanskim	Agpmsi
-in	Cc
-Kainachtalom	Npmsi
-na	Sl
-avstrijskem	Agpnsl
-Štajerskem	Npnsl
-,	Z
-s	Si
-čimer	Pr-nsi
-bodo	Va-f3p-n
-severni	Agpmpn
-sosedi	Ncmpn
-končali	Vmep-pm
-načrtovano	Appfsa
-380	Mdc
--	Z
-kilovoltno	Agpfsa
-zanko	Ncfsa
-.	Z
-V	Sl
-Elesu	Npmsl
-tako	Rgp
-že	Q
-prihodnje	Agpnsa
-leto	Ncnsa
-pričakujejo	Vmpr3p
-povečan	Appmsan
-pritisk	Ncmsan
-presežkov	Ncmpg
-električne	Agpfsg
-energije	Ncfsg
-iz	Sg
-poljskih	Agpfpg
-in	Cc
-čeških	Agpfpg
-elektrarn	Ncfpg
-ter	Cc
-nemških	Agpnpg
-vetrnih	Agpnpg
-polj	Ncnpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-bo	Va-f3s-n
-po	Sl
-njihovem	Ps3nslp
-mnenju	Ncnsl
-"	Z
-zelo	Rgp
-težko	Agpnsn
-obvladovati	Vmpn
-"	Z
-.	Z
-"	Z
-Priključitev	Ncfsa
-nove	Agpfsg
-povezave	Ncfsg
-s	Sg
-severa	Ncmsg
-do	Sg
-Kainachtala	Npmsg
-v	Sl
-Avstriji	Npfsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-s	Si
-400	Mdc
--	Z
-kilovoltnim	Agpmsi
-daljnovodom	Ncmsi
-povezan	Appmsnn
-z	Si
-Mariborom	Npmsi
-,	Z
-bo	Va-f3s-n
-lahko	Rgp
-preobremenila	Vmep-sf
-obstoječa	Appfsa
-daljnovoda	Ncmda
-Podlog	Npmsn
--	Z
-Beričevo	Aspnsn
-in	Cc
-Beričevo	Aspnsn
--	Z
-Divača	Npfsn
-,	Z
-posledično	Rgp
-pa	Cc
-tudi	Q
-povezave	Ncfpn
-z	Si
-Italijo	Npfsi
-,	Z
-"	Z
-opozarja	Vmpr3s
-prof	Npfsn
-.	Z
-dr	Npmsn
-.	Z
-Ferdinand	Npmsn
-Gubina	Npmsn
-z	Sg
-ljubljanske	Agpfsg
-fakultete	Ncfsg
-za	Sa
-elektrotehniko	Ncmsa
-.	Z
-"	Z
-Tržne	Agpfpn
-pogodbe	Ncfpg
-so	Va-r3p-n
-že	Q
-privedle	Vmep-pf
-do	Sg
-velikih	Agpfpg
-obremenitev	Ncfpg
-naših	Ps1mpgp
-400	Mdc
--	Z
-kilovoltnih	Agpmpg
-daljnovodov	Ncmpg
-.	Z
-Pri	Sl
-preobremenitvi	Ncfsl
-daljnovoda	Ncmsg
-deluje	Vmpr3s
-njegova	Ps3fsnsm
-zaščita	Ncfsn
-in	Cc
-ga	Pp3msa--y
-izklopi	Vmer3s
-.	Z
-To	Pd-nsn
-pa	Cc
-lahko	Rgp
-za	Sa
-elektroenergetski	Agpmsay
-sistem	Ncmsan
-predstavlja	Vmpr3s
-veliko	Agpfsa
-motnjo	Ncfsa
-,	Z
-ker	Cs
-se	Px------y
-preobremenitev	Ncfpg
-v	Sl
-trenutku	Ncmsl
-preseli	Vmer3s
-na	Sa
-preostale	Appfpa
-daljnovode	Ncfpa
-,	Z
-kar	Pr-nsn
-lahko	Rgp
-povzroči	Vmer3s
-njihov	Ps3msap
-izpad	Ncmsan
-in	Cc
-posledično	Agpfsa
-razpad	Ncmsan
-sistema	Ncmsg
-ter	Cc
-električni	Agpmsay
-mrk	Ncmsan
-,	Z
-"	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-Gubina	Npmsn
-.	Z
-V	Sl
-Elesu	Npmsl
-priznavajo	Vmpr3p
-,	Z
-da	Cs
-so	Va-r3p-n
-razlog	Ncmsn
-za	Sa
-povečano	Appfsa
-nevarnost	Ncfsa
-motenj	Ncnpg
-v	Sl
-omrežju	Ncnsl
-v	Sl
-prihodnjem	Agpnsl
-letu	Ncnsl
-kronične	Agpfsg
-zamude	Ncfsg
-pri	Sl
-postopkih	Ncmpl
-za	Sa
-gradnjo	Ncfsa
-daljnovodov	Ncmpg
-.	Z
-Že	Q
-aprila	Ncmsg
-je	Va-r3s-n
-ministrstvo	Ncnsn
-za	Sa
-okolje	Ncnsa
-in	Cc
-prostor	Ncmsan
-zavrglo	Vmep-sn
-vlogo	Ncfsa
-Elesa	Npmsg
-za	Sa
-izdajo	Ncfsa
-gradbenega	Agpnsg
-dovoljenja	Ncnsg
-za	Sa
-400	Mdc
--	Z
-kilovoltni	Agpmsay
-daljnovod	Ncmsan
-med	Si
-Beričevim	Aspnsi
-in	Cc
-Krškim	Npnsi
-,	Z
-ki	Cs
-bi	Va-c
-razbremenil	Vmep-sm
-za	Sa
-zdaj	Rgp
-edino	Agpfsa
-daljnovodno	Agpfsa
-povezavo	Ncfsa
-med	Si
-zahodom	Ncmsi
-in	Cc
-vzhodom	Ncmsi
-Slovenije	Npfsg
-.	Z
-V	Sl
-birokratskih	Agpmpl
-mlinih	Ncmpl
-sta	Va-r3d-n
-za	Sa
-zdaj	Rgp
-tudi	Q
-preostala	Vmep-dm
-daljnovoda	Ncmdn
-nacionalnega	Agpmsg
-pomena	Ncmsg
-.	Z
-Medtem	Rgp
-ko	Cs
-naj	Q
-bi	Va-c
-ministrstvo	Ncnsn
-za	Sa
-okolje	Ncnsa
-in	Cc
-Eles	Npmsan
-državni	Agpmsay
-prostorski	Agpmsay
-načrt	Ncmsan
-za	Sa
-povezavo	Ncfsa
-z	Si
-Madžarsko	Npfsi
-(	Z
-Cirkovce	Npfsn
--	Z
-Pince	Npmsn
-)	Z
-javno	Rgp
-razgrnila	Vmep-dm
-še	Q
-letos	Rgp
-,	Z
-pa	Cc
-za	Sa
-daljnovod	Ncmsan
-Okroglo	Agpnsn
--	Z
-Videm	Npmsn
-(	Z
-Italija	Npfsn
-)	Z
-ministrstvo	Ncnsn
-za	Sa
-gospodarstvo	Ncnsa
-,	Z
-ki	Cs
-ga	Pp3msa--y
-vodi	Vmpr3s
-Andrej	Npmsn
-Vizjak	Npmsn
-,	Z
-po	Sl
-dostopnih	Agpmpl
-podatkih	Ncmpl
-še	Q
-ni	Va-r3s-y
-izdalo	Vmep-sn
-energetskega	Agpnsg
-dovoljenja	Ncnsg
-.	Z
-Kaj	Pq-nsn
-lahko	Rgp
-torej	Rgp
-stori	Vmer3s
-Eles	Npmsn
-?	Z
-"	Z
-Po	Sl
-vklopu	Ncmsl
-novega	Agpmsg
-avstrijskega	Agpmsg
-daljnovoda	Ncmsg
-bo	Va-f3s-n
-imel	Vmpp-sm
-zelo	Rgp
-malo	Rgp
-vzvodov	Ncmpg
-za	Sa
-obvladovanje	Ncnsa
-položaja	Ncmsg
-,	Z
-zato	Cc
-lahko	Rgp
-pričakujemo	Vmpr1p
-občasne	Agpfpa
-motnje	Ncfpa
-v	Sl
-oskrbi	Ncfsl
-.	Z
-Preobremenitve	Ncfsg
-bi	Va-c
-lahko	Rgp
-omilila	Vmep-sf
-le	Q
-gradnja	Ncfsn
-daljnovodov	Ncmpg
-Krško	Npnsn
--	Z
-Beričevo	Aspnsn
-in	Cc
-Okroglo	Agpnsn
--	Z
-Videm	Npmsn
-,	Z
-ki	Cs
-pa	Cc
-se	Px------y
-nista	Va-r3d-y
-še	Q
-niti	Q
-začela	Vmep-dm
-graditi	Vmpn
-.	Z
-V	Sa
-pomoč	Ncfsa
-bi	Va-c
-lahko	Rgp
-bil	Va-p-sm
-prečni	Agpmsny
-transformator	Ncmsn
-v	Sl
-Divači	Npfsl
-,	Z
-s	Si
-katerim	Pq-msi
-se	Px------y
-lahko	Rgp
-do	Sg
-določene	Appfsg
-mere	Ncfsg
-omejuje	Vmpr3s
-moč	Ncfsa
-na	Sl
-vodu	Ncmsl
-,	Z
-"	Z
-odgovarja	Vmpr3s
-Gubina	Npfsn
-.	Z
-Siemens	Npmsn
-bo	Va-f3s-n
-sicer	Q
-Elesu	Npmsd
-omenjeni	Appmsny
-transformator	Ncmsan
-,	Z
-za	Sa
-katerega	Pq-msa
-je	Va-r3s-n
-podjetje	Ncnsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-vodi	Vmpr3s
-Vitoslav	Npmsn
-Türk	Npmsn
-,	Z
-plačalo	Vmep-sn
-44	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-(	Z
-od	Sg
-tega	Pd-nsg
-skoraj	Q
-vse	Pg-nsa
-s	Si
-predujmom	Ncmsi
-)	Z
-,	Z
-dobavil	Vmep-sm
-čez	Sa
-približno	Rgp
-tri	Mlcnpa
-leta	Ncnpa
-.	Z
-Ob	Sl
-tem	Pd-nsl
-,	Z
-ko	Cs
-se	Px------y
-zatika	Vmpr3s
-pri	Sl
-zapletenih	Agpmpl
-in	Cc
-dolgotrajnih	Agpmpl
-upravnih	Agpmpl
-postopkih	Ncmpl
-,	Z
-velja	Vmpr3s
-poudariti	Vmen
-,	Z
-da	Cs
-ima	Vmpr3s-n
-Eles	Npmsn
-na	Sa
-voljo	Ncfsa
-več	Rgc
-kot	Cs
-dovolj	Rgp
-denarja	Ncmsg
-za	Sa
-gradnjo	Ncfsa
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Slovensko	mte:Agpnsn	slovenski
+elektroenergetsko	mte:Agpnsn	elektroenergetski
+omrežje	mte:Ncnsn	omrežje
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+že	mte:Q	že
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+znajde	mte:Vmer3s	znajti
+v	mte:Sl	v
+obratovalnih	mte:Agpfpl	obratovalen
+težavah	mte:Ncfpl	težava
+.	mte:Z	.
+Poleti	mte:Rgp	poleti
+2009	mte:Mdc	2009
+bo	mte:Va-f3s-n	biti
+namreč	mte:Cc	namreč
+avstrijski	mte:Agpmsny	avstrijski
+Verbund	mte:Npmsn	Verbund
+APG	mte:Npmsn	APG
+končal	mte:Vmep-sm	končati
+gradnjo	mte:Ncfsa	gradnja
+95	mte:Mdc	95
+kilometrov	mte:Ncmpg	kilometer
+dolgega	mte:Agpmsg	dolg
+daljnovoda	mte:Ncmsg	daljnovod
+med	mte:Si	med
+Gradiščanskim	mte:Agpmsi	gradiščanski
+in	mte:Cc	in
+Kainachtalom	mte:Npmsi	Kainachtal
+na	mte:Sl	na
+avstrijskem	mte:Agpnsl	avstrijski
+Štajerskem	mte:Npnsl	Štajersko
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+bodo	mte:Va-f3p-n	biti
+severni	mte:Agpmpn	severen
+sosedi	mte:Ncmpn	soseda
+končali	mte:Vmep-pm	končati
+načrtovano	mte:Appfsa	načrtovan
+380	mte:Mdc	380
+-	mte:Z	-
+kilovoltno	mte:Agpfsa	kilovolten
+zanko	mte:Ncfsa	zanka
+.	mte:Z	.
+V	mte:Sl	v
+Elesu	mte:Npmsl	Eles
+tako	mte:Rgp	tako
+že	mte:Q	že
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+pričakujejo	mte:Vmpr3p	pričakovati
+povečan	mte:Appmsan	povečan
+pritisk	mte:Ncmsan	pritisk
+presežkov	mte:Ncmpg	presežek
+električne	mte:Agpfsg	električen
+energije	mte:Ncfsg	energija
+iz	mte:Sg	iz
+poljskih	mte:Agpfpg	poljski
+in	mte:Cc	in
+čeških	mte:Agpfpg	češki
+elektrarn	mte:Ncfpg	elektrarn
+ter	mte:Cc	ter
+nemških	mte:Agpnpg	nemški
+vetrnih	mte:Agpnpg	vetrn
+polj	mte:Ncnpg	polj
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+po	mte:Sl	po
+njihovem	mte:Ps3nslp	njihov
+mnenju	mte:Ncnsl	mnenje
+"	mte:Z	"
+zelo	mte:Rgp	zelo
+težko	mte:Agpnsn	težek
+obvladovati	mte:Vmpn	obvladovati
+"	mte:Z	"
+.	mte:Z	.
+"	mte:Z	"
+Priključitev	mte:Ncfsa	priključitev
+nove	mte:Agpfsg	nov
+povezave	mte:Ncfsg	povezava
+s	mte:Sg	z
+severa	mte:Ncmsg	sever
+do	mte:Sg	do
+Kainachtala	mte:Npmsg	Kainachtal
+v	mte:Sl	v
+Avstriji	mte:Npfsl	Avstrija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+400	mte:Mdc	400
+-	mte:Z	-
+kilovoltnim	mte:Agpmsi	kilovolten
+daljnovodom	mte:Ncmsi	doljenov
+povezan	mte:Appmsnn	povezan
+z	mte:Si	z
+Mariborom	mte:Npmsi	Maribor
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+lahko	mte:Rgp	lahko
+preobremenila	mte:Vmep-sf	preobremeniti
+obstoječa	mte:Appfsa	obstoječ
+daljnovoda	mte:Ncmda	daljnovod
+Podlog	mte:Npmsn	Podlog
+-	mte:Z	-
+Beričevo	mte:Aspnsn	Beričev
+in	mte:Cc	in
+Beričevo	mte:Aspnsn	Beričev
+-	mte:Z	-
+Divača	mte:Npfsn	Divač
+,	mte:Z	,
+posledično	mte:Rgp	posledično
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+povezave	mte:Ncfpn	povezava
+z	mte:Si	z
+Italijo	mte:Npfsi	Italija
+,	mte:Z	,
+"	mte:Z	"
+opozarja	mte:Vmpr3s	opozarjati
+prof	mte:Npfsn	prof
+.	mte:Z	.
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Ferdinand	mte:Npmsn	Ferdinand
+Gubina	mte:Npmsn	Gubina
+z	mte:Sg	z
+ljubljanske	mte:Agpfsg	ljubljanski
+fakultete	mte:Ncfsg	fakulteta
+za	mte:Sa	za
+elektrotehniko	mte:Ncmsa	elektrotehnik
+.	mte:Z	.
+"	mte:Z	"
+Tržne	mte:Agpfpn	tržen
+pogodbe	mte:Ncfpg	pogodba
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+privedle	mte:Vmep-pf	privesti
+do	mte:Sg	do
+velikih	mte:Agpfpg	velik
+obremenitev	mte:Ncfpg	obremenitev
+naših	mte:Ps1mpgp	naš
+400	mte:Mdc	400
+-	mte:Z	-
+kilovoltnih	mte:Agpmpg	kilovolten
+daljnovodov	mte:Ncmpg	daljnovod
+.	mte:Z	.
+Pri	mte:Sl	pri
+preobremenitvi	mte:Ncfsl	preobremenitev
+daljnovoda	mte:Ncmsg	daljnovod
+deluje	mte:Vmpr3s	delovati
+njegova	mte:Ps3fsnsm	njegov
+zaščita	mte:Ncfsn	zaščita
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+izklopi	mte:Vmer3s	izklopiti
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+pa	mte:Cc	pa
+lahko	mte:Rgp	lahko
+za	mte:Sa	za
+elektroenergetski	mte:Agpmsay	elektroenergetski
+sistem	mte:Ncmsan	sistem
+predstavlja	mte:Vmpr3s	predstavljati
+veliko	mte:Agpfsa	velik
+motnjo	mte:Ncfsa	motnja
+,	mte:Z	,
+ker	mte:Cs	ker
+se	mte:Px------y	se
+preobremenitev	mte:Ncfpg	preobremenitev
+v	mte:Sl	v
+trenutku	mte:Ncmsl	trenutek
+preseli	mte:Vmer3s	preseliti
+na	mte:Sa	na
+preostale	mte:Appfpa	preostal
+daljnovode	mte:Ncfpa	daljnovod
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+lahko	mte:Rgp	lahko
+povzroči	mte:Vmer3s	povzročiti
+njihov	mte:Ps3msap	njihov
+izpad	mte:Ncmsan	izpad
+in	mte:Cc	in
+posledično	mte:Agpfsa	posledično
+razpad	mte:Ncmsan	razpad
+sistema	mte:Ncmsg	sistem
+ter	mte:Cc	ter
+električni	mte:Agpmsay	električen
+mrk	mte:Ncmsan	mrka
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Gubina	mte:Npmsn	Gubina
+.	mte:Z	.
+V	mte:Sl	v
+Elesu	mte:Npmsl	Eles
+priznavajo	mte:Vmpr3p	priznavati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+razlog	mte:Ncmsn	razlog
+za	mte:Sa	za
+povečano	mte:Appfsa	povečan
+nevarnost	mte:Ncfsa	nevarnost
+motenj	mte:Ncnpg	motenj
+v	mte:Sl	v
+omrežju	mte:Ncnsl	omrežje
+v	mte:Sl	v
+prihodnjem	mte:Agpnsl	prihodnji
+letu	mte:Ncnsl	leto
+kronične	mte:Agpfsg	kroničen
+zamude	mte:Ncfsg	zamuda
+pri	mte:Sl	pri
+postopkih	mte:Ncmpl	postopek
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+daljnovodov	mte:Ncmpg	daljnovod
+.	mte:Z	.
+Že	mte:Q	že
+aprila	mte:Ncmsg	april
+je	mte:Va-r3s-n	biti
+ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+in	mte:Cc	in
+prostor	mte:Ncmsan	prostor
+zavrglo	mte:Vmep-sn	zavreči
+vlogo	mte:Ncfsa	vloga
+Elesa	mte:Npmsg	Elesa
+za	mte:Sa	za
+izdajo	mte:Ncfsa	izdaja
+gradbenega	mte:Agpnsg	gradben
+dovoljenja	mte:Ncnsg	dovoljenje
+za	mte:Sa	za
+400	mte:Mdc	400
+-	mte:Z	-
+kilovoltni	mte:Agpmsay	kilovolten
+daljnovod	mte:Ncmsan	daljnovod
+med	mte:Si	med
+Beričevim	mte:Aspnsi	Beričev
+in	mte:Cc	in
+Krškim	mte:Npnsi	Kršk
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+razbremenil	mte:Vmep-sm	razbremeniti
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+edino	mte:Agpfsa	edin
+daljnovodno	mte:Agpfsa	daljnovoden
+povezavo	mte:Ncfsa	povezava
+med	mte:Si	med
+zahodom	mte:Ncmsi	zahod
+in	mte:Cc	in
+vzhodom	mte:Ncmsi	vzhod
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+V	mte:Sl	v
+birokratskih	mte:Agpmpl	birokratski
+mlinih	mte:Ncmpl	mlin
+sta	mte:Va-r3d-n	biti
+za	mte:Sa	za
+zdaj	mte:Rgp	zdaj
+tudi	mte:Q	tudi
+preostala	mte:Vmep-dm	preostati
+daljnovoda	mte:Ncmdn	daljnovod
+nacionalnega	mte:Agpmsg	nacionalen
+pomena	mte:Ncmsg	pomen
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+okolje	mte:Ncnsa	okolje
+in	mte:Cc	in
+Eles	mte:Npmsan	Eles
+državni	mte:Agpmsay	državen
+prostorski	mte:Agpmsay	prostorski
+načrt	mte:Ncmsan	načrt
+za	mte:Sa	za
+povezavo	mte:Ncfsa	povezava
+z	mte:Si	z
+Madžarsko	mte:Npfsi	Madžarska
+(	mte:Z	(
+Cirkovce	mte:Npfsn	Cirkovce
+-	mte:Z	-
+Pince	mte:Npmsn	Pince
+)	mte:Z	)
+javno	mte:Rgp	javno
+razgrnila	mte:Vmep-dm	razgrniti
+še	mte:Q	še
+letos	mte:Rgp	letos
+,	mte:Z	,
+pa	mte:Cc	pa
+za	mte:Sa	za
+daljnovod	mte:Ncmsan	daljnovod
+Okroglo	mte:Agpnsn	okrogel
+-	mte:Z	-
+Videm	mte:Npmsn	Vidmo
+(	mte:Z	(
+Italija	mte:Npfsn	Italija
+)	mte:Z	)
+ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+vodi	mte:Vmpr3s	voditi
+Andrej	mte:Npmsn	Andrej
+Vizjak	mte:Npmsn	Vizjak
+,	mte:Z	,
+po	mte:Sl	po
+dostopnih	mte:Agpmpl	dostopen
+podatkih	mte:Ncmpl	podatek
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+izdalo	mte:Vmep-sn	izdati
+energetskega	mte:Agpnsg	energetski
+dovoljenja	mte:Ncnsg	dovoljenje
+.	mte:Z	.
+Kaj	mte:Pq-nsn	kaj
+lahko	mte:Rgp	lahko
+torej	mte:Rgp	torej
+stori	mte:Vmer3s	storiti
+Eles	mte:Npmsn	Eles
+?	mte:Z	?
+"	mte:Z	"
+Po	mte:Sl	po
+vklopu	mte:Ncmsl	vklop
+novega	mte:Agpmsg	nov
+avstrijskega	mte:Agpmsg	avstrijski
+daljnovoda	mte:Ncmsg	daljnovod
+bo	mte:Va-f3s-n	biti
+imel	mte:Vmpp-sm	imeti
+zelo	mte:Rgp	zelo
+malo	mte:Rgp	malo
+vzvodov	mte:Ncmpg	vzvod
+za	mte:Sa	za
+obvladovanje	mte:Ncnsa	obvladovanje
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+zato	mte:Cc	zato
+lahko	mte:Rgp	lahko
+pričakujemo	mte:Vmpr1p	pričakovati
+občasne	mte:Agpfpa	občasen
+motnje	mte:Ncfpa	motnja
+v	mte:Sl	v
+oskrbi	mte:Ncfsl	oskrb
+.	mte:Z	.
+Preobremenitve	mte:Ncfsg	preobremenitev
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+omilila	mte:Vmep-sf	omiliti
+le	mte:Q	le
+gradnja	mte:Ncfsn	gradnja
+daljnovodov	mte:Ncmpg	daljnovod
+Krško	mte:Npnsn	Krško
+-	mte:Z	-
+Beričevo	mte:Aspnsn	Beričev
+in	mte:Cc	in
+Okroglo	mte:Agpnsn	okrogel
+-	mte:Z	-
+Videm	mte:Npmsn	Vidmo
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+se	mte:Px------y	se
+nista	mte:Va-r3d-y	biti
+še	mte:Q	še
+niti	mte:Q	niti
+začela	mte:Vmep-dm	začeti
+graditi	mte:Vmpn	graditi
+.	mte:Z	.
+V	mte:Sa	v
+pomoč	mte:Ncfsa	pomoč
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+bil	mte:Va-p-sm	biti
+prečni	mte:Agpmsny	prečen
+transformator	mte:Ncmsn	transformator
+v	mte:Sl	v
+Divači	mte:Npfsl	Divači
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+do	mte:Sg	do
+določene	mte:Appfsg	določen
+mere	mte:Ncfsg	mera
+omejuje	mte:Vmpr3s	omejevati
+moč	mte:Ncfsa	moč
+na	mte:Sl	na
+vodu	mte:Ncmsl	vod
+,	mte:Z	,
+"	mte:Z	"
+odgovarja	mte:Vmpr3s	odgovarjati
+Gubina	mte:Npfsn	Gubina
+.	mte:Z	.
+Siemens	mte:Npmsn	Siemens
+bo	mte:Va-f3s-n	biti
+sicer	mte:Q	sicer
+Elesu	mte:Npmsd	Eles
+omenjeni	mte:Appmsny	omenjen
+transformator	mte:Ncmsan	transformator
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+vodi	mte:Vmpr3s	voditi
+Vitoslav	mte:Npmsn	Vitoslav
+Türk	mte:Npmsn	Türk
+,	mte:Z	,
+plačalo	mte:Vmep-sn	plačati
+44	mte:Mdc	44
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+(	mte:Z	(
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+skoraj	mte:Q	skoraj
+vse	mte:Pg-nsa	ves
+s	mte:Si	z
+predujmom	mte:Ncmsi	predujem
+)	mte:Z	)
+,	mte:Z	,
+dobavil	mte:Vmep-sm	dobaviti
+čez	mte:Sa	čez
+približno	mte:Rgp	približno
+tri	mte:Mlcnpa	trije
+leta	mte:Ncnpa	leto
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+zatika	mte:Vmpr3s	zatikati
+pri	mte:Sl	pri
+zapletenih	mte:Agpmpl	zapleten
+in	mte:Cc	in
+dolgotrajnih	mte:Agpmpl	dolgotrajen
+upravnih	mte:Agpmpl	upraven
+postopkih	mte:Ncmpl	postopek
+,	mte:Z	,
+velja	mte:Vmpr3s	veljati
+poudariti	mte:Vmen	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+ima	mte:Vmpr3s-n	imeti
+Eles	mte:Npmsn	Eles
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+več	mte:Rgc	več
+kot	mte:Cs	kot
+dovolj	mte:Rgp	dovolj
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+javno	mte:Agpnsn	javen
+podjetje	mte:Ncnsn	podjetje
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+dveh	mte:Mlcndl	dva
+letih	mte:Ncnpl	leto
+skupaj	mte:Rgp	skupaj
+pridelalo	mte:Vmep-sn	pridelati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+50	mte:Mdc	50
+milijonov	mte:Ncmpg	milijon
+čistega	mte:Agpmsg	čist
+dobička	mte:Ncmsg	dobiček
+,	mte:Z	,
+resolucija	mte:Ncfsn	resolucija
+o	mte:Sl	o
+nacionalnih	mte:Agpmpl	nacionalen
+razvojnih	mte:Agpmpl	razvojen
+projektih	mte:Ncmpl	projekt
+pa	mte:Cc	pa
+stroške	mte:Ncmpa	strošek
+modernizacije	mte:Ncfsg	modernizacija
+slovenskega	mte:Agpnsg	slovenski
+električnega	mte:Agpnsg	električen
+omrežja	mte:Ncnsg	omrežje
+do	mte:Sg	do
+leta	mte:Ncnsg	leto
+2012	mte:Mdc	2012
+ocenjuje	mte:Vmpr3s	ocenjevati
+na	mte:Sa	na
+103	mte:Mdc	103
+milijone	mte:Ncmpa	milijon
+evrov	mte:Ncmpg	evro

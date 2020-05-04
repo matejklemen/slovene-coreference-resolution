@@ -1,509 +1,539 @@
-token	tag
-Žerjav	Npmsn
-Grčijo	Npfsa
-bi	Va-c
-morali	Vmpp-pm
-izključiti	Vmen
-iz	Sg
-monetarne	Agpfsg
-unije	Ncfsg
-Zaradi	Sg
-nepristopa	Ncmsg
-Slovaške	Npfsg
-k	Sd
-posojilu	Ncnsd
-Grčiji	Npfsd
-,	Z
-težav	Ncfpg
-Irske	Agpfsg
-in	Cc
-proračunskih	Agpfpg
-omejitev	Ncfpg
-Nemčije	Npfsg
-bo	Va-f3s-n
-Slovenija	Npfsn
-v	Sl
-4	Mdc
-.	Z
-tranši	Ncfsl
-posojila	Ncnsg
-Grčiji	Npfsd
-namenila	Vmep-sf
-več	Rgc
-sredstev	Ncnpg
-,	Z
-pojasnjuje	Vmpr3s
-Križanič	Npmsn
-.	Z
-Odbor	Ncmsn
-za	Sa
-finance	Ncfpa
-se	Px------y
-je	Va-r3s-n
-seznanil	Vmep-sm
-s	Si
-poročilom	Ncnsi
-o	Sl
-odobritvi	Ncfsl
-4	Mdc
-.	Z
-tranše	Ncfsg
-posojila	Ncnsg
-Grčiji	Npfsd
-in	Cc
-s	Si
-poročilom	Ncnsi
-o	Sl
-poroštvu	Ncnsl
-in	Cc
-odobrenih	Appnpl
-posojilih	Ncnpl
-za	Sa
-finančno	Agpfsa
-pomoč	Ncfsa
-Irski	Agpmsny
-.	Z
-Minister	Ncmsn
-za	Sa
-finance	Ncfpa
-Franc	Npmsn
-Križanič	Npmsn
-je	Va-r3s-n
-uvodoma	Ncmpd
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-Evropska	Agpfsn
-komisija	Ncfsn
-ugotovila	Vmep-sf
-,	Z
-da	Cs
-Grčija	Npfsn
-izpolnjuje	Vmpr3s
-pogoje	Ncmpa
-za	Sa
-odobritev	Ncfsa
-4	Mdc
-.	Z
-tranše	Ncfsg
-posojila	Ncnsg
-,	Z
-v	Sl
-kateri	Pq-fsl
-naj	Q
-bi	Va-c
-Slovenija	Npfsn
-Grčiji	Npfsd
-namenila	Vmep-sf
-dobrih	Agpmpg
-71	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-kar	Pr-nsn
-znaša	Vmpr3s
-0,66	Mdc
-odstotka	Ncmsg
-celotne	Agpfsg
-tranše	Ncfsg
-.	Z
-Delež	Ncmsan
-Slovenije	Npfsg
-v	Sl
-tej	Pd-fsl
-tranši	Ncfsl
-je	Va-r3s-n
-sicer	Q
-višji	Agcmsny
-od	Sg
-predvidenega	Appnsg
-zaradi	Sg
-nepristopa	Ncmsg
-Slovaške	Npfsg
-k	Sd
-posojilu	Ncnsd
-,	Z
-proračunskih	Agpfpg
-težav	Ncfpg
-Nemčije	Npfsg
-in	Cc
-nepristopa	Ncmsg
-Irske	Npfsg
-k	Sd
-3	Mdc
-.	Z
-tranši	Ncfsd
-zaradi	Sg
-lastnih	Agpfpg
-težav	Ncfpg
-z	Si
-gospodarsko	Agpfsi
-krizo	Ncfsi
-.	Z
-Kljub	Sd
-temu	Pd-nsd
-,	Z
-kot	Cs
-pravi	Agpmsny
-minister	Ncmsn
-,	Z
-celotna	Agpfsn
-višina	Ncfsn
-posojila	Ncnsg
-ne	Q
-bo	Va-f3s-n
-višja	Agcfsn
-,	Z
-kot	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-prvotno	Rgp
-predvideno	Appnsn
-.	Z
-Preberite	Vmem2p
-še	Q
-Splošna	Agpfsn
-stavka	Ncfsn
-v	Sl
-Grčiji	Npfsl
-ohromila	Vmep-df
-življenje	Ncnsa
-Juri	Npmsn
-Za	Sa
-pomoč	Ncfsa
-se	Px------y
-odločamo	Vmpr1p
-zaradi	Sg
-sebičnosti	Ncfsg
-Bogdan	Npmsn
-Barovič	Npmsn
-SNS	Npmsn
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-nasprotuje	Vmpr3s
-takšnemu	Pd-msd
-načinu	Ncmsd
-dela	Ncnsg
-naše	Ps1fsgp
-države	Ncfsg
-.	Z
-Sem	Va-r1s-n
-Slovenec	Npmsn
-in	Cc
-imam	Vmpr1s-n
-raje	Rgc
-Slovenijo	Npfsa
-,	Z
-zato	Cc
-nasprotujem	Vmpr1s
-plačilu	Ncnsd
-4	Mdc
-.	Z
-tranše	Ncfsg
-posojila	Ncnsg
-Grčiji	Npfsd
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-še	Q
-,	Z
-da	Cs
-pri	Sl
-celotni	Agpfsl
-zadevi	Ncfsl
-ne	Q
-gre	Vmbr3s
-za	Sa
-pomoč	Ncfsa
-Grčiji	Npfsd
-,	Z
-temveč	Cc
-francoskim	Agpfpd
-in	Cc
-nemškim	Agpfpd
-bankam	Ncfpd
-,	Z
-ki	Cs
-imajo	Vmpr3p-n
-dolgove	Ncmpa
-v	Sl
-tej	Pd-fsl
-državi	Ncfsl
-.	Z
-Baroviču	Npmsd
-je	Va-r3s-n
-pritrdil	Vmep-sm
-tudi	Q
-Radovan	Npmsn
-Žerjav	Npmsn
-SLS	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-bi	Va-c
-morale	Vmpp-pf
-vse	Pg-fpa
-članice	Ncfpn
-spoštovati	Vmpn
-pravila	Ncnpa
-evroobmočja	Ncnsg
-.	Z
-Meni	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-morali	Vmpp-pm
-Grčijo	Npfsa
-izključiti	Vmen
-iz	Sg
-monetarne	Agpfsg
-unije	Ncfsg
-in	Cc
-ji	Pp3fsd--y
-šele	Q
-nato	Rgp
-pomagati	Vmbn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-se	Px------y
-je	Va-r3s-n
-vprašal	Vmep-sm
-,	Z
-kako	Rgp
-dolgo	Rgp
-bomo	Va-f1p-n
-še	Q
-zmogli	Vmep-pm
-pomagati	Vmbn
-in	Cc
-ali	Rgp
-je	Va-r3s-n
-Slovenija	Npfsn
-sploh	Q
-sposobna	Agpfsn
-zdržati	Vmen
-še	Q
-pomoč	Ncfsa
-Irski	Agpmsny
-in	Cc
-Portugalski	Npmsd
-.	Z
-Luka	Npmsn
-Juri	Npmsn
-SD	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-pri	Sl
-posojilih	Ncnpl
-in	Cc
-poroštvih	Ncnpl
-ne	Q
-gre	Vmbr3s
-za	Sa
-pomoč	Ncfsa
-določeni	Appfsd
-državi	Ncfsd
-,	Z
-ampak	Cc
-gre	Vmbr3s
-za	Sa
-pomoč	Ncfsa
-evru	Ncmsd
-in	Cc
-nam	Pp1-pd
-samim	Agpmpd
-,	Z
-saj	Cc
-naj	Q
-bi	Va-c
-bili	Va-p-pm
-vsi	Pg-mpn
-prepleteni	Agpmpn
-v	Sl
-evrskem	Agpmsl
-sistemu	Ncmsl
-.	Z
-Zatrjuje	Vmpr3s
-,	Z
-da	Cs
-smo	Va-r1p-n
-se	Px------y
-za	Sa
-pomoč	Ncfsa
-drugim	Mlpmpd
-odločili	Vmep-pm
-zaradi	Sg
-sebičnosti	Ncfsg
-naše	Ps1fsgp
-države	Ncfsg
-,	Z
-saj	Cc
-želimo	Vmpr1p
-s	Si
-tem	Pd-nsi
-rešiti	Vmen
-evro	Ncmsan
-in	Cc
-samega	Agpmsa
-sebe	Px---a
-.	Z
-Zakon	Ncmsn
-o	Sl
-davku	Ncmsl
-na	Sa
-bilančno	Agpfsa
-vsoto	Ncfsa
-bank	Ncfpg
-potrjen	Appmsnn
-Odbor	Ncmsn
-DZ	Npfsg
--	Z
-ja	Q
-za	Sa
-finance	Ncfpa
-je	Va-r3s-n
-sicer	Q
-potrdil	Vmep-sm
-tudi	Q
-predlog	Ncmsn
-zakona	Ncmsg
-o	Sl
-davku	Ncmsl
-na	Sa
-bilančno	Agpfsa
-vsoto	Ncfsa
-bank	Ncfpg
-,	Z
-s	Si
-katerim	Pq-msi
-želi	Vmpr3s
-država	Ncfsn
-banke	Ncfsg
-spodbuditi	Vmen
-h	Sd
-kreditiranju	Ncnsd
-gospodarstva	Ncnsg
-.	Z
-Po	Sl
-navedbah	Ncfpl
-vlade	Ncfsg
-sta	Va-r3d-n
-cilja	Ncmdn
-predloga	Ncmsg
-zakona	Ncmsg
-določena	Appfsn
-kompenzacija	Ncfsn
-državi	Ncfsd
-za	Sa
-omogočanje	Ncnsa
-sistemske	Agpfsg
-podpore	Ncfsg
-bančnemu	Agpmsd
-sistemu	Ncmsd
-med	Sa
-finančno	Agpfsa
-krizo	Ncfsa
-in	Cc
-spodbujanje	Ncnsa
-bank	Ncfpg
-k	Sd
-zagotavljanju	Ncnsd
-večje	Agcfsg
-ter	Cc
-strukturno	Rgp
-ustreznejše	Agcfsg
-ponudbe	Ncfsg
-posojil	Ncnpg
-gospodarstvu	Ncnsd
-.	Z
-Osnova	Ncfsn
-za	Sa
-davek	Ncmsan
-bo	Va-f3s-n
-bilančna	Agpfsn
-vsota	Ncfsn
-banke	Ncfsg
-,	Z
-izračunana	Appfsn
-kot	Cs
-povprečje	Ncnsn
-vrednosti	Ncfsg
-vsak	Pg-msa
-zadnji	Agpmsay
-dan	Ncmsan
-meseca	Ncmsg
-v	Sl
-letu	Ncnsl
-.	Z
-Stopnja	Ncfsn
-davka	Ncmsg
-bo	Va-f3s-n
-znašala	Vmpp-sf
-0,1	Mdc
-odstotka	Ncmsg
-.	Z
-Vlada	Ncfsn
-predvideva	Vmpr3s
-tudi	Q
-možnost	Ncfsa
-znižanja	Ncnsg
-davka	Ncmsg
-,	Z
-in	Cc
-sicer	Q
-vse	Rgp
-do	Sg
-višine	Ncfsg
-obračunanega	Appmsg
-davka	Ncmsg
-.	Z
-Imamo	Vmpr1p-n
-pomisleke	Ncmpa
-glede	Sg
-uresničevanja	Ncnsg
-zakona	Ncmsg
-Ob	Sl
-predstavitvi	Ncfsl
-odklonilnega	Agpnsg
-stališča	Ncnsg
-Banke	Ncfsg
-Slovenije	Npfsg
-na	Sl
-prejšnji	Agpfsl
-seji	Ncfsl
-odbora	Ncmsg
-za	Sa
-finance	Ncfpa
-je	Va-r3s-n
-guverner	Ncmsn
-Marko	Npmsn
-Kranjec	Npmsn
-povedal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-namen	Ncmsn
-predloga	Ncmsg
-dobronameren	Agpmsnn
-,	Z
-vendar	Cc
-ima	Vmpr3s-n
-resne	Agpmpa
-pomisleke	Ncmpa
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-uresničen	Appmsnn
-.	Z
+token	tag	lemma
+Žerjav	mte:Npmsn	Žerjav
+Grčijo	mte:Npfsa	Grčija
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+izključiti	mte:Vmen	izključiti
+iz	mte:Sg	iz
+monetarne	mte:Agpfsg	monetaren
+unije	mte:Ncfsg	unija
+Zaradi	mte:Sg	zaradi
+nepristopa	mte:Ncmsg	nepristop
+Slovaške	mte:Npfsg	Slovaška
+k	mte:Sd	k
+posojilu	mte:Ncnsd	posojilo
+Grčiji	mte:Npfsd	Grčija
+,	mte:Z	,
+težav	mte:Ncfpg	težava
+Irske	mte:Agpfsg	Irska
+in	mte:Cc	in
+proračunskih	mte:Agpfpg	proračunski
+omejitev	mte:Ncfpg	omejitev
+Nemčije	mte:Npfsg	Nemčija
+bo	mte:Va-f3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+v	mte:Sl	v
+4	mte:Mdc	4
+.	mte:Z	.
+tranši	mte:Ncfsl	tranša
+posojila	mte:Ncnsg	posojilo
+Grčiji	mte:Npfsd	Grčija
+namenila	mte:Vmep-sf	nameniti
+več	mte:Rgc	več
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+Križanič	mte:Npmsn	Križanič
+.	mte:Z	.
+Odbor	mte:Ncmsn	odbor
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+seznanil	mte:Vmep-sm	seznaniti
+s	mte:Si	z
+poročilom	mte:Ncnsi	poročilo
+o	mte:Sl	o
+odobritvi	mte:Ncfsl	odobritev
+4	mte:Mdc	4
+.	mte:Z	.
+tranše	mte:Ncfsg	tranše
+posojila	mte:Ncnsg	posojilo
+Grčiji	mte:Npfsd	Grčija
+in	mte:Cc	in
+s	mte:Si	z
+poročilom	mte:Ncnsi	poročilo
+o	mte:Sl	o
+poroštvu	mte:Ncnsl	poroštvo
+in	mte:Cc	in
+odobrenih	mte:Appnpl	odobren
+posojilih	mte:Ncnpl	posojilo
+za	mte:Sa	za
+finančno	mte:Agpfsa	finančen
+pomoč	mte:Ncfsa	pomoč
+Irski	mte:Agpmsny	irski
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Franc	mte:Npmsn	Franc
+Križanič	mte:Npmsn	Križanič
+je	mte:Va-r3s-n	biti
+uvodoma	mte:Ncmpd	uvod
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+ugotovila	mte:Vmep-sf	ugotoviti
+,	mte:Z	,
+da	mte:Cs	da
+Grčija	mte:Npfsn	Grčija
+izpolnjuje	mte:Vmpr3s	izpolnjevati
+pogoje	mte:Ncmpa	pogoj
+za	mte:Sa	za
+odobritev	mte:Ncfsa	odobritev
+4	mte:Mdc	4
+.	mte:Z	.
+tranše	mte:Ncfsg	tranše
+posojila	mte:Ncnsg	posojilo
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Slovenija	mte:Npfsn	Slovenija
+Grčiji	mte:Npfsd	Grčija
+namenila	mte:Vmep-sf	nameniti
+dobrih	mte:Agpmpg	dober
+71	mte:Mdc	71
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+znaša	mte:Vmpr3s	znašati
+0,66	mte:Mdc	0,66
+odstotka	mte:Ncmsg	odstotek
+celotne	mte:Agpfsg	celoten
+tranše	mte:Ncfsg	tranše
+.	mte:Z	.
+Delež	mte:Ncmsan	delež
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+tranši	mte:Ncfsl	tranša
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+višji	mte:Agcmsny	visok
+od	mte:Sg	od
+predvidenega	mte:Appnsg	predviden
+zaradi	mte:Sg	zaradi
+nepristopa	mte:Ncmsg	nepristop
+Slovaške	mte:Npfsg	Slovaška
+k	mte:Sd	k
+posojilu	mte:Ncnsd	posojilo
+,	mte:Z	,
+proračunskih	mte:Agpfpg	proračunski
+težav	mte:Ncfpg	težava
+Nemčije	mte:Npfsg	Nemčija
+in	mte:Cc	in
+nepristopa	mte:Ncmsg	nepristop
+Irske	mte:Npfsg	Irska
+k	mte:Sd	k
+3	mte:Mdc	3
+.	mte:Z	.
+tranši	mte:Ncfsd	tranša
+zaradi	mte:Sg	zaradi
+lastnih	mte:Agpfpg	lasten
+težav	mte:Ncfpg	težava
+z	mte:Si	z
+gospodarsko	mte:Agpfsi	gospodarski
+krizo	mte:Ncfsi	kriza
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+,	mte:Z	,
+kot	mte:Cs	kot
+pravi	mte:Agpmsny	pravi
+minister	mte:Ncmsn	minister
+,	mte:Z	,
+celotna	mte:Agpfsn	celoten
+višina	mte:Ncfsn	višina
+posojila	mte:Ncnsg	posojilo
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+višja	mte:Agcfsn	visok
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+prvotno	mte:Rgp	prvotno
+predvideno	mte:Appnsn	predviden
+.	mte:Z	.
+Preberite	mte:Vmem2p	prebrati
+še	mte:Q	še
+Splošna	mte:Agpfsn	splošen
+stavka	mte:Ncfsn	stavka
+v	mte:Sl	v
+Grčiji	mte:Npfsl	Grčija
+ohromila	mte:Vmep-df	ohromiti
+življenje	mte:Ncnsa	življenje
+Juri	mte:Npmsn	Juri
+Za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+se	mte:Px------y	se
+odločamo	mte:Vmpr1p	odločati
+zaradi	mte:Sg	zaradi
+sebičnosti	mte:Ncfsg	sebičnost
+Bogdan	mte:Npmsn	Bogdan
+Barovič	mte:Npmsn	Barovič
+SNS	mte:Npmsn	SNS
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+nasprotuje	mte:Vmpr3s	nasprotovati
+takšnemu	mte:Pd-msd	takšen
+načinu	mte:Ncmsd	način
+dela	mte:Ncnsg	delo
+naše	mte:Ps1fsgp	naš
+države	mte:Ncfsg	država
+.	mte:Z	.
+Sem	mte:Va-r1s-n	biti
+Slovenec	mte:Npmsn	Slovenec
+in	mte:Cc	in
+imam	mte:Vmpr1s-n	imeti
+raje	mte:Rgc	raje
+Slovenijo	mte:Npfsa	Slovenija
+,	mte:Z	,
+zato	mte:Cc	zato
+nasprotujem	mte:Vmpr1s	nasprotovati
+plačilu	mte:Ncnsd	plačilo
+4	mte:Mdc	4
+.	mte:Z	.
+tranše	mte:Ncfsg	tranše
+posojila	mte:Ncnsg	posojilo
+Grčiji	mte:Npfsd	Grčija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+,	mte:Z	,
+da	mte:Cs	da
+pri	mte:Sl	pri
+celotni	mte:Agpfsl	celoten
+zadevi	mte:Ncfsl	zadeva
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+Grčiji	mte:Npfsd	Grčija
+,	mte:Z	,
+temveč	mte:Cc	temveč
+francoskim	mte:Agpfpd	francoski
+in	mte:Cc	in
+nemškim	mte:Agpfpd	nemški
+bankam	mte:Ncfpd	banka
+,	mte:Z	,
+ki	mte:Cs	ki
+imajo	mte:Vmpr3p-n	imeti
+dolgove	mte:Ncmpa	dolg
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+državi	mte:Ncfsl	država
+.	mte:Z	.
+Baroviču	mte:Npmsd	Barovič
+je	mte:Va-r3s-n	biti
+pritrdil	mte:Vmep-sm	pritrditi
+tudi	mte:Q	tudi
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+SLS	mte:Npmsn	SLS
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morale	mte:Vmpp-pf	morati
+vse	mte:Pg-fpa	ves
+članice	mte:Ncfpn	članica
+spoštovati	mte:Vmpn	spoštovati
+pravila	mte:Ncnpa	pravilo
+evroobmočja	mte:Ncnsg	evrooobmočje
+.	mte:Z	.
+Meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+Grčijo	mte:Npfsa	Grčija
+izključiti	mte:Vmen	izključiti
+iz	mte:Sg	iz
+monetarne	mte:Agpfsg	monetaren
+unije	mte:Ncfsg	unija
+in	mte:Cc	in
+ji	mte:Pp3fsd--y	on
+šele	mte:Q	šele
+nato	mte:Rgp	nato
+pomagati	mte:Vmbn	pomagati
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+vprašal	mte:Vmep-sm	vprašati
+,	mte:Z	,
+kako	mte:Rgp	kako
+dolgo	mte:Rgp	dolgo
+bomo	mte:Va-f1p-n	biti
+še	mte:Q	še
+zmogli	mte:Vmep-pm	zmoči
+pomagati	mte:Vmbn	pomagati
+in	mte:Cc	in
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+sploh	mte:Q	sploh
+sposobna	mte:Agpfsn	sposoben
+zdržati	mte:Vmen	zdržati
+še	mte:Q	še
+pomoč	mte:Ncfsa	pomoč
+Irski	mte:Agpmsny	irski
+in	mte:Cc	in
+Portugalski	mte:Npmsd	Portugalska
+.	mte:Z	.
+Luka	mte:Npmsn	Luka
+Juri	mte:Npmsn	Juri
+SD	mte:Npmsn	SD
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+pri	mte:Sl	pri
+posojilih	mte:Ncnpl	posojilo
+in	mte:Cc	in
+poroštvih	mte:Ncnpl	poroštvo
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+določeni	mte:Appfsd	določen
+državi	mte:Ncfsd	država
+,	mte:Z	,
+ampak	mte:Cc	ampak
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+evru	mte:Ncmsd	evro
+in	mte:Cc	in
+nam	mte:Pp1-pd	jaz
+samim	mte:Agpmpd	sam
+,	mte:Z	,
+saj	mte:Cc	saj
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+vsi	mte:Pg-mpn	ves
+prepleteni	mte:Agpmpn	prepleten
+v	mte:Sl	v
+evrskem	mte:Agpmsl	evrski
+sistemu	mte:Ncmsl	sistem
+.	mte:Z	.
+Zatrjuje	mte:Vmpr3s	zatrjevati
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+drugim	mte:Mlpmpd	drug
+odločili	mte:Vmep-pm	odločiti
+zaradi	mte:Sg	zaradi
+sebičnosti	mte:Ncfsg	sebičnost
+naše	mte:Ps1fsgp	naš
+države	mte:Ncfsg	država
+,	mte:Z	,
+saj	mte:Cc	saj
+želimo	mte:Vmpr1p	želeti
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+rešiti	mte:Vmen	rešiti
+evro	mte:Ncmsan	evro
+in	mte:Cc	in
+samega	mte:Agpmsa	sam
+sebe	mte:Px---a	se
+.	mte:Z	.
+Zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+davku	mte:Ncmsl	davek
+na	mte:Sa	na
+bilančno	mte:Agpfsa	bilančen
+vsoto	mte:Ncfsa	vsota
+bank	mte:Ncfpg	banka
+potrjen	mte:Appmsnn	potrjen
+Odbor	mte:Ncmsn	odbor
+DZ	mte:Npfsg	DZ
+-	mte:Z	-
+ja	mte:Q	ja
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+potrdil	mte:Vmep-sm	potrditi
+tudi	mte:Q	tudi
+predlog	mte:Ncmsn	predlog
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+davku	mte:Ncmsl	davek
+na	mte:Sa	na
+bilančno	mte:Agpfsa	bilančen
+vsoto	mte:Ncfsa	vsota
+bank	mte:Ncfpg	banka
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+želi	mte:Vmpr3s	želeti
+država	mte:Ncfsn	država
+banke	mte:Ncfsg	banka
+spodbuditi	mte:Vmen	spodbuditi
+h	mte:Sd	k
+kreditiranju	mte:Ncnsd	kreditiranje
+gospodarstva	mte:Ncnsg	gospodarstvo
+.	mte:Z	.
+Po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+vlade	mte:Ncfsg	vlada
+sta	mte:Va-r3d-n	biti
+cilja	mte:Ncmdn	cilj
+predloga	mte:Ncmsg	predlog
+zakona	mte:Ncmsg	zakon
+določena	mte:Appfsn	določen
+kompenzacija	mte:Ncfsn	kompenzacija
+državi	mte:Ncfsd	država
+za	mte:Sa	za
+omogočanje	mte:Ncnsa	omogočanje
+sistemske	mte:Agpfsg	sistemski
+podpore	mte:Ncfsg	podpora
+bančnemu	mte:Agpmsd	bančen
+sistemu	mte:Ncmsd	sistem
+med	mte:Sa	med
+finančno	mte:Agpfsa	finančen
+krizo	mte:Ncfsa	kriza
+in	mte:Cc	in
+spodbujanje	mte:Ncnsa	spodbujanje
+bank	mte:Ncfpg	banka
+k	mte:Sd	k
+zagotavljanju	mte:Ncnsd	zagotavljanje
+večje	mte:Agcfsg	velik
+ter	mte:Cc	ter
+strukturno	mte:Rgp	strukturno
+ustreznejše	mte:Agcfsg	ustrezen
+ponudbe	mte:Ncfsg	ponudba
+posojil	mte:Ncnpg	posojilo
+gospodarstvu	mte:Ncnsd	gospodarstvo
+.	mte:Z	.
+Osnova	mte:Ncfsn	osnova
+za	mte:Sa	za
+davek	mte:Ncmsan	davek
+bo	mte:Va-f3s-n	biti
+bilančna	mte:Agpfsn	bilančen
+vsota	mte:Ncfsn	vsota
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+izračunana	mte:Appfsn	izračunan
+kot	mte:Cs	kot
+povprečje	mte:Ncnsn	povprečje
+vrednosti	mte:Ncfsg	vrednost
+vsak	mte:Pg-msa	vsak
+zadnji	mte:Agpmsay	zadnji
+dan	mte:Ncmsan	dan
+meseca	mte:Ncmsg	mesec
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+.	mte:Z	.
+Stopnja	mte:Ncfsn	stopnja
+davka	mte:Ncmsg	davek
+bo	mte:Va-f3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+0,1	mte:Mdc	0,1
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+predvideva	mte:Vmpr3s	predvidevati
+tudi	mte:Q	tudi
+možnost	mte:Ncfsa	možnost
+znižanja	mte:Ncnsg	znižanje
+davka	mte:Ncmsg	davek
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+vse	mte:Rgp	vse
+do	mte:Sg	do
+višine	mte:Ncfsg	višina
+obračunanega	mte:Appmsg	obračunan
+davka	mte:Ncmsg	davek
+.	mte:Z	.
+Imamo	mte:Vmpr1p-n	imeti
+pomisleke	mte:Ncmpa	pomislek
+glede	mte:Sg	glede
+uresničevanja	mte:Ncnsg	uresničevanje
+zakona	mte:Ncmsg	zakon
+Ob	mte:Sl	ob
+predstavitvi	mte:Ncfsl	predstavitev
+odklonilnega	mte:Agpnsg	odklonilen
+stališča	mte:Ncnsg	stališče
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+na	mte:Sl	na
+prejšnji	mte:Agpfsl	prejšnji
+seji	mte:Ncfsl	seja
+odbora	mte:Ncmsg	odbor
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+je	mte:Va-r3s-n	biti
+guverner	mte:Ncmsn	guverner
+Marko	mte:Npmsn	Marko
+Kranjec	mte:Npmsn	Kranjec
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+namen	mte:Ncmsn	namen
+predloga	mte:Ncmsg	predlog
+dobronameren	mte:Agpmsnn	dobronameren
+,	mte:Z	,
+vendar	mte:Cc	vendar
+ima	mte:Vmpr3s-n	imeti
+resne	mte:Agpmpa	resen
+pomisleke	mte:Ncmpa	pomislek
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+uresničen	mte:Appmsnn	uresničen
+.	mte:Z	.
+V	mte:Sl	v
+zakonu	mte:Ncmsl	zakon
+namreč	mte:Cc	namreč
+vidi	mte:Vmbr3s	videti
+veliko	mte:Rgp	veliko
+priložnosti	mte:Ncfsg	priložnost
+za	mte:Sa	za
+zlorabo	mte:Ncfsa	zloraba
+namena	mte:Ncmsg	namen
+davka	mte:Ncmsg	davek
+,	mte:Z	,
+imel	mte:Vmpp-sm	imeti
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+tudi	mte:Q	tudi
+zelo	mte:Rgp	zelo
+nizek	mte:Agpmsnn	nizek
+izkoristek	mte:Ncmsan	izkoristek
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+s	mte:Si	z
+stroški	mte:Ncmpi	strošek
+izvajanja	mte:Ncnsg	izvajanje
+zakona	mte:Ncmsg	zakon
+za	mte:Sa	za
+zavezance	mte:Ncmpa	zavezanec
+in	mte:Cc	in
+davčno	mte:Agpfsa	davčen
+upravo	mte:Ncfsa	uprava

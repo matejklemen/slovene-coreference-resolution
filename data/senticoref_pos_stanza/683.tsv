@@ -1,485 +1,496 @@
-token	tag
-General	Ncmsn
-Motors	Npmsn
-je	Va-r3s-n
-pred	Si
-iztekom	Ncmsi
-roka	Ncmsg
-za	Sa
-oddajo	Ncfsa
-ponudb	Ncfpg
-za	Sa
-avtomobilsko	Agpnsa
-podjetje	Ncnsa
-General	Npmsn
-Motors	Npmsn
-Europe	Npmsn
-,	Z
-v	Sl
-katerem	Pq-msl
-sta	Va-r3d-n
-Opel	Npmsn
-in	Cc
-britanski	Agpmsny
-Vauxhall	Npmsn
-,	Z
-prejel	Vmep-sm
-tri	Mlcfpa
-ponudbe	Ncfpa
-.	Z
-Gre	Vmbr3s
-za	Sa
-ponudbe	Ncfpa
-kanadsko	Agpnsn
--	Z
-ruskega	Agpmsg
-konzorcija	Ncmsg
-Magna	Npfsn
--	Z
-Sberbank	Npmsn
--	Z
-Gaz	Npmsn
-,	Z
-belgijske	Agpfsg
-družbe	Ncfsg
-RHJ	Npmsn
-in	Cc
-kitajske	Agpmsg
-Beijing	Npmsn
-Automotive	Npmsn
-Industry	Npmsn
-.	Z
-Preživetje	Ncnsa
-Opla	Npmsg
-sicer	Q
-z	Si
-1,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-začasno	Rgp
-financira	Vmbr3s
-nemška	Agpfsn
-vlada	Ncfsn
-.	Z
-GM	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-pred	Si
-kratkim	Agpnsi
-začel	Vmep-sm
-s	Si
-stečajnim	Agpmsi
-postopkom	Ncmsi
-,	Z
-je	Va-r3s-n
-namreč	Cc
-sklenil	Vmep-sm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-zaradi	Sg
-finančnih	Agpfpg
-težav	Ncfpg
-in	Cc
-dolgov	Ncmpg
-zaradi	Sg
-globalne	Agpfsg
-finančno	Agpnsn
--	Z
-gospodarske	Agpfsg
-krize	Ncfsg
-prodali	Vmep-pm
-evropsko	Agpfsa
-podružnico	Ncfsa
-.	Z
-Najprej	Rgs
-se	Px------y
-je	Va-r3s-n
-kot	Cs
-zelo	Rgp
-resen	Agpmsnn
-ponudnik	Ncmsn
-pojavil	Vmep-sm
-konzorcij	Ncmsn
-,	Z
-v	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-kanadsko	Agpnsn
--	Z
-avstrijski	Agpmsny
-proizvajalec	Ncmsn
-avtomobilskih	Agpmpg
-delov	Ncmpg
-Magna	Npfsn
-International	Npfsn
-,	Z
-ruska	Agpfsn
-Sberbanka	Ncfsn
-in	Cc
-ruski	Agpmsny
-proizvajalec	Ncmsn
-avtomobilov	Ncmpg
-in	Cc
-tovornjakov	Ncmpg
-Gaz	Ncmsn
-,	Z
-kasneje	Rgc
-pa	Cc
-tudi	Q
-RHJ	Npmsn
-International	Npmsn
-.	Z
-Gre	Vmbr3s
-za	Sa
-belgijsko	Agpnsa
-podjetje	Ncnsa
-,	Z
-za	Si
-katerim	Pq-msi
-naj	Q
-bi	Va-c
-stali	Vmpp-pm
-Američani	Npmpn
-,	Z
-in	Cc
-sicer	Q
-družba	Ncfsn
-Ripplewood	Npmsn
-.	Z
-Ta	Pd-fsn
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-po	Sl
-ocenah	Ncfpl
-nekaterih	Pi-mpg
-poznavalcev	Ncmpg
-ustanovljena	Appfsn
-kot	Cs
-poskus	Ncmsn
-GM	Ncmsg
-,	Z
-da	Cs
-sčasoma	Rgp
-dobi	Vmer3s
-nazaj	Rgp
-svojo	Px-fsa
-evropsko	Agpfsa
-podružnico	Ncfsa
-.	Z
-V	Sa
-boj	Ncmsan
-za	Sa
-prevzem	Ncmsan
-Opla	Npmsg
-in	Cc
-Vauxhalla	Npmsg
-so	Va-r3p-n
-se	Px------y
-pred	Si
-kratkim	Agpnsi
-vključili	Vmep-pm
-tudi	Q
-Kitajci	Npmpn
-.	Z
-Magna	Npfsn
-in	Cc
-Sberbank	Npmsn
-nameravata	Vmpr3d
-izkoristiti	Vmen
-nakup	Ncmsan
-evropske	Agpfsg
-podružnice	Ncfsg
-GM	Npfsg
-za	Sa
-razširitev	Ncfsa
-in	Cc
-oživitev	Ncfsa
-ruske	Agpfsg
-avtomobilske	Agpfsg
-industrije	Ncfsg
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-želita	Vmpr3d
-z	Si
-nakupom	Ncmsi
-dobiti	Vmen
-tudi	Q
-vso	Pg-fsa
-intelektualno	Agpfsa
-lastnino	Ncfsa
-.	Z
-Že	Q
-maja	Ncmsg
-sta	Va-r3d-n
-podpisala	Vmep-dm
-pismo	Ncnsa
-o	Sl
-nameri	Ncfsl
-,	Z
-sicer	Q
-nezavezujočo	Appfsn
-in	Cc
-v	Sa
-znak	Ncmsan
-resnosti	Ncfsg
-pri	Sl
-prevzemu	Ncmsl
-vplačala	Vmep-sf
-300	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Omenjeni	Appmsny
-konzorcij	Ncmsan
-ima	Vmpr3s-n
-tudi	Q
-politično	Agpfsa
-podporo	Ncfsa
-v	Sl
-Nemčiji	Npfsl
-in	Cc
-Rusiji	Npfsl
-,	Z
-saj	Cc
-sta	Va-r3d-n
-se	Px------y
-za	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-ta	Pd-msn
-prevzame	Vmer3s
-Opel	Npmsn
-pretekli	Appmsay
-teden	Ncmsan
-zavzela	Vmep-sf
-tudi	Q
-nemška	Agpfsn
-kanclerka	Ncfsn
-Angela	Npfsn
-Merkel	Npfsn
-in	Cc
-ruski	Agpmsny
-predsednik	Ncmsn
-Dmitrij	Npmsn
-Medvedjev	Npmsn
-.	Z
-Po	Sl
-oddaji	Ncfsl
-končnih	Agpfpg
-prevzemnih	Agpfpg
-ponudb	Ncfpg
-bo	Va-f3s-n
-GM	Npmsn
-v	Sa
-sredo	Ncfsa
-dal	Vmep-sm
-uvodno	Agpnsa
-mnenje	Ncnsa
-nemški	Agpfsd
-vladi	Ncfsd
-,	Z
-naslednji	Agpmsay
-teden	Ncmsan
-pa	Cc
-priporočila	Ncnpa
-o	Sl
-tem	Pd-nsl
-,	Z
-katera	Pq-fsn
-ponudba	Ncfsn
-je	Va-r3s-n
-sprejemljiva	Agpfsn
-.	Z
-O	Sl
-tem	Pd-nsl
-mora	Vmpr3s
-na	Sl
-koncu	Ncmsl
-odločati	Vmpn
-tudi	Q
-upravni	Agpmsay
-odbor	Ncmsan
-GM	Ncmsn
-in	Cc
-ameriško	Agpnsn
-finančno	Agpnsn
-ministrstvo	Ncnsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-večinski	Agpmsny
-lastnik	Ncmsn
-GM	Npmsn
-.	Z
-Magna	Npfsn
-in	Cc
-Sberbank	Npfsn
-za	Sa
-55	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-evropske	Agpfsg
-podružnice	Ncfsg
-GM	Npfsn
-ponujata	Vmpr3d
-750	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-od	Sg
-nemške	Agpfsg
-in	Cc
-drugih	Mlpfpg
-vlad	Ncfpg
-v	Sl
-Evropi	Npfsl
-pa	Cc
-želita	Vmpr3d
-za	Sa
-4,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-jamstev	Ncnpg
-.	Z
-Magna	Npfsn
-in	Cc
-Sberbank	Npmsn
-bi	Va-c
-si	Px---d--y
-razdelili	Vmep-pm
-po	Sa
-27,5	Mdc
-odstotka	Ncmsg
-deleža	Ncmsg
-evropske	Agpfsg
-podružnice	Ncfsg
-GM	Npfsn
-,	Z
-35	Mdc
-odstotkov	Ncmpg
-bi	Va-c
-ostalo	Vmep-sn
-v	Sl
-lasti	Ncfsl
-GM	Npmsn
-,	Z
-10	Mdc
-odstotkov	Ncmpg
-pa	Cc
-bi	Va-c
-dobili	Vmep-pm
-zaposleni	Appmpn
-v	Sl
-Evropi	Npfsl
-.	Z
-Teh	Pd-mpg
-je	Va-r3s-n
-skupaj	Rgp
-54.500	Mdc
-,	Z
-od	Sg
-česar	Pr-nsg
-v	Sl
-Nemčiji	Npfsl
-25.000	Mdc
-,	Z
-v	Sl
-dveh	Mlcfdl
-britanskih	Agpfdl
-Vauxhallovih	Aspfdl
-tovarnah	Ncfdl
-pa	Cc
-5500	Mdc
-.	Z
-RHJ	Ncmsn
-International	Npmsn
-naj	Q
-bi	Va-c
-ponujal	Vmpp-sm
-275	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-za	Sa
-50,1	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-evropske	Agpfsg
-podružnice	Ncfsg
-GM	Npfsn
-,	Z
-od	Sg
-nemške	Agpfsg
-in	Cc
-drugih	Mlpfpg
-vlad	Ncfpg
-pa	Cc
-želi	Vmpr3s
-3,8	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-garancij	Ncfpg
-.	Z
-GM	Ncmsn
-bi	Va-c
-obdržal	Vmep-sm
-39,9	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-,	Z
-preostalo	Vmep-sn
-pa	Cc
-bi	Va-c
-dobili	Vmep-pm
-zaposleni	Appmpn
-.	Z
-Obe	Pg-fdn
-ponudbi	Ncfdn
-predvidevata	Vmpr3d
-ukinitev	Ncfsa
-okrog	Rgp
-10.000	Mdc
-delovnih	Agpnpg
-mest	Ncnpg
-v	Sl
-Oplovih	Ncmpl
-podružnicah	Ncfpl
-,	Z
-večino	Ncfsa
-izven	Sg
-Nemčije	Npfsg
-.	Z
-Pri	Sl
-Vauxhallu	Npmsl
-za	Sa
-nekaj	Rgp
-časa	Ncmsg
-ne	Q
-predvidevajo	Vmpr3p
-ukinjanja	Ncnsg
-delovnih	Agpnpg
-mest	Ncnpg
-.	Z
-Kitajski	Agpmsny
-BAIC	Npmsn
-naj	Q
-bi	Va-c
-ponujal	Vmpp-sm
-okrog	Rgp
-660	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-za	Sa
-večinski	Agpmsay
-delež	Ncmsan
-evropske	Agpfsg
-podružnice	Ncfsg
-GM	Npfsn
-.	Z
+token	tag	lemma
+General	mte:Ncmsn	general
+Motors	mte:Npmsn	Motors
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+iztekom	mte:Ncmsi	iztek
+roka	mte:Ncmsg	roka
+za	mte:Sa	za
+oddajo	mte:Ncfsa	oddaja
+ponudb	mte:Ncfpg	ponudba
+za	mte:Sa	za
+avtomobilsko	mte:Agpnsa	avtomobilski
+podjetje	mte:Ncnsa	podjetje
+General	mte:Npmsn	general
+Motors	mte:Npmsn	Motors
+Europe	mte:Npmsn	europe
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+sta	mte:Va-r3d-n	biti
+Opel	mte:Npmsn	Opel
+in	mte:Cc	in
+britanski	mte:Agpmsny	britanski
+Vauxhall	mte:Npmsn	Vauxhall
+,	mte:Z	,
+prejel	mte:Vmep-sm	prejeti
+tri	mte:Mlcfpa	trije
+ponudbe	mte:Ncfpa	ponudba
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+ponudbe	mte:Ncfpa	ponudba
+kanadsko	mte:Agpnsn	kanadski
+-	mte:Z	-
+ruskega	mte:Agpmsg	ruski
+konzorcija	mte:Ncmsg	konzorcij
+Magna	mte:Npfsn	Magna
+-	mte:Z	-
+Sberbank	mte:Npmsn	Sberbank
+-	mte:Z	-
+Gaz	mte:Npmsn	Gaz
+,	mte:Z	,
+belgijske	mte:Agpfsg	belgijski
+družbe	mte:Ncfsg	družba
+RHJ	mte:Npmsn	RHJ
+in	mte:Cc	in
+kitajske	mte:Agpmsg	kitajski
+Beijing	mte:Npmsn	Beijing
+Automotive	mte:Npmsn	Automotiv
+Industry	mte:Npmsn	Industry
+.	mte:Z	.
+Preživetje	mte:Ncnsa	preživetje
+Opla	mte:Npmsg	Opla
+sicer	mte:Q	sicer
+z	mte:Si	z
+1,5	mte:Mdc	1,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+začasno	mte:Rgp	začasno
+financira	mte:Vmbr3s	financirati
+nemška	mte:Agpfsn	nemški
+vlada	mte:Ncfsn	vlada
+.	mte:Z	.
+GM	mte:Npmsn	GM
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+začel	mte:Vmep-sm	začeti
+s	mte:Si	z
+stečajnim	mte:Agpmsi	stečajen
+postopkom	mte:Ncmsi	postopek
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+sklenil	mte:Vmep-sm	skleniti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+zaradi	mte:Sg	zaradi
+finančnih	mte:Agpfpg	finančen
+težav	mte:Ncfpg	težava
+in	mte:Cc	in
+dolgov	mte:Ncmpg	dolg
+zaradi	mte:Sg	zaradi
+globalne	mte:Agpfsg	globalen
+finančno	mte:Agpnsn	finančen
+-	mte:Z	-
+gospodarske	mte:Agpfsg	gospodarski
+krize	mte:Ncfsg	kriza
+prodali	mte:Vmep-pm	prodati
+evropsko	mte:Agpfsa	evropski
+podružnico	mte:Ncfsa	podružnica
+.	mte:Z	.
+Najprej	mte:Rgs	najprej
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+zelo	mte:Rgp	zelo
+resen	mte:Agpmsnn	resen
+ponudnik	mte:Ncmsn	ponudnik
+pojavil	mte:Vmep-sm	pojaviti
+konzorcij	mte:Ncmsn	konzorcija
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+kanadsko	mte:Agpnsn	kanadski
+-	mte:Z	-
+avstrijski	mte:Agpmsny	avstrijski
+proizvajalec	mte:Ncmsn	proizvajalec
+avtomobilskih	mte:Agpmpg	avtomobilski
+delov	mte:Ncmpg	del
+Magna	mte:Npfsn	Magna
+International	mte:Npfsn	International
+,	mte:Z	,
+ruska	mte:Agpfsn	ruski
+Sberbanka	mte:Ncfsn	sberbanka
+in	mte:Cc	in
+ruski	mte:Agpmsny	ruski
+proizvajalec	mte:Ncmsn	proizvajalec
+avtomobilov	mte:Ncmpg	avtomobil
+in	mte:Cc	in
+tovornjakov	mte:Ncmpg	tovornjak
+Gaz	mte:Ncmsn	gaz
+,	mte:Z	,
+kasneje	mte:Rgc	kasno
+pa	mte:Cc	pa
+tudi	mte:Q	tudi
+RHJ	mte:Npmsn	RHJ
+International	mte:Npmsn	International
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+belgijsko	mte:Agpnsa	belgijski
+podjetje	mte:Ncnsa	podjetje
+,	mte:Z	,
+za	mte:Si	za
+katerim	mte:Pq-msi	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+stali	mte:Vmpp-pm	stati
+Američani	mte:Npmpn	Američan
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+družba	mte:Ncfsn	družba
+Ripplewood	mte:Npmsn	Ripplewood
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+po	mte:Sl	po
+ocenah	mte:Ncfpl	ocena
+nekaterih	mte:Pi-mpg	nekateri
+poznavalcev	mte:Ncmpg	poznavalec
+ustanovljena	mte:Appfsn	ustanovljen
+kot	mte:Cs	kot
+poskus	mte:Ncmsn	poskus
+GM	mte:Ncmsg	GM
+,	mte:Z	,
+da	mte:Cs	da
+sčasoma	mte:Rgp	sčasoma
+dobi	mte:Vmer3s	dobiti
+nazaj	mte:Rgp	nazaj
+svojo	mte:Px-fsa	svoj
+evropsko	mte:Agpfsa	evropski
+podružnico	mte:Ncfsa	podružnica
+.	mte:Z	.
+V	mte:Sa	v
+boj	mte:Ncmsan	boj
+za	mte:Sa	za
+prevzem	mte:Ncmsan	prevzem
+Opla	mte:Npmsg	Opla
+in	mte:Cc	in
+Vauxhalla	mte:Npmsg	Vauxhall
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+vključili	mte:Vmep-pm	vključiti
+tudi	mte:Q	tudi
+Kitajci	mte:Npmpn	Kitajec
+.	mte:Z	.
+Magna	mte:Npfsn	Magna
+in	mte:Cc	in
+Sberbank	mte:Npmsn	Sberbank
+nameravata	mte:Vmpr3d	nameravati
+izkoristiti	mte:Vmen	izkoristiti
+nakup	mte:Ncmsan	nakup
+evropske	mte:Agpfsg	evropski
+podružnice	mte:Ncfsg	podružnica
+GM	mte:Npfsg	GM
+za	mte:Sa	za
+razširitev	mte:Ncfsa	razširitev
+in	mte:Cc	in
+oživitev	mte:Ncfsa	oživitev
+ruske	mte:Agpfsg	ruski
+avtomobilske	mte:Agpfsg	avtomobilski
+industrije	mte:Ncfsg	industrija
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+želita	mte:Vmpr3d	želeti
+z	mte:Si	z
+nakupom	mte:Ncmsi	nakup
+dobiti	mte:Vmen	dobiti
+tudi	mte:Q	tudi
+vso	mte:Pg-fsa	ves
+intelektualno	mte:Agpfsa	intelektualen
+lastnino	mte:Ncfsa	lastnina
+.	mte:Z	.
+Že	mte:Q	že
+maja	mte:Ncmsg	maj
+sta	mte:Va-r3d-n	biti
+podpisala	mte:Vmep-dm	podpisati
+pismo	mte:Ncnsa	pismo
+o	mte:Sl	o
+nameri	mte:Ncfsl	namera
+,	mte:Z	,
+sicer	mte:Q	sicer
+nezavezujočo	mte:Appfsn	nezavezujoč
+in	mte:Cc	in
+v	mte:Sa	v
+znak	mte:Ncmsan	znak
+resnosti	mte:Ncfsg	resnost
+pri	mte:Sl	pri
+prevzemu	mte:Ncmsl	prevzem
+vplačala	mte:Vmep-sf	vplačati
+300	mte:Mdc	300
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Omenjeni	mte:Appmsny	omenjen
+konzorcij	mte:Ncmsan	konzorcija
+ima	mte:Vmpr3s-n	imeti
+tudi	mte:Q	tudi
+politično	mte:Agpfsa	političen
+podporo	mte:Ncfsa	podpora
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+in	mte:Cc	in
+Rusiji	mte:Npfsl	Rusija
+,	mte:Z	,
+saj	mte:Cc	saj
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-msn	ta
+prevzame	mte:Vmer3s	prevzeti
+Opel	mte:Npmsn	Opel
+pretekli	mte:Appmsay	pretekel
+teden	mte:Ncmsan	teden
+zavzela	mte:Vmep-sf	zavzeti
+tudi	mte:Q	tudi
+nemška	mte:Agpfsn	nemški
+kanclerka	mte:Ncfsn	kanclerka
+Angela	mte:Npfsn	Angela
+Merkel	mte:Npfsn	Merkel
+in	mte:Cc	in
+ruski	mte:Agpmsny	ruski
+predsednik	mte:Ncmsn	predsednik
+Dmitrij	mte:Npmsn	Dmitrij
+Medvedjev	mte:Npmsn	Medvedjev
+.	mte:Z	.
+Po	mte:Sl	po
+oddaji	mte:Ncfsl	oddaja
+končnih	mte:Agpfpg	končen
+prevzemnih	mte:Agpfpg	prevzemen
+ponudb	mte:Ncfpg	ponudba
+bo	mte:Va-f3s-n	biti
+GM	mte:Npmsn	GM
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+dal	mte:Vmep-sm	dati
+uvodno	mte:Agpnsa	uvoden
+mnenje	mte:Ncnsa	mnenje
+nemški	mte:Agpfsd	nemški
+vladi	mte:Ncfsd	vlada
+,	mte:Z	,
+naslednji	mte:Agpmsay	naslednji
+teden	mte:Ncmsan	teden
+pa	mte:Cc	pa
+priporočila	mte:Ncnpa	priporočilo
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+katera	mte:Pq-fsn	kateri
+ponudba	mte:Ncfsn	ponudba
+je	mte:Va-r3s-n	biti
+sprejemljiva	mte:Agpfsn	sprejemljiv
+.	mte:Z	.
+O	mte:Sl	o
+tem	mte:Pd-nsl	ta
+mora	mte:Vmpr3s	morati
+na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+odločati	mte:Vmpn	odločati
+tudi	mte:Q	tudi
+upravni	mte:Agpmsay	upraven
+odbor	mte:Ncmsan	odbor
+GM	mte:Ncmsn	GM
+in	mte:Cc	in
+ameriško	mte:Agpnsn	ameriški
+finančno	mte:Agpnsn	finančen
+ministrstvo	mte:Ncnsn	ministrstvo
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+večinski	mte:Agpmsny	večinski
+lastnik	mte:Ncmsn	lastnik
+GM	mte:Npmsn	GM
+.	mte:Z	.
+Magna	mte:Npfsn	Magna
+in	mte:Cc	in
+Sberbank	mte:Npfsn	Sberbank
+za	mte:Sa	za
+55	mte:Mdc	55
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+evropske	mte:Agpfsg	evropski
+podružnice	mte:Ncfsg	podružnica
+GM	mte:Npfsn	GM
+ponujata	mte:Vmpr3d	ponujati
+750	mte:Mdc	750
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+od	mte:Sg	od
+nemške	mte:Agpfsg	nemški
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+vlad	mte:Ncfpg	vlad
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+pa	mte:Cc	pa
+želita	mte:Vmpr3d	želeti
+za	mte:Sa	za
+4,5	mte:Mdc	4,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+jamstev	mte:Ncnpg	jamstvo
+.	mte:Z	.
+Magna	mte:Npfsn	Magna
+in	mte:Cc	in
+Sberbank	mte:Npmsn	Sberbank
+bi	mte:Va-c	biti
+si	mte:Px---d--y	se
+razdelili	mte:Vmep-pm	razdeliti
+po	mte:Sa	po
+27,5	mte:Mdc	27,5
+odstotka	mte:Ncmsg	odstotek
+deleža	mte:Ncmsg	delež
+evropske	mte:Agpfsg	evropski
+podružnice	mte:Ncfsg	podružnica
+GM	mte:Npfsn	GM
+,	mte:Z	,
+35	mte:Mdc	35
+odstotkov	mte:Ncmpg	odstotek
+bi	mte:Va-c	biti
+ostalo	mte:Vmep-sn	ostati
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+GM	mte:Npmsn	GM
+,	mte:Z	,
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+dobili	mte:Vmep-pm	dobiti
+zaposleni	mte:Appmpn	zaposlen
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+.	mte:Z	.
+Teh	mte:Pd-mpg	ta
+je	mte:Va-r3s-n	biti
+skupaj	mte:Rgp	skupaj
+54.500	mte:Mdc	54.500
+,	mte:Z	,
+od	mte:Sg	od
+česar	mte:Pr-nsg	kar
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+25.000	mte:Mdc	25.000
+,	mte:Z	,
+v	mte:Sl	v
+dveh	mte:Mlcfdl	dva
+britanskih	mte:Agpfdl	britanski
+Vauxhallovih	mte:Aspfdl	Vauxhallov
+tovarnah	mte:Ncfdl	tovarna
+pa	mte:Cc	pa
+5500	mte:Mdc	5500
+.	mte:Z	.
+RHJ	mte:Ncmsn	RHJ
+International	mte:Npmsn	International
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ponujal	mte:Vmpp-sm	ponujati
+275	mte:Mdc	275
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+za	mte:Sa	za
+50,1	mte:Mdc	50,1
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+evropske	mte:Agpfsg	evropski
+podružnice	mte:Ncfsg	podružnica
+GM	mte:Npfsn	GM
+,	mte:Z	,
+od	mte:Sg	od
+nemške	mte:Agpfsg	nemški
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+vlad	mte:Ncfpg	vlad
+pa	mte:Cc	pa
+želi	mte:Vmpr3s	želeti
+3,8	mte:Mdc	3,8
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+garancij	mte:Ncfpg	garancija
+.	mte:Z	.
+GM	mte:Ncmsn	GM
+bi	mte:Va-c	biti
+obdržal	mte:Vmep-sm	obdržati
+39,9	mte:Mdc	39,9
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+,	mte:Z	,
+preostalo	mte:Vmep-sn	preostati
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+dobili	mte:Vmep-pm	dobiti
+zaposleni	mte:Appmpn	zaposlen
+.	mte:Z	.
+Obe	mte:Pg-fdn	oba
+ponudbi	mte:Ncfdn	ponudba
+predvidevata	mte:Vmpr3d	predvidevati
+ukinitev	mte:Ncfsa	ukinitev
+okrog	mte:Rgp	okrog
+10.000	mte:Mdc	10.000
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+v	mte:Sl	v
+Oplovih	mte:Ncmpl	oplov
+podružnicah	mte:Ncfpl	podružnica
+,	mte:Z	,
+večino	mte:Ncfsa	večina
+izven	mte:Sg	izven
+Nemčije	mte:Npfsg	Nemčija
+.	mte:Z	.
+Pri	mte:Sl	pri
+Vauxhallu	mte:Npmsl	Vauxhall
+za	mte:Sa	za
+nekaj	mte:Rgp	nekaj
+časa	mte:Ncmsg	čas
+ne	mte:Q	ne
+predvidevajo	mte:Vmpr3p	predvidevati
+ukinjanja	mte:Ncnsg	ukinjanje
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+.	mte:Z	.
+Kitajski	mte:Agpmsny	kitajski
+BAIC	mte:Npmsn	BAIC
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ponujal	mte:Vmpp-sm	ponujati
+okrog	mte:Rgp	okrog
+660	mte:Mdc	660
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+za	mte:Sa	za
+večinski	mte:Agpmsay	večinski
+delež	mte:Ncmsan	delež
+evropske	mte:Agpfsg	evropski
+podružnice	mte:Ncfsg	podružnica
+GM	mte:Ncfsg	GM
+.	mte:Z	.
+Od	mte:Sg	od
+nemške	mte:Agpfsg	nemški
+in	mte:Cc	in
+drugih	mte:Mlpfpg	drug
+vlad	mte:Ncfpg	vlad
+pa	mte:Cc	pa
+želi	mte:Vmpr3s	želeti
+2,64	mte:Mdc	2,64
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+garancij	mte:Ncfpg	garancija

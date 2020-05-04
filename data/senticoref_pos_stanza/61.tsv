@@ -1,244 +1,276 @@
-token	tag
-Novomeška	Agpfsn
-farmacevtska	Agpfsn
-družba	Ncfsn
-Krka	Npfsn
-je	Va-r3s-n
-kupila	Vmep-sf
-nemškega	Agpmsa
-farmacevta	Ncmsay
-TAD	Npmsn
-Pharma	Npfsn
-.	Z
-Krka	Npfsn
-je	Va-r3s-n
-kupila	Vmep-sf
-nemškega	Agpmsa
-farmacevta	Ncmsay
-TAD	Ncmsg
-Pharma	Npfsn
-Novomeška	Agpfsn
-farmacevtska	Agpfsn
-družba	Ncfsn
-Krka	Npfsn
-je	Va-r3s-n
-v	Sa
-četrtek	Ncmsan
-s	Si
-poslovno	Agpfsi
-skupino	Ncfsi
-PHW	Npmsg
-podpisala	Vmep-sf
-pogodbo	Ncfsa
-o	Sl
-nakupu	Ncmsl
-generičnega	Agpmsg
-proizvajalca	Ncmsg
-zdravil	Ncnpg
-TAD	Npmsn
-Pharma	Npfsn
-.	Z
-Krka	Npfsn
-bo	Va-f3s-n
-za	Sa
-nakup	Ncmsan
-v	Sl
-gotovini	Ncfsl
-odštela	Vmep-sf
-97	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-novinarski	Agpfsl
-konferenci	Ncfsl
-v	Sl
-Novem	Agpnsl
-mestu	Ncnsl
-povedal	Vmep-sm
-predsednik	Ncmsn
-uprave	Ncfsg
-Krke	Npfsg
-Jože	Npmsn
-Colarič	Npmsn
-.	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-Krke	Npfsg
-Jože	Npmsn
-Colarič	Npmsn
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-Krka	Npfsn
-v	Sa
-četrtek	Ncmsan
-z	Si
-nemško	Agpfsi
-poslovno	Agpfsi
-skupino	Ncfsi
-PHW	Npmsn
-podpisala	Vmep-sf
-pogodbo	Ncfsa
-o	Sl
-nakupu	Ncmsl
-generičnega	Agpmsg
-proizvajalca	Ncmsg
-zdravil	Ncnpg
-TAD	Npmsn
-Pharma	Npfsn
-,	Z
-za	Sa
-kar	Pr-nsa
-bodo	Va-f3p-n
-v	Sl
-gotovini	Ncfsl
-odšteli	Vmep-pm
-97	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-še	Q
-dejal	Vmep-sm
-Colarič	Npmsn
-,	Z
-bo	Va-f3s-n
-Krka	Npfsn
-z	Si
-nakupom	Ncmsi
-TAD	Npmsn
-Pharme	Npmsn
--	Z
-Krka	Npfsn
-ga	Pp3msa--y
-bo	Va-f3s-n
-financirala	Vmbp-sf
-iz	Sg
-prostih	Agpnpg
-denarnih	Agpnpg
-sredstev	Ncnpg
-,	Z
-kratkoročnih	Agpfpg
-finančnih	Agpfpg
-naložb	Ncfpg
-in	Cc
-dogovorjenih	Appfpg
-kreditnih	Agpfpg
-linij	Ncfpg
--	Z
-pridobila	Vmep-sf
-uveljavljeno	Appfsa
-blagovno	Agpfsa
-znamko	Ncfsa
-,	Z
-ki	Cs
-je	Pp3fsg--y
-ne	Q
-bodo	Va-f3p-n
-spreminjali	Vmpp-pm
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-bo	Va-f3s-n
-Krka	Npfsn
-z	Si
-novo	Agpfsi
-družbo	Ncfsi
-v	Sl
-skupini	Ncfsl
-povečala	Vmep-sf
-prodajo	Ncfsa
-v	Sl
-Nemčiji	Npfsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-glavni	Agpmsay
-generični	Agpmsay
-farmacevtski	Agpmsay
-trg	Ncmsan
-v	Sl
-Evropi	Npfsl
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-ta	Pd-msn
-prevzem	Ncmsn
-najava	Ncfsn
-nadaljnjih	Agpfpg
-aktivnosti	Ncfpg
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-.	Z
-Krka	Npfsn
-je	Va-r3s-n
-na	Sl
-tujih	Agpmpl
-trgih	Ncmpl
-ustvarila	Vmep-sf
-87	Mdc
-odstotkov	Ncmpg
-prodaje	Ncfsg
-,	Z
-največja	Agsfsn
-delež	Ncmsan
-v	Sl
-prodaji	Ncfsl
-ima	Vmpr3s-n
-regija	Ncfsn
-srednje	Agpfsg
-Evrope	Npfsg
-,	Z
-kjer	Cs
-je	Va-r3s-n
-družba	Ncfsn
-ustvarila	Vmep-sf
-26	Mdc
-odstotkov	Ncmpg
-prodaje	Ncfsg
-oz	Ncmsg
-.	Z
-150,2	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-Sledijo	Vmpr3p
-regije	Ncfpa
-Vzhodna	Agpfsn
-Evropa	Npfsn
-134,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-Zahodna	Agpfsn
-Evropa	Npfsn
-in	Cc
-čezmorski	Agpmpn
-trgi	Ncmpn
-112,1	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-Jugovzhodna	Agpfsn
-Evropa	Npfsn
-99,1	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-in	Cc
-Slovenija	Npfsn
-75,1	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Novomeška	mte:Agpfsn	novomeški
+farmacevtska	mte:Agpfsn	farmacevtski
+družba	mte:Ncfsn	družba
+Krka	mte:Npfsn	Krka
+je	mte:Va-r3s-n	biti
+kupila	mte:Vmep-sf	kupiti
+nemškega	mte:Agpmsa	nemški
+farmacevta	mte:Ncmsay	farmacevta
+TAD	mte:Npmsn	TAD
+Pharma	mte:Npfsn	Pharma
+.	mte:Z	.
+Krka	mte:Npfsn	Krka
+je	mte:Va-r3s-n	biti
+kupila	mte:Vmep-sf	kupiti
+nemškega	mte:Agpmsa	nemški
+farmacevta	mte:Ncmsay	farmacevta
+TAD	mte:Ncmsg	TAD
+Pharma	mte:Npfsn	Pharma
+Novomeška	mte:Agpfsn	novomeški
+farmacevtska	mte:Agpfsn	farmacevtski
+družba	mte:Ncfsn	družba
+Krka	mte:Npfsn	Krka
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+s	mte:Si	z
+poslovno	mte:Agpfsi	posloven
+skupino	mte:Ncfsi	skupina
+PHW	mte:Npmsg	PHW
+podpisala	mte:Vmep-sf	podpisati
+pogodbo	mte:Ncfsa	pogodba
+o	mte:Sl	o
+nakupu	mte:Ncmsl	nakup
+generičnega	mte:Agpmsg	generičen
+proizvajalca	mte:Ncmsg	proizvajalec
+zdravil	mte:Ncnpg	zdravilo
+TAD	mte:Npmsn	TAD
+Pharma	mte:Npfsn	Pharma
+.	mte:Z	.
+Krka	mte:Npfsn	Krka
+bo	mte:Va-f3s-n	biti
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+v	mte:Sl	v
+gotovini	mte:Ncfsl	gotovina
+odštela	mte:Vmep-sf	odšteti
+97	mte:Mdc	97
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+v	mte:Sl	v
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+povedal	mte:Vmep-sm	povedati
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Krke	mte:Npfsg	Krka
+Jože	mte:Npmsn	Jože
+Colarič	mte:Npmsn	Colarič
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Krke	mte:Npfsg	Krka
+Jože	mte:Npmsn	Jože
+Colarič	mte:Npmsn	Colarič
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Krka	mte:Npfsn	Krka
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+z	mte:Si	z
+nemško	mte:Agpfsi	nemški
+poslovno	mte:Agpfsi	posloven
+skupino	mte:Ncfsi	skupina
+PHW	mte:Npmsn	PHW
+podpisala	mte:Vmep-sf	podpisati
+pogodbo	mte:Ncfsa	pogodba
+o	mte:Sl	o
+nakupu	mte:Ncmsl	nakup
+generičnega	mte:Agpmsg	generičen
+proizvajalca	mte:Ncmsg	proizvajalec
+zdravil	mte:Ncnpg	zdravilo
+TAD	mte:Npmsn	TAD
+Pharma	mte:Npfsn	Pharma
+,	mte:Z	,
+za	mte:Sa	za
+kar	mte:Pr-nsa	kar
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+gotovini	mte:Ncfsl	gotovina
+odšteli	mte:Vmep-pm	odšteti
+97	mte:Mdc	97
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+Colarič	mte:Npmsn	Colarič
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+Krka	mte:Npfsn	Krka
+z	mte:Si	z
+nakupom	mte:Ncmsi	nakup
+TAD	mte:Npmsn	TAD
+Pharme	mte:Npmsn	Pharma
+-	mte:Z	-
+Krka	mte:Npfsn	Krka
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+financirala	mte:Vmbp-sf	financirati
+iz	mte:Sg	iz
+prostih	mte:Agpnpg	prost
+denarnih	mte:Agpnpg	denaren
+sredstev	mte:Ncnpg	sredstvo
+,	mte:Z	,
+kratkoročnih	mte:Agpfpg	kratkoročen
+finančnih	mte:Agpfpg	finančen
+naložb	mte:Ncfpg	naložba
+in	mte:Cc	in
+dogovorjenih	mte:Appfpg	dogovorjen
+kreditnih	mte:Agpfpg	krediten
+linij	mte:Ncfpg	linija
+-	mte:Z	-
+pridobila	mte:Vmep-sf	pridobiti
+uveljavljeno	mte:Appfsa	uveljavljen
+blagovno	mte:Agpfsa	blagoven
+znamko	mte:Ncfsa	znamka
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Pp3fsg--y	on
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+spreminjali	mte:Vmpp-pm	spreminjati
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+bo	mte:Va-f3s-n	biti
+Krka	mte:Npfsn	Krka
+z	mte:Si	z
+novo	mte:Agpfsi	nov
+družbo	mte:Ncfsi	družba
+v	mte:Sl	v
+skupini	mte:Ncfsl	skupina
+povečala	mte:Vmep-sf	povečati
+prodajo	mte:Ncfsa	prodaja
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+glavni	mte:Agpmsay	glaven
+generični	mte:Agpmsay	generičen
+farmacevtski	mte:Agpmsay	farmacevtski
+trg	mte:Ncmsan	trg
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+prevzem	mte:Ncmsn	prevzem
+najava	mte:Ncfsn	najava
+nadaljnjih	mte:Agpfpg	nadaljnji
+aktivnosti	mte:Ncfpg	aktivnost
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+.	mte:Z	.
+Krka	mte:Npfsn	Krka
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+tujih	mte:Agpmpl	tuj
+trgih	mte:Ncmpl	trg
+ustvarila	mte:Vmep-sf	ustvariti
+87	mte:Mdc	87
+odstotkov	mte:Ncmpg	odstotek
+prodaje	mte:Ncfsg	prodaja
+,	mte:Z	,
+največja	mte:Agsfsn	velik
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+prodaji	mte:Ncfsl	prodaja
+ima	mte:Vmpr3s-n	imeti
+regija	mte:Ncfsn	regija
+srednje	mte:Agpfsg	srednji
+Evrope	mte:Npfsg	Evropa
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+ustvarila	mte:Vmep-sf	ustvariti
+26	mte:Mdc	26
+odstotkov	mte:Ncmpg	odstotek
+prodaje	mte:Ncfsg	prodaja
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+150,2	mte:Mdc	150,2
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+regije	mte:Ncfpa	regija
+Vzhodna	mte:Agpfsn	vzhoden
+Evropa	mte:Npfsn	Evropa
+134,3	mte:Mdc	134,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+Zahodna	mte:Agpfsn	zahoden
+Evropa	mte:Npfsn	Evropa
+in	mte:Cc	in
+čezmorski	mte:Agpmpn	čezmorski
+trgi	mte:Ncmpn	trg
+112,1	mte:Mdc	112,1
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+Jugovzhodna	mte:Agpfsn	jugovzhoden
+Evropa	mte:Npfsn	Evropa
+99,1	mte:Mdc	99,1
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+Slovenija	mte:Npfsn	Slovenija
+75,1	mte:Mdc	75,1
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Najhitrejšo	mte:Agsfsa	hiter
+prodajo	mte:Ncfsa	prodaja
+je	mte:Va-r3s-n	biti
+Krka	mte:Npfsn	Krka
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+beležila	mte:Vmpp-sf	beležiti
+na	mte:Sl	na
+trgih	mte:Ncmpl	trg
+zahodne	mte:Agpfsg	zahoden
+Evrope	mte:Npfsg	Evropa
+in	mte:Cc	in
+čezmorskih	mte:Agpfpg	čezmorski
+držav	mte:Ncfpg	država
+,	mte:Z	,
+za	mte:Sa	za
+51	mte:Mdc	51
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+med	mte:Si	med
+državami	mte:Ncfpi	država
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Colarič	mte:Npmsn	Colarič
+izpostavil	mte:Vmep-sm	izpostaviti
+Madžarsko	mte:Npfsa	Madžarska
+,	mte:Z	,
+Romunijo	mte:Npfsa	Romunija
+in	mte:Cc	in
+Srbijo	mte:Npfsa	Srbija

@@ -1,529 +1,548 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Družba	Ncfsn
-DZS	Npmsn
-je	Va-r3s-n
-upravi	Ncfsd
-Term	Npmsn
-Čatež	Npmsan
-posredovala	Vmbp-sf
-zahtevo	Ncfsa
-za	Sa
-sklic	Ncmsan
-izredne	Agpfsg
-skupščine	Ncfsg
-,	Z
-na	Sl
-kateri	Pq-fsl
-bi	Va-c
-delničarji	Ncmpn
-vnovič	Rgp
-odločali	Vmpp-pm
-o	Sl
-umiku	Ncmsl
-100.894	Mdc
-lastnih	Agpfpg
-delnic	Ncfpg
-,	Z
-ki	Cs
-sta	Va-r3d-n
-v	Sl
-lasti	Ncfsl
-njenih	Ps3fpgsf
-hčerinskih	Agpfpg
-družb	Ncfpg
-Term	Ncfsg
-Marine	Npmsn
-Portorož	Npmsn
-in	Cc
-Turističnega	Agpnsg
-podjetja	Ncnsg
-Portorož	Npmsn
-(	Z
-TPP	Npmsn
-)	Z
-,	Z
-in	Cc
-s	Si
-tem	Pd-nsi
-o	Sl
-zmanjšanju	Ncnsl
-osnovnega	Agpmsg
-kapitala	Ncmsg
-.	Z
-O	Sl
-tem	Pd-msl
-sklepu	Ncmsl
-so	Va-r3p-n
-delničarji	Ncmpn
-Term	Npfsg
-Čatež	Npmsn
-odločali	Vmpp-pm
-že	Q
-na	Sl
-skupščini	Ncfsl
-3	Mdc
-.	Z
-oktobra	Ncmsg
-,	Z
-sklicani	Appmpn
-prav	Q
-tako	Rgp
-na	Sa
-zahtevo	Ncfsa
-DZS	Npmsn
-,	Z
-a	Cc
-sklep	Ncmsn
-o	Sl
-umiku	Ncmsl
-delnic	Ncfpg
-ni	Va-r3s-y
-bil	Va-p-sm
-izglasovan	Appmsnn
-.	Z
-DZS	Npmsn
-predlaga	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-umik	Ncmsn
-100.894	Mdc
-lastnih	Agpfpg
-delnic	Ncfpg
-Term	Ncfsg
-Čatež	Npmsn
-izvede	Vmer3s
-tako	Rgp
-,	Z
-da	Cs
-Terme	Ncfpn
-pridobijo	Vmer3p
-imetništvo	Ncnsa
-omenjenega	Appmsg
-paketa	Ncmsg
-delnic	Ncfpg
-od	Sg
-sedanjih	Agpmpg
-imetnikov	Ncmpg
-,	Z
-in	Cc
-sicer	Q
-58.374	Mdc
-delnic	Ncfpg
-oz	Ncmsg
-.	Z
-9,76	Mdc
-odstotka	Ncmsg
-delnic	Ncfpg
-od	Sg
-družbe	Ncfsg
-Marina	Npmsn
-Portorožin	Npmsn
-42.520	Mdc
-delnic	Ncfpg
-oz	Ncmsg
-.	Z
-7,11	Mdc
-odstotka	Ncmsg
-od	Sg
-TPP	Ncmsg
-proti	Sd
-plačilu	Ncnsd
-v	Sl
-višini	Ncfsl
-povprečne	Agpfsg
-tržne	Agpfsg
-cene	Ncfsg
-v	Sl
-zadnjem	Agpmsl
-mesecu	Ncmsl
-pred	Si
-dnevom	Ncmsi
-sprejema	Vmpr3s
-tega	Pd-msg
-sklepa	Ncmsg
-za	Sa
-posamezno	Agpfsa
-lastno	Agpfsa
-delnico	Ncfsa
-.	Z
-Uprava	Ncfsn
-je	Va-r3s-n
-dolžna	Agpfsn
-lastne	Agpfpg
-delnice	Ncfpa
-,	Z
-ki	Cs
-se	Px------y
-s	Si
-tem	Pd-msi
-sklepom	Ncmsi
-umikajo	Vmpr3p
-,	Z
-od	Sg
-hčerinskih	Agpfpg
-družb	Ncfpg
-Marina	Npmsn
-Portorož	Npmsn
-in	Cc
-TPP	Npmsn
-pridobiti	Vmen
-najkasneje	Rgs
-v	Sl
-roku	Ncmsl
-enega	Mlpmsg
-tedna	Ncmsg
-od	Sg
-dneva	Ncmsg
-sprejema	Vmpr3s
-tega	Pd-msg
-sklepa	Ncmsg
-,	Z
-navaja	Vmpr3s
-DZS	Ncmsa
-v	Sl
-zahtevi	Ncfsl
-za	Sa
-sklic	Ncmsan
-izredne	Agpfsg
-skupščine	Ncfsg
-Term	Ncfsg
-Čatež	Npmsn
-.	Z
-Zmanjšanje	Ncnsa
-osnovnega	Agpmsg
-kapitala	Ncmsg
-z	Si
-umikom	Ncmsi
-lastnih	Agpfpg
-delnic	Ncfpg
-se	Px------y
-izvede	Vmer3s
-v	Sa
-breme	Ncnsa
-rezerv	Ncfpg
-za	Sa
-lastne	Agpmpa
-deleže	Ncmpa
-,	Z
-ki	Cs
-na	Sa
-dan	Ncmsan
-30	Mdc
-.	Z
-junij	Ncmsn
-2007	Mdc
-znašajo	Vmpr3p
-10,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-drugih	Mlpfpg
-rezerv	Ncfpg
-v	Sl
-višini	Ncfsl
-17	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-prenesenega	Agpmsg
-čistega	Agpmsg
-dobička	Ncmsg
-v	Sl
-višini	Ncfsl
-4,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-in	Cc
-čistega	Agpmsg
-dobička	Ncmsg
-v	Sl
-višini	Ncfsl
-1,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-Osnovni	Agpmsny
-kapital	Ncmsn
-družbe	Ncfsg
-Terme	Npfsn
-Čatež	Npmsn
-je	Va-r3s-n
-zmanjšan	Appmsnn
-z	Si
-dnem	Ncmsi
-pridobitve	Ncfsg
-lastnih	Agpfpg
-delnic	Ncfpg
-,	Z
-ki	Cs
-se	Px------y
-s	Si
-tem	Pd-msi
-sklepom	Ncmsi
-umikajo	Vmpr3p
-,	Z
-in	Cc
-sicer	Q
-v	Sl
-višini	Ncfsl
-2,5	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-tako	Cc
-da	Cs
-osnovni	Agpmsny
-kapital	Ncmsn
-Term	Ncfsg
-Čatež	Npmsn
-po	Sl
-zmanjšanju	Ncnsl
-znaša	Vmpr3s
-12,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-DZS	Ncmsn
-ima	Vmpr3s-n
-kot	Cs
-največji	Agsmsny
-delničar	Ncmsan
-21,03	Mdc
--	Z
-odstotni	Agpmsay
-lastniški	Agpmsay
-delež	Ncmsan
-Term	Ncfsg
-Čatež	Npmsn
-,	Z
-znano	Appnsn
-pa	Cc
-je	Va-r3s-n
-,	Z
-da	Cs
-želi	Vmpr3s
-kupiti	Vmen
-19,77	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-Kapitalske	Agpfsg
-družbe	Ncfsg
-(	Z
-Kad	Ncmsn
-)	Z
-v	Sl
-Termah	Npfpl
-.	Z
-Ponudba	Ncfsn
-DZS	Npfsn
-za	Sa
-omenjeni	Appmsay
-delež	Ncmsan
-Kada	Ncfsg
-v	Sl
-Termah	Npfsl
-Čatež	Npmsn
-bi	Va-c
-se	Px------y
-sicer	Q
-morala	Vmpp-sf
-izteči	Vmen
-v	Sa
-soboto	Ncfsa
-,	Z
-a	Cc
-je	Va-r3s-n
-Kad	Ncmsan
-prosil	Vmpp-sm
-DZS	Npmsn
-za	Sa
-podaljšanje	Ncnsa
-roka	Ncmsg
-,	Z
-saj	Cc
-še	Q
-ni	Va-r3s-y
-sprejel	Vmep-sm
-dokončne	Agpfsg
-odločitve	Ncfsg
-o	Sl
-prodajnih	Agpfpl
-aktivnostih	Ncfpl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-je	Va-r3s-n
-DZS	Npmsn
-Kadu	Sa
-ponudbo	Ncfsa
-za	Sa
-Terme	Ncfpa
-posredoval	Vmbp-sm
-9	Mdc
-.	Z
-novembra	Ncmsg
-,	Z
-za	Sa
-delnico	Ncfsa
-pa	Cc
-ponudil	Vmep-sm
-350	Mdc
-evrov	Ncmpg
-.	Z
-Ponudba	Ncfsn
-velja	Vmpr3s
-30	Mdc
-dni	Ncmpg
-,	Z
-torej	Rgp
-do	Sg
-sobote	Ncfsg
-,	Z
-DZS	Npmsn
-pa	Cc
-je	Va-r3s-n
-napovedal	Vmep-sm
-,	Z
-da	Cs
-jo	Pp3fsa--y
-bo	Va-f3s-n
-obnovil	Vmep-sm
-,	Z
-če	Cs
-je	Pp3fsg--y
-Kad	Ncmsn
-v	Sl
-prvi	Mlofsl
-ponudbi	Ncfsl
-ne	Q
-bo	Va-f3s-n
-sprejel	Vmep-sm
-.	Z
-O	Sl
-umiku	Ncmsl
-lastnih	Agpfpg
-delnic	Ncfpg
-so	Va-r3p-n
-delničarji	Ncmpn
-Term	Npfsg
-Čatež	Npmsn
-odločali	Vmpp-pm
-že	Q
-na	Sl
-oktobrski	Agpfsl
-skupščini	Ncfsl
-,	Z
-a	Cc
-umik	Ncmsn
-delnic	Ncfpg
-ni	Va-r3s-y
-bil	Va-p-sm
-izglasovan	Appmsnn
-.	Z
-V	Sl
-DZS	Npmsl
-so	Va-r3p-n
-takrat	Rgp
-zatrdili	Vmep-pm
-,	Z
-da	Cs
-je	Va-r3s-n
-skupščinski	Agpmsny
-sklep	Ncmsn
-nezakonit	Agpmsnn
-in	Cc
-s	Si
-tem	Pd-nsi
-izpodbojen	Appmsnn
-.	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-Term	Ncfsg
-Mladen	Npmsn
-Kučiš	Npmsn
-pa	Cc
-je	Va-r3s-n
-takrat	Rgp
-za	Sa
-STA	Va-r3d-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-v	Sl
-družbi	Ncfsl
-zdaj	Rgp
-preučili	Vmep-pm
-,	Z
-kaj	Pq-nsa
-narediti	Vmen
-z	Si
-omenjenimi	Appfpi
-delnicami	Ncfpi
-.	Z
-V	Sl
-DZS	Npmsl
-so	Va-r3p-n
-po	Sl
-oktobrski	Agpfsl
-skupščini	Ncfsl
-poudarili	Vmep-pm
-,	Z
-da	Cs
-je	Va-r3s-n
-umik	Ncmsn
-lastnih	Agpfpg
-delnic	Ncfpg
-zakonska	Agpfsn
-obveza	Ncfsn
-Term	Ncfsg
-Čatež	Npmsn
-,	Z
-ker	Cs
-te	Pd-fpn
-lastnih	Agpfpg
-delnic	Ncfpg
-niso	Va-r3p-y
-odsvojile	Vmep-pf
-v	Sl
-treh	Mlcnpl
-letih	Ncnpl
-od	Sg
-njihove	Ps3fsgp
-pridobitve	Ncfsg
-.	Z
-Potem	Rgp
-ko	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-Termam	Ncfsd
-Čatež	Npmsn
-od	Sg
-avgusta	Ncmsg
-prepovedano	Appnsn
-razpolagati	Vmpn
-z	Si
-lastnimi	Agpfpi
-delnicami	Ncfpi
-,	Z
-ki	Cs
-sta	Va-r3d-n
-v	Sl
-lasti	Ncfsl
-Marine	Npmsn
-Portorož	Npmsn
-in	Cc
-TPP	Npmsn
-,	Z
-so	Va-r3p-n
-Terme	Ncfpn
-Čatež	Npmsn
-temu	Pd-nsd
-ugovarjale	Vmpp-pf
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Družba	mte:Ncfsn	družba
+DZS	mte:Npmsn	DZS
+je	mte:Va-r3s-n	biti
+upravi	mte:Ncfsd	uprava
+Term	mte:Npmsn	Term
+Čatež	mte:Npmsan	Čatež
+posredovala	mte:Vmbp-sf	posredovati
+zahtevo	mte:Ncfsa	zahteva
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+izredne	mte:Agpfsg	izreden
+skupščine	mte:Ncfsg	skupščina
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bi	mte:Va-c	biti
+delničarji	mte:Ncmpn	delničar
+vnovič	mte:Rgp	vnovič
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+umiku	mte:Ncmsl	umik
+100.894	mte:Mdc	100.894
+lastnih	mte:Agpfpg	lasten
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+njenih	mte:Ps3fpgsf	njen
+hčerinskih	mte:Agpfpg	hčerinski
+družb	mte:Ncfpg	družba
+Term	mte:Ncfsg	term
+Marine	mte:Npmsn	Marine
+Portorož	mte:Npmsn	Portorož
+in	mte:Cc	in
+Turističnega	mte:Agpnsg	turističen
+podjetja	mte:Ncnsg	podjetje
+Portorož	mte:Npmsn	Portorož
+(	mte:Z	(
+TPP	mte:Npmsn	TPP
+)	mte:Z	)
+,	mte:Z	,
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+o	mte:Sl	o
+zmanjšanju	mte:Ncnsl	zmanjšanje
+osnovnega	mte:Agpmsg	osnoven
+kapitala	mte:Ncmsg	kapital
+.	mte:Z	.
+O	mte:Sl	o
+tem	mte:Pd-msl	ta
+sklepu	mte:Ncmsl	sklep
+so	mte:Va-r3p-n	biti
+delničarji	mte:Ncmpn	delničar
+Term	mte:Npfsg	Term
+Čatež	mte:Npmsn	Čatež
+odločali	mte:Vmpp-pm	odločati
+že	mte:Q	že
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+3	mte:Mdc	3
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+,	mte:Z	,
+sklicani	mte:Appmpn	sklican
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+na	mte:Sa	na
+zahtevo	mte:Ncfsa	zahteva
+DZS	mte:Npmsn	DZS
+,	mte:Z	,
+a	mte:Cc	a
+sklep	mte:Ncmsn	sklep
+o	mte:Sl	o
+umiku	mte:Ncmsl	umik
+delnic	mte:Ncfpg	delnica
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+izglasovan	mte:Appmsnn	izglasovan
+.	mte:Z	.
+DZS	mte:Npmsn	DZS
+predlaga	mte:Vmbr3s	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+umik	mte:Ncmsn	umik
+100.894	mte:Mdc	100.894
+lastnih	mte:Agpfpg	lasten
+delnic	mte:Ncfpg	delnica
+Term	mte:Ncfsg	term
+Čatež	mte:Npmsn	Čatež
+izvede	mte:Vmer3s	izvedeti
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+Terme	mte:Ncfpn	terme
+pridobijo	mte:Vmer3p	pridobiti
+imetništvo	mte:Ncnsa	imetništvo
+omenjenega	mte:Appmsg	omenjen
+paketa	mte:Ncmsg	paket
+delnic	mte:Ncfpg	delnica
+od	mte:Sg	od
+sedanjih	mte:Agpmpg	sedanji
+imetnikov	mte:Ncmpg	imetnik
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+58.374	mte:Mdc	58.374
+delnic	mte:Ncfpg	delnica
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+9,76	mte:Mdc	9,76
+odstotka	mte:Ncmsg	odstotek
+delnic	mte:Ncfpg	delnica
+od	mte:Sg	od
+družbe	mte:Ncfsg	družba
+Marina	mte:Npmsn	Marin
+Portorožin	mte:Npmsn	Portorožin
+42.520	mte:Mdc	42.520
+delnic	mte:Ncfpg	delnica
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+7,11	mte:Mdc	7,11
+odstotka	mte:Ncmsg	odstotek
+od	mte:Sg	od
+TPP	mte:Ncmsg	TPP
+proti	mte:Sd	proti
+plačilu	mte:Ncnsd	plačilo
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+povprečne	mte:Agpfsg	povprečen
+tržne	mte:Agpfsg	tržen
+cene	mte:Ncfsg	cena
+v	mte:Sl	v
+zadnjem	mte:Agpmsl	zadnji
+mesecu	mte:Ncmsl	mesec
+pred	mte:Si	pred
+dnevom	mte:Ncmsi	dan
+sprejema	mte:Vmpr3s	sprejemati
+tega	mte:Pd-msg	ta
+sklepa	mte:Ncmsg	sklep
+za	mte:Sa	za
+posamezno	mte:Agpfsa	posamezno
+lastno	mte:Agpfsa	lasten
+delnico	mte:Ncfsa	delnica
+.	mte:Z	.
+Uprava	mte:Ncfsn	uprava
+je	mte:Va-r3s-n	biti
+dolžna	mte:Agpfsn	dolžen
+lastne	mte:Agpfpg	lasten
+delnice	mte:Ncfpa	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+sklepom	mte:Ncmsi	sklep
+umikajo	mte:Vmpr3p	umikati
+,	mte:Z	,
+od	mte:Sg	od
+hčerinskih	mte:Agpfpg	hčerinski
+družb	mte:Ncfpg	družba
+Marina	mte:Npmsn	Marin
+Portorož	mte:Npmsn	Portorož
+in	mte:Cc	in
+TPP	mte:Npmsn	TPP
+pridobiti	mte:Vmen	pridobiti
+najkasneje	mte:Rgs	kasno
+v	mte:Sl	v
+roku	mte:Ncmsl	rok
+enega	mte:Mlpmsg	en
+tedna	mte:Ncmsg	teden
+od	mte:Sg	od
+dneva	mte:Ncmsg	dan
+sprejema	mte:Vmpr3s	sprejemati
+tega	mte:Pd-msg	ta
+sklepa	mte:Ncmsg	sklep
+,	mte:Z	,
+navaja	mte:Vmpr3s	navajati
+DZS	mte:Ncmsa	DZS
+v	mte:Sl	v
+zahtevi	mte:Ncfsl	zahteva
+za	mte:Sa	za
+sklic	mte:Ncmsan	sklic
+izredne	mte:Agpfsg	izreden
+skupščine	mte:Ncfsg	skupščina
+Term	mte:Ncfsg	term
+Čatež	mte:Npmsn	Čatež
+.	mte:Z	.
+Zmanjšanje	mte:Ncnsa	zmanjšanje
+osnovnega	mte:Agpmsg	osnoven
+kapitala	mte:Ncmsg	kapital
+z	mte:Si	z
+umikom	mte:Ncmsi	umik
+lastnih	mte:Agpfpg	lasten
+delnic	mte:Ncfpg	delnica
+se	mte:Px------y	se
+izvede	mte:Vmer3s	izvedeti
+v	mte:Sa	v
+breme	mte:Ncnsa	breme
+rezerv	mte:Ncfpg	rezerva
+za	mte:Sa	za
+lastne	mte:Agpmpa	lasten
+deleže	mte:Ncmpa	deleža
+,	mte:Z	,
+ki	mte:Cs	ki
+na	mte:Sa	na
+dan	mte:Ncmsan	dan
+30	mte:Mdc	30
+.	mte:Z	.
+junij	mte:Ncmsn	junij
+2007	mte:Mdc	2007
+znašajo	mte:Vmpr3p	znašati
+10,3	mte:Mdc	10,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+drugih	mte:Mlpfpg	drug
+rezerv	mte:Ncfpg	rezerva
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+17	mte:Mdc	17
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+prenesenega	mte:Agpmsg	prenesen
+čistega	mte:Agpmsg	čist
+dobička	mte:Ncmsg	dobiček
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+4,4	mte:Mdc	4,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+čistega	mte:Agpmsg	čist
+dobička	mte:Ncmsg	dobiček
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+1,3	mte:Mdc	1,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Osnovni	mte:Agpmsny	osnoven
+kapital	mte:Ncmsn	kapital
+družbe	mte:Ncfsg	družba
+Terme	mte:Npfsn	terme
+Čatež	mte:Npmsn	Čatež
+je	mte:Va-r3s-n	biti
+zmanjšan	mte:Appmsnn	zmanjšan
+z	mte:Si	z
+dnem	mte:Ncmsi	dan
+pridobitve	mte:Ncfsg	pridobitev
+lastnih	mte:Agpfpg	lasten
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+sklepom	mte:Ncmsi	sklep
+umikajo	mte:Vmpr3p	umikati
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+2,5	mte:Mdc	2,5
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+osnovni	mte:Agpmsny	osnoven
+kapital	mte:Ncmsn	kapital
+Term	mte:Ncfsg	term
+Čatež	mte:Npmsn	Čatež
+po	mte:Sl	po
+zmanjšanju	mte:Ncnsl	zmanjšanje
+znaša	mte:Vmpr3s	znašati
+12,4	mte:Mdc	12,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+DZS	mte:Ncmsn	DZS
+ima	mte:Vmpr3s-n	imeti
+kot	mte:Cs	kot
+največji	mte:Agsmsny	velik
+delničar	mte:Ncmsan	delničar
+21,03	mte:Mdc	21,03
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+lastniški	mte:Agpmsay	lastniški
+delež	mte:Ncmsan	delež
+Term	mte:Ncfsg	term
+Čatež	mte:Npmsn	Čatež
+,	mte:Z	,
+znano	mte:Appnsn	znan
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+želi	mte:Vmpr3s	želeti
+kupiti	mte:Vmen	kupiti
+19,77	mte:Mdc	19,77
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+Kapitalske	mte:Agpfsg	kapitalski
+družbe	mte:Ncfsg	družba
+(	mte:Z	(
+Kad	mte:Ncmsn	kad
+)	mte:Z	)
+v	mte:Sl	v
+Termah	mte:Npfpl	Termah
+.	mte:Z	.
+Ponudba	mte:Ncfsn	ponudba
+DZS	mte:Npfsn	DZS
+za	mte:Sa	za
+omenjeni	mte:Appmsay	omenjen
+delež	mte:Ncmsan	delež
+Kada	mte:Ncfsg	kada
+v	mte:Sl	v
+Termah	mte:Npfsl	Termah
+Čatež	mte:Npmsn	Čatež
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+morala	mte:Vmpp-sf	morati
+izteči	mte:Vmen	izteči
+v	mte:Sa	v
+soboto	mte:Ncfsa	sobota
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+Kad	mte:Ncmsan	kad
+prosil	mte:Vmpp-sm	prositi
+DZS	mte:Npmsn	DZS
+za	mte:Sa	za
+podaljšanje	mte:Ncnsa	podaljšanje
+roka	mte:Ncmsg	roka
+,	mte:Z	,
+saj	mte:Cc	saj
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+sprejel	mte:Vmep-sm	sprejeti
+dokončne	mte:Agpfsg	dokončen
+odločitve	mte:Ncfsg	odločitev
+o	mte:Sl	o
+prodajnih	mte:Agpfpl	prodajen
+aktivnostih	mte:Ncfpl	aktivnost
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+DZS	mte:Npmsn	DZS
+Kadu	mte:Sa	kadu
+ponudbo	mte:Ncfsa	ponudba
+za	mte:Sa	za
+Terme	mte:Ncfpa	terme
+posredoval	mte:Vmbp-sm	posredovati
+9	mte:Mdc	9
+.	mte:Z	.
+novembra	mte:Ncmsg	november
+,	mte:Z	,
+za	mte:Sa	za
+delnico	mte:Ncfsa	delnica
+pa	mte:Cc	pa
+ponudil	mte:Vmep-sm	ponuditi
+350	mte:Mdc	350
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Ponudba	mte:Ncfsn	ponudba
+velja	mte:Vmpr3s	veljati
+30	mte:Mdc	30
+dni	mte:Ncmpg	dan
+,	mte:Z	,
+torej	mte:Rgp	torej
+do	mte:Sg	do
+sobote	mte:Ncfsg	sobota
+,	mte:Z	,
+DZS	mte:Npmsn	DZS
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+jo	mte:Pp3fsa--y	on
+bo	mte:Va-f3s-n	biti
+obnovil	mte:Vmep-sm	obnoviti
+,	mte:Z	,
+če	mte:Cs	če
+je	mte:Pp3fsg--y	on
+Kad	mte:Ncmsn	kad
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+ponudbi	mte:Ncfsl	ponudba
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+sprejel	mte:Vmep-sm	sprejeti
+.	mte:Z	.
+O	mte:Sl	o
+umiku	mte:Ncmsl	umik
+lastnih	mte:Agpfpg	lasten
+delnic	mte:Ncfpg	delnica
+so	mte:Va-r3p-n	biti
+delničarji	mte:Ncmpn	delničar
+Term	mte:Npfsg	Term
+Čatež	mte:Npmsn	Čatež
+odločali	mte:Vmpp-pm	odločati
+že	mte:Q	že
+na	mte:Sl	na
+oktobrski	mte:Agpfsl	oktobrski
+skupščini	mte:Ncfsl	skupščina
+,	mte:Z	,
+a	mte:Cc	a
+umik	mte:Ncmsn	umik
+delnic	mte:Ncfpg	delnica
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+izglasovan	mte:Appmsnn	izglasovan
+.	mte:Z	.
+V	mte:Sl	v
+DZS	mte:Npmsl	DZS
+so	mte:Va-r3p-n	biti
+takrat	mte:Rgp	takrat
+zatrdili	mte:Vmep-pm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+skupščinski	mte:Agpmsny	skupščinski
+sklep	mte:Ncmsn	sklep
+nezakonit	mte:Agpmsnn	nezakonit
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+izpodbojen	mte:Appmsnn	izpodbojen
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Term	mte:Ncfsg	term
+Mladen	mte:Npmsn	Mladen
+Kučiš	mte:Npmsn	Kučiš
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+v	mte:Sl	v
+družbi	mte:Ncfsl	družba
+zdaj	mte:Rgp	zdaj
+preučili	mte:Vmep-pm	preučiti
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+narediti	mte:Vmen	narediti
+z	mte:Si	z
+omenjenimi	mte:Appfpi	omenjen
+delnicami	mte:Ncfpi	delnica
+.	mte:Z	.
+V	mte:Sl	v
+DZS	mte:Npmsl	DZS
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+oktobrski	mte:Agpfsl	oktobrski
+skupščini	mte:Ncfsl	skupščina
+poudarili	mte:Vmep-pm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+umik	mte:Ncmsn	umik
+lastnih	mte:Agpfpg	lasten
+delnic	mte:Ncfpg	delnica
+zakonska	mte:Agpfsn	zakonski
+obveza	mte:Ncfsn	obveza
+Term	mte:Ncfsg	term
+Čatež	mte:Npmsn	Čatež
+,	mte:Z	,
+ker	mte:Cs	ker
+te	mte:Pd-fpn	ta
+lastnih	mte:Agpfpg	lasten
+delnic	mte:Ncfpg	delnica
+niso	mte:Va-r3p-y	biti
+odsvojile	mte:Vmep-pf	odsvojiti
+v	mte:Sl	v
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+od	mte:Sg	od
+njihove	mte:Ps3fsgp	njihov
+pridobitve	mte:Ncfsg	pridobitev
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+Termam	mte:Ncfsd	termam
+Čatež	mte:Npmsn	Čatež
+od	mte:Sg	od
+avgusta	mte:Ncmsg	avgust
+prepovedano	mte:Appnsn	prepovedan
+razpolagati	mte:Vmpn	razpolagati
+z	mte:Si	z
+lastnimi	mte:Agpfpi	lasten
+delnicami	mte:Ncfpi	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Marine	mte:Npmsn	Marine
+Portorož	mte:Npmsn	Portorož
+in	mte:Cc	in
+TPP	mte:Npmsn	TPP
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+Terme	mte:Ncfpn	terme
+Čatež	mte:Npmsn	Čatež
+temu	mte:Pd-nsd	ta
+ugovarjale	mte:Vmpp-pf	ugovarjati
+.	mte:Z	.
+Okrožno	mte:Agpnsn	okrožen
+sodišče	mte:Ncnsn	sodišče
+v	mte:Sl	v
+Krškem	mte:Npnsl	Krško
+jim	mte:Pp3mpd--y	on
+je	mte:Va-r3s-n	biti
+oktobra	mte:Ncmsg	oktober
+ugodilo	mte:Vmep-sn	ugoditi
+in	mte:Cc	in
+razveljavilo	mte:Vmep-sn	razveljaviti
+začasno	mte:Agpfsa	začasen
+uredbo	mte:Ncfsa	uredba
+o	mte:Sl	o
+prepovedi	mte:Ncfsl	prepoved
+razpolaganja	mte:Ncnsg	razpolaganje
+z	mte:Si	z
+omenjenim	mte:Appmsi	omenjen
+paketom	mte:Ncmsi	paket
+delnic	mte:Ncfpg	delnica

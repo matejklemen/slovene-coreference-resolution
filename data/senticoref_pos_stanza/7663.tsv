@@ -1,553 +1,616 @@
-token	tag
-Predlog	Ncmsan
-zakona	Ncmsg
-naj	Q
-bi	Va-c
-podpisali	Vmep-pm
-tudi	Q
-poslanci	Ncmpn
-Liste	Ncfsg
-Virant	Npmsn
-Tokrat	Rgp
-je	Va-r3s-n
-prvopodpisani	Appmsny
-pod	Sa
-predlog	Ncmsan
-zakona	Ncmsg
-,	Z
-s	Si
-katerim	Pq-msi
-bi	Va-c
-država	Ncfsn
-jamčila	Vmep-sf
-za	Sa
-440	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-vredno	Agpnsa
-posojilo	Ncnsa
-,	Z
-najeto	Ncfsa
-pri	Sl
-EIB	Npmsl
--	Z
-ju	Pp3mda--y
-,	Z
-poslanec	Ncmsn
-SD	Npmsn
--	Z
-ja	Q
-Srečko	Npmsn
-Meh	Npmsn
-.	Z
-Potem	Rgp
-ko	Cs
-je	Va-r3s-n
-DZ	Npmsn
-oktobra	Ncmsg
-lani	Rgp
-predlogu	Ncmsd
-zakona	Ncmsg
-o	Sl
-poroštvu	Ncnsl
-za	Sa
-Teš	Npmsan
-6	Mdc
-prižgal	Vmep-sm
-rdečo	Agpfsa
-luč	Ncfsa
-,	Z
-je	Va-r3s-n
-besedilo	Ncnsa
-o	Sl
-poroštvu	Ncnsl
-znova	Rgp
-v	Sl
-parlamentarni	Agpfsl
-proceduri	Ncfsl
-.	Z
-Meh	Ncmsn
-je	Va-r3s-n
-namreč	Cc
-prepričan	Appmsnn
-,	Z
-da	Cs
-je	Va-r3s-n
-zdaj	Rgp
-čas	Ncmsn
-za	Sa
-odločitev	Ncfsa
-.	Z
-Koalicijski	Agpmpn
-poslanci	Ncmpn
-Mehu	Npmsd
-zatrdili	Vmep-pm
-,	Z
-da	Cs
-podpirajo	Vmpr3p
-projekt	Ncmsan
-Teš	Npmsg
-Verjamem	Vmbr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-volja	Ncfsn
-vseh	Pg-fpg
-parlamentarnih	Agpfpg
-strank	Ncfpg
-resna	Agpfsn
-,	Z
-tudi	Q
-vsi	Pg-mpn
-so	Va-r3p-n
-rekli	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-podprli	Vmep-pm
-izgradnjo	Ncfsa
-šestega	Mlomsg
-bloka	Ncmsg
-,	Z
-zdaj	Rgp
-pa	Cc
-je	Va-r3s-n
-čas	Ncmsn
-,	Z
-da	Cs
-se	Px------y
-odločijo	Vmer3p
-,	Z
-je	Va-r3s-n
-za	Sa
-STA	Va-r3d-n
-pojasnil	Vmep-sm
-Meh	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-predlog	Ncmsan
-zakona	Ncmsg
-,	Z
-pod	Sa
-katerega	Pq-msa
-so	Va-r3p-n
-se	Px------y
-podpisali	Vmep-pm
-še	Q
-Jožef	Npmsn
-Kavtičnik	Npmsn
-Pozitivna	Agpfsn
-Slovenija	Npfsn
-ter	Cc
-Mirko	Npmsn
-Brulc	Npmsn
-in	Cc
-Samo	Q
-Bevk	Npmsn
-oba	Pg-mdn
-SD	Npmdn
-,	Z
-v	Sa
-parlamentarno	Agpfsa
-proceduro	Ncfsa
-vložil	Vmep-sm
-v	Sl
-začetku	Ncmsl
-meseca	Ncmsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-Meh	Ncmsn
-,	Z
-so	Va-r3p-n
-pridobili	Vmep-pm
-tudi	Q
-podpise	Ncmpa
-poslancev	Ncmpg
-iz	Sg
-Državljanske	Agpfsg
-liste	Ncfsg
-Gregorja	Npmsg
-Viranta	Npmsg
-.	Z
-Mislim	Vmpr1s
-,	Z
-da	Cs
-imamo	Vmpr1p-n
-že	Q
-podpise	Ncmpa
-tudi	Q
-iz	Sg
-Virantove	Aspfsg
-liste	Ncfsg
-,	Z
-tako	Cc
-da	Cs
-bomo	Va-f1p-n
-imeli	Vmpp-pm
-23	Mdc
-podpisov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-potrebni	Agpmpn
-za	Sa
-hitro	Agpfsa
-obravnavo	Ncfsa
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-in	Cc
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-lahko	Rgp
-obravnavo	Ncfsa
-izpeljejo	Vmer3p
-,	Z
-ko	Cs
-bodo	Va-f3p-n
-imeli	Vmpp-pm
-potrebne	Agpmpa
-podpise	Ncmpa
-.	Z
-Meh	Vmep-sm
-se	Px------y
-je	Va-r3s-n
-o	Sl
-predlogu	Ncmsl
-zakona	Ncmsg
-,	Z
-kot	Cs
-je	Va-r3s-n
-povedal	Vmep-sm
-,	Z
-sicer	Q
-pogovarjal	Vmpp-sm
-z	Si
-vsemi	Pg-mpi
-koalicijskimi	Agpmpi
-poslanci	Ncmpi
-.	Z
-Vsi	Pg-mpn
-so	Va-r3p-n
-rekli	Vmep-pm
-,	Z
-da	Cs
-podpirajo	Vmpr3p
-projekt	Ncmsan
-Termoelektrarne	Agpfsg
-Šoštanj	Npfsg
-Teš	Npfsg
-,	Z
-problem	Ncmsn
-pa	Cc
-je	Va-r3s-n
-v	Sl
-načinu	Ncmsl
-reševanja	Ncnsg
-zapleta	Ncmsg
-.	Z
-Po	Sl
-njegovih	Ps3nplsm
-pojasnilih	Ncnpl
-koalicijski	Agpmpn
-poslanci	Ncmpn
-pravijo	Vmbr3p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-na	Sa
-vlado	Ncfsa
-prišli	Vmep-pm
-predstavniki	Ncmpn
-HSE	Npfsg
--	Z
-ja	Q
-,	Z
-lastnika	Ncmsg
-Teša	Npmsg
-,	Z
-in	Cc
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-z	Si
-njimi	Pp3mpi
-pogovarjali	Vmpp-pm
-o	Sl
-načinu	Ncmsl
-reševanja	Ncnsg
-zapleta	Ncmsg
-.	Z
-Na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-je	Va-r3s-n
-dobil	Vmep-sm
-zagotovilo	Ncnsa
-za	Sa
-podporo	Ncfsa
-predlogu	Ncmsd
-zakona	Ncmsg
-,	Z
-pa	Cc
-je	Va-r3s-n
-Meh	Ncmsn
-odgovoril	Vmep-sm
-Če	Cs
-ga	Pp3msa--y
-ni	Va-r3s-y
-bilo	Va-p-sn
-lani	Rgp
-,	Z
-ga	Pp3msa--y
-tudi	Q
-zdaj	Rgp
-ni	Va-r3s-y
-.	Z
-Teš	Npmsn
-je	Va-r3s-n
-sicer	Q
-pri	Sl
-EIB	Npfsl
-najel	Vmep-sm
-tudi	Q
-110	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-posojila	Ncnsg
-Po	Sl
-predlogu	Ncmsl
-zakona	Ncmsg
-bo	Va-f3s-n
-premija	Ncfsn
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-Teš	Npmsn
-plača	Vmer3s
-za	Sa
-poroštvo	Ncnsa
-državi	Ncfsd
-,	Z
-vsaj	Q
-tako	Rgp
-visoka	Agpfsn
-,	Z
-da	Cs
-bo	Va-f3s-n
-ustrezala	Vmpp-sf
-primerljivi	Agpfsd
-poroštveni	Agpfsd
-premiji	Ncfsd
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-mogoče	Agpnsn
-najti	Vmen
-na	Sl
-finančnih	Agpmpl
-trgih	Ncmpl
-.	Z
-Če	Cs
-Teš	Npmsn
-ne	Q
-bo	Va-f3s-n
-poravnal	Vmep-sm
-svojih	Px-fpg
-veljavnih	Agpfpg
-in	Cc
-zapadlih	Appfpg
-obveznosti	Ncfpg
-iz	Sg
-posojila	Ncnsg
-,	Z
-bi	Va-c
-jih	Pp3mpa--y
-na	Sa
-pisni	Agpmsay
-poziv	Ncmsan
-Evropske	Agpfsg
-investicijske	Agpfsg
-banke	Ncfsg
-EIB	Npfsg
-plačala	Vmep-sf
-država	Ncfsn
-.	Z
-Izdano	Appnsn
-poroštvo	Ncnsn
-iz	Sg
-tega	Pd-msg
-zakona	Ncmsg
-pa	Cc
-bi	Va-c
-se	Px------y
-štelo	Vmpp-sn
-v	Sa
-kvoto	Ncfsa
-poroštev	Ncfpg
-,	Z
-določeno	Appnsn
-z	Si
-zakonom	Ncmsi
-,	Z
-ki	Cs
-ureja	Vmpr3s
-izvrševanje	Ncnsa
-državnega	Agpmsg
-proračuna	Ncmsg
-.	Z
-Teš	Npmsn
-je	Va-r3s-n
-sicer	Q
-pri	Sl
-EIB	Npfsl
-najel	Vmep-sm
-tudi	Q
-110	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-posojila	Ncnsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-zavarovan	Appmsnn
-z	Si
-bančno	Agpfsi
-garancijo	Ncfsi
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-je	Va-r3s-n
-elektrarna	Ncfsn
-za	Sa
-financiranje	Ncnsa
-Teša	Npmsg
-6	Mdc
-,	Z
-ki	Cs
-je	Va-r3s-n
-zdaj	Rgp
-ocenjen	Appmsnn
-na	Sa
-1,3	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-pridobila	Vmep-sf
-še	Q
-200	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-posojila	Ncnsg
-pri	Sl
-Evropski	Agpfsl
-banki	Ncfsl
-za	Sa
-obnovo	Ncfsa
-in	Cc
-razvoj	Ncmsan
-,	Z
-ki	Cs
-sicer	Q
-ni	Va-r3s-y
-zahtevala	Vmbp-sf
-državnega	Agpnsg
-poroštva	Ncnsg
-.	Z
-Tretji	Mlomsn
-člen	Ncmsn
-poziva	Vmpr3s
-k	Sd
-razglasitvi	Ncfsd
-moratorija	Ncmsg
-na	Sa
-vse	Pg-fpa
-aktivnosti	Ncfpa
-Skupnost	Ncfsa
-aktivnih	Agpmpg
-državljanov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-poimenovali	Vmep-pm
-Tretji	Mlomsn
-člen	Ncmsn
-in	Cc
-ki	Cs
-so	Va-r3p-n
-na	Sl
-svoji	Px-fsl
-spletni	Agpfsl
-strani	Ncfsl
-objavili	Vmep-pm
-tudi	Q
-peticijo	Ncfsa
-k	Sd
-etični	Agpfsd
-odločitvi	Ncfsd
-o	Sl
-nadaljevanju	Ncnsl
-gradnje	Ncfsg
-Teša	Npmsg
-6	Mdc
-,	Z
-je	Va-r3s-n
-zato	Rgp
-poslancem	Ncmpd
-izročila	Vmep-sf
-poziv	Ncmsan
-k	Sd
-razglasitvi	Ncfsd
-moratorija	Ncmsg
-na	Sa
-vse	Pg-fpa
-aktivnosti	Ncfpa
-in	Cc
-odločanje	Ncnsa
-o	Sl
-projektu	Ncmsl
-.	Z
-Poziv	Ncmsn
-je	Va-r3s-n
-v	Sl
-dobrem	Agpmsl
-tednu	Ncmsl
-podpisalo	Vmep-sn
-več	Rgc
-kot	Cs
-1100	Mdc
-državljanov	Ncmpg
-.	Z
-Z	Si
-izročitvijo	Ncfsi
-peticije	Ncfsg
-skupnost	Ncfsn
-aktivnih	Agpmpg
-državljanov	Ncmpg
-poslanke	Ncfsg
-in	Cc
-poslance	Ncmpa
-poziva	Vmpr3s
-,	Z
-naj	Cs
-glasujejo	Vmbr3p
-proti	Sd
-sprejetju	Ncnsd
-zakona	Ncmsg
-o	Sl
-državnem	Agpnsl
-poroštvu	Ncnsl
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-Tretjega	Mlomsg
-člena	Ncmsg
-.	Z
+token	tag	lemma
+Predlog	mte:Ncmsan	predlog
+zakona	mte:Ncmsg	zakon
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+podpisali	mte:Vmep-pm	podpisati
+tudi	mte:Q	tudi
+poslanci	mte:Ncmpn	poslanec
+Liste	mte:Ncfsg	list
+Virant	mte:Npmsn	Virant
+Tokrat	mte:Rgp	tokrat
+je	mte:Va-r3s-n	biti
+prvopodpisani	mte:Appmsny	prvopodpisan
+pod	mte:Sa	pod
+predlog	mte:Ncmsan	predlog
+zakona	mte:Ncmsg	zakon
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+jamčila	mte:Vmep-sf	jamčiti
+za	mte:Sa	za
+440	mte:Mdc	440
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+vredno	mte:Agpnsa	vreden
+posojilo	mte:Ncnsa	posojilo
+,	mte:Z	,
+najeto	mte:Ncfsa	najeta
+pri	mte:Sl	pri
+EIB	mte:Npmsl	EIB
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+,	mte:Z	,
+poslanec	mte:Ncmsn	poslanec
+SD	mte:Npmsn	SD
+-	mte:Z	-
+ja	mte:Q	ja
+Srečko	mte:Npmsn	Srečko
+Meh	mte:Npmsn	Meh
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+DZ	mte:Npmsn	DZ
+oktobra	mte:Ncmsg	oktober
+lani	mte:Rgp	lani
+predlogu	mte:Ncmsd	predlog
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+poroštvu	mte:Ncnsl	poroštvo
+za	mte:Sa	za
+Teš	mte:Npmsan	Teš
+6	mte:Mdc	6
+prižgal	mte:Vmep-sm	prižgati
+rdečo	mte:Agpfsa	rdeč
+luč	mte:Ncfsa	luč
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+besedilo	mte:Ncnsa	besedilo
+o	mte:Sl	o
+poroštvu	mte:Ncnsl	poroštvo
+znova	mte:Rgp	znova
+v	mte:Sl	v
+parlamentarni	mte:Agpfsl	parlamentaren
+proceduri	mte:Ncfsl	procedur
+.	mte:Z	.
+Meh	mte:Ncmsn	Meh
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+čas	mte:Ncmsn	čas
+za	mte:Sa	za
+odločitev	mte:Ncfsa	odločitev
+.	mte:Z	.
+Koalicijski	mte:Agpmpn	koalicijski
+poslanci	mte:Ncmpn	poslanec
+Mehu	mte:Npmsd	Mehu
+zatrdili	mte:Vmep-pm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+podpirajo	mte:Vmpr3p	podpirati
+projekt	mte:Ncmsan	projekt
+Teš	mte:Npmsg	Teš
+Verjamem	mte:Vmbr1s	verjeti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+volja	mte:Ncfsn	volja
+vseh	mte:Pg-fpg	ves
+parlamentarnih	mte:Agpfpg	parlamentaren
+strank	mte:Ncfpg	stranka
+resna	mte:Agpfsn	resen
+,	mte:Z	,
+tudi	mte:Q	tudi
+vsi	mte:Pg-mpn	ves
+so	mte:Va-r3p-n	biti
+rekli	mte:Vmep-pm	reči
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+podprli	mte:Vmep-pm	podpreti
+izgradnjo	mte:Ncfsa	izgradnja
+šestega	mte:Mlomsg	šesti
+bloka	mte:Ncmsg	blok
+,	mte:Z	,
+zdaj	mte:Rgp	zdaj
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+čas	mte:Ncmsn	čas
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+odločijo	mte:Vmer3p	odločiti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+Meh	mte:Ncmsn	Meh
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+predlog	mte:Ncmsan	predlog
+zakona	mte:Ncmsg	zakon
+,	mte:Z	,
+pod	mte:Sa	pod
+katerega	mte:Pq-msa	kateri
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+podpisali	mte:Vmep-pm	podpisati
+še	mte:Q	še
+Jožef	mte:Npmsn	Jožef
+Kavtičnik	mte:Npmsn	Kavtičnik
+Pozitivna	mte:Agpfsn	pozitiven
+Slovenija	mte:Npfsn	Slovenija
+ter	mte:Cc	ter
+Mirko	mte:Npmsn	Mirko
+Brulc	mte:Npmsn	Brulc
+in	mte:Cc	in
+Samo	mte:Q	samo
+Bevk	mte:Npmsn	Bevk
+oba	mte:Pg-mdn	oba
+SD	mte:Npmdn	SD
+,	mte:Z	,
+v	mte:Sa	v
+parlamentarno	mte:Agpfsa	parlamentaren
+proceduro	mte:Ncfsa	procedura
+vložil	mte:Vmep-sm	vložiti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+meseca	mte:Ncmsg	mesec
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Meh	mte:Ncmsn	Meh
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pridobili	mte:Vmep-pm	pridobiti
+tudi	mte:Q	tudi
+podpise	mte:Ncmpa	podpis
+poslancev	mte:Ncmpg	poslanec
+iz	mte:Sg	iz
+Državljanske	mte:Agpfsg	državljanski
+liste	mte:Ncfsg	list
+Gregorja	mte:Npmsg	Gregor
+Viranta	mte:Npmsg	Virant
+.	mte:Z	.
+Mislim	mte:Vmpr1s	misliti
+,	mte:Z	,
+da	mte:Cs	da
+imamo	mte:Vmpr1p-n	imeti
+že	mte:Q	že
+podpise	mte:Ncmpa	podpis
+tudi	mte:Q	tudi
+iz	mte:Sg	iz
+Virantove	mte:Aspfsg	Virantov
+liste	mte:Ncfsg	list
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+bomo	mte:Va-f1p-n	biti
+imeli	mte:Vmpp-pm	imeti
+23	mte:Mdc	23
+podpisov	mte:Ncmpg	podpis
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+potrebni	mte:Agpmpn	potreben
+za	mte:Sa	za
+hitro	mte:Agpfsa	hiter
+obravnavo	mte:Ncfsa	obravnava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+in	mte:Cc	in
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+lahko	mte:Rgp	lahko
+obravnavo	mte:Ncfsa	obravnava
+izpeljejo	mte:Vmer3p	izpeljati
+,	mte:Z	,
+ko	mte:Cs	ko
+bodo	mte:Va-f3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+potrebne	mte:Agpmpa	potreben
+podpise	mte:Ncmpa	podpis
+.	mte:Z	.
+Meh	mte:Vmep-sm	meti
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+predlogu	mte:Ncmsl	predlog
+zakona	mte:Ncmsg	zakon
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+sicer	mte:Q	sicer
+pogovarjal	mte:Vmpp-sm	pogovarjati
+z	mte:Si	z
+vsemi	mte:Pg-mpi	ves
+koalicijskimi	mte:Agpmpi	koalicijski
+poslanci	mte:Ncmpi	poslanec
+.	mte:Z	.
+Vsi	mte:Pg-mpn	ves
+so	mte:Va-r3p-n	biti
+rekli	mte:Vmep-pm	reči
+,	mte:Z	,
+da	mte:Cs	da
+podpirajo	mte:Vmpr3p	podpirati
+projekt	mte:Ncmsan	projekt
+Termoelektrarne	mte:Agpfsg	termoelektraren
+Šoštanj	mte:Npfsg	Šoštanj
+Teš	mte:Npfsg	Teš
+,	mte:Z	,
+problem	mte:Ncmsn	problem
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+načinu	mte:Ncmsl	način
+reševanja	mte:Ncnsg	reševanje
+zapleta	mte:Ncmsg	zaplet
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3nplsm	njegov
+pojasnilih	mte:Ncnpl	pojasnilo
+koalicijski	mte:Agpmpn	koalicijski
+poslanci	mte:Ncmpn	poslanec
+pravijo	mte:Vmbr3p	praviti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+na	mte:Sa	na
+vlado	mte:Ncfsa	vlada
+prišli	mte:Vmep-pm	priti
+predstavniki	mte:Ncmpn	predstavnik
+HSE	mte:Npfsg	HSE
+-	mte:Z	-
+ja	mte:Q	ja
+,	mte:Z	,
+lastnika	mte:Ncmsg	lastnik
+Teša	mte:Npmsg	Teša
+,	mte:Z	,
+in	mte:Cc	in
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+pogovarjali	mte:Vmpp-pm	pogovarjati
+o	mte:Sl	o
+načinu	mte:Ncmsl	način
+reševanja	mte:Ncnsg	reševanje
+zapleta	mte:Ncmsg	zaplet
+.	mte:Z	.
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+dobil	mte:Vmep-sm	dobiti
+zagotovilo	mte:Ncnsa	zagotovilo
+za	mte:Sa	za
+podporo	mte:Ncfsa	podpora
+predlogu	mte:Ncmsd	predlog
+zakona	mte:Ncmsg	zakon
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Meh	mte:Ncmsn	Meh
+odgovoril	mte:Vmep-sm	odgovoriti
+Če	mte:Cs	če
+ga	mte:Pp3msa--y	on
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+lani	mte:Rgp	lani
+,	mte:Z	,
+ga	mte:Pp3msa--y	on
+tudi	mte:Q	tudi
+zdaj	mte:Rgp	zdaj
+ni	mte:Va-r3s-y	biti
+.	mte:Z	.
+Teš	mte:Npmsn	Teš
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+pri	mte:Sl	pri
+EIB	mte:Npfsl	EIB
+najel	mte:Vmep-sm	najeti
+tudi	mte:Q	tudi
+110	mte:Mdc	110
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+posojila	mte:Ncnsg	posojilo
+Po	mte:Sl	po
+predlogu	mte:Ncmsl	predlog
+zakona	mte:Ncmsg	zakon
+bo	mte:Va-f3s-n	biti
+premija	mte:Ncfsn	premij
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+Teš	mte:Npmsn	Teš
+plača	mte:Vmer3s	plačati
+za	mte:Sa	za
+poroštvo	mte:Ncnsa	poroštvo
+državi	mte:Ncfsd	država
+,	mte:Z	,
+vsaj	mte:Q	vsaj
+tako	mte:Rgp	tako
+visoka	mte:Agpfsn	visok
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+ustrezala	mte:Vmpp-sf	ustrezati
+primerljivi	mte:Agpfsd	primerljiv
+poroštveni	mte:Agpfsd	poroštven
+premiji	mte:Ncfsd	premija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+mogoče	mte:Agpnsn	mogoč
+najti	mte:Vmen	najti
+na	mte:Sl	na
+finančnih	mte:Agpmpl	finančen
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+Če	mte:Cs	če
+Teš	mte:Npmsn	Teš
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+poravnal	mte:Vmep-sm	poravnati
+svojih	mte:Px-fpg	svoj
+veljavnih	mte:Agpfpg	veljaven
+in	mte:Cc	in
+zapadlih	mte:Appfpg	zapadel
+obveznosti	mte:Ncfpg	obveznost
+iz	mte:Sg	iz
+posojila	mte:Ncnsg	posojilo
+,	mte:Z	,
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+na	mte:Sa	na
+pisni	mte:Agpmsay	pisen
+poziv	mte:Ncmsan	poziv
+Evropske	mte:Agpfsg	evropski
+investicijske	mte:Agpfsg	investicijski
+banke	mte:Ncfsg	banka
+EIB	mte:Npfsg	EIB
+plačala	mte:Vmep-sf	plačati
+država	mte:Ncfsn	država
+.	mte:Z	.
+Izdano	mte:Appnsn	izdan
+poroštvo	mte:Ncnsn	poroštvo
+iz	mte:Sg	iz
+tega	mte:Pd-msg	ta
+zakona	mte:Ncmsg	zakon
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+štelo	mte:Vmpp-sn	šteti
+v	mte:Sa	v
+kvoto	mte:Ncfsa	kvota
+poroštev	mte:Ncfpg	poroštvo
+,	mte:Z	,
+določeno	mte:Appnsn	določen
+z	mte:Si	z
+zakonom	mte:Ncmsi	zakon
+,	mte:Z	,
+ki	mte:Cs	ki
+ureja	mte:Vmpr3s	urejati
+izvrševanje	mte:Ncnsa	izvrševanje
+državnega	mte:Agpmsg	državen
+proračuna	mte:Ncmsg	proračun
+.	mte:Z	.
+Teš	mte:Npmsn	Teš
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+pri	mte:Sl	pri
+EIB	mte:Npfsl	EIB
+najel	mte:Vmep-sm	najeti
+tudi	mte:Q	tudi
+110	mte:Mdc	110
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+posojila	mte:Ncnsg	posojilo
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zavarovan	mte:Appmsnn	zavarovan
+z	mte:Si	z
+bančno	mte:Agpfsi	bančen
+garancijo	mte:Ncfsi	garancija
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+elektrarna	mte:Ncfsn	elektrarna
+za	mte:Sa	za
+financiranje	mte:Ncnsa	financiranje
+Teša	mte:Npmsg	Teša
+6	mte:Mdc	6
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+ocenjen	mte:Appmsnn	ocenjen
+na	mte:Sa	na
+1,3	mte:Mdc	1,3
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+pridobila	mte:Vmep-sf	pridobiti
+še	mte:Q	še
+200	mte:Mdc	200
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+posojila	mte:Ncnsg	posojilo
+pri	mte:Sl	pri
+Evropski	mte:Agpfsl	evropski
+banki	mte:Ncfsl	banka
+za	mte:Sa	za
+obnovo	mte:Ncfsa	obnova
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+,	mte:Z	,
+ki	mte:Cs	ki
+sicer	mte:Q	sicer
+ni	mte:Va-r3s-y	biti
+zahtevala	mte:Vmbp-sf	zahtevati
+državnega	mte:Agpnsg	državen
+poroštva	mte:Ncnsg	poroštvo
+.	mte:Z	.
+Tretji	mte:Mlomsn	tretji
+člen	mte:Ncmsn	člen
+poziva	mte:Vmpr3s	pozivati
+k	mte:Sd	k
+razglasitvi	mte:Ncfsd	razglasitev
+moratorija	mte:Ncmsg	moratorija
+na	mte:Sa	na
+vse	mte:Pg-fpa	ves
+aktivnosti	mte:Ncfpa	aktivnost
+Skupnost	mte:Ncfsa	skupnost
+aktivnih	mte:Agpmpg	aktiven
+državljanov	mte:Ncmpg	državljan
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+poimenovali	mte:Vmep-pm	poimenovati
+Tretji	mte:Mlomsn	tretji
+člen	mte:Ncmsn	člen
+in	mte:Cc	in
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+svoji	mte:Px-fsl	svoj
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+objavili	mte:Vmep-pm	objaviti
+tudi	mte:Q	tudi
+peticijo	mte:Ncfsa	peticija
+k	mte:Sd	k
+etični	mte:Agpfsd	etičen
+odločitvi	mte:Ncfsd	odločitev
+o	mte:Sl	o
+nadaljevanju	mte:Ncnsl	nadaljevanje
+gradnje	mte:Ncfsg	gradnja
+Teša	mte:Npmsg	Teša
+6	mte:Mdc	6
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zato	mte:Rgp	zato
+poslancem	mte:Ncmpd	poslanec
+izročila	mte:Vmep-sf	izročilo
+poziv	mte:Ncmsan	poziv
+k	mte:Sd	k
+razglasitvi	mte:Ncfsd	razglasitev
+moratorija	mte:Ncmsg	moratorija
+na	mte:Sa	na
+vse	mte:Pg-fpa	ves
+aktivnosti	mte:Ncfpa	aktivnost
+in	mte:Cc	in
+odločanje	mte:Ncnsa	odločanje
+o	mte:Sl	o
+projektu	mte:Ncmsl	projekt
+.	mte:Z	.
+Poziv	mte:Ncmsn	poziv
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+dobrem	mte:Agpmsl	dober
+tednu	mte:Ncmsl	teden
+podpisalo	mte:Vmep-sn	podpisati
+več	mte:Rgc	več
+kot	mte:Cs	kot
+1100	mte:Mdc	1100
+državljanov	mte:Ncmpg	državljan
+.	mte:Z	.
+Z	mte:Si	z
+izročitvijo	mte:Ncfsi	izročitev
+peticije	mte:Ncfsg	peticija
+skupnost	mte:Ncfsn	skupnost
+aktivnih	mte:Agpmpg	aktiven
+državljanov	mte:Ncmpg	državljan
+poslanke	mte:Ncfsg	poslanka
+in	mte:Cc	in
+poslance	mte:Ncmpa	poslanec
+poziva	mte:Vmpr3s	pozivati
+,	mte:Z	,
+naj	mte:Cs	naj
+glasujejo	mte:Vmbr3p	glasovati
+proti	mte:Sd	proti
+sprejetju	mte:Ncnsd	sprejetje
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+državnem	mte:Agpnsl	državen
+poroštvu	mte:Ncnsl	poroštvo
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Tretjega	mte:Mlomsg	tretji
+člena	mte:Ncmsg	člen
+.	mte:Z	.
+Poziv	mte:Ncmsan	poziv
+k	mte:Sd	k
+sprejetju	mte:Ncnsd	sprejetje
+šestmesečnega	mte:Agpmsg	šestmesečen
+moratorija	mte:Ncmsg	moratorija
+na	mte:Sa	na
+odločanje	mte:Ncnsa	odločanje
+o	mte:Sl	o
+projektu	mte:Ncmsl	projekt
+Teš	mte:Npmsn	Teš
+6	mte:Mdc	6
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+poslance	mte:Ncmpa	poslanec
+naslovil	mte:Vmep-sm	nasloviti
+tudi	mte:Q	tudi
+konzorcij	mte:Ncmsn	konzorcija
+20	mte:Mdc	20
+nevladnih	mte:Agpfpg	nevladen
+organizacij	mte:Ncfpg	organizacija
+,	mte:Z	,
+neparlamentarnih	mte:Agpfpg	neparlamentaren
+strank	mte:Ncfpg	stranka
+in	mte:Cc	in
+društev	mte:Ncnpg	društvo
+,	mte:Z	,
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+Greenpeace	mte:Npmsn	Greenpeace
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+Umanotera	mte:Npfsn	Umanoter
+,	mte:Z	,
+Slovenski	mte:Agpmsny	slovenski
+E	mte:Ncmsn	E
+-	mte:Z	-
+forum	mte:Ncmsn	forum
+,	mte:Z	,
+Ekologi	mte:Ncmpn	ekolog
+brez	mte:Sg	brez
+meja	mte:Ncfpg	meja
+,	mte:Z	,
+Focus	mte:Npmsn	Focus
+,	mte:Z	,
+Inštitut	mte:Ncmsn	inštitut
+za	mte:Sa	za
+trajnostni	mte:Agpmsay	trajnosten
+razvoj	mte:Ncmsan	razvoj
+in	mte:Cc	in
+Stranka	mte:Ncfsn	stranka
+za	mte:Sa	za
+trajnostni	mte:Agpmsay	trajnosten
+razvoj	mte:Ncmsan	razvoj
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+Stranka	mte:Ncfsn	stranka
+mladih	mte:Agpnpg	mlad
+-	mte:Z	-
+zeleni	mte:Agpfsn	zelen
+Evrope	mte:Npfsg	Evropa
+in	mte:Cc	in
+Zares	mte:Rgp	zares

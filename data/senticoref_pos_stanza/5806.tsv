@@ -1,470 +1,489 @@
-token	tag
-Premier	Ncmsn
-Janez	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-notranjemu	Agpmsd
-ministru	Ncmsd
-Vinku	Npmsd
-Gorenaku	Npmsd
-in	Cc
-državnemu	Agpmsd
-tožilcu	Ncmsd
-Zvonku	Npmsd
-Fišerju	Npmsd
-predal	Vmep-sm
-poročilo	Ncnsa
-o	Sl
-stanju	Ncnsl
-v	Sl
-bančnem	Agpmsl
-sistemu	Ncmsl
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-pripravila	Vmep-sf
-Banka	Ncfsn
-Slovenije	Npfsg
-.	Z
-V	Sl
-Janševem	Aspmsl
-kabinetu	Ncmsl
-menijo	Vmpr3p
-,	Z
-da	Cs
-podatki	Ncmpn
-v	Sl
-poročilu	Ncnsl
-porajajo	Vmpr3p
-sume	Ncmpa
-oškodovanj	Appmsn
-.	Z
-Premier	Ncmsn
-Janez	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-notranjemu	Agpmsd
-ministru	Ncmsd
-Vinku	Npmsd
-Gorenaku	Npmsd
-in	Cc
-državnemu	Agpmsd
-tožilcu	Ncmsd
-Zvonku	Ncmsd
-Fišerju	Npmsd
-predal	Vmep-sm
-poročilo	Ncnsa
-o	Sl
-stanju	Ncnsl
-v	Sl
-bančnem	Agpmsl
-sistemu	Ncmsl
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-pripravila	Vmep-sf
-Banka	Ncfsn
-Slovenije	Npfsg
-.	Z
-V	Sl
-Janševem	Aspmsl
-kabinetu	Ncmsl
-menijo	Vmpr3p
-,	Z
-da	Cs
-podatki	Ncmpn
-v	Sl
-poročilu	Ncnsl
-porajajo	Vmpr3p
-sume	Ncmpa
-oškodovanj	Appmsnn
-.	Z
-Predsednik	Ncmsn
-vlade	Ncfsg
-Janez	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-poročilo	Ncnsa
-o	Sl
-stanju	Ncnsl
-v	Sl
-slovenskem	Agpmsl
-bančnem	Agpmsl
-sistemu	Ncmsl
-odstopil	Vmep-sm
-tudi	Q
-generalnemu	Agpmsd
-državnem	Agpmsd
-tožilcu	Ncmsd
-Zvonku	Ncmsd
-Fišerju	Npmsd
-in	Cc
-ministru	Ncmsd
-za	Sa
-notranje	Agpfpa
-zadeve	Ncfpa
-Vinku	Npmsd
-Gorenaku	Npmsd
-,	Z
-saj	Cc
-se	Px------y
-v	Sl
-njem	Pp3msl
-pojavljajo	Vmpr3p
-sumi	Rgp
-oškodovanj	Appmsnn
-.	Z
-Oba	Pg-mdn
-je	Va-r3s-n
-pozval	Vmep-sm
-,	Z
-naj	Cs
-čim	Rgp
-prej	Rgc
-raziščeta	Vmer3s
-navedene	Appmpa
-sume	Ncmpa
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-njegovega	Ps3msgsm
-kabineta	Ncmsg
-.	Z
-Predsednik	Ncmsn
-vlade	Ncfsg
-je	Va-r3s-n
-poročilo	Ncnsa
-o	Sl
-stanju	Ncnsl
-v	Sl
-bančnem	Agpmsl
-sistemu	Ncmsl
-prejel	Vmep-sm
-od	Sg
-Banke	Ncfsg
-Slovenije	Npfsg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-navedli	Vmep-pm
-v	Sl
-kabinetu	Ncmsl
-premiera	Ncmsg
-,	Z
-se	Px------y
-ob	Sl
-navedbah	Ncfpl
-in	Cc
-podatkih	Ncmpl
-v	Sl
-poročilu	Ncnsl
-porajajo	Vmpr3p
-sumi	Rgp
-oškodovanj	Appmsnn
-.	Z
-Koalicija	Ncfsn
-se	Px------y
-je	Va-r3s-n
-že	Q
-uskladila	Vmep-sf
-Guverner	Ncmsn
-Banke	Ncfsg
-Slovenije	Npfsg
-Marko	Npmsn
-Kranjec	Npmsn
-je	Va-r3s-n
-z	Si
-informacijo	Ncfsi
-o	Sl
-razmerah	Ncfpl
-v	Sl
-slovenskih	Agpfpl
-bankah	Ncfpl
-že	Q
-julija	Ncmsg
-seznanil	Vmep-sm
-poslance	Ncmpa
-,	Z
-nadzornik	Ncmsn
-bančnega	Agpmsg
-sistema	Ncmsg
-pa	Cc
-je	Va-r3s-n
-prispeval	Vmbp-sm
-tudi	Q
-podatke	Ncmpa
-o	Sl
-slabih	Agpfpl
-terjatvah	Ncfpl
-v	Sl
-slovenskih	Agpfpl
-bankah	Ncfpl
-za	Sa
-parlamentarno	Agpfsa
-delovno	Agpfsa
-skupino	Ncfsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-usklajevala	Vmpp-sf
-rešitev	Ncfsa
-za	Sa
-sanacijo	Ncfsa
-bank	Ncfpg
-.	Z
-Koalicija	Ncfsn
-se	Px------y
-je	Va-r3s-n
-sicer	Q
-uskladila	Vmep-sf
-o	Sl
-prenosu	Ncmsl
-slabih	Agpfpg
-terjatev	Ncfpg
-na	Sa
-posebno	Agpfsa
-agencijo	Ncfsa
-oziroma	Cc
-sklad	Ncmsan
-,	Z
-ministrstvo	Ncnsn
-pa	Cc
-naj	Q
-bi	Va-c
-v	Sl
-kratkem	Agpnsl
-pripravilo	Vmep-sn
-tudi	Q
-potrebne	Agpfpa
-zakonske	Agpfpa
-podlage	Ncfpa
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-podlaga	Ncfsn
-za	Sa
-nadaljnja	Agpnpa
-usklajevanja	Ncnpa
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-mora	Vmpr3s
-ministrstvo	Ncnsn
-pripraviti	Vmen
-tudi	Q
-informacije	Ncfpa
-o	Sl
-javnofinančnih	Agpmpl
-učinkih	Ncmpl
-takšne	Pd-fsg
-rešitve	Ncfsg
-,	Z
-za	Sa
-kar	Pr-nsa
-pa	Cc
-so	Va-r3p-n
-podlaga	Ncfsn
-natančni	Agpmpn
-podatki	Ncmpn
-o	Sl
-slabih	Agpfpl
-terjatvah	Ncfpl
-v	Sl
-treh	Mlcfpl
-največjih	Agsfpl
-slovenskih	Agpfpl
-bankah	Ncfpl
-.	Z
-Poleg	Sg
-podatkov	Ncmpg
-Banke	Ncfsg
-Slovenije	Npfsg
-potekajo	Vmpr3p
-tudi	Q
-skrbni	Agpmpn
-pregledi	Ncmpn
-v	Sl
-posameznih	Agpfpl
-bankah	Ncfpl
-.	Z
-Prve	Mlofpn
-ocene	Ncfpa
-pregleda	Ncmsg
-v	Sl
-Novi	Agpfsl
-Ljubljanski	Agpfsl
-banki	Ncfsl
-so	Va-r3p-n
-že	Q
-znane	Appfpn
-,	Z
-pregleda	Ncmsn
-pa	Cc
-potekata	Vmpr3d
-tudi	Q
-v	Sl
-Novi	Agpfsl
-Kreditni	Agpfsl
-banki	Ncfsl
-Maribor	Npmsn
-(	Z
-NKBM	Npmsn
-)	Z
-in	Cc
-Abanki	Ncfsl
-.	Z
-Vodilni	Agpmpn
-predstavniki	Ncmpn
-vlade	Ncfsg
-in	Cc
-tudi	Q
-politike	Ncfsg
-nasploh	Rgp
-ob	Sl
-pripravi	Ncfsl
-rešitve	Ncfsg
-za	Sa
-slabe	Agpfpa
-bančne	Agpfpa
-terjatve	Ncfpa
-,	Z
-ki	Cs
-bo	Va-f3s-n
-vsaj	Q
-v	Sl
-prvi	Mlofsl
-faz	Ncfsl
-najverjetneje	Rgs
-padla	Vmep-sf
-na	Sa
-pleča	Ncfsa
-davkoplačevalcev	Ncmpg
-,	Z
-izpostavljajo	Vmpr3p
-potrebo	Ncfsa
-po	Sl
-nujnosti	Ncfsl
-ugotavljanja	Ncnsg
-odgovornosti	Ncfsg
-za	Sa
-stanje	Ncnsa
-v	Sl
-bančnem	Agpmsl
-sistemu	Ncmsl
-.	Z
-Predmet	Ncmsan
-kritike	Ncfsg
-tudi	Q
-Banka	Ncfsn
-Slovenije	Npfsg
-Poleg	Sg
-Janše	Npfsg
-je	Va-r3s-n
-to	Pd-nsa
-ob	Sl
-nedavnih	Agpfpl
-kriminalističnih	Agpfpl
-preiskavah	Ncfpl
-v	Sl
-NKBM	Npfsl
-med	Si
-drugim	Mlpmsi
-poudaril	Vmep-sm
-tudi	Q
-finančni	Agpmsny
-minister	Ncmsn
-Janez	Npmsn
-Šušteršič	Npmsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-je	Va-r3s-n
-odkrivanje	Ncnsn
-nepravilnosti	Ncfsg
-v	Sl
-bankah	Ncfpl
-ključnega	Agpmsg
-pomena	Ncmsg
-pri	Sl
-vzpostavitvi	Ncfsl
-ponovnega	Agpnsg
-zaupanja	Ncnsg
-javnosti	Ncfsg
-v	Sa
-bančni	Agpmsay
-sistem	Ncmsan
-.	Z
-Zaradi	Sg
-nakopičenih	Appfpg
-slabih	Agpfpg
-terjatev	Ncfpg
-in	Cc
-sumov	Ncfpg
-nepravilnosti	Ncfsg
-v	Sl
-bankah	Ncfpl
-je	Va-r3s-n
-bila	Va-p-sf
-predmet	Ncmsn
-kritike	Ncfsg
-tudi	Q
-Banka	Ncfsn
-Slovenije	Npfsg
-,	Z
-češ	Q
-da	Cs
-ni	Va-r3s-y
-ustrezno	Rgp
-opravila	Vmep-sf
-nalogo	Ncfsa
-bančnega	Agpmsg
-nadzornika	Ncmsg
-.	Z
-Iz	Sg
-Banke	Ncfsg
-Slovenije	Npfsg
-so	Va-r3p-n
-nedavno	Rgp
-sporočili	Vmep-pm
-,	Z
-da	Cs
-bančni	Agpmsny
-nadzor	Ncmsan
-trajno	Agpfsa
-prisotnost	Ncfsa
-v	Sl
-banki	Ncfsl
-oziroma	Cc
-odobritve	Ncfsl
-vsake	Pg-fsg
-poslovne	Agpfsg
-odločitve	Ncfsg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-so	Va-r3p-n
-poudarili	Vmep-pm
-,	Z
-da	Cs
-morajo	Vmpr3p
-pri	Sl
-nadzoru	Ncmsl
-in	Cc
-morebitnih	Agpmpl
-ukrepih	Ncmpl
-paziti	Vmpn
-,	Z
-da	Cs
-banki	Ncfsn
-ne	Q
-naredijo	Vmer3p
-več	Q
-škode	Ncfsg
-kot	Cs
-koristi	Ncfpg
-.	Z
+token	tag	lemma
+Premier	mte:Ncmsn	premier
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+notranjemu	mte:Agpmsd	notranji
+ministru	mte:Ncmsd	minister
+Vinku	mte:Npmsd	Vinko
+Gorenaku	mte:Npmsd	Gorenak
+in	mte:Cc	in
+državnemu	mte:Agpmsd	državen
+tožilcu	mte:Ncmsd	tožilec
+Zvonku	mte:Npmsd	Zvonko
+Fišerju	mte:Npmsd	Fišer
+predal	mte:Vmep-sm	predati
+poročilo	mte:Ncnsa	poročilo
+o	mte:Sl	o
+stanju	mte:Ncnsl	stanje
+v	mte:Sl	v
+bančnem	mte:Agpmsl	bančen
+sistemu	mte:Ncmsl	sistem
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+pripravila	mte:Vmep-sf	pripraviti
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+V	mte:Sl	v
+Janševem	mte:Aspmsl	Janšev
+kabinetu	mte:Ncmsl	kabinet
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+podatki	mte:Ncmpn	podatek
+v	mte:Sl	v
+poročilu	mte:Ncnsl	poročilo
+porajajo	mte:Vmpr3p	porajati
+sume	mte:Ncmpa	suma
+oškodovanj	mte:Appmsn	oškodovanji
+.	mte:Z	.
+Premier	mte:Ncmsn	premier
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+notranjemu	mte:Agpmsd	notranji
+ministru	mte:Ncmsd	minister
+Vinku	mte:Npmsd	Vinko
+Gorenaku	mte:Npmsd	Gorenak
+in	mte:Cc	in
+državnemu	mte:Agpmsd	državen
+tožilcu	mte:Ncmsd	tožilec
+Zvonku	mte:Ncmsd	zvonek
+Fišerju	mte:Npmsd	Fišer
+predal	mte:Vmep-sm	predati
+poročilo	mte:Ncnsa	poročilo
+o	mte:Sl	o
+stanju	mte:Ncnsl	stanje
+v	mte:Sl	v
+bančnem	mte:Agpmsl	bančen
+sistemu	mte:Ncmsl	sistem
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+pripravila	mte:Vmep-sf	pripraviti
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+V	mte:Sl	v
+Janševem	mte:Aspmsl	Janšev
+kabinetu	mte:Ncmsl	kabinet
+menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+podatki	mte:Ncmpn	podatek
+v	mte:Sl	v
+poročilu	mte:Ncnsl	poročilo
+porajajo	mte:Vmpr3p	porajati
+sume	mte:Ncmpa	suma
+oškodovanj	mte:Appmsnn	oškodovanji
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+poročilo	mte:Ncnsa	poročilo
+o	mte:Sl	o
+stanju	mte:Ncnsl	stanje
+v	mte:Sl	v
+slovenskem	mte:Agpmsl	slovenski
+bančnem	mte:Agpmsl	bančen
+sistemu	mte:Ncmsl	sistem
+odstopil	mte:Vmep-sm	odstopiti
+tudi	mte:Q	tudi
+generalnemu	mte:Agpmsd	generalen
+državnem	mte:Agpmsd	državen
+tožilcu	mte:Ncmsd	tožilec
+Zvonku	mte:Ncmsd	zvonek
+Fišerju	mte:Npmsd	Fišer
+in	mte:Cc	in
+ministru	mte:Ncmsd	minister
+za	mte:Sa	za
+notranje	mte:Agpfpa	notranji
+zadeve	mte:Ncfpa	zadeva
+Vinku	mte:Npmsd	Vinko
+Gorenaku	mte:Npmsd	Gorenak
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+v	mte:Sl	v
+njem	mte:Pp3msl	on
+pojavljajo	mte:Vmpr3p	pojavljati
+sumi	mte:Rgp	sumiti
+oškodovanj	mte:Appmsnn	oškodovanji
+.	mte:Z	.
+Oba	mte:Pg-mdn	oba
+je	mte:Va-r3s-n	biti
+pozval	mte:Vmep-sm	pozvati
+,	mte:Z	,
+naj	mte:Cs	naj
+čim	mte:Rgp	čim
+prej	mte:Rgc	prej
+raziščeta	mte:Vmer3s	raziščeti
+navedene	mte:Appmpa	naveden
+sume	mte:Ncmpa	suma
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+njegovega	mte:Ps3msgsm	njegov
+kabineta	mte:Ncmsg	kabinet
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+je	mte:Va-r3s-n	biti
+poročilo	mte:Ncnsa	poročilo
+o	mte:Sl	o
+stanju	mte:Ncnsl	stanje
+v	mte:Sl	v
+bančnem	mte:Agpmsl	bančen
+sistemu	mte:Ncmsl	sistem
+prejel	mte:Vmep-sm	prejeti
+od	mte:Sg	od
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+navedli	mte:Vmep-pm	navesti
+v	mte:Sl	v
+kabinetu	mte:Ncmsl	kabinet
+premiera	mte:Ncmsg	premier
+,	mte:Z	,
+se	mte:Px------y	se
+ob	mte:Sl	ob
+navedbah	mte:Ncfpl	navedba
+in	mte:Cc	in
+podatkih	mte:Ncmpl	podatek
+v	mte:Sl	v
+poročilu	mte:Ncnsl	poročilo
+porajajo	mte:Vmpr3p	porajati
+sumi	mte:Rgp	sumiti
+oškodovanj	mte:Appmsnn	oškodovanji
+.	mte:Z	.
+Koalicija	mte:Ncfsn	koalicija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+uskladila	mte:Vmep-sf	uskladiti
+Guverner	mte:Ncmsn	guverner
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+Marko	mte:Npmsn	Marko
+Kranjec	mte:Npmsn	Kranjec
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+informacijo	mte:Ncfsi	informacija
+o	mte:Sl	o
+razmerah	mte:Ncfpl	razmera
+v	mte:Sl	v
+slovenskih	mte:Agpfpl	slovenski
+bankah	mte:Ncfpl	banka
+že	mte:Q	že
+julija	mte:Ncmsg	julij
+seznanil	mte:Vmep-sm	seznaniti
+poslance	mte:Ncmpa	poslanec
+,	mte:Z	,
+nadzornik	mte:Ncmsn	nadzornik
+bančnega	mte:Agpmsg	bančen
+sistema	mte:Ncmsg	sistem
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+prispeval	mte:Vmbp-sm	prispevati
+tudi	mte:Q	tudi
+podatke	mte:Ncmpa	podatek
+o	mte:Sl	o
+slabih	mte:Agpfpl	slab
+terjatvah	mte:Ncfpl	terjatva
+v	mte:Sl	v
+slovenskih	mte:Agpfpl	slovenski
+bankah	mte:Ncfpl	banka
+za	mte:Sa	za
+parlamentarno	mte:Agpfsa	parlamentaren
+delovno	mte:Agpfsa	deloven
+skupino	mte:Ncfsa	skupina
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+usklajevala	mte:Vmpp-sf	usklajevati
+rešitev	mte:Ncfsa	rešitev
+za	mte:Sa	za
+sanacijo	mte:Ncfsa	sanacija
+bank	mte:Ncfpg	banka
+.	mte:Z	.
+Koalicija	mte:Ncfsn	koalicija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+uskladila	mte:Vmep-sf	uskladiti
+o	mte:Sl	o
+prenosu	mte:Ncmsl	prenos
+slabih	mte:Agpfpg	slab
+terjatev	mte:Ncfpg	terjatev
+na	mte:Sa	na
+posebno	mte:Agpfsa	poseben
+agencijo	mte:Ncfsa	agencija
+oziroma	mte:Cc	oziroma
+sklad	mte:Ncmsan	sklad
+,	mte:Z	,
+ministrstvo	mte:Ncnsn	ministrstvo
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+kratkem	mte:Agpnsl	kratek
+pripravilo	mte:Vmep-sn	pripraviti
+tudi	mte:Q	tudi
+potrebne	mte:Agpfpa	potreben
+zakonske	mte:Agpfpa	zakonski
+podlage	mte:Ncfpa	podlaga
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+podlaga	mte:Ncfsn	podlaga
+za	mte:Sa	za
+nadaljnja	mte:Agpnpa	nadaljnji
+usklajevanja	mte:Ncnpa	usklajevanje
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+mora	mte:Vmpr3s	morati
+ministrstvo	mte:Ncnsn	ministrstvo
+pripraviti	mte:Vmen	pripraviti
+tudi	mte:Q	tudi
+informacije	mte:Ncfpa	informacija
+o	mte:Sl	o
+javnofinančnih	mte:Agpmpl	javnofinančen
+učinkih	mte:Ncmpl	učinek
+takšne	mte:Pd-fsg	takšen
+rešitve	mte:Ncfsg	rešitev
+,	mte:Z	,
+za	mte:Sa	za
+kar	mte:Pr-nsa	kar
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+podlaga	mte:Ncfsn	podlaga
+natančni	mte:Agpmpn	natančen
+podatki	mte:Ncmpn	podatek
+o	mte:Sl	o
+slabih	mte:Agpfpl	slab
+terjatvah	mte:Ncfpl	terjatva
+v	mte:Sl	v
+treh	mte:Mlcfpl	trije
+največjih	mte:Agsfpl	velik
+slovenskih	mte:Agpfpl	slovenski
+bankah	mte:Ncfpl	banka
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+podatkov	mte:Ncmpg	podatek
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+potekajo	mte:Vmpr3p	potekati
+tudi	mte:Q	tudi
+skrbni	mte:Agpmpn	skrben
+pregledi	mte:Ncmpn	pregled
+v	mte:Sl	v
+posameznih	mte:Agpfpl	posamezen
+bankah	mte:Ncfpl	banka
+.	mte:Z	.
+Prve	mte:Mlofpn	prvi
+ocene	mte:Ncfpa	ocena
+pregleda	mte:Ncmsg	pregled
+v	mte:Sl	v
+Novi	mte:Agpfsl	nov
+Ljubljanski	mte:Agpfsl	ljubljanski
+banki	mte:Ncfsl	banka
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+znane	mte:Appfpn	znan
+,	mte:Z	,
+pregleda	mte:Ncmsn	pregled
+pa	mte:Cc	pa
+potekata	mte:Vmpr3d	potekati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Novi	mte:Agpfsl	nov
+Kreditni	mte:Agpfsl	krediten
+banki	mte:Ncfsl	banka
+Maribor	mte:Npmsn	Maribor
+(	mte:Z	(
+NKBM	mte:Npmsn	NKBM
+)	mte:Z	)
+in	mte:Cc	in
+Abanki	mte:Ncfsl	abanka
+.	mte:Z	.
+Vodilni	mte:Agpmpn	vodilen
+predstavniki	mte:Ncmpn	predstavnik
+vlade	mte:Ncfsg	vlada
+in	mte:Cc	in
+tudi	mte:Q	tudi
+politike	mte:Ncfsg	politika
+nasploh	mte:Rgp	nasploh
+ob	mte:Sl	ob
+pripravi	mte:Ncfsl	priprava
+rešitve	mte:Ncfsg	rešitev
+za	mte:Sa	za
+slabe	mte:Agpfpa	slab
+bančne	mte:Agpfpa	bančen
+terjatve	mte:Ncfpa	terjatva
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+vsaj	mte:Q	vsaj
+v	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+faz	mte:Ncfsl	faza
+najverjetneje	mte:Rgs	verjetno
+padla	mte:Vmep-sf	pasti
+na	mte:Sa	na
+pleča	mte:Ncfsa	pleča
+davkoplačevalcev	mte:Ncmpg	davkoplačevalec
+,	mte:Z	,
+izpostavljajo	mte:Vmpr3p	izpostavljati
+potrebo	mte:Ncfsa	potreba
+po	mte:Sl	po
+nujnosti	mte:Ncfsl	nujnost
+ugotavljanja	mte:Ncnsg	ugotavljanje
+odgovornosti	mte:Ncfsg	odgovornost
+za	mte:Sa	za
+stanje	mte:Ncnsa	stanje
+v	mte:Sl	v
+bančnem	mte:Agpmsl	bančen
+sistemu	mte:Ncmsl	sistem
+.	mte:Z	.
+Predmet	mte:Ncmsan	predmet
+kritike	mte:Ncfsg	kritika
+tudi	mte:Q	tudi
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+Poleg	mte:Sg	poleg
+Janše	mte:Npfsg	Janše
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsa	ta
+ob	mte:Sl	ob
+nedavnih	mte:Agpfpl	nedaven
+kriminalističnih	mte:Agpfpl	kriminalističen
+preiskavah	mte:Ncfpl	preiskava
+v	mte:Sl	v
+NKBM	mte:Npfsl	NKBM
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+poudaril	mte:Vmep-sm	poudariti
+tudi	mte:Q	tudi
+finančni	mte:Agpmsny	finančen
+minister	mte:Ncmsn	minister
+Janez	mte:Npmsn	Janez
+Šušteršič	mte:Npmsn	Šušteršič
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+odkrivanje	mte:Ncnsn	odkrivanje
+nepravilnosti	mte:Ncfsg	nepravilnost
+v	mte:Sl	v
+bankah	mte:Ncfpl	banka
+ključnega	mte:Agpmsg	ključen
+pomena	mte:Ncmsg	pomen
+pri	mte:Sl	pri
+vzpostavitvi	mte:Ncfsl	vzpostavitev
+ponovnega	mte:Agpnsg	ponoven
+zaupanja	mte:Ncnsg	zaupanje
+javnosti	mte:Ncfsg	javnost
+v	mte:Sa	v
+bančni	mte:Agpmsay	bančen
+sistem	mte:Ncmsan	sistem
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+nakopičenih	mte:Appfpg	nakopičen
+slabih	mte:Agpfpg	slab
+terjatev	mte:Ncfpg	terjatev
+in	mte:Cc	in
+sumov	mte:Ncfpg	sum
+nepravilnosti	mte:Ncfsg	nepravilnost
+v	mte:Sl	v
+bankah	mte:Ncfpl	banka
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+predmet	mte:Ncmsn	predmet
+kritike	mte:Ncfsg	kritika
+tudi	mte:Q	tudi
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+češ	mte:Q	češ
+da	mte:Cs	da
+ni	mte:Va-r3s-y	biti
+ustrezno	mte:Rgp	ustrezno
+opravila	mte:Vmep-sf	opravilo
+nalogo	mte:Ncfsa	naloga
+bančnega	mte:Agpmsg	bančen
+nadzornika	mte:Ncmsg	nadzornik
+.	mte:Z	.
+Iz	mte:Sg	iz
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+so	mte:Va-r3p-n	biti
+nedavno	mte:Rgp	nedavno
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+bančni	mte:Agpmsny	bančen
+nadzor	mte:Ncmsan	nadzor
+trajno	mte:Agpfsa	trajen
+prisotnost	mte:Ncfsa	prisotnost
+v	mte:Sl	v
+banki	mte:Ncfsl	banka
+oziroma	mte:Cc	oziroma
+odobritve	mte:Ncfsl	odobritev
+vsake	mte:Pg-fsg	vsak
+poslovne	mte:Agpfsg	posloven
+odločitve	mte:Ncfsg	odločitev
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+so	mte:Va-r3p-n	biti
+poudarili	mte:Vmep-pm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+morajo	mte:Vmpr3p	morati
+pri	mte:Sl	pri
+nadzoru	mte:Ncmsl	nadzor
+in	mte:Cc	in
+morebitnih	mte:Agpmpl	morebiten
+ukrepih	mte:Ncmpl	ukrep
+paziti	mte:Vmpn	paziti
+,	mte:Z	,
+da	mte:Cs	da
+banki	mte:Ncfsn	banka
+ne	mte:Q	ne
+naredijo	mte:Vmer3p	narediti
+več	mte:Q	več
+škode	mte:Ncfsg	škoda
+kot	mte:Cs	kot
+koristi	mte:Ncfpg	korist
+.	mte:Z	.
+Pojasnili	mte:Vmep-pm	pojasniti
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+zadnjih	mte:Agpnpl	zadnji
+letih	mte:Ncnpl	leto
+v	mte:Sl	v
+številnih	mte:Agpmpl	številen
+primerih	mte:Ncmpl	primer
+sodelovali	mte:Vmpp-pm	sodelovati
+z	mte:Si	z
+drugimi	mte:Mlpmpi	drug
+regulatorji	mte:Ncmpi	regulator
+in	mte:Cc	in
+organi	mte:Ncmpi	organ
+pregona	mte:Ncmsg	pregon

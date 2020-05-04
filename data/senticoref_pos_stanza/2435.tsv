@@ -1,336 +1,364 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Slovensko	Agpnsn
-turistično	Agpnsn
-gospodarstvo	Ncnsn
-v	Sl
-prvih	Mlompl
-devetih	Mlc-pl
-mesecih	Ncmpl
-letošnjega	Agpnsg
-leta	Ncnsg
-beleži	Vmpr3s
-za	Sa
-dva	Mlcmda
-odstotka	Ncmda
-več	Rgc
-prenočitev	Ncfpg
-kot	Cs
-v	Sl
-enakem	Pi-nsl
-obdobju	Ncnsl
-lani	Rgp
-,	Z
-pozitiven	Agpmsnn
-trend	Ncmsn
-prenočitev	Ncfpg
-je	Va-r3s-n
-predvsem	Q
-zasluga	Ncfsn
-domačih	Agpmpg
-gostov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-opravili	Vmep-pm
-za	Sa
-pet	Mlc-pa
-odstotkov	Ncmpg
-več	Rgc
-nočitev	Ncfpg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-s	Sg
-Slovenske	Agpfsg
-turistične	Agpfsg
-organizacije	Ncfsg
-(	Z
-STO	Mlc-pn
-)	Z
-,	Z
-je	Va-r3s-n
-število	Ncnsn
-prenočitev	Ncfpg
-tujih	Agpmpg
-turistov	Ncmpg
-ostalo	Vmep-sn
-na	Sl
-enakem	Pi-msl
-nivoju	Ncmsl
-kot	Cs
-v	Sl
-enakem	Pi-nsl
-obdobju	Ncnsl
-lani	Rgp
-,	Z
-ko	Cs
-so	Va-r3p-n
-beležili	Vmpp-pm
-rekordno	Agpnsa
-turistično	Agpnsa
-leto	Ncnsa
-.	Z
-Po	Sl
-začasnih	Agpmpl
-podatkih	Ncmpl
-Statističnega	Agpmsg
-urada	Ncmsg
-RS	Npfsg
-je	Va-r3s-n
-bilo	Va-p-sn
-do	Sg
-konca	Ncmsg
-septembra	Ncmsg
-v	Sl
-turističnih	Agpmpl
-nastanitvenih	Agpmpl
-objektih	Ncmpl
-v	Sl
-Sloveniji	Npfsl
-evidentiranih	Appmpg
-2.229.570	Mdc
-prihodov	Ncmpg
-turistov	Ncmpg
-in	Cc
-6.914.892	Mdc
-prenočitev	Ncfpg
-.	Z
-Skupno	Agpnsn
-število	Ncnsn
-prihodov	Ncmpg
-je	Va-r3s-n
-v	Sl
-devetih	Mlc-pl
-mesecih	Ncmpl
-glede	Rgp
-na	Sa
-lani	Rgp
-poraslo	Appnsn
-za	Sa
-tri	Mlcmpa
-odstotke	Ncmpa
-.	Z
-Na	Sl
-prvem	Mlonsl
-mestu	Ncnsl
-se	Px------y
-med	Si
-tujimi	Agpmpi
-gosti	Ncmpi
-v	Sl
-prvih	Mlompl
-treh	Mlcmpl
-mesecih	Ncmpl
-ponovno	Rgp
-nahajajo	Vmpr3p
-italijanski	Agpmpn
-gosti	Ncmpn
-s	Si
-17	Mdc
-odstotki	Ncmpi
-,	Z
-sledijo	Vmpr3p
-jim	Pp3mpd--y
-turisti	Ncmpn
-iz	Sg
-Nemčije	Npfsg
-s	Si
-13	Mdc
-odstotki	Ncmpi
-,	Z
-na	Sl
-tretjem	Mlonsl
-mesto	Ncnsa
-so	Va-r3p-n
-turisti	Ncmpn
-iz	Sg
-Avstrije	Npfsg
-z	Si
-12	Mdc
-odstotki	Ncmpi
-,	Z
-sledijo	Vmpr3p
-pa	Cc
-gosti	Agpmpn
-s	Sg
-Hrvaške	Npfsg
-s	Si
-šestimi	Mlc-pi
-odstotki	Ncmpi
-.	Z
-S	Sg
-tradicionalnih	Agpmpg
-trgov	Ncmpg
-Nemčije	Npfsg
-,	Z
-Italije	Npfsg
-in	Cc
-Avstrije	Npfsg
-ob	Sl
-koncu	Ncmsl
-sezone	Ncfsg
-beležijo	Vmpr3p
-manjši	Agcmsay
-upad	Ncmsan
-obiska	Ncmsg
-glede	Rgp
-na	Sa
-enako	Pi-nsa
-obdobje	Ncnsa
-lani	Rgp
-,	Z
-za	Sa
-kar	Pr-nsa
-so	Va-r3p-n
-najverjetnejši	Agsmsny
-vzrok	Ncmsn
-povečane	Appfsg
-cene	Ncfsg
-hrane	Ncfsg
-in	Cc
-naftnih	Agpmpg
-derivatov	Ncmpg
-na	Sl
-trgu	Ncmsl
-Evropske	Agpfsg
-unije	Ncfsg
-kot	Cs
-tudi	Q
-na	Sl
-svetovnih	Agpmpl
-trgih	Ncmpl
-.	Z
-Zaznati	Vmen
-pa	Cc
-je	Va-r3s-n
-tudi	Q
-previdnost	Ncfsn
-pri	Sl
-trošenju	Ncnsl
-denarja	Ncmsg
-,	Z
-na	Sa
-kar	Pr-nsa
-zagotovo	Rgp
-vpliva	Vmpr3s
-gospodarsko	Agpnsa
-dogajanje	Ncnsa
-v	Sl
-ZDA	Npfpl
-,	Z
-ki	Cs
-se	Px------y
-postopoma	Rgp
-širi	Vmpr3s
-v	Sa
-Evropo	Npfsa
-.	Z
-Pozitivno	Agpfsa
-rast	Ncfsa
-števila	Ncnsg
-gostov	Ncmpg
-v	Sl
-višini	Ncfsl
-dvomestnih	Agpnpg
-števil	Ncnpg
-pa	Cc
-še	Q
-vedno	Rgp
-beležijo	Vmpr3p
-s	Sg
-trgov	Ncmpg
-,	Z
-kjer	Cs
-je	Va-r3s-n
-STO	Mlc-pa
-v	Sl
-letošnjem	Agpnsl
-letu	Ncnsl
-izvedla	Vmep-sf
-več	Rgc
-trženjsko	Agpnsn
--	Z
-komunikacijskih	Agpfpg
-akcij	Ncfpg
-slovenske	Agpfsg
-turistične	Agpfsg
-ponudbe	Ncfsg
-.	Z
-Tako	Rgp
-je	Va-r3s-n
-na	Sa
-primer	Ncmsan
-v	Sl
-devetih	Mlc-pl
-mesecih	Ncmpl
-Slovenijo	Npfsa
-obiskalo	Vmep-sn
-za	Sa
-61	Mdc
-odstotkov	Ncmpg
-več	Rgc
-japonskih	Agpmpg
-gostov	Ncmpg
-,	Z
-število	Ncnsn
-turistov	Ncmpg
-iz	Sg
-Ruske	Agpfsg
-federacije	Ncfsg
-je	Va-r3s-n
-poraslo	Appnsn
-za	Sa
-36	Mdc
-odstotkov	Ncmpg
-.	Z
-Pozitivni	Agpmsay
-trend	Ncmsan
-števila	Ncnsg
-prihodov	Ncmpg
-pa	Cc
-beležijo	Vmpr3p
-tudi	Q
-iz	Sg
-Skandinavskih	Agpfpg
-držav	Ncfpg
-,	Z
-in	Cc
-sicer	Q
-z	Sg
-Norveške	Npfsg
-(	Z
-30	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Danske	Npfsg
-(	Z
-20	Mdc
-odstotkov	Ncmpg
-)	Z
-,	Z
-Finske	Npfsg
-(	Z
-12	Mdc
-odstotkov	Ncmpg
-)	Z
-in	Cc
-držav	Ncfpg
-Beneluksa	Npmsg
-,	Z
-ki	Cs
-tako	Rgp
-ostajajo	Vmpr3p
-med	Si
-najpomembnejšimi	Agsmpi
-perspektivnimi	Agpmpi
-trgi	Ncmpi
-slovenskega	Agpmsg
-turizma	Ncmsg
-tudi	Q
-v	Sa
-prihodnje	Agpnsa
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Slovensko	mte:Agpnsn	slovenski
+turistično	mte:Agpnsn	turističen
+gospodarstvo	mte:Ncnsn	gospodarstvo
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+letošnjega	mte:Agpnsg	letošnji
+leta	mte:Ncnsg	leto
+beleži	mte:Vmpr3s	beležiti
+za	mte:Sa	za
+dva	mte:Mlcmda	dva
+odstotka	mte:Ncmda	odstotek
+več	mte:Rgc	več
+prenočitev	mte:Ncfpg	prenočitev
+kot	mte:Cs	kot
+v	mte:Sl	v
+enakem	mte:Pi-nsl	enak
+obdobju	mte:Ncnsl	obdobje
+lani	mte:Rgp	lani
+,	mte:Z	,
+pozitiven	mte:Agpmsnn	pozitiven
+trend	mte:Ncmsn	trend
+prenočitev	mte:Ncfpg	prenočitev
+je	mte:Va-r3s-n	biti
+predvsem	mte:Q	predvsem
+zasluga	mte:Ncfsn	zasluga
+domačih	mte:Agpmpg	domač
+gostov	mte:Ncmpg	gost
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+opravili	mte:Vmep-pm	opraviti
+za	mte:Sa	za
+pet	mte:Mlc-pa	pet
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+nočitev	mte:Ncfpg	nočitev
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+s	mte:Sg	z
+Slovenske	mte:Agpfsg	slovenski
+turistične	mte:Agpfsg	turističen
+organizacije	mte:Ncfsg	organizacija
+(	mte:Z	(
+STO	mte:Mlc-pn	sto
+)	mte:Z	)
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+število	mte:Ncnsn	število
+prenočitev	mte:Ncfpg	prenočitev
+tujih	mte:Agpmpg	tuj
+turistov	mte:Ncmpg	turist
+ostalo	mte:Vmep-sn	ostati
+na	mte:Sl	na
+enakem	mte:Pi-msl	enak
+nivoju	mte:Ncmsl	nivo
+kot	mte:Cs	kot
+v	mte:Sl	v
+enakem	mte:Pi-nsl	enak
+obdobju	mte:Ncnsl	obdobje
+lani	mte:Rgp	lani
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+beležili	mte:Vmpp-pm	beležiti
+rekordno	mte:Agpnsa	rekordno
+turistično	mte:Agpnsa	turističen
+leto	mte:Ncnsa	leto
+.	mte:Z	.
+Po	mte:Sl	po
+začasnih	mte:Agpmpl	začasen
+podatkih	mte:Ncmpl	podatek
+Statističnega	mte:Agpmsg	statističen
+urada	mte:Ncmsg	urad
+RS	mte:Npfsg	RS
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+septembra	mte:Ncmsg	september
+v	mte:Sl	v
+turističnih	mte:Agpmpl	turističen
+nastanitvenih	mte:Agpmpl	nastanitven
+objektih	mte:Ncmpl	objekt
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+evidentiranih	mte:Appmpg	evidentiran
+2.229.570	mte:Mdc	2.229.570
+prihodov	mte:Ncmpg	prihod
+turistov	mte:Ncmpg	turist
+in	mte:Cc	in
+6.914.892	mte:Mdc	6.914.892
+prenočitev	mte:Ncfpg	prenočitev
+.	mte:Z	.
+Skupno	mte:Agpnsn	skupen
+število	mte:Ncnsn	število
+prihodov	mte:Ncmpg	prihod
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+glede	mte:Rgp	glede
+na	mte:Sa	na
+lani	mte:Rgp	lani
+poraslo	mte:Appnsn	porasel
+za	mte:Sa	za
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+.	mte:Z	.
+Na	mte:Sl	na
+prvem	mte:Mlonsl	prvi
+mestu	mte:Ncnsl	mesto
+se	mte:Px------y	se
+med	mte:Si	med
+tujimi	mte:Agpmpi	tuj
+gosti	mte:Ncmpi	gost
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+treh	mte:Mlcmpl	trije
+mesecih	mte:Ncmpl	mesec
+ponovno	mte:Rgp	ponovno
+nahajajo	mte:Vmpr3p	nahajati
+italijanski	mte:Agpmpn	italijanski
+gosti	mte:Ncmpn	gost
+s	mte:Si	z
+17	mte:Mdc	17
+odstotki	mte:Ncmpi	odstotek
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+jim	mte:Pp3mpd--y	on
+turisti	mte:Ncmpn	turist
+iz	mte:Sg	iz
+Nemčije	mte:Npfsg	Nemčija
+s	mte:Si	z
+13	mte:Mdc	13
+odstotki	mte:Ncmpi	odstotek
+,	mte:Z	,
+na	mte:Sl	na
+tretjem	mte:Mlonsl	tretji
+mesto	mte:Ncnsa	mesto
+so	mte:Va-r3p-n	biti
+turisti	mte:Ncmpn	turist
+iz	mte:Sg	iz
+Avstrije	mte:Npfsg	Avstrija
+z	mte:Si	z
+12	mte:Mdc	12
+odstotki	mte:Ncmpi	odstotek
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+pa	mte:Cc	pa
+gosti	mte:Agpmpn	gost
+s	mte:Sg	z
+Hrvaške	mte:Npfsg	Hrvaška
+s	mte:Si	z
+šestimi	mte:Mlc-pi	šest
+odstotki	mte:Ncmpi	odstotek
+.	mte:Z	.
+S	mte:Sg	z
+tradicionalnih	mte:Agpmpg	tradicionalen
+trgov	mte:Ncmpg	trg
+Nemčije	mte:Npfsg	Nemčija
+,	mte:Z	,
+Italije	mte:Npfsg	Italija
+in	mte:Cc	in
+Avstrije	mte:Npfsg	Avstrija
+ob	mte:Sl	ob
+koncu	mte:Ncmsl	konec
+sezone	mte:Ncfsg	sezona
+beležijo	mte:Vmpr3p	beležiti
+manjši	mte:Agcmsay	majhen
+upad	mte:Ncmsan	upad
+obiska	mte:Ncmsg	obisk
+glede	mte:Rgp	glede
+na	mte:Sa	na
+enako	mte:Pi-nsa	enak
+obdobje	mte:Ncnsa	obdobje
+lani	mte:Rgp	lani
+,	mte:Z	,
+za	mte:Sa	za
+kar	mte:Pr-nsa	kar
+so	mte:Va-r3p-n	biti
+najverjetnejši	mte:Agsmsny	velik
+vzrok	mte:Ncmsn	vzrok
+povečane	mte:Appfsg	povečan
+cene	mte:Ncfsg	cena
+hrane	mte:Ncfsg	hrana
+in	mte:Cc	in
+naftnih	mte:Agpmpg	naften
+derivatov	mte:Ncmpg	derivat
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+na	mte:Sl	na
+svetovnih	mte:Agpmpl	svetoven
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+Zaznati	mte:Vmen	zaznati
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+previdnost	mte:Ncfsn	previdnost
+pri	mte:Sl	pri
+trošenju	mte:Ncnsl	trošenje
+denarja	mte:Ncmsg	denar
+,	mte:Z	,
+na	mte:Sa	na
+kar	mte:Pr-nsa	kar
+zagotovo	mte:Rgp	zagotovo
+vpliva	mte:Vmpr3s	vplivati
+gospodarsko	mte:Agpnsa	gospodarski
+dogajanje	mte:Ncnsa	dogajanje
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+postopoma	mte:Rgp	postopoma
+širi	mte:Vmpr3s	širati
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+.	mte:Z	.
+Pozitivno	mte:Agpfsa	pozitiven
+rast	mte:Ncfsa	rast
+števila	mte:Ncnsg	število
+gostov	mte:Ncmpg	gost
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+dvomestnih	mte:Agpnpg	dvomesten
+števil	mte:Ncnpg	število
+pa	mte:Cc	pa
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+beležijo	mte:Vmpr3p	beležiti
+s	mte:Sg	z
+trgov	mte:Ncmpg	trg
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+STO	mte:Mlc-pa	sto
+v	mte:Sl	v
+letošnjem	mte:Agpnsl	letošnji
+letu	mte:Ncnsl	leto
+izvedla	mte:Vmep-sf	izvesti
+več	mte:Rgc	več
+trženjsko	mte:Agpnsn	trženjski
+-	mte:Z	-
+komunikacijskih	mte:Agpfpg	komunikacijski
+akcij	mte:Ncfpg	akcija
+slovenske	mte:Agpfsg	slovenski
+turistične	mte:Agpfsg	turističen
+ponudbe	mte:Ncfsg	ponudba
+.	mte:Z	.
+Tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+v	mte:Sl	v
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+Slovenijo	mte:Npfsa	Slovenija
+obiskalo	mte:Vmep-sn	obiskati
+za	mte:Sa	za
+61	mte:Mdc	61
+odstotkov	mte:Ncmpg	odstotek
+več	mte:Rgc	več
+japonskih	mte:Agpmpg	japonski
+gostov	mte:Ncmpg	gost
+,	mte:Z	,
+število	mte:Ncnsn	število
+turistov	mte:Ncmpg	turist
+iz	mte:Sg	iz
+Ruske	mte:Agpfsg	ruski
+federacije	mte:Ncfsg	federacija
+je	mte:Va-r3s-n	biti
+poraslo	mte:Appnsn	porasel
+za	mte:Sa	za
+36	mte:Mdc	36
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Pozitivni	mte:Agpmsay	pozitiven
+trend	mte:Ncmsan	trend
+števila	mte:Ncnsg	število
+prihodov	mte:Ncmpg	prihod
+pa	mte:Cc	pa
+beležijo	mte:Vmpr3p	beležiti
+tudi	mte:Q	tudi
+iz	mte:Sg	iz
+Skandinavskih	mte:Agpfpg	skandinavski
+držav	mte:Ncfpg	država
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+z	mte:Sg	z
+Norveške	mte:Npfsg	Norveška
+(	mte:Z	(
+30	mte:Mdc	30
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Danske	mte:Npfsg	Danska
+(	mte:Z	(
+20	mte:Mdc	20
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+Finske	mte:Npfsg	Finska
+(	mte:Z	(
+12	mte:Mdc	12
+odstotkov	mte:Ncmpg	odstotek
+)	mte:Z	)
+in	mte:Cc	in
+držav	mte:Ncfpg	država
+Beneluksa	mte:Npmsg	Beneluks
+,	mte:Z	,
+ki	mte:Cs	ki
+tako	mte:Rgp	tako
+ostajajo	mte:Vmpr3p	ostajati
+med	mte:Si	med
+najpomembnejšimi	mte:Agsmpi	pomemben
+perspektivnimi	mte:Agpmpi	perspektiven
+trgi	mte:Ncmpi	trg
+slovenskega	mte:Agpmsg	slovenski
+turizma	mte:Ncmsg	turizem
+tudi	mte:Q	tudi
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+da	mte:Cs	da
+turistični	mte:Agpmsny	turističen
+sektor	mte:Ncmsn	sektor
+že	mte:Q	že
+čuti	mte:Vmpr3s	čutiti
+upad	mte:Ncmsan	upad
+povpraševanja	mte:Ncnsg	povpraševanje
+,	mte:Z	,
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+Slovenski	mte:Agpfsl	slovenski
+turistični	mte:Agpfsl	turističen
+organizaciji	mte:Ncfsl	organizacija
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+ob	mte:Sl	ob
+zaključku	mte:Ncmsl	zaključek
+letošnje	mte:Agpfsg	letošnji
+turistične	mte:Agpfsg	turističen
+sezone	mte:Ncfsg	sezona
+beležili	mte:Vmpp-pm	beležiti
+pozitivno	mte:Agpfsa	pozitiven
+bilanco	mte:Ncfsa	bilanca

@@ -1,381 +1,401 @@
-token	tag
-V	Sa
-ponedeljek	Ncmsan
-se	Px------y
-bo	Va-f3s-n
-sestal	Vmep-sm
-upniški	Agpmsny
-odbor	Ncmsn
-SCT	Npmsn
-.	Z
-Zaposleni	Appmpn
-medtem	Rgp
-že	Q
-dva	Mlcmdn
-meseca	Ncmda
-brez	Sg
-plač	Ncfpg
-.	Z
-Zaradi	Sg
-vse	Pg-msg
-verjetnejšega	Agcmsg
-stečaja	Ncmsg
-SCT	Ncmsn
-bankam	Ncfpd
-upnicam	Ncfpd
-grozi	Vmpr3s
-unovčitev	Ncfsa
-160	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-vrednih	Agpfpg
-garancij	Ncfpg
-.	Z
-V	Sa
-ponedeljek	Ncmsan
-se	Px------y
-bo	Va-f3s-n
-sestal	Vmep-sm
-upniški	Agpmsny
-odbor	Ncmsn
-SCT	Npmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-vodi	Vmpr3s
-Uroš	Npmsn
-Ilić	Npmsn
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Gregor	Npmsn
-Gomboši	Npmsn
-iz	Sg
-SCT	Npmsg
-.	Z
-Navedb	Ncfpg
-časnika	Ncmsg
-Dnevnik	Ncmsn
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-vodstvo	Ncnsa
-SCT	Npmsg
-po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-v	Sl
-naslednjih	Agpmpl
-dveh	Mlcmdl
-tednih	Ncmdl
-vložilo	Vmep-sn
-predlog	Ncmsan
-za	Sa
-stečaj	Ncmsan
-,	Z
-ni	Va-r3s-y
-želel	Vmpp-sm
-komentirati	Vmbn
-.	Z
-Brez	Sg
-denarja	Ncmsg
-možen	Agpmsnn
-le	Q
-stečaj	Ncmsn
-"	Z
-Če	Cs
-svežega	Agpmsg
-denarja	Ncmsg
-v	Sl
-kratkem	Agpnsl
-ne	Q
-bo	Va-f3s-n
-,	Z
-potem	Rgp
-druge	Mlpfsg
-možnosti	Ncfsg
-ni	Va-r3s-y
-,	Z
-"	Z
-je	Va-r3s-n
-možnost	Ncfsn
-uvedbe	Ncfsg
-stečaja	Ncmsg
-za	Sa
-SCT	Npmsan
-,	Z
-ki	Cs
-je	Va-r3s-n
-trenutno	Rgp
-v	Sl
-prisilni	Agpfsl
-poravnavi	Ncfsl
-,	Z
-za	Sa
-omenjeni	Appmsay
-časnik	Ncmsan
-komentirala	Vmbp-sf
-prisilna	Agpfsn
-upraviteljica	Ncfsn
-SCT	Npfsn
-Marija	Npfsn
-Magdalena	Npfsn
-Šantl	Npfsn
-.	Z
-Stečaj	Npmsn
-bi	Va-c
-za	Sa
-vpletene	Appfpa
-banke	Ncfpa
-upnice	Ncfsg
-,	Z
-NLB	Npfsg
-,	Z
-NKBM	Npfsg
-,	Z
-Abanko	Npfsa
-in	Cc
-LHB	Npmsa
-,	Z
-pomenil	Vmbp-sm
-veliko	Agpnsa
-breme	Ncnsa
-,	Z
-saj	Cc
-jim	Pp3mpd--y
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-grozi	Vmpr3s
-unovčitev	Ncfsa
-za	Sa
-več	Rgc
-kot	Cs
-160	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-garancij	Ncfpg
-,	Z
-izdanih	Appmpg
-za	Sa
-projekte	Ncmpa
-.	Z
-SCT	Npmsn
-je	Va-r3s-n
-v	Sl
-prisilni	Agpfsl
-poravnavi	Ncfsl
-od	Sg
-januarja	Ncmsg
-letos	Rgp
-.	Z
-Terjatve	Ncfpa
-upnikov	Ncmpg
-družbe	Ncfsg
-so	Va-r3p-n
-konec	Sg
-lanskega	Agpmsg
-septembra	Ncmsg
-skupaj	Rgp
-znašale	Vmpp-pf
-252,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-od	Sg
-tega	Pd-nsg
-je	Va-r3s-n
-za	Sa
-196,7	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-navadnih	Agpfpg
-terjatev	Ncfpg
-in	Cc
-za	Sa
-1,5	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-prednostnih	Agpfpg
-terjatev	Ncfpg
-.	Z
-Za	Sa
-44,3	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-terjatev	Ncfpg
-imajo	Vmpr3p-n
-ločitveni	Agpmpn
-upniki	Ncmpn
-,	Z
-za	Sa
-9,8	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-pa	Cc
-izločitveni	Agpmpn
-upniki	Ncmpn
-.	Z
-Ni	Va-r3s-y
-denarja	Ncmsg
-za	Sa
-plače	Ncfpa
-,	Z
-za	Sa
-projekte	Ncmpa
-še	Q
-manj	Rgc
-Poznavalci	Ncmpn
-dogajanja	Ncnsg
-v	Sl
-SCT	Npmsl
-trdijo	Vmpr3p
-,	Z
-da	Cs
-denarja	Ncmsg
-za	Sa
-plače	Ncfpa
-ni	Va-r3s-y
-,	Z
-še	Q
-manj	Rgc
-za	Sa
-projekte	Ncmpa
-.	Z
-Podjetju	Ncnsl
-naj	Q
-bi	Va-c
-upniki	Ncmpn
--	Z
-banke	Ncfpn
-že	Q
-zasegli	Vmep-pm
-velik	Agpmsan
-del	Ncmsan
-gradbene	Agpfsg
-mehanizacije	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-imelo	Vmpp-sn
-na	Sa
-lizing	Ncmsan
-.	Z
-SCT	Npmsn
-z	Si
-Ivanom	Npmsi
-Zidarjem	Ncmsi
-na	Sl
-čelu	Ncnsl
-je	Va-r3s-n
-izgubil	Vmep-sm
-tudi	Q
-številne	Agpmpa
-že	Q
-sklenjene	Appmpa
-posle	Ncmpa
-kot	Cs
-so	Va-r3p-n
-posel	Ncmsn
-pri	Sl
-graditvi	Ncfsl
-mostu	Ncmsg
-čez	Sa
-Savo	Npfsa
-v	Sl
-Beogradu	Npmsl
-in	Cc
-gradnjo	Ncfsa
-predora	Ncmsg
-Vijenac	Npmsn
-v	Sl
-BiH	Npfsl
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-pridobilo	Vmep-sn
-Primorje	Npnsn
-,	Z
-kar	Pr-nsn
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-po	Sl
-navedbah	Ncfpl
-poznavalcev	Ncmpg
-dokončno	Agpnsn
-razočaranje	Ncnsn
-za	Sa
-prvega	Mlomsa
-moža	Ncmsay
-in	Cc
-lastnika	Ncmsay
-SCT	Npmsg
-.	Z
-Dvomljivi	Agpmpn
-ostajajo	Vmpr3p
-tudi	Q
-libijski	Agpmpn
-in	Cc
-ruski	Agpmpn
-posli	Ncmpn
-.	Z
-Zaposleni	Appmpn
-ne	Q
-verjamejo	Vmbr3p
-v	Sa
-posojilo	Ncnsa
-Vse	Rgp
-manj	Rgc
-je	Va-r3s-n
-tudi	Q
-upanja	Ncnsg
-za	Sa
-posojilo	Ncnsa
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-ga	Pp3msa--y
-SCT	Npmsn
-dobil	Vmep-sm
-od	Sg
-hrvaškega	Agpmsg
-EMS	Npmsg
-Holdinga	Ncmsg
-,	Z
-saj	Cc
-naše	Ps1fpnp
-banke	Ncfpn
-denarja	Ncmsg
-Zidarju	Npmsd
-nočejo	Vmpr3p-y
-več	Q
-posojati	Vmpn
-.	Z
-Osem	Mlc-pa
-milijonov	Ncmpg
-evrov	Ncmpg
-naj	Q
-bi	Va-c
-bilo	Va-p-sn
-dovolj	Rgp
-za	Sa
-plače	Ncfpa
-in	Cc
-nov	Agpmsan
-zagon	Ncmsan
-v	Sl
-podjetju	Ncnsl
-,	Z
-a	Cc
-v	Sa
-to	Pd-nsa
-številni	Agpmpn
-zaposleni	Appmpn
-ne	Q
-verjamejo	Vmbr3p
-.	Z
+token	tag	lemma
+V	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+sestal	mte:Vmep-sm	sestati
+upniški	mte:Agpmsny	upniški
+odbor	mte:Ncmsn	odbor
+SCT	mte:Npmsn	SCT
+.	mte:Z	.
+Zaposleni	mte:Appmpn	zaposlen
+medtem	mte:Rgp	medtem
+že	mte:Q	že
+dva	mte:Mlcmdn	dva
+meseca	mte:Ncmda	mesec
+brez	mte:Sg	brez
+plač	mte:Ncfpg	plača
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+vse	mte:Pg-msg	ves
+verjetnejšega	mte:Agcmsg	verjeten
+stečaja	mte:Ncmsg	stečaj
+SCT	mte:Ncmsn	SCT
+bankam	mte:Ncfpd	banka
+upnicam	mte:Ncfpd	upnica
+grozi	mte:Vmpr3s	groziti
+unovčitev	mte:Ncfsa	unovčitev
+160	mte:Mdc	160
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+vrednih	mte:Agpfpg	vreden
+garancij	mte:Ncfpg	garancija
+.	mte:Z	.
+V	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+sestal	mte:Vmep-sm	sestati
+upniški	mte:Agpmsny	upniški
+odbor	mte:Ncmsn	odbor
+SCT	mte:Npmsn	SCT
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+vodi	mte:Vmpr3s	voditi
+Uroš	mte:Npmsn	Uroš
+Ilić	mte:Npmsn	Ilić
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Gregor	mte:Npmsn	Gregor
+Gomboši	mte:Npmsn	Gomboš
+iz	mte:Sg	iz
+SCT	mte:Npmsg	SCT
+.	mte:Z	.
+Navedb	mte:Ncfpg	navedba
+časnika	mte:Ncmsg	časnik
+Dnevnik	mte:Ncmsn	dnevnik
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+vodstvo	mte:Ncnsa	vodstvo
+SCT	mte:Npmsg	SCT
+po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+v	mte:Sl	v
+naslednjih	mte:Agpmpl	naslednji
+dveh	mte:Mlcmdl	dva
+tednih	mte:Ncmdl	teden
+vložilo	mte:Vmep-sn	vložiti
+predlog	mte:Ncmsan	predlog
+za	mte:Sa	za
+stečaj	mte:Ncmsan	stečaj
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+želel	mte:Vmpp-sm	želeti
+komentirati	mte:Vmbn	komentirati
+.	mte:Z	.
+Brez	mte:Sg	brez
+denarja	mte:Ncmsg	denar
+možen	mte:Agpmsnn	možen
+le	mte:Q	le
+stečaj	mte:Ncmsn	stečaj
+"	mte:Z	"
+Če	mte:Cs	če
+svežega	mte:Agpmsg	svež
+denarja	mte:Ncmsg	denar
+v	mte:Sl	v
+kratkem	mte:Agpnsl	kratek
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+,	mte:Z	,
+potem	mte:Rgp	potem
+druge	mte:Mlpfsg	drug
+možnosti	mte:Ncfsg	možnost
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+možnost	mte:Ncfsn	možnost
+uvedbe	mte:Ncfsg	uvedba
+stečaja	mte:Ncmsg	stečaj
+za	mte:Sa	za
+SCT	mte:Npmsan	SCT
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+trenutno	mte:Rgp	trenutno
+v	mte:Sl	v
+prisilni	mte:Agpfsl	prisilen
+poravnavi	mte:Ncfsl	poravnava
+,	mte:Z	,
+za	mte:Sa	za
+omenjeni	mte:Appmsay	omenjen
+časnik	mte:Ncmsan	časnik
+komentirala	mte:Vmbp-sf	komentirati
+prisilna	mte:Agpfsn	prisilen
+upraviteljica	mte:Ncfsn	upraviteljica
+SCT	mte:Npfsn	SCT
+Marija	mte:Npfsn	Marija
+Magdalena	mte:Npfsn	Magdalen
+Šantl	mte:Npfsn	Šantl
+.	mte:Z	.
+Stečaj	mte:Npmsn	Stečaj
+bi	mte:Va-c	biti
+za	mte:Sa	za
+vpletene	mte:Appfpa	vpleten
+banke	mte:Ncfpa	banka
+upnice	mte:Ncfsg	upnica
+,	mte:Z	,
+NLB	mte:Npfsg	NLB
+,	mte:Z	,
+NKBM	mte:Npfsg	NKBM
+,	mte:Z	,
+Abanko	mte:Npfsa	Abanko
+in	mte:Cc	in
+LHB	mte:Npmsa	LHB
+,	mte:Z	,
+pomenil	mte:Vmbp-sm	pomeniti
+veliko	mte:Agpnsa	velik
+breme	mte:Ncnsa	breme
+,	mte:Z	,
+saj	mte:Cc	saj
+jim	mte:Pp3mpd--y	on
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+grozi	mte:Vmpr3s	groziti
+unovčitev	mte:Ncfsa	unovčitev
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+160	mte:Mdc	160
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+garancij	mte:Ncfpg	garancija
+,	mte:Z	,
+izdanih	mte:Appmpg	izdan
+za	mte:Sa	za
+projekte	mte:Ncmpa	projekt
+.	mte:Z	.
+SCT	mte:Npmsn	SCT
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+prisilni	mte:Agpfsl	prisilen
+poravnavi	mte:Ncfsl	poravnava
+od	mte:Sg	od
+januarja	mte:Ncmsg	januar
+letos	mte:Rgp	letos
+.	mte:Z	.
+Terjatve	mte:Ncfpa	terjatva
+upnikov	mte:Ncmpg	upnik
+družbe	mte:Ncfsg	družba
+so	mte:Va-r3p-n	biti
+konec	mte:Sg	konec
+lanskega	mte:Agpmsg	lanski
+septembra	mte:Ncmsg	september
+skupaj	mte:Rgp	skupaj
+znašale	mte:Vmpp-pf	znašati
+252,3	mte:Mdc	252,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+196,7	mte:Mdc	196,7
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+navadnih	mte:Agpfpg	navaden
+terjatev	mte:Ncfpg	terjatev
+in	mte:Cc	in
+za	mte:Sa	za
+1,5	mte:Mdc	1,5
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+prednostnih	mte:Agpfpg	prednosten
+terjatev	mte:Ncfpg	terjatev
+.	mte:Z	.
+Za	mte:Sa	za
+44,3	mte:Mdc	44,3
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+terjatev	mte:Ncfpg	terjatev
+imajo	mte:Vmpr3p-n	imeti
+ločitveni	mte:Agpmpn	ločitven
+upniki	mte:Ncmpn	upnik
+,	mte:Z	,
+za	mte:Sa	za
+9,8	mte:Mdc	9,8
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+pa	mte:Cc	pa
+izločitveni	mte:Agpmpn	izločitven
+upniki	mte:Ncmpn	upnik
+.	mte:Z	.
+Ni	mte:Va-r3s-y	biti
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+plače	mte:Ncfpa	plača
+,	mte:Z	,
+za	mte:Sa	za
+projekte	mte:Ncmpa	projekt
+še	mte:Q	še
+manj	mte:Rgc	manj
+Poznavalci	mte:Ncmpn	poznavalec
+dogajanja	mte:Ncnsg	dogajanje
+v	mte:Sl	v
+SCT	mte:Npmsl	SCT
+trdijo	mte:Vmpr3p	trditi
+,	mte:Z	,
+da	mte:Cs	da
+denarja	mte:Ncmsg	denar
+za	mte:Sa	za
+plače	mte:Ncfpa	plača
+ni	mte:Va-r3s-y	biti
+,	mte:Z	,
+še	mte:Q	še
+manj	mte:Rgc	manj
+za	mte:Sa	za
+projekte	mte:Ncmpa	projekt
+.	mte:Z	.
+Podjetju	mte:Ncnsl	podjetje
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+upniki	mte:Ncmpn	upnik
+-	mte:Z	-
+banke	mte:Ncfpn	banka
+že	mte:Q	že
+zasegli	mte:Vmep-pm	zaseči
+velik	mte:Agpmsan	velik
+del	mte:Ncmsan	del
+gradbene	mte:Agpfsg	gradben
+mehanizacije	mte:Ncfsg	mehanizacija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+imelo	mte:Vmpp-sn	imeti
+na	mte:Sa	na
+lizing	mte:Ncmsan	lizing
+.	mte:Z	.
+SCT	mte:Npmsn	SCT
+z	mte:Si	z
+Ivanom	mte:Npmsi	Ivan
+Zidarjem	mte:Ncmsi	zidar
+na	mte:Sl	na
+čelu	mte:Ncnsl	čelo
+je	mte:Va-r3s-n	biti
+izgubil	mte:Vmep-sm	izgubiti
+tudi	mte:Q	tudi
+številne	mte:Agpmpa	številen
+že	mte:Q	že
+sklenjene	mte:Appmpa	sklenjen
+posle	mte:Ncmpa	posel
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+posel	mte:Ncmsn	posel
+pri	mte:Sl	pri
+graditvi	mte:Ncfsl	graditev
+mostu	mte:Ncmsg	most
+čez	mte:Sa	čez
+Savo	mte:Npfsa	Savo
+v	mte:Sl	v
+Beogradu	mte:Npmsl	Beograd
+in	mte:Cc	in
+gradnjo	mte:Ncfsa	gradnja
+predora	mte:Ncmsg	predor
+Vijenac	mte:Npmsn	Vijenac
+v	mte:Sl	v
+BiH	mte:Npfsl	Bih
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+pridobilo	mte:Vmep-sn	pridobiti
+Primorje	mte:Npnsn	Primorje
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+poznavalcev	mte:Ncmpg	poznavalec
+dokončno	mte:Agpnsn	dokončen
+razočaranje	mte:Ncnsn	razočaranje
+za	mte:Sa	za
+prvega	mte:Mlomsa	prvi
+moža	mte:Ncmsay	mož
+in	mte:Cc	in
+lastnika	mte:Ncmsay	lastnik
+SCT	mte:Npmsg	SCT
+.	mte:Z	.
+Dvomljivi	mte:Agpmpn	Dvomljiv
+ostajajo	mte:Vmpr3p	ostajati
+tudi	mte:Q	tudi
+libijski	mte:Agpmpn	libijski
+in	mte:Cc	in
+ruski	mte:Agpmpn	ruski
+posli	mte:Ncmpn	posel
+.	mte:Z	.
+Zaposleni	mte:Appmpn	zaposlen
+ne	mte:Q	ne
+verjamejo	mte:Vmbr3p	verjeti
+v	mte:Sa	v
+posojilo	mte:Ncnsa	posojilo
+Vse	mte:Rgp	vse
+manj	mte:Rgc	manj
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+upanja	mte:Ncnsg	upanje
+za	mte:Sa	za
+posojilo	mte:Ncnsa	posojilo
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+SCT	mte:Npmsn	SCT
+dobil	mte:Vmep-sm	dobiti
+od	mte:Sg	od
+hrvaškega	mte:Agpmsg	hrvaški
+EMS	mte:Npmsg	EMS
+Holdinga	mte:Ncmsg	holdinga
+,	mte:Z	,
+saj	mte:Cc	saj
+naše	mte:Ps1fpnp	naš
+banke	mte:Ncfpn	banka
+denarja	mte:Ncmsg	denar
+Zidarju	mte:Npmsd	Zidar
+nočejo	mte:Vmpr3p-y	hoteti
+več	mte:Q	več
+posojati	mte:Vmpn	posojati
+.	mte:Z	.
+Osem	mte:Mlc-pa	osem
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+dovolj	mte:Rgp	dovolj
+za	mte:Sa	za
+plače	mte:Ncfpa	plača
+in	mte:Cc	in
+nov	mte:Agpmsan	nov
+zagon	mte:Ncmsan	zagon
+v	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+,	mte:Z	,
+a	mte:Cc	a
+v	mte:Sa	v
+to	mte:Pd-nsa	ta
+številni	mte:Agpmpn	številen
+zaposleni	mte:Appmpn	zaposlen
+ne	mte:Q	ne
+verjamejo	mte:Vmbr3p	verjeti
+.	mte:Z	.
+V	mte:Sl	v
+minulih	mte:Appmpl	minul
+dveh	mte:Mlcmdl	dva
+mesecih	mte:Ncmdl	mesec
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+SCT	mte:Npmsl	SCT
+izgubili	mte:Vmep-pm	izgubiti
+kar	mte:Rgp	kar
+10	mte:Mdc	10
+poslov	mte:Ncmpg	posel
+,	mte:Z	,
+prihodkov	mte:Ncmpg	prihodek
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+le	mte:Q	le
+okoli	mte:Rgp	okoli
+šest	mte:Mlc-pa	šest
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro

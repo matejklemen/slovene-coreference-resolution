@@ -1,349 +1,370 @@
-token	tag
-Koprski	Agpmpn
-policisti	Ncmpn
-so	Va-r3p-n
-prejeli	Vmep-pm
-anonimno	Agpfsa
-kazensko	Agpfsa
-ovadbo	Ncfsa
-zoper	Sa
-predsednika	Ncmsay
-uprave	Ncfsg
-Luke	Npfsg
-Koper	Npmsg
-Časarja	Npmsg
-in	Cc
-direktorja	Ncmsg
-družbe	Ncfsg
-Inženiring	Npmsn
-Graj	Npmsn
-Roberta	Npmsg
-Graja	Npmsg
-.	Z
-Anonimnež	Ncmsn
-jima	Pp3mdd--y
-očita	Vmpr3s
-zlorabo	Ncfsa
-položaja	Ncmsg
-pri	Sl
-gradnji	Ncfsl
-logističnega	Agpmsg
-centra	Ncmsg
-Panonija	Npmsg
-.	Z
-Predsednik	Ncmsn
-uprave	Ncfsg
-Luke	Npfsg
-Koper	Npmsn
-Robert	Npmsn
-Časar	Npmsn
-Koprska	Agpfsn
-policijska	Agpfsn
-uprava	Ncfsn
-je	Va-r3s-n
-prejela	Vmep-sf
-anonimno	Agpfsa
-kazensko	Agpfsa
-ovadbo	Ncfsa
-zoper	Sa
-predsednika	Ncmsay
-uprave	Ncfsg
-Luke	Npfsg
-Koper	Npmsg
-Roberta	Npmsg
-Časarja	Npmsg
-in	Cc
-direktorja	Ncmsgy
-družbe	Ncfsg
-Inženiring	Npmsn
-Graj	Npmsn
-Roberta	Npmsgy
-Graja	Npmsg
-.	Z
-Anonimnež	Ncmsn
-jima	Pp3mdd--y
-očita	Vmpr3s
-zlorabo	Ncfsa
-položaja	Ncmsg
-pri	Sl
-gradnji	Ncfsl
-logističnega	Agpmsg
-centra	Ncmsg
-Panonija	Npmsg
-.	Z
-V	Sl
-prvi	Mlofsl
-vrsti	Ncfsl
-želimo	Vmpr1p
-izpostaviti	Vmen
-,	Z
-da	Cs
-obtožb	Ncfpg
-ne	Q
-moremo	Vmpr1p
-komentirati	Vmbn
-,	Z
-ker	Cs
-z	Si
-njimi	Pp3mpi
-nismo	Va-r1p-y
-bili	Va-p-pm
-uradno	Rgp
-seznanjeni	Appmpn
-in	Cc
-celotne	Agpfsg
-vsebine	Ncfsg
-ne	Q
-poznamo	Vmpr1p
-.	Z
-Za	Sa
-obstoj	Ncmsan
-domnevne	Agpfsg
-ovadbe	Ncfsg
-smo	Va-r1p-n
-namreč	Cc
-izvedeli	Vmep-pm
-iz	Sg
-medijev	Ncmpg
-,	Z
-je	Va-r3s-n
-v	Sl
-sporočilu	Ncnsl
-za	Sa
-javnost	Ncfsa
-zapisal	Vmep-sm
-vodja	Ncmsn
-službe	Ncfsg
-za	Sa
-odnose	Ncmpa
-z	Si
-javnostjo	Ncfsi
-Luke	Npfsg
-Koper	Npmsn
-Sebastjan	Npmsn
-Šik	Npmsn
-.	Z
-Po	Sl
-pisanju	Ncnsl
-današnjega	Agpmsg
-Dnevnika	Ncmsg
-anonimnež	Ncmsn
-v	Sl
-ovadbi	Ncfsl
-Časarju	Npmsl
-in	Cc
-Graju	Npmsl
-njegovo	Ps3nsnsm
-podjetje	Ncnsn
-za	Sa
-Luko	Npfsa
-Koper	Npfsn
-v	Sl
-Prekmurju	Npnsl
-ureja	Vmpr3s
-postopke	Ncmpa
-za	Sa
-gradnjo	Ncfsa
-logističnega	Agpmsg
-centra	Ncmsg
-očita	Vmpr3s
-,	Z
-da	Cs
-sta	Va-r3d-n
-storila	Vmep-dm
-kaznivo	Agpnsa
-dejanje	Ncnsa
-zlorabe	Ncfsg
-položaja	Ncmsg
-in	Cc
-pravic	Ncfpg
-pri	Sl
-nakupu	Ncmsl
-parcel	Ncfpg
-ter	Cc
-vzpostavitvi	Ncfsl
-pogojev	Ncmpg
-pri	Sl
-gradnji	Ncfsl
-logističnega	Agpmsg
-centra	Ncmsg
-v	Sl
-Prekmurju	Npnsl
-.	Z
-Na	Sa
-ta	Pd-msa
-način	Ncmsan
-naj	Q
-bi	Va-c
-Luko	Npfsa
-Koper	Npfsn
-odškodovala	Vmpp-dm
-vsaj	Q
-za	Sa
-700.000	Mdc
-evrov	Ncmpg
-.	Z
-V	Sl
-Luki	Npfsl
-Koper	Npmsn
-so	Va-r3p-n
-v	Sl
-sporočilu	Ncnsl
-za	Sa
-javnost	Ncfsa
-zapisali	Vmep-pm
-,	Z
-da	Cs
-se	Px------y
-pogodbe	Ncfpn
-o	Sl
-poslovnem	Agpnsl
-sodelovanju	Ncnsl
-,	Z
-ki	Cs
-jih	Pp3fpa--y
-je	Va-r3s-n
-Luka	Npmsn
-Koper	Npmsn
-leta	Ncnsg
-2007	Mdc
-sklenila	Vmep-sf
-z	Si
-Inženiringom	Npmsi
-Graj	Npmsn
-,	Z
-nanašajo	Vmpr3p
-na	Sa
-več	Rgc
-kot	Cs
-500	Mdc
-parcel	Ncfpg
-,	Z
-na	Sl
-katerih	Pq-mpl
-je	Va-r3s-n
-družba	Ncfsn
-Inženiring	Npmsn
-Graj	Npmsn
-izvajala	Vmpp-sf
-storitve	Ncfpa
-.	Z
-Tudi	Q
-vsi	Pg-mpn
-do	Sg
-zdaj	Rgp
-izdani	Appmpn
-računi	Ncmpn
-podjetja	Ncnsg
-Inženiring	Npmsn
-Graj	Npmsn
-so	Va-r3p-n
-bili	Va-p-pm
-plačani	Appmpn
-v	Sl
-skladu	Ncmsl
-s	Si
-stroškovnikom	Ncmsi
-,	Z
-ki	Cs
-je	Va-r3s-n
-sestavni	Agpmsny
-del	Ncmsn
-prej	Rgc
-omenjenih	Appfpg
-pogodb	Ncfpg
-,	Z
-poudarjajo	Vmpr3p
-v	Sl
-koprski	Agpfsl
-družbi	Ncfsl
-.	Z
-Ne	Q
-moremo	Vmpr1p
-pa	Cc
-se	Px------y
-znebiti	Vmen
-občutka	Ncmsg
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-anonimna	Agpfsn
-ovadba	Ncfsn
-vložena	Appfsn
-bodisi	Ncfsn
-zaradi	Sg
-nepoznavanja	Ncnsg
-vseh	Pg-npg
-dejstev	Ncnpg
-bodisi	Ncfsg
-z	Si
-namenom	Ncmsi
-škodovanja	Ncnsg
-ugledu	Ncmsd
-družbe	Ncfsg
-,	Z
-poudarjajo	Vmpr3p
-v	Sl
-Luki	Npfsl
-Koper	Npmsn
-in	Cc
-dodajajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-projekt	Ncmsn
-izgradnje	Ncfsg
-logističnega	Agpmsg
-centra	Ncmsg
-Panonija	Npfsn
-v	Sl
-občini	Ncfsl
-Beltinci	Npmsn
-zelo	Rgp
-kompleksen	Agpmsnn
-projekt	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-za	Sa
-Luko	Npfsa
-Koper	Npmsa
-,	Z
-lokalno	Agpfsa
-skupnost	Ncfsa
-in	Cc
-državo	Ncfsa
-strateškega	Agpmsg
-pomena	Ncmsg
-.	Z
-Pismo	Ncnsa
-o	Sl
-nameri	Ncfsl
-za	Sa
-gradnjo	Ncfsa
-regionalnega	Agpnsg
-distribucijskega	Agpnsg
-središča	Ncnsg
-Panonija	Npmsn
-,	Z
-ki	Cs
-bo	Va-f3s-n
-stal	Vmpp-sm
-20	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-v	Sl
-njem	Pp3msl
-pa	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-zaposlilo	Vmep-sn
-300	Mdc
-ljudi	Ncmpg
-,	Z
-so	Va-r3p-n
-21	Mdc
-.	Z
+token	tag	lemma
+Koprski	mte:Agpmpn	koprski
+policisti	mte:Ncmpn	policist
+so	mte:Va-r3p-n	biti
+prejeli	mte:Vmep-pm	prejeti
+anonimno	mte:Agpfsa	anonimen
+kazensko	mte:Agpfsa	kazenski
+ovadbo	mte:Ncfsa	ovadba
+zoper	mte:Sa	zoper
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsg	Koper
+Časarja	mte:Npmsg	Časar
+in	mte:Cc	in
+direktorja	mte:Ncmsg	direktor
+družbe	mte:Ncfsg	družba
+Inženiring	mte:Npmsn	Inženiring
+Graj	mte:Npmsn	Graj
+Roberta	mte:Npmsg	Robert
+Graja	mte:Npmsg	Graja
+.	mte:Z	.
+Anonimnež	mte:Ncmsn	anonimnež
+jima	mte:Pp3mdd--y	on
+očita	mte:Vmpr3s	očitati
+zlorabo	mte:Ncfsa	zloraba
+položaja	mte:Ncmsg	položaj
+pri	mte:Sl	pri
+gradnji	mte:Ncfsl	gradnja
+logističnega	mte:Agpmsg	logističen
+centra	mte:Ncmsg	center
+Panonija	mte:Npmsg	Panonija
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+Robert	mte:Npmsn	Robert
+Časar	mte:Npmsn	Časar
+Koprska	mte:Agpfsn	koprski
+policijska	mte:Agpfsn	policijski
+uprava	mte:Ncfsn	uprava
+je	mte:Va-r3s-n	biti
+prejela	mte:Vmep-sf	prejeti
+anonimno	mte:Agpfsa	anonimen
+kazensko	mte:Agpfsa	kazenski
+ovadbo	mte:Ncfsa	ovadba
+zoper	mte:Sa	zoper
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsg	Koper
+Roberta	mte:Npmsg	Robert
+Časarja	mte:Npmsg	Časar
+in	mte:Cc	in
+direktorja	mte:Ncmsgy	direktor
+družbe	mte:Ncfsg	družba
+Inženiring	mte:Npmsn	Inženiring
+Graj	mte:Npmsn	Graj
+Roberta	mte:Npmsgy	Robert
+Graja	mte:Npmsg	Graja
+.	mte:Z	.
+Anonimnež	mte:Ncmsn	anonimnež
+jima	mte:Pp3mdd--y	on
+očita	mte:Vmpr3s	očitati
+zlorabo	mte:Ncfsa	zloraba
+položaja	mte:Ncmsg	položaj
+pri	mte:Sl	pri
+gradnji	mte:Ncfsl	gradnja
+logističnega	mte:Agpmsg	logističen
+centra	mte:Ncmsg	center
+Panonija	mte:Npmsg	Panonija
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+vrsti	mte:Ncfsl	vrsta
+želimo	mte:Vmpr1p	želeti
+izpostaviti	mte:Vmen	izpostaviti
+,	mte:Z	,
+da	mte:Cs	da
+obtožb	mte:Ncfpg	obtožba
+ne	mte:Q	ne
+moremo	mte:Vmpr1p	moči
+komentirati	mte:Vmbn	komentirati
+,	mte:Z	,
+ker	mte:Cs	ker
+z	mte:Si	z
+njimi	mte:Pp3mpi	on
+nismo	mte:Va-r1p-y	biti
+bili	mte:Va-p-pm	biti
+uradno	mte:Rgp	uradno
+seznanjeni	mte:Appmpn	seznanjen
+in	mte:Cc	in
+celotne	mte:Agpfsg	celoten
+vsebine	mte:Ncfsg	vsebina
+ne	mte:Q	ne
+poznamo	mte:Vmpr1p	poznati
+.	mte:Z	.
+Za	mte:Sa	za
+obstoj	mte:Ncmsan	obstoj
+domnevne	mte:Agpfsg	domneven
+ovadbe	mte:Ncfsg	ovadba
+smo	mte:Va-r1p-n	biti
+namreč	mte:Cc	namreč
+izvedeli	mte:Vmep-pm	izvedeti
+iz	mte:Sg	iz
+medijev	mte:Ncmpg	medij
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+zapisal	mte:Vmep-sm	zapisati
+vodja	mte:Ncmsn	vodja
+službe	mte:Ncfsg	služba
+za	mte:Sa	za
+odnose	mte:Ncmpa	odnos
+z	mte:Si	z
+javnostjo	mte:Ncfsi	javnost
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+Sebastjan	mte:Npmsn	Sebastjan
+Šik	mte:Npmsn	Šik
+.	mte:Z	.
+Po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+današnjega	mte:Agpmsg	današnji
+Dnevnika	mte:Ncmsg	dnevnik
+anonimnež	mte:Ncmsn	anonimnež
+v	mte:Sl	v
+ovadbi	mte:Ncfsl	ovadba
+Časarju	mte:Npmsl	Časar
+in	mte:Cc	in
+Graju	mte:Npmsl	Graj
+njegovo	mte:Ps3nsnsm	njegov
+podjetje	mte:Ncnsn	podjetje
+za	mte:Sa	za
+Luko	mte:Npfsa	Luka
+Koper	mte:Npfsn	Koper
+v	mte:Sl	v
+Prekmurju	mte:Npnsl	Prekmurje
+ureja	mte:Vmpr3s	urejati
+postopke	mte:Ncmpa	postopek
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+logističnega	mte:Agpmsg	logističen
+centra	mte:Ncmsg	center
+očita	mte:Vmpr3s	očitati
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+storila	mte:Vmep-dm	storiti
+kaznivo	mte:Agpnsa	kazniv
+dejanje	mte:Ncnsa	dejanje
+zlorabe	mte:Ncfsg	zloraba
+položaja	mte:Ncmsg	položaj
+in	mte:Cc	in
+pravic	mte:Ncfpg	pravica
+pri	mte:Sl	pri
+nakupu	mte:Ncmsl	nakup
+parcel	mte:Ncfpg	parcel
+ter	mte:Cc	ter
+vzpostavitvi	mte:Ncfsl	vzpostavitev
+pogojev	mte:Ncmpg	pogoj
+pri	mte:Sl	pri
+gradnji	mte:Ncfsl	gradnja
+logističnega	mte:Agpmsg	logističen
+centra	mte:Ncmsg	center
+v	mte:Sl	v
+Prekmurju	mte:Npnsl	Prekmurje
+.	mte:Z	.
+Na	mte:Sa	na
+ta	mte:Pd-msa	ta
+način	mte:Ncmsan	način
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+Luko	mte:Npfsa	Luka
+Koper	mte:Npfsn	Koper
+odškodovala	mte:Vmpp-dm	odškodovati
+vsaj	mte:Q	vsaj
+za	mte:Sa	za
+700.000	mte:Mdc	700.000
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sporočilu	mte:Ncnsl	sporočilo
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+zapisali	mte:Vmep-pm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+pogodbe	mte:Ncfpn	pogodba
+o	mte:Sl	o
+poslovnem	mte:Agpnsl	posloven
+sodelovanju	mte:Ncnsl	sodelovanje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3fpa--y	on
+je	mte:Va-r3s-n	biti
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+sklenila	mte:Vmep-sf	skleniti
+z	mte:Si	z
+Inženiringom	mte:Npmsi	Inženiring
+Graj	mte:Npmsn	Graj
+,	mte:Z	,
+nanašajo	mte:Vmpr3p	nanašati
+na	mte:Sa	na
+več	mte:Rgc	več
+kot	mte:Cs	kot
+500	mte:Mdc	500
+parcel	mte:Ncfpg	parcel
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-mpl	kateri
+je	mte:Va-r3s-n	biti
+družba	mte:Ncfsn	družba
+Inženiring	mte:Npmsn	Inženiring
+Graj	mte:Npmsn	Graj
+izvajala	mte:Vmpp-sf	izvajati
+storitve	mte:Ncfpa	storitev
+.	mte:Z	.
+Tudi	mte:Q	tudi
+vsi	mte:Pg-mpn	ves
+do	mte:Sg	do
+zdaj	mte:Rgp	zdaj
+izdani	mte:Appmpn	izdan
+računi	mte:Ncmpn	račun
+podjetja	mte:Ncnsg	podjetje
+Inženiring	mte:Npmsn	Inženiring
+Graj	mte:Npmsn	Graj
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+plačani	mte:Appmpn	plačan
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+stroškovnikom	mte:Ncmsi	stroškovnik
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sestavni	mte:Agpmsny	sestaven
+del	mte:Ncmsn	del
+prej	mte:Rgc	prej
+omenjenih	mte:Appfpg	omenjen
+pogodb	mte:Ncfpg	pogodba
+,	mte:Z	,
+poudarjajo	mte:Vmpr3p	poudarjati
+v	mte:Sl	v
+koprski	mte:Agpfsl	koprski
+družbi	mte:Ncfsl	družba
+.	mte:Z	.
+Ne	mte:Q	ne
+moremo	mte:Vmpr1p	moči
+pa	mte:Cc	pa
+se	mte:Px------y	se
+znebiti	mte:Vmen	znebiti
+občutka	mte:Ncmsg	občutek
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+anonimna	mte:Agpfsn	anonimen
+ovadba	mte:Ncfsn	ovadba
+vložena	mte:Appfsn	vložen
+bodisi	mte:Ncfsn	bodisi
+zaradi	mte:Sg	zaradi
+nepoznavanja	mte:Ncnsg	nepoznavanje
+vseh	mte:Pg-npg	ves
+dejstev	mte:Ncnpg	dejstvo
+bodisi	mte:Ncfsg	bodisi
+z	mte:Si	z
+namenom	mte:Ncmsi	namen
+škodovanja	mte:Ncnsg	škodovanje
+ugledu	mte:Ncmsd	ugled
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+poudarjajo	mte:Vmpr3p	poudarjati
+v	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+in	mte:Cc	in
+dodajajo	mte:Vmpr3p	dodajati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+projekt	mte:Ncmsn	projekt
+izgradnje	mte:Ncfsg	izgradnja
+logističnega	mte:Agpmsg	logističen
+centra	mte:Ncmsg	center
+Panonija	mte:Npfsn	Panonija
+v	mte:Sl	v
+občini	mte:Ncfsl	občina
+Beltinci	mte:Npmsn	Beltinci
+zelo	mte:Rgp	zelo
+kompleksen	mte:Agpmsnn	kompleksen
+projekt	mte:Ncmsn	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Luko	mte:Npfsa	Luka
+Koper	mte:Npmsa	Koper
+,	mte:Z	,
+lokalno	mte:Agpfsa	lokalen
+skupnost	mte:Ncfsa	skupnost
+in	mte:Cc	in
+državo	mte:Ncfsa	država
+strateškega	mte:Agpmsg	strateški
+pomena	mte:Ncmsg	pomen
+.	mte:Z	.
+Pismo	mte:Ncnsa	pismo
+o	mte:Sl	o
+nameri	mte:Ncfsl	namera
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+regionalnega	mte:Agpnsg	regionalen
+distribucijskega	mte:Agpnsg	distribucijski
+središča	mte:Ncnsg	središče
+Panonija	mte:Npmsn	Panonija
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+stal	mte:Vmpp-sm	stati
+20	mte:Mdc	20
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+v	mte:Sl	v
+njem	mte:Pp3msl	on
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+zaposlilo	mte:Vmep-sn	zaposliti
+300	mte:Mdc	300
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+21	mte:Mdc	21
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+lani	mte:Rgp	lani
+podpisali	mte:Vmep-pm	podpisati
+predstavniki	mte:Ncmpn	predstavnik
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+,	mte:Z	,
+ministrstev	mte:Ncnpg	ministrstvo
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+,	mte:Z	,
+promet	mte:Ncmsn	promet
+,	mte:Z	,
+okolje	mte:Ncnsa	okolje
+in	mte:Cc	in
+prostor	mte:Ncmsan	prostor
+ter	mte:Cc	ter
+občin	mte:Ncfpg	občina
+Beltinci	mte:Npmpn	Beltinci
+in	mte:Cc	in
+Lendava	mte:Npfsn	Lendava

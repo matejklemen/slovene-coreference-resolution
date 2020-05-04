@@ -1,632 +1,654 @@
-token	tag
-Finska	Agpfsn
-policija	Ncfsn
-je	Va-r3s-n
-sporočila	Vmep-sf
-,	Z
-da	Cs
-so	Va-r3p-n
-v	Sl
-okviru	Ncmsl
-preiskave	Ncfsg
-,	Z
-ali	Rgp
-je	Va-r3s-n
-finsko	Agpnsn
-podjetje	Ncnsn
-Patria	Npfsn
-podkupovalo	Vmpp-sn
-uradnike	Ncmpa
-,	Z
-da	Cs
-bi	Va-c
-pridobilo	Vmep-sn
-pogodbe	Ncfpa
-s	Si
-Slovenijo	Npfsi
-in	Cc
-Egipt	Npmsn
-Podjetje	Ncnsn
-Patria	Npfsn
-je	Va-r3s-n
-Egiptu	Npmsd
-prodalo	Vmep-sn
-topniško	Agpfsa
-proizvodno	Agpfsa
-tehnologijo	Ncfsa
-,	Z
-Sloveniji	Npfsl
-pa	Cc
-oklepna	Agpnpa
-vozila	Ncnpa
-in	Cc
-tope	Ncfpa
-.	Z
-Preiskava	Ncfsn
-poteka	Vmpr3s
-,	Z
-konkretnih	Agpmpg
-podatkov	Ncmpg
-še	Q
-ni	Va-r3s-y
-"	Z
-Preiskujemo	Vmpr1p
-,	Z
-ali	Rgp
-so	Va-r3p-n
-podjetje	Ncnsa
-oziroma	Cc
-nekateri	Pi-mpn
-od	Sg
-njihovih	Ps3mpgp
-zaposlenih	Appmpg
-krivi	Agpmpn
-podkupovanja	Ncnpg
-,	Z
-"	Z
-so	Va-r3p-n
-v	Sl
-izjavi	Ncfsl
-sporočili	Vmep-pm
-s	Sg
-finskega	Agpmsg
-Državnega	Agpmsg
-urada	Ncmsg
-za	Sa
-preiskave	Ncfpa
-(	Z
-NBI	Npmsn
-)	Z
-.	Z
-NBI	Cs
-ni	Va-r3s-y
-hotel	Vmpp-sm
-komentirati	Vmbn
-vsote	Ncfsg
-denarja	Ncmsg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-porabljen	Appmsnn
-za	Sa
-podkupnino	Ncfsa
-,	Z
-prav	Q
-tako	Rgp
-pa	Cc
-ni	Va-r3s-y
-hotel	Vmpp-sm
-razkriti	Vmen
-narodnosti	Ncfsg
-osumljencev	Ncmpg
-.	Z
-Kot	Cs
-so	Va-r3p-n
-sporočili	Vmep-pm
-,	Z
-pričakujejo	Vmpr3p
-,	Z
-da	Cs
-bo	Va-f3s-n
-šlo	Vmbp-sn
-za	Sa
-dolgotrajno	Agpfsa
-preiskavo	Ncfsa
-.	Z
-Oklepniki	Ncmpn
-Patria	Npmsg
-8x8	Mdc
-Projekt	Ncmsn
-.	Z
-Slovenska	Agpfsn
-vojska	Ncfsn
-je	Va-r3s-n
-v	Sl
-začetku	Ncmsl
-leta	Ncnsg
-2006	Mdc
-objavila	Vmep-sf
-278	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-težak	Agpmsan
-javni	Agpmsay
-razpis	Ncmsan
-za	Sa
-nabavo	Ncfsa
-135	Mdc
-lahkih	Agpmpg
-osemkolesnih	Agpmpg
-oklepnikov	Ncmpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-bodo	Va-f3p-n
-nadomestili	Vmep-pm
-tanke	Agpmpa
-,	Z
-ki	Cs
-ne	Q
-ustrezajo	Vmpr3p
-Natovim	Aspfpd
-doktrinam	Ncfpd
-.	Z
-Izbor	Ncmsn
-.	Z
-Med	Si
-dvema	Mlcmdi
-najmočnejšima	Agsmdi
-tekmecema	Ncmdi
-,	Z
-Krpanom	Ncmsi
-iz	Sg
-ravenske	Agpfsg
-Sistemske	Agpfsg
-tehnike	Ncfsg
-in	Cc
-oklepnikom	Ncmpi
-finske	Agpfsg
-Patrie	Npfsg
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-izbran	Appmsnn
-drugi	Mlpmsny
-.	Z
-Izdelava	Ncfsn
-.	Z
-V	Sl
-prihodnjih	Agpnpl
-petih	Mlc-pl
-letih	Ncnpl
-bodo	Va-f3p-n
-kar	Rgp
-122	Mdc
-oklepnikov	Ncmpg
-izdelali	Vmep-pm
-v	Sl
-posebej	Rgp
-za	Sa
-to	Pd-nsa
-na	Sl
-novo	Rgp
-zgrajeni	Appfsl
-šoštanjski	Agpfsl
-tovarni	Ncfsl
-Gorenje	Npnsn
-Indop	Npmsn
-.	Z
-Podatki	Ncmpn
-.	Z
-Oklepnik	Ncmsn
-ima	Vmpr3s-n
-pogon	Ncmsan
-na	Sl
-vseh	Pg-mpl
-osem	Mlc-pa
-koles	Ncnpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-poganja	Vmpr3s
-motor	Ncmsn
-s	Si
-približno	Rgp
-500	Mdc
-konjskimi	Agpfpi
-močmi	Ncfpi
-.	Z
-Kljub	Sd
-svojim	Px-fpd
-23	Mdc
-tonam	Ncfpd
-tako	Rgp
-na	Sl
-cestah	Ncfpl
-dosega	Vmpr3s
-hitrosti	Ncfsg
-prek	Sg
-sto	Mlc-pa
-kilometrov	Ncmpg
-na	Sa
-uro	Ncfsa
-.	Z
-Patria	Npfsn
-je	Va-r3s-n
-v	Sl
-izjavi	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-objavila	Vmep-sf
-na	Sl
-svoji	Px-fsl
-spletni	Agpfsl
-strani	Ncfsl
-,	Z
-zanikala	Vmep-sf
-obtožbe	Ncfpa
-in	Cc
-ob	Sl
-tem	Pd-nsl
-povedala	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-NBI	Npmsn
-v	Sa
-torek	Ncmsan
-preiskal	Vmep-sm
-dve	Mlcfda
-od	Sg
-njenih	Ps3fpgsf
-pisarn	Ncfpg
-.	Z
-Pri	Sl
-preiskavi	Ncfsl
-so	Va-r3p-n
-zasegli	Vmep-pm
-podatke	Ncmpa
-v	Sl
-zvezi	Ncfsl
-s	Si
-pogodbo	Ncfsi
-s	Si
-Slovenijo	Npfsi
-in	Cc
-z	Si
-delom	Ncnsi
-,	Z
-ki	Cs
-je	Va-r3s-n
-vodilo	Vmpp-sn
-do	Sg
-sklenitve	Ncfsg
-pogodbe	Ncfsg
-.	Z
-"	Z
-Poleg	Sg
-tega	Pd-nsg
-na	Sa
-željo	Ncfsa
-podjetja	Ncnsg
-tudi	Q
-preiskujemo	Vmpr1p
-,	Z
-ali	Rgp
-so	Va-r3p-n
-bili	Va-p-pm
-v	Sl
-poročilih	Ncnpl
-medijev	Ncmpg
-objavljeni	Appmpn
-zaupni	Agpmpn
-poslovni	Agpmpn
-podatki	Ncmpn
-,	Z
-"	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-visoki	Agpmsny
-predstavnik	Ncmsn
-NBI	Npmsn
-Janne	Npmsn
-Jaervinen	Npmsn
-.	Z
-Finska	Npfsn
-je	Va-r3s-n
-lastnica	Ncfsn
-73	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-Patrie	Npfsg
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-preostalih	Appmpg
-27	Mdc
-odstotkov	Ncmpg
-v	Sl
-lasti	Ncfsl
-Evropske	Agpfsg
-aeronavtične	Agpfsg
-obrambne	Agpfsg
-in	Cc
-vesoljske	Agpfsg
-agencije	Ncfsg
-(	Z
-EADS	Npmsn
-)	Z
-.	Z
-Namestnik	Ncmsn
-direktorja	Ncmsg
-Patrie	Npfsg
-Slovenija	Npfsn
-Andrey	Npmsn
-Mladenov	Npmsg
-pa	Cc
-je	Va-r3s-n
-za	Sa
-TV	Npmsan
-Slovenija	Npfsn
-potrdil	Vmep-sm
-,	Z
-da	Cs
-sta	Va-r3d-n
-bili	Va-p-dm
-v	Sl
-zadevi	Ncfsl
-,	Z
-povezani	Appmdn
-s	Si
-slovenskim	Agpmsi
-projektom	Ncmsi
-,	Z
-zaradi	Sg
-zaslišanja	Ncnsg
-pridržani	Appfdn
-dve	Mlcfdn
-osebi	Ncfda
-iz	Sg
-finske	Agpfsg
-Patrie	Npfsg
-.	Z
-"	Z
-V	Sl
-tem	Pd-msl
-trenutku	Ncmsl
-nimam	Vmpr1s-y
-nobenih	Pz-fpg
-drugih	Mlpfpg
-informacij	Ncfpg
-,	Z
-lahko	Rgp
-pa	Cc
-zagotovim	Vmer1s
-,	Z
-da	Cs
-Patria	Npmsn
-v	Sl
-celoti	Ncfsl
-sodeluje	Vmpr3s
-s	Si
-preiskovalnimi	Agpmpi
-organi	Ncmpi
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-Mladenov	Aspmsnn
-.	Z
-Erjavec	Npmsn
-:	Z
-Nihče	Pz-msn
-,	Z
-ki	Cs
-je	Va-r3s-n
-sodeloval	Vmpp-sm
-s	Si
-polnimi	Agpnpi
-pooblastili	Ncnpi
-,	Z
-ni	Va-r3s-y
-prejel	Vmep-sm
-nobene	Pz-fsg
-podkupnine	Ncfsg
-Obrambni	Agpmsny
-minister	Ncmsn
-Karl	Npmsn
-Erjavec	Npmsn
-je	Va-r3s-n
-za	Sa
-Radio	Npmsan
-Slovenija	Npfsn
-dejal	Vmep-sm
-,	Z
-da	Cs
-"	Z
-kar	Pr-nsn
-se	Px------y
-tiče	Vmpr3s
-ministrstva	Ncnsg
-za	Sa
-obrambo	Ncfsa
-,	Z
-lahko	Rgp
-odgovorno	Rgp
-trdim	Vmpr1s
-,	Z
-da	Cs
-nihče	Pz-msn
-,	Z
-ki	Cs
-je	Va-r3s-n
-sodeloval	Vmpp-sm
-s	Si
-polnimi	Agpnpi
-pooblastili	Ncnpi
-,	Z
-ni	Va-r3s-y
-prejel	Vmep-sm
-nobene	Pz-fsg
-podkupnine	Ncfsg
-"	Z
-.	Z
-Erjavec	Npmsn
-je	Va-r3s-n
-še	Q
-povedal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-vesel	Agpmsnn
-,	Z
-da	Cs
-je	Va-r3s-n
-prišlo	Vmep-sn
-do	Sg
-policijske	Agpfsg
-preiskave	Ncfsg
-,	Z
-ker	Cs
-se	Px------y
-bo	Va-f3s-n
-tako	Rgp
-na	Sl
-koncu	Ncmsl
-vprašanje	Ncnsn
-morebitnega	Agpnsg
-podkupovanja	Ncnsg
-razjasnilo	Vmep-sn
-.	Z
-Cvikl	Npmsn
-:	Z
-Nisem	Va-r1s-y
-presenečen	Appmsnn
-!	Z
-Predsednik	Ncmsn
-komisije	Ncfsg
-,	Z
-ki	Cs
-proučuje	Vmpr3s
-nakup	Ncmsan
-oklepnikov	Ncmpg
-8x8	Mdc
-,	Z
-Milan	Npmsn
-M	Npmsn
-.	Z
-Cvikl	Npmsn
-,	Z
-nad	Si
-zadevo	Ncfsi
-ni	Va-r3s-y
-presenečen	Appmsnn
-.	Z
-"	Z
-Mi	Pp1-sd--y
-že	Q
-ves	Pg-msa
-čas	Ncmsan
-trdimo	Vmpr1p
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-negospodaren	Agpmsan
-in	Cc
-netransparenten	Agpmsan
-posel	Ncmsan
-,	Z
-"	Z
-pojasni	Vmer3s
-Cvikl	Npmsn
-.	Z
-"	Z
-Zato	Cc
-tudi	Q
-vodim	Vmpr1s
-preiskovalno	Agpfsa
-komisijo	Ncfsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-,	Z
-bolj	Rgc
-ko	Cs
-se	Px------y
-je	Va-r3s-n
-poglabljala	Vmpp-sf
-v	Sa
-ta	Pd-msa
-posel	Ncmsan
-,	Z
-doživljala	Vmpp-sf
-vse	Pg-mpa
-močnejše	Agcmpa
-politične	Agpmpa
-pritiske	Ncmpa
-.	Z
-Pustimo	Vmem1p
-,	Z
-da	Cs
-bodo	Va-f3p-n
-finski	Agpmpn
-organi	Ncmpn
-pregona	Ncmsg
-opravili	Vmep-pm
-svoje	Px-nsa
-delo	Ncnsa
-in	Cc
-pričakujem	Vmpr1s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-začeli	Vmep-pm
-delati	Vmpn
-tudi	Q
-slovenski	Agpmpn
-organi	Ncmpn
-pregona	Ncmsg
-.	Z
-"	Z
-Komentar	Ncmsan
-smo	Va-r1p-n
-poskušali	Vmpp-pm
-dobiti	Vmen
-tudi	Q
-od	Sg
-predsednika	Ncmsg
-uprave	Ncfsg
-Gorenja	Npnsg
-,	Z
-Franja	Npmsg
-Bobinca	Npmsg
-,	Z
-saj	Cc
-v	Sl
-Šoštanju	Npnsl
-izdelujejo	Vmpr3p
-školjko	Ncfsa
-oklepnika	Ncmsg
-,	Z
-vendar	Cc
-je	Va-r3s-n
-njegov	Ps3msnsm
-telefon	Ncmsn
-odzvonil	Vmep-sm
-v	Sa
-prazno	Agpfsa
-.	Z
-Ovadbe	Ncfsg
-tudi	Q
-v	Sl
-Sloveniji	Npfsl
-?	Z
-Po	Sl
-naših	Ps1fplp
-neuradnih	Agpfpl
-informacijah	Ncfpl
-pa	Cc
-naj	Q
-bi	Va-c
-tudi	Q
-pri	Sl
-nas	Pp1-pl
-že	Q
-padle	Vmep-pf
-prve	Mlofpa
-kazenske	Agpfpa
-ovadbe	Ncfpa
-v	Sl
-povezavi	Ncfsl
-z	Si
-nakupom	Ncmsi
-oklepnikov	Ncmpg
-.	Z
+token	tag	lemma
+Finska	mte:Agpfsn	finski
+policija	mte:Ncfsn	policija
+je	mte:Va-r3s-n	biti
+sporočila	mte:Vmep-sf	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+preiskave	mte:Ncfsg	preiskava
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+finsko	mte:Agpnsn	finski
+podjetje	mte:Ncnsn	podjetje
+Patria	mte:Npfsn	Patria
+podkupovalo	mte:Vmpp-sn	podkupovati
+uradnike	mte:Ncmpa	uradnik
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+pridobilo	mte:Vmep-sn	pridobiti
+pogodbe	mte:Ncfpa	pogodba
+s	mte:Si	z
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Egipt	mte:Npmsn	Egipt
+Podjetje	mte:Ncnsn	podjetje
+Patria	mte:Npfsn	Patria
+je	mte:Va-r3s-n	biti
+Egiptu	mte:Npmsd	Egipt
+prodalo	mte:Vmep-sn	prodati
+topniško	mte:Agpfsa	topniški
+proizvodno	mte:Agpfsa	proizvoden
+tehnologijo	mte:Ncfsa	tehnologija
+,	mte:Z	,
+Sloveniji	mte:Npfsl	Slovenija
+pa	mte:Cc	pa
+oklepna	mte:Agpnpa	oklepen
+vozila	mte:Ncnpa	vozilo
+in	mte:Cc	in
+tope	mte:Ncfpa	topa
+.	mte:Z	.
+Preiskava	mte:Ncfsn	preiskava
+poteka	mte:Vmpr3s	potekati
+,	mte:Z	,
+konkretnih	mte:Agpmpg	konkreten
+podatkov	mte:Ncmpg	podatek
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+"	mte:Z	"
+Preiskujemo	mte:Vmpr1p	preiskovati
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+podjetje	mte:Ncnsa	podjetje
+oziroma	mte:Cc	oziroma
+nekateri	mte:Pi-mpn	nekateri
+od	mte:Sg	od
+njihovih	mte:Ps3mpgp	njihov
+zaposlenih	mte:Appmpg	zaposlen
+krivi	mte:Agpmpn	kriv
+podkupovanja	mte:Ncnpg	podkupovanje
+,	mte:Z	,
+"	mte:Z	"
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+sporočili	mte:Vmep-pm	sporočiti
+s	mte:Sg	z
+finskega	mte:Agpmsg	finski
+Državnega	mte:Agpmsg	državen
+urada	mte:Ncmsg	urad
+za	mte:Sa	za
+preiskave	mte:Ncfpa	preiskava
+(	mte:Z	(
+NBI	mte:Npmsn	NBI
+)	mte:Z	)
+.	mte:Z	.
+NBI	mte:Cs	nbi
+ni	mte:Va-r3s-y	biti
+hotel	mte:Vmpp-sm	hoteti
+komentirati	mte:Vmbn	komentirati
+vsote	mte:Ncfsg	vsota
+denarja	mte:Ncmsg	denar
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+porabljen	mte:Appmsnn	porabljen
+za	mte:Sa	za
+podkupnino	mte:Ncfsa	podkupnina
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+hotel	mte:Vmpp-sm	hoteti
+razkriti	mte:Vmen	razkriti
+narodnosti	mte:Ncfsg	narodnost
+osumljencev	mte:Ncmpg	osumljenec
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+pričakujejo	mte:Vmpr3p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+šlo	mte:Vmbp-sn	iti
+za	mte:Sa	za
+dolgotrajno	mte:Agpfsa	dolgotrajen
+preiskavo	mte:Ncfsa	preiskava
+.	mte:Z	.
+Oklepniki	mte:Ncmpn	oklepnik
+Patria	mte:Npmsg	Patria
+8x8	mte:Mdc	8x8
+Projekt	mte:Ncmsn	projekt
+.	mte:Z	.
+Slovenska	mte:Agpfsn	slovenski
+vojska	mte:Ncfsn	vojska
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+leta	mte:Ncnsg	leto
+2006	mte:Mdc	2006
+objavila	mte:Vmep-sf	objaviti
+278	mte:Mdc	278
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+težak	mte:Agpmsan	težek
+javni	mte:Agpmsay	javen
+razpis	mte:Ncmsan	razpis
+za	mte:Sa	za
+nabavo	mte:Ncfsa	nabava
+135	mte:Mdc	135
+lahkih	mte:Agpmpg	lahek
+osemkolesnih	mte:Agpmpg	osemkolesen
+oklepnikov	mte:Ncmpg	oklepnik
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+bodo	mte:Va-f3p-n	biti
+nadomestili	mte:Vmep-pm	nadomestiti
+tanke	mte:Agpmpa	tanek
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+ustrezajo	mte:Vmpr3p	ustrezati
+Natovim	mte:Aspfpd	Natov
+doktrinam	mte:Ncfpd	doktrina
+.	mte:Z	.
+Izbor	mte:Ncmsn	izbor
+.	mte:Z	.
+Med	mte:Si	med
+dvema	mte:Mlcmdi	dva
+najmočnejšima	mte:Agsmdi	močen
+tekmecema	mte:Ncmdi	tekmec
+,	mte:Z	,
+Krpanom	mte:Ncmsi	krpan
+iz	mte:Sg	iz
+ravenske	mte:Agpfsg	ravenski
+Sistemske	mte:Agpfsg	sistemski
+tehnike	mte:Ncfsg	tehnika
+in	mte:Cc	in
+oklepnikom	mte:Ncmpi	oklepnik
+finske	mte:Agpfsg	finski
+Patrie	mte:Npfsg	Patrie
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+izbran	mte:Appmsnn	izbran
+drugi	mte:Mlpmsny	drug
+.	mte:Z	.
+Izdelava	mte:Ncfsn	izdelava
+.	mte:Z	.
+V	mte:Sl	v
+prihodnjih	mte:Agpnpl	prihodnji
+petih	mte:Mlc-pl	pet
+letih	mte:Ncnpl	leto
+bodo	mte:Va-f3p-n	biti
+kar	mte:Rgp	kar
+122	mte:Mdc	122
+oklepnikov	mte:Ncmpg	oklepnik
+izdelali	mte:Vmep-pm	izdelati
+v	mte:Sl	v
+posebej	mte:Rgp	posebej
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+na	mte:Sl	na
+novo	mte:Rgp	nov
+zgrajeni	mte:Appfsl	zgrajen
+šoštanjski	mte:Agpfsl	šoštanjski
+tovarni	mte:Ncfsl	tovarna
+Gorenje	mte:Npnsn	Gorenje
+Indop	mte:Npmsn	Indop
+.	mte:Z	.
+Podatki	mte:Ncmpn	podatek
+.	mte:Z	.
+Oklepnik	mte:Ncmsn	oklepnik
+ima	mte:Vmpr3s-n	imeti
+pogon	mte:Ncmsan	pogon
+na	mte:Sl	na
+vseh	mte:Pg-mpl	ves
+osem	mte:Mlc-pa	osem
+koles	mte:Ncnpg	kolo
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+poganja	mte:Vmpr3s	poganjati
+motor	mte:Ncmsn	motor
+s	mte:Si	z
+približno	mte:Rgp	približno
+500	mte:Mdc	500
+konjskimi	mte:Agpfpi	konjski
+močmi	mte:Ncfpi	moč
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+svojim	mte:Px-fpd	svoj
+23	mte:Mdc	23
+tonam	mte:Ncfpd	tona
+tako	mte:Rgp	tako
+na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+dosega	mte:Vmpr3s	doseg
+hitrosti	mte:Ncfsg	hitrost
+prek	mte:Sg	prek
+sto	mte:Mlc-pa	sto
+kilometrov	mte:Ncmpg	kilometer
+na	mte:Sa	na
+uro	mte:Ncfsa	ura
+.	mte:Z	.
+Patria	mte:Npfsn	Patria
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+objavila	mte:Vmep-sf	objaviti
+na	mte:Sl	na
+svoji	mte:Px-fsl	svoj
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+,	mte:Z	,
+zanikala	mte:Vmep-sf	zanikati
+obtožbe	mte:Ncfpa	obtožba
+in	mte:Cc	in
+ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+povedala	mte:Vmep-sf	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+NBI	mte:Npmsn	NBI
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+preiskal	mte:Vmep-sm	preiskati
+dve	mte:Mlcfda	dva
+od	mte:Sg	od
+njenih	mte:Ps3fpgsf	njen
+pisarn	mte:Ncfpg	pisarna
+.	mte:Z	.
+Pri	mte:Sl	pri
+preiskavi	mte:Ncfsl	preiskava
+so	mte:Va-r3p-n	biti
+zasegli	mte:Vmep-pm	zaseči
+podatke	mte:Ncmpa	podatek
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+pogodbo	mte:Ncfsi	pogodba
+s	mte:Si	z
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+z	mte:Si	z
+delom	mte:Ncnsi	delo
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+vodilo	mte:Vmpp-sn	voditi
+do	mte:Sg	do
+sklenitve	mte:Ncfsg	sklenitev
+pogodbe	mte:Ncfsg	pogodba
+.	mte:Z	.
+"	mte:Z	"
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+na	mte:Sa	na
+željo	mte:Ncfsa	želja
+podjetja	mte:Ncnsg	podjetje
+tudi	mte:Q	tudi
+preiskujemo	mte:Vmpr1p	preiskovati
+,	mte:Z	,
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+v	mte:Sl	v
+poročilih	mte:Ncnpl	poročilo
+medijev	mte:Ncmpg	medij
+objavljeni	mte:Appmpn	objavljen
+zaupni	mte:Agpmpn	zaupen
+poslovni	mte:Agpmpn	posloven
+podatki	mte:Ncmpn	podatek
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+visoki	mte:Agpmsny	visok
+predstavnik	mte:Ncmsn	predstavnik
+NBI	mte:Npmsn	NBI
+Janne	mte:Npmsn	Janne
+Jaervinen	mte:Npmsn	Jaervinen
+.	mte:Z	.
+Finska	mte:Npfsn	Finska
+je	mte:Va-r3s-n	biti
+lastnica	mte:Ncfsn	lastnica
+73	mte:Mdc	73
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+Patrie	mte:Npfsg	Patrie
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+preostalih	mte:Appmpg	preostal
+27	mte:Mdc	27
+odstotkov	mte:Ncmpg	odstotek
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Evropske	mte:Agpfsg	evropski
+aeronavtične	mte:Agpfsg	aeronavtičen
+obrambne	mte:Agpfsg	obramben
+in	mte:Cc	in
+vesoljske	mte:Agpfsg	vesoljski
+agencije	mte:Ncfsg	agencija
+(	mte:Z	(
+EADS	mte:Npmsn	EADS
+)	mte:Z	)
+.	mte:Z	.
+Namestnik	mte:Ncmsn	namestnik
+direktorja	mte:Ncmsg	direktor
+Patrie	mte:Npfsg	Patrie
+Slovenija	mte:Npfsn	Slovenija
+Andrey	mte:Npmsn	Andrey
+Mladenov	mte:Npmsg	Mladen
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+TV	mte:Npmsan	TV
+Slovenija	mte:Npfsn	Slovenija
+potrdil	mte:Vmep-sm	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+sta	mte:Va-r3d-n	biti
+bili	mte:Va-p-dm	biti
+v	mte:Sl	v
+zadevi	mte:Ncfsl	zadeva
+,	mte:Z	,
+povezani	mte:Appmdn	povezan
+s	mte:Si	z
+slovenskim	mte:Agpmsi	slovenski
+projektom	mte:Ncmsi	projekt
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+zaslišanja	mte:Ncnsg	zaslišanje
+pridržani	mte:Appfdn	pridržan
+dve	mte:Mlcfdn	dva
+osebi	mte:Ncfda	oseba
+iz	mte:Sg	iz
+finske	mte:Agpfsg	finski
+Patrie	mte:Npfsg	Patrie
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+nimam	mte:Vmpr1s-y	imeti
+nobenih	mte:Pz-fpg	noben
+drugih	mte:Mlpfpg	drug
+informacij	mte:Ncfpg	informacija
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+pa	mte:Cc	pa
+zagotovim	mte:Vmer1s	zagotoviti
+,	mte:Z	,
+da	mte:Cs	da
+Patria	mte:Npmsn	Patria
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+sodeluje	mte:Vmpr3s	sodelovati
+s	mte:Si	z
+preiskovalnimi	mte:Agpmpi	preiskovalen
+organi	mte:Ncmpi	organ
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+Mladenov	mte:Aspmsnn	Mladenov
+.	mte:Z	.
+Erjavec	mte:Npmsn	Erjavec
+:	mte:Z	:
+Nihče	mte:Pz-msn	nihče
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sodeloval	mte:Vmpp-sm	sodelovati
+s	mte:Si	z
+polnimi	mte:Agpnpi	poln
+pooblastili	mte:Ncnpi	pooblastiti
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+prejel	mte:Vmep-sm	prejeti
+nobene	mte:Pz-fsg	noben
+podkupnine	mte:Ncfsg	podkupnina
+Obrambni	mte:Agpmsny	obramben
+minister	mte:Ncmsn	minister
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Radio	mte:Npmsan	Radia
+Slovenija	mte:Npfsn	Slovenija
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+"	mte:Z	"
+kar	mte:Pr-nsn	kar
+se	mte:Px------y	se
+tiče	mte:Vmpr3s	tikati
+ministrstva	mte:Ncnsg	ministrstvo
+za	mte:Sa	za
+obrambo	mte:Ncfsa	obramba
+,	mte:Z	,
+lahko	mte:Rgp	lahko
+odgovorno	mte:Rgp	odgovorno
+trdim	mte:Vmpr1s	trditi
+,	mte:Z	,
+da	mte:Cs	da
+nihče	mte:Pz-msn	nihče
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+sodeloval	mte:Vmpp-sm	sodelovati
+s	mte:Si	z
+polnimi	mte:Agpnpi	poln
+pooblastili	mte:Ncnpi	pooblastiti
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+prejel	mte:Vmep-sm	prejeti
+nobene	mte:Pz-fsg	noben
+podkupnine	mte:Ncfsg	podkupnina
+"	mte:Z	"
+.	mte:Z	.
+Erjavec	mte:Npmsn	Erjavec
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vesel	mte:Agpmsnn	vesel
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+policijske	mte:Agpfsg	policijski
+preiskave	mte:Ncfsg	preiskava
+,	mte:Z	,
+ker	mte:Cs	ker
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+tako	mte:Rgp	tako
+na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+vprašanje	mte:Ncnsn	vprašanje
+morebitnega	mte:Agpnsg	morebiten
+podkupovanja	mte:Ncnsg	podkupovanje
+razjasnilo	mte:Vmep-sn	razjasniti
+.	mte:Z	.
+Cvikl	mte:Npmsn	Cvikl
+:	mte:Z	:
+Nisem	mte:Va-r1s-y	biti
+presenečen	mte:Appmsnn	presenečen
+!	mte:Z	!
+Predsednik	mte:Ncmsn	predsednik
+komisije	mte:Ncfsg	komisija
+,	mte:Z	,
+ki	mte:Cs	ki
+proučuje	mte:Vmpr3s	proučevati
+nakup	mte:Ncmsan	nakup
+oklepnikov	mte:Ncmpg	oklepnik
+8x8	mte:Mdc	8x8
+,	mte:Z	,
+Milan	mte:Npmsn	Milan
+M	mte:Npmsn	M
+.	mte:Z	.
+Cvikl	mte:Npmsn	Cvikl
+,	mte:Z	,
+nad	mte:Si	nad
+zadevo	mte:Ncfsi	zadeva
+ni	mte:Va-r3s-y	biti
+presenečen	mte:Appmsnn	presenečen
+.	mte:Z	.
+"	mte:Z	"
+Mi	mte:Pp1-sd--y	jaz
+že	mte:Q	že
+ves	mte:Pg-msa	ves
+čas	mte:Ncmsan	čas
+trdimo	mte:Vmpr1p	trditi
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+negospodaren	mte:Agpmsan	negospodaren
+in	mte:Cc	in
+netransparenten	mte:Agpmsan	netransparenten
+posel	mte:Ncmsan	posel
+,	mte:Z	,
+"	mte:Z	"
+pojasni	mte:Vmer3s	pojasniti
+Cvikl	mte:Npmsn	Cvikl
+.	mte:Z	.
+"	mte:Z	"
+Zato	mte:Cc	zato
+tudi	mte:Q	tudi
+vodim	mte:Vmpr1s	voditi
+preiskovalno	mte:Agpfsa	preiskovalen
+komisijo	mte:Ncfsa	komisija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+bolj	mte:Rgc	bolj
+ko	mte:Cs	ko
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+poglabljala	mte:Vmpp-sf	poglabljati
+v	mte:Sa	v
+ta	mte:Pd-msa	ta
+posel	mte:Ncmsan	posel
+,	mte:Z	,
+doživljala	mte:Vmpp-sf	doživljati
+vse	mte:Pg-mpa	ves
+močnejše	mte:Agcmpa	močen
+politične	mte:Agpmpa	političen
+pritiske	mte:Ncmpa	pritisk
+.	mte:Z	.
+Pustimo	mte:Vmem1p	pustiti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+finski	mte:Agpmpn	finski
+organi	mte:Ncmpn	organ
+pregona	mte:Ncmsg	pregon
+opravili	mte:Vmep-pm	opraviti
+svoje	mte:Px-nsa	svoj
+delo	mte:Ncnsa	delo
+in	mte:Cc	in
+pričakujem	mte:Vmpr1s	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+začeli	mte:Vmep-pm	začeti
+delati	mte:Vmpn	delati
+tudi	mte:Q	tudi
+slovenski	mte:Agpmpn	slovenski
+organi	mte:Ncmpn	organ
+pregona	mte:Ncmsg	pregon
+.	mte:Z	.
+"	mte:Z	"
+Komentar	mte:Ncmsan	komentar
+smo	mte:Va-r1p-n	biti
+poskušali	mte:Vmpp-pm	poskušati
+dobiti	mte:Vmen	dobiti
+tudi	mte:Q	tudi
+od	mte:Sg	od
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Gorenja	mte:Npnsg	gorenje
+,	mte:Z	,
+Franja	mte:Npmsg	Franjo
+Bobinca	mte:Npmsg	Bobinc
+,	mte:Z	,
+saj	mte:Cc	saj
+v	mte:Sl	v
+Šoštanju	mte:Npnsl	Šoštanj
+izdelujejo	mte:Vmpr3p	izdelovati
+školjko	mte:Ncfsa	školjka
+oklepnika	mte:Ncmsg	oklepnik
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+njegov	mte:Ps3msnsm	njegov
+telefon	mte:Ncmsn	telefon
+odzvonil	mte:Vmep-sm	odzvoniti
+v	mte:Sa	v
+prazno	mte:Agpfsa	prazen
+.	mte:Z	.
+Ovadbe	mte:Ncfsg	ovadba
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+?	mte:Z	?
+Po	mte:Sl	po
+naših	mte:Ps1fplp	naš
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+že	mte:Q	že
+padle	mte:Vmep-pf	pasti
+prve	mte:Mlofpa	prvi
+kazenske	mte:Agpfpa	kazenski
+ovadbe	mte:Ncfpa	ovadba
+v	mte:Sl	v
+povezavi	mte:Ncfsl	povezava
+z	mte:Si	z
+nakupom	mte:Ncmsi	nakup
+oklepnikov	mte:Ncmpg	oklepnik
+.	mte:Z	.
+Tiskovni	mte:Agpmsny	tiskoven
+predstavnik	mte:Ncmsn	predstavnik
+policije	mte:Ncfsg	policija
+Leon	mte:Npmsn	Leon
+Keder	mte:Npmsn	Keder
+nam	mte:Pp1-pd	jaz
+včeraj	mte:Rgp	včeraj
+tega	mte:Pd-nsg	ta
+ni	mte:Va-r3s-y	biti
+mogel	mte:Vmpp-sm	moči
+preveriti	mte:Vmen	preveriti
+,	mte:Z	,
+več	mte:Q	več
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+na	mte:Sl	na
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+znanega	mte:Appmsg	znan
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek

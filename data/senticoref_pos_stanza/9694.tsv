@@ -1,234 +1,258 @@
-token	tag
-Najnovejša	Agsfsn
-javnomnenjska	Agpfsn
-raziskava	Ncfsn
-kaže	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-,	Z
-če	Cs
-bi	Va-c
-bile	Va-p-pf
-volitve	Ncfpn
-to	Pd-fsa
-nedeljo	Ncfsa
-,	Z
-največ	Rgs
-glasov	Ncmpg
-dobila	Vmep-sf
-SDS	Npfsa
-,	Z
-na	Sl
-drugem	Mlpnsl
-mestu	Ncnsl
-bi	Va-c
-se	Px------y
-znašla	Vmep-sf
-lista	Ncmsg
-Gregorja	Npmsg
-Viranta	Npmsg
-,	Z
-na	Sl
-tretjem	Mlomsl
-pa	Cc
-Jankovićeva	Aspfsg
-lista	Ncmsg
-Pozitivna	Agpfsn
-Slovenija	Npfsn
-.	Z
-Število	Ncnsn
-neopredeljenih	Agpmpg
-32	Mdc
-odstotkov	Ncmpg
-.	Z
-18,8	Mdc
-odstotka	Ncmsg
-anketirancev	Ncmpg
-bi	Va-c
-tako	Rgp
-volilo	Vmbp-sn
-Slovensko	Agpfsa
-demokratsko	Agpfsa
-stranko	Ncfsa
-,	Z
-11,2	Mdc
-državljansko	Agpfsa
-listo	Ncfsa
-Gregorja	Npmsg
-Viranta	Npmsg
-,	Z
-6,7	Mdc
-odstotka	Ncmsg
-pa	Cc
-listo	Ncfsa
-Zorana	Npmsg
-Jankovića	Npmsg
-.	Z
-Raziskava	Ncfsn
-časnika	Ncmsg
-Večer	Ncmsn
-(	Z
-opravilo	Ncnsn
-jo	Pp3fsa--y
-je	Va-r3s-n
-podjetje	Ncnsn
-RM	Npmsn
-plus	Npmsn
-)	Z
-,	Z
-v	Sl
-kateri	Pq-fsl
-je	Va-r3s-n
-sodelovalo	Vmpp-sn
-700	Mdc
-anketirancev	Ncmpg
-,	Z
-je	Va-r3s-n
-še	Q
-pokazala	Vmep-sf
-,	Z
-da	Cs
-bi	Va-c
-manj	Rgc
-kot	Cs
-štiri	Mlcmpa
-odstotke	Ncmpa
-glasov	Ncmpg
-dobile	Vmep-pf
-stranke	Ncfpa
-SD	Npfsg
-,	Z
-DeSUS	Npmsn
-,	Z
-SNS	Npfsg
-,	Z
-SLS	Npfsg
-,	Z
-NSi	Npfsg
-,	Z
-TRS	Npmsn
-in	Cc
-LDS	Npfsg
-.	Z
-Zdajšnja	Agpfsn
-največja	Agsfsn
-vladna	Agpfsn
-stranka	Ncfsn
-bi	Va-c
-tako	Rgp
-dobila	Vmep-sf
-3,9	Mdc
-odstotkov	Ncmpg
-glasov	Ncmpg
-.	Z
-Vse	Pg-fpn
-ostale	Appfpa
-stranke	Ncfpa
-pa	Cc
-med	Si
-0,9	Mdc
-in	Cc
-1,3	Mdc
-odstotka	Ncmsg
-glasov	Ncmpg
-.	Z
-Volitev	Ncfpg
-se	Px------y
-ne	Q
-bi	Va-c
-udeležilo	Vmep-sn
-9,4	Mdc
-odstotka	Ncmsg
-sodelujočih	Appmpg
-v	Sl
-anketi	Ncfsl
-,	Z
-neopredeljenih	Agpmpg
-pa	Cc
-je	Va-r3s-n
-32,3	Mdc
-odstotka	Ncmsg
-anketirancev	Ncmpg
-.	Z
-Medianina	Aspfsn
-raziskava	Ncfsn
-:	Z
-Zmagal	Vmep-sm
-bi	Va-c
-Virant	Npmsn
-Torkova	Aspfsn
-raziskava	Ncfsn
-Mediane	Npfsg
-je	Va-r3s-n
-,	Z
-kot	Cs
-smo	Va-r1p-n
-poročali	Vmpp-pm
-,	Z
-pokazala	Vmep-sf
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-na	Sl
-volitvah	Ncfpl
-,	Z
-če	Cs
-bi	Va-c
-bile	Va-p-pf
-volitve	Ncfpn
-prihodnjo	Agpfsa
-nedeljo	Ncfsa
-,	Z
-najbolje	Rgs
-odrezala	Vmep-sf
-stranka	Ncfsn
-Gregorja	Npmsg
-Viranta	Npmsg
-,	Z
-ki	Cs
-bi	Va-c
-ji	Pp3fsd--y
-sledila	Vmpp-sf
-SDS	Npfsn
-.	Z
-Za	Sa
-Virantovo	Aspfsa
-stranko	Ncfsa
-bi	Va-c
-tako	Rgp
-svoj	Px-msa
-glas	Ncmsan
-oddalo	Vmep-sn
-17,2	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-.	Z
-SDS	Npfsn
-pa	Cc
-bi	Va-c
-dobila	Vmep-sf
-16,5	Mdc
-odstotka	Ncmsg
-.	Z
-V	Sl
-primerjavi	Ncfsl
-z	Si
-drugim	Mlpmsi
-tednom	Ncmsi
-istega	Pi-msg
-meseca	Ncmsg
-je	Va-r3s-n
-SDS	Npfsn
-izgubila	Vmep-sf
-slabe	Agpmpa
-štiri	Mlcmpa
-odstotke	Ncmpa
-glasov	Ncmpg
-in	Cc
-padla	Vmep-sf
-s	Sg
-prvega	Mlonsg
-mesta	Ncnsg
-.	Z
+token	tag	lemma
+Najnovejša	mte:Agsfsn	nov
+javnomnenjska	mte:Agpfsn	javnomnenjski
+raziskava	mte:Ncfsn	raziskava
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+volitve	mte:Ncfpn	volitev
+to	mte:Pd-fsa	ta
+nedeljo	mte:Ncfsa	nedelja
+,	mte:Z	,
+največ	mte:Rgs	največ
+glasov	mte:Ncmpg	glas
+dobila	mte:Vmep-sf	dobiti
+SDS	mte:Npfsa	SDS
+,	mte:Z	,
+na	mte:Sl	na
+drugem	mte:Mlpnsl	drug
+mestu	mte:Ncnsl	mesto
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+znašla	mte:Vmep-sf	znajti
+lista	mte:Ncmsg	list
+Gregorja	mte:Npmsg	Gregor
+Viranta	mte:Npmsg	Virant
+,	mte:Z	,
+na	mte:Sl	na
+tretjem	mte:Mlomsl	tretji
+pa	mte:Cc	pa
+Jankovićeva	mte:Aspfsg	Jankovićev
+lista	mte:Ncmsg	list
+Pozitivna	mte:Agpfsn	pozitiven
+Slovenija	mte:Npfsn	Slovenija
+.	mte:Z	.
+Število	mte:Ncnsn	število
+neopredeljenih	mte:Agpmpg	neopredeljen
+32	mte:Mdc	32
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+18,8	mte:Mdc	18,8
+odstotka	mte:Ncmsg	odstotek
+anketirancev	mte:Ncmpg	anketiranec
+bi	mte:Va-c	biti
+tako	mte:Rgp	tako
+volilo	mte:Vmbp-sn	voliti
+Slovensko	mte:Agpfsa	slovenski
+demokratsko	mte:Agpfsa	demokratski
+stranko	mte:Ncfsa	stranka
+,	mte:Z	,
+11,2	mte:Mdc	11,2
+državljansko	mte:Agpfsa	državljanski
+listo	mte:Ncfsa	lista
+Gregorja	mte:Npmsg	Gregor
+Viranta	mte:Npmsg	Virant
+,	mte:Z	,
+6,7	mte:Mdc	6,7
+odstotka	mte:Ncmsg	odstotek
+pa	mte:Cc	pa
+listo	mte:Ncfsa	lista
+Zorana	mte:Npmsg	Zoran
+Jankovića	mte:Npmsg	Janković
+.	mte:Z	.
+Raziskava	mte:Ncfsn	raziskava
+časnika	mte:Ncmsg	časnik
+Večer	mte:Ncmsn	večer
+(	mte:Z	(
+opravilo	mte:Ncnsn	opravilo
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+podjetje	mte:Ncnsn	podjetje
+RM	mte:Npmsn	RM
+plus	mte:Npmsn	plus
+)	mte:Z	)
+,	mte:Z	,
+v	mte:Sl	v
+kateri	mte:Pq-fsl	kateri
+je	mte:Va-r3s-n	biti
+sodelovalo	mte:Vmpp-sn	sodelovati
+700	mte:Mdc	700
+anketirancev	mte:Ncmpg	anketiranec
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pokazala	mte:Vmep-sf	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+štiri	mte:Mlcmpa	štirje
+odstotke	mte:Ncmpa	odstotek
+glasov	mte:Ncmpg	glas
+dobile	mte:Vmep-pf	dobiti
+stranke	mte:Ncfpa	stranka
+SD	mte:Npfsg	SD
+,	mte:Z	,
+DeSUS	mte:Npmsn	Desus
+,	mte:Z	,
+SNS	mte:Npfsg	SNS
+,	mte:Z	,
+SLS	mte:Npfsg	SLS
+,	mte:Z	,
+NSi	mte:Npfsg	NSi
+,	mte:Z	,
+TRS	mte:Npmsn	TRS
+in	mte:Cc	in
+LDS	mte:Npfsg	LDS
+.	mte:Z	.
+Zdajšnja	mte:Agpfsn	zdajšnji
+največja	mte:Agsfsn	velik
+vladna	mte:Agpfsn	vladen
+stranka	mte:Ncfsn	stranka
+bi	mte:Va-c	biti
+tako	mte:Rgp	tako
+dobila	mte:Vmep-sf	dobiti
+3,9	mte:Mdc	3,9
+odstotkov	mte:Ncmpg	odstotek
+glasov	mte:Ncmpg	glas
+.	mte:Z	.
+Vse	mte:Pg-fpn	ves
+ostale	mte:Appfpa	ostal
+stranke	mte:Ncfpa	stranka
+pa	mte:Cc	pa
+med	mte:Si	med
+0,9	mte:Mdc	0,9
+in	mte:Cc	in
+1,3	mte:Mdc	1,3
+odstotka	mte:Ncmsg	odstotek
+glasov	mte:Ncmpg	glas
+.	mte:Z	.
+Volitev	mte:Ncfpg	volitev
+se	mte:Px------y	se
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+udeležilo	mte:Vmep-sn	udeležiti
+9,4	mte:Mdc	9,4
+odstotka	mte:Ncmsg	odstotek
+sodelujočih	mte:Appmpg	sodelujoč
+v	mte:Sl	v
+anketi	mte:Ncfsl	anket
+,	mte:Z	,
+neopredeljenih	mte:Agpmpg	neopredeljen
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+32,3	mte:Mdc	32,3
+odstotka	mte:Ncmsg	odstotek
+anketirancev	mte:Ncmpg	anketiranec
+.	mte:Z	.
+Medianina	mte:Aspfsn	Medianin
+raziskava	mte:Ncfsn	raziskava
+:	mte:Z	:
+Zmagal	mte:Vmep-sm	zmagati
+bi	mte:Va-c	biti
+Virant	mte:Npmsn	Virant
+Torkova	mte:Aspfsn	torkov
+raziskava	mte:Ncfsn	raziskava
+Mediane	mte:Npfsg	Mediana
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+smo	mte:Va-r1p-n	biti
+poročali	mte:Vmpp-pm	poročati
+,	mte:Z	,
+pokazala	mte:Vmep-sf	pokazati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+volitvah	mte:Ncfpl	volitev
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+bile	mte:Va-p-pf	biti
+volitve	mte:Ncfpn	volitev
+prihodnjo	mte:Agpfsa	prihodnji
+nedeljo	mte:Ncfsa	nedelja
+,	mte:Z	,
+najbolje	mte:Rgs	dobro
+odrezala	mte:Vmep-sf	odrezati
+stranka	mte:Ncfsn	stranka
+Gregorja	mte:Npmsg	Gregor
+Viranta	mte:Npmsg	Virant
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+ji	mte:Pp3fsd--y	on
+sledila	mte:Vmpp-sf	slediti
+SDS	mte:Npfsn	SDS
+.	mte:Z	.
+Za	mte:Sa	za
+Virantovo	mte:Aspfsa	Virantov
+stranko	mte:Ncfsa	stranka
+bi	mte:Va-c	biti
+tako	mte:Rgp	tako
+svoj	mte:Px-msa	svoj
+glas	mte:Ncmsan	glas
+oddalo	mte:Vmep-sn	oddati
+17,2	mte:Mdc	17,2
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+.	mte:Z	.
+SDS	mte:Npfsn	SDS
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+dobila	mte:Vmep-sf	dobiti
+16,5	mte:Mdc	16,5
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+V	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+drugim	mte:Mlpmsi	drug
+tednom	mte:Ncmsi	teden
+istega	mte:Pi-msg	isti
+meseca	mte:Ncmsg	mesec
+je	mte:Va-r3s-n	biti
+SDS	mte:Npfsn	SDS
+izgubila	mte:Vmep-sf	izgubiti
+slabe	mte:Agpmpa	slab
+štiri	mte:Mlcmpa	štirje
+odstotke	mte:Ncmpa	odstotek
+glasov	mte:Ncmpg	glas
+in	mte:Cc	in
+padla	mte:Vmep-sf	pasti
+s	mte:Sg	z
+prvega	mte:Mlonsg	prvi
+mesta	mte:Ncnsg	mesto
+.	mte:Z	.
+Na	mte:Sl	na
+tretjem	mte:Mlonsl	tretji
+mestu	mte:Ncnsl	mesto
+bi	mte:Va-c	biti
+pristala	mte:Vmep-sf	pristati
+stranka	mte:Ncfsn	stranka
+Zorana	mte:Npmsg	Zoran
+Jankovića	mte:Npmsg	Janković
+z	mte:Si	z
+12,5	mte:Mdc	12,5
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+sledila	mte:Vmpp-sf	slediti
+bi	mte:Va-c	biti
+ji	mte:Pp3fsd--y	on
+SD	mte:Npmsn	SD
+s	mte:Si	z
+6,1	mte:Mdc	6,1
+odstotka	mte:Ncmsg	odstotek
+in	mte:Cc	in
+SLS	mte:Npfsi	SLS
+s	mte:Si	z
+4,3	mte:Mdc	4,3
+odstotka	mte:Ncmsg	odstotek

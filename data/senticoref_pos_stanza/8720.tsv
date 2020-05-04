@@ -1,576 +1,626 @@
-token	tag
-Ko	Cs
-bo	Va-f3s-n
-zadnja	Agpfsn
-žrtev	Ncfsn
-(	Z
-po	Sl
-)	Z
-vojnih	Agpmpg
-pobojev	Ncmpg
-dobila	Vmep-sf
-spokojen	Appmsan
-grob	Ncmsan
-,	Z
-bo	Va-f3s-n
-iz	Sg
-slovenskih	Agpnpg
-mest	Ncnpg
-izginila	Vmep-sf
-tudi	Q
-simbolna	Agpfsn
-zapuščina	Ncfsn
-kulture	Ncfsg
-smrti	Ncfsg
-v	Sl
-podobi	Ncfsl
-Tita	Npmsg
-,	Z
-Kardelja	Npmsg
-,	Z
-je	Va-r3s-n
-na	Sl
-spletni	Agpfsl
-strani	Ncfsl
-SDS	Npfsg
-zapisal	Vmep-sm
-Janez	Npmsn
-Janša	Npmsn
-.	Z
-Predsednik	Ncmsn
-SDS	Npfsg
-Janez	Npmsn
-Janša	Npmsn
-se	Px------y
-je	Va-r3s-n
-s	Si
-prispevkom	Ncmsi
-z	Si
-naslovom	Ncmsi
-Kultura	Ncfsn
-življenja	Ncnsg
-namesto	Sg
-kulture	Ncfsg
-smrti	Ncfsg
-odzval	Vmep-sm
-na	Sa
-polemike	Ncfpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-nastale	Vmep-pf
-po	Sl
-predlogu	Ncmsl
-SDS	Npfsg
-,	Z
-da	Cs
-bi	Va-c
-preimenovali	Vmpp-pm
-ulice	Ncfpa
-in	Cc
-odstranili	Vmep-pm
-kipe	Ncmpa
-veljakov	Ncmpg
-totalitarne	Agpfsg
-oblasti	Ncfsg
-države	Ncfsg
-Jugoslavije	Npfsg
-.	Z
-Obnašanje	Ncnsn
-mnogih	Pi-mpg
-je	Va-r3s-n
-celo	Q
-leta	Ncnsg
-2009	Mdc
-zdrsnilo	Vmep-sn
-pod	Si
-normo	Ncfsi
-barbarskih	Agpfpg
-plemen	Ncfpg
-iz	Sg
-starega	Agpmsg
-veka	Ncmsg
-.	Z
-Janez	Npmsn
-Janša	Npmsn
-"	Z
-Upor	Ncmsn
-proti	Sd
-okupatorju	Ncmsd
-je	Va-r3s-n
-bil	Va-p-sm
-častno	Agpnsn
-dejanje	Ncnsn
-,	Z
-sodelovanje	Ncnsn
-z	Si
-okupatorjem	Ncmsi
-pa	Cc
-nizkotno	Agpnsn
-dejanje	Ncnsn
-.	Z
-Izkoriščanje	Ncnsn
-oboroženega	Appmsg
-odpora	Ncmsg
-proti	Sd
-okupatorju	Ncmsd
-za	Sa
-prevzem	Ncmsan
-oblasti	Ncfsg
-je	Va-r3s-n
-bilo	Va-p-sn
-nizkotno	Agpnsn
-dejanje	Ncnsn
-,	Z
-samoobramba	Ncfsn
-in	Cc
-upor	Ncmsn
-proti	Sd
-revolucionarnemu	Agpnsd
-nasilju	Ncnsd
-pa	Cc
-legitimno	Agpnsn
-dejanje	Ncnsn
-,	Z
-"	Z
-je	Va-r3s-n
-uvodoma	Ncmpd
-zapisal	Vmep-sm
-Janša	Npmsn
-in	Cc
-opozoril	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-komunisti	Ncmpn
-med	Si
-drugo	Mlpfsi
-svetovno	Agpfsi
-vojno	Ncfsi
-zagrozili	Vmep-pm
-s	Si
-smrtjo	Ncfsi
-vsakomur	Pg-msd
-,	Z
-ki	Cs
-se	Px------y
-bo	Va-f3s-n
-proti	Sd
-okupatorju	Ncmsd
-boril	Vmpp-sm
-izven	Sg
-OF	Npmsn
-.	Z
-Leta	Ncnsg
-1942	Mdc
-so	Va-r3p-n
-po	Sl
-besedah	Ncfpl
-predsednika	Ncmsg
-največje	Agsfsg
-opozicijske	Agpfsg
-stranke	Ncfsg
-"	Z
-brezobzirno	Rgp
-pobili	Vmep-pm
-veliko	Rgp
-sredinskih	Agpmpg
-politikov	Ncmpg
-,	Z
-ki	Cs
-se	Px------y
-jim	Pp3mpd--y
-niso	Va-r3p-y
-hoteli	Vmpp-pm
-pridružiti	Vmen
-"	Z
-.	Z
-Slovenski	Agpmpn
-komunisti	Ncmpn
-so	Va-r3p-n
-se	Px------y
-pri	Sl
-obsegu	Ncmsl
-pobojev	Ncmpg
-in	Cc
-izbiri	Ncfsl
-metod	Ncfpg
-izkazali	Vmep-pm
-za	Sa
-več	Rgc
-kot	Cs
-dostojne	Agpmpa
-"	Z
-sodelavce	Ncmpa
-"	Z
-svojih	Px-mpg
-nacističnih	Agpmpg
-in	Cc
-stalinističnih	Agpmpg
-vzornikov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-uporabljali	Vmpp-pm
-podobne	Agpfpa
-metode	Ncfpa
-,	Z
-meni	Pp1-sd
-Janša	Npfsn
-.	Z
-Deloma	Cs
-barbarska	Agpfsn
-mentaliteta	Ncfsn
-na	Sl
-Slovenskem	Npnsl
-Po	Sl
-Janševih	Aspfpl
-besedah	Ncfpl
-so	Va-r3p-n
-bili	Va-p-pm
-medvojni	Agpmpn
-in	Cc
-povojni	Agpmpn
-poboji	Ncmpn
-vojnih	Agpmpg
-ujetnikov	Ncmpg
-in	Cc
-civilistov	Ncmpg
-zločin	Ncmsn
-ne	Q
-glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-kdo	Pq-msn
-jih	Pp3mpa--y
-je	Va-r3s-n
-izvedel	Vmep-sm
-.	Z
-Omenil	Vmep-sm
-je	Va-r3s-n
-stare	Agpmpa
-Grke	Npmpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-že	Q
-pred	Si
-tisočletji	Ncnpi
-po	Sl
-vsaki	Pg-fsl
-bitki	Ncfsl
-ali	Cc
-vojni	Ncfsl
-dovolili	Vmep-pm
-premaganim	Appmpd
-nasprotnikom	Ncmpd
-,	Z
-da	Cs
-so	Va-r3p-n
-pokopali	Vmep-pm
-ali	Cc
-sežgali	Vmep-pm
-svoje	Px-fpa
-mrtve	Agpfpa
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-komunizem	Ncmsn
-na	Sl
-Slovenskem	Agpnsl
-ustvaril	Vmep-sm
-kulturo	Ncfsa
-smrti	Ncfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-privedla	Vmep-sf
-do	Sg
-stanja	Ncnsg
-,	Z
-v	Sl
-katerem	Pq-msl
-je	Va-r3s-n
-obnašanje	Ncnsn
-mnogih	Pi-mpg
-celo	Q
-leta	Ncnsg
-2009	Mdc
-zdrsnilo	Vmep-sn
-pod	Si
-normo	Ncfsa
-barbarskih	Agpfpg
-plemen	Ncfpg
-iz	Sg
-starega	Agpmsg
-veka	Ncmsg
-.	Z
-"	Z
-Eno	Mlpnsn
-glavnih	Agpnpg
-propagandnih	Agpnpg
-orodij	Ncnpg
-kulture	Ncfsg
-smrti	Ncfsg
-skozi	Sa
-vsa	Pg-npa
-zadnja	Agpnpa
-desetletja	Ncnpa
-je	Va-r3s-n
-pred	Si
-dnevi	Ncmpi
-ponovno	Rgp
-zapisalo	Vmep-sn
-,	Z
-da	Cs
-je	Va-r3s-n
-odkritje	Ncnsn
-grobišča	Ncnsg
-v	Sl
-Hudi	Agpfsl
-Jami	Npfsl
-le	Q
-premetavanje	Ncnsn
-kosti	Ncfpg
-kolaborantov	Ncmpg
-in	Cc
-okupatorjev	Ncmpg
-,	Z
-ter	Cc
-poniglavo	Ncfsn
-primerjalo	Vmpp-sn
-povojne	Agpmpa
-poboje	Ncmpa
-s	Si
-tako	Rgp
-imenovanimi	Appmpi
-izbrisanimi	Appmpi
-,	Z
-"	Z
-opozarja	Vmpr3s
-Janša	Npfsn
-.	Z
-Zakonsko	Rgp
-naj	Q
-se	Px------y
-prepove	Vmer3s
-poveličevanje	Ncnsa
-ali	Cc
-opravičevanje	Ncnsa
-zločina	Ncmsg
-.	Z
-Janez	Npmsn
-Janša	Npmsn
-Janša	Npmsn
-predlaga	Vmbr3s
-,	Z
-da	Cs
-se	Px------y
-dopolni	Vmer3s
-zakon	Ncmsn
-o	Sl
-žrtvah	Ncfpl
-vojnega	Agpnsg
-nasilja	Ncnsg
-,	Z
-tako	Cc
-da	Cs
-bo	Va-f3s-n
-nediskriminatorski	Agpmsny
-in	Cc
-brez	Sg
-političnih	Agpfpg
-diskvalifikacij	Ncfpg
-.	Z
-Zakonsko	Rgp
-pa	Cc
-naj	Q
-se	Px------y
-prepove	Vmer3s
-poveličevanje	Ncnsa
-in	Cc
-opravičevanje	Ncnsa
-zločina	Ncmsg
-,	Z
-je	Va-r3s-n
-zapisal	Vmep-sm
-.	Z
-V	Sl
-glavnem	Agpnsl
-mestu	Ncnsl
-naj	Q
-se	Px------y
-postavi	Vmer3s
-kostnica	Ncfsn
-za	Sa
-pokop	Ncmsan
-tistih	Pd-fpg
-žrtev	Ncfpg
-povojnih	Agpmpg
-pobojev	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-ni	Va-r3s-y
-možno	Agpnsn
-pokopati	Vmen
-na	Sl
-kraju	Ncmsl
-smrti	Ncfsg
-.	Z
-"	Z
-Na	Sl
-glavnem	Agpmsl
-trgu	Ncmsl
-v	Sl
-Ljubljani	Npfsl
-naj	Q
-se	Px------y
-postavi	Vmer3s
-spomenik	Ncmsan
-vsem	Pg-mpd
-umrlim	Appmpd
-v	Sl
-vseh	Pg-npl
-obdobjih	Ncnpl
-naše	Ps1fsgp
-zgodovine	Ncfsg
-,	Z
-na	Sa
-katerega	Pq-msa
-se	Px------y
-preprosto	Rgp
-zapiše	Vmer3s
-:	Z
-Našim	Ps1mpdp
-mrtvim	Agpmpd
-,	Z
-"	Z
-še	Q
-predlaga	Vmbr3s
-Janša	Npmsn
-.	Z
-Afera	Ncfsn
-fotokopirni	Agpmsay
-stroj	Ncmsan
-slepilo	Vmpp-sn
-za	Sa
-.	Z
-.	Z
-.	Z
-V	Sl
-dolini	Ncfsl
-Kolpe	Npfsg
-,	Z
-nadaljuje	Vmpr3s
-Janša	Npmsn
-,	Z
-še	Q
-vedno	Rgp
-stojijo	Vmpr3p
-počitniške	Agpfpa
-hišice	Ncfpn
-,	Z
-katerih	Pq-mpg
-temelje	Ncmpa
-so	Va-r3p-n
-zgradili	Vmep-pm
-iz	Sg
-nagrobnikov	Ncmpg
-uničenih	Appnpg
-pokopališč	Ncnpg
-.	Z
-"	Z
-Ko	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-v	Sl
-prejšnjih	Agpnpl
-letih	Ncnpl
-del	Ncmsn
-dokumentacije	Ncfsg
-o	Sl
-teh	Pd-mpl
-in	Cc
-drugih	Mlpmpl
-privilegijih	Ncmpl
-nekdanje	Agpfsg
-komunistične	Agpfsg
-elite	Ncfsg
-predan	Appmsnn
-Arhivu	Ncmsd
-Slovenije	Npfsg
-,	Z
-so	Va-r3p-n
-si	Px---d--y
-izmislili	Vmep-pm
-afero	Ncfsa
-fotokopirni	Agpmsay
-stroj	Ncmsan
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-generalni	Agpmsny
-sekretar	Ncmsn
-vlade	Ncfsg
-ob	Sl
-pomoči	Ncfsl
-medijskega	Agpmsg
-stroja	Ncmsg
-'	Z
-servisira	Vmbr3s
-'	Z
-že	Q
-vse	Rgp
-od	Sg
-nastopa	Ncmsg
-nove	Agpfsg
-vlade	Ncfsg
-,	Z
-"	Z
-pojasnjuje	Vmpr3s
-.	Z
-Po	Sl
-Janševem	Aspnsl
-mnenju	Ncnsl
-osnovna	Agpfsn
-točka	Ncfsn
-spopada	Ncmsg
-med	Si
-kulturo	Ncfsi
-smrti	Ncfsg
-in	Cc
-kulturo	Ncfsi
-življenja	Ncnsg
-niso	Va-r3p-y
-imena	Ncnsg
-ulic	Ncfpg
-.	Z
-Preimenovanje	Ncnsn
-je	Va-r3s-n
-tako	Rgp
-kot	Cs
-poimenovanje	Ncnsn
-zgolj	Q
-posledica	Ncfsn
-nečesa	Pi-nsg
-.	Z
-Mrtvi	Agpmpn
-pač	Q
-ne	Q
-bodo	Va-f3p-n
-ostali	Vmep-pm
-večno	Rgp
-nepokopani	Agpmpn
-,	Z
-količina	Ncfsn
-njihovega	Ps3nsgp
-trpljenja	Ncnsg
-je	Va-r3s-n
-prevelika	Agpfsn
-,	Z
-"	Z
-pojasnjuje	Vmpr3s
-.	Z
+token	tag	lemma
+Ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+zadnja	mte:Agpfsn	zadnji
+žrtev	mte:Ncfsn	žrtev
+(	mte:Z	(
+po	mte:Sl	po
+)	mte:Z	)
+vojnih	mte:Agpmpg	vojen
+pobojev	mte:Ncmpg	poboj
+dobila	mte:Vmep-sf	dobiti
+spokojen	mte:Appmsan	spokojen
+grob	mte:Ncmsan	grob
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+iz	mte:Sg	iz
+slovenskih	mte:Agpnpg	slovenski
+mest	mte:Ncnpg	mesto
+izginila	mte:Vmep-sf	izginiti
+tudi	mte:Q	tudi
+simbolna	mte:Agpfsn	simbolen
+zapuščina	mte:Ncfsn	zapuščina
+kulture	mte:Ncfsg	kultura
+smrti	mte:Ncfsg	smrt
+v	mte:Sl	v
+podobi	mte:Ncfsl	podoba
+Tita	mte:Npmsg	Tita
+,	mte:Z	,
+Kardelja	mte:Npmsg	Kardelj
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran
+SDS	mte:Npfsg	SDS
+zapisal	mte:Vmep-sm	zapisati
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+SDS	mte:Npfsg	SDS
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+prispevkom	mte:Ncmsi	prispevek
+z	mte:Si	z
+naslovom	mte:Ncmsi	naslov
+Kultura	mte:Ncfsn	kultura
+življenja	mte:Ncnsg	življenje
+namesto	mte:Sg	namesto
+kulture	mte:Ncfsg	kultura
+smrti	mte:Ncfsg	smrt
+odzval	mte:Vmep-sm	odzvati
+na	mte:Sa	na
+polemike	mte:Ncfpa	polemika
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+nastale	mte:Vmep-pf	nastati
+po	mte:Sl	po
+predlogu	mte:Ncmsl	predlog
+SDS	mte:Npfsg	SDS
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+preimenovali	mte:Vmpp-pm	preimenovati
+ulice	mte:Ncfpa	ulica
+in	mte:Cc	in
+odstranili	mte:Vmep-pm	odstraniti
+kipe	mte:Ncmpa	kipa
+veljakov	mte:Ncmpg	veljak
+totalitarne	mte:Agpfsg	totalitaren
+oblasti	mte:Ncfsg	oblast
+države	mte:Ncfsg	država
+Jugoslavije	mte:Npfsg	Jugoslavija
+.	mte:Z	.
+Obnašanje	mte:Ncnsn	obnašanje
+mnogih	mte:Pi-mpg	mnog
+je	mte:Va-r3s-n	biti
+celo	mte:Q	celo
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+zdrsnilo	mte:Vmep-sn	zdrsniti
+pod	mte:Si	pod
+normo	mte:Ncfsi	norma
+barbarskih	mte:Agpfpg	barbarski
+plemen	mte:Ncfpg	plemen
+iz	mte:Sg	iz
+starega	mte:Agpmsg	star
+veka	mte:Ncmsg	vek
+.	mte:Z	.
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+"	mte:Z	"
+Upor	mte:Ncmsn	upor
+proti	mte:Sd	proti
+okupatorju	mte:Ncmsd	okupator
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+častno	mte:Agpnsn	časten
+dejanje	mte:Ncnsn	dejanje
+,	mte:Z	,
+sodelovanje	mte:Ncnsn	sodelovanje
+z	mte:Si	z
+okupatorjem	mte:Ncmsi	okupator
+pa	mte:Cc	pa
+nizkotno	mte:Agpnsn	nizkoten
+dejanje	mte:Ncnsn	dejanje
+.	mte:Z	.
+Izkoriščanje	mte:Ncnsn	izkoriščanje
+oboroženega	mte:Appmsg	oborožen
+odpora	mte:Ncmsg	odpor
+proti	mte:Sd	proti
+okupatorju	mte:Ncmsd	okupator
+za	mte:Sa	za
+prevzem	mte:Ncmsan	prevzem
+oblasti	mte:Ncfsg	oblast
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+nizkotno	mte:Agpnsn	nizkoten
+dejanje	mte:Ncnsn	dejanje
+,	mte:Z	,
+samoobramba	mte:Ncfsn	samoobramba
+in	mte:Cc	in
+upor	mte:Ncmsn	upor
+proti	mte:Sd	proti
+revolucionarnemu	mte:Agpnsd	revolucionaren
+nasilju	mte:Ncnsd	nasilje
+pa	mte:Cc	pa
+legitimno	mte:Agpnsn	legitimen
+dejanje	mte:Ncnsn	dejanje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+uvodoma	mte:Ncmpd	uvod
+zapisal	mte:Vmep-sm	zapisati
+Janša	mte:Npmsn	Janša
+in	mte:Cc	in
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+komunisti	mte:Ncmpn	komunist
+med	mte:Si	med
+drugo	mte:Mlpfsi	drug
+svetovno	mte:Agpfsi	svetoven
+vojno	mte:Ncfsi	vojna
+zagrozili	mte:Vmep-pm	zagroziti
+s	mte:Si	z
+smrtjo	mte:Ncfsi	smrt
+vsakomur	mte:Pg-msd	vsakdo
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+proti	mte:Sd	proti
+okupatorju	mte:Ncmsd	okupator
+boril	mte:Vmpp-sm	boriti
+izven	mte:Sg	izven
+OF	mte:Npmsn	of
+.	mte:Z	.
+Leta	mte:Ncnsg	leto
+1942	mte:Mdc	1942
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+predsednika	mte:Ncmsg	predsednik
+največje	mte:Agsfsg	velik
+opozicijske	mte:Agpfsg	opozicijski
+stranke	mte:Ncfsg	stranka
+"	mte:Z	"
+brezobzirno	mte:Rgp	brezobzirno
+pobili	mte:Vmep-pm	pobiti
+veliko	mte:Rgp	veliko
+sredinskih	mte:Agpmpg	sredinski
+politikov	mte:Ncmpg	politik
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+jim	mte:Pp3mpd--y	on
+niso	mte:Va-r3p-y	biti
+hoteli	mte:Vmpp-pm	hoteti
+pridružiti	mte:Vmen	pridružiti
+"	mte:Z	"
+.	mte:Z	.
+Slovenski	mte:Agpmpn	slovenski
+komunisti	mte:Ncmpn	komunist
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pri	mte:Sl	pri
+obsegu	mte:Ncmsl	obseg
+pobojev	mte:Ncmpg	poboj
+in	mte:Cc	in
+izbiri	mte:Ncfsl	izbira
+metod	mte:Ncfpg	metoda
+izkazali	mte:Vmep-pm	izkazati
+za	mte:Sa	za
+več	mte:Rgc	več
+kot	mte:Cs	kot
+dostojne	mte:Agpmpa	dostojen
+"	mte:Z	"
+sodelavce	mte:Ncmpa	sodelavec
+"	mte:Z	"
+svojih	mte:Px-mpg	svoj
+nacističnih	mte:Agpmpg	nacističen
+in	mte:Cc	in
+stalinističnih	mte:Agpmpg	stalinističen
+vzornikov	mte:Ncmpg	vzornik
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+uporabljali	mte:Vmpp-pm	uporabljati
+podobne	mte:Agpfpa	podoben
+metode	mte:Ncfpa	metoda
+,	mte:Z	,
+meni	mte:Pp1-sd	jaz
+Janša	mte:Npfsn	Janša
+.	mte:Z	.
+Deloma	mte:Cs	deloma
+barbarska	mte:Agpfsn	barbarski
+mentaliteta	mte:Ncfsn	mentaliteta
+na	mte:Sl	na
+Slovenskem	mte:Npnsl	Slovensko
+Po	mte:Sl	po
+Janševih	mte:Aspfpl	Janšev
+besedah	mte:Ncfpl	beseda
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+medvojni	mte:Agpmpn	medvojen
+in	mte:Cc	in
+povojni	mte:Agpmpn	povojen
+poboji	mte:Ncmpn	poboj
+vojnih	mte:Agpmpg	vojen
+ujetnikov	mte:Ncmpg	ujetnik
+in	mte:Cc	in
+civilistov	mte:Ncmpg	civilist
+zločin	mte:Ncmsn	zločin
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+izvedel	mte:Vmep-sm	izvedeti
+.	mte:Z	.
+Omenil	mte:Vmep-sm	omeniti
+je	mte:Va-r3s-n	biti
+stare	mte:Agpmpa	star
+Grke	mte:Npmpa	Grka
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+pred	mte:Si	pred
+tisočletji	mte:Ncnpi	tisočletje
+po	mte:Sl	po
+vsaki	mte:Pg-fsl	vsak
+bitki	mte:Ncfsl	bitka
+ali	mte:Cc	ali
+vojni	mte:Ncfsl	vojna
+dovolili	mte:Vmep-pm	dovoliti
+premaganim	mte:Appmpd	premagan
+nasprotnikom	mte:Ncmpd	nasprotnik
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+pokopali	mte:Vmep-pm	pokopati
+ali	mte:Cc	ali
+sežgali	mte:Vmep-pm	sežgati
+svoje	mte:Px-fpa	svoj
+mrtve	mte:Agpfpa	mrtev
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+komunizem	mte:Ncmsn	komunizem
+na	mte:Sl	na
+Slovenskem	mte:Agpnsl	slovenski
+ustvaril	mte:Vmep-sm	ustvariti
+kulturo	mte:Ncfsa	kultura
+smrti	mte:Ncfsg	smrt
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+privedla	mte:Vmep-sf	privesti
+do	mte:Sg	do
+stanja	mte:Ncnsg	stanje
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+je	mte:Va-r3s-n	biti
+obnašanje	mte:Ncnsn	obnašanje
+mnogih	mte:Pi-mpg	mnog
+celo	mte:Q	celo
+leta	mte:Ncnsg	leto
+2009	mte:Mdc	2009
+zdrsnilo	mte:Vmep-sn	zdrsniti
+pod	mte:Si	pod
+normo	mte:Ncfsa	norma
+barbarskih	mte:Agpfpg	barbarski
+plemen	mte:Ncfpg	plemen
+iz	mte:Sg	iz
+starega	mte:Agpmsg	star
+veka	mte:Ncmsg	vek
+.	mte:Z	.
+"	mte:Z	"
+Eno	mte:Mlpnsn	en
+glavnih	mte:Agpnpg	glaven
+propagandnih	mte:Agpnpg	propaganden
+orodij	mte:Ncnpg	orodje
+kulture	mte:Ncfsg	kultura
+smrti	mte:Ncfsg	smrt
+skozi	mte:Sa	skozi
+vsa	mte:Pg-npa	ves
+zadnja	mte:Agpnpa	zadnji
+desetletja	mte:Ncnpa	desetletje
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+ponovno	mte:Rgp	ponovno
+zapisalo	mte:Vmep-sn	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+odkritje	mte:Ncnsn	odkritje
+grobišča	mte:Ncnsg	grobišče
+v	mte:Sl	v
+Hudi	mte:Agpfsl	hudi
+Jami	mte:Npfsl	Jama
+le	mte:Q	le
+premetavanje	mte:Ncnsn	premetavanje
+kosti	mte:Ncfpg	kost
+kolaborantov	mte:Ncmpg	kolaborant
+in	mte:Cc	in
+okupatorjev	mte:Ncmpg	okupator
+,	mte:Z	,
+ter	mte:Cc	ter
+poniglavo	mte:Ncfsn	poniglava
+primerjalo	mte:Vmpp-sn	primerjati
+povojne	mte:Agpmpa	povojen
+poboje	mte:Ncmpa	poboj
+s	mte:Si	z
+tako	mte:Rgp	tako
+imenovanimi	mte:Appmpi	imenovan
+izbrisanimi	mte:Appmpi	izbrisan
+,	mte:Z	,
+"	mte:Z	"
+opozarja	mte:Vmpr3s	opozarjati
+Janša	mte:Npfsn	Janša
+.	mte:Z	.
+Zakonsko	mte:Rgp	zakonsko
+naj	mte:Q	naj
+se	mte:Px------y	se
+prepove	mte:Vmer3s	prepovati
+poveličevanje	mte:Ncnsa	poveličevanje
+ali	mte:Cc	ali
+opravičevanje	mte:Ncnsa	opravičevanje
+zločina	mte:Ncmsg	zločina
+.	mte:Z	.
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+Janša	mte:Npmsn	Janša
+predlaga	mte:Vmbr3s	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+dopolni	mte:Vmer3s	dopolniti
+zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+žrtvah	mte:Ncfpl	žrtev
+vojnega	mte:Agpnsg	vojen
+nasilja	mte:Ncnsg	nasilje
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+nediskriminatorski	mte:Agpmsny	nediskriminatorski
+in	mte:Cc	in
+brez	mte:Sg	brez
+političnih	mte:Agpfpg	političen
+diskvalifikacij	mte:Ncfpg	diskvalifikacija
+.	mte:Z	.
+Zakonsko	mte:Rgp	zakonsko
+pa	mte:Cc	pa
+naj	mte:Q	naj
+se	mte:Px------y	se
+prepove	mte:Vmer3s	prepovati
+poveličevanje	mte:Ncnsa	poveličevanje
+in	mte:Cc	in
+opravičevanje	mte:Ncnsa	opravičevanje
+zločina	mte:Ncmsg	zločina
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zapisal	mte:Vmep-sm	zapisati
+.	mte:Z	.
+V	mte:Sl	v
+glavnem	mte:Agpnsl	glaven
+mestu	mte:Ncnsl	mesto
+naj	mte:Q	naj
+se	mte:Px------y	se
+postavi	mte:Vmer3s	postaviti
+kostnica	mte:Ncfsn	kostnica
+za	mte:Sa	za
+pokop	mte:Ncmsan	pokop
+tistih	mte:Pd-fpg	tisti
+žrtev	mte:Ncfpg	žrtev
+povojnih	mte:Agpmpg	povojen
+pobojev	mte:Ncmpg	poboj
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+ni	mte:Va-r3s-y	biti
+možno	mte:Agpnsn	možen
+pokopati	mte:Vmen	pokopati
+na	mte:Sl	na
+kraju	mte:Ncmsl	kraj
+smrti	mte:Ncfsg	smrt
+.	mte:Z	.
+"	mte:Z	"
+Na	mte:Sl	na
+glavnem	mte:Agpmsl	glaven
+trgu	mte:Ncmsl	trg
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+naj	mte:Q	naj
+se	mte:Px------y	se
+postavi	mte:Vmer3s	postaviti
+spomenik	mte:Ncmsan	spomenik
+vsem	mte:Pg-mpd	ves
+umrlim	mte:Appmpd	umrl
+v	mte:Sl	v
+vseh	mte:Pg-npl	ves
+obdobjih	mte:Ncnpl	obdobje
+naše	mte:Ps1fsgp	naš
+zgodovine	mte:Ncfsg	zgodovina
+,	mte:Z	,
+na	mte:Sa	na
+katerega	mte:Pq-msa	kateri
+se	mte:Px------y	se
+preprosto	mte:Rgp	preprosto
+zapiše	mte:Vmer3s	zapisati
+:	mte:Z	:
+Našim	mte:Ps1mpdp	naš
+mrtvim	mte:Agpmpd	mrtev
+,	mte:Z	,
+"	mte:Z	"
+še	mte:Q	še
+predlaga	mte:Vmbr3s	predlagati
+Janša	mte:Npmsn	Janša
+.	mte:Z	.
+Afera	mte:Ncfsn	afera
+fotokopirni	mte:Agpmsay	fotokopiren
+stroj	mte:Ncmsan	stroj
+slepilo	mte:Vmpp-sn	slepiti
+za	mte:Sa	za
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+V	mte:Sl	v
+dolini	mte:Ncfsl	dolina
+Kolpe	mte:Npfsg	Kolpe
+,	mte:Z	,
+nadaljuje	mte:Vmpr3s	nadaljevati
+Janša	mte:Npmsn	Janša
+,	mte:Z	,
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+stojijo	mte:Vmpr3p	stati
+počitniške	mte:Agpfpn	počitniški
+hišice	mte:Ncfpn	hišica
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+temelje	mte:Ncmpa	temelje
+so	mte:Va-r3p-n	biti
+zgradili	mte:Vmep-pm	zgraditi
+iz	mte:Sg	iz
+nagrobnikov	mte:Ncmpg	nagrobnik
+uničenih	mte:Appnpg	uničen
+pokopališč	mte:Ncnpg	pokopališče
+.	mte:Z	.
+"	mte:Z	"
+Ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+v	mte:Sl	v
+prejšnjih	mte:Agpnpl	prejšnji
+letih	mte:Ncnpl	leto
+del	mte:Ncmsn	del
+dokumentacije	mte:Ncfsg	dokumentacija
+o	mte:Sl	o
+teh	mte:Pd-mpl	ta
+in	mte:Cc	in
+drugih	mte:Mlpmpl	drug
+privilegijih	mte:Ncmpl	privilegij
+nekdanje	mte:Agpfsg	nekdanji
+komunistične	mte:Agpfsg	komunističen
+elite	mte:Ncfsg	elita
+predan	mte:Appmsnn	predan
+Arhivu	mte:Ncmsd	arhiv
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+si	mte:Px---d--y	se
+izmislili	mte:Vmep-pm	izmisliti
+afero	mte:Ncfsa	afera
+fotokopirni	mte:Agpmsay	fotokopiren
+stroj	mte:Ncmsan	stroj
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+generalni	mte:Agpmsny	generalen
+sekretar	mte:Ncmsn	sekretar
+vlade	mte:Ncfsg	vlada
+ob	mte:Sl	ob
+pomoči	mte:Ncfsl	pomoč
+medijskega	mte:Agpmsg	medijski
+stroja	mte:Ncmsg	stroj
+'	mte:Z	'
+servisira	mte:Vmbr3s	servisirati
+'	mte:Z	'
+že	mte:Q	že
+vse	mte:Rgp	vse
+od	mte:Sg	od
+nastopa	mte:Ncmsg	nastop
+nove	mte:Agpfsg	nov
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+"	mte:Z	"
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+.	mte:Z	.
+Po	mte:Sl	po
+Janševem	mte:Aspnsl	Janšev
+mnenju	mte:Ncnsl	mnenje
+osnovna	mte:Agpfsn	osnoven
+točka	mte:Ncfsn	točka
+spopada	mte:Ncmsg	spopadati
+med	mte:Si	med
+kulturo	mte:Ncfsi	kultura
+smrti	mte:Ncfsg	smrt
+in	mte:Cc	in
+kulturo	mte:Ncfsi	kultura
+življenja	mte:Ncnsg	življenje
+niso	mte:Va-r3p-y	biti
+imena	mte:Ncnsg	ime
+ulic	mte:Ncfpg	ulica
+.	mte:Z	.
+Preimenovanje	mte:Ncnsn	preimenovanje
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+poimenovanje	mte:Ncnsn	poimenovanje
+zgolj	mte:Q	zgolj
+posledica	mte:Ncfsn	posledica
+nečesa	mte:Pi-nsg	nekaj
+.	mte:Z	.
+Mrtvi	mte:Agpmpn	mrtev
+pač	mte:Q	pač
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+ostali	mte:Vmep-pm	ostati
+večno	mte:Rgp	večen
+nepokopani	mte:Agpmpn	nepokopan
+,	mte:Z	,
+količina	mte:Ncfsn	količina
+njihovega	mte:Ps3nsgp	njihov
+trpljenja	mte:Ncnsg	trpljenje
+je	mte:Va-r3s-n	biti
+prevelika	mte:Agpfsn	prevelik
+,	mte:Z	,
+"	mte:Z	"
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+.	mte:Z	.
+"	mte:Z	"
+In	mte:Cc	in
+ko	mte:Cs	ko
+bo	mte:Va-f3s-n	biti
+zadnji	mte:Agpmsny	zadnji
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+dobil	mte:Vmep-sm	dobiti
+spokojen	mte:Appmsan	spokojen
+grob	mte:Ncmsan	grob
+,	mte:Z	,
+njihovi	mte:Ps3mpnp	njihov
+svojci	mte:Ncmpn	svojec
+pa	mte:Cc	pa
+mesto	mte:Ncnsa	mesto
+žalovanja	mte:Ncnsg	žalovanje
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+iz	mte:Sg	iz
+slovenskih	mte:Agpnpg	slovenski
+mest	mte:Ncnpg	mesto
+in	mte:Cc	in
+trgov	mte:Ncmpg	trg
+brez	mte:Sg	brez
+sledu	mte:Ncmsg	sled
+izginila	mte:Vmep-sf	izginiti
+tudi	mte:Q	tudi
+simbolna	mte:Agpfsn	simbolen
+zapuščina	mte:Ncfsn	zapuščina
+kulture	mte:Ncfsg	kultura
+smrti	mte:Ncfsg	smrt
+v	mte:Sl	v
+besedi	mte:Ncfsl	beseda
+in	mte:Cc	in
+podobi	mte:Ncfsl	podoba
+Tita	mte:Npmsg	Tita
+,	mte:Z	,
+Kardelja	mte:Npmsg	Kardelj
+ali	mte:Cc	ali
+Kidriča	mte:Npmsg	Kidrič
+,	mte:Z	,
+"	mte:Z	"
+še	mte:Q	še
+piše	mte:Vmpr3s	pisati
+predsednik	mte:Ncmsn	predsednik
+SDS	mte:Npfsg	SDS
+na	mte:Sl	na
+strankini	mte:Aspfsl	strankin
+spletni	mte:Agpfsl	spleten
+strani	mte:Ncfsl	stran

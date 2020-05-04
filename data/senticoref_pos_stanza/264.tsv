@@ -1,339 +1,366 @@
-token	tag
-Evropska	Agpfsn
-komisija	Ncfsn
-je	Va-r3s-n
-Italiji	Npfsd
-dala	Vmep-sf
-dva	Mlcmda
-meseca	Ncmda
-časa	Ncmsg
-za	Sa
-pojasnilo	Ncnsa
-glede	Sg
-težav	Ncfpg
-slovenskih	Agpmpg
-avtoprevoznikov	Ncmpg
-z	Si
-italijanskimi	Agpmpi
-policijskimi	Agpmpi
-nadzornimi	Agpmpi
-organi	Ncmpi
-.	Z
-Težave	Ncfpn
-so	Va-r3p-n
-nastale	Vmep-pf
-zaradi	Sg
-dovolilnic	Ncfpg
-CEMT	Ncfpg
-.	Z
-Evropska	Agpfsn
-komisija	Ncfsn
-je	Va-r3s-n
-danes	Rgp
-potrdila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-italijanskim	Agpfpd
-oblastem	Ncfpd
-poslala	Vmep-sf
-pismo	Ncnsa
-in	Cc
-zahtevala	Vmbp-sf
-pojasnila	Ncnpa
-o	Sl
-težavah	Ncfpl
-slovenskih	Agpmpg
-avtoprevoznikov	Ncmpg
-z	Si
-italijanskimi	Agpmpi
-policijskimi	Agpmpi
-nadzornimi	Agpmpi
-organi	Ncmpi
-zaradi	Sg
-dovolilnic	Ncfpg
-CEMT	Ncfpg
-.	Z
-Italija	Npfsn
-ima	Vmpr3s-n
-dva	Mlcmda
-meseca	Ncmda
-časa	Ncmsg
-,	Z
-da	Cs
-odgovore	Ncmpa
-posreduje	Vmbr3s
-Bruslju	Npmsd
-,	Z
-in	Cc
-ne	Q
-le	Q
-mesec	Ncmsan
-dni	Ncmpg
-,	Z
-je	Va-r3s-n
-še	Q
-sporočila	Vmep-sf
-komisija	Ncfsn
-.	Z
-Evropska	Agpfsn
-komisija	Ncfsn
-je	Va-r3s-n
-Italiji	Npfsd
-poslala	Vmep-sf
-pismo	Ncnsa
-z	Si
-zahtevo	Ncfsi
-po	Sl
-pojasnilu	Ncnsl
-8	Mdc
-.	Z
-julija	Ncmsg
-.	Z
-Italija	Npfsn
-ima	Vmpr3s-n
-sedaj	Rgp
-na	Sa
-voljo	Ncfsa
-dva	Mlcmda
-meseca	Ncmda
-za	Sa
-odgovor	Ncmsan
-,	Z
-je	Va-r3s-n
-naknadno	Rgp
-sporočila	Vmep-sf
-komisija	Ncfsn
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-predtem	Rgp
-navedla	Vmep-sf
-rok	Ncmsan
-enega	Mlpmsg
-meseca	Ncmsg
-.	Z
-Italija	Npfsn
-ima	Vmpr3s-n
-toliko	Rgp
-časa	Ncmsg
-za	Sa
-odgovor	Ncmsan
-zaradi	Sg
-dopustov	Ncmpg
-,	Z
-so	Va-r3p-n
-dodali	Vmep-pm
-v	Sl
-Bruslju	Npmsl
-.	Z
-Evropska	Agpfsn
-komisija	Ncfsn
-je	Va-r3s-n
-poudarila	Vmep-sf
-,	Z
-da	Cs
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-ne	Q
-gre	Vmbr3s
-za	Sa
-uvedbo	Ncfsa
-postopka	Ncmsg
-proti	Sd
-Italiji	Npfsd
-zaradi	Sg
-kršenja	Ncnsg
-evropske	Agpfsg
-zakonodaje	Ncfsg
-,	Z
-temveč	Cc
-zgolj	Q
-za	Sa
-zahtevo	Ncfsa
-po	Sl
-dodatnih	Agpnpl
-pojasnilih	Ncnpl
-.	Z
-Težave	Ncfpa
-že	Q
-od	Sg
-leta	Ncnsg
-2004	Mdc
-Slovenski	Agpmpn
-avtoprevozniki	Ncmpn
-imajo	Vmpr3p-n
-občasne	Agpfpa
-težave	Ncfpa
-z	Si
-italijanskimi	Agpmpi
-policijskimi	Agpmpi
-nadzornimi	Agpmpi
-organi	Ncmpi
-pri	Sl
-kontrolah	Ncfpl
-,	Z
-ko	Cs
-izvajajo	Vmpr3p
-prevoze	Ncmpa
-v	Sl
-tranzitu	Ncmsl
-preko	Sg
-ozemlja	Ncnsg
-Italije	Npfsg
-.	Z
-Težave	Ncfpn
-se	Px------y
-praviloma	Rgp
-pojavljajo	Vmpr3p
-na	Sl
-območju	Ncnsl
-policijskih	Agpfpg
-postaj	Ncfpg
-Verona	Npfsn
-in	Cc
-Benetke	Npfsg
-,	Z
-in	Cc
-sicer	Q
-od	Sg
-vstopa	Ncmsg
-Slovenije	Npfsg
-v	Sa
-EU	Npfsa
-1	Mdc
-.	Z
-maja	Ncmsg
-2004	Mdc
-.	Z
-Policijski	Agpmpn
-organi	Ncmpn
-omenjenih	Appfpg
-dveh	Mlcfdg
-policijskih	Agpfdg
-postaj	Ncfdg
-namreč	Cc
-od	Sg
-slovenskih	Agpmpg
-prevoznikov	Ncmpg
-zahtevajo	Vmbr3p
-,	Z
-da	Cs
-v	Sl
-primeru	Ncmsl
-,	Z
-ko	Cs
-opravljajo	Vmpr3p
-prevoze	Ncmpa
-iz	Sg
-države	Ncfsg
-članice	Ncfsg
-EU	Npfsg
-npr	Npmsn
-.	Z
-Španije	Npfsg
-v	Sa
-tretjo	Mlofsa
-državo	Ncfsa
-npr	Npmsn
-.	Z
-Hrvaško	Npfsa
-in	Cc
-pri	Sl
-tem	Pd-nsl
-vozijo	Vmpr3p
-v	Sl
-tranzitu	Ncmsl
-preko	Sg
-Italije	Npfsg
-,	Z
-pokažejo	Vmer3p
-dovolilnico	Ncfsa
-CEMT	Ncfsg
-.	Z
-Pri	Sl
-tem	Pd-nsl
-se	Px------y
-italijanske	Agpfpn
-oblasti	Ncfpn
-sklicujejo	Vmpr3p
-na	Sa
-evropsko	Agpfsa
-uredbo	Ncfsa
-,	Z
-slovensko	Agpnsn
-ministrstvo	Ncnsn
-za	Sa
-promet	Ncmsan
-pa	Cc
-je	Va-r3s-n
-že	Q
-decembra	Ncmsg
-2006	Mdc
-predstavnike	Ncmpa
-italijanskih	Agpmpg
-nadzornih	Agpmpg
-organov	Ncmpg
-opozorilo	Ncnsn
-,	Z
-da	Cs
-v	Sl
-skladu	Ncmsl
-z	Si
-uredbo	Ncfsi
-za	Sa
-tranzitne	Agpmpa
-prevoze	Ncmpa
-iz	Sg
-ene	Mlpfsg
-države	Ncfsg
-članice	Ncfsg
-v	Sa
-drugo	Mlpfsa
-ali	Cc
-iz	Sg
-države	Ncfsg
-članice	Ncfsg
-v	Sa
-tretjo	Mlofsa
-državo	Ncfsa
-CEMT	Ncmsg
-dovolilnice	Ncfsg
-niso	Va-r3p-y
-potrebne	Agpfpn
-.	Z
-Minister	Ncmsn
-za	Sa
-promet	Ncmsan
-Radovan	Npmsn
-Žerjav	Npmsn
-je	Va-r3s-n
-o	Sl
-razmerah	Ncfpl
-na	Sa
-italijanskega	Agpmsa
-ministra	Ncmsay
-za	Sa
-promet	Ncmsan
-Altera	Npmsn
-Matteolija	Npmsg
-v	Sa
-sredo	Ncfsa
-naslovil	Vmep-sm
-poziv	Ncmsan
-k	Sd
-čim	Rgp
-hitrejši	Agcfsd
-razrešitvi	Ncfsd
-problema	Ncmsg
-,	Z
-sedaj	Rgp
-pa	Cc
-pojasnila	Ncnpa
-zahteva	Vmbr3s
-tudi	Q
-Evropska	Agpfsn
-komisija	Ncfsn
-.	Z
+token	tag	lemma
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+je	mte:Va-r3s-n	biti
+Italiji	mte:Npfsd	Italija
+dala	mte:Vmep-sf	dati
+dva	mte:Mlcmda	dva
+meseca	mte:Ncmda	mesec
+časa	mte:Ncmsg	čas
+za	mte:Sa	za
+pojasnilo	mte:Ncnsa	pojasnilo
+glede	mte:Sg	glede
+težav	mte:Ncfpg	težava
+slovenskih	mte:Agpmpg	slovenski
+avtoprevoznikov	mte:Ncmpg	avtoprevoznik
+z	mte:Si	z
+italijanskimi	mte:Agpmpi	italijanski
+policijskimi	mte:Agpmpi	policijski
+nadzornimi	mte:Agpmpi	nadzoren
+organi	mte:Ncmpi	organ
+.	mte:Z	.
+Težave	mte:Ncfpn	težava
+so	mte:Va-r3p-n	biti
+nastale	mte:Vmep-pf	nastati
+zaradi	mte:Sg	zaradi
+dovolilnic	mte:Ncfpg	dovolilnica
+CEMT	mte:Ncfpg	cemt
+.	mte:Z	.
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+potrdila	mte:Vmep-sf	potrditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+italijanskim	mte:Agpfpd	italijanski
+oblastem	mte:Ncfpd	oblast
+poslala	mte:Vmep-sf	poslati
+pismo	mte:Ncnsa	pismo
+in	mte:Cc	in
+zahtevala	mte:Vmbp-sf	zahtevati
+pojasnila	mte:Ncnpa	pojasnilo
+o	mte:Sl	o
+težavah	mte:Ncfpl	težava
+slovenskih	mte:Agpmpg	slovenski
+avtoprevoznikov	mte:Ncmpg	avtoprevoznik
+z	mte:Si	z
+italijanskimi	mte:Agpmpi	italijanski
+policijskimi	mte:Agpmpi	policijski
+nadzornimi	mte:Agpmpi	nadzoren
+organi	mte:Ncmpi	organ
+zaradi	mte:Sg	zaradi
+dovolilnic	mte:Ncfpg	dovolilnica
+CEMT	mte:Ncfpg	cemt
+.	mte:Z	.
+Italija	mte:Npfsn	Italija
+ima	mte:Vmpr3s-n	imeti
+dva	mte:Mlcmda	dva
+meseca	mte:Ncmda	mesec
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+da	mte:Cs	da
+odgovore	mte:Ncmpa	odgovor
+posreduje	mte:Vmbr3s	posredovati
+Bruslju	mte:Npmsd	Bruselj
+,	mte:Z	,
+in	mte:Cc	in
+ne	mte:Q	ne
+le	mte:Q	le
+mesec	mte:Ncmsan	mesec
+dni	mte:Ncmpg	dan
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+sporočila	mte:Vmep-sf	sporočiti
+komisija	mte:Ncfsn	komisija
+.	mte:Z	.
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+je	mte:Va-r3s-n	biti
+Italiji	mte:Npfsd	Italija
+poslala	mte:Vmep-sf	poslati
+pismo	mte:Ncnsa	pismo
+z	mte:Si	z
+zahtevo	mte:Ncfsi	zahteva
+po	mte:Sl	po
+pojasnilu	mte:Ncnsl	pojasnilo
+8	mte:Mdc	8
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+.	mte:Z	.
+Italija	mte:Npfsn	Italija
+ima	mte:Vmpr3s-n	imeti
+sedaj	mte:Rgp	sedaj
+na	mte:Sa	na
+voljo	mte:Ncfsa	volja
+dva	mte:Mlcmda	dva
+meseca	mte:Ncmda	mesec
+za	mte:Sa	za
+odgovor	mte:Ncmsan	odgovor
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+naknadno	mte:Rgp	naknadno
+sporočila	mte:Vmep-sf	sporočiti
+komisija	mte:Ncfsn	komisija
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+predtem	mte:Rgp	predtem
+navedla	mte:Vmep-sf	navesti
+rok	mte:Ncmsan	rok
+enega	mte:Mlpmsg	en
+meseca	mte:Ncmsg	mesec
+.	mte:Z	.
+Italija	mte:Npfsn	Italija
+ima	mte:Vmpr3s-n	imeti
+toliko	mte:Rgp	toliko
+časa	mte:Ncmsg	čas
+za	mte:Sa	za
+odgovor	mte:Ncmsan	odgovor
+zaradi	mte:Sg	zaradi
+dopustov	mte:Ncmpg	dopust
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+dodali	mte:Vmep-pm	dodati
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+.	mte:Z	.
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+je	mte:Va-r3s-n	biti
+poudarila	mte:Vmep-sf	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+uvedbo	mte:Ncfsa	uvedba
+postopka	mte:Ncmsg	postopek
+proti	mte:Sd	proti
+Italiji	mte:Npfsd	Italija
+zaradi	mte:Sg	zaradi
+kršenja	mte:Ncnsg	kršenje
+evropske	mte:Agpfsg	evropski
+zakonodaje	mte:Ncfsg	zakonodaja
+,	mte:Z	,
+temveč	mte:Cc	temveč
+zgolj	mte:Q	zgolj
+za	mte:Sa	za
+zahtevo	mte:Ncfsa	zahteva
+po	mte:Sl	po
+dodatnih	mte:Agpnpl	dodaten
+pojasnilih	mte:Ncnpl	pojasnilo
+.	mte:Z	.
+Težave	mte:Ncfpa	težava
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2004	mte:Mdc	2004
+Slovenski	mte:Agpmpn	slovenski
+avtoprevozniki	mte:Ncmpn	avtoprevoznik
+imajo	mte:Vmpr3p-n	imeti
+občasne	mte:Agpfpa	občasen
+težave	mte:Ncfpa	težava
+z	mte:Si	z
+italijanskimi	mte:Agpmpi	italijanski
+policijskimi	mte:Agpmpi	policijski
+nadzornimi	mte:Agpmpi	nadzoren
+organi	mte:Ncmpi	organ
+pri	mte:Sl	pri
+kontrolah	mte:Ncfpl	kontrola
+,	mte:Z	,
+ko	mte:Cs	ko
+izvajajo	mte:Vmpr3p	izvajati
+prevoze	mte:Ncmpa	prevoz
+v	mte:Sl	v
+tranzitu	mte:Ncmsl	tranzit
+preko	mte:Sg	preko
+ozemlja	mte:Ncnsg	ozemlje
+Italije	mte:Npfsg	Italija
+.	mte:Z	.
+Težave	mte:Ncfpn	težava
+se	mte:Px------y	se
+praviloma	mte:Rgp	praviloma
+pojavljajo	mte:Vmpr3p	pojavljati
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+policijskih	mte:Agpfpg	policijski
+postaj	mte:Ncfpg	postaja
+Verona	mte:Npfsn	Verona
+in	mte:Cc	in
+Benetke	mte:Npfsg	Benetka
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+od	mte:Sg	od
+vstopa	mte:Ncmsg	vstop
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sa	v
+EU	mte:Npfsa	EU
+1	mte:Mdc	1
+.	mte:Z	.
+maja	mte:Ncmsg	maj
+2004	mte:Mdc	2004
+.	mte:Z	.
+Policijski	mte:Agpmpn	policijski
+organi	mte:Ncmpn	organ
+omenjenih	mte:Appfpg	omenjen
+dveh	mte:Mlcfdg	dva
+policijskih	mte:Agpfdg	policijski
+postaj	mte:Ncfdg	postaja
+namreč	mte:Cc	namreč
+od	mte:Sg	od
+slovenskih	mte:Agpmpg	slovenski
+prevoznikov	mte:Ncmpg	prevoznik
+zahtevajo	mte:Vmbr3p	zahtevati
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+,	mte:Z	,
+ko	mte:Cs	ko
+opravljajo	mte:Vmpr3p	opravljati
+prevoze	mte:Ncmpa	prevoz
+iz	mte:Sg	iz
+države	mte:Ncfsg	država
+članice	mte:Ncfsg	članica
+EU	mte:Npfsg	EU
+npr	mte:Npmsn	npr
+.	mte:Z	.
+Španije	mte:Npfsg	Španija
+v	mte:Sa	v
+tretjo	mte:Mlofsa	tretji
+državo	mte:Ncfsa	država
+npr	mte:Npmsn	npr
+.	mte:Z	.
+Hrvaško	mte:Npfsa	Hrvaška
+in	mte:Cc	in
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+vozijo	mte:Vmpr3p	voziti
+v	mte:Sl	v
+tranzitu	mte:Ncmsl	tranzit
+preko	mte:Sg	preko
+Italije	mte:Npfsg	Italija
+,	mte:Z	,
+pokažejo	mte:Vmer3p	pokazati
+dovolilnico	mte:Ncfsa	dovolilnica
+CEMT	mte:Ncfsg	cemt
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+se	mte:Px------y	se
+italijanske	mte:Agpfpn	italijanski
+oblasti	mte:Ncfpn	oblast
+sklicujejo	mte:Vmpr3p	sklicevati
+na	mte:Sa	na
+evropsko	mte:Agpfsa	evropski
+uredbo	mte:Ncfsa	uredba
+,	mte:Z	,
+slovensko	mte:Agpnsn	slovenski
+ministrstvo	mte:Ncnsn	ministrstvo
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+decembra	mte:Ncmsg	december
+2006	mte:Mdc	2006
+predstavnike	mte:Ncmpa	predstavnik
+italijanskih	mte:Agpmpg	italijanski
+nadzornih	mte:Agpmpg	nadzoren
+organov	mte:Ncmpg	organ
+opozorilo	mte:Ncnsn	opozorilo
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+uredbo	mte:Ncfsi	uredba
+za	mte:Sa	za
+tranzitne	mte:Agpmpa	tranziten
+prevoze	mte:Ncmpa	prevoz
+iz	mte:Sg	iz
+ene	mte:Mlpfsg	en
+države	mte:Ncfsg	država
+članice	mte:Ncfsg	članica
+v	mte:Sa	v
+drugo	mte:Mlpfsa	drug
+ali	mte:Cc	ali
+iz	mte:Sg	iz
+države	mte:Ncfsg	država
+članice	mte:Ncfsg	članica
+v	mte:Sa	v
+tretjo	mte:Mlofsa	tretji
+državo	mte:Ncfsa	država
+CEMT	mte:Ncmsg	cemt
+dovolilnice	mte:Ncfsg	dovolilnica
+niso	mte:Va-r3p-y	biti
+potrebne	mte:Agpfpn	potreben
+.	mte:Z	.
+Minister	mte:Ncmsn	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+Radovan	mte:Npmsn	Radovan
+Žerjav	mte:Npmsn	Žerjav
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+razmerah	mte:Ncfpl	razmera
+na	mte:Sa	na
+italijanskega	mte:Agpmsa	italijanski
+ministra	mte:Ncmsay	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+Altera	mte:Npmsn	Altera
+Matteolija	mte:Npmsg	Matteoli
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+naslovil	mte:Vmep-sm	nasloviti
+poziv	mte:Ncmsan	poziv
+k	mte:Sd	k
+čim	mte:Rgp	čim
+hitrejši	mte:Agcfsd	hiter
+razrešitvi	mte:Ncfsd	razrešitev
+problema	mte:Ncmsg	problem
+,	mte:Z	,
+sedaj	mte:Rgp	sedaj
+pa	mte:Cc	pa
+pojasnila	mte:Ncnsa	pojasnilo
+zahteva	mte:Vmbr3s	zahtevati
+tudi	mte:Q	tudi
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+.	mte:Z	.
+Konec	mte:Ncmsn	konec
+prihodnjega	mte:Agpmsg	prihodnji
+tedna	mte:Ncmsg	teden
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+Bruslju	mte:Npmsl	Bruselj
+potekal	mte:Vmpp-sm	potekati
+tudi	mte:Q	tudi
+sestanek	mte:Ncmsan	sestanek
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+,	mte:Z	,
+Italijo	mte:Npfsi	Italija
+ter	mte:Cc	ter
+Evropsko	mte:Agpfsi	evropski
+komisijo	mte:Ncfsi	komisija
+o	mte:Sl	o
+tej	mte:Pd-fsl	ta
+problematiki	mte:Ncfsl	problematika
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+nedavno	mte:Rgp	nedavno
+sporočili	mte:Vmep-pm	sporočiti
+s	mte:Sg	z
+prometnega	mte:Agpnsg	prometen
+ministrstva	mte:Ncnsg	ministrstvo

@@ -1,512 +1,554 @@
-token	tag
-Dosedanjim	Agpmpd
-uporabnikom	Ncmpd
-bo	Va-f3s-n
-kartica	Ncfsn
-aktivirana	Appfsn
-po	Sl
-vrnitvi	Ncfsl
-podpisane	Appfsg
-ponudbe	Ncfsg
-,	Z
-o	Sl
-čemer	Pr-nsl
-bodo	Va-f3p-n
-obveščeni	Appmpn
-po	Sl
-sms	Ncmsn
--	Z
-u	Npmsl
-,	Z
-telefonu	Ncmsl
-ali	Cc
-elektronski	Agpfsl
-pošti	Ncfsl
-.	Z
-Prvo	Mlonsn
-leto	Ncnsa
-članarine	Ncfsg
-ne	Q
-bo	Va-f3s-n
-,	Z
-standardi	Ncmpn
-odobravanja	Ncnsg
-pa	Cc
-se	Px------y
-utegnejo	Vmbr3p
-zaostriti	Vmen
-.	Z
-Novi	Agpmsny
-lastnik	Ncmsn
-franšize	Ncfsg
-Diners	Npfsg
-Cluba	Npmsg
-za	Sa
-Slovenijo	Npfsa
-,	Z
-hrvaški	Agpmsny
-Erste	Npmsn
-Card	Npmsn
-,	Z
-je	Va-r3s-n
-po	Sl
-petkovi	Aspfsl
-pridobitvi	Ncfsl
-licence	Ncfsg
-Banke	Ncfsg
-Slovenije	Npfsg
-začel	Vmep-sm
-z	Si
-rekrutiranjem	Ncnsi
-članov	Ncmpg
-in	Cc
-z	Si
-vzpostavitvijo	Ncfsi
-prodajne	Agpfsg
-mreže	Ncfsg
-.	Z
-Mladen	Npmsn
-Mirko	Npmsn
-Tepuš	Npmsn
-,	Z
-generalni	Agpmsny
-direktor	Ncmsn
-Erste	Npmsn
-Card	Npmsn
-Ljubljana	Npfsn
-(	Z
-levo	Npfsn
-)	Z
-in	Cc
-Alen	Npmsn
-Ptičar	Npmsn
-,	Z
-direktor	Ncmsn
-Erste	Npfsg
-Card	Npmsn
-Ljubljana	Npfsn
-Naprej	Rgp
-morate	Vmpr2p
-poravnati	Vmen
-dolg	Agpmsan
-Nove	Agpfpa
-kartice	Ncfpa
-bodo	Va-f3p-n
-prejeli	Vmep-pm
-uporabniki	Ncmpn
-brez	Sg
-dolga	Agpfsg
-,	Z
-tisti	Pd-mpn
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-svoje	Px-fpa
-obveznosti	Ncfpa
-poravnali	Vmep-pm
-in	Cc
-tisti	Pd-mpn
-,	Z
-ki	Cs
-obveznosti	Ncfpn
-plačujejo	Vmpr3p
-obročno	Agpfsa
-,	Z
-je	Va-r3s-n
-na	Sl
-današnji	Agpfsl
-tiskovni	Agpfsl
-konferenci	Ncfsl
-povedal	Vmep-sm
-generalni	Agpmsny
-sekretar	Ncmsn
-Erste	Npmsn
-Carda	Npmsn
-Mladen	Npmsn
-Mirko	Npmsn
-Tepuš	Npmsn
-.	Z
-20	Mdc
-.	Z
-avgusta	Ncmsg
-jim	Pp3mpd--y
-bo	Va-f3s-n
-poslana	Appfsn
-dokumentacija	Ncfsn
-s	Si
-pristopno	Agpfsi
-izjavo	Ncfsi
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-bodo	Va-f3p-n
-morali	Vmpp-pm
-podpisati	Vmen
-in	Cc
-vrniti	Vmen
-,	Z
-takoj	Rgp
-po	Sl
-tem	Pd-nsl
-pa	Cc
-jih	Pp3mpa--y
-bo	Va-f3s-n
-Erste	Npfsn
-Card	Npmsn
-obvestil	Vmep-sm
-o	Sl
-aktivaciji	Ncfsl
-.	Z
-»	Z
-Glede	Rgp
-na	Sa
-zanimanje	Ncnsa
-,	Z
-ki	Cs
-smo	Va-r1p-n
-ga	Pp3msa--y
-zaznali	Vmep-pm
-v	Sl
-zadnjih	Agpmpl
-tednih	Ncmpl
-,	Z
-pričakujemo	Vmpr1p
-,	Z
-da	Cs
-bo	Va-f3s-n
-poleg	Sg
-dosedanjih	Agpmpg
-članov	Ncmpg
-za	Sa
-novo	Agpfsa
-Diners	Agpfsa
-kartico	Ncfsa
-zaprosilo	Vmep-sn
-tudi	Q
-veliko	Agpnsn
-število	Ncnsn
-novih	Agpmpg
-,	Z
-«	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-Mladen	Npmsn
-Mirko	Npmsn
-Tepuš	Npmsn
-.	Z
-Zapadle	Appfpa
-obveznosti	Ncfpa
-do	Sg
-starega	Agpmsg
-Dinersa	Npmsg
-morajo	Vmpr3p
-imetniki	Ncmpn
-plačati	Vmen
-na	Sa
-račun	Ncmsan
-Unicredit	Npfsg
-banke	Ncfsg
-.	Z
-Prvo	Mlonsa
-leto	Ncnsa
-članarine	Ncfsg
-ne	Q
-bo	Va-f3s-n
-Letos	Rgp
-članarine	Ncfsg
-ne	Q
-bo	Va-f3s-n
-treba	Rgp
-plačevati	Vmpn
-,	Z
-kako	Rgp
-pa	Cc
-za	Sa
-naprej	Rgp
-?	Z
-Željko	Npmsn
-Menalo	Vmpp-sn
-,	Z
-predsednik	Ncmsn
-uprave	Ncfsg
-Erste	Npfsn
-Card	Npmsn
-Cluba	Npmsg
-napoveduje	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-cenovna	Agpfsn
-politika	Ncfsn
-naslednje	Agpnsa
-leto	Ncnsa
-ostala	Vmep-sf
-na	Sl
-ravni	Ncfsl
-,	Z
-kot	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-do	Sg
-letošnje	Agpfsg
-spomladi	Rgp
-.	Z
-»	Z
-Nekatere	Pi-fpa
-stvari	Ncfpa
-bomo	Va-f1p-n
-obdržali	Vmep-pm
-in	Cc
-razvijali	Vmpp-pm
-naprej	Rgp
-,	Z
-o	Sl
-nekaterih	Pi-fpl
-novih	Agpfpl
-ugodnostih	Ncfpl
-pa	Cc
-še	Q
-razmišljamo	Vmpr1p
-,	Z
-«	Z
-pravi	Vmbr3s
-Menalo	Vmpp-sn
-,	Z
-denimo	Vmem1p
-s	Si
-povezovanjem	Ncnsi
-slovenskega	Agpmsg
-in	Cc
-hrvaškega	Agpmsg
-sistema	Ncmsg
-Diners	Npfsg
-.	Z
-Ali	Rgp
-bi	Va-c
-to	Pd-nsn
-pomenilo	Vmbp-sn
-,	Z
-da	Cs
-bi	Va-c
-lahko	Rgp
-ugodnosti	Ncfpa
-,	Z
-točke	Ncfpa
-in	Cc
-milje	Ncfpa
-izkoristili	Vmep-pm
-tudi	Q
-pri	Sl
-čezmejnem	Agpnsl
-nakupovanju	Ncnsl
-?	Z
-To	Pd-nsn
-je	Va-r3s-n
-ena	Mlpfsn
-od	Sg
-možnosti	Ncfsg
-,	Z
-bomo	Va-f1p-n
-videli	Vmbp-pm
-,	Z
-pravi	Vmbr3s
-Menalo	Vmpp-sn
-.	Z
-Po	Sl
-njegovem	Ps3nslsm
-splošnem	Agpnsl
-mnenju	Ncnsl
-se	Px------y
-bo	Va-f3s-n
-zaradi	Sg
-regulatornega	Agpmsg
-nadzora	Ncmsg
-povečalo	Vmep-sn
-tudi	Q
-preverjanje	Ncnsn
-kreditne	Agpfsg
-sposobnosti	Ncfsg
-in	Cc
-standardi	Ncmpn
-odobravanja	Ncnsg
-.	Z
-Sklenili	Vmep-pm
-so	Va-r3p-n
-628	Mdc
-sporazumov	Ncmpg
-s	Si
-trgovci	Ncmpi
-Do	Sg
-20.8	Mdc
-.	Z
-bi	Va-c
-radi	Rgp
-vzpostavili	Vmep-pm
-čim	Rgp
-boljšo	Agcfsa
-prodajno	Agpfsa
-mrežo	Ncfsa
-,	Z
-zato	Cc
-intenzivno	Rgp
-sestankujejo	Vmpr3p
-in	Cc
-se	Px------y
-pogajajo	Vmpr3p
-.	Z
-»	Z
-Z	Si
-odzivom	Ncmsi
-trgovcev	Ncmpg
-smo	Va-r1p-n
-zadovoljni	Agpmpn
-,	Z
-v	Sl
-prvih	Mlonpl
-desetih	Mlc-pl
-smo	Va-r1p-n
-v	Sa
-izplačilo	Ncnsa
-trgovcem	Ncmpd
-dali	Vmep-pm
-že	Q
-568	Mdc
-nalogov	Ncmpg
-,	Z
-«	Z
-o	Sl
-poplačilu	Ncnsl
-dolgov	Ncmpg
-starega	Agpmsg
-Dinersa	Npmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-vodil	Vmpp-sm
-Tomaž	Npmsn
-Lovše	Npmsn
-,	Z
-pravi	Vmbr3s
-Željko	Npmsn
-Menalo	Vmpp-sn
-.	Z
-Od	Sg
-8.000	Mdc
-ponudb	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-jih	Pp3mpa--y
-poslali	Vmep-pm
-,	Z
-pa	Cc
-so	Va-r3p-n
-sklenili	Vmep-pm
-628	Mdc
-sporazumov	Ncmpg
-,	Z
-pričakujejo	Vmpr3p
-jih	Pp3mpa--y
-še	Q
-več	Rgc
-.	Z
-Vsa	Pg-npn
-bodoča	Agpnpn
-plačila	Ncnpn
-bodo	Va-f3p-n
-izvedena	Appnpn
-v	Sl
-celoti	Ncfsl
-in	Cc
-pravočasno	Rgp
-,	Z
-v	Sl
-skladu	Ncmsl
-s	Si
-pogodbami	Ncfpi
-,	Z
-pravi	Vmbr3s
-Menalo	Vmpp-sn
-.	Z
-Razmerja	Ncnsg
-so	Va-r3p-n
-uredili	Vmep-pm
-že	Q
-z	Si
-vsemi	Pg-mpi
-večjimi	Agcmpi
-trgovci	Ncmpi
-,	Z
-kot	Cs
-sta	Va-r3d-n
-Mercator	Npmsn
-ali	Cc
-Merkur	Npmsn
-.	Z
-Ali	Rgp
-bo	Va-f3s-n
-na	Sl
-novem	Agpmsl
-Dinersu	Npmsl
-delala	Vmpp-sf
-tudi	Q
-Simona	Npfsn
-Dimic	Npfsn
-?	Z
-Situacija	Ncfsn
-z	Si
-Lovšetom	Npmsi
-je	Va-r3s-n
-vplivala	Vmpp-sf
-na	Sa
-ugled	Ncmsan
-znamke	Ncfsg
-,	Z
-priznavajo	Vmpr3p
-,	Z
-a	Cc
-smo	Va-r1p-n
-njeno	Ps3fsasf
-moč	Ncfsa
-dokazali	Vmep-pm
-s	Si
-tem	Pd-nsi
-,	Z
-da	Cs
-smo	Va-r1p-n
-našli	Vmep-pm
-rešitev	Ncfsa
-,	Z
-pravijo	Vmbr3p
-novi	Agpmpn
-lastniki	Ncmpn
-franšize	Ncfsg
-.	Z
-Lovše	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-vključen	Appmsnn
-v	Sa
-pogajanja	Ncnpa
-za	Sa
-nov	Agpmsan
-plačilni	Agpmsay
-sistem	Ncmsan
-,	Z
-so	Va-r3p-n
-razkrili	Vmep-pm
-.	Z
-Do	Sg
-konca	Ncmsg
-leta	Ncnsg
-bodo	Va-f3p-n
-zaposlili	Vmep-pm
-60	Mdc
-ljudi	Ncmpg
-,	Z
-vsak	Pg-msa
-dan	Ncmsan
-najemajo	Vmpr3p
-nove	Agpmpa
-.	Z
+token	tag	lemma
+Dosedanjim	mte:Agpmpd	dosedanji
+uporabnikom	mte:Ncmpd	uporabnik
+bo	mte:Va-f3s-n	biti
+kartica	mte:Ncfsn	kartica
+aktivirana	mte:Appfsn	aktiviran
+po	mte:Sl	po
+vrnitvi	mte:Ncfsl	vrnitev
+podpisane	mte:Appfsg	podpisan
+ponudbe	mte:Ncfsg	ponudba
+,	mte:Z	,
+o	mte:Sl	o
+čemer	mte:Pr-nsl	kar
+bodo	mte:Va-f3p-n	biti
+obveščeni	mte:Appmpn	obveščen
+po	mte:Sl	po
+sms	mte:Ncmsn	sms
+-	mte:Z	-
+u	mte:Npmsl	u
+,	mte:Z	,
+telefonu	mte:Ncmsl	telefon
+ali	mte:Cc	ali
+elektronski	mte:Agpfsl	elektronski
+pošti	mte:Ncfsl	pošta
+.	mte:Z	.
+Prvo	mte:Mlonsn	prvi
+leto	mte:Ncnsa	leto
+članarine	mte:Ncfsg	članarina
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+,	mte:Z	,
+standardi	mte:Ncmpn	standard
+odobravanja	mte:Ncnsg	odobravanje
+pa	mte:Cc	pa
+se	mte:Px------y	se
+utegnejo	mte:Vmbr3p	utegniti
+zaostriti	mte:Vmen	zaostriti
+.	mte:Z	.
+Novi	mte:Agpmsny	nov
+lastnik	mte:Ncmsn	lastnik
+franšize	mte:Ncfsg	franšiza
+Diners	mte:Npfsg	Diners
+Cluba	mte:Npmsg	Club
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+,	mte:Z	,
+hrvaški	mte:Agpmsny	hrvaški
+Erste	mte:Npmsn	Ersta
+Card	mte:Npmsn	Card
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+petkovi	mte:Aspfsl	petkov
+pridobitvi	mte:Ncfsl	pridobitev
+licence	mte:Ncfsg	licenca
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+začel	mte:Vmep-sm	začeti
+z	mte:Si	z
+rekrutiranjem	mte:Ncnsi	rekrutiranje
+članov	mte:Ncmpg	član
+in	mte:Cc	in
+z	mte:Si	z
+vzpostavitvijo	mte:Ncfsi	vzpostavitev
+prodajne	mte:Agpfsg	prodajen
+mreže	mte:Ncfsg	mreža
+.	mte:Z	.
+Mladen	mte:Npmsn	Mladen
+Mirko	mte:Npmsn	Mirko
+Tepuš	mte:Npmsn	Tepuš
+,	mte:Z	,
+generalni	mte:Agpmsny	generalen
+direktor	mte:Ncmsn	direktor
+Erste	mte:Npmsn	Ersta
+Card	mte:Npmsn	Card
+Ljubljana	mte:Npfsn	Ljubljana
+(	mte:Z	(
+levo	mte:Npfsn	levo
+)	mte:Z	)
+in	mte:Cc	in
+Alen	mte:Npmsn	Alen
+Ptičar	mte:Npmsn	Ptičar
+,	mte:Z	,
+direktor	mte:Ncmsn	direktor
+Erste	mte:Npfsg	Ersta
+Card	mte:Npmsn	Card
+Ljubljana	mte:Npfsn	Ljubljana
+Naprej	mte:Rgp	naprej
+morate	mte:Vmpr2p	morati
+poravnati	mte:Vmen	poravnati
+dolg	mte:Agpmsan	dolg
+Nove	mte:Agpfpa	nov
+kartice	mte:Ncfpa	kartica
+bodo	mte:Va-f3p-n	biti
+prejeli	mte:Vmep-pm	prejeti
+uporabniki	mte:Ncmpn	uporabnik
+brez	mte:Sg	brez
+dolga	mte:Agpfsg	dolg
+,	mte:Z	,
+tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+svoje	mte:Px-fpa	svoj
+obveznosti	mte:Ncfpa	obveznost
+poravnali	mte:Vmep-pm	poravnati
+in	mte:Cc	in
+tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+obveznosti	mte:Ncfpn	obveznost
+plačujejo	mte:Vmpr3p	plačevati
+obročno	mte:Agpfsa	obročen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+današnji	mte:Agpfsl	današnji
+tiskovni	mte:Agpfsl	tiskoven
+konferenci	mte:Ncfsl	konferenca
+povedal	mte:Vmep-sm	povedati
+generalni	mte:Agpmsny	generalen
+sekretar	mte:Ncmsn	sekretar
+Erste	mte:Npmsn	Ersta
+Carda	mte:Npmsn	Card
+Mladen	mte:Npmsn	Mladen
+Mirko	mte:Npmsn	Mirko
+Tepuš	mte:Npmsn	Tepuš
+.	mte:Z	.
+20	mte:Mdc	20
+.	mte:Z	.
+avgusta	mte:Ncmsg	avgust
+jim	mte:Pp3mpd--y	on
+bo	mte:Va-f3s-n	biti
+poslana	mte:Appfsn	poslan
+dokumentacija	mte:Ncfsn	dokumentacija
+s	mte:Si	z
+pristopno	mte:Agpfsi	pristopen
+izjavo	mte:Ncfsi	izjava
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+podpisati	mte:Vmen	podpisati
+in	mte:Cc	in
+vrniti	mte:Vmen	vrniti
+,	mte:Z	,
+takoj	mte:Rgp	takoj
+po	mte:Sl	po
+tem	mte:Pd-nsl	ta
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+bo	mte:Va-f3s-n	biti
+Erste	mte:Npfsn	Ersta
+Card	mte:Npmsn	Card
+obvestil	mte:Vmep-sm	obvestiti
+o	mte:Sl	o
+aktivaciji	mte:Ncfsl	aktivacija
+.	mte:Z	.
+»	mte:Z	»
+Glede	mte:Rgp	glede
+na	mte:Sa	na
+zanimanje	mte:Ncnsa	zanimanje
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+ga	mte:Pp3msa--y	on
+zaznali	mte:Vmep-pm	zaznati
+v	mte:Sl	v
+zadnjih	mte:Agpmpl	zadnji
+tednih	mte:Ncmpl	teden
+,	mte:Z	,
+pričakujemo	mte:Vmpr1p	pričakovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+poleg	mte:Sg	poleg
+dosedanjih	mte:Agpmpg	dosedanji
+članov	mte:Ncmpg	član
+za	mte:Sa	za
+novo	mte:Agpfsa	nov
+Diners	mte:Agpfsa	diners
+kartico	mte:Ncfsa	kartica
+zaprosilo	mte:Vmep-sn	zaprositi
+tudi	mte:Q	tudi
+veliko	mte:Agpnsn	velik
+število	mte:Ncnsn	število
+novih	mte:Agpmpg	nov
+,	mte:Z	,
+«	mte:Z	«
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+Mladen	mte:Npmsn	Mladen
+Mirko	mte:Npmsn	Mirko
+Tepuš	mte:Npmsn	Tepuš
+.	mte:Z	.
+Zapadle	mte:Appfpa	zapadel
+obveznosti	mte:Ncfpa	obveznost
+do	mte:Sg	do
+starega	mte:Agpmsg	star
+Dinersa	mte:Npmsg	Diners
+morajo	mte:Vmpr3p	morati
+imetniki	mte:Ncmpn	imetnik
+plačati	mte:Vmen	plačati
+na	mte:Sa	na
+račun	mte:Ncmsan	račun
+Unicredit	mte:Npfsg	Unicredit
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Prvo	mte:Mlonsa	prvi
+leto	mte:Ncnsa	leto
+članarine	mte:Ncfsg	članarina
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+Letos	mte:Rgp	letos
+članarine	mte:Ncfsg	članarina
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+treba	mte:Rgp	treba
+plačevati	mte:Vmpn	plačevati
+,	mte:Z	,
+kako	mte:Rgp	kako
+pa	mte:Cc	pa
+za	mte:Sa	za
+naprej	mte:Rgp	naprej
+?	mte:Z	?
+Željko	mte:Npmsn	Željka
+Menalo	mte:Vmpp-sn	menati
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Erste	mte:Npfsn	Ersta
+Card	mte:Npmsn	Card
+Cluba	mte:Npmsg	Club
+napoveduje	mte:Vmpr3s	napovedovati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+cenovna	mte:Agpfsn	cenoven
+politika	mte:Ncfsn	politika
+naslednje	mte:Agpnsa	naslednji
+leto	mte:Ncnsa	leto
+ostala	mte:Vmep-sf	ostati
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+do	mte:Sg	do
+letošnje	mte:Agpfsg	letošnji
+spomladi	mte:Rgp	spomladi
+.	mte:Z	.
+»	mte:Z	»
+Nekatere	mte:Pi-fpa	nekateri
+stvari	mte:Ncfpa	stvar
+bomo	mte:Va-f1p-n	biti
+obdržali	mte:Vmep-pm	obdržati
+in	mte:Cc	in
+razvijali	mte:Vmpp-pm	razvijati
+naprej	mte:Rgp	naprej
+,	mte:Z	,
+o	mte:Sl	o
+nekaterih	mte:Pi-fpl	nekateri
+novih	mte:Agpfpl	nov
+ugodnostih	mte:Ncfpl	ugodnost
+pa	mte:Cc	pa
+še	mte:Q	še
+razmišljamo	mte:Vmpr1p	razmišljati
+,	mte:Z	,
+«	mte:Z	«
+pravi	mte:Vmbr3s	praviti
+Menalo	mte:Vmpp-sn	menati
+,	mte:Z	,
+denimo	mte:Vmem1p	deti
+s	mte:Si	z
+povezovanjem	mte:Ncnsi	povezovanje
+slovenskega	mte:Agpmsg	slovenski
+in	mte:Cc	in
+hrvaškega	mte:Agpmsg	hrvaški
+sistema	mte:Ncmsg	sistem
+Diners	mte:Npfsg	Diners
+.	mte:Z	.
+Ali	mte:Rgp	ali
+bi	mte:Va-c	biti
+to	mte:Pd-nsn	ta
+pomenilo	mte:Vmbp-sn	pomeniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+ugodnosti	mte:Ncfpa	ugodnost
+,	mte:Z	,
+točke	mte:Ncfpa	točka
+in	mte:Cc	in
+milje	mte:Ncfpa	milja
+izkoristili	mte:Vmep-pm	izkoristiti
+tudi	mte:Q	tudi
+pri	mte:Sl	pri
+čezmejnem	mte:Agpnsl	čezmejen
+nakupovanju	mte:Ncnsl	nakupovanje
+?	mte:Z	?
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+ena	mte:Mlpfsn	en
+od	mte:Sg	od
+možnosti	mte:Ncfsg	možnost
+,	mte:Z	,
+bomo	mte:Va-f1p-n	biti
+videli	mte:Vmbp-pm	videti
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Menalo	mte:Vmpp-sn	menati
+.	mte:Z	.
+Po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+splošnem	mte:Agpnsl	splošen
+mnenju	mte:Ncnsl	mnenje
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+zaradi	mte:Sg	zaradi
+regulatornega	mte:Agpmsg	regulatoren
+nadzora	mte:Ncmsg	nadzor
+povečalo	mte:Vmep-sn	povečati
+tudi	mte:Q	tudi
+preverjanje	mte:Ncnsn	preverjanje
+kreditne	mte:Agpfsg	krediten
+sposobnosti	mte:Ncfsg	sposobnost
+in	mte:Cc	in
+standardi	mte:Ncmpn	standard
+odobravanja	mte:Ncnsg	odobravanje
+.	mte:Z	.
+Sklenili	mte:Vmep-pm	skleniti
+so	mte:Va-r3p-n	biti
+628	mte:Mdc	628
+sporazumov	mte:Ncmpg	sporazum
+s	mte:Si	z
+trgovci	mte:Ncmpi	trgovec
+Do	mte:Sg	do
+20.8	mte:Mdc	20.8
+.	mte:Z	.
+bi	mte:Va-c	biti
+radi	mte:Rgp	rad
+vzpostavili	mte:Vmep-pm	vzpostaviti
+čim	mte:Rgp	čim
+boljšo	mte:Agcfsa	dober
+prodajno	mte:Agpfsa	prodajen
+mrežo	mte:Ncfsa	mreža
+,	mte:Z	,
+zato	mte:Cc	zato
+intenzivno	mte:Rgp	intenzivno
+sestankujejo	mte:Vmpr3p	sestankovati
+in	mte:Cc	in
+se	mte:Px------y	se
+pogajajo	mte:Vmpr3p	pogajati
+.	mte:Z	.
+»	mte:Z	»
+Z	mte:Si	z
+odzivom	mte:Ncmsi	odziv
+trgovcev	mte:Ncmpg	trgovec
+smo	mte:Va-r1p-n	biti
+zadovoljni	mte:Agpmpn	zadovoljen
+,	mte:Z	,
+v	mte:Sl	v
+prvih	mte:Mlonpl	prvi
+desetih	mte:Mlc-pl	deset
+smo	mte:Va-r1p-n	biti
+v	mte:Sa	v
+izplačilo	mte:Ncnsa	izplačilo
+trgovcem	mte:Ncmpd	trgovec
+dali	mte:Vmep-pm	dati
+že	mte:Q	že
+568	mte:Mdc	568
+nalogov	mte:Ncmpg	nalog
+,	mte:Z	,
+«	mte:Z	«
+o	mte:Sl	o
+poplačilu	mte:Ncnsl	poplačilo
+dolgov	mte:Ncmpg	dolg
+starega	mte:Agpmsg	star
+Dinersa	mte:Npmsg	Diners
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+vodil	mte:Vmpp-sm	voditi
+Tomaž	mte:Npmsn	Tomaž
+Lovše	mte:Npmsn	Lovše
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Željko	mte:Npmsn	Željka
+Menalo	mte:Vmpp-sn	menati
+.	mte:Z	.
+Od	mte:Sg	od
+8.000	mte:Mdc	8.000
+ponudb	mte:Ncfpg	ponudba
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+jih	mte:Pp3mpa--y	on
+poslali	mte:Vmep-pm	poslati
+,	mte:Z	,
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+sklenili	mte:Vmep-pm	skleniti
+628	mte:Mdc	628
+sporazumov	mte:Ncmpg	sporazum
+,	mte:Z	,
+pričakujejo	mte:Vmpr3p	pričakovati
+jih	mte:Pp3mpa--y	on
+še	mte:Q	še
+več	mte:Rgc	več
+.	mte:Z	.
+Vsa	mte:Pg-npn	ves
+bodoča	mte:Agpnpn	bodoč
+plačila	mte:Ncnpn	plačilo
+bodo	mte:Va-f3p-n	biti
+izvedena	mte:Appnpn	izveden
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+in	mte:Cc	in
+pravočasno	mte:Rgp	pravočasno
+,	mte:Z	,
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+pogodbami	mte:Ncfpi	pogodba
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Menalo	mte:Vmpp-sn	menati
+.	mte:Z	.
+Razmerja	mte:Ncnsg	razmerje
+so	mte:Va-r3p-n	biti
+uredili	mte:Vmep-pm	urediti
+že	mte:Q	že
+z	mte:Si	z
+vsemi	mte:Pg-mpi	ves
+večjimi	mte:Agcmpi	velik
+trgovci	mte:Ncmpi	trgovec
+,	mte:Z	,
+kot	mte:Cs	kot
+sta	mte:Va-r3d-n	biti
+Mercator	mte:Npmsn	Mercator
+ali	mte:Cc	ali
+Merkur	mte:Npmsn	Merkur
+.	mte:Z	.
+Ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+na	mte:Sl	na
+novem	mte:Agpmsl	nov
+Dinersu	mte:Npmsl	Diners
+delala	mte:Vmpp-sf	delati
+tudi	mte:Q	tudi
+Simona	mte:Npfsn	Simon
+Dimic	mte:Npfsn	Dimic
+?	mte:Z	?
+Situacija	mte:Ncfsn	situacija
+z	mte:Si	z
+Lovšetom	mte:Npmsi	Lovše
+je	mte:Va-r3s-n	biti
+vplivala	mte:Vmpp-sf	vplivati
+na	mte:Sa	na
+ugled	mte:Ncmsan	ugled
+znamke	mte:Ncfsg	znamka
+,	mte:Z	,
+priznavajo	mte:Vmpr3p	priznavati
+,	mte:Z	,
+a	mte:Cc	a
+smo	mte:Va-r1p-n	biti
+njeno	mte:Ps3fsasf	njen
+moč	mte:Ncfsa	moč
+dokazali	mte:Vmep-pm	dokazati
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+našli	mte:Vmep-pm	najti
+rešitev	mte:Ncfsa	rešitev
+,	mte:Z	,
+pravijo	mte:Vmbr3p	praviti
+novi	mte:Agpmpn	nov
+lastniki	mte:Ncmpn	lastnik
+franšize	mte:Ncfsg	franšiza
+.	mte:Z	.
+Lovše	mte:Npmsn	Lovše
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+vključen	mte:Appmsnn	vključen
+v	mte:Sa	v
+pogajanja	mte:Ncnpa	pogajanje
+za	mte:Sa	za
+nov	mte:Agpmsan	nov
+plačilni	mte:Agpmsay	plačilen
+sistem	mte:Ncmsan	sistem
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+razkrili	mte:Vmep-pm	razkriti
+.	mte:Z	.
+Do	mte:Sg	do
+konca	mte:Ncmsg	konec
+leta	mte:Ncnsg	leto
+bodo	mte:Va-f3p-n	biti
+zaposlili	mte:Vmep-pm	zaposliti
+60	mte:Mdc	60
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+vsak	mte:Pg-msa	vsak
+dan	mte:Ncmsan	dan
+najemajo	mte:Vmpr3p	najemati
+nove	mte:Agpmpa	nov
+.	mte:Z	.
+Na	mte:Sa	na
+naše	mte:Ps1nsap	naš
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+med	mte:Si	med
+njimi	mte:Pp3mpi	on
+tudi	mte:Q	tudi
+Simona	mte:Npfsn	Simon
+Dimic	mte:Npfsn	Dimic
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+svetovalka	mte:Ncfsn	svetovalka
+prejšnjega	mte:Agpmsg	prejšnji
+direktorja	mte:Ncmsg	direktor
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+,	mte:Z	,
+niso	mte:Va-r3p-y	biti
+konkretno	mte:Rgp	konkretno
+odgovorili	mte:Vmep-pm	odgovoriti
+,	mte:Z	,
+le	mte:Q	le
+da	mte:Cs	da
+izbirajo	mte:Vmpr3p	izbirati
+strokoven	mte:Agpmsan	strokoven
+kader	mte:Ncmsan	kader
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+spozna	mte:Vmbr3s	spoznati
+na	mte:Sa	na
+posel	mte:Ncmsan	posel
+in	mte:Cc	in
+bo	mte:Va-f3s-n	biti
+lahko	mte:Rgp	lahko
+znamko	mte:Ncfsa	znamka
+razvijal	mte:Vmpp-sm	razvijati
+naprej	mte:Rgp	naprej

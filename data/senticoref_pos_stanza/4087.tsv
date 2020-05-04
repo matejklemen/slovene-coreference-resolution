@@ -1,274 +1,287 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Jure	Npmsn
-Janković	Npmsn
-je	Va-r3s-n
-vrnil	Vmep-sm
-denar	Ncmsan
-,	Z
-ki	Cs
-si	Px---d--y
-ga	Pp3msa--y
-je	Va-r3s-n
-izposodil	Vmep-sm
-od	Sg
-podjetnika	Ncmsg
-Marjana	Npmsg
-Pišljarja	Npmsg
-,	Z
-je	Va-r3s-n
-za	Sa
-Televizijo	Ncfsa
-Slovenija	Npfsn
-povedal	Vmep-sm
-njegov	Ps3msnsm
-oče	Ncmsn
-in	Cc
-ljubljanski	Agpmsny
-župan	Ncmsn
-Zoran	Npmsn
-Janković	Npmsn
-.	Z
-Od	Sg
-kod	Pr-nsg
-njegovemu	Ps3msdsf
-sinu	Ncmsd
-dva	Mlcmdn
-milijona	Ncmdn
-evrov	Ncmpg
-za	Sa
-poplačilo	Ncnsa
-dolga	Agpmsg
-,	Z
-pa	Cc
-zanima	Vmpr3s
-Urad	Ncmsan
-za	Sa
-preprečevanje	Ncnsa
-pranja	Ncnsg
-denarja	Ncmsg
-.	Z
-Janković	Npmsn
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-sam	Agpmsnn
-le	Q
-podpisal	Vmep-sm
-pogodbo	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-je	Va-r3s-n
-predal	Vmep-sm
-hišo	Ncfsa
-v	Sl
-Grosuplju	Npmsl
-v	Sa
-last	Ncfsa
-Pišljarja	Npmsg
-.	Z
-Jure	Npmsn
-Janković	Npmsn
-zadeve	Ncfsg
-ne	Q
-komentira	Vmbr3s
-,	Z
-starejši	Agcmsny
-sin	Ncmsn
-ljubljanskega	Agpmsg
-župana	Ncmsg
-Damijan	Npmsn
-Janković	Npmsn
-pa	Cc
-je	Va-r3s-n
-zatrdil	Vmep-sm
-,	Z
-da	Cs
-dolga	Agpfpn
-niso	Va-r3p-y
-poplačali	Vmep-pm
-s	Si
-prodajo	Ncfsi
-hotela	Ncmsg
-na	Sl
-Hrvaškem	Npnsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-lasti	Ncfsl
-podjetja	Ncnsg
-Electa	Npmsn
-,	Z
-in	Cc
-tudi	Q
-ne	Q
-s	Si
-prodajo	Ncfsi
-delnic	Ncfpg
-Mercatorja	Npmsg
-,	Z
-je	Va-r3s-n
-poročala	Vmpp-sf
-Televizija	Ncfsn
-Slovenija	Npfsn
-.	Z
-Od	Sg
-kod	Pr-nsg
-torej	Rgp
-denar	Ncmsan
-za	Sa
-poplačilo	Ncnsa
-dolga	Agpmsn
-Pišljarju	Npmsd
-,	Z
-pa	Cc
-ni	Va-r3s-y
-pojasnil	Vmep-sm
-niti	Q
-Zoran	Npmsn
-Janković	Npmsn
-.	Z
-Dejal	Vmep-sm
-pa	Cc
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-njegov	Ps3msnsm
-mlajši	Agcmsny
-sin	Ncmsn
-podpisal	Vmep-sm
-pogodbo	Ncfsa
-s	Si
-podjetnikom	Ncmsi
-ter	Cc
-tudi	Q
-vrnil	Vmep-sm
-denar	Ncmsan
-,	Z
-ki	Cs
-si	Px---d--y
-ga	Pp3msa--y
-je	Va-r3s-n
-izposodil	Vmep-sm
-.	Z
-Po	Sl
-poročanju	Ncnsl
-POP	Npmsn
-TV	Npmsn
-so	Va-r3p-n
-iz	Sg
-odvetniške	Agpfsg
-pisarne	Ncfsg
-Čeferin	Npmsn
-sporočili	Vmep-pm
-,	Z
-da	Cs
-se	Px------y
-Zoran	Npmsn
-Janković	Npmsn
-s	Si
-Pišljarjem	Ncmsi
-ni	Va-r3s-y
-dogovarjal	Vmpp-sm
-o	Sl
-nikakršnem	Pi-nsl
-posojilu	Ncnsl
-,	Z
-temveč	Cc
-da	Cs
-se	Px------y
-je	Va-r3s-n
-o	Sl
-tem	Pd-nsl
-dogovarjal	Vmpp-sm
-le	Q
-Jure	Npmsn
-Janković	Npmsn
-.	Z
-Pojasnili	Vmep-pm
-so	Va-r3p-n
-tudi	Q
-,	Z
-da	Cs
-Zoran	Npmsn
-Janković	Npmsn
-ni	Va-r3s-y
-poravnal	Vmep-sm
-sinovega	Aspmsg
-dolga	Agpmsg
-ter	Cc
-da	Cs
-se	Px------y
-Pišljarjem	Ncmpd
-ni	Va-r3s-y
-dogovarjal	Vmpp-sm
-o	Sl
-vračilu	Ncnsl
-.	Z
-POP	Npmsn
-TV	Npmsn
-je	Va-r3s-n
-v	Sa
-sredo	Ncfsa
-poročal	Vmpp-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-Jure	Npmsn
-Janković	Npmsn
-Pišljarju	Npmsd
-vrnil	Vmep-sm
-tri	Mlcmpa
-milijone	Ncmpa
-evrov	Ncmpg
-dolga	Agpfsn
-.	Z
-Dolg	Agpmsnn
-naj	Q
-bi	Va-c
-po	Sl
-takratnem	Agpnsl
-poročanju	Ncnsl
-televizije	Ncfsg
-v	Sl
-sinovem	Aspnsl
-imenu	Ncnsl
-poravnal	Vmep-sm
-Zoran	Npmsn
-Janković	Npmsn
-.	Z
-Po	Sl
-takratnem	Agpnsl
-poročanju	Ncnsl
-televizije	Ncfsg
-sta	Va-r3d-n
-Janković	Npmsn
-in	Cc
-Pišljar	Npmsn
-sklenila	Vmep-dm
-sporazum	Ncmsan
-o	Sl
-ureditvi	Ncfsl
-razmerij	Ncnpg
-.	Z
-Glavnica	Ncfsn
-skupno	Rgp
-trimilijonskega	Agpnsg
-dolga	Agpfsg
-je	Va-r3s-n
-sedaj	Rgp
-poravnana	Appfsn
-,	Z
-obresti	Ncfsg
-pa	Cc
-Jankoviću	Npmsd
-ni	Va-r3s-y
-treba	Rgp
-vrniti	Vmen
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Jure	mte:Npmsn	Jure
+Janković	mte:Npmsn	Janković
+je	mte:Va-r3s-n	biti
+vrnil	mte:Vmep-sm	vrniti
+denar	mte:Ncmsan	denar
+,	mte:Z	,
+ki	mte:Cs	ki
+si	mte:Px---d--y	se
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+izposodil	mte:Vmep-sm	izposoditi
+od	mte:Sg	od
+podjetnika	mte:Ncmsg	podjetnik
+Marjana	mte:Npmsg	Marjan
+Pišljarja	mte:Npmsg	Pišljar
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+Televizijo	mte:Ncfsa	televizija
+Slovenija	mte:Npfsn	Slovenija
+povedal	mte:Vmep-sm	povedati
+njegov	mte:Ps3msnsm	njegov
+oče	mte:Ncmsn	oče
+in	mte:Cc	in
+ljubljanski	mte:Agpmsny	ljubljanski
+župan	mte:Ncmsn	župan
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Od	mte:Sg	od
+kod	mte:Pr-nsg	kod
+njegovemu	mte:Ps3msdsf	njegov
+sinu	mte:Ncmsd	sin
+dva	mte:Mlcmdn	dva
+milijona	mte:Ncmdn	milijon
+evrov	mte:Ncmpg	evro
+za	mte:Sa	za
+poplačilo	mte:Ncnsa	poplačilo
+dolga	mte:Agpmsg	dolg
+,	mte:Z	,
+pa	mte:Cc	pa
+zanima	mte:Vmpr3s	zanimati
+Urad	mte:Ncmsan	urad
+za	mte:Sa	za
+preprečevanje	mte:Ncnsa	preprečevanje
+pranja	mte:Ncnsg	pranje
+denarja	mte:Ncmsg	denar
+.	mte:Z	.
+Janković	mte:Npmsn	Janković
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sam	mte:Agpmsnn	sam
+le	mte:Q	le
+podpisal	mte:Vmep-sm	podpisati
+pogodbo	mte:Ncfsa	pogodba
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+je	mte:Va-r3s-n	biti
+predal	mte:Vmep-sm	predati
+hišo	mte:Ncfsa	hiša
+v	mte:Sl	v
+Grosuplju	mte:Npmsl	Grosupelj
+v	mte:Sa	v
+last	mte:Ncfsa	last
+Pišljarja	mte:Npmsg	Pišljar
+.	mte:Z	.
+Jure	mte:Npmsn	Jure
+Janković	mte:Npmsn	Janković
+zadeve	mte:Ncfsg	zadeva
+ne	mte:Q	ne
+komentira	mte:Vmbr3s	komentirati
+,	mte:Z	,
+starejši	mte:Agcmsny	star
+sin	mte:Ncmsn	sin
+ljubljanskega	mte:Agpmsg	ljubljanski
+župana	mte:Ncmsg	župan
+Damijan	mte:Npmsn	Damijan
+Janković	mte:Npmsn	Janković
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+dolga	mte:Agpfpn	dolg
+niso	mte:Va-r3p-y	biti
+poplačali	mte:Vmep-pm	poplačati
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+hotela	mte:Ncmsg	hotel
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+podjetja	mte:Ncnsg	podjetje
+Electa	mte:Npmsn	Electa
+,	mte:Z	,
+in	mte:Cc	in
+tudi	mte:Q	tudi
+ne	mte:Q	ne
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+delnic	mte:Ncfpg	delnica
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročala	mte:Vmpp-sf	poročati
+Televizija	mte:Ncfsn	televizija
+Slovenija	mte:Npfsn	Slovenija
+.	mte:Z	.
+Od	mte:Sg	od
+kod	mte:Pr-nsg	kod
+torej	mte:Rgp	torej
+denar	mte:Ncmsan	denar
+za	mte:Sa	za
+poplačilo	mte:Ncnsa	poplačilo
+dolga	mte:Agpmsn	dolg
+Pišljarju	mte:Npmsd	Pišljar
+,	mte:Z	,
+pa	mte:Cc	pa
+ni	mte:Va-r3s-y	biti
+pojasnil	mte:Vmep-sm	pojasniti
+niti	mte:Q	niti
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Dejal	mte:Vmep-sm	dejati
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+njegov	mte:Ps3msnsm	njegov
+mlajši	mte:Agcmsny	mlad
+sin	mte:Ncmsn	sin
+podpisal	mte:Vmep-sm	podpisati
+pogodbo	mte:Ncfsa	pogodba
+s	mte:Si	z
+podjetnikom	mte:Ncmsi	podjetnik
+ter	mte:Cc	ter
+tudi	mte:Q	tudi
+vrnil	mte:Vmep-sm	vrniti
+denar	mte:Ncmsan	denar
+,	mte:Z	,
+ki	mte:Cs	ki
+si	mte:Px---d--y	se
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+izposodil	mte:Vmep-sm	izposoditi
+.	mte:Z	.
+Po	mte:Sl	po
+poročanju	mte:Ncnsl	poročanje
+POP	mte:Npmsn	POP
+TV	mte:Npmsn	TV
+so	mte:Va-r3p-n	biti
+iz	mte:Sg	iz
+odvetniške	mte:Agpfsg	odvetniški
+pisarne	mte:Ncfsg	pisarna
+Čeferin	mte:Npmsn	Čeferin
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+s	mte:Si	z
+Pišljarjem	mte:Ncmsi	pišljar
+ni	mte:Va-r3s-y	biti
+dogovarjal	mte:Vmpp-sm	dogovarjati
+o	mte:Sl	o
+nikakršnem	mte:Pi-nsl	nikakršen
+posojilu	mte:Ncnsl	posojilo
+,	mte:Z	,
+temveč	mte:Cc	temveč
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+dogovarjal	mte:Vmpp-sm	dogovarjati
+le	mte:Q	le
+Jure	mte:Npmsn	Jure
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Pojasnili	mte:Vmep-pm	pojasniti
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+ni	mte:Va-r3s-y	biti
+poravnal	mte:Vmep-sm	poravnati
+sinovega	mte:Aspmsg	sinov
+dolga	mte:Agpmsg	dolg
+ter	mte:Cc	ter
+da	mte:Cs	da
+se	mte:Px------y	se
+Pišljarjem	mte:Ncmpd	pišljar
+ni	mte:Va-r3s-y	biti
+dogovarjal	mte:Vmpp-sm	dogovarjati
+o	mte:Sl	o
+vračilu	mte:Ncnsl	vračilo
+.	mte:Z	.
+POP	mte:Npmsn	POP
+TV	mte:Npmsn	TV
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+poročal	mte:Vmpp-sm	poročati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Jure	mte:Npmsn	Jure
+Janković	mte:Npmsn	Janković
+Pišljarju	mte:Npmsd	Pišljar
+vrnil	mte:Vmep-sm	vrniti
+tri	mte:Mlcmpa	trije
+milijone	mte:Ncmpa	milijon
+evrov	mte:Ncmpg	evro
+dolga	mte:Agpfsn	dolg
+.	mte:Z	.
+Dolg	mte:Agpmsnn	dolg
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+takratnem	mte:Agpnsl	takraten
+poročanju	mte:Ncnsl	poročanje
+televizije	mte:Ncfsg	televizija
+v	mte:Sl	v
+sinovem	mte:Aspnsl	sinov
+imenu	mte:Ncnsl	ime
+poravnal	mte:Vmep-sm	poravnati
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+.	mte:Z	.
+Po	mte:Sl	po
+takratnem	mte:Agpnsl	takraten
+poročanju	mte:Ncnsl	poročanje
+televizije	mte:Ncfsg	televizija
+sta	mte:Va-r3d-n	biti
+Janković	mte:Npmsn	Janković
+in	mte:Cc	in
+Pišljar	mte:Npmsn	Pišljar
+sklenila	mte:Vmep-dm	skleniti
+sporazum	mte:Ncmsan	sporazum
+o	mte:Sl	o
+ureditvi	mte:Ncfsl	ureditev
+razmerij	mte:Ncnpg	razmerje
+.	mte:Z	.
+Glavnica	mte:Ncfsn	glavnica
+skupno	mte:Rgp	skupno
+trimilijonskega	mte:Agpnsg	trimilijonski
+dolga	mte:Agpfsg	dolg
+je	mte:Va-r3s-n	biti
+sedaj	mte:Rgp	sedaj
+poravnana	mte:Appfsn	poravnan
+,	mte:Z	,
+obresti	mte:Ncfsg	obresti
+pa	mte:Cc	pa
+Jankoviću	mte:Npmsd	Janković
+ni	mte:Va-r3s-y	biti
+treba	mte:Rgp	treba
+vrniti	mte:Vmen	vrniti
+.	mte:Z	.
+Pišljar	mte:Npmsn	Pišljar
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+sicer	mte:Q	sicer
+v	mte:Sl	v
+teh	mte:Pd-mpl	ta
+dneh	mte:Ncmpl	dan
+dobil	mte:Vmep-sm	dobiti
+nakazana	mte:Appmda	nakazan
+dobra	mte:Agpmda	dober
+dva	mte:Mlcmda	dva
+milijona	mte:Ncmda	milijon
+evrov	mte:Ncmpg	evro

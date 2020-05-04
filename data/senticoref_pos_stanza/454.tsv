@@ -1,365 +1,371 @@
-token	tag
-Eden	Mlpmsn
-od	Sg
-dveh	Mlcmdg
-francoskih	Agpmdg
-avtomobilskih	Agpmdg
-gigantov	Ncmdg
-je	Va-r3s-n
-lani	Rgp
-zabeležil	Vmep-sm
-kar	Rgp
-343	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-izgube	Ncfsg
-,	Z
-črne	Agpmpa
-čase	Ncmpa
-pa	Cc
-napovedujejo	Vmpr3p
-tudi	Q
-za	Sa
-letos	Rgp
-.	Z
-Brez	Sg
-dela	Ncnsg
-bo	Va-f3s-n
-ostalo	Vmep-sn
-11	Mdc
-tisoč	Mlc-pa
-ljudi	Ncmpg
-.	Z
-V	Sl
-koncernu	Ncmsl
-PSA	Ncmsg
-Peugeot	Npmsn
--	Z
-Citroen	Npmsn
-so	Va-r3p-n
-imeli	Vmpp-pm
-lani	Rgp
-kar	Rgp
-343	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-izgube	Ncfsg
-.	Z
-Francoski	Agpmsny
-avtomobilski	Agpmsny
-koncern	Ncmsn
-PSA	Ncmsg
-Peugeot	Npmsn
--	Z
-Citroen	Npmsn
-je	Va-r3s-n
-imel	Vmpp-sm
-lani	Rgp
-kar	Rgp
-343	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-izgube	Ncfsg
-,	Z
-nadaljevanje	Ncnsa
-slabih	Agpmpg
-časov	Ncmpg
-pa	Cc
-pričakuje	Vmpr3s
-tudi	Q
-v	Sl
-tem	Pd-nsl
-letu	Ncnsl
-.	Z
-Zato	Cc
-nameravajo	Vmpr3p
-ukiniti	Vmen
-kar	Rgp
-11	Mdc
-tisoč	Mlc-pa
-delovnih	Agpnpg
-mest	Ncnpg
-.	Z
-Slika	Ncfsn
-je	Va-r3s-n
-bila	Va-p-sf
-popolnoma	Rgp
-drugačna	Agpfsn
-leta	Ncnsg
-2007	Mdc
-,	Z
-ko	Cs
-so	Va-r3p-n
-imeli	Vmpp-pm
-kar	Rgp
-885	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-profita	Ncmsg
-.	Z
-Renault	Npmsn
-bo	Va-f3s-n
-podatke	Ncmpa
-o	Sl
-poslovanju	Ncnsl
-predstavil	Vmep-sm
-v	Sa
-četrtek	Ncmsan
-.	Z
-Glavni	Agpmsny
-izvršni	Agpmsny
-direktor	Ncmsn
-Christian	Npmsn
-Streiff	Npmsn
-je	Va-r3s-n
-napovedal	Vmep-sm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-avtomobilski	Agpmpn
-trgi	Ncmpn
-v	Sl
-zahodni	Agpfsl
-Evropi	Npfsl
-v	Sl
-letu	Ncnsl
-2009	Mdc
-zabeležili	Vmep-pm
-20	Mdc
--	Z
-odstoten	Agpmsan
-padec	Ncmsan
-ter	Cc
-se	Px------y
-nato	Rgp
-leta	Ncnsg
-2010	Mdc
-umirili	Vmep-pm
-.	Z
-Posebej	Rgp
-težavno	Rgp
-bo	Va-f3s-n
-prvo	Mlonsa
-četrtletje	Ncnsa
-,	Z
-predvideva	Vmpr3s
-,	Z
-zaradi	Sg
-česar	Pr-nsg
-se	Px------y
-je	Va-r3s-n
-morala	Vmpp-sf
-skupina	Ncfsn
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-odločiti	Vmen
-za	Sa
-doslej	Rgp
-nevidene	Agpmpa
-ukrepe	Ncmpa
-.	Z
-Med	Si
-drugim	Mlpnsi
-nameravajo	Vmpr3p
-zvišati	Vmpn
-cene	Ncfpa
-,	Z
-za	Sa
-petino	Ncfsa
-zmanjšati	Vmen
-proizvodnjo	Ncfsa
-avtomobilov	Ncmpg
-in	Cc
-zmanjšati	Vmen
-število	Ncnsa
-zaposlenih	Appmpg
-.	Z
-Francoski	Agpmsny
-predsednik	Ncmsn
-Nicolas	Npmsn
-Sarkozy	Npmsn
-je	Va-r3s-n
-z	Si
-namenom	Ncmsi
-,	Z
-da	Cs
-bi	Va-c
-preprečili	Vmep-pm
-selitev	Ncfsa
-avtomobilske	Agpfsg
-proizvodnje	Ncfsg
-,	Z
-prejšnji	Agpmsay
-teden	Ncmsan
-napovedal	Vmep-sm
-sprejetje	Ncnsa
-načrta	Ncmsg
-podpore	Ncfsg
-avtomobilski	Agpfsd
-industriji	Ncfsd
-.	Z
-V	Sa
-ponedeljek	Ncmsan
-je	Va-r3s-n
-nato	Rgp
-vlada	Ncfsn
-predstavila	Vmep-sf
-paket	Ncmsan
-v	Sl
-vrednosti	Ncfsl
-6,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-,	Z
-v	Sl
-sklopu	Ncmsl
-katerega	Pq-msg
-bosta	Va-f3d-n
-oba	Pg-mdn
-glavna	Agpmdn
-avtomobilska	Agpmdn
-proizvajalca	Ncmdn
-PSA	Ncmdn
-Peugeot	Npmsn
-Citroen	Npmsn
-in	Cc
-Renault	Npmsn
-prejela	Vmep-dm
-po	Sa
-tri	Mlcfpa
-milijarde	Ncfpa
-evrov	Ncmpg
-posojila	Ncnsg
-.	Z
-To	Pd-nsn
-pa	Cc
-ne	Q
-bo	Va-f3s-n
-doletelo	Vmep-sn
-francoskih	Agpmpg
-delavcev	Ncmpg
-.	Z
-Vlada	Ncfsn
-v	Sl
-Parizu	Npmsl
-je	Va-r3s-n
-namreč	Cc
-proizvajalcem	Ncmpd
-avtomobilov	Ncmpg
-namenila	Vmep-sf
-6,5	Mdc
-milijarde	Ncfsg
-evrov	Ncmpg
-pomoči	Ncfsg
-,	Z
-od	Sg
-česar	Pr-nsg
-je	Va-r3s-n
-koncernu	Ncmsd
-Peugeot	Npmsn
--	Z
-Citroen	Npmsn
-pripadlo	Vmep-sn
-tri	Mlcfpa
-milijarde	Ncfpa
-,	Z
-ostalo	Vmep-sn
-pa	Cc
-je	Va-r3s-n
-dobil	Vmep-sm
-njihov	Ps3msap
-rival	Ncmsan
-Renault	Npmsn
-.	Z
-V	Sa
-zameno	Ncfsa
-pa	Cc
-v	Sl
-njihovih	Ps3fplp
-tovarnah	Ncfpl
-ne	Q
-smejo	Vmpr3p
-odpuščati	Vmpn
-francoskih	Agpmpg
-delavcev	Ncmpg
-.	Z
-Peugeot	Npmsn
-sicer	Q
-v	Sl
-domačih	Agpfpl
-tovarnah	Ncfpl
-proizvede	Vmer3s
-le	Q
-okrog	Rgp
-40	Mdc
-odstotkov	Ncmpg
-svojih	Px-npg
-vozil	Ncnpg
-.	Z
-Tovarne	Ncfsg
-ima	Vmpr3s-n
-tudi	Q
-v	Sl
-Španiji	Npfsl
-,	Z
-na	Sl
-Češkem	Npnsl
-,	Z
-Slovaškem	Npnsl
-,	Z
-v	Sl
-Italiji	Npfsl
-in	Cc
-na	Sl
-Portugalskem	Npnsl
-ter	Cc
-v	Sl
-Turčiji	Npfsl
-,	Z
-na	Sl
-Kitajskem	Npnsl
-,	Z
-v	Sl
-Argentini	Npfsl
-in	Cc
-Braziliji	Npfsl
-.	Z
-Koncern	Npmsn
-Peugeot	Npmsn
--	Z
-Citroen	Npmsn
-je	Va-r3s-n
-konec	Sg
-leta	Ncnsg
-2007	Mdc
-zaposloval	Vmpp-sm
-207.850	Mdc
-delavcev	Ncmpg
-.	Z
-Dobavitelj	Ncmsn
-delov	Ncmpg
-Faurecia	Npmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-v	Sl
-večinski	Agpfsl
-lasti	Ncfsl
-Peugeota	Ncmsg
-,	Z
-je	Va-r3s-n
-danes	Rgp
-prav	Q
-tako	Rgp
-najavil	Vmep-sm
-izgubo	Ncfsa
-,	Z
-in	Cc
-sicer	Q
-v	Sl
-višini	Ncfsl
-547	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+dveh	mte:Mlcmdg	dva
+francoskih	mte:Agpmdg	francoski
+avtomobilskih	mte:Agpmdg	avtomobilski
+gigantov	mte:Ncmdg	gigant
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+zabeležil	mte:Vmep-sm	zabeležiti
+kar	mte:Rgp	kar
+343	mte:Mdc	343
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+,	mte:Z	,
+črne	mte:Agpmpa	črn
+čase	mte:Ncmpa	čas
+pa	mte:Cc	pa
+napovedujejo	mte:Vmpr3p	napovedovati
+tudi	mte:Q	tudi
+za	mte:Sa	za
+letos	mte:Rgp	letos
+.	mte:Z	.
+Brez	mte:Sg	brez
+dela	mte:Ncnsg	delo
+bo	mte:Va-f3s-n	biti
+ostalo	mte:Vmep-sn	ostati
+11	mte:Mdc	11
+tisoč	mte:Mlc-pa	tisoč
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+V	mte:Sl	v
+koncernu	mte:Ncmsl	koncern
+PSA	mte:Ncmsg	PSA
+Peugeot	mte:Npmsn	Peugeot
+-	mte:Z	-
+Citroen	mte:Npmsn	Citroen
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+lani	mte:Rgp	lani
+kar	mte:Rgp	kar
+343	mte:Mdc	343
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+.	mte:Z	.
+Francoski	mte:Agpmsny	francoski
+avtomobilski	mte:Agpmsny	avtomobilski
+koncern	mte:Ncmsn	koncern
+PSA	mte:Ncmsg	PSA
+Peugeot	mte:Npmsn	Peugeot
+-	mte:Z	-
+Citroen	mte:Npmsn	Citroen
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+lani	mte:Rgp	lani
+kar	mte:Rgp	kar
+343	mte:Mdc	343
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+,	mte:Z	,
+nadaljevanje	mte:Ncnsa	nadaljevanje
+slabih	mte:Agpmpg	slab
+časov	mte:Ncmpg	čas
+pa	mte:Cc	pa
+pričakuje	mte:Vmpr3s	pričakovati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+tem	mte:Pd-nsl	ta
+letu	mte:Ncnsl	leto
+.	mte:Z	.
+Zato	mte:Cc	zato
+nameravajo	mte:Vmpr3p	nameravati
+ukiniti	mte:Vmen	ukiniti
+kar	mte:Rgp	kar
+11	mte:Mdc	11
+tisoč	mte:Mlc-pa	tisoč
+delovnih	mte:Agpnpg	deloven
+mest	mte:Ncnpg	mesto
+.	mte:Z	.
+Slika	mte:Ncfsn	slika
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+popolnoma	mte:Rgp	popolnoma
+drugačna	mte:Agpfsn	drugačen
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+,	mte:Z	,
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+kar	mte:Rgp	kar
+885	mte:Mdc	885
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+profita	mte:Ncmsg	profit
+.	mte:Z	.
+Renault	mte:Npmsn	Renault
+bo	mte:Va-f3s-n	biti
+podatke	mte:Ncmpa	podatek
+o	mte:Sl	o
+poslovanju	mte:Ncnsl	poslovanje
+predstavil	mte:Vmep-sm	predstaviti
+v	mte:Sa	v
+četrtek	mte:Ncmsan	četrtek
+.	mte:Z	.
+Glavni	mte:Agpmsny	glaven
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+Christian	mte:Npmsn	Christian
+Streiff	mte:Npmsn	Streiff
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+avtomobilski	mte:Agpmpn	avtomobilski
+trgi	mte:Ncmpn	trg
+v	mte:Sl	v
+zahodni	mte:Agpfsl	zahoden
+Evropi	mte:Npfsl	Evropa
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2009	mte:Mdc	2009
+zabeležili	mte:Vmep-pm	zabeležiti
+20	mte:Mdc	20
+-	mte:Z	-
+odstoten	mte:Agpmsan	odstoten
+padec	mte:Ncmsan	padec
+ter	mte:Cc	ter
+se	mte:Px------y	se
+nato	mte:Rgp	nato
+leta	mte:Ncnsg	leto
+2010	mte:Mdc	2010
+umirili	mte:Vmep-pm	umiriti
+.	mte:Z	.
+Posebej	mte:Rgp	posebej
+težavno	mte:Rgp	težavno
+bo	mte:Va-f3s-n	biti
+prvo	mte:Mlonsa	prvi
+četrtletje	mte:Ncnsa	četrtletje
+,	mte:Z	,
+predvideva	mte:Vmpr3s	predvidevati
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+česar	mte:Pr-nsg	kar
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+morala	mte:Vmpp-sf	morati
+skupina	mte:Ncfsn	skupina
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+odločiti	mte:Vmen	odločiti
+za	mte:Sa	za
+doslej	mte:Rgp	doslej
+nevidene	mte:Agpmpa	neviden
+ukrepe	mte:Ncmpa	ukrep
+.	mte:Z	.
+Med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+nameravajo	mte:Vmpr3p	nameravati
+zvišati	mte:Vmpn	zvišati
+cene	mte:Ncfpa	cena
+,	mte:Z	,
+za	mte:Sa	za
+petino	mte:Ncfsa	petina
+zmanjšati	mte:Vmen	zmanjšati
+proizvodnjo	mte:Ncfsa	proizvodnja
+avtomobilov	mte:Ncmpg	avtomobil
+in	mte:Cc	in
+zmanjšati	mte:Vmen	zmanjšati
+število	mte:Ncnsa	število
+zaposlenih	mte:Appmpg	zaposlen
+.	mte:Z	.
+Francoski	mte:Agpmsny	francoski
+predsednik	mte:Ncmsn	predsednik
+Nicolas	mte:Npmsn	Nicolas
+Sarkozy	mte:Npmsn	Sarkozy
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+namenom	mte:Ncmsi	namen
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+preprečili	mte:Vmep-pm	preprečiti
+selitev	mte:Ncfsa	selitev
+avtomobilske	mte:Agpfsg	avtomobilski
+proizvodnje	mte:Ncfsg	proizvodnja
+,	mte:Z	,
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+napovedal	mte:Vmep-sm	napovedati
+sprejetje	mte:Ncnsa	sprejetje
+načrta	mte:Ncmsg	načrt
+podpore	mte:Ncfsg	podpora
+avtomobilski	mte:Agpfsd	avtomobilski
+industriji	mte:Ncfsd	industrija
+.	mte:Z	.
+V	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+vlada	mte:Ncfsn	vlada
+predstavila	mte:Vmep-sf	predstaviti
+paket	mte:Ncmsan	paket
+v	mte:Sl	v
+vrednosti	mte:Ncfsl	vrednost
+6,5	mte:Mdc	6,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+v	mte:Sl	v
+sklopu	mte:Ncmsl	sklop
+katerega	mte:Pq-msg	kateri
+bosta	mte:Va-f3d-n	biti
+oba	mte:Pg-mdn	oba
+glavna	mte:Agpmdn	glaven
+avtomobilska	mte:Agpmdn	avtomobilski
+proizvajalca	mte:Ncmdn	proizvajalec
+PSA	mte:Ncmdn	PSA
+Peugeot	mte:Npmsn	Peugeot
+Citroen	mte:Npmsn	Citroen
+in	mte:Cc	in
+Renault	mte:Npmsn	Renault
+prejela	mte:Vmep-dm	prejeti
+po	mte:Sa	po
+tri	mte:Mlcfpa	trije
+milijarde	mte:Ncfpa	milijarda
+evrov	mte:Ncmpg	evro
+posojila	mte:Ncnsg	posojilo
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+pa	mte:Cc	pa
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+doletelo	mte:Vmep-sn	doleteti
+francoskih	mte:Agpmpg	francoski
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+v	mte:Sl	v
+Parizu	mte:Npmsl	Pariz
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+proizvajalcem	mte:Ncmpd	proizvajalec
+avtomobilov	mte:Ncmpg	avtomobil
+namenila	mte:Vmep-sf	nameniti
+6,5	mte:Mdc	6,5
+milijarde	mte:Ncfsg	milijarda
+evrov	mte:Ncmpg	evro
+pomoči	mte:Ncfsg	pomoč
+,	mte:Z	,
+od	mte:Sg	od
+česar	mte:Pr-nsg	kar
+je	mte:Va-r3s-n	biti
+koncernu	mte:Ncmsd	koncern
+Peugeot	mte:Npmsn	Peugeot
+-	mte:Z	-
+Citroen	mte:Npmsn	Citroen
+pripadlo	mte:Vmep-sn	pripasti
+tri	mte:Mlcfpa	trije
+milijarde	mte:Ncfpa	milijarda
+,	mte:Z	,
+ostalo	mte:Vmep-sn	ostati
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dobil	mte:Vmep-sm	dobiti
+njihov	mte:Ps3msap	njihov
+rival	mte:Ncmsan	rival
+Renault	mte:Npmsn	Renault
+.	mte:Z	.
+V	mte:Sa	v
+zameno	mte:Ncfsa	zamena
+pa	mte:Cc	pa
+v	mte:Sl	v
+njihovih	mte:Ps3fplp	njihov
+tovarnah	mte:Ncfpl	tovarna
+ne	mte:Q	ne
+smejo	mte:Vmpr3p	smeti
+odpuščati	mte:Vmpn	odpuščati
+francoskih	mte:Agpmpg	francoski
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Peugeot	mte:Npmsn	Peugeot
+sicer	mte:Q	sicer
+v	mte:Sl	v
+domačih	mte:Agpfpl	domač
+tovarnah	mte:Ncfpl	tovarna
+proizvede	mte:Vmer3s	proizvesti
+le	mte:Q	le
+okrog	mte:Rgp	okrog
+40	mte:Mdc	40
+odstotkov	mte:Ncmpg	odstotek
+svojih	mte:Px-npg	svoj
+vozil	mte:Ncnpg	vozilo
+.	mte:Z	.
+Tovarne	mte:Ncfsg	tovarna
+ima	mte:Vmpr3s-n	imeti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+Španiji	mte:Npfsl	Španija
+,	mte:Z	,
+na	mte:Sl	na
+Češkem	mte:Npnsl	Češko
+,	mte:Z	,
+Slovaškem	mte:Npnsl	Slovaško
+,	mte:Z	,
+v	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+in	mte:Cc	in
+na	mte:Sl	na
+Portugalskem	mte:Npnsl	Portugalsko
+ter	mte:Cc	ter
+v	mte:Sl	v
+Turčiji	mte:Npfsl	Turčija
+,	mte:Z	,
+na	mte:Sl	na
+Kitajskem	mte:Npnsl	Kitajsko
+,	mte:Z	,
+v	mte:Sl	v
+Argentini	mte:Npfsl	Argentina
+in	mte:Cc	in
+Braziliji	mte:Npfsl	Brazilija
+.	mte:Z	.
+Koncern	mte:Npmsn	Koncern
+Peugeot	mte:Npmsn	Peugeot
+-	mte:Z	-
+Citroen	mte:Npmsn	Citroen
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+zaposloval	mte:Vmpp-sm	zaposlovati
+207.850	mte:Mdc	207.850
+delavcev	mte:Ncmpg	delavec
+.	mte:Z	.
+Dobavitelj	mte:Ncmsn	dobavitelj
+delov	mte:Ncmpg	del
+Faurecia	mte:Npmsg	Faurecia
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+večinski	mte:Agpfsl	večinski
+lasti	mte:Ncfsl	last
+Peugeota	mte:Ncmsg	peugeota
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+najavil	mte:Vmep-sm	najaviti
+izgubo	mte:Ncfsa	izguba
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+547	mte:Mdc	547
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Zato	mte:Cc	zato
+bo	mte:Va-f3s-n	biti
+prosil	mte:Vmpp-sm	prositi
+za	mte:Sa	za
+finančno	mte:Agpfsa	finančen
+pomoč	mte:Ncfsa	pomoč

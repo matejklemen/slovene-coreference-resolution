@@ -1,379 +1,397 @@
-token	tag
-Koper	Npmsn
--	Z
-Luka	Npmsn
-Koper	Npmsn
-je	Va-r3s-n
-izstopila	Vmep-sf
-iz	Sg
-lastništva	Ncnsg
-romunske	Agpfsg
-družbe	Ncfsg
-Trade	Npmsn
-Trans	Npmsn
-Terminal	Npmsn
-iz	Sg
-Arada	Npmsg
-,	Z
-ki	Cs
-upravlja	Vmpr3s
-s	Si
-tamkajšnjim	Agpmsi
-terminalom	Ncmsi
-za	Sa
-generalne	Agpmpa
-tovore	Ncmpa
-.	Z
-Obenem	Rgp
-je	Va-r3s-n
-Luka	Npmsn
-Koper	Npmsn
-ponovno	Rgp
-postala	Vmep-sf
-edina	Agpfsn
-lastnica	Ncfsn
-družbe	Ncfsg
-Adria	Npfsn
-Terminali	Npmsn
-,	Z
-ki	Cs
-upravlja	Vmpr3s
-s	Si
-sežanskim	Agpmsi
-logističnim	Agpmsi
-centrom	Ncmsi
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-iz	Sg
-Luke	Npfsg
-Koper	Npmsn
-.	Z
-Za	Sa
-prodajo	Ncfsa
-17	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-v	Sl
-romunski	Agpfsl
-družbi	Ncfsl
-Trade	Npmsn
-Trans	Npmsn
-Terminal	Npmsn
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-,	Z
-ker	Cs
-terminal	Ncmsn
-ni	Va-r3s-y
-izpolnjeval	Vmpp-sm
-pričakovanj	Ncnpg
-,	Z
-so	Va-r3p-n
-pojasnili	Vmep-pm
-v	Sl
-Luki	Npfsl
-Koper	Npmsn
-.	Z
-Svoj	Px-msa
-delež	Ncmsan
-je	Va-r3s-n
-Luka	Npmsn
-Koper	Npmsn
-prodala	Vmep-sf
-družbi	Ncfsd
-Trade	Npmsn
-Trans	Npmsn
-Log	Npmsn
-,	Z
-odvisni	Agpfsd
-družbi	Ncfsd
-slovaške	Agpfsg
-družbe	Ncfsg
-Trade	Npmsn
-Trans	Npmsn
-Invest	Npmsn
-(	Z
-TTI	Npmsn
-)	Z
-,	Z
-ki	Cs
-je	Va-r3s-n
-tudi	Q
-delna	Agpfsn
-lastnica	Ncfsn
-omenjenega	Appmsg
-terminala	Ncmsg
-.	Z
-Sočasno	Rgp
-s	Si
-prodajo	Ncfsi
-deleža	Ncmsg
-v	Sl
-romunski	Agpfsl
-družbi	Ncfsl
-je	Va-r3s-n
-Luka	Npmsn
-Koper	Npmsn
-od	Sg
-slovaške	Agpfsg
-družbe	Ncfsg
-Spedition	Npmsn
-Trade	Npmsn
-Trans	Npmsn
-Holding	Npmsn
-ponovno	Rgp
-odkupila	Vmep-sf
-49	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-svoji	Px-fsl
-odvisni	Agpfsl
-družbi	Ncfsl
-Adria	Npfsn
-Terminali	Npmpn
-.	Z
-"	Z
-Za	Sa
-ta	Pd-msa
-korak	Ncmsan
-smo	Va-r1p-n
-se	Px------y
-odločili	Vmep-pm
-zaradi	Sg
-strateške	Agpfsg
-usmeritve	Ncfsg
-uprave	Ncfsg
-po	Sl
-samostojnem	Agpnsl
-obvladovanju	Ncnsl
-in	Cc
-razvijanju	Ncnsl
-terminala	Ncmsg
-v	Sl
-Sežani	Npfsl
-,	Z
-ki	Cs
-ima	Vmpr3s-n
-v	Sl
-strategiji	Ncfsl
-zalednih	Agpmpg
-terminalov	Ncmpg
-osrednjo	Agpfsa
-vlogo	Ncfsa
-,	Z
-"	Z
-pojasnjujejo	Vmpr3p
-iz	Sg
-Luke	Npfsg
-Koper	Npmsn
-.	Z
-Družbo	Ncfsa
-Adria	Npfsn
-Terminali	Npmpn
-je	Va-r3s-n
-Luka	Npfsn
-Koper	Npmsn
-sicer	Q
-ustanovila	Vmep-sf
-leta	Ncnsg
-2007	Mdc
-.	Z
-Po	Sl
-odkupu	Ncmsl
-10	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-v	Sl
-slovaški	Agpfsl
-TTI	Npfsl
-je	Va-r3s-n
-49	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-Adrie	Npfsg
-Terminali	Npmsn
-prodala	Vmep-sf
-slovaški	Agpfsd
-družbi	Ncfsd
-Spedition	Npmsn
-Trade	Npmsn
-Trans	Npmsn
-Holding	Ncmsan
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-lastniško	Rgp
-tudi	Q
-povezani	Appmsn
-s	Si
-TTI	Ncmsi
-.	Z
-Po	Sl
-navedbah	Ncfpl
-iz	Sg
-Luke	Npfsg
-Koper	Npmsn
-so	Va-r3p-n
-posel	Ncmsan
-takrat	Rgp
-sklenili	Vmep-pm
-zaradi	Sg
-pričakovanih	Appmpg
-sinergijskih	Agpmpg
-učinkov	Ncmpg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-jih	Pp3mpa--y
-pripeljal	Vmep-sm
-nov	Agpmsnn
-lastnik	Ncmsn
-.	Z
-Koliko	Rgp
-so	Va-r3p-n
-v	Sl
-Luki	Npfsl
-Koper	Npmsn
-odšteli	Vmep-pm
-za	Sa
-odkup	Ncmsan
-49	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-Adrie	Npfsg
-Terminali	Npmpn
-in	Cc
-koliko	Rgp
-so	Va-r3p-n
-iztržili	Vmep-pm
-od	Sg
-prodaje	Ncfsg
-deleža	Ncmsg
-v	Sa
-romunski	Agpmsay
-Trade	Npmsnn
-Trans	Npmsnn
-Terminal	Npmsan
-,	Z
-je	Va-r3s-n
-po	Sl
-navedbah	Ncfpl
-iz	Sg
-Luke	Npfsg
-Koper	Npmsn
-poslovna	Agpfsn
-skrivnost	Ncfsn
-.	Z
-So	Va-r3p-n
-pa	Cc
-pojasnili	Vmep-pm
-,	Z
-da	Cs
-je	Va-r3s-n
-cenitve	Ncfsg
-opravila	Vmep-sf
-neodvisna	Agpfsn
-revizijska	Agpfsn
-hiša	Ncfsn
-in	Cc
-da	Cs
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-deleža	Ncmsg
-podobno	Rgp
-ocenjena	Appfsn
-.	Z
-Pogodbe	Ncfsg
-o	Sl
-nakupu	Ncmsl
-in	Cc
-prodaji	Ncfsl
-so	Va-r3p-n
-podpisali	Vmep-pm
-v	Sa
-ponedeljek	Ncmsan
-.	Z
-Za	Sa
-nakup	Ncmsan
-10	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-v	Sl
-TTI	Npmsl
-je	Va-r3s-n
-Luka	Npmsn
-Koper	Npmsn
-odštela	Vmep-sf
-25,8	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-po	Sl
-opravljeni	Appfsl
-cenitvi	Ncfsl
-pa	Cc
-je	Va-r3s-n
-trenutna	Agpfsn
-vrednost	Ncfsn
-naložbe	Ncfsg
-le	Q
-5	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Po	Sl
-oceni	Ncfsl
-vodstva	Ncnsg
-Luke	Npfsg
-Koper	Npmsn
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-Luka	Npfsn
-Koper	Npfsn
-zaradi	Sg
-nakupa	Ncmsg
-tako	Rgp
-oškodovana	Appfsn
-za	Sa
-približno	Rgp
-20	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Pač	Q
-pa	Cc
-Luka	Npmsn
-Koper	Npmsn
-ostaja	Vmpr3s
-tretjinski	Agpmsny
-lastnik	Ncmsn
-družbe	Ncfsg
-Rail	Npmsn
-Port	Npmsn
-Arad	Npmsn
-,	Z
-ki	Cs
-upravlja	Vmpr3s
-s	Si
-terminalom	Ncmsi
-za	Sa
-kontejnerske	Agpmpa
-tovore	Ncmpa
-v	Sl
-romunskem	Agpmsl
-Aradu	Npmsl
-.	Z
+token	tag	lemma
+Koper	mte:Npmsn	Koper
+-	mte:Z	-
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+je	mte:Va-r3s-n	biti
+izstopila	mte:Vmep-sf	izstopiti
+iz	mte:Sg	iz
+lastništva	mte:Ncnsg	lastništvo
+romunske	mte:Agpfsg	romunski
+družbe	mte:Ncfsg	družba
+Trade	mte:Npmsn	Trade
+Trans	mte:Npmsn	Trans
+Terminal	mte:Npmsn	Terminal
+iz	mte:Sg	iz
+Arada	mte:Npmsg	Arad
+,	mte:Z	,
+ki	mte:Cs	ki
+upravlja	mte:Vmpr3s	upravljati
+s	mte:Si	z
+tamkajšnjim	mte:Agpmsi	tamkajšnji
+terminalom	mte:Ncmsi	terminal
+za	mte:Sa	za
+generalne	mte:Agpmpa	generalen
+tovore	mte:Ncmpa	tovora
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+je	mte:Va-r3s-n	biti
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+ponovno	mte:Rgp	ponovno
+postala	mte:Vmep-sf	postati
+edina	mte:Agpfsn	edin
+lastnica	mte:Ncfsn	lastnica
+družbe	mte:Ncfsg	družba
+Adria	mte:Npfsn	Adria
+Terminali	mte:Npmsn	Terminali
+,	mte:Z	,
+ki	mte:Cs	ki
+upravlja	mte:Vmpr3s	upravljati
+s	mte:Si	z
+sežanskim	mte:Agpmsi	sežanski
+logističnim	mte:Agpmsi	logističen
+centrom	mte:Ncmsi	center
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+iz	mte:Sg	iz
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+17	mte:Mdc	17
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+romunski	mte:Agpfsl	romunski
+družbi	mte:Ncfsl	družba
+Trade	mte:Npmsn	Trade
+Trans	mte:Npmsn	Trans
+Terminal	mte:Npmsn	Terminal
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+ker	mte:Cs	ker
+terminal	mte:Ncmsn	terminal
+ni	mte:Va-r3s-y	biti
+izpolnjeval	mte:Vmpp-sm	izpolnjevati
+pričakovanj	mte:Ncnpg	pričakovanje
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+v	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Svoj	mte:Px-msa	svoj
+delež	mte:Ncmsan	delež
+je	mte:Va-r3s-n	biti
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+prodala	mte:Vmep-sf	prodati
+družbi	mte:Ncfsd	družba
+Trade	mte:Npmsn	Trade
+Trans	mte:Npmsn	Trans
+Log	mte:Npmsn	Log
+,	mte:Z	,
+odvisni	mte:Agpfsd	odvisen
+družbi	mte:Ncfsd	družba
+slovaške	mte:Agpfsg	slovaški
+družbe	mte:Ncfsg	družba
+Trade	mte:Npmsn	Trade
+Trans	mte:Npmsn	Trans
+Invest	mte:Npmsn	Invest
+(	mte:Z	(
+TTI	mte:Npmsn	TTI
+)	mte:Z	)
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+delna	mte:Agpfsn	delen
+lastnica	mte:Ncfsn	lastnica
+omenjenega	mte:Appmsg	omenjen
+terminala	mte:Ncmsg	terminal
+.	mte:Z	.
+Sočasno	mte:Rgp	sočasno
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+romunski	mte:Agpfsl	romunski
+družbi	mte:Ncfsl	družba
+je	mte:Va-r3s-n	biti
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+od	mte:Sg	od
+slovaške	mte:Agpfsg	slovaški
+družbe	mte:Ncfsg	družba
+Spedition	mte:Npmsn	Spedition
+Trade	mte:Npmsn	Trade
+Trans	mte:Npmsn	Trans
+Holding	mte:Npmsn	holding
+ponovno	mte:Rgp	ponovno
+odkupila	mte:Vmep-sf	odkupiti
+49	mte:Mdc	49
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+svoji	mte:Px-fsl	svoj
+odvisni	mte:Agpfsl	odvisen
+družbi	mte:Ncfsl	družba
+Adria	mte:Npfsn	Adria
+Terminali	mte:Npmpn	Terminali
+.	mte:Z	.
+"	mte:Z	"
+Za	mte:Sa	za
+ta	mte:Pd-msa	ta
+korak	mte:Ncmsan	korak
+smo	mte:Va-r1p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+zaradi	mte:Sg	zaradi
+strateške	mte:Agpfsg	strateški
+usmeritve	mte:Ncfsg	usmeritev
+uprave	mte:Ncfsg	uprava
+po	mte:Sl	po
+samostojnem	mte:Agpnsl	samostojen
+obvladovanju	mte:Ncnsl	obvladovanje
+in	mte:Cc	in
+razvijanju	mte:Ncnsl	razvijanje
+terminala	mte:Ncmsg	terminal
+v	mte:Sl	v
+Sežani	mte:Npfsl	Sežana
+,	mte:Z	,
+ki	mte:Cs	ki
+ima	mte:Vmpr3s-n	imeti
+v	mte:Sl	v
+strategiji	mte:Ncfsl	strategija
+zalednih	mte:Agpmpg	zaleden
+terminalov	mte:Ncmpg	terminal
+osrednjo	mte:Agpfsa	osrednji
+vlogo	mte:Ncfsa	vloga
+,	mte:Z	,
+"	mte:Z	"
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+iz	mte:Sg	iz
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+.	mte:Z	.
+Družbo	mte:Ncfsa	družba
+Adria	mte:Npfsn	Adria
+Terminali	mte:Npmpn	Terminali
+je	mte:Va-r3s-n	biti
+Luka	mte:Npfsn	Luka
+Koper	mte:Npmsn	Koper
+sicer	mte:Q	sicer
+ustanovila	mte:Vmep-sf	ustanoviti
+leta	mte:Ncnsg	leto
+2007	mte:Mdc	2007
+.	mte:Z	.
+Po	mte:Sl	po
+odkupu	mte:Ncmsl	odkup
+10	mte:Mdc	10
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+slovaški	mte:Agpfsl	slovaški
+TTI	mte:Npfsl	TTI
+je	mte:Va-r3s-n	biti
+49	mte:Mdc	49
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+Adrie	mte:Npfsg	Adrie
+Terminali	mte:Npmsn	Terminali
+prodala	mte:Vmep-sf	prodati
+slovaški	mte:Agpfsd	slovaški
+družbi	mte:Ncfsd	družba
+Spedition	mte:Npmsn	Spedition
+Trade	mte:Npmsn	Trade
+Trans	mte:Npmsn	Trans
+Holding	mte:Ncmsan	holding
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+lastniško	mte:Rgp	lastniško
+tudi	mte:Q	tudi
+povezani	mte:Appmsn	povezan
+s	mte:Si	z
+TTI	mte:Ncmsi	TTI
+.	mte:Z	.
+Po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+iz	mte:Sg	iz
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+so	mte:Va-r3p-n	biti
+posel	mte:Ncmsan	posel
+takrat	mte:Rgp	takrat
+sklenili	mte:Vmep-pm	skleniti
+zaradi	mte:Sg	zaradi
+pričakovanih	mte:Appmpg	pričakovan
+sinergijskih	mte:Agpmpg	sinergijski
+učinkov	mte:Ncmpg	učinek
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+pripeljal	mte:Vmep-sm	pripeljati
+nov	mte:Agpmsnn	nov
+lastnik	mte:Ncmsn	lastnik
+.	mte:Z	.
+Koliko	mte:Rgp	koliko
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Luki	mte:Npfsl	Luki
+Koper	mte:Npmsn	Koper
+odšteli	mte:Vmep-pm	odšteti
+za	mte:Sa	za
+odkup	mte:Ncmsan	odkup
+49	mte:Mdc	49
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+Adrie	mte:Npfsg	Adrie
+Terminali	mte:Npmpn	Terminali
+in	mte:Cc	in
+koliko	mte:Rgp	koliko
+so	mte:Va-r3p-n	biti
+iztržili	mte:Vmep-pm	iztržiti
+od	mte:Sg	od
+prodaje	mte:Ncfsg	prodaja
+deleža	mte:Ncmsg	delež
+v	mte:Sa	v
+romunski	mte:Agpmsay	romunski
+Trade	mte:Npmsnn	Trade
+Trans	mte:Npmsnn	Trans
+Terminal	mte:Npmsan	Terminal
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+iz	mte:Sg	iz
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+poslovna	mte:Agpfsn	posloven
+skrivnost	mte:Ncfsn	skrivnost
+.	mte:Z	.
+So	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+pojasnili	mte:Vmep-pm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+cenitve	mte:Ncfsg	cenitev
+opravila	mte:Vmep-sf	opravilo
+neodvisna	mte:Agpfsn	neodvisen
+revizijska	mte:Agpfsn	revizijski
+hiša	mte:Ncfsn	hiša
+in	mte:Cc	in
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+deleža	mte:Ncmsg	delež
+podobno	mte:Rgp	podobno
+ocenjena	mte:Appfsn	ocenjen
+.	mte:Z	.
+Pogodbe	mte:Ncfsg	pogodba
+o	mte:Sl	o
+nakupu	mte:Ncmsl	nakup
+in	mte:Cc	in
+prodaji	mte:Ncfsl	prodaja
+so	mte:Va-r3p-n	biti
+podpisali	mte:Vmep-pm	podpisati
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+.	mte:Z	.
+Za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+10	mte:Mdc	10
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+v	mte:Sl	v
+TTI	mte:Npmsl	TTI
+je	mte:Va-r3s-n	biti
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+odštela	mte:Vmep-sf	odšteti
+25,8	mte:Mdc	25,8
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+po	mte:Sl	po
+opravljeni	mte:Appfsl	opravljen
+cenitvi	mte:Ncfsl	cenitev
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+trenutna	mte:Agpfsn	trenuten
+vrednost	mte:Ncfsn	vrednost
+naložbe	mte:Ncfsg	naložba
+le	mte:Q	le
+5	mte:Mdc	5
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Po	mte:Sl	po
+oceni	mte:Ncfsl	ocena
+vodstva	mte:Ncnsg	vodstvo
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+Luka	mte:Npfsn	Luka
+Koper	mte:Npfsn	Koper
+zaradi	mte:Sg	zaradi
+nakupa	mte:Ncmsg	nakup
+tako	mte:Rgp	tako
+oškodovana	mte:Appfsn	oškodovan
+za	mte:Sa	za
+približno	mte:Rgp	približno
+20	mte:Mdc	20
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Pač	mte:Q	pač
+pa	mte:Cc	pa
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+ostaja	mte:Vmpr3s	ostajati
+tretjinski	mte:Agpmsny	tretjinski
+lastnik	mte:Ncmsn	lastnik
+družbe	mte:Ncfsg	družba
+Rail	mte:Npmsn	Rail
+Port	mte:Npmsn	port
+Arad	mte:Npmsn	Arad
+,	mte:Z	,
+ki	mte:Cs	ki
+upravlja	mte:Vmpr3s	upravljati
+s	mte:Si	z
+terminalom	mte:Ncmsi	terminal
+za	mte:Sa	za
+kontejnerske	mte:Agpmpa	kontejnerski
+tovore	mte:Ncmpa	tovora
+v	mte:Sl	v
+romunskem	mte:Agpmsl	romunski
+Aradu	mte:Npmsl	Arad
+.	mte:Z	.
+Po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+iz	mte:Sg	iz
+Luke	mte:Npfsg	Luka
+Koper	mte:Npmsn	Koper
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+perspektivno	mte:Agpfsa	perspektiven
+naložbo	mte:Ncfsa	naložba
+,	mte:Z	,
+zato	mte:Cc	zato
+o	mte:Sl	o
+izstopu	mte:Ncmsl	izstop
+iz	mte:Sg	iz
+te	mte:Pd-fsg	ta
+družbe	mte:Ncfsg	družba
+ne	mte:Q	ne
+razmišljajo	mte:Vmpr3p	razmišljati

@@ -1,481 +1,493 @@
-token	tag
-Kratke	Agpfpn
-vesti	Ncfpn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-pripravljajo	Vmpr3p
-v	Sl
-poslovni	Agpfsl
-redakciji	Ncfsl
-Dnevnika	Ncmsg
-.	Z
-Dušan	Npmsn
-Šešok	Npmsn
-tik	Rgp
-pod	Si
-50	Mdc
-odstotki	Ncmpi
-v	Sl
-Iskri	Ncfsl
-Direktor	Ncmsn
-Iskre	Ncfsg
-Dušan	Npmsn
-Šešok	Npmsn
-je	Va-r3s-n
-še	Q
-povečal	Vmep-sm
-svoj	Px-msa
-lastniški	Agpmsay
-vpliv	Ncmsan
-na	Sa
-ljubljansko	Agpfsa
-skupino	Ncfsa
-.	Z
-Pred	Si
-dnevi	Ncmpi
-je	Va-r3s-n
-kupil	Vmep-sm
-skupno	Agpnsa
-2,7	Mdc
--	Z
-odstotni	Agpmsay
-družbeniški	Agpmsay
-delež	Ncmsan
-podjetja	Ncnsg
-Maos	Npmsn
-(	Z
-neposredni	Agpmsny
-lastnik	Ncmsn
-Iskre	Ncfsg
-)	Z
-in	Cc
-s	Si
-tem	Pd-nsi
-povečal	Vmep-sm
-svoje	Px-nsa
-lastništvo	Ncnsa
-na	Sa
-49	Mdc
-odstotkov	Ncmpg
-.	Z
-Delež	Ncmsan
-mu	Pp3msd--y
-je	Va-r3s-n
-prodala	Vmep-sf
-Jasna	Npfsn
-Mihelj	Npfsn
-Coustaury	Npfsn
-,	Z
-soproga	Ncfsn
-nekdanjega	Agpmsg
-predsednika	Ncmsg
-uprave	Ncfsg
-Vege	Npmsg
-,	Z
-ki	Cs
-ostaja	Vmpr3s
-2,3	Mdc
--	Z
-odstotna	Agpfsn
-družbenica	Ncfsn
-.	Z
-Preostalo	Vmep-sn
-obvladujejo	Vmpr3p
-član	Ncmsn
-uprave	Ncfsg
-Iskre	Ncfsg
-Jože	Npmsn
-Godec	Npmsn
-in	Cc
-ducat	Ncmsn
-drugih	Mlpmpg
-menedžerjev	Ncmpg
-.	Z
-Pušnik	Npmsn
-bo	Va-f3s-n
-preoblikoval	Vmep-sm
-MP	Ncmsa
-Naložbe	Ncfpa
-Delničarji	Ncmpn
-MP	Ncmsn
-Naložb	Ncfpg
-bodo	Va-f3p-n
-čez	Sa
-natanko	Agpmsa
-teden	Ncmsan
-dni	Ncmpg
-na	Sl
-skupščini	Ncfsl
-odločali	Vmpp-pm
-o	Sl
-njihovem	Ps3nslp
-preoblikovanju	Ncnsl
-v	Sa
-družbo	Ncfsa
-z	Si
-omejeno	Appfsi
-odgovornostjo	Ncfsi
-.	Z
-Kdor	Pr-msn
-koli	Q
-bo	Va-f3s-n
-temu	Pd-nsd
-nasprotoval	Vmpp-sm
-,	Z
-bo	Va-f3s-n
-lahko	Rgp
-v	Sa
-zameno	Ncfsa
-dobil	Vmep-sm
-denarno	Agpfsa
-odpravnino	Ncfsa
-v	Sl
-višini	Ncfsl
-2,45	Mdc
-evra	Ncmsg
-na	Sa
-delnico	Ncfsa
-,	Z
-kar	Pr-nsn
-celotne	Agpfsg
-MP	Ncfsn
-Naložbe	Ncfsg
-vrednoti	Vmer3s
-na	Sa
-688.000	Mdc
-evrov	Ncmpg
-.	Z
-Za	Sa
-novega	Agpmsa
-direktorja	Ncmsay
-je	Va-r3s-n
-predviden	Appmsnn
-Bogdan	Npmsn
-Pušnik	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-29	Mdc
--	Z
-odstotni	Agpmsny
-lastnik	Ncmsn
-MP	Ncfsg
-Naložb	Ncfpg
-.	Z
-Skupščina	Ncfsn
-bo	Va-f3s-n
-prihodnji	Agpmsay
-ponedeljek	Ncmsan
-odločala	Vmpp-sf
-tudi	Q
-o	Sl
-soglasju	Ncnsl
-k	Sd
-najemu	Ncmsd
-posojila	Ncnsg
-pri	Sl
-Sberbank	Npfsl
-v	Sl
-višini	Ncfsl
-do	Sg
-5,9	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-.	Z
-Schollmayerjev	Npmpg
-Kusch	Npmsn
-v	Sa
-stečaj	Ncmsan
-Poslovnež	Ncmsn
-Jurij	Npmsn
-Schollmayer	Npmsn
-je	Va-r3s-n
-moral	Vmpp-sm
-pred	Si
-dnevi	Ncmpi
-poslati	Vmen
-v	Sa
-stečaj	Ncmsan
-eno	Mlpnsa
-od	Sg
-svojih	Px-npg
-podjetij	Ncnpg
-–	Z
-Kusch	Npmsn
-.	Z
-Ukvarjalo	Vmpp-sn
-se	Px------y
-je	Va-r3s-n
-z	Si
-dajanjem	Ncnsi
-ladij	Ncfpg
-v	Sa
-najem	Ncmsan
-,	Z
-v	Sl
-lanskem	Agpnsl
-letu	Ncnsl
-pa	Cc
-je	Va-r3s-n
-ustvarilo	Vmep-sn
-111.000	Mdc
-evrov	Ncmpg
-prihodkov	Ncmpg
-in	Cc
-prav	Q
-toliko	Rgp
-izgube	Ncfsg
-.	Z
-Po	Sl
-javno	Rgp
-dostopnih	Agpmpl
-podatkih	Ncmpl
-je	Va-r3s-n
-imelo	Vmpp-sn
-za	Sa
-najmanj	Rgs
-100.000	Mdc
-evrov	Ncmpg
-davčnega	Agpmsg
-dolga	Agpmsg
-.	Z
-Kusch	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-sicer	Q
-v	Sl
-polovični	Agpfsl
-lasti	Ncfsl
-Mihe	Npmsg
-Kušarja	Npmsg
-in	Cc
-podjetja	Ncnsg
-Redsey	Npmsn
-s	Sg
-Sejšelov	Ncmpg
-.	Z
-Matej	Npmsn
-Svet	Ncmsn
-bi	Va-c
-zaprl	Vmep-sm
-Securito	Agpnsa
-Ljubljansko	Agpnsa
-podjetje	Ncnsa
-Securita	Npmsn
-,	Z
-v	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-delo	Ncnsa
-našli	Vmep-pm
-tudi	Q
-nekdanji	Agpmpn
-varnostniki	Ncmpn
-družbe	Ncfsg
-G7	Npmsn
-,	Z
-je	Va-r3s-n
-končalo	Vmep-sn
-v	Sl
-likvidaciji	Ncfsl
-.	Z
-Čeprav	Cs
-je	Va-r3s-n
-imelo	Vmpp-sn
-konec	Sg
-lanskega	Agpnsg
-leta	Ncnsg
-krepko	Rgp
-manj	Rgc
-premoženja	Ncnsg
-kot	Cs
-obveznosti	Ncfpg
-,	Z
-je	Va-r3s-n
-njegov	Ps3msnsm
-lastnik	Ncmsn
-Matej	Npmsn
-Svet	Ncmsn
-ocenil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-sposobno	Agpnsn
-poplačati	Vmen
-dolgove	Ncmpa
-.	Z
-Likvidacijo	Ncfsa
-bo	Va-f3s-n
-vodila	Vmpp-sf
-odvetnica	Ncfsn
-Barbara	Npfsn
-Kürner	Npfsn
-Čad	Npfsn
-.	Z
-Za	Sa
-prevzem	Ncmsan
-izgubaške	Agpfsg
-Securite	Npfsg
-se	Px------y
-je	Va-r3s-n
-pred	Si
-meseci	Ncmpi
-resno	Rgp
-zanimal	Vmpp-sm
-Sintal	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-celo	Q
-pridobil	Vmep-sm
-dovoljenje	Ncnsa
-varuha	Ncmsg
-konkurence	Ncfsg
-,	Z
-vendar	Cc
-je	Va-r3s-n
-posel	Ncmsan
-očitno	Rgp
-padel	Vmep-sm
-v	Sa
-vodo	Ncfsa
-.	Z
-Kristal	Ncmsn
-izgubil	Vmep-sm
-polovico	Ncfsa
-hčerinske	Agpfsg
-družbe	Ncfsg
-Podjetje	Ncnsn
-Kristal	Ncmsan
-iz	Sg
-Maribora	Npmsg
-,	Z
-ki	Cs
-se	Px------y
-ukvarja	Vmpr3s
-z	Si
-obdelavo	Ncfsi
-ravnega	Agpnsg
-stekla	Ncnsg
-in	Cc
-je	Va-r3s-n
-v	Sl
-postopku	Ncmsl
-prisilne	Agpfsg
-poravnave	Ncfsg
-,	Z
-je	Va-r3s-n
-po	Sl
-novem	Agpnsl
-le	Q
-še	Q
-54	Mdc
--	Z
-odstotni	Agpmsny
-lastnik	Ncmsn
-hčerinske	Agpfsg
-družbe	Ncfsg
-Kristal	Ncmsn
-I	Ncmsn
-.	Z
-G	Ncmsn
-.	Z
-Ta	Pd-fsn
-je	Va-r3s-n
-že	Q
-od	Sg
-leta	Ncnsg
-2011	Mdc
-v	Sl
-likvidaciji	Ncfsl
-,	Z
-trenutno	Rgp
-pa	Cc
-je	Va-r3s-n
-v	Sl
-velikih	Agpfpl
-finančnih	Agpfpl
-težavah	Ncfpl
-.	Z
-Do	Sg
-46	Mdc
-odstotkov	Ncmpg
-lastništva	Ncnsg
-Kristala	Ncmsg
-I	Ncmsn
-.	Z
-G	Ncmsn
-.	Z
-so	Va-r3p-n
-prišla	Vmep-pn
-podjetja	Ncnpa
-,	Z
-ki	Cs
-tako	Rgp
-kot	Cs
-Kristal	Ncmsan
-sodijo	Vmpr3p
-v	Sa
-avstrijsko	Agpfsa
-IMSA	Npfsa
-Group	Npfsn
-,	Z
-in	Cc
-sicer	Q
-prek	Sg
-420.000	Mdc
-evrov	Ncmpg
-težke	Agpfsg
-dokapitalizacije	Ncfsg
-.	Z
-Ogrin	Npmsn
-prokurist	Ncmsn
-prodanega	Appmsg
-Gradisa	Npmsg
-–	Z
-Consulta	Npmsg
-Podjetje	Ncnsn
-Gradis	Npmsn
-–	Z
-Consult	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-bilo	Va-p-sn
-vse	Rgp
-do	Sg
-julija	Ncmsg
-v	Sl
-lasti	Ncfsl
-Gradisa	Npmsg
-Skupine	Ncfsg
-G	Npmsn
-,	Z
-nato	Rgp
-pa	Cc
-ga	Pp3msa--y
-je	Va-r3s-n
-skupaj	Rgp
-z	Si
-9	Mdc
-milijoni	Ncmpi
-evrov	Ncmpg
-premoženja	Ncnsg
-prevzela	Vmep-sf
-družba	Ncfsn
-,	Z
-katere	Pq-fsg
-lastništvo	Ncnsn
-vodi	Vmpr3s
-do	Sg
-poštnega	Agpmsg
-nabiralnika	Ncmsg
-v	Sl
-Londonu	Npmsl
-,	Z
-je	Va-r3s-n
-dobilo	Vmep-sn
-novega	Agpmsa
-prokurista	Ncmsay
-.	Z
+token	tag	lemma
+Kratke	mte:Agpfpn	kratek
+vesti	mte:Ncfpn	vest
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+pripravljajo	mte:Vmpr3p	pripravljati
+v	mte:Sl	v
+poslovni	mte:Agpfsl	posloven
+redakciji	mte:Ncfsl	redakcija
+Dnevnika	mte:Ncmsg	dnevnik
+.	mte:Z	.
+Dušan	mte:Npmsn	Dušan
+Šešok	mte:Npmsn	Šešok
+tik	mte:Rgp	tik
+pod	mte:Si	pod
+50	mte:Mdc	50
+odstotki	mte:Ncmpi	odstotek
+v	mte:Sl	v
+Iskri	mte:Ncfsl	iskra
+Direktor	mte:Ncmsn	direktor
+Iskre	mte:Ncfsg	iskra
+Dušan	mte:Npmsn	Dušan
+Šešok	mte:Npmsn	Šešok
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povečal	mte:Vmep-sm	povečati
+svoj	mte:Px-msa	svoj
+lastniški	mte:Agpmsay	lastniški
+vpliv	mte:Ncmsan	vpliv
+na	mte:Sa	na
+ljubljansko	mte:Agpfsa	ljubljanski
+skupino	mte:Ncfsa	skupina
+.	mte:Z	.
+Pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+je	mte:Va-r3s-n	biti
+kupil	mte:Vmep-sm	kupiti
+skupno	mte:Agpnsa	skupen
+2,7	mte:Mdc	2,7
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+družbeniški	mte:Agpmsay	družbeniški
+delež	mte:Ncmsan	delež
+podjetja	mte:Ncnsg	podjetje
+Maos	mte:Npmsn	Maos
+(	mte:Z	(
+neposredni	mte:Agpmsny	neposreden
+lastnik	mte:Ncmsn	lastnik
+Iskre	mte:Ncfsg	iskra
+)	mte:Z	)
+in	mte:Cc	in
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+povečal	mte:Vmep-sm	povečati
+svoje	mte:Px-nsa	svoj
+lastništvo	mte:Ncnsa	lastništvo
+na	mte:Sa	na
+49	mte:Mdc	49
+odstotkov	mte:Ncmpg	odstotek
+.	mte:Z	.
+Delež	mte:Ncmsan	delež
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+prodala	mte:Vmep-sf	prodati
+Jasna	mte:Npfsn	Jasna
+Mihelj	mte:Npfsn	Mihelj
+Coustaury	mte:Npfsn	Coustaury
+,	mte:Z	,
+soproga	mte:Ncfsn	soproga
+nekdanjega	mte:Agpmsg	nekdanji
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+Vege	mte:Npmsg	Vege
+,	mte:Z	,
+ki	mte:Cs	ki
+ostaja	mte:Vmpr3s	ostajati
+2,3	mte:Mdc	2,3
+-	mte:Z	-
+odstotna	mte:Agpfsn	odstoten
+družbenica	mte:Ncfsn	družbenica
+.	mte:Z	.
+Preostalo	mte:Vmep-sn	preostati
+obvladujejo	mte:Vmpr3p	obvladovati
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+Iskre	mte:Ncfsg	iskra
+Jože	mte:Npmsn	Jože
+Godec	mte:Npmsn	Godec
+in	mte:Cc	in
+ducat	mte:Ncmsn	ducat
+drugih	mte:Mlpmpg	drug
+menedžerjev	mte:Ncmpg	menedžer
+.	mte:Z	.
+Pušnik	mte:Npmsn	Pušnik
+bo	mte:Va-f3s-n	biti
+preoblikoval	mte:Vmep-sm	preoblikovati
+MP	mte:Ncmsa	MP
+Naložbe	mte:Ncfpa	naložba
+Delničarji	mte:Ncmpn	delničar
+MP	mte:Ncmsn	MP
+Naložb	mte:Ncfpg	naložba
+bodo	mte:Va-f3p-n	biti
+čez	mte:Sa	čez
+natanko	mte:Agpmsa	natanko
+teden	mte:Ncmsan	teden
+dni	mte:Ncmpg	dan
+na	mte:Sl	na
+skupščini	mte:Ncfsl	skupščina
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+njihovem	mte:Ps3nslp	njihov
+preoblikovanju	mte:Ncnsl	preoblikovanje
+v	mte:Sa	v
+družbo	mte:Ncfsa	družba
+z	mte:Si	z
+omejeno	mte:Appfsi	omejen
+odgovornostjo	mte:Ncfsi	odgovornost
+.	mte:Z	.
+Kdor	mte:Pr-msn	kdor
+koli	mte:Q	koli
+bo	mte:Va-f3s-n	biti
+temu	mte:Pd-nsd	ta
+nasprotoval	mte:Vmpp-sm	nasprotovati
+,	mte:Z	,
+bo	mte:Va-f3s-n	biti
+lahko	mte:Rgp	lahko
+v	mte:Sa	v
+zameno	mte:Ncfsa	zamena
+dobil	mte:Vmep-sm	dobiti
+denarno	mte:Agpfsa	denaren
+odpravnino	mte:Ncfsa	odpravnina
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+2,45	mte:Mdc	2,45
+evra	mte:Ncmsg	evro
+na	mte:Sa	na
+delnico	mte:Ncfsa	delnica
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+celotne	mte:Agpfsg	celoten
+MP	mte:Ncfsn	MP
+Naložbe	mte:Ncfsg	naložba
+vrednoti	mte:Vmer3s	vrednoti
+na	mte:Sa	na
+688.000	mte:Mdc	688.000
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Za	mte:Sa	za
+novega	mte:Agpmsa	nov
+direktorja	mte:Ncmsay	direktor
+je	mte:Va-r3s-n	biti
+predviden	mte:Appmsnn	predviden
+Bogdan	mte:Npmsn	Bogdan
+Pušnik	mte:Npmsn	Pušnik
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+29	mte:Mdc	29
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+lastnik	mte:Ncmsn	lastnik
+MP	mte:Ncfsg	MP
+Naložb	mte:Ncfpg	naložba
+.	mte:Z	.
+Skupščina	mte:Ncfsn	skupščina
+bo	mte:Va-f3s-n	biti
+prihodnji	mte:Agpmsay	prihodnji
+ponedeljek	mte:Ncmsan	ponedeljek
+odločala	mte:Vmpp-sf	odločati
+tudi	mte:Q	tudi
+o	mte:Sl	o
+soglasju	mte:Ncnsl	soglasje
+k	mte:Sd	k
+najemu	mte:Ncmsd	najem
+posojila	mte:Ncnsg	posojilo
+pri	mte:Sl	pri
+Sberbank	mte:Npfsl	Sberbank
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+do	mte:Sg	do
+5,9	mte:Mdc	5,9
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Schollmayerjev	mte:Npmpg	Schollmayer
+Kusch	mte:Npmsn	Kusch
+v	mte:Sa	v
+stečaj	mte:Ncmsan	stečaj
+Poslovnež	mte:Ncmsn	poslovnež
+Jurij	mte:Npmsn	Jurij
+Schollmayer	mte:Npmsn	Schollmayer
+je	mte:Va-r3s-n	biti
+moral	mte:Vmpp-sm	morati
+pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+poslati	mte:Vmen	poslati
+v	mte:Sa	v
+stečaj	mte:Ncmsan	stečaj
+eno	mte:Mlpnsa	en
+od	mte:Sg	od
+svojih	mte:Px-npg	svoj
+podjetij	mte:Ncnpg	podjetje
+–	mte:Z	–
+Kusch	mte:Npmsn	Kusch
+.	mte:Z	.
+Ukvarjalo	mte:Vmpp-sn	ukvarjati
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+z	mte:Si	z
+dajanjem	mte:Ncnsi	dajanje
+ladij	mte:Ncfpg	lad
+v	mte:Sa	v
+najem	mte:Ncmsan	najem
+,	mte:Z	,
+v	mte:Sl	v
+lanskem	mte:Agpnsl	lanski
+letu	mte:Ncnsl	leto
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+ustvarilo	mte:Vmep-sn	ustvariti
+111.000	mte:Mdc	111.000
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+in	mte:Cc	in
+prav	mte:Q	prav
+toliko	mte:Rgp	toliko
+izgube	mte:Ncfsg	izguba
+.	mte:Z	.
+Po	mte:Sl	po
+javno	mte:Rgp	javno
+dostopnih	mte:Agpmpl	dostopen
+podatkih	mte:Ncmpl	podatek
+je	mte:Va-r3s-n	biti
+imelo	mte:Vmpp-sn	imeti
+za	mte:Sa	za
+najmanj	mte:Rgs	najmanj
+100.000	mte:Mdc	100.000
+evrov	mte:Ncmpg	evro
+davčnega	mte:Agpmsg	davčen
+dolga	mte:Agpmsg	dolg
+.	mte:Z	.
+Kusch	mte:Npmsn	Kusch
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+sicer	mte:Q	sicer
+v	mte:Sl	v
+polovični	mte:Agpfsl	polovičen
+lasti	mte:Ncfsl	last
+Mihe	mte:Npmsg	Mihe
+Kušarja	mte:Npmsg	Kušar
+in	mte:Cc	in
+podjetja	mte:Ncnsg	podjetje
+Redsey	mte:Npmsn	Redsey
+s	mte:Sg	z
+Sejšelov	mte:Ncmpg	sejšel
+.	mte:Z	.
+Matej	mte:Npmsn	Matej
+Svet	mte:Ncmsn	svet
+bi	mte:Va-c	biti
+zaprl	mte:Vmep-sm	zapreti
+Securito	mte:Agpnsa	securit
+Ljubljansko	mte:Agpnsa	ljubljanski
+podjetje	mte:Ncnsa	podjetje
+Securita	mte:Npmsn	Securita
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+delo	mte:Ncnsa	delo
+našli	mte:Vmep-pm	najti
+tudi	mte:Q	tudi
+nekdanji	mte:Agpmpn	nekdanji
+varnostniki	mte:Ncmpn	varnostnik
+družbe	mte:Ncfsg	družba
+G7	mte:Npmsn	G7
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+končalo	mte:Vmep-sn	končati
+v	mte:Sl	v
+likvidaciji	mte:Ncfsl	likvidacija
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+imelo	mte:Vmpp-sn	imeti
+konec	mte:Sg	konec
+lanskega	mte:Agpnsg	lanski
+leta	mte:Ncnsg	leto
+krepko	mte:Rgp	krepko
+manj	mte:Rgc	manj
+premoženja	mte:Ncnsg	premoženje
+kot	mte:Cs	kot
+obveznosti	mte:Ncfpg	obveznost
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+njegov	mte:Ps3msnsm	njegov
+lastnik	mte:Ncmsn	lastnik
+Matej	mte:Npmsn	Matej
+Svet	mte:Ncmsn	svet
+ocenil	mte:Vmep-sm	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+sposobno	mte:Agpnsn	sposoben
+poplačati	mte:Vmen	poplačati
+dolgove	mte:Ncmpa	dolg
+.	mte:Z	.
+Likvidacijo	mte:Ncfsa	likvidacija
+bo	mte:Va-f3s-n	biti
+vodila	mte:Vmpp-sf	voditi
+odvetnica	mte:Ncfsn	odvetnica
+Barbara	mte:Npfsn	Barbara
+Kürner	mte:Npfsn	Kürner
+Čad	mte:Npfsn	Čad
+.	mte:Z	.
+Za	mte:Sa	za
+prevzem	mte:Ncmsan	prevzem
+izgubaške	mte:Agpfsg	izgubaški
+Securite	mte:Npfsg	Securite
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+meseci	mte:Ncmpi	mesec
+resno	mte:Rgp	resno
+zanimal	mte:Vmpp-sm	zanimati
+Sintal	mte:Npmsn	Sintal
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+celo	mte:Q	celo
+pridobil	mte:Vmep-sm	pridobiti
+dovoljenje	mte:Ncnsa	dovoljenje
+varuha	mte:Ncmsg	varuh
+konkurence	mte:Ncfsg	konkurenca
+,	mte:Z	,
+vendar	mte:Cc	vendar
+je	mte:Va-r3s-n	biti
+posel	mte:Ncmsan	posel
+očitno	mte:Rgp	očitno
+padel	mte:Vmep-sm	pasti
+v	mte:Sa	v
+vodo	mte:Ncfsa	voda
+.	mte:Z	.
+Kristal	mte:Ncmsn	kristal
+izgubil	mte:Vmep-sm	izgubiti
+polovico	mte:Ncfsa	polovica
+hčerinske	mte:Agpfsg	hčerinski
+družbe	mte:Ncfsg	družba
+Podjetje	mte:Ncnsn	podjetje
+Kristal	mte:Ncmsan	kristal
+iz	mte:Sg	iz
+Maribora	mte:Npmsg	Maribor
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+ukvarja	mte:Vmpr3s	ukvarjati
+z	mte:Si	z
+obdelavo	mte:Ncfsi	obdelava
+ravnega	mte:Agpnsg	raven
+stekla	mte:Ncnsg	steklo
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+postopku	mte:Ncmsl	postopek
+prisilne	mte:Agpfsg	prisilen
+poravnave	mte:Ncfsg	poravnava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+novem	mte:Agpnsl	nov
+le	mte:Q	le
+še	mte:Q	še
+54	mte:Mdc	54
+-	mte:Z	-
+odstotni	mte:Agpmsny	odstoten
+lastnik	mte:Ncmsn	lastnik
+hčerinske	mte:Agpfsg	hčerinski
+družbe	mte:Ncfsg	družba
+Kristal	mte:Ncmsn	kristal
+I	mte:Ncmsn	I
+.	mte:Z	.
+G	mte:Ncmsn	G
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+od	mte:Sg	od
+leta	mte:Ncnsg	leto
+2011	mte:Mdc	2011
+v	mte:Sl	v
+likvidaciji	mte:Ncfsl	likvidacija
+,	mte:Z	,
+trenutno	mte:Rgp	trenutno
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+velikih	mte:Agpfpl	velik
+finančnih	mte:Agpfpl	finančen
+težavah	mte:Ncfpl	težava
+.	mte:Z	.
+Do	mte:Sg	do
+46	mte:Mdc	46
+odstotkov	mte:Ncmpg	odstotek
+lastništva	mte:Ncnsg	lastništvo
+Kristala	mte:Ncmsg	kristala
+I	mte:Ncmsn	I
+.	mte:Z	.
+G	mte:Ncmsn	G
+.	mte:Z	.
+so	mte:Va-r3p-n	biti
+prišla	mte:Vmep-pn	priti
+podjetja	mte:Ncnpa	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+Kristal	mte:Ncmsan	kristal
+sodijo	mte:Vmpr3p	soditi
+v	mte:Sa	v
+avstrijsko	mte:Agpfsa	avstrijski
+IMSA	mte:Npfsa	IMSA
+Group	mte:Npfsn	Group
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+prek	mte:Sg	prek
+420.000	mte:Mdc	420.000
+evrov	mte:Ncmpg	evro
+težke	mte:Agpfsg	težek
+dokapitalizacije	mte:Ncfsg	dokapitalizacija
+.	mte:Z	.
+Ogrin	mte:Npmsn	Ogrin
+prokurist	mte:Ncmsn	prokurist
+prodanega	mte:Appmsg	prodan
+Gradisa	mte:Npmsg	Gradis
+–	mte:Z	–
+Consulta	mte:Npmsg	Consulta
+Podjetje	mte:Ncnsn	podjetje
+Gradis	mte:Npmsn	Gradis
+–	mte:Z	–
+Consult	mte:Npmsn	Consult
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+vse	mte:Rgp	vse
+do	mte:Sg	do
+julija	mte:Ncmsg	julij
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+Gradisa	mte:Npmsg	Gradis
+Skupine	mte:Ncfsg	skupina
+G	mte:Npmsn	G
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+9	mte:Mdc	9
+milijoni	mte:Ncmpi	milijon
+evrov	mte:Ncmpg	evro
+premoženja	mte:Ncnsg	premoženje
+prevzela	mte:Vmep-sf	prevzeti
+družba	mte:Ncfsn	družba
+,	mte:Z	,
+katere	mte:Pq-fsg	kateri
+lastništvo	mte:Ncnsn	lastništvo
+vodi	mte:Vmpr3s	voditi
+do	mte:Sg	do
+poštnega	mte:Agpmsg	pošten
+nabiralnika	mte:Ncmsg	nabiralnik
+v	mte:Sl	v
+Londonu	mte:Npmsl	London
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dobilo	mte:Vmep-sn	dobiti
+novega	mte:Agpmsa	nov
+prokurista	mte:Ncmsay	prokurist
+.	mte:Z	.
+To	mte:Pd-nsa	ta
+je	mte:Va-r3s-n	biti
+postal	mte:Vmep-sm	postati
+Uroš	mte:Npmsn	Uroš
+Ogrin	mte:Npmsn	Ogrin
+,	mte:Z	,
+sicer	mte:Q	sicer
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Gradisa	mte:Npmsg	Gradis
+Skupine	mte:Ncfsg	skupina
+G	mte:Ncmsn	G

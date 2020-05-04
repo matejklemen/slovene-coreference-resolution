@@ -1,124 +1,153 @@
-token	tag
-S	Si
-humanitarnim	Agpmsi
-projektom	Ncmsi
-10	Mdc
-krogov	Ncmpg
-za	Sa
-10	Mdc
-nasmehov	Ncmpg
-so	Va-r3p-n
-zbrali	Vmep-pm
-14	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-.	Z
-Tekli	Vmpp-pm
-so	Va-r3p-n
-v	Sl
-Hrastniku	Npmsl
-,	Z
-Brežicah	Npfpl
-,	Z
-Celju	Npnsl
-,	Z
-Murski	Agpfsl
-Soboti	Npfsl
-,	Z
-Mariboru	Npmsl
-,	Z
-Slovenj	Npmsl
-Gradcu	Npmsl
-,	Z
-Kopru	Npmsl
-,	Z
-Vipavi	Npfsl
-,	Z
-Kranju	Npmsl
-in	Cc
-Ljubljani	Npfsl
-.	Z
-Pobudnik	Ncmsn
-projekta	Ncmsg
-Matej	Npmsn
-Markovič	Npmsn
-se	Px------y
-je	Va-r3s-n
-odločil	Vmep-sm
-združiti	Vmen
-ekstremni	Agpmsny
-šport	Ncmsan
-s	Si
-humanitarnostjo	Ncfsi
-.	Z
-V	Sl
-desetih	Mlc-pl
-zaporednih	Agpmpl
-dneh	Ncmpl
-je	Va-r3s-n
-vsakič	Rgp
-v	Sl
-drugem	Mlpmsl
-kraju	Ncmsl
-pretekel	Vmep-sm
-maraton	Ncmsan
-.	Z
-Cilj	Ncmsn
-je	Va-r3s-n
-bil	Va-p-sm
-zbrati	Vmen
-donacije	Ncfsg
-za	Sa
-pomoč	Ncfsa
-otrokom	Ncmpd
-v	Sl
-stiski	Ncfsl
-.	Z
-Srce	Ncnsa
-parajoče	Appfsg
-zgodbe	Ncfsg
-desetih	Mlc-pg
-otrok	Ncmpg
-smo	Va-r1p-n
-predstavili	Vmep-pm
-tudi	Q
-na	Sl
-našem	Ps1nslp
-portalu	Ncnsl
-.	Z
-Organizatorji	Ncmpn
-so	Va-r3p-n
-skupaj	Rgp
-zbrali	Vmep-pm
-skoraj	Q
-14	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-.	Z
-Največji	Agsmsny
-obisk	Ncmsan
-je	Va-r3s-n
-bil	Va-p-sm
-na	Sl
-zaključni	Agpfsl
-prireditvi	Ncfsl
-v	Sl
-Ljubljani	Npfsl
-,	Z
-kjer	Cs
-je	Va-r3s-n
-teklo	Vmpp-sn
-preko	Sg
-250	Mdc
-ljudi	Ncmpg
-.	Z
-Na	Sl
-stadionih	Ncmpl
-so	Va-r3p-n
-se	Px------y
-tekačem	Ncmpd
-pridružili	Vmep-pm
-tudi	Q
-mnogi	Pi-mpn
-športniki	Ncmpn
-.	Z
+token	tag	lemma
+S	mte:Si	z
+humanitarnim	mte:Agpmsi	humanitaren
+projektom	mte:Ncmsi	projekt
+10	mte:Mdc	10
+krogov	mte:Ncmpg	krog
+za	mte:Sa	za
+10	mte:Mdc	10
+nasmehov	mte:Ncmpg	nasmeh
+so	mte:Va-r3p-n	biti
+zbrali	mte:Vmep-pm	zbrati
+14	mte:Mdc	14
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Tekli	mte:Vmpp-pm	teči
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+Hrastniku	mte:Npmsl	Hrastnik
+,	mte:Z	,
+Brežicah	mte:Npfpl	Brežice
+,	mte:Z	,
+Celju	mte:Npnsl	Celje
+,	mte:Z	,
+Murski	mte:Agpfsl	murski
+Soboti	mte:Npfsl	Sobota
+,	mte:Z	,
+Mariboru	mte:Npmsl	Maribor
+,	mte:Z	,
+Slovenj	mte:Npmsl	Slovenj
+Gradcu	mte:Npmsl	Gradec
+,	mte:Z	,
+Kopru	mte:Npmsl	Koper
+,	mte:Z	,
+Vipavi	mte:Npfsl	Vipava
+,	mte:Z	,
+Kranju	mte:Npmsl	Kranj
+in	mte:Cc	in
+Ljubljani	mte:Npfsl	Ljubljana
+.	mte:Z	.
+Pobudnik	mte:Ncmsn	pobudnik
+projekta	mte:Ncmsg	projekt
+Matej	mte:Npmsn	Matej
+Markovič	mte:Npmsn	Markovič
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+odločil	mte:Vmep-sm	odločiti
+združiti	mte:Vmen	združiti
+ekstremni	mte:Agpmsny	ekstremen
+šport	mte:Ncmsan	šport
+s	mte:Si	z
+humanitarnostjo	mte:Ncfsi	humanitarnost
+.	mte:Z	.
+V	mte:Sl	v
+desetih	mte:Mlc-pl	deset
+zaporednih	mte:Agpmpl	zaporeden
+dneh	mte:Ncmpl	dan
+je	mte:Va-r3s-n	biti
+vsakič	mte:Rgp	vsakič
+v	mte:Sl	v
+drugem	mte:Mlpmsl	drug
+kraju	mte:Ncmsl	kraj
+pretekel	mte:Vmep-sm	preteči
+maraton	mte:Ncmsan	maraton
+.	mte:Z	.
+Cilj	mte:Ncmsn	cilj
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+zbrati	mte:Vmen	zbrati
+donacije	mte:Ncfsg	donacija
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+otrokom	mte:Ncmpd	otrok
+v	mte:Sl	v
+stiski	mte:Ncfsl	stiska
+.	mte:Z	.
+Srce	mte:Ncnsa	srce
+parajoče	mte:Appfsg	parajoč
+zgodbe	mte:Ncfsg	zgodba
+desetih	mte:Mlc-pg	deset
+otrok	mte:Ncmpg	otrok
+smo	mte:Va-r1p-n	biti
+predstavili	mte:Vmep-pm	predstaviti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+našem	mte:Ps1nslp	naš
+portalu	mte:Ncnsl	portal
+.	mte:Z	.
+Organizatorji	mte:Ncmpn	organizator
+so	mte:Va-r3p-n	biti
+skupaj	mte:Rgp	skupaj
+zbrali	mte:Vmep-pm	zbrati
+skoraj	mte:Q	skoraj
+14	mte:Mdc	14
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Največji	mte:Agsmsny	velik
+obisk	mte:Ncmsan	obisk
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+na	mte:Sl	na
+zaključni	mte:Agpfsl	zaključen
+prireditvi	mte:Ncfsl	prireditev
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+teklo	mte:Vmpp-sn	teči
+preko	mte:Sg	preko
+250	mte:Mdc	250
+ljudi	mte:Ncmpg	človek
+.	mte:Z	.
+Na	mte:Sl	na
+stadionih	mte:Ncmpl	stadion
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+tekačem	mte:Ncmpd	tekač
+pridružili	mte:Vmep-pm	pridružiti
+tudi	mte:Q	tudi
+mnogi	mte:Pi-mpn	mnog
+športniki	mte:Ncmpn	športnik
+.	mte:Z	.
+Med	mte:Si	med
+njimi	mte:Pp3mpi	on
+Robert	mte:Npmsn	Robert
+Kranjec	mte:Npmsn	Kranjec
+,	mte:Z	,
+Mitja	mte:Npmsn	Mitja
+Kosovelj	mte:Npmsn	Kosovelj
+,	mte:Z	,
+Tadeja	mte:Npfsn	Tadeja
+Brankovič	mte:Npmsn	Brankovič
+Likozar	mte:Npmsn	Likozar
+,	mte:Z	,
+Zlatko	mte:Npmsn	Zlatko
+Dedič	mte:Npmsn	Dedič
+,	mte:Z	,
+Jure	mte:Npmsn	Jure
+Vran	mte:Npmsn	Vran
+,	mte:Z	,
+Tine	mte:Npmsn	Tine
+Poklar	mte:Npmsn	Poklar
+,	mte:Z	,
+Brigita	mte:Npfsn	Brigita
+Langerholc	mte:Npmsn	Langerholc
+,	mte:Z	,
+Neža	mte:Npfsn	Neža
+Mravlje	mte:Npfsn	Mravlje
+in	mte:Cc	in
+Gregor	mte:Npmsn	Gregor
+Stegnar	mte:Npmsn	Stegnar

@@ -1,642 +1,653 @@
-token	tag
-Letos	Rgp
-se	Px------y
-bo	Va-f3s-n
-obseg	Ncmsn
-BDP	Npmsn
-skrčil	Vmep-sm
-za	Sa
-2,6	Mdc
-,	Z
-prihodnje	Agpnsa
-leto	Ncnsa
-pa	Cc
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-,	Z
-v	Sl
-novi	Agpfsl
-,	Z
-precej	Rgp
-bolj	Rgc
-pesimistični	Agpfsl
-napovedi	Ncfsl
-od	Sg
-predhodne	Agpfsg
-,	Z
-napoveduje	Vmpr3s
-Banka	Ncfsn
-Slovenije	Npfsg
-.	Z
-Črnogledi	Npmpn
-so	Va-r3p-n
-tudi	Q
-v	Sl
-IMF	Npmsln
-.	Z
-Slovenija	Npfsn
-bo	Va-f3s-n
-poleg	Sg
-Cipra	Npfsg
-naslednje	Agpnsa
-leto	Ncnsa
-edina	Agpfsn
-evrska	Agpfsn
-država	Ncfsn
-v	Sl
-recesiji	Ncfsl
-,	Z
-napovedujejo	Vmpr3p
-.	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-je	Va-r3s-n
-poslabšala	Vmep-sf
-gospodarske	Agpfpa
-napovedi	Ncfpa
-za	Sa
-Slovenijo	Npfsa
-.	Z
-Mednarodni	Agpmsny
-denarni	Agpmsny
-sklad	Ncmsn
-IMF	Npmsn
-v	Sl
-najnovejšem	Agsnsl
-poročilu	Ncnsl
-o	Sl
-svetovnih	Agpmpl
-gospodarskih	Agpmpl
-obetih	Ncmpl
-Sloveniji	Npfsl
-za	Sa
-letos	Rgp
-napoveduje	Vmpr3s
-2,6	Mdc
--	Z
-odstotni	Agpmsay
-upad	Ncmsan
-bruto	Agpmsg
-domačega	Agpmsg
-proizvoda	Ncmsg
-BDP	Ncmsg
-,	Z
-prihodnje	Agpnsa
-leto	Ncnsa
-pa	Cc
-naj	Q
-bi	Va-c
-se	Px------y
-slovensko	Agpnsn
-gospodarstvo	Ncnsn
-skrčilo	Vmep-sn
-še	Q
-za	Sa
-1,4	Mdc
-odstotka	Ncmsg
-.	Z
-Med	Si
-evrskimi	Agpfpi
-državami	Ncfpi
-naj	Q
-bi	Va-c
-bil	Va-p-sm
-poleg	Sg
-Slovenije	Npfsg
-prihodnje	Agpnsa
-leto	Ncnsa
-v	Sl
-recesiji	Ncfsl
-le	Q
-še	Q
-Ciper	Npmsn
-.	Z
-Še	Q
-aprila	Ncmsg
-je	Va-r3s-n
-IMF	Npmsn
-Sloveniji	Npfsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-lani	Rgp
-po	Sl
-revidiranih	Appmpl
-podatkih	Ncmpl
-beležila	Vmpp-sf
-2,5	Mdc
--	Z
-odstotni	Agpmsay
-padec	Ncmsan
-BDP	Ncmsg
-,	Z
-za	Sa
-letos	Rgp
-napovedoval	Vmpp-sm
-dvoodstotni	Agpmsay
-padec	Ncmsan
-,	Z
-v	Sl
-letu	Ncnsl
-2014	Mdc
-pa	Cc
-naj	Q
-bi	Va-c
-po	Sl
-spomladanskih	Agpfpl
-ocenah	Ncfpl
-beležila	Vmpp-sf
-1,5	Mdc
--	Z
-odstotno	Agpfsa
-rast	Ncfsa
-.	Z
-Zdaj	Rgp
-je	Va-r3s-n
-sklad	Ncmsn
-te	Pd-fsg
-napovedi	Ncfsg
-bistveno	Rgp
-poslabšal	Vmep-sm
-ter	Cc
-s	Si
-tem	Pd-nsi
-sledil	Vmpp-sm
-nekaterim	Pi-fpd
-drugim	Mlpfpd
-mednarodnim	Agpfpd
-in	Cc
-domačim	Agpfpd
-institucijam	Ncfpd
-.	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-je	Va-r3s-n
-za	Sa
-letos	Rgp
-in	Cc
-prihodnje	Agpnsa
-leto	Ncnsa
-poslabšala	Vmep-sf
-gospodarske	Agpfpa
-napovedi	Ncfpa
-za	Sa
-Slovenijo	Npfsa
-.	Z
-Letos	Rgp
-naj	Q
-bi	Va-c
-se	Px------y
-obseg	Ncmsn
-bruto	Agpmsg
-domačega	Agpmsg
-proizvoda	Ncmsg
-BDP	Npmsn
-skrčil	Vmep-sm
-za	Sa
-2,6	Mdc
-odstotka	Ncmsg
-,	Z
-prihodnje	Agpnsa
-leto	Ncnsa
-pa	Cc
-za	Sa
-0,7	Mdc
-odstotka	Ncmsg
-.	Z
-Rast	Ncfsa
-naj	Q
-bi	Va-c
-država	Ncfsn
-vnovič	Rgp
-dosegla	Vmep-sf
-leta	Ncnsg
-2015	Mdc
-,	Z
-in	Cc
-sicer	Q
-1,4	Mdc
--	Z
-odstotno	Agpnsa
-.	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-je	Va-r3s-n
-s	Si
-tem	Pd-nsi
-sledila	Vmpp-sf
-Uradu	Ncmsd
-RS	Npfsg
-za	Sa
-makroekonomske	Agpfpa
-analize	Ncfpa
-in	Cc
-razvoj	Ncmsan
-Umar	Npmsg
-,	Z
-vendar	Cc
-so	Va-r3p-n
-njene	Ps3fpnsf
-napovedi	Ncfpn
-še	Q
-nekoliko	Rgp
-bolj	Rgc
-pesimistične	Agpfpn
-.	Z
-Umar	Npfsn
-namreč	Cc
-za	Sa
-letos	Rgp
-napoveduje	Vmpr3s
-2,4	Mdc
--	Z
-odstotno	Agpnsa
-krčenje	Ncnsa
-BDP	Ncmsg
-,	Z
-za	Sa
-prihodnje	Agpnsa
-leto	Ncnsa
-pa	Cc
-0,8	Mdc
--	Z
-odstotno	Agpnsa
-.	Z
-Še	Q
-aprila	Ncmsg
-je	Va-r3s-n
-Banka	Ncfsn
-Slovenije	Npfsg
-za	Sa
-letos	Rgp
-napovedovala	Vmpp-sf
-krčenje	Ncnsa
-BDP	Ncmsg
-za	Sa
-1,9	Mdc
-odstotka	Ncmsg
-,	Z
-za	Sa
-prihodnje	Agpnsa
-leto	Ncnsa
-pa	Cc
-celo	Q
-0,5	Mdc
--	Z
-odstotno	Agpfsa
-rast	Ncfsa
-.	Z
-Za	Sa
-leto	Ncnsa
-2015	Mdc
-je	Va-r3s-n
-osrednja	Agpfsn
-finančna	Agpfsn
-institucija	Ncfsn
-bolj	Rgc
-optimistična	Agpfsn
-kot	Cs
-Umar	Npmsn
-.	Z
-Sloveniji	Npfsl
-namreč	Cc
-napoveduje	Vmpr3s
-1,4	Mdc
--	Z
-odstotno	Agpfsa
-rast	Ncfsa
-,	Z
-medtem	Rgp
-ko	Cs
-urad	Ncmsn
-pričakuje	Vmpr3s
-rast	Ncfsa
-zgolj	Q
-v	Sl
-višini	Ncfsl
-0,4	Mdc
-odstotka	Ncmsg
-.	Z
-Ena	Mlpfsn
-redkih	Agpfpg
-držav	Ncfpg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-imela	Vmpp-sf
-recesijo	Ncfsa
-Slovenija	Npfsn
-je	Va-r3s-n
-ena	Mlpfsn
-redkih	Agpfpg
-držav	Ncfpg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-imela	Vmpp-sf
-prihodnje	Agpnsa
-leto	Ncnsa
-recesijo	Ncfsa
-.	Z
-Raven	Ncfsa
-gospodarske	Agpfsg
-aktivnosti	Ncfsg
-v	Sl
-letu	Ncnsl
-2015	Mdc
-bo	Va-f3s-n
-za	Sa
-okoli	Rgp
-10	Mdc
-odstotkov	Ncmpg
-nižja	Agcfsn
-kot	Cs
-pred	Si
-krizo	Ncfsi
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-namestnik	Ncmsn
-direktorja	Ncmsg
-analitsko	Rgp
-raziskovalnega	Agpmsg
-centra	Ncmsg
-Aleš	Npmsn
-Delakorda	Npmsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-povzel	Vmep-sm
-Delakorda	Npmsay
-,	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-podpira	Vmpr3s
-ukrepe	Ncmpa
-pri	Sl
-fiskalni	Agpfsl
-konsolidaciji	Ncfsl
-in	Cc
-predlagane	Appmpa
-ukrepe	Ncmpa
-v	Sl
-okviru	Ncmsl
-proračunov	Ncmpg
-za	Sa
-prihodnji	Agpnda
-dve	Mlcnda
-leti	Ncnda
-.	Z
-Proračun	Ncmsn
-v	Sl
-najmanjši	Agsfsl
-možni	Agpfsl
-meri	Ncfsl
-spodbuja	Vmpr3s
-dodatno	Agpnsa
-krčenje	Ncnsa
-,	Z
-hkrati	Rgp
-pa	Cc
-najmanj	Rgs
-negativno	Rgp
-vpliva	Vmpr3s
-na	Sa
-izvozni	Agpmsay
-sektor	Ncmsan
-,	Z
-je	Va-r3s-n
-poudaril	Vmep-sm
-.	Z
-Na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-bo	Va-f3s-n
-Slovenija	Npfsn
-potrebovala	Vmpp-sf
-pomoč	Ncfsa
-,	Z
-je	Va-r3s-n
-guverner	Ncmsn
-Banke	Ncfsg
-Slovenije	Npfsg
-Boštjan	Npmsn
-Jazbec	Npmsn
-odgovoril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-še	Q
-vse	Pg-nsn
-odprto	Appnsn
-in	Cc
-da	Cs
-obstajajo	Vmpr3p
-in	Cc
-se	Px------y
-preučujejo	Vmpr3p
-različni	Agpmpn
-scenariji	Ncmpn
-,	Z
-da	Cs
-pa	Cc
-si	Px---d--y
-nihče	Pz-msn
-ne	Q
-želi	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-Slovenija	Npfsn
-zaprosila	Vmep-sf
-za	Sa
-pomoč	Ncfsa
-.	Z
-Razmere	Ncfpn
-na	Sl
-trgu	Ncmsl
-dela	Ncnsg
-so	Va-r3p-n
-bile	Va-p-pf
-v	Sl
-prvem	Mlonsl
-polletju	Ncnsl
-stabilne	Agpfpn
-,	Z
-a	Cc
-upadanje	Ncnsn
-razpoložljivega	Agpmsg
-dohodka	Ncmsg
-povzroča	Vmpr3s
-neugodna	Agpnpa
-gibanja	Ncnpa
-.	Z
-Pri	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-Delakorda	Npmsn
-opozoril	Vmep-sm
-na	Sa
-težavo	Ncfsa
-strukturne	Agpfsg
-brezposelnosti	Ncfsg
-,	Z
-zlasti	Q
-med	Si
-mladimi	Agpmpi
-,	Z
-pri	Sl
-katerih	Pq-mpl
-so	Va-r3p-n
-težava	Ncfsn
-tudi	Q
-odhodi	Ncmpn
-v	Sa
-tujino	Ncfsa
-,	Z
-ter	Cc
-med	Si
-dolgoročno	Rgp
-brezposelnimi	Agpfpi
-.	Z
-Po	Sl
-njegovih	Ps3fplsm
-navedbah	Ncfpl
-se	Px------y
-stroški	Ncmpn
-dela	Ncnsg
-najbolj	Rgs
-prilagajajo	Vmpr3p
-v	Sl
-menjalnem	Agpmsl
-sektorju	Ncmsl
-,	Z
-manj	Rgc
-pa	Cc
-v	Sl
-sektorjih	Ncmpl
-,	Z
-kot	Cs
-sta	Va-r3d-n
-komunala	Ncfsn
-,	Z
-energetika	Ncfsn
-.	Z
-Podjetja	Ncnpn
-so	Va-r3p-n
-omejena	Appnpn
-zaradi	Sg
-šibkega	Agpnsg
-trošenja	Ncnsg
-in	Cc
-zaradi	Sg
-finančnih	Agpfpg
-težav	Ncfpg
-.	Z
-Omejitveni	Agpmsny
-dejavnik	Ncmsn
-za	Sa
-investicije	Ncfpa
-je	Va-r3s-n
-še	Q
-vedno	Rgp
-njihova	Ps3fsnp
-zadolženost	Ncfsn
-.	Z
-Ta	Pd-fsn
-ni	Va-r3s-y
-velika	Agpfsn
-,	Z
-je	Va-r3s-n
-pa	Cc
-velika	Agpfsn
-razlika	Ncfsn
-med	Si
-dolžniškim	Agpnsi
-in	Cc
-lastniškim	Agpnsi
-financiranjem	Ncnsi
-,	Z
-je	Va-r3s-n
-pojasnil	Vmep-sm
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-Slovenija	Npfsn
-po	Sl
-dolžniškem	Agpmsl
-vzvodu	Ncmsl
-na	Sl
-vrhu	Ncmsl
-EU	Npfsg
-.	Z
-Pri	Sl
-tem	Pd-nsl
-sta	Va-r3d-n
-zadolžena	Appmdn
-predvsem	Q
-sektorja	Ncmdn
-gradbeništvo	Ncnsn
-in	Cc
-finančni	Agpmpn
-holdingi	Ncmpn
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-predelovalni	Agpmsny
-sektor	Ncmsn
-sorazmerno	Rgp
-malo	Rgp
-zadolžen	Appmsnn
-.	Z
-Malo	Rgp
-zadolžena	Appfsn
-so	Va-r3p-n
-tudi	Q
-gospodinjstva	Ncnpn
-.	Z
-To	Pd-nsn
-kaže	Vmpr3s
-na	Sa
-racionalno	Agpnsa
-obnašanje	Ncnsa
-,	Z
-je	Va-r3s-n
-menil	Vmpp-sm
-Delakorda	Npmsn
-.	Z
-Govorilne	Agpfsg
-ure	Ncfpg
-za	Sa
-gospodarstvo	Ncnsa
-Za	Sa
-reševanje	Ncnsa
-težav	Ncfpg
-v	Sl
-realnem	Agpnsl
-gospodarstvu	Ncnsl
-je	Va-r3s-n
-Banka	Npfsn
-Slovenija	Npfsn
-v	Sl
-sodelovanju	Ncnsl
-z	Si
-Gospodarsko	Agpfsi
-zbornico	Ncfsi
-Slovenije	Npfsg
-GZS	Npfsg
-uvedla	Vmep-sf
-neposredno	Agpfsa
-možnost	Ncfsa
-komuniciranja	Ncnsg
-oz	Ncmsn
-.	Z
-t	Ncmsn
-.	Z
-i	Ncmsn
-.	Z
+token	tag	lemma
+Letos	mte:Rgp	letos
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+obseg	mte:Ncmsn	obseg
+BDP	mte:Npmsn	BDP
+skrčil	mte:Vmep-sm	skrčiti
+za	mte:Sa	za
+2,6	mte:Mdc	2,6
+,	mte:Z	,
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+pa	mte:Cc	pa
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+v	mte:Sl	v
+novi	mte:Agpfsl	nov
+,	mte:Z	,
+precej	mte:Rgp	precej
+bolj	mte:Rgc	bolj
+pesimistični	mte:Agpfsl	pesimističen
+napovedi	mte:Ncfsl	napoved
+od	mte:Sg	od
+predhodne	mte:Agpfsg	predhoden
+,	mte:Z	,
+napoveduje	mte:Vmpr3s	napovedovati
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+.	mte:Z	.
+Črnogledi	mte:Npmpn	Črnogled
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+IMF	mte:Npmsln	IMF
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+bo	mte:Va-f3s-n	biti
+poleg	mte:Sg	poleg
+Cipra	mte:Npfsg	Cipra
+naslednje	mte:Agpnsa	naslednji
+leto	mte:Ncnsa	leto
+edina	mte:Agpfsn	edin
+evrska	mte:Agpfsn	evrski
+država	mte:Ncfsn	država
+v	mte:Sl	v
+recesiji	mte:Ncfsl	recesija
+,	mte:Z	,
+napovedujejo	mte:Vmpr3p	napovedovati
+.	mte:Z	.
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+poslabšala	mte:Vmep-sf	poslabšati
+gospodarske	mte:Agpfpa	gospodarski
+napovedi	mte:Ncfpa	napoved
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Mednarodni	mte:Agpmsny	mednaroden
+denarni	mte:Agpmsny	denaren
+sklad	mte:Ncmsn	sklad
+IMF	mte:Npmsn	IMF
+v	mte:Sl	v
+najnovejšem	mte:Agsnsl	nov
+poročilu	mte:Ncnsl	poročilo
+o	mte:Sl	o
+svetovnih	mte:Agpmpl	svetoven
+gospodarskih	mte:Agpmpl	gospodarski
+obetih	mte:Ncmpl	obet
+Sloveniji	mte:Npfsl	Slovenija
+za	mte:Sa	za
+letos	mte:Rgp	letos
+napoveduje	mte:Vmpr3s	napovedovati
+2,6	mte:Mdc	2,6
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+upad	mte:Ncmsan	upad
+bruto	mte:Agpmsg	bruto
+domačega	mte:Agpmsg	domač
+proizvoda	mte:Ncmsg	proizvod
+BDP	mte:Ncmsg	BDP
+,	mte:Z	,
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+slovensko	mte:Agpnsn	slovenski
+gospodarstvo	mte:Ncnsn	gospodarstvo
+skrčilo	mte:Vmep-sn	skrčiti
+še	mte:Q	še
+za	mte:Sa	za
+1,4	mte:Mdc	1,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Med	mte:Si	med
+evrskimi	mte:Agpfpi	evrski
+državami	mte:Ncfpi	država
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bil	mte:Va-p-sm	biti
+poleg	mte:Sg	poleg
+Slovenije	mte:Npfsg	Slovenija
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+v	mte:Sl	v
+recesiji	mte:Ncfsl	recesija
+le	mte:Q	le
+še	mte:Q	še
+Ciper	mte:Npmsn	Ciper
+.	mte:Z	.
+Še	mte:Q	še
+aprila	mte:Ncmsg	april
+je	mte:Va-r3s-n	biti
+IMF	mte:Npmsn	IMF
+Sloveniji	mte:Npfsd	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+po	mte:Sl	po
+revidiranih	mte:Appmpl	revidiran
+podatkih	mte:Ncmpl	podatek
+beležila	mte:Vmpp-sf	beležiti
+2,5	mte:Mdc	2,5
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+padec	mte:Ncmsan	padec
+BDP	mte:Ncmsg	BDP
+,	mte:Z	,
+za	mte:Sa	za
+letos	mte:Rgp	letos
+napovedoval	mte:Vmpp-sm	napovedovati
+dvoodstotni	mte:Agpmsay	dvoodstoten
+padec	mte:Ncmsan	padec
+,	mte:Z	,
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2014	mte:Mdc	2014
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+po	mte:Sl	po
+spomladanskih	mte:Agpfpl	spomladanski
+ocenah	mte:Ncfpl	ocena
+beležila	mte:Vmpp-sf	beležiti
+1,5	mte:Mdc	1,5
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+rast	mte:Ncfsa	rast
+.	mte:Z	.
+Zdaj	mte:Rgp	zdaj
+je	mte:Va-r3s-n	biti
+sklad	mte:Ncmsn	sklad
+te	mte:Pd-fsg	ta
+napovedi	mte:Ncfsg	napoved
+bistveno	mte:Rgp	bistveno
+poslabšal	mte:Vmep-sm	poslabšati
+ter	mte:Cc	ter
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+sledil	mte:Vmpp-sm	slediti
+nekaterim	mte:Pi-fpd	nekateri
+drugim	mte:Mlpfpd	drug
+mednarodnim	mte:Agpfpd	mednaroden
+in	mte:Cc	in
+domačim	mte:Agpfpd	domač
+institucijam	mte:Ncfpd	institucija
+.	mte:Z	.
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+letos	mte:Rgp	letos
+in	mte:Cc	in
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+poslabšala	mte:Vmep-sf	poslabšati
+gospodarske	mte:Agpfpa	gospodarski
+napovedi	mte:Ncfpa	napoved
+za	mte:Sa	za
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Letos	mte:Rgp	letos
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+obseg	mte:Ncmsn	obseg
+bruto	mte:Agpmsg	bruto
+domačega	mte:Agpmsg	domač
+proizvoda	mte:Ncmsg	proizvod
+BDP	mte:Npmsn	BDP
+skrčil	mte:Vmep-sm	skrčiti
+za	mte:Sa	za
+2,6	mte:Mdc	2,6
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+pa	mte:Cc	pa
+za	mte:Sa	za
+0,7	mte:Mdc	0,7
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Rast	mte:Ncfsa	rast
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+država	mte:Ncfsn	država
+vnovič	mte:Rgp	vnovič
+dosegla	mte:Vmep-sf	doseči
+leta	mte:Ncnsg	leto
+2015	mte:Mdc	2015
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+1,4	mte:Mdc	1,4
+-	mte:Z	-
+odstotno	mte:Agpnsa	odstoten
+.	mte:Z	.
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+sledila	mte:Vmpp-sf	slediti
+Uradu	mte:Ncmsd	urad
+RS	mte:Npfsg	RS
+za	mte:Sa	za
+makroekonomske	mte:Agpfpa	makroekonomski
+analize	mte:Ncfpa	analiza
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+Umar	mte:Npmsg	Umar
+,	mte:Z	,
+vendar	mte:Cc	vendar
+so	mte:Va-r3p-n	biti
+njene	mte:Ps3fpnsf	njen
+napovedi	mte:Ncfpn	napoved
+še	mte:Q	še
+nekoliko	mte:Rgp	nekoliko
+bolj	mte:Rgc	bolj
+pesimistične	mte:Agpfpn	pesimističen
+.	mte:Z	.
+Umar	mte:Npfsn	Umar
+namreč	mte:Cc	namreč
+za	mte:Sa	za
+letos	mte:Rgp	letos
+napoveduje	mte:Vmpr3s	napovedovati
+2,4	mte:Mdc	2,4
+-	mte:Z	-
+odstotno	mte:Agpnsa	odstoten
+krčenje	mte:Ncnsa	krčenje
+BDP	mte:Ncmsg	BDP
+,	mte:Z	,
+za	mte:Sa	za
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+pa	mte:Cc	pa
+0,8	mte:Mdc	0,8
+-	mte:Z	-
+odstotno	mte:Agpnsa	odstoten
+.	mte:Z	.
+Še	mte:Q	še
+aprila	mte:Ncmsg	april
+je	mte:Va-r3s-n	biti
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+za	mte:Sa	za
+letos	mte:Rgp	letos
+napovedovala	mte:Vmpp-sf	napovedovati
+krčenje	mte:Ncnsa	krčenje
+BDP	mte:Ncmsg	BDP
+za	mte:Sa	za
+1,9	mte:Mdc	1,9
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+za	mte:Sa	za
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+pa	mte:Cc	pa
+celo	mte:Q	celo
+0,5	mte:Mdc	0,5
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+rast	mte:Ncfsa	rast
+.	mte:Z	.
+Za	mte:Sa	za
+leto	mte:Ncnsa	leto
+2015	mte:Mdc	2015
+je	mte:Va-r3s-n	biti
+osrednja	mte:Agpfsn	osrednji
+finančna	mte:Agpfsn	finančen
+institucija	mte:Ncfsn	institucija
+bolj	mte:Rgc	bolj
+optimistična	mte:Agpfsn	optimističen
+kot	mte:Cs	kot
+Umar	mte:Npmsn	Umar
+.	mte:Z	.
+Sloveniji	mte:Npfsl	Slovenija
+namreč	mte:Cc	namreč
+napoveduje	mte:Vmpr3s	napovedovati
+1,4	mte:Mdc	1,4
+-	mte:Z	-
+odstotno	mte:Agpfsa	odstoten
+rast	mte:Ncfsa	rast
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+urad	mte:Ncmsn	urad
+pričakuje	mte:Vmpr3s	pričakovati
+rast	mte:Ncfsa	rast
+zgolj	mte:Q	zgolj
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+0,4	mte:Mdc	0,4
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Ena	mte:Mlpfsn	en
+redkih	mte:Agpfpg	redek
+držav	mte:Ncfpg	država
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+imela	mte:Vmpp-sf	imeti
+recesijo	mte:Ncfsa	recesija
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+ena	mte:Mlpfsn	en
+redkih	mte:Agpfpg	redek
+držav	mte:Ncfpg	država
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+imela	mte:Vmpp-sf	imeti
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+recesijo	mte:Ncfsa	recesija
+.	mte:Z	.
+Raven	mte:Ncfsa	raven
+gospodarske	mte:Agpfsg	gospodarski
+aktivnosti	mte:Ncfsg	aktivnost
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2015	mte:Mdc	2015
+bo	mte:Va-f3s-n	biti
+za	mte:Sa	za
+okoli	mte:Rgp	okoli
+10	mte:Mdc	10
+odstotkov	mte:Ncmpg	odstotek
+nižja	mte:Agcfsn	nizek
+kot	mte:Cs	kot
+pred	mte:Si	pred
+krizo	mte:Ncfsi	kriza
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+namestnik	mte:Ncmsn	namestnik
+direktorja	mte:Ncmsg	direktor
+analitsko	mte:Rgp	analitsko
+raziskovalnega	mte:Agpmsg	raziskovalen
+centra	mte:Ncmsg	center
+Aleš	mte:Npmsn	Aleš
+Delakorda	mte:Npmsn	Delakord
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+povzel	mte:Vmep-sm	povzeti
+Delakorda	mte:Npmsay	Delakord
+,	mte:Z	,
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+podpira	mte:Vmpr3s	podpirati
+ukrepe	mte:Ncmpa	ukrep
+pri	mte:Sl	pri
+fiskalni	mte:Agpfsl	fiskalen
+konsolidaciji	mte:Ncfsl	konsolidacija
+in	mte:Cc	in
+predlagane	mte:Appmpa	predlagan
+ukrepe	mte:Ncmpa	ukrep
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+proračunov	mte:Ncmpg	proračun
+za	mte:Sa	za
+prihodnji	mte:Agpnda	prihodnji
+dve	mte:Mlcnda	dva
+leti	mte:Ncnda	leto
+.	mte:Z	.
+Proračun	mte:Ncmsn	proračun
+v	mte:Sl	v
+najmanjši	mte:Agsfsl	majhen
+možni	mte:Agpfsl	možen
+meri	mte:Ncfsl	mera
+spodbuja	mte:Vmpr3s	spodbujati
+dodatno	mte:Agpnsa	dodaten
+krčenje	mte:Ncnsa	krčenje
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+najmanj	mte:Rgs	najmanj
+negativno	mte:Rgp	negativen
+vpliva	mte:Vmpr3s	vplivati
+na	mte:Sa	na
+izvozni	mte:Agpmsay	izvozen
+sektor	mte:Ncmsan	sektor
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+.	mte:Z	.
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+bo	mte:Va-f3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+potrebovala	mte:Vmpp-sf	potrebovati
+pomoč	mte:Ncfsa	pomoč
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+guverner	mte:Ncmsn	guverner
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+Boštjan	mte:Npmsn	Boštjan
+Jazbec	mte:Npmsn	Jazbec
+odgovoril	mte:Vmep-sm	odgovoriti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+vse	mte:Pg-nsn	ves
+odprto	mte:Appnsn	odprt
+in	mte:Cc	in
+da	mte:Cs	da
+obstajajo	mte:Vmpr3p	obstajati
+in	mte:Cc	in
+se	mte:Px------y	se
+preučujejo	mte:Vmpr3p	preučevati
+različni	mte:Agpmpn	različen
+scenariji	mte:Ncmpn	scenarija
+,	mte:Z	,
+da	mte:Cs	da
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+nihče	mte:Pz-msn	nihče
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+Slovenija	mte:Npfsn	Slovenija
+zaprosila	mte:Vmep-sf	zaprositi
+za	mte:Sa	za
+pomoč	mte:Ncfsa	pomoč
+.	mte:Z	.
+Razmere	mte:Ncfpn	razmera
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+dela	mte:Ncnsg	delo
+so	mte:Va-r3p-n	biti
+bile	mte:Va-p-pf	biti
+v	mte:Sl	v
+prvem	mte:Mlonsl	prvi
+polletju	mte:Ncnsl	polletje
+stabilne	mte:Agpfpn	stabilen
+,	mte:Z	,
+a	mte:Cc	a
+upadanje	mte:Ncnsn	upadanje
+razpoložljivega	mte:Agpmsg	razpoložljiv
+dohodka	mte:Ncmsg	dohodek
+povzroča	mte:Vmpr3s	povzročati
+neugodna	mte:Agpnpa	neugoden
+gibanja	mte:Ncnpa	gibanje
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+Delakorda	mte:Npmsn	Delakord
+opozoril	mte:Vmep-sm	opozoriti
+na	mte:Sa	na
+težavo	mte:Ncfsa	težava
+strukturne	mte:Agpfsg	strukturen
+brezposelnosti	mte:Ncfsg	brezposelnost
+,	mte:Z	,
+zlasti	mte:Q	zlasti
+med	mte:Si	med
+mladimi	mte:Agpmpi	mlad
+,	mte:Z	,
+pri	mte:Sl	pri
+katerih	mte:Pq-mpl	kateri
+so	mte:Va-r3p-n	biti
+težava	mte:Ncfsn	težava
+tudi	mte:Q	tudi
+odhodi	mte:Ncmpn	odhod
+v	mte:Sa	v
+tujino	mte:Ncfsa	tujina
+,	mte:Z	,
+ter	mte:Cc	ter
+med	mte:Si	med
+dolgoročno	mte:Rgp	dolgoročno
+brezposelnimi	mte:Agpfpi	brezposeln
+.	mte:Z	.
+Po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+navedbah	mte:Ncfpl	navedba
+se	mte:Px------y	se
+stroški	mte:Ncmpn	strošek
+dela	mte:Ncnsg	delo
+najbolj	mte:Rgs	najbolj
+prilagajajo	mte:Vmpr3p	prilagajati
+v	mte:Sl	v
+menjalnem	mte:Agpmsl	menjalen
+sektorju	mte:Ncmsl	sektor
+,	mte:Z	,
+manj	mte:Rgc	manj
+pa	mte:Cc	pa
+v	mte:Sl	v
+sektorjih	mte:Ncmpl	sektor
+,	mte:Z	,
+kot	mte:Cs	kot
+sta	mte:Va-r3d-n	biti
+komunala	mte:Ncfsn	komunal
+,	mte:Z	,
+energetika	mte:Ncfsn	energetika
+.	mte:Z	.
+Podjetja	mte:Ncnpn	podjetje
+so	mte:Va-r3p-n	biti
+omejena	mte:Appnpn	omejen
+zaradi	mte:Sg	zaradi
+šibkega	mte:Agpnsg	šibek
+trošenja	mte:Ncnsg	trošenje
+in	mte:Cc	in
+zaradi	mte:Sg	zaradi
+finančnih	mte:Agpfpg	finančen
+težav	mte:Ncfpg	težava
+.	mte:Z	.
+Omejitveni	mte:Agpmsny	omejitven
+dejavnik	mte:Ncmsn	dejavnik
+za	mte:Sa	za
+investicije	mte:Ncfpa	investicija
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+njihova	mte:Ps3fsnp	njihov
+zadolženost	mte:Ncfsn	zadolženost
+.	mte:Z	.
+Ta	mte:Pd-fsn	ta
+ni	mte:Va-r3s-y	biti
+velika	mte:Agpfsn	velik
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pa	mte:Cc	pa
+velika	mte:Agpfsn	velik
+razlika	mte:Ncfsn	razlika
+med	mte:Si	med
+dolžniškim	mte:Agpnsi	dolžniški
+in	mte:Cc	in
+lastniškim	mte:Agpnsi	lastniški
+financiranjem	mte:Ncnsi	financiranje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+po	mte:Sl	po
+dolžniškem	mte:Agpmsl	dolžniški
+vzvodu	mte:Ncmsl	vzvod
+na	mte:Sl	na
+vrhu	mte:Ncmsl	vrh
+EU	mte:Npfsg	EU
+.	mte:Z	.
+Pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+sta	mte:Va-r3d-n	biti
+zadolžena	mte:Appmdn	zadolžen
+predvsem	mte:Q	predvsem
+sektorja	mte:Ncmdn	sektor
+gradbeništvo	mte:Ncnsn	gradbeništvo
+in	mte:Cc	in
+finančni	mte:Agpmpn	finančen
+holdingi	mte:Ncmpn	holding
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+predelovalni	mte:Agpmsny	predelovalen
+sektor	mte:Ncmsn	sektor
+sorazmerno	mte:Rgp	sorazmerno
+malo	mte:Rgp	malo
+zadolžen	mte:Appmsnn	zadolžen
+.	mte:Z	.
+Malo	mte:Rgp	malo
+zadolžena	mte:Appfsn	zadolžen
+so	mte:Va-r3p-n	biti
+tudi	mte:Q	tudi
+gospodinjstva	mte:Ncnpn	gospodinjstvo
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+kaže	mte:Vmpr3s	kazati
+na	mte:Sa	na
+racionalno	mte:Agpnsa	racionalen
+obnašanje	mte:Ncnsa	obnašanje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+menil	mte:Vmpp-sm	meniti
+Delakorda	mte:Npmsn	Delakord
+.	mte:Z	.
+Govorilne	mte:Agpfsg	govorilen
+ure	mte:Ncfsg	ura
+za	mte:Sa	za
+gospodarstvo	mte:Ncnsa	gospodarstvo
+Za	mte:Sa	za
+reševanje	mte:Ncnsa	reševanje
+težav	mte:Ncfpg	težava
+v	mte:Sl	v
+realnem	mte:Agpnsl	realen
+gospodarstvu	mte:Ncnsl	gospodarstvo
+je	mte:Va-r3s-n	biti
+Banka	mte:Npfsn	banka
+Slovenija	mte:Npfsn	Slovenija
+v	mte:Sl	v
+sodelovanju	mte:Ncnsl	sodelovanje
+z	mte:Si	z
+Gospodarsko	mte:Agpfsi	gospodarski
+zbornico	mte:Ncfsi	zbornica
+Slovenije	mte:Npfsg	Slovenija
+GZS	mte:Npfsg	GZS
+uvedla	mte:Vmep-sf	uvesti
+neposredno	mte:Agpfsa	neposreden
+možnost	mte:Ncfsa	možnost
+komuniciranja	mte:Ncnsg	komuniciranje
+oz	mte:Ncmsn	oz
+.	mte:Z	.
+t	mte:Ncmsn	t
+.	mte:Z	.
+i	mte:Ncmsn	i
+.	mte:Z	.
+govorilne	mte:Agpfsg	govorilen
+ure	mte:Ncfsg	ura
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+viceguverner	mte:Ncmsn	viceguverner
+in	mte:Cc	in
+namestnik	mte:Ncmsn	namestnik
+guvernerja	mte:Ncmsg	guverner
+Janez	mte:Npmsn	Janez
+Fabijan	mte:Npmsn	Fabijan

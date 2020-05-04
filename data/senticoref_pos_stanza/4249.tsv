@@ -1,539 +1,557 @@
-token	tag
-Prav	Q
-vse	Pg-fpn
-poslanske	Agpfpn
-skupine	Ncfpn
-so	Va-r3p-n
-v	Sl
-uvodnih	Agpfpl
-predstavitvah	Ncfpl
-mnenj	Ncnpg
-napovedale	Vmep-pf
-podporo	Ncfsa
-dohodninskim	Agpfpd
-spremembam	Ncfpd
-,	Z
-ki	Cs
-spadajo	Vmpr3p
-v	Sa
-paket	Ncmsan
-ukrepov	Ncmpg
-,	Z
-s	Si
-katerimi	Pq-mpi
-želi	Vmpr3s
-vlada	Ncfsn
-omiliti	Vmen
-posledice	Ncfpa
-visoke	Agpfsg
-inflacije	Ncfsg
-V	Sl
-državnem	Agpmsl
-zboru	Ncmsl
-(	Z
-DZ	Npmsn
-)	Z
-danes	Rgp
-nadaljujejo	Vmpr3p
-izredno	Agpfsa
-sejo	Ncfsa
-z	Si
-obravnavo	Ncfsi
-predloga	Ncmsg
-novele	Ncfsg
-zakona	Ncmsg
-o	Sl
-dohodnini	Ncfsl
-,	Z
-s	Si
-katerim	Pq-msi
-naj	Q
-bi	Va-c
-se	Px------y
-ublažili	Vmep-pm
-učinki	Ncmpn
-povišane	Appfsg
-rasti	Ncfsg
-cen	Ncfpg
-življenjskih	Agpfpg
-potrebščin	Ncfpg
-v	Sl
-preteklem	Appnsl
-letu	Ncnsl
-.	Z
-Po	Sl
-uvodni	Agpfsl
-predstavitvi	Ncfsl
-mnenj	Ncnpg
-poslanskih	Agpfpg
-skupin	Ncfpg
-je	Va-r3s-n
-jasno	Agpnsn
-,	Z
-da	Cs
-se	Px------y
-predlaganim	Appfpd
-spremembe	Ncfpn
-ob	Sl
-glasovanju	Ncnsl
-obeta	Vmpr3s
-široka	Agpfsn
-podporo	Ncfsn
-.	Z
-Poslanci	Ncmpn
-iz	Sg
-opozicijskih	Agpfpg
-vrst	Ncfpg
-so	Va-r3p-n
-sicer	Q
-prepričani	Appmpn
-,	Z
-da	Cs
-bi	Va-c
-vlada	Ncfsn
-morala	Vmpp-sf
-narediti	Vmen
-več	Rgc
-,	Z
-predlagane	Appmpa
-ukrepe	Ncmpa
-pa	Cc
-kljub	Sd
-temu	Pd-nsd
-nameravajo	Vmpr3p
-podpreti	Vmen
-.	Z
-Koalicija	Ncfsn
-je	Va-r3s-n
-medtem	Rgp
-prepričana	Appfsn
-,	Z
-da	Cs
-so	Va-r3p-n
-predlagane	Appfpn
-spremembe	Ncfpn
-ustrezne	Agpfsg
-.	Z
-Lahovnik	Npmsn
-:	Z
-Gre	Vmbr3s
-za	Sa
-kapljo	Ncfsa
-v	Sa
-morje	Ncnsa
-Vodja	Ncmsn
-poslanske	Agpfsg
-skupine	Ncfsg
-Zares	Rgp
-Matej	Npmsn
-Lahovnik	Npmsn
-je	Va-r3s-n
-predlagane	Appmpa
-ukrepe	Ncmpa
-sicer	Q
-pozdravil	Vmep-sm
-,	Z
-hkrati	Rgp
-pa	Cc
-opozoril	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-predlagane	Appfpn
-olajšave	Ncfpn
-neučinkovite	Agpfpn
-,	Z
-saj	Cc
-se	Px------y
-bo	Va-f3s-n
-povprečni	Agpmsny
-neto	Ncmsn
-dohodek	Ncmsn
-davčnih	Agpmpg
-zavezancev	Ncmpg
-po	Sl
-njegovih	Ps3fplsm
-besedah	Ncfpl
-povečal	Vmep-sm
-le	Q
-za	Sa
-okoli	Rgp
-20	Mdc
-evrov	Ncmpg
-.	Z
-"	Z
-Gre	Vmbr3s
-za	Sa
-kapljo	Ncfsa
-v	Sa
-morje	Ncnsa
-,	Z
-sploh	Q
-ob	Sl
-napovedih	Ncfpl
-novih	Agpfpg
-podražitev	Ncfpg
-,	Z
-"	Z
-meni	Vmpr3s
-poslanec	Ncmsn
-.	Z
-Podporo	Ncfsa
-spremembam	Ncfpd
-je	Va-r3s-n
-napovedal	Vmep-sm
-tudi	Q
-poslanec	Ncmsn
-Desus	Npmsn
-Vili	Npmsn
-Rezman	Npmsn
-.	Z
-Sporno	Agpnsn
-se	Px------y
-mu	Pp3msd--y
-zdi	Vmpr3s
-,	Z
-da	Cs
-bodo	Va-f3p-n
-ukrepi	Ncmpn
-v	Sl
-celoti	Ncfsl
-zaobšli	Vmep-pm
-srednji	Agpmsay
-sloj	Ncmsan
-in	Cc
-upokojence	Ncmpa
-.	Z
-V	Sl
-SNS	Npfsl
-prepričani	Appmpn
-,	Z
-da	Cs
-je	Va-r3s-n
-vlada	Ncfsn
-z	Si
-ukrepi	Ncmpi
-čakal	Vmpp-sm
-predolgo	Rgp
-Da	Cs
-so	Va-r3p-n
-predlagani	Appmpn
-ukrepi	Ncmpn
-prišli	Vmep-pm
-nekoliko	Rgp
-pozno	Rgp
-,	Z
-pa	Cc
-je	Va-r3s-n
-mnenja	Ncnsg
-poslanec	Ncmsn
-iz	Sg
-vrst	Ncfpg
-SNS	Npfsg
-Bogdan	Npmsn
-Barovič	Npmsn
-.	Z
-Sploh	Q
-glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-se	Px------y
-visoka	Agpfsn
-inflacija	Ncfsn
-pojavlja	Vmpr3s
-že	Q
-več	Rgc
-mesecev	Ncmpg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-ocenil	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-do	Sg
-vladnega	Agpmsg
-predloga	Ncmsg
-v	Sl
-tem	Pd-msl
-trenutku	Ncmsl
-prišlo	Vmep-sn
-,	Z
-ker	Cs
-se	Px------y
-nahajamo	Vmpr1p
-v	Sl
-volilnem	Agpnsl
-letu	Ncnsl
-.	Z
-V	Sl
-SD	Npmsl
-in	Cc
-NP	Npmsa
-želijo	Vmpr3p
-celovit	Agpmsan
-program	Ncmsan
-protiinflacijskih	Agpmpg
-ukrepov	Ncmpg
-Poslanec	Ncmsn
-poslanske	Agpfsg
-skupine	Ncfsg
-nepovezanih	Agpmpg
-poslancev	Ncmpg
-Sašo	Npmsn
-Peče	Npfsn
-je	Va-r3s-n
-predlagane	Appfpa
-spremembe	Ncfpa
-označil	Vmep-sm
-za	Sa
-všečne	Agpfpa
-,	Z
-a	Cc
-po	Sl
-njegovem	Ps3mslsm
-ti	Pd-mpn
-za	Sa
-blaženje	Ncnsa
-inflacije	Ncfsg
-niso	Va-r3p-y
-zadostni	Agpmpn
-.	Z
-"	Z
-To	Pd-nsn
-ne	Q
-sme	Vmpr3s
-biti	Va-n
-edini	Agpmsny
-ukrep	Ncmsn
-vlade	Ncfsg
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-obenem	Rgp
-pa	Cc
-poudaril	Vmep-sm
-potrebo	Ncfsa
-,	Z
-da	Cs
-Slovenija	Npfsn
-dobi	Vmer3s
-celovit	Agpmsan
-paket	Ncmsan
-rešitev	Ncfpg
-zoper	Sa
-inflacijo	Ncfsa
-.	Z
-Za	Sa
-protiinflacijski	Agpmsay
-program	Ncmsan
-se	Px------y
-je	Va-r3s-n
-zavzel	Vmep-sm
-tudi	Q
-poslanec	Ncmsn
-SD	Npmsg
-Milan	Npmsn
-M	Npmsn
-.	Z
-Cvikl	Npmsn
-.	Z
-Po	Sl
-njegovem	Ps3nslsm
-je	Va-r3s-n
-sicer	Q
-vlada	Ncfsn
-spoznala	Vmbp-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sl
-preteklih	Appmpl
-mesecih	Ncmpl
-ni	Va-r3s-y
-ravnala	Vmpp-sf
-prav	Q
-.	Z
-"	Z
-Gre	Vmbr3s
-za	Sa
-prvi	Mlomsa
-korak	Ncmsan
-,	Z
-ki	Cs
-upam	Vmpr1s
-,	Z
-da	Cs
-bo	Va-f3s-n
-pripeljal	Vmep-sm
-k	Sd
-odpravi	Ncfsd
-nekaterih	Pi-fpg
-neumnosti	Ncfpg
-v	Sl
-davčni	Agpfsl
-zakonodaji	Ncfsl
-"	Z
-.	Z
-Koalicija	Ncfsn
-:	Z
-Predlagani	Appmpn
-ukrepi	Ncmpn
-so	Va-r3p-n
-ustrezni	Agpmpn
-Predlagani	Appmpn
-ukrepi	Ncmpn
-pa	Cc
-so	Va-r3p-n
-ustrezni	Agpmpn
-po	Sl
-mnenju	Ncnsl
-poslance	Ncmpa
-največje	Agsfsg
-koalicijske	Agpfsg
-stranke	Ncfsg
-Zvonka	Npmsg
-Černača	Npmsg
-.	Z
-"	Z
-V	Sl
-prvi	Mlofsl
-vrsti	Ncfsl
-so	Va-r3p-n
-predlagani	Appmpn
-ukrepi	Ncmpn
-namenjeni	Appmpn
-blažitvi	Ncfsd
-posledic	Ncfpg
-neupravičenih	Agpfpg
-podražitev	Ncfpg
-hrane	Ncfsg
-,	Z
-spremembe	Ncfpn
-pa	Cc
-je	Va-r3s-n
-potrebno	Agpnsn
-gledati	Vmpn
-v	Sl
-povezavi	Ncfsl
-z	Si
-ostalimi	Appmpi
-ukrepi	Ncmpi
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-S	Si
-predlogom	Ncmsi
-so	Va-r3p-n
-po	Sl
-besedah	Ncfpl
-Cirila	Npmsg
-Testena	Npmsg
-zadovoljni	Agpmpn
-tudi	Q
-v	Sl
-NSi	Npfsl
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-vlada	Ncfsn
-na	Sa
-inflacijo	Ncfsa
-sicer	Q
-nima	Vmpr3s-y
-vpliva	Ncmsg
-,	Z
-saj	Cc
-jo	Pp3fsa--y
-povzročajo	Vmpr3p
-visoke	Agpfpn
-cene	Ncfpn
-nafte	Ncfsg
-na	Sl
-svetovnih	Agpmpl
-trgih	Ncmpl
-.	Z
-Zmanjšanje	Ncnsa
-davčne	Agpfsg
-obremenitve	Ncfsg
-za	Sa
-socialno	Agpfsa
-najbolj	Rgs
-ogrožene	Appfpa
-,	Z
-je	Va-r3s-n
-pozdravil	Vmep-sm
-tudi	Q
-poslanec	Ncmsn
-SLS	Npmsn
-Marjan	Npmsn
-Trofenik	Npmsn
-.	Z
-Ob	Sl
-tem	Pd-nsl
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-poleg	Sg
-ukrepov	Ncmpg
-za	Sa
-blaženje	Ncnsa
-inflacije	Ncfsg
-,	Z
-potrebno	Agpnsn
-sprejeti	Vmen
-tudi	Q
-ukrepe	Ncmpa
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-inflacijo	Ncfsa
-učinkovito	Rgp
-zajezili	Vmep-pm
-.	Z
-LDS	Npfsg
-:	Z
-Predlagani	Appmpn
-ukrepi	Ncmpn
-ne	Q
-rešujejo	Vmpr3p
-nastalega	Appnsg
-vprašanja	Ncnsg
-Mitja	Npmsn
-Slavinec	Npmsn
-iz	Sg
-vrst	Ncfpg
-LDS	Npfsg
-medtem	Rgp
-predlaganim	Appfpd
-spremembam	Ncfpd
-očita	Vmpr3s
-določene	Appfpa
-pomanjkljivosti	Ncfpa
-.	Z
-Po	Sl
-njegovem	Ps3mslsm
-namreč	Cc
-ukrepi	Ncmpn
-ne	Q
-bodo	Va-f3p-n
-izboljšali	Vmep-pm
-položaja	Ncmsg
-vsem	Pg-mpd
-,	Z
-ki	Cs
-bi	Va-c
-to	Pd-nsa
-potrebovali	Vmpp-pm
-.	Z
+token	tag	lemma
+Prav	mte:Q	prav
+vse	mte:Pg-fpn	ves
+poslanske	mte:Agpfpn	poslanski
+skupine	mte:Ncfpn	skupina
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+uvodnih	mte:Agpfpl	uvoden
+predstavitvah	mte:Ncfpl	predstavitev
+mnenj	mte:Ncnpg	mnenje
+napovedale	mte:Vmep-pf	napovedati
+podporo	mte:Ncfsa	podpora
+dohodninskim	mte:Agpfpd	dohodninski
+spremembam	mte:Ncfpd	sprememba
+,	mte:Z	,
+ki	mte:Cs	ki
+spadajo	mte:Vmpr3p	spadati
+v	mte:Sa	v
+paket	mte:Ncmsan	paket
+ukrepov	mte:Ncmpg	ukrep
+,	mte:Z	,
+s	mte:Si	z
+katerimi	mte:Pq-mpi	kateri
+želi	mte:Vmpr3s	želeti
+vlada	mte:Ncfsn	vlada
+omiliti	mte:Vmen	omiliti
+posledice	mte:Ncfpa	posledica
+visoke	mte:Agpfsg	visok
+inflacije	mte:Ncfsg	inflacija
+V	mte:Sl	v
+državnem	mte:Agpmsl	državen
+zboru	mte:Ncmsl	zbor
+(	mte:Z	(
+DZ	mte:Npmsn	DZ
+)	mte:Z	)
+danes	mte:Rgp	danes
+nadaljujejo	mte:Vmpr3p	nadaljevati
+izredno	mte:Agpfsa	izreden
+sejo	mte:Ncfsa	seja
+z	mte:Si	z
+obravnavo	mte:Ncfsi	obravnava
+predloga	mte:Ncmsg	predlog
+novele	mte:Ncfsg	novela
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+dohodnini	mte:Ncfsl	dohodnina
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+ublažili	mte:Vmep-pm	ublažiti
+učinki	mte:Ncmpn	učinek
+povišane	mte:Appfsg	povišan
+rasti	mte:Ncfsg	rast
+cen	mte:Ncfpg	cena
+življenjskih	mte:Agpfpg	življenjski
+potrebščin	mte:Ncfpg	potrebščina
+v	mte:Sl	v
+preteklem	mte:Appnsl	pretekel
+letu	mte:Ncnsl	leto
+.	mte:Z	.
+Po	mte:Sl	po
+uvodni	mte:Agpfsl	uvoden
+predstavitvi	mte:Ncfsl	predstavitev
+mnenj	mte:Ncnpg	mnenje
+poslanskih	mte:Agpfpg	poslanski
+skupin	mte:Ncfpg	skupina
+je	mte:Va-r3s-n	biti
+jasno	mte:Agpnsn	jasen
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+predlaganim	mte:Appfpd	predlagan
+spremembe	mte:Ncfpn	sprememba
+ob	mte:Sl	ob
+glasovanju	mte:Ncnsl	glasovanje
+obeta	mte:Vmpr3s	obetati
+široka	mte:Agpfsn	širok
+podporo	mte:Ncfsn	podpora
+.	mte:Z	.
+Poslanci	mte:Ncmpn	poslanec
+iz	mte:Sg	iz
+opozicijskih	mte:Agpfpg	opozicijski
+vrst	mte:Ncfpg	vrsta
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+vlada	mte:Ncfsn	vlada
+morala	mte:Vmpp-sf	morati
+narediti	mte:Vmen	narediti
+več	mte:Rgc	več
+,	mte:Z	,
+predlagane	mte:Appmpa	predlagan
+ukrepe	mte:Ncmpa	ukrep
+pa	mte:Cc	pa
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+nameravajo	mte:Vmpr3p	nameravati
+podpreti	mte:Vmen	podpreti
+.	mte:Z	.
+Koalicija	mte:Ncfsn	koalicija
+je	mte:Va-r3s-n	biti
+medtem	mte:Rgp	medtem
+prepričana	mte:Appfsn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+predlagane	mte:Appfpn	predlagan
+spremembe	mte:Ncfpn	sprememba
+ustrezne	mte:Agpfsg	ustrezen
+.	mte:Z	.
+Lahovnik	mte:Npmsn	Lahovnik
+:	mte:Z	:
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+kapljo	mte:Ncfsa	kapel
+v	mte:Sa	v
+morje	mte:Ncnsa	morje
+Vodja	mte:Ncmsn	vodja
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+Zares	mte:Rgp	zares
+Matej	mte:Npmsn	Matej
+Lahovnik	mte:Npmsn	Lahovnik
+je	mte:Va-r3s-n	biti
+predlagane	mte:Appmpa	predlagan
+ukrepe	mte:Ncmpa	ukrep
+sicer	mte:Q	sicer
+pozdravil	mte:Vmep-sm	pozdraviti
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+predlagane	mte:Appfpn	predlagan
+olajšave	mte:Ncfpn	olajšava
+neučinkovite	mte:Agpfpn	neučinkovit
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+povprečni	mte:Agpmsny	povprečen
+neto	mte:Ncmsn	neto
+dohodek	mte:Ncmsn	dohodek
+davčnih	mte:Agpmpg	davčen
+zavezancev	mte:Ncmpg	zavezanec
+po	mte:Sl	po
+njegovih	mte:Ps3fplsm	njegov
+besedah	mte:Ncfpl	beseda
+povečal	mte:Vmep-sm	povečati
+le	mte:Q	le
+za	mte:Sa	za
+okoli	mte:Rgp	okoli
+20	mte:Mdc	20
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+"	mte:Z	"
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+kapljo	mte:Ncfsa	kapel
+v	mte:Sa	v
+morje	mte:Ncnsa	morje
+,	mte:Z	,
+sploh	mte:Q	sploh
+ob	mte:Sl	ob
+napovedih	mte:Ncfpl	napoved
+novih	mte:Agpfpg	nov
+podražitev	mte:Ncfpg	podražitev
+,	mte:Z	,
+"	mte:Z	"
+meni	mte:Vmpr3s	meniti
+poslanec	mte:Ncmsn	poslanec
+.	mte:Z	.
+Podporo	mte:Ncfsa	podpora
+spremembam	mte:Ncfpd	sprememba
+je	mte:Va-r3s-n	biti
+napovedal	mte:Vmep-sm	napovedati
+tudi	mte:Q	tudi
+poslanec	mte:Ncmsn	poslanec
+Desus	mte:Npmsn	Desus
+Vili	mte:Npmsn	Vila
+Rezman	mte:Npmsn	Rezman
+.	mte:Z	.
+Sporno	mte:Agpnsn	sporen
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+zdi	mte:Vmpr3s	zdeti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+ukrepi	mte:Ncmpn	ukrep
+v	mte:Sl	v
+celoti	mte:Ncfsl	celota
+zaobšli	mte:Vmep-pm	zaobšti
+srednji	mte:Agpmsay	srednji
+sloj	mte:Ncmsan	sloj
+in	mte:Cc	in
+upokojence	mte:Ncmpa	upokojenec
+.	mte:Z	.
+V	mte:Sl	v
+SNS	mte:Npfsl	SNS
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+vlada	mte:Ncfsn	vlada
+z	mte:Si	z
+ukrepi	mte:Ncmpi	ukrep
+čakal	mte:Vmpp-sm	čakati
+predolgo	mte:Rgp	predolgo
+Da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+predlagani	mte:Appmpn	predlagan
+ukrepi	mte:Ncmpn	ukrep
+prišli	mte:Vmep-pm	priti
+nekoliko	mte:Rgp	nekoliko
+pozno	mte:Rgp	pozno
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+mnenja	mte:Ncnsg	mnenje
+poslanec	mte:Ncmsn	poslanec
+iz	mte:Sg	iz
+vrst	mte:Ncfpg	vrsta
+SNS	mte:Npfsg	SNS
+Bogdan	mte:Npmsn	Bogdan
+Barovič	mte:Npmsn	Barovič
+.	mte:Z	.
+Sploh	mte:Q	sploh
+glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+visoka	mte:Agpfsn	visok
+inflacija	mte:Ncfsn	inflacija
+pojavlja	mte:Vmpr3s	pojavljati
+že	mte:Q	že
+več	mte:Rgc	več
+mesecev	mte:Ncmpg	mesec
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+ocenil	mte:Vmep-sm	oceniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+do	mte:Sg	do
+vladnega	mte:Agpmsg	vladen
+predloga	mte:Ncmsg	predlog
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+trenutku	mte:Ncmsl	trenutek
+prišlo	mte:Vmep-sn	priti
+,	mte:Z	,
+ker	mte:Cs	ker
+se	mte:Px------y	se
+nahajamo	mte:Vmpr1p	nahajati
+v	mte:Sl	v
+volilnem	mte:Agpnsl	volilen
+letu	mte:Ncnsl	leto
+.	mte:Z	.
+V	mte:Sl	v
+SD	mte:Npmsl	SD
+in	mte:Cc	in
+NP	mte:Npmsa	NP
+želijo	mte:Vmpr3p	želeti
+celovit	mte:Agpmsan	celovit
+program	mte:Ncmsan	program
+protiinflacijskih	mte:Agpmpg	protiinflacijski
+ukrepov	mte:Ncmpg	ukrep
+Poslanec	mte:Ncmsn	poslanec
+poslanske	mte:Agpfsg	poslanski
+skupine	mte:Ncfsg	skupina
+nepovezanih	mte:Agpmpg	nepovezan
+poslancev	mte:Ncmpg	poslanec
+Sašo	mte:Npmsn	Sašo
+Peče	mte:Npfsn	Peča
+je	mte:Va-r3s-n	biti
+predlagane	mte:Appfpa	predlagan
+spremembe	mte:Ncfpa	sprememba
+označil	mte:Vmep-sm	označiti
+za	mte:Sa	za
+všečne	mte:Agpfpa	všečen
+,	mte:Z	,
+a	mte:Cc	a
+po	mte:Sl	po
+njegovem	mte:Ps3mslsm	njegov
+ti	mte:Pd-mpn	ta
+za	mte:Sa	za
+blaženje	mte:Ncnsa	blaženje
+inflacije	mte:Ncfsg	inflacija
+niso	mte:Va-r3p-y	biti
+zadostni	mte:Agpmpn	zadosten
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+ne	mte:Q	ne
+sme	mte:Vmpr3s	smeti
+biti	mte:Va-n	biti
+edini	mte:Agpmsny	edin
+ukrep	mte:Ncmsn	ukrep
+vlade	mte:Ncfsg	vlada
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+obenem	mte:Rgp	obenem
+pa	mte:Cc	pa
+poudaril	mte:Vmep-sm	poudariti
+potrebo	mte:Ncfsa	potreba
+,	mte:Z	,
+da	mte:Cs	da
+Slovenija	mte:Npfsn	Slovenija
+dobi	mte:Vmer3s	dobiti
+celovit	mte:Agpmsan	celovit
+paket	mte:Ncmsan	paket
+rešitev	mte:Ncfpg	rešitev
+zoper	mte:Sa	zoper
+inflacijo	mte:Ncfsa	inflacija
+.	mte:Z	.
+Za	mte:Sa	za
+protiinflacijski	mte:Agpmsay	protiinflacijski
+program	mte:Ncmsan	program
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zavzel	mte:Vmep-sm	zavzeti
+tudi	mte:Q	tudi
+poslanec	mte:Ncmsn	poslanec
+SD	mte:Npmsg	SD
+Milan	mte:Npmsn	Milan
+M	mte:Npmsn	M
+.	mte:Z	.
+Cvikl	mte:Npmsn	Cvikl
+.	mte:Z	.
+Po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+vlada	mte:Ncfsn	vlada
+spoznala	mte:Vmbp-sf	spoznati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+preteklih	mte:Appmpl	pretekel
+mesecih	mte:Ncmpl	mesec
+ni	mte:Va-r3s-y	biti
+ravnala	mte:Vmpp-sf	ravnati
+prav	mte:Q	prav
+.	mte:Z	.
+"	mte:Z	"
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+prvi	mte:Mlomsa	prvi
+korak	mte:Ncmsan	korak
+,	mte:Z	,
+ki	mte:Cs	ki
+upam	mte:Vmpr1s	upati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+pripeljal	mte:Vmep-sm	pripeljati
+k	mte:Sd	k
+odpravi	mte:Ncfsd	odprava
+nekaterih	mte:Pi-fpg	nekateri
+neumnosti	mte:Ncfpg	neumnost
+v	mte:Sl	v
+davčni	mte:Agpfsl	davčen
+zakonodaji	mte:Ncfsl	zakonodaja
+"	mte:Z	"
+.	mte:Z	.
+Koalicija	mte:Ncfsn	koalicija
+:	mte:Z	:
+Predlagani	mte:Appmpn	predlagan
+ukrepi	mte:Ncmpn	ukrep
+so	mte:Va-r3p-n	biti
+ustrezni	mte:Agpmpn	ustrezen
+Predlagani	mte:Appmpn	predlagan
+ukrepi	mte:Ncmpn	ukrep
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+ustrezni	mte:Agpmpn	ustrezen
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+poslance	mte:Ncmpa	poslanec
+največje	mte:Agsfsg	velik
+koalicijske	mte:Agpfsg	koalicijski
+stranke	mte:Ncfsg	stranka
+Zvonka	mte:Npmsg	Zvonka
+Černača	mte:Npmsg	Černač
+.	mte:Z	.
+"	mte:Z	"
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+vrsti	mte:Ncfsl	vrsta
+so	mte:Va-r3p-n	biti
+predlagani	mte:Appmpn	predlagan
+ukrepi	mte:Ncmpn	ukrep
+namenjeni	mte:Appmpn	namenjen
+blažitvi	mte:Ncfsd	blažitev
+posledic	mte:Ncfpg	posledica
+neupravičenih	mte:Agpfpg	neupravičen
+podražitev	mte:Ncfpg	podražitev
+hrane	mte:Ncfsg	hrana
+,	mte:Z	,
+spremembe	mte:Ncfpn	sprememba
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+potrebno	mte:Agpnsn	potreben
+gledati	mte:Vmpn	gledati
+v	mte:Sl	v
+povezavi	mte:Ncfsl	povezava
+z	mte:Si	z
+ostalimi	mte:Appmpi	ostal
+ukrepi	mte:Ncmpi	ukrep
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+S	mte:Si	z
+predlogom	mte:Ncmsi	predlog
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+Cirila	mte:Npmsg	Cirilo
+Testena	mte:Npmsg	Testen
+zadovoljni	mte:Agpmpn	zadovoljen
+tudi	mte:Q	tudi
+v	mte:Sl	v
+NSi	mte:Npfsl	NSi
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+vlada	mte:Ncfsn	vlada
+na	mte:Sa	na
+inflacijo	mte:Ncfsa	inflacija
+sicer	mte:Q	sicer
+nima	mte:Vmpr3s-y	imeti
+vpliva	mte:Ncmsg	vpliv
+,	mte:Z	,
+saj	mte:Cc	saj
+jo	mte:Pp3fsa--y	on
+povzročajo	mte:Vmpr3p	povzročati
+visoke	mte:Agpfpn	visok
+cene	mte:Ncfpn	cena
+nafte	mte:Ncfsg	nafta
+na	mte:Sl	na
+svetovnih	mte:Agpmpl	svetoven
+trgih	mte:Ncmpl	trg
+.	mte:Z	.
+Zmanjšanje	mte:Ncnsa	zmanjšanje
+davčne	mte:Agpfsg	davčen
+obremenitve	mte:Ncfsg	obremenitev
+za	mte:Sa	za
+socialno	mte:Agpfsa	socialen
+najbolj	mte:Rgs	najbolj
+ogrožene	mte:Appfpa	ogrožen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+pozdravil	mte:Vmep-sm	pozdraviti
+tudi	mte:Q	tudi
+poslanec	mte:Ncmsn	poslanec
+SLS	mte:Npmsn	SLS
+Marjan	mte:Npmsn	Marjan
+Trofenik	mte:Npmsn	Trofenik
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+poleg	mte:Sg	poleg
+ukrepov	mte:Ncmpg	ukrep
+za	mte:Sa	za
+blaženje	mte:Ncnsa	blaženje
+inflacije	mte:Ncfsg	inflacija
+,	mte:Z	,
+potrebno	mte:Agpnsn	potreben
+sprejeti	mte:Vmen	sprejeti
+tudi	mte:Q	tudi
+ukrepe	mte:Ncmpa	ukrep
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+inflacijo	mte:Ncfsa	inflacija
+učinkovito	mte:Rgp	učinkovito
+zajezili	mte:Vmep-pm	zajeziti
+.	mte:Z	.
+LDS	mte:Npfsg	LDS
+:	mte:Z	:
+Predlagani	mte:Appmpn	predlagan
+ukrepi	mte:Ncmpn	ukrep
+ne	mte:Q	ne
+rešujejo	mte:Vmpr3p	reševati
+nastalega	mte:Appnsg	nastal
+vprašanja	mte:Ncnsg	vprašanje
+Mitja	mte:Npmsn	Mitja
+Slavinec	mte:Npmsn	Slavinec
+iz	mte:Sg	iz
+vrst	mte:Ncfpg	vrsta
+LDS	mte:Npfsg	LDS
+medtem	mte:Rgp	medtem
+predlaganim	mte:Appfpd	predlagan
+spremembam	mte:Ncfpd	sprememba
+očita	mte:Vmpr3s	očitati
+določene	mte:Appfpa	določen
+pomanjkljivosti	mte:Ncfpa	pomanjkljivost
+.	mte:Z	.
+Po	mte:Sl	po
+njegovem	mte:Ps3mslsm	njegov
+namreč	mte:Cc	namreč
+ukrepi	mte:Ncmpn	ukrep
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+izboljšali	mte:Vmep-pm	izboljšati
+položaja	mte:Ncmsg	položaj
+vsem	mte:Pg-mpd	ves
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+to	mte:Pd-nsa	ta
+potrebovali	mte:Vmpp-pm	potrebovati
+.	mte:Z	.
+Prepričan	mte:Appmsnn	prepričan
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+predlagani	mte:Appmpn	predlagan
+ukrepi	mte:Ncmpn	ukrep
+ne	mte:Q	ne
+rešujejo	mte:Vmpr3p	reševati
+nastalega	mte:Appmsg	nastal
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+vseeno	mte:Rgp	vseeno
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+spremembe	mte:Ncfpa	sprememba
+v	mte:Sl	v
+LDS	mte:Npfsl	LDS
+podprli	mte:Vmep-pm	podpreti

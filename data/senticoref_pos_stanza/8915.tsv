@@ -1,366 +1,394 @@
-token	tag
-Nova	Agpfsn
-gripa	Ncfsn
-se	Px------y
-je	Va-r3s-n
-pojavila	Vmep-sf
-tudi	Q
-na	Sl
-Osnovni	Agpfsl
-šoli	Ncfsl
-Spodnja	Agpfsn
-Idrija	Npfsn
-.	Z
-Zbolela	Vmep-sf
-je	Va-r3s-n
-skupina	Ncfsn
-učencev	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-v	Sl
-šoli	Ncfsl
-v	Sl
-naravi	Ncfsl
-,	Z
-najverjetneje	Rgs
-pa	Cc
-so	Va-r3p-n
-bili	Va-p-pm
-bolni	Agpmpn
-še	Q
-pred	Si
-odhodom	Ncmsi
-.	Z
-Nova	Agpfsn
-gripa	Ncfsn
-se	Px------y
-pojavlja	Vmpr3s
-tudi	Q
-na	Sl
-drugih	Mlpfpl
-osnovnih	Agpfpl
-šolah	Ncfpl
-.	Z
-Normalizacija	Ncfsn
-razmer	Ncfpg
-OŠ	Ncfsg
-Polzela	Npfsn
-.	Z
-Manjkalo	Vmpp-sn
-ej	Rgp
-25	Mdc
-otrok	Ncmpg
-,	Z
-vendar	Cc
-nihče	Pz-msn
-z	Si
-znaki	Ncmpi
-gripe	Ncfsg
-,	Z
-vsi	Pg-mpn
-le	Q
-z	Si
-znaki	Ncmpi
-prehlada	Ncmsg
-.	Z
-V	Sl
-šoli	Ncfsl
-je	Va-r3s-n
-nova	Agpfsn
-gripa	Ncfsn
-izbruhnila	Vmep-sf
-15	Mdc
-.	Z
-septembra	Ncmsg
-.	Z
-Takrat	Rgp
-je	Va-r3s-n
-manjkalo	Vmpp-sn
-94	Mdc
-učencev	Ncmpg
-,	Z
-pri	Sl
-desetih	Mlc-pl
-od	Sg
-njih	Pp3mpl
-je	Va-r3s-n
-bila	Va-p-sf
-nova	Agpfsn
-gripa	Ncfsn
-tudi	Q
-potrjena	Appfsn
-.	Z
-OŠ	Ncmsg
-Osmih	Mlc-pg
-talcev	Ncmpg
-Logatec	Npmsn
-.	Z
-Pred	Si
-dnevi	Ncmpi
-je	Va-r3s-n
-zakrožila	Vmep-sf
-informacija	Ncfsn
-,	Z
-da	Cs
-naj	Q
-bi	Va-c
-na	Sl
-šoli	Ncfsl
-izbruhnila	Vmep-sf
-gripa	Ncfsn
-.	Z
-Na	Sl
-šoli	Ncfsl
-so	Va-r3p-n
-povedali	Vmep-pm
-le	Q
-,	Z
-daj	Vmem2s
-niso	Va-r3p-y
-delali	Vmpp-pm
-seznamov	Ncmpg
-,	Z
-ker	Cs
-so	Va-r3p-n
-imeli	Vmpp-pm
-organizirane	Appmpa
-športne	Agpmpa
-in	Cc
-naravoslovne	Agpmpa
-dneve	Ncmpa
-,	Z
-da	Cs
-se	Px------y
-število	Ncnsn
-manjkajočih	Appmpg
-iz	Sg
-dneva	Ncmsg
-v	Sa
-dan	Ncmsan
-manjša	Agcfsn
-in	Cc
-da	Cs
-pouk	Ncmsnn
-poteka	Vmpr3s
-normalno	Agpnsn
-.	Z
-OŠ	Ncfsg
-Brinje	Npfsn
-,	Z
-Grosuplje	Npmsn
-.	Z
-Manjkalo	Vmpp-sn
-je	Va-r3s-n
-23	Mdc
-učencev	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-manj	Rgc
-kot	Cs
-na	Sa
-isti	Pi-msa
-datum	Ncmsan
-lani	Rgp
-.	Z
-Nihče	Pz-msn
-od	Sg
-njih	Pp3mpg
-naj	Q
-ne	Q
-bi	Va-c
-imel	Vmpp-sm
-pandemske	Agpfsg
-gripe	Ncfsg
-.	Z
-OŠ	Ncfsg
-Ivana	Npmsg
-Cankarja	Npmsg
-in	Cc
-OŠ	Npfsg
-Antona	Npmsg
-Martina	Npmsg
-Slomška	Npmsg
-,	Z
-Vrhnika	Npfsn
-.	Z
-Nobena	Pz-fsn
-izmed	Sg
-šol	Ncfpg
-ni	Va-r3s-y
-opazila	Vmep-sf
-znakov	Ncmpg
-pandemske	Agpfsg
-gripe	Ncfsg
-,	Z
-vendar	Cc
-pa	Cc
-preventivno	Rgp
-sodelujejo	Vmpr3p
-z	Si
-lokalnim	Agpmsi
-zdravstvenim	Agpmsi
-domom	Ncmsi
-,	Z
-so	Va-r3p-n
-pojasnili	Vmep-pm
-v	Sl
-obeh	Pg-mdl
-.	Z
-Ravnatelj	Ncmsn
-Osnovne	Agpfsg
-šole	Ncfsg
-Spodnja	Agpfsn
-Idrija	Npfsn
-Ratko	Npmsn
-Vehar	Npmsn
-je	Va-r3s-n
-priznal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-tudi	Q
-uradno	Rgp
-potrjen	Appmsnn
-sum	Ncmsn
-na	Sa
-novo	Agpfsa
-gripo	Ncfsa
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-pojavila	Vmep-sf
-v	Sl
-skupini	Ncfsl
-30	Mdc
-učencev	Ncmpg
-7	Mdc
-.	Z
-razreda	Ncmsg
-.	Z
-Prejšnji	Agpmsay
-teden	Ncmsan
-so	Va-r3p-n
-bili	Va-p-pm
-namreč	Cc
-v	Sl
-šoli	Ncfsl
-v	Sl
-naravi	Ncfsl
-nad	Si
-Kobaridom	Npmsi
-,	Z
-kjer	Cs
-se	Px------y
-je	Va-r3s-n
-okužba	Ncfsn
-z	Si
-lahkoto	Ncfsi
-širila	Vmpp-sf
-.	Z
-Nekateri	Pi-mpn
-naj	Q
-bi	Va-c
-zboleli	Vmep-pm
-še	Q
-pred	Si
-odhodom	Ncmsi
-v	Sa
-Kobarid	Npmsan
-,	Z
-tam	Rgp
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-okužili	Vmep-pm
-še	Q
-drugi	Mlpmpn
-.	Z
-Po	Sl
-povratku	Ncmsl
-je	Va-r3s-n
-Zdravstveni	Agpmsny
-dom	Ncmsn
-Idrija	Npfsn
-obiskalo	Vmep-sn
-nekaj	Rgp
-učencev	Ncmpg
-,	Z
-enemu	Mlpmsd
-od	Sg
-njih	Pp3mpg
-pa	Cc
-so	Va-r3p-n
-vzeli	Vmep-pm
-bris	Ncmsan
-,	Z
-ki	Cs
-je	Va-r3s-n
-potrdil	Vmep-sm
-prisotnost	Ncfsa
-virusa	Ncmsg
-nove	Agpfsg
-gripe	Ncfsg
-.	Z
-Koliko	Rgp
-učencev	Ncmpg
-natančno	Rgp
-je	Va-r3s-n
-zbolelo	Vmep-sn
-,	Z
-še	Q
-ni	Va-r3s-y
-znano	Appnsn
-.	Z
-V	Sa
-ponedeljek	Ncmsan
-je	Va-r3s-n
-manjkalo	Vmpp-sn
-15	Mdc
-od	Sg
-30	Mdc
-učencev	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-v	Sl
-šoli	Ncfsl
-v	Sl
-naravi	Ncfsl
-,	Z
-pravi	Vmbr3s
-Vehar	Npmsn
-,	Z
-danes	Rgp
-pa	Cc
-jih	Pp3mpa--y
-manjka	Vmpr3s
-le	Q
-še	Q
-11	Mdc
-.	Z
-Skupno	Rgp
-sicer	Q
-v	Sl
-šoli	Ncfsl
-manjka	Vmpr3s
-27	Mdc
-učencev	Ncmpg
-od	Sg
-225	Mdc
-.	Z
-Vehar	Npmsn
-zatrjuje	Vmpr3s
-,	Z
-da	Cs
-med	Si
-starši	Ncmpi
-in	Cc
-učenci	Ncmpi
-ni	Va-r3s-y
-panike	Ncfsg
-.	Z
+token	tag	lemma
+Nova	mte:Agpfsn	nov
+gripa	mte:Ncfsn	gripa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pojavila	mte:Vmep-sf	pojaviti
+tudi	mte:Q	tudi
+na	mte:Sl	na
+Osnovni	mte:Agpfsl	osnoven
+šoli	mte:Ncfsl	šola
+Spodnja	mte:Agpfsn	spodnji
+Idrija	mte:Npfsn	Idrija
+.	mte:Z	.
+Zbolela	mte:Vmep-sf	zboleti
+je	mte:Va-r3s-n	biti
+skupina	mte:Ncfsn	skupina
+učencev	mte:Ncmpg	učenec
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+v	mte:Sl	v
+šoli	mte:Ncfsl	šola
+v	mte:Sl	v
+naravi	mte:Ncfsl	narava
+,	mte:Z	,
+najverjetneje	mte:Rgs	verjetno
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+bolni	mte:Agpmpn	bolan
+še	mte:Q	še
+pred	mte:Si	pred
+odhodom	mte:Ncmsi	odhod
+.	mte:Z	.
+Nova	mte:Agpfsn	nov
+gripa	mte:Ncfsn	gripa
+se	mte:Px------y	se
+pojavlja	mte:Vmpr3s	pojavljati
+tudi	mte:Q	tudi
+na	mte:Sl	na
+drugih	mte:Mlpfpl	drug
+osnovnih	mte:Agpfpl	osnoven
+šolah	mte:Ncfpl	šola
+.	mte:Z	.
+Normalizacija	mte:Ncfsn	normalizacija
+razmer	mte:Ncfpg	razmera
+OŠ	mte:Ncfsg	OŠ
+Polzela	mte:Npfsn	Polzela
+.	mte:Z	.
+Manjkalo	mte:Vmpp-sn	manjkati
+ej	mte:Rgp	ej
+25	mte:Mdc	25
+otrok	mte:Ncmpg	otrok
+,	mte:Z	,
+vendar	mte:Cc	vendar
+nihče	mte:Pz-msn	nihče
+z	mte:Si	z
+znaki	mte:Ncmpi	znak
+gripe	mte:Ncfsg	gripa
+,	mte:Z	,
+vsi	mte:Pg-mpn	ves
+le	mte:Q	le
+z	mte:Si	z
+znaki	mte:Ncmpi	znak
+prehlada	mte:Ncmsg	prehlada
+.	mte:Z	.
+V	mte:Sl	v
+šoli	mte:Ncfsl	šola
+je	mte:Va-r3s-n	biti
+nova	mte:Agpfsn	nov
+gripa	mte:Ncfsn	gripa
+izbruhnila	mte:Vmep-sf	izbruhniti
+15	mte:Mdc	15
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Takrat	mte:Rgp	takrat
+je	mte:Va-r3s-n	biti
+manjkalo	mte:Vmpp-sn	manjkati
+94	mte:Mdc	94
+učencev	mte:Ncmpg	učenec
+,	mte:Z	,
+pri	mte:Sl	pri
+desetih	mte:Mlc-pl	deset
+od	mte:Sg	od
+njih	mte:Pp3mpl	on
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+nova	mte:Agpfsn	nov
+gripa	mte:Ncfsn	gripa
+tudi	mte:Q	tudi
+potrjena	mte:Appfsn	potrjen
+.	mte:Z	.
+OŠ	mte:Ncmsg	OŠ
+Osmih	mte:Mlc-pg	osem
+talcev	mte:Ncmpg	talec
+Logatec	mte:Npmsn	Logatec
+.	mte:Z	.
+Pred	mte:Si	pred
+dnevi	mte:Ncmpi	dan
+je	mte:Va-r3s-n	biti
+zakrožila	mte:Vmep-sf	zakrožiti
+informacija	mte:Ncfsn	informacija
+,	mte:Z	,
+da	mte:Cs	da
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+na	mte:Sl	na
+šoli	mte:Ncfsl	šola
+izbruhnila	mte:Vmep-sf	izbruhniti
+gripa	mte:Ncfsn	gripa
+.	mte:Z	.
+Na	mte:Sl	na
+šoli	mte:Ncfsl	šola
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+le	mte:Q	le
+,	mte:Z	,
+daj	mte:Vmem2s	dati
+niso	mte:Va-r3p-y	biti
+delali	mte:Vmpp-pm	delati
+seznamov	mte:Ncmpg	seznam
+,	mte:Z	,
+ker	mte:Cs	ker
+so	mte:Va-r3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+organizirane	mte:Appmpa	organiziran
+športne	mte:Agpmpa	športen
+in	mte:Cc	in
+naravoslovne	mte:Agpmpa	naravosloven
+dneve	mte:Ncmpa	dan
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+število	mte:Ncnsn	število
+manjkajočih	mte:Appmpg	manjkajoč
+iz	mte:Sg	iz
+dneva	mte:Ncmsg	dan
+v	mte:Sa	v
+dan	mte:Ncmsan	dan
+manjša	mte:Agcfsn	majhen
+in	mte:Cc	in
+da	mte:Cs	da
+pouk	mte:Ncmsnn	pouk
+poteka	mte:Vmpr3s	potekati
+normalno	mte:Agpnsn	normalen
+.	mte:Z	.
+OŠ	mte:Ncfsg	OŠ
+Brinje	mte:Npfsn	Brinje
+,	mte:Z	,
+Grosuplje	mte:Npmsn	Grosuplje
+.	mte:Z	.
+Manjkalo	mte:Vmpp-sn	manjkati
+je	mte:Va-r3s-n	biti
+23	mte:Mdc	23
+učencev	mte:Ncmpg	učenec
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+na	mte:Sa	na
+isti	mte:Pi-msa	isti
+datum	mte:Ncmsan	datum
+lani	mte:Rgp	lani
+.	mte:Z	.
+Nihče	mte:Pz-msn	nihče
+od	mte:Sg	od
+njih	mte:Pp3mpg	on
+naj	mte:Q	naj
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+pandemske	mte:Agpfsg	pandemski
+gripe	mte:Ncfsg	gripa
+.	mte:Z	.
+OŠ	mte:Ncfsg	OŠ
+Ivana	mte:Npmsg	Ivan
+Cankarja	mte:Npmsg	Cankar
+in	mte:Cc	in
+OŠ	mte:Npfsg	OŠ
+Antona	mte:Npmsg	Anton
+Martina	mte:Npmsg	Martin
+Slomška	mte:Npmsg	Slomška
+,	mte:Z	,
+Vrhnika	mte:Npfsn	Vrhnik
+.	mte:Z	.
+Nobena	mte:Pz-fsn	noben
+izmed	mte:Sg	izmed
+šol	mte:Ncfpg	šola
+ni	mte:Va-r3s-y	biti
+opazila	mte:Vmep-sf	opaziti
+znakov	mte:Ncmpg	znak
+pandemske	mte:Agpfsg	pandemski
+gripe	mte:Ncfsg	gripa
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+preventivno	mte:Rgp	preventivno
+sodelujejo	mte:Vmpr3p	sodelovati
+z	mte:Si	z
+lokalnim	mte:Agpmsi	lokalen
+zdravstvenim	mte:Agpmsi	zdravstven
+domom	mte:Ncmsi	dom
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+v	mte:Sl	v
+obeh	mte:Pg-mdl	oba
+.	mte:Z	.
+Ravnatelj	mte:Ncmsn	ravnatelj
+Osnovne	mte:Agpfsg	osnoven
+šole	mte:Ncfsg	šola
+Spodnja	mte:Agpfsn	spodnji
+Idrija	mte:Npfsn	Idrija
+Ratko	mte:Npmsn	Ratko
+Vehar	mte:Npmsn	Vehar
+je	mte:Va-r3s-n	biti
+priznal	mte:Vmep-sm	priznati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+uradno	mte:Rgp	uradno
+potrjen	mte:Appmsnn	potrjen
+sum	mte:Ncmsn	sum
+na	mte:Sa	na
+novo	mte:Agpfsa	nov
+gripo	mte:Ncfsa	gripa
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pojavila	mte:Vmep-sf	pojaviti
+v	mte:Sl	v
+skupini	mte:Ncfsl	skupina
+30	mte:Mdc	30
+učencev	mte:Ncmpg	učenec
+7	mte:Mdc	7
+.	mte:Z	.
+razreda	mte:Ncmsg	razred
+.	mte:Z	.
+Prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+namreč	mte:Cc	namreč
+v	mte:Sl	v
+šoli	mte:Ncfsl	šola
+v	mte:Sl	v
+naravi	mte:Ncfsl	narava
+nad	mte:Si	nad
+Kobaridom	mte:Npmsi	Kobarid
+,	mte:Z	,
+kjer	mte:Cs	kjer
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+okužba	mte:Ncfsn	okužba
+z	mte:Si	z
+lahkoto	mte:Ncfsi	lahkota
+širila	mte:Vmpp-sf	širiti
+.	mte:Z	.
+Nekateri	mte:Pi-mpn	nekateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+zboleli	mte:Vmep-pm	zboleti
+še	mte:Q	še
+pred	mte:Si	pred
+odhodom	mte:Ncmsi	odhod
+v	mte:Sa	v
+Kobarid	mte:Npmsan	Kobarid
+,	mte:Z	,
+tam	mte:Rgp	tam
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+okužili	mte:Vmep-pm	okužiti
+še	mte:Q	še
+drugi	mte:Mlpmpn	drug
+.	mte:Z	.
+Po	mte:Sl	po
+povratku	mte:Ncmsl	povratek
+je	mte:Va-r3s-n	biti
+Zdravstveni	mte:Agpmsny	zdravstven
+dom	mte:Ncmsn	dom
+Idrija	mte:Npfsn	Idrija
+obiskalo	mte:Vmep-sn	obiskati
+nekaj	mte:Rgp	nekaj
+učencev	mte:Ncmpg	učenec
+,	mte:Z	,
+enemu	mte:Mlpmsd	en
+od	mte:Sg	od
+njih	mte:Pp3mpg	on
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+vzeli	mte:Vmep-pm	vzeti
+bris	mte:Ncmsan	bris
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+potrdil	mte:Vmep-sm	potrditi
+prisotnost	mte:Ncfsa	prisotnost
+virusa	mte:Ncmsg	virus
+nove	mte:Agpfsg	nov
+gripe	mte:Ncfsg	gripa
+.	mte:Z	.
+Koliko	mte:Rgp	koliko
+učencev	mte:Ncmpg	učenec
+natančno	mte:Rgp	natančno
+je	mte:Va-r3s-n	biti
+zbolelo	mte:Vmep-sn	zboleti
+,	mte:Z	,
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+znano	mte:Appnsn	znan
+.	mte:Z	.
+V	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+je	mte:Va-r3s-n	biti
+manjkalo	mte:Vmpp-sn	manjkati
+15	mte:Mdc	15
+od	mte:Sg	od
+30	mte:Mdc	30
+učencev	mte:Ncmpg	učenec
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+v	mte:Sl	v
+šoli	mte:Ncfsl	šola
+v	mte:Sl	v
+naravi	mte:Ncfsl	narava
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+Vehar	mte:Npmsn	Vehar
+,	mte:Z	,
+danes	mte:Rgp	danes
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+manjka	mte:Vmpr3s	manjkati
+le	mte:Q	le
+še	mte:Q	še
+11	mte:Mdc	11
+.	mte:Z	.
+Skupno	mte:Rgp	skupno
+sicer	mte:Q	sicer
+v	mte:Sl	v
+šoli	mte:Ncfsl	šola
+manjka	mte:Vmpr3s	manjkati
+27	mte:Mdc	27
+učencev	mte:Ncmpg	učenec
+od	mte:Sg	od
+225	mte:Mdc	225
+.	mte:Z	.
+Vehar	mte:Npmsn	Vehar
+zatrjuje	mte:Vmpr3s	zatrjevati
+,	mte:Z	,
+da	mte:Cs	da
+med	mte:Si	med
+starši	mte:Ncmpi	starš
+in	mte:Cc	in
+učenci	mte:Ncmpi	učenec
+ni	mte:Va-r3s-y	biti
+panike	mte:Ncfsg	panika
+.	mte:Z	.
+Mnenje	mte:Ncnsn	mnenje
+o	mte:Sl	o
+novi	mte:Agpfsl	nov
+gripi	mte:Ncfsl	grip
+v	mte:Sl	v
+Spodnji	mte:Agpfsl	spodnji
+Idriji	mte:Npfsl	Idrija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ga	mte:Pp3msa--y	on
+podali	mte:Vmbp-pm	podati
+tudi	mte:Q	tudi
+starši	mte:Ncmpn	starš
+in	mte:Cc	in
+zaposleni	mte:Appmpn	zaposlen
+v	mte:Sl	v
+Zdravstvenem	mte:Agpmsl	zdravstven
+domu	mte:Ncmsl	dom
+Idrija	mte:Npfsn	Idrija
+,	mte:Z	,
+pa	mte:Cc	pa
+si	mte:Px---d--y	se
+lahko	mte:Rgp	lahko
+ogledate	mte:Vmer2p	ogledati
+v	mte:Sl	v
+video	mte:Ncmsn	video
+posnetku	mte:Ncmsl	posnetek

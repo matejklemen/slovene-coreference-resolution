@@ -1,542 +1,618 @@
-token	tag
-V	Sl
-objavljenih	Appmpl
-podatkih	Ncmpl
-o	Sl
-letnih	Agpmpl
-prihodkih	Ncmpl
-Emila	Npmsg
-Tedeschija	Npmsg
-je	Va-r3s-n
-moč	Ncfsn
-razbrati	Vmen
-,	Z
-da	Cs
-je	Va-r3s-n
-glavni	Agpmsny
-mož	Ncmsn
-hrvaške	Agpfsg
-Atlantic	Npmsn
-Grupe	Npfsg
-samo	Q
-za	Sa
-t.i	Mdc
-.	Z
-krizni	Agpmsay
-davek	Ncmsan
-odštel	Vmep-sm
-400	Mdc
-tisoč	Mlc-pa
-kun	Ncfpg
-(	Z
-54000	Mdc
-evrov	Ncmpg
-)	Z
-.	Z
-Atlantic	Npmsn
-Grupa	Npfsn
-je	Va-r3s-n
-svojemu	Px-msd
-večinskemu	Agpmsd
-lastniku	Ncmsd
-in	Cc
-predsedniku	Ncmsd
-uprave	Ncfsg
-Emilu	Npmsd
-Tedeschiju	Npmsd
-izplačala	Vmbp-sf
-10,4	Mdc
-milijona	Ncmsg
-kun	Ncmpg
-(	Z
-1,4	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-)	Z
-dividend	Ncfpg
-,	Z
-menedžersko	Agpfsa
-neto	Ncfsa
-plačo	Ncfsa
-87,9	Mdc
-tisoč	Mlc-pa
-kun	Ncfpg
-(	Z
-skoraj	Q
-12	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-mesečno	Agpfsa
-in	Cc
-še	Q
-mesečno	Agpfsa
-stimulacijo	Ncfsa
-oziroma	Cc
-bonus	Ncmsan
-v	Sl
-višini	Ncfsl
-2,7	Mdc
-milijona	Ncmsg
-kun	Ncmpg
-(	Z
-370	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-,	Z
-poroča	Vmpr3s
-Jutarnji.hr	Npmsn
-.	Z
-Na	Sl
-podlagi	Ncfsl
-tega	Pd-msg
-zaslužka	Ncmsg
-je	Va-r3s-n
-Tedeschi	Npmsn
-v	Sa
-državno	Agpnsa
-blagajno	Agpnsa
-samo	Q
-zaradi	Sg
-kriznega	Agpmsg
-davka	Ncmsg
-prispeval	Vmbp-sm
-približno	Rgp
-400	Mdc
-tisoč	Mlc-pa
-kun	Ncfpg
-(	Z
-54	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-.	Z
-Tedeschi	Npmsn
-je	Va-r3s-n
-,	Z
-kot	Cs
-ocenjujejo	Vmpr3p
-,	Z
-lani	Rgp
-samo	Q
-na	Sl
-podlagi	Ncfsl
-svoje	Px-fsg
-plače	Ncfsg
-plačal	Vmep-sm
-79	Mdc
-tisoč	Mlc-pa
-kun	Ncmpg
-tega	Pd-msg
-istega	Pi-msg
-davka	Ncmsg
-.	Z
-Enak	Pi-msa
-znesek	Ncmsan
-bi	Va-c
-skupaj	Rgp
-vplačalo	Vmep-sn
-25	Mdc
-Zagrebških	Agpmpg
-delavcev	Ncmpg
-s	Si
-povprečno	Agpfsi
-plačo	Ncfsi
-v	Sa
-pokojninski	Agpmsay
-solidarnostni	Agpmsay
-sklad	Ncmsan
-v	Sl
-celem	Agpnsl
-letu	Ncnsl
-,	Z
-poroča	Vmpr3s
-Jutarnji	Npfsn
-.	Z
-Ivica	Npmsn
-Mudrinić	Npmsn
-,	Z
-predsednik	Ncmsn
-uprave	Ncfsg
-Hrvaškega	Agpmsg
-Telekoma	Npmsg
-,	Z
-je	Va-r3s-n
-lestvico	Ncfsa
-transparentnosti	Ncfsg
-že	Q
-pred	Si
-dvema	Mlcndi
-letoma	Ncndi
-postavil	Vmep-sm
-precej	Rgp
-visoko	Agpfsa
-.	Z
-Ne	Q
-le	Q
-,	Z
-da	Cs
-T	Npmsn
--	Z
-HT	Npmsn
-redno	Rgp
-objavlja	Vmpr3s
-njegovo	Ps3fsasm
-in	Cc
-plače	Ncfpa
-vseh	Pg-mpg
-ostalih	Appmpg
-članov	Ncmpg
-uprave	Ncfsg
-,	Z
-predstavijo	Vmer3p
-jih	Pp3fpa--y
-celo	Q
-kot	Cs
-neto	Agpmsay
-mesečni	Agpmsay
-prihodek	Ncmsan
-.	Z
-Mudrinićeva	Aspfsn
-plača	Ncfsn
-je	Va-r3s-n
-lani	Rgp
-znašala	Vmpp-sf
-približno	Rgp
-83,3	Mdc
-tisoč	Mlc-pa
-(	Z
-11,2	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-kun	Ncmsg
-mesečno	Rgp
-.	Z
-Na	Sl
-koncu	Ncmsl
-leta	Ncnsg
-pa	Cc
-je	Va-r3s-n
-dobil	Vmep-sm
-še	Q
-666,2	Mdc
-tisoč	Mlc-pa
-kun	Ncmpg
-(	Z
-90	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-menedžerskega	Agpmsg
-bonusa	Ncmsg
-.	Z
-Tako	Rgp
-je	Va-r3s-n
-moral	Vmpp-sm
-v	Sa
-državno	Agpfsa
-skrinjico	Ncfsa
-položiti	Vmen
-76,4	Mdc
-kun	Ncmpg
-za	Sa
-krizni	Agpmsay
-davek	Ncmsan
-.	Z
-To	Pd-nsn
-je	Va-r3s-n
-enak	Pi-msn
-znesek	Ncmsn
-,	Z
-kot	Cs
-ga	Pp3msa--y
-tekom	Ncmsn
-celega	Agpnsg
-leta	Ncnsg
-zasluži	Vmer3s
-pripravnik	Ncmsn
-v	Sl
-njegovem	Ps3nslsm
-podjetju	Ncnsl
-.	Z
-V	Sl
-primerjavi	Ncfsl
-z	Si
-letom	Ncnsi
-2008	Mdc
-pa	Cc
-je	Va-r3s-n
-bila	Va-p-sf
-plača	Ncfsn
-Mudrinća	Npmsg
-letos	Rgp
-še	Q
-za	Sa
-tri	Mlcmpa
-tisočake	Ncmpa
-večja	Agcfsn
-.	Z
-Krizni	Agpmsny
-davek	Ncmsn
-je	Va-r3s-n
-tri	Mlcmpa
-člane	Ncmpa
-uprave	Ncfsg
-T	Npmsn
--	Z
-HT	Npmsn
-,	Z
-Ireno	Npfsa
-Jolić	Npfsn
-Šimović	Npmsn
-,	Z
-Božidarja	Npmsg
-Poldrugača	Npmsg
-in	Cc
-Branko	Npmsn
-Skaramuč	Npmsn
-,	Z
-skupaj	Rgp
-stal	Vmpp-sm
-118,8	Mdc
-(	Z
-16	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-)	Z
-milijonov	Ncmpg
-kun	Ncmpg
-,	Z
-sedem	Mlc-pa
-ključnih	Agpmpg
-Tedeschijevih	Aspmpg
-menedžerjev	Ncmpg
-,	Z
-katerih	Pq-fpg
-bruto	Agpfpn
-plače	Ncfpn
-so	Va-r3p-n
-prav	Q
-tako	Rgp
-javno	Rgp
-objavljene	Appfpn
-,	Z
-pa	Cc
-najmanj	Rgs
-350	Mdc
-tisoč	Mlc-pa
-kun	Ncfpg
-.	Z
-Franjo	Npmsn
-Luković	Npmsn
-in	Cc
-Božo	Npmsn
-Prka	Npmsn
-,	Z
-predsedniki	Ncmpn
-uprave	Ncfsg
-t.i	Mdc
-.	Z
-Zagrebačke	Ncfpn
-,	Z
-torej	Rgp
-Privredne	Agpfpn
-banke	Ncfpn
-,	Z
-dva	Mlcmdn
-najmočnejša	Agsmdn
-in	Cc
-najbolje	Rgs
-plačana	Appmdn
-hrvaška	Agpmdn
-bankirja	Ncmdn
-,	Z
-katerih	Pq-fpg
-plače	Ncfpn
-so	Va-r3p-n
-poslovna	Agpfsn
-skrivnost	Ncfsn
-,	Z
-ocenjujejo	Vmpr3p
-pa	Cc
-jih	Pp3mpa--y
-na	Sa
-približno	Rgp
-mesečnih	Agpmpl
-90	Mdc
-tisoč	Mlc-pa
-kun	Ncfpg
-(	Z
-12	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-neto	Ncnsn
-,	Z
-sta	Va-r3d-n
-plačala	Vmep-dm
-vsaj	Q
-50	Mdc
-tisoč	Mlc-pa
-kun	Ncfpg
-(	Z
-skoraj	Q
-sedem	Mlc-pa
-tisoč	Mlc-pa
-evrov	Ncmpg
-)	Z
-davka	Ncmsg
-vsak	Pg-msn
-.	Z
-Redna	Agpfsn
-plača	Ncfsn
-pa	Cc
-je	Va-r3s-n
-le	Q
-del	Ncmsn
-njunih	Ps3mpgp
-skupnih	Agpmpg
-prihodkov	Ncmpg
-.	Z
-Po	Sl
-izračunih	Ncmpl
-hrvaškega	Agpmsg
-Forbesa	Npmsg
-,	Z
-sta	Va-r3d-n
-zadnji	Agpnda
-dve	Mlcnda
-leti	Ncnda
-najbolje	Rgs
-plačana	Appmdn
-hrvaška	Agpmdn
-menedžerja	Ncmdn
-prav	Q
-Luković	Npmsn
-in	Cc
-Prka	Npmsn
-.	Z
-Večina	Ncfsn
-plače	Ncfsg
-se	Px------y
-jima	Pp3mdd--y
-izplačuje	Vmpr3s
-v	Sl
-delnicah	Ncfpl
-banke	Ncfsg
-,	Z
-kot	Cs
-bonus	Ncmsn
-za	Sa
-dobro	Agpnsa
-opravljeno	Appnsa
-delo	Ncnsa
-,	Z
-tu	Rgp
-pa	Cc
-so	Va-r3p-n
-še	Q
-dividende	Ncfpn
-od	Sg
-delnic	Ncfpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-imata	Vmpr3d-n
-v	Sl
-lasti	Ncfsl
-še	Q
-od	Sg
-prej	Rgc
-.	Z
-Praksa	Ncfsn
-popolnoma	Rgp
-transparentnega	Agpnsg
-objavljanja	Ncnsg
-menedžerskih	Agpfpg
-plač	Ncfpg
-,	Z
-s	Si
-katero	Pq-fsi
-je	Va-r3s-n
-začel	Vmep-sm
-hrvaški	Agpmsny
-Telekom	Npmsn
-,	Z
-omogoča	Vmpr3s
-točno	Agpfsa
-oceno	Ncfsa
-višine	Ncfsg
-prihodkov	Ncmpg
-tudi	Q
-v	Sl
-tistih	Pd-npl
-podjetjih	Ncnpl
-,	Z
-ki	Cs
-ne	Q
-objavljajo	Vmpr3p
-takih	Pd-mpg
-podatkov	Ncmpg
-.	Z
-Plače	Ncfsg
-se	Px------y
-na	Sl
-majhnem	Agpnsl
-tržišču	Ncnsl
-,	Z
-kot	Cs
-je	Va-r3s-n
-hrvaško	Agpnsn
-,	Z
-namreč	Cc
-formirajo	Vmbr3p
-brez	Sg
-večjih	Agcnpg
-odstopanj	Ncnpg
-.	Z
-Za	Sa
-prihodke	Ncmpa
-ostalih	Appmpg
-'	Z
-top	Ncmsg
-'	Z
-menedžerjev	Ncmpg
-velikih	Agpnpg
-podjetij	Ncnpg
-ni	Va-r3s-y
-podatkov	Ncmpg
-,	Z
-sem	Rgp
-spadata	Vmpr3d
-tudi	Q
-Agrokor	Npmsn
-ter	Cc
-Ina.Člani	Npmsn
-uprave	Ncfsg
-Atlantic	Npmsn
-Grupe	Npfsg
-in	Cc
-njihove	Ps3fpgp
-plače	Ncfsg
-Navedeni	Appmpn
-so	Va-r3p-n
-bruto	Agpmpn
-prihodki	Ncmpn
-.	Z
-Vsak	Pg-msn
-od	Sg
-članov	Ncmpg
-uprave	Ncfsg
-je	Va-r3s-n
-v	Sa
-državno	Rgp
-blagajno	Rgp
-doprinesel	Vmep-sm
-približno	Rgp
-50	Mdc
-tisoč	Mlc-pa
-kun	Ncfpg
-.	Z
+token	tag	lemma
+V	mte:Sl	v
+objavljenih	mte:Appmpl	objavljen
+podatkih	mte:Ncmpl	podatek
+o	mte:Sl	o
+letnih	mte:Agpmpl	leten
+prihodkih	mte:Ncmpl	prihodek
+Emila	mte:Npmsg	Emila
+Tedeschija	mte:Npmsg	Tedeschija
+je	mte:Va-r3s-n	biti
+moč	mte:Ncfsn	moč
+razbrati	mte:Vmen	razbrati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+glavni	mte:Agpmsny	glaven
+mož	mte:Ncmsn	mož
+hrvaške	mte:Agpfsg	hrvaški
+Atlantic	mte:Npmsn	Atlantic
+Grupe	mte:Npfsg	Grupe
+samo	mte:Q	samo
+za	mte:Sa	za
+t.i	mte:Mdc	t.i
+.	mte:Z	.
+krizni	mte:Agpmsay	krizen
+davek	mte:Ncmsan	davek
+odštel	mte:Vmep-sm	odštiti
+400	mte:Mdc	400
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncfpg	kun
+(	mte:Z	(
+54000	mte:Mdc	54000
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+.	mte:Z	.
+Atlantic	mte:Npmsn	Atlantic
+Grupa	mte:Npfsn	Grup
+je	mte:Va-r3s-n	biti
+svojemu	mte:Px-msd	svoj
+večinskemu	mte:Agpmsd	večinski
+lastniku	mte:Ncmsd	lastnik
+in	mte:Cc	in
+predsedniku	mte:Ncmsd	predsednik
+uprave	mte:Ncfsg	uprava
+Emilu	mte:Npmsd	Emil
+Tedeschiju	mte:Npmsd	Tedeschi
+izplačala	mte:Vmbp-sf	izplačati
+10,4	mte:Mdc	10,4
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+1,4	mte:Mdc	1,4
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+dividend	mte:Ncfpg	dividend
+,	mte:Z	,
+menedžersko	mte:Agpfsa	menedžerski
+neto	mte:Ncfsa	neto
+plačo	mte:Ncfsa	plača
+87,9	mte:Mdc	87,9
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncfpg	kun
+(	mte:Z	(
+skoraj	mte:Q	skoraj
+12	mte:Mdc	12
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+mesečno	mte:Agpfsa	mesečen
+in	mte:Cc	in
+še	mte:Q	še
+mesečno	mte:Agpfsa	mesečen
+stimulacijo	mte:Ncfsa	stimulacija
+oziroma	mte:Cc	oziroma
+bonus	mte:Ncmsan	bonus
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+2,7	mte:Mdc	2,7
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+370	mte:Mdc	370
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+Jutarnji.hr	mte:Npmsn	Jutarnji.hr
+.	mte:Z	.
+Na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+tega	mte:Pd-msg	ta
+zaslužka	mte:Ncmsg	zaslužek
+je	mte:Va-r3s-n	biti
+Tedeschi	mte:Npmsn	Tedeschi
+v	mte:Sa	v
+državno	mte:Agpnsa	državen
+blagajno	mte:Agpnsa	blagajen
+samo	mte:Q	samo
+zaradi	mte:Sg	zaradi
+kriznega	mte:Agpmsg	krizen
+davka	mte:Ncmsg	davek
+prispeval	mte:Vmbp-sm	prispevati
+približno	mte:Rgp	približno
+400	mte:Mdc	400
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncfpg	kun
+(	mte:Z	(
+54	mte:Mdc	54
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+.	mte:Z	.
+Tedeschi	mte:Npmsn	Tedeschi
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+ocenjujejo	mte:Vmpr3p	ocenjevati
+,	mte:Z	,
+lani	mte:Rgp	lani
+samo	mte:Q	samo
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+svoje	mte:Px-fsg	svoj
+plače	mte:Ncfsg	plača
+plačal	mte:Vmep-sm	plačati
+79	mte:Mdc	79
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncmpg	kun
+tega	mte:Pd-msg	ta
+istega	mte:Pi-msg	isti
+davka	mte:Ncmsg	davek
+.	mte:Z	.
+Enak	mte:Pi-msa	enak
+znesek	mte:Ncmsan	znesek
+bi	mte:Va-c	biti
+skupaj	mte:Rgp	skupaj
+vplačalo	mte:Vmep-sn	vplačati
+25	mte:Mdc	25
+Zagrebških	mte:Agpmpg	zagrebški
+delavcev	mte:Ncmpg	delavec
+s	mte:Si	z
+povprečno	mte:Agpfsi	povprečen
+plačo	mte:Ncfsi	plača
+v	mte:Sa	v
+pokojninski	mte:Agpmsay	pokojninski
+solidarnostni	mte:Agpmsay	solidarnosten
+sklad	mte:Ncmsan	sklad
+v	mte:Sl	v
+celem	mte:Agpnsl	cel
+letu	mte:Ncnsl	leto
+,	mte:Z	,
+poroča	mte:Vmpr3s	poročati
+Jutarnji	mte:Npfsn	Jutarnji
+.	mte:Z	.
+Ivica	mte:Npmsn	Ivica
+Mudrinić	mte:Npmsn	Mudrinić
+,	mte:Z	,
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Hrvaškega	mte:Agpmsg	hrvaški
+Telekoma	mte:Npmsg	Telekom
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+lestvico	mte:Ncfsa	lestvica
+transparentnosti	mte:Ncfsg	transparentnost
+že	mte:Q	že
+pred	mte:Si	pred
+dvema	mte:Mlcndi	dva
+letoma	mte:Ncndi	leto
+postavil	mte:Vmep-sm	postaviti
+precej	mte:Rgp	precej
+visoko	mte:Agpfsa	visok
+.	mte:Z	.
+Ne	mte:Q	ne
+le	mte:Q	le
+,	mte:Z	,
+da	mte:Cs	da
+T	mte:Npmsn	T
+-	mte:Z	-
+HT	mte:Npmsn	HT
+redno	mte:Rgp	redno
+objavlja	mte:Vmpr3s	objavljati
+njegovo	mte:Ps3fsasm	njegov
+in	mte:Cc	in
+plače	mte:Ncfpa	plača
+vseh	mte:Pg-mpg	ves
+ostalih	mte:Appmpg	ostal
+članov	mte:Ncmpg	član
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+predstavijo	mte:Vmer3p	predstaviti
+jih	mte:Pp3fpa--y	on
+celo	mte:Q	celo
+kot	mte:Cs	kot
+neto	mte:Agpmsay	neto
+mesečni	mte:Agpmsay	mesečen
+prihodek	mte:Ncmsan	prihodek
+.	mte:Z	.
+Mudrinićeva	mte:Aspfsn	Mudrinićev
+plača	mte:Ncfsn	plača
+je	mte:Va-r3s-n	biti
+lani	mte:Rgp	lani
+znašala	mte:Vmpp-sf	znašati
+približno	mte:Rgp	približno
+83,3	mte:Mdc	83,3
+tisoč	mte:Mlc-pa	tisoč
+(	mte:Z	(
+11,2	mte:Mdc	11,2
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+kun	mte:Ncmsg	kun
+mesečno	mte:Rgp	mesečno
+.	mte:Z	.
+Na	mte:Sl	na
+koncu	mte:Ncmsl	konec
+leta	mte:Ncnsg	leto
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+dobil	mte:Vmep-sm	dobiti
+še	mte:Q	še
+666,2	mte:Mdc	666,2
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+90	mte:Mdc	90
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+menedžerskega	mte:Agpmsg	menedžerski
+bonusa	mte:Ncmsg	bonus
+.	mte:Z	.
+Tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+moral	mte:Vmpp-sm	morati
+v	mte:Sa	v
+državno	mte:Agpfsa	državen
+skrinjico	mte:Ncfsa	skrinjica
+položiti	mte:Vmen	položiti
+76,4	mte:Mdc	76,4
+kun	mte:Ncmpg	kun
+za	mte:Sa	za
+krizni	mte:Agpmsay	krizen
+davek	mte:Ncmsan	davek
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+enak	mte:Pi-msn	enak
+znesek	mte:Ncmsn	znesek
+,	mte:Z	,
+kot	mte:Cs	kot
+ga	mte:Pp3msa--y	on
+tekom	mte:Ncmsn	tek
+celega	mte:Agpnsg	cel
+leta	mte:Ncnsg	leto
+zasluži	mte:Vmer3s	zaslužiti
+pripravnik	mte:Ncmsn	pripravnik
+v	mte:Sl	v
+njegovem	mte:Ps3nslsm	njegov
+podjetju	mte:Ncnsl	podjetje
+.	mte:Z	.
+V	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+letom	mte:Ncnsi	leto
+2008	mte:Mdc	2008
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+plača	mte:Ncfsn	plača
+Mudrinća	mte:Npmsg	Mudrinć
+letos	mte:Rgp	letos
+še	mte:Q	še
+za	mte:Sa	za
+tri	mte:Mlcmpa	trije
+tisočake	mte:Ncmpa	tisočak
+večja	mte:Agcfsn	velik
+.	mte:Z	.
+Krizni	mte:Agpmsny	krizen
+davek	mte:Ncmsn	davek
+je	mte:Va-r3s-n	biti
+tri	mte:Mlcmpa	trije
+člane	mte:Ncmpa	član
+uprave	mte:Ncfsg	uprava
+T	mte:Npmsn	T
+-	mte:Z	-
+HT	mte:Npmsn	HT
+,	mte:Z	,
+Ireno	mte:Npfsa	Irena
+Jolić	mte:Npfsn	Jolić
+Šimović	mte:Npmsn	Šimović
+,	mte:Z	,
+Božidarja	mte:Npmsg	Božidar
+Poldrugača	mte:Npmsg	Poldrugač
+in	mte:Cc	in
+Branko	mte:Npmsn	Branko
+Skaramuč	mte:Npmsn	Skaramuč
+,	mte:Z	,
+skupaj	mte:Rgp	skupaj
+stal	mte:Vmpp-sm	stati
+118,8	mte:Mdc	118,8
+(	mte:Z	(
+16	mte:Mdc	16
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+milijonov	mte:Ncmpg	milijon
+kun	mte:Ncmpg	kun
+,	mte:Z	,
+sedem	mte:Mlc-pa	sedem
+ključnih	mte:Agpmpg	ključen
+Tedeschijevih	mte:Aspmpg	Tedeschijev
+menedžerjev	mte:Ncmpg	menedžer
+,	mte:Z	,
+katerih	mte:Pq-fpg	kateri
+bruto	mte:Agpfpn	bruto
+plače	mte:Ncfpn	plača
+so	mte:Va-r3p-n	biti
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+javno	mte:Rgp	javno
+objavljene	mte:Appfpn	objavljen
+,	mte:Z	,
+pa	mte:Cc	pa
+najmanj	mte:Rgs	najmanj
+350	mte:Mdc	350
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncfpg	kun
+.	mte:Z	.
+Franjo	mte:Npmsn	Franjo
+Luković	mte:Npmsn	Luković
+in	mte:Cc	in
+Božo	mte:Npmsn	Božo
+Prka	mte:Npmsn	Prka
+,	mte:Z	,
+predsedniki	mte:Ncmpn	predsednik
+uprave	mte:Ncfsg	uprava
+t.i	mte:Mdc	t.i
+.	mte:Z	.
+Zagrebačke	mte:Ncfpn	zagrebačka
+,	mte:Z	,
+torej	mte:Rgp	torej
+Privredne	mte:Agpfpn	privreden
+banke	mte:Ncfpn	banka
+,	mte:Z	,
+dva	mte:Mlcmdn	dva
+najmočnejša	mte:Agsmdn	močen
+in	mte:Cc	in
+najbolje	mte:Rgs	dobro
+plačana	mte:Appmdn	plačan
+hrvaška	mte:Agpmdn	hrvaški
+bankirja	mte:Ncmdn	bankir
+,	mte:Z	,
+katerih	mte:Pq-fpg	kateri
+plače	mte:Ncfpn	plača
+so	mte:Va-r3p-n	biti
+poslovna	mte:Agpfsn	posloven
+skrivnost	mte:Ncfsn	skrivnost
+,	mte:Z	,
+ocenjujejo	mte:Vmpr3p	ocenjevati
+pa	mte:Cc	pa
+jih	mte:Pp3mpa--y	on
+na	mte:Sa	na
+približno	mte:Rgp	približno
+mesečnih	mte:Agpmpl	mesečen
+90	mte:Mdc	90
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncfpg	kun
+(	mte:Z	(
+12	mte:Mdc	12
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+neto	mte:Ncnsn	neto
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+plačala	mte:Vmep-dm	plačati
+vsaj	mte:Q	vsaj
+50	mte:Mdc	50
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncfpg	kun
+(	mte:Z	(
+skoraj	mte:Q	skoraj
+sedem	mte:Mlc-pa	sedem
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+davka	mte:Ncmsg	davek
+vsak	mte:Pg-msn	vsak
+.	mte:Z	.
+Redna	mte:Agpfsn	reden
+plača	mte:Ncfsn	plača
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+le	mte:Q	le
+del	mte:Ncmsn	del
+njunih	mte:Ps3mpgp	njun
+skupnih	mte:Agpmpg	skupen
+prihodkov	mte:Ncmpg	prihodek
+.	mte:Z	.
+Po	mte:Sl	po
+izračunih	mte:Ncmpl	izračun
+hrvaškega	mte:Agpmsg	hrvaški
+Forbesa	mte:Npmsg	Forbes
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+zadnji	mte:Agpnda	zadnji
+dve	mte:Mlcnda	dva
+leti	mte:Ncnda	leto
+najbolje	mte:Rgs	dobro
+plačana	mte:Appmdn	plačan
+hrvaška	mte:Agpmdn	hrvaški
+menedžerja	mte:Ncmdn	menedžer
+prav	mte:Q	prav
+Luković	mte:Npmsn	Luković
+in	mte:Cc	in
+Prka	mte:Npmsn	Prka
+.	mte:Z	.
+Večina	mte:Ncfsn	večina
+plače	mte:Ncfsg	plača
+se	mte:Px------y	se
+jima	mte:Pp3mdd--y	on
+izplačuje	mte:Vmpr3s	izplačevati
+v	mte:Sl	v
+delnicah	mte:Ncfpl	delnica
+banke	mte:Ncfsg	banka
+,	mte:Z	,
+kot	mte:Cs	kot
+bonus	mte:Ncmsn	bonus
+za	mte:Sa	za
+dobro	mte:Agpnsa	dober
+opravljeno	mte:Appnsa	opravljen
+delo	mte:Ncnsa	delo
+,	mte:Z	,
+tu	mte:Rgp	tu
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+dividende	mte:Ncfpn	dividenda
+od	mte:Sg	od
+delnic	mte:Ncfpg	delnica
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+imata	mte:Vmpr3d-n	imeti
+v	mte:Sl	v
+lasti	mte:Ncfsl	last
+še	mte:Q	še
+od	mte:Sg	od
+prej	mte:Rgc	prej
+.	mte:Z	.
+Praksa	mte:Ncfsn	praksa
+popolnoma	mte:Rgp	popolnoma
+transparentnega	mte:Agpnsg	transparenten
+objavljanja	mte:Ncnsg	objavljanje
+menedžerskih	mte:Agpfpg	menedžerski
+plač	mte:Ncfpg	plača
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+je	mte:Va-r3s-n	biti
+začel	mte:Vmep-sm	začeti
+hrvaški	mte:Agpmsny	hrvaški
+Telekom	mte:Npmsn	Telekom
+,	mte:Z	,
+omogoča	mte:Vmpr3s	omogočati
+točno	mte:Agpfsa	točno
+oceno	mte:Ncfsa	ocena
+višine	mte:Ncfsg	višina
+prihodkov	mte:Ncmpg	prihodek
+tudi	mte:Q	tudi
+v	mte:Sl	v
+tistih	mte:Pd-npl	tisti
+podjetjih	mte:Ncnpl	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+objavljajo	mte:Vmpr3p	objavljati
+takih	mte:Pd-mpg	tak
+podatkov	mte:Ncmpg	podatek
+.	mte:Z	.
+Plače	mte:Ncfsg	plača
+se	mte:Px------y	se
+na	mte:Sl	na
+majhnem	mte:Agpnsl	majhen
+tržišču	mte:Ncnsl	tržišče
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+hrvaško	mte:Agpnsn	hrvaški
+,	mte:Z	,
+namreč	mte:Cc	namreč
+formirajo	mte:Vmbr3p	formirati
+brez	mte:Sg	brez
+večjih	mte:Agcnpg	velik
+odstopanj	mte:Ncnpg	odstopanje
+.	mte:Z	.
+Za	mte:Sa	za
+prihodke	mte:Ncmpa	prihodek
+ostalih	mte:Appmpg	ostal
+'	mte:Z	'
+top	mte:Ncmsg	top
+'	mte:Z	'
+menedžerjev	mte:Ncmpg	menedžer
+velikih	mte:Agpnpg	velik
+podjetij	mte:Ncnpg	podjetje
+ni	mte:Va-r3s-y	biti
+podatkov	mte:Ncmpg	podatek
+,	mte:Z	,
+sem	mte:Rgp	sem
+spadata	mte:Vmpr3d	spadati
+tudi	mte:Q	tudi
+Agrokor	mte:Npmsn	Agrokor
+ter	mte:Cc	ter
+Ina.Člani	mte:Npmsn	Inadčlan
+uprave	mte:Ncfsg	uprava
+Atlantic	mte:Npmsn	Atlantic
+Grupe	mte:Npfsg	Grupe
+in	mte:Cc	in
+njihove	mte:Ps3fsgp	njihov
+plače	mte:Ncfsg	plača
+Navedeni	mte:Appmpn	naveden
+so	mte:Va-r3p-n	biti
+bruto	mte:Agpmpn	bruto
+prihodki	mte:Ncmpn	prihodek
+.	mte:Z	.
+Vsak	mte:Pg-msn	vsak
+od	mte:Sg	od
+članov	mte:Ncmpg	član
+uprave	mte:Ncfsg	uprava
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+državno	mte:Rgp	državen
+blagajno	mte:Rgp	blagajno
+doprinesel	mte:Vmep-sm	doprinesti
+približno	mte:Rgp	približno
+50	mte:Mdc	50
+tisoč	mte:Mlc-pa	tisoč
+kun	mte:Ncmpg	kun
+.	mte:Z	.
+Mladen	mte:Npmsn	Mladen
+Veber	mte:Npmsn	Veber
+-	mte:Z	-
+2,4	mte:Mdc	2,4
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+320	mte:Mdc	320
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+Neven	mte:Npmsn	Neven
+Vranković	mte:Npmsn	Vranković
+-	mte:Z	-
+2,9	mte:Mdc	2,9
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+390	mte:Mdc	390
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+Marko	mte:Npmsn	Marko
+Smetiško	mte:Npnsn	Smetiška
+-	mte:Z	-
+1,4	mte:Mdc	1,4
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+190	mte:Mdc	190
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+Srećko	mte:Npmsn	Srećko
+Nakić	mte:Npmsn	Nakić
+-	mte:Z	-
+1,7	mte:Mdc	1,7
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+230	mte:Mdc	230
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+Zoran	mte:Npmsn	Zoran
+Stanković	mte:Npmsn	Stanković
+-	mte:Z	-
+2,4	mte:Mdc	2,4
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+320	mte:Mdc	320
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+Zvonimir	mte:Npmsn	Zvonimir
+Brekalo	mte:Vmpp-sn	brekati
+-	mte:Z	-
+1,9	mte:Mdc	1,9
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+255	mte:Mdc	255
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+)	mte:Z	)
+Tomislav	mte:Npmsn	Tomislav
+Matusinović	mte:Npmsn	Matusinović
+-	mte:Z	-
+1,2	mte:Mdc	1,2
+milijona	mte:Ncmsg	milijon
+kun	mte:Ncmpg	kun
+(	mte:Z	(
+160	mte:Mdc	160
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro

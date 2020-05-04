@@ -1,823 +1,836 @@
-token	tag
-Vizjak	Npmsn
-Poroštva	Ncnsg
-za	Sa
-stabilnost	Ncfsa
-evra	Ncmsg
-bo	Va-f3s-n
-moral	Vmpp-sm
-nekdo	Pi-msn
-plačati	Vmen
-Odbor	Ncmsn
-DZ	Npfsg
--	Z
-ja	Q
-za	Sa
-finance	Ncfpa
-in	Cc
-monetarno	Agpfsa
-politiko	Ncfsa
-je	Va-r3s-n
-na	Sl
-seji	Ncfsl
-sprejel	Vmep-sm
-sklep	Ncmsan
-,	Z
-da	Cs
-se	Px------y
-strinja	Vmpr3s
-z	Si
-negativnim	Agpnsi
-mnenjem	Ncnsi
-zakonodajno	Agpnsn
--	Z
-pravne	Agpfsg
-službe	Ncfsg
-o	Sl
-predlogu	Ncmsl
-za	Sa
-zadržanje	Ncnsa
-zakona	Ncmsg
-za	Sa
-stabilnost	Ncfsa
-evra	Ncmsg
-.	Z
-Ta	Pd-msn
-predlog	Ncmsn
-je	Va-r3s-n
-neutemeljen	Agpmsnn
-,	Z
-je	Va-r3s-n
-v	Sl
-imenu	Ncnsl
-zakonodajno	Agpnsn
--	Z
-pravne	Agpfsg
-službe	Ncfsg
-DZ	Npmsn
--	Z
-ja	Q
-ob	Sl
-začetku	Ncmsl
-seje	Ncfsg
-pojasnila	Ncnsg
-Sonja	Npfsn
-Karlovšek	Npfsn
-,	Z
-saj	Cc
-predlagatelji	Ncmpn
-niso	Va-r3p-y
-izkazali	Vmep-pm
-težko	Rgp
-popravljivih	Agpfpg
-posledic	Ncfpg
-.	Z
-Sejo	Ncfsa
-sklicala	Vmep-sf
-opozicija	Ncfsn
-Seja	Ncfsn
-,	Z
-na	Sl
-kateri	Pq-fsl
-so	Va-r3p-n
-razpravljali	Vmpp-pm
-o	Sl
-ustavnosti	Ncfsl
-zakona	Ncmsg
-o	Sl
-poroštvih	Ncnpl
-Slovenije	Npfsg
-za	Sa
-zagotavljanje	Ncnsa
-finančne	Agpfsg
-stabilnosti	Ncfsg
-v	Sl
-območju	Ncnsl
-evra	Ncmsg
-,	Z
-je	Va-r3s-n
-bila	Va-p-sf
-sklicana	Appfsn
-na	Sa
-zahtevo	Ncfsa
-37	Mdc
-poslancev	Ncmpg
-opozicije	Ncfsg
-,	Z
-ki	Cs
-so	Va-r3p-n
-ustavnemu	Agpnsd
-sodišču	Ncnsd
-predlagali	Vmbp-pm
-,	Z
-naj	Cs
-zakon	Ncmsnn
-razveljavi	Vmer3s
-in	Cc
-do	Sg
-končne	Agpfsg
-odločitve	Ncfsg
-zadrži	Vmer3s
-tudi	Q
-njegovo	Ps3nsasm
-izvajanje	Ncnsa
-.	Z
-Sklep	Ncmsn
-je	Va-r3s-n
-bil	Va-p-sm
-sprejet	Appmsnn
-s	Si
-sedmimi	Mlompi
-glasovi	Ncmpi
-za	Sa
-in	Cc
-s	Si
-petimi	Mlc-pi
-proti	Sd
-,	Z
-odbor	Ncmsn
-pa	Cc
-je	Va-r3s-n
-zakonodajno	Agpnsn
--	Z
-pravni	Agpfsd
-službi	Ncfsd
-predlagal	Vmbp-sm
-,	Z
-da	Cs
-pripravi	Vmer3s
-ustrezen	Agpmsan
-odgovor	Ncmsan
-ustavnemu	Agpnsd
-sodišču	Ncnsd
-.	Z
-Evro	Npmsn
-je	Va-r3s-n
-pokazal	Vmep-sm
-svojo	Px-fsa
-vitalno	Agpfsa
-moč	Ncfsa
-,	Z
-ima	Vmpr3s-n
-pa	Cc
-svoje	Px-mpa
-specifike	Ncmpa
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-minister	Ncmsn
-za	Sa
-finance	Ncfpa
-Franc	Npmsn
-Križanič	Npmsn
-in	Cc
-opozoril	Vmep-sm
-,	Z
-da	Cs
-bi	Va-c
-v	Sl
-primeru	Ncmsl
-zavrnitve	Ncfsg
-zakona	Ncmsg
-oz	Rgp
-.	Z
-zavrnitve	Ncfsg
-delovanja	Ncnsg
-sklada	Ncmsg
-lahko	Rgp
-prišlo	Vmep-sn
-do	Sg
-nepopravljivih	Agpfpg
-posledic	Ncfpg
-,	Z
-in	Cc
-ne	Q
-nasprotno	Agpnsn
-.	Z
-Za	Sa
-ugled	Ncmsan
-in	Cc
-položaj	Ncmsan
-Slovenije	Npfsg
-kot	Cs
-članice	Ncfsg
-območja	Ncnsg
-evra	Ncmsg
-pa	Cc
-bi	Va-c
-zavrnitev	Ncfsa
-pomenila	Vmbp-sf
-resno	Agpfsa
-škodo	Ncfsa
-,	Z
-meni	Vmpr3s
-.	Z
-Križanič	Npmsn
-Mi	Pp1-sd--y
-s	Si
-tem	Pd-msi
-skladom	Ncmsi
-rešujemo	Vmpr1p
-sami	Agpmpn
-sebe	Px---a
-Mi	Pp1-sd--y
-s	Si
-tem	Pd-msi
-skladom	Ncmsi
-rešujemo	Vmpr1p
-sami	Agpmpa
-sebe	Px---a
-.	Z
-Rešujemo	Vmpr1p
-tudi	Q
-druge	Mlpmpa
-,	Z
-ampak	Cc
-tudi	Q
-sebe	Px---a
-,	Z
-poudarja	Vmpr3s
-minister	Ncmsn
-in	Cc
-opominja	Vmpr3s
-,	Z
-da	Cs
-so	Va-r3p-n
-Slovaki	Npmpn
-,	Z
-čeprav	Cs
-so	Va-r3p-n
-zaradi	Sg
-predvolilnih	Agpfpg
-obljub	Ncfpg
-zavrnili	Vmep-pm
-pomoč	Ncfsa
-Grčiji	Npfsd
-,	Z
-k	Sd
-skladu	Ncmsd
-pristopili	Vmep-pm
-,	Z
-ker	Cs
-se	Px------y
-zavedajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-pomemben	Agpmsnn
-za	Sa
-njih	Pp3mpa
-.	Z
-To	Pd-nsn
-bo	Va-f3s-n
-tudi	Q
-nam	Pp1-pd
-omogočilo	Vmep-sn
-normalno	Agpnsa
-financiranje	Ncnsa
-,	Z
-ko	Cs
-se	Px------y
-bo	Va-f3s-n
-to	Pd-nsn
-izkazalo	Vmep-sn
-za	Sa
-potrebno	Agpnsa
-,	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-Križanič	Npmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-še	Q
-opzoril	Vmep-sm
-,	Z
-da	Cs
-predlagatelji	Ncmpn
-razprave	Ncfsg
-o	Sl
-ustavnosti	Ncfsl
-zakona	Ncmsg
-govorijo	Vmpr3p
-o	Sl
-poroštvih	Ncnpl
-,	Z
-v	Sl
-resnici	Ncfsl
-pa	Cc
-gre	Vmbr3s
-za	Sa
-samo	Q
-eno	Mlpnsa
-poroštvo	Ncnsa
-,	Z
-za	Sa
-en	Mlpmsa
-sam	Agpmsan
-projekt	Ncmsan
-.	Z
-Juri	Npmsn
-Pomemben	Agpmsnn
-je	Va-r3s-n
-psihološki	Agpmsny
-učinek	Ncmsn
-skupne	Agpfsg
-valute	Ncfsg
-Nastanek	Ncmsn
-evra	Ncmsg
-je	Va-r3s-n
-pomemben	Agpmsnn
-tako	Rgp
-z	Sg
-gospodarskega	Agpmsg
-kot	Cs
-s	Sg
-simbolno	Agpnsi
--	Z
-družbenega	Agpmsg
-vidika	Ncmsg
-,	Z
-meni	Vmpr3s
-Luka	Npmsn
-Juri	Npmsn
-SD	Npmsn
-.	Z
-Je	Va-r3s-n
-naravna	Agpfsn
-posledica	Ncfsn
-združevanja	Ncnsg
-na	Sl
-ravni	Ncfsl
-Evropske	Agpfsg
-unije	Ncfsg
-in	Cc
-takega	Pd-nsg
-ga	Pp3msa--y
-razumejo	Vmbr3p
-povsod	Rgp
-po	Sl
-svetu	Ncmsl
-.	Z
-Do	Sg
-njegovega	Ps3msgsm
-nastanka	Ncmsg
-je	Va-r3s-n
-bila	Va-p-sf
-v	Sl
-Evropi	Npfsl
-le	Q
-ena	Mlpfsn
-valuta	Ncfsn
-relativno	Rgp
-pomembna	Agpfsn
-na	Sl
-svetovni	Agpfsl
-ravni	Ncfsl
-,	Z
-in	Cc
-to	Pd-nsn
-je	Va-r3s-n
-bila	Va-p-sf
-nemška	Agpfsn
-marka	Ncfsn
-.	Z
-Evro	Npmsn
-postaja	Vmpr3s
-alternativna	Agpfsn
-valuta	Ncfsn
-,	Z
-ki	Cs
-se	Px------y
-dejansko	Rgp
-postavlja	Vmpr3s
-ob	Sl
-bok	Ncmsa
-ameriškemu	Agpmsd
-dolarju	Ncmsd
-,	Z
-ugotavlja	Vmpr3s
-.	Z
-Trdi	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-zakon	Ncmsn
-v	Sl
-skladu	Ncmsl
-z	Si
-ustavo	Ncfsi
-,	Z
-ne	Q
-izključuje	Vmpr3s
-pa	Cc
-možnosti	Ncfpa
-,	Z
-da	Cs
-se	Px------y
-koalicija	Ncfsn
-moti	Vmpr3s
-,	Z
-odgovor	Ncmsan
-na	Sa
-to	Pd-nsa
-pa	Cc
-bo	Va-f3s-n
-dalo	Vmep-sn
-ustavno	Agpnsn
-sodišče	Ncnsn
-.	Z
-Poslanec	Ncmsn
-SDS	Npmsn
--	Z
-a	Cc
-Zvonko	Npmsn
-Černač	Npmsn
-pa	Cc
-je	Va-r3s-n
-prepričan	Appmsnn
-,	Z
-da	Cs
-se	Px------y
-ne	Q
-bi	Va-c
-zgodilo	Vmep-sn
-nič	Pz-nsn
-,	Z
-če	Cs
-pomoči	Ncfsg
-Grčiji	Npfsd
-ne	Q
-bi	Va-c
-zagotovili	Vmep-pm
-,	Z
-saj	Cc
-smo	Va-r1p-n
-v	Sl
-času	Ncmsl
-,	Z
-ko	Cs
-Slovenija	Npfsn
-krvavo	Rgp
-potrebuje	Vmpr3s
-denar	Ncmsan
-.	Z
-Zakon	Ncmsn
-ni	Va-r3s-y
-dober	Agpmsnn
-,	Z
-in	Cc
-če	Cs
-ne	Q
-naredimo	Vmer1p
-nič	Pz-nsa
-,	Z
-ne	Q
-bo	Va-f3s-n
-nič	Pz-nsn
-.	Z
-Slabih	Agpfpg
-posledic	Ncfpg
-ne	Q
-bo	Va-f3s-n
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-.	Z
-Vizjak	Npmsn
-Zakonu	Ncmsl
-manjka	Vmpr3s
-politična	Agpfsn
-razsežnost	Ncfsn
-Njegov	Ps3msnsm
-strankarski	Agpmsny
-kolega	Ncmsn
-poslanec	Ncmsn
-Andrej	Npmsn
-Vizjak	Npmsn
-pravi	Vmbr3s
-,	Z
-da	Cs
-bi	Va-c
-se	Px------y
-moralo	Vmpp-sn
-vsako	Pg-nsa
-poroštvo	Ncnsa
-prediskutirati	Vmbn
-v	Sl
-državnem	Agpmsl
-zboru	Ncmsl
-in	Cc
-da	Cs
-bi	Va-c
-pri	Sl
-pripravi	Ncfsl
-zakona	Ncmsg
-morali	Vmpp-pm
-upoštevati	Vmbn
-pogoje	Ncmpa
-,	Z
-po	Sl
-katerih	Pq-mpl
-bi	Va-c
-zagotovili	Vmep-pm
-ustavnost	Ncfsa
-zakona	Ncmsg
-.	Z
-Zakonu	Ncmsl
-manjka	Vmpr3s
-tudi	Q
-politična	Agpfsn
-razsežnost	Ncfsn
-,	Z
-ker	Cs
-ni	Va-r3s-y
-bil	Va-p-sm
-sprejet	Appmsnn
-s	Si
-soglasjem	Ncnsi
-koalicije	Ncfsg
-in	Cc
-opozicije	Ncfsg
-,	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-Vizjak	Npmsn
-.	Z
-Zneski	Ncmpn
-poroštev	Ncfpg
-so	Va-r3p-n
-preveliki	Agpmpn
-,	Z
-da	Cs
-bi	Va-c
-bila	Va-p-sf
-opozicija	Ncfsn
-in	Cc
-parlament	Ncmsn
-izključena	Appfsn
-iz	Sg
-odločanja	Ncnsg
-o	Sl
-njih	Pp3mpl
-,	Z
-opozarja	Vmpr3s
-in	Cc
-dodaja	Vmpr3s
-Ta	Pd-npa
-poroštva	Ncnpa
-bo	Va-f3s-n
-moral	Vmpp-sm
-nekdo	Pi-msn
-plačati	Vmen
-.	Z
-Bogdan	Npmsn
-Čepič	Npmsn
-SD	Npmsn
-pa	Cc
-je	Va-r3s-n
-izrazil	Vmep-sm
-mnenje	Ncnsa
-,	Z
-da	Cs
-bi	Va-c
-zadržanje	Ncnsa
-zakona	Ncmsg
-povzročilo	Vmep-sn
-več	Rgc
-negativnih	Agpfpg
-posledic	Ncfpg
-kot	Cs
-nadaljevanje	Ncnsa
-veljavnosti	Ncfsg
-.	Z
-Čeprav	Cs
-mehanizma	Ncmsg
-še	Q
-ni	Va-r3s-y
-bilo	Va-p-sn
-treba	Rgp
-zagnati	Vmen
-,	Z
-je	Va-r3s-n
-dobro	Agpnsn
-,	Z
-da	Cs
-ta	Pd-msn
-obstaja	Vmpr3s
-,	Z
-je	Va-r3s-n
-prepričan	Appmsnn
-.	Z
-Opozicija	Ncfsn
-DZ	Npmsn
--	Z
-ju	Pp3mda--y
-bi	Va-c
-bila	Va-p-sf
-odvzeta	Appfsn
-nadzorna	Agpfsn
-funkcija	Ncfsn
-Poslanci	Ncmpn
-SDS	Npfsn
--	Z
-a	Npmsn
-,	Z
-SNS	Npfsn
--	Z
-ja	Q
-in	Cc
-SLS	Npfsn
--	Z
-a	Cc
-dvomijo	Vmpr3p
-o	Sl
-ustavnosti	Ncfsl
-zakona	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-DZ	Npmsn
-sprejel	Vmep-sm
-in	Cc
-s	Si
-katerim	Pq-msi
-je	Va-r3s-n
-vzpostavljena	Appfsn
-pravna	Agpfsn
-podlaga	Ncfsn
-za	Sa
-sodelovanje	Ncnsa
-Slovenije	Npfsg
-v	Sl
-mehanizmu	Ncmsl
-za	Sa
-zagotavljanje	Ncnsa
-finančne	Agpfsg
-pomoči	Ncfsg
-,	Z
-če	Cs
-ob	Sl
-Grčiji	Npfsl
-še	Q
-kaka	Pq-fsn
-država	Ncfsn
-z	Si
-evrom	Ncmsi
-ne	Q
-bi	Va-c
-mogla	Vmpp-sf
-pridobiti	Vmen
-dovolj	Rgp
-denarja	Ncmsg
-na	Sl
-trgu	Ncmsl
-.	Z
-Sklicevali	Vmpp-pm
-so	Va-r3p-n
-se	Px------y
-na	Sa
-mnenje	Ncnsa
-zakonodajno	Agpnsn
--	Z
-pravne	Agpfsg
-službe	Ncfsg
-državnega	Agpmsg
-zbora	Ncmsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-poudarila	Vmep-sf
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-poroštvo	Ncnsa
-za	Sa
-neopredeljene	Agpfpa
-obveznosti	Ncfpa
-in	Cc
-da	Cs
-bo	Va-f3s-n
-o	Sl
-sprožitvi	Ncfsl
-poroštva	Ncnsg
-Slovenije	Npfsg
-v	Sl
-prihodnosti	Ncfsl
-odločala	Vmpp-sf
-vlada	Ncfsn
-,	Z
-DZ	Npfsn
-pa	Cc
-samo	Q
-obveščala	Vmpp-sf
-.	Z
-Po	Sl
-mnenju	Ncnsl
-poslancev	Ncmpg
-bi	Va-c
-bila	Va-p-sf
-taka	Pd-fsn
-praksa	Ncfsn
-neustavna	Agpfsn
-,	Z
-saj	Cc
-bi	Va-c
-bila	Va-p-sf
-DZ	Npfsn
--	Z
-ju	Pp3mda--y
-odvzeta	Appfsn
-nadzorna	Agpfsn
-funkcija	Ncfsn
-.	Z
-Vlada	Ncfsn
-očitke	Ncmpa
-zavrača	Vmpr3s
-Moti	Vmpr3s
-jih	Pp3mpa--y
-tudi	Q
-znesek	Ncmsan
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-Slovenija	Npfsn
-namenila	Vmep-sf
-poroštvu	Ncnsd
-,	Z
-saj	Cc
-zakon	Ncmsn
-predvideva	Vmpr3s
-izdajo	Ncfsa
-poroštev	Ncfpg
-v	Sl
-višini	Ncfsl
-četrtine	Ncfsg
-državnega	Agpmsg
-proračuna	Ncmsg
-,	Z
-kar	Pr-nsn
-presega	Vmpr3s
-zmogljivosti	Ncfpa
-države	Ncfsg
-.	Z
-Hkrati	Rgp
-pa	Cc
-so	Va-r3p-n
-prepričani	Appmpn
-,	Z
-da	Cs
-ta	Pd-fsn
-rešitev	Ncfsn
-ni	Va-r3s-y
-pravična	Agpfsn
-,	Z
-saj	Cc
-Slovenija	Npfsn
-pomaga	Vmbr3s
-bogatejšim	Agcfpd
-državam	Ncfpd
-,	Z
-ki	Cs
-se	Px------y
-niso	Va-r3p-y
-držale	Vmpp-pf
-javnofinančne	Agpfsg
-discipline	Ncfsg
-.	Z
-Vlada	Ncfsn
-je	Va-r3s-n
-te	Pd-mpa
-očitke	Ncmpa
-že	Q
-med	Si
-razpravo	Ncfsi
-v	Sl
-državnem	Agpmsl
-zboru	Ncmsl
-zavračala	Vmpp-sf
-.	Z
-Po	Sl
-njenem	Ps3mslsf
-gre	Vmbr3s
-za	Sa
-rešitev	Ncfsa
-,	Z
-podobno	Rgp
-jamstvenim	Agpfpd
-shemam	Ncfpd
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-sprejemale	Vmpp-pf
-v	Sl
-času	Ncmsl
-finančn	Agpnsn
--	Z
-gospodarske	Agpfsg
-krize	Ncfsg
-.	Z
+token	tag	lemma
+Vizjak	mte:Npmsn	Vizjak
+Poroštva	mte:Ncnsg	poroštvo
+za	mte:Sa	za
+stabilnost	mte:Ncfsa	stabilnost
+evra	mte:Ncmsg	evro
+bo	mte:Va-f3s-n	biti
+moral	mte:Vmpp-sm	morati
+nekdo	mte:Pi-msn	nekdo
+plačati	mte:Vmen	plačati
+Odbor	mte:Ncmsn	odbor
+DZ	mte:Npfsg	DZ
+-	mte:Z	-
+ja	mte:Q	ja
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+in	mte:Cc	in
+monetarno	mte:Agpfsa	monetaren
+politiko	mte:Ncfsa	politika
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+seji	mte:Ncfsl	seja
+sprejel	mte:Vmep-sm	sprejeti
+sklep	mte:Ncmsan	sklep
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+strinja	mte:Vmpr3s	strinjati
+z	mte:Si	z
+negativnim	mte:Agpnsi	negativen
+mnenjem	mte:Ncnsi	mnenje
+zakonodajno	mte:Agpnsn	zakonodajen
+-	mte:Z	-
+pravne	mte:Agpfsg	praven
+službe	mte:Ncfsg	služba
+o	mte:Sl	o
+predlogu	mte:Ncmsl	predlog
+za	mte:Sa	za
+zadržanje	mte:Ncnsa	zadržanje
+zakona	mte:Ncmsg	zakon
+za	mte:Sa	za
+stabilnost	mte:Ncfsa	stabilnost
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+predlog	mte:Ncmsn	predlog
+je	mte:Va-r3s-n	biti
+neutemeljen	mte:Agpmsnn	neutemeljen
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+imenu	mte:Ncnsl	ime
+zakonodajno	mte:Agpnsn	zakonodajen
+-	mte:Z	-
+pravne	mte:Agpfsg	praven
+službe	mte:Ncfsg	služba
+DZ	mte:Npmsn	DZ
+-	mte:Z	-
+ja	mte:Q	ja
+ob	mte:Sl	ob
+začetku	mte:Ncmsl	začetek
+seje	mte:Ncfsg	seja
+pojasnila	mte:Ncnsg	pojasnilo
+Sonja	mte:Npfsn	Sonja
+Karlovšek	mte:Npfsn	Karlovšek
+,	mte:Z	,
+saj	mte:Cc	saj
+predlagatelji	mte:Ncmpn	predlagatelj
+niso	mte:Va-r3p-y	biti
+izkazali	mte:Vmep-pm	izkazati
+težko	mte:Rgp	težko
+popravljivih	mte:Agpfpg	popravljiv
+posledic	mte:Ncfpg	posledica
+.	mte:Z	.
+Sejo	mte:Ncfsa	seja
+sklicala	mte:Vmep-sf	sklicati
+opozicija	mte:Ncfsn	opozicija
+Seja	mte:Ncfsn	seja
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+so	mte:Va-r3p-n	biti
+razpravljali	mte:Vmpp-pm	razpravljati
+o	mte:Sl	o
+ustavnosti	mte:Ncfsl	ustavnost
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+poroštvih	mte:Ncnpl	poroštvo
+Slovenije	mte:Npfsg	Slovenija
+za	mte:Sa	za
+zagotavljanje	mte:Ncnsa	zagotavljanje
+finančne	mte:Agpfsg	finančen
+stabilnosti	mte:Ncfsg	stabilnost
+v	mte:Sl	v
+območju	mte:Ncnsl	območje
+evra	mte:Ncmsg	evro
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+sklicana	mte:Appfsn	sklican
+na	mte:Sa	na
+zahtevo	mte:Ncfsa	zahteva
+37	mte:Mdc	37
+poslancev	mte:Ncmpg	poslanec
+opozicije	mte:Ncfsg	opozicija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+ustavnemu	mte:Agpnsd	ustaven
+sodišču	mte:Ncnsd	sodišče
+predlagali	mte:Vmbp-pm	predlagati
+,	mte:Z	,
+naj	mte:Cs	naj
+zakon	mte:Ncmsnn	zakon
+razveljavi	mte:Vmer3s	razveljaviti
+in	mte:Cc	in
+do	mte:Sg	do
+končne	mte:Agpfsg	končen
+odločitve	mte:Ncfsg	odločitev
+zadrži	mte:Vmer3s	zadržati
+tudi	mte:Q	tudi
+njegovo	mte:Ps3nsasm	njegov
+izvajanje	mte:Ncnsa	izvajanje
+.	mte:Z	.
+Sklep	mte:Ncmsn	sklep
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+sprejet	mte:Appmsnn	sprejet
+s	mte:Si	z
+sedmimi	mte:Mlompi	sedmi
+glasovi	mte:Ncmpi	glas
+za	mte:Sa	za
+in	mte:Cc	in
+s	mte:Si	z
+petimi	mte:Mlc-pi	pet
+proti	mte:Sd	proti
+,	mte:Z	,
+odbor	mte:Ncmsn	odbor
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zakonodajno	mte:Agpnsn	zakonodajen
+-	mte:Z	-
+pravni	mte:Agpfsd	praven
+službi	mte:Ncfsd	služba
+predlagal	mte:Vmbp-sm	predlagati
+,	mte:Z	,
+da	mte:Cs	da
+pripravi	mte:Vmer3s	pripraviti
+ustrezen	mte:Agpmsan	ustrezen
+odgovor	mte:Ncmsan	odgovor
+ustavnemu	mte:Agpnsd	ustaven
+sodišču	mte:Ncnsd	sodišče
+.	mte:Z	.
+Evro	mte:Npmsn	Evro
+je	mte:Va-r3s-n	biti
+pokazal	mte:Vmep-sm	pokazati
+svojo	mte:Px-fsa	svoj
+vitalno	mte:Agpfsa	vitalen
+moč	mte:Ncfsa	moč
+,	mte:Z	,
+ima	mte:Vmpr3s-n	imeti
+pa	mte:Cc	pa
+svoje	mte:Px-mpa	svoj
+specifike	mte:Ncmpa	specifik
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+finance	mte:Ncfpa	finance
+Franc	mte:Npmsn	Franc
+Križanič	mte:Npmsn	Križanič
+in	mte:Cc	in
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+zavrnitve	mte:Ncfsg	zavrnitev
+zakona	mte:Ncmsg	zakon
+oz	mte:Rgp	oz
+.	mte:Z	.
+zavrnitve	mte:Ncfsg	zavrnitev
+delovanja	mte:Ncnsg	delovanje
+sklada	mte:Ncmsg	sklad
+lahko	mte:Rgp	lahko
+prišlo	mte:Vmep-sn	priti
+do	mte:Sg	do
+nepopravljivih	mte:Agpfpg	nepopravljiv
+posledic	mte:Ncfpg	posledica
+,	mte:Z	,
+in	mte:Cc	in
+ne	mte:Q	ne
+nasprotno	mte:Agpnsn	nasproten
+.	mte:Z	.
+Za	mte:Sa	za
+ugled	mte:Ncmsan	ugled
+in	mte:Cc	in
+položaj	mte:Ncmsan	položaj
+Slovenije	mte:Npfsg	Slovenija
+kot	mte:Cs	kot
+članice	mte:Ncfsg	članica
+območja	mte:Ncnsg	območje
+evra	mte:Ncmsg	evro
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+zavrnitev	mte:Ncfsa	zavrnitev
+pomenila	mte:Vmbp-sf	pomeniti
+resno	mte:Agpfsa	resen
+škodo	mte:Ncfsa	škoda
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+.	mte:Z	.
+Križanič	mte:Npmsn	Križanič
+Mi	mte:Pp1-sd--y	jaz
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+skladom	mte:Ncmsi	sklad
+rešujemo	mte:Vmpr1p	reševati
+sami	mte:Agpmpn	sam
+sebe	mte:Px---a	se
+Mi	mte:Pp1-sd--y	jaz
+s	mte:Si	z
+tem	mte:Pd-msi	ta
+skladom	mte:Ncmsi	sklad
+rešujemo	mte:Vmpr1p	reševati
+sami	mte:Agpmpa	sam
+sebe	mte:Px---a	se
+.	mte:Z	.
+Rešujemo	mte:Vmpr1p	reševati
+tudi	mte:Q	tudi
+druge	mte:Mlpmpa	drug
+,	mte:Z	,
+ampak	mte:Cc	ampak
+tudi	mte:Q	tudi
+sebe	mte:Px---a	se
+,	mte:Z	,
+poudarja	mte:Vmpr3s	poudarjati
+minister	mte:Ncmsn	minister
+in	mte:Cc	in
+opominja	mte:Vmpr3s	opominjati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+Slovaki	mte:Npmpn	Slovaki
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+zaradi	mte:Sg	zaradi
+predvolilnih	mte:Agpfpg	predvolilen
+obljub	mte:Ncfpg	obljuba
+zavrnili	mte:Vmep-pm	zavrniti
+pomoč	mte:Ncfsa	pomoč
+Grčiji	mte:Npfsd	Grčija
+,	mte:Z	,
+k	mte:Sd	k
+skladu	mte:Ncmsd	sklad
+pristopili	mte:Vmep-pm	pristopiti
+,	mte:Z	,
+ker	mte:Cs	ker
+se	mte:Px------y	se
+zavedajo	mte:Vmpr3p	zavedati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+pomemben	mte:Agpmsnn	pomemben
+za	mte:Sa	za
+njih	mte:Pp3mpa	on
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+tudi	mte:Q	tudi
+nam	mte:Pp1-pd	jaz
+omogočilo	mte:Vmep-sn	omogočiti
+normalno	mte:Agpnsa	normalen
+financiranje	mte:Ncnsa	financiranje
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+izkazalo	mte:Vmep-sn	izkazati
+za	mte:Sa	za
+potrebno	mte:Agpnsa	potreben
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+Križanič	mte:Npmsn	Križanič
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+opzoril	mte:Vmep-sm	opzoriti
+,	mte:Z	,
+da	mte:Cs	da
+predlagatelji	mte:Ncmpn	predlagatelj
+razprave	mte:Ncfsg	razprava
+o	mte:Sl	o
+ustavnosti	mte:Ncfsl	ustavnost
+zakona	mte:Ncmsg	zakon
+govorijo	mte:Vmpr3p	govoriti
+o	mte:Sl	o
+poroštvih	mte:Ncnpl	poroštvo
+,	mte:Z	,
+v	mte:Sl	v
+resnici	mte:Ncfsl	resnica
+pa	mte:Cc	pa
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+samo	mte:Q	samo
+eno	mte:Mlpnsa	en
+poroštvo	mte:Ncnsa	poroštvo
+,	mte:Z	,
+za	mte:Sa	za
+en	mte:Mlpmsa	en
+sam	mte:Agpmsan	sam
+projekt	mte:Ncmsan	projekt
+.	mte:Z	.
+Juri	mte:Npmsn	Juri
+Pomemben	mte:Agpmsnn	pomemben
+je	mte:Va-r3s-n	biti
+psihološki	mte:Agpmsny	psihološki
+učinek	mte:Ncmsn	učinek
+skupne	mte:Agpfsg	skupen
+valute	mte:Ncfsg	valuta
+Nastanek	mte:Ncmsn	nastanek
+evra	mte:Ncmsg	evro
+je	mte:Va-r3s-n	biti
+pomemben	mte:Agpmsnn	pomemben
+tako	mte:Rgp	tako
+z	mte:Sg	z
+gospodarskega	mte:Agpmsg	gospodarski
+kot	mte:Cs	kot
+s	mte:Sg	z
+simbolno	mte:Agpnsi	simbolen
+-	mte:Z	-
+družbenega	mte:Agpmsg	družben
+vidika	mte:Ncmsg	vidik
+,	mte:Z	,
+meni	mte:Vmpr3s	meniti
+Luka	mte:Npmsn	Luka
+Juri	mte:Npmsn	Juri
+SD	mte:Npmsn	SD
+.	mte:Z	.
+Je	mte:Va-r3s-n	biti
+naravna	mte:Agpfsn	naraven
+posledica	mte:Ncfsn	posledica
+združevanja	mte:Ncnsg	združevanje
+na	mte:Sl	na
+ravni	mte:Ncfsl	raven
+Evropske	mte:Agpfsg	evropski
+unije	mte:Ncfsg	unija
+in	mte:Cc	in
+takega	mte:Pd-nsg	tak
+ga	mte:Pp3msa--y	on
+razumejo	mte:Vmbr3p	razumeti
+povsod	mte:Rgp	povsod
+po	mte:Sl	po
+svetu	mte:Ncmsl	svet
+.	mte:Z	.
+Do	mte:Sg	do
+njegovega	mte:Ps3msgsm	njegov
+nastanka	mte:Ncmsg	nastanek
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+le	mte:Q	le
+ena	mte:Mlpfsn	en
+valuta	mte:Ncfsn	valuta
+relativno	mte:Rgp	relativno
+pomembna	mte:Agpfsn	pomemben
+na	mte:Sl	na
+svetovni	mte:Agpfsl	svetoven
+ravni	mte:Ncfsl	raven
+,	mte:Z	,
+in	mte:Cc	in
+to	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+nemška	mte:Agpfsn	nemški
+marka	mte:Ncfsn	marka
+.	mte:Z	.
+Evro	mte:Npmsn	Evro
+postaja	mte:Vmpr3s	postajati
+alternativna	mte:Agpfsn	alternativen
+valuta	mte:Ncfsn	valuta
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+dejansko	mte:Rgp	dejansko
+postavlja	mte:Vmpr3s	postavljati
+ob	mte:Sl	ob
+bok	mte:Ncmsa	bok
+ameriškemu	mte:Agpmsd	ameriški
+dolarju	mte:Ncmsd	dolar
+,	mte:Z	,
+ugotavlja	mte:Vmpr3s	ugotavljati
+.	mte:Z	.
+Trdi	mte:Vmpr3s	trditi
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zakon	mte:Ncmsn	zakon
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+ustavo	mte:Ncfsi	ustava
+,	mte:Z	,
+ne	mte:Q	ne
+izključuje	mte:Vmpr3s	izključevati
+pa	mte:Cc	pa
+možnosti	mte:Ncfpa	možnost
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+koalicija	mte:Ncfsn	koalicija
+moti	mte:Vmpr3s	motiti
+,	mte:Z	,
+odgovor	mte:Ncmsan	odgovor
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+dalo	mte:Vmep-sn	dati
+ustavno	mte:Agpnsn	ustaven
+sodišče	mte:Ncnsn	sodišče
+.	mte:Z	.
+Poslanec	mte:Ncmsn	poslanec
+SDS	mte:Npmsn	SDS
+-	mte:Z	-
+a	mte:Cc	a
+Zvonko	mte:Npmsn	Zvonko
+Černač	mte:Npmsn	Černač
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+zgodilo	mte:Vmep-sn	zgoditi
+nič	mte:Pz-nsn	nič
+,	mte:Z	,
+če	mte:Cs	če
+pomoči	mte:Ncfsg	pomoč
+Grčiji	mte:Npfsd	Grčija
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+zagotovili	mte:Vmep-pm	zagotoviti
+,	mte:Z	,
+saj	mte:Cc	saj
+smo	mte:Va-r1p-n	biti
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+,	mte:Z	,
+ko	mte:Cs	ko
+Slovenija	mte:Npfsn	Slovenija
+krvavo	mte:Rgp	krvav
+potrebuje	mte:Vmpr3s	potrebovati
+denar	mte:Ncmsan	denar
+.	mte:Z	.
+Zakon	mte:Ncmsn	zakon
+ni	mte:Va-r3s-y	biti
+dober	mte:Agpmsnn	dober
+,	mte:Z	,
+in	mte:Cc	in
+če	mte:Cs	če
+ne	mte:Q	ne
+naredimo	mte:Vmer1p	narediti
+nič	mte:Pz-nsa	nič
+,	mte:Z	,
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+nič	mte:Pz-nsn	nič
+.	mte:Z	.
+Slabih	mte:Agpfpg	slab
+posledic	mte:Ncfpg	posledica
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+.	mte:Z	.
+Vizjak	mte:Npmsn	Vizjak
+Zakonu	mte:Ncmsl	zakon
+manjka	mte:Vmpr3s	manjkati
+politična	mte:Agpfsn	političen
+razsežnost	mte:Ncfsn	razsežnost
+Njegov	mte:Ps3msnsm	njegov
+strankarski	mte:Agpmsny	strankarski
+kolega	mte:Ncmsn	kolega
+poslanec	mte:Ncmsn	poslanec
+Andrej	mte:Npmsn	Andrej
+Vizjak	mte:Npmsn	Vizjak
+pravi	mte:Vmbr3s	praviti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+moralo	mte:Vmpp-sn	morati
+vsako	mte:Pg-nsa	vsak
+poroštvo	mte:Ncnsa	poroštvo
+prediskutirati	mte:Vmbn	prediskutirati
+v	mte:Sl	v
+državnem	mte:Agpmsl	državen
+zboru	mte:Ncmsl	zbor
+in	mte:Cc	in
+da	mte:Cs	da
+bi	mte:Va-c	biti
+pri	mte:Sl	pri
+pripravi	mte:Ncfsl	priprava
+zakona	mte:Ncmsg	zakon
+morali	mte:Vmpp-pm	morati
+upoštevati	mte:Vmbn	upoštevati
+pogoje	mte:Ncmpa	pogoj
+,	mte:Z	,
+po	mte:Sl	po
+katerih	mte:Pq-mpl	kateri
+bi	mte:Va-c	biti
+zagotovili	mte:Vmep-pm	zagotoviti
+ustavnost	mte:Ncfsa	ustavnost
+zakona	mte:Ncmsg	zakon
+.	mte:Z	.
+Zakonu	mte:Ncmsl	zakon
+manjka	mte:Vmpr3s	manjkati
+tudi	mte:Q	tudi
+politična	mte:Agpfsn	političen
+razsežnost	mte:Ncfsn	razsežnost
+,	mte:Z	,
+ker	mte:Cs	ker
+ni	mte:Va-r3s-y	biti
+bil	mte:Va-p-sm	biti
+sprejet	mte:Appmsnn	sprejet
+s	mte:Si	z
+soglasjem	mte:Ncnsi	soglasje
+koalicije	mte:Ncfsg	koalicija
+in	mte:Cc	in
+opozicije	mte:Ncfsg	opozicija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+Vizjak	mte:Npmsn	Vizjak
+.	mte:Z	.
+Zneski	mte:Ncmpn	znesek
+poroštev	mte:Ncfpg	poroštvo
+so	mte:Va-r3p-n	biti
+preveliki	mte:Agpmpn	prevelik
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+opozicija	mte:Ncfsn	opozicija
+in	mte:Cc	in
+parlament	mte:Ncmsn	parlament
+izključena	mte:Appfsn	izključen
+iz	mte:Sg	iz
+odločanja	mte:Ncnsg	odločanje
+o	mte:Sl	o
+njih	mte:Pp3mpl	on
+,	mte:Z	,
+opozarja	mte:Vmpr3s	opozarjati
+in	mte:Cc	in
+dodaja	mte:Vmpr3s	dodajati
+Ta	mte:Pd-npa	ta
+poroštva	mte:Ncnpa	poroštvo
+bo	mte:Va-f3s-n	biti
+moral	mte:Vmpp-sm	morati
+nekdo	mte:Pi-msn	nekdo
+plačati	mte:Vmen	plačati
+.	mte:Z	.
+Bogdan	mte:Npmsn	Bogdan
+Čepič	mte:Npmsn	Čepič
+SD	mte:Npmsn	SD
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+izrazil	mte:Vmep-sm	izraziti
+mnenje	mte:Ncnsa	mnenje
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+zadržanje	mte:Ncnsa	zadržanje
+zakona	mte:Ncmsg	zakon
+povzročilo	mte:Vmep-sn	povzročiti
+več	mte:Rgc	več
+negativnih	mte:Agpfpg	negativen
+posledic	mte:Ncfpg	posledica
+kot	mte:Cs	kot
+nadaljevanje	mte:Ncnsa	nadaljevanje
+veljavnosti	mte:Ncfsg	veljavnost
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+mehanizma	mte:Ncmsg	mehanizem
+še	mte:Q	še
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+treba	mte:Rgp	treba
+zagnati	mte:Vmen	zagnati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dobro	mte:Agpnsn	dober
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-msn	ta
+obstaja	mte:Vmpr3s	obstajati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričan	mte:Appmsnn	prepričan
+.	mte:Z	.
+Opozicija	mte:Ncfsn	opozicija
+DZ	mte:Npmsn	DZ
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+odvzeta	mte:Appfsn	odvzet
+nadzorna	mte:Agpfsn	nadzoren
+funkcija	mte:Ncfsn	funkcija
+Poslanci	mte:Ncmpn	poslanec
+SDS	mte:Npfsn	SDS
+-	mte:Z	-
+a	mte:Npmsn	a
+,	mte:Z	,
+SNS	mte:Npfsn	SNS
+-	mte:Z	-
+ja	mte:Q	ja
+in	mte:Cc	in
+SLS	mte:Npfsn	SLS
+-	mte:Z	-
+a	mte:Cc	a
+dvomijo	mte:Vmpr3p	dvomiti
+o	mte:Sl	o
+ustavnosti	mte:Ncfsl	ustavnost
+zakona	mte:Ncmsg	zakon
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+DZ	mte:Npmsn	DZ
+sprejel	mte:Vmep-sm	sprejeti
+in	mte:Cc	in
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+je	mte:Va-r3s-n	biti
+vzpostavljena	mte:Appfsn	vzpostavljen
+pravna	mte:Agpfsn	praven
+podlaga	mte:Ncfsn	podlaga
+za	mte:Sa	za
+sodelovanje	mte:Ncnsa	sodelovanje
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+mehanizmu	mte:Ncmsl	mehanizem
+za	mte:Sa	za
+zagotavljanje	mte:Ncnsa	zagotavljanje
+finančne	mte:Agpfsg	finančen
+pomoči	mte:Ncfsg	pomoč
+,	mte:Z	,
+če	mte:Cs	če
+ob	mte:Sl	ob
+Grčiji	mte:Npfsl	Grčija
+še	mte:Q	še
+kaka	mte:Pq-fsn	kak
+država	mte:Ncfsn	država
+z	mte:Si	z
+evrom	mte:Ncmsi	evro
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+mogla	mte:Vmpp-sf	moči
+pridobiti	mte:Vmen	pridobiti
+dovolj	mte:Rgp	dovolj
+denarja	mte:Ncmsg	denar
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+.	mte:Z	.
+Sklicevali	mte:Vmpp-pm	sklicevati
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+na	mte:Sa	na
+mnenje	mte:Ncnsa	mnenje
+zakonodajno	mte:Agpnsn	zakonodajen
+-	mte:Z	-
+pravne	mte:Agpfsg	praven
+službe	mte:Ncfsg	služba
+državnega	mte:Agpmsg	državen
+zbora	mte:Ncmsg	zbor
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+poudarila	mte:Vmep-sf	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+poroštvo	mte:Ncnsa	poroštvo
+za	mte:Sa	za
+neopredeljene	mte:Agpfpa	neopredeljen
+obveznosti	mte:Ncfpa	obveznost
+in	mte:Cc	in
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+o	mte:Sl	o
+sprožitvi	mte:Ncfsl	sprožitev
+poroštva	mte:Ncnsg	poroštvo
+Slovenije	mte:Npfsg	Slovenija
+v	mte:Sl	v
+prihodnosti	mte:Ncfsl	prihodnost
+odločala	mte:Vmpp-sf	odločati
+vlada	mte:Ncfsn	vlada
+,	mte:Z	,
+DZ	mte:Npfsn	DZ
+pa	mte:Cc	pa
+samo	mte:Q	samo
+obveščala	mte:Vmpp-sf	obveščati
+.	mte:Z	.
+Po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+poslancev	mte:Ncmpg	poslanec
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+taka	mte:Pd-fsn	tak
+praksa	mte:Ncfsn	praks
+neustavna	mte:Agpfsn	neustaven
+,	mte:Z	,
+saj	mte:Cc	saj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+DZ	mte:Npfsn	DZ
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+odvzeta	mte:Appfsn	odvzet
+nadzorna	mte:Agpfsn	nadzoren
+funkcija	mte:Ncfsn	funkcija
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+očitke	mte:Ncmpa	očitek
+zavrača	mte:Vmpr3s	zavračati
+Moti	mte:Vmpr3s	motiti
+jih	mte:Pp3mpa--y	on
+tudi	mte:Q	tudi
+znesek	mte:Ncmsan	znesek
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+namenila	mte:Vmep-sf	nameniti
+poroštvu	mte:Ncnsd	poroštvo
+,	mte:Z	,
+saj	mte:Cc	saj
+zakon	mte:Ncmsn	zakon
+predvideva	mte:Vmpr3s	predvidevati
+izdajo	mte:Ncfsa	izdaja
+poroštev	mte:Ncfpg	poroštvo
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+četrtine	mte:Ncfsg	četrtina
+državnega	mte:Agpmsg	državen
+proračuna	mte:Ncmsg	proračun
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+presega	mte:Vmpr3s	presegati
+zmogljivosti	mte:Ncfpa	zmogljivost
+države	mte:Ncfsg	država
+.	mte:Z	.
+Hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+prepričani	mte:Appmpn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+ta	mte:Pd-fsn	ta
+rešitev	mte:Ncfsn	rešitev
+ni	mte:Va-r3s-y	biti
+pravična	mte:Agpfsn	pravičen
+,	mte:Z	,
+saj	mte:Cc	saj
+Slovenija	mte:Npfsn	Slovenija
+pomaga	mte:Vmbr3s	pomagati
+bogatejšim	mte:Agcfpd	bogat
+državam	mte:Ncfpd	država
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+niso	mte:Va-r3p-y	biti
+držale	mte:Vmpp-pf	držati
+javnofinančne	mte:Agpfsg	javnofinančen
+discipline	mte:Ncfsg	disciplina
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+te	mte:Pd-mpa	ta
+očitke	mte:Ncmpa	očitek
+že	mte:Q	že
+med	mte:Si	med
+razpravo	mte:Ncfsi	razprava
+v	mte:Sl	v
+državnem	mte:Agpmsl	državen
+zboru	mte:Ncmsl	zbor
+zavračala	mte:Vmpp-sf	zavračati
+.	mte:Z	.
+Po	mte:Sl	po
+njenem	mte:Ps3mslsf	njen
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+rešitev	mte:Ncfsa	rešitev
+,	mte:Z	,
+podobno	mte:Rgp	podobno
+jamstvenim	mte:Agpfpd	jamstven
+shemam	mte:Ncfpd	shema
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+sprejemale	mte:Vmpp-pf	sprejemati
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+finančn	mte:Agpnsn	finančn
+-	mte:Z	-
+gospodarske	mte:Agpfsg	gospodarski
+krize	mte:Ncfsg	kriza
+.	mte:Z	.
+Vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+že	mte:Q	že
+sredi	mte:Sg	sredi
+avgusta	mte:Ncmsg	avgust
+predlagala	mte:Vmbp-sf	predlagati
+ustavnemu	mte:Agpnsd	ustaven
+sodišču	mte:Ncnsd	sodišče
+,	mte:Z	,
+naj	mte:Cs	naj
+obe	mte:Pg-fda	oba
+zahtevi	mte:Ncfda	zahteva
+zavrne	mte:Vmer3s	zavrniti

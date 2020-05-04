@@ -1,625 +1,644 @@
-token	tag
-Predsednik	Ncmsn
-vlade	Ncfsg
-Borut	Npmsn
-Pahor	Npmsn
-ostro	Rgp
-obsoja	Vmpr3s
-surovo	Agpnsa
-nasilje	Ncnsa
-v	Sl
-Libiji	Npfsl
-,	Z
-a	Cc
-hkrati	Rgp
-vlada	Ncfsn
-nikoli	Rgp
-ni	Va-r3s-y
-imela	Vmpp-sf
-težav	Ncfpg
-s	Si
-prodajo	Ncfsi
-orožja	Ncnsg
-in	Cc
-vojaške	Agpfsg
-tehnologije	Ncfsg
-Gadafijevemu	Aspmsd
-režimu	Ncmsd
-.	Z
-Pahor	Npmsn
-in	Cc
-Gadafi	Npmsn
-Čeprav	Cs
-premier	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-ostro	Rgp
-obsoja	Vmpr3s
-prav	Q
-nasilje	Ncnsa
-v	Sl
-Libiji	Npfsl
-,	Z
-je	Va-r3s-n
-njegova	Ps3fsnsm
-vlada	Ncfsn
-v	Sl
-letih	Ncnpl
-2009	Mdc
-in	Cc
-2010	Mdc
-dovolila	Vmep-sf
-prodajo	Ncfsa
-vojaške	Agpfsg
-opreme	Ncfsg
-libijski	Agpfsd
-vojski	Ncfsd
-.	Z
-Obrambna	Agpfsn
-ministrica	Ncfsn
-Ljubica	Npfsn
-Jelušič	Npfsn
-sicer	Q
-ne	Q
-želi	Vmpr3s
-razkriti	Vmen
-,	Z
-kateremu	Pq-msd
-slovenskemu	Agpmsd
-izvozniku	Ncmsd
-je	Va-r3s-n
-dela	Ncnsg
-soglasje	Ncnsn
-oziroma	Cc
-ali	Rgp
-gre	Vmbr3s
-morda	Q
-za	Sl
-preprodajalcu	Ncmsd
-opreme	Ncfsg
--	Z
-ki	Cs
-je	Pp3fsg--y
-druge	Mlpfpn
-države	Ncfpn
-morda	Q
-niso	Va-r3p-y
-želele	Vmpp-pf
-prodati	Vmen
-Gadafiju	Npmsd
-.	Z
-Na	Sl
-obrambnem	Agpnsl
-ministrstvu	Ncnsl
-pa	Cc
-so	Va-r3p-n
-danes	Rgp
-zatrdili	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-imeli	Vmpp-pm
-zadnji	Agpmpa
-dogodki	Ncmsan
-negativni	Agpmsay
-vpliv	Ncmsan
-na	Sa
-dovoljenja	Ncnpa
-za	Sa
-prodajo	Ncfsa
-vojaškega	Agpnsg
-orožja	Ncnsg
-ali	Cc
-opreme	Ncfsg
-libijski	Agpfsd
-vladi	Ncfsd
-.	Z
-Poslovneži	Ncmpn
-in	Cc
-posli	Ncmpn
-čakajo	Vmpr3p
-na	Sa
-boljše	Agcmpa
-čase	Ncmpa
-Libijski	Agpmpn
-poslovneži	Ncmpn
-ne	Q
-morejo	Vmpr3p
-iz	Sg
-države	Ncfsg
-,	Z
-slovenski	Agpmpn
-ne	Q
-morejo	Vmpr3p
-tja	Rgp
-.	Z
-Ostane	Vmer3s
-nam	Pp1-pd
-samo	Q
-to	Pd-nsn
-,	Z
-da	Cs
-čakamo	Vmpr1p
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-Esad	Npmsn
-Ajeti	Npmsn
-z	Sg
-Gospodarske	Agpfsg
-zbornice	Ncfsg
-Slovenije	Npfsg
-GZS	Npfsn
-.	Z
-Trgovinsko	Agpnsn
-sodelovanje	Ncnsa
-med	Si
-Slovenijo	Npfsi
-in	Cc
-Libijo	Npfsi
-je	Va-r3s-n
-po	Sl
-Ajetijevih	Aspfpl
-besedah	Ncfpl
-sicer	Q
-dobro	Rgp
-zastavljeno	Appnsn
-.	Z
-V	Sl
-preteklosti	Ncfsl
-je	Va-r3s-n
-več	Rgc
-slovenskih	Agpmpg
-podjetnikov	Ncmpg
-opravilo	Vmep-sn
-pogovore	Ncmpa
-s	Si
-predstavniki	Ncmpi
-libijskega	Agpnsg
-gospodarstva	Ncnsg
-,	Z
-več	Rgc
-libijskih	Agpmpg
-poslovnežev	Ncmpg
-pa	Cc
-je	Va-r3s-n
-obiskalo	Vmep-sn
-tudi	Q
-Slovenijo	Npfsa
-.	Z
-Blagovna	Agpfsn
-menjava	Ncfsn
-med	Si
-državama	Ncfdi
-je	Va-r3s-n
-v	Sl
-letu	Ncnsl
-2010	Mdc
-znašala	Vmpp-sf
-skoraj	Q
-80	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Ajeti	Npmsn
-pojasnjuje	Vmpr3s
-,	Z
-da	Cs
-95	Mdc
-odstotkov	Ncmpg
-vsega	Pg-msg
-slovenskega	Agpmsg
-uvoza	Ncmsg
-iz	Sg
-Libije	Npfsg
-predstavlja	Vmpr3s
-nafta	Ncfsn
-41	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-ostalo	Vmep-sn
-pa	Cc
-izdelki	Ncmpn
-iz	Sg
-plina	Ncmsg
-.	Z
-Izvoz	Ncmsan
-v	Sa
-Libijo	Npfsa
-znaša	Vmpr3s
-približno	Rgp
-38	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-od	Sg
-tega	Pd-nsg
-približno	Rgp
-80	Mdc
-odstotkov	Ncmpg
-predstavlja	Vmpr3s
-izvoz	Ncmsan
-lesa	Ncmsg
-.	Z
-Ajeti	Npmsn
-pojasnjuje	Vmpr3s
-,	Z
-da	Cs
-ne	Q
-gre	Vmbr3s
-za	Sa
-slovenski	Agpmsay
-les	Ncmsan
-,	Z
-temveč	Cc
-švedski	Agpmpn
-oziroma	Cc
-finski	Agpmpn
-,	Z
-Slovenci	Npmpn
-pa	Cc
-smo	Va-r1p-n
-pri	Sl
-tem	Pd-msl
-poslu	Ncmsl
-logisti	Ncmpn
-.	Z
-Slovenija	Npfsn
-v	Sa
-Libijo	Npfsa
-izvaža	Vmpr3s
-tudi	Q
-izdelke	Ncmpa
-iz	Sg
-železa	Ncnsg
-.	Z
-Sicer	Q
-pa	Cc
-je	Va-r3s-n
-Slovenija	Npfsn
-,	Z
-kot	Cs
-je	Va-r3s-n
-spomnil	Vmep-sm
-Ajeti	Npmsn
-,	Z
-v	Sl
-Libiji	Npfsl
-sprva	Rgp
-stavila	Vmpp-sf
-predvsem	Q
-na	Sa
-gradbene	Agpmpa
-posle	Ncmpa
-.	Z
-Več	Rgc
-slovenskih	Agpnpg
-podjetij	Ncnpg
-je	Va-r3s-n
-v	Sl
-tej	Pd-fsl
-državi	Ncfsl
-že	Q
-podpisalo	Vmep-sn
-pogodbe	Ncfpa
-,	Z
-ki	Cs
-pa	Cc
-so	Va-r3p-n
-predvidevale	Vmpp-pf
-pridobitev	Ncfsa
-bančne	Agpfsg
-garancije	Ncfsg
-.	Z
-Teh	Pd-npg
-slovenska	Agpnpn
-gradbena	Agpnpn
-podjetja	Ncnpn
-zaradi	Sg
-razmer	Ncfpg
-v	Sl
-panogi	Ncfsl
-niso	Va-r3p-y
-uspela	Vmep-pn
-pridobiti	Vmen
-,	Z
-zato	Cc
-so	Va-r3p-n
-pogodbe	Ncfpn
-brezpredmetne	Agpfpn
-.	Z
-Nemiri	Ncmpn
-v	Sl
-Libiji	Npfsl
-tako	Rgp
-niso	Va-r3p-y
-razlog	Ncmsn
-,	Z
-da	Cs
-v	Sl
-državi	Ncfsl
-ni	Va-r3s-y
-poslov	Ncmpg
-za	Sa
-slovenska	Agpnpa
-gradbena	Agpnpa
-podjetja	Ncnpa
-,	Z
-je	Va-r3s-n
-zatrdil	Vmep-sm
-Ajeti	Npmsn
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-sprva	Rgp
-stavila	Vmpp-sf
-predvsem	Q
-na	Sa
-gradbene	Agpmpa
-posle	Ncmpa
-,	Z
-a	Cc
-slovenska	Agpnpn
-gradbena	Agpnpn
-podjetja	Ncnpn
-zaradi	Sg
-razmer	Ncfpg
-v	Sl
-panogi	Ncfsl
-niso	Va-r3p-y
-uspela	Vmep-pn
-pridobiti	Vmen
-bančnih	Agpfpg
-garancij	Ncfpg
-.	Z
-Projekti	Ncmpn
-družbe	Ncfsg
-stojijo	Vmpr3p
-Medtem	Rgp
-pa	Cc
-je	Va-r3s-n
-direktor	Ncmsn
-podjetja	Ncnsg
-Neimar	Npmsn
-Invest	Npmsn
-Safet	Npmsn
-Brčvak	Npmsn
-povedal	Vmep-sm
-,	Z
-da	Cs
-projekti	Ncmpn
-družbe	Ncfsg
-v	Sl
-Libiji	Npfsl
-zaradi	Sg
-trenutnih	Agpfpg
-razmer	Ncfpg
-v	Sl
-državi	Ncfsl
-stojijo	Vmpr3p
-,	Z
-njihova	Ps3fsnp
-usoda	Ncfsn
-pa	Cc
-je	Va-r3s-n
-negotova	Agpfsn
-.	Z
-Kot	Cs
-je	Va-r3s-n
-poudaril	Vmep-sm
-,	Z
-se	Px------y
-aprila	Ncmsg
-lani	Rgp
-dogovorjeni	Appmpn
-gradbeni	Agpmpn
-posli	Ncmpn
-na	Sl
-libijskem	Agpmsl
-trgu	Ncmsl
-še	Q
-ne	Q
-izvajajo	Vmpr3p
-,	Z
-saj	Cc
-so	Va-r3p-n
-v	Sl
-razvojni	Agpfsl
-fazi	Ncfsl
-,	Z
-zanje	Pp3mpa--b
-pa	Cc
-so	Va-r3p-n
-iskali	Vmpp-pm
-tudi	Q
-bančne	Agpfpa
-garancije	Ncfpa
-.	Z
-Ljubljanski	Agpmsny
-Neimar	Npmsn
-Invest	Npmsn
-sicer	Q
-v	Sl
-Libiji	Npfsl
-nima	Vmpr3s-y
-nobenih	Pz-mpg
-delavcev	Ncmpg
-,	Z
-projektanti	Ncmpn
-pa	Cc
-so	Va-r3p-n
-Libijci	Npmpn
-.	Z
-Družba	Ncfsn
-Neimar	Npfsn
-Invest	Npfsn
-je	Va-r3s-n
-v	Sl
-Libiji	Npfsl
-podpisala	Vmep-sf
-pogodbo	Ncfsa
-za	Sa
-gradnjo	Ncfsa
-stanovanjskega	Agpnsg
-naselja	Ncnsg
-v	Sl
-mestu	Ncnsl
-Sirt	Npfsn
-v	Sl
-višini	Ncfsl
-110	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-in	Cc
-pogodbo	Ncfsa
-za	Sa
-gradnjo	Ncfsa
-otroške	Agpfsg
-bolnišnice	Ncfsg
-v	Sl
-Tripoliju	Npmsl
-v	Sl
-višini	Ncfsl
-40	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
-Pri	Sl
-izvedbi	Ncfsl
-teh	Pd-mpg
-projektov	Ncmpg
-je	Va-r3s-n
-bilo	Va-p-sn
-predvideno	Appnsn
-sodelovanje	Ncnsn
-več	Rgc
-slovenskih	Agpnpg
-podjetij	Ncnpg
-,	Z
-ki	Cs
-bi	Va-c
-dobavljala	Vmpp-sf
-opremo	Ncfsa
-stavbno	Agpnsa
-pohištvo	Ncnsa
-,	Z
-keramične	Agpfpa
-ploščice	Ncfpa
-,	Z
-inštalacije	Ncfpa
-in	Cc
-izvajala	Vmpp-sf
-zaključna	Agpnpa
-dela	Ncnpa
-.	Z
-Zaradi	Sg
-Pahorjevega	Aspmsg
-obiska	Ncmsg
-se	Px------y
-sodelovanje	Ncnsa
-ni	Va-r3s-y
-okrepilo	Vmep-sn
-Libijo	Npfsa
-je	Va-r3s-n
-novembra	Ncmsg
-2009	Mdc
-z	Si
-močno	Agpfsi
-gospodarsko	Agpfsi
-delegacijo	Ncfsi
-obiskal	Vmep-sm
-predsednik	Ncmsn
-vlade	Ncfsg
-Borut	Npmsn
-Pahor	Npmsn
-.	Z
-Ajeti	Npmsn
-je	Va-r3s-n
-na	Sa
-vprašanje	Ncnsa
-,	Z
-ali	Rgp
-se	Px------y
-je	Va-r3s-n
-trgovinsko	Agpnsn
-sodelovanje	Ncnsa
-med	Si
-državama	Ncfdi
-po	Sl
-tem	Pd-msl
-obisku	Ncmsl
-okrepilo	Vmep-sn
-,	Z
-odgovoril	Vmep-sm
-nikalno	Rgp
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-je	Va-r3s-n
-bil	Va-p-sm
-poudarek	Ncmsn
-takratnega	Agpmsg
-obiska	Ncmsg
-slovenskega	Agpmsg
-predsednika	Ncmsg
-vlade	Ncfsg
-na	Sl
-gradbenih	Agpmpl
-poslih	Ncmpl
-,	Z
-katerih	Pq-mpg
-epilog	Ncmsn
-je	Va-r3s-n
-znan	Appmsnn
-.	Z
-Libija	Npfsn
-je	Va-r3s-n
-star	Agpmsnn
-trg	Ncmsn
-slovenskih	Agpnpg
-podjetij	Ncnpg
-,	Z
-ki	Cs
-pa	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-v	Sl
-času	Ncmsl
-od	Sg
-slovenske	Agpfsg
-osamosvojitve	Ncfsg
-nekoliko	Rgp
-zapostavljen	Appmsnn
-.	Z
-V	Sl
-letu	Ncnsl
-2008	Mdc
-se	Px------y
-je	Va-r3s-n
-sicer	Q
-menjava	Ncfsn
-po	Sl
-številnih	Agpnpl
-letih	Ncnpl
-,	Z
-ko	Cs
-je	Va-r3s-n
-ta	Pd-fsn
-dosegala	Vmpp-sf
-le	Q
-po	Sa
-nekaj	Rgp
-milijonov	Ncmpg
-evrov	Ncmpg
-,	Z
-občutno	Rgp
-povečala	Vmep-sf
-na	Sa
-skoraj	Q
-150	Mdc
-milijonov	Ncmpg
-evrov	Ncmpg
-.	Z
+token	tag	lemma
+Predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+ostro	mte:Rgp	ostro
+obsoja	mte:Vmpr3s	obsojati
+surovo	mte:Agpnsa	surovo
+nasilje	mte:Ncnsa	nasilje
+v	mte:Sl	v
+Libiji	mte:Npfsl	Libija
+,	mte:Z	,
+a	mte:Cc	a
+hkrati	mte:Rgp	hkrati
+vlada	mte:Ncfsn	vlada
+nikoli	mte:Rgp	nikoli
+ni	mte:Va-r3s-y	biti
+imela	mte:Vmpp-sf	imeti
+težav	mte:Ncfpg	težava
+s	mte:Si	z
+prodajo	mte:Ncfsi	prodaja
+orožja	mte:Ncnsg	orožje
+in	mte:Cc	in
+vojaške	mte:Agpfsg	vojaški
+tehnologije	mte:Ncfsg	tehnologija
+Gadafijevemu	mte:Aspmsd	Gadafijev
+režimu	mte:Ncmsd	režim
+.	mte:Z	.
+Pahor	mte:Npmsn	Pahor
+in	mte:Cc	in
+Gadafi	mte:Npmsn	Gadafa
+Čeprav	mte:Cs	čeprav
+premier	mte:Ncmsn	premier
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+ostro	mte:Rgp	ostro
+obsoja	mte:Vmpr3s	obsojati
+prav	mte:Q	prav
+nasilje	mte:Ncnsa	nasilje
+v	mte:Sl	v
+Libiji	mte:Npfsl	Libija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+njegova	mte:Ps3fsnsm	njegov
+vlada	mte:Ncfsn	vlada
+v	mte:Sl	v
+letih	mte:Ncnpl	leto
+2009	mte:Mdc	2009
+in	mte:Cc	in
+2010	mte:Mdc	2010
+dovolila	mte:Vmep-sf	dovoliti
+prodajo	mte:Ncfsa	prodaja
+vojaške	mte:Agpfsg	vojaški
+opreme	mte:Ncfsg	oprema
+libijski	mte:Agpfsd	libijski
+vojski	mte:Ncfsd	vojska
+.	mte:Z	.
+Obrambna	mte:Agpfsn	obramben
+ministrica	mte:Ncfsn	ministrica
+Ljubica	mte:Npfsn	Ljubica
+Jelušič	mte:Npfsn	Jelušič
+sicer	mte:Q	sicer
+ne	mte:Q	ne
+želi	mte:Vmpr3s	želeti
+razkriti	mte:Vmen	razkriti
+,	mte:Z	,
+kateremu	mte:Pq-msd	kateri
+slovenskemu	mte:Agpmsd	slovenski
+izvozniku	mte:Ncmsd	izvoznik
+je	mte:Va-r3s-n	biti
+dela	mte:Ncnsg	delo
+soglasje	mte:Ncnsn	soglasje
+oziroma	mte:Cc	oziroma
+ali	mte:Rgp	ali
+gre	mte:Vmbr3s	iti
+morda	mte:Q	morda
+za	mte:Sl	za
+preprodajalcu	mte:Ncmsd	preprodajalec
+opreme	mte:Ncfsg	oprema
+-	mte:Z	-
+ki	mte:Cs	ki
+je	mte:Pp3fsg--y	on
+druge	mte:Mlpfpn	drug
+države	mte:Ncfpn	država
+morda	mte:Q	morda
+niso	mte:Va-r3p-y	biti
+želele	mte:Vmpp-pf	želeti
+prodati	mte:Vmen	prodati
+Gadafiju	mte:Npmsd	Gadafij
+.	mte:Z	.
+Na	mte:Sl	na
+obrambnem	mte:Agpnsl	obramben
+ministrstvu	mte:Ncnsl	ministrstvo
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+zatrdili	mte:Vmep-pm	zatrditi
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+imeli	mte:Vmpp-pm	imeti
+zadnji	mte:Agpmpa	zadnji
+dogodki	mte:Ncmsan	dogodek
+negativni	mte:Agpmsay	negativen
+vpliv	mte:Ncmsan	vpliv
+na	mte:Sa	na
+dovoljenja	mte:Ncnpa	dovoljenje
+za	mte:Sa	za
+prodajo	mte:Ncfsa	prodaja
+vojaškega	mte:Agpnsg	vojaški
+orožja	mte:Ncnsg	orožje
+ali	mte:Cc	ali
+opreme	mte:Ncfsg	oprema
+libijski	mte:Agpfsd	libijski
+vladi	mte:Ncfsd	vlada
+.	mte:Z	.
+Poslovneži	mte:Ncmpn	poslovnež
+in	mte:Cc	in
+posli	mte:Ncmpn	posel
+čakajo	mte:Vmpr3p	čakati
+na	mte:Sa	na
+boljše	mte:Agcmpa	dober
+čase	mte:Ncmpa	čas
+Libijski	mte:Agpmpn	libijski
+poslovneži	mte:Ncmpn	poslovnež
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+iz	mte:Sg	iz
+države	mte:Ncfsg	država
+,	mte:Z	,
+slovenski	mte:Agpmpn	slovenski
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+tja	mte:Rgp	tja
+.	mte:Z	.
+Ostane	mte:Vmer3s	ostati
+nam	mte:Pp1-pd	jaz
+samo	mte:Q	samo
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+da	mte:Cs	da
+čakamo	mte:Vmpr1p	čakati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+Esad	mte:Npmsn	Esad
+Ajeti	mte:Npmsn	Ajeta
+z	mte:Sg	z
+Gospodarske	mte:Agpfsg	gospodarski
+zbornice	mte:Ncfsg	zbornica
+Slovenije	mte:Npfsg	Slovenija
+GZS	mte:Npfsn	GZS
+.	mte:Z	.
+Trgovinsko	mte:Agpnsn	trgovinski
+sodelovanje	mte:Ncnsa	sodelovanje
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Libijo	mte:Npfsi	Libija
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+Ajetijevih	mte:Aspfpl	Ajetijev
+besedah	mte:Ncfpl	beseda
+sicer	mte:Q	sicer
+dobro	mte:Rgp	dobro
+zastavljeno	mte:Appnsn	zastavljen
+.	mte:Z	.
+V	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+je	mte:Va-r3s-n	biti
+več	mte:Rgc	več
+slovenskih	mte:Agpmpg	slovenski
+podjetnikov	mte:Ncmpg	podjetnik
+opravilo	mte:Vmep-sn	opravilo
+pogovore	mte:Ncmpa	pogovor
+s	mte:Si	z
+predstavniki	mte:Ncmpi	predstavnik
+libijskega	mte:Agpnsg	libijski
+gospodarstva	mte:Ncnsg	gospodarstvo
+,	mte:Z	,
+več	mte:Rgc	več
+libijskih	mte:Agpmpg	libijski
+poslovnežev	mte:Ncmpg	poslovnež
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+obiskalo	mte:Vmep-sn	obiskati
+tudi	mte:Q	tudi
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Blagovna	mte:Agpfsn	blagoven
+menjava	mte:Ncfsn	menjava
+med	mte:Si	med
+državama	mte:Ncfdi	država
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+letu	mte:Ncnsl	leto
+2010	mte:Mdc	2010
+znašala	mte:Vmpp-sf	znašati
+skoraj	mte:Q	skoraj
+80	mte:Mdc	80
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Ajeti	mte:Npmsn	Ajeta
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+,	mte:Z	,
+da	mte:Cs	da
+95	mte:Mdc	95
+odstotkov	mte:Ncmpg	odstotek
+vsega	mte:Pg-msg	ves
+slovenskega	mte:Agpmsg	slovenski
+uvoza	mte:Ncmsg	uvoz
+iz	mte:Sg	iz
+Libije	mte:Npfsg	Libija
+predstavlja	mte:Vmpr3s	predstavljati
+nafta	mte:Ncfsn	nafta
+41	mte:Mdc	41
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+ostalo	mte:Vmep-sn	ostati
+pa	mte:Cc	pa
+izdelki	mte:Ncmpn	izdelek
+iz	mte:Sg	iz
+plina	mte:Ncmsg	plin
+.	mte:Z	.
+Izvoz	mte:Ncmsan	izvoz
+v	mte:Sa	v
+Libijo	mte:Npfsa	Libija
+znaša	mte:Vmpr3s	znašati
+približno	mte:Rgp	približno
+38	mte:Mdc	38
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+od	mte:Sg	od
+tega	mte:Pd-nsg	ta
+približno	mte:Rgp	približno
+80	mte:Mdc	80
+odstotkov	mte:Ncmpg	odstotek
+predstavlja	mte:Vmpr3s	predstavljati
+izvoz	mte:Ncmsan	izvoz
+lesa	mte:Ncmsg	les
+.	mte:Z	.
+Ajeti	mte:Npmsn	Ajeta
+pojasnjuje	mte:Vmpr3s	pojasnjevati
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+slovenski	mte:Agpmsay	slovenski
+les	mte:Ncmsan	les
+,	mte:Z	,
+temveč	mte:Cc	temveč
+švedski	mte:Agpmpn	švedski
+oziroma	mte:Cc	oziroma
+finski	mte:Agpmpn	finski
+,	mte:Z	,
+Slovenci	mte:Npmpn	Slovenec
+pa	mte:Cc	pa
+smo	mte:Va-r1p-n	biti
+pri	mte:Sl	pri
+tem	mte:Pd-msl	ta
+poslu	mte:Ncmsl	posel
+logisti	mte:Ncmpn	logist
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+v	mte:Sa	v
+Libijo	mte:Npfsa	Libija
+izvaža	mte:Vmpr3s	izvažati
+tudi	mte:Q	tudi
+izdelke	mte:Ncmpa	izdelek
+iz	mte:Sg	iz
+železa	mte:Ncnsg	železo
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Slovenija	mte:Npfsn	Slovenija
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+spomnil	mte:Vmep-sm	spomniti
+Ajeti	mte:Npmsn	Ajeta
+,	mte:Z	,
+v	mte:Sl	v
+Libiji	mte:Npfsl	Libija
+sprva	mte:Rgp	sprva
+stavila	mte:Vmpp-sf	staviti
+predvsem	mte:Q	predvsem
+na	mte:Sa	na
+gradbene	mte:Agpmpa	gradben
+posle	mte:Ncmpa	posel
+.	mte:Z	.
+Več	mte:Rgc	več
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+tej	mte:Pd-fsl	ta
+državi	mte:Ncfsl	država
+že	mte:Q	že
+podpisalo	mte:Vmep-sn	podpisati
+pogodbe	mte:Ncfpa	pogodba
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+predvidevale	mte:Vmpp-pf	predvidevati
+pridobitev	mte:Ncfsa	pridobitev
+bančne	mte:Agpfsg	bančen
+garancije	mte:Ncfsg	garancija
+.	mte:Z	.
+Teh	mte:Pd-npg	ta
+slovenska	mte:Agpnpn	slovenski
+gradbena	mte:Agpnpn	gradben
+podjetja	mte:Ncnpn	podjetje
+zaradi	mte:Sg	zaradi
+razmer	mte:Ncfpg	razmera
+v	mte:Sl	v
+panogi	mte:Ncfsl	panog
+niso	mte:Va-r3p-y	biti
+uspela	mte:Vmep-pn	uspeti
+pridobiti	mte:Vmen	pridobiti
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+pogodbe	mte:Ncfpn	pogodba
+brezpredmetne	mte:Agpfpn	brezpredmeten
+.	mte:Z	.
+Nemiri	mte:Ncmpn	nemira
+v	mte:Sl	v
+Libiji	mte:Npfsl	Libija
+tako	mte:Rgp	tako
+niso	mte:Va-r3p-y	biti
+razlog	mte:Ncmsn	razlog
+,	mte:Z	,
+da	mte:Cs	da
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+ni	mte:Va-r3s-y	biti
+poslov	mte:Ncmpg	posel
+za	mte:Sa	za
+slovenska	mte:Agpnpa	slovenski
+gradbena	mte:Agpnpa	gradben
+podjetja	mte:Ncnpa	podjetje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+Ajeti	mte:Npmsn	Ajeta
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+sprva	mte:Rgp	sprva
+stavila	mte:Vmpp-sf	staviti
+predvsem	mte:Q	predvsem
+na	mte:Sa	na
+gradbene	mte:Agpmpa	gradben
+posle	mte:Ncmpa	posel
+,	mte:Z	,
+a	mte:Cc	a
+slovenska	mte:Agpnpn	slovenski
+gradbena	mte:Agpnpn	gradben
+podjetja	mte:Ncnpn	podjetje
+zaradi	mte:Sg	zaradi
+razmer	mte:Ncfpg	razmera
+v	mte:Sl	v
+panogi	mte:Ncfsl	panog
+niso	mte:Va-r3p-y	biti
+uspela	mte:Vmep-pn	uspeti
+pridobiti	mte:Vmen	pridobiti
+bančnih	mte:Agpfpg	bančen
+garancij	mte:Ncfpg	garancija
+.	mte:Z	.
+Projekti	mte:Ncmpn	projekt
+družbe	mte:Ncfsg	družba
+stojijo	mte:Vmpr3p	stati
+Medtem	mte:Rgp	medtem
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+direktor	mte:Ncmsn	direktor
+podjetja	mte:Ncnsg	podjetje
+Neimar	mte:Npmsn	Neimar
+Invest	mte:Npmsn	Invest
+Safet	mte:Npmsn	Safet
+Brčvak	mte:Npmsn	Brčvak
+povedal	mte:Vmep-sm	povedati
+,	mte:Z	,
+da	mte:Cs	da
+projekti	mte:Ncmpn	projekt
+družbe	mte:Ncfsg	družba
+v	mte:Sl	v
+Libiji	mte:Npfsl	Libija
+zaradi	mte:Sg	zaradi
+trenutnih	mte:Agpfpg	trenuten
+razmer	mte:Ncfpg	razmera
+v	mte:Sl	v
+državi	mte:Ncfsl	država
+stojijo	mte:Vmpr3p	stati
+,	mte:Z	,
+njihova	mte:Ps3fsnp	njihov
+usoda	mte:Ncfsn	usoda
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+negotova	mte:Agpfsn	negotov
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+se	mte:Px------y	se
+aprila	mte:Ncmsg	april
+lani	mte:Rgp	lani
+dogovorjeni	mte:Appmpn	dogovorjen
+gradbeni	mte:Agpmpn	gradben
+posli	mte:Ncmpn	posel
+na	mte:Sl	na
+libijskem	mte:Agpmsl	libijski
+trgu	mte:Ncmsl	trg
+še	mte:Q	še
+ne	mte:Q	ne
+izvajajo	mte:Vmpr3p	izvajati
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+razvojni	mte:Agpfsl	razvojen
+fazi	mte:Ncfsl	faza
+,	mte:Z	,
+zanje	mte:Pp3mpa--b	zame
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+iskali	mte:Vmpp-pm	iskati
+tudi	mte:Q	tudi
+bančne	mte:Agpfpa	bančen
+garancije	mte:Ncfpa	garancija
+.	mte:Z	.
+Ljubljanski	mte:Agpmsny	ljubljanski
+Neimar	mte:Npmsn	Neimar
+Invest	mte:Npmsn	Invest
+sicer	mte:Q	sicer
+v	mte:Sl	v
+Libiji	mte:Npfsl	Libija
+nima	mte:Vmpr3s-y	imeti
+nobenih	mte:Pz-mpg	noben
+delavcev	mte:Ncmpg	delavec
+,	mte:Z	,
+projektanti	mte:Ncmpn	projektant
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+Libijci	mte:Npmpn	Libijec
+.	mte:Z	.
+Družba	mte:Ncfsn	družba
+Neimar	mte:Npfsn	Neimar
+Invest	mte:Npfsn	Invest
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Libiji	mte:Npfsl	Libija
+podpisala	mte:Vmep-sf	podpisati
+pogodbo	mte:Ncfsa	pogodba
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+stanovanjskega	mte:Agpnsg	stanovanjski
+naselja	mte:Ncnsg	naselje
+v	mte:Sl	v
+mestu	mte:Ncnsl	mesto
+Sirt	mte:Npfsn	Sirt
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+110	mte:Mdc	110
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+pogodbo	mte:Ncfsa	pogodba
+za	mte:Sa	za
+gradnjo	mte:Ncfsa	gradnja
+otroške	mte:Agpfsg	otroški
+bolnišnice	mte:Ncfsg	bolnišnica
+v	mte:Sl	v
+Tripoliju	mte:Npmsl	Tripolij
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+40	mte:Mdc	40
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Pri	mte:Sl	pri
+izvedbi	mte:Ncfsl	izvedba
+teh	mte:Pd-mpg	ta
+projektov	mte:Ncmpg	projekt
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+predvideno	mte:Appnsn	predviden
+sodelovanje	mte:Ncnsn	sodelovanje
+več	mte:Rgc	več
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+dobavljala	mte:Vmpp-sf	dobavljati
+opremo	mte:Ncfsa	oprema
+stavbno	mte:Agpnsa	stavben
+pohištvo	mte:Ncnsa	pohištvo
+,	mte:Z	,
+keramične	mte:Agpfpa	keramičen
+ploščice	mte:Ncfpa	ploščica
+,	mte:Z	,
+inštalacije	mte:Ncfpa	inštalacija
+in	mte:Cc	in
+izvajala	mte:Vmpp-sf	izvajati
+zaključna	mte:Agpnpa	zaključen
+dela	mte:Ncnpa	delo
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+Pahorjevega	mte:Aspmsg	Pahorjev
+obiska	mte:Ncmsg	obisk
+se	mte:Px------y	se
+sodelovanje	mte:Ncnsa	sodelovanje
+ni	mte:Va-r3s-y	biti
+okrepilo	mte:Vmep-sn	okrepiti
+Libijo	mte:Npfsa	Libija
+je	mte:Va-r3s-n	biti
+novembra	mte:Ncmsg	november
+2009	mte:Mdc	2009
+z	mte:Si	z
+močno	mte:Agpfsi	močen
+gospodarsko	mte:Agpfsi	gospodarski
+delegacijo	mte:Ncfsi	delegacija
+obiskal	mte:Vmep-sm	obiskati
+predsednik	mte:Ncmsn	predsednik
+vlade	mte:Ncfsg	vlada
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+.	mte:Z	.
+Ajeti	mte:Npmsn	Ajeta
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+ali	mte:Rgp	ali
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+trgovinsko	mte:Agpnsn	trgovinski
+sodelovanje	mte:Ncnsa	sodelovanje
+med	mte:Si	med
+državama	mte:Ncfdi	država
+po	mte:Sl	po
+tem	mte:Pd-msl	ta
+obisku	mte:Ncmsl	obisk
+okrepilo	mte:Vmep-sn	okrepiti
+,	mte:Z	,
+odgovoril	mte:Vmep-sm	odgovoriti
+nikalno	mte:Rgp	nikalno
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+poudarek	mte:Ncmsn	poudarek
+takratnega	mte:Agpmsg	takraten
+obiska	mte:Ncmsg	obisk
+slovenskega	mte:Agpmsg	slovenski
+predsednika	mte:Ncmsg	predsednik
+vlade	mte:Ncfsg	vlada
+na	mte:Sl	na
+gradbenih	mte:Agpmpl	gradben
+poslih	mte:Ncmpl	posel
+,	mte:Z	,
+katerih	mte:Pq-mpg	kateri
+epilog	mte:Ncmsn	epiloga
+je	mte:Va-r3s-n	biti
+znan	mte:Appmsnn	znan
+.	mte:Z	.
+Libija	mte:Npfsn	Libija
+je	mte:Va-r3s-n	biti
+star	mte:Agpmsnn	star
+trg	mte:Ncmsn	trg
+slovenskih	mte:Agpnpg	slovenski
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+v	mte:Sl	v
+času	mte:Ncmsl	čas
+od	mte:Sg	od
+slovenske	mte:Agpfsg	slovenski
+osamosvojitve	mte:Ncfsg	osamosvojitev
+nekoliko	mte:Rgp	nekoliko
+zapostavljen	mte:Appmsnn	zapostavljen
+.	mte:Z	.
+V	mte:Sl	v
+letu	mte:Ncnsl	leto
+2008	mte:Mdc	2008
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+menjava	mte:Ncfsn	menjava
+po	mte:Sl	po
+številnih	mte:Agpnpl	številen
+letih	mte:Ncnpl	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-fsn	ta
+dosegala	mte:Vmpp-sf	dosegati
+le	mte:Q	le
+po	mte:Sa	po
+nekaj	mte:Rgp	nekaj
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+občutno	mte:Rgp	občutno
+povečala	mte:Vmep-sf	povečati
+na	mte:Sa	na
+skoraj	mte:Q	skoraj
+150	mte:Mdc	150
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+V	mte:Sl	v
+letu	mte:Ncnsl	leto
+2009	mte:Mdc	2009
+je	mte:Va-r3s-n	biti
+znašala	mte:Vmpp-sf	znašati
+82	mte:Mdc	82
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+lani	mte:Rgp	lani
+pa	mte:Cc	pa
+,	mte:Z	,
+kot	mte:Cs	kot
+omenjeno	mte:Appnsn	omenjen
+,	mte:Z	,
+okoli	mte:Rgp	okoli
+80	mte:Mdc	80
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro

@@ -1,499 +1,522 @@
-token	tag
-Pred	Si
-nekaj	Rgp
-dnevi	Ncmpi
-je	Va-r3s-n
-izšla	Vmep-sf
-knjiga	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-nastala	Vmep-sf
-po	Sl
-zapiskih	Ncmpl
-s	Sg
-snemanja	Ncnsg
-Clintonovega	Aspmsg
-dnevnika	Ncmsg
-za	Sa
-časa	Ncmsg
-njegovega	Ps3nsgsm
-predsedovanja	Ncnsg
-ZDA	Npfpg
-Foto	Npmsn
-:	Z
-©	Npmsn
-Bloomberg	Npmsn
-businessweek	Ncmsn
-Vse	Rgp
-od	Sg
-afere	Ncfsg
-Watergate	Npmsn
-naprej	Rgp
-ameriški	Agpmpn
-predsedniki	Ncmpn
-niso	Va-r3p-y
-zaupljivi	Agpmpn
-do	Sg
-snemanja	Ncnsg
-pogovorov	Ncmpg
-v	Sl
-Beli	Agpfsl
-Hiši	Ncfsl
-.	Z
-Bill	Npmsn
-Clinton	Npmsn
-,	Z
-kot	Cs
-kaže	Vmpr3s
-,	Z
-ni	Va-r3s-y
-imel	Vmpp-sm
-slabe	Agpfsg
-vesti	Ncfsg
-.	Z
-S	Si
-svojim	Px-msi
-sodelavcem	Ncmsi
-iz	Sg
-mladih	Agpnpg
-let	Ncnpg
-,	Z
-zgodovinarjem	Ncmpd
-Taylorjem	Npmsi
-Branchem	Npmsi
-(	Z
-na	Sl
-sliki	Ncfsl
-desno	Rgp
-)	Z
-,	Z
-se	Px------y
-je	Va-r3s-n
-med	Si
-svojim	Px-nsi
-predsedovanjem	Ncnsi
-srečal	Vmep-sm
-na	Sl
-79	Mdc
-sestankih	Ncmpl
-.	Z
-Skupaj	Rgp
-sta	Va-r3d-n
-naredila	Vmep-dm
-skrivni	Agpmsay
-Clintonov	Aspmsan
-dnevnik	Ncmsan
-.	Z
-Clinton	Npmsn
-je	Va-r3s-n
-obdržal	Vmep-sm
-posnetke	Ncmpa
-,	Z
-zato	Cc
-je	Va-r3s-n
-Branch	Npmsn
-knjigo	Ncfsa
-"	Z
-The	Xf
-Clinton	Npmsn
-Tapes	Xf
-:	Z
-Wrestling	Xf
-History	Xf
-with	Xf
-the	Xf
-President	Npmsn
-"	Z
-napisal	Vmep-sm
-po	Sl
-svojih	Px-mpl
-zapiskih	Ncmpl
-.	Z
-V	Sl
-njej	Pp3fsl
-je	Va-r3s-n
-opisan	Appmsnn
-nov	Agpmsnn
-pogled	Ncmsn
-na	Sa
-Clintonovo	Aspnsa
-delo	Ncnsa
-na	Sl
-področju	Ncnsl
-gospodarstva	Ncnsg
-in	Cc
-predvsem	Q
-javnega	Agpmsg
-primanjkljaja	Ncmsg
-,	Z
-okrepitev	Ncfsa
-teroristične	Agpfsg
-mreže	Ncfsg
-Al	Npmsn
-Kajde	Npmsn
-in	Cc
-tudi	Q
-manj	Rgc
-uspešni	Agpmpn
-časi	Ncmpn
-med	Si
-škandalom	Ncmsi
-zaradi	Sg
-Monice	Npfsg
-Lewinsky	Npfsg
-.	Z
-Foto	Npmsn
-:	Z
-©	Npmsn
-Bloomberg	Npmsn
-businessweek	Ncmsn
-INFO	Npmsn
-Nekdanji	Agpmsny
-predsednik	Ncmsn
-ZDA	Npfpg
-Bill	Npmsn
-Clinton	Npmsn
-bo	Va-f3s-n
-za	Sa
-udeležence	Ncmpa
-11	Mdc
-.	Z
-Poslovne	Agpfsg
-konference	Ncfsg
-Portorož	Npmsn
-(	Z
-PKP	Npmsn
-)	Z
-,	Z
-člane	Ncmpa
-Diners	Npfsg
-Cluba	Npmsg
-in	Cc
-AmChama	Npmsay
-imel	Vmpp-sm
-31	Mdc
-.	Z
-oktobra	Ncmsg
-v	Sl
-ljubljanskem	Agpmsl
-Cankarjevem	Aspmsl
-domu	Ncmsl
-predavanje	Ncnsa
-o	Sl
-spopadu	Ncmsl
-z	Si
-gospodarsko	Agpfsi
-krizo	Ncfsi
-.	Z
-Več	Rgc
-informacij	Ncfpg
-o	Sl
-konferenci	Ncfsl
-,	Z
-ki	Cs
-bo	Va-f3s-n
-letos	Rgp
-izjemoma	Rgp
-potekala	Vmpp-sf
-v	Sl
-Ljubljani	Npfsl
-,	Z
-na	Sl
-tej	Pd-fsl
-povezavi	Ncfsl
-,	Z
-svojo	Px-fsa
-prijavnico	Ncfsa
-pa	Cc
-lahko	Rgp
-oddate	Vmer2p
-tukaj	Rgp
-.	Z
-Sicer	Q
-pa	Cc
-vam	Pp2-pd
-ponujamo	Vmpr1p
-tudi	Q
-možnost	Ncfsa
-,	Z
-da	Cs
-Clintonu	Npmsd
-zastavite	Vmer2p
-vprašanje	Ncnsa
-po	Sl
-želji	Ncfsl
-.	Z
-Najbolj	Rgs
-zanimiva	Agpmsa
-bomo	Va-f1p-n
-zbrali	Vmep-pm
-in	Cc
-mu	Pp3msd--y
-jih	Pp3mpa--y
-zastavili	Vmep-pm
-po	Sl
-njegovem	Ps3nslsm
-predavanju	Ncnsl
-.	Z
-"	Z
-Naenkrat	Rgp
-se	Px------y
-je	Va-r3s-n
-ukvarjal	Vmpp-sm
-z	Si
-več	Rgc
-težavami	Ncfpi
-hkrati	Rgp
-in	Cc
-gledal	Vmpp-sm
-v	Sa
-prihodnost	Ncfsa
-"	Z
-V	Sl
-intervjuju	Ncmsl
-za	Sa
-Reuters	Npmsan
-je	Va-r3s-n
-Branch	Npmsn
-dejal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-mu	Pp3msd--y
-je	Va-r3s-n
-zdelo	Vmpp-sn
-občudovanja	Ncnsg
-vredno	Agpnsn
-,	Z
-da	Cs
-se	Px------y
-je	Va-r3s-n
-kljub	Sd
-"	Z
-motnjam	Ncfpd
-od	Sg
-vsepovsod	Rgp
-"	Z
-,	Z
-Clinton	Npmsn
-neprestano	Rgp
-ukvarjal	Vmpp-sm
-z	Si
-več	Rgc
-težavami	Ncfpi
-celega	Agpmsg
-sveta	Ncmsg
-.	Z
-"	Z
-Pričakoval	Vmpp-sm
-sem	Va-r1s-n
-več	Rgc
-negodovanja	Ncnsg
-nad	Si
-tem	Pd-nsi
-,	Z
-kako	Rgp
-težko	Agpnsn
-je	Va-r3s-n
-biti	Va-n
-predsednik	Ncmsn
-,	Z
-a	Cc
-Clinton	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-vedno	Rgp
-zaskrbljen	Appmsnn
-le	Q
-o	Sl
-tem	Pd-nsl
-,	Z
-kaj	Pq-nsa
-bo	Va-f3s-n
-storil	Vmep-sm
-naslednje	Agpnsa
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-Branch	Npmsn
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-Je	Va-r3s-n
-Clinton	Npfsn
-vedno	Rgp
-imel	Vmpp-sm
-rad	Rgp
-argumentirane	Appfsg
-debate	Ncfpa
-med	Si
-in	Cc
-s	Si
-svojimi	Px-mpi
-svetovalci	Ncmpi
-.	Z
-"	Z
-Sam	Agpmsnn
-sem	Va-r1s-n
-si	Px---d--y
-predstavljal	Vmpp-sm
-,	Z
-da	Cs
-se	Px------y
-predsednik	Ncmsn
-ukvarja	Vmpr3s
-le	Q
-s	Si
-temami	Ncfpi
-na	Sa
-katere	Pq-mpa
-je	Va-r3s-n
-pripravljen	Appmsnn
-.	Z
-Na	Sa
-Clintona	Npmsay
-so	Va-r3p-n
-pritiski	Ncmpn
-in	Cc
-priložnosti	Ncfpn
-prežali	Vmpp-pm
-od	Sg
-vsepovsod	Rgp
-,	Z
-"	Z
-je	Va-r3s-n
-na	Sa
-vprašanje	Ncnsa
-,	Z
-kakšno	Pq-nsn
-se	Px------y
-mu	Pp3msd--y
-je	Va-r3s-n
-zdelo	Vmpp-sn
-Clintonovo	Aspnsn
-predsedovanje	Ncnsn
-,	Z
-odgovoril	Vmep-sm
-Branch	Npmsn
-.	Z
-"	Z
-Med	Si
-škandalom	Ncmsi
-z	Si
-Monico	Npfsi
-Lewinsky	Npfsi
-je	Va-r3s-n
-bil	Va-p-sm
-pod	Si
-hudim	Agpmsi
-pritiskom	Ncmsi
-"	Z
-Branch	Npmsn
-je	Va-r3s-n
-še	Q
-dejal	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-Clinton	Npmsn
-včasih	Rgp
-izjemno	Rgp
-utrujen	Appmsnn
-.	Z
-"	Z
-Med	Si
-snemanjem	Ncnsi
-dnevnika	Ncmsg
-,	Z
-se	Px------y
-je	Va-r3s-n
-včasih	Rgp
-pretegoval	Vmpp-sm
-in	Cc
-si	Px---d--y
-s	Si
-tem	Pd-nsi
-lajšal	Vmep-sm
-stres	Ncmsan
-.	Z
-Še	Q
-posebej	Rgp
-so	Va-r3p-n
-bili	Va-p-pm
-zanj	Pp3msa--b
-težki	Agpmpn
-časi	Ncmpn
-med	Si
-škandalom	Ncmsi
-z	Si
-Monico	Npfsi
-Lewinsky	Npfsi
-.	Z
-O	Sl
-slednjem	Agpnsl
-je	Va-r3s-n
-Clinton	Npmsn
-govoril	Vmpp-sm
-z	Si
-obžalovanjem	Ncnsi
-a	Cc
-svoje	Px-nsa
-predsedovanje	Ncnsa
-je	Va-r3s-n
-branil	Vmpp-sm
-do	Sg
-konca	Ncmsg
-,	Z
-"	Z
-je	Va-r3s-n
-razložil	Vmep-sm
-Branch	Npmsn
-.	Z
-"	Z
-Clinton	Npmsn
-se	Px------y
-boji	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-knjiga	Ncfsn
-preveč	Rgp
-osebna	Agpfsn
-"	Z
-Na	Sa
-vprašanje	Ncnsa
-kaj	Pq-nsa
-o	Sl
-knjigi	Ncfsl
-meni	Vmpr3s
-Clinton	Npfsn
-,	Z
-je	Va-r3s-n
-Branch	Npmsn
-dejal	Vmep-sm
-,	Z
-da	Cs
-se	Px------y
-boji	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-preveč	Rgp
-osebna	Agpfsn
-.	Z
-Pričakoval	Vmpp-sm
-je	Va-r3s-n
-namreč	Cc
-,	Z
-da	Cs
-bo	Va-f3s-n
-govorila	Vmpp-sf
-le	Q
-o	Sl
-politiki	Ncfsl
-.	Z
+token	tag	lemma
+Pred	mte:Si	pred
+nekaj	mte:Rgp	nekaj
+dnevi	mte:Ncmpi	dan
+je	mte:Va-r3s-n	biti
+izšla	mte:Vmep-sf	iziti
+knjiga	mte:Ncfsn	knjiga
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+nastala	mte:Vmep-sf	nastati
+po	mte:Sl	po
+zapiskih	mte:Ncmpl	zapisk
+s	mte:Sg	z
+snemanja	mte:Ncnsg	snemanje
+Clintonovega	mte:Aspmsg	Clintonov
+dnevnika	mte:Ncmsg	dnevnik
+za	mte:Sa	za
+časa	mte:Ncmsg	čas
+njegovega	mte:Ps3nsgsm	njegov
+predsedovanja	mte:Ncnsg	predsedovanje
+ZDA	mte:Npfpg	ZDA
+Foto	mte:Npmsn	foto
+:	mte:Z	:
+©	mte:Npmsn	©
+Bloomberg	mte:Npmsn	Bloomberg
+businessweek	mte:Ncmsn	businessweek
+Vse	mte:Rgp	vse
+od	mte:Sg	od
+afere	mte:Ncfsg	afera
+Watergate	mte:Npmsn	Watergat
+naprej	mte:Rgp	naprej
+ameriški	mte:Agpmpn	ameriški
+predsedniki	mte:Ncmpn	predsednik
+niso	mte:Va-r3p-y	biti
+zaupljivi	mte:Agpmpn	zaupljiv
+do	mte:Sg	do
+snemanja	mte:Ncnsg	snemanje
+pogovorov	mte:Ncmpg	pogovor
+v	mte:Sl	v
+Beli	mte:Agpfsl	bel
+Hiši	mte:Ncfsl	hiša
+.	mte:Z	.
+Bill	mte:Npmsn	Bill
+Clinton	mte:Npmsn	Clinton
+,	mte:Z	,
+kot	mte:Cs	kot
+kaže	mte:Vmpr3s	kazati
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+imel	mte:Vmpp-sm	imeti
+slabe	mte:Agpfsg	slab
+vesti	mte:Ncfsg	vest
+.	mte:Z	.
+S	mte:Si	z
+svojim	mte:Px-msi	svoj
+sodelavcem	mte:Ncmsi	sodelavec
+iz	mte:Sg	iz
+mladih	mte:Agpnpg	mlad
+let	mte:Ncnpg	leto
+,	mte:Z	,
+zgodovinarjem	mte:Ncmpd	zgodovinar
+Taylorjem	mte:Npmsi	Taylor
+Branchem	mte:Npmsi	Branchem
+(	mte:Z	(
+na	mte:Sl	na
+sliki	mte:Ncfsl	slika
+desno	mte:Rgp	desno
+)	mte:Z	)
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+svojim	mte:Px-nsi	svoj
+predsedovanjem	mte:Ncnsi	predsedovanje
+srečal	mte:Vmep-sm	srečati
+na	mte:Sl	na
+79	mte:Mdc	79
+sestankih	mte:Ncmpl	sestanek
+.	mte:Z	.
+Skupaj	mte:Rgp	skupaj
+sta	mte:Va-r3d-n	biti
+naredila	mte:Vmep-dm	narediti
+skrivni	mte:Agpmsay	skriven
+Clintonov	mte:Aspmsan	Clintonov
+dnevnik	mte:Ncmsan	dnevnik
+.	mte:Z	.
+Clinton	mte:Npmsn	Clinton
+je	mte:Va-r3s-n	biti
+obdržal	mte:Vmep-sm	obdržati
+posnetke	mte:Ncmpa	posnetek
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+Branch	mte:Npmsn	Branch
+knjigo	mte:Ncfsa	knjiga
+"	mte:Z	"
+The	mte:Xf	the
+Clinton	mte:Npmsn	Clinton
+Tapes	mte:Xf	tapes
+:	mte:Z	:
+Wrestling	mte:Xf	Wrestling
+History	mte:Xf	history
+with	mte:Xf	with
+the	mte:Xf	the
+President	mte:Npmsn	President
+"	mte:Z	"
+napisal	mte:Vmep-sm	napisati
+po	mte:Sl	po
+svojih	mte:Px-mpl	svoj
+zapiskih	mte:Ncmpl	zapisk
+.	mte:Z	.
+V	mte:Sl	v
+njej	mte:Pp3fsl	on
+je	mte:Va-r3s-n	biti
+opisan	mte:Appmsnn	opisan
+nov	mte:Agpmsnn	nov
+pogled	mte:Ncmsn	pogled
+na	mte:Sa	na
+Clintonovo	mte:Aspnsa	Clintonov
+delo	mte:Ncnsa	delo
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+gospodarstva	mte:Ncnsg	gospodarstvo
+in	mte:Cc	in
+predvsem	mte:Q	predvsem
+javnega	mte:Agpmsg	javen
+primanjkljaja	mte:Ncmsg	primanjkljaj
+,	mte:Z	,
+okrepitev	mte:Ncfsa	okrepitev
+teroristične	mte:Agpfsg	terorističen
+mreže	mte:Ncfsg	mreža
+Al	mte:Npmsn	Al
+Kajde	mte:Npmsn	Kajda
+in	mte:Cc	in
+tudi	mte:Q	tudi
+manj	mte:Rgc	manj
+uspešni	mte:Agpmpn	uspešen
+časi	mte:Ncmpn	čas
+med	mte:Si	med
+škandalom	mte:Ncmsi	škandal
+zaradi	mte:Sg	zaradi
+Monice	mte:Npfsg	Monica
+Lewinsky	mte:Npfsg	Lewinsky
+.	mte:Z	.
+Foto	mte:Npmsn	foto
+:	mte:Z	:
+©	mte:Npmsn	©
+Bloomberg	mte:Npmsn	Bloomberg
+businessweek	mte:Ncmsn	businessweek
+INFO	mte:Npmsn	INFO
+Nekdanji	mte:Agpmsny	nekdanji
+predsednik	mte:Ncmsn	predsednik
+ZDA	mte:Npfpg	ZDA
+Bill	mte:Npmsn	Bill
+Clinton	mte:Npmsn	Clinton
+bo	mte:Va-f3s-n	biti
+za	mte:Sa	za
+udeležence	mte:Ncmpa	udeleženec
+11	mte:Mdc	11
+.	mte:Z	.
+Poslovne	mte:Agpfsg	posloven
+konference	mte:Ncfsg	konferenca
+Portorož	mte:Npmsn	Portorož
+(	mte:Z	(
+PKP	mte:Npmsn	PKP
+)	mte:Z	)
+,	mte:Z	,
+člane	mte:Ncmpa	član
+Diners	mte:Npfsg	Diners
+Cluba	mte:Npmsg	Club
+in	mte:Cc	in
+AmChama	mte:Npmsay	AMcham
+imel	mte:Vmpp-sm	imeti
+31	mte:Mdc	31
+.	mte:Z	.
+oktobra	mte:Ncmsg	oktober
+v	mte:Sl	v
+ljubljanskem	mte:Agpmsl	ljubljanski
+Cankarjevem	mte:Aspmsl	Cankarjev
+domu	mte:Ncmsl	dom
+predavanje	mte:Ncnsa	predavanje
+o	mte:Sl	o
+spopadu	mte:Ncmsl	spopad
+z	mte:Si	z
+gospodarsko	mte:Agpfsi	gospodarski
+krizo	mte:Ncfsi	kriza
+.	mte:Z	.
+Več	mte:Rgc	več
+informacij	mte:Ncfpg	informacija
+o	mte:Sl	o
+konferenci	mte:Ncfsl	konferenca
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+letos	mte:Rgp	letos
+izjemoma	mte:Rgp	izjemoma
+potekala	mte:Vmpp-sf	potekati
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+na	mte:Sl	na
+tej	mte:Pd-fsl	ta
+povezavi	mte:Ncfsl	povezava
+,	mte:Z	,
+svojo	mte:Px-fsa	svoj
+prijavnico	mte:Ncfsa	prijavnica
+pa	mte:Cc	pa
+lahko	mte:Rgp	lahko
+oddate	mte:Vmer2p	oddati
+tukaj	mte:Rgp	tukaj
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+vam	mte:Pp2-pd	ti
+ponujamo	mte:Vmpr1p	ponujati
+tudi	mte:Q	tudi
+možnost	mte:Ncfsa	možnost
+,	mte:Z	,
+da	mte:Cs	da
+Clintonu	mte:Npmsd	Clinton
+zastavite	mte:Vmer2p	zastaviti
+vprašanje	mte:Ncnsa	vprašanje
+po	mte:Sl	po
+želji	mte:Ncfsl	želja
+.	mte:Z	.
+Najbolj	mte:Rgs	najbolj
+zanimiva	mte:Agpmsa	zanimiv
+bomo	mte:Va-f1p-n	biti
+zbrali	mte:Vmep-pm	zbrati
+in	mte:Cc	in
+mu	mte:Pp3msd--y	on
+jih	mte:Pp3mpa--y	on
+zastavili	mte:Vmep-pm	zastaviti
+po	mte:Sl	po
+njegovem	mte:Ps3nslsm	njegov
+predavanju	mte:Ncnsl	predavanje
+.	mte:Z	.
+"	mte:Z	"
+Naenkrat	mte:Rgp	naenkrat
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+ukvarjal	mte:Vmpp-sm	ukvarjati
+z	mte:Si	z
+več	mte:Rgc	več
+težavami	mte:Ncfpi	težava
+hkrati	mte:Rgp	hkrati
+in	mte:Cc	in
+gledal	mte:Vmpp-sm	gledati
+v	mte:Sa	v
+prihodnost	mte:Ncfsa	prihodnost
+"	mte:Z	"
+V	mte:Sl	v
+intervjuju	mte:Ncmsl	intervju
+za	mte:Sa	za
+Reuters	mte:Npmsan	Reuters
+je	mte:Va-r3s-n	biti
+Branch	mte:Npmsn	Branch
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+zdelo	mte:Vmpp-sn	zdeti
+občudovanja	mte:Ncnsg	občudovanje
+vredno	mte:Agpnsn	vreden
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+kljub	mte:Sd	kljub
+"	mte:Z	"
+motnjam	mte:Ncfpd	motnja
+od	mte:Sg	od
+vsepovsod	mte:Rgp	vsepovsod
+"	mte:Z	"
+,	mte:Z	,
+Clinton	mte:Npmsn	Clinton
+neprestano	mte:Rgp	neprestano
+ukvarjal	mte:Vmpp-sm	ukvarjati
+z	mte:Si	z
+več	mte:Rgc	več
+težavami	mte:Ncfpi	težava
+celega	mte:Agpmsg	cel
+sveta	mte:Ncmsg	svet
+.	mte:Z	.
+"	mte:Z	"
+Pričakoval	mte:Vmpp-sm	pričakovati
+sem	mte:Va-r1s-n	biti
+več	mte:Rgc	več
+negodovanja	mte:Ncnsg	negodovanje
+nad	mte:Si	nad
+tem	mte:Pd-nsi	ta
+,	mte:Z	,
+kako	mte:Rgp	kako
+težko	mte:Agpnsn	težek
+je	mte:Va-r3s-n	biti
+biti	mte:Va-n	biti
+predsednik	mte:Ncmsn	predsednik
+,	mte:Z	,
+a	mte:Cc	a
+Clinton	mte:Npmsn	Clinton
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+vedno	mte:Rgp	vedno
+zaskrbljen	mte:Appmsnn	zaskrbljen
+le	mte:Q	le
+o	mte:Sl	o
+tem	mte:Pd-nsl	ta
+,	mte:Z	,
+kaj	mte:Pq-nsa	kaj
+bo	mte:Va-f3s-n	biti
+storil	mte:Vmep-sm	storiti
+naslednje	mte:Agpnsa	naslednji
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+Branch	mte:Npmsn	Branch
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+Je	mte:Va-r3s-n	biti
+Clinton	mte:Npfsn	Clinton
+vedno	mte:Rgp	vedno
+imel	mte:Vmpp-sm	imeti
+rad	mte:Rgp	rad
+argumentirane	mte:Appfsg	argumentiran
+debate	mte:Ncfpa	debata
+med	mte:Si	med
+in	mte:Cc	in
+s	mte:Si	z
+svojimi	mte:Px-mpi	svoj
+svetovalci	mte:Ncmpi	svetovalec
+.	mte:Z	.
+"	mte:Z	"
+Sam	mte:Agpmsnn	sam
+sem	mte:Va-r1s-n	biti
+si	mte:Px---d--y	se
+predstavljal	mte:Vmpp-sm	predstavljati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+predsednik	mte:Ncmsn	predsednik
+ukvarja	mte:Vmpr3s	ukvarjati
+le	mte:Q	le
+s	mte:Si	z
+temami	mte:Ncfpi	tema
+na	mte:Sa	na
+katere	mte:Pq-mpa	kateri
+je	mte:Va-r3s-n	biti
+pripravljen	mte:Appmsnn	pripravljen
+.	mte:Z	.
+Na	mte:Sa	na
+Clintona	mte:Npmsay	Clinton
+so	mte:Va-r3p-n	biti
+pritiski	mte:Ncmpn	pritisk
+in	mte:Cc	in
+priložnosti	mte:Ncfpn	priložnost
+prežali	mte:Vmpp-pm	prežati
+od	mte:Sg	od
+vsepovsod	mte:Rgp	vsepovsod
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+,	mte:Z	,
+kakšno	mte:Pq-nsn	kakšen
+se	mte:Px------y	se
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+zdelo	mte:Vmpp-sn	zdeti
+Clintonovo	mte:Aspnsn	Clintonov
+predsedovanje	mte:Ncnsn	predsedovanje
+,	mte:Z	,
+odgovoril	mte:Vmep-sm	odgovoriti
+Branch	mte:Npmsn	Branch
+.	mte:Z	.
+"	mte:Z	"
+Med	mte:Si	med
+škandalom	mte:Ncmsi	škandal
+z	mte:Si	z
+Monico	mte:Npfsi	Monica
+Lewinsky	mte:Npfsi	Lewinsky
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+pod	mte:Si	pod
+hudim	mte:Agpmsi	hud
+pritiskom	mte:Ncmsi	pritisk
+"	mte:Z	"
+Branch	mte:Npmsn	Branch
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+Clinton	mte:Npmsn	Clinton
+včasih	mte:Rgp	včasih
+izjemno	mte:Rgp	izjemno
+utrujen	mte:Appmsnn	utrujen
+.	mte:Z	.
+"	mte:Z	"
+Med	mte:Si	med
+snemanjem	mte:Ncnsi	snemanje
+dnevnika	mte:Ncmsg	dnevnik
+,	mte:Z	,
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+včasih	mte:Rgp	včasih
+pretegoval	mte:Vmpp-sm	pretegovati
+in	mte:Cc	in
+si	mte:Px---d--y	se
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+lajšal	mte:Vmep-sm	lajšati
+stres	mte:Ncmsan	stres
+.	mte:Z	.
+Še	mte:Q	še
+posebej	mte:Rgp	posebej
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+zanj	mte:Pp3msa--b	zame
+težki	mte:Agpmpn	težek
+časi	mte:Ncmpn	čas
+med	mte:Si	med
+škandalom	mte:Ncmsi	škandal
+z	mte:Si	z
+Monico	mte:Npfsi	Monica
+Lewinsky	mte:Npfsi	Lewinsky
+.	mte:Z	.
+O	mte:Sl	o
+slednjem	mte:Agpnsl	slednji
+je	mte:Va-r3s-n	biti
+Clinton	mte:Npmsn	Clinton
+govoril	mte:Vmpp-sm	govoriti
+z	mte:Si	z
+obžalovanjem	mte:Ncnsi	obžalovanje
+a	mte:Cc	a
+svoje	mte:Px-nsa	svoj
+predsedovanje	mte:Ncnsa	predsedovanje
+je	mte:Va-r3s-n	biti
+branil	mte:Vmpp-sm	braniti
+do	mte:Sg	do
+konca	mte:Ncmsg	konec
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+razložil	mte:Vmep-sm	razložiti
+Branch	mte:Npmsn	Branch
+.	mte:Z	.
+"	mte:Z	"
+Clinton	mte:Npmsn	Clinton
+se	mte:Px------y	se
+boji	mte:Vmpr3s	bati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+knjiga	mte:Ncfsn	knjiga
+preveč	mte:Rgp	preveč
+osebna	mte:Agpfsn	oseben
+"	mte:Z	"
+Na	mte:Sa	na
+vprašanje	mte:Ncnsa	vprašanje
+kaj	mte:Pq-nsa	kaj
+o	mte:Sl	o
+knjigi	mte:Ncfsl	knjiga
+meni	mte:Vmpr3s	meniti
+Clinton	mte:Npfsn	Clinton
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Branch	mte:Npmsn	Branch
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+boji	mte:Vmpr3s	bati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+preveč	mte:Rgp	preveč
+osebna	mte:Agpfsn	oseben
+.	mte:Z	.
+Pričakoval	mte:Vmpp-sm	pričakovati
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+govorila	mte:Vmpp-sf	govoriti
+le	mte:Q	le
+o	mte:Sl	o
+politiki	mte:Ncfsl	politika
+.	mte:Z	.
+"	mte:Z	"
+Knjiga	mte:Ncfsn	knjiga
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+objektivna	mte:Agpfsn	objektiven
+in	mte:Cc	in
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+zgodovinska	mte:Agpfsn	zgodovinski
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+moja	mte:Ps1fsns	moj
+knjiga	mte:Ncfsn	knjiga
+o	mte:Sl	o
+Martinu	mte:Npmsl	Martin
+Luthru	mte:Npmsl	Luthr
+Kingu	mte:Npmsl	King
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+Branch	mte:Npmsn	Branch

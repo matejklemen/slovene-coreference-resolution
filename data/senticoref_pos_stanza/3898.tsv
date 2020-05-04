@@ -1,344 +1,369 @@
-token	tag
-Celje	Npnsn
--	Z
-Cinkarna	Npfsn
-Celje	Npnsn
-je	Va-r3s-n
-na	Sa
-celjsko	Agpnsa
-okrožno	Agpnsa
-sodišče	Ncnsa
-vložila	Vmep-sf
-tožbo	Ncfsa
-za	Sa
-plačilo	Ncnsa
-odškodnine	Ncfsg
-30.000	Mdc
-evrov	Ncmpg
-in	Cc
-stroškov	Ncmpg
-postopka	Ncmsg
-proti	Sd
-koordinatorju	Ncmsd
-Civilnih	Agpfpg
-iniciativ	Ncfpg
-Celje	Npnsn
-Borisu	Npmsd
-Šuštarju	Npmsd
-.	Z
-Članica	Ncfsn
-uprave	Ncfsg
-družbe	Ncfsg
-Nikolaja	Npfsg
-Podgoršek	Npfsn
-Selič	Npfsn
-je	Va-r3s-n
-danes	Rgp
-povedala	Vmep-sf
-,	Z
-da	Cs
-so	Va-r3p-n
-tožbo	Ncfsa
-vložili	Vmep-pm
-,	Z
-ker	Cs
-je	Va-r3s-n
-Šuštar	Npmsn
-blatil	Vmpp-sm
-ime	Ncnsa
-podjetja	Ncnsg
-.	Z
-Podgoršek	Npmsn
-Seličeva	Aspfsn
-je	Va-r3s-n
-dejala	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-Šuštar	Npmsn
-podal	Vmbp-sm
-več	Rgc
-izjav	Ncfpg
-glede	Sg
-Cinkarne	Npfsg
-Celje	Npnsn
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-uprava	Ncfsn
-družbe	Ncfsg
-potem	Rgp
-ovrgla	Vmep-sf
-.	Z
-Predvsem	Q
-uprava	Ncfsn
-Cinkarne	Npfsg
-Celje	Npnsn
-Šuštarju	Npmsd
-oz	Npmsn
-.	Z
-Celjskim	Agpfpd
-civilnim	Agpfpd
-iniciativam	Ncfpd
-očita	Vmpr3s
-,	Z
-da	Cs
-so	Va-r3p-n
-manipulirali	Vmpp-pm
-s	Si
-podatki	Ncmpi
-o	Sl
-vsebnosti	Ncfsl
-talija	Ncfsn
-v	Sl
-sadri	Ncfsl
-na	Sl
-deponiji	Ncfsl
-.	Z
-"	Z
-Imeli	Vmpp-pm
-smo	Va-r1p-n
-dovolj	Rgp
-dokazov	Ncmpg
-,	Z
-da	Cs
-smo	Va-r1p-n
-ovrgli	Vmep-pm
-navedbe	Ncfpa
-Šuštarja	Npmsg
-in	Cc
-smo	Va-r1p-n
-se	Px------y
-odločili	Vmep-pm
-zaščiti	Ncfsd
-ime	Ncnsa
-podjetja	Ncnsg
-ter	Cc
-interese	Ncmpa
-naših	Ps1mpgp
-zaposlenih	Appmpg
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-pojasnila	Vmep-sf
-Podgoršek	Npmsn
-Seličeva	Aspfsn
-.	Z
-Že	Q
-na	Sl
-aprilski	Agpfsl
-novinarski	Agpfsl
-konferenci	Ncfsl
-je	Va-r3s-n
-predsednik	Ncmsn
-uprave	Ncfsg
-Cinkarne	Npfsg
-Celje	Npnsn
-Tomaž	Npmsn
-Benčina	Npfsn
-dejal	Vmep-sm
-,	Z
-da	Cs
-so	Va-r3p-n
-Celjske	Agpfpn
-civilne	Agpfpn
-iniciative	Ncfpn
-pri	Sl
-Zavodu	Ncmsl
-za	Sa
-zdravstveno	Agpnsa
-varstvo	Ncnsa
-(	Z
-ZZV	Npfsn
-)	Z
-Maribor	Npmsn
-naknadno	Rgp
-naročile	Vmep-pf
-analizo	Ncfsa
-strupenega	Agpmsg
-talija	Ncfsg
-v	Sl
-istem	Pi-msl
-vzorcu	Ncmsl
-,	Z
-ki	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-poslan	Vmep-sm
-nedavno	Rgp
-v	Sa
-kanadski	Agpmsay
-laboratorij	Ncmsan
-.	Z
-Iz	Sg
-kanadskega	Agpmsg
-laboratorija	Ncmsg
-so	Va-r3p-n
-po	Sl
-opravljeni	Appfsl
-analizi	Ncfsl
-sporočili	Vmep-pm
-,	Z
-da	Cs
-talija	Ncfsn
-v	Sl
-vzorcu	Ncmsl
-sadre	Ncnpg
-titanovega	Aspmsg
-dioksida	Ncmsg
-niso	Va-r3p-y
-zasledili	Vmep-pm
-,	Z
-do	Sg
-enakih	Pi-mpg
-izsledkov	Ncmpg
-so	Va-r3p-n
-prišli	Vmep-pm
-tudi	Q
-v	Sa
-ZZV	Npfsa
-Maribor	Npmsn
-.	Z
-"	Z
-Rezultat	Ncmsn
-,	Z
-ki	Cs
-Celjskim	Agpfpd
-civilnim	Agpfpd
-iniciativam	Ncfpd
-očitno	Rgp
-ni	Va-r3s-y
-ustrezal	Vmpp-sm
-,	Z
-so	Va-r3p-n
-širši	Agcfsd
-javnosti	Ncfsd
-preprosto	Rgp
-zamolčale	Vmep-pf
-.	Z
-Iz	Sg
-tega	Pd-nsg
-sklepamo	Vmpr1p
-,	Z
-da	Cs
-iniciative	Ncfpn
-manipulirajo	Vmpr3p
-s	Si
-podatki	Ncmpi
-in	Cc
-da	Cs
-njihov	Ps3msap
-namen	Ncmsan
-ni	Va-r3s-y
-ugotavljanje	Ncnsn
-verodostojnosti	Ncfsg
-izjav	Ncfpg
-in	Cc
-rezultatov	Ncmpg
-Cinkarne	Npfsg
-Celje	Npnsn
-,	Z
-"	Z
-je	Va-r3s-n
-takrat	Rgp
-ocenil	Vmep-sm
-Benčina	Npfsn
-.	Z
-Šuštar	Npmsn
-pa	Cc
-je	Va-r3s-n
-danes	Rgp
-znova	Rgp
-poudaril	Vmep-sm
-,	Z
-da	Cs
-je	Va-r3s-n
-Cinkarna	Npfsn
-Celje	Npnsn
-tovarna	Ncfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-s	Si
-svojim	Px-nsi
-delovanjem	Ncnsi
-od	Sg
-ustanovitve	Ncfsg
-grozovito	Rgp
-uničila	Vmep-sf
-okolje	Ncnsa
-in	Cc
-za	Sa
-stoletja	Ncnpa
-onemogočila	Vmep-sf
-normalno	Agpnsa
-,	Z
-zdravo	Agpnsa
-življenje	Ncnsa
-prebivalstva	Ncnsg
-celjske	Agpfsg
-kotline	Ncfsg
-.	Z
-Po	Sl
-navedbah	Ncfpl
-Šuštarja	Npmsg
-je	Va-r3s-n
-Cinkarna	Npfsn
-Celje	Npnsn
-prikrila	Vmep-sf
-raziskavo	Ncfsa
-krvi	Ncfsg
-delavcev	Ncmpg
-družbe	Ncfsg
-,	Z
-kjer	Cs
-je	Va-r3s-n
-imelo	Vmpp-sn
-kar	Rgp
-60	Mdc
-odstotkov	Ncmpg
-poškodovane	Appmpa
-kromosome	Ncmpd
-,	Z
-kar	Pr-nsn
-vodstvo	Ncnsn
-cinkarne	Ncfsg
-zavrača	Vmpr3s
-kot	Cs
-neresnično	Agpfsa
-navedbo	Ncfsa
-.	Z
-"	Z
-Na	Sl
-podlagi	Ncfsl
-vseh	Pg-mpg
-uradnih	Agpmpg
-podatkov	Ncmpg
-,	Z
-strokovnih	Agpfpg
-analiz	Ncfpg
-,	Z
-ki	Cs
-smo	Va-r1p-n
-jih	Pp3mpa--y
-plačevali	Vmpp-pm
-sami	Agpmpn
-,	Z
-utemeljeno	Appfsa
-in	Cc
-legitimno	Rgp
-opozarjamo	Vmpr1p
-na	Sa
-nesprejemljivost	Ncfsa
-delovanja	Ncnsg
-tako	Rgp
-ekološko	Rgp
-sporne	Agpfsg
-in	Cc
-nesprejemljive	Agpfsg
-industrije	Ncfsg
-sredi	Sg
-Celja	Npnsg
-.	Z
+token	tag	lemma
+Celje	mte:Npnsn	Celje
+-	mte:Z	-
+Cinkarna	mte:Npfsn	Cinkarna
+Celje	mte:Npnsn	Celje
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+celjsko	mte:Agpnsa	celjski
+okrožno	mte:Agpnsa	okrožen
+sodišče	mte:Ncnsa	sodišče
+vložila	mte:Vmep-sf	vložiti
+tožbo	mte:Ncfsa	tožba
+za	mte:Sa	za
+plačilo	mte:Ncnsa	plačilo
+odškodnine	mte:Ncfsg	odškodnina
+30.000	mte:Mdc	30.000
+evrov	mte:Ncmpg	evro
+in	mte:Cc	in
+stroškov	mte:Ncmpg	strošek
+postopka	mte:Ncmsg	postopek
+proti	mte:Sd	proti
+koordinatorju	mte:Ncmsd	koordinator
+Civilnih	mte:Agpfpg	civilen
+iniciativ	mte:Ncfpg	iniciativ
+Celje	mte:Npnsn	Celje
+Borisu	mte:Npmsd	Boris
+Šuštarju	mte:Npmsd	Šuštar
+.	mte:Z	.
+Članica	mte:Ncfsn	članica
+uprave	mte:Ncfsg	uprava
+družbe	mte:Ncfsg	družba
+Nikolaja	mte:Npfsg	Nikolaj
+Podgoršek	mte:Npfsn	Podgoršek
+Selič	mte:Npfsn	Selič
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+povedala	mte:Vmep-sf	povedati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+tožbo	mte:Ncfsa	tožba
+vložili	mte:Vmep-pm	vložiti
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+Šuštar	mte:Npmsn	Šuštar
+blatil	mte:Vmpp-sm	blatiti
+ime	mte:Ncnsa	ime
+podjetja	mte:Ncnsg	podjetje
+.	mte:Z	.
+Podgoršek	mte:Npmsn	Podgoršek
+Seličeva	mte:Aspfsn	Seličev
+je	mte:Va-r3s-n	biti
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Šuštar	mte:Npmsn	Šuštar
+podal	mte:Vmbp-sm	podati
+več	mte:Rgc	več
+izjav	mte:Ncfpg	izjava
+glede	mte:Sg	glede
+Cinkarne	mte:Npfsg	Cinkarne
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+družbe	mte:Ncfsg	družba
+potem	mte:Rgp	potem
+ovrgla	mte:Vmep-sf	ovreči
+.	mte:Z	.
+Predvsem	mte:Q	predvsem
+uprava	mte:Ncfsn	uprava
+Cinkarne	mte:Npfsg	Cinkarne
+Celje	mte:Npnsn	Celje
+Šuštarju	mte:Npmsd	Šuštar
+oz	mte:Npmsn	oz
+.	mte:Z	.
+Celjskim	mte:Agpfpd	celjski
+civilnim	mte:Agpfpd	civilen
+iniciativam	mte:Ncfpd	iniciativa
+očita	mte:Vmpr3s	očitati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+manipulirali	mte:Vmpp-pm	manipulirati
+s	mte:Si	z
+podatki	mte:Ncmpi	podatek
+o	mte:Sl	o
+vsebnosti	mte:Ncfsl	vsebnost
+talija	mte:Ncfsn	talija
+v	mte:Sl	v
+sadri	mte:Ncfsl	sadra
+na	mte:Sl	na
+deponiji	mte:Ncfsl	deponija
+.	mte:Z	.
+"	mte:Z	"
+Imeli	mte:Vmpp-pm	imeti
+smo	mte:Va-r1p-n	biti
+dovolj	mte:Rgp	dovolj
+dokazov	mte:Ncmpg	dokaz
+,	mte:Z	,
+da	mte:Cs	da
+smo	mte:Va-r1p-n	biti
+ovrgli	mte:Vmep-pm	ovreči
+navedbe	mte:Ncfpa	navedba
+Šuštarja	mte:Npmsg	Šuštar
+in	mte:Cc	in
+smo	mte:Va-r1p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+zaščiti	mte:Ncfsd	zaščita
+ime	mte:Ncnsa	ime
+podjetja	mte:Ncnsg	podjetje
+ter	mte:Cc	ter
+interese	mte:Ncmpa	interes
+naših	mte:Ps1mpgp	naš
+zaposlenih	mte:Appmpg	zaposlen
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+pojasnila	mte:Vmep-sf	pojasniti
+Podgoršek	mte:Npmsn	Podgoršek
+Seličeva	mte:Aspfsn	Seličev
+.	mte:Z	.
+Že	mte:Q	že
+na	mte:Sl	na
+aprilski	mte:Agpfsl	aprilski
+novinarski	mte:Agpfsl	novinarski
+konferenci	mte:Ncfsl	konferenca
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+uprave	mte:Ncfsg	uprava
+Cinkarne	mte:Npfsg	Cinkarne
+Celje	mte:Npnsn	Celje
+Tomaž	mte:Npmsn	Tomaž
+Benčina	mte:Npfsn	Benčina
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+Celjske	mte:Agpfpn	celjski
+civilne	mte:Agpfpn	civilen
+iniciative	mte:Ncfpn	iniciativa
+pri	mte:Sl	pri
+Zavodu	mte:Ncmsl	zavod
+za	mte:Sa	za
+zdravstveno	mte:Agpnsa	zdravstven
+varstvo	mte:Ncnsa	varstvo
+(	mte:Z	(
+ZZV	mte:Npfsn	ZZV
+)	mte:Z	)
+Maribor	mte:Npmsn	Maribor
+naknadno	mte:Rgp	naknadno
+naročile	mte:Vmep-pf	naročiti
+analizo	mte:Ncfsa	analiza
+strupenega	mte:Agpmsg	strupen
+talija	mte:Ncfsg	talija
+v	mte:Sl	v
+istem	mte:Pi-msl	isti
+vzorcu	mte:Ncmsl	vzorec
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+poslan	mte:Vmep-sm	poslaniti
+nedavno	mte:Rgp	nedavno
+v	mte:Sa	v
+kanadski	mte:Agpmsay	kanadski
+laboratorij	mte:Ncmsan	laboratorij
+.	mte:Z	.
+Iz	mte:Sg	iz
+kanadskega	mte:Agpmsg	kanadski
+laboratorija	mte:Ncmsg	laboratorij
+so	mte:Va-r3p-n	biti
+po	mte:Sl	po
+opravljeni	mte:Appfsl	opravljen
+analizi	mte:Ncfsl	analiza
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+talija	mte:Ncfsn	talija
+v	mte:Sl	v
+vzorcu	mte:Ncmsl	vzorec
+sadre	mte:Ncnpg	sadra
+titanovega	mte:Aspmsg	titanov
+dioksida	mte:Ncmsg	dioksid
+niso	mte:Va-r3p-y	biti
+zasledili	mte:Vmep-pm	zaslediti
+,	mte:Z	,
+do	mte:Sg	do
+enakih	mte:Pi-mpg	enak
+izsledkov	mte:Ncmpg	izsledek
+so	mte:Va-r3p-n	biti
+prišli	mte:Vmep-pm	priti
+tudi	mte:Q	tudi
+v	mte:Sa	v
+ZZV	mte:Npfsa	ZZV
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+"	mte:Z	"
+Rezultat	mte:Ncmsn	rezultat
+,	mte:Z	,
+ki	mte:Cs	ki
+Celjskim	mte:Agpfpd	celjski
+civilnim	mte:Agpfpd	civilen
+iniciativam	mte:Ncfpd	iniciativa
+očitno	mte:Rgp	očitno
+ni	mte:Va-r3s-y	biti
+ustrezal	mte:Vmpp-sm	ustrezati
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+širši	mte:Agcfsd	širok
+javnosti	mte:Ncfsd	javnost
+preprosto	mte:Rgp	preprosto
+zamolčale	mte:Vmep-pf	zamolčati
+.	mte:Z	.
+Iz	mte:Sg	iz
+tega	mte:Pd-nsg	ta
+sklepamo	mte:Vmpr1p	sklepati
+,	mte:Z	,
+da	mte:Cs	da
+iniciative	mte:Ncfpn	iniciativa
+manipulirajo	mte:Vmpr3p	manipulirati
+s	mte:Si	z
+podatki	mte:Ncmpi	podatek
+in	mte:Cc	in
+da	mte:Cs	da
+njihov	mte:Ps3msap	njihov
+namen	mte:Ncmsan	namen
+ni	mte:Va-r3s-y	biti
+ugotavljanje	mte:Ncnsn	ugotavljanje
+verodostojnosti	mte:Ncfsg	verodostojnost
+izjav	mte:Ncfpg	izjava
+in	mte:Cc	in
+rezultatov	mte:Ncmpg	rezultat
+Cinkarne	mte:Npfsg	Cinkarne
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+takrat	mte:Rgp	takrat
+ocenil	mte:Vmep-sm	oceniti
+Benčina	mte:Npfsn	Benčina
+.	mte:Z	.
+Šuštar	mte:Npmsn	Šuštar
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+znova	mte:Rgp	znova
+poudaril	mte:Vmep-sm	poudariti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+Cinkarna	mte:Npfsn	Cinkarna
+Celje	mte:Npnsn	Celje
+tovarna	mte:Ncfsn	tovarna
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+svojim	mte:Px-nsi	svoj
+delovanjem	mte:Ncnsi	delovanje
+od	mte:Sg	od
+ustanovitve	mte:Ncfsg	ustanovitev
+grozovito	mte:Rgp	grozovito
+uničila	mte:Vmep-sf	uničiti
+okolje	mte:Ncnsa	okolje
+in	mte:Cc	in
+za	mte:Sa	za
+stoletja	mte:Ncnpa	stoletje
+onemogočila	mte:Vmep-sf	onemogočiti
+normalno	mte:Agpnsa	normalen
+,	mte:Z	,
+zdravo	mte:Agpnsa	zdrav
+življenje	mte:Ncnsa	življenje
+prebivalstva	mte:Ncnsg	prebivalstvo
+celjske	mte:Agpfsg	celjski
+kotline	mte:Ncfsg	kotlina
+.	mte:Z	.
+Po	mte:Sl	po
+navedbah	mte:Ncfpl	navedba
+Šuštarja	mte:Npmsg	Šuštar
+je	mte:Va-r3s-n	biti
+Cinkarna	mte:Npfsn	Cinkarna
+Celje	mte:Npnsn	Celje
+prikrila	mte:Vmep-sf	prikriti
+raziskavo	mte:Ncfsa	raziskava
+krvi	mte:Ncfsg	kri
+delavcev	mte:Ncmpg	delavec
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+imelo	mte:Vmpp-sn	imeti
+kar	mte:Rgp	kar
+60	mte:Mdc	60
+odstotkov	mte:Ncmpg	odstotek
+poškodovane	mte:Appmpa	poškodovan
+kromosome	mte:Ncmpd	kromos
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+vodstvo	mte:Ncnsn	vodstvo
+cinkarne	mte:Ncfsg	cinkarna
+zavrača	mte:Vmpr3s	zavračati
+kot	mte:Cs	kot
+neresnično	mte:Agpfsa	neresničen
+navedbo	mte:Ncfsa	navedba
+.	mte:Z	.
+"	mte:Z	"
+Na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+vseh	mte:Pg-mpg	ves
+uradnih	mte:Agpmpg	uraden
+podatkov	mte:Ncmpg	podatek
+,	mte:Z	,
+strokovnih	mte:Agpfpg	strokoven
+analiz	mte:Ncfpg	analiza
+,	mte:Z	,
+ki	mte:Cs	ki
+smo	mte:Va-r1p-n	biti
+jih	mte:Pp3mpa--y	on
+plačevali	mte:Vmpp-pm	plačevati
+sami	mte:Agpmpn	sam
+,	mte:Z	,
+utemeljeno	mte:Appfsa	utemeljeno
+in	mte:Cc	in
+legitimno	mte:Rgp	legitimen
+opozarjamo	mte:Vmpr1p	opozarjati
+na	mte:Sa	na
+nesprejemljivost	mte:Ncfsa	nesprejemljivost
+delovanja	mte:Ncnsg	delovanje
+tako	mte:Rgp	tako
+ekološko	mte:Rgp	ekološko
+sporne	mte:Agpfsg	sporen
+in	mte:Cc	in
+nesprejemljive	mte:Agpfsg	nesprejemljiv
+industrije	mte:Ncfsg	industrija
+sredi	mte:Sg	sredi
+Celja	mte:Npnsg	Celja
+.	mte:Z	.
+Tudi	mte:Q	tudi
+z	mte:Si	z
+vloženo	mte:Appfsi	vložen
+tožbo	mte:Ncfsi	tožba
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+poskušajo	mte:Vmpr3p	poskušati
+skrajno	mte:Rgp	skrajno
+nesprejemljivo	mte:Rgp	nesprejemljiv
+ustrahovati	mte:Vmpn	ustrahovati
+predstavnike	mte:Ncmpa	predstavnik
+civilne	mte:Agpfsg	civilen
+družbe	mte:Ncfsg	družba
+,	mte:Z	,
+nas	mte:Pp1-pa	jaz
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+ustavili	mte:Vmep-pm	ustaviti
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+povedal	mte:Vmep-sm	povedati
+Šuštar	mte:Npmsn	Šuštar

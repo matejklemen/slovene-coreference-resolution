@@ -1,436 +1,460 @@
-token	tag
-Skozi	Sa
-tuje	Agpfpa
-oči	Ncfpa
-.	Z
-Preiskave	Ncfpa
-proti	Sd
-vodilnim	Agpmpd
-politikom	Ncmpd
-so	Va-r3p-n
-odraz	Ncmsn
-sistema	Ncmsg
-–	Z
-dobrega	Agpmsg
-ali	Cc
-slabega	Agpmsg
-.	Z
-Predsedniku	Ncmsd
-vlade	Ncfsg
-in	Cc
-druge	Mlpfsg
-največje	Agsfsg
-parlamentarne	Agpfsg
-stranke	Ncfsg
-sodijo	Vmpr3p
-v	Sl
-aferi	Ncfsl
-Patria	Npfsn
-.	Z
-Predsednik	Ncmsn
-največje	Agsfsg
-parlamentarne	Agpfsg
-stranke	Ncfsg
-in	Cc
-župan	Ncmsn
-glavnega	Agpnsg
-mesta	Ncnsg
-je	Va-r3s-n
-osumljen	Appmsnn
-nevestnega	Agpnsg
-dela	Ncnsg
-,	Z
-goljufije	Ncfsg
-pri	Sl
-pridobivanju	Ncnsl
-evropskih	Agpnpg
-sredstev	Ncnpg
-in	Cc
-zlorabe	Ncfpa
-položaja	Ncmsg
-.	Z
-Župana	Ncmsg
-drugega	Mlpnsg
-največjega	Agsnsg
-mesta	Ncnsg
-Franca	Npmsg
-Kanglerja	Npmsgy
-je	Va-r3s-n
-doletela	Vmep-sf
-že	Q
-deseta	Mlofsn
-ovadba	Ncfsn
-,	Z
-koprski	Agpmsny
-župan	Ncmsn
-Boris	Npmsn
-Popovič	Npmsn
-pa	Cc
-je	Va-r3s-n
-bil	Va-p-sm
-,	Z
-kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-že	Q
-obsojen	Appmsnn
-zaradi	Sg
-zlorabe	Ncfsg
-položaja	Ncmsg
-,	Z
-davčne	Agpfsg
-zatajitve	Ncfsg
-in	Cc
-razžalitve	Ncfsg
-,	Z
-zoper	Sa
-njega	Pp3msa
-pa	Cc
-potekajo	Vmpr3p
-nove	Agpfpn
-preiskave	Ncfpn
-.	Z
-"	Z
-To	Pd-nsn
-je	Va-r3s-n
-katastrofa	Ncfsn
-"	Z
-“	Z
-Slovenija	Npfsn
-se	Px------y
-bo	Va-f3s-n
-morala	Vmpp-sf
-še	Q
-potruditi	Vmen
-,	Z
-da	Cs
-nas	Pp1-pa
-bo	Va-f3s-n
-dohitela	Vmep-sf
-v	Sl
-korupciji	Ncfsl
-.	Z
-Resno	Agpnsn
-pa	Cc
-,	Z
-to	Pd-nsn
-je	Va-r3s-n
-katastrofa	Ncfsn
-tako	Cc
-za	Sa
-vas	Pp2-pa
-kot	Cs
-nas	Pp1-pa
-,	Z
-vsi	Pg-mpn
-bomo	Va-f1p-n
-morali	Vmpp-pm
-očitno	Rgp
-vključiti	Vmen
-pamet	Ncfsa
-,	Z
-ko	Cs
-gremo	Vmbr1p
-na	Sa
-volitve	Ncfpa
-,	Z
-”	Z
-je	Va-r3s-n
-preiskavo	Ncfsa
-in	Cc
-na	Sa
-sploh	Q
-stanje	Ncnsa
-v	Sl
-naši	Ps1fslp
-politiki	Ncfsl
-opisal	Vmep-sm
-Renato	Npfsn
-Ivanuš	Npmsn
-,	Z
-odgovorni	Agpmsny
-urednik	Ncmsn
-hrvaškega	Agpmsg
-dnevnika	Ncmsg
-24sata	Mdc
-.	Z
-“	Z
-Res	Rgp
-je	Va-r3s-n
-v	Sl
-tem	Pd-msl
-pogledu	Ncmsl
-kar	Rgp
-nekaj	Rgp
-podobnosti	Ncfsg
-med	Si
-državama	Ncfdi
-.	Z
-Mislim	Vmpr1s
-,	Z
-da	Cs
-je	Va-r3s-n
-to	Pd-nsn
-posledica	Ncfsn
-enakih	Pi-mpg
-modelov	Ncmpg
-,	Z
-po	Sl
-katerih	Pq-mpl
-smo	Va-r1p-n
-živeli	Vmpp-pm
-,	Z
-ne	Q
-glede	Rgp
-na	Sa
-to	Pd-nsa
-,	Z
-da	Cs
-je	Va-r3s-n
-šla	Vmbp-sf
-Slovenija	Npfsn
-prej	Rgc
-v	Sa
-Evropsko	Agpfsa
-unijo	Ncfsa
-.	Z
-Ko	Cs
-sem	Va-r1s-n
-bral	Vmpp-sm
-novico	Ncfsa
-o	Sl
-preiskavi	Ncfsl
-pri	Sl
-Zoranu	Npmsl
-Jankoviću	Npmsl
-,	Z
-sem	Va-r1s-n
-se	Px------y
-ustavil	Vmep-sm
-,	Z
-aha	Rgp
-,	Z
-saj	Cc
-to	Pd-nsn
-se	Px------y
-ne	Q
-dogaja	Vmpr3s
-na	Sl
-Hrvaškem	Npnsl
-.	Z
-Gre	Vmbr3s
-res	Rgp
-za	Sa
-enako	Pi-fsa
-matrico	Ncfsa
-,	Z
-fiktivni	Agpmpn
-razpisi	Ncmpn
-,	Z
-dogovorjeni	Appmpn
-posli	Ncmpn
-…	Z
-”	Z
-dodaja	Vmpr3s
-Goran	Npmsn
-Ogurlić	Npmsn
-odgovorni	Agpmsny
-urednik	Ncmsn
-Večernjega	Agpmsg
-lista	Ncmsg
-.	Z
-Jeroen	Npmsn
-Nab	Npmsn
-,	Z
-novinar	Ncmsn
-iz	Sg
-Nizozemske	Npfsg
-,	Z
-ki	Cs
-živi	Vmpr3s
-v	Sl
-Ljubljani	Npfsl
-,	Z
-Slovenijo	Npfsa
-vidi	Vmbr3s
-kot	Cs
-Rusijo	Npfsa
-pred	Si
-20	Mdc
-leti	Ncnpi
-.	Z
-“	Z
-Vlada	Ncfsn
-oligarhija	Ncfsn
-in	Cc
-posamezniki	Ncmpn
-na	Sl
-visokih	Agpmpl
-položajih	Ncmpl
-ostajajo	Vmpr3p
-nekaznovani	Agpmpn
-.	Z
-Slovenci	Npmpn
-vedo	Vmpr3p
-,	Z
-kaj	Pq-nsn
-se	Px------y
-dogaja	Vmpr3s
-,	Z
-vendar	Cc
-se	Px------y
-nič	Pz-nsn
-ne	Q
-zgodi	Vmer3s
-.	Z
-Morda	Q
-pa	Cc
-je	Va-r3s-n
-stvar	Ncfsn
-v	Sl
-vaši	Ps1fslp
-mentaliteti	Ncfsl
-,	Z
-gre	Vmbr3s
-morda	Q
-za	Sa
-to	Pd-nsa
-?	Z
-”	Z
-“	Z
-Ali	Rgp
-so	Va-r3p-n
-politiki	Ncmpn
-,	Z
-ki	Cs
-so	Va-r3p-n
-v	Sl
-preiskavah	Ncfpl
-,	Z
-storili	Vmep-pm
-kaj	Pq-nsa
-nezakonitega	Agpmsg
-ali	Rgp
-so	Va-r3p-n
-ovadeni	Appmpn
-zaradi	Sg
-političnih	Agpfpg
-iger	Ncfpg
-,	Z
-boste	Va-f2p-n
-morali	Vmpp-pm
-presoditi	Vmen
-sami	Agpmpn
-.	Z
-Jay	Npmsn
-Loftin	Npmsn
-,	Z
-direktor	Ncmsn
-mednarodne	Agpfsg
-šole	Ncfsg
-QSI	Z
-Preiskave	Ncfpn
-politikov	Ncmpg
-so	Va-r3p-n
-načeloma	Rgp
-dokaz	Ncmsn
-močnega	Agpnsg
-spoštovanja	Ncnsg
-pravne	Agpfsg
-države	Ncfsg
-,	Z
-pa	Cc
-pravi	Vmbr3s
-Joseph	Npmsn
-Mussomeli	Npmsn
-,	Z
-ameriški	Agpmsny
-veleposlanik	Ncmsn
-v	Sl
-Sloveniji	Npfsl
-.	Z
-“	Z
-Seveda	Q
-,	Z
-če	Cs
-se	Px------y
-dogajajo	Vmpr3p
-ne	Q
-glede	Rgp
-na	Sa
-politično	Agpfsa
-pripadnost	Ncfsa
-ali	Cc
-osebni	Agpmsay
-status	Ncmsan
-,	Z
-”	Z
-pravi	Vmbr3s
-in	Cc
-dodaja	Vmpr3s
-:	Z
-“	Z
-V	Sl
-ZDA	Npfpl
-vsako	Pg-nsa
-leto	Ncnsa
-preiskujemo	Vmpr1p
-600	Mdc
-uradnikov	Ncmpg
-in	Cc
-to	Pd-nsa
-vidimo	Vmbr1p
-kot	Cs
-moč	Ncfsa
-,	Z
-ne	Q
-šibkost	Ncfsa
-našega	Ps1msgp
-sistema	Ncmsg
-.	Z
-”	Z
-“	Z
-Pri	Sl
-nas	Pp1-pl
-tisti	Pd-mpn
-posamezniki	Ncmpn
-,	Z
-ki	Cs
-izgubijo	Vmer3p
-zaupanje	Ncnsa
-javnosti	Ncfsg
-,	Z
-odstopijo	Vmer3p
-.	Z
-Slovenija	Npfsn
-je	Va-r3s-n
-v	Sl
-Evropski	Agpfsl
-uniji	Ncfsl
-in	Cc
-čas	Ncmsn
-je	Va-r3s-n
-,	Z
-da	Cs
-se	Px------y
-tudi	Q
-veljaki	Ncmpn
-začnejo	Vmer3p
-obnašati	Vmpn
-temu	Pd-nsd
-primerno	Agpnsn
-.	Z
-Nasploh	Rgp
-se	Px------y
-mi	Pp1-sd--y
-zdi	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-korupcija	Ncfsn
-v	Sl
-Sloveniji	Npfsl
-velik	Agpmsnn
-problem	Ncmsnn
-.	Z
+token	tag	lemma
+Skozi	mte:Sa	skozi
+tuje	mte:Agpfpa	tuj
+oči	mte:Ncfpa	oči
+.	mte:Z	.
+Preiskave	mte:Ncfpa	preiskava
+proti	mte:Sd	proti
+vodilnim	mte:Agpmpd	vodilen
+politikom	mte:Ncmpd	politik
+so	mte:Va-r3p-n	biti
+odraz	mte:Ncmsn	odraz
+sistema	mte:Ncmsg	sistem
+–	mte:Z	–
+dobrega	mte:Agpmsg	dober
+ali	mte:Cc	ali
+slabega	mte:Agpmsg	slab
+.	mte:Z	.
+Predsedniku	mte:Ncmsd	predsednik
+vlade	mte:Ncfsg	vlada
+in	mte:Cc	in
+druge	mte:Mlpfsg	drug
+največje	mte:Agsfsg	velik
+parlamentarne	mte:Agpfsg	parlamentaren
+stranke	mte:Ncfsg	stranka
+sodijo	mte:Vmpr3p	soditi
+v	mte:Sl	v
+aferi	mte:Ncfsl	afera
+Patria	mte:Npfsn	Patria
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+največje	mte:Agsfsg	velik
+parlamentarne	mte:Agpfsg	parlamentaren
+stranke	mte:Ncfsg	stranka
+in	mte:Cc	in
+župan	mte:Ncmsn	župan
+glavnega	mte:Agpnsg	glaven
+mesta	mte:Ncnsg	mesto
+je	mte:Va-r3s-n	biti
+osumljen	mte:Appmsnn	osumljen
+nevestnega	mte:Agpnsg	nevesten
+dela	mte:Ncnsg	delo
+,	mte:Z	,
+goljufije	mte:Ncfsg	goljufija
+pri	mte:Sl	pri
+pridobivanju	mte:Ncnsl	pridobivanje
+evropskih	mte:Agpnpg	evropski
+sredstev	mte:Ncnpg	sredstvo
+in	mte:Cc	in
+zlorabe	mte:Ncfpa	zloraba
+položaja	mte:Ncmsg	položaj
+.	mte:Z	.
+Župana	mte:Ncmsg	župan
+drugega	mte:Mlpnsg	drug
+največjega	mte:Agsnsg	velik
+mesta	mte:Ncnsg	mesto
+Franca	mte:Npmsg	Franc
+Kanglerja	mte:Npmsgy	Kangler
+je	mte:Va-r3s-n	biti
+doletela	mte:Vmep-sf	doleteti
+že	mte:Q	že
+deseta	mte:Mlofsn	deseti
+ovadba	mte:Ncfsn	ovadba
+,	mte:Z	,
+koprski	mte:Agpmsny	koprski
+župan	mte:Ncmsn	župan
+Boris	mte:Npmsn	Boris
+Popovič	mte:Npmsn	Popovič
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+že	mte:Q	že
+obsojen	mte:Appmsnn	obsojen
+zaradi	mte:Sg	zaradi
+zlorabe	mte:Ncfsg	zloraba
+položaja	mte:Ncmsg	položaj
+,	mte:Z	,
+davčne	mte:Agpfsg	davčen
+zatajitve	mte:Ncfsg	zatajitev
+in	mte:Cc	in
+razžalitve	mte:Ncfsg	razžalitev
+,	mte:Z	,
+zoper	mte:Sa	zoper
+njega	mte:Pp3msa	on
+pa	mte:Cc	pa
+potekajo	mte:Vmpr3p	potekati
+nove	mte:Agpfpn	nov
+preiskave	mte:Ncfpn	preiskava
+.	mte:Z	.
+"	mte:Z	"
+To	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+katastrofa	mte:Ncfsn	katastrof
+"	mte:Z	"
+“	mte:Z	“
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+morala	mte:Vmpp-sf	morati
+še	mte:Q	še
+potruditi	mte:Vmen	potruditi
+,	mte:Z	,
+da	mte:Cs	da
+nas	mte:Pp1-pa	jaz
+bo	mte:Va-f3s-n	biti
+dohitela	mte:Vmep-sf	dohiteti
+v	mte:Sl	v
+korupciji	mte:Ncfsl	korupcija
+.	mte:Z	.
+Resno	mte:Agpnsn	resen
+pa	mte:Cc	pa
+,	mte:Z	,
+to	mte:Pd-nsn	ta
+je	mte:Va-r3s-n	biti
+katastrofa	mte:Ncfsn	katastrof
+tako	mte:Cc	tako
+za	mte:Sa	za
+vas	mte:Pp2-pa	ti
+kot	mte:Cs	kot
+nas	mte:Pp1-pa	jaz
+,	mte:Z	,
+vsi	mte:Pg-mpn	ves
+bomo	mte:Va-f1p-n	biti
+morali	mte:Vmpp-pm	morati
+očitno	mte:Rgp	očitno
+vključiti	mte:Vmen	vključiti
+pamet	mte:Ncfsa	pamet
+,	mte:Z	,
+ko	mte:Cs	ko
+gremo	mte:Vmbr1p	iti
+na	mte:Sa	na
+volitve	mte:Ncfpa	volitev
+,	mte:Z	,
+”	mte:Z	”
+je	mte:Va-r3s-n	biti
+preiskavo	mte:Ncfsa	preiskava
+in	mte:Cc	in
+na	mte:Sa	na
+sploh	mte:Q	sploh
+stanje	mte:Ncnsa	stanje
+v	mte:Sl	v
+naši	mte:Ps1fslp	naš
+politiki	mte:Ncfsl	politika
+opisal	mte:Vmep-sm	opisati
+Renato	mte:Npfsn	Renato
+Ivanuš	mte:Npmsn	Ivanuš
+,	mte:Z	,
+odgovorni	mte:Agpmsny	odgovoren
+urednik	mte:Ncmsn	urednik
+hrvaškega	mte:Agpmsg	hrvaški
+dnevnika	mte:Ncmsg	dnevnik
+24sata	mte:Mdc	24sat
+.	mte:Z	.
+“	mte:Z	“
+Res	mte:Rgp	res
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+pogledu	mte:Ncmsl	pogled
+kar	mte:Rgp	kar
+nekaj	mte:Rgp	nekaj
+podobnosti	mte:Ncfsg	podobnost
+med	mte:Si	med
+državama	mte:Ncfdi	država
+.	mte:Z	.
+Mislim	mte:Vmpr1s	misliti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+posledica	mte:Ncfsn	posledica
+enakih	mte:Pi-mpg	enak
+modelov	mte:Ncmpg	model
+,	mte:Z	,
+po	mte:Sl	po
+katerih	mte:Pq-mpl	kateri
+smo	mte:Va-r1p-n	biti
+živeli	mte:Vmpp-pm	živeti
+,	mte:Z	,
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+to	mte:Pd-nsa	ta
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+šla	mte:Vmbp-sf	iti
+Slovenija	mte:Npfsn	Slovenija
+prej	mte:Rgc	prej
+v	mte:Sa	v
+Evropsko	mte:Agpfsa	evropski
+unijo	mte:Ncfsa	unija
+.	mte:Z	.
+Ko	mte:Cs	ko
+sem	mte:Va-r1s-n	biti
+bral	mte:Vmpp-sm	brati
+novico	mte:Ncfsa	novica
+o	mte:Sl	o
+preiskavi	mte:Ncfsl	preiskava
+pri	mte:Sl	pri
+Zoranu	mte:Npmsl	Zoran
+Jankoviću	mte:Npmsl	Janković
+,	mte:Z	,
+sem	mte:Va-r1s-n	biti
+se	mte:Px------y	se
+ustavil	mte:Vmep-sm	ustaviti
+,	mte:Z	,
+aha	mte:Rgp	aha
+,	mte:Z	,
+saj	mte:Cc	saj
+to	mte:Pd-nsn	ta
+se	mte:Px------y	se
+ne	mte:Q	ne
+dogaja	mte:Vmpr3s	dogajati
+na	mte:Sl	na
+Hrvaškem	mte:Npnsl	Hrvaško
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+res	mte:Rgp	res
+za	mte:Sa	za
+enako	mte:Pi-fsa	enak
+matrico	mte:Ncfsa	matrica
+,	mte:Z	,
+fiktivni	mte:Agpmpn	fiktiven
+razpisi	mte:Ncmpn	razpis
+,	mte:Z	,
+dogovorjeni	mte:Appmpn	dogovorjen
+posli	mte:Ncmpn	posel
+…	mte:Z	…
+”	mte:Z	”
+dodaja	mte:Vmpr3s	dodajati
+Goran	mte:Npmsn	Goran
+Ogurlić	mte:Npmsn	Ogurlić
+odgovorni	mte:Agpmsny	odgovoren
+urednik	mte:Ncmsn	urednik
+Večernjega	mte:Agpmsg	večernji
+lista	mte:Ncmsg	list
+.	mte:Z	.
+Jeroen	mte:Npmsn	Jeroen
+Nab	mte:Npmsn	Nab
+,	mte:Z	,
+novinar	mte:Ncmsn	novinar
+iz	mte:Sg	iz
+Nizozemske	mte:Npfsg	Nizozemska
+,	mte:Z	,
+ki	mte:Cs	ki
+živi	mte:Vmpr3s	živeti
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+Slovenijo	mte:Npfsa	Slovenija
+vidi	mte:Vmbr3s	videti
+kot	mte:Cs	kot
+Rusijo	mte:Npfsa	Rusija
+pred	mte:Si	pred
+20	mte:Mdc	20
+leti	mte:Ncnpi	leto
+.	mte:Z	.
+“	mte:Z	“
+Vlada	mte:Ncfsn	vlada
+oligarhija	mte:Ncfsn	oligarhija
+in	mte:Cc	in
+posamezniki	mte:Ncmpn	posameznik
+na	mte:Sl	na
+visokih	mte:Agpmpl	visok
+položajih	mte:Ncmpl	položaj
+ostajajo	mte:Vmpr3p	ostajati
+nekaznovani	mte:Agpmpn	nekaznovan
+.	mte:Z	.
+Slovenci	mte:Npmpn	Slovenec
+vedo	mte:Vmpr3p	vedeti
+,	mte:Z	,
+kaj	mte:Pq-nsn	kaj
+se	mte:Px------y	se
+dogaja	mte:Vmpr3s	dogajati
+,	mte:Z	,
+vendar	mte:Cc	vendar
+se	mte:Px------y	se
+nič	mte:Pz-nsn	nič
+ne	mte:Q	ne
+zgodi	mte:Vmer3s	zgoditi
+.	mte:Z	.
+Morda	mte:Q	morda
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+stvar	mte:Ncfsn	stvar
+v	mte:Sl	v
+vaši	mte:Ps1fslp	vaš
+mentaliteti	mte:Ncfsl	mentaliteta
+,	mte:Z	,
+gre	mte:Vmbr3s	iti
+morda	mte:Q	morda
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+?	mte:Z	?
+”	mte:Z	”
+“	mte:Z	“
+Ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+politiki	mte:Ncmpn	politika
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+preiskavah	mte:Ncfpl	preiskava
+,	mte:Z	,
+storili	mte:Vmep-pm	storiti
+kaj	mte:Pq-nsa	kaj
+nezakonitega	mte:Agpmsg	nezakonit
+ali	mte:Rgp	ali
+so	mte:Va-r3p-n	biti
+ovadeni	mte:Appmpn	ovaden
+zaradi	mte:Sg	zaradi
+političnih	mte:Agpfpg	političen
+iger	mte:Ncfpg	igra
+,	mte:Z	,
+boste	mte:Va-f2p-n	biti
+morali	mte:Vmpp-pm	morati
+presoditi	mte:Vmen	presoditi
+sami	mte:Agpmpn	sam
+.	mte:Z	.
+Jay	mte:Npmsn	Jay
+Loftin	mte:Npmsn	Loftin
+,	mte:Z	,
+direktor	mte:Ncmsn	direktor
+mednarodne	mte:Agpfsg	mednaroden
+šole	mte:Ncfsg	šola
+QSI	mte:Z	QSI
+Preiskave	mte:Ncfpn	preiskava
+politikov	mte:Ncmpg	politik
+so	mte:Va-r3p-n	biti
+načeloma	mte:Rgp	načeloma
+dokaz	mte:Ncmsn	dokaz
+močnega	mte:Agpnsg	močen
+spoštovanja	mte:Ncnsg	spoštovanje
+pravne	mte:Agpfsg	praven
+države	mte:Ncfsg	država
+,	mte:Z	,
+pa	mte:Cc	pa
+pravi	mte:Vmbr3s	praviti
+Joseph	mte:Npmsn	Joseph
+Mussomeli	mte:Npmsn	Mussomeli
+,	mte:Z	,
+ameriški	mte:Agpmsny	ameriški
+veleposlanik	mte:Ncmsn	veleposlanik
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+“	mte:Z	“
+Seveda	mte:Q	seveda
+,	mte:Z	,
+če	mte:Cs	če
+se	mte:Px------y	se
+dogajajo	mte:Vmpr3p	dogajati
+ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+politično	mte:Agpfsa	političen
+pripadnost	mte:Ncfsa	pripadnost
+ali	mte:Cc	ali
+osebni	mte:Agpmsay	oseben
+status	mte:Ncmsan	status
+,	mte:Z	,
+”	mte:Z	”
+pravi	mte:Vmbr3s	praviti
+in	mte:Cc	in
+dodaja	mte:Vmpr3s	dodajati
+:	mte:Z	:
+“	mte:Z	“
+V	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+vsako	mte:Pg-nsa	vsak
+leto	mte:Ncnsa	leto
+preiskujemo	mte:Vmpr1p	preiskovati
+600	mte:Mdc	600
+uradnikov	mte:Ncmpg	uradnik
+in	mte:Cc	in
+to	mte:Pd-nsa	ta
+vidimo	mte:Vmbr1p	videti
+kot	mte:Cs	kot
+moč	mte:Ncfsa	moč
+,	mte:Z	,
+ne	mte:Q	ne
+šibkost	mte:Ncfsa	šibkost
+našega	mte:Ps1msgp	naš
+sistema	mte:Ncmsg	sistem
+.	mte:Z	.
+”	mte:Z	”
+“	mte:Z	“
+Pri	mte:Sl	pri
+nas	mte:Pp1-pl	jaz
+tisti	mte:Pd-mpn	tisti
+posamezniki	mte:Ncmpn	posameznik
+,	mte:Z	,
+ki	mte:Cs	ki
+izgubijo	mte:Vmer3p	izgubiti
+zaupanje	mte:Ncnsa	zaupanje
+javnosti	mte:Ncfsg	javnost
+,	mte:Z	,
+odstopijo	mte:Vmer3p	odstopiti
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Evropski	mte:Agpfsl	evropski
+uniji	mte:Ncfsl	unija
+in	mte:Cc	in
+čas	mte:Ncmsn	čas
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+tudi	mte:Q	tudi
+veljaki	mte:Ncmpn	veljak
+začnejo	mte:Vmer3p	začeti
+obnašati	mte:Vmpn	obnašati
+temu	mte:Pd-nsd	ta
+primerno	mte:Agpnsn	primeren
+.	mte:Z	.
+Nasploh	mte:Rgp	nasploh
+se	mte:Px------y	se
+mi	mte:Pp1-sd--y	jaz
+zdi	mte:Vmpr3s	zdeti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+korupcija	mte:Ncfsn	korupcija
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+velik	mte:Agpmsnn	velik
+problem	mte:Ncmsnn	problem
+.	mte:Z	.
+Ne	mte:Q	ne
+vem	mte:Vmpr1s	vedeti
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+je	mte:Va-r3s-n	biti
+stanje	mte:Ncnsn	stanje
+takšno	mte:Pd-nsn	takšen
+,	mte:Z	,
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+morda	mte:Q	morda
+so	mte:Va-r3p-n	biti
+to	mte:Pd-nsn	ta
+ostanki	mte:Ncmpn	ostanek
+prejšnjega	mte:Agpmsg	prejšnji
+sistema	mte:Ncmsg	sistem
+,	mte:Z	,
+”	mte:Z	”
+pa	mte:Cc	pa
+denimo	mte:Vmem1p	deti
+meni	mte:Pp1-sd	jaz
+Heikki	mte:Npfsd	Heikki
+Mälkiä	mte:Npfsd	Mälkiä

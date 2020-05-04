@@ -1,549 +1,571 @@
-token	tag
-Vzhodni	Agpmsny
-del	Ncmsn
-Slovenije	Npfsg
-je	Va-r3s-n
-nekoliko	Rgp
-presenetil	Vmep-sm
-sneg	Ncmsan
-tudi	Q
-po	Sl
-nižinah	Ncfpl
-,	Z
-saj	Cc
-vremenoslovci	Ncmpn
-nanj	Pp3msa--b
-niso	Va-r3p-y
-opozarjali	Vmpp-pm
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-pa	Cc
-je	Va-r3s-n
-povzročil	Vmep-sm
-motnje	Ncfpa
-tudi	Q
-v	Sl
-oskrbi	Ncfsl
-z	Si
-električno	Agpfsi
-energijo	Ncfsi
-.	Z
-Na	Sl
-območju	Ncnsl
-Slovenije	Npfsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-z	Si
-električno	Agpfsi
-energijo	Ncfsi
-oskrbuje	Vmpr3s
-Elektro	Npmsn
-Celje	Npnsn
-,	Z
-je	Va-r3s-n
-bila	Va-p-sf
-ob	Sl
-11.30	Mdc
-motena	Appfsn
-oskrba	Ncfsn
-z	Si
-električno	Agpfsi
-energijo	Ncfsi
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-je	Va-r3s-n
-na	Sl
-območju	Ncnsl
-Laškega	Npnsg
-(	Z
-DV	Npmsn
-Jurklošter	Npmsn
-)	Z
-brez	Sg
-elektrike	Ncfsg
-ostalo	Vmep-sn
-335	Mdc
-odjemalcev	Ncmpg
-,	Z
-na	Sl
-območju	Ncnsl
-Krškega	Npnsg
-pa	Cc
-150	Mdc
-odjemalcev	Ncmpg
-.	Z
-Glavni	Agpmsny
-vzrok	Ncmsn
-za	Sa
-motnje	Ncfpa
-v	Sl
-oskrbi	Ncfsl
-z	Si
-električno	Agpfsi
-energijo	Ncfsi
-je	Va-r3s-n
-moker	Agpmsnn
-in	Cc
-težek	Agpmsnn
-sneg	Ncmsn
-,	Z
-ki	Cs
-se	Px------y
-oprijema	Vmpr3s
-žic	Ncfpg
-,	Z
-te	Pd-fpn
-pa	Cc
-se	Px------y
-trgajo	Vmpr3p
-pod	Si
-njegovo	Ps3fsism
-težo	Ncfsi
-,	Z
-so	Va-r3p-n
-sporočili	Vmep-pm
-z	Si
-Elektra	Npmsn
-Celje	Npnsn
-.	Z
-Po	Sl
-zadnjih	Agpmpl
-podatkih	Ncmpl
-je	Va-r3s-n
-oskrba	Ncfsn
-z	Si
-električno	Agpfsi
-energijo	Ncfsi
-motena	Appfsn
-le	Q
-še	Q
-na	Sl
-območju	Ncnsl
-Laškega	Npnsg
-.	Z
-Brez	Sg
-električne	Agpfsg
-energije	Ncfsg
-je	Va-r3s-n
-tako	Rgp
-še	Q
-približno	Rgp
-300	Mdc
-odjemalcev	Ncmpg
-.	Z
-Sneg	Ncmsn
-presenetil	Vmep-sm
-Celjane	Npmpa
-Na	Sl
-Celjskem	Agpnsl
-je	Va-r3s-n
-tako	Rgp
-po	Sl
-podatkih	Ncmpl
-tamkajšnje	Agpfsg
-zimske	Agpfsg
-službe	Ncfsg
-zapadlo	Vmep-sn
-od	Sg
-pet	Mlc-pa
-centimetrov	Ncmpg
-snega	Ncmsg
-na	Sl
-območju	Ncnsl
-Celja	Npnsg
-do	Sg
-20	Mdc
-centimetrov	Ncmpg
-na	Sl
-nekaterih	Pi-npl
-višjeležečih	Appnpl
-območjih	Ncnpl
-širšega	Agcnsg
-celjskega	Agpnsg
-območja	Ncnsg
-.	Z
-Zaradi	Sg
-mokrega	Agpmsg
-in	Cc
-težkega	Agpmsg
-snega	Ncmsg
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-oprijemal	Vmpp-sm
-žic	Ncfpg
-,	Z
-te	Pd-fpn
-pa	Cc
-so	Va-r3p-n
-se	Px------y
-pod	Si
-njegovo	Ps3fsism
-težo	Ncfsi
-trgale	Vmpp-pf
-,	Z
-je	Va-r3s-n
-bilo	Va-p-sn
-največ	Rgs
-težav	Ncfpg
-pri	Sl
-oskrbi	Ncfsl
-z	Si
-električno	Agpfsi
-energijo	Ncfsi
-na	Sl
-območju	Ncnsl
-Celja	Npnsg
-,	Z
-Laškega	Npnsg
-,	Z
-Šentjurja	Npmsg
-,	Z
-Podloga	Npfsn
-,	Z
-Selc	Npfsg
-,	Z
-Krškega	Npnsg
-,	Z
-Brestanice	Npfsg
-in	Cc
-Planine	Npfsg
-.	Z
-Na	Sl
-Celjskem	Agpnsl
-je	Va-r3s-n
-brez	Sg
-elektrike	Ncfsg
-dopoldne	Rgp
-ostalo	Vmep-sn
-približno	Rgp
-1488	Mdc
-odjemalcev	Ncmpg
-.	Z
-Sicer	Q
-pa	Cc
-so	Va-r3p-n
-z	Si
-Elektra	Npfsi
-Celje	Npnsn
-sporočili	Vmep-pm
-,	Z
-da	Cs
-so	Va-r3p-n
-na	Sl
-območju	Ncnsl
-,	Z
-ki	Cs
-ga	Pp3msa--y
-oskrbujejo	Vmpr3p
-z	Si
-električno	Agpfsi
-energijo	Ncfsi
-,	Z
-ob	Sl
-14.30	Mdc
-odpravili	Vmep-pm
-vse	Pg-fpa
-motnje	Ncfpa
-na	Sl
-srednjenapetostnem	Agpnsl
-omrežju	Ncnsl
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-povzročilo	Vmep-sn
-jutranje	Agpnsn
-sneženje	Ncnsn
-.	Z
-Medtem	Rgp
-pa	Cc
-na	Sl
-območju	Ncnsl
-Maribora	Npmsg
-in	Cc
-na	Sl
-Koroškem	Npnsl
-sneg	Ncmsn
-ne	Q
-povzroča	Vmpr3s
-večjih	Agcfpg
-težav	Ncfpg
-,	Z
-saj	Cc
-je	Va-r3s-n
-pobelil	Vmep-sm
-le	Q
-višjeležeče	Appmpa
-predele	Ncmpa
-.	Z
-S	Si
-Kop	Ncmsi
-tako	Rgp
-poročajo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-zapadlo	Vmep-sn
-od	Sg
-20	Mdc
-do	Sg
-25	Mdc
-centimetrov	Ncmpg
-novega	Agpmsg
-snega	Ncmsg
-,	Z
-na	Sl
-območju	Ncnsl
-Črne	Npfsg
-na	Sl
-Koroškem	Npnsl
-pa	Cc
-je	Va-r3s-n
-od	Sg
-10	Mdc
-do	Sg
-15	Mdc
-centimetrov	Ncmpg
-.	Z
-Ljubljana	Npfsn
-dočakala	Vmep-sf
-sneg	Ncmsan
-Najmanj	Rgs
-snega	Ncmsg
-je	Va-r3s-n
-zapadlo	Vmep-sn
-na	Sl
-Gorenjskem	Npnsl
-.	Z
-©	Npmsn
-BOBO	Npmsn
-Po	Sl
-skoraj	Q
-zeleni	Agpfsl
-zimi	Ncfsl
-je	Va-r3s-n
-sneg	Ncmsan
-dočakala	Vmep-sf
-tudi	Q
-Ljubljana	Npfsn
-,	Z
-kjer	Cs
-je	Va-r3s-n
-v	Sl
-višjeležečih	Appmpl
-predelih	Ncmpl
-zapadlo	Vmep-sn
-do	Sg
-okoli	Rgp
-deset	Mlc-pa
-centimetrov	Ncmpg
-snega	Ncmsg
-,	Z
-na	Sl
-območju	Ncnsl
-Viča	Npfsg
-v	Sl
-Ljubljani	Npfsl
-pa	Cc
-pet	Mlc-pn
-.	Z
-Večjih	Agcfpg
-težav	Ncfpg
-v	Sl
-prometu	Ncmsl
-pa	Cc
-v	Sl
-prestolnici	Ncfsl
-ni	Va-r3s-y
-.	Z
-Sneženje	Ncnsn
-bo	Va-f3s-n
-sicer	Q
-po	Sl
-napovedih	Ncfpl
-vremenoslovcev	Ncmpg
-ponehalo	Vmep-sn
-v	Sl
-popoldanskih	Agpfpl
-urah	Ncfpl
-.	Z
-Novo	Agpfsa
-"	Z
-pošiljko	Ncfsa
-"	Z
-snega	Ncmsg
-pa	Cc
-lahko	Rgp
-spet	Rgp
-pričakujemo	Vmpr1p
-med	Si
-velikonočnimi	Agpmpi
-prazniki	Ncmpi
-.	Z
-Več	Rgc
-o	Sl
-vremenu	Ncnsl
-si	Px---d--y
-lahko	Rgp
-preberete	Vmer2p
-tukaj	Rgp
-.	Z
-Gorenjska	Npfsn
-z	Si
-manjšimi	Agcfpi
-snežnimi	Agpfpi
-padavinami	Ncfpi
-Sneg	Ncmsa
-,	Z
-ki	Cs
-je	Va-r3s-n
-ponoči	Rgp
-in	Cc
-danes	Rgp
-zjutraj	Rgp
-pobelil	Vmep-sm
-Slovenijo	Npfsa
-,	Z
-na	Sl
-Gorenjskem	Npnsl
-ni	Va-r3s-y
-povzročal	Vmpp-sm
-težav	Ncfpg
-.	Z
-Po	Sl
-nižinah	Ncfpl
-je	Va-r3s-n
-zapadlo	Vmep-sn
-le	Q
-do	Sg
-dva	Mlcmda
-centimetra	Ncmdg
-snega	Ncmsg
-,	Z
-še	Q
-vedno	Rgp
-pa	Cc
-ponekod	Rgp
-rahlo	Rgp
-sneži	Vmpr3s
-.	Z
-Ceste	Ncfpn
-so	Va-r3p-n
-normalno	Rgp
-prevozne	Agpfpn
-tudi	Q
-na	Sl
-višjih	Agcnpl
-območjih	Ncnpl
-,	Z
-kjer	Cs
-je	Va-r3s-n
-zapadlo	Vmep-sn
-okrog	Rgp
-deset	Mlc-pa
-centimetrov	Ncmpg
-snega	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-cestno	Agpnsn
-podjetje	Ncnsn
-že	Q
-splužilo	Vmep-sn
-s	Sg
-cest	Ncfpg
-.	Z
-Čeprav	Cs
-od	Sg
-15	Mdc
-.	Z
-marca	Ncmsg
-zimska	Agpfsn
-oprema	Ncfsn
-za	Sa
-vozila	Ncnpa
-ni	Va-r3s-y
-več	Q
-obvezna	Agpfsn
-in	Cc
-nekateri	Pi-mpn
-vozniki	Ncmpn
-svojih	Px-npg
-vozil	Ncnpg
-nimajo	Vmpr3p-y
-več	Q
-opremljenih	Appfpg
-s	Si
-snežnimi	Agpfpi
-pnevmatikami	Ncfpi
-,	Z
-na	Sl
-gorenjskih	Agpfpl
-cestah	Ncfpl
-danes	Rgp
-ne	Q
-beležijo	Vmpr3p
-nobenih	Pz-fpg
-prometnih	Agpfpg
-nesreč	Ncfpg
-,	Z
-ki	Cs
-bi	Va-c
-jih	Pp3mpa--y
-povzročil	Vmep-sm
-sneg	Ncmsan
-.	Z
-Stanje	Ncnsn
-na	Sl
-cestah	Ncfpl
-Po	Sl
-podatkih	Ncmpl
-prometno	Agpnsn
--	Z
-informacijskega	Agpmsg
-centra	Ncmsg
-ponekod	Rgp
-po	Sl
-Sloveniji	Npfsl
-še	Q
-vedno	Rgp
-rahlo	Rgp
-sneži	Vmpr3s
-.	Z
-Ceste	Ncfpn
-so	Va-r3p-n
-mokre	Agpfpn
-,	Z
-zato	Cc
-priporočamo	Vmpr1p
-previdno	Agpfsa
-vožnjo	Ncfsa
-.	Z
-Zaradi	Sg
-burje	Ncfsg
-je	Va-r3s-n
-med	Si
-Podnanosom	Npmsi
-in	Cc
-Vipavo	Npfsi
-prepovedan	Appmsnn
-promet	Ncmsn
-za	Sa
-kamp	Ncmsan
-prikolice	Ncfpg
-,	Z
-hladilnike	Ncmpa
-in	Cc
-vozila	Ncnpa
-s	Si
-ponjavami	Ncfpi
-do	Sg
-osem	Mlc-pa
-ton	Ncfpg
-.	Z
+token	tag	lemma
+Vzhodni	mte:Agpmsny	vzhoden
+del	mte:Ncmsn	del
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+nekoliko	mte:Rgp	nekoliko
+presenetil	mte:Vmep-sm	presenetiti
+sneg	mte:Ncmsan	sneg
+tudi	mte:Q	tudi
+po	mte:Sl	po
+nižinah	mte:Ncfpl	nižina
+,	mte:Z	,
+saj	mte:Cc	saj
+vremenoslovci	mte:Ncmpn	vremenoslovec
+nanj	mte:Pp3msa--b	name
+niso	mte:Va-r3p-y	biti
+opozarjali	mte:Vmpp-pm	opozarjati
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+povzročil	mte:Vmep-sm	povzročiti
+motnje	mte:Ncfpa	motnja
+tudi	mte:Q	tudi
+v	mte:Sl	v
+oskrbi	mte:Ncfsl	oskrb
+z	mte:Si	z
+električno	mte:Agpfsi	električen
+energijo	mte:Ncfsi	energija
+.	mte:Z	.
+Na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+z	mte:Si	z
+električno	mte:Agpfsi	električen
+energijo	mte:Ncfsi	energija
+oskrbuje	mte:Vmpr3s	oskrbovati
+Elektro	mte:Npmsn	Elektro
+Celje	mte:Npnsn	Celje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+ob	mte:Sl	ob
+11.30	mte:Mdc	11.30
+motena	mte:Appfsn	moten
+oskrba	mte:Ncfsn	oskrba
+z	mte:Si	z
+električno	mte:Agpfsi	električen
+energijo	mte:Ncfsi	energija
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Laškega	mte:Npnsg	Laško
+(	mte:Z	(
+DV	mte:Npmsn	DV
+Jurklošter	mte:Npmsn	Jurklošter
+)	mte:Z	)
+brez	mte:Sg	brez
+elektrike	mte:Ncfsg	elektrika
+ostalo	mte:Vmep-sn	ostati
+335	mte:Mdc	335
+odjemalcev	mte:Ncmpg	odjemalec
+,	mte:Z	,
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Krškega	mte:Npnsg	Krško
+pa	mte:Cc	pa
+150	mte:Mdc	150
+odjemalcev	mte:Ncmpg	odjemalec
+.	mte:Z	.
+Glavni	mte:Agpmsny	glaven
+vzrok	mte:Ncmsn	vzrok
+za	mte:Sa	za
+motnje	mte:Ncfpa	motnja
+v	mte:Sl	v
+oskrbi	mte:Ncfsl	oskrb
+z	mte:Si	z
+električno	mte:Agpfsi	električen
+energijo	mte:Ncfsi	energija
+je	mte:Va-r3s-n	biti
+moker	mte:Agpmsnn	moker
+in	mte:Cc	in
+težek	mte:Agpmsnn	težek
+sneg	mte:Ncmsn	sneg
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+oprijema	mte:Vmpr3s	opriti
+žic	mte:Ncfpg	žica
+,	mte:Z	,
+te	mte:Pd-fpn	ta
+pa	mte:Cc	pa
+se	mte:Px------y	se
+trgajo	mte:Vmpr3p	trgati
+pod	mte:Si	pod
+njegovo	mte:Ps3fsism	njegov
+težo	mte:Ncfsi	teža
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+sporočili	mte:Vmep-pm	sporočiti
+z	mte:Si	z
+Elektra	mte:Npmsn	Elektra
+Celje	mte:Npnsn	Celje
+.	mte:Z	.
+Po	mte:Sl	po
+zadnjih	mte:Agpmpl	zadnji
+podatkih	mte:Ncmpl	podatek
+je	mte:Va-r3s-n	biti
+oskrba	mte:Ncfsn	oskrba
+z	mte:Si	z
+električno	mte:Agpfsi	električen
+energijo	mte:Ncfsi	energija
+motena	mte:Appfsn	moten
+le	mte:Q	le
+še	mte:Q	še
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Laškega	mte:Npnsg	Laško
+.	mte:Z	.
+Brez	mte:Sg	brez
+električne	mte:Agpfsg	električen
+energije	mte:Ncfsg	energija
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+še	mte:Q	še
+približno	mte:Rgp	približno
+300	mte:Mdc	300
+odjemalcev	mte:Ncmpg	odjemalec
+.	mte:Z	.
+Sneg	mte:Ncmsn	sneg
+presenetil	mte:Vmep-sm	presenetiti
+Celjane	mte:Npmpa	Celjan
+Na	mte:Sl	na
+Celjskem	mte:Agpnsl	celjski
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+tamkajšnje	mte:Agpfsg	tamkajšnji
+zimske	mte:Agpfsg	zimski
+službe	mte:Ncfsg	služba
+zapadlo	mte:Vmep-sn	zapasti
+od	mte:Sg	od
+pet	mte:Mlc-pa	pet
+centimetrov	mte:Ncmpg	centimeter
+snega	mte:Ncmsg	sneg
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Celja	mte:Npnsg	Celja
+do	mte:Sg	do
+20	mte:Mdc	20
+centimetrov	mte:Ncmpg	centimeter
+na	mte:Sl	na
+nekaterih	mte:Pi-npl	nekateri
+višjeležečih	mte:Appnpl	višjeležeč
+območjih	mte:Ncnpl	območje
+širšega	mte:Agcnsg	širok
+celjskega	mte:Agpnsg	celjski
+območja	mte:Ncnsg	območje
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+mokrega	mte:Agpmsg	moker
+in	mte:Cc	in
+težkega	mte:Agpmsg	težek
+snega	mte:Ncmsg	sneg
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+oprijemal	mte:Vmpp-sm	oprijemati
+žic	mte:Ncfpg	žica
+,	mte:Z	,
+te	mte:Pd-fpn	ta
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+pod	mte:Si	pod
+njegovo	mte:Ps3fsism	njegov
+težo	mte:Ncfsi	teža
+trgale	mte:Vmpp-pf	trgati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+največ	mte:Rgs	največ
+težav	mte:Ncfpg	težava
+pri	mte:Sl	pri
+oskrbi	mte:Ncfsl	oskrb
+z	mte:Si	z
+električno	mte:Agpfsi	električen
+energijo	mte:Ncfsi	energija
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Celja	mte:Npnsg	Celja
+,	mte:Z	,
+Laškega	mte:Npnsg	Laško
+,	mte:Z	,
+Šentjurja	mte:Npmsg	Šentjur
+,	mte:Z	,
+Podloga	mte:Npfsn	Podlog
+,	mte:Z	,
+Selc	mte:Npfsg	Selc
+,	mte:Z	,
+Krškega	mte:Npnsg	Krško
+,	mte:Z	,
+Brestanice	mte:Npfsg	Brestanica
+in	mte:Cc	in
+Planine	mte:Npfsg	Planina
+.	mte:Z	.
+Na	mte:Sl	na
+Celjskem	mte:Agpnsl	celjski
+je	mte:Va-r3s-n	biti
+brez	mte:Sg	brez
+elektrike	mte:Ncfsg	elektrika
+dopoldne	mte:Rgp	dopoldne
+ostalo	mte:Vmep-sn	ostati
+približno	mte:Rgp	približno
+1488	mte:Mdc	1488
+odjemalcev	mte:Ncmpg	odjemalec
+.	mte:Z	.
+Sicer	mte:Q	sicer
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+z	mte:Si	z
+Elektra	mte:Npfsi	Elektra
+Celje	mte:Npnsn	Celje
+sporočili	mte:Vmep-pm	sporočiti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+oskrbujejo	mte:Vmpr3p	oskrbovati
+z	mte:Si	z
+električno	mte:Agpfsi	električen
+energijo	mte:Ncfsi	energija
+,	mte:Z	,
+ob	mte:Sl	ob
+14.30	mte:Mdc	14.30
+odpravili	mte:Vmep-pm	odpraviti
+vse	mte:Pg-fpa	ves
+motnje	mte:Ncfpa	motnja
+na	mte:Sl	na
+srednjenapetostnem	mte:Agpnsl	srednjenapetosten
+omrežju	mte:Ncnsl	omrežje
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+povzročilo	mte:Vmep-sn	povzročiti
+jutranje	mte:Agpnsn	jutranji
+sneženje	mte:Ncnsn	sneženje
+.	mte:Z	.
+Medtem	mte:Rgp	medtem
+pa	mte:Cc	pa
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Maribora	mte:Npmsg	Maribor
+in	mte:Cc	in
+na	mte:Sl	na
+Koroškem	mte:Npnsl	Koroško
+sneg	mte:Ncmsn	sneg
+ne	mte:Q	ne
+povzroča	mte:Vmpr3s	povzročati
+večjih	mte:Agcfpg	velik
+težav	mte:Ncfpg	težava
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+pobelil	mte:Vmep-sm	pobeliti
+le	mte:Q	le
+višjeležeče	mte:Appmpa	višjeležeč
+predele	mte:Ncmpa	predel
+.	mte:Z	.
+S	mte:Si	z
+Kop	mte:Ncmsi	kop
+tako	mte:Rgp	tako
+poročajo	mte:Vmpr3p	poročati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+zapadlo	mte:Vmep-sn	zapasti
+od	mte:Sg	od
+20	mte:Mdc	20
+do	mte:Sg	do
+25	mte:Mdc	25
+centimetrov	mte:Ncmpg	centimeter
+novega	mte:Agpmsg	nov
+snega	mte:Ncmsg	sneg
+,	mte:Z	,
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Črne	mte:Npfsg	Črna
+na	mte:Sl	na
+Koroškem	mte:Npnsl	Koroško
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+od	mte:Sg	od
+10	mte:Mdc	10
+do	mte:Sg	do
+15	mte:Mdc	15
+centimetrov	mte:Ncmpg	centimeter
+.	mte:Z	.
+Ljubljana	mte:Npfsn	Ljubljana
+dočakala	mte:Vmep-sf	dočakati
+sneg	mte:Ncmsan	sneg
+Najmanj	mte:Rgs	najmanj
+snega	mte:Ncmsg	sneg
+je	mte:Va-r3s-n	biti
+zapadlo	mte:Vmep-sn	zapasti
+na	mte:Sl	na
+Gorenjskem	mte:Npnsl	Gorenjsko
+.	mte:Z	.
+©	mte:Npmsn	©
+BOBO	mte:Npmsn	BOBO
+Po	mte:Sl	po
+skoraj	mte:Q	skoraj
+zeleni	mte:Agpfsl	zelen
+zimi	mte:Ncfsl	zima
+je	mte:Va-r3s-n	biti
+sneg	mte:Ncmsan	sneg
+dočakala	mte:Vmep-sf	dočakati
+tudi	mte:Q	tudi
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+višjeležečih	mte:Appmpl	višjeležeč
+predelih	mte:Ncmpl	predel
+zapadlo	mte:Vmep-sn	zapasti
+do	mte:Sg	do
+okoli	mte:Rgp	okoli
+deset	mte:Mlc-pa	deset
+centimetrov	mte:Ncmpg	centimeter
+snega	mte:Ncmsg	sneg
+,	mte:Z	,
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+Viča	mte:Npfsg	Viča
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+pa	mte:Cc	pa
+pet	mte:Mlc-pn	pet
+.	mte:Z	.
+Večjih	mte:Agcfpg	velik
+težav	mte:Ncfpg	težava
+v	mte:Sl	v
+prometu	mte:Ncmsl	promet
+pa	mte:Cc	pa
+v	mte:Sl	v
+prestolnici	mte:Ncfsl	prestolnica
+ni	mte:Va-r3s-y	biti
+.	mte:Z	.
+Sneženje	mte:Ncnsn	sneženje
+bo	mte:Va-f3s-n	biti
+sicer	mte:Q	sicer
+po	mte:Sl	po
+napovedih	mte:Ncfpl	napoved
+vremenoslovcev	mte:Ncmpg	vremenoslovec
+ponehalo	mte:Vmep-sn	ponehati
+v	mte:Sl	v
+popoldanskih	mte:Agpfpl	popoldanski
+urah	mte:Ncfpl	ura
+.	mte:Z	.
+Novo	mte:Agpfsa	nov
+"	mte:Z	"
+pošiljko	mte:Ncfsa	pošiljka
+"	mte:Z	"
+snega	mte:Ncmsg	sneg
+pa	mte:Cc	pa
+lahko	mte:Rgp	lahko
+spet	mte:Rgp	spet
+pričakujemo	mte:Vmpr1p	pričakovati
+med	mte:Si	med
+velikonočnimi	mte:Agpmpi	velikonočen
+prazniki	mte:Ncmpi	praznik
+.	mte:Z	.
+Več	mte:Rgc	več
+o	mte:Sl	o
+vremenu	mte:Ncnsl	vreme
+si	mte:Px---d--y	se
+lahko	mte:Rgp	lahko
+preberete	mte:Vmer2p	prebrati
+tukaj	mte:Rgp	tukaj
+.	mte:Z	.
+Gorenjska	mte:Npfsn	Gorenjska
+z	mte:Si	z
+manjšimi	mte:Agcfpi	majhen
+snežnimi	mte:Agpfpi	snežen
+padavinami	mte:Ncfpi	padavina
+Sneg	mte:Ncmsa	sneg
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+ponoči	mte:Rgp	ponoči
+in	mte:Cc	in
+danes	mte:Rgp	danes
+zjutraj	mte:Rgp	zjutraj
+pobelil	mte:Vmep-sm	pobeliti
+Slovenijo	mte:Npfsa	Slovenija
+,	mte:Z	,
+na	mte:Sl	na
+Gorenjskem	mte:Npnsl	Gorenjsko
+ni	mte:Va-r3s-y	biti
+povzročal	mte:Vmpp-sm	povzročati
+težav	mte:Ncfpg	težava
+.	mte:Z	.
+Po	mte:Sl	po
+nižinah	mte:Ncfpl	nižina
+je	mte:Va-r3s-n	biti
+zapadlo	mte:Vmep-sn	zapasti
+le	mte:Q	le
+do	mte:Sg	do
+dva	mte:Mlcmda	dva
+centimetra	mte:Ncmdg	centimeter
+snega	mte:Ncmsg	sneg
+,	mte:Z	,
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+pa	mte:Cc	pa
+ponekod	mte:Rgp	ponekod
+rahlo	mte:Rgp	rahlo
+sneži	mte:Vmpr3s	snežati
+.	mte:Z	.
+Ceste	mte:Ncfpn	cesta
+so	mte:Va-r3p-n	biti
+normalno	mte:Rgp	normalno
+prevozne	mte:Agpfpn	prevozen
+tudi	mte:Q	tudi
+na	mte:Sl	na
+višjih	mte:Agcnpl	visok
+območjih	mte:Ncnpl	območje
+,	mte:Z	,
+kjer	mte:Cs	kjer
+je	mte:Va-r3s-n	biti
+zapadlo	mte:Vmep-sn	zapasti
+okrog	mte:Rgp	okrog
+deset	mte:Mlc-pa	deset
+centimetrov	mte:Ncmpg	centimeter
+snega	mte:Ncmsg	sneg
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+cestno	mte:Agpnsn	cestno
+podjetje	mte:Ncnsn	podjetje
+že	mte:Q	že
+splužilo	mte:Vmep-sn	splužiti
+s	mte:Sg	z
+cest	mte:Ncfpg	cesta
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+od	mte:Sg	od
+15	mte:Mdc	15
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+zimska	mte:Agpfsn	zimski
+oprema	mte:Ncfsn	oprema
+za	mte:Sa	za
+vozila	mte:Ncnpa	vozilo
+ni	mte:Va-r3s-y	biti
+več	mte:Q	več
+obvezna	mte:Agpfsn	obvezen
+in	mte:Cc	in
+nekateri	mte:Pi-mpn	nekateri
+vozniki	mte:Ncmpn	voznik
+svojih	mte:Px-npg	svoj
+vozil	mte:Ncnpg	vozilo
+nimajo	mte:Vmpr3p-y	imeti
+več	mte:Q	več
+opremljenih	mte:Appfpg	opremljen
+s	mte:Si	z
+snežnimi	mte:Agpfpi	snežen
+pnevmatikami	mte:Ncfpi	pnevmatika
+,	mte:Z	,
+na	mte:Sl	na
+gorenjskih	mte:Agpfpl	gorenjski
+cestah	mte:Ncfpl	cesta
+danes	mte:Rgp	danes
+ne	mte:Q	ne
+beležijo	mte:Vmpr3p	beležiti
+nobenih	mte:Pz-fpg	noben
+prometnih	mte:Agpfpg	prometen
+nesreč	mte:Ncfpg	nesreča
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+jih	mte:Pp3mpa--y	on
+povzročil	mte:Vmep-sm	povzročiti
+sneg	mte:Ncmsan	sneg
+.	mte:Z	.
+Stanje	mte:Ncnsn	stanje
+na	mte:Sl	na
+cestah	mte:Ncfpl	cesta
+Po	mte:Sl	po
+podatkih	mte:Ncmpl	podatek
+prometno	mte:Agpnsn	prometen
+-	mte:Z	-
+informacijskega	mte:Agpmsg	informacijski
+centra	mte:Ncmsg	center
+ponekod	mte:Rgp	ponekod
+po	mte:Sl	po
+Sloveniji	mte:Npfsl	Slovenija
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+rahlo	mte:Rgp	rahlo
+sneži	mte:Vmpr3s	snežati
+.	mte:Z	.
+Ceste	mte:Ncfpn	cesta
+so	mte:Va-r3p-n	biti
+mokre	mte:Agpfpn	moker
+,	mte:Z	,
+zato	mte:Cc	zato
+priporočamo	mte:Vmpr1p	priporočati
+previdno	mte:Agpfsa	previdno
+vožnjo	mte:Ncfsa	vožnja
+.	mte:Z	.
+Zaradi	mte:Sg	zaradi
+burje	mte:Ncfsg	burje
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+Podnanosom	mte:Npmsi	Podnanos
+in	mte:Cc	in
+Vipavo	mte:Npfsi	Vipavo
+prepovedan	mte:Appmsnn	prepovedan
+promet	mte:Ncmsn	promet
+za	mte:Sa	za
+kamp	mte:Ncmsan	kamp
+prikolice	mte:Ncfpg	prikolica
+,	mte:Z	,
+hladilnike	mte:Ncmpa	hladilnik
+in	mte:Cc	in
+vozila	mte:Ncnpa	vozilo
+s	mte:Si	z
+ponjavami	mte:Ncfpi	ponjava
+do	mte:Sg	do
+osem	mte:Mlc-pa	osem
+ton	mte:Ncfpg	tona
+.	mte:Z	.
+Na	mte:Sl	na
+mejnem	mte:Agpmsl	mejen
+prehodu	mte:Ncmsl	prehod
+Obrežje	mte:Ncnsa	obrežje
+je	mte:Va-r3s-n	biti
+pri	mte:Sl	pri
+izstopu	mte:Ncmsl	izstop
+iz	mte:Sg	iz
+države	mte:Ncfsg	država
+čakalna	mte:Agpfsn	čakalen
+doba	mte:Ncfsn	doba
+za	mte:Sa	za
+tovorna	mte:Agpnpa	tovoren
+vozila	mte:Ncnpa	vozilo
+štiri	mte:Mlcfpa	štirje
+ure	mte:Ncfpa	ura
+,	mte:Z	,
+na	mte:Sl	na
+Gruškovju	mte:Npnsl	Gruškovje
+pa	mte:Cc	pa
+dve	mte:Mlcfda	dva
+uri	mte:Ncfda	ura

@@ -1,428 +1,458 @@
-token	tag
-Ljubljana	Npfsn
--	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-Mateju	Npmsd
-Naratu	Npmsd
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-nadzorni	Agpmsny
-svet	Ncmsn
-Abanke	Npfsg
-konec	Sg
-maja	Ncmsg
-imenoval	Vmbp-sm
-za	Sa
-predsednika	Ncmsay
-uprave	Ncfsg
-,	Z
-ni	Va-r3s-y
-izdala	Vmep-sf
-dovoljenja	Ncnsg
-za	Sa
-opravljanje	Ncnsa
-funkcije	Ncfsg
-člana	Ncmsg
-uprave	Ncfsg
-Abanke	Npfsg
-.	Z
-O	Sl
-nadaljnjih	Agpmpl
-postopkih	Ncmpl
-za	Sa
-imenovanje	Ncnsa
-predsednika	Ncmsg
-uprave	Ncfsg
-banke	Ncfsg
-bo	Va-f3s-n
-nadzorni	Agpmsny
-svet	Ncmsn
-odločal	Vmpp-sm
-na	Sl
-prvi	Mlofsl
-naslednji	Agpfsl
-seji	Ncfsl
-,	Z
-ki	Cs
-bo	Va-f3s-n
-predvidoma	Rgp
-v	Sl
-drugi	Mlpfsl
-polovici	Ncfsl
-oktobra	Ncmsg
-.	Z
-"	Z
-Dvočlanska	Agpfsn
-uprava	Ncfsn
-Abanke	Npfsg
-Vipe	Npfsg
-že	Q
-pet	Mlc-pa
-mesecev	Ncmpg
-odgovorno	Rgp
-opravlja	Vmpr3s
-vse	Pg-fpa
-naloge	Ncfpa
-v	Sl
-okviru	Ncmsl
-svojih	Px-fpg
-pristojnosti	Ncfpg
-,	Z
-zato	Cc
-je	Va-r3s-n
-poslovanje	Ncnsn
-banke	Ncfsg
-nemoteno	Agpnsn
-in	Cc
-tekoče	Appnsn
-,	Z
-"	Z
-je	Va-r3s-n
-predsednik	Ncmsn
-nadzornega	Agpmsg
-sveta	Ncmsg
-Abanke	Ncfsg
-Janez	Npmsn
-Bohorič	Npmsn
-danes	Rgp
-sporočil	Vmep-sm
-prek	Sg
-spletnih	Agpfpg
-strani	Ncfpg
-Ljubljanske	Agpfsg
-borze	Ncfsg
-.	Z
-Da	Cs
-mu	Pp3msd--y
-ni	Va-r3s-y
-bilo	Va-p-sn
-izdano	Appnsn
-dovoljenje	Ncnsn
-za	Sa
-opravljanje	Ncnsa
-funkcije	Ncfsg
-člana	Ncmsg
-uprave	Ncfsg
-Abanke	Npfsg
-,	Z
-ki	Cs
-je	Va-r3s-n
-pogoj	Ncmsan
-za	Sa
-opravljanje	Ncnsa
-funkcije	Ncfsg
-predsednika	Ncmsg
-uprave	Ncfsg
-,	Z
-je	Va-r3s-n
-Narat	Npmsn
-vodstvo	Ncnsn
-banke	Ncfsg
-obvestil	Vmep-sm
-danes	Rgp
-.	Z
-V	Sl
-Banki	Ncfsl
-Slovenije	Npfsg
-razlogov	Ncmpg
-za	Sa
-zavrnitev	Ncfsa
-podelitve	Ncfsg
-licence	Ncfsg
-Naratu	Npmsd
-niso	Va-r3p-y
-razkrili	Vmep-pm
-,	Z
-zapisali	Vmep-pm
-pa	Cc
-so	Va-r3p-n
-,	Z
-da	Cs
-so	Va-r3p-n
-"	Z
-v	Sl
-vsaki	Pg-fsl
-odločbi	Ncfsl
-o	Sl
-izdaji	Ncfsl
-oz	Npmsg
-.	Z
-zavrnitvi	Ncfsl
-dovoljenja	Ncnsg
-natančno	Rgp
-navedeni	Appmpn
-in	Cc
-obrazloženi	Appmpn
-razlogi	Ncmpn
-za	Sa
-to	Pd-nsa
-"	Z
-.	Z
-Razlogi	Ncmpn
-so	Va-r3p-n
-opredeljeni	Appmpn
-v	Sl
-zakonu	Ncmsl
-o	Sl
-bančništvu	Ncnsl
-in	Cc
-so	Va-r3p-n
-zavezujoči	Appmpn
-pri	Sl
-odločanju	Ncnsl
-Banke	Ncfsg
-Slovenije	Npfsg
-,	Z
-so	Va-r3p-n
-dodali	Vmep-pm
-.	Z
-"	Z
-O	Sl
-nadaljnjih	Agpmpl
-korakih	Ncmpl
-se	Px------y
-bom	Va-f1s-n
-skupaj	Rgp
-s	Si
-svojo	Px-fsi
-odvetniško	Agpfsi
-ekipo	Ncfsi
-odločil	Vmep-sm
-po	Sl
-temeljiti	Ncfsl
-proučitvi	Ncfsl
-same	Agpfsg
-obrazložitve	Ncfsg
-prejete	Appfsg
-odločbe	Ncfsg
-,	Z
-"	Z
-je	Va-r3s-n
-,	Z
-kot	Cs
-pišejo	Vmpr3p
-Finance	Ncmpa
-,	Z
-zapisal	Vmep-sm
-Narat	Npmsn
-in	Cc
-dodal	Vmep-sm
-,	Z
-da	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-Banka	Ncfsn
-Slovenije	Npfsg
-zavrnila	Vmep-sf
-izdajo	Ncfsa
-licence	Ncfsg
-"	Z
-navkljub	Sd
-izpolnjevanju	Ncnsd
-vseh	Pg-mpg
-formalnih	Agpmpg
-pogojev	Ncmpg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-predpisuje	Vmpr3s
-zakon	Ncmsn
-o	Sl
-bančništvu	Ncnsl
-"	Z
-.	Z
-Kot	Cs
-so	Va-r3p-n
-glede	Sg
-tega	Pd-nsg
-pojasnili	Vmep-pm
-v	Sl
-Banki	Ncfsl
-Slovenije	Npfsg
-,	Z
-je	Va-r3s-n
-v	Sl
-skladu	Ncmsl
-z	Si
-zakonom	Ncmsi
-o	Sl
-bančništvu	Ncnsl
-proti	Sd
-odločbam	Ncfpd
-Banke	Ncfsg
-Slovenije	Npfsg
-dovoljeno	Appnsn
-začeti	Vmen
-postopek	Ncmsan
-sodnega	Agpnsg
-varstva	Ncnsg
-.	Z
-"	Z
-Torej	Rgp
-je	Va-r3s-n
-to	Pd-nsn
-legitimna	Agpfsn
-pravica	Ncfsn
-vložnika	Ncmsg
-zahteve	Ncfsg
-za	Sa
-izdajo	Ncfsa
-dovoljenja	Ncnsg
-,	Z
-če	Cs
-se	Px------y
-z	Si
-odločitvijo	Ncfsi
-Banke	Ncfsg
-Slovenije	Npfsg
-ne	Q
-strinja	Vmpr3s
-,	Z
-"	Z
-so	Va-r3p-n
-zapisali	Vmep-pm
-.	Z
-Nadzorniki	Ncmpn
-Abanke	Npfsg
-je	Va-r3s-n
-Narata	Npmsg
-za	Sa
-predsednika	Ncmsay
-uprave	Ncfsg
-imenoval	Vmbp-sm
-potem	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-konec	Sg
-aprila	Ncmsg
-prvi	Mlomsn
-mož	Ncmsn
-Abanke	Npfsg
-Aleš	Npmsn
-Žajdela	Npmsn
-tragično	Rgp
-preminil	Vmep-sm
-v	Sl
-prometni	Agpfsl
-nesreči	Ncfsl
-.	Z
-Od	Sg
-tedaj	Rgp
-je	Va-r3s-n
-uprava	Ncfsn
-Abanke	Npfsg
-dvočlanska	Agpfsn
--	Z
-v	Sl
-njej	Pp3fsl
-sta	Va-r3d-n
-Radovan	Npmsn
-Jereb	Npmsn
-in	Cc
-Gregor	Npmsn
-Hudobivnik	Npmsn
-.	Z
-Narat	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-od	Sg
-julija	Ncmsg
-2002	Mdc
-do	Sg
-novembra	Ncmsg
-2009	Mdc
-član	Ncmsn
-uprave	Ncfsg
-Nove	Agpfsg
-Ljubljanske	Agpfsg
-banke	Ncfsg
-.	Z
-Decembra	Ncmsg
-lani	Rgp
-ga	Pp3msa--y
-v	Sa
-upravo	Ncfsa
-NLB	Npfsg
-niso	Va-r3p-y
-ponovno	Rgp
-imenovali	Vmbp-pm
-,	Z
-ostal	Vmep-sm
-pa	Cc
-je	Va-r3s-n
-zaposlen	Appmsnn
-v	Sl
-banki	Ncfsl
-kot	Cs
-pomočnik	Ncmsn
-uprave	Ncfsg
-ter	Cc
-izvršni	Agpmsny
-direktor	Ncmsn
-za	Sa
-finančne	Agpmpa
-trge	Ncmpa
-.	Z
-Banka	Ncfsn
-Slovenije	Npfsg
-je	Va-r3s-n
-doslej	Rgp
-zelo	Rgp
-redko	Rgp
-zavrnila	Vmep-sf
-izdajo	Ncfsa
-licence	Ncfsg
-.	Z
-V	Sl
-javnosti	Ncfsl
-znani	Appmpn
-primeri	Ncmpn
-so	Va-r3p-n
-zavrnitev	Ncfsa
-dovoljenja	Ncnsg
-Matjažu	Npmsd
-Jauku	Npmsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-leta	Ncnsg
-2005	Mdc
-kandidiral	Vmbp-sm
-za	Sa
-člana	Ncmsay
-uprave	Ncfsg
-Abanke	Npfsg
-,	Z
-pred	Si
-leti	Ncnpi
-Henriku	Npmsd
-Peternelju	Npmsd
-,	Z
-kandidatu	Ncmsd
-za	Sa
-člana	Ncmsay
-uprave	Ncfsg
-Poštne	Agpfsg
-banke	Ncfsg
-Slovenije	Npfsg
-,	Z
-ter	Cc
-kandidatu	Ncmsd
-za	Sa
-člana	Ncmsay
-uprave	Ncfsg
-Deželne	Agpfsg
-banke	Ncfsg
-Jožefu	Npmsd
-Berdniku	Npmsd
-,	Z
-ki	Cs
-je	Va-r3s-n
-zdaj	Rgp
-svetovalec	Ncmsn
-uprave	Ncfsg
-.	Z
+token	tag	lemma
+Ljubljana	mte:Npfsn	Ljubljana
+-	mte:Z	-
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+Mateju	mte:Npmsd	Matej
+Naratu	mte:Npmsd	Narat
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+Abanke	mte:Npfsg	Abanka
+konec	mte:Sg	konec
+maja	mte:Ncmsg	maj
+imenoval	mte:Vmbp-sm	imenovati
+za	mte:Sa	za
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+ni	mte:Va-r3s-y	biti
+izdala	mte:Vmep-sf	izdati
+dovoljenja	mte:Ncnsg	dovoljenje
+za	mte:Sa	za
+opravljanje	mte:Ncnsa	opravljanje
+funkcije	mte:Ncfsg	funkcija
+člana	mte:Ncmsg	član
+uprave	mte:Ncfsg	uprava
+Abanke	mte:Npfsg	Abanka
+.	mte:Z	.
+O	mte:Sl	o
+nadaljnjih	mte:Agpmpl	nadaljnji
+postopkih	mte:Ncmpl	postopek
+za	mte:Sa	za
+imenovanje	mte:Ncnsa	imenovanje
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+banke	mte:Ncfsg	banka
+bo	mte:Va-f3s-n	biti
+nadzorni	mte:Agpmsny	nadzoren
+svet	mte:Ncmsn	svet
+odločal	mte:Vmpp-sm	odločati
+na	mte:Sl	na
+prvi	mte:Mlofsl	prvi
+naslednji	mte:Agpfsl	naslednji
+seji	mte:Ncfsl	seja
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+v	mte:Sl	v
+drugi	mte:Mlpfsl	drug
+polovici	mte:Ncfsl	polovica
+oktobra	mte:Ncmsg	oktober
+.	mte:Z	.
+"	mte:Z	"
+Dvočlanska	mte:Agpfsn	dvočlanski
+uprava	mte:Ncfsn	uprava
+Abanke	mte:Npfsg	Abanka
+Vipe	mte:Npfsg	Vipe
+že	mte:Q	že
+pet	mte:Mlc-pa	pet
+mesecev	mte:Ncmpg	mesec
+odgovorno	mte:Rgp	odgovorno
+opravlja	mte:Vmpr3s	opravljati
+vse	mte:Pg-fpa	ves
+naloge	mte:Ncfpa	naloga
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+svojih	mte:Px-fpg	svoj
+pristojnosti	mte:Ncfpg	pristojnost
+,	mte:Z	,
+zato	mte:Cc	zato
+je	mte:Va-r3s-n	biti
+poslovanje	mte:Ncnsn	poslovanje
+banke	mte:Ncfsg	banka
+nemoteno	mte:Agpnsn	nemoten
+in	mte:Cc	in
+tekoče	mte:Appnsn	tekoče
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+predsednik	mte:Ncmsn	predsednik
+nadzornega	mte:Agpmsg	nadzoren
+sveta	mte:Ncmsg	svet
+Abanke	mte:Ncfsg	abanka
+Janez	mte:Npmsn	Janez
+Bohorič	mte:Npmsn	Bohorič
+danes	mte:Rgp	danes
+sporočil	mte:Vmep-sm	sporočiti
+prek	mte:Sg	prek
+spletnih	mte:Agpfpg	spleten
+strani	mte:Ncfpg	stran
+Ljubljanske	mte:Agpfsg	ljubljanski
+borze	mte:Ncfsg	borza
+.	mte:Z	.
+Da	mte:Cs	da
+mu	mte:Pp3msd--y	on
+ni	mte:Va-r3s-y	biti
+bilo	mte:Va-p-sn	biti
+izdano	mte:Appnsn	izdano
+dovoljenje	mte:Ncnsn	dovoljenje
+za	mte:Sa	za
+opravljanje	mte:Ncnsa	opravljanje
+funkcije	mte:Ncfsg	funkcija
+člana	mte:Ncmsg	član
+uprave	mte:Ncfsg	uprava
+Abanke	mte:Npfsg	Abanka
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+pogoj	mte:Ncmsan	pogoj
+za	mte:Sa	za
+opravljanje	mte:Ncnsa	opravljanje
+funkcije	mte:Ncfsg	funkcija
+predsednika	mte:Ncmsg	predsednik
+uprave	mte:Ncfsg	uprava
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+Narat	mte:Npmsn	Narat
+vodstvo	mte:Ncnsn	vodstvo
+banke	mte:Ncfsg	banka
+obvestil	mte:Vmep-sm	obvestiti
+danes	mte:Rgp	danes
+.	mte:Z	.
+V	mte:Sl	v
+Banki	mte:Ncfsl	banka
+Slovenije	mte:Npfsg	Slovenija
+razlogov	mte:Ncmpg	razlog
+za	mte:Sa	za
+zavrnitev	mte:Ncfsa	zavrnitev
+podelitve	mte:Ncfsg	podelitev
+licence	mte:Ncfsg	licenca
+Naratu	mte:Npmsd	Narat
+niso	mte:Va-r3p-y	biti
+razkrili	mte:Vmep-pm	razkriti
+,	mte:Z	,
+zapisali	mte:Vmep-pm	zapisati
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+so	mte:Va-r3p-n	biti
+"	mte:Z	"
+v	mte:Sl	v
+vsaki	mte:Pg-fsl	vsak
+odločbi	mte:Ncfsl	odločba
+o	mte:Sl	o
+izdaji	mte:Ncfsl	izdaja
+oz	mte:Npmsg	oz
+.	mte:Z	.
+zavrnitvi	mte:Ncfsl	zavrnitev
+dovoljenja	mte:Ncnsg	dovoljenje
+natančno	mte:Rgp	natančno
+navedeni	mte:Appmpn	naveden
+in	mte:Cc	in
+obrazloženi	mte:Appmpn	obrazložen
+razlogi	mte:Ncmpn	razlog
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+"	mte:Z	"
+.	mte:Z	.
+Razlogi	mte:Ncmpn	razlog
+so	mte:Va-r3p-n	biti
+opredeljeni	mte:Appmpn	opredeljen
+v	mte:Sl	v
+zakonu	mte:Ncmsl	zakon
+o	mte:Sl	o
+bančništvu	mte:Ncnsl	bančništvo
+in	mte:Cc	in
+so	mte:Va-r3p-n	biti
+zavezujoči	mte:Appmpn	zavezujoč
+pri	mte:Sl	pri
+odločanju	mte:Ncnsl	odločanje
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+dodali	mte:Vmep-pm	dodati
+.	mte:Z	.
+"	mte:Z	"
+O	mte:Sl	o
+nadaljnjih	mte:Agpmpl	nadaljnji
+korakih	mte:Ncmpl	korak
+se	mte:Px------y	se
+bom	mte:Va-f1s-n	biti
+skupaj	mte:Rgp	skupaj
+s	mte:Si	z
+svojo	mte:Px-fsi	svoj
+odvetniško	mte:Agpfsi	odvetniški
+ekipo	mte:Ncfsi	ekipa
+odločil	mte:Vmep-sm	odločiti
+po	mte:Sl	po
+temeljiti	mte:Ncfsl	temeljit
+proučitvi	mte:Ncfsl	proučitev
+same	mte:Agpfsg	sam
+obrazložitve	mte:Ncfsg	obrazložitev
+prejete	mte:Appfsg	prejet
+odločbe	mte:Ncfsg	odločba
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+kot	mte:Cs	kot
+pišejo	mte:Vmpr3p	pisati
+Finance	mte:Ncmpa	finance
+,	mte:Z	,
+zapisal	mte:Vmep-sm	zapisati
+Narat	mte:Npmsn	Narat
+in	mte:Cc	in
+dodal	mte:Vmep-sm	dodati
+,	mte:Z	,
+da	mte:Cs	da
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+zavrnila	mte:Vmep-sf	zavrniti
+izdajo	mte:Ncfsa	izdaja
+licence	mte:Ncfsg	licenca
+"	mte:Z	"
+navkljub	mte:Sd	navkljub
+izpolnjevanju	mte:Ncnsd	izpolnjevanje
+vseh	mte:Pg-mpg	ves
+formalnih	mte:Agpmpg	formalen
+pogojev	mte:Ncmpg	pogoj
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+predpisuje	mte:Vmpr3s	predpisovati
+zakon	mte:Ncmsn	zakon
+o	mte:Sl	o
+bančništvu	mte:Ncnsl	bančništvo
+"	mte:Z	"
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+glede	mte:Sg	glede
+tega	mte:Pd-nsg	ta
+pojasnili	mte:Vmep-pm	pojasniti
+v	mte:Sl	v
+Banki	mte:Ncfsl	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+z	mte:Si	z
+zakonom	mte:Ncmsi	zakon
+o	mte:Sl	o
+bančništvu	mte:Ncnsl	bančništvo
+proti	mte:Sd	proti
+odločbam	mte:Ncfpd	odločba
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+dovoljeno	mte:Appnsn	dovoljen
+začeti	mte:Vmen	začeti
+postopek	mte:Ncmsan	postopek
+sodnega	mte:Agpnsg	soden
+varstva	mte:Ncnsg	varstvo
+.	mte:Z	.
+"	mte:Z	"
+Torej	mte:Rgp	torej
+je	mte:Va-r3s-n	biti
+to	mte:Pd-nsn	ta
+legitimna	mte:Agpfsn	legitimen
+pravica	mte:Ncfsn	pravica
+vložnika	mte:Ncmsg	vložnik
+zahteve	mte:Ncfsg	zahteva
+za	mte:Sa	za
+izdajo	mte:Ncfsa	izdaja
+dovoljenja	mte:Ncnsg	dovoljenje
+,	mte:Z	,
+če	mte:Cs	če
+se	mte:Px------y	se
+z	mte:Si	z
+odločitvijo	mte:Ncfsi	odločitev
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+ne	mte:Q	ne
+strinja	mte:Vmpr3s	strinjati
+,	mte:Z	,
+"	mte:Z	"
+so	mte:Va-r3p-n	biti
+zapisali	mte:Vmep-pm	zapisati
+.	mte:Z	.
+Nadzorniki	mte:Ncmpn	nadzornik
+Abanke	mte:Npfsg	Abanka
+je	mte:Va-r3s-n	biti
+Narata	mte:Npmsg	Narat
+za	mte:Sa	za
+predsednika	mte:Ncmsay	predsednik
+uprave	mte:Ncfsg	uprava
+imenoval	mte:Vmbp-sm	imenovati
+potem	mte:Rgp	potem
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+konec	mte:Sg	konec
+aprila	mte:Ncmsg	april
+prvi	mte:Mlomsn	prvi
+mož	mte:Ncmsn	mož
+Abanke	mte:Npfsg	Abanka
+Aleš	mte:Npmsn	Aleš
+Žajdela	mte:Npmsn	Žajdela
+tragično	mte:Rgp	tragično
+preminil	mte:Vmep-sm	preminiti
+v	mte:Sl	v
+prometni	mte:Agpfsl	prometen
+nesreči	mte:Ncfsl	nesreča
+.	mte:Z	.
+Od	mte:Sg	od
+tedaj	mte:Rgp	tedaj
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+Abanke	mte:Npfsg	Abanka
+dvočlanska	mte:Agpfsn	dvočlanski
+-	mte:Z	-
+v	mte:Sl	v
+njej	mte:Pp3fsl	on
+sta	mte:Va-r3d-n	biti
+Radovan	mte:Npmsn	Radovan
+Jereb	mte:Npmsn	Jereb
+in	mte:Cc	in
+Gregor	mte:Npmsn	Gregor
+Hudobivnik	mte:Npmsn	Hudobivnik
+.	mte:Z	.
+Narat	mte:Npmsn	Narat
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+od	mte:Sg	od
+julija	mte:Ncmsg	julij
+2002	mte:Mdc	2002
+do	mte:Sg	do
+novembra	mte:Ncmsg	november
+2009	mte:Mdc	2009
+član	mte:Ncmsn	član
+uprave	mte:Ncfsg	uprava
+Nove	mte:Agpfsg	nov
+Ljubljanske	mte:Agpfsg	ljubljanski
+banke	mte:Ncfsg	banka
+.	mte:Z	.
+Decembra	mte:Ncmsg	december
+lani	mte:Rgp	lani
+ga	mte:Pp3msa--y	on
+v	mte:Sa	v
+upravo	mte:Ncfsa	uprava
+NLB	mte:Npfsg	NLB
+niso	mte:Va-r3p-y	biti
+ponovno	mte:Rgp	ponovno
+imenovali	mte:Vmbp-pm	imenovati
+,	mte:Z	,
+ostal	mte:Vmep-sm	ostati
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+zaposlen	mte:Appmsnn	zaposlen
+v	mte:Sl	v
+banki	mte:Ncfsl	banka
+kot	mte:Cs	kot
+pomočnik	mte:Ncmsn	pomočnik
+uprave	mte:Ncfsg	uprava
+ter	mte:Cc	ter
+izvršni	mte:Agpmsny	izvršen
+direktor	mte:Ncmsn	direktor
+za	mte:Sa	za
+finančne	mte:Agpmpa	finančen
+trge	mte:Ncmpa	trg
+.	mte:Z	.
+Banka	mte:Ncfsn	banka
+Slovenije	mte:Npfsg	Slovenija
+je	mte:Va-r3s-n	biti
+doslej	mte:Rgp	doslej
+zelo	mte:Rgp	zelo
+redko	mte:Rgp	redko
+zavrnila	mte:Vmep-sf	zavrniti
+izdajo	mte:Ncfsa	izdaja
+licence	mte:Ncfsg	licenca
+.	mte:Z	.
+V	mte:Sl	v
+javnosti	mte:Ncfsl	javnost
+znani	mte:Appmpn	znan
+primeri	mte:Ncmpn	primer
+so	mte:Va-r3p-n	biti
+zavrnitev	mte:Ncfsa	zavrnitev
+dovoljenja	mte:Ncnsg	dovoljenje
+Matjažu	mte:Npmsd	Matjaž
+Jauku	mte:Npmsd	Jauk
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+leta	mte:Ncnsg	leto
+2005	mte:Mdc	2005
+kandidiral	mte:Vmbp-sm	kandidirati
+za	mte:Sa	za
+člana	mte:Ncmsay	član
+uprave	mte:Ncfsg	uprava
+Abanke	mte:Npfsg	Abanka
+,	mte:Z	,
+pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+Henriku	mte:Npmsd	Henrik
+Peternelju	mte:Npmsd	Peternelj
+,	mte:Z	,
+kandidatu	mte:Ncmsd	kandidat
+za	mte:Sa	za
+člana	mte:Ncmsay	član
+uprave	mte:Ncfsg	uprava
+Poštne	mte:Agpfsg	pošten
+banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+ter	mte:Cc	ter
+kandidatu	mte:Ncmsd	kandidat
+za	mte:Sa	za
+člana	mte:Ncmsay	član
+uprave	mte:Ncfsg	uprava
+Deželne	mte:Agpfsg	deželen
+banke	mte:Ncfsg	banka
+Jožefu	mte:Npmsd	Jožefu
+Berdniku	mte:Npmsd	Berdnik
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+zdaj	mte:Rgp	zdaj
+svetovalec	mte:Ncmsn	svetovalec
+uprave	mte:Ncfsg	uprava
+.	mte:Z	.
+Po	mte:Sl	po
+neuradnih	mte:Agpmpl	neuraden
+podatkih	mte:Ncmpl	podatek
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+v	mte:Sl	v
+20	mte:Mdc	20
+-	mte:Z	-
+letni	mte:Agpfsl	leten
+zgodovini	mte:Ncfsl	zgodovina
+Banke	mte:Ncfsg	banka
+Slovenije	mte:Npfsg	Slovenija
+eden	mte:Mlpmsn	eden
+od	mte:Sg	od
+zavrnjenih	mte:Appmpg	zavrnjen
+kandidatov	mte:Ncmpg	kandidat
+banko	mte:Ncfsa	banka
+tudi	mte:Q	tudi
+tožil	mte:Vmpp-sm	tožiti
+,	mte:Z	,
+a	mte:Cc	a
+je	mte:Va-r3s-n	biti
+tožbo	mte:Ncfsa	tožba
+izgubil	mte:Vmep-sm	izgubiti
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+pisal	mte:Vmpp-sm	pisati
+Večer	mte:Ncmsnn	večer

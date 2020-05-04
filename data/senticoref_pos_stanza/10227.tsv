@@ -1,351 +1,367 @@
-token	tag
-Vlaki	Ncmpn
-.	Z
-V	Sl
-Ljubljani	Npfsl
-in	Cc
-okolici	Ncfsl
-je	Va-r3s-n
-predvidenih	Appmpg
-pet	Mlc-pa
-novih	Agpnpg
-železniških	Agpnpg
-postajališč	Ncnpg
-.	Z
-Načrti	Ncmpn
-.	Z
-Septembra	Ncmsg
-2014	Mdc
-se	Px------y
-bo	Va-f3s-n
-predvidoma	Rgp
-začela	Vmep-sf
-gradnja	Ncfsn
-novega	Agpnsg
-železniškega	Agpnsg
-postajališča	Ncnsg
-Vnanje	Ncnsn
-Gorice	Npfsg
-,	Z
-končala	Vmep-sf
-pa	Cc
-junija	Ncmsg
-2015	Mdc
-,	Z
-so	Va-r3p-n
-napovedali	Vmep-pm
-na	Sl
-ministrstvu	Ncnsl
-za	Sa
-infrastrukturo	Ncfsa
-in	Cc
-prostor	Ncmsan
-.	Z
-To	Pd-nsn
-bo	Va-f3s-n
-prva	Mlofsn
-širitev	Ncfsn
-mreže	Ncfsg
-postajališč	Ncnpg
-v	Sl
-ljubljanski	Agpfsl
-regiji	Ncfsl
-,	Z
-pozneje	Rgc
-so	Va-r3p-n
-predvidene	Appfpn
-še	Q
-postaje	Ncfpn
-Dolgi	Agpmsny
-most	Ncmsn
-,	Z
-Moste	Npmsn
-,	Z
-Rudnik	Npmsn
-in	Cc
-Preska	Npfsn
-.	Z
-Zdaj	Rgp
-13	Mdc
-postajališč	Ncnpg
-Železnica	Ncfsn
-.	Z
-V	Sl
-MOL	Npmsl
-je	Va-r3s-n
-13	Mdc
-železniških	Agpnpg
-postajališč	Ncnpg
-:	Z
-Ljubljana	Npfsn
-,	Z
-Zalog	Npfsn
-,	Z
-Polje	Ncnsn
-,	Z
-BTC	Npmsn
-,	Z
-Rakovnik	Npmsn
-,	Z
-Vodmat	Npfsn
-,	Z
-Tivoli	Npmsn
-,	Z
-Vižmarje	Npfpn
-,	Z
-Stegne	Npfsn
-,	Z
-Litostroj	Npmsn
-,	Z
-Črnuče	Npfsn
-,	Z
-Ježica	Npfsn
-in	Cc
-Brinje	Npfsn
-.	Z
-Investicijska	Agpfsn
-vrednost	Ncfsn
-postajališča	Ncnsg
-Vnanje	Ncnsg
-Gorice	Npfsg
-je	Va-r3s-n
-ocenjena	Appfsn
-na	Sa
-1,7	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-so	Va-r3p-n
-povedali	Vmep-pm
-na	Sl
-ministrstvu	Ncnsl
-.	Z
-V	Sa
-to	Pd-fsa
-ceno	Ncfsa
-so	Va-r3p-n
-všteti	Vmpn
-nova	Agpmdn
-dva	Mlcmdn
-perona	Ncmda
-,	Z
-nadkritje	Ncnsa
-peronov	Ncmpg
-,	Z
-parkirišče	Ncnsn
-za	Sa
-osebna	Agpnpa
-vozila	Ncnpa
-,	Z
-podhod	Ncmsan
-za	Sa
-pešce	Ncfpa
-in	Cc
-kolesarje	Ncmpa
-,	Z
-dostopne	Agpfpa
-poti	Ncfpa
-,	Z
-prilagojene	Appmpa
-ljudem	Ncmpd
-z	Si
-omejeno	Appfsi
-mobilnostjo	Ncfsi
-,	Z
-ter	Cc
-obnova	Ncfsn
-zgornjega	Agpmsg
-ustroja	Ncmsg
-proge	Ncfsg
-in	Cc
-elektronaprav	Ncmsg
-javne	Agpfsg
-železniške	Agpfsg
-infrastrukture	Ncfsg
-.	Z
-Ob	Sl
-tem	Pd-nsl
-bodo	Va-f3p-n
-prenovili	Vmep-pm
-Podpeško	Agpfsa
-cesto	Ncfsa
-in	Cc
-avtobusni	Agpnpa
-postajališči	Ncnpa
-na	Sl
-območju	Ncnsl
-nivojskega	Agpmsg
-prehoda	Ncmsg
-.	Z
-Večino	Ncfsa
-denarja	Ncmsg
-bodo	Va-f3p-n
-zagotovili	Vmep-pm
-iz	Sg
-državnih	Agpmpg
-proračunov	Ncmpg
-za	Sa
-leti	Ncnda
-2014	Mdc
-in	Cc
-2015	Mdc
-,	Z
-del	Ncmsan
-bo	Va-f3s-n
-prispevala	Vmbp-sf
-še	Q
-Občina	Ncfsn
-Brezovica	Npfsn
-.	Z
-Edina	Agpfsn
-ovira	Ncfsn
-je	Va-r3s-n
-denar	Ncmsn
-Prav	Q
-od	Sg
-denarja	Ncmsg
-je	Va-r3s-n
-po	Sl
-mnenju	Ncnsl
-Slovenskih	Agpfpg
-železnic	Ncfpg
-(	Z
-SŽ	Npmsn
-)	Z
-odvisna	Agpfsn
-nadaljnja	Agpfsn
-širitev	Ncfsn
-postajališč	Ncnpg
-,	Z
-zato	Cc
-si	Px---d--y
-želijo	Vmpr3p
-,	Z
-da	Cs
-bi	Va-c
-ga	Pp3msa--y
-država	Ncfsn
-in	Cc
-lokalne	Agpfpn
-skupnosti	Ncfpn
-čim	Rgp
-prej	Rgc
-zagotovile	Vmep-pf
-.	Z
-Mestna	Agpfsn
-občina	Ncfsn
-Ljubljana	Npfsn
-(	Z
-MOL	Npmsn
-)	Z
-in	Cc
-druge	Mlpfpn
-obljubljanske	Agpfpn
-občine	Ncfpn
-morajo	Vmpr3p
-po	Sl
-njihovem	Ps3nslp
-mnenju	Ncnsl
-sodelovati	Vmpn
-zato	Rgp
-,	Z
-ker	Cs
-“	Z
-gre	Vmbr3s
-za	Sa
-razvojni	Agpmsay
-projekt	Ncmsan
-,	Z
-ki	Cs
-bi	Va-c
-vplival	Vmpp-sm
-na	Sa
-vso	Pg-fsa
-ljubljansko	Agpfsa
-urbano	Agpfsa
-regijo	Ncfsa
-,	Z
-ne	Q
-le	Q
-na	Sa
-železniški	Agpmsay
-promet	Ncmsan
-”	Z
-.	Z
-Lokacije	Ncfsg
-novih	Agpnpg
-postajališč	Ncnpg
-so	Va-r3p-n
-sicer	Q
-določili	Vmep-pm
-v	Sl
-študiji	Ncfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-pripravil	Vmep-sm
-Prometni	Agpmsny
-institut	Ncmsn
-Ljubljana	Npfsn
-,	Z
-ta	Pd-msn
-je	Va-r3s-n
-med	Si
-drugim	Mlpmsi
-preveril	Vmep-sm
-migracijske	Agpmpa
-tokove	Ncmpa
-,	Z
-tehnične	Agpmpa
-pogoje	Ncmpa
-za	Sa
-ureditev	Ncfsa
-železniških	Agpnpg
-postajališč	Ncnpg
-,	Z
-primerne	Agpfpa
-točke	Ncfpa
-za	Sa
-P	Ncmsn
-+	Ncmsn
-R	Ncmsn
-(	Z
-parkiraj	Ncmsn
-in	Cc
-se	Px------y
-pelji	Vmpr3s
-)	Z
-in	Cc
-vpliv	Ncmsan
-novih	Agpnpg
-postajališč	Ncnpg
-na	Sa
-propustno	Agpfsa
-zmogljivost	Ncfsa
-prog	Ncfpg
-.	Z
-Na	Sa
-SŽ	Npmsa
-pa	Cc
-so	Va-r3p-n
-izdelali	Vmep-pm
-“	Z
-grobe	Agpfpa
-gradbene	Agpfpa
-zasnove	Ncfpa
-in	Cc
-ocene	Ncfpa
-stroškov	Ncmpg
-za	Sa
-nova	Agpnpa
-postajališča	Ncnpa
-”	Z
-,	Z
-kolikšni	Pq-mpn
-ti	Pd-mpn
-so	Va-r3p-n
-,	Z
-niso	Va-r3p-y
-razkrili	Vmep-pm
-.	Z
+token	tag	lemma
+Vlaki	mte:Ncmpn	vlak
+.	mte:Z	.
+V	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+in	mte:Cc	in
+okolici	mte:Ncfsl	okolica
+je	mte:Va-r3s-n	biti
+predvidenih	mte:Appmpg	predviden
+pet	mte:Mlc-pa	pet
+novih	mte:Agpnpg	nov
+železniških	mte:Agpnpg	železniški
+postajališč	mte:Ncnpg	postajališče
+.	mte:Z	.
+Načrti	mte:Ncmpn	načrt
+.	mte:Z	.
+Septembra	mte:Ncmsg	september
+2014	mte:Mdc	2014
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+predvidoma	mte:Rgp	predvidoma
+začela	mte:Vmep-sf	začeti
+gradnja	mte:Ncfsn	gradnja
+novega	mte:Agpnsg	nov
+železniškega	mte:Agpnsg	železniški
+postajališča	mte:Ncnsg	postajališče
+Vnanje	mte:Ncnsn	vnanje
+Gorice	mte:Npfsg	Gorica
+,	mte:Z	,
+končala	mte:Vmep-sf	končati
+pa	mte:Cc	pa
+junija	mte:Ncmsg	junij
+2015	mte:Mdc	2015
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+napovedali	mte:Vmep-pm	napovedati
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+za	mte:Sa	za
+infrastrukturo	mte:Ncfsa	infrastruktura
+in	mte:Cc	in
+prostor	mte:Ncmsan	prostor
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+prva	mte:Mlofsn	prvi
+širitev	mte:Ncfsn	širitev
+mreže	mte:Ncfsg	mreža
+postajališč	mte:Ncnpg	postajališče
+v	mte:Sl	v
+ljubljanski	mte:Agpfsl	ljubljanski
+regiji	mte:Ncfsl	regija
+,	mte:Z	,
+pozneje	mte:Rgc	pozno
+so	mte:Va-r3p-n	biti
+predvidene	mte:Appfpn	predviden
+še	mte:Q	še
+postaje	mte:Ncfpn	postaja
+Dolgi	mte:Agpmsny	dolg
+most	mte:Ncmsn	most
+,	mte:Z	,
+Moste	mte:Npmsn	Mosta
+,	mte:Z	,
+Rudnik	mte:Npmsn	Rudnik
+in	mte:Cc	in
+Preska	mte:Npfsn	Preska
+.	mte:Z	.
+Zdaj	mte:Rgp	zdaj
+13	mte:Mdc	13
+postajališč	mte:Ncnpg	postajališče
+Železnica	mte:Ncfsn	železnica
+.	mte:Z	.
+V	mte:Sl	v
+MOL	mte:Npmsl	MOL
+je	mte:Va-r3s-n	biti
+13	mte:Mdc	13
+železniških	mte:Agpnpg	železniški
+postajališč	mte:Ncnpg	postajališče
+:	mte:Z	:
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+Zalog	mte:Npfsn	Zalog
+,	mte:Z	,
+Polje	mte:Ncnsn	polje
+,	mte:Z	,
+BTC	mte:Npmsn	BTC
+,	mte:Z	,
+Rakovnik	mte:Npmsn	Rakovnik
+,	mte:Z	,
+Vodmat	mte:Npfsn	Vodmat
+,	mte:Z	,
+Tivoli	mte:Npmsn	Tivoli
+,	mte:Z	,
+Vižmarje	mte:Npfpn	Vižmarje
+,	mte:Z	,
+Stegne	mte:Npfsn	Stegna
+,	mte:Z	,
+Litostroj	mte:Npmsn	Litostroj
+,	mte:Z	,
+Črnuče	mte:Npfsn	Črnuče
+,	mte:Z	,
+Ježica	mte:Npfsn	Ježica
+in	mte:Cc	in
+Brinje	mte:Npfsn	Brinje
+.	mte:Z	.
+Investicijska	mte:Agpfsn	investicijski
+vrednost	mte:Ncfsn	vrednost
+postajališča	mte:Ncnsg	postajališče
+Vnanje	mte:Ncnsg	vnanje
+Gorice	mte:Npfsg	Gorica
+je	mte:Va-r3s-n	biti
+ocenjena	mte:Appfsn	ocenjen
+na	mte:Sa	na
+1,7	mte:Mdc	1,7
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+povedali	mte:Vmep-pm	povedati
+na	mte:Sl	na
+ministrstvu	mte:Ncnsl	ministrstvo
+.	mte:Z	.
+V	mte:Sa	v
+to	mte:Pd-fsa	ta
+ceno	mte:Ncfsa	cena
+so	mte:Va-r3p-n	biti
+všteti	mte:Vmpn	všteti
+nova	mte:Agpmdn	nov
+dva	mte:Mlcmdn	dva
+perona	mte:Ncmda	peron
+,	mte:Z	,
+nadkritje	mte:Ncnsa	nadkritje
+peronov	mte:Ncmpg	peron
+,	mte:Z	,
+parkirišče	mte:Ncnsn	parkirišče
+za	mte:Sa	za
+osebna	mte:Agpnpa	oseben
+vozila	mte:Ncnpa	vozilo
+,	mte:Z	,
+podhod	mte:Ncmsan	podhod
+za	mte:Sa	za
+pešce	mte:Ncfpa	pešec
+in	mte:Cc	in
+kolesarje	mte:Ncmpa	kolesar
+,	mte:Z	,
+dostopne	mte:Agpfpa	dostopen
+poti	mte:Ncfpa	pot
+,	mte:Z	,
+prilagojene	mte:Appmpa	prilagojen
+ljudem	mte:Ncmpd	človek
+z	mte:Si	z
+omejeno	mte:Appfsi	omejen
+mobilnostjo	mte:Ncfsi	mobilnost
+,	mte:Z	,
+ter	mte:Cc	ter
+obnova	mte:Ncfsn	obnova
+zgornjega	mte:Agpmsg	zgornji
+ustroja	mte:Ncmsg	ustroj
+proge	mte:Ncfsg	proga
+in	mte:Cc	in
+elektronaprav	mte:Ncmsg	elektronaprav
+javne	mte:Agpfsg	javen
+železniške	mte:Agpfsg	železniški
+infrastrukture	mte:Ncfsg	infrastruktura
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+bodo	mte:Va-f3p-n	biti
+prenovili	mte:Vmep-pm	prenoviti
+Podpeško	mte:Agpfsa	podpeški
+cesto	mte:Ncfsa	cesta
+in	mte:Cc	in
+avtobusni	mte:Agpnpa	avtobusen
+postajališči	mte:Ncnpa	postajališče
+na	mte:Sl	na
+območju	mte:Ncnsl	območje
+nivojskega	mte:Agpmsg	nivojski
+prehoda	mte:Ncmsg	prehod
+.	mte:Z	.
+Večino	mte:Ncfsa	večina
+denarja	mte:Ncmsg	denar
+bodo	mte:Va-f3p-n	biti
+zagotovili	mte:Vmep-pm	zagotoviti
+iz	mte:Sg	iz
+državnih	mte:Agpmpg	državen
+proračunov	mte:Ncmpg	proračun
+za	mte:Sa	za
+leti	mte:Ncnda	leto
+2014	mte:Mdc	2014
+in	mte:Cc	in
+2015	mte:Mdc	2015
+,	mte:Z	,
+del	mte:Ncmsan	del
+bo	mte:Va-f3s-n	biti
+prispevala	mte:Vmbp-sf	prispevati
+še	mte:Q	še
+Občina	mte:Ncfsn	občina
+Brezovica	mte:Npfsn	Brezovica
+.	mte:Z	.
+Edina	mte:Agpfsn	edin
+ovira	mte:Ncfsn	ovira
+je	mte:Va-r3s-n	biti
+denar	mte:Ncmsn	denar
+Prav	mte:Q	prav
+od	mte:Sg	od
+denarja	mte:Ncmsg	denar
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+(	mte:Z	(
+SŽ	mte:Npmsn	SŽ
+)	mte:Z	)
+odvisna	mte:Agpfsn	odvisen
+nadaljnja	mte:Agpfsn	nadaljnji
+širitev	mte:Ncfsn	širitev
+postajališč	mte:Ncnpg	postajališče
+,	mte:Z	,
+zato	mte:Cc	zato
+si	mte:Px---d--y	se
+želijo	mte:Vmpr3p	želeti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+država	mte:Ncfsn	država
+in	mte:Cc	in
+lokalne	mte:Agpfpn	lokalen
+skupnosti	mte:Ncfpn	skupnost
+čim	mte:Rgp	čim
+prej	mte:Rgc	prej
+zagotovile	mte:Vmep-pf	zagotoviti
+.	mte:Z	.
+Mestna	mte:Agpfsn	mesten
+občina	mte:Ncfsn	občina
+Ljubljana	mte:Npfsn	Ljubljana
+(	mte:Z	(
+MOL	mte:Npmsn	MOL
+)	mte:Z	)
+in	mte:Cc	in
+druge	mte:Mlpfpn	drug
+obljubljanske	mte:Agpfpn	obljubljanski
+občine	mte:Ncfpn	občina
+morajo	mte:Vmpr3p	morati
+po	mte:Sl	po
+njihovem	mte:Ps3nslp	njihov
+mnenju	mte:Ncnsl	mnenje
+sodelovati	mte:Vmpn	sodelovati
+zato	mte:Rgp	zato
+,	mte:Z	,
+ker	mte:Cs	ker
+“	mte:Z	“
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+razvojni	mte:Agpmsay	razvojen
+projekt	mte:Ncmsan	projekt
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+vplival	mte:Vmpp-sm	vplivati
+na	mte:Sa	na
+vso	mte:Pg-fsa	ves
+ljubljansko	mte:Agpfsa	ljubljanski
+urbano	mte:Agpfsa	urban
+regijo	mte:Ncfsa	regija
+,	mte:Z	,
+ne	mte:Q	ne
+le	mte:Q	le
+na	mte:Sa	na
+železniški	mte:Agpmsay	železniški
+promet	mte:Ncmsan	promet
+”	mte:Z	”
+.	mte:Z	.
+Lokacije	mte:Ncfsg	lokacija
+novih	mte:Agpnpg	nov
+postajališč	mte:Ncnpg	postajališče
+so	mte:Va-r3p-n	biti
+sicer	mte:Q	sicer
+določili	mte:Vmep-pm	določiti
+v	mte:Sl	v
+študiji	mte:Ncfsl	študija
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+pripravil	mte:Vmep-sm	pripraviti
+Prometni	mte:Agpmsny	prometen
+institut	mte:Ncmsn	institut
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+ta	mte:Pd-msn	ta
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+preveril	mte:Vmep-sm	preveriti
+migracijske	mte:Agpmpa	migracijski
+tokove	mte:Ncmpa	tok
+,	mte:Z	,
+tehnične	mte:Agpmpa	tehničen
+pogoje	mte:Ncmpa	pogoj
+za	mte:Sa	za
+ureditev	mte:Ncfsa	ureditev
+železniških	mte:Agpnpg	železniški
+postajališč	mte:Ncnpg	postajališče
+,	mte:Z	,
+primerne	mte:Agpfpa	primeren
+točke	mte:Ncfpa	točka
+za	mte:Sa	za
+P	mte:Ncmsn	P
++	mte:Ncmsn	+
+R	mte:Ncmsn	R
+(	mte:Z	(
+parkiraj	mte:Ncmsn	parkiraj
+in	mte:Cc	in
+se	mte:Px------y	se
+pelji	mte:Vmpr3s	peljati
+)	mte:Z	)
+in	mte:Cc	in
+vpliv	mte:Ncmsan	vpliv
+novih	mte:Agpnpg	nov
+postajališč	mte:Ncnpg	postajališče
+na	mte:Sa	na
+propustno	mte:Agpfsa	propusten
+zmogljivost	mte:Ncfsa	zmogljivost
+prog	mte:Ncfpg	proga
+.	mte:Z	.
+Na	mte:Sa	na
+SŽ	mte:Npmsa	SŽ
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+izdelali	mte:Vmep-pm	izdelati
+“	mte:Z	“
+grobe	mte:Agpfpa	grob
+gradbene	mte:Agpfpa	gradben
+zasnove	mte:Ncfpa	zasnova
+in	mte:Cc	in
+ocene	mte:Ncfpa	ocena
+stroškov	mte:Ncmpg	strošek
+za	mte:Sa	za
+nova	mte:Agpnpa	nov
+postajališča	mte:Ncnpa	postajališče
+”	mte:Z	”
+,	mte:Z	,
+kolikšni	mte:Pq-mpn	kolikšen
+ti	mte:Pd-mpn	ta
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+niso	mte:Va-r3p-y	biti
+razkrili	mte:Vmep-pm	razkriti
+.	mte:Z	.
+Prepričani	mte:Appmpn	prepričan
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+nova	mte:Agpnpn	nov
+postajališča	mte:Ncnpn	postajališče
+“	mte:Z	“
+celovito	mte:Rgp	celovit
+izboljšala	mte:Vmep-pn	izboljšati
+stanje	mte:Ncnsa	stanje
+javnega	mte:Agpmsg	javen
+potniškega	mte:Agpmsg	potniški
+prometa	mte:Ncmsg	promet
+”	mte:Z	”

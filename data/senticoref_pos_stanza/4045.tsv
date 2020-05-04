@@ -1,405 +1,425 @@
-token	tag
-Zagreb	Npmsn
--	Z
-Na	Sl
-Zagrebškem	Agpnsl
-občinskem	Agpnsl
-sodišču	Ncnsl
-so	Va-r3p-n
-danes	Rgp
-znova	Rgp
-preložili	Vmep-pm
-obravnavo	Ncfsa
-v	Sl
-eni	Mlpfsl
-od	Sg
-tožb	Ncfpg
-Privredne	Agpfsg
-banke	Ncfsg
-Zagreb	Npmsn
-(	Z
-PBZ	Npmsn
-)	Z
-proti	Sd
-Ljubljanski	Agpfsd
-banki	Ncfsd
-(	Z
-LB	Npmsn
-)	Z
-in	Cc
-NLB	Npmsn
-.	Z
-Odvetnik	Ncmsn
-LB	Npmsn
-Matija	Npmsn
-Pečatnik	Npmsn
-je	Va-r3s-n
-zahteval	Vmbp-sm
-prekinitev	Ncfsa
-postopka	Ncmsg
-,	Z
-odvetnica	Ncfsn
-PBZ	Npfsn
-Maja	Npfsg
-Špoljarić	Npmsn
-pa	Cc
-je	Va-r3s-n
-nato	Rgp
-prosila	Vmpp-sf
-za	Sa
-30	Mdc
-dni	Ncmpg
-časa	Ncmsg
-,	Z
-da	Cs
-bi	Va-c
-pripravila	Vmep-sf
-odgovor	Ncmsan
-na	Sa
-predlog	Ncmsan
-obrambe	Ncfsg
-.	Z
-Pečatnik	Ncmsn
-je	Va-r3s-n
-pojasnil	Vmep-sm
-,	Z
-da	Cs
-zahteva	Vmbr3s
-prekinitev	Ncfsa
-postopka	Ncmsg
-za	Sa
-nedoločen	Agpmsan
-čas	Ncmsan
-na	Sl
-vseh	Pg-fpl
-pravosodnih	Agpfpl
-instancah	Ncfpl
-,	Z
-ker	Cs
-je	Va-r3s-n
-potrebno	Agpnsn
-rešiti	Vmen
-neko	Pi-nsa
-drugo	Mlpnsa
-predhodno	Agpnsa
-stanje	Ncnsa
-,	Z
-ki	Cs
-izvira	Vmpr3s
-iz	Sg
-memoranduma	Ncmsg
-o	Sl
-reševanju	Ncnsl
-vprašanj	Ncnpg
-LB	Npfsn
-.	Z
-Opozoril	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-gre	Vmbr3s
-za	Sa
-mednarodno	Agpfsa
-pogodbo	Ncfsa
-,	Z
-ki	Cs
-sta	Va-r3d-n
-jo	Pp3fsa--y
-vladi	Ncfsd
-Hrvaške	Npfsg
-in	Cc
-Slovenije	Npfsg
-podpisali	Vmep-dm
-11	Mdc
-.	Z
-marca	Ncmsg
-v	Sl
-Mokricah	Npfpl
-.	Z
-Sodnik	Ncmsn
-Nikola	Npmsn
-Raguz	Npmsn
-je	Va-r3s-n
-zahteval	Vmbp-sm
-uradni	Agpmsay
-prevod	Ncmsan
-memoranduma	Ncmsg
-v	Sa
-hrvaški	Agpmsay
-jezik	Ncmsan
-,	Z
-čeprav	Cs
-mu	Pp3msd--y
-je	Va-r3s-n
-slovenska	Agpfsn
-stran	Ncfsn
-predložila	Vmep-sf
-hrvaški	Agpmsay
-tekst	Ncmsan
-dokumenta	Ncmsg
-.	Z
-V	Sl
-njem	Pp3msl
-se	Px------y
-je	Va-r3s-n
-Hrvaška	Npfsn
-zavezala	Vmpp-sf
-,	Z
-da	Cs
-bo	Va-f3s-n
-ustavila	Vmep-sf
-vse	Pg-mpa
-postopke	Ncmpa
-proti	Sd
-slovenskim	Agpfpd
-bankam	Ncfpd
-,	Z
-dokler	Cs
-ne	Q
-bo	Va-f3s-n
-dosežena	Appfsn
-celovita	Agpfsn
-rešitev	Ncfsn
-spora	Ncmsg
-o	Sl
-LB	Npfsl
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-bosta	Va-f3d-n
-državi	Ncfdn
-iskali	Vmpp-dm
-v	Sl
-okviru	Ncmsl
-nasledstva	Ncnsg
-.	Z
-Kljub	Sd
-temu	Pd-nsd
-pa	Cc
-se	Px------y
-obravnave	Ncfpn
-nadaljujejo	Vmpr3p
-tudi	Q
-po	Sl
-11	Mdc
-.	Z
-marcu	Ncmsl
-.	Z
-Hrvaška	Agpfsn
-vlada	Ncfsn
-je	Va-r3s-n
-pojasnila	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-opravila	Vmep-sf
-svoj	Px-msa
-del	Ncmsan
-posla	Ncmsg
-iz	Sg
-memoranduma	Ncmsg
-,	Z
-potem	Rgp
-ko	Cs
-je	Va-r3s-n
-dala	Vmep-sf
-navodila	Ncnpa
-bankam	Ncfpd
-,	Z
-te	Pd-fpn
-pa	Cc
-naprej	Rgp
-svojim	Px-mpd
-odvetnikom	Ncmpd
-,	Z
-naj	Cs
-ustavijo	Vmer3p
-postopke	Ncmpa
-,	Z
-povezane	Appfpa
-z	Si
-LB	Npfsi
-.	Z
-O	Sl
-vsem	Pg-msl
-so	Va-r3p-n
-obvestili	Vmep-pm
-tudi	Q
-pristojno	Agpnsa
-sodišče	Ncnsa
-.	Z
-Odvetnica	Ncfsn
-PBZ	Npfsn
-je	Va-r3s-n
-na	Sl
-obravnavi	Ncfsl
-v	Sl
-drugem	Mlpmsl
-primeru	Ncmsl
-PBZ	Ncfsg
-proti	Sd
-slovenskim	Agpfpd
-bankam	Ncfpd
-v	Sl
-začetku	Ncmsl
-aprila	Ncmsg
-sicer	Q
-zahtevala	Vmbp-sf
-mirovanje	Ncnsa
-postopka	Ncmsg
-za	Sa
-leto	Ncnsa
-dni	Ncmpg
-zaradi	Sg
-poskusa	Ncmsg
-mirne	Agpfsg
-rešitve	Ncfsg
-spora	Ncmsg
-na	Sl
-podlagi	Ncfsl
-hrvaškega	Agpmsg
-zakona	Ncmsg
-o	Sl
-pravdnem	Agpmsl
-postopku	Ncmsl
-.	Z
-Sicer	Q
-je	Va-r3s-n
-bila	Va-p-sf
-današnja	Agpfsn
-obravnava	Ncfsn
-že	Q
-večkrat	Rgc
-preložena	Appfsn
-,	Z
-nazadnje	Rgp
-11	Mdc
-.	Z
-februarja	Ncmsg
-letos	Rgp
-.	Z
-Gre	Vmbr3s
-za	Sa
-eno	Mlpfsa
-od	Sg
-več	Rgc
-kot	Cs
-20	Mdc
-tožb	Ncfpg
-PBZ	Ncfsg
-in	Cc
-Zagrebške	Agpfsg
-banke	Ncfsg
-proti	Sd
-LB	Npmsd
-in	Cc
-NLB	Npfsd
-,	Z
-ki	Cs
-potekajo	Vmpr3p
-na	Sl
-podlagi	Ncfsl
-pooblastil	Ncnpg
-hrvaškega	Agpnsg
-finančnega	Agpnsg
-ministrstva	Ncnsg
-.	Z
-Hrvaška	Agpfsn
-vlada	Ncfsn
-na	Sl
-sodiščih	Ncnpl
-od	Sg
-Slovenije	Npfsg
-terja	Vmpr3s
-vrnitev	Ncfsa
-deviznih	Agpfpg
-vlog	Ncfpg
-varčevalcev	Ncmpg
-nekdanje	Agpfsg
-Zagrebške	Agpfsg
-podružnice	Ncfsg
-LB	Npfsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-Hrvaška	Npfsn
-v	Sl
-začetku	Ncmsl
-90	Mdc
-.	Z
-let	Ncnpg
-prenesla	Vmep-sf
-v	Sa
-javni	Agpmsay
-dolg	Agpmsan
-in	Cc
-nato	Rgp
-izplačala	Vmbp-sf
-delu	Ncmsd
-varčevalcev	Ncmpg
-.	Z
-Današnja	Agpfsn
-obravnava	Ncfsn
-je	Va-r3s-n
-potekala	Vmpp-sf
-prav	Q
-na	Sa
-dan	Ncmsan
-,	Z
-ko	Cs
-je	Va-r3s-n
-na	Sa
-Hrvaško	Npfsa
-na	Sa
-dvodnevni	Agpmsay
-uradni	Agpmsay
-obisk	Ncmsan
-prispel	Vmep-sm
-slovenski	Agpmsny
-predsednik	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-.	Z
-Pusićeva	Aspfsn
-in	Cc
-njen	Ps3msnsf
-slovenski	Agpmsny
-kolega	Ncmsn
-Karl	Npmsn
-Erjavec	Npmsn
-sta	Va-r3d-n
-se	Px------y
-sicer	Q
-v	Sl
-Luksemburgu	Npmsl
-prejšnji	Agpmsay
-mesec	Ncmsan
-dogovorila	Vmep-dm
-,	Z
-da	Cs
-bosta	Va-f3d-n
-skupaj	Rgp
-poslala	Vmep-dm
-pismo	Ncnsa
-Banki	Ncfsd
-za	Sa
-mednarodne	Agpfpa
-poravnave	Ncfpa
-v	Sl
-Baslu	Npmsl
-in	Cc
-ostalim	Appfpd
-državam	Ncfpd
-naslednicam	Ncfpd
-nekdanje	Agpfsg
-SFRJ	Npfsg
-,	Z
-da	Cs
-se	Px------y
-začne	Vmer3s
-postopek	Ncmsn
-v	Sl
-okviru	Ncmsl
-nasledstva	Ncnsg
-.	Z
+token	tag	lemma
+Zagreb	mte:Npmsn	Zagreb
+-	mte:Z	-
+Na	mte:Sl	na
+Zagrebškem	mte:Agpnsl	zagrebški
+občinskem	mte:Agpnsl	občinski
+sodišču	mte:Ncnsl	sodišče
+so	mte:Va-r3p-n	biti
+danes	mte:Rgp	danes
+znova	mte:Rgp	znova
+preložili	mte:Vmep-pm	preložiti
+obravnavo	mte:Ncfsa	obravnava
+v	mte:Sl	v
+eni	mte:Mlpfsl	en
+od	mte:Sg	od
+tožb	mte:Ncfpg	tožba
+Privredne	mte:Agpfsg	privreden
+banke	mte:Ncfsg	banka
+Zagreb	mte:Npmsn	Zagreb
+(	mte:Z	(
+PBZ	mte:Npmsn	PBZ
+)	mte:Z	)
+proti	mte:Sd	proti
+Ljubljanski	mte:Agpfsd	ljubljanski
+banki	mte:Ncfsd	banka
+(	mte:Z	(
+LB	mte:Npmsn	LB
+)	mte:Z	)
+in	mte:Cc	in
+NLB	mte:Npmsn	NLB
+.	mte:Z	.
+Odvetnik	mte:Ncmsn	odvetnik
+LB	mte:Npmsn	LB
+Matija	mte:Npmsn	Matija
+Pečatnik	mte:Npmsn	Pečatnik
+je	mte:Va-r3s-n	biti
+zahteval	mte:Vmbp-sm	zahtevati
+prekinitev	mte:Ncfsa	prekinitev
+postopka	mte:Ncmsg	postopek
+,	mte:Z	,
+odvetnica	mte:Ncfsn	odvetnica
+PBZ	mte:Npfsn	PBZ
+Maja	mte:Npfsg	Maja
+Špoljarić	mte:Npmsn	Špoljarić
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+nato	mte:Rgp	nato
+prosila	mte:Vmpp-sf	prositi
+za	mte:Sa	za
+30	mte:Mdc	30
+dni	mte:Ncmpg	dan
+časa	mte:Ncmsg	čas
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+pripravila	mte:Vmep-sf	pripraviti
+odgovor	mte:Ncmsan	odgovor
+na	mte:Sa	na
+predlog	mte:Ncmsan	predlog
+obrambe	mte:Ncfsg	obramba
+.	mte:Z	.
+Pečatnik	mte:Ncmsn	pečatnik
+je	mte:Va-r3s-n	biti
+pojasnil	mte:Vmep-sm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+zahteva	mte:Vmbr3s	zahtevati
+prekinitev	mte:Ncfsa	prekinitev
+postopka	mte:Ncmsg	postopek
+za	mte:Sa	za
+nedoločen	mte:Agpmsan	nedoločen
+čas	mte:Ncmsan	čas
+na	mte:Sl	na
+vseh	mte:Pg-fpl	ves
+pravosodnih	mte:Agpfpl	pravosoden
+instancah	mte:Ncfpl	instance
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+potrebno	mte:Agpnsn	potreben
+rešiti	mte:Vmen	rešiti
+neko	mte:Pi-nsa	nek
+drugo	mte:Mlpnsa	drug
+predhodno	mte:Agpnsa	predhodno
+stanje	mte:Ncnsa	stanje
+,	mte:Z	,
+ki	mte:Cs	ki
+izvira	mte:Vmpr3s	izvirati
+iz	mte:Sg	iz
+memoranduma	mte:Ncmsg	memorandum
+o	mte:Sl	o
+reševanju	mte:Ncnsl	reševanje
+vprašanj	mte:Ncnpg	vprašanje
+LB	mte:Npfsn	LB
+.	mte:Z	.
+Opozoril	mte:Vmep-sm	opozoriti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+mednarodno	mte:Agpfsa	mednaroden
+pogodbo	mte:Ncfsa	pogodba
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+jo	mte:Pp3fsa--y	on
+vladi	mte:Ncfsd	vlada
+Hrvaške	mte:Npfsg	Hrvaška
+in	mte:Cc	in
+Slovenije	mte:Npfsg	Slovenija
+podpisali	mte:Vmep-dm	podpisati
+11	mte:Mdc	11
+.	mte:Z	.
+marca	mte:Ncmsg	marec
+v	mte:Sl	v
+Mokricah	mte:Npfpl	Mokrice
+.	mte:Z	.
+Sodnik	mte:Ncmsn	sodnik
+Nikola	mte:Npmsn	Nikola
+Raguz	mte:Npmsn	Raguz
+je	mte:Va-r3s-n	biti
+zahteval	mte:Vmbp-sm	zahtevati
+uradni	mte:Agpmsay	uraden
+prevod	mte:Ncmsan	prevod
+memoranduma	mte:Ncmsg	memorandum
+v	mte:Sa	v
+hrvaški	mte:Agpmsay	hrvaški
+jezik	mte:Ncmsan	jezik
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+mu	mte:Pp3msd--y	on
+je	mte:Va-r3s-n	biti
+slovenska	mte:Agpfsn	slovenski
+stran	mte:Ncfsn	stran
+predložila	mte:Vmep-sf	predložiti
+hrvaški	mte:Agpmsay	hrvaški
+tekst	mte:Ncmsan	tekst
+dokumenta	mte:Ncmsg	dokument
+.	mte:Z	.
+V	mte:Sl	v
+njem	mte:Pp3msl	on
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+Hrvaška	mte:Npfsn	hrvaški
+zavezala	mte:Vmpp-sf	zavezati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+ustavila	mte:Vmep-sf	ustaviti
+vse	mte:Pg-mpa	ves
+postopke	mte:Ncmpa	postopek
+proti	mte:Sd	proti
+slovenskim	mte:Agpfpd	slovenski
+bankam	mte:Ncfpd	banka
+,	mte:Z	,
+dokler	mte:Cs	dokler
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+dosežena	mte:Appfsn	dosežen
+celovita	mte:Agpfsn	celovit
+rešitev	mte:Ncfsn	rešitev
+spora	mte:Ncmsg	spor
+o	mte:Sl	o
+LB	mte:Npfsl	LB
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+bosta	mte:Va-f3d-n	biti
+državi	mte:Ncfdn	država
+iskali	mte:Vmpp-dm	iskati
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+nasledstva	mte:Ncnsg	nasledstvo
+.	mte:Z	.
+Kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+pa	mte:Cc	pa
+se	mte:Px------y	se
+obravnave	mte:Ncfpn	obravnava
+nadaljujejo	mte:Vmpr3p	nadaljevati
+tudi	mte:Q	tudi
+po	mte:Sl	po
+11	mte:Mdc	11
+.	mte:Z	.
+marcu	mte:Ncmsl	marec
+.	mte:Z	.
+Hrvaška	mte:Agpfsn	hrvaški
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+pojasnila	mte:Vmep-sf	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+opravila	mte:Vmep-sf	opravilo
+svoj	mte:Px-msa	svoj
+del	mte:Ncmsan	del
+posla	mte:Ncmsg	posel
+iz	mte:Sg	iz
+memoranduma	mte:Ncmsg	memorandum
+,	mte:Z	,
+potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+dala	mte:Vmep-sf	dati
+navodila	mte:Ncnpa	navodilo
+bankam	mte:Ncfpd	banka
+,	mte:Z	,
+te	mte:Pd-fpn	ta
+pa	mte:Cc	pa
+naprej	mte:Rgp	naprej
+svojim	mte:Px-mpd	svoj
+odvetnikom	mte:Ncmpd	odvetnik
+,	mte:Z	,
+naj	mte:Cs	naj
+ustavijo	mte:Vmer3p	ustaviti
+postopke	mte:Ncmpa	postopek
+,	mte:Z	,
+povezane	mte:Appfpa	povezan
+z	mte:Si	z
+LB	mte:Npfsi	LB
+.	mte:Z	.
+O	mte:Sl	o
+vsem	mte:Pg-msl	ves
+so	mte:Va-r3p-n	biti
+obvestili	mte:Vmep-pm	obvestiti
+tudi	mte:Q	tudi
+pristojno	mte:Agpnsa	pristojen
+sodišče	mte:Ncnsa	sodišče
+.	mte:Z	.
+Odvetnica	mte:Ncfsn	odvetnica
+PBZ	mte:Npfsn	PBZ
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+obravnavi	mte:Ncfsl	obravnava
+v	mte:Sl	v
+drugem	mte:Mlpmsl	drug
+primeru	mte:Ncmsl	primer
+PBZ	mte:Ncfsg	PBZ
+proti	mte:Sd	proti
+slovenskim	mte:Agpfpd	slovenski
+bankam	mte:Ncfpd	banka
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+aprila	mte:Ncmsg	april
+sicer	mte:Q	sicer
+zahtevala	mte:Vmbp-sf	zahtevati
+mirovanje	mte:Ncnsa	mirovanje
+postopka	mte:Ncmsg	postopek
+za	mte:Sa	za
+leto	mte:Ncnsa	leto
+dni	mte:Ncmpg	dan
+zaradi	mte:Sg	zaradi
+poskusa	mte:Ncmsg	poskus
+mirne	mte:Agpfsg	miren
+rešitve	mte:Ncfsg	rešitev
+spora	mte:Ncmsg	spor
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+hrvaškega	mte:Agpmsg	hrvaški
+zakona	mte:Ncmsg	zakon
+o	mte:Sl	o
+pravdnem	mte:Agpmsl	pravden
+postopku	mte:Ncmsl	postopek
+.	mte:Z	.
+Sicer	mte:Q	sicer
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+današnja	mte:Agpfsn	današnji
+obravnava	mte:Ncfsn	obravnava
+že	mte:Q	že
+večkrat	mte:Rgc	večkrat
+preložena	mte:Appfsn	preložen
+,	mte:Z	,
+nazadnje	mte:Rgp	nazadnje
+11	mte:Mdc	11
+.	mte:Z	.
+februarja	mte:Ncmsg	februar
+letos	mte:Rgp	letos
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+eno	mte:Mlpfsa	en
+od	mte:Sg	od
+več	mte:Rgc	več
+kot	mte:Cs	kot
+20	mte:Mdc	20
+tožb	mte:Ncfpg	tožba
+PBZ	mte:Ncfsg	PBZ
+in	mte:Cc	in
+Zagrebške	mte:Agpfsg	zagrebški
+banke	mte:Ncfsg	banka
+proti	mte:Sd	proti
+LB	mte:Npmsd	LB
+in	mte:Cc	in
+NLB	mte:Npfsd	NLB
+,	mte:Z	,
+ki	mte:Cs	ki
+potekajo	mte:Vmpr3p	potekati
+na	mte:Sl	na
+podlagi	mte:Ncfsl	podlaga
+pooblastil	mte:Ncnpg	pooblastilo
+hrvaškega	mte:Agpnsg	hrvaški
+finančnega	mte:Agpnsg	finančen
+ministrstva	mte:Ncnsg	ministrstvo
+.	mte:Z	.
+Hrvaška	mte:Agpfsn	hrvaški
+vlada	mte:Ncfsn	vlada
+na	mte:Sl	na
+sodiščih	mte:Ncnpl	sodišče
+od	mte:Sg	od
+Slovenije	mte:Npfsg	Slovenija
+terja	mte:Vmpr3s	terjati
+vrnitev	mte:Ncfsa	vrnitev
+deviznih	mte:Agpfpg	devizen
+vlog	mte:Ncfpg	vloga
+varčevalcev	mte:Ncmpg	varčevalec
+nekdanje	mte:Agpfsg	nekdanji
+Zagrebške	mte:Agpfsg	zagrebški
+podružnice	mte:Ncfsg	podružnica
+LB	mte:Npfsg	LB
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+Hrvaška	mte:Npfsn	hrvaški
+v	mte:Sl	v
+začetku	mte:Ncmsl	začetek
+90	mte:Mdc	90
+.	mte:Z	.
+let	mte:Ncnpg	leto
+prenesla	mte:Vmep-sf	prenesti
+v	mte:Sa	v
+javni	mte:Agpmsay	javen
+dolg	mte:Agpmsan	dolg
+in	mte:Cc	in
+nato	mte:Rgp	nato
+izplačala	mte:Vmbp-sf	izplačati
+delu	mte:Ncmsd	del
+varčevalcev	mte:Ncmpg	varčevalec
+.	mte:Z	.
+Današnja	mte:Agpfsn	današnji
+obravnava	mte:Ncfsn	obravnava
+je	mte:Va-r3s-n	biti
+potekala	mte:Vmpp-sf	potekati
+prav	mte:Q	prav
+na	mte:Sa	na
+dan	mte:Ncmsan	dan
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+Hrvaško	mte:Npfsa	Hrvaška
+na	mte:Sa	na
+dvodnevni	mte:Agpmsay	dvodneven
+uradni	mte:Agpmsay	uraden
+obisk	mte:Ncmsan	obisk
+prispel	mte:Vmep-sm	prispeti
+slovenski	mte:Agpmsny	slovenski
+predsednik	mte:Ncmsn	predsednik
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+.	mte:Z	.
+Pusićeva	mte:Aspfsn	Pusićev
+in	mte:Cc	in
+njen	mte:Ps3msnsf	njen
+slovenski	mte:Agpmsny	slovenski
+kolega	mte:Ncmsn	kolega
+Karl	mte:Npmsn	Karl
+Erjavec	mte:Npmsn	Erjavec
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+sicer	mte:Q	sicer
+v	mte:Sl	v
+Luksemburgu	mte:Npmsl	Luksemburg
+prejšnji	mte:Agpmsay	prejšnji
+mesec	mte:Ncmsan	mesec
+dogovorila	mte:Vmep-dm	dogovoriti
+,	mte:Z	,
+da	mte:Cs	da
+bosta	mte:Va-f3d-n	biti
+skupaj	mte:Rgp	skupaj
+poslala	mte:Vmep-dm	poslati
+pismo	mte:Ncnsa	pismo
+Banki	mte:Ncfsd	banka
+za	mte:Sa	za
+mednarodne	mte:Agpfpa	mednaroden
+poravnave	mte:Ncfpa	poravnava
+v	mte:Sl	v
+Baslu	mte:Npmsl	Baslo
+in	mte:Cc	in
+ostalim	mte:Appfpd	ostal
+državam	mte:Ncfpd	država
+naslednicam	mte:Ncfpd	naslednica
+nekdanje	mte:Agpfsg	nekdanji
+SFRJ	mte:Npfsg	SFRJ
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+začne	mte:Vmer3s	začeti
+postopek	mte:Ncmsn	postopek
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+nasledstva	mte:Ncnsg	nasledstvo
+.	mte:Z	.
+STA	mte:Va-r3d-n	biti
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+Zagrebškem	mte:Agpnsl	zagrebški
+sodišču	mte:Ncnsl	sodišče
+neuradno	mte:Rgp	neuradno
+izvedela	mte:Vmep-dm	izvedeti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+sodniki	mte:Ncmpn	sodnik
+v	mte:Sl	v
+vsakem	mte:Pg-msl	vsak
+primeru	mte:Ncmsl	primer
+posebej	mte:Rgp	posebej
+odločati	mte:Vmpn	odločati
+o	mte:Sl	o
+ustavitvi	mte:Ncfsl	ustavitev
+postopka	mte:Ncmsg	postopek

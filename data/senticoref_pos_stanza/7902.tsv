@@ -1,654 +1,681 @@
-token	tag
-SBI	Ncmsn
-TOP	Ncmsn
-drugi	Mlpmsny
-dan	Ncmsn
-zapored	Rgp
-občutno	Rgp
-navzgor	Rgp
-Donos	Ncmsn
-španske	Agpfsg
-desetletne	Agpfsg
-obveznice	Ncfsg
-je	Va-r3s-n
-zaradi	Sg
-odločitve	Ncfsg
-agencije	Ncfsg
-Moodys	Npfsg
-,	Z
-da	Cs
-Španiji	Npfsd
-ne	Q
-bo	Va-f3s-n
-znižala	Vmep-sf
-bonitetne	Agpfsg
-ocene	Ncfsg
-,	Z
-zdrsnil	Vmep-sm
-na	Sa
-5,504	Mdc
-odstotka	Ncmsg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-najmanj	Rgs
-po	Sl
-aprilu	Ncmsl
-.	Z
-Ocena	Ncfsn
-španskega	Agpmsg
-dolga	Agpmsg
-ostaja	Vmpr3s
-Baa3	Npmsn
-z	Si
-negativnimi	Agpfpi
-napovedmi	Ncfpi
-,	Z
-čeprav	Cs
-je	Va-r3s-n
-grozilo	Vmpp-sn
-,	Z
-da	Cs
-bo	Va-f3s-n
-padla	Vmep-sf
-na	Sa
-raven	Ncfsa
-špekulativnosti	Ncfsg
-junk	Ncmsn
-,	Z
-s	Si
-čimer	Pr-nsi
-Madrid	Npmsn
-tako	Rgp
-rekoč	Rr
-ne	Q
-bi	Va-c
-imel	Vmpp-sm
-več	Q
-dostopa	Ncmsg
-do	Sg
-finančnih	Agpmpg
-trgov	Ncmpg
-.	Z
-Na	Sl
-obvezniškem	Agpmsl
-trgu	Ncmsl
-so	Va-r3p-n
-španski	Agpmpn
-dolžniški	Agpmpn
-papirji	Ncmpn
-danes	Rgp
-vidno	Rgp
-porasli	Appmpn
-,	Z
-njihova	Ps3fsnp
-zahtevana	Appfsn
-donosnost	Ncfsn
-pa	Cc
-je	Va-r3s-n
-posledično	Rgp
-padla	Vmep-sf
--	Z
-pri	Sl
-10	Mdc
--	Z
-letni	Agpfsl
-obveznici	Ncfsl
-za	Sa
-28	Mdc
-bazičnih	Agpfpg
-točk	Ncfpg
-,	Z
-na	Sa
-5,504	Mdc
-odstotka	Ncmsg
-.	Z
-Slovenija	Npfsn
-se	Px------y
-želi	Vmpr3s
-zadolžiti	Vmen
-z	Si
-dolgoročnimi	Agpfpi
-obveznicami	Ncfpi
-Donosnost	Ncfsa
-slovenske	Agpfsg
-desetletne	Agpfsg
-obveznice	Ncfsg
-je	Va-r3s-n
-padla	Vmep-sf
-pod	Sa
-šest	Mlc-pa
-odstotkov	Ncmpg
-5,93	Mdc
-,	Z
-približno	Rgp
-tolikšna	Pd-fsn
-pa	Cc
-naj	Q
-bi	Va-c
-bila	Va-p-sf
-tudi	Q
-zahtevana	Appfsn
-donosnost	Ncfsn
-pri	Sl
-načrtovani	Appfsl
-slovenski	Agpfsl
-izdaji	Ncfsl
-dolarskih	Agpfpg
-obveznic	Ncfpg
-v	Sl
-vrednosti	Ncfsl
-1,5	Mdc
-milijarde	Ncfsg
-dolarjev	Ncmpg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-znano	Appnsn
-,	Z
-tri	Mlcfpn
-velike	Agpfpn
-svetovne	Agpfpn
-banke	Ncfpn
-BNP	Npmsn
-Paribas	Npmsn
-,	Z
-Deutsche	Npmsn
-bank	Ncfpg
-in	Cc
-JP	Npmsn
-Morgan	Npmsn
-te	Pd-mpa
-dni	Ncmpa
-pripravljajo	Vmpr3p
-srečanja	Ncnpa
-za	Sa
-potencialne	Agpmpa
-kupce	Ncmpa
-slovenskih	Agpfpg
-obveznic	Ncfpg
-.	Z
-Danes	Rgp
-je	Va-r3s-n
-na	Sl
-vrsti	Ncfsl
-New	Npmsn
-York	Npmsn
-.	Z
-Finančne	Agpfsg
-krivulje	Ncfsg
-na	Sl
-Valu	Ncmsl
-202	Mdc
-Zakaj	Rgp
-bi	Va-c
-bili	Va-p-pm
-finančni	Agpmpn
-trgi	Ncmpn
-veseli	Agpmpn
-,	Z
-če	Cs
-bi	Va-c
-Španija	Npfsn
-zaprosila	Vmep-sf
-za	Sa
-finančno	Agpfsa
-pomoč	Ncfsa
-.	Z
-Evro	Ncmsan
-nad	Si
-1,31	Mdc
-dolarja	Ncmsg
-Vrednost	Ncfsa
-evra	Ncmsg
-se	Px------y
-je	Va-r3s-n
-v	Sa
-torek	Ncmsan
-povzpela	Vmep-sf
-nad	Sa
-1,30	Mdc
-dolarja	Ncmsg
-,	Z
-v	Sa
-sredo	Ncfsa
-dopoldne	Rgp
-pa	Cc
-še	Q
-nad	Sa
-1,31	Mdc
-dolarja	Ncmsg
-.	Z
-Na	Sl
-vodilnih	Agpfpl
-evropskih	Agpfpl
-borzah	Ncfpl
-je	Va-r3s-n
-bilo	Va-p-sn
-v	Sa
-torek	Ncmsan
-opaziti	Vmen
-več	Rgc
-kot	Cs
-enoodstotno	Agpfsa
-rast	Ncfsa
-,	Z
-danes	Rgp
-pa	Cc
-so	Va-r3p-n
-delnice	Ncfpn
-obstale	Vmep-pf
-.	Z
-Čeprav	Cs
-so	Va-r3p-n
-razmere	Ncfpn
-na	Sl
-finančnih	Agpmpl
-trgih	Ncmpl
-manj	Rgc
-napete	Appfpn
-,	Z
-pa	Cc
-je	Va-r3s-n
-vedno	Rgp
-jasneje	Agcnsn
-,	Z
-da	Cs
-se	Px------y
-Španija	Npfsn
-ne	Q
-bo	Va-f3s-n
-mogla	Vmpp-sf
-izvleči	Vmen
-brez	Sg
-tuje	Agpfsg
-pomoči	Ncfsg
-.	Z
-Ugledna	Agpmdn
-časnika	Ncmdn
-Wall	Npmsn
-Street	Npmsn
-Journal	Npmsn
-in	Cc
-Financial	Npmsn
-Times	Npmsn
-sta	Va-r3d-n
-v	Sa
-torek	Ncmsan
-zapisala	Vmep-dm
-,	Z
-da	Cs
-se	Px------y
-bo	Va-f3s-n
-to	Pd-nsn
-zgodilo	Vmep-sn
-kmalu	Rgp
-.	Z
-Intel	Npmsn
-pesimističen	Agpmsnn
-pri	Sl
-napovedih	Ncfpl
-Newyorški	Agpmsny
-delniški	Agpmsny
-indeks	Ncmsn
-Dow	Npmsn
-Jones	Npmsn
-13.551	Mdc
-točk	Ncfpg
-je	Va-r3s-n
-v	Sa
-torek	Ncmsan
-zaradi	Sg
-spodbudnih	Agpmpg
-poslovnih	Agpmpg
-rezultatov	Ncmpg
-številnih	Agpnpg
-podjetij	Ncnpg
-,	Z
-zlasti	Q
-bančnih	Agpmpg
-,	Z
-porasel	Appmsnn
-za	Sa
-skoraj	Q
-odstotek	Ncmsan
-.	Z
-Po	Sl
-trgovanju	Ncnsl
-je	Va-r3s-n
-sledila	Vmpp-sf
-streznitev	Ncfsn
-,	Z
-saj	Cc
-je	Va-r3s-n
-Intel	Npmsn
-z	Si
-napovedjo	Ncfsi
-poslovanja	Ncnsg
-v	Sl
-zadnjem	Agpnsl
-letošnjem	Agpnsl
-četrtletju	Ncnsl
-zgrešil	Vmep-sm
-ocene	Ncfpa
-analitikov	Ncmpg
-.	Z
-Proizvajalec	Ncmsn
-mikroprocesorjev	Ncmpg
-vedno	Rgp
-bolj	Rgc
-občuti	Vmer3s
-,	Z
-da	Cs
-imajo	Vmpr3p-n
-potrošniki	Ncmpn
-raje	Rgc
-mobilne	Agpfpa
-naprave	Ncfpa
-kot	Cs
-osebne	Agpmpa
-računalnike	Ncmpa
-,	Z
-kar	Pr-nsn
-načenja	Vmpr3s
-Intelovo	Aspfsa
-dobičkonosnost	Ncfsa
-.	Z
-Nižja	Agcfsn
-prodaja	Ncfsn
-osebnih	Agpmpg
-računalnikov	Ncmpg
-Trg	Ncmsn
-osebnih	Agpmpg
-računalnikov	Ncmpg
-se	Px------y
-bo	Va-f3s-n
-letos	Rgp
-skrčil	Vmep-sm
-za	Sa
-1,2	Mdc
-odstotka	Ncmsg
-,	Z
-na	Sa
-348,7	Mdc
-milijona	Ncmsg
-prodanih	Appfpg
-enot	Ncfpg
-.	Z
-V	Sl
-zadnjem	Agpnsl
-četrtletju	Ncnsl
-naj	Q
-bi	Va-c
-prihodki	Ncmpn
-dosegli	Vmep-pm
-okrog	Rgp
-13,5	Mdc
-milijarde	Ncfsg
-dolarjev	Ncmpg
-.	Z
-Tolikšni	Cs
-so	Va-r3p-n
-bili	Va-p-pm
-tudi	Q
-v	Sl
-tretjem	Mlonsl
-četrtletju	Ncnsl
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-precej	Rgp
-manj	Rgc
-kot	Cs
-v	Sl
-istem	Pi-nsl
-obdobju	Ncnsl
-lani	Rgp
-14,2	Mdc
-milijarde	Ncfsg
-.	Z
-Danes	Rgp
-bosta	Va-f3d-n
-četrtletne	Agpmpa
-rezultate	Ncmpa
-poslovanja	Ncnsg
-objavila	Vmep-dm
-Bank	Npfsn
-of	Xf
-America	Npfsn
-in	Cc
-Pepsi	Npmsn
-,	Z
-jutri	Rgp
-pa	Cc
-spletni	Agpmsny
-brskalnik	Ncmsn
-Google	Npmsn
-.	Z
-Tečaji	Ncmpn
-delnic	Ncfpg
-na	Sl
-Lj	Npmsl
-.	Z
-borzi	Ncfsl
-17	Mdc
-.	Z
-oktober	Ncmsn
-GORENJE	Ncnsn
-+	Ncmsn
-4,38	Mdc
-%	Ncmsn
-4,50	Mdc
-EUR	Ncmsn
-PETROL	Ncmsn
-+	Ncmsn
-3,86	Mdc
-%	Ncmsn
-215,00	Mdc
-ZAV	Ncmsn
-.	Z
-TRIGLAV	Ncmsan
-+	Ncmsn
-3,62	Mdc
-%	Ncmsn
-15,75	Mdc
-TELEKOM	Ncmsn
-+	Ncmsn
-2,56	Mdc
-%	Ncmsn
-80,00	Mdc
-KRKA	Npmsn
-+	Ncmsn
-1,91	Mdc
-%	Ncmsn
-48,00	Mdc
-MERCATOR	Ncmsn
-+	Ncmsn
-0,86	Mdc
-%	Ncmsn
-117,00	Mdc
-NOVA	Agpfsn
-KBM	Npfsg
-+	Ncmsn
-0,34	Mdc
-%	Ncmsn
-1,495	Mdc
-LUKA	Npmsn
-KOPER	Npmsn
-+	Z
-0,00	Mdc
-%	Ncmsn
-7,70	Mdc
-SBI	Ncmsn
-TOP	Ncmsg
-spet	Rgp
-nad	Si
-600	Mdc
-točkami	Ncfpi
-Indeks	Ncmsn
-SBI	Ncmsn
-TOP	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-prejšnji	Agpmsay
-teden	Ncmsan
-izgubil	Vmep-sm
-šest	Mlc-pa
-odstotkov	Ncmpg
-,	Z
-ta	Pd-msa
-teden	Ncmsan
-dobro	Rgp
-okreva	Vmpr3s
-.	Z
-V	Sa
-sredo	Ncfsa
-se	Px------y
-je	Va-r3s-n
-povzpel	Vmep-sm
-za	Sa
-dva	Mlcmda
-odstotka	Ncmda
-in	Cc
-pol	Rgp
-in	Cc
-je	Va-r3s-n
-spet	Rgp
-nad	Si
-600	Mdc
-točkami	Ncfpi
-.	Z
-V	Sl
-prvi	Mlofsl
-kotaciji	Ncfsl
-se	Px------y
-nobena	Pz-fsn
-delnica	Ncfsn
-ni	Va-r3s-y
-pocenila	Vmep-sf
-.	Z
-Okrog	Rgp
-štiri	Mlcmpa
-odstotke	Ncmpa
-so	Va-r3p-n
-poskočile	Vmep-pf
-delnice	Ncfpn
-Gorenja	Npnsg
-,	Z
-Petrola	Npmsg
-in	Cc
-Zavarovalnice	Ncfsg
-Triglav	Npmsn
-.	Z
-Cena	Ncfsn
-najprometnejše	Agsfsg
-Krke	Npfsg
-305	Mdc
-tisoč	Mlc-pa
-evrov	Ncmpg
-prometa	Ncmsg
-je	Va-r3s-n
-dosegla	Vmep-sf
-48	Mdc
-evrov	Ncmpg
-.	Z
-Mercatorjeve	Aspfsg
-delnice	Ncfpn
-so	Va-r3p-n
-dosegle	Vmep-pf
-119,95	Mdc
-evra	Ncmsg
-.	Z
-Abanka	Npfsn
-je	Va-r3s-n
-v	Sa
-torek	Ncmsan
-začela	Vmep-sf
-prodajati	Vmpn
-delnice	Ncfpa
-Mercatorja	Npmsg
-,	Z
-ki	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-pred	Si
-tremi	Mlcnpi
-leti	Ncnpi
-zasegla	Vmep-sf
-Infondu	Npmsd
-Holdingu	Ncmsd
-.	Z
-Abanka	Npfsn
-prodaja	Ncfsn
-svoj	Px-msa
-delež	Ncmsan
-v	Sl
-sosedu	Ncmsl
-Gre	Vmbr3s
-za	Sa
-2,75	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-Mercatorju	Npmsl
-,	Z
-za	Sa
-katerega	Pq-msa
-želi	Vmpr3s
-Abanka	Npfsn
-iztržiti	Vmen
-14,5	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-kar	Pr-nsn
-pomeni	Vmbr3s
-141	Mdc
-evrov	Ncmpg
-na	Sa
-delnico	Ncfsa
-.	Z
-Abanka	Npfsn
-se	Px------y
-je	Va-r3s-n
-tako	Rgp
-kot	Cs
-Banka	Npfsn
-Koper	Npfsn
-namreč	Cc
-odločila	Vmep-sf
-,	Z
-da	Cs
-ne	Q
-bo	Va-f3s-n
-pristopila	Vmep-sf
-k	Sd
-prodajnemu	Agpmsd
-konzorciju	Ncmsd
-,	Z
-v	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-Pivovarna	Ncfsn
-Laško	Npnsn
-,	Z
-NLB	Npfsn
-,	Z
-Nova	Agpfsn
-KBM	Npfsn
-in	Cc
-drugi	Mlpmpn
-večji	Agcmpn
-lastniki	Ncmpn
-.	Z
-Dodajmo	Vmem1p
-,	Z
-da	Cs
-je	Va-r3s-n
-uprava	Ncfsn
-Abanke	Npfsg
-za	Sa
-19	Mdc
-.	Z
+token	tag	lemma
+SBI	mte:Ncmsn	SBI
+TOP	mte:Ncmsn	TOP
+drugi	mte:Mlpmsny	drug
+dan	mte:Ncmsn	dan
+zapored	mte:Rgp	zapored
+občutno	mte:Rgp	občutno
+navzgor	mte:Rgp	navzgor
+Donos	mte:Ncmsn	donos
+španske	mte:Agpfsg	španski
+desetletne	mte:Agpfsg	desetleten
+obveznice	mte:Ncfsg	obveznica
+je	mte:Va-r3s-n	biti
+zaradi	mte:Sg	zaradi
+odločitve	mte:Ncfsg	odločitev
+agencije	mte:Ncfsg	agencija
+Moodys	mte:Npfsg	Moodys
+,	mte:Z	,
+da	mte:Cs	da
+Španiji	mte:Npfsd	Španija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+znižala	mte:Vmep-sf	znižati
+bonitetne	mte:Agpfsg	boniteten
+ocene	mte:Ncfsg	ocena
+,	mte:Z	,
+zdrsnil	mte:Vmep-sm	zdrsniti
+na	mte:Sa	na
+5,504	mte:Mdc	5,504
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+najmanj	mte:Rgs	najmanj
+po	mte:Sl	po
+aprilu	mte:Ncmsl	april
+.	mte:Z	.
+Ocena	mte:Ncfsn	ocena
+španskega	mte:Agpmsg	španski
+dolga	mte:Agpmsg	dolg
+ostaja	mte:Vmpr3s	ostajati
+Baa3	mte:Npmsn	Baa3
+z	mte:Si	z
+negativnimi	mte:Agpfpi	negativen
+napovedmi	mte:Ncfpi	napoved
+,	mte:Z	,
+čeprav	mte:Cs	čeprav
+je	mte:Va-r3s-n	biti
+grozilo	mte:Vmpp-sn	groziti
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+padla	mte:Vmep-sf	pasti
+na	mte:Sa	na
+raven	mte:Ncfsa	raven
+špekulativnosti	mte:Ncfsg	špekulativnost
+junk	mte:Ncmsn	junka
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+Madrid	mte:Npmsn	Madrid
+tako	mte:Rgp	tako
+rekoč	mte:Rr	rekoč
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+imel	mte:Vmpp-sm	imeti
+več	mte:Q	več
+dostopa	mte:Ncmsg	dostop
+do	mte:Sg	do
+finančnih	mte:Agpmpg	finančen
+trgov	mte:Ncmpg	trg
+.	mte:Z	.
+Na	mte:Sl	na
+obvezniškem	mte:Agpmsl	obvezniški
+trgu	mte:Ncmsl	trg
+so	mte:Va-r3p-n	biti
+španski	mte:Agpmpn	španski
+dolžniški	mte:Agpmpn	dolžniški
+papirji	mte:Ncmpn	papir
+danes	mte:Rgp	danes
+vidno	mte:Rgp	vidno
+porasli	mte:Appmpn	porasel
+,	mte:Z	,
+njihova	mte:Ps3fsnp	njihov
+zahtevana	mte:Appfsn	zahtevan
+donosnost	mte:Ncfsn	donosnost
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+posledično	mte:Rgp	posledično
+padla	mte:Vmep-sf	pasti
+-	mte:Z	-
+pri	mte:Sl	pri
+10	mte:Mdc	10
+-	mte:Z	-
+letni	mte:Agpfsl	leten
+obveznici	mte:Ncfsl	obveznica
+za	mte:Sa	za
+28	mte:Mdc	28
+bazičnih	mte:Agpfpg	bazičen
+točk	mte:Ncfpg	točka
+,	mte:Z	,
+na	mte:Sa	na
+5,504	mte:Mdc	5,504
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Slovenija	mte:Npfsn	Slovenija
+se	mte:Px------y	se
+želi	mte:Vmpr3s	želeti
+zadolžiti	mte:Vmen	zadolžiti
+z	mte:Si	z
+dolgoročnimi	mte:Agpfpi	dolgoročen
+obveznicami	mte:Ncfpi	obveznica
+Donosnost	mte:Ncfsa	donosnost
+slovenske	mte:Agpfsg	slovenski
+desetletne	mte:Agpfsg	desetleten
+obveznice	mte:Ncfsg	obveznica
+je	mte:Va-r3s-n	biti
+padla	mte:Vmep-sf	pasti
+pod	mte:Sa	pod
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+5,93	mte:Mdc	5,93
+,	mte:Z	,
+približno	mte:Rgp	približno
+tolikšna	mte:Pd-fsn	tolikšen
+pa	mte:Cc	pa
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+bila	mte:Va-p-sf	biti
+tudi	mte:Q	tudi
+zahtevana	mte:Appfsn	zahtevan
+donosnost	mte:Ncfsn	donosnost
+pri	mte:Sl	pri
+načrtovani	mte:Appfsl	načrtovan
+slovenski	mte:Agpfsl	slovenski
+izdaji	mte:Ncfsl	izdaja
+dolarskih	mte:Agpfpg	dolarski
+obveznic	mte:Ncfpg	obveznica
+v	mte:Sl	v
+vrednosti	mte:Ncfsl	vrednost
+1,5	mte:Mdc	1,5
+milijarde	mte:Ncfsg	milijarda
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+znano	mte:Appnsn	znan
+,	mte:Z	,
+tri	mte:Mlcfpn	trije
+velike	mte:Agpfpn	velik
+svetovne	mte:Agpfpn	svetoven
+banke	mte:Ncfpn	banka
+BNP	mte:Npmsn	BNP
+Paribas	mte:Npmsn	Paribas
+,	mte:Z	,
+Deutsche	mte:Npmsn	Deutsche
+bank	mte:Ncfpg	banka
+in	mte:Cc	in
+JP	mte:Npmsn	JP
+Morgan	mte:Npmsn	Morgan
+te	mte:Pd-mpa	ta
+dni	mte:Ncmpa	dan
+pripravljajo	mte:Vmpr3p	pripravljati
+srečanja	mte:Ncnpa	srečanje
+za	mte:Sa	za
+potencialne	mte:Agpmpa	potencialen
+kupce	mte:Ncmpa	kupec
+slovenskih	mte:Agpfpg	slovenski
+obveznic	mte:Ncfpg	obveznica
+.	mte:Z	.
+Danes	mte:Rgp	danes
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+vrsti	mte:Ncfsl	vrsta
+New	mte:Npmsn	New
+York	mte:Npmsn	York
+.	mte:Z	.
+Finančne	mte:Agpfsg	finančen
+krivulje	mte:Ncfsg	krivulja
+na	mte:Sl	na
+Valu	mte:Ncmsl	val
+202	mte:Mdc	202
+Zakaj	mte:Rgp	zakaj
+bi	mte:Va-c	biti
+bili	mte:Va-p-pm	biti
+finančni	mte:Agpmpn	finančen
+trgi	mte:Ncmpn	trg
+veseli	mte:Agpmpn	vesel
+,	mte:Z	,
+če	mte:Cs	če
+bi	mte:Va-c	biti
+Španija	mte:Npfsn	Španija
+zaprosila	mte:Vmep-sf	zaprositi
+za	mte:Sa	za
+finančno	mte:Agpfsa	finančen
+pomoč	mte:Ncfsa	pomoč
+.	mte:Z	.
+Evro	mte:Ncmsan	evro
+nad	mte:Si	nad
+1,31	mte:Mdc	1,31
+dolarja	mte:Ncmsg	dolar
+Vrednost	mte:Ncfsa	vrednost
+evra	mte:Ncmsg	evro
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+povzpela	mte:Vmep-sf	povzpeti
+nad	mte:Sa	nad
+1,30	mte:Mdc	1,30
+dolarja	mte:Ncmsg	dolar
+,	mte:Z	,
+v	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+dopoldne	mte:Rgp	dopoldne
+pa	mte:Cc	pa
+še	mte:Q	še
+nad	mte:Sa	nad
+1,31	mte:Mdc	1,31
+dolarja	mte:Ncmsg	dolar
+.	mte:Z	.
+Na	mte:Sl	na
+vodilnih	mte:Agpfpl	vodilen
+evropskih	mte:Agpfpl	evropski
+borzah	mte:Ncfpl	borza
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+opaziti	mte:Vmen	opaziti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+enoodstotno	mte:Agpfsa	enoodstoten
+rast	mte:Ncfsa	rast
+,	mte:Z	,
+danes	mte:Rgp	danes
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+delnice	mte:Ncfpn	delnica
+obstale	mte:Vmep-pf	obstati
+.	mte:Z	.
+Čeprav	mte:Cs	čeprav
+so	mte:Va-r3p-n	biti
+razmere	mte:Ncfpn	razmera
+na	mte:Sl	na
+finančnih	mte:Agpmpl	finančen
+trgih	mte:Ncmpl	trg
+manj	mte:Rgc	manj
+napete	mte:Appfpn	napet
+,	mte:Z	,
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+vedno	mte:Rgp	vedno
+jasneje	mte:Agcnsn	jasen
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+Španija	mte:Npfsn	Španija
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+mogla	mte:Vmpp-sf	moči
+izvleči	mte:Vmen	izvleči
+brez	mte:Sg	brez
+tuje	mte:Agpfsg	tuj
+pomoči	mte:Ncfsg	pomoč
+.	mte:Z	.
+Ugledna	mte:Agpmdn	ugleden
+časnika	mte:Ncmdn	časnik
+Wall	mte:Npmsn	Wall
+Street	mte:Npmsn	Street
+Journal	mte:Npmsn	Journal
+in	mte:Cc	in
+Financial	mte:Npmsn	Financial
+Times	mte:Npmsn	Times
+sta	mte:Va-r3d-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+zapisala	mte:Vmep-dm	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+to	mte:Pd-nsn	ta
+zgodilo	mte:Vmep-sn	zgoditi
+kmalu	mte:Rgp	kmalu
+.	mte:Z	.
+Intel	mte:Npmsn	Intel
+pesimističen	mte:Agpmsnn	pesimističen
+pri	mte:Sl	pri
+napovedih	mte:Ncfpl	napoved
+Newyorški	mte:Agpmsny	newyorški
+delniški	mte:Agpmsny	delniški
+indeks	mte:Ncmsn	indeks
+Dow	mte:Npmsn	Dow
+Jones	mte:Npmsn	Jones
+13.551	mte:Mdc	13.551
+točk	mte:Ncfpg	točka
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+zaradi	mte:Sg	zaradi
+spodbudnih	mte:Agpmpg	spodbuden
+poslovnih	mte:Agpmpg	posloven
+rezultatov	mte:Ncmpg	rezultat
+številnih	mte:Agpnpg	številen
+podjetij	mte:Ncnpg	podjetje
+,	mte:Z	,
+zlasti	mte:Q	zlasti
+bančnih	mte:Agpmpg	bančen
+,	mte:Z	,
+porasel	mte:Appmsnn	porasel
+za	mte:Sa	za
+skoraj	mte:Q	skoraj
+odstotek	mte:Ncmsan	odstotek
+.	mte:Z	.
+Po	mte:Sl	po
+trgovanju	mte:Ncnsl	trgovanje
+je	mte:Va-r3s-n	biti
+sledila	mte:Vmpp-sf	slediti
+streznitev	mte:Ncfsn	streznitev
+,	mte:Z	,
+saj	mte:Cc	saj
+je	mte:Va-r3s-n	biti
+Intel	mte:Npmsn	Intel
+z	mte:Si	z
+napovedjo	mte:Ncfsi	napoved
+poslovanja	mte:Ncnsg	poslovanje
+v	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+letošnjem	mte:Agpnsl	letošnji
+četrtletju	mte:Ncnsl	četrtletje
+zgrešil	mte:Vmep-sm	zgrešiti
+ocene	mte:Ncfpa	ocena
+analitikov	mte:Ncmpg	analitik
+.	mte:Z	.
+Proizvajalec	mte:Ncmsn	proizvajalec
+mikroprocesorjev	mte:Ncmpg	mikroprocesor
+vedno	mte:Rgp	vedno
+bolj	mte:Rgc	bolj
+občuti	mte:Vmer3s	občutiti
+,	mte:Z	,
+da	mte:Cs	da
+imajo	mte:Vmpr3p-n	imeti
+potrošniki	mte:Ncmpn	potrošnik
+raje	mte:Rgc	raje
+mobilne	mte:Agpfpa	mobilen
+naprave	mte:Ncfpa	naprava
+kot	mte:Cs	kot
+osebne	mte:Agpmpa	oseben
+računalnike	mte:Ncmpa	računalnik
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+načenja	mte:Vmpr3s	načenjati
+Intelovo	mte:Aspfsa	Intelov
+dobičkonosnost	mte:Ncfsa	dobičkonosnost
+.	mte:Z	.
+Nižja	mte:Agcfsn	nizek
+prodaja	mte:Ncfsn	prodaja
+osebnih	mte:Agpmpg	oseben
+računalnikov	mte:Ncmpg	računalnik
+Trg	mte:Ncmsn	trg
+osebnih	mte:Agpmpg	oseben
+računalnikov	mte:Ncmpg	računalnik
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+letos	mte:Rgp	letos
+skrčil	mte:Vmep-sm	skrčiti
+za	mte:Sa	za
+1,2	mte:Mdc	1,2
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+na	mte:Sa	na
+348,7	mte:Mdc	348,7
+milijona	mte:Ncmsg	milijon
+prodanih	mte:Appfpg	prodan
+enot	mte:Ncfpg	enota
+.	mte:Z	.
+V	mte:Sl	v
+zadnjem	mte:Agpnsl	zadnji
+četrtletju	mte:Ncnsl	četrtletje
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+prihodki	mte:Ncmpn	prihodek
+dosegli	mte:Vmep-pm	doseči
+okrog	mte:Rgp	okrog
+13,5	mte:Mdc	13,5
+milijarde	mte:Ncfsg	milijarda
+dolarjev	mte:Ncmpg	dolar
+.	mte:Z	.
+Tolikšni	mte:Cs	tolikšni
+so	mte:Va-r3p-n	biti
+bili	mte:Va-p-pm	biti
+tudi	mte:Q	tudi
+v	mte:Sl	v
+tretjem	mte:Mlonsl	tretji
+četrtletju	mte:Ncnsl	četrtletje
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+precej	mte:Rgp	precej
+manj	mte:Rgc	manj
+kot	mte:Cs	kot
+v	mte:Sl	v
+istem	mte:Pi-nsl	isti
+obdobju	mte:Ncnsl	obdobje
+lani	mte:Rgp	lani
+14,2	mte:Mdc	14,2
+milijarde	mte:Ncfsg	milijarda
+.	mte:Z	.
+Danes	mte:Rgp	danes
+bosta	mte:Va-f3d-n	biti
+četrtletne	mte:Agpmpa	četrtleten
+rezultate	mte:Ncmpa	rezultat
+poslovanja	mte:Ncnsg	poslovanje
+objavila	mte:Vmep-dm	objaviti
+Bank	mte:Npfsn	Bank
+of	mte:Xf	of
+America	mte:Npfsn	America
+in	mte:Cc	in
+Pepsi	mte:Npmsn	Pepsa
+,	mte:Z	,
+jutri	mte:Rgp	jutri
+pa	mte:Cc	pa
+spletni	mte:Agpmsny	spleten
+brskalnik	mte:Ncmsn	brskalnik
+Google	mte:Npmsn	Google
+.	mte:Z	.
+Tečaji	mte:Ncmpn	tečaj
+delnic	mte:Ncfpg	delnica
+na	mte:Sl	na
+Lj	mte:Npmsl	Lj
+.	mte:Z	.
+borzi	mte:Ncfsl	borz
+17	mte:Mdc	17
+.	mte:Z	.
+oktober	mte:Ncmsn	oktober
+GORENJE	mte:Ncnsn	gorenje
++	mte:Ncmsn	+
+4,38	mte:Mdc	4,38
+%	mte:Ncmsn	%
+4,50	mte:Mdc	4,50
+EUR	mte:Ncmsn	eur
+PETROL	mte:Ncmsn	petrol
++	mte:Ncmsn	+
+3,86	mte:Mdc	3,86
+%	mte:Ncmsn	%
+215,00	mte:Mdc	215,00
+ZAV	mte:Ncmsn	ZAV
+.	mte:Z	.
+TRIGLAV	mte:Ncmsan	triglava
++	mte:Ncmsn	+
+3,62	mte:Mdc	3,62
+%	mte:Ncmsn	%
+15,75	mte:Mdc	15,75
+TELEKOM	mte:Ncmsn	teleko
++	mte:Ncmsn	+
+2,56	mte:Mdc	2,56
+%	mte:Ncmsn	%
+80,00	mte:Mdc	80,00
+KRKA	mte:Npmsn	Krka
++	mte:Ncmsn	+
+1,91	mte:Mdc	1,91
+%	mte:Ncmsn	%
+48,00	mte:Mdc	48,00
+MERCATOR	mte:Ncmsn	mercator
++	mte:Ncmsn	+
+0,86	mte:Mdc	0,86
+%	mte:Ncmsn	%
+117,00	mte:Mdc	117,00
+NOVA	mte:Agpfsn	nov
+KBM	mte:Npfsg	KBM
++	mte:Ncmsn	+
+0,34	mte:Mdc	0,34
+%	mte:Ncmsn	%
+1,495	mte:Mdc	1,495
+LUKA	mte:Npmsn	LUKA
+KOPER	mte:Npmsn	Koper
++	mte:Z	+
+0,00	mte:Mdc	0,00
+%	mte:Ncmsn	%
+7,70	mte:Mdc	7,70
+SBI	mte:Ncmsn	SBI
+TOP	mte:Ncmsg	TOP
+spet	mte:Rgp	spet
+nad	mte:Si	nad
+600	mte:Mdc	600
+točkami	mte:Ncfpi	točka
+Indeks	mte:Ncmsn	indeks
+SBI	mte:Ncmsn	SBI
+TOP	mte:Ncmsn	TOP
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+prejšnji	mte:Agpmsay	prejšnji
+teden	mte:Ncmsan	teden
+izgubil	mte:Vmep-sm	izgubiti
+šest	mte:Mlc-pa	šest
+odstotkov	mte:Ncmpg	odstotek
+,	mte:Z	,
+ta	mte:Pd-msa	ta
+teden	mte:Ncmsan	teden
+dobro	mte:Rgp	dobro
+okreva	mte:Vmpr3s	okrevati
+.	mte:Z	.
+V	mte:Sa	v
+sredo	mte:Ncfsa	sreda
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+povzpel	mte:Vmep-sm	povzpeti
+za	mte:Sa	za
+dva	mte:Mlcmda	dva
+odstotka	mte:Ncmda	odstotek
+in	mte:Cc	in
+pol	mte:Rgp	pol
+in	mte:Cc	in
+je	mte:Va-r3s-n	biti
+spet	mte:Rgp	spet
+nad	mte:Si	nad
+600	mte:Mdc	600
+točkami	mte:Ncfpi	točka
+.	mte:Z	.
+V	mte:Sl	v
+prvi	mte:Mlofsl	prvi
+kotaciji	mte:Ncfsl	kotacija
+se	mte:Px------y	se
+nobena	mte:Pz-fsn	noben
+delnica	mte:Ncfsn	delnica
+ni	mte:Va-r3s-y	biti
+pocenila	mte:Vmep-sf	poceniti
+.	mte:Z	.
+Okrog	mte:Rgp	okrog
+štiri	mte:Mlcmpa	štirje
+odstotke	mte:Ncmpa	odstotek
+so	mte:Va-r3p-n	biti
+poskočile	mte:Vmep-pf	poskočiti
+delnice	mte:Ncfpn	delnica
+Gorenja	mte:Npnsg	gorenje
+,	mte:Z	,
+Petrola	mte:Npmsg	Petrol
+in	mte:Cc	in
+Zavarovalnice	mte:Ncfsg	zavarovalnica
+Triglav	mte:Npmsn	Triglav
+.	mte:Z	.
+Cena	mte:Ncfsn	cena
+najprometnejše	mte:Agsfsg	prepomen
+Krke	mte:Npfsg	Krka
+305	mte:Mdc	305
+tisoč	mte:Mlc-pa	tisoč
+evrov	mte:Ncmpg	evro
+prometa	mte:Ncmsg	promet
+je	mte:Va-r3s-n	biti
+dosegla	mte:Vmep-sf	doseči
+48	mte:Mdc	48
+evrov	mte:Ncmpg	evro
+.	mte:Z	.
+Mercatorjeve	mte:Aspfsg	Mercatorjev
+delnice	mte:Ncfpn	delnica
+so	mte:Va-r3p-n	biti
+dosegle	mte:Vmep-pf	doseči
+119,95	mte:Mdc	119,95
+evra	mte:Ncmsg	evro
+.	mte:Z	.
+Abanka	mte:Npfsn	Abanka
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+torek	mte:Ncmsan	torek
+začela	mte:Vmep-sf	začeti
+prodajati	mte:Vmpn	prodajati
+delnice	mte:Ncfpa	delnica
+Mercatorja	mte:Npmsg	Mercator
+,	mte:Z	,
+ki	mte:Cs	ki
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+tremi	mte:Mlcnpi	trije
+leti	mte:Ncnpi	leto
+zasegla	mte:Vmep-sf	zaseči
+Infondu	mte:Npmsd	Infond
+Holdingu	mte:Ncmsd	holding
+.	mte:Z	.
+Abanka	mte:Npfsn	Abanka
+prodaja	mte:Ncfsn	prodaja
+svoj	mte:Px-msa	svoj
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+sosedu	mte:Ncmsl	sosed
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+2,75	mte:Mdc	2,75
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+Mercatorju	mte:Npmsl	Mercator
+,	mte:Z	,
+za	mte:Sa	za
+katerega	mte:Pq-msa	kateri
+želi	mte:Vmpr3s	želeti
+Abanka	mte:Npfsn	Abanka
+iztržiti	mte:Vmen	iztržiti
+14,5	mte:Mdc	14,5
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomeni	mte:Vmbr3s	pomeniti
+141	mte:Mdc	141
+evrov	mte:Ncmpg	evro
+na	mte:Sa	na
+delnico	mte:Ncfsa	delnica
+.	mte:Z	.
+Abanka	mte:Npfsn	Abanka
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+Banka	mte:Npfsn	banka
+Koper	mte:Npfsn	Koper
+namreč	mte:Cc	namreč
+odločila	mte:Vmep-sf	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+pristopila	mte:Vmep-sf	pristopiti
+k	mte:Sd	k
+prodajnemu	mte:Agpmsd	prodajen
+konzorciju	mte:Ncmsd	konzorcij
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+Pivovarna	mte:Ncfsn	pivovarna
+Laško	mte:Npnsn	Laško
+,	mte:Z	,
+NLB	mte:Npfsn	NLB
+,	mte:Z	,
+Nova	mte:Agpfsn	nov
+KBM	mte:Npfsn	KBM
+in	mte:Cc	in
+drugi	mte:Mlpmpn	drug
+večji	mte:Agcmpn	velik
+lastniki	mte:Ncmpn	lastnik
+.	mte:Z	.
+Dodajmo	mte:Vmem1p	dodati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+uprava	mte:Ncfsn	uprava
+Abanke	mte:Npfsg	Abanka
+za	mte:Sa	za
+19	mte:Mdc	19
+.	mte:Z	.
+november	mte:Ncmsan	november
+sklicala	mte:Vmep-sf	sklicati
+skupščino	mte:Ncfsa	skupščina
+,	mte:Z	,
+na	mte:Sl	na
+kateri	mte:Pq-fsl	kateri
+bodo	mte:Va-f3p-n	biti
+delničarji	mte:Ncmpn	delničar
+spet	mte:Rgp	spet
+odločali	mte:Vmpp-pm	odločati
+o	mte:Sl	o
+dokapitalizaciji	mte:Ncfsl	dokapitalizacija
+,	mte:Z	,
+vredni	mte:Agpmpn	vreden
+od	mte:Sg	od
+50	mte:Mdc	50
+do	mte:Sg	do
+90	mte:Mdc	90
+milijonov	mte:Ncmpg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+cena	mte:Ncfsn	cena
+delnice	mte:Ncfsg	delnica
+pa	mte:Cc	pa
+bo	mte:Va-f3s-n	biti
+4,20	mte:Mdc	4,20
+evra	mte:Ncmsg	evro

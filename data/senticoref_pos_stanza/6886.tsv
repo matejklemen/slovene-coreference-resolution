@@ -1,517 +1,538 @@
-token	tag
-Sarkozy	Npmsn
-ZDA	Npfpg
-govorijo	Vmpr3p
-eno	Mlpfsa
-,	Z
-delajo	Vmpr3p
-pa	Cc
-drugo	Mlpnsn
-Francoski	Agpmsny
-predsednik	Ncmsn
-Nicolas	Npmsn
-Sarkozy	Npmsn
-in	Cc
-britanski	Agpmsny
-premier	Ncmsn
-Gordan	Npmsn
-Brown	Npmsn
-sta	Va-r3d-n
-skupno	Rgp
-kritizirala	Vmpp-dm
-ZDA	Npfpg
-zaradi	Sg
-protekcionizma	Ncmsg
-pri	Sl
-sklepanju	Ncnsl
-pogodbe	Ncfsg
-o	Sl
-zračnih	Agpmpl
-tankerjih	Ncmpl
-.	Z
-Washington	Npmsn
-je	Va-r3s-n
-po	Sl
-mnenju	Ncnsl
-omenjenih	Appmpg
-voditeljev	Ncmpg
-dajal	Vmpp-sm
-očitno	Agpfsa
-prednost	Ncfsa
-Boeingu	Npmsd
-pred	Si
-navezo	Ncfsi
-med	Si
-ameriškim	Agpnsi
-podjetjem	Ncnsi
-Northrop	Npmsn
-Gruman	Npmsi
-in	Cc
-Airbusom	Npmsi
-v	Sl
-natečaju	Ncmsl
-za	Sa
-izdelavo	Ncfsa
-zračnih	Agpmpg
-tankerjev	Ncmpg
-za	Sa
-ameriške	Agpfpa
-zračne	Agpfpa
-sile	Ncfpa
-.	Z
-Northrop	Npmsn
-Gruman	Npmsn
-je	Va-r3s-n
-v	Sa
-ponedeljek	Ncmsan
-odstopil	Vmep-sm
-od	Sg
-natečaja	Ncmsg
-.	Z
-V	Sl
-podjetju	Ncnsl
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-za	Sa
-35	Mdc
-milijard	Ncfpg
-dolarjev	Ncmpg
-vreden	Agpmsnn
-posel	Ncmsn
-potegovalo	Vmpp-sn
-skupaj	Rgp
-z	Si
-evropskim	Agpmsi
-Airbusom	Npmsi
-oziroma	Cc
-njegovim	Ps3msism
-krovnim	Agpmsi
-koncernom	Ncmsi
-EADS	Npmsn
-,	Z
-so	Va-r3p-n
-izrazili	Vmep-pm
-prepričanje	Ncnsa
-,	Z
-da	Cs
-je	Va-r3s-n
-bil	Va-p-sm
-razpis	Ncmsn
-pisan	Agpmsnn
-na	Sa
-kožo	Ncfsa
-konkurenčnemu	Agpnsd
-ameriškemu	Agpnsd
-podjetju	Ncnsd
-Boeing	Npmsn
-.	Z
-Sarkozy	Npmsn
-ZDA	Npfpg
-govorijo	Vmpr3p
-eno	Mlpnsa
-,	Z
-delajo	Vmpr3p
-pa	Cc
-drugo	Mlpfsa
-Priznam	Vmer1s
-,	Z
-da	Cs
-mi	Pp1-sd--y
-ta	Pd-fsn
-odločitev	Ncfsn
-ni	Va-r3s-y
-bila	Va-p-sf
-všeč	Rgp
-.	Z
-To	Pd-nsn
-ni	Va-r3s-y
-pravi	Agpmsny
-način	Ncmsn
-.	Z
-Gre	Vmbr3s
-za	Sa
-metode	Ncfpa
-,	Z
-ki	Cs
-niso	Va-r3p-y
-dobre	Agpfpn
-za	Sa
-partnerje	Ncmpa
-ZDA	Npfpg
-,	Z
-veliko	Agpfsa
-državo	Ncfsa
-,	Z
-s	Si
-katero	Pq-fsi
-imamo	Vmpr1p-n
-bližnji	Agpmsay
-in	Cc
-prijateljski	Agpmsay
-odnos	Ncmsan
-,	Z
-je	Va-r3s-n
-povedal	Vmep-sm
-francoski	Agpmsny
-predsednik	Ncmsn
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-to	Pd-nsn
-ni	Va-r3s-y
-način	Ncmsn
-,	Z
-na	Sa
-katerega	Pq-msa
-ravnaš	Vmpr2s
-s	Si
-partnerji	Ncmpi
-,	Z
-hkrati	Rgp
-pa	Cc
-je	Va-r3s-n
-Washington	Npmsn
-okrcal	Vmep-sm
-,	Z
-da	Cs
-si	Px---d--y
-ne	Q
-bi	Va-c
-smel	Vmpp-sm
-lastiti	Vmpn
-vodilne	Agpfsg
-vloge	Ncfsg
-v	Sl
-boju	Ncmsl
-proti	Sd
-protekcionizmu	Ncmsd
-,	Z
-nato	Rgp
-pa	Cc
-ravnati	Vmpn
-drugače	Rgp
-.	Z
-Tudi	Q
-Brown	Npmsn
-je	Va-r3s-n
-razočaran	Appmsnn
-nad	Si
-razvojem	Ncmsi
-dogodkov	Ncmpg
-.	Z
-Verjamemo	Vmbr1p
-v	Sa
-svobodno	Agpfsa
-trgovino	Ncfsa
-,	Z
-odprte	Appmpa
-trge	Ncmpa
-in	Cc
-odprto	Appfsa
-konkurenco	Ncfsa
-,	Z
-je	Va-r3s-n
-zatrdil	Vmep-sm
-.	Z
-Sarkozy	Npmsn
-in	Cc
-Brown	Npmsn
-sta	Va-r3d-n
-na	Sl
-skupni	Agpfsl
-tiskovni	Agpfsl
-konferenci	Ncfsl
-v	Sl
-Londonu	Npmsl
-,	Z
-kamor	Cs
-je	Va-r3s-n
-francoski	Agpmsny
-predsednik	Ncmsn
-dopotoval	Vmpp-sm
-na	Sa
-uradni	Agpmsay
-obisk	Ncmsan
-,	Z
-pozdravila	Vmep-sf
-sodelovanje	Ncnsa
-med	Si
-Francijo	Npfsi
-in	Cc
-Veliko	Agpfsi
-Britanijo	Npfsi
-.	Z
-Voditelja	Ncmdn
-sta	Va-r3d-n
-izmenjala	Vmpp-dm
-tudi	Q
-svoje	Px-mpa
-poglede	Ncmpa
-na	Sa
-različna	Agpnpa
-vprašanja	Ncnpa
-,	Z
-kot	Cs
-so	Va-r3p-n
-gospodarstvo	Ncnsn
-,	Z
-jedrska	Agpfsn
-energija	Ncfsn
-in	Cc
-Bližnji	Agpmsny
-vzhod	Ncmsn
-.	Z
-Sarkozy	Npmsn
-se	Px------y
-je	Va-r3s-n
-sešel	Vmep-sm
-tudi	Q
-z	Si
-voditeljem	Ncmsi
-torijcev	Ncmpg
-Davidom	Npmsi
-Cameronom	Npmsi
-,	Z
-ki	Cs
-si	Px---d--y
-na	Sl
-bližajočih	Appfpl
-volitvah	Ncfpl
-obeta	Vmpr3s
-zmago	Ncfsa
-,	Z
-in	Cc
-izrazil	Vmep-sm
-obžalovanje	Ncnsa
-zaradi	Sg
-odločitve	Ncfsg
-konservativcev	Ncmpg
-,	Z
-da	Cs
-zapustijo	Vmer3p
-desno	Agpfsa
-sredinsko	Agpfsa
-skupino	Ncfsa
-v	Sl
-Evropskem	Agpmsl
-parlamentu	Ncmsl
-.	Z
-London	Npmsn
-nasprotuje	Vmpr3s
-direktivi	Ncfsd
-o	Sl
-upravljavcih	Ncmpl
-skladov	Ncmpg
-Glede	Sg
-nove	Agpfsg
-direktive	Ncfsg
-EU	Npfsg
--	Z
-ja	Q
-o	Sl
-upravljavcih	Ncmpl
-alternativnih	Agpmpg
-naložbenih	Agpmpg
-skladov	Ncmpg
-,	Z
-katere	Pq-msg
-namen	Ncmsn
-je	Va-r3s-n
-vzpostaviti	Vmen
-celovit	Agpmsan
-ter	Cc
-učinkovit	Agpmsan
-regulatorni	Agpmsay
-in	Cc
-nadzorni	Agpmsay
-okvir	Ncmsan
-za	Sa
-upravljavce	Ncmpa
-skladov	Ncmpg
-zasebnega	Agpmsg
-kapitala	Ncmsg
-in	Cc
-skladov	Ncmpg
-hedge	Ncmsn
-,	Z
-sta	Va-r3d-n
-se	Px------y
-strinjala	Vmpp-dm
-,	Z
-da	Cs
-je	Va-r3s-n
-mogoča	Agpfsn
-kompromisna	Agpfsn
-rešitev	Ncfsn
-.	Z
-Predlogu	Ncmsl
-direktive	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-Evropska	Agpfsn
-komisija	Ncfsn
-predstavila	Vmep-sf
-že	Q
-aprila	Ncmsg
-lani	Rgp
-,	Z
-najbolj	Rgs
-nasprotuje	Vmpr3s
-Velika	Agpfsn
-Britanija	Npfsn
-,	Z
-navdušeni	Appmpn
-niso	Va-r3p-y
-niti	Q
-v	Sl
-ZDA	Npfpl
-.	Z
-Skladi	Ncmpn
-iz	Sg
-tretjih	Mlofpg
-držav	Ncfpg
-na	Sa
-evropske	Agpmpa
-trge	Ncmpa
-po	Sl
-treh	Mlcnpl
-letih	Ncnpl
-V	Sl
-skladu	Ncmsl
-s	Si
-predlogom	Ncmsi
-direktive	Ncfsg
-bodo	Va-f3p-n
-morali	Vmpp-pm
-med	Si
-drugim	Mlpmsi
-vsi	Pg-mpn
-upravljavci	Ncmpn
-hedge	Ncmsn
-skladov	Ncmpg
-v	Sl
-EU	Npfsl
--	Z
-ju	Pp3mda--y
-za	Sa
-svoje	Px-nsa
-delovanje	Ncnsa
-dobiti	Vmen
-posebno	Agpnsa
-dovoljenje	Ncnsa
-in	Cc
-bodo	Va-f3p-n
-podvrženi	Appmpn
-harmoniziranim	Appmpd
-regulatornim	Agpmpd
-standardom	Ncmpd
-,	Z
-s	Si
-čimer	Pr-nsi
-naj	Q
-bi	Va-c
-odpravili	Vmep-pm
-pomanjkljivosti	Ncfpa
-v	Sl
-nacionalnih	Agpmpl
-regulatornih	Agpmpl
-okvirih	Ncmpl
-.	Z
-Hkrati	Rgp
-naj	Q
-bi	Va-c
-direktiva	Ncfsn
-upravljavcem	Ncmpd
-alternativnih	Agpmpg
-naložbenih	Agpmpg
-skladov	Ncmpg
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-registrirani	Appmpn
-v	Sl
-eni	Mlpfsl
-izmed	Sg
-držav	Ncfpg
-članic	Ncfpg
-EU	Npfsg
--	Z
-ja	Q
-in	Cc
-bodo	Va-f3p-n
-spoštovali	Vmpp-pm
-regulatorni	Agpmsay
-okvir	Ncmsan
-,	Z
-omogočila	Vmep-sf
-trženje	Ncnsa
-svojih	Px-mpg
-skladov	Ncmpg
-vlagateljem	Ncmpd
-povsod	Rgp
-po	Sl
-evropski	Agpfsl
-povezavi	Ncfsl
-.	Z
-Skladi	Ncmpn
-iz	Sg
-tretjih	Mlofpg
-držav	Ncfpg
-bodo	Va-f3p-n
-lahko	Rgp
-na	Sa
-trg	Ncmsan
-EU	Npfsg
--	Z
-ja	Q
-vstopili	Vmep-pm
-šele	Q
-po	Sl
-triletnem	Agpnsl
-prehodnem	Agpnsl
-obdobju	Ncnsl
-.	Z
-Nad	Si
-zadnjim	Agpnsi
-določilom	Ncnsi
-so	Va-r3p-n
-ogorčeni	Appmpn
-predvsem	Q
-v	Sl
-ZDA	Npfpl
-,	Z
-Veliko	Agpfsa
-Britanijo	Npfsa
-in	Cc
-londonski	Agpmsay
-City	Npmsan
-pa	Cc
-skrbi	Vmpr3s
-predvsem	Q
-to	Pd-nsn
-,	Z
-da	Cs
-bo	Va-f3s-n
-potni	Agpmsny
-list	Ncmsn
-za	Sa
-sklade	Ncmpa
-veljal	Vmpp-sm
-le	Q
-za	Sa
-tiste	Pd-mpa
-,	Z
-ki	Cs
-so	Va-r3p-n
-registrirani	Appmpn
-v	Sl
-EU	Npfsa
--	Z
-ju	Pp3mda--y
-.	Z
+token	tag	lemma
+Sarkozy	mte:Npmsn	Sarkozy
+ZDA	mte:Npfpg	ZDA
+govorijo	mte:Vmpr3p	govoriti
+eno	mte:Mlpfsa	en
+,	mte:Z	,
+delajo	mte:Vmpr3p	delati
+pa	mte:Cc	pa
+drugo	mte:Mlpnsn	drug
+Francoski	mte:Agpmsny	francoski
+predsednik	mte:Ncmsn	predsednik
+Nicolas	mte:Npmsn	Nicolas
+Sarkozy	mte:Npmsn	Sarkozy
+in	mte:Cc	in
+britanski	mte:Agpmsny	britanski
+premier	mte:Ncmsn	premier
+Gordan	mte:Npmsn	Gordan
+Brown	mte:Npmsn	Brown
+sta	mte:Va-r3d-n	biti
+skupno	mte:Rgp	skupno
+kritizirala	mte:Vmpp-dm	kritizirati
+ZDA	mte:Npfpg	ZDA
+zaradi	mte:Sg	zaradi
+protekcionizma	mte:Ncmsg	protekcionizem
+pri	mte:Sl	pri
+sklepanju	mte:Ncnsl	sklepanje
+pogodbe	mte:Ncfsg	pogodba
+o	mte:Sl	o
+zračnih	mte:Agpmpl	zračen
+tankerjih	mte:Ncmpl	tanker
+.	mte:Z	.
+Washington	mte:Npmsn	Washington
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+mnenju	mte:Ncnsl	mnenje
+omenjenih	mte:Appmpg	omenjen
+voditeljev	mte:Ncmpg	voditelj
+dajal	mte:Vmpp-sm	dajati
+očitno	mte:Agpfsa	očiten
+prednost	mte:Ncfsa	prednost
+Boeingu	mte:Npmsd	Boeing
+pred	mte:Si	pred
+navezo	mte:Ncfsi	naveza
+med	mte:Si	med
+ameriškim	mte:Agpnsi	ameriški
+podjetjem	mte:Ncnsi	podjetje
+Northrop	mte:Npmsn	Northrop
+Gruman	mte:Npmsi	Gruman
+in	mte:Cc	in
+Airbusom	mte:Npmsi	Airbus
+v	mte:Sl	v
+natečaju	mte:Ncmsl	natečaj
+za	mte:Sa	za
+izdelavo	mte:Ncfsa	izdelava
+zračnih	mte:Agpmpg	zračen
+tankerjev	mte:Ncmpg	tanker
+za	mte:Sa	za
+ameriške	mte:Agpfpa	ameriški
+zračne	mte:Agpfpa	zračen
+sile	mte:Ncfpa	sila
+.	mte:Z	.
+Northrop	mte:Npmsn	Northrop
+Gruman	mte:Npmsn	Gruman
+je	mte:Va-r3s-n	biti
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+odstopil	mte:Vmep-sm	odstopiti
+od	mte:Sg	od
+natečaja	mte:Ncmsg	natečaj
+.	mte:Z	.
+V	mte:Sl	v
+podjetju	mte:Ncnsl	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+35	mte:Mdc	35
+milijard	mte:Ncfpg	milijarda
+dolarjev	mte:Ncmpg	dolar
+vreden	mte:Agpmsnn	vreden
+posel	mte:Ncmsn	posel
+potegovalo	mte:Vmpp-sn	potegovati
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+evropskim	mte:Agpmsi	evropski
+Airbusom	mte:Npmsi	Airbus
+oziroma	mte:Cc	oziroma
+njegovim	mte:Ps3msism	njegov
+krovnim	mte:Agpmsi	kroven
+koncernom	mte:Ncmsi	koncern
+EADS	mte:Npmsn	EADS
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+izrazili	mte:Vmep-pm	izraziti
+prepričanje	mte:Ncnsa	prepričanje
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+razpis	mte:Ncmsn	razpis
+pisan	mte:Agpmsnn	pisan
+na	mte:Sa	na
+kožo	mte:Ncfsa	koža
+konkurenčnemu	mte:Agpnsd	konkurenčen
+ameriškemu	mte:Agpnsd	ameriški
+podjetju	mte:Ncnsd	podjetje
+Boeing	mte:Npmsn	Boeing
+.	mte:Z	.
+Sarkozy	mte:Npmsn	Sarkozy
+ZDA	mte:Npfpg	ZDA
+govorijo	mte:Vmpr3p	govoriti
+eno	mte:Mlpnsa	en
+,	mte:Z	,
+delajo	mte:Vmpr3p	delati
+pa	mte:Cc	pa
+drugo	mte:Mlpfsa	drug
+Priznam	mte:Vmer1s	priznati
+,	mte:Z	,
+da	mte:Cs	da
+mi	mte:Pp1-sd--y	jaz
+ta	mte:Pd-fsn	ta
+odločitev	mte:Ncfsn	odločitev
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+všeč	mte:Rgp	všeč
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+ni	mte:Va-r3s-y	biti
+pravi	mte:Agpmsny	pravi
+način	mte:Ncmsn	način
+.	mte:Z	.
+Gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+metode	mte:Ncfpa	metoda
+,	mte:Z	,
+ki	mte:Cs	ki
+niso	mte:Va-r3p-y	biti
+dobre	mte:Agpfpn	dober
+za	mte:Sa	za
+partnerje	mte:Ncmpa	partner
+ZDA	mte:Npfpg	ZDA
+,	mte:Z	,
+veliko	mte:Agpfsa	velik
+državo	mte:Ncfsa	država
+,	mte:Z	,
+s	mte:Si	z
+katero	mte:Pq-fsi	kateri
+imamo	mte:Vmpr1p-n	imeti
+bližnji	mte:Agpmsay	bližnji
+in	mte:Cc	in
+prijateljski	mte:Agpmsay	prijateljski
+odnos	mte:Ncmsan	odnos
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+povedal	mte:Vmep-sm	povedati
+francoski	mte:Agpmsny	francoski
+predsednik	mte:Ncmsn	predsednik
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+to	mte:Pd-nsn	ta
+ni	mte:Va-r3s-y	biti
+način	mte:Ncmsn	način
+,	mte:Z	,
+na	mte:Sa	na
+katerega	mte:Pq-msa	kateri
+ravnaš	mte:Vmpr2s	ravnati
+s	mte:Si	z
+partnerji	mte:Ncmpi	partner
+,	mte:Z	,
+hkrati	mte:Rgp	hkrati
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+Washington	mte:Npmsn	Washington
+okrcal	mte:Vmep-sm	okrcati
+,	mte:Z	,
+da	mte:Cs	da
+si	mte:Px---d--y	se
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+smel	mte:Vmpp-sm	smeti
+lastiti	mte:Vmpn	lastiti
+vodilne	mte:Agpfsg	vodilen
+vloge	mte:Ncfsg	vloga
+v	mte:Sl	v
+boju	mte:Ncmsl	boj
+proti	mte:Sd	proti
+protekcionizmu	mte:Ncmsd	protekcionizem
+,	mte:Z	,
+nato	mte:Rgp	nato
+pa	mte:Cc	pa
+ravnati	mte:Vmpn	ravnati
+drugače	mte:Rgp	drugače
+.	mte:Z	.
+Tudi	mte:Q	tudi
+Brown	mte:Npmsn	Brown
+je	mte:Va-r3s-n	biti
+razočaran	mte:Appmsnn	razočaran
+nad	mte:Si	nad
+razvojem	mte:Ncmsi	razvoj
+dogodkov	mte:Ncmpg	dogodek
+.	mte:Z	.
+Verjamemo	mte:Vmbr1p	verjeti
+v	mte:Sa	v
+svobodno	mte:Agpfsa	svoboden
+trgovino	mte:Ncfsa	trgovina
+,	mte:Z	,
+odprte	mte:Appmpa	odprt
+trge	mte:Ncmpa	trg
+in	mte:Cc	in
+odprto	mte:Appfsa	odprt
+konkurenco	mte:Ncfsa	konkurenca
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+.	mte:Z	.
+Sarkozy	mte:Npmsn	Sarkozy
+in	mte:Cc	in
+Brown	mte:Npmsn	Brown
+sta	mte:Va-r3d-n	biti
+na	mte:Sl	na
+skupni	mte:Agpfsl	skupen
+tiskovni	mte:Agpfsl	tiskoven
+konferenci	mte:Ncfsl	konferenca
+v	mte:Sl	v
+Londonu	mte:Npmsl	London
+,	mte:Z	,
+kamor	mte:Cs	kamor
+je	mte:Va-r3s-n	biti
+francoski	mte:Agpmsny	francoski
+predsednik	mte:Ncmsn	predsednik
+dopotoval	mte:Vmpp-sm	dopotovati
+na	mte:Sa	na
+uradni	mte:Agpmsay	uraden
+obisk	mte:Ncmsan	obisk
+,	mte:Z	,
+pozdravila	mte:Vmep-sf	pozdraviti
+sodelovanje	mte:Ncnsa	sodelovanje
+med	mte:Si	med
+Francijo	mte:Npfsi	Francija
+in	mte:Cc	in
+Veliko	mte:Agpfsi	velik
+Britanijo	mte:Npfsi	Britanija
+.	mte:Z	.
+Voditelja	mte:Ncmdn	voditelj
+sta	mte:Va-r3d-n	biti
+izmenjala	mte:Vmpp-dm	izmenjati
+tudi	mte:Q	tudi
+svoje	mte:Px-mpa	svoj
+poglede	mte:Ncmpa	pogled
+na	mte:Sa	na
+različna	mte:Agpnpa	različen
+vprašanja	mte:Ncnpa	vprašanje
+,	mte:Z	,
+kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+gospodarstvo	mte:Ncnsn	gospodarstvo
+,	mte:Z	,
+jedrska	mte:Agpfsn	jedrski
+energija	mte:Ncfsn	energija
+in	mte:Cc	in
+Bližnji	mte:Agpmsny	bližnji
+vzhod	mte:Ncmsn	vzhod
+.	mte:Z	.
+Sarkozy	mte:Npmsn	Sarkozy
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+sešel	mte:Vmep-sm	sešeti
+tudi	mte:Q	tudi
+z	mte:Si	z
+voditeljem	mte:Ncmsi	voditelj
+torijcev	mte:Ncmpg	torijec
+Davidom	mte:Npmsi	David
+Cameronom	mte:Npmsi	Cameron
+,	mte:Z	,
+ki	mte:Cs	ki
+si	mte:Px---d--y	se
+na	mte:Sl	na
+bližajočih	mte:Appfpl	bližajoč
+volitvah	mte:Ncfpl	volitev
+obeta	mte:Vmpr3s	obetati
+zmago	mte:Ncfsa	zmaga
+,	mte:Z	,
+in	mte:Cc	in
+izrazil	mte:Vmep-sm	izraziti
+obžalovanje	mte:Ncnsa	obžalovanje
+zaradi	mte:Sg	zaradi
+odločitve	mte:Ncfsg	odločitev
+konservativcev	mte:Ncmpg	konservativec
+,	mte:Z	,
+da	mte:Cs	da
+zapustijo	mte:Vmer3p	zapustiti
+desno	mte:Agpfsa	desen
+sredinsko	mte:Agpfsa	sredinski
+skupino	mte:Ncfsa	skupina
+v	mte:Sl	v
+Evropskem	mte:Agpmsl	evropski
+parlamentu	mte:Ncmsl	parlament
+.	mte:Z	.
+London	mte:Npmsn	London
+nasprotuje	mte:Vmpr3s	nasprotovati
+direktivi	mte:Ncfsd	direktiva
+o	mte:Sl	o
+upravljavcih	mte:Ncmpl	upravljavec
+skladov	mte:Ncmpg	sklad
+Glede	mte:Sg	glede
+nove	mte:Agpfsg	nov
+direktive	mte:Ncfsg	direktiva
+EU	mte:Npfsg	EU
+-	mte:Z	-
+ja	mte:Q	ja
+o	mte:Sl	o
+upravljavcih	mte:Ncmpl	upravljavec
+alternativnih	mte:Agpmpg	alternativen
+naložbenih	mte:Agpmpg	naložben
+skladov	mte:Ncmpg	sklad
+,	mte:Z	,
+katere	mte:Pq-msg	kateri
+namen	mte:Ncmsn	namen
+je	mte:Va-r3s-n	biti
+vzpostaviti	mte:Vmen	vzpostaviti
+celovit	mte:Agpmsan	celovit
+ter	mte:Cc	ter
+učinkovit	mte:Agpmsan	učinkovit
+regulatorni	mte:Agpmsay	regulatoren
+in	mte:Cc	in
+nadzorni	mte:Agpmsay	nadzoren
+okvir	mte:Ncmsan	okvir
+za	mte:Sa	za
+upravljavce	mte:Ncmpa	upravljavec
+skladov	mte:Ncmpg	sklad
+zasebnega	mte:Agpmsg	zaseben
+kapitala	mte:Ncmsg	kapital
+in	mte:Cc	in
+skladov	mte:Ncmpg	sklad
+hedge	mte:Ncmsn	hedga
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+se	mte:Px------y	se
+strinjala	mte:Vmpp-dm	strinjati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+mogoča	mte:Agpfsn	mogoč
+kompromisna	mte:Agpfsn	kompromisen
+rešitev	mte:Ncfsn	rešitev
+.	mte:Z	.
+Predlogu	mte:Ncmsl	predlog
+direktive	mte:Ncfsg	direktiva
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+Evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+predstavila	mte:Vmep-sf	predstaviti
+že	mte:Q	že
+aprila	mte:Ncmsg	april
+lani	mte:Rgp	lani
+,	mte:Z	,
+najbolj	mte:Rgs	najbolj
+nasprotuje	mte:Vmpr3s	nasprotovati
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+,	mte:Z	,
+navdušeni	mte:Appmpn	navdušen
+niso	mte:Va-r3p-y	biti
+niti	mte:Q	niti
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+.	mte:Z	.
+Skladi	mte:Ncmpn	sklad
+iz	mte:Sg	iz
+tretjih	mte:Mlofpg	tretji
+držav	mte:Ncfpg	država
+na	mte:Sa	na
+evropske	mte:Agpmpa	evropski
+trge	mte:Ncmpa	trg
+po	mte:Sl	po
+treh	mte:Mlcnpl	trije
+letih	mte:Ncnpl	leto
+V	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+predlogom	mte:Ncmsi	predlog
+direktive	mte:Ncfsg	direktiva
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+med	mte:Si	med
+drugim	mte:Mlpmsi	drug
+vsi	mte:Pg-mpn	ves
+upravljavci	mte:Ncmpn	upravljavec
+hedge	mte:Ncmsn	hedga
+skladov	mte:Ncmpg	sklad
+v	mte:Sl	v
+EU	mte:Npfsl	EU
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+za	mte:Sa	za
+svoje	mte:Px-nsa	svoj
+delovanje	mte:Ncnsa	delovanje
+dobiti	mte:Vmen	dobiti
+posebno	mte:Agpnsa	poseben
+dovoljenje	mte:Ncnsa	dovoljenje
+in	mte:Cc	in
+bodo	mte:Va-f3p-n	biti
+podvrženi	mte:Appmpn	podvržen
+harmoniziranim	mte:Appmpd	harmoniziran
+regulatornim	mte:Agpmpd	regulatoren
+standardom	mte:Ncmpd	standard
+,	mte:Z	,
+s	mte:Si	z
+čimer	mte:Pr-nsi	kar
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+odpravili	mte:Vmep-pm	odpraviti
+pomanjkljivosti	mte:Ncfpa	pomanjkljivost
+v	mte:Sl	v
+nacionalnih	mte:Agpmpl	nacionalen
+regulatornih	mte:Agpmpl	regulatoren
+okvirih	mte:Ncmpl	okvir
+.	mte:Z	.
+Hkrati	mte:Rgp	hkrati
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+direktiva	mte:Ncfsn	direktiva
+upravljavcem	mte:Ncmpd	upravljavec
+alternativnih	mte:Agpmpg	alternativen
+naložbenih	mte:Agpmpg	naložben
+skladov	mte:Ncmpg	sklad
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+registrirani	mte:Appmpn	registriran
+v	mte:Sl	v
+eni	mte:Mlpfsl	en
+izmed	mte:Sg	izmed
+držav	mte:Ncfpg	država
+članic	mte:Ncfpg	članica
+EU	mte:Npfsg	EU
+-	mte:Z	-
+ja	mte:Q	ja
+in	mte:Cc	in
+bodo	mte:Va-f3p-n	biti
+spoštovali	mte:Vmpp-pm	spoštovati
+regulatorni	mte:Agpmsay	regulatoren
+okvir	mte:Ncmsan	okvir
+,	mte:Z	,
+omogočila	mte:Vmep-sf	omogočiti
+trženje	mte:Ncnsa	trženje
+svojih	mte:Px-mpg	svoj
+skladov	mte:Ncmpg	sklad
+vlagateljem	mte:Ncmpd	vlagatelj
+povsod	mte:Rgp	povsod
+po	mte:Sl	po
+evropski	mte:Agpfsl	evropski
+povezavi	mte:Ncfsl	povezava
+.	mte:Z	.
+Skladi	mte:Ncmpn	sklad
+iz	mte:Sg	iz
+tretjih	mte:Mlofpg	tretji
+držav	mte:Ncfpg	država
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+na	mte:Sa	na
+trg	mte:Ncmsan	trg
+EU	mte:Npfsg	EU
+-	mte:Z	-
+ja	mte:Q	ja
+vstopili	mte:Vmep-pm	vstopiti
+šele	mte:Q	šele
+po	mte:Sl	po
+triletnem	mte:Agpnsl	trileten
+prehodnem	mte:Agpnsl	prehoden
+obdobju	mte:Ncnsl	obdobje
+.	mte:Z	.
+Nad	mte:Si	nad
+zadnjim	mte:Agpnsi	zadnji
+določilom	mte:Ncnsi	določilo
+so	mte:Va-r3p-n	biti
+ogorčeni	mte:Appmpn	ogorčen
+predvsem	mte:Q	predvsem
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+Veliko	mte:Agpfsa	velik
+Britanijo	mte:Npfsa	Britanija
+in	mte:Cc	in
+londonski	mte:Agpmsay	londonski
+City	mte:Npmsan	City
+pa	mte:Cc	pa
+skrbi	mte:Vmpr3s	skrbeti
+predvsem	mte:Q	predvsem
+to	mte:Pd-nsn	ta
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+potni	mte:Agpmsny	poten
+list	mte:Ncmsn	list
+za	mte:Sa	za
+sklade	mte:Ncmpa	sklad
+veljal	mte:Vmpp-sm	veljati
+le	mte:Q	le
+za	mte:Sa	za
+tiste	mte:Pd-mpa	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+registrirani	mte:Appmpn	registriran
+v	mte:Sl	v
+EU	mte:Npfsa	EU
+-	mte:Z	-
+ju	mte:Pp3mda--y	on
+.	mte:Z	.
+V	mte:Sl	v
+Cityju	mte:Npmsl	City
+,	mte:Z	,
+največjem	mte:Agsnsl	velik
+evropskem	mte:Agpnsl	evropski
+finančnem	mte:Agpnsl	finančen
+središču	mte:Ncnsl	središče
+,	mte:Z	,
+namreč	mte:Cc	namreč
+deluje	mte:Vmpr3s	delovati
+množica	mte:Ncfsn	množica
+skladov	mte:Ncmpg	sklad
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+iz	mte:Sg	iz
+davčnih	mte:Agpmpg	davčen
+razlogov	mte:Ncmpg	razlog
+registrirani	mte:Appmpn	registriran
+zunaj	mte:Sg	zunaj
+Unije	mte:Ncfsg	unija

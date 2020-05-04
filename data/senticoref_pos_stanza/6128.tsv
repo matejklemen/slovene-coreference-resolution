@@ -1,224 +1,264 @@
-token	tag
-Tveganja	Ncnpg
-proračuna	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-danes	Rgp
-sprejema	Vmpr3s
-državni	Agpmsny
-zbor	Ncmsn
-in	Cc
-ga	Pp3msa--y
-bo	Va-f3s-n
-jutri	Rgp
-ocenila	Vmep-sf
-evropska	Agpfsn
-komisija	Ncfsn
-,	Z
-preverjajo	Vmpr3p
-Albina	Npfsn
-Kenda	Npfsn
-,	Z
-Monika	Npfsn
-We	Xf
-.	Z
-.	Z
-.	Z
-Tveganja	Ncnsg
-proračuna	Ncmsg
-,	Z
-ki	Cs
-ga	Pp3msa--y
-danes	Rgp
-sprejema	Vmpr3s
-državni	Agpmsny
-zbor	Ncmsn
-in	Cc
-ga	Pp3msa--y
-bo	Va-f3s-n
-jutri	Rgp
-ocenila	Vmep-sf
-evropska	Agpfsn
-komisija	Ncfsn
-,	Z
-preverjajo	Vmpr3p
-Albina	Npfsn
-Kenda	Npfsn
-,	Z
-Monika	Npfsn
-Weiss	Npfsn
-in	Cc
-Karel	Npmsn
-Lipnik	Npmsn
-.	Z
-In	Cc
-medtem	Rgp
-ko	Cs
-v	Sl
-DZ	Npfsl
-premlevajo	Vmpr3p
-državni	Agpmsay
-proračun	Ncmsan
-,	Z
-preverjamo	Vmpr1p
-,	Z
-kakšni	Pq-mpn
-bodo	Va-f3p-n
-proračuni	Ncmpn
-podjetij	Ncnpg
-v	Sl
-prihodnjem	Agpnsl
-letu	Ncnsl
-.	Z
-Kdo	Pq-msn
-bo	Va-f3s-n
-zaposloval	Vmpp-sm
-,	Z
-kdo	Pq-msn
-investiral	Vmbp-sm
-,	Z
-skratka	Rgp
-,	Z
-kdo	Pq-msn
-bo	Va-f3s-n
-car	Ncmsn
-prihodnjega	Agpnsg
-leta	Ncnsg
-,	Z
-preverjajo	Vmpr3p
-novinarke	Ncfpa
-(	Z
-na	Sl
-sliki	Ncfsl
-od	Sg
-leve	Ncfsg
-proti	Sd
-desni	Agpfsd
-)	Z
-Mateja	Npfsn
-Bertoncelj	Npmsn
-,	Z
-Špela	Npfsn
-Mikuš	Npfsn
-,	Z
-Nataša	Npfsn
-Koražija	Npfsn
-in	Cc
-Lana	Npfsn
-Dakić	Npfsn
-.	Z
-Novinarsko	Agpfsa
-konferenco	Ncfsa
-prvaka	Ncmsg
-SDS	Npfsg
-Janeza	Npmsg
-Janše	Npfsg
-bo	Va-f3s-n
-ob	Sl
-12	Mdc
-.	Z
-uri	Ncfsl
-v	Sa
-živo	Ncfsa
-spremljal	Vmpp-sm
-Jernej	Npmsn
-Kosec	Npmsn
-.	Z
-Današnje	Agpnsa
-dogajanje	Ncnsa
-v	Sl
-državnem	Agpmsl
-zboru	Ncmsl
-,	Z
-kjer	Cs
-bodo	Va-f3p-n
-poslanci	Ncmpn
-glasovali	Vmbp-pm
-o	Sl
-zaupnici	Ncfsl
-vladi	Ncfsl
-ter	Cc
-zakonih	Ncmpl
-o	Sl
-bančništvu	Ncnsl
-in	Cc
-dohodnini	Ncfsl
-,	Z
-bosta	Va-f3d-n
-spremljala	Vmpp-dm
-Andreja	Npmsn
-Lončar	Npmsn
-in	Cc
-Blažej	Npmsn
-Kupec	Npmsn
-.	Z
-Rezultate	Ncmpa
-poslovanja	Ncnsg
-Krke	Npfsg
-in	Cc
-Intereurope	Npmpa
-bosta	Va-f3d-n
-analizirala	Vmbp-dm
-Karel	Npmsn
-Lipnik	Npmsn
-in	Cc
-Jure	Npmsn
-Ugovšek	Npmsn
-.	Z
-Svetovalka	Ncfsn
-za	Sa
-komuniciranje	Ncnsa
-v	Sl
-NKBM	Npfsl
-Karidia	Npfsn
-Toure	Npmsn
-Zagrajšek	Npmsn
-in	Cc
-dnevni	Agpmsny
-urednik	Ncmsn
-Jurij	Npmsn
-Šimac	Npmsn
-Finance	Npmsn
-Weekend	Npmsn
-:	Z
-Jaka	Npmsn
-Vadnjal	Npmsn
-,	Z
-dekan	Ncmsn
-GEA	Npmsn
-College	Npmsn
--	Z
-Fakultete	Ncfsg
-za	Sa
-podjetništvo	Ncnsa
-je	Va-r3s-n
-za	Sa
-petkovo	Aspfsa
-prilogo	Ncfsa
-Finance	Npmpn
-Weekend	Npmsn
-sestavil	Vmep-sm
-hiter	Agpmsnn
-test	Ncmsn
-za	Sa
-podjetnike	Ncmpa
-,	Z
-s	Si
-katerim	Pq-msi
-lahko	Rgp
-ugotovite	Vmer2p
-,	Z
-ali	Rgp
-je	Va-r3s-n
-vaše	Ps2nsnp
-podjetje	Ncnsn
-v	Sl
-krizi	Ncfsl
-in	Cc
-če	Cs
-da	Cs
-,	Z
-kako	Rgp
-hudi	Agpmpn
-.	Z
+token	tag	lemma
+Tveganja	mte:Ncnpg	tveganje
+proračuna	mte:Ncmsg	proračun
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+danes	mte:Rgp	danes
+sprejema	mte:Vmpr3s	sprejemati
+državni	mte:Agpmsny	državen
+zbor	mte:Ncmsn	zbor
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+jutri	mte:Rgp	jutri
+ocenila	mte:Vmep-sf	oceniti
+evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+,	mte:Z	,
+preverjajo	mte:Vmpr3p	preverjati
+Albina	mte:Npfsn	Albina
+Kenda	mte:Npfsn	Kend
+,	mte:Z	,
+Monika	mte:Npfsn	Monika
+We	mte:Xf	We
+.	mte:Z	.
+.	mte:Z	.
+.	mte:Z	.
+Tveganja	mte:Ncnsg	tveganje
+proračuna	mte:Ncmsg	proračun
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+danes	mte:Rgp	danes
+sprejema	mte:Vmpr3s	sprejemati
+državni	mte:Agpmsny	državen
+zbor	mte:Ncmsn	zbor
+in	mte:Cc	in
+ga	mte:Pp3msa--y	on
+bo	mte:Va-f3s-n	biti
+jutri	mte:Rgp	jutri
+ocenila	mte:Vmep-sf	oceniti
+evropska	mte:Agpfsn	evropski
+komisija	mte:Ncfsn	komisija
+,	mte:Z	,
+preverjajo	mte:Vmpr3p	preverjati
+Albina	mte:Npfsn	Albina
+Kenda	mte:Npfsn	Kend
+,	mte:Z	,
+Monika	mte:Npfsn	Monika
+Weiss	mte:Npfsn	Weiss
+in	mte:Cc	in
+Karel	mte:Npmsn	Karel
+Lipnik	mte:Npmsn	Lipnik
+.	mte:Z	.
+In	mte:Cc	in
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+v	mte:Sl	v
+DZ	mte:Npfsl	DZ
+premlevajo	mte:Vmpr3p	premlevati
+državni	mte:Agpmsay	državen
+proračun	mte:Ncmsan	proračun
+,	mte:Z	,
+preverjamo	mte:Vmpr1p	preverjati
+,	mte:Z	,
+kakšni	mte:Pq-mpn	kakšen
+bodo	mte:Va-f3p-n	biti
+proračuni	mte:Ncmpn	proračun
+podjetij	mte:Ncnpg	podjetje
+v	mte:Sl	v
+prihodnjem	mte:Agpnsl	prihodnji
+letu	mte:Ncnsl	leto
+.	mte:Z	.
+Kdo	mte:Pq-msn	kdo
+bo	mte:Va-f3s-n	biti
+zaposloval	mte:Vmpp-sm	zaposlovati
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+investiral	mte:Vmbp-sm	investirati
+,	mte:Z	,
+skratka	mte:Rgp	skratka
+,	mte:Z	,
+kdo	mte:Pq-msn	kdo
+bo	mte:Va-f3s-n	biti
+car	mte:Ncmsn	car
+prihodnjega	mte:Agpnsg	prihodnji
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+preverjajo	mte:Vmpr3p	preverjati
+novinarke	mte:Ncfpa	novinarka
+(	mte:Z	(
+na	mte:Sl	na
+sliki	mte:Ncfsl	slika
+od	mte:Sg	od
+leve	mte:Ncfsg	lev
+proti	mte:Sd	proti
+desni	mte:Agpfsd	desen
+)	mte:Z	)
+Mateja	mte:Npfsn	Mateja
+Bertoncelj	mte:Npmsn	Bertoncelj
+,	mte:Z	,
+Špela	mte:Npfsn	Špel
+Mikuš	mte:Npfsn	Mikuš
+,	mte:Z	,
+Nataša	mte:Npfsn	Nataša
+Koražija	mte:Npfsn	Koražija
+in	mte:Cc	in
+Lana	mte:Npfsn	Lana
+Dakić	mte:Npfsn	Dakić
+.	mte:Z	.
+Novinarsko	mte:Agpfsa	novinarski
+konferenco	mte:Ncfsa	konferenca
+prvaka	mte:Ncmsg	prvak
+SDS	mte:Npfsg	SDS
+Janeza	mte:Npmsg	Janez
+Janše	mte:Npfsg	Janše
+bo	mte:Va-f3s-n	biti
+ob	mte:Sl	ob
+12	mte:Mdc	12
+.	mte:Z	.
+uri	mte:Ncfsl	ura
+v	mte:Sa	v
+živo	mte:Ncfsa	živo
+spremljal	mte:Vmpp-sm	spremljati
+Jernej	mte:Npmsn	Jernej
+Kosec	mte:Npmsn	Kosec
+.	mte:Z	.
+Današnje	mte:Agpnsa	današnji
+dogajanje	mte:Ncnsa	dogajanje
+v	mte:Sl	v
+državnem	mte:Agpmsl	državen
+zboru	mte:Ncmsl	zbor
+,	mte:Z	,
+kjer	mte:Cs	kjer
+bodo	mte:Va-f3p-n	biti
+poslanci	mte:Ncmpn	poslanec
+glasovali	mte:Vmbp-pm	glasovati
+o	mte:Sl	o
+zaupnici	mte:Ncfsl	zaupnica
+vladi	mte:Ncfsl	vlada
+ter	mte:Cc	ter
+zakonih	mte:Ncmpl	zakon
+o	mte:Sl	o
+bančništvu	mte:Ncnsl	bančništvo
+in	mte:Cc	in
+dohodnini	mte:Ncfsl	dohodnina
+,	mte:Z	,
+bosta	mte:Va-f3d-n	biti
+spremljala	mte:Vmpp-dm	spremljati
+Andreja	mte:Npmsn	Andreja
+Lončar	mte:Npmsn	lončar
+in	mte:Cc	in
+Blažej	mte:Npmsn	Blažej
+Kupec	mte:Npmsn	Kupec
+.	mte:Z	.
+Rezultate	mte:Ncmpa	rezultat
+poslovanja	mte:Ncnsg	poslovanje
+Krke	mte:Npfsg	Krka
+in	mte:Cc	in
+Intereurope	mte:Npmpa	Intereurope
+bosta	mte:Va-f3d-n	biti
+analizirala	mte:Vmbp-dm	analizirati
+Karel	mte:Npmsn	Karel
+Lipnik	mte:Npmsn	Lipnik
+in	mte:Cc	in
+Jure	mte:Npmsn	Jure
+Ugovšek	mte:Npmsn	Ugovšek
+.	mte:Z	.
+Svetovalka	mte:Ncfsn	svetovalka
+za	mte:Sa	za
+komuniciranje	mte:Ncnsa	komuniciranje
+v	mte:Sl	v
+NKBM	mte:Npfsl	NKBM
+Karidia	mte:Npfsn	Karidia
+Toure	mte:Npmsn	Toure
+Zagrajšek	mte:Npmsn	Zagrajšek
+in	mte:Cc	in
+dnevni	mte:Agpmsny	dneven
+urednik	mte:Ncmsn	urednik
+Jurij	mte:Npmsn	Jurij
+Šimac	mte:Npmsn	Šimac
+Finance	mte:Npmsn	Finance
+Weekend	mte:Npmsn	Weekend
+:	mte:Z	:
+Jaka	mte:Npmsn	Jaka
+Vadnjal	mte:Npmsn	Vadnjal
+,	mte:Z	,
+dekan	mte:Ncmsn	dekan
+GEA	mte:Npmsn	GEA
+College	mte:Npmsn	College
+-	mte:Z	-
+Fakultete	mte:Ncfsg	fakulteta
+za	mte:Sa	za
+podjetništvo	mte:Ncnsa	podjetništvo
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+petkovo	mte:Aspfsa	petkov
+prilogo	mte:Ncfsa	priloga
+Finance	mte:Npmpn	Finance
+Weekend	mte:Npmsn	Weekend
+sestavil	mte:Vmep-sm	sestaviti
+hiter	mte:Agpmsnn	hiter
+test	mte:Ncmsn	test
+za	mte:Sa	za
+podjetnike	mte:Ncmpa	podjetnik
+,	mte:Z	,
+s	mte:Si	z
+katerim	mte:Pq-msi	kateri
+lahko	mte:Rgp	lahko
+ugotovite	mte:Vmer2p	ugotoviti
+,	mte:Z	,
+ali	mte:Rgp	ali
+je	mte:Va-r3s-n	biti
+vaše	mte:Ps2nsnp	vaš
+podjetje	mte:Ncnsn	podjetje
+v	mte:Sl	v
+krizi	mte:Ncfsl	kriza
+in	mte:Cc	in
+če	mte:Cs	če
+da	mte:Cs	da
+,	mte:Z	,
+kako	mte:Rgp	kako
+hudi	mte:Agpmsny	hud
+.	mte:Z	.
+Iztok	mte:Npmsn	Iztok
+Hočevar	mte:Npmsn	Hočevar
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Amsterdamu	mte:Npmsl	Amsterdam
+izvedel	mte:Vmep-sm	izvedeti
+,	mte:Z	,
+zakaj	mte:Rgp	zakaj
+se	mte:Px------y	se
+v	mte:Sl	v
+BMW	mte:Npmsl	BMW
+v	mte:Sl	v
+resnici	mte:Ncfsl	resnica
+bojijo	mte:Vmpr3p	bati
+Googla	mte:Npmsg	Googl
+in	mte:Cc	in
+ne	mte:Cc	ne
+avtokonkurence	mte:Ncfpg	avtokonkurenca
+,	mte:Z	,
+Špela	mte:Npfsn	Špel
+Mikuš	mte:Npfsn	Mikuš
+na	mte:Sl	na
+eni	mte:Mlpfsl	en
+od	mte:Sg	od
+ljubljanskih	mte:Agpfpg	ljubljanski
+gimnazij	mte:Ncfpg	gimnazija
+pa	mte:Cc	pa
+,	mte:Z	,
+da	mte:Cs	da
+tudi	mte:Q	tudi
+slovenski	mte:Agpmpn	slovenski
+dijaki	mte:Ncmpn	dijak
+lahko	mte:Rgp	lahko
+letijo	mte:Vmpr3p	leteti
+v	mte:Sa	v
+vesolje	mte:Ncnsa	vesolje
+in	mte:Cc	in
+raziskujejo	mte:Vmpr3p	raziskovati
+morsko	mte:Agpnsa	morski
+dno	mte:Ncnsa	dan

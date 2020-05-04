@@ -1,388 +1,448 @@
-token	tag
-Na	Sl
-simboličnih	Agpfpl
-ameriških	Agpfpl
-predsedniških	Agpfpl
-volitev	Ncfpl
-,	Z
-ki	Cs
-ga	Pp3msa--y
-je	Va-r3s-n
-pripravilo	Vmep-sn
-ameriško	Agpnsn
-veleposlaništvo	Ncnsn
-v	Sl
-Sloveniji	Npfsl
-,	Z
-je	Va-r3s-n
-prepričljivo	Rgp
-zmagal	Vmep-sm
-Barack	Npmsn
-Obama	Npmsn
-Na	Sl
-pravih	Agpfpl
-volitvah	Ncfpl
-v	Sl
-Ljubljani	Npfsl
-glasovalo	Vmbp-sn
-150	Mdc
-Američanov	Npmpg
-Na	Sl
-veleposlaništvu	Ncnsl
-ZDA	Npfpg
-v	Sl
-Sloveniji	Npfsl
-so	Va-r3p-n
-pripravili	Vmep-pm
-tudi	Q
-volitve	Ncfpa
-za	Sa
-ameriške	Agpmpa
-državljane	Ncmpa
-,	Z
-ki	Cs
-živijo	Vmpr3p
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Za	Sa
-predsedniške	Agpmpa
-kandidate	Ncmpa
-je	Va-r3s-n
-glasove	Ncmpa
-oddalo	Vmep-sn
-približno	Rgp
-150	Mdc
-ameriških	Agpmpg
-državljanov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-registrirali	Vmbp-pm
-za	Sa
-volitve	Ncfpa
-.	Z
-Kot	Cs
-so	Va-r3p-n
-pojasnili	Vmep-pm
-na	Sl
-veleposlaništvu	Ncnsl
-,	Z
-so	Va-r3p-n
-poleg	Sg
-tega	Pd-nsg
-ameriški	Agpmpn
-državljani	Ncmpn
-v	Sl
-Sloveniji	Npfsl
-svoje	Px-mpa
-glasove	Ncmpa
-oddali	Vmep-pm
-tudi	Q
-po	Sl
-pošti	Ncfsl
-.	Z
-Ameriško	Agpnsn
-veleposlaništvo	Ncnsn
-v	Sl
-Sloveniji	Npfsl
-je	Va-r3s-n
-nocoj	Rgp
-predsedniške	Agpfpa
-volitve	Ncfpa
-v	Sl
-ZDA	Npfpl
-obeležilo	Vmep-sn
-s	Si
-sprejemom	Ncmsi
-v	Sl
-Ljubljani	Npfsl
-,	Z
-na	Sl
-katerem	Pq-msl
-je	Va-r3s-n
-zbrane	Appfpa
-nagovoril	Vmep-sm
-veleposlanik	Ncmsn
-Yousif	Npmsn
-Ghafari	Npmsn
-.	Z
-Veleposlaništvo	Ncnsn
-je	Va-r3s-n
-pripravilo	Vmep-sn
-tudi	Q
-simbolične	Agpfpa
-volitve	Ncfpn
-,	Z
-na	Sl
-katerih	Pq-mpl
-je	Va-r3s-n
-največ	Rgs
-glasov	Ncmpg
-,	Z
-153	Mdc
-,	Z
-zbral	Vmep-sm
-demokratski	Agpmsny
-kandidat	Ncmsn
-Barack	Npmsn
-Obama	Npmsn
-.	Z
-Kot	Cs
-so	Va-r3p-n
-še	Q
-pokazali	Vmep-pm
-izidi	Ncmpn
-"	Z
-volitev	Ncfpg
-"	Z
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-jih	Pp3mpa--y
-lahko	Rgp
-udeležili	Vmep-pm
-udeleženci	Ncmpn
-sprejema	Ncmsg
-,	Z
-je	Va-r3s-n
-za	Sa
-republikanskega	Agpmsa
-protikandidata	Ncmsay
-Obame	Npmsg
-Johna	Npmsg
-McCaina	Npmsg
-glasovalo	Vmbp-sn
-29	Mdc
-udeležencev	Ncmpg
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-Ralph	Npmsn
-Nader	Npmsn
-zbral	Vmep-sm
-dva	Mlcmda
-glasova	Ncmda
-.	Z
-Veleposlaništvo	Ncnsa
-ZDA	Npfpg
-v	Sl
-Ljubljani	Npfsl
-je	Va-r3s-n
-s	Si
-srečanjem	Ncnsi
-v	Sl
-ljubljanskem	Agpnsl
-Grand	Npmsl
-Hotelu	Ncnsl
-Union	Npmsn
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-ga	Pp3msa--y
-udeležili	Vmep-pm
-številni	Agpmpn
-predstavniki	Ncmpn
-iz	Sg
-sveta	Ncmsg
-politike	Ncfsg
-,	Z
-gospodarstva	Ncnsg
-in	Cc
-kulture	Ncfsg
-,	Z
-posvetilo	Vmep-sn
-prav	Q
-ameriškim	Agpfpd
-predsedniškim	Agpfpd
-volitvam	Ncfpd
-in	Cc
-zato	Cc
-pripravilo	Vmep-sn
-tudi	Q
-več	Rgc
-video	Ncmsn
-prispevkov	Ncmpg
-na	Sa
-to	Pd-fsa
-temo	Ncfsa
-.	Z
-"	Z
-Razburljiv	Agpmsnn
-čas	Ncmsn
-za	Sa
-Američane	Npmpa
-in	Cc
-zanimiv	Agpmsnn
-za	Sa
-cel	Agpmsan
-svet	Ncmsan
-"	Z
-Kot	Cs
-je	Va-r3s-n
-v	Sl
-nagovoru	Ncmsl
-dejal	Vmep-sm
-ameriški	Agpmsny
-veleposlanik	Ncmsn
-Ghafari	Npmsn
-,	Z
-je	Va-r3s-n
-čas	Ncmsn
-tokratnih	Agpfpg
-volitev	Ncfpg
-za	Sa
-vse	Pg-mpa
-Američane	Npmpa
-zelo	Rgp
-razburljiv	Agpmsnn
-,	Z
-za	Sa
-preostali	Appmsay
-svet	Ncmsan
-pa	Cc
-nedvomno	Rgp
-zanimiv	Agpmsnn
-.	Z
-Dodal	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-bila	Va-p-sf
-tokratna	Agpfsn
-kampanja	Ncfsn
-za	Sa
-volitve	Ncfpa
-,	Z
-na	Sl
-katerih	Pq-mpl
-Američani	Npmpn
-izbirajo	Vmpr3p
-44	Mdc
-.	Z
-predsednika	Ncmsg
-ZDA	Npfpg
-,	Z
-ena	Mlpfsn
-najdaljših	Agsmpg
-,	Z
-kar	Pr-nsn
-pomni	Vmpr3s
-in	Cc
-zagotovo	Rgp
-ena	Mlpfsn
-najostrejših	Agsmpg
-.	Z
-"	Z
-Ne	Q
-glede	Rgp
-na	Sa
-izid	Ncmsan
-bo	Va-f3s-n
-rezultat	Ncmsn
-prvi	Mlomsn
-za	Sa
-našo	Ps1fsap
-državo	Ncfsa
-.	Z
-Ali	Rgp
-bomo	Va-f1p-n
-imeli	Vmpp-pm
-prvega	Mlomsa
-predsednika	Ncmsay
-afroameriškega	Agpnsg
-porekla	Ncnsg
-ali	Cc
-pa	Cc
-prvo	Mlofsa
-podpredsednico	Ncfsa
-,	Z
-"	Z
-je	Va-r3s-n
-še	Q
-dejal	Vmep-sm
-veleposlanik	Ncmsn
-.	Z
-Bush	Npmsn
-se	Px------y
-bo	Va-f3s-n
-,	Z
-tako	Rgp
-kot	Cs
-ostali	Appmpn
-,	Z
-poslovil	Vmep-sm
-20	Mdc
-.	Z
-januarja	Ncmsg
-Veleposlanik	Npmsn
-Ghafari	Npmsn
-je	Va-r3s-n
-spregovoril	Vmep-sm
-še	Q
-o	Sl
-zapletenem	Agpmsl
-volilnem	Agpmsl
-procesu	Ncmsl
-v	Sl
-ZDA	Npfpl
-,	Z
-zaradi	Sg
-katerega	Pq-msg
-so	Va-r3p-n
-včasih	Rgp
-zbegani	Appmpn
-celo	Q
-Američani	Npmpn
-,	Z
-skrivnosten	Agpmsnn
-pa	Cc
-se	Px------y
-zdi	Vmpr3s
-tudi	Q
-tujim	Agpfpd
-državam	Ncfpd
-.	Z
-Posebej	Rgp
-pa	Cc
-je	Va-r3s-n
-omenil	Vmep-sm
-20	Mdc
-.	Z
-januar	Ncmsn
-,	Z
-inavguracijski	Agpmsay
-dan	Ncmsnn
-,	Z
-ko	Cs
-se	Px------y
-predsednik	Ncmsn
-ZDA	Npfpg
-poslovi	Vmer3s
-od	Sg
-položaja	Ncmsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-dejal	Vmep-sm
-,	Z
-se	Px------y
-v	Sl
-ameriški	Agpfsl
-zgodovini	Ncfsl
-ni	Va-r3s-y
-nikoli	Rgp
-zgodilo	Vmep-sn
-,	Z
-da	Cs
-tega	Pd-msg
-prehoda	Ncmsg
-ne	Q
-bi	Va-c
-bilo	Va-p-sn
-.	Z
+token	tag	lemma
+Na	mte:Sl	na
+simboličnih	mte:Agpfpl	simboličen
+ameriških	mte:Agpfpl	ameriški
+predsedniških	mte:Agpfpl	predsedniški
+volitev	mte:Ncfpl	volitev
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+je	mte:Va-r3s-n	biti
+pripravilo	mte:Vmep-sn	pripraviti
+ameriško	mte:Agpnsn	ameriški
+veleposlaništvo	mte:Ncnsn	veleposlaništvo
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+prepričljivo	mte:Rgp	prepričljivo
+zmagal	mte:Vmep-sm	zmagati
+Barack	mte:Npmsn	Barack
+Obama	mte:Npmsn	Obam
+Na	mte:Sl	na
+pravih	mte:Agpfpl	pravi
+volitvah	mte:Ncfpl	volitev
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+glasovalo	mte:Vmbp-sn	glasovati
+150	mte:Mdc	150
+Američanov	mte:Npmpg	Američan
+Na	mte:Sl	na
+veleposlaništvu	mte:Ncnsl	veleposlaništvo
+ZDA	mte:Npfpg	ZDA
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+so	mte:Va-r3p-n	biti
+pripravili	mte:Vmep-pm	pripraviti
+tudi	mte:Q	tudi
+volitve	mte:Ncfpa	volitev
+za	mte:Sa	za
+ameriške	mte:Agpmpa	ameriški
+državljane	mte:Ncmpa	državljan
+,	mte:Z	,
+ki	mte:Cs	ki
+živijo	mte:Vmpr3p	živeti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Za	mte:Sa	za
+predsedniške	mte:Agpmpa	predsedniški
+kandidate	mte:Ncmpa	kandidat
+je	mte:Va-r3s-n	biti
+glasove	mte:Ncmpa	glas
+oddalo	mte:Vmep-sn	oddati
+približno	mte:Rgp	približno
+150	mte:Mdc	150
+ameriških	mte:Agpmpg	ameriški
+državljanov	mte:Ncmpg	državljan
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+registrirali	mte:Vmbp-pm	registrirati
+za	mte:Sa	za
+volitve	mte:Ncfpa	volitev
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+na	mte:Sl	na
+veleposlaništvu	mte:Ncnsl	veleposlaništvo
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+ameriški	mte:Agpmpn	ameriški
+državljani	mte:Ncmpn	državljan
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+svoje	mte:Px-mpa	svoj
+glasove	mte:Ncmpa	glas
+oddali	mte:Vmep-pm	oddati
+tudi	mte:Q	tudi
+po	mte:Sl	po
+pošti	mte:Ncfsl	pošta
+.	mte:Z	.
+Ameriško	mte:Agpnsn	ameriški
+veleposlaništvo	mte:Ncnsn	veleposlaništvo
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+je	mte:Va-r3s-n	biti
+nocoj	mte:Rgp	nocoj
+predsedniške	mte:Agpfpa	predsedniški
+volitve	mte:Ncfpa	volitev
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+obeležilo	mte:Vmep-sn	obeležiti
+s	mte:Si	z
+sprejemom	mte:Ncmsi	sprejem
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+,	mte:Z	,
+na	mte:Sl	na
+katerem	mte:Pq-msl	kateri
+je	mte:Va-r3s-n	biti
+zbrane	mte:Appfpa	zbran
+nagovoril	mte:Vmep-sm	nagovoriti
+veleposlanik	mte:Ncmsn	veleposlanik
+Yousif	mte:Npmsn	Yousif
+Ghafari	mte:Npmsn	Ghafari
+.	mte:Z	.
+Veleposlaništvo	mte:Ncnsn	veleposlaništvo
+je	mte:Va-r3s-n	biti
+pripravilo	mte:Vmep-sn	pripraviti
+tudi	mte:Q	tudi
+simbolične	mte:Agpfpa	simboličen
+volitve	mte:Ncfpn	volitev
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-mpl	kateri
+je	mte:Va-r3s-n	biti
+največ	mte:Rgs	največ
+glasov	mte:Ncmpg	glas
+,	mte:Z	,
+153	mte:Mdc	153
+,	mte:Z	,
+zbral	mte:Vmep-sm	zbrati
+demokratski	mte:Agpmsny	demokratski
+kandidat	mte:Ncmsn	kandidat
+Barack	mte:Npmsn	Barack
+Obama	mte:Npmsn	Obam
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+še	mte:Q	še
+pokazali	mte:Vmep-pm	pokazati
+izidi	mte:Ncmpn	izid
+"	mte:Z	"
+volitev	mte:Ncfpg	volitev
+"	mte:Z	"
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+jih	mte:Pp3mpa--y	on
+lahko	mte:Rgp	lahko
+udeležili	mte:Vmep-pm	udeležiti
+udeleženci	mte:Ncmpn	udeleženec
+sprejema	mte:Ncmsg	sprejemati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+za	mte:Sa	za
+republikanskega	mte:Agpmsa	republikanski
+protikandidata	mte:Ncmsay	protikandidat
+Obame	mte:Npmsg	Obame
+Johna	mte:Npmsg	John
+McCaina	mte:Npmsg	Mccain
+glasovalo	mte:Vmbp-sn	glasovati
+29	mte:Mdc	29
+udeležencev	mte:Ncmpg	udeleženec
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+Ralph	mte:Npmsn	Ralph
+Nader	mte:Npmsn	Nader
+zbral	mte:Vmep-sm	zbrati
+dva	mte:Mlcmda	dva
+glasova	mte:Ncmda	glas
+.	mte:Z	.
+Veleposlaništvo	mte:Ncnsa	veleposlaništvo
+ZDA	mte:Npfpg	ZDA
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+je	mte:Va-r3s-n	biti
+s	mte:Si	z
+srečanjem	mte:Ncnsi	srečanje
+v	mte:Sl	v
+ljubljanskem	mte:Agpnsl	ljubljanski
+Grand	mte:Npmsl	Grand
+Hotelu	mte:Ncnsl	hotel
+Union	mte:Npmsn	Union
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+ga	mte:Pp3msa--y	on
+udeležili	mte:Vmep-pm	udeležiti
+številni	mte:Agpmpn	številen
+predstavniki	mte:Ncmpn	predstavnik
+iz	mte:Sg	iz
+sveta	mte:Ncmsg	svet
+politike	mte:Ncfsg	politika
+,	mte:Z	,
+gospodarstva	mte:Ncnsg	gospodarstvo
+in	mte:Cc	in
+kulture	mte:Ncfsg	kultura
+,	mte:Z	,
+posvetilo	mte:Vmep-sn	posvetiti
+prav	mte:Q	prav
+ameriškim	mte:Agpfpd	ameriški
+predsedniškim	mte:Agpfpd	predsedniški
+volitvam	mte:Ncfpd	volitev
+in	mte:Cc	in
+zato	mte:Cc	zato
+pripravilo	mte:Vmep-sn	pripraviti
+tudi	mte:Q	tudi
+več	mte:Rgc	več
+video	mte:Ncmsn	video
+prispevkov	mte:Ncmpg	prispevek
+na	mte:Sa	na
+to	mte:Pd-fsa	ta
+temo	mte:Ncfsa	tema
+.	mte:Z	.
+"	mte:Z	"
+Razburljiv	mte:Agpmsnn	razburljiv
+čas	mte:Ncmsn	čas
+za	mte:Sa	za
+Američane	mte:Npmpa	Američan
+in	mte:Cc	in
+zanimiv	mte:Agpmsnn	zanimiv
+za	mte:Sa	za
+cel	mte:Agpmsan	cel
+svet	mte:Ncmsan	svet
+"	mte:Z	"
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+nagovoru	mte:Ncmsl	nagovor
+dejal	mte:Vmep-sm	dejati
+ameriški	mte:Agpmsny	ameriški
+veleposlanik	mte:Ncmsn	veleposlanik
+Ghafari	mte:Npmsn	Ghafari
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+čas	mte:Ncmsn	čas
+tokratnih	mte:Agpfpg	tokraten
+volitev	mte:Ncfpg	volitev
+za	mte:Sa	za
+vse	mte:Pg-mpa	ves
+Američane	mte:Npmpa	Američan
+zelo	mte:Rgp	zelo
+razburljiv	mte:Agpmsnn	razburljiv
+,	mte:Z	,
+za	mte:Sa	za
+preostali	mte:Appmsay	preostal
+svet	mte:Ncmsan	svet
+pa	mte:Cc	pa
+nedvomno	mte:Rgp	nedvomno
+zanimiv	mte:Agpmsnn	zanimiv
+.	mte:Z	.
+Dodal	mte:Vmep-sm	dodati
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+tokratna	mte:Agpfsn	tokraten
+kampanja	mte:Ncfsn	kampanja
+za	mte:Sa	za
+volitve	mte:Ncfpa	volitev
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-mpl	kateri
+Američani	mte:Npmpn	Američan
+izbirajo	mte:Vmpr3p	izbirati
+44	mte:Mdc	44
+.	mte:Z	.
+predsednika	mte:Ncmsg	predsednik
+ZDA	mte:Npfpg	ZDA
+,	mte:Z	,
+ena	mte:Mlpfsn	en
+najdaljših	mte:Agsmpg	dolg
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+pomni	mte:Vmpr3s	pomniti
+in	mte:Cc	in
+zagotovo	mte:Rgp	zagotovo
+ena	mte:Mlpfsn	en
+najostrejših	mte:Agsmpg	usprestr
+.	mte:Z	.
+"	mte:Z	"
+Ne	mte:Q	ne
+glede	mte:Rgp	glede
+na	mte:Sa	na
+izid	mte:Ncmsan	izid
+bo	mte:Va-f3s-n	biti
+rezultat	mte:Ncmsn	rezultat
+prvi	mte:Mlomsn	prvi
+za	mte:Sa	za
+našo	mte:Ps1fsap	naš
+državo	mte:Ncfsa	država
+.	mte:Z	.
+Ali	mte:Rgp	ali
+bomo	mte:Va-f1p-n	biti
+imeli	mte:Vmpp-pm	imeti
+prvega	mte:Mlomsa	prvi
+predsednika	mte:Ncmsay	predsednik
+afroameriškega	mte:Agpnsg	afroameriški
+porekla	mte:Ncnsg	poreklo
+ali	mte:Cc	ali
+pa	mte:Cc	pa
+prvo	mte:Mlofsa	prvi
+podpredsednico	mte:Ncfsa	podpredsednica
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+še	mte:Q	še
+dejal	mte:Vmep-sm	dejati
+veleposlanik	mte:Ncmsn	veleposlanik
+.	mte:Z	.
+Bush	mte:Npmsn	Bush
+se	mte:Px------y	se
+bo	mte:Va-f3s-n	biti
+,	mte:Z	,
+tako	mte:Rgp	tako
+kot	mte:Cs	kot
+ostali	mte:Vmep-pm	ostati
+,	mte:Z	,
+poslovil	mte:Vmep-sm	posloviti
+20	mte:Mdc	20
+.	mte:Z	.
+januarja	mte:Ncmsg	januar
+Veleposlanik	mte:Npmsn	Veleposlanik
+Ghafari	mte:Npmsn	Ghafari
+je	mte:Va-r3s-n	biti
+spregovoril	mte:Vmep-sm	spregovoriti
+še	mte:Q	še
+o	mte:Sl	o
+zapletenem	mte:Agpmsl	zapleten
+volilnem	mte:Agpmsl	volilen
+procesu	mte:Ncmsl	proces
+v	mte:Sl	v
+ZDA	mte:Npfpl	ZDA
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+katerega	mte:Pq-msg	kateri
+so	mte:Va-r3p-n	biti
+včasih	mte:Rgp	včasih
+zbegani	mte:Appmpn	zbegan
+celo	mte:Q	celo
+Američani	mte:Npmpn	Američan
+,	mte:Z	,
+skrivnosten	mte:Agpmsnn	skrivnosten
+pa	mte:Cc	pa
+se	mte:Px------y	se
+zdi	mte:Vmpr3s	zdeti
+tudi	mte:Q	tudi
+tujim	mte:Agpfpd	tuj
+državam	mte:Ncfpd	država
+.	mte:Z	.
+Posebej	mte:Rgp	posebej
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+omenil	mte:Vmep-sm	omeniti
+20	mte:Mdc	20
+.	mte:Z	.
+januar	mte:Ncmsn	januar
+,	mte:Z	,
+inavguracijski	mte:Agpmsay	inavguracijski
+dan	mte:Ncmsnn	dan
+,	mte:Z	,
+ko	mte:Cs	ko
+se	mte:Px------y	se
+predsednik	mte:Ncmsn	predsednik
+ZDA	mte:Npfpg	ZDA
+poslovi	mte:Vmer3s	posloviti
+od	mte:Sg	od
+položaja	mte:Ncmsg	položaj
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+se	mte:Px------y	se
+v	mte:Sl	v
+ameriški	mte:Agpfsl	ameriški
+zgodovini	mte:Ncfsl	zgodovina
+ni	mte:Va-r3s-y	biti
+nikoli	mte:Rgp	nikoli
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+da	mte:Cs	da
+tega	mte:Pd-msg	ta
+prehoda	mte:Ncmsg	prehod
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+bilo	mte:Va-p-sn	biti
+.	mte:Z	.
+Niti	mte:Q	niti
+enkrat	mte:Rgp	enkrat
+se	mte:Px------y	se
+ni	mte:Va-r3s-y	biti
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+morala	mte:Vmpp-sf	morati
+vojska	mte:Ncfsn	vojska
+uveljaviti	mte:Vmen	uveljaviti
+izide	mte:Ncfsa	izid
+volitev	mte:Ncfpg	volitev
+,	mte:Z	,
+niti	mte:Q	niti
+enkrat	mte:Rgp	enkrat
+se	mte:Px------y	se
+ni	mte:Va-r3s-y	biti
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+da	mte:Cs	da
+predsednik	mte:Ncmsn	predsednik
+v	mte:Sl	v
+odhodu	mte:Ncmsl	odhod
+položaja	mte:Ncmsg	položaj
+ne	mte:Q	ne
+bi	mte:Va-c	biti
+hotel	mte:Vmpp-sm	hoteti
+prepustiti	mte:Vmen	prepustiti
+nasledniku	mte:Ncmsd	naslednik
+,	mte:Z	,
+in	mte:Cc	in
+niti	mte:Q	niti
+enkrat	mte:Rgp	enkrat
+se	mte:Px------y	se
+ni	mte:Va-r3s-y	biti
+zgodilo	mte:Vmep-sn	zgoditi
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ljudi	mte:Ncmpa	človek
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+glasovali	mte:Vmbp-pm	glasovati
+za	mte:Sa	za
+stranko	mte:Ncfsa	stranka
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+izgubila	mte:Vmep-sf	izgubiti
+na	mte:Sl	na
+volitvah	mte:Ncfpl	volitev
+,	mte:Z	,
+zaradi	mte:Sg	zaradi
+tega	mte:Pd-nsg	ta
+napadali	mte:Vmpp-pm	napadati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti

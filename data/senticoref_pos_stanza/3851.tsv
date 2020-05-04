@@ -1,400 +1,402 @@
-token	tag
-Portorož	Npmsn
--	Z
-Danes	Rgp
-se	Px------y
-izteče	Vmer3s
-rok	Ncmsn
-za	Sa
-oddajo	Ncfsa
-ponudb	Ncfpg
-za	Sa
-nakup	Ncmsan
-61	Mdc
--	Z
-odstotnega	Agpmsg
-deleža	Ncmsg
-Aerodroma	Npmsg
-Portorož	Npmsn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-prodajajo	Vmpr3p
-Aerodrom	Npmsn
-Ljubljana	Npfsn
-,	Z
-Luka	Npmsn
-Koper	Npmsn
-in	Cc
-Istrabenz	Npmsn
-.	Z
-Po	Sl
-neuradnih	Agpfpl
-informacijah	Ncfpl
-bo	Va-f3s-n
-ponudbo	Ncfsa
-skoraj	Q
-zagotovo	Rgp
-oddal	Vmep-sm
-Boris	Npmsn
-Biček	Npmsn
-,	Z
-lastnik	Ncmsn
-agencije	Ncfsg
-Renee	Npmsn
-,	Z
-ki	Cs
-v	Sa
-Slovenijo	Npfsa
-že	Q
-vrsto	Ncfsa
-let	Ncnpg
-vozi	Vmpr3s
-premožne	Agpmpa
-ruske	Agpmpa
-goste	Ncmpa
-.	Z
-Ali	Rgp
-drži	Vmpr3s
-,	Z
-da	Cs
-bo	Va-f3s-n
-oddal	Vmep-sm
-ponudbo	Ncfsa
-in	Cc
-zakaj	Rgp
-ga	Pp3msa--y
-portoroško	Agpnsn
-letališče	Ncnsn
-zanima	Vmpr3s
-,	Z
-smo	Va-r1p-n
-povprašali	Vmep-pm
-tudi	Q
-Bička	Npmsay
-,	Z
-ki	Cs
-pa	Cc
-na	Sa
-naša	Ps1npap
-vprašanja	Ncnpa
-ni	Va-r3s-y
-odgovoril	Vmep-sm
-,	Z
-saj	Cc
-smo	Va-r1p-n
-ga	Pp3msa--y
-ujeli	Vmep-pm
-na	Sl
-letališču	Ncnsl
-nekje	Rgp
-v	Sl
-tujini	Ncfsl
-.	Z
-Sporočil	Vmep-sm
-nam	Pp1-pd
-je	Va-r3s-n
-le	Q
-,	Z
-da	Cs
-bo	Va-f3s-n
-dosegljiv	Agpmsnn
-v	Sa
-ponedeljek	Ncmsan
-.	Z
-Biček	Npmsn
-je	Va-r3s-n
-pred	Si
-kratkim	Agpnsi
-ustanovil	Vmep-sm
-letalsko	Agpfsa
-družbo	Ncfsa
-in	Cc
-zdaj	Rgp
-s	Si
-turbopropelerskim	Agpnsi
-letalom	Ncnsi
-,	Z
-ki	Cs
-sprejme	Vmer3s
-do	Sg
-osem	Mlc-pa
-potnikov	Ncmpg
-,	Z
-ruske	Agpmpa
-goste	Ncmpa
-vozi	Vmpr3s
-po	Sl
-različnih	Agpnpl
-evropskih	Agpnpl
-mestih	Ncnpl
-.	Z
-Velikokrat	Rgp
-poleti	Rgp
-prav	Q
-iz	Sg
-portoroškega	Agpnsg
-letališča	Ncnsg
-in	Cc
-najbrž	Q
-se	Px------y
-je	Va-r3s-n
-tu	Rgp
-porodila	Vmep-sf
-ideja	Ncfsn
-,	Z
-da	Cs
-bi	Va-c
-ga	Pp3msa--y
-morda	Q
-tudi	Q
-kupil	Vmep-sm
-.	Z
-"	Z
-Piranska	Agpfsn
-občina	Ncfsn
-si	Px---d--y
-zagotovo	Rgp
-želi	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-letališče	Ncnsn
-dobilo	Vmep-sn
-nekega	Pi-msa
-strateškega	Agpmsg
-lastnika	Ncmsay
-iz	Sg
-branže	Ncmsg
-,	Z
-ki	Cs
-bi	Va-c
-pri	Sl
-razvoju	Ncmsl
-in	Cc
-upravljanju	Ncnsl
-letališča	Ncnsg
-upošteval	Vmbp-sm
-tudi	Q
-potrebe	Ncfpa
-kraja	Ncmsg
-in	Cc
-tukajšnjega	Agpnsg
-turističnega	Agpnsg
-in	Cc
-preostalega	Appnsg
-gospodarstva	Ncnsg
-,	Z
-"	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-vodja	Ncmsn
-kabineta	Ncmsg
-piranskega	Agpmsg
-župana	Ncmsg
-Dimitrij	Npmsn
-Šamšal	Npmsn
-.	Z
-Piranska	Agpfsn
-občina	Ncfsn
-ima	Vmpr3s-n
-namreč	Cc
-28	Mdc
--	Z
-odstotni	Agpmsay
-delež	Ncmsan
-v	Sl
-Aerodromu	Npmsl
-Portorož	Npmsn
-in	Cc
-kot	Cs
-je	Va-r3s-n
-zatrdil	Vmep-sm
-Šamšal	Npmsn
-,	Z
-tega	Pd-msg
-deleža	Ncmsay
-nikakor	Rgp
-ne	Q
-mislijo	Vmpr3p
-prodati	Vmen
-,	Z
-kvečjemu	Cs
-razmišljajo	Vmpr3p
-,	Z
-kako	Rgp
-bi	Va-c
-ga	Pp3msa--y
-povečali	Vmep-pm
-.	Z
-Piranski	Agpmsny
-župan	Ncmsn
-Peter	Npmsn
-Bossman	Npmsn
-je	Va-r3s-n
-namreč	Cc
-prepričan	Appmsnn
-,	Z
-da	Cs
-mora	Vmpr3s
-imeti	Vmpn
-občina	Ncfsn
-vpliv	Ncmsan
-pri	Sl
-upravljanju	Ncnsl
-tako	Rgp
-pomembne	Agpfsg
-infrastrukture	Ncfsg
-.	Z
-V	Sl
-Aerodromu	Npmsl
-Ljubljana	Npfsn
-so	Va-r3p-n
-nam	Pp1-pd
-pojasnili	Vmep-pm
-,	Z
-da	Cs
-njihova	Ps3npnp
-naložbena	Agpnpn
-pričakovanja	Ncnpn
-v	Sl
-Aerodromu	Npmsl
-Portorož	Npmsn
-niso	Va-r3p-y
-bila	Va-p-pn
-izpolnjena	Appnpn
-,	Z
-zato	Cc
-so	Va-r3p-n
-se	Px------y
-odločili	Vmep-pm
-,	Z
-da	Cs
-bodo	Va-f3p-n
-na	Sl
-trgu	Ncmsl
-preverili	Vmep-pm
-interes	Ncmsan
-za	Sa
-nakup	Ncmsan
-portoroškega	Agpnsg
-letališča	Ncnsg
-.	Z
-V	Sl
-Aerodromu	Npmsl
-Ljubljana	Npfsn
-so	Va-r3p-n
-o	Sl
-prodaji	Ncfsl
-sicer	Q
-razmišljali	Vmpp-pm
-že	Q
-pred	Si
-leti	Ncnpi
-,	Z
-ko	Cs
-je	Va-r3s-n
-na	Sa
-čelo	Ncnsa
-portoroškega	Agpnsg
-letališča	Ncnsg
-prišel	Vmep-sm
-Robert	Npmsn
-Kranjc	Npmsn
-,	Z
-nekdanji	Agpmsny
-kriminalist	Ncmsn
-brez	Sg
-menedžerskih	Agpfpg
-izkušenj	Ncfpg
-.	Z
-Letališče	Ncnsn
-sicer	Q
-zdaj	Rgp
-posluje	Vmpr3s
-pozitivno	Rgp
-,	Z
-še	Q
-vedno	Rgp
-pa	Cc
-čakajo	Vmpr3p
-na	Sa
-dovoljenje	Ncnsa
-,	Z
-da	Cs
-bi	Va-c
-pristajalno	Agpfsa
-stezo	Ncfsa
-podaljšali	Vmep-pm
-za	Sa
-200	Mdc
-metrov	Ncmpg
-.	Z
-Rednih	Agpfpg
-linij	Ncfpg
-portoroško	Agpnsn
-letališče	Ncnsn
-nima	Vmpr3s-y
-,	Z
-saj	Cc
-so	Va-r3p-n
-dogovori	Ncmpn
-s	Si
-srbskih	Agpmpg
-Jatom	Npmsi
-in	Cc
-poskusni	Agpnpi
-leti	Ncnpi
-v	Sa
-Beograd	Npmsan
-padli	Vmep-pm
-v	Sa
-vodo	Ncfsa
-.	Z
-Podaljšanje	Ncnsa
-letališke	Agpfsg
-steze	Ncfsg
-pa	Cc
-bi	Va-c
-potrebovali	Vmpp-pm
-tudi	Q
-potencialni	Agpmsay
-ruski	Agpmsay
-petičneži	Ncmsan
-.	Z
-Ruski	Agpmsny
-mogotec	Ncmsn
-Aleksej	Npmsn
-Miller	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-pred	Si
-kratkim	Agpnsi
-udeležil	Vmep-sm
-evropskega	Agpmsg
-poslovnega	Agpmsg
-kongresa	Ncmsg
-v	Sl
-Portorožu	Npmsl
-,	Z
-je	Va-r3s-n
-moral	Vmpp-sm
-s	Si
-svojim	Px-nsi
-letalom	Ncnsi
-pristati	Vmen
-v	Sl
-Trstu	Npmsl
-prav	Q
-zato	Rgp
-,	Z
-ker	Cs
-steza	Ncfsn
-v	Sl
-Portorožu	Npmsl
-ni	Va-r3s-y
-bila	Va-p-sf
-ustrezna	Agpfsn
-.	Z
+token	tag	lemma
+Portorož	mte:Npmsn	Portorož
+-	mte:Z	-
+Danes	mte:Rgp	danes
+se	mte:Px------y	se
+izteče	mte:Vmer3s	izteči
+rok	mte:Ncmsn	rok
+za	mte:Sa	za
+oddajo	mte:Ncfsa	oddaja
+ponudb	mte:Ncfpg	ponudba
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+61	mte:Mdc	61
+-	mte:Z	-
+odstotnega	mte:Agpmsg	odstoten
+deleža	mte:Ncmsg	delež
+Aerodroma	mte:Npmsg	Aerodrom
+Portorož	mte:Npmsn	Portorož
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+prodajajo	mte:Vmpr3p	prodajati
+Aerodrom	mte:Npmsn	Aeroder
+Ljubljana	mte:Npfsn	Ljubljana
+,	mte:Z	,
+Luka	mte:Npmsn	Luka
+Koper	mte:Npmsn	Koper
+in	mte:Cc	in
+Istrabenz	mte:Npmsn	Istrabenz
+.	mte:Z	.
+Po	mte:Sl	po
+neuradnih	mte:Agpfpl	neuraden
+informacijah	mte:Ncfpl	informacija
+bo	mte:Va-f3s-n	biti
+ponudbo	mte:Ncfsa	ponudba
+skoraj	mte:Q	skoraj
+zagotovo	mte:Rgp	zagotovo
+oddal	mte:Vmep-sm	oddati
+Boris	mte:Npmsn	Boris
+Biček	mte:Npmsn	Biček
+,	mte:Z	,
+lastnik	mte:Ncmsn	lastnik
+agencije	mte:Ncfsg	agencija
+Renee	mte:Npmsn	Renee
+,	mte:Z	,
+ki	mte:Cs	ki
+v	mte:Sa	v
+Slovenijo	mte:Npfsa	Slovenija
+že	mte:Q	že
+vrsto	mte:Ncfsa	vrsta
+let	mte:Ncnpg	leto
+vozi	mte:Vmpr3s	voziti
+premožne	mte:Agpmpa	premožen
+ruske	mte:Agpmpa	ruski
+goste	mte:Ncmpa	gost
+.	mte:Z	.
+Ali	mte:Rgp	ali
+drži	mte:Vmpr3s	držati
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+oddal	mte:Vmep-sm	oddati
+ponudbo	mte:Ncfsa	ponudba
+in	mte:Cc	in
+zakaj	mte:Rgp	zakaj
+ga	mte:Pp3msa--y	on
+portoroško	mte:Agpnsn	portoroški
+letališče	mte:Ncnsn	letališče
+zanima	mte:Vmpr3s	zanimati
+,	mte:Z	,
+smo	mte:Va-r1p-n	biti
+povprašali	mte:Vmep-pm	povprašati
+tudi	mte:Q	tudi
+Bička	mte:Npmsay	Bička
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+na	mte:Sa	na
+naša	mte:Ps1npap	naš
+vprašanja	mte:Ncnpa	vprašanje
+ni	mte:Va-r3s-y	biti
+odgovoril	mte:Vmep-sm	odgovoriti
+,	mte:Z	,
+saj	mte:Cc	saj
+smo	mte:Va-r1p-n	biti
+ga	mte:Pp3msa--y	on
+ujeli	mte:Vmep-pm	ujeti
+na	mte:Sl	na
+letališču	mte:Ncnsl	letališče
+nekje	mte:Rgp	nekje
+v	mte:Sl	v
+tujini	mte:Ncfsl	tujina
+.	mte:Z	.
+Sporočil	mte:Vmep-sm	sporočiti
+nam	mte:Pp1-pd	jaz
+je	mte:Va-r3s-n	biti
+le	mte:Q	le
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+dosegljiv	mte:Agpmsnn	dosegljiv
+v	mte:Sa	v
+ponedeljek	mte:Ncmsan	ponedeljek
+.	mte:Z	.
+Biček	mte:Npmsn	Biček
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+ustanovil	mte:Vmep-sm	ustanoviti
+letalsko	mte:Agpfsa	letalski
+družbo	mte:Ncfsa	družba
+in	mte:Cc	in
+zdaj	mte:Rgp	zdaj
+s	mte:Si	z
+turbopropelerskim	mte:Agpnsi	turbopropelerski
+letalom	mte:Ncnsi	letalo
+,	mte:Z	,
+ki	mte:Cs	ki
+sprejme	mte:Vmer3s	sprejeti
+do	mte:Sg	do
+osem	mte:Mlc-pa	osem
+potnikov	mte:Ncmpg	potnik
+,	mte:Z	,
+ruske	mte:Agpmpa	ruski
+goste	mte:Ncmpa	gost
+vozi	mte:Vmpr3s	voziti
+po	mte:Sl	po
+različnih	mte:Agpnpl	različen
+evropskih	mte:Agpnpl	evropski
+mestih	mte:Ncnpl	mesto
+.	mte:Z	.
+Velikokrat	mte:Rgp	velikokrat
+poleti	mte:Rgp	poleti
+prav	mte:Q	prav
+iz	mte:Sg	iz
+portoroškega	mte:Agpnsg	portoroški
+letališča	mte:Ncnsg	letališče
+in	mte:Cc	in
+najbrž	mte:Q	najbrž
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tu	mte:Rgp	tu
+porodila	mte:Vmep-sf	poroditi
+ideja	mte:Ncfsn	ideja
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+morda	mte:Q	morda
+tudi	mte:Q	tudi
+kupil	mte:Vmep-sm	kupiti
+.	mte:Z	.
+"	mte:Z	"
+Piranska	mte:Agpfsn	piranski
+občina	mte:Ncfsn	občina
+si	mte:Px---d--y	se
+zagotovo	mte:Rgp	zagotovo
+želi	mte:Vmpr3s	želeti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+letališče	mte:Ncnsn	letališče
+dobilo	mte:Vmep-sn	dobiti
+nekega	mte:Pi-msa	nek
+strateškega	mte:Agpmsg	strateški
+lastnika	mte:Ncmsay	lastnik
+iz	mte:Sg	iz
+branže	mte:Ncmsg	branže
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+pri	mte:Sl	pri
+razvoju	mte:Ncmsl	razvoj
+in	mte:Cc	in
+upravljanju	mte:Ncnsl	upravljanje
+letališča	mte:Ncnsg	letališče
+upošteval	mte:Vmbp-sm	upoštevati
+tudi	mte:Q	tudi
+potrebe	mte:Ncfpa	potreba
+kraja	mte:Ncmsg	kraj
+in	mte:Cc	in
+tukajšnjega	mte:Agpnsg	tukajšnji
+turističnega	mte:Agpnsg	turističen
+in	mte:Cc	in
+preostalega	mte:Appnsg	preostal
+gospodarstva	mte:Ncnsg	gospodarstvo
+,	mte:Z	,
+"	mte:Z	"
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+vodja	mte:Ncmsn	vodja
+kabineta	mte:Ncmsg	kabinet
+piranskega	mte:Agpmsg	piranski
+župana	mte:Ncmsg	župan
+Dimitrij	mte:Npmsn	Dimitrij
+Šamšal	mte:Npmsn	Šamšal
+.	mte:Z	.
+Piranska	mte:Agpfsn	piranski
+občina	mte:Ncfsn	občina
+ima	mte:Vmpr3s-n	imeti
+namreč	mte:Cc	namreč
+28	mte:Mdc	28
+-	mte:Z	-
+odstotni	mte:Agpmsay	odstoten
+delež	mte:Ncmsan	delež
+v	mte:Sl	v
+Aerodromu	mte:Npmsl	Aerodrom
+Portorož	mte:Npmsn	Portorož
+in	mte:Cc	in
+kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+zatrdil	mte:Vmep-sm	zatrditi
+Šamšal	mte:Npmsn	Šamšal
+,	mte:Z	,
+tega	mte:Pd-msg	ta
+deleža	mte:Ncmsay	delež
+nikakor	mte:Rgp	nikakor
+ne	mte:Q	ne
+mislijo	mte:Vmpr3p	misliti
+prodati	mte:Vmen	prodati
+,	mte:Z	,
+kvečjemu	mte:Cs	kvečjemu
+razmišljajo	mte:Vmpr3p	razmišljati
+,	mte:Z	,
+kako	mte:Rgp	kako
+bi	mte:Va-c	biti
+ga	mte:Pp3msa--y	on
+povečali	mte:Vmep-pm	povečati
+.	mte:Z	.
+Piranski	mte:Agpmsny	piranski
+župan	mte:Ncmsn	župan
+Peter	mte:Npmsn	Peter
+Bossman	mte:Npmsn	Bossman
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+prepričan	mte:Appmsnn	prepričan
+,	mte:Z	,
+da	mte:Cs	da
+mora	mte:Vmpr3s	morati
+imeti	mte:Vmpn	imeti
+občina	mte:Ncfsn	občina
+vpliv	mte:Ncmsan	vpliv
+pri	mte:Sl	pri
+upravljanju	mte:Ncnsl	upravljanje
+tako	mte:Rgp	tako
+pomembne	mte:Agpfsg	pomemben
+infrastrukture	mte:Ncfsg	infrastruktura
+.	mte:Z	.
+V	mte:Sl	v
+Aerodromu	mte:Npmsl	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+so	mte:Va-r3p-n	biti
+nam	mte:Pp1-pd	jaz
+pojasnili	mte:Vmep-pm	pojasniti
+,	mte:Z	,
+da	mte:Cs	da
+njihova	mte:Ps3npnp	njihov
+naložbena	mte:Agpnpn	naložben
+pričakovanja	mte:Ncnpn	pričakovanje
+v	mte:Sl	v
+Aerodromu	mte:Npmsl	Aerodrom
+Portorož	mte:Npmsn	Portorož
+niso	mte:Va-r3p-y	biti
+bila	mte:Va-p-pn	biti
+izpolnjena	mte:Appnpn	izpolnjen
+,	mte:Z	,
+zato	mte:Cc	zato
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+odločili	mte:Vmep-pm	odločiti
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+na	mte:Sl	na
+trgu	mte:Ncmsl	trg
+preverili	mte:Vmep-pm	preveriti
+interes	mte:Ncmsan	interes
+za	mte:Sa	za
+nakup	mte:Ncmsan	nakup
+portoroškega	mte:Agpnsg	portoroški
+letališča	mte:Ncnsg	letališče
+.	mte:Z	.
+V	mte:Sl	v
+Aerodromu	mte:Npmsl	Aerodrom
+Ljubljana	mte:Npfsn	Ljubljana
+so	mte:Va-r3p-n	biti
+o	mte:Sl	o
+prodaji	mte:Ncfsl	prodaja
+sicer	mte:Q	sicer
+razmišljali	mte:Vmpp-pm	razmišljati
+že	mte:Q	že
+pred	mte:Si	pred
+leti	mte:Ncnpi	leto
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+na	mte:Sa	na
+čelo	mte:Ncnsa	čelo
+portoroškega	mte:Agpnsg	portoroški
+letališča	mte:Ncnsg	letališče
+prišel	mte:Vmep-sm	priti
+Robert	mte:Npmsn	Robert
+Kranjc	mte:Npmsn	Kranjc
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+kriminalist	mte:Ncmsn	kriminalist
+brez	mte:Sg	brez
+menedžerskih	mte:Agpfpg	menedžerski
+izkušenj	mte:Ncfpg	izkušnja
+.	mte:Z	.
+Letališče	mte:Ncnsn	letališče
+sicer	mte:Q	sicer
+zdaj	mte:Rgp	zdaj
+posluje	mte:Vmpr3s	poslovati
+pozitivno	mte:Rgp	pozitiven
+,	mte:Z	,
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+pa	mte:Cc	pa
+čakajo	mte:Vmpr3p	čakati
+na	mte:Sa	na
+dovoljenje	mte:Ncnsa	dovoljenje
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+pristajalno	mte:Agpfsa	pristajalen
+stezo	mte:Ncfsa	steza
+podaljšali	mte:Vmep-pm	podaljšati
+za	mte:Sa	za
+200	mte:Mdc	200
+metrov	mte:Ncmpg	meter
+.	mte:Z	.
+Rednih	mte:Agpfpg	reden
+linij	mte:Ncfpg	linija
+portoroško	mte:Agpnsn	portoroški
+letališče	mte:Ncnsn	letališče
+nima	mte:Vmpr3s-y	imeti
+,	mte:Z	,
+saj	mte:Cc	saj
+so	mte:Va-r3p-n	biti
+dogovori	mte:Ncmpn	dogovor
+s	mte:Si	z
+srbskih	mte:Agpmpg	srbski
+Jatom	mte:Npmsi	Jat
+in	mte:Cc	in
+poskusni	mte:Agpnpi	poskusen
+leti	mte:Ncnpi	leto
+v	mte:Sa	v
+Beograd	mte:Npmsan	Beograd
+padli	mte:Vmep-pm	pasti
+v	mte:Sa	v
+vodo	mte:Ncfsa	voda
+.	mte:Z	.
+Podaljšanje	mte:Ncnsa	podaljšanje
+letališke	mte:Agpfsg	letališki
+steze	mte:Ncfsg	steza
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+potrebovali	mte:Vmpp-pm	potrebovati
+tudi	mte:Q	tudi
+potencialni	mte:Agpmsay	potencialen
+ruski	mte:Agpmsay	ruski
+petičneži	mte:Ncmsan	petičnež
+.	mte:Z	.
+Ruski	mte:Agpmsny	ruski
+mogotec	mte:Ncmsn	mogotec
+Aleksej	mte:Npmsn	Aleksej
+Miller	mte:Npmsn	Miller
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+pred	mte:Si	pred
+kratkim	mte:Agpnsi	kratek
+udeležil	mte:Vmep-sm	udeležiti
+evropskega	mte:Agpmsg	evropski
+poslovnega	mte:Agpmsg	posloven
+kongresa	mte:Ncmsg	kongres
+v	mte:Sl	v
+Portorožu	mte:Npmsl	Portorož
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+moral	mte:Vmpp-sm	morati
+s	mte:Si	z
+svojim	mte:Px-nsi	svoj
+letalom	mte:Ncnsi	letalo
+pristati	mte:Vmen	pristati
+v	mte:Sl	v
+Trstu	mte:Npmsl	Trst
+prav	mte:Q	prav
+zato	mte:Rgp	zato
+,	mte:Z	,
+ker	mte:Cs	ker
+steza	mte:Ncfsn	steza
+v	mte:Sl	v
+Portorožu	mte:Npmsl	Portorož
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+ustrezna	mte:Agpfsn	ustrezen
+.	mte:Z	.
+tatjana.tanackovic	mte:Npfsn	Tatjanactactacovica
+@	mte:Z	@

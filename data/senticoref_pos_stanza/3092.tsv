@@ -1,335 +1,357 @@
-token	tag
-Bruselj	Npmsn
--	Z
-Prodaja	Ncfsn
-avtomobilov	Ncmpg
-v	Sl
-Evropi	Npfsl
-se	Px------y
-je	Va-r3s-n
-povečala	Vmep-sf
-tudi	Q
-februarja	Ncmsg
-.	Z
-V	Sl
-28	Mdc
-evropskih	Agpfpl
-državah	Ncfpl
-(	Z
-brez	Sg
-Cipra	Npfsg
-in	Cc
-Malte	Npfsg
-,	Z
-a	Cc
-vključujoč	Rr
-Islandijo	Npfsa
-,	Z
-Norveško	Npfsa
-in	Cc
-Švico	Npfsa
-)	Z
-so	Va-r3p-n
-drugi	Mlpmsay
-letošnji	Agpmsay
-mesec	Ncmsan
-prodali	Vmep-pm
-1.000.754	Mdc
-osebnih	Agpmpg
-avtomobilov	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-3,2	Mdc
-odstotka	Ncmsg
-več	Rgc
-kot	Cs
-februarja	Ncmsg
-lani	Rgp
-.	Z
-V	Sl
-državah	Ncfpl
-članicah	Ncfpl
-EU	Npfsg
-,	Z
-brez	Sg
-upoštevanja	Ncnsg
-Cipra	Npfsg
-in	Cc
-Malte	Npfsg
-,	Z
-je	Va-r3s-n
-bilo	Va-p-sn
-februarja	Ncmsg
-prodanih	Appmpg
-974.346	Mdc
-novih	Agpmpg
-avtomobilov	Ncmpg
-,	Z
-kar	Pr-nsn
-je	Va-r3s-n
-tri	Mlcmpa
-odstotke	Ncmpa
-več	Rgc
-kot	Cs
-februarja	Ncmsg
-lani	Rgp
-,	Z
-je	Va-r3s-n
-danes	Rgp
-objavilo	Vmep-sn
-Združenje	Ncnsa
-evropskih	Agpmpg
-avtomobilskih	Agpmpg
-proizvajalcev	Ncmpg
-(	Z
-ACEA	Npmsn
-)	Z
-.	Z
-Kot	Cs
-navaja	Vmpr3s
-ACEA	Npmsn
-,	Z
-se	Px------y
-podatki	Ncmpn
-po	Sl
-posameznih	Agpfpl
-državah	Ncfpl
-zelo	Rgp
-razlikujejo	Vmpr3p
-.	Z
-Tako	Rgp
-se	Px------y
-je	Va-r3s-n
-februarja	Ncmsg
-močno	Rgp
-zmanjšala	Vmep-sf
-prodaja	Ncfsn
-avtomobilov	Ncmpg
-v	Sl
-Nemčiji	Npfsl
-,	Z
-in	Cc
-sicer	Q
-za	Sa
-29,8	Mdc
-odstotka	Ncmsg
-na	Sa
-194.846	Mdc
-.	Z
-Padec	Ncmsn
-je	Va-r3s-n
-pripisati	Vmen
-koncu	Ncmsd
-sheme	Ncfsg
-subvencioniranja	Ncnsg
-nakupa	Ncmsg
-novih	Agpmpg
-avtomobilov	Ncmpg
-.	Z
-V	Sl
-drugih	Mlpfpl
-evropskih	Agpfpl
-državah	Ncfpl
-se	Px------y
-je	Va-r3s-n
-prodaja	Ncfsn
-avtomobilov	Ncmpg
-povečala	Vmep-sf
-:	Z
-v	Sl
-Španiji	Npfsl
-za	Sa
-47	Mdc
-odstotkov	Ncmpg
-na	Sa
-91.281	Mdc
-,	Z
-v	Sl
-Veliki	Agpfsl
-Britaniji	Npfsl
-za	Sa
-26,4	Mdc
-odstotka	Ncmsg
-na	Sl
-68.686	Mdc
-,	Z
-v	Sl
-Italiji	Npfsl
-za	Sa
-20,6	Mdc
-odstotka	Ncmsg
-na	Sl
-200.560	Mdc
-in	Cc
-v	Sl
-Franciji	Npfsl
-za	Sa
-18,2	Mdc
-odstotka	Ncmsg
-na	Sa
-180,535	Mdc
-avtomobilov	Ncmpg
-.	Z
-V	Sl
-Sloveniji	Npfsl
-se	Px------y
-je	Va-r3s-n
-prodaja	Ncfsn
-novih	Agpmpg
-avtomobilov	Ncmpg
-februarja	Ncmsg
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-povečala	Vmep-sf
-za	Sa
-1,8	Mdc
-odstotka	Ncmsg
-na	Sa
-4803	Mdc
-avtomobilov	Ncmpg
-,	Z
-v	Sl
-prvih	Mlompl
-dveh	Mlcmdl
-mesecih	Ncmdl
-letos	Rgp
-pa	Cc
-za	Sa
-6,1	Mdc
-odstotka	Ncmsg
-na	Sa
-9853	Mdc
-avtomobilov	Ncmpg
-.	Z
-S	Si
-februarsko	Agpfsi
-prodajo	Ncfsi
-se	Px------y
-lahko	Rgp
-najbolj	Rgs
-pohvalijo	Vmer3p
-francoski	Agpmpn
-avtomobilski	Agpmpn
-proizvajalci	Ncmpn
-.	Z
-Skupina	Ncfsn
-Renault	Npmsn
-(	Z
-Renault	Npmsn
-in	Cc
-Dacia	Npfsn
-)	Z
-je	Va-r3s-n
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-prodajo	Ncfsa
-povečala	Vmep-sf
-za	Sa
-30	Mdc
-odstotkov	Ncmpg
-na	Sa
-109.663	Mdc
-avtomobilov	Ncmpg
-,	Z
-skupina	Ncfsn
-PSA	Ncmsg
-(	Z
-Peugeot	Npmsn
-in	Cc
-Citroen	Npmsn
-)	Z
-pa	Cc
-za	Sa
-18,4	Mdc
-odstotka	Ncmsg
-na	Sa
-149.128	Mdc
-avtomobilov	Ncmpg
-.	Z
-Evropski	Agpmsny
-avtomobilski	Agpmsny
-proizvajalec	Ncmsn
-številka	Ncfsn
-ena	Mlpfsn
-,	Z
-nemški	Agpmsny
-Volkswagen	Npmsn
-(	Z
-Volkswagen	Npmsn
-,	Z
-Audi	Npmsn
-,	Z
-Seat	Npmsn
-in	Cc
-Škoda	Npfsn
-)	Z
-je	Va-r3s-n
-prodajo	Ncfsa
-na	Sl
-letni	Agpfsl
-ravni	Ncfsl
-zmanjšal	Vmep-sm
-za	Sa
-1,7	Mdc
-odstotka	Ncmsg
-na	Sa
-207.969	Mdc
-avtomobilov	Ncmpg
-.	Z
-V	Sl
-prvih	Mlompl
-dveh	Mlcmdl
-mesecih	Ncmdl
-letos	Rgp
-se	Px------y
-je	Va-r3s-n
-prodaja	Ncfsn
-avtomobilov	Ncmpg
-v	Sl
-Evropi	Npfsl
-povečala	Vmep-sf
-za	Sa
-8,1	Mdc
-odstotka	Ncmsg
-na	Sa
-približno	Rgp
-2,09	Mdc
-milijona	Ncmsg
-.	Z
-Skupina	Ncfsn
-Volkswagen	Npmsn
-je	Va-r3s-n
-v	Sl
-prvih	Mlompl
-dveh	Mlcmdl
-mesecih	Ncmdl
-letos	Rgp
-ohranila	Vmep-sf
-položaj	Ncmsan
-največjega	Agsmsg
-evropskega	Agpmsg
-proizvajalca	Ncmsg
-avtomobilov	Ncmpg
-,	Z
-tržni	Agpmsay
-delež	Ncmsan
-skupine	Ncfsg
-znaša	Vmpr3s
-20,1	Mdc
-odstotka	Ncmsg
-,	Z
-medtem	Rgp
-ko	Cs
-je	Va-r3s-n
-ta	Pd-msn
-v	Sl
-enakem	Pi-nsl
-obdobju	Ncnsl
-lani	Rgp
-dosegal	Vmpp-sm
-21,3	Mdc
-odstotka	Ncmsg
-.	Z
+token	tag	lemma
+Bruselj	mte:Npmsn	Bruselj
+-	mte:Z	-
+Prodaja	mte:Ncfsn	prodaja
+avtomobilov	mte:Ncmpg	avtomobil
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+povečala	mte:Vmep-sf	povečati
+tudi	mte:Q	tudi
+februarja	mte:Ncmsg	februar
+.	mte:Z	.
+V	mte:Sl	v
+28	mte:Mdc	28
+evropskih	mte:Agpfpl	evropski
+državah	mte:Ncfpl	država
+(	mte:Z	(
+brez	mte:Sg	brez
+Cipra	mte:Npfsg	Cipra
+in	mte:Cc	in
+Malte	mte:Npfsg	Malta
+,	mte:Z	,
+a	mte:Cc	a
+vključujoč	mte:Rr	vključujoč
+Islandijo	mte:Npfsa	Islandija
+,	mte:Z	,
+Norveško	mte:Npfsa	Norveška
+in	mte:Cc	in
+Švico	mte:Npfsa	Švico
+)	mte:Z	)
+so	mte:Va-r3p-n	biti
+drugi	mte:Mlpmsay	drug
+letošnji	mte:Agpmsay	letošnji
+mesec	mte:Ncmsan	mesec
+prodali	mte:Vmep-pm	prodati
+1.000.754	mte:Mdc	1.000.754
+osebnih	mte:Agpmpg	oseben
+avtomobilov	mte:Ncmpg	avtomobil
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+3,2	mte:Mdc	3,2
+odstotka	mte:Ncmsg	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+februarja	mte:Ncmsg	februar
+lani	mte:Rgp	lani
+.	mte:Z	.
+V	mte:Sl	v
+državah	mte:Ncfpl	država
+članicah	mte:Ncfpl	članica
+EU	mte:Npfsg	EU
+,	mte:Z	,
+brez	mte:Sg	brez
+upoštevanja	mte:Ncnsg	upoštevanje
+Cipra	mte:Npfsg	Cipra
+in	mte:Cc	in
+Malte	mte:Npfsg	Malta
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bilo	mte:Va-p-sn	biti
+februarja	mte:Ncmsg	februar
+prodanih	mte:Appmpg	prodan
+974.346	mte:Mdc	974.346
+novih	mte:Agpmpg	nov
+avtomobilov	mte:Ncmpg	avtomobil
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+je	mte:Va-r3s-n	biti
+tri	mte:Mlcmpa	trije
+odstotke	mte:Ncmpa	odstotek
+več	mte:Rgc	več
+kot	mte:Cs	kot
+februarja	mte:Ncmsg	februar
+lani	mte:Rgp	lani
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+objavilo	mte:Vmep-sn	objaviti
+Združenje	mte:Ncnsa	združenje
+evropskih	mte:Agpmpg	evropski
+avtomobilskih	mte:Agpmpg	avtomobilski
+proizvajalcev	mte:Ncmpg	proizvajalec
+(	mte:Z	(
+ACEA	mte:Npmsn	ACEA
+)	mte:Z	)
+.	mte:Z	.
+Kot	mte:Cs	kot
+navaja	mte:Vmpr3s	navajati
+ACEA	mte:Npmsn	ACEA
+,	mte:Z	,
+se	mte:Px------y	se
+podatki	mte:Ncmpn	podatek
+po	mte:Sl	po
+posameznih	mte:Agpfpl	posamezen
+državah	mte:Ncfpl	država
+zelo	mte:Rgp	zelo
+razlikujejo	mte:Vmpr3p	razlikovati
+.	mte:Z	.
+Tako	mte:Rgp	tako
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+februarja	mte:Ncmsg	februar
+močno	mte:Rgp	močno
+zmanjšala	mte:Vmep-sf	zmanjšati
+prodaja	mte:Ncfsn	prodaja
+avtomobilov	mte:Ncmpg	avtomobil
+v	mte:Sl	v
+Nemčiji	mte:Npfsl	Nemčija
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+za	mte:Sa	za
+29,8	mte:Mdc	29,8
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+194.846	mte:Mdc	194.846
+.	mte:Z	.
+Padec	mte:Ncmsn	padec
+je	mte:Va-r3s-n	biti
+pripisati	mte:Vmen	pripisati
+koncu	mte:Ncmsd	konec
+sheme	mte:Ncfsg	shema
+subvencioniranja	mte:Ncnsg	subvencioniranje
+nakupa	mte:Ncmsg	nakup
+novih	mte:Agpmpg	nov
+avtomobilov	mte:Ncmpg	avtomobil
+.	mte:Z	.
+V	mte:Sl	v
+drugih	mte:Mlpfpl	drug
+evropskih	mte:Agpfpl	evropski
+državah	mte:Ncfpl	država
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+avtomobilov	mte:Ncmpg	avtomobil
+povečala	mte:Vmep-sf	povečati
+:	mte:Z	:
+v	mte:Sl	v
+Španiji	mte:Npfsl	Španija
+za	mte:Sa	za
+47	mte:Mdc	47
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+91.281	mte:Mdc	91.281
+,	mte:Z	,
+v	mte:Sl	v
+Veliki	mte:Agpfsl	velik
+Britaniji	mte:Npfsl	Britanija
+za	mte:Sa	za
+26,4	mte:Mdc	26,4
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sl	na
+68.686	mte:Mdc	68.686
+,	mte:Z	,
+v	mte:Sl	v
+Italiji	mte:Npfsl	Italija
+za	mte:Sa	za
+20,6	mte:Mdc	20,6
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sl	na
+200.560	mte:Mdc	200.560
+in	mte:Cc	in
+v	mte:Sl	v
+Franciji	mte:Npfsl	Francija
+za	mte:Sa	za
+18,2	mte:Mdc	18,2
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+180,535	mte:Mdc	180,535
+avtomobilov	mte:Ncmpg	avtomobil
+.	mte:Z	.
+V	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+novih	mte:Agpmpg	nov
+avtomobilov	mte:Ncmpg	avtomobil
+februarja	mte:Ncmsg	februar
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+povečala	mte:Vmep-sf	povečati
+za	mte:Sa	za
+1,8	mte:Mdc	1,8
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+4803	mte:Mdc	4803
+avtomobilov	mte:Ncmpg	avtomobil
+,	mte:Z	,
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+dveh	mte:Mlcmdl	dva
+mesecih	mte:Ncmdl	mesec
+letos	mte:Rgp	letos
+pa	mte:Cc	pa
+za	mte:Sa	za
+6,1	mte:Mdc	6,1
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+9853	mte:Mdc	9853
+avtomobilov	mte:Ncmpg	avtomobil
+.	mte:Z	.
+S	mte:Si	z
+februarsko	mte:Agpfsi	februarski
+prodajo	mte:Ncfsi	prodaja
+se	mte:Px------y	se
+lahko	mte:Rgp	lahko
+najbolj	mte:Rgs	najbolj
+pohvalijo	mte:Vmer3p	pohvaliti
+francoski	mte:Agpmpn	francoski
+avtomobilski	mte:Agpmpn	avtomobilski
+proizvajalci	mte:Ncmpn	proizvajalec
+.	mte:Z	.
+Skupina	mte:Ncfsn	skupina
+Renault	mte:Npmsn	Renault
+(	mte:Z	(
+Renault	mte:Npmsn	Renault
+in	mte:Cc	in
+Dacia	mte:Npfsn	Dacia
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+prodajo	mte:Ncfsa	prodaja
+povečala	mte:Vmep-sf	povečati
+za	mte:Sa	za
+30	mte:Mdc	30
+odstotkov	mte:Ncmpg	odstotek
+na	mte:Sa	na
+109.663	mte:Mdc	109.663
+avtomobilov	mte:Ncmpg	avtomobil
+,	mte:Z	,
+skupina	mte:Ncfsn	skupina
+PSA	mte:Ncmsg	PSA
+(	mte:Z	(
+Peugeot	mte:Npmsn	Peugeot
+in	mte:Cc	in
+Citroen	mte:Npmsn	Citroen
+)	mte:Z	)
+pa	mte:Cc	pa
+za	mte:Sa	za
+18,4	mte:Mdc	18,4
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+149.128	mte:Mdc	149.128
+avtomobilov	mte:Ncmpg	avtomobil
+.	mte:Z	.
+Evropski	mte:Agpmsny	evropski
+avtomobilski	mte:Agpmsny	avtomobilski
+proizvajalec	mte:Ncmsn	proizvajalec
+številka	mte:Ncfsn	številka
+ena	mte:Mlpfsn	en
+,	mte:Z	,
+nemški	mte:Agpmsny	nemški
+Volkswagen	mte:Npmsn	Volkswagen
+(	mte:Z	(
+Volkswagen	mte:Npmsn	Volkswagen
+,	mte:Z	,
+Audi	mte:Npmsn	Audi
+,	mte:Z	,
+Seat	mte:Npmsn	Seat
+in	mte:Cc	in
+Škoda	mte:Npfsn	škoda
+)	mte:Z	)
+je	mte:Va-r3s-n	biti
+prodajo	mte:Ncfsa	prodaja
+na	mte:Sl	na
+letni	mte:Agpfsl	leten
+ravni	mte:Ncfsl	raven
+zmanjšal	mte:Vmep-sm	zmanjšati
+za	mte:Sa	za
+1,7	mte:Mdc	1,7
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+207.969	mte:Mdc	207.969
+avtomobilov	mte:Ncmpg	avtomobil
+.	mte:Z	.
+V	mte:Sl	v
+prvih	mte:Mlompl	prvi
+dveh	mte:Mlcmdl	dva
+mesecih	mte:Ncmdl	mesec
+letos	mte:Rgp	letos
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+prodaja	mte:Ncfsn	prodaja
+avtomobilov	mte:Ncmpg	avtomobil
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+povečala	mte:Vmep-sf	povečati
+za	mte:Sa	za
+8,1	mte:Mdc	8,1
+odstotka	mte:Ncmsg	odstotek
+na	mte:Sa	na
+približno	mte:Rgp	približno
+2,09	mte:Mdc	2,09
+milijona	mte:Ncmsg	milijon
+.	mte:Z	.
+Skupina	mte:Ncfsn	skupina
+Volkswagen	mte:Npmsn	Volkswagen
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+dveh	mte:Mlcmdl	dva
+mesecih	mte:Ncmdl	mesec
+letos	mte:Rgp	letos
+ohranila	mte:Vmep-sf	ohraniti
+položaj	mte:Ncmsan	položaj
+največjega	mte:Agsmsg	velik
+evropskega	mte:Agpmsg	evropski
+proizvajalca	mte:Ncmsg	proizvajalec
+avtomobilov	mte:Ncmpg	avtomobil
+,	mte:Z	,
+tržni	mte:Agpmsay	tržen
+delež	mte:Ncmsan	delež
+skupine	mte:Ncfsg	skupina
+znaša	mte:Vmpr3s	znašati
+20,1	mte:Mdc	20,1
+odstotka	mte:Ncmsg	odstotek
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+ta	mte:Pd-msn	ta
+v	mte:Sl	v
+enakem	mte:Pi-nsl	enak
+obdobju	mte:Ncnsl	obdobje
+lani	mte:Rgp	lani
+dosegal	mte:Vmpp-sm	dosegati
+21,3	mte:Mdc	21,3
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+PSA	mte:Ncmsay	PSA
+Peugeot	mte:Npmsn	Peugeot
+Citroen	mte:Npmsn	Citroen
+s	mte:Si	z
+14,4	mte:Mdc	14,4
+-	mte:Z	-
+odstotnim	mte:Agpmsi	odstoten
+deležem	mte:Ncmsi	delež
+,	mte:Z	,
+Renault	mte:Npmsn	Renault
+z	mte:Si	z
+10,8	mte:Mdc	10,8
+-	mte:Z	-
+odstotnim	mte:Npmsi	odstoten
+in	mte:Cc	in
+Ford	mte:Npmsi	Ford
+z	mte:Si	z
+10,1	mte:Mdc	10,1
+-	mte:Z	-
+odstotnim	mte:Agpmsi	odstoten
+deležem	mte:Ncmsi	delež

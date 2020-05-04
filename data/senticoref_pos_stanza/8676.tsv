@@ -1,209 +1,215 @@
-token	tag
-Rezultati	Ncmpn
-zadnje	Agpfsg
-javnomnenjske	Agpfsg
-raziskave	Ncfsg
-,	Z
-ki	Cs
-jo	Pp3fsa--y
-je	Va-r3s-n
-opravila	Vmep-sf
-agencija	Ncfsn
-Ninamedia	Npfsn
-,	Z
-kažejo	Vmpr3p
-,	Z
-da	Cs
-vlado	Ncfsa
-premierja	Ncmsg
-Pahorja	Npmsg
-podpira	Vmpr3s
-najmanj	Rgs
-ljudi	Ncmpg
-,	Z
-odkar	Cs
-je	Va-r3s-n
-prevzela	Vmep-sf
-oblast	Ncfsa
-,	Z
-in	Cc
-sicer	Q
-44,9	Mdc
-odstotka	Ncmsg
-.	Z
-Z	Si
-vlado	Ncfsi
-premierja	Ncmsg
-Boruta	Npmsg
-Pahorja	Npmsg
-je	Va-r3s-n
-po	Sl
-rezultatih	Ncmpl
-javnomnenjske	Agpfsg
-raziskave	Ncfsg
-zadovoljnih	Agpmpg
-44,9	Mdc
-odstotka	Ncmsg
-vprašanih	Appmpg
-,	Z
-medtem	Rgp
-ko	Cs
-jih	Pp3mpa--y
-je	Va-r3s-n
-25,5	Mdc
-odstotka	Ncmsg
-z	Si
-njenim	Ps3nsisf
-delom	Ncnsi
-nezadovoljnih	Agpmpg
-,	Z
-29,6	Mdc
-odstotka	Ncmsg
-pa	Cc
-neopredeljenih	Agpmpg
-.	Z
-Lestvica	Ncfsn
-političnih	Agpfpg
-strank	Ncfpg
-na	Sl
-drugi	Mlpfsl
-strani	Ncfsl
-ostaja	Vmpr3s
-bolj	Rgc
-ali	Cc
-manj	Rgc
-nespremenjena	Agpfsn
-.	Z
-Največ	Rgs
-,	Z
-27,7odstotka	Npmsg
-anketirancev	Ncmpg
-,	Z
-bi	Va-c
-volilo	Vmbp-sn
-Socialne	Agpmpa
-demokrate	Ncmpa
-,	Z
-na	Sl
-drugem	Mlpnsl
-mestu	Ncnsl
-pa	Cc
-je	Va-r3s-n
-SDS	Npfsn
-z	Si
-19,4	Mdc
--	Z
-odstotno	Agpfsi
-podporo	Ncfsi
-.	Z
-Sledijo	Vmpr3p
-Zares	Rgp
-(	Z
-11,3	Mdc
-odstotka	Ncmsg
-)	Z
-,	Z
-SNS	Npmsn
-(	Z
-6,5	Mdc
-odstotka	Ncmsg
-)	Z
-,	Z
-LDS	Npfsg
-(	Z
-5,1	Mdc
-odstotka	Ncmsg
-)	Z
-,	Z
-DeSUS	Npmsn
-(	Z
-4,8odstotka	Npmsn
-)	Z
-in	Cc
-SLS	Npmsn
-(	Z
-1,4	Mdc
-odstotka	Ncmsg
-)	Z
-.	Z
-Na	Sl
-lestvici	Ncfsl
-najbolj	Rgs
-priljubljenih	Agpmpg
-politikov	Ncmpg
-še	Q
-vedno	Rgp
-vodi	Vmpr3s
-predsednik	Ncmsn
-republike	Ncfsg
-Danilo	Npmsn
-Türk	Npmsn
-,	Z
-sledijo	Vmpr3p
-mu	Pp3msd--y
-evropski	Agpmsny
-komisar	Ncmsn
-Janez	Npmsn
-Potočnik	Npmsn
-,	Z
-premier	Ncmsn
-Borut	Npmsn
-Pahor	Npmsn
-,	Z
-minister	Ncmsn
-za	Sa
-razvoj	Ncmsan
-Mitja	Npmsn
-Gaspari	Npmsn
-,	Z
-gospodarski	Agpmsny
-minister	Ncmsn
-Matej	Npmsn
-Lahovnik	Npmsn
-,	Z
-minister	Ncmsn
-za	Sa
-visoko	Agpnsa
-šolstvo	Ncnsa
-Gregor	Npmsn
-Golobič	Npmsn
-,	Z
-nekdanji	Agpmsny
-minister	Ncmsn
-za	Sa
-javno	Agpfsa
-upravo	Ncfsa
-Gregor	Npmsn
-Virant	Npmsn
-,	Z
-ljubljanski	Agpmsny
-župan	Ncmsn
-Zoran	Npmsn
-Janković	Npmsn
-,	Z
-ministrica	Ncfsn
-za	Sa
-obrambo	Ncfsa
-Ljubica	Npfsn
-Jelušič	Npfsn
-in	Cc
-evropski	Agpmsny
-poslanec	Ncmsn
-Lojze	Npmsn
-Peterle	Npmsn
-.	Z
-Predsednik	Ncmsn
-SDS	Npfsg
-Janez	Npmsn
-Janša	Npmsn
-je	Va-r3s-n
-izpadel	Vmep-sm
-iz	Sg
-prve	Mlofsg
-deseterice	Ncfsg
-priljubljenih	Agpmpg
-politikov	Ncmpg
-in	Cc
-pristal	Vmep-sm
-na18	Mdc
-.	Z
+token	tag	lemma
+Rezultati	mte:Ncmpn	rezultat
+zadnje	mte:Agpfsg	zadnji
+javnomnenjske	mte:Agpfsg	javnomnenjski
+raziskave	mte:Ncfsg	raziskava
+,	mte:Z	,
+ki	mte:Cs	ki
+jo	mte:Pp3fsa--y	on
+je	mte:Va-r3s-n	biti
+opravila	mte:Vmep-sf	opravilo
+agencija	mte:Ncfsn	agencija
+Ninamedia	mte:Npfsn	Ninamedia
+,	mte:Z	,
+kažejo	mte:Vmpr3p	kazati
+,	mte:Z	,
+da	mte:Cs	da
+vlado	mte:Ncfsa	vlada
+premierja	mte:Ncmsg	premier
+Pahorja	mte:Npmsg	Pahorje
+podpira	mte:Vmpr3s	podpirati
+najmanj	mte:Rgs	najmanj
+ljudi	mte:Ncmpg	človek
+,	mte:Z	,
+odkar	mte:Cs	odkar
+je	mte:Va-r3s-n	biti
+prevzela	mte:Vmep-sf	prevzeti
+oblast	mte:Ncfsa	oblast
+,	mte:Z	,
+in	mte:Cc	in
+sicer	mte:Q	sicer
+44,9	mte:Mdc	44,9
+odstotka	mte:Ncmsg	odstotek
+.	mte:Z	.
+Z	mte:Si	z
+vlado	mte:Ncfsi	vlada
+premierja	mte:Ncmsg	premier
+Boruta	mte:Npmsg	Borut
+Pahorja	mte:Npmsg	Pahorje
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+rezultatih	mte:Ncmpl	rezultat
+javnomnenjske	mte:Agpfsg	javnomnenjski
+raziskave	mte:Ncfsg	raziskava
+zadovoljnih	mte:Agpmpg	zadovoljen
+44,9	mte:Mdc	44,9
+odstotka	mte:Ncmsg	odstotek
+vprašanih	mte:Appmpg	vprašan
+,	mte:Z	,
+medtem	mte:Rgp	medtem
+ko	mte:Cs	ko
+jih	mte:Pp3mpa--y	on
+je	mte:Va-r3s-n	biti
+25,5	mte:Mdc	25,5
+odstotka	mte:Ncmsg	odstotek
+z	mte:Si	z
+njenim	mte:Ps3nsisf	njen
+delom	mte:Ncnsi	delo
+nezadovoljnih	mte:Agpmpg	nezadovoljen
+,	mte:Z	,
+29,6	mte:Mdc	29,6
+odstotka	mte:Ncmsg	odstotek
+pa	mte:Cc	pa
+neopredeljenih	mte:Agpmpg	neopredeljen
+.	mte:Z	.
+Lestvica	mte:Ncfsn	lestvica
+političnih	mte:Agpfpg	političen
+strank	mte:Ncfpg	stranka
+na	mte:Sl	na
+drugi	mte:Mlpfsl	drug
+strani	mte:Ncfsl	stran
+ostaja	mte:Vmpr3s	ostajati
+bolj	mte:Rgc	bolj
+ali	mte:Cc	ali
+manj	mte:Rgc	manj
+nespremenjena	mte:Agpfsn	nespremenjen
+.	mte:Z	.
+Največ	mte:Rgs	največ
+,	mte:Z	,
+27,7odstotka	mte:Npmsg	27,7odstotka
+anketirancev	mte:Ncmpg	anketiranec
+,	mte:Z	,
+bi	mte:Va-c	biti
+volilo	mte:Vmbp-sn	voliti
+Socialne	mte:Agpmpa	socialen
+demokrate	mte:Ncmpa	demokrat
+,	mte:Z	,
+na	mte:Sl	na
+drugem	mte:Mlpnsl	drug
+mestu	mte:Ncnsl	mesto
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+SDS	mte:Npfsn	SDS
+z	mte:Si	z
+19,4	mte:Mdc	19,4
+-	mte:Z	-
+odstotno	mte:Agpfsi	odstoten
+podporo	mte:Ncfsi	podpora
+.	mte:Z	.
+Sledijo	mte:Vmpr3p	slediti
+Zares	mte:Rgp	zares
+(	mte:Z	(
+11,3	mte:Mdc	11,3
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+SNS	mte:Npmsn	SNS
+(	mte:Z	(
+6,5	mte:Mdc	6,5
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+LDS	mte:Npfsg	LDS
+(	mte:Z	(
+5,1	mte:Mdc	5,1
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+,	mte:Z	,
+DeSUS	mte:Npmsn	Desus
+(	mte:Z	(
+4,8odstotka	mte:Npmsn	4,8odstotka
+)	mte:Z	)
+in	mte:Cc	in
+SLS	mte:Npmsn	SLS
+(	mte:Z	(
+1,4	mte:Mdc	1,4
+odstotka	mte:Ncmsg	odstotek
+)	mte:Z	)
+.	mte:Z	.
+Na	mte:Sl	na
+lestvici	mte:Ncfsl	lestvica
+najbolj	mte:Rgs	najbolj
+priljubljenih	mte:Agpmpg	priljubljen
+politikov	mte:Ncmpg	politik
+še	mte:Q	še
+vedno	mte:Rgp	vedno
+vodi	mte:Vmpr3s	voditi
+predsednik	mte:Ncmsn	predsednik
+republike	mte:Ncfsg	republika
+Danilo	mte:Npmsn	Danilo
+Türk	mte:Npmsn	Türk
+,	mte:Z	,
+sledijo	mte:Vmpr3p	slediti
+mu	mte:Pp3msd--y	on
+evropski	mte:Agpmsny	evropski
+komisar	mte:Ncmsn	komisar
+Janez	mte:Npmsn	Janez
+Potočnik	mte:Npmsn	Potočnik
+,	mte:Z	,
+premier	mte:Ncmsn	premier
+Borut	mte:Npmsn	Borut
+Pahor	mte:Npmsn	Pahor
+,	mte:Z	,
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+razvoj	mte:Ncmsan	razvoj
+Mitja	mte:Npmsn	Mitja
+Gaspari	mte:Npmsn	Gaspari
+,	mte:Z	,
+gospodarski	mte:Agpmsny	gospodarski
+minister	mte:Ncmsn	minister
+Matej	mte:Npmsn	Matej
+Lahovnik	mte:Npmsn	Lahovnik
+,	mte:Z	,
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+visoko	mte:Agpnsa	visok
+šolstvo	mte:Ncnsa	šolstvo
+Gregor	mte:Npmsn	Gregor
+Golobič	mte:Npmsn	Golobič
+,	mte:Z	,
+nekdanji	mte:Agpmsny	nekdanji
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+javno	mte:Agpfsa	javen
+upravo	mte:Ncfsa	uprava
+Gregor	mte:Npmsn	Gregor
+Virant	mte:Npmsn	Virant
+,	mte:Z	,
+ljubljanski	mte:Agpmsny	ljubljanski
+župan	mte:Ncmsn	župan
+Zoran	mte:Npmsn	Zoran
+Janković	mte:Npmsn	Janković
+,	mte:Z	,
+ministrica	mte:Ncfsn	ministrica
+za	mte:Sa	za
+obrambo	mte:Ncfsa	obramba
+Ljubica	mte:Npfsn	Ljubica
+Jelušič	mte:Npfsn	Jelušič
+in	mte:Cc	in
+evropski	mte:Agpmsny	evropski
+poslanec	mte:Ncmsn	poslanec
+Lojze	mte:Npmsn	Lojza
+Peterle	mte:Npmsn	Peterle
+.	mte:Z	.
+Predsednik	mte:Ncmsn	predsednik
+SDS	mte:Npfsg	SDS
+Janez	mte:Npmsn	Janez
+Janša	mte:Npmsn	Janša
+je	mte:Va-r3s-n	biti
+izpadel	mte:Vmep-sm	izpasti
+iz	mte:Sg	iz
+prve	mte:Mlofsg	prvi
+deseterice	mte:Ncfsg	deseterica
+priljubljenih	mte:Agpmpg	priljubljen
+politikov	mte:Ncmpg	politik
+in	mte:Cc	in
+pristal	mte:Vmep-sm	pristati
+na18	mte:Mdc	na18
+.	mte:Z	.
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+poročal	mte:Vmpp-sm	poročati
+Pop	mte:Npmsn	Pop
+TV	mte:Ncmsn	TV

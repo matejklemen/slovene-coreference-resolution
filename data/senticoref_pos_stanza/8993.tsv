@@ -1,165 +1,206 @@
-token	tag
-Muslimani	Npmpn
-v	Sl
-Sloveniji	Npfsl
-obeležujejo	Vmpr3p
-začetek	Ncmsan
-najpomembnejšega	Agsmsg
-praznika	Ncmsg
-kurban	Ncmsn
-bajram	Ncmsn
-.	Z
-Praznik	Ncmsn
-je	Va-r3s-n
-med	Si
-drugim	Mlpnsi
-posvečen	Appmsnn
-strpnosti	Ncfsg
-med	Si
-religijami	Ncfpi
-.	Z
-„	Z
-Vsak	Pg-msn
-vernik	Ncmsn
-in	Cc
-vernica	Ncfsn
-,	Z
-ki	Cs
-sta	Va-r3d-n
-polnoletna	Agpmdn
-,	Z
-zdrava	Agpfdn
-in	Cc
-pametna	Agpmdn
-,	Z
-sta	Va-r3d-n
-dolžna	Agpmdn
-enkrat	Rgp
-v	Sl
-življenju	Ncnsl
-,	Z
-če	Cs
-za	Sa
-to	Pd-nsa
-imata	Vmpr3d-n
-materialne	Agpfpn
-možnosti	Ncfpa
-,	Z
-obiskati	Vmen
-svete	Agpmpa
-kraje	Ncmpa
-,	Z
-“	Z
-se	Px------y
-glasi	Vmpr3s
-sporočilo	Ncnsn
-islamske	Agpfsg
-skupnosti	Ncfsg
-v	Sl
-Sloveniji	Npfsl
-.	Z
-Tisti	Pd-mpn
-,	Z
-ki	Cs
-ne	Q
-morejo	Vmpr3p
-v	Sa
-svete	Agpmpa
-kraje	Ncmpa
-,	Z
-se	Px------y
-udeležijo	Vmer3p
-bajramske	Agpfsg
-molitve	Ncfpn
-v	Sl
-svoji	Px-fsl
-državi	Ncfsl
-.	Z
-Kurban	Npmsn
-bajram	Ncmsn
-je	Va-r3s-n
-sicer	Q
-praznik	Ncmsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-namenjen	Appmsnn
-strpnosti	Ncfsd
-med	Si
-tremi	Mlcfpi
-religijami	Ncfpi
-:	Z
-krščanstvom	Ncnsi
-,	Z
-judovstvom	Ncnsi
-in	Cc
-islamom	Ncmsi
-.	Z
-Ta	Pd-msa
-praznik	Ncmsn
-namreč	Cc
-muslimani	Ncmpn
-povezujejo	Vmpr3p
-z	Si
-Ibrahimom	Npmsi
-ali	Cc
-Abrahamom	Npmsi
-,	Z
-Božjim	Agpmsi
-odposlancem	Ncmsi
-,	Z
-ki	Cs
-je	Va-r3s-n
-praoče	Ncmsn
-omenjenih	Appfpg
-treh	Mlcfpg
-religij	Ncfpg
-.	Z
-Osrednja	Agpfsn
-slovesnost	Ncfsn
-se	Px------y
-je	Va-r3s-n
-tudi	Q
-letos	Rgp
-ob	Sl
-6	Mdc
-.	Mdo
-uri	Ncfsl
-zjutraj	Rgp
-začela	Vmep-sf
-v	Sl
-športni	Agpfsl
-dvorani	Ncfsl
-na	Sl
-Kodeljevem	Aspmsl
-.	Z
-Zbrane	Appfpa
-bo	Va-f3s-n
-nagovoril	Vmep-sm
-namestnik	Ncmsn
-muftija	Ncmsg
-Ibrahim	Npmsn
-Malanović	Npmsn
-.	Z
-Mufti	Npmsn
-Nedžad	Npmsn
-Grabus	Npmsn
-se	Px------y
-je	Va-r3s-n
-namreč	Cc
-s	Si
-še	Q
-dvanajstimi	Mlc-pi
-muslimani	Ncmpi
-iz	Sg
-Slovenije	Npfsg
-podal	Vmbp-sm
-na	Sa
-romanje	Ncnsa
-v	Sl
-sveti	Agpnpl
-mesti	Ncnpl
-Meko	Npfsa
-in	Cc
-Medino	Npfsa
-.	Z
+token	tag	lemma
+Muslimani	mte:Npmpn	Musliman
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+obeležujejo	mte:Vmpr3p	obeleževati
+začetek	mte:Ncmsan	začetek
+najpomembnejšega	mte:Agsmsg	pomemben
+praznika	mte:Ncmsg	praznik
+kurban	mte:Ncmsn	kurban
+bajram	mte:Ncmsn	bajra
+.	mte:Z	.
+Praznik	mte:Ncmsn	praznik
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+posvečen	mte:Appmsnn	posvečen
+strpnosti	mte:Ncfsg	strpnost
+med	mte:Si	med
+religijami	mte:Ncfpi	religija
+.	mte:Z	.
+„	mte:Z	„
+Vsak	mte:Pg-msn	vsak
+vernik	mte:Ncmsn	vernik
+in	mte:Cc	in
+vernica	mte:Ncfsn	vernica
+,	mte:Z	,
+ki	mte:Cs	ki
+sta	mte:Va-r3d-n	biti
+polnoletna	mte:Agpmdn	polnoleten
+,	mte:Z	,
+zdrava	mte:Agpfdn	zdrav
+in	mte:Cc	in
+pametna	mte:Agpmdn	pameten
+,	mte:Z	,
+sta	mte:Va-r3d-n	biti
+dolžna	mte:Agpmdn	dolžen
+enkrat	mte:Rgp	enkrat
+v	mte:Sl	v
+življenju	mte:Ncnsl	življenje
+,	mte:Z	,
+če	mte:Cs	če
+za	mte:Sa	za
+to	mte:Pd-nsa	ta
+imata	mte:Vmpr3d-n	imeti
+materialne	mte:Agpfpn	materialen
+možnosti	mte:Ncfpa	možnost
+,	mte:Z	,
+obiskati	mte:Vmen	obiskati
+svete	mte:Agpmpa	svet
+kraje	mte:Ncmpa	kraj
+,	mte:Z	,
+“	mte:Z	“
+se	mte:Px------y	se
+glasi	mte:Vmpr3s	glasiti
+sporočilo	mte:Ncnsn	sporočilo
+islamske	mte:Agpfsg	islamski
+skupnosti	mte:Ncfsg	skupnost
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+.	mte:Z	.
+Tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+morejo	mte:Vmpr3p	moči
+v	mte:Sa	v
+svete	mte:Agpmpa	svet
+kraje	mte:Ncmpa	kraj
+,	mte:Z	,
+se	mte:Px------y	se
+udeležijo	mte:Vmer3p	udeležiti
+bajramske	mte:Agpfsg	bajramski
+molitve	mte:Ncfpn	molitev
+v	mte:Sl	v
+svoji	mte:Px-fsl	svoj
+državi	mte:Ncfsl	država
+.	mte:Z	.
+Kurban	mte:Npmsn	Kurban
+bajram	mte:Ncmsn	bajra
+je	mte:Va-r3s-n	biti
+sicer	mte:Q	sicer
+praznik	mte:Ncmsn	praznik
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+namenjen	mte:Appmsnn	namenjen
+strpnosti	mte:Ncfsd	strpnost
+med	mte:Si	med
+tremi	mte:Mlcfpi	trije
+religijami	mte:Ncfpi	religija
+:	mte:Z	:
+krščanstvom	mte:Ncnsi	krščanstvo
+,	mte:Z	,
+judovstvom	mte:Ncnsi	judovstvo
+in	mte:Cc	in
+islamom	mte:Ncmsi	islam
+.	mte:Z	.
+Ta	mte:Pd-msa	ta
+praznik	mte:Ncmsn	praznik
+namreč	mte:Cc	namreč
+muslimani	mte:Ncmpn	musliman
+povezujejo	mte:Vmpr3p	povezovati
+z	mte:Si	z
+Ibrahimom	mte:Npmsi	Ibrahim
+ali	mte:Cc	ali
+Abrahamom	mte:Npmsi	Abraham
+,	mte:Z	,
+Božjim	mte:Agpmsi	božji
+odposlancem	mte:Ncmsi	odposlanec
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+praoče	mte:Ncmsn	praoč
+omenjenih	mte:Appfpg	omenjen
+treh	mte:Mlcfpg	trije
+religij	mte:Ncfpg	religija
+.	mte:Z	.
+Osrednja	mte:Agpfsn	osrednji
+slovesnost	mte:Ncfsn	slovesnost
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+tudi	mte:Q	tudi
+letos	mte:Rgp	letos
+ob	mte:Sl	ob
+6	mte:Mdc	6
+.	mte:Mdo	.
+uri	mte:Ncfsl	ura
+zjutraj	mte:Rgp	zjutraj
+začela	mte:Vmep-sf	začeti
+v	mte:Sl	v
+športni	mte:Agpfsl	športen
+dvorani	mte:Ncfsl	dvorana
+na	mte:Sl	na
+Kodeljevem	mte:Aspmsl	kodeljev
+.	mte:Z	.
+Zbrane	mte:Appfpa	zbran
+bo	mte:Va-f3s-n	biti
+nagovoril	mte:Vmep-sm	nagovoriti
+namestnik	mte:Ncmsn	namestnik
+muftija	mte:Ncmsg	muftija
+Ibrahim	mte:Npmsn	Ibrahim
+Malanović	mte:Npmsn	Malanović
+.	mte:Z	.
+Mufti	mte:Npmsn	Mufti
+Nedžad	mte:Npmsn	Nedžad
+Grabus	mte:Npmsn	Grabus
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+s	mte:Si	z
+še	mte:Q	še
+dvanajstimi	mte:Mlc-pi	dvanajst
+muslimani	mte:Ncmpi	musliman
+iz	mte:Sg	iz
+Slovenije	mte:Npfsg	Slovenija
+podal	mte:Vmbp-sm	podati
+na	mte:Sa	na
+romanje	mte:Ncnsa	romanje
+v	mte:Sl	v
+sveti	mte:Agpnpl	svet
+mesti	mte:Ncnpl	mesto
+Meko	mte:Npfsa	Meko
+in	mte:Cc	in
+Medino	mte:Npfsa	Medino
+.	mte:Z	.
+Bajramska	mte:Agpfsn	bajramski
+molitev	mte:Ncfsn	molitev
+bo	mte:Va-f3s-n	biti
+poteka	mte:Vmpr3s	potekati
+tudi	mte:Q	tudi
+na	mte:Sl	na
+Jesenicah	mte:Npfpl	Jesenice
+,	mte:Z	,
+v	mte:Sl	v
+Tržiču	mte:Npmsl	Tržič
+,	mte:Z	,
+Kranju	mte:Npmsl	Kranj
+,	mte:Z	,
+Škofji	mte:Agpfsl	škofji
+Loki	mte:Npfsl	Loki
+,	mte:Z	,
+Postojni	mte:Npfsl	Postojna
+,	mte:Z	,
+Sežani	mte:Npfsl	Sežana
+,	mte:Z	,
+Ajdovščini	mte:Npfsl	Ajdovščina
+,	mte:Z	,
+Kopru	mte:Npmsl	Koper
+,	mte:Z	,
+Kočevju	mte:Npnsl	Kočevje
+,	mte:Z	,
+Trbovljah	mte:Npfpl	Trbovlje
+,	mte:Z	,
+Novem	mte:Agpnsl	nov
+mestu	mte:Ncnsl	mesto
+,	mte:Z	,
+Velenju	mte:Npnsl	Velenje
+,	mte:Z	,
+Celju	mte:Npnsl	Celje
+,	mte:Z	,
+Krškem	mte:Npnsl	Krško
+,	mte:Z	,
+Slovenj	mte:Npmsl	Slovenj
+Gradcu	mte:Npmsl	Gradec
+in	mte:Cc	in
+Mariboru	mte:Npmsl	Maribor

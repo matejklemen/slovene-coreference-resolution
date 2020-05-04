@@ -1,203 +1,210 @@
-token	tag
-Nešteto	Rgp
-pokrajin	Ncfpg
-,	Z
-a	Cc
-le	Q
-eno	Mlpnsn
-morje	Ncnsn
-.	Z
-46	Mdc
-tisoč	Mlc-pa
-kilometrov	Ncmpg
-obale	Ncfsg
-,	Z
-ki	Cs
-povezuje	Vmpr3s
-tri	Mlcfpa
-celine	Ncfpa
-.	Z
-Križišče	Ncnsa
-narodov	Ncmpg
-,	Z
-civilizacij	Ncfpg
-in	Cc
-zibelka	Ncfsn
-najstarejših	Agsfpg
-kultur	Ncfpg
-.	Z
-Ob	Sl
-stoletnici	Ncfsl
-italijanske	Agpfsg
-Banca	Npfsg
-Nazionale	Npfsg
-del	Ncmsn
-Lavoro	Npmsn
-BNL	Npmsg
-,	Z
-članice	Ncfpa
-ene	Mlpfsg
-večjih	Agcfpg
-svetovnih	Agpfpg
-bančnih	Agpfpg
-skupin	Ncfpg
-BNP	Npmsn
-Paribas	Npmsn
-,	Z
-so	Va-r3p-n
-v	Sl
-duhu	Ncmsl
-povezovanja	Ncnsg
-kulturnih	Agpmpg
-in	Cc
-umetniških	Agpmpg
-dialogov	Ncmpg
-zasnovali	Vmep-pm
-večmedijsko	Agpfsa
-razstavo	Ncfsa
-"	Z
-The	Xf
-sea	Xf
-is	Xf
-my	Xf
-land	Xf
-"	Z
-,	Z
-ki	Cs
-presega	Vmpr3s
-fizične	Agpfpa
-družbene	Agpfpa
-meje	Ncfpa
-,	Z
-verski	Agpmsay
-pluralizem	Ncmsan
-in	Cc
-etnične	Agpmpa
-okvirje	Ncmpa
-.	Z
-K	Sd
-sodelovanju	Ncnsd
-so	Va-r3p-n
-povabili	Vmep-pm
-po	Sa
-enega	Mlpmsa
-avtorja	Ncmsay
-iz	Sg
-vsake	Pg-fsg
-države	Ncfsg
-,	Z
-ki	Cs
-meji	Vmpr3s
-na	Sa
-sredozemsko	Agpnsa
-morje	Ncnsa
-,	Z
-in	Cc
-nastalo	Vmep-sn
-je	Va-r3s-n
-22	Mdc
-vizij	Ncfpg
-Sredozemlja	Npnsg
-,	Z
-ki	Cs
-povezujejo	Vmpr3p
-Španijo	Npfsa
-,	Z
-Francijo	Npfsa
-,	Z
-Monako	Npfsa
-,	Z
-Italijo	Npfsa
-,	Z
-Malto	Npfsa
-,	Z
-Hrvaško	Npfsa
-,	Z
-Bosno	Npfsa
-in	Cc
-Hercegovino	Npfsa
-,	Z
-Črno	Agpfsa
-goro	Ncfsa
-,	Z
-Albanijo	Npfsa
-,	Z
-Grčijo	Npfsa
-,	Z
-Ciper	Npfsa
-,	Z
-Turčijo	Npfsa
-,	Z
-Sirijo	Npfsa
-,	Z
-Libanon	Npfsa
-,	Z
-Izrael	Npmsan
-,	Z
-Palestino	Npfsa
-,	Z
-Egipt	Npmsan
-,	Z
-Libijo	Npfsa
-,	Z
-Tunizijo	Npfsa
-,	Z
-Alžirijo	Npfsa
-,	Z
-Marko	Npfsa
-in	Cc
--	Z
-Slovenijo	Npfsa
-.	Z
-Kot	Cs
-predstavnika	Ncmsay
-naše	Ps1fsgp
-države	Ncfsg
-sta	Va-r3d-n
-kuratorja	Ncmdn
-Francesco	Npfsn
-Bonami	Npfpg
-in	Cc
-Emanuela	Npmsg
-Mazzonis	Npmsn
-izbrala	Vmep-dm
-fotografa	Ncmsay
-Aleša	Npmsay
-Bravničarja	Npmsg
-,	Z
-ki	Cs
-bo	Va-f3s-n
-v	Sl
-Narodnem	Agpmsl
-muzeju	Ncmsl
-umetnosti	Ncfsg
-XXI	Mro
-stoletja	Ncnsg
-MAXXI	Npmsn
-v	Sl
-Rimu	Npmsl
-4	Mdc
-.	Z
-julija	Ncmsg
-razstavil	Vmep-sm
-sredozemske	Agpfpa
-podobe	Ncfpa
-iz	Sg
-njegove	Ps3fsgsm
-serije	Ncfsg
-miniaturnih	Agpmpg
-svetov	Ncmpg
-Miniverse	Npmsn
-I	Mrc
-in	Cc
-II	Mrc
-.	Z
-Razstava	Ncfsn
-bo	Va-f3s-n
-na	Sa
-ogled	Ncmsan
-do	Sg
-29	Mdc
-.	Z
-septembra	Ncmsg
-.	Z
+token	tag	lemma
+Nešteto	mte:Rgp	nešteto
+pokrajin	mte:Ncfpg	pokrajina
+,	mte:Z	,
+a	mte:Cc	a
+le	mte:Q	le
+eno	mte:Mlpnsn	en
+morje	mte:Ncnsn	morje
+.	mte:Z	.
+46	mte:Mdc	46
+tisoč	mte:Mlc-pa	tisoč
+kilometrov	mte:Ncmpg	kilometer
+obale	mte:Ncfsg	obala
+,	mte:Z	,
+ki	mte:Cs	ki
+povezuje	mte:Vmpr3s	povezovati
+tri	mte:Mlcfpa	trije
+celine	mte:Ncfpa	celina
+.	mte:Z	.
+Križišče	mte:Ncnsa	križišče
+narodov	mte:Ncmpg	narod
+,	mte:Z	,
+civilizacij	mte:Ncfpg	civilizacija
+in	mte:Cc	in
+zibelka	mte:Ncfsn	zibelka
+najstarejših	mte:Agsfpg	star
+kultur	mte:Ncfpg	kultura
+.	mte:Z	.
+Ob	mte:Sl	ob
+stoletnici	mte:Ncfsl	stoletnica
+italijanske	mte:Agpfsg	italijanski
+Banca	mte:Npfsg	Banca
+Nazionale	mte:Npfsg	Nazionale
+del	mte:Ncmsn	del
+Lavoro	mte:Npmsn	Lavora
+BNL	mte:Npmsg	BNL
+,	mte:Z	,
+članice	mte:Ncfpa	članica
+ene	mte:Mlpfsg	en
+večjih	mte:Agcfpg	velik
+svetovnih	mte:Agpfpg	svetoven
+bančnih	mte:Agpfpg	bančen
+skupin	mte:Ncfpg	skupina
+BNP	mte:Npmsn	BNP
+Paribas	mte:Npmsn	Paribas
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+duhu	mte:Ncmsl	duh
+povezovanja	mte:Ncnsg	povezovanje
+kulturnih	mte:Agpmpg	kulturen
+in	mte:Cc	in
+umetniških	mte:Agpmpg	umetniški
+dialogov	mte:Ncmpg	dialog
+zasnovali	mte:Vmep-pm	zasnovati
+večmedijsko	mte:Agpfsa	večmedijski
+razstavo	mte:Ncfsa	razstava
+"	mte:Z	"
+The	mte:Xf	the
+sea	mte:Xf	sea
+is	mte:Xf	is
+my	mte:Xf	my
+land	mte:Xf	land
+"	mte:Z	"
+,	mte:Z	,
+ki	mte:Cs	ki
+presega	mte:Vmpr3s	presegati
+fizične	mte:Agpfpa	fizičen
+družbene	mte:Agpfpa	družben
+meje	mte:Ncfpa	meja
+,	mte:Z	,
+verski	mte:Agpmsay	verski
+pluralizem	mte:Ncmsan	pluralizem
+in	mte:Cc	in
+etnične	mte:Agpmpa	etničen
+okvirje	mte:Ncmpa	okvirje
+.	mte:Z	.
+K	mte:Sd	k
+sodelovanju	mte:Ncnsd	sodelovanje
+so	mte:Va-r3p-n	biti
+povabili	mte:Vmep-pm	povabiti
+po	mte:Sa	po
+enega	mte:Mlpmsa	en
+avtorja	mte:Ncmsay	avtor
+iz	mte:Sg	iz
+vsake	mte:Pg-fsg	vsak
+države	mte:Ncfsg	država
+,	mte:Z	,
+ki	mte:Cs	ki
+meji	mte:Vmpr3s	meja
+na	mte:Sa	na
+sredozemsko	mte:Agpnsa	sredozemski
+morje	mte:Ncnsa	morje
+,	mte:Z	,
+in	mte:Cc	in
+nastalo	mte:Vmep-sn	nastati
+je	mte:Va-r3s-n	biti
+22	mte:Mdc	22
+vizij	mte:Ncfpg	vizje
+Sredozemlja	mte:Npnsg	Sredozememl
+,	mte:Z	,
+ki	mte:Cs	ki
+povezujejo	mte:Vmpr3p	povezovati
+Španijo	mte:Npfsa	Španija
+,	mte:Z	,
+Francijo	mte:Npfsa	Francija
+,	mte:Z	,
+Monako	mte:Npfsa	Monako
+,	mte:Z	,
+Italijo	mte:Npfsa	Italija
+,	mte:Z	,
+Malto	mte:Npfsa	Malto
+,	mte:Z	,
+Hrvaško	mte:Npfsa	Hrvaška
+,	mte:Z	,
+Bosno	mte:Npfsa	Bosno
+in	mte:Cc	in
+Hercegovino	mte:Npfsa	Hercegovina
+,	mte:Z	,
+Črno	mte:Agpfsa	črn
+goro	mte:Ncfsa	gora
+,	mte:Z	,
+Albanijo	mte:Npfsa	Albanija
+,	mte:Z	,
+Grčijo	mte:Npfsa	Grčija
+,	mte:Z	,
+Ciper	mte:Npfsa	Ciper
+,	mte:Z	,
+Turčijo	mte:Npfsa	Turčija
+,	mte:Z	,
+Sirijo	mte:Npfsa	Sirija
+,	mte:Z	,
+Libanon	mte:Npfsa	Libanon
+,	mte:Z	,
+Izrael	mte:Npmsan	Izrael
+,	mte:Z	,
+Palestino	mte:Npfsa	Palestina
+,	mte:Z	,
+Egipt	mte:Npmsan	Egipt
+,	mte:Z	,
+Libijo	mte:Npfsa	Libija
+,	mte:Z	,
+Tunizijo	mte:Npfsa	Tunizija
+,	mte:Z	,
+Alžirijo	mte:Npfsa	Alžirija
+,	mte:Z	,
+Marko	mte:Npfsa	Marko
+in	mte:Cc	in
+-	mte:Z	-
+Slovenijo	mte:Npfsa	Slovenija
+.	mte:Z	.
+Kot	mte:Cs	kot
+predstavnika	mte:Ncmsay	predstavnik
+naše	mte:Ps1fsgp	naš
+države	mte:Ncfsg	država
+sta	mte:Va-r3d-n	biti
+kuratorja	mte:Ncmdn	kurator
+Francesco	mte:Npfsn	Francesco
+Bonami	mte:Npfpg	Bona
+in	mte:Cc	in
+Emanuela	mte:Npmsg	Emanuel
+Mazzonis	mte:Npmsn	Mazzonis
+izbrala	mte:Vmep-dm	izbrati
+fotografa	mte:Ncmsay	fotograf
+Aleša	mte:Npmsay	Aleša
+Bravničarja	mte:Npmsg	Bravničar
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+v	mte:Sl	v
+Narodnem	mte:Agpmsl	naroden
+muzeju	mte:Ncmsl	muzej
+umetnosti	mte:Ncfsg	umetnost
+XXI	mte:Mro	XXI
+stoletja	mte:Ncnsg	stoletje
+MAXXI	mte:Npmsn	Maxxi
+v	mte:Sl	v
+Rimu	mte:Npmsl	Rim
+4	mte:Mdc	4
+.	mte:Z	.
+julija	mte:Ncmsg	julij
+razstavil	mte:Vmep-sm	razstaviti
+sredozemske	mte:Agpfpa	sredozemski
+podobe	mte:Ncfpa	podoba
+iz	mte:Sg	iz
+njegove	mte:Ps3fsgsm	njegov
+serije	mte:Ncfsg	serija
+miniaturnih	mte:Agpmpg	miniaturen
+svetov	mte:Ncmpg	svet
+Miniverse	mte:Npmsg	Miniversa
+I	mte:Mrc	I
+in	mte:Cc	in
+II	mte:Mrc	II
+.	mte:Z	.
+Razstava	mte:Ncfsn	razstava
+bo	mte:Va-f3s-n	biti
+na	mte:Sa	na
+ogled	mte:Ncmsan	ogled
+do	mte:Sg	do
+29	mte:Mdc	29
+.	mte:Z	.
+septembra	mte:Ncmsg	september
+.	mte:Z	.
+Aleša	mte:Npmsay	Aleša
+Bravničarja	mte:Npmsg	Bravničar
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+zastopa	mte:Vmpr3s	zastopati
+Galerija	mte:Ncfsn	galerija
+Fotografija	mte:Ncfsn	fotografija

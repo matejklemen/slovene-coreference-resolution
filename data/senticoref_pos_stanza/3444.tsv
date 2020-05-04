@@ -1,523 +1,540 @@
-token	tag
-Pliberk	Npmsn
--	Z
-Potem	Rgp
-ko	Cs
-so	Va-r3p-n
-avstrijske	Agpfpn
-železnice	Ncfpn
-lansko	Agpfsa
-jesen	Ncfsa
-enostransko	Rgp
-prekinile	Vmep-pf
-mednarodni	Agpmsay
-tovorni	Agpmsay
-železniški	Agpmsay
-promet	Ncmsan
-na	Sl
-progi	Ncfsl
-med	Si
-Prevaljami	Ncfpi
-in	Cc
-avstrijskim	Agpmsi
-Pliberkom	Npmsi
-,	Z
-je	Va-r3s-n
-bila	Va-p-sf
-proga	Ncfsn
-novembra	Ncmsg
-lani	Rgp
-ponovno	Rgp
-vzpostavljena	Appfsn
-.	Z
-A	Cc
-le	Q
-začasno	Rgp
-oziroma	Cc
-do	Sg
-10	Mdc
-.	Z
-decembra	Ncmsg
-letos	Rgp
-.	Z
-Koroško	Agpnsa
-gospodarstvo	Ncnsa
-temu	Pd-nsd
-ni	Va-r3s-y
-naklonjeno	Appnsn
-,	Z
-prav	Q
-tako	Rgp
-ne	Q
-župani	Ncmpn
-.	Z
-Avstrijske	Agpfsg
-železnice	Ncfsg
-(	Z
-Rail	Npmsn
-Cargo	Npmsn
-Austria	Npfsn
--	Z
-RCA	Npmsn
-)	Z
-so	Va-r3p-n
-konec	Sg
-septembra	Ncmsg
-lani	Rgp
-zaradi	Sg
-ekonomskih	Agpmpg
-razlogov	Ncmpg
-enostransko	Rgp
-zaprle	Vmep-pf
-12	Mdc
--	Z
-kilometrsko	Agpfsa
-progo	Ncfsa
-za	Sa
-tovorni	Agpmsay
-promet	Ncmsan
-Prevalje	Npnsn
--	Z
-Pliberk	Npmsn
-.	Z
-Temu	Pd-nsd
-so	Va-r3p-n
-najprej	Rgs
-nasprotovali	Vmpp-pm
-v	Sl
-Sindikatu	Ncmsl
-železniškega	Agpmsg
-prometa	Ncmsg
-Slovenije	Npfsg
-,	Z
-še	Q
-ostrejši	Agcmsny
-je	Va-r3s-n
-bil	Va-p-sm
-odziv	Ncmsn
-koroških	Agpmpg
-županov	Ncmpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-izpostavljali	Vmpp-pm
-nujnost	Ncfsa
-ohranitve	Ncfsg
-prometnice	Ncfsg
-proti	Sd
-Evropi	Npfsd
-in	Cc
-od	Sg
-vlade	Ncfsg
-zahtevali	Vmbp-pm
-ukrepanje	Ncnsa
-.	Z
-Za	Sa
-ohranitev	Ncfsa
-se	Px------y
-je	Va-r3s-n
-zavzel	Vmep-sm
-tudi	Q
-minister	Ncmsn
-za	Sa
-promet	Ncmsan
-Patrick	Npmsn
-Vlačič	Npmsn
-,	Z
-ki	Cs
-pa	Cc
-je	Va-r3s-n
-opozoril	Vmep-sm
-,	Z
-da	Cs
-morata	Vmpr3d
-obe	Pg-nda
-podjetji	Ncnda
-,	Z
-slovenske	Agpfpa
-in	Cc
-avstrijske	Agpfpa
-železnice	Ncfpa
-,	Z
-pri	Sl
-tem	Pd-nsl
-najti	Vmen
-svoj	Px-msa
-poslovni	Agpmsay
-interes	Ncmsan
-in	Cc
-seveda	Q
-tovor	Ncmsan
-,	Z
-ki	Cs
-bi	Va-c
-se	Px------y
-na	Sl
-progi	Ncfsl
-še	Q
-naprej	Rgp
-prevažal	Vmpp-sm
-.	Z
-Mednarodni	Agpmsny
-tovorni	Agpmsny
-promet	Ncmsn
-preko	Sg
-mejnega	Agpmsg
-prehoda	Ncmsg
-Prevalje	Npnsn
--	Z
-Pliberk	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-nato	Rgp
-po	Sl
-posredovanju	Ncnsl
-Slovenskih	Agpfpg
-železnic	Ncfpg
-ponovno	Rgp
-vzpostavljen	Appmsnn
-5	Mdc
-.	Z
-novembra	Ncmsg
-lani	Rgp
-.	Z
-Slovenske	Agpfsg
-železnice	Ncfsg
-so	Va-r3p-n
-predstavnikom	Ncmpd
-avstrijskega	Agpmsg
-prevoznika	Ncmsg
-RCA	Npmsn
-izrazile	Vmep-pf
-nestrinjanje	Ncnsa
-z	Si
-enostransko	Agpfsi
-ukinitvijo	Ncfsi
-mednarodnega	Agpmsg
-tovornega	Agpmsg
-prometa	Ncmsg
-čez	Sa
-ta	Pd-msa
-mejni	Agpmsay
-prehod	Ncmsan
-,	Z
-so	Va-r3p-n
-STA	Va-r3d-n
-pojasnili	Vmep-dm
-na	Sl
-Slovenskih	Agpfpl
-železnicah	Ncfpl
-.	Z
-Pogodbo	Ncfsa
-odpovedali	Vmep-pm
-novembra	Ncmsg
-lani	Rgp
-Mednarodni	Agpmsny
-tovorni	Agpmsny
-promet	Ncmsn
-čez	Sa
-ta	Pd-msa
-mejni	Agpmsay
-prehod	Ncmsan
-namreč	Cc
-poteka	Vmpr3s
-v	Sl
-skladu	Ncmsl
-s	Si
-kooperacijsko	Agpfsi
-pogodbo	Ncfsi
-o	Sl
-predaji	Ncfsl
-in	Cc
-prevzemu	Ncmsl
-pošiljk	Ncfpg
-v	Sl
-mednarodnem	Agpmsl
-prometu	Ncmsl
-med	Si
-Slovenijo	Npfsi
-in	Cc
-Avstrijo	Npfsi
-,	Z
-ki	Cs
-tako	Rgp
-najprej	Rgs
-ni	Va-r3s-y
-bila	Va-p-sf
-ustrezno	Rgp
-odpovedana	Appfsn
-.	Z
-So	Va-r3p-n
-pa	Cc
-nato	Rgp
-avstrijske	Agpfpn
-železnice	Ncfsg
-pogodbo	Ncfsa
-skladno	Rgp
-z	Si
-njenimi	Ps3npisf
-določili	Ncnpi
-odpovedale	Vmep-pf
-takoj	Rgp
-novembra	Ncmsg
-lani	Rgp
-.	Z
-Odpovedni	Agpmsny
-rok	Ncmsn
-poteče	Vmer3s
-konec	Sg
-letošnjega	Agpnsg
-leta	Ncnsg
-,	Z
-tako	Cc
-da	Cs
-od	Sg
-10	Mdc
-.	Z
-decembra	Ncmsg
-2011	Mdc
-,	Z
-ko	Cs
-začne	Vmer3s
-veljati	Vmpn
-novi	Agpmsay
-vozni	Agpmsay
-red	Ncmsan
-,	Z
-mednarodni	Agpmsny
-tovorni	Agpmsny
-promet	Ncmsn
-čez	Sa
-ta	Pd-msa
-mejni	Agpmsay
-prehod	Ncmsan
-ne	Q
-bo	Va-f3s-n
-več	Q
-mogoč	Agpmsnn
-,	Z
-pojasnjujejo	Vmpr3p
-v	Sl
-Slovenskih	Agpfpl
-železnicah	Ncfpl
-.	Z
-Poleg	Sg
-koroških	Agpmpg
-županov	Ncmpg
-se	Px------y
-za	Sa
-ohranitev	Ncfsa
-proge	Ncfsg
-zavzemajo	Vmpr3p
-tudi	Q
-v	Sl
-koroškem	Agpnsl
-gospodarstvu	Ncnsl
-.	Z
-Ohranitev	Ncfsa
-proge	Ncfsg
-je	Va-r3s-n
-nujna	Agpfsn
-za	Sa
-obstoj	Ncmsan
-in	Cc
-razvoj	Ncmsan
-lesne	Agpfsg
-industrije	Ncfsg
-in	Cc
-celotnega	Agpnsg
-koroškega	Agpnsg
-gospodarstva	Ncnsg
-,	Z
-menijo	Vmpr3p
-v	Sl
-Lesni	Agpfsl
-Tovarni	Ncfsl
-ivernih	Agpfpg
-plošč	Ncfpg
-(	Z
-TIP	Ncmsn
-)	Z
-Otiški	Agpmsny
-Vrh	Ncmsn
-.	Z
-Kot	Cs
-so	Va-r3p-n
-pojasnili	Vmep-pm
-za	Sa
-STA	Va-r3d-n
-,	Z
-so	Va-r3p-n
-progo	Ncfsa
-v	Sl
-preteklosti	Ncfsl
-že	Q
-uporabljali	Vmpp-pm
-tako	Rgp
-za	Sa
-izvoz	Ncmsan
-ivernih	Agpfpg
-plošč	Ncfpg
-kot	Cs
-tudi	Q
-za	Sa
-uvoz	Ncmsan
-oblega	Ncmsg
-lesa	Ncmsg
-in	Cc
-lepila	Ncnsg
-iz	Sg
-tujine	Ncfsg
-.	Z
-Ukinitev	Ncfsa
-proge	Ncfsg
-bi	Va-c
-tako	Rgp
-negativno	Rgp
-vplivala	Vmpp-sf
-na	Sa
-logistične	Agpfpa
-rešitve	Ncfpa
-v	Sl
-okviru	Ncmsl
-poslovanja	Ncnsg
-Lesne	Ncfsg
-TIP	Ncmsn
-.	Z
-Menijo	Vmpr3p
-,	Z
-da	Cs
-je	Va-r3s-n
-progo	Ncfsa
-potrebno	Agpnsn
-ohraniti	Vmen
-in	Cc
-posodobiti	Vmen
-tako	Rgp
-,	Z
-da	Cs
-bo	Va-f3s-n
-možen	Agpmsnn
-prevoz	Ncmsn
-tovora	Ncmsg
-z	Si
-večjimi	Agcfpi
-osnimi	Agpfpi
-obremenitvami	Ncfpi
-.	Z
-Hkrati	Rgp
-poudarjajo	Vmpr3p
-tudi	Q
-ekološki	Agpmsay
-vidik	Ncmsan
-ohranitve	Ncfsg
-tovornega	Agpmsg
-železniškega	Agpmsg
-prometa	Ncmsg
-.	Z
-Ukinitev	Ncfsn
-ovira	Ncfsn
-za	Sa
-Metal	Ncmsan
-Ravne	Npfsg
-Ukinitev	Ncfsa
-proge	Ncfsg
-predstavlja	Vmpr3s
-tudi	Q
-oviro	Ncfsa
-za	Sa
-nadaljnji	Agpmsay
-razvoj	Ncmsan
-podjetja	Ncnsg
-Metal	Npmsn
-Ravne	Npfsg
-,	Z
-pravi	Vmbr3s
-glavni	Agpmsny
-direktor	Ncmsn
-Metala	Npmsg
-Andrej	Npmsn
-Gradišnik	Npmsn
-.	Z
-Metal	Npmsn
-Ravne	Npfsn
-,	Z
-ki	Cs
-je	Va-r3s-n
-del	Ncmsn
-skupine	Ncfsg
-SIJ	Ncmsn
--	Z
-Slovenska	Agpfsn
-industrija	Ncfsn
-jekla	Ncnsg
-,	Z
-je	Va-r3s-n
-namreč	Cc
-globalno	Agpnsn
-podjetje	Ncnsn
-,	Z
-ki	Cs
-veliko	Rgp
-surovin	Ncfpg
-kupi	Vmer3s
-v	Sl
-Evropi	Npfsl
-in	Cc
-v	Sa
-Evropo	Npfsa
-izvozi	Vmer3s
-več	Rgc
-kot	Cs
-polovico	Ncfsa
-vse	Pg-fsg
-proizvodnje	Ncfsg
-.	Z
-Kot	Cs
-je	Va-r3s-n
-Gradišnik	Npmsn
-pojasnil	Vmep-sm
-za	Sa
-STA	Va-r3d-n
-,	Z
-bi	Va-c
-v	Sl
-primeru	Ncmsl
-ukinitve	Ncfsg
-ves	Pg-msn
-Metalov	Aspmsan
-promet	Ncmsan
-iz	Sg
-EU	Npfsg
-in	Cc
-v	Sa
-EU	Npfsl
-potekal	Vmpp-sm
-po	Sl
-cestah	Ncfpl
-ali	Cc
-po	Sl
-logistično	Rgp
-dražji	Agcfsl
-poti	Ncfsl
-prek	Sg
-Maribora	Npmsg
-.	Z
-Daljši	Agcmsny
-transport	Ncmsnn
-ni	Va-r3s-y
-ugoden	Agpmsnn
-s	Sg
-stroškovnega	Agpmsg
-vidika	Ncmsg
-,	Z
-prav	Q
-tako	Rgp
-cestni	Agpmsny
-transport	Ncmsn
-pomeni	Vmbr3s
-večjo	Agcfsa
-ekološko	Agpfsa
-obremenitev	Ncfsa
-okolja	Ncnsg
-.	Z
+token	tag	lemma
+Pliberk	mte:Npmsn	Pliberk
+-	mte:Z	-
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+so	mte:Va-r3p-n	biti
+avstrijske	mte:Agpfpn	avstrijski
+železnice	mte:Ncfpn	železnica
+lansko	mte:Agpfsa	lanski
+jesen	mte:Ncfsa	jesen
+enostransko	mte:Rgp	enostransko
+prekinile	mte:Vmep-pf	prekiniti
+mednarodni	mte:Agpmsay	mednaroden
+tovorni	mte:Agpmsay	tovoren
+železniški	mte:Agpmsay	železniški
+promet	mte:Ncmsan	promet
+na	mte:Sl	na
+progi	mte:Ncfsl	proga
+med	mte:Si	med
+Prevaljami	mte:Ncfpi	prevalja
+in	mte:Cc	in
+avstrijskim	mte:Agpmsi	avstrijski
+Pliberkom	mte:Npmsi	Pliberk
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+proga	mte:Ncfsn	proga
+novembra	mte:Ncmsg	november
+lani	mte:Rgp	lani
+ponovno	mte:Rgp	ponovno
+vzpostavljena	mte:Appfsn	vzpostavljen
+.	mte:Z	.
+A	mte:Cc	a
+le	mte:Q	le
+začasno	mte:Rgp	začasno
+oziroma	mte:Cc	oziroma
+do	mte:Sg	do
+10	mte:Mdc	10
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+letos	mte:Rgp	letos
+.	mte:Z	.
+Koroško	mte:Agpnsa	koroški
+gospodarstvo	mte:Ncnsa	gospodarstvo
+temu	mte:Pd-nsd	ta
+ni	mte:Va-r3s-y	biti
+naklonjeno	mte:Appnsn	naklonjen
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+ne	mte:Q	ne
+župani	mte:Ncmpn	župan
+.	mte:Z	.
+Avstrijske	mte:Agpfsg	avstrijski
+železnice	mte:Ncfsg	železnica
+(	mte:Z	(
+Rail	mte:Npmsn	Rail
+Cargo	mte:Npmsn	Cargo
+Austria	mte:Npfsn	Austria
+-	mte:Z	-
+RCA	mte:Npmsn	RCA
+)	mte:Z	)
+so	mte:Va-r3p-n	biti
+konec	mte:Sg	konec
+septembra	mte:Ncmsg	september
+lani	mte:Rgp	lani
+zaradi	mte:Sg	zaradi
+ekonomskih	mte:Agpmpg	ekonomski
+razlogov	mte:Ncmpg	razlog
+enostransko	mte:Rgp	enostransko
+zaprle	mte:Vmep-pf	zapreti
+12	mte:Mdc	12
+-	mte:Z	-
+kilometrsko	mte:Agpfsa	kilometrski
+progo	mte:Ncfsa	proga
+za	mte:Sa	za
+tovorni	mte:Agpmsay	tovoren
+promet	mte:Ncmsan	promet
+Prevalje	mte:Npnsn	Prevalje
+-	mte:Z	-
+Pliberk	mte:Npmsn	Pliberk
+.	mte:Z	.
+Temu	mte:Pd-nsd	ta
+so	mte:Va-r3p-n	biti
+najprej	mte:Rgs	najprej
+nasprotovali	mte:Vmpp-pm	nasprotovati
+v	mte:Sl	v
+Sindikatu	mte:Ncmsl	sindikat
+železniškega	mte:Agpmsg	železniški
+prometa	mte:Ncmsg	promet
+Slovenije	mte:Npfsg	Slovenija
+,	mte:Z	,
+še	mte:Q	še
+ostrejši	mte:Agcmsny	ostrej
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+odziv	mte:Ncmsn	odziv
+koroških	mte:Agpmpg	koroški
+županov	mte:Ncmpg	župan
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+izpostavljali	mte:Vmpp-pm	izpostavljati
+nujnost	mte:Ncfsa	nujnost
+ohranitve	mte:Ncfsg	ohranitev
+prometnice	mte:Ncfsg	prometnica
+proti	mte:Sd	proti
+Evropi	mte:Npfsd	Evropa
+in	mte:Cc	in
+od	mte:Sg	od
+vlade	mte:Ncfsg	vlada
+zahtevali	mte:Vmbp-pm	zahtevati
+ukrepanje	mte:Ncnsa	ukrepanje
+.	mte:Z	.
+Za	mte:Sa	za
+ohranitev	mte:Ncfsa	ohranitev
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+zavzel	mte:Vmep-sm	zavzeti
+tudi	mte:Q	tudi
+minister	mte:Ncmsn	minister
+za	mte:Sa	za
+promet	mte:Ncmsan	promet
+Patrick	mte:Npmsn	Patrick
+Vlačič	mte:Npmsn	Vlačič
+,	mte:Z	,
+ki	mte:Cs	ki
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+opozoril	mte:Vmep-sm	opozoriti
+,	mte:Z	,
+da	mte:Cs	da
+morata	mte:Vmpr3d	morati
+obe	mte:Pg-nda	oba
+podjetji	mte:Ncnda	podjetje
+,	mte:Z	,
+slovenske	mte:Agpfpa	slovenski
+in	mte:Cc	in
+avstrijske	mte:Agpfpa	avstrijski
+železnice	mte:Ncfpa	železnica
+,	mte:Z	,
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+najti	mte:Vmen	najti
+svoj	mte:Px-msa	svoj
+poslovni	mte:Agpmsay	posloven
+interes	mte:Ncmsan	interes
+in	mte:Cc	in
+seveda	mte:Q	seveda
+tovor	mte:Ncmsan	tovor
+,	mte:Z	,
+ki	mte:Cs	ki
+bi	mte:Va-c	biti
+se	mte:Px------y	se
+na	mte:Sl	na
+progi	mte:Ncfsl	proga
+še	mte:Q	še
+naprej	mte:Rgp	naprej
+prevažal	mte:Vmpp-sm	prevažati
+.	mte:Z	.
+Mednarodni	mte:Agpmsny	mednaroden
+tovorni	mte:Agpmsny	tovoren
+promet	mte:Ncmsn	promet
+preko	mte:Sg	preko
+mejnega	mte:Agpmsg	mejen
+prehoda	mte:Ncmsg	prehod
+Prevalje	mte:Npnsn	Prevalje
+-	mte:Z	-
+Pliberk	mte:Npmsn	Pliberk
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+nato	mte:Rgp	nato
+po	mte:Sl	po
+posredovanju	mte:Ncnsl	posredovanje
+Slovenskih	mte:Agpfpg	slovenski
+železnic	mte:Ncfpg	železnica
+ponovno	mte:Rgp	ponovno
+vzpostavljen	mte:Appmsnn	vzpostavljen
+5	mte:Mdc	5
+.	mte:Z	.
+novembra	mte:Ncmsg	november
+lani	mte:Rgp	lani
+.	mte:Z	.
+Slovenske	mte:Agpfsg	slovenski
+železnice	mte:Ncfsg	železnica
+so	mte:Va-r3p-n	biti
+predstavnikom	mte:Ncmpd	predstavnik
+avstrijskega	mte:Agpmsg	avstrijski
+prevoznika	mte:Ncmsg	prevoznik
+RCA	mte:Npmsn	RCA
+izrazile	mte:Vmep-pf	izraziti
+nestrinjanje	mte:Ncnsa	nestrinjanje
+z	mte:Si	z
+enostransko	mte:Agpfsi	enostransko
+ukinitvijo	mte:Ncfsi	ukinitev
+mednarodnega	mte:Agpmsg	mednaroden
+tovornega	mte:Agpmsg	tovoren
+prometa	mte:Ncmsg	promet
+čez	mte:Sa	čez
+ta	mte:Pd-msa	ta
+mejni	mte:Agpmsay	mejen
+prehod	mte:Ncmsan	prehod
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+STA	mte:Va-r3d-n	biti
+pojasnili	mte:Vmep-dm	pojasniti
+na	mte:Sl	na
+Slovenskih	mte:Agpfpl	slovenski
+železnicah	mte:Ncfpl	železnica
+.	mte:Z	.
+Pogodbo	mte:Ncfsa	pogodba
+odpovedali	mte:Vmep-pm	odpovedati
+novembra	mte:Ncmsg	november
+lani	mte:Rgp	lani
+Mednarodni	mte:Agpmsny	mednaroden
+tovorni	mte:Agpmsny	tovoren
+promet	mte:Ncmsn	promet
+čez	mte:Sa	čez
+ta	mte:Pd-msa	ta
+mejni	mte:Agpmsay	mejen
+prehod	mte:Ncmsan	prehod
+namreč	mte:Cc	namreč
+poteka	mte:Vmpr3s	potekati
+v	mte:Sl	v
+skladu	mte:Ncmsl	sklad
+s	mte:Si	z
+kooperacijsko	mte:Agpfsi	kooperacijski
+pogodbo	mte:Ncfsi	pogodba
+o	mte:Sl	o
+predaji	mte:Ncfsl	predaja
+in	mte:Cc	in
+prevzemu	mte:Ncmsl	prevzem
+pošiljk	mte:Ncfpg	pošiljka
+v	mte:Sl	v
+mednarodnem	mte:Agpmsl	mednaroden
+prometu	mte:Ncmsl	promet
+med	mte:Si	med
+Slovenijo	mte:Npfsi	Slovenija
+in	mte:Cc	in
+Avstrijo	mte:Npfsi	Avstrija
+,	mte:Z	,
+ki	mte:Cs	ki
+tako	mte:Rgp	tako
+najprej	mte:Rgs	najprej
+ni	mte:Va-r3s-y	biti
+bila	mte:Va-p-sf	biti
+ustrezno	mte:Rgp	ustrezno
+odpovedana	mte:Appfsn	odpovedan
+.	mte:Z	.
+So	mte:Va-r3p-n	biti
+pa	mte:Cc	pa
+nato	mte:Rgp	nato
+avstrijske	mte:Agpfpn	avstrijski
+železnice	mte:Ncfsg	železnica
+pogodbo	mte:Ncfsa	pogodba
+skladno	mte:Rgp	skladno
+z	mte:Si	z
+njenimi	mte:Ps3npisf	njen
+določili	mte:Ncnpi	določiti
+odpovedale	mte:Vmep-pf	odpovedati
+takoj	mte:Rgp	takoj
+novembra	mte:Ncmsg	november
+lani	mte:Rgp	lani
+.	mte:Z	.
+Odpovedni	mte:Agpmsny	odpoveden
+rok	mte:Ncmsn	rok
+poteče	mte:Vmer3s	poteči
+konec	mte:Sg	konec
+letošnjega	mte:Agpnsg	letošnji
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+tako	mte:Cc	tako
+da	mte:Cs	da
+od	mte:Sg	od
+10	mte:Mdc	10
+.	mte:Z	.
+decembra	mte:Ncmsg	december
+2011	mte:Mdc	2011
+,	mte:Z	,
+ko	mte:Cs	ko
+začne	mte:Vmer3s	začeti
+veljati	mte:Vmpn	veljati
+novi	mte:Agpmsay	nov
+vozni	mte:Agpmsay	vozen
+red	mte:Ncmsan	red
+,	mte:Z	,
+mednarodni	mte:Agpmsny	mednaroden
+tovorni	mte:Agpmsny	tovoren
+promet	mte:Ncmsn	promet
+čez	mte:Sa	čez
+ta	mte:Pd-msa	ta
+mejni	mte:Agpmsay	mejen
+prehod	mte:Ncmsan	prehod
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+več	mte:Q	več
+mogoč	mte:Agpmsnn	mogoč
+,	mte:Z	,
+pojasnjujejo	mte:Vmpr3p	pojasnjevati
+v	mte:Sl	v
+Slovenskih	mte:Agpfpl	slovenski
+železnicah	mte:Ncfpl	železnica
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+koroških	mte:Agpmpg	koroški
+županov	mte:Ncmpg	župan
+se	mte:Px------y	se
+za	mte:Sa	za
+ohranitev	mte:Ncfsa	ohranitev
+proge	mte:Ncfsg	proga
+zavzemajo	mte:Vmpr3p	zavzemati
+tudi	mte:Q	tudi
+v	mte:Sl	v
+koroškem	mte:Agpnsl	koroški
+gospodarstvu	mte:Ncnsl	gospodarstvo
+.	mte:Z	.
+Ohranitev	mte:Ncfsa	ohranitev
+proge	mte:Ncfsg	proga
+je	mte:Va-r3s-n	biti
+nujna	mte:Agpfsn	nujen
+za	mte:Sa	za
+obstoj	mte:Ncmsan	obstoj
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+lesne	mte:Agpfsg	lesen
+industrije	mte:Ncfsg	industrija
+in	mte:Cc	in
+celotnega	mte:Agpnsg	celoten
+koroškega	mte:Agpnsg	koroški
+gospodarstva	mte:Ncnsg	gospodarstvo
+,	mte:Z	,
+menijo	mte:Vmpr3p	meniti
+v	mte:Sl	v
+Lesni	mte:Agpfsl	lesen
+Tovarni	mte:Ncfsl	tovarna
+ivernih	mte:Agpfpg	iveren
+plošč	mte:Ncfpg	plošča
+(	mte:Z	(
+TIP	mte:Ncmsn	TIP
+)	mte:Z	)
+Otiški	mte:Agpmsny	otiški
+Vrh	mte:Ncmsn	vrh
+.	mte:Z	.
+Kot	mte:Cs	kot
+so	mte:Va-r3p-n	biti
+pojasnili	mte:Vmep-pm	pojasniti
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+,	mte:Z	,
+so	mte:Va-r3p-n	biti
+progo	mte:Ncfsa	proga
+v	mte:Sl	v
+preteklosti	mte:Ncfsl	preteklost
+že	mte:Q	že
+uporabljali	mte:Vmpp-pm	uporabljati
+tako	mte:Rgp	tako
+za	mte:Sa	za
+izvoz	mte:Ncmsan	izvoz
+ivernih	mte:Agpfpg	iveren
+plošč	mte:Ncfpg	plošča
+kot	mte:Cs	kot
+tudi	mte:Q	tudi
+za	mte:Sa	za
+uvoz	mte:Ncmsan	uvoz
+oblega	mte:Ncmsg	obleg
+lesa	mte:Ncmsg	les
+in	mte:Cc	in
+lepila	mte:Ncnsg	lepilo
+iz	mte:Sg	iz
+tujine	mte:Ncfsg	tujina
+.	mte:Z	.
+Ukinitev	mte:Ncfsa	ukinitev
+proge	mte:Ncfsg	proga
+bi	mte:Va-c	biti
+tako	mte:Rgp	tako
+negativno	mte:Rgp	negativen
+vplivala	mte:Vmpp-sf	vplivati
+na	mte:Sa	na
+logistične	mte:Agpfpa	logističen
+rešitve	mte:Ncfpa	rešitev
+v	mte:Sl	v
+okviru	mte:Ncmsl	okvir
+poslovanja	mte:Ncnsg	poslovanje
+Lesne	mte:Ncfsg	Lesna
+TIP	mte:Ncmsn	TIP
+.	mte:Z	.
+Menijo	mte:Vmpr3p	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+progo	mte:Ncfsa	proga
+potrebno	mte:Agpnsn	potreben
+ohraniti	mte:Vmen	ohraniti
+in	mte:Cc	in
+posodobiti	mte:Vmen	posodobiti
+tako	mte:Rgp	tako
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+možen	mte:Agpmsnn	možen
+prevoz	mte:Ncmsn	prevoz
+tovora	mte:Ncmsg	tovor
+z	mte:Si	z
+večjimi	mte:Agcfpi	velik
+osnimi	mte:Agpfpi	osen
+obremenitvami	mte:Ncfpi	obremenitev
+.	mte:Z	.
+Hkrati	mte:Rgp	hkrati
+poudarjajo	mte:Vmpr3p	poudarjati
+tudi	mte:Q	tudi
+ekološki	mte:Agpmsay	ekološki
+vidik	mte:Ncmsan	vidik
+ohranitve	mte:Ncfsg	ohranitev
+tovornega	mte:Agpmsg	tovoren
+železniškega	mte:Agpmsg	železniški
+prometa	mte:Ncmsg	promet
+.	mte:Z	.
+Ukinitev	mte:Ncfsn	ukinitev
+ovira	mte:Ncfsn	ovira
+za	mte:Sa	za
+Metal	mte:Ncmsan	metal
+Ravne	mte:Npfsg	Ravne
+Ukinitev	mte:Ncfsa	ukinitev
+proge	mte:Ncfsg	proga
+predstavlja	mte:Vmpr3s	predstavljati
+tudi	mte:Q	tudi
+oviro	mte:Ncfsa	ovira
+za	mte:Sa	za
+nadaljnji	mte:Agpmsay	nadaljnji
+razvoj	mte:Ncmsan	razvoj
+podjetja	mte:Ncnsg	podjetje
+Metal	mte:Npmsn	Metal
+Ravne	mte:Npfsg	Ravne
+,	mte:Z	,
+pravi	mte:Vmbr3s	praviti
+glavni	mte:Agpmsny	glaven
+direktor	mte:Ncmsn	direktor
+Metala	mte:Npmsg	Metal
+Andrej	mte:Npmsn	Andrej
+Gradišnik	mte:Npmsn	Gradišnik
+.	mte:Z	.
+Metal	mte:Npmsn	Metal
+Ravne	mte:Npfsn	Ravne
+,	mte:Z	,
+ki	mte:Cs	ki
+je	mte:Va-r3s-n	biti
+del	mte:Ncmsn	del
+skupine	mte:Ncfsg	skupina
+SIJ	mte:Ncmsn	SIJ
+-	mte:Z	-
+Slovenska	mte:Agpfsn	slovenski
+industrija	mte:Ncfsn	industrija
+jekla	mte:Ncnsg	jeklo
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+namreč	mte:Cc	namreč
+globalno	mte:Agpnsn	globalen
+podjetje	mte:Ncnsn	podjetje
+,	mte:Z	,
+ki	mte:Cs	ki
+veliko	mte:Rgp	veliko
+surovin	mte:Ncfpg	surovina
+kupi	mte:Vmer3s	kupiti
+v	mte:Sl	v
+Evropi	mte:Npfsl	Evropa
+in	mte:Cc	in
+v	mte:Sa	v
+Evropo	mte:Npfsa	Evropa
+izvozi	mte:Vmer3s	izvoziti
+več	mte:Rgc	več
+kot	mte:Cs	kot
+polovico	mte:Ncfsa	polovica
+vse	mte:Pg-fsg	ves
+proizvodnje	mte:Ncfsg	proizvodnja
+.	mte:Z	.
+Kot	mte:Cs	kot
+je	mte:Va-r3s-n	biti
+Gradišnik	mte:Npmsn	Gradišnik
+pojasnil	mte:Vmep-sm	pojasniti
+za	mte:Sa	za
+STA	mte:Va-r3d-n	biti
+,	mte:Z	,
+bi	mte:Va-c	biti
+v	mte:Sl	v
+primeru	mte:Ncmsl	primer
+ukinitve	mte:Ncfsg	ukinitev
+ves	mte:Pg-msn	ves
+Metalov	mte:Aspmsan	Metalov
+promet	mte:Ncmsan	promet
+iz	mte:Sg	iz
+EU	mte:Npfsg	EU
+in	mte:Cc	in
+v	mte:Sa	v
+EU	mte:Npfsl	EU
+potekal	mte:Vmpp-sm	potekati
+po	mte:Sl	po
+cestah	mte:Ncfpl	cesta
+ali	mte:Cc	ali
+po	mte:Sl	po
+logistično	mte:Rgp	logistično
+dražji	mte:Agcfsl	dražji
+poti	mte:Ncfsl	pot
+prek	mte:Sg	prek
+Maribora	mte:Npmsg	Maribor
+.	mte:Z	.
+Daljši	mte:Agcmsny	dolg
+transport	mte:Ncmsn	transport
+ni	mte:Va-r3s-y	biti
+ugoden	mte:Agpmsnn	ugoden
+s	mte:Sg	z
+stroškovnega	mte:Agpmsg	stroškoven
+vidika	mte:Ncmsg	vidik
+,	mte:Z	,
+prav	mte:Q	prav
+tako	mte:Rgp	tako
+cestni	mte:Agpmsny	cesten
+transport	mte:Ncmsn	transport
+pomeni	mte:Vmbr3s	pomeniti
+večjo	mte:Agcfsa	velik
+ekološko	mte:Agpfsa	ekološki
+obremenitev	mte:Ncfsa	obremenitev
+okolja	mte:Ncnsg	okolje
+.	mte:Z	.
+Zato	mte:Cc	zato
+si	mte:Px---d--y	se
+v	mte:Sl	v
+Metalu	mte:Ncmsl	metal
+Ravne	mte:Npfsg	Ravne
+želijo	mte:Vmpr3p	želeti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+proga	mte:Ncfsn	proga
+Prevalje	mte:Npnsn	Prevalje
+-	mte:Z	-
+Pliberk	mte:Npmsn	Pliberk
+delovala	mte:Vmpp-sf	delovati
+tudi	mte:Q	tudi
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji

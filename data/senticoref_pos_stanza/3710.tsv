@@ -1,538 +1,556 @@
-token	tag
-Maribor	Npmsn
--	Z
-Svet	Ncmsn
-Univerzitetnega	Agpmsg
-kliničnega	Agpmsg
-centra	Ncmsg
-(	Z
-UKC	Npmsn
-)	Z
-Maribor	Npmsn
-se	Px------y
-je	Va-r3s-n
-danes	Rgp
-seznanil	Vmep-sm
-s	Si
-poročilom	Ncnsi
-o	Sl
-poslovanju	Ncnsl
-centra	Ncmsg
-v	Sl
-prvih	Mlompl
-devetih	Mlc-pl
-mesecih	Ncmpl
-letos	Rgp
-,	Z
-ko	Cs
-je	Va-r3s-n
-UKC	Npmsn
-beležil	Vmpp-sm
-880.000	Mdc
-evrov	Ncmpg
-izgube	Ncfsg
-.	Z
-Velik	Agpmsan
-del	Ncmsnn
-razprave	Ncfsg
-so	Va-r3p-n
-namenili	Vmep-pm
-varčevalnim	Agpmpd
-ukrepom	Ncmpd
-v	Sl
-letih	Ncnpl
-2011	Mdc
-in	Cc
-2012	Mdc
-.	Z
-Od	Sg
-vodstva	Ncnsg
-UKC	Npmsg
-svet	Ncmsn
-zahteva	Vmbr3s
-,	Z
-naj	Cs
-pripravi	Vmer3s
-podrobni	Agpmsay
-varčevalni	Agpmsay
-načrt	Ncmsan
-za	Sa
-prihodnje	Agpnsa
-leto	Ncnsa
-.	Z
-UKC	Npmsn
-Maribor	Npmsn
-je	Va-r3s-n
-imel	Vmpp-sm
-v	Sl
-prvih	Mlompl
-devetih	Mlc-pl
-mesecih	Ncmpl
-letos	Rgp
-129,8	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-prihodkov	Ncmpg
-in	Cc
-130,7	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-odhodkov	Ncmpg
-.	Z
-Rezultat	Ncmsn
-je	Va-r3s-n
-tako	Rgp
-negativen	Agpmsnn
-,	Z
-kljub	Sd
-temu	Pd-nsd
-pa	Cc
-je	Va-r3s-n
-relativno	Rgp
-manjši	Agcmsny
-v	Sl
-primerjavi	Ncfsl
-z	Si
-negativnim	Agpmsi
-rezultatom	Ncmsi
-v	Sl
-letošnjem	Agpnsl
-prvem	Mlonsl
-polletju	Ncnsl
-,	Z
-je	Va-r3s-n
-danes	Rgp
-poudarilo	Vmep-sn
-vodstvo	Ncnsn
-UKC	Npfsg
-Maribor	Npmsn
-.	Z
-Trenutno	Rgp
-center	Ncmsn
-posluje	Vmpr3s
-stabilno	Agpnsn
-,	Z
-saj	Cc
-se	Px------y
-izguba	Ncfsn
-ni	Va-r3s-y
-večala	Vmpp-sf
-,	Z
-je	Va-r3s-n
-dejal	Vmep-sm
-direktor	Ncmsn
-UKC	Npmsg
-Maribor	Npmsn
-Gregor	Npmsn
-Pivec	Npmsn
-.	Z
-Kakšno	Pq-nsn
-bo	Va-f3s-n
-poslovanje	Ncnsn
-kliničnega	Agpmsg
-centra	Ncmsg
-konec	Sg
-leta	Ncnsg
-,	Z
-je	Va-r3s-n
-po	Sl
-besedah	Ncfpl
-vodstva	Ncnsg
-centra	Ncmsg
-težko	Agpnsn
-napovedati	Vmen
-.	Z
-Ob	Sl
-tem	Pd-nsl
-navajajo	Vmpr3p
-,	Z
-da	Cs
-se	Px------y
-bodo	Va-f3p-n
-pogoji	Ncmpn
-poslovanja	Ncnsg
-UKC	Npfsg
-Maribor	Npmsn
-v	Sa
-prihodnje	Agpnsa
-še	Q
-poslabševali	Vmpp-pm
-,	Z
-saj	Cc
-bodo	Va-f3p-n
-uveljavljeni	Appmpn
-še	Q
-dodatni	Agpmpn
-restrikcijski	Agpmpn
-ukrepi	Ncmpn
-iz	Sg
-aneksa	Ncmsg
-tri	Mlcfpa
-k	Sd
-splošnemu	Agpmsd
-dogovoru	Ncmsd
-.	Z
-Pivec	Npmsn
-je	Va-r3s-n
-med	Si
-drugim	Mlpnsi
-izpostavil	Vmep-sm
-težave	Ncfpa
-z	Si
-obvladovanjem	Ncnsi
-materialnih	Agpmpg
-stroškov	Ncmpg
-in	Cc
-področje	Ncnsa
-laboratorijskih	Agpfpg
-storitev	Ncfpg
-.	Z
-Za	Sa
-slednje	Agpnsa
-je	Va-r3s-n
-center	Ncmsn
-v	Sl
-prvih	Mlompl
-devetih	Mlc-pl
-mesecih	Ncmpl
-letos	Rgp
-plačal	Vmep-sm
-3,2	Mdc
-milijona	Ncmsg
-evrov	Ncmpg
-,	Z
-kar	Pr-nsn
-predstavlja	Vmpr3s
-sedemodstotni	Agpmsay
-porast	Ncmsan
-,	Z
-gre	Vmbr3s
-pa	Cc
-predvsem	Q
-za	Sa
-storitve	Ncfpa
-mikrobioloških	Agpmpg
-laboratorijev	Ncmpg
-.	Z
-V	Sl
-zvezi	Ncfsl
-s	Si
-tem	Pd-nsi
-je	Va-r3s-n
-Pivec	Npmsn
-dejal	Vmep-sm
-,	Z
-da	Cs
-imamo	Vmpr1p-n
-v	Sl
-Sloveniji	Npfsl
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-"	Z
-deformiran	Appmsan
-trg	Ncmsan
-"	Z
-,	Z
-saj	Cc
-imata	Vmpr3d-n
-Mikrobiološki	Agpmsny
-inštitut	Ncmsn
-v	Sl
-Ljubljani	Npfsl
-in	Cc
-Zavod	Ncmsn
-za	Sa
-zdravstveno	Agpnsa
-varstvo	Ncnsa
-Maribor	Npmsn
-izrazit	Agpmsnn
-monopolni	Agpmsny
-položaj	Ncmsn
-.	Z
-Poudaril	Vmep-sm
-je	Va-r3s-n
-,	Z
-da	Cs
-je	Va-r3s-n
-UKC	Npmsn
-Maribor	Npmsn
-sposoben	Agpmsnn
-organizirati	Vmbn
-to	Pd-fsa
-dejavnost	Ncfsa
-sam	Agpmsnn
-znotraj	Sg
-centralnega	Agpmsg
-laboratorija	Ncmsg
-v	Sl
-80	Mdc
-odstotkih	Ncmpl
-,	Z
-vendar	Cc
-zaradi	Sg
-zunanjih	Agpfpg
-omejitev	Ncfpg
-na	Sl
-strokovnem	Agpnsl
-področju	Ncnsl
-oz	Ncmsg
-.	Z
-monopolnega	Agpmsg
-položaja	Ncmsg
-omenjenih	Appfpg
-institucij	Ncfpg
-tega	Pd-nsg
-ne	Q
-smejo	Vmpr3p
-.	Z
-Meni	Vmpr3s
-,	Z
-da	Cs
-je	Va-r3s-n
-v	Sl
-Sloveniji	Npfsl
-na	Sl
-tem	Pd-nsl
-področju	Ncnsl
-treba	Rgp
-nekaj	Pi-nsa
-narediti	Vmen
-,	Z
-saj	Cc
-gre	Vmbr3s
-za	Sa
-velike	Agpmpa
-zneske	Ncmpa
-.	Z
-Člani	Ncmpn
-sveta	Ncmsg
-so	Va-r3p-n
-precej	Rgp
-časa	Ncmsg
-razpravljali	Vmpp-pm
-o	Sl
-varčevalnih	Agpmpl
-ukrepih	Ncmpl
-.	Z
-Lojze	Npmsn
-Grobelnik	Npmsn
-je	Va-r3s-n
-menil	Vmpp-sm
-,	Z
-da	Cs
-bi	Va-c
-moralo	Vmpp-sn
-vodstvo	Ncnsn
-v	Sa
-prihodnje	Agpnsa
-več	Rgc
-varčevati	Vmpn
-na	Sl
-področju	Ncnsl
-nezdravstvenih	Agpfpg
-storitev	Ncfpg
-.	Z
-Prav	Q
-tako	Rgp
-je	Va-r3s-n
-zahteval	Vmbp-sm
-podrobnejši	Agcmsay
-načrt	Ncmsan
-varčevalnih	Agpmpg
-ukrepov	Ncmpg
-v	Sl
-prihodnjem	Agpnsl
-letu	Ncnsl
-,	Z
-čemur	Cs
-so	Va-r3p-n
-v	Sl
-sprejetem	Appmsl
-sklepu	Ncmsl
-sledili	Vmpp-pm
-tudi	Q
-drugi	Mlpmpn
-člani	Ncmpn
-sveta	Ncmsg
-zavoda	Ncmsg
-.	Z
-Pivec	Ncmsn
-rezerve	Ncfsg
-za	Sa
-varčevanje	Ncnsa
-v	Sa
-prihodnje	Agpnsa
-vidi	Vmbr3s
-predvsem	Q
-na	Sl
-področju	Ncnsl
-materialnih	Agpmpg
-stroškov	Ncmpg
-(	Z
-zdravila	Ncnpn
-,	Z
-medicinska	Agpfsn
-oprema	Ncfsn
-in	Cc
-material	Ncmsn
-)	Z
-in	Cc
-na	Sl
-področju	Ncnsl
-porabe	Ncfsg
-energentov	Ncmpg
-.	Z
-Predsednica	Ncfsn
-sveta	Ncmsg
-zavoda	Ncmsg
-Marjetica	Npfsn
-Mahne	Npfsn
-pa	Cc
-je	Va-r3s-n
-ob	Sl
-večurni	Agpfsl
-razpravi	Ncfsl
-in	Cc
-pojasnjevanju	Ncnsl
-poslovanja	Ncnsg
-UKC	Npfsg
-Maribor	Npmsn
-dejala	Vmep-sf
-,	Z
-da	Cs
-je	Va-r3s-n
-svet	Ncmsn
-zavoda	Ncmsg
-zelo	Rgp
-omejen	Appmsnn
-v	Sl
-funkciji	Ncfsl
-sodelovanja	Ncnsg
-pri	Sl
-upravljanju	Ncnsl
-bolnišnice	Ncfsg
-,	Z
-ker	Cs
-je	Va-r3s-n
-sistem	Ncmsn
-financiranja	Ncnsg
-predvsem	Q
-javnih	Agpmpg
-zdravstvenih	Agpmpg
-zavodov	Ncmpg
-,	Z
-še	Q
-posebej	Rgp
-bolnišnic	Ncfpg
-,	Z
-"	Z
-tako	Rgp
-strahotno	Rgp
-zakompliciran	Appmsnn
-"	Z
-.	Z
-Člani	Ncmpn
-sveta	Ncmsg
-so	Va-r3p-n
-se	Px------y
-dotaknili	Vmep-pm
-tudi	Q
-iskanja	Ncnsg
-rešitev	Ncfpg
-za	Sa
-javno	Agpnsa
-naročilo	Ncnsa
-storitev	Ncfpg
-čiščenja	Ncnsg
-prostorov	Ncmpg
-UKC	Npfsg
-Maribor	Npmsn
-in	Cc
-vzpostavljanja	Ncnsg
-urgentnega	Agpmsg
-centra	Ncmsg
-v	Sl
-UKC	Npfsl
-Maribor	Npmsn
-,	Z
-pri	Sl
-čemer	Pr-nsl
-dogovori	Ncmpn
-z	Si
-Zdravstvenim	Agpmsi
-domom	Ncmsi
-dr	Npmsn
-.	Z
-Adolfa	Npmsg
-Drolca	Npmsg
-potekajo	Vmpr3p
-o	Sl
-združevanju	Ncnsl
-služb	Ncfpg
-nujne	Agpfsg
-medicinske	Agpfsg
-pomoči	Ncfsg
-v	Sa
-enotni	Agpmsay
-center	Ncmsan
-pod	Si
-okriljem	Ncnsi
-UKC	Npfsg
-Maribor	Npmsn
-.	Z
-Pivec	Npmsn
-se	Px------y
-nadeja	Vmpr3s
-,	Z
-da	Cs
-bi	Va-c
-lahko	Rgp
-urgentni	Agpmsny
-center	Ncmsnn
-,	Z
-ki	Cs
-ga	Pp3msa--y
-podpira	Vmpr3s
-tudi	Q
-ministrstvo	Ncnsn
-,	Z
-vzpostavili	Vmep-pm
-do	Sg
-marca	Ncmsg
-prihodnje	Agpnsa
-leto	Ncnsa
-,	Z
-vendar	Cc
-pa	Cc
-to	Pd-nsn
-ne	Q
-pomeni	Vmbr3s
-tudi	Q
-dograditve	Ncfsg
-urgentnega	Agpmsg
-centra	Ncmsg
-,	Z
-saj	Cc
-bodo	Va-f3p-n
-postopki	Ncmpn
-v	Sl
-zvezi	Ncfsl
-z	Si
-gradnjo	Ncfsi
-dolgotrajnejši	Agcmsny
-.	Z
-Zavod	Ncmsn
-se	Px------y
-je	Va-r3s-n
-v	Sl
-zvezi	Ncfsl
-s	Si
-tem	Pd-nsi
-seznanil	Vmep-sm
-z	Si
-nasprotovanjem	Ncnsi
-Zdravstvenega	Agpmsg
-doma	Ncmsg
-dr	Npmsn
-.	Z
+token	tag	lemma
+Maribor	mte:Npmsn	Maribor
+-	mte:Z	-
+Svet	mte:Ncmsn	svet
+Univerzitetnega	mte:Agpmsg	univerziteten
+kliničnega	mte:Agpmsg	kliničen
+centra	mte:Ncmsg	center
+(	mte:Z	(
+UKC	mte:Npmsn	UKC
+)	mte:Z	)
+Maribor	mte:Npmsn	Maribor
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+seznanil	mte:Vmep-sm	seznaniti
+s	mte:Si	z
+poročilom	mte:Ncnsi	poročilo
+o	mte:Sl	o
+poslovanju	mte:Ncnsl	poslovanje
+centra	mte:Ncmsg	center
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+letos	mte:Rgp	letos
+,	mte:Z	,
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+UKC	mte:Npmsn	UKC
+beležil	mte:Vmpp-sm	beležiti
+880.000	mte:Mdc	880.000
+evrov	mte:Ncmpg	evro
+izgube	mte:Ncfsg	izguba
+.	mte:Z	.
+Velik	mte:Agpmsan	velik
+del	mte:Ncmsnn	del
+razprave	mte:Ncfsg	razprava
+so	mte:Va-r3p-n	biti
+namenili	mte:Vmep-pm	nameniti
+varčevalnim	mte:Agpmpd	varčevalen
+ukrepom	mte:Ncmpd	ukrep
+v	mte:Sl	v
+letih	mte:Ncnpl	leto
+2011	mte:Mdc	2011
+in	mte:Cc	in
+2012	mte:Mdc	2012
+.	mte:Z	.
+Od	mte:Sg	od
+vodstva	mte:Ncnsg	vodstvo
+UKC	mte:Npmsg	UKC
+svet	mte:Ncmsn	svet
+zahteva	mte:Vmbr3s	zahtevati
+,	mte:Z	,
+naj	mte:Cs	naj
+pripravi	mte:Vmer3s	pripraviti
+podrobni	mte:Agpmsay	podroben
+varčevalni	mte:Agpmsay	varčevalen
+načrt	mte:Ncmsan	načrt
+za	mte:Sa	za
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+.	mte:Z	.
+UKC	mte:Npmsn	UKC
+Maribor	mte:Npmsn	Maribor
+je	mte:Va-r3s-n	biti
+imel	mte:Vmpp-sm	imeti
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+letos	mte:Rgp	letos
+129,8	mte:Mdc	129,8
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+prihodkov	mte:Ncmpg	prihodek
+in	mte:Cc	in
+130,7	mte:Mdc	130,7
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+odhodkov	mte:Ncmpg	odhodek
+.	mte:Z	.
+Rezultat	mte:Ncmsn	rezultat
+je	mte:Va-r3s-n	biti
+tako	mte:Rgp	tako
+negativen	mte:Agpmsnn	negativen
+,	mte:Z	,
+kljub	mte:Sd	kljub
+temu	mte:Pd-nsd	ta
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+relativno	mte:Rgp	relativno
+manjši	mte:Agcmsny	majhen
+v	mte:Sl	v
+primerjavi	mte:Ncfsl	primerjava
+z	mte:Si	z
+negativnim	mte:Agpmsi	negativen
+rezultatom	mte:Ncmsi	rezultat
+v	mte:Sl	v
+letošnjem	mte:Agpnsl	letošnji
+prvem	mte:Mlonsl	prvi
+polletju	mte:Ncnsl	polletje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+danes	mte:Rgp	danes
+poudarilo	mte:Vmep-sn	poudariti
+vodstvo	mte:Ncnsn	vodstvo
+UKC	mte:Npfsg	UKC
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+Trenutno	mte:Rgp	trenutno
+center	mte:Ncmsn	center
+posluje	mte:Vmpr3s	poslovati
+stabilno	mte:Agpnsn	stabilen
+,	mte:Z	,
+saj	mte:Cc	saj
+se	mte:Px------y	se
+izguba	mte:Ncfsn	izguba
+ni	mte:Va-r3s-y	biti
+večala	mte:Vmpp-sf	večati
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+dejal	mte:Vmep-sm	dejati
+direktor	mte:Ncmsn	direktor
+UKC	mte:Npmsg	UKC
+Maribor	mte:Npmsn	Maribor
+Gregor	mte:Npmsn	Gregor
+Pivec	mte:Npmsn	Pivec
+.	mte:Z	.
+Kakšno	mte:Pq-nsn	kakšen
+bo	mte:Va-f3s-n	biti
+poslovanje	mte:Ncnsn	poslovanje
+kliničnega	mte:Agpmsg	kliničen
+centra	mte:Ncmsg	center
+konec	mte:Sg	konec
+leta	mte:Ncnsg	leto
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+besedah	mte:Ncfpl	beseda
+vodstva	mte:Ncnsg	vodstvo
+centra	mte:Ncmsg	center
+težko	mte:Agpnsn	težek
+napovedati	mte:Vmen	napovedati
+.	mte:Z	.
+Ob	mte:Sl	ob
+tem	mte:Pd-nsl	ta
+navajajo	mte:Vmpr3p	navajati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+bodo	mte:Va-f3p-n	biti
+pogoji	mte:Ncmpn	pogoj
+poslovanja	mte:Ncnsg	poslovanje
+UKC	mte:Npfsg	UKC
+Maribor	mte:Npmsn	Maribor
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+še	mte:Q	še
+poslabševali	mte:Vmpp-pm	poslabševati
+,	mte:Z	,
+saj	mte:Cc	saj
+bodo	mte:Va-f3p-n	biti
+uveljavljeni	mte:Appmpn	uveljavljen
+še	mte:Q	še
+dodatni	mte:Agpmpn	dodaten
+restrikcijski	mte:Agpmpn	restrikcijski
+ukrepi	mte:Ncmpn	ukrep
+iz	mte:Sg	iz
+aneksa	mte:Ncmsg	aneks
+tri	mte:Mlcfpa	trije
+k	mte:Sd	k
+splošnemu	mte:Agpmsd	splošen
+dogovoru	mte:Ncmsd	dogovor
+.	mte:Z	.
+Pivec	mte:Npmsn	Pivec
+je	mte:Va-r3s-n	biti
+med	mte:Si	med
+drugim	mte:Mlpnsi	drug
+izpostavil	mte:Vmep-sm	izpostaviti
+težave	mte:Ncfpa	težava
+z	mte:Si	z
+obvladovanjem	mte:Ncnsi	obvladovanje
+materialnih	mte:Agpmpg	materialen
+stroškov	mte:Ncmpg	strošek
+in	mte:Cc	in
+področje	mte:Ncnsa	področje
+laboratorijskih	mte:Agpfpg	laboratorijski
+storitev	mte:Ncfpg	storitev
+.	mte:Z	.
+Za	mte:Sa	za
+slednje	mte:Agpnsa	slednji
+je	mte:Va-r3s-n	biti
+center	mte:Ncmsn	center
+v	mte:Sl	v
+prvih	mte:Mlompl	prvi
+devetih	mte:Mlc-pl	devet
+mesecih	mte:Ncmpl	mesec
+letos	mte:Rgp	letos
+plačal	mte:Vmep-sm	plačati
+3,2	mte:Mdc	3,2
+milijona	mte:Ncmsg	milijon
+evrov	mte:Ncmpg	evro
+,	mte:Z	,
+kar	mte:Pr-nsn	kar
+predstavlja	mte:Vmpr3s	predstavljati
+sedemodstotni	mte:Agpmsay	sedemodstoten
+porast	mte:Ncmsan	porast
+,	mte:Z	,
+gre	mte:Vmbr3s	iti
+pa	mte:Cc	pa
+predvsem	mte:Q	predvsem
+za	mte:Sa	za
+storitve	mte:Ncfpa	storitev
+mikrobioloških	mte:Agpmpg	mikrobiološki
+laboratorijev	mte:Ncmpg	laboratorij
+.	mte:Z	.
+V	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+je	mte:Va-r3s-n	biti
+Pivec	mte:Npmsn	Pivec
+dejal	mte:Vmep-sm	dejati
+,	mte:Z	,
+da	mte:Cs	da
+imamo	mte:Vmpr1p-n	imeti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+"	mte:Z	"
+deformiran	mte:Appmsan	deformiran
+trg	mte:Ncmsan	trg
+"	mte:Z	"
+,	mte:Z	,
+saj	mte:Cc	saj
+imata	mte:Vmpr3d-n	imeti
+Mikrobiološki	mte:Agpmsny	mikrobiološki
+inštitut	mte:Ncmsn	inštitut
+v	mte:Sl	v
+Ljubljani	mte:Npfsl	Ljubljana
+in	mte:Cc	in
+Zavod	mte:Ncmsn	zavod
+za	mte:Sa	za
+zdravstveno	mte:Agpnsa	zdravstven
+varstvo	mte:Ncnsa	varstvo
+Maribor	mte:Npmsn	Maribor
+izrazit	mte:Agpmsnn	izrazit
+monopolni	mte:Agpmsny	monopolen
+položaj	mte:Ncmsn	položaj
+.	mte:Z	.
+Poudaril	mte:Vmep-sm	poudariti
+je	mte:Va-r3s-n	biti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+UKC	mte:Npmsn	UKC
+Maribor	mte:Npmsn	Maribor
+sposoben	mte:Agpmsnn	sposoben
+organizirati	mte:Vmbn	organizirati
+to	mte:Pd-fsa	ta
+dejavnost	mte:Ncfsa	dejavnost
+sam	mte:Agpmsnn	sam
+znotraj	mte:Sg	znotraj
+centralnega	mte:Agpmsg	centralen
+laboratorija	mte:Ncmsg	laboratorij
+v	mte:Sl	v
+80	mte:Mdc	80
+odstotkih	mte:Ncmpl	odstotek
+,	mte:Z	,
+vendar	mte:Cc	vendar
+zaradi	mte:Sg	zaradi
+zunanjih	mte:Agpfpg	zunanji
+omejitev	mte:Ncfpg	omejitev
+na	mte:Sl	na
+strokovnem	mte:Agpnsl	strokoven
+področju	mte:Ncnsl	področje
+oz	mte:Ncmsg	oz
+.	mte:Z	.
+monopolnega	mte:Agpmsg	monopolen
+položaja	mte:Ncmsg	položaj
+omenjenih	mte:Appfpg	omenjen
+institucij	mte:Ncfpg	institucija
+tega	mte:Pd-nsg	ta
+ne	mte:Q	ne
+smejo	mte:Vmpr3p	smeti
+.	mte:Z	.
+Meni	mte:Vmpr3s	meniti
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+Sloveniji	mte:Npfsl	Slovenija
+na	mte:Sl	na
+tem	mte:Pd-nsl	ta
+področju	mte:Ncnsl	področje
+treba	mte:Rgp	treba
+nekaj	mte:Pi-nsa	nekaj
+narediti	mte:Vmen	narediti
+,	mte:Z	,
+saj	mte:Cc	saj
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+velike	mte:Agpmpa	velik
+zneske	mte:Ncmpa	znesek
+.	mte:Z	.
+Člani	mte:Ncmpn	član
+sveta	mte:Ncmsg	svet
+so	mte:Va-r3p-n	biti
+precej	mte:Rgp	precej
+časa	mte:Ncmsg	čas
+razpravljali	mte:Vmpp-pm	razpravljati
+o	mte:Sl	o
+varčevalnih	mte:Agpmpl	varčevalen
+ukrepih	mte:Ncmpl	ukrep
+.	mte:Z	.
+Lojze	mte:Npmsn	Lojza
+Grobelnik	mte:Npmsn	Grobelnik
+je	mte:Va-r3s-n	biti
+menil	mte:Vmpp-sm	meniti
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+moralo	mte:Vmpp-sn	morati
+vodstvo	mte:Ncnsn	vodstvo
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+več	mte:Rgc	več
+varčevati	mte:Vmpn	varčevati
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+nezdravstvenih	mte:Agpfpg	nezdravstven
+storitev	mte:Ncfpg	storitev
+.	mte:Z	.
+Prav	mte:Q	prav
+tako	mte:Rgp	tako
+je	mte:Va-r3s-n	biti
+zahteval	mte:Vmbp-sm	zahtevati
+podrobnejši	mte:Agcmsay	podroben
+načrt	mte:Ncmsan	načrt
+varčevalnih	mte:Agpmpg	varčevalen
+ukrepov	mte:Ncmpg	ukrep
+v	mte:Sl	v
+prihodnjem	mte:Agpnsl	prihodnji
+letu	mte:Ncnsl	leto
+,	mte:Z	,
+čemur	mte:Cs	čemur
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+sprejetem	mte:Appmsl	sprejet
+sklepu	mte:Ncmsl	sklep
+sledili	mte:Vmpp-pm	slediti
+tudi	mte:Q	tudi
+drugi	mte:Mlpmpn	drug
+člani	mte:Ncmpn	član
+sveta	mte:Ncmsg	svet
+zavoda	mte:Ncmsg	zavod
+.	mte:Z	.
+Pivec	mte:Ncmsn	pivec
+rezerve	mte:Ncfsg	rezerva
+za	mte:Sa	za
+varčevanje	mte:Ncnsa	varčevanje
+v	mte:Sa	v
+prihodnje	mte:Agpnsa	prihodnji
+vidi	mte:Vmbr3s	videti
+predvsem	mte:Q	predvsem
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+materialnih	mte:Agpmpg	materialen
+stroškov	mte:Ncmpg	strošek
+(	mte:Z	(
+zdravila	mte:Ncnpn	zdravilo
+,	mte:Z	,
+medicinska	mte:Agpfsn	medicinski
+oprema	mte:Ncfsn	oprema
+in	mte:Cc	in
+material	mte:Ncmsn	material
+)	mte:Z	)
+in	mte:Cc	in
+na	mte:Sl	na
+področju	mte:Ncnsl	področje
+porabe	mte:Ncfsg	poraba
+energentov	mte:Ncmpg	energent
+.	mte:Z	.
+Predsednica	mte:Ncfsn	predsednica
+sveta	mte:Ncmsg	svet
+zavoda	mte:Ncmsg	zavod
+Marjetica	mte:Npfsn	Marjetica
+Mahne	mte:Npfsn	Mahna
+pa	mte:Cc	pa
+je	mte:Va-r3s-n	biti
+ob	mte:Sl	ob
+večurni	mte:Agpfsl	večuren
+razpravi	mte:Ncfsl	razprava
+in	mte:Cc	in
+pojasnjevanju	mte:Ncnsl	pojasnjevanje
+poslovanja	mte:Ncnsg	poslovanje
+UKC	mte:Npfsg	UKC
+Maribor	mte:Npmsn	Maribor
+dejala	mte:Vmep-sf	dejati
+,	mte:Z	,
+da	mte:Cs	da
+je	mte:Va-r3s-n	biti
+svet	mte:Ncmsn	svet
+zavoda	mte:Ncmsg	zavod
+zelo	mte:Rgp	zelo
+omejen	mte:Appmsnn	omejen
+v	mte:Sl	v
+funkciji	mte:Ncfsl	funkcija
+sodelovanja	mte:Ncnsg	sodelovanje
+pri	mte:Sl	pri
+upravljanju	mte:Ncnsl	upravljanje
+bolnišnice	mte:Ncfsg	bolnišnica
+,	mte:Z	,
+ker	mte:Cs	ker
+je	mte:Va-r3s-n	biti
+sistem	mte:Ncmsn	sistem
+financiranja	mte:Ncnsg	financiranje
+predvsem	mte:Q	predvsem
+javnih	mte:Agpmpg	javen
+zdravstvenih	mte:Agpmpg	zdravstven
+zavodov	mte:Ncmpg	zavodov
+,	mte:Z	,
+še	mte:Q	še
+posebej	mte:Rgp	posebej
+bolnišnic	mte:Ncfpg	bolnišnica
+,	mte:Z	,
+"	mte:Z	"
+tako	mte:Rgp	tako
+strahotno	mte:Rgp	strahotno
+zakompliciran	mte:Appmsnn	zakompliciran
+"	mte:Z	"
+.	mte:Z	.
+Člani	mte:Ncmpn	član
+sveta	mte:Ncmsg	svet
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+dotaknili	mte:Vmep-pm	dotakniti
+tudi	mte:Q	tudi
+iskanja	mte:Ncnsg	iskanje
+rešitev	mte:Ncfpg	rešitev
+za	mte:Sa	za
+javno	mte:Agpnsa	javen
+naročilo	mte:Ncnsa	naročiti
+storitev	mte:Ncfpg	storitev
+čiščenja	mte:Ncnsg	čiščenje
+prostorov	mte:Ncmpg	prostor
+UKC	mte:Npfsg	UKC
+Maribor	mte:Npmsn	Maribor
+in	mte:Cc	in
+vzpostavljanja	mte:Ncnsg	vzpostavljanje
+urgentnega	mte:Agpmsg	urgenten
+centra	mte:Ncmsg	center
+v	mte:Sl	v
+UKC	mte:Npfsl	UKC
+Maribor	mte:Npmsn	Maribor
+,	mte:Z	,
+pri	mte:Sl	pri
+čemer	mte:Pr-nsl	kar
+dogovori	mte:Ncmpn	dogovor
+z	mte:Si	z
+Zdravstvenim	mte:Agpmsi	zdravstven
+domom	mte:Ncmsi	dom
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Adolfa	mte:Npmsg	Adolf
+Drolca	mte:Npmsg	Drolc
+potekajo	mte:Vmpr3p	potekati
+o	mte:Sl	o
+združevanju	mte:Ncnsl	združevanje
+služb	mte:Ncfpg	služba
+nujne	mte:Agpfsg	nujen
+medicinske	mte:Agpfsg	medicinski
+pomoči	mte:Ncfsg	pomoč
+v	mte:Sa	v
+enotni	mte:Agpmsay	enoten
+center	mte:Ncmsan	center
+pod	mte:Si	pod
+okriljem	mte:Ncnsi	okrilje
+UKC	mte:Npmsg	UKC
+Maribor	mte:Npmsn	Maribor
+.	mte:Z	.
+Pivec	mte:Npmsn	Pivec
+se	mte:Px------y	se
+nadeja	mte:Vmpr3s	nadejati
+,	mte:Z	,
+da	mte:Cs	da
+bi	mte:Va-c	biti
+lahko	mte:Rgp	lahko
+urgentni	mte:Agpmsny	urgenten
+center	mte:Ncmsnn	center
+,	mte:Z	,
+ki	mte:Cs	ki
+ga	mte:Pp3msa--y	on
+podpira	mte:Vmpr3s	podpirati
+tudi	mte:Q	tudi
+ministrstvo	mte:Ncnsn	ministrstvo
+,	mte:Z	,
+vzpostavili	mte:Vmep-pm	vzpostaviti
+do	mte:Sg	do
+marca	mte:Ncmsg	marec
+prihodnje	mte:Agpnsa	prihodnji
+leto	mte:Ncnsa	leto
+,	mte:Z	,
+vendar	mte:Cc	vendar
+pa	mte:Cc	pa
+to	mte:Pd-nsn	ta
+ne	mte:Q	ne
+pomeni	mte:Vmbr3s	pomeniti
+tudi	mte:Q	tudi
+dograditve	mte:Ncfsg	dograditev
+urgentnega	mte:Agpmsg	urgenten
+centra	mte:Ncmsg	center
+,	mte:Z	,
+saj	mte:Cc	saj
+bodo	mte:Va-f3p-n	biti
+postopki	mte:Ncmpn	postopek
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+z	mte:Si	z
+gradnjo	mte:Ncfsi	gradnja
+dolgotrajnejši	mte:Agcmsny	dolgotrajen
+.	mte:Z	.
+Zavod	mte:Ncmsn	zavod
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+zvezi	mte:Ncfsl	zveza
+s	mte:Si	z
+tem	mte:Pd-nsi	ta
+seznanil	mte:Vmep-sm	seznaniti
+z	mte:Si	z
+nasprotovanjem	mte:Ncnsi	nasprotovanje
+Zdravstvenega	mte:Agpmsg	zdravstven
+doma	mte:Ncmsg	dom
+dr	mte:Npmsn	dr
+.	mte:Z	.
+Adolfa	mte:Npmsg	Adolf
+Drolca	mte:Npmsg	Drolc
+združevanju	mte:Ncnsd	združevanje
+služb	mte:Ncfpg	služba
+,	mte:Z	,
+saj	mte:Cc	saj
+bi	mte:Va-c	biti
+prenos	mte:Ncmsan	prenos
+teh	mte:Pd-fpg	ta
+dejavnosti	mte:Ncfpg	dejavnost
+pomenil	mte:Vmbp-sm	pomeniti
+precejšen	mte:Agpmsan	precejšen
+poseg	mte:Ncmsan	poseg
+v	mte:Sa	v
+finančne	mte:Agpmpa	finančen
+vzvode	mte:Ncmpa	vzvod
+zdravstvenega	mte:Agpmsg	zdravstven
+doma	mte:Ncmsg	dom

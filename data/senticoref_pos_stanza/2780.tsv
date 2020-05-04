@@ -1,560 +1,593 @@
-token	tag
-London	Npmsn
--	Z
-Alpska	Agpfsn
-kneževina	Ncfsn
-Liechtenstein	Npmsn
-,	Z
-ki	Cs
-se	Px------y
-je	Va-r3s-n
-je	Va-r3s-n
-dolgo	Rgp
-držal	Vmpp-sm
-sloves	Ncmsan
-davčne	Agpfsg
-oaze	Ncfsg
-,	Z
-in	Cc
-Velika	Agpfsn
-Britanija	Npfsn
-sta	Va-r3d-n
-danes	Rgp
-dosegli	Vmep-dm
-dogovor	Ncmsan
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-britanskim	Agpfpd
-davčnim	Agpfpd
-oblastem	Ncfpd
-olajšal	Vmep-sm
-vpogled	Ncmsan
-v	Sa
-bančne	Agpmpa
-račune	Ncmpa
-,	Z
-na	Sl
-katerih	Pq-mpl
-naj	Q
-bi	Va-c
-britanski	Agpmpn
-državljani	Ncmpn
-skrivali	Vmpp-pm
-med	Si
-dvema	Mlcfdi
-in	Cc
-tremi	Mlcfpi
-milijardi	Ncfpi
-funtov	Ncmpg
-.	Z
-Sporazum	Ncmsn
-britanskim	Agpmpd
-državljanom	Ncmpd
-,	Z
-ki	Cs
-skrivajo	Vmpr3p
-premoženje	Ncnsa
-na	Sl
-tajnih	Agpmpl
-računih	Ncmpl
-v	Sl
-kneževini	Npfsl
-med	Si
-Avstrijo	Npfsi
-in	Cc
-Švico	Npfsi
-,	Z
-v	Sl
-obdobju	Ncnsl
-med	Si
-1	Mdc
-.	Z
-septembrom	Ncmsi
-letos	Rgp
-in	Cc
-15	Mdc
-.	Z
-marcem	Ncmsi
-2015	Mdc
-ponuja	Vmpr3s
-možnost	Ncfsa
-,	Z
-da	Cs
-premoženje	Ncnsa
-prostovoljno	Rgp
-prijavijo	Vmer3p
-in	Cc
-so	Va-r3p-n
-v	Sl
-tem	Pd-msl
-primeru	Ncmsl
-deležni	Agpmpn
-bolj	Rgc
-ugodne	Agpfsg
-obravnave	Ncfsg
-pri	Sl
-plačilu	Ncnsl
-davčnega	Agpnsg
-dolga	Agpnsg
-.	Z
-Osebni	Agpmpn
-podatki	Ncmpn
-lastnikov	Ncmpg
-teh	Pd-mpg
-računov	Ncmpg
-bi	Va-c
-namreč	Cc
-ostali	Vmep-pm
-zaupni	Agpmpn
-,	Z
-plačati	Vmen
-pa	Cc
-bi	Va-c
-morali	Vmpp-pm
-pavšalno	Agpfsa
-kazen	Ncfsa
-v	Sl
-višini	Ncfsl
-deset	Mlc-pa
-odstotkov	Ncmpg
-premoženja	Ncnsg
-na	Sl
-računih	Ncmpl
-.	Z
-Če	Cs
-tega	Pd-nsg
-ne	Q
-bodo	Va-f3p-n
-storili	Vmep-pm
-,	Z
-jim	Pp3mpd--y
-bodo	Va-f3p-n
-liechtensteinske	Agpfpn
-oblasti	Ncfpn
-račune	Ncmpn
-zaprle	Vmep-pf
-,	Z
-britanskim	Agpfpd
-davčnim	Agpfpd
-oblastem	Ncfpd
-pa	Cc
-bodo	Va-f3p-n
-morali	Vmpp-pm
-v	Sl
-najslabšem	Agsmsl
-primeru	Ncmsl
-in	Cc
-ko	Cs
-jih	Pp3mpa--y
-bodo	Va-f3p-n
-slednje	Rgp
-dobile	Vmep-pf
-v	Sa
-roke	Ncfpa
-,	Z
-plačati	Vmen
-kazen	Ncfsa
-v	Sl
-višini	Ncfsl
-do	Sg
-100	Mdc
-odstotkov	Ncmpg
-skritega	Appnsg
-premoženja	Ncnsg
-,	Z
-je	Va-r3s-n
-po	Sl
-pisanju	Ncnsl
-francoske	Agpfsg
-tiskovne	Agpfsg
-agencije	Ncfsg
-AFP	Npmsn
-poudaril	Vmep-sm
-Dave	Npmsn
-Hartnett	Npmsn
-iz	Sg
-britanskega	Agpmsg
-davčnega	Agpmsg
-urada	Ncmsg
-HMRC	Npmsn
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-naj	Q
-bi	Va-c
-tisti	Pd-mpn
-,	Z
-ki	Cs
-bodo	Va-f3p-n
-prostovoljno	Rgp
-prijavili	Vmep-pm
-premoženje	Ncnsa
-,	Z
-uživali	Vmpp-pm
-ugodnejšo	Agcfsa
-obravnavo	Ncfsa
-tudi	Q
-,	Z
-ko	Cs
-gre	Vmbr3s
-za	Sa
-obdobje	Ncnsa
-,	Z
-v	Sl
-katerem	Pq-msl
-se	Px------y
-meri	Vmpr3s
-davčni	Agpmsny
-dolg	Agpmsnn
-.	Z
-To	Pd-nsn
-bo	Va-f3s-n
-namreč	Cc
-skrajšano	Appnsn
-z	Si
-običajnih	Agpmpg
-20	Mdc
-na	Sa
-deset	Mlc-pa
-let	Ncnpg
-.	Z
-Imeli	Vmpp-pm
-bodo	Va-f3p-n
-tudi	Q
-možnost	Ncfsa
-,	Z
-da	Cs
-bo	Va-f3s-n
-njihovo	Ps3nsnp
-premoženje	Ncnsn
-v	Sl
-Liechtensteinu	Npmsl
-vnaprej	Rgp
-obdavčeno	Appnsn
-po	Sl
-40	Mdc
--	Z
-odstotni	Agpfsl
-enotni	Agpfsl
-davčni	Agpfsl
-stopnji	Ncfsl
-,	Z
-ki	Cs
-bo	Va-f3s-n
-zamenjala	Vmep-sf
-vse	Pg-fpa
-druge	Mlpfpa
-davčne	Agpfpa
-obveznosti	Ncfpa
-.	Z
-Liechtensteinska	Agpfsn
-vlada	Ncfsn
-je	Va-r3s-n
-v	Sl
-izjavi	Ncfsl
-za	Sa
-javnost	Ncfsa
-medtem	Rgp
-zapisala	Vmep-sf
-,	Z
-da	Cs
-se	Px------y
-zavezuje	Vmpr3s
-zagotavljanju	Ncnsd
-davčne	Agpfsg
-discipline	Ncfsg
-britanskih	Agpfpg
-strank	Ncfpg
-.	Z
-Obenem	Rgp
-je	Va-r3s-n
-kot	Cs
-posebej	Rgp
-pomembno	Rgp
-izpostavila	Vmep-sf
-možnost	Ncfsa
-enotne	Agpfsg
-obdavčitve	Ncfsg
-premoženja	Ncnsg
-,	Z
-saj	Cc
-to	Pd-nsn
-po	Sl
-njenem	Ps3nslsf
-mnenju	Ncnsl
-ne	Q
-bo	Va-f3s-n
-le	Q
-spodbudilo	Vmep-sn
-prostovoljnih	Agpnpg
-razkritij	Ncnpg
-,	Z
-ampak	Cc
-bo	Va-f3s-n
-strankam	Ncfpd
-omogočilo	Vmep-sn
-tudi	Q
-prihranke	Ncmpa
-.	Z
-Je	Va-r3s-n
-pa	Cc
-v	Sl
-sporazumu	Ncmsl
-zanka	Ncfsn
-.	Z
-Posamezniki	Ncmpn
-,	Z
-ki	Cs
-ne	Q
-bodo	Va-f3p-n
-želeli	Vmpp-pm
-prijaviti	Vmen
-svojega	Px-nsg
-premoženja	Ncnsg
-,	Z
-bodo	Va-f3p-n
-lahko	Rgp
-svoja	Px-npa
-sredstva	Ncnpa
-prenesli	Vmep-pm
-drugam	Rgp
-,	Z
-liechtensteinske	Agpfpn
-oblasti	Ncfpn
-pa	Cc
-pri	Sl
-tem	Pd-fsl
-britanskim	Agpfpd
-davčnim	Agpfpd
-oblastem	Ncfpd
-ne	Q
-bodo	Va-f3p-n
-predali	Vmep-pm
-imen	Ncnpg
-lastnikov	Ncmpg
-teh	Pd-mpg
-računov	Ncmpg
-.	Z
-Vaduz	Npmsn
-in	Cc
-London	Npmsn
-sta	Va-r3d-n
-napovedala	Vmep-dm
-tudi	Q
-,	Z
-da	Cs
-bosta	Va-f3d-n
-začela	Vmep-dm
-s	Si
-pogajanji	Ncnpi
-o	Sl
-sporazumu	Ncmsl
-o	Sl
-izogibanju	Ncnsl
-dvojnega	Mlonsg
-obdavčevanja	Ncnsg
-,	Z
-ki	Cs
-naj	Q
-bi	Va-c
-omogočil	Vmep-sm
-izmenjavo	Ncfsa
-davčnih	Agpmpg
-podatkom	Ncmpd
-med	Si
-oblastmi	Ncfpi
-v	Sl
-obeh	Pg-fdl
-državah	Ncfdl
-in	Cc
-tako	Rgp
-preprečeval	Vmpp-sm
-davčne	Agpfsg
-utaje	Ncfpa
-.	Z
-Liechtenstein	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-dalj	Rgp
-časa	Ncmsg
-uvrščen	Appmsnn
-med	Sa
-nesodelujoče	Appfpa
-davčne	Agpfpa
-oaze	Ncfpa
-Liechtenstein	Npmsn
-je	Va-r3s-n
-bil	Va-p-sm
-skupaj	Rgp
-z	Si
-Andoro	Npmsi
-in	Cc
-Monakom	Npmsi
-dlje	Rgc
-časa	Ncmsg
-uvrščen	Appmsnn
-med	Sa
-nesodelujoče	Appfpa
-davčne	Agpfpa
-oaze	Ncfpa
-na	Sl
-seznamu	Ncmsl
-Organizacije	Ncfsg
-za	Sa
-ekonomsko	Agpnsa
-sodelovanje	Ncnsa
-in	Cc
-razvoj	Ncmsan
-(	Z
-OECD	Npmsn
-)	Z
-.	Z
-Potem	Rgp
-ko	Cs
-je	Va-r3s-n
-skupina	Ncfsn
-20	Mdc
-najrazvitejših	Agsnpg
-in	Cc
-najhitreje	Rgs
-rastočih	Appnpg
-gospodarstev	Ncnpg
-na	Sl
-svetu	Ncmsl
-(	Z
-G20	Npmsn
-)	Z
-na	Sl
-aprilskem	Agpmsl
-vrhu	Ncmsl
-v	Sl
-Londonu	Npmsl
-napovedala	Vmep-sf
-okrepljen	Appmsan
-boj	Ncmsan
-proti	Sd
-nesodelujočim	Appfpd
-davčnim	Agpfpd
-jurisdikcijam	Ncfpd
--	Z
-Velika	Agpfsn
-Britanija	Npfsn
-je	Va-r3s-n
-bila	Va-p-sf
-pri	Sl
-tem	Pd-nsl
-zelo	Rgp
-dejavna	Agpfsn
-,	Z
-je	Va-r3s-n
-OECD	Npfsn
-objavila	Vmep-sf
-nov	Agpmsan
-seznam	Ncmsan
-,	Z
-na	Sl
-katerem	Pq-msl
-so	Va-r3p-n
-se	Px------y
-med	Si
-nesodelujočimi	Appfpi
-davčnimi	Agpfpi
-jurisdikcijami	Ncfpi
-,	Z
-ki	Cs
-se	Px------y
-po	Sl
-njenem	Ps3nslsf
-mnenju	Ncnsl
-niso	Va-r3p-y
-zavezale	Vmpp-pf
-k	Sd
-mednarodno	Rgp
-dogovorjenemu	Appmsd
-davčnemu	Agpmsd
-standardu	Ncmsd
-,	Z
-znašli	Vmep-pm
-Kostarika	Npfsn
-,	Z
-Malezija	Npfsn
-,	Z
-Filipini	Npmsn
-in	Cc
-Urugvaj	Npfsn
-.	Z
-Poleg	Sg
-tega	Pd-nsg
-je	Va-r3s-n
-organizacija	Ncfsn
-objavila	Vmep-sf
-seznam	Ncmsan
-38	Mdc
-davčnih	Agpfpg
-jurisdikcij	Ncfpg
-,	Z
-ki	Cs
-so	Va-r3p-n
-se	Px------y
-zavezale	Vmpp-pf
-k	Sd
-mednarodno	Rgp
-dogovorjenemu	Appmsd
-davčnemu	Agpmsd
-standardu	Ncmsd
-,	Z
-a	Cc
-zaenkrat	Rgp
-še	Q
-niso	Va-r3p-y
-v	Sl
-večjem	Agcnsl
-merilu	Ncnsl
-uvedle	Vmep-pf
-ustreznih	Agpmpg
-ukrepov	Ncmpg
-.	Z
-Ta	Pd-msn
-seznam	Ncmsn
-je	Va-r3s-n
-razdeljen	Appmsnn
-na	Sa
-t.i	Mdc
-.	Z
-davčne	Agpfsg
-oaze	Ncfsg
-in	Cc
-na	Sa
-druge	Mlpfpa
-finančne	Agpfpa
-centre	Ncfpa
-,	Z
-na	Sl
-njem	Pp3msl
-pa	Cc
-so	Va-r3p-n
-na	Sa
-primer	Ncmsan
-Avstrija	Npfsn
-,	Z
-Belgija	Npfsn
-,	Z
-Brunej	Npmsn
-,	Z
-Čile	Npmsn
-,	Z
-Liechtenstein	Npmsn
-,	Z
-Luksemburg	Npmsn
-,	Z
-Monako	Npfsn
-,	Z
-Singapur	Npmsn
-,	Z
-Švica	Npfsn
-,	Z
-Bahami	Npmsn
-idr	Npmsn
-.	Z
+token	tag	lemma
+London	mte:Npmsn	London
+-	mte:Z	-
+Alpska	mte:Agpfsn	alpski
+kneževina	mte:Ncfsn	kneževina
+Liechtenstein	mte:Npmsn	Liechtenstein
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+je	mte:Va-r3s-n	biti
+je	mte:Va-r3s-n	biti
+dolgo	mte:Rgp	dolgo
+držal	mte:Vmpp-sm	držati
+sloves	mte:Ncmsan	sloves
+davčne	mte:Agpfsg	davčen
+oaze	mte:Ncfsg	oaza
+,	mte:Z	,
+in	mte:Cc	in
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+sta	mte:Va-r3d-n	biti
+danes	mte:Rgp	danes
+dosegli	mte:Vmep-dm	doseči
+dogovor	mte:Ncmsan	dogovor
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+britanskim	mte:Agpfpd	britanski
+davčnim	mte:Agpfpd	davčen
+oblastem	mte:Ncfpd	oblast
+olajšal	mte:Vmep-sm	olajšati
+vpogled	mte:Ncmsan	vpogled
+v	mte:Sa	v
+bančne	mte:Agpmpa	bančen
+račune	mte:Ncmpa	račun
+,	mte:Z	,
+na	mte:Sl	na
+katerih	mte:Pq-mpl	kateri
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+britanski	mte:Agpmpn	britanski
+državljani	mte:Ncmpn	državljan
+skrivali	mte:Vmpp-pm	skrivati
+med	mte:Si	med
+dvema	mte:Mlcfdi	dva
+in	mte:Cc	in
+tremi	mte:Mlcfpi	trije
+milijardi	mte:Ncfpi	milijarda
+funtov	mte:Ncmpg	funt
+.	mte:Z	.
+Sporazum	mte:Ncmsn	sporazum
+britanskim	mte:Agpmpd	britanski
+državljanom	mte:Ncmpd	državljan
+,	mte:Z	,
+ki	mte:Cs	ki
+skrivajo	mte:Vmpr3p	skrivati
+premoženje	mte:Ncnsa	premoženje
+na	mte:Sl	na
+tajnih	mte:Agpmpl	tajen
+računih	mte:Ncmpl	račun
+v	mte:Sl	v
+kneževini	mte:Npfsl	kneževina
+med	mte:Si	med
+Avstrijo	mte:Npfsi	Avstrija
+in	mte:Cc	in
+Švico	mte:Npfsi	Švico
+,	mte:Z	,
+v	mte:Sl	v
+obdobju	mte:Ncnsl	obdobje
+med	mte:Si	med
+1	mte:Mdc	1
+.	mte:Z	.
+septembrom	mte:Ncmsi	september
+letos	mte:Rgp	letos
+in	mte:Cc	in
+15	mte:Mdc	15
+.	mte:Z	.
+marcem	mte:Ncmsi	marec
+2015	mte:Mdc	2015
+ponuja	mte:Vmpr3s	ponujati
+možnost	mte:Ncfsa	možnost
+,	mte:Z	,
+da	mte:Cs	da
+premoženje	mte:Ncnsa	premoženje
+prostovoljno	mte:Rgp	prostovoljno
+prijavijo	mte:Vmer3p	prijaviti
+in	mte:Cc	in
+so	mte:Va-r3p-n	biti
+v	mte:Sl	v
+tem	mte:Pd-msl	ta
+primeru	mte:Ncmsl	primer
+deležni	mte:Agpmpn	deležen
+bolj	mte:Rgc	bolj
+ugodne	mte:Agpfsg	ugoden
+obravnave	mte:Ncfsg	obravnava
+pri	mte:Sl	pri
+plačilu	mte:Ncnsl	plačilo
+davčnega	mte:Agpnsg	davčen
+dolga	mte:Agpnsg	dolg
+.	mte:Z	.
+Osebni	mte:Agpmpn	oseben
+podatki	mte:Ncmpn	podatek
+lastnikov	mte:Ncmpg	lastnik
+teh	mte:Pd-mpg	ta
+računov	mte:Ncmpg	račun
+bi	mte:Va-c	biti
+namreč	mte:Cc	namreč
+ostali	mte:Vmep-pm	ostati
+zaupni	mte:Agpmpn	zaupen
+,	mte:Z	,
+plačati	mte:Vmen	plačati
+pa	mte:Cc	pa
+bi	mte:Va-c	biti
+morali	mte:Vmpp-pm	morati
+pavšalno	mte:Agpfsa	pavšalen
+kazen	mte:Ncfsa	kazen
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+deset	mte:Mlc-pa	deset
+odstotkov	mte:Ncmpg	odstotek
+premoženja	mte:Ncnsg	premoženje
+na	mte:Sl	na
+računih	mte:Ncmpl	račun
+.	mte:Z	.
+Če	mte:Cs	če
+tega	mte:Pd-nsg	ta
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+storili	mte:Vmep-pm	storiti
+,	mte:Z	,
+jim	mte:Pp3mpd--y	on
+bodo	mte:Va-f3p-n	biti
+liechtensteinske	mte:Agpfpn	liechtensteinski
+oblasti	mte:Ncfpn	oblast
+račune	mte:Ncmpn	račun
+zaprle	mte:Vmep-pf	zapreti
+,	mte:Z	,
+britanskim	mte:Agpfpd	britanski
+davčnim	mte:Agpfpd	davčen
+oblastem	mte:Ncfpd	oblast
+pa	mte:Cc	pa
+bodo	mte:Va-f3p-n	biti
+morali	mte:Vmpp-pm	morati
+v	mte:Sl	v
+najslabšem	mte:Agsmsl	slab
+primeru	mte:Ncmsl	primer
+in	mte:Cc	in
+ko	mte:Cs	ko
+jih	mte:Pp3mpa--y	on
+bodo	mte:Va-f3p-n	biti
+slednje	mte:Rgp	slednji
+dobile	mte:Vmep-pf	dobiti
+v	mte:Sa	v
+roke	mte:Ncfpa	roka
+,	mte:Z	,
+plačati	mte:Vmen	plačati
+kazen	mte:Ncfsa	kazen
+v	mte:Sl	v
+višini	mte:Ncfsl	višina
+do	mte:Sg	do
+100	mte:Mdc	100
+odstotkov	mte:Ncmpg	odstotek
+skritega	mte:Appnsg	skrit
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+po	mte:Sl	po
+pisanju	mte:Ncnsl	pisanje
+francoske	mte:Agpfsg	francoski
+tiskovne	mte:Agpfsg	tiskoven
+agencije	mte:Ncfsg	agencija
+AFP	mte:Npmsn	AFP
+poudaril	mte:Vmep-sm	poudariti
+Dave	mte:Npmsn	Dave
+Hartnett	mte:Npmsn	Hartnett
+iz	mte:Sg	iz
+britanskega	mte:Agpmsg	britanski
+davčnega	mte:Agpmsg	davčen
+urada	mte:Ncmsg	urad
+HMRC	mte:Npmsn	HMRC
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+tisti	mte:Pd-mpn	tisti
+,	mte:Z	,
+ki	mte:Cs	ki
+bodo	mte:Va-f3p-n	biti
+prostovoljno	mte:Rgp	prostovoljno
+prijavili	mte:Vmep-pm	prijaviti
+premoženje	mte:Ncnsa	premoženje
+,	mte:Z	,
+uživali	mte:Vmpp-pm	uživati
+ugodnejšo	mte:Agcfsa	ugoden
+obravnavo	mte:Ncfsa	obravnava
+tudi	mte:Q	tudi
+,	mte:Z	,
+ko	mte:Cs	ko
+gre	mte:Vmbr3s	iti
+za	mte:Sa	za
+obdobje	mte:Ncnsa	obdobje
+,	mte:Z	,
+v	mte:Sl	v
+katerem	mte:Pq-msl	kateri
+se	mte:Px------y	se
+meri	mte:Vmpr3s	mera
+davčni	mte:Agpmsny	davčen
+dolg	mte:Agpmsnn	dolg
+.	mte:Z	.
+To	mte:Pd-nsn	ta
+bo	mte:Va-f3s-n	biti
+namreč	mte:Cc	namreč
+skrajšano	mte:Appnsn	skrajšan
+z	mte:Si	z
+običajnih	mte:Agpmpg	običajen
+20	mte:Mdc	20
+na	mte:Sa	na
+deset	mte:Mlc-pa	deset
+let	mte:Ncnpg	leto
+.	mte:Z	.
+Imeli	mte:Vmpp-pm	imeti
+bodo	mte:Va-f3p-n	biti
+tudi	mte:Q	tudi
+možnost	mte:Ncfsa	možnost
+,	mte:Z	,
+da	mte:Cs	da
+bo	mte:Va-f3s-n	biti
+njihovo	mte:Ps3nsnp	njihov
+premoženje	mte:Ncnsn	premoženje
+v	mte:Sl	v
+Liechtensteinu	mte:Npmsl	Liechtenstein
+vnaprej	mte:Rgp	vnaprej
+obdavčeno	mte:Appnsn	obdavčen
+po	mte:Sl	po
+40	mte:Mdc	40
+-	mte:Z	-
+odstotni	mte:Agpfsl	odstoten
+enotni	mte:Agpfsl	enoten
+davčni	mte:Agpfsl	davčen
+stopnji	mte:Ncfsl	stopnja
+,	mte:Z	,
+ki	mte:Cs	ki
+bo	mte:Va-f3s-n	biti
+zamenjala	mte:Vmep-sf	zamenjati
+vse	mte:Pg-fpa	ves
+druge	mte:Mlpfpa	drug
+davčne	mte:Agpfpa	davčen
+obveznosti	mte:Ncfpa	obveznost
+.	mte:Z	.
+Liechtensteinska	mte:Agpfsn	liechtensteinski
+vlada	mte:Ncfsn	vlada
+je	mte:Va-r3s-n	biti
+v	mte:Sl	v
+izjavi	mte:Ncfsl	izjava
+za	mte:Sa	za
+javnost	mte:Ncfsa	javnost
+medtem	mte:Rgp	medtem
+zapisala	mte:Vmep-sf	zapisati
+,	mte:Z	,
+da	mte:Cs	da
+se	mte:Px------y	se
+zavezuje	mte:Vmpr3s	zavezovati
+zagotavljanju	mte:Ncnsd	zagotavljanje
+davčne	mte:Agpfsg	davčen
+discipline	mte:Ncfsg	disciplina
+britanskih	mte:Agpfpg	britanski
+strank	mte:Ncfpg	stranka
+.	mte:Z	.
+Obenem	mte:Rgp	obenem
+je	mte:Va-r3s-n	biti
+kot	mte:Cs	kot
+posebej	mte:Rgp	posebej
+pomembno	mte:Rgp	pomemben
+izpostavila	mte:Vmep-sf	izpostaviti
+možnost	mte:Ncfsa	možnost
+enotne	mte:Agpfsg	enoten
+obdavčitve	mte:Ncfsg	obdavčitev
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+saj	mte:Cc	saj
+to	mte:Pd-nsn	ta
+po	mte:Sl	po
+njenem	mte:Ps3nslsf	njen
+mnenju	mte:Ncnsl	mnenje
+ne	mte:Q	ne
+bo	mte:Va-f3s-n	biti
+le	mte:Q	le
+spodbudilo	mte:Vmep-sn	spodbuditi
+prostovoljnih	mte:Agpnpg	prostovoljen
+razkritij	mte:Ncnpg	razkritje
+,	mte:Z	,
+ampak	mte:Cc	ampak
+bo	mte:Va-f3s-n	biti
+strankam	mte:Ncfpd	stranka
+omogočilo	mte:Vmep-sn	omogočiti
+tudi	mte:Q	tudi
+prihranke	mte:Ncmpa	prihranek
+.	mte:Z	.
+Je	mte:Va-r3s-n	biti
+pa	mte:Cc	pa
+v	mte:Sl	v
+sporazumu	mte:Ncmsl	sporazum
+zanka	mte:Ncfsn	zank
+.	mte:Z	.
+Posamezniki	mte:Ncmpn	posameznik
+,	mte:Z	,
+ki	mte:Cs	ki
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+želeli	mte:Vmpp-pm	želeti
+prijaviti	mte:Vmen	prijaviti
+svojega	mte:Px-nsg	svoj
+premoženja	mte:Ncnsg	premoženje
+,	mte:Z	,
+bodo	mte:Va-f3p-n	biti
+lahko	mte:Rgp	lahko
+svoja	mte:Px-npa	svoj
+sredstva	mte:Ncnpa	sredstvo
+prenesli	mte:Vmep-pm	prenesti
+drugam	mte:Rgp	drugam
+,	mte:Z	,
+liechtensteinske	mte:Agpfpn	liechtensteinski
+oblasti	mte:Ncfpn	oblast
+pa	mte:Cc	pa
+pri	mte:Sl	pri
+tem	mte:Pd-fsl	ta
+britanskim	mte:Agpfpd	britanski
+davčnim	mte:Agpfpd	davčen
+oblastem	mte:Ncfpd	oblast
+ne	mte:Q	ne
+bodo	mte:Va-f3p-n	biti
+predali	mte:Vmep-pm	predati
+imen	mte:Ncnpg	ime
+lastnikov	mte:Ncmpg	lastnik
+teh	mte:Pd-mpg	ta
+računov	mte:Ncmpg	račun
+.	mte:Z	.
+Vaduz	mte:Npmsn	Vaduz
+in	mte:Cc	in
+London	mte:Npmsn	London
+sta	mte:Va-r3d-n	biti
+napovedala	mte:Vmep-dm	napovedati
+tudi	mte:Q	tudi
+,	mte:Z	,
+da	mte:Cs	da
+bosta	mte:Va-f3d-n	biti
+začela	mte:Vmep-dm	začeti
+s	mte:Si	z
+pogajanji	mte:Ncnpi	pogajanje
+o	mte:Sl	o
+sporazumu	mte:Ncmsl	sporazum
+o	mte:Sl	o
+izogibanju	mte:Ncnsl	izogibanje
+dvojnega	mte:Mlonsg	dvojen
+obdavčevanja	mte:Ncnsg	obdavčevanje
+,	mte:Z	,
+ki	mte:Cs	ki
+naj	mte:Q	naj
+bi	mte:Va-c	biti
+omogočil	mte:Vmep-sm	omogočiti
+izmenjavo	mte:Ncfsa	izmenjava
+davčnih	mte:Agpmpg	davčen
+podatkom	mte:Ncmpd	podatek
+med	mte:Si	med
+oblastmi	mte:Ncfpi	oblast
+v	mte:Sl	v
+obeh	mte:Pg-fdl	oba
+državah	mte:Ncfdl	država
+in	mte:Cc	in
+tako	mte:Rgp	tako
+preprečeval	mte:Vmpp-sm	preprečevati
+davčne	mte:Agpfsg	davčen
+utaje	mte:Ncfpa	utaj
+.	mte:Z	.
+Liechtenstein	mte:Npmsn	Liechtenstein
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+dalj	mte:Rgp	dolgo
+časa	mte:Ncmsg	čas
+uvrščen	mte:Appmsnn	uvrščen
+med	mte:Sa	med
+nesodelujoče	mte:Appfpa	nesodelujoč
+davčne	mte:Agpfpa	davčen
+oaze	mte:Ncfpa	oaza
+Liechtenstein	mte:Npmsn	Liechtenstein
+je	mte:Va-r3s-n	biti
+bil	mte:Va-p-sm	biti
+skupaj	mte:Rgp	skupaj
+z	mte:Si	z
+Andoro	mte:Npmsi	Andoro
+in	mte:Cc	in
+Monakom	mte:Npmsi	Monak
+dlje	mte:Rgc	dolgo
+časa	mte:Ncmsg	čas
+uvrščen	mte:Appmsnn	uvrščen
+med	mte:Sa	med
+nesodelujoče	mte:Appfpa	nesodelujoč
+davčne	mte:Agpfpa	davčen
+oaze	mte:Ncfpa	oaza
+na	mte:Sl	na
+seznamu	mte:Ncmsl	seznam
+Organizacije	mte:Ncfsg	organizacija
+za	mte:Sa	za
+ekonomsko	mte:Agpnsa	ekonomski
+sodelovanje	mte:Ncnsa	sodelovanje
+in	mte:Cc	in
+razvoj	mte:Ncmsan	razvoj
+(	mte:Z	(
+OECD	mte:Npmsn	OECD
+)	mte:Z	)
+.	mte:Z	.
+Potem	mte:Rgp	potem
+ko	mte:Cs	ko
+je	mte:Va-r3s-n	biti
+skupina	mte:Ncfsn	skupina
+20	mte:Mdc	20
+najrazvitejših	mte:Agsnpg	razvizek
+in	mte:Cc	in
+najhitreje	mte:Rgs	nizko
+rastočih	mte:Appnpg	rastoč
+gospodarstev	mte:Ncnpg	gospodarstvo
+na	mte:Sl	na
+svetu	mte:Ncmsl	svet
+(	mte:Z	(
+G20	mte:Npmsn	G20
+)	mte:Z	)
+na	mte:Sl	na
+aprilskem	mte:Agpmsl	aprilski
+vrhu	mte:Ncmsl	vrh
+v	mte:Sl	v
+Londonu	mte:Npmsl	London
+napovedala	mte:Vmep-sf	napovedati
+okrepljen	mte:Appmsan	okrepljen
+boj	mte:Ncmsan	boj
+proti	mte:Sd	proti
+nesodelujočim	mte:Appfpd	nesodelujoč
+davčnim	mte:Agpfpd	davčen
+jurisdikcijam	mte:Ncfpd	jurisdikcija
+-	mte:Z	-
+Velika	mte:Agpfsn	velik
+Britanija	mte:Npfsn	Britanija
+je	mte:Va-r3s-n	biti
+bila	mte:Va-p-sf	biti
+pri	mte:Sl	pri
+tem	mte:Pd-nsl	ta
+zelo	mte:Rgp	zelo
+dejavna	mte:Agpfsn	dejaven
+,	mte:Z	,
+je	mte:Va-r3s-n	biti
+OECD	mte:Npfsn	OECD
+objavila	mte:Vmep-sf	objaviti
+nov	mte:Agpmsan	nov
+seznam	mte:Ncmsan	seznam
+,	mte:Z	,
+na	mte:Sl	na
+katerem	mte:Pq-msl	kateri
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+med	mte:Si	med
+nesodelujočimi	mte:Appfpi	nesodelujoč
+davčnimi	mte:Agpfpi	davčen
+jurisdikcijami	mte:Ncfpi	jurisdikcija
+,	mte:Z	,
+ki	mte:Cs	ki
+se	mte:Px------y	se
+po	mte:Sl	po
+njenem	mte:Ps3nslsf	njen
+mnenju	mte:Ncnsl	mnenje
+niso	mte:Va-r3p-y	biti
+zavezale	mte:Vmpp-pf	zavezati
+k	mte:Sd	k
+mednarodno	mte:Rgp	mednarodno
+dogovorjenemu	mte:Appmsd	dogovorjen
+davčnemu	mte:Agpmsd	davčen
+standardu	mte:Ncmsd	standard
+,	mte:Z	,
+znašli	mte:Vmep-pm	znajti
+Kostarika	mte:Npfsn	Kostarika
+,	mte:Z	,
+Malezija	mte:Npfsn	Malezija
+,	mte:Z	,
+Filipini	mte:Npmsn	Filipina
+in	mte:Cc	in
+Urugvaj	mte:Npfsn	Urugvaj
+.	mte:Z	.
+Poleg	mte:Sg	poleg
+tega	mte:Pd-nsg	ta
+je	mte:Va-r3s-n	biti
+organizacija	mte:Ncfsn	organizacija
+objavila	mte:Vmep-sf	objaviti
+seznam	mte:Ncmsan	seznam
+38	mte:Mdc	38
+davčnih	mte:Agpfpg	davčen
+jurisdikcij	mte:Ncfpg	jurisdikcija
+,	mte:Z	,
+ki	mte:Cs	ki
+so	mte:Va-r3p-n	biti
+se	mte:Px------y	se
+zavezale	mte:Vmpp-pf	zavezati
+k	mte:Sd	k
+mednarodno	mte:Rgp	mednarodno
+dogovorjenemu	mte:Appmsd	dogovorjen
+davčnemu	mte:Agpmsd	davčen
+standardu	mte:Ncmsd	standard
+,	mte:Z	,
+a	mte:Cc	a
+zaenkrat	mte:Rgp	zaenkrat
+še	mte:Q	še
+niso	mte:Va-r3p-y	biti
+v	mte:Sl	v
+večjem	mte:Agcnsl	velik
+merilu	mte:Ncnsl	merilo
+uvedle	mte:Vmep-pf	uvesti
+ustreznih	mte:Agpmpg	ustrezen
+ukrepov	mte:Ncmpg	ukrep
+.	mte:Z	.
+Ta	mte:Pd-msn	ta
+seznam	mte:Ncmsn	seznam
+je	mte:Va-r3s-n	biti
+razdeljen	mte:Appmsnn	razdeljen
+na	mte:Sa	na
+t.i	mte:Mdc	t.i
+.	mte:Z	.
+davčne	mte:Agpfsg	davčen
+oaze	mte:Ncfsg	oaza
+in	mte:Cc	in
+na	mte:Sa	na
+druge	mte:Mlpfpa	drug
+finančne	mte:Agpfpa	finančen
+centre	mte:Ncfpa	center
+,	mte:Z	,
+na	mte:Sl	na
+njem	mte:Pp3msl	on
+pa	mte:Cc	pa
+so	mte:Va-r3p-n	biti
+na	mte:Sa	na
+primer	mte:Ncmsan	primer
+Avstrija	mte:Npfsn	Avstrija
+,	mte:Z	,
+Belgija	mte:Npfsn	Belgija
+,	mte:Z	,
+Brunej	mte:Npmsn	Brunej
+,	mte:Z	,
+Čile	mte:Npfsn	Čile
+,	mte:Z	,
+Liechtenstein	mte:Npmsn	Liechtenstein
+,	mte:Z	,
+Luksemburg	mte:Npmsn	Luksemburg
+,	mte:Z	,
+Monako	mte:Npfsn	Monako
+,	mte:Z	,
+Singapur	mte:Npmsn	Singapur
+,	mte:Z	,
+Švica	mte:Npfsn	Švica
+,	mte:Z	,
+Bahami	mte:Npmsn	Bahama
+idr	mte:Npmsn	idr
+.	mte:Z	.
+Vsaj	mte:Q	vsaj
+evropske	mte:Agpfpn	evropski
+države	mte:Ncfpn	država
+na	mte:Sl	na
+tem	mte:Pd-msl	ta
+sivem	mte:Agpmsl	siv
+seznamu	mte:Ncmsl	seznam
+so	mte:Va-r3p-n	biti
+že	mte:Q	že
+napovedale	mte:Vmep-pf	napovedati
+,	mte:Z	,
+da	mte:Cs	da
+bodo	mte:Va-f3p-n	biti
+omilile	mte:Vmep-pf	omiliti
+pravila	mte:Ncnpa	pravilo
+o	mte:Sl	o
+bančni	mte:Agpfsl	bančen
+tajnosti	mte:Ncfsl	tajnost
+in	mte:Cc	in
+preko	mte:Sg	preko
+sporazumov	mte:Ncmpg	sporazum
+o	mte:Sl	o
+izogibanju	mte:Ncnsl	izogibanje
+dvojnega	mte:Mlonsg	dvojen
+obdavčenja	mte:Ncnsg	obdavčenje
+začele	mte:Vmep-pf	začeti
+sodelovati	mte:Vmpn	sodelovati
+z	mte:Si	z
+davčnimi	mte:Agpfpi	davčen
+oblastmi	mte:Ncfpi	oblast
+v	mte:Sl	v
+drugih	mte:Mlpfpl	drug
+državah	mte:Ncfpl	država

@@ -43,7 +43,7 @@ if RANDOM_SEED:
     np.random.seed(RANDOM_SEED)
     torch.random.manual_seed(RANDOM_SEED)
 
-DATABASE_NAME = 'coref149'  # Use 'coref149' or 'senticoref'
+DATASET_NAME = 'senticoref'  # Use 'coref149' or 'senticoref'
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
 VISUALIZATION_OPEN_WHEN_DONE = True
@@ -83,14 +83,16 @@ class MentionFeatures:
         self.mention = mention
 
         # bs4 tags (metadata) for mention tokens (<=1 per token, punctuation currently excluded)
-        mention_objs = document.ssj_doc.findAll("w", {"xml:id": lambda val: val and val in mention.token_ids})
+        mention_objs = []
+        for tok_id in mention.token_ids:
+            mention_objs.append(document.metadata['tokens'][tok_id])
 
         # Index in which mention appears
         self.idx_sent = mention.positions[0][0]
         self.idx_in_sent = mention.positions[0][1] # TODO
 
         # morphosyntactic description
-        self.msd_desc = mention_objs[0].attrs["ana"].split(":")[1]
+        self.msd_desc = mention_objs[0]["ana"]
 
         # gender, number, main category
         self.gender = None  # {None, 'm', 's', 'z'}
@@ -103,7 +105,7 @@ class MentionFeatures:
 
         counted_categories = Counter()
         for obj in mention_objs:
-            _, obj_msd_desc = obj["ana"].split(":")
+            obj_msd_desc = obj["ana"]
 
             # Take gender of first token for which it can be determined
             if self.gender is None:
@@ -123,8 +125,13 @@ class MentionFeatures:
             counted_categories[obj_category] += 1
 
             # add token and it's lemma to list
-            self.tokens.append(obj.text)
-            self.lemmas.append(obj["lemma"])
+            # self.tokens.append(obj.text)
+
+            self.tokens.append(obj["text"])
+            if "lemma" in obj:
+                self.lemmas.append(obj["lemma"])
+            else:
+                self.lemmas.append(obj["text"])
 
         self.category = counted_categories.most_common(1)[0][0]
 
@@ -512,7 +519,7 @@ class BaselineModel:
             # Save test predictions and scores to file for further debugging
             with open(self.path_pred_scores, "w", encoding="utf-8") as f:
                 f.writelines([
-                    f"Database: {DATABASE_NAME}\n\n",
+                    f"Database: {DATASET_NAME}\n\n",
                     f"Test scores:\n",
                     f"MUC:      {muc_score}\n",
                     f"BCubed:   {b3_score}\n",
@@ -735,7 +742,7 @@ if __name__ == "__main__":
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
 
     # Read corpus. Documents will be of type 'Document'
-    documents = read_corpus(DATABASE_NAME)
+    documents = read_corpus(DATASET_NAME)
     train_docs, dev_docs, test_docs = split_into_sets(documents)
 
     if not baseline.loaded_from_file:
