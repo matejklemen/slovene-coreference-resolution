@@ -575,7 +575,7 @@ class BaselineModel:
             Returns predictions, loss and number of examples evaluated. """
 
         if len(curr_doc.mentions) == 0:
-            return [], (0.0, 0)
+            return {}, (0.0, 0)
 
         cluster_sets = []
         mention_to_cluster_id = {}
