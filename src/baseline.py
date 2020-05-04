@@ -34,7 +34,7 @@ logger = init_logging()
 #####################
 
 NUM_FEATURES = 14  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 100
+NUM_EPOCHS = 1
 LEARNING_RATE = 0.005
 
 # affects shuffle of documents for training/dev/test set and initial parameters for model
@@ -43,7 +43,7 @@ if RANDOM_SEED:
     np.random.seed(RANDOM_SEED)
     torch.random.manual_seed(RANDOM_SEED)
 
-DATABASE_NAME = 'senticoref'  # Use 'coref149' or 'senticoref'
+DATABASE_NAME = 'coref149'  # Use 'coref149' or 'senticoref'
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
 VISUALIZATION_OPEN_WHEN_DONE = True
@@ -652,6 +652,52 @@ class BaselineModel:
         return preds, (doc_loss, n_examples)
 
 
+class AllInOneModel:
+    def evaluate(self, test_docs):
+        muc_score = metrics.Score()
+        b3_score = metrics.Score()
+        ceaf_score = metrics.Score()
+
+        for curr_doc in test_docs:
+            # gt = ground truth, pr = predicted by model
+            gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
+            pr_clusters = {cluster: {mention} for cluster, mention in enumerate(curr_doc.mentions.keys())}
+
+            muc_score.add(metrics.muc(gt_clusters, pr_clusters))
+            b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
+            ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
+
+        logging.info(f"All-in-one model: test scores")
+        logging.info(f"MUC:      {muc_score}")
+        logging.info(f"BCubed:   {b3_score}")
+        logging.info(f"CEAFe:    {ceaf_score}")
+        logging.info(f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}")
+        logging.info(f"\n")
+
+
+class EachInOwnModel:
+    def evaluate(self, test_docs):
+        muc_score = metrics.Score()
+        b3_score = metrics.Score()
+        ceaf_score = metrics.Score()
+
+        for curr_doc in test_docs:
+            # gt = ground truth, pr = predicted by model
+            gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
+            pr_clusters = {0: set(curr_doc.mentions.keys())}
+
+            muc_score.add(metrics.muc(gt_clusters, pr_clusters))
+            b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
+            ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
+
+        logging.info(f"Each-in-own model: test scores")
+        logging.info(f"MUC:      {muc_score}")
+        logging.info(f"BCubed:   {b3_score}")
+        logging.info(f"CEAFe:    {ceaf_score}")
+        logging.info(f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}")
+        logging.info(f"\n")
+
+
 def split_into_sets(documents):
     """
     Splits documents array into three sets: learning, validation & testing.
@@ -697,3 +743,8 @@ if __name__ == "__main__":
         baseline.train(NUM_EPOCHS, train_docs, dev_docs)
 
     baseline.evaluate(test_docs)
+
+    aioModel = AllInOneModel()
+    aioModel.evaluate(test_docs)
+    eioModel = EachInOwnModel()
+    eioModel.evaluate(test_docs)

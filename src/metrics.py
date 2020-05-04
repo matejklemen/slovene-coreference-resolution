@@ -1,6 +1,15 @@
 import neleval.coref_metrics as metrics
 
 
+# input into metric functions should be formatted as dictionary of {int -> set(str)},
+# where keys (ints) are clusters and values (string sets) are mentions in a cluster. Example:
+# {
+#  1: {'rc_1', 'rc_2', ...}
+#  2: {'rc_5', 'rc_8', ...}
+#  3: ...
+# }
+
+
 class Score:
 
     def __init__(self):
