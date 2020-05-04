@@ -34,7 +34,7 @@ logger = init_logging()
 #####################
 
 NUM_FEATURES = 14  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 1
+NUM_EPOCHS = 100
 LEARNING_RATE = 0.005
 
 # affects shuffle of documents for training/dev/test set and initial parameters for model
@@ -676,7 +676,7 @@ class AllInOneModel:
         for curr_doc in test_docs:
             # gt = ground truth, pr = predicted by model
             gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
-            pr_clusters = {cluster: {mention} for cluster, mention in enumerate(curr_doc.mentions.keys())}
+            pr_clusters = {0: set(curr_doc.mentions.keys())}
 
             muc_score.add(metrics.muc(gt_clusters, pr_clusters))
             b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
@@ -714,7 +714,7 @@ class EachInOwnModel:
         for curr_doc in test_docs:
             # gt = ground truth, pr = predicted by model
             gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
-            pr_clusters = {0: set(curr_doc.mentions.keys())}
+            pr_clusters = {cluster: {mention} for cluster, mention in enumerate(curr_doc.mentions.keys())}
 
             muc_score.add(metrics.muc(gt_clusters, pr_clusters))
             b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
@@ -771,7 +771,7 @@ if __name__ == "__main__":
 
     # if you'd like to reuse a model, give it a name, i.e.
     # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
-    baseline = BaselineModel(NUM_FEATURES, name="202005904_160314")
+    baseline = BaselineModel(NUM_FEATURES)
 
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
 
