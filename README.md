@@ -43,8 +43,9 @@ data/
     +-- ... (list of .tsv files)
 ```
 
-Coref149 and sentiCoref are the main dataset we use, while the other one is used for additional metadata such as dependencies 
-and POS tags.
+Coref149 and SentiCoref are the main datasets we use. 
+
+SSJ500k is used for additional metadata such as dependencies and POS tags, which are not provided by coref149 itself.
 
 Since only a subset of SSJ500k is used, it can be trimmed to decrease its size and improve loading time. 
 To do that, run `trim_ssj.py`:
