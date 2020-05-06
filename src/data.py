@@ -105,8 +105,36 @@ class Token:
         self.position_in_sentence = position_in_sentence
         self.position_in_document = position_in_document
 
+        self.gender = self._extract_gender(msd)
+        self.number = self._extract_number(msd)
+        self.category = msd[0]
+
     def __str__(self):
         return f"Token(\"{self.raw_text}\")"
+
+    def _extract_number(self, msd_string):
+        number = None
+        if msd_string[0] == "S" and len(msd_string) >= 4:  # noun/samostalnik
+            number = msd_string[3]
+        elif msd_string[0] == "G" and len(msd_string) >= 6:  # verb/glagol
+            number = msd_string[5]
+        # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
+        elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 5:
+            number = msd_string[4]
+
+        return number
+
+    def _extract_gender(self, msd_string):
+        gender = None
+        if msd_string[0] == "S" and len(msd_string) >= 3:  # noun/samostalnik
+            gender = msd_string[2]
+        elif msd_string[0] == "G" and len(msd_string) >= 7:  # verb/glagol
+            gender = msd_string[6]
+        # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
+        elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 4:
+            gender = msd_string[3]
+
+        return gender
 
 
 class Mention:

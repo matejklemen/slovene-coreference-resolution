@@ -110,49 +110,19 @@ class MentionFeatures:
         for token in mention.tokens:
             # Take gender of first token for which it can be determined
             if self.gender is None:
-                obj_gender = self._extract_gender(token.msd)
-                if obj_gender in {"m", "z", "s"}:
-                    self.gender = obj_gender
+                if token.gender in {"m", "z", "s"}:
+                    self.gender = token.gender
 
             # Take number of first token for which it can be determined
             if self.number is None:
-                obj_number = self._extract_number(token.msd)
-                if obj_number in {"e", "d", "m"}:
-                    self.number = obj_number
+                if token.number in {"e", "d", "m"}:
+                    self.number = token.number
 
             # Count how many times each category appears in mention's tokens and take the most common one as the actual
             # mention's category
-            obj_category = self._extract_category(token.msd)
-            counted_categories[obj_category] += 1
+            counted_categories[token.category] += 1
 
         self.category = counted_categories.most_common(1)[0][0]
-
-    def _extract_number(self, msd_string):
-        number = None
-        if msd_string[0] == "S" and len(msd_string) >= 4:  # noun/samostalnik
-            number = msd_string[3]
-        elif msd_string[0] == "G" and len(msd_string) >= 6:  # verb/glagol
-            number = msd_string[5]
-        # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
-        elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 5:
-            number = msd_string[4]
-
-        return number
-
-    def _extract_gender(self, msd_string):
-        gender = None
-        if msd_string[0] == "S" and len(msd_string) >= 3:  # noun/samostalnik
-            gender = msd_string[2]
-        elif msd_string[0] == "G" and len(msd_string) >= 7:  # verb/glagol
-            gender = msd_string[6]
-        # P = adjective (pridevnik), Z = pronoun (zaimek), K = numeral (števnik)
-        elif msd_string[0] in {"P", "Z", "K"} and len(msd_string) >= 4:
-            gender = msd_string[3]
-
-        return gender
-
-    def _extract_category(self, msd_string):
-        return msd_string[0]
 
 
 class MentionPairFeatures:
