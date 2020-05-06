@@ -2,6 +2,7 @@ import os
 import logging
 import csv
 import pandas as pd
+from collections import OrderedDict
 
 from bs4 import BeautifulSoup
 
@@ -31,7 +32,7 @@ def _read_tokens(corpus_soup):
     dict[str, str]:
         Mapping of token IDs to raw tokens
     """
-    id_to_tok = {}
+    id_to_tok = OrderedDict()
     for i, el in enumerate(corpus_soup.findAll("tc:token")):
         token_id = el["id"]
         token = el.text.strip()
@@ -92,41 +93,71 @@ def _coreference_chain(clusters_list):
     return mapped_clusters
 
 
-class Mention:
-    def __init__(self, mention_id, raw, token_ids, positions=None):
-        self.mention_id = mention_id
-        self.raw = raw
-        self.token_ids = token_ids
-        # [idx sentence, idx token inside sentence] for each token
-        self.positions = positions
+class Token:
+    def __init__(self, token_id, raw_text, lemma, msd, sentence_index, position_in_sentence, position_in_document):
+        self.token_id = token_id
+
+        self.raw_text = raw_text
+        self.lemma = lemma
+        self.msd = msd
+
+        self.sentence_index = sentence_index
+        self.position_in_sentence = position_in_sentence
+        self.position_in_document = position_in_document
 
     def __str__(self):
-        return f"Mention(\"{' '.join(self.raw)}\")"
+        return f"Token(\"{self.raw_text}\")"
+
+
+class Mention:
+    def __init__(self, mention_id, tokens):
+        self.mention_id = mention_id
+        self.tokens = tokens
+
+    def __str__(self):
+        return f"Mention(\"{' '.join([tok.raw_text for tok in self.tokens])}\")"
+
+    def raw_text(self):
+        return " ".join([t.raw_text for t in self.tokens])
+
+    def lemma_text(self):
+        return " ".join([t.lemma for t in self.tokens if t.lemma is not None])
 
 
 class Document:
-    def __init__(self, doc_id, tokens, sentences, mentions, clusters, ssj_doc=None, tok_to_position=None,
+    def __init__(self, doc_id, tokens, sentences, mentions, clusters,
                  metadata=None):
         self.doc_id = doc_id  # type: str
-        self.id_to_tok = tokens  # type: dict
+        self.tokens = tokens  # type: dict
         self.sents = sentences  # type: list
         self.mentions = mentions  # type: dict
         self.clusters = clusters  # type: list
         self.mapped_clusters = _coreference_chain(self.clusters)
         self.metadata = metadata
 
-        self.ssj_doc = ssj_doc  # type: bs4.element.Tag # TODO: remove ssj_doc and use metadata instead
-        self.tok_to_positon = tok_to_position
-
     def raw_sentences(self):
         """ Returns list of sentences in document. """
-        return [list(map(lambda t: self.id_to_tok[t], curr_sent)) for curr_sent in self.sents]
+        return [list(map(lambda t: self.tokens[t].raw_text, curr_sent)) for curr_sent in self.sents]
 
     def __len__(self):
-        return len(self.id_to_tok)
+        return len(self.tokens)
 
     def __str__(self):
-        return f"Document('{self.doc_id}', {len(self.id_to_tok)} tokens)"
+        return f"Document('{self.doc_id}', {len(self.tokens)} tokens)"
+
+
+def sorted_mentions_dict(mentions):
+    # sorted() produces an array of (key, value) tuples, which we turn back into dictionary
+    sorted_mentions = dict(sorted(mentions.items(),
+                                  key=lambda tup: (tup[1].tokens[0].sentence_index,  # sentence
+                                                   tup[1].tokens[0].position_in_sentence,  # start pos
+                                                   tup[1].tokens[-1].position_in_sentence)))  # end pos
+
+    # --- just a quick test to make sure mentions are sorted correctly
+    test_mention_poss = [men.tokens[0].position_in_document for men in sorted_mentions.values()]
+    assert test_mention_poss == sorted(test_mention_poss)
+    # ---
+    return sorted_mentions
 
 
 def read_senticoref_doc(file_path):
@@ -187,21 +218,34 @@ def read_senticoref_doc(file_path):
     if len(_curr_sent) > 0:
         sents.append(_curr_sent)
 
+    # --- generate token objects
+    final_tokens = OrderedDict()
+    for index, (tok_id, tok_raw) in enumerate(id_to_tok.items()):
+        final_tokens[tok_id] = Token(
+            tok_id,
+            tok_raw,
+            metadata["tokens"][tok_id]["lemma"] if "lemma" in metadata["tokens"][tok_id] else None,
+            metadata["tokens"][tok_id]["ana"].split(":")[1],
+            tok_to_position[tok_id][0],
+            tok_to_position[tok_id][1],
+            index
+        )
+    # ---
+
     mention_counter = 0
     for idx_cluster, curr_mentions in _clusters.items():
         curr_cluster = []
         for idx_mention, mention_tok_ids in curr_mentions.items():
             # assign coref149-style IDs to mentions
             mention_id = f"rc_{mention_counter}"
-            mention_tokens = list(map(lambda tok_id: id_to_tok[tok_id], mention_tok_ids))
-            mention_positions = list(map(lambda tok_id: tok_to_position[tok_id], mention_tok_ids))
-            mentions[mention_id] = Mention(mention_id, mention_tokens, mention_tok_ids, mention_positions)
+            mention_tokens = list(map(lambda tok_id: final_tokens[tok_id], mention_tok_ids))
+            mentions[mention_id] = Mention(mention_id, mention_tokens)
 
             curr_cluster.append(mention_id)
             mention_counter += 1
         clusters.append(curr_cluster)
 
-    return Document(doc_id, id_to_tok, sents, mentions, clusters, tok_to_position, metadata=metadata)
+    return Document(doc_id, final_tokens, sents, sorted_mentions_dict(mentions), clusters, metadata=metadata)
 
 
 def read_coref149_doc(file_path, ssj_doc):
@@ -219,7 +263,7 @@ def read_coref149_doc(file_path, ssj_doc):
 
     # Tokens have different IDs in ssj500k, so remap coref149 style to ssj500k style
     idx_sent_coref, idx_token_coref = 0, 0
-    _coref_to_ssj = {}
+    _coref_to_ssj = {} # mapping from coref ids to ssj ids
     for curr_sent in ssj_doc.findAll("s"):
         for curr_token in curr_sent.findAll(["w", "pc"]):
             coref_token_id = sents[idx_sent_coref][idx_token_coref]
@@ -236,23 +280,8 @@ def read_coref149_doc(file_path, ssj_doc):
                 idx_sent_coref += 1
                 idx_token_coref = 0
 
-    # Correct coref149 token IDs to ssj500k token IDs
-    fixed_tokens = {}
-    for curr_id, curr_token in tokens.items():
-        fixed_tokens[_coref_to_ssj[curr_id]] = curr_token
-
+    # sentences are composed of ssj token IDs
     fixed_sents = [[_coref_to_ssj[curr_id] for curr_id in curr_sent] for curr_sent in sents]
-    fixed_tok_to_position = {_coref_to_ssj[token_id]: position for token_id, position in tok_to_position.items()}
-
-    fixed_mentions = {}
-    for mention_id, mention_tokens in mentions.items():
-        fixed = list(map(lambda t: _coref_to_ssj[t], mention_tokens))
-        fixed_mentions[mention_id] = fixed
-
-    for mention_id, mention_tokens in fixed_mentions.items():
-        raw_tokens = [fixed_tokens[t] for t in mention_tokens]
-        token_positions = [fixed_tok_to_position[t] for t in mention_tokens]
-        fixed_mentions[mention_id] = Mention(mention_id, raw_tokens, mention_tokens, token_positions)
 
     # Write all metadata for tokens
     # Note: currently not writing SRL/dependency metadata
@@ -264,9 +293,25 @@ def read_coref149_doc(file_path, ssj_doc):
             metadata["tokens"][token_id] = token.attrs
             metadata["tokens"][token_id]["text"] = token.text
 
-    # __init__(self, doc_id, tokens, sentences, mentions, clusters, ssj_doc=None, tok_to_position=None)
-    return Document(doc_id, fixed_tokens, fixed_sents, fixed_mentions, clusters, ssj_doc, tok_to_position,
-                    metadata=metadata)
+    final_tokens = OrderedDict()
+    for index, (coref_token_id, raw_text) in enumerate(tokens.items()):
+        ssj_token_id = _coref_to_ssj[coref_token_id]  # mapping of coref token ID to ssj token ID
+        final_tokens[ssj_token_id] = Token(
+            ssj_token_id,
+            raw_text,
+            metadata["tokens"][ssj_token_id]["lemma"] if "lemma" in metadata["tokens"][ssj_token_id] else None,
+            metadata["tokens"][ssj_token_id]["ana"].split(":")[1],
+            tok_to_position[coref_token_id][0],  # Note: tok_to_pos uses coref IDs, not ssj IDs
+            tok_to_position[coref_token_id][1],
+            index)
+
+    final_mentions = {}
+    for mention_id, mention_tokens in mentions.items():
+        token_objs = [final_tokens[_coref_to_ssj[tok_id]] for tok_id in mention_tokens]
+        final_mentions[mention_id] = Mention(mention_id, token_objs)
+
+    # TODO: is metadata required here? metadata for tokens has been moved to token object
+    return Document(doc_id, final_tokens, fixed_sents, sorted_mentions_dict(final_mentions), clusters, metadata=metadata)
 
 
 def read_corpus(name):

@@ -79,59 +79,51 @@ class MentionFeatures:
     def __init__(self, document, mention):
         """
         Extract features for a given mention in the given document.
+        Note: Some mention features are actually just properties of mention's tokens
         """
         self.mention = mention
+        self.tokens = mention.tokens
+        self.lemmas = [token.lemma for token in mention.tokens]  # Note: if token has no lemma, it is "None"!
 
-        # bs4 tags (metadata) for mention tokens (<=1 per token, punctuation currently excluded)
-        mention_objs = []
-        for tok_id in mention.token_ids:
-            mention_objs.append(document.metadata['tokens'][tok_id])
+        # Token index in which mention appears in the sentence
+        self.sentence_index = mention.tokens[0].sentence_index
 
-        # Index in which mention appears
-        self.idx_sent = mention.positions[0][0]
-        self.idx_in_sent = mention.positions[0][1]  # TODO
+        # Index in which mention appears in the document (based on mentions). Example:
+        # (">Janez Novak< je svoji >ženi >Mojci<< je kupil nov >kavomat<")
+        # (  i=0                    i=1   i=2                   i=3
+        self.mention_index = None
+        for index, mention_id in enumerate(document.mentions.keys()):
+            if mention_id == mention.mention_id:
+                self.mention_index = index
+                break
 
         # morphosyntactic description
-        self.msd_desc = mention_objs[0]["ana"]
+        # TODO: just taking msd of first token?
+        self.msd_desc = self.mention.tokens[0].msd
 
         # gender, number, main category
         self.gender = None  # {None, 'm', 's', 'z'}
         self.number = None  # {None, 'e', 'd', 'm'}
         self.categories = Counter()  # {'S', 'G', 'P', 'Z', ...}
 
-        # tokens and it's lemmas for each token in mention
-        self.tokens = []
-        self.lemmas = []
-
         counted_categories = Counter()
-        for obj in mention_objs:
-            obj_msd_desc = obj["ana"]
-
+        for token in mention.tokens:
             # Take gender of first token for which it can be determined
             if self.gender is None:
-                obj_gender = self._extract_gender(obj_msd_desc)
+                obj_gender = self._extract_gender(token.msd)
                 if obj_gender in {"m", "z", "s"}:
                     self.gender = obj_gender
 
             # Take number of first token for which it can be determined
             if self.number is None:
-                obj_number = self._extract_number(obj_msd_desc)
+                obj_number = self._extract_number(token.msd)
                 if obj_number in {"e", "d", "m"}:
                     self.number = obj_number
 
             # Count how many times each category appears in mention's tokens and take the most common one as the actual
             # mention's category
-            obj_category = self._extract_category(obj_msd_desc)
+            obj_category = self._extract_category(token.msd)
             counted_categories[obj_category] += 1
-
-            # add token and it's lemma to list
-            # self.tokens.append(obj.text)
-
-            self.tokens.append(obj["text"])
-            if "lemma" in obj:
-                self.lemmas.append(obj["lemma"])
-            else:
-                self.lemmas.append(obj["text"])
 
         self.category = counted_categories.most_common(1)[0][0]
 
@@ -162,15 +154,11 @@ class MentionFeatures:
     def _extract_category(self, msd_string):
         return msd_string[0]
 
-    def raw_text(self):
-        return " ".join(self.mention.raw)
-
 
 class MentionPairFeatures:
 
     @staticmethod
-    def for_mentions(document, head_mention, cand_mention, idx_head, idx_cand, use_cache=True):
-        # TODO: idx_head, idx_cand ?
+    def for_mentions(document, head_mention, cand_mention, use_cache=True):
         head_id, cand_id = head_mention.mention_id, cand_mention.mention_id
         doc_id = document.doc_id
         # load from cache, if enabled and it exists
@@ -199,18 +187,17 @@ class MentionPairFeatures:
 
             MentionPairFeatures.is_appositive(head_features, cand_features, document),
             MentionPairFeatures.is_alias(head_features, cand_features),
-            MentionPairFeatures.is_reflexive(head_features, cand_features, idx_head, idx_cand),
+            MentionPairFeatures.is_reflexive(head_features, cand_features),
         ]
 
         # add features for mention pair, constructed above, to cache
         _cached_MentionPairFeatures[doc_id][(head_id, cand_id)] = pair_features
         return pair_features
 
-    # TODO Martin: Standardize function inputs ??
     # !! Note
     # this_feats == head_features
     # other_feats == cand_features
-    # meaning that, if order in document is important, other is before this!
+    # meaning that, if order in document is important, "other" is before "this"!
 
     @staticmethod
     def str_match(this_feats, other_feats):
@@ -218,8 +205,8 @@ class MentionPairFeatures:
         True:  if neither mentions (this and other) are pronouns and mention's lemmas match
         False: otherwise
         """
-        return int(this_feats.category != "Z" and other_feats.category != "Z" and \
-                   " ".join(this_feats.lemmas) == " ".join(other_feats.lemmas))
+        return int(this_feats.category != "Z" and other_feats.category != "Z" and
+                   this_feats.mention.lemma_text() == other_feats.mention.lemma_text())
 
     @staticmethod
     def in_same_sentence(this_feats, other_feats):
@@ -227,7 +214,7 @@ class MentionPairFeatures:
         True:  If mentions this and other are in the same sentence
         False: otherwise
         """
-        return int(this_feats.idx_sent == other_feats.idx_sent)
+        return int(this_feats.sentence_index == other_feats.sentence_index)
 
     @staticmethod
     def is_same_gender(this_feats, other_feats):
@@ -272,15 +259,15 @@ class MentionPairFeatures:
         # if both mentions are nouns
         if this_feats.category == "S" and other_feats.category == "S":
             # if both mentions are in same sentence
-            if this_feats.idx_sent == other_feats.idx_sent:
+            if this_feats.sentence_index == other_feats.sentence_index:
                 # "other" mention is positioned before "this" mention. to get distance in tokens between mentions,
                 # we need distance from last token of "other" mention to first token in "this" mention
                 # TODO: could generalize by comparing this and other first token position within sentence
-                other_last_token_pos = other_feats.idx_in_sent + len(other_feats.tokens)
-                this_first_token_pos = this_feats.idx_in_sent
+                other_last_token_pos = other_feats.mention.tokens[0].position_in_sentence + len(other_feats.mention.tokens)
+                this_first_token_pos = this_feats.mention.tokens[0].position_in_sentence
                 if this_first_token_pos - other_last_token_pos == 1:
                     # there's exactly one token betwen, check if it's a comma
-                    if document.id_to_tok[document.sents[this_feats.idx_sent][other_last_token_pos]] == ",":
+                    if document.tokens[document.sents[this_feats.sentence_index][other_last_token_pos]].raw_text == ",":
                         return int(True)
         return int(False)
 
@@ -294,10 +281,10 @@ class MentionPairFeatures:
         """
         # TODO remarks: initials pade pri netrivialnih primerih.
         #               Primer: "Ministrstvo za kmetijstvo, gozdrastvo in prehrano" se inicira z "MKGIP", ne "MZK,GIP"
-        this_initials = [tok[0] for tok in this_feats.tokens]
-        other_initials = [tok[0] for tok in other_feats.tokens]
-        this_words = " ".join(this_feats.tokens)
-        other_words = " ".join(other_feats.tokens)
+        this_initials = [tok.raw_text[0] for tok in this_feats.tokens]
+        other_initials = [tok.raw_text[0] for tok in other_feats.tokens]
+        this_words = this_feats.mention.raw_text()
+        other_words = other_feats.mention.raw_text()
 
         # mentions are equal or one is initial of another
         if this_words == other_words or this_initials == other_initials or this_words == other_initials or this_initials == other_words:
@@ -314,20 +301,24 @@ class MentionPairFeatures:
     @staticmethod
     def is_prefix(this_feats, other_feats):
         """
-        True:  if other mention is prefix of this mention
+        True:  if this mention is prefix of other mention (or vice versa)
         False: otherwise
         """
-        if this_feats.raw_text().startswith(other_feats.raw_text()):
+        this_raw = this_feats.mention.raw_text()
+        other_raw = other_feats.mention.raw_text()
+        if this_raw.startswith(other_raw) or other_raw.startswith(this_raw):
             return int(True)
         return int(False)
 
     @staticmethod
     def is_suffix(this_feats, other_feats):
         """
-        True:  if this mention is suffix of other mention
+        True:  if this mention is suffix of other mention (or vice versa)
         False: otherwise
         """
-        if this_feats.raw_text().endswith(other_feats.raw_text()):
+        this_raw = this_feats.mention.raw_text()
+        other_raw = other_feats.mention.raw_text()
+        if this_raw.endswith(other_raw) or other_raw.endswith(this_raw):
             return int(True)
         return int(False)
 
@@ -336,10 +327,10 @@ class MentionPairFeatures:
         """
         Result is a similarity value between this and other mention according to Jaro-Winkler metric.
         """
-        return jwdistance.get_jaro_distance(this_feats.raw_text(), other_feats.raw_text())
+        return jwdistance.get_jaro_distance(this_feats.mention.raw_text(), other_feats.mention.raw_text())
 
     @staticmethod
-    def is_reflexive(this_feats, other_feats, idx_this, idx_other):
+    def is_reflexive(this_feats, other_feats):
         """
         True:  if this mention is reflexive and distance between this and other mentions is 0 (i.e. there are no other
                mentions between those two)
@@ -353,7 +344,7 @@ class MentionPairFeatures:
         primer: ",,Prepričan <sem>, da ne bomo razočarali'', napoveduje Matjaž Brumen.", v tem primeru se <sem> nanaša
         na naslednjo omenitev t.j. <Matjaž Brumen>, ki je dobsedni navedek "izrekel".
         """
-        if this_feats.msd_desc.startswith("Zp") and idx_this - idx_other == 1:
+        if this_feats.msd_desc.startswith("Zp") and this_feats.mention_index - other_feats.mention_index == 1:
             return int(True)
 
         return int(False)
@@ -595,14 +586,11 @@ class BaselineModel:
                 mention_to_cluster_id[mid] = i
 
         logging.debug(f"**Sorting mentions...**")
-        sorted_mentions = sorted(curr_doc.mentions.items(), key=lambda tup: (tup[1].positions[0][0],  # sentence
-                                                                             tup[1].positions[0][1],  # start pos
-                                                                             tup[1].positions[-1][1]))  # end pos
         doc_loss, n_examples = 0.0, 0
         preds = {}
 
-        logging.debug(f"**Processing {len(sorted_mentions)} mentions...**")
-        for idx_head, (head_id, head_mention) in enumerate(sorted_mentions, 1):
+        logging.debug(f"**Processing {len(curr_doc.mentions)} mentions...**")
+        for idx_head, (head_id, head_mention) in enumerate(curr_doc.mentions.items(), 1):
             logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
             self.model.zero_grad()
 
@@ -612,7 +600,7 @@ class BaselineModel:
             candidates, features = [None], []
             gt_antecedents = []
 
-            for idx_candidate, (cand_id, cand_mention) in enumerate(sorted_mentions, 1):
+            for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
                 if cand_id != head_id and cand_id in gt_antecedent_ids:
                     gt_antecedents.append(idx_candidate)
 
@@ -658,7 +646,7 @@ class BaselineModel:
                     # Add current mention as candidate
                     candidates.append(cand_id)
                     features.append(
-                        MentionPairFeatures.for_mentions(curr_doc, head_mention, cand_mention, idx_head, idx_candidate))
+                        MentionPairFeatures.for_mentions(curr_doc, head_mention, cand_mention))
 
         return preds, (doc_loss, n_examples)
 
