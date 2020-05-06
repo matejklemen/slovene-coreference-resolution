@@ -145,9 +145,9 @@ def get_compared_senticoref(parsed_doc, parsed_preds, doc_id):
     for cluster in parsed_doc.clusters:
         color = random_color()
         for rc_id in cluster:
-            for token in parsed_doc.mentions[rc_id].token_ids:
-                cluster_color_by_token[token] = color
-                mention_by_token[token] = rc_id
+            for token in parsed_doc.mentions[rc_id].tokens:
+                cluster_color_by_token[token.token_id] = color
+                mention_by_token[token.token_id] = rc_id
 
     # Combine to text
     ground_truth = ""
@@ -178,9 +178,9 @@ def get_compared_senticoref(parsed_doc, parsed_preds, doc_id):
                 cls = f"""{doc_id}-gt-c-{color_id}"""
                 unique_classes[cls] = 1
                 row_truth += f"""<span style="background-color:{color};border-radius: 3px;padding: 0px 2px;" class="{cls}">""" + \
-                             parsed_doc.id_to_tok[token_id] + "</span>"
+                             parsed_doc.tokens[token_id].raw_text + "</span>"
             else:
-                row_truth += parsed_doc.id_to_tok[token_id]
+                row_truth += parsed_doc.tokens[token_id].raw_text
 
             # Predictions
             if token_id in mention_by_token:
@@ -195,9 +195,9 @@ def get_compared_senticoref(parsed_doc, parsed_preds, doc_id):
                     cls = f"""{doc_id}-pr-c-{color_id}"""
                     unique_classes[cls] = 1
                     row_predictions += f"""<span style="background-color:{color};border-radius: 3px;padding: 0px 2px;" class="{cls}">""" + \
-                                       parsed_doc.id_to_tok[token_id] + "</span>"
+                                       parsed_doc.tokens[token_id].raw_text + "</span>"
             else:
-                row_predictions += parsed_doc.id_to_tok[token_id]
+                row_predictions += parsed_doc.tokens[token_id].raw_text
 
         ground_truth += row_truth
         predictions += row_predictions

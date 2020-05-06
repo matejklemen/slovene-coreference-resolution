@@ -33,9 +33,9 @@ logger = init_logging()
 # GLOBAL PARAMETERS
 #####################
 
-NUM_FEATURES = 14  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 100
-LEARNING_RATE = 0.005
+NUM_FEATURES = 10  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
+NUM_EPOCHS = 10
+LEARNING_RATE = 0.01
 
 # affects shuffle of documents for training/dev/test set and initial parameters for model
 RANDOM_SEED = 22
@@ -177,8 +177,11 @@ class MentionPairFeatures:
             MentionPairFeatures.str_match(head_features, cand_features),
 
             # protip: add * if function returns a vector, but be wary of number of features added
-            *MentionPairFeatures.is_same_gender(head_features, cand_features),  # 3 features
-            *MentionPairFeatures.is_same_number(head_features, cand_features),  # 3 features
+            # *MentionPairFeatures.is_same_gender(head_features, cand_features),  # 3 features
+            # *MentionPairFeatures.is_same_number(head_features, cand_features),  # 3 features
+
+            MentionPairFeatures.is_same_gender(head_features, cand_features),
+            MentionPairFeatures.is_same_number(head_features, cand_features),
 
             MentionPairFeatures.is_prefix(head_features, cand_features),
             MentionPairFeatures.is_suffix(head_features, cand_features),
@@ -226,11 +229,12 @@ class MentionPairFeatures:
         if this_feats.gender is not None and other_feats.gender is not None:
             is_same_gender = this_feats.gender == other_feats.gender
 
-        return [
-            int(is_same_gender is True),
-            int(is_same_gender is False),
-            int(is_same_gender is None)
-        ]
+        return int(is_same_gender is True)
+        # return [
+        #     int(is_same_gender is True),
+        #     int(is_same_gender is False),
+        #     int(is_same_gender is None)
+        # ]
 
     @staticmethod
     def is_same_number(this_feats, other_feats):
@@ -242,11 +246,12 @@ class MentionPairFeatures:
         if this_feats.number is not None and other_feats.number is not None:
             is_same_number = this_feats.number == other_feats.number
 
-        return [
-            int(is_same_number is True),
-            int(is_same_number is False),
-            int(is_same_number is None),
-        ]
+        return int(is_same_number is True)
+        # return [
+        #     int(is_same_number is True),
+        #     int(is_same_number is False),
+        #     int(is_same_number is None),
+        # ]
 
     @staticmethod
     def is_appositive(this_feats, other_feats, document):
@@ -375,7 +380,7 @@ class BaselineModel:
         """
         self.name = name
         if self.name is None:
-            self.name = time.strftime("%Y%m9%d_%H%M%S")
+            self.name = time.strftime("%Y%m%d_%H%M%S")
 
         # Init all file paths
         self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
