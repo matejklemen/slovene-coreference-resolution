@@ -6,14 +6,13 @@ EOS_TOKEN, EOS_ID = "<EOS>", 2
 UNK_TOKEN, UNK_ID = "<UNK>", 3
 
 
-def extract_vocab(documents, top_n=10_000):
+def extract_vocab(documents, top_n=10_000, lowercase=False):
     token_counter = Counter()
     for curr_doc in documents:
         curr_sentences = curr_doc.raw_sentences()
 
         for sent_tokens in curr_sentences:
-            # lowercase tokens to reduce vocabulary size
-            processed = list(map(lambda s: s.lower(), sent_tokens))
+            processed = list(map(lambda s: s.lower() if lowercase else s, sent_tokens))
             token_counter += Counter(processed)
 
     tok2id, id2tok = {}, {}
@@ -27,6 +26,20 @@ def extract_vocab(documents, top_n=10_000):
         id2tok[i] = token
 
     return tok2id, id2tok
+
+
+def encode(seq, vocab, max_seq_len):
+    encoded_seq = []
+    for i, curr_token in enumerate(seq):
+        encoded_seq.append(vocab.get(curr_token, vocab["<UNK>"]))
+
+    # If longer than max allowed length, truncate sequence; otherwise pad with a special symbol
+    if len(seq) > max_seq_len:
+        encoded_seq = encoded_seq[: max_seq_len]
+    else:
+        encoded_seq += [vocab["<PAD>"]] * (max_seq_len - len(seq))
+
+    return encoded_seq
 
 
 def get_clusters(preds):

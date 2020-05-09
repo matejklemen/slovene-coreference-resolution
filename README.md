@@ -56,6 +56,9 @@ $ python src/trim_ssj.py --coref149_dir=data/coref149 --ssj500k_path=data/ssj500
 If `target_path` parameter is not provided, the above command would produce 
 `data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml`.
 
+If you want to use pretrained embeddings in non-contextual coreference model, make sure to download the Slovene
+fastText vectors (`bin`) from https://fasttext.cc/docs/en/crawl-vectors.html and put them into `data/`.
+
 
 ## Running the project
 
