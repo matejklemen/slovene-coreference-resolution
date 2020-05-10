@@ -12,7 +12,7 @@ from pyjarowinkler import distance as jwdistance
 
 import metrics
 from data import read_corpus
-from utils import get_clusters
+from utils import get_clusters, split_into_sets
 from visualization import build_and_display
 
 
@@ -38,12 +38,12 @@ NUM_EPOCHS = 10
 LEARNING_RATE = 0.01
 
 # affects shuffle of documents for training/dev/test set and initial parameters for model
-RANDOM_SEED = 22
+RANDOM_SEED = None
 if RANDOM_SEED:
     np.random.seed(RANDOM_SEED)
     torch.random.manual_seed(RANDOM_SEED)
 
-DATASET_NAME = 'senticoref'  # Use 'coref149' or 'senticoref'
+DATASET_NAME = 'coref149'  # Use 'coref149' or 'senticoref'
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
 VISUALIZATION_OPEN_WHEN_DONE = True
@@ -700,26 +700,6 @@ class EachInOwnModel:
                     f"CEAFe:    {ceaf_score}\n",
                     f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
                 ])
-
-
-def split_into_sets(documents):
-    """
-    Splits documents array into three sets: learning, validation & testing.
-    If random seed is given, documents selected for each set are randomly picked (but do not overlap, of course).
-    """
-    idx = np.arange(len(documents))
-    # basically just shuffle indexes...
-    np.random.shuffle(idx)
-
-    train_idx, dev_idx, test_idx = idx[: -40], idx[-40: -20], idx[-20:]
-    # ... and then select those indexes from list of documents
-    documents = np.array(documents)
-    train_docs, dev_docs, test_docs = documents[train_idx], documents[dev_idx], documents[test_idx]
-
-    logging.info(f"{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
-                 f"and test set ({len(test_docs)}).")
-
-    return train_docs, dev_docs, test_docs
 
 
 if __name__ == "__main__":

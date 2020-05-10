@@ -1,4 +1,8 @@
 from collections import Counter
+import logging
+import numpy as np
+from sklearn.model_selection import train_test_split
+
 
 PAD_TOKEN, PAD_ID = "<PAD>", 0
 BOS_TOKEN, BOS_ID = "<BOS>", 1
@@ -58,6 +62,23 @@ def get_clusters(preds):
                 stack.extend(mentions)
 
     return cluster_assignments
+
+
+def split_into_sets(documents):
+    """
+    Splits documents array into three sets: learning, validation & testing.
+    If random seed is given, documents selected for each set are randomly picked (but do not overlap, of course).
+    """
+    # split all into train and test. test size is 20%
+    train_docs, test_docs = train_test_split(documents, test_size=0.2)
+
+    # split test further into validation and test.
+    test_docs, dev_docs = train_test_split(test_docs, test_size=0.5)
+
+    logging.info(f"{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
+                 f"and test set ({len(test_docs)}).")
+
+    return train_docs, dev_docs, test_docs
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 import os
 
 from data import read_corpus
-from utils import extract_vocab, encode
+from utils import extract_vocab, encode, split_into_sets
 
 import logging
 import codecs
@@ -191,11 +191,7 @@ if __name__ == "__main__":
     embedding_size = 300
 
     documents = read_corpus(DATASET_NAME)
-    idx = np.arange(len(documents))
-    np.random.shuffle(idx)
-    # TODO: replace this with a call to split function (which needs to be moved from baseline into utils)
-    train_docs = np.take(documents, idx[: -40])
-    dev_docs = np.take(documents, idx[-40: -20])
+    train_docs, dev_docs, test_docs = split_into_sets(documents)
 
     tok2id, id2tok = extract_vocab(train_docs)
 
