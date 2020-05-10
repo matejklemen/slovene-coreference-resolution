@@ -1,7 +1,10 @@
+import os
+
 from data import read_corpus
 from utils import extract_vocab, encode
 
 import logging
+import codecs
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -14,26 +17,25 @@ MAX_SEQ_LEN = 10
 NUM_EPOCHS = 10
 LEARNING_RATE = 0.01
 DROPOUT = 0.4  # higher value = stronger regularization
-EMBEDDING_SIZE = 300
-USE_PRETRAINED_EMBS = True
+USE_PRETRAINED_EMBS = "word2vec"
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 
 class NoncontextualScorer(nn.Module):
-    def __init__(self, vocab_size, pad_id, dropout, pretrained_embs=None, freeze_pretrained=False):
+    def __init__(self, vocab_size, embedding_size, pad_id, dropout, pretrained_embs=None, freeze_pretrained=False):
         super().__init__()
 
         if pretrained_embs is not None:
-            assert pretrained_embs.shape[1] == EMBEDDING_SIZE
-            logger.info(f"Using pretrained embeddings. freeze_pretrained = {freeze_pretrained}")
+            assert pretrained_embs.shape[1] == embedding_size
+            logging.info(f"Using pretrained embeddings. freeze_pretrained = {freeze_pretrained}")
             self.embedder = nn.Embedding.from_pretrained(pretrained_embs, freeze=freeze_pretrained)
         else:
-            logger.debug(f"Initializing random embeddings")
-            self.embedder = nn.Embedding(num_embeddings=vocab_size, embedding_dim=EMBEDDING_SIZE)
+            logging.debug(f"Initializing random embeddings")
+            self.embedder = nn.Embedding(num_embeddings=vocab_size, embedding_dim=embedding_size)
 
-        self.fc = nn.Linear(in_features=(EMBEDDING_SIZE + EMBEDDING_SIZE), out_features=1)
+        self.fc = nn.Linear(in_features=(embedding_size + embedding_size), out_features=1)
         self.pad_id = pad_id
         self.dropout = nn.Dropout(p=dropout)
 
@@ -59,10 +61,11 @@ class NoncontextualScorer(nn.Module):
 
 
 class NoncontextualController:
-    def __init__(self, vocab, dropout, pretrained_embs=None, freeze_pretrained=False):
+    def __init__(self, vocab, embedding_size, dropout, pretrained_embs=None, freeze_pretrained=False):
         self.vocab = vocab
-        self.model = NoncontextualScorer(vocab_size=len(vocab), dropout=dropout, pad_id=vocab["<PAD>"],
-                                         pretrained_embs=pretrained_embs, freeze_pretrained=freeze_pretrained)
+        self.model = NoncontextualScorer(vocab_size=len(vocab), embedding_size=embedding_size, dropout=dropout,
+                                         pad_id=vocab["<PAD>"], pretrained_embs=pretrained_embs,
+                                         freeze_pretrained=freeze_pretrained)
 
         self.model_optimizer = optim.SGD(self.model.parameters(), lr=LEARNING_RATE)
         self.loss = nn.CrossEntropyLoss()
@@ -185,6 +188,8 @@ class NoncontextualController:
 
 
 if __name__ == "__main__":
+    embedding_size = 300
+
     documents = read_corpus(DATASET_NAME)
     idx = np.arange(len(documents))
     np.random.shuffle(idx)
@@ -195,14 +200,33 @@ if __name__ == "__main__":
     tok2id, id2tok = extract_vocab(train_docs)
 
     pretrained_embs = None
-    if USE_PRETRAINED_EMBS:
+    # Note: pretrained word2vec embeddings we use are (apparently) uncased
+    if USE_PRETRAINED_EMBS == "word2vec":
+        logging.info("Loading pretrained Slovene word2vec embeddings")
+        with codecs.open(os.path.join("..", "data", "model.txt"), "r", encoding="utf-8", errors="ignore") as f:
+            num_tokens, embedding_size = list(map(int, f.readline().split(" ")))
+            embs = {}
+            for line in f:
+                stripped_line = line.strip().split(" ")
+                embs[stripped_line[0]] = list(map(lambda num: float(num), stripped_line[1:]))
+
+        pretrained_embs = torch.rand((len(tok2id), embedding_size))
+        for curr_token, curr_id in tok2id.items():
+            # leave out-of-vocab token embeddings as random [0, 1) vectors
+            pretrained_embs[curr_id, :] = torch.tensor(embs.get(curr_token.lower(), pretrained_embs[curr_id, :]))
+    elif USE_PRETRAINED_EMBS == "fastText":
         import fasttext
-        logger.info("Loading pretrained Slovene fastText embeddings")
-        # Load pre-trained fastText vectors and use them to initialize embeddings in our model
-        ft = fasttext.load_model('../data/cc.sl.300.bin')
-        vocab_embs = torch.tensor([ft.get_word_vector(curr_token) for curr_token in tok2id])
+        logging.info("Loading pretrained Slovene fastText embeddings")
+        ft = fasttext.load_model(os.path.join("..", "data", "cc.sl.300.bin"))
+
+        embedding_size = 300
+        pretrained_embs = torch.rand((len(tok2id), embedding_size))
+        for curr_token, curr_id in tok2id.items():
+            pretrained_embs[curr_id, :] = torch.tensor(ft.get_word_vector(curr_token))
+
         del ft
 
-    model = NoncontextualController(vocab=tok2id, dropout=DROPOUT, pretrained_embs=pretrained_embs)
+    model = NoncontextualController(vocab=tok2id, embedding_size=embedding_size, dropout=DROPOUT,
+                                    pretrained_embs=pretrained_embs)
     model.train(epochs=NUM_EPOCHS, train_docs=train_docs, dev_docs=dev_docs)
 

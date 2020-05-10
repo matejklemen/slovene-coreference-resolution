@@ -57,7 +57,10 @@ If `target_path` parameter is not provided, the above command would produce
 `data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml`.
 
 If you want to use pretrained embeddings in non-contextual coreference model, make sure to download the Slovene
-fastText vectors (`bin`) from https://fasttext.cc/docs/en/crawl-vectors.html and put them into `data/`.
+- fastText vectors (`bin`) from https://fasttext.cc/docs/en/crawl-vectors.html and/or
+- word2vec vectors (`Word2Vec Continuous Skipgram`) from http://vectors.nlpl.eu/repository/
+
+Put them into `data/` (either the `cc.sl.300.bin` file for fastText or the `model.txt` file for word2vec).
 
 
 ## Running the project
