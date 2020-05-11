@@ -64,16 +64,17 @@ def get_clusters(preds):
     return cluster_assignments
 
 
-def split_into_sets(documents):
+def split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15):
     """
     Splits documents array into three sets: learning, validation & testing.
     If random seed is given, documents selected for each set are randomly picked (but do not overlap, of course).
     """
-    # split all into train and test. test size is 20%
-    train_docs, test_docs = train_test_split(documents, test_size=0.2)
+    # Note: test_prop is redundant, but it's left in to make it clear this is a split into 3 parts
+    test_prop = 1.0 - train_prop - dev_prop
 
-    # split test further into validation and test.
-    test_docs, dev_docs = train_test_split(test_docs, test_size=0.5)
+    train_docs, dev_test_docs = train_test_split(documents, test_size=(dev_prop + test_prop))
+
+    dev_docs, test_docs = train_test_split(dev_test_docs, test_size=test_prop/(dev_prop + test_prop))
 
     logging.info(f"{len(documents)} documents split to: training set ({len(train_docs)}), dev set ({len(dev_docs)}) "
                  f"and test set ({len(test_docs)}).")

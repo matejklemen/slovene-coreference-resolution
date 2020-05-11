@@ -720,7 +720,7 @@ if __name__ == "__main__":
 
     # Read corpus. Documents will be of type 'Document'
     documents = read_corpus(DATASET_NAME)
-    train_docs, dev_docs, test_docs = split_into_sets(documents)
+    train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded
