@@ -13,7 +13,7 @@ import torch.nn.functional as F
 
 from allennlp.modules.elmo import Elmo, batch_to_ids
 from data import read_corpus
-from utils import extract_vocab
+from utils import extract_vocab, split_into_sets
 
 WEIGHTS_FILE = "../data/slovenian-elmo/slovenian-elmo-weights.hdf5"
 OPTIONS_FILE = "../data/slovenian-elmo/options.json"
@@ -67,9 +67,8 @@ class ContextualScorer(nn.Module):
 
 
 class ContextualController:
-    def __init__(self, vocab, embedding_size, hidden_size, dropout, pretrained_embs_dir, freeze_pretrained=True,
+    def __init__(self, embedding_size, hidden_size, dropout, pretrained_embs_dir, freeze_pretrained=True,
                  learning_rate=0.001):
-        self.vocab = vocab
         self.embedder = Elmo(options_file=os.path.join(pretrained_embs_dir, "options.json"),
                              weight_file=os.path.join(pretrained_embs_dir, "slovenian-elmo-weights.hdf5"),
                              dropout=0.0,
@@ -217,20 +216,9 @@ class ContextualController:
 
 if __name__ == "__main__":
     documents = read_corpus("coref149")
-    curr_doc = documents[0]
-    print(f"Document {curr_doc.doc_id}")
-    sents = curr_doc.raw_sentences()
-    print("SENTENCES:")
-    for curr_sentence in sents:
-        print(curr_sentence)
+    train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
 
-    idx = np.arange(len(documents))
-    np.random.shuffle(idx)
-    train_docs = np.take(documents, idx[: -40])
-    dev_docs = np.take(documents, idx[-40: -20])
-    tok2id, id2tok = extract_vocab(train_docs)
-
-    controller = ContextualController(vocab=tok2id, embedding_size=1024, hidden_size=128, dropout=0.2,
+    controller = ContextualController(embedding_size=1024, hidden_size=128, dropout=0.2,
                                       pretrained_embs_dir="../data/slovenian-elmo", freeze_pretrained=True)
 
     controller.train(epochs=10, train_docs=train_docs, dev_docs=dev_docs)
