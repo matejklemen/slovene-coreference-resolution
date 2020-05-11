@@ -62,6 +62,10 @@ If you want to use pretrained embeddings in non-contextual coreference model, ma
 
 Put them into `data/` (either the `cc.sl.300.bin` file for fastText or the `model.txt` file for word2vec).
 
+For the contextual coreference model, make sure to download the pretrained Slovene ELMo embeddings from 
+https://www.clarin.si/repository/xmlui/handle/11356/1277. 
+Extract the options file and the weight file into `data/slovenian-elmo`.
+
 
 ## Running the project
 
