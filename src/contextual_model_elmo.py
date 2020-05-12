@@ -6,6 +6,7 @@ import os
 import logging
 
 import numpy as np
+import argparse
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -14,6 +15,13 @@ import torch.nn.functional as F
 from allennlp.modules.elmo import Elmo, batch_to_ids
 from data import read_corpus
 from utils import extract_vocab, split_into_sets
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--hidden_size", default=128)
+parser.add_argument("--dropout", default=0.2)
+parser.add_argument("--learning_rate", default=0.001)
+parser.add_argument("--num_epochs", default=10)
+parser.add_argument("--dataset", default="coref149")
 
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -213,10 +221,12 @@ class ContextualController:
 
 
 if __name__ == "__main__":
-    documents = read_corpus("coref149")
+    args = parser.parse_args()
+    documents = read_corpus(args.dataset)
     train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
 
-    controller = ContextualController(embedding_size=1024, hidden_size=128, dropout=0.2,
-                                      pretrained_embs_dir="../data/slovenian-elmo", freeze_pretrained=True)
+    controller = ContextualController(embedding_size=1024, hidden_size=args.hidden_size, dropout=args.dropout,
+                                      pretrained_embs_dir="../data/slovenian-elmo", freeze_pretrained=True,
+                                      learning_rate=args.learning_rate)
 
-    controller.train(epochs=10, train_docs=train_docs, dev_docs=dev_docs)
+    controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
