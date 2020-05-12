@@ -13,10 +13,10 @@ DUMMY_ANTECEDENT = None
 #####################
 # Path "./data/*" assumes you are running from root folder, i.e. (python /src/baseline.py)
 # Use path "../data/*" if you are running from src folder, i.e. (cd src) and then (python baseline.py)
-COREF149_DIR = "../data/coref149"
-SENTICOREF_DIR = "../data/senticoref1_0"
+COREF149_DIR = os.environ.get("COREF149_DIR", "../data/coref149")
+SENTICOREF_DIR = os.environ.get("SENTICOREF149_DIR", "../data/senticoref1_0")
 SENTICOREF_METADATA_DIR = "../data/senticoref_pos_stanza"
-SSJ_PATH = "../data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml"
+SSJ_PATH = os.environ.get("SSJ_PATH", "../data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml")
 
 
 def _read_tokens(corpus_soup):
