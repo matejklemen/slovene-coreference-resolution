@@ -17,8 +17,7 @@ from utils import extract_vocab, split_into_sets
 
 WEIGHTS_FILE = "../data/slovenian-elmo/slovenian-elmo-weights.hdf5"
 OPTIONS_FILE = "../data/slovenian-elmo/options.json"
-MAX_SEQ_LEN = 20
-HIDDEN_SIZE = 256
+DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -73,11 +72,11 @@ class ContextualController:
                              weight_file=os.path.join(pretrained_embs_dir, "slovenian-elmo-weights.hdf5"),
                              dropout=0.0,
                              num_output_representations=1,
-                             requires_grad=(not freeze_pretrained))
+                             requires_grad=(not freeze_pretrained)).to(DEVICE)
 
         self.context_encoder = nn.LSTM(input_size=embedding_size, hidden_size=hidden_size,
-                                       batch_first=True, bidirectional=True)
-        self.scorer = ContextualScorer(num_features=(2 * hidden_size), dropout=dropout)
+                                       batch_first=True, bidirectional=True).to(DEVICE)
+        self.scorer = ContextualScorer(num_features=(2 * hidden_size), dropout=dropout).to(DEVICE)
 
         self.lstm_optimizer = optim.Adam(self.context_encoder.parameters(), lr=learning_rate)
         self.scorer_optimizer = optim.Adam(self.scorer.parameters(), lr=learning_rate)
@@ -95,7 +94,7 @@ class ContextualController:
 
         # Obtain pretrained embeddings for all tokens in current document, then encode their left and right context
         # using a bidirectional LSTM
-        encoded_sents = batch_to_ids(curr_doc.raw_sentences())
+        encoded_sents = batch_to_ids(curr_doc.raw_sentences()).to(DEVICE)
         emb_obj = self.embedder(encoded_sents)
         embeddings = emb_obj["elmo_representations"][0]  # [batch_size, max_seq_len, embedding_size]
         (lstm_encoded_sents, _) = self.context_encoder(embeddings)
