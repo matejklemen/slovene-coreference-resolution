@@ -17,10 +17,12 @@ from utils import extract_vocab, split_into_sets
 
 WEIGHTS_FILE = "../data/slovenian-elmo/slovenian-elmo-weights.hdf5"
 OPTIONS_FILE = "../data/slovenian-elmo/options.json"
-DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
+
+DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+logging.info(f"Using device '{DEVICE}'")
 
 
 class ContextualScorer(nn.Module):
