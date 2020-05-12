@@ -130,7 +130,7 @@ class ContextualController:
                 # Obtain scores for candidates and select best one as antecedent
                 if idx_candidate == idx_head:
                     if len(encoded_candidates) > 0:
-                        cand_scores = [torch.tensor([0.0])]
+                        cand_scores = [torch.tensor([0.0], device=DEVICE)]
                         for candidate_features in encoded_candidates:
                             cand_scores.append(self.scorer(candidate_features, head_features))
 
@@ -148,7 +148,7 @@ class ContextualController:
 
                         # (average) loss over all ground truth antecedents
                         doc_loss += self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
-                                              torch.tensor(gt_antecedents))
+                                              torch.tensor(gt_antecedents, device=DEVICE))
 
                         n_examples += 1
                     else:
