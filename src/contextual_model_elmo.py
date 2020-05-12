@@ -15,14 +15,10 @@ from allennlp.modules.elmo import Elmo, batch_to_ids
 from data import read_corpus
 from utils import extract_vocab, split_into_sets
 
-WEIGHTS_FILE = "../data/slovenian-elmo/slovenian-elmo-weights.hdf5"
-OPTIONS_FILE = "../data/slovenian-elmo/options.json"
+DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
-
-DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
-logging.info(f"Using device '{DEVICE}'")
 
 
 class ContextualScorer(nn.Module):
@@ -70,6 +66,7 @@ class ContextualScorer(nn.Module):
 class ContextualController:
     def __init__(self, embedding_size, hidden_size, dropout, pretrained_embs_dir, freeze_pretrained=True,
                  learning_rate=0.001):
+        logging.info(f"Using device {DEVICE}")
         self.embedder = Elmo(options_file=os.path.join(pretrained_embs_dir, "options.json"),
                              weight_file=os.path.join(pretrained_embs_dir, "slovenian-elmo-weights.hdf5"),
                              dropout=0.0,
