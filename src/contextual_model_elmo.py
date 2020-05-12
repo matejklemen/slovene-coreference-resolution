@@ -17,11 +17,11 @@ from data import read_corpus
 from utils import extract_vocab, split_into_sets
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--hidden_size", default=128)
-parser.add_argument("--dropout", default=0.2)
-parser.add_argument("--learning_rate", default=0.001)
-parser.add_argument("--num_epochs", default=10)
-parser.add_argument("--dataset", default="coref149")
+parser.add_argument("--hidden_size", type=int, default=128)
+parser.add_argument("--dropout", type=float, default=0.2)
+parser.add_argument("--learning_rate", type=float, default=0.001)
+parser.add_argument("--num_epochs", type=int, default=10)
+parser.add_argument("--dataset", type=str, default="coref149")
 
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -224,7 +224,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     documents = read_corpus(args.dataset)
     train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-
     controller = ContextualController(embedding_size=1024, hidden_size=args.hidden_size, dropout=args.dropout,
                                       pretrained_embs_dir="../data/slovenian-elmo", freeze_pretrained=True,
                                       learning_rate=args.learning_rate)
