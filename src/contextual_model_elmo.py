@@ -219,7 +219,7 @@ class ContextualController:
         best_dev_loss = float("inf")
         logging.info("Starting training...")
         for idx_epoch in range(epochs):
-            logging.info(f"\tRunning epoch {idx_epoch + 1}/{epochs}")
+            print(f"\tRunning epoch {idx_epoch + 1}/{epochs}")
 
             # Make permutation of train documents
             shuffle_indices = torch.randperm(len(train_docs))
@@ -247,8 +247,8 @@ class ContextualController:
                 dev_examples += n_examples
 
             mean_dev_loss = dev_loss / max(1, dev_examples)
-            logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}")
-            logging.info(f"\t\tDev loss:      {mean_dev_loss: .4f}")
+            print(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}")
+            print(f"\t\tDev loss:      {mean_dev_loss: .4f}")
 
             if mean_dev_loss < best_dev_loss and MODELS_SAVE_DIR:
                 logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
