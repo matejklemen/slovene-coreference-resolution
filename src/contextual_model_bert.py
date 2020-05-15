@@ -272,7 +272,9 @@ if __name__ == "__main__":
     if used_bert is None:
         used_bert = CUSTOM_PRETRAINED_BERT_DIR
 
-    controller = ContextualControllerBERT(embedding_size=768, dropout=args.dropout,
+    controller = ContextualControllerBERT(embedding_size=768,
+                                          fc_hidden_size=args.fc_hidden_size,
+                                          dropout=args.dropout,
                                           pretrained_embs_dir=used_bert,
                                           learning_rate=args.learning_rate,
                                           max_segment_size=args.max_segment_size)
