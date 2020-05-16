@@ -1,50 +1,121 @@
 import os
 
 from data import read_corpus
-from utils import extract_vocab, encode, split_into_sets
+from utils import extract_vocab, encode, split_into_sets, get_clusters
 
+import argparse
 import logging
 import codecs
 import torch
+import time
 import torch.nn as nn
 import torch.optim as optim
 from scorer import NeuralCoreferencePairScorer
+import metrics
+from visualization import build_and_display
+import numpy as np
 
 
-DATASET_NAME = 'coref149'  # Use 'coref149' or 'senticoref'
-MODELS_SAVE_DIR = "baseline_model"
-MAX_SEQ_LEN = 10
-NUM_EPOCHS = 10
-LEARNING_RATE = 0.01
-DROPOUT = 0.4  # higher value = stronger regularization
-USE_PRETRAINED_EMBS = "word2vec"
+parser = argparse.ArgumentParser()
+parser.add_argument("--model_name", type=str, default=None)
+parser.add_argument("--hidden_size", type=int, default=150)
+parser.add_argument("--dropout", type=float, default=0.2)
+parser.add_argument("--learning_rate", type=float, default=0.001)
+parser.add_argument("--num_epochs", type=int, default=10)
+parser.add_argument("--dataset", type=str, default="coref149")
+parser.add_argument("--embedding_size", type=int, default=300,
+                    help="Size of word embeddings. Only used if use_pretrained_embs is None; "
+                         "otherwise, supported modes have pre-set embedding sizes")
+parser.add_argument("--use_pretrained_embs", type=str, default="word2vec",
+                    help="Which (if any) pretrained embeddings to use. Supported modes are 'word2vec', 'fastText' and "
+                         "None")
+parser.add_argument("--freeze_pretrained", action="store_true")
+parser.add_argument("--random_seed", type=int, default=None)
+
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+MODELS_SAVE_DIR = "noncontextual_model"
+VISUALIZATION_GENERATE = True
+
+if MODELS_SAVE_DIR and not os.path.exists(MODELS_SAVE_DIR):
+    os.makedirs(MODELS_SAVE_DIR)
+    logging.info(f"Created directory '{MODELS_SAVE_DIR}' for saving models.")
 
 
 class NoncontextualController:
-    def __init__(self, vocab, embedding_size, dropout, fc_hidden_size=150, learning_rate=0.001,
-                 pretrained_embs=None, freeze_pretrained=False):
+    def __init__(self, vocab,
+                 embedding_size,
+                 dropout,
+                 # TODO: this really shouldn't be required (only needed for logging preds in correct format
+                 dataset_name,
+                 fc_hidden_size=150,
+                 learning_rate=0.001,
+                 pretrained_embs=None,
+                 freeze_pretrained=False,
+                 name=None):
+        self.name = name
+        self.dataset_name = dataset_name
+        if self.name is None:
+            self.name = time.strftime("%Y%m%d_%H%M%S")
+
+        # TODO: vocab needs to be saved and reloaded as well (different data splits)
+        self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
+        self.path_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
+        self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
+        self.path_pred_scores = os.path.join(self.path_model_dir, "pred_scores.txt")
+        self.path_log = os.path.join(self.path_model_dir, "log.txt")
+
         self.vocab = vocab
         if pretrained_embs is not None:
             assert pretrained_embs.shape[1] == embedding_size
             logging.info(f"Using pretrained embeddings. freeze_pretrained = {freeze_pretrained}")
             self.embedder = nn.Embedding.from_pretrained(pretrained_embs, freeze=freeze_pretrained)
         else:
-            logging.debug(f"Initializing random embeddings")
+            logging.info(f"Initializing random embeddings as no pretrained embeddings were given")
             self.embedder = nn.Embedding(num_embeddings=len(vocab), embedding_dim=embedding_size)
 
         self.scorer = NeuralCoreferencePairScorer(num_features=embedding_size,
                                                   hidden_size=fc_hidden_size,
                                                   dropout=dropout)
 
-        # TODO: if freeze_pretrained=True, embedder params shouldn't be here
-        self.scorer_optimizer = optim.Adam(list(self.scorer.parameters()) + list(self.embedder.parameters()) if not freeze_pretrained
-                                           else self.scorer.parameters(),
+        self.scorer_optimizer = optim.Adam(list(self.scorer.parameters()) + list(self.embedder.parameters())
+                                           if not freeze_pretrained else self.scorer.parameters(),
                                            lr=learning_rate)
         self.loss = nn.CrossEntropyLoss()
+        logging.debug(f"Initialized non-contextual model with name {self.name}.")
+        self._prepare()
+
+    def _prepare(self):
+        """
+        Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
+        an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
+        """
+        self.loaded_from_file = False
+        # Prepare directory for saving model for this run
+        if not os.path.exists(self.path_model_dir):
+            os.makedirs(self.path_model_dir)
+
+            # All logs will also be written to a file
+            open(self.path_log, "w", encoding="utf-8").close()
+            logger.addHandler(logging.FileHandler(self.path_log, encoding="utf-8"))
+
+            logging.info(f"Created directory '{self.path_model_dir}' for model files.")
+        else:
+            logging.info(f"Directory '{self.path_model_dir}' already exists.")
+            path_to_model = os.path.join(self.path_model_dir, 'best_scorer.th')
+            path_to_embeddings = os.path.join(self.path_model_dir, 'best_embs.th')
+            if os.path.isfile(path_to_model):
+                logging.info(f"Model with name '{self.name}' already exists. Loading model...")
+                # Load trained embeddings, load scorer weights
+                self.scorer.load_state_dict(torch.load(path_to_model))
+                self.embedder.load_state_dict(torch.load(path_to_embeddings))
+
+                logging.info(f"Model with name '{self.name}' loaded.")
+                self.loaded_from_file = True
+            else:
+                logging.info(f"Existing weights were not found at {path_to_model}. Using random initialization...")
 
     def _train_doc(self, curr_doc, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
@@ -144,6 +215,7 @@ class NoncontextualController:
     def train(self, epochs, train_docs, dev_docs):
         best_dev_loss = float("inf")
         logging.info("Starting training...")
+        t_start = time.time()
         for idx_epoch in range(epochs):
             logging.info(f"\tRunning epoch {idx_epoch + 1}/{epochs}")
 
@@ -151,6 +223,7 @@ class NoncontextualController:
             shuffle_indices = torch.randperm(len(train_docs))
 
             logging.debug("\t\tModel training step")
+            self.embedder.train()
             self.scorer.train()
             train_loss, train_examples = 0.0, 0
             for idx_doc in shuffle_indices:
@@ -162,6 +235,7 @@ class NoncontextualController:
                 train_examples += n_examples
 
             logging.debug("\t\tModel validation step")
+            self.embedder.eval()
             self.scorer.eval()
             dev_loss, dev_examples = 0.0, 0
             for curr_doc in dev_docs:
@@ -170,21 +244,100 @@ class NoncontextualController:
                 dev_loss += doc_loss
                 dev_examples += n_examples
 
+            mean_dev_loss = dev_loss / max(1, dev_examples)
             logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}")
-            logging.info(f"\t\tDev loss:      {dev_loss / max(1, dev_examples): .4f}")
+            logging.info(f"\t\tDev loss:      {mean_dev_loss: .4f}")
+
+            if mean_dev_loss < best_dev_loss and MODELS_SAVE_DIR:
+                logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
+                torch.save(self.embedder.state_dict(), os.path.join(self.path_model_dir, 'best_embs.th'))
+                torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, 'best_scorer.th'))
+
+                best_dev_loss = dev_loss / dev_examples
+
+        logging.info("Training noncontextual model complete")
+        logging.info(f"Training took {time.time() - t_start:.2f}s")
+
+    def evaluate(self, test_docs):
+        # doc_name: <cluster assignments> pairs for all test documents
+        logging.info("Evaluating baseline...")
+        all_test_preds = {}
+
+        muc_score = metrics.Score()
+        b3_score = metrics.Score()
+        ceaf_score = metrics.Score()
+
+        logging.info("Evaluation with MUC, BCube and CEAF score...")
+        for curr_doc in test_docs:
+
+            test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
+            test_clusters = get_clusters(test_preds)
+
+            # Save predicted clusters for this document id
+            all_test_preds[curr_doc.doc_id] = test_clusters
+
+            # gt = ground truth, pr = predicted by model
+            gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
+            pr_clusters = {}
+            for (pr_ment, pr_clst) in test_clusters.items():
+                if pr_clst not in pr_clusters:
+                    pr_clusters[pr_clst] = set()
+                pr_clusters[pr_clst].add(pr_ment)
+
+            muc_score.add(metrics.muc(gt_clusters, pr_clusters))
+            b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
+            ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
+
+        logging.info(f"----------------------------------------------")
+        logging.info(f"**Test scores**")
+        logging.info(f"**MUC:      {muc_score}**")
+        logging.info(f"**BCubed:   {b3_score}**")
+        logging.info(f"**CEAFe:    {ceaf_score}**")
+        logging.info(f"**CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}**")
+        logging.info(f"----------------------------------------------")
+
+        if MODELS_SAVE_DIR:
+            # Save test predictions and scores to file for further debugging
+            with open(self.path_pred_scores, "w", encoding="utf-8") as f:
+                f.writelines([
+                    f"Database: {self.dataset_name}\n\n",
+                    f"Test scores:\n",
+                    f"MUC:      {muc_score}\n",
+                    f"BCubed:   {b3_score}\n",
+                    f"CEAFe:    {ceaf_score}\n",
+                    f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
+                ])
+            with open(self.path_pred_clusters, "w", encoding="utf-8") as f:
+                f.writelines(["Predictions:\n"])
+                for doc_id, clusters in all_test_preds.items():
+                    f.writelines([
+                        f"Document '{doc_id}':\n",
+                        str(clusters), "\n"
+                    ])
+
+    def visualize(self):
+        # Build and display visualization
+        if VISUALIZATION_GENERATE:
+            build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir, display=False)
+        else:
+            logging.warning("Visualization is disabled and thus not generated. Set VISUALIZATION_GENERATE to true.")
 
 
 if __name__ == "__main__":
-    embedding_size = 300
+    args = parser.parse_args()
+    embedding_size = args.embedding_size
 
-    documents = read_corpus(DATASET_NAME)
+    if args.random_seed:
+        torch.random.manual_seed(args.random_seed)
+        np.random.seed(args.random_seed)
+
+    documents = read_corpus(args.dataset)
     train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-
     tok2id, id2tok = extract_vocab(train_docs)
 
     pretrained_embs = None
-    # Note: pretrained word2vec embeddings we use are (apparently) uncased
-    if USE_PRETRAINED_EMBS == "word2vec":
+    # Note: pretrained word2vec embeddings we use are uncased
+    if args.use_pretrained_embs == "word2vec":
         logging.info("Loading pretrained Slovene word2vec embeddings")
         with codecs.open(os.path.join("..", "data", "model.txt"), "r", encoding="utf-8", errors="ignore") as f:
             num_tokens, embedding_size = list(map(int, f.readline().split(" ")))
@@ -197,7 +350,7 @@ if __name__ == "__main__":
         for curr_token, curr_id in tok2id.items():
             # leave out-of-vocab token embeddings as random [0, 1) vectors
             pretrained_embs[curr_id, :] = torch.tensor(embs.get(curr_token.lower(), pretrained_embs[curr_id, :]))
-    elif USE_PRETRAINED_EMBS == "fastText":
+    elif args.use_pretrained_embs == "fastText":
         import fasttext
         logging.info("Loading pretrained Slovene fastText embeddings")
         ft = fasttext.load_model(os.path.join("..", "data", "cc.sl.300.bin"))
@@ -208,9 +361,16 @@ if __name__ == "__main__":
             pretrained_embs[curr_id, :] = torch.tensor(ft.get_word_vector(curr_token))
 
         del ft
+    else:
+        embedding_size = args.embedding_size
 
-    model = NoncontextualController(vocab=tok2id, embedding_size=embedding_size, dropout=DROPOUT,
-                                    fc_hidden_size=512,
-                                    learning_rate=LEARNING_RATE, pretrained_embs=pretrained_embs)
-    model.train(epochs=NUM_EPOCHS, train_docs=train_docs, dev_docs=dev_docs)
+    model = NoncontextualController(name=args.model_name, vocab=tok2id, embedding_size=embedding_size, dropout=args.dropout,
+                                    fc_hidden_size=args.hidden_size, learning_rate=args.learning_rate,
+                                    pretrained_embs=pretrained_embs, freeze_pretrained=args.freeze_pretrained,
+                                    dataset_name=args.dataset)
+    if not model.loaded_from_file:
+        model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+
+    model.evaluate(test_docs)
+    model.visualize()
 
