@@ -8,7 +8,7 @@ import codecs
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import numpy as np
+from scorer import NeuralCoreferencePairScorer
 
 
 DATASET_NAME = 'coref149'  # Use 'coref149' or 'senticoref'
@@ -21,53 +21,29 @@ USE_PRETRAINED_EMBS = "word2vec"
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
+DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 
-class NoncontextualScorer(nn.Module):
-    def __init__(self, vocab_size, embedding_size, pad_id, dropout, pretrained_embs=None, freeze_pretrained=False):
-        super().__init__()
-
+class NoncontextualController:
+    def __init__(self, vocab, embedding_size, dropout, fc_hidden_size=150, learning_rate=0.001,
+                 pretrained_embs=None, freeze_pretrained=False):
+        self.vocab = vocab
         if pretrained_embs is not None:
             assert pretrained_embs.shape[1] == embedding_size
             logging.info(f"Using pretrained embeddings. freeze_pretrained = {freeze_pretrained}")
             self.embedder = nn.Embedding.from_pretrained(pretrained_embs, freeze=freeze_pretrained)
         else:
             logging.debug(f"Initializing random embeddings")
-            self.embedder = nn.Embedding(num_embeddings=vocab_size, embedding_dim=embedding_size)
+            self.embedder = nn.Embedding(num_embeddings=len(vocab), embedding_dim=embedding_size)
 
-        self.fc = nn.Linear(in_features=(embedding_size + embedding_size), out_features=1)
-        self.pad_id = pad_id
-        self.dropout = nn.Dropout(p=dropout)
+        self.scorer = NeuralCoreferencePairScorer(num_features=embedding_size,
+                                                  hidden_size=fc_hidden_size,
+                                                  dropout=dropout)
 
-    def forward(self, candidates, head_mentions):
-        """ Average embeddings for each sequence, then concatenate the average vectors and put through fully connected
-        layer.
-
-        candidate, head_mention: [num_candidates, max_seq_length] tensors
-        """
-        cand_embs = self.dropout(self.embedder(candidates))
-        cand_mask = (candidates != self.pad_id).unsqueeze(-1)
-        masked_cand_embs = cand_mask * cand_embs
-        cand_embs = torch.mean(masked_cand_embs, dim=1) / torch.sum(cand_mask, dim=1)
-
-        head_embs = self.dropout(self.embedder(head_mentions))
-        head_mask = (head_mentions != self.pad_id).unsqueeze(-1)
-        masked_head_embs = head_mask * head_embs
-        head_embs = torch.mean(masked_head_embs, dim=1) / torch.sum(head_mask, dim=1)
-
-        combined = torch.cat((cand_embs, head_embs), dim=1)
-        scores = self.fc(combined)
-        return scores
-
-
-class NoncontextualController:
-    def __init__(self, vocab, embedding_size, dropout, pretrained_embs=None, freeze_pretrained=False):
-        self.vocab = vocab
-        self.model = NoncontextualScorer(vocab_size=len(vocab), embedding_size=embedding_size, dropout=dropout,
-                                         pad_id=vocab["<PAD>"], pretrained_embs=pretrained_embs,
-                                         freeze_pretrained=freeze_pretrained)
-
-        self.model_optimizer = optim.SGD(self.model.parameters(), lr=LEARNING_RATE)
+        # TODO: if freeze_pretrained=True, embedder params shouldn't be here
+        self.scorer_optimizer = optim.Adam(list(self.scorer.parameters()) + list(self.embedder.parameters()) if not freeze_pretrained
+                                           else self.scorer.parameters(),
+                                           lr=learning_rate)
         self.loss = nn.CrossEntropyLoss()
 
     def _train_doc(self, curr_doc, eval_mode=False):
@@ -76,6 +52,15 @@ class NoncontextualController:
 
         if len(curr_doc.mentions) == 0:
             return {}, (0.0, 0)
+
+        self.embedder.zero_grad()
+        self.scorer.zero_grad()
+        encoded_doc = []  # list of num_sents x [num_tokens_in_sent, embedding_size] tensors
+        for curr_sent in curr_doc.raw_sentences():
+            curr_encoded_sent = []
+            for curr_token in curr_sent:
+                curr_encoded_sent.append(self.vocab.get(curr_token.lower().strip(), self.vocab["<UNK>"]))
+            encoded_doc.append(self.embedder(torch.tensor(curr_encoded_sent)))
 
         cluster_sets = []
         mention_to_cluster_id = {}
@@ -91,7 +76,6 @@ class NoncontextualController:
         logging.debug(f"**Processing {len(curr_doc.mentions)} mentions...**")
         for idx_head, (head_id, head_mention) in enumerate(curr_doc.mentions.items(), 1):
             logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
-            self.model.zero_grad()
 
             gt_antecedent_ids = cluster_sets[mention_to_cluster_id[head_id]]
 
@@ -99,8 +83,10 @@ class NoncontextualController:
             candidates, encoded_candidates = [None], []
             gt_antecedents = []
 
-            head_tokens = encode([t.raw_text for t in head_mention.tokens],
-                                 vocab=self.vocab, max_seq_len=MAX_SEQ_LEN)
+            head_features = []
+            for curr_token in head_mention.tokens:
+                head_features.append(encoded_doc[curr_token.sentence_index][curr_token.position_in_sentence])
+            head_features = torch.stack(head_features, dim=0)  # shape: [num_tokens, embedding_size]
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
                 if cand_id != head_id and cand_id in gt_antecedent_ids:
@@ -109,13 +95,14 @@ class NoncontextualController:
                 # Obtain scores for candidates and select best one as antecedent
                 if idx_candidate == idx_head:
                     if len(encoded_candidates) > 0:
-                        encoded_candidates = torch.tensor(encoded_candidates, dtype=torch.long)
-                        encoded_head = torch.repeat_interleave(torch.tensor([head_tokens]),
-                                                               repeats=len(encoded_candidates), dim=0)
-                        cand_scores = self.model(encoded_candidates, encoded_head)
+                        cand_scores = [torch.tensor([0.0], device=DEVICE)]
+                        for candidate_features in encoded_candidates:
+                            cand_scores.append(self.scorer(candidate_features, head_features))
+
+                        assert len(cand_scores) == len(candidates)
 
                         # Concatenates the given sequence of seq tensors in the given dimension
-                        cand_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
+                        cand_scores = torch.stack(cand_scores, dim=1)
 
                         # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
                         if len(gt_antecedents) == 0:
@@ -125,17 +112,10 @@ class NoncontextualController:
                         curr_pred = torch.argmax(cand_scores)
 
                         # (average) loss over all ground truth antecedents
-                        curr_loss = self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
-                                              torch.tensor(gt_antecedents))
-
-                        doc_loss += float(curr_loss)
+                        doc_loss += self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
+                                              torch.tensor(gt_antecedents, device=DEVICE))
 
                         n_examples += 1
-
-                        if not eval_mode:
-                            curr_loss.backward()
-                            self.model_optimizer.step()
-                            self.model_optimizer.zero_grad()
                     else:
                         # Only one candidate antecedent = first mention
                         curr_pred = 0
@@ -148,11 +128,18 @@ class NoncontextualController:
                 else:
                     # Add current mention as candidate
                     candidates.append(cand_id)
-                    mention_tokens = encode([t.raw_text for t in cand_mention.tokens],
-                                            vocab=self.vocab, max_seq_len=MAX_SEQ_LEN)
-                    encoded_candidates.append(mention_tokens)
+                    mention_features = []
+                    for curr_token in cand_mention.tokens:
+                        mention_features.append(encoded_doc[curr_token.sentence_index][curr_token.position_in_sentence])
+                    mention_features = torch.stack(mention_features, dim=0)  # shape: [num_tokens, embedding_size]
 
-        return preds, (doc_loss, n_examples)
+                    encoded_candidates.append(mention_features)
+
+        if not eval_mode:
+            doc_loss.backward()
+            self.scorer_optimizer.step()
+
+        return preds, (float(doc_loss), n_examples)
 
     def train(self, epochs, train_docs, dev_docs):
         best_dev_loss = float("inf")
@@ -164,7 +151,7 @@ class NoncontextualController:
             shuffle_indices = torch.randperm(len(train_docs))
 
             logging.debug("\t\tModel training step")
-            self.model.train()
+            self.scorer.train()
             train_loss, train_examples = 0.0, 0
             for idx_doc in shuffle_indices:
                 curr_doc = train_docs[idx_doc]
@@ -175,7 +162,7 @@ class NoncontextualController:
                 train_examples += n_examples
 
             logging.debug("\t\tModel validation step")
-            self.model.eval()
+            self.scorer.eval()
             dev_loss, dev_examples = 0.0, 0
             for curr_doc in dev_docs:
                 _, (doc_loss, n_examples) = self._train_doc(curr_doc, eval_mode=True)
@@ -223,6 +210,7 @@ if __name__ == "__main__":
         del ft
 
     model = NoncontextualController(vocab=tok2id, embedding_size=embedding_size, dropout=DROPOUT,
-                                    pretrained_embs=pretrained_embs)
+                                    fc_hidden_size=512,
+                                    learning_rate=LEARNING_RATE, pretrained_embs=pretrained_embs)
     model.train(epochs=NUM_EPOCHS, train_docs=train_docs, dev_docs=dev_docs)
 

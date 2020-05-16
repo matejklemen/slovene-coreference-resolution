@@ -15,6 +15,7 @@ import torch.nn.functional as F
 from allennlp.modules.elmo import Elmo, batch_to_ids
 from data import read_corpus
 from utils import extract_vocab, split_into_sets
+from scorer import NeuralCoreferencePairScorer
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--hidden_size", type=int, default=128)
@@ -29,51 +30,9 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 
-class ContextualScorer(nn.Module):
-    def __init__(self, num_features, dropout=0.2):
-        # Note: num_features is either hidden_size of a LSTM or 2*hidden_size if using biLSTM
-        super().__init__()
-
-        # Attempts to model head word (""key word"") in a mention, e.g. [model] in "my amazing model"
-        self.attention_projector = nn.Linear(in_features=num_features, out_features=1)
-        # Converts [candidate_state, head_state, candidate_state * head_state] into a score
-        self.fc = nn.Linear(in_features=(3 * num_features) * 3, out_features=1)
-        self.dropout = nn.Dropout(p=dropout)
-
-    def forward(self, candidate_features, head_features):
-        """
-        Note: doesn't handle batches!
-        Args:
-            candidate_features: [num_tokens_cand, num_features]
-            head_features: [num_tokens_head, num_features]
-        """
-
-        # Create candidate representation
-        candidate_attn_weights = F.softmax(self.attention_projector(self.dropout(candidate_features)),
-                                           dim=0)
-        cand_attended_features = torch.sum(candidate_attn_weights * candidate_features, dim=0)
-        candidate_repr = torch.cat((candidate_features[0],  # first word of mention
-                                    candidate_features[-1],  # last word of mention
-                                    cand_attended_features))
-
-        # Create head mention representation
-        head_attn_weights = F.softmax(self.attention_projector(self.dropout(head_features)),
-                                      dim=0)
-        head_attended_features = torch.sum(head_attn_weights * head_features, dim=0)
-        head_repr = torch.cat((head_features[0],  # first word of mention
-                               head_features[-1],  # last word of mention
-                               head_attended_features))
-
-        # Combine representations and compute a score
-        pair_score = self.fc(self.dropout(torch.cat((candidate_repr,
-                                                     head_repr,
-                                                     candidate_repr * head_repr))))
-        return pair_score
-
-
 class ContextualController:
-    def __init__(self, embedding_size, hidden_size, dropout, pretrained_embs_dir, freeze_pretrained=True,
-                 learning_rate=0.001):
+    def __init__(self, embedding_size, hidden_size, dropout, pretrained_embs_dir, fc_hidden_size=150,
+                 freeze_pretrained=True, learning_rate=0.001):
         logging.info(f"Using device {DEVICE}")
         self.embedder = Elmo(options_file=os.path.join(pretrained_embs_dir, "options.json"),
                              weight_file=os.path.join(pretrained_embs_dir, "slovenian-elmo-weights.hdf5"),
@@ -83,7 +42,9 @@ class ContextualController:
 
         self.context_encoder = nn.LSTM(input_size=embedding_size, hidden_size=hidden_size,
                                        batch_first=True, bidirectional=True).to(DEVICE)
-        self.scorer = ContextualScorer(num_features=(2 * hidden_size), dropout=dropout).to(DEVICE)
+        self.scorer = NeuralCoreferencePairScorer(num_features=(2 * hidden_size),
+                                                  hidden_size=fc_hidden_size,
+                                                  dropout=dropout).to(DEVICE)
 
         self.lstm_optimizer = optim.Adam(self.context_encoder.parameters(), lr=learning_rate)
         self.scorer_optimizer = optim.Adam(self.scorer.parameters(), lr=learning_rate)
