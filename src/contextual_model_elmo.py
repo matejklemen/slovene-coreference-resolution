@@ -4,6 +4,7 @@
     ELMo vectors. """
 import os
 import logging
+import time
 
 import numpy as np
 import argparse
@@ -26,15 +27,40 @@ parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--random_seed", type=int, default=None)
 parser.add_argument("--freeze_pretrained", action="store_true")
 
-DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
+DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+MODELS_SAVE_DIR = "contextual_model_elmo"
+VISUALIZATION_GENERATE = True
+if MODELS_SAVE_DIR and not os.path.exists(MODELS_SAVE_DIR):
+    os.makedirs(MODELS_SAVE_DIR)
+    logging.info(f"Created directory '{MODELS_SAVE_DIR}' for saving models.")
+
 
 class ContextualController:
-    def __init__(self, embedding_size, hidden_size, dropout, pretrained_embs_dir, fc_hidden_size=150,
-                 freeze_pretrained=True, learning_rate=0.001):
+    def __init__(self, embedding_size,
+                 hidden_size,
+                 dropout,
+                 pretrained_embs_dir,
+                 # TODO: this really shouldn't be required (only needed for visualization)
+                 dataset_name,
+                 fc_hidden_size=150,
+                 freeze_pretrained=True,
+                 learning_rate=0.001,
+                 name=None):
+        self.name = name
+        self.dataset_name = dataset_name
+        if self.name is None:
+            self.name = time.strftime("%Y%m%d_%H%M%S")
+
+        self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
+        self.path_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
+        self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
+        self.path_pred_scores = os.path.join(self.path_model_dir, "pred_scores.txt")
+        self.path_log = os.path.join(self.path_model_dir, "log.txt")
+
         logging.info(f"Using device {DEVICE}")
         self.embedder = Elmo(options_file=os.path.join(pretrained_embs_dir, "options.json"),
                              weight_file=os.path.join(pretrained_embs_dir, "slovenian-elmo-weights.hdf5"),
@@ -42,7 +68,7 @@ class ContextualController:
                              num_output_representations=1,
                              requires_grad=(not freeze_pretrained)).to(DEVICE)
 
-        self.context_encoder = nn.LSTM(input_size=embedding_size, hidden_size=hidden_size,
+        self.context_encoder = nn.LSTM(input_size=embedding_size,hidden_size=hidden_size,
                                        batch_first=True, bidirectional=True).to(DEVICE)
         self.scorer = NeuralCoreferencePairScorer(num_features=(2 * hidden_size),
                                                   hidden_size=fc_hidden_size,
@@ -60,6 +86,40 @@ class ContextualController:
                                         lr=learning_rate)
 
         self.loss = nn.CrossEntropyLoss()
+        logging.debug(f"Initialized contextual ELMo-based model with name {self.name}.")
+        self._prepare()
+
+    def _prepare(self):
+        """
+        Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
+        an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
+        """
+        self.loaded_from_file = False
+        # Prepare directory for saving model for this run
+        if not os.path.exists(self.path_model_dir):
+            os.makedirs(self.path_model_dir)
+
+            # All logs will also be written to a file
+            open(self.path_log, "w", encoding="utf-8").close()
+            logger.addHandler(logging.FileHandler(self.path_log, encoding="utf-8"))
+
+            logging.info(f"Created directory '{self.path_model_dir}' for model files.")
+        else:
+            logging.info(f"Directory '{self.path_model_dir}' already exists.")
+            path_to_model = os.path.join(self.path_model_dir, 'best_scorer.th')
+            if os.path.isfile(path_to_model):
+                self.scorer.load_state_dict(torch.load(path_to_model))
+                self.loaded_from_file = True
+
+            path_to_context_enc = os.path.join(self.path_model_dir, 'best_context_enc.th')
+            if os.path.isfile(path_to_context_enc):
+                self.context_encoder.load_state_dict(torch.load(path_to_context_enc))
+                self.loaded_from_file = True
+
+            path_to_embeddings = os.path.join(self.path_model_dir, 'best_elmo.th')
+            if os.path.isfile(path_to_embeddings):
+                self.embedder.load_state_dict(torch.load(path_to_embeddings))
+                self.loaded_from_file = True
 
     def _train_doc(self, curr_doc, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
@@ -186,8 +246,18 @@ class ContextualController:
                 dev_loss += doc_loss
                 dev_examples += n_examples
 
+            mean_dev_loss = dev_loss / max(1, dev_examples)
             logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}")
-            logging.info(f"\t\tDev loss:      {dev_loss / max(1, dev_examples): .4f}")
+            logging.info(f"\t\tDev loss:      {mean_dev_loss: .4f}")
+
+            if mean_dev_loss < best_dev_loss and MODELS_SAVE_DIR:
+                logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
+                torch.save(self.context_encoder.state_dict(), os.path.join(self.path_model_dir, 'best_context_enc.th'))
+                torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, 'best_scorer.th'))
+                if not self.freeze_pretrained:
+                    torch.save(self.embedder.state_dict(), os.path.join(self.path_model_dir, 'best_elmo.th'))
+
+                best_dev_loss = dev_loss / dev_examples
 
 
 if __name__ == "__main__":
@@ -200,6 +270,7 @@ if __name__ == "__main__":
                                       dropout=args.dropout,
                                       pretrained_embs_dir="../data/slovenian-elmo",
                                       freeze_pretrained=args.freeze_pretrained,
-                                      learning_rate=args.learning_rate)
+                                      learning_rate=args.learning_rate,
+                                      dataset_name=args.dataset)
 
     controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
