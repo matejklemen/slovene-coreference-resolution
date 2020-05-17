@@ -2,22 +2,25 @@
     We are not performing end-to-end coreference resolution, so we only use the coreference scorer.
     We do not use character embeddings or additional features. For the word embeddings we use pretrained
     ELMo vectors. """
-import os
+import argparse
 import logging
+import os
 import time
 
+import metrics
 import numpy as np
-import argparse
 import torch
 import torch.nn as nn
 import torch.optim as optim
-
 from allennlp.modules.elmo import Elmo, batch_to_ids
-from data import read_corpus
-from utils import extract_vocab, split_into_sets
 from scorer import NeuralCoreferencePairScorer
+from utils import split_into_sets, get_clusters
+from visualization import build_and_display
+
+from data import read_corpus
 
 parser = argparse.ArgumentParser()
+parser.add_argument("--model_name", type=str, default=None)
 parser.add_argument("--hidden_size", type=int, default=128)
 parser.add_argument("--fc_hidden_size", type=int, default=150)
 parser.add_argument("--dropout", type=float, default=0.2)
@@ -108,16 +111,19 @@ class ContextualController:
             logging.info(f"Directory '{self.path_model_dir}' already exists.")
             path_to_model = os.path.join(self.path_model_dir, 'best_scorer.th')
             if os.path.isfile(path_to_model):
+                logging.info(f"Loading scorer weights from '{path_to_model}'")
                 self.scorer.load_state_dict(torch.load(path_to_model))
                 self.loaded_from_file = True
 
             path_to_context_enc = os.path.join(self.path_model_dir, 'best_context_enc.th')
             if os.path.isfile(path_to_context_enc):
+                logging.info(f"Loading context encoder weights from '{path_to_context_enc}'")
                 self.context_encoder.load_state_dict(torch.load(path_to_context_enc))
                 self.loaded_from_file = True
 
             path_to_embeddings = os.path.join(self.path_model_dir, 'best_elmo.th')
             if os.path.isfile(path_to_embeddings):
+                logging.info(f"Loading fine-tuned ELMo weights from '{path_to_embeddings}'")
                 self.embedder.load_state_dict(torch.load(path_to_embeddings))
                 self.loaded_from_file = True
 
@@ -259,18 +265,92 @@ class ContextualController:
 
                 best_dev_loss = dev_loss / dev_examples
 
+    def evaluate(self, test_docs):
+        # doc_name: <cluster assignments> pairs for all test documents
+        logging.info("Evaluating baseline...")
+        all_test_preds = {}
+
+        muc_score = metrics.Score()
+        b3_score = metrics.Score()
+        ceaf_score = metrics.Score()
+
+        logging.info("Evaluation with MUC, BCube and CEAF score...")
+        for curr_doc in test_docs:
+
+            test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
+            test_clusters = get_clusters(test_preds)
+
+            # Save predicted clusters for this document id
+            all_test_preds[curr_doc.doc_id] = test_clusters
+
+            # gt = ground truth, pr = predicted by model
+            gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
+            pr_clusters = {}
+            for (pr_ment, pr_clst) in test_clusters.items():
+                if pr_clst not in pr_clusters:
+                    pr_clusters[pr_clst] = set()
+                pr_clusters[pr_clst].add(pr_ment)
+
+            muc_score.add(metrics.muc(gt_clusters, pr_clusters))
+            b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
+            ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
+
+        logging.info(f"----------------------------------------------")
+        logging.info(f"**Test scores**")
+        logging.info(f"**MUC:      {muc_score}**")
+        logging.info(f"**BCubed:   {b3_score}**")
+        logging.info(f"**CEAFe:    {ceaf_score}**")
+        logging.info(f"**CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}**")
+        logging.info(f"----------------------------------------------")
+
+        if MODELS_SAVE_DIR:
+            # Save test predictions and scores to file for further debugging
+            with open(self.path_pred_scores, "w", encoding="utf-8") as f:
+                f.writelines([
+                    f"Database: {self.dataset_name}\n\n",
+                    f"Test scores:\n",
+                    f"MUC:      {muc_score}\n",
+                    f"BCubed:   {b3_score}\n",
+                    f"CEAFe:    {ceaf_score}\n",
+                    f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
+                ])
+            with open(self.path_pred_clusters, "w", encoding="utf-8") as f:
+                f.writelines(["Predictions:\n"])
+                for doc_id, clusters in all_test_preds.items():
+                    f.writelines([
+                        f"Document '{doc_id}':\n",
+                        str(clusters), "\n"
+                    ])
+
+    def visualize(self):
+        # Build and display visualization
+        if VISUALIZATION_GENERATE:
+            build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir, display=False)
+        else:
+            logging.warning("Visualization is disabled and thus not generated. Set VISUALIZATION_GENERATE to true.")
+
 
 if __name__ == "__main__":
     args = parser.parse_args()
+    if args.random_seed:
+        np.random.seed(args.random_seed)
+        torch.random.manual_seed(args.random_seed)
+
     documents = read_corpus(args.dataset)
     train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-    controller = ContextualController(embedding_size=1024,
-                                      fc_hidden_size=args.fc_hidden_size,
-                                      hidden_size=args.hidden_size,
-                                      dropout=args.dropout,
-                                      pretrained_embs_dir="../data/slovenian-elmo",
-                                      freeze_pretrained=args.freeze_pretrained,
-                                      learning_rate=args.learning_rate,
-                                      dataset_name=args.dataset)
+    model = ContextualController(name=args.model_name,
+                                 embedding_size=1024,
+                                 fc_hidden_size=args.fc_hidden_size,
+                                 hidden_size=args.hidden_size,
+                                 dropout=args.dropout,
+                                 pretrained_embs_dir="../data/slovenian-elmo",
+                                 freeze_pretrained=args.freeze_pretrained,
+                                 learning_rate=args.learning_rate,
+                                 dataset_name=args.dataset)
+    if not model.loaded_from_file:
+        model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+        # Reload best checkpoint
+        model._prepare()
 
-    controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+    model.evaluate(test_docs)
+    model.visualize()
