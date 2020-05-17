@@ -66,15 +66,23 @@ class NoncontextualController:
         self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
         self.path_pred_scores = os.path.join(self.path_model_dir, "pred_scores.txt")
         self.path_log = os.path.join(self.path_model_dir, "log.txt")
+        self.vocab_path = os.path.join(self.path_model_dir, "vocab.txt")
 
         self.vocab = vocab
+        if os.path.exists(self.vocab_path):
+            logging.info("Overriding provided embeddings with ones from model's directory...")
+            with open(self.vocab_path, "r") as f_vocab:
+                self.vocab = {token.strip(): i for i, token in enumerate(f_vocab)}
+            # Make it so that a random embedding layer gets created, then later load the saved weights
+            pretrained_embs = None
+
         if pretrained_embs is not None:
             assert pretrained_embs.shape[1] == embedding_size
             logging.info(f"Using pretrained embeddings. freeze_pretrained = {freeze_pretrained}")
             self.embedder = nn.Embedding.from_pretrained(pretrained_embs, freeze=freeze_pretrained)
         else:
             logging.info(f"Initializing random embeddings as no pretrained embeddings were given")
-            self.embedder = nn.Embedding(num_embeddings=len(vocab), embedding_dim=embedding_size)
+            self.embedder = nn.Embedding(num_embeddings=len(self.vocab), embedding_dim=embedding_size)
 
         self.scorer = NeuralCoreferencePairScorer(num_features=embedding_size,
                                                   hidden_size=fc_hidden_size,
@@ -100,6 +108,11 @@ class NoncontextualController:
             # All logs will also be written to a file
             open(self.path_log, "w", encoding="utf-8").close()
             logger.addHandler(logging.FileHandler(self.path_log, encoding="utf-8"))
+
+            with open(self.vocab_path, "w") as f_vocab:
+                # Write vocabulary by ascending token ID (assuming indexing from 0 to (|V| - 1))
+                for token, _ in sorted(self.vocab.items(), key=lambda tup: tup[1]):
+                    print(token, file=f_vocab)
 
             logging.info(f"Created directory '{self.path_model_dir}' for model files.")
         else:
@@ -364,9 +377,14 @@ if __name__ == "__main__":
     else:
         embedding_size = args.embedding_size
 
-    model = NoncontextualController(name=args.model_name, vocab=tok2id, embedding_size=embedding_size, dropout=args.dropout,
-                                    fc_hidden_size=args.hidden_size, learning_rate=args.learning_rate,
-                                    pretrained_embs=pretrained_embs, freeze_pretrained=args.freeze_pretrained,
+    model = NoncontextualController(name=args.model_name,
+                                    vocab=tok2id,
+                                    embedding_size=embedding_size,
+                                    dropout=args.dropout,
+                                    fc_hidden_size=args.hidden_size,
+                                    learning_rate=args.learning_rate,
+                                    pretrained_embs=pretrained_embs,
+                                    freeze_pretrained=args.freeze_pretrained,
                                     dataset_name=args.dataset)
     if not model.loaded_from_file:
         model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
