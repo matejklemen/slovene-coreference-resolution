@@ -60,7 +60,6 @@ class NoncontextualController:
         if self.name is None:
             self.name = time.strftime("%Y%m%d_%H%M%S")
 
-        # TODO: vocab needs to be saved and reloaded as well (different data splits)
         self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
         self.path_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
         self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
