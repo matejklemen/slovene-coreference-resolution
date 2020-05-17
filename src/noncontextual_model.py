@@ -387,6 +387,8 @@ if __name__ == "__main__":
                                     dataset_name=args.dataset)
     if not model.loaded_from_file:
         model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+        # Reload best checkpoint
+        model._prepare()
 
     model.evaluate(test_docs)
     model.visualize()
