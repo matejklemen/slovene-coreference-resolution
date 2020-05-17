@@ -10,7 +10,6 @@ import argparse
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import torch.nn.functional as F
 
 from allennlp.modules.elmo import Elmo, batch_to_ids
 from data import read_corpus
@@ -19,10 +18,13 @@ from scorer import NeuralCoreferencePairScorer
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--hidden_size", type=int, default=128)
+parser.add_argument("--fc_hidden_size", type=int, default=150)
 parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
 parser.add_argument("--num_epochs", type=int, default=10)
 parser.add_argument("--dataset", type=str, default="coref149")
+parser.add_argument("--random_seed", type=int, default=None)
+parser.add_argument("--freeze_pretrained", action="store_true")
 
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -36,7 +38,7 @@ class ContextualController:
         logging.info(f"Using device {DEVICE}")
         self.embedder = Elmo(options_file=os.path.join(pretrained_embs_dir, "options.json"),
                              weight_file=os.path.join(pretrained_embs_dir, "slovenian-elmo-weights.hdf5"),
-                             dropout=0.0,
+                             dropout=(0.0 if freeze_pretrained else dropout),
                              num_output_representations=1,
                              requires_grad=(not freeze_pretrained)).to(DEVICE)
 
@@ -46,8 +48,17 @@ class ContextualController:
                                                   hidden_size=fc_hidden_size,
                                                   dropout=dropout).to(DEVICE)
 
-        self.lstm_optimizer = optim.Adam(self.context_encoder.parameters(), lr=learning_rate)
-        self.scorer_optimizer = optim.Adam(self.scorer.parameters(), lr=learning_rate)
+        self.freeze_pretrained = freeze_pretrained
+        if freeze_pretrained:
+            self.optimizer = optim.Adam(list(self.context_encoder.parameters()) +
+                                        list(self.scorer.parameters()),
+                                        lr=learning_rate)
+        else:
+            self.optimizer = optim.Adam(list(self.embedder.parameters()) +
+                                        list(self.context_encoder.parameters()) +
+                                        list(self.scorer.parameters()),
+                                        lr=learning_rate)
+
         self.loss = nn.CrossEntropyLoss()
 
     def _train_doc(self, curr_doc, eval_mode=False):
@@ -57,8 +68,7 @@ class ContextualController:
         if len(curr_doc.mentions) == 0:
             return {}, (0.0, 0)
 
-        self.scorer.zero_grad()
-        self.context_encoder.zero_grad()
+        self.optimizer.zero_grad()
 
         # Obtain pretrained embeddings for all tokens in current document, then encode their left and right context
         # using a bidirectional LSTM
@@ -141,8 +151,7 @@ class ContextualController:
 
         if not eval_mode:
             doc_loss.backward()
-            self.lstm_optimizer.step()
-            self.scorer_optimizer.step()
+            self.optimizer.step()
 
         return preds, (float(doc_loss), n_examples)
 
@@ -185,8 +194,12 @@ if __name__ == "__main__":
     args = parser.parse_args()
     documents = read_corpus(args.dataset)
     train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-    controller = ContextualController(embedding_size=1024, hidden_size=args.hidden_size, dropout=args.dropout,
-                                      pretrained_embs_dir="../data/slovenian-elmo", freeze_pretrained=True,
+    controller = ContextualController(embedding_size=1024,
+                                      fc_hidden_size=args.fc_hidden_size,
+                                      hidden_size=args.hidden_size,
+                                      dropout=args.dropout,
+                                      pretrained_embs_dir="../data/slovenian-elmo",
+                                      freeze_pretrained=args.freeze_pretrained,
                                       learning_rate=args.learning_rate)
 
     controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
