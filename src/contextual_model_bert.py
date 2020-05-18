@@ -88,7 +88,7 @@ class ContextualControllerBERT:
             curr_segment = self.tokenizer.prepare_for_model(
                 encoded_doc[idx_segment * self.max_segment_size: (idx_segment + 1) * self.max_segment_size],
                 max_length=(self.max_segment_size + 2), pad_to_max_length=True,
-                return_tensors="pt")
+                return_tensors="pt").to(DEVICE)
 
             res = self.embedder(**curr_segment)
             last_hidden_states = res[0]
