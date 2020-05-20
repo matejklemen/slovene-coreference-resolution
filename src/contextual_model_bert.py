@@ -57,8 +57,18 @@ def prepare_document(doc, tokenizer):
 
 
 class ContextualControllerBERT:
-    def __init__(self, embedding_size, dropout, pretrained_embs_dir, dataset_name, fc_hidden_size=150, freeze_pretrained=True,
-                 learning_rate=0.001, max_segment_size=(512 - 2), name=None):
+    def __init__(self, embedding_size,
+                 dropout,
+                 pretrained_embs_dir,
+                 dataset_name,
+                 fc_hidden_size=150,
+                 freeze_pretrained=True,
+                 learning_rate=0.001,
+                 max_segment_size=(512 - 2),
+                 name=None):
+        if not freeze_pretrained and learning_rate >= 1e-4:
+            logging.warning("WARNING: BERT weights are unfrozen with a relatively high learning rate (>= 1e-4)")
+
         self.name = name
         self.dataset_name = dataset_name
         if self.name is None:
@@ -74,17 +84,20 @@ class ContextualControllerBERT:
         self.max_segment_size = max_segment_size
         self.embedder = BertModel.from_pretrained(pretrained_embs_dir).to(DEVICE)
         self.tokenizer = BertTokenizer.from_pretrained(pretrained_embs_dir)
-        for param in self.embedder.parameters():
-            param.requires_grad = False
 
-        if not freeze_pretrained:
-            # TODO: enable unfreezing BERT
-            raise NotImplementedError("The current implementation does not allow unfreezing BERT weights")
+        self.freeze_pretrained = freeze_pretrained
+        for param in self.embedder.parameters():
+            param.requires_grad = not freeze_pretrained
 
         self.scorer = NeuralCoreferencePairScorer(num_features=embedding_size,
                                                   dropout=dropout,
                                                   hidden_size=fc_hidden_size).to(DEVICE)
-        self.scorer_optimizer = optim.Adam(self.scorer.parameters(), lr=learning_rate)
+        if freeze_pretrained:
+            self.optimizer = optim.Adam(self.scorer.parameters(),
+                                        lr=learning_rate)
+        else:
+            self.optimizer = optim.Adam(list(self.embedder.parameters()) + list(self.scorer.parameters()),
+                                        lr=learning_rate)
         self.loss = nn.CrossEntropyLoss()
         logging.debug(f"Initialized contextual BERT-based model with name {self.name}.")
         self._prepare()
@@ -106,7 +119,15 @@ class ContextualControllerBERT:
             logging.info(f"Created directory '{self.path_model_dir}' for model files.")
         else:
             logging.info(f"Directory '{self.path_model_dir}' already exists.")
-            # TODO: load model, if exists...
+            path_to_model = os.path.join(self.path_model_dir, 'best_scorer.th')
+            if os.path.isfile(path_to_model):
+                self.scorer.load_state_dict(torch.load(path_to_model))
+                self.loaded_from_file = True
+
+            path_to_embeddings = os.path.join(self.path_model_dir, 'best_bert.th')
+            if os.path.isfile(path_to_embeddings):
+                self.embedder.load_state_dict(torch.load(path_to_embeddings))
+                self.loaded_from_file = True
 
     def _train_doc(self, curr_doc, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
@@ -216,7 +237,7 @@ class ContextualControllerBERT:
 
         if not eval_mode:
             doc_loss.backward()
-            self.scorer_optimizer.step()
+            self.optimizer.step()
 
         return preds, (float(doc_loss), n_examples)
 
@@ -254,9 +275,12 @@ class ContextualControllerBERT:
             logging.info(f"\t\tDev loss:      {mean_dev_loss: .4f}")
 
             if mean_dev_loss < best_dev_loss and MODELS_SAVE_DIR:
-                # logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
-                # TODO: save model...
-                best_dev_loss = dev_loss / dev_examples
+                logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
+                torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, 'best_scorer.th'))
+                if not self.freeze_pretrained:
+                    torch.save(self.embedder.state_dict(), os.path.join(self.path_model_dir, 'best_bert.th'))
+
+                best_dev_loss = mean_dev_loss
 
     def evaluate(self, test_docs):
         # doc_name: <cluster assignments> pairs for all test documents
