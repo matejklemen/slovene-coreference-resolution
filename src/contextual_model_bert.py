@@ -1,22 +1,25 @@
+import argparse
+import logging
 import os
+import time
+
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 import torch.optim as optim
-import logging
-import argparse
-
 from transformers import BertModel, BertTokenizer
-from data import read_corpus
-from utils import split_into_sets
-from scorer import NeuralCoreferencePairScorer
 
+import metrics
+from data import read_corpus
+from scorer import NeuralCoreferencePairScorer
+from utils import get_clusters
+from utils import split_into_sets
+from visualization import build_and_display
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--fc_hidden_size", type=int, default=150)
+parser.add_argument("--fc_hidden_size", type=int, default=10)
 parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
-parser.add_argument("--num_epochs", type=int, default=10)
+parser.add_argument("--num_epochs", type=int, default=1)
 parser.add_argument("--max_segment_size", type=int, default=256)
 parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--bert_pretrained_name_or_dir", type=str, default=None)
@@ -25,6 +28,11 @@ parser.add_argument("--bert_pretrained_name_or_dir", type=str, default=None)
 CUSTOM_PRETRAINED_BERT_DIR = os.environ.get("CUSTOM_PRETRAINED_BERT_DIR",
                                             os.path.join("..", "data", "slo-hr-en-bert-pytorch"))
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+MODELS_SAVE_DIR = "contextual_model_bert"
+VISUALIZATION_GENERATE = True
+if MODELS_SAVE_DIR and not os.path.exists(MODELS_SAVE_DIR):
+    os.makedirs(MODELS_SAVE_DIR)
+    logging.info(f"Created directory '{MODELS_SAVE_DIR}' for saving models.")
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -49,8 +57,19 @@ def prepare_document(doc, tokenizer):
 
 
 class ContextualControllerBERT:
-    def __init__(self, embedding_size, dropout, pretrained_embs_dir, fc_hidden_size=150, freeze_pretrained=True,
-                 learning_rate=0.001, max_segment_size=(512 - 2)):
+    def __init__(self, embedding_size, dropout, pretrained_embs_dir, dataset_name, fc_hidden_size=150, freeze_pretrained=True,
+                 learning_rate=0.001, max_segment_size=(512 - 2), name=None):
+        self.name = name
+        self.dataset_name = dataset_name
+        if self.name is None:
+            self.name = time.strftime("%Y%m%d_%H%M%S")
+
+        self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
+        self.path_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
+        self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
+        self.path_pred_scores = os.path.join(self.path_model_dir, "pred_scores.txt")
+        self.path_log = os.path.join(self.path_model_dir, "log.txt")
+
         logging.info(f"Using device {DEVICE}")
         self.max_segment_size = max_segment_size
         self.embedder = BertModel.from_pretrained(pretrained_embs_dir).to(DEVICE)
@@ -67,6 +86,27 @@ class ContextualControllerBERT:
                                                   hidden_size=fc_hidden_size).to(DEVICE)
         self.scorer_optimizer = optim.Adam(self.scorer.parameters(), lr=learning_rate)
         self.loss = nn.CrossEntropyLoss()
+        logging.debug(f"Initialized contextual BERT-based model with name {self.name}.")
+        self._prepare()
+
+    def _prepare(self):
+        """
+        Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
+        an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
+        """
+        self.loaded_from_file = False
+        # Prepare directory for saving model for this run
+        if not os.path.exists(self.path_model_dir):
+            os.makedirs(self.path_model_dir)
+
+            # All logs will also be written to a file
+            open(self.path_log, "w", encoding="utf-8").close()
+            logger.addHandler(logging.FileHandler(self.path_log, encoding="utf-8"))
+
+            logging.info(f"Created directory '{self.path_model_dir}' for model files.")
+        else:
+            logging.info(f"Directory '{self.path_model_dir}' already exists.")
+            # TODO: load model, if exists...
 
     def _train_doc(self, curr_doc, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
@@ -209,8 +249,78 @@ class ContextualControllerBERT:
                 dev_loss += doc_loss
                 dev_examples += n_examples
 
+            mean_dev_loss = dev_loss / max(1, dev_examples)
             logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}")
-            logging.info(f"\t\tDev loss:      {dev_loss / max(1, dev_examples): .4f}")
+            logging.info(f"\t\tDev loss:      {mean_dev_loss: .4f}")
+
+            if mean_dev_loss < best_dev_loss and MODELS_SAVE_DIR:
+                # logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
+                # TODO: save model...
+                best_dev_loss = dev_loss / dev_examples
+
+    def evaluate(self, test_docs):
+        # doc_name: <cluster assignments> pairs for all test documents
+        logging.info("Evaluating baseline...")
+        all_test_preds = {}
+
+        muc_score = metrics.Score()
+        b3_score = metrics.Score()
+        ceaf_score = metrics.Score()
+
+        logging.info("Evaluation with MUC, BCube and CEAF score...")
+        for curr_doc in test_docs:
+
+            test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
+            test_clusters = get_clusters(test_preds)
+
+            # Save predicted clusters for this document id
+            all_test_preds[curr_doc.doc_id] = test_clusters
+
+            # gt = ground truth, pr = predicted by model
+            gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
+            pr_clusters = {}
+            for (pr_ment, pr_clst) in test_clusters.items():
+                if pr_clst not in pr_clusters:
+                    pr_clusters[pr_clst] = set()
+                pr_clusters[pr_clst].add(pr_ment)
+
+            muc_score.add(metrics.muc(gt_clusters, pr_clusters))
+            b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
+            ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
+
+        logging.info(f"----------------------------------------------")
+        logging.info(f"**Test scores**")
+        logging.info(f"**MUC:      {muc_score}**")
+        logging.info(f"**BCubed:   {b3_score}**")
+        logging.info(f"**CEAFe:    {ceaf_score}**")
+        logging.info(f"**CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}**")
+        logging.info(f"----------------------------------------------")
+
+        if MODELS_SAVE_DIR:
+            # Save test predictions and scores to file for further debugging
+            with open(self.path_pred_scores, "w", encoding="utf-8") as f:
+                f.writelines([
+                    f"Database: {self.dataset_name}\n\n",
+                    f"Test scores:\n",
+                    f"MUC:      {muc_score}\n",
+                    f"BCubed:   {b3_score}\n",
+                    f"CEAFe:    {ceaf_score}\n",
+                    f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
+                ])
+            with open(self.path_pred_clusters, "w", encoding="utf-8") as f:
+                f.writelines(["Predictions:\n"])
+                for doc_id, clusters in all_test_preds.items():
+                    f.writelines([
+                        f"Document '{doc_id}':\n",
+                        str(clusters), "\n"
+                    ])
+
+    def visualize(self):
+        # Build and display visualization
+        if VISUALIZATION_GENERATE:
+            build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir, display=False)
+        else:
+            logging.warning("Visualization is disabled and thus not generated. Set VISUALIZATION_GENERATE to true.")
 
 
 if __name__ == "__main__":
@@ -226,8 +336,12 @@ if __name__ == "__main__":
                                           dropout=args.dropout,
                                           pretrained_embs_dir=used_bert,
                                           learning_rate=args.learning_rate,
-                                          max_segment_size=args.max_segment_size)
+                                          max_segment_size=args.max_segment_size,
+                                          dataset_name=args.dataset)
     controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+
+    controller.evaluate(test_docs)
+    controller.visualize()
 
 
 

@@ -1,5 +1,9 @@
 src/baseline_model/
 baseline_model/
+src/contextual_model_elmo/
+contextual_model_elmo/
+src/contextual_model_bert/
+contextual_model_bert/
 
 # PyCharm stuff
 /.idea/
