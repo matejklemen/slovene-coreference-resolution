@@ -1,5 +1,6 @@
 from collections import Counter
 import logging
+import os
 import numpy as np
 from sklearn.model_selection import train_test_split
 
@@ -82,6 +83,26 @@ def split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15):
     return train_docs, dev_docs, test_docs
 
 
+def fixed_split(documents, dataset):
+    tr, dev, te = read_split_indices(os.path.join("..", "data", "seeded_split", f"{dataset}.txt"))
+
+    train_docs = [documents[idx] for idx in tr]
+    dev_docs = [documents[idx] for idx in dev]
+    te_docs = [documents[idx] for idx in te]
+    return train_docs, dev_docs, te_docs
+
+
+def read_split_indices(file_path):
+    with open(file_path, "r") as f:
+        indices = []
+        # train, dev, test
+        for _ in range(3):
+            curr_indices = list(map(lambda idx: int(idx), f.readline().strip().split(",")))
+            indices.append(curr_indices)
+
+        return indices
+
+
 if __name__ == "__main__":
     """ 'rc_1' and 'rc_3' are first mentions of some entity,
         'rc_2' and 'rc_5' refer to 'rc_1', etc. """
@@ -93,3 +114,4 @@ if __name__ == "__main__":
     }
 
     print(get_clusters(preds))
+

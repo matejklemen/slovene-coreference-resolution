@@ -17,3 +17,4 @@ venv-onj
 /data/*
 !/data/README.md
 !/data/senticoref_pos_stanza
+!/data/seeded_split
