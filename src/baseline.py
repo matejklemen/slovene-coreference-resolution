@@ -1,3 +1,4 @@
+import argparse
 import logging
 import os
 import sys
@@ -12,7 +13,7 @@ from pyjarowinkler import distance as jwdistance
 
 import metrics
 from data import read_corpus
-from utils import get_clusters, split_into_sets
+from utils import get_clusters, split_into_sets, fixed_split
 from visualization import build_and_display
 
 
@@ -24,6 +25,14 @@ def init_logging():
     handler.setLevel(logging.INFO)
     log.addHandler(handler)
     return log
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--model_name", type=str, default=None)
+parser.add_argument("--learning_rate", type=float, default=0.001)
+parser.add_argument("--num_epochs", type=int, default=10)
+parser.add_argument("--dataset", type=str, default="coref149")
+parser.add_argument("--fixed_split", action="store_true")
 
 
 LOG_INTO_FILE = True  # slows down a bit. set to false if problematic
@@ -46,7 +55,7 @@ if RANDOM_SEED:
 DATASET_NAME = 'coref149'  # Use 'coref149' or 'senticoref'
 MODELS_SAVE_DIR = "baseline_model"
 VISUALIZATION_GENERATE = True
-VISUALIZATION_OPEN_WHEN_DONE = True
+VISUALIZATION_OPEN_WHEN_DONE = False
 
 # Cache features for single mentions and mention pairs (useful for doing multiple epochs over data)
 # Format for single: {doc1_id: {mention_id: <features>, ...}, ...}
@@ -344,13 +353,14 @@ class BaselineModel:
     # indicates whether a model was loaded from file (if it was, training phase can be skipped)
     loaded_from_file: bool
 
-    def __init__(self, in_features, name=None):
+    def __init__(self, in_features, dataset_name, name=None, learning_rate=0.001):
         """
         Initializes a new BaselineModel.
         """
         self.name = name
         if self.name is None:
             self.name = time.strftime("%Y%m%d_%H%M%S")
+        self.dataset_name = dataset_name
 
         # Init all file paths
         self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
@@ -361,7 +371,7 @@ class BaselineModel:
 
         out_features = 1
         self.model = nn.Linear(in_features=in_features, out_features=out_features)
-        self.model_optimizer = optim.SGD(self.model.parameters(), lr=LEARNING_RATE)
+        self.model_optimizer = optim.SGD(self.model.parameters(), lr=learning_rate)
         self.loss = nn.CrossEntropyLoss()
         logging.debug(f"Initialized baseline model with name {self.name}.")
         self._prepare()
@@ -485,7 +495,7 @@ class BaselineModel:
             # Save test predictions and scores to file for further debugging
             with open(self.path_pred_scores, "w", encoding="utf-8") as f:
                 f.writelines([
-                    f"Database: {DATASET_NAME}\n\n",
+                    f"Database: {self.dataset_name}\n\n",
                     f"Test scores:\n",
                     f"MUC:      {muc_score}\n",
                     f"BCubed:   {b3_score}\n",
@@ -712,19 +722,25 @@ if __name__ == "__main__":
         os.makedirs(MODELS_SAVE_DIR)
         logging.info(f"Created directory '{MODELS_SAVE_DIR}' for saving models.")
 
+    args = parser.parse_args()
     # if you'd like to reuse a model, give it a name, i.e.
     # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
-    baseline = BaselineModel(NUM_FEATURES)
+    baseline = BaselineModel(NUM_FEATURES, name=args.model_name, learning_rate=args.learning_rate,
+                             dataset_name=args.dataset)
 
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
 
     # Read corpus. Documents will be of type 'Document'
-    documents = read_corpus(DATASET_NAME)
-    train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
+    documents = read_corpus(args.dataset)
+    if args.fixed_split:
+        logging.info("Using fixed dataset split")
+        train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
+    else:
+        train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded
-        baseline.train(NUM_EPOCHS, train_docs, dev_docs)
+        baseline.train(args.num_epochs, train_docs, dev_docs)
 
     baseline.evaluate(test_docs)
 
