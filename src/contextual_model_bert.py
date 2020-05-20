@@ -23,6 +23,7 @@ parser.add_argument("--num_epochs", type=int, default=1)
 parser.add_argument("--max_segment_size", type=int, default=256)
 parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--bert_pretrained_name_or_dir", type=str, default=None)
+parser.add_argument("--freeze_pretrained", action="store_true", default=True)
 
 
 CUSTOM_PRETRAINED_BERT_DIR = os.environ.get("CUSTOM_PRETRAINED_BERT_DIR",
@@ -65,6 +66,7 @@ class ContextualControllerBERT:
                  freeze_pretrained=True,
                  learning_rate=0.001,
                  max_segment_size=(512 - 2),
+                 max_span_size=10,  # TODO: find out a sensible number (e.g. 95th percentile)
                  name=None):
         if not freeze_pretrained and learning_rate >= 1e-4:
             logging.warning("WARNING: BERT weights are unfrozen with a relatively high learning rate (>= 1e-4)")
@@ -82,6 +84,7 @@ class ContextualControllerBERT:
 
         logging.info(f"Using device {DEVICE}")
         self.max_segment_size = max_segment_size
+        self.max_span_size = max_span_size
         self.embedder = BertModel.from_pretrained(pretrained_embs_dir).to(DEVICE)
         self.tokenizer = BertTokenizer.from_pretrained(pretrained_embs_dir)
 
@@ -141,6 +144,7 @@ class ContextualControllerBERT:
         # maps from (idx_sent, idx_token) to (indices_in_tokenized_doc)
         tokenized_doc, mapping = prepare_document(curr_doc, tokenizer=self.tokenizer)
         encoded_doc = self.tokenizer.convert_tokens_to_ids(tokenized_doc)
+        pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]]))[0][0]  # shape: [1, 768]
 
         # Break down long documents into smaller sub-documents and encode them
         num_total_segments = (len(encoded_doc) + self.max_segment_size - 1) // self.max_segment_size
@@ -183,7 +187,7 @@ class ContextualControllerBERT:
                     idx_segment = curr_position // (self.max_segment_size + 2)
                     idx_inside_segment = curr_position % (self.max_segment_size + 2)
                     head_features.append(doc_segments[idx_segment][idx_inside_segment])
-            head_features = torch.stack(head_features, dim=0)  # shape: [num_tokens, embedding_size]
+            head_features = torch.stack(head_features, dim=0).unsqueeze(0)  # shape: [1, num_tokens, embedding_size]
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
                 if cand_id != head_id and cand_id in gt_antecedent_ids:
@@ -192,14 +196,17 @@ class ContextualControllerBERT:
                 # Obtain scores for candidates and select best one as antecedent
                 if idx_candidate == idx_head:
                     if len(encoded_candidates) > 0:
-                        cand_scores = [torch.tensor([0.0], device=DEVICE)]
-                        for candidate_features in encoded_candidates:
-                            cand_scores.append(self.scorer(candidate_features, head_features))
+                        # Prepare candidates and current head mention for batched scoring
+                        encoded_candidates = torch.stack(encoded_candidates, dim=0)  # [num_candidates, self.max_span_size, 768]
+                        head_features = torch.repeat_interleave(head_features,
+                                                                repeats=encoded_candidates.shape[0],
+                                                                dim=0)  # [num_candidates, num_tokens, 768]
 
-                        assert len(cand_scores) == len(candidates)
+                        cand_scores = self.scorer(encoded_candidates, head_features)  # [num_candidates - 1, 1]
+                        cand_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
+                                                 cand_scores.flatten())).unsqueeze(0)  # [1, num_candidates]
 
-                        # Concatenates the given sequence of seq tensors in the given dimension
-                        cand_scores = torch.stack(cand_scores, dim=1)
+                        assert cand_scores.shape[1] == len(candidates)
 
                         # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
                         if len(gt_antecedents) == 0:
@@ -232,7 +239,17 @@ class ContextualControllerBERT:
                             idx_segment = curr_position // (self.max_segment_size + 2)
                             idx_inside_segment = curr_position % (self.max_segment_size + 2)
                             mention_features.append(doc_segments[idx_segment][idx_inside_segment])
-                    mention_features = torch.stack(mention_features, dim=0)
+                    mention_features = torch.stack(mention_features, dim=0)  # [num_tokens, num_features]
+
+                    num_tokens, num_features = mention_features.shape
+                    # Pad/truncate current span to have self.max_span_size tokens
+                    if num_tokens > self.max_span_size:
+                        mention_features = mention_features[: self.max_span_size]
+                    else:
+                        pad_amount = self.max_span_size - num_tokens
+                        mention_features = torch.cat((mention_features,
+                                                      torch.repeat_interleave(pad_embedding, repeats=pad_amount, dim=0)))
+
                     encoded_candidates.append(mention_features)
 
         if not eval_mode:
@@ -361,7 +378,8 @@ if __name__ == "__main__":
                                           pretrained_embs_dir=used_bert,
                                           learning_rate=args.learning_rate,
                                           max_segment_size=args.max_segment_size,
-                                          dataset_name=args.dataset)
+                                          dataset_name=args.dataset,
+                                          freeze_pretrained=args.freeze_pretrained)
     controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
 
     controller.evaluate(test_docs)

@@ -26,30 +26,30 @@ class NeuralCoreferencePairScorer(nn.Module):
 
     def forward(self, candidate_features, head_features):
         """
-        Note: doesn't handle batches!
+
         Args:
-            candidate_features: [num_tokens_cand, num_features]
-            head_features: [num_tokens_head, num_features]
+            candidate_features: [B, num_tokens_cand, num_features]
+            head_features: [B, num_tokens_head, num_features]
         """
 
         # Create candidate representation
         candidate_attn_weights = F.softmax(self.attention_projector(self.dropout(candidate_features)),
-                                           dim=0)
-        cand_attended_features = torch.sum(candidate_attn_weights * candidate_features, dim=0)
-        candidate_repr = torch.cat((candidate_features[0],  # first word of mention
-                                    candidate_features[-1],  # last word of mention
-                                    cand_attended_features))
+                                           dim=1)
+        cand_attended_features = torch.sum(candidate_attn_weights * candidate_features, dim=1)
+        candidate_repr = torch.cat((candidate_features[:, 0],  # first word of mention
+                                    candidate_features[:, -1],  # last word of mention
+                                    cand_attended_features), dim=1)
 
         # Create head mention representation
         head_attn_weights = F.softmax(self.attention_projector(self.dropout(head_features)),
-                                      dim=0)
-        head_attended_features = torch.sum(head_attn_weights * head_features, dim=0)
-        head_repr = torch.cat((head_features[0],  # first word of mention
-                               head_features[-1],  # last word of mention
-                               head_attended_features))
+                                      dim=1)
+        head_attended_features = torch.sum(head_attn_weights * head_features, dim=1)
+        head_repr = torch.cat((head_features[:, 0],  # first word of mention
+                               head_features[:, -1],  # last word of mention
+                               head_attended_features), dim=1)
 
         # Combine representations and compute a score
         pair_score = self.fc(self.dropout(torch.cat((candidate_repr,
                                                      head_repr,
-                                                     candidate_repr * head_repr))))
+                                                     candidate_repr * head_repr), dim=1)))
         return pair_score
