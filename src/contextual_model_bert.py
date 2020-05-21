@@ -144,7 +144,7 @@ class ContextualControllerBERT:
         # maps from (idx_sent, idx_token) to (indices_in_tokenized_doc)
         tokenized_doc, mapping = prepare_document(curr_doc, tokenizer=self.tokenizer)
         encoded_doc = self.tokenizer.convert_tokens_to_ids(tokenized_doc)
-        pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]]))[0][0]  # shape: [1, 768]
+        pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))[0][0]  # shape: [1, 768]
 
         # Break down long documents into smaller sub-documents and encode them
         num_total_segments = (len(encoded_doc) + self.max_segment_size - 1) // self.max_segment_size
