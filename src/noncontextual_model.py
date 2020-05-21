@@ -53,6 +53,7 @@ class NoncontextualController:
                  dataset_name,
                  fc_hidden_size=150,
                  learning_rate=0.001,
+                 max_span_size=10,
                  pretrained_embs=None,
                  freeze_pretrained=False,
                  name=None):
@@ -76,6 +77,7 @@ class NoncontextualController:
             # Make it so that a random embedding layer gets created, then later load the saved weights
             pretrained_embs = None
 
+        self.max_span_size = max_span_size
         if pretrained_embs is not None:
             assert pretrained_embs.shape[1] == embedding_size
             logging.info(f"Using pretrained embeddings. freeze_pretrained = {freeze_pretrained}")
@@ -144,7 +146,8 @@ class NoncontextualController:
             curr_encoded_sent = []
             for curr_token in curr_sent:
                 curr_encoded_sent.append(self.vocab.get(curr_token.lower().strip(), self.vocab["<UNK>"]))
-            encoded_doc.append(self.embedder(torch.tensor(curr_encoded_sent)))
+            encoded_doc.append(self.embedder(torch.tensor(curr_encoded_sent, device=DEVICE)))
+        pad_embedding = self.embedder(torch.tensor([self.vocab["<PAD>"]], device=DEVICE))
 
         cluster_sets = []
         mention_to_cluster_id = {}
@@ -170,7 +173,7 @@ class NoncontextualController:
             head_features = []
             for curr_token in head_mention.tokens:
                 head_features.append(encoded_doc[curr_token.sentence_index][curr_token.position_in_sentence])
-            head_features = torch.stack(head_features, dim=0)  # shape: [num_tokens, embedding_size]
+            head_features = torch.stack(head_features, dim=0).unsqueeze(0)  # shape: [num_tokens, embedding_size]
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
                 if cand_id != head_id and cand_id in gt_antecedent_ids:
@@ -179,14 +182,14 @@ class NoncontextualController:
                 # Obtain scores for candidates and select best one as antecedent
                 if idx_candidate == idx_head:
                     if len(encoded_candidates) > 0:
-                        cand_scores = [torch.tensor([0.0], device=DEVICE)]
-                        for candidate_features in encoded_candidates:
-                            cand_scores.append(self.scorer(candidate_features, head_features))
+                        encoded_candidates = torch.stack(encoded_candidates, dim=0)  # [num_candidates, self.max_span_size, embedding_size]
+                        head_features = torch.repeat_interleave(head_features,
+                                                                repeats=encoded_candidates.shape[0],
+                                                                dim=0)  # [num_candidates, num_tokens, embedding_size]
 
-                        assert len(cand_scores) == len(candidates)
-
-                        # Concatenates the given sequence of seq tensors in the given dimension
-                        cand_scores = torch.stack(cand_scores, dim=1)
+                        cand_scores = self.scorer(encoded_candidates, head_features)  # [num_candidates - 1, 1]
+                        cand_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
+                                                 cand_scores.flatten())).unsqueeze(0)  # [1, num_candidates]
 
                         # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
                         if len(gt_antecedents) == 0:
@@ -216,6 +219,15 @@ class NoncontextualController:
                     for curr_token in cand_mention.tokens:
                         mention_features.append(encoded_doc[curr_token.sentence_index][curr_token.position_in_sentence])
                     mention_features = torch.stack(mention_features, dim=0)  # shape: [num_tokens, embedding_size]
+
+                    num_tokens, num_features = mention_features.shape
+                    # Pad/truncate current span to have self.max_span_size tokens
+                    if num_tokens > self.max_span_size:
+                        mention_features = mention_features[: self.max_span_size]
+                    else:
+                        pad_amount = self.max_span_size - num_tokens
+                        mention_features = torch.cat((mention_features,
+                                                      torch.repeat_interleave(pad_embedding, repeats=pad_amount, dim=0)))
 
                     encoded_candidates.append(mention_features)
 
