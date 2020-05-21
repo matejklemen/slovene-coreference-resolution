@@ -193,8 +193,6 @@ class ContextualController:
                         cand_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
                                                  cand_scores.flatten())).unsqueeze(0)  # [1, num_candidates]
 
-                        assert cand_scores.shape[1] == len(candidates)
-
                         # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
                         if len(gt_antecedents) == 0:
                             gt_antecedents.append(0)
