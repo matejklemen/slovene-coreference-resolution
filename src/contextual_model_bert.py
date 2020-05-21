@@ -16,10 +16,10 @@ from visualization import build_and_display
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default=None)
-parser.add_argument("--fc_hidden_size", type=int, default=10)
+parser.add_argument("--fc_hidden_size", type=int, default=150)
 parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
-parser.add_argument("--num_epochs", type=int, default=1)
+parser.add_argument("--num_epochs", type=int, default=10)
 parser.add_argument("--max_segment_size", type=int, default=256)
 parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--bert_pretrained_name_or_dir", type=str, default=None)
