@@ -11,8 +11,7 @@ from transformers import BertModel, BertTokenizer
 import metrics
 from data import read_corpus
 from scorer import NeuralCoreferencePairScorer
-from utils import get_clusters
-from utils import split_into_sets
+from utils import get_clusters, split_into_sets, fixed_split
 from visualization import build_and_display
 
 parser = argparse.ArgumentParser()
@@ -24,6 +23,7 @@ parser.add_argument("--max_segment_size", type=int, default=256)
 parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--bert_pretrained_name_or_dir", type=str, default=None)
 parser.add_argument("--freeze_pretrained", action="store_true", default=True)
+parser.add_argument("--fixed_split", action="store_true")
 
 
 CUSTOM_PRETRAINED_BERT_DIR = os.environ.get("CUSTOM_PRETRAINED_BERT_DIR",
@@ -66,7 +66,7 @@ class ContextualControllerBERT:
                  freeze_pretrained=True,
                  learning_rate=0.001,
                  max_segment_size=(512 - 2),
-                 max_span_size=10,  # TODO: find out a sensible number (e.g. 95th percentile)
+                 max_span_size=10,
                  name=None):
         if not freeze_pretrained and learning_rate >= 1e-4:
             logging.warning("WARNING: BERT weights are unfrozen with a relatively high learning rate (>= 1e-4)")
@@ -205,8 +205,6 @@ class ContextualControllerBERT:
                         cand_scores = self.scorer(encoded_candidates, head_features)  # [num_candidates - 1, 1]
                         cand_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
                                                  cand_scores.flatten())).unsqueeze(0)  # [1, num_candidates]
-
-                        assert cand_scores.shape[1] == len(candidates)
 
                         # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
                         if len(gt_antecedents) == 0:
@@ -369,7 +367,14 @@ class ContextualControllerBERT:
 if __name__ == "__main__":
     args = parser.parse_args()
     documents = read_corpus(args.dataset)
+
     train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
+    if args.fixed_split:
+        logging.info("Using fixed dataset split")
+        train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
+    else:
+        train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
+
     used_bert = args.bert_pretrained_name_or_dir
     if used_bert is None:
         used_bert = CUSTOM_PRETRAINED_BERT_DIR
