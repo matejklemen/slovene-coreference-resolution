@@ -15,6 +15,7 @@ from utils import get_clusters, split_into_sets, fixed_split
 from visualization import build_and_display
 
 parser = argparse.ArgumentParser()
+parser.add_argument("--model_name", type=str, default=None)
 parser.add_argument("--fc_hidden_size", type=int, default=10)
 parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
@@ -379,7 +380,8 @@ if __name__ == "__main__":
     if used_bert is None:
         used_bert = CUSTOM_PRETRAINED_BERT_DIR
 
-    controller = ContextualControllerBERT(embedding_size=768,
+    controller = ContextualControllerBERT(name=args.model_name,
+                                          embedding_size=768,
                                           fc_hidden_size=args.fc_hidden_size,
                                           dropout=args.dropout,
                                           pretrained_embs_dir=used_bert,
@@ -387,7 +389,10 @@ if __name__ == "__main__":
                                           max_segment_size=args.max_segment_size,
                                           dataset_name=args.dataset,
                                           freeze_pretrained=args.freeze_pretrained)
-    controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+    if not controller.loaded_from_file:
+        controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+        # Reload best checkpoint
+        controller._prepare()
 
     controller.evaluate(test_docs)
     controller.visualize()
