@@ -52,6 +52,7 @@ class ContextualController:
                  fc_hidden_size=150,
                  freeze_pretrained=True,
                  learning_rate=0.001,
+                 max_span_size=10,
                  name=None):
         self.name = name
         self.dataset_name = dataset_name
@@ -65,13 +66,14 @@ class ContextualController:
         self.path_log = os.path.join(self.path_model_dir, "log.txt")
 
         logging.info(f"Using device {DEVICE}")
+        self.max_span_size = max_span_size
         self.embedder = Elmo(options_file=os.path.join(pretrained_embs_dir, "options.json"),
                              weight_file=os.path.join(pretrained_embs_dir, "slovenian-elmo-weights.hdf5"),
                              dropout=(0.0 if freeze_pretrained else dropout),
                              num_output_representations=1,
                              requires_grad=(not freeze_pretrained)).to(DEVICE)
 
-        self.context_encoder = nn.LSTM(input_size=embedding_size,hidden_size=hidden_size,
+        self.context_encoder = nn.LSTM(input_size=embedding_size, hidden_size=hidden_size,
                                        batch_first=True, bidirectional=True).to(DEVICE)
         self.scorer = NeuralCoreferencePairScorer(num_features=(2 * hidden_size),
                                                   hidden_size=fc_hidden_size,
@@ -143,6 +145,14 @@ class ContextualController:
         embeddings = emb_obj["elmo_representations"][0]  # [batch_size, max_seq_len, embedding_size]
         (lstm_encoded_sents, _) = self.context_encoder(embeddings)
 
+        # Obtaining an embedding for pad token: (1) find character encoding for a pad token and (2) embed it
+        # (1) To get a character encoding for pad token, make a shorter sentence and a longer sentence - shorter
+        #       sentence gets padded automatically, so its last token will be set to PAD
+        pad_encoded = batch_to_ids([["word11", "word12"], ["word21"]])[1, 1].view(1, 1, -1).to(DEVICE)
+        pad_embedding = self.embedder(pad_encoded)["elmo_representations"][0]
+        (lstm_encoded_pad, _) = self.context_encoder(pad_embedding)
+        lstm_encoded_pad = lstm_encoded_pad[0]  # [1, hidden_size * 2]
+
         cluster_sets = []
         mention_to_cluster_id = {}
         for i, curr_cluster in enumerate(curr_doc.clusters):
@@ -166,7 +176,7 @@ class ContextualController:
             head_features = []
             for curr_token in head_mention.tokens:
                 head_features.append(lstm_encoded_sents[curr_token.sentence_index, curr_token.position_in_sentence])
-            head_features = torch.stack(head_features, dim=0)  # shape: [num_tokens, 2 * hidden_size]
+            head_features = torch.stack(head_features, dim=0).unsqueeze(0)  # shape: [1, num_tokens, 2 * hidden_size]
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
                 if cand_id != head_id and cand_id in gt_antecedent_ids:
@@ -175,14 +185,15 @@ class ContextualController:
                 # Obtain scores for candidates and select best one as antecedent
                 if idx_candidate == idx_head:
                     if len(encoded_candidates) > 0:
-                        cand_scores = [torch.tensor([0.0], device=DEVICE)]
-                        for candidate_features in encoded_candidates:
-                            cand_scores.append(self.scorer(candidate_features, head_features))
+                        encoded_candidates = torch.stack(encoded_candidates, dim=0)
+                        head_features = torch.repeat_interleave(head_features,
+                                                                repeats=encoded_candidates.shape[0],
+                                                                dim=0)
+                        cand_scores = self.scorer(encoded_candidates, head_features)  # [num_candidates - 1, 1]
+                        cand_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
+                                                 cand_scores.flatten())).unsqueeze(0)  # [1, num_candidates]
 
-                        assert len(cand_scores) == len(candidates)
-
-                        # Concatenates the given sequence of seq tensors in the given dimension
-                        cand_scores = torch.stack(cand_scores, dim=1)
+                        assert cand_scores.shape[1] == len(candidates)
 
                         # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
                         if len(gt_antecedents) == 0:
@@ -212,7 +223,17 @@ class ContextualController:
                     for curr_token in cand_mention.tokens:
                         mention_features.append(lstm_encoded_sents[curr_token.sentence_index,
                                                                    curr_token.position_in_sentence])
-                    mention_features = torch.stack(mention_features, dim=0)
+                    mention_features = torch.stack(mention_features, dim=0)  # [num_tokens, num_features]
+
+                    num_tokens, num_features = mention_features.shape
+                    # Pad/truncate current span to have self.max_span_size tokens
+                    if num_tokens > self.max_span_size:
+                        mention_features = mention_features[: self.max_span_size]
+                    else:
+                        pad_amount = self.max_span_size - num_tokens
+                        mention_features = torch.cat((mention_features,
+                                                      torch.repeat_interleave(lstm_encoded_pad, repeats=pad_amount, dim=0)))
+
                     encoded_candidates.append(mention_features)
 
         if not eval_mode:
