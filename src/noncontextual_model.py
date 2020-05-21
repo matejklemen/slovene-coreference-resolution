@@ -1,7 +1,7 @@
 import os
 
 from data import read_corpus
-from utils import extract_vocab, encode, split_into_sets, get_clusters
+from utils import extract_vocab, encode, split_into_sets, get_clusters, fixed_split
 
 import argparse
 import logging
@@ -18,7 +18,7 @@ import numpy as np
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default=None)
-parser.add_argument("--hidden_size", type=int, default=150)
+parser.add_argument("--fc_hidden_size", type=int, default=150)
 parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
 parser.add_argument("--num_epochs", type=int, default=10)
@@ -31,6 +31,7 @@ parser.add_argument("--use_pretrained_embs", type=str, default="word2vec",
                          "None")
 parser.add_argument("--freeze_pretrained", action="store_true")
 parser.add_argument("--random_seed", type=int, default=None)
+parser.add_argument("--fixed_split", action="store_true")
 
 
 logger = logging.getLogger()
@@ -344,7 +345,11 @@ if __name__ == "__main__":
         np.random.seed(args.random_seed)
 
     documents = read_corpus(args.dataset)
-    train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
+    if args.fixed_split:
+        logging.info("Using fixed dataset split")
+        train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
+    else:
+        train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
     tok2id, id2tok = extract_vocab(train_docs)
 
     pretrained_embs = None
@@ -380,7 +385,7 @@ if __name__ == "__main__":
                                     vocab=tok2id,
                                     embedding_size=embedding_size,
                                     dropout=args.dropout,
-                                    fc_hidden_size=args.hidden_size,
+                                    fc_hidden_size=args.fc_hidden_size,
                                     learning_rate=args.learning_rate,
                                     pretrained_embs=pretrained_embs,
                                     freeze_pretrained=args.freeze_pretrained,
