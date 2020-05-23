@@ -14,7 +14,7 @@ import torch.nn as nn
 import torch.optim as optim
 from allennlp.modules.elmo import Elmo, batch_to_ids
 from scorer import NeuralCoreferencePairScorer
-from utils import split_into_sets, get_clusters
+from utils import split_into_sets, get_clusters, fixed_split
 from visualization import build_and_display
 
 from data import read_corpus
@@ -29,6 +29,7 @@ parser.add_argument("--num_epochs", type=int, default=10)
 parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--random_seed", type=int, default=None)
 parser.add_argument("--freeze_pretrained", action="store_true")
+parser.add_argument("--fixed_split", action="store_true")
 
 
 logger = logging.getLogger()
@@ -356,7 +357,11 @@ if __name__ == "__main__":
         torch.random.manual_seed(args.random_seed)
 
     documents = read_corpus(args.dataset)
-    train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
+    if args.fixed_split:
+        logging.info("Using fixed dataset split")
+        train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
+    else:
+        train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
     model = ContextualController(name=args.model_name,
                                  embedding_size=1024,
                                  fc_hidden_size=args.fc_hidden_size,
