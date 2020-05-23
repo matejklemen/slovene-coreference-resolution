@@ -85,6 +85,7 @@ def split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15):
 
 def fixed_split(documents, dataset):
     tr, dev, te = read_split_indices(os.path.join("..", "data", "seeded_split", f"{dataset}.txt"))
+    assert (len(tr) + len(dev) + len(te)) == len(documents)
 
     train_docs = [documents[idx] for idx in tr]
     dev_docs = [documents[idx] for idx in dev]
