@@ -369,7 +369,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     documents = read_corpus(args.dataset)
 
-    train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
     if args.fixed_split:
         logging.info("Using fixed dataset split")
         train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
