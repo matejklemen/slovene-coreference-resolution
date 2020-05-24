@@ -11,7 +11,7 @@ For more details, [see the report paper](https://github.com/matejklemen/slovene-
 
 ## Run it in Google Colaboratory
 
-Easiest way to run this project is opening and running the [prepared notebook in Google Colab](https://colab.research.google.com/github/matejklemen/slovene-coreference-resolution/blob/master/report/Slovene_coreference_resolution.ipynb).
+Easiest way to run this project is opening and running the [prepared notebook in Google Colab](https://colab.research.google.com/github/matejklemen/slovene-coreference-resolution/blob/master/report/Slovene_coreference_resolution.ipynb). Notebook also contains a [download link for pre-trained models](https://drive.google.com/open?id=15xKYqSy5WgedFIPGP-HZz7YVmZa6oKg_) and examples how to run them for evaluation.
 
 ## Project structure
 
