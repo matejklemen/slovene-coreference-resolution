@@ -26,8 +26,10 @@ Before doing anything, the dependencies need to be installed.
 $ pip install -r requirements.txt
 ```
 
-NOTE: if you have problems with `torch` library, make sure you have python x64 installed. Also make use of 
+**Note**: if you have problems with `torch` library, make sure you have python x64 installed. Also make use of 
 [this](https://pytorch.org/get-started/locally/#start-locally) official command builder.
+
+**Notes**: you might have problems running contextual models on Windows since [allennlp](https://github.com/allenai/allennlp#installation) is not officialy supported on Windows, as noted in their README.
 
 ### Getting datasets
 

@@ -1,5 +1,7 @@
 src/baseline_model/
 baseline_model/
+src/noncontextual_model/
+noncontextual_model/
 src/contextual_model_elmo/
 contextual_model_elmo/
 src/contextual_model_bert/
