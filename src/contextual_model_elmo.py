@@ -115,19 +115,19 @@ class ContextualController:
             path_to_model = os.path.join(self.path_model_dir, 'best_scorer.th')
             if os.path.isfile(path_to_model):
                 logging.info(f"Loading scorer weights from '{path_to_model}'")
-                self.scorer.load_state_dict(torch.load(path_to_model))
+                self.scorer.load_state_dict(torch.load(path_to_model, map_location=DEVICE))
                 self.loaded_from_file = True
 
             path_to_context_enc = os.path.join(self.path_model_dir, 'best_context_enc.th')
             if os.path.isfile(path_to_context_enc):
                 logging.info(f"Loading context encoder weights from '{path_to_context_enc}'")
-                self.context_encoder.load_state_dict(torch.load(path_to_context_enc))
+                self.context_encoder.load_state_dict(torch.load(path_to_context_enc, map_location=DEVICE))
                 self.loaded_from_file = True
 
             path_to_embeddings = os.path.join(self.path_model_dir, 'best_elmo.th')
             if os.path.isfile(path_to_embeddings):
                 logging.info(f"Loading fine-tuned ELMo weights from '{path_to_embeddings}'")
-                self.embedder.load_state_dict(torch.load(path_to_embeddings))
+                self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
                 self.loaded_from_file = True
 
     def _train_doc(self, curr_doc, eval_mode=False):

@@ -125,12 +125,12 @@ class ContextualControllerBERT:
             logging.info(f"Directory '{self.path_model_dir}' already exists.")
             path_to_model = os.path.join(self.path_model_dir, 'best_scorer.th')
             if os.path.isfile(path_to_model):
-                self.scorer.load_state_dict(torch.load(path_to_model))
+                self.scorer.load_state_dict(torch.load(path_to_model, map_location=DEVICE))
                 self.loaded_from_file = True
 
             path_to_embeddings = os.path.join(self.path_model_dir, 'best_bert.th')
             if os.path.isfile(path_to_embeddings):
-                self.embedder.load_state_dict(torch.load(path_to_embeddings))
+                self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
                 self.loaded_from_file = True
 
     def _train_doc(self, curr_doc, eval_mode=False):
