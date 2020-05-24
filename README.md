@@ -85,9 +85,13 @@ where your datasets are stored differ in your setup).
 
 Below are examples how to run each model.
 
+Parameters and it's default values can be previewed at the top of each model's file.
+
 `--dataset` parameter can be either `coref149` or `senticoref`.
 
 ### Baseline model
+
+[baseline.py](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/baseline.py)
 
 ```bash
 $ python baseline.py \
@@ -99,6 +103,8 @@ $ python baseline.py \
 ```
 
 ### Non-contextual model
+
+[noncontextual_model.py](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/noncontextual_model.py)
 
 ```bash
 $ python noncontextual_model.py \
@@ -115,6 +121,8 @@ $ python noncontextual_model.py \
 
 ### Contextual model (ELMo)
 
+[Contextual model with ELMo embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/contextual_model_elmo.py)
+
 ```bash
 $ python contextual_model_elmo.py \
     --model_name="my_elmo_model" \
@@ -129,6 +137,8 @@ $ python contextual_model_elmo.py \
 
 ### Contextual model (BERT)
 
+[Contextual model with BERT embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/contextual_model_bert.py)
+
 ```bash
 $ python contextual_model_bert.py \
     --model_name="my_bert_model" \
@@ -141,5 +151,5 @@ $ python contextual_model_bert.py \
     --fixed_split
 ```
 
-# License
+## License
 
