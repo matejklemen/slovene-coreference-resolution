@@ -62,6 +62,8 @@ class NoncontextualController:
         if self.name is None:
             self.name = time.strftime("%Y%m%d_%H%M%S")
 
+        logging.info(f"Using device {DEVICE}")
+
         self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
         self.path_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
         self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
@@ -111,7 +113,7 @@ class NoncontextualController:
             open(self.path_log, "w", encoding="utf-8").close()
             logger.addHandler(logging.FileHandler(self.path_log, encoding="utf-8"))
 
-            with open(self.vocab_path, "w") as f_vocab:
+            with open(self.vocab_path, "w", encoding="utf-8") as f_vocab:
                 # Write vocabulary by ascending token ID (assuming indexing from 0 to (|V| - 1))
                 for token, _ in sorted(self.vocab.items(), key=lambda tup: tup[1]):
                     print(token, file=f_vocab)
