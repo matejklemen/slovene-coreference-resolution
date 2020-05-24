@@ -124,8 +124,8 @@ class NoncontextualController:
             if os.path.isfile(path_to_model):
                 logging.info(f"Model with name '{self.name}' already exists. Loading model...")
                 # Load trained embeddings, load scorer weights
-                self.scorer.load_state_dict(torch.load(path_to_model))
-                self.embedder.load_state_dict(torch.load(path_to_embeddings))
+                self.scorer.load_state_dict(torch.load(path_to_model, map_location=DEVICE))
+                self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
 
                 logging.info(f"Model with name '{self.name}' loaded.")
                 self.loaded_from_file = True
