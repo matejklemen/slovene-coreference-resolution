@@ -81,14 +81,14 @@ class NoncontextualController:
         if pretrained_embs is not None:
             assert pretrained_embs.shape[1] == embedding_size
             logging.info(f"Using pretrained embeddings. freeze_pretrained = {freeze_pretrained}")
-            self.embedder = nn.Embedding.from_pretrained(pretrained_embs, freeze=freeze_pretrained)
+            self.embedder = nn.Embedding.from_pretrained(pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
         else:
             logging.info(f"Initializing random embeddings as no pretrained embeddings were given")
-            self.embedder = nn.Embedding(num_embeddings=len(self.vocab), embedding_dim=embedding_size)
+            self.embedder = nn.Embedding(num_embeddings=len(self.vocab), embedding_dim=embedding_size).to(DEVICE)
 
         self.scorer = NeuralCoreferencePairScorer(num_features=embedding_size,
                                                   hidden_size=fc_hidden_size,
-                                                  dropout=dropout)
+                                                  dropout=dropout).to(DEVICE)
 
         self.scorer_optimizer = optim.Adam(list(self.scorer.parameters()) + list(self.embedder.parameters())
                                            if not freeze_pretrained else self.scorer.parameters(),
