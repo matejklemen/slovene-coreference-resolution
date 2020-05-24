@@ -91,7 +91,7 @@ Parameters and it's default values can be previewed at the top of each model's f
 
 ### Baseline model
 
-[baseline.py](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/baseline.py)
+[Baseline model (linear regression with hand-crafted features)](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/baseline.py)
 
 ```bash
 $ python baseline.py \
@@ -104,7 +104,7 @@ $ python baseline.py \
 
 ### Non-contextual model
 
-[noncontextual_model.py](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/noncontextual_model.py)
+[Non-contextual_model with word2vec embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/noncontextual_model.py)
 
 ```bash
 $ python noncontextual_model.py \
