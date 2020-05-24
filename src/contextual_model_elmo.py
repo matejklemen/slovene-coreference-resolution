@@ -287,7 +287,7 @@ class ContextualController:
 
     def evaluate(self, test_docs):
         # doc_name: <cluster assignments> pairs for all test documents
-        logging.info("Evaluating baseline...")
+        logging.info("Evaluating...")
         all_test_preds = {}
 
         muc_score = metrics.Score()
