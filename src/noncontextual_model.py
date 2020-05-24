@@ -378,7 +378,7 @@ if __name__ == "__main__":
         pretrained_embs = torch.rand((len(tok2id), embedding_size))
         for curr_token, curr_id in tok2id.items():
             # leave out-of-vocab token embeddings as random [0, 1) vectors
-            pretrained_embs[curr_id, :] = torch.tensor(embs.get(curr_token.lower(), pretrained_embs[curr_id, :]))
+            pretrained_embs[curr_id, :] = torch.tensor(embs.get(curr_token.lower(), pretrained_embs[curr_id, :]), device=DEVICE)
     elif args.use_pretrained_embs == "fastText":
         import fasttext
         logging.info("Loading pretrained Slovene fastText embeddings")
@@ -387,7 +387,7 @@ if __name__ == "__main__":
         embedding_size = 300
         pretrained_embs = torch.rand((len(tok2id), embedding_size))
         for curr_token, curr_id in tok2id.items():
-            pretrained_embs[curr_id, :] = torch.tensor(ft.get_word_vector(curr_token))
+            pretrained_embs[curr_id, :] = torch.tensor(ft.get_word_vector(curr_token), device=DEVICE)
 
         del ft
     else:
