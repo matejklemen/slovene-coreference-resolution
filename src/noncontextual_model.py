@@ -362,7 +362,7 @@ if __name__ == "__main__":
         train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
     else:
         train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-    tok2id, id2tok = extract_vocab(train_docs)
+    tok2id, id2tok = extract_vocab(train_docs, lowercase=True)
 
     pretrained_embs = None
     # Note: pretrained word2vec embeddings we use are uncased
