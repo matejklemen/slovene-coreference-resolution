@@ -1,6 +1,17 @@
-# slovene-coreference-resolution
+# Slovene coreference resolution
 
-TODO: A short introduction/description of what this repository is about.
+Slovene coreference resolution project introduces four models for coreference resolution on coref149 and senticoref datasets:
+
+- baseline model (linear regression with hand-crafted features),
+- non-contextual neural model using word2vec embeddings,
+- contextual neural model using ELMo embeddings,
+- contextual neural model using BERT embeddings.
+
+For more details, [see the report paper](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/report/Coreference_resolution_approaches_for_Slovene_language.pdf).
+
+## Run it in Google Colaboratory
+
+Easiest way to run this project is opening and running the [prepared notebook in Google Colab](https://colab.research.google.com/github/matejklemen/slovene-coreference-resolution/blob/master/report/Slovene_coreference_resolution.ipynb).
 
 ## Project structure
 
@@ -57,8 +68,8 @@ If `target_path` parameter is not provided, the above command would produce
 `data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml`.
 
 If you want to use pretrained embeddings in non-contextual coreference model, make sure to download the Slovene
-- fastText vectors (`bin`) from https://fasttext.cc/docs/en/crawl-vectors.html and/or
-- word2vec vectors (`Word2Vec Continuous Skipgram`) from http://vectors.nlpl.eu/repository/
+- word2vec vectors (`Word2Vec Continuous Skipgram`) from http://vectors.nlpl.eu/repository/ and/or
+- fastText vectors (`bin`) from https://fasttext.cc/docs/en/crawl-vectors.html (not used in the paper but supported)
 
 Put them into `data/` (either the `cc.sl.300.bin` file for fastText or the `model.txt` file for word2vec).
 
@@ -72,47 +83,73 @@ Extract the options file and the weight file into `data/slovenian-elmo`.
 Before running anything, make sure to set `DATA_DIR` and `SSJ_PATH` parameters in `src/data.py` file (if the paths to 
 where your datasets are stored differ in your setup).
 
-To run the baseline model (with hand-crafted features), run `baseline.py`.
+Below are examples how to run each model.
+
+Parameters and it's default values can be previewed at the top of each model's file.
+
+`--dataset` parameter can be either `coref149` or `senticoref`.
+
+### Baseline model
+
+[Baseline model (linear regression with hand-crafted features)](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/baseline.py)
+
 ```bash
-$ python src/baseline.py
-
+$ python baseline.py \
+  --model_name="my_baseline_model" \
+  --learning_rate="0.05" \
+  --dataset="coref149" \
+  --num_epochs="20" \
+  --fixed_split
 ```
 
-TBD additional steps as more things get added.
+### Non-contextual model
 
-## Dev notes
+[Non-contextual_model with word2vec embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/noncontextual_model.py)
 
-Each document is stored inside a `Document` object (see `data.py`). It stores various information about the document 
-such as the actual text, tokens, (ground truth) mentions, (ground truth) coreference clusters, additional metadata 
-from SSJ500k etc..  
-
-More specifically, it contains the following properties:  
-- `doc_id` contains the document ID
-- `id_to_tok` contains mapping from token IDs to raw tokens;
-- `sents` contains compressed sentences, which are stored as lists of token IDs;
-- `mentions` contains mapping from mention IDs to `Mention` objects (contains metadata for mentions);
-- `clusters` contains list of mention clusters. Each cluster is a list of mention IDs;
-- `mapped_clusters` contains mapping from a mention to its antecedent (or dummy antecedent). It is a convenience 
-property that represents the same thing as `clusters`, but in a different way (as a *coreference chain*);
-- `ssj_doc` contains a BeautifulSoup object (XML in a nicer form) with additional metadata, extracted from SSJ500k.
-
-To (hopefully) make things more clear, here's a code sample.
-```python
->>> from data import corpus_read
-# make sure to provide path to the reduced ssj500k dataset as 2nd argument!
->>> all_docs = corpus_read("<path to coref149 dir>", "<path to ssj50k dir>/ssj500k-reduced.xml")
->>> doc = all_docs[0]
->>> doc.doc_id
-'ssj211.1399'
->>> doc.mentions
-{'rc_0': <data.Mention at 0x7f22b3c80780>,
- 'rc_1': <data.Mention at 0x7f22b3c80748>, ... }
-# Obtain mention 'rc_1' in a human-readable form 
->>> doc.mentions["rc_1"].raw
-['Strokovnjak', 'za', 'poslovanje', 'z', 'nepremičninami', 'iz', 'Maribora']
-# Obtain token IDs for the same mention
->>> doc.mentions["rc_1"].token_ids
-['ssj211.1399.5073.t1',
- 'ssj211.1399.5073.t2',
- 'ssj211.1399.5073.t3', ...]
+```bash
+$ python noncontextual_model.py \
+    --model_name="my_noncontextual_model" \
+    --fc_hidden_size="512" \
+    --dropout="0.0" \
+    --learning_rate="0.001" \
+    --dataset="coref149" \
+    --embedding_size="100" \
+    --use_pretrained_embs="word2vec" \
+    --freeze_pretrained \
+    --fixed_split
 ```
+
+### Contextual model (ELMo)
+
+[Contextual model with ELMo embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/contextual_model_elmo.py)
+
+```bash
+$ python contextual_model_elmo.py \
+    --model_name="my_elmo_model" \
+    --dataset="coref149" \
+    --fc_hidden_size="64" \
+    --dropout="0.4" \
+    --learning_rate="0.005" \
+    --num_epochs="20" \
+    --freeze_pretrained \
+    --fixed_split
+```
+
+### Contextual model (BERT)
+
+[Contextual model with BERT embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/contextual_model_bert.py)
+
+```bash
+$ python contextual_model_bert.py \
+    --model_name="my_bert_model" \
+    --dataset="coref149" \
+    --fc_hidden_size="64" \
+    --dropout="0.4" \
+    --learning_rate="0.001" \
+    --num_epochs="20" \
+    --freeze_pretrained \
+    --fixed_split
+```
+
+## License
+
