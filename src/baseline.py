@@ -1,61 +1,35 @@
 import argparse
 import logging
 import os
-import sys
 import time
 from collections import Counter
 
+import metrics
 import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
 from pyjarowinkler import distance as jwdistance
-
-import metrics
-from data import read_corpus
 from utils import get_clusters, split_into_sets, fixed_split
-from visualization import build_and_display
+from common import ControllerBase
 
-
-def init_logging():
-    log = logging.getLogger()
-    log.setLevel(logging.DEBUG)
-    # standard output (console) handler, prints INFO and higher priority messages
-    handler = logging.StreamHandler(sys.stdout)
-    handler.setLevel(logging.INFO)
-    log.addHandler(handler)
-    return log
-
+from data import read_corpus
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default=None)
 parser.add_argument("--learning_rate", type=float, default=0.001)
 parser.add_argument("--num_epochs", type=int, default=10)
-parser.add_argument("--dataset", type=str, default="coref149")
+parser.add_argument("--dataset", type=str, default="coref149")  # {'senticoref', 'coref149'}
 parser.add_argument("--fixed_split", action="store_true")
 
 
-LOG_INTO_FILE = True  # slows down a bit. set to false if problematic
-logger = init_logging()
+logging.basicConfig(level=logging.INFO)
 
-#####################
-# GLOBAL PARAMETERS
-#####################
 
-NUM_FEATURES = 10  # TODO: set this appropriately based on number of features in `features_mention_pair(...)`
-NUM_EPOCHS = 10
-LEARNING_RATE = 0.01
-
-# affects shuffle of documents for training/dev/test set and initial parameters for model
 RANDOM_SEED = None
 if RANDOM_SEED:
     np.random.seed(RANDOM_SEED)
     torch.random.manual_seed(RANDOM_SEED)
-
-DATASET_NAME = 'coref149'  # Use 'coref149' or 'senticoref'
-MODELS_SAVE_DIR = "baseline_model"
-VISUALIZATION_GENERATE = True
-VISUALIZATION_OPEN_WHEN_DONE = False
 
 # Cache features for single mentions and mention pairs (useful for doing multiple epochs over data)
 # Format for single: {doc1_id: {mention_id: <features>, ...}, ...}
@@ -107,7 +81,6 @@ class MentionFeatures:
                 break
 
         # morphosyntactic description
-        # TODO: just taking msd of first token?
         self.msd_desc = self.mention.tokens[0].msd
 
         # gender, number, main category
@@ -154,19 +127,11 @@ class MentionPairFeatures:
         pair_features = [
             MentionPairFeatures.in_same_sentence(head_features, cand_features),
             MentionPairFeatures.str_match(head_features, cand_features),
-
-            # protip: add * if function returns a vector, but be wary of number of features added
-            # *MentionPairFeatures.is_same_gender(head_features, cand_features),  # 3 features
-            # *MentionPairFeatures.is_same_number(head_features, cand_features),  # 3 features
-
             MentionPairFeatures.is_same_gender(head_features, cand_features),
             MentionPairFeatures.is_same_number(head_features, cand_features),
-
             MentionPairFeatures.is_prefix(head_features, cand_features),
             MentionPairFeatures.is_suffix(head_features, cand_features),
-
             MentionPairFeatures.jaro_winkler_dist(head_features, cand_features),
-
             MentionPairFeatures.is_appositive(head_features, cand_features, document),
             MentionPairFeatures.is_alias(head_features, cand_features),
             MentionPairFeatures.is_reflexive(head_features, cand_features),
@@ -175,6 +140,10 @@ class MentionPairFeatures:
         # add features for mention pair, constructed above, to cache
         _cached_MentionPairFeatures[doc_id][(head_id, cand_id)] = pair_features
         return pair_features
+
+    @staticmethod
+    def num_features():
+        return 10  # corresponds to number of features returned by `MentionPairFeatures.for_mentions(...)`
 
     # !! Note
     # this_feats == head_features
@@ -209,11 +178,6 @@ class MentionPairFeatures:
             is_same_gender = this_feats.gender == other_feats.gender
 
         return int(is_same_gender is True)
-        # return [
-        #     int(is_same_gender is True),
-        #     int(is_same_gender is False),
-        #     int(is_same_gender is None)
-        # ]
 
     @staticmethod
     def is_same_number(this_feats, other_feats):
@@ -226,11 +190,6 @@ class MentionPairFeatures:
             is_same_number = this_feats.number == other_feats.number
 
         return int(is_same_number is True)
-        # return [
-        #     int(is_same_number is True),
-        #     int(is_same_number is False),
-        #     int(is_same_number is None),
-        # ]
 
     @staticmethod
     def is_appositive(this_feats, other_feats, document):
@@ -333,228 +292,38 @@ class MentionPairFeatures:
 
         return int(False)
 
-    # TODO: add more features (good source includes
-    #       https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100101 )
 
+class BaselineController(ControllerBase):
+    def __init__(self, in_features, dataset_name, model_name=None, learning_rate=0.001):
+        self.num_features = in_features
 
-class BaselineModel:
-    name: str
-
-    path_model_dir: str  # model directory
-    path_metadata: str  # metadata of the model (global parameters, etc.)
-    path_pred_clusters: str  # predictions made on test set
-    path_pred_scores: str  # scores of predictions
-    path_log: str  # complete log output of the run
-
-    model: nn.Linear
-    model_optimizer: optim.SGD
-    loss: nn.CrossEntropyLoss
-
-    # indicates whether a model was loaded from file (if it was, training phase can be skipped)
-    loaded_from_file: bool
-
-    def __init__(self, in_features, dataset_name, name=None, learning_rate=0.001):
-        """
-        Initializes a new BaselineModel.
-        """
-        self.name = name
-        if self.name is None:
-            self.name = time.strftime("%Y%m%d_%H%M%S")
-        self.dataset_name = dataset_name
-
-        # Init all file paths
-        self.path_model_dir = os.path.join(MODELS_SAVE_DIR, self.name)
-        self.path_metadata = os.path.join(self.path_model_dir, "model_metadata.txt")
-        self.path_pred_clusters = os.path.join(self.path_model_dir, "pred_clusters.txt")
-        self.path_pred_scores = os.path.join(self.path_model_dir, "pred_scores.txt")
-        self.path_log = os.path.join(self.path_model_dir, "log.txt")
-
-        out_features = 1
-        self.model = nn.Linear(in_features=in_features, out_features=out_features)
+        self.model = nn.Linear(in_features=in_features, out_features=1)
         self.model_optimizer = optim.SGD(self.model.parameters(), lr=learning_rate)
-        self.loss = nn.CrossEntropyLoss()
-        logging.debug(f"Initialized baseline model with name {self.name}.")
-        self._prepare()
 
-    def train(self, epochs, train_docs, dev_docs):
-        best_dev_loss = float("inf")
-        logging.info("Starting baseline training...")
-        t_start = time.time()
-        for idx_epoch in range(epochs):
-            t_epoch_start = time.time()
-            logging.info(f"\tRunning epoch {idx_epoch + 1}/{epochs}")
+        super().__init__(learning_rate=learning_rate, dataset_name=dataset_name, model_name=model_name)
+        logging.info(f"Initialized baseline model with name {self.model_name}")
 
-            # Make permutation of train documents
-            shuffle_indices = torch.randperm(len(train_docs))
+    @property
+    def model_base_dir(self):
+        return "baseline_model"
 
-            logging.debug("\t\tModel training step")
-            self.model.train()
-            train_loss, train_examples = 0.0, 0
-            for idx_doc in shuffle_indices:
-                curr_doc = train_docs[idx_doc]
+    def train_mode(self):
+        self.model.train()
 
-                _, (doc_loss, n_examples) = self._train_doc(curr_doc)
+    def eval_mode(self):
+        self.model.eval()
 
-                train_loss += doc_loss
-                train_examples += n_examples
+    def load_checkpoint(self):
+        path_to_model = os.path.join(self.path_model_dir, 'best.th')
+        if os.path.isfile(path_to_model):
+            logging.info(f"Model with name '{self.name}' already exists. Loading model...")
+            self.model.load_state_dict(torch.load(path_to_model))
+            logging.info(f"Model with name '{self.name}' loaded.")
+            self.loaded_from_file = True
 
-            logging.debug("\t\tModel validation step")
-            self.model.eval()
-            dev_loss, dev_examples = 0.0, 0
-            for curr_doc in dev_docs:
-                _, (doc_loss, n_examples) = self._train_doc(curr_doc, eval_mode=True)
-
-                dev_loss += doc_loss
-                dev_examples += n_examples
-
-            logging.info(f"\t\tParams:        {self.model.state_dict()}")
-            logging.info(f"\t\tTraining loss: {train_loss / max(1, train_examples): .4f}")
-            logging.info(f"\t\tDev loss:      {dev_loss / max(1, dev_examples): .4f}")
-
-            if ((dev_loss / dev_examples) < best_dev_loss) and MODELS_SAVE_DIR:
-                logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
-                torch.save(self.model.state_dict(), os.path.join(self.path_model_dir, 'best.th'))
-
-                # Save this score as best
-                best_dev_loss = dev_loss / dev_examples
-
-            logging.info(f"\tEpoch #{1 + idx_epoch} took {time.time() - t_epoch_start:.2f}s")
-            logging.info("")
-        logging.info("Training baseline complete")
-        logging.info(f"Training took {time.time() - t_start:.2f}s")
-
-        # Add model train scores to model metadata
-        with open(self.path_metadata, "a", encoding="utf-8") as f:
-            f.writelines([
-                "\n",
-                "Train model scores:\n",
-                f"Best validation set loss: {best_dev_loss}\n",
-            ])
-        logging.info(f"Saved best validation score to {self.path_metadata}")
-
-    def evaluate(self, test_docs):
-        ####################################
-        # EVALUATION OF MODEL ON TEST DATA
-        ####################################
-        # doc_name: <cluster assignments> pairs for all test documents
-        logging.info("Evaluating baseline...")
-        all_test_preds = {}
-
-        # [MUC score]
-        # The MUC score counts the minimum number of links between mentions
-        # to be inserted or deleted when mapping a system response to a gold standard key set
-        # [B3 score]
-        # B3 computes precision and recall for all mentions in the document,
-        # which are then combined to produce the final precision and recall numbers for the entire output
-        # [CEAF score]
-        # CEAF applies a similarity metric (either mention based or entity based) for each pair of entities
-        # (i.e. a set of mentions) to measure the goodness of each possible alignment.
-        # The best mapping is used for calculating CEAF precision, recall and F-measure
-        muc_score = metrics.Score()
-        b3_score = metrics.Score()
-        ceaf_score = metrics.Score()
-
-        logging.info("Evaluation with MUC, BCube and CEAF score...")
-        for curr_doc in test_docs:
-
-            test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
-            test_clusters = get_clusters(test_preds)
-
-            # Save predicted clusters for this document id
-            all_test_preds[curr_doc.doc_id] = test_clusters
-
-            # input into metric functions should be formatted as dictionary of {int -> set(str)},
-            # where keys (ints) are clusters and values (string sets) are mentions in a cluster. Example:
-            # {
-            #  1: {'rc_1', 'rc_2', ...}
-            #  2: {'rc_5', 'rc_8', ...}
-            #  3: ...
-            # }
-
-            # gt = ground truth, pr = predicted by model
-            gt_clusters = {k: set(v) for k, v in enumerate(curr_doc.clusters)}
-            pr_clusters = {}
-            for (pr_ment, pr_clst) in test_clusters.items():
-                if pr_clst not in pr_clusters:
-                    pr_clusters[pr_clst] = set()
-                pr_clusters[pr_clst].add(pr_ment)
-
-            muc_score.add(metrics.muc(gt_clusters, pr_clusters))
-            b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
-            ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
-
-        logging.info(f"----------------------------------------------")
-        logging.info(f"**Test scores**")
-        logging.info(f"**MUC:      {muc_score}**")
-        logging.info(f"**BCubed:   {b3_score}**")
-        logging.info(f"**CEAFe:    {ceaf_score}**")
-        logging.info(f"**CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}**")
-        logging.info(f"----------------------------------------------")
-
-        if MODELS_SAVE_DIR:
-            # Save test predictions and scores to file for further debugging
-            with open(self.path_pred_scores, "w", encoding="utf-8") as f:
-                f.writelines([
-                    f"Database: {self.dataset_name}\n\n",
-                    f"Test scores:\n",
-                    f"MUC:      {muc_score}\n",
-                    f"BCubed:   {b3_score}\n",
-                    f"CEAFe:    {ceaf_score}\n",
-                    f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
-                ])
-            with open(self.path_pred_clusters, "w", encoding="utf-8") as f:
-                f.writelines(["Predictions:\n"])
-                for doc_id, clusters in all_test_preds.items():
-                    f.writelines([
-                        f"Document '{doc_id}':\n",
-                        str(clusters), "\n"
-                    ])
-        pass
-
-    def visualize(self):
-        # Build and display visualization
-        if VISUALIZATION_GENERATE:
-            build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir,
-                              VISUALIZATION_OPEN_WHEN_DONE)
-        else:
-            logging.warning("Visualization is disabled and thus not generated. Set VISUALIZATION_GENERATE to true.")
-
-    def _prepare(self):
-        """
-        Prepares directories and files for the model. If directory for the model's name already exists, it tries to load
-        an existing model. If loading the model was succesful, `self.loaded_from_file` is set to True.
-        """
-        self.loaded_from_file = False
-        # Prepare directory for saving model for this run
-        if not os.path.exists(self.path_model_dir):
-            os.makedirs(self.path_model_dir)
-
-            if LOG_INTO_FILE:
-                # All logs will also be written to a file
-                open(self.path_log, "w", encoding="utf-8").close()
-                logger.addHandler(logging.FileHandler(self.path_log, encoding="utf-8"))
-
-            logging.info(f"Created directory '{self.path_model_dir}' for model files.")
-
-            # Save metadata for this run
-            with open(self.path_metadata, "a") as f:
-                f.writelines([
-                    "Train model features:\n",
-                    f"NUM_FEATURES:  {NUM_FEATURES}\n",
-                    f"NUM_EPOCHS:    {NUM_EPOCHS}\n",
-                    f"LEARNING_RATE: {LEARNING_RATE}\n",
-                    f"RANDOM_SEED:   {RANDOM_SEED}\n",
-                    "\n",
-                ])
-        else:
-            logging.info(f"Directory '{self.path_model_dir}' already exists.")
-            path_to_model = os.path.join(self.path_model_dir, 'best.th')
-            if os.path.isfile(path_to_model):
-                logging.info(f"Model with name '{self.name}' already exists. Loading model...")
-                self.model.load_state_dict(torch.load(path_to_model))
-                logging.info(f"Model with name '{self.name}' loaded.")
-                self.loaded_from_file = True
-        pass
+    def save_checkpoint(self):
+        logging.info(f"Saving new best model to '{self.path_model_dir}'")
+        torch.save(self.model.state_dict(), os.path.join(self.path_model_dir, 'best.th'))
 
     def _train_doc(self, curr_doc, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
@@ -570,14 +339,11 @@ class BaselineModel:
             for mid in curr_cluster:
                 mention_to_cluster_id[mid] = i
 
-        logging.debug(f"**Sorting mentions...**")
         doc_loss, n_examples = 0.0, 0
         preds = {}
 
-        logging.debug(f"**Processing {len(curr_doc.mentions)} mentions...**")
         for idx_head, (head_id, head_mention) in enumerate(curr_doc.mentions.items(), 1):
             logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
-            self.model.zero_grad()
 
             gt_antecedent_ids = cluster_sets[mention_to_cluster_id[head_id]]
 
@@ -585,6 +351,7 @@ class BaselineModel:
             candidates, features = [None], []
             gt_antecedents = []
 
+            # TODO: this could be improved: only consider a window of antecedent candidates, not all preceding mentions
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
                 if cand_id != head_id and cand_id in gt_antecedent_ids:
                     gt_antecedents.append(idx_candidate)
@@ -595,23 +362,18 @@ class BaselineModel:
                         features = torch.tensor(np.array(features, dtype=np.float32))
 
                         cand_scores = self.model(features)
-
-                        # Concatenates the given sequence of seq tensors in the given dimension
-                        cand_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)
+                        cand_scores = torch.cat((torch.tensor([0.]), cand_scores.flatten())).unsqueeze(0)  # [1, #cands]
 
                         # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
                         if len(gt_antecedents) == 0:
                             gt_antecedents.append(0)
 
-                        # Get index of max value. That index equals to mention at that place
                         curr_pred = torch.argmax(cand_scores)
-
                         # (average) loss over all ground truth antecedents
                         curr_loss = self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
                                               torch.tensor(gt_antecedents))
 
                         doc_loss += float(curr_loss)
-
                         n_examples += 1
 
                         if not eval_mode:
@@ -637,7 +399,6 @@ class BaselineModel:
 
 
 class AllInOneModel:
-
     def __init__(self, baseline=None):
         self.baseline = baseline
 
@@ -662,7 +423,7 @@ class AllInOneModel:
         logging.info(f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}")
         logging.info(f"\n")
 
-        if MODELS_SAVE_DIR and self.baseline is not None:
+        if self.baseline is not None:
             # Save test predictions and scores to file for further debugging
             with open(self.baseline.path_pred_scores, "a", encoding="utf-8") as f:
                 f.writelines([
@@ -675,7 +436,6 @@ class AllInOneModel:
 
 
 class EachInOwnModel:
-
     def __init__(self, baseline=None):
         self.baseline = baseline
 
@@ -700,7 +460,7 @@ class EachInOwnModel:
         logging.info(f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}")
         logging.info(f"\n")
 
-        if MODELS_SAVE_DIR and self.baseline is not None:
+        if self.baseline is not None:
             # Save test predictions and scores to file for further debugging
             with open(self.baseline.path_pred_scores, "a", encoding="utf-8") as f:
                 f.writelines([
@@ -713,24 +473,14 @@ class EachInOwnModel:
 
 
 if __name__ == "__main__":
-    if not MODELS_SAVE_DIR or MODELS_SAVE_DIR == "":
-        print("You should define MODELS_SAVE_DIR global parameter.", file=sys.stderr)
-        exit(-1)
-
-    # Prepare directory for saving trained models
-    if MODELS_SAVE_DIR and not os.path.exists(MODELS_SAVE_DIR):
-        os.makedirs(MODELS_SAVE_DIR)
-        logging.info(f"Created directory '{MODELS_SAVE_DIR}' for saving models.")
-
     args = parser.parse_args()
-    # if you'd like to reuse a model, give it a name, i.e.
-    # baseline = BaselineModel(NUM_FEATURES, name="my_magnificent_model")
-    baseline = BaselineModel(NUM_FEATURES, name=args.model_name, learning_rate=args.learning_rate,
-                             dataset_name=args.dataset)
+    # if you'd like to reuse a model, provide a name, i.e. `baseline = BaselineController(..., model_name="model1")`
+    baseline = BaselineController(MentionPairFeatures.num_features(),
+                                  model_name=args.model_name,
+                                  learning_rate=args.learning_rate,
+                                  dataset_name=args.dataset)
 
     # Note: model should be initialized first as it also adds a logging handler to store logs into a file
-
-    # Read corpus. Documents will be of type 'Document'
     documents = read_corpus(args.dataset)
     if args.fixed_split:
         logging.info("Using fixed dataset split")
@@ -740,7 +490,7 @@ if __name__ == "__main__":
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded
-        baseline.train(args.num_epochs, train_docs, dev_docs)
+        baseline.train(100, train_docs, dev_docs)
 
     baseline.evaluate(test_docs)
 
