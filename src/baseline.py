@@ -490,7 +490,7 @@ if __name__ == "__main__":
 
     if not baseline.loaded_from_file:
         # train only if it was not loaded
-        baseline.train(100, train_docs, dev_docs)
+        baseline.train(args.num_epochs, train_docs, dev_docs)
 
     baseline.evaluate(test_docs)
 
