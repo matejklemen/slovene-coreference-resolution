@@ -7,8 +7,7 @@ import torch.optim as optim
 from transformers import BertModel, BertTokenizer
 
 from data import read_corpus
-from scorer import NeuralCoreferencePairScorer
-from common import ControllerBase
+from common import ControllerBase, NeuralCoreferencePairScorer
 from utils import get_clusters, split_into_sets, fixed_split
 
 parser = argparse.ArgumentParser()

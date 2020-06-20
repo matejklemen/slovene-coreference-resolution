@@ -11,8 +11,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from allennlp.modules.elmo import Elmo, batch_to_ids
-from common import ControllerBase
-from scorer import NeuralCoreferencePairScorer
+from common import ControllerBase, NeuralCoreferencePairScorer
 from utils import split_into_sets, fixed_split
 
 from data import read_corpus

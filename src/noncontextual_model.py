@@ -1,19 +1,17 @@
-import os
-
-from data import read_corpus
-from utils import extract_vocab, encode, split_into_sets, get_clusters, fixed_split
-
 import argparse
-import logging
 import codecs
-import torch
+import logging
+import os
 import time
+
+import numpy as np
+import torch
 import torch.nn as nn
 import torch.optim as optim
-from scorer import NeuralCoreferencePairScorer
-import numpy as np
-from common import ControllerBase
+from common import ControllerBase, NeuralCoreferencePairScorer
+from utils import extract_vocab, split_into_sets, fixed_split
 
+from data import read_corpus
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default=None)
