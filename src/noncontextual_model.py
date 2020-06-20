@@ -157,7 +157,7 @@ class NoncontextualController(ControllerBase):
 
             head_features = [encoded_doc[curr_token.sentence_index][curr_token.position_in_sentence]
                              for curr_token in head_mention.tokens]
-            head_features = torch.stack(head_features, dim=0).unsqueeze(0)  # shape: [num_tokens, embedding_size]
+            head_features = torch.stack(head_features, dim=0).unsqueeze(0)  # shape: [1, num_tokens, embedding_size]
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
                 if cand_id != head_id and cand_id in gt_antecedent_ids:
@@ -205,9 +205,9 @@ class NoncontextualController(ControllerBase):
                     if num_tokens > self.max_span_size:
                         mention_features = mention_features[: self.max_span_size]
                     else:
-                        pad_amount = self.max_span_size - num_tokens
+                        pad_amt = self.max_span_size - num_tokens
                         mention_features = torch.cat((mention_features,
-                                                      torch.repeat_interleave(pad_embedding, repeats=pad_amount, dim=0)))
+                                                      torch.repeat_interleave(pad_embedding, repeats=pad_amt, dim=0)))
 
                     encoded_candidates.append(mention_features)
 
