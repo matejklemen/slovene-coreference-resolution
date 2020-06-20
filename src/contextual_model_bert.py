@@ -251,9 +251,9 @@ if __name__ == "__main__":
                                           learning_rate=args.learning_rate,
                                           max_segment_size=args.max_segment_size,
                                           dataset_name=args.dataset,
-                                          freeze_pretrained=True)
+                                          freeze_pretrained=args.freeze_pretrained)
     if not controller.loaded_from_file:
-        controller.train(epochs=1, train_docs=train_docs, dev_docs=dev_docs)
+        controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
         # Reload best checkpoint
         controller._prepare()
 
