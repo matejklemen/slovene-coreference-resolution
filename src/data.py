@@ -181,10 +181,6 @@ def sorted_mentions_dict(mentions):
                                                    tup[1].tokens[0].position_in_sentence,  # start pos
                                                    tup[1].tokens[-1].position_in_sentence)))  # end pos
 
-    # --- just a quick test to make sure mentions are sorted correctly
-    test_mention_poss = [men.tokens[0].position_in_document for men in sorted_mentions.values()]
-    assert test_mention_poss == sorted(test_mention_poss)
-    # ---
     return sorted_mentions
 
 
