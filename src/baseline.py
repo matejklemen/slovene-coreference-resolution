@@ -316,9 +316,9 @@ class BaselineController(ControllerBase):
     def load_checkpoint(self):
         path_to_model = os.path.join(self.path_model_dir, 'best.th')
         if os.path.isfile(path_to_model):
-            logging.info(f"Model with name '{self.name}' already exists. Loading model...")
+            logging.info(f"Model with name '{self.model_name}' already exists. Loading model...")
             self.model.load_state_dict(torch.load(path_to_model))
-            logging.info(f"Model with name '{self.name}' loaded.")
+            logging.info(f"Model with name '{self.model_name}' loaded.")
             self.loaded_from_file = True
 
     def save_checkpoint(self):
