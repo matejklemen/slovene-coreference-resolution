@@ -21,7 +21,7 @@ parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--pretrained_model_name_or_path", type=str, default=os.path.join("..", "data",
                                                                                       "slo-hr-en-bert-pytorch"))
 parser.add_argument("--embedding_size", type=int, default=768)
-parser.add_argument("--freeze_pretrained", action="store_true", default=True)
+parser.add_argument("--freeze_pretrained", action="store_true")
 parser.add_argument("--fixed_split", action="store_true")
 
 
