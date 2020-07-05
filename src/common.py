@@ -14,10 +14,11 @@ logger.setLevel(logging.INFO)
 
 
 class ControllerBase:
-    def __init__(self, learning_rate, dataset_name, model_name=None):
+    def __init__(self, learning_rate, dataset_name, early_stopping_rounds=5, model_name=None):
         self.model_name = time.strftime("%Y%m%d_%H%M%S") if model_name is None else model_name
         self.dataset_name = dataset_name
         self.learning_rate = learning_rate
+        self.early_stopping_rounds = early_stopping_rounds
 
         # Mention ranking model = always using cross-entropy
         self.loss = nn.CrossEntropyLoss()
@@ -69,7 +70,7 @@ class ControllerBase:
     def train(self, epochs, train_docs, dev_docs):
         logging.info("Starting training")
 
-        best_dev_loss = float("inf")
+        best_dev_loss, best_epoch = float("inf"), None
         t_start = time.time()
         for idx_epoch in range(epochs):
             t_epoch_start = time.time()
@@ -98,12 +99,19 @@ class ControllerBase:
             logging.info(f"Dev loss: {dev_loss / max(1, dev_examples): .4f}")
 
             if (dev_loss / dev_examples) < best_dev_loss:
+                logging.info("Saving new best checkpoint")
                 self.save_checkpoint()
                 # Save this score as best
                 best_dev_loss = dev_loss / dev_examples
+                best_epoch = idx_epoch
 
             logging.info(f"\tEpoch #{1 + idx_epoch} took {time.time() - t_epoch_start:.2f}s")
             logging.info("")
+
+            if idx_epoch - best_epoch == self.early_stopping_rounds:
+                logging.info(f"Validation metric did not improve for {self.early_stopping_rounds} rounds, "
+                             f"stopping early")
+                break
 
         logging.info(f"Training complete: took {time.time() - t_start:.2f}s")
 
