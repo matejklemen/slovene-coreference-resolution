@@ -33,7 +33,7 @@ logging.basicConfig(level=logging.INFO)
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 
-class ContextualController(ControllerBase):
+class ContextualControllerELMo(ControllerBase):
     def __init__(self, embedding_size,
                  hidden_size,
                  dropout,
@@ -230,15 +230,15 @@ if __name__ == "__main__":
         train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
     else:
         train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-    model = ContextualController(model_name=args.model_name,
-                                 embedding_size=1024,
-                                 fc_hidden_size=args.fc_hidden_size,
-                                 hidden_size=args.hidden_size,
-                                 dropout=args.dropout,
-                                 pretrained_embs_dir="../data/slovenian-elmo",
-                                 freeze_pretrained=args.freeze_pretrained,
-                                 learning_rate=args.learning_rate,
-                                 dataset_name=args.dataset)
+    model = ContextualControllerELMo(model_name=args.model_name,
+                                     embedding_size=1024,
+                                     fc_hidden_size=args.fc_hidden_size,
+                                     hidden_size=args.hidden_size,
+                                     dropout=args.dropout,
+                                     pretrained_embs_dir="../data/slovenian-elmo",
+                                     freeze_pretrained=args.freeze_pretrained,
+                                     learning_rate=args.learning_rate,
+                                     dataset_name=args.dataset)
     if not model.loaded_from_file:
         model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
         # Reload best checkpoint
