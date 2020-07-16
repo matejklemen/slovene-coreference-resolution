@@ -55,10 +55,10 @@ class ContextualControllerBERT(ControllerBase):
                  fc_hidden_size=150,
                  freeze_pretrained=True,
                  learning_rate=0.001,
-                 max_segment_size=(512 - 2),
+                 max_segment_size=512,
                  max_span_size=10,
                  model_name=None):
-        self.max_segment_size = max_segment_size
+        self.max_segment_size = max_segment_size - 2  # CLS, SEP
         self.max_span_size = max_span_size
 
         self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path).to(DEVICE)
@@ -130,8 +130,8 @@ class ContextualControllerBERT(ControllerBase):
         for idx_segment in range(num_total_segments):
             curr_segment = self.tokenizer.prepare_for_model(
                 encoded_doc[idx_segment * self.max_segment_size: (idx_segment + 1) * self.max_segment_size],
-                max_length=(self.max_segment_size + 2), pad_to_max_length=True,
-                return_tensors="pt").to(DEVICE)
+                max_length=(self.max_segment_size + 2), pad_to_max_length=True, truncation=True,
+                truncation_strategy="longest_first", return_tensors="pt").to(DEVICE)
 
             res = self.embedder(**curr_segment)
             last_hidden_states = res[0]
