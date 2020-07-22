@@ -79,10 +79,11 @@ class ContextualControllerBERT(ControllerBase):
                  model_name=None):
         self.max_segment_size = max_segment_size - 2  # CLS, SEP
         self.max_span_size = max_span_size
+        self.combine_layers = combine_layers
 
         self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path, output_hidden_states=combine_layers).to(DEVICE)
         self.tokenizer = BertTokenizer.from_pretrained(pretrained_model_name_or_path)
-        self.combinator = WeightedLayerCombination(embedding_size=embedding_size)
+        self.combinator = WeightedLayerCombination(embedding_size=embedding_size).to(DEVICE)
 
         self.freeze_pretrained = freeze_pretrained
         for param in self.embedder.parameters():
@@ -125,14 +126,21 @@ class ContextualControllerBERT(ControllerBase):
             self.scorer.load_state_dict(torch.load(path_to_model, map_location=DEVICE))
             self.loaded_from_file = True
 
+        path_to_combination = os.path.join(self.path_model_dir, "combination.th")
+        if os.path.isfile(path_to_combination):
+            self.combinator.load_state_dict(torch.load(path_to_combination, map_location=DEVICE))
+            self.loaded_from_file = True
+
         if not self.freeze_pretrained and os.path.exists(self.path_model_dir):
             self.embedder = BertModel.from_pretrained(self.path_model_dir).to(DEVICE)
             self.tokenizer = BertTokenizer.from_pretrained(self.path_model_dir)
             self.loaded_from_file = True
 
     def save_checkpoint(self):
-        # TODO: save and load linear combination as well
         torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, "best_scorer.th"))
+        if self.combine_layers:
+            torch.save(self.combinator.state_dict(), os.path.join(self.path_model_dir, "combination.th"))
+
         if not self.freeze_pretrained:
             self.embedder.save_pretrained(self.path_model_dir)
             self.tokenizer.save_pretrained(self.path_model_dir)
