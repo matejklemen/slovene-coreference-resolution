@@ -3,6 +3,8 @@ import logging
 import os
 
 import torch
+import torch.nn as nn
+import torch.nn.functional as F
 import torch.optim as optim
 from transformers import BertModel, BertTokenizer
 
@@ -27,6 +29,22 @@ parser.add_argument("--fixed_split", action="store_true")
 
 logging.basicConfig(level=logging.INFO)
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+
+
+class WeightedLayerCombination(nn.Module):
+    def __init__(self, embedding_size):
+        super().__init__()
+        self.embedding_size = embedding_size
+        self.linear = nn.Linear(embedding_size, out_features=1)
+
+    def forward(self, hidden_states):
+        """ Args:
+            hidden_states: shape [num_layers, B, seq_len, embedding_size]
+        """
+        attn_weights = F.softmax(self.linear(hidden_states), dim=0)  # [num_layers, B, seq_len, 1]
+        weighted_states = torch.sum(attn_weights * hidden_states, dim=0)  # [B, seq_len, 768]
+
+        return weighted_states, attn_weights
 
 
 def prepare_document_bert(doc, tokenizer):
@@ -57,12 +75,14 @@ class ContextualControllerBERT(ControllerBase):
                  learning_rate=0.001,
                  max_segment_size=512,
                  max_span_size=10,
+                 combine_layers=True,  # TODO: should be False by default
                  model_name=None):
         self.max_segment_size = max_segment_size - 2  # CLS, SEP
         self.max_span_size = max_span_size
 
-        self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path).to(DEVICE)
+        self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path, output_hidden_states=combine_layers).to(DEVICE)
         self.tokenizer = BertTokenizer.from_pretrained(pretrained_model_name_or_path)
+        self.combinator = WeightedLayerCombination(embedding_size=embedding_size)
 
         self.freeze_pretrained = freeze_pretrained
         for param in self.embedder.parameters():
@@ -71,12 +91,16 @@ class ContextualControllerBERT(ControllerBase):
         self.scorer = NeuralCoreferencePairScorer(num_features=embedding_size,
                                                   dropout=dropout,
                                                   hidden_size=fc_hidden_size).to(DEVICE)
-        if freeze_pretrained:
-            self.optimizer = optim.Adam(self.scorer.parameters(),
-                                        lr=learning_rate)
-        else:
-            self.optimizer = optim.Adam(list(self.embedder.parameters()) + list(self.scorer.parameters()),
-                                        lr=learning_rate)
+
+        params_to_update = list(self.scorer.parameters())
+        if not freeze_pretrained:
+            params_to_update += list(self.embedder.parameters())
+
+        if combine_layers:
+            params_to_update += list(self.combinator.parameters())
+
+        self.optimizer = optim.Adam(self.scorer.parameters(),
+                                    lr=learning_rate)
 
         super().__init__(learning_rate=learning_rate, dataset_name=dataset_name, model_name=model_name)
         logging.info(f"Initialized contextual BERT-based model with name {self.model_name}.")
@@ -107,6 +131,7 @@ class ContextualControllerBERT(ControllerBase):
             self.loaded_from_file = True
 
     def save_checkpoint(self):
+        # TODO: save and load linear combination as well
         torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, "best_scorer.th"))
         if not self.freeze_pretrained:
             self.embedder.save_pretrained(self.path_model_dir)
@@ -122,7 +147,11 @@ class ContextualControllerBERT(ControllerBase):
         # maps from (idx_sent, idx_token) to (indices_in_tokenized_doc)
         tokenized_doc, mapping = prepare_document_bert(curr_doc, tokenizer=self.tokenizer)
         encoded_doc = self.tokenizer.convert_tokens_to_ids(tokenized_doc)
-        pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))[0][0]  # shape: [1, 768]
+        #
+        pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))
+        pad_embedding, _ = self.combinator(torch.cat(pad_embedding[2]))
+        #
+        # pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))[0][0]  # shape: [1, 768]
 
         # Break down long documents into smaller sub-documents and encode them
         num_total_segments = (len(encoded_doc) + self.max_segment_size - 1) // self.max_segment_size
@@ -134,9 +163,12 @@ class ContextualControllerBERT(ControllerBase):
                 truncation_strategy="longest_first", return_tensors="pt").to(DEVICE)
 
             res = self.embedder(**curr_segment)
-            last_hidden_states = res[0]
+            combined_hidden_states, _ = self.combinator(torch.cat(res[2]))
+            # last_hidden_states = combined_hidden_states
+            # last_hidden_states = res[0]
             # Note: [0] because assuming a batch size of 1 (i.e. processing 1 segment at a time)
-            doc_segments.append(last_hidden_states[0])
+            # doc_segments.append(last_hidden_states[0])
+            doc_segments.append(combined_hidden_states)
 
         cluster_sets = []
         mention_to_cluster_id = {}
