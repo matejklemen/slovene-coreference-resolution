@@ -100,8 +100,7 @@ class ContextualControllerBERT(ControllerBase):
         if combine_layers:
             params_to_update += list(self.combinator.parameters())
 
-        self.optimizer = optim.Adam(self.scorer.parameters(),
-                                    lr=learning_rate)
+        self.optimizer = optim.Adam(params_to_update, lr=learning_rate)
 
         super().__init__(learning_rate=learning_rate, dataset_name=dataset_name, model_name=model_name)
         logging.info(f"Initialized contextual BERT-based model with name {self.model_name}.")
