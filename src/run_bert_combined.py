@@ -24,6 +24,7 @@ parser.add_argument("--pretrained_model_name_or_path", type=str, default=os.path
 parser.add_argument("--embedding_size", type=int, default=768)
 parser.add_argument("--freeze_pretrained", action="store_true")
 parser.add_argument("--fixed_split", action="store_true")
+parser.add_argument("--combine_layers", action="store_true")
 
 
 if __name__ == "__main__":
@@ -41,6 +42,7 @@ if __name__ == "__main__":
                                      embedding_size=args.embedding_size,
                                      fc_hidden_size=args.fc_hidden_size,
                                      dropout=args.dropout,
+                                     combine_layers=args.combine_layers,
                                      pretrained_model_name_or_path=args.pretrained_model_name_or_path,
                                      max_segment_size=args.max_segment_size,
                                      freeze_pretrained=args.freeze_pretrained,
