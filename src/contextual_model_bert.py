@@ -19,11 +19,14 @@ parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
 parser.add_argument("--num_epochs", type=int, default=10)
 parser.add_argument("--max_segment_size", type=int, default=256)
+parser.add_argument("--combine_layers", action="store_true",
+                    help="Flag to determine if the sequence embeddings should be a learned combination of all "
+                         "BERT hidden layers")
 parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--pretrained_model_name_or_path", type=str, default=os.path.join("..", "data",
                                                                                       "slo-hr-en-bert-pytorch"))
 parser.add_argument("--embedding_size", type=int, default=768)
-parser.add_argument("--freeze_pretrained", action="store_true")
+parser.add_argument("--freeze_pretrained", action="store_true", help="If set, disable updates to BERT layers")
 parser.add_argument("--fixed_split", action="store_true")
 
 
@@ -42,9 +45,9 @@ class WeightedLayerCombination(nn.Module):
             hidden_states: shape [num_layers, B, seq_len, embedding_size]
         """
         attn_weights = F.softmax(self.linear(hidden_states), dim=0)  # [num_layers, B, seq_len, 1]
-        weighted_states = torch.sum(attn_weights * hidden_states, dim=0)  # [B, seq_len, 768]
+        weighted_combination = torch.sum(attn_weights * hidden_states, dim=0)  # [B, seq_len, 768]
 
-        return weighted_states, attn_weights
+        return weighted_combination, attn_weights
 
 
 def prepare_document_bert(doc, tokenizer):
@@ -75,15 +78,17 @@ class ContextualControllerBERT(ControllerBase):
                  learning_rate=0.001,
                  max_segment_size=512,
                  max_span_size=10,
-                 combine_layers=True,  # TODO: should be False by default
+                 combine_layers=False,
                  model_name=None):
         self.max_segment_size = max_segment_size - 2  # CLS, SEP
         self.max_span_size = max_span_size
         self.combine_layers = combine_layers
 
-        self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path, output_hidden_states=combine_layers).to(DEVICE)
+        self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path,
+                                                  output_hidden_states=combine_layers).to(DEVICE)
         self.tokenizer = BertTokenizer.from_pretrained(pretrained_model_name_or_path)
-        self.combinator = WeightedLayerCombination(embedding_size=embedding_size).to(DEVICE)
+        self.combinator = WeightedLayerCombination(embedding_size=embedding_size).to(DEVICE) \
+            if self.combine_layers else None
 
         self.freeze_pretrained = freeze_pretrained
         for param in self.embedder.parameters():
@@ -97,7 +102,7 @@ class ContextualControllerBERT(ControllerBase):
         if not freeze_pretrained:
             params_to_update += list(self.embedder.parameters())
 
-        if combine_layers:
+        if self.combine_layers:
             params_to_update += list(self.combinator.parameters())
 
         self.optimizer = optim.Adam(params_to_update, lr=learning_rate)
@@ -126,7 +131,10 @@ class ContextualControllerBERT(ControllerBase):
             self.loaded_from_file = True
 
         path_to_combination = os.path.join(self.path_model_dir, "combination.th")
-        if os.path.isfile(path_to_combination):
+        if self.combine_layers:
+            if not os.path.isfile(path_to_combination):
+                raise FileNotFoundError("combine_layers=True, but combination weights could not be found")
+
             self.combinator.load_state_dict(torch.load(path_to_combination, map_location=DEVICE))
             self.loaded_from_file = True
 
@@ -154,11 +162,14 @@ class ContextualControllerBERT(ControllerBase):
         # maps from (idx_sent, idx_token) to (indices_in_tokenized_doc)
         tokenized_doc, mapping = prepare_document_bert(curr_doc, tokenizer=self.tokenizer)
         encoded_doc = self.tokenizer.convert_tokens_to_ids(tokenized_doc)
-        #
-        pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))
-        pad_embedding, _ = self.combinator(torch.cat(pad_embedding[2]))
-        #
-        # pad_embedding = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))[0][0]  # shape: [1, 768]
+
+        res = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))
+        if self.combine_layers:
+            # Linearly combine all hidden layers
+            pad_embedding, _ = self.combinator(torch.cat(res[2]))  # shape: [1, 768]
+        else:
+            # Take the last hidden state
+            pad_embedding = res[0][0]  # shape: [1, 768]
 
         # Break down long documents into smaller sub-documents and encode them
         num_total_segments = (len(encoded_doc) + self.max_segment_size - 1) // self.max_segment_size
@@ -170,12 +181,12 @@ class ContextualControllerBERT(ControllerBase):
                 truncation_strategy="longest_first", return_tensors="pt").to(DEVICE)
 
             res = self.embedder(**curr_segment)
-            combined_hidden_states, _ = self.combinator(torch.cat(res[2]))
-            # last_hidden_states = combined_hidden_states
-            # last_hidden_states = res[0]
-            # Note: [0] because assuming a batch size of 1 (i.e. processing 1 segment at a time)
-            # doc_segments.append(last_hidden_states[0])
-            doc_segments.append(combined_hidden_states)
+            if self.combine_layers:
+                hidden_states, _ = self.combinator(torch.cat(res[2]))
+            else:
+                # Note: The second [0] because we're assuming a batch size of 1 (i.e. processing 1 segment at a time)
+                hidden_states = res[0][0]
+            doc_segments.append(hidden_states)
 
         cluster_sets = []
         mention_to_cluster_id = {}
@@ -286,6 +297,7 @@ if __name__ == "__main__":
                                           embedding_size=args.embedding_size,
                                           fc_hidden_size=args.fc_hidden_size,
                                           dropout=args.dropout,
+                                          combine_layers=args.combine_layers,
                                           pretrained_model_name_or_path=args.pretrained_model_name_or_path,
                                           learning_rate=args.learning_rate,
                                           max_segment_size=args.max_segment_size,
