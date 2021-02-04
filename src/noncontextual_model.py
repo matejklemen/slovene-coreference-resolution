@@ -8,10 +8,12 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from common import ControllerBase, NeuralCoreferencePairScorer
-from utils import extract_vocab, split_into_sets, fixed_split
+from fasttext import load_model
+from torch.autograd import Variable
 
+from common import ControllerBase, NeuralCoreferencePairScorer
 from data import read_corpus
+from utils import extract_vocab, split_into_sets, fixed_split
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default=None)
@@ -20,6 +22,8 @@ parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
 parser.add_argument("--num_epochs", type=int, default=10)
 parser.add_argument("--dataset", type=str, default="coref149")
+parser.add_argument("--max_vocab_size", type=int, default=10_000,
+                    help="Limit the maximum vocabulary size. Set to a high number if you don't want to limit it")
 parser.add_argument("--embedding_size", type=int, default=300,
                     help="Size of word embeddings. Only used if use_pretrained_embs is None; "
                          "otherwise, supported modes have pre-set embedding sizes")
@@ -35,6 +39,28 @@ logging.basicConfig(level=logging.INFO)
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 
+# https://github.com/facebookresearch/fastText/blob/master/python/doc/examples/FastTextEmbeddingBag.py
+class FastTextEmbeddingBag(nn.EmbeddingBag):
+    def __init__(self, model_path):
+        self.model = load_model(model_path)
+        input_matrix = self.model.get_input_matrix()
+        input_matrix_shape = input_matrix.shape
+        super().__init__(input_matrix_shape[0], input_matrix_shape[1])
+        self.weight.data.copy_(torch.FloatTensor(input_matrix))
+
+    def forward(self, words):
+        word_subinds = np.empty([0], dtype=np.int64)
+        word_offsets = [0]
+        for word in words:
+            _, subinds = self.model.get_subwords(word)
+            word_subinds = np.concatenate((word_subinds, subinds))
+            word_offsets.append(word_offsets[-1] + len(subinds))
+        word_offsets = word_offsets[:-1]
+        ind = Variable(torch.LongTensor(word_subinds))
+        offsets = Variable(torch.LongTensor(word_offsets))
+        return super().forward(ind, offsets)
+
+
 class NoncontextualController(ControllerBase):
     def __init__(self, vocab,
                  embedding_size,
@@ -44,6 +70,7 @@ class NoncontextualController(ControllerBase):
                  learning_rate=0.001,
                  max_span_size=10,
                  pretrained_embs=None,
+                 pretrained_embs_type=None,
                  freeze_pretrained=False,
                  model_name=None):
         # Note: a bit of a hack as model name automatically gets generated in super-class as well (if not provided)
@@ -231,7 +258,8 @@ if __name__ == "__main__":
         train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
     else:
         train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-    tok2id, id2tok = extract_vocab(train_docs, lowercase=True)
+    tok2id, id2tok = extract_vocab(train_docs, lowercase=True, top_n=args.max_vocab_size)
+    logging.info(f"Vocabulary size: {len(tok2id)} tokens")
 
     pretrained_embs = None
     # Note: pretrained word2vec embeddings we use are uncased
