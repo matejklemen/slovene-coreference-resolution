@@ -2,6 +2,8 @@ import logging
 import os
 import time
 
+from tqdm import tqdm
+
 import metrics
 import torch
 import torch.nn as nn
@@ -79,7 +81,7 @@ class ControllerBase:
 
             self.train_mode()
             train_loss, train_examples = 0.0, 0
-            for idx_doc in shuffle_indices:
+            for idx_doc in tqdm(shuffle_indices):
                 curr_doc = train_docs[idx_doc]
 
                 _, (doc_loss, n_examples) = self._train_doc(curr_doc)
@@ -144,7 +146,7 @@ class ControllerBase:
         ceaf_score = metrics.Score()
 
         logging.info("Evaluation with MUC, BCube and CEAF score...")
-        for curr_doc in test_docs:
+        for curr_doc in tqdm(test_docs):
 
             test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
             test_clusters = get_clusters(test_preds)
