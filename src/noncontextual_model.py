@@ -59,8 +59,8 @@ class FastTextEmbeddingBag(nn.EmbeddingBag):
             word_subinds = np.concatenate((word_subinds, subinds))
             word_offsets.append(word_offsets[-1] + len(subinds))
         word_offsets = word_offsets[:-1]
-        ind = Variable(torch.LongTensor(word_subinds, device=DEVICE))
-        offsets = Variable(torch.LongTensor(word_offsets, device=DEVICE))
+        ind = torch.tensor(word_subinds, dtype=torch.long, device=DEVICE)
+        offsets = torch.tensor(word_offsets, dtype=torch.long, device=DEVICE)
         return super().forward(ind, offsets)
 
 
