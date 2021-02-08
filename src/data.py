@@ -364,5 +364,72 @@ def read_corpus(name):
 
 
 if __name__ == "__main__":
-    documents = read_corpus("senticoref")
-    print(len(documents))
+    DATASET_NAME = "senticoref"
+    documents = read_corpus(DATASET_NAME)
+    print(f"Read {len(documents)} documents")
+
+    # http://nl.ijs.si/ME/Vault/V5/msd/html/msd-sl.html#msd.categories-sl
+    if DATASET_NAME == "senticoref":
+        # English tags - because tags are predicted with Stanza
+        char_tag_to_pos = dict(zip(["N", "V", "A", "R", "P", "M", "S", "C", "Q", "I", "Y", "X", "Z"],
+                                   ["samostalnik", "glagol", "pridevnik", "prislov", "zaimek", "števnik",
+                                    "predlog", "veznik", "členek", "medmet", "okrajšava", "neuvrščeno", "ločilo"]))
+    elif DATASET_NAME == "coref149":
+        char_tag_to_pos = dict(zip(["S", "G", "P", "R", "Z", "K", "D", "V", "L", "M", "O", "N", "U"],
+                                   ["samostalnik", "glagol", "pridevnik", "prislov", "zaimek", "števnik",
+                                    "predlog", "veznik", "členek", "medmet", "okrajšava", "neuvrščeno", "ločilo"]))
+    pos_to_idx = {c: i for i, c in enumerate(char_tag_to_pos.values())}
+    pos_count = [0 for _ in range(len(pos_to_idx))]
+    for doc in documents:
+        for mention_id, mention in doc.mentions.items():
+            first_token = mention.tokens[0]  # type: Token
+            curr_tag = char_tag_to_pos[first_token.msd[0]]
+
+            pos_count[pos_to_idx[curr_tag]] += 1
+
+    print("besedna_vrsta,frekvenca")
+    for curr_pos in pos_to_idx:
+        print(f"{curr_pos},{pos_count[pos_to_idx[curr_pos]]}")
+
+    entity_size_count = {}  # entity/cluster size -> number of such entities
+    mentions_by_documents = {}  # number of mentions -> number of documents with this amount of mentions
+    for doc in documents:
+        num_mentions = 0
+        for curr_cluster in doc.clusters:
+            cluster_size = len(curr_cluster)
+            num_mentions += cluster_size
+            entity_size_count[cluster_size] = entity_size_count.get(cluster_size, 0) + 1
+
+        mentions_by_documents[num_mentions] = mentions_by_documents.get(num_mentions, 0) + 1
+
+    print("\nvelikost_entitete,frekvenca")
+    for curr_size, num_mentions in sorted(entity_size_count.items(), key=lambda tup: tup[0]):
+        print(f"{curr_size},{num_mentions}")
+
+    print("\nštevilo_omenitev_v_dokumentu,frekvenca")
+    for curr_num_mentions, num_docs in sorted(mentions_by_documents.items(), key=lambda tup: tup[0]):
+        print(f"{curr_num_mentions},{num_docs}")
+
+    dist_between_mentions = {}  # dist between consecutive mentions (in num. of mentions) -> frequency of this distance
+    for doc in documents:
+        sorted_mentions = sorted([(mention_id,
+                                   curr_mention.tokens[0].position_in_document,
+                                   curr_mention.tokens[-1].position_in_document)
+                                  for mention_id, curr_mention in doc.mentions.items()],
+                                 key=lambda triple: (triple[1], triple[2]))
+        mention_id_to_rank = {mention_id: rank for rank, (mention_id, _, _) in enumerate(sorted_mentions)}
+
+        for curr_cluster in doc.clusters:
+            sorted_cluster = sorted(curr_cluster, key=lambda m_id: (doc.mentions[m_id].tokens[0].position_in_document,
+                                                                    doc.mentions[m_id].tokens[-1].position_in_document))
+
+            for m1_id, m2_id in zip(sorted_cluster, sorted_cluster[1:]):
+                # Distance 0 = mentions right next to eachother when ordered by position
+                rank_diff = mention_id_to_rank[m2_id] - mention_id_to_rank[m1_id] - 1
+
+                dist_between_mentions[rank_diff] = dist_between_mentions.get(rank_diff, 0) + 1
+
+        print("\nrazdalja_med_zaporednima_omenitvama_iste_entitete,frekvenca")
+        for curr_dist, num_mentions in sorted(dist_between_mentions.items(), key=lambda tup: tup[0]):
+            print(f"{curr_dist},{num_mentions}")
+
