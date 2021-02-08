@@ -10,7 +10,6 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from fasttext import load_model
-from torch.autograd import Variable
 
 from common import ControllerBase, NeuralCoreferencePairScorer
 from data import read_corpus, Document
@@ -97,6 +96,7 @@ class NoncontextualController(ControllerBase):
             pretrained_embs = None
 
         logging.info(f"embedding_type={embedding_type}, freeze={freeze_pretrained}")
+
         if embedding_type == "fastText":
             assert isinstance(pretrained_embs, str)
             self.embedder = FastTextEmbeddingBag(pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
@@ -111,6 +111,14 @@ class NoncontextualController(ControllerBase):
             self.embedder = nn.Embedding(num_embeddings=len(self.vocab), embedding_dim=eff_embedding_size).to(DEVICE)
         else:
             raise ValueError(f"'{embedding_type}' is not a valid embedding_type")
+
+        if embedding_type == "fastText":
+            # pass sequence (List[str]) directly to embedder
+            self.embed_sequence = lambda seq: self.embedder(seq).to(DEVICE)
+        else:
+            # encode sequence (List[str]), then pass it to embedder
+            self.embed_sequence = lambda seq: self.embedder(torch.tensor([self.vocab.get(i, self.vocab["<UNK>"])
+                                                                          for i in seq], device=DEVICE))
 
         self.scorer = NeuralCoreferencePairScorer(num_features=eff_embedding_size,
                                                   hidden_size=fc_hidden_size,
@@ -167,24 +175,12 @@ class NoncontextualController(ControllerBase):
             return {}, (0.0, 0)
 
         # Embed document tokens and a PAD token for use in coreference scorer.
-        if self.embedding_type == "fastText":
-            pad_embedding = self.embedder(["<PAD>"]).to(DEVICE)
-        else:
-            pad_embedding = self.embedder(torch.tensor([self.vocab["<PAD>"]], device=DEVICE))
+        pad_embedding = self.embed_sequence(["<PAD>"])
 
         encoded_doc = []  # list of num_sents x [num_tokens_in_sent, embedding_size] tensors
         for curr_sent in curr_doc.raw_sentences():
-            curr_encoded_sent = []
-            for curr_token in curr_sent:
-                if self.embedding_type == "fastText":
-                    curr_encoded_sent.append(curr_token.lower().strip())
-                else:
-                    curr_encoded_sent.append(self.vocab.get(curr_token.lower().strip(),
-                                                            self.vocab["<UNK>"]))
-            if self.embedding_type == "fastText":
-                encoded_doc.append(self.embedder(curr_encoded_sent).to(DEVICE))
-            else:
-                encoded_doc.append(self.embedder(torch.tensor(curr_encoded_sent, device=DEVICE)))
+            curr_processed_sent = list(map(lambda s: s.lower().strip(), curr_sent))
+            encoded_doc.append(self.embed_sequence(curr_processed_sent))
 
         cluster_sets = []
         mention_to_cluster_id = {}
