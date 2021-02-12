@@ -40,6 +40,13 @@ class ControllerBase:
         """ Should return the directory where models of this type should be saved. """
         raise NotImplementedError
 
+    @staticmethod
+    def from_pretrained(model_dir):
+        raise NotImplementedError
+
+    def save_pretrained(self, model_dir):
+        raise NotImplementedError
+
     def _prepare(self):
         if os.path.exists(self.path_model_dir):
             self.load_checkpoint()
@@ -77,7 +84,6 @@ class ControllerBase:
         for idx_epoch in range(epochs):
             t_epoch_start = time.time()
             shuffle_indices = torch.randperm(len(train_docs))
-            logging.info(f"Running epoch {idx_epoch + 1}/{epochs}")
 
             self.train_mode()
             train_loss, train_examples = 0.0, 0
@@ -97,18 +103,18 @@ class ControllerBase:
                 dev_loss += doc_loss
                 dev_examples += n_examples
 
-            logging.info(f"Training loss: {train_loss / max(1, train_examples): .4f}")
-            logging.info(f"Dev loss: {dev_loss / max(1, dev_examples): .4f}")
+            train_loss /= max(1, train_examples)
+            dev_loss /= max(1, dev_examples)
 
-            if (dev_loss / dev_examples) < best_dev_loss:
-                logging.info("Saving new best checkpoint")
+            logging.info(f"[Epoch #{1 + idx_epoch}] "
+                         f"training loss: {train_loss: .4f}, dev loss: {dev_loss: .4f} "
+                         f"[took {time.time() - t_epoch_start:.2f}s]")
+
+            if dev_loss < best_dev_loss:
                 self.save_checkpoint()
                 # Save this score as best
-                best_dev_loss = dev_loss / dev_examples
+                best_dev_loss = dev_loss
                 best_epoch = idx_epoch
-
-            logging.info(f"\tEpoch #{1 + idx_epoch} took {time.time() - t_epoch_start:.2f}s")
-            logging.info("")
 
             if idx_epoch - best_epoch == self.early_stopping_rounds:
                 logging.info(f"Validation metric did not improve for {self.early_stopping_rounds} rounds, "
@@ -125,6 +131,8 @@ class ControllerBase:
                 "Train model scores:\n",
                 f"Best validation set loss: {best_dev_loss}\n",
             ])
+
+        return best_dev_loss
 
     def evaluate(self, test_docs):
         # doc_name: <cluster assignments> pairs for all test documents
@@ -145,7 +153,6 @@ class ControllerBase:
         b3_score = metrics.Score()
         ceaf_score = metrics.Score()
 
-        logging.info("Evaluation with MUC, BCube and CEAF score...")
         for curr_doc in tqdm(test_docs):
 
             test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
@@ -174,12 +181,13 @@ class ControllerBase:
             b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
             ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
 
+        avg_score = metrics.conll_12(muc_score, b3_score, ceaf_score)
         logging.info(f"----------------------------------------------")
         logging.info(f"**Test scores**")
         logging.info(f"**MUC:      {muc_score}**")
         logging.info(f"**BCubed:   {b3_score}**")
         logging.info(f"**CEAFe:    {ceaf_score}**")
-        logging.info(f"**CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}**")
+        logging.info(f"**CoNLL-12: {avg_score}**")
         logging.info(f"----------------------------------------------")
 
         # Save test predictions and scores to file for further debugging
@@ -199,6 +207,13 @@ class ControllerBase:
                     f"Document '{doc_id}':\n",
                     str(clusters), "\n"
                 ])
+
+        return {
+            "muc": muc_score,
+            "b3": b3_score,
+            "ceafe": ceaf_score,
+            "avg": avg_score
+        }
 
     def visualize(self):
         build_and_display(self.path_pred_clusters, self.path_pred_scores, self.path_model_dir, display=False)
