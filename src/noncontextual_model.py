@@ -1,15 +1,17 @@
 import argparse
 import codecs
+import json
 import logging
 import os
 import time
-from typing import Union, Optional
+from typing import Optional, Mapping, Iterable, Dict
 
 import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
 from fasttext import load_model
+from sklearn.model_selection import KFold
 
 from common import ControllerBase, NeuralCoreferencePairScorer
 from data import read_corpus, Document
@@ -18,22 +20,22 @@ from utils import extract_vocab, split_into_sets, fixed_split
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default=None)
 
-parser.add_argument("--fc_hidden_size", type=int, default=150)
-parser.add_argument("--dropout", type=float, default=0.2)
+parser.add_argument("--fc_hidden_size", type=int, default=1024)
+parser.add_argument("--dropout", type=float, default=0.4)
 parser.add_argument("--learning_rate", type=float, default=0.001)
-parser.add_argument("--num_epochs", type=int, default=10)
+parser.add_argument("--num_epochs", type=int, default=30)
 
-parser.add_argument("--dataset", type=str, default="coref149")
-parser.add_argument("--max_vocab_size", type=int, default=10_000,
+parser.add_argument("--dataset", type=str, default="senticoref")
+parser.add_argument("--max_vocab_size", type=int, default=99_999,
                     help="Limit the maximum vocabulary size. Set to a high number if you don't want to limit it")
-parser.add_argument("--use_pretrained_embs", type=str, default=None, choices=["fastText", "word2vec", None],
+parser.add_argument("--use_pretrained_embs", type=str, default="word2vec", choices=["fastText", "word2vec", None],
                     help="Which (if any) pretrained embeddings to use")
 parser.add_argument("--embedding_path", type=str,
-                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/cc.sl.100.bin")
+                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/model.txt")
 parser.add_argument("--embedding_size", type=int, default=None,
                     help="Size of word embeddings. Required if --use_pretrained_embs is None")
 parser.add_argument("--freeze_pretrained", action="store_true")
-parser.add_argument("--random_seed", type=int, default=None)
+parser.add_argument("--random_seed", type=int, default=13)
 parser.add_argument("--fixed_split", action="store_true")
 
 
@@ -41,16 +43,13 @@ logging.basicConfig(level=logging.INFO)
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 
-# https://github.com/facebookresearch/fastText/blob/master/python/doc/examples/FastTextEmbeddingBag.py
 class FastTextEmbeddingBag(nn.EmbeddingBag):
-    def __init__(self, model_path, freeze=False):
-        self.model = load_model(model_path)
-        input_matrix = self.model.get_input_matrix()
-        input_matrix_shape = input_matrix.shape
-        super().__init__(input_matrix_shape[0], input_matrix_shape[1])
-        self.weight.data.copy_(torch.tensor(input_matrix, dtype=torch.float32, requires_grad=not freeze))
+    def __init__(self, weights: torch.Tensor, freeze=False):
+        super().__init__(weights.shape[0], weights.shape[1])
+        self.weight.data = weights
+        self.weight.data.requires_grad = not freeze
 
-    def forward(self, words):
+    def forward(self, words: Iterable[str]):
         word_subinds = np.empty([0], dtype=np.int64)
         word_offsets = [0]
         for word in words:
@@ -64,63 +63,87 @@ class FastTextEmbeddingBag(nn.EmbeddingBag):
 
 
 class NoncontextualController(ControllerBase):
-    def __init__(self, vocab,
-                 dropout,
-                 dataset_name,
+    def __init__(self, vocab: Mapping,
+                 dropout: float,
+                 dataset_name: str,
+                 fc_hidden_size: int = 150,
+                 learning_rate: float = 0.001,
+                 max_span_size: int = 10,
+                 num_embeddings: Optional[int] = None,
                  embedding_size: Optional[int] = None,
-                 fc_hidden_size=150,
-                 learning_rate=0.001,
-                 max_span_size=10,
                  embedding_type: Optional[str] = None,
-                 pretrained_embs: Optional[Union[str, torch.Tensor]] = None,
+                 pretrained_embs: Optional[torch.Tensor] = None,
                  freeze_pretrained: bool = False,
                  model_name: Optional[str] = None):
+        """
+        Parameters
+        ----------
+        vocab:
+            Mapping from tokens (str) to IDs (int)
+        dropout:
+            Probability of dropout
+        dataset_name:
+            Used dataset for training/evaluation.
+        fc_hidden_size:
+            Size of the hidden layers in coreference scorer
+        learning_rate:
+            Learning rate used to train the model
+        max_span_size:
+            Span size, which all spans are padded/truncated to
+        num_embeddings:
+            The first dimension of embedding matrix. Set this explicitly if you want to initialize an embedding matrix
+            larger than the vocabulary size
+        embedding_size:
+            The second dimension of embedding matrix. Only required if 'pretrained_embs' is None
+        embedding_type:
+            Type of embeddings used, either 'fastText', 'word2vec' or None (from scratch)
+        pretrained_embs:
+            Pretrained embeddings to be loaded into embedding module
+        freeze_pretrained:
+            Whether to keep embeddings frozen or not
+        model_name:
+            Name given to the model. If not given, constructed from current timestamp
+        """
         effective_model_name = time.strftime("%Y%m%d_%H%M%S") if model_name is None else model_name
         self.path_model_dir = os.path.join(self.model_base_dir, effective_model_name)
 
-        self.vocab_path = os.path.join(self.path_model_dir, "vocab.txt")
         self.vocab = vocab
+        self.dropout = dropout
+        self.fc_hidden_size = fc_hidden_size
         self.max_span_size = max_span_size
         self.embedding_type = embedding_type
+        self.freeze_pretrained = freeze_pretrained
+
+        eff_num_embeddings = num_embeddings if num_embeddings is not None else len(self.vocab)
         eff_embedding_size = embedding_size
 
-        if os.path.exists(self.vocab_path):
-            logging.info("Provided embeddings will be ignored, because they will be loaded from pretrained model's "
-                         "directory...")
-            with open(self.vocab_path, "r") as f_vocab:
-                self.vocab = {token.strip(): i for i, token in enumerate(f_vocab)}
-            # Make it so that a random embedding layer gets created, then later load the weights from checkpoint
-            # TODO: autoload from config?
+        if pretrained_embs is None:
             if embedding_size is None:
-                raise ValueError("'embedding_size' must not be None when loading existing model")
-            pretrained_embs = None
-
-        logging.info(f"embedding_type={embedding_type}, freeze={freeze_pretrained}")
+                raise ValueError("'embedding_size' is required if pretrained embeddings are not provided")
+            # Randomly initialize embeddings
+            eff_pretrained_embs = torch.zeros((eff_num_embeddings, eff_embedding_size), dtype=torch.float32)
+        else:
+            eff_pretrained_embs = pretrained_embs
 
         if embedding_type == "fastText":
-            assert isinstance(pretrained_embs, str)
-            self.embedder = FastTextEmbeddingBag(pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
-            eff_embedding_size = self.embedder.embedding_dim
-        elif embedding_type == "word2vec":
-            assert isinstance(pretrained_embs, torch.Tensor)
-            eff_embedding_size = pretrained_embs.shape[1]
-
-            self.embedder = nn.Embedding.from_pretrained(pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
-        elif embedding_type is None:
-            logging.info(f"Initializing random embeddings as no pretrained embeddings were given")
-            self.embedder = nn.Embedding(num_embeddings=len(self.vocab), embedding_dim=eff_embedding_size).to(DEVICE)
+            self.embedder = FastTextEmbeddingBag(weights=eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
+        elif embedding_type in ["word2vec", None]:
+            self.embedder = nn.Embedding.from_pretrained(eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
         else:
             raise ValueError(f"'{embedding_type}' is not a valid embedding_type")
 
         if embedding_type == "fastText":
-            # pass sequence (List[str]) directly to embedder
+            # pass sequence (List[str]) directly to embedder as it internally splits words into subwords
             self.embed_sequence = lambda seq: self.embedder(seq).to(DEVICE)
         else:
-            # encode sequence (List[str]), then pass it to embedder
+            # encode sequence (List[int]), then pass it to embedder
             self.embed_sequence = lambda seq: self.embedder(torch.tensor([self.vocab.get(i, self.vocab["<UNK>"])
                                                                           for i in seq], device=DEVICE))
 
-        self.scorer = NeuralCoreferencePairScorer(num_features=eff_embedding_size,
+        self.num_embeddings = self.embedder.num_embeddings
+        self.embedding_size = self.embedder.embedding_dim
+
+        self.scorer = NeuralCoreferencePairScorer(num_features=self.embedding_size,
                                                   hidden_size=fc_hidden_size,
                                                   dropout=dropout).to(DEVICE)
         self.optimizer = optim.Adam(self.scorer.parameters() if freeze_pretrained else
@@ -128,12 +151,56 @@ class NoncontextualController(ControllerBase):
                                     lr=learning_rate)
 
         super().__init__(learning_rate=learning_rate, dataset_name=dataset_name, model_name=effective_model_name)
-        logging.info(f"Initialized non-contextual model with name {self.model_name}.")
 
-        with open(self.vocab_path, "w", encoding="utf-8") as f_vocab:
-            # Write vocabulary by ascending token ID (assuming indexing from 0 to (|V| - 1))
-            for token, _ in sorted(self.vocab.items(), key=lambda tup: tup[1]):
-                print(token, file=f_vocab)
+    @staticmethod
+    def from_pretrained(model_dir):
+        vocab_path = os.path.join(model_dir, "vocab.txt")
+        with open(vocab_path, "r") as f_vocab:
+            pre_tok2id = {token.strip(): i for i, token in enumerate(f_vocab)}
+
+        controller_config_path = os.path.join(model_dir, "controller_config.json")
+        with open(controller_config_path, "r") as f_config:
+            pre_config = json.load(f_config)
+
+        # Initialize embeddings randomly, load them later with load_state_dict
+        pre_config["pretrained_embs"] = None
+
+        instance = NoncontextualController(vocab=pre_tok2id,
+                                           **pre_config)
+        # Load the proper module states from files
+        instance.load_checkpoint()
+
+        return instance
+
+    def save_pretrained(self, model_dir):
+        # Write vocabulary by ascending token ID, writing down gap tokens as `[unused<i>]`
+        vocab_path = os.path.join(model_dir, "vocab.txt")
+        with open(vocab_path, "w", encoding="utf-8") as f_vocab:
+            id2tok = {idx: token for token, idx in self.vocab.items()}
+            max_idx = max(list(id2tok.keys()))
+
+            for idx in range(max_idx + 1):
+                print(id2tok.get(idx, f"[unused{idx}]"), file=f_vocab)
+
+        # Write controller config (used for instantiation)
+        controller_config_path = os.path.join(model_dir, "controller_config.json")
+        with open(controller_config_path, "w", encoding="utf-8") as f_config:
+            json.dump({
+                "model_name": self.model_name,
+                "dropout": self.dropout,
+                "dataset_name": self.dataset_name,
+                "embedding_type": self.embedding_type,
+                "num_embeddings": self.num_embeddings,
+                "embedding_size": self.embedding_size,
+                "fc_hidden_size": self.fc_hidden_size,
+                "learning_rate": self.learning_rate,
+                "max_span_size": self.max_span_size,
+                "freeze_pretrained": self.freeze_pretrained
+            }, fp=f_config, indent=4)
+
+        # Write weights (module state)
+        torch.save(self.embedder.state_dict(), os.path.join(model_dir, "embeddings.th"))
+        torch.save(self.scorer.state_dict(), os.path.join(model_dir, "scorer.th"))
 
     @property
     def model_base_dir(self):
@@ -148,24 +215,98 @@ class NoncontextualController(ControllerBase):
         self.scorer.eval()
 
     def load_checkpoint(self):
-        logging.info(f"Directory '{self.path_model_dir}' already exists.")
-        path_to_model = os.path.join(self.path_model_dir, "best_scorer.th")
-        path_to_embeddings = os.path.join(self.path_model_dir, "best_embs.th")
+        """ Handles loading of weights for instantiated modules. """
+        path_to_scorer = os.path.join(self.path_model_dir, "scorer.th")
+        path_to_embeddings = os.path.join(self.path_model_dir, "embeddings.th")
 
-        if os.path.isfile(path_to_model):
-            logging.info(f"Model with name '{self.model_name}' already exists. Loading model...")
-            self.scorer.load_state_dict(torch.load(path_to_model, map_location=DEVICE))
-            self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
-
-            logging.info(f"Model with name '{self.model_name}' loaded.")
-            self.loaded_from_file = True
-        else:
-            logging.info(f"Existing weights were not found at {path_to_model}. Using random initialization...")
+        self.scorer.load_state_dict(torch.load(path_to_scorer, map_location=DEVICE))
+        self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
+        self.loaded_from_file = True
 
     def save_checkpoint(self):
-        logging.info(f"\tSaving new best model to '{self.path_model_dir}'")
-        torch.save(self.embedder.state_dict(), os.path.join(self.path_model_dir, "best_embs.th"))
-        torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, "best_scorer.th"))
+        logging.warning("save_checkpoint() is deprecated. Use save_pretrained() instead")
+        self.save_pretrained(self.path_model_dir)
+
+    def _prepare_doc(self, curr_doc: Document) -> Dict:
+        """ Returns a cache dictionary with preprocessed data. This should only be called once per document, since
+        data inside same document does not get shuffled. """
+        ret = {}
+
+        #
+        print(f"Document {curr_doc.doc_id}")
+        for sent in curr_doc.raw_sentences():
+            print(sent)
+        #
+
+        preprocessed_sents, max_len = [], 0
+        for curr_sent in curr_doc.raw_sentences():
+            curr_processed_sent = list(map(lambda s: s.lower().strip(), curr_sent)) + ["<PAD>"]
+            preprocessed_sents.append(curr_processed_sent)
+            if len(curr_processed_sent) > max_len:
+                max_len = len(curr_processed_sent)
+
+        for i in range(len(preprocessed_sents)):
+            preprocessed_sents[i].extend(["<PAD>"] * (max_len - len(preprocessed_sents[i])))
+
+        cluster_sets = []
+        mention_to_cluster_id = {}
+        for i, curr_cluster in enumerate(curr_doc.clusters):
+            cluster_sets.append(set(curr_cluster))
+            for mid in curr_cluster:
+                mention_to_cluster_id[mid] = i
+
+        all_candidate_data = []
+        for idx_head, (head_id, head_mention) in enumerate(curr_doc.mentions.items(), start=1):
+            gt_antecedent_ids = cluster_sets[mention_to_cluster_id[head_id]]
+
+            # Note: no data for dummy antecedent (len(`features`) is one less than `candidates`)
+            candidates, candidate_data = [None], []
+            starts, ends = [], []
+            correct_antecedents = []
+
+            for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), start=1):
+                if idx_candidate >= idx_head:
+                    break
+
+                candidates.append(cand_id)
+
+                # Maps tokens to positions inside document (idx_sent, idx_inside_sent) for efficient indexing later
+                curr_candidate_data = [[], []]
+                for curr_token in cand_mention.tokens:
+                    curr_candidate_data[0].append(curr_token.sentence_index)
+                    curr_candidate_data[1].append(curr_token.position_in_sentence)
+
+                num_tokens = len(cand_mention.tokens)
+                if num_tokens > self.max_span_size:
+                    curr_candidate_data[0] = curr_candidate_data[0][:self.max_span_size]
+                    curr_candidate_data[1] = curr_candidate_data[1][:self.max_span_size]
+                else:
+                    curr_candidate_data[0] += [cand_mention.tokens[0].sentence_index] * (self.max_span_size - num_tokens)
+                    curr_candidate_data[1] += [-1] * (self.max_span_size - num_tokens)
+
+                candidate_data.append(curr_candidate_data)
+                starts.append(0)
+                ends.append(num_tokens)
+
+                is_coreferent = cand_id in gt_antecedent_ids
+                if is_coreferent:
+                    correct_antecedents.append(idx_candidate)
+
+            if len(correct_antecedents) == 0:
+                correct_antecedents.append(0)
+
+            all_candidate_data.append({
+                "candidates": candidates,
+                "candidate_data": torch.tensor(candidate_data),
+                "mention_starts": starts,
+                "mention_ends": ends,
+                "correct_antecedents": correct_antecedents
+            })
+
+        ret["preprocessed_sents"] = preprocessed_sents
+        ret["all_candidate_data"] = all_candidate_data
+
+        return ret
 
     def _train_doc(self, curr_doc: Document, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
@@ -173,6 +314,9 @@ class NoncontextualController(ControllerBase):
 
         if len(curr_doc.mentions) == 0:
             return {}, (0.0, 0)
+
+        if not hasattr(curr_doc, "_cache_noncontextual"):
+            curr_doc._cache = self._prepare_doc(curr_doc)
 
         # Embed document tokens and a PAD token for use in coreference scorer.
         pad_embedding = self.embed_sequence(["<PAD>"])
@@ -273,13 +417,8 @@ if __name__ == "__main__":
         np.random.seed(args.random_seed)
 
     documents = read_corpus(args.dataset)
-    if args.fixed_split:
-        logging.info("Using fixed dataset split")
-        train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
-    else:
-        train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
-    tok2id, id2tok = extract_vocab(train_docs, lowercase=True, top_n=args.max_vocab_size)
-    logging.info(f"Vocabulary size: {len(tok2id)} tokens")
+    all_tok2id, _ = extract_vocab(documents, lowercase=True, top_n=10**9)
+    logging.info(f"Total vocabulary size: {len(all_tok2id)} tokens")
 
     pretrained_embs = None
     embedding_size = args.embedding_size
@@ -294,29 +433,85 @@ if __name__ == "__main__":
                 stripped_line = line.strip().split(" ")
                 embs[stripped_line[0]] = list(map(lambda num: float(num), stripped_line[1:]))
 
-        pretrained_embs = torch.rand((len(tok2id), embedding_size))
-        for curr_token, curr_id in tok2id.items():
+        pretrained_embs = torch.rand((len(all_tok2id), embedding_size))
+        for curr_token, curr_id in all_tok2id.items():
             # leave out-of-vocab token embeddings as random [0, 1) vectors
             pretrained_embs[curr_id, :] = torch.tensor(embs.get(curr_token.lower(), pretrained_embs[curr_id, :]),
                                                        device=DEVICE)
     elif args.use_pretrained_embs == "fastText":
-        pretrained_embs = args.embedding_path
+        model = load_model(args.embedding_path)
+        pretrained_embs = torch.from_numpy(model.get_input_matrix())
+    else:
+        assert args.embedding_size is not None
 
-    model = NoncontextualController(model_name=args.model_name,
-                                    vocab=tok2id,
-                                    embedding_size=embedding_size,
-                                    dropout=args.dropout,
-                                    fc_hidden_size=args.fc_hidden_size,
-                                    learning_rate=args.learning_rate,
-                                    embedding_type=args.use_pretrained_embs,
-                                    pretrained_embs=pretrained_embs,
-                                    freeze_pretrained=args.freeze_pretrained,
-                                    dataset_name=args.dataset)
-    if not model.loaded_from_file:
+    def create_model_instance(model_name, **override_kwargs):
+        return NoncontextualController(model_name=model_name,
+                                       vocab=override_kwargs.get("tok2id", all_tok2id),
+                                       embedding_size=override_kwargs.get("embedding_size", embedding_size),
+                                       dropout=override_kwargs.get("dropout", args.dropout),
+                                       fc_hidden_size=override_kwargs.get("fc_hidden_size", args.fc_hidden_size),
+                                       learning_rate=override_kwargs.get("learning_rate", args.learning_rate),
+                                       embedding_type=override_kwargs.get("use_pretrained_embs", args.use_pretrained_embs),
+                                       pretrained_embs=override_kwargs.get("pretrained_embs", pretrained_embs.clone()),
+                                       freeze_pretrained=override_kwargs.get("freeze_pretrained", args.freeze_pretrained),
+                                       dataset_name=override_kwargs.get("dataset", args.dataset))
+
+    # Train model
+    if args.dataset == "coref149":
+        INNER_K, OUTER_K = 3, 5
+        logging.info(f"Performing {OUTER_K}-fold (outer) and {INNER_K}-fold (inner) CV...")
+        test_metrics = {"muc_p": [], "muc_r": [], "muc_f1": [],
+                        "b3_p": [], "b3_r": [], "b3_f1": [],
+                        "ceafe_p": [], "ceafe_r": [], "ceafe_f1": [],
+                        "avg_p": [], "avg_r": [], "avg_f1": []}
+
+        for idx_outer_fold, (train_dev_index, test_index) in enumerate(KFold(n_splits=OUTER_K, shuffle=True).split(documents)):
+            curr_train_dev_docs = [documents[_i] for _i in train_dev_index]
+            curr_test_docs = [documents[_i] for _i in test_index]
+            curr_tok2id, _ = extract_vocab(curr_train_dev_docs, lowercase=True, top_n=args.max_vocab_size)
+            curr_tok2id = {tok: all_tok2id[tok] for tok in curr_tok2id}
+            logging.info(f"Fold#{idx_outer_fold} vocabulary size: {len(curr_tok2id)} tokens")
+
+            best_metric, best_name = float("inf"), None
+            for idx_inner_fold, (train_index, dev_index) in enumerate(KFold(n_splits=INNER_K).split(curr_train_dev_docs)):
+                curr_train_docs = [curr_train_dev_docs[_i] for _i in train_index]
+                curr_dev_docs = [curr_train_dev_docs[_i] for _i in dev_index]
+
+                curr_model = create_model_instance(
+                    model_name=f"fold{idx_outer_fold}_{idx_inner_fold}"
+                )
+                dev_loss = curr_model.train(epochs=args.num_epochs, train_docs=curr_train_docs, dev_docs=curr_dev_docs)
+                logging.info(f"Fold {idx_outer_fold}-{idx_inner_fold}: {dev_loss: .5f}")
+                if dev_loss < best_metric:
+                    best_metric = dev_loss
+                    best_name = curr_model.path_model_dir
+
+            logging.info(f"Best model: {best_name}, best loss: {best_metric: .5f}")
+            curr_model = NoncontextualController.from_pretrained(best_name)
+            curr_test_metrics = curr_model.evaluate(curr_test_docs)
+            curr_model.visualize()
+            for metric, metric_value in curr_test_metrics.items():
+                test_metrics[f"{metric}_p"].append(float(metric_value.precision()))
+                test_metrics[f"{metric}_r"].append(float(metric_value.recall()))
+                test_metrics[f"{metric}_f1"].append(float(metric_value.f1()))
+
+        logging.info(f"Final scores (over {OUTER_K} folds)")
+        for metric, metric_values in test_metrics.items():
+            logging.info(f"- {metric}: mean={np.mean(metric_values): .4f} +- sd={np.std(metric_values): .4f} ")
+    else:
+        logging.info(f"Using single train/dev/test split...")
+        if args.fixed_split:
+            logging.info("Using fixed dataset split")
+            train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
+        else:
+            train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15,
+                                                              test_prop=0.15)
+
+        model = create_model_instance(args.model_name)
         model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
         # Reload best checkpoint
-        model._prepare()
+        model = NoncontextualController.from_pretrained(model.path_model_dir)
 
-    model.evaluate(test_docs)
-    model.visualize()
+        model.evaluate(test_docs)
+        model.visualize()
 
