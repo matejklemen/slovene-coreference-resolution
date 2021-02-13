@@ -134,6 +134,7 @@ class ControllerBase:
 
         return best_dev_loss
 
+    @torch.no_grad()
     def evaluate(self, test_docs):
         # doc_name: <cluster assignments> pairs for all test documents
         logging.info("Evaluating...")
