@@ -31,7 +31,7 @@ parser.add_argument("--max_vocab_size", type=int, default=99_999,
 parser.add_argument("--use_pretrained_embs", type=str, default="word2vec", choices=["fastText", "word2vec", None],
                     help="Which (if any) pretrained embeddings to use")
 parser.add_argument("--embedding_path", type=str,
-                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/model.txt")
+                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/word2vec_slo300d.txt")
 parser.add_argument("--embedding_size", type=int, default=None,
                     help="Size of word embeddings. Required if --use_pretrained_embs is None")
 parser.add_argument("--freeze_pretrained", action="store_true")
@@ -120,8 +120,9 @@ class NoncontextualController(ControllerBase):
         if pretrained_embs is None:
             if embedding_size is None:
                 raise ValueError("'embedding_size' is required if pretrained embeddings are not provided")
-            # Randomly initialize embeddings
-            eff_pretrained_embs = torch.zeros((eff_num_embeddings, eff_embedding_size), dtype=torch.float32)
+            # Randomly initialize embeddings in [-0.001, 0.001]
+            eff_pretrained_embs = -0.001 + (0.001 - (-0.001)) / (1.0 - 0.0) * \
+                                  torch.rand((eff_num_embeddings, eff_embedding_size), dtype=torch.float32)
         else:
             eff_pretrained_embs = pretrained_embs
 
@@ -232,12 +233,6 @@ class NoncontextualController(ControllerBase):
         data inside same document does not get shuffled. """
         ret = {}
 
-        #
-        print(f"Document {curr_doc.doc_id}")
-        for sent in curr_doc.raw_sentences():
-            print(sent)
-        #
-
         preprocessed_sents, max_len = [], 0
         for curr_sent in curr_doc.raw_sentences():
             curr_processed_sent = list(map(lambda s: s.lower().strip(), curr_sent)) + ["<PAD>"]
@@ -263,6 +258,22 @@ class NoncontextualController(ControllerBase):
             candidates, candidate_data = [None], []
             starts, ends = [], []
             correct_antecedents = []
+
+            curr_head_data = [[], []]
+            for curr_token in head_mention.tokens:
+                curr_head_data[0].append(curr_token.sentence_index)
+                curr_head_data[1].append(curr_token.position_in_sentence)
+
+            num_tokens = len(head_mention.tokens)
+            if num_tokens > self.max_span_size:
+                curr_head_data[0] = curr_head_data[0][:self.max_span_size]
+                curr_head_data[1] = curr_head_data[1][:self.max_span_size]
+            else:
+                curr_head_data[0] += [head_mention.tokens[0].sentence_index] * (self.max_span_size - num_tokens)
+                curr_head_data[1] += [-1] * (self.max_span_size - num_tokens)
+
+            head_start = 0
+            head_end = num_tokens
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), start=1):
                 if idx_candidate >= idx_head:
@@ -296,6 +307,10 @@ class NoncontextualController(ControllerBase):
                 correct_antecedents.append(0)
 
             all_candidate_data.append({
+                "head_id": head_id,
+                "head_data": torch.tensor([curr_head_data]),
+                "head_start": head_start,
+                "head_end": head_end,
                 "candidates": candidates,
                 "candidate_data": torch.tensor(candidate_data),
                 "mention_starts": starts,
@@ -304,7 +319,7 @@ class NoncontextualController(ControllerBase):
             })
 
         ret["preprocessed_sents"] = preprocessed_sents
-        ret["all_candidate_data"] = all_candidate_data
+        ret["steps"] = all_candidate_data
 
         return ret
 
@@ -315,91 +330,54 @@ class NoncontextualController(ControllerBase):
         if len(curr_doc.mentions) == 0:
             return {}, (0.0, 0)
 
-        if not hasattr(curr_doc, "_cache_noncontextual"):
-            curr_doc._cache = self._prepare_doc(curr_doc)
+        if not hasattr(curr_doc, "_cache_nc"):
+            curr_doc._cache_nc = self._prepare_doc(curr_doc)
+        cache = curr_doc._cache_nc  # type: dict
 
-        # Embed document tokens and a PAD token for use in coreference scorer.
-        pad_embedding = self.embed_sequence(["<PAD>"])
+        embedded_doc = []
+        for curr_sent in cache["preprocessed_sents"]:
+            embedded_doc.append(self.embed_sequence(curr_sent))
+        embedded_doc = torch.stack(embedded_doc)  # [num_sents, max_tokens_in_any_sent + 1, embedding_size]
 
-        encoded_doc = []  # list of num_sents x [num_tokens_in_sent, embedding_size] tensors
-        for curr_sent in curr_doc.raw_sentences():
-            curr_processed_sent = list(map(lambda s: s.lower().strip(), curr_sent))
-            encoded_doc.append(self.embed_sequence(curr_processed_sent))
-
-        cluster_sets = []
-        mention_to_cluster_id = {}
-        for i, curr_cluster in enumerate(curr_doc.clusters):
-            cluster_sets.append(set(curr_cluster))
-            for mid in curr_cluster:
-                mention_to_cluster_id[mid] = i
-
-        doc_loss, n_examples = 0.0, 0
+        doc_loss, n_examples = 0.0, len(cache["steps"])
         preds = {}
 
-        for idx_head, (head_id, head_mention) in enumerate(curr_doc.mentions.items(), 1):
-            logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
+        for curr_step in cache["steps"]:
+            head_id = curr_step["head_id"]
+            head_data = curr_step["head_data"]
+            head_start, head_end = curr_step["head_start"], curr_step["head_end"]
 
-            gt_antecedent_ids = cluster_sets[mention_to_cluster_id[head_id]]
+            candidates = curr_step["candidates"]
+            candidate_data = curr_step["candidate_data"]
+            correct_antecedents = curr_step["correct_antecedents"]
 
-            # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
-            candidates, encoded_candidates = [None], []
-            gt_antecedents = []
+            # Note: num_candidates includes dummy antecedent + actual candidates
+            num_candidates = len(candidates)
+            if num_candidates == 1:
+                curr_pred = 0
+            else:
+                idx_sent = candidate_data[:, 0, :]
+                idx_in_sent = candidate_data[:, 1, :]
 
-            head_features = [encoded_doc[curr_token.sentence_index][curr_token.position_in_sentence]
-                             for curr_token in head_mention.tokens]
-            head_features = torch.stack(head_features, dim=0).unsqueeze(0)  # shape: [1, num_tokens, embedding_size]
+                # [num_candidates, max_span_size, embedding_size]
+                candidate_data = embedded_doc[idx_sent, idx_in_sent]
+                # [1, head_size, embedding_size]
+                head_data = embedded_doc[head_data[:, 0, head_start: head_end], head_data[:, 1, head_start: head_end]]
+                head_data = head_data.repeat((num_candidates - 1, 1, 1))
 
-            for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
-                if cand_id != head_id and cand_id in gt_antecedent_ids:
-                    gt_antecedents.append(idx_candidate)
+                candidate_scores = self.scorer(candidate_data, head_data)
+                # [1, num_candidates]
+                candidate_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
+                                              candidate_scores.flatten())).unsqueeze(0)
 
-                # Obtain scores for candidates and select best one as antecedent
-                if idx_candidate == idx_head:
-                    if len(encoded_candidates) > 0:
-                        encoded_candidates = torch.stack(encoded_candidates, dim=0)  # shape: [num_candidates, self.max_span_size, embedding_size]
-                        head_features = torch.repeat_interleave(head_features, repeats=encoded_candidates.shape[0],
-                                                                dim=0)  # shape: [num_candidates, num_tokens, embedding_size]
+                curr_pred = torch.argmax(candidate_scores)
+                doc_loss += self.loss(candidate_scores.repeat((len(correct_antecedents), 1)),
+                                      torch.tensor(correct_antecedents, device=DEVICE))
 
-                        cand_scores = self.scorer(encoded_candidates, head_features)  # shape: [num_candidates - 1, 1]
-                        cand_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
-                                                 cand_scores.flatten())).unsqueeze(0)  # shape: [1, num_candidates]
-
-                        # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
-                        if len(gt_antecedents) == 0:
-                            gt_antecedents.append(0)
-
-                        curr_pred = torch.argmax(cand_scores)
-                        # (average) loss over all ground truth antecedents
-                        doc_loss += self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
-                                              torch.tensor(gt_antecedents, device=DEVICE))
-
-                        n_examples += 1
-                    else:
-                        # Only one candidate antecedent = first mention
-                        curr_pred = 0
-
-                    # { antecedent: [mention(s)] } pair
-                    existing_refs = preds.get(candidates[int(curr_pred)], [])
-                    existing_refs.append(head_id)
-                    preds[candidates[int(curr_pred)]] = existing_refs
-                    break
-                else:
-                    # Add current mention as candidate
-                    candidates.append(cand_id)
-                    mention_features = torch.stack(
-                        [encoded_doc[curr_token.sentence_index][curr_token.position_in_sentence]
-                         for curr_token in cand_mention.tokens], dim=0)  # shape: [num_tokens, embedding_size]
-
-                    num_tokens, num_features = mention_features.shape
-                    # Pad/truncate current span to have `self.max_span_size` tokens
-                    if num_tokens > self.max_span_size:
-                        mention_features = mention_features[: self.max_span_size]
-                    else:
-                        pad_amt = self.max_span_size - num_tokens
-                        mention_features = torch.cat((mention_features,
-                                                      torch.repeat_interleave(pad_embedding, repeats=pad_amt, dim=0)))
-
-                    encoded_candidates.append(mention_features)
+            # { antecedent: [mention(s)] } pair
+            existing_refs = preds.get(candidates[int(curr_pred)], [])
+            existing_refs.append(head_id)
+            preds[candidates[int(curr_pred)]] = existing_refs
 
         if not eval_mode:
             doc_loss.backward()
