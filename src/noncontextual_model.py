@@ -116,6 +116,7 @@ class NoncontextualController(ControllerBase):
         self.max_span_size = max_span_size
         self.embedding_type = embedding_type
         self.freeze_pretrained = freeze_pretrained
+        self.embeddings_path = None  # None or points to pretrained fastText
 
         eff_num_embeddings = num_embeddings if num_embeddings is not None else len(self.vocab)
         eff_embedding_size = embedding_size
@@ -130,6 +131,7 @@ class NoncontextualController(ControllerBase):
             eff_pretrained_embs = pretrained_embs
 
         if embedding_type == "fastText":
+            self.embeddings_path = eff_pretrained_embs
             self.embedder = FastTextEmbeddingBag(model_path=eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
         elif embedding_type in ["word2vec", None]:
             self.embedder = nn.Embedding.from_pretrained(eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
@@ -166,12 +168,6 @@ class NoncontextualController(ControllerBase):
         with open(controller_config_path, "r") as f_config:
             pre_config = json.load(f_config)
 
-        if pre_config["embedding_type"] == "fastText":
-            pre_config["pretrained_embs"] = os.path.join(model_dir, f"embeddings.bin")
-        else:
-            # Initialize embeddings randomly, load them later with load_state_dict
-            pre_config["pretrained_embs"] = None
-
         instance = NoncontextualController(vocab=pre_tok2id,
                                            **pre_config)
         # Load the proper module states from files
@@ -199,6 +195,7 @@ class NoncontextualController(ControllerBase):
                 "embedding_type": self.embedding_type,
                 "num_embeddings": self.num_embeddings,
                 "embedding_size": self.embedding_size,
+                "pretrained_embs": self.embeddings_path,
                 "fc_hidden_size": self.fc_hidden_size,
                 "learning_rate": self.learning_rate,
                 "max_span_size": self.max_span_size,
@@ -206,13 +203,7 @@ class NoncontextualController(ControllerBase):
             }, fp=f_config, indent=4)
 
         # Write weights (module state)
-        if self.embedding_type == "fastText":
-            embedder = self.embedder  # type: FastTextEmbeddingBag
-            embedder.model.set_matrices(embedder.weight.data.detach().cpu().numpy(),
-                                        embedder.model.get_output_matrix())
-            embedder.model.save_model(os.path.join(model_dir, f"embeddings.bin"))
-        else:
-            torch.save(self.embedder.state_dict(), os.path.join(model_dir, "embeddings.th"))
+        torch.save(self.embedder.state_dict(), os.path.join(model_dir, "embeddings.th"))
         torch.save(self.scorer.state_dict(), os.path.join(model_dir, "scorer.th"))
 
     @property
@@ -233,10 +224,7 @@ class NoncontextualController(ControllerBase):
         path_to_embeddings = os.path.join(self.path_model_dir, "embeddings.th")
 
         self.scorer.load_state_dict(torch.load(path_to_scorer, map_location=DEVICE))
-
-        # For fastText, the whole model needs to be loaded at instantiation of controller (handled in from_pretrained)
-        if self.embedding_type != "fastText":
-            self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
+        self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
         self.loaded_from_file = True
 
     def save_checkpoint(self):
