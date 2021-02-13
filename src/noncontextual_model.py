@@ -4,7 +4,7 @@ import json
 import logging
 import os
 import time
-from typing import Optional, Mapping, Iterable, Dict
+from typing import Optional, Mapping, Iterable, Dict, Union
 
 import numpy as np
 import torch
@@ -18,7 +18,7 @@ from data import read_corpus, Document
 from utils import extract_vocab, split_into_sets, fixed_split
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--model_name", type=str, default=None)
+parser.add_argument("--model_name", type=str, default="debug")
 
 parser.add_argument("--fc_hidden_size", type=int, default=1024)
 parser.add_argument("--dropout", type=float, default=0.4)
@@ -26,12 +26,12 @@ parser.add_argument("--learning_rate", type=float, default=0.001)
 parser.add_argument("--num_epochs", type=int, default=30)
 
 parser.add_argument("--dataset", type=str, default="senticoref")
-parser.add_argument("--max_vocab_size", type=int, default=99_999,
+parser.add_argument("--max_vocab_size", type=int, default=9_999_999,
                     help="Limit the maximum vocabulary size. Set to a high number if you don't want to limit it")
-parser.add_argument("--use_pretrained_embs", type=str, default="word2vec", choices=["fastText", "word2vec", None],
+parser.add_argument("--use_pretrained_embs", type=str, default="fastText", choices=["fastText", "word2vec", None],
                     help="Which (if any) pretrained embeddings to use")
 parser.add_argument("--embedding_path", type=str,
-                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/word2vec_slo300d.txt")
+                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/cc.sl.100.bin")
 parser.add_argument("--embedding_size", type=int, default=None,
                     help="Size of word embeddings. Required if --use_pretrained_embs is None")
 parser.add_argument("--freeze_pretrained", action="store_true")
@@ -44,10 +44,12 @@ DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cp
 
 
 class FastTextEmbeddingBag(nn.EmbeddingBag):
-    def __init__(self, weights: torch.Tensor, freeze=False):
-        super().__init__(weights.shape[0], weights.shape[1])
-        self.weight.data = weights
-        self.weight.data.requires_grad = not freeze
+    def __init__(self, model_path, freeze=False):
+        self.model = load_model(model_path)
+        input_matrix = self.model.get_input_matrix()
+        input_matrix_shape = input_matrix.shape
+        super().__init__(input_matrix_shape[0], input_matrix_shape[1])
+        self.weight.data.copy_(torch.tensor(input_matrix, dtype=torch.float32, requires_grad=not freeze))
 
     def forward(self, words: Iterable[str]):
         word_subinds = np.empty([0], dtype=np.int64)
@@ -72,7 +74,7 @@ class NoncontextualController(ControllerBase):
                  num_embeddings: Optional[int] = None,
                  embedding_size: Optional[int] = None,
                  embedding_type: Optional[str] = None,
-                 pretrained_embs: Optional[torch.Tensor] = None,
+                 pretrained_embs: Optional[Union[str, torch.Tensor]] = None,
                  freeze_pretrained: bool = False,
                  model_name: Optional[str] = None):
         """
@@ -98,7 +100,8 @@ class NoncontextualController(ControllerBase):
         embedding_type:
             Type of embeddings used, either 'fastText', 'word2vec' or None (from scratch)
         pretrained_embs:
-            Pretrained embeddings to be loaded into embedding module
+            Pretrained embeddings to be loaded into embedding module. If using fastText embeddings, should be the path
+            to a fastText model.
         freeze_pretrained:
             Whether to keep embeddings frozen or not
         model_name:
@@ -127,7 +130,7 @@ class NoncontextualController(ControllerBase):
             eff_pretrained_embs = pretrained_embs
 
         if embedding_type == "fastText":
-            self.embedder = FastTextEmbeddingBag(weights=eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
+            self.embedder = FastTextEmbeddingBag(model_path=eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
         elif embedding_type in ["word2vec", None]:
             self.embedder = nn.Embedding.from_pretrained(eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
         else:
@@ -163,8 +166,11 @@ class NoncontextualController(ControllerBase):
         with open(controller_config_path, "r") as f_config:
             pre_config = json.load(f_config)
 
-        # Initialize embeddings randomly, load them later with load_state_dict
-        pre_config["pretrained_embs"] = None
+        if pre_config["embedding_type"] == "fastText":
+            pre_config["pretrained_embs"] = os.path.join(model_dir, f"embeddings.bin")
+        else:
+            # Initialize embeddings randomly, load them later with load_state_dict
+            pre_config["pretrained_embs"] = None
 
         instance = NoncontextualController(vocab=pre_tok2id,
                                            **pre_config)
@@ -200,7 +206,13 @@ class NoncontextualController(ControllerBase):
             }, fp=f_config, indent=4)
 
         # Write weights (module state)
-        torch.save(self.embedder.state_dict(), os.path.join(model_dir, "embeddings.th"))
+        if self.embedding_type == "fastText":
+            embedder = self.embedder  # type: FastTextEmbeddingBag
+            embedder.model.set_matrices(embedder.weight.data.detach().cpu().numpy(),
+                                        embedder.model.get_output_matrix())
+            embedder.model.save_model(os.path.join(model_dir, f"embeddings.bin"))
+        else:
+            torch.save(self.embedder.state_dict(), os.path.join(model_dir, "embeddings.th"))
         torch.save(self.scorer.state_dict(), os.path.join(model_dir, "scorer.th"))
 
     @property
@@ -221,7 +233,10 @@ class NoncontextualController(ControllerBase):
         path_to_embeddings = os.path.join(self.path_model_dir, "embeddings.th")
 
         self.scorer.load_state_dict(torch.load(path_to_scorer, map_location=DEVICE))
-        self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
+
+        # For fastText, the whole model needs to be loaded at instantiation of controller (handled in from_pretrained)
+        if self.embedding_type != "fastText":
+            self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
         self.loaded_from_file = True
 
     def save_checkpoint(self):
@@ -417,20 +432,23 @@ if __name__ == "__main__":
             pretrained_embs[curr_id, :] = torch.tensor(embs.get(curr_token.lower(), pretrained_embs[curr_id, :]),
                                                        device=DEVICE)
     elif args.use_pretrained_embs == "fastText":
-        model = load_model(args.embedding_path)
-        pretrained_embs = torch.from_numpy(model.get_input_matrix())
+        pretrained_embs = args.embedding_path
     else:
         assert args.embedding_size is not None
 
     def create_model_instance(model_name, **override_kwargs):
+        used_embedding_type = override_kwargs.get("use_pretrained_embs", args.use_pretrained_embs)
+        used_embs = override_kwargs.get("pretrained_embs",
+                                        pretrained_embs if used_embedding_type == "fastText" else pretrained_embs.clone())
+
         return NoncontextualController(model_name=model_name,
                                        vocab=override_kwargs.get("tok2id", all_tok2id),
                                        embedding_size=override_kwargs.get("embedding_size", embedding_size),
                                        dropout=override_kwargs.get("dropout", args.dropout),
                                        fc_hidden_size=override_kwargs.get("fc_hidden_size", args.fc_hidden_size),
                                        learning_rate=override_kwargs.get("learning_rate", args.learning_rate),
-                                       embedding_type=override_kwargs.get("use_pretrained_embs", args.use_pretrained_embs),
-                                       pretrained_embs=override_kwargs.get("pretrained_embs", pretrained_embs.clone()),
+                                       embedding_type=used_embedding_type,
+                                       pretrained_embs=used_embs,
                                        freeze_pretrained=override_kwargs.get("freeze_pretrained", args.freeze_pretrained),
                                        dataset_name=override_kwargs.get("dataset", args.dataset))
 
