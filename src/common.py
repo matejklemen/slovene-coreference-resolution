@@ -225,7 +225,7 @@ class NeuralCoreferencePairScorer(nn.Module):
         # Note: num_features is either hidden_size of a LSTM or 2*hidden_size if using biLSTM
         super().__init__()
 
-        # Attempts to model head word (""key word"") in a mention, e.g. [model] in "my amazing model"
+        # Attempts to model head word (root) in a mention, e.g. "model" in "my amazing model"
         self.attention_projector = nn.Linear(in_features=num_features, out_features=1)
         self.dropout = nn.Dropout(p=dropout)
 
@@ -241,20 +241,34 @@ class NeuralCoreferencePairScorer(nn.Module):
             nn.Linear(in_features=hidden_size, out_features=1)
         )
 
-    def forward(self, candidate_features, head_features):
+    def forward(self, candidate_features, head_features,
+                candidate_attention_mask=None,
+                head_attention_mask=None):
         """
 
         Args:
             candidate_features: [B, num_tokens_cand, num_features]
             head_features: [B, num_tokens_head, num_features]
         """
+        eff_cand_attn = candidate_attention_mask.bool() if candidate_attention_mask is not None \
+            else torch.ones(candidate_features.shape[:2], dtype=torch.bool)
+        eff_head_attn = head_attention_mask.bool() if head_attention_mask is not None \
+            else torch.ones(head_features.shape[:2], dtype=torch.bool)
+
+        candidate_features[torch.logical_not(eff_cand_attn)] = 0.0
+        head_features[torch.logical_not(eff_head_attn)] = 0.0
+
+        candidate_lengths = torch.sum(eff_cand_attn, dim=1)
+        head_lengths = torch.sum(eff_head_attn, dim=1)
+
+        batch_index = torch.arange(candidate_features.shape[0], device=candidate_features.device)
 
         # Create candidate representation
         candidate_attn_weights = F.softmax(self.attention_projector(self.dropout(candidate_features)),
                                            dim=1)
         cand_attended_features = torch.sum(candidate_attn_weights * candidate_features, dim=1)
         candidate_repr = torch.cat((candidate_features[:, 0],  # first word of mention
-                                    candidate_features[:, -1],  # last word of mention
+                                    candidate_features[batch_index, candidate_lengths - 1],  # last word of mention
                                     cand_attended_features), dim=1)
 
         # Create head mention representation
@@ -262,7 +276,7 @@ class NeuralCoreferencePairScorer(nn.Module):
                                       dim=1)
         head_attended_features = torch.sum(head_attn_weights * head_features, dim=1)
         head_repr = torch.cat((head_features[:, 0],  # first word of mention
-                               head_features[:, -1],  # last word of mention
+                               head_features[batch_index, head_lengths - 1],  # last word of mention
                                head_attended_features), dim=1)
 
         # Combine representations and compute a score
@@ -270,5 +284,3 @@ class NeuralCoreferencePairScorer(nn.Module):
                                                      head_repr,
                                                      candidate_repr * head_repr), dim=1)))
         return pair_score
-
-
