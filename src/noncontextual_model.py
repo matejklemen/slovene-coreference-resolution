@@ -10,7 +10,6 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from fasttext import load_model
 from sklearn.model_selection import KFold
 
 from common import ControllerBase, NeuralCoreferencePairScorer
@@ -18,7 +17,7 @@ from data import read_corpus, Document
 from utils import extract_vocab, split_into_sets, fixed_split
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--model_name", type=str, default="debug")
+parser.add_argument("--model_name", type=str, default=None)
 
 parser.add_argument("--fc_hidden_size", type=int, default=1024)
 parser.add_argument("--dropout", type=float, default=0.4)
@@ -28,10 +27,10 @@ parser.add_argument("--num_epochs", type=int, default=30)
 parser.add_argument("--dataset", type=str, default="senticoref")
 parser.add_argument("--max_vocab_size", type=int, default=9_999_999,
                     help="Limit the maximum vocabulary size. Set to a high number if you don't want to limit it")
-parser.add_argument("--use_pretrained_embs", type=str, default="word2vec", choices=["fastText", "word2vec", None],
+parser.add_argument("--use_pretrained_embs", type=str, default="fastText", choices=["fastText", "word2vec", None],
                     help="Which (if any) pretrained embeddings to use")
 parser.add_argument("--embedding_path", type=str,
-                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/word2vec_slo50d.txt")
+                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/ft_sl_reduced100")
 parser.add_argument("--embedding_size", type=int, default=None,
                     help="Size of word embeddings. Required if --use_pretrained_embs is None")
 parser.add_argument("--freeze_pretrained", action="store_true")
@@ -44,18 +43,46 @@ DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cp
 
 
 class FastTextEmbeddingBag(nn.EmbeddingBag):
-    def __init__(self, model_path, freeze=False):
-        self.model = load_model(model_path)
-        input_matrix = self.model.get_input_matrix()
-        input_matrix_shape = input_matrix.shape
-        super().__init__(input_matrix_shape[0], input_matrix_shape[1])
-        self.weight.data.copy_(torch.tensor(input_matrix, dtype=torch.float32, requires_grad=not freeze))
+    def __init__(self, num_embeddings: int, embedding_dim: int, word2inds: Mapping):
+        super().__init__(num_embeddings=num_embeddings, embedding_dim=embedding_dim)
+        self.word2inds = {word: np.array(inds) for word, inds in word2inds.items()}
+
+    @staticmethod
+    def from_dir(model_dir):
+        with open(os.path.join(model_dir, "config.json"), "r", encoding="utf8") as f_config:
+            config = json.load(f_config)
+
+        with open(os.path.join(model_dir, "word2inds.json"), "r", encoding="utf8") as f:
+            word2inds = json.load(f)
+
+        instance = FastTextEmbeddingBag(num_embeddings=config["num_embeddings"],
+                                        embedding_dim=config["embedding_dim"],
+                                        word2inds=word2inds)
+        instance.load_state_dict(torch.load(os.path.join(model_dir, "embeddings.th")))
+        return instance
+
+    def save_pretrained(self, model_dir):
+        if not os.path.exists(model_dir):
+            os.makedirs(model_dir)
+
+        with open(os.path.join(model_dir, "config.json"), "w", encoding="utf8") as f_config:
+            json.dump({
+                "num_embeddings": self.num_embeddings,
+                "embedding_dim": self.embedding_dim
+            }, fp=f_config, indent=4)
+
+        with open(os.path.join(model_dir, "word2inds.json"), "w") as f:
+            json.dump({word: inds.tolist() for word, inds in self.word2inds.items()},
+                      fp=f, indent=4)
+
+        torch.save(self.state_dict(),
+                   os.path.join(model_dir, "embeddings.th"))
 
     def forward(self, words: Iterable[str]):
         word_subinds = np.empty([0], dtype=np.int64)
         word_offsets = [0]
         for word in words:
-            _, subinds = self.model.get_subwords(word)
+            subinds = self.word2inds[word]
             word_subinds = np.concatenate((word_subinds, subinds))
             word_offsets.append(word_offsets[-1] + len(subinds))
         word_offsets = word_offsets[:-1]
@@ -132,7 +159,7 @@ class NoncontextualController(ControllerBase):
 
         if embedding_type == "fastText":
             self.embeddings_path = eff_pretrained_embs
-            self.embedder = FastTextEmbeddingBag(model_path=eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
+            self.embedder = FastTextEmbeddingBag.from_dir(eff_pretrained_embs).to(DEVICE)
         elif embedding_type in ["word2vec", None]:
             self.embedder = nn.Embedding.from_pretrained(eff_pretrained_embs, freeze=freeze_pretrained).to(DEVICE)
         else:
@@ -195,7 +222,7 @@ class NoncontextualController(ControllerBase):
                 "embedding_type": self.embedding_type,
                 "num_embeddings": self.num_embeddings,
                 "embedding_size": self.embedding_size,
-                "pretrained_embs": self.embeddings_path,
+                "pretrained_embs": os.path.join(model_dir, "fastText") if self.embedding_type == "fastText" else None,
                 "fc_hidden_size": self.fc_hidden_size,
                 "learning_rate": self.learning_rate,
                 "max_span_size": self.max_span_size,
@@ -203,7 +230,10 @@ class NoncontextualController(ControllerBase):
             }, fp=f_config, indent=4)
 
         # Write weights (module state)
-        torch.save(self.embedder.state_dict(), os.path.join(model_dir, "embeddings.th"))
+        if self.embedding_type == "fastText":
+            self.embedder.save_pretrained(os.path.join(model_dir, "fastText"))
+        else:
+            torch.save(self.embedder.state_dict(), os.path.join(model_dir, "embeddings.th"))
         torch.save(self.scorer.state_dict(), os.path.join(model_dir, "scorer.th"))
 
     @property
