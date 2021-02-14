@@ -238,6 +238,7 @@ class NoncontextualController(ControllerBase):
 
         preprocessed_sents, max_len = [], 0
         for curr_sent in curr_doc.raw_sentences():
+            # TODO: uncased/cased option
             curr_processed_sent = list(map(lambda s: s.lower().strip(), curr_sent)) + ["<PAD>"]
             preprocessed_sents.append(curr_processed_sent)
             if len(curr_processed_sent) > max_len:
@@ -491,7 +492,8 @@ if __name__ == "__main__":
 
         logging.info(f"Final scores (over {OUTER_K} folds)")
         for metric, metric_values in test_metrics.items():
-            logging.info(f"- {metric}: mean={np.mean(metric_values): .4f} +- sd={np.std(metric_values): .4f} ")
+            logging.info(f"- {metric}: mean={np.mean(metric_values): .4f} +- sd={np.std(metric_values): .4f}\n"
+                         f"\t all fold scores: {metric_values}")
     else:
         logging.info(f"Using single train/dev/test split...")
         if args.fixed_split:
