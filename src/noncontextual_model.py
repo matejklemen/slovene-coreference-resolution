@@ -254,7 +254,8 @@ class NoncontextualController(ControllerBase):
         path_to_embeddings = os.path.join(self.path_model_dir, "embeddings.th")
 
         self.scorer.load_state_dict(torch.load(path_to_scorer, map_location=DEVICE))
-        self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
+        if self.embedding_type != "fastText":
+            self.embedder.load_state_dict(torch.load(path_to_embeddings, map_location=DEVICE))
         self.loaded_from_file = True
 
     def save_checkpoint(self):
