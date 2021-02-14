@@ -504,7 +504,8 @@ if __name__ == "__main__":
                 curr_dev_docs = [curr_train_dev_docs[_i] for _i in dev_index]
 
                 curr_model = create_model_instance(
-                    model_name=f"fold{idx_outer_fold}_{idx_inner_fold}"
+                    model_name=f"fold{idx_outer_fold}_{idx_inner_fold}",
+                    tok2id=curr_tok2id
                 )
                 dev_loss = curr_model.train(epochs=args.num_epochs, train_docs=curr_train_docs, dev_docs=curr_dev_docs)
                 logging.info(f"Fold {idx_outer_fold}-{idx_inner_fold}: {dev_loss: .5f}")
@@ -533,8 +534,10 @@ if __name__ == "__main__":
         else:
             train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15,
                                                               test_prop=0.15)
+        curr_tok2id, _ = extract_vocab(train_docs, lowercase=True, top_n=args.max_vocab_size)
+        curr_tok2id = {tok: all_tok2id[tok] for tok in curr_tok2id}
 
-        model = create_model_instance(args.model_name)
+        model = create_model_instance(args.model_name, tok2id=curr_tok2id)
         model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
         # Reload best checkpoint
         model = NoncontextualController.from_pretrained(model.path_model_dir)
