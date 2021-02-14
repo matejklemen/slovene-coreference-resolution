@@ -28,10 +28,10 @@ parser.add_argument("--num_epochs", type=int, default=30)
 parser.add_argument("--dataset", type=str, default="senticoref")
 parser.add_argument("--max_vocab_size", type=int, default=9_999_999,
                     help="Limit the maximum vocabulary size. Set to a high number if you don't want to limit it")
-parser.add_argument("--use_pretrained_embs", type=str, default="fastText", choices=["fastText", "word2vec", None],
+parser.add_argument("--use_pretrained_embs", type=str, default="word2vec", choices=["fastText", "word2vec", None],
                     help="Which (if any) pretrained embeddings to use")
 parser.add_argument("--embedding_path", type=str,
-                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/cc.sl.100.bin")
+                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/word2vec_slo50d.txt")
 parser.add_argument("--embedding_size", type=int, default=None,
                     help="Size of word embeddings. Required if --use_pretrained_embs is None")
 parser.add_argument("--freeze_pretrained", action="store_true")
@@ -260,6 +260,7 @@ class NoncontextualController(ControllerBase):
             # Note: no data for dummy antecedent (len(`features`) is one less than `candidates`)
             candidates, candidate_data = [None], []
             starts, ends = [], []
+            candidate_attention = []
             correct_antecedents = []
 
             curr_head_data = [[], []]
@@ -277,6 +278,8 @@ class NoncontextualController(ControllerBase):
 
             head_start = 0
             head_end = num_tokens
+            head_attention = torch.ones((1, self.max_span_size), dtype=torch.bool)
+            head_attention[0, num_tokens:] = False
 
             for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), start=1):
                 if idx_candidate >= idx_head:
@@ -302,6 +305,10 @@ class NoncontextualController(ControllerBase):
                 starts.append(0)
                 ends.append(num_tokens)
 
+                curr_attention = torch.ones((1, self.max_span_size), dtype=torch.bool)
+                curr_attention[0, num_tokens:] = False
+                candidate_attention.append(curr_attention)
+
                 is_coreferent = cand_id in gt_antecedent_ids
                 if is_coreferent:
                     correct_antecedents.append(idx_candidate)
@@ -309,15 +316,17 @@ class NoncontextualController(ControllerBase):
             if len(correct_antecedents) == 0:
                 correct_antecedents.append(0)
 
+            candidate_attention = torch.cat(candidate_attention) if len(candidate_attention) > 0 else []
+
             all_candidate_data.append({
                 "head_id": head_id,
                 "head_data": torch.tensor([curr_head_data]),
+                "head_attention": head_attention,
                 "head_start": head_start,
                 "head_end": head_end,
                 "candidates": candidates,
                 "candidate_data": torch.tensor(candidate_data),
-                "mention_starts": starts,
-                "mention_ends": ends,
+                "candidate_attention": candidate_attention,
                 "correct_antecedents": correct_antecedents
             })
 
@@ -348,7 +357,6 @@ class NoncontextualController(ControllerBase):
         for curr_step in cache["steps"]:
             head_id = curr_step["head_id"]
             head_data = curr_step["head_data"]
-            head_start, head_end = curr_step["head_start"], curr_step["head_end"]
 
             candidates = curr_step["candidates"]
             candidate_data = curr_step["candidate_data"]
@@ -365,10 +373,12 @@ class NoncontextualController(ControllerBase):
                 # [num_candidates, max_span_size, embedding_size]
                 candidate_data = embedded_doc[idx_sent, idx_in_sent]
                 # [1, head_size, embedding_size]
-                head_data = embedded_doc[head_data[:, 0, head_start: head_end], head_data[:, 1, head_start: head_end]]
+                head_data = embedded_doc[head_data[:, 0, :], head_data[:, 1, :]]
                 head_data = head_data.repeat((num_candidates - 1, 1, 1))
 
-                candidate_scores = self.scorer(candidate_data, head_data)
+                candidate_scores = self.scorer(candidate_data, head_data,
+                                               curr_step["candidate_attention"],
+                                               curr_step["head_attention"].repeat((num_candidates - 1, 1)))
                 # [1, num_candidates]
                 candidate_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
                                               candidate_scores.flatten())).unsqueeze(0)
@@ -442,7 +452,7 @@ if __name__ == "__main__":
 
     # Train model
     if args.dataset == "coref149":
-        INNER_K, OUTER_K = 3, 5
+        INNER_K, OUTER_K = 3, 10
         logging.info(f"Performing {OUTER_K}-fold (outer) and {INNER_K}-fold (inner) CV...")
         test_metrics = {"muc_p": [], "muc_r": [], "muc_f1": [],
                         "b3_p": [], "b3_r": [], "b3_f1": [],
