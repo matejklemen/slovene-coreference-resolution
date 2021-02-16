@@ -65,7 +65,7 @@ if __name__ == "__main__":
                                        embedding_type=used_embedding_type,
                                        pretrained_embs=used_embs,
                                        freeze_pretrained=override_kwargs.get("freeze_pretrained", args.freeze_pretrained),
-                                       dataset_name=override_kwargs.get("dataset", args.dataset))
+                                       dataset_name=override_kwargs.get("dataset", args.target_dataset))
 
     if args.target_dataset == "coref149":
         INNER_K, OUTER_K = 3, 10
