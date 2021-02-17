@@ -1,7 +1,9 @@
+import json
 from collections import Counter
 import logging
 import os
-import numpy as np
+from typing import List, Optional, Mapping
+
 from sklearn.model_selection import train_test_split
 
 
@@ -9,6 +11,59 @@ PAD_TOKEN, PAD_ID = "<PAD>", 0
 BOS_TOKEN, BOS_ID = "<BOS>", 1
 EOS_TOKEN, EOS_ID = "<EOS>", 2
 UNK_TOKEN, UNK_ID = "<UNK>", 3
+
+
+class KFoldStateCache:
+    def __init__(self, script_name: str, main_dataset: str, fold_info: List[dict],
+                 additional_dataset: Optional[str] = None,
+                 script_args: Optional[Mapping] = None):
+        self.script_name = script_name
+        self.fold_info = fold_info
+        self.num_folds = len(self.fold_info)
+
+        self.script_args = script_args if script_args is not None else {}
+
+        # The dataset that is being split with KFold CV
+        self.main_dataset = main_dataset
+        # For combined runners: documents, read with `read_corpus(additional_dataset)` should be placed in training set
+        self.additional_dataset = additional_dataset
+
+    def get_next_unfinished(self):
+        for i, curr_fold in enumerate(self.fold_info):
+            if curr_fold.get("results", None) is None:
+                yield {
+                    "idx_fold": i,
+                    "train_docs": curr_fold["train_docs"],
+                    "test_docs": curr_fold["test_docs"]
+                }
+
+    def add_results(self, idx_fold, results):
+        self.fold_info[idx_fold]["results"] = results
+
+    def save(self, path):
+        _path = path if path.endswith(".json") else f"{path}.json"
+        if os.path.exists(_path):
+            logging.warning(f"Overwriting KFold cache at '{_path}'")
+        with open(_path, "w", encoding="utf8") as f:
+            json.dump({
+                "script_name": self.script_name,
+                "script_args": self.script_args,
+                "main_dataset": self.main_dataset,
+                "additional_dataset": self.additional_dataset,
+                "fold_info": self.fold_info
+            }, fp=f, indent=4)
+
+    @staticmethod
+    def from_file(path):
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        instance = KFoldStateCache(script_name=data["script_name"],
+                                   script_args=data.get("script_args", None),
+                                   main_dataset=data["main_dataset"],
+                                   fold_info=data["fold_info"],
+                                   additional_dataset=data.get("additional_dataset", None))
+        return instance
 
 
 def extract_vocab(documents, top_n=10_000, lowercase=False):
@@ -115,4 +170,3 @@ if __name__ == "__main__":
     }
 
     print(get_clusters(preds))
-
