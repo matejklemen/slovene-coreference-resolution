@@ -72,6 +72,7 @@ if __name__ == "__main__":
         INNER_K, OUTER_K = 3, 10
         logging.info(f"Performing {OUTER_K}-fold (outer) and {INNER_K}-fold (inner) CV...")
 
+        save_path = "cache_run_noncontextual_combined.json"
         if args.kfold_state_cache_path is None:
             train_test_folds = KFold(n_splits=OUTER_K, shuffle=True).split(tgt_docs)
             train_test_folds = [{
@@ -84,9 +85,7 @@ if __name__ == "__main__":
                                          main_dataset=args.target_dataset,
                                          additional_dataset=args.source_dataset,
                                          fold_info=train_test_folds)
-            save_path = "cache_run_noncontextual_combined.json"
         else:
-            save_path = args.kfold_state_cache_path
             fold_cache = KFoldStateCache.from_file(args.kfold_state_cache_path)
             OUTER_K = fold_cache.num_folds
 
