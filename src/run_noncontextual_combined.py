@@ -1,5 +1,6 @@
 import codecs
 import logging
+import sys
 
 import numpy as np
 import torch
@@ -10,13 +11,15 @@ from noncontextual_model import NoncontextualController, parser
 from utils import fixed_split, extract_vocab, split_into_sets, KFoldStateCache
 
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
-logging.basicConfig(level=logging.INFO)
 
 parser.add_argument("--source_dataset", type=str, default="senticoref")
 parser.add_argument("--target_dataset", type=str, default="coref149")
 parser.add_argument("--kfold_state_cache_path", type=str, default=None)
 
 if __name__ == "__main__":
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+    logger.addHandler(logging.StreamHandler(sys.stdout))
     args = parser.parse_args()
 
     if args.random_seed:
