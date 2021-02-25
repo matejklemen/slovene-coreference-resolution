@@ -1,16 +1,17 @@
 import argparse
+import json
 import logging
 import os
+from typing import Dict, Optional
 
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 import torch.optim as optim
 from transformers import BertModel, BertTokenizer
 
-from data import read_corpus
 from common import ControllerBase, NeuralCoreferencePairScorer
-from utils import get_clusters, split_into_sets, fixed_split
+from data import read_corpus, Document
+from utils import split_into_sets, fixed_split
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default=None)
@@ -23,14 +24,11 @@ parser.add_argument("--combine_layers", action="store_true",
                     help="Flag to determine if the sequence embeddings should be a learned combination of all "
                          "BERT hidden layers")
 parser.add_argument("--dataset", type=str, default="coref149")
-parser.add_argument("--pretrained_model_name_or_path", type=str, default=os.path.join("..", "data",
-                                                                                      "slo-hr-en-bert-pytorch"))
-parser.add_argument("--embedding_size", type=int, default=768)
+parser.add_argument("--pretrained_model_name_or_path", type=str, default="EMBEDDIA/crosloengual-bert")
 parser.add_argument("--freeze_pretrained", action="store_true", help="If set, disable updates to BERT layers")
 parser.add_argument("--fixed_split", action="store_true")
 
 
-logging.basicConfig(level=logging.INFO)
 DEVICE = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 
@@ -44,8 +42,8 @@ class WeightedLayerCombination(nn.Module):
         """ Args:
             hidden_states: shape [num_layers, B, seq_len, embedding_size]
         """
-        attn_weights = F.softmax(self.linear(hidden_states), dim=0)  # [num_layers, B, seq_len, 1]
-        weighted_combination = torch.sum(attn_weights * hidden_states, dim=0)  # [B, seq_len, 768]
+        attn_weights = torch.softmax(self.linear(hidden_states), dim=0)  # [num_layers, B, seq_len, 1]
+        weighted_combination = torch.sum(attn_weights * hidden_states, dim=0)  # [B, seq_len, embedding_size]
 
         return weighted_combination, attn_weights
 
@@ -69,45 +67,61 @@ def prepare_document_bert(doc, tokenizer):
 
 
 class ContextualControllerBERT(ControllerBase):
-    def __init__(self, embedding_size,
+    def __init__(self,
                  dropout,
                  pretrained_model_name_or_path,
                  dataset_name,
                  fc_hidden_size=150,
                  freeze_pretrained=True,
-                 learning_rate=0.001,
+                 learning_rate: float = 0.001,
+                 layer_learning_rate: Optional[Dict[str, float]] = None,
                  max_segment_size=512,
                  max_span_size=10,
                  combine_layers=False,
                  model_name=None):
-        self.max_segment_size = max_segment_size - 2  # CLS, SEP
+        self.dropout = dropout
+        self.fc_hidden_size = fc_hidden_size
+        self.freeze_pretrained = freeze_pretrained
+        self.max_segment_size = max_segment_size - 3  # CLS, SEP, >= 1 PAD at the end (convention, for batching)
         self.max_span_size = max_span_size
         self.combine_layers = combine_layers
+        self.learning_rate = learning_rate
+        self.layer_learning_rate = layer_learning_rate if layer_learning_rate is not None else {}
 
-        self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path,
-                                                  output_hidden_states=combine_layers).to(DEVICE)
+        self.pretrained_model_name_or_path = pretrained_model_name_or_path
         self.tokenizer = BertTokenizer.from_pretrained(pretrained_model_name_or_path)
+        self.embedder = BertModel.from_pretrained(pretrained_model_name_or_path,
+                                                  output_hidden_states=combine_layers,
+                                                  return_dict=True).to(DEVICE)
+        for param in self.embedder.parameters():
+            param.requires_grad = not self.freeze_pretrained
+
+        embedding_size = self.embedder.config.hidden_size
         self.combinator = WeightedLayerCombination(embedding_size=embedding_size).to(DEVICE) \
             if self.combine_layers else None
-
-        self.freeze_pretrained = freeze_pretrained
-        for param in self.embedder.parameters():
-            param.requires_grad = not freeze_pretrained
-
         self.scorer = NeuralCoreferencePairScorer(num_features=embedding_size,
                                                   dropout=dropout,
                                                   hidden_size=fc_hidden_size).to(DEVICE)
 
-        params_to_update = list(self.scorer.parameters())
+        params_to_update = [{
+                "params": self.scorer.parameters(),
+                "lr": self.layer_learning_rate.get("lr_scorer", self.learning_rate)
+        }]
         if not freeze_pretrained:
-            params_to_update += list(self.embedder.parameters())
+            params_to_update.append({
+                "params": self.embedder.parameters(),
+                "lr": self.layer_learning_rate.get("lr_embedder", self.learning_rate)
+            })
 
         if self.combine_layers:
-            params_to_update += list(self.combinator.parameters())
+            params_to_update.append({
+                "params": self.combinator.parameters(),
+                "lr": self.layer_learning_rate.get("lr_combinator", self.learning_rate)
+            })
 
-        self.optimizer = optim.Adam(params_to_update, lr=learning_rate)
+        self.optimizer = optim.Adam(params_to_update, lr=self.learning_rate)
 
-        super().__init__(learning_rate=learning_rate, dataset_name=dataset_name, model_name=model_name)
+        super().__init__(learning_rate=self.learning_rate, dataset_name=dataset_name, model_name=model_name)
         logging.info(f"Initialized contextual BERT-based model with name {self.model_name}.")
 
     @property
@@ -117,76 +131,104 @@ class ContextualControllerBERT(ControllerBase):
     def train_mode(self):
         if not self.freeze_pretrained:
             self.embedder.train()
+        if self.combine_layers:
+            self.combinator.train()
         self.scorer.train()
 
     def eval_mode(self):
         if not self.freeze_pretrained:
             self.embedder.eval()
+        if self.combine_layers:
+            self.combinator.eval()
         self.scorer.eval()
 
-    def load_checkpoint(self):
-        path_to_model = os.path.join(self.path_model_dir, "best_scorer.th")
-        if os.path.isfile(path_to_model):
-            self.scorer.load_state_dict(torch.load(path_to_model, map_location=DEVICE))
-            self.loaded_from_file = True
+    @staticmethod
+    def from_pretrained(model_dir):
+        controller_config_path = os.path.join(model_dir, "controller_config.json")
+        with open(controller_config_path, "r", encoding="utf-8") as f_config:
+            pre_config = json.load(f_config)
 
-        path_to_combination = os.path.join(self.path_model_dir, "combination.th")
+        instance = ContextualControllerBERT(**pre_config)
+        instance.load_checkpoint()
+
+        return instance
+
+    def save_pretrained(self, model_dir):
+        if not os.path.exists(model_dir):
+            os.makedirs(model_dir)
+
+        # Write controller config (used for instantiation)
+        controller_config_path = os.path.join(model_dir, "controller_config.json")
+        with open(controller_config_path, "w", encoding="utf-8") as f_config:
+            json.dump({
+                "dropout": self.dropout,
+                "pretrained_name_or_path": self.pretrained_model_name_or_path if self.freeze_pretrained else model_dir,
+                "dataset_name": self.dataset_name,
+                "fc_hidden_size": self.fc_hidden_size,
+                "freeze_pretrained": self.freeze_pretrained,
+                "learning_rate": self.learning_rate,
+                "layer_learning_rate": self.layer_learning_rate,
+                "max_segment_size": self.max_segment_size,
+                "max_span_size": self.max_span_size,
+                "combine_layers": self.combine_layers,
+                "model_name": self.model_name
+            }, fp=f_config, indent=4)
+
+        torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, "scorer.th"))
+
+        # Save fine-tuned BERT embeddings only if they're not frozen
+        if not self.freeze_pretrained:
+            self.embedder.save_pretrained(model_dir)
+            self.tokenizer.save_pretrained(model_dir)
+
         if self.combine_layers:
-            if not os.path.isfile(path_to_combination):
-                raise FileNotFoundError("combine_layers=True, but combination weights could not be found")
+            torch.save(self.combinator.state_dict(), os.path.join(model_dir, "combination.th"))
 
+    def load_checkpoint(self):
+        path_to_scorer = os.path.join(self.path_model_dir, "scorer.th")
+        self.scorer.load_state_dict(torch.load(path_to_scorer, map_location=DEVICE))
+        self.loaded_from_file = True
+
+        if self.combine_layers:
+            path_to_combination = os.path.join(self.path_model_dir, "combination.th")
             self.combinator.load_state_dict(torch.load(path_to_combination, map_location=DEVICE))
             self.loaded_from_file = True
 
-        if not self.freeze_pretrained and os.path.exists(self.path_model_dir):
-            self.embedder = BertModel.from_pretrained(self.path_model_dir).to(DEVICE)
-            self.tokenizer = BertTokenizer.from_pretrained(self.path_model_dir)
-            self.loaded_from_file = True
-
     def save_checkpoint(self):
-        torch.save(self.scorer.state_dict(), os.path.join(self.path_model_dir, "best_scorer.th"))
-        if self.combine_layers:
-            torch.save(self.combinator.state_dict(), os.path.join(self.path_model_dir, "combination.th"))
+        logging.warning("save_checkpoint() is deprecated. Use save_pretrained() instead")
+        self.save_pretrained(self.path_model_dir)
 
-        if not self.freeze_pretrained:
-            self.embedder.save_pretrained(self.path_model_dir)
-            self.tokenizer.save_pretrained(self.path_model_dir)
-
-    def _train_doc(self, curr_doc, eval_mode=False):
-        """ Trains/evaluates (if `eval_mode` is True) model on specific document.
-            Returns predictions, loss and number of examples evaluated. """
-
-        if len(curr_doc.mentions) == 0:
-            return {}, (0.0, 0)
+    def _prepare_doc(self, curr_doc: Document) -> Dict:
+        """ Returns a cache dictionary with preprocessed data. This should only be called once per document, since
+        data inside same document does not get shuffled. """
+        ret = {}
 
         # maps from (idx_sent, idx_token) to (indices_in_tokenized_doc)
         tokenized_doc, mapping = prepare_document_bert(curr_doc, tokenizer=self.tokenizer)
         encoded_doc = self.tokenizer.convert_tokens_to_ids(tokenized_doc)
 
-        res = self.embedder(torch.tensor([[self.tokenizer.pad_token_id]], device=DEVICE))
-        if self.combine_layers:
-            # Linearly combine all hidden layers
-            pad_embedding, _ = self.combinator(torch.cat(res[2]))  # shape: [1, 768]
-        else:
-            # Take the last hidden state
-            pad_embedding = res[0][0]  # shape: [1, 768]
-
-        # Break down long documents into smaller sub-documents and encode them
-        num_total_segments = (len(encoded_doc) + self.max_segment_size - 1) // self.max_segment_size
-        doc_segments = []  # list of `num_total_segments` tensors of shape [self.max_segment_size + 2, 768]
+        num_total_segments = (len(tokenized_doc) + self.max_segment_size - 1) // self.max_segment_size
+        segments = {"input_ids": [], "token_type_ids": [], "attention_mask": []}
+        idx_token_to_segment = {}
         for idx_segment in range(num_total_segments):
-            curr_segment = self.tokenizer.prepare_for_model(
-                encoded_doc[idx_segment * self.max_segment_size: (idx_segment + 1) * self.max_segment_size],
-                max_length=(self.max_segment_size + 2), pad_to_max_length=True, truncation=True,
-                truncation_strategy="longest_first", return_tensors="pt").to(DEVICE)
+            s_seg, e_seg = idx_segment * self.max_segment_size, (idx_segment + 1) * self.max_segment_size
+            for idx_token in range(s_seg, e_seg):
+                idx_token_to_segment[idx_token] = (idx_segment, 1 + idx_token - s_seg)  # +1 shift due to [CLS]
 
-            res = self.embedder(**curr_segment)
-            if self.combine_layers:
-                hidden_states, _ = self.combinator(torch.cat(res[2]))
-            else:
-                # Note: The second [0] because we're assuming a batch size of 1 (i.e. processing 1 segment at a time)
-                hidden_states = res[0][0]
-            doc_segments.append(hidden_states)
+            curr_seg = self.tokenizer.prepare_for_model(ids=encoded_doc[s_seg: e_seg],
+                                                        max_length=(self.max_segment_size + 2),
+                                                        padding="max_length", truncation="longest_first",
+                                                        return_token_type_ids=True, return_attention_mask=True)
+
+            # Convention: add a PAD token at the end, so span padding points to that -> [CLS] <segment> [SEP] [PAD]
+            segments["input_ids"].append(curr_seg["input_ids"] + [self.tokenizer.pad_token_id])
+            segments["token_type_ids"].append(curr_seg["token_type_ids"] + [0])
+            segments["attention_mask"].append(curr_seg["attention_mask"] + [0])
+
+        # Shape: [num_segments, (max_segment_size + 3)]
+        segments["input_ids"] = torch.tensor(segments["input_ids"])
+        segments["token_type_ids"] = torch.tensor(segments["token_type_ids"])
+        segments["attention_mask"] = torch.tensor(segments["attention_mask"])
 
         cluster_sets = []
         mention_to_cluster_id = {}
@@ -195,85 +237,155 @@ class ContextualControllerBERT(ControllerBase):
             for mid in curr_cluster:
                 mention_to_cluster_id[mid] = i
 
-        doc_loss, n_examples = 0.0, 0
-        preds = {}
-
-        for idx_head, (head_id, head_mention) in enumerate(curr_doc.mentions.items(), 1):
-            logging.debug(f"**#{idx_head} Mention '{head_id}': {head_mention}**")
-
+        all_candidate_data = []
+        for idx_head, (head_id, head_mention) in enumerate(curr_doc.mentions.items(), start=1):
             gt_antecedent_ids = cluster_sets[mention_to_cluster_id[head_id]]
 
-            # Note: no features for dummy antecedent (len(`features`) is one less than `candidates`)
-            candidates, encoded_candidates = [None], []
-            gt_antecedents = []
+            # Note: no data for dummy antecedent (len(`features`) is one less than `candidates`)
+            candidates, candidate_data = [None], []
+            candidate_attention = []
+            correct_antecedents = []
 
-            head_features = []
+            curr_head_data = [[], []]
+            num_head_subwords = 0
             for curr_token in head_mention.tokens:
-                positions_in_doc = mapping[(curr_token.sentence_index, curr_token.position_in_sentence)]
-                for curr_position in positions_in_doc:
-                    idx_segment = curr_position // (self.max_segment_size + 2)
-                    idx_inside_segment = curr_position % (self.max_segment_size + 2)
-                    head_features.append(doc_segments[idx_segment][idx_inside_segment])
-            head_features = torch.stack(head_features, dim=0).unsqueeze(0)  # shape: [1, num_tokens, embedding_size]
+                indices_inside_document = mapping[(curr_token.sentence_index, curr_token.position_in_sentence)]
+                for _idx in indices_inside_document:
+                    idx_segment, idx_inside_segment = idx_token_to_segment[_idx]
+                    curr_head_data[0].append(idx_segment)
+                    curr_head_data[1].append(idx_inside_segment)
+                    num_head_subwords += 1
 
-            for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), 1):
-                if cand_id != head_id and cand_id in gt_antecedent_ids:
-                    gt_antecedents.append(idx_candidate)
+            if num_head_subwords > self.max_span_size:
+                curr_head_data[0] = curr_head_data[0][:self.max_span_size]
+                curr_head_data[1] = curr_head_data[1][:self.max_span_size]
+            else:
+                # padding tokens index into the PAD token of the last segment
+                curr_head_data[0] += [curr_head_data[0][-1]] * (self.max_span_size - num_head_subwords)
+                curr_head_data[1] += [-1] * (self.max_span_size - num_head_subwords)
 
-                # Obtain scores for candidates and select best one as antecedent
-                if idx_candidate == idx_head:
-                    if len(encoded_candidates) > 0:
-                        # Prepare candidates and current head mention for batched scoring
-                        encoded_candidates = torch.stack(encoded_candidates,
-                                                         dim=0)  # shape: [num_cands, self.max_span_size, 768]
-                        head_features = torch.repeat_interleave(head_features, repeats=encoded_candidates.shape[0],
-                                                                dim=0)  # shape: [num_candidates, num_tokens, 768]
+            head_attention = torch.ones((1, self.max_span_size), dtype=torch.bool)
+            head_attention[0, num_head_subwords:] = False
 
-                        cand_scores = self.scorer(encoded_candidates, head_features)  # shape: [num_candidates - 1, 1]
-                        cand_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
-                                                 cand_scores.flatten())).unsqueeze(0)  # shape: [1, num_candidates]
-
-                        # if no other antecedent exists for mention, then it's a first mention (GT is dummy antecedent)
-                        if len(gt_antecedents) == 0:
-                            gt_antecedents.append(0)
-
-                        curr_pred = torch.argmax(cand_scores)
-                        # (average) loss over all ground truth antecedents
-                        doc_loss += self.loss(torch.repeat_interleave(cand_scores, repeats=len(gt_antecedents), dim=0),
-                                              torch.tensor(gt_antecedents, device=DEVICE))
-
-                        n_examples += 1
-                    else:
-                        # Only one candidate antecedent = first mention
-                        curr_pred = 0
-
-                    # { antecedent: [mention(s)] } pair
-                    existing_refs = preds.get(candidates[int(curr_pred)], [])
-                    existing_refs.append(head_id)
-                    preds[candidates[int(curr_pred)]] = existing_refs
+            for idx_candidate, (cand_id, cand_mention) in enumerate(curr_doc.mentions.items(), start=1):
+                if idx_candidate >= idx_head:
                     break
+
+                candidates.append(cand_id)
+
+                # Maps tokens to positions inside segments (idx_seg, idx_inside_seg) for efficient indexing later
+                curr_candidate_data = [[], []]
+                num_candidate_subwords = 0
+                for curr_token in cand_mention.tokens:
+                    indices_inside_document = mapping[(curr_token.sentence_index, curr_token.position_in_sentence)]
+                    for _idx in indices_inside_document:
+                        idx_segment, idx_inside_segment = idx_token_to_segment[_idx]
+                        curr_candidate_data[0].append(idx_segment)
+                        curr_candidate_data[1].append(idx_inside_segment)
+                        num_candidate_subwords += 1
+
+                if num_candidate_subwords > self.max_span_size:
+                    curr_candidate_data[0] = curr_candidate_data[0][:self.max_span_size]
+                    curr_candidate_data[1] = curr_candidate_data[1][:self.max_span_size]
                 else:
-                    # Add current mention as candidate
-                    candidates.append(cand_id)
-                    mention_features = []
-                    for curr_token in cand_mention.tokens:
-                        positions_in_doc = mapping[(curr_token.sentence_index, curr_token.position_in_sentence)]
-                        for curr_position in positions_in_doc:
-                            idx_segment = curr_position // (self.max_segment_size + 2)
-                            idx_inside_segment = curr_position % (self.max_segment_size + 2)
-                            mention_features.append(doc_segments[idx_segment][idx_inside_segment])
-                    mention_features = torch.stack(mention_features, dim=0)  # shape: [num_tokens, num_features]
+                    # padding tokens index into the PAD token of the last segment
+                    curr_candidate_data[0] += [curr_candidate_data[0][-1]] * (self.max_span_size - num_candidate_subwords)
+                    curr_candidate_data[1] += [-1] * (self.max_span_size - num_candidate_subwords)
 
-                    num_tokens, num_features = mention_features.shape
-                    # Pad/truncate current span to have self.max_span_size tokens
-                    if num_tokens > self.max_span_size:
-                        mention_features = mention_features[: self.max_span_size]
-                    else:
-                        pad_amount = self.max_span_size - num_tokens
-                        mention_features = torch.cat((mention_features,
-                                                      torch.repeat_interleave(pad_embedding, repeats=pad_amount, dim=0)))
+                candidate_data.append(curr_candidate_data)
+                curr_attention = torch.ones((1, self.max_span_size), dtype=torch.bool)
+                curr_attention[0, num_candidate_subwords:] = False
+                candidate_attention.append(curr_attention)
 
-                    encoded_candidates.append(mention_features)
+                is_coreferent = cand_id in gt_antecedent_ids
+                if is_coreferent:
+                    correct_antecedents.append(idx_candidate)
+
+            if len(correct_antecedents) == 0:
+                correct_antecedents.append(0)
+
+            candidate_attention = torch.cat(candidate_attention) if len(candidate_attention) > 0 else []
+            all_candidate_data.append({
+                "head_id": head_id,
+                "head_data": torch.tensor([curr_head_data]),
+                "head_attention": head_attention,
+                "candidates": candidates,
+                "candidate_data": torch.tensor(candidate_data),
+                "candidate_attention": candidate_attention,
+                "correct_antecedents": correct_antecedents
+            })
+
+        ret["preprocessed_segments"] = segments
+        ret["steps"] = all_candidate_data
+
+        return ret
+
+    def _train_doc(self, curr_doc, eval_mode=False):
+        """ Trains/evaluates (if `eval_mode` is True) model on specific document.
+            Returns predictions, loss and number of examples evaluated. """
+
+        if len(curr_doc.mentions) == 0:
+            return {}, (0.0, 0)
+
+        if not hasattr(curr_doc, "_cache_bert"):
+            curr_doc._cache_bert = self._prepare_doc(curr_doc)
+        cache = curr_doc._cache_bert  # type: Dict
+
+        encoded_segments = cache["preprocessed_segments"]
+        if self.freeze_pretrained:
+            with torch.no_grad():
+                embedded_segments = self.embedder(**{k: v.to(DEVICE) for k, v in encoded_segments.items()})
+        else:
+            embedded_segments = self.embedder(**{k: v.to(DEVICE) for k, v in encoded_segments.items()})
+
+        # embedded_segments: [num_segments, max_segment_size + 3, embedding_size]
+        if self.combine_layers:
+            embedded_segments = torch.stack(embedded_segments["hidden_states"])
+            embedded_segments, layer_weights = self.combinator(embedded_segments)
+        else:
+            embedded_segments = embedded_segments["last_hidden_state"]
+
+        doc_loss, n_examples = 0.0, len(cache["steps"])
+        preds = {}
+
+        for curr_step in cache["steps"]:
+            head_id = curr_step["head_id"]
+            head_data = curr_step["head_data"]
+
+            candidates = curr_step["candidates"]
+            candidate_data = curr_step["candidate_data"]
+            correct_antecedents = curr_step["correct_antecedents"]
+
+            # Note: num_candidates includes dummy antecedent + actual candidates
+            num_candidates = len(candidates)
+            if num_candidates == 1:
+                curr_pred = 0
+            else:
+                idx_segment = candidate_data[:, 0, :]
+                idx_in_segment = candidate_data[:, 1, :]
+
+                # [num_candidates, max_span_size, embedding_size]
+                candidate_data = embedded_segments[idx_segment, idx_in_segment]
+                # [1, head_size, embedding_size]
+                head_data = embedded_segments[head_data[:, 0, :], head_data[:, 1, :]]
+                head_data = head_data.repeat((num_candidates - 1, 1, 1))
+
+                candidate_scores = self.scorer(candidate_data, head_data,
+                                               curr_step["candidate_attention"],
+                                               curr_step["head_attention"].repeat((num_candidates - 1, 1)))
+
+                # [1, num_candidates]
+                candidate_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
+                                              candidate_scores.flatten())).unsqueeze(0)
+
+                curr_pred = torch.argmax(candidate_scores)
+                doc_loss += self.loss(candidate_scores.repeat((len(correct_antecedents), 1)),
+                                      torch.tensor(correct_antecedents, device=DEVICE))
+
+            # { antecedent: [mention(s)] } pair
+            existing_refs = preds.get(candidates[int(curr_pred)], [])
+            existing_refs.append(head_id)
+            preds[candidates[int(curr_pred)]] = existing_refs
 
         if not eval_mode:
             doc_loss.backward()
@@ -284,6 +396,9 @@ class ContextualControllerBERT(ControllerBase):
 
 
 if __name__ == "__main__":
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+
     args = parser.parse_args()
     documents = read_corpus(args.dataset)
 
@@ -294,19 +409,19 @@ if __name__ == "__main__":
         train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
 
     controller = ContextualControllerBERT(model_name=args.model_name,
-                                          embedding_size=args.embedding_size,
                                           fc_hidden_size=args.fc_hidden_size,
                                           dropout=args.dropout,
                                           combine_layers=args.combine_layers,
                                           pretrained_model_name_or_path=args.pretrained_model_name_or_path,
                                           learning_rate=args.learning_rate,
+                                          layer_learning_rate={"lr_embedder": 2e-5} if not args.freeze_pretrained else None,
                                           max_segment_size=args.max_segment_size,
                                           dataset_name=args.dataset,
                                           freeze_pretrained=args.freeze_pretrained)
     if not controller.loaded_from_file:
         controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
         # Reload best checkpoint
-        controller._prepare()
+        controller = ContextualControllerBERT.from_pretrained(controller.path_model_dir)
 
     controller.evaluate(test_docs)
     controller.visualize()
