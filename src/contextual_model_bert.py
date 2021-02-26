@@ -165,7 +165,7 @@ class ContextualControllerBERT(ControllerBase):
         with open(controller_config_path, "w", encoding="utf-8") as f_config:
             json.dump({
                 "dropout": self.dropout,
-                "pretrained_name_or_path": self.pretrained_model_name_or_path if self.freeze_pretrained else model_dir,
+                "pretrained_model_name_or_path": self.pretrained_model_name_or_path if self.freeze_pretrained else model_dir,
                 "dataset_name": self.dataset_name,
                 "fc_hidden_size": self.fc_hidden_size,
                 "freeze_pretrained": self.freeze_pretrained,
