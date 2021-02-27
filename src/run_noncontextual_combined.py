@@ -144,7 +144,7 @@ if __name__ == "__main__":
         logging.info(f"Using single train/dev/test split...")
         if args.fixed_split:
             logging.info("Using fixed dataset split")
-            train_docs, dev_docs, test_docs = fixed_split(tgt_docs, args.dataset)
+            train_docs, dev_docs, test_docs = fixed_split(tgt_docs, args.target_dataset)
         else:
             train_docs, dev_docs, test_docs = split_into_sets(tgt_docs, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
 
