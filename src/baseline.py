@@ -1,8 +1,12 @@
 import argparse
+import json
 import logging
 import os
 import time
 from collections import Counter
+from copy import deepcopy
+
+from sklearn.model_selection import KFold
 
 import metrics
 import numpy as np
@@ -16,10 +20,11 @@ from common import ControllerBase
 from data import read_corpus
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--model_name", type=str, default=None)
-parser.add_argument("--learning_rate", type=float, default=0.001)
-parser.add_argument("--num_epochs", type=int, default=10)
-parser.add_argument("--dataset", type=str, default="coref149")  # {'senticoref', 'coref149'}
+parser.add_argument("--model_name", type=str, default="baseline_senticoref_coref149")
+parser.add_argument("--learning_rate", type=float, default=0.005)
+parser.add_argument("--num_epochs", type=int, default=50)
+parser.add_argument("--dataset", type=str, default="senticoref")  # {'senticoref', 'coref149'}
+parser.add_argument("--random_seed", type=int, default=13)
 parser.add_argument("--fixed_split", action="store_true")
 
 
@@ -313,17 +318,41 @@ class BaselineController(ControllerBase):
     def eval_mode(self):
         self.model.eval()
 
-    def load_checkpoint(self):
-        path_to_model = os.path.join(self.path_model_dir, 'best.th')
-        if os.path.isfile(path_to_model):
-            logging.info(f"Model with name '{self.model_name}' already exists. Loading model...")
-            self.model.load_state_dict(torch.load(path_to_model))
-            logging.info(f"Model with name '{self.model_name}' loaded.")
-            self.loaded_from_file = True
+    @staticmethod
+    def from_pretrained(model_dir):
+        controller_config_path = os.path.join(model_dir, "controller_config.json")
+        with open(controller_config_path, "r") as f_config:
+            pre_config = json.load(f_config)
+
+        instance = BaselineController(**pre_config)
+        instance.load_checkpoint()
+        return instance
+
+    def save_pretrained(self, model_dir):
+        if not os.path.exists(model_dir):
+            os.makedirs(model_dir)
+
+        # Write controller config (used for instantiation)
+        controller_config_path = os.path.join(model_dir, "controller_config.json")
+        with open(controller_config_path, "w", encoding="utf-8") as f_config:
+            json.dump({
+                # in_features, dataset_name, model_name=None, learning_rate=0.001)
+                "in_features": self.num_features,
+                "dataset_name": self.dataset_name,
+                "model_name": self.model_name,
+                "learning_rate": self.learning_rate
+            }, fp=f_config, indent=4)
+
+        torch.save(self.model.state_dict(), os.path.join(self.path_model_dir, 'best.th'))
 
     def save_checkpoint(self):
-        logging.info(f"Saving new best model to '{self.path_model_dir}'")
-        torch.save(self.model.state_dict(), os.path.join(self.path_model_dir, 'best.th'))
+        logging.warning("save_checkpoint() is deprecated. Use save_pretrained() instead")
+        self.save_pretrained(self.path_model_dir)
+
+    def load_checkpoint(self):
+        path_to_model = os.path.join(self.path_model_dir, 'best.th')
+        self.model.load_state_dict(torch.load(path_to_model))
+        self.loaded_from_file = True
 
     def _train_doc(self, curr_doc, eval_mode=False):
         """ Trains/evaluates (if `eval_mode` is True) model on specific document.
@@ -416,11 +445,12 @@ class AllInOneModel:
             b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
             ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
 
+        avg_score = metrics.conll_12(muc_score, b3_score, ceaf_score)
         logging.info(f"All-in-one model: test scores")
         logging.info(f"MUC:      {muc_score}")
         logging.info(f"BCubed:   {b3_score}")
         logging.info(f"CEAFe:    {ceaf_score}")
-        logging.info(f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}")
+        logging.info(f"CoNLL-12: {avg_score}")
         logging.info(f"\n")
 
         if self.baseline is not None:
@@ -433,6 +463,13 @@ class AllInOneModel:
                     f"CEAFe:    {ceaf_score}\n",
                     f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
                 ])
+
+        return {
+            "muc": muc_score,
+            "b3": b3_score,
+            "ceafe": ceaf_score,
+            "avg": avg_score
+        }
 
 
 class EachInOwnModel:
@@ -453,6 +490,7 @@ class EachInOwnModel:
             b3_score.add(metrics.b_cubed(gt_clusters, pr_clusters))
             ceaf_score.add(metrics.ceaf_e(gt_clusters, pr_clusters))
 
+        avg_score = metrics.conll_12(muc_score, b3_score, ceaf_score)
         logging.info(f"Each-in-own model: test scores")
         logging.info(f"MUC:      {muc_score}")
         logging.info(f"BCubed:   {b3_score}")
@@ -471,32 +509,112 @@ class EachInOwnModel:
                     f"CoNLL-12: {metrics.conll_12(muc_score, b3_score, ceaf_score)}\n",
                 ])
 
+        return {
+            "muc": muc_score,
+            "b3": b3_score,
+            "ceafe": ceaf_score,
+            "avg": avg_score
+        }
+
 
 if __name__ == "__main__":
     args = parser.parse_args()
-    # if you'd like to reuse a model, provide a name, i.e. `baseline = BaselineController(..., model_name="model1")`
-    baseline = BaselineController(MentionPairFeatures.num_features(),
-                                  model_name=args.model_name,
-                                  learning_rate=args.learning_rate,
-                                  dataset_name=args.dataset)
 
-    # Note: model should be initialized first as it also adds a logging handler to store logs into a file
+    if args.random_seed:
+        torch.random.manual_seed(args.random_seed)
+        np.random.seed(args.random_seed)
+
     documents = read_corpus(args.dataset)
-    if args.fixed_split:
-        logging.info("Using fixed dataset split")
-        train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
+
+
+    def create_model_instance(model_name, **override_kwargs):
+        return BaselineController(MentionPairFeatures.num_features(),
+                                  model_name=model_name,
+                                  learning_rate=override_kwargs.get("learning_rate", args.learning_rate),
+                                  dataset_name=override_kwargs.get("dataset", args.dataset))
+
+    # Train model
+    if args.dataset == "coref149":
+        INNER_K, OUTER_K = 3, 10
+        logging.info(f"Performing {OUTER_K}-fold (outer) and {INNER_K}-fold (inner) CV...")
+        test_metrics = {"muc_p": [], "muc_r": [], "muc_f1": [],
+                        "b3_p": [], "b3_r": [], "b3_f1": [],
+                        "ceafe_p": [], "ceafe_r": [], "ceafe_f1": [],
+                        "avg_p": [], "avg_r": [], "avg_f1": []}
+        aio_metrics = deepcopy(test_metrics)
+        eio_metrics = deepcopy(test_metrics)
+
+        for idx_outer_fold, (train_dev_index, test_index) in enumerate(KFold(n_splits=OUTER_K, shuffle=True).split(documents)):
+            curr_train_dev_docs = [documents[_i] for _i in train_dev_index]
+            curr_test_docs = [documents[_i] for _i in test_index]
+
+            best_metric, best_name = float("inf"), None
+            for idx_inner_fold, (train_index, dev_index) in enumerate(KFold(n_splits=INNER_K).split(curr_train_dev_docs)):
+                curr_train_docs = [curr_train_dev_docs[_i] for _i in train_index]
+                curr_dev_docs = [curr_train_dev_docs[_i] for _i in dev_index]
+
+                curr_model = create_model_instance(f"fold{idx_outer_fold}_{idx_inner_fold}")
+                dev_loss = curr_model.train(epochs=args.num_epochs, train_docs=curr_train_docs, dev_docs=curr_dev_docs)
+                logging.info(f"Fold {idx_outer_fold}-{idx_inner_fold}: {dev_loss: .5f}")
+                if dev_loss < best_metric:
+                    best_metric = dev_loss
+                    best_name = curr_model.path_model_dir
+
+            logging.info(f"Best model: {best_name}, best loss: {best_metric: .5f}")
+            curr_model = BaselineController.from_pretrained(best_name)
+            curr_test_metrics = curr_model.evaluate(curr_test_docs)
+            curr_model.visualize()
+            for metric, metric_value in curr_test_metrics.items():
+                test_metrics[f"{metric}_p"].append(float(metric_value.precision()))
+                test_metrics[f"{metric}_r"].append(float(metric_value.recall()))
+                test_metrics[f"{metric}_f1"].append(float(metric_value.f1()))
+
+            aio_model = AllInOneModel(curr_model)
+            curr_aio_metrics = aio_model.evaluate(curr_test_docs)
+            for metric, metric_value in curr_aio_metrics.items():
+                aio_metrics[f"{metric}_p"].append(float(metric_value.precision()))
+                aio_metrics[f"{metric}_r"].append(float(metric_value.recall()))
+                aio_metrics[f"{metric}_f1"].append(float(metric_value.f1()))
+
+            eio_model = EachInOwnModel(curr_model)
+            curr_eio_metrics = eio_model.evaluate(curr_test_docs)
+            for metric, metric_value in curr_eio_metrics.items():
+                eio_metrics[f"{metric}_p"].append(float(metric_value.precision()))
+                eio_metrics[f"{metric}_r"].append(float(metric_value.recall()))
+                eio_metrics[f"{metric}_f1"].append(float(metric_value.f1()))
+
+        logging.info(f"Final baseline scores (over {OUTER_K} folds)")
+        for metric, metric_values in test_metrics.items():
+            logging.info(f"- {metric}: mean={np.mean(metric_values): .4f} +- sd={np.std(metric_values): .4f}\n"
+                         f"\t all fold scores: {metric_values}")
+
+        logging.info(f"Final all-in-one scores (over {OUTER_K} folds)")
+        for metric, metric_values in aio_metrics.items():
+            logging.info(f"- {metric}: mean={np.mean(metric_values): .4f} +- sd={np.std(metric_values): .4f}\n"
+                         f"\t all fold scores: {metric_values}")
+
+        logging.info(f"Final each-in-own scores (over {OUTER_K} folds)")
+        for metric, metric_values in eio_metrics.items():
+            logging.info(f"- {metric}: mean={np.mean(metric_values): .4f} +- sd={np.std(metric_values): .4f}\n"
+                         f"\t all fold scores: {metric_values}")
     else:
-        train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
+        logging.info(f"Using single train/dev/test split...")
+        if args.fixed_split:
+            logging.info("Using fixed dataset split")
+            train_docs, dev_docs, test_docs = fixed_split(documents, args.dataset)
+        else:
+            train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15,
+                                                              test_prop=0.15)
 
-    if not baseline.loaded_from_file:
-        # train only if it was not loaded
-        baseline.train(args.num_epochs, train_docs, dev_docs)
+        model = create_model_instance(args.model_name)
+        model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+        # Reload best checkpoint
+        model = BaselineController.from_pretrained(model.path_model_dir)
 
-    baseline.evaluate(test_docs)
+        model.evaluate(test_docs)
+        model.visualize()
 
-    aioModel = AllInOneModel(baseline)
-    aioModel.evaluate(test_docs)
-    eioModel = EachInOwnModel(baseline)
-    eioModel.evaluate(test_docs)
-
-    baseline.visualize()
+        aio_model = AllInOneModel(model)
+        aio_model.evaluate(test_docs)
+        eio_model = EachInOwnModel(model)
+        eio_model.evaluate(test_docs)
