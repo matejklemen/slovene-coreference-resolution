@@ -28,6 +28,7 @@ parser.add_argument("--combine_layers", action="store_true",
 parser.add_argument("--dataset", type=str, default="coref149")
 parser.add_argument("--pretrained_model_name_or_path", type=str, default="EMBEDDIA/crosloengual-bert")
 parser.add_argument("--freeze_pretrained", action="store_true", help="If set, disable updates to BERT layers")
+parser.add_argument("--random_seed", type=int, default=13)
 parser.add_argument("--fixed_split", action="store_true")
 parser.add_argument("--kfold_state_cache_path", type=str, default=None)
 
