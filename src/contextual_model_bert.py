@@ -430,7 +430,7 @@ if __name__ == "__main__":
                 "test_docs": [documents[_i].doc_id for _i in test_index]
             } for train_dev_index, test_index in train_test_folds]
 
-            fold_cache = KFoldStateCache(script_name="run_noncontextual_combined.py",
+            fold_cache = KFoldStateCache(script_name="contextual_model_bert.py",
                                          script_args=vars(args),
                                          main_dataset=args.dataset,
                                          additional_dataset=None,
@@ -490,23 +490,14 @@ if __name__ == "__main__":
         else:
             train_docs, dev_docs, test_docs = split_into_sets(documents, train_prop=0.7, dev_prop=0.15, test_prop=0.15)
 
-        controller = ContextualControllerBERT(model_name=args.model_name,
-                                              fc_hidden_size=args.fc_hidden_size,
-                                              dropout=args.dropout,
-                                              combine_layers=args.combine_layers,
-                                              pretrained_model_name_or_path=args.pretrained_model_name_or_path,
-                                              learning_rate=args.learning_rate,
-                                              layer_learning_rate={"lr_embedder": 2e-5} if not args.freeze_pretrained else None,
-                                              max_segment_size=args.max_segment_size,
-                                              dataset_name=args.dataset,
-                                              freeze_pretrained=args.freeze_pretrained)
-        if not controller.loaded_from_file:
-            controller.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
+        model = create_model_instance(model_name=args.model_name)
+        if not model.loaded_from_file:
+            model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
             # Reload best checkpoint
-            controller = ContextualControllerBERT.from_pretrained(controller.path_model_dir)
+            model = ContextualControllerBERT.from_pretrained(model.path_model_dir)
 
-        controller.evaluate(test_docs)
-        controller.visualize()
+        model.evaluate(test_docs)
+        model.visualize()
 
 
 
