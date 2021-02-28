@@ -2,6 +2,7 @@ import argparse
 import json
 import logging
 import os
+import sys
 from typing import Dict, Optional
 
 import numpy as np
@@ -400,6 +401,7 @@ class ContextualControllerBERT(ControllerBase):
 
 if __name__ == "__main__":
     logger = logging.getLogger()
+    logger.addHandler(logging.StreamHandler(sys.stdout))
     logger.setLevel(logging.INFO)
 
     args = parser.parse_args()

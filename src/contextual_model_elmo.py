@@ -2,6 +2,7 @@ import argparse
 import json
 import logging
 import os
+import sys
 from itertools import chain
 from typing import Optional, Dict
 
@@ -354,6 +355,7 @@ class ContextualControllerELMo(ControllerBase):
 
 if __name__ == "__main__":
     logger = logging.getLogger()
+    logger.addHandler(logging.StreamHandler(sys.stdout))
     logger.setLevel(logging.INFO)
 
     args = parser.parse_args()
