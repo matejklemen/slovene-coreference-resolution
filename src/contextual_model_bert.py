@@ -140,8 +140,7 @@ class ContextualControllerBERT(ControllerBase):
         self.scorer.train()
 
     def eval_mode(self):
-        if not self.freeze_pretrained:
-            self.embedder.eval()
+        self.embedder.eval()
         if self.combine_layers:
             self.combinator.eval()
         self.scorer.eval()
