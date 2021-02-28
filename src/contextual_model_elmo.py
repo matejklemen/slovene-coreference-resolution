@@ -29,7 +29,7 @@ parser.add_argument("--max_segment_size", type=int, default=None,
                     help="Size of nonoverlapping segments into which a document will be split, with each segment being "
                          "processed independently. By default, a segment corresponds to a single sentence.")
 parser.add_argument("--dataset", type=str, default="coref149")
-parser.add_argument("--random_seed", type=int, default=None)
+parser.add_argument("--random_seed", type=int, default=13)
 parser.add_argument("--freeze_pretrained", action="store_true")
 parser.add_argument("--fixed_split", action="store_true")
 parser.add_argument("--kfold_state_cache_path", type=str, default=None)
