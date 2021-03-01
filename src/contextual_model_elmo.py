@@ -455,7 +455,7 @@ if __name__ == "__main__":
         if not model.loaded_from_file:
             model.train(epochs=args.num_epochs, train_docs=train_docs, dev_docs=dev_docs)
             # Reload best checkpoint
-            controller = ContextualControllerELMo.from_pretrained(model.path_model_dir)
+            model = ContextualControllerELMo.from_pretrained(model.path_model_dir)
 
         model.evaluate(test_docs)
         model.visualize()
