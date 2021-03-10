@@ -33,7 +33,7 @@ class ControllerBase:
         self.path_log = os.path.join(self.path_model_dir, "log.txt")
 
         self.loaded_from_file = False
-        self._prepare()
+        # self._prepare()
 
     @property
     def model_base_dir(self):

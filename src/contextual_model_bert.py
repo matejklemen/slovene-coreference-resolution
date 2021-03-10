@@ -152,7 +152,13 @@ class ContextualControllerBERT(ControllerBase):
         with open(controller_config_path, "r", encoding="utf-8") as f_config:
             pre_config = json.load(f_config)
 
+        # If embeddings are not frozen, they are saved with the controller
+        if not pre_config["freeze_pretrained"]:
+            pre_config["pretrained_model_name_or_path"] = os.path.join(model_dir,
+                                                                       pre_config["pretrained_model_name_or_path"])
+
         instance = ContextualControllerBERT(**pre_config)
+        instance.path_model_dir = model_dir
         instance.load_checkpoint()
 
         return instance
