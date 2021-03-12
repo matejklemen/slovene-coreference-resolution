@@ -154,8 +154,7 @@ class ContextualControllerBERT(ControllerBase):
 
         # If embeddings are not frozen, they are saved with the controller
         if not pre_config["freeze_pretrained"]:
-            pre_config["pretrained_model_name_or_path"] = os.path.join(model_dir,
-                                                                       pre_config["pretrained_model_name_or_path"])
+            pre_config["pretrained_model_name_or_path"] = model_dir
 
         instance = ContextualControllerBERT(**pre_config)
         instance.path_model_dir = model_dir
