@@ -375,7 +375,7 @@ if __name__ == "__main__":
                                         learning_rate=override_kwargs.get("learning_rate", args.learning_rate),
                                         max_segment_size=override_kwargs.get("max_segment_size", args.max_segment_size),
                                         layer_learning_rate={
-                                            "lr_embedder": 10e-4} if not args.freeze_pretrained else None,
+                                            "lr_embedder": 10e-5} if not args.freeze_pretrained else None,
                                         dataset_name=override_kwargs.get("dataset", args.dataset))
 
     # Train model
