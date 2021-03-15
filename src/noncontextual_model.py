@@ -203,6 +203,9 @@ class NoncontextualController(ControllerBase):
         return instance
 
     def save_pretrained(self, model_dir):
+        if not os.path.exists(model_dir):
+            os.makedirs(model_dir)
+
         # Write vocabulary by ascending token ID, writing down gap tokens as `[unused<i>]`
         vocab_path = os.path.join(model_dir, "vocab.txt")
         with open(vocab_path, "w", encoding="utf-8") as f_vocab:
