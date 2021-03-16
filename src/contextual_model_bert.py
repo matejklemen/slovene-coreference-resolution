@@ -349,7 +349,7 @@ class ContextualControllerBERT(ControllerBase):
 
         # embedded_segments: [num_segments, max_segment_size + 3, embedding_size]
         if self.combine_layers:
-            embedded_segments = torch.stack(embedded_segments["hidden_states"][-4:])
+            embedded_segments = torch.stack(embedded_segments["hidden_states"][-12:])
             embedded_segments, layer_weights = self.combinator(embedded_segments)
         else:
             embedded_segments = embedded_segments["last_hidden_state"]
