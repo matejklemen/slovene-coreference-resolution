@@ -105,9 +105,10 @@ class Token:
         self.position_in_sentence = position_in_sentence
         self.position_in_document = position_in_document
 
-        self.gender = self._extract_gender(msd)
-        self.number = self._extract_number(msd)
-        self.category = msd[0]
+        if msd is not None:
+            self.gender = self._extract_gender(msd)
+            self.number = self._extract_number(msd)
+            self.category = msd[0]
 
     def __str__(self):
         return f"Token(\"{self.raw_text}\")"
