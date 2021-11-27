@@ -356,6 +356,7 @@ class ContextualControllerBERT(ControllerBase):
 
         doc_loss, n_examples = 0.0, len(cache["steps"])
         preds = {}
+        probs = {}
 
         for curr_step in cache["steps"]:
             head_id = curr_step["head_id"]
@@ -369,6 +370,7 @@ class ContextualControllerBERT(ControllerBase):
             num_candidates = len(candidates)
             if num_candidates == 1:
                 curr_pred = 0
+                curr_pred_prob = 1
             else:
                 idx_segment = candidate_data[:, 0, :]
                 idx_in_segment = candidate_data[:, 1, :]
@@ -387,6 +389,9 @@ class ContextualControllerBERT(ControllerBase):
                 candidate_scores = torch.cat((torch.tensor([0.0], device=DEVICE),
                                               candidate_scores.flatten())).unsqueeze(0)
 
+                candidate_probabilities = torch.softmax(candidate_scores, dim=-1)
+                curr_pred_prob = torch.max(candidate_probabilities).item()
+
                 curr_pred = torch.argmax(candidate_scores)
                 doc_loss += self.loss(candidate_scores.repeat((len(correct_antecedents), 1)),
                                       torch.tensor(correct_antecedents, device=DEVICE))
@@ -396,12 +401,15 @@ class ContextualControllerBERT(ControllerBase):
             existing_refs.append(head_id)
             preds[candidates[int(curr_pred)]] = existing_refs
 
+            # { mention: probability } pair
+            probs[head_id] = curr_pred_prob
+
         if not eval_mode:
             doc_loss.backward()
             self.optimizer.step()
             self.optimizer.zero_grad()
 
-        return preds, (float(doc_loss), n_examples)
+        return preds, (float(doc_loss), n_examples), probs
 
 
 if __name__ == "__main__":
