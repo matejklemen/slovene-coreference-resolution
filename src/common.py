@@ -90,7 +90,12 @@ class ControllerBase:
             for idx_doc in tqdm(shuffle_indices):
                 curr_doc = train_docs[idx_doc]
 
-                _, (doc_loss, n_examples) = self._train_doc(curr_doc)
+                res = self._train_doc(curr_doc)
+                # Some models additionally return probas, some do not
+                if len(res) == 3:
+                    _, (doc_loss, n_examples), _ = self._train_doc(curr_doc)
+                else:
+                    _, (doc_loss, n_examples) = self._train_doc(curr_doc)
 
                 train_loss += doc_loss
                 train_examples += n_examples
@@ -98,7 +103,12 @@ class ControllerBase:
             self.eval_mode()
             dev_loss, dev_examples = 0.0, 0
             for curr_doc in dev_docs:
-                _, (doc_loss, n_examples) = self._train_doc(curr_doc, eval_mode=True)
+                res = self._train_doc(curr_doc, eval_mode=True)
+                # Some models additionally return probas, some do not
+                if len(res) == 3:
+                    _, (doc_loss, n_examples), _ = self._train_doc(curr_doc)
+                else:
+                    _, (doc_loss, n_examples) = self._train_doc(curr_doc)
 
                 dev_loss += doc_loss
                 dev_examples += n_examples
@@ -133,6 +143,23 @@ class ControllerBase:
             ])
 
         return best_dev_loss
+
+    def evaluate_single(self, document):
+        # doc_name: <cluster assignments> pairs for all test documents
+        logging.info("Evaluating a single document...")
+
+        res = self._train_doc(document, eval_mode=True)
+
+        # Some models additionally return probas, some do not
+        if len(res) == 3:
+            predictions, _, probabilities = res
+        else:
+            predictions, _ = res
+
+        clusters = get_clusters(predictions)
+        scores = {m: probabilities[m] for m in clusters.keys()}
+
+        return { "predictions": predictions, "clusters": clusters, "scores": scores }
 
     @torch.no_grad()
     def evaluate(self, test_docs):
