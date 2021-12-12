@@ -1,23 +1,19 @@
 # Slovene coreference resolution
+Code to run the experiments, presented in the paper **Neural coreference resolution for Slovene language**.
 
-Slovene coreference resolution project introduces four models for coreference resolution on coref149 and senticoref datasets:
+In the paper, we analyze coreference resolution systems on two Slovene datasets, _coref149_ (small) and 
+_SentiCoref 1.0_ (bigger). We also provide a detailed description of the latter as this is the first 
+analysis on it.  
+We explore the following models:
+- a simple linear baseline with hand-crafted features from existing literature,
+- non-contextual word embeddings (word2vec and fastText),
+- contextual ELMo embeddings,
+- contextual BERT embeddings (trilingual and multilingual BERT).
 
-- baseline model (linear regression with hand-crafted features),
-- non-contextual neural model using word2vec embeddings,
-- contextual neural model using ELMo embeddings,
-- contextual neural model using BERT embeddings.
+**Limitations:** Note that we consider only the coreference resolution task, i.e. we assume the mentions are detected in advance and provided.
 
-For more details, [see the report paper](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/report/Coreference_resolution_approaches_for_Slovene_language.pdf).
-
-## Run it in Google Colaboratory
-
-Easiest way to run this project is opening and running the [prepared notebook in Google Colab](https://colab.research.google.com/github/matejklemen/slovene-coreference-resolution/blob/master/report/Slovene_coreference_resolution.ipynb). Notebook also contains a [download link for pre-trained models](https://drive.google.com/open?id=15xKYqSy5WgedFIPGP-HZz7YVmZa6oKg_) and examples how to run them for evaluation.
-
-## Project structure
-
-- `report/` contains the pdf of our work.
-- `src/` contains the source code of our work.
-- `data/` is a placeholder for datasets (see _Getting datasets_ section below).
+For more details, [see the journal paper](https://doi.org/10.2298/CSIS201120060K),
+to appear in Computer Science and Information Systems (ComSIS).
 
 ## Setup
 
@@ -26,19 +22,33 @@ Before doing anything, the dependencies need to be installed.
 $ pip install -r requirements.txt
 ```
 
-**Note**: if you have problems with `torch` library, make sure you have python x64 installed. Also make use of 
-[this](https://pytorch.org/get-started/locally/#start-locally) official command builder.
-
-**Notes**: you might have problems running contextual models on Windows since [allennlp](https://github.com/allenai/allennlp#installation) is not officialy supported on Windows, as noted in their README.
+**Note**: you might have problems running the ELMo contextual models on Windows since [allennlp](https://github.com/allenai/allennlp#installation) is not officialy supported on Windows, as noted in their README.
 
 ### Getting datasets
 
 The project operates with the following datasets: 
 - [SSJ500k](https://www.clarin.si/repository/xmlui/handle/11356/1210) (`-sl.TEI` version), 
-- [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182)
-- [sentiCoref 1.0](https://www.clarin.si/repository/xmlui/handle/11356/1285) ([WebAnno TSV 3.2 File format docs](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/WebAnno%20(GitHub)%20(master)/de.tudarmstadt.ukp.clarin.webanno$webanno-webapp/doclinks/1/#sect_webannotsv)).
+- [coref149](https://www.clarin.si/repository/xmlui/handle/11356/1182),
+- [sentiCoref 1.0](https://www.clarin.si/repository/xmlui/handle/11356/1285).
 
-Download and extract them into `data/` folder. After that, your data folder should look like this:
+Download and extract them into `data/` folder. 
+```shell
+$ cd data/
+$ # COREF149
+$ wget https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1182/coref149_v1.0.zip
+$ unzip -q coref149_v1.0.zip -d coref149
+$ rm coref149_v1.0.zip
+$ # ssj500k
+$ wget https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1210/ssj500k-sl.TEI.zip
+$ unzip -q ssj500k-sl.TEI.zip
+$ rm ssj500k-sl.TEI.zip
+$ # SentiCoref 1.0
+$ wget https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1285/SentiCoref_1.0.zip
+$ unzip -q SentiCoref_1.0.zip -d senticoref1_0
+$ rm SentiCoref_1.0.zip
+```
+
+After that, your data folder should look like this:
 ```
 data/
 +-- ssj500k-sl.TEI
@@ -56,44 +66,69 @@ data/
     +-- ... (list of .tsv files)
 ```
 
-Coref149 and SentiCoref are the main datasets we use. 
-
-SSJ500k is used for additional metadata such as dependencies and POS tags, which are not provided by coref149 itself.
+_coref149_ and _SentiCoref 1.0_ are the main datasets we use.
+_ssj500k_ is used for additional metadata such as POS tags, which are not provided by coref149 itself.
 
 Since only a subset of SSJ500k is used, it can be trimmed to decrease its size and improve loading time. 
 To do that, run `trim_ssj.py`:
 ```bash
+$ # assuming current directory is 'data/'
+$ cd ..
 $ python src/trim_ssj.py --coref149_dir=data/coref149 --ssj500k_path=data/ssj500k-sl.TEI/ssj500k-sl.body.xml --target_path=data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml
 ```
 
-If `target_path` parameter is not provided, the above command would produce 
+If `target_path` parameter is not provided, the above command will produce 
 `data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml`.
 
+### Getting embeddings
 If you want to use pretrained embeddings in non-contextual coreference model, make sure to download the Slovene
 - word2vec vectors (`Word2Vec Continuous Skipgram`) from http://vectors.nlpl.eu/repository/ and/or
-- fastText vectors (`bin`) from https://fasttext.cc/docs/en/crawl-vectors.html (not used in the paper but supported)
+- fastText vectors (`bin`) from https://fasttext.cc/docs/en/crawl-vectors.html
 
 Put them into `data/` (either the `cc.sl.300.bin` file for fastText or the `model.txt` file for word2vec).
+```shell
+$ cd data/
+$ # word2vec
+$ mkdir word2vec
+$ wget http://vectors.nlpl.eu/repository/20/67.zip
+$ unzip -q 67.zip -d word2vec/
+$ rm 67.zip
+$ # fastText
+$ wget https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.sl.300.bin.gz
+$ gunzip cc.sl.300.bin.gz
+$ rm cc.sl.300.bin.gz
+```
+
+**IMPORTANT**: to train a model based on fastText, you need to run `reduce_fasttext.py`, which reduces the 
+size of downloaded embeddings by only keeping word vectors to be used in datasets in advance.
+
 
 For the contextual coreference model, make sure to download the pretrained Slovene ELMo embeddings from 
 https://www.clarin.si/repository/xmlui/handle/11356/1277. 
 Extract the options file and the weight file into `data/slovenian-elmo`.
+```shell
+$ # assuming current directory is 'data/'
+$ wget https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1277/slovenian-elmo.tar.gz
+$ tar -xvzf slovenian-elmo.tar.gz
+$ mv slovenian slovenian-elmo
+$ rm slovenian-elmo.tar.gz
+```
+
+The BERT contextual embeddings will be downloaded automatically on the first run.
 
 
 ## Running the project
 
-Before running anything, make sure to set `DATA_DIR` and `SSJ_PATH` parameters in `src/data.py` file (if the paths to 
-where your datasets are stored differ in your setup).
+Below are examples how to run each model. First, move into the `src/` directory:
+```shell
+$ # assuming current directory is 'data/'
+$ cd ../src
+```
 
-Below are examples how to run each model.
-
-Parameters and it's default values can be previewed at the top of each model's file.
-
-`--dataset` parameter can be either `coref149` or `senticoref`.
+Parameters and their default values can be previewed with the `--help` flag. 
+`--dataset` can be either `coref149` or `senticoref`.
 
 ### Baseline model
-
-[Baseline model (linear regression with hand-crafted features)](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/baseline.py)
 
 ```bash
 $ python baseline.py \
@@ -106,8 +141,6 @@ $ python baseline.py \
 
 ### Non-contextual model
 
-[Non-contextual_model with word2vec embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/noncontextual_model.py)
-
 ```bash
 $ python noncontextual_model.py \
     --model_name="my_noncontextual_model" \
@@ -115,15 +148,14 @@ $ python noncontextual_model.py \
     --dropout="0.0" \
     --learning_rate="0.001" \
     --dataset="coref149" \
-    --embedding_size="100" \
+    --embedding_size=100 \
     --use_pretrained_embs="word2vec" \
+    --embedding_path="../data/word2vec/model.txt" \
     --freeze_pretrained \
     --fixed_split
 ```
 
 ### Contextual model (ELMo)
-
-[Contextual model with ELMo embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/contextual_model_elmo.py)
 
 ```bash
 $ python contextual_model_elmo.py \
@@ -139,8 +171,6 @@ $ python contextual_model_elmo.py \
 
 ### Contextual model (BERT)
 
-[Contextual model with BERT embeddings](https://github.com/matejklemen/slovene-coreference-resolution/blob/master/src/contextual_model_bert.py)
-
 ```bash
 $ python contextual_model_bert.py \
     --model_name="my_bert_model" \
@@ -153,5 +183,5 @@ $ python contextual_model_bert.py \
     --fixed_split
 ```
 
-## License
+
 

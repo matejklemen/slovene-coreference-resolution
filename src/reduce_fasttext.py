@@ -19,11 +19,20 @@ import torch
 from src.data import read_corpus
 from fasttext import load_model
 
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--fasttext_path", type=str,
+                    default="/home/matej/Documents/projects/slovene-coreference-resolution/data/cc.sl.300.bin")
+parser.add_argument("--embedding_dim", type=int,
+                    default=300)
+
 if __name__ == "__main__":
+    args = parser.parse_args()
     documents = read_corpus("coref149") + read_corpus("senticoref")
 
-    model = load_model("/home/matej/Documents/projects/slovene-coreference-resolution/data/cc.sl.100.bin")
-    EMBEDDING_DIM = 100
+    model = load_model(args.fasttext_path)
+    EMBEDDING_DIM = args.embedding_dim
     TARGET_DIR = f"ft_sl_reduced{EMBEDDING_DIM}"
 
     word2subwords = {}
