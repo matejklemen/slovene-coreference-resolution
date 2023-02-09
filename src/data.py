@@ -1,6 +1,9 @@
 import os
 import logging
 import csv
+from copy import deepcopy
+from typing import Dict
+
 import pandas as pd
 from collections import OrderedDict
 
@@ -15,6 +18,7 @@ DUMMY_ANTECEDENT = None
 # Use path "../data/*" if you are running from src folder, i.e. (cd src) and then (python baseline.py)
 COREF149_DIR = os.environ.get("COREF149_DIR", "../data/coref149")
 SENTICOREF_DIR = os.environ.get("SENTICOREF149_DIR", "../data/senticoref1_0")
+SENTICOREF_SUK_PATH = os.environ.get("SENTICOREF_SUK_DIR", "../data/senticoref_suk/senticoref.xml")
 SENTICOREF_METADATA_DIR = "../data/senticoref_pos_stanza"
 SSJ_PATH = os.environ.get("SSJ_PATH", "../data/ssj500k-sl.TEI/ssj500k-sl.body.reduced.xml")
 
@@ -273,6 +277,123 @@ def read_senticoref_doc(file_path):
     return Document(doc_id, final_tokens, sents, sorted_mentions_dict(mentions), clusters, metadata=metadata)
 
 
+def recursively_parse_el(el_tag, opened_mentions: list = None) -> Dict:
+    eff_opened_mentions = opened_mentions if opened_mentions is not None else []
+    id_words, words, lemmas, msds = [], [], [], []
+    mention_to_id_word = {}
+
+    if el_tag.name in {"w", "pc"}:
+        id_word = el_tag["xml:id"]
+        word_str = el_tag.text.strip()
+        lemma_str = el_tag["lemma"]
+        msd_str = el_tag["ana"]
+
+        id_words.append(id_word)
+        words.append(word_str)
+        lemmas.append(lemma_str)
+        msds.append(msd_str)
+
+        for _id in eff_opened_mentions:
+            _existing = mention_to_id_word.get(_id, [])
+            _existing.append(id_word)
+
+            mention_to_id_word[_id] = _existing
+
+    # Named entity or some other type of coreference mention
+    elif el_tag.name == "seg":
+
+        # The mentions can be nested multiple levels, keep track of all mentions at current or shallower level
+        id_mention = el_tag["xml:id"]
+        _opened_copy = deepcopy(eff_opened_mentions)
+        _opened_copy.append(id_mention)
+
+        for _child in el_tag:
+            _res = recursively_parse_el(_child, opened_mentions=_opened_copy)
+
+            id_words.extend(_res["id_words"])
+            words.extend(_res["words"])
+            lemmas.extend(_res["lemmas"])
+            msds.extend(_res["msds"])
+
+            for _id_mention, _id_words in _res["mentions"].items():
+                _existing = mention_to_id_word.get(_id_mention, [])
+                _existing.extend(_id_words)
+                mention_to_id_word[_id_mention] = _existing
+
+    return {"id_words": id_words, "words": words, "lemmas": lemmas, "msds": msds, "mentions": mention_to_id_word}
+
+
+def parse_sent(sent_tag):
+    sent_info = {
+        "id_words": [], "words": [], "lemmas": [], "msds": [],
+        "mentions": {}
+    }
+
+    for el in sent_tag:
+        if el.name is None:
+            continue
+        elif el.name.lower() == "linkgrp":
+            # Parse coreference clusters later, outside of this function
+            continue
+
+        res = recursively_parse_el(el)
+        sent_info["id_words"].extend(res["id_words"])
+        sent_info["words"].extend(res["words"])
+        sent_info["lemmas"].extend(res["lemmas"])
+        sent_info["msds"].extend(res["msds"])
+        sent_info["mentions"].update(res["mentions"])
+
+    return sent_info
+
+
+def read_senticoref_suk_docs(file_path):
+    logging.info(f"Reading SentiCoref(SUK) from '{file_path}'")
+    with open(file_path, encoding="utf8") as f:
+        content = f.readlines()
+        content = "".join(content)
+        soup = BeautifulSoup(content, "lxml")
+
+    created_docs = []
+    for doc in soup.find("div").findAll("div"):
+        pos_in_doc = 0
+        id2str, id2token, id2mention = {}, OrderedDict(), {}
+        sent_word_ids = []  # sentences of a document (list of list of word IDs)
+        for idx_sent, sent in enumerate(doc.findAll("s")):
+            sent_data = parse_sent(sent)
+            sent_word_ids.append(sent_data["id_words"])
+            for pos_in_sent, (id_token, word_str, lemma_str, msd_str) in enumerate(zip(sent_data["id_words"],
+                                                                                       sent_data["words"],
+                                                                                       sent_data["lemmas"],
+                                                                                       sent_data["msds"])):
+                id2str[id_token] = word_str
+                id2token[id_token] = Token(id_token, word_str, lemma_str, msd_str, sentence_index=idx_sent,
+                                           position_in_sentence=pos_in_sent, position_in_document=pos_in_doc)
+                pos_in_doc += 1
+
+            for id_mention, id_words in sent_data["mentions"].items():
+                id2mention[id_mention] = Mention(id_mention, [id2token[_id] for _id in id_words])
+
+        unique_clusters = OrderedDict()
+        for link_group in doc.findAll("linkgrp", {"type": "COREF"}, recursive=True):
+            for link in link_group.findAll("link"):
+                cluster = tuple(map(lambda _s: _s[1:], link["target"].split(" ")))
+
+                unique_clusters[cluster] = None
+
+        doc_clusters = []
+        for cluster in unique_clusters:
+            doc_clusters.append(list(cluster))
+            for id_mention in cluster:
+                if id_mention not in id2mention:
+                    # Mention is a regular token
+                    id2mention[id_mention] = Mention(id_mention, [id2token[id_mention]])
+
+        created_docs.append(Document(doc_id=doc["xml:id"], tokens=id2token, sentences=sent_word_ids, mentions=id2mention,
+                                     clusters=doc_clusters))
+
+    return created_docs
+
+
 def read_coref149_doc(file_path, ssj_doc):
     with open(file_path, encoding="utf8") as f:
         content = f.readlines()
@@ -340,7 +461,7 @@ def read_coref149_doc(file_path, ssj_doc):
 
 
 def read_corpus(name):
-    SUPPORTED_DATASETS = {"coref149", "senticoref"}
+    SUPPORTED_DATASETS = {"coref149", "senticoref", "senticoref_suk"}
     if name not in SUPPORTED_DATASETS:
         raise ValueError(f"Unsupported dataset (must be one of {SUPPORTED_DATASETS})")
 
@@ -357,6 +478,10 @@ def read_corpus(name):
         doc_ids = [f[:-4] for f in os.listdir(COREF149_DIR)
                    if os.path.isfile(os.path.join(COREF149_DIR, f)) and f.endswith(".tcf")]
         return [read_coref149_doc(os.path.join(COREF149_DIR, f"{curr_id}.tcf"), doc_to_soup[curr_id]) for curr_id in doc_ids]
+
+    elif name == "senticoref_suk":
+        return read_senticoref_suk_docs(SENTICOREF_SUK_PATH)
+
     else:
         doc_ids = [f[:-4] for f in os.listdir(SENTICOREF_DIR)
                    if os.path.isfile(os.path.join(SENTICOREF_DIR, f)) and f.endswith(".tsv")]

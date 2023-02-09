@@ -17,8 +17,8 @@ from data import read_corpus, Document
 from utils import split_into_sets, fixed_split, KFoldStateCache
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--model_name", type=str, default=None)
-parser.add_argument("--fc_hidden_size", type=int, default=150)
+parser.add_argument("--model_name", type=str, default="cseb_senticoref_suk")
+parser.add_argument("--fc_hidden_size", type=int, default=1024)
 parser.add_argument("--dropout", type=float, default=0.2)
 parser.add_argument("--learning_rate", type=float, default=0.001)
 parser.add_argument("--num_epochs", type=int, default=10)
@@ -26,7 +26,7 @@ parser.add_argument("--max_segment_size", type=int, default=256)
 parser.add_argument("--combine_layers", action="store_true",
                     help="Flag to determine if the sequence embeddings should be a learned combination of all "
                          "BERT hidden layers")
-parser.add_argument("--dataset", type=str, default="coref149")
+parser.add_argument("--dataset", type=str, default="senticoref_suk")
 parser.add_argument("--pretrained_model_name_or_path", type=str, default="EMBEDDIA/crosloengual-bert")
 parser.add_argument("--freeze_pretrained", action="store_true", help="If set, disable updates to BERT layers")
 parser.add_argument("--random_seed", type=int, default=13)
@@ -370,7 +370,7 @@ class ContextualControllerBERT(ControllerBase):
             num_candidates = len(candidates)
             if num_candidates == 1:
                 curr_pred = 0
-                curr_pred_prob = 1
+                curr_pred_prob = 1.0
             else:
                 idx_segment = candidate_data[:, 0, :]
                 idx_in_segment = candidate_data[:, 1, :]
