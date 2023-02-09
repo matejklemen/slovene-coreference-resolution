@@ -182,8 +182,8 @@ class ControllerBase:
         ceaf_score = metrics.Score()
 
         for curr_doc in tqdm(test_docs):
-
-            test_preds, _ = self._train_doc(curr_doc, eval_mode=True)
+            res = self._train_doc(curr_doc, eval_mode=True)
+            test_preds = res[0]
             test_clusters = get_clusters(test_preds)
 
             # Save predicted clusters for this document id
